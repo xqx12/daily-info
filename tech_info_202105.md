@@ -112,6 +112,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210512T12:23:09Z | Fuzzy matching for Neovim | https://github.com/amirrezaask/fuzzy.nvim | 38 | 1| 
 | 20210512T12:12:30Z | Setup scripts for 32bit JavaScriptCore Fuzzing Setup | https://github.com/pmatos/jsc32-fuzz-setup | 0 | 0| 
 | 20210512T12:09:11Z | These are the scripts & methodologies that can be used in Buffer Over Flow Fuzzing and Exploitation | https://github.com/IamLucif3r/Buffer-Overflow | 1 | 0| 
 | 20210512T11:35:57Z | My Master Thesis Project for Fuzzy Logic Control System on Raspberry Pi 4 with Python PL | https://github.com/Yerlan999/FuzzyLogic_Control_on_RaspberryPi | 0 | 0| 
@@ -121,7 +122,6 @@
 | 20210512T10:36:23Z | PoC of fuzzing closed-source userspace binaries with KVM | https://github.com/klecko/kvm-fuzz | 63 | 5| 
 | 20210512T10:35:51Z | Null | https://github.com/mmunar97/discrete-fuzzy-operators | 0 | 0| 
 | 20210512T10:35:15Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 297 | 17| 
-| 20210512T10:19:21Z | Upgrade yarn dependencies to latest with fuzzy matching | https://github.com/AndrewLeedham/yarn-upgrade-fuzzy | 0 | 0| 
 
 
 
