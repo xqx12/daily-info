@@ -82,7 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210512T00:40:56Z | Null | https://github.com/1SolAqua/Loli-X-Exploit | 0 | 0| 
+| 20210512T00:44:31Z | Null | https://github.com/1SolAqua/Loli-X-Exploit | 0 | 0| 
 | 20210512T00:02:58Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
 | 20210511T23:14:18Z | Search for sensitive information within ASCII files during post exploitation activities in a Windows environment. | https://github.com/captaininappropriate/WSIS | 0 | 0| 
 | 20210511T23:01:59Z | A collection of more than 140+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 651 | 157| 
