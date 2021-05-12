@@ -36,7 +36,7 @@
 | 20210512T09:09:58Z | CVE-2021-22204 | Null | https://github.com/se162xg/CVE-2021-22204 | 未查询到CVE信息| 
 | 20210512T09:09:38Z | 未知编号 | Null | https://github.com/Magicsmx/CVE-2020.6_2021.3 | 未查询到CVE信息| 
 | 20210512T01:51:10Z | CVE-2020-5013 | PoC for exploiting CVE-2020-5013 | https://github.com/JamesGeee/CVE-2020-5013 | 未查询到CVE信息| 
-| 20210512T01:51:06Z | CVE-2020-4993 | PoC for exploiting CVE-2020-4993 | https://github.com/JamesGeee/CVE-2020-4993 | 未查询到CVE信息| 
+| 20210512T01:51:06Z | CVE-2020-4993 | PoC for exploiting CVE-2020-4993 | https://github.com/JamesGeee/CVE-2020-4993 | | 
 | 20210512T01:50:52Z | CVE-2020-4932 | PoC for exploiting CVE-2020-4932 | https://github.com/JamesGeee/CVE-2020-4932 | 未查询到CVE信息| 
 | 20210512T01:50:43Z | CVE-2020-4979 | PoC for exploiting CVE-2020-4979 | https://github.com/JamesGeee/CVE-2020-4979 | 未查询到CVE信息| 
 | 20210512T01:50:40Z | CVE-2020-4883 | PoC for exploiting CVE-2020-4883 | https://github.com/JamesGeee/CVE-2020-4883 | 未查询到CVE信息| 
