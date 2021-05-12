@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210512T01:10:18Z | CVE-2021-30461 | CVE-2021-30461 | https://github.com/Al1ex/CVE-2021-30461 | | 
-| 20210511T23:57:50Z | CVE-2020-8813 | Null | https://github.com/m4udSec/Cacti-CVE-2020-8813 | graph_realtime.php in Cacti 1.2.8 allows remote attackers to execute arbitrary OS commands via shell metacharacters in a cookie, if a guest user has the graph real-time privilege.| 
+| 20210512T01:10:18Z | CVE-2021-30461 | CVE-2021-30461 | https://github.com/Al1ex/CVE-2021-30461 | 未查询到CVE信息| 
+| 20210511T23:57:50Z | CVE-2020-8813 | Null | https://github.com/m4udSec/Cacti-CVE-2020-8813 | | 
 | 20210511T22:12:53Z | CVE-2021-28269 | PoC for exploiting CVE-2021-28269 | https://github.com/JamesGeee/CVE-2021-28269 | Soyal Technology 701Client 9.0.1 is vulnerable to Insecure permissions via client.exe binary with Authenticated Users group with Full permissions.| 
 | 20210511T22:12:36Z | CVE-2021-30642 | PoC for exploiting CVE-2021-30642 | https://github.com/JamesGeee/CVE-2021-30642 | An input validation flaw in the Symantec Security Analytics web UI 7.2 prior 7.2.7, 8.1, prior to 8.1.3-NSR3, 8.2, prior to 8.2.1-NSR2 or 8.2.2 allows a remote, unauthenticated attacker to execute arbitrary OS commands on the target with elevated privileges.| 
 | 20210511T22:12:33Z | CVE-2021-30502 | PoC for exploiting CVE-2021-30502 | https://github.com/JamesGeee/CVE-2021-30502 | The unofficial vscode-ghc-simple (aka Simple Glasgow Haskell Compiler) extension before 0.2.3 for Visual Studio Code allows remote code execution via a crafted workspace configuration with replCommand.| 
@@ -112,7 +112,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210512T01:39:08Z | Coding practice for HTML/CSS/anything else web based | https://github.com/FuzzyPumpkin/FuzzyPumpkin.github.io | 5 | 1| 
+| 20210512T01:40:32Z | Coding practice for HTML/CSS/anything else web based | https://github.com/FuzzyPumpkin/FuzzyPumpkin.github.io | 5 | 1| 
 | 20210512T01:20:31Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 1 | 1| 
 | 20210512T01:17:42Z | Fast fuzzy search utility | https://github.com/EthanRutherford/fast-fuzzy | 27 | 3| 
 | 20210512T01:09:55Z | Fuzzy matching for Neovim | https://github.com/amirrezaask/fuzzy.nvim | 38 | 1| 
