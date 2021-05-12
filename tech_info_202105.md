@@ -82,6 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210512T12:09:11Z | These are the scripts & methodologies that can be used in Buffer Over Flow Fuzzing and Exploitation | https://github.com/IamLucif3r/Buffer-Overflow | 1 | 0| 
 | 20210512T12:06:45Z | Null | https://github.com/SickDev803/ParalyzedExploit | 0 | 0| 
 | 20210512T12:02:41Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
 | 20210512T12:01:23Z | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | 309 | 51| 
@@ -91,7 +92,6 @@
 | 20210512T10:49:45Z | The ultimate archive of Wii homebrew! | https://github.com/speediegamer/revolutionarchive | 0 | 0| 
 | 20210512T10:47:49Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 461 | 84| 
 | 20210512T10:06:47Z | Cloud C2 Framework, which at the moment offers reconnaissance, enumeration, exploitation, post exploitation on AWS, but still working to allow testing other Cloud Providers and DevOps Components. | https://github.com/gl4ssesbo1/Nebula | 79 | 11| 
-| 20210512T09:29:07Z | DNN-Ensemble IDS is a machine learning based classification model for intrusion detection exploiting ensembles of classifiers. | https://github.com/massimo-guarascio/dnn_ensemble_ids | 0 | 0| 
 
 
 # backdoor on Github 推荐
