@@ -47,15 +47,15 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210512T12:18:52Z | CVE-2020-28502 | CVE-2020-28502 node-XMLHttpRequest RCE | https://github.com/s-index/CVE-2020-28502 | This affects the package xmlhttprequest before 1.7.0; all versions of package xmlhttprequest-ssl. Provided requests are sent synchronously (async=False on xhr.open), malicious user input flowing into xhr.send could result in arbitrary code being injected and run.| 
-| 20210512T12:01:23Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | | 
+| 20210512T12:01:23Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210512T09:09:58Z | CVE-2021-22204 | Null | https://github.com/se162xg/CVE-2021-22204 | Improper neutralization of user data in the DjVu file format in ExifTool versions 7.44 and up allows arbitrary code execution when parsing the malicious image| 
-| 20210512T09:09:38Z | 未知编号 | Null | https://github.com/Magicsmx/CVE-2020.6_2021.3 | | 
+| 20210512T09:09:38Z | 未知编号 | Null | https://github.com/Magicsmx/CVE-2020.6_2021.3 | 未查询到CVE信息| 
 | 20210512T01:51:10Z | CVE-2020-5013 | PoC for exploiting CVE-2020-5013 | https://github.com/JamesGeee/CVE-2020-5013 | IBM QRadar SIEM 7.3 and 7.4 may vulnerable to a XML External Entity Injection (XXE) attack when processing XML data. A remote attacker could exploit this vulnerability to expose sensitive information or consume memory resources. IBM X-Force ID: 193245.| 
 | 20210512T01:51:06Z | CVE-2020-4993 | PoC for exploiting CVE-2020-4993 | https://github.com/JamesGeee/CVE-2020-4993 | IBM QRadar SIEM 7.3 and 7.4 when decompressing or verifying signature of zip files processes data in a way that may be vulnerable to path traversal attacks. IBM X-Force ID: 192905.| 
 | 20210512T01:50:52Z | CVE-2020-4932 | PoC for exploiting CVE-2020-4932 | https://github.com/JamesGeee/CVE-2020-4932 | IBM QRadar SIEM 7.3 and 7.4 contains hard-coded credentials, such as a password or cryptographic key, which it uses for its own inbound authentication, outbound communication to external components, or encryption of internal data. IBM X-Force ID: 191748.| 
 | 20210512T01:50:43Z | CVE-2020-4979 | PoC for exploiting CVE-2020-4979 | https://github.com/JamesGeee/CVE-2020-4979 | IBM QRadar SIEM 7.3 and 7.4 is vulnerable to insecure inter-deployment communication. An attacker that is able to comprimise or spoof traffic between hosts may be able to execute arbitrary commands. IBM X-Force D: 192538.| 
 | 20210512T01:50:40Z | CVE-2020-4883 | PoC for exploiting CVE-2020-4883 | https://github.com/JamesGeee/CVE-2020-4883 | IBM QRadar SIEM 7.3 and 7.4 could disclose sensitive information about other domains which could be used in further attacks against the system. IBM X-Force ID: 190907.| 
-| 20210512T01:50:37Z | CVE-2020-4929 | PoC for exploiting CVE-2020-4929 | https://github.com/JamesGeee/CVE-2020-4929 | | 
+| 20210512T01:50:37Z | CVE-2020-4929 | PoC for exploiting CVE-2020-4929 | https://github.com/JamesGeee/CVE-2020-4929 | IBM QRadar SIEM 7.3 and 7.4 is vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 191706.| 
 
 
 # klee on Github 推荐
@@ -82,6 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210512T12:50:10Z | A search engine on information delivered by OSINT sources to support Vulnerability Assessment | https://github.com/antonioforte1995/ISEV | 4 | 0| 
 | 20210512T12:41:15Z | A simple btc exchange written in DJango that exploits MongoDB through DJongo. | https://github.com/lucagobbi/bitfinis | 0 | 0| 
 | 20210512T12:40:54Z | PoC List | https://github.com/s-index/poc-list | 4 | 0| 
 | 20210512T12:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9418 | 1520| 
@@ -91,7 +92,6 @@
 | 20210512T12:02:41Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
 | 20210512T12:01:23Z | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | 309 | 51| 
 | 20210512T11:32:44Z | My course work about basic binary exploitation.🤿 | https://github.com/whatsyourask/basics-of-pwn | 1 | 1| 
-| 20210512T11:30:39Z | A Python program implementing and exploiting the Minsky Turing machine considered in the paper %Intrinsic Propensity for Vulnerability in Computers? Arbitrary Code Execution in the Universal Turing Machine% | https://github.com/intrinsic-propensity/turing-machine | 25 | 1| 
 
 
 # backdoor on Github 推荐
