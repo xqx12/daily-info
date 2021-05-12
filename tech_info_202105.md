@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210512T01:50:43Z | CVE-2020-4979 | PoC for exploiting CVE-2020-4979 | https://github.com/JamesGeee/CVE-2020-4979 | IBM QRadar SIEM 7.3 and 7.4 is vulnerable to insecure inter-deployment communication. An attacker that is able to comprimise or spoof traffic between hosts may be able to execute arbitrary commands. IBM X-Force D: 192538.| 
+| 20210512T01:50:40Z | CVE-2020-4883 | PoC for exploiting CVE-2020-4883 | https://github.com/JamesGeee/CVE-2020-4883 | IBM QRadar SIEM 7.3 and 7.4 could disclose sensitive information about other domains which could be used in further attacks against the system. IBM X-Force ID: 190907.| 
+| 20210512T01:50:37Z | CVE-2020-4929 | PoC for exploiting CVE-2020-4929 | https://github.com/JamesGeee/CVE-2020-4929 | IBM QRadar SIEM 7.3 and 7.4 is vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 191706.| 
+| 20210512T01:50:30Z | CVE-2021-29139 | PoC for exploiting CVE-2021-29139 | https://github.com/JamesGeee/CVE-2021-29139 | A remote cross-site scripting (XSS) vulnerability was discovered in Aruba ClearPass Policy Manager version(s) prior to 6.9.5, 6.8.9, 6.7.14-HF1. Aruba has released patches for Aruba ClearPass Policy Manager that address this security vulnerability.| 
+| 20210512T01:50:27Z | CVE-2021-30128 | PoC for exploiting CVE-2021-30128 | https://github.com/JamesGeee/CVE-2021-30128 | Apache OFBiz has unsafe deserialization prior to 17.12.07 version| 
+| 20210512T01:50:24Z | CVE-2021-29138 | PoC for exploiting CVE-2021-29138 | https://github.com/JamesGeee/CVE-2021-29138 | A remote disclosure of privileged information vulnerability was discovered in Aruba ClearPass Policy Manager version(s) prior to 6.9.5, 6.8.9, 6.7.14-HF1. Aruba has released patches for Aruba ClearPass Policy Manager that address this security vulnerability.| 
+| 20210512T01:50:07Z | CVE-2021-29140 | PoC for exploiting CVE-2021-29140 | https://github.com/JamesGeee/CVE-2021-29140 | A remote XML external entity (XXE) vulnerability was discovered in Aruba ClearPass Policy Manager version(s): Prior to 6.9.5, 6.8.9, 6.7.14-HF1. Aruba has released patches for Aruba ClearPass Policy Manager that address this security vulnerability.| 
 | 20210512T01:49:42Z | CVE-2021-32259 | PoC for exploiting CVE-2021-32259 | https://github.com/JamesGeee/CVE-2021-32259 | ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was withdrawn by its CNA.| 
-| 20210512T01:49:40Z | CVE-2021-29140 | PoC for exploiting CVE-2021-29140 | https://github.com/JamesGeee/CVE-2021-29140 | | 
 | 20210512T01:49:38Z | CVE-2021-29488 | PoC for exploiting CVE-2021-29488 | https://github.com/JamesGeee/CVE-2021-29488 | SABnzbd is an open source binary newsreader. A vulnerability was discovered in SABnzbd that could trick the `filesystem.renamer()` function into writing downloaded files outside the configured Download Folder via malicious PAR2 files. A patch was released as part of SABnzbd 3.2.1RC1. As a workaround, limit downloads to NZBs without PAR2 files, deny write permissions to the SABnzbd process outside areas it must access to perform its job, or update to a fixed version.| 
-| 20210512T01:49:35Z | CVE-2021-27437 | PoC for exploiting CVE-2021-27437 | https://github.com/JamesGeee/CVE-2021-27437 | | 
-| 20210512T01:49:31Z | CVE-2021-21419 | PoC for exploiting CVE-2021-21419 | https://github.com/JamesGeee/CVE-2021-21419 | Eventlet is a concurrent networking library for Python. A websocket peer may exhaust memory on Eventlet side by sending very large websocket frames. Malicious peer may exhaust memory on Eventlet side by sending highly compressed data frame. A patch in version 0.31.0 restricts websocket frame to reasonable limits. As a workaround, restricting memory usage via OS limits would help against overall machine exhaustion, but there is no workaround to protect Eventlet process.| 
-| 20210512T01:49:29Z | CVE-2021-29142 | PoC for exploiting CVE-2021-29142 | https://github.com/JamesGeee/CVE-2021-29142 | A remote cross-site scripting (XSS) vulnerability was discovered in Aruba ClearPass Policy Manager version(s) prior to 6.9.5, 6.8.9, 6.7.14-HF1. Aruba has released patches for Aruba ClearPass Policy Manager that address this security vulnerability.| 
-| 20210512T01:49:25Z | CVE-2021-29141 | PoC for exploiting CVE-2021-29141 | https://github.com/JamesGeee/CVE-2021-29141 | A remote disclosure of sensitive information vulnerability was discovered in Aruba ClearPass Policy Manager version(s) prior to 6.9.5, 6.8.9, 6.7.14-HF1. Aruba has released patches for Aruba ClearPass Policy Manager that address this security vulnerability.| 
-| 20210512T01:48:57Z | CVE-2021-29442 | PoC for exploiting CVE-2021-29442 | https://github.com/JamesGeee/CVE-2021-29442 | Nacos is a platform designed for dynamic service discovery and configuration and service management. In Nacos before version 1.4.1, the ConfigOpsController lets the user perform management operations like querying the database or even wiping it out. While the /data/remove endpoint is properly protected with the @Secured annotation, the /derby endpoint is not protected and can be openly accessed by unauthenticated users. These endpoints are only valid when using embedded storage (derby DB) so this issue should not affect those installations using external storage (e.g. mysql)| 
-| 20210512T01:48:51Z | CVE-2021-31778 | PoC for exploiting CVE-2021-31778 | https://github.com/JamesGeee/CVE-2021-31778 | The media2click (aka 2 Clicks for External Media) extension 1.x before 1.3.3 for TYPO3 allows XSS by a backend user account.| 
-| 20210512T01:48:48Z | CVE-2021-31777 | PoC for exploiting CVE-2021-31777 | https://github.com/JamesGeee/CVE-2021-31777 | The dce (aka Dynamic Content Element) extension 2.2.0 through 2.6.x before 2.6.2, and 2.7.x before 2.7.1, for TYPO3 allows SQL Injection via a backend user account.| 
+| 20210512T01:49:35Z | CVE-2021-27437 | PoC for exploiting CVE-2021-27437 | https://github.com/JamesGeee/CVE-2021-27437 | The affected product allows attackers to obtain sensitive information from the WISE-PaaS dashboard. The system contains a hard-coded administrator username and password that can be used to query Grafana APIs. Authentication is not required for exploitation on the WISE-PaaS/RMM (versions prior to 9.0.1).| 
 
 
 # klee on Github 推荐
@@ -82,16 +82,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210512T01:50:11Z | PoC for exploiting CVE-2021-29138 | https://github.com/JamesGeee/CVE-2021-29138 | 0 | 0| 
-| 20210512T01:50:07Z | PoC for exploiting CVE-2021-29140 | https://github.com/JamesGeee/CVE-2021-29140 | 0 | 0| 
-| 20210512T01:49:42Z | PoC for exploiting CVE-2021-32259 | https://github.com/JamesGeee/CVE-2021-32259 | 0 | 0| 
-| 20210512T01:49:38Z | PoC for exploiting CVE-2021-29488 | https://github.com/JamesGeee/CVE-2021-29488 | 0 | 0| 
-| 20210512T01:49:35Z | PoC for exploiting CVE-2021-27437 | https://github.com/JamesGeee/CVE-2021-27437 | 0 | 0| 
-| 20210512T01:49:31Z | PoC for exploiting CVE-2021-21419 | https://github.com/JamesGeee/CVE-2021-21419 | 0 | 0| 
-| 20210512T01:49:29Z | PoC for exploiting CVE-2021-29142 | https://github.com/JamesGeee/CVE-2021-29142 | 0 | 0| 
-| 20210512T01:49:25Z | PoC for exploiting CVE-2021-29141 | https://github.com/JamesGeee/CVE-2021-29141 | 0 | 0| 
-| 20210512T01:48:57Z | PoC for exploiting CVE-2021-29442 | https://github.com/JamesGeee/CVE-2021-29442 | 0 | 0| 
-| 20210512T01:48:51Z | PoC for exploiting CVE-2021-31778 | https://github.com/JamesGeee/CVE-2021-31778 | 0 | 0| 
+| 20210512T01:51:10Z | PoC for exploiting CVE-2020-5013 | https://github.com/JamesGeee/CVE-2020-5013 | 0 | 0| 
+| 20210512T01:51:06Z | PoC for exploiting CVE-2020-4993 | https://github.com/JamesGeee/CVE-2020-4993 | 0 | 0| 
+| 20210512T01:50:52Z | PoC for exploiting CVE-2020-4932 | https://github.com/JamesGeee/CVE-2020-4932 | 0 | 0| 
+| 20210512T01:50:43Z | PoC for exploiting CVE-2020-4979 | https://github.com/JamesGeee/CVE-2020-4979 | 0 | 0| 
+| 20210512T01:50:40Z | PoC for exploiting CVE-2020-4883 | https://github.com/JamesGeee/CVE-2020-4883 | 0 | 0| 
+| 20210512T01:50:37Z | PoC for exploiting CVE-2020-4929 | https://github.com/JamesGeee/CVE-2020-4929 | 0 | 0| 
+| 20210512T01:50:33Z | PoC for exploiting CVE-2017-10796 | https://github.com/JamesGeee/CVE-2017-10796 | 0 | 0| 
+| 20210512T01:50:30Z | PoC for exploiting CVE-2021-29139 | https://github.com/JamesGeee/CVE-2021-29139 | 0 | 0| 
+| 20210512T01:50:27Z | PoC for exploiting CVE-2021-30128 | https://github.com/JamesGeee/CVE-2021-30128 | 0 | 0| 
+| 20210512T01:50:24Z | PoC for exploiting CVE-2021-29138 | https://github.com/JamesGeee/CVE-2021-29138 | 0 | 0| 
 
 
 # backdoor on Github 推荐
