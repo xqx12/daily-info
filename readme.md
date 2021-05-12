@@ -86,7 +86,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210512T12:47:03Z | A grey-box web fuzzer. Note that this is a mirror repo. The actual project is hosted in Bitbucket. | https://github.com/ovanr/webFuzz | 0 | 0| 
+| 20210512T12:51:14Z | A grey-box web fuzzer. [Mirror Repo] | https://github.com/ovanr/webFuzz | 0 | 0| 
 | 20210512T12:41:58Z | Null | https://github.com/JonathanScialpi/CorDapp_Fuzzer | 0 | 0| 
 | 20210512T12:40:20Z | Null | https://github.com/lacygoill/vim-fuzzy | 0 | 1| 
 | 20210512T12:23:09Z | Fuzzy matching for Neovim | https://github.com/amirrezaask/fuzzy.nvim | 38 | 1| 
