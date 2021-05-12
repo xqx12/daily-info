@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210512T01:47:54Z | CVE-2021-28165 | PoC for exploiting CVE-2021-28165 | https://github.com/JamesGeee/CVE-2021-28165 | In Eclipse Jetty 7.2.2 to 9.4.38, 10.0.0.alpha0 to 10.0.1, and 11.0.0.alpha0 to 11.0.1, CPU usage can reach 100% upon receiving a large invalid TLS frame.| 
-| 20210512T01:47:52Z | CVE-2020-27223 | PoC for exploiting CVE-2020-27223 | https://github.com/JamesGeee/CVE-2020-27223 | In Eclipse Jetty 9.4.6.v20170531 to 9.4.36.v20210114 (inclusive), 10.0.0, and 11.0.0 when Jetty handles a request containing multiple Accept headers with a large number of “quality” (i.e. q) parameters, the server may enter a denial of service (DoS) state due to high CPU usage processing those quality values, resulting in minutes of CPU time exhausted processing those quality values.| 
-| 20210512T01:47:51Z | CVE-2021-28164 | PoC for exploiting CVE-2021-28164 | https://github.com/JamesGeee/CVE-2021-28164 | In Eclipse Jetty 9.4.37.v20210219 to 9.4.38.v20210224, the default compliance mode allows requests with URIs that contain %2e or %2e%2e segments to access protected resources within the WEB-INF directory. For example a request to /context/%2e/WEB-INF/web.xml can retrieve the web.xml file. This can reveal sensitive information regarding the implementation of a web application.| 
-| 20210512T01:47:23Z | CVE-2021-28163 | PoC for exploiting CVE-2021-28163 | https://github.com/JamesGeee/CVE-2021-28163 | In Eclipse Jetty 9.4.32 to 9.4.38, 10.0.0.beta2 to 10.0.1, and 11.0.0.beta2 to 11.0.1, if a user uses a webapps directory that is a symlink, the contents of the webapps directory is deployed as a static webapp, inadvertently serving the webapps themselves and anything else that might be in that directory.| 
-| 20210512T01:47:11Z | CVE-2021-28168 | PoC for exploiting CVE-2021-28168 | https://github.com/JamesGeee/CVE-2021-28168 | Eclipse Jersey 2.28 to 2.33 and Eclipse Jersey 3.0.0 to 3.0.1 contains a local information disclosure vulnerability. This is due to the use of the File.createTempFile which creates a file inside of the system temporary directory with the permissions: -rw-r--r--. Thus the contents of this file are viewable by all other users locally on the system. As such, if the contents written is security sensitive, it can be disclosed to other local users.| 
-| 20210512T01:47:06Z | CVE-2021-29495 | PoC for exploiting CVE-2021-29495 | https://github.com/JamesGeee/CVE-2021-29495 | Nim is a statically typed compiled systems programming language. In Nim standard library before 1.4.2, httpClient SSL/TLS certificate verification was disabled by default. Users can upgrade to version 1.4.2 to receive a patch or, as a workaround, set %verifyMode = CVerifyPeer% as documented.| 
-| 20210512T01:47:03Z | CVE-2021-22677 | PoC for exploiting CVE-2021-22677 | https://github.com/JamesGeee/CVE-2021-22677 | An integer overflow exists in the APIs of the host MCU while trying to connect to a WIFI network may lead to issues such as a denial-of-service condition or code execution on the SimpleLink Wi-Fi (MSP432E4 SDK: v4.20.00.12 and prior, CC32XX SDK v4.30.00.06 and prior, CC13X0 SDK versions prior to v4.10.03, CC13X2 and CC26XX SDK versions prior to v4.40.00, CC3200 SDK v1.5.0 and prior, CC3100 SDK v1.3.0 and prior).| 
-| 20210512T01:47:00Z | CVE-2020-4901 | PoC for exploiting CVE-2020-4901 | https://github.com/JamesGeee/CVE-2020-4901 | IBM Robotic Process Automation with Automation Anywhere 11.0 could allow an attacker on the network to obtain sensitive information or cause a denial of service through username enumeration. IBM X-Force ID: 190992.| 
-| 20210512T01:46:56Z | CVE-2021-31779 | PoC for exploiting CVE-2021-31779 | https://github.com/JamesGeee/CVE-2021-31779 | The yoast_seo (aka Yoast SEO) extension before 7.2.1 for TYPO3 allows SSRF via a backend user account.| 
-| 20210512T01:46:53Z | CVE-2021-28271 | PoC for exploiting CVE-2021-28271 | https://github.com/JamesGeee/CVE-2021-28271 | Soyal Technologies SOYAL 701Server 9.0.1 suffers from an elevation of privileges vulnerability which can be used by an authenticated user to change the executable file with a binary choice. The vulnerability is due to improper permissions with the %F% flag (Full) for %Everyone%and %Authenticated Users% group.| 
+| 20210512T01:49:42Z | CVE-2021-32259 | PoC for exploiting CVE-2021-32259 | https://github.com/JamesGeee/CVE-2021-32259 | ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was withdrawn by its CNA.| 
+| 20210512T01:49:40Z | CVE-2021-29140 | PoC for exploiting CVE-2021-29140 | https://github.com/JamesGeee/CVE-2021-29140 | | 
+| 20210512T01:49:38Z | CVE-2021-29488 | PoC for exploiting CVE-2021-29488 | https://github.com/JamesGeee/CVE-2021-29488 | SABnzbd is an open source binary newsreader. A vulnerability was discovered in SABnzbd that could trick the `filesystem.renamer()` function into writing downloaded files outside the configured Download Folder via malicious PAR2 files. A patch was released as part of SABnzbd 3.2.1RC1. As a workaround, limit downloads to NZBs without PAR2 files, deny write permissions to the SABnzbd process outside areas it must access to perform its job, or update to a fixed version.| 
+| 20210512T01:49:35Z | CVE-2021-27437 | PoC for exploiting CVE-2021-27437 | https://github.com/JamesGeee/CVE-2021-27437 | | 
+| 20210512T01:49:31Z | CVE-2021-21419 | PoC for exploiting CVE-2021-21419 | https://github.com/JamesGeee/CVE-2021-21419 | Eventlet is a concurrent networking library for Python. A websocket peer may exhaust memory on Eventlet side by sending very large websocket frames. Malicious peer may exhaust memory on Eventlet side by sending highly compressed data frame. A patch in version 0.31.0 restricts websocket frame to reasonable limits. As a workaround, restricting memory usage via OS limits would help against overall machine exhaustion, but there is no workaround to protect Eventlet process.| 
+| 20210512T01:49:29Z | CVE-2021-29142 | PoC for exploiting CVE-2021-29142 | https://github.com/JamesGeee/CVE-2021-29142 | A remote cross-site scripting (XSS) vulnerability was discovered in Aruba ClearPass Policy Manager version(s) prior to 6.9.5, 6.8.9, 6.7.14-HF1. Aruba has released patches for Aruba ClearPass Policy Manager that address this security vulnerability.| 
+| 20210512T01:49:25Z | CVE-2021-29141 | PoC for exploiting CVE-2021-29141 | https://github.com/JamesGeee/CVE-2021-29141 | A remote disclosure of sensitive information vulnerability was discovered in Aruba ClearPass Policy Manager version(s) prior to 6.9.5, 6.8.9, 6.7.14-HF1. Aruba has released patches for Aruba ClearPass Policy Manager that address this security vulnerability.| 
+| 20210512T01:48:57Z | CVE-2021-29442 | PoC for exploiting CVE-2021-29442 | https://github.com/JamesGeee/CVE-2021-29442 | Nacos is a platform designed for dynamic service discovery and configuration and service management. In Nacos before version 1.4.1, the ConfigOpsController lets the user perform management operations like querying the database or even wiping it out. While the /data/remove endpoint is properly protected with the @Secured annotation, the /derby endpoint is not protected and can be openly accessed by unauthenticated users. These endpoints are only valid when using embedded storage (derby DB) so this issue should not affect those installations using external storage (e.g. mysql)| 
+| 20210512T01:48:51Z | CVE-2021-31778 | PoC for exploiting CVE-2021-31778 | https://github.com/JamesGeee/CVE-2021-31778 | The media2click (aka 2 Clicks for External Media) extension 1.x before 1.3.3 for TYPO3 allows XSS by a backend user account.| 
+| 20210512T01:48:48Z | CVE-2021-31777 | PoC for exploiting CVE-2021-31777 | https://github.com/JamesGeee/CVE-2021-31777 | The dce (aka Dynamic Content Element) extension 2.2.0 through 2.6.x before 2.6.2, and 2.7.x before 2.7.1, for TYPO3 allows SQL Injection via a backend user account.| 
 
 
 # klee on Github 推荐
@@ -82,16 +82,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210512T01:48:35Z | PoC for exploiting CVE-2020-19108 | https://github.com/JamesGeee/CVE-2020-19108 | 0 | 0| 
-| 20210512T01:48:34Z | PoC for exploiting CVE-2020-19114 | https://github.com/JamesGeee/CVE-2020-19114 | 0 | 0| 
-| 20210512T01:48:32Z | PoC for exploiting CVE-2020-19107 | https://github.com/JamesGeee/CVE-2020-19107 | 0 | 0| 
-| 20210512T01:48:23Z | PoC for exploiting CVE-2020-19109 | https://github.com/JamesGeee/CVE-2020-19109 | 0 | 0| 
-| 20210512T01:48:10Z | PoC for exploiting CVE-2021-2321 | https://github.com/JamesGeee/CVE-2021-2321 | 0 | 0| 
-| 20210512T01:48:07Z | PoC for exploiting CVE-2021-27480 | https://github.com/JamesGeee/CVE-2021-27480 | 0 | 0| 
-| 20210512T01:48:03Z | PoC for exploiting CVE-2021-22660 | https://github.com/JamesGeee/CVE-2021-22660 | 0 | 0| 
-| 20210512T01:48:00Z | PoC for exploiting CVE-2020-13949 | https://github.com/JamesGeee/CVE-2020-13949 | 0 | 0| 
-| 20210512T01:47:57Z | PoC for exploiting CVE-2020-27223 | https://github.com/JamesGeee/CVE-2020-27223 | 0 | 0| 
-| 20210512T01:47:54Z | PoC for exploiting CVE-2021-28165 | https://github.com/JamesGeee/CVE-2021-28165 | 0 | 0| 
+| 20210512T01:50:11Z | PoC for exploiting CVE-2021-29138 | https://github.com/JamesGeee/CVE-2021-29138 | 0 | 0| 
+| 20210512T01:50:07Z | PoC for exploiting CVE-2021-29140 | https://github.com/JamesGeee/CVE-2021-29140 | 0 | 0| 
+| 20210512T01:49:42Z | PoC for exploiting CVE-2021-32259 | https://github.com/JamesGeee/CVE-2021-32259 | 0 | 0| 
+| 20210512T01:49:38Z | PoC for exploiting CVE-2021-29488 | https://github.com/JamesGeee/CVE-2021-29488 | 0 | 0| 
+| 20210512T01:49:35Z | PoC for exploiting CVE-2021-27437 | https://github.com/JamesGeee/CVE-2021-27437 | 0 | 0| 
+| 20210512T01:49:31Z | PoC for exploiting CVE-2021-21419 | https://github.com/JamesGeee/CVE-2021-21419 | 0 | 0| 
+| 20210512T01:49:29Z | PoC for exploiting CVE-2021-29142 | https://github.com/JamesGeee/CVE-2021-29142 | 0 | 0| 
+| 20210512T01:49:25Z | PoC for exploiting CVE-2021-29141 | https://github.com/JamesGeee/CVE-2021-29141 | 0 | 0| 
+| 20210512T01:48:57Z | PoC for exploiting CVE-2021-29442 | https://github.com/JamesGeee/CVE-2021-29442 | 0 | 0| 
+| 20210512T01:48:51Z | PoC for exploiting CVE-2021-31778 | https://github.com/JamesGeee/CVE-2021-31778 | 0 | 0| 
 
 
 # backdoor on Github 推荐
