@@ -53,9 +53,9 @@
 | 20210512T15:01:49Z | 未知编号 | cve-2021 | https://github.com/1151806933/cve-2021 | 未查询到CVE信息| 
 | 20210512T09:09:58Z | CVE-2021-22204 | Null | https://github.com/se162xg/CVE-2021-22204 | Improper neutralization of user data in the DjVu file format in ExifTool versions 7.44 and up allows arbitrary code execution when parsing the malicious image| 
 | 20210512T09:09:38Z | 未知编号 | Null | https://github.com/Magicsmx/CVE-2020.6_2021.3 | 未查询到CVE信息| 
-| 20210512T01:51:10Z | CVE-2020-5013 | PoC for exploiting CVE-2020-5013 | https://github.com/JamesGeee/CVE-2020-5013 | 未查询到CVE信息| 
+| 20210512T01:51:10Z | CVE-2020-5013 | PoC for exploiting CVE-2020-5013 | https://github.com/JamesGeee/CVE-2020-5013 | IBM QRadar SIEM 7.3 and 7.4 may vulnerable to a XML External Entity Injection (XXE) attack when processing XML data. A remote attacker could exploit this vulnerability to expose sensitive information or consume memory resources. IBM X-Force ID: 193245.| 
 | 20210512T01:51:06Z | CVE-2020-4993 | PoC for exploiting CVE-2020-4993 | https://github.com/JamesGeee/CVE-2020-4993 | IBM QRadar SIEM 7.3 and 7.4 when decompressing or verifying signature of zip files processes data in a way that may be vulnerable to path traversal attacks. IBM X-Force ID: 192905.| 
-| 20210512T01:50:52Z | CVE-2020-4932 | PoC for exploiting CVE-2020-4932 | https://github.com/JamesGeee/CVE-2020-4932 | IBM QRadar SIEM 7.3 and 7.4 contains hard-coded credentials, such as a password or cryptographic key, which it uses for its own inbound authentication, outbound communication to external components, or encryption of internal data. IBM X-Force ID: 191748.| 
+| 20210512T01:50:52Z | CVE-2020-4932 | PoC for exploiting CVE-2020-4932 | https://github.com/JamesGeee/CVE-2020-4932 | | 
 
 
 # klee on Github 推荐
@@ -82,6 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210513T01:23:48Z | roblox lego exploiting | https://github.com/iiiSeaIGamerxxx/A | 0 | 0| 
 | 20210513T01:19:39Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9421 | 1520| 
 | 20210513T01:02:40Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 10| 
 | 20210513T00:51:08Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 16 | 11| 
@@ -91,7 +92,6 @@
 | 20210512T22:53:21Z | Null | https://github.com/nc-lnvp/2021wiExploit_scripts | 0 | 0| 
 | 20210512T22:53:09Z | Null | https://github.com/nc-lnvp/2021spExploit_scripts | 0 | 0| 
 | 20210512T22:52:53Z | Null | https://github.com/nc-lnvp/2020faExploit_scripts | 0 | 0| 
-| 20210512T22:44:09Z | Microbiome Analysis Powered By Recursive Quasi-species Networks: Uncovering rules of organization, competition, succession and exploitation | https://github.com/zeroknowledgediscovery/qbiome | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -112,6 +112,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210513T01:24:21Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1187 | 211| 
 | 20210513T01:02:13Z | CS 4152 Project | https://github.com/nicbarone/Fuzzy-Kiwi | 0 | 0| 
 | 20210513T01:01:06Z | Real firmware fuzz-tested with uEmu | https://github.com/MCUSec/uEmu-real_world_firmware | 2 | 1| 
 | 20210513T00:06:08Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 6 | 5| 
@@ -121,7 +122,6 @@
 | 20210512T22:45:27Z | Command line helpers for fuzzing | https://github.com/rust-fuzz/cargo-fuzz | 743 | 59| 
 | 20210512T22:34:44Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 235 | 31| 
 | 20210512T21:53:44Z | First repository | https://github.com/ikillwithjoy/fuzzy-octo-waffle | 0 | 0| 
-| 20210512T21:53:31Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 388 | 32| 
 
 
 
