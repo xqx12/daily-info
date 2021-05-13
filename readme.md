@@ -57,6 +57,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210513T12:42:51Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 3645 | 533| 
 | 20210513T12:42:04Z | This is the source code of the first exploit i made, enjoy :D | https://github.com/Ferripro321/Fersploit-hr-4.1-ui-source | 0 | 0| 
 | 20210513T12:36:48Z | Educational web application demonstrating techniques of binary exploitation (Front-end) | https://github.com/Pen-Test3rs/binary_exploits_frontend | 0 | 0| 
 | 20210513T12:36:05Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9422 | 1520| 
@@ -66,12 +67,12 @@
 | 20210513T11:53:47Z | Root repository for CS 6265: Information Security Lab - Reverse Engineering and Binary Exploitation | https://github.com/one2blame/cs6265 | 1 | 2| 
 | 20210513T10:35:00Z | Educational web application demonstrating techniques of binary exploitation - (Back-end) | https://github.com/Pen-Test3rs/binary_exploits_backend | 0 | 0| 
 | 20210513T10:31:02Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
-| 20210513T10:28:25Z | iblessing is an iOS security exploiting toolkit, it mainly includes application information collection, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining. | https://github.com/Soulghost/iblessing | 359 | 51| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210513T12:41:21Z | code for mutation for backdoor | https://github.com/newcoming345/mutation-for-backdoor | 0 | 0| 
 | 20210513T09:50:40Z | Null | https://github.com/TheIceSlime/Backdoor-Plugin-Better | 0 | 0| 
 | 20210513T09:29:44Z | Null | https://github.com/JiannanXiao6/backdoor | 0 | 0| 
 | 20210513T08:05:17Z | Null | https://github.com/Hem1700/backdoor | 0 | 0| 
