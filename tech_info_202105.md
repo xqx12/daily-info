@@ -47,15 +47,15 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210512T23:31:57Z | CVE-2020-28502 | CVE-2020-28502 node-XMLHttpRequest RCE | https://github.com/s-index/CVE-2020-28502 | This affects the package xmlhttprequest before 1.7.0; all versions of package xmlhttprequest-ssl. Provided requests are sent synchronously (async=False on xhr.open), malicious user input flowing into xhr.send could result in arbitrary code being injected and run.| 
-| 20210512T18:13:30Z | CVE-2021-30005 | Null | https://github.com/atorralba/CVE-2021-30005-POC | 未查询到CVE信息| 
+| 20210512T18:13:30Z | CVE-2021-30005 | Null | https://github.com/atorralba/CVE-2021-30005-POC | | 
 | 20210512T17:12:00Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210512T15:43:05Z | cve-2021-2222222 | cve-2021 | https://github.com/1151806933/cve-2021-2222222 | 未查询到CVE信息| 
 | 20210512T15:01:49Z | 未知编号 | cve-2021 | https://github.com/1151806933/cve-2021 | 未查询到CVE信息| 
-| 20210512T09:09:58Z | CVE-2021-22204 | Null | https://github.com/se162xg/CVE-2021-22204 | 未查询到CVE信息| 
+| 20210512T09:09:58Z | CVE-2021-22204 | Null | https://github.com/se162xg/CVE-2021-22204 | Improper neutralization of user data in the DjVu file format in ExifTool versions 7.44 and up allows arbitrary code execution when parsing the malicious image| 
 | 20210512T09:09:38Z | 未知编号 | Null | https://github.com/Magicsmx/CVE-2020.6_2021.3 | 未查询到CVE信息| 
 | 20210512T01:51:10Z | CVE-2020-5013 | PoC for exploiting CVE-2020-5013 | https://github.com/JamesGeee/CVE-2020-5013 | IBM QRadar SIEM 7.3 and 7.4 may vulnerable to a XML External Entity Injection (XXE) attack when processing XML data. A remote attacker could exploit this vulnerability to expose sensitive information or consume memory resources. IBM X-Force ID: 193245.| 
-| 20210512T01:51:06Z | CVE-2020-4993 | PoC for exploiting CVE-2020-4993 | https://github.com/JamesGeee/CVE-2020-4993 | 未查询到CVE信息| 
-| 20210512T01:50:52Z | CVE-2020-4932 | PoC for exploiting CVE-2020-4932 | https://github.com/JamesGeee/CVE-2020-4932 | IBM QRadar SIEM 7.3 and 7.4 contains hard-coded credentials, such as a password or cryptographic key, which it uses for its own inbound authentication, outbound communication to external components, or encryption of internal data. IBM X-Force ID: 191748.| 
+| 20210512T01:51:06Z | CVE-2020-4993 | PoC for exploiting CVE-2020-4993 | https://github.com/JamesGeee/CVE-2020-4993 | IBM QRadar SIEM 7.3 and 7.4 when decompressing or verifying signature of zip files processes data in a way that may be vulnerable to path traversal attacks. IBM X-Force ID: 192905.| 
+| 20210512T01:50:52Z | CVE-2020-4932 | PoC for exploiting CVE-2020-4932 | https://github.com/JamesGeee/CVE-2020-4932 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
@@ -82,7 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210513T01:23:48Z | roblox lego exploiting | https://github.com/iiiSeaIGamerxxx/A | 0 | 0| 
+| 20210513T01:30:28Z | roblox lego exploiting | https://github.com/iiiSeaIGamerxxx/A | 0 | 0| 
 | 20210513T01:19:39Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9421 | 1520| 
 | 20210513T01:02:40Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 10| 
 | 20210513T00:51:08Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 16 | 11| 
