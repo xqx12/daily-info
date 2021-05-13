@@ -112,6 +112,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210513T12:25:55Z | Null | https://github.com/s9varesc/url-fuzzing | 1 | 1| 
 | 20210513T12:21:38Z | Blackbox Fuzzer using LibAFL and AFL++ QEMU | https://github.com/bitterbit/fuzzer-qemu | 0 | 0| 
 | 20210513T12:17:06Z | pluralsight demo repository | https://github.com/ShubhamJadhav27/fuzzy-spoon | 0 | 0| 
 | 20210513T11:55:50Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
@@ -119,7 +120,6 @@
 | 20210513T11:00:14Z | Neuro-fuzzy systems course | https://github.com/qwerfah/neuro-fuzzy-systems | 0 | 0| 
 | 20210513T10:48:17Z | An add-on filament autochanger for existing 3D printers, in duel-spool configuration. | https://github.com/FuzzyNoodle/Fuzzy-Spooder | 1 | 0| 
 | 20210513T10:44:49Z | ClusterFuzz官方文档中文翻译 | https://github.com/Vancir/clusterfuzz-document-cn | 2 | 0| 
-| 20210513T10:18:06Z | Null | https://github.com/s9varesc/url-fuzzing | 1 | 1| 
 | 20210513T09:50:25Z | This tool uses fzf(1)-like fuzzy-finder to do partial or fuzzy search of Kubernetes resources. Instead of specifying full resource names to kubectl commands, you can choose them from an interactive list that you can filter by typing a few characters. | https://github.com/d-kuro/kubectl-fuzzy | 86 | 10| 
 | 20210513T09:49:44Z | Very simple repo for testing with folder | https://github.com/quangloc99-testaccount/fuzzy-goggles-1620899376223 | 0 | 0| 
 
