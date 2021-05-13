@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210512T23:31:57Z | CVE-2020-28502 | CVE-2020-28502 node-XMLHttpRequest RCE | https://github.com/s-index/CVE-2020-28502 | 未查询到CVE信息| 
-| 20210512T18:13:30Z | CVE-2021-30005 | Null | https://github.com/atorralba/CVE-2021-30005-POC | In JetBrains PyCharm before 2020.3.4, local code execution was possible because of insufficient checks when getting the project from VCS.| 
+| 20210512T23:31:57Z | CVE-2020-28502 | CVE-2020-28502 node-XMLHttpRequest RCE | https://github.com/s-index/CVE-2020-28502 | This affects the package xmlhttprequest before 1.7.0; all versions of package xmlhttprequest-ssl. Provided requests are sent synchronously (async=False on xhr.open), malicious user input flowing into xhr.send could result in arbitrary code being injected and run.| 
+| 20210512T18:13:30Z | CVE-2021-30005 | Null | https://github.com/atorralba/CVE-2021-30005-POC | 未查询到CVE信息| 
 | 20210512T17:12:00Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210512T15:43:05Z | cve-2021-2222222 | cve-2021 | https://github.com/1151806933/cve-2021-2222222 | 未查询到CVE信息| 
 | 20210512T15:01:49Z | 未知编号 | cve-2021 | https://github.com/1151806933/cve-2021 | 未查询到CVE信息| 
@@ -82,10 +82,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210513T01:02:40Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 10| 
 | 20210513T00:51:08Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 16 | 11| 
 | 20210513T00:33:02Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9420 | 1520| 
 | 20210513T00:31:40Z | Various ASM, C and C++ tools, shellcodes and exploit experiments. | https://github.com/forrest-orr/ExploitDev | 12 | 1| 
-| 20210513T00:02:41Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 10| 
 | 20210512T23:38:55Z | Mainly simple exploits or noob codes from internet. | https://github.com/w1dow/python_issomething | 0 | 0| 
 | 20210512T23:37:13Z | Curiosity is a real good solution to the exploration-exploitation dilemma | https://github.com/parenthetical-e/dilemma-draft | 0 | 1| 
 | 20210512T22:53:21Z | Null | https://github.com/nc-lnvp/2021wiExploit_scripts | 0 | 0| 
@@ -112,6 +112,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210513T01:02:13Z | CS 4152 Project | https://github.com/nicbarone/Fuzzy-Kiwi | 0 | 0| 
+| 20210513T01:01:06Z | Real firmware fuzz-tested with uEmu | https://github.com/MCUSec/uEmu-real_world_firmware | 2 | 1| 
 | 20210513T00:06:08Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 6 | 5| 
 | 20210513T00:00:00Z | Install and run Fuzzlecheck on Linux. | https://github.com/72nd/fuzzlecheck-linux | 0 | 0| 
 | 20210512T23:34:18Z | %Seed Selection for Successful Fuzzing% artifact (at ISSTA 2021) | https://github.com/HexHive/fuzzing-seed-selection | 7 | 0| 
@@ -120,8 +122,6 @@
 | 20210512T22:34:44Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 235 | 31| 
 | 20210512T21:53:44Z | First repository | https://github.com/ikillwithjoy/fuzzy-octo-waffle | 0 | 0| 
 | 20210512T21:53:31Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 388 | 32| 
-| 20210512T21:41:04Z | Null | https://github.com/vHanda/fuzzy_search | 0 | 0| 
-| 20210512T21:34:07Z | CS 4152 Project | https://github.com/nicbarone/Fuzzy-Kiwi | 0 | 0| 
 
 
 
