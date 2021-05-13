@@ -38,7 +38,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210512T23:31:57Z | CVE-2020-28502 | CVE-2020-28502 node-XMLHttpRequest RCE | https://github.com/s-index/CVE-2020-28502 | This affects the package xmlhttprequest before 1.7.0; all versions of package xmlhttprequest-ssl. Provided requests are sent synchronously (async=False on xhr.open), malicious user input flowing into xhr.send could result in arbitrary code being injected and run.| 
+| 20210512T23:31:57Z | CVE-2020-28502 | CVE-2020-28502 node-XMLHttpRequest RCE | https://github.com/s-index/CVE-2020-28502 | | 
 | 20210512T18:13:30Z | CVE-2021-30005 | Null | https://github.com/atorralba/CVE-2021-30005-POC | In JetBrains PyCharm before 2020.3.4, local code execution was possible because of insufficient checks when getting the project from VCS.| 
 | 20210512T17:12:00Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210512T15:43:05Z | cve-2021-2222222 | cve-2021 | https://github.com/1151806933/cve-2021-2222222 | 未查询到CVE信息| 
@@ -83,7 +83,6 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210512T23:25:32Z | Text-based adventure based on Black Hills Information Security%s %Backdoors and Breaches% | https://github.com/mttaggart/bnb-py | 1 | 0| 
 | 20210512T21:06:58Z | LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x (x86/x86_64 and ARM64) | https://github.com/m0nad/Diamorphine | 769 | 283| 
 | 20210512T19:31:22Z | Python 3 IRC Bot / Botnet | https://github.com/trackmastersteve/HackServ | 19 | 16| 
 | 20210512T19:10:22Z | A simple remote tool written in C#.    一个简单的c#远控 | https://github.com/qwqdanchun/DcRat | 88 | 35| 
@@ -93,6 +92,7 @@
 | 20210512T12:53:17Z | backdoors Disclaimer:ich hafte keine schäden was das programm verursachen kann | https://github.com/djweasy/Backdoors | 1 | 0| 
 | 20210512T12:31:59Z | Into backdoor with node and express! | https://github.com/dasgupta002/web-node-advanced | 0 | 0| 
 | 20210512T09:34:43Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 234 | 38| 
+| 20210512T08:53:30Z | Rxploit | https://github.com/NANI1734/Rxploit | 3 | 0| 
 
 
 # fuzz on Github 推荐
