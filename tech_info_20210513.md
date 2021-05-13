@@ -32,9 +32,9 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210513T11:33:03Z | CVE-2020-28502 | CVE-2020-28502 node-XMLHttpRequest RCE | https://github.com/s-index/CVE-2020-28502 | This affects the package xmlhttprequest before 1.7.0; all versions of package xmlhttprequest-ssl. Provided requests are sent synchronously (async=False on xhr.open), malicious user input flowing into xhr.send could result in arbitrary code being injected and run.| 
-| 20210513T10:33:03Z | CVE-2020-27955 | Null | https://github.com/qzyqzynb/CVE-2020-27955 | | 
+| 20210513T10:33:03Z | CVE-2020-27955 | Null | https://github.com/qzyqzynb/CVE-2020-27955 | 未查询到CVE信息| 
 | 20210513T09:59:38Z | CVE-2021-14562 | Null | https://github.com/Jarry1sec/CVE-2021-14562 | 未查询到CVE信息| 
-| 20210513T09:36:50Z | CVE-2021-20202 | Null | https://github.com/Jarry1sec/CVE-2021-20202 | A flaw was found in keycloak. Directories can be created prior to the Java process creating them in the temporary directory, but with wider user permissions, allowing the attacker to have access to the contents that keycloak stores in this directory. The highest threat from this vulnerability is to data confidentiality and integrity.| 
+| 20210513T09:36:50Z | CVE-2021-20202 | Null | https://github.com/Jarry1sec/CVE-2021-20202 | 未查询到CVE信息| 
 | 20210513T06:45:41Z | CVE-2021-3156 | 试图在ubuntu:20.04里复现CVE-2021-3156。但是失败了，请大佬看看问题出在哪里 | https://github.com/wuuconix/CVE-2021-3156-Dockerfile-not-succeed | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210513T04:21:41Z | CVE-2021-22204 | Null | https://github.com/se162xg/CVE-2021-22204 | Improper neutralization of user data in the DjVu file format in ExifTool versions 7.44 and up allows arbitrary code execution when parsing the malicious image| 
 | 20210513T03:25:36Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
@@ -57,6 +57,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210513T12:51:09Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 16 | 11| 
 | 20210513T12:44:59Z | Educational web application demonstrating techniques of binary exploitation (Front-end) | https://github.com/Pen-Test3rs/binary_exploits_frontend | 0 | 0| 
 | 20210513T12:42:51Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 3645 | 533| 
 | 20210513T12:42:04Z | This is the source code of the first exploit i made, enjoy :D | https://github.com/Ferripro321/Fersploit-hr-4.1-ui-source | 0 | 0| 
@@ -66,7 +67,6 @@
 | 20210513T11:58:45Z | A Python program implementing and exploiting the Minsky Turing machine considered in the paper %Intrinsic Propensity for Vulnerability in Computers? Arbitrary Code Execution in the Universal Turing Machine% | https://github.com/intrinsic-propensity/turing-machine | 29 | 1| 
 | 20210513T11:53:47Z | Root repository for CS 6265: Information Security Lab - Reverse Engineering and Binary Exploitation | https://github.com/one2blame/cs6265 | 1 | 2| 
 | 20210513T10:35:00Z | Educational web application demonstrating techniques of binary exploitation - (Back-end) | https://github.com/Pen-Test3rs/binary_exploits_backend | 0 | 0| 
-| 20210513T10:31:02Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
 
 
 # backdoor on Github 推荐
@@ -86,6 +86,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210513T12:51:49Z | Fuzzy matching for Neovim | https://github.com/amirrezaask/fuzzy.nvim | 38 | 1| 
 | 20210513T12:40:44Z | pluralsight demo repository | https://github.com/ShubhamJadhav27/fuzzy-spoon | 0 | 0| 
 | 20210513T12:29:16Z | Null | https://github.com/s9varesc/url-fuzzing | 1 | 1| 
 | 20210513T12:21:38Z | Blackbox Fuzzer using LibAFL and AFL++ QEMU | https://github.com/bitterbit/fuzzer-qemu | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20210513T10:48:17Z | An add-on filament autochanger for existing 3D printers, in duel-spool configuration. | https://github.com/FuzzyNoodle/Fuzzy-Spooder | 1 | 0| 
 | 20210513T10:44:49Z | ClusterFuzz官方文档中文翻译 | https://github.com/Vancir/clusterfuzz-document-cn | 2 | 0| 
 | 20210513T09:50:25Z | This tool uses fzf(1)-like fuzzy-finder to do partial or fuzzy search of Kubernetes resources. Instead of specifying full resource names to kubectl commands, you can choose them from an interactive list that you can filter by typing a few characters. | https://github.com/d-kuro/kubectl-fuzzy | 86 | 10| 
-| 20210513T09:49:44Z | Very simple repo for testing with folder | https://github.com/quangloc99-testaccount/fuzzy-goggles-1620899376223 | 0 | 0| 
 
 
 
