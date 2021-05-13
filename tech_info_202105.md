@@ -112,9 +112,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210513T12:40:44Z | pluralsight demo repository | https://github.com/ShubhamJadhav27/fuzzy-spoon | 0 | 0| 
 | 20210513T12:29:16Z | Null | https://github.com/s9varesc/url-fuzzing | 1 | 1| 
 | 20210513T12:21:38Z | Blackbox Fuzzer using LibAFL and AFL++ QEMU | https://github.com/bitterbit/fuzzer-qemu | 0 | 0| 
-| 20210513T12:17:06Z | pluralsight demo repository | https://github.com/ShubhamJadhav27/fuzzy-spoon | 0 | 0| 
 | 20210513T11:55:50Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
 | 20210513T11:13:53Z | repo of scripts | https://github.com/johanvargas/fuzzy-projects | 0 | 0| 
 | 20210513T11:00:14Z | Neuro-fuzzy systems course | https://github.com/qwerfah/neuro-fuzzy-systems | 0 | 0| 
