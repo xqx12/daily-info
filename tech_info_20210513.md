@@ -36,12 +36,12 @@
 | --- | --- | --- | --- | ---| 
 | 20210513T22:43:50Z | CVE-2020-28018 | Exploit for Exim4 4.93 CVE-2020-28018 | https://github.com/lmol/CVE-2020-28018 | 未查询到CVE信息| 
 | 20210513T20:12:00Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210513T16:15:29Z | CVE-2021-2109 | weblogic CVE-2021-2109批量验证poc | https://github.com/yuaneuro/CVE-2021-2109_poc | | 
+| 20210513T16:15:29Z | CVE-2021-2109 | weblogic CVE-2021-2109批量验证poc | https://github.com/yuaneuro/CVE-2021-2109_poc | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows high privileged attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 7.2 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H).| 
 | 20210513T11:33:03Z | CVE-2020-28502 | CVE-2020-28502 node-XMLHttpRequest RCE | https://github.com/s-index/CVE-2020-28502 | This affects the package xmlhttprequest before 1.7.0; all versions of package xmlhttprequest-ssl. Provided requests are sent synchronously (async=False on xhr.open), malicious user input flowing into xhr.send could result in arbitrary code being injected and run.| 
 | 20210513T10:33:03Z | CVE-2020-27955 | Null | https://github.com/qzyqzynb/CVE-2020-27955 | 未查询到CVE信息| 
 | 20210513T09:59:38Z | CVE-2021-14562 | Null | https://github.com/Jarry1sec/CVE-2021-14562 | 未查询到CVE信息| 
 | 20210513T09:36:50Z | CVE-2021-20202 | Null | https://github.com/Jarry1sec/CVE-2021-20202 | A flaw was found in keycloak. Directories can be created prior to the Java process creating them in the temporary directory, but with wider user permissions, allowing the attacker to have access to the contents that keycloak stores in this directory. The highest threat from this vulnerability is to data confidentiality and integrity.| 
-| 20210513T06:45:41Z | CVE-2021-3156 | 试图在ubuntu:20.04里复现CVE-2021-3156。但是失败了，请大佬看看问题出在哪里 | https://github.com/wuuconix/CVE-2021-3156-Dockerfile-not-succeed | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210513T06:45:41Z | CVE-2021-3156 | 试图在ubuntu:20.04里复现CVE-2021-3156。但是失败了，请大佬看看问题出在哪里 | https://github.com/wuuconix/CVE-2021-3156-Dockerfile-not-succeed | 未查询到CVE信息| 
 | 20210513T04:21:41Z | CVE-2021-22204 | Null | https://github.com/se162xg/CVE-2021-22204 | Improper neutralization of user data in the DjVu file format in ExifTool versions 7.44 and up allows arbitrary code execution when parsing the malicious image| 
 
 
@@ -66,13 +66,13 @@
 | 20210513T23:57:26Z | Null | https://github.com/MorphyKutay/Boolean-bases-SQLi-Exploit-Script | 0 | 0| 
 | 20210513T23:55:14Z | CVE-2017-7494 python exploit | https://github.com/m4udSec/noSAMBAnoCRY-CVE-2017-7494 | 0 | 0| 
 | 20210513T23:47:30Z | Fix exploits on anarchy minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 36 | 7| 
-| 20210513T23:38:47Z | my post-exploitation stuff automator for tryhackme%s king of the hill | https://github.com/blvckmetxl/a4k | 0 | 0| 
 | 20210513T23:01:19Z | Ivan Ricart Borges - Test for didactic purposes of web pages vulnerables to SQL injection using dbo database user with xp_cmdshell execution permissions. Using patterns from Internet search engines to extract potentially vulnerable web addresses and test them by changing the GET parameters using invalid Transact-SQL conversion function to cause through unhandled errors by IIS web server to show critical information. If certain features are given and using advanced injection techniques a malicious attacker could gain control of the entire system by executing shell commands in the SQL database engine. | https://github.com/iricartb/advanced-sql-injection-scanner | 11 | 8| 
 | 20210513T22:58:48Z | Extensible framework for analyzing publicly available information about vulnerabilities | https://github.com/leonov-av/vulristics | 27 | 1| 
 | 20210513T22:55:05Z | labsecurity is a framework and its use is for ethical hacking and computer security | https://github.com/dylan14567/labsecurity | 1 | 3| 
 | 20210513T22:50:03Z | Exploits project Hacking Command Center | https://github.com/chacka0101/exploits | 5 | 6| 
 | 20210513T22:43:50Z | Exploit for Exim4 4.93 CVE-2020-28018 | https://github.com/lmol/CVE-2020-28018 | 0 | 0| 
 | 20210513T21:52:53Z | Tools and Exploits | https://github.com/abundov/exploits | 0 | 0| 
+| 20210513T21:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9423 | 1521| 
 
 
 # backdoor on Github 推荐
