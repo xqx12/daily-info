@@ -114,6 +114,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210514T12:30:50Z | Null | https://github.com/mmunar97/discrete_fuzzy_morphology | 0 | 0| 
 | 20210514T12:22:05Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 123 | 13| 
 | 20210514T12:10:52Z | Null | https://github.com/s9varesc/url-fuzzing | 1 | 1| 
 | 20210514T12:03:29Z | fuzz Tor, OpenSSL et al | https://github.com/toralf/fuzz-utils | 0 | 0| 
@@ -123,7 +124,6 @@
 | 20210514T11:33:24Z | PerformanceFuzzer | https://github.com/KKimj/PerformanceFuzzer | 1 | 0| 
 | 20210514T11:24:44Z | Null | https://github.com/ThePatrickStar/fuzzer-data-collector | 12 | 1| 
 | 20210514T10:42:11Z | Null | https://github.com/mmunar97/discrete-fuzzy-operators | 0 | 0| 
-| 20210514T10:33:20Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
 
 
 
