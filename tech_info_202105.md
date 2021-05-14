@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210514T00:51:39Z | CVE-2020-8813 | Null | https://github.com/m4udSec/Cacti-CVE-2020-8813 | 未查询到CVE信息| 
 | 20210514T00:30:29Z | CVE-2021-21551 | Exploit to SYSTEM for CVE-2021-21551 | https://github.com/waldo-irc/CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
-| 20210513T22:43:50Z | CVE-2020-28018 | Exploit for Exim4 4.93 CVE-2020-28018 | https://github.com/lmol/CVE-2020-28018 | Exim 4 before 4.94.2 allows Use After Free in smtp_reset in certain situations that may be common for builds with OpenSSL.| 
+| 20210513T22:43:50Z | CVE-2020-28018 | Exploit for Exim4 4.93 CVE-2020-28018 | https://github.com/lmol/CVE-2020-28018 | 未查询到CVE信息| 
 | 20210513T20:12:00Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210513T16:15:29Z | CVE-2021-2109 | weblogic CVE-2021-2109批量验证poc | https://github.com/yuaneuro/CVE-2021-2109_poc | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows high privileged attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 7.2 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H).| 
+| 20210513T16:15:29Z | CVE-2021-2109 | weblogic CVE-2021-2109批量验证poc | https://github.com/yuaneuro/CVE-2021-2109_poc | | 
 | 20210513T11:33:03Z | CVE-2020-28502 | CVE-2020-28502 node-XMLHttpRequest RCE | https://github.com/s-index/CVE-2020-28502 | This affects the package xmlhttprequest before 1.7.0; all versions of package xmlhttprequest-ssl. Provided requests are sent synchronously (async=False on xhr.open), malicious user input flowing into xhr.send could result in arbitrary code being injected and run.| 
 | 20210513T10:33:03Z | CVE-2020-27955 | Null | https://github.com/qzyqzynb/CVE-2020-27955 | Git LFS 2.12.0 allows Remote Code Execution.| 
 | 20210513T09:59:38Z | CVE-2021-14562 | Null | https://github.com/Jarry1sec/CVE-2021-14562 | 未查询到CVE信息| 
 | 20210513T09:36:50Z | CVE-2021-20202 | Null | https://github.com/Jarry1sec/CVE-2021-20202 | A flaw was found in keycloak. Directories can be created prior to the Java process creating them in the temporary directory, but with wider user permissions, allowing the attacker to have access to the contents that keycloak stores in this directory. The highest threat from this vulnerability is to data confidentiality and integrity.| 
 | 20210513T06:45:41Z | CVE-2021-3156 | 试图在ubuntu:20.04里复现CVE-2021-3156。但是失败了，请大佬看看问题出在哪里 | https://github.com/wuuconix/CVE-2021-3156-Dockerfile-not-succeed | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210513T04:21:41Z | CVE-2021-22204 | Null | https://github.com/se162xg/CVE-2021-22204 | Improper neutralization of user data in the DjVu file format in ExifTool versions 7.44 and up allows arbitrary code execution when parsing the malicious image| 
 
 
 # klee on Github 推荐
@@ -98,7 +98,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210514T00:51:26Z | Null | https://github.com/Simon-Lozada/Backdoor_Python | 0 | 0| 
+| 20210514T00:56:28Z | Null | https://github.com/Simon-Lozada/Backdoor_Python | 0 | 0| 
+| 20210514T00:53:36Z | Null | https://github.com/Mariana-Saory-GA/backdoorattempt | 0 | 0| 
 | 20210514T00:06:29Z | Gmod Backdoor Scanner Written in C++ | https://github.com/ProtoGrace/Gmod-Backdoor-Scanner | 9 | 3| 
 | 20210513T22:20:09Z | Defending Against Backdoor Attacks Using Robust Covariance Estimation | https://github.com/SewoongLab/spectre-defense | 3 | 0| 
 | 20210513T22:17:04Z | Code for %Geometric Properties of Backdoored Neural Networks% | https://github.com/dominiccarrano/backdoor-nn-geometry | 0 | 0| 
@@ -107,7 +108,6 @@
 | 20210513T19:51:09Z | Backdoor has been discovered in Linsys WAG200G that listening on port 32764 in 2015. I decided to create this repository with some codes to access backdoor because this security hole exists today. | https://github.com/enty8080/32764-multi-backdoor | 0 | 0| 
 | 20210513T17:05:15Z | Null | https://github.com/connorbuck/backdoor-dispensary-website | 0 | 0| 
 | 20210513T14:41:27Z | Null | https://github.com/suntosdeville/backdoor | 0 | 0| 
-| 20210513T14:01:31Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 35 | 27| 
 
 
 # fuzz on Github 推荐
