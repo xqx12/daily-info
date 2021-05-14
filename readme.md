@@ -54,8 +54,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210514T11:58:16Z | Scheme flooding vulnerability: how it works and why it is a threat to anonymous browsing | https://github.com/fingerprintjs/external-protocol-flooding | 86 | 3| 
-| 20210514T11:02:47Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 10| 
+| 20210514T12:02:40Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 10| 
+| 20210514T12:01:26Z | Scheme flooding vulnerability: how it works and why it is a threat to anonymous browsing | https://github.com/fingerprintjs/external-protocol-flooding | 87 | 4| 
 | 20210514T10:56:08Z | A Python program implementing and exploiting the Minsky Turing machine considered in the paper %Intrinsic Propensity for Vulnerability in Computers? Arbitrary Code Execution in the Universal Turing Machine% as per CVE-2021-32471 (https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-32471) | https://github.com/intrinsic-propensity/turing-machine | 31 | 1| 
 | 20210514T10:46:51Z | Null | https://github.com/setzer17/exploit | 0 | 0| 
 | 20210514T10:39:08Z | The Lost Nintendo DS Television Output, brought back to life | https://github.com/LostNintendoHistory/Lost-NDS-TV | 237 | 12| 
@@ -84,11 +84,11 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210514T12:03:29Z | fuzz Tor, OpenSSL et al | https://github.com/toralf/fuzz-utils | 0 | 0| 
 | 20210514T12:00:15Z | Null | https://github.com/ercoppa/fuzzing-and-symbolic-execution-hands-on | 1 | 0| 
 | 20210514T11:58:25Z | Null | https://github.com/s9varesc/url-fuzzing | 1 | 1| 
 | 20210514T11:51:10Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1187 | 211| 
 | 20210514T11:42:35Z | Ev description  | https://github.com/muz4151/fuzzy-succotash | 0 | 0| 
-| 20210514T11:34:52Z | fuzz Tor, OpenSSL et al | https://github.com/toralf/fuzz-utils | 0 | 0| 
 | 20210514T11:33:24Z | PerformanceFuzzer | https://github.com/KKimj/PerformanceFuzzer | 1 | 0| 
 | 20210514T11:24:44Z | Null | https://github.com/ThePatrickStar/fuzzer-data-collector | 12 | 1| 
 | 20210514T10:42:11Z | Null | https://github.com/mmunar97/discrete-fuzzy-operators | 0 | 0| 
