@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210514T00:51:39Z | CVE-2020-8813 | Null | https://github.com/m4udSec/Cacti-CVE-2020-8813 | 未查询到CVE信息| 
-| 20210514T00:30:29Z | CVE-2021-21551 | Exploit to SYSTEM for CVE-2021-21551 | https://github.com/waldo-irc/CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
-| 20210513T22:43:50Z | CVE-2020-28018 | Exploit for Exim4 4.93 CVE-2020-28018 | https://github.com/lmol/CVE-2020-28018 | 未查询到CVE信息| 
+| 20210514T01:20:15Z | CVE-2021-21551 | Exploit to SYSTEM for CVE-2021-21551 | https://github.com/waldo-irc/CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
+| 20210514T00:51:39Z | CVE-2020-8813 | Null | https://github.com/m4udSec/Cacti-CVE-2020-8813 | | 
+| 20210513T22:43:50Z | CVE-2020-28018 | Exploit for Exim4 4.93 CVE-2020-28018 | https://github.com/lmol/CVE-2020-28018 | Exim 4 before 4.94.2 allows Use After Free in smtp_reset in certain situations that may be common for builds with OpenSSL.| 
 | 20210513T20:12:00Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210513T16:15:29Z | CVE-2021-2109 | weblogic CVE-2021-2109批量验证poc | https://github.com/yuaneuro/CVE-2021-2109_poc | | 
-| 20210513T11:33:03Z | CVE-2020-28502 | CVE-2020-28502 node-XMLHttpRequest RCE | https://github.com/s-index/CVE-2020-28502 | This affects the package xmlhttprequest before 1.7.0; all versions of package xmlhttprequest-ssl. Provided requests are sent synchronously (async=False on xhr.open), malicious user input flowing into xhr.send could result in arbitrary code being injected and run.| 
+| 20210513T11:33:03Z | CVE-2020-28502 | CVE-2020-28502 node-XMLHttpRequest RCE | https://github.com/s-index/CVE-2020-28502 | | 
 | 20210513T10:33:03Z | CVE-2020-27955 | Null | https://github.com/qzyqzynb/CVE-2020-27955 | Git LFS 2.12.0 allows Remote Code Execution.| 
 | 20210513T09:59:38Z | CVE-2021-14562 | Null | https://github.com/Jarry1sec/CVE-2021-14562 | 未查询到CVE信息| 
 | 20210513T09:36:50Z | CVE-2021-20202 | Null | https://github.com/Jarry1sec/CVE-2021-20202 | A flaw was found in keycloak. Directories can be created prior to the Java process creating them in the temporary directory, but with wider user permissions, allowing the attacker to have access to the contents that keycloak stores in this directory. The highest threat from this vulnerability is to data confidentiality and integrity.| 
-| 20210513T06:45:41Z | CVE-2021-3156 | 试图在ubuntu:20.04里复现CVE-2021-3156。但是失败了，请大佬看看问题出在哪里 | https://github.com/wuuconix/CVE-2021-3156-Dockerfile-not-succeed | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210513T06:45:41Z | CVE-2021-3156 | 试图在ubuntu:20.04里复现CVE-2021-3156。但是失败了，请大佬看看问题出在哪里 | https://github.com/wuuconix/CVE-2021-3156-Dockerfile-not-succeed | | 
 
 
 # klee on Github 推荐
@@ -83,23 +83,23 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210514T01:12:23Z | Kernel Exploits | https://github.com/connormcgarr/Kernel-Exploits | 53 | 15| 
+| 20210514T01:08:15Z | Scheme flooding vulnerability: how it works and why it is a threat to anonymous browsing | https://github.com/fingerprintjs/external-protocol-flooding | 50 | 0| 
+| 20210514T01:04:25Z | Null | https://github.com/robloxHacks2021/Exploit-GUI | 0 | 0| 
+| 20210514T01:02:40Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 10| 
 | 20210514T00:51:09Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 16 | 11| 
 | 20210514T00:34:40Z | Null | https://github.com/nrb547/kernel-exploitation | 1 | 0| 
 | 20210514T00:03:17Z | Null | https://github.com/0xCaramel/Exploits | 0 | 0| 
-| 20210514T00:02:57Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 10| 
 | 20210513T23:57:26Z | Null | https://github.com/MorphyKutay/Boolean-bases-SQLi-Exploit-Script | 0 | 0| 
 | 20210513T23:55:14Z | CVE-2017-7494 python exploit | https://github.com/m4udSec/noSAMBAnoCRY-CVE-2017-7494 | 0 | 0| 
-| 20210513T23:50:39Z | Scheme flooding vulnerability: how it works and why it is a threat to anonymous browsing | https://github.com/fingerprintjs/external-protocol-flooding | 48 | 0| 
 | 20210513T23:47:30Z | Fix exploits on anarchy minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 36 | 7| 
-| 20210513T23:38:47Z | my post-exploitation stuff automator for tryhackme%s king of the hill | https://github.com/blvckmetxl/a4k | 0 | 0| 
-| 20210513T23:27:40Z | Kernel Exploits | https://github.com/connormcgarr/Kernel-Exploits | 52 | 15| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210514T01:16:20Z | This is a test project to know how it works a backdoor and how can we protect our PC , please take care and do not use for bad intentions. | https://github.com/Mariana-Saory-GA/backdoorattempt | 0 | 0| 
 | 20210514T00:56:28Z | Null | https://github.com/Simon-Lozada/Backdoor_Python | 0 | 0| 
-| 20210514T00:53:36Z | Null | https://github.com/Mariana-Saory-GA/backdoorattempt | 0 | 0| 
 | 20210514T00:06:29Z | Gmod Backdoor Scanner Written in C++ | https://github.com/ProtoGrace/Gmod-Backdoor-Scanner | 9 | 3| 
 | 20210513T22:20:09Z | Defending Against Backdoor Attacks Using Robust Covariance Estimation | https://github.com/SewoongLab/spectre-defense | 3 | 0| 
 | 20210513T22:17:04Z | Code for %Geometric Properties of Backdoored Neural Networks% | https://github.com/dominiccarrano/backdoor-nn-geometry | 0 | 0| 
@@ -113,6 +113,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210514T01:16:44Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
+| 20210514T01:10:34Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 281 | 38| 
 | 20210514T00:40:44Z | Null | https://github.com/qviet1602/fuzzy_matching | 0 | 0| 
 | 20210514T00:11:27Z | Null | https://github.com/aplawson7707/fuzzy_matching | 0 | 0| 
 | 20210514T00:06:41Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 6 | 5| 
@@ -121,8 +123,6 @@
 | 20210513T22:21:06Z | This repository is a C example of Reed-Solomon encoding with fuzzy encoding. | https://github.com/jweezy24/Fuzzy_Encryption | 0 | 0| 
 | 20210513T22:02:52Z | Null | https://github.com/XOMAv2/NeuroFuzzySystemsLabs | 0 | 0| 
 | 20210513T21:54:17Z | Null | https://github.com/kacxsku/fuzzy-Sets-Python | 0 | 0| 
-| 20210513T21:51:45Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 785 | 81| 
-| 20210513T21:29:38Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4489 | 437| 
 
 
 
