@@ -99,31 +99,31 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210514T11:45:34Z | une backdoor en python/javascript  | https://github.com/nqkoz/backdoor | 1 | 0| 
+| 20210514T10:50:36Z | 🤖An Evil and Smart Bot for Enslaving Windows. | https://github.com/wildonion/katyusha | 3 | 1| 
+| 20210514T09:45:14Z | Backdoor has been discovered in Linsys WAG200G that listening on port 32764 in 2015. I decided to create this repository with some codes to access backdoor because this security hole exists today. | https://github.com/enty8080/32764-multi-backdoor | 1 | 0| 
+| 20210514T09:23:40Z | Null | https://github.com/Hem1700/backdoor | 0 | 0| 
+| 20210514T09:18:09Z | Null | https://github.com/Ding-Rui-hust/Research-on-backdoor-attack-in-Brain-omputer-interface | 0 | 0| 
+| 20210514T08:18:27Z | Null | https://github.com/hlinwang/backdoor | 0 | 0| 
+| 20210514T07:41:13Z | Patch PE, ELF, Mach-O binaries with shellcode new version in development, available only to sponsors | https://github.com/secretsquirrel/the-backdoor-factory | 2754 | 750| 
+| 20210514T06:15:00Z | Null | https://github.com/JiannanXiao6/backdoor | 0 | 0| 
+| 20210514T04:33:36Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 234 | 38| 
 | 20210514T01:16:20Z | This is a test project to know how it works a backdoor and how can we protect our PC , please take care and do not use for bad intentions. | https://github.com/Mariana-Saory-GA/backdoorattempt | 0 | 0| 
-| 20210514T00:56:28Z | Null | https://github.com/Simon-Lozada/Backdoor_Python | 0 | 0| 
-| 20210514T00:06:29Z | Gmod Backdoor Scanner Written in C++ | https://github.com/ProtoGrace/Gmod-Backdoor-Scanner | 9 | 3| 
-| 20210513T22:20:09Z | Defending Against Backdoor Attacks Using Robust Covariance Estimation | https://github.com/SewoongLab/spectre-defense | 3 | 0| 
-| 20210513T22:17:04Z | Code for %Geometric Properties of Backdoored Neural Networks% | https://github.com/dominiccarrano/backdoor-nn-geometry | 0 | 0| 
-| 20210513T21:15:22Z | une backdoor en python/javascript  | https://github.com/nqkoz/backdoor | 0 | 0| 
-| 20210513T20:29:49Z | Python 3 Reverse Shell | https://github.com/trackmastersteve/shell | 12 | 4| 
-| 20210513T19:51:09Z | Backdoor has been discovered in Linsys WAG200G that listening on port 32764 in 2015. I decided to create this repository with some codes to access backdoor because this security hole exists today. | https://github.com/enty8080/32764-multi-backdoor | 0 | 0| 
-| 20210513T17:05:15Z | Null | https://github.com/connorbuck/backdoor-dispensary-website | 0 | 0| 
-| 20210513T14:41:27Z | Null | https://github.com/suntosdeville/backdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210514T02:02:11Z | Custom link shortner | https://github.com/appukuttan66/fuzzy-invention | 0 | 0| 
-| 20210514T01:39:55Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 4482 | 523| 
-| 20210514T01:16:44Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
-| 20210514T01:10:34Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 281 | 38| 
-| 20210514T00:40:44Z | Null | https://github.com/qviet1602/fuzzy_matching | 0 | 0| 
-| 20210514T00:11:27Z | Null | https://github.com/aplawson7707/fuzzy_matching | 0 | 0| 
-| 20210514T00:06:41Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 6 | 5| 
-| 20210513T23:28:26Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 620 | 97| 
-| 20210513T22:40:30Z | Null | https://github.com/Procode10/fuzzy-fiesta | 0 | 0| 
-| 20210513T22:21:06Z | This repository is a C example of Reed-Solomon encoding with fuzzy encoding. | https://github.com/jweezy24/Fuzzy_Encryption | 0 | 0| 
+| 20210514T12:00:15Z | Null | https://github.com/ercoppa/fuzzing-and-symbolic-execution-hands-on | 1 | 0| 
+| 20210514T11:58:25Z | Null | https://github.com/s9varesc/url-fuzzing | 1 | 1| 
+| 20210514T11:51:10Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1187 | 211| 
+| 20210514T11:42:35Z | Ev description  | https://github.com/muz4151/fuzzy-succotash | 0 | 0| 
+| 20210514T11:34:52Z | fuzz Tor, OpenSSL et al | https://github.com/toralf/fuzz-utils | 0 | 0| 
+| 20210514T11:33:24Z | PerformanceFuzzer | https://github.com/KKimj/PerformanceFuzzer | 1 | 0| 
+| 20210514T11:24:44Z | Null | https://github.com/ThePatrickStar/fuzzer-data-collector | 12 | 1| 
+| 20210514T10:42:11Z | Null | https://github.com/mmunar97/discrete-fuzzy-operators | 0 | 0| 
+| 20210514T10:33:20Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
+| 20210514T09:53:27Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
 
 
 
