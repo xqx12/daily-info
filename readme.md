@@ -17,6 +17,9 @@
 | 20210513 | ExifTool CVE-2021-22204 任意代码执行漏洞的分析 | https://blog.bricked.tech/posts/exiftool/| 
 | 20210513 | 梅赛德斯-奔驰汽车信息安全研究综述报告 | https://sec.today/pulses/3d7a9f57-8732-43f5-8dc3-02d4655b57ae/| 
 | 20210513 | 梅赛德斯-奔驰汽车信息安全研究综述报告 | https://keenlab.tencent.com/zh/2021/05/12/Tencent-Security-Keen-Lab-Experimental-Security-Assessment-on-Mercedes-Benz-Cars/| 
+| 20210513 | 研究人员发现Apple的设备通过利用的“Find My”网络功能收集蓝牙设备信息。 | https://threatpost.com/apple-find-my-exploited-bluetooth/166121/| 
+| 20210513 | 开发Chrome扩展程序的有用技巧总结。 | https://textslashplain.com/2016/10/03/useful-resources-when-developing-chrome-extensions/| 
+| 20210513 | Microsoft的事件响应指南手册。 | https://docs.microsoft.com/en-us/security/compass/incident-response-playbooks| 
 
 
 # 安全维基 推荐
@@ -31,20 +34,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210513T11:33:03Z | CVE-2020-28502 | CVE-2020-28502 node-XMLHttpRequest RCE | https://github.com/s-index/CVE-2020-28502 | This affects the package xmlhttprequest before 1.7.0; all versions of package xmlhttprequest-ssl. Provided requests are sent synchronously (async=False on xhr.open), malicious user input flowing into xhr.send could result in arbitrary code being injected and run.| 
-| 20210513T10:33:03Z | CVE-2020-27955 | Null | https://github.com/qzyqzynb/CVE-2020-27955 | Git LFS 2.12.0 allows Remote Code Execution.| 
+| 20210513T23:38:27Z | CVE-2021-21551 | Exploit to SYSTEM for CVE-2021-21551 | https://github.com/waldo-irc/CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
+| 20210513T22:43:50Z | CVE-2020-28018 | Exploit for Exim4 4.93 CVE-2020-28018 | https://github.com/lmol/CVE-2020-28018 | 未查询到CVE信息| 
+| 20210513T20:12:00Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | | 
+| 20210513T16:15:29Z | CVE-2021-2109 | weblogic CVE-2021-2109批量验证poc | https://github.com/yuaneuro/CVE-2021-2109_poc | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows high privileged attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 7.2 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H).| 
+| 20210513T11:33:03Z | CVE-2020-28502 | CVE-2020-28502 node-XMLHttpRequest RCE | https://github.com/s-index/CVE-2020-28502 | 未查询到CVE信息| 
+| 20210513T10:33:03Z | CVE-2020-27955 | Null | https://github.com/qzyqzynb/CVE-2020-27955 | 未查询到CVE信息| 
 | 20210513T09:59:38Z | CVE-2021-14562 | Null | https://github.com/Jarry1sec/CVE-2021-14562 | 未查询到CVE信息| 
 | 20210513T09:36:50Z | CVE-2021-20202 | Null | https://github.com/Jarry1sec/CVE-2021-20202 | A flaw was found in keycloak. Directories can be created prior to the Java process creating them in the temporary directory, but with wider user permissions, allowing the attacker to have access to the contents that keycloak stores in this directory. The highest threat from this vulnerability is to data confidentiality and integrity.| 
 | 20210513T06:45:41Z | CVE-2021-3156 | 试图在ubuntu:20.04里复现CVE-2021-3156。但是失败了，请大佬看看问题出在哪里 | https://github.com/wuuconix/CVE-2021-3156-Dockerfile-not-succeed | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210513T04:21:41Z | CVE-2021-22204 | Null | https://github.com/se162xg/CVE-2021-22204 | Improper neutralization of user data in the DjVu file format in ExifTool versions 7.44 and up allows arbitrary code execution when parsing the malicious image| 
-| 20210513T03:25:36Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210513T02:19:51Z | CVE-2020-8813 | Null | https://github.com/m4udSec/Cacti-CVE-2020-8813 | graph_realtime.php in Cacti 1.2.8 allows remote attackers to execute arbitrary OS commands via shell metacharacters in a cookie, if a guest user has the graph real-time privilege.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210513T11:30:48Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 584 | 14| 
+| 20210513T23:57:08Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 586 | 14| 
+| 20210513T19:19:45Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 14 | 43| 
 | 20210513T08:26:19Z | 99484 A & C team Worlds Code for 2021 Live-Remote Skills | https://github.com/Jython1415/penguin-Klee | 1 | 0| 
 | 20210513T00:47:06Z | Urban Evidence Based Policy | https://github.com/KLeeDE/PUS2020_KLee | 0 | 1| 
 
@@ -52,35 +58,38 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210513T18:00:06Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 120 | 30| 
+| 20210513T16:34:23Z | Null | https://github.com/yuvalkirstain/s2e-coref | 4 | 2| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210513T12:54:33Z | 在科研（摸鱼）过程中，收集到的或者自己写的一些有用的（经过实战检验的）exp/poc，欢迎提交issue和PR | https://github.com/ycdxsb/Exploits | 2 | 1| 
-| 20210513T12:51:09Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 16 | 11| 
-| 20210513T12:44:59Z | Educational web application demonstrating techniques of binary exploitation (Front-end) | https://github.com/Pen-Test3rs/binary_exploits_frontend | 0 | 0| 
-| 20210513T12:42:51Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 3645 | 533| 
-| 20210513T12:42:04Z | This is the source code of the first exploit i made, enjoy :D | https://github.com/Ferripro321/Fersploit-hr-4.1-ui-source | 0 | 0| 
-| 20210513T12:36:05Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9422 | 1520| 
-| 20210513T12:02:40Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 10| 
-| 20210513T12:00:21Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7864 | 1388| 
-| 20210513T11:58:45Z | A Python program implementing and exploiting the Minsky Turing machine considered in the paper %Intrinsic Propensity for Vulnerability in Computers? Arbitrary Code Execution in the Universal Turing Machine% | https://github.com/intrinsic-propensity/turing-machine | 29 | 1| 
-| 20210513T11:53:47Z | Root repository for CS 6265: Information Security Lab - Reverse Engineering and Binary Exploitation | https://github.com/one2blame/cs6265 | 1 | 2| 
+| 20210513T23:57:26Z | Null | https://github.com/MorphyKutay/Boolean-bases-SQLi-Exploit-Script | 0 | 0| 
+| 20210513T23:55:14Z | CVE-2017-7494 python exploit | https://github.com/m4udSec/noSAMBAnoCRY-CVE-2017-7494 | 0 | 0| 
+| 20210513T23:50:39Z | Scheme flooding vulnerability: how it works and why it is a threat to anonymous browsing | https://github.com/fingerprintjs/external-protocol-flooding | 48 | 0| 
+| 20210513T23:47:30Z | Fix exploits on anarchy minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 36 | 7| 
+| 20210513T23:38:47Z | my post-exploitation stuff automator for tryhackme%s king of the hill | https://github.com/blvckmetxl/a4k | 0 | 0| 
+| 20210513T23:37:50Z | Null | https://github.com/nrb547/kernel-exploitation | 0 | 0| 
+| 20210513T23:27:40Z | Kernel Exploits | https://github.com/connormcgarr/Kernel-Exploits | 52 | 15| 
+| 20210513T23:01:19Z | Ivan Ricart Borges - Test for didactic purposes of web pages vulnerables to SQL injection using dbo database user with xp_cmdshell execution permissions. Using patterns from Internet search engines to extract potentially vulnerable web addresses and test them by changing the GET parameters using invalid Transact-SQL conversion function to cause through unhandled errors by IIS web server to show critical information. If certain features are given and using advanced injection techniques a malicious attacker could gain control of the entire system by executing shell commands in the SQL database engine. | https://github.com/iricartb/advanced-sql-injection-scanner | 11 | 8| 
+| 20210513T22:58:48Z | Extensible framework for analyzing publicly available information about vulnerabilities | https://github.com/leonov-av/vulristics | 27 | 1| 
+| 20210513T22:55:05Z | labsecurity is a framework and its use is for ethical hacking and computer security | https://github.com/dylan14567/labsecurity | 1 | 3| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210513T22:20:09Z | Defending Against Backdoor Attacks Using Robust Covariance Estimation | https://github.com/SewoongLab/spectre-defense | 3 | 0| 
+| 20210513T22:17:04Z | Code for %Geometric Properties of Backdoored Neural Networks% | https://github.com/dominiccarrano/backdoor-nn-geometry | 0 | 0| 
+| 20210513T21:15:22Z | une backdoor en python/javascript  | https://github.com/nqkoz/backdoor | 0 | 0| 
+| 20210513T20:29:49Z | Python 3 Reverse Shell | https://github.com/trackmastersteve/shell | 12 | 4| 
+| 20210513T19:51:09Z | Backdoor has been discovered in Linsys WAG200G that listening on port 32764 in 2015. I decided to create this repository with some codes to access backdoor because this security hole exists today. | https://github.com/enty8080/32764-multi-backdoor | 0 | 0| 
+| 20210513T17:05:15Z | Null | https://github.com/connorbuck/backdoor-dispensary-website | 0 | 0| 
+| 20210513T14:41:27Z | Null | https://github.com/suntosdeville/backdoor | 0 | 0| 
+| 20210513T14:01:31Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 35 | 27| 
 | 20210513T12:41:21Z | code for mutation for backdoor | https://github.com/newcoming345/mutation-for-backdoor | 0 | 0| 
 | 20210513T09:50:40Z | Null | https://github.com/TheIceSlime/Backdoor-Plugin-Better | 0 | 0| 
-| 20210513T09:29:44Z | Null | https://github.com/JiannanXiao6/backdoor | 0 | 0| 
-| 20210513T08:05:17Z | Null | https://github.com/Hem1700/backdoor | 0 | 0| 
-| 20210513T07:30:32Z | This is 2 python programs that i have developed that is a client and a server side. The server side is the listener which will be held for listening for open connections. The client side is the payload which the victim will be executing thus giving the attacker a connection to their computer! | https://github.com/MalwareMix/Python-Backdoor | 1 | 0| 
-| 20210513T06:27:27Z | A general-purpose backdoor for ethical hacking. Made with utility in mind. | https://github.com/cmplxapps/Hacking-Repostory | 0 | 0| 
-| 20210513T04:24:47Z | A basic app for testing backdoors | https://github.com/Iancrix/backdoors-app | 0 | 0| 
-| 20210513T02:16:47Z | A simple remote tool written in C#.    一个简单的c#远控 | https://github.com/qwqdanchun/DcRat | 89 | 36| 
-| 20210513T01:39:05Z | Text-based adventure based on Black Hills Information Security%s %Backdoors and Breaches% | https://github.com/mttaggart/bnb-py | 1 | 0| 
 
 
 # fuzz on Github 推荐
