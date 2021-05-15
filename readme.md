@@ -35,8 +35,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210515T12:48:35Z | Scheme flooding vulnerability: how it works and why it is a threat to anonymous browsing | https://github.com/fingerprintjs/external-protocol-flooding | 224 | 10| 
 | 20210515T12:42:42Z | Bukkit plugin that aims on fixing Exploits in your Minecraft network. [Requires HamsterAPI to work] | https://github.com/2lstudios-mc/ExploitFixer | 93 | 27| 
-| 20210515T12:41:11Z | Scheme flooding vulnerability: how it works and why it is a threat to anonymous browsing | https://github.com/fingerprintjs/external-protocol-flooding | 223 | 10| 
 | 20210515T12:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9428 | 1525| 
 | 20210515T12:34:13Z | Deface Ajax getInterests Auto Exploit | https://github.com/VQxyrog/OJS | 0 | 0| 
 | 20210515T12:24:56Z | a writeup for exploit.education/nebula | https://github.com/vi11ain/nebula-writeup | 0 | 0| 
@@ -64,6 +64,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210515T12:39:57Z | ClusterFuzz官方文档中文翻译 | https://github.com/Vancir/clusterfuzz-document-cn | 2 | 0| 
 | 20210515T12:31:35Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
 | 20210515T11:06:59Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
 | 20210515T11:02:30Z | Emulation based snapshot fuzzer | https://github.com/joelengelcrona/gingersnap | 0 | 0| 
@@ -73,7 +74,6 @@
 | 20210515T09:27:06Z | Simple GTK Fuzzer | https://github.com/qarmin/GtkFuzzer | 0 | 0| 
 | 20210515T09:24:18Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3507 | 814| 
 | 20210515T09:09:24Z | Reproduce bugs in https://github.com/google/fuzzer-test-suite | https://github.com/K-atc/reproduce-bugs-in-fuzzer-test-suite | 0 | 0| 
-| 20210515T09:03:45Z | A  playground to learn computer graphics | https://github.com/patiboh/fuzzy-playground | 1 | 0| 
 
 
 
