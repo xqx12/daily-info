@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210515T00:51:10Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 16 | 11| 
 | 20210515T00:11:56Z | OSINT, Threat Hunting, Network and Web Recon, Discovery, Enumeration, Vulnerability Mapping, Exploitation, Reporting | https://github.com/aryanguenthner/365 | 8 | 4| 
 | 20210515T00:10:43Z | Deface Ajax getInterests Auto Exploit | https://github.com/VQxyrog/OJS | 0 | 0| 
 | 20210515T00:09:03Z | Project Carthage is a Roblox Exploit that inspired by code lyoko | https://github.com/DeletedUser0x96/Project-Carthage | 0 | 0| 
@@ -93,7 +94,6 @@
 | 20210514T23:44:01Z | Exploits project Hacking Command Center | https://github.com/chacka0101/exploits | 5 | 6| 
 | 20210514T23:23:21Z | labsecurity is a framework and its use is for ethical hacking and computer security | https://github.com/dylan14567/labsecurity | 1 | 3| 
 | 20210514T23:21:30Z | Extensible framework for analyzing publicly available information about vulnerabilities | https://github.com/leonov-av/vulristics | 27 | 1| 
-| 20210514T23:11:01Z | a deeper dive into exploiting the SHA-1 hashing algorithm | https://github.com/aabdelw1/length-extension-attack | 0 | 0| 
 
 
 # backdoor on Github 推荐
