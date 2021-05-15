@@ -46,25 +46,25 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210515T08:31:40Z | CVE-2021-21551 | Exploit to SYSTEM for CVE-2021-21551 | https://github.com/waldo-irc/CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
 | 20210515T01:26:09Z | CVE-2021-27342 | Exploit for CVE-2021-27342 vulnerability (telnet authentication brute-force protection bypass) | https://github.com/guywhataguy/D-Link-CVE-2021-27342-exploit | 未查询到CVE信息| 
-| 20210515T00:49:55Z | CVE-2021-21551 | Exploit to SYSTEM for CVE-2021-21551 | https://github.com/waldo-irc/CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
 | 20210514T23:10:35Z | 未知编号 | A Python program implementing and exploiting the Minsky Turing machine considered in the paper "Intrinsic Propensity for Vulnerability in Computers? Arbitrary Code Execution in the Universal Turing Machine" as per CVE-2021-32471 (https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-32471) | https://github.com/intrinsic-propensity/turing-machine | 未查询到CVE信息| 
-| 20210514T17:15:24Z | CVE-2020-8813 | Null | https://github.com/m4udSec/Cacti-CVE-2020-8813 | 未查询到CVE信息| 
-| 20210514T16:00:43Z | CVE-2020-28502 | CVE-2020-28502 node-XMLHttpRequest RCE | https://github.com/s-index/CVE-2020-28502 | | 
+| 20210514T17:15:24Z | CVE-2020-8813 | Null | https://github.com/m4udSec/Cacti-CVE-2020-8813 | graph_realtime.php in Cacti 1.2.8 allows remote attackers to execute arbitrary OS commands via shell metacharacters in a cookie, if a guest user has the graph real-time privilege.| 
+| 20210514T16:00:43Z | CVE-2020-28502 | CVE-2020-28502 node-XMLHttpRequest RCE | https://github.com/s-index/CVE-2020-28502 | This affects the package xmlhttprequest before 1.7.0; all versions of package xmlhttprequest-ssl. Provided requests are sent synchronously (async=False on xhr.open), malicious user input flowing into xhr.send could result in arbitrary code being injected and run.| 
 | 20210514T13:32:39Z | CVE-2021-21300 | CVE-2021-21300 | https://github.com/tao-sun2/CVE-2021-21300 | Git is an open-source distributed revision control system. In affected versions of Git a specially crafted repository that contains symbolic links as well as files using a clean/smudge filter such as Git LFS, may cause just-checked out script to be executed while cloning onto a case-insensitive file system such as NTFS, HFS+ or APFS (i.e. the default file systems on Windows and macOS). Note that clean/smudge filters have to be configured for that. Git for Windows configures Git LFS by default, and is therefore vulnerable. The problem has been patched in the versions published on Tuesday, March 9th, 2021. As a workaound, if symbolic link support is disabled in Git (e.g. via `git config --global core.symlinks false`), the described attack won%t work. Likewise, if no clean/smudge filters such as Git LFS are configured globally (i.e. _before_ cloning), the attack is foiled. As always, it is best to avoid cloning repositories from untrusted sources. The earliest impacted version is 2.14.2. The fix versions are: 2.30.1, 2.29.3, 2.28.1, 2.27.1, 2.26.3, 2.25.5, 2.24.4, 2.23.4, 2.22.5, 2.21.4, 2.20.5, 2.19.6, 2.18.5, 2.17.62.17.6.| 
 | 20210514T08:03:43Z | CVE-2021-2021 | This is a good projects. | https://github.com/TheCryingGame/CVE-2021-2021good | Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Optimizer). Supported versions that are affected are 8.0.22 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server. Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of MySQL Server. CVSS 3.1 Base Score 4.9 (Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:N/I:N/A:H).| 
 | 20210514T05:44:37Z | CVE-2021-2109 | weblogic CVE-2021-2109批量验证poc | https://github.com/yuaneuro/CVE-2021-2109_poc | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows high privileged attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 7.2 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H).| 
-| 20210513T22:43:50Z | CVE-2020-28018 | Exploit for Exim4 4.93 CVE-2020-28018 | https://github.com/lmol/CVE-2020-28018 | 未查询到CVE信息| 
-| 20210513T20:12:00Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | 未查询到CVE信息| 
+| 20210513T22:43:50Z | CVE-2020-28018 | Exploit for Exim4 4.93 CVE-2020-28018 | https://github.com/lmol/CVE-2020-28018 | Exim 4 before 4.94.2 allows Use After Free in smtp_reset in certain situations that may be common for builds with OpenSSL.| 
+| 20210513T20:12:00Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210515T11:44:56Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 593 | 14| 
+| 20210515T03:01:01Z | Null | https://github.com/fontworks-fonts/Klee | 446 | 13| 
 | 20210514T23:02:07Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1690 | 492| 
 | 20210514T20:24:17Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 14 | 43| 
-| 20210514T19:01:54Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 590 | 14| 
-| 20210514T17:34:32Z | Null | https://github.com/fontworks-fonts/Klee | 445 | 13| 
 | 20210514T14:57:49Z | Null | https://github.com/KLeelaSantosh/kleelas | 0 | 0| 
 | 20210514T07:39:11Z | Null | https://github.com/KLeelaSantosh/kleeelasantosh | 0 | 0| 
 | 20210514T07:36:46Z | Null | https://github.com/KLeelaSantosh/kleela | 0 | 0| 
@@ -84,31 +84,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210515T01:26:09Z | Exploit for CVE-2021-27342 vulnerability (telnet authentication brute-force protection bypass) | https://github.com/guywhataguy/D-Link-CVE-2021-27342-exploit | 0 | 0| 
-| 20210515T01:22:38Z | Deface Ajax getInterests Auto Exploit | https://github.com/VQxyrog/OJS | 0 | 0| 
-| 20210515T01:15:35Z | samsung OfficeServ curl username and password | https://github.com/codezeroooo/samsung-OfficeServ-exploit | 1 | 0| 
-| 20210515T01:02:46Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 10| 
-| 20210515T00:51:10Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 16 | 11| 
-| 20210515T00:11:56Z | OSINT, Threat Hunting, Network and Web Recon, Discovery, Enumeration, Vulnerability Mapping, Exploitation, Reporting | https://github.com/aryanguenthner/365 | 8 | 4| 
-| 20210515T00:09:03Z | Project Carthage is a Roblox Exploit that inspired by code lyoko | https://github.com/DeletedUser0x96/Project-Carthage | 0 | 0| 
-| 20210514T23:48:19Z | My first Roblox GUI. | https://github.com/Remfly/remXskull-exploit | 1 | 0| 
-| 20210514T23:46:29Z | Null | https://github.com/nenun/Web-Exploit-Scanner | 0 | 1| 
-| 20210514T23:44:01Z | Exploits project Hacking Command Center | https://github.com/chacka0101/exploits | 5 | 6| 
+| 20210515T11:59:43Z | Scheme flooding vulnerability: how it works and why it is a threat to anonymous browsing | https://github.com/fingerprintjs/external-protocol-flooding | 219 | 9| 
+| 20210515T11:58:55Z | a writeup for exploit.education/nebula | https://github.com/vi11ain/nebula-writeup | 0 | 0| 
+| 20210515T11:57:29Z | Ivan Ricart Borges - Test for didactic purposes of web pages vulnerables to SQL injection using dbo database user with xp_cmdshell execution permissions. Using patterns from Internet search engines to extract potentially vulnerable web addresses and test them by changing the GET parameters using invalid Transact-SQL conversion function to cause through unhandled errors by IIS web server to show critical information. If certain features are given and using advanced injection techniques a malicious attacker could gain control of the entire system by executing shell commands in the SQL database engine. | https://github.com/iricartb/advanced-sql-injection-scanner | 11 | 8| 
+| 20210515T11:46:39Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 462 | 86| 
+| 20210515T11:44:09Z | K8博客内容存档 | https://github.com/k8gege/k8gege.github.io | 13 | 7| 
+| 20210515T11:41:11Z | Automated NoSQL database enumeration and web application exploitation tool | https://github.com/netslutter/NoSQLMap | 0 | 0| 
+| 20210515T11:38:50Z | 大型内网渗透扫描器&Cobalt Strike，Ladon7.2内置94个模块，包含信息收集/存活主机/端口扫描/服务识别/密码爆破/漏洞检测/漏洞利用。漏洞检测含MS17010/SMBGhost/Weblogic/ActiveMQ/Tomcat/Struts2，密码口令爆破(Mysql/Oracle/MSSQL)/FTP/SSH(Linux)/VNC/Windows(IPC/WMI/SMB/Netbios/LDAP/SmbHash/WmiHash/Winrm),远程执行命令(wmiexe/psexec/atexec/sshexec/webshell),降权提权Runas、GetSystem，Poc/Exploit,支持Cobalt Strike 3.X-4.0 | https://github.com/k8gege/Ladon | 2454 | 598| 
+| 20210515T11:29:44Z | A python based tool for exploiting and managing android devices via ADB | https://github.com/krishpranav/adbsploit | 1 | 0| 
+| 20210515T11:22:13Z | Null | https://github.com/hexcellents/sss-exploit | 5 | 0| 
+| 20210515T11:16:26Z | Null | https://github.com/fu2x2000/woo_exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210515T09:54:42Z | Backdoor Attack in the Frequency Domain | https://github.com/FTrojanAttack/FTrojan | 0 | 0| 
+| 20210515T09:30:45Z | Null | https://github.com/piyushsharma220699/Backdoor-in-Cyber-Security | 0 | 0| 
+| 20210515T08:40:22Z | Hanoman is an GUI antivirus engine singature based detection 🐒 | https://github.com/hrtywhy/Hanoman | 1 | 1| 
+| 20210515T08:37:27Z | Null | https://github.com/Hem1700/backdoor | 0 | 0| 
+| 20210515T08:31:53Z | This program is an non-object oriented opensource, hidden and undetectable backdoor/reverse shell/RAT for Windows made in Python 3 which contains many features such as multi-client support and cross-platform server. | https://github.com/xp4xbox/Python-Backdoor | 390 | 142| 
+| 20210515T08:29:30Z | Backend for our cyber security forum - %Backdoor% | https://github.com/backdoor-epics/backdoor-backend | 0 | 0| 
+| 20210515T05:18:58Z | a malware project | https://github.com/uma2627/backdoor | 0 | 0| 
+| 20210515T04:32:51Z | backdoor-for-tefw | https://github.com/JoyGhoshs/tefw-backdoors | 2 | 1| 
 | 20210515T00:33:44Z | A basic app for testing backdoors | https://github.com/Iancrix/backdoors-app | 0 | 0| 
 | 20210514T21:22:53Z | Gmod Backdoor Scanner Written in C++ | https://github.com/ProtoGrace/Gmod-Backdoor-Scanner | 10 | 3| 
-| 20210514T20:01:49Z | Null | https://github.com/Albeeeeeeeert/DevoFiler-uden-backdoors-og-fejl | 0 | 0| 
-| 20210514T19:36:43Z | A demo and explanation of how a trojan backdoor attack can be performed on the classic MNIST experiment | https://github.com/adit-bala/Introduction-to-Trojans-in-AI | 0 | 0| 
-| 20210514T19:05:04Z | Python 3 IRC Bot / Botnet | https://github.com/trackmastersteve/HackServ | 19 | 16| 
-| 20210514T19:00:48Z | Null | https://github.com/narenmanoj/backdoor-adv-training | 0 | 0| 
-| 20210514T16:39:55Z | Simple backdoor using lib python%s socket and subprocess for Windows | https://github.com/NoNameoN-A/Backdoor-Client-Server-Socket-Python | 3 | 1| 
-| 20210514T16:23:41Z | Null | https://github.com/JiannanXiao6/backdoor | 0 | 0| 
-| 20210514T15:31:00Z | This program is an non-object oriented opensource, hidden and undetectable backdoor/reverse shell/RAT for Windows made in Python 3 which contains many features such as multi-client support and cross-platform server. | https://github.com/xp4xbox/Python-Backdoor | 389 | 142| 
-| 20210514T15:03:46Z | This is a simple backdoor for education purposes | https://github.com/Yegorius171/simple_backdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐
