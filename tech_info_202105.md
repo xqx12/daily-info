@@ -114,7 +114,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210515T01:28:07Z | CS 4152 Project | https://github.com/nicbarone/Fuzzy-Kiwi | 0 | 0| 
+| 20210515T01:46:37Z | CS 4152 Project | https://github.com/nicbarone/Fuzzy-Kiwi | 0 | 0| 
+| 20210515T01:45:37Z | Just a small repo for personal use that has scripts, config files, notes about linux installations | https://github.com/jdubskee/fuzzy-waffle | 0 | 0| 
 | 20210515T01:13:41Z | VMI Kernel Fuzzer for Xen Project - VM forking, VMI & AFL integration demo | https://github.com/intel/kernel-fuzzer-for-xen-project | 315 | 45| 
 | 20210515T01:12:01Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6281 | 1272| 
 | 20210515T00:41:35Z | corpus for fuzzing netaddr | https://github.com/inetaf/netaddr-corpus | 0 | 0| 
@@ -123,7 +124,6 @@
 | 20210514T22:12:32Z | Fuzzer for Dolt repositories | https://github.com/dolthub/fuzzer | 1 | 0| 
 | 20210514T21:53:55Z | Implementacija algoritama fuzzy klasterovanja, njihova primena na odredjenim skupovima podataka i uporedjivanje sa drugim algoritmima klasterovanja. | https://github.com/markobabic8/Fuzzy-clustering | 0 | 1| 
 | 20210514T21:52:21Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1735 | 341| 
-| 20210514T21:33:11Z | Null | https://github.com/s9varesc/url-fuzzing | 1 | 1| 
 
 
 
