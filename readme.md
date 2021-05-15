@@ -26,23 +26,27 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210514T13:03:49Z | CVE-2021-21551 | Exploit to SYSTEM for CVE-2021-21551 | https://github.com/waldo-irc/CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
-| 20210514T09:57:36Z | CVE-2021-21300 | CVE-2021-21300 | https://github.com/tao-sun2/CVE-2021-21300 | Git is an open-source distributed revision control system. In affected versions of Git a specially crafted repository that contains symbolic links as well as files using a clean/smudge filter such as Git LFS, may cause just-checked out script to be executed while cloning onto a case-insensitive file system such as NTFS, HFS+ or APFS (i.e. the default file systems on Windows and macOS). Note that clean/smudge filters have to be configured for that. Git for Windows configures Git LFS by default, and is therefore vulnerable. The problem has been patched in the versions published on Tuesday, March 9th, 2021. As a workaound, if symbolic link support is disabled in Git (e.g. via `git config --global core.symlinks false`), the described attack won%t work. Likewise, if no clean/smudge filters such as Git LFS are configured globally (i.e. _before_ cloning), the attack is foiled. As always, it is best to avoid cloning repositories from untrusted sources. The earliest impacted version is 2.14.2. The fix versions are: 2.30.1, 2.29.3, 2.28.1, 2.27.1, 2.26.3, 2.25.5, 2.24.4, 2.23.4, 2.22.5, 2.21.4, 2.20.5, 2.19.6, 2.18.5, 2.17.62.17.6.| 
+| 20210514T20:17:54Z | CVE-2021-21551 | Exploit to SYSTEM for CVE-2021-21551 | https://github.com/waldo-irc/CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
+| 20210514T17:15:24Z | CVE-2020-8813 | Null | https://github.com/m4udSec/Cacti-CVE-2020-8813 | graph_realtime.php in Cacti 1.2.8 allows remote attackers to execute arbitrary OS commands via shell metacharacters in a cookie, if a guest user has the graph real-time privilege.| 
+| 20210514T16:00:43Z | CVE-2020-28502 | CVE-2020-28502 node-XMLHttpRequest RCE | https://github.com/s-index/CVE-2020-28502 | This affects the package xmlhttprequest before 1.7.0; all versions of package xmlhttprequest-ssl. Provided requests are sent synchronously (async=False on xhr.open), malicious user input flowing into xhr.send could result in arbitrary code being injected and run.| 
+| 20210514T13:32:39Z | CVE-2021-21300 | CVE-2021-21300 | https://github.com/tao-sun2/CVE-2021-21300 | Git is an open-source distributed revision control system. In affected versions of Git a specially crafted repository that contains symbolic links as well as files using a clean/smudge filter such as Git LFS, may cause just-checked out script to be executed while cloning onto a case-insensitive file system such as NTFS, HFS+ or APFS (i.e. the default file systems on Windows and macOS). Note that clean/smudge filters have to be configured for that. Git for Windows configures Git LFS by default, and is therefore vulnerable. The problem has been patched in the versions published on Tuesday, March 9th, 2021. As a workaound, if symbolic link support is disabled in Git (e.g. via `git config --global core.symlinks false`), the described attack won%t work. Likewise, if no clean/smudge filters such as Git LFS are configured globally (i.e. _before_ cloning), the attack is foiled. As always, it is best to avoid cloning repositories from untrusted sources. The earliest impacted version is 2.14.2. The fix versions are: 2.30.1, 2.29.3, 2.28.1, 2.27.1, 2.26.3, 2.25.5, 2.24.4, 2.23.4, 2.22.5, 2.21.4, 2.20.5, 2.19.6, 2.18.5, 2.17.62.17.6.| 
 | 20210514T08:03:43Z | CVE-2021-2021 | This is a good projects. | https://github.com/TheCryingGame/CVE-2021-2021good | Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Optimizer). Supported versions that are affected are 8.0.22 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server. Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of MySQL Server. CVSS 3.1 Base Score 4.9 (Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:N/I:N/A:H).| 
-| 20210514T05:44:37Z | CVE-2021-2109 | weblogic CVE-2021-2109批量验证poc | https://github.com/yuaneuro/CVE-2021-2109_poc | | 
-| 20210514T00:51:39Z | CVE-2020-8813 | Null | https://github.com/m4udSec/Cacti-CVE-2020-8813 | graph_realtime.php in Cacti 1.2.8 allows remote attackers to execute arbitrary OS commands via shell metacharacters in a cookie, if a guest user has the graph real-time privilege.| 
+| 20210514T05:44:37Z | CVE-2021-2109 | weblogic CVE-2021-2109批量验证poc | https://github.com/yuaneuro/CVE-2021-2109_poc | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows high privileged attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 7.2 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H).| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210514T10:17:40Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 589 | 14| 
+| 20210514T23:02:07Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1690 | 492| 
+| 20210514T20:24:17Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 14 | 43| 
+| 20210514T19:01:54Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 590 | 14| 
+| 20210514T17:34:32Z | Null | https://github.com/fontworks-fonts/Klee | 445 | 13| 
+| 20210514T14:57:49Z | Null | https://github.com/KLeelaSantosh/kleelas | 0 | 0| 
 | 20210514T07:39:11Z | Null | https://github.com/KLeelaSantosh/kleeelasantosh | 0 | 0| 
 | 20210514T07:36:46Z | Null | https://github.com/KLeelaSantosh/kleela | 0 | 0| 
 | 20210514T07:34:25Z | Null | https://github.com/KLeelaSantosh/Kleelasan | 0 | 0| 
 | 20210514T06:43:01Z | An opiniated Next TypeScript powered starter which include Klee, emotion / styled-system, framer motion, jest and Cypress | https://github.com/Liinkiing/next-ts-klee-starter | 0 | 0| 
 | 20210514T05:13:19Z | Config files for my GitHub profile. | https://github.com/KLeelaSantosh/KLeelaSantosh | 0 | 0| 
-| 20210514T02:46:06Z | Null | https://github.com/fontworks-fonts/Klee | 444 | 13| 
 
 
 # s2e on Github 推荐
@@ -54,31 +58,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210514T13:06:33Z | Educational web application demonstrating techniques of binary exploitation (Front-end) | https://github.com/Pen-Test3rs/binary_exploits_frontend | 0 | 0| 
-| 20210514T13:02:41Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 10| 
-| 20210514T13:01:52Z | Creakyy Exploit | https://github.com/CreakkyWins/CreakyyExploit | 0 | 0| 
-| 20210514T12:51:09Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 16 | 11| 
-| 20210514T12:47:33Z | These are the scripts & methodologies that can be used in Buffer Over Flow Fuzzing and Exploitation | https://github.com/IamLucif3r/Buffer-Overflow | 1 | 0| 
-| 20210514T12:43:25Z | 📈 A visualization of MetricQ data exploiting the advantages of the HTA db backend  | https://github.com/metricq/metricq-webview | 0 | 1| 
-| 20210514T12:43:18Z | Scheme flooding vulnerability: how it works and why it is a threat to anonymous browsing | https://github.com/fingerprintjs/external-protocol-flooding | 95 | 4| 
-| 20210514T12:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9423 | 1521| 
-| 20210514T12:32:18Z | Repo for testing some exploits | https://github.com/RobertFent/exploits | 0 | 0| 
-| 20210514T12:07:31Z | A Python program implementing and exploiting the Minsky Turing machine considered in the paper %Intrinsic Propensity for Vulnerability in Computers? Arbitrary Code Execution in the Universal Turing Machine% as per CVE-2021-32471 (https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-32471) | https://github.com/intrinsic-propensity/turing-machine | 31 | 1| 
+| 20210514T23:48:19Z | My first Roblox GUI. | https://github.com/Remfly/remXskull-exploit | 1 | 0| 
+| 20210514T23:46:29Z | Null | https://github.com/nenun/Web-Exploit-Scanner | 0 | 1| 
+| 20210514T23:44:01Z | Exploits project Hacking Command Center | https://github.com/chacka0101/exploits | 5 | 6| 
+| 20210514T23:23:21Z | labsecurity is a framework and its use is for ethical hacking and computer security | https://github.com/dylan14567/labsecurity | 1 | 3| 
+| 20210514T23:21:30Z | Extensible framework for analyzing publicly available information about vulnerabilities | https://github.com/leonov-av/vulristics | 27 | 1| 
+| 20210514T23:19:25Z | Project Carthage is a Roblox Exploit that inspired by code lyoko | https://github.com/DeletedUser0x96/Project-Carthage | 0 | 0| 
+| 20210514T23:11:01Z | a deeper dive into exploiting the SHA-1 hashing algorithm | https://github.com/aabdelw1/length-extension-attack | 0 | 0| 
+| 20210514T23:02:52Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 10| 
+| 20210514T22:59:55Z | %The software will be building a network server from scratch that at startup will have the ability to selectively enable insecure portions of code that can be exploited. The software could be developed as a honeypot for detection of exploitation attempts within a network and/or as a practice server for pentesters.  The project may also need to develop companion software that can test the code, or collect logs from the server.% | https://github.com/TimHanneman/Multi_Purpose_Exploitable_Server | 0 | 0| 
+| 20210514T22:46:41Z | source for the CSRF exploit possible on neverlose.cc | https://github.com/Sizzukie/csrf-neverlose.cc | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210514T21:22:53Z | Gmod Backdoor Scanner Written in C++ | https://github.com/ProtoGrace/Gmod-Backdoor-Scanner | 10 | 3| 
+| 20210514T20:01:49Z | Null | https://github.com/Albeeeeeeeert/DevoFiler-uden-backdoors-og-fejl | 0 | 0| 
+| 20210514T19:36:43Z | A demo and explanation of how a trojan backdoor attack can be performed on the classic MNIST experiment | https://github.com/adit-bala/Introduction-to-Trojans-in-AI | 0 | 0| 
+| 20210514T19:05:04Z | Python 3 IRC Bot / Botnet | https://github.com/trackmastersteve/HackServ | 19 | 16| 
+| 20210514T19:00:48Z | Null | https://github.com/narenmanoj/backdoor-adv-training | 0 | 0| 
+| 20210514T16:39:55Z | Simple backdoor using lib python%s socket and subprocess for Windows | https://github.com/NoNameoN-A/Backdoor-Client-Server-Socket-Python | 3 | 1| 
+| 20210514T16:23:41Z | Null | https://github.com/JiannanXiao6/backdoor | 0 | 0| 
+| 20210514T15:31:00Z | This program is an non-object oriented opensource, hidden and undetectable backdoor/reverse shell/RAT for Windows made in Python 3 which contains many features such as multi-client support and cross-platform server. | https://github.com/xp4xbox/Python-Backdoor | 389 | 142| 
+| 20210514T15:03:46Z | This is a simple backdoor for education purposes | https://github.com/Yegorius171/simple_backdoor | 0 | 0| 
 | 20210514T12:56:43Z | Null | https://github.com/Simon-Lozada/Backdoor_Python | 0 | 0| 
-| 20210514T11:45:34Z | une backdoor en python/javascript  | https://github.com/nqkoz/backdoor | 1 | 0| 
-| 20210514T10:50:36Z | 🤖An Evil and Smart Bot for Enslaving Windows. | https://github.com/wildonion/katyusha | 3 | 1| 
-| 20210514T09:45:14Z | Backdoor has been discovered in Linsys WAG200G that listening on port 32764 in 2015. I decided to create this repository with some codes to access backdoor because this security hole exists today. | https://github.com/enty8080/32764-multi-backdoor | 1 | 0| 
-| 20210514T09:23:40Z | Null | https://github.com/Hem1700/backdoor | 0 | 0| 
-| 20210514T09:18:09Z | Null | https://github.com/Ding-Rui-hust/Research-on-backdoor-attack-in-Brain-omputer-interface | 0 | 0| 
-| 20210514T08:18:27Z | Null | https://github.com/hlinwang/backdoor | 0 | 0| 
-| 20210514T07:41:13Z | Patch PE, ELF, Mach-O binaries with shellcode new version in development, available only to sponsors | https://github.com/secretsquirrel/the-backdoor-factory | 2754 | 750| 
-| 20210514T06:15:00Z | Null | https://github.com/JiannanXiao6/backdoor | 0 | 0| 
-| 20210514T04:33:36Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 234 | 38| 
 
 
 # fuzz on Github 推荐
