@@ -35,6 +35,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210515T12:21:35Z | A python based tool for exploiting and managing android devices via ADB | https://github.com/krishpranav/adbsploit | 2 | 0| 
 | 20210515T12:02:40Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 10| 
 | 20210515T11:59:43Z | Scheme flooding vulnerability: how it works and why it is a threat to anonymous browsing | https://github.com/fingerprintjs/external-protocol-flooding | 219 | 9| 
 | 20210515T11:58:55Z | a writeup for exploit.education/nebula | https://github.com/vi11ain/nebula-writeup | 0 | 0| 
@@ -43,7 +44,6 @@
 | 20210515T11:44:09Z | K8博客内容存档 | https://github.com/k8gege/k8gege.github.io | 13 | 7| 
 | 20210515T11:41:11Z | Automated NoSQL database enumeration and web application exploitation tool | https://github.com/netslutter/NoSQLMap | 0 | 0| 
 | 20210515T11:38:50Z | 大型内网渗透扫描器&Cobalt Strike，Ladon7.2内置94个模块，包含信息收集/存活主机/端口扫描/服务识别/密码爆破/漏洞检测/漏洞利用。漏洞检测含MS17010/SMBGhost/Weblogic/ActiveMQ/Tomcat/Struts2，密码口令爆破(Mysql/Oracle/MSSQL)/FTP/SSH(Linux)/VNC/Windows(IPC/WMI/SMB/Netbios/LDAP/SmbHash/WmiHash/Winrm),远程执行命令(wmiexe/psexec/atexec/sshexec/webshell),降权提权Runas、GetSystem，Poc/Exploit,支持Cobalt Strike 3.X-4.0 | https://github.com/k8gege/Ladon | 2454 | 598| 
-| 20210515T11:29:44Z | A python based tool for exploiting and managing android devices via ADB | https://github.com/krishpranav/adbsploit | 1 | 0| 
 | 20210515T11:22:13Z | Null | https://github.com/hexcellents/sss-exploit | 5 | 0| 
 
 
