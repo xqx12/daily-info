@@ -35,6 +35,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210515T12:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9428 | 1525| 
 | 20210515T12:34:13Z | Deface Ajax getInterests Auto Exploit | https://github.com/VQxyrog/OJS | 0 | 0| 
 | 20210515T12:34:08Z | Scheme flooding vulnerability: how it works and why it is a threat to anonymous browsing | https://github.com/fingerprintjs/external-protocol-flooding | 221 | 9| 
 | 20210515T12:24:56Z | a writeup for exploit.education/nebula | https://github.com/vi11ain/nebula-writeup | 0 | 0| 
@@ -44,7 +45,6 @@
 | 20210515T11:46:39Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 462 | 86| 
 | 20210515T11:44:09Z | K8博客内容存档 | https://github.com/k8gege/k8gege.github.io | 13 | 7| 
 | 20210515T11:41:11Z | Automated NoSQL database enumeration and web application exploitation tool | https://github.com/netslutter/NoSQLMap | 0 | 0| 
-| 20210515T11:38:50Z | 大型内网渗透扫描器&Cobalt Strike，Ladon7.2内置94个模块，包含信息收集/存活主机/端口扫描/服务识别/密码爆破/漏洞检测/漏洞利用。漏洞检测含MS17010/SMBGhost/Weblogic/ActiveMQ/Tomcat/Struts2，密码口令爆破(Mysql/Oracle/MSSQL)/FTP/SSH(Linux)/VNC/Windows(IPC/WMI/SMB/Netbios/LDAP/SmbHash/WmiHash/Winrm),远程执行命令(wmiexe/psexec/atexec/sshexec/webshell),降权提权Runas、GetSystem，Poc/Exploit,支持Cobalt Strike 3.X-4.0 | https://github.com/k8gege/Ladon | 2454 | 598| 
 
 
 # backdoor on Github 推荐
@@ -64,6 +64,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210515T12:31:35Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
 | 20210515T11:06:59Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
 | 20210515T11:02:30Z | Emulation based snapshot fuzzer | https://github.com/joelengelcrona/gingersnap | 0 | 0| 
 | 20210515T10:50:30Z | APIFuzzing - a lua plugin for fuzzing and checking the Cuberite API | https://github.com/cuberite/APIFuzzing | 1 | 2| 
@@ -73,7 +74,6 @@
 | 20210515T09:24:18Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3507 | 814| 
 | 20210515T09:09:24Z | Reproduce bugs in https://github.com/google/fuzzer-test-suite | https://github.com/K-atc/reproduce-bugs-in-fuzzer-test-suite | 0 | 0| 
 | 20210515T09:03:45Z | A  playground to learn computer graphics | https://github.com/patiboh/fuzzy-playground | 1 | 0| 
-| 20210515T08:44:11Z | Null | https://github.com/Software-Analysis-Team/Unit-Test-Fuzzer | 0 | 0| 
 
 
 
