@@ -16,9 +16,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210515T21:08:54Z | CVE-2021-21551 | Exploit to SYSTEM for CVE-2021-21551 | https://github.com/waldo-irc/CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
-| 20210515T18:44:01Z | CVE-2021-22893 | Proof-of-Concept (PoC) script to exploit Pulse Secure CVE-2021-22893.  | https://github.com/ZephrFish/CVE-2021-22893 | 未查询到CVE信息| 
-| 20210515T18:43:23Z | CVE-2021-28480 | PoC for exploiting RCE in Exchange CVEs: CVE-2021-28480, CVE-2021-28481, CVE-2021-28482 and CVE-2021-28483.  Achieves Domain Admin on Exchange Servers running Windows Server 2003 up to Windows Server 2019. | https://github.com/ZephrFish/ExchangeRCE-CVE-2021-28480 | 未查询到CVE信息| 
+| 20210515T21:08:54Z | CVE-2021-21551 | Exploit to SYSTEM for CVE-2021-21551 | https://github.com/waldo-irc/CVE-2021-21551 | 未查询到CVE信息| 
+| 20210515T18:44:01Z | CVE-2021-22893 | Proof-of-Concept (PoC) script to exploit Pulse Secure CVE-2021-22893.  | https://github.com/ZephrFish/CVE-2021-22893 | | 
+| 20210515T18:43:23Z | CVE-2021-28480 | PoC for exploiting RCE in Exchange CVEs: CVE-2021-28480, CVE-2021-28481, CVE-2021-28482 and CVE-2021-28483.  Achieves Domain Admin on Exchange Servers running Windows Server 2003 up to Windows Server 2019. | https://github.com/ZephrFish/ExchangeRCE-CVE-2021-28480 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-28481, CVE-2021-28482, CVE-2021-28483.| 
 | 20210515T14:35:38Z | CVE-2021-27342 | Exploit for CVE-2021-27342 vulnerability (telnet authentication brute-force protection bypass) | https://github.com/guywhataguy/D-Link-CVE-2021-27342-exploit | 未查询到CVE信息| 
 
 
@@ -26,7 +26,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20210515T19:28:31Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 130 | 13| 
-| 20210515T11:44:56Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 593 | 14| 
 | 20210515T03:01:01Z | Null | https://github.com/fontworks-fonts/Klee | 446 | 13| 
 
 
@@ -61,8 +60,8 @@
 | 20210515T17:00:46Z | Msf-Sadap adalah tool untuk memudahkan kita membuat backdoor dan menjalankan metasploit tanpa ketik ini dan itu | https://github.com/OfficialCyberTeam/Msf-Sadap | 1 | 7| 
 | 20210515T16:32:04Z | Python 3 IRC Bot / Botnet | https://github.com/trackmastersteve/HackServ | 19 | 16| 
 | 20210515T14:12:16Z | Null | https://github.com/NamitaAshodia/Metasploit_backdoor | 0 | 0| 
-| 20210515T09:54:42Z | Backdoor Attack in the Frequency Domain | https://github.com/FTrojanAttack/FTrojan | 0 | 0| 
 | 20210515T09:30:45Z | Null | https://github.com/piyushsharma220699/Backdoor-in-Cyber-Security | 0 | 0| 
+| 20210515T08:40:22Z | Hanoman is an GUI antivirus engine singature based detection 🐒 | https://github.com/hrtywhy/Hanoman | 1 | 1| 
 
 
 # fuzz on Github 推荐
