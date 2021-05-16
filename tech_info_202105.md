@@ -47,11 +47,11 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210515T21:08:54Z | CVE-2021-21551 | Exploit to SYSTEM for CVE-2021-21551 | https://github.com/waldo-irc/CVE-2021-21551 | 未查询到CVE信息| 
-| 20210515T18:44:01Z | CVE-2021-22893 | Proof-of-Concept (PoC) script to exploit Pulse Secure CVE-2021-22893.  | https://github.com/ZephrFish/CVE-2021-22893 | Pulse Connect Secure 9.0R3/9.1R1 and higher is vulnerable to an authentication bypass vulnerability exposed by the Windows File Share Browser and Pulse Secure Collaboration features of Pulse Connect Secure that can allow an unauthenticated user to perform remote arbitrary code execution on the Pulse Connect Secure gateway. This vulnerability has been exploited in the wild.| 
+| 20210515T18:44:01Z | CVE-2021-22893 | Proof-of-Concept (PoC) script to exploit Pulse Secure CVE-2021-22893.  | https://github.com/ZephrFish/CVE-2021-22893 | 未查询到CVE信息| 
 | 20210515T18:43:23Z | CVE-2021-28480 | PoC for exploiting RCE in Exchange CVEs: CVE-2021-28480, CVE-2021-28481, CVE-2021-28482 and CVE-2021-28483.  Achieves Domain Admin on Exchange Servers running Windows Server 2003 up to Windows Server 2019. | https://github.com/ZephrFish/ExchangeRCE-CVE-2021-28480 | 未查询到CVE信息| 
 | 20210515T14:35:38Z | CVE-2021-27342 | Exploit for CVE-2021-27342 vulnerability (telnet authentication brute-force protection bypass) | https://github.com/guywhataguy/D-Link-CVE-2021-27342-exploit | 未查询到CVE信息| 
 | 20210514T23:10:35Z | 未知编号 | A Python program implementing and exploiting the Minsky Turing machine considered in the paper "Intrinsic Propensity for Vulnerability in Computers? Arbitrary Code Execution in the Universal Turing Machine" as per CVE-2021-32471 (https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-32471) | https://github.com/intrinsic-propensity/turing-machine | 未查询到CVE信息| 
-| 20210514T17:15:24Z | CVE-2020-8813 | Null | https://github.com/m4udSec/Cacti-CVE-2020-8813 | graph_realtime.php in Cacti 1.2.8 allows remote attackers to execute arbitrary OS commands via shell metacharacters in a cookie, if a guest user has the graph real-time privilege.| 
+| 20210514T17:15:24Z | CVE-2020-8813 | Null | https://github.com/m4udSec/Cacti-CVE-2020-8813 | 未查询到CVE信息| 
 | 20210514T16:00:43Z | CVE-2020-28502 | CVE-2020-28502 node-XMLHttpRequest RCE | https://github.com/s-index/CVE-2020-28502 | 未查询到CVE信息| 
 | 20210514T13:32:39Z | CVE-2021-21300 | CVE-2021-21300 | https://github.com/tao-sun2/CVE-2021-21300 | 未查询到CVE信息| 
 | 20210514T08:03:43Z | CVE-2021-2021 | This is a good projects. | https://github.com/TheCryingGame/CVE-2021-2021good | Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Optimizer). Supported versions that are affected are 8.0.22 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server. Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of MySQL Server. CVSS 3.1 Base Score 4.9 (Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:N/I:N/A:H).| 
@@ -84,7 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210516T00:21:05Z | Null | https://github.com/treangle1/exploit.arama | 0 | 0| 
+| 20210516T00:22:23Z | Null | https://github.com/treangle1/exploit.arama | 0 | 0| 
 | 20210516T00:12:47Z | labsecurity is a framework and its use is for ethical hacking and computer security | https://github.com/dylan14567/labsecurity | 1 | 3| 
 | 20210516T00:09:10Z | Null | https://github.com/EkremCan35/Exploit | 0 | 0| 
 | 20210516T00:02:41Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 10| 
