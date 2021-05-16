@@ -36,7 +36,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210516T12:41:59Z | labsecurity is a framework and its use is for ethical hacking and computer security | https://github.com/dylan14567/labsecurity | 1 | 3| 
+| 20210516T12:45:47Z | labsecurity is a framework and its use is for ethical hacking and computer security | https://github.com/dylan14567/labsecurity | 1 | 3| 
 | 20210516T12:41:16Z | A multiple reverse shell sessions/clients manager via terminal written in go | https://github.com/krishpranav/exploit-framework | 0 | 0| 
 | 20210516T12:38:13Z | Educational web application demonstrating techniques of binary exploitation - (Back-end) | https://github.com/Pen-Test3rs/binary_exploits_backend | 0 | 0| 
 | 20210516T12:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9433 | 1526| 
