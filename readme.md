@@ -67,16 +67,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210515T12:39:57Z | ClusterFuzz官方文档中文翻译 | https://github.com/Vancir/clusterfuzz-document-cn | 2 | 0| 
-| 20210515T12:31:35Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
-| 20210515T11:06:59Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
-| 20210515T11:02:30Z | Emulation based snapshot fuzzer | https://github.com/joelengelcrona/gingersnap | 0 | 0| 
-| 20210515T10:50:30Z | APIFuzzing - a lua plugin for fuzzing and checking the Cuberite API | https://github.com/cuberite/APIFuzzing | 1 | 2| 
-| 20210515T09:56:37Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6281 | 1272| 
-| 20210515T09:30:58Z | Kotlin Multiplatform (KMP) FuzzyWuzzy fork of:https://github.com/willowtreeapps/fuzzywuzzy-kotlin | https://github.com/Shabinder/fuzzywuzzy | 0 | 0| 
-| 20210515T09:27:06Z | Simple GTK Fuzzer | https://github.com/qarmin/GtkFuzzer | 0 | 0| 
-| 20210515T09:24:18Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3507 | 814| 
-| 20210515T09:09:24Z | Reproduce bugs in https://github.com/google/fuzzer-test-suite | https://github.com/K-atc/reproduce-bugs-in-fuzzer-test-suite | 0 | 0| 
+| 20210515T23:27:15Z | Null | https://github.com/YoshiyukiFUJIMOTO/fuzzy-spoon | 0 | 0| 
+| 20210515T23:21:16Z | Null | https://github.com/kunu2804/Fuzzy-cupcake | 0 | 0| 
+| 20210515T23:09:04Z | Null | https://github.com/garydriley/FuzzyCLIPS64 | 2 | 0| 
+| 20210515T22:14:48Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 620 | 97| 
+| 20210515T21:59:36Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 6 | 0| 
+| 20210515T20:27:56Z | 3D surface adaptation problem resolved with a fuzzy filtered genetic algorithm made with Python. | https://github.com/AlexisNeri/Fuzzy_GA_Curve | 0 | 0| 
+| 20210515T20:13:47Z | CSE 227 Project  | https://github.com/Jake-R-Sutton/serializer_fuzzer | 0 | 0| 
+| 20210515T20:09:14Z | Fuzzy logic calculations + defuzzification | https://github.com/arash99s/Fuzzy | 0 | 0| 
+| 20210515T20:00:31Z | Burp Suite extension for Radamsa-powered fuzzing with Intruder | https://github.com/nscuro/bradamsa-ng | 14 | 5| 
+| 20210515T19:36:46Z | Fuzzing the OS-Peripheral boundary without hardware | https://github.com/buszk/Drifuzz | 0 | 0| 
 
 
 
