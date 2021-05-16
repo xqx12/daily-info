@@ -36,6 +36,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210516T12:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9433 | 1526| 
 | 20210516T12:30:24Z | A list of fun things to do with DarkRP addons | https://github.com/OverlordAkise/darkrp-exploits | 0 | 0| 
 | 20210516T12:27:40Z | Remote Code Execution EJS Web Applications using express-fileupload | https://github.com/boiledsteak/EJS-Exploit | 0 | 0| 
 | 20210516T12:13:31Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7873 | 1389| 
@@ -45,7 +46,6 @@
 | 20210516T11:36:43Z | Null | https://github.com/Psychorot/MaouExploit | 0 | 0| 
 | 20210516T11:26:37Z | Null | https://github.com/kienquoc102/Exploit-CVE-2018-9995 | 0 | 0| 
 | 20210516T11:23:29Z | Proof-of-Concept (PoC) script to exploit Pulse Secure CVE-2021-22893.  | https://github.com/ZephrFish/CVE-2021-22893 | 29 | 13| 
-| 20210516T11:16:46Z | Gonna share my writeups and resources here | https://github.com/jopraveen/exploit-development | 2 | 1| 
 
 
 # backdoor on Github 推荐
