@@ -46,9 +46,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210516T01:50:22Z | CVE-2021-27651 | RCE for Pega Infinity >= 8.2.1, Pega Infinity <= 8.5.2 | https://github.com/samwcyo/CVE-2021-27651-PoC | In versions 8.2.1 through 8.5.2 of Pega Infinity, the password reset functionality for local accounts can be used to bypass local authentication checks.| 
-| 20210516T01:33:59Z | CVE-2021-21551 | Exploit to SYSTEM for CVE-2021-21551 | https://github.com/waldo-irc/CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
-| 20210515T18:44:01Z | CVE-2021-22893 | Proof-of-Concept (PoC) script to exploit Pulse Secure CVE-2021-22893.  | https://github.com/ZephrFish/CVE-2021-22893 | Pulse Connect Secure 9.0R3/9.1R1 and higher is vulnerable to an authentication bypass vulnerability exposed by the Windows File Share Browser and Pulse Secure Collaboration features of Pulse Connect Secure that can allow an unauthenticated user to perform remote arbitrary code execution on the Pulse Connect Secure gateway. This vulnerability has been exploited in the wild.| 
+| 20210516T11:23:29Z | CVE-2021-22893 | Proof-of-Concept (PoC) script to exploit Pulse Secure CVE-2021-22893.  | https://github.com/ZephrFish/CVE-2021-22893 | Pulse Connect Secure 9.0R3/9.1R1 and higher is vulnerable to an authentication bypass vulnerability exposed by the Windows File Share Browser and Pulse Secure Collaboration features of Pulse Connect Secure that can allow an unauthenticated user to perform remote arbitrary code execution on the Pulse Connect Secure gateway. This vulnerability has been exploited in the wild.| 
+| 20210516T10:20:04Z | CVE-2021-21551 | Exploit to SYSTEM for CVE-2021-21551 | https://github.com/waldo-irc/CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
+| 20210516T09:03:53Z | CVE-2021-27651 | RCE for Pega Infinity >= 8.2.1, Pega Infinity <= 8.5.2 | https://github.com/samwcyo/CVE-2021-27651-PoC | In versions 8.2.1 through 8.5.2 of Pega Infinity, the password reset functionality for local accounts can be used to bypass local authentication checks.| 
 | 20210515T18:43:23Z | CVE-2021-28480 | PoC for exploiting RCE in Exchange CVEs: CVE-2021-28480, CVE-2021-28481, CVE-2021-28482 and CVE-2021-28483.  Achieves Domain Admin on Exchange Servers running Windows Server 2003 up to Windows Server 2019. | https://github.com/ZephrFish/ExchangeRCE-CVE-2021-28480 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-28481, CVE-2021-28482, CVE-2021-28483.| 
 | 20210515T14:35:38Z | CVE-2021-27342 | Exploit for CVE-2021-27342 vulnerability (telnet authentication brute-force protection bypass) | https://github.com/guywhataguy/D-Link-CVE-2021-27342-exploit | 未查询到CVE信息| 
 | 20210514T23:10:35Z | 未知编号 | A Python program implementing and exploiting the Minsky Turing machine considered in the paper "Intrinsic Propensity for Vulnerability in Computers? Arbitrary Code Execution in the Universal Turing Machine" as per CVE-2021-32471 (https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-32471) | https://github.com/intrinsic-propensity/turing-machine | 未查询到CVE信息| 
@@ -61,7 +61,8 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210516T00:41:42Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 595 | 14| 
+| 20210516T09:54:32Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 597 | 14| 
+| 20210516T03:54:56Z | Null | https://github.com/KLeelaSantosh/kleeelasanthosh | 0 | 0| 
 | 20210515T19:28:31Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 130 | 13| 
 | 20210515T03:01:01Z | Null | https://github.com/fontworks-fonts/Klee | 446 | 13| 
 | 20210514T23:02:07Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1690 | 492| 
@@ -70,7 +71,6 @@
 | 20210514T07:39:11Z | Null | https://github.com/KLeelaSantosh/kleeelasantosh | 0 | 0| 
 | 20210514T07:36:46Z | Null | https://github.com/KLeelaSantosh/kleela | 0 | 0| 
 | 20210514T07:34:25Z | Null | https://github.com/KLeelaSantosh/Kleelasan | 0 | 0| 
-| 20210514T06:43:01Z | An opiniated Next TypeScript powered starter which include Klee, emotion / styled-system, framer motion, jest and Cypress | https://github.com/Liinkiing/next-ts-klee-starter | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -84,31 +84,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210516T01:41:00Z | Various exploits for SerenityOS | https://github.com/bcoles/serenity-exploits | 1 | 0| 
-| 20210516T01:38:53Z | A collection of more than 140+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 667 | 159| 
-| 20210516T01:30:30Z | Post exploitation tool for configuration management servers. | https://github.com/master-of-servers/mose | 68 | 15| 
-| 20210516T01:15:26Z | Extensible framework for analyzing publicly available information about vulnerabilities | https://github.com/leonov-av/vulristics | 27 | 1| 
-| 20210516T01:02:22Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 10| 
-| 20210516T00:50:32Z | CVE-2017-7494 python exploit | https://github.com/m4udSec/noSAMBAnoCRY-CVE-2017-7494 | 0 | 0| 
-| 20210516T00:33:39Z | PS4 Exploit Host | https://github.com/Night-King-Host/Night-King-Host.github.io | 8 | 6| 
-| 20210516T00:22:23Z | Null | https://github.com/treangle1/exploit.arama | 0 | 0| 
-| 20210516T00:12:47Z | labsecurity is a framework and its use is for ethical hacking and computer security | https://github.com/dylan14567/labsecurity | 1 | 3| 
-| 20210516T00:09:10Z | Null | https://github.com/EkremCan35/Exploit | 0 | 0| 
+| 20210516T12:00:42Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 462 | 87| 
+| 20210516T11:59:32Z | Educational web application demonstrating techniques of binary exploitation (Front-end) | https://github.com/Pen-Test3rs/binary_exploits_frontend | 0 | 0| 
+| 20210516T11:36:43Z | Null | https://github.com/Psychorot/MaouExploit | 0 | 0| 
+| 20210516T11:26:37Z | Null | https://github.com/kienquoc102/Exploit-CVE-2018-9995 | 0 | 0| 
+| 20210516T11:23:29Z | Proof-of-Concept (PoC) script to exploit Pulse Secure CVE-2021-22893.  | https://github.com/ZephrFish/CVE-2021-22893 | 29 | 13| 
+| 20210516T11:16:46Z | Gonna share my writeups and resources here | https://github.com/jopraveen/exploit-development | 2 | 1| 
+| 20210516T11:15:23Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7872 | 1389| 
+| 20210516T11:13:11Z | Collection of exploits, mainly to see where I%m at. | https://github.com/Crystalware/HEVD-Exploits | 2 | 0| 
+| 20210516T11:06:25Z | A tool to identify and exploit sudo rules% misconfigurations and vulnerabilities within sudo for linux privilege escalation. | https://github.com/TH3xACE/SUDO_KILLER | 1129 | 159| 
+| 20210516T11:02:36Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 10| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210516T01:44:58Z | code for mutation for backdoor | https://github.com/newcoming345/mutation-for-backdoor | 0 | 0| 
+| 20210516T11:09:42Z | This is a simple backdoor for education purposes | https://github.com/Yegorius171/simple_backdoor | 0 | 0| 
+| 20210516T10:35:25Z | Nesca v24D87-801 (without backdoor) | https://github.com/ErShkrv/Nesca24D87 | 0 | 1| 
+| 20210516T09:55:24Z | php script to gain access to a site once injected | https://github.com/Urtext69/backdoor | 0 | 0| 
+| 20210516T06:47:05Z | Null | https://github.com/piyushsharma220699/Backdoor-in-Cyber-Security | 0 | 0| 
+| 20210516T02:35:52Z | code for mutation for backdoor | https://github.com/newcoming345/mutation-for-backdoor | 0 | 0| 
 | 20210516T00:45:25Z | Backdoor Attack in Frequency Domain | https://github.com/FTrojanAttack/FTrojan | 0 | 0| 
 | 20210515T21:54:44Z | React frontend for the cybersecurity forum website - %Backdoor% | https://github.com/backdoor-epics/backdoor-frontend | 0 | 0| 
 | 20210515T20:13:25Z | Backend for our cyber security forum - %Backdoor% | https://github.com/backdoor-epics/backdoor-backend | 0 | 0| 
 | 20210515T18:56:49Z | Simple Python Backdoor | https://github.com/zNairy/Sonaris | 6 | 0| 
 | 20210515T17:48:42Z | Null | https://github.com/MorphyKutay/metasploitable-apk-embed-backdoor | 0 | 0| 
-| 20210515T17:38:04Z | Backdoor has been discovered in Linsys WAG200G that listening on port 32764 in 2015. I decided to create this repository with some codes to access backdoor because this security hole exists today. | https://github.com/enty8080/32764-multi-backdoor | 1 | 0| 
-| 20210515T17:00:46Z | Msf-Sadap adalah tool untuk memudahkan kita membuat backdoor dan menjalankan metasploit tanpa ketik ini dan itu | https://github.com/OfficialCyberTeam/Msf-Sadap | 1 | 7| 
-| 20210515T16:32:04Z | Python 3 IRC Bot / Botnet | https://github.com/trackmastersteve/HackServ | 19 | 16| 
-| 20210515T14:12:16Z | Null | https://github.com/NamitaAshodia/Metasploit_backdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐
