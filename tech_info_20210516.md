@@ -36,6 +36,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210516T12:14:10Z | Remote Code Execution EJS Web Applications using express-fileupload | https://github.com/boiledsteak/EJS-Exploit | 0 | 0| 
+| 20210516T12:13:31Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7873 | 1389| 
 | 20210516T12:02:40Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 10| 
 | 20210516T12:00:42Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 462 | 87| 
 | 20210516T11:59:32Z | Educational web application demonstrating techniques of binary exploitation (Front-end) | https://github.com/Pen-Test3rs/binary_exploits_frontend | 0 | 0| 
@@ -43,9 +45,7 @@
 | 20210516T11:26:37Z | Null | https://github.com/kienquoc102/Exploit-CVE-2018-9995 | 0 | 0| 
 | 20210516T11:23:29Z | Proof-of-Concept (PoC) script to exploit Pulse Secure CVE-2021-22893.  | https://github.com/ZephrFish/CVE-2021-22893 | 29 | 13| 
 | 20210516T11:16:46Z | Gonna share my writeups and resources here | https://github.com/jopraveen/exploit-development | 2 | 1| 
-| 20210516T11:15:23Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7872 | 1389| 
 | 20210516T11:13:11Z | Collection of exploits, mainly to see where I%m at. | https://github.com/Crystalware/HEVD-Exploits | 2 | 0| 
-| 20210516T11:06:25Z | A tool to identify and exploit sudo rules% misconfigurations and vulnerabilities within sudo for linux privilege escalation. | https://github.com/TH3xACE/SUDO_KILLER | 1129 | 159| 
 
 
 # backdoor on Github 推荐
