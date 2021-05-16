@@ -36,6 +36,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210516T12:41:59Z | labsecurity is a framework and its use is for ethical hacking and computer security | https://github.com/dylan14567/labsecurity | 1 | 3| 
+| 20210516T12:41:16Z | A multiple reverse shell sessions/clients manager via terminal written in go | https://github.com/krishpranav/exploit-framework | 0 | 0| 
 | 20210516T12:38:13Z | Educational web application demonstrating techniques of binary exploitation - (Back-end) | https://github.com/Pen-Test3rs/binary_exploits_backend | 0 | 0| 
 | 20210516T12:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9433 | 1526| 
 | 20210516T12:30:24Z | A list of fun things to do with DarkRP addons | https://github.com/OverlordAkise/darkrp-exploits | 0 | 0| 
@@ -44,8 +46,6 @@
 | 20210516T12:02:40Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 10| 
 | 20210516T12:00:42Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 462 | 87| 
 | 20210516T11:59:32Z | Educational web application demonstrating techniques of binary exploitation (Front-end) | https://github.com/Pen-Test3rs/binary_exploits_frontend | 0 | 0| 
-| 20210516T11:36:43Z | Null | https://github.com/Psychorot/MaouExploit | 0 | 0| 
-| 20210516T11:26:37Z | Null | https://github.com/kienquoc102/Exploit-CVE-2018-9995 | 0 | 0| 
 
 
 # backdoor on Github 推荐
