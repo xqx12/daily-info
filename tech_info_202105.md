@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210516T01:40:47Z | CVE-2021-27651 | RCE for Pega Infinity >= 8.2.1, Pega Infinity <= 8.5.2 | https://github.com/samwcyo/CVE-2021-27651-PoC | | 
+| 20210516T01:40:47Z | CVE-2021-27651 | RCE for Pega Infinity >= 8.2.1, Pega Infinity <= 8.5.2 | https://github.com/samwcyo/CVE-2021-27651-PoC | In versions 8.2.1 through 8.5.2 of Pega Infinity, the password reset functionality for local accounts can be used to bypass local authentication checks.| 
 | 20210516T01:33:59Z | CVE-2021-21551 | Exploit to SYSTEM for CVE-2021-21551 | https://github.com/waldo-irc/CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
 | 20210515T18:44:01Z | CVE-2021-22893 | Proof-of-Concept (PoC) script to exploit Pulse Secure CVE-2021-22893.  | https://github.com/ZephrFish/CVE-2021-22893 | Pulse Connect Secure 9.0R3/9.1R1 and higher is vulnerable to an authentication bypass vulnerability exposed by the Windows File Share Browser and Pulse Secure Collaboration features of Pulse Connect Secure that can allow an unauthenticated user to perform remote arbitrary code execution on the Pulse Connect Secure gateway. This vulnerability has been exploited in the wild.| 
 | 20210515T18:43:23Z | CVE-2021-28480 | PoC for exploiting RCE in Exchange CVEs: CVE-2021-28480, CVE-2021-28481, CVE-2021-28482 and CVE-2021-28483.  Achieves Domain Admin on Exchange Servers running Windows Server 2003 up to Windows Server 2019. | https://github.com/ZephrFish/ExchangeRCE-CVE-2021-28480 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-28481, CVE-2021-28482, CVE-2021-28483.| 
@@ -99,6 +99,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210516T01:44:58Z | code for mutation for backdoor | https://github.com/newcoming345/mutation-for-backdoor | 0 | 0| 
 | 20210516T00:45:25Z | Backdoor Attack in Frequency Domain | https://github.com/FTrojanAttack/FTrojan | 0 | 0| 
 | 20210515T21:54:44Z | React frontend for the cybersecurity forum website - %Backdoor% | https://github.com/backdoor-epics/backdoor-frontend | 0 | 0| 
 | 20210515T20:13:25Z | Backend for our cyber security forum - %Backdoor% | https://github.com/backdoor-epics/backdoor-backend | 0 | 0| 
@@ -108,7 +109,6 @@
 | 20210515T17:00:46Z | Msf-Sadap adalah tool untuk memudahkan kita membuat backdoor dan menjalankan metasploit tanpa ketik ini dan itu | https://github.com/OfficialCyberTeam/Msf-Sadap | 1 | 7| 
 | 20210515T16:32:04Z | Python 3 IRC Bot / Botnet | https://github.com/trackmastersteve/HackServ | 19 | 16| 
 | 20210515T14:12:16Z | Null | https://github.com/NamitaAshodia/Metasploit_backdoor | 0 | 0| 
-| 20210515T09:30:45Z | Null | https://github.com/piyushsharma220699/Backdoor-in-Cyber-Security | 0 | 0| 
 
 
 # fuzz on Github 推荐
