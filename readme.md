@@ -36,7 +36,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210516T12:52:46Z | labsecurity is a framework and its use is for ethical hacking and computer security | https://github.com/dylan14567/labsecurity | 1 | 3| 
+| 20210516T12:55:48Z | labsecurity is a framework and its use is for ethical hacking and computer security | https://github.com/dylan14567/labsecurity | 1 | 3| 
 | 20210516T12:41:16Z | A multiple reverse shell sessions/clients manager via terminal written in go | https://github.com/krishpranav/exploit-framework | 0 | 0| 
 | 20210516T12:38:13Z | Educational web application demonstrating techniques of binary exploitation - (Back-end) | https://github.com/Pen-Test3rs/binary_exploits_backend | 0 | 0| 
 | 20210516T12:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9433 | 1526| 
@@ -62,10 +62,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210516T12:56:29Z | fuzz Tor, OpenSSL and probably more using AFL++ | https://github.com/toralf/fuzz-utils | 0 | 0| 
 | 20210516T12:51:36Z | Yocto layer for fuzzing Wind River Linux kernel with google-syzkaller | https://github.com/ovpanait/meta-syzkaller-wrl | 0 | 0| 
 | 20210516T12:46:08Z | PerformanceFuzzer | https://github.com/KKimj/PerformanceFuzzer | 1 | 0| 
 | 20210516T11:57:43Z | Fuzzing harnesses, corpora, scripts, and target-specific notes for fuzzing IrfanView | https://github.com/moshekaplan/FuzzIrfanView | 0 | 0| 
-| 20210516T11:55:33Z | fuzz Tor, OpenSSL and probably more using AFL++ | https://github.com/toralf/fuzz-utils | 0 | 0| 
 | 20210516T11:03:28Z | Music Visualizer | https://github.com/ashikkl/fuzzy-octo-disco | 0 | 0| 
 | 20210516T10:25:40Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 2 | 1| 
 | 20210516T08:40:00Z | Null | https://github.com/Landsubsidence/Fuzzy-Analytic-Hierarchy-Process | 1 | 0| 
