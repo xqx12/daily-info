@@ -84,9 +84,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210516T01:30:30Z | Post exploitation tool for configuration management servers. | https://github.com/master-of-servers/mose | 68 | 15| 
 | 20210516T01:16:06Z | Various exploits for SerenityOS | https://github.com/bcoles/serenity-exploits | 0 | 0| 
 | 20210516T01:15:26Z | Extensible framework for analyzing publicly available information about vulnerabilities | https://github.com/leonov-av/vulristics | 27 | 1| 
-| 20210516T01:04:24Z | Post exploitation tool for configuration management servers. | https://github.com/master-of-servers/mose | 68 | 15| 
 | 20210516T01:02:22Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 10| 
 | 20210516T00:50:32Z | CVE-2017-7494 python exploit | https://github.com/m4udSec/noSAMBAnoCRY-CVE-2017-7494 | 0 | 0| 
 | 20210516T00:33:39Z | PS4 Exploit Host | https://github.com/Night-King-Host/Night-King-Host.github.io | 8 | 6| 
