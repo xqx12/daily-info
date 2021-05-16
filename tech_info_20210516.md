@@ -36,6 +36,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210516T12:38:13Z | Educational web application demonstrating techniques of binary exploitation - (Back-end) | https://github.com/Pen-Test3rs/binary_exploits_backend | 0 | 0| 
 | 20210516T12:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9433 | 1526| 
 | 20210516T12:30:24Z | A list of fun things to do with DarkRP addons | https://github.com/OverlordAkise/darkrp-exploits | 0 | 0| 
 | 20210516T12:27:40Z | Remote Code Execution EJS Web Applications using express-fileupload | https://github.com/boiledsteak/EJS-Exploit | 0 | 0| 
@@ -45,7 +46,6 @@
 | 20210516T11:59:32Z | Educational web application demonstrating techniques of binary exploitation (Front-end) | https://github.com/Pen-Test3rs/binary_exploits_frontend | 0 | 0| 
 | 20210516T11:36:43Z | Null | https://github.com/Psychorot/MaouExploit | 0 | 0| 
 | 20210516T11:26:37Z | Null | https://github.com/kienquoc102/Exploit-CVE-2018-9995 | 0 | 0| 
-| 20210516T11:23:29Z | Proof-of-Concept (PoC) script to exploit Pulse Secure CVE-2021-22893.  | https://github.com/ZephrFish/CVE-2021-22893 | 29 | 13| 
 
 
 # backdoor on Github 推荐
@@ -62,8 +62,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210516T01:08:48Z | Null | https://github.com/kasungayan/IEEE_CIS_Fuzzy | 0 | 0| 
-| 20210516T00:50:05Z | CS 4152 Project | https://github.com/nicbarone/Fuzzy-Kiwi | 0 | 0| 
+| 20210516T11:57:43Z | Fuzzing harnesses, corpora, scripts, and target-specific notes for fuzzing IrfanView | https://github.com/moshekaplan/FuzzIrfanView | 0 | 0| 
+| 20210516T11:55:33Z | fuzz Tor, OpenSSL and probably more using AFL++ | https://github.com/toralf/fuzz-utils | 0 | 0| 
+| 20210516T11:03:28Z | Music Visualizer | https://github.com/ashikkl/fuzzy-octo-disco | 0 | 0| 
+| 20210516T10:25:40Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 2 | 1| 
+| 20210516T08:40:00Z | Null | https://github.com/Landsubsidence/Fuzzy-Analytic-Hierarchy-Process | 1 | 0| 
+| 20210516T07:14:51Z | Null | https://github.com/Greywolf-edu/Fuzzy | 0 | 0| 
+| 20210516T07:11:44Z | Reproduce bugs in https://github.com/google/fuzzer-test-suite | https://github.com/K-atc/reproduce-bugs-in-fuzzer-test-suite | 1 | 0| 
+| 20210516T07:11:39Z | This is a simple repo for fuzzworks.  | https://github.com/sajuukthanatoskhar/fuzzworks_bpos | 0 | 0| 
+| 20210516T06:35:47Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 619 | 97| 
+| 20210516T05:39:22Z | Null | https://github.com/canutellmemyname/fuzzy-spoon | 0 | 0| 
 
 
 
