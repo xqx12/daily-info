@@ -36,6 +36,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210516T12:02:40Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 10| 
 | 20210516T12:00:42Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 462 | 87| 
 | 20210516T11:59:32Z | Educational web application demonstrating techniques of binary exploitation (Front-end) | https://github.com/Pen-Test3rs/binary_exploits_frontend | 0 | 0| 
 | 20210516T11:36:43Z | Null | https://github.com/Psychorot/MaouExploit | 0 | 0| 
@@ -45,7 +46,6 @@
 | 20210516T11:15:23Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7872 | 1389| 
 | 20210516T11:13:11Z | Collection of exploits, mainly to see where I%m at. | https://github.com/Crystalware/HEVD-Exploits | 2 | 0| 
 | 20210516T11:06:25Z | A tool to identify and exploit sudo rules% misconfigurations and vulnerabilities within sudo for linux privilege escalation. | https://github.com/TH3xACE/SUDO_KILLER | 1129 | 159| 
-| 20210516T11:02:36Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 10| 
 
 
 # backdoor on Github 推荐
