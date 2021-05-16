@@ -37,7 +37,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20210515T23:54:02Z | Keeps track of what repos needs to be saved from the new Github % Exploits and malware policy% | https://github.com/SamantazFox/cybersec-archive | 15 | 1| 
-| 20210515T23:20:47Z | A collection of more than 140+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 666 | 159| 
 | 20210515T23:16:42Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9430 | 1525| 
 | 20210515T23:12:16Z | A Paper Mario: The Thousand-Year Door Save Exploit | https://github.com/Zephiles/ttyd-exploit | 6 | 1| 
 | 20210515T22:42:17Z | The ultimate archive of Wii homebrew! | https://github.com/speediegamer/revolutionarchive | 0 | 0| 
@@ -46,6 +45,7 @@
 | 20210515T22:30:28Z | Hack/Exploits for https://krunker.io/ | https://github.com/glixzzy/krunker.io-hacks | 6 | 34| 
 | 20210515T21:12:09Z | Null | https://github.com/AstraTehFloof/parkour-exploit | 0 | 0| 
 | 20210515T20:18:26Z | Writeup for exploit.education/nebula | https://github.com/vi11ain/nebula-writeup | 0 | 0| 
+| 20210515T20:03:30Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 48 | 15| 
 
 
 # backdoor on Github 推荐
