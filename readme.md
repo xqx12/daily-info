@@ -18,7 +18,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210516T12:16:31Z | CVE-2021-27651 | RCE for Pega Infinity >= 8.2.1, Pega Infinity <= 8.5.2 | https://github.com/samwcyo/CVE-2021-27651-PoC | In versions 8.2.1 through 8.5.2 of Pega Infinity, the password reset functionality for local accounts can be used to bypass local authentication checks.| 
 | 20210516T11:23:29Z | CVE-2021-22893 | Proof-of-Concept (PoC) script to exploit Pulse Secure CVE-2021-22893.  | https://github.com/ZephrFish/CVE-2021-22893 | Pulse Connect Secure 9.0R3/9.1R1 and higher is vulnerable to an authentication bypass vulnerability exposed by the Windows File Share Browser and Pulse Secure Collaboration features of Pulse Connect Secure that can allow an unauthenticated user to perform remote arbitrary code execution on the Pulse Connect Secure gateway. This vulnerability has been exploited in the wild.| 
-| 20210516T10:20:04Z | CVE-2021-21551 | Exploit to SYSTEM for CVE-2021-21551 | https://github.com/waldo-irc/CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
+| 20210516T10:20:04Z | CVE-2021-21551 | Exploit to SYSTEM for CVE-2021-21551 | https://github.com/waldo-irc/CVE-2021-21551 | | 
 
 
 # klee on Github 推荐
@@ -36,7 +36,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210516T12:14:10Z | Remote Code Execution EJS Web Applications using express-fileupload | https://github.com/boiledsteak/EJS-Exploit | 0 | 0| 
+| 20210516T12:27:40Z | Remote Code Execution EJS Web Applications using express-fileupload | https://github.com/boiledsteak/EJS-Exploit | 0 | 0| 
 | 20210516T12:13:31Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7873 | 1389| 
 | 20210516T12:02:40Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 10| 
 | 20210516T12:00:42Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 462 | 87| 
