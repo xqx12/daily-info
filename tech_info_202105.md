@@ -114,6 +114,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210516T01:08:48Z | Null | https://github.com/kasungayan/IEEE_CIS_Fuzzy | 0 | 0| 
 | 20210516T00:50:05Z | CS 4152 Project | https://github.com/nicbarone/Fuzzy-Kiwi | 0 | 0| 
 | 20210515T23:27:15Z | Null | https://github.com/YoshiyukiFUJIMOTO/fuzzy-spoon | 0 | 0| 
 | 20210515T23:21:16Z | Null | https://github.com/kunu2804/Fuzzy-cupcake | 0 | 0| 
@@ -123,7 +124,6 @@
 | 20210515T20:27:56Z | 3D surface adaptation problem resolved with a fuzzy filtered genetic algorithm made with Python. | https://github.com/AlexisNeri/Fuzzy_GA_Curve | 0 | 0| 
 | 20210515T20:13:47Z | CSE 227 Project  | https://github.com/Jake-R-Sutton/serializer_fuzzer | 0 | 0| 
 | 20210515T20:09:14Z | Fuzzy logic calculations + defuzzification | https://github.com/arash99s/Fuzzy | 0 | 0| 
-| 20210515T20:00:31Z | Burp Suite extension for Radamsa-powered fuzzing with Intruder | https://github.com/nscuro/bradamsa-ng | 14 | 5| 
 
 
 
