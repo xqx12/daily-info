@@ -114,7 +114,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210516T00:40:41Z | CS 4152 Project | https://github.com/nicbarone/Fuzzy-Kiwi | 0 | 0| 
+| 20210516T00:50:05Z | CS 4152 Project | https://github.com/nicbarone/Fuzzy-Kiwi | 0 | 0| 
 | 20210515T23:27:15Z | Null | https://github.com/YoshiyukiFUJIMOTO/fuzzy-spoon | 0 | 0| 
 | 20210515T23:21:16Z | Null | https://github.com/kunu2804/Fuzzy-cupcake | 0 | 0| 
 | 20210515T23:09:04Z | Null | https://github.com/garydriley/FuzzyCLIPS64 | 2 | 0| 
