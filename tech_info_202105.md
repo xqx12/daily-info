@@ -6,6 +6,17 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210517 | SANS 2020 会议 PPT《HANDLING ADVANCED THREATS》 | http://www.blackstormsecurity.com/docs/Handling_Advanced_Threats_SANS_2020.pdf| 
+| 20210517 | Hyntrospect - Project Zero 开源的面向 Hyper-V 模拟设备的 Fuzzer | https://github.com/googleprojectzero/Hyntrospect| 
+| 20210517 | Awesome Google VRP Writeups | https://github.com/xdavidhu/awesome-google-vrp-writeups| 
+| 20210517 | D-Link DIR-842 家用路由器被发现 telnet 密码存在爆破可能 | https://blog.whtaguy.com/2021/05/d-link-router-cve-2021-27342.html| 
+| 20210517 | Exim CVE-2020-28018 UAF 漏洞的分析 | https://adepts.of0x.cc/exim-cve-2020-28018/| 
+| 20210517 | Airtag dumper - 有研究员将 Air Tag 的 nRF52832 芯片的固件 Dump 出来了 | https://github.com/pd0wm/airtag-dump| 
+| 20210517 | Windows/x64 - Inject All Processes with Meterpreter Reverse Shell | https://github.com/boku7/winx64-InjectAllProcessesMeterpreter-Shellcode| 
+| 20210517 | Singular Lab 研究员在 zer0con 2021 会议关于 Chrome 漏洞利用的演讲 PPT | https://github.com/singularseclab/Slides/blob/main/2021/chrome_exploitation-zer0con2021.pdf| 
+| 20210517 | 研究员 Axel Souchet 为上周 Windows 修复的一个 HTTP 协议栈高危漏洞写的 PoC（CVE-2021-31166） | https://github.com/0vercl0k/CVE-2021-31166| 
+| 20210517 | 从微软手环以及 Hello Sense 设备中提取自己的历史数据 | https://sec.today/pulses/265fb0cf-5c50-4cb3-8959-c65464367ac6/| 
+| 20210517 | 从微软手环以及 Hello Sense 设备中提取自己的历史数据 | http://jeffhuang.com/extracting_data_from_tracking_devices/| 
 | 20210516 | 渗透测试 ISP 101 ,如何渗透测试与修复ISP的建议。 | https://infosecwriteups.com/pentesting-isp-101-how-i-hacked-fixed-my-isp-643e9201f7e9?gi=a417d0f6cafe| 
 | 20210516 | 在Windows10 的QEMU环境中使用GDB调试16位实模式方法。 | https://astralvx.com/debugging-16-bit-in-qemu-with-gdb-on-windows/?utm_source=rss&utm_medium=rss&utm_campaign=debugging-16-bit-in-qemu-with-gdb-on-windows| 
 | 20210514 | Linux 内核 CAN 网络子系统 ISOTP CAN 协议本地提权漏洞分析 | https://github.com/nrb547/kernel-exploitation/blob/main/cve-2021-32606/cve-2021-32606.md| 
@@ -15,22 +26,12 @@
 | 20210514 | A tale of solving all the recent XSS challenges using chrome 1-day. | https://blog.s1r1us.ninja/CTF/site-isolation| 
 | 20210514 | NVIDIA GeForce Experience 任意文件写漏洞的细节 | https://voidsec.com/nvidia-geforce-experience-command-execution/| 
 | 20210514 | Pwn2Own VMware ESXi vmxnet3 漏洞背后的发现过程 | https://zerodayengineering.com/research/vmware-esxi-vmxnet3-from-patch-to-poc.html| 
-| 20210514 | Metasploit 框架新加入了 DELL 固件更新驱动 dbutil_2_3.sys 提权漏洞的 Exploit | https://github.com/rapid7/metasploit-framework/pull/15190| 
-| 20210514 | 兼容的代价：通过文件扩展属性攻陷macOS内核 | https://mp.weixin.qq.com/s/bfdwAhRRso34OOZrG2r65Q| 
-| 20210513 | The implications of neglecting IPv6 on your internet facing services | https://grimminck.medium.com/the-implications-of-neglecting-ipv6-on-your-internet-facing-services-538ebe3506fa| 
-| 20210513 | USENIX Security 2021 论文推荐 ”Assessing Browser-level Defense against IDN-based Phishing“ | https://mp.weixin.qq.com/s/LZr8WwVd8vJ-zbVEVtH5Iw| 
-| 20210513 | Sigstore - Linux Foundation 发起的一个项目，用以解决开源软件供应链中缺少代码签名验证机制的问题 | https://sigstore.dev/what_is_sigstore/| 
-| 20210513 | 美国白宫发布行政令：提高国家的网络安全实力 | https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/12/executive-order-on-improving-the-nations-cybersecurity/| 
-| 20210513 | 利用 Windows Defender ASR 规则的漏洞执行 Shellcode | https://github.com/optiv/Dent| 
-| 20210513 | 不进入 Test Signing Mode，从 Microsoft-Windows-Threat-Intelligence ETW Provider 获取日志 | https://blog.tofile.dev/2021/05/12/sealighterti.html| 
-| 20210513 | 模拟 AirTag 利用 Apple 的 Find My 网络传输任意数据 | https://positive.security/blog/send-my| 
-| 20210513 | Black Hat USA 2021 会议的议题列表陆续开始公布了 | https://www.blackhat.com/us-21/briefings/schedule/| 
-| 20210513 | ExifTool CVE-2021-22204 任意代码执行漏洞的分析 | https://blog.bricked.tech/posts/exiftool/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210517 | SecWiki周刊（第376期) | https://www.sec-wiki.com/weekly/376| 
 | 20210516 | 以太坊智能合约中的社会工程攻击 | https://mp.weixin.qq.com/s/MVsF9P7hpnncf9cHuTQ_iA| 
 | 20210516 | AsiaCCS 2021 论文录用列表 | https://mp.weixin.qq.com/s/F_Xev3CD1AH-LgszPk_PFQ| 
 | 20210514 | vulnhub: Momentum:1 | https://www.sec-in.com/article/1059| 
@@ -40,37 +41,36 @@
 | 20210513 | 基于算法的漏洞检测 | https://xz.aliyun.com/t/9539| 
 | 20210512 | 从美国燃油管道商遭勒索攻击看企业安全 | https://mp.weixin.qq.com/s/jfl2mxO4xkqJavIY8Nt8OA| 
 | 20210512 | Istio自身服务的安全风险 | http://rui0.cn/archives/1597| 
-| 20210512 | 云原生安全攻防技术浅析 | https://mp.weixin.qq.com/s/loYIGK59RdFbpqhTkmu03w| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210517T01:48:56Z | CVE-2021-31166 | Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely. | https://github.com/0vercl0k/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
-| 20210517T01:25:05Z | CVE-2021-21551 | Exploit to SYSTEM for CVE-2021-21551 | https://github.com/waldo-irc/CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
-| 20210517T00:47:41Z | CVE-2021-27651 | RCE for Pega Infinity >= 8.2.1, Pega Infinity <= 8.5.2 | https://github.com/samwcyo/CVE-2021-27651-PoC | In versions 8.2.1 through 8.5.2 of Pega Infinity, the password reset functionality for local accounts can be used to bypass local authentication checks.| 
+| 20210517T11:57:44Z | CVE-2021-31166 | Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely. | https://github.com/0vercl0k/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
+| 20210517T11:53:18Z | CVE-2021-21551 | Exploit to SYSTEM for CVE-2021-21551 | https://github.com/waldo-irc/CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
+| 20210517T11:49:17Z | CVE-2021-31166 | PoC for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely. Although it was defined as remote command execution, it can only cause the system to crash. | https://github.com/An0ny-m0us/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
+| 20210517T10:47:20Z | CVE-2021-27651 | RCE for Pega Infinity >= 8.2.1, Pega Infinity <= 8.5.2 | https://github.com/samwcyo/CVE-2021-27651-PoC | In versions 8.2.1 through 8.5.2 of Pega Infinity, the password reset functionality for local accounts can be used to bypass local authentication checks.| 
+| 20210517T08:10:42Z | CVE-2020-0001 | POC to run system component in an untrusted-app process | https://github.com/Zachinio/CVE-2020-0001 | In getProcessRecordLocked of ActivityManagerService.java isolated apps are not handled correctly. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation. Product: Android Versions: Android-8.0, Android-8.1, Android-9, and Android-10 Android ID: A-140055304| 
+| 20210517T02:05:27Z | CVE-2021-27342 | Exploit for CVE-2021-27342 vulnerability (telnet authentication brute-force protection bypass) | https://github.com/guywhataguy/D-Link-CVE-2021-27342-exploit | 未查询到CVE信息| 
 | 20210516T21:16:46Z | CVE-2021-3156 | Null | https://github.com/dock0d1/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210516T20:01:34Z | CVE-2021-30461 | VOIP RCE | https://github.com/Vulnmachines/CVE-2021-30461 | 未查询到CVE信息| 
 | 20210516T20:00:08Z | CVE-2021-27651 | Pega Infinity Password Reset | https://github.com/Vulnmachines/CVE-2021-27651 | In versions 8.2.1 through 8.5.2 of Pega Infinity, the password reset functionality for local accounts can be used to bypass local authentication checks.| 
 | 20210516T15:58:52Z | CVE-2020-14321 | Python script to exploit CVE-2020-14321 - Course enrolments allowed privilege escalation from teacher role into manager role to RCE. | https://github.com/lanzt/CVE-2020-14321 | 未查询到CVE信息| 
-| 20210516T11:23:29Z | CVE-2021-22893 | Proof-of-Concept (PoC) script to exploit Pulse Secure CVE-2021-22893.  | https://github.com/ZephrFish/CVE-2021-22893 | | 
-| 20210515T18:43:23Z | CVE-2021-28480 | PoC for exploiting RCE in Exchange CVEs: CVE-2021-28480, CVE-2021-28481, CVE-2021-28482 and CVE-2021-28483.  Achieves Domain Admin on Exchange Servers running Windows Server 2003 up to Windows Server 2019. | https://github.com/ZephrFish/ExchangeRCE-CVE-2021-28480 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-28481, CVE-2021-28482, CVE-2021-28483.| 
-| 20210515T14:35:38Z | CVE-2021-27342 | Exploit for CVE-2021-27342 vulnerability (telnet authentication brute-force protection bypass) | https://github.com/guywhataguy/D-Link-CVE-2021-27342-exploit | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210517T11:32:08Z | Klee Kai creative assets | https://github.com/KleeKai-DEV/Klee-Kai-Creative | 0 | 0| 
+| 20210517T09:33:11Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 603 | 14| 
+| 20210517T08:29:21Z | 99484 A & C team Worlds Code for 2021 Live-Remote Skills | https://github.com/Jython1415/penguin-Klee | 1 | 0| 
+| 20210517T07:33:29Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
+| 20210517T05:13:54Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 135 | 13| 
+| 20210517T05:00:35Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1691 | 492| 
 | 20210516T17:55:23Z | Null | https://github.com/fontworks-fonts/Klee | 447 | 13| 
-| 20210516T16:24:49Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 133 | 13| 
-| 20210516T15:12:55Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 599 | 14| 
 | 20210516T03:54:56Z | Null | https://github.com/KLeelaSantosh/kleeelasanthosh | 0 | 0| 
-| 20210514T23:02:07Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1690 | 492| 
 | 20210514T20:24:17Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 14 | 43| 
 | 20210514T14:57:49Z | Null | https://github.com/KLeelaSantosh/kleelas | 0 | 0| 
-| 20210514T07:39:11Z | Null | https://github.com/KLeelaSantosh/kleeelasantosh | 0 | 0| 
-| 20210514T07:36:46Z | Null | https://github.com/KLeelaSantosh/kleela | 0 | 0| 
-| 20210514T07:34:25Z | Null | https://github.com/KLeelaSantosh/Kleelasan | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -99,16 +99,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210516T22:47:55Z | React frontend for the cybersecurity forum website - %Backdoor% | https://github.com/backdoor-epics/backdoor-frontend | 0 | 1| 
+| 20210517T11:58:09Z | AdvDoor: Adversarial Backdoor Attack of Deep Learning System | https://github.com/AdvDoor/AdvDoor | 0 | 0| 
+| 20210517T10:49:06Z | Backend for our cyber security forum - %Backdoor% | https://github.com/backdoor-epics/backdoor-backend | 0 | 1| 
+| 20210517T09:00:02Z | React frontend for the cybersecurity forum website - %Backdoor% | https://github.com/backdoor-epics/backdoor-frontend | 0 | 1| 
+| 20210517T03:42:26Z | a simple reverse connected bot in golang. | https://github.com/cs8425/go-bot | 11 | 15| 
+| 20210517T02:44:21Z | You have a Front Door, a Backdoor, why not a SideD00r... | https://github.com/Aaron-Akhtar/SideD00r | 0 | 0| 
 | 20210516T19:49:11Z | A backdoor plugin for Spigot, Paper, and Bukkit! | https://github.com/PythonJoshua/backdoorplugin | 1 | 1| 
 | 20210516T19:17:59Z | Her er nogen DevoNetwork filer uden backdoors :) Jeg har obfuscated Drugsystem,  | https://github.com/KetchupLeaks/DevoNetwork | 0 | 0| 
 | 20210516T15:14:31Z | This is a simple backdoor for education purposes | https://github.com/Yegorius171/simple_backdoor | 0 | 0| 
 | 20210516T15:09:46Z | backdoor-for-tefw | https://github.com/JoyGhoshs/tefw-backdoors | 2 | 1| 
-| 20210516T14:02:31Z | a simple reverse connected bot in golang. | https://github.com/cs8425/go-bot | 11 | 15| 
 | 20210516T10:35:25Z | Nesca v24D87-801 (without backdoor) | https://github.com/ErShkrv/Nesca24D87 | 0 | 1| 
-| 20210516T09:55:24Z | php script to gain access to a site once injected | https://github.com/Urtext69/backdoor | 0 | 0| 
-| 20210516T06:47:05Z | Null | https://github.com/piyushsharma220699/Backdoor-in-Cyber-Security | 0 | 0| 
-| 20210516T02:35:52Z | code for mutation for backdoor | https://github.com/newcoming345/mutation-for-backdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐
