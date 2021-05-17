@@ -6,6 +6,8 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210516 | 渗透测试 ISP 101 ,如何渗透测试与修复ISP的建议。 | https://infosecwriteups.com/pentesting-isp-101-how-i-hacked-fixed-my-isp-643e9201f7e9?gi=a417d0f6cafe| 
+| 20210516 | 在Windows10 的QEMU环境中使用GDB调试16位实模式方法。 | https://astralvx.com/debugging-16-bit-in-qemu-with-gdb-on-windows/?utm_source=rss&utm_medium=rss&utm_campaign=debugging-16-bit-in-qemu-with-gdb-on-windows| 
 | 20210514 | Linux 内核 CAN 网络子系统 ISOTP CAN 协议本地提权漏洞分析 | https://github.com/nrb547/kernel-exploitation/blob/main/cve-2021-32606/cve-2021-32606.md| 
 | 20210514 | 利用 Custom Protocol Handlers 实现跨浏览器的用户指纹跟踪 | https://fingerprintjs.com/blog/external-protocol-flooding/| 
 | 20210514 | How we bypassed bytenode and decompiled Node.js bytecode in Ghidra | http://swarm.ptsecurity.com/how-we-bypassed-bytenode-and-decompiled-node-js-bytecode-in-ghidra/| 
@@ -24,13 +26,13 @@
 | 20210513 | 模拟 AirTag 利用 Apple 的 Find My 网络传输任意数据 | https://positive.security/blog/send-my| 
 | 20210513 | Black Hat USA 2021 会议的议题列表陆续开始公布了 | https://www.blackhat.com/us-21/briefings/schedule/| 
 | 20210513 | ExifTool CVE-2021-22204 任意代码执行漏洞的分析 | https://blog.bricked.tech/posts/exiftool/| 
-| 20210513 | 梅赛德斯-奔驰汽车信息安全研究综述报告 | https://sec.today/pulses/3d7a9f57-8732-43f5-8dc3-02d4655b57ae/| 
-| 20210513 | 梅赛德斯-奔驰汽车信息安全研究综述报告 | https://keenlab.tencent.com/zh/2021/05/12/Tencent-Security-Keen-Lab-Experimental-Security-Assessment-on-Mercedes-Benz-Cars/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210516 | 以太坊智能合约中的社会工程攻击 | https://mp.weixin.qq.com/s/MVsF9P7hpnncf9cHuTQ_iA| 
+| 20210516 | AsiaCCS 2021 论文录用列表 | https://mp.weixin.qq.com/s/F_Xev3CD1AH-LgszPk_PFQ| 
 | 20210514 | vulnhub: Momentum:1 | https://www.sec-in.com/article/1059| 
 | 20210513 | PHP 开源白盒审计工具初探（上） | https://www.anquanke.com/post/id/240739| 
 | 20210513 | pocassist: 开源漏洞测试框架 | https://github.com/jweny/pocassist| 
@@ -39,32 +41,30 @@
 | 20210512 | 从美国燃油管道商遭勒索攻击看企业安全 | https://mp.weixin.qq.com/s/jfl2mxO4xkqJavIY8Nt8OA| 
 | 20210512 | Istio自身服务的安全风险 | http://rui0.cn/archives/1597| 
 | 20210512 | 云原生安全攻防技术浅析 | https://mp.weixin.qq.com/s/loYIGK59RdFbpqhTkmu03w| 
-| 20210512 | 安信证券容器云平台落地实践 | https://mp.weixin.qq.com/s/cbCd_hXpHlJ_8DnoiHWi0g| 
-| 20210512 | 导致美国供油系统中断的勒索软件同源分析与防范 | https://mp.weixin.qq.com/s/ArrPR0XCj-Aq6aTP3n7lEg| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210516T12:16:31Z | CVE-2021-27651 | RCE for Pega Infinity >= 8.2.1, Pega Infinity <= 8.5.2 | https://github.com/samwcyo/CVE-2021-27651-PoC | In versions 8.2.1 through 8.5.2 of Pega Infinity, the password reset functionality for local accounts can be used to bypass local authentication checks.| 
+| 20210517T00:00:34Z | CVE-2021-31166 | Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely. | https://github.com/0vercl0k/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
+| 20210516T23:13:10Z | CVE-2021-27651 | RCE for Pega Infinity >= 8.2.1, Pega Infinity <= 8.5.2 | https://github.com/samwcyo/CVE-2021-27651-PoC | In versions 8.2.1 through 8.5.2 of Pega Infinity, the password reset functionality for local accounts can be used to bypass local authentication checks.| 
+| 20210516T22:56:19Z | CVE-2021-21551 | Exploit to SYSTEM for CVE-2021-21551 | https://github.com/waldo-irc/CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
+| 20210516T21:16:46Z | CVE-2021-3156 | Null | https://github.com/dock0d1/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210516T20:01:34Z | CVE-2021-30461 | VOIP RCE | https://github.com/Vulnmachines/CVE-2021-30461 | 未查询到CVE信息| 
+| 20210516T20:00:08Z | CVE-2021-27651 | Pega Infinity Password Reset | https://github.com/Vulnmachines/CVE-2021-27651 | In versions 8.2.1 through 8.5.2 of Pega Infinity, the password reset functionality for local accounts can be used to bypass local authentication checks.| 
+| 20210516T15:58:52Z | CVE-2020-14321 | Python script to exploit CVE-2020-14321 - Course enrolments allowed privilege escalation from teacher role into manager role to RCE. | https://github.com/lanzt/CVE-2020-14321 | 未查询到CVE信息| 
 | 20210516T11:23:29Z | CVE-2021-22893 | Proof-of-Concept (PoC) script to exploit Pulse Secure CVE-2021-22893.  | https://github.com/ZephrFish/CVE-2021-22893 | Pulse Connect Secure 9.0R3/9.1R1 and higher is vulnerable to an authentication bypass vulnerability exposed by the Windows File Share Browser and Pulse Secure Collaboration features of Pulse Connect Secure that can allow an unauthenticated user to perform remote arbitrary code execution on the Pulse Connect Secure gateway. This vulnerability has been exploited in the wild.| 
-| 20210516T10:20:04Z | CVE-2021-21551 | Exploit to SYSTEM for CVE-2021-21551 | https://github.com/waldo-irc/CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
 | 20210515T18:43:23Z | CVE-2021-28480 | PoC for exploiting RCE in Exchange CVEs: CVE-2021-28480, CVE-2021-28481, CVE-2021-28482 and CVE-2021-28483.  Achieves Domain Admin on Exchange Servers running Windows Server 2003 up to Windows Server 2019. | https://github.com/ZephrFish/ExchangeRCE-CVE-2021-28480 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-28481, CVE-2021-28482, CVE-2021-28483.| 
 | 20210515T14:35:38Z | CVE-2021-27342 | Exploit for CVE-2021-27342 vulnerability (telnet authentication brute-force protection bypass) | https://github.com/guywhataguy/D-Link-CVE-2021-27342-exploit | 未查询到CVE信息| 
-| 20210514T23:10:35Z | 未知编号 | A Python program implementing and exploiting the Minsky Turing machine considered in the paper "Intrinsic Propensity for Vulnerability in Computers? Arbitrary Code Execution in the Universal Turing Machine" as per CVE-2021-32471 (https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-32471) | https://github.com/intrinsic-propensity/turing-machine | 未查询到CVE信息| 
-| 20210514T17:15:24Z | CVE-2020-8813 | Null | https://github.com/m4udSec/Cacti-CVE-2020-8813 | graph_realtime.php in Cacti 1.2.8 allows remote attackers to execute arbitrary OS commands via shell metacharacters in a cookie, if a guest user has the graph real-time privilege.| 
-| 20210514T16:00:43Z | CVE-2020-28502 | CVE-2020-28502 node-XMLHttpRequest RCE | https://github.com/s-index/CVE-2020-28502 | This affects the package xmlhttprequest before 1.7.0; all versions of package xmlhttprequest-ssl. Provided requests are sent synchronously (async=False on xhr.open), malicious user input flowing into xhr.send could result in arbitrary code being injected and run.| 
-| 20210514T13:32:39Z | CVE-2021-21300 | CVE-2021-21300 | https://github.com/tao-sun2/CVE-2021-21300 | | 
-| 20210514T08:03:43Z | CVE-2021-2021 | This is a good projects. | https://github.com/TheCryingGame/CVE-2021-2021good | Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Optimizer). Supported versions that are affected are 8.0.22 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server. Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of MySQL Server. CVSS 3.1 Base Score 4.9 (Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:N/I:N/A:H).| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210516T09:54:32Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 597 | 14| 
+| 20210516T17:55:23Z | Null | https://github.com/fontworks-fonts/Klee | 447 | 13| 
+| 20210516T16:24:49Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 133 | 13| 
+| 20210516T15:12:55Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 599 | 14| 
 | 20210516T03:54:56Z | Null | https://github.com/KLeelaSantosh/kleeelasanthosh | 0 | 0| 
-| 20210515T19:28:31Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 130 | 13| 
-| 20210515T03:01:01Z | Null | https://github.com/fontworks-fonts/Klee | 446 | 13| 
 | 20210514T23:02:07Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1690 | 492| 
 | 20210514T20:24:17Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 14 | 43| 
 | 20210514T14:57:49Z | Null | https://github.com/KLeelaSantosh/kleelas | 0 | 0| 
@@ -84,16 +84,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210516T12:58:52Z | Exploits the Wii U%s bluetooth stack to gain IOSU kernel access via bluetooth. | https://github.com/GaryOderNichts/bluubomb | 0 | 0| 
-| 20210516T12:58:34Z | АХУЕННЫЙ ЕКСПЛОЙТ ЕБАТЬ | https://github.com/BoJI-Ve3/exploit-wmi | 0 | 0| 
-| 20210516T12:55:48Z | labsecurity is a framework and its use is for ethical hacking and computer security | https://github.com/dylan14567/labsecurity | 1 | 3| 
-| 20210516T12:41:16Z | A multiple reverse shell sessions/clients manager via terminal written in go | https://github.com/krishpranav/exploit-framework | 0 | 0| 
-| 20210516T12:38:13Z | Educational web application demonstrating techniques of binary exploitation - (Back-end) | https://github.com/Pen-Test3rs/binary_exploits_backend | 0 | 0| 
-| 20210516T12:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9433 | 1526| 
-| 20210516T12:30:24Z | A list of fun things to do with DarkRP addons | https://github.com/OverlordAkise/darkrp-exploits | 0 | 0| 
-| 20210516T12:27:40Z | Remote Code Execution EJS Web Applications using express-fileupload | https://github.com/boiledsteak/EJS-Exploit | 0 | 0| 
-| 20210516T12:13:31Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7873 | 1389| 
-| 20210516T12:02:40Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 10| 
+| 20210516T23:56:12Z | Educational web application demonstrating techniques of binary exploitation (Front-end) | https://github.com/Pen-Test3rs/binary_exploits_frontend | 0 | 0| 
+| 20210516T23:39:17Z |  Learning vulnerability analysis, exploit development, software debugging, binary analysis, and general cyber security issues | https://github.com/rudenal/ctfs | 0 | 0| 
+| 20210516T23:30:24Z | Comands, Theory and Definitions that can be applied to information gathering, password cracking and system exploits.  | https://github.com/panchis7u7/Ethical_Hacking | 0 | 0| 
+| 20210516T23:02:41Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 10| 
+| 20210516T22:49:46Z | An easy challenge for a stack-based buffer overflow! Preset shellcode will execute calc.exe upon exploitation. | https://github.com/Crystalware/BufferOverflow_EasyChallenge | 0 | 0| 
+| 20210516T22:47:52Z | The legendary VXHeaven malware collection. | https://github.com/BaRRaKudaRain/RedZone | 17 | 6| 
+| 20210516T22:30:47Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9435 | 1526| 
+| 20210516T22:24:27Z | Writeup for exploit.education/nebula | https://github.com/vi11ain/nebula-writeup | 0 | 0| 
+| 20210516T22:00:43Z | Null | https://github.com/zYan666/Demon-Exploit | 0 | 0| 
+| 20210516T21:57:40Z | Config files for my GitHub profile. | https://github.com/NoahExploits/NoahExploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
