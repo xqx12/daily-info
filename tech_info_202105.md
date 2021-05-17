@@ -84,10 +84,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210517T00:02:43Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 10| 
 | 20210516T23:56:12Z | Educational web application demonstrating techniques of binary exploitation (Front-end) | https://github.com/Pen-Test3rs/binary_exploits_frontend | 0 | 0| 
 | 20210516T23:39:17Z |  Learning vulnerability analysis, exploit development, software debugging, binary analysis, and general cyber security issues | https://github.com/rudenal/ctfs | 0 | 0| 
 | 20210516T23:30:24Z | Comands, Theory and Definitions that can be applied to information gathering, password cracking and system exploits.  | https://github.com/panchis7u7/Ethical_Hacking | 0 | 0| 
-| 20210516T23:02:41Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 10| 
 | 20210516T22:49:46Z | An easy challenge for a stack-based buffer overflow! Preset shellcode will execute calc.exe upon exploitation. | https://github.com/Crystalware/BufferOverflow_EasyChallenge | 0 | 0| 
 | 20210516T22:47:52Z | The legendary VXHeaven malware collection. | https://github.com/BaRRaKudaRain/RedZone | 17 | 6| 
 | 20210516T22:30:47Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9435 | 1526| 
