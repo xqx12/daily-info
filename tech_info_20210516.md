@@ -20,10 +20,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210516T21:16:46Z | CVE-2021-3156 | Null | https://github.com/dock0d1/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210516T21:16:46Z | CVE-2021-3156 | Null | https://github.com/dock0d1/CVE-2021-3156 | | 
 | 20210516T20:01:34Z | CVE-2021-30461 | VOIP RCE | https://github.com/Vulnmachines/CVE-2021-30461 | 未查询到CVE信息| 
 | 20210516T20:00:08Z | CVE-2021-27651 | Pega Infinity Password Reset | https://github.com/Vulnmachines/CVE-2021-27651 | In versions 8.2.1 through 8.5.2 of Pega Infinity, the password reset functionality for local accounts can be used to bypass local authentication checks.| 
-| 20210516T15:58:52Z | CVE-2020-14321 | Python script to exploit CVE-2020-14321 - Course enrolments allowed privilege escalation from teacher role into manager role to RCE. | https://github.com/lanzt/CVE-2020-14321 | | 
+| 20210516T15:58:52Z | CVE-2020-14321 | Python script to exploit CVE-2020-14321 - Course enrolments allowed privilege escalation from teacher role into manager role to RCE. | https://github.com/lanzt/CVE-2020-14321 | 未查询到CVE信息| 
 | 20210516T11:23:29Z | CVE-2021-22893 | Proof-of-Concept (PoC) script to exploit Pulse Secure CVE-2021-22893.  | https://github.com/ZephrFish/CVE-2021-22893 | Pulse Connect Secure 9.0R3/9.1R1 and higher is vulnerable to an authentication bypass vulnerability exposed by the Windows File Share Browser and Pulse Secure Collaboration features of Pulse Connect Secure that can allow an unauthenticated user to perform remote arbitrary code execution on the Pulse Connect Secure gateway. This vulnerability has been exploited in the wild.| 
 
 
@@ -74,16 +74,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210516T22:45:56Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 4499 | 525| 
 | 20210516T22:00:37Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
 | 20210516T21:59:22Z | URL fuzzing tool made of Python | https://github.com/AyoobAli/pyfuzz | 30 | 13| 
-| 20210516T21:32:37Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6282 | 1274| 
 | 20210516T21:07:07Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
 | 20210516T20:25:55Z | Fuzzing the OS-Peripheral boundary without hardware | https://github.com/buszk/Drifuzz | 0 | 0| 
 | 20210516T20:23:39Z | Null | https://github.com/gdepuydt/fuzzoz | 0 | 0| 
 | 20210516T20:18:04Z | An automatic fuzzing tool for ROS 2 C++ projects | https://github.com/JnxF/automatic_fuzzing | 0 | 0| 
 | 20210516T20:02:39Z | An application to predict 2D shapes drawn by an user, using neural networks & binary synaptic weights, main project done with @xenonCBU, @mirceacs, @andreio16 | https://github.com/ST4NSB/neuro-fuzzy-geometric-shape-recognition | 1 | 0| 
 | 20210516T20:02:18Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 300 | 17| 
+| 20210516T19:54:07Z | fuzz Tor, OpenSSL and probably more using AFL++ | https://github.com/toralf/fuzz-utils | 0 | 0| 
+| 20210516T19:48:52Z | CBOR RFC 7049 & RFC 8949 (Go/Golang) - safe & fast with standard API + toarray & keyasint, CBOR tags, float64/32/16, fuzz tested. | https://github.com/fxamacker/cbor | 270 | 21| 
 
 
 
