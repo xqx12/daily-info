@@ -53,7 +53,7 @@
 | 20210517T08:10:42Z | CVE-2020-0001 | POC to run system component in an untrusted-app process | https://github.com/Zachinio/CVE-2020-0001 | In getProcessRecordLocked of ActivityManagerService.java isolated apps are not handled correctly. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation. Product: Android Versions: Android-8.0, Android-8.1, Android-9, and Android-10 Android ID: A-140055304| 
 | 20210517T02:05:27Z | CVE-2021-27342 | Exploit for CVE-2021-27342 vulnerability (telnet authentication brute-force protection bypass) | https://github.com/guywhataguy/D-Link-CVE-2021-27342-exploit | 未查询到CVE信息| 
 | 20210516T21:16:46Z | CVE-2021-3156 | Null | https://github.com/dock0d1/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210516T20:01:34Z | CVE-2021-30461 | VOIP RCE | https://github.com/Vulnmachines/CVE-2021-30461 | | 
+| 20210516T20:01:34Z | CVE-2021-30461 | VOIP RCE | https://github.com/Vulnmachines/CVE-2021-30461 | 未查询到CVE信息| 
 | 20210516T20:00:08Z | CVE-2021-27651 | Pega Infinity Password Reset | https://github.com/Vulnmachines/CVE-2021-27651 | In versions 8.2.1 through 8.5.2 of Pega Infinity, the password reset functionality for local accounts can be used to bypass local authentication checks.| 
 | 20210516T15:58:52Z | CVE-2020-14321 | Python script to exploit CVE-2020-14321 - Course enrolments allowed privilege escalation from teacher role into manager role to RCE. | https://github.com/lanzt/CVE-2020-14321 | 未查询到CVE信息| 
 
@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210517T12:19:38Z | Python Script for Exploitation | https://github.com/aman-raza/Exploit | 0 | 0| 
 | 20210517T12:18:09Z | A multiple reverse shell sessions/clients manager via terminal written in go | https://github.com/krishpranav/exploit-framework | 1 | 1| 
 | 20210517T12:14:04Z | Exploit CVE-2017-7494 for Net Security course final Assignment. This would reveal the vulnerability of services that run in administrative priority on Linux. | https://github.com/I-Rinka/BIT-EternalBlue-for-macOS_Linux | 1 | 1| 
 | 20210517T12:03:06Z | https://exploit.education/protostar/ | https://github.com/0xmizu/protostar | 0 | 0| 
@@ -93,7 +94,6 @@
 | 20210517T11:50:43Z | [CVPR 2021] Exploiting Edge-Oriented Reasoning for 3D Point-based Scene Graph Analysis | https://github.com/chaoyivision/SGGpoint | 0 | 0| 
 | 20210517T11:47:42Z | 在科研（摸鱼）过程中，收集到的或者自己写的一些有用的（经过实战检验的）exp/poc，欢迎提交issue和PR | https://github.com/ycdxsb/Exploits | 2 | 1| 
 | 20210517T11:33:11Z | Open Source Projects that helps exploit Intel SGX technology | https://github.com/Maxul/Awesome-SGX-Open-Source | 49 | 9| 
-| 20210517T11:33:06Z | Null | https://github.com/Arturo8V/Exploit-DB-Scraping | 0 | 0| 
 
 
 # backdoor on Github 推荐

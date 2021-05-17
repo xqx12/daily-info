@@ -55,6 +55,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210517T12:19:38Z | Python Script for Exploitation | https://github.com/aman-raza/Exploit | 0 | 0| 
 | 20210517T12:18:09Z | A multiple reverse shell sessions/clients manager via terminal written in go | https://github.com/krishpranav/exploit-framework | 1 | 1| 
 | 20210517T12:14:04Z | Exploit CVE-2017-7494 for Net Security course final Assignment. This would reveal the vulnerability of services that run in administrative priority on Linux. | https://github.com/I-Rinka/BIT-EternalBlue-for-macOS_Linux | 1 | 1| 
 | 20210517T12:03:06Z | https://exploit.education/protostar/ | https://github.com/0xmizu/protostar | 0 | 0| 
@@ -64,7 +65,6 @@
 | 20210517T11:50:43Z | [CVPR 2021] Exploiting Edge-Oriented Reasoning for 3D Point-based Scene Graph Analysis | https://github.com/chaoyivision/SGGpoint | 0 | 0| 
 | 20210517T11:47:42Z | 在科研（摸鱼）过程中，收集到的或者自己写的一些有用的（经过实战检验的）exp/poc，欢迎提交issue和PR | https://github.com/ycdxsb/Exploits | 2 | 1| 
 | 20210517T11:33:11Z | Open Source Projects that helps exploit Intel SGX technology | https://github.com/Maxul/Awesome-SGX-Open-Source | 49 | 9| 
-| 20210517T11:33:06Z | Null | https://github.com/Arturo8V/Exploit-DB-Scraping | 0 | 0| 
 
 
 # backdoor on Github 推荐
