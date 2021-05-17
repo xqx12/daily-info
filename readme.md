@@ -55,6 +55,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210517T12:49:32Z | A collection of browser exploitation codes from Singular Security Lab. | https://github.com/singularseclab/Browser_Exploits | 60 | 12| 
 | 20210517T12:42:05Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 462 | 88| 
 | 20210517T12:38:01Z | A multiple reverse shell sessions/clients manager via terminal written in go | https://github.com/krishpranav/exploit-framework | 3 | 4| 
 | 20210517T12:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9434 | 1525| 
@@ -64,7 +65,6 @@
 | 20210517T12:03:06Z | https://exploit.education/protostar/ | https://github.com/0xmizu/protostar | 0 | 0| 
 | 20210517T12:02:49Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 10| 
 | 20210517T11:52:23Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 75 | 13| 
-| 20210517T11:50:43Z | [CVPR 2021] Exploiting Edge-Oriented Reasoning for 3D Point-based Scene Graph Analysis | https://github.com/chaoyivision/SGGpoint | 0 | 0| 
 
 
 # backdoor on Github 推荐
