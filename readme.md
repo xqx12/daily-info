@@ -61,27 +61,31 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210516T11:09:42Z | This is a simple backdoor for education purposes | https://github.com/Yegorius171/simple_backdoor | 0 | 0| 
+| 20210516T22:47:55Z | React frontend for the cybersecurity forum website - %Backdoor% | https://github.com/backdoor-epics/backdoor-frontend | 0 | 1| 
+| 20210516T19:49:11Z | A backdoor plugin for Spigot, Paper, and Bukkit! | https://github.com/PythonJoshua/backdoorplugin | 1 | 1| 
+| 20210516T19:17:59Z | Her er nogen DevoNetwork filer uden backdoors :) Jeg har obfuscated Drugsystem,  | https://github.com/KetchupLeaks/DevoNetwork | 0 | 0| 
+| 20210516T15:14:31Z | This is a simple backdoor for education purposes | https://github.com/Yegorius171/simple_backdoor | 0 | 0| 
+| 20210516T15:09:46Z | backdoor-for-tefw | https://github.com/JoyGhoshs/tefw-backdoors | 2 | 1| 
+| 20210516T14:02:31Z | a simple reverse connected bot in golang. | https://github.com/cs8425/go-bot | 11 | 15| 
 | 20210516T10:35:25Z | Nesca v24D87-801 (without backdoor) | https://github.com/ErShkrv/Nesca24D87 | 0 | 1| 
 | 20210516T09:55:24Z | php script to gain access to a site once injected | https://github.com/Urtext69/backdoor | 0 | 0| 
 | 20210516T06:47:05Z | Null | https://github.com/piyushsharma220699/Backdoor-in-Cyber-Security | 0 | 0| 
 | 20210516T02:35:52Z | code for mutation for backdoor | https://github.com/newcoming345/mutation-for-backdoor | 0 | 0| 
-| 20210516T00:45:25Z | Backdoor Attack in Frequency Domain | https://github.com/FTrojanAttack/FTrojan | 0 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210516T12:56:29Z | fuzz Tor, OpenSSL and probably more using AFL++ | https://github.com/toralf/fuzz-utils | 0 | 0| 
-| 20210516T12:51:36Z | Yocto layer for fuzzing Wind River Linux kernel with google-syzkaller | https://github.com/ovpanait/meta-syzkaller-wrl | 0 | 0| 
-| 20210516T12:46:08Z | PerformanceFuzzer | https://github.com/KKimj/PerformanceFuzzer | 1 | 0| 
-| 20210516T11:57:43Z | Fuzzing harnesses, corpora, scripts, and target-specific notes for fuzzing IrfanView | https://github.com/moshekaplan/FuzzIrfanView | 0 | 0| 
-| 20210516T11:03:28Z | Music Visualizer | https://github.com/ashikkl/fuzzy-octo-disco | 0 | 0| 
-| 20210516T10:25:40Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 2 | 1| 
-| 20210516T08:40:00Z | Null | https://github.com/Landsubsidence/Fuzzy-Analytic-Hierarchy-Process | 1 | 0| 
-| 20210516T07:14:51Z | Null | https://github.com/Greywolf-edu/Fuzzy | 0 | 0| 
-| 20210516T07:11:44Z | Reproduce bugs in https://github.com/google/fuzzer-test-suite | https://github.com/K-atc/reproduce-bugs-in-fuzzer-test-suite | 1 | 0| 
-| 20210516T07:11:39Z | This is a simple repo for fuzzworks.  | https://github.com/sajuukthanatoskhar/fuzzworks_bpos | 0 | 0| 
+| 20210516T22:45:56Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 4499 | 525| 
+| 20210516T22:00:37Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
+| 20210516T21:59:22Z | URL fuzzing tool made of Python | https://github.com/AyoobAli/pyfuzz | 30 | 13| 
+| 20210516T21:32:37Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6282 | 1274| 
+| 20210516T21:07:07Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
+| 20210516T20:25:55Z | Fuzzing the OS-Peripheral boundary without hardware | https://github.com/buszk/Drifuzz | 0 | 0| 
+| 20210516T20:23:39Z | Null | https://github.com/gdepuydt/fuzzoz | 0 | 0| 
+| 20210516T20:18:04Z | An automatic fuzzing tool for ROS 2 C++ projects | https://github.com/JnxF/automatic_fuzzing | 0 | 0| 
+| 20210516T20:02:39Z | An application to predict 2D shapes drawn by an user, using neural networks & binary synaptic weights, main project done with @xenonCBU, @mirceacs, @andreio16 | https://github.com/ST4NSB/neuro-fuzzy-geometric-shape-recognition | 1 | 0| 
+| 20210516T20:02:18Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 300 | 17| 
 
 
 
