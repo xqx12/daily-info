@@ -33,7 +33,7 @@
 | 20210517T11:49:17Z | CVE-2021-31166 | PoC for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely. Although it was defined as remote command execution, it can only cause the system to crash. | https://github.com/An0ny-m0us/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
 | 20210517T10:47:20Z | CVE-2021-27651 | RCE for Pega Infinity >= 8.2.1, Pega Infinity <= 8.5.2 | https://github.com/samwcyo/CVE-2021-27651-PoC | In versions 8.2.1 through 8.5.2 of Pega Infinity, the password reset functionality for local accounts can be used to bypass local authentication checks.| 
 | 20210517T08:10:42Z | CVE-2020-0001 | POC to run system component in an untrusted-app process | https://github.com/Zachinio/CVE-2020-0001 | In getProcessRecordLocked of ActivityManagerService.java isolated apps are not handled correctly. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation. Product: Android Versions: Android-8.0, Android-8.1, Android-9, and Android-10 Android ID: A-140055304| 
-| 20210517T02:05:27Z | CVE-2021-27342 | Exploit for CVE-2021-27342 vulnerability (telnet authentication brute-force protection bypass) | https://github.com/guywhataguy/D-Link-CVE-2021-27342-exploit | | 
+| 20210517T02:05:27Z | CVE-2021-27342 | Exploit for CVE-2021-27342 vulnerability (telnet authentication brute-force protection bypass) | https://github.com/guywhataguy/D-Link-CVE-2021-27342-exploit | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
@@ -80,11 +80,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210517T01:37:52Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4493 | 437| 
-| 20210517T01:23:08Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 4500 | 525| 
-| 20210517T01:06:24Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6283 | 1274| 
-| 20210517T01:03:34Z | Pong game with fuzzy logic  | https://github.com/FierceLinkle/FuzzyLogicPong | 0 | 0| 
-| 20210517T00:56:36Z | Fuzzing FFMPEG | https://github.com/wh1t3h47/genetic-cyber-fuzz | 0 | 0| 
+| 20210517T12:09:03Z | fuzz Tor, OpenSSL and probably more using AFL++ | https://github.com/toralf/fuzz-utils | 0 | 0| 
+| 20210517T11:57:55Z | Partial string matching using edit distances | https://github.com/benkasminbullock/Text-Fuzzy | 5 | 2| 
+| 20210517T11:56:04Z | variant spellings of foreign words in Japanese | https://github.com/benkasminbullock/Lingua-JA-Gairaigo-Fuzzy | 0 | 0| 
+| 20210517T11:53:47Z | An automatic fuzzing tool for ROS 2 C++ projects | https://github.com/JnxF/automatic_fuzzing | 1 | 0| 
+| 20210517T10:59:39Z | Null | https://github.com/gjm-anban/fuzzgit | 0 | 1| 
+| 20210517T10:32:35Z | A fork and successor of the Sulley Fuzzing Framework | https://github.com/jtpereyda/boofuzz | 1223 | 243| 
+| 20210517T10:29:51Z | Null | https://github.com/jeevnesh/Maven_Fuzzy_Factory | 0 | 0| 
+| 20210517T10:12:38Z | A fuzzer for SMT solvers | https://github.com/testsmt/yinyang | 96 | 7| 
+| 20210517T10:04:13Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1738 | 341| 
+| 20210517T09:15:34Z | Null | https://github.com/RiaGohel/FuzzyBlog | 0 | 0| 
 
 
 
