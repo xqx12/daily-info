@@ -20,7 +20,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210516T21:16:46Z | CVE-2021-3156 | Null | https://github.com/dock0d1/CVE-2021-3156 | | 
+| 20210516T21:16:46Z | CVE-2021-3156 | Null | https://github.com/dock0d1/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210516T20:01:34Z | CVE-2021-30461 | VOIP RCE | https://github.com/Vulnmachines/CVE-2021-30461 | 未查询到CVE信息| 
 | 20210516T20:00:08Z | CVE-2021-27651 | Pega Infinity Password Reset | https://github.com/Vulnmachines/CVE-2021-27651 | In versions 8.2.1 through 8.5.2 of Pega Infinity, the password reset functionality for local accounts can be used to bypass local authentication checks.| 
 | 20210516T15:58:52Z | CVE-2020-14321 | Python script to exploit CVE-2020-14321 - Course enrolments allowed privilege escalation from teacher role into manager role to RCE. | https://github.com/lanzt/CVE-2020-14321 | 未查询到CVE信息| 
