@@ -55,8 +55,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210517T12:15:18Z | A multiple reverse shell sessions/clients manager via terminal written in go | https://github.com/krishpranav/exploit-framework | 1 | 1| 
 | 20210517T12:14:04Z | Exploit CVE-2017-7494 for Net Security course final Assignment. This would reveal the vulnerability of services that run in administrative priority on Linux. | https://github.com/I-Rinka/BIT-EternalBlue-for-macOS_Linux | 1 | 1| 
-| 20210517T12:08:55Z | A multiple reverse shell sessions/clients manager via terminal written in go | https://github.com/krishpranav/exploit-framework | 1 | 1| 
 | 20210517T12:03:06Z | https://exploit.education/protostar/ | https://github.com/0xmizu/protostar | 0 | 0| 
 | 20210517T12:02:49Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 10| 
 | 20210517T11:55:38Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 462 | 88| 
