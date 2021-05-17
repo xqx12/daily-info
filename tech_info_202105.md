@@ -48,7 +48,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210517T01:30:32Z | CVE-2021-31166 | Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely. | https://github.com/0vercl0k/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
 | 20210517T01:25:05Z | CVE-2021-21551 | Exploit to SYSTEM for CVE-2021-21551 | https://github.com/waldo-irc/CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
-| 20210517T00:47:41Z | CVE-2021-27651 | RCE for Pega Infinity >= 8.2.1, Pega Infinity <= 8.5.2 | https://github.com/samwcyo/CVE-2021-27651-PoC | | 
+| 20210517T00:47:41Z | CVE-2021-27651 | RCE for Pega Infinity >= 8.2.1, Pega Infinity <= 8.5.2 | https://github.com/samwcyo/CVE-2021-27651-PoC | In versions 8.2.1 through 8.5.2 of Pega Infinity, the password reset functionality for local accounts can be used to bypass local authentication checks.| 
 | 20210516T21:16:46Z | CVE-2021-3156 | Null | https://github.com/dock0d1/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210516T20:01:34Z | CVE-2021-30461 | VOIP RCE | https://github.com/Vulnmachines/CVE-2021-30461 | 未查询到CVE信息| 
 | 20210516T20:00:08Z | CVE-2021-27651 | Pega Infinity Password Reset | https://github.com/Vulnmachines/CVE-2021-27651 | In versions 8.2.1 through 8.5.2 of Pega Infinity, the password reset functionality for local accounts can be used to bypass local authentication checks.| 
@@ -84,8 +84,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210517T01:35:10Z | IoT 固件漏洞复现环境 | https://github.com/firmianay/IoT-vulhub | 382 | 36| 
+| 20210517T01:34:57Z | Exploits the Wii U%s bluetooth stack to gain IOSU kernel access via bluetooth. | https://github.com/GaryOderNichts/bluubomb | 18 | 0| 
 | 20210517T01:24:37Z | A collection of more than 140+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 671 | 160| 
-| 20210517T01:05:06Z | Exploits the Wii U%s bluetooth stack to gain IOSU kernel access via bluetooth. | https://github.com/GaryOderNichts/bluubomb | 17 | 0| 
 | 20210517T01:02:40Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 10| 
 | 20210517T00:31:21Z | Writeup for exploit.education/nebula | https://github.com/vi11ain/nebula-writeup | 0 | 0| 
 | 20210516T23:56:12Z | Educational web application demonstrating techniques of binary exploitation (Front-end) | https://github.com/Pen-Test3rs/binary_exploits_frontend | 0 | 0| 
@@ -93,7 +94,6 @@
 | 20210516T23:30:24Z | Comands, Theory and Definitions that can be applied to information gathering, password cracking and system exploits.  | https://github.com/panchis7u7/Ethical_Hacking | 0 | 0| 
 | 20210516T22:49:46Z | An easy challenge for a stack-based buffer overflow! Preset shellcode will execute calc.exe upon exploitation. | https://github.com/Crystalware/BufferOverflow_EasyChallenge | 0 | 0| 
 | 20210516T22:47:52Z | The legendary VXHeaven malware collection. | https://github.com/BaRRaKudaRain/RedZone | 17 | 6| 
-| 20210516T22:30:47Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9435 | 1526| 
 
 
 # backdoor on Github 推荐
