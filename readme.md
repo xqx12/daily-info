@@ -55,7 +55,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210517T12:31:21Z | A multiple reverse shell sessions/clients manager via terminal written in go | https://github.com/krishpranav/exploit-framework | 3 | 3| 
+| 20210517T12:31:21Z | A multiple reverse shell sessions/clients manager via terminal written in go | https://github.com/krishpranav/exploit-framework | 3 | 4| 
 | 20210517T12:28:55Z | A distributed denial-of-service (DDoS) attack is a malicious attempt to disrupt the normal traffic of a targeted server, service or network by overwhelming the target or its surrounding infrastructure with a flood of Internet traffic.  DDoS attacks achieve effectiveness by utilizing multiple compromised computer systems as sources of attack traffic. Exploited machines can include computers and other networked resources such as IoT devices. | https://github.com/RaghavDabra/DDOS-ATTACK-using-Python-script | 3 | 0| 
 | 20210517T12:19:38Z | Python Script for Exploitation | https://github.com/aman-raza/Exploit | 0 | 0| 
 | 20210517T12:14:04Z | Exploit CVE-2017-7494 for Net Security course final Assignment. This would reveal the vulnerability of services that run in administrative priority on Linux. | https://github.com/I-Rinka/BIT-EternalBlue-for-macOS_Linux | 1 | 1| 
