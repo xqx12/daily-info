@@ -50,7 +50,7 @@
 | 20210518T12:07:25Z | CVE-2021-31166 | Different rules to detect if CVE-2021-31166 is being exploited | https://github.com/Frankmock/CVE-2021-31166-detection-rules | HTTP Protocol Stack Remote Code Execution Vulnerability| 
 | 20210518T12:06:08Z | CVE-2021-21551 | Exploit to SYSTEM for CVE-2021-21551 | https://github.com/waldo-irc/CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
 | 20210518T09:47:47Z | CVE-2021-27651 | RCE for Pega Infinity >= 8.2.1, Pega Infinity <= 8.5.2 | https://github.com/samwcyo/CVE-2021-27651-PoC | In versions 8.2.1 through 8.5.2 of Pega Infinity, the password reset functionality for local accounts can be used to bypass local authentication checks.| 
-| 20210518T09:22:12Z | CVE-2021-27342 | Exploit for CVE-2021-27342 vulnerability (telnet authentication brute-force protection bypass) | https://github.com/guywhataguy/D-Link-CVE-2021-27342-exploit | | 
+| 20210518T09:22:12Z | CVE-2021-27342 | Exploit for CVE-2021-27342 vulnerability (telnet authentication brute-force protection bypass) | https://github.com/guywhataguy/D-Link-CVE-2021-27342-exploit | An authentication brute-force protection mechanism bypass in telnetd in D-Link Router model DIR-842 firmware version 3.0.2 allows a remote attacker to circumvent the anti-brute-force cool-down delay period via a timing-based side-channel attack| 
 | 20210518T07:57:23Z | CVE-2020-1020 | Null | https://github.com/mavillon1/CVE-2020-1020-Exploit | A remote code execution vulnerability exists in Microsoft Windows when the Windows Adobe Type Manager Library improperly handles a specially-crafted multi-master font - Adobe Type 1 PostScript format.For all systems except Windows 10, an attacker who successfully exploited the vulnerability could execute code remotely, aka %Adobe Font Manager Library Remote Code Execution Vulnerability%. This CVE ID is unique from CVE-2020-0938.| 
 | 20210518T02:55:01Z | CVE-2021-31166 | PoC for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely. Although it was defined as remote command execution, it can only cause the system to crash. | https://github.com/An0ny-m0us/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
 | 20210517T21:17:22Z | CVE-2021-22204 | Python exploit for the CVE-2021-22204 vulnerability in Exiftool | https://github.com/convisoappsec/CVE-2021-22204-exiftool | Improper neutralization of user data in the DjVu file format in ExifTool versions 7.44 and up allows arbitrary code execution when parsing the malicious image| 
@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210518T12:24:08Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
+| 20210518T12:32:19Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
 | 20210518T11:20:11Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 136 | 13| 
 | 20210518T11:20:07Z | Null | https://github.com/BajacDev/rust-klee-docker | 1 | 0| 
 | 20210518T10:28:39Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 612 | 14| 
@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210518T12:31:18Z | X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter | https://github.com/Moham3dRiahi/XAttacker | 936 | 415| 
 | 20210518T12:25:06Z | A multiple reverse shell sessions/clients manager via terminal written in go | https://github.com/krishpranav/exploit-framework | 3 | 4| 
 | 20210518T12:11:41Z | LUA scripts used for roblox exploiting | https://github.com/Undecoder/RBX-Exploiting-Scripts | 0 | 0| 
 | 20210518T12:07:25Z | Different rules to detect if CVE-2021-31166 is being exploited | https://github.com/Frankmock/CVE-2021-31166-detection-rules | 1 | 0| 
@@ -94,12 +95,12 @@
 | 20210518T11:40:35Z | A search engine on information delivered by OSINT sources to support Vulnerability Assessment | https://github.com/antonioforte1995/VISE | 4 | 0| 
 | 20210518T10:25:56Z | DeepCOMBI is a NN algorithm that exploits SNP relationships in GWAS datasets. | https://github.com/pollicipes/DeepCOMBI | 0 | 0| 
 | 20210518T10:19:37Z | Null | https://github.com/vimanari/exploit-development | 0 | 0| 
-| 20210518T10:01:45Z | A collection of more than 140+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 671 | 161| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210518T12:32:06Z | php script to gain access to a site once injected | https://github.com/Urtext69/backdoor | 0 | 0| 
 | 20210518T10:32:31Z | Null | https://github.com/Fsoky/BackDoor-Python-v1.0.0 | 2 | 1| 
 | 20210518T08:35:01Z | You have a Front Door, a Backdoor, why not a SideD00r... | https://github.com/Aaron-Akhtar/SideD00r | 0 | 0| 
 | 20210518T06:32:52Z | Injecting lua code in working VTF files and then running it | https://github.com/ExtReMLapin/glua_vtf_backdooring | 3 | 4| 
@@ -109,7 +110,6 @@
 | 20210517T23:21:52Z | for educational purposes only! | https://github.com/qqTechnologies/qqBackdoor | 18 | 3| 
 | 20210517T19:13:31Z | Backend for our cyber security forum - %Backdoor% | https://github.com/backdoor-epics/backdoor-backend | 0 | 1| 
 | 20210517T18:56:47Z | Python 3 IRC Bot / Botnet | https://github.com/trackmastersteve/HackServ | 19 | 16| 
-| 20210517T11:58:09Z | AdvDoor: Adversarial Backdoor Attack of Deep Learning System | https://github.com/AdvDoor/AdvDoor | 0 | 0| 
 
 
 # fuzz on Github 推荐
