@@ -99,31 +99,31 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210517T23:54:58Z | Null | https://github.com/connorbuck/backdoor-dispensary-website | 0 | 0| 
+| 20210517T23:21:52Z | for educational purposes only! | https://github.com/qqTechnologies/qqBackdoor | 18 | 3| 
+| 20210517T19:13:31Z | Backend for our cyber security forum - %Backdoor% | https://github.com/backdoor-epics/backdoor-backend | 0 | 1| 
+| 20210517T18:56:47Z | Python 3 IRC Bot / Botnet | https://github.com/trackmastersteve/HackServ | 19 | 16| 
+| 20210517T18:25:25Z | Null | https://github.com/Fsoky/BackDoor-Python-v1.0.0 | 0 | 1| 
+| 20210517T14:06:24Z | A backdoor with a multitude of features. | https://github.com/thatcherclough/BetterBackdoor | 208 | 66| 
 | 20210517T11:58:09Z | AdvDoor: Adversarial Backdoor Attack of Deep Learning System | https://github.com/AdvDoor/AdvDoor | 0 | 0| 
-| 20210517T10:49:06Z | Backend for our cyber security forum - %Backdoor% | https://github.com/backdoor-epics/backdoor-backend | 0 | 1| 
 | 20210517T09:00:02Z | React frontend for the cybersecurity forum website - %Backdoor% | https://github.com/backdoor-epics/backdoor-frontend | 0 | 1| 
 | 20210517T03:42:26Z | a simple reverse connected bot in golang. | https://github.com/cs8425/go-bot | 11 | 15| 
 | 20210517T02:44:21Z | You have a Front Door, a Backdoor, why not a SideD00r... | https://github.com/Aaron-Akhtar/SideD00r | 0 | 0| 
-| 20210516T19:49:11Z | A backdoor plugin for Spigot, Paper, and Bukkit! | https://github.com/PythonJoshua/backdoorplugin | 1 | 1| 
-| 20210516T19:17:59Z | Her er nogen DevoNetwork filer uden backdoors :) Jeg har obfuscated Drugsystem,  | https://github.com/KetchupLeaks/DevoNetwork | 0 | 0| 
-| 20210516T15:14:31Z | This is a simple backdoor for education purposes | https://github.com/Yegorius171/simple_backdoor | 0 | 0| 
-| 20210516T15:09:46Z | backdoor-for-tefw | https://github.com/JoyGhoshs/tefw-backdoors | 2 | 1| 
-| 20210516T10:35:25Z | Nesca v24D87-801 (without backdoor) | https://github.com/ErShkrv/Nesca24D87 | 0 | 1| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210517T12:59:01Z | Fuzzer and metamorphic tester for C++ libraries | https://github.com/PollyLabs/library-metamorphic-testing | 1 | 2| 
-| 20210517T12:44:49Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2328 | 125| 
-| 20210517T12:27:30Z | Binary, coverage-guided fuzzer for Windows and macOS | https://github.com/googleprojectzero/Jackalope | 508 | 59| 
-| 20210517T12:19:42Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6286 | 1274| 
-| 20210517T12:09:03Z | fuzz Tor, OpenSSL and probably more using AFL++ | https://github.com/toralf/fuzz-utils | 0 | 0| 
-| 20210517T11:57:55Z | Partial string matching using edit distances | https://github.com/benkasminbullock/Text-Fuzzy | 5 | 2| 
-| 20210517T11:56:04Z | variant spellings of foreign words in Japanese | https://github.com/benkasminbullock/Lingua-JA-Gairaigo-Fuzzy | 0 | 0| 
-| 20210517T11:53:47Z | An automatic fuzzing tool for ROS 2 C++ projects | https://github.com/JnxF/automatic_fuzzing | 1 | 0| 
-| 20210517T10:59:39Z | Null | https://github.com/gjm-anban/fuzzgit | 0 | 1| 
-| 20210517T10:32:35Z | A fork and successor of the Sulley Fuzzing Framework | https://github.com/jtpereyda/boofuzz | 1223 | 243| 
+| 20210517T23:43:07Z | Null | https://github.com/brerickner/fuzzy_playground | 0 | 0| 
+| 20210517T23:23:26Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 31527 | 16187| 
+| 20210517T22:28:29Z | Null | https://github.com/YoshiyukiFUJIMOTO/fuzzy-spoon | 0 | 0| 
+| 20210517T22:10:38Z | Verilog Fuzzer to test the major simulators and sythesisers by generating random, valid Verilog. | https://github.com/ymherklotz/verismith | 60 | 3| 
+| 20210517T21:34:00Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6290 | 1272| 
+| 20210517T21:04:01Z | Null | https://github.com/eavarlamova/fuzzy-transport-problem | 0 | 0| 
+| 20210517T20:42:59Z | CS 4152 Project | https://github.com/nicbarone/Fuzzy-Kiwi | 0 | 0| 
+| 20210517T20:31:36Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1741 | 341| 
+| 20210517T20:10:03Z | fuzz Tor, OpenSSL and probably more using AFL++ | https://github.com/toralf/fuzz-utils | 0 | 0| 
+| 20210517T20:03:41Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3509 | 815| 
 
 
 
