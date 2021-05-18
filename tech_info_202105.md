@@ -51,7 +51,7 @@
 | 20210518T12:06:08Z | CVE-2021-21551 | Exploit to SYSTEM for CVE-2021-21551 | https://github.com/waldo-irc/CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
 | 20210518T09:47:47Z | CVE-2021-27651 | RCE for Pega Infinity >= 8.2.1, Pega Infinity <= 8.5.2 | https://github.com/samwcyo/CVE-2021-27651-PoC | In versions 8.2.1 through 8.5.2 of Pega Infinity, the password reset functionality for local accounts can be used to bypass local authentication checks.| 
 | 20210518T09:22:12Z | CVE-2021-27342 | Exploit for CVE-2021-27342 vulnerability (telnet authentication brute-force protection bypass) | https://github.com/guywhataguy/D-Link-CVE-2021-27342-exploit | An authentication brute-force protection mechanism bypass in telnetd in D-Link Router model DIR-842 firmware version 3.0.2 allows a remote attacker to circumvent the anti-brute-force cool-down delay period via a timing-based side-channel attack| 
-| 20210518T07:57:23Z | CVE-2020-1020 | Null | https://github.com/mavillon1/CVE-2020-1020-Exploit | A remote code execution vulnerability exists in Microsoft Windows when the Windows Adobe Type Manager Library improperly handles a specially-crafted multi-master font - Adobe Type 1 PostScript format.For all systems except Windows 10, an attacker who successfully exploited the vulnerability could execute code remotely, aka %Adobe Font Manager Library Remote Code Execution Vulnerability%. This CVE ID is unique from CVE-2020-0938.| 
+| 20210518T07:57:23Z | CVE-2020-1020 | Null | https://github.com/mavillon1/CVE-2020-1020-Exploit | | 
 | 20210518T02:55:01Z | CVE-2021-31166 | PoC for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely. Although it was defined as remote command execution, it can only cause the system to crash. | https://github.com/An0ny-m0us/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
 | 20210517T21:17:22Z | CVE-2021-22204 | Python exploit for the CVE-2021-22204 vulnerability in Exiftool | https://github.com/convisoappsec/CVE-2021-22204-exiftool | Improper neutralization of user data in the DjVu file format in ExifTool versions 7.44 and up allows arbitrary code execution when parsing the malicious image| 
 | 20210517T17:23:18Z | CVE-2021-28480 | PoC for exploiting RCE in Exchange CVEs: CVE-2021-28480, CVE-2021-28481, CVE-2021-28482 and CVE-2021-28483.  Achieves Domain Admin on Exchange Servers running Windows Server 2003 up to Windows Server 2019. | https://github.com/ZephrFish/ExchangeRCE-CVE-2021-28480 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-28481, CVE-2021-28482, CVE-2021-28483.| 
@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210518T12:51:17Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 16 | 11| 
 | 20210518T12:37:56Z | nixpkgs aiming for exploiting tools, which may include non-official package or difficult to push to mainstream. | https://github.com/applePrincess/hackpkgs | 1 | 0| 
 | 20210518T12:35:16Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9444 | 1526| 
 | 20210518T12:31:18Z | X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter | https://github.com/Moham3dRiahi/XAttacker | 936 | 415| 
@@ -94,7 +95,6 @@
 | 20210518T12:02:42Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 10| 
 | 20210518T11:49:55Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7877 | 1392| 
 | 20210518T11:41:00Z | Null | https://github.com/Noizeeee/Exploits | 0 | 0| 
-| 20210518T11:40:35Z | A search engine on information delivered by OSINT sources to support Vulnerability Assessment | https://github.com/antonioforte1995/VISE | 4 | 0| 
 
 
 # backdoor on Github 推荐
