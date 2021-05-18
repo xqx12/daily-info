@@ -6,6 +6,15 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210518 | Roku 机顶盒 RokuOS v9.4.0 build 4200 版本越狱 Exploit | https://github.com/llamasoft/RootMyRoku| 
+| 20210518 | 恶意软件开发者滥用 PE 文件格式特性实现 GetProcAddress 欺骗 | https://dennisbabkin.com/blog/?t=malware-researchers-beware-of-getprocaddress-spoofing| 
+| 20210518 | iOS 14.5 如何用 PAC 保护 Objective-C 对象 | https://mp.weixin.qq.com/s/VsqnWo6HGQT5LXdulpcaGg| 
+| 20210518 | 如何从 Windows 截屏保存的图片中检测泄露的密码，CTF Writeup | https://lkmidas.github.io/posts/20210517-omhctf2021-writeups/| 
+| 20210518 | DNS 安全进化 - DNS 协议中的信任问题 | https://ripe82.ripe.net/wp-content/uploads/presentations/18-huston-dns-evolution.pdf| 
+| 20210518 | ESET 团队对 Android 平台的监视 App 进行研究，在 58 款监视 App 中总计发现了 150 多个漏洞，这些漏洞进一步会对用户造成危害。 | https://www.welivesecurity.com/2021/05/17/android-stalkerware-threatens-victims-further-exposes-snoopers-themselves/| 
+| 20210518 | 研究员 Dmytro Oleksiuk 开源了一个工具库，帮助在开启 Hyper-V HVCI 硬件保护特性的机器上辅助编写 Payload 的工具 | https://github.com/Cr4sh/KernelForge/| 
+| 20210518 | 利用 cgroups 的机制实现 Docker 容器逃逸 | https://0xdf.gitlab.io/2021/05/17/digging-into-cgroups.html| 
+| 20210518 | RedWarden - Flexible CobaltStrike Malleable Redirector | https://github.com/mgeeky/RedWarden| 
 | 20210517 | SANS 2020 会议 PPT《HANDLING ADVANCED THREATS》 | http://www.blackstormsecurity.com/docs/Handling_Advanced_Threats_SANS_2020.pdf| 
 | 20210517 | Hyntrospect - Project Zero 开源的面向 Hyper-V 模拟设备的 Fuzzer | https://github.com/googleprojectzero/Hyntrospect| 
 | 20210517 | Awesome Google VRP Writeups | https://github.com/xdavidhu/awesome-google-vrp-writeups| 
@@ -17,15 +26,6 @@
 | 20210517 | 研究员 Axel Souchet 为上周 Windows 修复的一个 HTTP 协议栈高危漏洞写的 PoC（CVE-2021-31166） | https://github.com/0vercl0k/CVE-2021-31166| 
 | 20210517 | 从微软手环以及 Hello Sense 设备中提取自己的历史数据 | https://sec.today/pulses/265fb0cf-5c50-4cb3-8959-c65464367ac6/| 
 | 20210517 | 从微软手环以及 Hello Sense 设备中提取自己的历史数据 | http://jeffhuang.com/extracting_data_from_tracking_devices/| 
-| 20210517 | 所有Wi-Fi 设备都存在FragAttacks漏洞的安全威胁。 | https://thehackernews.com/2021/05/nearly-all-wifi-devices-are-vulnerable.html| 
-| 20210517 | 最好的渗透测试资源集合。 | https://github.com/ByteHackr/HackingTools-2| 
-| 20210517 | 十大Linux服务器最佳安全漏洞扫描工具。 | https://cybersecuritynews.com/scan-linux-servers/| 
-| 20210517 | [ENG]使用多种语言创建PoC项目代码。 | https://blog.sunggwanchoi.com/creating-a-loader-poc-using-various-languages/| 
-| 20210516 | 渗透测试 ISP 101 ,如何渗透测试与修复ISP的建议。 | https://infosecwriteups.com/pentesting-isp-101-how-i-hacked-fixed-my-isp-643e9201f7e9?gi=a417d0f6cafe| 
-| 20210516 | 在Windows10 的QEMU环境中使用GDB调试16位实模式方法。 | https://astralvx.com/debugging-16-bit-in-qemu-with-gdb-on-windows/?utm_source=rss&utm_medium=rss&utm_campaign=debugging-16-bit-in-qemu-with-gdb-on-windows| 
-| 20210514 | Linux 内核 CAN 网络子系统 ISOTP CAN 协议本地提权漏洞分析 | https://github.com/nrb547/kernel-exploitation/blob/main/cve-2021-32606/cve-2021-32606.md| 
-| 20210514 | 利用 Custom Protocol Handlers 实现跨浏览器的用户指纹跟踪 | https://fingerprintjs.com/blog/external-protocol-flooding/| 
-| 20210514 | How we bypassed bytenode and decompiled Node.js bytecode in Ghidra | http://swarm.ptsecurity.com/how-we-bypassed-bytenode-and-decompiled-node-js-bytecode-in-ghidra/| 
 
 
 # 安全维基 推荐
@@ -46,36 +46,37 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210518T01:47:58Z | CVE-2021-31166 | Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely. | https://github.com/0vercl0k/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
-| 20210518T01:31:45Z | CVE-2021-21551 | Exploit to SYSTEM for CVE-2021-21551 | https://github.com/waldo-irc/CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
-| 20210518T01:19:38Z | CVE-2021-27342 | Exploit for CVE-2021-27342 vulnerability (telnet authentication brute-force protection bypass) | https://github.com/guywhataguy/D-Link-CVE-2021-27342-exploit | An authentication brute-force protection mechanism bypass in telnetd in D-Link Router model DIR-842 firmware version 3.0.2 allows a remote attacker to circumvent the anti-brute-force cool-down delay period via a timing-based side-channel attack| 
-| 20210518T00:24:07Z | CVE-2021-27651 | RCE for Pega Infinity >= 8.2.1, Pega Infinity <= 8.5.2 | https://github.com/samwcyo/CVE-2021-27651-PoC | In versions 8.2.1 through 8.5.2 of Pega Infinity, the password reset functionality for local accounts can be used to bypass local authentication checks.| 
+| 20210518T11:59:32Z | CVE-2021-31166 | Different rules to detect if CVE-2021-31166 is being exploited | https://github.com/Frankmock/CVE-2021-31166-detection-rules | HTTP Protocol Stack Remote Code Execution Vulnerability| 
+| 20210518T11:52:34Z | CVE-2021-31166 | Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely. | https://github.com/0vercl0k/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
+| 20210518T11:44:39Z | CVE-2021-21551 | Exploit to SYSTEM for CVE-2021-21551 | https://github.com/waldo-irc/CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
+| 20210518T09:47:47Z | CVE-2021-27651 | RCE for Pega Infinity >= 8.2.1, Pega Infinity <= 8.5.2 | https://github.com/samwcyo/CVE-2021-27651-PoC | | 
+| 20210518T09:22:12Z | CVE-2021-27342 | Exploit for CVE-2021-27342 vulnerability (telnet authentication brute-force protection bypass) | https://github.com/guywhataguy/D-Link-CVE-2021-27342-exploit | An authentication brute-force protection mechanism bypass in telnetd in D-Link Router model DIR-842 firmware version 3.0.2 allows a remote attacker to circumvent the anti-brute-force cool-down delay period via a timing-based side-channel attack| 
+| 20210518T07:57:23Z | CVE-2020-1020 | Null | https://github.com/mavillon1/CVE-2020-1020-Exploit | A remote code execution vulnerability exists in Microsoft Windows when the Windows Adobe Type Manager Library improperly handles a specially-crafted multi-master font - Adobe Type 1 PostScript format.For all systems except Windows 10, an attacker who successfully exploited the vulnerability could execute code remotely, aka %Adobe Font Manager Library Remote Code Execution Vulnerability%. This CVE ID is unique from CVE-2020-0938.| 
+| 20210518T02:55:01Z | CVE-2021-31166 | PoC for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely. Although it was defined as remote command execution, it can only cause the system to crash. | https://github.com/An0ny-m0us/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
 | 20210517T21:17:22Z | CVE-2021-22204 | Python exploit for the CVE-2021-22204 vulnerability in Exiftool | https://github.com/convisoappsec/CVE-2021-22204-exiftool | Improper neutralization of user data in the DjVu file format in ExifTool versions 7.44 and up allows arbitrary code execution when parsing the malicious image| 
-| 20210517T20:06:46Z | CVE-2021-31166 | Different rules to detect if CVE-2021-31166 is being exploited | https://github.com/Frankmock/CVE-2021-31166-detection-rules | HTTP Protocol Stack Remote Code Execution Vulnerability| 
 | 20210517T17:23:18Z | CVE-2021-28480 | PoC for exploiting RCE in Exchange CVEs: CVE-2021-28480, CVE-2021-28481, CVE-2021-28482 and CVE-2021-28483.  Achieves Domain Admin on Exchange Servers running Windows Server 2003 up to Windows Server 2019. | https://github.com/ZephrFish/ExchangeRCE-CVE-2021-28480 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-28481, CVE-2021-28482, CVE-2021-28483.| 
 | 20210517T15:53:30Z | CVE-2020-28018 | Exploit for Exim4 4.93 CVE-2020-28018 | https://github.com/lmol/CVE-2020-28018 | Exim 4 before 4.94.2 allows Use After Free in smtp_reset in certain situations that may be common for builds with OpenSSL.| 
-| 20210517T14:49:26Z | CVE-2021-31166 | PoC for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely. Although it was defined as remote command execution, it can only cause the system to crash. | https://github.com/An0ny-m0us/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
-| 20210517T08:10:42Z | CVE-2020-0001 | POC to run system component in an untrusted-app process | https://github.com/Zachinio/CVE-2020-0001 | In getProcessRecordLocked of ActivityManagerService.java isolated apps are not handled correctly. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation. Product: Android Versions: Android-8.0, Android-8.1, Android-9, and Android-10 Android ID: A-140055304| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210518T11:20:11Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 136 | 13| 
+| 20210518T11:20:07Z | Null | https://github.com/BajacDev/rust-klee-docker | 1 | 0| 
+| 20210518T10:28:39Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 612 | 14| 
+| 20210518T08:37:08Z | 99484 A & C team Worlds Code for 2021 Live-Remote Skills | https://github.com/Jython1415/penguin-Klee | 1 | 0| 
+| 20210518T06:28:50Z | Null | https://github.com/fontworks-fonts/Klee | 448 | 13| 
 | 20210517T21:14:42Z | Null | https://github.com/KleeKai-DEV/Klee-token-list | 0 | 0| 
-| 20210517T21:14:19Z | Null | https://github.com/BajacDev/rust-klee-docker | 0 | 0| 
-| 20210517T16:12:55Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 605 | 14| 
 | 20210517T11:32:08Z | Klee Kai creative assets | https://github.com/KleeKai-DEV/Klee-Kai-Creative | 0 | 0| 
-| 20210517T08:29:21Z | 99484 A & C team Worlds Code for 2021 Live-Remote Skills | https://github.com/Jython1415/penguin-Klee | 1 | 0| 
 | 20210517T07:33:29Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
-| 20210517T05:13:54Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 135 | 13| 
 | 20210517T05:00:35Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1691 | 492| 
-| 20210516T17:55:23Z | Null | https://github.com/fontworks-fonts/Klee | 447 | 13| 
 | 20210516T03:54:56Z | Null | https://github.com/KLeelaSantosh/kleeelasanthosh | 0 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210518T05:02:41Z | Null | https://github.com/Hamzaawan1/s2exam | 0 | 0| 
 | 20210517T19:01:59Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 121 | 30| 
 | 20210514T02:29:03Z | cicd logic and gitlab&github runner&jenkins agent container, centos base ,whith jdk/python/go, maven/npm,/kubectl/helm | https://github.com/chimeh/cicd-s2e-runner | 1 | 0| 
 | 20210513T16:34:23Z | Null | https://github.com/yuvalkirstain/s2e-coref | 4 | 2| 
@@ -84,16 +85,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210518T01:47:31Z | A list of potentially exploitable vulnerabilities in the Moat TTT Source Code | https://github.com/Auriium/moat-shitcode-list | 0 | 0| 
-| 20210518T01:46:13Z | A library to develop kernel level Windows payloads for post HVCI era | https://github.com/Cr4sh/KernelForge | 12 | 3| 
-| 20210518T01:41:45Z | Root repository for CS 6265: Information Security Lab - Reverse Engineering and Binary Exploitation | https://github.com/one2blame/cs6265 | 1 | 2| 
-| 20210518T01:40:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9442 | 1526| 
-| 20210518T01:02:41Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 10| 
-| 20210518T00:51:13Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 16 | 11| 
-| 20210518T00:32:07Z | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | 2055 | 368| 
-| 20210517T23:52:18Z | Various ASM, C and C++ tools, shellcodes and exploit experiments. | https://github.com/forrest-orr/ExploitDev | 17 | 2| 
-| 20210517T23:46:20Z | Exploit CVE-2017-7494 for Net Security course final Assignment. This would reveal the vulnerability of services that run in administrative priority on Linux. | https://github.com/I-Rinka/BIT-EternalBlue-for-macOS_Linux | 1 | 1| 
-| 20210517T21:52:45Z | exploit-exercices (old school bugs) | https://github.com/ozswar94/Protostar | 0 | 0| 
+| 20210518T11:59:32Z | Different rules to detect if CVE-2021-31166 is being exploited | https://github.com/Frankmock/CVE-2021-31166-detection-rules | 1 | 0| 
+| 20210518T11:58:18Z | A multiple reverse shell sessions/clients manager via terminal written in go | https://github.com/krishpranav/exploit-framework | 3 | 4| 
+| 20210518T11:49:55Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7877 | 1392| 
+| 20210518T11:41:00Z | Null | https://github.com/Noizeeee/Exploits | 0 | 0| 
+| 20210518T11:40:35Z | A search engine on information delivered by OSINT sources to support Vulnerability Assessment | https://github.com/antonioforte1995/VISE | 4 | 0| 
+| 20210518T11:10:12Z | LUA scripts used for roblox exploiting | https://github.com/Undecoder/RBX-Exploiting-Scripts | 0 | 0| 
+| 20210518T11:02:42Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 10| 
+| 20210518T10:25:56Z | DeepCOMBI is a NN algorithm that exploits SNP relationships in GWAS datasets. | https://github.com/pollicipes/DeepCOMBI | 0 | 0| 
+| 20210518T10:19:37Z | Null | https://github.com/vimanari/exploit-development | 0 | 0| 
+| 20210518T10:01:45Z | A collection of more than 140+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 671 | 161| 
 
 
 # backdoor on Github 推荐
