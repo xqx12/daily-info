@@ -46,9 +46,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210518T01:39:37Z | CVE-2021-31166 | Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely. | https://github.com/0vercl0k/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
 | 20210518T01:31:45Z | CVE-2021-21551 | Exploit to SYSTEM for CVE-2021-21551 | https://github.com/waldo-irc/CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
 | 20210518T01:19:38Z | CVE-2021-27342 | Exploit for CVE-2021-27342 vulnerability (telnet authentication brute-force protection bypass) | https://github.com/guywhataguy/D-Link-CVE-2021-27342-exploit | An authentication brute-force protection mechanism bypass in telnetd in D-Link Router model DIR-842 firmware version 3.0.2 allows a remote attacker to circumvent the anti-brute-force cool-down delay period via a timing-based side-channel attack| 
-| 20210518T01:13:20Z | CVE-2021-31166 | Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely. | https://github.com/0vercl0k/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
 | 20210518T00:24:07Z | CVE-2021-27651 | RCE for Pega Infinity >= 8.2.1, Pega Infinity <= 8.5.2 | https://github.com/samwcyo/CVE-2021-27651-PoC | In versions 8.2.1 through 8.5.2 of Pega Infinity, the password reset functionality for local accounts can be used to bypass local authentication checks.| 
 | 20210517T21:17:22Z | CVE-2021-22204 | Python exploit for the CVE-2021-22204 vulnerability in Exiftool | https://github.com/convisoappsec/CVE-2021-22204-exiftool | Improper neutralization of user data in the DjVu file format in ExifTool versions 7.44 and up allows arbitrary code execution when parsing the malicious image| 
 | 20210517T20:06:46Z | CVE-2021-31166 | Different rules to detect if CVE-2021-31166 is being exploited | https://github.com/Frankmock/CVE-2021-31166-detection-rules | HTTP Protocol Stack Remote Code Execution Vulnerability| 
@@ -84,6 +84,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210518T01:41:45Z | Root repository for CS 6265: Information Security Lab - Reverse Engineering and Binary Exploitation | https://github.com/one2blame/cs6265 | 1 | 2| 
+| 20210518T01:40:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9442 | 1526| 
 | 20210518T01:38:48Z | A list of potentially exploitable vulnerabilities in the Moat TTT Source Code | https://github.com/Auriium/moat-shitcode-list | 0 | 0| 
 | 20210518T01:23:25Z | A library to develop kernel level Windows payloads for post HVCI era | https://github.com/Cr4sh/KernelForge | 11 | 3| 
 | 20210518T01:02:41Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 10| 
@@ -91,9 +93,7 @@
 | 20210518T00:32:07Z | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | 2055 | 368| 
 | 20210517T23:52:18Z | Various ASM, C and C++ tools, shellcodes and exploit experiments. | https://github.com/forrest-orr/ExploitDev | 17 | 1| 
 | 20210517T23:46:20Z | Exploit CVE-2017-7494 for Net Security course final Assignment. This would reveal the vulnerability of services that run in administrative priority on Linux. | https://github.com/I-Rinka/BIT-EternalBlue-for-macOS_Linux | 1 | 1| 
-| 20210517T22:01:34Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9441 | 1526| 
 | 20210517T21:52:45Z | exploit-exercices (old school bugs) | https://github.com/ozswar94/Protostar | 0 | 0| 
-| 20210517T20:47:20Z | Null | https://github.com/0xturazzi/Um-Livrinho-Sobre-Exploit-Dev | 0 | 0| 
 
 
 # backdoor on Github 推荐

@@ -64,7 +64,6 @@
 | --- | --- | --- | --- | ---| 
 | 20210517T23:52:18Z | Various ASM, C and C++ tools, shellcodes and exploit experiments. | https://github.com/forrest-orr/ExploitDev | 17 | 1| 
 | 20210517T23:46:20Z | Exploit CVE-2017-7494 for Net Security course final Assignment. This would reveal the vulnerability of services that run in administrative priority on Linux. | https://github.com/I-Rinka/BIT-EternalBlue-for-macOS_Linux | 1 | 1| 
-| 20210517T22:01:34Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9441 | 1526| 
 | 20210517T21:52:45Z | exploit-exercices (old school bugs) | https://github.com/ozswar94/Protostar | 0 | 0| 
 | 20210517T20:47:20Z | Null | https://github.com/0xturazzi/Um-Livrinho-Sobre-Exploit-Dev | 0 | 0| 
 | 20210517T20:35:14Z | A search engine on information delivered by OSINT sources to support Vulnerability Assessment | https://github.com/antonioforte1995/VISE | 4 | 0| 
@@ -72,6 +71,7 @@
 | 20210517T20:06:46Z | Different rules to detect if CVE-2021-31166 is being exploited | https://github.com/Frankmock/CVE-2021-31166-detection-rules | 0 | 0| 
 | 20210517T19:46:26Z | Microbiome Analysis Powered By Recursive Quasi-species Networks: Uncovering rules of organization, competition, succession and exploitation | https://github.com/zeroknowledgediscovery/qbiome | 0 | 0| 
 | 20210517T19:38:15Z | Writeup for exploit.education/nebula | https://github.com/vi11ain/nebula-writeup | 0 | 0| 
+| 20210517T19:13:19Z | All about pwning, reversing, and the road to exploit development | https://github.com/NimishMishra/exploit-dev | 0 | 0| 
 
 
 # backdoor on Github 推荐
