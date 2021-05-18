@@ -32,15 +32,14 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210517T23:58:00Z | CVE-2021-31166 | Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely. | https://github.com/0vercl0k/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
 | 20210517T23:53:13Z | CVE-2021-27651 | RCE for Pega Infinity >= 8.2.1, Pega Infinity <= 8.5.2 | https://github.com/samwcyo/CVE-2021-27651-PoC | In versions 8.2.1 through 8.5.2 of Pega Infinity, the password reset functionality for local accounts can be used to bypass local authentication checks.| 
 | 20210517T23:44:16Z | CVE-2021-21551 | Exploit to SYSTEM for CVE-2021-21551 | https://github.com/waldo-irc/CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
 | 20210517T21:17:22Z | CVE-2021-22204 | Python exploit for the CVE-2021-22204 vulnerability in Exiftool | https://github.com/convisoappsec/CVE-2021-22204-exiftool | Improper neutralization of user data in the DjVu file format in ExifTool versions 7.44 and up allows arbitrary code execution when parsing the malicious image| 
 | 20210517T20:07:50Z | CVE-2021-27342 | Exploit for CVE-2021-27342 vulnerability (telnet authentication brute-force protection bypass) | https://github.com/guywhataguy/D-Link-CVE-2021-27342-exploit | An authentication brute-force protection mechanism bypass in telnetd in D-Link Router model DIR-842 firmware version 3.0.2 allows a remote attacker to circumvent the anti-brute-force cool-down delay period via a timing-based side-channel attack| 
 | 20210517T20:06:46Z | CVE-2021-31166 | Different rules to detect if CVE-2021-31166 is being exploited | https://github.com/Frankmock/CVE-2021-31166-detection-rules | HTTP Protocol Stack Remote Code Execution Vulnerability| 
-| 20210517T17:23:18Z | CVE-2021-28480 | PoC for exploiting RCE in Exchange CVEs: CVE-2021-28480, CVE-2021-28481, CVE-2021-28482 and CVE-2021-28483.  Achieves Domain Admin on Exchange Servers running Windows Server 2003 up to Windows Server 2019. | https://github.com/ZephrFish/ExchangeRCE-CVE-2021-28480 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-28481, CVE-2021-28482, CVE-2021-28483.| 
+| 20210517T17:23:18Z | CVE-2021-28480 | PoC for exploiting RCE in Exchange CVEs: CVE-2021-28480, CVE-2021-28481, CVE-2021-28482 and CVE-2021-28483.  Achieves Domain Admin on Exchange Servers running Windows Server 2003 up to Windows Server 2019. | https://github.com/ZephrFish/ExchangeRCE-CVE-2021-28480 | | 
 | 20210517T15:53:30Z | CVE-2020-28018 | Exploit for Exim4 4.93 CVE-2020-28018 | https://github.com/lmol/CVE-2020-28018 | Exim 4 before 4.94.2 allows Use After Free in smtp_reset in certain situations that may be common for builds with OpenSSL.| 
-| 20210517T14:49:26Z | CVE-2021-31166 | PoC for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely. Although it was defined as remote command execution, it can only cause the system to crash. | https://github.com/An0ny-m0us/CVE-2021-31166 | | 
+| 20210517T14:49:26Z | CVE-2021-31166 | PoC for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely. Although it was defined as remote command execution, it can only cause the system to crash. | https://github.com/An0ny-m0us/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
 | 20210517T08:10:42Z | CVE-2020-0001 | POC to run system component in an untrusted-app process | https://github.com/Zachinio/CVE-2020-0001 | In getProcessRecordLocked of ActivityManagerService.java isolated apps are not handled correctly. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation. Product: Android Versions: Android-8.0, Android-8.1, Android-9, and Android-10 Android ID: A-140055304| 
 
 
@@ -69,13 +68,13 @@
 | 20210517T23:55:35Z | Bringing kernel level Windows payloads to post HVCI era | https://github.com/Cr4sh/KernelForge | 10 | 3| 
 | 20210517T23:52:18Z | Various ASM, C and C++ tools, shellcodes and exploit experiments. | https://github.com/forrest-orr/ExploitDev | 17 | 1| 
 | 20210517T23:46:20Z | Exploit CVE-2017-7494 for Net Security course final Assignment. This would reveal the vulnerability of services that run in administrative priority on Linux. | https://github.com/I-Rinka/BIT-EternalBlue-for-macOS_Linux | 1 | 1| 
-| 20210517T23:01:23Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 10| 
 | 20210517T22:01:34Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9441 | 1526| 
 | 20210517T21:52:45Z | exploit-exercices (old school bugs) | https://github.com/ozswar94/Protostar | 0 | 0| 
 | 20210517T20:47:20Z | Null | https://github.com/0xturazzi/Um-Livrinho-Sobre-Exploit-Dev | 0 | 0| 
 | 20210517T20:35:14Z | A search engine on information delivered by OSINT sources to support Vulnerability Assessment | https://github.com/antonioforte1995/VISE | 4 | 0| 
 | 20210517T20:10:57Z | Null | https://github.com/ColdFusionX/ColdFusionX.github.io | 2 | 1| 
 | 20210517T20:06:46Z | Different rules to detect if CVE-2021-31166 is being exploited | https://github.com/Frankmock/CVE-2021-31166-detection-rules | 0 | 0| 
+| 20210517T19:46:26Z | Microbiome Analysis Powered By Recursive Quasi-species Networks: Uncovering rules of organization, competition, succession and exploitation | https://github.com/zeroknowledgediscovery/qbiome | 0 | 0| 
 
 
 # backdoor on Github 推荐
