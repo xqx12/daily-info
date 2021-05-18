@@ -55,7 +55,7 @@
 | 20210517T17:23:18Z | CVE-2021-28480 | PoC for exploiting RCE in Exchange CVEs: CVE-2021-28480, CVE-2021-28481, CVE-2021-28482 and CVE-2021-28483.  Achieves Domain Admin on Exchange Servers running Windows Server 2003 up to Windows Server 2019. | https://github.com/ZephrFish/ExchangeRCE-CVE-2021-28480 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-28481, CVE-2021-28482, CVE-2021-28483.| 
 | 20210517T15:53:30Z | CVE-2020-28018 | Exploit for Exim4 4.93 CVE-2020-28018 | https://github.com/lmol/CVE-2020-28018 | Exim 4 before 4.94.2 allows Use After Free in smtp_reset in certain situations that may be common for builds with OpenSSL.| 
 | 20210517T14:49:26Z | CVE-2021-31166 | PoC for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely. Although it was defined as remote command execution, it can only cause the system to crash. | https://github.com/An0ny-m0us/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
-| 20210517T08:10:42Z | CVE-2020-0001 | POC to run system component in an untrusted-app process | https://github.com/Zachinio/CVE-2020-0001 | In getProcessRecordLocked of ActivityManagerService.java isolated apps are not handled correctly. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation. Product: Android Versions: Android-8.0, Android-8.1, Android-9, and Android-10 Android ID: A-140055304| 
+| 20210517T08:10:42Z | CVE-2020-0001 | POC to run system component in an untrusted-app process | https://github.com/Zachinio/CVE-2020-0001 | | 
 
 
 # klee on Github 推荐
@@ -114,6 +114,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210518T01:34:48Z | A fuzzing platform of Zigbee protocol implementations | https://github.com/zigbeeprotocol/Z-Fuzzer | 0 | 0| 
 | 20210518T00:47:37Z | VMI Kernel Fuzzer for Xen Project - VM forking, VMI & AFL integration demo | https://github.com/intel/kernel-fuzzer-for-xen-project | 315 | 45| 
 | 20210518T00:33:56Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
 | 20210518T00:11:08Z | Null | https://github.com/JlKmn/NHapi-Fuzz-Environment | 0 | 0| 
@@ -123,7 +124,6 @@
 | 20210517T22:28:29Z | Null | https://github.com/YoshiyukiFUJIMOTO/fuzzy-spoon | 0 | 0| 
 | 20210517T22:10:38Z | Verilog Fuzzer to test the major simulators and sythesisers by generating random, valid Verilog. | https://github.com/ymherklotz/verismith | 60 | 3| 
 | 20210517T21:04:01Z | Null | https://github.com/eavarlamova/fuzzy-transport-problem | 0 | 0| 
-| 20210517T20:42:59Z | CS 4152 Project | https://github.com/nicbarone/Fuzzy-Kiwi | 0 | 0| 
 
 
 
