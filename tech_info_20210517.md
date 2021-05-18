@@ -32,7 +32,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210517T23:53:13Z | CVE-2021-27651 | RCE for Pega Infinity >= 8.2.1, Pega Infinity <= 8.5.2 | https://github.com/samwcyo/CVE-2021-27651-PoC | | 
+| 20210517T23:53:13Z | CVE-2021-27651 | RCE for Pega Infinity >= 8.2.1, Pega Infinity <= 8.5.2 | https://github.com/samwcyo/CVE-2021-27651-PoC | In versions 8.2.1 through 8.5.2 of Pega Infinity, the password reset functionality for local accounts can be used to bypass local authentication checks.| 
 | 20210517T23:44:16Z | CVE-2021-21551 | Exploit to SYSTEM for CVE-2021-21551 | https://github.com/waldo-irc/CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
 | 20210517T21:17:22Z | CVE-2021-22204 | Python exploit for the CVE-2021-22204 vulnerability in Exiftool | https://github.com/convisoappsec/CVE-2021-22204-exiftool | Improper neutralization of user data in the DjVu file format in ExifTool versions 7.44 and up allows arbitrary code execution when parsing the malicious image| 
 | 20210517T20:07:50Z | CVE-2021-27342 | Exploit for CVE-2021-27342 vulnerability (telnet authentication brute-force protection bypass) | https://github.com/guywhataguy/D-Link-CVE-2021-27342-exploit | An authentication brute-force protection mechanism bypass in telnetd in D-Link Router model DIR-842 firmware version 3.0.2 allows a remote attacker to circumvent the anti-brute-force cool-down delay period via a timing-based side-channel attack| 
@@ -99,12 +99,12 @@
 | 20210517T23:23:26Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 31527 | 16187| 
 | 20210517T22:28:29Z | Null | https://github.com/YoshiyukiFUJIMOTO/fuzzy-spoon | 0 | 0| 
 | 20210517T22:10:38Z | Verilog Fuzzer to test the major simulators and sythesisers by generating random, valid Verilog. | https://github.com/ymherklotz/verismith | 60 | 3| 
-| 20210517T21:34:00Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6290 | 1272| 
 | 20210517T21:04:01Z | Null | https://github.com/eavarlamova/fuzzy-transport-problem | 0 | 0| 
 | 20210517T20:42:59Z | CS 4152 Project | https://github.com/nicbarone/Fuzzy-Kiwi | 0 | 0| 
 | 20210517T20:31:36Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1741 | 341| 
 | 20210517T20:10:03Z | fuzz Tor, OpenSSL and probably more using AFL++ | https://github.com/toralf/fuzz-utils | 0 | 0| 
 | 20210517T20:03:41Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3509 | 815| 
+| 20210517T19:53:28Z | Null | https://github.com/rajatagstats/Country-Dataset-Analysis-Using-KMean-and-Fuzzy-CMean-clustering-method- | 0 | 0| 
 
 
 
