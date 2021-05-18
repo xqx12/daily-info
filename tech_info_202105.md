@@ -84,7 +84,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210518T00:46:26Z | Bringing kernel level Windows payloads to post HVCI era | https://github.com/Cr4sh/KernelForge | 10 | 3| 
+| 20210518T00:51:13Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 16 | 11| 
+| 20210518T00:49:36Z | Bringing kernel level Windows payloads to post HVCI era | https://github.com/Cr4sh/KernelForge | 10 | 3| 
 | 20210518T00:32:07Z | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | 2055 | 368| 
 | 20210518T00:03:05Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 10| 
 | 20210517T23:52:18Z | Various ASM, C and C++ tools, shellcodes and exploit experiments. | https://github.com/forrest-orr/ExploitDev | 17 | 1| 
@@ -93,7 +94,6 @@
 | 20210517T21:52:45Z | exploit-exercices (old school bugs) | https://github.com/ozswar94/Protostar | 0 | 0| 
 | 20210517T20:47:20Z | Null | https://github.com/0xturazzi/Um-Livrinho-Sobre-Exploit-Dev | 0 | 0| 
 | 20210517T20:35:14Z | A search engine on information delivered by OSINT sources to support Vulnerability Assessment | https://github.com/antonioforte1995/VISE | 4 | 0| 
-| 20210517T20:10:57Z | Null | https://github.com/ColdFusionX/ColdFusionX.github.io | 2 | 1| 
 
 
 # backdoor on Github 推荐
@@ -114,16 +114,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210518T00:47:37Z | VMI Kernel Fuzzer for Xen Project - VM forking, VMI & AFL integration demo | https://github.com/intel/kernel-fuzzer-for-xen-project | 315 | 45| 
+| 20210518T00:33:56Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
+| 20210518T00:11:08Z | Null | https://github.com/JlKmn/NHapi-Fuzz-Environment | 0 | 0| 
 | 20210518T00:05:41Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6291 | 1272| 
-| 20210518T00:05:01Z | Null | https://github.com/JlKmn/NHapi-Fuzz-Environment | 0 | 0| 
 | 20210517T23:43:07Z | Null | https://github.com/brerickner/fuzzy_playground | 0 | 0| 
 | 20210517T23:23:26Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 31527 | 16187| 
 | 20210517T22:28:29Z | Null | https://github.com/YoshiyukiFUJIMOTO/fuzzy-spoon | 0 | 0| 
 | 20210517T22:10:38Z | Verilog Fuzzer to test the major simulators and sythesisers by generating random, valid Verilog. | https://github.com/ymherklotz/verismith | 60 | 3| 
 | 20210517T21:04:01Z | Null | https://github.com/eavarlamova/fuzzy-transport-problem | 0 | 0| 
 | 20210517T20:42:59Z | CS 4152 Project | https://github.com/nicbarone/Fuzzy-Kiwi | 0 | 0| 
-| 20210517T20:31:36Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1741 | 341| 
-| 20210517T20:10:03Z | fuzz Tor, OpenSSL and probably more using AFL++ | https://github.com/toralf/fuzz-utils | 0 | 0| 
 
 
 
