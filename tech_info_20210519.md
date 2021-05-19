@@ -61,6 +61,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210519T12:40:16Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9450 | 1526| 
 | 20210519T12:38:12Z | Null | https://github.com/foysalcodeio/Bolt-CMS-Version-3.7.1-RCE-Exploit | 0 | 0| 
 | 20210519T12:02:09Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 23 | 11| 
 | 20210519T12:00:57Z | exploit-exercices (old school bugs) | https://github.com/ozswar94/Protostar | 0 | 0| 
@@ -70,7 +71,6 @@
 | 20210519T11:31:10Z | Microbiome Analysis Powered By Recursive Quasi-species Networks: Uncovering rules of organization, competition, succession and exploitation | https://github.com/zeroknowledgediscovery/qbiome | 0 | 0| 
 | 20210519T11:21:11Z | Repo for testing some exploits | https://github.com/RobertFent/exploits | 0 | 0| 
 | 20210519T11:13:24Z | Simple antis against recent exploits in VRChat including people triggering udon events starting with (_) in older maps and people spawning positive.infinity quaternion prefabs and making the floor go poof. | https://github.com/abbeybabbey/SimpleAntis | 0 | 0| 
-| 20210519T10:51:25Z | Null | https://github.com/Psychorot/MaouExploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
