@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210519T12:02:09Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 23 | 11| 
 | 20210519T12:00:57Z | exploit-exercices (old school bugs) | https://github.com/ozswar94/Protostar | 0 | 0| 
 | 20210519T11:51:06Z | IoT 固件漏洞复现环境 | https://github.com/firmianay/IoT-vulhub | 382 | 36| 
 | 20210519T11:48:04Z | roblox exploit op Xteir | https://github.com/KnightNight743/XtierSploit-X | 0 | 0| 
@@ -92,7 +93,6 @@
 | 20210519T11:31:10Z | Microbiome Analysis Powered By Recursive Quasi-species Networks: Uncovering rules of organization, competition, succession and exploitation | https://github.com/zeroknowledgediscovery/qbiome | 0 | 0| 
 | 20210519T11:21:11Z | Repo for testing some exploits | https://github.com/RobertFent/exploits | 0 | 0| 
 | 20210519T11:13:24Z | Simple antis against recent exploits in VRChat including people triggering udon events starting with (_) in older maps and people spawning positive.infinity quaternion prefabs and making the floor go poof. | https://github.com/abbeybabbey/SimpleAntis | 0 | 0| 
-| 20210519T11:02:47Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 23 | 11| 
 | 20210519T10:51:25Z | Null | https://github.com/Psychorot/MaouExploit | 0 | 0| 
 | 20210519T09:46:47Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 75 | 13| 
 
@@ -115,7 +115,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210519T12:01:48Z | This is React Native | https://github.com/rookasrudzianskas/Fuzzy-signal | 1 | 0| 
+| 20210519T12:02:15Z | This is React Native | https://github.com/rookasrudzianskas/Fuzzy-signal | 1 | 0| 
 | 20210519T12:00:05Z | The forum application with automatic fuzzy generator of new topics | https://github.com/Luvkitri/fuzzy-forum-backend | 0 | 0| 
 | 20210519T11:58:24Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 401 | 34| 
 | 20210519T11:53:55Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6301 | 1273| 
