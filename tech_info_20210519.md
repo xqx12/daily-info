@@ -75,17 +75,28 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210519T08:19:41Z | Examples of how to use backdoors in appium using espresso driver | https://github.com/rajdeepv/appium_backdoors | 2 | 2| 
+| 20210519T07:03:41Z | unlock the advanced menu of Lenovo Yoga Slim 7 BIOS | https://github.com/esno/yoga-bios-unlock | 26 | 2| 
+| 20210519T06:30:31Z | A simple remote tool written in C#.    一个简单的c#远控 | https://github.com/qwqdanchun/DcRat | 99 | 42| 
+| 20210519T06:16:38Z | Actually run a given promise or mock its outcome based on a given input value | https://github.com/johanfive/backdoor | 0 | 0| 
+| 20210519T06:14:05Z | Null | https://github.com/Ding-Rui-hust/Research-on-backdoor-attack-in-Brain-Computer-interface | 0 | 0| 
+| 20210519T03:04:06Z | Null | https://github.com/yl7344/Backdoor-Detection-and-Adversarial-Retraining | 0 | 0| 
 | 20210519T01:58:34Z | Python 3 IRC Bot / Botnet | https://github.com/trackmastersteve/HackServ | 20 | 16| 
-| 20210519T01:39:52Z | Null | https://github.com/yl7344/Backdoor-Detection-and-Adversarial-Retraining | 0 | 0| 
-| 20210519T00:58:44Z | Actually run a given promise or mock its outcome based on a given input value | https://github.com/johanfive/backdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210519T01:14:31Z | Null | https://github.com/alliesrussell/fuzzy-octo-garbanzo | 0 | 0| 
-| 20210519T01:08:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6295 | 1272| 
-| 20210519T00:31:14Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 281 | 38| 
+| 20210519T12:01:48Z | This is React Native | https://github.com/rookasrudzianskas/Fuzzy-signal | 1 | 0| 
+| 20210519T12:00:05Z | The forum application with automatic fuzzy generator of new topics | https://github.com/Luvkitri/fuzzy-forum-backend | 0 | 0| 
+| 20210519T11:58:24Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 401 | 34| 
+| 20210519T11:53:55Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6301 | 1273| 
+| 20210519T11:36:41Z | Null | https://github.com/XOMAv2/NeuroFuzzySystemsLabs | 0 | 0| 
+| 20210519T11:25:46Z | Using Gaussian Density function for classification of PD | https://github.com/shreyab1111/Fuzzy-Fusion-Logic | 0 | 0| 
+| 20210519T10:14:19Z | 渗透测试路径字典，爆破字典。内容来自互联网和实战积累。 | https://github.com/cpkkcb/fuzzDicts | 69 | 40| 
+| 20210519T10:07:38Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
+| 20210519T09:36:08Z | Null | https://github.com/Arnouux/fuzzy | 0 | 0| 
+| 20210519T09:34:50Z | Null | https://github.com/vasantsingh/fuzzy-barnacle | 0 | 0| 
 
 
 
