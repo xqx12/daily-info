@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210519T01:48:32Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9448 | 1526| 
 | 20210519T01:23:15Z | 2019 exploit example | https://github.com/liangzhijun1314/2019_exploit | 0 | 0| 
 | 20210519T01:13:09Z | Gote Hub - Comunity Roblox Exploiting And Scripting @Copyright 2021 | https://github.com/Vilictus/Gote-Hub | 0 | 0| 
 | 20210519T01:06:38Z | A library to develop kernel level Windows payloads for post HVCI era | https://github.com/Cr4sh/KernelForge | 74 | 13| 
@@ -94,7 +95,6 @@
 | 20210518T23:40:51Z | Loads a driver from disk without signing required by using an exploited driver | https://github.com/AliHampton/DriverLoader | 0 | 0| 
 | 20210518T23:36:34Z | Null | https://github.com/Lxnden1/LunarExploits | 0 | 0| 
 | 20210518T23:35:55Z | An easy challenge for a stack-based buffer overflow! Preset shellcode will execute calc.exe upon exploitation. | https://github.com/Crystalware/BufferOverflow_EasyChallenge | 0 | 0| 
-| 20210518T23:11:48Z |  Learning vulnerability analysis, exploit development, software debugging, binary analysis, and general cyber security issues | https://github.com/rudenal/ctfs | 0 | 0| 
 
 
 # backdoor on Github 推荐
