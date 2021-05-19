@@ -33,10 +33,10 @@
 | --- | --- | --- | --- | ---| 
 | 20210518T21:50:32Z | CVE-2021-31703 | CVE-2021-31703 | https://github.com/l00neyhacker/CVE-2021-31703 | 未查询到CVE信息| 
 | 20210518T21:45:27Z | CVE-2021-31702 | CVE-2021-31702 | https://github.com/l00neyhacker/CVE-2021-31702 | 未查询到CVE信息| 
-| 20210518T20:24:30Z | CVE-2020-28018 | Exploit for Exim4 4.93 CVE-2020-28018 | https://github.com/lmol/CVE-2020-28018 | | 
-| 20210518T16:21:31Z | CVE-2020-23852 | PoC for exploiting CVE-2020-23852 | https://github.com/JamesGeee/CVE-2020-23852 | 未查询到CVE信息| 
-| 20210518T16:21:28Z | CVE-2020-23851 | PoC for exploiting CVE-2020-23851 | https://github.com/JamesGeee/CVE-2020-23851 | A stack-based buffer overflow vulnerability exists in ffjpeg through 2020-07-02 in the jfif_decode(void *ctxt, BMP *pb) function at ffjpeg/src/jfif.c:513:28, which could cause a denial of service by submitting a malicious jpeg image.| 
-| 20210518T16:21:26Z | CVE-2021-29603 | PoC for exploiting CVE-2021-29603 | https://github.com/JamesGeee/CVE-2021-29603 | TensorFlow is an end-to-end open source platform for machine learning. A specially crafted TFLite model could trigger an OOB write on heap in the TFLite implementation of `ArgMin`/`ArgMax`(https://github.com/tensorflow/tensorflow/blob/102b211d892f3abc14f845a72047809b39cc65ab/tensorflow/lite/kernels/arg_min_max.cc#L52-L59). If `axis_value` is not a value between 0 and `NumDimensions(input)`, then the condition in the `if` is never true, so code writes past the last valid element of `output_dims->data`. The fix will be included in TensorFlow 2.5.0. We will also cherrypick this commit on TensorFlow 2.4.2, TensorFlow 2.3.3, TensorFlow 2.2.3 and TensorFlow 2.1.4, as these are also affected and still in supported range.| 
+| 20210518T20:24:30Z | CVE-2020-28018 | Exploit for Exim4 4.93 CVE-2020-28018 | https://github.com/lmol/CVE-2020-28018 | 未查询到CVE信息| 
+| 20210518T16:21:31Z | CVE-2020-23852 | PoC for exploiting CVE-2020-23852 | https://github.com/JamesGeee/CVE-2020-23852 | | 
+| 20210518T16:21:28Z | CVE-2020-23851 | PoC for exploiting CVE-2020-23851 | https://github.com/JamesGeee/CVE-2020-23851 | 未查询到CVE信息| 
+| 20210518T16:21:26Z | CVE-2021-29603 | PoC for exploiting CVE-2021-29603 | https://github.com/JamesGeee/CVE-2021-29603 | 未查询到CVE信息| 
 | 20210518T16:21:23Z | CVE-2021-29602 | PoC for exploiting CVE-2021-29602 | https://github.com/JamesGeee/CVE-2021-29602 | TensorFlow is an end-to-end open source platform for machine learning. The implementation of the `DepthwiseConv` TFLite operator is vulnerable to a division by zero error(https://github.com/tensorflow/tensorflow/blob/1a8e885b864c818198a5b2c0cbbeca5a1e833bc8/tensorflow/lite/kernels/depthwise_conv.cc#L287-L288). An attacker can craft a model such that `input`%s fourth dimension would be 0. The fix will be included in TensorFlow 2.5.0. We will also cherrypick this commit on TensorFlow 2.4.2, TensorFlow 2.3.3, TensorFlow 2.2.3 and TensorFlow 2.1.4, as these are also affected and still in supported range.| 
 | 20210518T16:20:58Z | CVE-2021-28465 | PoC for exploiting CVE-2021-28465 | https://github.com/JamesGeee/CVE-2021-28465 | Web Media Extensions Remote Code Execution Vulnerability| 
 | 20210518T16:09:16Z | CVE-2020-24421 | PoC for exploiting CVE-2020-24421 | https://github.com/JamesGeee/CVE-2020-24421 | Adobe InDesign version 15.1.2 (and earlier) is affected by a NULL pointer dereference bug that occurs when handling a malformed .indd file. The impact is limited to causing a denial-of-service of the client application. User interaction is required to exploit this issue.| 
@@ -102,11 +102,11 @@
 | 20210518T22:37:54Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2328 | 126| 
 | 20210518T20:44:58Z | Null | https://github.com/eavarlamova/fuzzy-transport-problem | 0 | 0| 
 | 20210518T20:41:26Z | Null | https://github.com/opimentel-github/fuzzy-torch | 1 | 0| 
-| 20210518T20:26:48Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6294 | 1272| 
 | 20210518T19:56:52Z | Downloader for Firefox/jsshell builds for fuzzing. | https://github.com/MozillaSecurity/fuzzfetch | 23 | 10| 
 | 20210518T19:54:11Z | Null | https://github.com/gdepuydt/fuzzoz | 0 | 0| 
 | 20210518T19:49:05Z | Fuzzy finder for every AWS component | https://github.com/AndreZiviani/aws-fuzzy | 9 | 2| 
 | 20210518T19:22:40Z | Null | https://github.com/XOMAv2/NeuroFuzzySystemsLabs | 0 | 0| 
+| 20210518T19:05:49Z | WOW Classic Addons | https://github.com/LuckDuck-GitHub/fuzzy-invention | 0 | 0| 
 
 
 
