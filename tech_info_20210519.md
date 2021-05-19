@@ -61,9 +61,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210519T13:03:01Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 23 | 11| 
 | 20210519T12:40:16Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9450 | 1526| 
 | 20210519T12:38:12Z | Null | https://github.com/foysalcodeio/Bolt-CMS-Version-3.7.1-RCE-Exploit | 0 | 0| 
-| 20210519T12:02:09Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 23 | 11| 
 | 20210519T12:00:57Z | exploit-exercices (old school bugs) | https://github.com/ozswar94/Protostar | 0 | 0| 
 | 20210519T11:51:06Z | IoT 固件漏洞复现环境 | https://github.com/firmianay/IoT-vulhub | 382 | 36| 
 | 20210519T11:48:04Z | roblox exploit op Xteir | https://github.com/KnightNight743/XtierSploit-X | 0 | 0| 
@@ -89,7 +89,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210519T12:58:40Z | The forum application with automatic fuzzy generator of new topics | https://github.com/Luvkitri/fuzzy-forum-backend | 0 | 0| 
+| 20210519T13:05:08Z | The forum application with automatic fuzzy generator of new topics | https://github.com/Luvkitri/fuzzy-forum-backend | 0 | 0| 
 | 20210519T12:42:38Z | Medical Diagnostic Module Programmed with Python and using Fuzzy Logic | https://github.com/Tank3-TK3/medical-diagnostic-module-Python-FuzzyLogic | 0 | 0| 
 | 20210519T12:34:11Z | 渗透测试路径字典，爆破字典。内容来自互联网和实战积累。 | https://github.com/cpkkcb/fuzzDicts | 70 | 40| 
 | 20210519T12:20:49Z | Null | https://github.com/tanmoydas61999/fuzzy-octo-goggles | 0 | 0| 
