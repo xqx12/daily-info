@@ -32,7 +32,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210518T21:50:32Z | CVE-2021-31703 | CVE-2021-31703 | https://github.com/l00neyhacker/CVE-2021-31703 | 未查询到CVE信息| 
-| 20210518T21:45:27Z | CVE-2021-31702 | CVE-2021-31702 | https://github.com/l00neyhacker/CVE-2021-31702 | 未查询到CVE信息| 
+| 20210518T21:45:27Z | CVE-2021-31702 | CVE-2021-31702 | https://github.com/l00neyhacker/CVE-2021-31702 | | 
 | 20210518T20:24:30Z | CVE-2020-28018 | Exploit for Exim4 4.93 CVE-2020-28018 | https://github.com/lmol/CVE-2020-28018 | Exim 4 before 4.94.2 allows Use After Free in smtp_reset in certain situations that may be common for builds with OpenSSL.| 
 | 20210518T16:21:31Z | CVE-2020-23852 | PoC for exploiting CVE-2020-23852 | https://github.com/JamesGeee/CVE-2020-23852 | A heap based buffer overflow vulnerability exists in ffjpeg through 2020-07-02 in the jfif_decode(void *ctxt, BMP *pb) function at ffjpeg/src/jfif.c (line 544 & line 545), which could cause a denial of service by submitting a malicious jpeg image.| 
 | 20210518T16:21:28Z | CVE-2020-23851 | PoC for exploiting CVE-2020-23851 | https://github.com/JamesGeee/CVE-2020-23851 | A stack-based buffer overflow vulnerability exists in ffjpeg through 2020-07-02 in the jfif_decode(void *ctxt, BMP *pb) function at ffjpeg/src/jfif.c:513:28, which could cause a denial of service by submitting a malicious jpeg image.| 
