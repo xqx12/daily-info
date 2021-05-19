@@ -115,6 +115,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210519T00:31:14Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 281 | 38| 
 | 20210518T23:57:24Z | Fuzzer for LP models in MPS | https://github.com/elefthei/lp-fuzzer | 0 | 0| 
 | 20210518T23:15:06Z | Highly experimental parser that calculates the way a pattern best matches a text, and how closely it matches the text, rather than calculates a binary match or parse error. | https://github.com/SamRoberts/fuzzy | 0 | 0| 
 | 20210518T22:37:54Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2328 | 126| 
@@ -124,7 +125,6 @@
 | 20210518T19:56:52Z | Downloader for Firefox/jsshell builds for fuzzing. | https://github.com/MozillaSecurity/fuzzfetch | 23 | 10| 
 | 20210518T19:54:11Z | Null | https://github.com/gdepuydt/fuzzoz | 0 | 0| 
 | 20210518T19:49:05Z | Fuzzy finder for every AWS component | https://github.com/AndreZiviani/aws-fuzzy | 9 | 2| 
-| 20210518T19:22:40Z | Null | https://github.com/XOMAv2/NeuroFuzzySystemsLabs | 0 | 0| 
 
 
 
