@@ -115,16 +115,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210519T12:58:40Z | The forum application with automatic fuzzy generator of new topics | https://github.com/Luvkitri/fuzzy-forum-backend | 0 | 0| 
+| 20210519T12:42:38Z | Medical Diagnostic Module Programmed with Python and using Fuzzy Logic | https://github.com/Tank3-TK3/medical-diagnostic-module-Python-FuzzyLogic | 0 | 0| 
+| 20210519T12:34:11Z | 渗透测试路径字典，爆破字典。内容来自互联网和实战积累。 | https://github.com/cpkkcb/fuzzDicts | 70 | 40| 
+| 20210519T12:20:49Z | Null | https://github.com/tanmoydas61999/fuzzy-octo-goggles | 0 | 0| 
+| 20210519T12:19:04Z | Null | https://github.com/Aarav77/fuzzy-sniffle | 0 | 0| 
 | 20210519T12:02:15Z | This is React Native | https://github.com/rookasrudzianskas/Fuzzy-signal | 1 | 0| 
-| 20210519T12:00:05Z | The forum application with automatic fuzzy generator of new topics | https://github.com/Luvkitri/fuzzy-forum-backend | 0 | 0| 
 | 20210519T11:58:24Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 401 | 34| 
 | 20210519T11:53:55Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6301 | 1273| 
 | 20210519T11:36:41Z | Null | https://github.com/XOMAv2/NeuroFuzzySystemsLabs | 0 | 0| 
 | 20210519T11:25:46Z | Using Gaussian Density function for classification of PD | https://github.com/shreyab1111/Fuzzy-Fusion-Logic | 0 | 0| 
-| 20210519T10:14:19Z | 渗透测试路径字典，爆破字典。内容来自互联网和实战积累。 | https://github.com/cpkkcb/fuzzDicts | 69 | 40| 
-| 20210519T10:07:38Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
-| 20210519T09:36:08Z | Null | https://github.com/Arnouux/fuzzy | 0 | 0| 
-| 20210519T09:34:50Z | Null | https://github.com/vasantsingh/fuzzy-barnacle | 0 | 0| 
 
 
 
