@@ -6,6 +6,14 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210519 | uCodeDisasm - Dmitry Sklyarov 等研究员将近几年对 Intel 处理器微码的研究资料和工具开源了 | https://github.com/chip-red-pill/uCodeDisasm| 
+| 20210519 | Windows 10 21H1 版本将要引入的 Mitigation - eXtended Flow Guard (XFG) 的介绍 | https://www.offensive-security.com/offsec/extended-flow-guard/| 
+| 20210519 | Discovering and exploiting McAfee COM-objects (CVE-2021-23874) | https://the-deniss.github.io/posts/2021/05/17/discovering-and-exploiting-mcafee-com-objects.html| 
+| 20210519 | 黑莓安全研究团队实现利用 QEMU 运行 ARM64 版本的 macOS 系统 | https://appleinsider.com/articles/21/05/18/blackberry-publishes-method-to-virtualize-arm64-version-of-macos| 
+| 20210519 | Kerberos 认证协议分析 | https://sheerazali.com/how-to-kerberos-its-components-and-function/| 
+| 20210519 | Just Gopher It: Escalating a Blind SSRF to RCE for $15k | https://sirleeroyjenkins.medium.com/just-gopher-it-escalating-a-blind-ssrf-to-rce-for-15k-f5329a974530| 
+| 20210519 | ZDI 对 Windows 上周修复的 HTTP.sys 蠕虫级代码执行漏洞（CVE-2021-31166）的分析 | https://www.thezdi.com/blog/2021/5/17/cve-2021-31166-a-wormable-code-execution-bug-in-httpsys| 
+| 20210519 | RFID: Monotonic Counter Anti-Tearing Defeated | https://blog.quarkslab.com/rfid-monotonic-counter-anti-tearing-defeated.html| 
 | 20210518 | Roku 机顶盒 RokuOS v9.4.0 build 4200 版本越狱 Exploit | https://github.com/llamasoft/RootMyRoku| 
 | 20210518 | 恶意软件开发者滥用 PE 文件格式特性实现 GetProcAddress 欺骗 | https://dennisbabkin.com/blog/?t=malware-researchers-beware-of-getprocaddress-spoofing| 
 | 20210518 | iOS 14.5 如何用 PAC 保护 Objective-C 对象 | https://mp.weixin.qq.com/s/VsqnWo6HGQT5LXdulpcaGg| 
@@ -18,59 +26,51 @@
 | 20210518 | Finding writable folders and hijackable DLLs. | https://medium.com/@markmotig/finding-writable-folders-and-hijackable-dlls-3594a9a0b1c8| 
 | 20210518 | 针对PHP Web Shell Hexedglobals.3793系列恶意软件分析溯源。 | https://labs.detectify.com/2019/05/24/investigation-of-php-web-shell-hexedglobals-3793-variants/| 
 | 20210518 | FragAttacks：USENIX 2021 安全会议演讲议题视频。 | https://www.youtube.com/watch?v=OJ9nFeuitIU| 
-| 20210518 | GW Tester：专门测试S/P-GW工具演示。 | https://wmnsk.com/posts/20200116_gw-tester/| 
-| 20210517 | SANS 2020 会议 PPT《HANDLING ADVANCED THREATS》 | http://www.blackstormsecurity.com/docs/Handling_Advanced_Threats_SANS_2020.pdf| 
-| 20210517 | Hyntrospect - Project Zero 开源的面向 Hyper-V 模拟设备的 Fuzzer | https://github.com/googleprojectzero/Hyntrospect| 
-| 20210517 | Awesome Google VRP Writeups | https://github.com/xdavidhu/awesome-google-vrp-writeups| 
-| 20210517 | D-Link DIR-842 家用路由器被发现 telnet 密码存在爆破可能 | https://blog.whtaguy.com/2021/05/d-link-router-cve-2021-27342.html| 
-| 20210517 | Exim CVE-2020-28018 UAF 漏洞的分析 | https://adepts.of0x.cc/exim-cve-2020-28018/| 
-| 20210517 | Airtag dumper - 有研究员将 Air Tag 的 nRF52832 芯片的固件 Dump 出来了 | https://github.com/pd0wm/airtag-dump| 
-| 20210517 | Windows/x64 - Inject All Processes with Meterpreter Reverse Shell | https://github.com/boku7/winx64-InjectAllProcessesMeterpreter-Shellcode| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210519 | 堆的largebin attack利用 | https://www.sec-in.com/article/1060| 
+| 20210519 | 图神经网络的解释性综述 | https://mp.weixin.qq.com/s/pI9xvY2MjcEiLFdO2WDGtA| 
+| 20210519 | 红帽杯 - WriteUp | https://mp.weixin.qq.com/s/eMJ-tQ4qkTWpJBK244EOzQ| 
+| 20210519 | 津⻔杯-WriteUp | https://mp.weixin.qq.com/s/7uMUoMkQyJGetdlgdvy0CQ| 
+| 20210519 | 勒索病毒Kraken2.0.7分析 | https://mp.weixin.qq.com/s/HJptpktTAW5eTo3PKTR34g| 
+| 20210519 | 十四五”时期网络安全建设解读与践行 | https://mp.weixin.qq.com/s/pIXHiv0IhsTkecX0oz0o1g| 
 | 20210518 | Domain Borrowing: 一种基于CDN的新型隐蔽通信方法 | https://xlab.tencent.com/cn/2021/05/14/domain-borrowing/| 
 | 20210518 | 另类的dex代码保护方法 | https://mp.weixin.qq.com/s/Efa0Dw8yCH_nojSwof0XYQ| 
 | 20210517 | SecWiki周刊（第376期) | https://www.sec-wiki.com/weekly/376| 
 | 20210516 | 以太坊智能合约中的社会工程攻击 | https://mp.weixin.qq.com/s/MVsF9P7hpnncf9cHuTQ_iA| 
-| 20210516 | AsiaCCS 2021 论文录用列表 | https://mp.weixin.qq.com/s/F_Xev3CD1AH-LgszPk_PFQ| 
-| 20210514 | vulnhub: Momentum:1 | https://www.sec-in.com/article/1059| 
-| 20210513 | PHP 开源白盒审计工具初探（上） | https://www.anquanke.com/post/id/240739| 
-| 20210513 | pocassist: 开源漏洞测试框架 | https://github.com/jweny/pocassist| 
-| 20210513 | Fastcgi 协议分析与 PHP-FPM 攻击方法 | https://xz.aliyun.com/t/9544| 
-| 20210513 | 基于算法的漏洞检测 | https://xz.aliyun.com/t/9539| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210518T21:50:32Z | CVE-2021-31703 | CVE-2021-31703 | https://github.com/l00neyhacker/CVE-2021-31703 | 未查询到CVE信息| 
-| 20210518T21:45:27Z | CVE-2021-31702 | CVE-2021-31702 | https://github.com/l00neyhacker/CVE-2021-31702 | 未查询到CVE信息| 
-| 20210518T20:24:30Z | CVE-2020-28018 | Exploit for Exim4 4.93 CVE-2020-28018 | https://github.com/lmol/CVE-2020-28018 | Exim 4 before 4.94.2 allows Use After Free in smtp_reset in certain situations that may be common for builds with OpenSSL.| 
-| 20210518T16:21:31Z | CVE-2020-23852 | PoC for exploiting CVE-2020-23852 | https://github.com/JamesGeee/CVE-2020-23852 | A heap based buffer overflow vulnerability exists in ffjpeg through 2020-07-02 in the jfif_decode(void *ctxt, BMP *pb) function at ffjpeg/src/jfif.c (line 544 & line 545), which could cause a denial of service by submitting a malicious jpeg image.| 
-| 20210518T16:21:28Z | CVE-2020-23851 | PoC for exploiting CVE-2020-23851 | https://github.com/JamesGeee/CVE-2020-23851 | A stack-based buffer overflow vulnerability exists in ffjpeg through 2020-07-02 in the jfif_decode(void *ctxt, BMP *pb) function at ffjpeg/src/jfif.c:513:28, which could cause a denial of service by submitting a malicious jpeg image.| 
-| 20210518T16:21:26Z | CVE-2021-29603 | PoC for exploiting CVE-2021-29603 | https://github.com/JamesGeee/CVE-2021-29603 | TensorFlow is an end-to-end open source platform for machine learning. A specially crafted TFLite model could trigger an OOB write on heap in the TFLite implementation of `ArgMin`/`ArgMax`(https://github.com/tensorflow/tensorflow/blob/102b211d892f3abc14f845a72047809b39cc65ab/tensorflow/lite/kernels/arg_min_max.cc#L52-L59). If `axis_value` is not a value between 0 and `NumDimensions(input)`, then the condition in the `if` is never true, so code writes past the last valid element of `output_dims->data`. The fix will be included in TensorFlow 2.5.0. We will also cherrypick this commit on TensorFlow 2.4.2, TensorFlow 2.3.3, TensorFlow 2.2.3 and TensorFlow 2.1.4, as these are also affected and still in supported range.| 
-| 20210518T16:21:23Z | CVE-2021-29602 | PoC for exploiting CVE-2021-29602 | https://github.com/JamesGeee/CVE-2021-29602 | TensorFlow is an end-to-end open source platform for machine learning. The implementation of the `DepthwiseConv` TFLite operator is vulnerable to a division by zero error(https://github.com/tensorflow/tensorflow/blob/1a8e885b864c818198a5b2c0cbbeca5a1e833bc8/tensorflow/lite/kernels/depthwise_conv.cc#L287-L288). An attacker can craft a model such that `input`%s fourth dimension would be 0. The fix will be included in TensorFlow 2.5.0. We will also cherrypick this commit on TensorFlow 2.4.2, TensorFlow 2.3.3, TensorFlow 2.2.3 and TensorFlow 2.1.4, as these are also affected and still in supported range.| 
-| 20210518T16:20:58Z | CVE-2021-28465 | PoC for exploiting CVE-2021-28465 | https://github.com/JamesGeee/CVE-2021-28465 | Web Media Extensions Remote Code Execution Vulnerability| 
-| 20210518T16:09:16Z | CVE-2020-24421 | PoC for exploiting CVE-2020-24421 | https://github.com/JamesGeee/CVE-2020-24421 | Adobe InDesign version 15.1.2 (and earlier) is affected by a NULL pointer dereference bug that occurs when handling a malformed .indd file. The impact is limited to causing a denial-of-service of the client application. User interaction is required to exploit this issue.| 
-| 20210518T16:09:15Z | CVE-2020-9389 | PoC for exploiting CVE-2020-9389 | https://github.com/JamesGeee/CVE-2020-9389 | | 
+| 20210519T09:45:19Z | 未知编号 | Null | https://github.com/Jauler/cve2021-3156-sudo-heap-overflow | | 
+| 20210519T08:39:46Z | CVE-2021-31166 | simple bash script for exploit CVE-2021-31166 | https://github.com/zecopro/CVE-2021-31166 | | 
+| 20210519T06:46:15Z | CVE-2021-31166 | HTTP Protocol Stack CVE-2021-31166 | https://github.com/corelight/CVE-2021-31166 | | 
+| 20210519T06:31:34Z | CVE-2021- | Null | https://github.com/pipiping/CVE-2021-CVEceshi | | 
+| 20210519T03:01:46Z | CVE-2021-31321 | PoC for exploiting CVE-2021-31321 | https://github.com/JamesGeee/CVE-2021-31321 | | 
+| 20210519T03:01:43Z | CVE-2021-31320 | PoC for exploiting CVE-2021-31320 | https://github.com/JamesGeee/CVE-2021-31320 | | 
+| 20210519T03:01:39Z | CVE-2021-31319 | PoC for exploiting CVE-2021-31319 | https://github.com/JamesGeee/CVE-2021-31319 | | 
+| 20210519T03:01:08Z | CVE-2021-31318 | PoC for exploiting CVE-2021-31318 | https://github.com/JamesGeee/CVE-2021-31318 | | 
+| 20210519T03:00:28Z | CVE-2021-31317 | PoC for exploiting CVE-2021-31317 | https://github.com/JamesGeee/CVE-2021-31317 | | 
+| 20210519T03:00:24Z | CVE-2021-31316 | PoC for exploiting CVE-2021-31316 | https://github.com/JamesGeee/CVE-2021-31316 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210519T11:56:29Z | It failed to generate TC by KLEE when execute 32 bit bc file on Ubuntu 18.04 | https://github.com/Elaine0122/klee-runs-on-ubuntu-18.04-course | 0 | 0| 
+| 20210519T11:56:15Z | The template repository for the KLEE runs on Ubuntu 18.04 course on Learning Lab. | https://github.com/Elaine0122/klee-runs-on-ubuntu-18.04-template | 0 | 0| 
+| 20210519T11:40:39Z | klee.js is a (data driven) generator and wrapper for the magnificent three.js | https://github.com/trenc/klee.js | 1 | 0| 
+| 20210519T08:32:53Z | 99484 A & C team Worlds Code for 2021 Live-Remote Skills | https://github.com/Jython1415/penguin-Klee | 1 | 0| 
+| 20210519T07:48:41Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 216 | 35| 
 | 20210518T23:06:00Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
 | 20210518T19:37:42Z | TracerX Symbolic Virtual Machine | https://github.com/tracer-x/TracerX | 14 | 9| 
 | 20210518T18:11:52Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 14 | 43| 
 | 20210518T16:11:01Z | Null | https://github.com/rounakmodgil/kleenacademy | 0 | 0| 
 | 20210518T15:21:21Z | Klee Kai creative assets | https://github.com/KleeKai-DEV/Klee-Kai-Creative | 0 | 0| 
-| 20210518T11:20:11Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 136 | 13| 
-| 20210518T11:20:07Z | Null | https://github.com/BajacDev/rust-klee-docker | 1 | 0| 
-| 20210518T10:28:39Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 612 | 14| 
-| 20210518T08:37:08Z | 99484 A & C team Worlds Code for 2021 Live-Remote Skills | https://github.com/Jython1415/penguin-Klee | 1 | 0| 
-| 20210518T06:28:50Z | Null | https://github.com/fontworks-fonts/Klee | 448 | 13| 
 
 
 # s2e on Github 推荐
@@ -85,16 +85,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210519T01:48:32Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9448 | 1526| 
-| 20210519T01:23:15Z | 2019 exploit example | https://github.com/liangzhijun1314/2019_exploit | 0 | 0| 
-| 20210519T01:13:09Z | Gote Hub - Comunity Roblox Exploiting And Scripting @Copyright 2021 | https://github.com/Vilictus/Gote-Hub | 0 | 0| 
-| 20210519T01:06:38Z | A library to develop kernel level Windows payloads for post HVCI era | https://github.com/Cr4sh/KernelForge | 74 | 13| 
-| 20210519T01:02:42Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 10| 
-| 20210519T00:51:12Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 16 | 11| 
-| 20210518T23:44:24Z | Pwn the devs in muse dash, exploit their code to your own advantage with this script | https://github.com/Easey8/Pwn-Dash | 0 | 0| 
-| 20210518T23:40:51Z | Loads a driver from disk without signing required by using an exploited driver | https://github.com/AliHampton/DriverLoader | 0 | 0| 
-| 20210518T23:36:34Z | Null | https://github.com/Lxnden1/LunarExploits | 0 | 0| 
-| 20210518T23:35:55Z | An easy challenge for a stack-based buffer overflow! Preset shellcode will execute calc.exe upon exploitation. | https://github.com/Crystalware/BufferOverflow_EasyChallenge | 0 | 0| 
+| 20210519T12:00:57Z | exploit-exercices (old school bugs) | https://github.com/ozswar94/Protostar | 0 | 0| 
+| 20210519T11:51:06Z | IoT 固件漏洞复现环境 | https://github.com/firmianay/IoT-vulhub | 382 | 36| 
+| 20210519T11:48:04Z | roblox exploit op Xteir | https://github.com/KnightNight743/XtierSploit-X | 0 | 0| 
+| 20210519T11:35:35Z | Null | https://github.com/ItsAaronBoi/binary_exploits_Project | 0 | 0| 
+| 20210519T11:31:10Z | Microbiome Analysis Powered By Recursive Quasi-species Networks: Uncovering rules of organization, competition, succession and exploitation | https://github.com/zeroknowledgediscovery/qbiome | 0 | 0| 
+| 20210519T11:21:11Z | Repo for testing some exploits | https://github.com/RobertFent/exploits | 0 | 0| 
+| 20210519T11:13:24Z | Simple antis against recent exploits in VRChat including people triggering udon events starting with (_) in older maps and people spawning positive.infinity quaternion prefabs and making the floor go poof. | https://github.com/abbeybabbey/SimpleAntis | 0 | 0| 
+| 20210519T11:02:47Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 23 | 11| 
+| 20210519T10:51:25Z | Null | https://github.com/Psychorot/MaouExploit | 0 | 0| 
+| 20210519T09:46:47Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 75 | 13| 
 
 
 # backdoor on Github 推荐
