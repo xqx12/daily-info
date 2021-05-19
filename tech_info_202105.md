@@ -15,6 +15,10 @@
 | 20210518 | 研究员 Dmytro Oleksiuk 开源了一个工具库，帮助在开启 Hyper-V HVCI 硬件保护特性的机器上辅助编写 Payload 的工具 | https://github.com/Cr4sh/KernelForge/| 
 | 20210518 | 利用 cgroups 的机制实现 Docker 容器逃逸 | https://0xdf.gitlab.io/2021/05/17/digging-into-cgroups.html| 
 | 20210518 | RedWarden - Flexible CobaltStrike Malleable Redirector | https://github.com/mgeeky/RedWarden| 
+| 20210518 | Finding writable folders and hijackable DLLs. | https://medium.com/@markmotig/finding-writable-folders-and-hijackable-dlls-3594a9a0b1c8| 
+| 20210518 | 针对PHP Web Shell Hexedglobals.3793系列恶意软件分析溯源。 | https://labs.detectify.com/2019/05/24/investigation-of-php-web-shell-hexedglobals-3793-variants/| 
+| 20210518 | FragAttacks：USENIX 2021 安全会议演讲议题视频。 | https://www.youtube.com/watch?v=OJ9nFeuitIU| 
+| 20210518 | GW Tester：专门测试S/P-GW工具演示。 | https://wmnsk.com/posts/20200116_gw-tester/| 
 | 20210517 | SANS 2020 会议 PPT《HANDLING ADVANCED THREATS》 | http://www.blackstormsecurity.com/docs/Handling_Advanced_Threats_SANS_2020.pdf| 
 | 20210517 | Hyntrospect - Project Zero 开源的面向 Hyper-V 模拟设备的 Fuzzer | https://github.com/googleprojectzero/Hyntrospect| 
 | 20210517 | Awesome Google VRP Writeups | https://github.com/xdavidhu/awesome-google-vrp-writeups| 
@@ -22,15 +26,13 @@
 | 20210517 | Exim CVE-2020-28018 UAF 漏洞的分析 | https://adepts.of0x.cc/exim-cve-2020-28018/| 
 | 20210517 | Airtag dumper - 有研究员将 Air Tag 的 nRF52832 芯片的固件 Dump 出来了 | https://github.com/pd0wm/airtag-dump| 
 | 20210517 | Windows/x64 - Inject All Processes with Meterpreter Reverse Shell | https://github.com/boku7/winx64-InjectAllProcessesMeterpreter-Shellcode| 
-| 20210517 | Singular Lab 研究员在 zer0con 2021 会议关于 Chrome 漏洞利用的演讲 PPT | https://github.com/singularseclab/Slides/blob/main/2021/chrome_exploitation-zer0con2021.pdf| 
-| 20210517 | 研究员 Axel Souchet 为上周 Windows 修复的一个 HTTP 协议栈高危漏洞写的 PoC（CVE-2021-31166） | https://github.com/0vercl0k/CVE-2021-31166| 
-| 20210517 | 从微软手环以及 Hello Sense 设备中提取自己的历史数据 | https://sec.today/pulses/265fb0cf-5c50-4cb3-8959-c65464367ac6/| 
-| 20210517 | 从微软手环以及 Hello Sense 设备中提取自己的历史数据 | http://jeffhuang.com/extracting_data_from_tracking_devices/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210518 | Domain Borrowing: 一种基于CDN的新型隐蔽通信方法 | https://xlab.tencent.com/cn/2021/05/14/domain-borrowing/| 
+| 20210518 | 另类的dex代码保护方法 | https://mp.weixin.qq.com/s/Efa0Dw8yCH_nojSwof0XYQ| 
 | 20210517 | SecWiki周刊（第376期) | https://www.sec-wiki.com/weekly/376| 
 | 20210516 | 以太坊智能合约中的社会工程攻击 | https://mp.weixin.qq.com/s/MVsF9P7hpnncf9cHuTQ_iA| 
 | 20210516 | AsiaCCS 2021 论文录用列表 | https://mp.weixin.qq.com/s/F_Xev3CD1AH-LgszPk_PFQ| 
@@ -39,38 +41,36 @@
 | 20210513 | pocassist: 开源漏洞测试框架 | https://github.com/jweny/pocassist| 
 | 20210513 | Fastcgi 协议分析与 PHP-FPM 攻击方法 | https://xz.aliyun.com/t/9544| 
 | 20210513 | 基于算法的漏洞检测 | https://xz.aliyun.com/t/9539| 
-| 20210512 | 从美国燃油管道商遭勒索攻击看企业安全 | https://mp.weixin.qq.com/s/jfl2mxO4xkqJavIY8Nt8OA| 
-| 20210512 | Istio自身服务的安全风险 | http://rui0.cn/archives/1597| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210518T12:53:01Z | CVE-2021-31166 | Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely. | https://github.com/0vercl0k/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
-| 20210518T12:07:25Z | CVE-2021-31166 | Different rules to detect if CVE-2021-31166 is being exploited | https://github.com/Frankmock/CVE-2021-31166-detection-rules | HTTP Protocol Stack Remote Code Execution Vulnerability| 
-| 20210518T12:06:08Z | CVE-2021-21551 | Exploit to SYSTEM for CVE-2021-21551 | https://github.com/waldo-irc/CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
-| 20210518T09:47:47Z | CVE-2021-27651 | RCE for Pega Infinity >= 8.2.1, Pega Infinity <= 8.5.2 | https://github.com/samwcyo/CVE-2021-27651-PoC | | 
-| 20210518T09:22:12Z | CVE-2021-27342 | Exploit for CVE-2021-27342 vulnerability (telnet authentication brute-force protection bypass) | https://github.com/guywhataguy/D-Link-CVE-2021-27342-exploit | An authentication brute-force protection mechanism bypass in telnetd in D-Link Router model DIR-842 firmware version 3.0.2 allows a remote attacker to circumvent the anti-brute-force cool-down delay period via a timing-based side-channel attack| 
-| 20210518T07:57:23Z | CVE-2020-1020 | Null | https://github.com/mavillon1/CVE-2020-1020-Exploit | A remote code execution vulnerability exists in Microsoft Windows when the Windows Adobe Type Manager Library improperly handles a specially-crafted multi-master font - Adobe Type 1 PostScript format.For all systems except Windows 10, an attacker who successfully exploited the vulnerability could execute code remotely, aka %Adobe Font Manager Library Remote Code Execution Vulnerability%. This CVE ID is unique from CVE-2020-0938.| 
-| 20210518T02:55:01Z | CVE-2021-31166 | PoC for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely. Although it was defined as remote command execution, it can only cause the system to crash. | https://github.com/An0ny-m0us/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
-| 20210517T21:17:22Z | CVE-2021-22204 | Python exploit for the CVE-2021-22204 vulnerability in Exiftool | https://github.com/convisoappsec/CVE-2021-22204-exiftool | | 
-| 20210517T17:23:18Z | CVE-2021-28480 | PoC for exploiting RCE in Exchange CVEs: CVE-2021-28480, CVE-2021-28481, CVE-2021-28482 and CVE-2021-28483.  Achieves Domain Admin on Exchange Servers running Windows Server 2003 up to Windows Server 2019. | https://github.com/ZephrFish/ExchangeRCE-CVE-2021-28480 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-28481, CVE-2021-28482, CVE-2021-28483.| 
-| 20210517T15:53:30Z | CVE-2020-28018 | Exploit for Exim4 4.93 CVE-2020-28018 | https://github.com/lmol/CVE-2020-28018 | Exim 4 before 4.94.2 allows Use After Free in smtp_reset in certain situations that may be common for builds with OpenSSL.| 
+| 20210518T21:50:32Z | CVE-2021-31703 | CVE-2021-31703 | https://github.com/l00neyhacker/CVE-2021-31703 | 未查询到CVE信息| 
+| 20210518T21:45:27Z | CVE-2021-31702 | CVE-2021-31702 | https://github.com/l00neyhacker/CVE-2021-31702 | 未查询到CVE信息| 
+| 20210518T20:24:30Z | CVE-2020-28018 | Exploit for Exim4 4.93 CVE-2020-28018 | https://github.com/lmol/CVE-2020-28018 | 未查询到CVE信息| 
+| 20210518T16:21:31Z | CVE-2020-23852 | PoC for exploiting CVE-2020-23852 | https://github.com/JamesGeee/CVE-2020-23852 | A heap based buffer overflow vulnerability exists in ffjpeg through 2020-07-02 in the jfif_decode(void *ctxt, BMP *pb) function at ffjpeg/src/jfif.c (line 544 & line 545), which could cause a denial of service by submitting a malicious jpeg image.| 
+| 20210518T16:21:28Z | CVE-2020-23851 | PoC for exploiting CVE-2020-23851 | https://github.com/JamesGeee/CVE-2020-23851 | A stack-based buffer overflow vulnerability exists in ffjpeg through 2020-07-02 in the jfif_decode(void *ctxt, BMP *pb) function at ffjpeg/src/jfif.c:513:28, which could cause a denial of service by submitting a malicious jpeg image.| 
+| 20210518T16:21:26Z | CVE-2021-29603 | PoC for exploiting CVE-2021-29603 | https://github.com/JamesGeee/CVE-2021-29603 | TensorFlow is an end-to-end open source platform for machine learning. A specially crafted TFLite model could trigger an OOB write on heap in the TFLite implementation of `ArgMin`/`ArgMax`(https://github.com/tensorflow/tensorflow/blob/102b211d892f3abc14f845a72047809b39cc65ab/tensorflow/lite/kernels/arg_min_max.cc#L52-L59). If `axis_value` is not a value between 0 and `NumDimensions(input)`, then the condition in the `if` is never true, so code writes past the last valid element of `output_dims->data`. The fix will be included in TensorFlow 2.5.0. We will also cherrypick this commit on TensorFlow 2.4.2, TensorFlow 2.3.3, TensorFlow 2.2.3 and TensorFlow 2.1.4, as these are also affected and still in supported range.| 
+| 20210518T16:21:23Z | CVE-2021-29602 | PoC for exploiting CVE-2021-29602 | https://github.com/JamesGeee/CVE-2021-29602 | TensorFlow is an end-to-end open source platform for machine learning. The implementation of the `DepthwiseConv` TFLite operator is vulnerable to a division by zero error(https://github.com/tensorflow/tensorflow/blob/1a8e885b864c818198a5b2c0cbbeca5a1e833bc8/tensorflow/lite/kernels/depthwise_conv.cc#L287-L288). An attacker can craft a model such that `input`%s fourth dimension would be 0. The fix will be included in TensorFlow 2.5.0. We will also cherrypick this commit on TensorFlow 2.4.2, TensorFlow 2.3.3, TensorFlow 2.2.3 and TensorFlow 2.1.4, as these are also affected and still in supported range.| 
+| 20210518T16:20:58Z | CVE-2021-28465 | PoC for exploiting CVE-2021-28465 | https://github.com/JamesGeee/CVE-2021-28465 | Web Media Extensions Remote Code Execution Vulnerability| 
+| 20210518T16:09:16Z | CVE-2020-24421 | PoC for exploiting CVE-2020-24421 | https://github.com/JamesGeee/CVE-2020-24421 | Adobe InDesign version 15.1.2 (and earlier) is affected by a NULL pointer dereference bug that occurs when handling a malformed .indd file. The impact is limited to causing a denial-of-service of the client application. User interaction is required to exploit this issue.| 
+| 20210518T16:09:15Z | CVE-2020-9389 | PoC for exploiting CVE-2020-9389 | https://github.com/JamesGeee/CVE-2020-9389 | A username enumeration issue was discovered in SquaredUp before version 4.6.0. The login functionality was implemented in a way that would enable a malicious user to guess valid username due to a different response time from invalid usernames.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210518T12:32:19Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
+| 20210518T23:06:00Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
+| 20210518T19:37:42Z | TracerX Symbolic Virtual Machine | https://github.com/tracer-x/TracerX | 14 | 9| 
+| 20210518T18:11:52Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 14 | 43| 
+| 20210518T16:11:01Z | Null | https://github.com/rounakmodgil/kleenacademy | 0 | 0| 
+| 20210518T15:21:21Z | Klee Kai creative assets | https://github.com/KleeKai-DEV/Klee-Kai-Creative | 0 | 0| 
 | 20210518T11:20:11Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 136 | 13| 
 | 20210518T11:20:07Z | Null | https://github.com/BajacDev/rust-klee-docker | 1 | 0| 
 | 20210518T10:28:39Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 612 | 14| 
 | 20210518T08:37:08Z | 99484 A & C team Worlds Code for 2021 Live-Remote Skills | https://github.com/Jython1415/penguin-Klee | 1 | 0| 
 | 20210518T06:28:50Z | Null | https://github.com/fontworks-fonts/Klee | 448 | 13| 
-| 20210517T21:14:42Z | Null | https://github.com/KleeKai-DEV/Klee-token-list | 0 | 0| 
-| 20210517T11:32:08Z | Klee Kai creative assets | https://github.com/KleeKai-DEV/Klee-Kai-Creative | 0 | 0| 
-| 20210517T05:00:35Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1691 | 492| 
-| 20210516T03:54:56Z | Null | https://github.com/KLeelaSantosh/kleeelasanthosh | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -85,46 +85,46 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210518T12:51:17Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 16 | 11| 
-| 20210518T12:37:56Z | nixpkgs aiming for exploiting tools, which may include non-official package or difficult to push to mainstream. | https://github.com/applePrincess/hackpkgs | 1 | 0| 
-| 20210518T12:35:16Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9444 | 1526| 
-| 20210518T12:31:18Z | X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter | https://github.com/Moham3dRiahi/XAttacker | 936 | 415| 
-| 20210518T12:25:06Z | A multiple reverse shell sessions/clients manager via terminal written in go | https://github.com/krishpranav/exploit-framework | 3 | 4| 
-| 20210518T12:11:41Z | LUA scripts used for roblox exploiting | https://github.com/Undecoder/RBX-Exploiting-Scripts | 0 | 0| 
-| 20210518T12:07:25Z | Different rules to detect if CVE-2021-31166 is being exploited | https://github.com/Frankmock/CVE-2021-31166-detection-rules | 1 | 0| 
-| 20210518T12:02:42Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 10| 
-| 20210518T11:49:55Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7877 | 1392| 
-| 20210518T11:41:00Z | Null | https://github.com/Noizeeee/Exploits | 0 | 0| 
+| 20210519T00:01:06Z | A library to develop kernel level Windows payloads for post HVCI era | https://github.com/Cr4sh/KernelForge | 72 | 12| 
+| 20210518T23:44:24Z | Pwn the devs in muse dash, exploit their code to your own advantage with this script | https://github.com/Easey8/Pwn-Dash | 0 | 0| 
+| 20210518T23:40:51Z | Loads a driver from disk without signing required by using an exploited driver | https://github.com/AliHampton/DriverLoader | 0 | 0| 
+| 20210518T23:36:34Z | Null | https://github.com/Lxnden1/LunarExploits | 0 | 0| 
+| 20210518T23:35:55Z | An easy challenge for a stack-based buffer overflow! Preset shellcode will execute calc.exe upon exploitation. | https://github.com/Crystalware/BufferOverflow_EasyChallenge | 0 | 0| 
+| 20210518T23:11:48Z |  Learning vulnerability analysis, exploit development, software debugging, binary analysis, and general cyber security issues | https://github.com/rudenal/ctfs | 0 | 0| 
+| 20210518T23:02:42Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 10| 
+| 20210518T22:17:52Z | Mega repo for exploit development. Contains individual exploits and libraries to assist during exploitation | https://github.com/jeffssh/exploits | 2 | 0| 
+| 20210518T22:15:59Z | Microbiome Analysis Powered By Recursive Quasi-species Networks: Uncovering rules of organization, competition, succession and exploitation | https://github.com/zeroknowledgediscovery/qbiome | 0 | 0| 
+| 20210518T22:03:27Z | Unpack the full potential of your PlayStation 4. | https://github.com/ps4h3x/ps4h3x.xyz | 2 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210518T12:32:06Z | php script to gain access to a site once injected | https://github.com/Urtext69/backdoor | 0 | 0| 
-| 20210518T10:32:31Z | Null | https://github.com/Fsoky/BackDoor-Python-v1.0.0 | 2 | 1| 
-| 20210518T08:35:01Z | You have a Front Door, a Backdoor, why not a SideD00r... | https://github.com/Aaron-Akhtar/SideD00r | 0 | 0| 
-| 20210518T06:32:52Z | Injecting lua code in working VTF files and then running it | https://github.com/ExtReMLapin/glua_vtf_backdooring | 3 | 4| 
-| 20210518T05:06:35Z | Actually run a given promise or mock its outcome based on a given input value | https://github.com/johanfive/backdoor | 0 | 0| 
-| 20210518T05:01:38Z | A backdoor with a multitude of features. | https://github.com/thatcherclough/BetterBackdoor | 209 | 66| 
-| 20210518T00:22:39Z | Null | https://github.com/connorbuck/backdoor-dispensary-website | 0 | 0| 
-| 20210517T23:21:52Z | for educational purposes only! | https://github.com/qqTechnologies/qqBackdoor | 18 | 3| 
-| 20210517T19:13:31Z | Backend for our cyber security forum - %Backdoor% | https://github.com/backdoor-epics/backdoor-backend | 0 | 1| 
-| 20210517T18:56:47Z | Python 3 IRC Bot / Botnet | https://github.com/trackmastersteve/HackServ | 19 | 16| 
+| 20210518T23:24:46Z | Backend for our cyber security forum - %Backdoor% | https://github.com/backdoor-epics/backdoor-backend | 0 | 1| 
+| 20210518T22:11:21Z | A simple remote tool written in C#.    一个简单的c#远控 | https://github.com/qwqdanchun/DcRat | 98 | 40| 
+| 20210518T21:28:59Z | Simple Backdoor Coded in Python | https://github.com/Drew-Alleman/backdoor | 0 | 0| 
+| 20210518T20:34:40Z | You have a Front Door, a Backdoor, why not a SideD00r... | https://github.com/Aaron-Akhtar/SideD00r | 0 | 0| 
+| 20210518T20:31:20Z | React frontend for the cybersecurity forum website - %Backdoor% | https://github.com/backdoor-epics/backdoor-frontend | 0 | 1| 
+| 20210518T19:07:45Z | sexc modd | https://github.com/RandomClientCollector/ZispanosBackdoor | 0 | 0| 
+| 20210518T18:46:55Z | Python 3 IRC Bot / Botnet | https://github.com/trackmastersteve/HackServ | 19 | 16| 
+| 20210518T17:14:34Z | Null | https://github.com/connorbuck/backdoor-dispensary-website | 0 | 0| 
+| 20210518T14:55:43Z | Null | https://github.com/Fsoky/BackDoor-Python | 3 | 1| 
+| 20210518T14:44:35Z | A backdoor plugin for Spigot, Paper, and Bukkit! | https://github.com/PythonJoshua/backdoorplugin | 2 | 1| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210518T12:52:08Z | This is React Native | https://github.com/rookasrudzianskas/Fuzzy-signal | 1 | 0| 
-| 20210518T12:42:56Z | SSL and TLS protocol test suite and fuzzer | https://github.com/tlsfuzzer/tlsfuzzer | 376 | 89| 
-| 20210518T12:29:11Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 786 | 82| 
-| 20210518T12:15:04Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 401 | 33| 
-| 20210518T12:04:41Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1744 | 341| 
-| 20210518T12:01:20Z | Custom link shortner | https://github.com/appukuttan66/fuzzy-invention | 0 | 0| 
-| 20210518T11:46:54Z | Null | https://github.com/xvenge00/fuzz_runner | 0 | 0| 
-| 20210518T11:17:11Z | White-box fuzzer for Java bytecode | https://github.com/vorpal-research/kex | 6 | 5| 
-| 20210518T11:12:47Z | Null | https://github.com/HighlApp/spark-fuzzy | 0 | 0| 
-| 20210518T10:59:26Z | php fuzzer | https://github.com/HGUfuzzing/php-fuzzer | 0 | 0| 
+| 20210518T23:57:24Z | Fuzzer for LP models in MPS | https://github.com/elefthei/lp-fuzzer | 0 | 0| 
+| 20210518T23:15:06Z | Highly experimental parser that calculates the way a pattern best matches a text, and how closely it matches the text, rather than calculates a binary match or parse error. | https://github.com/SamRoberts/fuzzy | 0 | 0| 
+| 20210518T22:37:54Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2328 | 126| 
+| 20210518T20:44:58Z | Null | https://github.com/eavarlamova/fuzzy-transport-problem | 0 | 0| 
+| 20210518T20:41:26Z | Null | https://github.com/opimentel-github/fuzzy-torch | 1 | 0| 
+| 20210518T20:26:48Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6294 | 1272| 
+| 20210518T19:56:52Z | Downloader for Firefox/jsshell builds for fuzzing. | https://github.com/MozillaSecurity/fuzzfetch | 23 | 10| 
+| 20210518T19:54:11Z | Null | https://github.com/gdepuydt/fuzzoz | 0 | 0| 
+| 20210518T19:49:05Z | Fuzzy finder for every AWS component | https://github.com/AndreZiviani/aws-fuzzy | 9 | 2| 
+| 20210518T19:22:40Z | Null | https://github.com/XOMAv2/NeuroFuzzySystemsLabs | 0 | 0| 
 
 
 
