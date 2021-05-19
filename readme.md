@@ -88,10 +88,10 @@
 | 20210518T20:34:40Z | You have a Front Door, a Backdoor, why not a SideD00r... | https://github.com/Aaron-Akhtar/SideD00r | 0 | 0| 
 | 20210518T20:31:20Z | React frontend for the cybersecurity forum website - %Backdoor% | https://github.com/backdoor-epics/backdoor-frontend | 0 | 1| 
 | 20210518T19:07:45Z | sexc modd | https://github.com/RandomClientCollector/ZispanosBackdoor | 0 | 0| 
-| 20210518T18:46:55Z | Python 3 IRC Bot / Botnet | https://github.com/trackmastersteve/HackServ | 19 | 16| 
 | 20210518T17:14:34Z | Null | https://github.com/connorbuck/backdoor-dispensary-website | 0 | 0| 
 | 20210518T14:55:43Z | Null | https://github.com/Fsoky/BackDoor-Python | 3 | 1| 
 | 20210518T14:44:35Z | A backdoor plugin for Spigot, Paper, and Bukkit! | https://github.com/PythonJoshua/backdoorplugin | 2 | 1| 
+| 20210518T12:32:06Z | php script to gain access to a site once injected | https://github.com/Urtext69/backdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐
