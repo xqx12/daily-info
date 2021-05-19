@@ -48,12 +48,12 @@
 | --- | --- | --- | --- | ---| 
 | 20210518T21:50:32Z | CVE-2021-31703 | CVE-2021-31703 | https://github.com/l00neyhacker/CVE-2021-31703 | 未查询到CVE信息| 
 | 20210518T21:45:27Z | CVE-2021-31702 | CVE-2021-31702 | https://github.com/l00neyhacker/CVE-2021-31702 | 未查询到CVE信息| 
-| 20210518T20:24:30Z | CVE-2020-28018 | Exploit for Exim4 4.93 CVE-2020-28018 | https://github.com/lmol/CVE-2020-28018 | Exim 4 before 4.94.2 allows Use After Free in smtp_reset in certain situations that may be common for builds with OpenSSL.| 
-| 20210518T16:21:31Z | CVE-2020-23852 | PoC for exploiting CVE-2020-23852 | https://github.com/JamesGeee/CVE-2020-23852 | 未查询到CVE信息| 
-| 20210518T16:21:28Z | CVE-2020-23851 | PoC for exploiting CVE-2020-23851 | https://github.com/JamesGeee/CVE-2020-23851 | 未查询到CVE信息| 
-| 20210518T16:21:26Z | CVE-2021-29603 | PoC for exploiting CVE-2021-29603 | https://github.com/JamesGeee/CVE-2021-29603 | TensorFlow is an end-to-end open source platform for machine learning. A specially crafted TFLite model could trigger an OOB write on heap in the TFLite implementation of `ArgMin`/`ArgMax`(https://github.com/tensorflow/tensorflow/blob/102b211d892f3abc14f845a72047809b39cc65ab/tensorflow/lite/kernels/arg_min_max.cc#L52-L59). If `axis_value` is not a value between 0 and `NumDimensions(input)`, then the condition in the `if` is never true, so code writes past the last valid element of `output_dims->data`. The fix will be included in TensorFlow 2.5.0. We will also cherrypick this commit on TensorFlow 2.4.2, TensorFlow 2.3.3, TensorFlow 2.2.3 and TensorFlow 2.1.4, as these are also affected and still in supported range.| 
+| 20210518T20:24:30Z | CVE-2020-28018 | Exploit for Exim4 4.93 CVE-2020-28018 | https://github.com/lmol/CVE-2020-28018 | 未查询到CVE信息| 
+| 20210518T16:21:31Z | CVE-2020-23852 | PoC for exploiting CVE-2020-23852 | https://github.com/JamesGeee/CVE-2020-23852 | A heap based buffer overflow vulnerability exists in ffjpeg through 2020-07-02 in the jfif_decode(void *ctxt, BMP *pb) function at ffjpeg/src/jfif.c (line 544 & line 545), which could cause a denial of service by submitting a malicious jpeg image.| 
+| 20210518T16:21:28Z | CVE-2020-23851 | PoC for exploiting CVE-2020-23851 | https://github.com/JamesGeee/CVE-2020-23851 | | 
+| 20210518T16:21:26Z | CVE-2021-29603 | PoC for exploiting CVE-2021-29603 | https://github.com/JamesGeee/CVE-2021-29603 | 未查询到CVE信息| 
 | 20210518T16:21:23Z | CVE-2021-29602 | PoC for exploiting CVE-2021-29602 | https://github.com/JamesGeee/CVE-2021-29602 | TensorFlow is an end-to-end open source platform for machine learning. The implementation of the `DepthwiseConv` TFLite operator is vulnerable to a division by zero error(https://github.com/tensorflow/tensorflow/blob/1a8e885b864c818198a5b2c0cbbeca5a1e833bc8/tensorflow/lite/kernels/depthwise_conv.cc#L287-L288). An attacker can craft a model such that `input`%s fourth dimension would be 0. The fix will be included in TensorFlow 2.5.0. We will also cherrypick this commit on TensorFlow 2.4.2, TensorFlow 2.3.3, TensorFlow 2.2.3 and TensorFlow 2.1.4, as these are also affected and still in supported range.| 
-| 20210518T16:20:58Z | CVE-2021-28465 | PoC for exploiting CVE-2021-28465 | https://github.com/JamesGeee/CVE-2021-28465 | 未查询到CVE信息| 
+| 20210518T16:20:58Z | CVE-2021-28465 | PoC for exploiting CVE-2021-28465 | https://github.com/JamesGeee/CVE-2021-28465 | Web Media Extensions Remote Code Execution Vulnerability| 
 | 20210518T16:09:16Z | CVE-2020-24421 | PoC for exploiting CVE-2020-24421 | https://github.com/JamesGeee/CVE-2020-24421 | Adobe InDesign version 15.1.2 (and earlier) is affected by a NULL pointer dereference bug that occurs when handling a malformed .indd file. The impact is limited to causing a denial-of-service of the client application. User interaction is required to exploit this issue.| 
 | 20210518T16:09:15Z | CVE-2020-9389 | PoC for exploiting CVE-2020-9389 | https://github.com/JamesGeee/CVE-2020-9389 | A username enumeration issue was discovered in SquaredUp before version 4.6.0. The login functionality was implemented in a way that would enable a malicious user to guess valid username due to a different response time from invalid usernames.| 
 
@@ -100,8 +100,9 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210519T00:58:44Z | Actually run a given promise or mock its outcome based on a given input value | https://github.com/johanfive/backdoor | 0 | 0| 
 | 20210518T23:24:46Z | Backend for our cyber security forum - %Backdoor% | https://github.com/backdoor-epics/backdoor-backend | 0 | 1| 
-| 20210518T22:11:21Z | A simple remote tool written in C#.    一个简单的c#远控 | https://github.com/qwqdanchun/DcRat | 98 | 40| 
+| 20210518T22:11:21Z | A simple remote tool written in C#.    一个简单的c#远控 | https://github.com/qwqdanchun/DcRat | 98 | 41| 
 | 20210518T21:28:59Z | Simple Backdoor Coded in Python | https://github.com/Drew-Alleman/backdoor | 0 | 0| 
 | 20210518T20:34:40Z | You have a Front Door, a Backdoor, why not a SideD00r... | https://github.com/Aaron-Akhtar/SideD00r | 0 | 0| 
 | 20210518T20:31:20Z | React frontend for the cybersecurity forum website - %Backdoor% | https://github.com/backdoor-epics/backdoor-frontend | 0 | 1| 
@@ -109,7 +110,6 @@
 | 20210518T18:46:55Z | Python 3 IRC Bot / Botnet | https://github.com/trackmastersteve/HackServ | 19 | 16| 
 | 20210518T17:14:34Z | Null | https://github.com/connorbuck/backdoor-dispensary-website | 0 | 0| 
 | 20210518T14:55:43Z | Null | https://github.com/Fsoky/BackDoor-Python | 3 | 1| 
-| 20210518T14:44:35Z | A backdoor plugin for Spigot, Paper, and Bukkit! | https://github.com/PythonJoshua/backdoorplugin | 2 | 1| 
 
 
 # fuzz on Github 推荐
