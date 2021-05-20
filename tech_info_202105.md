@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210520T00:51:12Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 16 | 11| 
 | 20210520T00:46:55Z | RomBuster is a RomPager exploitation tool that allows to disclosure network router admin password. | https://github.com/EntySec/RomBuster | 7 | 1| 
 | 20210520T00:38:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9452 | 1527| 
 | 20210520T00:02:27Z | I Have Updated Kernel Exploit For The PS4 Jailbreak Version 5.05 To Fix Crashes And Stability Errors, This is just a temporary project.  | https://github.com/MysticOP/Updated-5.05-Kernel-Exploit-PS4 | 1 | 0| 
@@ -94,7 +95,6 @@
 | 20210519T22:27:07Z | PS4 Exploit Host | https://github.com/Night-King-Host/Night-King-Host.github.io | 8 | 8| 
 | 20210519T21:59:47Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 3 | 1| 
 | 20210519T21:49:37Z | This PoC describe how to exploit XSS on Moodle 3.9.2 with Polyglot payload. | https://github.com/V1n1v131r4/Exploit-XSS-Polyglot-on-Moodle-3.9.2 | 4 | 2| 
-| 20210519T21:07:18Z | HatSploit native powerful payload generation and shellcode injection tool that provides support for common platforms and architectures. | https://github.com/EntySec/HatVenom | 11 | 5| 
 
 
 # backdoor on Github 推荐
