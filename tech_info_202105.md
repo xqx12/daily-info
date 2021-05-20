@@ -85,8 +85,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210520T00:02:27Z | I Have Updated Kernel Exploit For The PS4 Jailbreak Version 5.05 To Fix Crashes And Stability Errors, This is just a temporary project.  | https://github.com/MysticOP/Updated-5.05-Kernel-Exploit-PS4 | 1 | 0| 
 | 20210520T00:01:03Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 23 | 11| 
-| 20210519T23:56:00Z | I Have Updated Kernel Exploit For The PS4 Jailbreak Version 5.05 To Fix Crashes And Stability Errors, This is just a temporary project.  | https://github.com/MysticOP/Updated-5.05-Kernel-Exploit-PS4 | 1 | 0| 
 | 20210519T23:12:42Z | A collection of more than 140+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 672 | 163| 
 | 20210519T23:10:35Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9451 | 1527| 
 | 20210519T22:40:03Z | Null | https://github.com/HarryTheKing1/Harrys-Exploit | 0 | 0| 
