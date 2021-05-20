@@ -49,9 +49,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210520T12:37:42Z | Application pour exploiter les technologies du web sémantique en bibliothèque | https://github.com/hdlkdg/pybrique | 0 | 0| 
 | 20210520T12:35:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9455 | 1527| 
 | 20210520T12:31:20Z | Null | https://github.com/davidberiro/bunny-flashloan-exploit | 0 | 0| 
-| 20210520T12:30:40Z | Application pour exploiter les technologies du web sémantique en bibliothèque | https://github.com/hdlkdg/pybrique | 0 | 0| 
 | 20210520T12:24:19Z | PS1 savegame exploit | https://github.com/socram8888/tonyhax | 276 | 7| 
 | 20210520T12:14:46Z | CAUTION - Malicious files 💀 | https://github.com/Am0rphous/Malware | 19 | 7| 
 | 20210520T12:02:43Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 23 | 11| 
@@ -76,6 +76,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210520T12:35:57Z | My labs | https://github.com/Maythanet/Labs_Fuzzylogic | 0 | 0| 
 | 20210520T12:22:17Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 419 | 34| 
 | 20210520T12:21:38Z | Basic Dashboard Layout | https://github.com/sakshamarya117/fuzzy-octo-train | 0 | 0| 
 | 20210520T12:15:43Z | Dockerised version of Microsoft%s RESTler-fuzzer | https://github.com/monch1962/docker-restler-fuzzer | 0 | 0| 
@@ -85,7 +86,6 @@
 | 20210520T11:05:31Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 301 | 17| 
 | 20210520T11:01:46Z | Null | https://github.com/PubupCreed/fuzzy-palm-tree | 0 | 0| 
 | 20210520T10:30:01Z | Null | https://github.com/l392zhan/AttentionFuzzer | 0 | 0| 
-| 20210520T09:58:31Z | PoC of fuzzing closed-source userspace binaries with KVM | https://github.com/klecko/kvm-fuzz | 62 | 5| 
 
 
 
