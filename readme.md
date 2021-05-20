@@ -49,21 +49,22 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210520T12:49:04Z | Application pour exploiter les technologies du web sémantique en bibliothèque | https://github.com/hdlkdg/pybrique | 0 | 0| 
+| 20210520T12:52:47Z | Fully Persistent & Undetectable Malware Backdoor | https://github.com/raunvk/stealthware-backdoor | 14 | 8| 
+| 20210520T12:52:42Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9456 | 1527| 
+| 20210520T12:52:03Z | Application pour exploiter les technologies du web sémantique en bibliothèque | https://github.com/hdlkdg/pybrique | 0 | 0| 
+| 20210520T12:51:13Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 16 | 11| 
 | 20210520T12:42:50Z | Kernel exploits and writeups | https://github.com/meowmeowxw/kernel-exploits | 4 | 0| 
-| 20210520T12:35:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9455 | 1527| 
 | 20210520T12:31:20Z | Null | https://github.com/davidberiro/bunny-flashloan-exploit | 0 | 0| 
 | 20210520T12:24:19Z | PS1 savegame exploit | https://github.com/socram8888/tonyhax | 276 | 7| 
 | 20210520T12:14:46Z | CAUTION - Malicious files 💀 | https://github.com/Am0rphous/Malware | 19 | 7| 
 | 20210520T12:02:43Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 23 | 11| 
 | 20210520T11:42:04Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
-| 20210520T10:32:20Z | Null | https://github.com/MTK-bypass/exploits_collection | 90 | 42| 
-| 20210520T10:17:19Z | A tool for remote ADB exploitation in Python3 for all Machines. | https://github.com/aerosol-can/PhoneSploit | 171 | 79| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210520T12:52:47Z | Fully Persistent & Undetectable Malware Backdoor | https://github.com/raunvk/stealthware-backdoor | 14 | 8| 
 | 20210520T09:23:46Z | A PHP backdoor management and generation tool/C2 featuring end to end encrypted payload streaming designed to bypass WAF, IDS, SIEM systems. | https://github.com/gellin/bantam | 186 | 28| 
 | 20210520T08:01:48Z | React frontend for the cybersecurity forum website - %Backdoor% | https://github.com/backdoor-epics/backdoor-frontend | 0 | 1| 
 | 20210520T05:26:58Z | Actually run a given promise or mock its outcome based on a given input value | https://github.com/johanfive/backdoor | 0 | 0| 
