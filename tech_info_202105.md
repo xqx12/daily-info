@@ -116,8 +116,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210520T12:17:23Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 419 | 34| 
 | 20210520T12:15:43Z | Dockerised version of Microsoft%s RESTler-fuzzer | https://github.com/monch1962/docker-restler-fuzzer | 0 | 0| 
-| 20210520T12:13:11Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 419 | 34| 
 | 20210520T11:30:00Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3513 | 815| 
 | 20210520T11:25:39Z | Fuzzy Logic for Python 3 | https://github.com/amogorkon/fuzzylogic | 22 | 10| 
 | 20210520T11:13:21Z | Null | https://github.com/Greywolf-edu/Fuzzy | 0 | 0| 
