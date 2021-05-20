@@ -54,8 +54,8 @@
 | 20210519T03:01:43Z | CVE-2021-31320 | PoC for exploiting CVE-2021-31320 | https://github.com/JamesGeee/CVE-2021-31320 | Telegram Android <7.1.0 (2090), Telegram iOS <7.1, and Telegram macOS <7.1 are affected by a Heap Buffer Overflow in the VGradientCache::generateGradientColorTable function of their custom fork of the rlottie library. A remote attacker might be able to overwrite heap memory out-of-bounds on a victim device via a malicious animated sticker.| 
 | 20210519T03:01:39Z | CVE-2021-31319 | PoC for exploiting CVE-2021-31319 | https://github.com/JamesGeee/CVE-2021-31319 | Telegram Android <7.1.0 (2090), Telegram iOS <7.1, and Telegram macOS <7.1 are affected by an Integer Overflow in the LOTGradient::populate function of their custom fork of the rlottie library. A remote attacker might be able to access heap memory out-of-bounds on a victim device via a malicious animated sticker.| 
 | 20210519T03:01:08Z | CVE-2021-31318 | PoC for exploiting CVE-2021-31318 | https://github.com/JamesGeee/CVE-2021-31318 | Telegram Android <7.1.0 (2090), Telegram iOS <7.1, and Telegram macOS <7.1 are affected by a Type Confusion in the LOTCompLayerItem::LOTCompLayerItem function of their custom fork of the rlottie library. A remote attacker might be able to access heap memory out-of-bounds on a victim device via a malicious animated sticker.| 
-| 20210519T03:00:28Z | CVE-2021-31317 | PoC for exploiting CVE-2021-31317 | https://github.com/JamesGeee/CVE-2021-31317 | Telegram Android <7.1.0 (2090), Telegram iOS <7.1, and Telegram macOS <7.1 are affected by a Type Confusion in the VDasher constructor of their custom fork of the rlottie library. A remote attacker might be able to access Telegram%s heap memory out-of-bounds on a victim device via a malicious animated sticker.| 
-| 20210519T03:00:24Z | CVE-2021-31316 | PoC for exploiting CVE-2021-31316 | https://github.com/JamesGeee/CVE-2021-31316 | | 
+| 20210519T03:00:28Z | CVE-2021-31317 | PoC for exploiting CVE-2021-31317 | https://github.com/JamesGeee/CVE-2021-31317 | | 
+| 20210519T03:00:24Z | CVE-2021-31316 | PoC for exploiting CVE-2021-31316 | https://github.com/JamesGeee/CVE-2021-31316 | The unprivileged user portal part of CentOS Web Panel is affected by a SQL Injection via the %idsession% HTTP POST parameter.| 
 
 
 # klee on Github 推荐
@@ -85,7 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210520T01:30:21Z | A collection of intentionally vulnerable pieces of code used to demonstrate different insecure programming practices, how they can be exploited and how they can be fixed, | https://github.com/ColourLaserPrinterWithDuplexPrint/VulnerableByDesign | 0 | 0| 
+| 20210520T01:31:59Z | A collection of intentionally vulnerable pieces of code used to demonstrate different insecure programming practices, how they can be exploited and how they can be fixed, | https://github.com/ColourLaserPrinterWithDuplexPrint/VulnerableByDesign | 0 | 0| 
 | 20210520T01:23:15Z | An enumeration tool for post exploitation that you can use to gather information about the machine and its network. | https://github.com/0x1CA3/AutoEnum | 0 | 0| 
 | 20210520T01:19:24Z | Execute these commands one by one to install DarlSploit. $ apt update  $ apt upgrade $ apt install git $ apt install python $ apt install python2 $ git clone https://github.com/LOoLzeC/DarkSploit $ cd DarkSploit $ cd install $ sh installtermux.sh $ pip2 install -r requirements.txt $ cd .. Now Run DarkSploit :  python2 DrXp.py DarkSploit commands : $ show options $ show exploits $ use exploits Here you get all options to use this tool. | https://github.com/MrxKevin/Darksploit | 0 | 0| 
 | 20210520T01:00:25Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 23 | 11| 
