@@ -51,7 +51,7 @@
 | 20210519T09:45:19Z | 未知编号 | Null | https://github.com/Jauler/cve2021-3156-sudo-heap-overflow | 未查询到CVE信息| 
 | 20210519T08:39:46Z | CVE-2021-31166 | simple bash script for exploit CVE-2021-31166 | https://github.com/zecopro/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
 | 20210519T06:31:34Z | CVE-2021- | Null | https://github.com/pipiping/CVE-2021-CVEceshi | 未查询到CVE信息| 
-| 20210519T03:01:46Z | CVE-2021-31321 | PoC for exploiting CVE-2021-31321 | https://github.com/JamesGeee/CVE-2021-31321 | Telegram Android <7.1.0 (2090), Telegram iOS <7.1, and Telegram macOS <7.1 are affected by a Stack Based Overflow in the gray_split_cubic function of their custom fork of the rlottie library. A remote attacker might be able to overwrite Telegram%s stack memory out-of-bounds on a victim device via a malicious animated sticker.| 
+| 20210519T03:01:46Z | CVE-2021-31321 | PoC for exploiting CVE-2021-31321 | https://github.com/JamesGeee/CVE-2021-31321 | | 
 | 20210519T03:01:43Z | CVE-2021-31320 | PoC for exploiting CVE-2021-31320 | https://github.com/JamesGeee/CVE-2021-31320 | Telegram Android <7.1.0 (2090), Telegram iOS <7.1, and Telegram macOS <7.1 are affected by a Heap Buffer Overflow in the VGradientCache::generateGradientColorTable function of their custom fork of the rlottie library. A remote attacker might be able to overwrite heap memory out-of-bounds on a victim device via a malicious animated sticker.| 
 | 20210519T03:01:39Z | CVE-2021-31319 | PoC for exploiting CVE-2021-31319 | https://github.com/JamesGeee/CVE-2021-31319 | Telegram Android <7.1.0 (2090), Telegram iOS <7.1, and Telegram macOS <7.1 are affected by an Integer Overflow in the LOTGradient::populate function of their custom fork of the rlottie library. A remote attacker might be able to access heap memory out-of-bounds on a victim device via a malicious animated sticker.| 
 | 20210519T03:01:08Z | CVE-2021-31318 | PoC for exploiting CVE-2021-31318 | https://github.com/JamesGeee/CVE-2021-31318 | Telegram Android <7.1.0 (2090), Telegram iOS <7.1, and Telegram macOS <7.1 are affected by a Type Confusion in the LOTCompLayerItem::LOTCompLayerItem function of their custom fork of the rlottie library. A remote attacker might be able to access heap memory out-of-bounds on a victim device via a malicious animated sticker.| 
@@ -116,16 +116,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210520T01:51:06Z | CS 4152 Project | https://github.com/nicbarone/Fuzzy-Kiwi | 0 | 0| 
-| 20210520T01:39:02Z | Null | https://github.com/opimentel-github/fuzzy-torch | 1 | 0| 
-| 20210520T01:31:10Z | Fuzzer for Dolt repositories | https://github.com/dolthub/fuzzer | 2 | 0| 
-| 20210520T01:15:30Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
-| 20210520T00:57:01Z | Poke-a-square | https://github.com/nataliesmyth/fuzzy-octo-memory | 0 | 0| 
-| 20210520T00:54:50Z | Generator of random circuits | https://github.com/drom/circt-fuzzer | 1 | 0| 
-| 20210520T00:51:44Z | Fuzzing harnesses, corpora, scripts, and target-specific notes for fuzzing IrfanView | https://github.com/moshekaplan/FuzzIrfanView | 6 | 1| 
-| 20210520T00:19:02Z | Null | https://github.com/burczyj/fuzzy-lamp | 0 | 0| 
-| 20210520T00:07:17Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 7 | 5| 
-| 20210520T00:01:08Z | Null | https://github.com/aplawson7707/fuzzy_matching | 0 | 0| 
+| 20210520T12:15:43Z | Dockerised version of Microsoft%s RESTler-fuzzer | https://github.com/monch1962/docker-restler-fuzzer | 0 | 0| 
+| 20210520T12:13:11Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 419 | 34| 
+| 20210520T11:30:00Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3513 | 815| 
+| 20210520T11:25:39Z | Fuzzy Logic for Python 3 | https://github.com/amogorkon/fuzzylogic | 22 | 10| 
+| 20210520T11:13:21Z | Null | https://github.com/Greywolf-edu/Fuzzy | 0 | 0| 
+| 20210520T11:05:31Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 301 | 17| 
+| 20210520T11:01:46Z | Null | https://github.com/PubupCreed/fuzzy-palm-tree | 0 | 0| 
+| 20210520T10:30:01Z | Null | https://github.com/l392zhan/AttentionFuzzer | 0 | 0| 
+| 20210520T09:58:31Z | PoC of fuzzing closed-source userspace binaries with KVM | https://github.com/klecko/kvm-fuzz | 62 | 5| 
+| 20210520T09:53:45Z | Null | https://github.com/kinzhong/JS_Fuzzing | 0 | 0| 
 
 
 
