@@ -6,6 +6,15 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210520 | CTF Wiki - CTF 方向的技术知识社区 | https://ctf-wiki.org/| 
+| 20210520 | Alex 开源的 Local OXID 解析工具 | https://github.com/ionescu007/hazmat5| 
+| 20210520 | Windows Defender 反病毒数据库文件格式的介绍 | https://github.com/commial/experiments/tree/master/windows-defender/VDM| 
+| 20210520 | 通过导入 Key Log File 的方式利用 Wireshark 解密 HTTPS 加密流量 | https://unit42.paloaltonetworks.com/wireshark-tutorial-decrypting-https-traffic/| 
+| 20210520 | How to Silver Ticket Attack Active directory | https://sheerazali.com/how-to-silver-ticket-attack-active-directory/| 
+| 20210520 | XuCode - Intel 实现的一套用于辅助开发 Intel SGX 的技术 | https://software.intel.com/content/www/us/en/develop/articles/software-security-guidance/secure-coding/xucode-implementing-complex-instruction-flows.html| 
+| 20210520 | Google I/O 大会上关于 Android 12 安全性的视频 | https://www.youtube.com/watch?v=qHFsMRfnOWk&list=RDCMUCVHFbqXqoYvEWM1Ddxl0QDg| 
+| 20210520 | 一次对WPS漏洞挖掘的尝试 | https://www.anquanke.com/post/id/240938| 
+| 20210520 | GitHub 为开源项目 Repos 搭建了一个漏洞公告数据库 | https://github.com/advisories| 
 | 20210519 | uCodeDisasm - Dmitry Sklyarov 等研究员将近几年对 Intel 处理器微码的研究资料和工具开源了 | https://github.com/chip-red-pill/uCodeDisasm| 
 | 20210519 | Windows 10 21H1 版本将要引入的 Mitigation - eXtended Flow Guard (XFG) 的介绍 | https://www.offensive-security.com/offsec/extended-flow-guard/| 
 | 20210519 | Discovering and exploiting McAfee COM-objects (CVE-2021-23874) | https://the-deniss.github.io/posts/2021/05/17/discovering-and-exploiting-mcafee-com-objects.html| 
@@ -17,20 +26,13 @@
 | 20210519 | 如何编写VB6的 P-Code调试器。 | https://decoded.avast.io/davidzimmer/writing-a-vb6-p-code-debugger/| 
 | 20210518 | Roku 机顶盒 RokuOS v9.4.0 build 4200 版本越狱 Exploit | https://github.com/llamasoft/RootMyRoku| 
 | 20210518 | 恶意软件开发者滥用 PE 文件格式特性实现 GetProcAddress 欺骗 | https://dennisbabkin.com/blog/?t=malware-researchers-beware-of-getprocaddress-spoofing| 
-| 20210518 | iOS 14.5 如何用 PAC 保护 Objective-C 对象 | https://mp.weixin.qq.com/s/VsqnWo6HGQT5LXdulpcaGg| 
-| 20210518 | 如何从 Windows 截屏保存的图片中检测泄露的密码，CTF Writeup | https://lkmidas.github.io/posts/20210517-omhctf2021-writeups/| 
-| 20210518 | DNS 安全进化 - DNS 协议中的信任问题 | https://ripe82.ripe.net/wp-content/uploads/presentations/18-huston-dns-evolution.pdf| 
-| 20210518 | ESET 团队对 Android 平台的监视 App 进行研究，在 58 款监视 App 中总计发现了 150 多个漏洞，这些漏洞进一步会对用户造成危害。 | https://www.welivesecurity.com/2021/05/17/android-stalkerware-threatens-victims-further-exposes-snoopers-themselves/| 
-| 20210518 | 研究员 Dmytro Oleksiuk 开源了一个工具库，帮助在开启 Hyper-V HVCI 硬件保护特性的机器上辅助编写 Payload 的工具 | https://github.com/Cr4sh/KernelForge/| 
-| 20210518 | 利用 cgroups 的机制实现 Docker 容器逃逸 | https://0xdf.gitlab.io/2021/05/17/digging-into-cgroups.html| 
-| 20210518 | RedWarden - Flexible CobaltStrike Malleable Redirector | https://github.com/mgeeky/RedWarden| 
-| 20210518 | Finding writable folders and hijackable DLLs. | https://medium.com/@markmotig/finding-writable-folders-and-hijackable-dlls-3594a9a0b1c8| 
-| 20210518 | 针对PHP Web Shell Hexedglobals.3793系列恶意软件分析溯源。 | https://labs.detectify.com/2019/05/24/investigation-of-php-web-shell-hexedglobals-3793-variants/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210520 | 利用云函数（SCF）打造海量代理池 | https://mp.weixin.qq.com/s/yYCJEpnp04oQFVqMz-G3bg| 
+| 20210520 | 软件质量指标自动度量方法 | https://www.aqniu.com/vendor/74278.html| 
 | 20210519 | 堆的largebin attack利用 | https://www.sec-in.com/article/1060| 
 | 20210519 | 图神经网络的解释性综述 | https://mp.weixin.qq.com/s/pI9xvY2MjcEiLFdO2WDGtA| 
 | 20210519 | 红帽杯 - WriteUp | https://mp.weixin.qq.com/s/eMJ-tQ4qkTWpJBK244EOzQ| 
@@ -39,13 +41,12 @@
 | 20210519 | 十四五”时期网络安全建设解读与践行 | https://mp.weixin.qq.com/s/pIXHiv0IhsTkecX0oz0o1g| 
 | 20210519 | 漏洞自动化利用（AEG）研究进展 | https://mp.weixin.qq.com/s/4BDN2NBNb9CLFci4RhJcdg| 
 | 20210518 | Domain Borrowing: 一种基于CDN的新型隐蔽通信方法 | https://xlab.tencent.com/cn/2021/05/14/domain-borrowing/| 
-| 20210518 | 另类的dex代码保护方法 | https://mp.weixin.qq.com/s/Efa0Dw8yCH_nojSwof0XYQ| 
-| 20210517 | SecWiki周刊（第376期) | https://www.sec-wiki.com/weekly/376| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210520T11:42:10Z | CVE-2021-31166 | Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely. | https://github.com/0vercl0k/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
 | 20210519T19:38:06Z | CVE-2021-31166 | HTTP Protocol Stack CVE-2021-31166 | https://github.com/corelight/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
 | 20210519T09:45:19Z | 未知编号 | Null | https://github.com/Jauler/cve2021-3156-sudo-heap-overflow | 未查询到CVE信息| 
 | 20210519T08:39:46Z | CVE-2021-31166 | simple bash script for exploit CVE-2021-31166 | https://github.com/zecopro/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
@@ -55,27 +56,27 @@
 | 20210519T03:01:39Z | CVE-2021-31319 | PoC for exploiting CVE-2021-31319 | https://github.com/JamesGeee/CVE-2021-31319 | Telegram Android <7.1.0 (2090), Telegram iOS <7.1, and Telegram macOS <7.1 are affected by an Integer Overflow in the LOTGradient::populate function of their custom fork of the rlottie library. A remote attacker might be able to access heap memory out-of-bounds on a victim device via a malicious animated sticker.| 
 | 20210519T03:01:08Z | CVE-2021-31318 | PoC for exploiting CVE-2021-31318 | https://github.com/JamesGeee/CVE-2021-31318 | Telegram Android <7.1.0 (2090), Telegram iOS <7.1, and Telegram macOS <7.1 are affected by a Type Confusion in the LOTCompLayerItem::LOTCompLayerItem function of their custom fork of the rlottie library. A remote attacker might be able to access heap memory out-of-bounds on a victim device via a malicious animated sticker.| 
 | 20210519T03:00:28Z | CVE-2021-31317 | PoC for exploiting CVE-2021-31317 | https://github.com/JamesGeee/CVE-2021-31317 | Telegram Android <7.1.0 (2090), Telegram iOS <7.1, and Telegram macOS <7.1 are affected by a Type Confusion in the VDasher constructor of their custom fork of the rlottie library. A remote attacker might be able to access Telegram%s heap memory out-of-bounds on a victim device via a malicious animated sticker.| 
-| 20210519T03:00:24Z | CVE-2021-31316 | PoC for exploiting CVE-2021-31316 | https://github.com/JamesGeee/CVE-2021-31316 | The unprivileged user portal part of CentOS Web Panel is affected by a SQL Injection via the %idsession% HTTP POST parameter.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210520T10:04:34Z | klee-2.2 | https://github.com/bruceday/klee-2.2 | 0 | 0| 
+| 20210520T09:08:07Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 616 | 14| 
+| 20210520T06:24:30Z | OVO | https://github.com/iKleeOVO/iKleeOVO.github.io | 0 | 1| 
 | 20210519T22:33:48Z | Null | https://github.com/KLEEEN-SOFTWARE/Kleeen-svgs | 0 | 0| 
 | 20210519T17:04:51Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 136 | 13| 
 | 20210519T16:41:59Z | Null | https://github.com/BajacDev/rust-klee-docker | 1 | 0| 
-| 20210519T14:08:25Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 613 | 14| 
 | 20210519T13:10:18Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
 | 20210519T12:36:09Z | klee.js is a (data driven) generator and wrapper for the magnificent three.js | https://github.com/trenc/klee.js | 1 | 0| 
 | 20210519T11:56:29Z | It failed to generate TC by KLEE when execute 32 bit bc file on Ubuntu 18.04 | https://github.com/Elaine0122/klee-runs-on-ubuntu-18.04-course | 0 | 0| 
 | 20210519T11:56:15Z | The template repository for the KLEE runs on Ubuntu 18.04 course on Learning Lab. | https://github.com/Elaine0122/klee-runs-on-ubuntu-18.04-template | 0 | 0| 
-| 20210519T08:32:53Z | 99484 A & C team Worlds Code for 2021 Live-Remote Skills | https://github.com/Jython1415/penguin-Klee | 1 | 0| 
-| 20210519T07:48:41Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 216 | 35| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210520T08:18:46Z | GUI Configuration tool for WIZnet serial to ethernet devices. | https://github.com/Wiznet/WIZnet-S2E-Tool-GUI | 12 | 7| 
 | 20210519T02:23:18Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 122 | 30| 
 | 20210518T05:02:41Z | Null | https://github.com/Hamzaawan1/s2exam | 0 | 0| 
 | 20210514T02:29:03Z | cicd logic and gitlab&github runner&jenkins agent container, centos base ,whith jdk/python/go, maven/npm,/kubectl/helm | https://github.com/chimeh/cicd-s2e-runner | 1 | 0| 
@@ -85,31 +86,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210520T01:39:31Z | Execute these commands one by one to install DarlSploit. $ apt update  $ apt upgrade $ apt install git $ apt install python $ apt install python2 $ git clone https://github.com/LOoLzeC/DarkSploit $ cd DarkSploit $ cd install $ sh installtermux.sh $ pip2 install -r requirements.txt $ cd .. Now Run DarkSploit :  python2 DrXp.py DarkSploit commands : $ show options $ show exploits $ use exploits Here you get all options to use this tool. | https://github.com/MrxKevin/Darksploit | 1 | 0| 
-| 20210520T01:39:01Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 304 | 42| 
-| 20210520T01:33:05Z | A collection of intentionally vulnerable pieces of code used to demonstrate different insecure programming practices, how they can be exploited and how they can be fixed, | https://github.com/ColourLaserPrinterWithDuplexPrint/VulnerableByDesign | 0 | 0| 
-| 20210520T01:23:15Z | An enumeration tool for post exploitation that you can use to gather information about the machine and its network. | https://github.com/0x1CA3/AutoEnum | 0 | 0| 
-| 20210520T01:00:25Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 23 | 11| 
-| 20210520T00:51:12Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 16 | 11| 
-| 20210520T00:46:55Z | RomBuster is a RomPager exploitation tool that allows to disclosure network router admin password. | https://github.com/EntySec/RomBuster | 7 | 1| 
-| 20210520T00:38:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9452 | 1527| 
-| 20210520T00:02:27Z | I Have Updated Kernel Exploit For The PS4 Jailbreak Version 5.05 To Fix Crashes And Stability Errors, This is just a temporary project.  | https://github.com/MysticOP/Updated-5.05-Kernel-Exploit-PS4 | 1 | 0| 
-| 20210519T23:12:42Z | A collection of more than 140+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 672 | 163| 
+| 20210520T11:53:17Z | Application pour exploiter les technologies du web sémantique en bibliothèque | https://github.com/hdlkdg/pybrique | 0 | 0| 
+| 20210520T11:42:04Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
+| 20210520T11:05:27Z | Null | https://github.com/davidberiro/bunny-flashloan-exploit | 0 | 0| 
+| 20210520T11:02:42Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 23 | 11| 
+| 20210520T10:32:20Z | Null | https://github.com/MTK-bypass/exploits_collection | 90 | 42| 
+| 20210520T10:17:19Z | A tool for remote ADB exploitation in Python3 for all Machines. | https://github.com/aerosol-can/PhoneSploit | 171 | 79| 
+| 20210520T10:15:21Z | Exploit for Roblox for using commands .lua and more ! | https://github.com/DarknessTeamRoblox/DarknessSploit | 0 | 0| 
+| 20210520T08:58:54Z | NuclearGravity is a game about gravity, and exploiting it to your advantage, just like everything else humanity touches | https://github.com/Madiwka4/NuclearGravity | 2 | 0| 
+| 20210520T08:02:26Z | Greed is Good: Exploration and Exploitation Trade-offs in Bayesian Optimisation | https://github.com/georgedeath/egreedy | 3 | 0| 
+| 20210520T07:54:19Z |  Just another project for monitoring public exploits for CVEs | https://github.com/ARPSyndicate/cvemon | 13 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210520T09:23:46Z | A PHP backdoor management and generation tool/C2 featuring end to end encrypted payload streaming designed to bypass WAF, IDS, SIEM systems. | https://github.com/gellin/bantam | 186 | 28| 
+| 20210520T08:01:48Z | React frontend for the cybersecurity forum website - %Backdoor% | https://github.com/backdoor-epics/backdoor-frontend | 0 | 1| 
+| 20210520T05:26:58Z | Actually run a given promise or mock its outcome based on a given input value | https://github.com/johanfive/backdoor | 0 | 0| 
+| 20210520T03:29:02Z | Simple Python Backdoor | https://github.com/zNairy/Sonaris | 6 | 0| 
 | 20210520T01:49:43Z | Text-based adventure based on Black Hills Information Security%s %Backdoors and Breaches% | https://github.com/mttaggart/bnb-py | 2 | 0| 
-| 20210520T01:27:31Z | A simple remote tool written in C#.    一个简单的c#远控 | https://github.com/qwqdanchun/DcRat | 100 | 42| 
+| 20210520T01:27:31Z | A simple remote tool written in C#.    一个简单的c#远控 | https://github.com/qwqdanchun/DcRat | 100 | 43| 
 | 20210520T01:08:53Z | A Backdoor made from my malware development notes. | https://github.com/0x1CA3/backdoor | 2 | 0| 
-| 20210519T23:57:50Z | Simple Python Backdoor | https://github.com/zNairy/Sonaris | 6 | 0| 
 | 20210519T23:49:09Z | Backend for our cyber security forum - %Backdoor% | https://github.com/backdoor-epics/backdoor-backend | 0 | 1| 
 | 20210519T20:06:38Z | Null | https://github.com/ThunderScripts/backdoor | 0 | 0| 
 | 20210519T18:53:25Z | Python 3 IRC Bot / Botnet | https://github.com/trackmastersteve/HackServ | 20 | 16| 
-| 20210519T17:54:51Z | Null | https://github.com/danchik1155/BackdoorIstok | 0 | 0| 
-| 20210519T15:20:08Z | unlock the advanced menu of Lenovo Yoga Slim 7 BIOS | https://github.com/esno/yoga-bios-unlock | 27 | 2| 
-| 20210519T08:19:41Z | Examples of how to use backdoors in appium using espresso driver | https://github.com/rajdeepv/appium_backdoors | 2 | 2| 
 
 
 # fuzz on Github 推荐
