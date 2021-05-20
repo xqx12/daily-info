@@ -38,7 +38,7 @@
 | 20210519T06:31:34Z | CVE-2021- | Null | https://github.com/pipiping/CVE-2021-CVEceshi | 未查询到CVE信息| 
 | 20210519T03:01:46Z | CVE-2021-31321 | PoC for exploiting CVE-2021-31321 | https://github.com/JamesGeee/CVE-2021-31321 | Telegram Android <7.1.0 (2090), Telegram iOS <7.1, and Telegram macOS <7.1 are affected by a Stack Based Overflow in the gray_split_cubic function of their custom fork of the rlottie library. A remote attacker might be able to overwrite Telegram%s stack memory out-of-bounds on a victim device via a malicious animated sticker.| 
 | 20210519T03:01:43Z | CVE-2021-31320 | PoC for exploiting CVE-2021-31320 | https://github.com/JamesGeee/CVE-2021-31320 | Telegram Android <7.1.0 (2090), Telegram iOS <7.1, and Telegram macOS <7.1 are affected by a Heap Buffer Overflow in the VGradientCache::generateGradientColorTable function of their custom fork of the rlottie library. A remote attacker might be able to overwrite heap memory out-of-bounds on a victim device via a malicious animated sticker.| 
-| 20210519T03:01:39Z | CVE-2021-31319 | PoC for exploiting CVE-2021-31319 | https://github.com/JamesGeee/CVE-2021-31319 | | 
+| 20210519T03:01:39Z | CVE-2021-31319 | PoC for exploiting CVE-2021-31319 | https://github.com/JamesGeee/CVE-2021-31319 | Telegram Android <7.1.0 (2090), Telegram iOS <7.1, and Telegram macOS <7.1 are affected by an Integer Overflow in the LOTGradient::populate function of their custom fork of the rlottie library. A remote attacker might be able to access heap memory out-of-bounds on a victim device via a malicious animated sticker.| 
 | 20210519T03:01:08Z | CVE-2021-31318 | PoC for exploiting CVE-2021-31318 | https://github.com/JamesGeee/CVE-2021-31318 | Telegram Android <7.1.0 (2090), Telegram iOS <7.1, and Telegram macOS <7.1 are affected by a Type Confusion in the LOTCompLayerItem::LOTCompLayerItem function of their custom fork of the rlottie library. A remote attacker might be able to access heap memory out-of-bounds on a victim device via a malicious animated sticker.| 
 | 20210519T03:00:28Z | CVE-2021-31317 | PoC for exploiting CVE-2021-31317 | https://github.com/JamesGeee/CVE-2021-31317 | Telegram Android <7.1.0 (2090), Telegram iOS <7.1, and Telegram macOS <7.1 are affected by a Type Confusion in the VDasher constructor of their custom fork of the rlottie library. A remote attacker might be able to access Telegram%s heap memory out-of-bounds on a victim device via a malicious animated sticker.| 
 | 20210519T03:00:24Z | CVE-2021-31316 | PoC for exploiting CVE-2021-31316 | https://github.com/JamesGeee/CVE-2021-31316 | The unprivileged user portal part of CentOS Web Panel is affected by a SQL Injection via the %idsession% HTTP POST parameter.| 
@@ -90,9 +90,9 @@
 | 20210519T17:54:51Z | Null | https://github.com/danchik1155/BackdoorIstok | 0 | 0| 
 | 20210519T15:20:08Z | unlock the advanced menu of Lenovo Yoga Slim 7 BIOS | https://github.com/esno/yoga-bios-unlock | 27 | 2| 
 | 20210519T08:19:41Z | Examples of how to use backdoors in appium using espresso driver | https://github.com/rajdeepv/appium_backdoors | 2 | 2| 
-| 20210519T06:30:31Z | A simple remote tool written in C#.    一个简单的c#远控 | https://github.com/qwqdanchun/DcRat | 99 | 42| 
 | 20210519T06:16:38Z | Actually run a given promise or mock its outcome based on a given input value | https://github.com/johanfive/backdoor | 0 | 0| 
 | 20210519T06:14:05Z | Null | https://github.com/Ding-Rui-hust/Research-on-backdoor-attack-in-Brain-Computer-interface | 0 | 0| 
+| 20210519T03:04:06Z | Null | https://github.com/yl7344/Backdoor-Detection-and-Adversarial-Retraining | 0 | 0| 
 
 
 # fuzz on Github 推荐
