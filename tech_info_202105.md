@@ -47,7 +47,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210520T11:42:10Z | CVE-2021-31166 | Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely. | https://github.com/0vercl0k/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
-| 20210519T19:38:06Z | CVE-2021-31166 | HTTP Protocol Stack CVE-2021-31166 | https://github.com/corelight/CVE-2021-31166 | | 
+| 20210519T19:38:06Z | CVE-2021-31166 | HTTP Protocol Stack CVE-2021-31166 | https://github.com/corelight/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
 | 20210519T09:45:19Z | 未知编号 | Null | https://github.com/Jauler/cve2021-3156-sudo-heap-overflow | 未查询到CVE信息| 
 | 20210519T08:39:46Z | CVE-2021-31166 | simple bash script for exploit CVE-2021-31166 | https://github.com/zecopro/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
 | 20210519T06:31:34Z | CVE-2021- | Null | https://github.com/pipiping/CVE-2021-CVEceshi | 未查询到CVE信息| 
@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210520T12:24:19Z | PS1 savegame exploit | https://github.com/socram8888/tonyhax | 276 | 7| 
 | 20210520T12:14:46Z | CAUTION - Malicious files 💀 | https://github.com/Am0rphous/Malware | 19 | 7| 
 | 20210520T12:02:43Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 23 | 11| 
 | 20210520T11:53:17Z | Application pour exploiter les technologies du web sémantique en bibliothèque | https://github.com/hdlkdg/pybrique | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20210520T10:17:19Z | A tool for remote ADB exploitation in Python3 for all Machines. | https://github.com/aerosol-can/PhoneSploit | 171 | 79| 
 | 20210520T10:15:21Z | Exploit for Roblox for using commands .lua and more ! | https://github.com/DarknessTeamRoblox/DarknessSploit | 0 | 0| 
 | 20210520T08:58:54Z | NuclearGravity is a game about gravity, and exploiting it to your advantage, just like everything else humanity touches | https://github.com/Madiwka4/NuclearGravity | 2 | 0| 
-| 20210520T08:02:26Z | Greed is Good: Exploration and Exploitation Trade-offs in Bayesian Optimisation | https://github.com/georgedeath/egreedy | 3 | 0| 
 
 
 # backdoor on Github 推荐
