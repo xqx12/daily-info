@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210520T01:16:03Z | An enumeration tool for post exploitation that you can use to gather information about the machine and its network. | https://github.com/0x1CA3/AutoEnum | 0 | 0| 
 | 20210520T01:00:25Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 23 | 11| 
 | 20210520T00:51:12Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 16 | 11| 
 | 20210520T00:46:55Z | RomBuster is a RomPager exploitation tool that allows to disclosure network router admin password. | https://github.com/EntySec/RomBuster | 7 | 1| 
@@ -94,7 +95,6 @@
 | 20210519T22:40:03Z | Null | https://github.com/HarryTheKing1/Harrys-Exploit | 0 | 0| 
 | 20210519T22:27:07Z | PS4 Exploit Host | https://github.com/Night-King-Host/Night-King-Host.github.io | 8 | 8| 
 | 20210519T21:59:47Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 3 | 1| 
-| 20210519T21:49:37Z | This PoC describe how to exploit XSS on Moodle 3.9.2 with Polyglot payload. | https://github.com/V1n1v131r4/Exploit-XSS-Polyglot-on-Moodle-3.9.2 | 4 | 2| 
 
 
 # backdoor on Github 推荐
