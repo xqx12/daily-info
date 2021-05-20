@@ -49,6 +49,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210520T12:35:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9455 | 1527| 
 | 20210520T12:31:20Z | Null | https://github.com/davidberiro/bunny-flashloan-exploit | 0 | 0| 
 | 20210520T12:30:40Z | Application pour exploiter les technologies du web sémantique en bibliothèque | https://github.com/hdlkdg/pybrique | 0 | 0| 
 | 20210520T12:24:19Z | PS1 savegame exploit | https://github.com/socram8888/tonyhax | 276 | 7| 
@@ -58,7 +59,6 @@
 | 20210520T10:32:20Z | Null | https://github.com/MTK-bypass/exploits_collection | 90 | 42| 
 | 20210520T10:17:19Z | A tool for remote ADB exploitation in Python3 for all Machines. | https://github.com/aerosol-can/PhoneSploit | 171 | 79| 
 | 20210520T10:15:21Z | Exploit for Roblox for using commands .lua and more ! | https://github.com/DarknessTeamRoblox/DarknessSploit | 0 | 0| 
-| 20210520T08:58:54Z | NuclearGravity is a game about gravity, and exploiting it to your advantage, just like everything else humanity touches | https://github.com/Madiwka4/NuclearGravity | 2 | 0| 
 
 
 # backdoor on Github 推荐
