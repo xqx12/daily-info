@@ -24,10 +24,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210521T12:24:52Z | CVE-2021-21551 | Null | https://github.com/ch3rn0byl/CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
+| 20210521T12:39:26Z | CVE-2021-21551 | Null | https://github.com/ch3rn0byl/CVE-2021-21551 | | 
 | 20210521T10:07:26Z | CVE-2021-31166 | Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely. | https://github.com/0vercl0k/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
 | 20210521T08:18:04Z | CVE-2021-21551 | Exploit to SYSTEM for CVE-2021-21551 | https://github.com/waldo-irc/CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
-| 20210521T07:43:39Z | CVE-2021-28482 | Null | https://github.com/KevinWorst/CVE-2021-28482_Exploits | | 
+| 20210521T07:43:39Z | CVE-2021-28482 | Null | https://github.com/KevinWorst/CVE-2021-28482_Exploits | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-28480, CVE-2021-28481, CVE-2021-28483.| 
 | 20210521T00:17:38Z | CVE-2021-22204 | POC for exiftool vuln (CVE-2021-22204). | https://github.com/bilkoh/POC-CVE-2021-22204 | Improper neutralization of user data in the DjVu file format in ExifTool versions 7.44 and up allows arbitrary code execution when parsing the malicious image| 
 
 
@@ -50,8 +50,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210521T12:39:44Z | A very common Wi-Fi attack is Evil Twin, so our detection system exploit Scapy library Packages in order to extract the Access Point%s features. | https://github.com/Said49/Evil-Twin-Attack-Detection- | 0 | 0| 
 | 20210521T12:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9465 | 1530| 
-| 20210521T12:32:07Z | A very common Wi-Fi attack is Evil Twin, so our detection system exploit Scapy library Packages in order to extract the Access Point%s features. | https://github.com/Said49/Evil-Twin-Attack-Detection- | 0 | 0| 
 | 20210521T12:19:04Z | Exploit | https://github.com/SulhExploit/Expoit | 0 | 0| 
 | 20210521T12:09:11Z | Config files for my GitHub profile. | https://github.com/SulhExploit/SulhExploit | 0 | 0| 
 | 20210521T12:07:59Z | An enumeration tool for post exploitation that you can use to gather information about your target machine and its network. | https://github.com/0x1CA3/AutoEnum | 0 | 0| 
