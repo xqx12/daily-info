@@ -50,13 +50,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210521T01:16:37Z | %The software will be building a network server from scratch that at startup will have the ability to selectively enable insecure portions of code that can be exploited. The software could be developed as a honeypot for detection of exploitation attempts within a network and/or as a practice server for pentesters.  The project may also need to develop companion software that can test the code, or collect logs from the server.% | https://github.com/TimHanneman/Multi_Purpose_Exploitable_Server | 0 | 0| 
-| 20210521T01:07:42Z | Null | https://github.com/Tifoaui/CVE_Exploit | 0 | 0| 
-| 20210521T01:02:55Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 23 | 11| 
-| 20210521T00:56:47Z | 🕷️ A Git source leak exploit tool that restores the entire Git repository, including data from stash, for white-box auditing and analysis of developers% mind | https://github.com/WangYihang/GitHacker | 567 | 126| 
-| 20210521T00:51:13Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 16 | 11| 
-| 20210521T00:44:49Z | PS1 savegame exploit | https://github.com/socram8888/tonyhax | 277 | 7| 
-| 20210521T00:38:55Z | Pentester%s toolbox | https://github.com/binarytrails/prober | 2 | 1| 
+| 20210521T12:02:42Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 23 | 11| 
+| 20210521T12:02:33Z | An archived script (2018) that exploited a vulnerability within Roblox%s %Silent Assasin% to give advantages during gameplay. | https://github.com/telgum/silent-assassin-kit | 0 | 0| 
+| 20210521T11:27:46Z | Remote File Inclusion automatic exploiter | https://github.com/IsaPeter/rfiexploiter | 0 | 0| 
+| 20210521T11:22:01Z | A list of the performance of regexes under different regex engines. For each ReDoS-vulnerable regex under a specific regex engine, there is a proof-of-concept exploit, showing how the slowdown may occur.  | https://github.com/yetingli/ReDoS-Benchmarks | 0 | 0| 
+| 20210521T11:19:01Z | A tale of non-developer guy trying to develop a simple website! | https://github.com/403exploit/403exploit.github.io | 0 | 0| 
+| 20210521T10:53:42Z | PS1 savegame exploit | https://github.com/socram8888/tonyhax | 277 | 7| 
+| 20210521T10:51:43Z | A post exploitation tool based on a web application, focusing on bypassing endpoint protection and application whitelisting | https://github.com/AdrianVollmer/PowerHub | 433 | 76| 
+| 20210521T10:48:43Z | Binary Exploitation and Reverse-Engineering (from assembly into C) | https://github.com/anyaschukin/OverRide | 47 | 8| 
+| 20210521T10:30:00Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 467 | 91| 
+| 20210521T10:03:37Z | Kernel exploits and writeups | https://github.com/meowmeowxw/kernel-exploits | 5 | 0| 
 
 
 # backdoor on Github 推荐
