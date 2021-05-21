@@ -31,7 +31,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210520T23:50:31Z | CVE-2021-31166 | Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely. | https://github.com/0vercl0k/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
 | 20210520T21:42:45Z | CVE-2021-22204 | Python exploit for the CVE-2021-22204 vulnerability in Exiftool | https://github.com/convisoappsec/CVE-2021-22204-exiftool | Improper neutralization of user data in the DjVu file format in ExifTool versions 7.44 and up allows arbitrary code execution when parsing the malicious image| 
-| 20210520T20:33:12Z | CVE-2021-21551 | Exploit to SYSTEM for CVE-2021-21551 | https://github.com/waldo-irc/CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
+| 20210520T20:33:12Z | CVE-2021-21551 | Exploit to SYSTEM for CVE-2021-21551 | https://github.com/waldo-irc/CVE-2021-21551 | | 
 
 
 # klee on Github 推荐
@@ -88,13 +88,13 @@
 | 20210520T23:49:53Z | Null | https://github.com/opimentel-github/fuzzy-torch | 1 | 0| 
 | 20210520T23:35:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6305 | 1275| 
 | 20210520T23:34:51Z | Null | https://github.com/jennifer-collins/fuzzy-succotash | 0 | 0| 
-| 20210520T23:33:58Z | Fuzzy charrs are fuzzy. | https://github.com/marenubium87/FuzzyCharr | 0 | 0| 
 | 20210520T23:25:52Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 72 | 16| 
 | 20210520T23:17:55Z | Highly experimental parser that calculates the way a pattern best matches a text, and how closely it matches the text, rather than calculates a binary match or parse error. | https://github.com/SamRoberts/fuzzy | 0 | 0| 
 | 20210520T23:13:20Z | Null | https://github.com/alliesrussell/fuzzy-octo-garbanzo | 0 | 0| 
 | 20210520T23:04:42Z | fuzz and property testing front-end for Rust | https://github.com/camshaft/bolero | 20 | 2| 
 | 20210520T23:00:22Z | Null | https://github.com/opimentel-github/fuzzy-tools | 0 | 0| 
 | 20210520T22:58:56Z | Null | https://github.com/vHanda/fuzzy_search | 0 | 0| 
+| 20210520T22:23:41Z | Null | https://github.com/brerickner/fuzzy_playground | 0 | 0| 
 
 
 
