@@ -55,7 +55,7 @@
 | 20210519T19:38:06Z | CVE-2021-31166 | HTTP Protocol Stack CVE-2021-31166 | https://github.com/corelight/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
 | 20210519T09:45:19Z | 未知编号 | Null | https://github.com/Jauler/cve2021-3156-sudo-heap-overflow | 未查询到CVE信息| 
 | 20210519T08:39:46Z | CVE-2021-31166 | simple bash script for exploit CVE-2021-31166 | https://github.com/zecopro/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
-| 20210519T06:31:34Z | CVE-2021- | Null | https://github.com/pipiping/CVE-2021-CVEceshi | | 
+| 20210519T06:31:34Z | CVE-2021- | Null | https://github.com/pipiping/CVE-2021-CVEceshi | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
@@ -87,6 +87,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210521T12:51:40Z | 🕷️ A Git source leak exploit tool that restores the entire Git repository, including data from stash, for white-box auditing and analysis of developers% mind | https://github.com/WangYihang/GitHacker | 568 | 126| 
+| 20210521T12:51:14Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 16 | 11| 
 | 20210521T12:46:10Z | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | 0 | 0| 
 | 20210521T12:45:39Z | Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish to influence Onelinetips and explain the commands, for the better understanding of new hunters.. | https://github.com/KingOfBugbounty/KingOfBugBountyTips | 2110 | 333| 
 | 20210521T12:39:44Z | A very common Wi-Fi attack is Evil Twin, so our detection system exploit Scapy library Packages in order to extract the Access Point%s features. | https://github.com/Said49/Evil-Twin-Attack-Detection- | 0 | 0| 
@@ -95,8 +97,6 @@
 | 20210521T12:09:11Z | Config files for my GitHub profile. | https://github.com/SulhExploit/SulhExploit | 0 | 0| 
 | 20210521T12:07:59Z | An enumeration tool for post exploitation that you can use to gather information about your target machine and its network. | https://github.com/0x1CA3/AutoEnum | 0 | 0| 
 | 20210521T12:07:30Z | An archived script (2018) that exploited a vulnerability within Roblox%s %Kohls Admin House NBC% that gave unintentional admin commands. | https://github.com/telgum/kah-commands | 0 | 0| 
-| 20210521T12:02:42Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 23 | 11| 
-| 20210521T12:02:33Z | An archived script (2018) that exploited a vulnerability within Roblox%s %Silent Assasin% to give advantages during gameplay. | https://github.com/telgum/silent-assassin-kit | 0 | 0| 
 
 
 # backdoor on Github 推荐
