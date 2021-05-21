@@ -76,6 +76,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210521T12:44:17Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1191 | 212| 
+| 20210521T12:42:55Z | 模糊PID控制器的C语言实现 | https://github.com/FlameAlpha/fuzzy-pid | 0 | 0| 
 | 20210521T12:16:56Z | Null | https://github.com/XOMAv2/NeuroFuzzySystemsLabs | 0 | 0| 
 | 20210521T12:07:26Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 301 | 17| 
 | 20210521T11:56:55Z | Code related to the manuscript %The sequence-ensemble relationship in fuzzy protein complexes% | https://github.com/sanhadzi/PNAS_fuzzy | 0 | 0| 
@@ -84,8 +86,6 @@
 | 20210521T10:59:52Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 6 | 0| 
 | 20210521T10:37:34Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
 | 20210521T10:32:05Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
-| 20210521T10:25:48Z | Null | https://github.com/SBH-Top-Coder/FUZZ-IEEE-COMPETITION-ON-EXPLAINABLE-ENERGY-PREDICTION | 1 | 0| 
-| 20210521T10:10:10Z | Null | https://github.com/l392zhan/AttentionFuzzer | 0 | 0| 
 
 
 
