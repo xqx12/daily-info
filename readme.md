@@ -55,7 +55,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210520T23:49:41Z | PS1 savegame exploit | https://github.com/socram8888/tonyhax | 277 | 7| 
 | 20210520T23:23:58Z | Gote Hub - Comunity Roblox Exploiting And Scripting @Copyright 2021 | https://github.com/Vilictus/Gote-Hub | 0 | 0| 
 | 20210520T23:07:34Z | PS4 Exploit Host | https://github.com/Night-King-Host/Night-King-Host.github.io | 8 | 8| 
 | 20210520T22:29:08Z | Null | https://github.com/HarryTheKing1/Harry-s-exploit-api | 0 | 0| 
@@ -65,6 +64,7 @@
 | 20210520T21:34:52Z | Educational web application demonstrating techniques of binary exploitation (Front-end) | https://github.com/Pen-Test3rs/binary_exploits_frontend | 0 | 0| 
 | 20210520T20:43:14Z | Null | https://github.com/Krystofee/pre-commit-exploited-hook | 0 | 0| 
 | 20210520T20:33:12Z | Exploit to SYSTEM for CVE-2021-21551 | https://github.com/waldo-irc/CVE-2021-21551 | 188 | 29| 
+| 20210520T20:14:24Z | Indicateurs de l’état des ressources en eau souterraine sous l’effet du climat et de leur exploitation | https://github.com/cgq-qgc/pacc-inrs | 1 | 0| 
 
 
 # backdoor on Github 推荐
