@@ -48,7 +48,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210521T12:24:52Z | CVE-2021-21551 | Null | https://github.com/ch3rn0byl/CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
 | 20210521T10:07:26Z | CVE-2021-31166 | Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely. | https://github.com/0vercl0k/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
-| 20210521T08:18:04Z | CVE-2021-21551 | Exploit to SYSTEM for CVE-2021-21551 | https://github.com/waldo-irc/CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
+| 20210521T08:18:04Z | CVE-2021-21551 | Exploit to SYSTEM for CVE-2021-21551 | https://github.com/waldo-irc/CVE-2021-21551 | | 
 | 20210521T07:43:39Z | CVE-2021-28482 | Null | https://github.com/KevinWorst/CVE-2021-28482_Exploits | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-28480, CVE-2021-28481, CVE-2021-28483.| 
 | 20210521T00:17:38Z | CVE-2021-22204 | POC for exiftool vuln (CVE-2021-22204). | https://github.com/bilkoh/POC-CVE-2021-22204 | Improper neutralization of user data in the DjVu file format in ExifTool versions 7.44 and up allows arbitrary code execution when parsing the malicious image| 
 | 20210520T21:42:45Z | CVE-2021-22204 | Python exploit for the CVE-2021-22204 vulnerability in Exiftool | https://github.com/convisoappsec/CVE-2021-22204-exiftool | Improper neutralization of user data in the DjVu file format in ExifTool versions 7.44 and up allows arbitrary code execution when parsing the malicious image| 
@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210521T12:32:07Z | A very common Wi-Fi attack is Evil Twin, so our detection system exploit Scapy library Packages in order to extract the Access Point%s features. | https://github.com/Said49/Evil-Twin-Attack-Detection- | 0 | 0| 
 | 20210521T12:19:04Z | Exploit | https://github.com/SulhExploit/Expoit | 0 | 0| 
 | 20210521T12:09:11Z | Config files for my GitHub profile. | https://github.com/SulhExploit/SulhExploit | 0 | 0| 
 | 20210521T12:07:59Z | An enumeration tool for post exploitation that you can use to gather information about your target machine and its network. | https://github.com/0x1CA3/AutoEnum | 0 | 0| 
@@ -96,7 +97,6 @@
 | 20210521T11:27:46Z | Remote File Inclusion automatic exploiter | https://github.com/IsaPeter/rfiexploiter | 0 | 0| 
 | 20210521T11:22:01Z | A list of the performance of regexes under different regex engines. For each ReDoS-vulnerable regex under a specific regex engine, there is a proof-of-concept exploit, showing how the slowdown may occur.  | https://github.com/yetingli/ReDoS-Benchmarks | 0 | 0| 
 | 20210521T11:19:01Z | A tale of non-developer guy trying to develop a simple website! | https://github.com/403exploit/403exploit.github.io | 0 | 0| 
-| 20210521T10:53:42Z | PS1 savegame exploit | https://github.com/socram8888/tonyhax | 277 | 7| 
 
 
 # backdoor on Github 推荐
@@ -106,12 +106,12 @@
 | 20210521T10:44:41Z | Python Network Scanner with Backdoor Detection , Google Blacklist Scan and other Nmap resources | https://github.com/xadhrit/d9scan | 2 | 1| 
 | 20210521T10:42:29Z | Null | https://github.com/ebagdasa/backdoored_transformers | 0 | 0| 
 | 20210521T10:07:02Z | An npm based CLI tool to create a local proxy and bypass CORS restrictions during development of front end projects | https://github.com/drishtilabs/cors-backdoor | 4 | 0| 
+| 20210521T08:02:31Z | unlock the advanced menu of Lenovo Yoga Slim 7 BIOS | https://github.com/esno/yoga-bios-unlock | 27 | 2| 
 | 20210521T01:34:59Z | PCI Express DIY hacking toolkit for Xilinx SP605 | https://github.com/Cr4sh/s6_pcie_microblaze | 357 | 87| 
 | 20210520T22:56:02Z | Defending Against Backdoor Attacks Using Robust Covariance Estimation | https://github.com/SewoongLab/spectre-defense | 3 | 0| 
 | 20210520T22:24:48Z | Null | https://github.com/zephr1213/Pyro-Backdoor-Whitelist | 0 | 0| 
 | 20210520T21:14:50Z | Backend for our cyber security forum - %Backdoor% | https://github.com/backdoor-epics/backdoor-backend | 0 | 1| 
 | 20210520T21:10:56Z | Simple Python Backdoor | https://github.com/zNairy/Sonaris | 6 | 0| 
-| 20210520T20:49:13Z | Null | https://github.com/pdpm19/ChatWithBackdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐
