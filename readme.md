@@ -62,19 +62,26 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210521T11:07:36Z | React frontend for the cybersecurity forum website - %Backdoor% | https://github.com/backdoor-epics/backdoor-frontend | 0 | 1| 
+| 20210521T10:44:41Z | Python Network Scanner with Backdoor Detection , Google Blacklist Scan and other Nmap resources | https://github.com/xadhrit/d9scan | 2 | 1| 
+| 20210521T10:42:29Z | Null | https://github.com/ebagdasa/backdoored_transformers | 0 | 0| 
+| 20210521T10:07:02Z | An npm based CLI tool to create a local proxy and bypass CORS restrictions during development of front end projects | https://github.com/drishtilabs/cors-backdoor | 4 | 0| 
 | 20210521T01:34:59Z | PCI Express DIY hacking toolkit for Xilinx SP605 | https://github.com/Cr4sh/s6_pcie_microblaze | 357 | 87| 
-| 20210521T01:30:12Z | React frontend for the cybersecurity forum website - %Backdoor% | https://github.com/backdoor-epics/backdoor-frontend | 0 | 1| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210521T01:12:14Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4494 | 439| 
-| 20210521T01:01:07Z | CS 4152 Project | https://github.com/nicbarone/Fuzzy-Kiwi | 0 | 0| 
-| 20210521T00:48:23Z | Fuzzy charrs are fuzzy. | https://github.com/marenubium87/FuzzyCharr | 0 | 0| 
-| 20210521T00:43:45Z | POC of instrumenting python bytecode | https://github.com/pd-fkie/python-fuzz-poc | 0 | 0| 
-| 20210521T00:30:29Z | This repository is for testing a number of open source applications for vulnerabilities using multiple fuzzers. | https://github.com/bartholomewHarris/fuzzingNode.jsApplications | 1 | 2| 
-| 20210521T00:07:27Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
+| 20210521T11:56:55Z | Code related to the manuscript %The sequence-ensemble relationship in fuzzy protein complexes% | https://github.com/sanhadzi/PNAS_fuzzy | 0 | 0| 
+| 20210521T11:36:18Z | Null | https://github.com/mmunar97/discrete-fuzzy-operators | 0 | 0| 
+| 20210521T11:34:38Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 425 | 35| 
+| 20210521T10:59:52Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 6 | 0| 
+| 20210521T10:37:34Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
+| 20210521T10:32:05Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
+| 20210521T10:25:48Z | Null | https://github.com/SBH-Top-Coder/FUZZ-IEEE-COMPETITION-ON-EXPLAINABLE-ENERGY-PREDICTION | 1 | 0| 
+| 20210521T10:10:10Z | Null | https://github.com/l392zhan/AttentionFuzzer | 0 | 0| 
+| 20210521T10:01:36Z | frontend task | https://github.com/oladunni28/fuzzbuzz | 0 | 0| 
+| 20210521T09:45:18Z | A fork and successor of the Sulley Fuzzing Framework | https://github.com/jtpereyda/boofuzz | 1224 | 244| 
 
 
 
