@@ -49,9 +49,9 @@
 | 20210520T23:50:31Z | CVE-2021-31166 | Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely. | https://github.com/0vercl0k/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
 | 20210520T21:42:45Z | CVE-2021-22204 | Python exploit for the CVE-2021-22204 vulnerability in Exiftool | https://github.com/convisoappsec/CVE-2021-22204-exiftool | Improper neutralization of user data in the DjVu file format in ExifTool versions 7.44 and up allows arbitrary code execution when parsing the malicious image| 
 | 20210520T20:33:12Z | CVE-2021-21551 | Exploit to SYSTEM for CVE-2021-21551 | https://github.com/waldo-irc/CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
-| 20210519T19:38:06Z | CVE-2021-31166 | HTTP Protocol Stack CVE-2021-31166 | https://github.com/corelight/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
+| 20210519T19:38:06Z | CVE-2021-31166 | HTTP Protocol Stack CVE-2021-31166 | https://github.com/corelight/CVE-2021-31166 | | 
 | 20210519T09:45:19Z | 未知编号 | Null | https://github.com/Jauler/cve2021-3156-sudo-heap-overflow | 未查询到CVE信息| 
-| 20210519T08:39:46Z | CVE-2021-31166 | simple bash script for exploit CVE-2021-31166 | https://github.com/zecopro/CVE-2021-31166 | | 
+| 20210519T08:39:46Z | CVE-2021-31166 | simple bash script for exploit CVE-2021-31166 | https://github.com/zecopro/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
 | 20210519T06:31:34Z | CVE-2021- | Null | https://github.com/pipiping/CVE-2021-CVEceshi | 未查询到CVE信息| 
 | 20210519T03:01:46Z | CVE-2021-31321 | PoC for exploiting CVE-2021-31321 | https://github.com/JamesGeee/CVE-2021-31321 | Telegram Android <7.1.0 (2090), Telegram iOS <7.1, and Telegram macOS <7.1 are affected by a Stack Based Overflow in the gray_split_cubic function of their custom fork of the rlottie library. A remote attacker might be able to overwrite Telegram%s stack memory out-of-bounds on a victim device via a malicious animated sticker.| 
 | 20210519T03:01:43Z | CVE-2021-31320 | PoC for exploiting CVE-2021-31320 | https://github.com/JamesGeee/CVE-2021-31320 | Telegram Android <7.1.0 (2090), Telegram iOS <7.1, and Telegram macOS <7.1 are affected by a Heap Buffer Overflow in the VGradientCache::generateGradientColorTable function of their custom fork of the rlottie library. A remote attacker might be able to overwrite heap memory out-of-bounds on a victim device via a malicious animated sticker.| 
@@ -116,16 +116,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210520T12:50:32Z | Fuzzy Logic for Python 3 | https://github.com/amogorkon/fuzzylogic | 23 | 10| 
-| 20210520T12:35:57Z | My labs | https://github.com/Maythanet/Labs_Fuzzylogic | 0 | 0| 
-| 20210520T12:22:17Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 419 | 34| 
-| 20210520T12:21:38Z | Basic Dashboard Layout | https://github.com/sakshamarya117/fuzzy-octo-train | 0 | 0| 
-| 20210520T12:15:43Z | Dockerised version of Microsoft%s RESTler-fuzzer | https://github.com/monch1962/docker-restler-fuzzer | 0 | 0| 
-| 20210520T11:30:00Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3513 | 815| 
-| 20210520T11:13:21Z | Null | https://github.com/Greywolf-edu/Fuzzy | 0 | 0| 
-| 20210520T11:05:31Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 301 | 17| 
-| 20210520T11:01:46Z | Null | https://github.com/PubupCreed/fuzzy-palm-tree | 0 | 0| 
-| 20210520T10:30:01Z | Null | https://github.com/l392zhan/AttentionFuzzer | 0 | 0| 
+| 20210521T00:07:27Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
+| 20210521T00:02:43Z | This repository is for testing a number of open source applications for vulnerabilities using multiple fuzzers. | https://github.com/bartholomewHarris/fuzzingNode.jsApplications | 1 | 2| 
+| 20210520T23:49:53Z | Null | https://github.com/opimentel-github/fuzzy-torch | 1 | 0| 
+| 20210520T23:35:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6305 | 1275| 
+| 20210520T23:34:51Z | Null | https://github.com/jennifer-collins/fuzzy-succotash | 0 | 0| 
+| 20210520T23:33:58Z | Fuzzy charrs are fuzzy. | https://github.com/marenubium87/FuzzyCharr | 0 | 0| 
+| 20210520T23:25:52Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 72 | 16| 
+| 20210520T23:17:55Z | Highly experimental parser that calculates the way a pattern best matches a text, and how closely it matches the text, rather than calculates a binary match or parse error. | https://github.com/SamRoberts/fuzzy | 0 | 0| 
+| 20210520T23:13:20Z | Null | https://github.com/alliesrussell/fuzzy-octo-garbanzo | 0 | 0| 
+| 20210520T23:04:42Z | fuzz and property testing front-end for Rust | https://github.com/camshaft/bolero | 20 | 2| 
 
 
 
