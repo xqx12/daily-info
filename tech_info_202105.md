@@ -55,7 +55,7 @@
 | 20210519T19:38:06Z | CVE-2021-31166 | HTTP Protocol Stack CVE-2021-31166 | https://github.com/corelight/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
 | 20210519T09:45:19Z | 未知编号 | Null | https://github.com/Jauler/cve2021-3156-sudo-heap-overflow | 未查询到CVE信息| 
 | 20210519T08:39:46Z | CVE-2021-31166 | simple bash script for exploit CVE-2021-31166 | https://github.com/zecopro/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
-| 20210519T06:31:34Z | CVE-2021- | Null | https://github.com/pipiping/CVE-2021-CVEceshi | 未查询到CVE信息| 
+| 20210519T06:31:34Z | CVE-2021- | Null | https://github.com/pipiping/CVE-2021-CVEceshi | | 
 
 
 # klee on Github 推荐
@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210521T12:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9465 | 1530| 
 | 20210521T12:32:07Z | A very common Wi-Fi attack is Evil Twin, so our detection system exploit Scapy library Packages in order to extract the Access Point%s features. | https://github.com/Said49/Evil-Twin-Attack-Detection- | 0 | 0| 
 | 20210521T12:19:04Z | Exploit | https://github.com/SulhExploit/Expoit | 0 | 0| 
 | 20210521T12:09:11Z | Config files for my GitHub profile. | https://github.com/SulhExploit/SulhExploit | 0 | 0| 
@@ -96,7 +97,6 @@
 | 20210521T12:02:33Z | An archived script (2018) that exploited a vulnerability within Roblox%s %Silent Assasin% to give advantages during gameplay. | https://github.com/telgum/silent-assassin-kit | 0 | 0| 
 | 20210521T11:27:46Z | Remote File Inclusion automatic exploiter | https://github.com/IsaPeter/rfiexploiter | 0 | 0| 
 | 20210521T11:22:01Z | A list of the performance of regexes under different regex engines. For each ReDoS-vulnerable regex under a specific regex engine, there is a proof-of-concept exploit, showing how the slowdown may occur.  | https://github.com/yetingli/ReDoS-Benchmarks | 0 | 0| 
-| 20210521T11:19:01Z | A tale of non-developer guy trying to develop a simple website! | https://github.com/403exploit/403exploit.github.io | 0 | 0| 
 
 
 # backdoor on Github 推荐
