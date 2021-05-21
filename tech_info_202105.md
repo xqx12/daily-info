@@ -54,7 +54,7 @@
 | 20210519T08:39:46Z | CVE-2021-31166 | simple bash script for exploit CVE-2021-31166 | https://github.com/zecopro/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
 | 20210519T06:31:34Z | CVE-2021- | Null | https://github.com/pipiping/CVE-2021-CVEceshi | 未查询到CVE信息| 
 | 20210519T03:01:46Z | CVE-2021-31321 | PoC for exploiting CVE-2021-31321 | https://github.com/JamesGeee/CVE-2021-31321 | Telegram Android <7.1.0 (2090), Telegram iOS <7.1, and Telegram macOS <7.1 are affected by a Stack Based Overflow in the gray_split_cubic function of their custom fork of the rlottie library. A remote attacker might be able to overwrite Telegram%s stack memory out-of-bounds on a victim device via a malicious animated sticker.| 
-| 20210519T03:01:43Z | CVE-2021-31320 | PoC for exploiting CVE-2021-31320 | https://github.com/JamesGeee/CVE-2021-31320 | | 
+| 20210519T03:01:43Z | CVE-2021-31320 | PoC for exploiting CVE-2021-31320 | https://github.com/JamesGeee/CVE-2021-31320 | Telegram Android <7.1.0 (2090), Telegram iOS <7.1, and Telegram macOS <7.1 are affected by a Heap Buffer Overflow in the VGradientCache::generateGradientColorTable function of their custom fork of the rlottie library. A remote attacker might be able to overwrite heap memory out-of-bounds on a victim device via a malicious animated sticker.| 
 | 20210519T03:01:39Z | CVE-2021-31319 | PoC for exploiting CVE-2021-31319 | https://github.com/JamesGeee/CVE-2021-31319 | Telegram Android <7.1.0 (2090), Telegram iOS <7.1, and Telegram macOS <7.1 are affected by an Integer Overflow in the LOTGradient::populate function of their custom fork of the rlottie library. A remote attacker might be able to access heap memory out-of-bounds on a victim device via a malicious animated sticker.| 
 
 
@@ -86,10 +86,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210521T00:02:41Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 23 | 11| 
 | 20210520T23:49:41Z | PS1 savegame exploit | https://github.com/socram8888/tonyhax | 277 | 7| 
 | 20210520T23:23:58Z | Gote Hub - Comunity Roblox Exploiting And Scripting @Copyright 2021 | https://github.com/Vilictus/Gote-Hub | 0 | 0| 
 | 20210520T23:07:34Z | PS4 Exploit Host | https://github.com/Night-King-Host/Night-King-Host.github.io | 8 | 8| 
-| 20210520T23:02:54Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 23 | 11| 
 | 20210520T22:29:08Z | Null | https://github.com/HarryTheKing1/Harry-s-exploit-api | 0 | 0| 
 | 20210520T22:25:48Z | Simple antis against recent exploits in VRChat including people triggering udon events starting with (_) in older maps and people spawning positive.infinity quaternion prefabs and making the floor go poof. | https://github.com/abbeybabbey/SimpleAntis | 0 | 0| 
 | 20210520T21:42:45Z | Python exploit for the CVE-2021-22204 vulnerability in Exiftool | https://github.com/convisoappsec/CVE-2021-22204-exiftool | 0 | 1| 
@@ -101,16 +101,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210520T12:55:30Z | Persistent & Undetectable Malware Backdoor | https://github.com/raunvk/stealthware-backdoor | 14 | 8| 
-| 20210520T09:23:46Z | A PHP backdoor management and generation tool/C2 featuring end to end encrypted payload streaming designed to bypass WAF, IDS, SIEM systems. | https://github.com/gellin/bantam | 186 | 28| 
-| 20210520T08:01:48Z | React frontend for the cybersecurity forum website - %Backdoor% | https://github.com/backdoor-epics/backdoor-frontend | 0 | 1| 
-| 20210520T05:26:58Z | Actually run a given promise or mock its outcome based on a given input value | https://github.com/johanfive/backdoor | 0 | 0| 
-| 20210520T03:29:02Z | Simple Python Backdoor | https://github.com/zNairy/Sonaris | 6 | 0| 
-| 20210520T01:49:43Z | Text-based adventure based on Black Hills Information Security%s %Backdoors and Breaches% | https://github.com/mttaggart/bnb-py | 2 | 0| 
-| 20210520T01:27:31Z | A simple remote tool written in C#.    一个简单的c#远控 | https://github.com/qwqdanchun/DcRat | 100 | 43| 
-| 20210520T01:08:53Z | A Backdoor made from my malware development notes. | https://github.com/0x1CA3/backdoor | 2 | 0| 
-| 20210519T23:49:09Z | Backend for our cyber security forum - %Backdoor% | https://github.com/backdoor-epics/backdoor-backend | 0 | 1| 
-| 20210519T20:06:38Z | Null | https://github.com/ThunderScripts/backdoor | 0 | 0| 
+| 20210520T23:38:36Z | React frontend for the cybersecurity forum website - %Backdoor% | https://github.com/backdoor-epics/backdoor-frontend | 0 | 1| 
+| 20210520T23:36:25Z | Null | https://github.com/ebagdasa/backdoored_transformers | 0 | 0| 
+| 20210520T22:56:02Z | Defending Against Backdoor Attacks Using Robust Covariance Estimation | https://github.com/SewoongLab/spectre-defense | 3 | 0| 
+| 20210520T22:24:48Z | Null | https://github.com/zephr1213/Pyro-Backdoor-Whitelist | 0 | 0| 
+| 20210520T21:14:50Z | Backend for our cyber security forum - %Backdoor% | https://github.com/backdoor-epics/backdoor-backend | 0 | 1| 
+| 20210520T21:10:56Z | Simple Python Backdoor | https://github.com/zNairy/Sonaris | 6 | 0| 
+| 20210520T20:49:13Z | Null | https://github.com/pdpm19/ChatWithBackdoor | 0 | 0| 
+| 20210520T18:44:53Z | Python 3 IRC Bot / Botnet | https://github.com/trackmastersteve/HackServ | 20 | 16| 
+| 20210520T15:25:07Z | unlock the advanced menu of Lenovo Yoga Slim 7 BIOS | https://github.com/esno/yoga-bios-unlock | 26 | 2| 
+| 20210520T14:49:52Z | 클라이언트와 서버로 구성된 백도어 | https://github.com/LEPTONNW/BackDoor | 0 | 0| 
 
 
 # fuzz on Github 推荐

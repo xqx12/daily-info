@@ -58,26 +58,28 @@
 | 20210520T23:49:41Z | PS1 savegame exploit | https://github.com/socram8888/tonyhax | 277 | 7| 
 | 20210520T23:23:58Z | Gote Hub - Comunity Roblox Exploiting And Scripting @Copyright 2021 | https://github.com/Vilictus/Gote-Hub | 0 | 0| 
 | 20210520T23:07:34Z | PS4 Exploit Host | https://github.com/Night-King-Host/Night-King-Host.github.io | 8 | 8| 
-| 20210520T23:02:54Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 23 | 11| 
 | 20210520T22:29:08Z | Null | https://github.com/HarryTheKing1/Harry-s-exploit-api | 0 | 0| 
 | 20210520T22:25:48Z | Simple antis against recent exploits in VRChat including people triggering udon events starting with (_) in older maps and people spawning positive.infinity quaternion prefabs and making the floor go poof. | https://github.com/abbeybabbey/SimpleAntis | 0 | 0| 
 | 20210520T21:42:45Z | Python exploit for the CVE-2021-22204 vulnerability in Exiftool | https://github.com/convisoappsec/CVE-2021-22204-exiftool | 0 | 1| 
 | 20210520T21:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9463 | 1530| 
 | 20210520T21:34:52Z | Educational web application demonstrating techniques of binary exploitation (Front-end) | https://github.com/Pen-Test3rs/binary_exploits_frontend | 0 | 0| 
 | 20210520T20:43:14Z | Null | https://github.com/Krystofee/pre-commit-exploited-hook | 0 | 0| 
+| 20210520T20:33:12Z | Exploit to SYSTEM for CVE-2021-21551 | https://github.com/waldo-irc/CVE-2021-21551 | 188 | 29| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210520T12:55:30Z | Persistent & Undetectable Malware Backdoor | https://github.com/raunvk/stealthware-backdoor | 14 | 8| 
-| 20210520T09:23:46Z | A PHP backdoor management and generation tool/C2 featuring end to end encrypted payload streaming designed to bypass WAF, IDS, SIEM systems. | https://github.com/gellin/bantam | 186 | 28| 
-| 20210520T08:01:48Z | React frontend for the cybersecurity forum website - %Backdoor% | https://github.com/backdoor-epics/backdoor-frontend | 0 | 1| 
-| 20210520T05:26:58Z | Actually run a given promise or mock its outcome based on a given input value | https://github.com/johanfive/backdoor | 0 | 0| 
-| 20210520T03:29:02Z | Simple Python Backdoor | https://github.com/zNairy/Sonaris | 6 | 0| 
-| 20210520T01:49:43Z | Text-based adventure based on Black Hills Information Security%s %Backdoors and Breaches% | https://github.com/mttaggart/bnb-py | 2 | 0| 
-| 20210520T01:27:31Z | A simple remote tool written in C#.    一个简单的c#远控 | https://github.com/qwqdanchun/DcRat | 100 | 43| 
-| 20210520T01:08:53Z | A Backdoor made from my malware development notes. | https://github.com/0x1CA3/backdoor | 2 | 0| 
+| 20210520T23:38:36Z | React frontend for the cybersecurity forum website - %Backdoor% | https://github.com/backdoor-epics/backdoor-frontend | 0 | 1| 
+| 20210520T23:36:25Z | Null | https://github.com/ebagdasa/backdoored_transformers | 0 | 0| 
+| 20210520T22:56:02Z | Defending Against Backdoor Attacks Using Robust Covariance Estimation | https://github.com/SewoongLab/spectre-defense | 3 | 0| 
+| 20210520T22:24:48Z | Null | https://github.com/zephr1213/Pyro-Backdoor-Whitelist | 0 | 0| 
+| 20210520T21:14:50Z | Backend for our cyber security forum - %Backdoor% | https://github.com/backdoor-epics/backdoor-backend | 0 | 1| 
+| 20210520T21:10:56Z | Simple Python Backdoor | https://github.com/zNairy/Sonaris | 6 | 0| 
+| 20210520T20:49:13Z | Null | https://github.com/pdpm19/ChatWithBackdoor | 0 | 0| 
+| 20210520T18:44:53Z | Python 3 IRC Bot / Botnet | https://github.com/trackmastersteve/HackServ | 20 | 16| 
+| 20210520T15:25:07Z | unlock the advanced menu of Lenovo Yoga Slim 7 BIOS | https://github.com/esno/yoga-bios-unlock | 26 | 2| 
+| 20210520T14:49:52Z | 클라이언트와 서버로 구성된 백도어 | https://github.com/LEPTONNW/BackDoor | 0 | 0| 
 
 
 # fuzz on Github 推荐
