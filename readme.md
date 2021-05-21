@@ -15,6 +15,8 @@
 | 20210520 | Google I/O 大会上关于 Android 12 安全性的视频 | https://www.youtube.com/watch?v=qHFsMRfnOWk&list=RDCMUCVHFbqXqoYvEWM1Ddxl0QDg| 
 | 20210520 | 一次对WPS漏洞挖掘的尝试 | https://www.anquanke.com/post/id/240938| 
 | 20210520 | GitHub 为开源项目 Repos 搭建了一个漏洞公告数据库 | https://github.com/advisories| 
+| 20210520 | Windows Privilege Escalation：利用DnsAdmins提权到DomainAdmin。 | https://www.hackingarticles.in/windows-privilege-escalation-dnsadmins-to-domainadmin/| 
+| 20210520 | 对Windows 10任务管理器逆向工程播放视频动画位图演示。 | https://www.reddit.com/r/ReverseEngineering/comments/navqzn/reverse_engineering_the_windows_10_task_manager/| 
 
 
 # 安全维基 推荐
@@ -27,13 +29,17 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210520T12:39:37Z | CVE-2021-31166 | Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely. | https://github.com/0vercl0k/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
+| 20210520T23:50:31Z | CVE-2021-31166 | Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely. | https://github.com/0vercl0k/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
+| 20210520T21:42:45Z | CVE-2021-22204 | Python exploit for the CVE-2021-22204 vulnerability in Exiftool | https://github.com/convisoappsec/CVE-2021-22204-exiftool | Improper neutralization of user data in the DjVu file format in ExifTool versions 7.44 and up allows arbitrary code execution when parsing the malicious image| 
+| 20210520T20:33:12Z | CVE-2021-21551 | Exploit to SYSTEM for CVE-2021-21551 | https://github.com/waldo-irc/CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210520T12:06:39Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 137 | 13| 
+| 20210520T16:59:16Z | Null | https://github.com/KLEEEN-SOFTWARE/Kleeen-svgs | 0 | 0| 
+| 20210520T13:28:37Z | Null | https://github.com/BajacDev/rust-klee-docker | 2 | 0| 
+| 20210520T12:06:39Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 137 | 14| 
 | 20210520T12:05:36Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 617 | 14| 
 | 20210520T10:04:34Z | klee-2.2 | https://github.com/bruceday/klee-2.2 | 0 | 0| 
 | 20210520T06:24:30Z | OVO | https://github.com/iKleeOVO/iKleeOVO.github.io | 0 | 1| 
@@ -49,16 +55,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210520T12:56:21Z | Extension of ros_control (http://wiki.ros.org/ros_control) to multiple hardware interfaces, exploiting nodelet | https://github.com/CNR-STIIMA-IRAS/cnr_ros_control | 1 | 0| 
-| 20210520T12:55:30Z | Persistent & Undetectable Malware Backdoor | https://github.com/raunvk/stealthware-backdoor | 14 | 8| 
-| 20210520T12:54:09Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9457 | 1528| 
-| 20210520T12:52:03Z | Application pour exploiter les technologies du web sémantique en bibliothèque | https://github.com/hdlkdg/pybrique | 0 | 0| 
-| 20210520T12:51:13Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 16 | 11| 
-| 20210520T12:42:50Z | Kernel exploits and writeups | https://github.com/meowmeowxw/kernel-exploits | 4 | 0| 
-| 20210520T12:31:20Z | Null | https://github.com/davidberiro/bunny-flashloan-exploit | 0 | 0| 
-| 20210520T12:24:19Z | PS1 savegame exploit | https://github.com/socram8888/tonyhax | 276 | 7| 
-| 20210520T12:14:46Z | CAUTION - Malicious files 💀 | https://github.com/Am0rphous/Malware | 19 | 7| 
-| 20210520T12:02:43Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 23 | 11| 
+| 20210520T23:49:41Z | PS1 savegame exploit | https://github.com/socram8888/tonyhax | 277 | 7| 
+| 20210520T23:23:58Z | Gote Hub - Comunity Roblox Exploiting And Scripting @Copyright 2021 | https://github.com/Vilictus/Gote-Hub | 0 | 0| 
+| 20210520T23:07:34Z | PS4 Exploit Host | https://github.com/Night-King-Host/Night-King-Host.github.io | 8 | 8| 
+| 20210520T23:02:54Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 23 | 11| 
+| 20210520T22:29:08Z | Null | https://github.com/HarryTheKing1/Harry-s-exploit-api | 0 | 0| 
+| 20210520T22:25:48Z | Simple antis against recent exploits in VRChat including people triggering udon events starting with (_) in older maps and people spawning positive.infinity quaternion prefabs and making the floor go poof. | https://github.com/abbeybabbey/SimpleAntis | 0 | 0| 
+| 20210520T21:42:45Z | Python exploit for the CVE-2021-22204 vulnerability in Exiftool | https://github.com/convisoappsec/CVE-2021-22204-exiftool | 0 | 1| 
+| 20210520T21:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9463 | 1530| 
+| 20210520T21:34:52Z | Educational web application demonstrating techniques of binary exploitation (Front-end) | https://github.com/Pen-Test3rs/binary_exploits_frontend | 0 | 0| 
+| 20210520T20:43:14Z | Null | https://github.com/Krystofee/pre-commit-exploited-hook | 0 | 0| 
 
 
 # backdoor on Github 推荐
