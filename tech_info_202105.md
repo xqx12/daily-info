@@ -87,7 +87,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210521T12:06:54Z | An archived script (2018) that exploited a vulnerability within Roblox%s %Kohls Admin House NBC% that gave unintentional admin commands. | https://github.com/telgum/kah-commands | 0 | 0| 
+| 20210521T12:07:59Z | An enumeration tool for post exploitation that you can use to gather information about your target machine and its network. | https://github.com/0x1CA3/AutoEnum | 0 | 0| 
+| 20210521T12:07:30Z | An archived script (2018) that exploited a vulnerability within Roblox%s %Kohls Admin House NBC% that gave unintentional admin commands. | https://github.com/telgum/kah-commands | 0 | 0| 
 | 20210521T12:02:42Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 23 | 11| 
 | 20210521T12:02:33Z | An archived script (2018) that exploited a vulnerability within Roblox%s %Silent Assasin% to give advantages during gameplay. | https://github.com/telgum/silent-assassin-kit | 0 | 0| 
 | 20210521T11:27:46Z | Remote File Inclusion automatic exploiter | https://github.com/IsaPeter/rfiexploiter | 0 | 0| 
@@ -96,7 +97,6 @@
 | 20210521T10:53:42Z | PS1 savegame exploit | https://github.com/socram8888/tonyhax | 277 | 7| 
 | 20210521T10:51:43Z | A post exploitation tool based on a web application, focusing on bypassing endpoint protection and application whitelisting | https://github.com/AdrianVollmer/PowerHub | 433 | 76| 
 | 20210521T10:48:43Z | Binary Exploitation and Reverse-Engineering (from assembly into C) | https://github.com/anyaschukin/OverRide | 47 | 8| 
-| 20210521T10:30:00Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 467 | 91| 
 
 
 # backdoor on Github 推荐
