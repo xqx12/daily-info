@@ -49,11 +49,11 @@
 | 20210521T01:26:34Z | CVE-2021-31166 | Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely. | https://github.com/0vercl0k/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
 | 20210521T00:17:38Z | CVE-2021-22204 | POC for exiftool vuln (CVE-2021-22204). | https://github.com/bilkoh/POC-CVE-2021-22204 | Improper neutralization of user data in the DjVu file format in ExifTool versions 7.44 and up allows arbitrary code execution when parsing the malicious image| 
 | 20210520T21:42:45Z | CVE-2021-22204 | Python exploit for the CVE-2021-22204 vulnerability in Exiftool | https://github.com/convisoappsec/CVE-2021-22204-exiftool | Improper neutralization of user data in the DjVu file format in ExifTool versions 7.44 and up allows arbitrary code execution when parsing the malicious image| 
-| 20210520T20:33:12Z | CVE-2021-21551 | Exploit to SYSTEM for CVE-2021-21551 | https://github.com/waldo-irc/CVE-2021-21551 | | 
+| 20210520T20:33:12Z | CVE-2021-21551 | Exploit to SYSTEM for CVE-2021-21551 | https://github.com/waldo-irc/CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
 | 20210519T19:38:06Z | CVE-2021-31166 | HTTP Protocol Stack CVE-2021-31166 | https://github.com/corelight/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
 | 20210519T09:45:19Z | 未知编号 | Null | https://github.com/Jauler/cve2021-3156-sudo-heap-overflow | 未查询到CVE信息| 
-| 20210519T08:39:46Z | CVE-2021-31166 | simple bash script for exploit CVE-2021-31166 | https://github.com/zecopro/CVE-2021-31166 | | 
-| 20210519T06:31:34Z | CVE-2021- | Null | https://github.com/pipiping/CVE-2021-CVEceshi | 未查询到CVE信息| 
+| 20210519T08:39:46Z | CVE-2021-31166 | simple bash script for exploit CVE-2021-31166 | https://github.com/zecopro/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
+| 20210519T06:31:34Z | CVE-2021- | Null | https://github.com/pipiping/CVE-2021-CVEceshi | | 
 | 20210519T03:01:46Z | CVE-2021-31321 | PoC for exploiting CVE-2021-31321 | https://github.com/JamesGeee/CVE-2021-31321 | Telegram Android <7.1.0 (2090), Telegram iOS <7.1, and Telegram macOS <7.1 are affected by a Stack Based Overflow in the gray_split_cubic function of their custom fork of the rlottie library. A remote attacker might be able to overwrite Telegram%s stack memory out-of-bounds on a victim device via a malicious animated sticker.| 
 | 20210519T03:01:43Z | CVE-2021-31320 | PoC for exploiting CVE-2021-31320 | https://github.com/JamesGeee/CVE-2021-31320 | Telegram Android <7.1.0 (2090), Telegram iOS <7.1, and Telegram macOS <7.1 are affected by a Heap Buffer Overflow in the VGradientCache::generateGradientColorTable function of their custom fork of the rlottie library. A remote attacker might be able to overwrite heap memory out-of-bounds on a victim device via a malicious animated sticker.| 
 
@@ -61,6 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210521T01:42:10Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1692 | 492| 
 | 20210520T16:59:16Z | Null | https://github.com/KLEEEN-SOFTWARE/Kleeen-svgs | 0 | 0| 
 | 20210520T13:28:37Z | Null | https://github.com/BajacDev/rust-klee-docker | 2 | 0| 
 | 20210520T12:06:39Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 137 | 14| 
@@ -70,7 +71,6 @@
 | 20210519T13:10:18Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
 | 20210519T12:36:09Z | klee.js is a (data driven) generator and wrapper for the magnificent three.js | https://github.com/trenc/klee.js | 1 | 0| 
 | 20210519T11:56:29Z | It failed to generate TC by KLEE when execute 32 bit bc file on Ubuntu 18.04 | https://github.com/Elaine0122/klee-runs-on-ubuntu-18.04-course | 0 | 0| 
-| 20210519T11:56:15Z | The template repository for the KLEE runs on Ubuntu 18.04 course on Learning Lab. | https://github.com/Elaine0122/klee-runs-on-ubuntu-18.04-template | 0 | 0| 
 
 
 # s2e on Github 推荐
