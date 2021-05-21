@@ -27,7 +27,7 @@
 | 20210521T10:07:26Z | CVE-2021-31166 | Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely. | https://github.com/0vercl0k/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
 | 20210521T08:18:04Z | CVE-2021-21551 | Exploit to SYSTEM for CVE-2021-21551 | https://github.com/waldo-irc/CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
 | 20210521T08:00:53Z | CVE-2021-21551 | Null | https://github.com/ch3rn0byl/CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
-| 20210521T07:43:39Z | CVE-2021-28482 | Null | https://github.com/KevinWorst/CVE-2021-28482_Exploits | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-28480, CVE-2021-28481, CVE-2021-28483.| 
+| 20210521T07:43:39Z | CVE-2021-28482 | Null | https://github.com/KevinWorst/CVE-2021-28482_Exploits | | 
 | 20210521T00:17:38Z | CVE-2021-22204 | POC for exiftool vuln (CVE-2021-22204). | https://github.com/bilkoh/POC-CVE-2021-22204 | Improper neutralization of user data in the DjVu file format in ExifTool versions 7.44 and up allows arbitrary code execution when parsing the malicious image| 
 
 
@@ -50,6 +50,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210521T12:19:04Z | Exploit | https://github.com/SulhExploit/Expoit | 0 | 0| 
 | 20210521T12:09:11Z | Config files for my GitHub profile. | https://github.com/SulhExploit/SulhExploit | 0 | 0| 
 | 20210521T12:07:59Z | An enumeration tool for post exploitation that you can use to gather information about your target machine and its network. | https://github.com/0x1CA3/AutoEnum | 0 | 0| 
 | 20210521T12:07:30Z | An archived script (2018) that exploited a vulnerability within Roblox%s %Kohls Admin House NBC% that gave unintentional admin commands. | https://github.com/telgum/kah-commands | 0 | 0| 
@@ -59,7 +60,6 @@
 | 20210521T11:22:01Z | A list of the performance of regexes under different regex engines. For each ReDoS-vulnerable regex under a specific regex engine, there is a proof-of-concept exploit, showing how the slowdown may occur.  | https://github.com/yetingli/ReDoS-Benchmarks | 0 | 0| 
 | 20210521T11:19:01Z | A tale of non-developer guy trying to develop a simple website! | https://github.com/403exploit/403exploit.github.io | 0 | 0| 
 | 20210521T10:53:42Z | PS1 savegame exploit | https://github.com/socram8888/tonyhax | 277 | 7| 
-| 20210521T10:51:43Z | A post exploitation tool based on a web application, focusing on bypassing endpoint protection and application whitelisting | https://github.com/AdrianVollmer/PowerHub | 433 | 76| 
 
 
 # backdoor on Github 推荐
