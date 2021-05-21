@@ -49,7 +49,7 @@
 | 20210521T00:17:38Z | CVE-2021-22204 | POC for exiftool vuln (CVE-2021-22204). | https://github.com/bilkoh/POC-CVE-2021-22204 | Improper neutralization of user data in the DjVu file format in ExifTool versions 7.44 and up allows arbitrary code execution when parsing the malicious image| 
 | 20210520T23:50:31Z | CVE-2021-31166 | Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely. | https://github.com/0vercl0k/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
 | 20210520T21:42:45Z | CVE-2021-22204 | Python exploit for the CVE-2021-22204 vulnerability in Exiftool | https://github.com/convisoappsec/CVE-2021-22204-exiftool | Improper neutralization of user data in the DjVu file format in ExifTool versions 7.44 and up allows arbitrary code execution when parsing the malicious image| 
-| 20210520T20:33:12Z | CVE-2021-21551 | Exploit to SYSTEM for CVE-2021-21551 | https://github.com/waldo-irc/CVE-2021-21551 | | 
+| 20210520T20:33:12Z | CVE-2021-21551 | Exploit to SYSTEM for CVE-2021-21551 | https://github.com/waldo-irc/CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
 | 20210519T19:38:06Z | CVE-2021-31166 | HTTP Protocol Stack CVE-2021-31166 | https://github.com/corelight/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
 | 20210519T09:45:19Z | 未知编号 | Null | https://github.com/Jauler/cve2021-3156-sudo-heap-overflow | 未查询到CVE信息| 
 | 20210519T08:39:46Z | CVE-2021-31166 | simple bash script for exploit CVE-2021-31166 | https://github.com/zecopro/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210521T00:51:13Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 16 | 11| 
 | 20210521T00:44:49Z | PS1 savegame exploit | https://github.com/socram8888/tonyhax | 277 | 7| 
 | 20210521T00:38:55Z | Pentester%s toolbox | https://github.com/binarytrails/prober | 2 | 1| 
 | 20210521T00:25:32Z | %The software will be building a network server from scratch that at startup will have the ability to selectively enable insecure portions of code that can be exploited. The software could be developed as a honeypot for detection of exploitation attempts within a network and/or as a practice server for pentesters.  The project may also need to develop companion software that can test the code, or collect logs from the server.% | https://github.com/TimHanneman/Multi_Purpose_Exploitable_Server | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20210520T22:29:08Z | Null | https://github.com/HarryTheKing1/Harry-s-exploit-api | 0 | 0| 
 | 20210520T22:25:48Z | Simple antis against recent exploits in VRChat including people triggering udon events starting with (_) in older maps and people spawning positive.infinity quaternion prefabs and making the floor go poof. | https://github.com/abbeybabbey/SimpleAntis | 0 | 0| 
 | 20210520T21:42:45Z | Python exploit for the CVE-2021-22204 vulnerability in Exiftool | https://github.com/convisoappsec/CVE-2021-22204-exiftool | 0 | 1| 
-| 20210520T21:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9463 | 1530| 
 
 
 # backdoor on Github 推荐
