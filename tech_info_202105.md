@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210521T12:39:26Z | CVE-2021-21551 | Null | https://github.com/ch3rn0byl/CVE-2021-21551 | | 
+| 20210521T12:39:26Z | CVE-2021-21551 | Null | https://github.com/ch3rn0byl/CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
 | 20210521T10:07:26Z | CVE-2021-31166 | Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely. | https://github.com/0vercl0k/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
 | 20210521T08:18:04Z | CVE-2021-21551 | Exploit to SYSTEM for CVE-2021-21551 | https://github.com/waldo-irc/CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
 | 20210521T07:43:39Z | CVE-2021-28482 | Null | https://github.com/KevinWorst/CVE-2021-28482_Exploits | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-28480, CVE-2021-28481, CVE-2021-28483.| 
@@ -54,7 +54,7 @@
 | 20210520T21:42:45Z | CVE-2021-22204 | Python exploit for the CVE-2021-22204 vulnerability in Exiftool | https://github.com/convisoappsec/CVE-2021-22204-exiftool | Improper neutralization of user data in the DjVu file format in ExifTool versions 7.44 and up allows arbitrary code execution when parsing the malicious image| 
 | 20210519T19:38:06Z | CVE-2021-31166 | HTTP Protocol Stack CVE-2021-31166 | https://github.com/corelight/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
 | 20210519T09:45:19Z | 未知编号 | Null | https://github.com/Jauler/cve2021-3156-sudo-heap-overflow | 未查询到CVE信息| 
-| 20210519T08:39:46Z | CVE-2021-31166 | simple bash script for exploit CVE-2021-31166 | https://github.com/zecopro/CVE-2021-31166 | | 
+| 20210519T08:39:46Z | CVE-2021-31166 | simple bash script for exploit CVE-2021-31166 | https://github.com/zecopro/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
 | 20210519T06:31:34Z | CVE-2021- | Null | https://github.com/pipiping/CVE-2021-CVEceshi | 未查询到CVE信息| 
 
 
@@ -87,6 +87,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210521T12:46:10Z | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | 0 | 0| 
+| 20210521T12:45:39Z | Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish to influence Onelinetips and explain the commands, for the better understanding of new hunters.. | https://github.com/KingOfBugbounty/KingOfBugBountyTips | 2110 | 333| 
 | 20210521T12:39:44Z | A very common Wi-Fi attack is Evil Twin, so our detection system exploit Scapy library Packages in order to extract the Access Point%s features. | https://github.com/Said49/Evil-Twin-Attack-Detection- | 0 | 0| 
 | 20210521T12:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9465 | 1530| 
 | 20210521T12:19:04Z | Exploit | https://github.com/SulhExploit/Expoit | 0 | 0| 
@@ -95,8 +97,6 @@
 | 20210521T12:07:30Z | An archived script (2018) that exploited a vulnerability within Roblox%s %Kohls Admin House NBC% that gave unintentional admin commands. | https://github.com/telgum/kah-commands | 0 | 0| 
 | 20210521T12:02:42Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 23 | 11| 
 | 20210521T12:02:33Z | An archived script (2018) that exploited a vulnerability within Roblox%s %Silent Assasin% to give advantages during gameplay. | https://github.com/telgum/silent-assassin-kit | 0 | 0| 
-| 20210521T11:27:46Z | Remote File Inclusion automatic exploiter | https://github.com/IsaPeter/rfiexploiter | 0 | 0| 
-| 20210521T11:22:01Z | A list of the performance of regexes under different regex engines. For each ReDoS-vulnerable regex under a specific regex engine, there is a proof-of-concept exploit, showing how the slowdown may occur.  | https://github.com/yetingli/ReDoS-Benchmarks | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -117,6 +117,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210521T12:46:03Z | Null | https://github.com/yashrode774/washing-machine-featuring-using-fuzzy-logic- | 0 | 0| 
 | 20210521T12:44:17Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1191 | 212| 
 | 20210521T12:42:55Z | 模糊PID控制器的C语言实现 | https://github.com/FlameAlpha/fuzzy-pid | 0 | 0| 
 | 20210521T12:16:56Z | Null | https://github.com/XOMAv2/NeuroFuzzySystemsLabs | 0 | 0| 
@@ -126,7 +127,6 @@
 | 20210521T11:34:38Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 425 | 35| 
 | 20210521T10:59:52Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 6 | 0| 
 | 20210521T10:37:34Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
-| 20210521T10:32:05Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
 
 
 
