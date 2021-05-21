@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210521T12:06:54Z | An archived script (2018) that exploited a vulnerability within Roblox%s %Kohls Admin House NBC% that gave unintentional admin commands. | https://github.com/telgum/kah-commands | 0 | 0| 
 | 20210521T12:02:42Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 23 | 11| 
 | 20210521T12:02:33Z | An archived script (2018) that exploited a vulnerability within Roblox%s %Silent Assasin% to give advantages during gameplay. | https://github.com/telgum/silent-assassin-kit | 0 | 0| 
 | 20210521T11:27:46Z | Remote File Inclusion automatic exploiter | https://github.com/IsaPeter/rfiexploiter | 0 | 0| 
@@ -96,7 +97,6 @@
 | 20210521T10:51:43Z | A post exploitation tool based on a web application, focusing on bypassing endpoint protection and application whitelisting | https://github.com/AdrianVollmer/PowerHub | 433 | 76| 
 | 20210521T10:48:43Z | Binary Exploitation and Reverse-Engineering (from assembly into C) | https://github.com/anyaschukin/OverRide | 47 | 8| 
 | 20210521T10:30:00Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 467 | 91| 
-| 20210521T10:03:37Z | Kernel exploits and writeups | https://github.com/meowmeowxw/kernel-exploits | 5 | 0| 
 
 
 # backdoor on Github 推荐
@@ -117,6 +117,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210521T12:07:26Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 301 | 17| 
 | 20210521T11:56:55Z | Code related to the manuscript %The sequence-ensemble relationship in fuzzy protein complexes% | https://github.com/sanhadzi/PNAS_fuzzy | 0 | 0| 
 | 20210521T11:36:18Z | Null | https://github.com/mmunar97/discrete-fuzzy-operators | 0 | 0| 
 | 20210521T11:34:38Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 425 | 35| 
@@ -126,7 +127,6 @@
 | 20210521T10:25:48Z | Null | https://github.com/SBH-Top-Coder/FUZZ-IEEE-COMPETITION-ON-EXPLAINABLE-ENERGY-PREDICTION | 1 | 0| 
 | 20210521T10:10:10Z | Null | https://github.com/l392zhan/AttentionFuzzer | 0 | 0| 
 | 20210521T10:01:36Z | frontend task | https://github.com/oladunni28/fuzzbuzz | 0 | 0| 
-| 20210521T09:45:18Z | A fork and successor of the Sulley Fuzzing Framework | https://github.com/jtpereyda/boofuzz | 1224 | 244| 
 
 
 
