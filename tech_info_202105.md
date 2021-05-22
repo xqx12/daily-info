@@ -103,31 +103,31 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210521T12:20:13Z | React frontend for the cybersecurity forum website - %Backdoor% | https://github.com/backdoor-epics/backdoor-frontend | 0 | 1| 
+| 20210521T23:04:54Z | React frontend for the cybersecurity forum website - %Backdoor% | https://github.com/backdoor-epics/backdoor-frontend | 0 | 1| 
+| 20210521T23:01:34Z | Backend for our cyber security forum - %Backdoor% | https://github.com/backdoor-epics/backdoor-backend | 0 | 1| 
+| 20210521T21:49:15Z | it%s a backdoor maker that I made in c ++ and c # it is quite complete you can -take the passwords -take cookies -deactivate the task manager and an integrated dox tool | https://github.com/PanchiR/Backdoor-maker | 0 | 0| 
+| 20210521T19:03:16Z | Python 3 IRC Bot / Botnet | https://github.com/trackmastersteve/HackServ | 20 | 16| 
+| 20210521T18:32:31Z | Null | https://github.com/petrem9/Backdoor | 0 | 0| 
+| 20210521T18:15:05Z | Null | https://github.com/pdpm19/ChatWithBackdoor | 0 | 0| 
+| 20210521T14:00:46Z | install meterpreter reverse_tcp  backdoor | https://github.com/Nek0y4nSu/reverse_tcp_meterpreter_installer | 0 | 0| 
+| 20210521T13:32:12Z | Python network worm that spreads on the local network and gives the attacker control of these machines. | https://github.com/pylyf/NetWorm | 149 | 69| 
 | 20210521T10:44:41Z | Python Network Scanner with Backdoor Detection , Google Blacklist Scan and other Nmap resources | https://github.com/xadhrit/d9scan | 2 | 1| 
 | 20210521T10:42:29Z | Null | https://github.com/ebagdasa/backdoored_transformers | 0 | 0| 
-| 20210521T10:07:02Z | An npm based CLI tool to create a local proxy and bypass CORS restrictions during development of front end projects | https://github.com/drishtilabs/cors-backdoor | 4 | 0| 
-| 20210521T08:02:31Z | unlock the advanced menu of Lenovo Yoga Slim 7 BIOS | https://github.com/esno/yoga-bios-unlock | 27 | 2| 
-| 20210521T01:34:59Z | PCI Express DIY hacking toolkit for Xilinx SP605 | https://github.com/Cr4sh/s6_pcie_microblaze | 357 | 87| 
-| 20210520T22:56:02Z | Defending Against Backdoor Attacks Using Robust Covariance Estimation | https://github.com/SewoongLab/spectre-defense | 3 | 0| 
-| 20210520T22:24:48Z | Null | https://github.com/zephr1213/Pyro-Backdoor-Whitelist | 0 | 0| 
-| 20210520T21:14:50Z | Backend for our cyber security forum - %Backdoor% | https://github.com/backdoor-epics/backdoor-backend | 0 | 1| 
-| 20210520T21:10:56Z | Simple Python Backdoor | https://github.com/zNairy/Sonaris | 6 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210521T12:46:03Z | Null | https://github.com/yashrode774/washing-machine-featuring-using-fuzzy-logic- | 0 | 0| 
-| 20210521T12:44:17Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1191 | 212| 
-| 20210521T12:42:55Z | 模糊PID控制器的C语言实现 | https://github.com/FlameAlpha/fuzzy-pid | 0 | 0| 
-| 20210521T12:16:56Z | Null | https://github.com/XOMAv2/NeuroFuzzySystemsLabs | 0 | 0| 
-| 20210521T12:07:26Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 301 | 17| 
-| 20210521T11:56:55Z | Code related to the manuscript %The sequence-ensemble relationship in fuzzy protein complexes% | https://github.com/sanhadzi/PNAS_fuzzy | 0 | 0| 
-| 20210521T11:36:18Z | Null | https://github.com/mmunar97/discrete-fuzzy-operators | 0 | 0| 
-| 20210521T11:34:38Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 425 | 35| 
-| 20210521T10:59:52Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 6 | 0| 
-| 20210521T10:37:34Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
+| 20210521T23:02:53Z | Null | https://github.com/opimentel-github/fuzzy-tools | 0 | 0| 
+| 20210521T22:48:54Z | Ultra efficient tool for DNA patterns and traits searching using FM-Index. | https://github.com/FaazAbidi/Fuzzy-DNA-Search | 0 | 0| 
+| 20210521T22:44:02Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 641 | 117| 
+| 20210521T22:08:03Z | Null | https://github.com/jrc03c/fuzzy-find | 0 | 0| 
+| 20210521T22:06:17Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
+| 20210521T22:03:35Z | Null | https://github.com/JAC61090/fuzzy-Workout-tracker | 0 | 0| 
+| 20210521T21:56:21Z | Null | https://github.com/model-turismo/fuzzyLogic | 0 | 0| 
+| 20210521T21:38:54Z | Null | https://github.com/opimentel-github/fuzzy-torch | 1 | 0| 
+| 20210521T21:24:15Z | CS 4152 Project | https://github.com/nicbarone/Fuzzy-Kiwi | 0 | 0| 
+| 20210521T19:48:12Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4497 | 440| 
 
 
 
