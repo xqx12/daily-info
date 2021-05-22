@@ -52,18 +52,26 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210522T07:35:03Z | %There are ten parts of speech and they are all troublesome.%― Mark Twain | https://github.com/manjunath5496/Neural-Backdoor-Papers | 1 | 0| 
+| 20210522T06:40:45Z | Actually run a given promise or mock its outcome based on a given input value | https://github.com/johanfive/backdoor | 0 | 0| 
+| 20210522T05:35:08Z | Python network worm that spreads on the local network and gives the attacker control of these machines. | https://github.com/pylyf/NetWorm | 149 | 70| 
+| 20210522T04:28:56Z | 🤖An Evil and Smart Bot for Enslaving Windows. | https://github.com/wildonion/katyusha | 3 | 1| 
+| 20210522T04:06:38Z | Python Network Scanner with Backdoor Detection , Google Blacklist Scan and other Nmap resources | https://github.com/xadhrit/d9scan | 2 | 1| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210522T01:28:24Z | Speech Fuzzer is a tool that can take individual words or phrases and apply mutations to them that mimic real life speech impairments and use these mutated inputs to test real world applications. | https://github.com/bhmurphy/speech-fuzzer | 0 | 0| 
-| 20210522T01:12:28Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6310 | 1276| 
-| 20210522T01:11:04Z | Binary Ninja helper plugin for fuzzable target discovery | https://github.com/ex0dus-0x/fuzzable | 0 | 0| 
-| 20210522T01:01:45Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 282 | 38| 
-| 20210522T00:54:19Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2330 | 126| 
-| 20210522T00:32:49Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
-| 20210522T00:05:51Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 7 | 5| 
+| 20210522T11:56:00Z | Null | https://github.com/IsSabuhi/Laba-3-The-fuzzy-set | 0 | 0| 
+| 20210522T11:52:51Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6315 | 1276| 
+| 20210522T11:15:16Z | Null | https://github.com/wolubo/FuzzyLogicInterpreter | 0 | 0| 
+| 20210522T11:11:05Z | Null | https://github.com/Kunbbdhajjd/fuzzy-waffle | 0 | 0| 
+| 20210522T11:10:06Z | Null | https://github.com/del1ght/Fuzzy-lab3 | 0 | 0| 
+| 20210522T10:04:33Z | Null | https://github.com/mckenzieclark/fuzzy | 0 | 0| 
+| 20210522T09:51:27Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 426 | 36| 
+| 20210522T09:34:08Z | Null | https://github.com/Sambigeara/fuzzynote | 3 | 1| 
+| 20210522T07:45:06Z | Null | https://github.com/SotwareTesting-Project/Symbolic-Fuzzer | 0 | 2| 
+| 20210522T07:08:57Z | Reproduce bugs in https://github.com/google/fuzzer-test-suite | https://github.com/K-atc/reproduce-bugs-in-fuzzer-test-suite | 1 | 0| 
 
 
 
