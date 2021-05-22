@@ -46,14 +46,14 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210521T23:58:52Z | CVE-2021-31166 | Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely. | https://github.com/0vercl0k/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
+| 20210521T23:58:52Z | CVE-2021-31166 | Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely. | https://github.com/0vercl0k/CVE-2021-31166 | | 
 | 20210521T23:26:37Z | CVE-2021-31166 | HTTP Protocol Stack CVE-2021-31166 | https://github.com/corelight/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
 | 20210521T22:11:14Z | CVE-2021-21551 | Exploit to SYSTEM for CVE-2021-21551 | https://github.com/waldo-irc/CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
 | 20210521T19:36:58Z | CVE-2021-22204 | Python exploit for the CVE-2021-22204 vulnerability in Exiftool | https://github.com/convisoappsec/CVE-2021-22204-exiftool | Improper neutralization of user data in the DjVu file format in ExifTool versions 7.44 and up allows arbitrary code execution when parsing the malicious image| 
 | 20210521T15:45:50Z | CVE-2021-25660 | PoC for exploiting CVE-2021-25660 | https://github.com/JamesGeee/CVE-2021-25660 | A vulnerability has been identified in SIMATIC HMI Comfort Outdoor Panels 7\% & 15\% (incl. SIPLUS variants) (All versions < V16 Update 4), SIMATIC HMI Comfort Panels 4\% - 22\% (incl. SIPLUS variants) (All versions < V16 Update 4), SIMATIC HMI KTP Mobile Panels KTP400F, KTP700, KTP700F, KTP900 and KTP900F (All versions < V16 Update 4), SIMATIC WinCC Runtime Advanced (All versions < V16 Update 4). SmartVNC has an out-of-bounds memory access vulnerability that could be triggered on the server side when sending data from the client, which could result in a Denial-of-Service condition.| 
 | 20210521T15:45:47Z | CVE-2020-25242 | PoC for exploiting CVE-2020-25242 | https://github.com/JamesGeee/CVE-2020-25242 | A vulnerability has been identified in SIMATIC NET CP 343-1 Advanced (incl. SIPLUS variants) (All versions), SIMATIC NET CP 343-1 Lean (incl. SIPLUS variants) (All versions), SIMATIC NET CP 343-1 Standard (incl. SIPLUS variants) (All versions). Specially crafted packets sent to TCP port 102 could cause a Denial-of-Service condition on the affected devices. A cold restart might be necessary in order to recover.| 
 | 20210521T15:45:44Z | CVE-2020-17891 | PoC for exploiting CVE-2020-17891 | https://github.com/JamesGeee/CVE-2020-17891 | TP-Link Archer C1200 firmware version 1.13 Build 2018/01/24 rel.52299 EU has a XSS vulnerability allowing a remote attacker to execute arbitrary code.| 
-| 20210521T15:45:40Z | CVE-2021-27386 | PoC for exploiting CVE-2021-27386 | https://github.com/JamesGeee/CVE-2021-27386 | | 
+| 20210521T15:45:40Z | CVE-2021-27386 | PoC for exploiting CVE-2021-27386 | https://github.com/JamesGeee/CVE-2021-27386 | A vulnerability has been identified in SIMATIC HMI Comfort Outdoor Panels 7\% & 15\% (incl. SIPLUS variants) (All versions < V16 Update 4), SIMATIC HMI Comfort Panels 4\% - 22\% (incl. SIPLUS variants) (All versions < V16 Update 4), SIMATIC HMI KTP Mobile Panels KTP400F, KTP700, KTP700F, KTP900 and KTP900F (All versions < V16 Update 4), SIMATIC WinCC Runtime Advanced (All versions < V16 Update 4). SmartVNC has a heap allocation leak vulnerability in the device layout handler on client side, which could result in a Denial-of-Service condition.| 
 | 20210521T15:45:37Z | CVE-2021-23009 | PoC for exploiting CVE-2021-23009 | https://github.com/JamesGeee/CVE-2021-23009 | On BIG-IP version 16.0.x before 16.0.1.1 and 15.1.x before 15.1.3, malformed HTTP/2 requests may cause an infinite loop which causes a Denial of Service for Data Plane traffic. TMM takes the configured HA action when the TMM process is aborted. There is no control plane exposure, this is a data plane issue only. Note: Software versions which have reached End of Technical Support (EoTS) are not evaluated.| 
 | 20210521T12:39:26Z | CVE-2021-21551 | Null | https://github.com/ch3rn0byl/CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
 
@@ -118,6 +118,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210522T00:03:32Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 7 | 5| 
 | 20210521T23:02:53Z | Null | https://github.com/opimentel-github/fuzzy-tools | 0 | 0| 
 | 20210521T22:48:54Z | Ultra efficient tool for DNA patterns and traits searching using FM-Index. | https://github.com/FaazAbidi/Fuzzy-DNA-Search | 0 | 0| 
 | 20210521T22:44:02Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 641 | 117| 
@@ -127,7 +128,6 @@
 | 20210521T21:56:21Z | Null | https://github.com/model-turismo/fuzzyLogic | 0 | 0| 
 | 20210521T21:38:54Z | Null | https://github.com/opimentel-github/fuzzy-torch | 1 | 0| 
 | 20210521T21:24:15Z | CS 4152 Project | https://github.com/nicbarone/Fuzzy-Kiwi | 0 | 0| 
-| 20210521T19:48:12Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4497 | 440| 
 
 
 
