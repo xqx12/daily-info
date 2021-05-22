@@ -37,16 +37,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210522T11:59:23Z | A collection of custom built scripts to exploit known vulnerability chains | https://github.com/R-s0n/Custom_Exploits | 0 | 0| 
+| 20210522T12:04:28Z | A collection of custom built scripts to exploit known vulnerability chains | https://github.com/R-s0n/Custom_Exploits | 0 | 0| 
+| 20210522T12:03:59Z | 大型内网渗透扫描器&Cobalt Strike，Ladon7.2内置94个模块，包含信息收集/存活主机/端口扫描/服务识别/密码爆破/漏洞检测/漏洞利用。漏洞检测含MS17010/SMBGhost/Weblogic/ActiveMQ/Tomcat/Struts2，密码口令爆破(Mysql/Oracle/MSSQL)/FTP/SSH(Linux)/VNC/Windows(IPC/WMI/SMB/Netbios/LDAP/SmbHash/WmiHash/Winrm),远程执行命令(wmiexe/psexec/atexec/sshexec/webshell),降权提权Runas、GetSystem，Poc/Exploit,支持Cobalt Strike 3.X-4.0 | https://github.com/k8gege/Ladon | 2475 | 598| 
+| 20210522T12:02:49Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 23 | 11| 
 | 20210522T11:36:54Z | PS4 Exploits 6.72-7.55 | https://github.com/Buzbee/Buzbee2 | 2 | 0| 
 | 20210522T11:34:53Z | Null | https://github.com/exploiteverythingtamil/exploiteverythingtamil.github.io | 0 | 0| 
 | 20210522T11:03:07Z | RomBuster is a RomPager exploitation tool that allows to disclosure network device admin password. | https://github.com/EntySec/RomBuster | 7 | 0| 
-| 20210522T11:02:50Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 23 | 11| 
 | 20210522T10:36:25Z | Simple Exploit - это максимально простой эксплоит, который подойдёт для комфортной игры с использованием Lua. | https://github.com/PlinBlin/simple-exploit | 0 | 0| 
 | 20210522T10:23:01Z | A Exploit GUI for Roblox | https://github.com/shinyish/red-dragon | 0 | 0| 
 | 20210522T09:50:33Z | Educational web application demonstrating techniques of binary exploitation (Front-end) | https://github.com/Pen-Test3rs/binary_exploits_frontend | 0 | 0| 
 | 20210522T08:56:45Z | 🕷️ A Git source leak exploit tool that restores the entire Git repository, including data from stash, for white-box auditing and analysis of developers% mind | https://github.com/WangYihang/GitHacker | 569 | 126| 
-| 20210522T08:25:38Z | Kernel exploits and writeups | https://github.com/meowmeowxw/kernel-exploits | 5 | 0| 
 
 
 # backdoor on Github 推荐
