@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210522T00:43:39Z | CVE-2021-31166 | Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely. | https://github.com/0vercl0k/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
+| 20210522T00:52:33Z | CVE-2021-31166 | Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely. | https://github.com/0vercl0k/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
 | 20210522T00:19:28Z | CVE-2021-28482 | Null | https://github.com/KevinWorst/CVE-2021-28482_Exploit | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-28480, CVE-2021-28481, CVE-2021-28483.| 
 | 20210521T23:26:37Z | CVE-2021-31166 | HTTP Protocol Stack CVE-2021-31166 | https://github.com/corelight/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
 | 20210521T22:11:14Z | CVE-2021-21551 | Exploit to SYSTEM for CVE-2021-21551 | https://github.com/waldo-irc/CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210522T00:51:15Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 16 | 11| 
 | 20210522T00:48:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9466 | 1531| 
 | 20210522T00:19:28Z | Null | https://github.com/KevinWorst/CVE-2021-28482_Exploit | 0 | 0| 
 | 20210522T00:02:49Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 23 | 11| 
@@ -97,7 +98,6 @@
 | 20210521T21:24:14Z | Null | https://github.com/Jackondiscord/tsu_exploit | 0 | 0| 
 | 20210521T20:37:26Z | Client Go pour exploiter l%API SCIM de AWS SSO | https://github.com/CQEN-QDCE/aws-sso-scim-goclient | 0 | 0| 
 | 20210521T20:34:06Z | Null | https://github.com/exploiteverythingtamil/exploiteverythingtamil.github.io | 0 | 0| 
-| 20210521T20:32:43Z | RomBuster is a RomPager exploitation tool that allows to disclosure network router admin password. | https://github.com/EntySec/RomBuster | 7 | 0| 
 
 
 # backdoor on Github 推荐
