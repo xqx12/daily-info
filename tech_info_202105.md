@@ -118,16 +118,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210522T01:12:28Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6310 | 1276| 
+| 20210522T01:11:04Z | Binary Ninja helper plugin for fuzzable target discovery | https://github.com/ex0dus-0x/fuzzable | 0 | 0| 
+| 20210522T01:01:45Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 282 | 38| 
 | 20210522T00:54:19Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2330 | 126| 
-| 20210522T00:36:39Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 282 | 38| 
 | 20210522T00:32:49Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
 | 20210522T00:05:51Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 7 | 5| 
 | 20210521T23:02:53Z | Null | https://github.com/opimentel-github/fuzzy-tools | 0 | 0| 
 | 20210521T22:48:54Z | Ultra efficient tool for DNA patterns and traits searching using FM-Index. | https://github.com/FaazAbidi/Fuzzy-DNA-Search | 0 | 0| 
 | 20210521T22:44:02Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 641 | 117| 
 | 20210521T22:08:03Z | Null | https://github.com/jrc03c/fuzzy-find | 0 | 0| 
-| 20210521T22:03:35Z | Null | https://github.com/JAC61090/fuzzy-Workout-tracker | 0 | 0| 
-| 20210521T21:56:21Z | Null | https://github.com/model-turismo/fuzzyLogic | 0 | 0| 
 
 
 
