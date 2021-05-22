@@ -46,26 +46,26 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210522T01:49:21Z | CVE-2021-31166 | Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely. | https://github.com/0vercl0k/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
+| 20210522T10:55:11Z | CVE-2021-31166 | Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely. | https://github.com/0vercl0k/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
+| 20210522T08:16:33Z | CVE-2021-21551 | Exploit to SYSTEM for CVE-2021-21551 | https://github.com/waldo-irc/CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
+| 20210522T07:35:14Z | CVE-2021-21551 | Null | https://github.com/ch3rn0byl/CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
 | 20210522T00:19:28Z | CVE-2021-28482 | Null | https://github.com/KevinWorst/CVE-2021-28482_Exploit | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-28480, CVE-2021-28481, CVE-2021-28483.| 
 | 20210521T23:26:37Z | CVE-2021-31166 | HTTP Protocol Stack CVE-2021-31166 | https://github.com/corelight/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
-| 20210521T22:11:14Z | CVE-2021-21551 | Exploit to SYSTEM for CVE-2021-21551 | https://github.com/waldo-irc/CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
-| 20210521T19:36:58Z | CVE-2021-22204 | Python exploit for the CVE-2021-22204 vulnerability in Exiftool | https://github.com/convisoappsec/CVE-2021-22204-exiftool | Improper neutralization of user data in the DjVu file format in ExifTool versions 7.44 and up allows arbitrary code execution when parsing the malicious image| 
+| 20210521T19:36:58Z | CVE-2021-22204 | Python exploit for the CVE-2021-22204 vulnerability in Exiftool | https://github.com/convisoappsec/CVE-2021-22204-exiftool | | 
 | 20210521T15:45:50Z | CVE-2021-25660 | PoC for exploiting CVE-2021-25660 | https://github.com/JamesGeee/CVE-2021-25660 | A vulnerability has been identified in SIMATIC HMI Comfort Outdoor Panels 7\% & 15\% (incl. SIPLUS variants) (All versions < V16 Update 4), SIMATIC HMI Comfort Panels 4\% - 22\% (incl. SIPLUS variants) (All versions < V16 Update 4), SIMATIC HMI KTP Mobile Panels KTP400F, KTP700, KTP700F, KTP900 and KTP900F (All versions < V16 Update 4), SIMATIC WinCC Runtime Advanced (All versions < V16 Update 4). SmartVNC has an out-of-bounds memory access vulnerability that could be triggered on the server side when sending data from the client, which could result in a Denial-of-Service condition.| 
 | 20210521T15:45:47Z | CVE-2020-25242 | PoC for exploiting CVE-2020-25242 | https://github.com/JamesGeee/CVE-2020-25242 | A vulnerability has been identified in SIMATIC NET CP 343-1 Advanced (incl. SIPLUS variants) (All versions), SIMATIC NET CP 343-1 Lean (incl. SIPLUS variants) (All versions), SIMATIC NET CP 343-1 Standard (incl. SIPLUS variants) (All versions). Specially crafted packets sent to TCP port 102 could cause a Denial-of-Service condition on the affected devices. A cold restart might be necessary in order to recover.| 
 | 20210521T15:45:44Z | CVE-2020-17891 | PoC for exploiting CVE-2020-17891 | https://github.com/JamesGeee/CVE-2020-17891 | TP-Link Archer C1200 firmware version 1.13 Build 2018/01/24 rel.52299 EU has a XSS vulnerability allowing a remote attacker to execute arbitrary code.| 
 | 20210521T15:45:40Z | CVE-2021-27386 | PoC for exploiting CVE-2021-27386 | https://github.com/JamesGeee/CVE-2021-27386 | A vulnerability has been identified in SIMATIC HMI Comfort Outdoor Panels 7\% & 15\% (incl. SIPLUS variants) (All versions < V16 Update 4), SIMATIC HMI Comfort Panels 4\% - 22\% (incl. SIPLUS variants) (All versions < V16 Update 4), SIMATIC HMI KTP Mobile Panels KTP400F, KTP700, KTP700F, KTP900 and KTP900F (All versions < V16 Update 4), SIMATIC WinCC Runtime Advanced (All versions < V16 Update 4). SmartVNC has a heap allocation leak vulnerability in the device layout handler on client side, which could result in a Denial-of-Service condition.| 
-| 20210521T15:45:37Z | CVE-2021-23009 | PoC for exploiting CVE-2021-23009 | https://github.com/JamesGeee/CVE-2021-23009 | On BIG-IP version 16.0.x before 16.0.1.1 and 15.1.x before 15.1.3, malformed HTTP/2 requests may cause an infinite loop which causes a Denial of Service for Data Plane traffic. TMM takes the configured HA action when the TMM process is aborted. There is no control plane exposure, this is a data plane issue only. Note: Software versions which have reached End of Technical Support (EoTS) are not evaluated.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210522T08:58:47Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 620 | 14| 
 | 20210522T01:02:20Z | Null | https://github.com/KleePaimon/KleePaimon.github.io | 0 | 0| 
 | 20210521T19:54:40Z | Null | https://github.com/KLEEEN-SOFTWARE/Kleeen-svgs | 0 | 0| 
 | 20210521T12:33:47Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1693 | 492| 
 | 20210521T11:03:59Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 137 | 14| 
-| 20210521T06:20:23Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 618 | 14| 
 | 20210520T13:28:37Z | Null | https://github.com/BajacDev/rust-klee-docker | 2 | 0| 
 | 20210520T10:04:34Z | klee-2.2 | https://github.com/bruceday/klee-2.2 | 0 | 0| 
 | 20210520T06:24:30Z | OVO | https://github.com/iKleeOVO/iKleeOVO.github.io | 0 | 1| 
@@ -88,16 +88,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210522T01:58:01Z | PwnWiki shared Exploit file archive | https://github.com/JustYoomoon/Exploit | 0 | 1| 
-| 20210522T01:02:50Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 23 | 11| 
-| 20210522T00:51:15Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 16 | 11| 
-| 20210522T00:48:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9466 | 1531| 
-| 20210522T00:19:28Z | Null | https://github.com/KevinWorst/CVE-2021-28482_Exploit | 0 | 0| 
-| 20210521T23:21:56Z | Extensible framework for analyzing publicly available information about vulnerabilities | https://github.com/leonov-av/vulristics | 31 | 2| 
-| 20210521T22:32:26Z | PS4 Exploit Host | https://github.com/Night-King-Host/Night-King-Host.github.io | 8 | 9| 
-| 20210521T21:59:02Z | Collection of exploits, mainly to see where I%m at. | https://github.com/Crystalware/HEVD-Exploits | 2 | 0| 
-| 20210521T21:24:14Z | Null | https://github.com/Jackondiscord/tsu_exploit | 0 | 0| 
-| 20210521T20:37:26Z | Client Go pour exploiter l%API SCIM de AWS SSO | https://github.com/CQEN-QDCE/aws-sso-scim-goclient | 0 | 0| 
+| 20210522T11:59:23Z | A collection of custom built scripts to exploit known vulnerability chains | https://github.com/R-s0n/Custom_Exploits | 0 | 0| 
+| 20210522T11:36:54Z | PS4 Exploits 6.72-7.55 | https://github.com/Buzbee/Buzbee2 | 2 | 0| 
+| 20210522T11:34:53Z | Null | https://github.com/exploiteverythingtamil/exploiteverythingtamil.github.io | 0 | 0| 
+| 20210522T11:03:07Z | RomBuster is a RomPager exploitation tool that allows to disclosure network device admin password. | https://github.com/EntySec/RomBuster | 7 | 0| 
+| 20210522T11:02:50Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 23 | 11| 
+| 20210522T10:36:25Z | Simple Exploit - это максимально простой эксплоит, который подойдёт для комфортной игры с использованием Lua. | https://github.com/PlinBlin/simple-exploit | 0 | 0| 
+| 20210522T10:23:01Z | A Exploit GUI for Roblox | https://github.com/shinyish/red-dragon | 0 | 0| 
+| 20210522T09:50:33Z | Educational web application demonstrating techniques of binary exploitation (Front-end) | https://github.com/Pen-Test3rs/binary_exploits_frontend | 0 | 0| 
+| 20210522T08:56:45Z | 🕷️ A Git source leak exploit tool that restores the entire Git repository, including data from stash, for white-box auditing and analysis of developers% mind | https://github.com/WangYihang/GitHacker | 569 | 126| 
+| 20210522T08:25:38Z | Kernel exploits and writeups | https://github.com/meowmeowxw/kernel-exploits | 5 | 0| 
 
 
 # backdoor on Github 推荐
