@@ -20,16 +20,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210523T09:13:49Z | CVE-2021-31166 | Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely. | https://github.com/0vercl0k/CVE-2021-31166 | | 
+| 20210523T12:39:15Z | CVE-2021-31166 | Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely. | https://github.com/0vercl0k/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
 | 20210523T01:42:59Z | CVE-2020-27955 | Null | https://github.com/nob0dy-3389/CVE-2020-27955 | Git LFS 2.12.0 allows Remote Code Execution.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210523T12:38:20Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1696 | 493| 
 | 20210523T12:11:41Z | Null | https://github.com/KleePaimon/KleePaimon.github.io | 0 | 0| 
 | 20210523T08:39:52Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 621 | 14| 
-| 20210523T05:15:45Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1695 | 493| 
 
 
 # s2e on Github 推荐
@@ -40,6 +40,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210523T12:42:39Z | Exploit for CVE 2019 19208 | https://github.com/Hacker5preme/CVE-2019-19208-exploit | 0 | 0| 
 | 20210523T12:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9473 | 1534| 
 | 20210523T12:30:44Z | Collection of docker images to be used for exploit development and testing | https://github.com/mishrasunny174/pwn-docker | 6 | 1| 
 | 20210523T12:18:49Z | Exploit Development - Weaponized Exploit and Proof of Concepts (PoC)  | https://github.com/VoidSec/Exploit-Development | 32 | 11| 
@@ -49,13 +50,12 @@
 | 20210523T12:02:42Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 23 | 11| 
 | 20210523T11:45:18Z | RomBuster is a RomPager exploitation tool that allows to disclosure network device admin password. | https://github.com/EntySec/RomBuster | 7 | 0| 
 | 20210523T11:39:07Z | the ultimate exploit finder | https://github.com/ARPSyndicate/xlocate | 6 | 3| 
-| 20210523T11:18:51Z | RoSploit is a mobile exploit, designed for Apple users to use. RoSploit is 100% safe and doesn%t have any RATS. | https://github.com/deniboi123/Rosploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210523T12:35:08Z | PHP 8.1.0-dev Backdoor System Shell Script | https://github.com/flast101/php-8.1.0-dev-backdoor-rce | 0 | 0| 
+| 20210523T12:43:21Z | PHP 8.1.0-dev Backdoor System Shell Script | https://github.com/flast101/php-8.1.0-dev-backdoor-rce | 0 | 0| 
 | 20210523T12:00:22Z | Code and data of the ACL 2021 paper %Hidden Killer: Invisible Textual Backdoor Attacks with Syntactic Trigger% | https://github.com/thunlp/HiddenKiller | 0 | 0| 
 | 20210523T11:54:43Z | A batch script for taking information. A bit overdeveloped, and kind of useless. | https://github.com/Takaovi/BatchStealer | 5 | 1| 
 | 20210523T10:26:28Z | React frontend for the cybersecurity forum website - %Backdoor% | https://github.com/backdoor-epics/backdoor-frontend | 0 | 1| 
