@@ -118,16 +118,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210522T12:34:06Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6317 | 1277| 
-| 20210522T12:17:08Z | Implementation of %Dostrajanie klasyfikatora FUZZY LOGIC z użyciem procedury PSO.%  in python | https://github.com/wujekstaszek/MIO_2021_PSO_FUZZY_LOGIC | 0 | 0| 
-| 20210522T12:13:47Z | Null | https://github.com/Kunbbdhajjd/fuzzy-waffle | 0 | 0| 
-| 20210522T12:07:19Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 426 | 36| 
-| 20210522T12:05:50Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
-| 20210522T11:56:00Z | Null | https://github.com/IsSabuhi/Laba-3-The-fuzzy-set | 0 | 0| 
-| 20210522T11:15:16Z | Null | https://github.com/wolubo/FuzzyLogicInterpreter | 0 | 0| 
-| 20210522T11:10:06Z | Null | https://github.com/del1ght/Fuzzy-lab3 | 0 | 0| 
-| 20210522T10:04:33Z | Null | https://github.com/mckenzieclark/fuzzy | 0 | 0| 
-| 20210522T09:34:08Z | Null | https://github.com/Sambigeara/fuzzynote | 3 | 1| 
+| 20210522T23:54:12Z | Null | https://github.com/alihaiderrizvi/Fuzzy-DNA-Search-API | 0 | 0| 
+| 20210522T23:40:38Z | A proxy written in python to help you understand unknown protocols, modify traffic and create test cases for fuzzers.  | https://github.com/Stuart-97/pyproxy | 0 | 0| 
+| 20210522T23:33:32Z | Null | https://github.com/raphaeroo/fuzzy-fiesta | 0 | 0| 
+| 20210522T23:28:07Z | Null | https://github.com/opimentel-github/fuzzy-torch | 1 | 0| 
+| 20210522T23:08:28Z | Type-2 fuzzy logic library | https://github.com/carmelgafa/type2fuzzy | 1 | 1| 
+| 20210522T23:07:31Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
+| 20210522T23:05:30Z | GraphQLmap is a scripting engine to interact with a graphql endpoint for pentesting purposes. | https://github.com/swisskyrepo/GraphQLmap | 492 | 93| 
+| 20210522T22:57:13Z | An implementation of Fuzzy-c-Means Algorithm like described in the wikipedia page (https://de.wikipedia.org/wiki/Fuzzy-c-Means-Algorithmus) | https://github.com/munat1/fuzzy-c-means | 0 | 0| 
+| 20210522T22:27:15Z | Some sample code to start off fuzzing Java targets | https://github.com/madelineastra/jazzer-starter | 0 | 0| 
+| 20210522T21:34:27Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6320 | 1277| 
 
 
 
