@@ -54,7 +54,7 @@
 | 20210522T08:16:33Z | CVE-2021-21551 | Exploit to SYSTEM for CVE-2021-21551 | https://github.com/waldo-irc/CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
 | 20210522T07:35:14Z | CVE-2021-21551 | Null | https://github.com/ch3rn0byl/CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
 | 20210522T00:19:28Z | CVE-2021-28482 | Null | https://github.com/KevinWorst/CVE-2021-28482_Exploit | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-28480, CVE-2021-28481, CVE-2021-28483.| 
-| 20210521T23:26:37Z | CVE-2021-31166 | HTTP Protocol Stack CVE-2021-31166 | https://github.com/corelight/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
+| 20210521T23:26:37Z | CVE-2021-31166 | HTTP Protocol Stack CVE-2021-31166 | https://github.com/corelight/CVE-2021-31166 | | 
 | 20210521T15:45:50Z | CVE-2021-25660 | PoC for exploiting CVE-2021-25660 | https://github.com/JamesGeee/CVE-2021-25660 | A vulnerability has been identified in SIMATIC HMI Comfort Outdoor Panels 7\% & 15\% (incl. SIPLUS variants) (All versions < V16 Update 4), SIMATIC HMI Comfort Panels 4\% - 22\% (incl. SIPLUS variants) (All versions < V16 Update 4), SIMATIC HMI KTP Mobile Panels KTP400F, KTP700, KTP700F, KTP900 and KTP900F (All versions < V16 Update 4), SIMATIC WinCC Runtime Advanced (All versions < V16 Update 4). SmartVNC has an out-of-bounds memory access vulnerability that could be triggered on the server side when sending data from the client, which could result in a Denial-of-Service condition.| 
 
 
@@ -88,16 +88,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210523T12:03:44Z | * we have three different files for cyber crime motives in india of year 2017,2018 and 2019. * Each of this file contains cyber crime motives in india accoring to State/UT wise. * In this CSV file there are 29 States and 7 Union Territory  * There are 20 cyber crime motives like:- Personal Revenge,Anger,Fraud,Extortion,Prank,Sexual Exploitation etc. | https://github.com/RashmDesh/Cyber-Crime-Motives-in-India-State-UT-2017-19- | 0 | 0| 
+| 20210523T12:02:42Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 23 | 11| 
 | 20210523T11:45:18Z | RomBuster is a RomPager exploitation tool that allows to disclosure network device admin password. | https://github.com/EntySec/RomBuster | 7 | 0| 
 | 20210523T11:39:07Z | the ultimate exploit finder | https://github.com/ARPSyndicate/xlocate | 6 | 3| 
 | 20210523T11:35:58Z | Simple Exploit - это максимально простой эксплоит, который подойдёт для комфортной игры с использованием Lua. | https://github.com/PlinBlin/simple-exploit | 0 | 0| 
 | 20210523T11:18:51Z | RoSploit is a mobile exploit, designed for Apple users to use. RoSploit is 100% safe and doesn%t have any RATS. | https://github.com/deniboi123/Rosploit | 0 | 0| 
-| 20210523T11:02:39Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 23 | 11| 
 | 20210523T10:54:32Z | Null | https://github.com/exploiteverythingtamil/exploiteverythingtamil.github.io | 0 | 0| 
 | 20210523T10:34:57Z | Boavision aka Hankvision watchall exploit | https://github.com/IridiumXOR/boavision_exploit | 0 | 0| 
 | 20210523T09:53:40Z | Null | https://github.com/hexcellents/sss-exploit | 5 | 0| 
 | 20210523T09:15:22Z | Null | https://github.com/wjddnjs33/exploit-code | 0 | 0| 
-| 20210523T08:46:52Z | The code implementation of the acl2021 paper《Exploiting Position Bias for Robust Aspect Sentiment Classification》 | https://github.com/BD-MF/POS4ASC | 0 | 0| 
 
 
 # backdoor on Github 推荐
