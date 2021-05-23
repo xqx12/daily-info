@@ -20,7 +20,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210523T09:13:49Z | CVE-2021-31166 | Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely. | https://github.com/0vercl0k/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
+| 20210523T09:13:49Z | CVE-2021-31166 | Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely. | https://github.com/0vercl0k/CVE-2021-31166 | | 
 | 20210523T01:42:59Z | CVE-2020-27955 | Null | https://github.com/nob0dy-3389/CVE-2020-27955 | Git LFS 2.12.0 allows Remote Code Execution.| 
 
 
@@ -40,6 +40,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210523T12:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9473 | 1534| 
 | 20210523T12:30:44Z | Collection of docker images to be used for exploit development and testing | https://github.com/mishrasunny174/pwn-docker | 6 | 1| 
 | 20210523T12:18:49Z | Exploit Development - Weaponized Exploit and Proof of Concepts (PoC)  | https://github.com/VoidSec/Exploit-Development | 32 | 11| 
 | 20210523T12:09:52Z |  Just another project for monitoring public exploits for CVEs | https://github.com/ARPSyndicate/cvemon | 18 | 0| 
@@ -49,7 +50,6 @@
 | 20210523T11:45:18Z | RomBuster is a RomPager exploitation tool that allows to disclosure network device admin password. | https://github.com/EntySec/RomBuster | 7 | 0| 
 | 20210523T11:39:07Z | the ultimate exploit finder | https://github.com/ARPSyndicate/xlocate | 6 | 3| 
 | 20210523T11:18:51Z | RoSploit is a mobile exploit, designed for Apple users to use. RoSploit is 100% safe and doesn%t have any RATS. | https://github.com/deniboi123/Rosploit | 0 | 0| 
-| 20210523T10:54:32Z | Null | https://github.com/exploiteverythingtamil/exploiteverythingtamil.github.io | 0 | 0| 
 
 
 # backdoor on Github 推荐
