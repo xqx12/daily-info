@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210523T01:29:49Z | https://exploited.cz | https://github.com/spaze/exploited.cz | 8 | 2| 
 | 20210523T01:02:54Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 23 | 11| 
 | 20210523T00:18:44Z | Exploits project Hacking Command Center | https://github.com/chacka0101/exploits | 5 | 6| 
 | 20210523T00:14:06Z | Drafts of exploits made for studying and consultation purposes | https://github.com/brerodrigues/exploit_drafts | 0 | 0| 
@@ -97,7 +98,6 @@
 | 20210522T21:26:12Z | Writeup for exploit.education/nebula | https://github.com/vi11ain/nebula-writeup | 1 | 0| 
 | 20210522T21:02:32Z | Null | https://github.com/Prashant-hackthebow/exploit | 0 | 0| 
 | 20210522T20:26:12Z | A collection of custom built scripts to exploit known vulnerability chains | https://github.com/R-s0n/Custom_Exploits | 0 | 0| 
-| 20210522T19:54:58Z | My documentation and tools for learn ethical hacking. | https://github.com/mikaelkall/HackingAllTheThings | 60 | 23| 
 
 
 # backdoor on Github 推荐
