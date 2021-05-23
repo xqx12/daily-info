@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210523T09:13:49Z | CVE-2021-31166 | Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely. | https://github.com/0vercl0k/CVE-2021-31166 | | 
+| 20210523T09:13:49Z | CVE-2021-31166 | Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely. | https://github.com/0vercl0k/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
 | 20210523T01:42:59Z | CVE-2020-27955 | Null | https://github.com/nob0dy-3389/CVE-2020-27955 | Git LFS 2.12.0 allows Remote Code Execution.| 
 | 20210522T22:12:55Z | CVE-2021-22204 | Python exploit for the CVE-2021-22204 vulnerability in Exiftool | https://github.com/convisoappsec/CVE-2021-22204-exiftool | Improper neutralization of user data in the DjVu file format in ExifTool versions 7.44 and up allows arbitrary code execution when parsing the malicious image| 
 | 20210522T17:05:14Z | CVE-2021-31166 | Different rules to detect if CVE-2021-31166 is being exploited | https://github.com/Frankmock/CVE-2021-31166-detection-rules | HTTP Protocol Stack Remote Code Execution Vulnerability| 
