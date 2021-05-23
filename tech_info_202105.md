@@ -54,7 +54,7 @@
 | 20210522T07:35:14Z | CVE-2021-21551 | Null | https://github.com/ch3rn0byl/CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
 | 20210522T00:19:28Z | CVE-2021-28482 | Null | https://github.com/KevinWorst/CVE-2021-28482_Exploit | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-28480, CVE-2021-28481, CVE-2021-28483.| 
 | 20210521T23:26:37Z | CVE-2021-31166 | HTTP Protocol Stack CVE-2021-31166 | https://github.com/corelight/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
-| 20210521T15:45:50Z | CVE-2021-25660 | PoC for exploiting CVE-2021-25660 | https://github.com/JamesGeee/CVE-2021-25660 | | 
+| 20210521T15:45:50Z | CVE-2021-25660 | PoC for exploiting CVE-2021-25660 | https://github.com/JamesGeee/CVE-2021-25660 | A vulnerability has been identified in SIMATIC HMI Comfort Outdoor Panels 7\% & 15\% (incl. SIPLUS variants) (All versions < V16 Update 4), SIMATIC HMI Comfort Panels 4\% - 22\% (incl. SIPLUS variants) (All versions < V16 Update 4), SIMATIC HMI KTP Mobile Panels KTP400F, KTP700, KTP700F, KTP900 and KTP900F (All versions < V16 Update 4), SIMATIC WinCC Runtime Advanced (All versions < V16 Update 4). SmartVNC has an out-of-bounds memory access vulnerability that could be triggered on the server side when sending data from the client, which could result in a Denial-of-Service condition.| 
 | 20210521T15:45:47Z | CVE-2020-25242 | PoC for exploiting CVE-2020-25242 | https://github.com/JamesGeee/CVE-2020-25242 | A vulnerability has been identified in SIMATIC NET CP 343-1 Advanced (incl. SIPLUS variants) (All versions), SIMATIC NET CP 343-1 Lean (incl. SIPLUS variants) (All versions), SIMATIC NET CP 343-1 Standard (incl. SIPLUS variants) (All versions). Specially crafted packets sent to TCP port 102 could cause a Denial-of-Service condition on the affected devices. A cold restart might be necessary in order to recover.| 
 
 
@@ -103,16 +103,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210522T22:23:51Z | Backend for our cyber security forum - %Backdoor% | https://github.com/backdoor-epics/backdoor-backend | 0 | 1| 
+| 20210522T20:28:09Z | Into backdoor with node and express! | https://github.com/dasgupta002/web-node-advanced | 0 | 0| 
+| 20210522T20:00:51Z | PCI Express DIY hacking toolkit for Xilinx SP605 | https://github.com/Cr4sh/s6_pcie_microblaze | 357 | 87| 
+| 20210522T19:37:13Z | Null | https://github.com/werwer2133/backdoor | 0 | 0| 
+| 20210522T18:50:23Z | Backdoor has been discovered in Linsys WAG200G that listening on port 32764 in 2015. I decided to create this repository with some codes to access backdoor because this security hole exists today. | https://github.com/enty8080/32764-multi-backdoor | 1 | 0| 
+| 20210522T16:39:08Z | Python network worm that spreads on the local network and gives the attacker control of these machines. | https://github.com/pylyf/NetWorm | 150 | 71| 
+| 20210522T16:02:26Z | Python 3 IRC Bot / Botnet | https://github.com/trackmastersteve/HackServ | 20 | 16| 
+| 20210522T15:49:11Z | A batch script for taking information. A bit overdeveloped, and kind of useless. | https://github.com/Takaovi/BatchStealer | 3 | 1| 
 | 20210522T07:35:03Z | %There are ten parts of speech and they are all troublesome.%― Mark Twain | https://github.com/manjunath5496/Neural-Backdoor-Papers | 1 | 0| 
 | 20210522T06:40:45Z | Actually run a given promise or mock its outcome based on a given input value | https://github.com/johanfive/backdoor | 0 | 0| 
-| 20210522T05:35:08Z | Python network worm that spreads on the local network and gives the attacker control of these machines. | https://github.com/pylyf/NetWorm | 149 | 70| 
-| 20210522T04:28:56Z | 🤖An Evil and Smart Bot for Enslaving Windows. | https://github.com/wildonion/katyusha | 3 | 1| 
-| 20210522T04:06:38Z | Python Network Scanner with Backdoor Detection , Google Blacklist Scan and other Nmap resources | https://github.com/xadhrit/d9scan | 2 | 1| 
-| 20210521T23:04:54Z | React frontend for the cybersecurity forum website - %Backdoor% | https://github.com/backdoor-epics/backdoor-frontend | 0 | 1| 
-| 20210521T23:01:34Z | Backend for our cyber security forum - %Backdoor% | https://github.com/backdoor-epics/backdoor-backend | 0 | 1| 
-| 20210521T21:49:15Z | it%s a backdoor maker that I made in c ++ and c # it is quite complete you can -take the passwords -take cookies -deactivate the task manager and an integrated dox tool | https://github.com/PanchiR/Backdoor-maker | 0 | 0| 
-| 20210521T19:03:16Z | Python 3 IRC Bot / Botnet | https://github.com/trackmastersteve/HackServ | 20 | 16| 
-| 20210521T18:32:31Z | Null | https://github.com/petrem9/Backdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐
