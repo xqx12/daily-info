@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210522T22:21:33Z | CVE-2021-31166 | Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely. | https://github.com/0vercl0k/CVE-2021-31166 | | 
+| 20210522T22:21:33Z | CVE-2021-31166 | Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely. | https://github.com/0vercl0k/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
 | 20210522T22:12:55Z | CVE-2021-22204 | Python exploit for the CVE-2021-22204 vulnerability in Exiftool | https://github.com/convisoappsec/CVE-2021-22204-exiftool | Improper neutralization of user data in the DjVu file format in ExifTool versions 7.44 and up allows arbitrary code execution when parsing the malicious image| 
 | 20210522T17:05:14Z | CVE-2021-31166 | Different rules to detect if CVE-2021-31166 is being exploited | https://github.com/Frankmock/CVE-2021-31166-detection-rules | HTTP Protocol Stack Remote Code Execution Vulnerability| 
 | 20210522T16:14:05Z | CVE-2020-14372 | Write-up and proof of concept exploit for CVE-2020-14372 | https://github.com/kukrimate/CVE-2020-14372 | A flaw was found in grub2 in versions prior to 2.06, where it incorrectly enables the usage of the ACPI command when Secure Boot is enabled. This flaw allows an attacker with privileged access to craft a Secondary System Description Table (SSDT) containing code to overwrite the Linux kernel lockdown variable content directly into memory. The table is further loaded and executed by the kernel, defeating its Secure Boot lockdown and allowing the attacker to load unsigned code. The highest threat from this vulnerability is to data confidentiality and integrity, as well as system availability.| 
@@ -88,8 +88,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210523T00:14:06Z | Drafts of exploits made for studying and consultation purposes | https://github.com/brerodrigues/exploit_drafts | 0 | 0| 
 | 20210523T00:12:54Z |  Learning vulnerability analysis, exploit development, software debugging, binary analysis, and general cyber security issues | https://github.com/rudenal/ctfs | 0 | 0| 
-| 20210523T00:12:39Z | Null | https://github.com/brerodrigues/exploit_drafts | 0 | 0| 
 | 20210523T00:02:41Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 23 | 11| 
 | 20210522T21:46:43Z | Uses an exploit that allows an infinite amount of invites to be generated per token if they are randomized with an expiration date. This results in users not being to create invites and just being left with infinite loading until all thousands of invites expire (24 hours). | https://github.com/deadly/disable-server-invites-bug | 0 | 0| 
 | 20210522T21:35:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9471 | 1534| 
