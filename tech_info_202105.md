@@ -47,9 +47,9 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210523T09:13:49Z | CVE-2021-31166 | Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely. | https://github.com/0vercl0k/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
-| 20210523T01:42:59Z | CVE-2020-27955 | Null | https://github.com/nob0dy-3389/CVE-2020-27955 | | 
+| 20210523T01:42:59Z | CVE-2020-27955 | Null | https://github.com/nob0dy-3389/CVE-2020-27955 | Git LFS 2.12.0 allows Remote Code Execution.| 
 | 20210522T22:12:55Z | CVE-2021-22204 | Python exploit for the CVE-2021-22204 vulnerability in Exiftool | https://github.com/convisoappsec/CVE-2021-22204-exiftool | Improper neutralization of user data in the DjVu file format in ExifTool versions 7.44 and up allows arbitrary code execution when parsing the malicious image| 
-| 20210522T17:05:14Z | CVE-2021-31166 | Different rules to detect if CVE-2021-31166 is being exploited | https://github.com/Frankmock/CVE-2021-31166-detection-rules | HTTP Protocol Stack Remote Code Execution Vulnerability| 
+| 20210522T17:05:14Z | CVE-2021-31166 | Different rules to detect if CVE-2021-31166 is being exploited | https://github.com/Frankmock/CVE-2021-31166-detection-rules | | 
 | 20210522T16:14:05Z | CVE-2020-14372 | Write-up and proof of concept exploit for CVE-2020-14372 | https://github.com/kukrimate/CVE-2020-14372 | A flaw was found in grub2 in versions prior to 2.06, where it incorrectly enables the usage of the ACPI command when Secure Boot is enabled. This flaw allows an attacker with privileged access to craft a Secondary System Description Table (SSDT) containing code to overwrite the Linux kernel lockdown variable content directly into memory. The table is further loaded and executed by the kernel, defeating its Secure Boot lockdown and allowing the attacker to load unsigned code. The highest threat from this vulnerability is to data confidentiality and integrity, as well as system availability.| 
 | 20210522T08:16:33Z | CVE-2021-21551 | Exploit to SYSTEM for CVE-2021-21551 | https://github.com/waldo-irc/CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
 | 20210522T07:35:14Z | CVE-2021-21551 | Null | https://github.com/ch3rn0byl/CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210523T11:55:03Z | Null | https://github.com/KleePaimon/KleePaimon.github.io | 0 | 0| 
+| 20210523T12:11:41Z | Null | https://github.com/KleePaimon/KleePaimon.github.io | 0 | 0| 
 | 20210523T08:39:52Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 621 | 14| 
 | 20210523T05:15:45Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1695 | 493| 
 | 20210522T21:16:55Z | Null | https://github.com/KleeUT/kleeut.com | 0 | 0| 
@@ -88,22 +88,22 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210523T12:30:44Z | Collection of docker images to be used for exploit development and testing | https://github.com/mishrasunny174/pwn-docker | 6 | 1| 
+| 20210523T12:18:49Z | Exploit Development - Weaponized Exploit and Proof of Concepts (PoC)  | https://github.com/VoidSec/Exploit-Development | 32 | 11| 
+| 20210523T12:09:52Z |  Just another project for monitoring public exploits for CVEs | https://github.com/ARPSyndicate/cvemon | 18 | 0| 
+| 20210523T12:07:51Z | Simple Exploit - это максимально простой эксплоит, который подойдёт для комфортной игры с использованием Lua. | https://github.com/PlinBlin/simple-exploit | 0 | 0| 
 | 20210523T12:06:36Z | * we have three different files for cyber crime motives in india of year 2017,2018 and 2019. * Each of this file contains cyber crime motives in india accoring to State/UT wise. * In this CSV file there are 29 States and 7 Union Territory  * There are 20 cyber crime motives like:- Personal Revenge,Anger,Fraud,Extortion,Prank,Sexual Exploitation etc. | https://github.com/RashmDesh/Cyber-Crime-Motives-in-India-State-UT-2017-19- | 0 | 0| 
-| 20210523T12:06:05Z | Simple Exploit - это максимально простой эксплоит, который подойдёт для комфортной игры с использованием Lua. | https://github.com/PlinBlin/simple-exploit | 0 | 0| 
 | 20210523T12:02:42Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 23 | 11| 
 | 20210523T11:45:18Z | RomBuster is a RomPager exploitation tool that allows to disclosure network device admin password. | https://github.com/EntySec/RomBuster | 7 | 0| 
 | 20210523T11:39:07Z | the ultimate exploit finder | https://github.com/ARPSyndicate/xlocate | 6 | 3| 
 | 20210523T11:18:51Z | RoSploit is a mobile exploit, designed for Apple users to use. RoSploit is 100% safe and doesn%t have any RATS. | https://github.com/deniboi123/Rosploit | 0 | 0| 
 | 20210523T10:54:32Z | Null | https://github.com/exploiteverythingtamil/exploiteverythingtamil.github.io | 0 | 0| 
-| 20210523T10:34:57Z | Boavision aka Hankvision watchall exploit | https://github.com/IridiumXOR/boavision_exploit | 0 | 0| 
-| 20210523T09:53:40Z | Null | https://github.com/hexcellents/sss-exploit | 5 | 0| 
-| 20210523T09:15:22Z | Null | https://github.com/wjddnjs33/exploit-code | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210523T12:05:53Z | PHP 8.1.0-dev Backdoor System Shell Script | https://github.com/flast101/php-8.1.0-dev-backdoor-rce | 0 | 0| 
+| 20210523T12:19:34Z | PHP 8.1.0-dev Backdoor System Shell Script | https://github.com/flast101/php-8.1.0-dev-backdoor-rce | 0 | 0| 
 | 20210523T12:00:22Z | Code and data of the ACL 2021 paper %Hidden Killer: Invisible Textual Backdoor Attacks with Syntactic Trigger% | https://github.com/thunlp/HiddenKiller | 0 | 0| 
 | 20210523T11:54:43Z | A batch script for taking information. A bit overdeveloped, and kind of useless. | https://github.com/Takaovi/BatchStealer | 5 | 1| 
 | 20210523T10:26:28Z | React frontend for the cybersecurity forum website - %Backdoor% | https://github.com/backdoor-epics/backdoor-frontend | 0 | 1| 
