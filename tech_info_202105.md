@@ -31,6 +31,9 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210522 | 记一次反制追踪溯本求源 | https://www.anquanke.com/post/id/240962| 
+| 20210522 | JRE8u20 反序列化利用链及序列化流构造技术分析 | https://xz.aliyun.com/t/9566| 
+| 20210522 | progex: extracting graphical program representations from ... | https://github.com/ghaffarian/progex/| 
 | 20210520 | 利用云函数（SCF）打造海量代理池 | https://mp.weixin.qq.com/s/yYCJEpnp04oQFVqMz-G3bg| 
 | 20210520 | 软件质量指标自动度量方法 | https://www.aqniu.com/vendor/74278.html| 
 | 20210519 | 堆的largebin attack利用 | https://www.sec-in.com/article/1060| 
@@ -38,30 +41,28 @@
 | 20210519 | 红帽杯 - WriteUp | https://mp.weixin.qq.com/s/eMJ-tQ4qkTWpJBK244EOzQ| 
 | 20210519 | 津⻔杯-WriteUp | https://mp.weixin.qq.com/s/7uMUoMkQyJGetdlgdvy0CQ| 
 | 20210519 | 勒索病毒Kraken2.0.7分析 | https://mp.weixin.qq.com/s/HJptpktTAW5eTo3PKTR34g| 
-| 20210519 | 十四五”时期网络安全建设解读与践行 | https://mp.weixin.qq.com/s/pIXHiv0IhsTkecX0oz0o1g| 
-| 20210519 | 漏洞自动化利用（AEG）研究进展 | https://mp.weixin.qq.com/s/4BDN2NBNb9CLFci4RhJcdg| 
-| 20210518 | Domain Borrowing: 一种基于CDN的新型隐蔽通信方法 | https://xlab.tencent.com/cn/2021/05/14/domain-borrowing/| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210522T12:36:44Z | CVE-2021-31166 | Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely. | https://github.com/0vercl0k/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
-| 20210522T08:16:33Z | CVE-2021-21551 | Exploit to SYSTEM for CVE-2021-21551 | https://github.com/waldo-irc/CVE-2021-21551 | | 
-| 20210522T07:35:14Z | CVE-2021-21551 | Null | https://github.com/ch3rn0byl/CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
+| 20210522T22:21:33Z | CVE-2021-31166 | Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely. | https://github.com/0vercl0k/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
+| 20210522T22:12:55Z | CVE-2021-22204 | Python exploit for the CVE-2021-22204 vulnerability in Exiftool | https://github.com/convisoappsec/CVE-2021-22204-exiftool | Improper neutralization of user data in the DjVu file format in ExifTool versions 7.44 and up allows arbitrary code execution when parsing the malicious image| 
+| 20210522T17:05:14Z | CVE-2021-31166 | Different rules to detect if CVE-2021-31166 is being exploited | https://github.com/Frankmock/CVE-2021-31166-detection-rules | HTTP Protocol Stack Remote Code Execution Vulnerability| 
+| 20210522T16:14:05Z | CVE-2020-14372 | Write-up and proof of concept exploit for CVE-2020-14372 | https://github.com/kukrimate/CVE-2020-14372 | A flaw was found in grub2 in versions prior to 2.06, where it incorrectly enables the usage of the ACPI command when Secure Boot is enabled. This flaw allows an attacker with privileged access to craft a Secondary System Description Table (SSDT) containing code to overwrite the Linux kernel lockdown variable content directly into memory. The table is further loaded and executed by the kernel, defeating its Secure Boot lockdown and allowing the attacker to load unsigned code. The highest threat from this vulnerability is to data confidentiality and integrity, as well as system availability.| 
+| 20210522T08:16:33Z | CVE-2021-21551 | Exploit to SYSTEM for CVE-2021-21551 | https://github.com/waldo-irc/CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
+| 20210522T07:35:14Z | CVE-2021-21551 | Null | https://github.com/ch3rn0byl/CVE-2021-21551 | | 
 | 20210522T00:19:28Z | CVE-2021-28482 | Null | https://github.com/KevinWorst/CVE-2021-28482_Exploit | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-28480, CVE-2021-28481, CVE-2021-28483.| 
 | 20210521T23:26:37Z | CVE-2021-31166 | HTTP Protocol Stack CVE-2021-31166 | https://github.com/corelight/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
-| 20210521T19:36:58Z | CVE-2021-22204 | Python exploit for the CVE-2021-22204 vulnerability in Exiftool | https://github.com/convisoappsec/CVE-2021-22204-exiftool | Improper neutralization of user data in the DjVu file format in ExifTool versions 7.44 and up allows arbitrary code execution when parsing the malicious image| 
 | 20210521T15:45:50Z | CVE-2021-25660 | PoC for exploiting CVE-2021-25660 | https://github.com/JamesGeee/CVE-2021-25660 | A vulnerability has been identified in SIMATIC HMI Comfort Outdoor Panels 7\% & 15\% (incl. SIPLUS variants) (All versions < V16 Update 4), SIMATIC HMI Comfort Panels 4\% - 22\% (incl. SIPLUS variants) (All versions < V16 Update 4), SIMATIC HMI KTP Mobile Panels KTP400F, KTP700, KTP700F, KTP900 and KTP900F (All versions < V16 Update 4), SIMATIC WinCC Runtime Advanced (All versions < V16 Update 4). SmartVNC has an out-of-bounds memory access vulnerability that could be triggered on the server side when sending data from the client, which could result in a Denial-of-Service condition.| 
 | 20210521T15:45:47Z | CVE-2020-25242 | PoC for exploiting CVE-2020-25242 | https://github.com/JamesGeee/CVE-2020-25242 | A vulnerability has been identified in SIMATIC NET CP 343-1 Advanced (incl. SIPLUS variants) (All versions), SIMATIC NET CP 343-1 Lean (incl. SIPLUS variants) (All versions), SIMATIC NET CP 343-1 Standard (incl. SIPLUS variants) (All versions). Specially crafted packets sent to TCP port 102 could cause a Denial-of-Service condition on the affected devices. A cold restart might be necessary in order to recover.| 
-| 20210521T15:45:44Z | CVE-2020-17891 | PoC for exploiting CVE-2020-17891 | https://github.com/JamesGeee/CVE-2020-17891 | TP-Link Archer C1200 firmware version 1.13 Build 2018/01/24 rel.52299 EU has a XSS vulnerability allowing a remote attacker to execute arbitrary code.| 
-| 20210521T15:45:40Z | CVE-2021-27386 | PoC for exploiting CVE-2021-27386 | https://github.com/JamesGeee/CVE-2021-27386 | A vulnerability has been identified in SIMATIC HMI Comfort Outdoor Panels 7\% & 15\% (incl. SIPLUS variants) (All versions < V16 Update 4), SIMATIC HMI Comfort Panels 4\% - 22\% (incl. SIPLUS variants) (All versions < V16 Update 4), SIMATIC HMI KTP Mobile Panels KTP400F, KTP700, KTP700F, KTP900 and KTP900F (All versions < V16 Update 4), SIMATIC WinCC Runtime Advanced (All versions < V16 Update 4). SmartVNC has a heap allocation leak vulnerability in the device layout handler on client side, which could result in a Denial-of-Service condition.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210522T08:58:47Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 620 | 14| 
+| 20210522T23:10:02Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 621 | 14| 
+| 20210522T21:16:55Z | Null | https://github.com/KleeUT/kleeut.com | 0 | 0| 
 | 20210522T01:02:20Z | Null | https://github.com/KleePaimon/KleePaimon.github.io | 0 | 0| 
 | 20210521T19:54:40Z | Null | https://github.com/KLEEEN-SOFTWARE/Kleeen-svgs | 0 | 0| 
 | 20210521T12:33:47Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1693 | 492| 
@@ -70,7 +71,6 @@
 | 20210520T10:04:34Z | klee-2.2 | https://github.com/bruceday/klee-2.2 | 0 | 0| 
 | 20210520T06:24:30Z | OVO | https://github.com/iKleeOVO/iKleeOVO.github.io | 0 | 1| 
 | 20210519T13:10:18Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
-| 20210519T12:36:09Z | klee.js is a (data driven) generator and wrapper for the magnificent three.js | https://github.com/trenc/klee.js | 1 | 0| 
 
 
 # s2e on Github 推荐
