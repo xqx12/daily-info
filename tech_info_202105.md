@@ -47,15 +47,15 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210523T01:42:59Z | CVE-2020-27955 | Null | https://github.com/nob0dy-3389/CVE-2020-27955 | Git LFS 2.12.0 allows Remote Code Execution.| 
-| 20210522T22:21:33Z | CVE-2021-31166 | Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely. | https://github.com/0vercl0k/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
+| 20210522T22:21:33Z | CVE-2021-31166 | Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely. | https://github.com/0vercl0k/CVE-2021-31166 | | 
 | 20210522T22:12:55Z | CVE-2021-22204 | Python exploit for the CVE-2021-22204 vulnerability in Exiftool | https://github.com/convisoappsec/CVE-2021-22204-exiftool | Improper neutralization of user data in the DjVu file format in ExifTool versions 7.44 and up allows arbitrary code execution when parsing the malicious image| 
 | 20210522T17:05:14Z | CVE-2021-31166 | Different rules to detect if CVE-2021-31166 is being exploited | https://github.com/Frankmock/CVE-2021-31166-detection-rules | HTTP Protocol Stack Remote Code Execution Vulnerability| 
-| 20210522T16:14:05Z | CVE-2020-14372 | Write-up and proof of concept exploit for CVE-2020-14372 | https://github.com/kukrimate/CVE-2020-14372 | A flaw was found in grub2 in versions prior to 2.06, where it incorrectly enables the usage of the ACPI command when Secure Boot is enabled. This flaw allows an attacker with privileged access to craft a Secondary System Description Table (SSDT) containing code to overwrite the Linux kernel lockdown variable content directly into memory. The table is further loaded and executed by the kernel, defeating its Secure Boot lockdown and allowing the attacker to load unsigned code. The highest threat from this vulnerability is to data confidentiality and integrity, as well as system availability.| 
-| 20210522T08:16:33Z | CVE-2021-21551 | Exploit to SYSTEM for CVE-2021-21551 | https://github.com/waldo-irc/CVE-2021-21551 | | 
+| 20210522T16:14:05Z | CVE-2020-14372 | Write-up and proof of concept exploit for CVE-2020-14372 | https://github.com/kukrimate/CVE-2020-14372 | | 
+| 20210522T08:16:33Z | CVE-2021-21551 | Exploit to SYSTEM for CVE-2021-21551 | https://github.com/waldo-irc/CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
 | 20210522T07:35:14Z | CVE-2021-21551 | Null | https://github.com/ch3rn0byl/CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
 | 20210522T00:19:28Z | CVE-2021-28482 | Null | https://github.com/KevinWorst/CVE-2021-28482_Exploit | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-28480, CVE-2021-28481, CVE-2021-28483.| 
-| 20210521T23:26:37Z | CVE-2021-31166 | HTTP Protocol Stack CVE-2021-31166 | https://github.com/corelight/CVE-2021-31166 | | 
-| 20210521T15:45:50Z | CVE-2021-25660 | PoC for exploiting CVE-2021-25660 | https://github.com/JamesGeee/CVE-2021-25660 | | 
+| 20210521T23:26:37Z | CVE-2021-31166 | HTTP Protocol Stack CVE-2021-31166 | https://github.com/corelight/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
+| 20210521T15:45:50Z | CVE-2021-25660 | PoC for exploiting CVE-2021-25660 | https://github.com/JamesGeee/CVE-2021-25660 | A vulnerability has been identified in SIMATIC HMI Comfort Outdoor Panels 7\% & 15\% (incl. SIPLUS variants) (All versions < V16 Update 4), SIMATIC HMI Comfort Panels 4\% - 22\% (incl. SIPLUS variants) (All versions < V16 Update 4), SIMATIC HMI KTP Mobile Panels KTP400F, KTP700, KTP700F, KTP900 and KTP900F (All versions < V16 Update 4), SIMATIC WinCC Runtime Advanced (All versions < V16 Update 4). SmartVNC has an out-of-bounds memory access vulnerability that could be triggered on the server side when sending data from the client, which could result in a Denial-of-Service condition.| 
 
 
 # klee on Github 推荐
@@ -88,7 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210523T01:38:56Z | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | 6306 | 1434| 
+| 20210523T01:43:53Z | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | 6306 | 1434| 
 | 20210523T01:29:49Z | https://exploited.cz | https://github.com/spaze/exploited.cz | 8 | 2| 
 | 20210523T01:02:54Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 23 | 11| 
 | 20210523T00:18:44Z | Exploits project Hacking Command Center | https://github.com/chacka0101/exploits | 5 | 6| 
