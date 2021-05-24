@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210524T01:01:53Z | CVE-2021-31166 | Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely. | https://github.com/0vercl0k/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
+| 20210524T01:43:55Z | CVE-2021-31166 | Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely. | https://github.com/0vercl0k/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
 | 20210523T23:02:41Z | CVE-2021-1905 | Qualcomm GPU / ARM Mali GPU | https://github.com/TAKIANFIF/CVE-2021-1905-CVE-2021-1906-CVE-2021-28663-CVE-2021-28664 | Possible use after free due to improper handling of memory mapping of multiple processes simultaneously. in Snapdragon Auto, Snapdragon Compute, Snapdragon Connectivity, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon Mobile, Snapdragon Voice & Music, Snapdragon Wearables| 
 | 20210523T21:21:44Z | CVE-2021-21551 | Exploit to SYSTEM for CVE-2021-21551 | https://github.com/waldo-irc/CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
 | 20210523T20:00:40Z | CVE-2021-31166 | Different rules to detect if CVE-2021-31166 is being exploited | https://github.com/Frankmock/CVE-2021-31166-detection-rules | HTTP Protocol Stack Remote Code Execution Vulnerability| 
-| 20210523T19:32:43Z | CVE-2021-31166 | Null | https://github.com/bgsilvait/WIn-CVE-2021-31166 | | 
+| 20210523T19:32:43Z | CVE-2021-31166 | Null | https://github.com/bgsilvait/WIn-CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
 | 20210523T14:11:06Z | cve-2021-29447 | WordPress XXE vulnerability | https://github.com/Vulnmachines/wordpress_cve-2021-29447 | Wordpress is an open source CMS. A user with the ability to upload files (like an Author) can exploit an XML parsing issue in the Media Library leading to XXE attacks. This requires WordPress installation to be using PHP 8. Access to internal files is possible in a successful XXE attack. This has been patched in WordPress version 5.7.1, along with the older affected versions via a minor release. We strongly recommend you keep auto-updates enabled.| 
 | 20210523T01:42:59Z | CVE-2020-27955 | Null | https://github.com/nob0dy-3389/CVE-2020-27955 | Git LFS 2.12.0 allows Remote Code Execution.| 
 | 20210522T22:12:55Z | CVE-2021-22204 | Python exploit for the CVE-2021-22204 vulnerability in Exiftool | https://github.com/convisoappsec/CVE-2021-22204-exiftool | Improper neutralization of user data in the DjVu file format in ExifTool versions 7.44 and up allows arbitrary code execution when parsing the malicious image| 
 | 20210522T16:14:05Z | CVE-2020-14372 | Write-up and proof of concept exploit for CVE-2020-14372 | https://github.com/kukrimate/CVE-2020-14372 | A flaw was found in grub2 in versions prior to 2.06, where it incorrectly enables the usage of the ACPI command when Secure Boot is enabled. This flaw allows an attacker with privileged access to craft a Secondary System Description Table (SSDT) containing code to overwrite the Linux kernel lockdown variable content directly into memory. The table is further loaded and executed by the kernel, defeating its Secure Boot lockdown and allowing the attacker to load unsigned code. The highest threat from this vulnerability is to data confidentiality and integrity, as well as system availability.| 
-| 20210522T07:35:14Z | CVE-2021-21551 | Null | https://github.com/ch3rn0byl/CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
+| 20210522T07:35:14Z | CVE-2021-21551 | Null | https://github.com/ch3rn0byl/CVE-2021-21551 | | 
 
 
 # klee on Github 推荐
@@ -88,16 +88,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210524T01:10:02Z | Null | https://github.com/HarryTheKing1/Harrys-Exploit | 0 | 0| 
-| 20210524T01:09:36Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
+| 20210524T02:02:45Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
+| 20210524T01:39:03Z | Null | https://github.com/HarryTheKing1/Harrys-Exploit | 0 | 0| 
+| 20210524T01:28:35Z | OWASP Top 10 Web Application vulnerabilities using C# and .Net core framework | https://github.com/Sytechia/Exploit_me | 1 | 0| 
+| 20210524T01:24:02Z | Null | https://github.com/noah213/testExploit | 0 | 0| 
+| 20210524T01:22:34Z | Exploit to hack magento 1.9 /admin | https://github.com/Gabriel712/exploite_cookie_magento1.9 | 0 | 0| 
 | 20210524T00:58:41Z | xnu_gym is a pongoOS module that patches XNU to reintroduce previously known and patched vulnerabilities. This is an easy way to practice kernel exploitation and jailbreak development! | https://github.com/tjkr0wn/xnu_gym | 45 | 1| 
 | 20210524T00:52:00Z | The following repository contains multiple versions of a reverse tcp netcat shell for use on exploited Linux or Unix machines | https://github.com/its-mr-monday/Reverse-Shell-Lib | 0 | 0| 
 | 20210524T00:29:06Z | An easy challenge for a stack-based buffer overflow! Preset shellcode will execute calc.exe upon exploitation. | https://github.com/Crystalware/BufferOverflow_EasyChallenge | 0 | 0| 
-| 20210524T00:25:38Z | Exploit to hack magento 1.9 /admin | https://github.com/Gabriel712/exploite_cookie_magento1.9 | 0 | 0| 
 | 20210523T23:40:22Z | Pseudo shells for different Lambda Runtime Environments & Lambda persistency exploits | https://github.com/Djkusik/Lambda-sHell | 0 | 0| 
 | 20210523T23:28:52Z | Null | https://github.com/Tarassssss/stack_overflow_exploit | 0 | 0| 
-| 20210523T22:26:28Z | The materials used in Securiday 2021 Training session | https://github.com/kahla-sec/The-Art-Of-Exploiting-Logic-Flaws-Training-Material | 0 | 0| 
-| 20210523T22:03:53Z | Exploits of CVEs with detailed comments | https://github.com/klecko/exploits | 3 | 0| 
 
 
 # backdoor on Github 推荐
@@ -118,6 +118,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210524T01:31:49Z | Null | https://github.com/jbc913/fuzzy-couscous | 0 | 0| 
 | 20210524T00:21:55Z | CS 4152 Project | https://github.com/nicbarone/Fuzzy-Kiwi | 0 | 0| 
 | 20210523T22:58:25Z | Null | https://github.com/fuzzycrawler/fuzzycrawler | 0 | 0| 
 | 20210523T22:57:10Z | Null | https://github.com/MazenH24/two_layer_fuzzy_logic_system | 0 | 0| 
@@ -127,7 +128,6 @@
 | 20210523T20:55:29Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6323 | 1280| 
 | 20210523T20:50:55Z | Null | https://github.com/Sherif0077/fuzzy-octo-happiness | 0 | 0| 
 | 20210523T20:11:12Z | Null | https://github.com/hsm207/rasa_fuzzy | 0 | 0| 
-| 20210523T20:09:22Z | Null | https://github.com/ercoppa-bot/fuzzolic-builder-ci | 0 | 0| 
 
 
 
