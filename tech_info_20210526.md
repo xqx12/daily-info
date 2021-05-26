@@ -29,9 +29,9 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210526T03:06:30Z | CVE-2021-20914 | POC for CVE2021-2091 VMWare ESXi RCE Exploit | https://github.com/Shadow0ps/CVE-2021-20914 | 未查询到CVE信息| 
-| 20210526T03:01:08Z | CVE-2020-27216 | PoC for exploiting CVE-2020-27216 | https://github.com/JamesGeee/CVE-2020-27216 | In Eclipse Jetty versions 1.0 thru 9.4.32.v20200930, 10.0.0.alpha1 thru 10.0.0.beta2, and 11.0.0.alpha1 thru 11.0.0.beta2O, on Unix like systems, the system%s temporary directory is shared between all users on that system. A collocated user can observe the process of creating a temporary sub directory in the shared temporary directory and race to complete the creation of the temporary subdirectory. If the attacker wins the race then they will have read and write permission to the subdirectory used to unpack web applications, including their WEB-INF/lib jar files and JSP files. If any code is ever executed out of this temporary directory, this can lead to a local privilege escalation vulnerability.| 
+| 20210526T03:01:08Z | CVE-2020-27216 | PoC for exploiting CVE-2020-27216 | https://github.com/JamesGeee/CVE-2020-27216 | | 
 | 20210526T03:00:28Z | CVE-2021-28112 | PoC for exploiting CVE-2021-28112 | https://github.com/JamesGeee/CVE-2021-28112 | Draeger X-Dock Firmware before 03.00.13 has Active Debug Code on a debug port, leading to remote code execution by an authenticated attacker.| 
-| 20210526T03:00:24Z | CVE-2021-28111 | PoC for exploiting CVE-2021-28111 | https://github.com/JamesGeee/CVE-2021-28111 | | 
+| 20210526T03:00:24Z | CVE-2021-28111 | PoC for exploiting CVE-2021-28111 | https://github.com/JamesGeee/CVE-2021-28111 | Draeger X-Dock Firmware before 03.00.13 has Hard-Coded Credentials, leading to remote code execution by an authenticated attacker.| 
 | 20210526T03:00:21Z | CVE-2021-33574 | PoC for exploiting CVE-2021-33574 | https://github.com/JamesGeee/CVE-2021-33574 | The mq_notify function in the GNU C Library (aka glibc) through 2.33 has a use-after-free. It may use the notification thread attributes object (passed through its struct sigevent parameter) after it has been freed by the caller, leading to a denial of service (application crash) or possibly unspecified other impact.| 
 | 20210526T03:00:18Z | CVE-2021-33570 | PoC for exploiting CVE-2021-33570 | https://github.com/JamesGeee/CVE-2021-33570 | Postbird 0.8.4 allows stored XSS via the onerror attribute of an IMG element in any PostgreSQL database table. This can result in reading local files via vectors involving XMLHttpRequest and open of a file:/// URL, or discovering PostgreSQL passwords via vectors involving Window.localStorage and savedConnections.| 
 | 20210526T03:00:15Z | CVE-2021-22667 | PoC for exploiting CVE-2021-22667 | https://github.com/JamesGeee/CVE-2021-22667 | BB-ESWGP506-2SFP-T versions 1.01.09 and prior is vulnerable due to the use of hard-coded credentials, which may allow an attacker to gain unauthorized access and permit the execution of arbitrary code on the BB-ESWGP506-2SFP-T (versions 1.01.01 and prior).| 
@@ -41,9 +41,9 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210526T12:50:27Z | Null | https://github.com/KleePaimon/KleePaimon.github.io | 0 | 0| 
 | 20210526T07:51:58Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1700 | 493| 
 | 20210526T05:44:27Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 631 | 14| 
-| 20210526T05:21:10Z | Null | https://github.com/KleePaimon/KleePaimon.github.io | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -55,16 +55,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210526T12:51:19Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 16 | 11| 
+| 20210526T12:51:11Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 75 | 13| 
+| 20210526T12:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9487 | 1535| 
+| 20210526T12:28:02Z | A smart contract to interact between Lending protocols like Compound and AMMs like Uniswap. Can be useful in exploiting arbitrage opportunities. | https://github.com/adigupta13/Compound-Uniswap | 0 | 0| 
 | 20210526T12:16:08Z | A collection of 350+ hacking tools you can install into termux for hacking, Pentesting, Mapping and more. In this tool you will get a total of 350+ hacking tools for you to install into termux/kali/windows/ubuntu, suitable for pentesters, bug hunting, exploitation, mapping, etc. You can install these tools by just typing the number it falls under. | https://github.com/SirManishKumar/MNSAllTools | 0 | 0| 
 | 20210526T12:08:04Z | Null | https://github.com/ItsAaronBoi/binary_exploits_Project | 0 | 0| 
 | 20210526T12:02:53Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210526T11:56:40Z | A tool to identify and exploit sudo rules% misconfigurations and vulnerabilities within sudo for linux privilege escalation. | https://github.com/TH3xACE/SUDO_KILLER | 1144 | 161| 
 | 20210526T11:47:34Z | An extension for the iPwn iOS Exploitation Framework. | https://github.com/0x1CA3/iSteal | 0 | 0| 
 | 20210526T11:46:04Z | Null | https://github.com/wjddnjs33/exploit-code | 0 | 0| 
-| 20210526T11:42:51Z | Don%t tell me what not to do - Mutex built on an M1 security exploit | https://github.com/LunaTheFoxgirl/m1racle-mutex | 5 | 0| 
-| 20210526T11:26:45Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 471 | 92| 
-| 20210526T11:18:08Z | Null | https://github.com/Noizeeee/Exploits | 0 | 0| 
-| 20210526T10:29:58Z | An Exploit fixer designed for the anarchy server 3b3t.me, however it can be used on your server as well! | https://github.com/KRYMZ0N/3bExploitFixer | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -82,6 +82,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210526T12:40:01Z | Null | https://github.com/Tuahdnnadld/fuzzy-guacamole | 0 | 0| 
+| 20210526T12:24:30Z | oss-fuzz-base-images-hub | https://github.com/xxrz/oss-fuzz-base-images-hub | 0 | 0| 
 | 20210526T12:22:54Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6332 | 1283| 
 | 20210526T12:15:15Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 7 | 5| 
 | 20210526T12:01:43Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 431 | 36| 
@@ -90,8 +92,6 @@
 | 20210526T11:38:09Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3524 | 817| 
 | 20210526T11:29:45Z | fuzzing + concolic = fuzzolic :) | https://github.com/season-lab/fuzzolic | 2 | 0| 
 | 20210526T11:12:23Z | Take the current implementation and turning a microservice architecture | https://github.com/ccesarrod/FuzzyMicrosrvices | 0 | 0| 
-| 20210526T11:07:37Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 127 | 13| 
-| 20210526T11:01:23Z | Node JS project for experiment | https://github.com/dannythreeka/fuzzy-bassoon | 0 | 0| 
 
 
 
