@@ -16,6 +16,7 @@
 | 20210527 | Patch Gapping a Safari Type Confusion | https://blog.theori.io/research/webkit-type-confusion/| 
 | 20210527 | Checkpoint 对 IcedID Botnet Server 的检测方法 | https://research.checkpoint.com/2021/melting-ice-tracking-icedid-servers-with-a-few-simple-steps/| 
 | 20210527 | 有研究员对常用 PDF 应用的测试中发现，用于 PDF 文件防篡改的 Certification Signatures 认证机制存在问题 | https://sec.today/pulses/f3f15c01-14a1-4ad8-9d57-d1efccfd9492/| 
+| 20210527 | 有研究员对常用 PDF 应用的测试中发现，用于 PDF 文件防篡改的 Certification Signatures 认证机制存在问题 | https://threatpost.com/pdf-certified-widely-vulnerable-to-attack/166505/| 
 
 
 # 安全维基 推荐
@@ -35,11 +36,11 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210527T12:32:54Z | Null | https://github.com/KleePaimon/KleePaimon.github.io | 0 | 0| 
 | 20210527T10:06:20Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1701 | 494| 
 | 20210527T09:34:51Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 14 | 44| 
 | 20210527T08:16:02Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 633 | 15| 
 | 20210527T06:03:56Z | Null | https://github.com/sanghu1790/KLEEMA | 0 | 0| 
-| 20210527T05:21:20Z | Null | https://github.com/KleePaimon/KleePaimon.github.io | 0 | 0| 
 | 20210527T04:08:19Z | Config files for my GitHub profile. | https://github.com/joao-kleeber/joao-kleeber | 0 | 0| 
 
 
@@ -51,16 +52,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210527T12:57:06Z | Aim to help building exploitation and debugging of CTFs pwn quickly | https://github.com/AmazingPwn/pwn_debug | 0 | 0| 
+| 20210527T12:39:08Z | PS1 savegame exploit | https://github.com/socram8888/tonyhax | 285 | 8| 
+| 20210527T12:35:21Z | Null | https://github.com/exploit-code/exploit-code.github.io | 0 | 0| 
+| 20210527T12:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9495 | 1536| 
+| 20210527T12:29:24Z | Advanced Windows Exploitation/Offensive Security Exploitation Expert Preparation for Black Hat 2022 | https://github.com/connormcgarr/Exploit-Development | 125 | 72| 
+| 20210527T12:27:52Z | Advanced Windows Exploitation/Offensive Security Exploitation Expert Preparation for Black Hat 2022 | https://github.com/connormcgarr/User-Mode-Exploit-Development | 125 | 72| 
+| 20210527T12:22:19Z | Exploiting Linksys WRT54G using a vulnerability I found. | https://github.com/elongl/linksys-wrt54g | 0 | 0| 
+| 20210527T12:02:55Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210527T12:00:33Z | automated application fingerprinting, vulnerability testing & exploitation framework for kenzer | https://github.com/ARPSyndicate/freaker | 10 | 2| 
-| 20210527T11:59:31Z | Exploiting Linksys WRT54G using a vulnerability I found. | https://github.com/elongl/linksys-wrt54g | 0 | 0| 
 | 20210527T11:56:52Z | A Monaco fork for Roblox (exploiting). All functions from LuaU and custom executor functions are present with documentation. | https://github.com/EthanMcBloxxer/Rosploco | 0 | 0| 
-| 20210527T11:56:39Z | A collection of 350+ hacking tools you can install into termux for hacking, Pentesting, Mapping and more. In this tool you will get a total of 350+ hacking tools for you to install into termux/kali/windows/ubuntu, suitable for pentesters, bug hunting, exploitation, mapping, etc. You can install these tools by just typing the number it falls under. | https://github.com/SirManishKumar/MNSAllTools | 0 | 0| 
-| 20210527T11:55:02Z | Null | https://github.com/exploit-code/exploit-code.github.io | 0 | 0| 
-| 20210527T11:39:15Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 19 | 0| 
-| 20210527T11:02:47Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
-| 20210527T10:58:50Z | The whole collection of Exploits developed by me (Hacker5preme) | https://github.com/Hacker5preme/Exploits | 0 | 0| 
-| 20210527T10:55:35Z | Null | https://github.com/pwnmeow/exploitable_templates | 0 | 0| 
-| 20210527T10:45:32Z | Null | https://github.com/Raycodex/Exploiting | 1 | 1| 
 
 
 # backdoor on Github 推荐
@@ -77,16 +78,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210527T12:47:02Z | Fuzzy Logic for Python 3 | https://github.com/amogorkon/fuzzylogic | 22 | 10| 
+| 20210527T12:38:44Z | Written standups for remote teams. Inspired by Basecamp. | https://github.com/malikpiara/fuzzboard | 1 | 0| 
+| 20210527T12:28:06Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2333 | 126| 
+| 20210527T12:15:14Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 7 | 5| 
+| 20210527T12:08:29Z | Null | https://github.com/gamzemdn/fuzzy_logic | 0 | 0| 
 | 20210527T11:27:58Z | Null | https://github.com/ccesarrod/.NetCoreFuzzy | 0 | 0| 
 | 20210527T11:17:50Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1769 | 348| 
 | 20210527T11:15:18Z | a c program containing vulnerable code for common types of vulnerabilities, can be used to show fuzzing concepts. | https://github.com/hardik05/Damn_Vulnerable_C_Program | 248 | 29| 
 | 20210527T11:10:12Z | TL-DR | https://github.com/SONJAYA80026/fuzzy-fiea | 0 | 0| 
 | 20210527T10:28:44Z | Null | https://github.com/JlKmn/NHapi-Fuzz-Environment | 0 | 0| 
-| 20210527T10:16:09Z | 🕑 A fuzzy clock app for Tidbyt. | https://github.com/mtimkovich/tidbyt-fuzzy-clock | 0 | 0| 
-| 20210527T10:08:42Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 2 | 1| 
-| 20210527T09:46:30Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
-| 20210527T09:17:45Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 431 | 37| 
-| 20210527T09:08:17Z | Null | https://github.com/Sambigeara/fuzzynote | 3 | 1| 
 
 
 
