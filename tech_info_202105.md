@@ -51,17 +51,17 @@
 | 20210526T03:01:08Z | CVE-2020-27216 | PoC for exploiting CVE-2020-27216 | https://github.com/JamesGeee/CVE-2020-27216 | In Eclipse Jetty versions 1.0 thru 9.4.32.v20200930, 10.0.0.alpha1 thru 10.0.0.beta2, and 11.0.0.alpha1 thru 11.0.0.beta2O, on Unix like systems, the system%s temporary directory is shared between all users on that system. A collocated user can observe the process of creating a temporary sub directory in the shared temporary directory and race to complete the creation of the temporary subdirectory. If the attacker wins the race then they will have read and write permission to the subdirectory used to unpack web applications, including their WEB-INF/lib jar files and JSP files. If any code is ever executed out of this temporary directory, this can lead to a local privilege escalation vulnerability.| 
 | 20210526T03:00:28Z | CVE-2021-28112 | PoC for exploiting CVE-2021-28112 | https://github.com/JamesGeee/CVE-2021-28112 | Draeger X-Dock Firmware before 03.00.13 has Active Debug Code on a debug port, leading to remote code execution by an authenticated attacker.| 
 | 20210526T03:00:24Z | CVE-2021-28111 | PoC for exploiting CVE-2021-28111 | https://github.com/JamesGeee/CVE-2021-28111 | Draeger X-Dock Firmware before 03.00.13 has Hard-Coded Credentials, leading to remote code execution by an authenticated attacker.| 
-| 20210526T03:00:21Z | CVE-2021-33574 | PoC for exploiting CVE-2021-33574 | https://github.com/JamesGeee/CVE-2021-33574 | | 
+| 20210526T03:00:21Z | CVE-2021-33574 | PoC for exploiting CVE-2021-33574 | https://github.com/JamesGeee/CVE-2021-33574 | The mq_notify function in the GNU C Library (aka glibc) through 2.33 has a use-after-free. It may use the notification thread attributes object (passed through its struct sigevent parameter) after it has been freed by the caller, leading to a denial of service (application crash) or possibly unspecified other impact.| 
 | 20210526T03:00:18Z | CVE-2021-33570 | PoC for exploiting CVE-2021-33570 | https://github.com/JamesGeee/CVE-2021-33570 | Postbird 0.8.4 allows stored XSS via the onerror attribute of an IMG element in any PostgreSQL database table. This can result in reading local files via vectors involving XMLHttpRequest and open of a file:/// URL, or discovering PostgreSQL passwords via vectors involving Window.localStorage and savedConnections.| 
 | 20210526T03:00:15Z | CVE-2021-22667 | PoC for exploiting CVE-2021-22667 | https://github.com/JamesGeee/CVE-2021-22667 | BB-ESWGP506-2SFP-T versions 1.01.09 and prior is vulnerable due to the use of hard-coded credentials, which may allow an attacker to gain unauthorized access and permit the execution of arbitrary code on the BB-ESWGP506-2SFP-T (versions 1.01.01 and prior).| 
-| 20210526T03:00:11Z | CVE-2021-33575 | PoC for exploiting CVE-2021-33575 | https://github.com/JamesGeee/CVE-2021-33575 | | 
+| 20210526T03:00:11Z | CVE-2021-33575 | PoC for exploiting CVE-2021-33575 | https://github.com/JamesGeee/CVE-2021-33575 | The Pixar ruby-jss gem before 1.6.0 allows remote attackers to execute arbitrary code because of the Plist gem%s documented behavior of using Marshal.load during XML document processing.| 
 | 20210525T21:50:46Z | 未知编号 | LPIOT2020-2021 Cours (M3) sur Neo4J | https://github.com/AdrianPaulCarrieres/lpiot2020-neo4j-cve-adrianpaulcarrieres | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210526T15:44:31Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 632 | 14| 
+| 20210526T15:44:31Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 632 | 15| 
 | 20210526T12:50:27Z | Null | https://github.com/KleePaimon/KleePaimon.github.io | 0 | 0| 
 | 20210526T07:51:58Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1700 | 494| 
 | 20210525T21:13:57Z | Null | https://github.com/JaimePSantos/ResearchKlee | 0 | 0| 
@@ -88,25 +88,25 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210527T01:25:26Z | Null | https://github.com/ParaVox-no/ExploitScript | 0 | 0| 
+| 20210527T01:02:44Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
+| 20210527T00:51:19Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 16 | 11| 
 | 20210527T00:13:51Z | Null | https://github.com/Tifoaui/CVE_Exploit | 0 | 0| 
 | 20210527T00:05:17Z | A Monaco fork for Roblox (exploiting). All functions from LuaU and custom executor functions are present with documentation. | https://github.com/EthanMcBloxxer/Rosploco | 0 | 0| 
-| 20210527T00:02:42Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210526T23:55:03Z | Developing and backtesting performance of a market neutral trading strategy which aims to exploit temporary anomalies in correlation between 2 pair of assets. | https://github.com/Naharul98/Pairs-Trading-Highly-Correlated-Assets | 0 | 0| 
 | 20210526T23:22:06Z | Null | https://github.com/SxnwDev/Exploit | 0 | 0| 
 | 20210526T23:15:44Z | Null | https://github.com/Mehvix/cryptotrunks-exploit | 0 | 0| 
 | 20210526T23:08:53Z | A tool to identify and exploit sudo rules% misconfigurations and vulnerabilities within sudo for linux privilege escalation. | https://github.com/TH3xACE/SUDO_KILLER | 1145 | 161| 
 | 20210526T23:06:46Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9490 | 1536| 
-| 20210526T22:55:01Z | This is where I will put my open source admin commands project. Feel free to suggest ideas or report bugs/exploits. | https://github.com/captainbboy/Roblox-Admin-Commands-Open-Source | 0 | 0| 
-| 20210526T22:14:35Z | Tools and Exploits | https://github.com/abundov/exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210527T00:46:31Z | Backend for our cyber security forum - %Backdoor% | https://github.com/backdoor-epics/backdoor-backend | 0 | 1| 
 | 20210526T23:56:08Z | Python Backdoor for the INE course | https://github.com/Ioan93Andrei/Python-Backdoor | 0 | 0| 
 | 20210526T23:34:46Z | The Project is mainly based on Sockets , File Handling and subprocess library for Creating backdoors For Hacking into one%s Computer (Any OS-Platform Service)   and listening on your computer and waiting for Connections and Running system Commands from Your Computer to the target Computer for which Output will be Displayed On your Computer.  | https://github.com/shivdon/Socket-Backdoor-and-Listener | 1 | 1| 
 | 20210526T22:39:28Z | PCI Express DIY hacking toolkit for Xilinx SP605 | https://github.com/Cr4sh/s6_pcie_microblaze | 358 | 88| 
-| 20210526T22:15:34Z | Backend for our cyber security forum - %Backdoor% | https://github.com/backdoor-epics/backdoor-backend | 0 | 1| 
 | 20210526T17:32:00Z | Simple POST Request Shell Command Execution | https://github.com/dmzhari/hidden-shell | 0 | 0| 
 | 20210526T17:20:57Z | Null | https://github.com/ritesh-joshi1337/backdoor | 0 | 0| 
 | 20210526T16:52:13Z | A batch script for taking information. A bit overdeveloped, and kind of useless. | https://github.com/Takaovi/BatchStealer | 6 | 1| 
@@ -118,16 +118,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210526T12:51:56Z | Null | https://github.com/Sambigeara/fuzzynote | 3 | 1| 
-| 20210526T12:49:37Z | Null | https://github.com/nisamaulia/fuzzylogic-restaurant_quality | 0 | 0| 
-| 20210526T12:40:01Z | Null | https://github.com/Tuahdnnadld/fuzzy-guacamole | 0 | 0| 
-| 20210526T12:24:30Z | oss-fuzz-base-images-hub | https://github.com/xxrz/oss-fuzz-base-images-hub | 0 | 0| 
-| 20210526T12:22:54Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6332 | 1283| 
-| 20210526T12:15:15Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 7 | 5| 
-| 20210526T12:01:43Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 431 | 36| 
-| 20210526T11:57:25Z | Null | https://github.com/me-mazandarani/Fuzzy-Logic | 0 | 0| 
-| 20210526T11:50:10Z | Null | https://github.com/me-mazandarani/Fuzzy-Logic-System | 0 | 0| 
-| 20210526T11:38:09Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3524 | 817| 
+| 20210527T01:27:32Z | My profile README.md | https://github.com/FuzzyStatic/FuzzyStatic | 0 | 0| 
+| 20210527T01:08:50Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 837 | 86| 
+| 20210527T01:00:05Z | Null | https://github.com/opimentel-github/fuzzy-torch | 1 | 0| 
+| 20210527T00:35:33Z | Ultra efficient tool for DNA patterns and traits searching using FM-Index. | https://github.com/FaazAbidi/Fuzzy-DNA-Search | 1 | 0| 
+| 20210527T00:06:47Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 7 | 5| 
+| 20210527T00:06:38Z | Null | https://github.com/opimentel-github/fuzzy-tools | 0 | 0| 
+| 20210526T23:53:38Z | Written standups for remote teams. Inspired by Basecamp. | https://github.com/malikpiara/fuzzboard | 1 | 0| 
+| 20210526T23:44:13Z | Experiment data of StochFuzz paper | https://github.com/ZhangZhuoSJTU/StochFuzz-data | 0 | 0| 
+| 20210526T23:41:28Z | Null | https://github.com/tputcup11/fuzzy-memory | 0 | 0| 
+| 20210526T23:22:53Z | Null | https://github.com/googleinterns/hw-fuzzing | 17 | 5| 
 
 
 
