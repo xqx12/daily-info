@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210527T01:48:35Z | Binary Exploitation and Reverse-Engineering (from assembly into C) | https://github.com/anyaschukin/OverRide | 53 | 9| 
 | 20210527T01:25:26Z | Null | https://github.com/ParaVox-no/ExploitScript | 0 | 0| 
 | 20210527T01:02:44Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210527T00:51:19Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 16 | 11| 
@@ -97,13 +98,12 @@
 | 20210526T23:22:06Z | Null | https://github.com/SxnwDev/Exploit | 0 | 0| 
 | 20210526T23:15:44Z | Null | https://github.com/Mehvix/cryptotrunks-exploit | 0 | 0| 
 | 20210526T23:08:53Z | A tool to identify and exploit sudo rules% misconfigurations and vulnerabilities within sudo for linux privilege escalation. | https://github.com/TH3xACE/SUDO_KILLER | 1145 | 161| 
-| 20210526T23:06:46Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9490 | 1536| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210527T00:46:31Z | Backend for our cyber security forum - %Backdoor% | https://github.com/backdoor-epics/backdoor-backend | 0 | 1| 
+| 20210527T01:45:54Z | Backend for our cyber security forum - %Backdoor% | https://github.com/backdoor-epics/backdoor-backend | 0 | 1| 
 | 20210526T23:56:08Z | Python Backdoor for the INE course | https://github.com/Ioan93Andrei/Python-Backdoor | 0 | 0| 
 | 20210526T23:34:46Z | The Project is mainly based on Sockets , File Handling and subprocess library for Creating backdoors For Hacking into one%s Computer (Any OS-Platform Service)   and listening on your computer and waiting for Connections and Running system Commands from Your Computer to the target Computer for which Output will be Displayed On your Computer.  | https://github.com/shivdon/Socket-Backdoor-and-Listener | 1 | 1| 
 | 20210526T22:39:28Z | PCI Express DIY hacking toolkit for Xilinx SP605 | https://github.com/Cr4sh/s6_pcie_microblaze | 358 | 88| 
