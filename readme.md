@@ -17,6 +17,9 @@
 | 20210527 | Checkpoint 对 IcedID Botnet Server 的检测方法 | https://research.checkpoint.com/2021/melting-ice-tracking-icedid-servers-with-a-few-simple-steps/| 
 | 20210527 | 有研究员对常用 PDF 应用的测试中发现，用于 PDF 文件防篡改的 Certification Signatures 认证机制存在问题 | https://sec.today/pulses/f3f15c01-14a1-4ad8-9d57-d1efccfd9492/| 
 | 20210527 | 有研究员对常用 PDF 应用的测试中发现，用于 PDF 文件防篡改的 Certification Signatures 认证机制存在问题 | https://threatpost.com/pdf-certified-widely-vulnerable-to-attack/166505/| 
+| 20210527 | 内网系统凭证钓鱼攻击。 | https://paper.seebug.org/1590/| 
+| 20210527 | 在Google I / O 2021会议发布Flutter 2.2新版本工具。 | https://medium.com/flutter/announcing-flutter-2-2-at-google-i-o-2021-92f0fcbd7ef9| 
+| 20210527 | 红队资料集锦。 | https://blog.qwqdanchun.com/archives/414| 
 
 
 # 安全维基 推荐
@@ -29,17 +32,20 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210527T10:19:40Z | CVE-2021-33564 | Argument Injection in Dragonfly Ruby Gem | https://github.com/mlr0p/CVE-2021-33564 | 未查询到CVE信息| 
-| 20210527T02:30:05Z | CVE-2021-21985 | Multiple vulnerabilities in the vSphere Client (HTML5) were privately reported to VMware. Updates and workarounds are available to address these vulnerabilities in affected VMware products. | https://github.com/bigbroke/CVE-2021-21985 | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
+| 20210527T17:18:12Z | CVE-2020-17087 | Null | https://github.com/ykg88/OHTS_IE6052-CVE-2020-17087 | Windows Kernel Local Elevation of Privilege Vulnerability| 
+| 20210527T15:42:16Z | CVE-2021-33564 | Argument Injection in Dragonfly Ruby Gem | https://github.com/mlr0p/CVE-2021-33564 | | 
+| 20210527T14:19:48Z | CVE-2021-21985 | Multiple vulnerabilities in the vSphere Client (HTML5) were privately reported to VMware. Updates and workarounds are available to address these vulnerabilities in affected VMware products. | https://github.com/bigbroke/CVE-2021-21985 | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210527T18:02:16Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 634 | 15| 
+| 20210527T17:01:55Z | Null | https://github.com/JaimePSantos/ResearchKlee | 0 | 0| 
+| 20210527T14:37:31Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1702 | 494| 
+| 20210527T14:23:56Z | klee.js is a (data driven) generator and wrapper for the magnificent three.js | https://github.com/trenc/klee.js | 1 | 0| 
 | 20210527T12:32:54Z | Null | https://github.com/KleePaimon/KleePaimon.github.io | 0 | 0| 
-| 20210527T10:06:20Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1701 | 494| 
 | 20210527T09:34:51Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 14 | 44| 
-| 20210527T08:16:02Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 633 | 15| 
 | 20210527T06:03:56Z | Null | https://github.com/sanghu1790/KLEEMA | 0 | 0| 
 | 20210527T04:08:19Z | Config files for my GitHub profile. | https://github.com/joao-kleeber/joao-kleeber | 0 | 0| 
 
@@ -52,21 +58,25 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210527T12:57:06Z | Aim to help building exploitation and debugging of CTFs pwn quickly | https://github.com/AmazingPwn/pwn_debug | 0 | 0| 
-| 20210527T12:39:08Z | PS1 savegame exploit | https://github.com/socram8888/tonyhax | 285 | 8| 
-| 20210527T12:35:21Z | Null | https://github.com/exploit-code/exploit-code.github.io | 0 | 0| 
-| 20210527T12:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9495 | 1536| 
-| 20210527T12:29:24Z | Advanced Windows Exploitation/Offensive Security Exploitation Expert Preparation for Black Hat 2022 | https://github.com/connormcgarr/Exploit-Development | 125 | 72| 
-| 20210527T12:27:52Z | Advanced Windows Exploitation/Offensive Security Exploitation Expert Preparation for Black Hat 2022 | https://github.com/connormcgarr/User-Mode-Exploit-Development | 125 | 72| 
-| 20210527T12:22:19Z | Exploiting Linksys WRT54G using a vulnerability I found. | https://github.com/elongl/linksys-wrt54g | 0 | 0| 
-| 20210527T12:02:55Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
-| 20210527T12:00:33Z | automated application fingerprinting, vulnerability testing & exploitation framework for kenzer | https://github.com/ARPSyndicate/freaker | 10 | 2| 
-| 20210527T11:56:52Z | A Monaco fork for Roblox (exploiting). All functions from LuaU and custom executor functions are present with documentation. | https://github.com/EthanMcBloxxer/Rosploco | 0 | 0| 
+| 20210527T23:34:08Z | Exploiting Linksys WRT54G using a vulnerability I found. | https://github.com/elongl/linksys-wrt54g | 0 | 0| 
+| 20210527T23:11:19Z | A collection of intentionally vulnerable pieces of code used to demonstrate different insecure programming practices, how they can be exploited and how they can be fixed. | https://github.com/ColourLaserPrinterWithDuplexPrint/VulnerableByDesign | 0 | 0| 
+| 20210527T23:11:09Z | 7.5x FW Exploit (Exploit Date: May 27th, 2021) | https://github.com/Night-King-Host/75XV3b5 | 0 | 0| 
+| 20210527T23:10:31Z | PS4 Host Exploits For 5.05 Firmware to 7.55 Firmware | https://github.com/Night-King-Host/Night-King-Host.github.io | 0 | 1| 
+| 20210527T22:26:06Z | Null | https://github.com/X-n3t/exploits | 0 | 1| 
+| 20210527T22:17:03Z | RGHub is a roblox exploit hub with many different games, please read license before copying it/using it commercially, teaching with this repository/resource is permitted. | https://github.com/RG2N/RGHub | 0 | 0| 
+| 20210527T22:08:52Z | Exploiting Buffer Overflows and other SEED Lab Projects | https://github.com/Ab-spyder/Buffer_Overflows | 0 | 0| 
+| 20210527T22:05:39Z | Null | https://github.com/fireeye/pulsesecure_exploitation_countermeasures | 16 | 5| 
+| 20210527T21:37:12Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 50 | 13| 
+| 20210527T21:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9496 | 1537| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210527T23:55:34Z | Null | https://github.com/danchik1155/BackdoorIstok | 0 | 0| 
+| 20210527T23:13:36Z | Un backdoor/troyano para discord y chrome, con interfaz web. | https://github.com/Arturo-Melgarejo/bambu | 0 | 0| 
+| 20210527T18:08:57Z | Code for the paper Explanation-Guided Backdoor Poisoning Attacks Against Malware Classifiers | https://github.com/ClonedOne/MalwareBackdoors | 3 | 1| 
+| 20210527T15:12:03Z | PCI Express DIY hacking toolkit for Xilinx SP605 | https://github.com/Cr4sh/s6_pcie_microblaze | 356 | 88| 
 | 20210527T03:39:44Z | Null | https://github.com/SanaAwan5/edgecase_backdoors | 0 | 0| 
 | 20210527T03:20:15Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 243 | 42| 
 | 20210527T02:53:54Z | Code and data of the ACL 2021 paper %Hidden Killer: Invisible Textual Backdoor Attacks with Syntactic Trigger% | https://github.com/thunlp/HiddenKiller | 0 | 0| 
