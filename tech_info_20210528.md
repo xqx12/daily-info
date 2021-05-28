@@ -30,7 +30,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210528T11:46:46Z | CVE-2021-33564 | Argument Injection in Dragonfly Ruby Gem | https://github.com/mlr0p/CVE-2021-33564 | 未查询到CVE信息| 
 | 20210528T08:37:46Z | CVE-2021-21551 | Script to patch your domain computers about the CVE-2021-21551. Privesc on machines that have the driver dbutil_2_3.sys, installed by some DELL tools (BIOS updater, SupportAssist...) | https://github.com/arnaudluti/PS-CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
-| 20210528T07:38:28Z | CVE-2021-31166 | HTTP Protocol Stack CVE-2021-31166 | https://github.com/corelight/CVE-2021-31166 | | 
+| 20210528T07:38:28Z | CVE-2021-31166 | HTTP Protocol Stack CVE-2021-31166 | https://github.com/corelight/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
 
 
 # klee on Github 推荐
@@ -51,6 +51,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210528T12:45:02Z | Null | https://github.com/RedTeamMagic/WebServiceExploitation | 0 | 0| 
 | 20210528T12:35:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9501 | 1537| 
 | 20210528T12:26:56Z | PS1 savegame exploit | https://github.com/socram8888/tonyhax | 285 | 8| 
 | 20210528T12:21:10Z | Null | https://github.com/wjddnjs33/exploit-code | 0 | 0| 
@@ -60,7 +61,6 @@
 | 20210528T11:41:14Z | A tool to identify and exploit sudo rules% misconfigurations and vulnerabilities within sudo for linux privilege escalation. | https://github.com/TH3xACE/SUDO_KILLER | 1151 | 161| 
 | 20210528T11:02:44Z | A CLI-application based on Rust | https://github.com/alwinsDen/exploit | 0 | 0| 
 | 20210528T10:50:01Z | Null | https://github.com/hxr404/Discord-Console-hacks | 2 | 0| 
-| 20210528T09:57:29Z | Tool to deploy a post-exploitation prompt at any time | https://github.com/Telefonica/ibombshell | 266 | 63| 
 
 
 # backdoor on Github 推荐

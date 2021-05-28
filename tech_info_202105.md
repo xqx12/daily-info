@@ -48,7 +48,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210528T11:46:46Z | CVE-2021-33564 | Argument Injection in Dragonfly Ruby Gem | https://github.com/mlr0p/CVE-2021-33564 | 未查询到CVE信息| 
 | 20210528T08:37:46Z | CVE-2021-21551 | Script to patch your domain computers about the CVE-2021-21551. Privesc on machines that have the driver dbutil_2_3.sys, installed by some DELL tools (BIOS updater, SupportAssist...) | https://github.com/arnaudluti/PS-CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
-| 20210528T07:38:28Z | CVE-2021-31166 | HTTP Protocol Stack CVE-2021-31166 | https://github.com/corelight/CVE-2021-31166 | | 
+| 20210528T07:38:28Z | CVE-2021-31166 | HTTP Protocol Stack CVE-2021-31166 | https://github.com/corelight/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
 | 20210527T17:18:12Z | CVE-2020-17087 | Null | https://github.com/ykg88/OHTS_IE6052-CVE-2020-17087 | Windows Kernel Local Elevation of Privilege Vulnerability| 
 | 20210527T14:19:48Z | CVE-2021-21985 | Multiple vulnerabilities in the vSphere Client (HTML5) were privately reported to VMware. Updates and workarounds are available to address these vulnerabilities in affected VMware products. | https://github.com/bigbroke/CVE-2021-21985 | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
 | 20210526T18:05:01Z | CVE-2021-22893 | Proof-of-Concept (PoC) script to exploit Pulse Secure CVE-2021-22893.  | https://github.com/ZephrFish/CVE-2021-22893 | Pulse Connect Secure 9.0R3/9.1R1 and higher is vulnerable to an authentication bypass vulnerability exposed by the Windows File Share Browser and Pulse Secure Collaboration features of Pulse Connect Secure that can allow an unauthenticated user to perform remote arbitrary code execution on the Pulse Connect Secure gateway. This vulnerability has been exploited in the wild.| 
@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210528T12:45:02Z | Null | https://github.com/RedTeamMagic/WebServiceExploitation | 0 | 0| 
 | 20210528T12:35:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9501 | 1537| 
 | 20210528T12:26:56Z | PS1 savegame exploit | https://github.com/socram8888/tonyhax | 285 | 8| 
 | 20210528T12:21:10Z | Null | https://github.com/wjddnjs33/exploit-code | 0 | 0| 
@@ -97,7 +98,6 @@
 | 20210528T11:41:14Z | A tool to identify and exploit sudo rules% misconfigurations and vulnerabilities within sudo for linux privilege escalation. | https://github.com/TH3xACE/SUDO_KILLER | 1151 | 161| 
 | 20210528T11:02:44Z | A CLI-application based on Rust | https://github.com/alwinsDen/exploit | 0 | 0| 
 | 20210528T10:50:01Z | Null | https://github.com/hxr404/Discord-Console-hacks | 2 | 0| 
-| 20210528T09:57:29Z | Tool to deploy a post-exploitation prompt at any time | https://github.com/Telefonica/ibombshell | 266 | 63| 
 
 
 # backdoor on Github 推荐
