@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210528T12:35:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9501 | 1537| 
 | 20210528T12:26:56Z | PS1 savegame exploit | https://github.com/socram8888/tonyhax | 285 | 8| 
 | 20210528T12:21:10Z | Null | https://github.com/wjddnjs33/exploit-code | 0 | 0| 
 | 20210528T12:20:15Z | My notes for CVE-2004-1561 IceCast exploitation | https://github.com/Nathan-Bash/CVE-2004-1561-Notes | 2 | 0| 
@@ -97,7 +98,6 @@
 | 20210528T11:02:44Z | A CLI-application based on Rust | https://github.com/alwinsDen/exploit | 0 | 0| 
 | 20210528T10:50:01Z | Null | https://github.com/hxr404/Discord-Console-hacks | 2 | 0| 
 | 20210528T09:57:29Z | Tool to deploy a post-exploitation prompt at any time | https://github.com/Telefonica/ibombshell | 266 | 63| 
-| 20210528T09:43:11Z | Build a database of libc offsets to simplify exploitation | https://github.com/niklasb/libc-database | 1162 | 183| 
 
 
 # backdoor on Github 推荐
@@ -118,16 +118,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210528T00:24:12Z | Sound and Cost-effective Fuzzing of Stripped Binaries by Incremental and Stochastic Rewriting | https://github.com/ZhangZhuoSJTU/StochFuzz | 32 | 1| 
-| 20210527T23:53:46Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 282 | 38| 
-| 20210527T23:47:50Z | Null | https://github.com/dalberston95/fuzzy-sniffle | 0 | 0| 
-| 20210527T22:59:05Z | Null | https://github.com/opimentel-github/fuzzy-tools | 0 | 0| 
-| 20210527T22:48:13Z | Repository for experiments for 227-fuzzers project | https://github.com/KrystopherWeeton/227-fuzzers | 0 | 0| 
-| 20210527T22:13:29Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6335 | 1285| 
-| 20210527T21:21:41Z | php fuzzer | https://github.com/HGUfuzzing/php-fuzzer | 0 | 0| 
-| 20210527T21:07:34Z | Fuzzing, Exploits, and other tools to help expoit binaries with buffer overflow | https://github.com/agijsg/buffer-overflow-tools | 0 | 0| 
-| 20210527T21:00:48Z | Examples to stand up demo infrastructure | https://github.com/mikelaramie/fuzzy-bassoon | 0 | 0| 
-| 20210527T20:38:17Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
+| 20210528T12:18:44Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 434 | 37| 
+| 20210528T12:15:13Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 7 | 5| 
+| 20210528T11:43:06Z | 渗透测试路径字典，爆破字典。内容来自互联网和实战积累。 | https://github.com/cpkkcb/fuzzDicts | 88 | 42| 
+| 20210528T11:32:48Z | Real firmware fuzz-tested with uEmu | https://github.com/MCUSec/uEmu-real_world_firmware | 2 | 1| 
+| 20210528T11:08:58Z | Neuro-fuzzy systems course | https://github.com/qwerfah/neuro-fuzzy-systems | 0 | 0| 
+| 20210528T10:43:10Z | dumb Vulnerable server fuzzer  | https://github.com/kallepalliraviteja/vulnserverfuzzer | 0 | 0| 
+| 20210528T10:32:07Z | PerformanceFuzzer | https://github.com/KKimj/PerformanceFuzzer | 1 | 0| 
+| 20210528T10:11:05Z | Null | https://github.com/NikZyk/fuzzy-chainsaw | 0 | 0| 
+| 20210528T09:51:50Z | Using a fuzzer to generate Adversarial Examples for Tree Ensembles | https://github.com/cbilstra/fuzzing-for-adversarial-examples | 0 | 0| 
+| 20210528T09:43:56Z | Fuzzy Quantification of Common and Rare Species in Ecological Communities | https://github.com/Ligophorus/FuzzyQ | 0 | 0| 
 
 
 
