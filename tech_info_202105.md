@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210528T12:50:34Z | Exploit Host  | https://github.com/therayner/psxbox | 0 | 0| 
 | 20210528T12:45:02Z | Null | https://github.com/RedTeamMagic/WebServiceExploitation | 0 | 0| 
 | 20210528T12:35:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9501 | 1537| 
 | 20210528T12:26:56Z | PS1 savegame exploit | https://github.com/socram8888/tonyhax | 285 | 8| 
@@ -97,7 +98,6 @@
 | 20210528T11:45:58Z | Null | https://github.com/smriti548/POC-exploits | 0 | 0| 
 | 20210528T11:41:14Z | A tool to identify and exploit sudo rules% misconfigurations and vulnerabilities within sudo for linux privilege escalation. | https://github.com/TH3xACE/SUDO_KILLER | 1151 | 161| 
 | 20210528T11:02:44Z | A CLI-application based on Rust | https://github.com/alwinsDen/exploit | 0 | 0| 
-| 20210528T10:50:01Z | Null | https://github.com/hxr404/Discord-Console-hacks | 2 | 0| 
 
 
 # backdoor on Github 推荐
