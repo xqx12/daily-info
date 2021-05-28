@@ -51,10 +51,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210528T12:02:42Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210528T11:45:58Z | Null | https://github.com/smriti548/POC-exploits | 0 | 0| 
 | 20210528T11:41:14Z | A tool to identify and exploit sudo rules% misconfigurations and vulnerabilities within sudo for linux privilege escalation. | https://github.com/TH3xACE/SUDO_KILLER | 1151 | 161| 
 | 20210528T11:02:44Z | A CLI-application based on Rust | https://github.com/alwinsDen/exploit | 0 | 0| 
-| 20210528T11:02:43Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210528T10:50:01Z | Null | https://github.com/hxr404/Discord-Console-hacks | 2 | 0| 
 | 20210528T09:57:29Z | Tool to deploy a post-exploitation prompt at any time | https://github.com/Telefonica/ibombshell | 266 | 63| 
 | 20210528T09:43:11Z | Build a database of libc offsets to simplify exploitation | https://github.com/niklasb/libc-database | 1162 | 183| 
