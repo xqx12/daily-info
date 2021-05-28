@@ -51,6 +51,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210528T12:21:10Z | Null | https://github.com/wjddnjs33/exploit-code | 0 | 0| 
 | 20210528T12:20:15Z | My notes for CVE-2004-1561 IceCast exploitation | https://github.com/Nathan-Bash/CVE-2004-1561-Notes | 2 | 0| 
 | 20210528T12:02:42Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210528T11:45:58Z | Null | https://github.com/smriti548/POC-exploits | 0 | 0| 
@@ -60,7 +61,6 @@
 | 20210528T09:57:29Z | Tool to deploy a post-exploitation prompt at any time | https://github.com/Telefonica/ibombshell | 266 | 63| 
 | 20210528T09:43:11Z | Build a database of libc offsets to simplify exploitation | https://github.com/niklasb/libc-database | 1162 | 183| 
 | 20210528T09:41:58Z | Java安全相关的漏洞和技术demo，原生Java、Fastjson、Jackson、Hessian2、XML反序列化漏洞利用和Spring、Dubbo、Shiro、CAS、Tomcat、RMI、Nexus等框架\中间件\功能的exploits以及Java Security Manager绕过、Dubbo-Hessian2安全加固等等实践代码。 | https://github.com/threedr3am/learnjavabug | 1346 | 316| 
-| 20210528T09:09:22Z | Aim to help building exploitation and debugging of CTFs pwn quickly | https://github.com/AmazingPwn/pwn_debug | 1 | 1| 
 
 
 # backdoor on Github 推荐
