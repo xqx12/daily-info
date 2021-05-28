@@ -118,6 +118,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210528T12:49:17Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1774 | 349| 
+| 20210528T12:44:59Z | Flanged 90 degrees elbow  | https://github.com/Chemutaiselim/fuzzy-octo-telegram | 0 | 0| 
+| 20210528T12:43:27Z | Null | https://github.com/kemsdahsdhah217/fuzzy-disco | 0 | 0| 
 | 20210528T12:18:44Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 434 | 37| 
 | 20210528T12:15:13Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 7 | 5| 
 | 20210528T11:43:06Z | 渗透测试路径字典，爆破字典。内容来自互联网和实战积累。 | https://github.com/cpkkcb/fuzzDicts | 88 | 42| 
@@ -125,9 +128,6 @@
 | 20210528T11:08:58Z | Neuro-fuzzy systems course | https://github.com/qwerfah/neuro-fuzzy-systems | 0 | 0| 
 | 20210528T10:43:10Z | dumb Vulnerable server fuzzer  | https://github.com/kallepalliraviteja/vulnserverfuzzer | 0 | 0| 
 | 20210528T10:32:07Z | PerformanceFuzzer | https://github.com/KKimj/PerformanceFuzzer | 1 | 0| 
-| 20210528T10:11:05Z | Null | https://github.com/NikZyk/fuzzy-chainsaw | 0 | 0| 
-| 20210528T09:51:50Z | Using a fuzzer to generate Adversarial Examples for Tree Ensembles | https://github.com/cbilstra/fuzzing-for-adversarial-examples | 0 | 0| 
-| 20210528T09:43:56Z | Fuzzy Quantification of Common and Rare Species in Ecological Communities | https://github.com/Ligophorus/FuzzyQ | 0 | 0| 
 
 
 
