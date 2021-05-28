@@ -6,6 +6,17 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210528 | 编写 Ghidra Processor Module 分析 V8 字节码 | http://swarm.ptsecurity.com/creating-a-ghidra-processor-module-in-sleigh-using-v8-bytecode-as-an-example/| 
+| 20210528 | CVE-2021-33564 Argument Injection in Ruby Dragonfly | https://zxsecurity.co.nz/research/argunment-injection-ruby-dragonfly/| 
+| 20210528 | wowGrail - HITB 会议演讲，逆向分析 WOW64 兼容层以及如何利用它实现杀软检测逃逸 | https://github.com/aaaddress1/wowGrail| 
+| 20210528 | 这篇 Blog 讨论如何检测杀软逃逸技术中经常使用的 DLL unhooking | https://passthehashbrowns.github.io/hook-integrity-checks| 
+| 20210528 | 利用无监督的机器学习与 KQL 检测 C&C Beacon | https://mergene.medium.com/enterprise-scale-threat-hunting-network-beacon-detection-with-unsupervised-ml-and-kql-part-2-bff46cfc1e7e| 
+| 20210528 | 俄罗斯 APT29 组织利用选举诈骗相关主题邮件发起攻击 | https://www.volexity.com/blog/2021/05/27/suspected-apt29-operation-launches-election-fraud-themed-phishing-campaigns/| 
+| 20210528 | PlayStation 5 SMAP 内核保护机制 Bypass 漏洞分析 | https://hackerone.com/reports/1048322| 
+| 20210528 | FireEye 发了一篇 Blog：Re-Checking Your Pulse: Updates on Chinese APT Actors Compromising Pulse Secure VPN Devices | https://www.fireeye.com/blog/threat-research/2021/05/updates-on-chinese-apt-compromising-pulse-secure-vpn-devices.html| 
+| 20210528 | CVE-2021-31440: An Incorrect Bounds Calculation in the Linux Kernel eBPF Verifier | https://www.thezdi.com/blog/2021/5/26/cve-2021-31440-an-incorrect-bounds-calculation-in-the-linux-kernel-ebpf-verifier| 
+| 20210528 | macOS 版本 TeamViewer Distributed Objects IPC 机制本地提权漏洞分析 | https://sec.today/pulses/8088061a-8ebb-4530-914a-49805892648d/| 
+| 20210528 | macOS 版本 TeamViewer Distributed Objects IPC 机制本地提权漏洞分析 | https://theevilbit.github.io/posts/teamviewer_lpe/| 
 | 20210527 | 用于 IT 设施资源监控的开源工具 Nagios 被发现 13 个漏洞 | https://skylightcyber.com/2021/05/20/13-nagios-vulnerabilities-7-will-shock-you/| 
 | 20210527 | JavaScriptCore Internals Part V: The DFG (Data Flow Graph) JIT – On Stack Replacement | https://zon8.re/posts/jsc-part5-the-dfg-jit-osr/| 
 | 20210527 | JavaScriptCore Internals Part IV: The DFG (Data Flow Graph) JIT – Graph Optimisation | https://zon8.re/posts/jsc-part4-the-dfg-jit-graph-optimisation/| 
@@ -15,22 +26,12 @@
 | 20210527 | CrowdStrike 团队对 DELL BIOS 驱动漏洞（CVE-2021-21551）的利用方法分析 | https://www.crowdstrike.com/blog/cve-2021-21551-learning-through-exploitation/| 
 | 20210527 | Patch Gapping a Safari Type Confusion | https://blog.theori.io/research/webkit-type-confusion/| 
 | 20210527 | Checkpoint 对 IcedID Botnet Server 的检测方法 | https://research.checkpoint.com/2021/melting-ice-tracking-icedid-servers-with-a-few-simple-steps/| 
-| 20210527 | 有研究员对常用 PDF 应用的测试中发现，用于 PDF 文件防篡改的 Certification Signatures 认证机制存在问题 | https://sec.today/pulses/f3f15c01-14a1-4ad8-9d57-d1efccfd9492/| 
-| 20210527 | 有研究员对常用 PDF 应用的测试中发现，用于 PDF 文件防篡改的 Certification Signatures 认证机制存在问题 | https://threatpost.com/pdf-certified-widely-vulnerable-to-attack/166505/| 
-| 20210527 | 内网系统凭证钓鱼攻击。 | https://paper.seebug.org/1590/| 
-| 20210527 | 在Google I / O 2021会议发布Flutter 2.2新版本工具。 | https://medium.com/flutter/announcing-flutter-2-2-at-google-i-o-2021-92f0fcbd7ef9| 
-| 20210527 | 红队资料集锦。 | https://blog.qwqdanchun.com/archives/414| 
-| 20210526 | ESXi OpenSLP heap-overflow (CVE-2021–21974) 漏洞 PoC 的构造 | https://straightblast.medium.com/my-poc-walkthrough-for-cve-2021-21974-a266bcad14b9| 
-| 20210526 | 通过探测 http://burp/ 域名的存在判断访问者是否在挂着 Burp 代理 | https://mp.weixin.qq.com/s/V0WdN9CMrTqo6qInuwyR6g| 
-| 20210526 | Finding bugs in TypeScript code (chrono-node) using fuzzing (jsfuzz)（视频） | https://www.youtube.com/watch?v=PUZyYcMMgM4| 
-| 20210526 | SharpCollection - 有人将很多 C# 写的攻击工具做了一个集合 | https://github.com/Flangvik/SharpCollection| 
-| 20210526 | Reverse Engineering Bare Metal Firmware Images — Part 2 | https://ragnarsecurity.medium.com/reverse-engineering-bare-metal-kernel-images-part-2-6a52a4afa3ef| 
-| 20210526 | macOS 昨天修复了一个 TCC Bypass 漏洞，已经有恶意软件滥用该漏洞实现无限制的截屏 | https://www.jamf.com/blog/zero-day-tcc-bypass-discovered-in-xcsset-malware/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210528 | 拿下靶机ColddWorld: Immersion | https://www.sec-in.com/article/1046| 
 | 20210527 | MTCTF-WriteUp | https://mp.weixin.qq.com/s/l0KjYqvvw_0PLyegaGEqcA| 
 | 20210527 | 流行勒索病毒分析总结（下） | https://mp.weixin.qq.com/s/CGSmfExP2wQvbKBfw4OEZA| 
 | 20210526 | 靶场建设与攻防人才培养实践 | https://mp.weixin.qq.com/s/bWFv7xa1OCYqoKrvzzJkGg| 
@@ -40,34 +41,33 @@
 | 20210524 | SecWiki周刊（第377期) | https://www.sec-wiki.com/weekly/377| 
 | 20210524 | ChinaSys十周年感想 | https://zhuanlan.zhihu.com/p/374658103| 
 | 20210524 | ChinaSys十周年感想 | /news/29221| 
-| 20210524 | 面向开发人员梳理的代码安全指南 | https://github.com/Tencent/secguide| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210528T00:41:54Z | CVE-2021-31166 | HTTP Protocol Stack CVE-2021-31166 | https://github.com/corelight/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
-| 20210527T17:18:12Z | CVE-2020-17087 | Null | https://github.com/ykg88/OHTS_IE6052-CVE-2020-17087 | Windows Kernel Local Elevation of Privilege Vulnerability| 
-| 20210527T15:42:16Z | CVE-2021-33564 | Argument Injection in Dragonfly Ruby Gem | https://github.com/mlr0p/CVE-2021-33564 | 未查询到CVE信息| 
+| 20210528T11:46:46Z | CVE-2021-33564 | Argument Injection in Dragonfly Ruby Gem | https://github.com/mlr0p/CVE-2021-33564 | 未查询到CVE信息| 
+| 20210528T08:37:46Z | CVE-2021-21551 | Script to patch your domain computers about the CVE-2021-21551. Privesc on machines that have the driver dbutil_2_3.sys, installed by some DELL tools (BIOS updater, SupportAssist...) | https://github.com/arnaudluti/PS-CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
+| 20210528T07:38:28Z | CVE-2021-31166 | HTTP Protocol Stack CVE-2021-31166 | https://github.com/corelight/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
+| 20210527T17:18:12Z | CVE-2020-17087 | Null | https://github.com/ykg88/OHTS_IE6052-CVE-2020-17087 | | 
 | 20210527T14:19:48Z | CVE-2021-21985 | Multiple vulnerabilities in the vSphere Client (HTML5) were privately reported to VMware. Updates and workarounds are available to address these vulnerabilities in affected VMware products. | https://github.com/bigbroke/CVE-2021-21985 | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
 | 20210526T18:05:01Z | CVE-2021-22893 | Proof-of-Concept (PoC) script to exploit Pulse Secure CVE-2021-22893.  | https://github.com/ZephrFish/CVE-2021-22893 | Pulse Connect Secure 9.0R3/9.1R1 and higher is vulnerable to an authentication bypass vulnerability exposed by the Windows File Share Browser and Pulse Secure Collaboration features of Pulse Connect Secure that can allow an unauthenticated user to perform remote arbitrary code execution on the Pulse Connect Secure gateway. This vulnerability has been exploited in the wild.| 
 | 20210526T03:06:30Z | CVE-2021-20914 | POC for CVE2021-2091 VMWare ESXi RCE Exploit | https://github.com/Shadow0ps/CVE-2021-20914 | 未查询到CVE信息| 
 | 20210526T03:01:08Z | CVE-2020-27216 | PoC for exploiting CVE-2020-27216 | https://github.com/JamesGeee/CVE-2020-27216 | In Eclipse Jetty versions 1.0 thru 9.4.32.v20200930, 10.0.0.alpha1 thru 10.0.0.beta2, and 11.0.0.alpha1 thru 11.0.0.beta2O, on Unix like systems, the system%s temporary directory is shared between all users on that system. A collocated user can observe the process of creating a temporary sub directory in the shared temporary directory and race to complete the creation of the temporary subdirectory. If the attacker wins the race then they will have read and write permission to the subdirectory used to unpack web applications, including their WEB-INF/lib jar files and JSP files. If any code is ever executed out of this temporary directory, this can lead to a local privilege escalation vulnerability.| 
-| 20210526T03:00:28Z | CVE-2021-28112 | PoC for exploiting CVE-2021-28112 | https://github.com/JamesGeee/CVE-2021-28112 | Draeger X-Dock Firmware before 03.00.13 has Active Debug Code on a debug port, leading to remote code execution by an authenticated attacker.| 
-| 20210526T03:00:24Z | CVE-2021-28111 | PoC for exploiting CVE-2021-28111 | https://github.com/JamesGeee/CVE-2021-28111 | | 
-| 20210526T03:00:21Z | CVE-2021-33574 | PoC for exploiting CVE-2021-33574 | https://github.com/JamesGeee/CVE-2021-33574 | The mq_notify function in the GNU C Library (aka glibc) through 2.33 has a use-after-free. It may use the notification thread attributes object (passed through its struct sigevent parameter) after it has been freed by the caller, leading to a denial of service (application crash) or possibly unspecified other impact.| 
+| 20210526T03:00:28Z | CVE-2021-28112 | PoC for exploiting CVE-2021-28112 | https://github.com/JamesGeee/CVE-2021-28112 | | 
+| 20210526T03:00:24Z | CVE-2021-28111 | PoC for exploiting CVE-2021-28111 | https://github.com/JamesGeee/CVE-2021-28111 | Draeger X-Dock Firmware before 03.00.13 has Hard-Coded Credentials, leading to remote code execution by an authenticated attacker.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210528T10:24:56Z | Null | https://github.com/KleePaimon/KleePaimon.github.io | 0 | 0| 
+| 20210528T07:13:24Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1704 | 494| 
+| 20210528T04:41:55Z | Null | https://github.com/sanghu1790/KLEEMA | 0 | 0| 
+| 20210528T03:31:15Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 635 | 15| 
 | 20210528T00:55:07Z | Null | https://github.com/JaimePSantos/ResearchKlee | 0 | 0| 
-| 20210527T18:02:16Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 634 | 15| 
-| 20210527T14:37:31Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1702 | 494| 
 | 20210527T14:23:56Z | klee.js is a (data driven) generator and wrapper for the magnificent three.js | https://github.com/trenc/klee.js | 1 | 0| 
-| 20210527T12:32:54Z | Null | https://github.com/KleePaimon/KleePaimon.github.io | 0 | 0| 
 | 20210527T09:34:51Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 14 | 44| 
-| 20210527T06:03:56Z | Null | https://github.com/sanghu1790/KLEEMA | 0 | 0| 
 | 20210527T04:08:19Z | Config files for my GitHub profile. | https://github.com/joao-kleeber/joao-kleeber | 0 | 0| 
 | 20210525T01:44:07Z | An opiniated Next TypeScript powered starter which include Klee, emotion / styled-system, framer motion, jest and Cypress | https://github.com/Liinkiing/next-ts-klee-starter | 0 | 0| 
 | 20210524T18:11:09Z | Klee Kai creative assets | https://github.com/KleeKai-DEV/Klee-Kai-Creative | 0 | 0| 
@@ -88,31 +88,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210528T01:02:43Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
-| 20210528T00:51:19Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 16 | 11| 
-| 20210528T00:34:52Z | Penetration Testing of a company%s web server and the CEO%s computer. Social engineering techniques and technical tools such as Metasploit, SQL map are used to successfully exploit the devices. | https://github.com/kevinmukam/Penetration-Testing | 0 | 0| 
-| 20210528T00:34:02Z | Null | https://github.com/Mehvix/cryptotrunks-exploit | 0 | 0| 
-| 20210528T00:26:41Z | Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish to influence Onelinetips and explain the commands, for the better understanding of new hunters.. | https://github.com/KingOfBugbounty/KingOfBugBountyTips | 2138 | 338| 
-| 20210528T00:14:44Z | Zenith configs. Exploit them at your own risk. | https://github.com/egorbelibov/unix_configs | 2 | 0| 
-| 20210527T23:34:08Z | Exploiting Linksys WRT54G using a vulnerability I found. | https://github.com/elongl/linksys-wrt54g | 0 | 0| 
-| 20210527T23:11:19Z | A collection of intentionally vulnerable pieces of code used to demonstrate different insecure programming practices, how they can be exploited and how they can be fixed. | https://github.com/ColourLaserPrinterWithDuplexPrint/VulnerableByDesign | 0 | 0| 
-| 20210527T23:11:09Z | 7.5x FW Exploit (Exploit Date: May 27th, 2021) | https://github.com/Night-King-Host/75XV3b5 | 0 | 0| 
-| 20210527T23:10:31Z | PS4 Host Exploits For 5.05 Firmware to 7.55 Firmware | https://github.com/Night-King-Host/Night-King-Host.github.io | 0 | 1| 
+| 20210528T11:45:58Z | Null | https://github.com/smriti548/POC-exploits | 0 | 0| 
+| 20210528T11:41:14Z | A tool to identify and exploit sudo rules% misconfigurations and vulnerabilities within sudo for linux privilege escalation. | https://github.com/TH3xACE/SUDO_KILLER | 1151 | 161| 
+| 20210528T11:02:44Z | A CLI-application based on Rust | https://github.com/alwinsDen/exploit | 0 | 0| 
+| 20210528T11:02:43Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
+| 20210528T10:50:01Z | Null | https://github.com/hxr404/Discord-Console-hacks | 2 | 0| 
+| 20210528T09:57:29Z | Tool to deploy a post-exploitation prompt at any time | https://github.com/Telefonica/ibombshell | 266 | 63| 
+| 20210528T09:43:11Z | Build a database of libc offsets to simplify exploitation | https://github.com/niklasb/libc-database | 1162 | 183| 
+| 20210528T09:41:58Z | Java安全相关的漏洞和技术demo，原生Java、Fastjson、Jackson、Hessian2、XML反序列化漏洞利用和Spring、Dubbo、Shiro、CAS、Tomcat、RMI、Nexus等框架\中间件\功能的exploits以及Java Security Manager绕过、Dubbo-Hessian2安全加固等等实践代码。 | https://github.com/threedr3am/learnjavabug | 1346 | 316| 
+| 20210528T09:16:21Z | My notes for CVE-2004-1561 IceCast exploitation | https://github.com/Nathan-Bash/CVE-2004-1561-Notes | 1 | 0| 
+| 20210528T09:09:22Z | Aim to help building exploitation and debugging of CTFs pwn quickly | https://github.com/AmazingPwn/pwn_debug | 1 | 1| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210528T00:46:22Z | Null | https://github.com/danchik1155/BackdoorIstok | 0 | 0| 
+| 20210528T07:21:21Z | Null | https://github.com/danchik1155/BackdoorIstok | 0 | 0| 
+| 20210528T07:03:10Z | this is advance py39 backdoor created to use in college project | https://github.com/Bhadresh-Malankiya/BackdoorPy3 | 0 | 0| 
+| 20210528T04:45:39Z | Code for the paper Explanation-Guided Backdoor Poisoning Attacks Against Malware Classifiers | https://github.com/ClonedOne/MalwareBackdoors | 4 | 1| 
+| 20210528T03:13:43Z | Null | https://github.com/xpf/Backdoor-Learning-arXiv | 1 | 0| 
+| 20210528T02:42:13Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 71 | 12| 
+| 20210528T01:34:51Z | you can use the backdoor for exploit windows  | https://github.com/KuMarayana/backdoor-tools | 0 | 0| 
 | 20210528T00:02:14Z | a proof of concept backdoor access to a fake LAN/Ethernet Adapter made from a modified raspberry pi zero and cheap LAN Adapter. *for educational purposes only | https://github.com/AdrianDucao/fake-Ethernet-Adapter | 0 | 0| 
 | 20210528T00:00:11Z | a proof of concept full access backdoor for unassuming raspberry pi or raspberry pi zero plugged in on your network. *for educational purposes only | https://github.com/AdrianDucao/malicious-Pie | 0 | 0| 
 | 20210527T23:13:36Z | Un backdoor/troyano para discord y chrome, con interfaz web. | https://github.com/Arturo-Melgarejo/bambu | 0 | 0| 
-| 20210527T18:08:57Z | Code for the paper Explanation-Guided Backdoor Poisoning Attacks Against Malware Classifiers | https://github.com/ClonedOne/MalwareBackdoors | 3 | 1| 
 | 20210527T15:12:03Z | PCI Express DIY hacking toolkit for Xilinx SP605 | https://github.com/Cr4sh/s6_pcie_microblaze | 356 | 88| 
-| 20210527T03:39:44Z | Null | https://github.com/SanaAwan5/edgecase_backdoors | 0 | 0| 
-| 20210527T03:20:15Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 243 | 42| 
-| 20210527T02:53:54Z | Code and data of the ACL 2021 paper %Hidden Killer: Invisible Textual Backdoor Attacks with Syntactic Trigger% | https://github.com/thunlp/HiddenKiller | 0 | 0| 
-| 20210527T02:48:56Z | Sudo backdoor for Linux. | https://github.com/enty8080/sudo_backdoor | 2 | 0| 
 
 
 # fuzz on Github 推荐
