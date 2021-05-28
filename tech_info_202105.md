@@ -46,23 +46,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210528T00:41:54Z | CVE-2021-31166 | HTTP Protocol Stack CVE-2021-31166 | https://github.com/corelight/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
 | 20210527T17:18:12Z | CVE-2020-17087 | Null | https://github.com/ykg88/OHTS_IE6052-CVE-2020-17087 | Windows Kernel Local Elevation of Privilege Vulnerability| 
-| 20210527T15:42:16Z | CVE-2021-33564 | Argument Injection in Dragonfly Ruby Gem | https://github.com/mlr0p/CVE-2021-33564 | | 
+| 20210527T15:42:16Z | CVE-2021-33564 | Argument Injection in Dragonfly Ruby Gem | https://github.com/mlr0p/CVE-2021-33564 | 未查询到CVE信息| 
 | 20210527T14:19:48Z | CVE-2021-21985 | Multiple vulnerabilities in the vSphere Client (HTML5) were privately reported to VMware. Updates and workarounds are available to address these vulnerabilities in affected VMware products. | https://github.com/bigbroke/CVE-2021-21985 | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
 | 20210526T18:05:01Z | CVE-2021-22893 | Proof-of-Concept (PoC) script to exploit Pulse Secure CVE-2021-22893.  | https://github.com/ZephrFish/CVE-2021-22893 | Pulse Connect Secure 9.0R3/9.1R1 and higher is vulnerable to an authentication bypass vulnerability exposed by the Windows File Share Browser and Pulse Secure Collaboration features of Pulse Connect Secure that can allow an unauthenticated user to perform remote arbitrary code execution on the Pulse Connect Secure gateway. This vulnerability has been exploited in the wild.| 
 | 20210526T03:06:30Z | CVE-2021-20914 | POC for CVE2021-2091 VMWare ESXi RCE Exploit | https://github.com/Shadow0ps/CVE-2021-20914 | 未查询到CVE信息| 
 | 20210526T03:01:08Z | CVE-2020-27216 | PoC for exploiting CVE-2020-27216 | https://github.com/JamesGeee/CVE-2020-27216 | In Eclipse Jetty versions 1.0 thru 9.4.32.v20200930, 10.0.0.alpha1 thru 10.0.0.beta2, and 11.0.0.alpha1 thru 11.0.0.beta2O, on Unix like systems, the system%s temporary directory is shared between all users on that system. A collocated user can observe the process of creating a temporary sub directory in the shared temporary directory and race to complete the creation of the temporary subdirectory. If the attacker wins the race then they will have read and write permission to the subdirectory used to unpack web applications, including their WEB-INF/lib jar files and JSP files. If any code is ever executed out of this temporary directory, this can lead to a local privilege escalation vulnerability.| 
-| 20210526T03:00:28Z | CVE-2021-28112 | PoC for exploiting CVE-2021-28112 | https://github.com/JamesGeee/CVE-2021-28112 | | 
-| 20210526T03:00:24Z | CVE-2021-28111 | PoC for exploiting CVE-2021-28111 | https://github.com/JamesGeee/CVE-2021-28111 | Draeger X-Dock Firmware before 03.00.13 has Hard-Coded Credentials, leading to remote code execution by an authenticated attacker.| 
+| 20210526T03:00:28Z | CVE-2021-28112 | PoC for exploiting CVE-2021-28112 | https://github.com/JamesGeee/CVE-2021-28112 | Draeger X-Dock Firmware before 03.00.13 has Active Debug Code on a debug port, leading to remote code execution by an authenticated attacker.| 
+| 20210526T03:00:24Z | CVE-2021-28111 | PoC for exploiting CVE-2021-28111 | https://github.com/JamesGeee/CVE-2021-28111 | | 
 | 20210526T03:00:21Z | CVE-2021-33574 | PoC for exploiting CVE-2021-33574 | https://github.com/JamesGeee/CVE-2021-33574 | The mq_notify function in the GNU C Library (aka glibc) through 2.33 has a use-after-free. It may use the notification thread attributes object (passed through its struct sigevent parameter) after it has been freed by the caller, leading to a denial of service (application crash) or possibly unspecified other impact.| 
-| 20210526T03:00:18Z | CVE-2021-33570 | PoC for exploiting CVE-2021-33570 | https://github.com/JamesGeee/CVE-2021-33570 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210528T00:55:07Z | Null | https://github.com/JaimePSantos/ResearchKlee | 0 | 0| 
 | 20210527T18:02:16Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 634 | 15| 
-| 20210527T17:01:55Z | Null | https://github.com/JaimePSantos/ResearchKlee | 0 | 0| 
 | 20210527T14:37:31Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1702 | 494| 
 | 20210527T14:23:56Z | klee.js is a (data driven) generator and wrapper for the magnificent three.js | https://github.com/trenc/klee.js | 1 | 0| 
 | 20210527T12:32:54Z | Null | https://github.com/KleePaimon/KleePaimon.github.io | 0 | 0| 
@@ -88,24 +88,24 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210528T01:02:43Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
+| 20210528T00:51:19Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 16 | 11| 
 | 20210528T00:34:52Z | Penetration Testing of a company%s web server and the CEO%s computer. Social engineering techniques and technical tools such as Metasploit, SQL map are used to successfully exploit the devices. | https://github.com/kevinmukam/Penetration-Testing | 0 | 0| 
 | 20210528T00:34:02Z | Null | https://github.com/Mehvix/cryptotrunks-exploit | 0 | 0| 
 | 20210528T00:26:41Z | Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish to influence Onelinetips and explain the commands, for the better understanding of new hunters.. | https://github.com/KingOfBugbounty/KingOfBugBountyTips | 2138 | 338| 
 | 20210528T00:14:44Z | Zenith configs. Exploit them at your own risk. | https://github.com/egorbelibov/unix_configs | 2 | 0| 
-| 20210528T00:02:46Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210527T23:34:08Z | Exploiting Linksys WRT54G using a vulnerability I found. | https://github.com/elongl/linksys-wrt54g | 0 | 0| 
 | 20210527T23:11:19Z | A collection of intentionally vulnerable pieces of code used to demonstrate different insecure programming practices, how they can be exploited and how they can be fixed. | https://github.com/ColourLaserPrinterWithDuplexPrint/VulnerableByDesign | 0 | 0| 
 | 20210527T23:11:09Z | 7.5x FW Exploit (Exploit Date: May 27th, 2021) | https://github.com/Night-King-Host/75XV3b5 | 0 | 0| 
 | 20210527T23:10:31Z | PS4 Host Exploits For 5.05 Firmware to 7.55 Firmware | https://github.com/Night-King-Host/Night-King-Host.github.io | 0 | 1| 
-| 20210527T22:26:06Z | Null | https://github.com/X-n3t/exploits | 0 | 1| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210528T00:46:22Z | Null | https://github.com/danchik1155/BackdoorIstok | 0 | 0| 
 | 20210528T00:02:14Z | a proof of concept backdoor access to a fake LAN/Ethernet Adapter made from a modified raspberry pi zero and cheap LAN Adapter. *for educational purposes only | https://github.com/AdrianDucao/fake-Ethernet-Adapter | 0 | 0| 
 | 20210528T00:00:11Z | a proof of concept full access backdoor for unassuming raspberry pi or raspberry pi zero plugged in on your network. *for educational purposes only | https://github.com/AdrianDucao/malicious-Pie | 0 | 0| 
-| 20210527T23:55:34Z | Null | https://github.com/danchik1155/BackdoorIstok | 0 | 0| 
 | 20210527T23:13:36Z | Un backdoor/troyano para discord y chrome, con interfaz web. | https://github.com/Arturo-Melgarejo/bambu | 0 | 0| 
 | 20210527T18:08:57Z | Code for the paper Explanation-Guided Backdoor Poisoning Attacks Against Malware Classifiers | https://github.com/ClonedOne/MalwareBackdoors | 3 | 1| 
 | 20210527T15:12:03Z | PCI Express DIY hacking toolkit for Xilinx SP605 | https://github.com/Cr4sh/s6_pcie_microblaze | 356 | 88| 
@@ -118,16 +118,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210527T12:47:02Z | Fuzzy Logic for Python 3 | https://github.com/amogorkon/fuzzylogic | 22 | 10| 
-| 20210527T12:38:44Z | Written standups for remote teams. Inspired by Basecamp. | https://github.com/malikpiara/fuzzboard | 1 | 0| 
-| 20210527T12:28:06Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2333 | 126| 
-| 20210527T12:15:14Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 7 | 5| 
-| 20210527T12:08:29Z | Null | https://github.com/gamzemdn/fuzzy_logic | 0 | 0| 
-| 20210527T11:27:58Z | Null | https://github.com/ccesarrod/.NetCoreFuzzy | 0 | 0| 
-| 20210527T11:17:50Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1769 | 348| 
-| 20210527T11:15:18Z | a c program containing vulnerable code for common types of vulnerabilities, can be used to show fuzzing concepts. | https://github.com/hardik05/Damn_Vulnerable_C_Program | 248 | 29| 
-| 20210527T11:10:12Z | TL-DR | https://github.com/SONJAYA80026/fuzzy-fiea | 0 | 0| 
-| 20210527T10:28:44Z | Null | https://github.com/JlKmn/NHapi-Fuzz-Environment | 0 | 0| 
+| 20210528T00:24:12Z | Sound and Cost-effective Fuzzing of Stripped Binaries by Incremental and Stochastic Rewriting | https://github.com/ZhangZhuoSJTU/StochFuzz | 32 | 1| 
+| 20210527T23:53:46Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 282 | 38| 
+| 20210527T23:47:50Z | Null | https://github.com/dalberston95/fuzzy-sniffle | 0 | 0| 
+| 20210527T22:59:05Z | Null | https://github.com/opimentel-github/fuzzy-tools | 0 | 0| 
+| 20210527T22:48:13Z | Repository for experiments for 227-fuzzers project | https://github.com/KrystopherWeeton/227-fuzzers | 0 | 0| 
+| 20210527T22:13:29Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6335 | 1285| 
+| 20210527T21:21:41Z | php fuzzer | https://github.com/HGUfuzzing/php-fuzzer | 0 | 0| 
+| 20210527T21:07:34Z | Fuzzing, Exploits, and other tools to help expoit binaries with buffer overflow | https://github.com/agijsg/buffer-overflow-tools | 0 | 0| 
+| 20210527T21:00:48Z | Examples to stand up demo infrastructure | https://github.com/mikelaramie/fuzzy-bassoon | 0 | 0| 
+| 20210527T20:38:17Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
 
 
 

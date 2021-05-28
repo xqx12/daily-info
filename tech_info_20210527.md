@@ -33,7 +33,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210527T17:18:12Z | CVE-2020-17087 | Null | https://github.com/ykg88/OHTS_IE6052-CVE-2020-17087 | Windows Kernel Local Elevation of Privilege Vulnerability| 
-| 20210527T15:42:16Z | CVE-2021-33564 | Argument Injection in Dragonfly Ruby Gem | https://github.com/mlr0p/CVE-2021-33564 | | 
+| 20210527T15:42:16Z | CVE-2021-33564 | Argument Injection in Dragonfly Ruby Gem | https://github.com/mlr0p/CVE-2021-33564 | 未查询到CVE信息| 
 | 20210527T14:19:48Z | CVE-2021-21985 | Multiple vulnerabilities in the vSphere Client (HTML5) were privately reported to VMware. Updates and workarounds are available to address these vulnerabilities in affected VMware products. | https://github.com/bigbroke/CVE-2021-21985 | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
 
 
@@ -41,7 +41,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20210527T18:02:16Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 634 | 15| 
-| 20210527T17:01:55Z | Null | https://github.com/JaimePSantos/ResearchKlee | 0 | 0| 
 | 20210527T14:37:31Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1702 | 494| 
 | 20210527T14:23:56Z | klee.js is a (data driven) generator and wrapper for the magnificent three.js | https://github.com/trenc/klee.js | 1 | 0| 
 | 20210527T12:32:54Z | Null | https://github.com/KleePaimon/KleePaimon.github.io | 0 | 0| 
@@ -73,7 +72,6 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210527T23:55:34Z | Null | https://github.com/danchik1155/BackdoorIstok | 0 | 0| 
 | 20210527T23:13:36Z | Un backdoor/troyano para discord y chrome, con interfaz web. | https://github.com/Arturo-Melgarejo/bambu | 0 | 0| 
 | 20210527T18:08:57Z | Code for the paper Explanation-Guided Backdoor Poisoning Attacks Against Malware Classifiers | https://github.com/ClonedOne/MalwareBackdoors | 3 | 1| 
 | 20210527T15:12:03Z | PCI Express DIY hacking toolkit for Xilinx SP605 | https://github.com/Cr4sh/s6_pcie_microblaze | 356 | 88| 
@@ -88,16 +86,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210527T12:47:02Z | Fuzzy Logic for Python 3 | https://github.com/amogorkon/fuzzylogic | 22 | 10| 
-| 20210527T12:38:44Z | Written standups for remote teams. Inspired by Basecamp. | https://github.com/malikpiara/fuzzboard | 1 | 0| 
-| 20210527T12:28:06Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2333 | 126| 
-| 20210527T12:15:14Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 7 | 5| 
-| 20210527T12:08:29Z | Null | https://github.com/gamzemdn/fuzzy_logic | 0 | 0| 
-| 20210527T11:27:58Z | Null | https://github.com/ccesarrod/.NetCoreFuzzy | 0 | 0| 
-| 20210527T11:17:50Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1769 | 348| 
-| 20210527T11:15:18Z | a c program containing vulnerable code for common types of vulnerabilities, can be used to show fuzzing concepts. | https://github.com/hardik05/Damn_Vulnerable_C_Program | 248 | 29| 
-| 20210527T11:10:12Z | TL-DR | https://github.com/SONJAYA80026/fuzzy-fiea | 0 | 0| 
-| 20210527T10:28:44Z | Null | https://github.com/JlKmn/NHapi-Fuzz-Environment | 0 | 0| 
+| 20210527T23:53:46Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 282 | 38| 
+| 20210527T23:47:50Z | Null | https://github.com/dalberston95/fuzzy-sniffle | 0 | 0| 
+| 20210527T22:59:05Z | Null | https://github.com/opimentel-github/fuzzy-tools | 0 | 0| 
+| 20210527T22:48:13Z | Repository for experiments for 227-fuzzers project | https://github.com/KrystopherWeeton/227-fuzzers | 0 | 0| 
+| 20210527T22:13:29Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6335 | 1285| 
+| 20210527T21:21:41Z | php fuzzer | https://github.com/HGUfuzzing/php-fuzzer | 0 | 0| 
+| 20210527T21:07:34Z | Fuzzing, Exploits, and other tools to help expoit binaries with buffer overflow | https://github.com/agijsg/buffer-overflow-tools | 0 | 0| 
+| 20210527T21:00:48Z | Examples to stand up demo infrastructure | https://github.com/mikelaramie/fuzzy-bassoon | 0 | 0| 
+| 20210527T20:38:17Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
+| 20210527T20:07:34Z | Netzob: Protocol Reverse Engineering, Modeling and Fuzzing | https://github.com/netzob/netzob | 599 | 138| 
 
 
 
