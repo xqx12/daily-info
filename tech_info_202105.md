@@ -88,7 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210529T12:23:25Z | Null | https://github.com/MoryokaV/Activity-Exploit | 0 | 0| 
+| 20210529T12:25:07Z | Null | https://github.com/MoryokaV/Activity-Exploit | 0 | 0| 
 | 20210529T12:21:12Z | A school project involving scraping, cleaning and exploiting data from the french website marmiton.org | https://github.com/Hugopikachu/mini-project-gourmet | 0 | 0| 
 | 20210529T12:19:48Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 19 | 0| 
 | 20210529T12:14:17Z | The legendary VXHeaven malware collection. | https://github.com/BaRRaKudaRain/RedZone | 17 | 6| 
