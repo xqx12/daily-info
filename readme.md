@@ -35,6 +35,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210529T12:27:45Z | Alpine Builder, usually for pentest. Exploit lxd and docker group permission. | https://github.com/Seven-7Up/alpine-builder | 0 | 0| 
 | 20210529T12:25:07Z | Null | https://github.com/MoryokaV/Activity-Exploit | 0 | 0| 
 | 20210529T12:21:12Z | A school project involving scraping, cleaning and exploiting data from the french website marmiton.org | https://github.com/Hugopikachu/mini-project-gourmet | 0 | 0| 
 | 20210529T12:19:48Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 19 | 0| 
@@ -44,7 +45,6 @@
 | 20210529T11:28:16Z | Writeup for exploit.education/nebula | https://github.com/vi11ain/nebula-writeup | 1 | 0| 
 | 20210529T11:12:28Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 205 | 38| 
 | 20210529T11:07:36Z | The new semi-lua roblox exploit | https://github.com/NQS-Team/Oxygen8 | 1 | 0| 
-| 20210529T11:01:29Z | A tool to identify and exploit sudo rules% misconfigurations and vulnerabilities within sudo for linux privilege escalation. | https://github.com/TH3xACE/SUDO_KILLER | 1153 | 161| 
 
 
 # backdoor on Github 推荐
