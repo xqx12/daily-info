@@ -118,16 +118,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210528T12:49:17Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1774 | 349| 
-| 20210528T12:44:59Z | Flanged 90 degrees elbow  | https://github.com/Chemutaiselim/fuzzy-octo-telegram | 0 | 0| 
-| 20210528T12:43:27Z | Null | https://github.com/kemsdahsdhah217/fuzzy-disco | 0 | 0| 
-| 20210528T12:18:44Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 434 | 37| 
-| 20210528T12:15:13Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 7 | 5| 
-| 20210528T11:43:06Z | 渗透测试路径字典，爆破字典。内容来自互联网和实战积累。 | https://github.com/cpkkcb/fuzzDicts | 88 | 42| 
-| 20210528T11:32:48Z | Real firmware fuzz-tested with uEmu | https://github.com/MCUSec/uEmu-real_world_firmware | 2 | 1| 
-| 20210528T11:08:58Z | Neuro-fuzzy systems course | https://github.com/qwerfah/neuro-fuzzy-systems | 0 | 0| 
-| 20210528T10:43:10Z | dumb Vulnerable server fuzzer  | https://github.com/kallepalliraviteja/vulnserverfuzzer | 0 | 0| 
-| 20210528T10:32:07Z | PerformanceFuzzer | https://github.com/KKimj/PerformanceFuzzer | 1 | 0| 
+| 20210529T00:24:25Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2335 | 126| 
+| 20210529T00:08:38Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 849 | 90| 
+| 20210528T23:51:38Z | Sound and Cost-effective Fuzzing of Stripped Binaries by Incremental and Stochastic Rewriting | https://github.com/ZhangZhuoSJTU/StochFuzz | 37 | 1| 
+| 20210528T23:39:18Z | Null | https://github.com/leopardonline/fuzzy-goggles | 0 | 0| 
+| 20210528T23:38:32Z | testing123 | https://github.com/attackmode/fuzzy-system | 0 | 0| 
+| 20210528T23:29:02Z | These tests of libdwarf/dwarfdump include old object files, new ones, and many fuzzed object files. These are the definitive tests that things work.. Most people have no reason to run these tests. | https://github.com/davea42/libdwarf-regressiontests | 0 | 0| 
+| 20210528T22:44:18Z | Null | https://github.com/natrhan/fuzzy-doodle | 0 | 0| 
+| 20210528T22:31:07Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 434 | 37| 
+| 20210528T21:27:10Z | Remote areas monitoring IoT node: ULP (Energy-harvesting powered) fire detection & alarming system using Fuzzy logic with an edge computing approach for daily temperature logging. | https://github.com/Rad-hi/Fuzzy_Fire_Detection | 1 | 1| 
+| 20210528T20:52:35Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 
 
 
