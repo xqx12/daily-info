@@ -118,6 +118,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210529T12:58:14Z | Algoritmo Genético para sintonia de Controladores Fuzzy | https://github.com/leandrolrs18/AlgoritmoGeneticoControleFuzzy | 1 | 0| 
 | 20210529T12:55:03Z | Null | https://github.com/Colgates/fuzzy | 0 | 0| 
 | 20210529T12:52:15Z | A vulnerability fuzzing tool written in bash, it contains the most commonly used tools to perform vulnerability scan | https://github.com/R0X4R/Pinaak | 1 | 0| 
 | 20210529T12:43:24Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
@@ -127,7 +128,6 @@
 | 20210529T09:40:05Z | Fuzzing for Quiwi https://github.com/goburrow/quic | https://github.com/goburrow/quic-fuzz | 0 | 0| 
 | 20210529T09:38:08Z | Null | https://github.com/balins/fuzzy-decision-tree | 0 | 0| 
 | 20210529T09:03:55Z | Sound and Cost-effective Fuzzing of Stripped Binaries by Incremental and Stochastic Rewriting | https://github.com/ZhangZhuoSJTU/StochFuzz | 42 | 1| 
-| 20210529T08:50:18Z | Fuzz Dual Website in a Single Shot | https://github.com/anjaanabishek10/Traven | 2 | 0| 
 
 
 
