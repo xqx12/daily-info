@@ -91,7 +91,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210528T23:51:38Z | Sound and Cost-effective Fuzzing of Stripped Binaries by Incremental and Stochastic Rewriting | https://github.com/ZhangZhuoSJTU/StochFuzz | 37 | 1| 
 | 20210528T23:39:18Z | Null | https://github.com/leopardonline/fuzzy-goggles | 0 | 0| 
 | 20210528T23:38:32Z | testing123 | https://github.com/attackmode/fuzzy-system | 0 | 0| 
 | 20210528T23:29:02Z | These tests of libdwarf/dwarfdump include old object files, new ones, and many fuzzed object files. These are the definitive tests that things work.. Most people have no reason to run these tests. | https://github.com/davea42/libdwarf-regressiontests | 0 | 0| 
@@ -101,6 +100,7 @@
 | 20210528T20:52:35Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210528T20:43:01Z | Null | https://github.com/dustinfarist/fuzzy-octo-guide | 0 | 0| 
 | 20210528T20:35:45Z | fzgo is a prototype of %make fuzzing a first class citizen% in the go command. Supports rich signatures & generating fuzz functions. | https://github.com/thepudds/fzgo | 97 | 3| 
+| 20210528T18:10:52Z | Bazel Starlark extensions for defining fuzz tests in Bazel projects | https://github.com/bazelbuild/rules_fuzzing | 35 | 4| 
 
 
 

@@ -118,9 +118,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210529T01:08:10Z | Sound and Cost-effective Fuzzing of Stripped Binaries by Incremental and Stochastic Rewriting | https://github.com/ZhangZhuoSJTU/StochFuzz | 37 | 1| 
 | 20210529T00:24:25Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2335 | 126| 
 | 20210529T00:08:38Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 849 | 90| 
-| 20210528T23:51:38Z | Sound and Cost-effective Fuzzing of Stripped Binaries by Incremental and Stochastic Rewriting | https://github.com/ZhangZhuoSJTU/StochFuzz | 37 | 1| 
 | 20210528T23:39:18Z | Null | https://github.com/leopardonline/fuzzy-goggles | 0 | 0| 
 | 20210528T23:38:32Z | testing123 | https://github.com/attackmode/fuzzy-system | 0 | 0| 
 | 20210528T23:29:02Z | These tests of libdwarf/dwarfdump include old object files, new ones, and many fuzzed object files. These are the definitive tests that things work.. Most people have no reason to run these tests. | https://github.com/davea42/libdwarf-regressiontests | 0 | 0| 
