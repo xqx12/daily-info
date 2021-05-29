@@ -31,8 +31,8 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210528T23:42:13Z | CVE-2021-33564 | Argument Injection in Dragonfly Ruby Gem | https://github.com/mlr0p/CVE-2021-33564 | 未查询到CVE信息| 
-| 20210528T18:08:15Z | CVE-2020-8813 | Cacti v1.2.8 Unauthenticated Remote Code Execution | https://github.com/hexcowboy/CVE-2020-8813 | graph_realtime.php in Cacti 1.2.8 allows remote attackers to execute arbitrary OS commands via shell metacharacters in a cookie, if a guest user has the graph real-time privilege.| 
-| 20210528T16:54:31Z | CVE-2021-29629 | PoC for exploiting CVE-2021-29629 | https://github.com/JamesGeee/CVE-2021-29629 | | 
+| 20210528T18:08:15Z | CVE-2020-8813 | Cacti v1.2.8 Unauthenticated Remote Code Execution | https://github.com/hexcowboy/CVE-2020-8813 | | 
+| 20210528T16:54:31Z | CVE-2021-29629 | PoC for exploiting CVE-2021-29629 | https://github.com/JamesGeee/CVE-2021-29629 | In FreeBSD 13.0-STABLE before n245765-bec0d2c9c841, 12.2-STABLE before r369859, 11.4-STABLE before r369866, 13.0-RELEASE before p1, 12.2-RELEASE before p7, and 11.4-RELEASE before p10, missing message validation in libradius(3) could allow malicious clients or servers to trigger denial of service in vulnerable servers or clients respectively.| 
 | 20210528T16:54:26Z | CVE-2020-27208 | PoC for exploiting CVE-2020-27208 | https://github.com/JamesGeee/CVE-2020-27208 | The flash read-out protection (RDP) level is not enforced during the device initialization phase of the SoloKeys Solo 4.0.0 & Somu and the Nitrokey FIDO2 token. This allows an adversary to downgrade the RDP level and access secrets such as private ECC keys from SRAM via the debug interface.| 
 | 20210528T16:54:25Z | CVE-2021-29628 | PoC for exploiting CVE-2021-29628 | https://github.com/JamesGeee/CVE-2021-29628 | In FreeBSD 13.0-STABLE before n245764-876ffe28796c, 12.2-STABLE before r369857, 13.0-RELEASE before p1, and 12.2-RELEASE before p7, a system call triggering a fault could cause SMAP protections to be disabled for the duration of the system call. This weakness could be combined with other kernel bugs to craft an exploit.| 
 | 20210528T16:54:21Z | CVE-2020-12061 | PoC for exploiting CVE-2020-12061 | https://github.com/JamesGeee/CVE-2020-12061 | An issue was discovered in Nitrokey FIDO U2F firmware through 1.1. Communication between the microcontroller and the secure element transmits credentials in plain. This allows an adversary to eavesdrop the communication and derive the secrets stored in the microcontroller. As a result, the attacker is able to arbitrarily manipulate the firmware of the microcontroller.| 
@@ -50,7 +50,6 @@
 | 20210528T13:32:45Z | Null | https://github.com/KleePaimon/KleePaimon.github.io | 0 | 0| 
 | 20210528T07:13:24Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1704 | 494| 
 | 20210528T04:41:55Z | Null | https://github.com/sanghu1790/KLEEMA | 0 | 0| 
-| 20210528T03:31:15Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 635 | 15| 
 | 20210528T00:55:07Z | Null | https://github.com/JaimePSantos/ResearchKlee | 0 | 0| 
 
 
