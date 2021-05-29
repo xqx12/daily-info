@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210529T12:19:48Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 19 | 0| 
 | 20210529T12:16:54Z | Null | https://github.com/MoryokaV/Activity-Exploit | 0 | 0| 
 | 20210529T12:14:17Z | The legendary VXHeaven malware collection. | https://github.com/BaRRaKudaRain/RedZone | 17 | 6| 
 | 20210529T12:02:43Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
@@ -97,7 +98,6 @@
 | 20210529T11:12:28Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 205 | 38| 
 | 20210529T11:07:36Z | The new semi-lua roblox exploit | https://github.com/NQS-Team/Oxygen8 | 1 | 0| 
 | 20210529T11:01:29Z | A tool to identify and exploit sudo rules% misconfigurations and vulnerabilities within sudo for linux privilege escalation. | https://github.com/TH3xACE/SUDO_KILLER | 1153 | 161| 
-| 20210529T10:48:57Z | CVE-2021-3156: Sudo heap overflow exploit for Debain 10 | https://github.com/0xdevil/CVE-2021-3156 | 19 | 6| 
 
 
 # backdoor on Github 推荐
