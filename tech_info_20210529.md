@@ -64,6 +64,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210529T12:25:12Z | A vulnerability fuzzing tool written in bash, it contains the most commonly used tools to perform vulnerability scan | https://github.com/R0X4R/Pinaak | 0 | 0| 
+| 20210529T12:15:13Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 7 | 5| 
 | 20210529T11:37:35Z | WOW Classic Addons | https://github.com/LuckDuck-GitHub/fuzzy-invention | 0 | 0| 
 | 20210529T10:28:27Z | xss vulnerability scanner and input fuzzing tool. | https://github.com/xadhrit/xira | 16 | 11| 
 | 20210529T09:40:05Z | Fuzzing for Quiwi https://github.com/goburrow/quic | https://github.com/goburrow/quic-fuzz | 0 | 0| 
@@ -72,8 +74,6 @@
 | 20210529T08:50:18Z | Fuzz Dual Website in a Single Shot | https://github.com/anjaanabishek10/Traven | 2 | 0| 
 | 20210529T08:33:18Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1775 | 350| 
 | 20210529T07:30:11Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 850 | 90| 
-| 20210529T06:48:26Z | 搜索提示 使用bing,百度接口 | https://github.com/Jun-Wave/fuzzy-search | 0 | 0| 
-| 20210529T05:49:32Z | python program for crisp and fuzzy relations | https://github.com/Nayoumi/Crisp-and-fuzzy-relations | 0 | 0| 
 
 
 
