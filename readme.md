@@ -23,20 +23,31 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20210528 | 拿下靶机ColddWorld: Immersion | https://www.sec-in.com/article/1046| 
+| 20210528 | 一站式Apache Kafka集群指标监控与运维管控平台 | https://github.com/didi/Logi-KafkaManager| 
+| 20210528 | 隐藏源IP，提高溯源难度的几种方案 | https://mp.weixin.qq.com/s/cFK73WyHm7uE3L5aRa2D5w| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210528T11:46:46Z | CVE-2021-33564 | Argument Injection in Dragonfly Ruby Gem | https://github.com/mlr0p/CVE-2021-33564 | 未查询到CVE信息| 
+| 20210528T23:42:13Z | CVE-2021-33564 | Argument Injection in Dragonfly Ruby Gem | https://github.com/mlr0p/CVE-2021-33564 | 未查询到CVE信息| 
+| 20210528T18:08:15Z | CVE-2020-8813 | Cacti v1.2.8 Unauthenticated Remote Code Execution | https://github.com/hexcowboy/CVE-2020-8813 | graph_realtime.php in Cacti 1.2.8 allows remote attackers to execute arbitrary OS commands via shell metacharacters in a cookie, if a guest user has the graph real-time privilege.| 
+| 20210528T16:54:31Z | CVE-2021-29629 | PoC for exploiting CVE-2021-29629 | https://github.com/JamesGeee/CVE-2021-29629 | In FreeBSD 13.0-STABLE before n245765-bec0d2c9c841, 12.2-STABLE before r369859, 11.4-STABLE before r369866, 13.0-RELEASE before p1, 12.2-RELEASE before p7, and 11.4-RELEASE before p10, missing message validation in libradius(3) could allow malicious clients or servers to trigger denial of service in vulnerable servers or clients respectively.| 
+| 20210528T16:54:26Z | CVE-2020-27208 | PoC for exploiting CVE-2020-27208 | https://github.com/JamesGeee/CVE-2020-27208 | The flash read-out protection (RDP) level is not enforced during the device initialization phase of the SoloKeys Solo 4.0.0 & Somu and the Nitrokey FIDO2 token. This allows an adversary to downgrade the RDP level and access secrets such as private ECC keys from SRAM via the debug interface.| 
+| 20210528T16:54:25Z | CVE-2021-29628 | PoC for exploiting CVE-2021-29628 | https://github.com/JamesGeee/CVE-2021-29628 | In FreeBSD 13.0-STABLE before n245764-876ffe28796c, 12.2-STABLE before r369857, 13.0-RELEASE before p1, and 12.2-RELEASE before p7, a system call triggering a fault could cause SMAP protections to be disabled for the duration of the system call. This weakness could be combined with other kernel bugs to craft an exploit.| 
+| 20210528T16:54:21Z | CVE-2020-12061 | PoC for exploiting CVE-2020-12061 | https://github.com/JamesGeee/CVE-2020-12061 | An issue was discovered in Nitrokey FIDO U2F firmware through 1.1. Communication between the microcontroller and the secure element transmits credentials in plain. This allows an adversary to eavesdrop the communication and derive the secrets stored in the microcontroller. As a result, the attacker is able to arbitrarily manipulate the firmware of the microcontroller.| 
+| 20210528T16:54:20Z | CVE-2021-33516 | PoC for exploiting CVE-2021-33516 | https://github.com/JamesGeee/CVE-2021-33516 | An issue was discovered in GUPnP before 1.0.7 and 1.1.x and 1.2.x before 1.2.5. It allows DNS rebinding. A remote web server can exploit this vulnerability to trick a victim%s browser into triggering actions against local UPnP services implemented using this library. Depending on the affected service, this could be used for data exfiltration, data tempering, etc.| 
+| 20210528T16:47:25Z | CVE-2020-14295 | Proof of Concept for CVE-2020-14295. | https://github.com/mrg3ntl3m4n/poc-CVE-2020-14295 | A SQL injection issue in color.php in Cacti 1.2.12 allows an admin to inject SQL via the filter parameter. This can lead to remote command execution because the product accepts stacked queries.| 
+| 20210528T14:35:20Z | CVE-2021-3156 | CVE-2021-3156: Sudo heap overflow exploit for Debain 10 | https://github.com/0xdevil/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210528T08:37:46Z | CVE-2021-21551 | Script to patch your domain computers about the CVE-2021-21551. Privesc on machines that have the driver dbutil_2_3.sys, installed by some DELL tools (BIOS updater, SupportAssist...) | https://github.com/arnaudluti/PS-CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
-| 20210528T07:38:28Z | CVE-2021-31166 | HTTP Protocol Stack CVE-2021-31166 | https://github.com/corelight/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210528T10:24:56Z | Null | https://github.com/KleePaimon/KleePaimon.github.io | 0 | 0| 
+| 20210528T21:00:59Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 14 | 44| 
+| 20210528T19:09:28Z | New portfolio website using react and material ui.  | https://github.com/collinkleest/kleest.io | 1 | 0| 
+| 20210528T13:32:45Z | Null | https://github.com/KleePaimon/KleePaimon.github.io | 0 | 0| 
 | 20210528T07:13:24Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1704 | 494| 
 | 20210528T04:41:55Z | Null | https://github.com/sanghu1790/KLEEMA | 0 | 0| 
 | 20210528T03:31:15Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 635 | 15| 
@@ -51,30 +62,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210528T12:58:37Z | Null | https://github.com/RedTeamMagic/WebServiceExploitation | 0 | 0| 
-| 20210528T12:51:16Z | Exploit Host  | https://github.com/therayner/psxbox | 0 | 0| 
-| 20210528T12:35:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9501 | 1537| 
-| 20210528T12:26:56Z | PS1 savegame exploit | https://github.com/socram8888/tonyhax | 285 | 8| 
-| 20210528T12:21:10Z | Null | https://github.com/wjddnjs33/exploit-code | 0 | 0| 
-| 20210528T12:20:15Z | My notes for CVE-2004-1561 IceCast exploitation | https://github.com/Nathan-Bash/CVE-2004-1561-Notes | 2 | 0| 
-| 20210528T12:02:42Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
-| 20210528T11:45:58Z | Null | https://github.com/smriti548/POC-exploits | 0 | 0| 
-| 20210528T11:41:14Z | A tool to identify and exploit sudo rules% misconfigurations and vulnerabilities within sudo for linux privilege escalation. | https://github.com/TH3xACE/SUDO_KILLER | 1151 | 161| 
-| 20210528T11:02:44Z | A CLI-application based on Rust | https://github.com/alwinsDen/exploit | 0 | 0| 
+| 20210528T23:53:40Z | The generalized normal distribution is ruled by a parameter %beta% and comprises famous distributions, such as normal (beta=2) and Laplace (beta=1). The uniform distribution is also included, as beta diverges. Current implementation in R package gnorm exploits relation with gamma distribution to simulate random draws. This implementation is proner to break down as beta diverges. For beta >= 1, the GN density is log-concave, so I propose a rng based on Devroye%s method. This alternative implementation does not break down as beta diverges. It is also provides an educational example of application for Devroye%s elegant and general method. | https://github.com/mlambardi/gnorm | 0 | 0| 
+| 20210528T23:02:44Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
+| 20210528T22:57:42Z | PS1 savegame exploit | https://github.com/socram8888/tonyhax | 286 | 8| 
+| 20210528T21:52:07Z | A tool to identify and exploit sudo rules% misconfigurations and vulnerabilities within sudo for linux privilege escalation. | https://github.com/TH3xACE/SUDO_KILLER | 1153 | 161| 
+| 20210528T21:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9506 | 1538| 
+| 20210528T21:19:06Z | An R package of data from the Kootenay Lake Exploitation Study | https://github.com/poissonconsulting/klexdatr | 0 | 1| 
+| 20210528T21:14:23Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 152 | 10| 
+| 20210528T19:57:47Z | Null | https://github.com/ArianeBlow/exploit-eyesofnetwork5.3.10 | 0 | 0| 
+| 20210528T19:25:55Z | Public Crash Lobby Exploit | https://github.com/flowd1337/crash-lobby-exploit | 0 | 0| 
+| 20210528T18:54:45Z | Developing and backtesting performance of a market neutral trading strategy which aims to exploit temporary anomalies in correlation between 2 pair of assets. | https://github.com/Naharul98/Pairs-Trading-Highly-Correlated-Assets | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210528T23:06:51Z | We find most existing triggers of backdoor attacks in deep learning contain severe artifacts in the frequency domain. This Repo. explores how we can use these artifacts to develop stronger backdoor defenses and attacks. | https://github.com/YiZeng623/frequency-backdoor | 2 | 0| 
+| 20210528T22:46:25Z | Create a backdoor to a WordPress website. | https://github.com/majidamiri70/backdoor_for_wp | 0 | 0| 
+| 20210528T18:12:55Z | Null | https://github.com/PesAdam/backdoors | 0 | 0| 
+| 20210528T16:51:16Z | Python 3 IRC Bot / Botnet | https://github.com/trackmastersteve/HackServ | 21 | 17| 
+| 20210528T15:54:17Z | Actually run a given promise or mock its outcome based on a given input value | https://github.com/johanfive/backdoor | 1 | 0| 
+| 20210528T13:36:41Z | this is advance py39 backdoor created to use in college project | https://github.com/Bhadresh-Malankiya/BackdoorPy3 | 0 | 0| 
 | 20210528T12:19:12Z | Null | https://github.com/Timcore-programmer/backdoor | 0 | 0| 
 | 20210528T07:21:21Z | Null | https://github.com/danchik1155/BackdoorIstok | 0 | 0| 
-| 20210528T07:03:10Z | this is advance py39 backdoor created to use in college project | https://github.com/Bhadresh-Malankiya/BackdoorPy3 | 0 | 0| 
 | 20210528T04:45:39Z | Code for the paper Explanation-Guided Backdoor Poisoning Attacks Against Malware Classifiers | https://github.com/ClonedOne/MalwareBackdoors | 4 | 1| 
 | 20210528T03:13:43Z | Null | https://github.com/xpf/Backdoor-Learning-arXiv | 1 | 0| 
-| 20210528T02:42:13Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 71 | 12| 
-| 20210528T01:34:51Z | you can use the backdoor for exploit windows  | https://github.com/KuMarayana/backdoor-tools | 0 | 0| 
-| 20210528T00:02:14Z | a proof of concept backdoor access to a fake LAN/Ethernet Adapter made from a modified raspberry pi zero and cheap LAN Adapter. *for educational purposes only | https://github.com/AdrianDucao/fake-Ethernet-Adapter | 0 | 0| 
-| 20210528T00:00:11Z | a proof of concept full access backdoor for unassuming raspberry pi or raspberry pi zero plugged in on your network. *for educational purposes only | https://github.com/AdrianDucao/malicious-Pie | 0 | 0| 
 
 
 # fuzz on Github 推荐
