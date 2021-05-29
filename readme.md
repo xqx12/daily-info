@@ -70,7 +70,7 @@
 | 20210528T19:57:47Z | Null | https://github.com/ArianeBlow/exploit-eyesofnetwork5.3.10 | 0 | 0| 
 | 20210528T19:25:55Z | Public Crash Lobby Exploit | https://github.com/flowd1337/crash-lobby-exploit | 0 | 0| 
 | 20210528T18:54:45Z | Developing and backtesting performance of a market neutral trading strategy which aims to exploit temporary anomalies in correlation between 2 pair of assets. | https://github.com/Naharul98/Pairs-Trading-Highly-Correlated-Assets | 0 | 0| 
-| 20210528T18:51:20Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 16 | 11| 
+| 20210528T18:32:38Z | Scripts (ServerSide and FE) | https://github.com/0WNEDU/Roblox-Misc-Scripts-Exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐

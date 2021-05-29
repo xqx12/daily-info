@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210529T00:51:19Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 16 | 11| 
 | 20210529T00:18:44Z | Null | https://github.com/xshi1012/libjpeg-turbo-2.0.1-exploit | 0 | 0| 
 | 20210529T00:02:53Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210528T23:53:40Z | The generalized normal distribution is ruled by a parameter %beta% and comprises famous distributions, such as normal (beta=2) and Laplace (beta=1). The uniform distribution is also included, as beta diverges. Current implementation in R package gnorm exploits relation with gamma distribution to simulate random draws. This implementation is proner to break down as beta diverges. For beta >= 1, the GN density is log-concave, so I propose a rng based on Devroye%s method. This alternative implementation does not break down as beta diverges. It is also provides an educational example of application for Devroye%s elegant and general method. | https://github.com/mlambardi/gnorm | 0 | 0| 
@@ -97,7 +98,6 @@
 | 20210528T21:19:06Z | An R package of data from the Kootenay Lake Exploitation Study | https://github.com/poissonconsulting/klexdatr | 0 | 1| 
 | 20210528T21:14:23Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 152 | 10| 
 | 20210528T19:57:47Z | Null | https://github.com/ArianeBlow/exploit-eyesofnetwork5.3.10 | 0 | 0| 
-| 20210528T19:25:55Z | Public Crash Lobby Exploit | https://github.com/flowd1337/crash-lobby-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
