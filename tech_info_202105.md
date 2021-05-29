@@ -118,8 +118,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210529T12:55:03Z | Null | https://github.com/Colgates/fuzzy | 0 | 0| 
+| 20210529T12:52:15Z | A vulnerability fuzzing tool written in bash, it contains the most commonly used tools to perform vulnerability scan | https://github.com/R0X4R/Pinaak | 1 | 0| 
 | 20210529T12:43:24Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
-| 20210529T12:25:12Z | A vulnerability fuzzing tool written in bash, it contains the most commonly used tools to perform vulnerability scan | https://github.com/R0X4R/Pinaak | 0 | 0| 
 | 20210529T12:15:13Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 7 | 5| 
 | 20210529T11:37:35Z | WOW Classic Addons | https://github.com/LuckDuck-GitHub/fuzzy-invention | 0 | 0| 
 | 20210529T10:28:27Z | xss vulnerability scanner and input fuzzing tool. | https://github.com/xadhrit/xira | 16 | 11| 
@@ -127,7 +128,6 @@
 | 20210529T09:38:08Z | Null | https://github.com/balins/fuzzy-decision-tree | 0 | 0| 
 | 20210529T09:03:55Z | Sound and Cost-effective Fuzzing of Stripped Binaries by Incremental and Stochastic Rewriting | https://github.com/ZhangZhuoSJTU/StochFuzz | 42 | 1| 
 | 20210529T08:50:18Z | Fuzz Dual Website in a Single Shot | https://github.com/anjaanabishek10/Traven | 2 | 0| 
-| 20210529T08:33:18Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1775 | 350| 
 
 
 
