@@ -54,7 +54,7 @@
 | 20210528T16:54:26Z | CVE-2020-27208 | PoC for exploiting CVE-2020-27208 | https://github.com/JamesGeee/CVE-2020-27208 | The flash read-out protection (RDP) level is not enforced during the device initialization phase of the SoloKeys Solo 4.0.0 & Somu and the Nitrokey FIDO2 token. This allows an adversary to downgrade the RDP level and access secrets such as private ECC keys from SRAM via the debug interface.| 
 | 20210528T16:54:25Z | CVE-2021-29628 | PoC for exploiting CVE-2021-29628 | https://github.com/JamesGeee/CVE-2021-29628 | In FreeBSD 13.0-STABLE before n245764-876ffe28796c, 12.2-STABLE before r369857, 13.0-RELEASE before p1, and 12.2-RELEASE before p7, a system call triggering a fault could cause SMAP protections to be disabled for the duration of the system call. This weakness could be combined with other kernel bugs to craft an exploit.| 
 | 20210528T16:54:21Z | CVE-2020-12061 | PoC for exploiting CVE-2020-12061 | https://github.com/JamesGeee/CVE-2020-12061 | An issue was discovered in Nitrokey FIDO U2F firmware through 1.1. Communication between the microcontroller and the secure element transmits credentials in plain. This allows an adversary to eavesdrop the communication and derive the secrets stored in the microcontroller. As a result, the attacker is able to arbitrarily manipulate the firmware of the microcontroller.| 
-| 20210528T16:54:20Z | CVE-2021-33516 | PoC for exploiting CVE-2021-33516 | https://github.com/JamesGeee/CVE-2021-33516 | An issue was discovered in GUPnP before 1.0.7 and 1.1.x and 1.2.x before 1.2.5. It allows DNS rebinding. A remote web server can exploit this vulnerability to trick a victim%s browser into triggering actions against local UPnP services implemented using this library. Depending on the affected service, this could be used for data exfiltration, data tempering, etc.| 
+| 20210528T16:54:20Z | CVE-2021-33516 | PoC for exploiting CVE-2021-33516 | https://github.com/JamesGeee/CVE-2021-33516 | | 
 | 20210528T16:47:25Z | CVE-2020-14295 | Proof of Concept for CVE-2020-14295. | https://github.com/mrg3ntl3m4n/poc-CVE-2020-14295 | A SQL injection issue in color.php in Cacti 1.2.12 allows an admin to inject SQL via the filter parameter. This can lead to remote command execution because the product accepts stacked queries.| 
 
 
@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210529T12:06:58Z | The legendary VXHeaven malware collection. | https://github.com/BaRRaKudaRain/RedZone | 17 | 6| 
 | 20210529T12:02:43Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210529T12:02:41Z | A school project involving scraping, cleaning and exploiting data from the french website marmiton.org | https://github.com/Hugopikachu/mini-project-gourmet | 0 | 0| 
 | 20210529T11:44:20Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 6131 | 1738| 
@@ -97,7 +98,6 @@
 | 20210529T11:01:29Z | A tool to identify and exploit sudo rules% misconfigurations and vulnerabilities within sudo for linux privilege escalation. | https://github.com/TH3xACE/SUDO_KILLER | 1153 | 161| 
 | 20210529T10:48:57Z | CVE-2021-3156: Sudo heap overflow exploit for Debain 10 | https://github.com/0xdevil/CVE-2021-3156 | 19 | 6| 
 | 20210529T09:17:24Z | Null | https://github.com/Whomever0/exploit-scripts | 0 | 0| 
-| 20210529T08:50:07Z | Repository for Findings of ACL(ACL-IJCNLP 2021): Enhancing Language Generation with Effective Checkpoints of Pre-trained Language Model | https://github.com/tmtmaj/Exploiting-PrLM-for-NLG-tasks | 0 | 0| 
 
 
 # backdoor on Github 推荐
