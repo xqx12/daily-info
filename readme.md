@@ -18,7 +18,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210529T12:34:35Z | CVE-2020-8813 | Cacti v1.2.8 Unauthenticated Remote Code Execution | https://github.com/hexcowboy/CVE-2020-8813 | graph_realtime.php in Cacti 1.2.8 allows remote attackers to execute arbitrary OS commands via shell metacharacters in a cookie, if a guest user has the graph real-time privilege.| 
+| 20210529T12:34:35Z | CVE-2020-8813 | Cacti v1.2.8 Unauthenticated Remote Code Execution | https://github.com/hexcowboy/CVE-2020-8813 | | 
 | 20210529T10:48:57Z | CVE-2021-3156 | CVE-2021-3156: Sudo heap overflow exploit for Debain 10 | https://github.com/0xdevil/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210529T08:12:06Z | CVE-2021-20717 | CVE-2021-20717-EC-CUBE-XSS | https://github.com/s-index/CVE-2021-20717 | Cross-site scripting vulnerability in EC-CUBE 4.0.0 to 4.0.5 allows a remote attacker to inject a specially crafted script in the specific input field of the EC web site which is created using EC-CUBE. As a result, it may lead to an arbitrary script execution on the administrator%s web browser.| 
 
@@ -40,7 +40,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20210529T23:41:07Z | Null | https://github.com/yxko/exploits | 0 | 0| 
-| 20210529T23:02:41Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210529T22:41:43Z | Re-implement in Python the results presented in Figure 2.2 of the Sutton & Barto book comparing a greedy method with two -greedy methods (𝜀=0.01 and 𝜀=0.1), on the 10-armed testbed, and present your code and results. Include a discussion of the exploration - exploitation dilemma in relation to your findings.Re-implement in Python the results presented in Figure 6.4 of the Sutton & Barto book comparing SARSA and Q-learning in the cliff-walking task. | https://github.com/dfox97/CliffWalking-10ArmTestbed_Sutton-Barto_CliffWalk | 0 | 0| 
 | 20210529T22:34:43Z | Null | https://github.com/InvokeTheDaemon/ATutor-2.2.4-Password-Reset-Exploit | 0 | 0| 
 | 20210529T21:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9510 | 1538| 
@@ -49,6 +48,7 @@
 | 20210529T21:03:16Z | Selam Gençler Bu tool ile sitelere otomatik exploit basabilirsiniz. | https://github.com/yuba-0/qwe | 0 | 0| 
 | 20210529T20:57:47Z | An R package of data from the Kootenay Lake Exploitation Study | https://github.com/poissonconsulting/klexdatr | 0 | 1| 
 | 20210529T20:57:15Z | The new exploit in lua level 7 | https://github.com/Looped-Software/OXYGEN-8 | 1 | 0| 
+| 20210529T20:30:04Z | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | 2078 | 373| 
 
 
 # backdoor on Github 推荐
