@@ -35,6 +35,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210530T12:51:06Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 55 | 18| 
 | 20210530T12:42:42Z | An HTML form input sanitization and possible exploitation attempts logging schema for flask apps | https://github.com/t3l3machus/flask-input-sanitization-and-logging | 2 | 0| 
 | 20210530T12:37:48Z | The new exploit in lua level 7 | https://github.com/Looped-Software/OXYGEN-8 | 2 | 0| 
 | 20210530T12:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9507 | 1538| 
@@ -44,7 +45,6 @@
 | 20210530T12:02:41Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210530T12:02:08Z | My Collection of exploits, reverse shells, scripts and more | https://github.com/nop-tech/Pentesting | 0 | 0| 
 | 20210530T11:51:24Z | CVE-2021-21551 proof of concept (PoC) exploit | https://github.com/mathisvickie/CVE-2021-21551 | 0 | 0| 
-| 20210530T10:58:43Z | Gonna share my writeups and resources here | https://github.com/jopraveen/exploit-development | 4 | 3| 
 
 
 # backdoor on Github 推荐
