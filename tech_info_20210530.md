@@ -58,7 +58,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210530T12:53:52Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 307 | 20| 
+| 20210530T12:59:08Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 307 | 20| 
 | 20210530T12:50:35Z | Custom link shortner | https://github.com/appukuttan66/fuzzy-invention | 0 | 0| 
 | 20210530T12:15:42Z | Planning tool | https://github.com/HappyDustbunny/FuzzyFlexx | 1 | 0| 
 | 20210530T11:51:36Z | Null | https://github.com/immanuelpay/fuzzy-subtractive-clustering | 0 | 0| 
