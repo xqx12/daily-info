@@ -35,7 +35,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210530T12:52:37Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 55 | 18| 
+| 20210530T12:53:21Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 55 | 18| 
 | 20210530T12:42:42Z | An HTML form input sanitization and possible exploitation attempts logging schema for flask apps | https://github.com/t3l3machus/flask-input-sanitization-and-logging | 2 | 0| 
 | 20210530T12:37:48Z | The new exploit in lua level 7 | https://github.com/Looped-Software/OXYGEN-8 | 2 | 0| 
 | 20210530T12:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9507 | 1538| 
@@ -58,7 +58,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210530T12:37:02Z | Custom link shortner | https://github.com/appukuttan66/fuzzy-invention | 0 | 0| 
+| 20210530T12:53:52Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 307 | 20| 
+| 20210530T12:50:35Z | Custom link shortner | https://github.com/appukuttan66/fuzzy-invention | 0 | 0| 
 | 20210530T12:15:42Z | Planning tool | https://github.com/HappyDustbunny/FuzzyFlexx | 1 | 0| 
 | 20210530T11:51:36Z | Null | https://github.com/immanuelpay/fuzzy-subtractive-clustering | 0 | 0| 
 | 20210530T11:49:49Z | Null | https://github.com/immanuelpay/fuzzy-c-means | 0 | 0| 
@@ -67,7 +68,6 @@
 | 20210530T10:45:09Z | Fuzz corpora that shouldn%t *quite* go into Serenity, I think | https://github.com/SerenityOS/serenity-fuzz-corpora | 2 | 3| 
 | 20210530T09:48:19Z | Null | https://github.com/s9varesc/url-fuzzing | 1 | 1| 
 | 20210530T09:39:37Z | Null | https://github.com/rajat-mehra05/FuzzTube-youtube-clone- | 0 | 0| 
-| 20210530T09:26:50Z | Null | https://github.com/JohenanLi/AggregateFuzzing | 0 | 0| 
 
 
 
