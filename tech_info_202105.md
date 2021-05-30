@@ -118,16 +118,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210529T12:58:14Z | Algoritmo Genético para sintonia de Controladores Fuzzy | https://github.com/leandrolrs18/AlgoritmoGeneticoControleFuzzy | 1 | 0| 
-| 20210529T12:55:03Z | Null | https://github.com/Colgates/fuzzy | 0 | 0| 
-| 20210529T12:52:15Z | A vulnerability fuzzing tool written in bash, it contains the most commonly used tools to perform vulnerability scan | https://github.com/R0X4R/Pinaak | 1 | 0| 
-| 20210529T12:43:24Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
-| 20210529T12:15:13Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 7 | 5| 
-| 20210529T11:37:35Z | WOW Classic Addons | https://github.com/LuckDuck-GitHub/fuzzy-invention | 0 | 0| 
-| 20210529T10:28:27Z | xss vulnerability scanner and input fuzzing tool. | https://github.com/xadhrit/xira | 16 | 11| 
-| 20210529T09:40:05Z | Fuzzing for Quiwi https://github.com/goburrow/quic | https://github.com/goburrow/quic-fuzz | 0 | 0| 
-| 20210529T09:38:08Z | Null | https://github.com/balins/fuzzy-decision-tree | 0 | 0| 
-| 20210529T09:03:55Z | Sound and Cost-effective Fuzzing of Stripped Binaries by Incremental and Stochastic Rewriting | https://github.com/ZhangZhuoSJTU/StochFuzz | 42 | 1| 
+| 20210530T00:27:50Z | Null | https://github.com/jrc03c/fuzzy-find | 0 | 0| 
+| 20210530T00:19:43Z | CBOR RFC 7049 & RFC 8949 (Go/Golang) - safe & fast with standard API + toarray & keyasint, CBOR tags, float64/32/16, fuzz tested. | https://github.com/fxamacker/cbor | 275 | 20| 
+| 20210530T00:06:11Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1777 | 350| 
+| 20210529T23:31:59Z | Repository for experiments for 227-fuzzers project | https://github.com/KrystopherWeeton/227-fuzzers | 0 | 0| 
+| 20210529T23:00:17Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
+| 20210529T22:11:30Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
+| 20210529T20:46:39Z | Null | https://github.com/natrhan/fuzzy-doodle | 0 | 0| 
+| 20210529T20:27:28Z | Neuro-fuzzy systems course | https://github.com/qwerfah/neuro-fuzzy-systems | 0 | 0| 
+| 20210529T19:42:01Z | Null | https://github.com/googleinterns/hw-fuzzing | 18 | 5| 
+| 20210529T19:33:37Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 282 | 38| 
 
 
 
