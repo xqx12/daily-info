@@ -35,6 +35,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210530T12:42:42Z | An HTML form input sanitization and possible exploitation attempts logging schema for flask apps | https://github.com/t3l3machus/flask-input-sanitization-and-logging | 2 | 0| 
 | 20210530T12:37:48Z | The new exploit in lua level 7 | https://github.com/Looped-Software/OXYGEN-8 | 2 | 0| 
 | 20210530T12:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9507 | 1538| 
 | 20210530T12:24:41Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 473 | 92| 
@@ -44,7 +45,6 @@
 | 20210530T12:02:08Z | My Collection of exploits, reverse shells, scripts and more | https://github.com/nop-tech/Pentesting | 0 | 0| 
 | 20210530T11:51:24Z | CVE-2021-21551 proof of concept (PoC) exploit | https://github.com/mathisvickie/CVE-2021-21551 | 0 | 0| 
 | 20210530T10:58:43Z | Gonna share my writeups and resources here | https://github.com/jopraveen/exploit-development | 4 | 3| 
-| 20210530T10:57:25Z | not mine. all credit give to respectful owner Hillusion Exploit ID | https://github.com/hackdrug/hexid-by-hillusion- | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -58,10 +58,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210530T01:22:35Z | Null | https://github.com/NTHieu2k1/AI_Fuzzy_Project_AIP | 0 | 0| 
-| 20210530T00:29:08Z | Null | https://github.com/jrc03c/fuzzy-find | 0 | 0| 
-| 20210530T00:19:43Z | CBOR RFC 7049 & RFC 8949 (Go/Golang) - safe & fast with standard API + toarray & keyasint, CBOR tags, float64/32/16, fuzz tested. | https://github.com/fxamacker/cbor | 275 | 20| 
-| 20210530T00:06:11Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1777 | 350| 
+| 20210530T12:37:02Z | Custom link shortner | https://github.com/appukuttan66/fuzzy-invention | 0 | 0| 
+| 20210530T12:15:42Z | Planning tool | https://github.com/HappyDustbunny/FuzzyFlexx | 1 | 0| 
+| 20210530T11:51:36Z | Null | https://github.com/immanuelpay/fuzzy-subtractive-clustering | 0 | 0| 
+| 20210530T11:49:49Z | Null | https://github.com/immanuelpay/fuzzy-c-means | 0 | 0| 
+| 20210530T11:47:17Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
+| 20210530T10:45:25Z | A vulnerability fuzzing tool written in bash, it contains the most commonly used tools to perform vulnerability scan | https://github.com/R0X4R/Pinaak | 26 | 3| 
+| 20210530T10:45:09Z | Fuzz corpora that shouldn%t *quite* go into Serenity, I think | https://github.com/SerenityOS/serenity-fuzz-corpora | 2 | 3| 
+| 20210530T09:48:19Z | Null | https://github.com/s9varesc/url-fuzzing | 1 | 1| 
+| 20210530T09:39:37Z | Null | https://github.com/rajat-mehra05/FuzzTube-youtube-clone- | 0 | 0| 
+| 20210530T09:26:50Z | Null | https://github.com/JohenanLi/AggregateFuzzing | 0 | 0| 
 
 
 
