@@ -46,6 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210530T11:51:24Z | CVE-2021-21551 | CVE-2021-21551 proof of concept (PoC) exploit | https://github.com/mathisvickie/CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
+| 20210530T06:24:51Z | CVE-2021-21389 | BuddyPress < 7.2.1 - REST API Privilege Escalation to RCE | https://github.com/HoangKien1020/CVE-2021-21389 | BuddyPress is an open source WordPress plugin to build a community site. In releases of BuddyPress from 5.0.0 before 7.2.1 it%s possible for a non-privileged, regular user to obtain administrator rights by exploiting an issue in the REST API members endpoint. The vulnerability has been fixed in BuddyPress 7.2.1. Existing installations of the plugin should be updated to this version to mitigate the issue.| 
 | 20210529T12:34:35Z | CVE-2020-8813 | Cacti v1.2.8 Unauthenticated Remote Code Execution | https://github.com/hexcowboy/CVE-2020-8813 | graph_realtime.php in Cacti 1.2.8 allows remote attackers to execute arbitrary OS commands via shell metacharacters in a cookie, if a guest user has the graph real-time privilege.| 
 | 20210529T10:48:57Z | CVE-2021-3156 | CVE-2021-3156: Sudo heap overflow exploit for Debain 10 | https://github.com/0xdevil/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210529T08:12:06Z | CVE-2021-20717 | CVE-2021-20717-EC-CUBE-XSS | https://github.com/s-index/CVE-2021-20717 | Cross-site scripting vulnerability in EC-CUBE 4.0.0 to 4.0.5 allows a remote attacker to inject a specially crafted script in the specific input field of the EC web site which is created using EC-CUBE. As a result, it may lead to an arbitrary script execution on the administrator%s web browser.| 
@@ -54,16 +56,14 @@
 | 20210528T16:54:26Z | CVE-2020-27208 | PoC for exploiting CVE-2020-27208 | https://github.com/JamesGeee/CVE-2020-27208 | The flash read-out protection (RDP) level is not enforced during the device initialization phase of the SoloKeys Solo 4.0.0 & Somu and the Nitrokey FIDO2 token. This allows an adversary to downgrade the RDP level and access secrets such as private ECC keys from SRAM via the debug interface.| 
 | 20210528T16:54:25Z | CVE-2021-29628 | PoC for exploiting CVE-2021-29628 | https://github.com/JamesGeee/CVE-2021-29628 | In FreeBSD 13.0-STABLE before n245764-876ffe28796c, 12.2-STABLE before r369857, 13.0-RELEASE before p1, and 12.2-RELEASE before p7, a system call triggering a fault could cause SMAP protections to be disabled for the duration of the system call. This weakness could be combined with other kernel bugs to craft an exploit.| 
 | 20210528T16:54:21Z | CVE-2020-12061 | PoC for exploiting CVE-2020-12061 | https://github.com/JamesGeee/CVE-2020-12061 | An issue was discovered in Nitrokey FIDO U2F firmware through 1.1. Communication between the microcontroller and the secure element transmits credentials in plain. This allows an adversary to eavesdrop the communication and derive the secrets stored in the microcontroller. As a result, the attacker is able to arbitrarily manipulate the firmware of the microcontroller.| 
-| 20210528T16:54:20Z | CVE-2021-33516 | PoC for exploiting CVE-2021-33516 | https://github.com/JamesGeee/CVE-2021-33516 | An issue was discovered in GUPnP before 1.0.7 and 1.1.x and 1.2.x before 1.2.5. It allows DNS rebinding. A remote web server can exploit this vulnerability to trick a victim%s browser into triggering actions against local UPnP services implemented using this library. Depending on the affected service, this could be used for data exfiltration, data tempering, etc.| 
-| 20210528T16:47:25Z | CVE-2020-14295 | Proof of Concept for CVE-2020-14295. | https://github.com/mrg3ntl3m4n/poc-CVE-2020-14295 | A SQL injection issue in color.php in Cacti 1.2.12 allows an admin to inject SQL via the filter parameter. This can lead to remote command execution because the product accepts stacked queries.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210530T01:45:04Z | Dodoco doko? | https://github.com/RiceFT/klee | 0 | 0| 
+| 20210530T07:38:52Z | Dodoco doko? | https://github.com/RiceFT/klee | 0 | 0| 
+| 20210530T04:14:47Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 638 | 15| 
 | 20210529T18:27:10Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1706 | 494| 
-| 20210529T12:17:03Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 637 | 15| 
 | 20210528T21:00:59Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 14 | 44| 
 | 20210528T19:09:28Z | New portfolio website using react and material ui.  | https://github.com/collinkleest/kleest.io | 1 | 0| 
 | 20210528T13:32:45Z | Null | https://github.com/KleePaimon/KleePaimon.github.io | 0 | 0| 
@@ -103,6 +103,9 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210530T09:15:49Z | Null | https://github.com/vaaadym/backdoor | 0 | 0| 
+| 20210530T05:13:04Z | Python 3 IRC Bot / Botnet | https://github.com/trackmastersteve/HackServ | 21 | 17| 
+| 20210530T04:50:51Z | Null | https://github.com/ivytangyiming/Backdoor-Platform | 0 | 0| 
 | 20210529T18:02:53Z | Utility for creating backdoors in Bukkit plugins | https://github.com/Rikonardo/Bukloit | 18 | 2| 
 | 20210529T17:33:55Z | Simple Python Backdoor | https://github.com/zNairy/Sonaris | 6 | 0| 
 | 20210529T17:04:35Z | TotallyNotABackDoorPlugin is a backdoor plugin for minecraft servers | https://github.com/SpicyHamBoi/TotallyNotABackDoorPlugin | 0 | 0| 
@@ -110,9 +113,6 @@
 | 20210529T11:12:28Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 205 | 38| 
 | 20210529T11:02:35Z | We can use this virus software to infiltrate other computers. It should only be used in an ethical sense. | https://github.com/UfukBlbn/Backdoor---Python | 0 | 0| 
 | 20210529T10:42:43Z | Python Network Scanner with Backdoor Detection , Google Blacklist Scan and other Nmap resources | https://github.com/xadhrit/d9scan | 2 | 1| 
-| 20210529T09:41:16Z | Null | https://github.com/D4rksSh4d0w/Shell-Backdoor | 0 | 0| 
-| 20210529T07:06:44Z | Web Shells that can bypass system firewalls | https://github.com/22XploiterCrew-Team/Tsayou-Shell-Backdoor | 1 | 0| 
-| 20210529T06:32:17Z | Null | https://github.com/krishna2808/pythonProgramming- | 0 | 1| 
 
 
 # fuzz on Github 推荐
