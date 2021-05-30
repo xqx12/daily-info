@@ -88,7 +88,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210530T00:38:44Z | A tool to identify and exploit sudo rules% misconfigurations and vulnerabilities within sudo for linux privilege escalation. | https://github.com/TH3xACE/SUDO_KILLER | 1156 | 161| 
+| 20210530T00:42:44Z | Educational web application demonstrating techniques of binary exploitation (Front-end) | https://github.com/Pen-Test3rs/binary_exploits_frontend | 0 | 0| 
+| 20210530T00:40:52Z | A tool to identify and exploit sudo rules% misconfigurations and vulnerabilities within sudo for linux privilege escalation. | https://github.com/TH3xACE/SUDO_KILLER | 1156 | 161| 
 | 20210530T00:25:33Z | Null | https://github.com/xshi1012/libjpeg-turbo-2.0.1-exploit | 0 | 0| 
 | 20210530T00:09:12Z | RGHub is a roblox exploit hub with many different games, please read license before copying it/using it commercially, teaching with this repository/resource is permitted. | https://github.com/RG2N/RGHub | 0 | 0| 
 | 20210530T00:02:58Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
@@ -97,7 +98,6 @@
 | 20210529T22:34:43Z | Null | https://github.com/InvokeTheDaemon/ATutor-2.2.4-Password-Reset-Exploit | 0 | 0| 
 | 20210529T21:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9510 | 1538| 
 | 20210529T21:33:57Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 54 | 18| 
-| 20210529T21:25:55Z | Merlin is a cross-platform post-exploitation HTTP/2 Command & Control  server and agent written in golang. | https://github.com/Ne0nd0g/merlin | 3207 | 511| 
 
 
 # backdoor on Github 推荐
