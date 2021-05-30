@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210530T12:37:48Z | The new exploit in lua level 7 | https://github.com/Looped-Software/OXYGEN-8 | 2 | 0| 
 | 20210530T12:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9507 | 1538| 
 | 20210530T12:24:41Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 473 | 92| 
 | 20210530T12:22:50Z | PS4 Host Exploits For 5.05 Firmware to 7.55 Firmware | https://github.com/Night-King-Host/Night-King-Host.github.io | 0 | 1| 
@@ -97,7 +98,6 @@
 | 20210530T11:51:24Z | CVE-2021-21551 proof of concept (PoC) exploit | https://github.com/mathisvickie/CVE-2021-21551 | 0 | 0| 
 | 20210530T10:58:43Z | Gonna share my writeups and resources here | https://github.com/jopraveen/exploit-development | 4 | 3| 
 | 20210530T10:57:25Z | not mine. all credit give to respectful owner Hillusion Exploit ID | https://github.com/hackdrug/hexid-by-hillusion- | 0 | 0| 
-| 20210530T10:53:37Z | The new exploit in lua level 7 | https://github.com/Looped-Software/OXYGEN-8 | 1 | 0| 
 
 
 # backdoor on Github 推荐
