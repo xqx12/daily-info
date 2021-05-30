@@ -88,8 +88,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210530T01:07:57Z | A tool to identify and exploit sudo rules% misconfigurations and vulnerabilities within sudo for linux privilege escalation. | https://github.com/TH3xACE/SUDO_KILLER | 1156 | 161| 
 | 20210530T01:02:50Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
-| 20210530T01:02:37Z | A tool to identify and exploit sudo rules% misconfigurations and vulnerabilities within sudo for linux privilege escalation. | https://github.com/TH3xACE/SUDO_KILLER | 1156 | 161| 
 | 20210530T00:42:44Z | Educational web application demonstrating techniques of binary exploitation (Front-end) | https://github.com/Pen-Test3rs/binary_exploits_frontend | 0 | 0| 
 | 20210530T00:25:33Z | Null | https://github.com/xshi1012/libjpeg-turbo-2.0.1-exploit | 0 | 0| 
 | 20210530T00:09:12Z | RGHub is a roblox exploit hub with many different games, please read license before copying it/using it commercially, teaching with this repository/resource is permitted. | https://github.com/RG2N/RGHub | 0 | 0| 
