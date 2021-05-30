@@ -35,6 +35,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210530T12:20:38Z | Exploiting Linksys WRT54G using a vulnerability I found. | https://github.com/elongl/linksys-wrt54g | 0 | 0| 
 | 20210530T12:13:21Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 473 | 92| 
 | 20210530T12:02:41Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210530T12:02:08Z | My Collection of exploits, reverse shells, scripts and more | https://github.com/nop-tech/Pentesting | 0 | 0| 
@@ -42,7 +43,6 @@
 | 20210530T10:58:43Z | Gonna share my writeups and resources here | https://github.com/jopraveen/exploit-development | 4 | 3| 
 | 20210530T10:57:25Z | not mine. all credit give to respectful owner Hillusion Exploit ID | https://github.com/hackdrug/hexid-by-hillusion- | 0 | 0| 
 | 20210530T10:53:37Z | The new exploit in lua level 7 | https://github.com/Looped-Software/OXYGEN-8 | 1 | 0| 
-| 20210530T10:45:58Z | Exploiting Linksys WRT54G using a vulnerability I found. | https://github.com/elongl/linksys-wrt54g | 0 | 0| 
 | 20210530T10:17:39Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 55 | 18| 
 | 20210530T10:00:02Z | An HTML form input sanitization and possible exploitation attempts logging schema for flask apps | https://github.com/t3l3machus/flask-input-sanitization-and-logging | 1 | 0| 
 
