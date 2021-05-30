@@ -39,7 +39,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210529T23:44:32Z | A tool to identify and exploit sudo rules% misconfigurations and vulnerabilities within sudo for linux privilege escalation. | https://github.com/TH3xACE/SUDO_KILLER | 1156 | 161| 
 | 20210529T23:41:07Z | Null | https://github.com/yxko/exploits | 0 | 0| 
 | 20210529T23:02:41Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210529T22:41:43Z | Re-implement in Python the results presented in Figure 2.2 of the Sutton & Barto book comparing a greedy method with two -greedy methods (𝜀=0.01 and 𝜀=0.1), on the 10-armed testbed, and present your code and results. Include a discussion of the exploration - exploitation dilemma in relation to your findings.Re-implement in Python the results presented in Figure 6.4 of the Sutton & Barto book comparing SARSA and Q-learning in the cliff-walking task. | https://github.com/dfox97/CliffWalking-10ArmTestbed_Sutton-Barto_CliffWalk | 0 | 0| 
@@ -49,6 +48,7 @@
 | 20210529T21:25:55Z | Merlin is a cross-platform post-exploitation HTTP/2 Command & Control  server and agent written in golang. | https://github.com/Ne0nd0g/merlin | 3207 | 511| 
 | 20210529T21:03:16Z | Selam Gençler Bu tool ile sitelere otomatik exploit basabilirsiniz. | https://github.com/yuba-0/qwe | 0 | 0| 
 | 20210529T20:57:47Z | An R package of data from the Kootenay Lake Exploitation Study | https://github.com/poissonconsulting/klexdatr | 0 | 1| 
+| 20210529T20:57:15Z | The new exploit in lua level 7 | https://github.com/Looped-Software/OXYGEN-8 | 1 | 0| 
 
 
 # backdoor on Github 推荐
