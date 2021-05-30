@@ -11,6 +11,8 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210529 | 重组与预测：一种基于自动编码器的离散事件异常检测方法 | https://mp.weixin.qq.com/s/74yRJMHFKY8qJwRw9rd67w| 
+| 20210529 | Detecting Bots with Limited Data | https://mp.weixin.qq.com/s/PIAPbpzjJGDtTb38ISTyUA| 
 
 
 # CVE Github 推荐
@@ -24,8 +26,9 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210529T23:59:58Z | Dodoco doko? | https://github.com/RiceFT/klee | 0 | 0| 
+| 20210529T18:27:10Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1706 | 494| 
 | 20210529T12:17:03Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 637 | 15| 
-| 20210529T07:26:15Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1705 | 494| 
 
 
 # s2e on Github 推荐
@@ -36,29 +39,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210529T12:48:36Z | Null | https://github.com/MoryokaV/Activity-Exploit | 0 | 0| 
-| 20210529T12:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9509 | 1538| 
-| 20210529T12:27:45Z | Alpine Builder, usually for pentest. Exploit lxd and docker group permission. | https://github.com/Seven-7Up/alpine-builder | 0 | 0| 
-| 20210529T12:21:12Z | A school project involving scraping, cleaning and exploiting data from the french website marmiton.org | https://github.com/Hugopikachu/mini-project-gourmet | 0 | 0| 
-| 20210529T12:19:48Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 19 | 0| 
-| 20210529T12:14:17Z | The legendary VXHeaven malware collection. | https://github.com/BaRRaKudaRain/RedZone | 17 | 6| 
-| 20210529T12:02:43Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
-| 20210529T11:44:20Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 6131 | 1738| 
-| 20210529T11:28:16Z | Writeup for exploit.education/nebula | https://github.com/vi11ain/nebula-writeup | 1 | 0| 
-| 20210529T11:12:28Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 205 | 38| 
+| 20210529T23:44:32Z | A tool to identify and exploit sudo rules% misconfigurations and vulnerabilities within sudo for linux privilege escalation. | https://github.com/TH3xACE/SUDO_KILLER | 1156 | 161| 
+| 20210529T23:41:07Z | Null | https://github.com/yxko/exploits | 0 | 0| 
+| 20210529T23:02:41Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
+| 20210529T22:41:43Z | Re-implement in Python the results presented in Figure 2.2 of the Sutton & Barto book comparing a greedy method with two -greedy methods (𝜀=0.01 and 𝜀=0.1), on the 10-armed testbed, and present your code and results. Include a discussion of the exploration - exploitation dilemma in relation to your findings.Re-implement in Python the results presented in Figure 6.4 of the Sutton & Barto book comparing SARSA and Q-learning in the cliff-walking task. | https://github.com/dfox97/CliffWalking-10ArmTestbed_Sutton-Barto_CliffWalk | 0 | 0| 
+| 20210529T22:34:43Z | Null | https://github.com/InvokeTheDaemon/ATutor-2.2.4-Password-Reset-Exploit | 0 | 0| 
+| 20210529T21:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9510 | 1538| 
+| 20210529T21:33:57Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 54 | 18| 
+| 20210529T21:25:55Z | Merlin is a cross-platform post-exploitation HTTP/2 Command & Control  server and agent written in golang. | https://github.com/Ne0nd0g/merlin | 3207 | 511| 
+| 20210529T21:03:16Z | Selam Gençler Bu tool ile sitelere otomatik exploit basabilirsiniz. | https://github.com/yuba-0/qwe | 0 | 0| 
+| 20210529T20:57:47Z | An R package of data from the Kootenay Lake Exploitation Study | https://github.com/poissonconsulting/klexdatr | 0 | 1| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210529T18:02:53Z | Utility for creating backdoors in Bukkit plugins | https://github.com/Rikonardo/Bukloit | 18 | 2| 
+| 20210529T17:33:55Z | Simple Python Backdoor | https://github.com/zNairy/Sonaris | 6 | 0| 
+| 20210529T17:04:35Z | TotallyNotABackDoorPlugin is a backdoor plugin for minecraft servers | https://github.com/SpicyHamBoi/TotallyNotABackDoorPlugin | 0 | 0| 
+| 20210529T16:34:52Z | Into backdoor with node and express! | https://github.com/dasgupta002/web-node-advanced | 0 | 0| 
 | 20210529T11:12:28Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 205 | 38| 
 | 20210529T11:02:35Z | We can use this virus software to infiltrate other computers. It should only be used in an ethical sense. | https://github.com/UfukBlbn/Backdoor---Python | 0 | 0| 
 | 20210529T10:42:43Z | Python Network Scanner with Backdoor Detection , Google Blacklist Scan and other Nmap resources | https://github.com/xadhrit/d9scan | 2 | 1| 
 | 20210529T09:41:16Z | Null | https://github.com/D4rksSh4d0w/Shell-Backdoor | 0 | 0| 
-| 20210529T08:20:23Z | TotallyNotABackDoorPlugin is a backdoor plugin for minecraft servers | https://github.com/SpicyHamBoi/TotallyNotABackDoorPlugin | 0 | 0| 
 | 20210529T07:06:44Z | Web Shells that can bypass system firewalls | https://github.com/22XploiterCrew-Team/Tsayou-Shell-Backdoor | 1 | 0| 
 | 20210529T06:32:17Z | Null | https://github.com/krishna2808/pythonProgramming- | 0 | 1| 
-| 20210529T04:03:26Z | Null | https://github.com/Swatermelon1119/BackdoorAttack | 0 | 0| 
 
 
 # fuzz on Github 推荐
