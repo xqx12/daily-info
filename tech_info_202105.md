@@ -55,7 +55,7 @@
 | 20210528T16:54:31Z | CVE-2021-29629 | PoC for exploiting CVE-2021-29629 | https://github.com/JamesGeee/CVE-2021-29629 | In FreeBSD 13.0-STABLE before n245765-bec0d2c9c841, 12.2-STABLE before r369859, 11.4-STABLE before r369866, 13.0-RELEASE before p1, 12.2-RELEASE before p7, and 11.4-RELEASE before p10, missing message validation in libradius(3) could allow malicious clients or servers to trigger denial of service in vulnerable servers or clients respectively.| 
 | 20210528T16:54:26Z | CVE-2020-27208 | PoC for exploiting CVE-2020-27208 | https://github.com/JamesGeee/CVE-2020-27208 | The flash read-out protection (RDP) level is not enforced during the device initialization phase of the SoloKeys Solo 4.0.0 & Somu and the Nitrokey FIDO2 token. This allows an adversary to downgrade the RDP level and access secrets such as private ECC keys from SRAM via the debug interface.| 
 | 20210528T16:54:25Z | CVE-2021-29628 | PoC for exploiting CVE-2021-29628 | https://github.com/JamesGeee/CVE-2021-29628 | In FreeBSD 13.0-STABLE before n245764-876ffe28796c, 12.2-STABLE before r369857, 13.0-RELEASE before p1, and 12.2-RELEASE before p7, a system call triggering a fault could cause SMAP protections to be disabled for the duration of the system call. This weakness could be combined with other kernel bugs to craft an exploit.| 
-| 20210528T16:54:21Z | CVE-2020-12061 | PoC for exploiting CVE-2020-12061 | https://github.com/JamesGeee/CVE-2020-12061 | An issue was discovered in Nitrokey FIDO U2F firmware through 1.1. Communication between the microcontroller and the secure element transmits credentials in plain. This allows an adversary to eavesdrop the communication and derive the secrets stored in the microcontroller. As a result, the attacker is able to arbitrarily manipulate the firmware of the microcontroller.| 
+| 20210528T16:54:21Z | CVE-2020-12061 | PoC for exploiting CVE-2020-12061 | https://github.com/JamesGeee/CVE-2020-12061 | | 
 
 
 # klee on Github 推荐
@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210530T12:22:50Z | PS4 Host Exploits For 5.05 Firmware to 7.55 Firmware | https://github.com/Night-King-Host/Night-King-Host.github.io | 0 | 1| 
 | 20210530T12:20:38Z | Exploiting Linksys WRT54G using a vulnerability I found. | https://github.com/elongl/linksys-wrt54g | 0 | 0| 
 | 20210530T12:13:21Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 473 | 92| 
 | 20210530T12:02:41Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
@@ -97,7 +98,6 @@
 | 20210530T10:57:25Z | not mine. all credit give to respectful owner Hillusion Exploit ID | https://github.com/hackdrug/hexid-by-hillusion- | 0 | 0| 
 | 20210530T10:53:37Z | The new exploit in lua level 7 | https://github.com/Looped-Software/OXYGEN-8 | 1 | 0| 
 | 20210530T10:17:39Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 55 | 18| 
-| 20210530T10:00:02Z | An HTML form input sanitization and possible exploitation attempts logging schema for flask apps | https://github.com/t3l3machus/flask-input-sanitization-and-logging | 1 | 0| 
 
 
 # backdoor on Github 推荐
