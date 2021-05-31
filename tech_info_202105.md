@@ -49,7 +49,7 @@
 | 20210531T10:24:02Z | CVE-2021-21551 | CVE-2021-21551 local privilege escalation to nt authority/system | https://github.com/mathisvickie/CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
 | 20210531T09:34:56Z | CVE-2021-21985 | Null | https://github.com/alt3kx/CVE-2021-21985_PoC | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
 | 20210531T01:32:51Z | CVE-2021-21389 | BuddyPress < 7.2.1 - REST API Privilege Escalation to RCE | https://github.com/HoangKien1020/CVE-2021-21389 | BuddyPress is an open source WordPress plugin to build a community site. In releases of BuddyPress from 5.0.0 before 7.2.1 it%s possible for a non-privileged, regular user to obtain administrator rights by exploiting an issue in the REST API members endpoint. The vulnerability has been fixed in BuddyPress 7.2.1. Existing installations of the plugin should be updated to this version to mitigate the issue.| 
-| 20210531T00:26:17Z | CVE-2021-3156 | Null | https://github.com/dock0d1/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210531T00:26:17Z | CVE-2021-3156 | Null | https://github.com/dock0d1/CVE-2021-3156 | | 
 | 20210530T17:17:06Z | CVE-2021-27338 | Null | https://github.com/Pho03niX/CVE-2021-27338 | 未查询到CVE信息| 
 | 20210529T12:34:35Z | CVE-2020-8813 | Cacti v1.2.8 Unauthenticated Remote Code Execution | https://github.com/hexcowboy/CVE-2020-8813 | graph_realtime.php in Cacti 1.2.8 allows remote attackers to execute arbitrary OS commands via shell metacharacters in a cookie, if a guest user has the graph real-time privilege.| 
 | 20210529T10:48:57Z | CVE-2021-3156 | CVE-2021-3156: Sudo heap overflow exploit for Debain 10 | https://github.com/0xdevil/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
@@ -88,7 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210531T12:03:03Z | Null | https://github.com/Prashant-hackthebow/exploit | 0 | 0| 
+| 20210531T12:04:31Z | Null | https://github.com/Prashant-hackthebow/exploit | 0 | 0| 
 | 20210531T12:02:45Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210531T12:02:06Z | :) Exploit | https://github.com/deniboi123/smile | 0 | 0| 
 | 20210531T11:59:28Z | Null | https://github.com/adam-pawelek/Software-Exploitation | 0 | 0| 
@@ -103,16 +103,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210531T01:09:47Z | Python Network Scanner with Backdoor Detection , Google Blacklist Scan and other Nmap resources | https://github.com/xadhrit/d9scan | 5 | 3| 
+| 20210531T11:32:27Z | An Awesome curated list of backdoor learning resources | https://github.com/Billy1900/Backdoor-Learning | 0 | 0| 
+| 20210531T11:01:26Z | ♞ iPhoneOS and iPadOS backdoor payload designed for portability, embeddability, and low resource utilization ♞ | https://github.com/enty8080/pwny | 1 | 1| 
+| 20210531T09:32:20Z | Python AV Evasion Tools | https://github.com/G1ft3dC0d3/MsfMania | 133 | 25| 
+| 20210531T06:38:56Z | Python Network Scanner with Backdoor Detection , Google Blacklist Scan and other Nmap resources | https://github.com/xadhrit/d9scan | 7 | 4| 
+| 20210531T05:46:35Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 206 | 38| 
+| 20210531T03:35:59Z | this is advance py39 backdoor created to use in college project | https://github.com/Bhadresh-Malankiya/BackdoorPy3 | 0 | 0| 
 | 20210530T23:47:49Z | Stepper motor driven curtain using stepclass and blocking driver for quiet operation | https://github.com/DougWilkinson/backdoor-curtain | 0 | 0| 
-| 20210530T21:30:58Z | ♞ iPhoneOS and iPadOS backdoor payload designed for portability, embeddability, and low resource utilization ♞ | https://github.com/enty8080/pwny | 0 | 0| 
-| 20210530T21:00:22Z | Python AV Evasion Tools | https://github.com/G1ft3dC0d3/MsfMania | 132 | 25| 
-| 20210530T20:09:12Z | PHP 8.1.0-dev Backdoor System Shell Script | https://github.com/flast101/php-8.1.0-dev-backdoor-rce | 5 | 1| 
+| 20210530T20:09:12Z | PHP 8.1.0-dev Backdoor System Shell Script | https://github.com/flast101/php-8.1.0-dev-backdoor-rce | 5 | 2| 
 | 20210530T09:15:49Z | Null | https://github.com/vaaadym/backdoor | 0 | 0| 
 | 20210530T05:13:04Z | Python 3 IRC Bot / Botnet | https://github.com/trackmastersteve/HackServ | 21 | 17| 
-| 20210530T04:50:51Z | Null | https://github.com/ivytangyiming/Backdoor-Platform | 0 | 1| 
-| 20210529T18:02:53Z | Utility for creating backdoors in Bukkit plugins | https://github.com/Rikonardo/Bukloit | 18 | 2| 
-| 20210529T17:33:55Z | Simple Python Backdoor | https://github.com/zNairy/Sonaris | 6 | 0| 
 
 
 # fuzz on Github 推荐
