@@ -46,13 +46,13 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210531T10:24:02Z | CVE-2021-21551 | CVE-2021-21551 local privilege escalation to nt authority/system | https://github.com/mathisvickie/CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
+| 20210531T10:24:02Z | CVE-2021-21551 | CVE-2021-21551 local privilege escalation to nt authority/system | https://github.com/mathisvickie/CVE-2021-21551 | | 
 | 20210531T09:34:56Z | CVE-2021-21985 | Null | https://github.com/alt3kx/CVE-2021-21985_PoC | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
 | 20210531T01:32:51Z | CVE-2021-21389 | BuddyPress < 7.2.1 - REST API Privilege Escalation to RCE | https://github.com/HoangKien1020/CVE-2021-21389 | BuddyPress is an open source WordPress plugin to build a community site. In releases of BuddyPress from 5.0.0 before 7.2.1 it%s possible for a non-privileged, regular user to obtain administrator rights by exploiting an issue in the REST API members endpoint. The vulnerability has been fixed in BuddyPress 7.2.1. Existing installations of the plugin should be updated to this version to mitigate the issue.| 
-| 20210531T00:26:17Z | CVE-2021-3156 | Null | https://github.com/dock0d1/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210531T00:26:17Z | CVE-2021-3156 | Null | https://github.com/dock0d1/CVE-2021-3156 | | 
 | 20210530T17:17:06Z | CVE-2021-27338 | Null | https://github.com/Pho03niX/CVE-2021-27338 | 未查询到CVE信息| 
 | 20210529T12:34:35Z | CVE-2020-8813 | Cacti v1.2.8 Unauthenticated Remote Code Execution | https://github.com/hexcowboy/CVE-2020-8813 | graph_realtime.php in Cacti 1.2.8 allows remote attackers to execute arbitrary OS commands via shell metacharacters in a cookie, if a guest user has the graph real-time privilege.| 
-| 20210529T10:48:57Z | CVE-2021-3156 | CVE-2021-3156: Sudo heap overflow exploit for Debain 10 | https://github.com/0xdevil/CVE-2021-3156 | | 
+| 20210529T10:48:57Z | CVE-2021-3156 | CVE-2021-3156: Sudo heap overflow exploit for Debain 10 | https://github.com/0xdevil/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210529T08:12:06Z | CVE-2021-20717 | CVE-2021-20717-EC-CUBE-XSS | https://github.com/s-index/CVE-2021-20717 | Cross-site scripting vulnerability in EC-CUBE 4.0.0 to 4.0.5 allows a remote attacker to inject a specially crafted script in the specific input field of the EC web site which is created using EC-CUBE. As a result, it may lead to an arbitrary script execution on the administrator%s web browser.| 
 | 20210528T23:42:13Z | CVE-2021-33564 | Argument Injection in Dragonfly Ruby Gem | https://github.com/mlr0p/CVE-2021-33564 | An argument injection vulnerability in the Dragonfly gem before 1.4.0 for Ruby allows remote attackers to read and write to arbitrary files via a crafted URL when the verify_url option is disabled. This may lead to code execution. The problem occurs because the generate and process features mishandle use of the ImageMagick convert utility.| 
 | 20210528T16:54:31Z | CVE-2021-29629 | PoC for exploiting CVE-2021-29629 | https://github.com/JamesGeee/CVE-2021-29629 | In FreeBSD 13.0-STABLE before n245765-bec0d2c9c841, 12.2-STABLE before r369859, 11.4-STABLE before r369866, 13.0-RELEASE before p1, 12.2-RELEASE before p7, and 11.4-RELEASE before p10, missing message validation in libradius(3) could allow malicious clients or servers to trigger denial of service in vulnerable servers or clients respectively.| 
@@ -103,6 +103,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210531T12:15:28Z | Null | https://github.com/ryukzgans/Shell-Backdoor | 0 | 0| 
 | 20210531T11:32:27Z | An Awesome curated list of backdoor learning resources | https://github.com/Billy1900/Backdoor-Learning | 0 | 0| 
 | 20210531T11:01:26Z | ♞ iPhoneOS and iPadOS backdoor payload designed for portability, embeddability, and low resource utilization ♞ | https://github.com/enty8080/pwny | 1 | 1| 
 | 20210531T09:32:20Z | Python AV Evasion Tools | https://github.com/G1ft3dC0d3/MsfMania | 133 | 25| 
@@ -112,22 +113,21 @@
 | 20210530T23:47:49Z | Stepper motor driven curtain using stepclass and blocking driver for quiet operation | https://github.com/DougWilkinson/backdoor-curtain | 0 | 0| 
 | 20210530T20:09:12Z | PHP 8.1.0-dev Backdoor System Shell Script | https://github.com/flast101/php-8.1.0-dev-backdoor-rce | 5 | 2| 
 | 20210530T09:15:49Z | Null | https://github.com/vaaadym/backdoor | 0 | 0| 
-| 20210530T05:13:04Z | Python 3 IRC Bot / Botnet | https://github.com/trackmastersteve/HackServ | 21 | 17| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210531T01:26:10Z | Null | https://github.com/Michaelmw17/fuzzy-lamp-amplify | 0 | 0| 
-| 20210531T01:02:24Z | Null | https://github.com/opimentel-github/fuzzy-tools | 0 | 0| 
-| 20210531T00:32:54Z | CBOR RFC 7049 & RFC 8949 (Go/Golang) - safe & fast with standard API + toarray & keyasint, CBOR tags, float64/32/16, fuzz tested. | https://github.com/fxamacker/cbor | 275 | 20| 
-| 20210531T00:31:25Z | Null | https://github.com/nadavRazT/fuzzer | 0 | 0| 
-| 20210531T00:10:36Z | US Patent #3,213,181 (Maestro Fuzz Tone) Circuit Simulation | https://github.com/grwhitehead/us3213181 | 2 | 0| 
-| 20210530T23:51:07Z | Null | https://github.com/my000own000files1/Fuzzy | 0 | 0| 
-| 20210530T23:28:25Z | Collected fuzzing payloads from different resources  | https://github.com/osamahamad/FUZZING | 8 | 4| 
-| 20210530T23:20:40Z | Null | https://github.com/yanzhoupan/gen-fuzz | 0 | 0| 
-| 20210530T22:58:36Z | Grammar-based Fuzzer that uses WebIDL as a grammar. | https://github.com/PrVrSs/idl2js | 1 | 1| 
-| 20210530T22:56:25Z | Python implementation of patterns and offsets for fuzzing | https://github.com/blitztide/python-patterns | 0 | 0| 
+| 20210531T12:08:03Z | Null | https://github.com/neghadari/symbolic-fuzzing | 0 | 0| 
+| 20210531T12:06:03Z | A Pl/Sql fuzzing tool demo for OceanBase | https://github.com/RAMMVIER/PLFuzzer_demo | 1 | 0| 
+| 20210531T11:49:38Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1043 | 78| 
+| 20210531T11:38:36Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6344 | 1286| 
+| 20210531T11:22:14Z | An automatic fuzzing tool for ROS 2 C++ projects  | https://github.com/rosin-project/ros2_fuzz | 6 | 0| 
+| 20210531T11:17:26Z | Written standups for remote teams. Inspired by Basecamp. | https://github.com/malikpiara/fuzzboard | 1 | 0| 
+| 20210531T10:50:55Z | Null | https://github.com/AlexanderBrese/fuzzy-octo-engine | 0 | 0| 
+| 20210531T10:10:39Z | Fuzzy Quantification of Common and Rare Species in Ecological Communities | https://github.com/Ligophorus/FuzzyQ | 0 | 0| 
+| 20210531T09:56:11Z | auto complete and fuzzy search | https://github.com/DarrenKwonDev/autoFuzzy | 0 | 0| 
+| 20210531T09:54:52Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 
 
 
