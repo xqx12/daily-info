@@ -61,6 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210531T00:43:44Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 138 | 14| 
 | 20210531T00:33:10Z | Null | https://github.com/JaimePSantos/ResearchKlee | 0 | 0| 
 | 20210530T15:32:12Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1707 | 494| 
 | 20210530T15:27:11Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 639 | 15| 
@@ -70,7 +71,6 @@
 | 20210528T13:32:45Z | Null | https://github.com/KleePaimon/KleePaimon.github.io | 0 | 0| 
 | 20210528T04:41:55Z | Null | https://github.com/sanghu1790/KLEEMA | 0 | 0| 
 | 20210527T14:23:56Z | klee.js is a (data driven) generator and wrapper for the magnificent three.js | https://github.com/trenc/klee.js | 1 | 0| 
-| 20210527T04:08:19Z | Config files for my GitHub profile. | https://github.com/joao-kleeber/joao-kleeber | 0 | 0| 
 
 
 # s2e on Github 推荐
