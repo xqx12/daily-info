@@ -75,7 +75,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210531T12:20:01Z | Null | https://github.com/ryukzgans/Shell-Backdoor | 0 | 0| 
+| 20210531T12:23:59Z | Null | https://github.com/ryukzgans/Shell-Backdoor | 0 | 0| 
 | 20210531T11:32:27Z | An Awesome curated list of backdoor learning resources | https://github.com/Billy1900/Backdoor-Learning | 0 | 0| 
 | 20210531T11:01:26Z | ♞ iPhoneOS and iPadOS backdoor payload designed for portability, embeddability, and low resource utilization ♞ | https://github.com/enty8080/pwny | 1 | 1| 
 | 20210531T09:32:20Z | Python AV Evasion Tools | https://github.com/G1ft3dC0d3/MsfMania | 133 | 25| 
