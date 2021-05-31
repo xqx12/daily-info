@@ -46,10 +46,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210530T17:17:06Z | CVE-2021-27338 | Null | https://github.com/Pho03niX/CVE-2021-27338 | 未查询到CVE信息| 
+| 20210530T17:17:06Z | CVE-2021-27338 | Null | https://github.com/Pho03niX/CVE-2021-27338 | | 
 | 20210530T16:55:46Z | CVE-2021-21551 | CVE-2021-21551 proof of concept (PoC) exploit | https://github.com/mathisvickie/CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
 | 20210530T13:32:41Z | CVE-2021-21389 | BuddyPress < 7.2.1 - REST API Privilege Escalation to RCE | https://github.com/HoangKien1020/CVE-2021-21389 | BuddyPress is an open source WordPress plugin to build a community site. In releases of BuddyPress from 5.0.0 before 7.2.1 it%s possible for a non-privileged, regular user to obtain administrator rights by exploiting an issue in the REST API members endpoint. The vulnerability has been fixed in BuddyPress 7.2.1. Existing installations of the plugin should be updated to this version to mitigate the issue.| 
-| 20210529T12:34:35Z | CVE-2020-8813 | Cacti v1.2.8 Unauthenticated Remote Code Execution | https://github.com/hexcowboy/CVE-2020-8813 | graph_realtime.php in Cacti 1.2.8 allows remote attackers to execute arbitrary OS commands via shell metacharacters in a cookie, if a guest user has the graph real-time privilege.| 
+| 20210529T12:34:35Z | CVE-2020-8813 | Cacti v1.2.8 Unauthenticated Remote Code Execution | https://github.com/hexcowboy/CVE-2020-8813 | | 
 | 20210529T10:48:57Z | CVE-2021-3156 | CVE-2021-3156: Sudo heap overflow exploit for Debain 10 | https://github.com/0xdevil/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210529T08:12:06Z | CVE-2021-20717 | CVE-2021-20717-EC-CUBE-XSS | https://github.com/s-index/CVE-2021-20717 | Cross-site scripting vulnerability in EC-CUBE 4.0.0 to 4.0.5 allows a remote attacker to inject a specially crafted script in the specific input field of the EC web site which is created using EC-CUBE. As a result, it may lead to an arbitrary script execution on the administrator%s web browser.| 
 | 20210528T23:42:13Z | CVE-2021-33564 | Argument Injection in Dragonfly Ruby Gem | https://github.com/mlr0p/CVE-2021-33564 | An argument injection vulnerability in the Dragonfly gem before 1.4.0 for Ruby allows remote attackers to read and write to arbitrary files via a crafted URL when the verify_url option is disabled. This may lead to code execution. The problem occurs because the generate and process features mishandle use of the ImageMagick convert utility.| 
@@ -118,16 +118,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210530T12:59:08Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 307 | 20| 
-| 20210530T12:50:35Z | Custom link shortner | https://github.com/appukuttan66/fuzzy-invention | 0 | 0| 
-| 20210530T12:15:42Z | Planning tool | https://github.com/HappyDustbunny/FuzzyFlexx | 1 | 0| 
-| 20210530T11:51:36Z | Null | https://github.com/immanuelpay/fuzzy-subtractive-clustering | 0 | 0| 
-| 20210530T11:49:49Z | Null | https://github.com/immanuelpay/fuzzy-c-means | 0 | 0| 
-| 20210530T11:47:17Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
-| 20210530T10:45:25Z | A vulnerability fuzzing tool written in bash, it contains the most commonly used tools to perform vulnerability scan | https://github.com/R0X4R/Pinaak | 26 | 3| 
-| 20210530T10:45:09Z | Fuzz corpora that shouldn%t *quite* go into Serenity, I think | https://github.com/SerenityOS/serenity-fuzz-corpora | 2 | 3| 
-| 20210530T09:48:19Z | Null | https://github.com/s9varesc/url-fuzzing | 1 | 1| 
-| 20210530T09:39:37Z | Null | https://github.com/rajat-mehra05/FuzzTube-youtube-clone- | 0 | 0| 
+| 20210530T23:51:07Z | Null | https://github.com/my000own000files1/Fuzzy | 0 | 0| 
+| 20210530T23:28:25Z | Collected fuzzing payloads from different resources  | https://github.com/osamahamad/FUZZING | 8 | 4| 
+| 20210530T23:20:40Z | Null | https://github.com/yanzhoupan/gen-fuzz | 0 | 0| 
+| 20210530T22:58:36Z | Grammar-based Fuzzer that uses WebIDL as a grammar. | https://github.com/PrVrSs/idl2js | 1 | 1| 
+| 20210530T22:56:25Z | Python implementation of patterns and offsets for fuzzing | https://github.com/blitztide/python-patterns | 0 | 0| 
+| 20210530T22:38:04Z | Written standups for remote teams. Inspired by Basecamp. | https://github.com/malikpiara/fuzzboard | 1 | 0| 
+| 20210530T21:51:55Z | CBOR RFC 7049 & RFC 8949 (Go/Golang) - safe & fast with standard API + toarray & keyasint, CBOR tags, float64/32/16, fuzz tested. | https://github.com/fxamacker/cbor | 275 | 20| 
+| 20210530T21:11:13Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 434 | 37| 
+| 20210530T21:06:33Z | Null | https://github.com/eavarlamova/fuzzy-transport-problem | 1 | 1| 
+| 20210530T20:35:10Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 74 | 18| 
 
 
 

@@ -18,7 +18,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210530T17:17:06Z | CVE-2021-27338 | Null | https://github.com/Pho03niX/CVE-2021-27338 | 未查询到CVE信息| 
+| 20210530T17:17:06Z | CVE-2021-27338 | Null | https://github.com/Pho03niX/CVE-2021-27338 | | 
 | 20210530T16:55:46Z | CVE-2021-21551 | CVE-2021-21551 proof of concept (PoC) exploit | https://github.com/mathisvickie/CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
 | 20210530T13:32:41Z | CVE-2021-21389 | BuddyPress < 7.2.1 - REST API Privilege Escalation to RCE | https://github.com/HoangKien1020/CVE-2021-21389 | BuddyPress is an open source WordPress plugin to build a community site. In releases of BuddyPress from 5.0.0 before 7.2.1 it%s possible for a non-privileged, regular user to obtain administrator rights by exploiting an issue in the REST API members endpoint. The vulnerability has been fixed in BuddyPress 7.2.1. Existing installations of the plugin should be updated to this version to mitigate the issue.| 
 
@@ -67,16 +67,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210530T12:59:08Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 307 | 20| 
-| 20210530T12:50:35Z | Custom link shortner | https://github.com/appukuttan66/fuzzy-invention | 0 | 0| 
-| 20210530T12:15:42Z | Planning tool | https://github.com/HappyDustbunny/FuzzyFlexx | 1 | 0| 
-| 20210530T11:51:36Z | Null | https://github.com/immanuelpay/fuzzy-subtractive-clustering | 0 | 0| 
-| 20210530T11:49:49Z | Null | https://github.com/immanuelpay/fuzzy-c-means | 0 | 0| 
-| 20210530T11:47:17Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
-| 20210530T10:45:25Z | A vulnerability fuzzing tool written in bash, it contains the most commonly used tools to perform vulnerability scan | https://github.com/R0X4R/Pinaak | 26 | 3| 
-| 20210530T10:45:09Z | Fuzz corpora that shouldn%t *quite* go into Serenity, I think | https://github.com/SerenityOS/serenity-fuzz-corpora | 2 | 3| 
-| 20210530T09:48:19Z | Null | https://github.com/s9varesc/url-fuzzing | 1 | 1| 
-| 20210530T09:39:37Z | Null | https://github.com/rajat-mehra05/FuzzTube-youtube-clone- | 0 | 0| 
+| 20210530T23:51:07Z | Null | https://github.com/my000own000files1/Fuzzy | 0 | 0| 
+| 20210530T23:28:25Z | Collected fuzzing payloads from different resources  | https://github.com/osamahamad/FUZZING | 8 | 4| 
+| 20210530T23:20:40Z | Null | https://github.com/yanzhoupan/gen-fuzz | 0 | 0| 
+| 20210530T22:58:36Z | Grammar-based Fuzzer that uses WebIDL as a grammar. | https://github.com/PrVrSs/idl2js | 1 | 1| 
+| 20210530T22:56:25Z | Python implementation of patterns and offsets for fuzzing | https://github.com/blitztide/python-patterns | 0 | 0| 
+| 20210530T22:38:04Z | Written standups for remote teams. Inspired by Basecamp. | https://github.com/malikpiara/fuzzboard | 1 | 0| 
+| 20210530T21:51:55Z | CBOR RFC 7049 & RFC 8949 (Go/Golang) - safe & fast with standard API + toarray & keyasint, CBOR tags, float64/32/16, fuzz tested. | https://github.com/fxamacker/cbor | 275 | 20| 
+| 20210530T21:11:13Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 434 | 37| 
+| 20210530T21:06:33Z | Null | https://github.com/eavarlamova/fuzzy-transport-problem | 1 | 1| 
+| 20210530T20:35:10Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 74 | 18| 
 
 
 
