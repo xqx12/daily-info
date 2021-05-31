@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210531T12:15:55Z | The code for the paper: %SimPLE: Similar Pseudo Label Exploitation for Semi-Supervised Classification% | https://github.com/zijian-hu/SimPLE | 11 | 0| 
 | 20210531T12:10:36Z | Null | https://github.com/Prashant-hackthebow/exploit | 0 | 0| 
 | 20210531T12:06:01Z | :) Exploit | https://github.com/deniboi123/smile | 0 | 0| 
 | 20210531T12:02:45Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
@@ -97,13 +98,12 @@
 | 20210531T10:57:43Z | The whole collection of Exploits developed by me (Hacker5preme) | https://github.com/Hacker5preme/Exploits | 0 | 0| 
 | 20210531T10:43:16Z | This is the official code for paper titled %Exploration and Exploitation: Two Ways to Improve Chinese Spelling Correction Models%. | https://github.com/FDChongLi/TwoWaysToImproveCSC | 0 | 0| 
 | 20210531T09:48:08Z | A number of exploits and tools I%ve written for CVEs accredited to Marshall Whittaker/oxagast | https://github.com/oxagast/oxasploits | 6 | 1| 
-| 20210531T09:21:59Z | Educational web application demonstrating techniques of binary exploitation (Front-end) | https://github.com/Pen-Test3rs/binary_exploits_frontend | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210531T12:16:22Z | Null | https://github.com/ryukzgans/Shell-Backdoor | 0 | 0| 
+| 20210531T12:18:32Z | Null | https://github.com/ryukzgans/Shell-Backdoor | 0 | 0| 
 | 20210531T11:32:27Z | An Awesome curated list of backdoor learning resources | https://github.com/Billy1900/Backdoor-Learning | 0 | 0| 
 | 20210531T11:01:26Z | ♞ iPhoneOS and iPadOS backdoor payload designed for portability, embeddability, and low resource utilization ♞ | https://github.com/enty8080/pwny | 1 | 1| 
 | 20210531T09:32:20Z | Python AV Evasion Tools | https://github.com/G1ft3dC0d3/MsfMania | 133 | 25| 
