@@ -47,7 +47,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210531T00:26:17Z | CVE-2021-3156 | Null | https://github.com/dock0d1/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210530T17:17:06Z | CVE-2021-27338 | Null | https://github.com/Pho03niX/CVE-2021-27338 | | 
+| 20210530T17:17:06Z | CVE-2021-27338 | Null | https://github.com/Pho03niX/CVE-2021-27338 | 未查询到CVE信息| 
 | 20210530T16:55:46Z | CVE-2021-21551 | CVE-2021-21551 proof of concept (PoC) exploit | https://github.com/mathisvickie/CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
 | 20210530T13:32:41Z | CVE-2021-21389 | BuddyPress < 7.2.1 - REST API Privilege Escalation to RCE | https://github.com/HoangKien1020/CVE-2021-21389 | BuddyPress is an open source WordPress plugin to build a community site. In releases of BuddyPress from 5.0.0 before 7.2.1 it%s possible for a non-privileged, regular user to obtain administrator rights by exploiting an issue in the REST API members endpoint. The vulnerability has been fixed in BuddyPress 7.2.1. Existing installations of the plugin should be updated to this version to mitigate the issue.| 
 | 20210529T12:34:35Z | CVE-2020-8813 | Cacti v1.2.8 Unauthenticated Remote Code Execution | https://github.com/hexcowboy/CVE-2020-8813 | graph_realtime.php in Cacti 1.2.8 allows remote attackers to execute arbitrary OS commands via shell metacharacters in a cookie, if a guest user has the graph real-time privilege.| 
@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210531T00:29:11Z | A roblox script for Synapse X (exploit). Completely open source. Use any part of it. | https://github.com/SecretSupply/BoogaAdmin | 0 | 0| 
 | 20210531T00:28:08Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7916 | 1394| 
 | 20210531T00:02:50Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210530T23:42:25Z | Test if your Windows is vulnerable for the Spectre/Meltdown exploit | https://github.com/aeneasoftroy/cpp-spectre-meltdown-vulnerability-windows-test | 15 | 3| 
@@ -97,7 +98,6 @@
 | 20210530T21:18:59Z | Null | https://github.com/justadoll/ChatWarsAutoExploit | 0 | 0| 
 | 20210530T21:15:03Z | JBoss CVE-2017-12149 (Insecure Deserialization - RCE) Exploitation Lab. | https://github.com/Xcatolin/jboss-deserialization | 0 | 0| 
 | 20210530T20:59:53Z | Windows 1903 exploited vulnerable driver PoC | https://github.com/afoxie/libmhyprot_tests | 0 | 0| 
-| 20210530T20:59:46Z | ps4 exploits for firmware 5.05-7.5x all in one place. | https://github.com/stinger101mg/ps4exploitSAK | 0 | 0| 
 
 
 # backdoor on Github 推荐
