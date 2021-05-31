@@ -55,7 +55,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20210530T23:47:49Z | Stepper motor driven curtain using stepclass and blocking driver for quiet operation | https://github.com/DougWilkinson/backdoor-curtain | 0 | 0| 
-| 20210530T22:46:15Z | Python Network Scanner with Backdoor Detection , Google Blacklist Scan and other Nmap resources | https://github.com/xadhrit/d9scan | 3 | 2| 
 | 20210530T21:30:58Z | ♞ iPhoneOS and iPadOS backdoor payload designed for portability, embeddability, and low resource utilization ♞ | https://github.com/enty8080/pwny | 0 | 0| 
 | 20210530T21:00:22Z | Python AV Evasion Tools | https://github.com/G1ft3dC0d3/MsfMania | 132 | 25| 
 | 20210530T20:09:12Z | PHP 8.1.0-dev Backdoor System Shell Script | https://github.com/flast101/php-8.1.0-dev-backdoor-rce | 5 | 1| 
@@ -73,10 +72,10 @@
 | 20210530T22:58:36Z | Grammar-based Fuzzer that uses WebIDL as a grammar. | https://github.com/PrVrSs/idl2js | 1 | 1| 
 | 20210530T22:56:25Z | Python implementation of patterns and offsets for fuzzing | https://github.com/blitztide/python-patterns | 0 | 0| 
 | 20210530T22:38:04Z | Written standups for remote teams. Inspired by Basecamp. | https://github.com/malikpiara/fuzzboard | 1 | 0| 
-| 20210530T21:51:55Z | CBOR RFC 7049 & RFC 8949 (Go/Golang) - safe & fast with standard API + toarray & keyasint, CBOR tags, float64/32/16, fuzz tested. | https://github.com/fxamacker/cbor | 275 | 20| 
 | 20210530T21:11:13Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 434 | 37| 
 | 20210530T21:06:33Z | Null | https://github.com/eavarlamova/fuzzy-transport-problem | 1 | 1| 
 | 20210530T20:35:10Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 74 | 18| 
+| 20210530T20:29:07Z | Null | https://github.com/gdepuydt/fuzzoz | 0 | 0| 
 
 
 

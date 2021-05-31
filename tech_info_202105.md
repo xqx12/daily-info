@@ -54,7 +54,7 @@
 | 20210529T10:48:57Z | CVE-2021-3156 | CVE-2021-3156: Sudo heap overflow exploit for Debain 10 | https://github.com/0xdevil/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210529T08:12:06Z | CVE-2021-20717 | CVE-2021-20717-EC-CUBE-XSS | https://github.com/s-index/CVE-2021-20717 | Cross-site scripting vulnerability in EC-CUBE 4.0.0 to 4.0.5 allows a remote attacker to inject a specially crafted script in the specific input field of the EC web site which is created using EC-CUBE. As a result, it may lead to an arbitrary script execution on the administrator%s web browser.| 
 | 20210528T23:42:13Z | CVE-2021-33564 | Argument Injection in Dragonfly Ruby Gem | https://github.com/mlr0p/CVE-2021-33564 | An argument injection vulnerability in the Dragonfly gem before 1.4.0 for Ruby allows remote attackers to read and write to arbitrary files via a crafted URL when the verify_url option is disabled. This may lead to code execution. The problem occurs because the generate and process features mishandle use of the ImageMagick convert utility.| 
-| 20210528T16:54:31Z | CVE-2021-29629 | PoC for exploiting CVE-2021-29629 | https://github.com/JamesGeee/CVE-2021-29629 | In FreeBSD 13.0-STABLE before n245765-bec0d2c9c841, 12.2-STABLE before r369859, 11.4-STABLE before r369866, 13.0-RELEASE before p1, 12.2-RELEASE before p7, and 11.4-RELEASE before p10, missing message validation in libradius(3) could allow malicious clients or servers to trigger denial of service in vulnerable servers or clients respectively.| 
+| 20210528T16:54:31Z | CVE-2021-29629 | PoC for exploiting CVE-2021-29629 | https://github.com/JamesGeee/CVE-2021-29629 | | 
 | 20210528T16:54:26Z | CVE-2020-27208 | PoC for exploiting CVE-2020-27208 | https://github.com/JamesGeee/CVE-2020-27208 | The flash read-out protection (RDP) level is not enforced during the device initialization phase of the SoloKeys Solo 4.0.0 & Somu and the Nitrokey FIDO2 token. This allows an adversary to downgrade the RDP level and access secrets such as private ECC keys from SRAM via the debug interface.| 
 
 
@@ -88,23 +88,23 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210531T01:02:42Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
+| 20210531T01:02:33Z | A composite list of various vulnerabilities and tools to look for and use while exploiting common CTF challenges | https://github.com/ZeroDayTea/CTF-Checklist | 0 | 0| 
 | 20210531T00:38:02Z | A roblox script for Synapse X (exploit). Completely open source. Use any part of it. | https://github.com/SecretSupply/BoogaAdmin | 0 | 0| 
 | 20210531T00:32:31Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7916 | 1394| 
-| 20210531T00:02:50Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210530T23:42:25Z | Test if your Windows is vulnerable for the Spectre/Meltdown exploit | https://github.com/aeneasoftroy/cpp-spectre-meltdown-vulnerability-windows-test | 15 | 3| 
 | 20210530T23:33:11Z | Exploits for educational purposes only | https://github.com/Nikolai-Turgenev/Exploits | 0 | 0| 
 | 20210530T21:54:29Z | my post-exploitation stuff automator for tryhackme%s king of the hill | https://github.com/blvckmetxl/a4k | 2 | 1| 
 | 20210530T21:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9510 | 1539| 
 | 20210530T21:18:59Z | Null | https://github.com/justadoll/ChatWarsAutoExploit | 0 | 0| 
 | 20210530T21:15:03Z | JBoss CVE-2017-12149 (Insecure Deserialization - RCE) Exploitation Lab. | https://github.com/Xcatolin/jboss-deserialization | 0 | 0| 
-| 20210530T20:59:53Z | Windows 1903 exploited vulnerable driver PoC | https://github.com/afoxie/libmhyprot_tests | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210531T01:02:43Z | Python Network Scanner with Backdoor Detection , Google Blacklist Scan and other Nmap resources | https://github.com/xadhrit/d9scan | 4 | 2| 
 | 20210530T23:47:49Z | Stepper motor driven curtain using stepclass and blocking driver for quiet operation | https://github.com/DougWilkinson/backdoor-curtain | 0 | 0| 
-| 20210530T22:46:15Z | Python Network Scanner with Backdoor Detection , Google Blacklist Scan and other Nmap resources | https://github.com/xadhrit/d9scan | 3 | 2| 
 | 20210530T21:30:58Z | ♞ iPhoneOS and iPadOS backdoor payload designed for portability, embeddability, and low resource utilization ♞ | https://github.com/enty8080/pwny | 0 | 0| 
 | 20210530T21:00:22Z | Python AV Evasion Tools | https://github.com/G1ft3dC0d3/MsfMania | 132 | 25| 
 | 20210530T20:09:12Z | PHP 8.1.0-dev Backdoor System Shell Script | https://github.com/flast101/php-8.1.0-dev-backdoor-rce | 5 | 1| 
@@ -118,16 +118,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210531T01:02:24Z | Null | https://github.com/opimentel-github/fuzzy-tools | 0 | 0| 
+| 20210531T00:32:54Z | CBOR RFC 7049 & RFC 8949 (Go/Golang) - safe & fast with standard API + toarray & keyasint, CBOR tags, float64/32/16, fuzz tested. | https://github.com/fxamacker/cbor | 275 | 20| 
+| 20210531T00:31:25Z | Null | https://github.com/nadavRazT/fuzzer | 0 | 0| 
+| 20210531T00:10:36Z | US Patent #3,213,181 (Maestro Fuzz Tone) Circuit Simulation | https://github.com/grwhitehead/us3213181 | 2 | 0| 
 | 20210530T23:51:07Z | Null | https://github.com/my000own000files1/Fuzzy | 0 | 0| 
 | 20210530T23:28:25Z | Collected fuzzing payloads from different resources  | https://github.com/osamahamad/FUZZING | 8 | 4| 
 | 20210530T23:20:40Z | Null | https://github.com/yanzhoupan/gen-fuzz | 0 | 0| 
 | 20210530T22:58:36Z | Grammar-based Fuzzer that uses WebIDL as a grammar. | https://github.com/PrVrSs/idl2js | 1 | 1| 
 | 20210530T22:56:25Z | Python implementation of patterns and offsets for fuzzing | https://github.com/blitztide/python-patterns | 0 | 0| 
 | 20210530T22:38:04Z | Written standups for remote teams. Inspired by Basecamp. | https://github.com/malikpiara/fuzzboard | 1 | 0| 
-| 20210530T21:51:55Z | CBOR RFC 7049 & RFC 8949 (Go/Golang) - safe & fast with standard API + toarray & keyasint, CBOR tags, float64/32/16, fuzz tested. | https://github.com/fxamacker/cbor | 275 | 20| 
-| 20210530T21:11:13Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 434 | 37| 
-| 20210530T21:06:33Z | Null | https://github.com/eavarlamova/fuzzy-transport-problem | 1 | 1| 
-| 20210530T20:35:10Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 74 | 18| 
 
 
 
