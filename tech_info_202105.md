@@ -53,7 +53,7 @@
 | 20210530T17:17:06Z | CVE-2021-27338 | Null | https://github.com/Pho03niX/CVE-2021-27338 | | 
 | 20210529T12:34:35Z | CVE-2020-8813 | Cacti v1.2.8 Unauthenticated Remote Code Execution | https://github.com/hexcowboy/CVE-2020-8813 | graph_realtime.php in Cacti 1.2.8 allows remote attackers to execute arbitrary OS commands via shell metacharacters in a cookie, if a guest user has the graph real-time privilege.| 
 | 20210529T10:48:57Z | CVE-2021-3156 | CVE-2021-3156: Sudo heap overflow exploit for Debain 10 | https://github.com/0xdevil/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210529T08:12:06Z | CVE-2021-20717 | CVE-2021-20717-EC-CUBE-XSS | https://github.com/s-index/CVE-2021-20717 | | 
+| 20210529T08:12:06Z | CVE-2021-20717 | CVE-2021-20717-EC-CUBE-XSS | https://github.com/s-index/CVE-2021-20717 | Cross-site scripting vulnerability in EC-CUBE 4.0.0 to 4.0.5 allows a remote attacker to inject a specially crafted script in the specific input field of the EC web site which is created using EC-CUBE. As a result, it may lead to an arbitrary script execution on the administrator%s web browser.| 
 | 20210528T23:42:13Z | CVE-2021-33564 | Argument Injection in Dragonfly Ruby Gem | https://github.com/mlr0p/CVE-2021-33564 | An argument injection vulnerability in the Dragonfly gem before 1.4.0 for Ruby allows remote attackers to read and write to arbitrary files via a crafted URL when the verify_url option is disabled. This may lead to code execution. The problem occurs because the generate and process features mishandle use of the ImageMagick convert utility.| 
 | 20210528T16:54:31Z | CVE-2021-29629 | PoC for exploiting CVE-2021-29629 | https://github.com/JamesGeee/CVE-2021-29629 | In FreeBSD 13.0-STABLE before n245765-bec0d2c9c841, 12.2-STABLE before r369859, 11.4-STABLE before r369866, 13.0-RELEASE before p1, 12.2-RELEASE before p7, and 11.4-RELEASE before p10, missing message validation in libradius(3) could allow malicious clients or servers to trigger denial of service in vulnerable servers or clients respectively.| 
 
@@ -88,23 +88,24 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210531T12:32:32Z | Cas反序列化漏洞利用工具，可回显 | https://github.com/nice0e3/Cas_Exploit | 0 | 0| 
+| 20210531T12:43:59Z | Cas反序列化漏洞利用工具，可回显 | https://github.com/nice0e3/Cas_Exploit | 0 | 0| 
+| 20210531T12:43:18Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 471 | 92| 
+| 20210531T12:41:31Z | E3C is a freely available multilingual corpus (Italian, English, French, Spanish, and Basque) of semantically annotated clinical narratives to allow for the linguistic analysis, benchmarking, and training of information extraction systems. It consists of two types of annotations: (i) clinical entities: pathologies, symptoms, procedures, body parts, etc., according to standard clinical taxonomies (i.e. SNOMED-CT, ICD-10); and (ii) temporal information and factuality: events, time expressions, and temporal relations according to the THYME standard. The corpus is organised into three layers, with different purposes. Layer 1: about 25K tokens per language with full manual annotation of clinical entities, temporal information and factuality, for benchmarkingand linguistic analysis. Layer 2: 50-100K tokens per language with semi-automatic annotations of clinical entities, to be used to train baseline systems. Layer 3: about 1M tokens per language of non-annotated medical documents to be exploited by semi-supervised approaches. Researchers can use the benchmark training and test splits of our corpus to develop and test their own models. We trained several deep learning based models and provide baselines using the benchmark. Both the corpus and the built models will be available through the ELG platform.  | https://github.com/hltfbk/E3C-Corpus | 0 | 0| 
+| 20210531T12:35:16Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9513 | 1539| 
 | 20210531T12:21:35Z | Simple Exploit | https://github.com/PlinBlin/SExploit | 0 | 0| 
 | 20210531T12:20:58Z | Exploit Development on my road to OSCP | https://github.com/macosta-42/Exploit-Development | 1 | 1| 
 | 20210531T12:15:55Z | The code for the paper: %SimPLE: Similar Pseudo Label Exploitation for Semi-Supervised Classification% | https://github.com/zijian-hu/SimPLE | 11 | 0| 
 | 20210531T12:10:36Z | Null | https://github.com/Prashant-hackthebow/exploit | 0 | 0| 
 | 20210531T12:06:01Z | :) Exploit | https://github.com/deniboi123/smile | 0 | 0| 
 | 20210531T12:02:45Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
-| 20210531T11:59:28Z | Null | https://github.com/adam-pawelek/Software-Exploitation | 0 | 0| 
-| 20210531T11:02:32Z | My Collection of exploits, reverse shells, scripts and more | https://github.com/nop-tech/Pentesting | 0 | 0| 
-| 20210531T11:02:15Z | thewhiteh4t%s Blog | https://github.com/thewhiteh4t/thewhiteh4t.github.io | 12 | 3| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210531T12:34:18Z | Null | https://github.com/ryukzgans/Shell-Backdoor | 0 | 0| 
-| 20210531T12:27:49Z | An Awesome curated list of backdoor learning resources | https://github.com/Billy1900/Backdoor-Learning | 0 | 0| 
+| 20210531T12:44:14Z | An Awesome curated list of backdoor learning resources | https://github.com/Billy1900/Backdoor-Learning | 0 | 0| 
+| 20210531T12:44:07Z | Null | https://github.com/ryukzgans/Shell-Backdoor | 0 | 0| 
+| 20210531T12:40:03Z | Null | https://github.com/Wiilldd/backdoor | 0 | 0| 
 | 20210531T11:01:26Z | ♞ iPhoneOS and iPadOS backdoor payload designed for portability, embeddability, and low resource utilization ♞ | https://github.com/enty8080/pwny | 1 | 1| 
 | 20210531T09:32:20Z | Python AV Evasion Tools | https://github.com/G1ft3dC0d3/MsfMania | 133 | 25| 
 | 20210531T06:38:56Z | Python Network Scanner with Backdoor Detection , Google Blacklist Scan and other Nmap resources | https://github.com/xadhrit/d9scan | 7 | 4| 
@@ -112,13 +113,13 @@
 | 20210531T03:35:59Z | this is advance py39 backdoor created to use in college project | https://github.com/Bhadresh-Malankiya/BackdoorPy3 | 0 | 0| 
 | 20210530T23:47:49Z | Stepper motor driven curtain using stepclass and blocking driver for quiet operation | https://github.com/DougWilkinson/backdoor-curtain | 0 | 0| 
 | 20210530T20:09:12Z | PHP 8.1.0-dev Backdoor System Shell Script | https://github.com/flast101/php-8.1.0-dev-backdoor-rce | 5 | 2| 
-| 20210530T09:15:49Z | Null | https://github.com/vaaadym/backdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210531T12:27:03Z | A Pl/Sql fuzzing tool demo for OceanBase | https://github.com/RAMMVIER/PLFuzzer_demo | 1 | 0| 
+| 20210531T12:37:42Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 74 | 18| 
+| 20210531T12:36:53Z | A Pl/Sql fuzzing tool demo for OceanBase | https://github.com/RAMMVIER/PLFuzzer_demo | 1 | 0| 
 | 20210531T12:16:41Z | A vulnerability fuzzing tool written in bash, it contains the most commonly used tools to perform vulnerability scan | https://github.com/R0X4R/Pinaak | 36 | 5| 
 | 20210531T12:15:20Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 7 | 5| 
 | 20210531T12:08:03Z | Null | https://github.com/neghadari/symbolic-fuzzing | 0 | 0| 
@@ -127,7 +128,6 @@
 | 20210531T11:22:14Z | An automatic fuzzing tool for ROS 2 C++ projects  | https://github.com/rosin-project/ros2_fuzz | 6 | 0| 
 | 20210531T11:17:26Z | Written standups for remote teams. Inspired by Basecamp. | https://github.com/malikpiara/fuzzboard | 1 | 0| 
 | 20210531T10:50:55Z | Null | https://github.com/AlexanderBrese/fuzzy-octo-engine | 0 | 0| 
-| 20210531T10:10:39Z | Fuzzy Quantification of Common and Rare Species in Ecological Communities | https://github.com/Ligophorus/FuzzyQ | 0 | 0| 
 
 
 
