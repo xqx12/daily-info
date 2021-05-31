@@ -88,9 +88,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210531T01:13:39Z | A roblox script for Synapse X (exploit). Completely open source. Use any part of it. | https://github.com/SecretSupply/BoogaAdmin | 0 | 0| 
 | 20210531T01:02:42Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210531T01:02:33Z | A composite list of various vulnerabilities and tools to look for and use while exploiting common CTF challenges | https://github.com/ZeroDayTea/CTF-Checklist | 0 | 0| 
-| 20210531T00:38:02Z | A roblox script for Synapse X (exploit). Completely open source. Use any part of it. | https://github.com/SecretSupply/BoogaAdmin | 0 | 0| 
 | 20210531T00:32:31Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7916 | 1394| 
 | 20210530T23:42:25Z | Test if your Windows is vulnerable for the Spectre/Meltdown exploit | https://github.com/aeneasoftroy/cpp-spectre-meltdown-vulnerability-windows-test | 15 | 3| 
 | 20210530T23:33:11Z | Exploits for educational purposes only | https://github.com/Nikolai-Turgenev/Exploits | 0 | 0| 
