@@ -60,6 +60,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210531T12:21:35Z | Simple Exploit | https://github.com/PlinBlin/SExploit | 0 | 0| 
 | 20210531T12:20:58Z | Exploit Development on my road to OSCP | https://github.com/macosta-42/Exploit-Development | 1 | 1| 
 | 20210531T12:15:55Z | The code for the paper: %SimPLE: Similar Pseudo Label Exploitation for Semi-Supervised Classification% | https://github.com/zijian-hu/SimPLE | 11 | 0| 
 | 20210531T12:10:36Z | Null | https://github.com/Prashant-hackthebow/exploit | 0 | 0| 
@@ -69,7 +70,6 @@
 | 20210531T11:02:32Z | My Collection of exploits, reverse shells, scripts and more | https://github.com/nop-tech/Pentesting | 0 | 0| 
 | 20210531T11:02:15Z | thewhiteh4t%s Blog | https://github.com/thewhiteh4t/thewhiteh4t.github.io | 12 | 3| 
 | 20210531T10:57:43Z | The whole collection of Exploits developed by me (Hacker5preme) | https://github.com/Hacker5preme/Exploits | 0 | 0| 
-| 20210531T10:43:16Z | This is the official code for paper titled %Exploration and Exploitation: Two Ways to Improve Chinese Spelling Correction Models%. | https://github.com/FDChongLi/TwoWaysToImproveCSC | 0 | 0| 
 
 
 # backdoor on Github 推荐
