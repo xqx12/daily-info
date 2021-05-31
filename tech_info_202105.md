@@ -50,7 +50,7 @@
 | 20210531T09:34:56Z | CVE-2021-21985 | Null | https://github.com/alt3kx/CVE-2021-21985_PoC | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
 | 20210531T01:32:51Z | CVE-2021-21389 | BuddyPress < 7.2.1 - REST API Privilege Escalation to RCE | https://github.com/HoangKien1020/CVE-2021-21389 | BuddyPress is an open source WordPress plugin to build a community site. In releases of BuddyPress from 5.0.0 before 7.2.1 it%s possible for a non-privileged, regular user to obtain administrator rights by exploiting an issue in the REST API members endpoint. The vulnerability has been fixed in BuddyPress 7.2.1. Existing installations of the plugin should be updated to this version to mitigate the issue.| 
 | 20210531T00:26:17Z | CVE-2021-3156 | Null | https://github.com/dock0d1/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210530T17:17:06Z | CVE-2021-27338 | Null | https://github.com/Pho03niX/CVE-2021-27338 | 未查询到CVE信息| 
+| 20210530T17:17:06Z | CVE-2021-27338 | Null | https://github.com/Pho03niX/CVE-2021-27338 | | 
 | 20210529T12:34:35Z | CVE-2020-8813 | Cacti v1.2.8 Unauthenticated Remote Code Execution | https://github.com/hexcowboy/CVE-2020-8813 | graph_realtime.php in Cacti 1.2.8 allows remote attackers to execute arbitrary OS commands via shell metacharacters in a cookie, if a guest user has the graph real-time privilege.| 
 | 20210529T10:48:57Z | CVE-2021-3156 | CVE-2021-3156: Sudo heap overflow exploit for Debain 10 | https://github.com/0xdevil/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210529T08:12:06Z | CVE-2021-20717 | CVE-2021-20717-EC-CUBE-XSS | https://github.com/s-index/CVE-2021-20717 | Cross-site scripting vulnerability in EC-CUBE 4.0.0 to 4.0.5 allows a remote attacker to inject a specially crafted script in the specific input field of the EC web site which is created using EC-CUBE. As a result, it may lead to an arbitrary script execution on the administrator%s web browser.| 
@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210531T12:20:58Z | Exploit Development on my road to OSCP | https://github.com/macosta-42/Exploit-Development | 1 | 1| 
 | 20210531T12:15:55Z | The code for the paper: %SimPLE: Similar Pseudo Label Exploitation for Semi-Supervised Classification% | https://github.com/zijian-hu/SimPLE | 11 | 0| 
 | 20210531T12:10:36Z | Null | https://github.com/Prashant-hackthebow/exploit | 0 | 0| 
 | 20210531T12:06:01Z | :) Exploit | https://github.com/deniboi123/smile | 0 | 0| 
@@ -97,13 +98,12 @@
 | 20210531T11:02:15Z | thewhiteh4t%s Blog | https://github.com/thewhiteh4t/thewhiteh4t.github.io | 12 | 3| 
 | 20210531T10:57:43Z | The whole collection of Exploits developed by me (Hacker5preme) | https://github.com/Hacker5preme/Exploits | 0 | 0| 
 | 20210531T10:43:16Z | This is the official code for paper titled %Exploration and Exploitation: Two Ways to Improve Chinese Spelling Correction Models%. | https://github.com/FDChongLi/TwoWaysToImproveCSC | 0 | 0| 
-| 20210531T09:48:08Z | A number of exploits and tools I%ve written for CVEs accredited to Marshall Whittaker/oxagast | https://github.com/oxagast/oxasploits | 6 | 1| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210531T12:18:32Z | Null | https://github.com/ryukzgans/Shell-Backdoor | 0 | 0| 
+| 20210531T12:20:01Z | Null | https://github.com/ryukzgans/Shell-Backdoor | 0 | 0| 
 | 20210531T11:32:27Z | An Awesome curated list of backdoor learning resources | https://github.com/Billy1900/Backdoor-Learning | 0 | 0| 
 | 20210531T11:01:26Z | ♞ iPhoneOS and iPadOS backdoor payload designed for portability, embeddability, and low resource utilization ♞ | https://github.com/enty8080/pwny | 1 | 1| 
 | 20210531T09:32:20Z | Python AV Evasion Tools | https://github.com/G1ft3dC0d3/MsfMania | 133 | 25| 
