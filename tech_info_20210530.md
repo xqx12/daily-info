@@ -41,7 +41,6 @@
 | --- | --- | --- | --- | ---| 
 | 20210530T23:42:25Z | Test if your Windows is vulnerable for the Spectre/Meltdown exploit | https://github.com/aeneasoftroy/cpp-spectre-meltdown-vulnerability-windows-test | 15 | 3| 
 | 20210530T23:33:11Z | Exploits for educational purposes only | https://github.com/Nikolai-Turgenev/Exploits | 0 | 0| 
-| 20210530T23:02:44Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210530T22:47:42Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7916 | 1394| 
 | 20210530T21:54:29Z | my post-exploitation stuff automator for tryhackme%s king of the hill | https://github.com/blvckmetxl/a4k | 2 | 1| 
 | 20210530T21:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9510 | 1539| 
@@ -49,6 +48,7 @@
 | 20210530T21:15:03Z | JBoss CVE-2017-12149 (Insecure Deserialization - RCE) Exploitation Lab. | https://github.com/Xcatolin/jboss-deserialization | 0 | 0| 
 | 20210530T20:59:53Z | Windows 1903 exploited vulnerable driver PoC | https://github.com/afoxie/libmhyprot_tests | 0 | 0| 
 | 20210530T20:59:46Z | ps4 exploits for firmware 5.05-7.5x all in one place. | https://github.com/stinger101mg/ps4exploitSAK | 0 | 0| 
+| 20210530T20:09:12Z | PHP 8.1.0-dev Backdoor System Shell Script | https://github.com/flast101/php-8.1.0-dev-backdoor-rce | 5 | 1| 
 
 
 # backdoor on Github 推荐
