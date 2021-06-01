@@ -81,8 +81,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210601T12:16:01Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1783 | 353| 
+| 20210601T12:15:19Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 8 | 5| 
 | 20210601T11:07:01Z | Null | https://github.com/AlexanderBrese/fuzzy-octo-engine | 0 | 0| 
-| 20210601T10:52:56Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1782 | 353| 
 | 20210601T09:56:59Z | A Pl/Sql fuzzing tool demo | https://github.com/RAMMVIER/PLFuzzer_demo | 1 | 0| 
 | 20210601T09:52:27Z | Fuzzer and metamorphic tester for C++ libraries | https://github.com/PollyLabs/library-metamorphic-testing | 1 | 2| 
 | 20210601T09:33:50Z | Repository with examples for Fuzzing | https://github.com/mejo1024/Fuzzing-Examples | 0 | 0| 
@@ -90,7 +91,6 @@
 | 20210601T09:14:39Z | bootcamp | https://github.com/PavanRathod/fuzzy-succotash | 0 | 0| 
 | 20210601T09:07:37Z | Cross platform coverage-guided fuzzer with dynamic instrumentation | https://github.com/alal4465/Archer | 3 | 0| 
 | 20210601T08:01:27Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
-| 20210601T07:29:10Z | Null | https://github.com/ahi-hfg/fuzzy-dollop | 0 | 0| 
 
 
 
