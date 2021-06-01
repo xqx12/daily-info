@@ -40,7 +40,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210531T23:29:47Z | CVE-2021-28476 | PoC for CVE-2021-28476 a guest-to-host "Hyper-V Remote Code Execution Vulnerability" in vmswitch.sys. | https://github.com/0vercl0k/CVE-2021-28476 | Hyper-V Remote Code Execution Vulnerability| 
-| 20210531T16:20:20Z | CVE-2020-0796 | local exploit | https://github.com/ORCA666/CVE-2020-0796 | A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests, aka %Windows SMBv3 Client/Server Remote Code Execution Vulnerability%.| 
+| 20210531T16:20:20Z | CVE-2020-0796 | local exploit | https://github.com/ORCA666/CVE-2020-0796 | | 
 | 20210531T16:17:06Z | CVE-2021-21551 | CVE-2021-21551 local privilege escalation to nt authority/system | https://github.com/mathisvickie/CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
 | 20210531T01:32:51Z | CVE-2021-21389 | BuddyPress < 7.2.1 - REST API Privilege Escalation to RCE | https://github.com/HoangKien1020/CVE-2021-21389 | BuddyPress is an open source WordPress plugin to build a community site. In releases of BuddyPress from 5.0.0 before 7.2.1 it%s possible for a non-privileged, regular user to obtain administrator rights by exploiting an issue in the REST API members endpoint. The vulnerability has been fixed in BuddyPress 7.2.1. Existing installations of the plugin should be updated to this version to mitigate the issue.| 
 | 20210531T00:26:17Z | CVE-2021-3156 | Null | https://github.com/dock0d1/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
@@ -70,11 +70,11 @@
 | 20210531T22:36:31Z | Exploit assignments - Network Security course | https://github.com/pertain/Exploits | 0 | 1| 
 | 20210531T22:18:18Z | Null | https://github.com/Rmlkin/league_dodge_exploit | 0 | 0| 
 | 20210531T21:49:29Z | This project exploits Twitter data to analyse the migration patterns in India | https://github.com/ICTD-IITD/Migration_Analysis_Using_Twitter | 0 | 0| 
-| 20210531T21:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9513 | 1539| 
 | 20210531T21:26:17Z | Harmless Discord exploit to ping any user without actually pinging them. | https://github.com/armfxl/discord-ping-exploit | 0 | 0| 
 | 20210531T21:13:14Z | Null | https://github.com/ReaperExploits/Basic-Exploit-Menu | 0 | 0| 
 | 20210531T20:51:45Z | The exploits i made for real life applications and ctf%s :) | https://github.com/TamilHackz/i-make-exploits | 4 | 3| 
 | 20210531T20:32:56Z | Educational web application demonstrating techniques of binary exploitation (Front-end) | https://github.com/Pen-Test3rs/binary_exploits_frontend | 0 | 0| 
+| 20210531T20:21:13Z | yo | https://github.com/vopierre/exploit2 | 0 | 0| 
 
 
 # backdoor on Github 推荐
