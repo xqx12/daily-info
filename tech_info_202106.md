@@ -71,6 +71,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210601T12:34:43Z | This a simple python backdoor/reverse shell/payload for Windows. It contains a lot of features including executing all windows commands, taking screenshot of target machine, etc. | https://github.com/vishnuz1611/Python-Backdoor-Windows | 0 | 0| 
 | 20210601T10:41:45Z | Null | https://github.com/huynhquynh-dev/backdoor_python | 0 | 0| 
 | 20210601T09:36:36Z | this is advance py39 backdoor created to use in college project | https://github.com/Bhadresh-Malankiya/BackdoorPy3 | 0 | 0| 
 | 20210601T09:29:10Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 244 | 42| 
