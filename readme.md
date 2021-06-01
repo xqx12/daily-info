@@ -17,6 +17,8 @@
 | 20210531 | 关于活动目录（Active Directory）攻击非常全面的一篇文档 | https://zer1t0.gitlab.io/posts/attacking_ad/| 
 | 20210531 | 滥用快捷方式 LNK 文件的 “Shortcut key” 特性实现攻击常驻 | https://sec.today/pulses/a724c533-10cd-4344-883c-4a9c3ac42a1a/| 
 | 20210531 | 滥用快捷方式 LNK 文件的 “Shortcut key” 特性实现攻击常驻 | https://v3ded.github.io/redteam/abusing-lnk-features-for-initial-access-and-persistence| 
+| 20210531 | Internet Explorer: 回顾发展历程。 | https://benslivka.com/2021/05/27/internet-explorer-a-brief-history/| 
+| 20210531 | Linux Audit 子系统解读. | https://paper.seebug.org/1594/| 
 
 
 # 安全维基 推荐
@@ -37,8 +39,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210531T13:05:26Z | CVE-2021-21551 | CVE-2021-21551 local privilege escalation to nt authority/system | https://github.com/mathisvickie/CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
-| 20210531T09:34:56Z | CVE-2021-21985 | Null | https://github.com/alt3kx/CVE-2021-21985_PoC | | 
+| 20210531T23:29:47Z | CVE-2021-28476 | PoC for CVE-2021-28476 a guest-to-host "Hyper-V Remote Code Execution Vulnerability" in vmswitch.sys. | https://github.com/0vercl0k/CVE-2021-28476 | | 
+| 20210531T23:21:00Z | CVE-2021-21985 | Null | https://github.com/alt3kx/CVE-2021-21985_PoC | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
+| 20210531T16:20:20Z | CVE-2020-0796 | local exploit | https://github.com/ORCA666/CVE-2020-0796 | A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests, aka %Windows SMBv3 Client/Server Remote Code Execution Vulnerability%.| 
+| 20210531T16:17:06Z | CVE-2021-21551 | CVE-2021-21551 local privilege escalation to nt authority/system | https://github.com/mathisvickie/CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
 | 20210531T01:32:51Z | CVE-2021-21389 | BuddyPress < 7.2.1 - REST API Privilege Escalation to RCE | https://github.com/HoangKien1020/CVE-2021-21389 | BuddyPress is an open source WordPress plugin to build a community site. In releases of BuddyPress from 5.0.0 before 7.2.1 it%s possible for a non-privileged, regular user to obtain administrator rights by exploiting an issue in the REST API members endpoint. The vulnerability has been fixed in BuddyPress 7.2.1. Existing installations of the plugin should be updated to this version to mitigate the issue.| 
 | 20210531T00:26:17Z | CVE-2021-3156 | Null | https://github.com/dock0d1/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 
@@ -46,10 +50,12 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210531T23:51:48Z | Null | https://github.com/KLEEEN-SOFTWARE/Kleeen-svgs | 0 | 0| 
+| 20210531T21:30:36Z | Null | https://github.com/JaimePSantos/ResearchKlee | 0 | 0| 
+| 20210531T17:56:17Z | Null | https://github.com/BajacDev/rust-klee-docker | 2 | 0| 
 | 20210531T07:26:40Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 641 | 15| 
 | 20210531T04:03:39Z | Dodoco doko? | https://github.com/RiceFT/klee | 0 | 0| 
 | 20210531T00:43:44Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 138 | 14| 
-| 20210531T00:33:10Z | Null | https://github.com/JaimePSantos/ResearchKlee | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -88,16 +94,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210531T13:12:05Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1781 | 353| 
-| 20210531T13:02:04Z | A fuzzing management tools collection | https://github.com/MozillaSecurity/FuzzManager | 151 | 47| 
-| 20210531T13:00:00Z | Null | https://github.com/AlexanderBrese/fuzzy-octo-engine | 0 | 0| 
-| 20210531T12:44:42Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
-| 20210531T12:37:42Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 74 | 18| 
-| 20210531T12:36:53Z | A Pl/Sql fuzzing tool demo for OceanBase | https://github.com/RAMMVIER/PLFuzzer_demo | 1 | 0| 
-| 20210531T12:16:41Z | A vulnerability fuzzing tool written in bash, it contains the most commonly used tools to perform vulnerability scan | https://github.com/R0X4R/Pinaak | 36 | 5| 
-| 20210531T12:15:20Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 7 | 5| 
-| 20210531T12:08:03Z | Null | https://github.com/neghadari/symbolic-fuzzing | 0 | 0| 
-| 20210531T11:49:38Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1043 | 78| 
+| 20210531T23:43:59Z | Written standups for remote teams. Inspired by Basecamp. | https://github.com/malikpiara/fuzzboard | 1 | 0| 
+| 20210531T23:39:43Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6343 | 1286| 
+| 20210531T22:51:25Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 74 | 18| 
+| 20210531T22:23:41Z | Null | https://github.com/balins/fuzzy-decision-tree | 0 | 0| 
+| 20210531T22:14:15Z | Null | https://github.com/my000own000files1/Fuzzy | 0 | 0| 
+| 20210531T22:11:16Z | corpus for fuzzing netaddr | https://github.com/inetaf/netaddr-corpus | 0 | 0| 
+| 20210531T21:54:58Z | Null | https://github.com/opimentel-github/fuzzy-torch | 1 | 0| 
+| 20210531T21:20:43Z | Enhance cargo fuzz output with your source code. | https://github.com/MatejKastak/cargo-fuzz-sourcer | 0 | 0| 
+| 20210531T21:14:27Z | A fork and successor of the Sulley Fuzzing Framework | https://github.com/jtpereyda/boofuzz | 1230 | 245| 
+| 20210531T20:39:36Z | Null | https://github.com/Jelloman35/fuzzy-barnacle | 0 | 0| 
 
 
 
