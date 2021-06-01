@@ -81,6 +81,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210601T12:19:31Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6344 | 1287| 
+| 20210601T12:17:15Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 308 | 20| 
 | 20210601T12:16:01Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1783 | 353| 
 | 20210601T12:15:19Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 8 | 5| 
 | 20210601T11:07:01Z | Null | https://github.com/AlexanderBrese/fuzzy-octo-engine | 0 | 0| 
@@ -89,8 +91,6 @@
 | 20210601T09:33:50Z | Repository with examples for Fuzzing | https://github.com/mejo1024/Fuzzing-Examples | 0 | 0| 
 | 20210601T09:24:07Z | WEBAPP fuzzing wordlists | https://github.com/pratiktry302/fuzzlists | 0 | 0| 
 | 20210601T09:14:39Z | bootcamp | https://github.com/PavanRathod/fuzzy-succotash | 0 | 0| 
-| 20210601T09:07:37Z | Cross platform coverage-guided fuzzer with dynamic instrumentation | https://github.com/alal4465/Archer | 3 | 0| 
-| 20210601T08:01:27Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 
 
 
