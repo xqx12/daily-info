@@ -29,7 +29,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210601T11:26:54Z | CVE-2021-29447 | Wordpress XXE injection 구축 자동화 및 PoC  | https://github.com/dnr6419/CVE-2021-29447 | Wordpress is an open source CMS. A user with the ability to upload files (like an Author) can exploit an XML parsing issue in the Media Library leading to XXE attacks. This requires WordPress installation to be using PHP 8. Access to internal files is possible in a successful XXE attack. This has been patched in WordPress version 5.7.1, along with the older affected versions via a minor release. We strongly recommend you keep auto-updates enabled.| 
-| 20210601T11:18:36Z | CVE-2021-2989 | test | https://github.com/dorisroot1/CVE-2021-2989 | | 
+| 20210601T11:18:36Z | CVE-2021-2989 | test | https://github.com/dorisroot1/CVE-2021-2989 | 未查询到CVE信息| 
 | 20210601T10:41:33Z | CVE-2021-3999 | CVE-2021-3999 | https://github.com/dorisroot1/CVE-2021-3999 | 未查询到CVE信息| 
 | 20210601T09:37:59Z | CVE-2021-32620 | PoC for exploiting CVE-2021-32620 | https://github.com/JamesGeee/CVE-2021-32620 | ### Impact A user disabled on a wiki using email verification for registration can re-activate himself by using the activation link provided for his registration. ### Patches The problem has been patched in the following versions of XWiki: 11.10.13, 12.6.7, 12.10.2, 13.0. ### Workarounds It%s possible to workaround the issue by resetting the `validkey` property of the disabled XWiki users. This can be done by editing the user profile with object editor. ### References https://jira.xwiki.org/browse/XWIKI-17942 ### For more information If you have any questions or comments about this advisory: * Open an issue in [Jira](http://jira.xwiki.org) * Email us at [Security mailing-list](mailto:security@xwiki.org)| 
 | 20210601T09:37:55Z | CVE-2021-29507 | PoC for exploiting CVE-2021-29507 | https://github.com/JamesGeee/CVE-2021-29507 | ### Impact _What kind of vulnerability is it? Who is impacted?_ The vulnerable component could be crashed when the configuration file is intentionally/ unintentionally containing the special characters. All the applications which are using could fail to generate their dlt logs in system. ### Patches _Has the problem been patched? What versions should users upgrade to?_ There is solution for the problem but the patch is not integrated yet. ### Workarounds _Is there a way for users to fix or remediate the vulnerability without upgrading?_ Check the integrity of information in configuration file manually. ### References _Are there any links users can visit to find out more?_ N/A ### For more information If you have any questions or comments about this advisory: * Open an issue in [ GENIVI/dlt-daemon ](https://github.com/GENIVI/dlt-daemon/issues) * Email us at [Mailinglist](mailto:https://lists.genivi.org/mailman/listinfo/genivi-diagnostic-log-and-trace_lists.genivi.org)| 
@@ -56,7 +56,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210601T12:10:37Z | ExOgonExploit_KeySystem | https://github.com/Nvoth48/ExOgonExploit | 0 | 0| 
+| 20210601T12:48:34Z | ExOgonExploit_KeySystem | https://github.com/Nvoth48/ExOgonExploit | 0 | 0| 
 | 20210601T12:02:47Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210601T11:59:10Z | Experimental Go language CSGO exploit proof-of-concept. | https://github.com/jamesmoriarty/gohack | 21 | 4| 
 | 20210601T11:49:05Z | E3C is a freely available multilingual corpus (Italian, English, French, Spanish, and Basque) of semantically annotated clinical narratives to allow for the linguistic analysis, benchmarking, and training of information extraction systems. It consists of two types of annotations: (i) clinical entities: pathologies, symptoms, procedures, body parts, etc., according to standard clinical taxonomies (i.e. SNOMED-CT, ICD-10); and (ii) temporal information and factuality: events, time expressions, and temporal relations according to the THYME standard. The corpus is organised into three layers, with different purposes. Layer 1: about 25K tokens per language with full manual annotation of clinical entities, temporal information and factuality, for benchmarkingand linguistic analysis. Layer 2: 50-100K tokens per language with semi-automatic annotations of clinical entities, to be used to train baseline systems. Layer 3: about 1M tokens per language of non-annotated medical documents to be exploited by semi-supervised approaches. Researchers can use the benchmark training and test splits of our corpus to develop and test their own models. We trained several deep learning based models and provide baselines using the benchmark. Both the corpus and the built models will be available through the ELG platform.  | https://github.com/hltfbk/E3C-Corpus | 0 | 1| 
@@ -71,6 +71,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210601T12:48:11Z | Supplementary material for the paper %Towards Practical Early-Bird Tickets against Backdoor Attacks% | https://github.com/Anonymous-s-s/supplementary-material | 0 | 0| 
 | 20210601T12:34:43Z | This a simple python backdoor/reverse shell/payload for Windows. It contains a lot of features including executing all windows commands, taking screenshot of target machine, etc. | https://github.com/vishnuz1611/Python-Backdoor-Windows | 0 | 0| 
 | 20210601T10:41:45Z | Null | https://github.com/huynhquynh-dev/backdoor_python | 0 | 0| 
 | 20210601T09:36:36Z | this is advance py39 backdoor created to use in college project | https://github.com/Bhadresh-Malankiya/BackdoorPy3 | 0 | 0| 
@@ -82,6 +83,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210601T12:58:36Z | Fuzzy Logic but with Sugeno model for defuzzification | https://github.com/rafiffausta/Fuzzy-Logic-Sugeno-Model | 0 | 0| 
+| 20210601T12:41:54Z | A vulnerability fuzzing tool written in bash, it contains the most commonly used tools to perform vulnerability scan | https://github.com/R0X4R/Pinaak | 40 | 5| 
 | 20210601T12:19:31Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6344 | 1287| 
 | 20210601T12:17:15Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 308 | 20| 
 | 20210601T12:16:01Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1783 | 353| 
@@ -90,8 +93,6 @@
 | 20210601T09:56:59Z | A Pl/Sql fuzzing tool demo | https://github.com/RAMMVIER/PLFuzzer_demo | 1 | 0| 
 | 20210601T09:52:27Z | Fuzzer and metamorphic tester for C++ libraries | https://github.com/PollyLabs/library-metamorphic-testing | 1 | 2| 
 | 20210601T09:33:50Z | Repository with examples for Fuzzing | https://github.com/mejo1024/Fuzzing-Examples | 0 | 0| 
-| 20210601T09:24:07Z | WEBAPP fuzzing wordlists | https://github.com/pratiktry302/fuzzlists | 0 | 0| 
-| 20210601T09:14:39Z | bootcamp | https://github.com/PavanRathod/fuzzy-succotash | 0 | 0| 
 
 
 
