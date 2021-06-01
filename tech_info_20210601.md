@@ -16,6 +16,7 @@
 | 20210601 | INVSCOV - 这篇 paper 基于 LLVM 与 AFL++ 尝试解决 Fuzz 过程中基于覆盖率的反馈算法不足的问题 | http://www.s3.eurecom.fr/docs/usenixsec21_fioraldi.pdf| 
 | 20210601 | Microsoft Hyper-V vmswitch.sys RCE 虚拟机逃逸漏洞 PoC（CVE-2021-28476） | https://github.com/0vercl0k/CVE-2021-28476| 
 | 20210601 | 来自Readme的威胁｜疑似长达数年的供应链攻击分析 | https://sec.today/pulses/89023c4c-9ecc-4a28-82dc-8822e660710b/| 
+| 20210601 | 来自Readme的威胁｜疑似长达数年的供应链攻击分析 | https://security.tencent.com/index.php/blog/msg/192| 
 
 
 # 安全维基 推荐
@@ -36,7 +37,7 @@
 | 20210601T09:37:36Z | CVE-2021-29492 | PoC for exploiting CVE-2021-29492 | https://github.com/JamesGeee/CVE-2021-29492 | ### Description Envoy does not decode escaped slash sequences `%2F` and `%5C` in HTTP URL paths in versions 1.18.2 and before. A remote attacker may craft a path with escaped slashes, e.g. `/something%2F..%2Fadmin`, to bypass access control, e.g. a block on `/admin`. A backend server could then decode slash sequences and normalize path and provide an attacker access beyond the scope provided for by the access control policy. ### Impact Escalation of Privileges when using RBAC or JWT filters with enforcement based on URL path. Users with back end servers that interpret `%2F` and `/` and `%5C` and `\` interchangeably are impacted. ### Attack Vector URL paths containing escaped slash characters delivered by untrusted client. ### Patches Envoy versions 1.18.3, 1.17.3, 1.16.4, 1.15.5 contain new path normalization option to decode escaped slash characters. ### Workarounds If back end servers treat `%2F` and `/` and `%5C` and `\` interchangeably and a URL path based access control is configured, we recommend reconfiguring back end server to not treat `%2F` and `/` and `%5C` and `\` interchangeably if feasible. ### Credit Ruilin Yang (ruilin.yrl@gmail.com) ### References https://blog.envoyproxy.io https://github.com/envoyproxy/envoy/releases ### For more information If you have any questions or comments about this advisory: * Open an issue in [Envoy repo](https://github.com/envoyproxy/envoy/issues) * Email us at [envoy-security](mailto:envoy-security@googlegroups.com)| 
 | 20210601T09:37:32Z | CVE-2020-36375 | PoC for exploiting CVE-2020-36375 | https://github.com/JamesGeee/CVE-2020-36375 | Stack overflow vulnerability in parse_equality Cesanta MJS 1.20.1, allows remote attackers to cause a Denial of Service (DoS) via a crafted file.| 
 | 20210601T09:37:29Z | CVE-2020-36374 | PoC for exploiting CVE-2020-36374 | https://github.com/JamesGeee/CVE-2020-36374 | Stack overflow vulnerability in parse_comparison Cesanta MJS 1.20.1, allows remote attackers to cause a Denial of Service (DoS) via a crafted file.| 
-| 20210601T09:37:25Z | CVE-2020-36373 | PoC for exploiting CVE-2020-36373 | https://github.com/JamesGeee/CVE-2020-36373 | Stack overflow vulnerability in parse_shifts Cesanta MJS 1.20.1, allows remote attackers to cause a Denial of Service (DoS) via a crafted file.| 
+| 20210601T09:37:25Z | CVE-2020-36373 | PoC for exploiting CVE-2020-36373 | https://github.com/JamesGeee/CVE-2020-36373 | | 
 
 
 # klee on Github 推荐
@@ -55,16 +56,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210601T01:59:59Z | A bunch of scripts to exploit my vulnerable web app | https://github.com/kitty14956590/vuln-webapp-scripts | 0 | 0| 
-| 20210601T01:50:34Z | This is a plugin for Minecraft that aids in building, as it gives the player creative mode and charges them for each block they place. All exploits are patched as well. | https://github.com/bsalha1/Printer | 2 | 4| 
-| 20210601T01:44:56Z | Scripting Utility For ROBLOX. | https://github.com/PcTechery/Bit | 1 | 0| 
-| 20210601T01:41:55Z | Config files for my GitHub profile. | https://github.com/Exploiter-HuTao/Exploiter-HuTao | 0 | 0| 
-| 20210601T01:24:32Z | An experiment with exploiting ntl dll files to shutdown a computer remotely. | https://github.com/poet5/ss-nullbyte | 0 | 0| 
-| 20210601T01:12:12Z | bespoke tooling for offensive security%s Windows Usermode Exploit Dev course (OSED) | https://github.com/epi052/osed-scripts | 30 | 12| 
-| 20210601T01:03:53Z | rails-exploit | https://github.com/hoanx-2146/rails-exploit | 0 | 0| 
-| 20210601T01:02:48Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
-| 20210601T00:39:39Z | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | 1446 | 505| 
-| 20210601T00:19:01Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9514 | 1539| 
+| 20210601T12:02:47Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
+| 20210601T11:59:10Z | Experimental Go language CSGO exploit proof-of-concept. | https://github.com/jamesmoriarty/gohack | 21 | 4| 
+| 20210601T11:49:05Z | E3C is a freely available multilingual corpus (Italian, English, French, Spanish, and Basque) of semantically annotated clinical narratives to allow for the linguistic analysis, benchmarking, and training of information extraction systems. It consists of two types of annotations: (i) clinical entities: pathologies, symptoms, procedures, body parts, etc., according to standard clinical taxonomies (i.e. SNOMED-CT, ICD-10); and (ii) temporal information and factuality: events, time expressions, and temporal relations according to the THYME standard. The corpus is organised into three layers, with different purposes. Layer 1: about 25K tokens per language with full manual annotation of clinical entities, temporal information and factuality, for benchmarkingand linguistic analysis. Layer 2: 50-100K tokens per language with semi-automatic annotations of clinical entities, to be used to train baseline systems. Layer 3: about 1M tokens per language of non-annotated medical documents to be exploited by semi-supervised approaches. Researchers can use the benchmark training and test splits of our corpus to develop and test their own models. We trained several deep learning based models and provide baselines using the benchmark. Both the corpus and the built models will be available through the ELG platform.  | https://github.com/hltfbk/E3C-Corpus | 0 | 1| 
+| 20210601T11:14:43Z |  :cookie: Modern XSS exploitation script. | https://github.com/ShinoNuma/snitchyScript | 0 | 0| 
+| 20210601T11:09:01Z | Null | https://github.com/Username132131231/exploit | 0 | 0| 
+| 20210601T10:56:40Z | A Go library for manipulating Windows processes. | https://github.com/jamesmoriarty/gomem | 9 | 1| 
+| 20210601T10:36:31Z | Null | https://github.com/TheCrazzXz/Exploits-Lab | 0 | 0| 
+| 20210601T09:51:51Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 472 | 92| 
+| 20210601T09:37:59Z | PoC for exploiting CVE-2021-32620 | https://github.com/JamesGeee/CVE-2021-32620 | 0 | 0| 
+| 20210601T09:37:55Z | PoC for exploiting CVE-2021-29507 | https://github.com/JamesGeee/CVE-2021-29507 | 0 | 0| 
 
 
 # backdoor on Github 推荐
