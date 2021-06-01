@@ -39,7 +39,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210531T23:29:47Z | CVE-2021-28476 | PoC for CVE-2021-28476 a guest-to-host "Hyper-V Remote Code Execution Vulnerability" in vmswitch.sys. | https://github.com/0vercl0k/CVE-2021-28476 | | 
+| 20210531T23:29:47Z | CVE-2021-28476 | PoC for CVE-2021-28476 a guest-to-host "Hyper-V Remote Code Execution Vulnerability" in vmswitch.sys. | https://github.com/0vercl0k/CVE-2021-28476 | Hyper-V Remote Code Execution Vulnerability| 
 | 20210531T23:21:00Z | CVE-2021-21985 | Null | https://github.com/alt3kx/CVE-2021-21985_PoC | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
 | 20210531T16:20:20Z | CVE-2020-0796 | local exploit | https://github.com/ORCA666/CVE-2020-0796 | A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests, aka %Windows SMBv3 Client/Server Remote Code Execution Vulnerability%.| 
 | 20210531T16:17:06Z | CVE-2021-21551 | CVE-2021-21551 local privilege escalation to nt authority/system | https://github.com/mathisvickie/CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
@@ -66,29 +66,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210531T12:59:58Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 471 | 92| 
-| 20210531T12:51:21Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 16 | 11| 
-| 20210531T12:43:59Z | Cas反序列化漏洞利用工具，可回显 | https://github.com/nice0e3/Cas_Exploit | 0 | 0| 
-| 20210531T12:41:31Z | E3C is a freely available multilingual corpus (Italian, English, French, Spanish, and Basque) of semantically annotated clinical narratives to allow for the linguistic analysis, benchmarking, and training of information extraction systems. It consists of two types of annotations: (i) clinical entities: pathologies, symptoms, procedures, body parts, etc., according to standard clinical taxonomies (i.e. SNOMED-CT, ICD-10); and (ii) temporal information and factuality: events, time expressions, and temporal relations according to the THYME standard. The corpus is organised into three layers, with different purposes. Layer 1: about 25K tokens per language with full manual annotation of clinical entities, temporal information and factuality, for benchmarkingand linguistic analysis. Layer 2: 50-100K tokens per language with semi-automatic annotations of clinical entities, to be used to train baseline systems. Layer 3: about 1M tokens per language of non-annotated medical documents to be exploited by semi-supervised approaches. Researchers can use the benchmark training and test splits of our corpus to develop and test their own models. We trained several deep learning based models and provide baselines using the benchmark. Both the corpus and the built models will be available through the ELG platform.  | https://github.com/hltfbk/E3C-Corpus | 0 | 0| 
-| 20210531T12:35:16Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9513 | 1539| 
-| 20210531T12:21:35Z | Simple Exploit | https://github.com/PlinBlin/SExploit | 0 | 0| 
-| 20210531T12:20:58Z | Exploit Development on my road to OSCP | https://github.com/macosta-42/Exploit-Development | 1 | 1| 
-| 20210531T12:15:55Z | The code for the paper: %SimPLE: Similar Pseudo Label Exploitation for Semi-Supervised Classification% | https://github.com/zijian-hu/SimPLE | 11 | 0| 
-| 20210531T12:10:36Z | Null | https://github.com/Prashant-hackthebow/exploit | 0 | 0| 
-| 20210531T12:06:01Z | :) Exploit | https://github.com/deniboi123/smile | 0 | 0| 
+| 20210531T23:26:00Z |  :cookie: Modern XSS exploitation script. | https://github.com/ShinoNuma/snitchyScript | 0 | 0| 
+| 20210531T23:17:02Z | Null | https://github.com/dabombYT/exploits | 0 | 0| 
+| 20210531T22:36:31Z | Exploit assignments - Network Security course | https://github.com/pertain/Exploits | 0 | 1| 
+| 20210531T22:18:18Z | Null | https://github.com/Rmlkin/league_dodge_exploit | 0 | 0| 
+| 20210531T21:49:29Z | This project exploits Twitter data to analyse the migration patterns in India | https://github.com/ICTD-IITD/Migration_Analysis_Using_Twitter | 0 | 0| 
+| 20210531T21:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9513 | 1539| 
+| 20210531T21:26:17Z | Harmless Discord exploit to ping any user without actually pinging them. | https://github.com/armfxl/discord-ping-exploit | 0 | 0| 
+| 20210531T21:13:14Z | Null | https://github.com/ReaperExploits/Basic-Exploit-Menu | 0 | 0| 
+| 20210531T20:51:45Z | The exploits i made for real life applications and ctf%s :) | https://github.com/TamilHackz/i-make-exploits | 4 | 3| 
+| 20210531T20:32:56Z | Educational web application demonstrating techniques of binary exploitation (Front-end) | https://github.com/Pen-Test3rs/binary_exploits_frontend | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210531T23:18:03Z | Python AV Evasion Tools | https://github.com/G1ft3dC0d3/MsfMania | 134 | 26| 
+| 20210531T22:17:56Z | Backdoor Service in Lua | https://github.com/Meltdown1337/SimpleBackdoor | 0 | 0| 
+| 20210531T17:51:45Z | This a simple python backdoor/reverse shell/payload for Windows. It contains a lot of features including executing all windows commands, taking screenshot of target machine, etc. | https://github.com/vishnuz1611/Python-Backdoor-Windows | 0 | 0| 
+| 20210531T16:57:10Z | Null | https://github.com/PesAdam/backdoors | 0 | 0| 
+| 20210531T13:48:00Z | Null | https://github.com/ivytangyiming/Backdoor-Platform | 0 | 1| 
 | 20210531T13:02:48Z | Null | https://github.com/ryukzgans/Shell-Backdoor | 0 | 0| 
 | 20210531T12:44:14Z | An Awesome curated list of backdoor learning resources | https://github.com/Billy1900/Backdoor-Learning | 0 | 0| 
 | 20210531T12:40:03Z | Null | https://github.com/Wiilldd/backdoor | 0 | 0| 
 | 20210531T11:01:26Z | ♞ iPhoneOS and iPadOS backdoor payload designed for portability, embeddability, and low resource utilization ♞ | https://github.com/enty8080/pwny | 1 | 1| 
-| 20210531T09:32:20Z | Python AV Evasion Tools | https://github.com/G1ft3dC0d3/MsfMania | 133 | 25| 
 | 20210531T06:38:56Z | Python Network Scanner with Backdoor Detection , Google Blacklist Scan and other Nmap resources | https://github.com/xadhrit/d9scan | 7 | 4| 
-| 20210531T05:46:35Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 206 | 38| 
-| 20210531T03:35:59Z | this is advance py39 backdoor created to use in college project | https://github.com/Bhadresh-Malankiya/BackdoorPy3 | 0 | 0| 
 
 
 # fuzz on Github 推荐
