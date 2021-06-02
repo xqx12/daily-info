@@ -44,7 +44,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210602T12:47:59Z | Null | https://github.com/KleePaimon/KleePaimon.github.io | 0 | 0| 
+| 20210602T12:56:13Z | Null | https://github.com/KleePaimon/KleePaimon.github.io | 0 | 0| 
 | 20210602T03:33:09Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 12 | 0| 
 | 20210602T00:50:02Z | Dodoco doko? | https://github.com/RiceFT/klee | 0 | 0| 
 
@@ -58,6 +58,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210602T12:56:51Z | bespoke tooling for offensive security%s Windows Usermode Exploit Dev course (OSED) | https://github.com/epi052/osed-scripts | 31 | 12| 
 | 20210602T12:51:23Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 17 | 11| 
 | 20210602T12:35:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9518 | 1541| 
 | 20210602T12:21:15Z | Commodity Injection Signatures, Malicious Inputs, XSS, HTTP Header Injection, XXE, RCE, Javascript, XSLT | https://github.com/xsscx/Commodity-Injection-Signatures | 275 | 103| 
@@ -67,7 +68,6 @@
 | 20210602T11:29:20Z | The code of Hacking: Art Of Exploitation (2nd Ed.) by Jon Erickson. | https://github.com/J-Melon/ArtOfExp | 0 | 0| 
 | 20210602T11:09:03Z | The whole collection of Exploits developed by me (Hacker5preme) | https://github.com/Hacker5preme/Exploits | 1 | 0| 
 | 20210602T11:07:27Z | Null | https://github.com/TheCrazzXz/Exploits-Lab | 0 | 0| 
-| 20210602T10:14:46Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 21 | 1| 
 
 
 # backdoor on Github 推荐

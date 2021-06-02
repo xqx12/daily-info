@@ -52,13 +52,13 @@
 | 20210602T03:00:09Z | CVE-2021-29252 | PoC for exploiting CVE-2021-29252 | https://github.com/JamesGeee/CVE-2021-29252 | RSA Archer before 6.9 SP1 P1 (6.9.1.1) contains a stored XSS vulnerability. A remote authenticated malicious Archer user with access to modify link name fields could potentially exploit this vulnerability to execute code in a victim%s browser.| 
 | 20210602T00:24:54Z | CVE-2021-29447 | Wordpress XXE injection 구축 자동화 및 PoC  | https://github.com/dnr6419/CVE-2021-29447 | Wordpress is an open source CMS. A user with the ability to upload files (like an Author) can exploit an XML parsing issue in the Media Library leading to XXE attacks. This requires WordPress installation to be using PHP 8. Access to internal files is possible in a successful XXE attack. This has been patched in WordPress version 5.7.1, along with the older affected versions via a minor release. We strongly recommend you keep auto-updates enabled.| 
 | 20210601T19:16:35Z | CVE-2021-21985 | This script check the CVE-2021-21985 vulnerability and patch on vCenter Server. | https://github.com/mauricelambert/CVE-2021-21985 | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
-| 20210601T18:17:17Z | CVE-2020-11978 | PoC of how to exploit a RCE vulnerability of the example DAGs in Apache Airflow <1.10.11  | https://github.com/pberba/CVE-2020-11978 | An issue was found in Apache Airflow versions 1.10.10 and below. A remote code/command injection vulnerability was discovered in one of the example DAGs shipped with Airflow which would allow any authenticated user to run arbitrary commands as the user running airflow worker/scheduler (depending on the executor in use). If you already have examples disabled by setting load_examples=False in the config then you are not vulnerable.| 
+| 20210601T18:17:17Z | CVE-2020-11978 | PoC of how to exploit a RCE vulnerability of the example DAGs in Apache Airflow <1.10.11  | https://github.com/pberba/CVE-2020-11978 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210602T12:47:59Z | Null | https://github.com/KleePaimon/KleePaimon.github.io | 0 | 0| 
+| 20210602T12:56:13Z | Null | https://github.com/KleePaimon/KleePaimon.github.io | 0 | 0| 
 | 20210602T03:33:09Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 12 | 0| 
 | 20210602T00:50:02Z | Dodoco doko? | https://github.com/RiceFT/klee | 0 | 0| 
 | 20210601T23:04:32Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
@@ -79,6 +79,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210602T12:56:51Z | bespoke tooling for offensive security%s Windows Usermode Exploit Dev course (OSED) | https://github.com/epi052/osed-scripts | 31 | 12| 
 | 20210602T12:51:23Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 17 | 11| 
 | 20210602T12:35:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9518 | 1541| 
 | 20210602T12:21:15Z | Commodity Injection Signatures, Malicious Inputs, XSS, HTTP Header Injection, XXE, RCE, Javascript, XSLT | https://github.com/xsscx/Commodity-Injection-Signatures | 275 | 103| 
@@ -88,7 +89,6 @@
 | 20210602T11:29:20Z | The code of Hacking: Art Of Exploitation (2nd Ed.) by Jon Erickson. | https://github.com/J-Melon/ArtOfExp | 0 | 0| 
 | 20210602T11:09:03Z | The whole collection of Exploits developed by me (Hacker5preme) | https://github.com/Hacker5preme/Exploits | 1 | 0| 
 | 20210602T11:07:27Z | Null | https://github.com/TheCrazzXz/Exploits-Lab | 0 | 0| 
-| 20210602T10:14:46Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 21 | 1| 
 
 
 # backdoor on Github 推荐
