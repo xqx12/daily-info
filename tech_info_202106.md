@@ -79,6 +79,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210602T12:21:15Z | Commodity Injection Signatures, Malicious Inputs, XSS, HTTP Header Injection, XXE, RCE, Javascript, XSLT | https://github.com/xsscx/Commodity-Injection-Signatures | 275 | 103| 
 | 20210602T12:02:59Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210602T11:37:55Z | Digital Humanities Tool Kit (DHTK), we propose a new python library whose purpose is to overcome these limitations by providing an intuitive tool for large-scale study of large cultural databases, exploiting state-of-the-art computational methods to support and simplify research in the Digital Humanities. | https://github.com/dpicca/dhtkDoc | 0 | 0| 
 | 20210602T11:37:24Z | Simple Exploit | https://github.com/PlinBlin/SExploit | 0 | 0| 
@@ -88,7 +89,6 @@
 | 20210602T10:14:46Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 21 | 1| 
 | 20210602T10:10:06Z | A collection of more than 140+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 683 | 166| 
 | 20210602T09:48:18Z | RCE Exploit for Gitlab < 13.9.4 | https://github.com/CsEnox/GitLab-Wiki-RCE | 2 | 1| 
-| 20210602T09:41:51Z | My Collection of exploits, reverse shells, scripts and more | https://github.com/nop-tech/Pentesting | 0 | 1| 
 
 
 # backdoor on Github 推荐
