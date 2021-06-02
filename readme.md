@@ -38,7 +38,7 @@
 | 20210602T03:00:13Z | CVE-2021-30498 | PoC for exploiting CVE-2021-30498 | https://github.com/JamesGeee/CVE-2021-30498 | A flaw was found in libcaca. A heap buffer overflow in export.c in function export_tga might lead to memory corruption and other potential consequences.| 
 | 20210602T03:00:10Z | CVE-2021-32656 | PoC for exploiting CVE-2021-32656 | https://github.com/JamesGeee/CVE-2021-32656 | Nextcloud Server is a Nextcloud package that handles data storage. A vulnerability in federated share exists in versions prior to 19.0.11, 20.0.10, and 21.0.2. An attacker can gain access to basic information about users of a server by accessing a public link that a legitimate server user added as a federated share. This happens because Nextcloud supports sharing registered users with other Nextcloud servers, which can be done automatically when selecting the %Add server automatically once a federated share was created successfully% setting. The vulnerability is patched in versions 19.0.11, 20.0.10, and 21.0.2 As a workaround, disable %Add server automatically once a federated share was created successfully% in the Nextcloud settings.| 
 | 20210602T03:00:09Z | CVE-2021-29252 | PoC for exploiting CVE-2021-29252 | https://github.com/JamesGeee/CVE-2021-29252 | RSA Archer before 6.9 SP1 P1 (6.9.1.1) contains a stored XSS vulnerability. A remote authenticated malicious Archer user with access to modify link name fields could potentially exploit this vulnerability to execute code in a victim%s browser.| 
-| 20210602T00:24:54Z | CVE-2021-29447 | Wordpress XXE injection 구축 자동화 및 PoC  | https://github.com/dnr6419/CVE-2021-29447 | | 
+| 20210602T00:24:54Z | CVE-2021-29447 | Wordpress XXE injection 구축 자동화 및 PoC  | https://github.com/dnr6419/CVE-2021-29447 | Wordpress is an open source CMS. A user with the ability to upload files (like an Author) can exploit an XML parsing issue in the Media Library leading to XXE attacks. This requires WordPress installation to be using PHP 8. Access to internal files is possible in a successful XXE attack. This has been patched in WordPress version 5.7.1, along with the older affected versions via a minor release. We strongly recommend you keep auto-updates enabled.| 
 
 
 # klee on Github 推荐
@@ -57,6 +57,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210602T12:35:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9518 | 1541| 
 | 20210602T12:21:15Z | Commodity Injection Signatures, Malicious Inputs, XSS, HTTP Header Injection, XXE, RCE, Javascript, XSLT | https://github.com/xsscx/Commodity-Injection-Signatures | 275 | 103| 
 | 20210602T12:02:59Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210602T11:37:55Z | Digital Humanities Tool Kit (DHTK), we propose a new python library whose purpose is to overcome these limitations by providing an intuitive tool for large-scale study of large cultural databases, exploiting state-of-the-art computational methods to support and simplify research in the Digital Humanities. | https://github.com/dpicca/dhtkDoc | 0 | 0| 
@@ -66,7 +67,6 @@
 | 20210602T11:07:27Z | Null | https://github.com/TheCrazzXz/Exploits-Lab | 0 | 0| 
 | 20210602T10:14:46Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 21 | 1| 
 | 20210602T10:10:06Z | A collection of more than 140+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 683 | 166| 
-| 20210602T09:48:18Z | RCE Exploit for Gitlab < 13.9.4 | https://github.com/CsEnox/GitLab-Wiki-RCE | 2 | 1| 
 
 
 # backdoor on Github 推荐
