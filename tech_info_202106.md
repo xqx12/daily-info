@@ -93,7 +93,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210602T00:57:18Z | Null | https://github.com/jirayupiwon1/fuzzy-carnival | 0 | 0| 
+| 20210602T00:58:45Z | Null | https://github.com/jirayupiwon1/fuzzy-carnival | 0 | 0| 
 | 20210602T00:06:37Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 8 | 5| 
 | 20210601T23:43:18Z | Null | https://github.com/lacygoill/vim-fuzzy | 0 | 1| 
 | 20210601T23:39:12Z | rfuzz: coverage-directed fuzzing for RTL research platform | https://github.com/ekiwi/rfuzz | 35 | 4| 
