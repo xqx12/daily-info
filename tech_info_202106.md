@@ -29,7 +29,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210602T01:39:16Z | CVE-2021-28476 | PoC for CVE-2021-28476 a guest-to-host "Hyper-V Remote Code Execution Vulnerability" in vmswitch.sys. | https://github.com/0vercl0k/CVE-2021-28476 | Hyper-V Remote Code Execution Vulnerability| 
-| 20210602T00:24:54Z | CVE-2021-29447 | Wordpress XXE injection 구축 자동화 및 PoC  | https://github.com/dnr6419/CVE-2021-29447 | | 
+| 20210602T00:24:54Z | CVE-2021-29447 | Wordpress XXE injection 구축 자동화 및 PoC  | https://github.com/dnr6419/CVE-2021-29447 | Wordpress is an open source CMS. A user with the ability to upload files (like an Author) can exploit an XML parsing issue in the Media Library leading to XXE attacks. This requires WordPress installation to be using PHP 8. Access to internal files is possible in a successful XXE attack. This has been patched in WordPress version 5.7.1, along with the older affected versions via a minor release. We strongly recommend you keep auto-updates enabled.| 
 | 20210601T19:16:35Z | CVE-2021-21985 | This script check the CVE-2021-21985 vulnerability and patch on vCenter Server. | https://github.com/mauricelambert/CVE-2021-21985 | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
 | 20210601T18:17:17Z | CVE-2020-11978 | PoC of how to exploit a RCE vulnerability of the example DAGs in Apache Airflow <1.10.11  | https://github.com/pberba/CVE-2020-11978 | An issue was found in Apache Airflow versions 1.10.10 and below. A remote code/command injection vulnerability was discovered in one of the example DAGs shipped with Airflow which would allow any authenticated user to run arbitrary commands as the user running airflow worker/scheduler (depending on the executor in use). If you already have examples disabled by setting load_examples=False in the config then you are not vulnerable.| 
 | 20210601T13:55:26Z | CVE-2020-14882 | CVE-2020-14882_Exploit 支持12.2.X和10.3.6版本，12.2.x可回显 | https://github.com/nice0e3/CVE-2020-14882_Exploit_Gui | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210602T01:54:12Z | macos/ios exploit writeup | https://github.com/houjingyi233/macOS-iOS-system-security | 116 | 11| 
 | 20210602T01:39:12Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 306 | 42| 
 | 20210602T01:28:33Z | Code refered to Diversight backend  aplication, realized by META-EXPLOIT team, on ioasys Camp - Fase 02. | https://github.com/META-EXPLOIT/backend-version | 0 | 0| 
 | 20210602T01:09:09Z | Null | https://github.com/HarrysExploit/Harrys-exploit-script-hub | 0 | 0| 
@@ -72,7 +73,6 @@
 | 20210602T00:51:22Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 16 | 11| 
 | 20210602T00:41:40Z | Refactored exploit code for Gitstack version 2.3.10 | https://github.com/TBernard97/Gitstack-2.3.10-Exploit-Refactor | 0 | 0| 
 | 20210601T23:26:28Z | Local file inclusion discovery and exploitation tool | https://github.com/hansmach1ne/lfimap | 2 | 0| 
-| 20210601T22:52:11Z | EDL exploit for Motorola Moto E 2014 | https://github.com/Vicc2008/firehose_condor | 0 | 0| 
 
 
 # backdoor on Github 推荐
