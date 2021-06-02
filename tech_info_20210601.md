@@ -93,16 +93,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210601T12:58:36Z | Fuzzy Logic but with Sugeno model for defuzzification | https://github.com/rafiffausta/Fuzzy-Logic-Sugeno-Model | 0 | 0| 
-| 20210601T12:41:54Z | A vulnerability fuzzing tool written in bash, it contains the most commonly used tools to perform vulnerability scan | https://github.com/R0X4R/Pinaak | 40 | 5| 
-| 20210601T12:19:31Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6344 | 1287| 
-| 20210601T12:17:15Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 308 | 20| 
-| 20210601T12:16:01Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1783 | 353| 
-| 20210601T12:15:19Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 8 | 5| 
-| 20210601T11:07:01Z | Null | https://github.com/AlexanderBrese/fuzzy-octo-engine | 0 | 0| 
-| 20210601T09:56:59Z | A Pl/Sql fuzzing tool demo | https://github.com/RAMMVIER/PLFuzzer_demo | 1 | 0| 
-| 20210601T09:52:27Z | Fuzzer and metamorphic tester for C++ libraries | https://github.com/PollyLabs/library-metamorphic-testing | 1 | 2| 
-| 20210601T09:33:50Z | Repository with examples for Fuzzing | https://github.com/mejo1024/Fuzzing-Examples | 0 | 0| 
+| 20210601T23:43:18Z | Null | https://github.com/lacygoill/vim-fuzzy | 0 | 1| 
+| 20210601T23:39:12Z | rfuzz: coverage-directed fuzzing for RTL research platform | https://github.com/ekiwi/rfuzz | 35 | 4| 
+| 20210601T23:05:13Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 75 | 18| 
+| 20210601T23:04:06Z | Null | https://github.com/dimon19991/fuzzy_sets | 0 | 0| 
+| 20210601T22:53:23Z | Another one-off fuzzing repo that I only made to learn more | https://github.com/Benjins/OpenGLFuzz | 0 | 0| 
+| 20210601T22:39:42Z | Written standups for remote teams. Inspired by Basecamp. | https://github.com/malikpiara/fuzzboard | 1 | 0| 
+| 20210601T22:23:20Z | Fuzzinator Random Testing Framework | https://github.com/renatahodovan/fuzzinator | 172 | 38| 
+| 20210601T21:40:17Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6345 | 1288| 
+| 20210601T21:12:41Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2339 | 128| 
+| 20210601T21:12:18Z | A collection of algorithms for fuzzy search like in Sublime Text. | https://github.com/tajmone/fuzzy-search | 27 | 2| 
 
 
 
