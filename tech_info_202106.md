@@ -94,31 +94,31 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210602T00:44:11Z | Simple console based Windows key-logger created in C++ | https://github.com/caffene-query/CPP-Key-Logger | 0 | 0| 
+| 20210602T11:05:47Z | A token logger for discord + steals Brave/Chrome passwords and usernames | https://github.com/CUPZYY/Backdoor-Machine | 9 | 1| 
+| 20210602T07:56:39Z | A java util to detect backdoor on plguins | https://github.com/abhiram555/AntiBackdoor | 0 | 0| 
+| 20210602T06:55:37Z | Null | https://github.com/p0l1t3/backdoor | 0 | 0| 
+| 20210602T04:15:41Z | Simple console based Windows key-logger created in C++ | https://github.com/caffene-query/CPP-Key-Logger | 0 | 0| 
 | 20210601T22:17:19Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 72 | 12| 
 | 20210601T19:15:36Z | My personal unique wiki for hacking the router firmware used by (Telia)TG799vac Xtream v17.2-MINT delivered from Technicolor  | https://github.com/wuseman/TG799VAC-XTREME-17.2-MINT | 59 | 17| 
 | 20210601T19:06:50Z | Python 3 IRC Bot / Botnet | https://github.com/trackmastersteve/HackServ | 21 | 17| 
-| 20210601T18:49:48Z | A token logger for discord + steals Brave/Chrome passwords and usernames | https://github.com/CUPZYY/Backdoor-Machine | 8 | 1| 
 | 20210601T18:30:22Z | Null | https://github.com/KoPlayz/BackdoorBot | 0 | 0| 
 | 20210601T14:44:05Z | The BinCT backdoor bot https://github.com/BinCT/Protocol-Bot but updated so no fatal code error | https://github.com/XatoriN/Protocol-Bot-Updated | 0 | 0| 
 | 20210601T14:36:21Z | PHP 8.1.0-dev Backdoor System Shell Script | https://github.com/flast101/php-8.1.0-dev-backdoor-rce | 6 | 2| 
-| 20210601T14:32:12Z | Upload file / Access file / You are now admin. | https://github.com/JulioPotier/SecuPress-Backdoor-User | 74 | 29| 
-| 20210601T13:54:02Z | this is advance py39 backdoor created to use in college project | https://github.com/Bhadresh-Malankiya/BackdoorPy3 | 0 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210602T01:47:09Z | Null | https://github.com/my000own000files1/Fuzzy | 0 | 0| 
-| 20210602T00:58:45Z | Null | https://github.com/jirayupiwon1/fuzzy-carnival | 0 | 0| 
-| 20210602T00:06:37Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 8 | 5| 
-| 20210601T23:43:18Z | Null | https://github.com/lacygoill/vim-fuzzy | 0 | 1| 
-| 20210601T23:39:12Z | rfuzz: coverage-directed fuzzing for RTL research platform | https://github.com/ekiwi/rfuzz | 35 | 4| 
-| 20210601T23:05:13Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 75 | 18| 
-| 20210601T23:04:06Z | Null | https://github.com/dimon19991/fuzzy_sets | 0 | 0| 
-| 20210601T22:53:23Z | Another one-off fuzzing repo that I only made to learn more | https://github.com/Benjins/OpenGLFuzz | 0 | 0| 
-| 20210601T22:39:42Z | Written standups for remote teams. Inspired by Basecamp. | https://github.com/malikpiara/fuzzboard | 1 | 0| 
-| 20210601T22:23:20Z | Fuzzinator Random Testing Framework | https://github.com/renatahodovan/fuzzinator | 172 | 38| 
+| 20210602T11:56:43Z | 多旋翼飞行器的模糊PID控制 | https://github.com/redmoon010/fuzzy.PID.control | 1 | 0| 
+| 20210602T11:51:26Z | Fuzzy Decision Tree implementation for Python | https://github.com/balins/fuzzytree | 0 | 0| 
+| 20210602T11:50:18Z | Null | https://github.com/s9varesc/url-fuzzing | 1 | 1| 
+| 20210602T11:48:19Z | Null | https://github.com/Pemqqbxbs/fuzzy-octo-guacamole | 0 | 0| 
+| 20210602T11:45:49Z | Fuzzy file finding for neovim | https://github.com/cloudhead/neovim-fuzzy | 100 | 13| 
+| 20210602T11:36:55Z | 🇰🇷 한국어 특성을 반영한 자동 완성, 일치 검색, 퍼지 검색. auto complete, korean consonant matching, and fuzzy search.  | https://github.com/DarrenKwonDev/autoFuzzy | 0 | 0| 
+| 20210602T11:21:48Z | Randomized testing for Go | https://github.com/dvyukov/go-fuzz | 4030 | 233| 
+| 20210602T11:13:50Z | Null | https://github.com/RUCer01/fuzzy-system | 0 | 0| 
+| 20210602T11:10:29Z | Null | https://github.com/SotwareTesting-Project/Symbolic-Fuzzer | 0 | 2| 
+| 20210602T11:03:16Z | Null | https://github.com/mrlazy1708/fuzzy-enigma | 0 | 0| 
 
 
 

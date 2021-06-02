@@ -72,15 +72,25 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210602T00:44:11Z | Simple console based Windows key-logger created in C++ | https://github.com/caffene-query/CPP-Key-Logger | 0 | 0| 
+| 20210602T11:05:47Z | A token logger for discord + steals Brave/Chrome passwords and usernames | https://github.com/CUPZYY/Backdoor-Machine | 9 | 1| 
+| 20210602T07:56:39Z | A java util to detect backdoor on plguins | https://github.com/abhiram555/AntiBackdoor | 0 | 0| 
+| 20210602T06:55:37Z | Null | https://github.com/p0l1t3/backdoor | 0 | 0| 
+| 20210602T04:15:41Z | Simple console based Windows key-logger created in C++ | https://github.com/caffene-query/CPP-Key-Logger | 0 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210602T01:47:09Z | Null | https://github.com/my000own000files1/Fuzzy | 0 | 0| 
-| 20210602T00:58:45Z | Null | https://github.com/jirayupiwon1/fuzzy-carnival | 0 | 0| 
-| 20210602T00:06:37Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 8 | 5| 
+| 20210602T11:56:43Z | 多旋翼飞行器的模糊PID控制 | https://github.com/redmoon010/fuzzy.PID.control | 1 | 0| 
+| 20210602T11:51:26Z | Fuzzy Decision Tree implementation for Python | https://github.com/balins/fuzzytree | 0 | 0| 
+| 20210602T11:50:18Z | Null | https://github.com/s9varesc/url-fuzzing | 1 | 1| 
+| 20210602T11:48:19Z | Null | https://github.com/Pemqqbxbs/fuzzy-octo-guacamole | 0 | 0| 
+| 20210602T11:45:49Z | Fuzzy file finding for neovim | https://github.com/cloudhead/neovim-fuzzy | 100 | 13| 
+| 20210602T11:36:55Z | 🇰🇷 한국어 특성을 반영한 자동 완성, 일치 검색, 퍼지 검색. auto complete, korean consonant matching, and fuzzy search.  | https://github.com/DarrenKwonDev/autoFuzzy | 0 | 0| 
+| 20210602T11:21:48Z | Randomized testing for Go | https://github.com/dvyukov/go-fuzz | 4030 | 233| 
+| 20210602T11:13:50Z | Null | https://github.com/RUCer01/fuzzy-system | 0 | 0| 
+| 20210602T11:10:29Z | Null | https://github.com/SotwareTesting-Project/Symbolic-Fuzzer | 0 | 2| 
+| 20210602T11:03:16Z | Null | https://github.com/mrlazy1708/fuzzy-enigma | 0 | 0| 
 
 
 
