@@ -93,6 +93,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210602T01:47:09Z | Null | https://github.com/my000own000files1/Fuzzy | 0 | 0| 
 | 20210602T00:58:45Z | Null | https://github.com/jirayupiwon1/fuzzy-carnival | 0 | 0| 
 | 20210602T00:06:37Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 8 | 5| 
 | 20210601T23:43:18Z | Null | https://github.com/lacygoill/vim-fuzzy | 0 | 1| 
@@ -102,7 +103,6 @@
 | 20210601T22:53:23Z | Another one-off fuzzing repo that I only made to learn more | https://github.com/Benjins/OpenGLFuzz | 0 | 0| 
 | 20210601T22:39:42Z | Written standups for remote teams. Inspired by Basecamp. | https://github.com/malikpiara/fuzzboard | 1 | 0| 
 | 20210601T22:23:20Z | Fuzzinator Random Testing Framework | https://github.com/renatahodovan/fuzzinator | 172 | 38| 
-| 20210601T21:40:17Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6345 | 1288| 
 
 
 
