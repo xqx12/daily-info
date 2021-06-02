@@ -63,6 +63,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210602T00:58:49Z | Code refered to Diversight backend  aplication, realized by META-EXPLOIT team, on ioasys Camp - Fase 02. | https://github.com/META-EXPLOIT/backend-version | 0 | 0| 
+| 20210602T00:58:25Z | A module for Garry%s Mod that mitigates exploits on the Source engine. | https://github.com/danielga/gmsv_serversecure | 65 | 18| 
+| 20210602T00:58:23Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
 | 20210602T00:51:22Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 16 | 11| 
 | 20210602T00:41:40Z | Refactored exploit code for Gitstack version 2.3.10 | https://github.com/TBernard97/Gitstack-2.3.10-Exploit-Refactor | 0 | 0| 
 | 20210602T00:02:46Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
@@ -70,9 +73,6 @@
 | 20210601T22:52:11Z | EDL exploit for Motorola Moto E 2014 | https://github.com/Vicc2008/firehose_condor | 0 | 0| 
 | 20210601T22:31:36Z | Server-Side Template Injection and Code Injection Detection and Exploitation Tool | https://github.com/epinna/tplmap | 2260 | 489| 
 | 20210601T22:20:18Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9517 | 1540| 
-| 20210601T21:45:14Z | Null | https://github.com/Raycodex/Exploiting | 1 | 1| 
-| 20210601T21:19:55Z | CamRaptor is a tool that exploits several vulnerabilities in popular DVR cameras to obtain device credentials. | https://github.com/EntySec/CamRaptor | 1 | 0| 
-| 20210601T21:17:53Z |  CamOver is a camera exploitation tool that allows to disclosure network camera admin password. | https://github.com/EntySec/CamOver | 3 | 1| 
 
 
 # backdoor on Github 推荐
