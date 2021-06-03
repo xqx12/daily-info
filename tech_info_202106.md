@@ -52,7 +52,7 @@
 | 20210602T03:00:10Z | CVE-2021-32656 | PoC for exploiting CVE-2021-32656 | https://github.com/JamesGeee/CVE-2021-32656 | Nextcloud Server is a Nextcloud package that handles data storage. A vulnerability in federated share exists in versions prior to 19.0.11, 20.0.10, and 21.0.2. An attacker can gain access to basic information about users of a server by accessing a public link that a legitimate server user added as a federated share. This happens because Nextcloud supports sharing registered users with other Nextcloud servers, which can be done automatically when selecting the %Add server automatically once a federated share was created successfully% setting. The vulnerability is patched in versions 19.0.11, 20.0.10, and 21.0.2 As a workaround, disable %Add server automatically once a federated share was created successfully% in the Nextcloud settings.| 
 | 20210602T03:00:09Z | CVE-2021-29252 | PoC for exploiting CVE-2021-29252 | https://github.com/JamesGeee/CVE-2021-29252 | RSA Archer before 6.9 SP1 P1 (6.9.1.1) contains a stored XSS vulnerability. A remote authenticated malicious Archer user with access to modify link name fields could potentially exploit this vulnerability to execute code in a victim%s browser.| 
 | 20210602T00:24:54Z | CVE-2021-29447 | Wordpress XXE injection 구축 자동화 및 PoC  | https://github.com/dnr6419/CVE-2021-29447 | Wordpress is an open source CMS. A user with the ability to upload files (like an Author) can exploit an XML parsing issue in the Media Library leading to XXE attacks. This requires WordPress installation to be using PHP 8. Access to internal files is possible in a successful XXE attack. This has been patched in WordPress version 5.7.1, along with the older affected versions via a minor release. We strongly recommend you keep auto-updates enabled.| 
-| 20210601T19:16:35Z | CVE-2021-21985 | This script check the CVE-2021-21985 vulnerability and patch on vCenter Server. | https://github.com/mauricelambert/CVE-2021-21985 | | 
+| 20210601T19:16:35Z | CVE-2021-21985 | This script check the CVE-2021-21985 vulnerability and patch on vCenter Server. | https://github.com/mauricelambert/CVE-2021-21985 | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
 
 
 # klee on Github 推荐
@@ -79,10 +79,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210603T00:03:19Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210602T23:45:53Z | Null | https://github.com/xshi1012/libjpeg-turbo-2.0.1-exploit | 0 | 0| 
 | 20210602T23:38:54Z | Local file inclusion discovery and exploitation tool | https://github.com/hansmach1ne/lfimap | 2 | 0| 
 | 20210602T23:08:19Z | Kumpulan kumpulan exploit, rev shell dll | https://github.com/dilz64/project_1 | 0 | 0| 
-| 20210602T23:02:46Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210602T22:05:25Z | RFI to RCE Nagios/NagiosXI exploitation | https://github.com/ArianeBlow/NagiosXI-EmersonFI | 0 | 0| 
 | 20210602T21:47:20Z | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | 2087 | 375| 
 | 20210602T21:35:36Z | Scripts (ServerSide and FE) | https://github.com/0WNEDU/Roblox-Misc-Scripts-Exploits | 0 | 0| 
