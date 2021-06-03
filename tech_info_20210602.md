@@ -99,11 +99,11 @@
 | 20210602T23:46:44Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 75 | 18| 
 | 20210602T23:34:34Z | Fuzzinator Random Testing Framework | https://github.com/renatahodovan/fuzzinator | 173 | 38| 
 | 20210602T23:30:30Z | Config files for my GitHub profile. | https://github.com/fuzzy0103/fuzzy0103 | 0 | 0| 
-| 20210602T23:23:43Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 31802 | 16381| 
 | 20210602T22:42:31Z | 🇰🇷 한국어 특성을 반영한 자동 완성, 일치 검색, 퍼지 검색. auto complete, korean consonant matching, and fuzzy search.  | https://github.com/DarrenKwonDev/autoFuzzy | 0 | 0| 
 | 20210602T21:41:14Z | Null | https://github.com/vHanda/fuzzy_search | 0 | 0| 
 | 20210602T21:35:59Z | Null | https://github.com/dimon19991/fuzzy_sets | 0 | 0| 
 | 20210602T20:50:51Z | Symbolic Fuzzer | https://github.com/SotwareTesting-Project/Symbolic-Fuzzer | 0 | 2| 
+| 20210602T20:46:05Z | Player Performance Capability, in PVP Multiplayer Matches of Shooter Games - Fuzzy Logic System (FLS) (grade: 90%) | https://github.com/xGliff/Fuzzy-Logic | 0 | 0| 
 
 
 
