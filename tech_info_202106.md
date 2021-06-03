@@ -79,16 +79,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210603T00:05:51Z | PoC for exploiting CVE-2021-20345 | https://github.com/JamesGeee/CVE-2021-20345 | 0 | 0| 
+| 20210603T00:05:48Z | PoC for exploiting CVE-2021-20343 | https://github.com/JamesGeee/CVE-2021-20343 | 0 | 0| 
+| 20210603T00:05:44Z | PoC for exploiting CVE-2021-20338 | https://github.com/JamesGeee/CVE-2021-20338 | 0 | 0| 
+| 20210603T00:05:41Z | PoC for exploiting CVE-2020-5030 | https://github.com/JamesGeee/CVE-2020-5030 | 0 | 0| 
+| 20210603T00:05:38Z | PoC for exploiting CVE-2020-4977 | https://github.com/JamesGeee/CVE-2020-4977 | 0 | 0| 
+| 20210603T00:05:34Z | PoC for exploiting CVE-2020-4732 | https://github.com/JamesGeee/CVE-2020-4732 | 0 | 0| 
+| 20210603T00:05:31Z | PoC for exploiting CVE-2020-4495 | https://github.com/JamesGeee/CVE-2020-4495 | 0 | 0| 
 | 20210603T00:03:19Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210602T23:45:53Z | Null | https://github.com/xshi1012/libjpeg-turbo-2.0.1-exploit | 0 | 0| 
 | 20210602T23:38:54Z | Local file inclusion discovery and exploitation tool | https://github.com/hansmach1ne/lfimap | 2 | 0| 
-| 20210602T23:08:19Z | Kumpulan kumpulan exploit, rev shell dll | https://github.com/dilz64/project_1 | 0 | 0| 
-| 20210602T22:05:25Z | RFI to RCE Nagios/NagiosXI exploitation | https://github.com/ArianeBlow/NagiosXI-EmersonFI | 0 | 0| 
-| 20210602T21:47:20Z | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | 2087 | 375| 
-| 20210602T21:35:36Z | Scripts (ServerSide and FE) | https://github.com/0WNEDU/Roblox-Misc-Scripts-Exploits | 0 | 0| 
-| 20210602T21:35:30Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
-| 20210602T21:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9520 | 1541| 
-| 20210602T21:05:24Z | OWASP Benchmark is a test suite designed to verify the speed and accuracy of software vulnerability detection tools. A fully runnable web app written in Java, it supports analysis by Static (SAST), Dynamic (DAST), and Runtime (IAST) tools that support Java. The idea is that since it is fully runnable and all the vulnerabilities are actually exploitable, it’s a fair test for any kind of vulnerability detection tool.  For more details on this project, please see the OWASP Benchmark Project home page. | https://github.com/OWASP/Benchmark | 371 | 334| 
 
 
 # backdoor on Github 推荐
