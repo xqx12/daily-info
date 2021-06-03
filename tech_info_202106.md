@@ -79,6 +79,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210603T01:53:06Z | Roblox exploit DLL base using the LBI execution method | https://github.com/deaddlocust/LBI-Base | 1 | 1| 
 | 20210603T01:22:48Z | A collection of scripts I%ve written, including automation, enumeration, exploitation, etc. | https://github.com/jessisec/scripts | 0 | 0| 
 | 20210603T01:16:00Z | PoC for exploiting CVE-2020-36326 | https://github.com/JamesGeee/CVE-2020-36326 | 2 | 1| 
 | 20210603T01:06:16Z | A Framework meant for the exploitation of iOS devices. | https://github.com/0x1CA3/iPwn | 10 | 1| 
@@ -88,7 +89,6 @@
 | 20210603T00:16:32Z | PS4 Host Exploits For 5.05 Firmware to 7.55 Firmware | https://github.com/Night-King-Host/Night-King-Host.github.io | 0 | 1| 
 | 20210603T00:08:19Z | PoC for exploiting CVE-2021-29208 | https://github.com/JamesGeee/CVE-2021-29208 | 0 | 0| 
 | 20210603T00:08:14Z | PoC for exploiting CVE-2020-22023 | https://github.com/JamesGeee/CVE-2020-22023 | 0 | 0| 
-| 20210603T00:08:11Z | PoC for exploiting CVE-2020-22022 | https://github.com/JamesGeee/CVE-2020-22022 | 0 | 0| 
 
 
 # backdoor on Github 推荐
