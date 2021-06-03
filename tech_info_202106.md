@@ -48,9 +48,9 @@
 | 20210603T00:08:11Z | CVE-2020-22022 | PoC for exploiting CVE-2020-22022 | https://github.com/JamesGeee/CVE-2020-22022 | A heap-based Buffer Overflow vulnerability exists in FFmpeg 4.2 in filter_frame at libavfilter/vf_fieldorder.c, which might lead to memory corruption and other potential consequences.| 
 | 20210603T00:08:07Z | CVE-2021-32625 | PoC for exploiting CVE-2021-32625 | https://github.com/JamesGeee/CVE-2021-32625 | Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache, and message broker. An integer overflow bug in Redis version 6.0 or newer (on 32-bit systems ONLY) can be exploited using the `STRALGO LCS` command to corrupt the heap and potentially result with remote code execution. This is a result of an incomplete fix for CVE-2021-29477 which only addresses the problem on 64-bit systems but fails to do that for 32-bit. 64-bit systems are not affected. The problem is fixed in version 6.2.4 and 6.0.14. An additional workaround to mitigate the problem without patching the `redis-server` executable is to use ACL configuration to prevent clients from using the `STRALGO LCS` command.| 
 | 20210603T00:08:04Z | CVE-2021-29206 | PoC for exploiting CVE-2021-29206 | https://github.com/JamesGeee/CVE-2021-29206 | A remote xss vulnerability was discovered in HPE Integrated Lights-Out 4 (iLO 4); HPE SimpliVity 380 Gen9; HPE Integrated Lights-Out 5 (iLO 5) for HPE Gen10 Servers; HPE SimpliVity 380 Gen10; HPE SimpliVity 2600; HPE SimpliVity 380 Gen10 G; HPE SimpliVity 325; HPE SimpliVity 380 Gen10 H version(s): Prior to version 2.78.| 
-| 20210603T00:08:00Z | CVE-2021-29205 | PoC for exploiting CVE-2021-29205 | https://github.com/JamesGeee/CVE-2021-29205 | A remote xss vulnerability was discovered in HPE Integrated Lights-Out 4 (iLO 4); HPE SimpliVity 380 Gen9; HPE Integrated Lights-Out 5 (iLO 5) for HPE Gen10 Servers; HPE SimpliVity 380 Gen10; HPE SimpliVity 2600; HPE SimpliVity 380 Gen10 G; HPE SimpliVity 325; HPE SimpliVity 380 Gen10 H version(s): Prior to version 2.78.| 
+| 20210603T00:08:00Z | CVE-2021-29205 | PoC for exploiting CVE-2021-29205 | https://github.com/JamesGeee/CVE-2021-29205 | | 
 | 20210603T00:07:36Z | CVE-2021-29204 | PoC for exploiting CVE-2021-29204 | https://github.com/JamesGeee/CVE-2021-29204 | A remote xss vulnerability was discovered in HPE Integrated Lights-Out 4 (iLO 4); HPE SimpliVity 380 Gen9; HPE Integrated Lights-Out 5 (iLO 5) for HPE Gen10 Servers; HPE SimpliVity 380 Gen10; HPE SimpliVity 2600; HPE SimpliVity 380 Gen10 G; HPE SimpliVity 325; HPE SimpliVity 380 Gen10 H version(s): Prior to version 2.78.| 
-| 20210603T00:07:28Z | CVE-2021-29202 | PoC for exploiting CVE-2021-29202 | https://github.com/JamesGeee/CVE-2021-29202 | | 
+| 20210603T00:07:28Z | CVE-2021-29202 | PoC for exploiting CVE-2021-29202 | https://github.com/JamesGeee/CVE-2021-29202 | A local buffer overflow vulnerability was discovered in HPE Integrated Lights-Out 4 (iLO 4); HPE SimpliVity 380 Gen9; HPE Integrated Lights-Out 5 (iLO 5) for HPE Gen10 Servers; HPE SimpliVity 380 Gen10; HPE SimpliVity 2600; HPE SimpliVity 380 Gen10 G; HPE SimpliVity 325; HPE SimpliVity 380 Gen10 H version(s): Prior to version 2.78.| 
 | 20210603T00:07:25Z | CVE-2021-29201 | PoC for exploiting CVE-2021-29201 | https://github.com/JamesGeee/CVE-2021-29201 | A remote xss vulnerability was discovered in HPE Integrated Lights-Out 4 (iLO 4); HPE SimpliVity 380 Gen9; HPE Integrated Lights-Out 5 (iLO 5) for HPE Gen10 Servers; HPE SimpliVity 380 Gen10; HPE SimpliVity 2600; HPE SimpliVity 380 Gen10 G; HPE SimpliVity 325; HPE SimpliVity 380 Gen10 H version(s): Prior to version 2.78.| 
 | 20210603T00:07:22Z | CVE-2020-27833 | PoC for exploiting CVE-2020-27833 | https://github.com/JamesGeee/CVE-2020-27833 | A Zip Slip vulnerability was found in the oc binary in openshift-clients where an arbitrary file write is achieved by using a specially crafted raw container image (.tar file) which contains symbolic links. The vulnerability is limited to the command `oc image extract`. If a symbolic link is first created pointing within the tarball, this allows further symbolic links to bypass the existing path check. This flaw allows the tarball to create links outside the tarball%s parent directory, allowing for executables or configuration files to be overwritten, resulting in arbitrary code execution. The highest threat from this vulnerability is to confidentiality, integrity, as well as system availability. Versions up to and including openshift-clients-4.7.0-202104250659.p0.git.95881af are affected.| 
 
@@ -79,6 +79,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210603T00:16:32Z | PS4 Host Exploits For 5.05 Firmware to 7.55 Firmware | https://github.com/Night-King-Host/Night-King-Host.github.io | 0 | 1| 
+| 20210603T00:16:28Z | PoC for exploiting CVE-2020-36326 | https://github.com/JamesGeee/CVE-2020-36326 | 1 | 1| 
 | 20210603T00:08:19Z | PoC for exploiting CVE-2021-29208 | https://github.com/JamesGeee/CVE-2021-29208 | 0 | 0| 
 | 20210603T00:08:14Z | PoC for exploiting CVE-2020-22023 | https://github.com/JamesGeee/CVE-2020-22023 | 0 | 0| 
 | 20210603T00:08:11Z | PoC for exploiting CVE-2020-22022 | https://github.com/JamesGeee/CVE-2020-22022 | 0 | 0| 
@@ -87,8 +89,6 @@
 | 20210603T00:08:00Z | PoC for exploiting CVE-2021-29205 | https://github.com/JamesGeee/CVE-2021-29205 | 0 | 0| 
 | 20210603T00:07:36Z | PoC for exploiting CVE-2021-29204 | https://github.com/JamesGeee/CVE-2021-29204 | 0 | 0| 
 | 20210603T00:07:28Z | PoC for exploiting CVE-2021-29202 | https://github.com/JamesGeee/CVE-2021-29202 | 0 | 0| 
-| 20210603T00:07:25Z | PoC for exploiting CVE-2021-29201 | https://github.com/JamesGeee/CVE-2021-29201 | 0 | 0| 
-| 20210603T00:07:22Z | PoC for exploiting CVE-2020-27833 | https://github.com/JamesGeee/CVE-2020-27833 | 0 | 0| 
 
 
 # backdoor on Github 推荐
