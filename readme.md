@@ -50,7 +50,6 @@
 | 20210602T22:20:55Z | Null | https://github.com/JaimePSantos/ResearchKlee | 0 | 0| 
 | 20210602T22:09:44Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
 | 20210602T21:19:22Z | Dodoco doko? | https://github.com/RiceFT/klee | 0 | 0| 
-| 20210602T16:52:41Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 643 | 15| 
 | 20210602T12:56:41Z | Null | https://github.com/KleePaimon/KleePaimon.github.io | 0 | 0| 
 | 20210602T03:33:09Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 12 | 0| 
 
