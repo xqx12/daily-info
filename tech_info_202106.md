@@ -43,16 +43,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210603T00:07:18Z | CVE-2021-20487 | PoC for exploiting CVE-2021-20487 | https://github.com/JamesGeee/CVE-2021-20487 | IBM Power9 Self Boot Engine(SBE) could allow a privileged user to inject malicious code and compromise the integrity of the host firmware bypassing the host firmware signature verification process.| 
-| 20210603T00:07:17Z | CVE-2020-27833 | PoC for exploiting CVE-2020-27833 | https://github.com/JamesGeee/CVE-2020-27833 | A Zip Slip vulnerability was found in the oc binary in openshift-clients where an arbitrary file write is achieved by using a specially crafted raw container image (.tar file) which contains symbolic links. The vulnerability is limited to the command `oc image extract`. If a symbolic link is first created pointing within the tarball, this allows further symbolic links to bypass the existing path check. This flaw allows the tarball to create links outside the tarball%s parent directory, allowing for executables or configuration files to be overwritten, resulting in arbitrary code execution. The highest threat from this vulnerability is to confidentiality, integrity, as well as system availability. Versions up to and including openshift-clients-4.7.0-202104250659.p0.git.95881af are affected.| 
-| 20210603T00:07:16Z | CVE-2021-33200 | PoC for exploiting CVE-2021-33200 | https://github.com/JamesGeee/CVE-2021-33200 | kernel/bpf/verifier.c in the Linux kernel through 5.12.7 enforces incorrect limits for pointer arithmetic operations, aka CID-bb01a1bba579. This can be abused to perform out-of-bounds reads and writes in kernel memory, leading to local privilege escalation to root. In particular, there is a corner case where the off reg causes a masking direction change, which then results in an incorrect final aux->alu_limit.| 
-| 20210603T00:07:12Z | CVE-2021-20486 | PoC for exploiting CVE-2021-20486 | https://github.com/JamesGeee/CVE-2021-20486 | IBM Cloud Pak for Data 3.0 could allow an authenticated user to obtain sensitive information when installed with additional plugins. IBM X-Force ID: 197668.| 
-| 20210603T00:06:34Z | CVE-2021-20177 | PoC for exploiting CVE-2021-20177 | https://github.com/JamesGeee/CVE-2021-20177 | A flaw was found in the Linux kernel%s implementation of string matching within a packet. A privileged user (with root or CAP_NET_ADMIN) when inserting iptables rules could insert a rule which can panic the system. Kernel before kernel 5.5-rc1 is affected.| 
-| 20210603T00:06:29Z | CVE-2020-4520 | PoC for exploiting CVE-2020-4520 | https://github.com/JamesGeee/CVE-2020-4520 | IBM Cognos Analytics 11.0 and 11.1 could allow a remote attacker to inject malicious HTML code that when viewed by the authenticated victim would execute the code. IBM X-Force ID: 182395.| 
-| 20210603T00:06:25Z | CVE-2021-29670 | PoC for exploiting CVE-2021-29670 | https://github.com/JamesGeee/CVE-2021-29670 | IBM Jazz Foundation and IBM Engineering products are vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 199408.| 
-| 20210603T00:06:22Z | CVE-2021-29668 | PoC for exploiting CVE-2021-29668 | https://github.com/JamesGeee/CVE-2021-29668 | IBM Jazz Foundation and IBM Engineering products are vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 199406.| 
-| 20210603T00:06:19Z | CVE-2021-20371 | PoC for exploiting CVE-2021-20371 | https://github.com/JamesGeee/CVE-2021-20371 | IBM Jazz Foundation and IBM Engineering products could allow a remote attacker to obtain sensitive information when an error message is returned in the browser. This information could be used in further attacks against the system. IBM X-Force ID: 195516.| 
-| 20210603T00:06:15Z | CVE-2021-20348 | PoC for exploiting CVE-2021-20348 | https://github.com/JamesGeee/CVE-2021-20348 | IBM Jazz Foundation and IBM Engineering products are vulnerable to server-side request forgery (SSRF). This may allow an authenticated attacker to send unauthorized requests from the system, potentially leading to network enumeration or facilitating other attacks. IBM X-ForceID: 194597.| 
+| 20210603T00:08:19Z | CVE-2021-29208 | PoC for exploiting CVE-2021-29208 | https://github.com/JamesGeee/CVE-2021-29208 | A remote dom xss, crlf injection vulnerability was discovered in HPE Integrated Lights-Out 4 (iLO 4); HPE SimpliVity 380 Gen9; HPE Integrated Lights-Out 5 (iLO 5) for HPE Gen10 Servers; HPE SimpliVity 380 Gen10; HPE SimpliVity 2600; HPE SimpliVity 380 Gen10 G; HPE SimpliVity 325; HPE SimpliVity 380 Gen10 H version(s): Prior to version 2.78.| 
+| 20210603T00:08:14Z | CVE-2020-22023 | PoC for exploiting CVE-2020-22023 | https://github.com/JamesGeee/CVE-2020-22023 | | 
+| 20210603T00:08:11Z | CVE-2020-22022 | PoC for exploiting CVE-2020-22022 | https://github.com/JamesGeee/CVE-2020-22022 | A heap-based Buffer Overflow vulnerability exists in FFmpeg 4.2 in filter_frame at libavfilter/vf_fieldorder.c, which might lead to memory corruption and other potential consequences.| 
+| 20210603T00:08:07Z | CVE-2021-32625 | PoC for exploiting CVE-2021-32625 | https://github.com/JamesGeee/CVE-2021-32625 | Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache, and message broker. An integer overflow bug in Redis version 6.0 or newer (on 32-bit systems ONLY) can be exploited using the `STRALGO LCS` command to corrupt the heap and potentially result with remote code execution. This is a result of an incomplete fix for CVE-2021-29477 which only addresses the problem on 64-bit systems but fails to do that for 32-bit. 64-bit systems are not affected. The problem is fixed in version 6.2.4 and 6.0.14. An additional workaround to mitigate the problem without patching the `redis-server` executable is to use ACL configuration to prevent clients from using the `STRALGO LCS` command.| 
+| 20210603T00:08:04Z | CVE-2021-29206 | PoC for exploiting CVE-2021-29206 | https://github.com/JamesGeee/CVE-2021-29206 | A remote xss vulnerability was discovered in HPE Integrated Lights-Out 4 (iLO 4); HPE SimpliVity 380 Gen9; HPE Integrated Lights-Out 5 (iLO 5) for HPE Gen10 Servers; HPE SimpliVity 380 Gen10; HPE SimpliVity 2600; HPE SimpliVity 380 Gen10 G; HPE SimpliVity 325; HPE SimpliVity 380 Gen10 H version(s): Prior to version 2.78.| 
+| 20210603T00:08:00Z | CVE-2021-29205 | PoC for exploiting CVE-2021-29205 | https://github.com/JamesGeee/CVE-2021-29205 | A remote xss vulnerability was discovered in HPE Integrated Lights-Out 4 (iLO 4); HPE SimpliVity 380 Gen9; HPE Integrated Lights-Out 5 (iLO 5) for HPE Gen10 Servers; HPE SimpliVity 380 Gen10; HPE SimpliVity 2600; HPE SimpliVity 380 Gen10 G; HPE SimpliVity 325; HPE SimpliVity 380 Gen10 H version(s): Prior to version 2.78.| 
+| 20210603T00:07:36Z | CVE-2021-29204 | PoC for exploiting CVE-2021-29204 | https://github.com/JamesGeee/CVE-2021-29204 | A remote xss vulnerability was discovered in HPE Integrated Lights-Out 4 (iLO 4); HPE SimpliVity 380 Gen9; HPE Integrated Lights-Out 5 (iLO 5) for HPE Gen10 Servers; HPE SimpliVity 380 Gen10; HPE SimpliVity 2600; HPE SimpliVity 380 Gen10 G; HPE SimpliVity 325; HPE SimpliVity 380 Gen10 H version(s): Prior to version 2.78.| 
+| 20210603T00:07:28Z | CVE-2021-29202 | PoC for exploiting CVE-2021-29202 | https://github.com/JamesGeee/CVE-2021-29202 | A local buffer overflow vulnerability was discovered in HPE Integrated Lights-Out 4 (iLO 4); HPE SimpliVity 380 Gen9; HPE Integrated Lights-Out 5 (iLO 5) for HPE Gen10 Servers; HPE SimpliVity 380 Gen10; HPE SimpliVity 2600; HPE SimpliVity 380 Gen10 G; HPE SimpliVity 325; HPE SimpliVity 380 Gen10 H version(s): Prior to version 2.78.| 
+| 20210603T00:07:25Z | CVE-2021-29201 | PoC for exploiting CVE-2021-29201 | https://github.com/JamesGeee/CVE-2021-29201 | A remote xss vulnerability was discovered in HPE Integrated Lights-Out 4 (iLO 4); HPE SimpliVity 380 Gen9; HPE Integrated Lights-Out 5 (iLO 5) for HPE Gen10 Servers; HPE SimpliVity 380 Gen10; HPE SimpliVity 2600; HPE SimpliVity 380 Gen10 G; HPE SimpliVity 325; HPE SimpliVity 380 Gen10 H version(s): Prior to version 2.78.| 
+| 20210603T00:07:22Z | CVE-2020-27833 | PoC for exploiting CVE-2020-27833 | https://github.com/JamesGeee/CVE-2020-27833 | A Zip Slip vulnerability was found in the oc binary in openshift-clients where an arbitrary file write is achieved by using a specially crafted raw container image (.tar file) which contains symbolic links. The vulnerability is limited to the command `oc image extract`. If a symbolic link is first created pointing within the tarball, this allows further symbolic links to bypass the existing path check. This flaw allows the tarball to create links outside the tarball%s parent directory, allowing for executables or configuration files to be overwritten, resulting in arbitrary code execution. The highest threat from this vulnerability is to confidentiality, integrity, as well as system availability. Versions up to and including openshift-clients-4.7.0-202104250659.p0.git.95881af are affected.| 
 
 
 # klee on Github 推荐
@@ -79,16 +79,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210603T00:07:47Z | PoC for exploiting CVE-2021-29205 | https://github.com/JamesGeee/CVE-2021-29205 | 0 | 0| 
+| 20210603T00:08:19Z | PoC for exploiting CVE-2021-29208 | https://github.com/JamesGeee/CVE-2021-29208 | 0 | 0| 
+| 20210603T00:08:14Z | PoC for exploiting CVE-2020-22023 | https://github.com/JamesGeee/CVE-2020-22023 | 0 | 0| 
+| 20210603T00:08:11Z | PoC for exploiting CVE-2020-22022 | https://github.com/JamesGeee/CVE-2020-22022 | 0 | 0| 
+| 20210603T00:08:07Z | PoC for exploiting CVE-2021-32625 | https://github.com/JamesGeee/CVE-2021-32625 | 0 | 0| 
+| 20210603T00:08:04Z | PoC for exploiting CVE-2021-29206 | https://github.com/JamesGeee/CVE-2021-29206 | 0 | 0| 
+| 20210603T00:08:00Z | PoC for exploiting CVE-2021-29205 | https://github.com/JamesGeee/CVE-2021-29205 | 0 | 0| 
 | 20210603T00:07:36Z | PoC for exploiting CVE-2021-29204 | https://github.com/JamesGeee/CVE-2021-29204 | 0 | 0| 
 | 20210603T00:07:28Z | PoC for exploiting CVE-2021-29202 | https://github.com/JamesGeee/CVE-2021-29202 | 0 | 0| 
 | 20210603T00:07:25Z | PoC for exploiting CVE-2021-29201 | https://github.com/JamesGeee/CVE-2021-29201 | 0 | 0| 
 | 20210603T00:07:22Z | PoC for exploiting CVE-2020-27833 | https://github.com/JamesGeee/CVE-2020-27833 | 0 | 0| 
-| 20210603T00:07:18Z | PoC for exploiting CVE-2021-20487 | https://github.com/JamesGeee/CVE-2021-20487 | 0 | 0| 
-| 20210603T00:07:16Z | PoC for exploiting CVE-2021-33200 | https://github.com/JamesGeee/CVE-2021-33200 | 0 | 0| 
-| 20210603T00:07:12Z | PoC for exploiting CVE-2021-20486 | https://github.com/JamesGeee/CVE-2021-20486 | 0 | 0| 
-| 20210603T00:06:54Z | PoC for exploiting CVE-2019-14836 | https://github.com/JamesGeee/CVE-2019-14836 | 0 | 0| 
-| 20210603T00:06:34Z | PoC for exploiting CVE-2021-20177 | https://github.com/JamesGeee/CVE-2021-20177 | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -109,16 +109,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210602T12:57:48Z | 多旋翼飞行器的模糊PID控制 | https://github.com/redmoon010/fuzzy.PID.control | 1 | 0| 
-| 20210602T12:55:59Z | python code of the fuzzing book to the C language | https://github.com/Hyorm/RA_fuzzing | 0 | 0| 
-| 20210602T12:47:27Z | Updating a clients website so that it follows better accessibility standards and optimized for search engines. Cleaning up and minimizing code.  | https://github.com/BT134/fuzzy-disco | 0 | 0| 
-| 20210602T12:37:53Z | Fuzzy Decision Tree implementation for Python | https://github.com/balins/fuzzytree | 0 | 0| 
-| 20210602T12:37:33Z | Null | https://github.com/mrlazy1708/fuzzy-enigma | 0 | 0| 
-| 20210602T12:26:26Z | Null | https://github.com/tsechunhei/Fuzzy-match | 0 | 0| 
-| 20210602T12:19:29Z | Null | https://github.com/s9varesc/url-fuzzing | 1 | 1| 
-| 20210602T12:15:14Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 8 | 5| 
-| 20210602T11:48:19Z | Null | https://github.com/Pemqqbxbs/fuzzy-octo-guacamole | 0 | 0| 
-| 20210602T11:45:49Z | Fuzzy file finding for neovim | https://github.com/cloudhead/neovim-fuzzy | 100 | 13| 
+| 20210602T23:56:03Z | Null | https://github.com/my000own000files1/Fuzzy | 0 | 0| 
+| 20210602T23:48:21Z | Fuzzer for LP models in MPS | https://github.com/elefthei/lp-fuzzer | 0 | 0| 
+| 20210602T23:46:44Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 75 | 18| 
+| 20210602T23:34:34Z | Fuzzinator Random Testing Framework | https://github.com/renatahodovan/fuzzinator | 173 | 38| 
+| 20210602T23:30:30Z | Config files for my GitHub profile. | https://github.com/fuzzy0103/fuzzy0103 | 0 | 0| 
+| 20210602T23:23:43Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 31802 | 16381| 
+| 20210602T22:42:31Z | 🇰🇷 한국어 특성을 반영한 자동 완성, 일치 검색, 퍼지 검색. auto complete, korean consonant matching, and fuzzy search.  | https://github.com/DarrenKwonDev/autoFuzzy | 0 | 0| 
+| 20210602T21:41:14Z | Null | https://github.com/vHanda/fuzzy_search | 0 | 0| 
+| 20210602T21:35:59Z | Null | https://github.com/dimon19991/fuzzy_sets | 0 | 0| 
+| 20210602T20:50:51Z | Symbolic Fuzzer | https://github.com/SotwareTesting-Project/Symbolic-Fuzzer | 0 | 2| 
 
 
 

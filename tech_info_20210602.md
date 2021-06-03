@@ -94,16 +94,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210602T12:57:48Z | 多旋翼飞行器的模糊PID控制 | https://github.com/redmoon010/fuzzy.PID.control | 1 | 0| 
-| 20210602T12:55:59Z | python code of the fuzzing book to the C language | https://github.com/Hyorm/RA_fuzzing | 0 | 0| 
-| 20210602T12:47:27Z | Updating a clients website so that it follows better accessibility standards and optimized for search engines. Cleaning up and minimizing code.  | https://github.com/BT134/fuzzy-disco | 0 | 0| 
-| 20210602T12:37:53Z | Fuzzy Decision Tree implementation for Python | https://github.com/balins/fuzzytree | 0 | 0| 
-| 20210602T12:37:33Z | Null | https://github.com/mrlazy1708/fuzzy-enigma | 0 | 0| 
-| 20210602T12:26:26Z | Null | https://github.com/tsechunhei/Fuzzy-match | 0 | 0| 
-| 20210602T12:19:29Z | Null | https://github.com/s9varesc/url-fuzzing | 1 | 1| 
-| 20210602T12:15:14Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 8 | 5| 
-| 20210602T11:48:19Z | Null | https://github.com/Pemqqbxbs/fuzzy-octo-guacamole | 0 | 0| 
-| 20210602T11:45:49Z | Fuzzy file finding for neovim | https://github.com/cloudhead/neovim-fuzzy | 100 | 13| 
+| 20210602T23:56:03Z | Null | https://github.com/my000own000files1/Fuzzy | 0 | 0| 
+| 20210602T23:48:21Z | Fuzzer for LP models in MPS | https://github.com/elefthei/lp-fuzzer | 0 | 0| 
+| 20210602T23:46:44Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 75 | 18| 
+| 20210602T23:34:34Z | Fuzzinator Random Testing Framework | https://github.com/renatahodovan/fuzzinator | 173 | 38| 
+| 20210602T23:30:30Z | Config files for my GitHub profile. | https://github.com/fuzzy0103/fuzzy0103 | 0 | 0| 
+| 20210602T23:23:43Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 31802 | 16381| 
+| 20210602T22:42:31Z | 🇰🇷 한국어 특성을 반영한 자동 완성, 일치 검색, 퍼지 검색. auto complete, korean consonant matching, and fuzzy search.  | https://github.com/DarrenKwonDev/autoFuzzy | 0 | 0| 
+| 20210602T21:41:14Z | Null | https://github.com/vHanda/fuzzy_search | 0 | 0| 
+| 20210602T21:35:59Z | Null | https://github.com/dimon19991/fuzzy_sets | 0 | 0| 
+| 20210602T20:50:51Z | Symbolic Fuzzer | https://github.com/SotwareTesting-Project/Symbolic-Fuzzer | 0 | 2| 
 
 
 
