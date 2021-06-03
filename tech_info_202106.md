@@ -49,7 +49,7 @@
 | 20210603T09:50:31Z | CVE-2020-24949 | PHPFusion 9.03.50 - Remote Code Execution | https://github.com/r90tpass/CVE-2020-24949 | Privilege escalation in PHP-Fusion 9.03.50 downloads/downloads.php allows an authenticated user (not admin) to send a crafted request to the server and perform remote command execution (RCE).| 
 | 20210603T01:16:00Z | CVE-2020-36326 | PoC for exploiting CVE-2020-36326 | https://github.com/JamesGeee/CVE-2020-36326 | PHPMailer 6.1.8 through 6.4.0 allows object injection through Phar Deserialization via addAttachment with a UNC pathname. NOTE: this is similar to CVE-2018-19296, but arose because 6.1.8 fixed a functionality problem in which UNC pathnames were always considered unreadable by PHPMailer, even in safe contexts. As an unintended side effect, this fix eliminated the code that blocked addAttachment exploitation.| 
 | 20210603T00:08:19Z | CVE-2021-29208 | PoC for exploiting CVE-2021-29208 | https://github.com/JamesGeee/CVE-2021-29208 | A remote dom xss, crlf injection vulnerability was discovered in HPE Integrated Lights-Out 4 (iLO 4); HPE SimpliVity 380 Gen9; HPE Integrated Lights-Out 5 (iLO 5) for HPE Gen10 Servers; HPE SimpliVity 380 Gen10; HPE SimpliVity 2600; HPE SimpliVity 380 Gen10 G; HPE SimpliVity 325; HPE SimpliVity 380 Gen10 H version(s): Prior to version 2.78.| 
-| 20210603T00:08:14Z | CVE-2020-22023 | PoC for exploiting CVE-2020-22023 | https://github.com/JamesGeee/CVE-2020-22023 | | 
+| 20210603T00:08:14Z | CVE-2020-22023 | PoC for exploiting CVE-2020-22023 | https://github.com/JamesGeee/CVE-2020-22023 | A heap-based Buffer Overflow vulnerabililty exists in FFmpeg 4.2 in filter_frame at libavfilter/vf_bitplanenoise.c, which might lead to memory corruption and other potential consequences.| 
 | 20210603T00:08:11Z | CVE-2020-22022 | PoC for exploiting CVE-2020-22022 | https://github.com/JamesGeee/CVE-2020-22022 | A heap-based Buffer Overflow vulnerability exists in FFmpeg 4.2 in filter_frame at libavfilter/vf_fieldorder.c, which might lead to memory corruption and other potential consequences.| 
 | 20210603T00:08:07Z | CVE-2021-32625 | PoC for exploiting CVE-2021-32625 | https://github.com/JamesGeee/CVE-2021-32625 | Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache, and message broker. An integer overflow bug in Redis version 6.0 or newer (on 32-bit systems ONLY) can be exploited using the `STRALGO LCS` command to corrupt the heap and potentially result with remote code execution. This is a result of an incomplete fix for CVE-2021-29477 which only addresses the problem on 64-bit systems but fails to do that for 32-bit. 64-bit systems are not affected. The problem is fixed in version 6.2.4 and 6.0.14. An additional workaround to mitigate the problem without patching the `redis-server` executable is to use ACL configuration to prevent clients from using the `STRALGO LCS` command.| 
 | 20210603T00:08:04Z | CVE-2021-29206 | PoC for exploiting CVE-2021-29206 | https://github.com/JamesGeee/CVE-2021-29206 | A remote xss vulnerability was discovered in HPE Integrated Lights-Out 4 (iLO 4); HPE SimpliVity 380 Gen9; HPE Integrated Lights-Out 5 (iLO 5) for HPE Gen10 Servers; HPE SimpliVity 380 Gen10; HPE SimpliVity 2600; HPE SimpliVity 380 Gen10 G; HPE SimpliVity 325; HPE SimpliVity 380 Gen10 H version(s): Prior to version 2.78.| 
@@ -79,6 +79,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210603T12:05:48Z | Null | https://github.com/TheCrazzXz/Exploits-Lab | 0 | 0| 
 | 20210603T12:02:50Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210603T11:49:14Z | A post exploitation tool based on a web application, focusing on bypassing endpoint protection and application whitelisting | https://github.com/AdrianVollmer/PowerHub | 433 | 76| 
 | 20210603T11:39:22Z | A Framework meant for the exploitation of iOS devices. | https://github.com/0x1CA3/iPwn | 11 | 1| 
@@ -88,7 +89,6 @@
 | 20210603T09:14:16Z | Contribute to the Development of Exploit Prevention by thinking of some great messages | https://github.com/ryanalexander/exploit-prevention-lang | 0 | 0| 
 | 20210603T08:55:39Z | Simple Exploit | https://github.com/PlinBlin/Simple-Exploit | 1 | 0| 
 | 20210603T08:53:59Z | A Go library for manipulating Windows processes. | https://github.com/jamesmoriarty/gomem | 9 | 1| 
-| 20210603T08:35:17Z | RCE Exploit found by Darvin in GAMESENSE aka SKEET | https://github.com/DarvinYouTube/GameSense-RCE | 0 | 0| 
 
 
 # backdoor on Github 推荐
