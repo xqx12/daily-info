@@ -79,6 +79,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210603T00:24:31Z | 7.5X Exploit FW (May 2nd, 2021) Exploit | https://github.com/Night-King-Host/75XV3b3 | 0 | 0| 
 | 20210603T00:16:32Z | PS4 Host Exploits For 5.05 Firmware to 7.55 Firmware | https://github.com/Night-King-Host/Night-King-Host.github.io | 0 | 1| 
 | 20210603T00:16:28Z | PoC for exploiting CVE-2020-36326 | https://github.com/JamesGeee/CVE-2020-36326 | 1 | 1| 
 | 20210603T00:08:19Z | PoC for exploiting CVE-2021-29208 | https://github.com/JamesGeee/CVE-2021-29208 | 0 | 0| 
@@ -88,7 +89,6 @@
 | 20210603T00:08:04Z | PoC for exploiting CVE-2021-29206 | https://github.com/JamesGeee/CVE-2021-29206 | 0 | 0| 
 | 20210603T00:08:00Z | PoC for exploiting CVE-2021-29205 | https://github.com/JamesGeee/CVE-2021-29205 | 0 | 0| 
 | 20210603T00:07:36Z | PoC for exploiting CVE-2021-29204 | https://github.com/JamesGeee/CVE-2021-29204 | 0 | 0| 
-| 20210603T00:07:28Z | PoC for exploiting CVE-2021-29202 | https://github.com/JamesGeee/CVE-2021-29202 | 0 | 0| 
 
 
 # backdoor on Github 推荐
