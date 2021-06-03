@@ -52,7 +52,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210603T12:22:48Z | Null | https://github.com/TheCrazzXz/Exploits-Lab | 0 | 0| 
+| 20210603T12:24:45Z | Null | https://github.com/MoryokaV/Activity-Exploit | 0 | 0| 
+| 20210603T12:23:22Z | Null | https://github.com/TheCrazzXz/Exploits-Lab | 0 | 0| 
 | 20210603T12:21:55Z | cve-2021-21985 exploit | https://github.com/xnianq/cve-2021-21985_exp | 0 | 0| 
 | 20210603T12:07:44Z | RCE Exploit for Gitlab < 13.9.4 | https://github.com/CsEnox/GitLab-Wiki-RCE | 3 | 1| 
 | 20210603T12:02:50Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
@@ -61,12 +62,12 @@
 | 20210603T10:56:14Z | Scripts (ServerSide and FE) | https://github.com/0WNEDU/Roblox-Misc-Scripts-Exploits | 0 | 0| 
 | 20210603T10:03:01Z | Burp extension to help identify and exploit JavaScript `eval()` | https://github.com/b4dpxl/Evaluator | 0 | 0| 
 | 20210603T09:14:16Z | Contribute to the Development of Exploit Prevention by thinking of some great messages | https://github.com/ryanalexander/exploit-prevention-lang | 0 | 0| 
-| 20210603T08:55:39Z | Simple Exploit | https://github.com/PlinBlin/Simple-Exploit | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210603T12:24:29Z | Null | https://github.com/ShannonAI/backdoor_nlg | 0 | 0| 
 | 20210603T07:53:27Z | This will remove the hostflow java assist backdoor | https://github.com/abhiram555/JavaAssistBackdoorRemover | 0 | 1| 
 | 20210603T07:19:46Z | Null | https://github.com/huynhquynh-dev/backdoor_py | 0 | 0| 
 
