@@ -25,7 +25,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210603T17:32:25Z | CVE-2021-27965 | stack based buffer overflow in MsIo64.sys, Proof of Concept Local Privilege Escalation to nt authority/system | https://github.com/mathisvickie/CVE-2021-27965 | | 
+| 20210603T17:32:25Z | CVE-2021-27965 | stack based buffer overflow in MsIo64.sys, Proof of Concept Local Privilege Escalation to nt authority/system | https://github.com/mathisvickie/CVE-2021-27965 | The MsIo64.sys driver before 1.1.19.1016 in MSI Dragon Center before 2.0.98.0 has a buffer overflow that allows privilege escalation via a crafted 0x80102040, 0x80102044, 0x80102050, or 0x80102054 IOCTL request.| 
 | 20210603T17:32:02Z | CVE-2021-21551 | arbitrary kernel read/write in dbutil_2_3.sys, Proof of Concept Local Privilege Escalation to nt authority/system | https://github.com/mathisvickie/CVE-2021-21551 | | 
 | 20210603T14:20:48Z | CVE-2020-36326 | PoC for exploiting CVE-2020-36326 | https://github.com/JamesGeee/CVE-2020-36326 | PHPMailer 6.1.8 through 6.4.0 allows object injection through Phar Deserialization via addAttachment with a UNC pathname. NOTE: this is similar to CVE-2018-19296, but arose because 6.1.8 fixed a functionality problem in which UNC pathnames were always considered unreadable by PHPMailer, even in safe contexts. As an unintended side effect, this fix eliminated the code that blocked addAttachment exploitation.| 
 | 20210603T13:43:17Z | cve-2021-21985 | cve-2021-21985 exploit | https://github.com/xnianq/cve-2021-21985_exp | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
@@ -85,7 +85,6 @@
 | --- | --- | --- | --- | ---| 
 | 20210603T23:57:43Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 75 | 18| 
 | 20210603T23:42:18Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6351 | 1288| 
-| 20210603T23:36:04Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2339 | 128| 
 | 20210603T23:33:54Z | Null | https://github.com/my000own000files1/Fuzzy | 0 | 0| 
 | 20210603T22:45:13Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 645 | 119| 
 | 20210603T22:04:08Z | Null | https://github.com/RANDY-Todd/fuzzy-garbanzo | 0 | 0| 
@@ -93,6 +92,7 @@
 | 20210603T21:13:27Z | WindowsHTML Engine | https://github.com/zeondev/fuzzy-engine | 0 | 0| 
 | 20210603T20:28:53Z | Fuzzy Inference Systems package | https://github.com/jdvelasq/fuzzyis | 0 | 0| 
 | 20210603T20:28:22Z | Null | https://github.com/niluferdone/FuzzyLogicProject | 0 | 0| 
+| 20210603T20:28:14Z | Null | https://github.com/caaciquee/fuzzy-potato | 0 | 0| 
 
 
 
