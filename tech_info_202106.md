@@ -50,7 +50,7 @@
 | 20210603T14:20:48Z | CVE-2020-36326 | PoC for exploiting CVE-2020-36326 | https://github.com/JamesGeee/CVE-2020-36326 | PHPMailer 6.1.8 through 6.4.0 allows object injection through Phar Deserialization via addAttachment with a UNC pathname. NOTE: this is similar to CVE-2018-19296, but arose because 6.1.8 fixed a functionality problem in which UNC pathnames were always considered unreadable by PHPMailer, even in safe contexts. As an unintended side effect, this fix eliminated the code that blocked addAttachment exploitation.| 
 | 20210603T13:43:17Z | cve-2021-21985 | cve-2021-21985 exploit | https://github.com/xnianq/cve-2021-21985_exp | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
 | 20210603T11:37:30Z | CVE-2020-7471 | PoC for the SQL injection vulnerability in PostgreSQL with Django, found in Django 1.11 before 1.11.28, 2.2 before 2.2.10, and 3.0 before 3.0.3 | https://github.com/huzaifakhan771/CVE-2020-7471-Django | Django 1.11 before 1.11.28, 2.2 before 2.2.10, and 3.0 before 3.0.3 allows SQL Injection if untrusted data is used as a StringAgg delimiter (e.g., in Django applications that offer downloads of data as a series of rows with a user-specified column delimiter). By passing a suitably crafted delimiter to a contrib.postgres.aggregates.StringAgg instance, it was possible to break escaping and inject malicious SQL.| 
-| 20210603T09:50:31Z | CVE-2020-24949 | PHPFusion 9.03.50 - Remote Code Execution | https://github.com/r90tpass/CVE-2020-24949 | | 
+| 20210603T09:50:31Z | CVE-2020-24949 | PHPFusion 9.03.50 - Remote Code Execution | https://github.com/r90tpass/CVE-2020-24949 | Privilege escalation in PHP-Fusion 9.03.50 downloads/downloads.php allows an authenticated user (not admin) to send a crafted request to the server and perform remote command execution (RCE).| 
 | 20210603T00:08:19Z | CVE-2021-29208 | PoC for exploiting CVE-2021-29208 | https://github.com/JamesGeee/CVE-2021-29208 | A remote dom xss, crlf injection vulnerability was discovered in HPE Integrated Lights-Out 4 (iLO 4); HPE SimpliVity 380 Gen9; HPE Integrated Lights-Out 5 (iLO 5) for HPE Gen10 Servers; HPE SimpliVity 380 Gen10; HPE SimpliVity 2600; HPE SimpliVity 380 Gen10 G; HPE SimpliVity 325; HPE SimpliVity 380 Gen10 H version(s): Prior to version 2.78.| 
 | 20210603T00:08:14Z | CVE-2020-22023 | PoC for exploiting CVE-2020-22023 | https://github.com/JamesGeee/CVE-2020-22023 | A heap-based Buffer Overflow vulnerabililty exists in FFmpeg 4.2 in filter_frame at libavfilter/vf_bitplanenoise.c, which might lead to memory corruption and other potential consequences.| 
 
@@ -80,6 +80,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210604T00:46:16Z | An exploit for %zerodium% backdoor in PHP 8.1.0-dev via User-Agent | https://github.com/fahmifj/php-8.1.0-dev-zerodium-rce | 0 | 0| 
 | 20210604T00:42:40Z | Null | https://github.com/joshikaa/Exploit_MeV2 | 0 | 0| 
 | 20210604T00:23:31Z | RCE Exploit for Gitlab < 13.9.4 | https://github.com/CsEnox/GitLab-Wiki-RCE | 4 | 1| 
 | 20210604T00:02:53Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
@@ -89,14 +90,13 @@
 | 20210603T23:38:15Z | Personal dump of exploits and POCs | https://github.com/guerzon/exploits | 0 | 0| 
 | 20210603T23:13:43Z | Null | https://github.com/HarrysExploit/Harrys-exploit-script-hub | 0 | 0| 
 | 20210603T23:09:51Z | Local file inclusion discovery and exploitation tool | https://github.com/hansmach1ne/lfimap | 2 | 0| 
-| 20210603T22:56:03Z | Null | https://github.com/zYan666/Demon-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210604T00:46:16Z | An exploit for %zerodium% backdoor in PHP 8.1.0-dev via User-Agent | https://github.com/fahmifj/php-8.1.0-dev-zerodium-rce | 0 | 0| 
 | 20210603T20:49:03Z | The code for: Detecting Backdoors in Black-box Neural Networks via Adversarial Extreme Value Analysis | https://github.com/aeva-backdoor-deteciton/Aeva-Blackbox-Backdoor-Detection | 0 | 0| 
-| 20210603T20:44:57Z | An exploit for %zerodium% backdoor in PHP 8.1.0-dev via User-Agent | https://github.com/fahmifj/php-8.1.0-dev-zerodium-rce | 0 | 0| 
 | 20210603T17:08:19Z | A token logger for discord + steals Brave/Chrome passwords and usernames | https://github.com/CUPZYY/Backdoor-Machine | 11 | 1| 
 | 20210603T14:56:23Z | PoC minecraft 1.12.2 backdoor plugin | https://github.com/mathisvickie/mc-backdoor | 1 | 0| 
 | 20210603T13:55:36Z | Null | https://github.com/vaaadym/backdoor | 0 | 0| 
