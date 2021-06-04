@@ -60,7 +60,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210604T12:51:13Z | Null | https://github.com/LunaNyan/klee.n-e.kr | 0 | 0| 
+| 20210604T12:51:45Z | Null | https://github.com/LunaNyan/klee.n-e.kr | 0 | 0| 
 | 20210604T11:05:29Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 646 | 15| 
 | 20210604T01:53:23Z | Dodoco doko? | https://github.com/RiceFT/klee | 0 | 0| 
 | 20210604T01:52:08Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 141 | 14| 
@@ -83,8 +83,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210604T12:52:02Z | Evil plugin for exploiting compromised EconicXP CMS instances | https://github.com/richardcurteis/EconicXP_CMS_Exploit | 0 | 0| 
 | 20210604T12:51:25Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 17 | 11| 
-| 20210604T12:49:11Z | Null | https://github.com/richardcurteis/EconicXP_CMS_Exploit | 0 | 0| 
 | 20210604T12:35:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9527 | 1542| 
 | 20210604T12:20:02Z | Exploit payload | https://github.com/febnug/shellcode | 0 | 0| 
 | 20210604T12:14:13Z | Automatic file upload for Year of the Jellyfish challenge by exploiting file upload vulnerability with Monitorr 1.7.6m  | https://github.com/dasithsv/Year-of-the-Jellyfish-challenge-automatic-file-upload | 0 | 0| 
