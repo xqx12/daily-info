@@ -28,7 +28,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210604T11:26:42Z | CVE-2021-29447 | Wordpress XXE injection 구축 자동화 및 PoC  | https://github.com/dnr6419/CVE-2021-29447 | Wordpress is an open source CMS. A user with the ability to upload files (like an Author) can exploit an XML parsing issue in the Media Library leading to XXE attacks. This requires WordPress installation to be using PHP 8. Access to internal files is possible in a successful XXE attack. This has been patched in WordPress version 5.7.1, along with the older affected versions via a minor release. We strongly recommend you keep auto-updates enabled.| 
-| 20210604T11:20:32Z | CVE-2021-21985 | Null | https://github.com/alt3kx/CVE-2021-21985_PoC | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
+| 20210604T11:20:32Z | CVE-2021-21985 | Null | https://github.com/alt3kx/CVE-2021-21985_PoC | | 
 | 20210604T11:15:07Z | cve-2021-21985 | cve-2021-21985 exploit | https://github.com/xnianq/cve-2021-21985_exp | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
 | 20210604T10:27:10Z | CVE-2021-21985 | CVE-2021-21985 VMware vCenter Server远程代码执行漏洞 EXP | https://github.com/r0ckysec/CVE-2021-21985 | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
 | 20210604T09:26:55Z | CVE-2021-28476 | PoC for CVE-2021-28476 a guest-to-host "Hyper-V Remote Code Execution Vulnerability" in vmswitch.sys. | https://github.com/0vercl0k/CVE-2021-28476 | Hyper-V Remote Code Execution Vulnerability| 
@@ -53,16 +53,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210604T12:03:29Z | Null | https://github.com/kienquoc102/CVE-2018-9995-Exploit | 0 | 0| 
+| 20210604T12:03:20Z | PS4 Exploits 5.05-7.55 | https://github.com/Buzbee/Buzbee.github.io | 2 | 0| 
+| 20210604T12:02:53Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210604T12:02:20Z | RCE Exploit for Gitlab < 13.10.3 | https://github.com/CsEnox/Gitlab-Exiftool-RCE | 2 | 0| 
 | 20210604T12:01:53Z | Null | https://github.com/TheCrazzXz/Exploits-Lab | 0 | 0| 
 | 20210604T11:57:30Z | Null | https://github.com/richardcurteis/EconicXP_CMS_Exploit | 0 | 0| 
 | 20210604T11:57:00Z | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | 2092 | 376| 
 | 20210604T11:19:53Z | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | 0 | 0| 
-| 20210604T11:02:48Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210604T10:57:43Z | Roblox exploit DLL base using the LBI execution method | https://github.com/deaddlocust/LBI-Base | 2 | 1| 
 | 20210604T10:55:37Z | SECMON is a web-based tool for the automation of infosec watching and vulnerability management with a web interface. | https://github.com/Guezone/SECMON | 17 | 4| 
-| 20210604T10:04:26Z | collection of smart contract experiments | https://github.com/xh3b4sd/exploit | 0 | 0| 
-| 20210604T09:48:04Z | Null | https://github.com/AidenPearce369/ExploitDev | 5 | 1| 
 
 
 # backdoor on Github 推荐
@@ -82,6 +82,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210604T12:03:40Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 441 | 38| 
 | 20210604T12:00:00Z | Thin interface for libFuzzer, an in-process, coverage-guided, evolutionary fuzzing engine. | https://github.com/planetis-m/libfuzzer | 0 | 0| 
 | 20210604T11:53:59Z | Fuzzing dictionaries for afl-fuzz/LibFuzzer 可能是目前最全面的开源模糊测试字典集合了~ | https://github.com/salmonx/dictionaries | 12 | 0| 
 | 20210604T11:50:38Z | Null | https://github.com/dechjo/fuzzing-experiments | 0 | 0| 
@@ -91,7 +92,6 @@
 | 20210604T09:13:53Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3532 | 822| 
 | 20210604T09:07:12Z | Null | https://github.com/typescript-school/fuzzy-matching | 0 | 0| 
 | 20210604T09:04:11Z | Null | https://github.com/erdifajarf/PMDK_FuzzyAHP | 0 | 0| 
-| 20210604T09:02:06Z | Fuzz for sensitive directories without killing the host using ffuf | https://github.com/R0X4R/Fuzzy | 11 | 3| 
 
 
 
