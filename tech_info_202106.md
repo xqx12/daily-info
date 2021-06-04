@@ -43,7 +43,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210604T01:39:53Z | cve-2021-21985 | cve-2021-21985 exploit | https://github.com/xnianq/cve-2021-21985_exp | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
+| 20210604T01:42:04Z | cve-2021-21985 | cve-2021-21985 exploit | https://github.com/xnianq/cve-2021-21985_exp | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
 | 20210604T01:37:26Z | CVE-2021-21985 | CVE-2021-21985 vmware vcenter 远程代码执行 EXP | https://github.com/r0ckysec/CVE-2021-21985 | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
 | 20210604T01:25:51Z | CVE-2021-21985 | Null | https://github.com/alt3kx/CVE-2021-21985_PoC | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
 | 20210604T01:17:03Z | CVE-2021-21985 | CVE-2021-21985 vmware 6.7-9.8 RCE | https://github.com/daedalus/CVE-2021-21985 | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
@@ -80,7 +80,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210604T01:39:53Z | cve-2021-21985 exploit | https://github.com/xnianq/cve-2021-21985_exp | 0 | 0| 
+| 20210604T01:42:04Z | cve-2021-21985 exploit | https://github.com/xnianq/cve-2021-21985_exp | 0 | 0| 
 | 20210604T01:39:11Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 307 | 42| 
 | 20210604T01:08:39Z | A number of exploits and tools I%ve written for CVEs accredited to Marshall Whittaker/oxagast | https://github.com/oxagast/oxasploits | 6 | 1| 
 | 20210604T01:06:33Z | Visual Studio 2008 port of the libemu library that includes scdbg.exe, a modification of the sctest project, that includes more hooks, interactive debugging, reporting features, and ability to work with file format exploit shellcode. Will run under WINE  | https://github.com/dzzie/VS_LIBEMU | 133 | 51| 
@@ -110,6 +110,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210604T01:38:26Z | CBOR RFC 7049 & RFC 8949 (Go/Golang) library with CBOR tags, Go struct tags (toarray/keyasint/omitempty), float64/32/16, and fuzz tested billions of execs. | https://github.com/fxamacker/cbor | 276 | 21| 
 | 20210604T01:11:00Z | finding time range | https://github.com/HuangStanley050/fuzzy-invention | 0 | 0| 
 | 20210604T01:00:25Z | Null | https://github.com/GuilhermeBuenoMartins/sistemas-de-inferencia-fuzzy | 0 | 0| 
 | 20210604T00:36:17Z | Fuzzer for LP models in MPS | https://github.com/elefthei/lp-fuzzer | 0 | 0| 
@@ -119,7 +120,6 @@
 | 20210603T23:33:54Z | Null | https://github.com/my000own000files1/Fuzzy | 0 | 0| 
 | 20210603T22:45:13Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 645 | 119| 
 | 20210603T22:04:08Z | Null | https://github.com/RANDY-Todd/fuzzy-garbanzo | 0 | 0| 
-| 20210603T21:59:29Z | Null | https://github.com/JAC61090/fuzzy-dollop-day-planner | 0 | 0| 
 
 
 
