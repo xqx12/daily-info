@@ -60,9 +60,9 @@
 | 20210604T12:01:53Z | Null | https://github.com/TheCrazzXz/Exploits-Lab | 0 | 0| 
 | 20210604T11:57:30Z | Null | https://github.com/richardcurteis/EconicXP_CMS_Exploit | 0 | 0| 
 | 20210604T11:57:00Z | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | 2092 | 376| 
+| 20210604T11:36:51Z | Shiro550/Shiro721 一键化利用工具，支持多种回显方式 | https://github.com/feihong-cs/ShiroExploit-Deprecated | 1064 | 226| 
 | 20210604T11:19:53Z | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | 0 | 0| 
 | 20210604T10:57:43Z | Roblox exploit DLL base using the LBI execution method | https://github.com/deaddlocust/LBI-Base | 2 | 1| 
-| 20210604T10:55:37Z | SECMON is a web-based tool for the automation of infosec watching and vulnerability management with a web interface. | https://github.com/Guezone/SECMON | 17 | 4| 
 
 
 # backdoor on Github 推荐
