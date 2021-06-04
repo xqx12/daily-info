@@ -42,7 +42,6 @@
 | --- | --- | --- | --- | ---| 
 | 20210603T23:57:26Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 645 | 15| 
 | 20210603T23:47:18Z | Null | https://github.com/JaimePSantos/ResearchKlee | 0 | 0| 
-| 20210603T20:00:53Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 140 | 14| 
 | 20210603T08:24:15Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1709 | 494| 
 
 

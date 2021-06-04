@@ -58,10 +58,10 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210604T01:52:08Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 141 | 14| 
 | 20210604T01:51:09Z | Dodoco doko? | https://github.com/RiceFT/klee | 0 | 0| 
 | 20210603T23:57:26Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 645 | 15| 
 | 20210603T23:47:18Z | Null | https://github.com/JaimePSantos/ResearchKlee | 0 | 0| 
-| 20210603T20:00:53Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 140 | 14| 
 | 20210603T08:24:15Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1709 | 494| 
 | 20210602T22:09:44Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
 | 20210602T12:56:41Z | Null | https://github.com/KleePaimon/KleePaimon.github.io | 0 | 0| 
@@ -110,6 +110,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210604T01:46:46Z | Null | https://github.com/chijiang/GoFuzzyControl | 0 | 0| 
 | 20210604T01:38:26Z | CBOR RFC 7049 & RFC 8949 (Go/Golang) library with CBOR tags, Go struct tags (toarray/keyasint/omitempty), float64/32/16, and fuzz tested billions of execs. | https://github.com/fxamacker/cbor | 276 | 21| 
 | 20210604T01:11:00Z | finding time range | https://github.com/HuangStanley050/fuzzy-invention | 0 | 0| 
 | 20210604T01:00:25Z | Null | https://github.com/GuilhermeBuenoMartins/sistemas-de-inferencia-fuzzy | 0 | 0| 
@@ -119,7 +120,6 @@
 | 20210603T23:42:18Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6351 | 1288| 
 | 20210603T23:33:54Z | Null | https://github.com/my000own000files1/Fuzzy | 0 | 0| 
 | 20210603T22:45:13Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 645 | 119| 
-| 20210603T22:04:08Z | Null | https://github.com/RANDY-Todd/fuzzy-garbanzo | 0 | 0| 
 
 
 
