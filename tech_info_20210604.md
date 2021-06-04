@@ -83,7 +83,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210604T12:41:30Z | Thin interface for libFuzzer, an in-process, coverage-guided, evolutionary fuzzing engine. | https://github.com/planetis-m/libfuzzer | 0 | 0| 
+| 20210604T12:59:15Z | Thin interface for libFuzzer, an in-process, coverage-guided, evolutionary fuzzing engine. | https://github.com/planetis-m/libfuzzer | 0 | 0| 
+| 20210604T12:53:02Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6354 | 1288| 
 | 20210604T12:39:45Z | Fuzzing dictionaries for afl-fuzz/LibFuzzer 可能是目前最全面的开源模糊测试字典集合了~ | https://github.com/salmonx/dictionaries | 13 | 0| 
 | 20210604T12:31:55Z | VMI Kernel Fuzzer for Xen Project - VM forking, VMI & AFL integration demo | https://github.com/intel/kernel-fuzzer-for-xen-project | 318 | 45| 
 | 20210604T12:07:05Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 441 | 38| 
@@ -92,7 +93,6 @@
 | 20210604T10:20:31Z | This is a simple implementation of Fuzzy c-mean and Hard c-mean clustring.  | https://github.com/GhazalTajik1998/Hard-and-Fuzzy-C-mean-clustring | 0 | 0| 
 | 20210604T09:27:30Z | Null | https://github.com/ahi-hfg/fuzzy-dollop | 0 | 0| 
 | 20210604T09:13:53Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3532 | 822| 
-| 20210604T09:07:12Z | Null | https://github.com/typescript-school/fuzzy-matching | 0 | 0| 
 
 
 
