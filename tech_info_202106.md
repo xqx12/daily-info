@@ -50,7 +50,7 @@
 | 20210604T12:28:38Z | CVE-2021-21985 | Null | https://github.com/alt3kx/CVE-2021-21985_PoC | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
 | 20210604T11:26:42Z | CVE-2021-29447 | Wordpress XXE injection 구축 자동화 및 PoC  | https://github.com/dnr6419/CVE-2021-29447 | Wordpress is an open source CMS. A user with the ability to upload files (like an Author) can exploit an XML parsing issue in the Media Library leading to XXE attacks. This requires WordPress installation to be using PHP 8. Access to internal files is possible in a successful XXE attack. This has been patched in WordPress version 5.7.1, along with the older affected versions via a minor release. We strongly recommend you keep auto-updates enabled.| 
 | 20210604T09:26:55Z | CVE-2021-28476 | PoC for CVE-2021-28476 a guest-to-host "Hyper-V Remote Code Execution Vulnerability" in vmswitch.sys. | https://github.com/0vercl0k/CVE-2021-28476 | Hyper-V Remote Code Execution Vulnerability| 
-| 20210604T05:57:15Z | CVE-2021-2173 | CVE-2021-2173 | https://github.com/emad-almousa/CVE-2021-2173 | Vulnerability in the Recovery component of Oracle Database Server. Supported versions that are affected are 12.1.0.2, 12.2.0.1, 18c and 19c. Easily exploitable vulnerability allows high privileged attacker having DBA Level Account privilege with network access via Oracle Net to compromise Recovery. While the vulnerability is in Recovery, attacks may significantly impact additional products. Successful attacks of this vulnerability can result in unauthorized read access to a subset of Recovery accessible data. CVSS 3.1 Base Score 4.1 (Confidentiality impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:C/C:L/I:N/A:N).| 
+| 20210604T05:57:15Z | CVE-2021-2173 | CVE-2021-2173 | https://github.com/emad-almousa/CVE-2021-2173 | | 
 | 20210604T01:53:35Z | CVE-2021-21985 | CVE-2021-21985 vmware 6.7-9.8 RCE | https://github.com/daedalus/CVE-2021-21985 | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
 | 20210603T17:32:25Z | CVE-2021-27965 | stack based buffer overflow in MsIo64.sys, Proof of Concept Local Privilege Escalation to nt authority/system | https://github.com/mathisvickie/CVE-2021-27965 | The MsIo64.sys driver before 1.1.19.1016 in MSI Dragon Center before 2.0.98.0 has a buffer overflow that allows privilege escalation via a crafted 0x80102040, 0x80102044, 0x80102050, or 0x80102054 IOCTL request.| 
 | 20210603T17:32:02Z | CVE-2021-21551 | arbitrary kernel read/write in dbutil_2_3.sys, Proof of Concept Local Privilege Escalation to nt authority/system | https://github.com/mathisvickie/CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
@@ -60,6 +60,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210604T12:49:19Z | Null | https://github.com/LunaNyan/klee.n-e.kr | 0 | 0| 
 | 20210604T11:05:29Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 646 | 15| 
 | 20210604T01:53:23Z | Dodoco doko? | https://github.com/RiceFT/klee | 0 | 0| 
 | 20210604T01:52:08Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 141 | 14| 
@@ -69,7 +70,6 @@
 | 20210602T12:56:41Z | Null | https://github.com/KleePaimon/KleePaimon.github.io | 0 | 0| 
 | 20210602T03:33:09Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 12 | 0| 
 | 20210601T21:37:25Z | New portfolio website using react and material ui.  | https://github.com/collinkleest/kleest.io | 1 | 0| 
-| 20210601T19:30:43Z | Null | https://github.com/nithinsai263/kleenacademy | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -83,7 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210604T12:44:50Z | Null | https://github.com/richardcurteis/EconicXP_CMS_Exploit | 0 | 0| 
+| 20210604T12:49:11Z | Null | https://github.com/richardcurteis/EconicXP_CMS_Exploit | 0 | 0| 
 | 20210604T12:35:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9527 | 1542| 
 | 20210604T12:20:02Z | Exploit payload | https://github.com/febnug/shellcode | 0 | 0| 
 | 20210604T12:14:13Z | Automatic file upload for Year of the Jellyfish challenge by exploiting file upload vulnerability with Monitorr 1.7.6m  | https://github.com/dasithsv/Year-of-the-Jellyfish-challenge-automatic-file-upload | 0 | 0| 
