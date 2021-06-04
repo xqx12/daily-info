@@ -98,31 +98,31 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210604T10:16:38Z | Null | https://github.com/k2oneiy/backdoor-step-by-step-process | 0 | 0| 
+| 20210604T09:18:44Z | python | https://github.com/k2oneiy/backdoor-windows-in-python | 0 | 0| 
+| 20210604T07:37:40Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 244 | 43| 
+| 20210604T07:09:21Z | A basic trojan backdoor that connects the infected system with the trojan%s command server, which includes a custom shell. Educational purposes only. | https://github.com/c0y0te-git/Antioch_Trojan | 0 | 0| 
+| 20210604T05:53:51Z | When executed on a system, it would allow us to gain full control of that system. Implemented using sockets, establishing connection between the two devices, enabling us to transfer data between them. Web servers, chat apps can be built similarly. | https://github.com/sarjit304/reverse_backdoor | 0 | 0| 
+| 20210604T05:20:38Z | Null | https://github.com/ryukzgans/Shell-Backdoor | 0 | 0| 
+| 20210604T04:15:35Z | Null | https://github.com/YukiM00/Backdoor-medicalAI | 0 | 0| 
+| 20210604T02:03:32Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/ghost | 1128 | 543| 
 | 20210604T00:46:16Z | An exploit for %zerodium% backdoor in PHP 8.1.0-dev via User-Agent | https://github.com/fahmifj/php-8.1.0-dev-zerodium-rce | 0 | 0| 
 | 20210603T20:49:03Z | The code for: Detecting Backdoors in Black-box Neural Networks via Adversarial Extreme Value Analysis | https://github.com/aeva-backdoor-deteciton/Aeva-Blackbox-Backdoor-Detection | 0 | 0| 
-| 20210603T17:08:19Z | A token logger for discord + steals Brave/Chrome passwords and usernames | https://github.com/CUPZYY/Backdoor-Machine | 11 | 1| 
-| 20210603T14:56:23Z | PoC minecraft 1.12.2 backdoor plugin | https://github.com/mathisvickie/mc-backdoor | 1 | 0| 
-| 20210603T13:55:36Z | Null | https://github.com/vaaadym/backdoor | 0 | 0| 
-| 20210603T12:24:29Z | Null | https://github.com/ShannonAI/backdoor_nlg | 0 | 1| 
-| 20210603T07:53:27Z | This will remove the hostflow java assist backdoor | https://github.com/abhiram555/JavaAssistBackdoorRemover | 0 | 1| 
-| 20210603T07:19:46Z | Null | https://github.com/huynhquynh-dev/backdoor_py | 0 | 0| 
-| 20210602T19:39:04Z | Python botnet and backdoor | https://github.com/sweetsoftware/Ares | 1082 | 435| 
-| 20210602T19:02:04Z | Python 3 IRC Bot / Botnet | https://github.com/trackmastersteve/HackServ | 21 | 17| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210604T01:46:46Z | Null | https://github.com/chijiang/GoFuzzyControl | 0 | 0| 
-| 20210604T01:38:26Z | CBOR RFC 7049 & RFC 8949 (Go/Golang) library with CBOR tags, Go struct tags (toarray/keyasint/omitempty), float64/32/16, and fuzz tested billions of execs. | https://github.com/fxamacker/cbor | 276 | 21| 
-| 20210604T01:11:00Z | finding time range | https://github.com/HuangStanley050/fuzzy-invention | 0 | 0| 
-| 20210604T01:00:25Z | Null | https://github.com/GuilhermeBuenoMartins/sistemas-de-inferencia-fuzzy | 0 | 0| 
-| 20210604T00:36:17Z | Fuzzer for LP models in MPS | https://github.com/elefthei/lp-fuzzer | 0 | 0| 
-| 20210604T00:14:19Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2339 | 128| 
-| 20210603T23:57:43Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 75 | 18| 
-| 20210603T23:42:18Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6351 | 1288| 
-| 20210603T23:33:54Z | Null | https://github.com/my000own000files1/Fuzzy | 0 | 0| 
-| 20210603T22:45:13Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 645 | 119| 
+| 20210604T12:00:00Z | Thin interface for libFuzzer, an in-process, coverage-guided, evolutionary fuzzing engine. | https://github.com/planetis-m/libfuzzer | 0 | 0| 
+| 20210604T11:53:59Z | Fuzzing dictionaries for afl-fuzz/LibFuzzer 可能是目前最全面的开源模糊测试字典集合了~ | https://github.com/salmonx/dictionaries | 12 | 0| 
+| 20210604T11:50:38Z | Null | https://github.com/dechjo/fuzzing-experiments | 0 | 0| 
+| 20210604T11:30:34Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
+| 20210604T10:20:31Z | This is a simple implementation of Fuzzy c-mean and Hard c-mean clustring.  | https://github.com/GhazalTajik1998/Hard-and-Fuzzy-C-mean-clustring | 0 | 0| 
+| 20210604T09:27:30Z | Null | https://github.com/ahi-hfg/fuzzy-dollop | 0 | 0| 
+| 20210604T09:13:53Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3532 | 822| 
+| 20210604T09:07:12Z | Null | https://github.com/typescript-school/fuzzy-matching | 0 | 0| 
+| 20210604T09:04:11Z | Null | https://github.com/erdifajarf/PMDK_FuzzyAHP | 0 | 0| 
+| 20210604T09:02:06Z | Fuzz for sensitive directories without killing the host using ffuf | https://github.com/R0X4R/Fuzzy | 11 | 3| 
 
 
 
