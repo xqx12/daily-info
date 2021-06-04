@@ -27,7 +27,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210604T12:29:20Z | cve-2021-21985 | cve-2021-21985 exploit | https://github.com/xnianq/cve-2021-21985_exp | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
+| 20210604T12:39:21Z | cve-2021-21985 | cve-2021-21985 exploit | https://github.com/xnianq/cve-2021-21985_exp | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
 | 20210604T12:28:38Z | CVE-2021-21985 | Null | https://github.com/alt3kx/CVE-2021-21985_PoC | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
 | 20210604T11:26:42Z | CVE-2021-29447 | Wordpress XXE injection 구축 자동화 및 PoC  | https://github.com/dnr6419/CVE-2021-29447 | Wordpress is an open source CMS. A user with the ability to upload files (like an Author) can exploit an XML parsing issue in the Media Library leading to XXE attacks. This requires WordPress installation to be using PHP 8. Access to internal files is possible in a successful XXE attack. This has been patched in WordPress version 5.7.1, along with the older affected versions via a minor release. We strongly recommend you keep auto-updates enabled.| 
 | 20210604T10:27:10Z | CVE-2021-21985 | CVE-2021-21985 VMware vCenter Server远程代码执行漏洞 EXP | https://github.com/r0ckysec/CVE-2021-21985 | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
@@ -82,16 +82,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210604T12:41:30Z | Thin interface for libFuzzer, an in-process, coverage-guided, evolutionary fuzzing engine. | https://github.com/planetis-m/libfuzzer | 0 | 0| 
+| 20210604T12:39:45Z | Fuzzing dictionaries for afl-fuzz/LibFuzzer 可能是目前最全面的开源模糊测试字典集合了~ | https://github.com/salmonx/dictionaries | 13 | 0| 
+| 20210604T12:31:55Z | VMI Kernel Fuzzer for Xen Project - VM forking, VMI & AFL integration demo | https://github.com/intel/kernel-fuzzer-for-xen-project | 318 | 45| 
 | 20210604T12:07:05Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 441 | 38| 
-| 20210604T12:00:00Z | Thin interface for libFuzzer, an in-process, coverage-guided, evolutionary fuzzing engine. | https://github.com/planetis-m/libfuzzer | 0 | 0| 
-| 20210604T11:53:59Z | Fuzzing dictionaries for afl-fuzz/LibFuzzer 可能是目前最全面的开源模糊测试字典集合了~ | https://github.com/salmonx/dictionaries | 12 | 0| 
 | 20210604T11:50:38Z | Null | https://github.com/dechjo/fuzzing-experiments | 0 | 0| 
 | 20210604T11:30:34Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210604T10:20:31Z | This is a simple implementation of Fuzzy c-mean and Hard c-mean clustring.  | https://github.com/GhazalTajik1998/Hard-and-Fuzzy-C-mean-clustring | 0 | 0| 
 | 20210604T09:27:30Z | Null | https://github.com/ahi-hfg/fuzzy-dollop | 0 | 0| 
 | 20210604T09:13:53Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3532 | 822| 
 | 20210604T09:07:12Z | Null | https://github.com/typescript-school/fuzzy-matching | 0 | 0| 
-| 20210604T09:04:11Z | Null | https://github.com/erdifajarf/PMDK_FuzzyAHP | 0 | 0| 
 
 
 
