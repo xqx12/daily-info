@@ -27,11 +27,13 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210604T12:43:00Z | CVE-2021-21985 | CVE-2021-21985 VMware vCenter Server远程代码执行漏洞 EXP | https://github.com/r0ckysec/CVE-2021-21985 | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
-| 20210604T12:39:21Z | cve-2021-21985 | cve-2021-21985 exploit | https://github.com/xnianq/cve-2021-21985_exp | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
-| 20210604T12:28:38Z | CVE-2021-21985 | Null | https://github.com/alt3kx/CVE-2021-21985_PoC | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
+| 20210604T23:23:37Z | CVE-2021-21985 | Null | https://github.com/alt3kx/CVE-2021-21985_PoC | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
+| 20210604T17:56:24Z | cve-2021-21985 | cve-2021-21985 exploit | https://github.com/xnianq/cve-2021-21985_exp | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
+| 20210604T17:32:33Z | CVE-2021-21985 | CVE-2021-21985 VMware vCenter Server远程代码执行漏洞 EXP | https://github.com/r0ckysec/CVE-2021-21985 | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
+| 20210604T16:59:25Z | CVE-2021-29155 | Proof of Concept CVE-2021-29155  | https://github.com/Kakashiiiiy/CVE-2021-29155 | An issue was discovered in the Linux kernel through 5.11.x. kernel/bpf/verifier.c performs undesirable out-of-bounds speculation on pointer arithmetic, leading to side-channel attacks that defeat Spectre mitigations and obtain sensitive information from kernel memory. Specifically, for sequences of pointer arithmetic operations, the pointer modification performed by the first operation is not correctly accounted for when restricting subsequent operations.| 
+| 20210604T15:46:07Z | CVE-2021-28476 | PoC for CVE-2021-28476 a guest-to-host "Hyper-V Remote Code Execution Vulnerability" in vmswitch.sys. | https://github.com/0vercl0k/CVE-2021-28476 | Hyper-V Remote Code Execution Vulnerability| 
+| 20210604T14:44:35Z | CVE-2021-27965 | stack based buffer overflow in MsIo64.sys, Proof of Concept Local Privilege Escalation to nt authority/system | https://github.com/mathisvickie/CVE-2021-27965 | The MsIo64.sys driver before 1.1.19.1016 in MSI Dragon Center before 2.0.98.0 has a buffer overflow that allows privilege escalation via a crafted 0x80102040, 0x80102044, 0x80102050, or 0x80102054 IOCTL request.| 
 | 20210604T11:26:42Z | CVE-2021-29447 | Wordpress XXE injection 구축 자동화 및 PoC  | https://github.com/dnr6419/CVE-2021-29447 | Wordpress is an open source CMS. A user with the ability to upload files (like an Author) can exploit an XML parsing issue in the Media Library leading to XXE attacks. This requires WordPress installation to be using PHP 8. Access to internal files is possible in a successful XXE attack. This has been patched in WordPress version 5.7.1, along with the older affected versions via a minor release. We strongly recommend you keep auto-updates enabled.| 
-| 20210604T09:26:55Z | CVE-2021-28476 | PoC for CVE-2021-28476 a guest-to-host "Hyper-V Remote Code Execution Vulnerability" in vmswitch.sys. | https://github.com/0vercl0k/CVE-2021-28476 | Hyper-V Remote Code Execution Vulnerability| 
 | 20210604T05:57:15Z | CVE-2021-2173 | CVE-2021-2173 | https://github.com/emad-almousa/CVE-2021-2173 | Vulnerability in the Recovery component of Oracle Database Server. Supported versions that are affected are 12.1.0.2, 12.2.0.1, 18c and 19c. Easily exploitable vulnerability allows high privileged attacker having DBA Level Account privilege with network access via Oracle Net to compromise Recovery. While the vulnerability is in Recovery, attacks may significantly impact additional products. Successful attacks of this vulnerability can result in unauthorized read access to a subset of Recovery accessible data. CVSS 3.1 Base Score 4.1 (Confidentiality impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:C/C:L/I:N/A:N).| 
 | 20210604T01:53:35Z | CVE-2021-21985 | CVE-2021-21985 vmware 6.7-9.8 RCE | https://github.com/daedalus/CVE-2021-21985 | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
 
@@ -39,10 +41,11 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210604T23:18:02Z | Dodoco doko? | https://github.com/RiceFT/klee | 0 | 0| 
+| 20210604T17:23:04Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 141 | 14| 
+| 20210604T16:39:31Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 12 | 0| 
 | 20210604T12:51:45Z | Null | https://github.com/LunaNyan/klee.n-e.kr | 0 | 0| 
 | 20210604T11:05:29Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 646 | 15| 
-| 20210604T01:53:23Z | Dodoco doko? | https://github.com/RiceFT/klee | 0 | 0| 
-| 20210604T01:52:08Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 141 | 14| 
 
 
 # s2e on Github 推荐
@@ -54,30 +57,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210604T12:52:02Z | Evil plugin for exploiting compromised EconicXP CMS instances | https://github.com/richardcurteis/EconicXP_CMS_Exploit | 0 | 0| 
-| 20210604T12:51:25Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 17 | 11| 
-| 20210604T12:35:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9527 | 1542| 
-| 20210604T12:20:02Z | Exploit payload | https://github.com/febnug/shellcode | 0 | 0| 
-| 20210604T12:14:13Z | Automatic file upload for Year of the Jellyfish challenge by exploiting file upload vulnerability with Monitorr 1.7.6m  | https://github.com/dasithsv/Year-of-the-Jellyfish-challenge-automatic-file-upload | 0 | 0| 
-| 20210604T12:13:48Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7925 | 1395| 
-| 20210604T12:03:29Z | Null | https://github.com/kienquoc102/CVE-2018-9995-Exploit | 0 | 0| 
-| 20210604T12:03:20Z | PS4 Exploits 5.05-7.55 | https://github.com/Buzbee/Buzbee.github.io | 2 | 0| 
-| 20210604T12:02:53Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
-| 20210604T12:02:20Z | RCE Exploit for Gitlab < 13.10.3 | https://github.com/CsEnox/Gitlab-Exiftool-RCE | 2 | 0| 
+| 20210604T23:57:34Z | A number of exploits and tools I%ve written for CVEs accredited to Marshall Whittaker/oxagast | https://github.com/oxagast/oxasploits | 6 | 1| 
+| 20210604T23:56:04Z | Organizes rp++ output to make finding good gadgets faster | https://github.com/bmdyy/ropz | 0 | 0| 
+| 20210604T23:54:48Z | Portable, NULL-free, Position-Independent (PIC) and highly optimized shellcodes for exploit development. | https://github.com/cwaazywabbit/shellcodes | 0 | 0| 
+| 20210604T23:02:47Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
+| 20210604T22:43:47Z | NTFS exploit delivery with randomized activation and time bomb. | https://github.com/hafiz-kamilin/exercise_ntfsExploiter | 0 | 0| 
+| 20210604T22:40:35Z | Null | https://github.com/zYan666/Demon-Exploit | 0 | 0| 
+| 20210604T22:36:27Z | Null | https://github.com/HarrysExploit/Harrys-exploit-setup | 0 | 0| 
+| 20210604T22:34:04Z | Null | https://github.com/HarrysExploit/Harrys-exploit | 0 | 0| 
+| 20210604T22:30:02Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 11 | 3| 
+| 20210604T22:27:16Z | We exploit to the full the capabilities of distributed processing using a Distributed Linear Support Vector Machine to retrieve, train the model and predict a medical dataset. | https://github.com/Arnaldgg7/SparkML_Distributed_Machine_Learning_Model | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210604T22:50:56Z | A workflow to create/manage a backdoor admin account and rotate the password. E.g. Another LAPS workflow. | https://github.com/Rocketman-Tech/BreakGlassUser | 0 | 0| 
+| 20210604T22:35:11Z | Windows 10 PRO Activator - No more backdoors via loaders from China and neither you will need any crack anymore that is valid for a week or two. This is script is written for powershell/cmd. This script will also removing all bloatware from Windows 10. Edit the script after your needs. | https://github.com/wuseman/wLoader | 63 | 16| 
+| 20210604T22:30:19Z | Null | https://github.com/victormuller2007/backdoord | 0 | 0| 
+| 20210604T20:45:49Z | App that gives trends and growth of several career fields, how likely they%ll be taken over by automation & robots and gives a backdoor to enter the BIG digital revolution | https://github.com/AyoubHan/Backdoor-Project | 0 | 0| 
+| 20210604T19:41:19Z | A basic trojan backdoor that connects the infected system with the trojan%s command server, which includes a custom shell. Educational purposes only. | https://github.com/c0y0te-git/Antioch_Trojan | 0 | 0| 
+| 20210604T19:28:48Z | Python 3 IRC Bot / Botnet | https://github.com/trackmastersteve/HackServ | 21 | 17| 
+| 20210604T14:27:43Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/ghost | 1129 | 543| 
+| 20210604T14:27:23Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 35 | 27| 
+| 20210604T13:37:58Z | a simple BackDoor Written With C/C++ | https://github.com/SudoerUser/SuDoor | 0 | 0| 
 | 20210604T10:16:38Z | Null | https://github.com/k2oneiy/backdoor-step-by-step-process | 0 | 0| 
-| 20210604T09:18:44Z | python | https://github.com/k2oneiy/backdoor-windows-in-python | 0 | 0| 
-| 20210604T07:37:40Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 244 | 43| 
-| 20210604T07:09:21Z | A basic trojan backdoor that connects the infected system with the trojan%s command server, which includes a custom shell. Educational purposes only. | https://github.com/c0y0te-git/Antioch_Trojan | 0 | 0| 
-| 20210604T05:53:51Z | When executed on a system, it would allow us to gain full control of that system. Implemented using sockets, establishing connection between the two devices, enabling us to transfer data between them. Web servers, chat apps can be built similarly. | https://github.com/sarjit304/reverse_backdoor | 0 | 0| 
-| 20210604T05:20:38Z | Null | https://github.com/ryukzgans/Shell-Backdoor | 0 | 0| 
-| 20210604T04:15:35Z | Null | https://github.com/YukiM00/Backdoor-medicalAI | 0 | 0| 
-| 20210604T02:03:32Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/ghost | 1128 | 543| 
-| 20210604T00:46:16Z | An exploit for %zerodium% backdoor in PHP 8.1.0-dev via User-Agent | https://github.com/fahmifj/php-8.1.0-dev-zerodium-rce | 0 | 0| 
 
 
 # fuzz on Github 推荐
