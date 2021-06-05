@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210605T12:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9531 | 1541| 
 | 20210605T12:32:36Z | bespoke tooling for offensive security%s Windows Usermode Exploit Dev course (OSED) | https://github.com/epi052/osed-scripts | 32 | 13| 
 | 20210605T12:21:10Z | PoC for exploiting CVE-2021-30513 | https://github.com/JamesGeeee/CVE-2021-30513 | 0 | 0| 
 | 20210605T12:20:47Z | PoC for exploiting CVE-2021-30510 | https://github.com/JamesGeeee/CVE-2021-30510 | 0 | 0| 
@@ -93,7 +94,6 @@
 | 20210605T12:20:15Z | PoC for exploiting CVE-2021-20585 | https://github.com/JamesGeeee/CVE-2021-20585 | 0 | 0| 
 | 20210605T12:20:11Z | PoC for exploiting CVE-2021-25326 | https://github.com/JamesGeeee/CVE-2021-25326 | 0 | 0| 
 | 20210605T12:19:43Z | PoC for exploiting CVE-2021-28242 | https://github.com/JamesGeeee/CVE-2021-28242 | 0 | 0| 
-| 20210605T12:19:35Z | PoC for exploiting CVE-2021-23985 | https://github.com/JamesGeeee/CVE-2021-23985 | 0 | 0| 
 
 
 # backdoor on Github 推荐
