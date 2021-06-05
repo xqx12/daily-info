@@ -98,7 +98,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210605T00:04:41Z | A simple and easy to use stresser for your ddos (booting) services. | https://github.com/lolCourtesy/True-Security-Services-io-Shells-Backdoors-Removed | 0 | 0| 
+| 20210605T00:05:27Z | A simple and easy to use stresser for your ddos (booting) business services. | https://github.com/lolCourtesy/True-Security-Services-io-Shells-Backdoors-Removed | 0 | 0| 
 | 20210604T22:50:56Z | A workflow to create/manage a backdoor admin account and rotate the password. E.g. Another LAPS workflow. | https://github.com/Rocketman-Tech/BreakGlassUser | 0 | 0| 
 | 20210604T22:35:11Z | Windows 10 PRO Activator - No more backdoors via loaders from China and neither you will need any crack anymore that is valid for a week or two. This is script is written for powershell/cmd. This script will also removing all bloatware from Windows 10. Edit the script after your needs. | https://github.com/wuseman/wLoader | 63 | 16| 
 | 20210604T22:30:19Z | Null | https://github.com/victormuller2007/backdoord | 0 | 0| 
