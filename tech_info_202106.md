@@ -84,16 +84,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210605T12:16:45Z | PoC for exploiting CVE-2020-29322 | https://github.com/JamesGeeee/CVE-2020-29322 | 0 | 0| 
+| 20210605T12:16:29Z | PoC for exploiting CVE-2021-29500 | https://github.com/JamesGeeee/CVE-2021-29500 | 0 | 0| 
+| 20210605T12:16:18Z | PoC for exploiting CVE-2020-29324 | https://github.com/JamesGeeee/CVE-2020-29324 | 0 | 0| 
+| 20210605T12:16:14Z | PoC for exploiting CVE-2021-22160 | https://github.com/JamesGeeee/CVE-2021-22160 | 0 | 0| 
+| 20210605T12:16:11Z | PoC for exploiting CVE-2021-31252 | https://github.com/JamesGeeee/CVE-2021-31252 | 0 | 0| 
 | 20210605T12:16:07Z | PoC for exploiting CVE-2021-31251 | https://github.com/JamesGeeee/CVE-2021-31251 | 0 | 0| 
-| 20210605T12:16:05Z | PoC for exploiting CVE-2021-31252 | https://github.com/JamesGeeee/CVE-2021-31252 | 0 | 0| 
 | 20210605T12:16:04Z | PoC for exploiting CVE-2021-31250 | https://github.com/JamesGeeee/CVE-2021-31250 | 0 | 0| 
 | 20210605T12:16:01Z | PoC for exploiting CVE-2021-31249 | https://github.com/JamesGeeee/CVE-2021-31249 | 0 | 0| 
 | 20210605T12:15:39Z | PoC for exploiting CVE-2021-26928 | https://github.com/JamesGeeee/CVE-2021-26928 | 0 | 0| 
 | 20210605T12:15:04Z | PoC for exploiting CVE-2021-32641 | https://github.com/JamesGeeee/CVE-2021-32641 | 0 | 0| 
-| 20210605T12:14:59Z | PoC for exploiting CVE-2021-32638 | https://github.com/JamesGeeee/CVE-2021-32638 | 0 | 0| 
-| 20210605T12:14:56Z | PoC for exploiting CVE-2020-13956 | https://github.com/JamesGeeee/CVE-2020-13956 | 0 | 0| 
-| 20210605T12:14:53Z | PoC for exploiting CVE-2021-22207 | https://github.com/JamesGeeee/CVE-2021-22207 | 0 | 0| 
-| 20210605T12:14:50Z | PoC for exploiting CVE-2021-25217 | https://github.com/JamesGeeee/CVE-2021-25217 | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -114,16 +114,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210605T01:47:38Z | Basic fuzzing input mutator. | https://github.com/00xc/cmutator | 1 | 0| 
-| 20210605T01:43:56Z | Null | https://github.com/my000own000files1/Fuzzy | 0 | 0| 
-| 20210605T00:53:11Z | 99minutos coverage maps | https://github.com/99minutos/fuzzy-journey | 0 | 0| 
-| 20210604T23:14:57Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
-| 20210604T22:13:39Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 870 | 92| 
-| 20210604T22:09:47Z | 🤖 Repeat tests. Repeat tests. Repeat tests. | https://github.com/ehmicky/test-each | 92 | 2| 
-| 20210604T21:57:03Z | Fuzzy Decision Tree implementation for Python | https://github.com/balins/fuzzytree | 0 | 0| 
-| 20210604T21:55:37Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 75 | 19| 
-| 20210604T21:37:29Z | fuzzy C-Means clustering project, AmirKabir AI course spring 2021 | https://github.com/hamidrezaHemati/fuzzy-C-Means-Clustering | 0 | 0| 
-| 20210604T21:30:08Z | Implementation of %Dostrajanie klasyfikatora FUZZY LOGIC z użyciem procedury PSO.%  in python | https://github.com/wujekstaszek/MIO_2021_PSO_FUZZY_LOGIC | 0 | 0| 
+| 20210605T12:15:17Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 8 | 5| 
+| 20210605T12:14:58Z | DOM fuzzer | https://github.com/mevid93/domzzer | 0 | 0| 
+| 20210605T12:14:26Z | Null | https://github.com/Sghosh1999/fuzzy_search | 1 | 0| 
+| 20210605T11:58:29Z | Here%s the original code and document for this paper. | https://github.com/aaronfeng369/FengLab_Fuzzy_C-means_method_for_breast_tumor_segmentation | 0 | 0| 
+| 20210605T11:50:42Z | The Art of Fuzzing | https://github.com/M0dred/fuzzingPaper | 0 | 0| 
+| 20210605T11:47:58Z | Thin interface for libFuzzer, an in-process, coverage-guided, evolutionary fuzzing engine. | https://github.com/planetis-m/libfuzzer | 3 | 0| 
+| 20210605T11:23:19Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 871 | 142| 
+| 20210605T10:49:16Z | Hyperbox classifier for pattern recognition | https://github.com/kondal461/Fuzzy-Min-Max-Neural-Networks | 0 | 0| 
+| 20210605T10:39:46Z | Null | https://github.com/AdaLogics/go-fuzz-headers | 2 | 1| 
+| 20210605T10:18:50Z | 1 | https://github.com/cayomitch79/fuzzy-train | 0 | 0| 
 
 
 
