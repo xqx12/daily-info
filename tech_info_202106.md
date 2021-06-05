@@ -83,7 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210605T00:24:24Z | Null | https://github.com/defiexploit/exploit | 0 | 0| 
+| 20210605T00:25:53Z | Null | https://github.com/defiexploit/exploit | 0 | 0| 
 | 20210605T00:22:22Z | A number of exploits and tools I%ve written for CVEs accredited to Marshall Whittaker/oxagast | https://github.com/oxagast/oxasploits | 6 | 1| 
 | 20210605T00:13:55Z | For keir exploit | https://github.com/0Lirex/Keir | 0 | 0| 
 | 20210605T00:02:50Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
