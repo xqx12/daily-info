@@ -18,16 +18,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210605T12:18:15Z | CVE-2021-29417 | PoC for exploiting CVE-2021-29417 | https://github.com/JamesGeeee/CVE-2021-29417 | gitjacker before 0.1.0 allows remote attackers to execute arbitrary code via a crafted .git directory because of directory traversal.| 
+| 20210605T12:18:13Z | CVE-2021-29272 | PoC for exploiting CVE-2021-29272 | https://github.com/JamesGeeee/CVE-2021-29272 | bluemonday before 1.0.5 allows XSS because certain Go lowercasing converts an uppercase Cyrillic character, defeating a protection mechanism against the %script% string.| 
+| 20210605T12:17:55Z | CVE-2021-33623 | PoC for exploiting CVE-2021-33623 | https://github.com/JamesGeeee/CVE-2021-33623 | The trim-newlines package before 3.0.1 and 4.x before 4.0.1 for Node.js has an issue related to regular expression denial-of-service (ReDoS) for the .end() method.| 
+| 20210605T12:17:51Z | CVE-2021-21989 | PoC for exploiting CVE-2021-21989 | https://github.com/JamesGeeee/CVE-2021-21989 | VMware Workstation (16.x prior to 16.1.2) and Horizon Client for Windows (5.x prior to 5.5.2) contain out-of-bounds read vulnerability in the Cortado ThinPrint component (TTC Parser). A malicious actor with access to a virtual machine or remote desktop may be able to exploit these issues leading to information disclosure from the TPView process running on the system where Workstation or Horizon Client for Windows is installed.| 
+| 20210605T12:17:47Z | CVE-2021-33587 | PoC for exploiting CVE-2021-33587 | https://github.com/JamesGeeee/CVE-2021-33587 | The css-what package before 5.0.1 for Node.js does not ensure that attribute parsing has Linear Time Complexity relative to the size of the input.| 
+| 20210605T12:17:44Z | CVE-2021-22358 | PoC for exploiting CVE-2021-22358 | https://github.com/JamesGeeee/CVE-2021-22358 | There is an insufficient input validation vulnerability in FusionCompute 8.0.0. Due to the input validation is insufficient, an attacker can exploit this vulnerability to upload any files to the device. Successful exploit may cause the service abnormal.| 
+| 20210605T12:17:41Z | CVE-2021-21987 | PoC for exploiting CVE-2021-21987 | https://github.com/JamesGeeee/CVE-2021-21987 | VMware Workstation (16.x prior to 16.1.2) and Horizon Client for Windows (5.x prior to 5.5.2) contain out-of-bounds read vulnerability in the Cortado ThinPrint component (TTC Parser). A malicious actor with access to a virtual machine or remote desktop may be able to exploit these issues leading to information disclosure from the TPView process running on the system where Workstation or Horizon Client for Windows is installed.| 
+| 20210605T12:17:23Z | CVE-2021-33558 | PoC for exploiting CVE-2021-33558 | https://github.com/JamesGeeee/CVE-2021-33558 | Boa 0.94.13 allows remote attackers to obtain sensitive information via a misconfiguration involving backup.html, preview.html, js/log.js, log.html, email.html, online-users.html, and config.js.| 
 | 20210605T12:17:04Z | CVE-2021-22359 | PoC for exploiting CVE-2021-22359 | https://github.com/JamesGeeee/CVE-2021-22359 | There is a denial of service vulnerability in the verisions V200R005C00SPC500 of S5700 and V200R005C00SPC500 of S6700. An attacker could exploit this vulnerability by sending specific message to a targeted device. Due to insufficient input validation, successful exploit can cause the service abnormal.| 
-| 20210605T12:17:00Z | CVE-2021-21988 | PoC for exploiting CVE-2021-21988 | https://github.com/JamesGeeee/CVE-2021-21988 | VMware Workstation (16.x prior to 16.1.2) and Horizon Client for Windows (5.x prior to 5.5.2) contain out-of-bounds read vulnerability in the Cortado ThinPrint component (JPEG2000 Parser). A malicious actor with access to a virtual machine or remote desktop may be able to exploit these issues leading to information disclosure from the TPView process running on the system where Workstation or Horizon Client for Windows is installed.| 
-| 20210605T12:16:57Z | CVE-2020-29323 | PoC for exploiting CVE-2020-29323 | https://github.com/JamesGeeee/CVE-2020-29323 | The D-link router DIR-885L-MFC 1.15b02, v1.21b05 is vulnerable to credentials disclosure in telnet service through decompilation of firmware, that allows an unauthenticated attacker to gain access to the firmware and to extract sensitive data.| 
-| 20210605T12:16:54Z | CVE-2020-29321 | PoC for exploiting CVE-2020-29321 | https://github.com/JamesGeeee/CVE-2020-29321 | The D-Link router DIR-868L 3.01 is vulnerable to credentials disclosure in telnet service through decompilation of firmware, that allows an unauthenticated attacker to gain access to the firmware and to extract sensitive data.| 
-| 20210605T12:16:50Z | CVE-2020-29322 | PoC for exploiting CVE-2020-29322 | https://github.com/JamesGeeee/CVE-2020-29322 | The D-Link router DIR-880L 1.07 is vulnerable to credentials disclosure in telnet service through decompilation of firmware, that allows an unauthenticated attacker to gain access to the firmware and to extract sensitive data.| 
-| 20210605T12:16:29Z | CVE-2021-29500 | PoC for exploiting CVE-2021-29500 | https://github.com/JamesGeeee/CVE-2021-29500 | | 
-| 20210605T12:16:18Z | CVE-2020-29324 | PoC for exploiting CVE-2020-29324 | https://github.com/JamesGeeee/CVE-2020-29324 | The DLink Router DIR-895L MFC v1.21b05 is vulnerable to credentials disclosure in telnet service through decompilation of firmware, that allows an unauthenticated attacker to gain access to the firmware and to extract sensitive data.| 
-| 20210605T12:16:14Z | CVE-2021-22160 | PoC for exploiting CVE-2021-22160 | https://github.com/JamesGeeee/CVE-2021-22160 | If Apache Pulsar is configured to authenticate clients using tokens based on JSON Web Tokens (JWT), the signature of the token is not validated if the algorithm of the presented token is set to %none%. This allows an attacker to connect to Pulsar instances as any user (incl. admins).| 
-| 20210605T12:16:11Z | CVE-2021-31252 | PoC for exploiting CVE-2021-31252 | https://github.com/JamesGeeee/CVE-2021-31252 | An open redirect vulnerability exists in BF-630, BF-450M, BF-430, BF-431, BF631-W, BF830-W, Webpass, and SEMAC devices from CHIYU Technology that can be exploited by sending a link that has a specially crafted URL to convince the user to click on it.| 
-| 20210605T12:16:07Z | CVE-2021-31251 | PoC for exploiting CVE-2021-31251 | https://github.com/JamesGeeee/CVE-2021-31251 | An authentication bypass in telnet server in BF-430 and BF431 232/422 TCP/IP Converter, BF-450M and SEMAC from CHIYU Technology Inc allows obtaining a privileged connection with the target device by supplying a specially malformed request and an attacker may force the remote telnet server to believe that the user has already authenticated.| 
+| 20210605T12:17:00Z | CVE-2021-21988 | PoC for exploiting CVE-2021-21988 | https://github.com/JamesGeeee/CVE-2021-21988 | | 
 
 
 # klee on Github 推荐
@@ -47,16 +47,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210605T12:17:44Z | PoC for exploiting CVE-2021-22358 | https://github.com/JamesGeeee/CVE-2021-22358 | 0 | 0| 
-| 20210605T12:17:43Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 3703 | 544| 
-| 20210605T12:17:42Z | PoC for exploiting CVE-2021-33587 | https://github.com/JamesGeeee/CVE-2021-33587 | 0 | 0| 
-| 20210605T12:17:41Z | PoC for exploiting CVE-2021-21987 | https://github.com/JamesGeeee/CVE-2021-21987 | 0 | 0| 
-| 20210605T12:17:23Z | PoC for exploiting CVE-2021-33558 | https://github.com/JamesGeeee/CVE-2021-33558 | 0 | 0| 
-| 20210605T12:17:04Z | PoC for exploiting CVE-2021-22359 | https://github.com/JamesGeeee/CVE-2021-22359 | 0 | 0| 
-| 20210605T12:17:00Z | PoC for exploiting CVE-2021-21988 | https://github.com/JamesGeeee/CVE-2021-21988 | 0 | 0| 
-| 20210605T12:16:57Z | PoC for exploiting CVE-2020-29323 | https://github.com/JamesGeeee/CVE-2020-29323 | 0 | 0| 
-| 20210605T12:16:54Z | PoC for exploiting CVE-2020-29321 | https://github.com/JamesGeeee/CVE-2020-29321 | 0 | 0| 
-| 20210605T12:16:50Z | PoC for exploiting CVE-2020-29322 | https://github.com/JamesGeeee/CVE-2020-29322 | 0 | 0| 
+| 20210605T12:18:33Z | PoC for exploiting CVE-2021-3448 | https://github.com/JamesGeeee/CVE-2021-3448 | 0 | 0| 
+| 20210605T12:18:32Z | PoC for exploiting CVE-2021-3393 | https://github.com/JamesGeeee/CVE-2021-3393 | 0 | 0| 
+| 20210605T12:18:29Z | PoC for exploiting CVE-2021-30123 | https://github.com/JamesGeeee/CVE-2021-30123 | 0 | 0| 
+| 20210605T12:18:26Z | PoC for exploiting CVE-2021-29642 | https://github.com/JamesGeeee/CVE-2021-29642 | 0 | 0| 
+| 20210605T12:18:22Z | PoC for exploiting CVE-2021-29271 | https://github.com/JamesGeeee/CVE-2021-29271 | 0 | 0| 
+| 20210605T12:18:19Z | PoC for exploiting CVE-2021-29272 | https://github.com/JamesGeeee/CVE-2021-29272 | 0 | 0| 
+| 20210605T12:18:15Z | PoC for exploiting CVE-2021-29417 | https://github.com/JamesGeeee/CVE-2021-29417 | 0 | 0| 
+| 20210605T12:18:00Z | PoC for exploiting CVE-2015-5232 | https://github.com/JamesGeeee/CVE-2015-5232 | 0 | 0| 
+| 20210605T12:17:55Z | PoC for exploiting CVE-2021-33623 | https://github.com/JamesGeeee/CVE-2021-33623 | 0 | 0| 
+| 20210605T12:17:51Z | PoC for exploiting CVE-2021-21989 | https://github.com/JamesGeeee/CVE-2021-21989 | 0 | 0| 
 
 
 # backdoor on Github 推荐
