@@ -113,6 +113,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210605T00:53:11Z | 99minutos coverage maps | https://github.com/99minutos/fuzzy-journey | 0 | 0| 
 | 20210604T23:14:57Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210604T23:03:17Z | Basic fuzzing input mutator. | https://github.com/00xc/cmutator | 0 | 0| 
 | 20210604T22:13:39Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 870 | 92| 
@@ -122,7 +123,6 @@
 | 20210604T21:37:29Z | fuzzy C-Means clustering project, AmirKabir AI course spring 2021 | https://github.com/hamidrezaHemati/fuzzy-C-Means-Clustering | 0 | 0| 
 | 20210604T21:30:08Z | Implementation of %Dostrajanie klasyfikatora FUZZY LOGIC z użyciem procedury PSO.%  in python | https://github.com/wujekstaszek/MIO_2021_PSO_FUZZY_LOGIC | 0 | 0| 
 | 20210604T21:24:56Z | Null | https://github.com/BoySanic/FuzzyDungeonCrack | 0 | 0| 
-| 20210604T20:55:52Z | Null | https://github.com/MazenH24/two_layer_fuzzy_logic_system | 0 | 0| 
 
 
 
