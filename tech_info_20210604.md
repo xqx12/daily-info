@@ -64,8 +64,8 @@
 | 20210604T22:34:04Z | Null | https://github.com/HarrysExploit/Harrys-exploit | 0 | 0| 
 | 20210604T22:30:02Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 11 | 3| 
 | 20210604T22:27:16Z | We exploit to the full the capabilities of distributed processing using a Distributed Linear Support Vector Machine to retrieve, train the model and predict a medical dataset. | https://github.com/Arnaldgg7/SparkML_Distributed_Machine_Learning_Model | 0 | 0| 
-| 20210604T22:21:45Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9529 | 1541| 
 | 20210604T21:55:59Z | BananaCannon is a series of exploit proof of concepts for MonkeyType.com, a popular typing test web application with a growing community. This repository contains XSS exploits and a python PoC to spoof leaderboard scores | https://github.com/tcbutler320/BananaCannon | 2 | 1| 
+| 20210604T21:51:03Z | 7.5X Host Exploit - Jun 03,2021 Exploit (Imitate legit network traffic before exploit) | https://github.com/Night-King-Host/75XV3b6 | 0 | 0| 
 
 
 # backdoor on Github 推荐
