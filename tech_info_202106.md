@@ -47,9 +47,9 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210605T12:21:10Z | CVE-2021-30513 | PoC for exploiting CVE-2021-30513 | https://github.com/JamesGeeee/CVE-2021-30513 | Type confusion in V8 in Google Chrome prior to 90.0.4430.212 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.| 
-| 20210605T12:20:47Z | CVE-2021-30510 | PoC for exploiting CVE-2021-30510 | https://github.com/JamesGeeee/CVE-2021-30510 | Use after free in Aura in Google Chrome prior to 90.0.4430.212 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.| 
+| 20210605T12:20:47Z | CVE-2021-30510 | PoC for exploiting CVE-2021-30510 | https://github.com/JamesGeeee/CVE-2021-30510 | | 
 | 20210605T12:20:25Z | CVE-2021-22900 | PoC for exploiting CVE-2021-22900 | https://github.com/JamesGeeee/CVE-2021-22900 | A vulnerability allowed multiple unrestricted uploads in Pulse Connect Secure before 9.1R11.4 that could lead to an authenticated administrator to perform a file write via a maliciously crafted archive upload in the administrator web interface.| 
-| 20210605T12:20:22Z | CVE-2021-28453 | PoC for exploiting CVE-2021-28453 | https://github.com/JamesGeeee/CVE-2021-28453 | | 
+| 20210605T12:20:22Z | CVE-2021-28453 | PoC for exploiting CVE-2021-28453 | https://github.com/JamesGeeee/CVE-2021-28453 | Microsoft Word Remote Code Execution Vulnerability| 
 | 20210605T12:20:18Z | CVE-2021-28326 | PoC for exploiting CVE-2021-28326 | https://github.com/JamesGeeee/CVE-2021-28326 | Windows AppX Deployment Server Denial of Service Vulnerability| 
 | 20210605T12:20:15Z | CVE-2021-20585 | PoC for exploiting CVE-2021-20585 | https://github.com/JamesGeeee/CVE-2021-20585 | IBM Security Verify Access 20.07 could disclose sensitive information in HTTP server headers that could be used in further attacks against the system. IBM X-Force ID: 199398.| 
 | 20210605T12:20:11Z | CVE-2021-25326 | PoC for exploiting CVE-2021-25326 | https://github.com/JamesGeeee/CVE-2021-25326 | Skyworth Digital Technology RN510 V.3.1.0.4 is affected by an incorrect access control vulnerability in/cgi-bin/test_version.asp. If Wi-Fi is connected but an unauthenticated user visits a URL, the SSID password and web UI password may be disclosed.| 
@@ -114,12 +114,12 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210605T12:33:49Z | Thin interface for libFuzzer, an in-process, coverage-guided, evolutionary fuzzing engine. | https://github.com/planetis-m/libfuzzer | 3 | 0| 
 | 20210605T12:21:19Z | DOM fuzzer | https://github.com/mevid93/domzzer | 0 | 0| 
 | 20210605T12:15:17Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 8 | 5| 
 | 20210605T12:14:26Z | Null | https://github.com/Sghosh1999/fuzzy_search | 1 | 0| 
 | 20210605T11:58:29Z | Here%s the original code and document for this paper. | https://github.com/aaronfeng369/FengLab_Fuzzy_C-means_method_for_breast_tumor_segmentation | 0 | 0| 
 | 20210605T11:50:42Z | The Art of Fuzzing | https://github.com/M0dred/fuzzingPaper | 0 | 0| 
-| 20210605T11:47:58Z | Thin interface for libFuzzer, an in-process, coverage-guided, evolutionary fuzzing engine. | https://github.com/planetis-m/libfuzzer | 3 | 0| 
 | 20210605T11:23:19Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 871 | 142| 
 | 20210605T10:49:16Z | Hyperbox classifier for pattern recognition | https://github.com/kondal461/Fuzzy-Min-Max-Neural-Networks | 0 | 0| 
 | 20210605T10:39:46Z | Null | https://github.com/AdaLogics/go-fuzz-headers | 2 | 1| 
