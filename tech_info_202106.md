@@ -83,6 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210605T00:51:25Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 17 | 11| 
 | 20210605T00:49:29Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9530 | 1541| 
 | 20210605T00:37:32Z | A number of exploits and tools I%ve written for CVEs accredited to Marshall Whittaker/oxagast | https://github.com/oxagast/oxasploits | 6 | 1| 
 | 20210605T00:26:56Z | Null | https://github.com/defiexploit/exploit | 0 | 0| 
@@ -92,7 +93,6 @@
 | 20210604T23:54:48Z | Portable, NULL-free, Position-Independent (PIC) and highly optimized shellcodes for exploit development. | https://github.com/cwaazywabbit/shellcodes | 0 | 0| 
 | 20210604T22:43:47Z | NTFS exploit delivery with randomized activation and time bomb. | https://github.com/hafiz-kamilin/exercise_ntfsExploiter | 0 | 0| 
 | 20210604T22:40:35Z | Null | https://github.com/zYan666/Demon-Exploit | 0 | 0| 
-| 20210604T22:36:27Z | Null | https://github.com/HarrysExploit/Harrys-exploit-setup | 0 | 0| 
 
 
 # backdoor on Github 推荐
