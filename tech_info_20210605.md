@@ -18,16 +18,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210605T12:18:15Z | CVE-2021-29417 | PoC for exploiting CVE-2021-29417 | https://github.com/JamesGeeee/CVE-2021-29417 | gitjacker before 0.1.0 allows remote attackers to execute arbitrary code via a crafted .git directory because of directory traversal.| 
-| 20210605T12:18:13Z | CVE-2021-29272 | PoC for exploiting CVE-2021-29272 | https://github.com/JamesGeeee/CVE-2021-29272 | bluemonday before 1.0.5 allows XSS because certain Go lowercasing converts an uppercase Cyrillic character, defeating a protection mechanism against the %script% string.| 
-| 20210605T12:17:55Z | CVE-2021-33623 | PoC for exploiting CVE-2021-33623 | https://github.com/JamesGeeee/CVE-2021-33623 | The trim-newlines package before 3.0.1 and 4.x before 4.0.1 for Node.js has an issue related to regular expression denial-of-service (ReDoS) for the .end() method.| 
-| 20210605T12:17:51Z | CVE-2021-21989 | PoC for exploiting CVE-2021-21989 | https://github.com/JamesGeeee/CVE-2021-21989 | VMware Workstation (16.x prior to 16.1.2) and Horizon Client for Windows (5.x prior to 5.5.2) contain out-of-bounds read vulnerability in the Cortado ThinPrint component (TTC Parser). A malicious actor with access to a virtual machine or remote desktop may be able to exploit these issues leading to information disclosure from the TPView process running on the system where Workstation or Horizon Client for Windows is installed.| 
-| 20210605T12:17:47Z | CVE-2021-33587 | PoC for exploiting CVE-2021-33587 | https://github.com/JamesGeeee/CVE-2021-33587 | The css-what package before 5.0.1 for Node.js does not ensure that attribute parsing has Linear Time Complexity relative to the size of the input.| 
-| 20210605T12:17:44Z | CVE-2021-22358 | PoC for exploiting CVE-2021-22358 | https://github.com/JamesGeeee/CVE-2021-22358 | There is an insufficient input validation vulnerability in FusionCompute 8.0.0. Due to the input validation is insufficient, an attacker can exploit this vulnerability to upload any files to the device. Successful exploit may cause the service abnormal.| 
-| 20210605T12:17:41Z | CVE-2021-21987 | PoC for exploiting CVE-2021-21987 | https://github.com/JamesGeeee/CVE-2021-21987 | VMware Workstation (16.x prior to 16.1.2) and Horizon Client for Windows (5.x prior to 5.5.2) contain out-of-bounds read vulnerability in the Cortado ThinPrint component (TTC Parser). A malicious actor with access to a virtual machine or remote desktop may be able to exploit these issues leading to information disclosure from the TPView process running on the system where Workstation or Horizon Client for Windows is installed.| 
-| 20210605T12:17:23Z | CVE-2021-33558 | PoC for exploiting CVE-2021-33558 | https://github.com/JamesGeeee/CVE-2021-33558 | Boa 0.94.13 allows remote attackers to obtain sensitive information via a misconfiguration involving backup.html, preview.html, js/log.js, log.html, email.html, online-users.html, and config.js.| 
-| 20210605T12:17:04Z | CVE-2021-22359 | PoC for exploiting CVE-2021-22359 | https://github.com/JamesGeeee/CVE-2021-22359 | There is a denial of service vulnerability in the verisions V200R005C00SPC500 of S5700 and V200R005C00SPC500 of S6700. An attacker could exploit this vulnerability by sending specific message to a targeted device. Due to insufficient input validation, successful exploit can cause the service abnormal.| 
-| 20210605T12:17:00Z | CVE-2021-21988 | PoC for exploiting CVE-2021-21988 | https://github.com/JamesGeeee/CVE-2021-21988 | | 
+| 20210605T12:19:05Z | CVE-2021-25328 | PoC for exploiting CVE-2021-25328 | https://github.com/JamesGeeee/CVE-2021-25328 | Skyworth Digital Technology RN510 V.3.1.0.4 RN510 V.3.1.0.4 contains a buffer overflow vulnerability in /cgi-bin/app-staticIP.asp. An authenticated attacker can send a specially crafted request to endpoint which can lead to a denial of service (DoS) or possible code execution on the device.| 
+| 20210605T12:19:04Z | CVE-2021-25327 | PoC for exploiting CVE-2021-25327 | https://github.com/JamesGeeee/CVE-2021-25327 | Skyworth Digital Technology RN510 V.3.1.0.4 contains a cross-site request forgery (CSRF) vulnerability in /cgi-bin/net-routeadd.asp and /cgi-bin/sec-urlfilter.asp. Missing CSRF protection in devices can lead to XSRF, as the above pages are vulnerable to cross-site scripting (XSS).| 
+| 20210605T12:19:02Z | CVE-2020-13558 | PoC for exploiting CVE-2020-13558 | https://github.com/JamesGeeee/CVE-2020-13558 | A code execution vulnerability exists in the AudioSourceProviderGStreamer functionality of Webkit WebKitGTK 2.30.1. A specially crafted web page can lead to a use after free.| 
+| 20210605T12:18:58Z | CVE-2021-23983 | PoC for exploiting CVE-2021-23983 | https://github.com/JamesGeeee/CVE-2021-23983 | By causing a transition on a parent node by removing a CSS rule, an invalid property for a marker could have been applied, resulting in memory corruption and a potentially exploitable crash. This vulnerability affects Firefox < 87.| 
+| 20210605T12:18:54Z | CVE-2021-30159 | PoC for exploiting CVE-2021-30159 | https://github.com/JamesGeeee/CVE-2021-30159 | An issue was discovered in MediaWiki before 1.31.12 and 1.32.x through 1.35.x before 1.35.2. Users can bypass intended restrictions on deleting pages in certain %fast double move% situations. MovePage::isValidMoveTarget() uses FOR UPDATE, but it%s only called if Title::getArticleID() returns non-zero with no special flags. Next, MovePage::moveToInternal() will delete the page if getArticleID(READ_LATEST) is non-zero. Therefore, if the page is missing in the replica DB, isValidMove() will return true, and then moveToInternal() will unconditionally delete the page if it can be found in the master.| 
+| 20210605T12:18:51Z | CVE-2021-30178 | PoC for exploiting CVE-2021-30178 | https://github.com/JamesGeeee/CVE-2021-30178 | An issue was discovered in the Linux kernel through 5.11.11. synic_get in arch/x86/kvm/hyperv.c has a NULL pointer dereference for certain accesses to the SynIC Hyper-V context, aka CID-919f4ebc5987.| 
+| 20210605T12:18:48Z | CVE-2021-3393 | PoC for exploiting CVE-2021-3393 | https://github.com/JamesGeeee/CVE-2021-3393 | An information leak was discovered in postgresql in versions before 13.2, before 12.6 and before 11.11. A user having UPDATE permission but not SELECT permission to a particular column could craft queries which, under some circumstances, might disclose values from that column in error messages. An attacker could use this flaw to obtain information stored in a column they are allowed to write but not read.| 
+| 20210605T12:18:33Z | CVE-2021-3448 | PoC for exploiting CVE-2021-3448 | https://github.com/JamesGeeee/CVE-2021-3448 | A flaw was found in dnsmasq in versions before 2.85. When configured to use a specific server for a given network interface, dnsmasq uses a fixed port while forwarding queries. An attacker on the network, able to find the outgoing port used by dnsmasq, only needs to guess the random transmission ID to forge a reply and get it accepted by dnsmasq. This flaw makes a DNS Cache Poisoning attack much easier. The highest threat from this vulnerability is to data integrity.| 
+| 20210605T12:18:29Z | CVE-2021-30123 | PoC for exploiting CVE-2021-30123 | https://github.com/JamesGeeee/CVE-2021-30123 | FFmpeg <=4.3 contains a buffer overflow vulnerability in libavcodec through a crafted file that may lead to remote code execution.| 
+| 20210605T12:18:26Z | CVE-2021-29642 | PoC for exploiting CVE-2021-29642 | https://github.com/JamesGeeee/CVE-2021-29642 | | 
 
 
 # klee on Github 推荐
@@ -47,16 +47,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210605T12:18:33Z | PoC for exploiting CVE-2021-3448 | https://github.com/JamesGeeee/CVE-2021-3448 | 0 | 0| 
-| 20210605T12:18:32Z | PoC for exploiting CVE-2021-3393 | https://github.com/JamesGeeee/CVE-2021-3393 | 0 | 0| 
-| 20210605T12:18:29Z | PoC for exploiting CVE-2021-30123 | https://github.com/JamesGeeee/CVE-2021-30123 | 0 | 0| 
-| 20210605T12:18:26Z | PoC for exploiting CVE-2021-29642 | https://github.com/JamesGeeee/CVE-2021-29642 | 0 | 0| 
-| 20210605T12:18:22Z | PoC for exploiting CVE-2021-29271 | https://github.com/JamesGeeee/CVE-2021-29271 | 0 | 0| 
-| 20210605T12:18:19Z | PoC for exploiting CVE-2021-29272 | https://github.com/JamesGeeee/CVE-2021-29272 | 0 | 0| 
-| 20210605T12:18:15Z | PoC for exploiting CVE-2021-29417 | https://github.com/JamesGeeee/CVE-2021-29417 | 0 | 0| 
-| 20210605T12:18:00Z | PoC for exploiting CVE-2015-5232 | https://github.com/JamesGeeee/CVE-2015-5232 | 0 | 0| 
-| 20210605T12:17:55Z | PoC for exploiting CVE-2021-33623 | https://github.com/JamesGeeee/CVE-2021-33623 | 0 | 0| 
-| 20210605T12:17:51Z | PoC for exploiting CVE-2021-21989 | https://github.com/JamesGeeee/CVE-2021-21989 | 0 | 0| 
+| 20210605T12:19:43Z | PoC for exploiting CVE-2021-28242 | https://github.com/JamesGeeee/CVE-2021-28242 | 0 | 0| 
+| 20210605T12:19:35Z | PoC for exploiting CVE-2021-23985 | https://github.com/JamesGeeee/CVE-2021-23985 | 0 | 0| 
+| 20210605T12:19:31Z | PoC for exploiting CVE-2021-23987 | https://github.com/JamesGeeee/CVE-2021-23987 | 0 | 0| 
+| 20210605T12:19:28Z | PoC for exploiting CVE-2021-23986 | https://github.com/JamesGeeee/CVE-2021-23986 | 0 | 0| 
+| 20210605T12:19:23Z | PoC for exploiting CVE-2021-23984 | https://github.com/JamesGeeee/CVE-2021-23984 | 0 | 0| 
+| 20210605T12:19:20Z | PoC for exploiting CVE-2021-25327 | https://github.com/JamesGeeee/CVE-2021-25327 | 0 | 0| 
+| 20210605T12:19:05Z | PoC for exploiting CVE-2021-25328 | https://github.com/JamesGeeee/CVE-2021-25328 | 0 | 0| 
+| 20210605T12:19:02Z | PoC for exploiting CVE-2020-13558 | https://github.com/JamesGeeee/CVE-2020-13558 | 0 | 0| 
+| 20210605T12:18:58Z | PoC for exploiting CVE-2021-23983 | https://github.com/JamesGeeee/CVE-2021-23983 | 0 | 0| 
+| 20210605T12:18:54Z | PoC for exploiting CVE-2021-30159 | https://github.com/JamesGeeee/CVE-2021-30159 | 0 | 0| 
 
 
 # backdoor on Github 推荐
