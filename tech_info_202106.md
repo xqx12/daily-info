@@ -83,8 +83,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210605T00:00:04Z | Null | https://github.com/defiexploit/exploit | 0 | 0| 
-| 20210604T23:57:34Z | A number of exploits and tools I%ve written for CVEs accredited to Marshall Whittaker/oxagast | https://github.com/oxagast/oxasploits | 6 | 1| 
+| 20210605T00:01:57Z | Null | https://github.com/defiexploit/exploit | 0 | 0| 
+| 20210605T00:01:06Z | A number of exploits and tools I%ve written for CVEs accredited to Marshall Whittaker/oxagast | https://github.com/oxagast/oxasploits | 6 | 1| 
 | 20210604T23:56:04Z | Organizes rp++ output to make finding good gadgets faster | https://github.com/bmdyy/ropz | 0 | 0| 
 | 20210604T23:54:48Z | Portable, NULL-free, Position-Independent (PIC) and highly optimized shellcodes for exploit development. | https://github.com/cwaazywabbit/shellcodes | 0 | 0| 
 | 20210604T23:02:47Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 

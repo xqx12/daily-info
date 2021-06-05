@@ -57,7 +57,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210604T23:57:34Z | A number of exploits and tools I%ve written for CVEs accredited to Marshall Whittaker/oxagast | https://github.com/oxagast/oxasploits | 6 | 1| 
 | 20210604T23:56:04Z | Organizes rp++ output to make finding good gadgets faster | https://github.com/bmdyy/ropz | 0 | 0| 
 | 20210604T23:54:48Z | Portable, NULL-free, Position-Independent (PIC) and highly optimized shellcodes for exploit development. | https://github.com/cwaazywabbit/shellcodes | 0 | 0| 
 | 20210604T23:02:47Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
@@ -67,6 +66,7 @@
 | 20210604T22:34:04Z | Null | https://github.com/HarrysExploit/Harrys-exploit | 0 | 0| 
 | 20210604T22:30:02Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 11 | 3| 
 | 20210604T22:27:16Z | We exploit to the full the capabilities of distributed processing using a Distributed Linear Support Vector Machine to retrieve, train the model and predict a medical dataset. | https://github.com/Arnaldgg7/SparkML_Distributed_Machine_Learning_Model | 0 | 0| 
+| 20210604T22:21:45Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9529 | 1541| 
 
 
 # backdoor on Github 推荐
