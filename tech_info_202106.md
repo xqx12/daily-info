@@ -46,13 +46,13 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210605T00:11:24Z | cve-2021-21985 | cve-2021-21985 exploit | https://github.com/xnianq/cve-2021-21985_exp | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
-| 20210604T23:23:37Z | CVE-2021-21985 | Null | https://github.com/alt3kx/CVE-2021-21985_PoC | | 
+| 20210604T23:23:37Z | CVE-2021-21985 | Null | https://github.com/alt3kx/CVE-2021-21985_PoC | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
 | 20210604T17:32:33Z | CVE-2021-21985 | CVE-2021-21985 VMware vCenter Server远程代码执行漏洞 EXP | https://github.com/r0ckysec/CVE-2021-21985 | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
 | 20210604T16:59:25Z | CVE-2021-29155 | Proof of Concept CVE-2021-29155  | https://github.com/Kakashiiiiy/CVE-2021-29155 | An issue was discovered in the Linux kernel through 5.11.x. kernel/bpf/verifier.c performs undesirable out-of-bounds speculation on pointer arithmetic, leading to side-channel attacks that defeat Spectre mitigations and obtain sensitive information from kernel memory. Specifically, for sequences of pointer arithmetic operations, the pointer modification performed by the first operation is not correctly accounted for when restricting subsequent operations.| 
 | 20210604T15:46:07Z | CVE-2021-28476 | PoC for CVE-2021-28476 a guest-to-host "Hyper-V Remote Code Execution Vulnerability" in vmswitch.sys. | https://github.com/0vercl0k/CVE-2021-28476 | Hyper-V Remote Code Execution Vulnerability| 
 | 20210604T14:44:35Z | CVE-2021-27965 | stack based buffer overflow in MsIo64.sys, Proof of Concept Local Privilege Escalation to nt authority/system | https://github.com/mathisvickie/CVE-2021-27965 | The MsIo64.sys driver before 1.1.19.1016 in MSI Dragon Center before 2.0.98.0 has a buffer overflow that allows privilege escalation via a crafted 0x80102040, 0x80102044, 0x80102050, or 0x80102054 IOCTL request.| 
 | 20210604T11:26:42Z | CVE-2021-29447 | Wordpress XXE injection 구축 자동화 및 PoC  | https://github.com/dnr6419/CVE-2021-29447 | Wordpress is an open source CMS. A user with the ability to upload files (like an Author) can exploit an XML parsing issue in the Media Library leading to XXE attacks. This requires WordPress installation to be using PHP 8. Access to internal files is possible in a successful XXE attack. This has been patched in WordPress version 5.7.1, along with the older affected versions via a minor release. We strongly recommend you keep auto-updates enabled.| 
-| 20210604T05:57:15Z | CVE-2021-2173 | CVE-2021-2173 | https://github.com/emad-almousa/CVE-2021-2173 | | 
+| 20210604T05:57:15Z | CVE-2021-2173 | CVE-2021-2173 | https://github.com/emad-almousa/CVE-2021-2173 | Vulnerability in the Recovery component of Oracle Database Server. Supported versions that are affected are 12.1.0.2, 12.2.0.1, 18c and 19c. Easily exploitable vulnerability allows high privileged attacker having DBA Level Account privilege with network access via Oracle Net to compromise Recovery. While the vulnerability is in Recovery, attacks may significantly impact additional products. Successful attacks of this vulnerability can result in unauthorized read access to a subset of Recovery accessible data. CVSS 3.1 Base Score 4.1 (Confidentiality impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:C/C:L/I:N/A:N).| 
 | 20210604T01:53:35Z | CVE-2021-21985 | CVE-2021-21985 vmware 6.7-9.8 RCE | https://github.com/daedalus/CVE-2021-21985 | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
 | 20210603T17:32:02Z | CVE-2021-21551 | arbitrary kernel read/write in dbutil_2_3.sys, Proof of Concept Local Privilege Escalation to nt authority/system | https://github.com/mathisvickie/CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
 
@@ -83,8 +83,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210605T00:24:24Z | Null | https://github.com/defiexploit/exploit | 0 | 0| 
 | 20210605T00:22:22Z | A number of exploits and tools I%ve written for CVEs accredited to Marshall Whittaker/oxagast | https://github.com/oxagast/oxasploits | 6 | 1| 
-| 20210605T00:19:47Z | Null | https://github.com/defiexploit/exploit | 0 | 0| 
 | 20210605T00:13:55Z | For keir exploit | https://github.com/0Lirex/Keir | 0 | 0| 
 | 20210605T00:02:50Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210604T23:56:04Z | Organizes rp++ output to make finding good gadgets faster | https://github.com/bmdyy/ropz | 0 | 0| 
@@ -113,16 +113,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210604T13:00:14Z | Thin interface for libFuzzer, an in-process, coverage-guided, evolutionary fuzzing engine. | https://github.com/planetis-m/libfuzzer | 1 | 0| 
-| 20210604T12:53:02Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6354 | 1288| 
-| 20210604T12:39:45Z | Fuzzing dictionaries for afl-fuzz/LibFuzzer 可能是目前最全面的开源模糊测试字典集合了~ | https://github.com/salmonx/dictionaries | 13 | 0| 
-| 20210604T12:31:55Z | VMI Kernel Fuzzer for Xen Project - VM forking, VMI & AFL integration demo | https://github.com/intel/kernel-fuzzer-for-xen-project | 318 | 45| 
-| 20210604T12:07:05Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 441 | 38| 
-| 20210604T11:50:38Z | Null | https://github.com/dechjo/fuzzing-experiments | 0 | 0| 
-| 20210604T11:30:34Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
-| 20210604T10:20:31Z | This is a simple implementation of Fuzzy c-mean and Hard c-mean clustring.  | https://github.com/GhazalTajik1998/Hard-and-Fuzzy-C-mean-clustring | 0 | 0| 
-| 20210604T09:27:30Z | Null | https://github.com/ahi-hfg/fuzzy-dollop | 0 | 0| 
-| 20210604T09:13:53Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3532 | 822| 
+| 20210604T23:14:57Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
+| 20210604T23:03:17Z | Basic fuzzing input mutator. | https://github.com/00xc/cmutator | 0 | 0| 
+| 20210604T22:13:39Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 870 | 92| 
+| 20210604T22:09:47Z | 🤖 Repeat tests. Repeat tests. Repeat tests. | https://github.com/ehmicky/test-each | 92 | 2| 
+| 20210604T21:57:03Z | Fuzzy Decision Tree implementation for Python | https://github.com/balins/fuzzytree | 0 | 0| 
+| 20210604T21:55:37Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 75 | 19| 
+| 20210604T21:37:29Z | fuzzy C-Means clustering project, AmirKabir AI course spring 2021 | https://github.com/hamidrezaHemati/fuzzy-C-Means-Clustering | 0 | 0| 
+| 20210604T21:30:08Z | Implementation of %Dostrajanie klasyfikatora FUZZY LOGIC z użyciem procedury PSO.%  in python | https://github.com/wujekstaszek/MIO_2021_PSO_FUZZY_LOGIC | 0 | 0| 
+| 20210604T21:24:56Z | Null | https://github.com/BoySanic/FuzzyDungeonCrack | 0 | 0| 
+| 20210604T20:55:52Z | Null | https://github.com/MazenH24/two_layer_fuzzy_logic_system | 0 | 0| 
 
 
 
