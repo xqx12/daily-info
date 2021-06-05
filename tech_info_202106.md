@@ -49,7 +49,7 @@
 | 20210605T12:21:10Z | CVE-2021-30513 | PoC for exploiting CVE-2021-30513 | https://github.com/JamesGeeee/CVE-2021-30513 | Type confusion in V8 in Google Chrome prior to 90.0.4430.212 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.| 
 | 20210605T12:20:47Z | CVE-2021-30510 | PoC for exploiting CVE-2021-30510 | https://github.com/JamesGeeee/CVE-2021-30510 | Use after free in Aura in Google Chrome prior to 90.0.4430.212 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.| 
 | 20210605T12:20:25Z | CVE-2021-22900 | PoC for exploiting CVE-2021-22900 | https://github.com/JamesGeeee/CVE-2021-22900 | A vulnerability allowed multiple unrestricted uploads in Pulse Connect Secure before 9.1R11.4 that could lead to an authenticated administrator to perform a file write via a maliciously crafted archive upload in the administrator web interface.| 
-| 20210605T12:20:22Z | CVE-2021-28453 | PoC for exploiting CVE-2021-28453 | https://github.com/JamesGeeee/CVE-2021-28453 | Microsoft Word Remote Code Execution Vulnerability| 
+| 20210605T12:20:22Z | CVE-2021-28453 | PoC for exploiting CVE-2021-28453 | https://github.com/JamesGeeee/CVE-2021-28453 | | 
 | 20210605T12:20:18Z | CVE-2021-28326 | PoC for exploiting CVE-2021-28326 | https://github.com/JamesGeeee/CVE-2021-28326 | Windows AppX Deployment Server Denial of Service Vulnerability| 
 | 20210605T12:20:15Z | CVE-2021-20585 | PoC for exploiting CVE-2021-20585 | https://github.com/JamesGeeee/CVE-2021-20585 | IBM Security Verify Access 20.07 could disclose sensitive information in HTTP server headers that could be used in further attacks against the system. IBM X-Force ID: 199398.| 
 | 20210605T12:20:11Z | CVE-2021-25326 | PoC for exploiting CVE-2021-25326 | https://github.com/JamesGeeee/CVE-2021-25326 | Skyworth Digital Technology RN510 V.3.1.0.4 is affected by an incorrect access control vulnerability in/cgi-bin/test_version.asp. If Wi-Fi is connected but an unauthenticated user visits a URL, the SSID password and web UI password may be disclosed.| 
@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210605T06:20:01Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 647 | 15| 
+| 20210605T12:39:16Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 648 | 15| 
 | 20210605T06:05:27Z | A RISC-V RV32 virtual prototype based on riscv-vp with symbolic execution support | https://github.com/agra-uni-bremen/symex-vp | 2 | 0| 
 | 20210605T06:02:09Z | A library for concolic execution of RV32 instruction set simulators | https://github.com/agra-uni-bremen/clover | 1 | 0| 
 | 20210605T04:33:22Z | Dodoco doko? | https://github.com/RiceFT/klee | 0 | 0| 
