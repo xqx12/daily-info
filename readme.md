@@ -18,10 +18,13 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210605T12:12:01Z | CVE-2020-13956 | PoC for exploiting CVE-2020-13956 | https://github.com/JamesGeeee/CVE-2020-13956 | Apache HttpClient versions prior to version 4.5.13 and 5.0.3 can misinterpret malformed authority component in request URIs passed to the library as java.net.URI object and pick the wrong target host for request execution.| 
+| 20210605T12:11:59Z | CVE-2021-22207 | PoC for exploiting CVE-2021-22207 | https://github.com/JamesGeeee/CVE-2021-22207 | Excessive memory consumption in MS-WSP dissector in Wireshark 3.4.0 to 3.4.4 and 3.2.0 to 3.2.12 allows denial of service via packet injection or crafted capture file| 
+| 20210605T12:11:57Z | CVE-2021-25217 | PoC for exploiting CVE-2021-25217 | https://github.com/JamesGeeee/CVE-2021-25217 | In ISC DHCP 4.1-ESV-R1 -> 4.1-ESV-R16, ISC DHCP 4.4.0 -> 4.4.2 (Other branches of ISC DHCP (i.e., releases in the 4.0.x series or lower and releases in the 4.3.x series) are beyond their End-of-Life (EOL) and no longer supported by ISC. From inspection it is clear that the defect is also present in releases from those series, but they have not been officially tested for the vulnerability), The outcome of encountering the defect while reading a lease that will trigger it varies, according to: the component being affected (i.e., dhclient or dhcpd) whether the package was built as a 32-bit or 64-bit binary whether the compiler flag -fstack-protection-strong was used when compiling In dhclient, ISC has not successfully reproduced the error on a 64-bit system. However, on a 32-bit system it is possible to cause dhclient to crash when reading an improper lease, which could cause network connectivity problems for an affected system due to the absence of a running DHCP client process. In dhcpd, when run in DHCPv4 or DHCPv6 mode: if the dhcpd server binary was built for a 32-bit architecture AND the -fstack-protection-strong flag was specified to the compiler, dhcpd may exit while parsing a lease file containing an objectionable lease, resulting in lack of service to clients. Additionally, the offending lease and the lease immediately following it in the lease database may be improperly deleted. if the dhcpd server binary was built for a 64-bit architecture OR if the -fstack-protection-strong compiler flag was NOT specified, the crash will not occur, but it is possible for the offending lease and the lease which immediately followed it to be improperly deleted.| 
 | 20210605T12:06:53Z | CVE-2021-21985 | CVE-2021-21985 VMware vCenter Server远程代码执行漏洞 EXP (更新可回显EXP) | https://github.com/r0ckysec/CVE-2021-21985 | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
 | 20210605T11:49:07Z | CVE-2021-21985 | Null | https://github.com/testanull/Project_CVE-2021-21985_PoC | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
 | 20210605T10:24:27Z | cve-2021-21985 | cve-2021-21985 exploit | https://github.com/xnianq/cve-2021-21985_exp | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
-| 20210605T10:13:50Z | CVE-2021-21985 | Null | https://github.com/alt3kx/CVE-2021-21985_PoC | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
+| 20210605T10:13:50Z | CVE-2021-21985 | Null | https://github.com/alt3kx/CVE-2021-21985_PoC | | 
 | 20210605T10:13:00Z | CVE-2021-27965 | stack based buffer overflow in MsIo64.sys, Proof of Concept Local Privilege Escalation to nt authority/system | https://github.com/mathisvickie/CVE-2021-27965 | The MsIo64.sys driver before 1.1.19.1016 in MSI Dragon Center before 2.0.98.0 has a buffer overflow that allows privilege escalation via a crafted 0x80102040, 0x80102044, 0x80102050, or 0x80102054 IOCTL request.| 
 
 
@@ -42,16 +45,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210605T12:12:49Z | PoC for exploiting CVE-2021-32638 | https://github.com/JamesGeeee/CVE-2021-32638 | 0 | 0| 
+| 20210605T12:12:01Z | PoC for exploiting CVE-2020-13956 | https://github.com/JamesGeeee/CVE-2020-13956 | 0 | 0| 
+| 20210605T12:11:59Z | PoC for exploiting CVE-2021-22207 | https://github.com/JamesGeeee/CVE-2021-22207 | 0 | 0| 
+| 20210605T12:11:57Z | PoC for exploiting CVE-2021-25217 | https://github.com/JamesGeeee/CVE-2021-25217 | 0 | 0| 
 | 20210605T12:02:48Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210605T11:59:51Z | Null | https://github.com/defiexploit/exploit | 0 | 0| 
 | 20210605T11:52:49Z | Remote Code Execution EJS Web Applications using express-fileupload | https://github.com/boiledsteak/EJS-Exploit | 0 | 0| 
 | 20210605T11:40:11Z | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | 2101 | 377| 
 | 20210605T11:34:40Z | Null | https://github.com/WackyHacker/ExploitLFI | 0 | 0| 
 | 20210605T10:55:57Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
-| 20210605T10:45:40Z | Null | https://github.com/NorthShad0w/WordPress-Authenticated-RCE-Exploit | 1 | 0| 
-| 20210605T10:36:28Z | Collect real estate data and send price variations alerts based on user settings | https://github.com/enstp/Real-Estate-Exploit | 0 | 0| 
-| 20210605T10:27:39Z | Dump the memory of a PPL with a userland exploit | https://github.com/itm4n/PPLdump | 263 | 41| 
-| 20210605T10:13:00Z | stack based buffer overflow in MsIo64.sys, Proof of Concept Local Privilege Escalation to nt authority/system | https://github.com/mathisvickie/CVE-2021-27965 | 0 | 0| 
 
 
 # backdoor on Github 推荐
