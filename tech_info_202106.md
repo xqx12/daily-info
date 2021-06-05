@@ -83,7 +83,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210605T00:11:12Z | Null | https://github.com/defiexploit/exploit | 0 | 0| 
+| 20210605T00:14:09Z | Null | https://github.com/defiexploit/exploit | 0 | 0| 
+| 20210605T00:13:55Z | For keir exploit | https://github.com/0Lirex/Keir | 0 | 0| 
 | 20210605T00:07:42Z | A number of exploits and tools I%ve written for CVEs accredited to Marshall Whittaker/oxagast | https://github.com/oxagast/oxasploits | 6 | 1| 
 | 20210605T00:02:50Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210604T23:56:04Z | Organizes rp++ output to make finding good gadgets faster | https://github.com/bmdyy/ropz | 0 | 0| 
@@ -92,7 +93,6 @@
 | 20210604T22:40:35Z | Null | https://github.com/zYan666/Demon-Exploit | 0 | 0| 
 | 20210604T22:36:27Z | Null | https://github.com/HarrysExploit/Harrys-exploit-setup | 0 | 0| 
 | 20210604T22:34:04Z | Null | https://github.com/HarrysExploit/Harrys-exploit | 0 | 0| 
-| 20210604T22:30:02Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 11 | 3| 
 
 
 # backdoor on Github 推荐
