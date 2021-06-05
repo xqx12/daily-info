@@ -83,7 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210605T01:41:20Z | Null | https://github.com/defiexploit/exploit | 0 | 0| 
+| 20210605T01:44:23Z | Null | https://github.com/defiexploit/exploit | 0 | 0| 
 | 20210605T01:39:13Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 307 | 42| 
 | 20210605T01:15:02Z | Desktop application mixed with database allowing to allocate patients in a clinic rooms with the goal of avoiding health-based conficts between them and exploiting user authorization to granting access and organise the clinic. Project being meant as a base for mine and my team%s future Engineer%s Thesis. | https://github.com/Too55/pz_project | 1 | 1| 
 | 20210605T01:02:51Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
