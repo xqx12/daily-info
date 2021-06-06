@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210606T00:51:24Z | CVE-2021-29440 | Unsafe Twig processing of static pages leading to RCE in Grav CMS 1.7.10 | https://github.com/CsEnox/CVE-2021-29440 | Grav is a file based Web-platform. Twig processing of static pages can be enabled in the front matter by any administrative user allowed to create or edit pages. As the Twig processor runs unsandboxed, this behavior can be used to gain arbitrary code execution and elevate privileges on the instance. The issue was addressed in version 1.7.11.| 
+| 20210606T00:51:24Z | CVE-2021-29440 | Unsafe Twig processing of static pages leading to RCE in Grav CMS 1.7.10 | https://github.com/CsEnox/CVE-2021-29440 | | 
 | 20210606T00:30:45Z | CVE-2021-22911 | Pre-Auth Blind NoSQL Injection leading to Remote Code Execution in Rocket Chat 3.12.1 | https://github.com/CsEnox/CVE-2021-22911 | A improper input sanitization vulnerability exists in Rocket.Chat server 3.11, 3.12 & 3.13 that could lead to unauthenticated NoSQL injection, resulting potentially in RCE.| 
 | 20210605T16:25:38Z | CVE-2021-22205 | Null | https://github.com/mr-r3bot/Gitlab-CVE-2021-22205 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 11.9. GitLab was not properly validating image files that were passed to a file parser which resulted in a remote command execution.| 
 | 20210605T12:21:10Z | CVE-2021-30513 | PoC for exploiting CVE-2021-30513 | https://github.com/JamesGeeee/CVE-2021-30513 | Type confusion in V8 in Google Chrome prior to 90.0.4430.212 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.| 
@@ -54,7 +54,7 @@
 | 20210605T12:20:25Z | CVE-2021-22900 | PoC for exploiting CVE-2021-22900 | https://github.com/JamesGeeee/CVE-2021-22900 | A vulnerability allowed multiple unrestricted uploads in Pulse Connect Secure before 9.1R11.4 that could lead to an authenticated administrator to perform a file write via a maliciously crafted archive upload in the administrator web interface.| 
 | 20210605T12:20:22Z | CVE-2021-28453 | PoC for exploiting CVE-2021-28453 | https://github.com/JamesGeeee/CVE-2021-28453 | Microsoft Word Remote Code Execution Vulnerability| 
 | 20210605T12:20:18Z | CVE-2021-28326 | PoC for exploiting CVE-2021-28326 | https://github.com/JamesGeeee/CVE-2021-28326 | Windows AppX Deployment Server Denial of Service Vulnerability| 
-| 20210605T12:20:15Z | CVE-2021-20585 | PoC for exploiting CVE-2021-20585 | https://github.com/JamesGeeee/CVE-2021-20585 | IBM Security Verify Access 20.07 could disclose sensitive information in HTTP server headers that could be used in further attacks against the system. IBM X-Force ID: 199398.| 
+| 20210605T12:20:15Z | CVE-2021-20585 | PoC for exploiting CVE-2021-20585 | https://github.com/JamesGeeee/CVE-2021-20585 | | 
 | 20210605T12:20:11Z | CVE-2021-25326 | PoC for exploiting CVE-2021-25326 | https://github.com/JamesGeeee/CVE-2021-25326 | Skyworth Digital Technology RN510 V.3.1.0.4 is affected by an incorrect access control vulnerability in/cgi-bin/test_version.asp. If Wi-Fi is connected but an unauthenticated user visits a URL, the SSID password and web UI password may be disclosed.| 
 
 
@@ -114,16 +114,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210605T12:33:49Z | Thin interface for libFuzzer, an in-process, coverage-guided, evolutionary fuzzing engine. | https://github.com/planetis-m/libfuzzer | 3 | 0| 
-| 20210605T12:21:19Z | DOM fuzzer | https://github.com/mevid93/domzzer | 0 | 0| 
-| 20210605T12:15:17Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 8 | 5| 
-| 20210605T12:14:26Z | Null | https://github.com/Sghosh1999/fuzzy_search | 1 | 0| 
-| 20210605T11:58:29Z | Here%s the original code and document for this paper. | https://github.com/aaronfeng369/FengLab_Fuzzy_C-means_method_for_breast_tumor_segmentation | 0 | 0| 
-| 20210605T11:50:42Z | The Art of Fuzzing | https://github.com/M0dred/fuzzingPaper | 0 | 0| 
-| 20210605T11:23:19Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 871 | 142| 
-| 20210605T10:49:16Z | Hyperbox classifier for pattern recognition | https://github.com/kondal461/Fuzzy-Min-Max-Neural-Networks | 0 | 0| 
-| 20210605T10:39:46Z | Null | https://github.com/AdaLogics/go-fuzz-headers | 2 | 1| 
-| 20210605T10:18:50Z | 1 | https://github.com/cayomitch79/fuzzy-train | 0 | 0| 
+| 20210606T01:31:11Z | Null | https://github.com/GuilhermeBuenoMartins/sistemas-de-inferencia-fuzzy | 0 | 0| 
+| 20210606T01:05:19Z | Null | https://github.com/NTHieu2k1/AI_Fuzzy_Project_AIP | 0 | 0| 
+| 20210606T00:44:45Z | Нейро-нечеткие системы | https://github.com/Blackbackofficial/neuro-fuzzy_systems | 0 | 0| 
+| 20210606T00:35:50Z | CBOR RFC 7049 & RFC 8949 (Go/Golang) library with CBOR tags, Go struct tags (toarray/keyasint/omitempty), float64/32/16, big.Int, and fuzz tested billions of execs. | https://github.com/fxamacker/cbor | 276 | 21| 
+| 20210606T00:05:48Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 8 | 5| 
+| 20210605T23:55:20Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6360 | 1289| 
+| 20210605T22:09:52Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 76 | 20| 
+| 20210605T22:05:35Z | https://github.com/wcventure/FuzzingPaper | https://github.com/mishmashclone/wcventure-FuzzingPaper | 6 | 1| 
+| 20210605T22:05:32Z | Lightweight, self-hosted and no-fuzz tool for programmatic or simple interaction with AMMs. | https://github.com/stoll/lightswap-ui | 0 | 0| 
+| 20210605T21:21:12Z | Null | https://github.com/JAC61090/fuzzy-dollop-day-planner | 0 | 0| 
 
 
 
