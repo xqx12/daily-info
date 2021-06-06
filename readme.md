@@ -44,6 +44,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210606T12:28:44Z | Educational web application demonstrating techniques of binary exploitation (Front-end) | https://github.com/Pen-Test3rs/binary_exploits_frontend | 0 | 0| 
 | 20210606T12:27:14Z | Null | https://github.com/defiexploit/exploit | 0 | 0| 
 | 20210606T12:19:20Z | NCHHO uses chaotic and nonlinear control parameters to improve HHO’s optimization performance. The main goal of using the chaotic maps in the proposed method is to improve the exploratory behavior of HHO. In addition, this paper introduces a nonlinear control parameter to adjust HHO’s exploratory and exploitative behaviours. The proposed NCHHO algorithm shows an improved performance using a variety of chaotic maps that were implemented to identify the most effective one, and tested on several well-known benchmark functions. Also, this work considers solving an Internet of Vehicles (IoV) optimization problem that showcases the applicability of NCHHO in solving large-scale, real-world problems. | https://github.com/alisafaa12/NCHHO_OptimizationAlgorithm_IoV_Application | 0 | 0| 
 | 20210606T12:02:57Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
@@ -53,7 +54,6 @@
 | 20210606T11:07:35Z | My Collection of exploits, reverse shells, scripts and more | https://github.com/nop-tech/Pentesting | 2 | 1| 
 | 20210606T11:04:28Z | Direct Object Reference Exploitation | https://github.com/naryal2580/dore | 2 | 2| 
 | 20210606T10:41:23Z | OWASP Joomla Vulnerability Scanner Project | https://github.com/OWASP/joomscan | 670 | 200| 
-| 20210606T10:29:02Z | Hypervisor Memory Introspection Core Library | https://github.com/hvmi/hvmi | 464 | 34| 
 
 
 # backdoor on Github 推荐
