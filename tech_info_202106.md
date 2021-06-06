@@ -84,7 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210606T12:25:20Z | Null | https://github.com/defiexploit/exploit | 0 | 0| 
+| 20210606T12:27:14Z | Null | https://github.com/defiexploit/exploit | 0 | 0| 
 | 20210606T12:19:20Z | NCHHO uses chaotic and nonlinear control parameters to improve HHO’s optimization performance. The main goal of using the chaotic maps in the proposed method is to improve the exploratory behavior of HHO. In addition, this paper introduces a nonlinear control parameter to adjust HHO’s exploratory and exploitative behaviours. The proposed NCHHO algorithm shows an improved performance using a variety of chaotic maps that were implemented to identify the most effective one, and tested on several well-known benchmark functions. Also, this work considers solving an Internet of Vehicles (IoV) optimization problem that showcases the applicability of NCHHO in solving large-scale, real-world problems. | https://github.com/alisafaa12/NCHHO_OptimizationAlgorithm_IoV_Application | 0 | 0| 
 | 20210606T12:02:57Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210606T11:58:07Z | PHP 8.1.0-dev Backdoor System Shell Script | https://github.com/flast101/php-8.1.0-dev-backdoor-rce | 7 | 2| 
