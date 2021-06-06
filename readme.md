@@ -44,7 +44,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210606T12:38:36Z | Null | https://github.com/defiexploit/exploit | 0 | 0| 
+| 20210606T12:42:26Z | Null | https://github.com/defiexploit/exploit | 0 | 0| 
 | 20210606T12:36:54Z | Null | https://github.com/TheCrazzXz/Exploits-Lab | 0 | 0| 
 | 20210606T12:35:39Z | security framework api based created in python3 for recon and fuzz exploitation | https://github.com/laligafilipina/falcon-framework | 0 | 0| 
 | 20210606T12:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9537 | 1544| 
