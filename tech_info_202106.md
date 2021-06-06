@@ -84,16 +84,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210606T12:36:54Z | Null | https://github.com/TheCrazzXz/Exploits-Lab | 0 | 0| 
+| 20210606T12:36:35Z | Null | https://github.com/defiexploit/exploit | 0 | 0| 
 | 20210606T12:35:39Z | security framework api based created in python3 for recon and fuzz exploitation | https://github.com/laligafilipina/falcon-framework | 0 | 0| 
 | 20210606T12:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9537 | 1544| 
-| 20210606T12:34:53Z | Null | https://github.com/defiexploit/exploit | 0 | 0| 
 | 20210606T12:32:28Z | exploit.education/phoenix challenges | https://github.com/AidenPearce369/phoenix | 0 | 0| 
 | 20210606T12:28:44Z | Educational web application demonstrating techniques of binary exploitation (Front-end) | https://github.com/Pen-Test3rs/binary_exploits_frontend | 0 | 0| 
 | 20210606T12:19:20Z | NCHHO uses chaotic and nonlinear control parameters to improve HHO’s optimization performance. The main goal of using the chaotic maps in the proposed method is to improve the exploratory behavior of HHO. In addition, this paper introduces a nonlinear control parameter to adjust HHO’s exploratory and exploitative behaviours. The proposed NCHHO algorithm shows an improved performance using a variety of chaotic maps that were implemented to identify the most effective one, and tested on several well-known benchmark functions. Also, this work considers solving an Internet of Vehicles (IoV) optimization problem that showcases the applicability of NCHHO in solving large-scale, real-world problems. | https://github.com/alisafaa12/NCHHO_OptimizationAlgorithm_IoV_Application | 0 | 0| 
 | 20210606T12:02:57Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210606T11:58:07Z | PHP 8.1.0-dev Backdoor System Shell Script | https://github.com/flast101/php-8.1.0-dev-backdoor-rce | 7 | 2| 
 | 20210606T11:24:03Z | stack based buffer overflow in MsIo64.sys, Proof of Concept Local Privilege Escalation to nt authority/system | https://github.com/mathisvickie/CVE-2021-27965 | 0 | 0| 
-| 20210606T11:22:31Z | K8博客内容存档 | https://github.com/k8gege/k8gege.github.io | 13 | 7| 
 
 
 # backdoor on Github 推荐
