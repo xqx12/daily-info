@@ -55,7 +55,7 @@
 | 20210605T12:20:22Z | CVE-2021-28453 | PoC for exploiting CVE-2021-28453 | https://github.com/JamesGeeee/CVE-2021-28453 | Microsoft Word Remote Code Execution Vulnerability| 
 | 20210605T12:20:18Z | CVE-2021-28326 | PoC for exploiting CVE-2021-28326 | https://github.com/JamesGeeee/CVE-2021-28326 | Windows AppX Deployment Server Denial of Service Vulnerability| 
 | 20210605T12:20:15Z | CVE-2021-20585 | PoC for exploiting CVE-2021-20585 | https://github.com/JamesGeeee/CVE-2021-20585 | IBM Security Verify Access 20.07 could disclose sensitive information in HTTP server headers that could be used in further attacks against the system. IBM X-Force ID: 199398.| 
-| 20210605T12:20:11Z | CVE-2021-25326 | PoC for exploiting CVE-2021-25326 | https://github.com/JamesGeeee/CVE-2021-25326 | | 
+| 20210605T12:20:11Z | CVE-2021-25326 | PoC for exploiting CVE-2021-25326 | https://github.com/JamesGeeee/CVE-2021-25326 | Skyworth Digital Technology RN510 V.3.1.0.4 is affected by an incorrect access control vulnerability in/cgi-bin/test_version.asp. If Wi-Fi is connected but an unauthenticated user visits a URL, the SSID password and web UI password may be disclosed.| 
 
 
 # klee on Github 推荐
