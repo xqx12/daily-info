@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210606T00:51:24Z | CVE-2021-29440 | Unsafe Twig processing of static pages leading to RCE in Grav CMS 1.7.10 | https://github.com/CsEnox/CVE-2021-29440 | Grav is a file based Web-platform. Twig processing of static pages can be enabled in the front matter by any administrative user allowed to create or edit pages. As the Twig processor runs unsandboxed, this behavior can be used to gain arbitrary code execution and elevate privileges on the instance. The issue was addressed in version 1.7.11.| 
+| 20210606T00:51:24Z | CVE-2021-29440 | Unsafe Twig processing of static pages leading to RCE in Grav CMS 1.7.10 | https://github.com/CsEnox/CVE-2021-29440 | | 
 | 20210606T00:30:45Z | CVE-2021-22911 | Pre-Auth Blind NoSQL Injection leading to Remote Code Execution in Rocket Chat 3.12.1 | https://github.com/CsEnox/CVE-2021-22911 | A improper input sanitization vulnerability exists in Rocket.Chat server 3.11, 3.12 & 3.13 that could lead to unauthenticated NoSQL injection, resulting potentially in RCE.| 
 | 20210605T16:25:38Z | CVE-2021-22205 | Null | https://github.com/mr-r3bot/Gitlab-CVE-2021-22205 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 11.9. GitLab was not properly validating image files that were passed to a file parser which resulted in a remote command execution.| 
 | 20210605T12:21:10Z | CVE-2021-30513 | PoC for exploiting CVE-2021-30513 | https://github.com/JamesGeeee/CVE-2021-30513 | Type confusion in V8 in Google Chrome prior to 90.0.4430.212 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.| 
@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210606T01:39:12Z | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | 1447 | 507| 
 | 20210606T01:02:57Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210606T00:04:01Z | Find exploits in local and online databases instantly | https://github.com/1N3/Findsploit | 1174 | 289| 
 | 20210605T23:49:47Z | passive keyless entry exploit research | https://github.com/zeetulsa/pke | 1 | 0| 
@@ -93,7 +94,6 @@
 | 20210605T21:43:54Z | My Collection of exploits, reverse shells, scripts and more | https://github.com/nop-tech/Pentesting | 2 | 1| 
 | 20210605T21:40:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9532 | 1542| 
 | 20210605T21:38:30Z | Null | https://github.com/Tomeeky/nigg-exploits | 0 | 0| 
-| 20210605T21:31:37Z | This demonstration video shows how we can control the victim%s device by sending the innocent-looking PDF file to the target which actually consists of  embedded payload. The exploit was made public as CVE-2010-1240.  | https://github.com/Jasmoon99/Embedded-PDF | 0 | 0| 
 
 
 # backdoor on Github 推荐
