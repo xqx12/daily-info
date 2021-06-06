@@ -24,7 +24,7 @@
 | 20210606T06:41:54Z | CVE-2021-21985 | Null | https://github.com/testanull/Project_CVE-2021-21985_PoC | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
 | 20210606T05:59:51Z | CVE-2021-22205 | Null | https://github.com/mr-r3bot/Gitlab-CVE-2021-22205 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 11.9. GitLab was not properly validating image files that were passed to a file parser which resulted in a remote command execution.| 
 | 20210606T03:42:20Z | CVE-2021-29440 | Unsafe Twig processing of static pages leading to RCE in Grav CMS 1.7.10 | https://github.com/CsEnox/CVE-2021-29440 | Grav is a file based Web-platform. Twig processing of static pages can be enabled in the front matter by any administrative user allowed to create or edit pages. As the Twig processor runs unsandboxed, this behavior can be used to gain arbitrary code execution and elevate privileges on the instance. The issue was addressed in version 1.7.11.| 
-| 20210606T00:30:45Z | CVE-2021-22911 | Pre-Auth Blind NoSQL Injection leading to Remote Code Execution in Rocket Chat 3.12.1 | https://github.com/CsEnox/CVE-2021-22911 | A improper input sanitization vulnerability exists in Rocket.Chat server 3.11, 3.12 & 3.13 that could lead to unauthenticated NoSQL injection, resulting potentially in RCE.| 
+| 20210606T00:30:45Z | CVE-2021-22911 | Pre-Auth Blind NoSQL Injection leading to Remote Code Execution in Rocket Chat 3.12.1 | https://github.com/CsEnox/CVE-2021-22911 | | 
 
 
 # klee on Github 推荐
@@ -44,6 +44,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210606T12:23:37Z | Null | https://github.com/defiexploit/exploit | 0 | 0| 
 | 20210606T12:19:20Z | NCHHO uses chaotic and nonlinear control parameters to improve HHO’s optimization performance. The main goal of using the chaotic maps in the proposed method is to improve the exploratory behavior of HHO. In addition, this paper introduces a nonlinear control parameter to adjust HHO’s exploratory and exploitative behaviours. The proposed NCHHO algorithm shows an improved performance using a variety of chaotic maps that were implemented to identify the most effective one, and tested on several well-known benchmark functions. Also, this work considers solving an Internet of Vehicles (IoV) optimization problem that showcases the applicability of NCHHO in solving large-scale, real-world problems. | https://github.com/alisafaa12/NCHHO_OptimizationAlgorithm_IoV_Application | 0 | 0| 
 | 20210606T12:02:57Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210606T11:58:07Z | PHP 8.1.0-dev Backdoor System Shell Script | https://github.com/flast101/php-8.1.0-dev-backdoor-rce | 7 | 2| 
@@ -53,7 +54,6 @@
 | 20210606T11:04:28Z | Direct Object Reference Exploitation | https://github.com/naryal2580/dore | 2 | 2| 
 | 20210606T10:41:23Z | OWASP Joomla Vulnerability Scanner Project | https://github.com/OWASP/joomscan | 670 | 200| 
 | 20210606T10:29:02Z | Hypervisor Memory Introspection Core Library | https://github.com/hvmi/hvmi | 464 | 34| 
-| 20210606T10:14:29Z | Open source cheat for the MMO game ROBLOX | https://github.com/ringarang/QLX | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -69,11 +69,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210606T01:31:11Z | Null | https://github.com/GuilhermeBuenoMartins/sistemas-de-inferencia-fuzzy | 0 | 0| 
-| 20210606T01:05:19Z | Null | https://github.com/NTHieu2k1/AI_Fuzzy_Project_AIP | 0 | 0| 
-| 20210606T00:44:45Z | Нейро-нечеткие системы | https://github.com/Blackbackofficial/neuro-fuzzy_systems | 0 | 0| 
-| 20210606T00:35:50Z | CBOR RFC 7049 & RFC 8949 (Go/Golang) library with CBOR tags, Go struct tags (toarray/keyasint/omitempty), float64/32/16, big.Int, and fuzz tested billions of execs. | https://github.com/fxamacker/cbor | 276 | 21| 
-| 20210606T00:05:48Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 8 | 5| 
+| 20210606T12:15:35Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
+| 20210606T12:15:16Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 8 | 5| 
+| 20210606T12:02:47Z | This project is used to demonstrate the use of RxJava with RxAndroid in Android Development. We have demonstrated the use of various operators namely creational, filter, transformation operators | https://github.com/devrath/fuzzy-reactive-kotlin | 0 | 0| 
+| 20210606T12:00:27Z | Null | https://github.com/JoDeMiro/FuzzyBevezetes | 0 | 0| 
+| 20210606T11:46:06Z | DOM fuzzer | https://github.com/mevid93/domzzer | 0 | 0| 
+| 20210606T11:33:28Z | jimiPlugin for fuzzy matching of strings | https://github.com/z1pti3/jimiPlugin-fuzzymatch | 0 | 0| 
+| 20210606T11:29:49Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
+| 20210606T11:17:29Z | Null | https://github.com/moonlightangelworker/fuzzy-octo-meme | 0 | 0| 
+| 20210606T10:53:53Z | Null | https://github.com/osmandagli/Fuzzy2 | 0 | 0| 
+| 20210606T10:22:07Z | Thin interface for libFuzzer, an in-process, coverage-guided, evolutionary fuzzing engine. | https://github.com/planetis-m/libfuzzer | 23 | 0| 
 
 
 
