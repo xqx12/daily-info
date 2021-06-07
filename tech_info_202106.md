@@ -6,6 +6,15 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210607 | Kubernetes Goat - Vulnerable by Design Kubernetes Cluster | https://github.com/madhuakula/kubernetes-goat| 
+| 20210607 | Tavis 对密码管理器攻击面的分析 | https://lock.cmpxchg8b.com/passmgrs.html| 
+| 20210607 | Learning JNDI Injection From CVE-2021-21985 | https://y4y.space/2021/06/04/learning-jndi-injection-from-cve-2021-21985/| 
+| 20210607 | Finding SSRF via HTML Injection inside a PDF file on AWS EC2 | https://blog.appsecco.com/finding-ssrf-via-html-injection-inside-a-pdf-file-on-aws-ec2-214cc5ec5d90?gi=5fd60a294535| 
+| 20210607 | Hacking 智能电表，作者通过逆向分析数据传输协议，绘制了一张周围所有电表的坐标图 | https://www.youtube.com/watch?v=Y_sh605Q7oA| 
+| 20210607 | Apache Airflow 1.10.10. RCE 漏洞分析 | https://infosecwriteups.com/poc-exploit-from-a-cve-apache-airflow-1-10-10-rce-e2c764f2a6f0?gi=ca54d338aeec| 
+| 20210607 | 从 navigator 对象、网络延迟、TCP/IP 指纹等角度检测 Brightdata 数据采集器 | https://incolumitas.com/2021/06/05/detecting-brightdata-data-collector-as-bot/| 
+| 20210607 | Project Zero 对 Linux 内核处理 VM_IO,VM_PFNMAP vmas 不当导致漏洞（CVE-2021-22543）的分析 | https://github.com/google/security-research/security/advisories/GHSA-7wq5-phmq-m584| 
+| 20210607 | Zon8 分享了他们收集的 V8 漏洞的 PoC | https://github.com/zon8research/v8-vulnerabilities| 
 | 20210606 | Linux提权：Python脚本利用劫持演示。 | https://www.hackingarticles.in/linux-privilege-escalation-python-library-hijacking/| 
 | 20210606 | VCSA 6.5-7.0 远程代码执行漏洞（CVE-2021-21985） | https://buaq.net/go-75544.html| 
 | 20210606 | 针对进程注入技术深入研究。 | https://medium.com/csg-govtech/process-injection-techniques-used-by-malware-1a34c078612c| 
@@ -17,20 +26,13 @@
 | 20210604 | Gitlab 任意文件读漏洞分析（CVE-2021–22201） | https://tradahacking.vn/cve-2021-22201-arbitrary-file-read-on-gitlab-d84d77cd83e3| 
 | 20210604 | CVE-2021-30724: CVMServer Vulnerability in macOS and iOS | https://www.trendmicro.com/en_us/research/21/f/CVE-2021-30724_CVMServer_Vulnerability_in_macOS_and_iOS.html| 
 | 20210604 | Chrome 浏览器将通过机器学习模型的方式检测扩展的安全性 | https://security.googleblog.com/2021/06/new-protections-for-enhanced-safe.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+GoogleOnlineSecurityBlog+%28Google+Online+Security+Blog%29| 
-| 20210604 | SharpPanda: Chinese APT Group Targets Southeast Asian Government With Previously Unknown Backdoor。来自 Checkpoint 的 Blog | https://research.checkpoint.com/2021/chinese-apt-group-targets-southeast-asian-government-with-previously-unknown-backdoor/| 
-| 20210603 | BFSLabs 对 Windows Hyper-V vmswitch.sys CVE-2021-28476 漏洞的简要分析 | https://labs.bluefrostsecurity.de/advisories/bfs-sa-2021-001/| 
-| 20210603 | An Introduction to Manual Active Directory Querying with Dsquery and Ldapsearch | https://posts.specterops.io/an-introduction-to-manual-active-directory-querying-with-dsquery-and-ldapsearch-84943c13d7eb?gi=6f0b84b5f8eb| 
-| 20210603 | 有研究员公开了他收集的各个版本的苹果 SEP 处理器 BootROM | http://securerom.fun| 
-| 20210603 | 恶意软件分析与溯源过程中如何收集家族样本的技术分析，来自 SSTIC 会议 | https://www.sstic.org/2021/presentation/Taking_Advantage_of_PE_Metadata_or_How_To_Complete_your_Favorite_Threat_Actor_Sample_Collection/| 
-| 20210603 | SSTIC 会议上 Google 研究员关于近期他们开源的 Hyper-V Fuzzer - Hyntrospect 的演讲 | https://www.sstic.org/2021/presentation/hyntrospect_a_fuzzer_for_hyper-v_devices/| 
-| 20210603 | James Forshaw 对 SeRelabelPrivilege 的介绍 | https://www.tiraniddo.dev/2021/06/the-much-misunderstood.html| 
-| 20210603 | Microsoft SharePoint Server CVE-2021-31181 RCE 漏洞的分析 | https://www.thezdi.com/blog/2021/6/1/cve-2021-31181-microsoft-sharepoint-webpart-interpretation-conflict-remote-code-execution-vulnerability| 
-| 20210603 | Apple Safari JSC 脚本引擎 WebAssembly CVE-2021-30734 RCE 漏洞的分析 | https://blog.ret2.io/2021/06/02/pwn2own-2021-jsc-exploit/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210607 | InForSec学术交流会 参会小计DAY1 | https://mp.weixin.qq.com/s/oDkL6J4lHSRskvNgD7yj-w| 
+| 20210607 | InForSec学术交流会 参会小计DAY1 | /news/29263| 
 | 20210606 | Code Signing - iOS 代码段的校验机制分析 | https://mp.weixin.qq.com/s/msUwo3YUcfHXkuAp5wRfyQ| 
 | 20210605 | 来自Readme的威胁-疑似长达数年的供应链攻击分析 | https://security.tencent.com/index.php/blog/msg/192| 
 | 20210605 | EISS2021-办公网零信任安全建设实践 | https://www.anquanke.com/post/id/241954| 
@@ -39,36 +41,34 @@
 | 20210604 | Jar 组件自动化风险监测和升级实践 | https://mp.weixin.qq.com/s/3tmwACw-weWCBzipHK79AQ| 
 | 20210602 | 软件工程能力漫谈 | https://mp.weixin.qq.com/s/hJS5LJRZkMZmHm6g2R_jpw| 
 | 20210602 | PatchDB: A Large-Scale Security Patch Dataset | https://github.com/SunLab-GMU/PatchDataset| 
-| 20210602 | 2021年网络安全产业链图谱 | https://mp.weixin.qq.com/s/IDlXpFBtX19CE9PLoSgVYA| 
-| 20210602 | SCRUTINIZER：通过反编译和机器学习检测恶意软件中的代码复用 | https://mp.weixin.qq.com/s/hdqCwSoXdxAYB8OfL5oJEQ| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210607T01:47:51Z | cve-2021-21985 | cve-2021-21985 exploit | https://github.com/xnianq/cve-2021-21985_exp | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
-| 20210607T01:13:40Z | CVE-2021-21985 | Null | https://github.com/testanull/Project_CVE-2021-21985_PoC | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
-| 20210606T19:41:34Z | CVE-2021-22911 | Pre-Auth Blind NoSQL Injection leading to Remote Code Execution in Rocket Chat 3.12.1 | https://github.com/CsEnox/CVE-2021-22911 | A improper input sanitization vulnerability exists in Rocket.Chat server 3.11, 3.12 & 3.13 that could lead to unauthenticated NoSQL injection, resulting potentially in RCE.| 
-| 20210606T18:30:46Z | cve-2021-33879 | GameLoop update MITM | https://github.com/mmiszczyk/cve-2021-33879 | Tencent GameLoop before 4.1.21.90 downloaded updates over an insecure HTTP connection. A malicious attacker in an MITM position could spoof the contents of an XML document describing an update package, replacing a download URL with one pointing to an arbitrary Windows executable. Because the only integrity check would be a comparison of the downloaded file%s MD5 checksum to the one contained within the XML document, the downloaded executable would then be executed on the victim%s machine.| 
-| 20210606T18:10:41Z | CVE-2021-29440 | Unsafe Twig processing of static pages leading to RCE in Grav CMS 1.7.10 | https://github.com/CsEnox/CVE-2021-29440 | Grav is a file based Web-platform. Twig processing of static pages can be enabled in the front matter by any administrative user allowed to create or edit pages. As the Twig processor runs unsandboxed, this behavior can be used to gain arbitrary code execution and elevate privileges on the instance. The issue was addressed in version 1.7.11.| 
+| 20210607T11:51:14Z | CVE-2020-0041 | My implementation for an exploit of the CVE-2020-0041 bug | https://github.com/Byte-Master-101/CVE_2020_0041 | In binder_transaction of binder.c, there is a possible out of bounds write due to an incorrect bounds check. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-145988638References: Upstream kernel| 
+| 20210607T11:23:35Z | CVE-2021-22911 | Pre-Auth Blind NoSQL Injection leading to Remote Code Execution in Rocket Chat 3.12.1 | https://github.com/CsEnox/CVE-2021-22911 | A improper input sanitization vulnerability exists in Rocket.Chat server 3.11, 3.12 & 3.13 that could lead to unauthenticated NoSQL injection, resulting potentially in RCE.| 
+| 20210607T10:01:47Z | cve-2021-21985 | cve-2021-21985 exploit | https://github.com/xnianq/cve-2021-21985_exp | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
+| 20210607T09:47:13Z | CVE-2021-3572 | A simple repository helping to test CVE-2021-3572 in PyPA/pip | https://github.com/frenzymadness/CVE-2021-3572 | | 
+| 20210607T07:48:02Z | cve-2021-33879 | GameLoop update MITM | https://github.com/mmiszczyk/cve-2021-33879 | Tencent GameLoop before 4.1.21.90 downloaded updates over an insecure HTTP connection. A malicious attacker in an MITM position could spoof the contents of an XML document describing an update package, replacing a download URL with one pointing to an arbitrary Windows executable. Because the only integrity check would be a comparison of the downloaded file%s MD5 checksum to the one contained within the XML document, the downloaded executable would then be executed on the victim%s machine.| 
+| 20210607T07:13:54Z | CVE-2020-27688 | CVE-2020-27688 | https://github.com/matthiasmaes/CVE-2020-27688 | RVToolsPasswordEncryption.exe in RVTools 4.0.6 allows users to encrypt passwords to be used in the configuration files. This encryption used a static IV and key, and thus using the Decrypt() method from VISKD.cs from the RVTools.exe executable allows for decrypting the encrypted passwords. The accounts used in the configuration files have access to vSphere instances.| 
+| 20210607T06:33:19Z | CVE-2021-29440 | Unsafe Twig processing of static pages leading to RCE in Grav CMS 1.7.10 | https://github.com/CsEnox/CVE-2021-29440 | Grav is a file based Web-platform. Twig processing of static pages can be enabled in the front matter by any administrative user allowed to create or edit pages. As the Twig processor runs unsandboxed, this behavior can be used to gain arbitrary code execution and elevate privileges on the instance. The issue was addressed in version 1.7.11.| 
+| 20210607T04:00:08Z | CVE-2021-21985 | Null | https://github.com/testanull/Project_CVE-2021-21985_PoC | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
+| 20210607T02:03:22Z | CVE-2021-22205 | Null | https://github.com/mr-r3bot/Gitlab-CVE-2021-22205 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 11.9. GitLab was not properly validating image files that were passed to a file parser which resulted in a remote command execution.| 
 | 20210606T16:03:55Z | CVE-2020-0688 | Remote Code Execution on Microsoft Exchange Server through fixed cryptographic keys | https://github.com/MrTiz/CVE-2020-0688 | A remote code execution vulnerability exists in Microsoft Exchange software when the software fails to properly handle objects in memory, aka %Microsoft Exchange Memory Corruption Vulnerability%.| 
-| 20210606T13:53:59Z | CVE-2020-9496 | XML-RPC request are vulnerable to unsafe deserialization and Cross-Site Scripting issues in Apache OFBiz 17.12.03 | https://github.com/ambalabanov/CVE-2020-9496 | XML-RPC request are vulnerable to unsafe deserialization and Cross-Site Scripting issues in Apache OFBiz 17.12.03| 
-| 20210606T11:24:03Z | CVE-2021-27965 | stack based buffer overflow in MsIo64.sys, Proof of Concept Local Privilege Escalation to nt authority/system | https://github.com/mathisvickie/CVE-2021-27965 | | 
-| 20210606T08:51:32Z | CVE-2020-13957 | Apache Solr RCE CVE-2020-13957 | https://github.com/s-index/CVE-2020-13957 | | 
-| 20210606T08:41:21Z | CVE-2021-25641 | Apache/Alibaba Dubbo <= 2.7.3 PoC Code for CVE-2021-25641 RCE via Deserialization of Untrusted Data; Affects Versions <= 2.7.6 With Different Gadgets | https://github.com/Dor-Tumarkin/CVE-2021-25641-Proof-of-Concept | Each Apache Dubbo server will set a serialization id to tell the clients which serialization protocol it is working on. But for Dubbo versions before 2.7.8 or 2.6.9, an attacker can choose which serialization id the Provider will use by tampering with the byte preamble flags, aka, not following the server%s instruction. This means that if a weak deserializer such as the Kryo and FST are somehow in code scope (e.g. if Kryo is somehow a part of a dependency), a remote unauthenticated attacker can tell the Provider to use the weak deserializer, and then proceed to exploit it.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210607T01:58:40Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 13 | 0| 
+| 20210607T11:15:39Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 15 | 0| 
+| 20210607T08:23:58Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 652 | 15| 
+| 20210607T04:48:04Z | Dodoco doko? | https://github.com/RiceFT/klee | 0 | 0| 
 | 20210607T00:38:06Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 144 | 14| 
 | 20210606T21:35:51Z | Null | https://github.com/JaimePSantos/ResearchKlee | 0 | 0| 
 | 20210606T16:54:02Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 14 | 45| 
-| 20210606T15:28:53Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 651 | 15| 
 | 20210606T10:55:07Z | Null | https://github.com/ReneSchwarzer/Kleene | 0 | 0| 
 | 20210606T02:57:41Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 121 | 35| 
-| 20210605T19:46:27Z | Dodoco doko? | https://github.com/RiceFT/klee | 0 | 0| 
 | 20210605T16:24:50Z | Null | https://github.com/thierry-tct/KLEE-SEMu | 2 | 2| 
 | 20210605T06:05:27Z | A RISC-V RV32 virtual prototype based on riscv-vp with symbolic execution support | https://github.com/agra-uni-bremen/symex-vp | 2 | 0| 
 
@@ -84,16 +84,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210607T01:47:51Z | cve-2021-21985 exploit | https://github.com/xnianq/cve-2021-21985_exp | 40 | 6| 
-| 20210607T01:35:15Z | Hack/Exploits for https://krunker.io/ | https://github.com/glixzzy/krunker.io-hacks | 6 | 35| 
-| 20210607T01:32:48Z | Null | https://github.com/MaouStan/Exploit | 0 | 0| 
-| 20210607T01:22:55Z | Null | https://github.com/defiexploit/exploit | 0 | 0| 
-| 20210607T01:17:27Z | bespoke tooling for offensive security%s Windows Usermode Exploit Dev course (OSED) | https://github.com/epi052/osed-scripts | 33 | 14| 
-| 20210607T01:02:47Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
-| 20210607T00:29:58Z | Desktop application mixed with database allowing to allocate patients in a clinic rooms with the goal of avoiding health-based conficts between them and exploiting user authorization to granting access and organise the clinic. Project being meant as a base for mine and my team%s future Engineer%s Thesis. | https://github.com/Too55/pz_project | 1 | 1| 
-| 20210607T00:00:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9537 | 1544| 
-| 20210606T23:18:24Z | xnu_gym is a pongoOS module that patches XNU to reintroduce previously known and patched vulnerabilities. This is an easy way to practice kernel exploitation and jailbreak development! | https://github.com/tjkr0wn/xnu_gym | 45 | 1| 
-| 20210606T22:45:08Z | Some scripts to exploit my vulnerable web app | https://github.com/kitty14956590/vuln-webapp-scripts | 0 | 0| 
+| 20210607T12:00:49Z | exploit_ | https://github.com/Anonymm000/Linux_PrivEsc | 0 | 0| 
+| 20210607T11:56:51Z | Public exploits and modifications | https://github.com/rosonsec/Exploits | 0 | 2| 
+| 20210607T11:51:14Z | My implementation for an exploit of the CVE-2020-0041 bug | https://github.com/Byte-Master-101/CVE_2020_0041 | 0 | 0| 
+| 20210607T11:23:58Z | bespoke tooling for offensive security%s Windows Usermode Exploit Dev course (OSED) | https://github.com/epi052/osed-scripts | 33 | 14| 
+| 20210607T11:21:56Z | Null | https://github.com/ilbaroni/exploit_pattern_rs | 1 | 0| 
+| 20210607T11:02:52Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
+| 20210607T10:44:37Z | security framework api based created in python3 for recon and fuzz exploitation | https://github.com/laligafilipina/falcon-framework | 0 | 0| 
+| 20210607T10:40:10Z | Zenith configs. Exploit them at your own risk. | https://github.com/egorbelibov/unix_configs | 2 | 0| 
+| 20210607T09:56:42Z | Null | https://github.com/x3ro-sys/exploit-PoC | 0 | 0| 
+| 20210607T09:56:13Z | descubrelo tu mismo  .. BETA H.toolkit es una herramienta programada en bash que nos permite de manera automatizada llevar a cabo tareas de hacking, tal como DESCRIPTAR SERVIDOR FTP, ATAQUE A WIFI, TROYANOS, EXPLOIT, ESCANER,INYECCION SQL, Y EL SMB RELAY solo con los datos de la victima, en el cual esta esta herramienta esta en el proceso BETA | https://github.com/XH15X/h15.htool | 1 | 0| 
 
 
 # backdoor on Github 推荐
