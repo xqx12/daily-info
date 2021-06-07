@@ -84,8 +84,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210607T01:19:21Z | Null | https://github.com/defiexploit/exploit | 0 | 0| 
 | 20210607T01:17:27Z | bespoke tooling for offensive security%s Windows Usermode Exploit Dev course (OSED) | https://github.com/epi052/osed-scripts | 33 | 14| 
-| 20210607T01:15:43Z | Null | https://github.com/defiexploit/exploit | 0 | 0| 
 | 20210607T01:02:47Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210607T00:29:58Z | Desktop application mixed with database allowing to allocate patients in a clinic rooms with the goal of avoiding health-based conficts between them and exploiting user authorization to granting access and organise the clinic. Project being meant as a base for mine and my team%s future Engineer%s Thesis. | https://github.com/Too55/pz_project | 1 | 1| 
 | 20210607T00:00:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9537 | 1544| 
