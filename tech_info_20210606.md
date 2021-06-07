@@ -21,7 +21,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210606T19:41:34Z | CVE-2021-22911 | Pre-Auth Blind NoSQL Injection leading to Remote Code Execution in Rocket Chat 3.12.1 | https://github.com/CsEnox/CVE-2021-22911 | A improper input sanitization vulnerability exists in Rocket.Chat server 3.11, 3.12 & 3.13 that could lead to unauthenticated NoSQL injection, resulting potentially in RCE.| 
-| 20210606T18:30:46Z | cve-2021-33879 | GameLoop update MITM | https://github.com/mmiszczyk/cve-2021-33879 | | 
+| 20210606T18:30:46Z | cve-2021-33879 | GameLoop update MITM | https://github.com/mmiszczyk/cve-2021-33879 | Tencent GameLoop before 4.1.21.90 downloaded updates over an insecure HTTP connection. A malicious attacker in an MITM position could spoof the contents of an XML document describing an update package, replacing a download URL with one pointing to an arbitrary Windows executable. Because the only integrity check would be a comparison of the downloaded file%s MD5 checksum to the one contained within the XML document, the downloaded executable would then be executed on the victim%s machine.| 
 | 20210606T18:10:41Z | CVE-2021-29440 | Unsafe Twig processing of static pages leading to RCE in Grav CMS 1.7.10 | https://github.com/CsEnox/CVE-2021-29440 | Grav is a file based Web-platform. Twig processing of static pages can be enabled in the front matter by any administrative user allowed to create or edit pages. As the Twig processor runs unsandboxed, this behavior can be used to gain arbitrary code execution and elevate privileges on the instance. The issue was addressed in version 1.7.11.| 
 | 20210606T16:03:55Z | CVE-2020-0688 | Remote Code Execution on Microsoft Exchange Server through fixed cryptographic keys | https://github.com/MrTiz/CVE-2020-0688 | A remote code execution vulnerability exists in Microsoft Exchange software when the software fails to properly handle objects in memory, aka %Microsoft Exchange Memory Corruption Vulnerability%.| 
 | 20210606T15:46:28Z | cve-2021-21985 | cve-2021-21985 exploit | https://github.com/xnianq/cve-2021-21985_exp | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
@@ -78,7 +78,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210606T23:48:55Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 441 | 39| 
 | 20210606T23:20:28Z | Cross platform coverage-guided fuzzer with dynamic instrumentation | https://github.com/alal4465/Archer | 4 | 0| 
 | 20210606T22:54:45Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 283 | 38| 
 | 20210606T21:51:19Z | Este repositorio contiene el código de una propuesta para llevar a cabo el ataque por correlación y emparejamiento cruzado a el esquema de bóveda difusa.  | https://github.com/Mariuki/CorrelationAttack2FuzzyVault | 0 | 0| 
@@ -88,6 +87,7 @@
 | 20210606T19:53:19Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210606T18:55:38Z | Null | https://github.com/julesbeley/Fuzzy-string-matching-pandas | 0 | 0| 
 | 20210606T18:35:42Z | A passive diode fuzz Eurorack module with switches for changing which diodes are included | https://github.com/rahji/fivefingerfuzz | 0 | 0| 
+| 20210606T18:27:28Z | Null | https://github.com/Sghosh1999/fuzzy_search | 1 | 0| 
 
 
 
