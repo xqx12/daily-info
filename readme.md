@@ -83,6 +83,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210607T12:50:57Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6367 | 1291| 
 | 20210607T12:44:02Z | Thin interface for libFuzzer, an in-process, coverage-guided, evolutionary fuzzing engine. | https://github.com/planetis-m/libfuzzer | 27 | 0| 
 | 20210607T12:43:57Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210607T12:15:15Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 8 | 5| 
@@ -92,7 +93,6 @@
 | 20210607T11:38:06Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3535 | 824| 
 | 20210607T11:30:43Z | Binary, coverage-guided fuzzer for Windows and macOS | https://github.com/googleprojectzero/Jackalope | 525 | 60| 
 | 20210607T11:00:59Z | Null | https://github.com/ethereum/solidity-fuzzing-corpus | 11 | 4| 
-| 20210607T10:54:57Z | This repository is for testing a number of open source applications for vulnerabilities using multiple fuzzers. | https://github.com/bartholomewHarris/fuzzingNode.jsApplications | 1 | 2| 
 
 
 
