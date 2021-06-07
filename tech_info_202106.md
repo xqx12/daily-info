@@ -55,7 +55,7 @@
 | 20210607T06:33:19Z | CVE-2021-29440 | Unsafe Twig processing of static pages leading to RCE in Grav CMS 1.7.10 | https://github.com/CsEnox/CVE-2021-29440 | Grav is a file based Web-platform. Twig processing of static pages can be enabled in the front matter by any administrative user allowed to create or edit pages. As the Twig processor runs unsandboxed, this behavior can be used to gain arbitrary code execution and elevate privileges on the instance. The issue was addressed in version 1.7.11.| 
 | 20210607T04:00:08Z | CVE-2021-21985 | Null | https://github.com/testanull/Project_CVE-2021-21985_PoC | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
 | 20210607T02:03:22Z | CVE-2021-22205 | Null | https://github.com/mr-r3bot/Gitlab-CVE-2021-22205 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 11.9. GitLab was not properly validating image files that were passed to a file parser which resulted in a remote command execution.| 
-| 20210606T16:03:55Z | CVE-2020-0688 | Remote Code Execution on Microsoft Exchange Server through fixed cryptographic keys | https://github.com/MrTiz/CVE-2020-0688 | A remote code execution vulnerability exists in Microsoft Exchange software when the software fails to properly handle objects in memory, aka %Microsoft Exchange Memory Corruption Vulnerability%.| 
+| 20210606T16:03:55Z | CVE-2020-0688 | Remote Code Execution on Microsoft Exchange Server through fixed cryptographic keys | https://github.com/MrTiz/CVE-2020-0688 | | 
 
 
 # klee on Github 推荐
@@ -84,12 +84,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210607T12:04:10Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210607T12:00:49Z | exploit_ | https://github.com/Anonymm000/Linux_PrivEsc | 0 | 0| 
 | 20210607T11:56:51Z | Public exploits and modifications | https://github.com/rosonsec/Exploits | 0 | 2| 
 | 20210607T11:51:14Z | My implementation for an exploit of the CVE-2020-0041 bug | https://github.com/Byte-Master-101/CVE_2020_0041 | 0 | 0| 
 | 20210607T11:23:58Z | bespoke tooling for offensive security%s Windows Usermode Exploit Dev course (OSED) | https://github.com/epi052/osed-scripts | 33 | 14| 
 | 20210607T11:21:56Z | Null | https://github.com/ilbaroni/exploit_pattern_rs | 1 | 0| 
-| 20210607T11:02:52Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210607T10:44:37Z | security framework api based created in python3 for recon and fuzz exploitation | https://github.com/laligafilipina/falcon-framework | 0 | 0| 
 | 20210607T10:40:10Z | Zenith configs. Exploit them at your own risk. | https://github.com/egorbelibov/unix_configs | 2 | 0| 
 | 20210607T09:56:42Z | Null | https://github.com/x3ro-sys/exploit-PoC | 0 | 0| 
