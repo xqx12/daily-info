@@ -35,7 +35,7 @@
 | 20210607T07:13:54Z | CVE-2020-27688 | CVE-2020-27688 | https://github.com/matthiasmaes/CVE-2020-27688 | RVToolsPasswordEncryption.exe in RVTools 4.0.6 allows users to encrypt passwords to be used in the configuration files. This encryption used a static IV and key, and thus using the Decrypt() method from VISKD.cs from the RVTools.exe executable allows for decrypting the encrypted passwords. The accounts used in the configuration files have access to vSphere instances.| 
 | 20210607T06:33:19Z | CVE-2021-29440 | Unsafe Twig processing of static pages leading to RCE in Grav CMS 1.7.10 | https://github.com/CsEnox/CVE-2021-29440 | Grav is a file based Web-platform. Twig processing of static pages can be enabled in the front matter by any administrative user allowed to create or edit pages. As the Twig processor runs unsandboxed, this behavior can be used to gain arbitrary code execution and elevate privileges on the instance. The issue was addressed in version 1.7.11.| 
 | 20210607T04:00:08Z | CVE-2021-21985 | Null | https://github.com/testanull/Project_CVE-2021-21985_PoC | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
-| 20210607T02:03:22Z | CVE-2021-22205 | Null | https://github.com/mr-r3bot/Gitlab-CVE-2021-22205 | | 
+| 20210607T02:03:22Z | CVE-2021-22205 | Null | https://github.com/mr-r3bot/Gitlab-CVE-2021-22205 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 11.9. GitLab was not properly validating image files that were passed to a file parser which resulted in a remote command execution.| 
 
 
 # klee on Github 推荐
@@ -83,11 +83,11 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210607T12:04:18Z | Null | https://github.com/JoDeMiro/FuzzyBevezetes | 0 | 0| 
 | 20210607T11:45:13Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1211 | 218| 
 | 20210607T11:39:56Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
 | 20210607T11:38:06Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3535 | 824| 
 | 20210607T11:30:43Z | Binary, coverage-guided fuzzer for Windows and macOS | https://github.com/googleprojectzero/Jackalope | 525 | 60| 
-| 20210607T11:21:46Z | Null | https://github.com/JoDeMiro/FuzzyBevezetes | 0 | 0| 
 | 20210607T11:00:59Z | Null | https://github.com/ethereum/solidity-fuzzing-corpus | 11 | 4| 
 | 20210607T10:54:57Z | This repository is for testing a number of open source applications for vulnerabilities using multiple fuzzers. | https://github.com/bartholomewHarris/fuzzingNode.jsApplications | 1 | 2| 
 | 20210607T10:51:11Z | Real firmware fuzz-tested with uEmu | https://github.com/MCUSec/uEmu-real_world_firmware | 2 | 1| 
