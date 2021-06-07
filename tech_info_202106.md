@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210607T00:29:58Z | Desktop application mixed with database allowing to allocate patients in a clinic rooms with the goal of avoiding health-based conficts between them and exploiting user authorization to granting access and organise the clinic. Project being meant as a base for mine and my team%s future Engineer%s Thesis. | https://github.com/Too55/pz_project | 1 | 1| 
 | 20210607T00:29:24Z | Null | https://github.com/defiexploit/exploit | 0 | 0| 
 | 20210607T00:02:59Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210607T00:00:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9537 | 1544| 
@@ -93,7 +94,6 @@
 | 20210606T22:10:44Z | Educational web application demonstrating techniques of binary exploitation (Front-end) | https://github.com/Pen-Test3rs/binary_exploits_frontend | 0 | 0| 
 | 20210606T21:35:56Z | SECMON is a web-based tool for the automation of infosec watching and vulnerability management with a web interface. | https://github.com/Guezone/SECMON | 33 | 6| 
 | 20210606T21:28:29Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 208 | 39| 
-| 20210606T21:20:14Z | Website for Easy Cross-Site Exploitation | https://github.com/MooseTheGoose/xsserver | 0 | 0| 
 
 
 # backdoor on Github 推荐
