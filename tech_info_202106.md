@@ -55,7 +55,7 @@
 | 20210606T13:53:59Z | CVE-2020-9496 | XML-RPC request are vulnerable to unsafe deserialization and Cross-Site Scripting issues in Apache OFBiz 17.12.03 | https://github.com/ambalabanov/CVE-2020-9496 | XML-RPC request are vulnerable to unsafe deserialization and Cross-Site Scripting issues in Apache OFBiz 17.12.03| 
 | 20210606T11:24:03Z | CVE-2021-27965 | stack based buffer overflow in MsIo64.sys, Proof of Concept Local Privilege Escalation to nt authority/system | https://github.com/mathisvickie/CVE-2021-27965 | The MsIo64.sys driver before 1.1.19.1016 in MSI Dragon Center before 2.0.98.0 has a buffer overflow that allows privilege escalation via a crafted 0x80102040, 0x80102044, 0x80102050, or 0x80102054 IOCTL request.| 
 | 20210606T08:51:32Z | CVE-2020-13957 | Apache Solr RCE CVE-2020-13957 | https://github.com/s-index/CVE-2020-13957 | Apache Solr versions 6.6.0 to 6.6.6, 7.0.0 to 7.7.3 and 8.0.0 to 8.6.2 prevents some features considered dangerous (which could be used for remote code execution) to be configured in a ConfigSet that%s uploaded via API without authentication/authorization. The checks in place to prevent such features can be circumvented by using a combination of UPLOAD/CREATE actions.| 
-| 20210606T08:41:21Z | CVE-2021-25641 | Apache/Alibaba Dubbo <= 2.7.3 PoC Code for CVE-2021-25641 RCE via Deserialization of Untrusted Data; Affects Versions <= 2.7.6 With Different Gadgets | https://github.com/Dor-Tumarkin/CVE-2021-25641-Proof-of-Concept | | 
+| 20210606T08:41:21Z | CVE-2021-25641 | Apache/Alibaba Dubbo <= 2.7.3 PoC Code for CVE-2021-25641 RCE via Deserialization of Untrusted Data; Affects Versions <= 2.7.6 With Different Gadgets | https://github.com/Dor-Tumarkin/CVE-2021-25641-Proof-of-Concept | Each Apache Dubbo server will set a serialization id to tell the clients which serialization protocol it is working on. But for Dubbo versions before 2.7.8 or 2.6.9, an attacker can choose which serialization id the Provider will use by tampering with the byte preamble flags, aka, not following the server%s instruction. This means that if a weak deserializer such as the Kryo and FST are somehow in code scope (e.g. if Kryo is somehow a part of a dependency), a remote unauthenticated attacker can tell the Provider to use the weak deserializer, and then proceed to exploit it.| 
 
 
 # klee on Github 推荐
@@ -114,6 +114,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210607T00:04:34Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 8 | 5| 
 | 20210606T23:48:55Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 441 | 39| 
 | 20210606T23:20:28Z | Cross platform coverage-guided fuzzer with dynamic instrumentation | https://github.com/alal4465/Archer | 4 | 0| 
 | 20210606T22:54:45Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 283 | 38| 
@@ -123,7 +124,6 @@
 | 20210606T20:22:32Z | Null | https://github.com/JoDeMiro/FuzzyBevezetes | 0 | 0| 
 | 20210606T19:53:19Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210606T18:55:38Z | Null | https://github.com/julesbeley/Fuzzy-string-matching-pandas | 0 | 0| 
-| 20210606T18:35:42Z | A passive diode fuzz Eurorack module with switches for changing which diodes are included | https://github.com/rahji/fivefingerfuzz | 0 | 0| 
 
 
 
