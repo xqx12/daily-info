@@ -114,16 +114,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210607T12:58:31Z | OWASP ZAP add-on containing the web-backdoors and attack files from FuzzDB | https://github.com/zaproxy/fuzzdb-offensive | 6 | 6| 
-| 20210607T12:50:57Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6367 | 1291| 
-| 20210607T12:44:02Z | Thin interface for libFuzzer, an in-process, coverage-guided, evolutionary fuzzing engine. | https://github.com/planetis-m/libfuzzer | 27 | 0| 
-| 20210607T12:43:57Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
-| 20210607T12:15:15Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 8 | 5| 
-| 20210607T12:04:18Z | Null | https://github.com/JoDeMiro/FuzzyBevezetes | 0 | 0| 
-| 20210607T11:45:13Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1211 | 218| 
-| 20210607T11:39:56Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
-| 20210607T11:38:06Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3535 | 824| 
-| 20210607T11:30:43Z | Binary, coverage-guided fuzzer for Windows and macOS | https://github.com/googleprojectzero/Jackalope | 525 | 60| 
+| 20210608T00:00:28Z | Alfred Workflow to parse a fuzzy date and print the formal date | https://github.com/Stvad/FuzzyDate | 50 | 0| 
+| 20210607T23:49:33Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 31884 | 16435| 
+| 20210607T23:37:52Z | Input Police (Codename: The Fuzz (or Fuzz police)) is an open source fuzzing software with privacy in mind that also shows alternative fuzzing software solutions. | https://github.com/seanpm2001/Input-police | 1 | 0| 
+| 20210607T23:16:12Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
+| 20210607T23:14:54Z | Fuzz pidgin dbus by using AFL++ and clang%s ASAN | https://github.com/wh1t3h47/afl_pidgin | 0 | 0| 
+| 20210607T22:48:02Z | Null | https://github.com/opimentel-github/fuzzy-torch | 1 | 0| 
+| 20210607T22:42:17Z | Null | https://github.com/Blackbackofficial/neuro-fuzzy-systems | 0 | 0| 
+| 20210607T21:23:03Z | Simple CI program for running fuzzing over TezEdge. | https://github.com/tezedge/fuzzing-ci | 5 | 0| 
+| 20210607T21:05:05Z | Binary Ninja helper plugin for fuzzable target discovery | https://github.com/ex0dus-0x/fuzzable | 0 | 0| 
+| 20210607T21:04:20Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
 
 
 
