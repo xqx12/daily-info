@@ -29,9 +29,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210607T23:46:03Z | CVE-2021-20259 | PoC for exploiting CVE-2021-20259 | https://github.com/JamesGeeee/CVE-2021-20259 | A flaw was found in the Foreman project. The Proxmox compute resource exposes the password through the API to an authenticated local attacker with view_hosts permission. The highest threat from this vulnerability is to data confidentiality and integrity as well as system availability. Versions before foreman_fog_proxmox 0.13.1 are affected| 
-| 20210607T23:45:57Z | CVE-2020-25716 | PoC for exploiting CVE-2020-25716 | https://github.com/JamesGeeee/CVE-2020-25716 | A flaw was found in Cloudforms. A role-based privileges escalation flaw where export or import of administrator files is possible. An attacker with a specific group can perform actions restricted only to system administrator. This is the affect of an incomplete fix for CVE-2020-10783. The highest threat from this vulnerability is to data confidentiality and integrity. Versions before cfme 5.11.10.1 are affected| 
-| 20210607T23:45:52Z | CVE-2020-1750 | PoC for exploiting CVE-2020-1750 | https://github.com/JamesGeeee/CVE-2020-1750 | A flaw was found in the machine-config-operator that causes an OpenShift node to become unresponsive when a container consumes a large amount of memory. An attacker could use this flaw to deny access to schedule new pods in the OpenShift cluster. This was fixed in openshift/machine-config-operator 4.4.3, openshift/machine-config-operator 4.3.25, openshift/machine-config-operator 4.2.36.| 
 | 20210607T23:08:30Z | CVE-2020-4732 | PoC for exploiting CVE-2020-4732 | https://github.com/JamesGeeee/CVE-2020-4732 | | 
 | 20210607T18:43:43Z | CVE-2021-22911 | Pre-Auth Blind NoSQL Injection leading to Remote Code Execution in Rocket Chat 3.12.1 | https://github.com/CsEnox/CVE-2021-22911 | A improper input sanitization vulnerability exists in Rocket.Chat server 3.11, 3.12 & 3.13 that could lead to unauthenticated NoSQL injection, resulting potentially in RCE.| 
 | 20210607T15:32:59Z | CVE-2020-0041 | My implementation for an exploit of the CVE-2020-0041 bug | https://github.com/Byte-Master-101/CVE_2020_0041 | In binder_transaction of binder.c, there is a possible out of bounds write due to an incorrect bounds check. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-145988638References: Upstream kernel| 
@@ -39,6 +36,9 @@
 | 20210607T09:47:13Z | CVE-2021-3572 | A simple repository helping to test CVE-2021-3572 in PyPA/pip | https://github.com/frenzymadness/CVE-2021-3572 | 未查询到CVE信息| 
 | 20210607T07:48:02Z | cve-2021-33879 | GameLoop update MITM | https://github.com/mmiszczyk/cve-2021-33879 | Tencent GameLoop before 4.1.21.90 downloaded updates over an insecure HTTP connection. A malicious attacker in an MITM position could spoof the contents of an XML document describing an update package, replacing a download URL with one pointing to an arbitrary Windows executable. Because the only integrity check would be a comparison of the downloaded file%s MD5 checksum to the one contained within the XML document, the downloaded executable would then be executed on the victim%s machine.| 
 | 20210607T07:13:54Z | CVE-2020-27688 | CVE-2020-27688 | https://github.com/matthiasmaes/CVE-2020-27688 | RVToolsPasswordEncryption.exe in RVTools 4.0.6 allows users to encrypt passwords to be used in the configuration files. This encryption used a static IV and key, and thus using the Decrypt() method from VISKD.cs from the RVTools.exe executable allows for decrypting the encrypted passwords. The accounts used in the configuration files have access to vSphere instances.| 
+| 20210607T06:33:19Z | CVE-2021-29440 | Unsafe Twig processing of static pages leading to RCE in Grav CMS 1.7.10 | https://github.com/CsEnox/CVE-2021-29440 | Grav is a file based Web-platform. Twig processing of static pages can be enabled in the front matter by any administrative user allowed to create or edit pages. As the Twig processor runs unsandboxed, this behavior can be used to gain arbitrary code execution and elevate privileges on the instance. The issue was addressed in version 1.7.11.| 
+| 20210607T04:00:08Z | CVE-2021-21985 | Null | https://github.com/testanull/Project_CVE-2021-21985_PoC | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
+| 20210607T02:03:22Z | CVE-2021-22205 | Null | https://github.com/mr-r3bot/Gitlab-CVE-2021-22205 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 11.9. GitLab was not properly validating image files that were passed to a file parser which resulted in a remote command execution.| 
 
 
 # klee on Github 推荐
@@ -60,9 +60,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210607T23:46:03Z | PoC for exploiting CVE-2021-20259 | https://github.com/JamesGeeee/CVE-2021-20259 | 0 | 0| 
-| 20210607T23:45:57Z | PoC for exploiting CVE-2020-25716 | https://github.com/JamesGeeee/CVE-2020-25716 | 0 | 0| 
-| 20210607T23:45:52Z | PoC for exploiting CVE-2020-1750 | https://github.com/JamesGeeee/CVE-2020-1750 | 0 | 0| 
 | 20210607T23:16:30Z | labsecurity is a framework and its use is for ethical hacking and computer security | https://github.com/dylan14567/labsecurity | 1 | 3| 
 | 20210607T23:08:30Z | PoC for exploiting CVE-2020-4732 | https://github.com/JamesGeeee/CVE-2020-4732 | 0 | 0| 
 | 20210607T22:52:23Z | Ryan Johnson and His Exploits | https://github.com/ryancj14/LinkToTheNow | 0 | 0| 
@@ -70,6 +67,9 @@
 | 20210607T22:03:02Z | Dont touch | https://github.com/MaSKaThGod/Anime-Exploit | 0 | 0| 
 | 20210607T21:35:17Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9542 | 1549| 
 | 20210607T21:01:48Z | Null | https://github.com/WackyHacker/ExploitLFI | 0 | 0| 
+| 20210607T20:12:15Z | CVE-2017-7494 python exploit | https://github.com/m4udSec/noSAMBAnoCRY-CVE-2017-7494 | 0 | 0| 
+| 20210607T20:08:37Z | Binary exploits presented in web app | https://github.com/Pen-Test3rs/binary_exploits_examples | 0 | 0| 
+| 20210607T20:08:11Z | Null | https://github.com/Tarassssss/stack_overflow_exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
