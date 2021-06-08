@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210608T01:09:14Z | CVE-2021-26080 | PoC for exploiting CVE-2021-26080 | https://github.com/JamesGeeee/CVE-2021-26080 | EditworkflowScheme.jspa in Jira Server and Jira Data Center before version 8.5.14, and from version 8.6.0 before version 8.13.6, and from 8.14.0 before 8.16.1 allows remote attackers to inject arbitrary HTML or JavaScript via a cross site scripting (XSS) vulnerability.| 
+| 20210608T01:09:09Z | CVE-2021-26079 | PoC for exploiting CVE-2021-26079 | https://github.com/JamesGeeee/CVE-2021-26079 | The CardLayoutConfigTable component in Jira Server and Jira Data Center before version 8.5.15, and from version 8.6.0 before version 8.13.7, and from version 8.14.0 before 8.17.0 allows remote attackers to inject arbitrary HTML or JavaScript via a cross site scripting (XSS) vulnerability.| 
+| 20210608T01:09:03Z | CVE-2021-26078 | PoC for exploiting CVE-2021-26078 | https://github.com/JamesGeeee/CVE-2021-26078 | The number range searcher component in Jira Server and Jira Data Center before version 8.5.14, from version 8.6.0 before version 8.13.6, and from version 8.14.0 before version 8.16.1 allows remote attackers inject arbitrary HTML or JavaScript via a cross site scripting (XSS) vulnerability.| 
+| 20210608T01:08:58Z | CVE-2021-33194 | PoC for exploiting CVE-2021-33194 | https://github.com/JamesGeeee/CVE-2021-33194 | | 
+| 20210608T01:08:53Z | CVE-2021-22118 | PoC for exploiting CVE-2021-22118 | https://github.com/JamesGeeee/CVE-2021-22118 | In Spring Framework, versions 5.2.x prior to 5.2.15 and versions 5.3.x prior to 5.3.7, a WebFlux application is vulnerable to a privilege escalation: by (re)creating the temporary storage directory, a locally authenticated malicious user can read or modify files that have been uploaded to the WebFlux application, or overwrite arbitrary files with multipart request data.| 
 | 20210608T00:04:14Z | cve-2021-21985 | cve-2021-21985 exploit | https://github.com/xnianq/cve-2021-21985_exp | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
-| 20210607T23:46:03Z | CVE-2021-20259 | PoC for exploiting CVE-2021-20259 | https://github.com/JamesGeeee/CVE-2021-20259 | A flaw was found in the Foreman project. The Proxmox compute resource exposes the password through the API to an authenticated local attacker with view_hosts permission. The highest threat from this vulnerability is to data confidentiality and integrity as well as system availability. Versions before foreman_fog_proxmox 0.13.1 are affected| 
+| 20210607T23:46:03Z | CVE-2021-20259 | PoC for exploiting CVE-2021-20259 | https://github.com/JamesGeeee/CVE-2021-20259 | | 
 | 20210607T23:45:57Z | CVE-2020-25716 | PoC for exploiting CVE-2020-25716 | https://github.com/JamesGeeee/CVE-2020-25716 | A flaw was found in Cloudforms. A role-based privileges escalation flaw where export or import of administrator files is possible. An attacker with a specific group can perform actions restricted only to system administrator. This is the affect of an incomplete fix for CVE-2020-10783. The highest threat from this vulnerability is to data confidentiality and integrity. Versions before cfme 5.11.10.1 are affected| 
 | 20210607T23:45:52Z | CVE-2020-1750 | PoC for exploiting CVE-2020-1750 | https://github.com/JamesGeeee/CVE-2020-1750 | A flaw was found in the machine-config-operator that causes an OpenShift node to become unresponsive when a container consumes a large amount of memory. An attacker could use this flaw to deny access to schedule new pods in the OpenShift cluster. This was fixed in openshift/machine-config-operator 4.4.3, openshift/machine-config-operator 4.3.25, openshift/machine-config-operator 4.2.36.| 
 | 20210607T23:08:30Z | CVE-2020-4732 | PoC for exploiting CVE-2020-4732 | https://github.com/JamesGeeee/CVE-2020-4732 | IBM Jazz Foundation and IBM Engineering products could allow an authenticated user to obtain sensitive information due to lack of security restrictions. IBM X-Force ID: 188126.| 
-| 20210607T18:43:43Z | CVE-2021-22911 | Pre-Auth Blind NoSQL Injection leading to Remote Code Execution in Rocket Chat 3.12.1 | https://github.com/CsEnox/CVE-2021-22911 | A improper input sanitization vulnerability exists in Rocket.Chat server 3.11, 3.12 & 3.13 that could lead to unauthenticated NoSQL injection, resulting potentially in RCE.| 
-| 20210607T15:32:59Z | CVE-2020-0041 | My implementation for an exploit of the CVE-2020-0041 bug | https://github.com/Byte-Master-101/CVE_2020_0041 | In binder_transaction of binder.c, there is a possible out of bounds write due to an incorrect bounds check. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-145988638References: Upstream kernel| 
-| 20210607T13:46:24Z | CVE-2021-27965 | stack based buffer overflow in MsIo64.sys, Proof of Concept Local Privilege Escalation to nt authority/system | https://github.com/mathisvickie/CVE-2021-27965 | The MsIo64.sys driver before 1.1.19.1016 in MSI Dragon Center before 2.0.98.0 has a buffer overflow that allows privilege escalation via a crafted 0x80102040, 0x80102044, 0x80102050, or 0x80102054 IOCTL request.| 
-| 20210607T09:47:13Z | CVE-2021-3572 | A simple repository helping to test CVE-2021-3572 in PyPA/pip | https://github.com/frenzymadness/CVE-2021-3572 | 未查询到CVE信息| 
-| 20210607T07:48:02Z | cve-2021-33879 | GameLoop update MITM | https://github.com/mmiszczyk/cve-2021-33879 | Tencent GameLoop before 4.1.21.90 downloaded updates over an insecure HTTP connection. A malicious attacker in an MITM position could spoof the contents of an XML document describing an update package, replacing a download URL with one pointing to an arbitrary Windows executable. Because the only integrity check would be a comparison of the downloaded file%s MD5 checksum to the one contained within the XML document, the downloaded executable would then be executed on the victim%s machine.| 
 
 
 # klee on Github 推荐
@@ -84,16 +84,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210608T01:06:12Z | windows and linux streams for post exploitation | https://github.com/kymb0/post_exploitation | 1 | 0| 
-| 20210608T01:02:54Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
-| 20210608T00:51:27Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 17 | 11| 
-| 20210608T00:25:15Z | learning to exploit using CFR. | https://github.com/russ-s-h/Counterfactual-Regret-Minimization | 0 | 0| 
-| 20210607T23:46:03Z | PoC for exploiting CVE-2021-20259 | https://github.com/JamesGeeee/CVE-2021-20259 | 0 | 0| 
-| 20210607T23:45:57Z | PoC for exploiting CVE-2020-25716 | https://github.com/JamesGeeee/CVE-2020-25716 | 0 | 0| 
-| 20210607T23:45:52Z | PoC for exploiting CVE-2020-1750 | https://github.com/JamesGeeee/CVE-2020-1750 | 0 | 0| 
-| 20210607T23:16:30Z | labsecurity is a framework and its use is for ethical hacking and computer security | https://github.com/dylan14567/labsecurity | 1 | 3| 
-| 20210607T23:08:30Z | PoC for exploiting CVE-2020-4732 | https://github.com/JamesGeeee/CVE-2020-4732 | 0 | 0| 
-| 20210607T22:52:23Z | Ryan Johnson and His Exploits | https://github.com/ryancj14/LinkToTheNow | 0 | 0| 
+| 20210608T01:09:50Z | PoC for exploiting CVE-2021-3277 | https://github.com/JamesGeeee/CVE-2021-3277 | 0 | 0| 
+| 20210608T01:09:48Z | PoC for exploiting CVE-2021-30521 | https://github.com/JamesGeeee/CVE-2021-30521 | 0 | 0| 
+| 20210608T01:09:44Z | PoC for exploiting CVE-2021-32671 | https://github.com/JamesGeeee/CVE-2021-32671 | 0 | 0| 
+| 20210608T01:09:33Z | PoC for exploiting CVE-2021-32670 | https://github.com/JamesGeeee/CVE-2021-32670 | 0 | 0| 
+| 20210608T01:09:25Z | PoC for exploiting CVE-2017-20005 | https://github.com/JamesGeeee/CVE-2017-20005 | 0 | 0| 
+| 20210608T01:09:14Z | PoC for exploiting CVE-2021-26080 | https://github.com/JamesGeeee/CVE-2021-26080 | 0 | 0| 
+| 20210608T01:09:09Z | PoC for exploiting CVE-2021-26079 | https://github.com/JamesGeeee/CVE-2021-26079 | 0 | 0| 
+| 20210608T01:09:03Z | PoC for exploiting CVE-2021-26078 | https://github.com/JamesGeeee/CVE-2021-26078 | 0 | 0| 
+| 20210608T01:08:58Z | PoC for exploiting CVE-2021-33194 | https://github.com/JamesGeeee/CVE-2021-33194 | 0 | 0| 
+| 20210608T01:08:53Z | PoC for exploiting CVE-2021-22118 | https://github.com/JamesGeeee/CVE-2021-22118 | 0 | 0| 
 
 
 # backdoor on Github 推荐
