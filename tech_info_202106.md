@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210608T01:10:17Z | CVE-2021-30535 | PoC for exploiting CVE-2021-30535 | https://github.com/JamesGeeee/CVE-2021-30535 | Double free in ICU in Google Chrome prior to 91.0.4472.77 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.| 
-| 20210608T01:10:10Z | CVE-2021-30524 | PoC for exploiting CVE-2021-30524 | https://github.com/JamesGeeee/CVE-2021-30524 | Use after free in TabStrip in Google Chrome prior to 91.0.4472.77 allowed an attacker who convinced a user to install a malicious extension to potentially exploit heap corruption via a crafted HTML page.| 
-| 20210608T01:10:01Z | CVE-2021-30523 | PoC for exploiting CVE-2021-30523 | https://github.com/JamesGeeee/CVE-2021-30523 | Use after free in WebRTC in Google Chrome prior to 91.0.4472.77 allowed a remote attacker to potentially exploit heap corruption via a crafted SCTP packet.| 
-| 20210608T01:09:55Z | CVE-2021-30521 | PoC for exploiting CVE-2021-30521 | https://github.com/JamesGeeee/CVE-2021-30521 | Heap buffer overflow in Autofill in Google Chrome on Android prior to 91.0.4472.77 allowed a remote attacker to perform out of bounds memory access via a crafted HTML page.| 
-| 20210608T01:09:50Z | CVE-2021-3277 | PoC for exploiting CVE-2021-3277 | https://github.com/JamesGeeee/CVE-2021-3277 | Nagios XI 5.7.5 and earlier allows authenticated admins to upload arbitrary files due to improper validation of the rename functionality in custom-includes component, which leads to remote code execution by uploading php files.| 
-| 20210608T01:09:44Z | CVE-2021-32671 | PoC for exploiting CVE-2021-32671 | https://github.com/JamesGeeee/CVE-2021-32671 | Flarum is a forum software for building communities. Flarum%s translation system allowed for string inputs to be converted into HTML DOM nodes when rendered. This change was made after v0.1.0-beta.16 (our last beta before v1.0.0) and was not noticed or documented. This allowed for any user to type malicious HTML markup within certain user input fields and have this execute on client browsers. The example which led to the discovery of this vulnerability was in the forum search box. Entering faux-malicious HTML markup, such as <script>alert(%test%)</script> resulted in an alert box appearing on the forum. This attack could also be modified to perform AJAX requests on behalf of a user, possibly deleting discussions, modifying their settings or profile, or even modifying settings on the Admin panel if the attack was targetted towards a privileged user. All Flarum communities that run flarum v1.0.0 or v1.0.1 are impacted. The vulnerability has been fixed and published as flarum/core v1.0.2. All communities running Flarum v1.0 have to upgrade as soon as possible to v1.0.2.| 
-| 20210608T01:09:33Z | CVE-2021-32670 | PoC for exploiting CVE-2021-32670 | https://github.com/JamesGeeee/CVE-2021-32670 | Datasette is an open source multi-tool for exploring and publishing data. The `?_trace=1` debugging feature in Datasette does not correctly escape generated HTML, resulting in a [reflected cross-site scripting](https://owasp.org/www-community/attacks/xss/#reflected-xss-attacks) vulnerability. This vulnerability is particularly relevant if your Datasette installation includes authenticated features using plugins such as [datasette-auth-passwords](https://datasette.io/plugins/datasette-auth-passwords) as an attacker could use the vulnerability to access protected data. Datasette 0.57 and 0.56.1 both include patches for this issue. If you run Datasette behind a proxy you can workaround this issue by rejecting any incoming requests with `?_trace=` or `&_trace=` in their query string parameters.| 
-| 20210608T01:09:14Z | CVE-2021-26080 | PoC for exploiting CVE-2021-26080 | https://github.com/JamesGeeee/CVE-2021-26080 | EditworkflowScheme.jspa in Jira Server and Jira Data Center before version 8.5.14, and from version 8.6.0 before version 8.13.6, and from 8.14.0 before 8.16.1 allows remote attackers to inject arbitrary HTML or JavaScript via a cross site scripting (XSS) vulnerability.| 
-| 20210608T01:09:09Z | CVE-2021-26079 | PoC for exploiting CVE-2021-26079 | https://github.com/JamesGeeee/CVE-2021-26079 | The CardLayoutConfigTable component in Jira Server and Jira Data Center before version 8.5.15, and from version 8.6.0 before version 8.13.7, and from version 8.14.0 before 8.17.0 allows remote attackers to inject arbitrary HTML or JavaScript via a cross site scripting (XSS) vulnerability.| 
-| 20210608T01:09:03Z | CVE-2021-26078 | PoC for exploiting CVE-2021-26078 | https://github.com/JamesGeeee/CVE-2021-26078 | The number range searcher component in Jira Server and Jira Data Center before version 8.5.14, from version 8.6.0 before version 8.13.6, and from version 8.14.0 before version 8.16.1 allows remote attackers inject arbitrary HTML or JavaScript via a cross site scripting (XSS) vulnerability.| 
+| 20210608T01:12:16Z | CVE-2021-30527 | PoC for exploiting CVE-2021-30527 | https://github.com/JamesGeeee/CVE-2021-30527 | Use after free in WebUI in Google Chrome prior to 91.0.4472.77 allowed an attacker who convinced a user to install a malicious extension to potentially exploit heap corruption via a crafted HTML page.| 
+| 20210608T01:12:15Z | CVE-2021-30528 | PoC for exploiting CVE-2021-30528 | https://github.com/JamesGeeee/CVE-2021-30528 | Use after free in WebAuthentication in Google Chrome on Android prior to 91.0.4472.77 allowed a remote attacker who had compromised the renderer process of a user who had saved a credit card in their Google account to potentially exploit heap corruption via a crafted HTML page.| 
+| 20210608T01:12:11Z | CVE-2021-30526 | PoC for exploiting CVE-2021-30526 | https://github.com/JamesGeeee/CVE-2021-30526 | Out of bounds write in TabStrip in Google Chrome prior to 91.0.4472.77 allowed an attacker who convinced a user to install a malicious extension to perform an out of bounds memory write via a crafted HTML page.| 
+| 20210608T01:12:05Z | CVE-2021-30525 | PoC for exploiting CVE-2021-30525 | https://github.com/JamesGeeee/CVE-2021-30525 | Use after free in TabGroups in Google Chrome prior to 91.0.4472.77 allowed an attacker who convinced a user to install a malicious extension to potentially exploit heap corruption via a crafted HTML page.| 
+| 20210608T01:11:58Z | CVE-2020-36387 | PoC for exploiting CVE-2020-36387 | https://github.com/JamesGeeee/CVE-2020-36387 | An issue was discovered in the Linux kernel before 5.8.2. fs/io_uring.c has a use-after-free related to io_async_task_func and ctx reference holding, aka CID-6d816e088c35.| 
+| 20210608T01:11:46Z | CVE-2020-36386 | PoC for exploiting CVE-2020-36386 | https://github.com/JamesGeeee/CVE-2020-36386 | An issue was discovered in the Linux kernel before 5.8.1. net/bluetooth/hci_event.c has a slab out-of-bounds read in hci_extended_inquiry_result_evt, aka CID-51c19bf3d5cf.| 
+| 20210608T01:11:35Z | CVE-2020-1742 | PoC for exploiting CVE-2020-1742 | https://github.com/JamesGeeee/CVE-2020-1742 | | 
+| 20210608T01:11:15Z | CVE-2020-1690 | PoC for exploiting CVE-2020-1690 | https://github.com/JamesGeeee/CVE-2020-1690 | An improper authorization flaw was discovered in openstack-selinux%s applied policy where it does not prevent a non-root user in a container from privilege escalation. A non-root attacker in one or more Red Hat OpenStack (RHOSP) containers could send messages to the dbus. With access to the dbus, the attacker could start or stop services, possibly causing a denial of service. Versions before openstack-selinux 0.8.24 are affected.| 
+| 20210608T01:11:04Z | CVE-2021-30522 | PoC for exploiting CVE-2021-30522 | https://github.com/JamesGeeee/CVE-2021-30522 | Use after free in WebAudio in Google Chrome prior to 91.0.4472.77 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.| 
+| 20210608T01:10:46Z | CVE-2021-30538 | PoC for exploiting CVE-2021-30538 | https://github.com/JamesGeeee/CVE-2021-30538 | Insufficient policy enforcement in content security policy in Google Chrome prior to 91.0.4472.77 allowed a remote attacker to bypass content security policy via a crafted HTML page.| 
 
 
 # klee on Github 推荐
@@ -84,16 +84,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210608T01:10:51Z | PoC for exploiting CVE-2018-25015 | https://github.com/JamesGeeee/CVE-2018-25015 | 0 | 0| 
-| 20210608T01:10:46Z | PoC for exploiting CVE-2021-30538 | https://github.com/JamesGeeee/CVE-2021-30538 | 0 | 0| 
-| 20210608T01:10:36Z | PoC for exploiting CVE-2021-30536 | https://github.com/JamesGeeee/CVE-2021-30536 | 0 | 0| 
-| 20210608T01:10:24Z | PoC for exploiting CVE-2021-30535 | https://github.com/JamesGeeee/CVE-2021-30535 | 0 | 0| 
-| 20210608T01:10:10Z | PoC for exploiting CVE-2021-30524 | https://github.com/JamesGeeee/CVE-2021-30524 | 0 | 0| 
-| 20210608T01:10:01Z | PoC for exploiting CVE-2021-30523 | https://github.com/JamesGeeee/CVE-2021-30523 | 0 | 0| 
-| 20210608T01:09:55Z | PoC for exploiting CVE-2021-30521 | https://github.com/JamesGeeee/CVE-2021-30521 | 0 | 0| 
-| 20210608T01:09:50Z | PoC for exploiting CVE-2021-3277 | https://github.com/JamesGeeee/CVE-2021-3277 | 0 | 0| 
-| 20210608T01:09:44Z | PoC for exploiting CVE-2021-32671 | https://github.com/JamesGeeee/CVE-2021-32671 | 0 | 0| 
-| 20210608T01:09:33Z | PoC for exploiting CVE-2021-32670 | https://github.com/JamesGeeee/CVE-2021-32670 | 0 | 0| 
+| 20210608T01:12:45Z | PoC for exploiting CVE-2021-30529 | https://github.com/JamesGeeee/CVE-2021-30529 | 0 | 0| 
+| 20210608T01:12:44Z | PoC for exploiting CVE-2021-30530 | https://github.com/JamesGeeee/CVE-2021-30530 | 0 | 0| 
+| 20210608T01:12:22Z | PoC for exploiting CVE-2021-30528 | https://github.com/JamesGeeee/CVE-2021-30528 | 0 | 0| 
+| 20210608T01:12:16Z | PoC for exploiting CVE-2021-30527 | https://github.com/JamesGeeee/CVE-2021-30527 | 0 | 0| 
+| 20210608T01:12:11Z | PoC for exploiting CVE-2021-30526 | https://github.com/JamesGeeee/CVE-2021-30526 | 0 | 0| 
+| 20210608T01:12:05Z | PoC for exploiting CVE-2021-30525 | https://github.com/JamesGeeee/CVE-2021-30525 | 0 | 0| 
+| 20210608T01:11:58Z | PoC for exploiting CVE-2020-36387 | https://github.com/JamesGeeee/CVE-2020-36387 | 0 | 0| 
+| 20210608T01:11:46Z | PoC for exploiting CVE-2020-36386 | https://github.com/JamesGeeee/CVE-2020-36386 | 0 | 0| 
+| 20210608T01:11:35Z | PoC for exploiting CVE-2020-1742 | https://github.com/JamesGeeee/CVE-2020-1742 | 0 | 0| 
+| 20210608T01:11:15Z | PoC for exploiting CVE-2020-1690 | https://github.com/JamesGeeee/CVE-2020-1690 | 0 | 0| 
 
 
 # backdoor on Github 推荐
