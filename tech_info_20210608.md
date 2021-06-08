@@ -27,7 +27,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210608T11:36:47Z | cve-2021-21985 | cve-2021-21985 exploit | https://github.com/xnianq/cve-2021-21985_exp | | 
+| 20210608T11:36:47Z | cve-2021-21985 | cve-2021-21985 exploit | https://github.com/xnianq/cve-2021-21985_exp | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
 | 20210608T11:36:38Z | CVE-2021-21985 | CVE-2021-21985 VMware vCenter Server远程代码执行漏洞 EXP (更新可回显EXP) | https://github.com/r0ckysec/CVE-2021-21985 | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
 | 20210608T05:57:32Z | CVE-2021-29505 | 对CVE-2021-29505进行复现，并分析学了下Xstream反序列化过程 | https://github.com/MyBlackManba/CVE-2021-29505 | XStream is software for serializing Java objects to XML and back again. A vulnerability in XStream versions prior to 1.4.17 may allow a remote attacker has sufficient rights to execute commands of the host only by manipulating the processed input stream. No user who followed the recommendation to setup XStream%s security framework with a whitelist limited to the minimal required types is affected. The vulnerability is patched in version 1.4.17.| 
 | 20210608T04:06:19Z | CVE-2021-22911 | Pre-Auth Blind NoSQL Injection leading to Remote Code Execution in Rocket Chat 3.12.1 | https://github.com/CsEnox/CVE-2021-22911 | A improper input sanitization vulnerability exists in Rocket.Chat server 3.11, 3.12 & 3.13 that could lead to unauthenticated NoSQL injection, resulting potentially in RCE.| 
@@ -57,6 +57,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210608T12:20:21Z | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily. | https://github.com/cdk-team/CDK | 1443 | 218| 
 | 20210608T12:15:17Z | Repo for testing some exploits | https://github.com/RobertFent/exploits | 0 | 0| 
 | 20210608T12:06:52Z | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | 0 | 0| 
 | 20210608T12:02:52Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
@@ -66,7 +67,6 @@
 | 20210608T11:34:18Z | site requests, web scraping etc. Bypass cookies for sites that do not allow this. (it%s different for each site. this is usually exploit for free hosts) | https://github.com/QairexStudio/bypass-host-request.github.io | 1 | 0| 
 | 20210608T11:26:13Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7936 | 1397| 
 | 20210608T11:11:39Z | The code of Hacking: Art Of Exploitation (2nd Ed.) by Jon Erickson. | https://github.com/J-Melon/ArtOfExp | 0 | 0| 
-| 20210608T11:02:43Z | Storage repository to store various exploits of browser pwn challenges | https://github.com/mishrasunny174/browser-pwn | 0 | 0| 
 
 
 # backdoor on Github 推荐
