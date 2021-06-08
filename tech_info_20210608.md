@@ -57,6 +57,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210608T12:27:25Z | Access Manager sera comme un gestionnaire d’accès ou plutôt de gestion de machine Windows agissant tel un contrôle parental. Ayant la possibilité de bloquer des sites internet spécifiques comme le fait DansGuardian. Néanmoins le point ces derniers sont appelés filtres DNS/Web et sont exploitables (bypassable) par la simple utilisation d’un VPN car ceux-ci agissent à l’aide de l’adresse IP du routeur. Notre point fort sera à ce niveau de bloquer les sites internets même si un VPN y est utilisé. Son point faible sera qu’il n’est qu’exécutable sous Windows. Le projet pourra filter les téléchargements / fichiers [ouverts/ecris] etc comme sous forme d’un Évent Log mais plus sophistiqué. Mais également d’éteindre la machine ou le wifi ou d’autoriser que certaines applications à s’exécuter à une plage horaire précise (il sera bien évidement impossible de modifier l’heure sous le système) il sera possible d’enregistrer des images / ou keylogg la machine afin d’avoir un suivi régulier et avance il sera aussi prévu (pas de date) de retrouver chaque machine possédant une license Access Manager via une interface web de récupérer certaines de ces informations. | https://github.com/Sehyn/Access-Manager | 0 | 0| 
+| 20210608T12:26:37Z | The MATLAB P-code for estimating quality of JPEG compressed images. The code can be exploited to estimate quality of JPEG compressed images irrespective of block size and position of blocking artifact. | https://github.com/MdAmirBaig/IQA-of-JPEG-compressed-image | 0 | 0| 
 | 20210608T12:25:40Z | The MATLAB P-code for estimating quality of JPEG compressed images. The code can be exploited to estimate quality of JPEG compressed images irrespective of block size and position of blocking artifact. | https://github.com/MdAmirBaig/Quality-Assessment-of-JPEG-compressed-image-with-known-and-unknown-positions-of-blocking-artifact | 0 | 0| 
 | 20210608T12:20:21Z | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily. | https://github.com/cdk-team/CDK | 1443 | 218| 
 | 20210608T12:15:17Z | Repo for testing some exploits | https://github.com/RobertFent/exploits | 0 | 0| 
@@ -65,8 +67,6 @@
 | 20210608T11:49:37Z | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | 6348 | 1453| 
 | 20210608T11:49:12Z | Collection of docker images to be used for exploit development and testing | https://github.com/mishrasunny174/pwn-docker | 6 | 1| 
 | 20210608T11:42:06Z | Evil plugin for exploiting compromised EconicXP CMS instances | https://github.com/richardcurteis/EconicXP_CMS_Exploit | 0 | 0| 
-| 20210608T11:34:18Z | site requests, web scraping etc. Bypass cookies for sites that do not allow this. (it%s different for each site. this is usually exploit for free hosts) | https://github.com/QairexStudio/bypass-host-request.github.io | 1 | 0| 
-| 20210608T11:26:13Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7936 | 1397| 
 
 
 # backdoor on Github 推荐
