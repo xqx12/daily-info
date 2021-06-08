@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210608T01:12:51Z | CVE-2021-30530 | PoC for exploiting CVE-2021-30530 | https://github.com/JamesGeeee/CVE-2021-30530 | Out of bounds memory access in WebAudio in Google Chrome prior to 91.0.4472.77 allowed a remote attacker to perform out of bounds memory access via a crafted HTML page.| 
+| 20210608T01:12:45Z | CVE-2021-30529 | PoC for exploiting CVE-2021-30529 | https://github.com/JamesGeeee/CVE-2021-30529 | Use after free in Bookmarks in Google Chrome prior to 91.0.4472.77 allowed an attacker who convinced a user to install a malicious extension to potentially exploit heap corruption via a crafted HTML page.| 
+| 20210608T01:12:22Z | CVE-2021-30528 | PoC for exploiting CVE-2021-30528 | https://github.com/JamesGeeee/CVE-2021-30528 | Use after free in WebAuthentication in Google Chrome on Android prior to 91.0.4472.77 allowed a remote attacker who had compromised the renderer process of a user who had saved a credit card in their Google account to potentially exploit heap corruption via a crafted HTML page.| 
 | 20210608T01:12:16Z | CVE-2021-30527 | PoC for exploiting CVE-2021-30527 | https://github.com/JamesGeeee/CVE-2021-30527 | Use after free in WebUI in Google Chrome prior to 91.0.4472.77 allowed an attacker who convinced a user to install a malicious extension to potentially exploit heap corruption via a crafted HTML page.| 
-| 20210608T01:12:15Z | CVE-2021-30528 | PoC for exploiting CVE-2021-30528 | https://github.com/JamesGeeee/CVE-2021-30528 | Use after free in WebAuthentication in Google Chrome on Android prior to 91.0.4472.77 allowed a remote attacker who had compromised the renderer process of a user who had saved a credit card in their Google account to potentially exploit heap corruption via a crafted HTML page.| 
 | 20210608T01:12:11Z | CVE-2021-30526 | PoC for exploiting CVE-2021-30526 | https://github.com/JamesGeeee/CVE-2021-30526 | Out of bounds write in TabStrip in Google Chrome prior to 91.0.4472.77 allowed an attacker who convinced a user to install a malicious extension to perform an out of bounds memory write via a crafted HTML page.| 
-| 20210608T01:12:05Z | CVE-2021-30525 | PoC for exploiting CVE-2021-30525 | https://github.com/JamesGeeee/CVE-2021-30525 | Use after free in TabGroups in Google Chrome prior to 91.0.4472.77 allowed an attacker who convinced a user to install a malicious extension to potentially exploit heap corruption via a crafted HTML page.| 
+| 20210608T01:12:05Z | CVE-2021-30525 | PoC for exploiting CVE-2021-30525 | https://github.com/JamesGeeee/CVE-2021-30525 | | 
 | 20210608T01:11:58Z | CVE-2020-36387 | PoC for exploiting CVE-2020-36387 | https://github.com/JamesGeeee/CVE-2020-36387 | An issue was discovered in the Linux kernel before 5.8.2. fs/io_uring.c has a use-after-free related to io_async_task_func and ctx reference holding, aka CID-6d816e088c35.| 
 | 20210608T01:11:46Z | CVE-2020-36386 | PoC for exploiting CVE-2020-36386 | https://github.com/JamesGeeee/CVE-2020-36386 | An issue was discovered in the Linux kernel before 5.8.1. net/bluetooth/hci_event.c has a slab out-of-bounds read in hci_extended_inquiry_result_evt, aka CID-51c19bf3d5cf.| 
-| 20210608T01:11:35Z | CVE-2020-1742 | PoC for exploiting CVE-2020-1742 | https://github.com/JamesGeeee/CVE-2020-1742 | | 
+| 20210608T01:11:35Z | CVE-2020-1742 | PoC for exploiting CVE-2020-1742 | https://github.com/JamesGeeee/CVE-2020-1742 | An insecure modification vulnerability flaw was found in containers using nmstate/kubernetes-nmstate-handler. An attacker with access to the container could use this flaw to modify /etc/passwd and escalate their privileges. Versions before kubernetes-nmstate-handler-container-v2.3.0-30 are affected.| 
 | 20210608T01:11:15Z | CVE-2020-1690 | PoC for exploiting CVE-2020-1690 | https://github.com/JamesGeeee/CVE-2020-1690 | An improper authorization flaw was discovered in openstack-selinux%s applied policy where it does not prevent a non-root user in a container from privilege escalation. A non-root attacker in one or more Red Hat OpenStack (RHOSP) containers could send messages to the dbus. With access to the dbus, the attacker could start or stop services, possibly causing a denial of service. Versions before openstack-selinux 0.8.24 are affected.| 
-| 20210608T01:11:04Z | CVE-2021-30522 | PoC for exploiting CVE-2021-30522 | https://github.com/JamesGeeee/CVE-2021-30522 | Use after free in WebAudio in Google Chrome prior to 91.0.4472.77 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.| 
-| 20210608T01:10:46Z | CVE-2021-30538 | PoC for exploiting CVE-2021-30538 | https://github.com/JamesGeeee/CVE-2021-30538 | Insufficient policy enforcement in content security policy in Google Chrome prior to 91.0.4472.77 allowed a remote attacker to bypass content security policy via a crafted HTML page.| 
 
 
 # klee on Github 推荐
@@ -84,16 +84,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210608T01:13:44Z | PoC for exploiting CVE-2021-30532 | https://github.com/JamesGeeee/CVE-2021-30532 | 0 | 0| 
+| 20210608T01:13:38Z | PoC for exploiting CVE-2021-30531 | https://github.com/JamesGeeee/CVE-2021-30531 | 0 | 0| 
+| 20210608T01:12:51Z | PoC for exploiting CVE-2021-30530 | https://github.com/JamesGeeee/CVE-2021-30530 | 0 | 0| 
 | 20210608T01:12:45Z | PoC for exploiting CVE-2021-30529 | https://github.com/JamesGeeee/CVE-2021-30529 | 0 | 0| 
-| 20210608T01:12:44Z | PoC for exploiting CVE-2021-30530 | https://github.com/JamesGeeee/CVE-2021-30530 | 0 | 0| 
 | 20210608T01:12:22Z | PoC for exploiting CVE-2021-30528 | https://github.com/JamesGeeee/CVE-2021-30528 | 0 | 0| 
 | 20210608T01:12:16Z | PoC for exploiting CVE-2021-30527 | https://github.com/JamesGeeee/CVE-2021-30527 | 0 | 0| 
 | 20210608T01:12:11Z | PoC for exploiting CVE-2021-30526 | https://github.com/JamesGeeee/CVE-2021-30526 | 0 | 0| 
 | 20210608T01:12:05Z | PoC for exploiting CVE-2021-30525 | https://github.com/JamesGeeee/CVE-2021-30525 | 0 | 0| 
 | 20210608T01:11:58Z | PoC for exploiting CVE-2020-36387 | https://github.com/JamesGeeee/CVE-2020-36387 | 0 | 0| 
 | 20210608T01:11:46Z | PoC for exploiting CVE-2020-36386 | https://github.com/JamesGeeee/CVE-2020-36386 | 0 | 0| 
-| 20210608T01:11:35Z | PoC for exploiting CVE-2020-1742 | https://github.com/JamesGeeee/CVE-2020-1742 | 0 | 0| 
-| 20210608T01:11:15Z | PoC for exploiting CVE-2020-1690 | https://github.com/JamesGeeee/CVE-2020-1690 | 0 | 0| 
 
 
 # backdoor on Github 推荐
