@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210608T01:17:15Z | CVE-2021-31153 | PoC for exploiting CVE-2021-31153 | https://github.com/JamesGeeee/CVE-2021-31153 | please before 0.4 allows a local unprivileged attacker to gain knowledge about the existence of files or directories in privileged locations via the search_path function, the --check option, or the -d option.| 
-| 20210608T01:17:07Z | CVE-2020-26142 | PoC for exploiting CVE-2020-26142 | https://github.com/JamesGeeee/CVE-2020-26142 | An issue was discovered in the kernel in OpenBSD 6.6. The WEP, WPA, WPA2, and WPA3 implementations treat fragmented frames as full frames. An adversary can abuse this to inject arbitrary network packets, independent of the network configuration.| 
-| 20210608T01:16:59Z | CVE-2021-21198 | PoC for exploiting CVE-2021-21198 | https://github.com/JamesGeeee/CVE-2021-21198 | Out of bounds read in IPC in Google Chrome prior to 89.0.4389.114 allowed a remote attacker who had compromised the renderer process to potentially perform a sandbox escape via a crafted HTML page.| 
-| 20210608T01:16:47Z | CVE-2021-1498 | PoC for exploiting CVE-2021-1498 | https://github.com/JamesGeeee/CVE-2021-1498 | Multiple vulnerabilities in the web-based management interface of Cisco HyperFlex HX could allow an unauthenticated, remote attacker to perform command injection attacks against an affected device. For more information about these vulnerabilities, see the Details section of this advisory.| 
-| 20210608T01:16:42Z | CVE-2021-1497 | PoC for exploiting CVE-2021-1497 | https://github.com/JamesGeeee/CVE-2021-1497 | Multiple vulnerabilities in the web-based management interface of Cisco HyperFlex HX could allow an unauthenticated, remote attacker to perform command injection attacks against an affected device. For more information about these vulnerabilities, see the Details section of this advisory.| 
-| 20210608T01:16:37Z | CVE-2020-28328 | PoC for exploiting CVE-2020-28328 | https://github.com/JamesGeeee/CVE-2020-28328 | SuiteCRM before 7.11.17 is vulnerable to remote code execution via the system settings Log File Name setting. In certain circumstances involving admin account takeover, logger_file_name can refer to an attacker-controlled .php file under the web root.| 
-| 20210608T01:16:31Z | CVE-2020-36313 | PoC for exploiting CVE-2020-36313 | https://github.com/JamesGeeee/CVE-2020-36313 | An issue was discovered in the Linux kernel before 5.7. The KVM subsystem allows out-of-range access to memslots after a deletion, aka CID-0774a964ef56. This affects arch/s390/kvm/kvm-s390.c, include/linux/kvm_host.h, and virt/kvm/kvm_main.c.| 
-| 20210608T01:16:13Z | CVE-2020-15225 | PoC for exploiting CVE-2020-15225 | https://github.com/JamesGeeee/CVE-2020-15225 | | 
-| 20210608T01:16:04Z | CVE-2021-23362 | PoC for exploiting CVE-2021-23362 | https://github.com/JamesGeeee/CVE-2021-23362 | The package hosted-git-info before 3.0.8 are vulnerable to Regular Expression Denial of Service (ReDoS) via regular expression shortcutMatch in the fromUrl function in index.js. The affected regular expression exhibits polynomial worst-case time complexity.| 
-| 20210608T01:15:57Z | CVE-2021-33896 | PoC for exploiting CVE-2021-33896 | https://github.com/JamesGeeee/CVE-2021-33896 | Dino before 0.1.2 and 0.2.x before 0.2.1 allows Directory Traversal (only for creation of new files) via URI-encoded path separators.| 
+| 20210608T01:19:15Z | CVE-2021-29740 | PoC for exploiting CVE-2021-29740 | https://github.com/JamesGeeee/CVE-2021-29740 | IBM Spectrum Scale 5.0.0 through 5.0.5.6 and 5.1.0 through 5.1.0.3 system core component is affected by a format string security vulnerability. An attacker could execute arbitrary code in the context of process memory, potentially escalating their system privileges and taking control over the entire system with root access. IBM X-Force ID: 201474.| 
+| 20210608T01:19:13Z | CVE-2021-29665 | PoC for exploiting CVE-2021-29665 | https://github.com/JamesGeeee/CVE-2021-29665 | IBM Security Verify Access 20.07 is vulnerable to a stack based buffer overflow, caused by improper bounds checking which could allow a local attacker to execute arbitrary code on the system with elevated privileges.| 
+| 20210608T01:19:04Z | CVE-2021-29668 | PoC for exploiting CVE-2021-29668 | https://github.com/JamesGeeee/CVE-2021-29668 | IBM Jazz Foundation and IBM Engineering products are vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 199406.| 
+| 20210608T01:18:55Z | CVE-2020-4495 | PoC for exploiting CVE-2020-4495 | https://github.com/JamesGeeee/CVE-2020-4495 | IBM Jazz Foundation and IBM Engineering products could allow a remote attacker to bypass security restrictions, caused by improper access control. By sending a specially-crafted request to the REST API, an attacker could exploit this vulnerability to bypass access restrictions, and execute arbitrary actions with administrative privileges. IBM X-Force ID: 182114.| 
+| 20210608T01:18:48Z | CVE-2020-4977 | PoC for exploiting CVE-2020-4977 | https://github.com/JamesGeeee/CVE-2020-4977 | IBM Engineering Lifecycle Optimization - Publishing is vulnerable to stored cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 192470.| 
+| 20210608T01:18:43Z | CVE-2020-4732 | PoC for exploiting CVE-2020-4732 | https://github.com/JamesGeeee/CVE-2020-4732 | | 
+| 20210608T01:18:39Z | CVE-2021-31155 | PoC for exploiting CVE-2021-31155 | https://github.com/JamesGeeee/CVE-2021-31155 | Failure to normalize the umask in please before 0.4 allows a local attacker to gain full root privileges if they are allowed to execute at least one command.| 
+| 20210608T01:18:34Z | CVE-2020-10698 | PoC for exploiting CVE-2020-10698 | https://github.com/JamesGeeee/CVE-2020-10698 | A flaw was found in Ansible Tower when running jobs. This flaw allows an attacker to access the stdout of the executed jobs which are run from other organizations. Some sensible data can be disclosed. However, critical data should not be disclosed, as it should be protected by the no_log flag when debugging is enabled. This flaw affects Ansible Tower versions before 3.6.4, Ansible Tower versions before 3.5.6 and Ansible Tower versions before 3.4.6.| 
+| 20210608T01:18:22Z | CVE-2021-31154 | PoC for exploiting CVE-2021-31154 | https://github.com/JamesGeeee/CVE-2021-31154 | pleaseedit in please before 0.4 uses predictable temporary filenames in /tmp and the target directory. This allows a local attacker to gain full root privileges by staging a symlink attack.| 
+| 20210608T01:17:25Z | CVE-2021-22543 | PoC for exploiting CVE-2021-22543 | https://github.com/JamesGeeee/CVE-2021-22543 | An issue was discovered in Linux: KVM through Improper handling of VM_IO,VM_PFNMAP vmas in KVM can bypass RO checks and can lead to pages being freed while still accessible by the VMM and guest. This allows users with the ability to start and control a VM to read/write random pages of memory and can result in local privilege escalation.| 
 
 
 # klee on Github 推荐
@@ -84,16 +84,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210608T01:17:25Z | PoC for exploiting CVE-2021-22543 | https://github.com/JamesGeeee/CVE-2021-22543 | 0 | 0| 
-| 20210608T01:17:15Z | PoC for exploiting CVE-2021-31153 | https://github.com/JamesGeeee/CVE-2021-31153 | 0 | 0| 
-| 20210608T01:17:07Z | PoC for exploiting CVE-2020-26142 | https://github.com/JamesGeeee/CVE-2020-26142 | 0 | 0| 
-| 20210608T01:16:59Z | PoC for exploiting CVE-2021-21198 | https://github.com/JamesGeeee/CVE-2021-21198 | 0 | 0| 
-| 20210608T01:16:47Z | PoC for exploiting CVE-2021-1498 | https://github.com/JamesGeeee/CVE-2021-1498 | 0 | 0| 
-| 20210608T01:16:42Z | PoC for exploiting CVE-2021-1497 | https://github.com/JamesGeeee/CVE-2021-1497 | 0 | 0| 
-| 20210608T01:16:37Z | PoC for exploiting CVE-2020-28328 | https://github.com/JamesGeeee/CVE-2020-28328 | 0 | 0| 
-| 20210608T01:16:31Z | PoC for exploiting CVE-2020-36313 | https://github.com/JamesGeeee/CVE-2020-36313 | 0 | 0| 
-| 20210608T01:16:13Z | PoC for exploiting CVE-2020-15225 | https://github.com/JamesGeeee/CVE-2020-15225 | 0 | 0| 
-| 20210608T01:16:04Z | PoC for exploiting CVE-2021-23362 | https://github.com/JamesGeeee/CVE-2021-23362 | 0 | 0| 
+| 20210608T01:19:42Z | PoC for exploiting CVE-2021-32458 | https://github.com/JamesGeeee/CVE-2021-32458 | 0 | 0| 
+| 20210608T01:19:36Z | PoC for exploiting CVE-2021-20348 | https://github.com/JamesGeeee/CVE-2021-20348 | 0 | 0| 
+| 20210608T01:19:31Z | PoC for exploiting CVE-2021-20371 | https://github.com/JamesGeeee/CVE-2021-20371 | 0 | 0| 
+| 20210608T01:19:27Z | PoC for exploiting CVE-2021-29670 | https://github.com/JamesGeeee/CVE-2021-29670 | 0 | 0| 
+| 20210608T01:19:21Z | PoC for exploiting CVE-2021-29740 | https://github.com/JamesGeeee/CVE-2021-29740 | 0 | 0| 
+| 20210608T01:19:13Z | PoC for exploiting CVE-2021-29665 | https://github.com/JamesGeeee/CVE-2021-29665 | 0 | 0| 
+| 20210608T01:19:04Z | PoC for exploiting CVE-2021-29668 | https://github.com/JamesGeeee/CVE-2021-29668 | 0 | 0| 
+| 20210608T01:18:55Z | PoC for exploiting CVE-2020-4495 | https://github.com/JamesGeeee/CVE-2020-4495 | 0 | 0| 
+| 20210608T01:18:48Z | PoC for exploiting CVE-2020-4977 | https://github.com/JamesGeeee/CVE-2020-4977 | 0 | 0| 
+| 20210608T01:18:43Z | PoC for exploiting CVE-2020-4732 | https://github.com/JamesGeeee/CVE-2020-4732 | 0 | 0| 
 
 
 # backdoor on Github 推荐
