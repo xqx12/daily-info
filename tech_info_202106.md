@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210608T12:35:17Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9542 | 1549| 
 | 20210608T12:29:06Z | The MATLAB P-code for estimating quality of JPEG compressed images. The code can be exploited to estimate quality of JPEG compressed images irrespective of block size and position of blocking artifact. | https://github.com/MdAmirBaig/IQA-of-JPEG-compressed-image | 0 | 0| 
 | 20210608T12:27:25Z | Access Manager sera comme un gestionnaire d’accès ou plutôt de gestion de machine Windows agissant tel un contrôle parental. Ayant la possibilité de bloquer des sites internet spécifiques comme le fait DansGuardian. Néanmoins le point ces derniers sont appelés filtres DNS/Web et sont exploitables (bypassable) par la simple utilisation d’un VPN car ceux-ci agissent à l’aide de l’adresse IP du routeur. Notre point fort sera à ce niveau de bloquer les sites internets même si un VPN y est utilisé. Son point faible sera qu’il n’est qu’exécutable sous Windows. Le projet pourra filter les téléchargements / fichiers [ouverts/ecris] etc comme sous forme d’un Évent Log mais plus sophistiqué. Mais également d’éteindre la machine ou le wifi ou d’autoriser que certaines applications à s’exécuter à une plage horaire précise (il sera bien évidement impossible de modifier l’heure sous le système) il sera possible d’enregistrer des images / ou keylogg la machine afin d’avoir un suivi régulier et avance il sera aussi prévu (pas de date) de retrouver chaque machine possédant une license Access Manager via une interface web de récupérer certaines de ces informations. | https://github.com/Sehyn/Access-Manager | 0 | 0| 
 | 20210608T12:25:40Z | The MATLAB P-code for estimating quality of JPEG compressed images. The code can be exploited to estimate quality of JPEG compressed images irrespective of block size and position of blocking artifact. | https://github.com/MdAmirBaig/Quality-Assessment-of-JPEG-compressed-image-with-known-and-unknown-positions-of-blocking-artifact | 0 | 0| 
@@ -93,7 +94,6 @@
 | 20210608T12:02:52Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210608T11:49:37Z | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | 6348 | 1453| 
 | 20210608T11:49:12Z | Collection of docker images to be used for exploit development and testing | https://github.com/mishrasunny174/pwn-docker | 6 | 1| 
-| 20210608T11:42:06Z | Evil plugin for exploiting compromised EconicXP CMS instances | https://github.com/richardcurteis/EconicXP_CMS_Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
