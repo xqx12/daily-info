@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210608T12:25:40Z | The MATLAB P-code for estimating quality of JPEG compressed images. The code can be exploited to estimate quality of JPEG compressed images irrespective of block size and position of blocking artifact. | https://github.com/MdAmirBaig/Quality-Assessment-of-JPEG-compressed-image-with-known-and-unknown-positions-of-blocking-artifact | 0 | 0| 
 | 20210608T12:20:21Z | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily. | https://github.com/cdk-team/CDK | 1443 | 218| 
 | 20210608T12:15:17Z | Repo for testing some exploits | https://github.com/RobertFent/exploits | 0 | 0| 
 | 20210608T12:06:52Z | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | 0 | 0| 
@@ -93,7 +94,6 @@
 | 20210608T11:42:06Z | Evil plugin for exploiting compromised EconicXP CMS instances | https://github.com/richardcurteis/EconicXP_CMS_Exploit | 0 | 0| 
 | 20210608T11:34:18Z | site requests, web scraping etc. Bypass cookies for sites that do not allow this. (it%s different for each site. this is usually exploit for free hosts) | https://github.com/QairexStudio/bypass-host-request.github.io | 1 | 0| 
 | 20210608T11:26:13Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7936 | 1397| 
-| 20210608T11:11:39Z | The code of Hacking: Art Of Exploitation (2nd Ed.) by Jon Erickson. | https://github.com/J-Melon/ArtOfExp | 0 | 0| 
 
 
 # backdoor on Github 推荐
