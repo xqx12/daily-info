@@ -67,10 +67,10 @@
 | 20210608T06:41:04Z | Dodoco doko? | https://github.com/RiceFT/klee | 0 | 0| 
 | 20210607T22:52:38Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
 | 20210607T13:47:15Z | A library for concolic execution of RV32 instruction set simulators | https://github.com/agra-uni-bremen/clover | 1 | 0| 
+| 20210607T06:46:22Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1711 | 495| 
 | 20210607T00:38:06Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 144 | 14| 
 | 20210606T16:54:02Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 14 | 45| 
 | 20210606T10:55:07Z | Null | https://github.com/ReneSchwarzer/Kleene | 0 | 0| 
-| 20210606T02:57:41Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 121 | 35| 
 
 
 # s2e on Github 推荐
@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210608T12:49:26Z | Storage repository to store various exploits of browser pwn challenges | https://github.com/mishrasunny174/browser-pwn | 0 | 0| 
 | 20210608T12:45:35Z | Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish to influence Onelinetips and explain the commands, for the better understanding of new hunters.. | https://github.com/KingOfBugbounty/KingOfBugBountyTips | 2168 | 342| 
 | 20210608T12:41:14Z | bespoke tooling for offensive security%s Windows Usermode Exploit Dev course (OSED) | https://github.com/epi052/osed-scripts | 33 | 15| 
 | 20210608T12:37:57Z | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | 0 | 0| 
@@ -93,7 +94,6 @@
 | 20210608T12:25:40Z | The MATLAB P-code for estimating quality of JPEG compressed images. The code can be exploited to estimate quality of JPEG compressed images irrespective of block size and position of blocking artifact. | https://github.com/MdAmirBaig/Quality-Assessment-of-JPEG-compressed-image-with-known-and-unknown-positions-of-blocking-artifact | 0 | 0| 
 | 20210608T12:20:21Z | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily. | https://github.com/cdk-team/CDK | 1443 | 218| 
 | 20210608T12:15:17Z | Repo for testing some exploits | https://github.com/RobertFent/exploits | 0 | 0| 
-| 20210608T12:02:52Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 
 
 # backdoor on Github 推荐
