@@ -54,7 +54,7 @@
 | 20210608T01:23:56Z | CVE-2020-36007 | PoC for exploiting CVE-2020-36007 | https://github.com/JamesGeeee/CVE-2020-36007 | AppCMS 2.0.101 in /admin/template/tpl_app.php has a cross site scripting attack vulnerability which allows the attacker to obtain sensitive information of other users.| 
 | 20210608T01:23:47Z | CVE-2021-22222 | PoC for exploiting CVE-2021-22222 | https://github.com/JamesGeeee/CVE-2021-22222 | Infinite loop in DVB-S2-BB dissector in Wireshark 3.4.0 to 3.4.5 allows denial of service via packet injection or crafted capture file| 
 | 20210608T01:23:42Z | CVE-2021-33904 | PoC for exploiting CVE-2021-33904 | https://github.com/JamesGeeee/CVE-2021-33904 | In Accela Civic Platform through 21.1, the security/hostSignon.do parameter servProvCode is vulnerable to XSS.| 
-| 20210608T01:23:36Z | CVE-2021-29099 | PoC for exploiting CVE-2021-29099 | https://github.com/JamesGeeee/CVE-2021-29099 | | 
+| 20210608T01:23:36Z | CVE-2021-29099 | PoC for exploiting CVE-2021-29099 | https://github.com/JamesGeeee/CVE-2021-29099 | A SQL injection vulnerability exists in some configurations of ArcGIS Server versions 10.8.1 and earlier. Specially crafted web requests can expose information that is not intended to be disclosed (not customer datasets). Web Services that use file based data sources (file Geodatabase or Shape Files or tile cached services) are unaffected by this issue.| 
 | 20210608T01:23:30Z | CVE-2020-36385 | PoC for exploiting CVE-2020-36385 | https://github.com/JamesGeeee/CVE-2020-36385 | An issue was discovered in the Linux kernel before 5.10. drivers/infiniband/core/ucma.c has a use-after-free because the ctx is reached via the ctx_list in some ucma_migrate_id situations where ucma_close is called, aka CID-f5449e74802c.| 
 
 
