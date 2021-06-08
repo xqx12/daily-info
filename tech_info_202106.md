@@ -46,6 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210608T01:23:13Z | CVE-2021-20699 | PoC for exploiting CVE-2021-20699 | https://github.com/JamesGeeee/CVE-2021-20699 | Sharp NEC Displays (UN462A R1.300 and prior to it, UN462VA R1.300 and prior to it, UN492S R1.300 and prior to it, UN492VS R1.300 and prior to it, UN552A R1.300 and prior to it, UN552S R1.300 and prior to it, UN552VS R1.300 and prior to it, UN552 R1.300 and prior to it, UN552V R1.300 and prior to it, UX552S R1.300 and prior to it, UN552 R1.300 and prior to it, V864Q R2.000 and prior to it, C861Q R2.000 and prior to it, P754Q R2.000 and prior to it, V754Q R2.000 and prior to it, C751Q R2.000 and prior to it, V964Q R2.000 and prior to it, C961Q R2.000 and prior to it, P654Q R2.000 and prior to it, V654Q R2.000 and prior to it, C651Q R2.000 and prior to it, V554Q R2.000 and prior to it) allows an attacker a buffer overflow and to execute remote code by sending long parameters that contains specific characters in http request.| 
+| 20210608T01:23:09Z | CVE-2021-20698 | PoC for exploiting CVE-2021-20698 | https://github.com/JamesGeeee/CVE-2021-20698 | Sharp NEC Displays (UN462A R1.300 and prior to it, UN462VA R1.300 and prior to it, UN492S R1.300 and prior to it, UN492VS R1.300 and prior to it, UN552A R1.300 and prior to it, UN552S R1.300 and prior to it, UN552VS R1.300 and prior to it, UN552 R1.300 and prior to it, UN552V R1.300 and prior to it, UX552S R1.300 and prior to it, UN552 R1.300 and prior to it, V864Q R2.000 and prior to it, C861Q R2.000 and prior to it, P754Q R2.000 and prior to it, V754Q R2.000 and prior to it, C751Q R2.000 and prior to it, V964Q R2.000 and prior to it, C961Q R2.000 and prior to it, P654Q R2.000 and prior to it, V654Q R2.000 and prior to it, C651Q R2.000 and prior to it, V554Q R2.000 and prior to it) allows an attacker to obtain root privileges and execute remote code by sending unintended parameters that contain specific characters in http request.| 
 | 20210608T01:22:13Z | CVE-2021-20517 | PoC for exploiting CVE-2021-20517 | https://github.com/JamesGeeee/CVE-2021-20517 | IBM WebSphere Application Server Network Deployment 8.5 and 9.0 could allow a remote authenticated attacker to traverse directories. An attacker could send a specially-crafted URL request containing %dot dot% sequences (/../) to read and delete arbitrary files on the system. IBM X-Force ID: 198435.| 
 | 20210608T01:22:04Z | CVE-2020-5008 | PoC for exploiting CVE-2020-5008 | https://github.com/JamesGeeee/CVE-2020-5008 | IBM DataPower Gateway 10.0.0.0 through 10.0.1.0 and 2018.4.1.0 through 2018.4.1.14 stores sensitive information in GET request parameters. This may lead to information disclosure if unauthorized parties have access to the URLs via server logs, referrer header or browser history. IBM X-Force ID: 193033.| 
 | 20210608T01:21:51Z | CVE-2020-1719 | PoC for exploiting CVE-2020-1719 | https://github.com/JamesGeeee/CVE-2020-1719 | A flaw was found in wildfly. The EJBContext principle is not popped back after invoking another EJB using a different Security Domain. The highest threat from this vulnerability is to data confidentiality and integrity. Versions before wildfly 20.0.0.Final are affected.| 
@@ -54,8 +56,6 @@
 | 20210608T01:21:35Z | CVE-2020-14328 | PoC for exploiting CVE-2020-14328 | https://github.com/JamesGeeee/CVE-2020-14328 | A flaw was found in Ansible Tower in versions before 3.7.2. A Server Side Request Forgery flaw can be abused by supplying a URL which could lead to the server processing it connecting to internal services or exposing additional internal services and more particularly retrieving full details in case of error. The highest threat from this vulnerability is to data confidentiality.| 
 | 20210608T01:21:19Z | CVE-2020-14327 | PoC for exploiting CVE-2020-14327 | https://github.com/JamesGeeee/CVE-2020-14327 | A Server-side request forgery (SSRF) flaw was found in Ansible Tower in versions before 3.6.5 and before 3.7.2. Functionality on the Tower server is abused by supplying a URL that could lead to the server processing it. This flaw leads to the connection to internal services or the exposure of additional internal services by abusing the test feature of lookup credentials to forge HTTP/HTTPS requests from the server and retrieving the results of the response.| 
 | 20210608T01:21:10Z | CVE-2020-10729 | PoC for exploiting CVE-2020-10729 | https://github.com/JamesGeeee/CVE-2020-10729 | A flaw was found in the use of insufficiently random values in Ansible. Two random password lookups of the same length generate the equal value as the template caching action for the same file since no re-evaluation happens. The highest threat from this vulnerability would be that all passwords are exposed at once for the file. This flaw affects Ansible Engine versions before 2.9.6.| 
-| 20210608T01:21:02Z | CVE-2021-22705 | PoC for exploiting CVE-2021-22705 | https://github.com/JamesGeeee/CVE-2021-22705 | Improper Restriction of Operations within the Bounds of a Memory Buffer vulnerability exists that could cause denial of service or unauthorized access to system information when interacting directly with a driver installed by Vijeo Designer or EcoStruxure Machine Expert| 
-| 20210608T01:20:54Z | CVE-2020-5030 | PoC for exploiting CVE-2020-5030 | https://github.com/JamesGeeee/CVE-2020-5030 | IBM Jazz Foundation and IBM Engineering products are vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 193737.| 
 
 
 # klee on Github 推荐
@@ -84,16 +84,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210608T01:23:47Z | PoC for exploiting CVE-2021-22222 | https://github.com/JamesGeeee/CVE-2021-22222 | 0 | 0| 
+| 20210608T01:23:42Z | PoC for exploiting CVE-2021-33904 | https://github.com/JamesGeeee/CVE-2021-33904 | 0 | 0| 
+| 20210608T01:23:36Z | PoC for exploiting CVE-2021-29099 | https://github.com/JamesGeeee/CVE-2021-29099 | 0 | 0| 
+| 20210608T01:23:30Z | PoC for exploiting CVE-2020-36385 | https://github.com/JamesGeeee/CVE-2020-36385 | 0 | 0| 
+| 20210608T01:23:20Z | PoC for exploiting CVE-2021-20699 | https://github.com/JamesGeeee/CVE-2021-20699 | 0 | 0| 
+| 20210608T01:23:09Z | PoC for exploiting CVE-2021-20698 | https://github.com/JamesGeeee/CVE-2021-20698 | 0 | 0| 
 | 20210608T01:22:13Z | PoC for exploiting CVE-2021-20517 | https://github.com/JamesGeeee/CVE-2021-20517 | 0 | 0| 
 | 20210608T01:22:04Z | PoC for exploiting CVE-2020-5008 | https://github.com/JamesGeeee/CVE-2020-5008 | 0 | 0| 
 | 20210608T01:21:51Z | PoC for exploiting CVE-2020-1719 | https://github.com/JamesGeeee/CVE-2020-1719 | 0 | 0| 
 | 20210608T01:21:46Z | PoC for exploiting CVE-2021-30465 | https://github.com/JamesGeeee/CVE-2021-30465 | 0 | 0| 
-| 20210608T01:21:40Z | PoC for exploiting CVE-2020-14329 | https://github.com/JamesGeeee/CVE-2020-14329 | 0 | 0| 
-| 20210608T01:21:35Z | PoC for exploiting CVE-2020-14328 | https://github.com/JamesGeeee/CVE-2020-14328 | 0 | 0| 
-| 20210608T01:21:19Z | PoC for exploiting CVE-2020-14327 | https://github.com/JamesGeeee/CVE-2020-14327 | 0 | 0| 
-| 20210608T01:21:10Z | PoC for exploiting CVE-2020-10729 | https://github.com/JamesGeeee/CVE-2020-10729 | 0 | 0| 
-| 20210608T01:21:02Z | PoC for exploiting CVE-2021-22705 | https://github.com/JamesGeeee/CVE-2021-22705 | 0 | 0| 
-| 20210608T01:20:54Z | PoC for exploiting CVE-2020-5030 | https://github.com/JamesGeeee/CVE-2020-5030 | 0 | 0| 
 
 
 # backdoor on Github 推荐
