@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210608T01:26:15Z | CVE-2020-17514 | PoC for exploiting CVE-2020-17514 | https://github.com/JamesGeeee/CVE-2020-17514 | Apache Fineract prior to 1.5.0 disables HTTPS hostname verification in ProcessorHelper in the configureClient method. Under typical deployments, a man in the middle attack could be successful.| 
+| 20210608T01:26:05Z | CVE-2021-33839 | PoC for exploiting CVE-2021-33839 | https://github.com/JamesGeeee/CVE-2021-33839 | Luca through 1.7.4 on Android allows remote attackers to obtain sensitive information about COVID-19 tracking because the QR code of a Public Location can be intentionally confused with the QR code of a Private Meeting.| 
+| 20210608T01:26:00Z | CVE-2021-22911 | PoC for exploiting CVE-2021-22911 | https://github.com/JamesGeeee/CVE-2021-22911 | A improper input sanitization vulnerability exists in Rocket.Chat server 3.11, 3.12 & 3.13 that could lead to unauthenticated NoSQL injection, resulting potentially in RCE.| 
 | 20210608T01:24:53Z | CVE-2021-33840 | PoC for exploiting CVE-2021-33840 | https://github.com/JamesGeeee/CVE-2021-33840 | The server in Luca through 1.1.14 allows remote attackers to cause a denial of service (insertion of many fake records related to COVID-19) because Phone Number data lacks a digital signature.| 
 | 20210608T01:24:01Z | CVE-2021-33838 | PoC for exploiting CVE-2021-33838 | https://github.com/JamesGeeee/CVE-2021-33838 | Luca through 1.7.4 on Android allows remote attackers to obtain sensitive information about COVID-19 tracking because requests related to Check-In State occur shortly after requests for Phone Number Registration.| 
 | 20210608T01:23:56Z | CVE-2020-36007 | PoC for exploiting CVE-2020-36007 | https://github.com/JamesGeeee/CVE-2020-36007 | AppCMS 2.0.101 in /admin/template/tpl_app.php has a cross site scripting attack vulnerability which allows the attacker to obtain sensitive information of other users.| 
 | 20210608T01:23:47Z | CVE-2021-22222 | PoC for exploiting CVE-2021-22222 | https://github.com/JamesGeeee/CVE-2021-22222 | Infinite loop in DVB-S2-BB dissector in Wireshark 3.4.0 to 3.4.5 allows denial of service via packet injection or crafted capture file| 
 | 20210608T01:23:42Z | CVE-2021-33904 | PoC for exploiting CVE-2021-33904 | https://github.com/JamesGeeee/CVE-2021-33904 | In Accela Civic Platform through 21.1, the security/hostSignon.do parameter servProvCode is vulnerable to XSS.| 
 | 20210608T01:23:36Z | CVE-2021-29099 | PoC for exploiting CVE-2021-29099 | https://github.com/JamesGeeee/CVE-2021-29099 | A SQL injection vulnerability exists in some configurations of ArcGIS Server versions 10.8.1 and earlier. Specially crafted web requests can expose information that is not intended to be disclosed (not customer datasets). Web Services that use file based data sources (file Geodatabase or Shape Files or tile cached services) are unaffected by this issue.| 
-| 20210608T01:23:30Z | CVE-2020-36385 | PoC for exploiting CVE-2020-36385 | https://github.com/JamesGeeee/CVE-2020-36385 | An issue was discovered in the Linux kernel before 5.10. drivers/infiniband/core/ucma.c has a use-after-free because the ctx is reached via the ctx_list in some ucma_migrate_id situations where ucma_close is called, aka CID-f5449e74802c.| 
-| 20210608T01:23:20Z | CVE-2021-20699 | PoC for exploiting CVE-2021-20699 | https://github.com/JamesGeeee/CVE-2021-20699 | Sharp NEC Displays (UN462A R1.300 and prior to it, UN462VA R1.300 and prior to it, UN492S R1.300 and prior to it, UN492VS R1.300 and prior to it, UN552A R1.300 and prior to it, UN552S R1.300 and prior to it, UN552VS R1.300 and prior to it, UN552 R1.300 and prior to it, UN552V R1.300 and prior to it, UX552S R1.300 and prior to it, UN552 R1.300 and prior to it, V864Q R2.000 and prior to it, C861Q R2.000 and prior to it, P754Q R2.000 and prior to it, V754Q R2.000 and prior to it, C751Q R2.000 and prior to it, V964Q R2.000 and prior to it, C961Q R2.000 and prior to it, P654Q R2.000 and prior to it, V654Q R2.000 and prior to it, C651Q R2.000 and prior to it, V554Q R2.000 and prior to it) allows an attacker a buffer overflow and to execute remote code by sending long parameters that contains specific characters in http request.| 
-| 20210608T01:23:09Z | CVE-2021-20698 | PoC for exploiting CVE-2021-20698 | https://github.com/JamesGeeee/CVE-2021-20698 | Sharp NEC Displays (UN462A R1.300 and prior to it, UN462VA R1.300 and prior to it, UN492S R1.300 and prior to it, UN492VS R1.300 and prior to it, UN552A R1.300 and prior to it, UN552S R1.300 and prior to it, UN552VS R1.300 and prior to it, UN552 R1.300 and prior to it, UN552V R1.300 and prior to it, UX552S R1.300 and prior to it, UN552 R1.300 and prior to it, V864Q R2.000 and prior to it, C861Q R2.000 and prior to it, P754Q R2.000 and prior to it, V754Q R2.000 and prior to it, C751Q R2.000 and prior to it, V964Q R2.000 and prior to it, C961Q R2.000 and prior to it, P654Q R2.000 and prior to it, V654Q R2.000 and prior to it, C651Q R2.000 and prior to it, V554Q R2.000 and prior to it) allows an attacker to obtain root privileges and execute remote code by sending unintended parameters that contain specific characters in http request.| 
-| 20210608T01:22:13Z | CVE-2021-20517 | PoC for exploiting CVE-2021-20517 | https://github.com/JamesGeeee/CVE-2021-20517 | IBM WebSphere Application Server Network Deployment 8.5 and 9.0 could allow a remote authenticated attacker to traverse directories. An attacker could send a specially-crafted URL request containing %dot dot% sequences (/../) to read and delete arbitrary files on the system. IBM X-Force ID: 198435.| 
+| 20210608T01:23:30Z | CVE-2020-36385 | PoC for exploiting CVE-2020-36385 | https://github.com/JamesGeeee/CVE-2020-36385 | | 
 
 
 # klee on Github 推荐
@@ -84,16 +84,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210608T01:26:15Z | PoC for exploiting CVE-2020-17514 | https://github.com/JamesGeeee/CVE-2020-17514 | 0 | 0| 
+| 20210608T01:26:05Z | PoC for exploiting CVE-2021-33839 | https://github.com/JamesGeeee/CVE-2021-33839 | 0 | 0| 
+| 20210608T01:26:00Z | PoC for exploiting CVE-2021-22911 | https://github.com/JamesGeeee/CVE-2021-22911 | 0 | 0| 
 | 20210608T01:25:52Z | PoC for exploiting CVE-2018-1386 | https://github.com/JamesGeeee/CVE-2018-1386 | 0 | 0| 
-| 20210608T01:25:51Z | PoC for exploiting CVE-2021-22911 | https://github.com/JamesGeeee/CVE-2021-22911 | 0 | 0| 
 | 20210608T01:25:13Z | PoC for exploiting CVE-2019-4031 | https://github.com/JamesGeeee/CVE-2019-4031 | 0 | 0| 
 | 20210608T01:24:53Z | PoC for exploiting CVE-2021-33840 | https://github.com/JamesGeeee/CVE-2021-33840 | 0 | 0| 
 | 20210608T01:24:01Z | PoC for exploiting CVE-2021-33838 | https://github.com/JamesGeeee/CVE-2021-33838 | 0 | 0| 
 | 20210608T01:23:56Z | PoC for exploiting CVE-2020-36007 | https://github.com/JamesGeeee/CVE-2020-36007 | 0 | 0| 
 | 20210608T01:23:47Z | PoC for exploiting CVE-2021-22222 | https://github.com/JamesGeeee/CVE-2021-22222 | 0 | 0| 
 | 20210608T01:23:42Z | PoC for exploiting CVE-2021-33904 | https://github.com/JamesGeeee/CVE-2021-33904 | 0 | 0| 
-| 20210608T01:23:36Z | PoC for exploiting CVE-2021-29099 | https://github.com/JamesGeeee/CVE-2021-29099 | 0 | 0| 
-| 20210608T01:23:30Z | PoC for exploiting CVE-2020-36385 | https://github.com/JamesGeeee/CVE-2020-36385 | 0 | 0| 
 
 
 # backdoor on Github 推荐
