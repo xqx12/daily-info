@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210608T11:36:47Z | cve-2021-21985 | cve-2021-21985 exploit | https://github.com/xnianq/cve-2021-21985_exp | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
+| 20210608T11:36:47Z | cve-2021-21985 | cve-2021-21985 exploit | https://github.com/xnianq/cve-2021-21985_exp | | 
 | 20210608T11:36:38Z | CVE-2021-21985 | CVE-2021-21985 VMware vCenter Server远程代码执行漏洞 EXP (更新可回显EXP) | https://github.com/r0ckysec/CVE-2021-21985 | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
 | 20210608T05:57:32Z | CVE-2021-29505 | 对CVE-2021-29505进行复现，并分析学了下Xstream反序列化过程 | https://github.com/MyBlackManba/CVE-2021-29505 | XStream is software for serializing Java objects to XML and back again. A vulnerability in XStream versions prior to 1.4.17 may allow a remote attacker has sufficient rights to execute commands of the host only by manipulating the processed input stream. No user who followed the recommendation to setup XStream%s security framework with a whitelist limited to the minimal required types is affected. The vulnerability is patched in version 1.4.17.| 
 | 20210608T04:06:19Z | CVE-2021-22911 | Pre-Auth Blind NoSQL Injection leading to Remote Code Execution in Rocket Chat 3.12.1 | https://github.com/CsEnox/CVE-2021-22911 | A improper input sanitization vulnerability exists in Rocket.Chat server 3.11, 3.12 & 3.13 that could lead to unauthenticated NoSQL injection, resulting potentially in RCE.| 
@@ -114,16 +114,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210608T00:00:28Z | Alfred Workflow to parse a fuzzy date and print the formal date | https://github.com/Stvad/FuzzyDate | 50 | 0| 
-| 20210607T23:49:33Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 31884 | 16435| 
-| 20210607T23:37:52Z | Input Police (Codename: The Fuzz (or Fuzz police)) is an open source fuzzing software with privacy in mind that also shows alternative fuzzing software solutions. | https://github.com/seanpm2001/Input-police | 1 | 1| 
-| 20210607T23:16:12Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
-| 20210607T23:14:54Z | Fuzz pidgin dbus by using AFL++ and clang%s ASAN | https://github.com/wh1t3h47/afl_pidgin | 0 | 0| 
-| 20210607T22:48:02Z | Null | https://github.com/opimentel-github/fuzzy-torch | 1 | 0| 
-| 20210607T22:42:17Z | Null | https://github.com/Blackbackofficial/neuro-fuzzy-systems | 0 | 0| 
-| 20210607T21:23:03Z | Simple CI program for running fuzzing over TezEdge. | https://github.com/tezedge/fuzzing-ci | 5 | 0| 
-| 20210607T21:05:05Z | Binary Ninja helper plugin for fuzzable target discovery | https://github.com/ex0dus-0x/fuzzable | 0 | 0| 
-| 20210607T21:04:20Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
+| 20210608T12:09:17Z | Stores work from deploying web app to Heroku | https://github.com/dmottice20/fuzzy-memory | 0 | 0| 
+| 20210608T12:03:11Z | Null | https://github.com/FuzzySid/FuzzySid | 0 | 0| 
+| 20210608T12:00:54Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 572 | 115| 
+| 20210608T11:56:32Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6368 | 1292| 
+| 20210608T11:56:31Z | Thin interface for libFuzzer, an in-process, coverage-guided, evolutionary fuzzing engine. | https://github.com/planetis-m/libfuzzer | 28 | 0| 
+| 20210608T11:50:26Z | Null | https://github.com/fuzzyjoin/fuzzyjoin.github.io | 0 | 0| 
+| 20210608T11:26:16Z | Null | https://github.com/a6colute/fuzzy-search | 0 | 0| 
+| 20210608T11:17:41Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
+| 20210608T11:09:42Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
+| 20210608T11:07:42Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 
 
 
