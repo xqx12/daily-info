@@ -74,12 +74,12 @@
 | 20210608T23:33:47Z | Patch for Travertine to improve performance during attacks and fix memory issues. | https://github.com/2lstudios-mc/FlameCord | 38 | 23| 
 | 20210608T22:51:40Z | Null | https://github.com/GreenToxicAura/exploits | 0 | 0| 
 | 20210608T22:49:44Z | Various techniques for exploiting Windows | https://github.com/billchaison/Windows-Trix | 5 | 0| 
-| 20210608T22:37:36Z | HackerX the roblox exploit | https://github.com/efwerwerqwerqwerqwerqwer/HackerX | 0 | 0| 
 | 20210608T22:37:15Z | Blog consacré au Raspberry Pi. Au programme : des actualités, des tutoriels en français, des conseils, des projets, et bien plus pour exploiter le maximum de votre framboise ! | https://github.com/Skyost/FramboisePi | 0 | 0| 
 | 20210608T21:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9543 | 1550| 
 | 20210608T21:30:39Z | Ryan Johnson and His Exploits | https://github.com/ryancj14/LinkToTheNow | 0 | 0| 
 | 20210608T21:24:30Z | A repository for learning  Stack exploitation techniques | https://github.com/xr0o0tx-511/How2Stack | 0 | 0| 
 | 20210608T21:07:17Z | Pulsar-Project  Automate Exploitation Radio Frequency | https://github.com/F0rbidden-Equation/Pulsar | 0 | 0| 
+| 20210608T20:51:12Z | Null | https://github.com/DiamondHands-Exploit/BedWarsExploit | 0 | 1| 
 
 
 # backdoor on Github 推荐
