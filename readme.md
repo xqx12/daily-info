@@ -17,6 +17,8 @@
 | 20210609 | Link - Rust 语言写的一款 C&C 框架 | https://github.com/postrequest/link| 
 | 20210609 | iOS App 开发者应该如何建立安全的 HTTPS 通信 | https://sec.today/pulses/6439a260-7e9a-4d0b-bb51-41369424bd2e/| 
 | 20210609 | Checkpoint 对 Office Excel MSGraph 组件的 Fuzz 测试 | https://sec.today/pulses/9dd453f9-3c7d-4be5-985e-82c94346ea1f/| 
+| 20210609 | iOS App 开发者应该如何建立安全的 HTTPS 通信 | https://www.securing.pl/en/key-aspects-of-secure-networking-on-ios/| 
+| 20210609 | Checkpoint 对 Office Excel MSGraph 组件的 Fuzz 测试 | https://research.checkpoint.com/2021/fuzzing-the-office-ecosystem/| 
 
 
 # 安全维基 推荐
