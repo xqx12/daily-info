@@ -87,6 +87,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210609T12:56:33Z | Null | https://github.com/schemathesis/web-api-fuzzing-project | 4 | 0| 
+| 20210609T12:55:25Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
 | 20210609T12:51:52Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 442 | 40| 
 | 20210609T12:43:58Z | Null | https://github.com/a6colute/fuzzy-search | 0 | 0| 
 | 20210609T12:41:57Z | The Official Fuzzy Britches Repository. | https://github.com/ThePapaw/fuzzybritches | 0 | 0| 
@@ -95,8 +97,6 @@
 | 20210609T12:04:07Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210609T11:59:52Z | Null | https://github.com/abinumerouno/FuzzyAHP | 0 | 0| 
 | 20210609T11:48:44Z | Null | https://github.com/gjm-anban/fuzzgit | 0 | 1| 
-| 20210609T11:46:40Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3535 | 825| 
-| 20210609T11:37:15Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 
 
 
