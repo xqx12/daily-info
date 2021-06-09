@@ -99,6 +99,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210609T12:22:53Z | This will remove the hostflow java assist backdoor | https://github.com/abhiram555/SpigotPluginMalwareRemover | 0 | 1| 
 | 20210609T12:20:58Z | This will remove the hostflow java assist backdoor | https://github.com/abhiram555/JavaAssistBackdoorRemover | 0 | 1| 
 | 20210609T11:49:21Z | Web application backdoor builder | https://github.com/M4DM0e/Door404 | 58 | 16| 
 | 20210609T10:07:11Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 248 | 43| 
@@ -108,7 +109,6 @@
 | 20210609T01:57:30Z | Null | https://github.com/PurduePAML/K-ARM_Backdoor_Optimization | 1 | 0| 
 | 20210608T21:29:38Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/persianhydra/Xeexe-TopAntivirusEvasion | 466 | 107| 
 | 20210608T21:00:15Z | PHP 8.1.0-dev Backdoor System Shell Script | https://github.com/flast101/php-8.1.0-dev-backdoor-rce | 9 | 3| 
-| 20210608T20:46:20Z | Very Easy Relative Backdoor Application | https://github.com/Not-C-Developer/VERBA | 1 | 0| 
 
 
 # fuzz on Github 推荐
