@@ -99,16 +99,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210608T09:22:54Z | Very Easy Relative Backdoor Application | https://github.com/Not-C-Developer/VERBA | 0 | 0| 
-| 20210608T03:39:45Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/persianhydra/Xeexe-TopAntivirusEvasion | 465 | 107| 
+| 20210608T21:29:38Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/persianhydra/Xeexe-TopAntivirusEvasion | 466 | 107| 
+| 20210608T21:00:15Z | PHP 8.1.0-dev Backdoor System Shell Script | https://github.com/flast101/php-8.1.0-dev-backdoor-rce | 9 | 3| 
+| 20210608T20:46:20Z | Very Easy Relative Backdoor Application | https://github.com/Not-C-Developer/VERBA | 1 | 0| 
+| 20210608T19:54:47Z | Creating a Backdoor and attaching Keylogger to the Backdoor | https://github.com/indradhar/Backdoor_With_Keylogger | 0 | 0| 
+| 20210608T18:59:28Z | Python 3 IRC Bot / Botnet | https://github.com/trackmastersteve/HackServ | 21 | 17| 
+| 20210608T17:51:30Z | Null | https://github.com/EjHvorSerDuVildUdJim/backdoor | 0 | 0| 
+| 20210608T16:36:13Z | install meterpreter reverse_tcp  backdoor | https://github.com/Nek0y4nSu/reverse_tcp_meterpreter_installer | 0 | 0| 
+| 20210608T15:52:04Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 249 | 43| 
+| 20210608T14:04:24Z | Null | https://github.com/KelelawarCyberTeam/Shell-Backdoor | 0 | 0| 
 | 20210608T03:36:36Z | php script to gain access to a site once injected | https://github.com/Sliden101/backdoor | 0 | 0| 
-| 20210607T23:27:38Z | A workflow to create/manage a backdoor admin account and rotate the password. E.g. Another LAPS workflow. | https://github.com/Rocketman-Tech/BreakGlassAdmin | 0 | 0| 
-| 20210607T21:33:49Z | Python AV Evasion Tools | https://github.com/G1ft3dC0d3/MsfMania | 141 | 30| 
-| 20210607T16:06:55Z | Demo page for the backdoorthen package | https://github.com/johanfive/backdoordemo | 0 | 0| 
-| 20210607T14:51:49Z | Null | https://github.com/N0Clew/Backdoor-Router | 0 | 0| 
-| 20210607T12:58:31Z | OWASP ZAP add-on containing the web-backdoors and attack files from FuzzDB | https://github.com/zaproxy/fuzzdb-offensive | 6 | 6| 
-| 20210607T11:48:15Z | Windows 10 PRO Activator - No more backdoors via loaders from China and neither you will need any crack anymore that is valid for a week or two. This is script is written for powershell/cmd. This script will also removing all bloatware from Windows 10. Edit the script after your needs. | https://github.com/wuseman/wLoader | 64 | 16| 
-| 20210607T11:43:21Z | PHP 8.1.0-dev Backdoor System Shell Script | https://github.com/flast101/php-8.1.0-dev-backdoor-rce | 8 | 2| 
 
 
 # fuzz on Github 推荐
