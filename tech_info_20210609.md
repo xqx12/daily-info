@@ -40,7 +40,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210609T12:11:06Z | CVE-2021-21985 | CVE-2021-21985 VMware vCenter Server远程代码执行漏洞 EXP (更新可回显EXP) | https://github.com/r0ckysec/CVE-2021-21985 | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
 | 20210609T11:49:34Z | CVE-2021-33739 | Null | https://github.com/mavillon1/CVE-2021-33739-POC | Microsoft DWM Core Library Elevation of Privilege Vulnerability| 
-| 20210609T11:28:48Z | cve-2021-21985 | cve-2021-21985 exploit | https://github.com/xnianq/cve-2021-21985_exp | | 
+| 20210609T11:28:48Z | cve-2021-21985 | cve-2021-21985 exploit | https://github.com/xnianq/cve-2021-21985_exp | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
 
 
 # klee on Github 推荐
@@ -84,6 +84,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210609T12:11:47Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 442 | 40| 
 | 20210609T12:05:15Z | Null | https://github.com/attekett/NodeFuzz | 117 | 45| 
 | 20210609T12:04:07Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210609T11:59:52Z | Null | https://github.com/abinumerouno/FuzzyAHP | 0 | 0| 
@@ -93,7 +94,6 @@
 | 20210609T11:01:05Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1804 | 357| 
 | 20210609T10:58:14Z | Null | https://github.com/a6colute/fuzzy-search | 0 | 0| 
 | 20210609T10:24:11Z | Fuzzy Decision Tree implementation for Python | https://github.com/balins/fuzzytree | 1 | 0| 
-| 20210609T10:15:16Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 442 | 40| 
 
 
 
