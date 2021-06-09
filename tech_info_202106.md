@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210609T12:51:29Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 17 | 11| 
 | 20210609T12:48:26Z | Null | https://github.com/torquez/exploit | 0 | 0| 
 | 20210609T12:39:49Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 3 | 1| 
 | 20210609T12:36:31Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 22 | 1| 
@@ -93,7 +94,6 @@
 | 20210609T12:05:35Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210609T12:01:38Z | Null | https://github.com/carlos-fernando-yanquee-94/DVR_Exploiter-master-clon | 0 | 0| 
 | 20210609T11:05:06Z | HackerX the roblox exploit | https://github.com/efwerwerqwerqwerqwerqwer/HackerX | 0 | 0| 
-| 20210609T10:26:31Z | This is a GUI application of the Contract Automata Toolkit,  exploiting the contract automata library to put contract automata at work | https://github.com/davidebasile/ContractAutomataApp | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -114,16 +114,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210609T12:11:47Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 442 | 40| 
-| 20210609T12:05:15Z | Null | https://github.com/attekett/NodeFuzz | 117 | 45| 
+| 20210609T12:51:52Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 442 | 40| 
+| 20210609T12:43:58Z | Null | https://github.com/a6colute/fuzzy-search | 0 | 0| 
+| 20210609T12:41:57Z | The Official Fuzzy Britches Repository. | https://github.com/ThePapaw/fuzzybritches | 0 | 0| 
+| 20210609T12:40:09Z | Null | https://github.com/attekett/NodeFuzz | 117 | 45| 
+| 20210609T12:15:15Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 8 | 5| 
 | 20210609T12:04:07Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210609T11:59:52Z | Null | https://github.com/abinumerouno/FuzzyAHP | 0 | 0| 
 | 20210609T11:48:44Z | Null | https://github.com/gjm-anban/fuzzgit | 0 | 1| 
 | 20210609T11:46:40Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3535 | 825| 
 | 20210609T11:37:15Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210609T11:01:05Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1804 | 357| 
-| 20210609T10:58:14Z | Null | https://github.com/a6colute/fuzzy-search | 0 | 0| 
-| 20210609T10:24:11Z | Fuzzy Decision Tree implementation for Python | https://github.com/balins/fuzzytree | 1 | 0| 
 
 
 
