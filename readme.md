@@ -84,12 +84,12 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210609T12:05:15Z | Null | https://github.com/attekett/NodeFuzz | 117 | 45| 
 | 20210609T12:04:07Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210609T11:59:52Z | Null | https://github.com/abinumerouno/FuzzyAHP | 0 | 0| 
 | 20210609T11:48:44Z | Null | https://github.com/gjm-anban/fuzzgit | 0 | 1| 
 | 20210609T11:46:40Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3535 | 825| 
 | 20210609T11:37:15Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210609T11:28:17Z | Null | https://github.com/attekett/NodeFuzz | 117 | 45| 
 | 20210609T11:01:05Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1804 | 357| 
 | 20210609T10:58:14Z | Null | https://github.com/a6colute/fuzzy-search | 0 | 0| 
 | 20210609T10:24:11Z | Fuzzy Decision Tree implementation for Python | https://github.com/balins/fuzzytree | 1 | 0| 
