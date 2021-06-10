@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210610T12:47:52Z | This repository contains hints to exploit and capture flag of  CTF machines from various platforms. this isn%t a detailed walk-through. from some boxes which I hunt. | https://github.com/nibrasmuhamed/CTF-Walkthrough | 0 | 0| 
 | 20210610T12:36:33Z | Proof of consept for CVE-2018-17431 | https://github.com/Fadavvi/CVE-2018-17431-PoC | 2 | 1| 
 | 20210610T12:35:16Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9546 | 1552| 
 | 20210610T12:31:03Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 59 | 21| 
@@ -93,7 +94,6 @@
 | 20210610T11:53:22Z | firehorse secureboot exploit SDCard maker for Redmi 3S | https://github.com/fxsheep/firehorse_sdcard | 0 | 0| 
 | 20210610T11:46:36Z | This repository contains hints to exploit and capture flag of  CTF machines from various platforms. this isn%t a detailed walk-through. from some boxes which I hunt. | https://github.com/nibrasmuhamed/Boxes-Walkthrough | 0 | 0| 
 | 20210610T11:45:48Z | collection of some of my(and others) pwn and binary exploitation writeups.  | https://github.com/trevorsaudi/Pwn-Hub | 0 | 0| 
-| 20210610T11:13:05Z | exploit code(incomplete) | https://github.com/fr0g2s/HackCTF-pwnable- | 0 | 0| 
 
 
 # backdoor on Github 推荐
