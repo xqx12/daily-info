@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210610T01:45:10Z | My writeups/solutions for the Modern Binary Exploitation 2015 course provided by Rensselaer Polytechnic Institute | https://github.com/0xYonas/CSCI-4968-WriteUps | 0 | 0| 
 | 20210610T01:39:54Z | PoC for exploiting CVE-2021-23388 | https://github.com/JamesCVE/CVE-2021-23388 | 0 | 0| 
 | 20210610T01:39:16Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 308 | 43| 
 | 20210610T01:38:27Z | PoC for exploiting CVE-2021-24316 | https://github.com/JamesCVE/CVE-2021-24316 | 0 | 0| 
@@ -93,7 +94,6 @@
 | 20210610T00:51:29Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 17 | 11| 
 | 20210610T00:45:32Z | discord token exploit  | https://github.com/ClanVv3/discord-token-grabber.py | 0 | 0| 
 | 20210610T00:30:41Z | Patch for Travertine to improve performance during attacks and fix memory issues. | https://github.com/2lstudios-mc/FlameCord | 38 | 23| 
-| 20210609T23:28:29Z | Night King 7.55FW Host Exploit With Mixed Auto mode PRB-Borg and DarkmodderVC | https://github.com/Night-King-Host/755Auto | 0 | 0| 
 
 
 # backdoor on Github 推荐
