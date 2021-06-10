@@ -39,7 +39,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210609T22:31:42Z | CVE-2021-21985 | CVE-2021-21985 VMware vCenter Server远程代码执行漏洞 EXP (更新可回显EXP) | https://github.com/r0ckysec/CVE-2021-21985 | | 
+| 20210609T22:31:42Z | CVE-2021-21985 | CVE-2021-21985 VMware vCenter Server远程代码执行漏洞 EXP (更新可回显EXP) | https://github.com/r0ckysec/CVE-2021-21985 | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
 | 20210609T19:48:58Z | CVE-2021-33739 | Null | https://github.com/mavillon1/CVE-2021-33739-POC | Microsoft DWM Core Library Elevation of Privilege Vulnerability| 
 | 20210609T18:30:38Z | cve-2021-21985 | cve-2021-21985 exploit | https://github.com/xnianq/cve-2021-21985_exp | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
 | 20210609T13:27:22Z | CVE-2021-21315 | CVE 2021-21315 PoC | https://github.com/ForbiddenProgrammer/CVE-2021-21315-PoC | The System Information Library for Node.JS (npm package %systeminformation%) is an open source collection of functions to retrieve detailed hardware, system and OS information. In systeminformation before version 5.3.1 there is a command injection vulnerability. Problem was fixed in version 5.3.1. As a workaround instead of upgrading, be sure to check or sanitize service parameters that are passed to si.inetLatency(), si.inetChecksite(), si.services(), si.processLoad() ... do only allow strings, reject any arrays. String sanitation works as expected.| 
@@ -93,16 +93,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210609T12:56:33Z | Null | https://github.com/schemathesis/web-api-fuzzing-project | 4 | 0| 
-| 20210609T12:55:25Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
-| 20210609T12:51:52Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 442 | 40| 
-| 20210609T12:43:58Z | Null | https://github.com/a6colute/fuzzy-search | 0 | 0| 
-| 20210609T12:41:57Z | The Official Fuzzy Britches Repository. | https://github.com/ThePapaw/fuzzybritches | 0 | 0| 
-| 20210609T12:40:09Z | Null | https://github.com/attekett/NodeFuzz | 117 | 45| 
-| 20210609T12:15:15Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 8 | 5| 
-| 20210609T12:04:07Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
-| 20210609T11:59:52Z | Null | https://github.com/abinumerouno/FuzzyAHP | 0 | 0| 
-| 20210609T11:48:44Z | Null | https://github.com/gjm-anban/fuzzgit | 0 | 1| 
+| 20210609T23:23:48Z | Fuzzy name matching with python | https://github.com/conjectures/fuzzy-name-matching | 0 | 0| 
+| 20210609T23:23:06Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6368 | 1293| 
+| 20210609T23:14:39Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 649 | 120| 
+| 20210609T23:11:22Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2341 | 128| 
+| 20210609T23:08:48Z | Null | https://github.com/dalacan/fuzzy-document-deduplication | 0 | 0| 
+| 20210609T22:42:30Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20210609T22:35:55Z | Fuzzy Inference Systems package | https://github.com/jdvelasq/fuzzy_toobox | 0 | 0| 
+| 20210609T22:27:02Z | Implementation of %Dostrajanie klasyfikatora FUZZY LOGIC z użyciem procedury PSO.%  in python | https://github.com/wujekstaszek/MIO_2021_PSO_FUZZY_LOGIC | 0 | 0| 
+| 20210609T22:19:06Z | Config files for my GitHub profile. | https://github.com/Fuzzypawslol/Fuzzypawslol | 0 | 0| 
+| 20210609T22:10:12Z | A differential fuzzer for x86 decoders | https://github.com/trailofbits/mishegos | 150 | 22| 
 
 
 
