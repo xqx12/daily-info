@@ -46,12 +46,12 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210610T01:39:54Z | CVE-2021-23388 | PoC for exploiting CVE-2021-23388 | https://github.com/JamesCVE/CVE-2021-23388 | | 
+| 20210610T01:39:54Z | CVE-2021-23388 | PoC for exploiting CVE-2021-23388 | https://github.com/JamesCVE/CVE-2021-23388 | The package forms before 1.2.1, from 1.3.0 and before 1.3.2 are vulnerable to Regular Expression Denial of Service (ReDoS) via email validation.| 
 | 20210610T01:38:27Z | CVE-2021-24316 | PoC for exploiting CVE-2021-24316 | https://github.com/JamesCVE/CVE-2021-24316 | The search feature of the Mediumish WordPress theme through 1.0.47 does not properly sanitise it%s %s% GET parameter before output it back the page, leading to the Cross-SIte Scripting issue.| 
 | 20210610T01:38:22Z | CVE-2020-1920 | PoC for exploiting CVE-2020-1920 | https://github.com/JamesCVE/CVE-2020-1920 | A regular expression denial of service (ReDoS) vulnerability in the validateBaseUrl function can cause the application to use excessive resources, become unresponsive, or crash. This was introduced in react-native version 0.59.0 and fixed in version 0.64.1.| 
 | 20210610T01:19:33Z | CVE-2021-33739 | Null | https://github.com/mavillon1/CVE-2021-33739-POC | Microsoft DWM Core Library Elevation of Privilege Vulnerability| 
 | 20210610T01:15:38Z | CVE-2021-21985 | CVE-2021-21985 VMware vCenter Server远程代码执行漏洞 EXP (更新可回显EXP) | https://github.com/r0ckysec/CVE-2021-21985 | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
-| 20210609T18:30:38Z | cve-2021-21985 | cve-2021-21985 exploit | https://github.com/xnianq/cve-2021-21985_exp | | 
+| 20210609T18:30:38Z | cve-2021-21985 | cve-2021-21985 exploit | https://github.com/xnianq/cve-2021-21985_exp | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
 | 20210609T13:27:22Z | CVE-2021-21315 | CVE 2021-21315 PoC | https://github.com/ForbiddenProgrammer/CVE-2021-21315-PoC | The System Information Library for Node.JS (npm package %systeminformation%) is an open source collection of functions to retrieve detailed hardware, system and OS information. In systeminformation before version 5.3.1 there is a command injection vulnerability. Problem was fixed in version 5.3.1. As a workaround instead of upgrading, be sure to check or sanitize service parameters that are passed to si.inetLatency(), si.inetChecksite(), si.services(), si.processLoad() ... do only allow strings, reject any arrays. String sanitation works as expected.| 
 | 20210608T21:45:07Z | CVE-2020-8835 | Formal verification example for CVE-2020-8835 | https://github.com/digamma-ai/CVE-2020-8835-verification | In the Linux kernel 5.5.0 and newer, the bpf verifier (kernel/bpf/verifier.c) did not properly restrict the register bounds for 32-bit operations, leading to out-of-bounds reads and writes in kernel memory. The vulnerability also affects the Linux 5.4 stable series, starting with v5.4.7, as the introducing commit was backported to that branch. This vulnerability was fixed in 5.6.1, 5.5.14, and 5.4.29. (issue is aka ZDI-CAN-10780)| 
 | 20210608T19:31:54Z | CVE-2021-22911 | Pre-Auth Blind NoSQL Injection leading to Remote Code Execution in Rocket Chat 3.12.1 | https://github.com/CsEnox/CVE-2021-22911 | A improper input sanitization vulnerability exists in Rocket.Chat server 3.11, 3.12 & 3.13 that could lead to unauthenticated NoSQL injection, resulting potentially in RCE.| 
@@ -114,16 +114,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210610T01:43:23Z | AFLNet: A Greybox Fuzzer for Network Protocols (https://thuanpv.github.io/publications/AFLNet_ICST20.pdf) | https://github.com/aflnet/aflnet | 410 | 73| 
+| 20210610T00:27:28Z | Null | https://github.com/opimentel-github/fuzzy-tools | 0 | 0| 
+| 20210610T00:09:10Z | Winnie is an end-to-end system that makes fuzzing Windows applications easy | https://github.com/sslab-gatech/winnie | 270 | 26| 
 | 20210610T00:05:06Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 8 | 5| 
-| 20210610T00:03:36Z | Null | https://github.com/opimentel-github/fuzzy-tools | 0 | 0| 
 | 20210610T00:00:59Z | Null | https://github.com/and88x/Fuzzy_Logic_based_Load_balancing_of_tasks | 0 | 0| 
 | 20210609T23:23:48Z | Fuzzy name matching with python | https://github.com/conjectures/fuzzy-name-matching | 0 | 0| 
 | 20210609T23:23:06Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6368 | 1293| 
 | 20210609T23:14:39Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 649 | 120| 
 | 20210609T23:11:22Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2341 | 128| 
 | 20210609T23:08:48Z | Null | https://github.com/dalacan/fuzzy-document-deduplication | 0 | 0| 
-| 20210609T22:42:30Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210609T22:35:55Z | Fuzzy Inference Systems package | https://github.com/jdvelasq/fuzzy_toobox | 0 | 0| 
 
 
 
