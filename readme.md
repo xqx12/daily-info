@@ -41,7 +41,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210609T22:31:42Z | CVE-2021-21985 | CVE-2021-21985 VMware vCenter Server远程代码执行漏洞 EXP (更新可回显EXP) | https://github.com/r0ckysec/CVE-2021-21985 | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
 | 20210609T19:48:58Z | CVE-2021-33739 | Null | https://github.com/mavillon1/CVE-2021-33739-POC | Microsoft DWM Core Library Elevation of Privilege Vulnerability| 
-| 20210609T18:30:38Z | cve-2021-21985 | cve-2021-21985 exploit | https://github.com/xnianq/cve-2021-21985_exp | | 
+| 20210609T18:30:38Z | cve-2021-21985 | cve-2021-21985 exploit | https://github.com/xnianq/cve-2021-21985_exp | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
 | 20210609T13:27:22Z | CVE-2021-21315 | CVE 2021-21315 PoC | https://github.com/ForbiddenProgrammer/CVE-2021-21315-PoC | The System Information Library for Node.JS (npm package %systeminformation%) is an open source collection of functions to retrieve detailed hardware, system and OS information. In systeminformation before version 5.3.1 there is a command injection vulnerability. Problem was fixed in version 5.3.1. As a workaround instead of upgrading, be sure to check or sanitize service parameters that are passed to si.inetLatency(), si.inetChecksite(), si.services(), si.processLoad() ... do only allow strings, reject any arrays. String sanitation works as expected.| 
 
 
@@ -65,7 +65,6 @@
 | --- | --- | --- | --- | ---| 
 | 20210609T23:28:29Z | Night King 7.55FW Host Exploit With Mixed Auto mode PRB-Borg and DarkmodderVC | https://github.com/Night-King-Host/755Auto | 0 | 0| 
 | 20210609T23:16:40Z | Kubernetes security and vulnerability tools and utilities. | https://github.com/kris-nova/hack | 26 | 2| 
-| 20210609T23:02:52Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210609T22:44:06Z | My writeups/solutions for the Modern Binary Exploitation 2015 course provided by Rensselaer Polytechnic Institute | https://github.com/0xYonas/CSCI-4968-WriteUps | 0 | 0| 
 | 20210609T22:38:55Z | windows and linux streams for post exploitation | https://github.com/kymb0/post_exploitation | 1 | 0| 
 | 20210609T22:32:04Z | Patch for Travertine to improve performance during attacks and fix memory issues. | https://github.com/2lstudios-mc/FlameCord | 37 | 23| 
@@ -73,6 +72,7 @@
 | 20210609T22:24:14Z | Herramienta para usar The Browser Exploitation Framework fuera de LAN, con diferentes opciones para hacking | https://github.com/tony23x/beef-for-cerberus | 3 | 1| 
 | 20210609T21:42:14Z | Null | https://github.com/nmurilo/CVE-2008-4687-exploit | 1 | 0| 
 | 20210609T21:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9545 | 1551| 
+| 20210609T21:34:49Z | This is where I will put my open source admin commands project. Feel free to suggest ideas or report bugs/exploits. | https://github.com/captainbboy/Roblox-Admin-Commands-Open-Source | 0 | 0| 
 
 
 # backdoor on Github 推荐
