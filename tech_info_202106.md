@@ -55,7 +55,7 @@
 | 20210610T01:38:27Z | CVE-2021-24316 | PoC for exploiting CVE-2021-24316 | https://github.com/JamesCVE/CVE-2021-24316 | The search feature of the Mediumish WordPress theme through 1.0.47 does not properly sanitise it%s %s% GET parameter before output it back the page, leading to the Cross-SIte Scripting issue.| 
 | 20210610T01:38:22Z | CVE-2020-1920 | PoC for exploiting CVE-2020-1920 | https://github.com/JamesCVE/CVE-2020-1920 | A regular expression denial of service (ReDoS) vulnerability in the validateBaseUrl function can cause the application to use excessive resources, become unresponsive, or crash. This was introduced in react-native version 0.59.0 and fixed in version 0.64.1.| 
 | 20210609T18:30:38Z | cve-2021-21985 | cve-2021-21985 exploit | https://github.com/xnianq/cve-2021-21985_exp | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
-| 20210609T13:27:22Z | CVE-2021-21315 | CVE 2021-21315 PoC | https://github.com/ForbiddenProgrammer/CVE-2021-21315-PoC | | 
+| 20210609T13:27:22Z | CVE-2021-21315 | CVE 2021-21315 PoC | https://github.com/ForbiddenProgrammer/CVE-2021-21315-PoC | The System Information Library for Node.JS (npm package %systeminformation%) is an open source collection of functions to retrieve detailed hardware, system and OS information. In systeminformation before version 5.3.1 there is a command injection vulnerability. Problem was fixed in version 5.3.1. As a workaround instead of upgrading, be sure to check or sanitize service parameters that are passed to si.inetLatency(), si.inetChecksite(), si.services(), si.processLoad() ... do only allow strings, reject any arrays. String sanitation works as expected.| 
 
 
 # klee on Github 推荐
@@ -99,12 +99,12 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210610T12:19:58Z | Python AV Evasion Tools | https://github.com/G1ft3dC0d3/MsfMania | 144 | 31| 
 | 20210610T08:59:27Z | Null | https://github.com/subhomoy-roy-choudhury/BackDoor_Script | 0 | 0| 
 | 20210610T05:30:18Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 248 | 43| 
 | 20210609T18:01:08Z | A force op or backdoor minecraft plugin which can be used to get OP on a minecraft server | https://github.com/MOMIN5/force-op-backdoor-plugin | 1 | 0| 
 | 20210609T17:15:36Z | Null | https://github.com/grsoratoor/BackdoorBot | 0 | 0| 
 | 20210609T17:14:21Z | source code for popbobs plugin for hausemaster for use on 2b2t that happened to give certain players elevated privileges | https://github.com/christallinqq/popbob-backdoor-plugin | 2 | 1| 
-| 20210609T16:30:53Z | Python AV Evasion Tools | https://github.com/G1ft3dC0d3/MsfMania | 143 | 31| 
 | 20210609T15:27:39Z | Demo page for the backdoorthen package | https://github.com/johanfive/backdoordemo | 0 | 0| 
 | 20210609T13:45:17Z | OWASP ZAP add-on containing the web-backdoors and attack files from FuzzDB | https://github.com/zaproxy/fuzzdb-offensive | 6 | 6| 
 | 20210609T12:24:07Z | This will remove the hostflow java assist backdoor | https://github.com/abhiram555/SpigotPluginMalwareRemover | 0 | 1| 

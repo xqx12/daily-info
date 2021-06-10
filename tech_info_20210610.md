@@ -69,6 +69,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210610T12:19:58Z | Python AV Evasion Tools | https://github.com/G1ft3dC0d3/MsfMania | 144 | 31| 
 | 20210610T08:59:27Z | Null | https://github.com/subhomoy-roy-choudhury/BackDoor_Script | 0 | 0| 
 | 20210610T05:30:18Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 248 | 43| 
 
