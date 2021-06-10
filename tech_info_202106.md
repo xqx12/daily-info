@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210610T00:59:47Z | Gote Hub - Comunity Roblox Exploiting And Scripting @Copyright 2021 | https://github.com/Vilictus/Gote-Hub | 0 | 0| 
 | 20210610T00:51:29Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 17 | 11| 
 | 20210610T00:45:32Z | discord token exploit  | https://github.com/ClanVv3/discord-token-grabber.py | 0 | 0| 
 | 20210610T00:30:41Z | Patch for Travertine to improve performance during attacks and fix memory issues. | https://github.com/2lstudios-mc/FlameCord | 38 | 23| 
@@ -93,7 +94,6 @@
 | 20210609T22:44:06Z | My writeups/solutions for the Modern Binary Exploitation 2015 course provided by Rensselaer Polytechnic Institute | https://github.com/0xYonas/CSCI-4968-WriteUps | 0 | 0| 
 | 20210609T22:38:55Z | windows and linux streams for post exploitation | https://github.com/kymb0/post_exploitation | 1 | 0| 
 | 20210609T22:24:55Z | HackerX the roblox exploit | https://github.com/efwerwerqwerqwerqwerqwer/HackerX | 0 | 0| 
-| 20210609T22:24:14Z | Herramienta para usar The Browser Exploitation Framework fuera de LAN, con diferentes opciones para hacking | https://github.com/tony23x/beef-for-cerberus | 3 | 1| 
 
 
 # backdoor on Github 推荐
