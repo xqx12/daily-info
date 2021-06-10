@@ -31,12 +31,12 @@
 | --- | --- | --- | --- | ---| 
 | 20210610T12:44:08Z | CVE-2021-33739 | Null | https://github.com/mavillon1/CVE-2021-33739-POC | Microsoft DWM Core Library Elevation of Privilege Vulnerability| 
 | 20210610T10:54:53Z | CVE-2021-21985 | CVE-2021-21985 VMware vCenter Server远程代码执行漏洞 EXP (更新可回显EXP) | https://github.com/r0ckysec/CVE-2021-21985 | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
-| 20210610T05:44:21Z | CVE-2020-3452 | Null | https://github.com/sujaygr8/CVE-2020-3452 | | 
+| 20210610T05:44:21Z | CVE-2020-3452 | Null | https://github.com/sujaygr8/CVE-2020-3452 | A vulnerability in the web services interface of Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software could allow an unauthenticated, remote attacker to conduct directory traversal attacks and read sensitive files on a targeted system. The vulnerability is due to a lack of proper input validation of URLs in HTTP requests processed by an affected device. An attacker could exploit this vulnerability by sending a crafted HTTP request containing directory traversal character sequences to an affected device. A successful exploit could allow the attacker to view arbitrary files within the web services file system on the targeted device. The web services file system is enabled when the affected device is configured with either WebVPN or AnyConnect features. This vulnerability cannot be used to obtain access to ASA or FTD system files or underlying operating system (OS) files.| 
 | 20210610T03:57:06Z | CVE-2021-21985 | Null | https://github.com/testanull/Project_CVE-2021-21985_PoC | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
 | 20210610T02:46:55Z | CVE-2020-1350 | HoneyPoC: Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | A remote code execution vulnerability exists in Windows Domain Name System servers when they fail to properly handle requests, aka %Windows DNS Server Remote Code Execution Vulnerability%.| 
 | 20210610T01:39:54Z | CVE-2021-23388 | PoC for exploiting CVE-2021-23388 | https://github.com/JamesCVE/CVE-2021-23388 | The package forms before 1.2.1, from 1.3.0 and before 1.3.2 are vulnerable to Regular Expression Denial of Service (ReDoS) via email validation.| 
 | 20210610T01:38:27Z | CVE-2021-24316 | PoC for exploiting CVE-2021-24316 | https://github.com/JamesCVE/CVE-2021-24316 | The search feature of the Mediumish WordPress theme through 1.0.47 does not properly sanitise it%s %s% GET parameter before output it back the page, leading to the Cross-SIte Scripting issue.| 
-| 20210610T01:38:22Z | CVE-2020-1920 | PoC for exploiting CVE-2020-1920 | https://github.com/JamesCVE/CVE-2020-1920 | A regular expression denial of service (ReDoS) vulnerability in the validateBaseUrl function can cause the application to use excessive resources, become unresponsive, or crash. This was introduced in react-native version 0.59.0 and fixed in version 0.64.1.| 
+| 20210610T01:38:22Z | CVE-2020-1920 | PoC for exploiting CVE-2020-1920 | https://github.com/JamesCVE/CVE-2020-1920 | | 
 
 
 # klee on Github 推荐
@@ -77,16 +77,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210610T12:45:43Z | A curated list of awesome directed fuzzing research papers | https://github.com/strongcourage/awesome-directed-fuzzing | 81 | 15| 
+| 20210610T12:28:10Z | React native playground | https://github.com/robert-gruner/fuzzy-barnacle | 0 | 0| 
+| 20210610T12:24:00Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6371 | 1293| 
 | 20210610T12:05:29Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 31956 | 16467| 
 | 20210610T12:02:55Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210610T11:53:03Z | A curated list of fuzzing resources ( Books, courses - free and paid, videos, tools, tutorials and vulnerable applications to practice on ) for learning Fuzzing and initial phases of Exploit Development like root cause analysis. | https://github.com/secfigo/Awesome-Fuzzing | 3658 | 706| 
 | 20210610T11:39:53Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 442 | 40| 
 | 20210610T11:15:33Z | Null | https://github.com/yewme/fuzzy-octo-broccoli | 0 | 0| 
-| 20210610T10:25:06Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6370 | 1293| 
 | 20210610T10:13:30Z | Fuzz for sensitive directories without killing the host using ffuf | https://github.com/R0X4R/Fuzzy | 13 | 5| 
 | 20210610T10:07:20Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
-| 20210610T09:51:52Z | 一些常见字典 | https://github.com/yuanhaiGreg/Fuzz-Dict | 25 | 2| 
-| 20210610T09:19:26Z | 渗透测试路径字典，爆破字典。内容来自互联网和实战积累。 | https://github.com/cpkkcb/fuzzDicts | 90 | 43| 
 
 
 
