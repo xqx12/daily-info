@@ -40,37 +40,37 @@
 | 20210609 | 发送商业性信息的合规要点-国内篇 | https://mp.weixin.qq.com/s/oU4-OgG6SzGZOWLNCxZlsg| 
 | 20210609 | 基于网络流量的网络安全分析与威胁狩猎漫谈（视频版） | https://mp.weixin.qq.com/s/IIrXnFBHde7JPg1samJX5g| 
 | 20210609 | SecWiki安全招聘（第57期） | https://mp.weixin.qq.com/s/WknlJcosoO6pvrShVF1j2w| 
-| 20210608 | InForSec学术交流会 参会小计DAY2 | https://mp.weixin.qq.com/s/LPRoggcsRIl1xT0xMXpLeQ| 
+| 20210609 | 基于办公处理软件的控守方案研究 | https://mp.weixin.qq.com/s/cmgw08gtoY2XkLTcMniNVQ| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210609T12:11:06Z | CVE-2021-21985 | CVE-2021-21985 VMware vCenter Server远程代码执行漏洞 EXP (更新可回显EXP) | https://github.com/r0ckysec/CVE-2021-21985 | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
-| 20210609T11:49:34Z | CVE-2021-33739 | Null | https://github.com/mavillon1/CVE-2021-33739-POC | Microsoft DWM Core Library Elevation of Privilege Vulnerability| 
-| 20210609T11:28:48Z | cve-2021-21985 | cve-2021-21985 exploit | https://github.com/xnianq/cve-2021-21985_exp | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
+| 20210609T22:31:42Z | CVE-2021-21985 | CVE-2021-21985 VMware vCenter Server远程代码执行漏洞 EXP (更新可回显EXP) | https://github.com/r0ckysec/CVE-2021-21985 | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
+| 20210609T19:48:58Z | CVE-2021-33739 | Null | https://github.com/mavillon1/CVE-2021-33739-POC | Microsoft DWM Core Library Elevation of Privilege Vulnerability| 
+| 20210609T18:30:38Z | cve-2021-21985 | cve-2021-21985 exploit | https://github.com/xnianq/cve-2021-21985_exp | | 
+| 20210609T13:27:22Z | CVE-2021-21315 | CVE 2021-21315 PoC | https://github.com/ForbiddenProgrammer/CVE-2021-21315-PoC | The System Information Library for Node.JS (npm package %systeminformation%) is an open source collection of functions to retrieve detailed hardware, system and OS information. In systeminformation before version 5.3.1 there is a command injection vulnerability. Problem was fixed in version 5.3.1. As a workaround instead of upgrading, be sure to check or sanitize service parameters that are passed to si.inetLatency(), si.inetChecksite(), si.services(), si.processLoad() ... do only allow strings, reject any arrays. String sanitation works as expected.| 
 | 20210608T21:45:07Z | CVE-2020-8835 | Formal verification example for CVE-2020-8835 | https://github.com/digamma-ai/CVE-2020-8835-verification | In the Linux kernel 5.5.0 and newer, the bpf verifier (kernel/bpf/verifier.c) did not properly restrict the register bounds for 32-bit operations, leading to out-of-bounds reads and writes in kernel memory. The vulnerability also affects the Linux 5.4 stable series, starting with v5.4.7, as the introducing commit was backported to that branch. This vulnerability was fixed in 5.6.1, 5.5.14, and 5.4.29. (issue is aka ZDI-CAN-10780)| 
 | 20210608T19:31:54Z | CVE-2021-22911 | Pre-Auth Blind NoSQL Injection leading to Remote Code Execution in Rocket Chat 3.12.1 | https://github.com/CsEnox/CVE-2021-22911 | A improper input sanitization vulnerability exists in Rocket.Chat server 3.11, 3.12 & 3.13 that could lead to unauthenticated NoSQL injection, resulting potentially in RCE.| 
 | 20210608T16:08:10Z | CVE-2020-0041 | My implementation for an exploit of the CVE-2020-0041 bug | https://github.com/Byte-Master-101/CVE_2020_0041 | In binder_transaction of binder.c, there is a possible out of bounds write due to an incorrect bounds check. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-145988638References: Upstream kernel| 
-| 20210608T15:34:26Z | CVE-2021-26714 | Directory Traversal vulnerability in Enterprise License Manager portal in Mitel MiContact Center Enterprise before 9.4 | https://github.com/PwCNO-CTO/CVE-2021-26714 | | 
+| 20210608T15:34:26Z | CVE-2021-26714 | Directory Traversal vulnerability in Enterprise License Manager portal in Mitel MiContact Center Enterprise before 9.4 | https://github.com/PwCNO-CTO/CVE-2021-26714 | The Enterprise License Manager portal in Mitel MiContact Center Enterprise before 9.4 could allow a user to access restricted files and folders due to insufficient access control. A successful exploit could allow an attacker to view and modify application data via Directory Traversal.| 
 | 20210608T15:32:10Z | CVE-2021-21234 | Directory traversal vulnerability in the spring-boot-actuator-logview library | https://github.com/PwCNO-CTO/CVE-2021-21234 | spring-boot-actuator-logview in a library that adds a simple logfile viewer as spring boot actuator endpoint. It is maven package %eu.hinsch:spring-boot-actuator-logview%. In spring-boot-actuator-logview before version 0.2.13 there is a directory traversal vulnerability. The nature of this library is to expose a log file directory via admin (spring boot actuator) HTTP endpoints. Both the filename to view and a base folder (relative to the logging folder root) can be specified via request parameters. While the filename parameter was checked to prevent directory traversal exploits (so that `filename=../somefile` would not work), the base folder parameter was not sufficiently checked, so that `filename=somefile&base=../` could access a file outside the logging base directory). The vulnerability has been patched in release 0.2.13. Any users of 0.2.12 should be able to update without any issues as there are no other changes in that release. There is no workaround to fix the vulnerability other than updating or removing the dependency. However, removing read access of the user the application is run with to any directory not required for running the application can limit the impact. Additionally, access to the logview endpoint can be limited by deploying the application behind a reverse proxy.| 
 | 20210608T05:57:32Z | CVE-2021-29505 | 对CVE-2021-29505进行复现，并分析学了下Xstream反序列化过程 | https://github.com/MyBlackManba/CVE-2021-29505 | XStream is software for serializing Java objects to XML and back again. A vulnerability in XStream versions prior to 1.4.17 may allow a remote attacker has sufficient rights to execute commands of the host only by manipulating the processed input stream. No user who followed the recommendation to setup XStream%s security framework with a whitelist limited to the minimal required types is affected. The vulnerability is patched in version 1.4.17.| 
-| 20210608T02:35:21Z | CVE-2021-21985 | Null | https://github.com/testanull/Project_CVE-2021-21985_PoC | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210609T22:38:44Z | Null | https://github.com/JaimePSantos/ResearchKlee | 0 | 0| 
+| 20210609T19:20:35Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 135 | 23| 
+| 20210609T18:40:17Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1713 | 495| 
 | 20210609T12:17:31Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 14 | 45| 
-| 20210609T08:00:38Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1712 | 495| 
 | 20210608T23:50:42Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 656 | 15| 
 | 20210608T18:35:48Z | Null | https://github.com/KLEEEN-SOFTWARE/Kleeen-svgs | 0 | 0| 
 | 20210608T16:38:58Z | Null | https://github.com/fontworks-fonts/Klee | 459 | 13| 
 | 20210608T13:49:43Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 145 | 14| 
-| 20210608T11:39:23Z | Null | https://github.com/JaimePSantos/ResearchKlee | 0 | 0| 
 | 20210608T10:40:58Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 18 | 0| 
 | 20210608T06:41:04Z | Dodoco doko? | https://github.com/RiceFT/klee | 0 | 0| 
-| 20210607T22:52:38Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -84,31 +84,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210609T12:51:29Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 17 | 11| 
-| 20210609T12:48:26Z | Null | https://github.com/torquez/exploit | 0 | 0| 
-| 20210609T12:39:49Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 3 | 1| 
-| 20210609T12:36:31Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 22 | 1| 
-| 20210609T12:35:16Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9544 | 1551| 
-| 20210609T12:31:59Z | The popular GENIE Generator product is used by nearly all accelerator neutrino experiments and it plays a key role in the exploitation of neutrino data. The Generator implements a modern software framework and it includes state-of-the-art physics modules. It captures the latest results of the GENIE global analysis of neutrino scattering data and includes several tunes that were produced using the proprietary Comparisons and Tuning products. The GENIE physics model is universal and comprehensive:  It handles all neutrinos and targets, and all processes relevant from MeV to PeV energy scales. The Generator includes several tools (flux drivers, detector geometry navigators, specialized event generation apps, event reweighting engines) to simulate complex experimental setups in full detail and to support generator-related analysis tasks.  | https://github.com/GENIE-MC/Generator | 18 | 49| 
-| 20210609T12:31:21Z | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | 0 | 0| 
-| 20210609T12:05:35Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
-| 20210609T12:01:38Z | Null | https://github.com/carlos-fernando-yanquee-94/DVR_Exploiter-master-clon | 0 | 0| 
-| 20210609T11:05:06Z | HackerX the roblox exploit | https://github.com/efwerwerqwerqwerqwerqwer/HackerX | 0 | 0| 
+| 20210609T23:28:29Z | Night King 7.55FW Host Exploit With Mixed Auto mode PRB-Borg and DarkmodderVC | https://github.com/Night-King-Host/755Auto | 0 | 0| 
+| 20210609T23:16:40Z | Kubernetes security and vulnerability tools and utilities. | https://github.com/kris-nova/hack | 26 | 2| 
+| 20210609T23:02:52Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
+| 20210609T22:44:06Z | My writeups/solutions for the Modern Binary Exploitation 2015 course provided by Rensselaer Polytechnic Institute | https://github.com/0xYonas/CSCI-4968-WriteUps | 0 | 0| 
+| 20210609T22:38:55Z | windows and linux streams for post exploitation | https://github.com/kymb0/post_exploitation | 1 | 0| 
+| 20210609T22:32:04Z | Patch for Travertine to improve performance during attacks and fix memory issues. | https://github.com/2lstudios-mc/FlameCord | 37 | 23| 
+| 20210609T22:24:55Z | HackerX the roblox exploit | https://github.com/efwerwerqwerqwerqwerqwer/HackerX | 0 | 0| 
+| 20210609T22:24:14Z | Herramienta para usar The Browser Exploitation Framework fuera de LAN, con diferentes opciones para hacking | https://github.com/tony23x/beef-for-cerberus | 3 | 1| 
+| 20210609T21:42:14Z | Null | https://github.com/nmurilo/CVE-2008-4687-exploit | 1 | 0| 
+| 20210609T21:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9545 | 1551| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210609T18:01:08Z | A force op or backdoor minecraft plugin which can be used to get OP on a minecraft server | https://github.com/MOMIN5/force-op-backdoor-plugin | 1 | 0| 
+| 20210609T17:15:36Z | Null | https://github.com/grsoratoor/BackdoorBot | 0 | 0| 
+| 20210609T17:14:21Z | source code for popbobs plugin for hausemaster for use on 2b2t that happened to give certain players elevated privileges | https://github.com/christallinqq/popbob-backdoor-plugin | 2 | 0| 
+| 20210609T16:30:53Z | Python AV Evasion Tools | https://github.com/G1ft3dC0d3/MsfMania | 143 | 30| 
+| 20210609T15:27:39Z | Demo page for the backdoorthen package | https://github.com/johanfive/backdoordemo | 0 | 0| 
+| 20210609T13:45:17Z | OWASP ZAP add-on containing the web-backdoors and attack files from FuzzDB | https://github.com/zaproxy/fuzzdb-offensive | 6 | 6| 
 | 20210609T12:24:07Z | This will remove the hostflow java assist backdoor | https://github.com/abhiram555/SpigotPluginMalwareRemover | 0 | 1| 
 | 20210609T12:20:58Z | This will remove the hostflow java assist backdoor | https://github.com/abhiram555/JavaAssistBackdoorRemover | 0 | 1| 
 | 20210609T11:49:21Z | Web application backdoor builder | https://github.com/M4DM0e/Door404 | 58 | 16| 
 | 20210609T10:07:11Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 248 | 43| 
-| 20210609T08:35:28Z | Python AV Evasion Tools | https://github.com/G1ft3dC0d3/MsfMania | 142 | 30| 
-| 20210609T07:17:45Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 35 | 27| 
-| 20210609T02:56:23Z | source code for popbobs plugin for hausemaster for use on 2b2t that happened to give certain players elevated privileges | https://github.com/christallinqq/popbob-backdoor-plugin | 1 | 0| 
-| 20210609T01:57:30Z | Null | https://github.com/PurduePAML/K-ARM_Backdoor_Optimization | 1 | 0| 
-| 20210608T21:29:38Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/persianhydra/Xeexe-TopAntivirusEvasion | 466 | 107| 
-| 20210608T21:00:15Z | PHP 8.1.0-dev Backdoor System Shell Script | https://github.com/flast101/php-8.1.0-dev-backdoor-rce | 9 | 3| 
 
 
 # fuzz on Github 推荐
