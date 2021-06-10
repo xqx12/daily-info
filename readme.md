@@ -54,8 +54,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210610T12:31:03Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 59 | 21| 
 | 20210610T12:26:36Z | Storage repository to store various exploits of browser pwn challenges | https://github.com/mishrasunny174/browser-pwn | 0 | 0| 
-| 20210610T12:22:25Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 59 | 21| 
 | 20210610T12:10:09Z | The code of Hacking: Art Of Exploitation (2nd Ed.) by Jon Erickson. | https://github.com/J-Melon/ArtOfExp | 0 | 0| 
 | 20210610T12:02:49Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210610T11:53:22Z | firehorse secureboot exploit SDCard maker for Redmi 3S | https://github.com/fxsheep/firehorse_sdcard | 0 | 0| 
