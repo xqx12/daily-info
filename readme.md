@@ -48,7 +48,6 @@
 | --- | --- | --- | --- | ---| 
 | 20210609T22:38:44Z | Null | https://github.com/JaimePSantos/ResearchKlee | 0 | 0| 
 | 20210609T19:20:35Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 135 | 23| 
-| 20210609T18:40:17Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1713 | 495| 
 | 20210609T12:17:31Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 14 | 45| 
 
 

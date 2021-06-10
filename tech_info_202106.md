@@ -47,7 +47,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210610T01:19:33Z | CVE-2021-33739 | Null | https://github.com/mavillon1/CVE-2021-33739-POC | Microsoft DWM Core Library Elevation of Privilege Vulnerability| 
-| 20210610T01:15:38Z | CVE-2021-21985 | CVE-2021-21985 VMware vCenter Server远程代码执行漏洞 EXP (更新可回显EXP) | https://github.com/r0ckysec/CVE-2021-21985 | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
+| 20210610T01:15:38Z | CVE-2021-21985 | CVE-2021-21985 VMware vCenter Server远程代码执行漏洞 EXP (更新可回显EXP) | https://github.com/r0ckysec/CVE-2021-21985 | | 
 | 20210610T01:06:27Z | CVE-2020-1920 | PoC for exploiting CVE-2020-1920 | https://github.com/JamesCVE/CVE-2020-1920 | A regular expression denial of service (ReDoS) vulnerability in the validateBaseUrl function can cause the application to use excessive resources, become unresponsive, or crash. This was introduced in react-native version 0.59.0 and fixed in version 0.64.1.| 
 | 20210610T01:06:20Z | CVE-2021-23388 | PoC for exploiting CVE-2021-23388 | https://github.com/JamesCVE/CVE-2021-23388 | The package forms before 1.2.1, from 1.3.0 and before 1.3.2 are vulnerable to Regular Expression Denial of Service (ReDoS) via email validation.| 
 | 20210609T18:30:38Z | cve-2021-21985 | cve-2021-21985 exploit | https://github.com/xnianq/cve-2021-21985_exp | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
@@ -61,9 +61,9 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210610T01:23:09Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1714 | 495| 
 | 20210609T22:38:44Z | Null | https://github.com/JaimePSantos/ResearchKlee | 0 | 0| 
 | 20210609T19:20:35Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 135 | 23| 
-| 20210609T18:40:17Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1713 | 495| 
 | 20210609T12:17:31Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 14 | 45| 
 | 20210608T23:50:42Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 656 | 15| 
 | 20210608T18:35:48Z | Null | https://github.com/KLEEEN-SOFTWARE/Kleeen-svgs | 0 | 0| 
