@@ -99,31 +99,31 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210610T08:59:27Z | Null | https://github.com/subhomoy-roy-choudhury/BackDoor_Script | 0 | 0| 
+| 20210610T05:30:18Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 248 | 43| 
 | 20210609T18:01:08Z | A force op or backdoor minecraft plugin which can be used to get OP on a minecraft server | https://github.com/MOMIN5/force-op-backdoor-plugin | 1 | 0| 
 | 20210609T17:15:36Z | Null | https://github.com/grsoratoor/BackdoorBot | 0 | 0| 
-| 20210609T17:14:21Z | source code for popbobs plugin for hausemaster for use on 2b2t that happened to give certain players elevated privileges | https://github.com/christallinqq/popbob-backdoor-plugin | 2 | 0| 
-| 20210609T16:30:53Z | Python AV Evasion Tools | https://github.com/G1ft3dC0d3/MsfMania | 143 | 30| 
+| 20210609T17:14:21Z | source code for popbobs plugin for hausemaster for use on 2b2t that happened to give certain players elevated privileges | https://github.com/christallinqq/popbob-backdoor-plugin | 2 | 1| 
+| 20210609T16:30:53Z | Python AV Evasion Tools | https://github.com/G1ft3dC0d3/MsfMania | 143 | 31| 
 | 20210609T15:27:39Z | Demo page for the backdoorthen package | https://github.com/johanfive/backdoordemo | 0 | 0| 
 | 20210609T13:45:17Z | OWASP ZAP add-on containing the web-backdoors and attack files from FuzzDB | https://github.com/zaproxy/fuzzdb-offensive | 6 | 6| 
 | 20210609T12:24:07Z | This will remove the hostflow java assist backdoor | https://github.com/abhiram555/SpigotPluginMalwareRemover | 0 | 1| 
 | 20210609T12:20:58Z | This will remove the hostflow java assist backdoor | https://github.com/abhiram555/JavaAssistBackdoorRemover | 0 | 1| 
-| 20210609T11:49:21Z | Web application backdoor builder | https://github.com/M4DM0e/Door404 | 58 | 16| 
-| 20210609T10:07:11Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 248 | 43| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210610T01:43:23Z | AFLNet: A Greybox Fuzzer for Network Protocols (https://thuanpv.github.io/publications/AFLNet_ICST20.pdf) | https://github.com/aflnet/aflnet | 410 | 73| 
-| 20210610T00:27:28Z | Null | https://github.com/opimentel-github/fuzzy-tools | 0 | 0| 
-| 20210610T00:09:10Z | Winnie is an end-to-end system that makes fuzzing Windows applications easy | https://github.com/sslab-gatech/winnie | 270 | 26| 
-| 20210610T00:05:06Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 8 | 5| 
-| 20210610T00:00:59Z | Null | https://github.com/and88x/Fuzzy_Logic_based_Load_balancing_of_tasks | 0 | 0| 
-| 20210609T23:23:48Z | Fuzzy name matching with python | https://github.com/conjectures/fuzzy-name-matching | 0 | 0| 
-| 20210609T23:23:06Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6368 | 1293| 
-| 20210609T23:14:39Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 649 | 120| 
-| 20210609T23:11:22Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2341 | 128| 
-| 20210609T23:08:48Z | Null | https://github.com/dalacan/fuzzy-document-deduplication | 0 | 0| 
+| 20210610T12:00:13Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 31955 | 16467| 
+| 20210610T11:53:03Z | A curated list of fuzzing resources ( Books, courses - free and paid, videos, tools, tutorials and vulnerable applications to practice on ) for learning Fuzzing and initial phases of Exploit Development like root cause analysis. | https://github.com/secfigo/Awesome-Fuzzing | 3658 | 706| 
+| 20210610T11:39:53Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 442 | 40| 
+| 20210610T11:15:33Z | Null | https://github.com/yewme/fuzzy-octo-broccoli | 0 | 0| 
+| 20210610T10:25:06Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6370 | 1293| 
+| 20210610T10:13:30Z | Fuzz for sensitive directories without killing the host using ffuf | https://github.com/R0X4R/Fuzzy | 13 | 5| 
+| 20210610T10:07:20Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
+| 20210610T09:51:52Z | 一些常见字典 | https://github.com/yuanhaiGreg/Fuzz-Dict | 25 | 2| 
+| 20210610T09:19:26Z | 渗透测试路径字典，爆破字典。内容来自互联网和实战积累。 | https://github.com/cpkkcb/fuzzDicts | 90 | 43| 
+| 20210610T08:02:47Z | 자바스크립트 퍼지 문자열 검색  | https://github.com/yunu7067/javascript-fuzzy-string-search | 0 | 0| 
 
 
 
