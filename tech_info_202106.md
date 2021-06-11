@@ -114,16 +114,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210611T00:18:31Z | Null | https://github.com/vcaitite/fuzzy-C-means- | 0 | 0| 
-| 20210611T00:07:58Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 8 | 5| 
-| 20210610T22:49:51Z | This is a method to determine if the running time of an algorithm is feasible using fuzzy logic | https://github.com/DeveloperJose/Python-Fuzzy-Feasibility | 0 | 0| 
-| 20210610T22:39:12Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210610T22:37:24Z | Null | https://github.com/XOMAv2/NeuroFuzzySystemsLabs | 0 | 0| 
-| 20210610T22:34:13Z | Null | https://github.com/Adeelkaa/fuzzy-waddle | 0 | 0| 
-| 20210610T22:23:45Z | Null | https://github.com/opimentel-github/fuzzy-tools | 0 | 0| 
-| 20210610T21:27:44Z | Null | https://github.com/and88x/Fuzzy_control_of_the_TMRS_with_Simulink | 0 | 0| 
-| 20210610T21:01:54Z | A light, eye-caring theme for VS Code | https://github.com/decameronn/fuzzy-theme | 0 | 0| 
-| 20210610T20:59:51Z | Fuzzy charrs are fuzzy. | https://github.com/marenubium87/FuzzyCharr | 0 | 0| 
+| 20210611T12:02:12Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6375 | 1293| 
+| 20210611T11:54:13Z | Null | https://github.com/gjm-anban/fuzzgit | 0 | 1| 
+| 20210611T11:52:49Z | BTFuzzer is a simple Fuzzing tool for Bluetooth Devices. | https://github.com/michelbarnich/BTFuzzer | 0 | 0| 
+| 20210611T11:49:53Z | Null | https://github.com/Surkagsg/fuzzy-broccoli | 0 | 0| 
+| 20210611T11:24:34Z | Planning tool | https://github.com/HappyDustbunny/FuzzyFlexx | 1 | 0| 
+| 20210611T11:09:40Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 312 | 20| 
+| 20210611T11:01:17Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20210611T10:54:34Z | Config files for my GitHub profile. | https://github.com/fuzzyjazzy/fuzzyjazzy | 0 | 0| 
+| 20210611T10:46:23Z | Null | https://github.com/LuckyZmj/WebFuzzingDict | 0 | 0| 
+| 20210611T10:43:20Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
 
 
 
