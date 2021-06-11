@@ -30,7 +30,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210610T17:27:25Z | CVE-2020-8417 | CSRF Code snippet vulnerability CVE-2020-8417 | https://github.com/Vulnmachines/WordPress_CVE-2020-8417 | The Code Snippets plugin before 2.14.0 for WordPress allows CSRF because of the lack of a Referer check on the import menu.| 
+| 20210610T17:27:25Z | CVE-2020-8417 | CSRF Code snippet vulnerability CVE-2020-8417 | https://github.com/Vulnmachines/WordPress_CVE-2020-8417 | | 
 | 20210610T17:26:47Z | CVE-2021-21975 | VMWare-CVE-2021-21975 SSRF vulnerability | https://github.com/Vulnmachines/VMWare-CVE-2021-21975 | Server Side Request Forgery in vRealize Operations Manager API (CVE-2021-21975) prior to 8.4 may allow a malicious actor with network access to the vRealize Operations Manager API can perform a Server Side Request Forgery attack to steal administrative credentials.| 
 | 20210610T17:25:54Z | CVE-2020-9496 | Null | https://github.com/Vulnmachines/apache-ofbiz-CVE-2020-9496 | XML-RPC request are vulnerable to unsafe deserialization and Cross-Site Scripting issues in Apache OFBiz 17.12.03| 
 | 20210610T17:24:57Z | CVE-2021-25646 | Null | https://github.com/Vulnmachines/Apache-Druid-CVE-2021-25646 | Apache Druid includes the ability to execute user-provided JavaScript code embedded in various types of requests. This functionality is intended for use in high-trust environments, and is disabled by default. However, in Druid 0.20.0 and earlier, it is possible for an authenticated user to send a specially-crafted request that forces Druid to run user-provided JavaScript code for that request, regardless of server configuration. This can be leveraged to execute code on the target machine with the privileges of the Druid server process.| 
@@ -83,8 +83,8 @@
 | 20210610T19:00:59Z | simple backdoor and port scanner | https://github.com/SrHaiki/lowly | 0 | 0| 
 | 20210610T18:59:07Z | Python 3 IRC Bot / Botnet | https://github.com/trackmastersteve/HackServ | 21 | 17| 
 | 20210610T18:17:02Z | Null | https://github.com/Wiilldd/backdoor | 0 | 0| 
-| 20210610T17:50:34Z | CRFL: Certifiably Robust Federated Learning against Backdoor Attacks (ICML 2021) | https://github.com/AI-secure/CRFL | 1 | 0| 
 | 20210610T17:26:54Z | A LKM rootkit targeting 4.x and 5.x kernel versions which opens a backdoor that can be used to spawn a reverse shell to a remote host and more. | https://github.com/h3xduck/Umbra | 10 | 1| 
+| 20210610T12:19:58Z | Python AV Evasion Tools | https://github.com/G1ft3dC0d3/MsfMania | 144 | 31| 
 
 
 # fuzz on Github 推荐
