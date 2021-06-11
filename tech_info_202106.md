@@ -16,6 +16,7 @@
 | 20210611 | Paper：Windows Kernel Hijacking Is Not an Option: MemoryRanger Comes to the Rescue Again | https://commons.erau.edu/jdfsl/vol16/iss1/4/#.YMIN60foJ0g.twitter| 
 | 20210611 | 终端防护软件探针采集数据、行为关联、策略决策、事件响应（OODA）整个循环机制的实现 | http://jackson-t.ca/ooda-loops.html| 
 | 20210611 | macOS Monterey 新版本系统【捷径】App 实现机制的简单分析 | https://sec.today/pulses/678189e6-09b7-45eb-a96b-134aa8243472/| 
+| 20210611 | macOS Monterey 新版本系统【捷径】App 实现机制的简单分析 | https://theevilbit.github.io/posts/monterey_shortcuts/| 
 | 20210610 | 匿名信使：木马隐蔽通信浅谈 | https://security.tencent.com/index.php/blog/msg/193| 
 | 20210610 | Phishing for AWS credentials via AWS SSO device code authentication | https://blog.christophetd.fr/phishing-for-aws-credentials-via-aws-sso-device-code-authentication/| 
 | 20210610 | Firefox 安全团队利用 ThreadSanitizer 工具检测 Data Race 条件竞争漏洞的实践 | https://blog.mozilla.org/attack-and-defense/2021/06/09/eliminating-data-races-in-firefox-a-technical-report/| 
@@ -25,7 +26,6 @@
 | 20210610 | I got 99 problems but my NAC ain´t one | https://luemmelsec.github.io/I-got-99-problems-but-my-NAC-aint-one/| 
 | 20210610 | 有研究员发现 Microsoft Teams 会将聊天内容保存到本地 Log 日志中 | https://infinitelogins.com/2021/06/06/your-microsoft-teams-chats-arent-as-private-as-you-think/| 
 | 20210610 | Windows DWM、图形组件的两个本地提权漏洞的 PoC | https://github.com/mavillon1/CVE-2021-33739-POC| 
-| 20210610 | Vcenter Server CVE-2021-21985 RCE PAYLOAD | https://sec.today/pulses/7a6d38df-aa78-4cd1-898c-ac1fea138f34/| 
 
 
 # 安全维基 推荐
@@ -51,11 +51,11 @@
 | 20210611T03:53:24Z | CVE-2021-26828 | Null | https://github.com/hevox/CVE-2021-26828_ScadaBR_RCE | 未查询到CVE信息| 
 | 20210610T17:27:25Z | CVE-2020-8417 | CSRF Code snippet vulnerability CVE-2020-8417 | https://github.com/Vulnmachines/WordPress_CVE-2020-8417 | The Code Snippets plugin before 2.14.0 for WordPress allows CSRF because of the lack of a Referer check on the import menu.| 
 | 20210610T17:26:47Z | CVE-2021-21975 | VMWare-CVE-2021-21975 SSRF vulnerability | https://github.com/Vulnmachines/VMWare-CVE-2021-21975 | Server Side Request Forgery in vRealize Operations Manager API (CVE-2021-21975) prior to 8.4 may allow a malicious actor with network access to the vRealize Operations Manager API can perform a Server Side Request Forgery attack to steal administrative credentials.| 
-| 20210610T17:25:54Z | CVE-2020-9496 | Null | https://github.com/Vulnmachines/apache-ofbiz-CVE-2020-9496 | XML-RPC request are vulnerable to unsafe deserialization and Cross-Site Scripting issues in Apache OFBiz 17.12.03| 
+| 20210610T17:25:54Z | CVE-2020-9496 | Null | https://github.com/Vulnmachines/apache-ofbiz-CVE-2020-9496 | | 
 | 20210610T17:24:57Z | CVE-2021-25646 | Null | https://github.com/Vulnmachines/Apache-Druid-CVE-2021-25646 | Apache Druid includes the ability to execute user-provided JavaScript code embedded in various types of requests. This functionality is intended for use in high-trust environments, and is disabled by default. However, in Druid 0.20.0 and earlier, it is possible for an authenticated user to send a specially-crafted request that forces Druid to run user-provided JavaScript code for that request, regardless of server configuration. This can be leveraged to execute code on the target machine with the privileges of the Druid server process.| 
 | 20210610T05:44:21Z | CVE-2020-3452 | Null | https://github.com/sujaygr8/CVE-2020-3452 | A vulnerability in the web services interface of Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software could allow an unauthenticated, remote attacker to conduct directory traversal attacks and read sensitive files on a targeted system. The vulnerability is due to a lack of proper input validation of URLs in HTTP requests processed by an affected device. An attacker could exploit this vulnerability by sending a crafted HTTP request containing directory traversal character sequences to an affected device. A successful exploit could allow the attacker to view arbitrary files within the web services file system on the targeted device. The web services file system is enabled when the affected device is configured with either WebVPN or AnyConnect features. This vulnerability cannot be used to obtain access to ASA or FTD system files or underlying operating system (OS) files.| 
 | 20210610T03:57:06Z | CVE-2021-21985 | Null | https://github.com/testanull/Project_CVE-2021-21985_PoC | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
-| 20210610T02:46:55Z | CVE-2020-1350 | HoneyPoC: Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | A remote code execution vulnerability exists in Windows Domain Name System servers when they fail to properly handle requests, aka %Windows DNS Server Remote Code Execution Vulnerability%.| 
+| 20210610T02:46:55Z | CVE-2020-1350 | HoneyPoC: Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | | 
 
 
 # klee on Github 推荐
@@ -84,16 +84,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210611T01:56:31Z | Using PyRaider You can scan installed dependencies known security vulnerabilities. It uses publicly known exploits, vulnerabilities database. | https://github.com/raidersource/pyraider | 4 | 0| 
-| 20210611T01:24:01Z | Null | https://github.com/DiamondHands-Exploit/BedWarsExploit | 0 | 1| 
-| 20210611T01:19:47Z | This repo is a copy of https://github.com/AonCyberLabs/Windows-Exploit-Suggester , but i include some instructions to run the script in parrot 2020 OS. | https://github.com/evilmorty06/Windows-Exploit-Suggester-Functional | 0 | 0| 
-| 20210611T01:18:52Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 108 | 9| 
-| 20210611T01:10:19Z | This is the repository for all of the Exploit Education challenges I complete. | https://github.com/spencer-burke/Exploit-Education-Writeups | 0 | 0| 
-| 20210611T01:02:55Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
-| 20210611T00:51:29Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 17 | 11| 
-| 20210611T00:46:15Z | Null | https://github.com/littlepig453/-ROBLOX-EXPLOIT-Universal-ESP-WORKING- | 0 | 0| 
-| 20210611T00:13:58Z | Some scripts to exploit my vulnerable web app | https://github.com/kitty14956590/vuln-webapp-scripts | 0 | 0| 
-| 20210610T23:54:04Z | Essentials for Exploiters | https://github.com/littlepig453/-ROBLOX-Exploit-Essentials | 0 | 0| 
+| 20210611T12:02:54Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
+| 20210611T11:29:45Z | A convenient script that provides the bare essentials for exploiting such as ESP, freecam and aimbot. | https://github.com/TheDookySoo/Essentials | 1 | 0| 
+| 20210611T10:45:37Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 59 | 21| 
+| 20210611T10:41:16Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
+| 20210611T10:20:15Z | Some scripts to exploit ELTeC corpus | https://github.com/bncolorado/Processing-ELTeC-corpus | 0 | 0| 
+| 20210611T10:01:29Z | Microsoft » Windows 10 : Security Vulnerabilities | https://github.com/nu11secur1ty/Windows10Exploits | 332 | 95| 
+| 20210611T10:00:35Z | Educational web application demonstrating techniques of binary exploitation (Front-end) | https://github.com/Pen-Test3rs/binary_exploits_frontend | 0 | 0| 
+| 20210611T09:49:50Z | The whole collection of Exploits developed by me (Hacker5preme) | https://github.com/Hacker5preme/Exploits | 1 | 0| 
+| 20210611T09:48:36Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 108 | 10| 
+| 20210611T09:33:34Z | Null | https://github.com/UnityCoderByte/ArticGreen-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐

@@ -16,6 +16,7 @@
 | 20210611 | Paper：Windows Kernel Hijacking Is Not an Option: MemoryRanger Comes to the Rescue Again | https://commons.erau.edu/jdfsl/vol16/iss1/4/#.YMIN60foJ0g.twitter| 
 | 20210611 | 终端防护软件探针采集数据、行为关联、策略决策、事件响应（OODA）整个循环机制的实现 | http://jackson-t.ca/ooda-loops.html| 
 | 20210611 | macOS Monterey 新版本系统【捷径】App 实现机制的简单分析 | https://sec.today/pulses/678189e6-09b7-45eb-a96b-134aa8243472/| 
+| 20210611 | macOS Monterey 新版本系统【捷径】App 实现机制的简单分析 | https://theevilbit.github.io/posts/monterey_shortcuts/| 
 
 
 # 安全维基 推荐
@@ -53,15 +54,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210611T01:56:31Z | Using PyRaider You can scan installed dependencies known security vulnerabilities. It uses publicly known exploits, vulnerabilities database. | https://github.com/raidersource/pyraider | 4 | 0| 
-| 20210611T01:24:01Z | Null | https://github.com/DiamondHands-Exploit/BedWarsExploit | 0 | 1| 
-| 20210611T01:19:47Z | This repo is a copy of https://github.com/AonCyberLabs/Windows-Exploit-Suggester , but i include some instructions to run the script in parrot 2020 OS. | https://github.com/evilmorty06/Windows-Exploit-Suggester-Functional | 0 | 0| 
-| 20210611T01:18:52Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 108 | 9| 
-| 20210611T01:10:19Z | This is the repository for all of the Exploit Education challenges I complete. | https://github.com/spencer-burke/Exploit-Education-Writeups | 0 | 0| 
-| 20210611T01:02:55Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
-| 20210611T00:51:29Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 17 | 11| 
-| 20210611T00:46:15Z | Null | https://github.com/littlepig453/-ROBLOX-EXPLOIT-Universal-ESP-WORKING- | 0 | 0| 
-| 20210611T00:13:58Z | Some scripts to exploit my vulnerable web app | https://github.com/kitty14956590/vuln-webapp-scripts | 0 | 0| 
+| 20210611T12:02:54Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
+| 20210611T11:29:45Z | A convenient script that provides the bare essentials for exploiting such as ESP, freecam and aimbot. | https://github.com/TheDookySoo/Essentials | 1 | 0| 
+| 20210611T10:45:37Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 59 | 21| 
+| 20210611T10:41:16Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
+| 20210611T10:20:15Z | Some scripts to exploit ELTeC corpus | https://github.com/bncolorado/Processing-ELTeC-corpus | 0 | 0| 
+| 20210611T10:01:29Z | Microsoft » Windows 10 : Security Vulnerabilities | https://github.com/nu11secur1ty/Windows10Exploits | 332 | 95| 
+| 20210611T10:00:35Z | Educational web application demonstrating techniques of binary exploitation (Front-end) | https://github.com/Pen-Test3rs/binary_exploits_frontend | 0 | 0| 
+| 20210611T09:49:50Z | The whole collection of Exploits developed by me (Hacker5preme) | https://github.com/Hacker5preme/Exploits | 1 | 0| 
+| 20210611T09:48:36Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 108 | 10| 
+| 20210611T09:33:34Z | Null | https://github.com/UnityCoderByte/ArticGreen-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
