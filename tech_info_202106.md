@@ -99,7 +99,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210611T01:45:23Z | CRFL: Certifiably Robust Federated Learning against Backdoor Attacks (ICML 2021) | https://github.com/AI-secure/CRFL | 2 | 0| 
+| 20210611T01:49:23Z | CRFL: Certifiably Robust Federated Learning against Backdoor Attacks (ICML 2021) | https://github.com/AI-secure/CRFL | 3 | 0| 
 | 20210610T23:47:33Z | Null | https://github.com/DaHoodScripts/BacKDoor | 0 | 0| 
 | 20210610T21:40:02Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 77 | 12| 
 | 20210610T21:14:05Z | This program is an non-object oriented opensource, hidden and undetectable backdoor/reverse shell/RAT for Windows made in Python 3 which contains many features such as multi-client support and cross-platform server. | https://github.com/hades-onion/descry | 0 | 0| 
