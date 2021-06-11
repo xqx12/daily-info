@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210611T00:51:29Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 17 | 11| 
 | 20210611T00:46:15Z | Null | https://github.com/littlepig453/-ROBLOX-EXPLOIT-Universal-ESP-WORKING- | 0 | 0| 
 | 20210611T00:13:58Z | Some scripts to exploit my vulnerable web app | https://github.com/kitty14956590/vuln-webapp-scripts | 0 | 0| 
 | 20210611T00:03:11Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
@@ -93,7 +94,6 @@
 | 20210610T23:32:24Z | Patch for Waterfall to improve performance during attacks and fix memory issues. | https://github.com/2lstudios-mc/FlameCord | 38 | 23| 
 | 20210610T23:26:10Z | PS4 Host Exploits For 5.05 Firmware to 7.55 Firmware | https://github.com/Night-King-Host/Night-King-Host.github.io | 1 | 1| 
 | 20210610T23:22:42Z |  :cookie: Modern XSS exploitation script. | https://github.com/ShinoNuma/snitchyScript | 1 | 1| 
-| 20210610T22:06:32Z | A collection of scripts I%ve written, including automation, enumeration, exploitation, etc. | https://github.com/jessisec/scripts | 1 | 0| 
 
 
 # backdoor on Github 推荐
