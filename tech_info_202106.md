@@ -48,7 +48,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210611T11:09:39Z | CVE-2021-33739 | Null | https://github.com/mavillon1/CVE-2021-33739-POC | Microsoft DWM Core Library Elevation of Privilege Vulnerability| 
 | 20210611T10:04:14Z | CVE-2021-21985 | CVE-2021-21985 VMware vCenter Server远程代码执行漏洞 EXP (更新可回显EXP) | https://github.com/r0ckysec/CVE-2021-21985 | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
-| 20210611T03:53:24Z | CVE-2021-26828 | Null | https://github.com/hevox/CVE-2021-26828_ScadaBR_RCE | 未查询到CVE信息| 
+| 20210611T03:53:24Z | CVE-2021-26828 | Null | https://github.com/hevox/CVE-2021-26828_ScadaBR_RCE | OpenPLC ScadaBR through 0.9.1 on Linux and through 1.12.4 on Windows allows remote authenticated users to upload and execute arbitrary JSP files via view_edit.shtm.| 
 | 20210610T17:27:25Z | CVE-2020-8417 | CSRF Code snippet vulnerability CVE-2020-8417 | https://github.com/Vulnmachines/WordPress_CVE-2020-8417 | The Code Snippets plugin before 2.14.0 for WordPress allows CSRF because of the lack of a Referer check on the import menu.| 
 | 20210610T17:26:47Z | CVE-2021-21975 | VMWare-CVE-2021-21975 SSRF vulnerability | https://github.com/Vulnmachines/VMWare-CVE-2021-21975 | Server Side Request Forgery in vRealize Operations Manager API (CVE-2021-21975) prior to 8.4 may allow a malicious actor with network access to the vRealize Operations Manager API can perform a Server Side Request Forgery attack to steal administrative credentials.| 
 | 20210610T17:25:54Z | CVE-2020-9496 | Null | https://github.com/Vulnmachines/apache-ofbiz-CVE-2020-9496 | XML-RPC request are vulnerable to unsafe deserialization and Cross-Site Scripting issues in Apache OFBiz 17.12.03| 
@@ -114,16 +114,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210611T12:02:12Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6375 | 1293| 
-| 20210611T11:54:13Z | Null | https://github.com/gjm-anban/fuzzgit | 0 | 1| 
+| 20210611T12:13:14Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6375 | 1293| 
+| 20210611T12:12:00Z | Null | https://github.com/gjm-anban/fuzzgit | 0 | 1| 
+| 20210611T12:10:21Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 77 | 21| 
+| 20210611T12:09:32Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2343 | 128| 
+| 20210611T12:02:28Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210611T11:52:49Z | BTFuzzer is a simple Fuzzing tool for Bluetooth Devices. | https://github.com/michelbarnich/BTFuzzer | 0 | 0| 
 | 20210611T11:49:53Z | Null | https://github.com/Surkagsg/fuzzy-broccoli | 0 | 0| 
 | 20210611T11:24:34Z | Planning tool | https://github.com/HappyDustbunny/FuzzyFlexx | 1 | 0| 
 | 20210611T11:09:40Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 312 | 20| 
-| 20210611T11:01:17Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210611T10:54:34Z | Config files for my GitHub profile. | https://github.com/fuzzyjazzy/fuzzyjazzy | 0 | 0| 
-| 20210611T10:46:23Z | Null | https://github.com/LuckyZmj/WebFuzzingDict | 0 | 0| 
-| 20210611T10:43:20Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
 
 
 
