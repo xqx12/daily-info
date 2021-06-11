@@ -80,6 +80,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210611T12:50:27Z | Ultra efficient tool for DNA patterns and traits searching using FM-Index. | https://github.com/FaazAbidi/Fuzzy-DNA-Search | 1 | 0| 
 | 20210611T12:30:07Z | Null | https://github.com/Surkagsg/fuzzy-broccoli | 0 | 0| 
 | 20210611T12:27:13Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 77 | 21| 
 | 20210611T12:18:36Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6374 | 1293| 
@@ -89,7 +90,6 @@
 | 20210611T11:52:49Z | BTFuzzer is a simple Fuzzing tool for Bluetooth Devices. | https://github.com/michelbarnich/BTFuzzer | 0 | 0| 
 | 20210611T11:24:34Z | Planning tool | https://github.com/HappyDustbunny/FuzzyFlexx | 1 | 0| 
 | 20210611T11:09:40Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 312 | 20| 
-| 20210611T10:54:34Z | Config files for my GitHub profile. | https://github.com/fuzzyjazzy/fuzzyjazzy | 0 | 0| 
 
 
 
