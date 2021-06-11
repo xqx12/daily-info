@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210611T12:51:30Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 17 | 11| 
 | 20210611T12:39:41Z | Microsoft » Windows 10 : Security Vulnerabilities | https://github.com/nu11secur1ty/Windows10Exploits | 332 | 95| 
 | 20210611T12:35:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9548 | 1553| 
 | 20210611T12:32:23Z | A Minecraft mod to safeguard rabbits from harm, farming and exploitation. | https://github.com/LapisLiozuli/BunnyLoversMC | 0 | 0| 
@@ -93,7 +94,6 @@
 | 20210611T10:41:16Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
 | 20210611T10:20:15Z | Some scripts to exploit ELTeC corpus | https://github.com/bncolorado/Processing-ELTeC-corpus | 0 | 0| 
 | 20210611T10:00:35Z | Educational web application demonstrating techniques of binary exploitation (Front-end) | https://github.com/Pen-Test3rs/binary_exploits_frontend | 0 | 0| 
-| 20210611T09:49:50Z | The whole collection of Exploits developed by me (Hacker5preme) | https://github.com/Hacker5preme/Exploits | 1 | 0| 
 
 
 # backdoor on Github 推荐
