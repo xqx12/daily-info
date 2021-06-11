@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210611T01:15:35Z | Null | https://github.com/DiamondHands-Exploit/BedWarsExploit | 0 | 1| 
 | 20210611T01:10:19Z | This is the repository for all of the Exploit Education challenges I complete. | https://github.com/spencer-burke/Exploit-Education-Writeups | 0 | 0| 
 | 20210611T01:02:55Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210611T00:51:29Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 17 | 11| 
@@ -93,7 +94,6 @@
 | 20210610T23:52:57Z | Writeup for exploit.education/nebula | https://github.com/vi11ain/nebula-writeup | 1 | 0| 
 | 20210610T23:41:53Z | Root shell exploit for several Xiaomi routers: 4A Gigabit, 4A 100M, 4, 4C, 3Gv2, 4Q, miWifi 3C... | https://github.com/acecilia/OpenWRTInvasion | 444 | 93| 
 | 20210610T23:32:24Z | Patch for Waterfall to improve performance during attacks and fix memory issues. | https://github.com/2lstudios-mc/FlameCord | 38 | 23| 
-| 20210610T23:26:10Z | PS4 Host Exploits For 5.05 Firmware to 7.55 Firmware | https://github.com/Night-King-Host/Night-King-Host.github.io | 1 | 1| 
 
 
 # backdoor on Github 推荐
