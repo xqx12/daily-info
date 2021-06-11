@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210611T01:56:31Z | Using PyRaider You can scan installed dependencies known security vulnerabilities. It uses publicly known exploits, vulnerabilities database. | https://github.com/raidersource/pyraider | 4 | 0| 
 | 20210611T01:24:01Z | Null | https://github.com/DiamondHands-Exploit/BedWarsExploit | 0 | 1| 
 | 20210611T01:19:47Z | This repo is a copy of https://github.com/AonCyberLabs/Windows-Exploit-Suggester , but i include some instructions to run the script in parrot 2020 OS. | https://github.com/evilmorty06/Windows-Exploit-Suggester-Functional | 0 | 0| 
 | 20210611T01:18:52Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 108 | 9| 
@@ -93,7 +94,6 @@
 | 20210611T00:46:15Z | Null | https://github.com/littlepig453/-ROBLOX-EXPLOIT-Universal-ESP-WORKING- | 0 | 0| 
 | 20210611T00:13:58Z | Some scripts to exploit my vulnerable web app | https://github.com/kitty14956590/vuln-webapp-scripts | 0 | 0| 
 | 20210610T23:54:04Z | Essentials for Exploiters | https://github.com/littlepig453/-ROBLOX-Exploit-Essentials | 0 | 0| 
-| 20210610T23:52:57Z | Writeup for exploit.education/nebula | https://github.com/vi11ain/nebula-writeup | 1 | 0| 
 
 
 # backdoor on Github 推荐
