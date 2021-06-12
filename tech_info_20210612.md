@@ -50,6 +50,13 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210612T10:31:14Z | Null | https://github.com/Wiilldd/backdoor | 0 | 0| 
+| 20210612T07:19:13Z | this is advance py39 backdoor created to use in college project | https://github.com/Bhadresh-Malankiya/BackdoorPy3 | 0 | 0| 
+| 20210612T06:39:02Z | kumpulan shell backdoor | https://github.com/FRMFOX/SH3LL-BKDR | 0 | 0| 
+| 20210612T05:33:38Z | Null | https://github.com/zichaoli/backdoor_attack_defense | 0 | 0| 
+| 20210612T04:41:13Z | The objective of Fundamental of Cyber Security is to equip with essential information and skills to help secure information assets, Understanding of Cyber Security threats such as identity theft, online banking phishing scams, virus and backdoors, cyber-attacks, and much more.  | https://github.com/v-jet/Sec-Notes-1 | 0 | 0| 
+| 20210612T03:56:28Z | This program is an non-object oriented opensource, hidden and undetectable backdoor/reverse shell/RAT for Windows made in Python 3 which contains many features such as multi-client support and cross-platform server. | https://github.com/hades-onion/descry | 2 | 0| 
+| 20210612T02:31:11Z | free and open source nonobf server backdoor plugin | https://github.com/AcaiBerii/Bakdooro | 1 | 0| 
 
 
 # fuzz on Github 推荐
