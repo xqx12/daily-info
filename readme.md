@@ -35,7 +35,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210612T12:00:17Z | Roblox Exploit Hub ui Library | https://github.com/CahyaAdiPratama/Roblox-Exploit-Hub-ui-Library | 0 | 0| 
+| 20210612T12:02:51Z | Roblox Exploit Hub ui Library | https://github.com/CahyaAdiPratama/Roblox-Exploit-Hub-ui-Library | 0 | 0| 
 | 20210612T11:48:45Z | Scan for a vulnerable device using Nessus and exploit one of the vulnerabilities found. | https://github.com/EdanurSen/Nessus-Vulnerability-Scanner | 0 | 0| 
 | 20210612T11:45:43Z | CVE-2021-3560 Local PrivEsc Exploit | https://github.com/swapravo/polkadots | 7 | 1| 
 | 20210612T11:26:11Z | a reliable C based exploit for CVE-2021-3560. | https://github.com/hakivvi/CVE-2021-3560 | 1 | 0| 
