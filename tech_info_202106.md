@@ -55,7 +55,7 @@
 | 20210610T17:26:47Z | CVE-2021-21975 | VMWare-CVE-2021-21975 SSRF vulnerability | https://github.com/Vulnmachines/VMWare-CVE-2021-21975 | Server Side Request Forgery in vRealize Operations Manager API (CVE-2021-21975) prior to 8.4 may allow a malicious actor with network access to the vRealize Operations Manager API can perform a Server Side Request Forgery attack to steal administrative credentials.| 
 | 20210610T17:25:54Z | CVE-2020-9496 | Null | https://github.com/Vulnmachines/apache-ofbiz-CVE-2020-9496 | XML-RPC request are vulnerable to unsafe deserialization and Cross-Site Scripting issues in Apache OFBiz 17.12.03| 
 | 20210610T17:24:57Z | CVE-2021-25646 | Null | https://github.com/Vulnmachines/Apache-Druid-CVE-2021-25646 | | 
-| 20210610T05:44:21Z | CVE-2020-3452 | Null | https://github.com/sujaygr8/CVE-2020-3452 | A vulnerability in the web services interface of Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software could allow an unauthenticated, remote attacker to conduct directory traversal attacks and read sensitive files on a targeted system. The vulnerability is due to a lack of proper input validation of URLs in HTTP requests processed by an affected device. An attacker could exploit this vulnerability by sending a crafted HTTP request containing directory traversal character sequences to an affected device. A successful exploit could allow the attacker to view arbitrary files within the web services file system on the targeted device. The web services file system is enabled when the affected device is configured with either WebVPN or AnyConnect features. This vulnerability cannot be used to obtain access to ASA or FTD system files or underlying operating system (OS) files.| 
+| 20210610T05:44:21Z | CVE-2020-3452 | Null | https://github.com/sujaygr8/CVE-2020-3452 | | 
 
 
 # klee on Github 推荐
@@ -84,9 +84,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210612T00:39:05Z | windows-kernel-exploits   Windows平台提权漏洞集合 | https://github.com/SecWiki/windows-kernel-exploits | 5435 | 2381| 
 | 20210612T00:33:16Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 108 | 10| 
 | 20210612T00:30:19Z | wargame exploit code | https://github.com/candy127/wargame | 0 | 0| 
-| 20210612T00:18:39Z | windows-kernel-exploits   Windows平台提权漏洞集合 | https://github.com/SecWiki/windows-kernel-exploits | 5434 | 2381| 
 | 20210612T00:02:49Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210611T23:59:17Z | Simple tools that I built for day-to-day tasks as well as study materials in preparation for Offensive Security%s EXP::301 Windows Exploitation Course | https://github.com/Trac34/QuickScripts | 0 | 0| 
 | 20210611T23:48:05Z | A simple plugin to fix a crash exploit with WorldEdit | https://github.com/Rainnny7/TabCompletion | 0 | 0| 
