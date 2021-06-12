@@ -86,16 +86,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210611T12:50:27Z | Ultra efficient tool for DNA patterns and traits searching using FM-Index. | https://github.com/FaazAbidi/Fuzzy-DNA-Search | 1 | 0| 
-| 20210611T12:30:07Z | Null | https://github.com/Surkagsg/fuzzy-broccoli | 0 | 0| 
-| 20210611T12:27:13Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 77 | 21| 
-| 20210611T12:18:36Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6374 | 1293| 
-| 20210611T12:12:00Z | Null | https://github.com/gjm-anban/fuzzgit | 0 | 1| 
-| 20210611T12:09:32Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2343 | 128| 
-| 20210611T12:02:28Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210611T11:52:49Z | BTFuzzer is a simple Fuzzing tool for Bluetooth Devices. | https://github.com/michelbarnich/BTFuzzer | 0 | 0| 
-| 20210611T11:24:34Z | Planning tool | https://github.com/HappyDustbunny/FuzzyFlexx | 1 | 0| 
-| 20210611T11:09:40Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 312 | 20| 
+| 20210611T23:55:11Z | Null | https://github.com/kparker028/fuzzy-carnival | 0 | 0| 
+| 20210611T23:47:16Z | fuzz：口令、子域名、旁站、web接口、参数 | https://github.com/ybdt/dict-hub | 64 | 9| 
+| 20210611T23:33:33Z | Null | https://github.com/adamsiwiec1/fuzzy-pycharm | 1 | 0| 
+| 20210611T23:32:08Z | Null | https://github.com/michaeltran387/fuzzy-potato | 0 | 0| 
+| 20210611T23:20:19Z | Fuzzy charrs are fuzzy. | https://github.com/marenubium87/FuzzyCharr | 0 | 0| 
+| 20210611T22:59:19Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1809 | 359| 
+| 20210611T22:47:25Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2344 | 128| 
+| 20210611T22:39:00Z | Null | https://github.com/opimentel-github/fuzzy-tools | 0 | 0| 
+| 20210611T22:01:48Z | Quality assurance testing for the curl project | https://github.com/curl/curl-fuzzer | 33 | 17| 
+| 20210611T22:01:38Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 
 
 
