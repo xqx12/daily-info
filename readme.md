@@ -35,10 +35,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210612T12:43:34Z | CVE-2021-3560 Local PrivEsc Exploit | https://github.com/swapravo/polkadots | 9 | 1| 
 | 20210612T12:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9553 | 1554| 
 | 20210612T12:31:10Z | A Monaco fork for Roblox (exploiting). All functions from LuaU and custom executor functions are present with documentation. | https://github.com/EthanMcBloxxer/Rosploco | 0 | 0| 
 | 20210612T12:29:02Z | Scripts (ServerSide and FE) | https://github.com/0WNEDU/Roblox-Misc-Scripts-Exploits | 0 | 0| 
-| 20210612T12:17:22Z | CVE-2021-3560 Local PrivEsc Exploit | https://github.com/swapravo/polkadots | 8 | 1| 
 | 20210612T12:03:18Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210612T12:02:51Z | Roblox Exploit Hub ui Library | https://github.com/CahyaAdiPratama/Roblox-Exploit-Hub-ui-Library | 0 | 0| 
 | 20210612T11:48:45Z | Scan for a vulnerable device using Nessus and exploit one of the vulnerabilities found. | https://github.com/EdanurSen/Nessus-Vulnerability-Scanner | 0 | 0| 
@@ -63,13 +63,13 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210612T12:32:56Z | DOM fuzzer | https://github.com/mevid93/domzzer | 0 | 0| 
 | 20210612T12:15:18Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 9 | 5| 
 | 20210612T12:02:12Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210612T11:57:52Z | Null | https://github.com/TXGAPOORV/fuzzy-octo-waddle | 0 | 0| 
 | 20210612T11:57:17Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 649 | 100| 
 | 20210612T11:42:54Z | Tools e example to fuzz everything you want through software manipulation. TO DO | https://github.com/giggi0x00/Fuzzing_Everything | 0 | 0| 
 | 20210612T11:33:24Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210612T11:15:21Z | DOM fuzzer | https://github.com/mevid93/domzzer | 0 | 0| 
 | 20210612T11:08:53Z | 一些常见字典 | https://github.com/yuanhaiGreg/Fuzz-Dict | 25 | 2| 
 | 20210612T10:00:08Z | Project developed using Fuzzy Logics to design an expert system for detecting malignancy in the breast cancer sample. GUI developed as a windows installer using python tikinter platform and MATLAB is extended as the inference engine.  | https://github.com/harshit2000/SheCare-Breast-Cancer-Detection-Using-Fuzzy-Logic-Expert-System | 0 | 0| 
 | 20210612T09:51:59Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1811 | 359| 
