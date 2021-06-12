@@ -50,7 +50,7 @@
 | 20210612T11:26:11Z | CVE-2021-3560 | a reliable C based exploit for CVE-2021-3560. | https://github.com/hakivvi/CVE-2021-3560 | 未查询到CVE信息| 
 | 20210612T07:12:07Z | CVE-2021-21315 | CVE 2021-21315 PoC | https://github.com/ForbiddenProgrammer/CVE-2021-21315-PoC | The System Information Library for Node.JS (npm package %systeminformation%) is an open source collection of functions to retrieve detailed hardware, system and OS information. In systeminformation before version 5.3.1 there is a command injection vulnerability. Problem was fixed in version 5.3.1. As a workaround instead of upgrading, be sure to check or sanitize service parameters that are passed to si.inetLatency(), si.inetChecksite(), si.services(), si.processLoad() ... do only allow strings, reject any arrays. String sanitation works as expected.| 
 | 20210611T17:44:35Z | CVE-2021-3560 | Null | https://github.com/deathflash1411/CVE-2021-3560 | 未查询到CVE信息| 
-| 20210611T15:13:58Z | cve-2020-11060 | Python2 POC for CVE 2020-11060 | https://github.com/0xdreadnaught/cve-2020-11060-poc | | 
+| 20210611T15:13:58Z | cve-2020-11060 | Python2 POC for CVE 2020-11060 | https://github.com/0xdreadnaught/cve-2020-11060-poc | In GLPI before 9.4.6, an attacker can execute system commands by abusing the backup functionality. Theoretically, this vulnerability can be exploited by an attacker without a valid account by using a CSRF. Due to the difficulty of the exploitation, the attack is only conceivable by an account having Maintenance privileges and the right to add WIFI networks. This is fixed in version 9.4.6.| 
 | 20210611T10:04:14Z | CVE-2021-21985 | CVE-2021-21985 VMware vCenter Server远程代码执行漏洞 EXP (更新可回显EXP) | https://github.com/r0ckysec/CVE-2021-21985 | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
 | 20210611T03:53:24Z | CVE-2021-26828 | Null | https://github.com/hevox/CVE-2021-26828_ScadaBR_RCE | OpenPLC ScadaBR through 0.9.1 on Linux and through 1.12.4 on Windows allows remote authenticated users to upload and execute arbitrary JSP files via view_edit.shtm.| 
 | 20210610T17:27:25Z | CVE-2020-8417 | CSRF Code snippet vulnerability CVE-2020-8417 | https://github.com/Vulnmachines/WordPress_CVE-2020-8417 | The Code Snippets plugin before 2.14.0 for WordPress allows CSRF because of the lack of a Referer check on the import menu.| 
@@ -99,6 +99,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210612T12:14:04Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 248 | 43| 
 | 20210612T10:31:14Z | Null | https://github.com/Wiilldd/backdoor | 0 | 0| 
 | 20210612T07:19:13Z | this is advance py39 backdoor created to use in college project | https://github.com/Bhadresh-Malankiya/BackdoorPy3 | 0 | 0| 
 | 20210612T06:39:02Z | kumpulan shell backdoor | https://github.com/FRMFOX/SH3LL-BKDR | 0 | 0| 
@@ -108,7 +109,6 @@
 | 20210612T02:31:11Z | free and open source nonobf server backdoor plugin | https://github.com/AcaiBerii/Bakdooro | 1 | 0| 
 | 20210611T22:52:44Z | CRFL: Certifiably Robust Federated Learning against Backdoor Attacks (ICML 2021) | https://github.com/AI-secure/CRFL | 6 | 0| 
 | 20210611T17:24:28Z | A protocol suite to individually backdoor end-to-end encrypted communications in compliance with the seperation of branches of power legal framework. | https://github.com/feketebv/E2EE_backdooring | 0 | 0| 
-| 20210611T12:42:44Z | Code and data of the ACL 2021 paper %Turn the Combination Lock: Learnable Textual Backdoor Attacks via Word Substitution% | https://github.com/thunlp/BkdAtk-LWS | 1 | 0| 
 
 
 # fuzz on Github 推荐
