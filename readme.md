@@ -35,7 +35,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210611T17:44:35Z | CVE-2021-3560 | Null | https://github.com/deathflash1411/CVE-2021-3560 | | 
+| 20210611T17:44:35Z | CVE-2021-3560 | Null | https://github.com/deathflash1411/CVE-2021-3560 | 未查询到CVE信息| 
 | 20210611T15:13:58Z | cve-2020-11060 | Python2 POC for CVE 2020-11060 | https://github.com/0xdreadnaught/cve-2020-11060-poc | In GLPI before 9.4.6, an attacker can execute system commands by abusing the backup functionality. Theoretically, this vulnerability can be exploited by an attacker without a valid account by using a CSRF. Due to the difficulty of the exploitation, the attack is only conceivable by an account having Maintenance privileges and the right to add WIFI networks. This is fixed in version 9.4.6.| 
 | 20210611T12:39:48Z | CVE-2021-33739 | Null | https://github.com/mavillon1/CVE-2021-33739-POC | Microsoft DWM Core Library Elevation of Privilege Vulnerability| 
 | 20210611T10:04:14Z | CVE-2021-21985 | CVE-2021-21985 VMware vCenter Server远程代码执行漏洞 EXP (更新可回显EXP) | https://github.com/r0ckysec/CVE-2021-21985 | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
@@ -87,7 +87,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20210611T23:55:11Z | Null | https://github.com/kparker028/fuzzy-carnival | 0 | 0| 
-| 20210611T23:47:16Z | fuzz：口令、子域名、旁站、web接口、参数 | https://github.com/ybdt/dict-hub | 64 | 9| 
 | 20210611T23:33:33Z | Null | https://github.com/adamsiwiec1/fuzzy-pycharm | 1 | 0| 
 | 20210611T23:32:08Z | Null | https://github.com/michaeltran387/fuzzy-potato | 0 | 0| 
 | 20210611T23:20:19Z | Fuzzy charrs are fuzzy. | https://github.com/marenubium87/FuzzyCharr | 0 | 0| 
@@ -96,6 +95,7 @@
 | 20210611T22:39:00Z | Null | https://github.com/opimentel-github/fuzzy-tools | 0 | 0| 
 | 20210611T22:01:48Z | Quality assurance testing for the curl project | https://github.com/curl/curl-fuzzer | 33 | 17| 
 | 20210611T22:01:38Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20210611T21:32:58Z | Null | https://github.com/forallfuzzers/fuzzers | 0 | 1| 
 
 
 
