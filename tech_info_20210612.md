@@ -63,16 +63,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210612T12:56:14Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20210612T12:55:29Z | Fuzz：口令、子域名、旁站、web接口、参数 | https://github.com/ybdt/dict-hub | 64 | 9| 
 | 20210612T12:32:56Z | DOM fuzzer | https://github.com/mevid93/domzzer | 0 | 0| 
 | 20210612T12:15:18Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 9 | 5| 
 | 20210612T12:02:12Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210612T11:57:52Z | Null | https://github.com/TXGAPOORV/fuzzy-octo-waddle | 0 | 0| 
 | 20210612T11:57:17Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 649 | 100| 
 | 20210612T11:42:54Z | Tools e example to fuzz everything you want through software manipulation. TO DO | https://github.com/giggi0x00/Fuzzing_Everything | 0 | 0| 
-| 20210612T11:33:24Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210612T11:08:53Z | 一些常见字典 | https://github.com/yuanhaiGreg/Fuzz-Dict | 25 | 2| 
 | 20210612T10:00:08Z | Project developed using Fuzzy Logics to design an expert system for detecting malignancy in the breast cancer sample. GUI developed as a windows installer using python tikinter platform and MATLAB is extended as the inference engine.  | https://github.com/harshit2000/SheCare-Breast-Cancer-Detection-Using-Fuzzy-Logic-Expert-System | 0 | 0| 
-| 20210612T09:51:59Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1811 | 359| 
 
 
 
