@@ -89,13 +89,13 @@
 | 20210611T23:55:11Z | Null | https://github.com/kparker028/fuzzy-carnival | 0 | 0| 
 | 20210611T23:33:33Z | Null | https://github.com/adamsiwiec1/fuzzy-pycharm | 1 | 0| 
 | 20210611T23:32:08Z | Null | https://github.com/michaeltran387/fuzzy-potato | 0 | 0| 
-| 20210611T23:20:19Z | Fuzzy charrs are fuzzy. | https://github.com/marenubium87/FuzzyCharr | 0 | 0| 
 | 20210611T22:59:19Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1809 | 359| 
 | 20210611T22:47:25Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2344 | 128| 
 | 20210611T22:39:00Z | Null | https://github.com/opimentel-github/fuzzy-tools | 0 | 0| 
 | 20210611T22:01:48Z | Quality assurance testing for the curl project | https://github.com/curl/curl-fuzzer | 33 | 17| 
 | 20210611T22:01:38Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210611T21:32:58Z | Null | https://github.com/forallfuzzers/fuzzers | 0 | 1| 
+| 20210611T21:30:10Z | Written standups for remote teams. Inspired by Basecamp. | https://github.com/malikpiara/fuzzboard | 1 | 0| 
 
 
 

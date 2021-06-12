@@ -114,13 +114,13 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210612T01:35:36Z | Fuzzy charrs are fuzzy. | https://github.com/marenubium87/FuzzyCharr | 0 | 0| 
 | 20210612T00:41:34Z | Null | https://github.com/MiroIbarra/fuzzy-octo-winner | 0 | 0| 
 | 20210612T00:19:35Z | Fuzzy name matching with python | https://github.com/conjectures/fuzzy-name-matching | 0 | 0| 
 | 20210612T00:04:32Z | Fuzz：口令、子域名、旁站、web接口、参数 | https://github.com/ybdt/dict-hub | 64 | 9| 
 | 20210611T23:55:11Z | Null | https://github.com/kparker028/fuzzy-carnival | 0 | 0| 
 | 20210611T23:33:33Z | Null | https://github.com/adamsiwiec1/fuzzy-pycharm | 1 | 0| 
 | 20210611T23:32:08Z | Null | https://github.com/michaeltran387/fuzzy-potato | 0 | 0| 
-| 20210611T23:20:19Z | Fuzzy charrs are fuzzy. | https://github.com/marenubium87/FuzzyCharr | 0 | 0| 
 | 20210611T22:59:19Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1809 | 359| 
 | 20210611T22:47:25Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2344 | 128| 
 | 20210611T22:39:00Z | Null | https://github.com/opimentel-github/fuzzy-tools | 0 | 0| 
