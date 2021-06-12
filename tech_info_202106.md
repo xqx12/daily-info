@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210612T12:29:02Z | Scripts (ServerSide and FE) | https://github.com/0WNEDU/Roblox-Misc-Scripts-Exploits | 0 | 0| 
 | 20210612T12:17:22Z | CVE-2021-3560 Local PrivEsc Exploit | https://github.com/swapravo/polkadots | 8 | 1| 
 | 20210612T12:03:18Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210612T12:02:51Z | Roblox Exploit Hub ui Library | https://github.com/CahyaAdiPratama/Roblox-Exploit-Hub-ui-Library | 0 | 0| 
@@ -93,13 +94,12 @@
 | 20210612T10:27:33Z | A convenient script that provides the bare essentials for exploiting such as ESP, freecam and aimbot. | https://github.com/TheDookySoo/Essentials | 1 | 0| 
 | 20210612T09:51:33Z | Null | https://github.com/InfinityExploit/InfinityExploit.github.io | 0 | 0| 
 | 20210612T09:26:13Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 59 | 21| 
-| 20210612T09:16:29Z | This repository contains hints to exploit and capture flag of  CTF machines from various platforms. this isn%t a detailed walk-through. from some boxes which I hunt. | https://github.com/nibrasmuhamed/CTF-Walkthrough | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210612T12:25:18Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 248 | 43| 
+| 20210612T12:26:20Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 248 | 43| 
 | 20210612T10:31:14Z | Null | https://github.com/Wiilldd/backdoor | 0 | 0| 
 | 20210612T07:19:13Z | this is advance py39 backdoor created to use in college project | https://github.com/Bhadresh-Malankiya/BackdoorPy3 | 0 | 0| 
 | 20210612T06:39:02Z | kumpulan shell backdoor | https://github.com/FRMFOX/SH3LL-BKDR | 0 | 0| 
