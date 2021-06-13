@@ -53,8 +53,8 @@
 | 20210612T07:12:07Z | CVE-2021-21315 | CVE 2021-21315 PoC | https://github.com/ForbiddenProgrammer/CVE-2021-21315-PoC | The System Information Library for Node.JS (npm package %systeminformation%) is an open source collection of functions to retrieve detailed hardware, system and OS information. In systeminformation before version 5.3.1 there is a command injection vulnerability. Problem was fixed in version 5.3.1. As a workaround instead of upgrading, be sure to check or sanitize service parameters that are passed to si.inetLatency(), si.inetChecksite(), si.services(), si.processLoad() ... do only allow strings, reject any arrays. String sanitation works as expected.| 
 | 20210611T17:44:35Z | CVE-2021-3560 | Null | https://github.com/deathflash1411/CVE-2021-3560 | 未查询到CVE信息| 
 | 20210611T15:13:58Z | cve-2020-11060 | Python2 POC for CVE 2020-11060 | https://github.com/0xdreadnaught/cve-2020-11060-poc | In GLPI before 9.4.6, an attacker can execute system commands by abusing the backup functionality. Theoretically, this vulnerability can be exploited by an attacker without a valid account by using a CSRF. Due to the difficulty of the exploitation, the attack is only conceivable by an account having Maintenance privileges and the right to add WIFI networks. This is fixed in version 9.4.6.| 
-| 20210611T03:53:24Z | CVE-2021-26828 | Null | https://github.com/hevox/CVE-2021-26828_ScadaBR_RCE | | 
-| 20210610T17:27:25Z | CVE-2020-8417 | CSRF Code snippet vulnerability CVE-2020-8417 | https://github.com/Vulnmachines/WordPress_CVE-2020-8417 | The Code Snippets plugin before 2.14.0 for WordPress allows CSRF because of the lack of a Referer check on the import menu.| 
+| 20210611T03:53:24Z | CVE-2021-26828 | Null | https://github.com/hevox/CVE-2021-26828_ScadaBR_RCE | OpenPLC ScadaBR through 0.9.1 on Linux and through 1.12.4 on Windows allows remote authenticated users to upload and execute arbitrary JSP files via view_edit.shtm.| 
+| 20210610T17:27:25Z | CVE-2020-8417 | CSRF Code snippet vulnerability CVE-2020-8417 | https://github.com/Vulnmachines/WordPress_CVE-2020-8417 | | 
 | 20210610T17:26:47Z | CVE-2021-21975 | VMWare-CVE-2021-21975 SSRF vulnerability | https://github.com/Vulnmachines/VMWare-CVE-2021-21975 | Server Side Request Forgery in vRealize Operations Manager API (CVE-2021-21975) prior to 8.4 may allow a malicious actor with network access to the vRealize Operations Manager API can perform a Server Side Request Forgery attack to steal administrative credentials.| 
 
 
@@ -99,6 +99,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210613T00:43:39Z | This program is an non-object oriented opensource, hidden and undetectable backdoor/reverse shell/RAT for Windows made in Python 3 which contains many features such as multi-client support and cross-platform server. | https://github.com/hades-onion/descry | 3 | 0| 
 | 20210612T23:00:06Z | Project SAANP : Implementation of Backdoor using Python | https://github.com/piyushsharma220699/Backdoor-in-Cyber-Security | 0 | 0| 
 | 20210612T22:32:44Z | De oprindelige devo filer uden plankeck eller backdoors. 100% CLEAN | https://github.com/Sweackzy/Devo | 0 | 0| 
 | 20210612T17:26:31Z | auth & backdoor removed | https://github.com/Not-Hax/melonhack-cracked | 6 | 0| 
@@ -108,7 +109,6 @@
 | 20210612T07:19:13Z | this is advance py39 backdoor created to use in college project | https://github.com/Bhadresh-Malankiya/BackdoorPy3 | 0 | 0| 
 | 20210612T05:33:38Z | Null | https://github.com/zichaoli/backdoor_attack_defense | 0 | 0| 
 | 20210612T04:41:13Z | The objective of Fundamental of Cyber Security is to equip with essential information and skills to help secure information assets, Understanding of Cyber Security threats such as identity theft, online banking phishing scams, virus and backdoors, cyber-attacks, and much more.  | https://github.com/v-jet/Sec-Notes-1 | 0 | 0| 
-| 20210612T03:56:28Z | This program is an non-object oriented opensource, hidden and undetectable backdoor/reverse shell/RAT for Windows made in Python 3 which contains many features such as multi-client support and cross-platform server. | https://github.com/hades-onion/descry | 2 | 0| 
 
 
 # fuzz on Github 推荐
