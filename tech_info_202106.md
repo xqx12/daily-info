@@ -54,8 +54,8 @@
 | 20210611T17:44:35Z | CVE-2021-3560 | Null | https://github.com/deathflash1411/CVE-2021-3560 | 未查询到CVE信息| 
 | 20210611T15:13:58Z | cve-2020-11060 | Python2 POC for CVE 2020-11060 | https://github.com/0xdreadnaught/cve-2020-11060-poc | In GLPI before 9.4.6, an attacker can execute system commands by abusing the backup functionality. Theoretically, this vulnerability can be exploited by an attacker without a valid account by using a CSRF. Due to the difficulty of the exploitation, the attack is only conceivable by an account having Maintenance privileges and the right to add WIFI networks. This is fixed in version 9.4.6.| 
 | 20210611T03:53:24Z | CVE-2021-26828 | Null | https://github.com/hevox/CVE-2021-26828_ScadaBR_RCE | OpenPLC ScadaBR through 0.9.1 on Linux and through 1.12.4 on Windows allows remote authenticated users to upload and execute arbitrary JSP files via view_edit.shtm.| 
-| 20210610T17:27:25Z | CVE-2020-8417 | CSRF Code snippet vulnerability CVE-2020-8417 | https://github.com/Vulnmachines/WordPress_CVE-2020-8417 | The Code Snippets plugin before 2.14.0 for WordPress allows CSRF because of the lack of a Referer check on the import menu.| 
-| 20210610T17:26:47Z | CVE-2021-21975 | VMWare-CVE-2021-21975 SSRF vulnerability | https://github.com/Vulnmachines/VMWare-CVE-2021-21975 | | 
+| 20210610T17:27:25Z | CVE-2020-8417 | CSRF Code snippet vulnerability CVE-2020-8417 | https://github.com/Vulnmachines/WordPress_CVE-2020-8417 | | 
+| 20210610T17:26:47Z | CVE-2021-21975 | VMWare-CVE-2021-21975 SSRF vulnerability | https://github.com/Vulnmachines/VMWare-CVE-2021-21975 | Server Side Request Forgery in vRealize Operations Manager API (CVE-2021-21975) prior to 8.4 may allow a malicious actor with network access to the vRealize Operations Manager API can perform a Server Side Request Forgery attack to steal administrative credentials.| 
 
 
 # klee on Github 推荐
