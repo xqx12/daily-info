@@ -38,7 +38,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210613T12:33:07Z | Null | https://github.com/VertexWeb/vertex-exploit-website | 0 | 0| 
+| 20210613T12:35:27Z | Null | https://github.com/VertexWeb/vertex-exploit-website | 0 | 0| 
+| 20210613T12:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9555 | 1555| 
 | 20210613T12:32:31Z | This repository contains various media files for known attacks on web applications processing media files. Useful for penetration tests and bug bounty. | https://github.com/barrracud4/image-upload-exploits | 1 | 0| 
 | 20210613T12:27:07Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7952 | 1399| 
 | 20210613T12:18:04Z | Exploitation Framework for Embedded Devices | https://github.com/threat9/routersploit | 9438 | 2038| 
@@ -47,7 +48,6 @@
 | 20210613T11:41:10Z | Perform buffer overflow vuln testing and exploit | https://github.com/souvikhaldar/goffer | 0 | 0| 
 | 20210613T11:01:34Z | A little mod I made for my friends in my survival server and keep them from exploiting spectator mode. | https://github.com/North-West-Wind/FabricSurvivalSpectator | 0 | 0| 
 | 20210613T10:36:59Z |  Tool for post exploitation of any machine / Dynamic encrypted remote command line | https://github.com/prasannan-robots/Dynamic_command | 0 | 0| 
-| 20210613T10:15:23Z | A motion planning framework used for a larger planning horizon, exploiting reactive nature of tscc for local planning | https://github.com/tvsrr/TSCC_Interleaved_MPC | 0 | 3| 
 
 
 # backdoor on Github 推荐
