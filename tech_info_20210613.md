@@ -38,6 +38,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210613T12:30:18Z | This repository contains various media files for known attacks on web applications processing media files. Useful for penetration tests and bug bounty. | https://github.com/barrracud4/image-upload-exploits | 1 | 0| 
 | 20210613T12:28:56Z | Null | https://github.com/VertexWeb/vertex-exploit-website | 0 | 0| 
 | 20210613T12:27:07Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7952 | 1399| 
 | 20210613T12:18:04Z | Exploitation Framework for Embedded Devices | https://github.com/threat9/routersploit | 9438 | 2038| 
@@ -47,7 +48,6 @@
 | 20210613T11:01:34Z | A little mod I made for my friends in my survival server and keep them from exploiting spectator mode. | https://github.com/North-West-Wind/FabricSurvivalSpectator | 0 | 0| 
 | 20210613T10:36:59Z |  Tool for post exploitation of any machine / Dynamic encrypted remote command line | https://github.com/prasannan-robots/Dynamic_command | 0 | 0| 
 | 20210613T10:15:23Z | A motion planning framework used for a larger planning horizon, exploiting reactive nature of tscc for local planning | https://github.com/tvsrr/TSCC_Interleaved_MPC | 0 | 3| 
-| 20210613T09:23:53Z | * we have three different files for cyber crime motives in india of year 2017,2018 and 2019. * Each of this file contains cyber crime motives in india accoring to State/UT wise. * In this CSV file there are 29 States and 7 Union Territory  * There are 20 cyber crime motives like:- Personal Revenge,Anger,Fraud,Extortion,Prank,Sexual Exploitation etc. | https://github.com/RashmDesh/Cyber-Crime-Motives-in-India-State-UT-2017-19- | 1 | 0| 
 
 
 # backdoor on Github 推荐
