@@ -114,6 +114,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210613T00:13:22Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210613T00:04:18Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 9 | 5| 
 | 20210612T23:57:44Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 77 | 21| 
 | 20210612T23:56:34Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 32001 | 16486| 
@@ -123,7 +124,6 @@
 | 20210612T22:51:27Z | Null | https://github.com/jan-golda/PW-FuzzyController | 0 | 0| 
 | 20210612T22:19:17Z | Claim your paninerd tokens | https://github.com/Seboran/fuzzy-waddle | 0 | 0| 
 | 20210612T22:04:55Z | https://github.com/secfigo/Awesome-Fuzzing | https://github.com/mishmashclone/secfigo-Awesome-Fuzzing | 0 | 0| 
-| 20210612T22:01:30Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 
 
 

@@ -75,8 +75,8 @@
 | 20210612T22:51:27Z | Null | https://github.com/jan-golda/PW-FuzzyController | 0 | 0| 
 | 20210612T22:19:17Z | Claim your paninerd tokens | https://github.com/Seboran/fuzzy-waddle | 0 | 0| 
 | 20210612T22:04:55Z | https://github.com/secfigo/Awesome-Fuzzing | https://github.com/mishmashclone/secfigo-Awesome-Fuzzing | 0 | 0| 
-| 20210612T22:01:30Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210612T21:08:53Z | These tests of libdwarf/dwarfdump include old object files, new ones, and many fuzzed object files. These are the definitive tests that things work.. Most people have no reason to run these tests. | https://github.com/davea42/libdwarf-regressiontests | 0 | 0| 
+| 20210612T20:39:30Z | 🤖 Repeat tests. Repeat tests. Repeat tests. | https://github.com/ehmicky/test-each | 92 | 2| 
 
 
 
