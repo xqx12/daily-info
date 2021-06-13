@@ -17,7 +17,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210613T10:23:21Z | CVE-2021-3560 | a reliable C based exploit for CVE-2021-3560. | https://github.com/hakivvi/CVE-2021-3560 | 未查询到CVE信息| 
-| 20210613T10:14:42Z | CVE-2021-33739 | Null | https://github.com/mavillon1/CVE-2021-33739-POC | Microsoft DWM Core Library Elevation of Privilege Vulnerability| 
+| 20210613T10:14:42Z | CVE-2021-33739 | Null | https://github.com/mavillon1/CVE-2021-33739-POC | | 
 | 20210613T09:46:38Z | CVE-2021-32819 | SquirrellyJS mixes pure template data with engine configuration options through the Express render API. By overwriting internal configuration options, remote code execution may be triggered in downstream applications. | https://github.com/Abady0x1/CVE-2021-32819 | Squirrelly is a template engine implemented in JavaScript that works out of the box with ExpressJS. Squirrelly mixes pure template data with engine configuration options through the Express render API. By overwriting internal configuration options remote code execution may be triggered in downstream applications. There is currently no fix for these issues as of the publication of this CVE. The latest version of squirrelly is currently 8.0.8. For complete details refer to the referenced GHSL-2021-023.| 
 | 20210613T06:38:04Z | CVE-2021-21985 | CVE-2021-21985 VMware vCenter Server远程代码执行漏洞 EXP (更新可回显EXP) | https://github.com/r0ckysec/CVE-2021-21985 | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
 
@@ -38,6 +38,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210613T12:19:55Z | Null | https://github.com/VertexWeb/vertex-exploit-website | 0 | 0| 
 | 20210613T12:18:04Z | Exploitation Framework for Embedded Devices | https://github.com/threat9/routersploit | 9438 | 2038| 
 | 20210613T12:17:20Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7951 | 1399| 
 | 20210613T12:05:02Z | Signatus - Vulnerable TCP C++ server to practice Win 32 exploitation. | https://github.com/bmdyy/signatus | 0 | 0| 
@@ -47,7 +48,6 @@
 | 20210613T10:36:59Z |  Tool for post exploitation of any machine / Dynamic encrypted remote command line | https://github.com/prasannan-robots/Dynamic_command | 0 | 0| 
 | 20210613T10:15:23Z | A motion planning framework used for a larger planning horizon, exploiting reactive nature of tscc for local planning | https://github.com/tvsrr/TSCC_Interleaved_MPC | 0 | 3| 
 | 20210613T09:23:53Z | * we have three different files for cyber crime motives in india of year 2017,2018 and 2019. * Each of this file contains cyber crime motives in india accoring to State/UT wise. * In this CSV file there are 29 States and 7 Union Territory  * There are 20 cyber crime motives like:- Personal Revenge,Anger,Fraud,Extortion,Prank,Sexual Exploitation etc. | https://github.com/RashmDesh/Cyber-Crime-Motives-in-India-State-UT-2017-19- | 1 | 0| 
-| 20210613T08:35:36Z | Buffer Overflow Guide For OSCP | https://github.com/sak110/ExploitDevlopment | 2 | 0| 
 
 
 # backdoor on Github 推荐
