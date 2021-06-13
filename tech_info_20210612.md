@@ -44,9 +44,9 @@
 | 20210612T22:05:28Z | https://github.com/SecWiki/windows-kernel-exploits | https://github.com/mishmashclone/SecWiki-windows-kernel-exploits | 1 | 3| 
 | 20210612T22:05:21Z | Writeup for exploit.education/nebula | https://github.com/vi11ain/nebula-writeup | 1 | 0| 
 | 20210612T21:38:20Z | An textbox for a roblox exploit. | https://github.com/DanSucksAtExploitingInRoblox/Exploit-TextBox | 0 | 0| 
-| 20210612T21:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9553 | 1555| 
 | 20210612T21:19:47Z | This is a GUI application of the Contract Automata Toolkit,  exploiting the contract automata library to put contract automata at work | https://github.com/davidebasile/ContractAutomataApp | 0 | 0| 
 | 20210612T21:00:11Z | Some of my Binary Exploitation Stuff | https://github.com/k0rup710n/BinaryExploitation | 0 | 0| 
+| 20210612T20:58:49Z | Exploits examples | https://github.com/fqqf/C-exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
