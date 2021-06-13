@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210613T01:16:48Z | This is a collection of resources that are focused on Web Exploitation.  | https://github.com/JonLH22/Web-Exploit-Resources | 0 | 0| 
 | 20210613T01:12:46Z | A Monaco fork for Roblox (exploiting). All functions from LuaU and custom executor functions are present with documentation. | https://github.com/EthanMcBloxxer/Rosploco | 0 | 0| 
 | 20210613T01:02:26Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210613T00:46:04Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9553 | 1555| 
@@ -93,7 +94,6 @@
 | 20210612T22:36:19Z | Simple tools that I built for day-to-day tasks as well as study materials in preparation for Offensive Security%s EXP::301 Windows Exploitation Course | https://github.com/Trac34/QuickScripts | 0 | 0| 
 | 20210612T22:05:28Z | https://github.com/SecWiki/windows-kernel-exploits | https://github.com/mishmashclone/SecWiki-windows-kernel-exploits | 1 | 3| 
 | 20210612T22:05:21Z | Writeup for exploit.education/nebula | https://github.com/vi11ain/nebula-writeup | 1 | 0| 
-| 20210612T21:38:20Z | An textbox for a roblox exploit. | https://github.com/DanSucksAtExploitingInRoblox/Exploit-TextBox | 0 | 0| 
 
 
 # backdoor on Github 推荐
