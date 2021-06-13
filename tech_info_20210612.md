@@ -70,13 +70,13 @@
 | 20210612T23:57:44Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 77 | 21| 
 | 20210612T23:56:34Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 32001 | 16486| 
 | 20210612T23:52:46Z | A collection of algorithms for fuzzy search like in Sublime Text. | https://github.com/tajmone/fuzzy-search | 27 | 2| 
-| 20210612T23:22:59Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 287 | 38| 
 | 20210612T23:15:49Z | Implementation of %Dostrajanie klasyfikatora FUZZY LOGIC z użyciem procedury PSO.%  in python | https://github.com/wujekstaszek/MIO_2021_PSO_FUZZY_LOGIC | 0 | 0| 
 | 20210612T22:51:27Z | Null | https://github.com/jan-golda/PW-FuzzyController | 0 | 0| 
 | 20210612T22:19:17Z | Claim your paninerd tokens | https://github.com/Seboran/fuzzy-waddle | 0 | 0| 
 | 20210612T22:04:55Z | https://github.com/secfigo/Awesome-Fuzzing | https://github.com/mishmashclone/secfigo-Awesome-Fuzzing | 0 | 0| 
 | 20210612T21:08:53Z | These tests of libdwarf/dwarfdump include old object files, new ones, and many fuzzed object files. These are the definitive tests that things work.. Most people have no reason to run these tests. | https://github.com/davea42/libdwarf-regressiontests | 0 | 0| 
 | 20210612T20:39:30Z | 🤖 Repeat tests. Repeat tests. Repeat tests. | https://github.com/ehmicky/test-each | 92 | 2| 
+| 20210612T20:31:48Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 
 
 
