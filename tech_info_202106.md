@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210612T12:24:07Z | CVE-2021-33739 | Null | https://github.com/mavillon1/CVE-2021-33739-POC | Microsoft DWM Core Library Elevation of Privilege Vulnerability| 
-| 20210612T11:26:11Z | CVE-2021-3560 | a reliable C based exploit for CVE-2021-3560. | https://github.com/hakivvi/CVE-2021-3560 | 未查询到CVE信息| 
+| 20210612T20:49:28Z | CVE-2021-3560 | a reliable C based exploit for CVE-2021-3560. | https://github.com/hakivvi/CVE-2021-3560 | 未查询到CVE信息| 
+| 20210612T18:52:00Z | CVE-2021-21985 | CVE-2021-21985 VMware vCenter Server远程代码执行漏洞 EXP (更新可回显EXP) | https://github.com/r0ckysec/CVE-2021-21985 | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
+| 20210612T17:23:12Z | CVE-2021-32819 | SquirrellyJS mixes pure template data with engine configuration options through the Express render API. By overwriting internal configuration options, remote code execution may be triggered in downstream applications. | https://github.com/Abady0x1/CVE-2021-32819 | Squirrelly is a template engine implemented in JavaScript that works out of the box with ExpressJS. Squirrelly mixes pure template data with engine configuration options through the Express render API. By overwriting internal configuration options remote code execution may be triggered in downstream applications. There is currently no fix for these issues as of the publication of this CVE. The latest version of squirrelly is currently 8.0.8. For complete details refer to the referenced GHSL-2021-023.| 
+| 20210612T13:28:44Z | CVE-2021-33739 | Null | https://github.com/mavillon1/CVE-2021-33739-POC | Microsoft DWM Core Library Elevation of Privilege Vulnerability| 
 | 20210612T07:12:07Z | CVE-2021-21315 | CVE 2021-21315 PoC | https://github.com/ForbiddenProgrammer/CVE-2021-21315-PoC | The System Information Library for Node.JS (npm package %systeminformation%) is an open source collection of functions to retrieve detailed hardware, system and OS information. In systeminformation before version 5.3.1 there is a command injection vulnerability. Problem was fixed in version 5.3.1. As a workaround instead of upgrading, be sure to check or sanitize service parameters that are passed to si.inetLatency(), si.inetChecksite(), si.services(), si.processLoad() ... do only allow strings, reject any arrays. String sanitation works as expected.| 
 | 20210611T17:44:35Z | CVE-2021-3560 | Null | https://github.com/deathflash1411/CVE-2021-3560 | 未查询到CVE信息| 
 | 20210611T15:13:58Z | cve-2020-11060 | Python2 POC for CVE 2020-11060 | https://github.com/0xdreadnaught/cve-2020-11060-poc | In GLPI before 9.4.6, an attacker can execute system commands by abusing the backup functionality. Theoretically, this vulnerability can be exploited by an attacker without a valid account by using a CSRF. Due to the difficulty of the exploitation, the attack is only conceivable by an account having Maintenance privileges and the right to add WIFI networks. This is fixed in version 9.4.6.| 
-| 20210611T10:04:14Z | CVE-2021-21985 | CVE-2021-21985 VMware vCenter Server远程代码执行漏洞 EXP (更新可回显EXP) | https://github.com/r0ckysec/CVE-2021-21985 | 未查询到CVE信息| 
 | 20210611T03:53:24Z | CVE-2021-26828 | Null | https://github.com/hevox/CVE-2021-26828_ScadaBR_RCE | OpenPLC ScadaBR through 0.9.1 on Linux and through 1.12.4 on Windows allows remote authenticated users to upload and execute arbitrary JSP files via view_edit.shtm.| 
 | 20210610T17:27:25Z | CVE-2020-8417 | CSRF Code snippet vulnerability CVE-2020-8417 | https://github.com/Vulnmachines/WordPress_CVE-2020-8417 | The Code Snippets plugin before 2.14.0 for WordPress allows CSRF because of the lack of a Referer check on the import menu.| 
-| 20210610T17:26:47Z | CVE-2021-21975 | VMWare-CVE-2021-21975 SSRF vulnerability | https://github.com/Vulnmachines/VMWare-CVE-2021-21975 | 未查询到CVE信息| 
-| 20210610T17:25:54Z | CVE-2020-9496 | Null | https://github.com/Vulnmachines/apache-ofbiz-CVE-2020-9496 | 未查询到CVE信息| 
+| 20210610T17:26:47Z | CVE-2021-21975 | VMWare-CVE-2021-21975 SSRF vulnerability | https://github.com/Vulnmachines/VMWare-CVE-2021-21975 | Server Side Request Forgery in vRealize Operations Manager API (CVE-2021-21975) prior to 8.4 may allow a malicious actor with network access to the vRealize Operations Manager API can perform a Server Side Request Forgery attack to steal administrative credentials.| 
 
 
 # klee on Github 推荐
@@ -99,31 +99,31 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210612T23:00:06Z | Project SAANP : Implementation of Backdoor using Python | https://github.com/piyushsharma220699/Backdoor-in-Cyber-Security | 0 | 0| 
+| 20210612T22:32:44Z | De oprindelige devo filer uden plankeck eller backdoors. 100% CLEAN | https://github.com/Sweackzy/Devo | 0 | 0| 
+| 20210612T17:26:31Z | auth & backdoor removed | https://github.com/Not-Hax/melonhack-cracked | 6 | 0| 
+| 20210612T14:19:32Z | kumpulan shell backdoor | https://github.com/FRMFOX/SH3LL-BKDR | 0 | 0| 
 | 20210612T12:26:20Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 248 | 43| 
 | 20210612T10:31:14Z | Null | https://github.com/Wiilldd/backdoor | 0 | 0| 
 | 20210612T07:19:13Z | this is advance py39 backdoor created to use in college project | https://github.com/Bhadresh-Malankiya/BackdoorPy3 | 0 | 0| 
-| 20210612T06:39:02Z | kumpulan shell backdoor | https://github.com/FRMFOX/SH3LL-BKDR | 0 | 0| 
 | 20210612T05:33:38Z | Null | https://github.com/zichaoli/backdoor_attack_defense | 0 | 0| 
 | 20210612T04:41:13Z | The objective of Fundamental of Cyber Security is to equip with essential information and skills to help secure information assets, Understanding of Cyber Security threats such as identity theft, online banking phishing scams, virus and backdoors, cyber-attacks, and much more.  | https://github.com/v-jet/Sec-Notes-1 | 0 | 0| 
 | 20210612T03:56:28Z | This program is an non-object oriented opensource, hidden and undetectable backdoor/reverse shell/RAT for Windows made in Python 3 which contains many features such as multi-client support and cross-platform server. | https://github.com/hades-onion/descry | 2 | 0| 
-| 20210612T02:31:11Z | free and open source nonobf server backdoor plugin | https://github.com/AcaiBerii/Bakdooro | 1 | 0| 
-| 20210611T22:52:44Z | CRFL: Certifiably Robust Federated Learning against Backdoor Attacks (ICML 2021) | https://github.com/AI-secure/CRFL | 6 | 0| 
-| 20210611T17:24:28Z | A protocol suite to individually backdoor end-to-end encrypted communications in compliance with the seperation of branches of power legal framework. | https://github.com/feketebv/E2EE_backdooring | 0 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210612T12:56:14Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210612T12:55:29Z | Fuzz：口令、子域名、旁站、web接口、参数 | https://github.com/ybdt/dict-hub | 64 | 9| 
-| 20210612T12:32:56Z | DOM fuzzer | https://github.com/mevid93/domzzer | 0 | 0| 
-| 20210612T12:15:18Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 9 | 5| 
-| 20210612T12:02:12Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
-| 20210612T11:57:52Z | Null | https://github.com/TXGAPOORV/fuzzy-octo-waddle | 0 | 0| 
-| 20210612T11:57:17Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 649 | 100| 
-| 20210612T11:42:54Z | Tools e example to fuzz everything you want through software manipulation. TO DO | https://github.com/giggi0x00/Fuzzing_Everything | 0 | 0| 
-| 20210612T11:08:53Z | 一些常见字典 | https://github.com/yuanhaiGreg/Fuzz-Dict | 25 | 2| 
-| 20210612T10:00:08Z | Project developed using Fuzzy Logics to design an expert system for detecting malignancy in the breast cancer sample. GUI developed as a windows installer using python tikinter platform and MATLAB is extended as the inference engine.  | https://github.com/harshit2000/SheCare-Breast-Cancer-Detection-Using-Fuzzy-Logic-Expert-System | 0 | 0| 
+| 20210612T23:57:44Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 77 | 21| 
+| 20210612T23:56:34Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 32001 | 16486| 
+| 20210612T23:52:46Z | A collection of algorithms for fuzzy search like in Sublime Text. | https://github.com/tajmone/fuzzy-search | 27 | 2| 
+| 20210612T23:22:59Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 287 | 38| 
+| 20210612T23:15:49Z | Implementation of %Dostrajanie klasyfikatora FUZZY LOGIC z użyciem procedury PSO.%  in python | https://github.com/wujekstaszek/MIO_2021_PSO_FUZZY_LOGIC | 0 | 0| 
+| 20210612T22:51:27Z | Null | https://github.com/jan-golda/PW-FuzzyController | 0 | 0| 
+| 20210612T22:19:17Z | Claim your paninerd tokens | https://github.com/Seboran/fuzzy-waddle | 0 | 0| 
+| 20210612T22:04:55Z | https://github.com/secfigo/Awesome-Fuzzing | https://github.com/mishmashclone/secfigo-Awesome-Fuzzing | 0 | 0| 
+| 20210612T22:01:30Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20210612T21:08:53Z | These tests of libdwarf/dwarfdump include old object files, new ones, and many fuzzed object files. These are the definitive tests that things work.. Most people have no reason to run these tests. | https://github.com/davea42/libdwarf-regressiontests | 0 | 0| 
 
 
 
