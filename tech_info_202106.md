@@ -114,16 +114,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210613T01:18:01Z | Null | https://github.com/brerickner/fuzzy_playground | 0 | 0| 
-| 20210613T01:15:37Z | Null | https://github.com/opimentel-github/fuzzy-tools | 0 | 0| 
-| 20210613T00:26:53Z | Null | https://github.com/mustafahemidaa/fuzzy-octo-train | 1 | 1| 
-| 20210613T00:23:42Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 287 | 38| 
-| 20210613T00:13:22Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210613T00:04:18Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 9 | 5| 
-| 20210612T23:57:44Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 77 | 21| 
-| 20210612T23:56:34Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 32001 | 16487| 
-| 20210612T23:52:46Z | A collection of algorithms for fuzzy search like in Sublime Text. | https://github.com/tajmone/fuzzy-search | 27 | 2| 
-| 20210612T23:15:49Z | Implementation of %Dostrajanie klasyfikatora FUZZY LOGIC z użyciem procedury PSO.%  in python | https://github.com/wujekstaszek/MIO_2021_PSO_FUZZY_LOGIC | 0 | 0| 
+| 20210613T11:40:06Z | Null | https://github.com/Vxuejancmd/fuzzy-barnacle | 0 | 0| 
+| 20210613T11:24:25Z | Claim your paninerd tokens | https://github.com/Seboran/fuzzy-waddle | 1 | 0| 
+| 20210613T11:17:29Z | Minecraft Datapack | https://github.com/Fuzzy2319/Biome-O-Fuzzy | 0 | 0| 
+| 20210613T11:08:27Z | Null | https://github.com/Ahmed-Rushdi/NeuroFuzzySystem-FuzzyInference-Implementation | 0 | 0| 
+| 20210613T10:28:21Z | 자바스크립트 퍼지 문자열 검색  | https://github.com/yunu7067/javascript-fuzzy-string-search | 0 | 0| 
+| 20210613T10:27:30Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 456 | 40| 
+| 20210613T09:43:02Z | Java Spring Boot reactive rest template | https://github.com/Lmnoppy/fuzzy-octo-broccoli | 0 | 0| 
+| 20210613T09:36:03Z | Null | https://github.com/wiktor7245/ocenaProjektuFuzzyDLSZ | 0 | 0| 
+| 20210613T09:22:35Z | Null | https://github.com/varunmarisetty/Fuzzyis | 0 | 2| 
+| 20210613T08:34:30Z | Null | https://github.com/PranayK9/Fuzzy-Inference-System | 0 | 0| 
 
 
 
