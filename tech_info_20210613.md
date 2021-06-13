@@ -38,8 +38,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210613T12:30:18Z | This repository contains various media files for known attacks on web applications processing media files. Useful for penetration tests and bug bounty. | https://github.com/barrracud4/image-upload-exploits | 1 | 0| 
-| 20210613T12:28:56Z | Null | https://github.com/VertexWeb/vertex-exploit-website | 0 | 0| 
+| 20210613T12:33:07Z | Null | https://github.com/VertexWeb/vertex-exploit-website | 0 | 0| 
+| 20210613T12:32:31Z | This repository contains various media files for known attacks on web applications processing media files. Useful for penetration tests and bug bounty. | https://github.com/barrracud4/image-upload-exploits | 1 | 0| 
 | 20210613T12:27:07Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7952 | 1399| 
 | 20210613T12:18:04Z | Exploitation Framework for Embedded Devices | https://github.com/threat9/routersploit | 9438 | 2038| 
 | 20210613T12:05:02Z | Signatus - Vulnerable TCP C++ server to practice Win 32 exploitation. | https://github.com/bmdyy/signatus | 0 | 0| 
