@@ -19,7 +19,7 @@
 | 20210612T20:49:28Z | CVE-2021-3560 | a reliable C based exploit for CVE-2021-3560. | https://github.com/hakivvi/CVE-2021-3560 | 未查询到CVE信息| 
 | 20210612T18:52:00Z | CVE-2021-21985 | CVE-2021-21985 VMware vCenter Server远程代码执行漏洞 EXP (更新可回显EXP) | https://github.com/r0ckysec/CVE-2021-21985 | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
 | 20210612T17:23:12Z | CVE-2021-32819 | SquirrellyJS mixes pure template data with engine configuration options through the Express render API. By overwriting internal configuration options, remote code execution may be triggered in downstream applications. | https://github.com/Abady0x1/CVE-2021-32819 | Squirrelly is a template engine implemented in JavaScript that works out of the box with ExpressJS. Squirrelly mixes pure template data with engine configuration options through the Express render API. By overwriting internal configuration options remote code execution may be triggered in downstream applications. There is currently no fix for these issues as of the publication of this CVE. The latest version of squirrelly is currently 8.0.8. For complete details refer to the referenced GHSL-2021-023.| 
-| 20210612T13:28:44Z | CVE-2021-33739 | Null | https://github.com/mavillon1/CVE-2021-33739-POC | Microsoft DWM Core Library Elevation of Privilege Vulnerability| 
+| 20210612T13:28:44Z | CVE-2021-33739 | Null | https://github.com/mavillon1/CVE-2021-33739-POC | | 
 | 20210612T07:12:07Z | CVE-2021-21315 | CVE 2021-21315 PoC | https://github.com/ForbiddenProgrammer/CVE-2021-21315-PoC | The System Information Library for Node.JS (npm package %systeminformation%) is an open source collection of functions to retrieve detailed hardware, system and OS information. In systeminformation before version 5.3.1 there is a command injection vulnerability. Problem was fixed in version 5.3.1. As a workaround instead of upgrading, be sure to check or sanitize service parameters that are passed to si.inetLatency(), si.inetChecksite(), si.services(), si.processLoad() ... do only allow strings, reject any arrays. String sanitation works as expected.| 
 
 
@@ -37,7 +37,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210612T23:32:20Z | A Monaco fork for Roblox (exploiting). All functions from LuaU and custom executor functions are present with documentation. | https://github.com/EthanMcBloxxer/Rosploco | 0 | 0| 
 | 20210612T23:31:49Z | foundryvtt admin authentication bypass POC exploit | https://github.com/sum-catnip/foundry-rnghax | 1 | 0| 
 | 20210612T23:09:11Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
 | 20210612T22:36:19Z | Simple tools that I built for day-to-day tasks as well as study materials in preparation for Offensive Security%s EXP::301 Windows Exploitation Course | https://github.com/Trac34/QuickScripts | 0 | 0| 
@@ -47,6 +46,7 @@
 | 20210612T21:19:47Z | This is a GUI application of the Contract Automata Toolkit,  exploiting the contract automata library to put contract automata at work | https://github.com/davidebasile/ContractAutomataApp | 0 | 0| 
 | 20210612T21:00:11Z | Some of my Binary Exploitation Stuff | https://github.com/k0rup710n/BinaryExploitation | 0 | 0| 
 | 20210612T20:58:49Z | Exploits examples | https://github.com/fqqf/C-exploits | 0 | 0| 
+| 20210612T20:39:42Z | Automated NoSQL database enumeration and web application exploitation tool | https://github.com/netslutter/NoSQLMap | 0 | 0| 
 
 
 # backdoor on Github 推荐
