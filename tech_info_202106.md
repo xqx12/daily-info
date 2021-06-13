@@ -47,7 +47,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210612T20:49:28Z | CVE-2021-3560 | a reliable C based exploit for CVE-2021-3560. | https://github.com/hakivvi/CVE-2021-3560 | 未查询到CVE信息| 
-| 20210612T18:52:00Z | CVE-2021-21985 | CVE-2021-21985 VMware vCenter Server远程代码执行漏洞 EXP (更新可回显EXP) | https://github.com/r0ckysec/CVE-2021-21985 | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
+| 20210612T18:52:00Z | CVE-2021-21985 | CVE-2021-21985 VMware vCenter Server远程代码执行漏洞 EXP (更新可回显EXP) | https://github.com/r0ckysec/CVE-2021-21985 | | 
 | 20210612T17:23:12Z | CVE-2021-32819 | SquirrellyJS mixes pure template data with engine configuration options through the Express render API. By overwriting internal configuration options, remote code execution may be triggered in downstream applications. | https://github.com/Abady0x1/CVE-2021-32819 | Squirrelly is a template engine implemented in JavaScript that works out of the box with ExpressJS. Squirrelly mixes pure template data with engine configuration options through the Express render API. By overwriting internal configuration options remote code execution may be triggered in downstream applications. There is currently no fix for these issues as of the publication of this CVE. The latest version of squirrelly is currently 8.0.8. For complete details refer to the referenced GHSL-2021-023.| 
 | 20210612T13:28:44Z | CVE-2021-33739 | Null | https://github.com/mavillon1/CVE-2021-33739-POC | Microsoft DWM Core Library Elevation of Privilege Vulnerability| 
 | 20210612T07:12:07Z | CVE-2021-21315 | CVE 2021-21315 PoC | https://github.com/ForbiddenProgrammer/CVE-2021-21315-PoC | The System Information Library for Node.JS (npm package %systeminformation%) is an open source collection of functions to retrieve detailed hardware, system and OS information. In systeminformation before version 5.3.1 there is a command injection vulnerability. Problem was fixed in version 5.3.1. As a workaround instead of upgrading, be sure to check or sanitize service parameters that are passed to si.inetLatency(), si.inetChecksite(), si.services(), si.processLoad() ... do only allow strings, reject any arrays. String sanitation works as expected.| 
@@ -114,6 +114,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210613T00:17:32Z | Null | https://github.com/mustafahemidaa/fuzzy-octo-train | 0 | 0| 
 | 20210613T00:13:22Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210613T00:04:18Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 9 | 5| 
 | 20210612T23:57:44Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 77 | 21| 
@@ -123,7 +124,6 @@
 | 20210612T23:15:49Z | Implementation of %Dostrajanie klasyfikatora FUZZY LOGIC z użyciem procedury PSO.%  in python | https://github.com/wujekstaszek/MIO_2021_PSO_FUZZY_LOGIC | 0 | 0| 
 | 20210612T22:51:27Z | Null | https://github.com/jan-golda/PW-FuzzyController | 0 | 0| 
 | 20210612T22:19:17Z | Claim your paninerd tokens | https://github.com/Seboran/fuzzy-waddle | 0 | 0| 
-| 20210612T22:04:55Z | https://github.com/secfigo/Awesome-Fuzzing | https://github.com/mishmashclone/secfigo-Awesome-Fuzzing | 0 | 0| 
 
 
 
