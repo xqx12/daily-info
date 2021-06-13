@@ -17,7 +17,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210613T10:23:21Z | CVE-2021-3560 | a reliable C based exploit for CVE-2021-3560. | https://github.com/hakivvi/CVE-2021-3560 | 未查询到CVE信息| 
-| 20210613T10:14:42Z | CVE-2021-33739 | Null | https://github.com/mavillon1/CVE-2021-33739-POC | | 
+| 20210613T10:14:42Z | CVE-2021-33739 | Null | https://github.com/mavillon1/CVE-2021-33739-POC | Microsoft DWM Core Library Elevation of Privilege Vulnerability| 
 | 20210613T09:46:38Z | CVE-2021-32819 | SquirrellyJS mixes pure template data with engine configuration options through the Express render API. By overwriting internal configuration options, remote code execution may be triggered in downstream applications. | https://github.com/Abady0x1/CVE-2021-32819 | Squirrelly is a template engine implemented in JavaScript that works out of the box with ExpressJS. Squirrelly mixes pure template data with engine configuration options through the Express render API. By overwriting internal configuration options remote code execution may be triggered in downstream applications. There is currently no fix for these issues as of the publication of this CVE. The latest version of squirrelly is currently 8.0.8. For complete details refer to the referenced GHSL-2021-023.| 
 | 20210613T06:38:04Z | CVE-2021-21985 | CVE-2021-21985 VMware vCenter Server远程代码执行漏洞 EXP (更新可回显EXP) | https://github.com/r0ckysec/CVE-2021-21985 | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
 
@@ -38,10 +38,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210613T11:45:47Z | Signatus - Vulnerable TCP C server to practice Win 32 exploitation. | https://github.com/bmdyy/signatus | 0 | 0| 
+| 20210613T12:05:02Z | Signatus - Vulnerable TCP C++ server to practice Win 32 exploitation. | https://github.com/bmdyy/signatus | 0 | 0| 
+| 20210613T12:03:32Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210613T11:41:10Z | Perform buffer overflow vuln testing and exploit | https://github.com/souvikhaldar/goffer | 0 | 0| 
 | 20210613T11:16:36Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7950 | 1399| 
-| 20210613T11:03:06Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210613T11:01:34Z | A little mod I made for my friends in my survival server and keep them from exploiting spectator mode. | https://github.com/North-West-Wind/FabricSurvivalSpectator | 0 | 0| 
 | 20210613T10:44:46Z | Exploitation Framework for Embedded Devices | https://github.com/threat9/routersploit | 9439 | 2038| 
 | 20210613T10:36:59Z |  Tool for post exploitation of any machine / Dynamic encrypted remote command line | https://github.com/prasannan-robots/Dynamic_command | 0 | 0| 
