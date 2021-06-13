@@ -38,7 +38,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210613T12:28:38Z | Null | https://github.com/VertexWeb/vertex-exploit-website | 0 | 0| 
+| 20210613T12:28:56Z | Null | https://github.com/VertexWeb/vertex-exploit-website | 0 | 0| 
 | 20210613T12:27:07Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7952 | 1399| 
 | 20210613T12:18:04Z | Exploitation Framework for Embedded Devices | https://github.com/threat9/routersploit | 9438 | 2038| 
 | 20210613T12:05:02Z | Signatus - Vulnerable TCP C++ server to practice Win 32 exploitation. | https://github.com/bmdyy/signatus | 0 | 0| 
@@ -63,9 +63,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210613T12:24:49Z | A light, eye-caring theme for VS Code, made with ❤. | https://github.com/decameronn/fuzzy-theme | 0 | 0| 
+| 20210613T12:29:17Z | Null | https://github.com/Vxuejancmd/fuzzy-barnacle | 0 | 0| 
+| 20210613T12:27:48Z | A light, eye-caring theme for VS Code, made with ❤. | https://github.com/decameronn/fuzzy-theme | 0 | 0| 
 | 20210613T12:15:19Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 9 | 5| 
-| 20210613T11:40:06Z | Null | https://github.com/Vxuejancmd/fuzzy-barnacle | 0 | 0| 
 | 20210613T11:24:25Z | Claim your paninerd tokens | https://github.com/Seboran/fuzzy-waddle | 1 | 0| 
 | 20210613T11:17:29Z | Minecraft Datapack | https://github.com/Fuzzy2319/Biome-O-Fuzzy | 0 | 0| 
 | 20210613T11:08:27Z | Null | https://github.com/Ahmed-Rushdi/NeuroFuzzySystem-FuzzyInference-Implementation | 0 | 0| 
