@@ -45,7 +45,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210614T12:58:44Z | Config files for my GitHub profile. | https://github.com/real-exploit/real-exploit | 0 | 0| 
+| 20210614T13:00:22Z | Config files for my GitHub profile. | https://github.com/real-exploit/real-exploit | 0 | 0| 
 | 20210614T12:51:32Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 17 | 11| 
 | 20210614T12:49:11Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 2338 | 367| 
 | 20210614T12:43:30Z | Small crash client base for retarded(german) people who steal other people%s code. | https://github.com/narumii/Niko | 12 | 0| 
