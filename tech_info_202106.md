@@ -47,8 +47,8 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210613T23:36:24Z | CVE-2020-24186 | wpDiscuz 7.0.4 Remote Code Execution | https://github.com/hevox/CVE-2020-24186-wpDiscuz-7.0.4-RCE | A Remote Code Execution vulnerability exists in the gVectors wpDiscuz plugin 7.0 through 7.0.4 for WordPress, which allows unauthenticated users to upload any type of file, including PHP files via the wmuUploadFiles AJAX action.| 
-| 20210613T16:56:02Z | CVE-2021-22201 | CVE-2021–22201 Arbitrary file read on Gitlab  | https://github.com/exp1orer/CVE-2021-22201 | | 
-| 20210613T16:07:29Z | CVE-2021-21985 | CVE-2021-21985 VMware vCenter Server远程代码执行漏洞 EXP (更新可回显EXP) | https://github.com/r0ckysec/CVE-2021-21985 | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
+| 20210613T16:56:02Z | CVE-2021-22201 | CVE-2021–22201 Arbitrary file read on Gitlab  | https://github.com/exp1orer/CVE-2021-22201 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.9. A specially crafted import file could read files on the server.| 
+| 20210613T16:07:29Z | CVE-2021-21985 | CVE-2021-21985 VMware vCenter Server远程代码执行漏洞 EXP (更新可回显EXP) | https://github.com/r0ckysec/CVE-2021-21985 | | 
 | 20210613T15:40:23Z | CVE-2021-26828 | Null | https://github.com/hevox/CVE-2021-26828_ScadaBR_RCE | OpenPLC ScadaBR through 0.9.1 on Linux and through 1.12.4 on Windows allows remote authenticated users to upload and execute arbitrary JSP files via view_edit.shtm.| 
 | 20210613T13:49:33Z | CVE-2021-3560 | a reliable C based exploit for CVE-2021-3560. | https://github.com/hakivvi/CVE-2021-3560 | 未查询到CVE信息| 
 | 20210613T13:49:25Z | CVE-2021-31166 | Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely. | https://github.com/0vercl0k/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
@@ -114,6 +114,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210614T00:07:01Z | Null | https://github.com/raguilar2/fuzzier_forest | 0 | 0| 
 | 20210614T00:04:56Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 9 | 5| 
 | 20210613T23:45:05Z | Multi-Criteria-Decision-Ranking Using Fuzzy TOPSIS-IPS sets | https://github.com/blendicavlad/FuzzyTopsis | 0 | 0| 
 | 20210613T23:37:14Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
@@ -123,7 +124,6 @@
 | 20210613T23:01:26Z | Fuzzy TOPSIS software for well completion design. | https://github.com/bysarmad/fuzzytopsissoftware | 0 | 0| 
 | 20210613T22:57:05Z | Config files for my GitHub profile. | https://github.com/fuzzwuzz/fuzzwuzz | 0 | 0| 
 | 20210613T22:28:08Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 287 | 38| 
-| 20210613T22:25:52Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6377 | 1292| 
 
 
 
