@@ -24,7 +24,7 @@
 | 20210614T07:30:41Z | CVE-2021-22911 | Pre-Auth Blind NoSQL Injection leading to Remote Code Execution in Rocket Chat 3.12.1 | https://github.com/CsEnox/CVE-2021-22911 | A improper input sanitization vulnerability exists in Rocket.Chat server 3.11, 3.12 & 3.13 that could lead to unauthenticated NoSQL injection, resulting potentially in RCE.| 
 | 20210614T06:56:19Z | CVE-2021-31166 | Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely. | https://github.com/0vercl0k/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
 | 20210614T06:46:19Z | CVE-2020-3187 | Null | https://github.com/sujaygr8/CVE-2020-3187 | A vulnerability in the web services interface of Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software could allow an unauthenticated, remote attacker to conduct directory traversal attacks and obtain read and delete access to sensitive files on a targeted system. The vulnerability is due to a lack of proper input validation of the HTTP URL. An attacker could exploit this vulnerability by sending a crafted HTTP request containing directory traversal character sequences. An exploit could allow the attacker to view or delete arbitrary files on the targeted system. When the device is reloaded after exploitation of this vulnerability, any files that were deleted are restored. The attacker can only view and delete files within the web services file system. This file system is enabled when the affected device is configured with either WebVPN or AnyConnect features. This vulnerability can not be used to obtain access to ASA or FTD system files or underlying operating system (OS) files. Reloading the affected device will restore all files within the web services file system.| 
-| 20210614T04:03:20Z | CVE-2021-3560 | polkit exploit script v1.0 | https://github.com/tyleraharrison/CVE-2021-3560_PoC | | 
+| 20210614T04:03:20Z | CVE-2021-3560 | polkit exploit script v1.0 | https://github.com/tyleraharrison/CVE-2021-3560_PoC | 未查询到CVE信息| 
 | 20210614T00:58:58Z | CVE-2021-26828 | Null | https://github.com/hevox/CVE-2021-26828_ScadaBR_RCE | OpenPLC ScadaBR through 0.9.1 on Linux and through 1.12.4 on Windows allows remote authenticated users to upload and execute arbitrary JSP files via view_edit.shtm.| 
 
 
@@ -69,6 +69,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210614T12:09:32Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 883 | 93| 
 | 20210614T12:03:00Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210614T11:48:01Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1817 | 359| 
 | 20210614T11:46:15Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 458 | 40| 
@@ -78,7 +79,6 @@
 | 20210614T11:13:57Z | Null | https://github.com/saghal/webApplicationFuzzer | 0 | 0| 
 | 20210614T10:55:42Z | An automatic fuzzing tool for ROS 2 C++ projects  | https://github.com/rosin-project/ros2_fuzz | 6 | 0| 
 | 20210614T10:45:31Z | Null | https://github.com/wfwerf/afl-fuzzing | 0 | 0| 
-| 20210614T10:13:46Z | Null | https://github.com/compcyber/fuzzy-guacamole | 0 | 0| 
 
 
 
