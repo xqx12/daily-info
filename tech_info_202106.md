@@ -84,8 +84,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210614T01:12:51Z | Unfinished repository for well-known, basic, or obsolete network exploits I%ve written in C/C++ for learning purposes | https://github.com/Patchyst/Network-Exploits | 0 | 0| 
 | 20210614T01:11:24Z | CTFs and solutions for Linux binary exploitation. | https://github.com/MaherAzzouzi/LinuxExploitation | 40 | 15| 
-| 20210614T01:05:33Z | Unfinished repo for basic network exploits | https://github.com/Patchyst/Network-Exploits | 0 | 0| 
 | 20210614T01:00:53Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210614T00:54:04Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 152 | 10| 
 | 20210614T00:49:19Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 59 | 21| 
