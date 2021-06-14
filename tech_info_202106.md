@@ -53,7 +53,7 @@
 | 20210613T13:49:33Z | CVE-2021-3560 | a reliable C based exploit for CVE-2021-3560. | https://github.com/hakivvi/CVE-2021-3560 | 未查询到CVE信息| 
 | 20210613T13:49:25Z | CVE-2021-31166 | Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely. | https://github.com/0vercl0k/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
 | 20210613T10:14:42Z | CVE-2021-33739 | Null | https://github.com/mavillon1/CVE-2021-33739-POC | Microsoft DWM Core Library Elevation of Privilege Vulnerability| 
-| 20210613T09:46:38Z | CVE-2021-32819 | SquirrellyJS mixes pure template data with engine configuration options through the Express render API. By overwriting internal configuration options, remote code execution may be triggered in downstream applications. | https://github.com/Abady0x1/CVE-2021-32819 | | 
+| 20210613T09:46:38Z | CVE-2021-32819 | SquirrellyJS mixes pure template data with engine configuration options through the Express render API. By overwriting internal configuration options, remote code execution may be triggered in downstream applications. | https://github.com/Abady0x1/CVE-2021-32819 | Squirrelly is a template engine implemented in JavaScript that works out of the box with ExpressJS. Squirrelly mixes pure template data with engine configuration options through the Express render API. By overwriting internal configuration options remote code execution may be triggered in downstream applications. There is currently no fix for these issues as of the publication of this CVE. The latest version of squirrelly is currently 8.0.8. For complete details refer to the referenced GHSL-2021-023.| 
 | 20210612T07:12:07Z | CVE-2021-21315 | CVE 2021-21315 PoC | https://github.com/ForbiddenProgrammer/CVE-2021-21315-PoC | The System Information Library for Node.JS (npm package %systeminformation%) is an open source collection of functions to retrieve detailed hardware, system and OS information. In systeminformation before version 5.3.1 there is a command injection vulnerability. Problem was fixed in version 5.3.1. As a workaround instead of upgrading, be sure to check or sanitize service parameters that are passed to si.inetLatency(), si.inetChecksite(), si.services(), si.processLoad() ... do only allow strings, reject any arrays. String sanitation works as expected.| 
 | 20210611T17:44:35Z | CVE-2021-3560 | Null | https://github.com/deathflash1411/CVE-2021-3560 | 未查询到CVE信息| 
 
@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210614T01:22:13Z | a working 1.16.4 fabric forceop exploit, barely works anymore so decided to leak | https://github.com/christallinqq/forceop | 2 | 0| 
 | 20210614T01:21:32Z | A number of exploits and tools I%ve written for CVEs accredited to Marshall Whittaker/oxagast | https://github.com/oxagast/oxasploits | 6 | 1| 
 | 20210614T01:12:51Z | Unfinished repository for well-known, basic, or obsolete network exploits I%ve written in C/C++ for learning purposes | https://github.com/Patchyst/Network-Exploits | 0 | 0| 
 | 20210614T01:11:24Z | CTFs and solutions for Linux binary exploitation. | https://github.com/MaherAzzouzi/LinuxExploitation | 40 | 15| 
@@ -93,12 +94,12 @@
 | 20210614T00:31:43Z | Null | https://github.com/sheenieboy/ExploiterChat | 1 | 0| 
 | 20210614T00:03:25Z | Gote Hub - Comunity Roblox Exploiting And Scripting @Copyright 2021 | https://github.com/Vilictus/Gote-Hub | 0 | 0| 
 | 20210613T22:55:57Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9557 | 1556| 
-| 20210613T22:52:00Z | PS4 Host Exploits For 5.05 Firmware to 7.55 Firmware | https://github.com/Night-King-Host/Night-King-Host.github.io | 2 | 1| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210614T01:22:51Z | popbob plugin (NO BACKDOOR) dont open popbob plugin at 3 am!!!!!! | https://github.com/cringesyringe11/popbob-plugin-NO-BACKDOOR- | 0 | 0| 
 | 20210613T18:18:46Z | Project SAANP : Implementation of Backdoor using Python | https://github.com/piyushsharma220699/Backdoor-in-Cyber-Security | 0 | 0| 
 | 20210613T17:57:03Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 210 | 40| 
 | 20210613T17:25:26Z | Null | https://github.com/skrllr/backdoor | 0 | 0| 
@@ -108,7 +109,6 @@
 | 20210613T08:16:47Z | I made some book that gives you creative mode, enchanted bedrock/ende rportal frames/ command blocks and a 32k sword when you put the command into a command block. I separated the versions of mc and different commands. This has mass autism and im sorry | https://github.com/Zvakun/backdoor-book-minecraft-commands | 0 | 0| 
 | 20210613T06:09:38Z | A collection of publicly known exploits and backdoors I keep documenting and collecting. | https://github.com/captain-woof/exploits-and-backdoors | 0 | 0| 
 | 20210613T04:15:32Z | kumpulan shell backdoor | https://github.com/FRMFOX/SH3LL-BKDR | 0 | 0| 
-| 20210613T00:43:39Z | This program is an non-object oriented opensource, hidden and undetectable backdoor/reverse shell/RAT for Windows made in Python 3 which contains many features such as multi-client support and cross-platform server. | https://github.com/hades-onion/descry | 3 | 0| 
 
 
 # fuzz on Github 推荐
