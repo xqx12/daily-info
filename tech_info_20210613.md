@@ -24,7 +24,7 @@
 | 20210613T13:49:33Z | CVE-2021-3560 | a reliable C based exploit for CVE-2021-3560. | https://github.com/hakivvi/CVE-2021-3560 | 未查询到CVE信息| 
 | 20210613T13:49:25Z | CVE-2021-31166 | Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely. | https://github.com/0vercl0k/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
 | 20210613T10:14:42Z | CVE-2021-33739 | Null | https://github.com/mavillon1/CVE-2021-33739-POC | Microsoft DWM Core Library Elevation of Privilege Vulnerability| 
-| 20210613T09:46:38Z | CVE-2021-32819 | SquirrellyJS mixes pure template data with engine configuration options through the Express render API. By overwriting internal configuration options, remote code execution may be triggered in downstream applications. | https://github.com/Abady0x1/CVE-2021-32819 | Squirrelly is a template engine implemented in JavaScript that works out of the box with ExpressJS. Squirrelly mixes pure template data with engine configuration options through the Express render API. By overwriting internal configuration options remote code execution may be triggered in downstream applications. There is currently no fix for these issues as of the publication of this CVE. The latest version of squirrelly is currently 8.0.8. For complete details refer to the referenced GHSL-2021-023.| 
+| 20210613T09:46:38Z | CVE-2021-32819 | SquirrellyJS mixes pure template data with engine configuration options through the Express render API. By overwriting internal configuration options, remote code execution may be triggered in downstream applications. | https://github.com/Abady0x1/CVE-2021-32819 | | 
 
 
 # klee on Github 推荐
@@ -45,7 +45,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210613T23:02:58Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210613T22:55:57Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9557 | 1556| 
 | 20210613T22:52:00Z | PS4 Host Exploits For 5.05 Firmware to 7.55 Firmware | https://github.com/Night-King-Host/Night-King-Host.github.io | 2 | 1| 
 | 20210613T22:49:18Z | Simple OpenCL examples for exploiting GPU computing | https://github.com/rsnemmen/OpenCL-examples | 80 | 39| 
@@ -55,6 +54,7 @@
 | 20210613T20:24:27Z | Educational web application demonstrating techniques of binary exploitation (Front-end) | https://github.com/Pen-Test3rs/binary_exploits_frontend | 0 | 0| 
 | 20210613T20:09:52Z | This Repository contains tips, tools and resources I%v gathered during engagements against Exchange-based environments right from The Recon & Discovery phase till Post Exploitation tasks. | https://github.com/ramiKahmed/ExchangeAttacks | 0 | 0| 
 | 20210613T19:50:18Z | A number of exploits and tools I%ve written for CVEs accredited to Marshall Whittaker/oxagast | https://github.com/oxagast/oxasploits | 6 | 1| 
+| 20210613T19:04:27Z | Null | https://github.com/akxninja/windows-api-exploitation | 0 | 0| 
 
 
 # backdoor on Github 推荐
