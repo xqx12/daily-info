@@ -32,6 +32,7 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20210614 | Shift Left在开发安全中的应用 | https://mp.weixin.qq.com/s/CkfOFYOT98uICnVx2YLjsQ| 
+| 20210614 | SecWiki周刊（第380期) | https://www.sec-wiki.com/weekly/380| 
 | 20210613 | Java安全编码规范 | https://gitee.com/9199771/sec_coding/blob/master/sec_coding.md| 
 | 20210611 | 谈谈网络空间测绘在国家级断电断网事件上的应用 | https://mp.weixin.qq.com/s/vFygIcSNnAgPaEqVBp7LsQ| 
 | 20210611 | 怎样系统地管理时间 | https://mp.weixin.qq.com/s/O7xGdZw669xJy3o17ghCbg| 
@@ -40,7 +41,6 @@
 | 20210611 | Static Program Analysis Intruction | https://mp.weixin.qq.com/s/jm2I-_L_NUBTYNhEUBv-iA| 
 | 20210611 | 深入研究网络弹性 | https://mp.weixin.qq.com/s/1rwwgErZDO0ygWNY7HPkSA| 
 | 20210611 | 浅谈云安全技术以及安全架构亮点 | https://mp.weixin.qq.com/s/tLHroy8yZIsZCjfdKLK-wQ| 
-| 20210611 | 中华人民共和国数据安全法 | http://m.xinhuanet.com/2021-06/11/c_1127552204.htm| 
 
 
 # CVE Github 推荐
@@ -50,10 +50,10 @@
 | 20210614T08:16:05Z | CVE-2021-3560 | Null | https://github.com/deathflash1411/CVE-2021-3560 | 未查询到CVE信息| 
 | 20210614T07:36:50Z | CVE-2020-3452 | Null | https://github.com/sujaygr8/CVE-2020-3452 | A vulnerability in the web services interface of Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software could allow an unauthenticated, remote attacker to conduct directory traversal attacks and read sensitive files on a targeted system. The vulnerability is due to a lack of proper input validation of URLs in HTTP requests processed by an affected device. An attacker could exploit this vulnerability by sending a crafted HTTP request containing directory traversal character sequences to an affected device. A successful exploit could allow the attacker to view arbitrary files within the web services file system on the targeted device. The web services file system is enabled when the affected device is configured with either WebVPN or AnyConnect features. This vulnerability cannot be used to obtain access to ASA or FTD system files or underlying operating system (OS) files.| 
 | 20210614T07:30:41Z | CVE-2021-22911 | Pre-Auth Blind NoSQL Injection leading to Remote Code Execution in Rocket Chat 3.12.1 | https://github.com/CsEnox/CVE-2021-22911 | A improper input sanitization vulnerability exists in Rocket.Chat server 3.11, 3.12 & 3.13 that could lead to unauthenticated NoSQL injection, resulting potentially in RCE.| 
-| 20210614T06:56:19Z | CVE-2021-31166 | Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely. | https://github.com/0vercl0k/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
+| 20210614T06:56:19Z | CVE-2021-31166 | Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely. | https://github.com/0vercl0k/CVE-2021-31166 | | 
 | 20210614T06:46:19Z | CVE-2020-3187 | Null | https://github.com/sujaygr8/CVE-2020-3187 | A vulnerability in the web services interface of Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software could allow an unauthenticated, remote attacker to conduct directory traversal attacks and obtain read and delete access to sensitive files on a targeted system. The vulnerability is due to a lack of proper input validation of the HTTP URL. An attacker could exploit this vulnerability by sending a crafted HTTP request containing directory traversal character sequences. An exploit could allow the attacker to view or delete arbitrary files on the targeted system. When the device is reloaded after exploitation of this vulnerability, any files that were deleted are restored. The attacker can only view and delete files within the web services file system. This file system is enabled when the affected device is configured with either WebVPN or AnyConnect features. This vulnerability can not be used to obtain access to ASA or FTD system files or underlying operating system (OS) files. Reloading the affected device will restore all files within the web services file system.| 
-| 20210614T04:03:20Z | CVE-2021-3560 | polkit exploit script v1.0 | https://github.com/tyleraharrison/CVE-2021-3560_PoC | 未查询到CVE信息| 
-| 20210614T00:58:58Z | CVE-2021-26828 | Null | https://github.com/hevox/CVE-2021-26828_ScadaBR_RCE | OpenPLC ScadaBR through 0.9.1 on Linux and through 1.12.4 on Windows allows remote authenticated users to upload and execute arbitrary JSP files via view_edit.shtm.| 
+| 20210614T04:03:20Z | CVE-2021-3560 | polkit exploit script v1.0 | https://github.com/tyleraharrison/CVE-2021-3560_PoC | | 
+| 20210614T00:58:58Z | CVE-2021-26828 | Null | https://github.com/hevox/CVE-2021-26828_ScadaBR_RCE | | 
 | 20210613T23:36:24Z | CVE-2020-24186 | wpDiscuz 7.0.4 Remote Code Execution | https://github.com/hevox/CVE-2020-24186-wpDiscuz-7.0.4-RCE | A Remote Code Execution vulnerability exists in the gVectors wpDiscuz plugin 7.0 through 7.0.4 for WordPress, which allows unauthenticated users to upload any type of file, including PHP files via the wmuUploadFiles AJAX action.| 
 | 20210613T16:56:02Z | CVE-2021-22201 | CVE-2021–22201 Arbitrary file read on Gitlab  | https://github.com/exp1orer/CVE-2021-22201 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.9. A specially crafted import file could read files on the server.| 
 
@@ -84,7 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210614T12:22:02Z | Perform buffer overflow vuln testing and exploit | https://github.com/souvikhaldar/goffer | 0 | 0| 
+| 20210614T12:24:32Z | Perform buffer overflow vuln testing and exploit | https://github.com/souvikhaldar/goffer | 0 | 0| 
 | 20210614T12:12:53Z | Microsoft » Windows 10 : Security Vulnerabilities | https://github.com/nu11secur1ty/Windows10Exploits | 332 | 95| 
 | 20210614T12:03:10Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210614T11:39:53Z | Automated NoSQL database enumeration and web application exploitation tool | https://github.com/netslutter/NoSQLMap | 0 | 0| 
@@ -106,9 +106,9 @@
 | 20210613T18:18:46Z | Project SAANP : Implementation of Backdoor using Python | https://github.com/piyushsharma220699/Backdoor-in-Cyber-Security | 0 | 0| 
 | 20210613T17:25:26Z | Null | https://github.com/skrllr/backdoor | 0 | 0| 
 | 20210613T17:15:25Z | PyDoor is backdoor-based software with some interesting features. | https://github.com/Kamelleon/PyDoor | 0 | 0| 
+| 20210613T14:10:43Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 80 | 12| 
 | 20210613T09:32:53Z | 🤖An Evil and Smart Bot for Enslaving Windows. | https://github.com/wildonion/katyusha | 3 | 1| 
 | 20210613T08:16:47Z | I made some book that gives you creative mode, enchanted bedrock/ende rportal frames/ command blocks and a 32k sword when you put the command into a command block. I separated the versions of mc and different commands. This has mass autism and im sorry | https://github.com/Zvakun/backdoor-book-minecraft-commands | 0 | 0| 
-| 20210613T06:09:38Z | A collection of publicly known exploits and backdoors I keep documenting and collecting. | https://github.com/captain-woof/exploits-and-backdoors | 0 | 0| 
 
 
 # fuzz on Github 推荐
