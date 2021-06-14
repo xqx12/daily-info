@@ -59,19 +59,22 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210614T09:48:46Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/ghost | 1148 | 551| 
+| 20210614T07:19:07Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 249 | 43| 
+| 20210614T03:22:51Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 211 | 40| 
 | 20210614T01:31:03Z | popbob plugin (NO BACKDOOR) dont open popbob plugin at 3 am!!!!!! | https://github.com/cringesyringe11/popbob-plugin-NO-BACKDOOR- | 0 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210614T12:03:00Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210614T11:48:01Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1817 | 359| 
 | 20210614T11:46:15Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 458 | 40| 
 | 20210614T11:45:13Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6378 | 1292| 
 | 20210614T11:32:34Z | Blackbox Fuzzer using LibAFL and AFL++ QEMU | https://github.com/bitterbit/fuzzer-qemu | 5 | 0| 
 | 20210614T11:18:47Z | Quality assurance testing for the curl project | https://github.com/curl/curl-fuzzer | 34 | 17| 
 | 20210614T11:13:57Z | Null | https://github.com/saghal/webApplicationFuzzer | 0 | 0| 
-| 20210614T11:01:35Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210614T10:55:42Z | An automatic fuzzing tool for ROS 2 C++ projects  | https://github.com/rosin-project/ros2_fuzz | 6 | 0| 
 | 20210614T10:45:31Z | Null | https://github.com/wfwerf/afl-fuzzing | 0 | 0| 
 | 20210614T10:13:46Z | Null | https://github.com/compcyber/fuzzy-guacamole | 0 | 0| 
