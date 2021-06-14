@@ -84,10 +84,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210614T01:05:33Z | Unfinished repo for basic network exploits | https://github.com/Patchyst/Network-Exploits | 0 | 0| 
 | 20210614T01:00:53Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210614T00:54:04Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 152 | 10| 
 | 20210614T00:49:19Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 59 | 21| 
-| 20210614T00:48:38Z | Unfinished repo for basic network exploits | https://github.com/Patchyst/Network-Exploits | 0 | 0| 
 | 20210614T00:41:18Z | A number of exploits and tools I%ve written for CVEs accredited to Marshall Whittaker/oxagast | https://github.com/oxagast/oxasploits | 6 | 1| 
 | 20210614T00:31:43Z | Null | https://github.com/sheenieboy/ExploiterChat | 1 | 0| 
 | 20210614T00:03:25Z | Gote Hub - Comunity Roblox Exploiting And Scripting @Copyright 2021 | https://github.com/Vilictus/Gote-Hub | 0 | 0| 
@@ -114,6 +114,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210614T01:06:41Z | Null | https://github.com/GuilhermeBuenoMartins/sistemas-de-inferencia-fuzzy | 0 | 2| 
 | 20210614T00:43:32Z | Scripts to augment the devtools for fuzzing and such | https://github.com/mgillam/evil-browser-toolkit | 0 | 0| 
 | 20210614T00:39:36Z | Null | https://github.com/raguilar2/fuzzier_forest | 0 | 0| 
 | 20210614T00:04:56Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 9 | 5| 
@@ -123,7 +124,6 @@
 | 20210613T23:18:27Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
 | 20210613T23:10:45Z | Null | https://github.com/brerickner/fuzzy_playground | 0 | 0| 
 | 20210613T23:01:26Z | Fuzzy TOPSIS software for well completion design. | https://github.com/bysarmad/fuzzytopsissoftware | 0 | 0| 
-| 20210613T22:57:05Z | Config files for my GitHub profile. | https://github.com/fuzzwuzz/fuzzwuzz | 0 | 0| 
 
 
 
