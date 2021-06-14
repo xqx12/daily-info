@@ -114,6 +114,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210614T00:04:56Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 9 | 5| 
 | 20210613T23:45:05Z | Multi-Criteria-Decision-Ranking Using Fuzzy TOPSIS-IPS sets | https://github.com/blendicavlad/FuzzyTopsis | 0 | 0| 
 | 20210613T23:37:14Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210613T23:31:16Z | Null | https://github.com/opimentel-github/fuzzy-tools | 0 | 0| 
@@ -123,7 +124,6 @@
 | 20210613T22:57:05Z | Config files for my GitHub profile. | https://github.com/fuzzwuzz/fuzzwuzz | 0 | 0| 
 | 20210613T22:28:08Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 287 | 38| 
 | 20210613T22:25:52Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6377 | 1292| 
-| 20210613T22:05:23Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 
 
 
