@@ -59,8 +59,8 @@
 | 20210614T21:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9558 | 1556| 
 | 20210614T19:47:46Z | Website for Easy Cross-Site Exploitation | https://github.com/MooseTheGoose/xsserver | 0 | 0| 
 | 20210614T19:00:37Z | Kubernetes security and vulnerability tools and utilities. | https://github.com/kris-nova/hack | 29 | 3| 
-| 20210614T18:51:32Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 17 | 11| 
 | 20210614T18:49:40Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 50 | 14| 
+| 20210614T18:22:56Z | All about pwning, reversing, and the road to exploit development | https://github.com/NimishMishra/exploit-dev | 0 | 0| 
 
 
 # backdoor on Github 推荐

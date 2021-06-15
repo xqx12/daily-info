@@ -84,7 +84,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210615T00:06:23Z | Receive notifications/alerts on the most recent disclosed CVE%s.  | https://github.com/0x4meliorate/Epimetheus | 1 | 0| 
+| 20210615T00:51:32Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 17 | 11| 
+| 20210615T00:50:59Z | Receive notifications/alerts on the most recent disclosed CVE%s.  | https://github.com/0x4meliorate/Epimetheus | 1 | 0| 
 | 20210615T00:03:06Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210614T23:08:26Z | Null | https://github.com/floatingHKX/Binary-Exploit-Visualization | 0 | 0| 
 | 20210614T22:40:09Z | windows and linux streams for post exploitation | https://github.com/kymb0/post_exploitation | 1 | 0| 
@@ -93,7 +94,6 @@
 | 20210614T21:41:00Z | https://exploit.education/phoenix/ | https://github.com/AnjaniGourisaria/Exploit.Education_WriteUp | 0 | 0| 
 | 20210614T21:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9558 | 1556| 
 | 20210614T19:47:46Z | Website for Easy Cross-Site Exploitation | https://github.com/MooseTheGoose/xsserver | 0 | 0| 
-| 20210614T19:00:37Z | Kubernetes security and vulnerability tools and utilities. | https://github.com/kris-nova/hack | 29 | 3| 
 
 
 # backdoor on Github 推荐
