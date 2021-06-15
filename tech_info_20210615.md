@@ -24,7 +24,7 @@
 | 20210615T07:36:48Z | CVE-2021-3560 | Polkit - Local Privilege Escalation (CVE-2021-3560) | https://github.com/deathflash1411/CVE-2021-3560 | 未查询到CVE信息| 
 | 20210615T07:34:05Z | CVE-2021-22911 | Pre-Auth Blind NoSQL Injection leading to Remote Code Execution in Rocket Chat 3.12.1 | https://github.com/CsEnox/CVE-2021-22911 | A improper input sanitization vulnerability exists in Rocket.Chat server 3.11, 3.12 & 3.13 that could lead to unauthenticated NoSQL injection, resulting potentially in RCE.| 
 | 20210615T06:11:42Z | CVE-2021-3560 | a reliable C based exploit for CVE-2021-3560. | https://github.com/hakivvi/CVE-2021-3560 | 未查询到CVE信息| 
-| 20210615T03:09:31Z | CVE-2021-26828 | Null | https://github.com/hevox/CVE-2021-26828_ScadaBR_RCE | | 
+| 20210615T03:09:31Z | CVE-2021-26828 | Null | https://github.com/hevox/CVE-2021-26828_ScadaBR_RCE | OpenPLC ScadaBR through 0.9.1 on Linux and through 1.12.4 on Windows allows remote authenticated users to upload and execute arbitrary JSP files via view_edit.shtm.| 
 
 
 # klee on Github 推荐
@@ -69,11 +69,11 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210615T12:16:23Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
 | 20210615T11:51:11Z | Fuzzing resources for JSC32 | https://github.com/pmatos/jsc32-fuzz | 0 | 0| 
 | 20210615T11:43:17Z | Null | https://github.com/Alaafathhyy/FuzzyLogic | 0 | 1| 
 | 20210615T11:30:16Z | Null | https://github.com/Wangwei419/fuzzy-computing-machine | 0 | 0| 
 | 20210615T11:23:35Z | A collection of algorithms for fuzzy search like in Sublime Text. | https://github.com/tajmone/fuzzy-search | 27 | 2| 
-| 20210615T11:11:26Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
 | 20210615T11:01:24Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210615T10:55:11Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3544 | 826| 
 | 20210615T10:50:26Z | Fuzzy Extractors in Java | https://github.com/ThexXTURBOXx/FuzzyExtractors | 0 | 0| 
