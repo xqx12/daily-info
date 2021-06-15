@@ -31,6 +31,9 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210615 | WiSec 2021 论文录用列表 | https://mp.weixin.qq.com/s/4_yNRBiTKENt6KcEOwanDA| 
+| 20210615 | 跟着Google学习如何写述职报告 | https://mp.weixin.qq.com/s/g07nezJjj2xaMp5z385RTw| 
+| 20210615 | WiSec 2021 论文录用列表 | /news/29295| 
 | 20210614 | Shift Left在开发安全中的应用 | https://mp.weixin.qq.com/s/CkfOFYOT98uICnVx2YLjsQ| 
 | 20210614 | SecWiki周刊（第380期) | https://www.sec-wiki.com/weekly/380| 
 | 20210613 | Java安全编码规范 | https://gitee.com/9199771/sec_coding/blob/master/sec_coding.md| 
@@ -38,29 +41,29 @@
 | 20210611 | 怎样系统地管理时间 | https://mp.weixin.qq.com/s/O7xGdZw669xJy3o17ghCbg| 
 | 20210611 | 蓝帽杯半决赛Misc-溯源取证 | https://mp.weixin.qq.com/s/rL-Issg-ouhpMfmcYL76Ow| 
 | 20210611 | 聊聊 Synology NAS Audio Station 套件未授权 RCE 调试及 EXP ... | https://paper.seebug.org/1604/| 
-| 20210611 | Static Program Analysis Intruction | https://mp.weixin.qq.com/s/jm2I-_L_NUBTYNhEUBv-iA| 
-| 20210611 | 深入研究网络弹性 | https://mp.weixin.qq.com/s/1rwwgErZDO0ygWNY7HPkSA| 
-| 20210611 | 浅谈云安全技术以及安全架构亮点 | https://mp.weixin.qq.com/s/tLHroy8yZIsZCjfdKLK-wQ| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210615T09:54:34Z | CVE-2020-8300 | Detect Citrix ADC SAML action or SAML iDP Profile config vulnerable to CVE-2020-8300 using Citrix ADC NITRO API | https://github.com/stuartcarroll/CitrixADC-CVE-2020-8300 | 未查询到CVE信息| 
+| 20210615T09:42:37Z | CVE-2021-33739 | Null | https://github.com/mavillon1/CVE-2021-33739-POC | Microsoft DWM Core Library Elevation of Privilege Vulnerability| 
+| 20210615T07:36:48Z | CVE-2021-3560 | Polkit - Local Privilege Escalation (CVE-2021-3560) | https://github.com/deathflash1411/CVE-2021-3560 | 未查询到CVE信息| 
+| 20210615T07:34:05Z | CVE-2021-22911 | Pre-Auth Blind NoSQL Injection leading to Remote Code Execution in Rocket Chat 3.12.1 | https://github.com/CsEnox/CVE-2021-22911 | A improper input sanitization vulnerability exists in Rocket.Chat server 3.11, 3.12 & 3.13 that could lead to unauthenticated NoSQL injection, resulting potentially in RCE.| 
+| 20210615T06:11:42Z | CVE-2021-3560 | a reliable C based exploit for CVE-2021-3560. | https://github.com/hakivvi/CVE-2021-3560 | 未查询到CVE信息| 
+| 20210615T03:09:31Z | CVE-2021-26828 | Null | https://github.com/hevox/CVE-2021-26828_ScadaBR_RCE | OpenPLC ScadaBR through 0.9.1 on Linux and through 1.12.4 on Windows allows remote authenticated users to upload and execute arbitrary JSP files via view_edit.shtm.| 
 | 20210614T21:54:17Z | CVE-2021-21985 | CVE-2021-21985 VMware vCenter Server远程代码执行漏洞 EXP (更新可回显EXP) | https://github.com/r0ckysec/CVE-2021-21985 | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
 | 20210614T18:06:26Z | CVE-2021-3560 | polkit exploit script v1.0 | https://github.com/tyleraharrison/CVE-2021-3560_PoC | 未查询到CVE信息| 
-| 20210614T17:12:06Z | CVE-2021-33739 | Null | https://github.com/mavillon1/CVE-2021-33739-POC | Microsoft DWM Core Library Elevation of Privilege Vulnerability| 
-| 20210614T15:32:14Z | CVE-2021-3560 | Polkit - Local Privilege Escalation (CVE-2021-3560) | https://github.com/deathflash1411/CVE-2021-3560 | 未查询到CVE信息| 
-| 20210614T07:36:50Z | CVE-2020-3452 | Null | https://github.com/sujaygr8/CVE-2020-3452 | | 
-| 20210614T07:30:41Z | CVE-2021-22911 | Pre-Auth Blind NoSQL Injection leading to Remote Code Execution in Rocket Chat 3.12.1 | https://github.com/CsEnox/CVE-2021-22911 | A improper input sanitization vulnerability exists in Rocket.Chat server 3.11, 3.12 & 3.13 that could lead to unauthenticated NoSQL injection, resulting potentially in RCE.| 
+| 20210614T07:36:50Z | CVE-2020-3452 | Null | https://github.com/sujaygr8/CVE-2020-3452 | A vulnerability in the web services interface of Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software could allow an unauthenticated, remote attacker to conduct directory traversal attacks and read sensitive files on a targeted system. The vulnerability is due to a lack of proper input validation of URLs in HTTP requests processed by an affected device. An attacker could exploit this vulnerability by sending a crafted HTTP request containing directory traversal character sequences to an affected device. A successful exploit could allow the attacker to view arbitrary files within the web services file system on the targeted device. The web services file system is enabled when the affected device is configured with either WebVPN or AnyConnect features. This vulnerability cannot be used to obtain access to ASA or FTD system files or underlying operating system (OS) files.| 
 | 20210614T06:56:19Z | CVE-2021-31166 | Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely. | https://github.com/0vercl0k/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
-| 20210614T06:46:19Z | CVE-2020-3187 | Null | https://github.com/sujaygr8/CVE-2020-3187 | A vulnerability in the web services interface of Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software could allow an unauthenticated, remote attacker to conduct directory traversal attacks and obtain read and delete access to sensitive files on a targeted system. The vulnerability is due to a lack of proper input validation of the HTTP URL. An attacker could exploit this vulnerability by sending a crafted HTTP request containing directory traversal character sequences. An exploit could allow the attacker to view or delete arbitrary files on the targeted system. When the device is reloaded after exploitation of this vulnerability, any files that were deleted are restored. The attacker can only view and delete files within the web services file system. This file system is enabled when the affected device is configured with either WebVPN or AnyConnect features. This vulnerability can not be used to obtain access to ASA or FTD system files or underlying operating system (OS) files. Reloading the affected device will restore all files within the web services file system.| 
-| 20210614T00:58:58Z | CVE-2021-26828 | Null | https://github.com/hevox/CVE-2021-26828_ScadaBR_RCE | OpenPLC ScadaBR through 0.9.1 on Linux and through 1.12.4 on Windows allows remote authenticated users to upload and execute arbitrary JSP files via view_edit.shtm.| 
-| 20210613T23:36:24Z | CVE-2020-24186 | wpDiscuz 7.0.4 Remote Code Execution | https://github.com/hevox/CVE-2020-24186-wpDiscuz-7.0.4-RCE | A Remote Code Execution vulnerability exists in the gVectors wpDiscuz plugin 7.0 through 7.0.4 for WordPress, which allows unauthenticated users to upload any type of file, including PHP files via the wmuUploadFiles AJAX action.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210615T11:45:02Z | Null | https://github.com/yogaerasubakti/Klee_CustomCard | 0 | 0| 
+| 20210615T08:56:00Z | nothing | https://github.com/IzumiSagiris/klee | 1 | 0| 
+| 20210615T06:33:47Z | Null | https://github.com/fontworks-fonts/Klee | 460 | 13| 
 | 20210614T09:54:33Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 14 | 45| 
 | 20210614T09:17:13Z | Null | https://github.com/kleefi/kleefi.github.io | 0 | 0| 
 | 20210614T08:31:12Z | Config files for my GitHub profile. | https://github.com/kleeqt/kleeqt | 0 | 0| 
@@ -68,14 +71,13 @@
 | 20210613T19:00:06Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 136 | 23| 
 | 20210613T10:12:20Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1714 | 495| 
 | 20210613T07:12:12Z | This tool inputs a PDDL benchmark of the Carpark planning problem and converts it to an equivalent C code used for solving the planning problem by software verification tools such as KLEE/TracerX. | https://github.com/daneshvar-amrollahi/Carpark-PDDL2C | 0 | 0| 
-| 20210611T17:27:13Z | TInA is an automated, generic, verification-friendly and trustworthy lifting technique turning GNU-style inline assembly into semantically equivalent C code amenable to verification, in order to take advantage of existing C analyzers. | https://github.com/binsec/klee21-tina-artifact | 0 | 0| 
-| 20210611T08:46:22Z | nothing | https://github.com/IzumiSagiris/klee | 0 | 0| 
-| 20210610T23:16:50Z | Config files for my GitHub profile. | https://github.com/klee111287/klee111287 | 0 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210615T07:16:19Z | Compiler for S2Engine architecure , an CNN accelerator | https://github.com/BUAA-CI-Lab/S2EngineCompiler | 0 | 1| 
+| 20210615T07:16:01Z | Simulator for S2Engine architucture , a CNN accelerator | https://github.com/BUAA-CI-Lab/S2EngineSimulator | 0 | 1| 
 | 20210614T17:07:29Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 134 | 31| 
 | 20210603T23:31:01Z | Command line configuration & Test Tool for WIZnet Serial to Ethernet devices. | https://github.com/Wiznet/WIZnet-S2E-Tool | 7 | 3| 
 | 20210602T08:47:12Z | S2E project | https://github.com/romanguerin/S2E | 0 | 0| 
@@ -84,46 +86,46 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210615T01:39:20Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 309 | 44| 
-| 20210615T01:22:14Z | Example of calling Roblox functions externally in C# with the MemorySharp library. | https://github.com/deaddlocust/csharp-print-exploit | 0 | 0| 
-| 20210615T01:02:56Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
-| 20210615T01:02:14Z | Receive notifications/alerts on the most recent disclosed CVE%s.  | https://github.com/0x4meliorate/Epimetheus | 2 | 0| 
-| 20210615T00:51:32Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 17 | 11| 
-| 20210614T23:08:26Z | Null | https://github.com/floatingHKX/Binary-Exploit-Visualization | 0 | 0| 
-| 20210614T22:40:09Z | windows and linux streams for post exploitation | https://github.com/kymb0/post_exploitation | 1 | 0| 
-| 20210614T21:53:41Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7956 | 1400| 
-| 20210614T21:44:14Z | Drafts of exploits made for studying and consultation purposes | https://github.com/brerodrigues/exploit_drafts | 0 | 0| 
-| 20210614T21:41:00Z | https://exploit.education/phoenix/ | https://github.com/AnjaniGourisaria/Exploit.Education_WriteUp | 0 | 0| 
+| 20210615T11:57:42Z | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | 0 | 0| 
+| 20210615T11:33:27Z | We propose an approach in which the developer interacts with the SBFL algorithm by giving feedback on the elements of the prioritized list. We exploit contextual knowledge of the user about the next item in the ranked list, with which larger code entities can be repositioned in their suspiciousness. | https://github.com/InteractiveFaultLocalization/InteractiveFaultLocalization.github.io | 1 | 0| 
+| 20210615T11:08:16Z | Google API Exploit | https://github.com/Zo-Bro-23/GoogleApis | 0 | 0| 
+| 20210615T11:02:57Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
+| 20210615T11:00:02Z | Null | https://github.com/omer-biz/basic_bin_exploit | 0 | 0| 
+| 20210615T10:48:57Z | Null | https://github.com/rrevuelta/Malware-Techniques-and-Software-Exploitation | 0 | 0| 
+| 20210615T10:45:29Z | Exploiting Linksys WRT54G using a vulnerability I found. | https://github.com/elongl/linksys-wrt54g | 0 | 0| 
+| 20210615T10:29:36Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 483 | 95| 
+| 20210615T10:05:57Z | Master Thesis | https://github.com/FlavioLorenzi/Continual-Learning-on-Unity-dataset-exploiting-the-Activity-Recognition-Engine | 0 | 0| 
+| 20210615T09:50:41Z | A tool that helps you build buffer overflow exploits. | https://github.com/javiervidrua/exploithelper | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210615T08:27:34Z | How to Create a Reverse Shell backdoor in Python | https://github.com/haytechwithbio/pythonbackdoor | 0 | 0| 
+| 20210615T07:17:06Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/ghost | 1149 | 551| 
+| 20210615T03:01:30Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 249 | 43| 
+| 20210615T02:04:07Z | Backdoor Shell | https://github.com/kaitolegion/Backdoor | 3 | 5| 
 | 20210614T18:09:31Z | Other way to use an arduino to get access on a system. Watch out | https://github.com/Teckinfor/Arduino-AutoInstall-Backdoor | 0 | 0| 
 | 20210614T16:15:29Z | kumpulan shell backdoor | https://github.com/FRMFOX/SH3LL-BKDR | 0 | 0| 
-| 20210614T13:55:31Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 249 | 43| 
-| 20210614T09:48:46Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/ghost | 1148 | 551| 
 | 20210614T03:22:51Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 211 | 40| 
 | 20210614T01:31:03Z | popbob plugin (NO BACKDOOR) dont open popbob plugin at 3 am!!!!!! | https://github.com/cringesyringe11/popbob-plugin-NO-BACKDOOR- | 0 | 0| 
 | 20210613T18:18:46Z | Project SAANP : Implementation of Backdoor using Python | https://github.com/piyushsharma220699/Backdoor-in-Cyber-Security | 0 | 0| 
 | 20210613T17:25:26Z | Null | https://github.com/skrllr/backdoor | 0 | 0| 
-| 20210613T17:15:25Z | PyDoor is backdoor-based software with some interesting features. | https://github.com/Kamelleon/PyDoor | 0 | 0| 
-| 20210613T14:10:43Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 80 | 12| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210615T01:53:07Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1819 | 359| 
-| 20210615T01:44:58Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 885 | 93| 
-| 20210615T01:42:34Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210615T01:30:41Z | A collection of algorithms for fuzzy search like in Sublime Text. | https://github.com/tajmone/fuzzy-search | 27 | 2| 
-| 20210615T01:28:45Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 4667 | 541| 
-| 20210615T01:26:48Z | The Art, Science, and Engineering of Fuzzing: A Survey | https://github.com/SoftSec-KAIST/Fuzzing-Survey | 122 | 18| 
-| 20210615T01:21:58Z | Bazel Starlark extensions for defining fuzz tests in Bazel projects | https://github.com/bazelbuild/rules_fuzzing | 36 | 8| 
-| 20210615T01:17:44Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6378 | 1291| 
-| 20210615T00:03:44Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 9 | 5| 
-| 20210614T23:47:36Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 242 | 31| 
+| 20210615T11:51:11Z | Fuzzing resources for JSC32 | https://github.com/pmatos/jsc32-fuzz | 0 | 0| 
+| 20210615T11:43:17Z | Null | https://github.com/Alaafathhyy/FuzzyLogic | 0 | 1| 
+| 20210615T11:30:16Z | Null | https://github.com/Wangwei419/fuzzy-computing-machine | 0 | 0| 
+| 20210615T11:23:35Z | A collection of algorithms for fuzzy search like in Sublime Text. | https://github.com/tajmone/fuzzy-search | 27 | 2| 
+| 20210615T11:11:26Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
+| 20210615T11:01:24Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20210615T10:55:11Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3544 | 826| 
+| 20210615T10:50:26Z | Fuzzy Extractors in Java | https://github.com/ThexXTURBOXx/FuzzyExtractors | 0 | 0| 
+| 20210615T10:45:54Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 128 | 13| 
+| 20210615T10:24:36Z | 基于libfuzzer和Unicorn的黑盒模糊测试框架 | https://github.com/migraine-sudo/infinite-fuzzer | 0 | 0| 
 
 
 
