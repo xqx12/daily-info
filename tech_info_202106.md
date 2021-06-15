@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210614T21:54:17Z | CVE-2021-21985 | CVE-2021-21985 VMware vCenter Server远程代码执行漏洞 EXP (更新可回显EXP) | https://github.com/r0ckysec/CVE-2021-21985 | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
+| 20210614T21:54:17Z | CVE-2021-21985 | CVE-2021-21985 VMware vCenter Server远程代码执行漏洞 EXP (更新可回显EXP) | https://github.com/r0ckysec/CVE-2021-21985 | | 
 | 20210614T18:06:26Z | CVE-2021-3560 | polkit exploit script v1.0 | https://github.com/tyleraharrison/CVE-2021-3560_PoC | 未查询到CVE信息| 
 | 20210614T17:12:06Z | CVE-2021-33739 | Null | https://github.com/mavillon1/CVE-2021-33739-POC | Microsoft DWM Core Library Elevation of Privilege Vulnerability| 
 | 20210614T15:32:14Z | CVE-2021-3560 | Polkit - Local Privilege Escalation (CVE-2021-3560) | https://github.com/deathflash1411/CVE-2021-3560 | 未查询到CVE信息| 
