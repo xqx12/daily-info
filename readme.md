@@ -45,6 +45,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210615T12:40:08Z | The hacking challenges I%ve solved | https://github.com/andrewbae/playground | 2 | 1| 
+| 20210615T12:40:01Z | My personal writeup for Nebula from Andrew Griffits Exploit Education | https://github.com/Hacker5preme/Nebula-Writeup | 0 | 0| 
 | 20210615T12:35:16Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9561 | 1556| 
 | 20210615T12:33:42Z | This project aims to exploit the edge of sentimental analysis in Bitcoin trading #ScrapingStocktwits #TimeSeriesAnalysis #ARIMA #GrangerCausality #Python. | https://github.com/AlgolabFinance/The-edge-of-sentimental-analysis-in-Bitcoin-trading- | 0 | 0| 
 | 20210615T12:26:30Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 14 | 3| 
@@ -53,8 +55,6 @@
 | 20210615T12:02:51Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210615T11:33:27Z | We propose an approach in which the developer interacts with the SBFL algorithm by giving feedback on the elements of the prioritized list. We exploit contextual knowledge of the user about the next item in the ranked list, with which larger code entities can be repositioned in their suspiciousness. | https://github.com/InteractiveFaultLocalization/InteractiveFaultLocalization.github.io | 1 | 0| 
 | 20210615T11:08:16Z | Google API Exploit | https://github.com/Zo-Bro-23/GoogleApis | 0 | 0| 
-| 20210615T11:00:02Z | Null | https://github.com/omer-biz/basic_bin_exploit | 0 | 0| 
-| 20210615T10:48:57Z | Null | https://github.com/rrevuelta/Malware-Techniques-and-Software-Exploitation | 0 | 0| 
 
 
 # backdoor on Github 推荐
