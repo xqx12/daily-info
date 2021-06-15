@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210615T01:39:20Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 309 | 44| 
 | 20210615T01:22:14Z | Example of calling Roblox functions externally in C# with the MemorySharp library. | https://github.com/deaddlocust/csharp-print-exploit | 0 | 0| 
 | 20210615T01:02:56Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210615T01:02:14Z | Receive notifications/alerts on the most recent disclosed CVE%s.  | https://github.com/0x4meliorate/Epimetheus | 2 | 0| 
@@ -93,7 +94,6 @@
 | 20210614T21:53:41Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7956 | 1400| 
 | 20210614T21:44:14Z | Drafts of exploits made for studying and consultation purposes | https://github.com/brerodrigues/exploit_drafts | 0 | 0| 
 | 20210614T21:41:00Z | https://exploit.education/phoenix/ | https://github.com/AnjaniGourisaria/Exploit.Education_WriteUp | 0 | 0| 
-| 20210614T21:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9558 | 1556| 
 
 
 # backdoor on Github 推荐
