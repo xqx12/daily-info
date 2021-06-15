@@ -14,6 +14,7 @@
 | 20210615 | WiSec 2021 论文录用列表 | https://mp.weixin.qq.com/s/4_yNRBiTKENt6KcEOwanDA| 
 | 20210615 | 跟着Google学习如何写述职报告 | https://mp.weixin.qq.com/s/g07nezJjj2xaMp5z385RTw| 
 | 20210615 | WiSec 2021 论文录用列表 | /news/29295| 
+| 20210615 | 可扩展跨平台网络安全工具套件CaptfEncoder v2.1.0 | https://www.freebuf.com/sectool/276478.html| 
 
 
 # CVE Github 推荐
@@ -45,8 +46,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210615T12:43:20Z | My personal writeup for Nebula from Andrew Griffits Exploit Education | https://github.com/Hacker5preme/Nebula-Writeup | 0 | 0| 
 | 20210615T12:40:08Z | The hacking challenges I%ve solved | https://github.com/andrewbae/playground | 2 | 1| 
-| 20210615T12:40:01Z | My personal writeup for Nebula from Andrew Griffits Exploit Education | https://github.com/Hacker5preme/Nebula-Writeup | 0 | 0| 
 | 20210615T12:35:16Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9561 | 1556| 
 | 20210615T12:33:42Z | This project aims to exploit the edge of sentimental analysis in Bitcoin trading #ScrapingStocktwits #TimeSeriesAnalysis #ARIMA #GrangerCausality #Python. | https://github.com/AlgolabFinance/The-edge-of-sentimental-analysis-in-Bitcoin-trading- | 0 | 0| 
 | 20210615T12:26:30Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 14 | 3| 
