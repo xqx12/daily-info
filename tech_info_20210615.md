@@ -45,6 +45,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210615T12:11:33Z | This project aims to exploit the edge of sentimental analysis in Bitcoin trading #ScrapingStocktwits #TimeSeriesAnalysis #ARIMA #GrangerCausality #Python. | https://github.com/AlgolabFinance/The-edge-of-sentimental-analysis-in-Bitcoin-trading- | 0 | 0| 
 | 20210615T12:08:59Z | This project aim to exploit the edge of sentimental analysis in Bitcoin trading #ScrapingStocktwits #TimeSeriesAnalysis #ARIMA #GrangerCausality #Python. | https://github.com/AlgolabFinance/Bitcoin-sentimental-analysis | 0 | 0| 
 | 20210615T12:05:33Z | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | 0 | 0| 
 | 20210615T12:02:51Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
@@ -54,7 +55,6 @@
 | 20210615T10:48:57Z | Null | https://github.com/rrevuelta/Malware-Techniques-and-Software-Exploitation | 0 | 0| 
 | 20210615T10:45:29Z | Exploiting Linksys WRT54G using a vulnerability I found. | https://github.com/elongl/linksys-wrt54g | 0 | 0| 
 | 20210615T10:29:36Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 483 | 95| 
-| 20210615T10:05:57Z | Master Thesis | https://github.com/FlavioLorenzi/Continual-Learning-on-Unity-dataset-exploiting-the-Activity-Recognition-Engine | 0 | 0| 
 
 
 # backdoor on Github 推荐
