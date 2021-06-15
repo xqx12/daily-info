@@ -24,7 +24,7 @@
 | 20210615T07:36:48Z | CVE-2021-3560 | Polkit - Local Privilege Escalation (CVE-2021-3560) | https://github.com/deathflash1411/CVE-2021-3560 | 未查询到CVE信息| 
 | 20210615T07:34:05Z | CVE-2021-22911 | Pre-Auth Blind NoSQL Injection leading to Remote Code Execution in Rocket Chat 3.12.1 | https://github.com/CsEnox/CVE-2021-22911 | A improper input sanitization vulnerability exists in Rocket.Chat server 3.11, 3.12 & 3.13 that could lead to unauthenticated NoSQL injection, resulting potentially in RCE.| 
 | 20210615T06:11:42Z | CVE-2021-3560 | a reliable C based exploit for CVE-2021-3560. | https://github.com/hakivvi/CVE-2021-3560 | 未查询到CVE信息| 
-| 20210615T03:09:31Z | CVE-2021-26828 | Null | https://github.com/hevox/CVE-2021-26828_ScadaBR_RCE | OpenPLC ScadaBR through 0.9.1 on Linux and through 1.12.4 on Windows allows remote authenticated users to upload and execute arbitrary JSP files via view_edit.shtm.| 
+| 20210615T03:09:31Z | CVE-2021-26828 | Null | https://github.com/hevox/CVE-2021-26828_ScadaBR_RCE | | 
 
 
 # klee on Github 推荐
@@ -45,6 +45,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210615T12:08:59Z | This project aim to exploit the edge of sentimental analysis in Bitcoin trading #ScrapingStocktwits #TimeSeriesAnalysis #ARIMA #GrangerCausality #Python. | https://github.com/AlgolabFinance/Bitcoin-sentimental-analysis | 0 | 0| 
 | 20210615T12:05:33Z | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | 0 | 0| 
 | 20210615T12:02:51Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210615T11:33:27Z | We propose an approach in which the developer interacts with the SBFL algorithm by giving feedback on the elements of the prioritized list. We exploit contextual knowledge of the user about the next item in the ranked list, with which larger code entities can be repositioned in their suspiciousness. | https://github.com/InteractiveFaultLocalization/InteractiveFaultLocalization.github.io | 1 | 0| 
@@ -54,7 +55,6 @@
 | 20210615T10:45:29Z | Exploiting Linksys WRT54G using a vulnerability I found. | https://github.com/elongl/linksys-wrt54g | 0 | 0| 
 | 20210615T10:29:36Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 483 | 95| 
 | 20210615T10:05:57Z | Master Thesis | https://github.com/FlavioLorenzi/Continual-Learning-on-Unity-dataset-exploiting-the-Activity-Recognition-Engine | 0 | 0| 
-| 20210615T09:50:41Z | A tool that helps you build buffer overflow exploits. | https://github.com/javiervidrua/exploithelper | 1 | 0| 
 
 
 # backdoor on Github 推荐
