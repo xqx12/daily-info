@@ -70,7 +70,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210615T12:55:16Z | Null | https://github.com/compcyber/fuzzy-guacamole | 0 | 0| 
+| 20210615T12:58:05Z | Null | https://github.com/compcyber/fuzzy-guacamole | 0 | 0| 
 | 20210615T12:49:11Z | Null | https://github.com/Sathya567/fuzzy-spoon | 0 | 0| 
 | 20210615T12:44:47Z | Fuzzing resources for JSC32 | https://github.com/pmatos/jsc32-fuzz | 0 | 0| 
 | 20210615T12:38:19Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3544 | 826| 
