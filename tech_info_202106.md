@@ -99,16 +99,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210614T18:09:31Z | Other way to use an arduino to get access on a system. Watch out | https://github.com/Teckinfor/Arduino-AutoInstall-Backdoor | 0 | 0| 
+| 20210614T16:15:29Z | kumpulan shell backdoor | https://github.com/FRMFOX/SH3LL-BKDR | 0 | 0| 
+| 20210614T13:55:31Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 249 | 43| 
 | 20210614T09:48:46Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/ghost | 1148 | 551| 
-| 20210614T07:19:07Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 249 | 43| 
 | 20210614T03:22:51Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 211 | 40| 
 | 20210614T01:31:03Z | popbob plugin (NO BACKDOOR) dont open popbob plugin at 3 am!!!!!! | https://github.com/cringesyringe11/popbob-plugin-NO-BACKDOOR- | 0 | 0| 
 | 20210613T18:18:46Z | Project SAANP : Implementation of Backdoor using Python | https://github.com/piyushsharma220699/Backdoor-in-Cyber-Security | 0 | 0| 
 | 20210613T17:25:26Z | Null | https://github.com/skrllr/backdoor | 0 | 0| 
 | 20210613T17:15:25Z | PyDoor is backdoor-based software with some interesting features. | https://github.com/Kamelleon/PyDoor | 0 | 0| 
 | 20210613T14:10:43Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 80 | 12| 
-| 20210613T09:32:53Z | 🤖An Evil and Smart Bot for Enslaving Windows. | https://github.com/wildonion/katyusha | 3 | 1| 
-| 20210613T08:16:47Z | I made some book that gives you creative mode, enchanted bedrock/ende rportal frames/ command blocks and a 32k sword when you put the command into a command block. I separated the versions of mc and different commands. This has mass autism and im sorry | https://github.com/Zvakun/backdoor-book-minecraft-commands | 0 | 0| 
 
 
 # fuzz on Github 推荐
