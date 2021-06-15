@@ -70,16 +70,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210615T12:55:16Z | Null | https://github.com/compcyber/fuzzy-guacamole | 0 | 0| 
+| 20210615T12:49:11Z | Null | https://github.com/Sathya567/fuzzy-spoon | 0 | 0| 
+| 20210615T12:44:47Z | Fuzzing resources for JSC32 | https://github.com/pmatos/jsc32-fuzz | 0 | 0| 
 | 20210615T12:38:19Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3544 | 826| 
 | 20210615T12:26:58Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 129 | 13| 
 | 20210615T12:16:23Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
-| 20210615T11:51:11Z | Fuzzing resources for JSC32 | https://github.com/pmatos/jsc32-fuzz | 0 | 0| 
 | 20210615T11:43:17Z | Null | https://github.com/Alaafathhyy/FuzzyLogic | 0 | 1| 
 | 20210615T11:30:16Z | Null | https://github.com/Wangwei419/fuzzy-computing-machine | 0 | 0| 
 | 20210615T11:23:35Z | A collection of algorithms for fuzzy search like in Sublime Text. | https://github.com/tajmone/fuzzy-search | 27 | 2| 
 | 20210615T11:01:24Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210615T10:50:26Z | Fuzzy Extractors in Java | https://github.com/ThexXTURBOXx/FuzzyExtractors | 0 | 0| 
-| 20210615T10:24:36Z | 基于libfuzzer和Unicorn的黑盒模糊测试框架 | https://github.com/migraine-sudo/infinite-fuzzer | 0 | 0| 
 
 
 
