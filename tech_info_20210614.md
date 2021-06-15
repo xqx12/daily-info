@@ -10,6 +10,7 @@
 | 20210614 | 探讨武器系统中的安全漏洞。 | https://www.schneier.com/blog/archives/2021/06/vulnerabilities-in-weapons-systems.html| 
 | 20210614 | 移动应用渗透测试备忘单。 | https://github.com/fuzz-security/MobileApp-Pentest-Cheatsheet| 
 | 20210614 | NoSql 注入备忘单。 | https://nullsweep.com/nosql-injection-cheatsheet/| 
+| 20210614 | iOS Malicious Bit Hunter - 一款适用于iOS应用程序的恶意软件检测引擎 | https://www.kitploit.com/2021/06/ios-malicious-bit-hunter-malicious-plug.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+PentestTools+%28PenTest+Tools%29| 
 
 
 # 安全维基 推荐
@@ -22,8 +23,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210614T21:54:17Z | CVE-2021-21985 | CVE-2021-21985 VMware vCenter Server远程代码执行漏洞 EXP (更新可回显EXP) | https://github.com/r0ckysec/CVE-2021-21985 | | 
-| 20210614T18:06:26Z | CVE-2021-3560 | polkit exploit script v1.0 | https://github.com/tyleraharrison/CVE-2021-3560_PoC | | 
+| 20210614T21:54:17Z | CVE-2021-21985 | CVE-2021-21985 VMware vCenter Server远程代码执行漏洞 EXP (更新可回显EXP) | https://github.com/r0ckysec/CVE-2021-21985 | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
+| 20210614T18:06:26Z | CVE-2021-3560 | polkit exploit script v1.0 | https://github.com/tyleraharrison/CVE-2021-3560_PoC | 未查询到CVE信息| 
 | 20210614T17:12:06Z | CVE-2021-33739 | Null | https://github.com/mavillon1/CVE-2021-33739-POC | Microsoft DWM Core Library Elevation of Privilege Vulnerability| 
 | 20210614T15:32:14Z | CVE-2021-3560 | Polkit - Local Privilege Escalation (CVE-2021-3560) | https://github.com/deathflash1411/CVE-2021-3560 | 未查询到CVE信息| 
 | 20210614T07:36:50Z | CVE-2020-3452 | Null | https://github.com/sujaygr8/CVE-2020-3452 | A vulnerability in the web services interface of Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software could allow an unauthenticated, remote attacker to conduct directory traversal attacks and read sensitive files on a targeted system. The vulnerability is due to a lack of proper input validation of URLs in HTTP requests processed by an affected device. An attacker could exploit this vulnerability by sending a crafted HTTP request containing directory traversal character sequences to an affected device. A successful exploit could allow the attacker to view arbitrary files within the web services file system on the targeted device. The web services file system is enabled when the affected device is configured with either WebVPN or AnyConnect features. This vulnerability cannot be used to obtain access to ASA or FTD system files or underlying operating system (OS) files.| 
