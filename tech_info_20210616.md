@@ -45,6 +45,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210616T12:49:14Z | Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish to influence Onelinetips and explain the commands, for the better understanding of new hunters.. | https://github.com/KingOfBugbounty/KingOfBugBountyTips | 2184 | 349| 
 | 20210616T12:48:56Z | https://exploit.education/phoenix/ | https://github.com/AnjaniGourisaria/Exploit.Education_WriteUp | 0 | 0| 
 | 20210616T12:46:18Z | Small crash client base for retarded(german) people who steal other people%s code. | https://github.com/narumii/Niko | 13 | 0| 
 | 20210616T12:40:35Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 60 | 21| 
@@ -54,7 +55,6 @@
 | 20210616T11:44:19Z | function list 4 roblos exploiting | https://github.com/alec9/elerua | 0 | 0| 
 | 20210616T11:43:19Z | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | 0 | 0| 
 | 20210616T10:54:31Z | The whole collection of Exploits developed by me (Hacker5preme) | https://github.com/Hacker5preme/Exploits | 2 | 0| 
-| 20210616T10:33:31Z | Agent-Based Modelling of labour exploitation in textile supply chains | https://github.com/kwabenantim/textile-labour | 0 | 0| 
 
 
 # backdoor on Github 推荐
