@@ -47,7 +47,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210615T19:59:36Z | CVE-2021-3560 | a reliable C based exploit for CVE-2021-3560. | https://github.com/hakivvi/CVE-2021-3560 | 未查询到CVE信息| 
-| 20210615T17:35:17Z | CVE-2020-24186 | wpDiscuz 7.0.4 Remote Code Execution | https://github.com/hevox/CVE-2020-24186-WordPress-wpDiscuz-7.0.4-RCE | A Remote Code Execution vulnerability exists in the gVectors wpDiscuz plugin 7.0 through 7.0.4 for WordPress, which allows unauthenticated users to upload any type of file, including PHP files via the wmuUploadFiles AJAX action.| 
+| 20210615T17:35:17Z | CVE-2020-24186 | wpDiscuz 7.0.4 Remote Code Execution | https://github.com/hevox/CVE-2020-24186-WordPress-wpDiscuz-7.0.4-RCE | | 
 | 20210615T09:54:34Z | CVE-2020-8300 | Detect Citrix ADC SAML action or SAML iDP Profile config vulnerable to CVE-2020-8300 using Citrix ADC NITRO API | https://github.com/stuartcarroll/CitrixADC-CVE-2020-8300 | 未查询到CVE信息| 
 | 20210615T09:42:37Z | CVE-2021-33739 | Null | https://github.com/mavillon1/CVE-2021-33739-POC | Microsoft DWM Core Library Elevation of Privilege Vulnerability| 
 | 20210615T07:36:48Z | CVE-2021-3560 | Polkit - Local Privilege Escalation (CVE-2021-3560) | https://github.com/deathflash1411/CVE-2021-3560 | 未查询到CVE信息| 
@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210616T00:51:33Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 17 | 11| 
 | 20210616T00:03:06Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210615T23:35:54Z | Its my First Completed Exploit I worked Hard on it hope you enjoy | https://github.com/Zipayy/NoobFire | 1 | 0| 
 | 20210615T23:26:48Z | A simple bash script that pulls a new version of Bash and recompiles within the shell. Great for testing privilege escalation exploits in Unix environments. | https://github.com/ITxTristan/bash-recompiler | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20210615T21:40:50Z | Null | https://github.com/justadoll/ChatWarsAutoExploit | 0 | 0| 
 | 20210615T21:35:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9562 | 1556| 
 | 20210615T21:22:21Z | A list of fun things to do with DarkRP addons | https://github.com/OverlordAkise/darkrp-exploits | 0 | 0| 
-| 20210615T21:21:09Z | My Collection of exploits, reverse shells, scripts and more | https://github.com/nop-tech/Pentesting | 2 | 2| 
 
 
 # backdoor on Github 推荐
