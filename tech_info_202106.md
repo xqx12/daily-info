@@ -86,7 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210616T01:29:17Z | 常用漏洞集合 | https://github.com/Amzza0x00/Zerooo-Exploitation-Framework | 22 | 6| 
+| 20210616T01:31:20Z | 异步漏洞利用框架 | https://github.com/Amzza0x00/Zerooo-Exploitation-Framework | 22 | 6| 
 | 20210616T01:19:22Z | A simple bash script that pulls a new version of Bash and recompiles within the shell. Great for testing privilege escalation exploits in Unix environments. | https://github.com/ITxTristan/bash-recompiler | 0 | 0| 
 | 20210616T01:03:34Z | windows and linux streams for post exploitation | https://github.com/kymb0/post_exploitation | 1 | 0| 
 | 20210616T01:02:51Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
