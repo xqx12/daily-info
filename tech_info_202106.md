@@ -31,16 +31,16 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
-| 20210615 | WiSec 2021 论文录用列表 | https://mp.weixin.qq.com/s/4_yNRBiTKENt6KcEOwanDA| 
-| 20210615 | 跟着Google学习如何写述职报告 | https://mp.weixin.qq.com/s/g07nezJjj2xaMp5z385RTw| 
-| 20210615 | WiSec 2021 论文录用列表 | /news/29295| 
-| 20210615 | 可扩展跨平台网络安全工具套件CaptfEncoder v2.1.0 | https://www.freebuf.com/sectool/276478.html| 
-| 20210614 | Shift Left在开发安全中的应用 | https://mp.weixin.qq.com/s/CkfOFYOT98uICnVx2YLjsQ| 
-| 20210614 | SecWiki周刊（第380期) | https://www.sec-wiki.com/weekly/380| 
-| 20210613 | Java安全编码规范 | https://gitee.com/9199771/sec_coding/blob/master/sec_coding.md| 
-| 20210611 | 谈谈网络空间测绘在国家级断电断网事件上的应用 | https://mp.weixin.qq.com/s/vFygIcSNnAgPaEqVBp7LsQ| 
-| 20210611 | 怎样系统地管理时间 | https://mp.weixin.qq.com/s/O7xGdZw669xJy3o17ghCbg| 
-| 20210611 | 蓝帽杯半决赛Misc-溯源取证 | https://mp.weixin.qq.com/s/rL-Issg-ouhpMfmcYL76Ow| 
+| 20210616 | HT2114 Telnet 服务暴力破解 new | https://tools.xazlsec.com/index.php/HT2110/242.html| 
+| 20210616 | HT2111 SSH 服务暴力枚举 | https://tools.xazlsec.com/index.php/HT2110/231.html| 
+| 20210616 | HT1223 Go 版指纹识别工具 Webanalyze | https://tools.xazlsec.com/index.php/HT1220/215.html| 
+| 20210616 | HT1221 Web 应用信息收集工具 WIG | https://tools.xazlsec.com/index.php/HT1220/207.html| 
+| 20210616 | HT1218 网络测绘系统利用 | https://tools.xazlsec.com/index.php/HT1210/203.html| 
+| 20210616 | HT1216 Nmap 端口扫描工具 | https://tools.xazlsec.com/index.php/HT1210/192.html| 
+| 20210616 | HT1213 脚本语言版端口扫描 | https://tools.xazlsec.com/index.php/HT1210/173.html| 
+| 20210616 | HT1211 常见端口及服务信息 | https://tools.xazlsec.com/index.php/HT1210/168.html| 
+| 20210616 | HT1161 Github 信息泄漏 | https://tools.xazlsec.com/index.php/HT1160/163.html| 
+| 20210616 | HT1152 Shodan 自动化利用 | https://tools.xazlsec.com/index.php/HT1150/158.html| 
 
 
 # CVE Github 推荐
@@ -53,7 +53,7 @@
 | 20210615T09:42:37Z | CVE-2021-33739 | Null | https://github.com/mavillon1/CVE-2021-33739-POC | Microsoft DWM Core Library Elevation of Privilege Vulnerability| 
 | 20210615T07:36:48Z | CVE-2021-3560 | Polkit - Local Privilege Escalation (CVE-2021-3560) | https://github.com/deathflash1411/CVE-2021-3560 | 未查询到CVE信息| 
 | 20210615T07:34:05Z | CVE-2021-22911 | Pre-Auth Blind NoSQL Injection leading to Remote Code Execution in Rocket Chat 3.12.1 | https://github.com/CsEnox/CVE-2021-22911 | A improper input sanitization vulnerability exists in Rocket.Chat server 3.11, 3.12 & 3.13 that could lead to unauthenticated NoSQL injection, resulting potentially in RCE.| 
-| 20210615T03:09:31Z | CVE-2021-26828 | Null | https://github.com/hevox/CVE-2021-26828_ScadaBR_RCE | | 
+| 20210615T03:09:31Z | CVE-2021-26828 | Null | https://github.com/hevox/CVE-2021-26828_ScadaBR_RCE | OpenPLC ScadaBR through 0.9.1 on Linux and through 1.12.4 on Windows allows remote authenticated users to upload and execute arbitrary JSP files via view_edit.shtm.| 
 | 20210614T21:54:17Z | CVE-2021-21985 | CVE-2021-21985 VMware vCenter Server远程代码执行漏洞 EXP (更新可回显EXP) | https://github.com/r0ckysec/CVE-2021-21985 | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
 | 20210614T18:06:26Z | CVE-2021-3560 | polkit exploit script v1.0 | https://github.com/tyleraharrison/CVE-2021-3560_PoC | 未查询到CVE信息| 
 
@@ -61,6 +61,8 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210616T09:37:17Z | TracerX Symbolic Virtual Machine | https://github.com/tracer-x/TracerX | 15 | 9| 
+| 20210616T08:19:46Z | TInA is an automated, generic, verification-friendly and trustworthy lifting technique turning GNU-style inline assembly into semantically equivalent C code amenable to verification, in order to take advantage of existing C analyzers. | https://github.com/binsec/klee21-tina-artifact | 1 | 0| 
 | 20210615T23:49:52Z | Null | https://github.com/kleelab/kleelab.github.io | 0 | 0| 
 | 20210615T20:17:32Z | Null | https://github.com/JaimePSantos/ResearchKlee | 0 | 0| 
 | 20210615T18:27:48Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1713 | 495| 
@@ -69,8 +71,6 @@
 | 20210615T06:33:47Z | Null | https://github.com/fontworks-fonts/Klee | 460 | 13| 
 | 20210614T09:54:33Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 14 | 45| 
 | 20210614T09:17:13Z | Null | https://github.com/kleefi/kleefi.github.io | 0 | 0| 
-| 20210614T08:31:12Z | Config files for my GitHub profile. | https://github.com/kleeqt/kleeqt | 0 | 0| 
-| 20210614T07:31:44Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 148 | 14| 
 
 
 # s2e on Github 推荐
@@ -86,21 +86,22 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210616T01:46:33Z | Yet Another Exploit Host | https://github.com/Wr0zen/wr0zen.github.io | 1 | 1| 
-| 20210616T01:39:21Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 309 | 44| 
-| 20210616T01:34:16Z | 异步漏洞利用框架 | https://github.com/Amzza0x00/Zerooo-Exploitation-Framework | 22 | 6| 
-| 20210616T01:19:22Z | A simple bash script that pulls a new version of Bash and recompiles within the shell. Great for testing privilege escalation exploits in Unix environments. | https://github.com/ITxTristan/bash-recompiler | 0 | 0| 
-| 20210616T01:03:34Z | windows and linux streams for post exploitation | https://github.com/kymb0/post_exploitation | 1 | 0| 
-| 20210616T01:02:51Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
-| 20210616T00:53:52Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 14 | 3| 
-| 20210616T00:53:48Z | Null | https://github.com/supercellgamer/Universal-Exploit-Hub | 0 | 0| 
-| 20210616T00:51:33Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 17 | 11| 
-| 20210615T23:35:54Z | Its my First Completed Exploit I worked Hard on it hope you enjoy | https://github.com/Zipayy/NoobFire | 1 | 0| 
+| 20210616T11:48:22Z | Null | https://github.com/EnchantedHoe/Exploit | 0 | 0| 
+| 20210616T11:44:19Z | function list 4 roblos exploiting | https://github.com/alec9/elerua | 0 | 0| 
+| 20210616T11:43:19Z | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | 0 | 0| 
+| 20210616T11:14:05Z | Small crash client base for retarded(german) people who steal other people%s code. | https://github.com/narumii/Niko | 12 | 0| 
+| 20210616T11:02:56Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
+| 20210616T10:54:31Z | The whole collection of Exploits developed by me (Hacker5preme) | https://github.com/Hacker5preme/Exploits | 2 | 0| 
+| 20210616T10:33:31Z | Agent-Based Modelling of labour exploitation in textile supply chains | https://github.com/kwabenantim/textile-labour | 0 | 0| 
+| 20210616T10:26:37Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 485 | 95| 
+| 20210616T09:57:05Z | A collection of 350+ hacking tools you can install into termux for hacking, Pentesting, Mapping and more. In this tool you will get a total of 350+ hacking tools for you to install into termux/kali/windows/ubuntu, suitable for pentesters, bug hunting, exploitation, mapping, etc. You can install these tools by just typing the number it falls under. | https://github.com/SirManishKumar/MNSAllTools | 1 | 0| 
+| 20210616T09:55:12Z | SPVREDDY spv reddy venkatreddy sreepuram Security Enthusiast, Speaker and Penetration Testing Engineer with 6 years of experience in Cyber Security domain and 5 Years of Corporate experience in handling Vulnerability Assessment and Penetration Testing on Web Applications, Mobile Applications, API%s, Networks, Wireless Security and thick clients. Delivered talks in multiple Conferences, Workshops, Chapter meets and Webinars covering 5000+ members. Reported Critical Vulnerabilities in more than 25 Government websites leaking sensitive information of users and helped them to patch them. Ability to handle SAST (Static Application Security Testing), SAST (Dynamic Application Security Testing), End to End Product Security Operations and Penetration Testing. Good Knowledge on Software Defined Radio (SDR) Exploitation, Radio Frequency Identification Devices(RFID) and FRID tags. | https://github.com/spvreddy/spvreddy.github.io | 0 | 1| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210616T11:07:52Z | Null | https://github.com/ggpabuk/ExiledBackdoor | 0 | 0| 
 | 20210616T01:13:52Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 249 | 43| 
 | 20210615T23:52:46Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/ghost | 1150 | 551| 
 | 20210615T19:57:06Z | Null | https://github.com/PurduePAML/K-ARM_Backdoor_Optimization | 1 | 0| 
@@ -110,7 +111,6 @@
 | 20210615T08:27:34Z | How to Create a Reverse Shell backdoor in Python | https://github.com/haytechwithbio/pythonbackdoor | 0 | 0| 
 | 20210615T02:04:07Z | Backdoor Shell | https://github.com/kaitolegion/Backdoor | 3 | 5| 
 | 20210614T03:22:51Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 211 | 40| 
-| 20210614T01:31:03Z | popbob plugin (NO BACKDOOR) dont open popbob plugin at 3 am!!!!!! | https://github.com/cringesyringe11/popbob-plugin-NO-BACKDOOR- | 0 | 0| 
 
 
 # fuzz on Github 推荐
