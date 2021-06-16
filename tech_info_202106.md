@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210616T01:25:48Z | 常用漏洞集合 | https://github.com/Amzza0x00/Zerooo-Exploitation-Framework | 22 | 6| 
 | 20210616T01:19:22Z | A simple bash script that pulls a new version of Bash and recompiles within the shell. Great for testing privilege escalation exploits in Unix environments. | https://github.com/ITxTristan/bash-recompiler | 0 | 0| 
 | 20210616T01:03:34Z | windows and linux streams for post exploitation | https://github.com/kymb0/post_exploitation | 1 | 0| 
 | 20210616T01:02:51Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
@@ -95,7 +96,6 @@
 | 20210615T23:35:54Z | Its my First Completed Exploit I worked Hard on it hope you enjoy | https://github.com/Zipayy/NoobFire | 1 | 0| 
 | 20210615T22:16:26Z | Null | https://github.com/omer-biz/basic_bin_exploit | 0 | 0| 
 | 20210615T21:51:30Z | An exploit that I found in Robloxs chat filter  | https://github.com/Radioactivebun0/Roblox_Swearing_Exploit | 0 | 0| 
-| 20210615T21:40:50Z | Null | https://github.com/justadoll/ChatWarsAutoExploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
