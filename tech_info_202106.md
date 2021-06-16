@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210616T12:40:35Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 60 | 21| 
 | 20210616T12:35:16Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9563 | 1555| 
 | 20210616T12:03:05Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210616T11:48:22Z | Null | https://github.com/EnchantedHoe/Exploit | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20210616T10:54:31Z | The whole collection of Exploits developed by me (Hacker5preme) | https://github.com/Hacker5preme/Exploits | 2 | 0| 
 | 20210616T10:33:31Z | Agent-Based Modelling of labour exploitation in textile supply chains | https://github.com/kwabenantim/textile-labour | 0 | 0| 
 | 20210616T10:26:37Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 485 | 95| 
-| 20210616T09:57:05Z | A collection of 350+ hacking tools you can install into termux for hacking, Pentesting, Mapping and more. In this tool you will get a total of 350+ hacking tools for you to install into termux/kali/windows/ubuntu, suitable for pentesters, bug hunting, exploitation, mapping, etc. You can install these tools by just typing the number it falls under. | https://github.com/SirManishKumar/MNSAllTools | 1 | 0| 
 
 
 # backdoor on Github 推荐
