@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210616T12:01:04Z | CVE-2021-21975 | VMWare-CVE-2021-21975 SSRF vulnerability | https://github.com/Vulnmachines/VMWare-CVE-2021-21975 | Server Side Request Forgery in vRealize Operations Manager API (CVE-2021-21975) prior to 8.4 may allow a malicious actor with network access to the vRealize Operations Manager API can perform a Server Side Request Forgery attack to steal administrative credentials.| 
 | 20210616T01:46:39Z | CVE-2021-3156 | Null | https://github.com/dock0d1/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 
 
@@ -66,12 +67,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210616T01:25:20Z | Null | https://github.com/rahmathzr/Fuzzy-Logic | 0 | 0| 
-| 20210616T01:02:24Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3545 | 826| 
-| 20210616T00:43:10Z | Null | https://github.com/leoliu0/fuzzypair | 0 | 0| 
-| 20210616T00:31:11Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 9 | 5| 
-| 20210616T00:05:45Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 889 | 92| 
-| 20210616T00:02:01Z | Hey babe, horny?  | https://github.com/AliceDeluxe148/fuzzy-potato | 0 | 0| 
+| 20210616T11:54:30Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
+| 20210616T11:35:35Z | A fork of AFL for fuzzing Windows binaries | https://github.com/googleprojectzero/winafl | 1687 | 431| 
+| 20210616T11:32:33Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
+| 20210616T11:24:27Z | Planning tool | https://github.com/HappyDustbunny/FuzzyFlexx | 1 | 0| 
+| 20210616T11:21:04Z | Ultra-efficient tool for DNA patterns and traits searching using FM-Index. | https://github.com/FaazAbidi/Fuzzy-DNA-Search | 1 | 0| 
+| 20210616T11:08:48Z | Pixel classification for segmentation of Remotely Sensed Images, using an Adaptive neuro fuzzy inference system (ANFIS). | https://github.com/andmon97/RemoteSensingFuzzySegment | 0 | 0| 
+| 20210616T10:41:32Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20210616T10:16:27Z | Null | https://github.com/AdaLogics/go-fuzz-headers | 2 | 1| 
+| 20210616T09:43:32Z | Fuzzy string matching, grouping, and evaluation.  | https://github.com/MaartenGr/PolyFuzz | 338 | 24| 
+| 20210616T09:35:02Z | 基于libfuzzer和Unicorn的黑盒模糊测试框架 | https://github.com/migraine-sudo/infinite-fuzzer | 1 | 0| 
 
 
 
