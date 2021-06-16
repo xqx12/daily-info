@@ -52,7 +52,6 @@
 | --- | --- | --- | --- | ---| 
 | 20210615T23:35:54Z | Its my First Completed Exploit I worked Hard on it hope you enjoy | https://github.com/Zipayy/NoobFire | 1 | 0| 
 | 20210615T23:26:48Z | A simple bash script that pulls a new version of Bash and recompiles within the shell. Great for testing privilege escalation exploits in Unix environments. | https://github.com/ITxTristan/bash-recompiler | 0 | 0| 
-| 20210615T23:02:58Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210615T22:35:00Z | Null | https://github.com/supercellgamer/Universal-Exploit-Hub | 0 | 0| 
 | 20210615T22:16:26Z | Null | https://github.com/omer-biz/basic_bin_exploit | 0 | 0| 
 | 20210615T21:51:30Z | An exploit that I found in Robloxs chat filter  | https://github.com/Radioactivebun0/Roblox_Swearing_Exploit | 0 | 0| 
@@ -60,6 +59,7 @@
 | 20210615T21:35:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9562 | 1556| 
 | 20210615T21:22:21Z | A list of fun things to do with DarkRP addons | https://github.com/OverlordAkise/darkrp-exploits | 0 | 0| 
 | 20210615T21:21:09Z | My Collection of exploits, reverse shells, scripts and more | https://github.com/nop-tech/Pentesting | 2 | 2| 
+| 20210615T20:35:22Z | X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter | https://github.com/Moham3dRiahi/XAttacker | 946 | 420| 
 
 
 # backdoor on Github 推荐
