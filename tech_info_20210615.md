@@ -51,7 +51,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20210615T23:35:54Z | Its my First Completed Exploit I worked Hard on it hope you enjoy | https://github.com/Zipayy/NoobFire | 1 | 0| 
-| 20210615T23:26:48Z | A simple bash script that pulls a new version of Bash and recompiles within the shell. Great for testing privilege escalation exploits in Unix environments. | https://github.com/ITxTristan/bash-recompiler | 0 | 0| 
 | 20210615T22:16:26Z | Null | https://github.com/omer-biz/basic_bin_exploit | 0 | 0| 
 | 20210615T21:51:30Z | An exploit that I found in Robloxs chat filter  | https://github.com/Radioactivebun0/Roblox_Swearing_Exploit | 0 | 0| 
 | 20210615T21:40:50Z | Null | https://github.com/justadoll/ChatWarsAutoExploit | 0 | 0| 
@@ -60,6 +59,7 @@
 | 20210615T21:21:09Z | My Collection of exploits, reverse shells, scripts and more | https://github.com/nop-tech/Pentesting | 2 | 2| 
 | 20210615T20:35:22Z | X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter | https://github.com/Moham3dRiahi/XAttacker | 946 | 420| 
 | 20210615T20:23:54Z | Null | https://github.com/nrb547/kernel-exploitation | 29 | 4| 
+| 20210615T20:23:30Z | My personal writeup for Nebula from Andrew Griffits Exploit Education | https://github.com/Hacker5preme/Nebula-Writeup | 0 | 0| 
 
 
 # backdoor on Github 推荐
