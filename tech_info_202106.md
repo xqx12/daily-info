@@ -116,9 +116,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210616T12:02:54Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210616T11:54:30Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
 | 20210616T11:35:35Z | A fork of AFL for fuzzing Windows binaries | https://github.com/googleprojectzero/winafl | 1687 | 431| 
-| 20210616T11:32:33Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210616T11:24:27Z | Planning tool | https://github.com/HappyDustbunny/FuzzyFlexx | 1 | 0| 
 | 20210616T11:21:04Z | Ultra-efficient tool for DNA patterns and traits searching using FM-Index. | https://github.com/FaazAbidi/Fuzzy-DNA-Search | 1 | 0| 
 | 20210616T11:08:48Z | Pixel classification for segmentation of Remotely Sensed Images, using an Adaptive neuro fuzzy inference system (ANFIS). | https://github.com/andmon97/RemoteSensingFuzzySegment | 0 | 0| 
