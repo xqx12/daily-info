@@ -20,7 +20,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210615T19:59:36Z | CVE-2021-3560 | a reliable C based exploit for CVE-2021-3560. | https://github.com/hakivvi/CVE-2021-3560 | 未查询到CVE信息| 
+| 20210615T19:59:36Z | CVE-2021-3560 | a reliable C based exploit for CVE-2021-3560. | https://github.com/hakivvi/CVE-2021-3560 | | 
 | 20210615T17:35:17Z | CVE-2020-24186 | wpDiscuz 7.0.4 Remote Code Execution | https://github.com/hevox/CVE-2020-24186-WordPress-wpDiscuz-7.0.4-RCE | A Remote Code Execution vulnerability exists in the gVectors wpDiscuz plugin 7.0 through 7.0.4 for WordPress, which allows unauthenticated users to upload any type of file, including PHP files via the wmuUploadFiles AJAX action.| 
 | 20210615T09:54:34Z | CVE-2020-8300 | Detect Citrix ADC SAML action or SAML iDP Profile config vulnerable to CVE-2020-8300 using Citrix ADC NITRO API | https://github.com/stuartcarroll/CitrixADC-CVE-2020-8300 | 未查询到CVE信息| 
 | 20210615T09:42:37Z | CVE-2021-33739 | Null | https://github.com/mavillon1/CVE-2021-33739-POC | Microsoft DWM Core Library Elevation of Privilege Vulnerability| 
@@ -71,7 +71,6 @@
 | 20210615T15:03:04Z | auth & backdoor removed | https://github.com/Not-Hax/melonhack-cracked | 6 | 0| 
 | 20210615T13:39:25Z | Other way to use an arduino to get access on a system. Watch out | https://github.com/Teckinfor/Arduino-AutoInstall-Backdoor | 1 | 0| 
 | 20210615T08:27:34Z | How to Create a Reverse Shell backdoor in Python | https://github.com/haytechwithbio/pythonbackdoor | 0 | 0| 
-| 20210615T03:01:30Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 249 | 43| 
 | 20210615T02:04:07Z | Backdoor Shell | https://github.com/kaitolegion/Backdoor | 3 | 5| 
 
 
