@@ -68,11 +68,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210617T01:26:48Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 288 | 38| 
-| 20210617T01:23:24Z | First Group Project | https://github.com/kamacasta/Fuzzy-Friend-Finder | 1 | 0| 
-| 20210617T01:14:23Z | Breakpoint-Assisted Rough Fuzzer | https://github.com/maride/barf | 0 | 0| 
-| 20210617T01:08:28Z | Null | https://github.com/zengxiaodiao/fuzzy-bassoon | 0 | 0| 
-| 20210617T00:11:43Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20210617T12:00:01Z | Null | https://github.com/erdifajarf/PMDK_FuzzyAHP | 0 | 0| 
+| 20210617T11:55:48Z | Null | https://github.com/Alvistor/Fuzzy-set-operation | 0 | 0| 
+| 20210617T11:37:36Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3553 | 829| 
+| 20210617T11:33:19Z | Null | https://github.com/Ankitha2026/Fuzzy-logic-task-2 | 0 | 0| 
+| 20210617T11:30:48Z | Extension for Burp Suite written in Python, useful for fuzzing | https://github.com/zeuscybersec/Burp_Fuzzing_Extension | 0 | 0| 
+| 20210617T11:21:47Z | Null | https://github.com/Ankitha2026/Fuzzy-logic-TASK2 | 0 | 0| 
+| 20210617T11:05:19Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
+| 20210617T11:04:08Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 312 | 20| 
+| 20210617T10:11:55Z | Design Patterns Grad Project | https://github.com/gmakhobe/fuzzy-happiness | 0 | 1| 
+| 20210617T10:00:01Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 891 | 92| 
 
 
 
