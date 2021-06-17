@@ -42,6 +42,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210617T12:17:31Z | php8.1.0 remote code execution | https://github.com/xansx/php8.1.0-exploit | 0 | 0| 
 | 20210617T12:02:54Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210617T12:02:42Z | A collection of links related to Linux kernel security and exploitation | https://github.com/xairy/linux-kernel-exploitation | 3504 | 775| 
 | 20210617T12:01:38Z | XSS reflector vulnerabilities exploitation extended. | https://github.com/duckstroms/xss-reflector | 7 | 2| 
@@ -51,7 +52,6 @@
 | 20210617T11:25:44Z | Discord Account Nuker/Destroyer | https://github.com/RudimentalHack/RudiNuker | 1 | 0| 
 | 20210617T11:18:47Z | Rxploit | https://github.com/BeyondDevy/Rxploit | 3 | 0| 
 | 20210617T10:45:36Z | Null | https://github.com/DK9510/web-app-exploitation | 0 | 0| 
-| 20210617T10:41:17Z | php8.1.0 remote code execution | https://github.com/xansx/php8.1.0-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -68,6 +68,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210617T12:15:15Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 9 | 5| 
 | 20210617T12:00:01Z | Null | https://github.com/erdifajarf/PMDK_FuzzyAHP | 0 | 0| 
 | 20210617T11:55:48Z | Null | https://github.com/Alvistor/Fuzzy-set-operation | 0 | 0| 
 | 20210617T11:37:36Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3553 | 829| 
@@ -77,7 +78,6 @@
 | 20210617T11:05:19Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
 | 20210617T11:04:08Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 312 | 20| 
 | 20210617T10:11:55Z | Design Patterns Grad Project | https://github.com/gmakhobe/fuzzy-happiness | 0 | 1| 
-| 20210617T10:00:01Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 891 | 92| 
 
 
 
