@@ -59,6 +59,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210617T12:27:51Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1154 | 551| 
 | 20210617T11:18:47Z | Rxploit | https://github.com/BeyondDevy/Rxploit | 3 | 0| 
 | 20210617T09:56:59Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 210 | 40| 
 | 20210617T06:11:40Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 249 | 43| 
@@ -70,16 +71,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210617T12:22:34Z | Null | https://github.com/SAUMITRA-afk/Determination-of-Heart-Disease-Based-on-Analysis-of-Patient-Statistics-using-the-Fuzzy-C-means-Clus | 0 | 0| 
+| 20210617T12:20:16Z | Concurrency property fuzzing tool for multicore OCaml programs | https://github.com/SumitPadhiyar/parafuzz | 0 | 0| 
 | 20210617T12:15:15Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 9 | 5| 
 | 20210617T12:00:01Z | Null | https://github.com/erdifajarf/PMDK_FuzzyAHP | 0 | 0| 
 | 20210617T11:55:48Z | Null | https://github.com/Alvistor/Fuzzy-set-operation | 0 | 0| 
-| 20210617T11:37:36Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3553 | 829| 
+| 20210617T11:37:36Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3553 | 830| 
 | 20210617T11:33:19Z | Null | https://github.com/Ankitha2026/Fuzzy-logic-task-2 | 0 | 0| 
 | 20210617T11:30:48Z | Extension for Burp Suite written in Python, useful for fuzzing | https://github.com/zeuscybersec/Burp_Fuzzing_Extension | 0 | 0| 
 | 20210617T11:21:47Z | Null | https://github.com/Ankitha2026/Fuzzy-logic-TASK2 | 0 | 0| 
 | 20210617T11:05:19Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
-| 20210617T11:04:08Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 312 | 20| 
-| 20210617T10:11:55Z | Design Patterns Grad Project | https://github.com/gmakhobe/fuzzy-happiness | 0 | 1| 
 
 
 
