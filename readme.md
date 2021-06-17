@@ -21,7 +21,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210617T08:31:57Z | CVE-2020-8300 | Detect Citrix ADC SAML action or SAML iDP Profile config vulnerable to CVE-2020-8300 using Citrix ADC NITRO API | https://github.com/stuartcarroll/CitrixADC-CVE-2020-8300 | Citrix ADC and Citrix/NetScaler Gateway before 13.0-82.41, 12.1-62.23, 11.1-65.20 and Citrix ADC 12.1-FIPS before 12.1-55.238 suffer from improper access control allowing SAML authentication hijack through a phishing attack to steal a valid user session. Note that Citrix ADC or Citrix Gateway must be configured as a SAML SP or a SAML IdP for this to be possible.| 
 | 20210617T08:00:19Z | CVE-2021-31159 | Zoho ManageEngine ServiceDesk Plus MSP - Active Directory User Enumeration (CVE-2021-31159) | https://github.com/ricardojoserf/CVE-2021-31159 | Zoho ManageEngine ServiceDesk Plus MSP before 10519 is vulnerable to a User Enumeration bug due to improper error-message generation in the Forgot Password functionality, aka SDPMSP-15732.| 
-| 20210617T00:52:05Z | 未知编号 | Null | https://github.com/KZMachine/CVERT_2021 | | 
+| 20210617T00:52:05Z | 未知编号 | Null | https://github.com/KZMachine/CVERT_2021 | 未查询到CVE信息| 
 | 20210617T00:33:25Z | 未知编号 | Null | https://github.com/KZMachine/CVERT-2021 | 未查询到CVE信息| 
 
 
@@ -44,7 +44,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210617T12:27:51Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1154 | 551| 
+| 20210617T12:32:44Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1155 | 552| 
 | 20210617T12:17:31Z | php8.1.0 remote code execution | https://github.com/xansx/php8.1.0-exploit | 0 | 0| 
 | 20210617T12:02:54Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210617T12:02:42Z | A collection of links related to Linux kernel security and exploitation | https://github.com/xairy/linux-kernel-exploitation | 3504 | 775| 
@@ -71,6 +71,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210617T12:34:25Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
+| 20210617T12:34:19Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 461 | 40| 
 | 20210617T12:22:34Z | Null | https://github.com/SAUMITRA-afk/Determination-of-Heart-Disease-Based-on-Analysis-of-Patient-Statistics-using-the-Fuzzy-C-means-Clus | 0 | 0| 
 | 20210617T12:20:16Z | Concurrency property fuzzing tool for multicore OCaml programs | https://github.com/SumitPadhiyar/parafuzz | 0 | 0| 
 | 20210617T12:15:15Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 9 | 5| 
@@ -79,8 +81,6 @@
 | 20210617T11:37:36Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3553 | 830| 
 | 20210617T11:33:19Z | Null | https://github.com/Ankitha2026/Fuzzy-logic-task-2 | 0 | 0| 
 | 20210617T11:30:48Z | Extension for Burp Suite written in Python, useful for fuzzing | https://github.com/zeuscybersec/Burp_Fuzzing_Extension | 0 | 0| 
-| 20210617T11:21:47Z | Null | https://github.com/Ankitha2026/Fuzzy-logic-TASK2 | 0 | 0| 
-| 20210617T11:05:19Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
 
 
 
