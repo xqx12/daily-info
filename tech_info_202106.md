@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210617T00:51:34Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 17 | 11| 
 | 20210617T00:45:58Z | Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins :arrow_up: :skull_and_crossbones: | https://github.com/liamg/traitor | 3177 | 175| 
 | 20210617T00:21:36Z | Null | https://github.com/supercellgamer/Universal-Exploit-Hub | 0 | 0| 
 | 20210617T00:17:31Z | Exploitation paths allowing you to (mis)use the Windows Privileges to elevate your rights within the OS. | https://github.com/gtworek/Priv2Admin | 482 | 95| 
@@ -95,7 +96,6 @@
 | 20210616T23:29:59Z | PoC for exploiting CVE-2017-7670 : The Traffic Router component of the incubating Apache Traffic Control project is vulnerable to a Slowloris style Denial of Service attack. TCP connections made on the configured DNS port will remain in the ESTABLISHED state until the client explicitly closes the connection or Traffic Router is restarted. If connections remain in the ESTABLISHED state indefinitely and accumulate in number to match the size of the thread pool dedicated to processing DNS requests, the thread pool becomes exhausted. Once the thread pool is exhausted, Traffic Router is unable to service any DNS request, regardless of transport protocol. | https://github.com/PwnCast/CVE-2017-7670 | 0 | 0| 
 | 20210616T23:29:52Z | PoC for exploiting CVE-2020-17522 : When ORT (now via atstccfg) generates ip_allow.config files in Apache Traffic Control 3.0.0 to 3.1.0 and 4.0.0 to 4.1.0, those files include permissions that allow bad actors to push arbitrary content into and remove arbitrary content from CDN cache servers. Additionally, these permissions are potentially extended to IP addresses outside the desired range, resulting in them being granted to clients possibly outside the CDN arcitechture. | https://github.com/PwnCast/CVE-2020-17522 | 0 | 0| 
 | 20210616T23:18:28Z | DarkWare is a roblox exploit hub. | https://github.com/Yarik312/DarkWare | 1 | 0| 
-| 20210616T23:04:44Z | Null | https://github.com/Zen-Hub-Exploits/Universal-Exploit-Hub | 0 | 0| 
 
 
 # backdoor on Github 推荐
