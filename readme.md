@@ -78,16 +78,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210616T12:15:18Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 9 | 5| 
-| 20210616T12:02:54Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
-| 20210616T11:54:30Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
-| 20210616T11:35:35Z | A fork of AFL for fuzzing Windows binaries | https://github.com/googleprojectzero/winafl | 1687 | 431| 
-| 20210616T11:24:27Z | Planning tool | https://github.com/HappyDustbunny/FuzzyFlexx | 1 | 0| 
-| 20210616T11:21:04Z | Ultra-efficient tool for DNA patterns and traits searching using FM-Index. | https://github.com/FaazAbidi/Fuzzy-DNA-Search | 1 | 0| 
-| 20210616T11:08:48Z | Pixel classification for segmentation of Remotely Sensed Images, using an Adaptive neuro fuzzy inference system (ANFIS). | https://github.com/andmon97/RemoteSensingFuzzySegment | 0 | 0| 
-| 20210616T10:41:32Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210616T10:16:27Z | Null | https://github.com/AdaLogics/go-fuzz-headers | 2 | 1| 
-| 20210616T09:43:32Z | Fuzzy string matching, grouping, and evaluation.  | https://github.com/MaartenGr/PolyFuzz | 338 | 24| 
+| 20210616T23:50:35Z | LN-fuzz: State Sequence Network Protocol Fuzzer | https://github.com/setsal/LN-fuzz | 4 | 0| 
+| 20210616T23:45:19Z | CBOR codec (in Go) with CBOR tags, Go struct tags (toarray/keyasint/omitempty), float64/32/16, big.Int, and fuzz tested billions of execs for reliable RFC 7049 & RFC 8949.  | https://github.com/fxamacker/cbor | 280 | 21| 
+| 20210616T23:34:17Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 650 | 120| 
+| 20210616T23:29:19Z | First Group Project | https://github.com/kamacasta/Fuzzy-Friend-Finder | 1 | 0| 
+| 20210616T23:21:19Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 891 | 92| 
+| 20210616T23:17:17Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 288 | 38| 
+| 20210616T23:06:54Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
+| 20210616T22:42:49Z | Fuzzy Inference Systems package | https://github.com/jdvelasq/fuzzy_toolbox | 0 | 0| 
+| 20210616T22:35:43Z | Fuzzer for the .NET toolchains, developed as a project for the 2018 Language-Based Security course at Aarhus University. | https://github.com/jakobbotsch/Fuzzlyn | 212 | 18| 
+| 20210616T22:03:43Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
 
 
 
