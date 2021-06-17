@@ -31,6 +31,9 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210617 | 基于API亲密度分析的安卓恶意软件检测系统 | https://mp.weixin.qq.com/s/HmSjFNnaG4VtuR1MR2QjQA| 
+| 20210617 | EXTRACTOR：从威胁报告中提取攻击行为信息 | https://mp.weixin.qq.com/s/Lm_yC0oD_BNiyA4E9TwX7A| 
+| 20210617 | JavaScript 常见 AST 梳理 | https://mp.weixin.qq.com/s/biQt6cw05-4G-gkJS9fGTQ| 
 | 20210616 | HT2114 Telnet 服务暴力破解 new | https://tools.xazlsec.com/index.php/HT2110/242.html| 
 | 20210616 | HT2111 SSH 服务暴力枚举 | https://tools.xazlsec.com/index.php/HT2110/231.html| 
 | 20210616 | HT1223 Go 版指纹识别工具 Webanalyze | https://tools.xazlsec.com/index.php/HT1220/215.html| 
@@ -38,39 +41,36 @@
 | 20210616 | HT1218 网络测绘系统利用 | https://tools.xazlsec.com/index.php/HT1210/203.html| 
 | 20210616 | HT1216 Nmap 端口扫描工具 | https://tools.xazlsec.com/index.php/HT1210/192.html| 
 | 20210616 | HT1213 脚本语言版端口扫描 | https://tools.xazlsec.com/index.php/HT1210/173.html| 
-| 20210616 | HT1211 常见端口及服务信息 | https://tools.xazlsec.com/index.php/HT1210/168.html| 
-| 20210616 | HT1161 Github 信息泄漏 | https://tools.xazlsec.com/index.php/HT1160/163.html| 
-| 20210616 | HT1152 Shodan 自动化利用 | https://tools.xazlsec.com/index.php/HT1150/158.html| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210617T08:31:57Z | CVE-2020-8300 | Detect Citrix ADC SAML action or SAML iDP Profile config vulnerable to CVE-2020-8300 using Citrix ADC NITRO API | https://github.com/stuartcarroll/CitrixADC-CVE-2020-8300 | Citrix ADC and Citrix/NetScaler Gateway before 13.0-82.41, 12.1-62.23, 11.1-65.20 and Citrix ADC 12.1-FIPS before 12.1-55.238 suffer from improper access control allowing SAML authentication hijack through a phishing attack to steal a valid user session. Note that Citrix ADC or Citrix Gateway must be configured as a SAML SP or a SAML IdP for this to be possible.| 
+| 20210617T08:00:19Z | CVE-2021-31159 | Zoho ManageEngine ServiceDesk Plus MSP - Active Directory User Enumeration (CVE-2021-31159) | https://github.com/ricardojoserf/CVE-2021-31159 | Zoho ManageEngine ServiceDesk Plus MSP before 10519 is vulnerable to a User Enumeration bug due to improper error-message generation in the Forgot Password functionality, aka SDPMSP-15732.| 
 | 20210617T00:52:05Z | 未知编号 | Null | https://github.com/KZMachine/CVERT_2021 | 未查询到CVE信息| 
 | 20210617T00:33:25Z | 未知编号 | Null | https://github.com/KZMachine/CVERT-2021 | 未查询到CVE信息| 
 | 20210616T23:29:52Z | CVE-2020-17522 | PoC for exploiting CVE-2020-17522 : When ORT (now via atstccfg) generates ip_allow.config files in Apache Traffic Control 3.0.0 to 3.1.0 and 4.0.0 to 4.1.0, those files include permissions that allow bad actors to push arbitrary content into and remove arbitrary content from CDN cache servers. Additionally, these permissions are potentially extended to IP addresses outside the desired range, resulting in them being granted to clients possibly outside the CDN arcitechture. | https://github.com/PwnCast/CVE-2020-17522 | When ORT (now via atstccfg) generates ip_allow.config files in Apache Traffic Control 3.0.0 to 3.1.0 and 4.0.0 to 4.1.0, those files include permissions that allow bad actors to push arbitrary content into and remove arbitrary content from CDN cache servers. Additionally, these permissions are potentially extended to IP addresses outside the desired range, resulting in them being granted to clients possibly outside the CDN arcitechture.| 
 | 20210616T17:03:54Z | CVE-2021-31166 | Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely. | https://github.com/0vercl0k/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
 | 20210616T14:36:12Z | CVE-2021-3560 | Null | https://github.com/secnigma/CVE-2021-3560-Polkit-Privilege-Esclation | 未查询到CVE信息| 
-| 20210616T12:01:04Z | CVE-2021-21975 | VMWare-CVE-2021-21975 SSRF vulnerability | https://github.com/Vulnmachines/VMWare-CVE-2021-21975 | Server Side Request Forgery in vRealize Operations Manager API (CVE-2021-21975) prior to 8.4 may allow a malicious actor with network access to the vRealize Operations Manager API can perform a Server Side Request Forgery attack to steal administrative credentials.| 
+| 20210616T12:01:04Z | CVE-2021-21975 | VMWare-CVE-2021-21975 SSRF vulnerability | https://github.com/Vulnmachines/VMWare-CVE-2021-21975 | | 
 | 20210616T01:46:39Z | CVE-2021-3156 | Null | https://github.com/dock0d1/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210615T19:59:36Z | CVE-2021-3560 | a reliable C based exploit for CVE-2021-3560. | https://github.com/hakivvi/CVE-2021-3560 | 未查询到CVE信息| 
-| 20210615T17:35:17Z | CVE-2020-24186 | wpDiscuz 7.0.4 Remote Code Execution | https://github.com/hevox/CVE-2020-24186-WordPress-wpDiscuz-7.0.4-RCE | A Remote Code Execution vulnerability exists in the gVectors wpDiscuz plugin 7.0 through 7.0.4 for WordPress, which allows unauthenticated users to upload any type of file, including PHP files via the wmuUploadFiles AJAX action.| 
-| 20210615T09:54:34Z | CVE-2020-8300 | Detect Citrix ADC SAML action or SAML iDP Profile config vulnerable to CVE-2020-8300 using Citrix ADC NITRO API | https://github.com/stuartcarroll/CitrixADC-CVE-2020-8300 | Citrix ADC and Citrix/NetScaler Gateway before 13.0-82.41, 12.1-62.23, 11.1-65.20 and Citrix ADC 12.1-FIPS before 12.1-55.238 suffer from improper access control allowing SAML authentication hijack through a phishing attack to steal a valid user session. Note that Citrix ADC or Citrix Gateway must be configured as a SAML SP or a SAML IdP for this to be possible.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210617T01:23:59Z | TInA is an automated, generic, verification-friendly and trustworthy lifting technique turning GNU-style inline assembly into semantically equivalent C code amenable to verification, in order to take advantage of existing C analyzers. | https://github.com/binsec/klee21-tina-artifact | 8 | 1| 
-| 20210616T16:32:03Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 149 | 14| 
+| 20210617T11:20:53Z | TInA is an automated, generic, verification-friendly and trustworthy lifting technique turning GNU-style inline assembly into semantically equivalent C code amenable to verification, in order to take advantage of existing C analyzers. | https://github.com/binsec/klee21-tina-artifact | 13 | 1| 
+| 20210617T11:14:16Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 150 | 14| 
+| 20210617T11:08:13Z | An opiniated Next TypeScript powered starter which include Klee, emotion / styled-system, framer motion, jest and Cypress | https://github.com/Liinkiing/next-ts-klee-starter | 0 | 0| 
+| 20210617T08:47:36Z | Null | https://github.com/davidtr1037/klee-symsize | 0 | 0| 
 | 20210616T09:37:17Z | TracerX Symbolic Virtual Machine | https://github.com/tracer-x/TracerX | 15 | 9| 
 | 20210615T23:49:52Z | Null | https://github.com/kleelab/kleelab.github.io | 0 | 0| 
 | 20210615T20:17:32Z | Null | https://github.com/JaimePSantos/ResearchKlee | 0 | 0| 
 | 20210615T18:27:48Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1713 | 495| 
 | 20210615T12:18:37Z | Null | https://github.com/yogaerasubakti/Klee_CustomCard | 0 | 0| 
 | 20210615T08:56:00Z | nothing | https://github.com/IzumiSagiris/klee | 1 | 0| 
-| 20210615T06:33:47Z | Null | https://github.com/fontworks-fonts/Klee | 460 | 13| 
-| 20210614T09:54:33Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 14 | 45| 
 
 
 # s2e on Github 推荐
@@ -86,16 +86,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210617T01:39:21Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 314 | 44| 
-| 20210617T01:34:47Z | Post exploitation tool for configuration management servers. | https://github.com/master-of-servers/mose | 68 | 15| 
-| 20210617T01:02:56Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
-| 20210617T00:51:34Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 17 | 11| 
-| 20210617T00:45:58Z | Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins :arrow_up: :skull_and_crossbones: | https://github.com/liamg/traitor | 3177 | 175| 
-| 20210617T00:21:36Z | Null | https://github.com/supercellgamer/Universal-Exploit-Hub | 0 | 0| 
-| 20210617T00:17:31Z | Exploitation paths allowing you to (mis)use the Windows Privileges to elevate your rights within the OS. | https://github.com/gtworek/Priv2Admin | 482 | 95| 
-| 20210616T23:54:34Z | php8.1.0 remote code execution | https://github.com/xansx/php8.1.0-exploit | 0 | 0| 
-| 20210616T23:49:23Z | GEF - GDB Enhanced Features for exploit devs & reversers | https://github.com/hugsy/gef | 3676 | 511| 
-| 20210616T23:29:59Z | PoC for exploiting CVE-2017-7670 : The Traffic Router component of the incubating Apache Traffic Control project is vulnerable to a Slowloris style Denial of Service attack. TCP connections made on the configured DNS port will remain in the ESTABLISHED state until the client explicitly closes the connection or Traffic Router is restarted. If connections remain in the ESTABLISHED state indefinitely and accumulate in number to match the size of the thread pool dedicated to processing DNS requests, the thread pool becomes exhausted. Once the thread pool is exhausted, Traffic Router is unable to service any DNS request, regardless of transport protocol. | https://github.com/PwnCast/CVE-2017-7670 | 0 | 0| 
+| 20210617T11:49:49Z | XSS reflector vulnerabilities exploitation extended. | https://github.com/duckstroms/xss-reflector | 6 | 2| 
+| 20210617T11:42:55Z | Microsoft » Windows 10 : Security Vulnerabilities | https://github.com/nu11secur1ty/Windows10Exploits | 332 | 95| 
+| 20210617T11:40:34Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7970 | 1402| 
+| 20210617T11:34:09Z | It have the book example code | https://github.com/dev-frog/Art_Of_Exploitation | 1 | 1| 
+| 20210617T11:25:44Z | Discord Account Nuker/Destroyer | https://github.com/RudimentalHack/RudiNuker | 1 | 0| 
+| 20210617T11:18:47Z | Rxploit | https://github.com/BeyondDevy/Rxploit | 3 | 0| 
+| 20210617T11:17:02Z | A collection of links related to Linux kernel security and exploitation | https://github.com/xairy/linux-kernel-exploitation | 3503 | 775| 
+| 20210617T11:02:59Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
+| 20210617T10:45:36Z | Null | https://github.com/DK9510/web-app-exploitation | 0 | 0| 
+| 20210617T10:41:17Z | php8.1.0 remote code execution | https://github.com/xansx/php8.1.0-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
