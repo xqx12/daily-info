@@ -20,7 +20,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210617T08:31:57Z | CVE-2020-8300 | Detect Citrix ADC SAML action or SAML iDP Profile config vulnerable to CVE-2020-8300 using Citrix ADC NITRO API | https://github.com/stuartcarroll/CitrixADC-CVE-2020-8300 | Citrix ADC and Citrix/NetScaler Gateway before 13.0-82.41, 12.1-62.23, 11.1-65.20 and Citrix ADC 12.1-FIPS before 12.1-55.238 suffer from improper access control allowing SAML authentication hijack through a phishing attack to steal a valid user session. Note that Citrix ADC or Citrix Gateway must be configured as a SAML SP or a SAML IdP for this to be possible.| 
-| 20210617T08:00:19Z | CVE-2021-31159 | Zoho ManageEngine ServiceDesk Plus MSP - Active Directory User Enumeration (CVE-2021-31159) | https://github.com/ricardojoserf/CVE-2021-31159 | | 
+| 20210617T08:00:19Z | CVE-2021-31159 | Zoho ManageEngine ServiceDesk Plus MSP - Active Directory User Enumeration (CVE-2021-31159) | https://github.com/ricardojoserf/CVE-2021-31159 | Zoho ManageEngine ServiceDesk Plus MSP before 10519 is vulnerable to a User Enumeration bug due to improper error-message generation in the Forgot Password functionality, aka SDPMSP-15732.| 
 | 20210617T00:52:05Z | 未知编号 | Null | https://github.com/KZMachine/CVERT_2021 | 未查询到CVE信息| 
 | 20210617T00:33:25Z | 未知编号 | Null | https://github.com/KZMachine/CVERT-2021 | 未查询到CVE信息| 
 
@@ -44,7 +44,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210617T12:38:59Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1155 | 552| 
+| 20210617T12:39:19Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1155 | 552| 
 | 20210617T12:38:57Z | XSS reflector vulnerabilities exploitation extended. | https://github.com/duckstroms/xss-reflector | 7 | 2| 
 | 20210617T12:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9566 | 1557| 
 | 20210617T12:17:31Z | php8.1.0 remote code execution | https://github.com/xansx/php8.1.0-exploit | 0 | 0| 
