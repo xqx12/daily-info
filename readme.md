@@ -44,6 +44,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210617T12:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9566 | 1557| 
 | 20210617T12:35:01Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1155 | 552| 
 | 20210617T12:17:31Z | php8.1.0 remote code execution | https://github.com/xansx/php8.1.0-exploit | 0 | 0| 
 | 20210617T12:02:54Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
@@ -53,13 +54,12 @@
 | 20210617T11:40:34Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7970 | 1402| 
 | 20210617T11:34:09Z | It have the book example code | https://github.com/dev-frog/Art_Of_Exploitation | 1 | 1| 
 | 20210617T11:25:44Z | Discord Account Nuker/Destroyer | https://github.com/RudimentalHack/RudiNuker | 1 | 0| 
-| 20210617T11:18:47Z | Rxploit | https://github.com/BeyondDevy/Rxploit | 3 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210617T12:27:51Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1154 | 551| 
+| 20210617T12:35:01Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1155 | 552| 
 | 20210617T11:18:47Z | Rxploit | https://github.com/BeyondDevy/Rxploit | 3 | 0| 
 | 20210617T09:56:59Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 210 | 40| 
 | 20210617T06:11:40Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 249 | 43| 
