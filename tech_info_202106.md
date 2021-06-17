@@ -116,7 +116,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210617T01:17:26Z | First Group Project | https://github.com/kamacasta/Fuzzy-Friend-Finder | 1 | 0| 
+| 20210617T01:23:24Z | First Group Project | https://github.com/kamacasta/Fuzzy-Friend-Finder | 1 | 0| 
 | 20210617T01:14:23Z | Breakpoint-Assisted Rough Fuzzer | https://github.com/maride/barf | 0 | 0| 
 | 20210617T01:08:28Z | Null | https://github.com/zengxiaodiao/fuzzy-bassoon | 0 | 0| 
 | 20210617T00:11:43Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
