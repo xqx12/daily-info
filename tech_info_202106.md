@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210618T00:51:35Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 17 | 11| 
 | 20210618T00:40:28Z | Null | https://github.com/in-exploit/in-exploit.github.io | 0 | 0| 
 | 20210618T00:02:59Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210617T23:49:00Z | Receive notifications/alerts on the most recent disclosed CVE%s.  | https://github.com/0x4meliorate/Epimetheus | 3 | 0| 
@@ -95,7 +96,6 @@
 | 20210617T21:36:46Z | CamRaptor is a tool that exploits several vulnerabilities in popular DVR cameras to obtain camera credentials. | https://github.com/EntySec/CamRaptor | 3 | 0| 
 | 20210617T21:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9565 | 1558| 
 | 20210617T21:34:43Z |  CamOver is a camera exploitation tool that allows to disclosure network camera admin password. | https://github.com/EntySec/CamOver | 3 | 2| 
-| 20210617T21:32:40Z | RomBuster is a router exploitation tool that allows to disclosure network router admin password. | https://github.com/EntySec/RomBuster | 10 | 1| 
 
 
 # backdoor on Github 推荐
