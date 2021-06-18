@@ -47,7 +47,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20210617T23:49:00Z | Receive notifications/alerts on the most recent disclosed CVE%s.  | https://github.com/0x4meliorate/Epimetheus | 3 | 0| 
-| 20210617T23:02:58Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210617T22:53:29Z | Null | https://github.com/RamPanic/CTF-Exploits | 0 | 0| 
 | 20210617T22:02:10Z | Indicateurs de l’état des ressources en eau souterraine sous l’effet du climat et de leur exploitation | https://github.com/cgq-qgc/pacc-inrs | 1 | 0| 
 | 20210617T21:51:46Z | AliGuard PHP WAF | https://github.com/alicangnll/phpwaf-phanalyzer | 8 | 5| 
@@ -56,6 +55,7 @@
 | 20210617T21:34:43Z |  CamOver is a camera exploitation tool that allows to disclosure network camera admin password. | https://github.com/EntySec/CamOver | 3 | 2| 
 | 20210617T21:32:40Z | RomBuster is a router exploitation tool that allows to disclosure network router admin password. | https://github.com/EntySec/RomBuster | 10 | 1| 
 | 20210617T21:12:54Z | Fix exploits on anarchy minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 42 | 11| 
+| 20210617T21:05:32Z | Labs to learn exploiting | https://github.com/aliakyurek/exploit_labs | 0 | 0| 
 
 
 # backdoor on Github 推荐
