@@ -19,6 +19,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210617T20:58:22Z | CVE-2020-27955 | Git-LFS RCE Test | https://github.com/FrostsaberX/CVE-2020-27955 | Git LFS 2.12.0 allows Remote Code Execution.| 
+| 20210617T14:16:36Z | CVE-2021-31166 | Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely. | https://github.com/0vercl0k/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
 | 20210617T08:31:57Z | CVE-2020-8300 | Detect Citrix ADC SAML action or SAML iDP Profile config vulnerable to CVE-2020-8300 using Citrix ADC NITRO API | https://github.com/stuartcarroll/CitrixADC-CVE-2020-8300 | Citrix ADC and Citrix/NetScaler Gateway before 13.0-82.41, 12.1-62.23, 11.1-65.20 and Citrix ADC 12.1-FIPS before 12.1-55.238 suffer from improper access control allowing SAML authentication hijack through a phishing attack to steal a valid user session. Note that Citrix ADC or Citrix Gateway must be configured as a SAML SP or a SAML IdP for this to be possible.| 
 | 20210617T08:00:19Z | CVE-2021-31159 | Zoho ManageEngine ServiceDesk Plus MSP - Active Directory User Enumeration (CVE-2021-31159) | https://github.com/ricardojoserf/CVE-2021-31159 | Zoho ManageEngine ServiceDesk Plus MSP before 10519 is vulnerable to a User Enumeration bug due to improper error-message generation in the Forgot Password functionality, aka SDPMSP-15732.| 
 | 20210617T00:52:05Z | 未知编号 | Null | https://github.com/KZMachine/CVERT_2021 | 未查询到CVE信息| 
@@ -28,11 +30,11 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210617T12:19:17Z | A RISC-V RV32 virtual prototype based on riscv-vp with symbolic execution support | https://github.com/agra-uni-bremen/symex-vp | 2 | 0| 
+| 20210617T20:17:51Z | An opiniated Next TypeScript powered starter which include Klee, emotion / styled-system, framer motion, jest and Cypress | https://github.com/Liinkiing/next-ts-klee-starter | 0 | 0| 
+| 20210617T18:47:36Z | TInA is an automated, generic, verification-friendly and trustworthy lifting technique turning GNU-style inline assembly into semantically equivalent C code amenable to verification, in order to take advantage of existing C analyzers. | https://github.com/binsec/klee21-tina-artifact | 17 | 1| 
+| 20210617T14:48:49Z | A RISC-V RV32 virtual prototype based on riscv-vp with symbolic execution support | https://github.com/agra-uni-bremen/symex-vp | 2 | 0| 
 | 20210617T12:19:12Z | A library for concolic execution of RV32 instruction set simulators | https://github.com/agra-uni-bremen/clover | 1 | 0| 
-| 20210617T11:20:53Z | TInA is an automated, generic, verification-friendly and trustworthy lifting technique turning GNU-style inline assembly into semantically equivalent C code amenable to verification, in order to take advantage of existing C analyzers. | https://github.com/binsec/klee21-tina-artifact | 13 | 1| 
 | 20210617T11:14:16Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 150 | 14| 
-| 20210617T11:08:13Z | An opiniated Next TypeScript powered starter which include Klee, emotion / styled-system, framer motion, jest and Cypress | https://github.com/Liinkiing/next-ts-klee-starter | 0 | 0| 
 | 20210617T08:47:36Z | Null | https://github.com/davidtr1037/klee-symsize | 0 | 0| 
 
 
@@ -44,28 +46,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210617T12:59:12Z | api s%inspirant du 5250/3270 utilisant NIM-LANG exploitation du terminal | https://github.com/AS400JPLPC/nim_termcurs | 3 | 0| 
-| 20210617T12:51:34Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 17 | 11| 
-| 20210617T12:48:15Z | 📈 A visualization of MetricQ data exploiting the advantages of the HTA db backend  | https://github.com/metricq/metricq-webview | 0 | 1| 
-| 20210617T12:43:01Z | XSS reflector vulnerabilities exploitation extended. | https://github.com/duckstroms/xss-reflector | 7 | 2| 
-| 20210617T12:39:19Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1155 | 552| 
-| 20210617T12:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9566 | 1557| 
-| 20210617T12:17:31Z | php8.1.0 remote code execution | https://github.com/xansx/php8.1.0-exploit | 0 | 0| 
-| 20210617T12:02:54Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
-| 20210617T12:02:42Z | A collection of links related to Linux kernel security and exploitation | https://github.com/xairy/linux-kernel-exploitation | 3504 | 775| 
-| 20210617T11:42:55Z | Microsoft » Windows 10 : Security Vulnerabilities | https://github.com/nu11secur1ty/Windows10Exploits | 332 | 95| 
+| 20210617T23:49:00Z | Receive notifications/alerts on the most recent disclosed CVE%s.  | https://github.com/0x4meliorate/Epimetheus | 3 | 0| 
+| 20210617T23:02:58Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
+| 20210617T22:53:29Z | Null | https://github.com/RamPanic/CTF-Exploits | 0 | 0| 
+| 20210617T22:02:10Z | Indicateurs de l’état des ressources en eau souterraine sous l’effet du climat et de leur exploitation | https://github.com/cgq-qgc/pacc-inrs | 1 | 0| 
+| 20210617T21:51:46Z | AliGuard PHP WAF | https://github.com/alicangnll/phpwaf-phanalyzer | 8 | 5| 
+| 20210617T21:36:46Z | CamRaptor is a tool that exploits several vulnerabilities in popular DVR cameras to obtain camera credentials. | https://github.com/EntySec/CamRaptor | 3 | 0| 
+| 20210617T21:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9565 | 1558| 
+| 20210617T21:34:43Z |  CamOver is a camera exploitation tool that allows to disclosure network camera admin password. | https://github.com/EntySec/CamOver | 3 | 2| 
+| 20210617T21:32:40Z | RomBuster is a router exploitation tool that allows to disclosure network router admin password. | https://github.com/EntySec/RomBuster | 10 | 1| 
+| 20210617T21:12:54Z | Fix exploits on anarchy minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 42 | 11| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210617T12:39:19Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1155 | 552| 
+| 20210617T20:48:27Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1157 | 552| 
+| 20210617T20:18:09Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 250 | 43| 
+| 20210617T18:53:10Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 210 | 40| 
+| 20210617T18:52:09Z | PHP Backdoor is a web-based application that allows to execute terminal commands on a server directly from a browser. | https://github.com/psyll/PHP-Backdoor | 1 | 0| 
+| 20210617T17:54:52Z | Null | https://github.com/backdoor322/backdoor322github.io | 0 | 0| 
+| 20210617T17:27:17Z | Herramienta de ingeniería social (Creador de puerta trasera con Reverse Shell para Windows/Android) con Ngrok. | https://github.com/m4lal0/backdoorPhish | 0 | 0| 
+| 20210617T17:09:05Z | Implementation of a native-code HatSploit membrane for unix-like systems, designed for portability, embeddability, and low resource utilization. | https://github.com/EntySec/membrane | 3 | 1| 
 | 20210617T11:18:47Z | Rxploit | https://github.com/BeyondDevy/Rxploit | 3 | 0| 
-| 20210617T09:56:59Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 210 | 40| 
-| 20210617T06:11:40Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 249 | 43| 
 | 20210617T04:58:10Z | Null | https://github.com/MatthewTalbot/Backdoor | 0 | 0| 
 | 20210617T04:22:03Z | A Proof of Concept automated backdoor injection tool | https://github.com/tserafin/BackdoorPE | 0 | 0| 
-| 20210617T01:37:46Z | Text-based adventure based on Black Hills Information Security%s %Backdoors and Breaches% | https://github.com/mttaggart/bnb-py | 2 | 0| 
 
 
 # fuzz on Github 推荐
