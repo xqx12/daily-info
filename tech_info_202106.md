@@ -86,31 +86,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210618T01:03:07Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
-| 20210618T01:00:08Z | Null | https://github.com/wjddnjs33/Exploit | 0 | 0| 
-| 20210618T00:51:35Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 17 | 11| 
-| 20210618T00:40:28Z | Null | https://github.com/in-exploit/in-exploit.github.io | 0 | 0| 
-| 20210617T23:49:00Z | Receive notifications/alerts on the most recent disclosed CVE%s.  | https://github.com/0x4meliorate/Epimetheus | 3 | 0| 
-| 20210617T22:53:29Z | Null | https://github.com/RamPanic/CTF-Exploits | 0 | 0| 
-| 20210617T22:02:10Z | Indicateurs de l’état des ressources en eau souterraine sous l’effet du climat et de leur exploitation | https://github.com/cgq-qgc/pacc-inrs | 1 | 0| 
-| 20210617T21:51:46Z | AliGuard PHP WAF | https://github.com/alicangnll/phpwaf-phanalyzer | 8 | 5| 
-| 20210617T21:36:46Z | CamRaptor is a tool that exploits several vulnerabilities in popular DVR cameras to obtain camera credentials. | https://github.com/EntySec/CamRaptor | 3 | 0| 
-| 20210617T21:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9565 | 1558| 
+| 20210618T12:02:57Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
+| 20210618T12:01:48Z | Some scripts to exploit my vulnerable web app | https://github.com/kitty14956590/vuln-webapp-scripts | 1 | 0| 
+| 20210618T11:50:47Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
+| 20210618T11:38:07Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 3742 | 544| 
+| 20210618T11:37:24Z | CamRaptor is a tool that exploits several vulnerabilities in popular DVR cameras to obtain camera credentials. | https://github.com/EntySec/CamRaptor | 3 | 0| 
+| 20210618T10:59:52Z | Container (Docker) escape exploits | https://github.com/duowen1/Container-escape-exps | 0 | 0| 
+| 20210618T10:54:05Z | Labs to learn exploiting | https://github.com/aliakyurek/exploit_labs | 0 | 0| 
+| 20210618T10:46:40Z | IRC EXPLOITS | https://github.com/DrummingAway/irc | 0 | 0| 
+| 20210618T10:46:34Z | A python tool to analyze and exploiting ELF Binaries | https://github.com/vital-information-resource-under-siege/pyELFer | 2 | 1| 
+| 20210618T10:43:03Z | If u betray me and get my shit, no problem, imma leak it. | https://github.com/McIvanX/No-Animation-Exploit-Fortnite-Cheat-Internal-Source | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210618T11:07:38Z | a C++ backdoor using telegram bot as a C2 | https://github.com/kensh1ro/NativeTeleBackdoor | 0 | 0| 
+| 20210618T10:44:55Z | SCP:SL simple server side backdoor | https://github.com/ggpabuk/ExiledBackdoor | 0 | 0| 
+| 20210618T10:09:22Z | a simple backdoor in Nim | https://github.com/kensh1ro/NimTeleBackdoor | 10 | 1| 
+| 20210618T07:37:03Z | shell backdoor buat peretas website, di jamin tembus di segala perang :) , sudah di test di beberapa  website bahkan server windows sekalipun rasanya ANJING BANGET | https://github.com/beruangsalju/shell | 0 | 3| 
+| 20210618T03:50:13Z | Null | https://github.com/backdoor322/backdoor322github.io | 0 | 0| 
+| 20210618T03:34:30Z | Null | https://github.com/diyalo-code/OwnReverseBackdoor | 0 | 0| 
 | 20210618T00:17:32Z | Shell Backdoor Fron Noilesha | https://github.com/Noilesha/Noiesha-Backdoor | 0 | 0| 
-| 20210617T20:48:27Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1157 | 552| 
+| 20210617T20:48:27Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1157 | 551| 
 | 20210617T20:18:09Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 250 | 43| 
 | 20210617T18:53:10Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 210 | 40| 
-| 20210617T18:52:09Z | PHP Backdoor is a web-based application that allows to execute terminal commands on a server directly from a browser. | https://github.com/psyll/PHP-Backdoor | 1 | 0| 
-| 20210617T17:54:52Z | Null | https://github.com/backdoor322/backdoor322github.io | 0 | 0| 
-| 20210617T17:27:17Z | Herramienta de ingeniería social (Creador de puerta trasera con Reverse Shell para Windows/Android) con Ngrok. | https://github.com/m4lal0/backdoorPhish | 0 | 0| 
-| 20210617T17:09:05Z | Implementation of a native-code HatSploit membrane for unix-like systems, designed for portability, embeddability, and low resource utilization. | https://github.com/EntySec/membrane | 3 | 1| 
-| 20210617T11:18:47Z | Rxploit | https://github.com/BeyondDevy/Rxploit | 3 | 0| 
-| 20210617T04:58:10Z | Null | https://github.com/MatthewTalbot/Backdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐
