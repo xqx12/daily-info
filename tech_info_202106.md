@@ -86,7 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210618T00:54:30Z | Null | https://github.com/wjddnjs33/Exploit | 0 | 0| 
+| 20210618T00:54:44Z | Null | https://github.com/wjddnjs33/Exploit | 0 | 0| 
 | 20210618T00:51:35Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 17 | 11| 
 | 20210618T00:40:28Z | Null | https://github.com/in-exploit/in-exploit.github.io | 0 | 0| 
 | 20210618T00:02:59Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
