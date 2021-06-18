@@ -20,7 +20,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210617T20:58:22Z | CVE-2020-27955 | Git-LFS RCE Test | https://github.com/FrostsaberX/CVE-2020-27955 | Git LFS 2.12.0 allows Remote Code Execution.| 
-| 20210617T14:16:36Z | CVE-2021-31166 | Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely. | https://github.com/0vercl0k/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
+| 20210617T14:16:36Z | CVE-2021-31166 | Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely. | https://github.com/0vercl0k/CVE-2021-31166 | | 
 | 20210617T08:31:57Z | CVE-2020-8300 | Detect Citrix ADC SAML action or SAML iDP Profile config vulnerable to CVE-2020-8300 using Citrix ADC NITRO API | https://github.com/stuartcarroll/CitrixADC-CVE-2020-8300 | Citrix ADC and Citrix/NetScaler Gateway before 13.0-82.41, 12.1-62.23, 11.1-65.20 and Citrix ADC 12.1-FIPS before 12.1-55.238 suffer from improper access control allowing SAML authentication hijack through a phishing attack to steal a valid user session. Note that Citrix ADC or Citrix Gateway must be configured as a SAML SP or a SAML IdP for this to be possible.| 
 | 20210617T08:00:19Z | CVE-2021-31159 | Zoho ManageEngine ServiceDesk Plus MSP - Active Directory User Enumeration (CVE-2021-31159) | https://github.com/ricardojoserf/CVE-2021-31159 | Zoho ManageEngine ServiceDesk Plus MSP before 10519 is vulnerable to a User Enumeration bug due to improper error-message generation in the Forgot Password functionality, aka SDPMSP-15732.| 
 | 20210617T00:52:05Z | 未知编号 | Null | https://github.com/KZMachine/CVERT_2021 | 未查询到CVE信息| 
@@ -76,16 +76,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210617T12:34:25Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
-| 20210617T12:34:19Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 461 | 40| 
-| 20210617T12:22:34Z | Null | https://github.com/SAUMITRA-afk/Determination-of-Heart-Disease-Based-on-Analysis-of-Patient-Statistics-using-the-Fuzzy-C-means-Clus | 0 | 0| 
-| 20210617T12:20:16Z | Concurrency property fuzzing tool for multicore OCaml programs | https://github.com/SumitPadhiyar/parafuzz | 0 | 0| 
-| 20210617T12:15:15Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 9 | 5| 
-| 20210617T12:00:01Z | Null | https://github.com/erdifajarf/PMDK_FuzzyAHP | 0 | 0| 
-| 20210617T11:55:48Z | Null | https://github.com/Alvistor/Fuzzy-set-operation | 0 | 0| 
-| 20210617T11:37:36Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3553 | 830| 
-| 20210617T11:33:19Z | Null | https://github.com/Ankitha2026/Fuzzy-logic-task-2 | 0 | 0| 
-| 20210617T11:30:48Z | Extension for Burp Suite written in Python, useful for fuzzing | https://github.com/zeuscybersec/Burp_Fuzzing_Extension | 0 | 0| 
+| 20210617T23:37:32Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20210617T23:35:23Z | SSL and TLS protocol test suite and fuzzer | https://github.com/tlsfuzzer/tlsfuzzer | 383 | 89| 
+| 20210617T23:12:34Z | 99minutos coverage maps | https://github.com/99minutos/fuzzy-journey | 0 | 0| 
+| 20210617T22:31:31Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
+| 20210617T22:25:30Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 288 | 38| 
+| 20210617T22:02:43Z | Bazel Starlark extensions for defining fuzz tests in Bazel projects | https://github.com/bazelbuild/rules_fuzzing | 36 | 8| 
+| 20210617T21:54:51Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2344 | 130| 
+| 20210617T21:32:51Z | Fuzzy TS optimisation based on genetic algorithm | https://github.com/jairpaulino/fuzzy-ts-opt | 0 | 0| 
+| 20210617T21:17:14Z | Null | https://github.com/GuilhermeBuenoMartins/sistemas-de-inferencia-fuzzy | 0 | 2| 
+| 20210617T21:11:11Z | Null | https://github.com/frightempire/FuzzyExpert | 1 | 0| 
 
 
 
