@@ -76,7 +76,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210617T23:37:32Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210617T23:35:23Z | SSL and TLS protocol test suite and fuzzer | https://github.com/tlsfuzzer/tlsfuzzer | 383 | 89| 
 | 20210617T23:12:34Z | 99minutos coverage maps | https://github.com/99minutos/fuzzy-journey | 0 | 0| 
 | 20210617T22:31:31Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
@@ -86,6 +85,7 @@
 | 20210617T21:32:51Z | Fuzzy TS optimisation based on genetic algorithm | https://github.com/jairpaulino/fuzzy-ts-opt | 0 | 0| 
 | 20210617T21:17:14Z | Null | https://github.com/GuilhermeBuenoMartins/sistemas-de-inferencia-fuzzy | 0 | 2| 
 | 20210617T21:11:11Z | Null | https://github.com/frightempire/FuzzyExpert | 1 | 0| 
+| 20210617T20:40:13Z | Fuzzer for LP models in MPS | https://github.com/elefthei/lp-fuzzer | 0 | 0| 
 
 
 

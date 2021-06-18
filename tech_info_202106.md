@@ -116,10 +116,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210618T01:41:55Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210618T00:23:39Z | It%s like WOfS, only less certain. Or is it more? | https://github.com/GeoscienceAustralia/fuzzy_wofs | 2 | 1| 
 | 20210618T00:22:24Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 891 | 92| 
 | 20210618T00:05:17Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 9 | 5| 
-| 20210617T23:37:32Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210617T23:35:23Z | SSL and TLS protocol test suite and fuzzer | https://github.com/tlsfuzzer/tlsfuzzer | 383 | 89| 
 | 20210617T23:12:34Z | 99minutos coverage maps | https://github.com/99minutos/fuzzy-journey | 0 | 0| 
 | 20210617T22:31:31Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
