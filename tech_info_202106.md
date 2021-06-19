@@ -117,7 +117,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210619T01:00:34Z | Hein | https://github.com/Hughein/fuzzy-fortnight | 0 | 0| 
+| 20210619T01:19:09Z | Hein | https://github.com/Hughein/fuzzy-fortnight | 0 | 0| 
+| 20210619T01:16:25Z | These tests of libdwarf/dwarfdump include old object files, new ones, and many fuzzed object files. These are the definitive tests that things work.. Most people have no reason to run these tests. | https://github.com/davea42/libdwarf-regressiontests | 0 | 0| 
 | 20210619T00:59:48Z | Fuzzy Expert Systems in Python | https://github.com/jdvelasq/fuzzy-expert | 0 | 0| 
 | 20210619T00:32:32Z | Null | https://github.com/FormulaT/fuzzy-train | 0 | 0| 
 | 20210619T00:28:22Z | Null | https://github.com/opimentel-github/fuzzy-torch | 1 | 0| 
@@ -126,7 +127,6 @@
 | 20210618T23:53:33Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6384 | 1300| 
 | 20210618T23:21:52Z | Null | https://github.com/alfianhid/Plotting-Fuzzy-Logic-Graph-with-Python | 0 | 0| 
 | 20210618T23:17:24Z | 🤖 Repeat tests. Repeat tests. Repeat tests. | https://github.com/ehmicky/test-each | 92 | 2| 
-| 20210618T23:10:33Z | Fuzzy charrs are fuzzy. | https://github.com/marenubium87/FuzzyCharr | 0 | 0| 
 
 
 
