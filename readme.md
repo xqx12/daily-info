@@ -37,8 +37,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210619T12:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9569 | 1558| 
+| 20210619T12:35:07Z | Null | https://github.com/dishant9510/exploiting- | 0 | 0| 
 | 20210619T12:29:28Z | Scripts (ServerSide and FE) | https://github.com/0WNEDU/Roblox-Misc-Scripts-Exploits | 0 | 0| 
-| 20210619T12:25:57Z | Null | https://github.com/dishant9510/exploiting- | 0 | 0| 
 | 20210619T12:21:16Z | Null | https://github.com/MoryokaV/Activity-Exploit | 0 | 0| 
 | 20210619T12:20:15Z | An experimental debt system for me and my friends, exploiting git requests for financial safety and gits history for trust | https://github.com/psorus/git-pay | 0 | 2| 
 | 20210619T12:17:49Z | CTFs and solutions for Linux binary exploitation. | https://github.com/MaherAzzouzi/LinuxExploitation | 40 | 16| 
@@ -46,7 +47,6 @@
 | 20210619T11:58:10Z | This app is an advanced XSS panel, this is used for session grabbing with XSS exploit and <img src=%grabber_url%> | https://github.com/inplex-sys/cookies-sniffer | 1 | 0| 
 | 20210619T11:57:48Z | Tips for manually detect & exploit SQL injection Vulnerability : MySQL | https://github.com/rinku191/MySQL-SQL-Injection-Cheatsheet | 0 | 0| 
 | 20210619T11:46:51Z | Fix exploits on anarchy minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 44 | 11| 
-| 20210619T11:46:43Z | Null | https://github.com/dishant9510/exploit2 | 0 | 0| 
 
 
 # backdoor on Github 推荐
