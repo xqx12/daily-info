@@ -60,7 +60,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210619T12:49:21Z | Fuzzy Expert Systems in Python | https://github.com/jdvelasq/fuzzy-expert | 0 | 0| 
+| 20210619T12:52:29Z | Fuzzy Expert Systems in Python | https://github.com/jdvelasq/fuzzy-expert | 0 | 0| 
 | 20210619T12:45:27Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
 | 20210619T12:34:01Z | Null | https://github.com/Uelayebausb/fuzzy-octo-carnival | 0 | 0| 
 | 20210619T12:15:14Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 9 | 5| 
