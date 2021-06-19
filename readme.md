@@ -60,6 +60,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210619T12:15:14Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 9 | 5| 
 | 20210619T11:44:42Z | Null | https://github.com/Uelayebausb/fuzzy-octo-carnival | 0 | 0| 
 | 20210619T11:35:27Z | Null | https://github.com/TXGAPOORV/fuzzy-octo-waddle | 0 | 0| 
 | 20210619T11:33:05Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
@@ -69,7 +70,6 @@
 | 20210619T10:34:04Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6386 | 1301| 
 | 20210619T10:23:04Z | This tool uses fzf(1)-like fuzzy-finder to do partial or fuzzy search of Kubernetes resources. Instead of specifying full resource names to kubectl commands, you can choose them from an interactive list that you can filter by typing a few characters. | https://github.com/d-kuro/kubectl-fuzzy | 86 | 10| 
 | 20210619T10:07:56Z | DOM fuzzer | https://github.com/mevid93/domzzer | 0 | 0| 
-| 20210619T09:34:28Z | Fuzzing with the generated argument | https://github.com/zodf0055980/Yuan-fuzz | 14 | 2| 
 
 
 
