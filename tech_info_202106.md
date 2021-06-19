@@ -87,7 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210619T01:54:01Z | ps4h3x.xyz Trainer | https://github.com/PS4H3X-xyz/Trainer | 0 | 0| 
+| 20210619T01:56:11Z | ps4h3x.xyz Trainer | https://github.com/PS4H3X-xyz/Trainer | 0 | 0| 
 | 20210619T01:46:48Z | Null | https://github.com/yuvaly0/exploits | 2 | 0| 
 | 20210619T01:39:22Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 315 | 45| 
 | 20210619T01:13:30Z | buffer overflow exploit for vulnserver, feel free to use. | https://github.com/injectmymalware/vulnserverexploit | 0 | 0| 
@@ -117,6 +117,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210619T01:58:13Z | A fuzzy ecosystem for evaluating the stability of your computational tools. | https://github.com/verificarlo/fuzzy | 10 | 11| 
+| 20210619T01:56:46Z | Fuzzing for Quiwi https://github.com/goburrow/quic | https://github.com/goburrow/quic-fuzz | 0 | 0| 
 | 20210619T01:19:09Z | Hein | https://github.com/Hughein/fuzzy-fortnight | 0 | 0| 
 | 20210619T01:16:25Z | These tests of libdwarf/dwarfdump include old object files, new ones, and many fuzzed object files. These are the definitive tests that things work.. Most people have no reason to run these tests. | https://github.com/davea42/libdwarf-regressiontests | 0 | 0| 
 | 20210619T00:59:48Z | Fuzzy Expert Systems in Python | https://github.com/jdvelasq/fuzzy-expert | 0 | 0| 
@@ -125,8 +127,6 @@
 | 20210619T00:19:21Z | 渗透测试路径字典，爆破字典。内容来自互联网和实战积累。 | https://github.com/cpkkcb/fuzzDicts | 93 | 43| 
 | 20210619T00:12:22Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210618T23:53:33Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6384 | 1300| 
-| 20210618T23:21:52Z | Null | https://github.com/alfianhid/Plotting-Fuzzy-Logic-Graph-with-Python | 0 | 0| 
-| 20210618T23:17:24Z | 🤖 Repeat tests. Repeat tests. Repeat tests. | https://github.com/ehmicky/test-each | 92 | 2| 
 
 
 
