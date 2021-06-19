@@ -37,6 +37,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210619T12:50:32Z | Null | https://github.com/nrb547/kernel-exploitation | 30 | 4| 
 | 20210619T12:42:17Z | Null | https://github.com/dishant9510/exploiting- | 0 | 0| 
 | 20210619T12:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9569 | 1558| 
 | 20210619T12:29:28Z | Scripts (ServerSide and FE) | https://github.com/0WNEDU/Roblox-Misc-Scripts-Exploits | 0 | 0| 
@@ -46,7 +47,6 @@
 | 20210619T12:02:52Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210619T11:58:10Z | This app is an advanced XSS panel, this is used for session grabbing with XSS exploit and <img src=%grabber_url%> | https://github.com/inplex-sys/cookies-sniffer | 1 | 0| 
 | 20210619T11:57:48Z | Tips for manually detect & exploit SQL injection Vulnerability : MySQL | https://github.com/rinku191/MySQL-SQL-Injection-Cheatsheet | 0 | 0| 
-| 20210619T11:46:51Z | Fix exploits on anarchy minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 44 | 11| 
 
 
 # backdoor on Github 推荐
@@ -60,6 +60,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210619T12:49:21Z | Fuzzy Expert Systems in Python | https://github.com/jdvelasq/fuzzy-expert | 0 | 0| 
+| 20210619T12:45:27Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
 | 20210619T12:34:01Z | Null | https://github.com/Uelayebausb/fuzzy-octo-carnival | 0 | 0| 
 | 20210619T12:15:14Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 9 | 5| 
 | 20210619T11:35:27Z | Null | https://github.com/TXGAPOORV/fuzzy-octo-waddle | 0 | 0| 
@@ -68,8 +70,6 @@
 | 20210619T10:51:18Z | Null | https://github.com/dstathakos/fuzzy-goggles | 0 | 0| 
 | 20210619T10:44:11Z | Null | https://github.com/fuzzsa/fuzzsa-bugs | 0 | 1| 
 | 20210619T10:34:04Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6386 | 1301| 
-| 20210619T10:23:04Z | This tool uses fzf(1)-like fuzzy-finder to do partial or fuzzy search of Kubernetes resources. Instead of specifying full resource names to kubectl commands, you can choose them from an interactive list that you can filter by typing a few characters. | https://github.com/d-kuro/kubectl-fuzzy | 86 | 10| 
-| 20210619T10:07:56Z | DOM fuzzer | https://github.com/mevid93/domzzer | 0 | 0| 
 
 
 
