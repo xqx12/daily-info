@@ -17,7 +17,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210619T09:20:07Z | CVE-2020-7247 | PoC exploit for CVE-2020-7247 OpenSMTPD 6.4.0 < 6.6.1 Remote Code Execution | https://github.com/f4T1H21/CVE-2020-7247 | smtp_mailaddr in smtp_session.c in OpenSMTPD 6.6, as used in OpenBSD 6.6 and other products, allows remote attackers to execute arbitrary commands as root via a crafted SMTP session, as demonstrated by shell metacharacters in a MAIL FROM field. This affects the %uncommented% default configuration. The issue exists because of an incorrect return value upon failure of input validation.| 
+| 20210619T09:20:07Z | CVE-2020-7247 | PoC exploit for CVE-2020-7247 OpenSMTPD 6.4.0 < 6.6.1 Remote Code Execution | https://github.com/f4T1H21/CVE-2020-7247 | | 
 
 
 # klee on Github 推荐
@@ -37,7 +37,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210619T12:36:19Z | Null | https://github.com/dishant9510/exploiting- | 0 | 0| 
+| 20210619T12:42:17Z | Null | https://github.com/dishant9510/exploiting- | 0 | 0| 
 | 20210619T12:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9569 | 1558| 
 | 20210619T12:29:28Z | Scripts (ServerSide and FE) | https://github.com/0WNEDU/Roblox-Misc-Scripts-Exploits | 0 | 0| 
 | 20210619T12:21:16Z | Null | https://github.com/MoryokaV/Activity-Exploit | 0 | 0| 
@@ -60,8 +60,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210619T12:34:01Z | Null | https://github.com/Uelayebausb/fuzzy-octo-carnival | 0 | 0| 
 | 20210619T12:15:14Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 9 | 5| 
-| 20210619T11:44:42Z | Null | https://github.com/Uelayebausb/fuzzy-octo-carnival | 0 | 0| 
 | 20210619T11:35:27Z | Null | https://github.com/TXGAPOORV/fuzzy-octo-waddle | 0 | 0| 
 | 20210619T11:33:05Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210619T11:16:47Z | Emulation based snapshot fuzzer | https://github.com/jaoeul/gingersnap | 0 | 0| 
