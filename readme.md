@@ -37,6 +37,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210619T12:21:16Z | Null | https://github.com/MoryokaV/Activity-Exploit | 0 | 0| 
 | 20210619T12:20:15Z | An experimental debt system for me and my friends, exploiting git requests for financial safety and gits history for trust | https://github.com/psorus/git-pay | 0 | 2| 
 | 20210619T12:20:08Z | Null | https://github.com/dishant9510/exploiting- | 0 | 0| 
 | 20210619T12:17:49Z | CTFs and solutions for Linux binary exploitation. | https://github.com/MaherAzzouzi/LinuxExploitation | 40 | 16| 
@@ -46,7 +47,6 @@
 | 20210619T11:46:51Z | Fix exploits on anarchy minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 44 | 11| 
 | 20210619T11:46:43Z | Null | https://github.com/dishant9510/exploit2 | 0 | 0| 
 | 20210619T11:34:59Z | Linux Privilege Escalation Resourses. Aswin Govind Aswin Govind Sep 8·1 min read    Linux Privilege Escalation tactics and techniques Resourses designed to help you improve your privilege escalation game. Links and Resourses: Enjoy 😃 https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/ https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Linux%20-%20Privilege%20Escalation.md list of Unix binaries https://gtfobins.github.io/ https://book.hacktricks.xyz/linux-unix/privilege-escalation https://sushant747.gitbooks.io/total-oscp-guide/content/privilege_escalation_-_linux.html LD_Preload https://www.hackingarticles.in/linux-privilege-escalation-using-ld_preload/ Spawn Shell https://netsec.ws/?p=337 Tools LinPEAS https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/linPEAS LinEnum https://github.com/rebootuser/LinEnum Linux-Exploit-Suggester https://github.com/mzet-/linux-exploit-suggester Linux-Priv-Checker https://github.com/sleventyeleven/linuxprivchecker Exploits https://www.exploit-db.com/ Machines https://tryhackme.com/room/vulnversity https://tryhackme.com/room/cmess https://tryhackme.com/room/lazyadmin https://tryhackme.com/room/anonymous https://tryhackme.com/room/tomghost https://tryhackme.com/room/convertmyvideo Thank You. | https://github.com/azwisec/linuxpriv | 2 | 0| 
-| 20210619T10:50:07Z | A python tool to analyze and exploiting ELF Binaries | https://github.com/vital-information-resource-under-siege/pyELFer | 2 | 1| 
 
 
 # backdoor on Github 推荐
