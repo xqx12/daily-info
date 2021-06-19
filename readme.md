@@ -37,7 +37,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210619T12:23:35Z | Null | https://github.com/dishant9510/exploiting- | 0 | 0| 
+| 20210619T12:25:57Z | Null | https://github.com/dishant9510/exploiting- | 0 | 0| 
 | 20210619T12:21:16Z | Null | https://github.com/MoryokaV/Activity-Exploit | 0 | 0| 
 | 20210619T12:20:15Z | An experimental debt system for me and my friends, exploiting git requests for financial safety and gits history for trust | https://github.com/psorus/git-pay | 0 | 2| 
 | 20210619T12:17:49Z | CTFs and solutions for Linux binary exploitation. | https://github.com/MaherAzzouzi/LinuxExploitation | 40 | 16| 
