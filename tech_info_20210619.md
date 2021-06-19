@@ -37,13 +37,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210619T02:03:10Z | ps4h3x Trainer - PS4Trainer.xyz | https://github.com/PS4H3X-xyz/Trainer | 0 | 0| 
-| 20210619T02:02:54Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
-| 20210619T01:46:48Z | Null | https://github.com/yuvaly0/exploits | 2 | 0| 
-| 20210619T01:39:22Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 315 | 45| 
-| 20210619T01:13:30Z | buffer overflow exploit for vulnserver, feel free to use. | https://github.com/injectmymalware/vulnserverexploit | 0 | 0| 
-| 20210619T01:09:31Z | Exploits project Hacking Command Center | https://github.com/chacka0101/exploits | 6 | 8| 
-| 20210619T01:01:26Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7975 | 1403| 
+| 20210619T12:03:34Z | Null | https://github.com/dishant9510/exploiting- | 0 | 0| 
+| 20210619T12:02:52Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
+| 20210619T11:58:10Z | This app is an advanced XSS panel, this is used for session grabbing with XSS exploit and <img src=%grabber_url%> | https://github.com/inplex-sys/cookies-sniffer | 1 | 0| 
+| 20210619T11:57:48Z | Tips for manually detect & exploit SQL injection Vulnerability : MySQL | https://github.com/rinku191/MySQL-SQL-Injection-Cheatsheet | 0 | 0| 
+| 20210619T11:46:51Z | Fix exploits on anarchy minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 44 | 11| 
+| 20210619T11:46:43Z | Null | https://github.com/dishant9510/exploit2 | 0 | 0| 
+| 20210619T11:34:59Z | Linux Privilege Escalation Resourses. Aswin Govind Aswin Govind Sep 8·1 min read    Linux Privilege Escalation tactics and techniques Resourses designed to help you improve your privilege escalation game. Links and Resourses: Enjoy 😃 https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/ https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Linux%20-%20Privilege%20Escalation.md list of Unix binaries https://gtfobins.github.io/ https://book.hacktricks.xyz/linux-unix/privilege-escalation https://sushant747.gitbooks.io/total-oscp-guide/content/privilege_escalation_-_linux.html LD_Preload https://www.hackingarticles.in/linux-privilege-escalation-using-ld_preload/ Spawn Shell https://netsec.ws/?p=337 Tools LinPEAS https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/linPEAS LinEnum https://github.com/rebootuser/LinEnum Linux-Exploit-Suggester https://github.com/mzet-/linux-exploit-suggester Linux-Priv-Checker https://github.com/sleventyeleven/linuxprivchecker Exploits https://www.exploit-db.com/ Machines https://tryhackme.com/room/vulnversity https://tryhackme.com/room/cmess https://tryhackme.com/room/lazyadmin https://tryhackme.com/room/anonymous https://tryhackme.com/room/tomghost https://tryhackme.com/room/convertmyvideo Thank You. | https://github.com/azwisec/linuxpriv | 2 | 0| 
+| 20210619T10:50:07Z | A python tool to analyze and exploiting ELF Binaries | https://github.com/vital-information-resource-under-siege/pyELFer | 2 | 1| 
+| 20210619T10:45:11Z | Null | https://github.com/kumail123465/exploit-bat-file-new | 0 | 0| 
+| 20210619T10:20:53Z | Exploits of vulnerabilities found in the Foscam C1 IP Camera | https://github.com/jeroenH04/FoscamVulnerability | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -56,15 +59,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210619T01:58:13Z | A fuzzy ecosystem for evaluating the stability of your computational tools. | https://github.com/verificarlo/fuzzy | 10 | 11| 
-| 20210619T01:56:46Z | Fuzzing for Quiwi https://github.com/goburrow/quic | https://github.com/goburrow/quic-fuzz | 0 | 0| 
-| 20210619T01:19:09Z | Hein | https://github.com/Hughein/fuzzy-fortnight | 0 | 0| 
-| 20210619T01:16:25Z | These tests of libdwarf/dwarfdump include old object files, new ones, and many fuzzed object files. These are the definitive tests that things work.. Most people have no reason to run these tests. | https://github.com/davea42/libdwarf-regressiontests | 0 | 0| 
-| 20210619T00:59:48Z | Fuzzy Expert Systems in Python | https://github.com/jdvelasq/fuzzy-expert | 0 | 0| 
-| 20210619T00:32:32Z | Null | https://github.com/FormulaT/fuzzy-train | 0 | 0| 
-| 20210619T00:28:22Z | Null | https://github.com/opimentel-github/fuzzy-torch | 1 | 0| 
-| 20210619T00:19:21Z | 渗透测试路径字典，爆破字典。内容来自互联网和实战积累。 | https://github.com/cpkkcb/fuzzDicts | 93 | 43| 
-| 20210619T00:12:22Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20210619T11:44:42Z | Null | https://github.com/Uelayebausb/fuzzy-octo-carnival | 0 | 0| 
+| 20210619T11:35:27Z | Null | https://github.com/TXGAPOORV/fuzzy-octo-waddle | 0 | 0| 
+| 20210619T11:33:05Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20210619T11:16:47Z | Emulation based snapshot fuzzer | https://github.com/jaoeul/gingersnap | 0 | 0| 
+| 20210619T10:51:18Z | Null | https://github.com/dstathakos/fuzzy-goggles | 0 | 0| 
+| 20210619T10:44:11Z | Null | https://github.com/fuzzsa/fuzzsa-bugs | 0 | 1| 
+| 20210619T10:34:04Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6386 | 1301| 
+| 20210619T10:23:04Z | This tool uses fzf(1)-like fuzzy-finder to do partial or fuzzy search of Kubernetes resources. Instead of specifying full resource names to kubectl commands, you can choose them from an interactive list that you can filter by typing a few characters. | https://github.com/d-kuro/kubectl-fuzzy | 86 | 10| 
+| 20210619T10:07:56Z | DOM fuzzer | https://github.com/mevid93/domzzer | 0 | 0| 
+| 20210619T09:34:28Z | Fuzzing with the generated argument | https://github.com/zodf0055980/Yuan-fuzz | 14 | 2| 
 
 
 
