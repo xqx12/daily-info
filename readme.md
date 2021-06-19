@@ -37,8 +37,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210619T12:36:19Z | Null | https://github.com/dishant9510/exploiting- | 0 | 0| 
 | 20210619T12:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9569 | 1558| 
-| 20210619T12:35:07Z | Null | https://github.com/dishant9510/exploiting- | 0 | 0| 
 | 20210619T12:29:28Z | Scripts (ServerSide and FE) | https://github.com/0WNEDU/Roblox-Misc-Scripts-Exploits | 0 | 0| 
 | 20210619T12:21:16Z | Null | https://github.com/MoryokaV/Activity-Exploit | 0 | 0| 
 | 20210619T12:20:15Z | An experimental debt system for me and my friends, exploiting git requests for financial safety and gits history for trust | https://github.com/psorus/git-pay | 0 | 2| 
