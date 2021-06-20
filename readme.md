@@ -41,13 +41,13 @@
 | 20210619T23:50:12Z | Null | https://github.com/HarrysExploit/Harrys-exploit-api | 0 | 0| 
 | 20210619T23:47:52Z | Null | https://github.com/MazX0p/SnakeYaml-Deserilization-Exploit | 1 | 0| 
 | 20210619T23:37:21Z | A series of CTF/hacking challenge solutions for binary exploitation(or pwn)/reverse engineering/vulnerability research/memory corruption(or whatever term you use) | https://github.com/docfate111/binary-exploitation-solution-scripts | 0 | 0| 
-| 20210619T23:02:53Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210619T22:57:50Z | Null | https://github.com/HarrysExploit/Harrys-exploit-setup | 0 | 0| 
 | 20210619T22:45:13Z | A repository to study the core components of Linux for exploitation purposes. | https://github.com/MaherAzzouzi/LinuxKernelStudy | 0 | 0| 
 | 20210619T22:39:15Z | XSS reflector vulnerabilities exploitation extended. | https://github.com/duckstroms/xss-reflector | 13 | 2| 
 | 20210619T22:37:04Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 51 | 14| 
 | 20210619T22:12:24Z | Small crash client base for retarded(german) people who steal other people%s code. | https://github.com/narumii/Niko | 14 | 0| 
 | 20210619T22:11:03Z | If u betray me and get my shit, no problem, imma leak it. | https://github.com/McIvanX/No-Animation-Exploit-Fortnite-Cheat-Internal-Source | 1 | 0| 
+| 20210619T21:58:16Z | Basic NodeJS Exploitation for data exfiltration and reverse shells | https://github.com/RoqueNight/NodeJS-Exploitation | 0 | 0| 
 
 
 # backdoor on Github 推荐
