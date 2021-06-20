@@ -118,17 +118,36 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210616T19:14:16Z | An evil way to edit Lisp symbolic expressions (%symexes%) as trees in Emacs | https://github.com/countvajhula/symex.el | 65 | 5| 
+| 20210620T11:47:02Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2358 | 346| 
+| 20210620T07:53:07Z | This is the repository for Symbolic Execution engine for StateFlow (SESf) models | https://github.com/predragf/sesf | 0 | 0| 
+| 20210620T07:35:02Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1716 | 495| 
+| 20210620T02:22:56Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 419 | 62| 
+| 20210620T01:50:57Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 7 | 4| 
+| 20210619T23:27:01Z | Symbolic Execution Engine and Verification Condition Generator for While-Language and SMTlib | https://github.com/wadoon/mini-symex | 1 | 0| 
+| 20210619T09:20:20Z | Monster is a symbolic execution engine for 64-bit RISC-U code | https://github.com/cksystemsgroup/monster | 6 | 3| 
+| 20210619T00:41:41Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1823 | 381| 
+| 20210618T15:49:48Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 143 | 33| 
+| 20210618T15:42:48Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 14 | 3| 
+
+
+# big4 on Github 推荐
+| ts | title | url | stars | forks| 
+| --- | --- | --- | --- | ---| 
+| 20210614T16:36:56Z | Cost-Aware Robust Tree Ensembles for Security Applications (Usenix Security%21) https://arxiv.org/pdf/1912.01149.pdf | https://github.com/surrealyz/growtrees | 14 | 4| 
+| 20210612T08:53:44Z | DSCP is a dynamic secure cache partitioning implementation on gem5. The code includes a ScatterCache (USENIX SECURITY%19) variant and it is partially available to reproduce set partitioning. | https://github.com/saintube/gem5-dscp | 2 | 0| 
+| 20210611T11:22:47Z | Proximal Gradient Analysis open source release based on our USENIX Security 2021 paper: %Fine Grained Dataflow Analysis with Proximal Gradients%. | https://github.com/gryan11/PGA | 20 | 3| 
+| 20210608T20:05:12Z | Proof-of-concept implementation for the paper %Osiris: Automated Discovery of Microarchitectural Side Channels% (USENIX Security%21) | https://github.com/cispa/osiris | 8 | 2| 
+| 20210601T04:45:36Z | [USENIX SECURITY%19] PeX: A Permission Check Analysis Framework for Linux Kernel | https://github.com/lzto/pex | 51 | 13| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210620T15:05:47Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
 | 20210620T14:45:32Z | fuzzy-control-system | https://github.com/JerryJack121/fuzzy-control-system | 0 | 0| 
 | 20210620T14:31:29Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210620T14:05:48Z | Null | https://github.com/surajraju20/fuzzy1 | 0 | 0| 
 | 20210620T13:58:35Z | A tool that extracts the core segments of Chinese corporate names and computes the similarity between those as a weighted sum of their phonetic (sound) and glyphic (shape) similarities. Implemented to help the Anti Money Laundering (AML) efforts at the bank. | https://github.com/KunyuHe/AML-Chinese-Corporate-Name-Fuzzy-Matching | 1 | 0| 
-| 20210620T13:55:55Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
 | 20210620T13:35:53Z | A fuzzer for full VM kernel/driver targets | https://github.com/IntelLabs/kAFL | 232 | 38| 
 | 20210620T13:08:20Z | Null | https://github.com/antdurrant/fuzzy_join_app | 0 | 0| 
 | 20210620T12:37:59Z | DOM fuzzer | https://github.com/mevid93/domzzer | 0 | 0| 
