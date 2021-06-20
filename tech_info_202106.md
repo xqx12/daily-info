@@ -46,22 +46,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210619T09:20:07Z | CVE-2020-7247 | PoC exploit for CVE-2020-7247 OpenSMTPD 6.4.0 < 6.6.1 Remote Code Execution | https://github.com/f4T1H21/CVE-2020-7247 | smtp_mailaddr in smtp_session.c in OpenSMTPD 6.6, as used in OpenBSD 6.6 and other products, allows remote attackers to execute arbitrary commands as root via a crafted SMTP session, as demonstrated by shell metacharacters in a MAIL FROM field. This affects the %uncommented% default configuration. The issue exists because of an incorrect return value upon failure of input validation.| 
-| 20210618T10:48:20Z | CVE-2020-25627 | Stored XSS via moodlenetprofile parameter in user profile | https://github.com/HoangKien1020/CVE-2020-25627 | | 
+| 20210620T11:02:49Z | CVE-2021-21551 | Script to patch your domain computers about the CVE-2021-21551. Privesc on machines that have the driver dbutil_2_3.sys, installed by some DELL tools (BIOS updater, SupportAssist...) | https://github.com/arnaudluti/PS-CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
+| 20210620T08:46:14Z | CVE-2020-14321 | Course enrolments allowed privilege escalation from teacher role into manager role to RCE | https://github.com/HoangKien1020/CVE-2020-14321 | 未查询到CVE信息| 
+| 20210620T04:03:32Z | CVE-2020-7247 | PoC exploit for CVE-2020-7247 OpenSMTPD 6.4.0 < 6.6.1 Remote Code Execution | https://github.com/f4T1H21/CVE-2020-7247 | smtp_mailaddr in smtp_session.c in OpenSMTPD 6.6, as used in OpenBSD 6.6 and other products, allows remote attackers to execute arbitrary commands as root via a crafted SMTP session, as demonstrated by shell metacharacters in a MAIL FROM field. This affects the %uncommented% default configuration. The issue exists because of an incorrect return value upon failure of input validation.| 
+| 20210620T02:47:02Z | cve-2021-3156 | Null | https://github.com/mrofisr/docker-cve-2021-3156 | | 
+| 20210618T10:48:20Z | CVE-2020-25627 | Stored XSS via moodlenetprofile parameter in user profile | https://github.com/HoangKien1020/CVE-2020-25627 | The moodlenetprofile user profile field required extra sanitizing to prevent a stored XSS risk. This affects versions 3.9 to 3.9.1. Fixed in 3.9.2.| 
 | 20210618T10:27:08Z | CVE-2021-0484 | PoC for exploiting CVE-2021-0484 : In readVector of IMediaPlayer.cpp, there is a possible read of uninitialized heap data due to a missing bounds check. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-9 Android-10 Android-11 Android-8.1Android ID: A-173720767 | https://github.com/PwnCast/CVE-2021-0484 | In readVector of IMediaPlayer.cpp, there is a possible read of uninitialized heap data due to a missing bounds check. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-9 Android-10 Android-11 Android-8.1Android ID: A-173720767| 
-| 20210618T10:27:01Z | CVE-2020-11235 | PoC for exploiting CVE-2020-11235 : Buffer overflow might occur while parsing unified command due to lack of check of input data received in Snapdragon Auto, Snapdragon Compute, Snapdragon Connectivity, Snapdragon Consumer Electronics Connectivity, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon IoT, Snapdragon Mobile, Snapdragon Voice & Music, Snapdragon Wired Infrastructure and Networking | https://github.com/PwnCast/CVE-2020-11235 | Buffer overflow might occur while parsing unified command due to lack of check of input data received in Snapdragon Auto, Snapdragon Compute, Snapdragon Connectivity, Snapdragon Consumer Electronics Connectivity, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon IoT, Snapdragon Mobile, Snapdragon Voice & Music, Snapdragon Wired Infrastructure and Networking| 
+| 20210618T10:27:01Z | CVE-2020-11235 | PoC for exploiting CVE-2020-11235 : Buffer overflow might occur while parsing unified command due to lack of check of input data received in Snapdragon Auto, Snapdragon Compute, Snapdragon Connectivity, Snapdragon Consumer Electronics Connectivity, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon IoT, Snapdragon Mobile, Snapdragon Voice & Music, Snapdragon Wired Infrastructure and Networking | https://github.com/PwnCast/CVE-2020-11235 | | 
 | 20210618T10:26:54Z | CVE-2020-11238 | PoC for exploiting CVE-2020-11238 : Possible Buffer over-read in ARP/NS parsing due to lack of check of packet length received in Snapdragon Auto, Snapdragon Compute, Snapdragon Connectivity, Snapdragon Consumer Electronics Connectivity, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon Mobile, Snapdragon Voice & Music, Snapdragon Wired Infrastructure and Networking | https://github.com/PwnCast/CVE-2020-11238 | Possible Buffer over-read in ARP/NS parsing due to lack of check of packet length received in Snapdragon Auto, Snapdragon Compute, Snapdragon Connectivity, Snapdragon Consumer Electronics Connectivity, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon Mobile, Snapdragon Voice & Music, Snapdragon Wired Infrastructure and Networking| 
 | 20210618T10:26:48Z | CVE-2020-11239 | PoC for exploiting CVE-2020-11239 : Use after free issue when importing a DMA buffer by using the CPU address of the buffer due to attachment is not cleaned up properly in Snapdragon Auto, Snapdragon Compute, Snapdragon Connectivity, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon Mobile, Snapdragon Voice & Music, Snapdragon Wearables | https://github.com/PwnCast/CVE-2020-11239 | Use after free issue when importing a DMA buffer by using the CPU address of the buffer due to attachment is not cleaned up properly in Snapdragon Auto, Snapdragon Compute, Snapdragon Connectivity, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon Mobile, Snapdragon Voice & Music, Snapdragon Wearables| 
 | 20210618T10:26:40Z | CVE-2021-20728 | PoC for exploiting CVE-2021-20728 : Improper access control vulnerability in goo blog App for Android ver.1.2.25 and earlier and for iOS ver.1.3.3 and earlier allows a remote attacker to lead a user to access an arbitrary website via the vulnerable App. | https://github.com/PwnCast/CVE-2021-20728 | Improper access control vulnerability in goo blog App for Android ver.1.2.25 and earlier and for iOS ver.1.3.3 and earlier allows a remote attacker to lead a user to access an arbitrary website via the vulnerable App.| 
-| 20210618T10:26:34Z | CVE-2021-0480 | PoC for exploiting CVE-2021-0480 : In createPendingIntent of SnoozeHelper.java, there is a possible broadcast intent containing a sensitive identifier. This could lead to local information disclosure with no additional execution privileges needed. User interaction is needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-8.1 Android-9Android ID: A-174493336 | https://github.com/PwnCast/CVE-2021-0480 | In createPendingIntent of SnoozeHelper.java, there is a possible broadcast intent containing a sensitive identifier. This could lead to local information disclosure with no additional execution privileges needed. User interaction is needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-8.1 Android-9Android ID: A-174493336| 
-| 20210618T10:26:27Z | CVE-2021-0477 | PoC for exploiting CVE-2021-0477 : In notifyScreenshotError of ScreenshotNotificationsController.java, there is a possible permission bypass due to an unsafe PendingIntent. This could lead to local escalation of privilege with User execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-8.1 Android-9Android ID: A-178189250 | https://github.com/PwnCast/CVE-2021-0477 | | 
-| 20210618T10:26:01Z | CVE-2020-7751 | PoC for exploiting CVE-2020-7751 : pathval before version 1.1.1 is vulnerable to prototype pollution. | https://github.com/PwnCast/CVE-2020-7751 | pathval before version 1.1.1 is vulnerable to prototype pollution.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210619T20:23:48Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1715 | 495| 
+| 20210620T07:35:02Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1716 | 495| 
 | 20210619T13:55:27Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 10 | 1| 
 | 20210619T13:52:19Z | Report PPT template for CS students  | https://github.com/Fishermanykx/paper_reading_report_template | 0 | 0| 
 | 20210619T08:20:53Z | An RTIC application analysis tool which uses KLEE to generate test cases | https://github.com/markhakansson/rauk | 0 | 0| 
@@ -76,6 +76,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210620T03:40:23Z | Null | https://github.com/LakehalAA/test-S2EE-BOT | 0 | 0| 
 | 20210618T15:49:13Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 73 | 31| 
 | 20210618T15:48:55Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 135 | 31| 
 | 20210618T02:35:02Z | Compiler for S2Engine architecure , an CNN accelerator | https://github.com/BUAA-CI-Lab/S2EngineCompiler | 1 | 1| 
@@ -87,46 +88,46 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210620T01:48:47Z | A collection of challenge writeups, CVE POC%s, and explanations | https://github.com/0xmanjoos/Exploit-Development | 3 | 1| 
-| 20210620T01:41:12Z | A series of CTF/hacking challenge solutions for binary exploitation(or pwn)/reverse engineering/vulnerability research/memory corruption(or whatever term you use) | https://github.com/docfate111/binary-exploitation-solution-scripts | 0 | 0| 
-| 20210620T01:21:38Z | Fix exploit for raklib. | https://github.com/DevClancy/magenta-fix | 0 | 0| 
-| 20210620T01:13:45Z | EDL exploit for Redmi 3S | https://github.com/fxsheep/firehorse_land | 9 | 4| 
-| 20210620T01:02:51Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
-| 20210619T23:50:12Z | Null | https://github.com/HarrysExploit/Harrys-exploit-api | 0 | 0| 
-| 20210619T23:47:52Z | Null | https://github.com/MazX0p/SnakeYaml-Deserilization-Exploit | 1 | 0| 
-| 20210619T22:57:50Z | Null | https://github.com/HarrysExploit/Harrys-exploit-setup | 0 | 0| 
-| 20210619T22:45:13Z | A repository to study the core components of Linux for exploitation purposes. | https://github.com/MaherAzzouzi/LinuxKernelStudy | 0 | 0| 
-| 20210619T22:39:15Z | XSS reflector vulnerabilities exploitation extended. | https://github.com/duckstroms/xss-reflector | 13 | 2| 
+| 20210620T11:40:40Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 3 | 1| 
+| 20210620T11:13:50Z | Tokens scanner to know what is this token , and tell you how exploit if available. | https://github.com/Abdulrahman-Kamel/tokenScanner | 2 | 0| 
+| 20210620T11:12:04Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 14 | 3| 
+| 20210620T11:02:52Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
+| 20210620T10:44:08Z | Null | https://github.com/wjddnjs33/Exploit | 0 | 0| 
+| 20210620T10:42:21Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 24 | 1| 
+| 20210620T10:39:53Z | A repository to study the core components of Linux for exploitation purposes. | https://github.com/MaherAzzouzi/LinuxKernelStudy | 2 | 0| 
+| 20210620T10:31:41Z | Null | https://github.com/thenewexploiter/Exploit-Scripts | 0 | 0| 
+| 20210620T10:02:36Z | [CVPR 2021] Exploiting Edge-Oriented Reasoning for 3D Point-based Scene Graph Analysis | https://github.com/chaoyivision/SGGpoint | 9 | 6| 
+| 20210620T09:58:55Z | Automated solver of classic CTF pwn challenges, with flexibility in mind. | https://github.com/mariuszskon/autorop | 4 | 1| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210620T10:07:44Z | EcchiExploit Shell v1.0 | https://github.com/dmzhari/ecchi-shell | 0 | 0| 
+| 20210620T09:44:17Z | A module for building botnet or back door with Python and Telegram control panel | https://github.com/onionj/pybotnet | 1 | 0| 
+| 20210620T09:12:53Z | A token logger for discord + steals Brave/Chrome passwords and usernames | https://github.com/CUPZYY/Backdoor-Machine | 17 | 4| 
+| 20210620T02:40:17Z | Backdoor intended for Minecraft Servers | https://github.com/wyattdigitalz/Cyanide | 0 | 0| 
 | 20210620T00:13:33Z | Python AV Evasion Tools | https://github.com/G1ft3dC0d3/MsfMania | 173 | 37| 
 | 20210619T21:24:34Z | A basic backdoor, written in Python, that connects the infected system with the backdoor%s listener, which includes a custom reverse shell. Educational purposes only. | https://github.com/c0y0te-git/PythonDoor | 0 | 0| 
-| 20210619T20:28:19Z | Backdoor intended for Minecraft Servers | https://github.com/wyattdigitalz/Cyanide | 0 | 0| 
 | 20210619T15:01:15Z | idk just for testing on virtual machine, don%t use this on your real machine ;p | https://github.com/ztbw/backdoor | 0 | 0| 
 | 20210619T13:57:59Z | Backdoor Android programado en Phyton | https://github.com/Fr0il4nSierra/Backdoor_Phyton | 0 | 0| 
 | 20210619T09:54:58Z | Backdoor | https://github.com/Markusip/or-install | 0 | 0| 
 | 20210619T08:20:24Z | SCP:SL simple server side backdoor | https://github.com/ggpabuk/ExiledBackdoor | 0 | 0| 
-| 20210618T21:48:25Z | esse codifo em  python serve para facilitar a interação do usuario com o backdoor, o backdoor é feito por uma função em php que se chama ACCEPT_LANGUAGE sem validação | https://github.com/flaco0x01/interface-para-backdoor-python | 0 | 0| 
-| 20210618T19:39:50Z | Creating more and more complexes backdoors | https://github.com/hugoreb/Backdoor | 0 | 0| 
-| 20210618T17:24:18Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 251 | 43| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210620T01:22:21Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6391 | 1301| 
-| 20210620T00:57:00Z | Null | https://github.com/NTHieu2k1/AI_Fuzzy_Project_AIP | 0 | 0| 
-| 20210620T00:04:51Z | Null | https://github.com/miya-design/fuzzy-octo-system | 0 | 0| 
-| 20210619T23:55:29Z | Gentoo overlay | https://github.com/lferra/fuzzy-potato | 0 | 0| 
-| 20210619T21:25:03Z | Null | https://github.com/Kongnaret/fuzzy-pancake | 0 | 0| 
-| 20210619T21:19:45Z | PoC of fuzzing closed-source userspace binaries with KVM | https://github.com/klecko/kvm-fuzz | 64 | 5| 
-| 20210619T21:11:00Z | Null | https://github.com/surajraju20/fuzzy1 | 0 | 0| 
-| 20210619T21:06:15Z | Null | https://github.com/miriamgrigsby/fuzzy-coin | 0 | 0| 
-| 20210619T20:59:38Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 288 | 38| 
-| 20210619T20:57:30Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 6 | 0| 
+| 20210620T11:43:40Z | Simple Fuzzer built from BNF grammar | https://github.com/saikumar208/sqlFuzz | 1 | 0| 
+| 20210620T11:26:56Z | Null | https://github.com/antdurrant/fuzzy_join_app | 0 | 0| 
+| 20210620T11:16:45Z | DOM fuzzer | https://github.com/mevid93/domzzer | 0 | 0| 
+| 20210620T10:58:26Z | Planning tool | https://github.com/HappyDustbunny/FuzzyFlexx | 1 | 0| 
+| 20210620T10:17:59Z | Fuzzing tool for the 14th institute | https://github.com/Radon10043/fuzzing-tool-14 | 0 | 0| 
+| 20210620T10:12:22Z | White-box fuzzer for Java bytecode | https://github.com/vorpal-research/kex | 6 | 8| 
+| 20210620T10:04:23Z | Null | https://github.com/pengfei1993/Fuzzy | 1 | 0| 
+| 20210620T09:39:30Z | Fuzzy logic implementation  | https://github.com/IndraWirananta/Fuzzy-Logic | 0 | 0| 
+| 20210620T09:22:09Z | PoC of fuzzing closed-source userspace binaries with KVM | https://github.com/klecko/kvm-fuzz | 65 | 5| 
+| 20210620T09:01:19Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 
 
 
