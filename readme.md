@@ -55,7 +55,6 @@
 | --- | --- | --- | --- | ---| 
 | 20210619T21:24:34Z | A basic backdoor, written in Python, that connects the infected system with the backdoor%s listener, which includes a custom reverse shell. Educational purposes only. | https://github.com/c0y0te-git/PythonDoor | 0 | 0| 
 | 20210619T20:28:19Z | Backdoor intended for Minecraft Servers | https://github.com/wyattdigitalz/Cyanide | 0 | 0| 
-| 20210619T17:28:31Z | Python AV Evasion Tools | https://github.com/G1ft3dC0d3/MsfMania | 172 | 37| 
 | 20210619T15:01:15Z | idk just for testing on virtual machine, don%t use this on your real machine ;p | https://github.com/ztbw/backdoor | 0 | 0| 
 | 20210619T13:57:59Z | Backdoor Android programado en Phyton | https://github.com/Fr0il4nSierra/Backdoor_Phyton | 0 | 0| 
 | 20210619T09:54:58Z | Backdoor | https://github.com/Markusip/or-install | 0 | 0| 
@@ -66,7 +65,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20210619T23:55:29Z | Gentoo overlay | https://github.com/lferra/fuzzy-potato | 0 | 0| 
-| 20210619T23:48:29Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6390 | 1301| 
 | 20210619T21:25:03Z | Null | https://github.com/Kongnaret/fuzzy-pancake | 0 | 0| 
 | 20210619T21:19:45Z | PoC of fuzzing closed-source userspace binaries with KVM | https://github.com/klecko/kvm-fuzz | 64 | 5| 
 | 20210619T21:11:00Z | Null | https://github.com/surajraju20/fuzzy1 | 0 | 0| 
@@ -75,6 +73,7 @@
 | 20210619T20:57:30Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 6 | 0| 
 | 20210619T20:55:10Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
 | 20210619T20:07:27Z | Fuzzy Expert Systems in Python | https://github.com/jdvelasq/fuzzy-expert | 0 | 0| 
+| 20210619T20:04:02Z | greybox mutation-based fuzzer for PHP | https://github.com/HGUfuzzing/php-fuzzer | 2 | 1| 
 
 
 
