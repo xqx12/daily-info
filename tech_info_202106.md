@@ -118,16 +118,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210620T12:20:27Z | White-box fuzzer for Java bytecode | https://github.com/vorpal-research/kex | 6 | 8| 
+| 20210620T12:20:19Z | This is a simple repo for fuzzworks.  | https://github.com/sajuukthanatoskhar/fuzzworks_bpos | 0 | 0| 
+| 20210620T12:20:03Z | GUI MATLAB file for fuzzy C mean classification on image/imagery. | https://github.com/amrita05/Fuzzy-C-mean- | 0 | 0| 
 | 20210620T12:12:44Z | Null | https://github.com/alialfie/Fuzzy-Logic | 0 | 0| 
 | 20210620T11:43:40Z | Simple Fuzzer built from BNF grammar | https://github.com/saikumar208/sqlFuzz | 1 | 0| 
 | 20210620T11:26:56Z | Null | https://github.com/antdurrant/fuzzy_join_app | 0 | 0| 
 | 20210620T11:16:45Z | DOM fuzzer | https://github.com/mevid93/domzzer | 0 | 0| 
 | 20210620T10:58:26Z | Planning tool | https://github.com/HappyDustbunny/FuzzyFlexx | 1 | 0| 
 | 20210620T10:17:59Z | Fuzzing tool for the 14th institute | https://github.com/Radon10043/fuzzing-tool-14 | 0 | 0| 
-| 20210620T10:12:22Z | White-box fuzzer for Java bytecode | https://github.com/vorpal-research/kex | 6 | 8| 
 | 20210620T10:04:23Z | Null | https://github.com/pengfei1993/Fuzzy | 1 | 0| 
-| 20210620T09:39:30Z | Fuzzy logic implementation  | https://github.com/IndraWirananta/Fuzzy-Logic | 0 | 0| 
-| 20210620T09:22:09Z | PoC of fuzzing closed-source userspace binaries with KVM | https://github.com/klecko/kvm-fuzz | 65 | 5| 
 
 
 
