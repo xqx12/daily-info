@@ -37,9 +37,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210620T15:02:51Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210620T14:36:22Z | Write ups of publicly known exploits to help in my understanding. | https://github.com/Galla218/Exploit-Dev | 0 | 0| 
 | 20210620T14:21:25Z | 🔧 The program that allows you to grab certain info about the victim | https://github.com/Zeczero/DiscordDataGrabber | 5 | 0| 
-| 20210620T14:02:50Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210620T14:00:45Z | Tokens scanner to know what is this token , and tell you how exploit if available. | https://github.com/Abdulrahman-Kamel/tokenScanner | 3 | 1| 
 | 20210620T13:59:18Z | Basic Exploit Scripts | https://github.com/Cyamil/Basic-Exploits | 0 | 0| 
 | 20210620T13:48:38Z | Labs to learn exploiting | https://github.com/aliakyurek/exploit_labs | 0 | 0| 
@@ -57,6 +57,11 @@
 | 20210620T09:44:17Z | A module for building botnet or back door with Python and Telegram control panel | https://github.com/onionj/pybotnet | 1 | 0| 
 | 20210620T09:12:53Z | A token logger for discord + steals Brave/Chrome passwords and usernames | https://github.com/CUPZYY/Backdoor-Machine | 17 | 4| 
 | 20210620T02:40:17Z | Backdoor intended for Minecraft Servers | https://github.com/wyattdigitalz/Cyanide | 0 | 0| 
+
+
+# symbolic execution on Github 推荐
+| ts | title | url | stars | forks| 
+| --- | --- | --- | --- | ---| 
 
 
 # fuzz on Github 推荐

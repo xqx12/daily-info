@@ -54,7 +54,7 @@
 | 20210618T10:27:08Z | CVE-2021-0484 | PoC for exploiting CVE-2021-0484 : In readVector of IMediaPlayer.cpp, there is a possible read of uninitialized heap data due to a missing bounds check. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-9 Android-10 Android-11 Android-8.1Android ID: A-173720767 | https://github.com/PwnCast/CVE-2021-0484 | In readVector of IMediaPlayer.cpp, there is a possible read of uninitialized heap data due to a missing bounds check. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-9 Android-10 Android-11 Android-8.1Android ID: A-173720767| 
 | 20210618T10:27:01Z | CVE-2020-11235 | PoC for exploiting CVE-2020-11235 : Buffer overflow might occur while parsing unified command due to lack of check of input data received in Snapdragon Auto, Snapdragon Compute, Snapdragon Connectivity, Snapdragon Consumer Electronics Connectivity, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon IoT, Snapdragon Mobile, Snapdragon Voice & Music, Snapdragon Wired Infrastructure and Networking | https://github.com/PwnCast/CVE-2020-11235 | Buffer overflow might occur while parsing unified command due to lack of check of input data received in Snapdragon Auto, Snapdragon Compute, Snapdragon Connectivity, Snapdragon Consumer Electronics Connectivity, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon IoT, Snapdragon Mobile, Snapdragon Voice & Music, Snapdragon Wired Infrastructure and Networking| 
 | 20210618T10:26:54Z | CVE-2020-11238 | PoC for exploiting CVE-2020-11238 : Possible Buffer over-read in ARP/NS parsing due to lack of check of packet length received in Snapdragon Auto, Snapdragon Compute, Snapdragon Connectivity, Snapdragon Consumer Electronics Connectivity, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon Mobile, Snapdragon Voice & Music, Snapdragon Wired Infrastructure and Networking | https://github.com/PwnCast/CVE-2020-11238 | Possible Buffer over-read in ARP/NS parsing due to lack of check of packet length received in Snapdragon Auto, Snapdragon Compute, Snapdragon Connectivity, Snapdragon Consumer Electronics Connectivity, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon Mobile, Snapdragon Voice & Music, Snapdragon Wired Infrastructure and Networking| 
-| 20210618T10:26:48Z | CVE-2020-11239 | PoC for exploiting CVE-2020-11239 : Use after free issue when importing a DMA buffer by using the CPU address of the buffer due to attachment is not cleaned up properly in Snapdragon Auto, Snapdragon Compute, Snapdragon Connectivity, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon Mobile, Snapdragon Voice & Music, Snapdragon Wearables | https://github.com/PwnCast/CVE-2020-11239 | Use after free issue when importing a DMA buffer by using the CPU address of the buffer due to attachment is not cleaned up properly in Snapdragon Auto, Snapdragon Compute, Snapdragon Connectivity, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon Mobile, Snapdragon Voice & Music, Snapdragon Wearables| 
+| 20210618T10:26:48Z | CVE-2020-11239 | PoC for exploiting CVE-2020-11239 : Use after free issue when importing a DMA buffer by using the CPU address of the buffer due to attachment is not cleaned up properly in Snapdragon Auto, Snapdragon Compute, Snapdragon Connectivity, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon Mobile, Snapdragon Voice & Music, Snapdragon Wearables | https://github.com/PwnCast/CVE-2020-11239 | | 
 | 20210618T10:26:40Z | CVE-2021-20728 | PoC for exploiting CVE-2021-20728 : Improper access control vulnerability in goo blog App for Android ver.1.2.25 and earlier and for iOS ver.1.3.3 and earlier allows a remote attacker to lead a user to access an arbitrary website via the vulnerable App. | https://github.com/PwnCast/CVE-2021-20728 | Improper access control vulnerability in goo blog App for Android ver.1.2.25 and earlier and for iOS ver.1.3.3 and earlier allows a remote attacker to lead a user to access an arbitrary website via the vulnerable App.| 
 
 
@@ -88,9 +88,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210620T15:02:51Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210620T14:36:22Z | Write ups of publicly known exploits to help in my understanding. | https://github.com/Galla218/Exploit-Dev | 0 | 0| 
 | 20210620T14:21:25Z | 🔧 The program that allows you to grab certain info about the victim | https://github.com/Zeczero/DiscordDataGrabber | 5 | 0| 
-| 20210620T14:02:50Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210620T14:00:45Z | Tokens scanner to know what is this token , and tell you how exploit if available. | https://github.com/Abdulrahman-Kamel/tokenScanner | 3 | 1| 
 | 20210620T13:59:18Z | Basic Exploit Scripts | https://github.com/Cyamil/Basic-Exploits | 0 | 0| 
 | 20210620T13:48:38Z | Labs to learn exploiting | https://github.com/aliakyurek/exploit_labs | 0 | 0| 
@@ -113,6 +113,12 @@
 | 20210619T13:57:59Z | Backdoor Android programado en Phyton | https://github.com/Fr0il4nSierra/Backdoor_Phyton | 0 | 0| 
 | 20210619T09:54:58Z | Backdoor | https://github.com/Markusip/or-install | 0 | 0| 
 | 20210619T08:20:24Z | SCP:SL simple server side backdoor | https://github.com/ggpabuk/ExiledBackdoor | 0 | 0| 
+
+
+# symbolic execution on Github 推荐
+| ts | title | url | stars | forks| 
+| --- | --- | --- | --- | ---| 
+| 20210616T19:14:16Z | An evil way to edit Lisp symbolic expressions (%symexes%) as trees in Emacs | https://github.com/countvajhula/symex.el | 65 | 5| 
 
 
 # fuzz on Github 推荐
