@@ -88,8 +88,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210620T12:55:18Z | Fix exploits on anarchy minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 44 | 11| 
+| 20210620T12:53:51Z | 🔧 The program that allows you to grab certain info about the victim | https://github.com/Zeczero/Discord-Data-Grabber | 5 | 0| 
 | 20210620T12:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9573 | 1561| 
-| 20210620T12:29:28Z | Fix exploits on anarchy minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 44 | 11| 
 | 20210620T12:05:02Z | My Collection of exploits, reverse shells, scripts and more | https://github.com/nop-tech/Pentesting | 2 | 2| 
 | 20210620T12:03:05Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210620T11:40:40Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 3 | 1| 
@@ -97,7 +98,6 @@
 | 20210620T11:12:04Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 14 | 3| 
 | 20210620T10:44:08Z | Null | https://github.com/wjddnjs33/Exploit | 0 | 0| 
 | 20210620T10:42:21Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 24 | 1| 
-| 20210620T10:39:53Z | A repository to study the core components of Linux for exploitation purposes. | https://github.com/MaherAzzouzi/LinuxKernelStudy | 2 | 0| 
 
 
 # backdoor on Github 推荐
