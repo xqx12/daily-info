@@ -62,10 +62,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210620T12:27:04Z | GUI MATLAB file for fuzzy C mean classification on image/imagery. | https://github.com/amrita05/Fuzzy-C-mean- | 0 | 0| 
 | 20210620T12:23:04Z | DOM fuzzer | https://github.com/mevid93/domzzer | 0 | 0| 
 | 20210620T12:20:27Z | White-box fuzzer for Java bytecode | https://github.com/vorpal-research/kex | 6 | 8| 
 | 20210620T12:20:19Z | This is a simple repo for fuzzworks.  | https://github.com/sajuukthanatoskhar/fuzzworks_bpos | 0 | 0| 
-| 20210620T12:20:03Z | GUI MATLAB file for fuzzy C mean classification on image/imagery. | https://github.com/amrita05/Fuzzy-C-mean- | 0 | 0| 
 | 20210620T12:12:44Z | Null | https://github.com/alialfie/Fuzzy-Logic | 0 | 0| 
 | 20210620T11:43:40Z | Simple Fuzzer built from BNF grammar | https://github.com/saikumar208/sqlFuzz | 1 | 0| 
 | 20210620T11:26:56Z | Null | https://github.com/antdurrant/fuzzy_join_app | 0 | 0| 
