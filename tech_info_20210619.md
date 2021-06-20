@@ -23,10 +23,11 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210619T20:23:48Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1715 | 495| 
+| 20210619T13:55:27Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 10 | 1| 
+| 20210619T13:52:19Z | Report PPT template for CS students  | https://github.com/Fishermanykx/paper_reading_report_template | 0 | 0| 
 | 20210619T08:20:53Z | An RTIC application analysis tool which uses KLEE to generate test cases | https://github.com/markhakansson/rauk | 0 | 0| 
-| 20210619T08:14:46Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1715 | 495| 
 | 20210619T03:11:42Z | An opiniated Next TypeScript powered starter which include Klee, emotion / styled-system, framer motion, jest and Cypress | https://github.com/Liinkiing/next-ts-klee-starter | 0 | 0| 
-| 20210619T03:04:17Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 10 | 1| 
 
 
 # s2e on Github 推荐
@@ -37,22 +38,26 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210619T12:54:30Z | Null | https://github.com/nrb547/kernel-exploitation | 30 | 4| 
-| 20210619T12:51:42Z | My Collection of exploits, reverse shells, scripts and more | https://github.com/nop-tech/Pentesting | 2 | 2| 
-| 20210619T12:42:17Z | Null | https://github.com/dishant9510/exploiting- | 0 | 0| 
-| 20210619T12:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9569 | 1558| 
-| 20210619T12:29:28Z | Scripts (ServerSide and FE) | https://github.com/0WNEDU/Roblox-Misc-Scripts-Exploits | 0 | 0| 
-| 20210619T12:21:16Z | Null | https://github.com/MoryokaV/Activity-Exploit | 0 | 0| 
-| 20210619T12:20:15Z | An experimental debt system for me and my friends, exploiting git requests for financial safety and gits history for trust | https://github.com/psorus/git-pay | 0 | 2| 
-| 20210619T12:17:49Z | CTFs and solutions for Linux binary exploitation. | https://github.com/MaherAzzouzi/LinuxExploitation | 40 | 16| 
-| 20210619T12:02:52Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
-| 20210619T11:58:10Z | This app is an advanced XSS panel, this is used for session grabbing with XSS exploit and <img src=%grabber_url%> | https://github.com/inplex-sys/cookies-sniffer | 1 | 0| 
+| 20210619T23:50:12Z | Null | https://github.com/HarrysExploit/Harrys-exploit-api | 0 | 0| 
+| 20210619T23:47:52Z | Null | https://github.com/MazX0p/SnakeYaml-Deserilization-Exploit | 1 | 0| 
+| 20210619T23:37:21Z | A series of CTF/hacking challenge solutions for binary exploitation(or pwn)/reverse engineering/vulnerability research/memory corruption(or whatever term you use) | https://github.com/docfate111/binary-exploitation-solution-scripts | 0 | 0| 
+| 20210619T23:02:53Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
+| 20210619T22:57:50Z | Null | https://github.com/HarrysExploit/Harrys-exploit-setup | 0 | 0| 
+| 20210619T22:45:13Z | A repository to study the core components of Linux for exploitation purposes. | https://github.com/MaherAzzouzi/LinuxKernelStudy | 0 | 0| 
+| 20210619T22:39:15Z | XSS reflector vulnerabilities exploitation extended. | https://github.com/duckstroms/xss-reflector | 13 | 2| 
+| 20210619T22:37:04Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 51 | 14| 
+| 20210619T22:12:24Z | Small crash client base for retarded(german) people who steal other people%s code. | https://github.com/narumii/Niko | 14 | 0| 
+| 20210619T22:11:03Z | If u betray me and get my shit, no problem, imma leak it. | https://github.com/McIvanX/No-Animation-Exploit-Fortnite-Cheat-Internal-Source | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210619T12:15:08Z | idk just for testing on virtual machine, don%t use this on your real machine ;p | https://github.com/ztbw/backdoor | 0 | 0| 
+| 20210619T21:24:34Z | A basic backdoor, written in Python, that connects the infected system with the backdoor%s listener, which includes a custom reverse shell. Educational purposes only. | https://github.com/c0y0te-git/PythonDoor | 0 | 0| 
+| 20210619T20:28:19Z | Backdoor intended for Minecraft Servers | https://github.com/wyattdigitalz/Cyanide | 0 | 0| 
+| 20210619T17:28:31Z | Python AV Evasion Tools | https://github.com/G1ft3dC0d3/MsfMania | 172 | 37| 
+| 20210619T15:01:15Z | idk just for testing on virtual machine, don%t use this on your real machine ;p | https://github.com/ztbw/backdoor | 0 | 0| 
+| 20210619T13:57:59Z | Backdoor Android programado en Phyton | https://github.com/Fr0il4nSierra/Backdoor_Phyton | 0 | 0| 
 | 20210619T09:54:58Z | Backdoor | https://github.com/Markusip/or-install | 0 | 0| 
 | 20210619T08:20:24Z | SCP:SL simple server side backdoor | https://github.com/ggpabuk/ExiledBackdoor | 0 | 0| 
 
@@ -60,16 +65,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210619T12:52:29Z | Fuzzy Expert Systems in Python | https://github.com/jdvelasq/fuzzy-expert | 0 | 0| 
-| 20210619T12:45:27Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
-| 20210619T12:34:01Z | Null | https://github.com/Uelayebausb/fuzzy-octo-carnival | 0 | 0| 
-| 20210619T12:15:14Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 9 | 5| 
-| 20210619T11:35:27Z | Null | https://github.com/TXGAPOORV/fuzzy-octo-waddle | 0 | 0| 
-| 20210619T11:33:05Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210619T11:16:47Z | Emulation based snapshot fuzzer | https://github.com/jaoeul/gingersnap | 0 | 0| 
-| 20210619T10:51:18Z | Null | https://github.com/dstathakos/fuzzy-goggles | 0 | 0| 
-| 20210619T10:44:11Z | Null | https://github.com/fuzzsa/fuzzsa-bugs | 0 | 1| 
-| 20210619T10:34:04Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6386 | 1301| 
+| 20210619T23:55:29Z | Gentoo overlay | https://github.com/lferra/fuzzy-potato | 0 | 0| 
+| 20210619T23:48:29Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6390 | 1301| 
+| 20210619T21:25:03Z | Null | https://github.com/Kongnaret/fuzzy-pancake | 0 | 0| 
+| 20210619T21:19:45Z | PoC of fuzzing closed-source userspace binaries with KVM | https://github.com/klecko/kvm-fuzz | 64 | 5| 
+| 20210619T21:11:00Z | Null | https://github.com/surajraju20/fuzzy1 | 0 | 0| 
+| 20210619T21:06:15Z | Null | https://github.com/miriamgrigsby/fuzzy-coin | 0 | 0| 
+| 20210619T20:59:38Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 288 | 38| 
+| 20210619T20:57:30Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 6 | 0| 
+| 20210619T20:55:10Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
+| 20210619T20:07:27Z | Fuzzy Expert Systems in Python | https://github.com/jdvelasq/fuzzy-expert | 0 | 0| 
 
 
 
