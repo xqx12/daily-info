@@ -117,6 +117,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210620T00:57:00Z | Null | https://github.com/NTHieu2k1/AI_Fuzzy_Project_AIP | 0 | 0| 
 | 20210620T00:04:51Z | Null | https://github.com/miya-design/fuzzy-octo-system | 0 | 0| 
 | 20210620T00:04:14Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6390 | 1301| 
 | 20210619T23:55:29Z | Gentoo overlay | https://github.com/lferra/fuzzy-potato | 0 | 0| 
@@ -126,7 +127,6 @@
 | 20210619T21:06:15Z | Null | https://github.com/miriamgrigsby/fuzzy-coin | 0 | 0| 
 | 20210619T20:59:38Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 288 | 38| 
 | 20210619T20:57:30Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 6 | 0| 
-| 20210619T20:55:10Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
 
 
 
