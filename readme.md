@@ -62,6 +62,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210620T12:12:44Z | Null | https://github.com/alialfie/Fuzzy-Logic | 0 | 0| 
 | 20210620T11:43:40Z | Simple Fuzzer built from BNF grammar | https://github.com/saikumar208/sqlFuzz | 1 | 0| 
 | 20210620T11:26:56Z | Null | https://github.com/antdurrant/fuzzy_join_app | 0 | 0| 
 | 20210620T11:16:45Z | DOM fuzzer | https://github.com/mevid93/domzzer | 0 | 0| 
@@ -71,7 +72,6 @@
 | 20210620T10:04:23Z | Null | https://github.com/pengfei1993/Fuzzy | 1 | 0| 
 | 20210620T09:39:30Z | Fuzzy logic implementation  | https://github.com/IndraWirananta/Fuzzy-Logic | 0 | 0| 
 | 20210620T09:22:09Z | PoC of fuzzing closed-source userspace binaries with KVM | https://github.com/klecko/kvm-fuzz | 65 | 5| 
-| 20210620T09:01:19Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 
 
 
