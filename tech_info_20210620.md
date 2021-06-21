@@ -87,7 +87,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210620T23:54:00Z | Null | https://github.com/miriamgrigsby/fuzzy-coin | 0 | 0| 
 | 20210620T23:41:50Z | Achieving security against fuzzing and improving bandwidth efficiency by combining FEC and symmetric encryption. | https://github.com/koraa/decryption-despite-errors | 0 | 0| 
 | 20210620T23:41:50Z | First Group Project | https://github.com/kamacasta/Fuzzy-Friend-Finder | 1 | 0| 
 | 20210620T23:36:49Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
@@ -97,6 +96,7 @@
 | 20210620T18:34:55Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 288 | 38| 
 | 20210620T18:30:20Z | CBOR codec (in Go) with CBOR tags, Go struct tags (toarray/keyasint/omitempty), float64/32/16, big.Int, and fuzz tested billions of execs for reliable RFC 7049 & RFC 8949.  | https://github.com/fxamacker/cbor | 281 | 21| 
 | 20210620T18:28:07Z | Null | https://github.com/oddogan/COVID-19-Vaccination-with-Fuzzy-Control | 0 | 0| 
+| 20210620T18:24:25Z | The first one | https://github.com/ibabiome/fuzzy-palm-tree | 0 | 0| 
 
 
 
