@@ -94,7 +94,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210621T12:29:13Z | Null | https://github.com/danikirby/fuzzy-train | 0 | 0| 
+| 20210621T12:31:22Z | Null | https://github.com/danikirby/fuzzy-train | 0 | 0| 
 | 20210621T12:22:16Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 655 | 102| 
 | 20210621T12:18:21Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1234 | 220| 
 | 20210621T12:17:45Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 460 | 40| 
