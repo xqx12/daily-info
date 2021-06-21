@@ -93,8 +93,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210621T12:10:29Z | Null | https://github.com/dhanasureshr/student-performance-using-fuzzy-logic | 0 | 0| 
 | 20210621T12:02:27Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210621T12:00:02Z | Null | https://github.com/dhanasureshr/student-performance-using-fuzzy-logic | 0 | 0| 
 | 20210621T11:55:37Z | Null | https://github.com/fuzzsa/fuzzsa-bugs | 0 | 1| 
 | 20210621T11:36:39Z | A fuzzer for full VM kernel/driver targets | https://github.com/IntelLabs/kAFL | 232 | 38| 
 | 20210621T11:02:05Z | Null | https://github.com/kingloki-github/fuzzy-adventure | 0 | 0| 
