@@ -147,12 +147,12 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210621T01:43:26Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210621T01:41:41Z | Where i do things | https://github.com/fuzzy1450/Fuzzy1450.github.io | 13 | 2| 
 | 20210621T00:50:01Z | Null | https://github.com/miriamgrigsby/fuzzy-coin | 0 | 0| 
 | 20210621T00:04:34Z | The Art, Science, and Engineering of Fuzzing: A Survey | https://github.com/SoftSec-KAIST/Fuzzing-Survey | 122 | 18| 
 | 20210620T23:41:50Z | Achieving security against fuzzing and improving bandwidth efficiency by combining FEC and symmetric encryption. | https://github.com/koraa/decryption-despite-errors | 0 | 0| 
 | 20210620T23:41:50Z | First Group Project | https://github.com/kamacasta/Fuzzy-Friend-Finder | 1 | 0| 
-| 20210620T23:36:49Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210620T23:06:39Z | Null | https://github.com/jan-golda/PW-FuzzyController | 0 | 0| 
 | 20210620T21:36:24Z | Resolución del Seminario de Lógica Fuzzy de la asignatura Inteligencia Artificial (período 2021) - UNJu | https://github.com/matness-university/U2-fuzzy-logic | 0 | 0| 
 | 20210620T20:51:38Z | commonmark.js で Markdown を変換する | https://github.com/lawrelie/fuzzy-giggle.js | 0 | 0| 
