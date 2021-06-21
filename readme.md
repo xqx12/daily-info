@@ -93,12 +93,12 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210621T12:02:27Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210621T12:00:02Z | Null | https://github.com/dhanasureshr/student-performance-using-fuzzy-logic | 0 | 0| 
 | 20210621T11:55:37Z | Null | https://github.com/fuzzsa/fuzzsa-bugs | 0 | 1| 
 | 20210621T11:36:39Z | A fuzzer for full VM kernel/driver targets | https://github.com/IntelLabs/kAFL | 232 | 38| 
 | 20210621T11:02:05Z | Null | https://github.com/kingloki-github/fuzzy-adventure | 0 | 0| 
 | 20210621T10:43:28Z | Owfuzz: a WiFi protocol fuzzing tool | https://github.com/alipay/WiFi-Protocol-Fuzzing-Tool | 54 | 4| 
-| 20210621T10:41:25Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210621T10:08:16Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6399 | 1300| 
 | 20210621T09:58:13Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 460 | 40| 
 | 20210621T09:52:51Z | Null | https://github.com/ArtieFuzzz/ArtieFuzzz | 0 | 1| 
