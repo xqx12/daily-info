@@ -52,7 +52,7 @@
 | 20210620T02:47:02Z | cve-2021-3156 | Null | https://github.com/mrofisr/docker-cve-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210618T10:48:20Z | CVE-2020-25627 | Stored XSS via moodlenetprofile parameter in user profile | https://github.com/HoangKien1020/CVE-2020-25627 | The moodlenetprofile user profile field required extra sanitizing to prevent a stored XSS risk. This affects versions 3.9 to 3.9.1. Fixed in 3.9.2.| 
 | 20210618T10:27:08Z | CVE-2021-0484 | PoC for exploiting CVE-2021-0484 : In readVector of IMediaPlayer.cpp, there is a possible read of uninitialized heap data due to a missing bounds check. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-9 Android-10 Android-11 Android-8.1Android ID: A-173720767 | https://github.com/PwnCast/CVE-2021-0484 | In readVector of IMediaPlayer.cpp, there is a possible read of uninitialized heap data due to a missing bounds check. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-9 Android-10 Android-11 Android-8.1Android ID: A-173720767| 
-| 20210618T10:27:01Z | CVE-2020-11235 | PoC for exploiting CVE-2020-11235 : Buffer overflow might occur while parsing unified command due to lack of check of input data received in Snapdragon Auto, Snapdragon Compute, Snapdragon Connectivity, Snapdragon Consumer Electronics Connectivity, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon IoT, Snapdragon Mobile, Snapdragon Voice & Music, Snapdragon Wired Infrastructure and Networking | https://github.com/PwnCast/CVE-2020-11235 | Buffer overflow might occur while parsing unified command due to lack of check of input data received in Snapdragon Auto, Snapdragon Compute, Snapdragon Connectivity, Snapdragon Consumer Electronics Connectivity, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon IoT, Snapdragon Mobile, Snapdragon Voice & Music, Snapdragon Wired Infrastructure and Networking| 
+| 20210618T10:27:01Z | CVE-2020-11235 | PoC for exploiting CVE-2020-11235 : Buffer overflow might occur while parsing unified command due to lack of check of input data received in Snapdragon Auto, Snapdragon Compute, Snapdragon Connectivity, Snapdragon Consumer Electronics Connectivity, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon IoT, Snapdragon Mobile, Snapdragon Voice & Music, Snapdragon Wired Infrastructure and Networking | https://github.com/PwnCast/CVE-2020-11235 | | 
 | 20210618T10:26:54Z | CVE-2020-11238 | PoC for exploiting CVE-2020-11238 : Possible Buffer over-read in ARP/NS parsing due to lack of check of packet length received in Snapdragon Auto, Snapdragon Compute, Snapdragon Connectivity, Snapdragon Consumer Electronics Connectivity, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon Mobile, Snapdragon Voice & Music, Snapdragon Wired Infrastructure and Networking | https://github.com/PwnCast/CVE-2020-11238 | Possible Buffer over-read in ARP/NS parsing due to lack of check of packet length received in Snapdragon Auto, Snapdragon Compute, Snapdragon Connectivity, Snapdragon Consumer Electronics Connectivity, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon Mobile, Snapdragon Voice & Music, Snapdragon Wired Infrastructure and Networking| 
 | 20210618T10:26:48Z | CVE-2020-11239 | PoC for exploiting CVE-2020-11239 : Use after free issue when importing a DMA buffer by using the CPU address of the buffer due to attachment is not cleaned up properly in Snapdragon Auto, Snapdragon Compute, Snapdragon Connectivity, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon Mobile, Snapdragon Voice & Music, Snapdragon Wearables | https://github.com/PwnCast/CVE-2020-11239 | Use after free issue when importing a DMA buffer by using the CPU address of the buffer due to attachment is not cleaned up properly in Snapdragon Auto, Snapdragon Compute, Snapdragon Connectivity, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon Mobile, Snapdragon Voice & Music, Snapdragon Wearables| 
 | 20210618T10:26:40Z | CVE-2021-20728 | PoC for exploiting CVE-2021-20728 : Improper access control vulnerability in goo blog App for Android ver.1.2.25 and earlier and for iOS ver.1.3.3 and earlier allows a remote attacker to lead a user to access an arbitrary website via the vulnerable App. | https://github.com/PwnCast/CVE-2021-20728 | Improper access control vulnerability in goo blog App for Android ver.1.2.25 and earlier and for iOS ver.1.3.3 and earlier allows a remote attacker to lead a user to access an arbitrary website via the vulnerable App.| 
@@ -88,31 +88,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210620T15:02:51Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
-| 20210620T14:36:22Z | Write ups of publicly known exploits to help in my understanding. | https://github.com/Galla218/Exploit-Dev | 0 | 0| 
-| 20210620T14:21:25Z | 🔧 The program that allows you to grab certain info about the victim | https://github.com/Zeczero/DiscordDataGrabber | 5 | 0| 
-| 20210620T14:00:45Z | Tokens scanner to know what is this token , and tell you how exploit if available. | https://github.com/Abdulrahman-Kamel/tokenScanner | 3 | 1| 
-| 20210620T13:59:18Z | Basic Exploit Scripts | https://github.com/Cyamil/Basic-Exploits | 0 | 0| 
-| 20210620T13:48:38Z | Labs to learn exploiting | https://github.com/aliakyurek/exploit_labs | 0 | 0| 
-| 20210620T13:35:14Z | Null | https://github.com/HarrysExploit/Harrys-exploit-api | 0 | 0| 
-| 20210620T12:57:07Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9574 | 1561| 
-| 20210620T12:55:18Z | Fix exploits on anarchy minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 44 | 11| 
-| 20210620T12:53:51Z | 🔧 The program that allows you to grab certain info about the victim | https://github.com/Zeczero/Discord-Data-Grabber | 5 | 0| 
+| 20210621T00:02:52Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
+| 20210620T23:37:31Z | Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, polkit, docker socket :arrow_up: :skull_and_crossbones: | https://github.com/liamg/traitor | 3208 | 176| 
+| 20210620T23:22:56Z | Studying extemporaneous coordination in temporary teams exploiting unique, large scale, behavioral tracking data. | https://github.com/enricoforti/atypicalheroes | 0 | 0| 
+| 20210620T21:58:47Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1164 | 551| 
+| 20210620T21:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9577 | 1561| 
+| 20210620T21:14:57Z | Exploit for RakNet | https://github.com/DevClancy/raknet_fucker | 1 | 0| 
+| 20210620T20:08:22Z | Null | https://github.com/GreenToxicAura/exploits | 0 | 0| 
+| 20210620T20:05:32Z |  CamOver is a camera exploitation tool that allows to disclosure network camera admin password. | https://github.com/EntySec/CamOver | 4 | 2| 
+| 20210620T19:53:07Z | RomBuster is a router exploitation tool that allows to disclosure network router admin password. | https://github.com/EntySec/RomBuster | 14 | 2| 
+| 20210620T19:52:31Z | CamRaptor is a tool that exploits several vulnerabilities in popular DVR cameras to obtain network camera credentials. | https://github.com/EntySec/CamRaptor | 4 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210620T13:59:45Z | Python AV Evasion Tools | https://github.com/G1ft3dC0d3/MsfMania | 176 | 37| 
+| 20210620T22:03:02Z | Perlatan Buat Hamker | https://github.com/ItsmeikyXSec4O4/Mini-Shell-Backdoor | 1 | 0| 
+| 20210620T21:58:47Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1164 | 551| 
+| 20210620T21:09:28Z | Python AV Evasion Tools | https://github.com/G1ft3dC0d3/MsfMania | 181 | 38| 
+| 20210620T20:45:57Z | A module for building botnet or back door with Python and Telegram control panel | https://github.com/onionj/pybotnet | 1 | 0| 
 | 20210620T10:07:44Z | EcchiExploit Shell v1.0 | https://github.com/dmzhari/ecchi-shell | 0 | 0| 
-| 20210620T09:44:17Z | A module for building botnet or back door with Python and Telegram control panel | https://github.com/onionj/pybotnet | 1 | 0| 
 | 20210620T09:12:53Z | A token logger for discord + steals Brave/Chrome passwords and usernames | https://github.com/CUPZYY/Backdoor-Machine | 17 | 4| 
 | 20210620T02:40:17Z | Backdoor intended for Minecraft Servers | https://github.com/wyattdigitalz/Cyanide | 0 | 0| 
 | 20210619T21:24:34Z | A basic backdoor, written in Python, that connects the infected system with the backdoor%s listener, which includes a custom reverse shell. Educational purposes only. | https://github.com/c0y0te-git/PythonDoor | 0 | 0| 
 | 20210619T15:01:15Z | idk just for testing on virtual machine, don%t use this on your real machine ;p | https://github.com/ztbw/backdoor | 0 | 0| 
 | 20210619T13:57:59Z | Backdoor Android programado en Phyton | https://github.com/Fr0il4nSierra/Backdoor_Phyton | 0 | 0| 
-| 20210619T09:54:58Z | Backdoor | https://github.com/Markusip/or-install | 0 | 0| 
-| 20210619T08:20:24Z | SCP:SL simple server side backdoor | https://github.com/ggpabuk/ExiledBackdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -133,9 +133,13 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210620T14:31:11Z | Code to run the evaluation of our %Obfuscated Access and Search Patterns in Searchable Encryption%, NDSS%21 | https://github.com/simon-oya/NDSS21-osse-evaluation | 1 | 1| 
+| 20210620T14:25:35Z | Code for NDSS 2021 Paper %Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses Against Federated Learning% | https://github.com/vrt1shjwlkr/NDSS21-Model-Poisoning | 13 | 2| 
+| 20210619T08:39:40Z | Original implementation of FlowPrint as in the NDSS %20 paper | https://github.com/Thijsvanede/FlowPrint | 48 | 18| 
 | 20210614T16:36:56Z | Cost-Aware Robust Tree Ensembles for Security Applications (Usenix Security%21) https://arxiv.org/pdf/1912.01149.pdf | https://github.com/surrealyz/growtrees | 14 | 4| 
 | 20210612T08:53:44Z | DSCP is a dynamic secure cache partitioning implementation on gem5. The code includes a ScatterCache (USENIX SECURITY%19) variant and it is partially available to reproduce set partitioning. | https://github.com/saintube/gem5-dscp | 2 | 0| 
 | 20210611T11:22:47Z | Proximal Gradient Analysis open source release based on our USENIX Security 2021 paper: %Fine Grained Dataflow Analysis with Proximal Gradients%. | https://github.com/gryan11/PGA | 20 | 3| 
+| 20210609T03:23:26Z | Code for NDSS% 19 paper:  A Systematic Framework to Generate Invariants for Anomaly Detection in Industrial Control Systems | https://github.com/cfeng783/NDSS19_InvariantRuleAD | 1 | 1| 
 | 20210608T20:05:12Z | Proof-of-concept implementation for the paper %Osiris: Automated Discovery of Microarchitectural Side Channels% (USENIX Security%21) | https://github.com/cispa/osiris | 8 | 2| 
 | 20210601T04:45:36Z | [USENIX SECURITY%19] PeX: A Permission Check Analysis Framework for Linux Kernel | https://github.com/lzto/pex | 51 | 13| 
 
@@ -143,16 +147,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210620T15:05:47Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
-| 20210620T14:45:32Z | fuzzy-control-system | https://github.com/JerryJack121/fuzzy-control-system | 0 | 0| 
-| 20210620T14:31:29Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
-| 20210620T14:05:48Z | Null | https://github.com/surajraju20/fuzzy1 | 0 | 0| 
-| 20210620T13:58:35Z | A tool that extracts the core segments of Chinese corporate names and computes the similarity between those as a weighted sum of their phonetic (sound) and glyphic (shape) similarities. Implemented to help the Anti Money Laundering (AML) efforts at the bank. | https://github.com/KunyuHe/AML-Chinese-Corporate-Name-Fuzzy-Matching | 1 | 0| 
-| 20210620T13:35:53Z | A fuzzer for full VM kernel/driver targets | https://github.com/IntelLabs/kAFL | 232 | 38| 
-| 20210620T13:08:20Z | Null | https://github.com/antdurrant/fuzzy_join_app | 0 | 0| 
-| 20210620T12:37:59Z | DOM fuzzer | https://github.com/mevid93/domzzer | 0 | 0| 
-| 20210620T12:27:04Z | GUI MATLAB file for fuzzy C mean classification on image/imagery. | https://github.com/amrita05/Fuzzy-C-mean- | 0 | 0| 
-| 20210620T12:20:27Z | White-box fuzzer for Java bytecode | https://github.com/vorpal-research/kex | 6 | 8| 
+| 20210621T00:04:34Z | The Art, Science, and Engineering of Fuzzing: A Survey | https://github.com/SoftSec-KAIST/Fuzzing-Survey | 122 | 18| 
+| 20210620T23:54:00Z | Null | https://github.com/miriamgrigsby/fuzzy-coin | 0 | 0| 
+| 20210620T23:41:50Z | Achieving security against fuzzing and improving bandwidth efficiency by combining FEC and symmetric encryption. | https://github.com/koraa/decryption-despite-errors | 0 | 0| 
+| 20210620T23:41:50Z | First Group Project | https://github.com/kamacasta/Fuzzy-Friend-Finder | 1 | 0| 
+| 20210620T23:36:49Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20210620T23:06:39Z | Null | https://github.com/jan-golda/PW-FuzzyController | 0 | 0| 
+| 20210620T21:36:24Z | Resolución del Seminario de Lógica Fuzzy de la asignatura Inteligencia Artificial (período 2021) - UNJu | https://github.com/matness-university/U2-fuzzy-logic | 0 | 0| 
+| 20210620T20:51:38Z | commonmark.js で Markdown を変換する | https://github.com/lawrelie/fuzzy-giggle.js | 0 | 0| 
+| 20210620T18:34:55Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 288 | 38| 
+| 20210620T18:30:20Z | CBOR codec (in Go) with CBOR tags, Go struct tags (toarray/keyasint/omitempty), float64/32/16, big.Int, and fuzz tested billions of execs for reliable RFC 7049 & RFC 8949.  | https://github.com/fxamacker/cbor | 281 | 21| 
 
 
 
