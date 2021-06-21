@@ -88,7 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210621T00:23:37Z | Null | https://github.com/wjddnjs33/Exploit | 0 | 0| 
+| 20210621T00:24:47Z | Null | https://github.com/wjddnjs33/Exploit | 0 | 0| 
 | 20210621T00:02:52Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210620T23:37:31Z | Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, polkit, docker socket :arrow_up: :skull_and_crossbones: | https://github.com/liamg/traitor | 3208 | 176| 
 | 20210620T23:22:56Z | Studying extemporaneous coordination in temporary teams exploiting unique, large scale, behavioral tracking data. | https://github.com/enricoforti/atypicalheroes | 0 | 0| 
