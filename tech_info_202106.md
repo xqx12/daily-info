@@ -31,16 +31,16 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210620 | 开源情报（OSINT）常用工具及其安全使用 | https://mp.weixin.qq.com/s/UiAdHpQABlNarb60L5UGNw| 
+| 20210620 | 第三方组件安全评估指南 | https://mp.weixin.qq.com/s/45dF9lqnL2ByKgQNmKetyw| 
+| 20210620 | iOS Wi-Fi 格式串拒绝服务 0day 分析 | https://mp.weixin.qq.com/s/-PVLxXRi9Yi3A5YmhiskJA| 
+| 20210620 | 一文看懂内存马 | https://mp.weixin.qq.com/s/T_6At4Crp1qmdczBSuLYdQ| 
 | 20210619 | 如何高效使用RapidDNS | https://mp.weixin.qq.com/s/aoXvdCs5muOaOPWdW1ixJQ| 
 | 20210618 | 针对接触者追踪系统实施虚假曝光通知攻击 | https://mp.weixin.qq.com/s/7ulSpgPQX5Uiiwhv_5b7eg| 
 | 20210618 | 白说:php反序列化之pop链 | https://www.sec-in.com/article/1094| 
 | 20210617 | 基于API亲密度分析的安卓恶意软件检测系统 | https://mp.weixin.qq.com/s/HmSjFNnaG4VtuR1MR2QjQA| 
 | 20210617 | EXTRACTOR：从威胁报告中提取攻击行为信息 | https://mp.weixin.qq.com/s/Lm_yC0oD_BNiyA4E9TwX7A| 
 | 20210617 | JavaScript 常见 AST 梳理 | https://mp.weixin.qq.com/s/biQt6cw05-4G-gkJS9fGTQ| 
-| 20210616 | HT2114 Telnet 服务暴力破解 new | https://tools.xazlsec.com/index.php/HT2110/242.html| 
-| 20210616 | HT2111 SSH 服务暴力枚举 | https://tools.xazlsec.com/index.php/HT2110/231.html| 
-| 20210616 | HT1223 Go 版指纹识别工具 Webanalyze | https://tools.xazlsec.com/index.php/HT1220/215.html| 
-| 20210616 | HT1221 Web 应用信息收集工具 WIG | https://tools.xazlsec.com/index.php/HT1220/207.html| 
 
 
 # CVE Github 推荐
@@ -54,13 +54,14 @@
 | 20210618T10:27:08Z | CVE-2021-0484 | PoC for exploiting CVE-2021-0484 : In readVector of IMediaPlayer.cpp, there is a possible read of uninitialized heap data due to a missing bounds check. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-9 Android-10 Android-11 Android-8.1Android ID: A-173720767 | https://github.com/PwnCast/CVE-2021-0484 | In readVector of IMediaPlayer.cpp, there is a possible read of uninitialized heap data due to a missing bounds check. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-9 Android-10 Android-11 Android-8.1Android ID: A-173720767| 
 | 20210618T10:27:01Z | CVE-2020-11235 | PoC for exploiting CVE-2020-11235 : Buffer overflow might occur while parsing unified command due to lack of check of input data received in Snapdragon Auto, Snapdragon Compute, Snapdragon Connectivity, Snapdragon Consumer Electronics Connectivity, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon IoT, Snapdragon Mobile, Snapdragon Voice & Music, Snapdragon Wired Infrastructure and Networking | https://github.com/PwnCast/CVE-2020-11235 | Buffer overflow might occur while parsing unified command due to lack of check of input data received in Snapdragon Auto, Snapdragon Compute, Snapdragon Connectivity, Snapdragon Consumer Electronics Connectivity, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon IoT, Snapdragon Mobile, Snapdragon Voice & Music, Snapdragon Wired Infrastructure and Networking| 
 | 20210618T10:26:54Z | CVE-2020-11238 | PoC for exploiting CVE-2020-11238 : Possible Buffer over-read in ARP/NS parsing due to lack of check of packet length received in Snapdragon Auto, Snapdragon Compute, Snapdragon Connectivity, Snapdragon Consumer Electronics Connectivity, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon Mobile, Snapdragon Voice & Music, Snapdragon Wired Infrastructure and Networking | https://github.com/PwnCast/CVE-2020-11238 | Possible Buffer over-read in ARP/NS parsing due to lack of check of packet length received in Snapdragon Auto, Snapdragon Compute, Snapdragon Connectivity, Snapdragon Consumer Electronics Connectivity, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon Mobile, Snapdragon Voice & Music, Snapdragon Wired Infrastructure and Networking| 
-| 20210618T10:26:48Z | CVE-2020-11239 | PoC for exploiting CVE-2020-11239 : Use after free issue when importing a DMA buffer by using the CPU address of the buffer due to attachment is not cleaned up properly in Snapdragon Auto, Snapdragon Compute, Snapdragon Connectivity, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon Mobile, Snapdragon Voice & Music, Snapdragon Wearables | https://github.com/PwnCast/CVE-2020-11239 | | 
+| 20210618T10:26:48Z | CVE-2020-11239 | PoC for exploiting CVE-2020-11239 : Use after free issue when importing a DMA buffer by using the CPU address of the buffer due to attachment is not cleaned up properly in Snapdragon Auto, Snapdragon Compute, Snapdragon Connectivity, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon Mobile, Snapdragon Voice & Music, Snapdragon Wearables | https://github.com/PwnCast/CVE-2020-11239 | Use after free issue when importing a DMA buffer by using the CPU address of the buffer due to attachment is not cleaned up properly in Snapdragon Auto, Snapdragon Compute, Snapdragon Connectivity, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon Mobile, Snapdragon Voice & Music, Snapdragon Wearables| 
 | 20210618T10:26:40Z | CVE-2021-20728 | PoC for exploiting CVE-2021-20728 : Improper access control vulnerability in goo blog App for Android ver.1.2.25 and earlier and for iOS ver.1.3.3 and earlier allows a remote attacker to lead a user to access an arbitrary website via the vulnerable App. | https://github.com/PwnCast/CVE-2021-20728 | Improper access control vulnerability in goo blog App for Android ver.1.2.25 and earlier and for iOS ver.1.3.3 and earlier allows a remote attacker to lead a user to access an arbitrary website via the vulnerable App.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210620T21:23:18Z | TInA is an automated, generic, verification-friendly and trustworthy lifting technique turning GNU-style inline assembly into semantically equivalent C code amenable to verification, in order to take advantage of existing C analyzers. | https://github.com/binsec/klee21-tina-artifact | 19 | 1| 
 | 20210620T07:35:02Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1716 | 495| 
 | 20210619T13:55:27Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 10 | 1| 
 | 20210619T13:52:19Z | Report PPT template for CS students  | https://github.com/Fishermanykx/paper_reading_report_template | 0 | 0| 
@@ -68,7 +69,6 @@
 | 20210619T03:11:42Z | An opiniated Next TypeScript powered starter which include Klee, emotion / styled-system, framer motion, jest and Cypress | https://github.com/Liinkiing/next-ts-klee-starter | 0 | 0| 
 | 20210618T14:00:38Z | I main Klee so here is information about her | https://github.com/ibelivekleesupremacy5/kleeismybeloved | 0 | 0| 
 | 20210618T09:38:41Z | Null | https://github.com/BajacDev/rust-klee-docker | 2 | 0| 
-| 20210618T03:41:45Z | TInA is an automated, generic, verification-friendly and trustworthy lifting technique turning GNU-style inline assembly into semantically equivalent C code amenable to verification, in order to take advantage of existing C analyzers. | https://github.com/binsec/klee21-tina-artifact | 18 | 1| 
 | 20210618T03:03:53Z | C library to support Map2Check Tool | https://github.com/hbgit/map2check-library | 0 | 0| 
 | 20210618T01:44:07Z | Null | https://github.com/JaimePSantos/ResearchKlee | 0 | 0| 
 

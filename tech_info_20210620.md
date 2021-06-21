@@ -11,6 +11,10 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210620 | 开源情报（OSINT）常用工具及其安全使用 | https://mp.weixin.qq.com/s/UiAdHpQABlNarb60L5UGNw| 
+| 20210620 | 第三方组件安全评估指南 | https://mp.weixin.qq.com/s/45dF9lqnL2ByKgQNmKetyw| 
+| 20210620 | iOS Wi-Fi 格式串拒绝服务 0day 分析 | https://mp.weixin.qq.com/s/-PVLxXRi9Yi3A5YmhiskJA| 
+| 20210620 | 一文看懂内存马 | https://mp.weixin.qq.com/s/T_6At4Crp1qmdczBSuLYdQ| 
 
 
 # CVE Github 推荐
@@ -25,6 +29,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210620T21:23:18Z | TInA is an automated, generic, verification-friendly and trustworthy lifting technique turning GNU-style inline assembly into semantically equivalent C code amenable to verification, in order to take advantage of existing C analyzers. | https://github.com/binsec/klee21-tina-artifact | 19 | 1| 
 | 20210620T07:35:02Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1716 | 495| 
 
 
