@@ -48,7 +48,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210621T12:12:36Z | CVE-2020-8300 | Detect Citrix ADC SAML action or SAML iDP Profile config vulnerable to CVE-2020-8300 using Citrix ADC NITRO API | https://github.com/stuartcarroll/CitrixADC-CVE-2020-8300 | Citrix ADC and Citrix/NetScaler Gateway before 13.0-82.41, 12.1-62.23, 11.1-65.20 and Citrix ADC 12.1-FIPS before 12.1-55.238 suffer from improper access control allowing SAML authentication hijack through a phishing attack to steal a valid user session. Note that Citrix ADC or Citrix Gateway must be configured as a SAML SP or a SAML IdP for this to be possible.| 
 | 20210621T09:10:11Z | CVE-2021-29337 | Null | https://github.com/rjt-gupta/CVE-2021-29337 | MODAPI.sys in MSI Dragon Center 2.0.104.0 allows low-privileged users to access kernel memory and potentially escalate privileges via a crafted IOCTL 0x9c406104 call. This IOCTL provides the MmMapIoSpace feature for mapping physical memory.| 
-| 20210621T07:59:00Z | CVE-2020- | RCE in EXIF metadata removal from images research | https://github.com/awasthi7/CVE-2020-Exif-RCE | | 
+| 20210621T07:59:00Z | CVE-2020- | RCE in EXIF metadata removal from images research | https://github.com/awasthi7/CVE-2020-Exif-RCE | 未查询到CVE信息| 
 | 20210620T11:02:49Z | CVE-2021-21551 | Script to patch your domain computers about the CVE-2021-21551. Privesc on machines that have the driver dbutil_2_3.sys, installed by some DELL tools (BIOS updater, SupportAssist...) | https://github.com/arnaudluti/PS-CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
 | 20210620T08:46:14Z | CVE-2020-14321 | Course enrolments allowed privilege escalation from teacher role into manager role to RCE | https://github.com/HoangKien1020/CVE-2020-14321 | 未查询到CVE信息| 
 | 20210620T04:03:32Z | CVE-2020-7247 | PoC exploit for CVE-2020-7247 OpenSMTPD 6.4.0 < 6.6.1 Remote Code Execution | https://github.com/f4T1H21/CVE-2020-7247 | smtp_mailaddr in smtp_session.c in OpenSMTPD 6.6, as used in OpenBSD 6.6 and other products, allows remote attackers to execute arbitrary commands as root via a crafted SMTP session, as demonstrated by shell metacharacters in a MAIL FROM field. This affects the %uncommented% default configuration. The issue exists because of an incorrect return value upon failure of input validation.| 
@@ -88,7 +88,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210621T12:19:25Z | Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish to influence Onelinetips and explain the commands, for the better understanding of new hunters.. | https://github.com/KingOfBugbounty/KingOfBugBountyTips | 2198 | 353| 
+| 20210621T12:32:07Z | Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish to influence Onelinetips and explain the commands, for the better understanding of new hunters.. | https://github.com/KingOfBugbounty/KingOfBugBountyTips | 2198 | 353| 
+| 20210621T12:30:02Z | Null | https://github.com/MoryokaV/Activity-Exploit | 0 | 0| 
 | 20210621T12:17:10Z | Forestry Thematic Exploitation Platform | https://github.com/cgi-eoss/ftep | 5 | 0| 
 | 20210621T12:15:37Z | RomBuster is a router exploitation tool that allows to disclosure network router admin password. | https://github.com/EntySec/RomBuster | 14 | 2| 
 | 20210621T12:15:05Z |  CamOver is a camera exploitation tool that allows to disclosure network camera admin password. | https://github.com/EntySec/CamOver | 4 | 2| 
@@ -97,7 +98,6 @@
 | 20210621T12:03:11Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210621T11:45:21Z | Fix exploits on anarchy minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 44 | 11| 
 | 20210621T11:26:07Z | The popular GENIE Generator product is used by nearly all accelerator neutrino experiments and it plays a key role in the exploitation of neutrino data. The Generator implements a modern software framework and it includes state-of-the-art physics modules. It captures the latest results of the GENIE global analysis of neutrino scattering data and includes several tunes that were produced using the proprietary Comparisons and Tuning products. The GENIE physics model is universal and comprehensive:  It handles all neutrinos and targets, and all processes relevant from MeV to PeV energy scales. The Generator includes several tools (flux drivers, detector geometry navigators, specialized event generation apps, event reweighting engines) to simulate complex experimental setups in full detail and to support generator-related analysis tasks.  | https://github.com/GENIE-MC/Generator | 18 | 52| 
-| 20210621T10:57:53Z | Writeups For Exploit Education Challenges | https://github.com/Hellsender01/Exploit-Education | 4 | 0| 
 
 
 # backdoor on Github 推荐
@@ -147,7 +147,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210621T12:31:22Z | Null | https://github.com/danikirby/fuzzy-train | 0 | 0| 
+| 20210621T12:33:18Z | Null | https://github.com/danikirby/fuzzy-train | 0 | 0| 
 | 20210621T12:22:16Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 655 | 102| 
 | 20210621T12:18:21Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1234 | 220| 
 | 20210621T12:17:45Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 460 | 40| 
