@@ -33,7 +33,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210621T09:10:11Z | CVE-2021-29337 | Null | https://github.com/rjt-gupta/CVE-2021-29337 | 未查询到CVE信息| 
-| 20210621T07:59:00Z | CVE-2020- | RCE in EXIF metadata removal from images research | https://github.com/awasthi7/CVE-2020-Exif-RCE | | 
+| 20210621T07:59:00Z | CVE-2020- | RCE in EXIF metadata removal from images research | https://github.com/awasthi7/CVE-2020-Exif-RCE | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
