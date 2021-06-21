@@ -88,7 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210621T01:31:18Z | Null | https://github.com/supercellgamer/Exploit-GUI | 0 | 0| 
+| 20210621T01:36:07Z | Null | https://github.com/supercellgamer/Exploit-GUI | 0 | 0| 
 | 20210621T01:25:34Z | Exploiting raw images for image super-resolution, TPAMI 2021 | https://github.com/xuxy09/RawSR | 10 | 2| 
 | 20210621T01:03:04Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210621T00:56:37Z | Unicorn Framework is a unix post-exploitation framework that using one line command and powerful python payload attempts to spawn a command line session with big functional. | https://github.com/EntySec/Unicorn | 0 | 0| 
