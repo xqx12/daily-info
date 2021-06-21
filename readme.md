@@ -54,16 +54,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210621T01:59:35Z | My first zero day. | https://github.com/Crystalware/CVE-2019-13600 | 0 | 0| 
-| 20210621T01:57:10Z | GEF - GDB Enhanced Features for exploit devs & reversers | https://github.com/hugsy/gef | 3676 | 511| 
-| 20210621T01:53:25Z | Exploit proof of concept for EVGA%s WinRing0 device driver. | https://github.com/Crystalware/CVE-2020-14979 | 0 | 0| 
-| 20210621T01:50:24Z | Null | https://github.com/supercellgamer/Universal-Exploit-Hub | 0 | 0| 
-| 20210621T01:41:45Z | ps4h3x Trainer - PS4Trainer.xyz | https://github.com/PS4H3X-xyz/Trainer | 5 | 0| 
-| 20210621T01:36:07Z | Null | https://github.com/supercellgamer/Exploit-GUI | 0 | 0| 
-| 20210621T01:25:34Z | Exploiting raw images for image super-resolution, TPAMI 2021 | https://github.com/xuxy09/RawSR | 10 | 2| 
-| 20210621T01:03:04Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
-| 20210621T00:56:37Z | Unicorn Framework is a unix post-exploitation framework that using one line command and powerful python payload attempts to spawn a command line session with big functional. | https://github.com/EntySec/Unicorn | 0 | 0| 
-| 20210621T00:53:11Z | no pain no gain | https://github.com/BizarreLove/some_ctf_exploit | 0 | 0| 
+| 20210621T11:45:21Z | Fix exploits on anarchy minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 44 | 11| 
+| 20210621T11:26:07Z | The popular GENIE Generator product is used by nearly all accelerator neutrino experiments and it plays a key role in the exploitation of neutrino data. The Generator implements a modern software framework and it includes state-of-the-art physics modules. It captures the latest results of the GENIE global analysis of neutrino scattering data and includes several tunes that were produced using the proprietary Comparisons and Tuning products. The GENIE physics model is universal and comprehensive:  It handles all neutrinos and targets, and all processes relevant from MeV to PeV energy scales. The Generator includes several tools (flux drivers, detector geometry navigators, specialized event generation apps, event reweighting engines) to simulate complex experimental setups in full detail and to support generator-related analysis tasks.  | https://github.com/GENIE-MC/Generator | 18 | 52| 
+| 20210621T11:02:52Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
+| 20210621T10:57:53Z | Writeups For Exploit Education Challenges | https://github.com/Hellsender01/Exploit-Education | 4 | 0| 
+| 20210621T10:45:25Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 3 | 1| 
+| 20210621T10:33:21Z | Fix exploit for raklib. | https://github.com/DevClancy/magenta-fix | 0 | 0| 
+| 20210621T10:29:08Z | Discord exploit attack | https://github.com/QairexStudio/dismod | 0 | 0| 
+| 20210621T10:24:18Z | An experimental debt system for me and my friends, exploiting git requests for financial safety and gits history for trust | https://github.com/psorus/git-pay | 0 | 2| 
+| 20210621T10:14:37Z | Dévélopper, exploiter d%un base de données avec les données faostat.fr. Axe d%analyse des données malnutritions et visualisation des données. | https://github.com/SheharaMohamed/FAOSTAT | 0 | 0| 
+| 20210621T10:05:19Z | Agent-Based Modelling of labour exploitation in textile supply chains | https://github.com/kwabenantim/textile-labour | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -77,7 +77,11 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210621T01:40:02Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2357 | 346| 
+| 20210621T11:06:15Z | Monster is a symbolic execution engine for 64-bit RISC-U code | https://github.com/cksystemsgroup/monster | 6 | 3| 
+| 20210621T09:28:20Z | A RISC-V RV32 virtual prototype based on riscv-vp with symbolic execution support | https://github.com/agra-uni-bremen/symex-vp | 2 | 0| 
+| 20210621T09:16:58Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1823 | 381| 
+| 20210621T02:18:15Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 302 | 21| 
+| 20210621T01:40:02Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2357 | 347| 
 
 
 # big4 on Github 推荐
