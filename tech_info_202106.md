@@ -47,8 +47,8 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210620T11:02:49Z | CVE-2021-21551 | Script to patch your domain computers about the CVE-2021-21551. Privesc on machines that have the driver dbutil_2_3.sys, installed by some DELL tools (BIOS updater, SupportAssist...) | https://github.com/arnaudluti/PS-CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
-| 20210620T08:46:14Z | CVE-2020-14321 | Course enrolments allowed privilege escalation from teacher role into manager role to RCE | https://github.com/HoangKien1020/CVE-2020-14321 | | 
-| 20210620T04:03:32Z | CVE-2020-7247 | PoC exploit for CVE-2020-7247 OpenSMTPD 6.4.0 < 6.6.1 Remote Code Execution | https://github.com/f4T1H21/CVE-2020-7247 | smtp_mailaddr in smtp_session.c in OpenSMTPD 6.6, as used in OpenBSD 6.6 and other products, allows remote attackers to execute arbitrary commands as root via a crafted SMTP session, as demonstrated by shell metacharacters in a MAIL FROM field. This affects the %uncommented% default configuration. The issue exists because of an incorrect return value upon failure of input validation.| 
+| 20210620T08:46:14Z | CVE-2020-14321 | Course enrolments allowed privilege escalation from teacher role into manager role to RCE | https://github.com/HoangKien1020/CVE-2020-14321 | 未查询到CVE信息| 
+| 20210620T04:03:32Z | CVE-2020-7247 | PoC exploit for CVE-2020-7247 OpenSMTPD 6.4.0 < 6.6.1 Remote Code Execution | https://github.com/f4T1H21/CVE-2020-7247 | | 
 | 20210620T02:47:02Z | cve-2021-3156 | Null | https://github.com/mrofisr/docker-cve-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210618T10:48:20Z | CVE-2020-25627 | Stored XSS via moodlenetprofile parameter in user profile | https://github.com/HoangKien1020/CVE-2020-25627 | The moodlenetprofile user profile field required extra sanitizing to prevent a stored XSS risk. This affects versions 3.9 to 3.9.1. Fixed in 3.9.2.| 
 | 20210618T10:27:08Z | CVE-2021-0484 | PoC for exploiting CVE-2021-0484 : In readVector of IMediaPlayer.cpp, there is a possible read of uninitialized heap data due to a missing bounds check. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-9 Android-10 Android-11 Android-8.1Android ID: A-173720767 | https://github.com/PwnCast/CVE-2021-0484 | In readVector of IMediaPlayer.cpp, there is a possible read of uninitialized heap data due to a missing bounds check. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-9 Android-10 Android-11 Android-8.1Android ID: A-173720767| 
@@ -88,6 +88,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210621T01:52:56Z | My first zero day. | https://github.com/Crystalware/CVE-2019-13600 | 0 | 0| 
+| 20210621T01:50:24Z | Null | https://github.com/supercellgamer/Universal-Exploit-Hub | 0 | 0| 
 | 20210621T01:42:37Z | GEF - GDB Enhanced Features for exploit devs & reversers | https://github.com/hugsy/gef | 3677 | 511| 
 | 20210621T01:41:45Z | ps4h3x Trainer - PS4Trainer.xyz | https://github.com/PS4H3X-xyz/Trainer | 5 | 0| 
 | 20210621T01:36:07Z | Null | https://github.com/supercellgamer/Exploit-GUI | 0 | 0| 
@@ -96,8 +98,6 @@
 | 20210621T00:56:37Z | Unicorn Framework is a unix post-exploitation framework that using one line command and powerful python payload attempts to spawn a command line session with big functional. | https://github.com/EntySec/Unicorn | 0 | 0| 
 | 20210621T00:53:11Z | no pain no gain | https://github.com/BizarreLove/some_ctf_exploit | 0 | 0| 
 | 20210621T00:24:47Z | Null | https://github.com/wjddnjs33/Exploit | 0 | 0| 
-| 20210620T23:37:31Z | Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, polkit, docker socket :arrow_up: :skull_and_crossbones: | https://github.com/liamg/traitor | 3208 | 176| 
-| 20210620T23:22:56Z | Studying extemporaneous coordination in temporary teams exploiting unique, large scale, behavioral tracking data. | https://github.com/enricoforti/atypicalheroes | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -147,7 +147,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210621T01:46:48Z | Null | https://github.com/miriamgrigsby/fuzzy-coin | 0 | 0| 
+| 20210621T01:52:32Z | Null | https://github.com/miriamgrigsby/fuzzy-coin | 0 | 0| 
 | 20210621T01:43:26Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210621T01:41:41Z | Where i do things | https://github.com/fuzzy1450/Fuzzy1450.github.io | 13 | 2| 
 | 20210621T00:04:34Z | The Art, Science, and Engineering of Fuzzing: A Survey | https://github.com/SoftSec-KAIST/Fuzzing-Survey | 122 | 18| 
