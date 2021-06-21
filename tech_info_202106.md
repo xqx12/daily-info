@@ -88,6 +88,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210621T00:54:00Z | Unicorn Framework is a unix post-exploitation framework that using one line command and powerful python payload attempts to spawn a command line session with big functional. | https://github.com/EntySec/Unicorn | 0 | 0| 
+| 20210621T00:53:11Z | no pain no gain | https://github.com/BizarreLove/some_ctf_exploit | 0 | 0| 
 | 20210621T00:24:47Z | Null | https://github.com/wjddnjs33/Exploit | 0 | 0| 
 | 20210621T00:02:52Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210620T23:37:31Z | Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, polkit, docker socket :arrow_up: :skull_and_crossbones: | https://github.com/liamg/traitor | 3208 | 176| 
@@ -96,8 +98,6 @@
 | 20210620T21:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9577 | 1561| 
 | 20210620T21:14:57Z | Exploit for RakNet | https://github.com/DevClancy/raknet_fucker | 1 | 0| 
 | 20210620T20:08:22Z | Null | https://github.com/GreenToxicAura/exploits | 0 | 0| 
-| 20210620T20:05:32Z |  CamOver is a camera exploitation tool that allows to disclosure network camera admin password. | https://github.com/EntySec/CamOver | 4 | 2| 
-| 20210620T19:53:07Z | RomBuster is a router exploitation tool that allows to disclosure network router admin password. | https://github.com/EntySec/RomBuster | 14 | 2| 
 
 
 # backdoor on Github 推荐
