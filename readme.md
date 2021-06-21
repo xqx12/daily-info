@@ -59,7 +59,6 @@
 | --- | --- | --- | --- | ---| 
 | 20210620T22:03:02Z | Perlatan Buat Hamker | https://github.com/ItsmeikyXSec4O4/Mini-Shell-Backdoor | 1 | 0| 
 | 20210620T21:58:47Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1164 | 551| 
-| 20210620T21:09:28Z | Python AV Evasion Tools | https://github.com/G1ft3dC0d3/MsfMania | 181 | 38| 
 | 20210620T20:45:57Z | A module for building botnet or back door with Python and Telegram control panel | https://github.com/onionj/pybotnet | 1 | 0| 
 | 20210620T10:07:44Z | EcchiExploit Shell v1.0 | https://github.com/dmzhari/ecchi-shell | 0 | 0| 
 | 20210620T09:12:53Z | A token logger for discord + steals Brave/Chrome passwords and usernames | https://github.com/CUPZYY/Backdoor-Machine | 17 | 4| 
