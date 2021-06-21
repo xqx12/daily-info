@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210621T00:23:37Z | Null | https://github.com/wjddnjs33/Exploit | 0 | 0| 
 | 20210621T00:02:52Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210620T23:37:31Z | Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, polkit, docker socket :arrow_up: :skull_and_crossbones: | https://github.com/liamg/traitor | 3208 | 176| 
 | 20210620T23:22:56Z | Studying extemporaneous coordination in temporary teams exploiting unique, large scale, behavioral tracking data. | https://github.com/enricoforti/atypicalheroes | 0 | 0| 
@@ -97,7 +98,6 @@
 | 20210620T20:08:22Z | Null | https://github.com/GreenToxicAura/exploits | 0 | 0| 
 | 20210620T20:05:32Z |  CamOver is a camera exploitation tool that allows to disclosure network camera admin password. | https://github.com/EntySec/CamOver | 4 | 2| 
 | 20210620T19:53:07Z | RomBuster is a router exploitation tool that allows to disclosure network router admin password. | https://github.com/EntySec/RomBuster | 14 | 2| 
-| 20210620T19:52:31Z | CamRaptor is a tool that exploits several vulnerabilities in popular DVR cameras to obtain network camera credentials. | https://github.com/EntySec/CamRaptor | 4 | 0| 
 
 
 # backdoor on Github 推荐
