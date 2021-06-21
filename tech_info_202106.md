@@ -50,7 +50,7 @@
 | 20210621T09:10:11Z | CVE-2021-29337 | Null | https://github.com/rjt-gupta/CVE-2021-29337 | 未查询到CVE信息| 
 | 20210621T07:59:00Z | CVE-2020- | RCE in EXIF metadata removal from images research | https://github.com/awasthi7/CVE-2020-Exif-RCE | 未查询到CVE信息| 
 | 20210620T11:02:49Z | CVE-2021-21551 | Script to patch your domain computers about the CVE-2021-21551. Privesc on machines that have the driver dbutil_2_3.sys, installed by some DELL tools (BIOS updater, SupportAssist...) | https://github.com/arnaudluti/PS-CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
-| 20210620T08:46:14Z | CVE-2020-14321 | Course enrolments allowed privilege escalation from teacher role into manager role to RCE | https://github.com/HoangKien1020/CVE-2020-14321 | | 
+| 20210620T08:46:14Z | CVE-2020-14321 | Course enrolments allowed privilege escalation from teacher role into manager role to RCE | https://github.com/HoangKien1020/CVE-2020-14321 | 未查询到CVE信息| 
 | 20210620T04:03:32Z | CVE-2020-7247 | PoC exploit for CVE-2020-7247 OpenSMTPD 6.4.0 < 6.6.1 Remote Code Execution | https://github.com/f4T1H21/CVE-2020-7247 | smtp_mailaddr in smtp_session.c in OpenSMTPD 6.6, as used in OpenBSD 6.6 and other products, allows remote attackers to execute arbitrary commands as root via a crafted SMTP session, as demonstrated by shell metacharacters in a MAIL FROM field. This affects the %uncommented% default configuration. The issue exists because of an incorrect return value upon failure of input validation.| 
 | 20210620T02:47:02Z | cve-2021-3156 | Null | https://github.com/mrofisr/docker-cve-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210618T16:21:42Z | CVE-2021-31159 | Zoho ManageEngine ServiceDesk Plus MSP - Active Directory User Enumeration (CVE-2021-31159) | https://github.com/ricardojoserf/CVE-2021-31159 | Zoho ManageEngine ServiceDesk Plus MSP before 10519 is vulnerable to a User Enumeration bug due to improper error-message generation in the Forgot Password functionality, aka SDPMSP-15732.| 
@@ -88,7 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210621T12:17:36Z | Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish to influence Onelinetips and explain the commands, for the better understanding of new hunters.. | https://github.com/KingOfBugbounty/KingOfBugBountyTips | 2198 | 353| 
+| 20210621T12:19:25Z | Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish to influence Onelinetips and explain the commands, for the better understanding of new hunters.. | https://github.com/KingOfBugbounty/KingOfBugBountyTips | 2198 | 353| 
 | 20210621T12:17:10Z | Forestry Thematic Exploitation Platform | https://github.com/cgi-eoss/ftep | 5 | 0| 
 | 20210621T12:15:37Z | RomBuster is a router exploitation tool that allows to disclosure network router admin password. | https://github.com/EntySec/RomBuster | 14 | 2| 
 | 20210621T12:15:05Z |  CamOver is a camera exploitation tool that allows to disclosure network camera admin password. | https://github.com/EntySec/CamOver | 4 | 2| 
@@ -147,6 +147,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210621T12:22:16Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 655 | 102| 
 | 20210621T12:18:21Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1234 | 220| 
 | 20210621T12:17:45Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 460 | 40| 
 | 20210621T12:17:08Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 314 | 20| 
@@ -156,7 +157,6 @@
 | 20210621T11:36:39Z | A fuzzer for full VM kernel/driver targets | https://github.com/IntelLabs/kAFL | 232 | 38| 
 | 20210621T11:02:05Z | Null | https://github.com/kingloki-github/fuzzy-adventure | 0 | 0| 
 | 20210621T10:43:28Z | Owfuzz: a WiFi protocol fuzzing tool | https://github.com/alipay/WiFi-Protocol-Fuzzing-Tool | 54 | 4| 
-| 20210621T10:08:16Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6399 | 1300| 
 
 
 

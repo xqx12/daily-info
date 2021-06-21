@@ -55,7 +55,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210621T12:17:36Z | Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish to influence Onelinetips and explain the commands, for the better understanding of new hunters.. | https://github.com/KingOfBugbounty/KingOfBugBountyTips | 2198 | 353| 
+| 20210621T12:19:25Z | Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish to influence Onelinetips and explain the commands, for the better understanding of new hunters.. | https://github.com/KingOfBugbounty/KingOfBugBountyTips | 2198 | 353| 
 | 20210621T12:17:10Z | Forestry Thematic Exploitation Platform | https://github.com/cgi-eoss/ftep | 5 | 0| 
 | 20210621T12:15:37Z | RomBuster is a router exploitation tool that allows to disclosure network router admin password. | https://github.com/EntySec/RomBuster | 14 | 2| 
 | 20210621T12:15:05Z |  CamOver is a camera exploitation tool that allows to disclosure network camera admin password. | https://github.com/EntySec/CamOver | 4 | 2| 
@@ -94,6 +94,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210621T12:22:16Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 655 | 102| 
 | 20210621T12:18:21Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1234 | 220| 
 | 20210621T12:17:45Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 460 | 40| 
 | 20210621T12:17:08Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 314 | 20| 
@@ -103,7 +104,6 @@
 | 20210621T11:36:39Z | A fuzzer for full VM kernel/driver targets | https://github.com/IntelLabs/kAFL | 232 | 38| 
 | 20210621T11:02:05Z | Null | https://github.com/kingloki-github/fuzzy-adventure | 0 | 0| 
 | 20210621T10:43:28Z | Owfuzz: a WiFi protocol fuzzing tool | https://github.com/alipay/WiFi-Protocol-Fuzzing-Tool | 54 | 4| 
-| 20210621T10:08:16Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6399 | 1300| 
 
 
 
