@@ -147,7 +147,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210621T01:38:18Z | Where i do things | https://github.com/fuzzy1450/Fuzzy1450.github.io | 13 | 2| 
+| 20210621T01:41:41Z | Where i do things | https://github.com/fuzzy1450/Fuzzy1450.github.io | 13 | 2| 
 | 20210621T00:50:01Z | Null | https://github.com/miriamgrigsby/fuzzy-coin | 0 | 0| 
 | 20210621T00:04:34Z | The Art, Science, and Engineering of Fuzzing: A Survey | https://github.com/SoftSec-KAIST/Fuzzing-Survey | 122 | 18| 
 | 20210620T23:41:50Z | Achieving security against fuzzing and improving bandwidth efficiency by combining FEC and symmetric encryption. | https://github.com/koraa/decryption-despite-errors | 0 | 0| 
