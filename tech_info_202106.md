@@ -88,8 +88,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210622T00:06:24Z | Gote Hub - Comunity Roblox Exploiting And Scripting @Copyright 2021 | https://github.com/Vilictus/Lezus-Hub | 1 | 0| 
 | 20210622T00:02:53Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
-| 20210621T23:58:11Z | Gote Hub - Comunity Roblox Exploiting And Scripting @Copyright 2021 | https://github.com/Vilictus/Lezus-Hub | 1 | 0| 
 | 20210621T22:40:05Z | Null | https://github.com/vulsio/go-exploitdb | 100 | 31| 
 | 20210621T22:09:32Z | Exploit I Made! | https://github.com/SoarCheats/scriptwriterSDP | 0 | 0| 
 | 20210621T21:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9578 | 1561| 

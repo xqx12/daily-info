@@ -61,7 +61,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210621T23:58:11Z | Gote Hub - Comunity Roblox Exploiting And Scripting @Copyright 2021 | https://github.com/Vilictus/Lezus-Hub | 1 | 0| 
 | 20210621T22:40:05Z | Null | https://github.com/vulsio/go-exploitdb | 100 | 31| 
 | 20210621T22:09:32Z | Exploit I Made! | https://github.com/SoarCheats/scriptwriterSDP | 0 | 0| 
 | 20210621T21:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9578 | 1561| 
@@ -71,6 +70,7 @@
 | 20210621T19:44:54Z | Null | https://github.com/sheenieboy/ExploiterChat | 1 | 0| 
 | 20210621T19:42:21Z | Fix exploits on anarchy minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 44 | 11| 
 | 20210621T19:17:37Z | a reliable C based exploit for CVE-2021-3560. | https://github.com/hakivvi/CVE-2021-3560 | 16 | 0| 
+| 20210621T18:53:38Z | SSRF search vulnerabilities exploitation extended. | https://github.com/duckstroms/ssrf-search | 6 | 2| 
 
 
 # backdoor on Github 推荐
