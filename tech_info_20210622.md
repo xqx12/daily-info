@@ -31,7 +31,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210622T05:54:34Z | CVE-2021-22214 | Gitlab CI Lint API未授权 SSRF漏洞 (CVE-2021-22214) | https://github.com/r0ckysec/CVE-2021-22214 | When requests to the internal network for webhooks are enabled, a server-side request forgery vulnerability in GitLab CE/EE affecting all versions starting from 10.5 was possible to exploit for an unauthenticated attacker even on a GitLab instance where registration is limited| 
-| 20210622T03:32:26Z | 未知编号 | Null | https://github.com/KZMachine/CVERT_2021 | 未查询到CVE信息| 
+| 20210622T03:32:26Z | 未知编号 | Null | https://github.com/KZMachine/CVERT_2021 | | 
 
 
 # klee on Github 推荐
@@ -51,6 +51,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210622T12:51:38Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 17 | 11| 
 | 20210622T12:39:12Z | Various tools, PoCs and experiments related to my blog at https://www.forrest-orr.net/ | https://github.com/forrest-orr/ExploitDev | 2 | 0| 
 | 20210622T12:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9579 | 1562| 
 | 20210622T12:31:58Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7983 | 1402| 
@@ -60,7 +61,6 @@
 | 20210622T11:49:38Z | Null | https://github.com/MoryokaV/Activity-Exploit | 0 | 0| 
 | 20210622T11:35:07Z | Agent-Based Modelling of labour exploitation in textile supply chains | https://github.com/kwabenantim/textile-labour | 0 | 0| 
 | 20210622T11:09:36Z | PS4 Host Exploits For 5.05 Firmware to 7.55 Firmware | https://github.com/Night-King-Host/Night-King-Host.github.io | 2 | 1| 
-| 20210622T10:33:13Z | Labs to learn exploiting | https://github.com/aliakyurek/exploit_labs | 0 | 0| 
 
 
 # backdoor on Github 推荐
