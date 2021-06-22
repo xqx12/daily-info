@@ -21,6 +21,8 @@
 | 20210621 | 有研究员发现 Apple 的 iCloud 账户忘记密码功能可以通过大规模并发连接实现爆破 | https://thezerohack.com/apple-vulnerability-bug-bounty| 
 | 20210621 | V8 CVE-2020-16040 漏洞的 Exploit | http://github.com/yuvaly0/exploits/blob/master/cve-2020-16040/exploit.js| 
 | 20210621 | iOS Wi-Fi 格式串拒绝服务 0day 分析 | https://mp.weixin.qq.com/s?__biz=Mzk0NDE3MTkzNQ==&mid=2247483943&idx=1&sn=35cf79f82db7781679d9a6902c8aabd4&chksm=c329fcd7f45e75c1a779ad9313400583aecffd42dddb819699b90904f639dcddc7562171a185| 
+| 20210621 | Win10 ACG 逆向分析 | https://paper.seebug.org/1609/| 
+| 20210621 | Architecture All Access: Modern CPU Architecture Part 2 – Microarchitecture Deep Dive | https://www.youtube.com/watch?v=o_WXTRS2qTY&feature=youtu.be| 
 
 
 # 安全维基 推荐
@@ -32,15 +34,19 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210621T12:12:36Z | CVE-2020-8300 | Detect Citrix ADC SAML action or SAML iDP Profile config vulnerable to CVE-2020-8300 using Citrix ADC NITRO API | https://github.com/stuartcarroll/CitrixADC-CVE-2020-8300 | Citrix ADC and Citrix/NetScaler Gateway before 13.0-82.41, 12.1-62.23, 11.1-65.20 and Citrix ADC 12.1-FIPS before 12.1-55.238 suffer from improper access control allowing SAML authentication hijack through a phishing attack to steal a valid user session. Note that Citrix ADC or Citrix Gateway must be configured as a SAML SP or a SAML IdP for this to be possible.| 
-| 20210621T09:10:11Z | CVE-2021-29337 | Null | https://github.com/rjt-gupta/CVE-2021-29337 | MODAPI.sys in MSI Dragon Center 2.0.104.0 allows low-privileged users to access kernel memory and potentially escalate privileges via a crafted IOCTL 0x9c406104 call. This IOCTL provides the MmMapIoSpace feature for mapping physical memory.| 
-| 20210621T07:59:00Z | CVE-2020- | RCE in EXIF metadata removal from images research | https://github.com/awasthi7/CVE-2020-Exif-RCE | | 
+| 20210621T22:04:00Z | CVE-2021-29337 | CVE-2021-29337 - Privilege Escalation in MODAPI.sys (MSI Dragon Center) | https://github.com/rjt-gupta/CVE-2021-29337 | MODAPI.sys in MSI Dragon Center 2.0.104.0 allows low-privileged users to access kernel memory and potentially escalate privileges via a crafted IOCTL 0x9c406104 call. This IOCTL provides the MmMapIoSpace feature for mapping physical memory.| 
+| 20210621T19:17:37Z | CVE-2021-3560 | a reliable C based exploit for CVE-2021-3560. | https://github.com/hakivvi/CVE-2021-3560 | 未查询到CVE信息| 
+| 20210621T16:52:08Z | CVE-2021-3560 | Null | https://github.com/secnigma/CVE-2021-3560-Polkit-Privilege-Esclation | 未查询到CVE信息| 
+| 20210621T12:12:36Z | CVE-2020-8300 | Detect Citrix ADC SAML action or SAML iDP Profile config vulnerable to CVE-2020-8300 using Citrix ADC NITRO API | https://github.com/stuartcarroll/CitrixADC-CVE-2020-8300 | | 
+| 20210621T07:59:00Z | CVE-2020- | RCE in EXIF metadata removal from images research | https://github.com/awasthi7/CVE-2020-Exif-RCE | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210621T11:19:38Z | An RTIC application analysis tool which uses KLEE to generate test cases | https://github.com/markhakansson/rauk | 0 | 0| 
+| 20210621T23:59:35Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 10 | 1| 
+| 20210621T15:54:42Z | Programa Java realizado durante el trabajo final de grado de Ingeniería Informática en la UPV el cual mediante comandos vía terminal linux usaremos la herramienta de creación de casos de test KLEE. | https://github.com/sof1508/tfg | 0 | 0| 
+| 20210621T13:49:09Z | An RTIC application analysis tool which uses KLEE to generate test cases | https://github.com/markhakansson/rauk | 0 | 0| 
 | 20210621T09:28:20Z | A RISC-V RV32 virtual prototype based on riscv-vp with symbolic execution support | https://github.com/agra-uni-bremen/symex-vp | 2 | 0| 
 | 20210621T07:20:52Z | Raw bindings for KLEE | https://github.com/markhakansson/klee-bindings | 0 | 0| 
 | 20210621T07:04:49Z | Safe KLEE API for Rust | https://github.com/markhakansson/klee-rs | 1 | 0| 
@@ -55,21 +61,25 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210621T12:51:37Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 17 | 11| 
-| 20210621T12:42:49Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9578 | 1561| 
-| 20210621T12:39:08Z | RomBuster is a router exploitation tool that allows to disclosure network router admin password. | https://github.com/EntySec/RomBuster | 14 | 2| 
-| 20210621T12:32:07Z | Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish to influence Onelinetips and explain the commands, for the better understanding of new hunters.. | https://github.com/KingOfBugbounty/KingOfBugBountyTips | 2198 | 353| 
-| 20210621T12:30:02Z | Null | https://github.com/MoryokaV/Activity-Exploit | 0 | 0| 
-| 20210621T12:17:10Z | Forestry Thematic Exploitation Platform | https://github.com/cgi-eoss/ftep | 5 | 0| 
-| 20210621T12:15:05Z |  CamOver is a camera exploitation tool that allows to disclosure network camera admin password. | https://github.com/EntySec/CamOver | 4 | 2| 
-| 20210621T12:14:32Z | CamRaptor is a tool that exploits several vulnerabilities in popular DVR cameras to obtain network camera credentials. | https://github.com/EntySec/CamRaptor | 4 | 0| 
-| 20210621T12:07:14Z | Contribute to the Development of Exploit Prevention by thinking of some great messages | https://github.com/ryanalexander/exploit-prevention-lang | 0 | 0| 
-| 20210621T12:03:11Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
+| 20210621T23:58:11Z | Gote Hub - Comunity Roblox Exploiting And Scripting @Copyright 2021 | https://github.com/Vilictus/Lezus-Hub | 1 | 0| 
+| 20210621T23:02:55Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
+| 20210621T22:40:05Z | Null | https://github.com/vulsio/go-exploitdb | 100 | 31| 
+| 20210621T22:09:32Z | Exploit I Made! | https://github.com/SoarCheats/scriptwriterSDP | 0 | 0| 
+| 20210621T21:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9578 | 1561| 
+| 20210621T20:33:05Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 178 | 11| 
+| 20210621T20:02:21Z | Modular C2 framework aiming to ease post exploitation for red teamers.  | https://github.com/CMatri/MeetC2 | 0 | 0| 
+| 20210621T19:53:25Z | Null | https://github.com/Zen-Hub-Exploits/Universal-Exploit-Hub | 0 | 0| 
+| 20210621T19:44:54Z | Null | https://github.com/sheenieboy/ExploiterChat | 1 | 0| 
+| 20210621T19:42:21Z | Fix exploits on anarchy minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 44 | 11| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210621T19:39:31Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1165 | 553| 
+| 20210621T18:16:35Z | LeuxBackdoor 0.9 totalmente clean y deobf, si tienes dudas mandame un md a Foregon#6969 | https://github.com/SuperA1908v2/LeuxBackdoor-0.9-UwU | 1 | 0| 
+| 20210621T17:49:22Z | A token logger for discord + steals Brave/Chrome passwords and usernames | https://github.com/CUPZYY/Backdoor-Machine | 18 | 4| 
+| 20210621T14:29:40Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 35 | 27| 
 | 20210621T09:05:40Z | A module for building botnet or back door with Python and Telegram control panel | https://github.com/onionj/pybotnet | 1 | 0| 
 | 20210621T04:56:39Z | SCP:SL simple server side backdoor | https://github.com/ggpabuk/ExiledBackdoor | 0 | 0| 
 | 20210621T01:41:01Z | Python AV Evasion Tools | https://github.com/G1ft3dC0d3/MsfMania | 180 | 38| 
@@ -94,16 +104,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210621T12:52:09Z | SImplified docker image with RESTler API Fuzzer | https://github.com/wkoszolko/restler-fuzzer-getting-started | 0 | 0| 
-| 20210621T12:34:45Z | Null | https://github.com/danikirby/fuzzy-train | 0 | 0| 
-| 20210621T12:22:16Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 655 | 102| 
-| 20210621T12:18:21Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1234 | 220| 
-| 20210621T12:17:45Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 460 | 40| 
-| 20210621T12:17:08Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 314 | 20| 
-| 20210621T12:10:29Z | Null | https://github.com/dhanasureshr/student-performance-using-fuzzy-logic | 0 | 0| 
-| 20210621T12:02:27Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210621T11:55:37Z | Null | https://github.com/fuzzsa/fuzzsa-bugs | 0 | 1| 
-| 20210621T11:36:39Z | A fuzzer for full VM kernel/driver targets | https://github.com/IntelLabs/kAFL | 232 | 38| 
+| 20210621T23:45:23Z | Null | https://github.com/dhanasureshr/student-performance-using-fuzzy-logic | 0 | 0| 
+| 20210621T23:44:58Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 288 | 38| 
+| 20210621T23:42:24Z | Null | https://github.com/DARKMODPP/fuzzy-octo-disco | 0 | 0| 
+| 20210621T23:09:57Z | 🤖 Repeat tests. Repeat tests. Repeat tests. | https://github.com/ehmicky/test-each | 92 | 2| 
+| 20210621T22:03:14Z | Null | https://github.com/Alaafathhyy/FuzzyLogic | 0 | 2| 
+| 20210621T21:39:00Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
+| 20210621T21:37:50Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4516 | 440| 
+| 20210621T21:34:38Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
+| 20210621T21:24:23Z | Null | https://github.com/jan-golda/PW-FuzzyController | 0 | 0| 
+| 20210621T20:49:18Z | Null | https://github.com/Fuzznimp/Fuzznimp | 0 | 0| 
 
 
 
