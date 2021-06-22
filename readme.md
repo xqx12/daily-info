@@ -50,21 +50,25 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210622T12:03:35Z | Null | https://github.com/TheCrazzXz/Exploits-Lab | 0 | 0| 
+| 20210622T12:02:55Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210622T11:53:03Z | Real-time tracking of major events on Twitter for image exploitation | https://github.com/Kiza31/Travail-de-master | 0 | 0| 
 | 20210622T11:49:38Z | Null | https://github.com/MoryokaV/Activity-Exploit | 0 | 0| 
 | 20210622T11:35:07Z | Agent-Based Modelling of labour exploitation in textile supply chains | https://github.com/kwabenantim/textile-labour | 0 | 0| 
 | 20210622T11:09:36Z | PS4 Host Exploits For 5.05 Firmware to 7.55 Firmware | https://github.com/Night-King-Host/Night-King-Host.github.io | 2 | 1| 
-| 20210622T11:02:51Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210622T10:33:13Z | Labs to learn exploiting | https://github.com/aliakyurek/exploit_labs | 0 | 0| 
 | 20210622T10:08:21Z | Geohazards Thematic Exploitation guide | https://github.com/Terradue/doc-tep-geohazards | 9 | 24| 
 | 20210622T09:35:22Z | A list of commands, tools and notes about enumerating and exploiting Active Directory and how to defend against these attacks | https://github.com/thegoatreich/AD_attack_defend_cheatsheet | 1 | 0| 
 | 20210622T09:26:47Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7982 | 1402| 
-| 20210622T08:28:54Z | the ultimate exploit finder | https://github.com/ARPSyndicate/xlocate | 8 | 3| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210622T10:43:52Z | Python AV Evasion Tools | https://github.com/G1ft3dC0d3/MsfMania | 181 | 38| 
+| 20210622T07:18:46Z | Null | https://github.com/seenu0991/https-github.com-FirmGuardian-backdoors-and-breaches-pcio | 0 | 0| 
+| 20210622T06:36:53Z | A token logger for discord + steals Brave/Chrome passwords and usernames | https://github.com/CUPZYY/Backdoor-Machine | 19 | 5| 
+| 20210622T03:58:10Z | sexq | https://github.com/VenuzWeeb/LeuxBackdoor9 | 0 | 0| 
 
 
 # symbolic execution on Github 推荐

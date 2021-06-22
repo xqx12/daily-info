@@ -89,31 +89,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210622T12:03:35Z | Null | https://github.com/TheCrazzXz/Exploits-Lab | 0 | 0| 
+| 20210622T12:02:55Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210622T11:53:03Z | Real-time tracking of major events on Twitter for image exploitation | https://github.com/Kiza31/Travail-de-master | 0 | 0| 
 | 20210622T11:49:38Z | Null | https://github.com/MoryokaV/Activity-Exploit | 0 | 0| 
 | 20210622T11:35:07Z | Agent-Based Modelling of labour exploitation in textile supply chains | https://github.com/kwabenantim/textile-labour | 0 | 0| 
 | 20210622T11:09:36Z | PS4 Host Exploits For 5.05 Firmware to 7.55 Firmware | https://github.com/Night-King-Host/Night-King-Host.github.io | 2 | 1| 
-| 20210622T11:02:51Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210622T10:33:13Z | Labs to learn exploiting | https://github.com/aliakyurek/exploit_labs | 0 | 0| 
 | 20210622T10:08:21Z | Geohazards Thematic Exploitation guide | https://github.com/Terradue/doc-tep-geohazards | 9 | 24| 
 | 20210622T09:35:22Z | A list of commands, tools and notes about enumerating and exploiting Active Directory and how to defend against these attacks | https://github.com/thegoatreich/AD_attack_defend_cheatsheet | 1 | 0| 
 | 20210622T09:26:47Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7982 | 1402| 
-| 20210622T08:28:54Z | the ultimate exploit finder | https://github.com/ARPSyndicate/xlocate | 8 | 3| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210621T19:39:31Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1165 | 553| 
+| 20210622T10:43:52Z | Python AV Evasion Tools | https://github.com/G1ft3dC0d3/MsfMania | 181 | 38| 
+| 20210622T07:18:46Z | Null | https://github.com/seenu0991/https-github.com-FirmGuardian-backdoors-and-breaches-pcio | 0 | 0| 
+| 20210622T06:36:53Z | A token logger for discord + steals Brave/Chrome passwords and usernames | https://github.com/CUPZYY/Backdoor-Machine | 19 | 5| 
+| 20210622T03:58:10Z | sexq | https://github.com/VenuzWeeb/LeuxBackdoor9 | 0 | 0| 
+| 20210621T19:39:31Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1165 | 554| 
 | 20210621T18:16:35Z | LeuxBackdoor 0.9 totalmente clean y deobf, si tienes dudas mandame un md a Foregon#6969 | https://github.com/SuperA1908v2/LeuxBackdoor-0.9-UwU | 1 | 0| 
-| 20210621T17:49:22Z | A token logger for discord + steals Brave/Chrome passwords and usernames | https://github.com/CUPZYY/Backdoor-Machine | 18 | 4| 
-| 20210621T14:29:40Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 35 | 27| 
+| 20210621T14:29:40Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 35 | 28| 
 | 20210621T09:05:40Z | A module for building botnet or back door with Python and Telegram control panel | https://github.com/onionj/pybotnet | 1 | 0| 
 | 20210621T04:56:39Z | SCP:SL simple server side backdoor | https://github.com/ggpabuk/ExiledBackdoor | 0 | 0| 
-| 20210621T01:41:01Z | Python AV Evasion Tools | https://github.com/G1ft3dC0d3/MsfMania | 180 | 38| 
 | 20210620T22:03:02Z | Perlatan Buat Hamker | https://github.com/ItsmeikyXSec4O4/Mini-Shell-Backdoor | 1 | 0| 
-| 20210620T10:07:44Z | EcchiExploit Shell v1.0 | https://github.com/dmzhari/ecchi-shell | 0 | 0| 
-| 20210620T02:40:17Z | Backdoor intended for Minecraft Servers | https://github.com/wyattdigitalz/Cyanide | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
