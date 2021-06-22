@@ -88,7 +88,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210622T12:06:54Z | Null | https://github.com/bhattacharjee/fuzzy-funicular | 0 | 0| 
+| 20210622T12:11:25Z | Null | https://github.com/bhattacharjee/fuzzy-funicular | 0 | 0| 
 | 20210622T12:06:49Z | Null | https://github.com/VladKozyr/fuzzy-kotlin | 0 | 0| 
 | 20210622T12:06:25Z | Null | https://github.com/danikirby/fuzzy-train | 0 | 0| 
 | 20210622T12:02:58Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
