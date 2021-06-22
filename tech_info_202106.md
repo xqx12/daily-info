@@ -147,8 +147,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210622T00:09:39Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 288 | 38| 
 | 20210621T23:45:23Z | Null | https://github.com/dhanasureshr/student-performance-using-fuzzy-logic | 0 | 0| 
-| 20210621T23:44:58Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 288 | 38| 
 | 20210621T23:42:24Z | Null | https://github.com/DARKMODPP/fuzzy-octo-disco | 0 | 0| 
 | 20210621T23:09:57Z | 🤖 Repeat tests. Repeat tests. Repeat tests. | https://github.com/ehmicky/test-each | 92 | 2| 
 | 20210621T22:03:14Z | Null | https://github.com/Alaafathhyy/FuzzyLogic | 0 | 2| 

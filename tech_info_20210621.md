@@ -109,7 +109,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20210621T23:45:23Z | Null | https://github.com/dhanasureshr/student-performance-using-fuzzy-logic | 0 | 0| 
-| 20210621T23:44:58Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 288 | 38| 
 | 20210621T23:42:24Z | Null | https://github.com/DARKMODPP/fuzzy-octo-disco | 0 | 0| 
 | 20210621T23:09:57Z | 🤖 Repeat tests. Repeat tests. Repeat tests. | https://github.com/ehmicky/test-each | 92 | 2| 
 | 20210621T22:03:14Z | Null | https://github.com/Alaafathhyy/FuzzyLogic | 0 | 2| 
@@ -118,6 +117,7 @@
 | 20210621T21:34:38Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
 | 20210621T21:24:23Z | Null | https://github.com/jan-golda/PW-FuzzyController | 0 | 0| 
 | 20210621T20:49:18Z | Null | https://github.com/Fuzznimp/Fuzznimp | 0 | 0| 
+| 20210621T20:43:08Z | Gentoo overlay | https://github.com/lferra/fuzzy-potato | 0 | 0| 
 
 
 
