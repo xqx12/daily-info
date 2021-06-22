@@ -50,7 +50,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210622T12:03:35Z | Null | https://github.com/TheCrazzXz/Exploits-Lab | 0 | 0| 
+| 20210622T12:10:38Z | Null | https://github.com/TheCrazzXz/Exploits-Lab | 0 | 0| 
 | 20210622T12:02:55Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210622T11:53:03Z | Real-time tracking of major events on Twitter for image exploitation | https://github.com/Kiza31/Travail-de-master | 0 | 0| 
 | 20210622T11:49:38Z | Null | https://github.com/MoryokaV/Activity-Exploit | 0 | 0| 
@@ -88,6 +88,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210622T12:15:15Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 9 | 5| 
 | 20210622T12:12:23Z | 🤖 Repeat tests. Repeat tests. Repeat tests. | https://github.com/ehmicky/test-each | 92 | 2| 
 | 20210622T12:11:25Z | Null | https://github.com/bhattacharjee/fuzzy-funicular | 0 | 0| 
 | 20210622T12:06:49Z | Null | https://github.com/VladKozyr/fuzzy-kotlin | 0 | 0| 
@@ -97,7 +98,6 @@
 | 20210622T11:59:21Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2345 | 130| 
 | 20210622T11:54:25Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6403 | 1301| 
 | 20210622T11:37:06Z | Null | https://github.com/dhanasureshr/student-performance-using-fuzzy-logic | 0 | 0| 
-| 20210622T11:19:07Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 32138 | 16586| 
 
 
 
