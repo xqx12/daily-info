@@ -6,6 +6,15 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210622 | 利用 Linux 内核 io_uring 的引用计数漏洞实现本地提权（CVE-2021–20226） | https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-leads-to-local-privilege-escalation-in-io-uring-e946bd69177a| 
+| 20210622 | ARTIF - 一款基于 IP 信誉度信息实现的实时检测 Web 恶意流量的工具 | https://github.com/CRED-CLUB/ARTIF| 
+| 20210622 | Windows Event Viewer 服务受 NTLM Relay 攻击影响（CVE-2021-31958） | https://www.armis.com/blog/security-advisory-windows-event-viewer-service-vulnerable-to-ntlm-relay-attacks/| 
+| 20210622 | Shadow Credentials: Abusing Key Trust Account Mapping for Account Takeover | https://posts.specterops.io/shadow-credentials-abusing-key-trust-account-mapping-for-takeover-8ee1a53566ab?gi=ea45e52b93d5| 
+| 20210622 | 通过检测并杀掉 svchost 进程内指定线程的方式实现 Windows Event Log Killer | https://github.com/hlldz/Phant0m| 
+| 20210622 | 利用 Speculative Control Flow 劫持攻击的方式绕过栈溢出保护 | https://ibm.github.io/system-security-research-updates/2021/06/18/spear-attacks-ssp-usecase| 
+| 20210622 | Fuzzing Android Native libraries with libFuzzer + QEMU | https://fuzzing.science/page/fuzzing-android-native-libraries-with-libfuzzer-qemu/| 
+| 20210622 | SpiderFoot - 一款自动化地从 100+ 个网站收集 IP、域名、比特币地址等情报信息的工具 | https://roguesecurity.ca/an-introduction-to-automating-open-source-intelligence-using-spiderfoot/| 
+| 20210622 | LOKI: Hardening Code Obfuscation Against Automated Attacks，这篇 Paper 提出了一种提高代码混淆复杂度的新方法 | https://arxiv.org/pdf/2106.08913.pdf| 
 | 20210621 | A Little More on the Task Schedulers Service Account Usage | https://www.tiraniddo.dev/2021/06/a-little-more-on-task-schedulers.html| 
 | 20210621 | XXE in JDOM library - Java | https://alephsecurity.com/vulns/aleph-2021003| 
 | 20210621 | ZDI 对 ISC BIND DNS 服务器一个信息泄露 Bug 的分析 | https://www.thezdi.com/blog/2021/6/15/zdi-21-502-an-information-disclosure-bug-in-isc-bind-server| 
@@ -17,51 +26,43 @@
 | 20210621 | Bypassing Windows Image Load Kernel Callbacks | https://www.mdsec.co.uk/2021/06/bypassing-image-load-kernel-callbacks/| 
 | 20210621 | 有研究员发现 Apple 的 iCloud 账户忘记密码功能可以通过大规模并发连接实现爆破 | https://sec.today/pulses/94033343-5112-4f52-a740-2843001cc920/| 
 | 20210621 | V8 CVE-2020-16040 漏洞的 Exploit | https://sec.today/pulses/d5e2bcd3-cf89-404d-b40e-2307b87c2457/| 
-| 20210621 | iOS Wi-Fi 格式串拒绝服务 0day 分析 | https://sec.today/pulses/e115f1cb-f951-45ad-8d52-479a068451a2/| 
-| 20210621 | 有研究员发现 Apple 的 iCloud 账户忘记密码功能可以通过大规模并发连接实现爆破 | https://thezerohack.com/apple-vulnerability-bug-bounty| 
-| 20210621 | V8 CVE-2020-16040 漏洞的 Exploit | http://github.com/yuvaly0/exploits/blob/master/cve-2020-16040/exploit.js| 
-| 20210621 | iOS Wi-Fi 格式串拒绝服务 0day 分析 | https://mp.weixin.qq.com/s?__biz=Mzk0NDE3MTkzNQ==&mid=2247483943&idx=1&sn=35cf79f82db7781679d9a6902c8aabd4&chksm=c329fcd7f45e75c1a779ad9313400583aecffd42dddb819699b90904f639dcddc7562171a185| 
-| 20210621 | Win10 ACG 逆向分析 | https://paper.seebug.org/1609/| 
-| 20210621 | Architecture All Access: Modern CPU Architecture Part 2 – Microarchitecture Deep Dive | https://www.youtube.com/watch?v=o_WXTRS2qTY&feature=youtu.be| 
-| 20210616 | 关于 Guacamole RCE 的那些事儿. | https://paper.seebug.org/1605/| 
-| 20210616 | Windows Kernel Hijacking Is Not an Option: MemoryRanger Comes to the Rescue Again. | https://arxiv.org/abs/2106.06065| 
-| 20210614 | 深入理解与检测 C2 框架 — BabyShark。 | https://nasbench.medium.com/understanding-detecting-c2-frameworks-babyshark-641be4595845| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210622 | skylarinst-winc(10.199.1.19_80).exe样本分析 | https://mp.weixin.qq.com/s/S0lb93pAhnDbcdYXaixicg| 
+| 20210622 | web选手如何快速卷入二进制世界 | https://mp.weixin.qq.com/s/tU6R2Q4_unEoAMk27vv9xg| 
+| 20210622 | SecWiki周刊（第381期) | https://www.sec-wiki.com/weekly/381| 
+| 20210622 | 从BAB到SLSA——谈Google的软件供应链风险治理 | https://zhuanlan.zhihu.com/p/382721804| 
+| 20210622 | 研究Twitter账户要寻找什么及工具 | https://mp.weixin.qq.com/s/L0VjmyXMg2p_KbSMl3NEIw| 
 | 20210621 | 身临其境之谁是猎人 | https://www.sec-in.com/article/1091| 
 | 20210620 | 开源情报（OSINT）常用工具及其安全使用 | https://mp.weixin.qq.com/s/UiAdHpQABlNarb60L5UGNw| 
 | 20210620 | 第三方组件安全评估指南 | https://mp.weixin.qq.com/s/45dF9lqnL2ByKgQNmKetyw| 
 | 20210620 | iOS Wi-Fi 格式串拒绝服务 0day 分析 | https://mp.weixin.qq.com/s/-PVLxXRi9Yi3A5YmhiskJA| 
 | 20210620 | 一文看懂内存马 | https://mp.weixin.qq.com/s/T_6At4Crp1qmdczBSuLYdQ| 
-| 20210619 | 如何高效使用RapidDNS | https://mp.weixin.qq.com/s/aoXvdCs5muOaOPWdW1ixJQ| 
-| 20210618 | 针对接触者追踪系统实施虚假曝光通知攻击 | https://mp.weixin.qq.com/s/7ulSpgPQX5Uiiwhv_5b7eg| 
-| 20210618 | 白说:php反序列化之pop链 | https://www.sec-in.com/article/1094| 
-| 20210617 | 基于API亲密度分析的安卓恶意软件检测系统 | https://mp.weixin.qq.com/s/HmSjFNnaG4VtuR1MR2QjQA| 
-| 20210617 | EXTRACTOR：从威胁报告中提取攻击行为信息 | https://mp.weixin.qq.com/s/Lm_yC0oD_BNiyA4E9TwX7A| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210622T05:54:34Z | CVE-2021-22214 | Gitlab CI Lint API未授权 SSRF漏洞 (CVE-2021-22214) | https://github.com/r0ckysec/CVE-2021-22214 | When requests to the internal network for webhooks are enabled, a server-side request forgery vulnerability in GitLab CE/EE affecting all versions starting from 10.5 was possible to exploit for an unauthenticated attacker even on a GitLab instance where registration is limited| 
+| 20210622T03:32:26Z | 未知编号 | Null | https://github.com/KZMachine/CVERT_2021 | 未查询到CVE信息| 
 | 20210621T22:04:00Z | CVE-2021-29337 | CVE-2021-29337 - Privilege Escalation in MODAPI.sys (MSI Dragon Center) | https://github.com/rjt-gupta/CVE-2021-29337 | MODAPI.sys in MSI Dragon Center 2.0.104.0 allows low-privileged users to access kernel memory and potentially escalate privileges via a crafted IOCTL 0x9c406104 call. This IOCTL provides the MmMapIoSpace feature for mapping physical memory.| 
-| 20210621T19:17:37Z | CVE-2021-3560 | a reliable C based exploit for CVE-2021-3560. | https://github.com/hakivvi/CVE-2021-3560 | | 
+| 20210621T19:17:37Z | CVE-2021-3560 | a reliable C based exploit for CVE-2021-3560. | https://github.com/hakivvi/CVE-2021-3560 | 未查询到CVE信息| 
 | 20210621T16:52:08Z | CVE-2021-3560 | Null | https://github.com/secnigma/CVE-2021-3560-Polkit-Privilege-Esclation | 未查询到CVE信息| 
 | 20210621T12:12:36Z | CVE-2020-8300 | Detect Citrix ADC SAML action or SAML iDP Profile config vulnerable to CVE-2020-8300 using Citrix ADC NITRO API | https://github.com/stuartcarroll/CitrixADC-CVE-2020-8300 | Citrix ADC and Citrix/NetScaler Gateway before 13.0-82.41, 12.1-62.23, 11.1-65.20 and Citrix ADC 12.1-FIPS before 12.1-55.238 suffer from improper access control allowing SAML authentication hijack through a phishing attack to steal a valid user session. Note that Citrix ADC or Citrix Gateway must be configured as a SAML SP or a SAML IdP for this to be possible.| 
 | 20210621T07:59:00Z | CVE-2020- | RCE in EXIF metadata removal from images research | https://github.com/awasthi7/CVE-2020-Exif-RCE | 未查询到CVE信息| 
 | 20210620T11:02:49Z | CVE-2021-21551 | Script to patch your domain computers about the CVE-2021-21551. Privesc on machines that have the driver dbutil_2_3.sys, installed by some DELL tools (BIOS updater, SupportAssist...) | https://github.com/arnaudluti/PS-CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
 | 20210620T08:46:14Z | CVE-2020-14321 | Course enrolments allowed privilege escalation from teacher role into manager role to RCE | https://github.com/HoangKien1020/CVE-2020-14321 | 未查询到CVE信息| 
 | 20210620T04:03:32Z | CVE-2020-7247 | PoC exploit for CVE-2020-7247 OpenSMTPD 6.4.0 < 6.6.1 Remote Code Execution | https://github.com/f4T1H21/CVE-2020-7247 | smtp_mailaddr in smtp_session.c in OpenSMTPD 6.6, as used in OpenBSD 6.6 and other products, allows remote attackers to execute arbitrary commands as root via a crafted SMTP session, as demonstrated by shell metacharacters in a MAIL FROM field. This affects the %uncommented% default configuration. The issue exists because of an incorrect return value upon failure of input validation.| 
-| 20210620T02:47:02Z | cve-2021-3156 | Null | https://github.com/mrofisr/docker-cve-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210618T16:21:42Z | CVE-2021-31159 | Zoho ManageEngine ServiceDesk Plus MSP - Active Directory User Enumeration (CVE-2021-31159) | https://github.com/ricardojoserf/CVE-2021-31159 | Zoho ManageEngine ServiceDesk Plus MSP before 10519 is vulnerable to a User Enumeration bug due to improper error-message generation in the Forgot Password functionality, aka SDPMSP-15732.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210621T23:59:35Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 10 | 1| 
+| 20210622T07:20:29Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 674 | 15| 
+| 20210622T02:48:50Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 10 | 1| 
 | 20210621T15:54:42Z | Programa Java realizado durante el trabajo final de grado de Ingeniería Informática en la UPV el cual mediante comandos vía terminal linux usaremos la herramienta de creación de casos de test KLEE. | https://github.com/sof1508/tfg | 0 | 0| 
 | 20210621T13:49:09Z | An RTIC application analysis tool which uses KLEE to generate test cases | https://github.com/markhakansson/rauk | 0 | 0| 
 | 20210621T09:28:20Z | A RISC-V RV32 virtual prototype based on riscv-vp with symbolic execution support | https://github.com/agra-uni-bremen/symex-vp | 2 | 0| 
@@ -70,12 +71,12 @@
 | 20210620T21:23:18Z | TInA is an automated, generic, verification-friendly and trustworthy lifting technique turning GNU-style inline assembly into semantically equivalent C code amenable to verification, in order to take advantage of existing C analyzers. | https://github.com/binsec/klee21-tina-artifact | 19 | 1| 
 | 20210620T07:35:02Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1716 | 496| 
 | 20210619T13:52:19Z | Report PPT template for CS students  | https://github.com/Fishermanykx/paper_reading_report_template | 0 | 0| 
-| 20210619T03:11:42Z | An opiniated Next TypeScript powered starter which include Klee, emotion / styled-system, framer motion, jest and Cypress | https://github.com/Liinkiing/next-ts-klee-starter | 0 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210622T10:27:44Z | Season 2, Episode 1 | https://github.com/InnovateAsterisk/S2E1 | 0 | 0| 
 | 20210621T09:11:34Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 136 | 31| 
 | 20210620T03:40:23Z | Null | https://github.com/LakehalAA/test-S2EE-BOT | 0 | 0| 
 | 20210618T15:49:13Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 73 | 31| 
@@ -88,16 +89,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210622T01:03:00Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
-| 20210622T00:59:21Z | RomBuster is a router exploitation tool that allows to disclosure network router admin password. | https://github.com/EntySec/RomBuster | 15 | 2| 
-| 20210622T00:51:38Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 17 | 11| 
-| 20210622T00:06:24Z | Gote Hub - Comunity Roblox Exploiting And Scripting @Copyright 2021 | https://github.com/Vilictus/Lezus-Hub | 1 | 0| 
-| 20210621T22:40:05Z | Null | https://github.com/vulsio/go-exploitdb | 100 | 31| 
-| 20210621T22:09:32Z | Exploit I Made! | https://github.com/SoarCheats/scriptwriterSDP | 0 | 0| 
-| 20210621T21:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9578 | 1561| 
-| 20210621T20:33:05Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 178 | 11| 
-| 20210621T20:02:21Z | Modular C2 framework aiming to ease post exploitation for red teamers.  | https://github.com/CMatri/MeetC2 | 0 | 0| 
-| 20210621T19:53:25Z | Null | https://github.com/Zen-Hub-Exploits/Universal-Exploit-Hub | 0 | 0| 
+| 20210622T11:53:03Z | Real-time tracking of major events on Twitter for image exploitation | https://github.com/Kiza31/Travail-de-master | 0 | 0| 
+| 20210622T11:49:38Z | Null | https://github.com/MoryokaV/Activity-Exploit | 0 | 0| 
+| 20210622T11:35:07Z | Agent-Based Modelling of labour exploitation in textile supply chains | https://github.com/kwabenantim/textile-labour | 0 | 0| 
+| 20210622T11:09:36Z | PS4 Host Exploits For 5.05 Firmware to 7.55 Firmware | https://github.com/Night-King-Host/Night-King-Host.github.io | 2 | 1| 
+| 20210622T11:02:51Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
+| 20210622T10:33:13Z | Labs to learn exploiting | https://github.com/aliakyurek/exploit_labs | 0 | 0| 
+| 20210622T10:08:21Z | Geohazards Thematic Exploitation guide | https://github.com/Terradue/doc-tep-geohazards | 9 | 24| 
+| 20210622T09:35:22Z | A list of commands, tools and notes about enumerating and exploiting Active Directory and how to defend against these attacks | https://github.com/thegoatreich/AD_attack_defend_cheatsheet | 1 | 0| 
+| 20210622T09:26:47Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7982 | 1402| 
+| 20210622T08:28:54Z | the ultimate exploit finder | https://github.com/ARPSyndicate/xlocate | 8 | 3| 
 
 
 # backdoor on Github 推荐
@@ -118,16 +119,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210622T00:29:13Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2358 | 347| 
-| 20210621T21:11:06Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 143 | 33| 
+| 20210622T11:04:00Z | This is the repository for Symbolic Execution engine for StateFlow (SESf) models | https://github.com/predragf/sesf | 0 | 0| 
+| 20210622T07:43:24Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2359 | 348| 
+| 20210622T07:01:38Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 303 | 21| 
+| 20210622T03:49:42Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 143 | 33| 
 | 20210621T20:36:51Z | Symbolic Execution Engine and Verification Condition Generator for While-Language and SMTlib | https://github.com/wadoon/mini-symex | 1 | 0| 
 | 20210621T19:12:20Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 7 | 4| 
 | 20210621T17:00:19Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 14 | 3| 
 | 20210621T14:14:03Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1824 | 381| 
 | 20210621T11:06:15Z | Monster is a symbolic execution engine for 64-bit RISC-U code | https://github.com/cksystemsgroup/monster | 6 | 3| 
 | 20210621T09:28:20Z | A RISC-V RV32 virtual prototype based on riscv-vp with symbolic execution support | https://github.com/agra-uni-bremen/symex-vp | 2 | 0| 
-| 20210621T02:18:15Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 302 | 21| 
-| 20210620T07:53:07Z | This is the repository for Symbolic Execution engine for StateFlow (SESf) models | https://github.com/predragf/sesf | 0 | 0| 
 
 
 # big4 on Github 推荐
