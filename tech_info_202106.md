@@ -147,7 +147,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210622T00:28:24Z | Symbolic Fuzzer | https://github.com/gauthamvs97/Symbolic-Fuzzer | 0 | 0| 
+| 20210622T00:30:06Z | Symbolic Fuzzer | https://github.com/gauthamvs97/Symbolic-Fuzzer | 0 | 0| 
 | 20210622T00:09:39Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 288 | 38| 
 | 20210621T23:45:23Z | Null | https://github.com/dhanasureshr/student-performance-using-fuzzy-logic | 0 | 0| 
 | 20210621T23:42:24Z | Null | https://github.com/DARKMODPP/fuzzy-octo-disco | 0 | 0| 
