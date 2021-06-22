@@ -51,6 +51,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210622T12:39:12Z | Various tools, PoCs and experiments related to my blog at https://www.forrest-orr.net/ | https://github.com/forrest-orr/ExploitDev | 2 | 0| 
+| 20210622T12:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9579 | 1562| 
+| 20210622T12:31:58Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7983 | 1402| 
 | 20210622T12:10:38Z | Null | https://github.com/TheCrazzXz/Exploits-Lab | 0 | 0| 
 | 20210622T12:02:55Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210622T11:53:03Z | Real-time tracking of major events on Twitter for image exploitation | https://github.com/Kiza31/Travail-de-master | 0 | 0| 
@@ -58,9 +61,6 @@
 | 20210622T11:35:07Z | Agent-Based Modelling of labour exploitation in textile supply chains | https://github.com/kwabenantim/textile-labour | 0 | 0| 
 | 20210622T11:09:36Z | PS4 Host Exploits For 5.05 Firmware to 7.55 Firmware | https://github.com/Night-King-Host/Night-King-Host.github.io | 2 | 1| 
 | 20210622T10:33:13Z | Labs to learn exploiting | https://github.com/aliakyurek/exploit_labs | 0 | 0| 
-| 20210622T10:08:21Z | Geohazards Thematic Exploitation guide | https://github.com/Terradue/doc-tep-geohazards | 9 | 24| 
-| 20210622T09:35:22Z | A list of commands, tools and notes about enumerating and exploiting Active Directory and how to defend against these attacks | https://github.com/thegoatreich/AD_attack_defend_cheatsheet | 1 | 0| 
-| 20210622T09:26:47Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7982 | 1402| 
 
 
 # backdoor on Github 推荐
