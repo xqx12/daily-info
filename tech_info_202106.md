@@ -54,7 +54,7 @@
 | 20210620T11:02:49Z | CVE-2021-21551 | Script to patch your domain computers about the CVE-2021-21551. Privesc on machines that have the driver dbutil_2_3.sys, installed by some DELL tools (BIOS updater, SupportAssist...) | https://github.com/arnaudluti/PS-CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
 | 20210620T08:46:14Z | CVE-2020-14321 | Course enrolments allowed privilege escalation from teacher role into manager role to RCE | https://github.com/HoangKien1020/CVE-2020-14321 | 未查询到CVE信息| 
 | 20210620T04:03:32Z | CVE-2020-7247 | PoC exploit for CVE-2020-7247 OpenSMTPD 6.4.0 < 6.6.1 Remote Code Execution | https://github.com/f4T1H21/CVE-2020-7247 | smtp_mailaddr in smtp_session.c in OpenSMTPD 6.6, as used in OpenBSD 6.6 and other products, allows remote attackers to execute arbitrary commands as root via a crafted SMTP session, as demonstrated by shell metacharacters in a MAIL FROM field. This affects the %uncommented% default configuration. The issue exists because of an incorrect return value upon failure of input validation.| 
-| 20210620T02:47:02Z | cve-2021-3156 | Null | https://github.com/mrofisr/docker-cve-2021-3156 | | 
+| 20210620T02:47:02Z | cve-2021-3156 | Null | https://github.com/mrofisr/docker-cve-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210618T16:21:42Z | CVE-2021-31159 | Zoho ManageEngine ServiceDesk Plus MSP - Active Directory User Enumeration (CVE-2021-31159) | https://github.com/ricardojoserf/CVE-2021-31159 | Zoho ManageEngine ServiceDesk Plus MSP before 10519 is vulnerable to a User Enumeration bug due to improper error-message generation in the Forgot Password functionality, aka SDPMSP-15732.| 
 
 
@@ -147,6 +147,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210622T01:15:44Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4517 | 440| 
 | 20210622T00:40:08Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 288 | 38| 
 | 20210622T00:31:49Z | Symbolic Fuzzer | https://github.com/gauthamvs97/Symbolic-Fuzzer | 0 | 0| 
 | 20210621T23:45:23Z | Null | https://github.com/dhanasureshr/student-performance-using-fuzzy-logic | 0 | 0| 
@@ -154,7 +155,6 @@
 | 20210621T23:09:57Z | 🤖 Repeat tests. Repeat tests. Repeat tests. | https://github.com/ehmicky/test-each | 92 | 2| 
 | 20210621T22:03:14Z | Null | https://github.com/Alaafathhyy/FuzzyLogic | 0 | 2| 
 | 20210621T21:39:00Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
-| 20210621T21:37:50Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4516 | 440| 
 | 20210621T21:34:38Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
 | 20210621T21:24:23Z | Null | https://github.com/jan-golda/PW-FuzzyController | 0 | 0| 
 

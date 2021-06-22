@@ -112,11 +112,11 @@
 | 20210621T23:09:57Z | 🤖 Repeat tests. Repeat tests. Repeat tests. | https://github.com/ehmicky/test-each | 92 | 2| 
 | 20210621T22:03:14Z | Null | https://github.com/Alaafathhyy/FuzzyLogic | 0 | 2| 
 | 20210621T21:39:00Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
-| 20210621T21:37:50Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4516 | 440| 
 | 20210621T21:34:38Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
 | 20210621T21:24:23Z | Null | https://github.com/jan-golda/PW-FuzzyController | 0 | 0| 
 | 20210621T20:49:18Z | Null | https://github.com/Fuzznimp/Fuzznimp | 0 | 0| 
 | 20210621T20:43:08Z | Gentoo overlay | https://github.com/lferra/fuzzy-potato | 0 | 0| 
+| 20210621T20:36:54Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 
 
 
