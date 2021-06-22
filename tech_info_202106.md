@@ -147,6 +147,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210622T01:33:04Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210622T01:15:44Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4517 | 440| 
 | 20210622T00:40:08Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 288 | 38| 
 | 20210622T00:31:49Z | Symbolic Fuzzer | https://github.com/gauthamvs97/Symbolic-Fuzzer | 0 | 0| 
@@ -156,7 +157,6 @@
 | 20210621T22:03:14Z | Null | https://github.com/Alaafathhyy/FuzzyLogic | 0 | 2| 
 | 20210621T21:39:00Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
 | 20210621T21:34:38Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
-| 20210621T21:24:23Z | Null | https://github.com/jan-golda/PW-FuzzyController | 0 | 0| 
 
 
 

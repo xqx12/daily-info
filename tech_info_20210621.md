@@ -116,7 +116,7 @@
 | 20210621T21:24:23Z | Null | https://github.com/jan-golda/PW-FuzzyController | 0 | 0| 
 | 20210621T20:49:18Z | Null | https://github.com/Fuzznimp/Fuzznimp | 0 | 0| 
 | 20210621T20:43:08Z | Gentoo overlay | https://github.com/lferra/fuzzy-potato | 0 | 0| 
-| 20210621T20:36:54Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20210621T19:41:41Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6402 | 1301| 
 
 
 
