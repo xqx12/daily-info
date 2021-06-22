@@ -84,10 +84,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210622T01:33:04Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210622T01:15:44Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4517 | 440| 
-| 20210622T00:40:08Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 288 | 38| 
-| 20210622T00:31:49Z | Symbolic Fuzzer | https://github.com/gauthamvs97/Symbolic-Fuzzer | 0 | 0| 
+| 20210622T12:02:05Z | Null | https://github.com/kingloki-github/fuzzy-adventure | 0 | 0| 
+| 20210622T12:00:16Z | Null | https://github.com/VladKozyr/fuzzy-kotlin | 0 | 0| 
+| 20210622T11:59:21Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2345 | 130| 
+| 20210622T11:54:53Z | Null | https://github.com/bhattacharjee/fuzzy-funicular | 0 | 0| 
+| 20210622T11:54:25Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6403 | 1301| 
+| 20210622T11:37:06Z | Null | https://github.com/dhanasureshr/student-performance-using-fuzzy-logic | 0 | 0| 
+| 20210622T11:35:30Z | 🤖 Repeat tests. Repeat tests. Repeat tests. | https://github.com/ehmicky/test-each | 92 | 2| 
+| 20210622T11:19:07Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 32138 | 16586| 
+| 20210622T11:11:51Z | Fuzzing resources for JSC32 | https://github.com/pmatos/jsc32-fuzz | 0 | 0| 
+| 20210622T11:11:05Z | Setup scripts for 32bit JavaScriptCore Fuzzing Setup | https://github.com/pmatos/jsc32-fuzz-setup | 0 | 0| 
 
 
 
