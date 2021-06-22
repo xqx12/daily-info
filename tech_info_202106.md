@@ -148,12 +148,12 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210622T12:06:54Z | Null | https://github.com/bhattacharjee/fuzzy-funicular | 0 | 0| 
+| 20210622T12:06:49Z | Null | https://github.com/VladKozyr/fuzzy-kotlin | 0 | 0| 
 | 20210622T12:06:25Z | Null | https://github.com/danikirby/fuzzy-train | 0 | 0| 
 | 20210622T12:02:58Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210622T12:02:05Z | Null | https://github.com/kingloki-github/fuzzy-adventure | 0 | 0| 
-| 20210622T12:00:16Z | Null | https://github.com/VladKozyr/fuzzy-kotlin | 0 | 0| 
 | 20210622T11:59:21Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2345 | 130| 
-| 20210622T11:54:53Z | Null | https://github.com/bhattacharjee/fuzzy-funicular | 0 | 0| 
 | 20210622T11:54:25Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6403 | 1301| 
 | 20210622T11:37:06Z | Null | https://github.com/dhanasureshr/student-performance-using-fuzzy-logic | 0 | 0| 
 | 20210622T11:35:30Z | 🤖 Repeat tests. Repeat tests. Repeat tests. | https://github.com/ehmicky/test-each | 92 | 2| 
