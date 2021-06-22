@@ -89,6 +89,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210622T12:45:22Z | Fuzz testing tool for big data applications using a systematic exploration of higher order mutations. | https://github.com/LvKvA/SysFuzz | 0 | 0| 
 | 20210622T12:35:40Z | Null | https://github.com/my000own000files1/Fuzzy | 0 | 0| 
 | 20210622T12:18:48Z | Null | https://github.com/bhattacharjee/fuzzy-funicular | 0 | 0| 
 | 20210622T12:15:15Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 9 | 5| 
@@ -98,7 +99,6 @@
 | 20210622T12:02:58Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210622T12:02:05Z | Null | https://github.com/kingloki-github/fuzzy-adventure | 0 | 0| 
 | 20210622T11:59:21Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2345 | 130| 
-| 20210622T11:54:25Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6403 | 1301| 
 
 
 

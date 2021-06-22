@@ -55,7 +55,7 @@
 | 20210621T07:59:00Z | CVE-2020- | RCE in EXIF metadata removal from images research | https://github.com/awasthi7/CVE-2020-Exif-RCE | 未查询到CVE信息| 
 | 20210620T11:02:49Z | CVE-2021-21551 | Script to patch your domain computers about the CVE-2021-21551. Privesc on machines that have the driver dbutil_2_3.sys, installed by some DELL tools (BIOS updater, SupportAssist...) | https://github.com/arnaudluti/PS-CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
 | 20210620T08:46:14Z | CVE-2020-14321 | Course enrolments allowed privilege escalation from teacher role into manager role to RCE | https://github.com/HoangKien1020/CVE-2020-14321 | 未查询到CVE信息| 
-| 20210620T04:03:32Z | CVE-2020-7247 | PoC exploit for CVE-2020-7247 OpenSMTPD 6.4.0 < 6.6.1 Remote Code Execution | https://github.com/f4T1H21/CVE-2020-7247 | | 
+| 20210620T04:03:32Z | CVE-2020-7247 | PoC exploit for CVE-2020-7247 OpenSMTPD 6.4.0 < 6.6.1 Remote Code Execution | https://github.com/f4T1H21/CVE-2020-7247 | smtp_mailaddr in smtp_session.c in OpenSMTPD 6.6, as used in OpenBSD 6.6 and other products, allows remote attackers to execute arbitrary commands as root via a crafted SMTP session, as demonstrated by shell metacharacters in a MAIL FROM field. This affects the %uncommented% default configuration. The issue exists because of an incorrect return value upon failure of input validation.| 
 
 
 # klee on Github 推荐
@@ -148,6 +148,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210622T12:45:22Z | Fuzz testing tool for big data applications using a systematic exploration of higher order mutations. | https://github.com/LvKvA/SysFuzz | 0 | 0| 
 | 20210622T12:35:40Z | Null | https://github.com/my000own000files1/Fuzzy | 0 | 0| 
 | 20210622T12:18:48Z | Null | https://github.com/bhattacharjee/fuzzy-funicular | 0 | 0| 
 | 20210622T12:15:15Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 9 | 5| 
@@ -157,7 +158,6 @@
 | 20210622T12:02:58Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210622T12:02:05Z | Null | https://github.com/kingloki-github/fuzzy-adventure | 0 | 0| 
 | 20210622T11:59:21Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2345 | 130| 
-| 20210622T11:54:25Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6403 | 1301| 
 
 
 
