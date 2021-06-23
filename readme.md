@@ -55,7 +55,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20210622T23:45:01Z | Modular C2 framework aiming to ease post exploitation for red teamers.  | https://github.com/CMatri/MeetC2 | 1 | 0| 
-| 20210622T22:59:47Z | PS4 Host Exploits For 5.05 Firmware to 7.55 Firmware | https://github.com/Night-King-Host/Night-King-Host.github.io | 2 | 1| 
 | 20210622T22:58:04Z | Random lua things for roblox exploiting lolye | https://github.com/DontAltF4/RandomProjects | 0 | 0| 
 | 20210622T22:51:07Z | to check web exploits and rce shell codes and much more keeps on updating tho | https://github.com/No-Cellist-7780/just-a-check | 0 | 0| 
 | 20210622T22:32:19Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9582 | 1563| 
@@ -64,6 +63,7 @@
 | 20210622T21:58:46Z | Post-exploitation tool for lateral movement | https://github.com/tmenochet/PowerExec | 6 | 2| 
 | 20210622T21:45:16Z | Fix exploits on anarchy minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 44 | 11| 
 | 20210622T21:00:06Z | Clouddefense.ai is an automated web application security testing tool that audits your web applications by checking for vulnerabilities like SQL Injection, Cross site scripting and other exploitable vulnerabilities. | https://github.com/CloudDefenseAI/cd | 10 | 0| 
+| 20210622T20:39:17Z | Python-automated program for finding and exploiting arbitrage opportunities in international currency exchange market using high frequency forex trading (HFX). | https://github.com/lperezmo/high-freq-forex-bot | 0 | 0| 
 
 
 # backdoor on Github 推荐
