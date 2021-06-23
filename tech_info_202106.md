@@ -148,6 +148,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210623T00:53:26Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1838 | 364| 
 | 20210623T00:49:02Z | Hello | https://github.com/aaashutosh/fuzzy-octo-fiesta | 0 | 0| 
 | 20210623T00:48:36Z | Protocol State-Aware GreyBox Fuzzing | https://github.com/stuartly/aflpro | 4 | 3| 
 | 20210623T00:11:46Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
@@ -157,7 +158,6 @@
 | 20210622T21:01:29Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
 | 20210622T20:44:21Z | Fuzzy Segmentation of Remotely Sensed Images using an Adaptive Neuro Fuzzy Inference System (ANFIS). | https://github.com/andmon97/FuzzyRemoteSensingSegmentation | 4 | 0| 
 | 20210622T20:33:27Z | Null | https://github.com/bhattacharjee/fuzzy-funicular | 0 | 0| 
-| 20210622T19:26:32Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 244 | 31| 
 
 
 
