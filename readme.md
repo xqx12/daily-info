@@ -91,6 +91,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210623T12:19:31Z | Null | https://github.com/shao-hua-li/DropFuzzer | 0 | 0| 
 | 20210623T12:15:15Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 9 | 5| 
 | 20210623T12:06:09Z | Fuzz testing tool for big data applications using a systematic exploration of higher order mutations. | https://github.com/LvKvA/SysFuzz | 0 | 0| 
 | 20210623T11:56:02Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1839 | 365| 
@@ -100,7 +101,6 @@
 | 20210623T10:09:59Z | Null | https://github.com/Sambigeara/fuzzynote | 3 | 1| 
 | 20210623T10:05:59Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 462 | 40| 
 | 20210623T09:55:44Z | A little website to showcase who I am and the projects I have done. | https://github.com/FuzzyGrim/fuzzygrim.github.io | 0 | 0| 
-| 20210623T09:36:43Z | Null | https://github.com/cyyever/torchvision_fuzzing | 0 | 0| 
 
 
 
