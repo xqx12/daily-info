@@ -32,7 +32,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210622T22:06:18Z | CVE-2021-29337 | CVE-2021-29337 - Privilege Escalation in MODAPI.sys (MSI Dragon Center) | https://github.com/rjt-gupta/CVE-2021-29337 | MODAPI.sys in MSI Dragon Center 2.0.104.0 allows low-privileged users to access kernel memory and potentially escalate privileges via a crafted IOCTL 0x9c406104 call. This IOCTL provides the MmMapIoSpace feature for mapping physical memory.| 
-| 20210622T15:50:09Z | 未知编号 | Null | https://github.com/KZMachine/CVERT_2021 | 未查询到CVE信息| 
+| 20210622T15:50:09Z | 未知编号 | Null | https://github.com/KZMachine/CVERT_2021 | | 
 | 20210622T15:28:53Z | CVE-2020-25627 | Stored XSS via moodlenetprofile parameter in user profile | https://github.com/HoangKien1020/CVE-2020-25627 | The moodlenetprofile user profile field required extra sanitizing to prevent a stored XSS risk. This affects versions 3.9 to 3.9.1. Fixed in 3.9.2.| 
 | 20210622T05:54:34Z | CVE-2021-22214 | Gitlab CI Lint API未授权 SSRF漏洞 (CVE-2021-22214) | https://github.com/r0ckysec/CVE-2021-22214 | When requests to the internal network for webhooks are enabled, a server-side request forgery vulnerability in GitLab CE/EE affecting all versions starting from 10.5 was possible to exploit for an unauthenticated attacker even on a GitLab instance where registration is limited| 
 
@@ -56,7 +56,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20210622T23:45:01Z | Modular C2 framework aiming to ease post exploitation for red teamers.  | https://github.com/CMatri/MeetC2 | 1 | 0| 
-| 20210622T23:25:44Z | Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, polkit, docker socket :arrow_up: :skull_and_crossbones: | https://github.com/liamg/traitor | 3280 | 179| 
 | 20210622T22:59:47Z | PS4 Host Exploits For 5.05 Firmware to 7.55 Firmware | https://github.com/Night-King-Host/Night-King-Host.github.io | 2 | 1| 
 | 20210622T22:58:04Z | Random lua things for roblox exploiting lolye | https://github.com/DontAltF4/RandomProjects | 0 | 0| 
 | 20210622T22:51:07Z | to check web exploits and rce shell codes and much more keeps on updating tho | https://github.com/No-Cellist-7780/just-a-check | 0 | 0| 
@@ -65,6 +64,7 @@
 | 20210622T22:31:40Z | Exploit for systems running dompdf 0.6.0 or lower. Tested on version 0.6.0 as well as all 0.6.0 beta versions. | https://github.com/defarbs/dompdf-exploit | 1 | 0| 
 | 20210622T22:10:01Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 178 | 11| 
 | 20210622T21:58:46Z | Post-exploitation tool for lateral movement | https://github.com/tmenochet/PowerExec | 6 | 2| 
+| 20210622T21:45:16Z | Fix exploits on anarchy minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 44 | 11| 
 
 
 # backdoor on Github 推荐
