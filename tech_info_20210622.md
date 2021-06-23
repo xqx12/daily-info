@@ -59,12 +59,12 @@
 | 20210622T22:59:47Z | PS4 Host Exploits For 5.05 Firmware to 7.55 Firmware | https://github.com/Night-King-Host/Night-King-Host.github.io | 2 | 1| 
 | 20210622T22:58:04Z | Random lua things for roblox exploiting lolye | https://github.com/DontAltF4/RandomProjects | 0 | 0| 
 | 20210622T22:51:07Z | to check web exploits and rce shell codes and much more keeps on updating tho | https://github.com/No-Cellist-7780/just-a-check | 0 | 0| 
-| 20210622T22:46:07Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 61 | 22| 
 | 20210622T22:32:19Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9582 | 1563| 
 | 20210622T22:31:40Z | Exploit for systems running dompdf 0.6.0 or lower. Tested on version 0.6.0 as well as all 0.6.0 beta versions. | https://github.com/defarbs/dompdf-exploit | 1 | 0| 
 | 20210622T22:10:01Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 178 | 11| 
 | 20210622T21:58:46Z | Post-exploitation tool for lateral movement | https://github.com/tmenochet/PowerExec | 6 | 2| 
 | 20210622T21:45:16Z | Fix exploits on anarchy minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 44 | 11| 
+| 20210622T21:00:06Z | Clouddefense.ai is an automated web application security testing tool that audits your web applications by checking for vulnerabilities like SQL Injection, Cross site scripting and other exploitable vulnerabilities. | https://github.com/CloudDefenseAI/cd | 10 | 0| 
 
 
 # backdoor on Github 推荐

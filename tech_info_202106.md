@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210623T00:46:07Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 61 | 22| 
 | 20210623T00:45:38Z | Null | https://github.com/sheenieboy/ExploiterChat | 1 | 0| 
 | 20210623T00:38:00Z | Exploits project Hacking Command Center | https://github.com/chacka0101/exploits | 6 | 8| 
 | 20210623T00:33:09Z | Reverse Engineering Exploit and Tool coding for Security Professionals by James C. Foster with Mike Price | https://github.com/giovannyortegon/SocketsShellcodePortingAndCoding | 0 | 0| 
@@ -98,7 +99,6 @@
 | 20210622T22:59:47Z | PS4 Host Exploits For 5.05 Firmware to 7.55 Firmware | https://github.com/Night-King-Host/Night-King-Host.github.io | 2 | 1| 
 | 20210622T22:58:04Z | Random lua things for roblox exploiting lolye | https://github.com/DontAltF4/RandomProjects | 0 | 0| 
 | 20210622T22:51:07Z | to check web exploits and rce shell codes and much more keeps on updating tho | https://github.com/No-Cellist-7780/just-a-check | 0 | 0| 
-| 20210622T22:46:07Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 61 | 22| 
 
 
 # backdoor on Github 推荐
