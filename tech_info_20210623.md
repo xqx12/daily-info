@@ -62,12 +62,12 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210623T12:22:23Z | sexq | https://github.com/VenuzWeeb/LeuxBackdoor9 | 3 | 1| 
 | 20210623T12:09:20Z | A module for building botnet or back door with Python and Telegram control panel | https://github.com/onionj/pybotnet | 1 | 0| 
 | 20210623T11:59:35Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1166 | 555| 
 | 20210623T10:37:24Z | Create a backdoor to a WordPress website. | https://github.com/majidamiri70/backdoor_for_wp | 0 | 0| 
 | 20210623T09:28:16Z | Null | https://github.com/haytechwithbio/haygens-backdoor-malware-project | 0 | 0| 
 | 20210623T08:36:16Z | Python AV Evasion Tools | https://github.com/G1ft3dC0d3/MsfMania | 183 | 38| 
-| 20210623T07:19:42Z | sexq | https://github.com/VenuzWeeb/LeuxBackdoor9 | 2 | 0| 
 | 20210623T05:12:15Z | LeuxBackdoor 0.9 totalmente clean y deobf, si tienes dudas mandame un md a Foregon#6969 | https://github.com/SuperA1908v2/LeuxBackdoor-0.9-UwU | 2 | 0| 
 | 20210623T04:04:38Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 252 | 45| 
 | 20210623T02:46:25Z | A sethc backdoor based by golang | https://github.com/Maka8ka/ShiftGoor | 0 | 0| 
