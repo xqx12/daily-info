@@ -15,6 +15,7 @@
 | 20210622 | Fuzzing Android Native libraries with libFuzzer + QEMU | https://fuzzing.science/page/fuzzing-android-native-libraries-with-libfuzzer-qemu/| 
 | 20210622 | SpiderFoot - 一款自动化地从 100+ 个网站收集 IP、域名、比特币地址等情报信息的工具 | https://roguesecurity.ca/an-introduction-to-automating-open-source-intelligence-using-spiderfoot/| 
 | 20210622 | LOKI: Hardening Code Obfuscation Against Automated Attacks，这篇 Paper 提出了一种提高代码混淆复杂度的新方法 | https://arxiv.org/pdf/2106.08913.pdf| 
+| 20210622 | Linux Kaslr 实现解读。 | https://paper.seebug.org/1610/| 
 | 20210621 | A Little More on the Task Schedulers Service Account Usage | https://www.tiraniddo.dev/2021/06/a-little-more-on-task-schedulers.html| 
 | 20210621 | XXE in JDOM library - Java | https://alephsecurity.com/vulns/aleph-2021003| 
 | 20210621 | ZDI 对 ISC BIND DNS 服务器一个信息泄露 Bug 的分析 | https://www.thezdi.com/blog/2021/6/15/zdi-21-502-an-information-disclosure-bug-in-isc-bind-server| 
@@ -25,7 +26,6 @@
 | 20210621 | 开源 USB 协议栈漏洞挖掘 | https://www.cnblogs.com/hac425/p/14872442.html| 
 | 20210621 | Bypassing Windows Image Load Kernel Callbacks | https://www.mdsec.co.uk/2021/06/bypassing-image-load-kernel-callbacks/| 
 | 20210621 | 有研究员发现 Apple 的 iCloud 账户忘记密码功能可以通过大规模并发连接实现爆破 | https://sec.today/pulses/94033343-5112-4f52-a740-2843001cc920/| 
-| 20210621 | V8 CVE-2020-16040 漏洞的 Exploit | https://sec.today/pulses/d5e2bcd3-cf89-404d-b40e-2307b87c2457/| 
 
 
 # 安全维基 推荐
@@ -46,37 +46,37 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210622T22:06:18Z | CVE-2021-29337 | CVE-2021-29337 - Privilege Escalation in MODAPI.sys (MSI Dragon Center) | https://github.com/rjt-gupta/CVE-2021-29337 | MODAPI.sys in MSI Dragon Center 2.0.104.0 allows low-privileged users to access kernel memory and potentially escalate privileges via a crafted IOCTL 0x9c406104 call. This IOCTL provides the MmMapIoSpace feature for mapping physical memory.| 
+| 20210622T15:50:09Z | 未知编号 | Null | https://github.com/KZMachine/CVERT_2021 | 未查询到CVE信息| 
+| 20210622T15:28:53Z | CVE-2020-25627 | Stored XSS via moodlenetprofile parameter in user profile | https://github.com/HoangKien1020/CVE-2020-25627 | | 
 | 20210622T05:54:34Z | CVE-2021-22214 | Gitlab CI Lint API未授权 SSRF漏洞 (CVE-2021-22214) | https://github.com/r0ckysec/CVE-2021-22214 | When requests to the internal network for webhooks are enabled, a server-side request forgery vulnerability in GitLab CE/EE affecting all versions starting from 10.5 was possible to exploit for an unauthenticated attacker even on a GitLab instance where registration is limited| 
-| 20210622T03:32:26Z | 未知编号 | Null | https://github.com/KZMachine/CVERT_2021 | 未查询到CVE信息| 
-| 20210621T22:04:00Z | CVE-2021-29337 | CVE-2021-29337 - Privilege Escalation in MODAPI.sys (MSI Dragon Center) | https://github.com/rjt-gupta/CVE-2021-29337 | MODAPI.sys in MSI Dragon Center 2.0.104.0 allows low-privileged users to access kernel memory and potentially escalate privileges via a crafted IOCTL 0x9c406104 call. This IOCTL provides the MmMapIoSpace feature for mapping physical memory.| 
 | 20210621T19:17:37Z | CVE-2021-3560 | a reliable C based exploit for CVE-2021-3560. | https://github.com/hakivvi/CVE-2021-3560 | 未查询到CVE信息| 
 | 20210621T16:52:08Z | CVE-2021-3560 | Null | https://github.com/secnigma/CVE-2021-3560-Polkit-Privilege-Esclation | 未查询到CVE信息| 
 | 20210621T12:12:36Z | CVE-2020-8300 | Detect Citrix ADC SAML action or SAML iDP Profile config vulnerable to CVE-2020-8300 using Citrix ADC NITRO API | https://github.com/stuartcarroll/CitrixADC-CVE-2020-8300 | Citrix ADC and Citrix/NetScaler Gateway before 13.0-82.41, 12.1-62.23, 11.1-65.20 and Citrix ADC 12.1-FIPS before 12.1-55.238 suffer from improper access control allowing SAML authentication hijack through a phishing attack to steal a valid user session. Note that Citrix ADC or Citrix Gateway must be configured as a SAML SP or a SAML IdP for this to be possible.| 
 | 20210621T07:59:00Z | CVE-2020- | RCE in EXIF metadata removal from images research | https://github.com/awasthi7/CVE-2020-Exif-RCE | 未查询到CVE信息| 
 | 20210620T11:02:49Z | CVE-2021-21551 | Script to patch your domain computers about the CVE-2021-21551. Privesc on machines that have the driver dbutil_2_3.sys, installed by some DELL tools (BIOS updater, SupportAssist...) | https://github.com/arnaudluti/PS-CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
 | 20210620T08:46:14Z | CVE-2020-14321 | Course enrolments allowed privilege escalation from teacher role into manager role to RCE | https://github.com/HoangKien1020/CVE-2020-14321 | 未查询到CVE信息| 
-| 20210620T04:03:32Z | CVE-2020-7247 | PoC exploit for CVE-2020-7247 OpenSMTPD 6.4.0 < 6.6.1 Remote Code Execution | https://github.com/f4T1H21/CVE-2020-7247 | smtp_mailaddr in smtp_session.c in OpenSMTPD 6.6, as used in OpenBSD 6.6 and other products, allows remote attackers to execute arbitrary commands as root via a crafted SMTP session, as demonstrated by shell metacharacters in a MAIL FROM field. This affects the %uncommented% default configuration. The issue exists because of an incorrect return value upon failure of input validation.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210622T12:20:44Z | An RTIC application analysis tool which uses KLEE to generate test cases | https://github.com/markhakansson/rauk | 2 | 0| 
-| 20210622T07:20:29Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 674 | 15| 
+| 20210622T16:43:42Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 676 | 15| 
+| 20210622T14:26:58Z | Null | https://github.com/davidtr1037/klee-symsize | 0 | 0| 
+| 20210622T14:25:05Z | An RTIC application analysis tool which uses KLEE to generate test cases | https://github.com/markhakansson/rauk | 3 | 0| 
 | 20210622T02:48:50Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 10 | 1| 
 | 20210621T15:54:42Z | Programa Java realizado durante el trabajo final de grado de Ingeniería Informática en la UPV el cual mediante comandos vía terminal linux usaremos la herramienta de creación de casos de test KLEE. | https://github.com/sof1508/tfg | 0 | 0| 
 | 20210621T09:28:20Z | A RISC-V RV32 virtual prototype based on riscv-vp with symbolic execution support | https://github.com/agra-uni-bremen/symex-vp | 2 | 0| 
 | 20210621T07:20:52Z | Raw bindings for KLEE | https://github.com/markhakansson/klee-bindings | 0 | 0| 
 | 20210621T07:04:49Z | Safe KLEE API for Rust | https://github.com/markhakansson/klee-rs | 1 | 0| 
 | 20210620T21:23:18Z | TInA is an automated, generic, verification-friendly and trustworthy lifting technique turning GNU-style inline assembly into semantically equivalent C code amenable to verification, in order to take advantage of existing C analyzers. | https://github.com/binsec/klee21-tina-artifact | 19 | 1| 
-| 20210620T07:35:02Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1716 | 496| 
-| 20210619T13:52:19Z | Report PPT template for CS students  | https://github.com/Fishermanykx/paper_reading_report_template | 0 | 0| 
+| 20210620T07:35:02Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1716 | 495| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210622T10:27:44Z | Season 2, Episode 1 | https://github.com/InnovateAsterisk/S2E1 | 0 | 0| 
+| 20210622T19:27:46Z | Season 2, Episode 1 | https://github.com/InnovateAsterisk/S2E1 | 0 | 0| 
 | 20210621T09:11:34Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 136 | 31| 
 | 20210620T03:40:23Z | Null | https://github.com/LakehalAA/test-S2EE-BOT | 0 | 0| 
 | 20210618T15:49:13Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 73 | 31| 
@@ -89,31 +89,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210622T12:56:50Z | Various tools, PoCs and experiments related to my blog at https://www.forrest-orr.net/ | https://github.com/forrest-orr/ExploitDev | 2 | 0| 
-| 20210622T12:51:38Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 17 | 11| 
-| 20210622T12:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9579 | 1562| 
-| 20210622T12:31:58Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7983 | 1402| 
-| 20210622T12:10:38Z | Null | https://github.com/TheCrazzXz/Exploits-Lab | 0 | 0| 
-| 20210622T12:02:55Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
-| 20210622T11:53:03Z | Real-time tracking of major events on Twitter for image exploitation | https://github.com/Kiza31/Travail-de-master | 0 | 0| 
-| 20210622T11:49:38Z | Null | https://github.com/MoryokaV/Activity-Exploit | 0 | 0| 
-| 20210622T11:35:07Z | Agent-Based Modelling of labour exploitation in textile supply chains | https://github.com/kwabenantim/textile-labour | 0 | 0| 
-| 20210622T11:09:36Z | PS4 Host Exploits For 5.05 Firmware to 7.55 Firmware | https://github.com/Night-King-Host/Night-King-Host.github.io | 2 | 1| 
+| 20210623T00:01:19Z | Exploits project Hacking Command Center | https://github.com/chacka0101/exploits | 6 | 8| 
+| 20210622T23:45:01Z | Modular C2 framework aiming to ease post exploitation for red teamers.  | https://github.com/CMatri/MeetC2 | 1 | 0| 
+| 20210622T23:25:44Z | Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, polkit, docker socket :arrow_up: :skull_and_crossbones: | https://github.com/liamg/traitor | 3280 | 179| 
+| 20210622T23:03:00Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
+| 20210622T22:59:47Z | PS4 Host Exploits For 5.05 Firmware to 7.55 Firmware | https://github.com/Night-King-Host/Night-King-Host.github.io | 2 | 1| 
+| 20210622T22:58:04Z | Random lua things for roblox exploiting lolye | https://github.com/DontAltF4/RandomProjects | 0 | 0| 
+| 20210622T22:51:07Z | to check web exploits and rce shell codes and much more keeps on updating tho | https://github.com/No-Cellist-7780/just-a-check | 0 | 0| 
+| 20210622T22:46:07Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 61 | 22| 
+| 20210622T22:32:19Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9582 | 1563| 
+| 20210622T22:31:40Z | Exploit for systems running dompdf 0.6.0 or lower. Tested on version 0.6.0 as well as all 0.6.0 beta versions. | https://github.com/defarbs/dompdf-exploit | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210622T10:43:52Z | Python AV Evasion Tools | https://github.com/G1ft3dC0d3/MsfMania | 181 | 38| 
+| 20210622T22:16:23Z | A module for building botnet or back door with Python and Telegram control panel | https://github.com/onionj/pybotnet | 1 | 0| 
+| 20210622T20:41:53Z | A force op or backdoor minecraft plugin which can be used to get OP on a minecraft server | https://github.com/MOMIN5/force-op-backdoor-plugin | 1 | 0| 
+| 20210622T18:02:25Z | Python AV Evasion Tools | https://github.com/G1ft3dC0d3/MsfMania | 182 | 38| 
+| 20210622T16:31:45Z | Herramienta de ingeniería social (Creador de puerta trasera con Reverse Shell para Windows/Android) con Ngrok. | https://github.com/m4lal0/backdoorPhish | 0 | 0| 
+| 20210622T14:20:54Z | sexq | https://github.com/VenuzWeeb/LeuxBackdoor9 | 0 | 0| 
+| 20210622T14:18:49Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 35 | 27| 
 | 20210622T07:18:46Z | Null | https://github.com/seenu0991/https-github.com-FirmGuardian-backdoors-and-breaches-pcio | 0 | 0| 
 | 20210622T06:36:53Z | A token logger for discord + steals Brave/Chrome passwords and usernames | https://github.com/CUPZYY/Backdoor-Machine | 19 | 5| 
-| 20210622T03:58:10Z | sexq | https://github.com/VenuzWeeb/LeuxBackdoor9 | 0 | 0| 
-| 20210621T19:39:31Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1165 | 554| 
+| 20210621T19:39:31Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1165 | 555| 
 | 20210621T18:16:35Z | LeuxBackdoor 0.9 totalmente clean y deobf, si tienes dudas mandame un md a Foregon#6969 | https://github.com/SuperA1908v2/LeuxBackdoor-0.9-UwU | 1 | 0| 
-| 20210621T14:29:40Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 35 | 28| 
-| 20210621T09:05:40Z | A module for building botnet or back door with Python and Telegram control panel | https://github.com/onionj/pybotnet | 1 | 0| 
-| 20210621T04:56:39Z | SCP:SL simple server side backdoor | https://github.com/ggpabuk/ExiledBackdoor | 0 | 0| 
-| 20210620T22:03:02Z | Perlatan Buat Hamker | https://github.com/ItsmeikyXSec4O4/Mini-Shell-Backdoor | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
