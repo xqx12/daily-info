@@ -48,7 +48,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210622T22:06:18Z | CVE-2021-29337 | CVE-2021-29337 - Privilege Escalation in MODAPI.sys (MSI Dragon Center) | https://github.com/rjt-gupta/CVE-2021-29337 | MODAPI.sys in MSI Dragon Center 2.0.104.0 allows low-privileged users to access kernel memory and potentially escalate privileges via a crafted IOCTL 0x9c406104 call. This IOCTL provides the MmMapIoSpace feature for mapping physical memory.| 
 | 20210622T15:50:09Z | 未知编号 | Null | https://github.com/KZMachine/CVERT_2021 | 未查询到CVE信息| 
-| 20210622T15:28:53Z | CVE-2020-25627 | Stored XSS via moodlenetprofile parameter in user profile | https://github.com/HoangKien1020/CVE-2020-25627 | The moodlenetprofile user profile field required extra sanitizing to prevent a stored XSS risk. This affects versions 3.9 to 3.9.1. Fixed in 3.9.2.| 
+| 20210622T15:28:53Z | CVE-2020-25627 | Stored XSS via moodlenetprofile parameter in user profile | https://github.com/HoangKien1020/CVE-2020-25627 | | 
 | 20210622T05:54:34Z | CVE-2021-22214 | Gitlab CI Lint API未授权 SSRF漏洞 (CVE-2021-22214) | https://github.com/r0ckysec/CVE-2021-22214 | When requests to the internal network for webhooks are enabled, a server-side request forgery vulnerability in GitLab CE/EE affecting all versions starting from 10.5 was possible to exploit for an unauthenticated attacker even on a GitLab instance where registration is limited| 
 | 20210621T19:17:37Z | CVE-2021-3560 | a reliable C based exploit for CVE-2021-3560. | https://github.com/hakivvi/CVE-2021-3560 | 未查询到CVE信息| 
 | 20210621T16:52:08Z | CVE-2021-3560 | Null | https://github.com/secnigma/CVE-2021-3560-Polkit-Privilege-Esclation | 未查询到CVE信息| 
@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210622T16:43:42Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 676 | 15| 
+| 20210623T00:54:49Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 677 | 15| 
 | 20210622T14:26:58Z | Null | https://github.com/davidtr1037/klee-symsize | 0 | 0| 
 | 20210622T14:25:05Z | An RTIC application analysis tool which uses KLEE to generate test cases | https://github.com/markhakansson/rauk | 3 | 0| 
 | 20210622T02:48:50Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 10 | 1| 
@@ -89,8 +89,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210623T00:47:40Z | Exploits project Hacking Command Center | https://github.com/chacka0101/exploits | 6 | 8| 
-| 20210623T00:47:24Z | Beating github stars with a simple exploit. | https://github.com/AcaiBerii/beating-the-system | 0 | 0| 
+| 20210623T00:51:39Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 17 | 11| 
+| 20210623T00:51:17Z | Beating github stars with a simple exploit. | https://github.com/AcaiBerii/beating-the-system | 0 | 0| 
+| 20210623T00:48:36Z | Exploits project Hacking Command Center | https://github.com/chacka0101/exploits | 6 | 8| 
 | 20210623T00:46:07Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 61 | 22| 
 | 20210623T00:45:38Z | Null | https://github.com/sheenieboy/ExploiterChat | 1 | 0| 
 | 20210623T00:33:09Z | Reverse Engineering Exploit and Tool coding for Security Professionals by James C. Foster with Mike Price | https://github.com/giovannyortegon/SocketsShellcodePortingAndCoding | 0 | 0| 
@@ -98,7 +99,6 @@
 | 20210623T00:03:07Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210622T23:45:01Z | Modular C2 framework aiming to ease post exploitation for red teamers.  | https://github.com/CMatri/MeetC2 | 1 | 0| 
 | 20210622T22:59:47Z | PS4 Host Exploits For 5.05 Firmware to 7.55 Firmware | https://github.com/Night-King-Host/Night-King-Host.github.io | 2 | 1| 
-| 20210622T22:58:04Z | Random lua things for roblox exploiting lolye | https://github.com/DontAltF4/RandomProjects | 0 | 0| 
 
 
 # backdoor on Github 推荐
