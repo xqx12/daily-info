@@ -47,6 +47,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210623T12:51:39Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 17 | 11| 
 | 20210623T12:35:48Z | Null | https://github.com/ialijavidan/Documentation-Browser-Exploitation-Attack-Hook-a-Browser-with-BeEF-Kali-Linux | 0 | 0| 
 | 20210623T12:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9585 | 1566| 
 | 20210623T12:30:23Z | Exploiting Fast LCF and BERT for Aspect-based Sentiment Analysis Research | https://github.com/yangheng95/PyABSA | 109 | 18| 
@@ -56,7 +57,6 @@
 | 20210623T12:03:01Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210623T11:52:57Z | Open Source Projects that helps exploit Intel SGX technology | https://github.com/Maxul/Awesome-SGX-Open-Source | 61 | 12| 
 | 20210623T11:45:11Z | Null | https://github.com/evilbuffer/malware-and-exploitdev-resources | 5 | 1| 
-| 20210623T11:07:35Z | a reliable C based exploit for CVE-2021-3560. | https://github.com/hakivvi/CVE-2021-3560 | 16 | 1| 
 
 
 # backdoor on Github 推荐
