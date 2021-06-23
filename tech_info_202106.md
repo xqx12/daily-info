@@ -148,7 +148,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210623T01:47:09Z | xss vulnerability scanner and input fuzzing tool. | https://github.com/xadhrit/xira | 29 | 13| 
+| 20210623T01:50:07Z | xss vulnerability scanner and input fuzzing tool. | https://github.com/xadhrit/xira | 29 | 13| 
 | 20210623T01:31:55Z | Null | https://github.com/abobium/fuzzy-octo-spork | 0 | 0| 
 | 20210623T01:09:38Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 906 | 93| 
 | 20210623T01:05:16Z | Fuzzy Logic Program to fulfill AI Programming Assignment | https://github.com/farhanakbar8/fuzzylogic-AI | 0 | 0| 
