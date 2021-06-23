@@ -53,8 +53,8 @@
 | 20210621T19:17:37Z | CVE-2021-3560 | a reliable C based exploit for CVE-2021-3560. | https://github.com/hakivvi/CVE-2021-3560 | 未查询到CVE信息| 
 | 20210621T16:52:08Z | CVE-2021-3560 | Null | https://github.com/secnigma/CVE-2021-3560-Polkit-Privilege-Esclation | 未查询到CVE信息| 
 | 20210621T12:12:36Z | CVE-2020-8300 | Detect Citrix ADC SAML action or SAML iDP Profile config vulnerable to CVE-2020-8300 using Citrix ADC NITRO API | https://github.com/stuartcarroll/CitrixADC-CVE-2020-8300 | Citrix ADC and Citrix/NetScaler Gateway before 13.0-82.41, 12.1-62.23, 11.1-65.20 and Citrix ADC 12.1-FIPS before 12.1-55.238 suffer from improper access control allowing SAML authentication hijack through a phishing attack to steal a valid user session. Note that Citrix ADC or Citrix Gateway must be configured as a SAML SP or a SAML IdP for this to be possible.| 
-| 20210621T07:59:00Z | CVE-2020- | RCE in EXIF metadata removal from images research | https://github.com/awasthi7/CVE-2020-Exif-RCE | 未查询到CVE信息| 
-| 20210620T11:02:49Z | CVE-2021-21551 | Script to patch your domain computers about the CVE-2021-21551. Privesc on machines that have the driver dbutil_2_3.sys, installed by some DELL tools (BIOS updater, SupportAssist...) | https://github.com/arnaudluti/PS-CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
+| 20210621T07:59:00Z | CVE-2020- | RCE in EXIF metadata removal from images research | https://github.com/awasthi7/CVE-2020-Exif-RCE | | 
+| 20210620T11:02:49Z | CVE-2021-21551 | Script to patch your domain computers about the CVE-2021-21551. Privesc on machines that have the driver dbutil_2_3.sys, installed by some DELL tools (BIOS updater, SupportAssist...) | https://github.com/arnaudluti/PS-CVE-2021-21551 | | 
 | 20210620T08:46:14Z | CVE-2020-14321 | Course enrolments allowed privilege escalation from teacher role into manager role to RCE | https://github.com/HoangKien1020/CVE-2020-14321 | 未查询到CVE信息| 
 
 
@@ -148,6 +148,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210623T01:47:09Z | xss vulnerability scanner and input fuzzing tool. | https://github.com/xadhrit/xira | 29 | 13| 
 | 20210623T01:31:55Z | Null | https://github.com/abobium/fuzzy-octo-spork | 0 | 0| 
 | 20210623T01:09:38Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 906 | 93| 
 | 20210623T01:05:16Z | Fuzzy Logic Program to fulfill AI Programming Assignment | https://github.com/farhanakbar8/fuzzylogic-AI | 0 | 0| 
@@ -157,7 +158,6 @@
 | 20210623T00:11:46Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210622T23:57:40Z | POC of instrumenting python bytecode | https://github.com/pd-fkie/python-fuzz-poc | 0 | 0| 
 | 20210622T23:34:40Z | Fuzzy Expert Systems in Python | https://github.com/jdvelasq/fuzzy-expert | 1 | 0| 
-| 20210622T21:31:19Z | A little website to showcase who I am and the projects I have done. | https://github.com/FuzzyGrim/fuzzygrim.github.io | 0 | 0| 
 
 
 
