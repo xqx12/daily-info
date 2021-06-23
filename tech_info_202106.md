@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210623T00:54:49Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 677 | 15| 
+| 20210623T01:02:12Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 678 | 15| 
 | 20210622T14:26:58Z | Null | https://github.com/davidtr1037/klee-symsize | 0 | 0| 
 | 20210622T14:25:05Z | An RTIC application analysis tool which uses KLEE to generate test cases | https://github.com/markhakansson/rauk | 3 | 0| 
 | 20210622T02:48:50Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 10 | 1| 
@@ -89,6 +89,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210623T01:02:56Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
+| 20210623T01:01:42Z | Base for a Roblox exploit, written in C++20. | https://github.com/Upbolt/Roblox-Exploit-Base | 0 | 0| 
 | 20210623T00:51:39Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 17 | 11| 
 | 20210623T00:51:17Z | Beating github stars with a simple exploit. | https://github.com/AcaiBerii/beating-the-system | 0 | 0| 
 | 20210623T00:48:36Z | Exploits project Hacking Command Center | https://github.com/chacka0101/exploits | 6 | 8| 
@@ -96,9 +98,7 @@
 | 20210623T00:45:38Z | Null | https://github.com/sheenieboy/ExploiterChat | 1 | 0| 
 | 20210623T00:33:09Z | Reverse Engineering Exploit and Tool coding for Security Professionals by James C. Foster with Mike Price | https://github.com/giovannyortegon/SocketsShellcodePortingAndCoding | 0 | 0| 
 | 20210623T00:10:44Z | Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, polkit, docker socket :arrow_up: :skull_and_crossbones: | https://github.com/liamg/traitor | 3281 | 179| 
-| 20210623T00:03:07Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
 | 20210622T23:45:01Z | Modular C2 framework aiming to ease post exploitation for red teamers.  | https://github.com/CMatri/MeetC2 | 1 | 0| 
-| 20210622T22:59:47Z | PS4 Host Exploits For 5.05 Firmware to 7.55 Firmware | https://github.com/Night-King-Host/Night-King-Host.github.io | 2 | 1| 
 
 
 # backdoor on Github 推荐
