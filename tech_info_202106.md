@@ -6,6 +6,15 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210623 | Abusing Mailslots and PortKnocking for connectionless shells | https://adepts.of0x.cc/connectionless-shells/| 
+| 20210623 | AWS API 网关的 lambda authorizers 特性可能会误导开发者，影响产品安全性 | https://www.tenchisecurity.com/blog/thefaultinourstars| 
+| 20210623 | GitLab 引入静态自动化分析工具 Semgrep，用于在 CI/CD 过程中扫描安全问题 | https://r2c.dev/blog/2021/introducing-semgrep-for-gitlab/| 
+| 20210623 | 防御方向的 MITRE DEFEND 方法论矩阵 | https://d3fend.mitre.org/| 
+| 20210623 | 专注符号执行领域的 KLEE Workshop 会议的议题资料公开了 | https://srg.doc.ic.ac.uk/klee21/schedule.html| 
+| 20210623 | Linux 应用市场 Pling 网站被发现蠕虫 XSS 漏洞，原生 PlingStore 应用被发现 RCE 漏洞 | https://positive.security/blog/hacking-linux-marketplaces| 
+| 20210623 | 专注 SpiderMonkey 引擎的 TC39 开发者会议的议题公开了 | https://spidermonkey.dev/blog/2021/06/15/tc39.html| 
+| 20210623 | Post-Exploit 框架 Mythic 发布新版本，增强与 Agent 之间的协作能力 | https://posts.specterops.io/learning-from-our-myths-45a19ad4d077?gi=e0fe53e3cd24| 
+| 20210623 | Dell 安全团队分析发现 LV 勒索软件与 REvil 勒索软件有相同的代码结构 | https://www.secureworks.com/research/lv-ransomware| 
 | 20210622 | 利用 Linux 内核 io_uring 的引用计数漏洞实现本地提权（CVE-2021–20226） | https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-leads-to-local-privilege-escalation-in-io-uring-e946bd69177a| 
 | 20210622 | ARTIF - 一款基于 IP 信誉度信息实现的实时检测 Web 恶意流量的工具 | https://github.com/CRED-CLUB/ARTIF| 
 | 20210622 | Windows Event Viewer 服务受 NTLM Relay 攻击影响（CVE-2021-31958） | https://www.armis.com/blog/security-advisory-windows-event-viewer-service-vulnerable-to-ntlm-relay-attacks/| 
@@ -17,15 +26,6 @@
 | 20210622 | LOKI: Hardening Code Obfuscation Against Automated Attacks，这篇 Paper 提出了一种提高代码混淆复杂度的新方法 | https://arxiv.org/pdf/2106.08913.pdf| 
 | 20210622 | Linux Kaslr 实现解读。 | https://paper.seebug.org/1610/| 
 | 20210621 | A Little More on the Task Schedulers Service Account Usage | https://www.tiraniddo.dev/2021/06/a-little-more-on-task-schedulers.html| 
-| 20210621 | XXE in JDOM library - Java | https://alephsecurity.com/vulns/aleph-2021003| 
-| 20210621 | ZDI 对 ISC BIND DNS 服务器一个信息泄露 Bug 的分析 | https://www.thezdi.com/blog/2021/6/15/zdi-21-502-an-information-disclosure-bug-in-isc-bind-server| 
-| 20210621 | SLSA - Google 推出了一个用于解决供应链安全的端到端的框架 | https://security.googleblog.com/2021/06/introducing-slsa-end-to-end-framework.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+GoogleOnlineSecurityBlog+%28Google+Online+Security+Blog%29| 
-| 20210621 | Smoking Out a DARKSIDE Affiliate’s Supply Chain Software Compromise | https://www.fireeye.com/blog/threat-research/2021/06/darkside-affiliate-supply-chain-software-compromise.html| 
-| 20210621 | Exploiting the notoriously unsafe gets() on a PAC-protected ARM64 binary | https://blog.ret2.io/2021/06/16/intro-to-pac-arm64/| 
-| 20210621 | 利用 M1 平台 iOS App Installer 绕过 GateKeeper | https://wojciechregula.blog/post/m1-macs-gatekeeper-bypass-aka-cve-2021-30658/| 
-| 20210621 | 开源 USB 协议栈漏洞挖掘 | https://www.cnblogs.com/hac425/p/14872442.html| 
-| 20210621 | Bypassing Windows Image Load Kernel Callbacks | https://www.mdsec.co.uk/2021/06/bypassing-image-load-kernel-callbacks/| 
-| 20210621 | 有研究员发现 Apple 的 iCloud 账户忘记密码功能可以通过大规模并发连接实现爆破 | https://sec.today/pulses/94033343-5112-4f52-a740-2843001cc920/| 
 
 
 # 安全维基 推荐
@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210622T22:06:18Z | CVE-2021-29337 | CVE-2021-29337 - Privilege Escalation in MODAPI.sys (MSI Dragon Center) | https://github.com/rjt-gupta/CVE-2021-29337 | MODAPI.sys in MSI Dragon Center 2.0.104.0 allows low-privileged users to access kernel memory and potentially escalate privileges via a crafted IOCTL 0x9c406104 call. This IOCTL provides the MmMapIoSpace feature for mapping physical memory.| 
+| 20210623T11:07:35Z | CVE-2021-3560 | a reliable C based exploit for CVE-2021-3560. | https://github.com/hakivvi/CVE-2021-3560 | 未查询到CVE信息| 
+| 20210623T10:39:40Z | CVE-2021-29337 | CVE-2021-29337 - Privilege Escalation in MODAPI.sys (MSI Dragon Center) | https://github.com/rjt-gupta/CVE-2021-29337 | MODAPI.sys in MSI Dragon Center 2.0.104.0 allows low-privileged users to access kernel memory and potentially escalate privileges via a crafted IOCTL 0x9c406104 call. This IOCTL provides the MmMapIoSpace feature for mapping physical memory.| 
+| 20210623T10:36:17Z | CVE-2021-22911 | Pre-Auth Blind NoSQL Injection leading to Remote Code Execution in Rocket Chat 3.12.1 | https://github.com/CsEnox/CVE-2021-22911 | A improper input sanitization vulnerability exists in Rocket.Chat server 3.11, 3.12 & 3.13 that could lead to unauthenticated NoSQL injection, resulting potentially in RCE.| 
 | 20210622T15:50:09Z | 未知编号 | Null | https://github.com/KZMachine/CVERT_2021 | 未查询到CVE信息| 
 | 20210622T15:28:53Z | CVE-2020-25627 | Stored XSS via moodlenetprofile parameter in user profile | https://github.com/HoangKien1020/CVE-2020-25627 | The moodlenetprofile user profile field required extra sanitizing to prevent a stored XSS risk. This affects versions 3.9 to 3.9.1. Fixed in 3.9.2.| 
 | 20210622T05:54:34Z | CVE-2021-22214 | Gitlab CI Lint API未授权 SSRF漏洞 (CVE-2021-22214) | https://github.com/r0ckysec/CVE-2021-22214 | When requests to the internal network for webhooks are enabled, a server-side request forgery vulnerability in GitLab CE/EE affecting all versions starting from 10.5 was possible to exploit for an unauthenticated attacker even on a GitLab instance where registration is limited| 
-| 20210621T19:17:37Z | CVE-2021-3560 | a reliable C based exploit for CVE-2021-3560. | https://github.com/hakivvi/CVE-2021-3560 | 未查询到CVE信息| 
-| 20210621T16:52:08Z | CVE-2021-3560 | Null | https://github.com/secnigma/CVE-2021-3560-Polkit-Privilege-Esclation | | 
+| 20210621T16:52:08Z | CVE-2021-3560 | Null | https://github.com/secnigma/CVE-2021-3560-Polkit-Privilege-Esclation | 未查询到CVE信息| 
 | 20210621T12:12:36Z | CVE-2020-8300 | Detect Citrix ADC SAML action or SAML iDP Profile config vulnerable to CVE-2020-8300 using Citrix ADC NITRO API | https://github.com/stuartcarroll/CitrixADC-CVE-2020-8300 | Citrix ADC and Citrix/NetScaler Gateway before 13.0-82.41, 12.1-62.23, 11.1-65.20 and Citrix ADC 12.1-FIPS before 12.1-55.238 suffer from improper access control allowing SAML authentication hijack through a phishing attack to steal a valid user session. Note that Citrix ADC or Citrix Gateway must be configured as a SAML SP or a SAML IdP for this to be possible.| 
 | 20210621T07:59:00Z | CVE-2020- | RCE in EXIF metadata removal from images research | https://github.com/awasthi7/CVE-2020-Exif-RCE | 未查询到CVE信息| 
 | 20210620T11:02:49Z | CVE-2021-21551 | Script to patch your domain computers about the CVE-2021-21551. Privesc on machines that have the driver dbutil_2_3.sys, installed by some DELL tools (BIOS updater, SupportAssist...) | https://github.com/arnaudluti/PS-CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
-| 20210620T08:46:14Z | CVE-2020-14321 | Course enrolments allowed privilege escalation from teacher role into manager role to RCE | https://github.com/HoangKien1020/CVE-2020-14321 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
@@ -89,31 +89,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210623T01:57:14Z | Exploits project Hacking Command Center | https://github.com/chacka0101/exploits | 6 | 8| 
-| 20210623T01:54:16Z | Base for a Roblox exploit, written in C++20. | https://github.com/Upbolt/Roblox-Exploit-Base | 0 | 0| 
-| 20210623T01:20:42Z | Random lua things for roblox exploiting lolye | https://github.com/DontAltF4/RandomProjects | 0 | 0| 
-| 20210623T01:06:18Z | PS4 Host Exploits For 5.05 Firmware to 7.55 Firmware | https://github.com/Night-King-Host/Night-King-Host.github.io | 2 | 1| 
-| 20210623T01:02:56Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
-| 20210623T00:51:39Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 17 | 11| 
-| 20210623T00:51:17Z | Beating github stars with a simple exploit. | https://github.com/AcaiBerii/beating-the-system | 0 | 0| 
-| 20210623T00:46:07Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 61 | 22| 
-| 20210623T00:45:38Z | Null | https://github.com/sheenieboy/ExploiterChat | 1 | 0| 
-| 20210623T00:33:09Z | Reverse Engineering Exploit and Tool coding for Security Professionals by James C. Foster with Mike Price | https://github.com/giovannyortegon/SocketsShellcodePortingAndCoding | 0 | 0| 
+| 20210623T11:52:57Z | Open Source Projects that helps exploit Intel SGX technology | https://github.com/Maxul/Awesome-SGX-Open-Source | 61 | 12| 
+| 20210623T11:45:11Z | Null | https://github.com/evilbuffer/malware-and-exploitdev-resources | 5 | 1| 
+| 20210623T11:40:50Z | Agent-Based Modelling of labour exploitation in textile supply chains | https://github.com/kwabenantim/textile-labour | 0 | 0| 
+| 20210623T11:07:35Z | a reliable C based exploit for CVE-2021-3560. | https://github.com/hakivvi/CVE-2021-3560 | 16 | 1| 
+| 20210623T11:02:55Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 24 | 11| 
+| 20210623T10:39:33Z | exploiting vernacular names of organisms and linking them with scientific names | https://github.com/plazi/vernacularNames | 1 | 1| 
+| 20210623T10:34:07Z | template website | https://github.com/exploitweb/exploitweb.github.io | 0 | 0| 
+| 20210623T10:28:39Z | Null | https://github.com/MoryokaV/Activity-Exploit | 0 | 0| 
+| 20210623T09:47:14Z | Advisories, proof of concept files and exploits that have been made public by @pedrib. | https://github.com/pedrib/PoC | 394 | 101| 
+| 20210623T09:41:50Z | Roblox exploit DLL base using the LBI execution method | https://github.com/deaddlocust/LBI-Base | 6 | 1| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210622T22:16:23Z | A module for building botnet or back door with Python and Telegram control panel | https://github.com/onionj/pybotnet | 1 | 0| 
+| 20210623T11:59:35Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1166 | 555| 
+| 20210623T10:37:24Z | Create a backdoor to a WordPress website. | https://github.com/majidamiri70/backdoor_for_wp | 0 | 0| 
+| 20210623T09:28:16Z | Null | https://github.com/haytechwithbio/haygens-backdoor-malware-project | 0 | 0| 
+| 20210623T08:36:16Z | Python AV Evasion Tools | https://github.com/G1ft3dC0d3/MsfMania | 183 | 38| 
+| 20210623T07:19:42Z | sexq | https://github.com/VenuzWeeb/LeuxBackdoor9 | 2 | 0| 
+| 20210623T05:18:50Z | A module for building botnet or back door with Python and Telegram control panel | https://github.com/onionj/pybotnet | 1 | 0| 
+| 20210623T05:12:15Z | LeuxBackdoor 0.9 totalmente clean y deobf, si tienes dudas mandame un md a Foregon#6969 | https://github.com/SuperA1908v2/LeuxBackdoor-0.9-UwU | 2 | 0| 
+| 20210623T04:04:38Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 252 | 45| 
+| 20210623T02:46:25Z | A sethc backdoor based by golang | https://github.com/Maka8ka/ShiftGoor | 0 | 0| 
 | 20210622T20:41:53Z | A force op or backdoor minecraft plugin which can be used to get OP on a minecraft server | https://github.com/MOMIN5/force-op-backdoor-plugin | 1 | 0| 
-| 20210622T18:02:25Z | Python AV Evasion Tools | https://github.com/G1ft3dC0d3/MsfMania | 182 | 38| 
-| 20210622T16:31:45Z | Herramienta de ingeniería social (Creador de puerta trasera con Reverse Shell para Windows/Android) con Ngrok. | https://github.com/m4lal0/backdoorPhish | 0 | 0| 
-| 20210622T14:20:54Z | sexq | https://github.com/VenuzWeeb/LeuxBackdoor9 | 0 | 0| 
-| 20210622T14:18:49Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 35 | 27| 
-| 20210622T07:18:46Z | Null | https://github.com/seenu0991/https-github.com-FirmGuardian-backdoors-and-breaches-pcio | 0 | 0| 
-| 20210622T06:36:53Z | A token logger for discord + steals Brave/Chrome passwords and usernames | https://github.com/CUPZYY/Backdoor-Machine | 19 | 5| 
-| 20210621T19:39:31Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1165 | 555| 
-| 20210621T18:16:35Z | LeuxBackdoor 0.9 totalmente clean y deobf, si tienes dudas mandame un md a Foregon#6969 | https://github.com/SuperA1908v2/LeuxBackdoor-0.9-UwU | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -148,16 +148,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210623T01:50:07Z | xss vulnerability scanner and input fuzzing tool. | https://github.com/xadhrit/xira | 29 | 13| 
-| 20210623T01:31:55Z | Null | https://github.com/abobium/fuzzy-octo-spork | 0 | 0| 
-| 20210623T01:09:38Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 906 | 93| 
-| 20210623T01:05:16Z | Fuzzy Logic Program to fulfill AI Programming Assignment | https://github.com/farhanakbar8/fuzzylogic-AI | 0 | 0| 
-| 20210623T00:53:26Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1838 | 364| 
-| 20210623T00:49:02Z | Hello | https://github.com/aaashutosh/fuzzy-octo-fiesta | 0 | 0| 
-| 20210623T00:48:36Z | Protocol State-Aware GreyBox Fuzzing | https://github.com/stuartly/aflpro | 4 | 3| 
-| 20210623T00:11:46Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210622T23:57:40Z | POC of instrumenting python bytecode | https://github.com/pd-fkie/python-fuzz-poc | 0 | 0| 
-| 20210622T23:34:40Z | Fuzzy Expert Systems in Python | https://github.com/jdvelasq/fuzzy-expert | 1 | 0| 
+| 20210623T11:56:02Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1839 | 365| 
+| 20210623T11:32:12Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
+| 20210623T11:31:50Z | Null | https://github.com/tukunviena/fuzzy-journey | 0 | 0| 
+| 20210623T10:09:59Z | Null | https://github.com/Sambigeara/fuzzynote | 3 | 1| 
+| 20210623T10:05:59Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 462 | 40| 
+| 20210623T09:55:44Z | A little website to showcase who I am and the projects I have done. | https://github.com/FuzzyGrim/fuzzygrim.github.io | 0 | 0| 
+| 20210623T09:36:43Z | Null | https://github.com/cyyever/torchvision_fuzzing | 0 | 0| 
+| 20210623T08:56:18Z | Fuzzing with the generated argument | https://github.com/zodf0055980/Yuan-fuzz | 15 | 2| 
+| 20210623T08:54:59Z | Null | https://github.com/danikirby/fuzzy-train | 0 | 0| 
+| 20210623T08:41:57Z | Null | https://github.com/VladKozyr/fuzzy-kotlin | 0 | 0| 
 
 
 
