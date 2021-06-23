@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210622T22:06:18Z | CVE-2021-29337 | CVE-2021-29337 - Privilege Escalation in MODAPI.sys (MSI Dragon Center) | https://github.com/rjt-gupta/CVE-2021-29337 | | 
+| 20210622T22:06:18Z | CVE-2021-29337 | CVE-2021-29337 - Privilege Escalation in MODAPI.sys (MSI Dragon Center) | https://github.com/rjt-gupta/CVE-2021-29337 | MODAPI.sys in MSI Dragon Center 2.0.104.0 allows low-privileged users to access kernel memory and potentially escalate privileges via a crafted IOCTL 0x9c406104 call. This IOCTL provides the MmMapIoSpace feature for mapping physical memory.| 
 | 20210622T15:50:09Z | 未知编号 | Null | https://github.com/KZMachine/CVERT_2021 | 未查询到CVE信息| 
 | 20210622T15:28:53Z | CVE-2020-25627 | Stored XSS via moodlenetprofile parameter in user profile | https://github.com/HoangKien1020/CVE-2020-25627 | The moodlenetprofile user profile field required extra sanitizing to prevent a stored XSS risk. This affects versions 3.9 to 3.9.1. Fixed in 3.9.2.| 
 | 20210622T05:54:34Z | CVE-2021-22214 | Gitlab CI Lint API未授权 SSRF漏洞 (CVE-2021-22214) | https://github.com/r0ckysec/CVE-2021-22214 | When requests to the internal network for webhooks are enabled, a server-side request forgery vulnerability in GitLab CE/EE affecting all versions starting from 10.5 was possible to exploit for an unauthenticated attacker even on a GitLab instance where registration is limited| 
@@ -148,6 +148,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210623T01:31:19Z | Null | https://github.com/abobium/fuzzy-octo-spork | 0 | 0| 
 | 20210623T01:09:38Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 906 | 93| 
 | 20210623T01:05:16Z | Fuzzy Logic Program to fulfill AI Programming Assignment | https://github.com/farhanakbar8/fuzzylogic-AI | 0 | 0| 
 | 20210623T00:53:26Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1838 | 364| 
@@ -157,7 +158,6 @@
 | 20210622T23:57:40Z | POC of instrumenting python bytecode | https://github.com/pd-fkie/python-fuzz-poc | 0 | 0| 
 | 20210622T23:34:40Z | Fuzzy Expert Systems in Python | https://github.com/jdvelasq/fuzzy-expert | 1 | 0| 
 | 20210622T21:31:19Z | A little website to showcase who I am and the projects I have done. | https://github.com/FuzzyGrim/fuzzygrim.github.io | 0 | 0| 
-| 20210622T21:01:29Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
 
 
 
