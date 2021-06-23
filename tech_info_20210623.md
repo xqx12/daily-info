@@ -47,6 +47,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210623T12:35:48Z | Null | https://github.com/ialijavidan/Documentation-Browser-Exploitation-Attack-Hook-a-Browser-with-BeEF-Kali-Linux | 0 | 0| 
+| 20210623T12:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9585 | 1566| 
+| 20210623T12:30:23Z | Exploiting Fast LCF and BERT for Aspect-based Sentiment Analysis Research | https://github.com/yangheng95/PyABSA | 109 | 18| 
 | 20210623T12:28:43Z | Agent-Based Modelling of labour exploitation in textile supply chains | https://github.com/kwabenantim/textile-labour | 0 | 0| 
 | 20210623T12:08:30Z | Advisories, proof of concept files and exploits that have been made public by @pedrib. | https://github.com/pedrib/PoC | 394 | 101| 
 | 20210623T12:05:13Z | Exploiting BERT for End-to-End Aspect-based Sentiment Analysis (W-NUT@EMNLP 2019) | https://github.com/lixin4ever/BERT-E2E-ABSA | 221 | 59| 
@@ -54,9 +57,6 @@
 | 20210623T11:52:57Z | Open Source Projects that helps exploit Intel SGX technology | https://github.com/Maxul/Awesome-SGX-Open-Source | 61 | 12| 
 | 20210623T11:45:11Z | Null | https://github.com/evilbuffer/malware-and-exploitdev-resources | 5 | 1| 
 | 20210623T11:07:35Z | a reliable C based exploit for CVE-2021-3560. | https://github.com/hakivvi/CVE-2021-3560 | 16 | 1| 
-| 20210623T10:39:33Z | exploiting vernacular names of organisms and linking them with scientific names | https://github.com/plazi/vernacularNames | 1 | 1| 
-| 20210623T10:34:07Z | template website | https://github.com/exploitweb/exploitweb.github.io | 0 | 0| 
-| 20210623T10:28:39Z | Null | https://github.com/MoryokaV/Activity-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
