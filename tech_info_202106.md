@@ -89,7 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210623T01:55:08Z | Exploits project Hacking Command Center | https://github.com/chacka0101/exploits | 6 | 8| 
+| 20210623T01:57:14Z | Exploits project Hacking Command Center | https://github.com/chacka0101/exploits | 6 | 8| 
 | 20210623T01:54:16Z | Base for a Roblox exploit, written in C++20. | https://github.com/Upbolt/Roblox-Exploit-Base | 0 | 0| 
 | 20210623T01:20:42Z | Random lua things for roblox exploiting lolye | https://github.com/DontAltF4/RandomProjects | 0 | 0| 
 | 20210623T01:06:18Z | PS4 Host Exploits For 5.05 Firmware to 7.55 Firmware | https://github.com/Night-King-Host/Night-King-Host.github.io | 2 | 1| 
