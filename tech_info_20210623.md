@@ -91,6 +91,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210623T12:40:52Z | Null | https://github.com/tukunviena/fuzzy-journey | 0 | 0| 
 | 20210623T12:35:29Z | Null | https://github.com/VladKozyr/fuzzy-kotlin | 0 | 0| 
 | 20210623T12:33:13Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210623T12:31:35Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 463 | 40| 
@@ -98,7 +99,6 @@
 | 20210623T12:15:15Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 9 | 5| 
 | 20210623T12:06:09Z | Fuzz testing tool for big data applications using a systematic exploration of higher order mutations. | https://github.com/LvKvA/SysFuzz | 0 | 0| 
 | 20210623T11:56:02Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1839 | 365| 
-| 20210623T11:31:50Z | Null | https://github.com/tukunviena/fuzzy-journey | 0 | 0| 
 | 20210623T11:30:23Z | Dictionary collection project such as Pentesing, Fuzzing, Bruteforce and BugBounty. 渗透测试、SRC漏洞挖掘、爆破、Fuzzing等字典收集项目。 | https://github.com/insightglacier/Dictionary-Of-Pentesting | 631 | 150| 
 | 20210623T10:09:59Z | Null | https://github.com/Sambigeara/fuzzynote | 3 | 1| 
 
