@@ -148,6 +148,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210623T01:09:38Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 906 | 93| 
 | 20210623T01:05:16Z | Fuzzy Logic Program to fulfill AI Programming Assignment | https://github.com/farhanakbar8/fuzzylogic-AI | 0 | 0| 
 | 20210623T00:53:26Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1838 | 364| 
 | 20210623T00:49:02Z | Hello | https://github.com/aaashutosh/fuzzy-octo-fiesta | 0 | 0| 
@@ -157,7 +158,6 @@
 | 20210622T23:34:40Z | Fuzzy Expert Systems in Python | https://github.com/jdvelasq/fuzzy-expert | 1 | 0| 
 | 20210622T21:31:19Z | A little website to showcase who I am and the projects I have done. | https://github.com/FuzzyGrim/fuzzygrim.github.io | 0 | 0| 
 | 20210622T21:01:29Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
-| 20210622T20:44:21Z | Fuzzy Segmentation of Remotely Sensed Images using an Adaptive Neuro Fuzzy Inference System (ANFIS). | https://github.com/andmon97/FuzzyRemoteSensingSegmentation | 4 | 0| 
 
 
 
