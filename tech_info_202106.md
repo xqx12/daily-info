@@ -53,24 +53,24 @@
 | 20210622T15:28:53Z | CVE-2020-25627 | Stored XSS via moodlenetprofile parameter in user profile | https://github.com/HoangKien1020/CVE-2020-25627 | The moodlenetprofile user profile field required extra sanitizing to prevent a stored XSS risk. This affects versions 3.9 to 3.9.1. Fixed in 3.9.2.| 
 | 20210622T05:54:34Z | CVE-2021-22214 | Gitlab CI Lint API未授权 SSRF漏洞 (CVE-2021-22214) | https://github.com/r0ckysec/CVE-2021-22214 | When requests to the internal network for webhooks are enabled, a server-side request forgery vulnerability in GitLab CE/EE affecting all versions starting from 10.5 was possible to exploit for an unauthenticated attacker even on a GitLab instance where registration is limited| 
 | 20210621T16:52:08Z | CVE-2021-3560 | Null | https://github.com/secnigma/CVE-2021-3560-Polkit-Privilege-Esclation | 未查询到CVE信息| 
-| 20210621T12:12:36Z | CVE-2020-8300 | Detect Citrix ADC SAML action or SAML iDP Profile config vulnerable to CVE-2020-8300 using Citrix ADC NITRO API | https://github.com/stuartcarroll/CitrixADC-CVE-2020-8300 | Citrix ADC and Citrix/NetScaler Gateway before 13.0-82.41, 12.1-62.23, 11.1-65.20 and Citrix ADC 12.1-FIPS before 12.1-55.238 suffer from improper access control allowing SAML authentication hijack through a phishing attack to steal a valid user session. Note that Citrix ADC or Citrix Gateway must be configured as a SAML SP or a SAML IdP for this to be possible.| 
+| 20210621T12:12:36Z | CVE-2020-8300 | Detect Citrix ADC SAML action or SAML iDP Profile config vulnerable to CVE-2020-8300 using Citrix ADC NITRO API | https://github.com/stuartcarroll/CitrixADC-CVE-2020-8300 | | 
 | 20210621T07:59:00Z | CVE-2020- | RCE in EXIF metadata removal from images research | https://github.com/awasthi7/CVE-2020-Exif-RCE | 未查询到CVE信息| 
-| 20210620T11:02:49Z | CVE-2021-21551 | Script to patch your domain computers about the CVE-2021-21551. Privesc on machines that have the driver dbutil_2_3.sys, installed by some DELL tools (BIOS updater, SupportAssist...) | https://github.com/arnaudluti/PS-CVE-2021-21551 | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
+| 20210620T11:02:49Z | CVE-2021-21551 | Script to patch your domain computers about the CVE-2021-21551. Privesc on machines that have the driver dbutil_2_3.sys, installed by some DELL tools (BIOS updater, SupportAssist...) | https://github.com/arnaudluti/PS-CVE-2021-21551 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210623T10:37:42Z | An RTIC application analysis tool which uses KLEE to generate test cases | https://github.com/markhakansson/rauk | 3 | 0| 
+| 20210623T08:49:58Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1718 | 495| 
+| 20210623T05:02:11Z | Null | https://github.com/fontworks-fonts/Klee | 462 | 13| 
 | 20210623T01:02:12Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 678 | 15| 
 | 20210622T14:26:58Z | Null | https://github.com/davidtr1037/klee-symsize | 0 | 0| 
-| 20210622T14:25:05Z | An RTIC application analysis tool which uses KLEE to generate test cases | https://github.com/markhakansson/rauk | 3 | 0| 
 | 20210622T02:48:50Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 10 | 1| 
 | 20210621T15:54:42Z | Programa Java realizado durante el trabajo final de grado de Ingeniería Informática en la UPV el cual mediante comandos vía terminal linux usaremos la herramienta de creación de casos de test KLEE. | https://github.com/sof1508/tfg | 0 | 0| 
 | 20210621T09:28:20Z | A RISC-V RV32 virtual prototype based on riscv-vp with symbolic execution support | https://github.com/agra-uni-bremen/symex-vp | 2 | 0| 
 | 20210621T07:20:52Z | Raw bindings for KLEE | https://github.com/markhakansson/klee-bindings | 0 | 0| 
 | 20210621T07:04:49Z | Safe KLEE API for Rust | https://github.com/markhakansson/klee-rs | 1 | 0| 
-| 20210620T21:23:18Z | TInA is an automated, generic, verification-friendly and trustworthy lifting technique turning GNU-style inline assembly into semantically equivalent C code amenable to verification, in order to take advantage of existing C analyzers. | https://github.com/binsec/klee21-tina-artifact | 19 | 1| 
-| 20210620T07:35:02Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1716 | 495| 
 
 
 # s2e on Github 推荐
@@ -119,16 +119,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210622T22:42:18Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 304 | 21| 
-| 20210622T20:49:29Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2360 | 348| 
+| 20210623T11:36:13Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 305 | 21| 
+| 20210623T09:28:38Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2361 | 348| 
+| 20210623T09:23:38Z | This is the repository for Symbolic Execution engine for StateFlow (SESf) models | https://github.com/predragf/sesf | 0 | 0| 
+| 20210623T08:49:58Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1718 | 495| 
+| 20210623T06:49:46Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1825 | 381| 
 | 20210622T17:49:42Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 143 | 33| 
-| 20210622T11:04:00Z | This is the repository for Symbolic Execution engine for StateFlow (SESf) models | https://github.com/predragf/sesf | 0 | 0| 
 | 20210621T20:36:51Z | Symbolic Execution Engine and Verification Condition Generator for While-Language and SMTlib | https://github.com/wadoon/mini-symex | 1 | 0| 
 | 20210621T19:12:20Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 7 | 4| 
 | 20210621T17:00:19Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 14 | 3| 
-| 20210621T14:14:03Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1824 | 381| 
 | 20210621T11:06:15Z | Monster is a symbolic execution engine for 64-bit RISC-U code | https://github.com/cksystemsgroup/monster | 6 | 3| 
-| 20210621T09:28:20Z | A RISC-V RV32 virtual prototype based on riscv-vp with symbolic execution support | https://github.com/agra-uni-bremen/symex-vp | 2 | 0| 
 
 
 # big4 on Github 推荐
