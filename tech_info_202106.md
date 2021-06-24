@@ -148,6 +148,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210624T01:34:24Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1839 | 364| 
 | 20210624T01:21:36Z | Fahp, Ahp, GRA (Grey relational analysis), Fuzzy VIKOR Moodle integrated | https://github.com/Okeanos38/moodle_fuzzylogic_integrated | 0 | 0| 
 | 20210624T01:14:46Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210624T01:14:21Z | Null | https://github.com/GuilhermeBuenoMartins/sistemas-de-inferencia-fuzzy | 0 | 2| 
@@ -157,7 +158,6 @@
 | 20210624T00:15:51Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4517 | 441| 
 | 20210623T23:58:49Z | Null | https://github.com/J-Rowan-Code/Fuzzy-logic---Pendulum-Problem | 0 | 0| 
 | 20210623T23:19:49Z | Sometimes we want to fuzz a set of sub-domain URLs with a common wordlist. Fuzzing them one by one is a tedious task, not to mention the false positives we obtain in those results. To solve this problem I created Lazy FuzzZ. It fuzzes all those urls, removes all false positives and sends only legitimate results to burpsuite. | https://github.com/th3hack3rwiz/Lazy-FuzzZ | 45 | 6| 
-| 20210623T23:13:35Z | Fuzzy Expert Systems in Python | https://github.com/jdvelasq/fuzzy-expert | 1 | 0| 
 
 
 
