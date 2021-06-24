@@ -34,7 +34,7 @@
 | 20210623T18:13:54Z | CVE-2021-21315 | CVE 2021-21315 exploit | https://github.com/0UR4N05/CVE-2021-21315 | The System Information Library for Node.JS (npm package %systeminformation%) is an open source collection of functions to retrieve detailed hardware, system and OS information. In systeminformation before version 5.3.1 there is a command injection vulnerability. Problem was fixed in version 5.3.1. As a workaround instead of upgrading, be sure to check or sanitize service parameters that are passed to si.inetLatency(), si.inetChecksite(), si.services(), si.processLoad() ... do only allow strings, reject any arrays. String sanitation works as expected.| 
 | 20210623T15:33:53Z | CVE-2021-29337 | CVE-2021-29337 - Privilege Escalation in MODAPI.sys (MSI Dragon Center) | https://github.com/rjt-gupta/CVE-2021-29337 | MODAPI.sys in MSI Dragon Center 2.0.104.0 allows low-privileged users to access kernel memory and potentially escalate privileges via a crafted IOCTL 0x9c406104 call. This IOCTL provides the MmMapIoSpace feature for mapping physical memory.| 
 | 20210623T11:07:35Z | CVE-2021-3560 | a reliable C based exploit for CVE-2021-3560. | https://github.com/hakivvi/CVE-2021-3560 | 未查询到CVE信息| 
-| 20210623T10:36:17Z | CVE-2021-22911 | Pre-Auth Blind NoSQL Injection leading to Remote Code Execution in Rocket Chat 3.12.1 | https://github.com/CsEnox/CVE-2021-22911 | A improper input sanitization vulnerability exists in Rocket.Chat server 3.11, 3.12 & 3.13 that could lead to unauthenticated NoSQL injection, resulting potentially in RCE.| 
+| 20210623T10:36:17Z | CVE-2021-22911 | Pre-Auth Blind NoSQL Injection leading to Remote Code Execution in Rocket Chat 3.12.1 | https://github.com/CsEnox/CVE-2021-22911 | | 
 
 
 # klee on Github 推荐
@@ -87,7 +87,6 @@
 | --- | --- | --- | --- | ---| 
 | 20210623T23:19:25Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 421 | 63| 
 | 20210623T19:03:32Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2362 | 348| 
-| 20210623T18:22:25Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 14 | 3| 
 | 20210623T16:53:48Z | This demo will show how Symbolic Execution solve the problem. | https://github.com/JeffShao96/Symbolic-NS3 | 0 | 2| 
 | 20210623T16:41:20Z | Binsec/Rel is an extension of Binsec that implements relational symbolic execution for constant-time verification and secret-erasure at binary-level. | https://github.com/binsec/Rel | 24 | 1| 
 | 20210623T11:36:13Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 305 | 21| 
