@@ -6,6 +6,13 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210624 | Pass-the-Hash Is Dead: Long Live LocalAccountTokenFilterPolicy | https://www.harmj0y.net/blog/redteaming/pass-the-hash-is-dead-long-live-localaccounttokenfilterpolicy/| 
+| 20210624 | VMProtect 2 壳静态分析工具的构建 | https://back.engineering/21/06/2021/| 
+| 20210624 | 后渗透测试框架 Cobalt Strike 快速自动化部署的 Tips/Tricks | https://blog.cobaltstrike.com/2021/06/23/manage-cobalt-strike-with-services/| 
+| 20210624 | Windows Filtering Platform (WFP) 验证身份模拟 Token 不完善导致可以绕过防火墙的规则 | https://bugs.chromium.org/p/project-zero/issues/detail?id=2175| 
+| 20210624 | Cisco HyperFlex HX 分布式文件系统 RCE 漏洞分析（CVE-2021-1497） | https://www.thezdi.com/blog/2021/6/23/cve-2021-1497-cisco-hyperflex-hx-auth-handling-remote-command-execution| 
+| 20210624 | AD CS Relay 攻击实战 | https://www.exandroid.dev/2021/06/23/ad-cs-relay-attack-practical-guide/| 
+| 20210624 | Certified Pre-Owned: Abusing Active Directory Certificate Services | https://posts.specterops.io/certified-pre-owned-d95910965cd2?gi=440222159090| 
 | 20210623 | Abusing Mailslots and PortKnocking for connectionless shells | https://adepts.of0x.cc/connectionless-shells/| 
 | 20210623 | AWS API 网关的 lambda authorizers 特性可能会误导开发者，影响产品安全性 | https://www.tenchisecurity.com/blog/thefaultinourstars| 
 | 20210623 | GitLab 引入静态自动化分析工具 Semgrep，用于在 CI/CD 过程中扫描安全问题 | https://r2c.dev/blog/2021/introducing-semgrep-for-gitlab/| 
@@ -19,58 +26,51 @@
 | 20210623 | 如何用调试器Windbg在 win10 下隐藏进程. | https://paper.seebug.org/1611/| 
 | 20210623 | 使用DCI EXDI 会话调试Windows内核（Paper） | http://advdbg.org/gdk/download/20200606-GDC_3_DbgWindows.pdf| 
 | 20210623 | PJobRAT：针对印度军事人员的间谍软件溯源分析。 | https://mp.weixin.qq.com/s/VTHvmRTeu3dw8HFyusKLqQ| 
-| 20210623 | ARM 汇编代码:使用指针用法介绍。 | https://eclecticlight.co/2021/06/21/code-in-arm-assembly-working-with-pointers/| 
-| 20210622 | 利用 Linux 内核 io_uring 的引用计数漏洞实现本地提权（CVE-2021–20226） | https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-leads-to-local-privilege-escalation-in-io-uring-e946bd69177a| 
-| 20210622 | ARTIF - 一款基于 IP 信誉度信息实现的实时检测 Web 恶意流量的工具 | https://github.com/CRED-CLUB/ARTIF| 
-| 20210622 | Windows Event Viewer 服务受 NTLM Relay 攻击影响（CVE-2021-31958） | https://www.armis.com/blog/security-advisory-windows-event-viewer-service-vulnerable-to-ntlm-relay-attacks/| 
-| 20210622 | Shadow Credentials: Abusing Key Trust Account Mapping for Account Takeover | https://posts.specterops.io/shadow-credentials-abusing-key-trust-account-mapping-for-takeover-8ee1a53566ab?gi=ea45e52b93d5| 
-| 20210622 | 通过检测并杀掉 svchost 进程内指定线程的方式实现 Windows Event Log Killer | https://github.com/hlldz/Phant0m| 
-| 20210622 | 利用 Speculative Control Flow 劫持攻击的方式绕过栈溢出保护 | https://ibm.github.io/system-security-research-updates/2021/06/18/spear-attacks-ssp-usecase| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210624 | 隐秘的印记：暗水印实践技术分享 | https://mp.weixin.qq.com/s/2yfjMVlTHwNRT5zOGem26w| 
+| 20210624 | 通过ScriptEngine实现冰蝎shell免杀 | https://mp.weixin.qq.com/s/SU5B7ULgmOC7HsRscMrkKw| 
+| 20210624 | 零信任实战架构总结 | https://mp.weixin.qq.com/s/SCI9sSQHyyriVoCbOGJz5w| 
+| 20210624 | Go语言逆向初探 | https://mp.weixin.qq.com/s/S0HbZ7m9Wcj1b_EUwC7xxw| 
+| 20210624 | 基于工控业务场景构建工控安全成熟度模型 | https://mp.weixin.qq.com/s/c5-aV9Aad8SUEySHz1Vg-A| 
+| 20210624 | 基于业务场景的漏洞挖掘 | https://mp.weixin.qq.com/s/a6QvgLFCO4rCS3FRYZ3lug| 
+| 20210624 | go样本加载过程分析 | https://mp.weixin.qq.com/s/8Dqjas9-fV5DoglZ9MbvZg| 
 | 20210622 | skylarinst-winc(10.199.1.19_80).exe样本分析 | https://mp.weixin.qq.com/s/S0lb93pAhnDbcdYXaixicg| 
 | 20210622 | web选手如何快速卷入二进制世界 | https://mp.weixin.qq.com/s/tU6R2Q4_unEoAMk27vv9xg| 
 | 20210622 | SecWiki周刊（第381期) | https://www.sec-wiki.com/weekly/381| 
-| 20210622 | 从BAB到SLSA——谈Google的软件供应链风险治理 | https://zhuanlan.zhihu.com/p/382721804| 
-| 20210622 | 研究Twitter账户要寻找什么及工具 | https://mp.weixin.qq.com/s/L0VjmyXMg2p_KbSMl3NEIw| 
-| 20210621 | 身临其境之谁是猎人 | https://www.sec-in.com/article/1091| 
-| 20210620 | 开源情报（OSINT）常用工具及其安全使用 | https://mp.weixin.qq.com/s/UiAdHpQABlNarb60L5UGNw| 
-| 20210620 | 第三方组件安全评估指南 | https://mp.weixin.qq.com/s/45dF9lqnL2ByKgQNmKetyw| 
-| 20210620 | iOS Wi-Fi 格式串拒绝服务 0day 分析 | https://mp.weixin.qq.com/s/-PVLxXRi9Yi3A5YmhiskJA| 
-| 20210620 | 一文看懂内存马 | https://mp.weixin.qq.com/s/T_6At4Crp1qmdczBSuLYdQ| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210624T01:32:52Z | CVE-2021-29337 | CVE-2021-29337 - Privilege Escalation in MODAPI.sys (MSI Dragon Center) | https://github.com/rjt-gupta/CVE-2021-29337 | MODAPI.sys in MSI Dragon Center 2.0.104.0 allows low-privileged users to access kernel memory and potentially escalate privileges via a crafted IOCTL 0x9c406104 call. This IOCTL provides the MmMapIoSpace feature for mapping physical memory.| 
+| 20210624T08:29:21Z | CVE-2021-3560 | a reliable C based exploit for CVE-2021-3560. | https://github.com/hakivvi/CVE-2021-3560 | 未查询到CVE信息| 
+| 20210624T07:20:08Z | CVE-2021-22214 | Gitlab CI Lint API未授权 SSRF漏洞 (CVE-2021-22214) | https://github.com/r0ckysec/CVE-2021-22214 | When requests to the internal network for webhooks are enabled, a server-side request forgery vulnerability in GitLab CE/EE affecting all versions starting from 10.5 was possible to exploit for an unauthenticated attacker even on a GitLab instance where registration is limited| 
+| 20210624T06:37:45Z | CVE-2021-29337 | CVE-2021-29337 - Privilege Escalation in MODAPI.sys (MSI Dragon Center) | https://github.com/rjt-gupta/CVE-2021-29337 | MODAPI.sys in MSI Dragon Center 2.0.104.0 allows low-privileged users to access kernel memory and potentially escalate privileges via a crafted IOCTL 0x9c406104 call. This IOCTL provides the MmMapIoSpace feature for mapping physical memory.| 
 | 20210623T21:34:48Z | CVE-2020-25627 | Stored XSS via moodlenetprofile parameter in user profile | https://github.com/HoangKien1020/CVE-2020-25627 | The moodlenetprofile user profile field required extra sanitizing to prevent a stored XSS risk. This affects versions 3.9 to 3.9.1. Fixed in 3.9.2.| 
-| 20210623T18:13:54Z | CVE-2021-21315 | CVE 2021-21315 exploit | https://github.com/0UR4N05/CVE-2021-21315 | | 
-| 20210623T11:07:35Z | CVE-2021-3560 | a reliable C based exploit for CVE-2021-3560. | https://github.com/hakivvi/CVE-2021-3560 | 未查询到CVE信息| 
+| 20210623T18:13:54Z | CVE-2021-21315 | CVE 2021-21315 exploit | https://github.com/0UR4N05/CVE-2021-21315 | The System Information Library for Node.JS (npm package %systeminformation%) is an open source collection of functions to retrieve detailed hardware, system and OS information. In systeminformation before version 5.3.1 there is a command injection vulnerability. Problem was fixed in version 5.3.1. As a workaround instead of upgrading, be sure to check or sanitize service parameters that are passed to si.inetLatency(), si.inetChecksite(), si.services(), si.processLoad() ... do only allow strings, reject any arrays. String sanitation works as expected.| 
 | 20210623T10:36:17Z | CVE-2021-22911 | Pre-Auth Blind NoSQL Injection leading to Remote Code Execution in Rocket Chat 3.12.1 | https://github.com/CsEnox/CVE-2021-22911 | A improper input sanitization vulnerability exists in Rocket.Chat server 3.11, 3.12 & 3.13 that could lead to unauthenticated NoSQL injection, resulting potentially in RCE.| 
 | 20210622T15:50:09Z | 未知编号 | Null | https://github.com/KZMachine/CVERT_2021 | 未查询到CVE信息| 
-| 20210622T05:54:34Z | CVE-2021-22214 | Gitlab CI Lint API未授权 SSRF漏洞 (CVE-2021-22214) | https://github.com/r0ckysec/CVE-2021-22214 | When requests to the internal network for webhooks are enabled, a server-side request forgery vulnerability in GitLab CE/EE affecting all versions starting from 10.5 was possible to exploit for an unauthenticated attacker even on a GitLab instance where registration is limited| 
-| 20210621T16:52:08Z | CVE-2021-3560 | Null | https://github.com/secnigma/CVE-2021-3560-Polkit-Privilege-Esclation | 未查询到CVE信息| 
-| 20210621T12:12:36Z | CVE-2020-8300 | Detect Citrix ADC SAML action or SAML iDP Profile config vulnerable to CVE-2020-8300 using Citrix ADC NITRO API | https://github.com/stuartcarroll/CitrixADC-CVE-2020-8300 | | 
+| 20210621T16:52:08Z | CVE-2021-3560 | Null | https://github.com/secnigma/CVE-2021-3560-Polkit-Privilege-Esclation | | 
+| 20210621T12:12:36Z | CVE-2020-8300 | Detect Citrix ADC SAML action or SAML iDP Profile config vulnerable to CVE-2020-8300 using Citrix ADC NITRO API | https://github.com/stuartcarroll/CitrixADC-CVE-2020-8300 | Citrix ADC and Citrix/NetScaler Gateway before 13.0-82.41, 12.1-62.23, 11.1-65.20 and Citrix ADC 12.1-FIPS before 12.1-55.238 suffer from improper access control allowing SAML authentication hijack through a phishing attack to steal a valid user session. Note that Citrix ADC or Citrix Gateway must be configured as a SAML SP or a SAML IdP for this to be possible.| 
 | 20210621T07:59:00Z | CVE-2020- | RCE in EXIF metadata removal from images research | https://github.com/awasthi7/CVE-2020-Exif-RCE | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210623T17:00:39Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 679 | 15| 
+| 20210624T11:13:25Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 681 | 15| 
+| 20210624T09:21:52Z | Projet SensioTv de formation Symfony 5 Klee Interactive, stack en Docksal et WSL2 windows | https://github.com/404Panky/formation-sf5 | 0 | 0| 
+| 20210624T09:00:33Z | An RTIC application analysis tool which uses KLEE to generate test cases | https://github.com/markhakansson/rauk | 3 | 0| 
 | 20210623T15:33:40Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 14 | 45| 
-| 20210623T10:37:42Z | An RTIC application analysis tool which uses KLEE to generate test cases | https://github.com/markhakansson/rauk | 3 | 0| 
 | 20210623T08:49:58Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1718 | 495| 
 | 20210623T05:02:11Z | Null | https://github.com/fontworks-fonts/Klee | 462 | 13| 
 | 20210622T14:26:58Z | Null | https://github.com/davidtr1037/klee-symsize | 0 | 0| 
 | 20210622T02:48:50Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 10 | 1| 
 | 20210621T15:54:42Z | Programa Java realizado durante el trabajo final de grado de Ingeniería Informática en la UPV el cual mediante comandos vía terminal linux usaremos la herramienta de creación de casos de test KLEE. | https://github.com/sof1508/tfg | 0 | 0| 
 | 20210621T09:28:20Z | A RISC-V RV32 virtual prototype based on riscv-vp with symbolic execution support | https://github.com/agra-uni-bremen/symex-vp | 2 | 0| 
-| 20210621T07:20:52Z | Raw bindings for KLEE | https://github.com/markhakansson/klee-bindings | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -148,16 +148,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210624T01:34:24Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1839 | 364| 
-| 20210624T01:21:36Z | Fahp, Ahp, GRA (Grey relational analysis), Fuzzy VIKOR Moodle integrated | https://github.com/Okeanos38/moodle_fuzzylogic_integrated | 0 | 0| 
-| 20210624T01:14:46Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
-| 20210624T01:14:21Z | Null | https://github.com/GuilhermeBuenoMartins/sistemas-de-inferencia-fuzzy | 0 | 2| 
-| 20210624T01:07:07Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2347 | 130| 
-| 20210624T00:56:50Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 288 | 39| 
-| 20210624T00:49:06Z | Null | https://github.com/mochdhera03/fuzzy-octo-funicular | 0 | 0| 
-| 20210624T00:15:51Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4517 | 441| 
-| 20210623T23:58:49Z | Null | https://github.com/J-Rowan-Code/Fuzzy-logic---Pendulum-Problem | 0 | 0| 
-| 20210623T23:19:49Z | Sometimes we want to fuzz a set of sub-domain URLs with a common wordlist. Fuzzing them one by one is a tedious task, not to mention the false positives we obtain in those results. To solve this problem I created Lazy FuzzZ. It fuzzes all those urls, removes all false positives and sends only legitimate results to burpsuite. | https://github.com/th3hack3rwiz/Lazy-FuzzZ | 45 | 6| 
+| 20210624T11:57:43Z | Dictionary collection project such as Pentesing, Fuzzing, Bruteforce and BugBounty. 渗透测试、SRC漏洞挖掘、爆破、Fuzzing等字典收集项目。 | https://github.com/insightglacier/Dictionary-Of-Pentesting | 635 | 153| 
+| 20210624T11:54:07Z | Null | https://github.com/GuilhermeBuenoMartins/sistemas-de-inferencia-fuzzy | 0 | 2| 
+| 20210624T11:48:11Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1236 | 220| 
+| 20210624T11:31:15Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20210624T11:21:09Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6410 | 1302| 
+| 20210624T11:09:30Z | The fuzzingbook VM | https://github.com/vrthra/VM.Fuzzingbook | 0 | 0| 
+| 20210624T11:02:32Z | golang 练手项目，对目标站点进行目录和文件爆破，利用相似性汉明距离清除误报页面。 | https://github.com/who0sy/WebsiteFuzz | 1 | 0| 
+| 20210624T11:01:26Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1842 | 364| 
+| 20210624T10:43:21Z | Null | https://github.com/arpanghosh130883/Fuzzy_Name_Match | 0 | 0| 
+| 20210624T10:25:42Z | Emulation and Feedback Fuzzing of Firmware with Memory Sanitization | https://github.com/fgsect/BaseSAFE | 114 | 14| 
 
 
 
