@@ -89,6 +89,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210624T12:37:51Z | Null | https://github.com/DK9510/web-app-exploitation | 2 | 0| 
+| 20210624T12:35:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9594 | 1568| 
 | 20210624T12:29:27Z | Agent-Based Modelling of labour exploitation in textile supply chains | https://github.com/kwabenantim/textile-labour | 0 | 0| 
 | 20210624T12:18:20Z | CAUTION - Malicious files 💀 | https://github.com/Am0rphous/Malware | 18 | 7| 
 | 20210624T12:18:19Z | Les bases de l%Internet des Objets,  La structuration compacte des données, Le transport de la donnée,  Les informations sémantiques,  Vers une exploitation de la données, précautions et outils,  | https://github.com/lindangulopez/l-internet-des-objets | 0 | 0| 
@@ -97,8 +99,6 @@
 | 20210624T12:03:00Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 25 | 12| 
 | 20210624T12:02:02Z | Null | https://github.com/ChipsBoy/Recent-Roblox-Lua-Exploit-Scripts-Early.Mid2020 | 0 | 0| 
 | 20210624T11:41:58Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 63 | 22| 
-| 20210624T11:19:57Z | Experiment to try to generate large prime numbers, and build intentionally weak RSA keys that can be exploited | https://github.com/greg-porterfield/primes_and_keys | 0 | 0| 
-| 20210624T10:53:46Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
 
 
 # backdoor on Github 推荐
