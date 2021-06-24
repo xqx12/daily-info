@@ -89,22 +89,22 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210624T12:51:47Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 63 | 22| 
+| 20210624T12:53:52Z | Les bases de l%Internet des Objets,  La structuration compacte des données, Le transport de la donnée,  Les informations sémantiques,  Vers une exploitation de la données, précautions et outils,  | https://github.com/lindangulopez/l-internet-des-objets | 0 | 0| 
+| 20210624T12:53:44Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 63 | 22| 
+| 20210624T12:53:27Z | CamRaptor is a tool that exploits several vulnerabilities in popular DVR cameras to obtain network camera credentials. | https://github.com/EntySec/CamRaptor | 5 | 0| 
+| 20210624T12:52:18Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1167 | 556| 
 | 20210624T12:51:40Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 17 | 11| 
 | 20210624T12:50:02Z | The Eclipse Foundation has been a partner in many publicly funded research projects since 2013. We help organizations to successfully create, publish, and sustain an open source software platform, making the results of the research projects available for commercial or public exploitation. | https://github.com/EclipseFdn/eclipse.org-research | 0 | 12| 
-| 20210624T12:49:01Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1167 | 556| 
-| 20210624T12:48:45Z | Les bases de l%Internet des Objets,  La structuration compacte des données, Le transport de la donnée,  Les informations sémantiques,  Vers une exploitation de la données, précautions et outils,  | https://github.com/lindangulopez/l-internet-des-objets | 0 | 0| 
 | 20210624T12:45:13Z | Agent-Based Modelling of labour exploitation in textile supply chains | https://github.com/kwabenantim/textile-labour | 0 | 0| 
 | 20210624T12:40:29Z | Null | https://github.com/DK9510/web-app-exploitation | 2 | 0| 
 | 20210624T12:35:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9594 | 1568| 
 | 20210624T12:18:20Z | CAUTION - Malicious files 💀 | https://github.com/Am0rphous/Malware | 18 | 7| 
-| 20210624T12:16:20Z | OpenEMR <= 5.0.1 - (Authenticated) Remote Code Execution | https://github.com/noraj/OpenEMR-RCE | 6 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210624T12:49:01Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1167 | 556| 
+| 20210624T12:53:56Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1167 | 556| 
 | 20210624T12:08:22Z | A module for building botnet or back door with Python and Telegram control panel | https://github.com/onionj/pybotnet | 1 | 0| 
 | 20210624T11:09:59Z | sexq | https://github.com/VenuzWeeb/LeuxBackdoor9 | 4 | 1| 
 | 20210624T10:43:18Z | 🤖An Evil and Smart Bot for Enslaving Windows. | https://github.com/wildonion/katyusha | 3 | 1| 
