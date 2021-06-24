@@ -53,7 +53,7 @@
 | 20210623T10:36:17Z | CVE-2021-22911 | Pre-Auth Blind NoSQL Injection leading to Remote Code Execution in Rocket Chat 3.12.1 | https://github.com/CsEnox/CVE-2021-22911 | A improper input sanitization vulnerability exists in Rocket.Chat server 3.11, 3.12 & 3.13 that could lead to unauthenticated NoSQL injection, resulting potentially in RCE.| 
 | 20210622T15:50:09Z | 未知编号 | Null | https://github.com/KZMachine/CVERT_2021 | 未查询到CVE信息| 
 | 20210622T05:54:34Z | CVE-2021-22214 | Gitlab CI Lint API未授权 SSRF漏洞 (CVE-2021-22214) | https://github.com/r0ckysec/CVE-2021-22214 | When requests to the internal network for webhooks are enabled, a server-side request forgery vulnerability in GitLab CE/EE affecting all versions starting from 10.5 was possible to exploit for an unauthenticated attacker even on a GitLab instance where registration is limited| 
-| 20210621T16:52:08Z | CVE-2021-3560 | Null | https://github.com/secnigma/CVE-2021-3560-Polkit-Privilege-Esclation | | 
+| 20210621T16:52:08Z | CVE-2021-3560 | Null | https://github.com/secnigma/CVE-2021-3560-Polkit-Privilege-Esclation | 未查询到CVE信息| 
 | 20210621T12:12:36Z | CVE-2020-8300 | Detect Citrix ADC SAML action or SAML iDP Profile config vulnerable to CVE-2020-8300 using Citrix ADC NITRO API | https://github.com/stuartcarroll/CitrixADC-CVE-2020-8300 | Citrix ADC and Citrix/NetScaler Gateway before 13.0-82.41, 12.1-62.23, 11.1-65.20 and Citrix ADC 12.1-FIPS before 12.1-55.238 suffer from improper access control allowing SAML authentication hijack through a phishing attack to steal a valid user session. Note that Citrix ADC or Citrix Gateway must be configured as a SAML SP or a SAML IdP for this to be possible.| 
 | 20210621T07:59:00Z | CVE-2020- | RCE in EXIF metadata removal from images research | https://github.com/awasthi7/CVE-2020-Exif-RCE | 未查询到CVE信息| 
 
@@ -148,6 +148,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210624T00:49:06Z | Null | https://github.com/mochdhera03/fuzzy-octo-funicular | 0 | 0| 
+| 20210624T00:47:43Z | Fahp, Ahp, GRA (Grey relational analysis), Fuzzy VIKOR Moodle integrated | https://github.com/Okeanos38/moodle_fuzzylogic_integrated | 0 | 0| 
 | 20210624T00:15:51Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4517 | 441| 
 | 20210623T23:58:49Z | Null | https://github.com/J-Rowan-Code/Fuzzy-logic---Pendulum-Problem | 0 | 0| 
 | 20210623T23:49:59Z | Null | https://github.com/GuilhermeBuenoMartins/sistemas-de-inferencia-fuzzy | 0 | 2| 
@@ -156,8 +158,6 @@
 | 20210623T23:05:47Z | Recipe book that produces recipes based on user input of given ingredients. | https://github.com/DominicYoung1/fuzzy-octo-garbanzo | 0 | 0| 
 | 20210623T22:47:08Z | Null | https://github.com/danilomachadopires/FuzzyASOC | 0 | 0| 
 | 20210623T22:38:11Z | Null | https://github.com/masmangan/fuzzy-enigma | 0 | 0| 
-| 20210623T22:29:54Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2346 | 130| 
-| 20210623T22:28:29Z | These tests of libdwarf/dwarfdump include old object files, new ones, and many fuzzed object files. These are the definitive tests that things work.. Most people have no reason to run these tests. | https://github.com/davea42/libdwarf-regressiontests | 0 | 0| 
 
 
 
