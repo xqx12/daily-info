@@ -55,7 +55,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210623T23:59:51Z | HatSploit native powerful payload generation and shellcode injection tool that provides support for common platforms and architectures. | https://github.com/EntySec/HatVenom | 27 | 9| 
 | 20210623T23:49:03Z | RomBuster is a router exploitation tool that allows to disclosure network router admin password. | https://github.com/EntySec/RomBuster | 17 | 2| 
 | 20210623T23:42:06Z | Modular C2 framework aiming to ease post exploitation for red teamers.  | https://github.com/CMatri/MeetC2 | 1 | 0| 
 | 20210623T23:36:53Z | Null | https://github.com/TheMasterGeese/UnsustainableExploitation | 0 | 0| 
@@ -65,6 +64,7 @@
 | 20210623T21:57:30Z | Base for a Roblox exploit, written in C++20. | https://github.com/Upbolt/Roblox-Exploit-Base | 0 | 0| 
 | 20210623T21:50:00Z | These Python Project have the objective to calculate the Historical Volatility on an asset based on the theory of %Exploiting Earnings Volatilty% - Brian Johnson pg.17 - pg.19 | https://github.com/guiregueira/Historical-Volatility-Calculator | 0 | 0| 
 | 20210623T21:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9589 | 1567| 
+| 20210623T21:09:20Z | Null | https://github.com/HarrysExploit/Harrys-exploit-api | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -85,8 +85,12 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210623T23:19:25Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 421 | 63| 
+| 20210623T19:03:32Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2362 | 348| 
+| 20210623T18:22:25Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 14 | 3| 
+| 20210623T16:53:48Z | This demo will show how Symbolic Execution solve the problem. | https://github.com/JeffShao96/Symbolic-NS3 | 0 | 2| 
+| 20210623T16:41:20Z | Binsec/Rel is an extension of Binsec that implements relational symbolic execution for constant-time verification and secret-erasure at binary-level. | https://github.com/binsec/Rel | 24 | 1| 
 | 20210623T11:36:13Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 305 | 21| 
-| 20210623T09:28:38Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2361 | 348| 
 | 20210623T09:23:38Z | This is the repository for Symbolic Execution engine for StateFlow (SESf) models | https://github.com/predragf/sesf | 0 | 0| 
 | 20210623T08:49:58Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1718 | 495| 
 | 20210623T06:49:46Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1825 | 381| 
