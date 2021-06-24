@@ -51,10 +51,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210624T12:07:07Z | Les bases de l%Internet des Objets,  La structuration compacte des données, Le transport de la donnée,  Les informations sémantiques,  Vers une exploitation de la données, précautions et outils,  | https://github.com/lindangulopez/l-internet-des-objets | 0 | 0| 
 | 20210624T12:03:00Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 25 | 12| 
 | 20210624T12:02:02Z | Null | https://github.com/ChipsBoy/Recent-Roblox-Lua-Exploit-Scripts-Early.Mid2020 | 0 | 0| 
 | 20210624T11:41:58Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 63 | 22| 
-| 20210624T11:32:01Z | Les bases de l%Internet des Objets,  La structuration compacte des données, Le transport de la donnée,  Les informations sémantiques,  Vers une exploitation de la données, précautions et outils,  | https://github.com/lindangulopez/l-internet-des-objets | 0 | 0| 
 | 20210624T11:22:51Z | OpenEMR <= 5.0.1 - (Authenticated) Remote Code Execution | https://github.com/noraj/OpenEMR-RCE | 6 | 0| 
 | 20210624T11:19:57Z | Experiment to try to generate large prime numbers, and build intentionally weak RSA keys that can be exploited | https://github.com/greg-porterfield/primes_and_keys | 0 | 0| 
 | 20210624T10:53:46Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
@@ -66,7 +66,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210624T12:00:31Z | A module for building botnet or back door with Python and Telegram control panel | https://github.com/onionj/pybotnet | 1 | 0| 
+| 20210624T12:08:22Z | A module for building botnet or back door with Python and Telegram control panel | https://github.com/onionj/pybotnet | 1 | 0| 
 | 20210624T11:09:59Z | sexq | https://github.com/VenuzWeeb/LeuxBackdoor9 | 4 | 1| 
 | 20210624T10:43:18Z | 🤖An Evil and Smart Bot for Enslaving Windows. | https://github.com/wildonion/katyusha | 3 | 1| 
 | 20210624T07:45:47Z | Simple backdoor using lib python%s socket and subprocess for Windows | https://github.com/NoNameoN-A/Backdoor-Client-Server-Socket-Python | 3 | 1| 
