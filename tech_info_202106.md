@@ -104,30 +104,30 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210624T12:00:31Z | A module for building botnet or back door with Python and Telegram control panel | https://github.com/onionj/pybotnet | 1 | 0| 
+| 20210624T11:09:59Z | sexq | https://github.com/VenuzWeeb/LeuxBackdoor9 | 4 | 1| 
+| 20210624T10:43:18Z | 🤖An Evil and Smart Bot for Enslaving Windows. | https://github.com/wildonion/katyusha | 3 | 1| 
+| 20210624T07:45:47Z | Simple backdoor using lib python%s socket and subprocess for Windows | https://github.com/NoNameoN-A/Backdoor-Client-Server-Socket-Python | 3 | 1| 
 | 20210623T22:07:16Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1167 | 556| 
 | 20210623T20:31:29Z | backdoored v1.8.2 leak + src | https://github.com/ezLeaks/backdoored | 2 | 1| 
 | 20210623T18:41:59Z | A token logger for discord + steals Brave/Chrome passwords and usernames | https://github.com/CUPZYY/Backdoor-Machine | 20 | 5| 
 | 20210623T16:07:09Z | Herramienta de ingeniería social (Creador de puerta trasera con Reverse Shell para Windows/Android) con Ngrok. | https://github.com/m4lal0/backdoorPhish | 0 | 0| 
-| 20210623T12:22:23Z | sexq | https://github.com/VenuzWeeb/LeuxBackdoor9 | 3 | 1| 
-| 20210623T12:09:20Z | A module for building botnet or back door with Python and Telegram control panel | https://github.com/onionj/pybotnet | 1 | 0| 
 | 20210623T10:37:24Z | Create a backdoor to a WordPress website. | https://github.com/majidamiri70/backdoor_for_wp | 0 | 0| 
 | 20210623T09:28:16Z | Null | https://github.com/haytechwithbio/haygens-backdoor-malware-project | 0 | 0| 
-| 20210623T08:36:16Z | Python AV Evasion Tools | https://github.com/G1ft3dC0d3/MsfMania | 183 | 38| 
-| 20210623T05:12:15Z | LeuxBackdoor 0.9 totalmente clean y deobf, si tienes dudas mandame un md a Foregon#6969 | https://github.com/SuperA1908v2/LeuxBackdoor-0.9-UwU | 2 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210624T11:39:50Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2364 | 348| 
+| 20210624T11:03:24Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1827 | 381| 
 | 20210624T01:25:19Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 14 | 3| 
 | 20210623T23:19:25Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 421 | 63| 
-| 20210623T19:03:32Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2362 | 348| 
 | 20210623T16:53:48Z | This demo will show how Symbolic Execution solve the problem. | https://github.com/JeffShao96/Symbolic-NS3 | 0 | 2| 
 | 20210623T16:41:20Z | Binsec/Rel is an extension of Binsec that implements relational symbolic execution for constant-time verification and secret-erasure at binary-level. | https://github.com/binsec/Rel | 24 | 1| 
 | 20210623T11:36:13Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 305 | 21| 
 | 20210623T09:23:38Z | This is the repository for Symbolic Execution engine for StateFlow (SESf) models | https://github.com/predragf/sesf | 0 | 0| 
 | 20210623T08:49:58Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1718 | 495| 
-| 20210623T06:49:46Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1825 | 381| 
 | 20210622T17:49:42Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 143 | 33| 
 
 
