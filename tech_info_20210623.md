@@ -111,9 +111,9 @@
 | 20210623T23:05:47Z | Recipe book that produces recipes based on user input of given ingredients. | https://github.com/DominicYoung1/fuzzy-octo-garbanzo | 0 | 0| 
 | 20210623T22:47:08Z | Null | https://github.com/danilomachadopires/FuzzyASOC | 0 | 0| 
 | 20210623T22:38:11Z | Null | https://github.com/masmangan/fuzzy-enigma | 0 | 0| 
-| 20210623T22:29:54Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2346 | 130| 
 | 20210623T22:28:29Z | These tests of libdwarf/dwarfdump include old object files, new ones, and many fuzzed object files. These are the definitive tests that things work.. Most people have no reason to run these tests. | https://github.com/davea42/libdwarf-regressiontests | 0 | 0| 
 | 20210623T22:09:13Z | A Docker image for radamsa, a general purpose fuzzer | https://github.com/sjinks/docker-scratch-radamsa | 0 | 0| 
+| 20210623T22:01:19Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 
 
 
