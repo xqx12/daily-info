@@ -51,16 +51,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210624T01:49:13Z | Basic Exploit Essentials is a multi-script, consisting of many great features! | https://github.com/Nextrixcs/Basic-Exploit-Essentials | 0 | 0| 
-| 20210624T01:17:56Z | Exploiting Fast LCF and BERT for Aspect-based Sentiment Analysis Research | https://github.com/yangheng95/PyABSA | 109 | 19| 
-| 20210624T01:16:00Z | Exploitation of Stack-based BufferOverflow vulnerability within C code compiled into an x64 Linux ELF binary. | https://github.com/MagicNT/Stack-BufferOverflow-0 | 0 | 0| 
-| 20210624T01:12:06Z | Modular C2 framework aiming to ease post exploitation for red teamers.  | https://github.com/CMatri/MeetC2 | 1 | 0| 
-| 20210624T01:03:11Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 25 | 12| 
-| 20210624T00:51:40Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 17 | 11| 
-| 20210624T00:32:20Z | Roblox exploit DLL base using the LBI execution method | https://github.com/deaddlocust/LBI-Base | 6 | 1| 
-| 20210624T00:32:12Z | This is an open-source software for exploiting specifically Roblox games. This is designed for people who are looking for exploit softwares designed for MacOS. | https://github.com/bluehydrarblx-dev/rTyphoeusSploit | 0 | 0| 
-| 20210624T00:13:24Z | Vulnerabilities, exploits, and PoCs | https://github.com/Accenture/AARO-Bugs | 22 | 10| 
-| 20210624T00:01:35Z | HatSploit native powerful payload generation and shellcode injection tool that provides support for common platforms and architectures. | https://github.com/EntySec/HatVenom | 27 | 9| 
+| 20210624T12:03:00Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 25 | 12| 
+| 20210624T12:02:02Z | Null | https://github.com/ChipsBoy/Recent-Roblox-Lua-Exploit-Scripts-Early.Mid2020 | 0 | 0| 
+| 20210624T11:41:58Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 63 | 22| 
+| 20210624T11:32:01Z | Les bases de l%Internet des Objets,  La structuration compacte des données, Le transport de la donnée,  Les informations sémantiques,  Vers une exploitation de la données, précautions et outils,  | https://github.com/lindangulopez/l-internet-des-objets | 0 | 0| 
+| 20210624T11:22:51Z | OpenEMR <= 5.0.1 - (Authenticated) Remote Code Execution | https://github.com/noraj/OpenEMR-RCE | 6 | 0| 
+| 20210624T11:19:57Z | Experiment to try to generate large prime numbers, and build intentionally weak RSA keys that can be exploited | https://github.com/greg-porterfield/primes_and_keys | 0 | 0| 
+| 20210624T10:53:46Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
+| 20210624T10:51:04Z | Exploiting open data to assess accessibility of transportation in Paris region | https://github.com/SofianeKal/Accessibility-IDF | 1 | 0| 
+| 20210624T10:39:24Z | 한국형 Cyber Attack Matrix 및 BAS(Breach And attack Simulation) 솔루션 개발 | https://github.com/4RG0S/2021-KUCIS-Post-Exploit-Team | 0 | 0| 
+| 20210624T10:29:13Z | Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, polkit, docker socket :arrow_up: :skull_and_crossbones: | https://github.com/liamg/traitor | 3293 | 179| 
 
 
 # backdoor on Github 推荐
