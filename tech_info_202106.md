@@ -48,7 +48,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210623T21:34:48Z | CVE-2020-25627 | Stored XSS via moodlenetprofile parameter in user profile | https://github.com/HoangKien1020/CVE-2020-25627 | The moodlenetprofile user profile field required extra sanitizing to prevent a stored XSS risk. This affects versions 3.9 to 3.9.1. Fixed in 3.9.2.| 
 | 20210623T18:13:54Z | CVE-2021-21315 | CVE 2021-21315 exploit | https://github.com/0UR4N05/CVE-2021-21315 | The System Information Library for Node.JS (npm package %systeminformation%) is an open source collection of functions to retrieve detailed hardware, system and OS information. In systeminformation before version 5.3.1 there is a command injection vulnerability. Problem was fixed in version 5.3.1. As a workaround instead of upgrading, be sure to check or sanitize service parameters that are passed to si.inetLatency(), si.inetChecksite(), si.services(), si.processLoad() ... do only allow strings, reject any arrays. String sanitation works as expected.| 
-| 20210623T15:33:53Z | CVE-2021-29337 | CVE-2021-29337 - Privilege Escalation in MODAPI.sys (MSI Dragon Center) | https://github.com/rjt-gupta/CVE-2021-29337 | MODAPI.sys in MSI Dragon Center 2.0.104.0 allows low-privileged users to access kernel memory and potentially escalate privileges via a crafted IOCTL 0x9c406104 call. This IOCTL provides the MmMapIoSpace feature for mapping physical memory.| 
+| 20210623T15:33:53Z | CVE-2021-29337 | CVE-2021-29337 - Privilege Escalation in MODAPI.sys (MSI Dragon Center) | https://github.com/rjt-gupta/CVE-2021-29337 | | 
 | 20210623T11:07:35Z | CVE-2021-3560 | a reliable C based exploit for CVE-2021-3560. | https://github.com/hakivvi/CVE-2021-3560 | 未查询到CVE信息| 
 | 20210623T10:36:17Z | CVE-2021-22911 | Pre-Auth Blind NoSQL Injection leading to Remote Code Execution in Rocket Chat 3.12.1 | https://github.com/CsEnox/CVE-2021-22911 | A improper input sanitization vulnerability exists in Rocket.Chat server 3.11, 3.12 & 3.13 that could lead to unauthenticated NoSQL injection, resulting potentially in RCE.| 
 | 20210622T15:50:09Z | 未知编号 | Null | https://github.com/KZMachine/CVERT_2021 | 未查询到CVE信息| 
@@ -119,7 +119,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210624T01:08:55Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 14 | 3| 
+| 20210624T01:20:47Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 14 | 3| 
 | 20210623T23:19:25Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 421 | 63| 
 | 20210623T19:03:32Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2362 | 348| 
 | 20210623T16:53:48Z | This demo will show how Symbolic Execution solve the problem. | https://github.com/JeffShao96/Symbolic-NS3 | 0 | 2| 
@@ -148,12 +148,12 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210624T01:21:36Z | Fahp, Ahp, GRA (Grey relational analysis), Fuzzy VIKOR Moodle integrated | https://github.com/Okeanos38/moodle_fuzzylogic_integrated | 0 | 0| 
 | 20210624T01:14:46Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210624T01:14:21Z | Null | https://github.com/GuilhermeBuenoMartins/sistemas-de-inferencia-fuzzy | 0 | 2| 
 | 20210624T01:07:07Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2347 | 130| 
 | 20210624T00:56:50Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 288 | 39| 
 | 20210624T00:49:06Z | Null | https://github.com/mochdhera03/fuzzy-octo-funicular | 0 | 0| 
-| 20210624T00:47:43Z | Fahp, Ahp, GRA (Grey relational analysis), Fuzzy VIKOR Moodle integrated | https://github.com/Okeanos38/moodle_fuzzylogic_integrated | 0 | 0| 
 | 20210624T00:15:51Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4517 | 441| 
 | 20210623T23:58:49Z | Null | https://github.com/J-Rowan-Code/Fuzzy-logic---Pendulum-Problem | 0 | 0| 
 | 20210623T23:19:49Z | Sometimes we want to fuzz a set of sub-domain URLs with a common wordlist. Fuzzing them one by one is a tedious task, not to mention the false positives we obtain in those results. To solve this problem I created Lazy FuzzZ. It fuzzes all those urls, removes all false positives and sends only legitimate results to burpsuite. | https://github.com/th3hack3rwiz/Lazy-FuzzZ | 45 | 6| 
