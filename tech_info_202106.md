@@ -49,10 +49,10 @@
 | 20210624T12:32:29Z | CVE-2021-21315 | CVE 2021-21315 exploit | https://github.com/0UR4N05/CVE-2021-21315 | The System Information Library for Node.JS (npm package %systeminformation%) is an open source collection of functions to retrieve detailed hardware, system and OS information. In systeminformation before version 5.3.1 there is a command injection vulnerability. Problem was fixed in version 5.3.1. As a workaround instead of upgrading, be sure to check or sanitize service parameters that are passed to si.inetLatency(), si.inetChecksite(), si.services(), si.processLoad() ... do only allow strings, reject any arrays. String sanitation works as expected.| 
 | 20210624T08:29:21Z | CVE-2021-3560 | a reliable C based exploit for CVE-2021-3560. | https://github.com/hakivvi/CVE-2021-3560 | 未查询到CVE信息| 
 | 20210624T07:20:08Z | CVE-2021-22214 | Gitlab CI Lint API未授权 SSRF漏洞 (CVE-2021-22214) | https://github.com/r0ckysec/CVE-2021-22214 | When requests to the internal network for webhooks are enabled, a server-side request forgery vulnerability in GitLab CE/EE affecting all versions starting from 10.5 was possible to exploit for an unauthenticated attacker even on a GitLab instance where registration is limited| 
-| 20210624T06:37:45Z | CVE-2021-29337 | CVE-2021-29337 - Privilege Escalation in MODAPI.sys (MSI Dragon Center) | https://github.com/rjt-gupta/CVE-2021-29337 | | 
+| 20210624T06:37:45Z | CVE-2021-29337 | CVE-2021-29337 - Privilege Escalation in MODAPI.sys (MSI Dragon Center) | https://github.com/rjt-gupta/CVE-2021-29337 | MODAPI.sys in MSI Dragon Center 2.0.104.0 allows low-privileged users to access kernel memory and potentially escalate privileges via a crafted IOCTL 0x9c406104 call. This IOCTL provides the MmMapIoSpace feature for mapping physical memory.| 
 | 20210623T21:34:48Z | CVE-2020-25627 | Stored XSS via moodlenetprofile parameter in user profile | https://github.com/HoangKien1020/CVE-2020-25627 | The moodlenetprofile user profile field required extra sanitizing to prevent a stored XSS risk. This affects versions 3.9 to 3.9.1. Fixed in 3.9.2.| 
 | 20210623T10:36:17Z | CVE-2021-22911 | Pre-Auth Blind NoSQL Injection leading to Remote Code Execution in Rocket Chat 3.12.1 | https://github.com/CsEnox/CVE-2021-22911 | A improper input sanitization vulnerability exists in Rocket.Chat server 3.11, 3.12 & 3.13 that could lead to unauthenticated NoSQL injection, resulting potentially in RCE.| 
-| 20210622T15:50:09Z | 未知编号 | Null | https://github.com/KZMachine/CVERT_2021 | | 
+| 20210622T15:50:09Z | 未知编号 | Null | https://github.com/KZMachine/CVERT_2021 | 未查询到CVE信息| 
 | 20210621T16:52:08Z | CVE-2021-3560 | Null | https://github.com/secnigma/CVE-2021-3560-Polkit-Privilege-Esclation | 未查询到CVE信息| 
 | 20210621T12:12:36Z | CVE-2020-8300 | Detect Citrix ADC SAML action or SAML iDP Profile config vulnerable to CVE-2020-8300 using Citrix ADC NITRO API | https://github.com/stuartcarroll/CitrixADC-CVE-2020-8300 | Citrix ADC and Citrix/NetScaler Gateway before 13.0-82.41, 12.1-62.23, 11.1-65.20 and Citrix ADC 12.1-FIPS before 12.1-55.238 suffer from improper access control allowing SAML authentication hijack through a phishing attack to steal a valid user session. Note that Citrix ADC or Citrix Gateway must be configured as a SAML SP or a SAML IdP for this to be possible.| 
 | 20210621T07:59:00Z | CVE-2020- | RCE in EXIF metadata removal from images research | https://github.com/awasthi7/CVE-2020-Exif-RCE | 未查询到CVE信息| 
@@ -89,26 +89,26 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210624T12:48:45Z | Les bases de l%Internet des Objets,  La structuration compacte des données, Le transport de la donnée,  Les informations sémantiques,  Vers une exploitation de la données, précautions et outils,  | https://github.com/lindangulopez/l-internet-des-objets | 0 | 0| 
+| 20210624T12:48:12Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1167 | 556| 
 | 20210624T12:45:13Z | Agent-Based Modelling of labour exploitation in textile supply chains | https://github.com/kwabenantim/textile-labour | 0 | 0| 
 | 20210624T12:40:29Z | Null | https://github.com/DK9510/web-app-exploitation | 2 | 0| 
 | 20210624T12:35:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9594 | 1568| 
 | 20210624T12:18:20Z | CAUTION - Malicious files 💀 | https://github.com/Am0rphous/Malware | 18 | 7| 
-| 20210624T12:18:19Z | Les bases de l%Internet des Objets,  La structuration compacte des données, Le transport de la donnée,  Les informations sémantiques,  Vers une exploitation de la données, précautions et outils,  | https://github.com/lindangulopez/l-internet-des-objets | 0 | 0| 
 | 20210624T12:16:20Z | OpenEMR <= 5.0.1 - (Authenticated) Remote Code Execution | https://github.com/noraj/OpenEMR-RCE | 6 | 0| 
 | 20210624T12:11:26Z | exploit-exam | https://github.com/vapvin/exploit-exam | 0 | 0| 
 | 20210624T12:03:00Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 25 | 12| 
 | 20210624T12:02:02Z | Null | https://github.com/ChipsBoy/Recent-Roblox-Lua-Exploit-Scripts-Early.Mid2020 | 0 | 0| 
-| 20210624T11:41:58Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 63 | 22| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210624T12:49:01Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1167 | 556| 
 | 20210624T12:08:22Z | A module for building botnet or back door with Python and Telegram control panel | https://github.com/onionj/pybotnet | 1 | 0| 
 | 20210624T11:09:59Z | sexq | https://github.com/VenuzWeeb/LeuxBackdoor9 | 4 | 1| 
 | 20210624T10:43:18Z | 🤖An Evil and Smart Bot for Enslaving Windows. | https://github.com/wildonion/katyusha | 3 | 1| 
 | 20210624T07:45:47Z | Simple backdoor using lib python%s socket and subprocess for Windows | https://github.com/NoNameoN-A/Backdoor-Client-Server-Socket-Python | 3 | 1| 
-| 20210623T22:07:16Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1167 | 556| 
 | 20210623T20:31:29Z | backdoored v1.8.2 leak + src | https://github.com/ezLeaks/backdoored | 2 | 1| 
 | 20210623T18:41:59Z | A token logger for discord + steals Brave/Chrome passwords and usernames | https://github.com/CUPZYY/Backdoor-Machine | 20 | 5| 
 | 20210623T16:07:09Z | Herramienta de ingeniería social (Creador de puerta trasera con Reverse Shell para Windows/Android) con Ngrok. | https://github.com/m4lal0/backdoorPhish | 0 | 0| 
