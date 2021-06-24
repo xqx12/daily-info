@@ -89,6 +89,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210624T12:35:30Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 80 | 22| 
 | 20210624T12:26:23Z | The same name can be spelled out in a many ways (for example, Marc and Mark, or Elizabeth and Elisabeth). Sound can, therefore, be a better way to match names than spelling. In this project, you will use the Python package Fuzzy to find out the genders of authors that have appeared in the New York Times Best Seller list for Children%s Picture books.  First, using fuzzy (sound) name matching, you will search for author names in a dataset provided by the US Social Security Administration that contains names and genders of all individuals who have applied for Social Security Cards. Next, we%ll aggregate the author dataset by including gender. Finally, you will use the new dataset to plot the gender distribution of children%s picture books authors over time. | https://github.com/Alyal077/Gender-Prediction-from-names-using-Fuzzy-library | 1 | 1| 
 | 20210624T12:13:55Z | Null | https://github.com/MIXALER/fuzzing_tool | 0 | 0| 
 | 20210624T12:10:53Z | Fuzzy Extractors in Java | https://github.com/ThexXTURBOXx/FuzzyExtractors | 1 | 0| 
@@ -98,7 +99,6 @@
 | 20210624T11:31:15Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210624T11:21:09Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6410 | 1302| 
 | 20210624T11:09:30Z | The fuzzingbook VM | https://github.com/vrthra/VM.Fuzzingbook | 0 | 0| 
-| 20210624T11:02:32Z | golang 练手项目，对目标站点进行目录和文件爆破，利用相似性汉明距离清除误报页面。 | https://github.com/who0sy/WebsiteFuzz | 1 | 0| 
 
 
 
