@@ -51,6 +51,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210624T12:29:27Z | Agent-Based Modelling of labour exploitation in textile supply chains | https://github.com/kwabenantim/textile-labour | 0 | 0| 
 | 20210624T12:18:20Z | CAUTION - Malicious files 💀 | https://github.com/Am0rphous/Malware | 18 | 7| 
 | 20210624T12:18:19Z | Les bases de l%Internet des Objets,  La structuration compacte des données, Le transport de la donnée,  Les informations sémantiques,  Vers une exploitation de la données, précautions et outils,  | https://github.com/lindangulopez/l-internet-des-objets | 0 | 0| 
 | 20210624T12:16:20Z | OpenEMR <= 5.0.1 - (Authenticated) Remote Code Execution | https://github.com/noraj/OpenEMR-RCE | 6 | 0| 
@@ -60,7 +61,6 @@
 | 20210624T11:41:58Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 63 | 22| 
 | 20210624T11:19:57Z | Experiment to try to generate large prime numbers, and build intentionally weak RSA keys that can be exploited | https://github.com/greg-porterfield/primes_and_keys | 0 | 0| 
 | 20210624T10:53:46Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
-| 20210624T10:51:04Z | Exploiting open data to assess accessibility of transportation in Paris region | https://github.com/SofianeKal/Accessibility-IDF | 1 | 0| 
 
 
 # backdoor on Github 推荐
