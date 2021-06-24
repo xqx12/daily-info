@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210624T01:49:13Z | Basic Exploit Essentials is a multi-script, consisting of many great features! | https://github.com/Nextrixcs/Basic-Exploit-Essentials | 0 | 0| 
 | 20210624T01:17:56Z | Exploiting Fast LCF and BERT for Aspect-based Sentiment Analysis Research | https://github.com/yangheng95/PyABSA | 109 | 19| 
 | 20210624T01:16:00Z | Exploitation of Stack-based BufferOverflow vulnerability within C code compiled into an x64 Linux ELF binary. | https://github.com/MagicNT/Stack-BufferOverflow-0 | 0 | 0| 
 | 20210624T01:12:06Z | Modular C2 framework aiming to ease post exploitation for red teamers.  | https://github.com/CMatri/MeetC2 | 1 | 0| 
@@ -98,7 +99,6 @@
 | 20210624T00:32:12Z | This is an open-source software for exploiting specifically Roblox games. This is designed for people who are looking for exploit softwares designed for MacOS. | https://github.com/bluehydrarblx-dev/rTyphoeusSploit | 0 | 0| 
 | 20210624T00:13:24Z | Vulnerabilities, exploits, and PoCs | https://github.com/Accenture/AARO-Bugs | 22 | 10| 
 | 20210624T00:01:35Z | HatSploit native powerful payload generation and shellcode injection tool that provides support for common platforms and architectures. | https://github.com/EntySec/HatVenom | 27 | 9| 
-| 20210623T23:49:03Z | RomBuster is a router exploitation tool that allows to disclosure network router admin password. | https://github.com/EntySec/RomBuster | 17 | 2| 
 
 
 # backdoor on Github 推荐
