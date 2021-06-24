@@ -90,8 +90,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210624T12:57:41Z | Null | https://github.com/qualitaven/rapid-fuzz | 0 | 0| 
 | 20210624T12:51:25Z | Null | https://github.com/KamilPekal317/Fuzzy-logic-regulator | 0 | 0| 
-| 20210624T12:51:04Z | Null | https://github.com/qualitaven/rapid-fuzz | 0 | 0| 
 | 20210624T12:35:30Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 80 | 22| 
 | 20210624T12:26:23Z | The same name can be spelled out in a many ways (for example, Marc and Mark, or Elizabeth and Elisabeth). Sound can, therefore, be a better way to match names than spelling. In this project, you will use the Python package Fuzzy to find out the genders of authors that have appeared in the New York Times Best Seller list for Children%s Picture books.  First, using fuzzy (sound) name matching, you will search for author names in a dataset provided by the US Social Security Administration that contains names and genders of all individuals who have applied for Social Security Cards. Next, we%ll aggregate the author dataset by including gender. Finally, you will use the new dataset to plot the gender distribution of children%s picture books authors over time. | https://github.com/Alyal077/Gender-Prediction-from-names-using-Fuzzy-library | 1 | 1| 
 | 20210624T12:13:55Z | Null | https://github.com/MIXALER/fuzzing_tool | 0 | 0| 
