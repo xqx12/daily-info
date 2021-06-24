@@ -59,12 +59,12 @@
 | 20210623T23:42:06Z | Modular C2 framework aiming to ease post exploitation for red teamers.  | https://github.com/CMatri/MeetC2 | 1 | 0| 
 | 20210623T23:36:53Z | Null | https://github.com/TheMasterGeese/UnsustainableExploitation | 0 | 0| 
 | 20210623T23:34:55Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 63 | 22| 
-| 20210623T23:02:52Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 25 | 12| 
 | 20210623T22:07:16Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1167 | 556| 
 | 20210623T21:57:30Z | Base for a Roblox exploit, written in C++20. | https://github.com/Upbolt/Roblox-Exploit-Base | 0 | 0| 
 | 20210623T21:50:00Z | These Python Project have the objective to calculate the Historical Volatility on an asset based on the theory of %Exploiting Earnings Volatilty% - Brian Johnson pg.17 - pg.19 | https://github.com/guiregueira/Historical-Volatility-Calculator | 0 | 0| 
 | 20210623T21:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9589 | 1567| 
 | 20210623T21:09:20Z | Null | https://github.com/HarrysExploit/Harrys-exploit-api | 0 | 0| 
+| 20210623T21:05:28Z | script to interact with Ethereum, and use it to exploit the service via command injection | https://github.com/lnwza777/Chainsaw- | 0 | 0| 
 
 
 # backdoor on Github 推荐
