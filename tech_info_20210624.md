@@ -52,10 +52,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210624T12:54:18Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 63 | 22| 
+| 20210624T12:53:56Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1167 | 556| 
 | 20210624T12:53:52Z | Les bases de l%Internet des Objets,  La structuration compacte des données, Le transport de la donnée,  Les informations sémantiques,  Vers une exploitation de la données, précautions et outils,  | https://github.com/lindangulopez/l-internet-des-objets | 0 | 0| 
-| 20210624T12:53:44Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 63 | 22| 
 | 20210624T12:53:27Z | CamRaptor is a tool that exploits several vulnerabilities in popular DVR cameras to obtain network camera credentials. | https://github.com/EntySec/CamRaptor | 5 | 0| 
-| 20210624T12:52:18Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1167 | 556| 
 | 20210624T12:51:40Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 17 | 11| 
 | 20210624T12:50:02Z | The Eclipse Foundation has been a partner in many publicly funded research projects since 2013. We help organizations to successfully create, publish, and sustain an open source software platform, making the results of the research projects available for commercial or public exploitation. | https://github.com/EclipseFdn/eclipse.org-research | 0 | 12| 
 | 20210624T12:45:13Z | Agent-Based Modelling of labour exploitation in textile supply chains | https://github.com/kwabenantim/textile-labour | 0 | 0| 
