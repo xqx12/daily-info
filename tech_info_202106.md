@@ -89,16 +89,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210624T12:51:47Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 63 | 22| 
+| 20210624T12:51:40Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 17 | 11| 
+| 20210624T12:50:02Z | The Eclipse Foundation has been a partner in many publicly funded research projects since 2013. We help organizations to successfully create, publish, and sustain an open source software platform, making the results of the research projects available for commercial or public exploitation. | https://github.com/EclipseFdn/eclipse.org-research | 0 | 12| 
+| 20210624T12:49:01Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1167 | 556| 
 | 20210624T12:48:45Z | Les bases de l%Internet des Objets,  La structuration compacte des données, Le transport de la donnée,  Les informations sémantiques,  Vers une exploitation de la données, précautions et outils,  | https://github.com/lindangulopez/l-internet-des-objets | 0 | 0| 
-| 20210624T12:48:12Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1167 | 556| 
 | 20210624T12:45:13Z | Agent-Based Modelling of labour exploitation in textile supply chains | https://github.com/kwabenantim/textile-labour | 0 | 0| 
 | 20210624T12:40:29Z | Null | https://github.com/DK9510/web-app-exploitation | 2 | 0| 
 | 20210624T12:35:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9594 | 1568| 
 | 20210624T12:18:20Z | CAUTION - Malicious files 💀 | https://github.com/Am0rphous/Malware | 18 | 7| 
 | 20210624T12:16:20Z | OpenEMR <= 5.0.1 - (Authenticated) Remote Code Execution | https://github.com/noraj/OpenEMR-RCE | 6 | 0| 
-| 20210624T12:11:26Z | exploit-exam | https://github.com/vapvin/exploit-exam | 0 | 0| 
-| 20210624T12:03:00Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 25 | 12| 
-| 20210624T12:02:02Z | Null | https://github.com/ChipsBoy/Recent-Roblox-Lua-Exploit-Scripts-Early.Mid2020 | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -148,6 +148,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210624T12:51:25Z | Null | https://github.com/KamilPekal317/Fuzzy-logic-regulator | 0 | 0| 
+| 20210624T12:51:04Z | Null | https://github.com/qualitaven/rapid-fuzz | 0 | 0| 
 | 20210624T12:35:30Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 80 | 22| 
 | 20210624T12:26:23Z | The same name can be spelled out in a many ways (for example, Marc and Mark, or Elizabeth and Elisabeth). Sound can, therefore, be a better way to match names than spelling. In this project, you will use the Python package Fuzzy to find out the genders of authors that have appeared in the New York Times Best Seller list for Children%s Picture books.  First, using fuzzy (sound) name matching, you will search for author names in a dataset provided by the US Social Security Administration that contains names and genders of all individuals who have applied for Social Security Cards. Next, we%ll aggregate the author dataset by including gender. Finally, you will use the new dataset to plot the gender distribution of children%s picture books authors over time. | https://github.com/Alyal077/Gender-Prediction-from-names-using-Fuzzy-library | 1 | 1| 
 | 20210624T12:13:55Z | Null | https://github.com/MIXALER/fuzzing_tool | 0 | 0| 
@@ -156,8 +158,6 @@
 | 20210624T11:54:07Z | Null | https://github.com/GuilhermeBuenoMartins/sistemas-de-inferencia-fuzzy | 0 | 2| 
 | 20210624T11:48:11Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1236 | 220| 
 | 20210624T11:31:15Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210624T11:21:09Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6410 | 1302| 
-| 20210624T11:09:30Z | The fuzzingbook VM | https://github.com/vrthra/VM.Fuzzingbook | 0 | 0| 
 
 
 
