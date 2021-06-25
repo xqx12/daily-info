@@ -35,10 +35,10 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210625T11:22:13Z | CVE-2021-32537 | PoC for CVE-2021-32537: an out-of-bounds memory access that leads to pool corruption in the Windows kernel. | https://github.com/0vercl0k/CVE-2021-32537 | 未查询到CVE信息| 
-| 20210625T10:42:06Z | CVE-2020-3580 | Null | https://github.com/Hudi233/CVE-2020-3580 | Multiple vulnerabilities in the web services interface of Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software could allow an unauthenticated, remote attacker to conduct cross-site scripting (XSS) attacks against a user of the web services interface of an affected device. The vulnerabilities are due to insufficient validation of user-supplied input by the web services interface of an affected device. An attacker could exploit these vulnerabilities by persuading a user of the interface to click a crafted link. A successful exploit could allow the attacker to execute arbitrary script code in the context of the interface or allow the attacker to access sensitive, browser-based information. Note: These vulnerabilities affect only specific AnyConnect and WebVPN configurations. For more information, see the Vulnerable Products section.| 
+| 20210625T10:42:06Z | CVE-2020-3580 | Null | https://github.com/Hudi233/CVE-2020-3580 | | 
 | 20210625T08:59:55Z | CVE-2021-35448 | Remote Mouse GUI 3.008 - Local Privilege Escalation | https://github.com/deathflash1411/CVE-2021-35448 | Emote Interactive Remote Mouse 3.008 on Windows allows attackers to execute arbitrary programs as Administrator by using the Image Transfer Folder feature to navigate to cmd.exe. It binds to local ports to listen for incoming connections.| 
-| 20210625T06:11:02Z | CVE-2021-3156 | Null | https://github.com/donghyunlee00/CVE-2021-3156 | | 
-| 20210625T06:09:17Z | CVE-2020-0041 | My implementation of CVE-2020-0041 | https://github.com/Byte-Master-101/CVE-2020-0041 | | 
+| 20210625T06:11:02Z | CVE-2021-3156 | Null | https://github.com/donghyunlee00/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210625T06:09:17Z | CVE-2020-0041 | My implementation of CVE-2020-0041 | https://github.com/Byte-Master-101/CVE-2020-0041 | In binder_transaction of binder.c, there is a possible out of bounds write due to an incorrect bounds check. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-145988638References: Upstream kernel| 
 | 20210625T05:38:20Z | CVE-2021-35475 | Writeup for CVE-2021-35475; Stored Cross-Site Scripting(XSS) on SAS® Environment Manager 2.5 | https://github.com/saitamang/CVE-2021-35475 | SAS Environment Manager 2.5 allows XSS through the Name field when creating/editing a server. The XSS will prompt when editing the Configuration Properties.| 
 
 
@@ -56,6 +56,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210625T12:35:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9596 | 1569| 
 | 20210625T12:29:45Z | Null | https://github.com/Hacker-Data/Exploit-Word-Private-BypassAV | 1 | 0| 
 | 20210625T12:27:10Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 64 | 22| 
 | 20210625T12:17:11Z | Null | https://github.com/z3dc0ps/windows-exploitation-more | 0 | 0| 
@@ -65,7 +66,6 @@
 | 20210625T11:35:54Z | Null | https://github.com/SandboxEscaper/New_0day_exploit | 1 | 1| 
 | 20210625T11:18:19Z | KDMapper is a simple tool that exploits iqvw64e.sys Intel driver to manually map non-signed drivers in memory | https://github.com/TheCruZ/kdmapper | 294 | 113| 
 | 20210625T10:43:46Z | PwnWiki 数据库搜索命令行工具；该工具有点像 searchsploit 命令，只是搜索的不是 Exploit Database 而是 PwnWiki 条目 | https://github.com/k4yt3x/pwsearch | 0 | 0| 
-| 20210625T10:40:53Z | A roblox server sided anti exploit capable of handling common exploits smoothly. Performance friendly, and reserves resources. The point of this anti exploit is to stop common exploits reliably with minimum performance impact, and rarely cause any false positive related problems. | https://github.com/SilentsReplacement/BoboFighter | 5 | 2| 
 
 
 # backdoor on Github 推荐
