@@ -89,8 +89,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210625T12:17:11Z | Null | https://github.com/z3dc0ps/windows-exploitation-more | 0 | 0| 
+| 20210625T12:16:31Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 64 | 22| 
 | 20210625T12:02:57Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 25 | 12| 
-| 20210625T12:01:03Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 64 | 22| 
 | 20210625T11:52:55Z | Null | https://github.com/TheCrazzXz/Exploits-Lab | 0 | 0| 
 | 20210625T11:40:15Z | Snapd binary file install permition exploit. | https://github.com/Seven-7Up/snapd-sudoExploit | 0 | 0| 
 | 20210625T11:35:54Z | Null | https://github.com/SandboxEscaper/New_0day_exploit | 1 | 1| 
@@ -98,7 +99,6 @@
 | 20210625T10:43:46Z | PwnWiki 数据库搜索命令行工具；该工具有点像 searchsploit 命令，只是搜索的不是 Exploit Database 而是 PwnWiki 条目 | https://github.com/k4yt3x/pwsearch | 0 | 0| 
 | 20210625T10:40:53Z | A roblox server sided anti exploit capable of handling common exploits smoothly. Performance friendly, and reserves resources. The point of this anti exploit is to stop common exploits reliably with minimum performance impact, and rarely cause any false positive related problems. | https://github.com/SilentsReplacement/BoboFighter | 5 | 2| 
 | 20210625T10:35:25Z | PwnWiki 数据库搜索命令行工具；该工具有点像 searchsploit 命令，只是搜索的不是 Exploit Database 而是 PwnWiki 条目 | https://github.com/pwnwikiorg/pwsearch | 23 | 1| 
-| 20210625T10:16:09Z | Helper scripts to assist penetration testing and exploit development | https://github.com/greyshell/exploit_dev | 28 | 10| 
 
 
 # backdoor on Github 推荐
