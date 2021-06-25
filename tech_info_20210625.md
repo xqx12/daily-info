@@ -39,7 +39,7 @@
 | 20210625T08:59:55Z | CVE-2021-35448 | Remote Mouse GUI 3.008 - Local Privilege Escalation | https://github.com/deathflash1411/CVE-2021-35448 | Emote Interactive Remote Mouse 3.008 on Windows allows attackers to execute arbitrary programs as Administrator by using the Image Transfer Folder feature to navigate to cmd.exe. It binds to local ports to listen for incoming connections.| 
 | 20210625T06:11:02Z | CVE-2021-3156 | Null | https://github.com/donghyunlee00/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210625T06:09:17Z | CVE-2020-0041 | My implementation of CVE-2020-0041 | https://github.com/Byte-Master-101/CVE-2020-0041 | In binder_transaction of binder.c, there is a possible out of bounds write due to an incorrect bounds check. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-145988638References: Upstream kernel| 
-| 20210625T05:38:20Z | CVE-2021-35475 | Writeup for CVE-2021-35475; Stored Cross-Site Scripting(XSS) on SAS® Environment Manager 2.5 | https://github.com/saitamang/CVE-2021-35475 | SAS Environment Manager 2.5 allows XSS through the Name field when creating/editing a server. The XSS will prompt when editing the Configuration Properties.| 
+| 20210625T05:38:20Z | CVE-2021-35475 | Writeup for CVE-2021-35475; Stored Cross-Site Scripting(XSS) on SAS® Environment Manager 2.5 | https://github.com/saitamang/CVE-2021-35475 | | 
 
 
 # klee on Github 推荐
@@ -94,6 +94,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210625T12:23:46Z | VMI Kernel Fuzzer for Xen Project - VM forking, VMI & AFL integration demo | https://github.com/intel/kernel-fuzzer-for-xen-project | 325 | 47| 
+| 20210625T12:15:19Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 10 | 6| 
+| 20210625T12:05:37Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 465 | 41| 
 | 20210625T11:56:32Z | Json Fuzzer for Big Data Systems. An extension of BigFuzz, supporting Json typed data.  | https://github.com/LarsRhijns/Json-Fuzzer | 0 | 0| 
 | 20210625T11:50:33Z | DOM fuzzer | https://github.com/mevid93/domzzer | 0 | 0| 
 | 20210625T11:45:47Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 131 | 13| 
@@ -101,9 +104,6 @@
 | 20210625T11:17:11Z | Null | https://github.com/fuzzyextractor/fuzzyextractor-security | 0 | 0| 
 | 20210625T10:38:08Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210625T10:26:14Z | Fuzzy based segmentation of remotely sensed images using an Adaptive Neuro Fuzzy Inference System (ANFIS). | https://github.com/andmon97/FuzzyRemoteSensingSegmentation | 4 | 0| 
-| 20210625T10:14:05Z | go fuzzing examples | https://github.com/peter-f3/go-fuzz | 1 | 1| 
-| 20210625T10:12:36Z | Coursework and projects completed as part of Neural and Fuzzy Control Systems, 9th Semester, School of Electrical and Computer Engineering, NTUA. | https://github.com/YiorgosVasileiou/ECE_Fuzzy_Neural_Control | 0 | 0| 
-| 20210625T10:08:34Z | Null | https://github.com/nhsd-exeter/dos-service-fuzzy-search-api | 1 | 0| 
 
 
 
