@@ -6,6 +6,16 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210625 | iOS Malicious Bit Hunter - iOS App 恶意插件检测引擎 | http://github.com/alipay/ios-malicious-bithunter| 
+| 20210625 | Java 静态分析框架 Soot 使用教程 | https://github.com/noidsirius/SootTutorial| 
+| 20210625 | 今年 8 月份将要举办的 DEF CON 29 会议的大部分议题信息公开了，玄武实验室 3 个议题成功入选！ | https://defcon.org/html/defcon-29/dc-29-speakers.html| 
+| 20210625 | DELL 设备 BIOS 连接 DELL 服务器检查更新时存在中间人劫持漏洞，129 款 DELL 设备受影响 | https://therecord.media/129-dell-models-including-secured-core-pcs-vulnerable-to-new-firmware-flaws/| 
+| 20210625 | ClusterFuzz - Google 开源的可扩展 Fuzz 基础设施 | https://github.com/google/clusterfuzz| 
+| 20210625 | 渗透测试时可以利用 Desired State Configurations 实现任意命令执行与常驻 | https://www.netspi.com/blog/technical/cloud-penetration-testing/azure-persistence-with-desired-state-configurations/| 
+| 20210625 | Realtek RTKVHD64.sys 驱动越界访问漏洞分析（CVE-2021-32537） | https://github.com/0vercl0k/CVE-2021-32537| 
+| 20210625 | 索尼 PlayStation 架构分析 | https://www.copetti.org/writings/consoles/playstation/| 
+| 20210625 | Google 计划推动 OSV（开源漏洞数据库）采用统一规范的数据格式 | https://security.googleblog.com/2021/06/announcing-unified-vulnerability-schema.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+GoogleOnlineSecurityBlog+%28Google+Online+Security+Blog%29| 
+| 20210625 | Checkpoint 对协作办公领域 Atlassian 公司多个产品漏洞的分析 | https://sec.today/pulses/968c38e2-9b47-4435-9d1f-91fb7322190c/| 
 | 20210624 | Pass-the-Hash Is Dead: Long Live LocalAccountTokenFilterPolicy | https://www.harmj0y.net/blog/redteaming/pass-the-hash-is-dead-long-live-localaccounttokenfilterpolicy/| 
 | 20210624 | VMProtect 2 壳静态分析工具的构建 | https://back.engineering/21/06/2021/| 
 | 20210624 | 后渗透测试框架 Cobalt Strike 快速自动化部署的 Tips/Tricks | https://blog.cobaltstrike.com/2021/06/23/manage-cobalt-strike-with-services/| 
@@ -16,52 +26,42 @@
 | 20210624 | 安全研究人员警告2021 年上半年有10万个Windows系统用户被DirtyMoe僵尸网络日益增长的威胁 | https://securityaffairs.co/wordpress/119230/malware/dirtymoe-botnet-growing.html?utm_source=feedly&utm_medium=rss&utm_campaign=dirtymoe-botnet-growing| 
 | 20210623 | Abusing Mailslots and PortKnocking for connectionless shells | https://adepts.of0x.cc/connectionless-shells/| 
 | 20210623 | AWS API 网关的 lambda authorizers 特性可能会误导开发者，影响产品安全性 | https://www.tenchisecurity.com/blog/thefaultinourstars| 
-| 20210623 | GitLab 引入静态自动化分析工具 Semgrep，用于在 CI/CD 过程中扫描安全问题 | https://r2c.dev/blog/2021/introducing-semgrep-for-gitlab/| 
-| 20210623 | 防御方向的 MITRE DEFEND 方法论矩阵 | https://d3fend.mitre.org/| 
-| 20210623 | 专注符号执行领域的 KLEE Workshop 会议的议题资料公开了 | https://srg.doc.ic.ac.uk/klee21/schedule.html| 
-| 20210623 | Linux 应用市场 Pling 网站被发现蠕虫 XSS 漏洞，原生 PlingStore 应用被发现 RCE 漏洞 | https://positive.security/blog/hacking-linux-marketplaces| 
-| 20210623 | 专注 SpiderMonkey 引擎的 TC39 开发者会议的议题公开了 | https://spidermonkey.dev/blog/2021/06/15/tc39.html| 
-| 20210623 | Post-Exploit 框架 Mythic 发布新版本，增强与 Agent 之间的协作能力 | https://posts.specterops.io/learning-from-our-myths-45a19ad4d077?gi=e0fe53e3cd24| 
-| 20210623 | Dell 安全团队分析发现 LV 勒索软件与 REvil 勒索软件有相同的代码结构 | https://www.secureworks.com/research/lv-ransomware| 
-| 20210623 | 在USENIX LISA2021安全会议题：对Linux的BPF内部结构 (eBPF)探讨。 | https://brendangregg.com/blog/2021-06-15/bpf-internals.html| 
-| 20210623 | 如何用调试器Windbg在 win10 下隐藏进程. | https://paper.seebug.org/1611/| 
-| 20210623 | 使用DCI EXDI 会话调试Windows内核（Paper） | http://advdbg.org/gdk/download/20200606-GDC_3_DbgWindows.pdf| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210625 | Java 命令执行之我见 | https://www.anquanke.com/post/id/243329| 
+| 20210625 | 自研HIDS「洋葱」后台上云架构演进实践 | https://security.tencent.com/index.php/blog/msg/194| 
+| 20210625 | PbootCms-3.04前台RCE挖掘过程 | https://www.anquanke.com/post/id/244821| 
+| 20210625 | 供应链安全的学习笔记 | https://www.sec-un.org/%e4%be%9b%e5%ba%94%e9%93%be%e5%ae%89%e5%85%a8%e7%9a%84%e5%ad%a6%e4%b9%a0%e7%ac%94%e8%ae%b0/| 
+| 20210625 | 针对语言翻译系统的数据投毒攻击 | https://www.anquanke.com/post/id/244126| 
+| 20210625 | 傻瓜式 fuzzing 系列一 | https://paper.seebug.org/1615/| 
+| 20210625 | MybatisPuls分页插件中的SQL注入 | https://www.sec-in.com/article/1088| 
 | 20210624 | 隐秘的印记：暗水印实践技术分享 | https://mp.weixin.qq.com/s/2yfjMVlTHwNRT5zOGem26w| 
 | 20210624 | 通过ScriptEngine实现冰蝎shell免杀 | https://mp.weixin.qq.com/s/SU5B7ULgmOC7HsRscMrkKw| 
 | 20210624 | 零信任实战架构总结 | https://mp.weixin.qq.com/s/SCI9sSQHyyriVoCbOGJz5w| 
-| 20210624 | Go语言逆向初探 | https://mp.weixin.qq.com/s/S0HbZ7m9Wcj1b_EUwC7xxw| 
-| 20210624 | 基于工控业务场景构建工控安全成熟度模型 | https://mp.weixin.qq.com/s/c5-aV9Aad8SUEySHz1Vg-A| 
-| 20210624 | 基于业务场景的漏洞挖掘 | https://mp.weixin.qq.com/s/a6QvgLFCO4rCS3FRYZ3lug| 
-| 20210624 | go样本加载过程分析 | https://mp.weixin.qq.com/s/8Dqjas9-fV5DoglZ9MbvZg| 
-| 20210622 | skylarinst-winc(10.199.1.19_80).exe样本分析 | https://mp.weixin.qq.com/s/S0lb93pAhnDbcdYXaixicg| 
-| 20210622 | web选手如何快速卷入二进制世界 | https://mp.weixin.qq.com/s/tU6R2Q4_unEoAMk27vv9xg| 
-| 20210622 | SecWiki周刊（第381期) | https://www.sec-wiki.com/weekly/381| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210625T01:57:50Z | CVE-2021-32537 | PoC for CVE-2021-32537: an out-of-bounds memory access that leads to pool corruption in the Windows kernel. | https://github.com/0vercl0k/CVE-2021-32537 | 未查询到CVE信息| 
+| 20210625T11:22:13Z | CVE-2021-32537 | PoC for CVE-2021-32537: an out-of-bounds memory access that leads to pool corruption in the Windows kernel. | https://github.com/0vercl0k/CVE-2021-32537 | 未查询到CVE信息| 
+| 20210625T10:42:06Z | CVE-2020-3580 | Null | https://github.com/Hudi233/CVE-2020-3580 | Multiple vulnerabilities in the web services interface of Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software could allow an unauthenticated, remote attacker to conduct cross-site scripting (XSS) attacks against a user of the web services interface of an affected device. The vulnerabilities are due to insufficient validation of user-supplied input by the web services interface of an affected device. An attacker could exploit these vulnerabilities by persuading a user of the interface to click a crafted link. A successful exploit could allow the attacker to execute arbitrary script code in the context of the interface or allow the attacker to access sensitive, browser-based information. Note: These vulnerabilities affect only specific AnyConnect and WebVPN configurations. For more information, see the Vulnerable Products section.| 
+| 20210625T08:59:55Z | CVE-2021-35448 | Remote Mouse GUI 3.008 - Local Privilege Escalation | https://github.com/deathflash1411/CVE-2021-35448 | Emote Interactive Remote Mouse 3.008 on Windows allows attackers to execute arbitrary programs as Administrator by using the Image Transfer Folder feature to navigate to cmd.exe. It binds to local ports to listen for incoming connections.| 
+| 20210625T06:11:02Z | CVE-2021-3156 | Null | https://github.com/donghyunlee00/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210625T06:09:17Z | CVE-2020-0041 | My implementation of CVE-2020-0041 | https://github.com/Byte-Master-101/CVE-2020-0041 | In binder_transaction of binder.c, there is a possible out of bounds write due to an incorrect bounds check. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-145988638References: Upstream kernel| 
+| 20210625T05:38:20Z | CVE-2021-35475 | Writeup for CVE-2021-35475; Stored Cross-Site Scripting(XSS) on SAS® Environment Manager 2.5 | https://github.com/saitamang/CVE-2021-35475 | SAS Environment Manager 2.5 allows XSS through the Name field when creating/editing a server. The XSS will prompt when editing the Configuration Properties.| 
 | 20210624T18:44:14Z | 未知编号 | Null | https://github.com/KZMachine/CVERT-2021 | 未查询到CVE信息| 
 | 20210624T17:24:37Z | CVE-2021-3560 | a reliable C based exploit for CVE-2021-3560. | https://github.com/hakivvi/CVE-2021-3560 | 未查询到CVE信息| 
 | 20210624T17:15:25Z | CVE-2020-14321 | Course enrolments allowed privilege escalation from teacher role into manager role to RCE | https://github.com/HoangKien1020/CVE-2020-14321 | 未查询到CVE信息| 
 | 20210624T16:22:37Z | CVE-2021-22214 | Gitlab CI Lint API未授权 SSRF漏洞 (CVE-2021-22214) | https://github.com/r0ckysec/CVE-2021-22214 | When requests to the internal network for webhooks are enabled, a server-side request forgery vulnerability in GitLab CE/EE affecting all versions starting from 10.5 was possible to exploit for an unauthenticated attacker even on a GitLab instance where registration is limited| 
-| 20210624T13:11:10Z | CVE-2021-21425 | GravCMS Unauthenticated Arbitrary YAML Write/Update leads to Code Execution (CVE-2021-21425) | https://github.com/CsEnox/CVE-2021-21425 | | 
-| 20210624T12:32:29Z | CVE-2021-21315 | CVE 2021-21315 exploit | https://github.com/0UR4N05/CVE-2021-21315 | The System Information Library for Node.JS (npm package %systeminformation%) is an open source collection of functions to retrieve detailed hardware, system and OS information. In systeminformation before version 5.3.1 there is a command injection vulnerability. Problem was fixed in version 5.3.1. As a workaround instead of upgrading, be sure to check or sanitize service parameters that are passed to si.inetLatency(), si.inetChecksite(), si.services(), si.processLoad() ... do only allow strings, reject any arrays. String sanitation works as expected.| 
-| 20210624T06:37:45Z | CVE-2021-29337 | CVE-2021-29337 - Privilege Escalation in MODAPI.sys (MSI Dragon Center) | https://github.com/rjt-gupta/CVE-2021-29337 | MODAPI.sys in MSI Dragon Center 2.0.104.0 allows low-privileged users to access kernel memory and potentially escalate privileges via a crafted IOCTL 0x9c406104 call. This IOCTL provides the MmMapIoSpace feature for mapping physical memory.| 
-| 20210623T21:34:48Z | CVE-2020-25627 | Stored XSS via moodlenetprofile parameter in user profile | https://github.com/HoangKien1020/CVE-2020-25627 | | 
-| 20210623T10:36:17Z | CVE-2021-22911 | Pre-Auth Blind NoSQL Injection leading to Remote Code Execution in Rocket Chat 3.12.1 | https://github.com/CsEnox/CVE-2021-22911 | A improper input sanitization vulnerability exists in Rocket.Chat server 3.11, 3.12 & 3.13 that could lead to unauthenticated NoSQL injection, resulting potentially in RCE.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210624T23:09:08Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1721 | 495| 
+| 20210625T07:16:21Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1722 | 495| 
 | 20210624T16:44:47Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 682 | 15| 
 | 20210624T14:50:39Z | Projet SensioTv de formation Symfony 5 Klee Interactive, stack en Docksal et WSL2 windows | https://github.com/404Panky/formation-sf5 | 0 | 1| 
 | 20210624T09:00:33Z | An RTIC application analysis tool which uses KLEE to generate test cases | https://github.com/markhakansson/rauk | 3 | 0| 
@@ -89,31 +89,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210625T01:04:40Z | Resources for the Kr00k vulnerability (CVE-2019-15126) | https://github.com/raul23/Kr00k | 0 | 0| 
-| 20210625T01:02:58Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 25 | 12| 
-| 20210625T00:53:52Z | Null | https://github.com/Hmood511/NASA-Exploit | 0 | 0| 
-| 20210625T00:51:40Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 17 | 11| 
-| 20210625T00:50:19Z | A Discord bot that detects and bans users who attempt to speak while appearing as muted or deafened. | https://github.com/Caeden117/VCMuteExploitDetectionBot | 0 | 0| 
-| 20210625T00:45:06Z | Basic Exploit Essentials is a multi-script, consisting of many great features! | https://github.com/Nextrixcs/Basic-Exploit-Essentials | 0 | 0| 
-| 20210625T00:26:52Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 180 | 11| 
-| 20210625T00:15:52Z | Bifrost C2. Open-source post-exploitation using Discord API | https://github.com/th3r4ven/Bifrost | 4 | 0| 
-| 20210625T00:08:23Z | Modular C2 framework aiming to ease post exploitation for red teamers.  | https://github.com/CMatri/MeetC2 | 1 | 0| 
-| 20210624T23:30:31Z | GEF (GDB Enhanced Features): Bringing modern debugging features to GDB for exploit devs & reversers | https://github.com/hugsy/gef | 3687 | 512| 
+| 20210625T12:01:03Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 64 | 22| 
+| 20210625T11:52:55Z | Null | https://github.com/TheCrazzXz/Exploits-Lab | 0 | 0| 
+| 20210625T11:40:15Z | Snapd binary file install permition exploit. | https://github.com/Seven-7Up/snapd-sudoExploit | 0 | 0| 
+| 20210625T11:35:54Z | Null | https://github.com/SandboxEscaper/New_0day_exploit | 1 | 1| 
+| 20210625T11:18:19Z | KDMapper is a simple tool that exploits iqvw64e.sys Intel driver to manually map non-signed drivers in memory | https://github.com/TheCruZ/kdmapper | 294 | 113| 
+| 20210625T11:02:56Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 25 | 12| 
+| 20210625T10:43:46Z | PwnWiki 数据库搜索命令行工具；该工具有点像 searchsploit 命令，只是搜索的不是 Exploit Database 而是 PwnWiki 条目 | https://github.com/k4yt3x/pwsearch | 0 | 0| 
+| 20210625T10:40:53Z | A roblox server sided anti exploit capable of handling common exploits smoothly. Performance friendly, and reserves resources. The point of this anti exploit is to stop common exploits reliably with minimum performance impact, and rarely cause any false positive related problems. | https://github.com/SilentsReplacement/BoboFighter | 5 | 2| 
+| 20210625T10:35:25Z | PwnWiki 数据库搜索命令行工具；该工具有点像 searchsploit 命令，只是搜索的不是 Exploit Database 而是 PwnWiki 条目 | https://github.com/pwnwikiorg/pwsearch | 23 | 1| 
+| 20210625T10:16:09Z | Helper scripts to assist penetration testing and exploit development | https://github.com/greyshell/exploit_dev | 28 | 10| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210625T11:24:57Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1168 | 556| 
+| 20210625T11:24:37Z | Implementation of a native-code HatSploit membrane for unix-like systems, designed for portability, embeddability, and low resource utilization. | https://github.com/EntySec/membrane | 3 | 1| 
+| 20210625T09:56:40Z | Null | https://github.com/snowfarin/backdoor-both-victim-and-attacker | 0 | 0| 
+| 20210625T04:45:39Z | sexq | https://github.com/VenuzWeeb/LeuxBackdoor9 | 7 | 2| 
+| 20210625T03:06:06Z | Null | https://github.com/vjkingler/backdoor | 0 | 0| 
 | 20210625T01:14:43Z | Backdoors Framework for Deep Learning and Federated Learning. A light-weight tool to conduct your research on backdoors. | https://github.com/ebagdasa/backdoors101 | 85 | 21| 
-| 20210625T01:10:40Z | sexq | https://github.com/VenuzWeeb/LeuxBackdoor9 | 6 | 2| 
 | 20210625T00:49:49Z | Null | https://github.com/fmy266/Pytorch-Backdoor-Unlearning | 0 | 0| 
-| 20210624T23:32:57Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1168 | 556| 
 | 20210624T21:55:28Z | Null | https://github.com/TheSaltyBoys/backdoor-v4 | 0 | 0| 
-| 20210624T14:03:49Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 253 | 46| 
-| 20210624T13:04:12Z | Implementation of a native-code HatSploit membrane for unix-like systems, designed for portability, embeddability, and low resource utilization. | https://github.com/EntySec/membrane | 3 | 1| 
+| 20210624T14:03:49Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 253 | 47| 
 | 20210624T12:08:22Z | A module for building botnet or back door with Python and Telegram control panel | https://github.com/onionj/pybotnet | 1 | 0| 
-| 20210624T10:43:18Z | 🤖An Evil and Smart Bot for Enslaving Windows. | https://github.com/wildonion/katyusha | 3 | 1| 
-| 20210624T07:45:47Z | Simple backdoor using lib python%s socket and subprocess for Windows | https://github.com/NoNameoN-A/Backdoor-Client-Server-Socket-Python | 3 | 1| 
 
 
 # symbolic execution on Github 推荐
@@ -134,6 +134,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210625T08:49:43Z | Null | https://github.com/AnonymousCodeBaseA/NDSS22_Graph_Matching | 0 | 0| 
 | 20210622T22:37:46Z | Code for NDSS 2021 Paper %Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses Against Federated Learning% | https://github.com/vrt1shjwlkr/NDSS21-Model-Poisoning | 14 | 2| 
 | 20210621T08:42:04Z | Code for NDSS% 19 paper:  A Systematic Framework to Generate Invariants for Anomaly Detection in Industrial Control Systems | https://github.com/cfeng783/NDSS19_InvariantRuleAD | 1 | 1| 
 | 20210620T14:31:11Z | Code to run the evaluation of our %Obfuscated Access and Search Patterns in Searchable Encryption%, NDSS%21 | https://github.com/simon-oya/NDSS21-osse-evaluation | 1 | 1| 
@@ -148,16 +149,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210625T01:37:42Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210625T01:22:42Z | golang 练手项目，对目标站点进行目录和文件爆破，利用相似性汉明距离清除误报页面。 | https://github.com/who0sy/WebsiteFuzz | 1 | 0| 
-| 20210625T00:55:18Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 9 | 6| 
-| 20210625T00:35:04Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 651 | 121| 
-| 20210624T23:52:59Z | Fuzzy Inference Systems package | https://github.com/jdvelasq/fuzzy_toolbox | 0 | 0| 
-| 20210624T23:41:31Z | Fuzzy Expert Systems in Python | https://github.com/jdvelasq/fuzzy-expert | 1 | 0| 
-| 20210624T23:32:10Z | Null | https://github.com/JasonKleuskens1/rest-fuzzer | 0 | 0| 
-| 20210624T23:25:56Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1844 | 366| 
-| 20210624T23:22:26Z | Null | https://github.com/miriamgrigsby/fuzzy-coin | 0 | 0| 
-| 20210624T23:11:20Z | Null | https://github.com/jacobcraigross/fuzzy-doodle | 0 | 0| 
+| 20210625T11:56:32Z | Json Fuzzer for Big Data Systems. An extension of BigFuzz, supporting Json typed data.  | https://github.com/LarsRhijns/Json-Fuzzer | 0 | 0| 
+| 20210625T11:50:33Z | DOM fuzzer | https://github.com/mevid93/domzzer | 0 | 0| 
+| 20210625T11:45:47Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 131 | 13| 
+| 20210625T11:35:15Z | Null | https://github.com/dwiebelt002/fuzzy-guacamole | 0 | 0| 
+| 20210625T11:17:11Z | Null | https://github.com/fuzzyextractor/fuzzyextractor-security | 0 | 0| 
+| 20210625T10:38:08Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20210625T10:26:14Z | Fuzzy based segmentation of remotely sensed images using an Adaptive Neuro Fuzzy Inference System (ANFIS). | https://github.com/andmon97/FuzzyRemoteSensingSegmentation | 4 | 0| 
+| 20210625T10:14:05Z | go fuzzing examples | https://github.com/peter-f3/go-fuzz | 1 | 1| 
+| 20210625T10:12:36Z | Coursework and projects completed as part of Neural and Fuzzy Control Systems, 9th Semester, School of Electrical and Computer Engineering, NTUA. | https://github.com/YiorgosVasileiou/ECE_Fuzzy_Neural_Control | 0 | 0| 
+| 20210625T10:08:34Z | Null | https://github.com/nhsd-exeter/dos-service-fuzzy-search-api | 1 | 0| 
 
 
 
