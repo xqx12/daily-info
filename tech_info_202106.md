@@ -148,13 +148,13 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210625T00:35:04Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 651 | 121| 
 | 20210624T23:52:59Z | Fuzzy Inference Systems package | https://github.com/jdvelasq/fuzzy_toolbox | 0 | 0| 
 | 20210624T23:41:31Z | Fuzzy Expert Systems in Python | https://github.com/jdvelasq/fuzzy-expert | 1 | 0| 
 | 20210624T23:32:10Z | Null | https://github.com/JasonKleuskens1/rest-fuzzer | 0 | 0| 
 | 20210624T23:25:56Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1844 | 366| 
 | 20210624T23:22:26Z | Null | https://github.com/miriamgrigsby/fuzzy-coin | 0 | 0| 
 | 20210624T23:11:20Z | Null | https://github.com/jacobcraigross/fuzzy-doodle | 0 | 0| 
-| 20210624T22:52:03Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 651 | 121| 
 | 20210624T22:49:07Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
 | 20210624T22:36:07Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210624T22:10:20Z | Null | https://github.com/balci796881/fuzzy-winner | 0 | 0| 
