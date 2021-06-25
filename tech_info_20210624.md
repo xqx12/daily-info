@@ -76,7 +76,6 @@
 | 20210624T23:32:57Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1168 | 556| 
 | 20210624T21:55:28Z | Null | https://github.com/TheSaltyBoys/backdoor-v4 | 0 | 0| 
 | 20210624T17:41:18Z | Backdoors Framework for Deep Learning and Federated Learning. A light-weight tool to conduct your research on backdoors. | https://github.com/ebagdasa/backdoors101 | 84 | 21| 
-| 20210624T14:15:48Z | sexq | https://github.com/VenuzWeeb/LeuxBackdoor9 | 5 | 1| 
 | 20210624T14:03:49Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 253 | 46| 
 | 20210624T13:04:12Z | Implementation of a native-code HatSploit membrane for unix-like systems, designed for portability, embeddability, and low resource utilization. | https://github.com/EntySec/membrane | 3 | 1| 
 | 20210624T12:08:22Z | A module for building botnet or back door with Python and Telegram control panel | https://github.com/onionj/pybotnet | 1 | 0| 
