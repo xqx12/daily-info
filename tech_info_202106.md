@@ -148,6 +148,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210625T01:22:42Z | golang 练手项目，对目标站点进行目录和文件爆破，利用相似性汉明距离清除误报页面。 | https://github.com/who0sy/WebsiteFuzz | 1 | 0| 
 | 20210625T00:55:18Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 9 | 6| 
 | 20210625T00:35:04Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 651 | 121| 
 | 20210624T23:52:59Z | Fuzzy Inference Systems package | https://github.com/jdvelasq/fuzzy_toolbox | 0 | 0| 
@@ -157,7 +158,6 @@
 | 20210624T23:22:26Z | Null | https://github.com/miriamgrigsby/fuzzy-coin | 0 | 0| 
 | 20210624T23:11:20Z | Null | https://github.com/jacobcraigross/fuzzy-doodle | 0 | 0| 
 | 20210624T22:49:07Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
-| 20210624T22:36:07Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 
 
 
