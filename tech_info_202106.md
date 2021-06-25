@@ -89,8 +89,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210625T00:03:37Z | Resources for Kr00k vulnerability (CVE-2019-15126) | https://github.com/raul23/Kr00k | 0 | 0| 
 | 20210625T00:02:51Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 25 | 12| 
-| 20210625T00:02:50Z | Resources for Kr00k | https://github.com/raul23/Kr00k | 0 | 0| 
 | 20210624T23:51:46Z | Bifrost C2. Open-source post-exploitation using Discord API | https://github.com/th3r4ven/Bifrost | 3 | 0| 
 | 20210624T23:30:31Z | GEF (GDB Enhanced Features): Bringing modern debugging features to GDB for exploit devs & reversers | https://github.com/hugsy/gef | 3687 | 512| 
 | 20210624T23:28:49Z | samsung OfficeServ curl username and password | https://github.com/codezeroooo/samsung-OfficeServ-exploit | 1 | 0| 
@@ -119,15 +119,15 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210624T11:39:50Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2364 | 348| 
-| 20210624T11:03:24Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1827 | 381| 
-| 20210624T01:25:19Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 14 | 3| 
-| 20210623T23:19:25Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 421 | 63| 
-| 20210623T16:53:48Z | This demo will show how Symbolic Execution solve the problem. | https://github.com/JeffShao96/Symbolic-NS3 | 0 | 2| 
+| 20210624T23:09:08Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1721 | 495| 
+| 20210624T22:00:35Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 422 | 63| 
+| 20210624T19:59:58Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2365 | 348| 
+| 20210624T18:01:57Z | This demo will show how Symbolic Execution solve the problem. | https://github.com/JeffShao96/Symbolic-NS3 | 1 | 3| 
+| 20210624T17:12:42Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 14 | 3| 
+| 20210624T13:27:54Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1827 | 381| 
 | 20210623T16:41:20Z | Binsec/Rel is an extension of Binsec that implements relational symbolic execution for constant-time verification and secret-erasure at binary-level. | https://github.com/binsec/Rel | 24 | 1| 
 | 20210623T11:36:13Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 305 | 21| 
 | 20210623T09:23:38Z | This is the repository for Symbolic Execution engine for StateFlow (SESf) models | https://github.com/predragf/sesf | 0 | 0| 
-| 20210623T08:49:58Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1718 | 495| 
 | 20210622T17:49:42Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 143 | 33| 
 
 
