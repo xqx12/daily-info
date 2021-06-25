@@ -96,6 +96,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210625T12:52:18Z | Null | https://github.com/DanielEbert/EmulatedFirmwareFuzzing | 0 | 0| 
 | 20210625T12:37:45Z | Json Fuzzer for Big Data Systems. An extension of BigFuzz, supporting Json typed data.  | https://github.com/LarsRhijns/Json-Fuzzer | 0 | 0| 
 | 20210625T12:23:46Z | VMI Kernel Fuzzer for Xen Project - VM forking, VMI & AFL integration demo | https://github.com/intel/kernel-fuzzer-for-xen-project | 325 | 47| 
 | 20210625T12:15:19Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 10 | 6| 
@@ -105,7 +106,6 @@
 | 20210625T11:35:15Z | Null | https://github.com/dwiebelt002/fuzzy-guacamole | 0 | 0| 
 | 20210625T11:17:11Z | Null | https://github.com/fuzzyextractor/fuzzyextractor-security | 0 | 0| 
 | 20210625T10:38:08Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210625T10:26:14Z | Fuzzy based segmentation of remotely sensed images using an Adaptive Neuro Fuzzy Inference System (ANFIS). | https://github.com/andmon97/FuzzyRemoteSensingSegmentation | 4 | 0| 
 
 
 
