@@ -149,7 +149,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210626T12:20:10Z | This is tool for fuzzing XSS vulnerabilities based on genetic algorithm. | https://github.com/Timofey21/GoXSSfuzz | 0 | 0| 
+| 20210626T12:26:56Z | This is a tool for fuzzing XSS vulnerabilities based on genetic algorithm. | https://github.com/Timofey21/GoXSSfuzz | 0 | 0| 
 | 20210626T11:31:11Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210626T11:28:55Z | Null | https://github.com/AdaLogics/go-fuzz-headers | 2 | 1| 
 | 20210626T09:53:40Z | DOM fuzzer | https://github.com/mevid93/domzzer | 0 | 0| 
