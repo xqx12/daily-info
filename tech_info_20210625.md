@@ -109,13 +109,13 @@
 | 20210625T23:56:05Z | Null | https://github.com/Sambigeara/fuzzynote | 242 | 2| 
 | 20210625T23:44:50Z | Fuzzer for LP models in MPS | https://github.com/elefthei/lp-fuzzer | 0 | 0| 
 | 20210625T23:38:44Z | A fuzzer without the fuzz (or the wait). | https://github.com/cyberrumor/sitemap | 0 | 0| 
-| 20210625T23:26:58Z | Null | https://github.com/bhattacharjee/fuzzy-funicular | 0 | 0| 
 | 20210625T22:14:21Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3571 | 830| 
 | 20210625T21:37:34Z | Coursework and projects completed as part of Neural and Fuzzy Control Systems, 9th Semester, School of Electrical and Computer Engineering, NTUA. | https://github.com/YiorgosVasileiou/ECE_Fuzzy_Neural_Control | 0 | 0| 
 | 20210625T20:49:11Z | Poke-a-square | https://github.com/nataliesmyth/fuzzy-octo-memory | 0 | 0| 
 | 20210625T20:02:40Z | egg | https://github.com/Human727/fuzzy-enigma | 0 | 0| 
 | 20210625T18:57:41Z | Null | https://github.com/DanielEbert/EmulatedFirmwareFuzzing | 0 | 0| 
 | 20210625T18:47:11Z | Null | https://github.com/ukyouz/SublimeText-SimpleFuzzy | 0 | 0| 
+| 20210625T18:46:47Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 651 | 121| 
 
 
 
