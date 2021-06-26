@@ -89,8 +89,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210626T01:48:49Z | PwnWiki 数据库搜索命令行工具；该工具有点像 `searchsploit` 命令，只是搜索的不是 Exploit Database 而是 PwnWiki 条目 | https://github.com/k4yt3x/pwsearch | 1 | 0| 
 | 20210626T01:44:54Z | Style Transfer model built exploiting a pre-trained VGG19 model applied on Hassan II mosque and Starry night by Van Gogh. | https://github.com/kingridda/Artistic-Deep-Learning-Style-Transfer | 0 | 0| 
-| 20210626T01:40:48Z | PwnWiki 数据库搜索命令行工具；该工具有点像 `searchsploit` 命令，只是搜索的不是 Exploit Database 而是 PwnWiki 条目 | https://github.com/k4yt3x/pwsearch | 0 | 0| 
 | 20210626T01:39:28Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 315 | 46| 
 | 20210626T01:39:20Z | Style Transfer model built exploiting a pre-trained VGG19 model applied on Hassan II mosque and Starry night by Van Gogh. | https://github.com/kingridda/deep-learning-art-style-transfer | 0 | 0| 
 | 20210626T01:37:37Z | Container (Docker) escape exploits | https://github.com/duowen1/Container-escape-exps | 2 | 0| 
@@ -119,7 +119,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210625T21:39:36Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 143 | 33| 
+| 20210626T01:49:52Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 143 | 33| 
 | 20210625T15:07:37Z | This is the repository for Symbolic Execution engine for StateFlow (SESf) models | https://github.com/predragf/sesf | 0 | 0| 
 | 20210625T13:03:41Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 14 | 3| 
 | 20210625T09:33:24Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1829 | 381| 
