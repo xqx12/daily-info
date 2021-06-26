@@ -35,16 +35,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210626T01:59:26Z | Estimation codes for exploration-exploitation research project | https://github.com/cmurai/exp2estimation | 0 | 0| 
-| 20210626T01:53:27Z | PwnWiki 数据库搜索命令行工具；该工具有点像 searchsploit 命令，只是搜索的不是 Exploit Database 而是 PwnWiki 条目 | https://github.com/k4yt3x/pwsearch | 1 | 0| 
-| 20210626T01:44:54Z | Style Transfer model built exploiting a pre-trained VGG19 model applied on Hassan II mosque and Starry night by Van Gogh. | https://github.com/kingridda/Artistic-Deep-Learning-Style-Transfer | 0 | 0| 
-| 20210626T01:39:28Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 315 | 46| 
-| 20210626T01:39:20Z | Style Transfer model built exploiting a pre-trained VGG19 model applied on Hassan II mosque and Starry night by Van Gogh. | https://github.com/kingridda/deep-learning-art-style-transfer | 0 | 0| 
-| 20210626T01:37:37Z | Container (Docker) escape exploits | https://github.com/duowen1/Container-escape-exps | 2 | 0| 
-| 20210626T01:08:12Z | Patch for Waterfall to improve performance during attacks and fix memory issues. | https://github.com/2lstudios-mc/FlameCord | 42 | 26| 
-| 20210626T01:02:51Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 25 | 12| 
-| 20210626T01:00:04Z | PwnWiki 数据库搜索命令行工具；该工具有点像 searchsploit 命令，只是搜索的不是 Exploit Database 而是 PwnWiki 条目 | https://github.com/pwnwikiorg/pwsearch | 24 | 1| 
-| 20210626T00:51:40Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 17 | 11| 
+| 20210626T12:02:54Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 25 | 12| 
+| 20210626T11:50:17Z | Scripts (ServerSide and FE) | https://github.com/0WNEDU/Roblox-Misc-Scripts-Exploits | 0 | 0| 
+| 20210626T11:18:39Z | Null | https://github.com/TheCrazzXz/Exploits-Lab | 0 | 0| 
+| 20210626T10:53:31Z | Exploit distribution system for A&D competitions | https://github.com/pomo-mondreganto/neo | 1 | 1| 
+| 20210626T10:20:45Z | GEF (GDB Enhanced Features) brings a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers | https://github.com/hugsy/gef | 3694 | 512| 
+| 20210626T10:19:55Z | A roblox server sided anti exploit capable of handling common exploits smoothly. Performance friendly, and reserves resources. The point of this anti exploit is to stop common exploits reliably with minimum performance impact, and rarely cause any false positive related problems. | https://github.com/SilentsReplacement/BoboFighter | 5 | 2| 
+| 20210626T09:33:36Z | A helpful Java Deserialization exploit framework based on ysoserial | https://github.com/wh1t3p1g/ysomap | 419 | 37| 
+| 20210626T09:18:18Z | This secret place collects some exploitable bugs and relevant POCs that I found | https://github.com/f0rm2l1n/ExP1oiT5 | 0 | 0| 
+| 20210626T09:04:17Z | Exploit allowing to load arbitrary code on the PSX using only a memory card (no game needed) | https://github.com/brad-lin/FreePSXBoot | 244 | 18| 
+| 20210626T08:38:55Z | Cyber471 final project | https://github.com/AfroDizzzy/Metasploit-Meterpreter-Exploit-Automation | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -59,7 +59,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210626T01:49:52Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 143 | 33| 
+| 20210626T08:22:56Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 19 | 11| 
+| 20210626T03:49:26Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2366 | 348| 
+| 20210626T02:56:41Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 144 | 33| 
 
 
 # big4 on Github 推荐
