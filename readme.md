@@ -35,6 +35,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210626T12:20:02Z | exploit Huawei ONT device | https://github.com/0neday/Exploit-HS8545M-ONT | 0 | 0| 
+| 20210626T12:09:47Z | SSRF search vulnerabilities exploitation extended. | https://github.com/duckstroms/ssrf-search | 12 | 3| 
 | 20210626T12:02:54Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 25 | 12| 
 | 20210626T11:50:17Z | Scripts (ServerSide and FE) | https://github.com/0WNEDU/Roblox-Misc-Scripts-Exploits | 0 | 0| 
 | 20210626T11:18:39Z | Null | https://github.com/TheCrazzXz/Exploits-Lab | 0 | 0| 
@@ -43,8 +45,6 @@
 | 20210626T10:19:55Z | A roblox server sided anti exploit capable of handling common exploits smoothly. Performance friendly, and reserves resources. The point of this anti exploit is to stop common exploits reliably with minimum performance impact, and rarely cause any false positive related problems. | https://github.com/SilentsReplacement/BoboFighter | 5 | 2| 
 | 20210626T09:33:36Z | A helpful Java Deserialization exploit framework based on ysoserial | https://github.com/wh1t3p1g/ysomap | 419 | 37| 
 | 20210626T09:18:18Z | This secret place collects some exploitable bugs and relevant POCs that I found | https://github.com/f0rm2l1n/ExP1oiT5 | 0 | 0| 
-| 20210626T09:04:17Z | Exploit allowing to load arbitrary code on the PSX using only a memory card (no game needed) | https://github.com/brad-lin/FreePSXBoot | 244 | 18| 
-| 20210626T08:38:55Z | Cyber471 final project | https://github.com/AfroDizzzy/Metasploit-Meterpreter-Exploit-Automation | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -74,7 +74,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210626T11:35:46Z | This is tool for fuzzing XSS vulnerabilities based on genetic algorithm. | https://github.com/Timofey21/GoXSSfuzz | 0 | 0| 
+| 20210626T12:20:10Z | This is tool for fuzzing XSS vulnerabilities based on genetic algorithm. | https://github.com/Timofey21/GoXSSfuzz | 0 | 0| 
 | 20210626T11:31:11Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210626T11:28:55Z | Null | https://github.com/AdaLogics/go-fuzz-headers | 2 | 1| 
 | 20210626T09:53:40Z | DOM fuzzer | https://github.com/mevid93/domzzer | 0 | 0| 
