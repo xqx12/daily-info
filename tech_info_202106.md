@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210626T00:08:48Z | this bash script is for remote linux hosts hacked! | https://github.com/FabioDefilippo/linuxallenum | 10 | 0| 
 | 20210626T00:02:57Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 25 | 12| 
 | 20210625T23:59:26Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 3 | 1| 
 | 20210625T23:55:35Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 15 | 4| 
@@ -98,7 +99,6 @@
 | 20210625T21:38:33Z | Agent-Based Modelling of labour exploitation in textile supply chains | https://github.com/kwabenantim/textile-labour | 0 | 0| 
 | 20210625T21:20:06Z | Resources for the Kr00k vulnerability (CVE-2019-15126) | https://github.com/raul23/Kr00k | 0 | 0| 
 | 20210625T21:19:11Z | My personal writeup for Nebula from Andrew Griffits Exploit Education | https://github.com/Hacker5preme/Nebula-Writeup | 0 | 0| 
-| 20210625T21:04:26Z | This is an open-source software for exploiting specifically Roblox games. This is designed for people who are looking for exploit softwares designed for MacOS. | https://github.com/bluehydrarblx-dev/rTyphoeusSploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
