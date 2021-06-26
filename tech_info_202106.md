@@ -38,24 +38,24 @@
 | 20210625 | 针对语言翻译系统的数据投毒攻击 | https://www.anquanke.com/post/id/244126| 
 | 20210625 | 傻瓜式 fuzzing 系列一 | https://paper.seebug.org/1615/| 
 | 20210625 | MybatisPuls分页插件中的SQL注入 | https://www.sec-in.com/article/1088| 
+| 20210625 | Java 供应链(依赖)安全检测实践 | https://mp.weixin.qq.com/s/1fnDelBE1HisEaopEyk8nQ| 
 | 20210624 | 隐秘的印记：暗水印实践技术分享 | https://mp.weixin.qq.com/s/2yfjMVlTHwNRT5zOGem26w| 
 | 20210624 | 通过ScriptEngine实现冰蝎shell免杀 | https://mp.weixin.qq.com/s/SU5B7ULgmOC7HsRscMrkKw| 
-| 20210624 | 零信任实战架构总结 | https://mp.weixin.qq.com/s/SCI9sSQHyyriVoCbOGJz5w| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210625T11:22:13Z | CVE-2021-32537 | PoC for CVE-2021-32537: an out-of-bounds memory access that leads to pool corruption in the Windows kernel. | https://github.com/0vercl0k/CVE-2021-32537 | 未查询到CVE信息| 
+| 20210625T22:20:31Z | CVE-2021-33624 | Proof of Concept for CVE-2021-33624 | https://github.com/Kakashiiiiy/CVE-2021-33624 | In kernel/bpf/verifier.c in the Linux kernel before 5.12.13, a branch can be mispredicted (e.g., because of type confusion) and consequently an unprivileged BPF program can read arbitrary memory locations via a side-channel attack, aka CID-9183671af6db.| 
+| 20210625T17:30:15Z | CVE-2021-32537 | PoC for CVE-2021-32537: an out-of-bounds memory access that leads to pool corruption in the Windows kernel. | https://github.com/0vercl0k/CVE-2021-32537 | 未查询到CVE信息| 
+| 20210625T17:04:01Z | 未知编号 | Null | https://github.com/KZMachine/CVERT-2021 | 未查询到CVE信息| 
+| 20210625T15:22:41Z | CVE-2021-27850 | A Proof of concept for CVE-2021-27850 affecting Apache Tapestry and leading to unauthencticated remote code execution. | https://github.com/kahla-sec/CVE-2021-27850_POC | A critical unauthenticated remote code execution vulnerability was found all recent versions of Apache Tapestry. The affected versions include 5.4.5, 5.5.0, 5.6.2 and 5.7.0. The vulnerability I have found is a bypass of the fix for CVE-2019-0195. Recap: Before the fix of CVE-2019-0195 it was possible to download arbitrary class files from the classpath by providing a crafted asset file URL. An attacker was able to download the file `AppModule.class` by requesting the URL `http://localhost:8080/assets/something/services/AppModule.class` which contains a HMAC secret key. The fix for that bug was a blacklist filter that checks if the URL ends with `.class`, `.properties` or `.xml`. Bypass: Unfortunately, the blacklist solution can simply be bypassed by appending a `/` at the end of the URL: `http://localhost:8080/assets/something/services/AppModule.class/` The slash is stripped after the blacklist check and the file `AppModule.class` is loaded into the response. This class usually contains the HMAC secret key which is used to sign serialized Java objects. With the knowledge of that key an attacker can sign a Java gadget chain that leads to RCE (e.g. CommonsBeanUtils1 from ysoserial). Solution for this vulnerability: * For Apache Tapestry 5.4.0 to 5.6.1, upgrade to 5.6.2 or later. * For Apache Tapestry 5.7.0, upgrade to 5.7.1 or later.| 
 | 20210625T10:42:06Z | CVE-2020-3580 | Null | https://github.com/Hudi233/CVE-2020-3580 | Multiple vulnerabilities in the web services interface of Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software could allow an unauthenticated, remote attacker to conduct cross-site scripting (XSS) attacks against a user of the web services interface of an affected device. The vulnerabilities are due to insufficient validation of user-supplied input by the web services interface of an affected device. An attacker could exploit these vulnerabilities by persuading a user of the interface to click a crafted link. A successful exploit could allow the attacker to execute arbitrary script code in the context of the interface or allow the attacker to access sensitive, browser-based information. Note: These vulnerabilities affect only specific AnyConnect and WebVPN configurations. For more information, see the Vulnerable Products section.| 
 | 20210625T08:59:55Z | CVE-2021-35448 | Remote Mouse GUI 3.008 - Local Privilege Escalation | https://github.com/deathflash1411/CVE-2021-35448 | Emote Interactive Remote Mouse 3.008 on Windows allows attackers to execute arbitrary programs as Administrator by using the Image Transfer Folder feature to navigate to cmd.exe. It binds to local ports to listen for incoming connections.| 
 | 20210625T06:11:02Z | CVE-2021-3156 | Null | https://github.com/donghyunlee00/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210625T06:09:17Z | CVE-2020-0041 | My implementation of CVE-2020-0041 | https://github.com/Byte-Master-101/CVE-2020-0041 | In binder_transaction of binder.c, there is a possible out of bounds write due to an incorrect bounds check. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-145988638References: Upstream kernel| 
 | 20210625T05:38:20Z | CVE-2021-35475 | Writeup for CVE-2021-35475; Stored Cross-Site Scripting(XSS) on SAS® Environment Manager 2.5 | https://github.com/saitamang/CVE-2021-35475 | SAS Environment Manager 2.5 allows XSS through the Name field when creating/editing a server. The XSS will prompt when editing the Configuration Properties.| 
-| 20210624T18:44:14Z | 未知编号 | Null | https://github.com/KZMachine/CVERT-2021 | 未查询到CVE信息| 
 | 20210624T17:24:37Z | CVE-2021-3560 | a reliable C based exploit for CVE-2021-3560. | https://github.com/hakivvi/CVE-2021-3560 | 未查询到CVE信息| 
-| 20210624T17:15:25Z | CVE-2020-14321 | Course enrolments allowed privilege escalation from teacher role into manager role to RCE | https://github.com/HoangKien1020/CVE-2020-14321 | 未查询到CVE信息| 
-| 20210624T16:22:37Z | CVE-2021-22214 | Gitlab CI Lint API未授权 SSRF漏洞 (CVE-2021-22214) | https://github.com/r0ckysec/CVE-2021-22214 | When requests to the internal network for webhooks are enabled, a server-side request forgery vulnerability in GitLab CE/EE affecting all versions starting from 10.5 was possible to exploit for an unauthenticated attacker even on a GitLab instance where registration is limited| 
 
 
 # klee on Github 推荐
@@ -89,37 +89,39 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210625T12:58:59Z | Null | https://github.com/z3dc0ps/windows-exploitation-more | 0 | 0| 
-| 20210625T12:53:42Z | PwnWiki 数据库搜索命令行工具；该工具有点像 searchsploit 命令，只是搜索的不是 Exploit Database 而是 PwnWiki 条目 | https://github.com/k4yt3x/pwsearch | 1 | 0| 
-| 20210625T12:51:02Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 64 | 22| 
-| 20210625T12:48:30Z | Spigot plugin to improve security surrounding books with JSON content | https://github.com/minoneer/BookExploitFix | 2 | 0| 
-| 20210625T12:35:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9596 | 1569| 
-| 20210625T12:29:45Z | Null | https://github.com/Hacker-Data/Exploit-Word-Private-BypassAV | 1 | 0| 
-| 20210625T12:02:57Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 25 | 12| 
-| 20210625T11:52:55Z | Null | https://github.com/TheCrazzXz/Exploits-Lab | 0 | 0| 
-| 20210625T11:40:15Z | Snapd binary file install permition exploit. | https://github.com/Seven-7Up/snapd-sudoExploit | 0 | 0| 
-| 20210625T11:35:54Z | Null | https://github.com/SandboxEscaper/New_0day_exploit | 1 | 1| 
+| 20210625T23:59:26Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 3 | 1| 
+| 20210625T23:55:35Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 15 | 4| 
+| 20210625T23:28:41Z | Null | https://github.com/sheenieboy/ExploiterChat | 1 | 0| 
+| 20210625T23:15:49Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9596 | 1569| 
+| 20210625T23:02:57Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 25 | 12| 
+| 20210625T22:16:58Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 64 | 22| 
+| 20210625T21:38:33Z | Agent-Based Modelling of labour exploitation in textile supply chains | https://github.com/kwabenantim/textile-labour | 0 | 0| 
+| 20210625T21:20:06Z | Resources for the Kr00k vulnerability (CVE-2019-15126) | https://github.com/raul23/Kr00k | 0 | 0| 
+| 20210625T21:19:11Z | My personal writeup for Nebula from Andrew Griffits Exploit Education | https://github.com/Hacker5preme/Nebula-Writeup | 0 | 0| 
+| 20210625T21:04:26Z | This is an open-source software for exploiting specifically Roblox games. This is designed for people who are looking for exploit softwares designed for MacOS. | https://github.com/bluehydrarblx-dev/rTyphoeusSploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210625T12:57:53Z | Reverse-Shell | https://github.com/knight8645726/Backdoor | 0 | 0| 
-| 20210625T11:24:57Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1168 | 556| 
+| 20210625T19:05:51Z | vsftpd 2.3.4 Backdoor Exploit | https://github.com/nobodyatall648/CVE-2011-2523 | 0 | 0| 
+| 20210625T18:16:40Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 9 | 4| 
+| 20210625T17:32:17Z | TotallyNotABackDoorPlugin is a backdoor plugin for minecraft servers | https://github.com/SpicyHamBoi/TotallyNotABackDoorPlugin | 1 | 0| 
+| 20210625T17:12:31Z | Null | https://github.com/alex54142/PHP-SHELL-backdoor | 0 | 0| 
+| 20210625T17:10:15Z | A module for building botnet or back door with Python and Telegram control panel | https://github.com/onionj/pybotnet | 2 | 0| 
+| 20210625T16:57:06Z | Backdoor Android programado en Phyton | https://github.com/Fr0il4nSierra/Backdoor_Phyton | 0 | 0| 
+| 20210625T16:40:16Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1170 | 556| 
+| 20210625T13:05:53Z | Reverse-Shell | https://github.com/knight8645726/Backdoor | 0 | 0| 
 | 20210625T11:24:37Z | Implementation of a native-code HatSploit membrane for unix-like systems, designed for portability, embeddability, and low resource utilization. | https://github.com/EntySec/membrane | 3 | 1| 
 | 20210625T09:56:40Z | Null | https://github.com/snowfarin/backdoor-both-victim-and-attacker | 0 | 0| 
-| 20210625T04:45:39Z | sexq | https://github.com/VenuzWeeb/LeuxBackdoor9 | 7 | 2| 
-| 20210625T03:06:06Z | Null | https://github.com/vjkingler/backdoor | 0 | 0| 
-| 20210625T01:14:43Z | Backdoors Framework for Deep Learning and Federated Learning. A light-weight tool to conduct your research on backdoors. | https://github.com/ebagdasa/backdoors101 | 85 | 21| 
-| 20210625T00:49:49Z | Null | https://github.com/fmy266/Pytorch-Backdoor-Unlearning | 0 | 0| 
-| 20210624T21:55:28Z | Null | https://github.com/TheSaltyBoys/backdoor-v4 | 0 | 0| 
-| 20210624T14:03:49Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 253 | 47| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210625T13:00:30Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 14 | 3| 
+| 20210625T21:39:36Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 143 | 33| 
+| 20210625T15:07:37Z | This is the repository for Symbolic Execution engine for StateFlow (SESf) models | https://github.com/predragf/sesf | 0 | 0| 
+| 20210625T13:03:41Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 14 | 3| 
 | 20210625T09:33:24Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1829 | 381| 
 | 20210625T07:16:21Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1722 | 495| 
 | 20210624T22:00:35Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 422 | 62| 
@@ -127,8 +129,6 @@
 | 20210624T18:01:57Z | This demo will show how Symbolic Execution solve the problem. | https://github.com/JeffShao96/Symbolic-NS3 | 1 | 3| 
 | 20210623T16:41:20Z | Binsec/Rel is an extension of Binsec that implements relational symbolic execution for constant-time verification and secret-erasure at binary-level. | https://github.com/binsec/Rel | 24 | 1| 
 | 20210623T11:36:13Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 305 | 21| 
-| 20210623T09:23:38Z | This is the repository for Symbolic Execution engine for StateFlow (SESf) models | https://github.com/predragf/sesf | 0 | 0| 
-| 20210622T17:49:42Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 143 | 33| 
 
 
 # big4 on Github 推荐
@@ -149,16 +149,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210625T12:52:18Z | Null | https://github.com/DanielEbert/EmulatedFirmwareFuzzing | 0 | 0| 
-| 20210625T12:37:45Z | Json Fuzzer for Big Data Systems. An extension of BigFuzz, supporting Json typed data.  | https://github.com/LarsRhijns/Json-Fuzzer | 0 | 0| 
-| 20210625T12:23:46Z | VMI Kernel Fuzzer for Xen Project - VM forking, VMI & AFL integration demo | https://github.com/intel/kernel-fuzzer-for-xen-project | 325 | 47| 
-| 20210625T12:15:19Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 10 | 6| 
-| 20210625T12:05:37Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 465 | 41| 
-| 20210625T11:50:33Z | DOM fuzzer | https://github.com/mevid93/domzzer | 0 | 0| 
-| 20210625T11:45:47Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 131 | 13| 
-| 20210625T11:35:15Z | Null | https://github.com/dwiebelt002/fuzzy-guacamole | 0 | 0| 
-| 20210625T11:17:11Z | Null | https://github.com/fuzzyextractor/fuzzyextractor-security | 0 | 0| 
-| 20210625T10:38:08Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20210625T23:56:05Z | Null | https://github.com/Sambigeara/fuzzynote | 242 | 2| 
+| 20210625T23:56:05Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6416 | 1303| 
+| 20210625T23:53:02Z | Null | https://github.com/lizaorsini346/fuzzy-parakeet | 0 | 0| 
+| 20210625T23:44:50Z | Fuzzer for LP models in MPS | https://github.com/elefthei/lp-fuzzer | 0 | 0| 
+| 20210625T23:38:44Z | A fuzzer without the fuzz (or the wait). | https://github.com/cyberrumor/sitemap | 0 | 0| 
+| 20210625T23:26:58Z | Null | https://github.com/bhattacharjee/fuzzy-funicular | 0 | 0| 
+| 20210625T23:01:36Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20210625T22:14:21Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3571 | 830| 
+| 20210625T21:37:34Z | Coursework and projects completed as part of Neural and Fuzzy Control Systems, 9th Semester, School of Electrical and Computer Engineering, NTUA. | https://github.com/YiorgosVasileiou/ECE_Fuzzy_Neural_Control | 0 | 0| 
+| 20210625T20:49:11Z | Poke-a-square | https://github.com/nataliesmyth/fuzzy-octo-memory | 0 | 0| 
 
 
 
