@@ -89,7 +89,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210626T01:48:49Z | PwnWiki 数据库搜索命令行工具；该工具有点像 `searchsploit` 命令，只是搜索的不是 Exploit Database 而是 PwnWiki 条目 | https://github.com/k4yt3x/pwsearch | 1 | 0| 
+| 20210626T01:59:26Z | Estimation codes for exploration-exploitation research project | https://github.com/cmurai/exp2estimation | 0 | 0| 
+| 20210626T01:53:27Z | PwnWiki 数据库搜索命令行工具；该工具有点像 searchsploit 命令，只是搜索的不是 Exploit Database 而是 PwnWiki 条目 | https://github.com/k4yt3x/pwsearch | 1 | 0| 
 | 20210626T01:44:54Z | Style Transfer model built exploiting a pre-trained VGG19 model applied on Hassan II mosque and Starry night by Van Gogh. | https://github.com/kingridda/Artistic-Deep-Learning-Style-Transfer | 0 | 0| 
 | 20210626T01:39:28Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 315 | 46| 
 | 20210626T01:39:20Z | Style Transfer model built exploiting a pre-trained VGG19 model applied on Hassan II mosque and Starry night by Van Gogh. | https://github.com/kingridda/deep-learning-art-style-transfer | 0 | 0| 
@@ -98,7 +99,6 @@
 | 20210626T01:02:51Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 25 | 12| 
 | 20210626T01:00:04Z | PwnWiki 数据库搜索命令行工具；该工具有点像 searchsploit 命令，只是搜索的不是 Exploit Database 而是 PwnWiki 条目 | https://github.com/pwnwikiorg/pwsearch | 24 | 1| 
 | 20210626T00:51:40Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 17 | 11| 
-| 20210626T00:08:48Z | this bash script is for remote linux hosts hacked! | https://github.com/FabioDefilippo/linuxallenum | 10 | 0| 
 
 
 # backdoor on Github 推荐
