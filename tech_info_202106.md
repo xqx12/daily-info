@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210626T11:27:28Z | CVE-2021-35475 | Writeup for CVE-2021-35475; Stored Cross-Site Scripting(XSS) on SAS® Environment Manager 2.5 | https://github.com/saitamang/CVE-2021-35475 | SAS Environment Manager 2.5 allows XSS through the Name field when creating/editing a server. The XSS will prompt when editing the Configuration Properties.| 
+| 20210626T11:25:35Z | CVE-2021-31955 | Null | https://github.com/mavillon1/CVE-2021-31955-POC | Windows Kernel Information Disclosure Vulnerability| 
+| 20210626T09:44:57Z | CVE-2021-32537 | PoC for CVE-2021-32537: an out-of-bounds memory access that leads to pool corruption in the Windows kernel. | https://github.com/0vercl0k/CVE-2021-32537 | 未查询到CVE信息| 
+| 20210626T09:24:14Z | CVE-2021-27850 | A Proof of concept for CVE-2021-27850 affecting Apache Tapestry and leading to unauthencticated remote code execution. | https://github.com/kahla-sec/CVE-2021-27850_POC | A critical unauthenticated remote code execution vulnerability was found all recent versions of Apache Tapestry. The affected versions include 5.4.5, 5.5.0, 5.6.2 and 5.7.0. The vulnerability I have found is a bypass of the fix for CVE-2019-0195. Recap: Before the fix of CVE-2019-0195 it was possible to download arbitrary class files from the classpath by providing a crafted asset file URL. An attacker was able to download the file `AppModule.class` by requesting the URL `http://localhost:8080/assets/something/services/AppModule.class` which contains a HMAC secret key. The fix for that bug was a blacklist filter that checks if the URL ends with `.class`, `.properties` or `.xml`. Bypass: Unfortunately, the blacklist solution can simply be bypassed by appending a `/` at the end of the URL: `http://localhost:8080/assets/something/services/AppModule.class/` The slash is stripped after the blacklist check and the file `AppModule.class` is loaded into the response. This class usually contains the HMAC secret key which is used to sign serialized Java objects. With the knowledge of that key an attacker can sign a Java gadget chain that leads to RCE (e.g. CommonsBeanUtils1 from ysoserial). Solution for this vulnerability: * For Apache Tapestry 5.4.0 to 5.6.1, upgrade to 5.6.2 or later. * For Apache Tapestry 5.7.0, upgrade to 5.7.1 or later.| 
 | 20210625T22:20:31Z | CVE-2021-33624 | Proof of Concept for CVE-2021-33624 | https://github.com/Kakashiiiiy/CVE-2021-33624 | In kernel/bpf/verifier.c in the Linux kernel before 5.12.13, a branch can be mispredicted (e.g., because of type confusion) and consequently an unprivileged BPF program can read arbitrary memory locations via a side-channel attack, aka CID-9183671af6db.| 
-| 20210625T17:30:15Z | CVE-2021-32537 | PoC for CVE-2021-32537: an out-of-bounds memory access that leads to pool corruption in the Windows kernel. | https://github.com/0vercl0k/CVE-2021-32537 | 未查询到CVE信息| 
 | 20210625T17:04:01Z | 未知编号 | Null | https://github.com/KZMachine/CVERT-2021 | 未查询到CVE信息| 
-| 20210625T15:22:41Z | CVE-2021-27850 | A Proof of concept for CVE-2021-27850 affecting Apache Tapestry and leading to unauthencticated remote code execution. | https://github.com/kahla-sec/CVE-2021-27850_POC | A critical unauthenticated remote code execution vulnerability was found all recent versions of Apache Tapestry. The affected versions include 5.4.5, 5.5.0, 5.6.2 and 5.7.0. The vulnerability I have found is a bypass of the fix for CVE-2019-0195. Recap: Before the fix of CVE-2019-0195 it was possible to download arbitrary class files from the classpath by providing a crafted asset file URL. An attacker was able to download the file `AppModule.class` by requesting the URL `http://localhost:8080/assets/something/services/AppModule.class` which contains a HMAC secret key. The fix for that bug was a blacklist filter that checks if the URL ends with `.class`, `.properties` or `.xml`. Bypass: Unfortunately, the blacklist solution can simply be bypassed by appending a `/` at the end of the URL: `http://localhost:8080/assets/something/services/AppModule.class/` The slash is stripped after the blacklist check and the file `AppModule.class` is loaded into the response. This class usually contains the HMAC secret key which is used to sign serialized Java objects. With the knowledge of that key an attacker can sign a Java gadget chain that leads to RCE (e.g. CommonsBeanUtils1 from ysoserial). Solution for this vulnerability: * For Apache Tapestry 5.4.0 to 5.6.1, upgrade to 5.6.2 or later. * For Apache Tapestry 5.7.0, upgrade to 5.7.1 or later.| 
 | 20210625T10:42:06Z | CVE-2020-3580 | Null | https://github.com/Hudi233/CVE-2020-3580 | Multiple vulnerabilities in the web services interface of Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software could allow an unauthenticated, remote attacker to conduct cross-site scripting (XSS) attacks against a user of the web services interface of an affected device. The vulnerabilities are due to insufficient validation of user-supplied input by the web services interface of an affected device. An attacker could exploit these vulnerabilities by persuading a user of the interface to click a crafted link. A successful exploit could allow the attacker to execute arbitrary script code in the context of the interface or allow the attacker to access sensitive, browser-based information. Note: These vulnerabilities affect only specific AnyConnect and WebVPN configurations. For more information, see the Vulnerable Products section.| 
 | 20210625T08:59:55Z | CVE-2021-35448 | Remote Mouse GUI 3.008 - Local Privilege Escalation | https://github.com/deathflash1411/CVE-2021-35448 | Emote Interactive Remote Mouse 3.008 on Windows allows attackers to execute arbitrary programs as Administrator by using the Image Transfer Folder feature to navigate to cmd.exe. It binds to local ports to listen for incoming connections.| 
 | 20210625T06:11:02Z | CVE-2021-3156 | Null | https://github.com/donghyunlee00/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210625T06:09:17Z | CVE-2020-0041 | My implementation of CVE-2020-0041 | https://github.com/Byte-Master-101/CVE-2020-0041 | In binder_transaction of binder.c, there is a possible out of bounds write due to an incorrect bounds check. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-145988638References: Upstream kernel| 
-| 20210625T05:38:20Z | CVE-2021-35475 | Writeup for CVE-2021-35475; Stored Cross-Site Scripting(XSS) on SAS® Environment Manager 2.5 | https://github.com/saitamang/CVE-2021-35475 | SAS Environment Manager 2.5 allows XSS through the Name field when creating/editing a server. The XSS will prompt when editing the Configuration Properties.| 
-| 20210624T17:24:37Z | CVE-2021-3560 | a reliable C based exploit for CVE-2021-3560. | https://github.com/hakivvi/CVE-2021-3560 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
@@ -104,16 +104,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210626T11:36:01Z | ASP WEBSHELL BYPASS PHP SHELL BACKDOOR UNDETECTED! | https://github.com/webshell-archive/ASP | 1 | 0| 
+| 20210626T11:35:46Z | PHP WEBSHELL BYPASS PHP SHELL BACKDOOR UNDETECTED! | https://github.com/webshell-archive/PHP | 1 | 0| 
+| 20210626T10:02:30Z | Python backdoor | https://github.com/DianaNeumann/Porte_arriere | 0 | 0| 
+| 20210626T09:59:16Z | Null | https://github.com/fmy266/Pytorch-Backdoor-Unlearning | 0 | 0| 
 | 20210625T19:05:51Z | vsftpd 2.3.4 Backdoor Exploit | https://github.com/nobodyatall648/CVE-2011-2523 | 0 | 0| 
 | 20210625T18:16:40Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 9 | 4| 
 | 20210625T17:32:17Z | TotallyNotABackDoorPlugin is a backdoor plugin for minecraft servers | https://github.com/SpicyHamBoi/TotallyNotABackDoorPlugin | 1 | 0| 
 | 20210625T17:12:31Z | Null | https://github.com/alex54142/PHP-SHELL-backdoor | 0 | 0| 
-| 20210625T17:10:15Z | A module for building botnet or back door with Python and Telegram control panel | https://github.com/onionj/pybotnet | 2 | 0| 
+| 20210625T17:10:15Z | A module for building botnet or back door with Python and Telegram control panel | https://github.com/onionj/pybotnet | 2 | 1| 
 | 20210625T16:57:06Z | Backdoor Android programado en Phyton | https://github.com/Fr0il4nSierra/Backdoor_Phyton | 0 | 0| 
-| 20210625T16:40:16Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1170 | 556| 
-| 20210625T13:05:53Z | Reverse-Shell | https://github.com/knight8645726/Backdoor | 0 | 0| 
-| 20210625T11:24:37Z | Implementation of a native-code HatSploit membrane for unix-like systems, designed for portability, embeddability, and low resource utilization. | https://github.com/EntySec/membrane | 3 | 1| 
-| 20210625T09:56:40Z | Null | https://github.com/snowfarin/backdoor-both-victim-and-attacker | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -134,11 +134,11 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210626T06:09:11Z | Original implementation of FlowPrint as in the NDSS %20 paper | https://github.com/Thijsvanede/FlowPrint | 49 | 18| 
+| 20210626T02:22:29Z | Code for NDSS 2021 Paper %Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses Against Federated Learning% | https://github.com/vrt1shjwlkr/NDSS21-Model-Poisoning | 15 | 2| 
 | 20210625T08:49:43Z | Null | https://github.com/AnonymousCodeBaseA/NDSS22_Graph_Matching | 0 | 0| 
-| 20210622T22:37:46Z | Code for NDSS 2021 Paper %Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses Against Federated Learning% | https://github.com/vrt1shjwlkr/NDSS21-Model-Poisoning | 14 | 2| 
 | 20210621T08:42:04Z | Code for NDSS% 19 paper:  A Systematic Framework to Generate Invariants for Anomaly Detection in Industrial Control Systems | https://github.com/cfeng783/NDSS19_InvariantRuleAD | 1 | 1| 
 | 20210620T14:31:11Z | Code to run the evaluation of our %Obfuscated Access and Search Patterns in Searchable Encryption%, NDSS%21 | https://github.com/simon-oya/NDSS21-osse-evaluation | 1 | 1| 
-| 20210619T08:39:40Z | Original implementation of FlowPrint as in the NDSS %20 paper | https://github.com/Thijsvanede/FlowPrint | 48 | 18| 
 | 20210614T16:36:56Z | Cost-Aware Robust Tree Ensembles for Security Applications (Usenix Security%21) https://arxiv.org/pdf/1912.01149.pdf | https://github.com/surrealyz/growtrees | 14 | 4| 
 | 20210612T08:53:44Z | DSCP is a dynamic secure cache partitioning implementation on gem5. The code includes a ScatterCache (USENIX SECURITY%19) variant and it is partially available to reproduce set partitioning. | https://github.com/saintube/gem5-dscp | 2 | 0| 
 | 20210611T11:22:47Z | Proximal Gradient Analysis open source release based on our USENIX Security 2021 paper: %Fine Grained Dataflow Analysis with Proximal Gradients%. | https://github.com/gryan11/PGA | 20 | 3| 
@@ -149,16 +149,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210626T01:57:46Z | These tests of libdwarf/dwarfdump include old object files, new ones, and many fuzzed object files. These are the definitive tests that things work.. Most people have no reason to run these tests. | https://github.com/davea42/libdwarf-regressiontests | 0 | 0| 
-| 20210626T01:55:52Z | Null | https://github.com/Sambigeara/fuzzynote | 243 | 2| 
-| 20210626T01:30:32Z | JQF + Zest: Coverage-guided semantic fuzzing for Java. | https://github.com/rohanpadhye/JQF | 375 | 55| 
-| 20210626T01:29:08Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210626T00:51:14Z | Null | https://github.com/bhattacharjee/fuzzy-funicular | 0 | 0| 
-| 20210626T00:43:42Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6416 | 1303| 
-| 20210626T00:30:55Z | Null | https://github.com/Baoanh217/fuzzy-octo-tribble | 0 | 0| 
-| 20210626T00:08:35Z | Emulation and Feedback Fuzzing of Firmware with Memory Sanitization | https://github.com/fgsect/BaseSAFE | 114 | 14| 
-| 20210626T00:08:18Z | Null | https://github.com/lizaorsini346/fuzzy-parakeet | 0 | 0| 
-| 20210625T23:44:50Z | Fuzzer for LP models in MPS | https://github.com/elefthei/lp-fuzzer | 0 | 0| 
+| 20210626T11:35:46Z | This is tool for fuzzing XSS vulnerabilities based on genetic algorithm. | https://github.com/Timofey21/GoXSSfuzz | 0 | 0| 
+| 20210626T11:31:11Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20210626T11:28:55Z | Null | https://github.com/AdaLogics/go-fuzz-headers | 2 | 1| 
+| 20210626T09:53:40Z | DOM fuzzer | https://github.com/mevid93/domzzer | 0 | 0| 
+| 20210626T09:32:26Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
+| 20210626T09:28:43Z | Null | https://github.com/bolpuine/fuzzy-octo-palm-tree | 0 | 0| 
+| 20210626T08:42:56Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6417 | 1303| 
+| 20210626T08:29:19Z | Null | https://github.com/ukyouz/SublimeText-SimpleFuzzy | 0 | 0| 
+| 20210626T07:31:46Z | API fuzz testing generator using swagger document. | https://github.com/namuan/fuzzy-swagger | 5 | 1| 
+| 20210626T07:29:38Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3572 | 830| 
 
 
 
