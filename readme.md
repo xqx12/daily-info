@@ -41,7 +41,7 @@
 | 20210626T22:25:11Z | KDMapper is a simple tool that exploits iqvw64e.sys Intel driver to manually map non-signed drivers in memory | https://github.com/TheCruZ/kdmapper | 296 | 114| 
 | 20210626T22:07:59Z | Writeup for exploit.education/nebula | https://github.com/vi11ain/nebula-writeup | 1 | 0| 
 | 20210626T21:56:54Z | MCAtlas changes relating to Towny, including Towny exploit fix, general messages, etc. | https://github.com/Ruinscraft/mcatlas-towny-helpers | 0 | 0| 
-| 20210626T21:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9598 | 1569| 
+| 20210626T21:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9598 | 1570| 
 | 20210626T20:55:19Z | Windows 7 Professional 7601 Service Pack 1 is vulnerable to eternalblue exploit and while exploiting this myself i ran into a number of issues . So , now i will show you how to exploit it without using metasploit . | https://github.com/AnikateSawhney/Pwning_Blue_From_HTB_Without_Metasploit | 0 | 0| 
 | 20210626T19:44:57Z | Makes it so that you can craft ores, non OP (cannot be exploited with Fortune). (Datapack) | https://github.com/zaydam1000000/craftable_ores | 0 | 0| 
 | 20210626T19:31:10Z | Null | https://github.com/zYan666/Demon-Exploit | 0 | 0| 

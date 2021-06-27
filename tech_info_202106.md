@@ -50,7 +50,7 @@
 | 20210626T18:30:40Z | CVE-2021-32537 | PoC for CVE-2021-32537: an out-of-bounds memory access that leads to pool corruption in the Windows kernel. | https://github.com/0vercl0k/CVE-2021-32537 | 未查询到CVE信息| 
 | 20210626T11:27:28Z | CVE-2021-35475 | Writeup for CVE-2021-35475; Stored Cross-Site Scripting(XSS) on SAS® Environment Manager 2.5 | https://github.com/saitamang/CVE-2021-35475 | SAS Environment Manager 2.5 allows XSS through the Name field when creating/editing a server. The XSS will prompt when editing the Configuration Properties.| 
 | 20210626T09:24:14Z | CVE-2021-27850 | A Proof of concept for CVE-2021-27850 affecting Apache Tapestry and leading to unauthencticated remote code execution. | https://github.com/kahla-sec/CVE-2021-27850_POC | A critical unauthenticated remote code execution vulnerability was found all recent versions of Apache Tapestry. The affected versions include 5.4.5, 5.5.0, 5.6.2 and 5.7.0. The vulnerability I have found is a bypass of the fix for CVE-2019-0195. Recap: Before the fix of CVE-2019-0195 it was possible to download arbitrary class files from the classpath by providing a crafted asset file URL. An attacker was able to download the file `AppModule.class` by requesting the URL `http://localhost:8080/assets/something/services/AppModule.class` which contains a HMAC secret key. The fix for that bug was a blacklist filter that checks if the URL ends with `.class`, `.properties` or `.xml`. Bypass: Unfortunately, the blacklist solution can simply be bypassed by appending a `/` at the end of the URL: `http://localhost:8080/assets/something/services/AppModule.class/` The slash is stripped after the blacklist check and the file `AppModule.class` is loaded into the response. This class usually contains the HMAC secret key which is used to sign serialized Java objects. With the knowledge of that key an attacker can sign a Java gadget chain that leads to RCE (e.g. CommonsBeanUtils1 from ysoserial). Solution for this vulnerability: * For Apache Tapestry 5.4.0 to 5.6.1, upgrade to 5.6.2 or later. * For Apache Tapestry 5.7.0, upgrade to 5.7.1 or later.| 
-| 20210625T22:20:31Z | CVE-2021-33624 | Proof of Concept for CVE-2021-33624 | https://github.com/Kakashiiiiy/CVE-2021-33624 | | 
+| 20210625T22:20:31Z | CVE-2021-33624 | Proof of Concept for CVE-2021-33624 | https://github.com/Kakashiiiiy/CVE-2021-33624 | In kernel/bpf/verifier.c in the Linux kernel before 5.12.13, a branch can be mispredicted (e.g., because of type confusion) and consequently an unprivileged BPF program can read arbitrary memory locations via a side-channel attack, aka CID-9183671af6db.| 
 | 20210625T17:04:01Z | 未知编号 | Null | https://github.com/KZMachine/CVERT-2021 | 未查询到CVE信息| 
 | 20210625T10:42:06Z | CVE-2020-3580 | Null | https://github.com/Hudi233/CVE-2020-3580 | Multiple vulnerabilities in the web services interface of Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software could allow an unauthenticated, remote attacker to conduct cross-site scripting (XSS) attacks against a user of the web services interface of an affected device. The vulnerabilities are due to insufficient validation of user-supplied input by the web services interface of an affected device. An attacker could exploit these vulnerabilities by persuading a user of the interface to click a crafted link. A successful exploit could allow the attacker to execute arbitrary script code in the context of the interface or allow the attacker to access sensitive, browser-based information. Note: These vulnerabilities affect only specific AnyConnect and WebVPN configurations. For more information, see the Vulnerable Products section.| 
 | 20210625T08:59:55Z | CVE-2021-35448 | Remote Mouse GUI 3.008 - Local Privilege Escalation | https://github.com/deathflash1411/CVE-2021-35448 | Emote Interactive Remote Mouse 3.008 on Windows allows attackers to execute arbitrary programs as Administrator by using the Image Transfer Folder feature to navigate to cmd.exe. It binds to local ports to listen for incoming connections.| 
@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210627T00:37:24Z | Modular C2 framework aiming to ease post exploitation for red teamers.  | https://github.com/CMatri/MeetC2 | 2 | 0| 
 | 20210627T00:34:26Z | Null | https://github.com/eslamXxX156/exploit | 0 | 0| 
 | 20210627T00:23:35Z | Resources for the Kr00k vulnerability (CVE-2019-15126) | https://github.com/raul23/Kr00k | 0 | 0| 
 | 20210627T00:03:05Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 25 | 12| 
@@ -96,9 +97,8 @@
 | 20210626T22:25:11Z | KDMapper is a simple tool that exploits iqvw64e.sys Intel driver to manually map non-signed drivers in memory | https://github.com/TheCruZ/kdmapper | 296 | 114| 
 | 20210626T22:07:59Z | Writeup for exploit.education/nebula | https://github.com/vi11ain/nebula-writeup | 1 | 0| 
 | 20210626T21:56:54Z | MCAtlas changes relating to Towny, including Towny exploit fix, general messages, etc. | https://github.com/Ruinscraft/mcatlas-towny-helpers | 0 | 0| 
-| 20210626T21:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9598 | 1569| 
+| 20210626T21:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9598 | 1570| 
 | 20210626T20:55:19Z | Windows 7 Professional 7601 Service Pack 1 is vulnerable to eternalblue exploit and while exploiting this myself i ran into a number of issues . So , now i will show you how to exploit it without using metasploit . | https://github.com/AnikateSawhney/Pwning_Blue_From_HTB_Without_Metasploit | 0 | 0| 
-| 20210626T19:44:57Z | Makes it so that you can craft ores, non OP (cannot be exploited with Fortune). (Datapack) | https://github.com/zaydam1000000/craftable_ores | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -149,6 +149,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210627T00:33:49Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210627T00:12:14Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210627T00:07:24Z | Null | https://github.com/mborroni/fuzzy-umbrella | 0 | 0| 
 | 20210626T23:55:05Z | Null | https://github.com/saxtro/fuzzy-system | 0 | 0| 
@@ -158,7 +159,6 @@
 | 20210626T22:43:48Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6417 | 1303| 
 | 20210626T22:29:53Z | Tool for fuzzing with style 👌 | https://github.com/essentialkaos/fz | 1 | 0| 
 | 20210626T19:45:52Z | Null | https://github.com/paveltodorov/Fuzzy-Contrast-Intensification | 0 | 0| 
-| 20210626T19:38:52Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
 
 
 
