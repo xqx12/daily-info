@@ -149,6 +149,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210627T00:43:37Z | Null | https://github.com/opimentel-github/fuzzy-torch | 1 | 0| 
 | 20210627T00:33:49Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210627T00:12:14Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210627T00:07:24Z | Null | https://github.com/mborroni/fuzzy-umbrella | 0 | 0| 
@@ -158,7 +159,6 @@
 | 20210626T22:58:29Z | Null | https://github.com/DanielEbert/EmulatedFirmwareFuzzing | 0 | 0| 
 | 20210626T22:43:48Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6417 | 1303| 
 | 20210626T22:29:53Z | Tool for fuzzing with style 👌 | https://github.com/essentialkaos/fz | 1 | 0| 
-| 20210626T19:45:52Z | Null | https://github.com/paveltodorov/Fuzzy-Contrast-Intensification | 0 | 0| 
 
 
 
