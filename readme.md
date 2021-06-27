@@ -81,7 +81,6 @@
 | --- | --- | --- | --- | ---| 
 | 20210626T23:55:05Z | Null | https://github.com/saxtro/fuzzy-system | 0 | 0| 
 | 20210626T23:51:43Z | Null | https://github.com/bhattacharjee/fuzzy-funicular | 0 | 0| 
-| 20210626T23:43:31Z | Null | https://github.com/Sambigeara/fuzzynote | 257 | 3| 
 | 20210626T22:58:29Z | Null | https://github.com/DanielEbert/EmulatedFirmwareFuzzing | 0 | 0| 
 | 20210626T22:43:48Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6417 | 1303| 
 | 20210626T22:29:53Z | Tool for fuzzing with style 👌 | https://github.com/essentialkaos/fz | 1 | 0| 
@@ -89,6 +88,7 @@
 | 20210626T19:38:52Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
 | 20210626T18:50:28Z | libFuzzer-based JavaScript fuzzing using Bellard%s QuickJS. | https://github.com/guidovranken/libfuzzer-js | 69 | 9| 
 | 20210626T18:42:55Z | Simple Fuzzer built from BNF grammar | https://github.com/saikumar208/sqlFuzz | 1 | 0| 
+| 20210626T17:08:05Z | Null | https://github.com/jan-golda/PW-FuzzyController | 0 | 0| 
 
 
 
