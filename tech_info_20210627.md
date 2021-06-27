@@ -38,7 +38,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210627T12:56:12Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 66 | 22| 
+| 20210627T12:57:55Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 66 | 22| 
 | 20210627T12:35:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9598 | 1571| 
 | 20210627T12:33:29Z | Exploiting Fast LCF and BERT for Aspect-based Sentiment Analysis Research | https://github.com/yangheng95/PyABSA | 113 | 19| 
 | 20210627T12:28:18Z | Exploit distribution system for A&D competitions | https://github.com/pomo-mondreganto/neo | 1 | 1| 
