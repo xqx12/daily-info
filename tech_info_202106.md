@@ -51,8 +51,8 @@
 | 20210627T04:48:33Z | CVE-2020-10558 | TESLA MODEL 3 HACK | https://github.com/AmazingOut/Tesla-CVE-2020-10558 | The driving interface of Tesla Model 3 vehicles in any release before 2020.4.10 allows Denial of Service to occur due to improper process separation, which allows attackers to disable the speedometer, web browser, climate controls, turn signal visual and sounds, navigation, autopilot notifications, along with other miscellaneous functions from the main screen.| 
 | 20210627T04:38:20Z | CVE-2021-32537 | PoC for CVE-2021-32537: an out-of-bounds memory access that leads to pool corruption in the Windows kernel. | https://github.com/0vercl0k/CVE-2021-32537 | 未查询到CVE信息| 
 | 20210626T11:27:28Z | CVE-2021-35475 | Writeup for CVE-2021-35475; Stored Cross-Site Scripting(XSS) on SAS® Environment Manager 2.5 | https://github.com/saitamang/CVE-2021-35475 | SAS Environment Manager 2.5 allows XSS through the Name field when creating/editing a server. The XSS will prompt when editing the Configuration Properties.| 
-| 20210625T22:20:31Z | CVE-2021-33624 | Proof of Concept for CVE-2021-33624 | https://github.com/Kakashiiiiy/CVE-2021-33624 | | 
-| 20210625T17:04:01Z | 未知编号 | Null | https://github.com/KZMachine/CVERT-2021 | 未查询到CVE信息| 
+| 20210625T22:20:31Z | CVE-2021-33624 | Proof of Concept for CVE-2021-33624 | https://github.com/Kakashiiiiy/CVE-2021-33624 | In kernel/bpf/verifier.c in the Linux kernel before 5.12.13, a branch can be mispredicted (e.g., because of type confusion) and consequently an unprivileged BPF program can read arbitrary memory locations via a side-channel attack, aka CID-9183671af6db.| 
+| 20210625T17:04:01Z | 未知编号 | Null | https://github.com/KZMachine/CVERT-2021 | | 
 | 20210625T10:42:06Z | CVE-2020-3580 | Null | https://github.com/Hudi233/CVE-2020-3580 | Multiple vulnerabilities in the web services interface of Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software could allow an unauthenticated, remote attacker to conduct cross-site scripting (XSS) attacks against a user of the web services interface of an affected device. The vulnerabilities are due to insufficient validation of user-supplied input by the web services interface of an affected device. An attacker could exploit these vulnerabilities by persuading a user of the interface to click a crafted link. A successful exploit could allow the attacker to execute arbitrary script code in the context of the interface or allow the attacker to access sensitive, browser-based information. Note: These vulnerabilities affect only specific AnyConnect and WebVPN configurations. For more information, see the Vulnerable Products section.| 
 | 20210625T08:59:55Z | CVE-2021-35448 | Remote Mouse GUI 3.008 - Local Privilege Escalation | https://github.com/deathflash1411/CVE-2021-35448 | Emote Interactive Remote Mouse 3.008 on Windows allows attackers to execute arbitrary programs as Administrator by using the Image Transfer Folder feature to navigate to cmd.exe. It binds to local ports to listen for incoming connections.| 
 | 20210625T06:11:02Z | CVE-2021-3156 | Null | https://github.com/donghyunlee00/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
@@ -149,9 +149,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210627T12:27:30Z | Null | https://github.com/bhattacharjee/fuzzy-funicular | 0 | 0| 
 | 20210627T12:25:22Z | Null | https://github.com/fuzzsa/fuzzsa-bugs | 0 | 1| 
 | 20210627T12:02:23Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210627T11:55:49Z | Null | https://github.com/bhattacharjee/fuzzy-funicular | 0 | 0| 
 | 20210627T11:55:16Z | This is a tool for fuzzing XSS vulnerabilities based on genetic algorithm. | https://github.com/Timofey21/darlene | 2 | 0| 
 | 20210627T09:44:41Z | Terminal-based, hyper-fast, CRDT-backed, collaborative note-taking tool | https://github.com/Sambigeara/fuzzynote | 264 | 3| 
 | 20210627T09:05:07Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
