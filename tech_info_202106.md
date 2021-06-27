@@ -149,7 +149,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210627T00:03:41Z | Null | https://github.com/mborroni/fuzzy-umbrella | 0 | 0| 
+| 20210627T00:07:24Z | Null | https://github.com/mborroni/fuzzy-umbrella | 0 | 0| 
 | 20210626T23:55:05Z | Null | https://github.com/saxtro/fuzzy-system | 0 | 0| 
 | 20210626T23:51:43Z | Null | https://github.com/bhattacharjee/fuzzy-funicular | 0 | 0| 
 | 20210626T23:43:31Z | Null | https://github.com/Sambigeara/fuzzynote | 257 | 3| 
