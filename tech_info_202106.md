@@ -149,12 +149,12 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210627T12:53:30Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210627T12:51:36Z | Json Fuzzer for Big Data Systems. An extension of BigFuzz, supporting Json typed data.  | https://github.com/LarsRhijns/Json-Fuzzer | 0 | 0| 
 | 20210627T12:48:57Z | Null | https://github.com/DanielEbert/EmulatedFirmwareFuzzing | 0 | 0| 
 | 20210627T12:47:10Z | Null | https://github.com/ventodeco/fuzzy-logic-assignment | 0 | 0| 
 | 20210627T12:37:40Z | Null | https://github.com/bhattacharjee/fuzzy-funicular | 0 | 0| 
 | 20210627T12:25:22Z | Null | https://github.com/fuzzsa/fuzzsa-bugs | 0 | 1| 
-| 20210627T12:02:23Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210627T11:55:16Z | This is a tool for fuzzing XSS vulnerabilities based on genetic algorithm. | https://github.com/Timofey21/darlene | 2 | 0| 
 | 20210627T09:44:41Z | Terminal-based, hyper-fast, CRDT-backed, collaborative note-taking tool | https://github.com/Sambigeara/fuzzynote | 264 | 3| 
 | 20210627T09:05:07Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
