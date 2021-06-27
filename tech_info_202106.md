@@ -149,6 +149,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210627T12:47:10Z | Null | https://github.com/ventodeco/fuzzy-logic-assignment | 0 | 0| 
 | 20210627T12:37:40Z | Null | https://github.com/bhattacharjee/fuzzy-funicular | 0 | 0| 
 | 20210627T12:25:22Z | Null | https://github.com/fuzzsa/fuzzsa-bugs | 0 | 1| 
 | 20210627T12:02:23Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
@@ -158,7 +159,6 @@
 | 20210627T08:27:57Z | DOM fuzzer | https://github.com/mevid93/domzzer | 0 | 0| 
 | 20210627T08:00:48Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 288 | 39| 
 | 20210627T07:41:20Z | precision-error guided fuzz testing for deep learning operators | https://github.com/predoodl/predoo | 10 | 0| 
-| 20210627T07:35:44Z | Fuzzy Watering Control System | https://github.com/fikri221/fuzzy-wcs | 0 | 0| 
 
 
 
