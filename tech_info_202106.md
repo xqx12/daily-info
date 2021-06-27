@@ -89,12 +89,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210627T12:02:51Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 25 | 12| 
+| 20210627T12:00:45Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 66 | 22| 
 | 20210627T11:59:57Z | An open source Roblox Exploit / Script Executor, Join our Discord: https://kokscheats.com/discord | https://github.com/SimcraftLOL/Koks-Roblox-Executor | 1 | 0| 
-| 20210627T11:53:52Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 66 | 22| 
 | 20210627T11:47:51Z | This repository contains hints to exploit and capture flag of  CTF machines from various platforms. this isn%t a detailed walk-through. from some boxes which I hunt. | https://github.com/nibrasmuhamed/CTF-Walkthrough | 0 | 0| 
 | 20210627T11:13:59Z | My Collection of exploits, reverse shells, scripts and more | https://github.com/nop-tech/Pentesting | 2 | 2| 
 | 20210627T11:04:07Z | Null | https://github.com/hxr404/Discord-Console-hacks | 13 | 7| 
-| 20210627T11:02:49Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 25 | 12| 
 | 20210627T10:25:39Z | A little mod I made for my friends in my survival server and keep them from exploiting spectator mode. | https://github.com/North-West-Wind/FabricSurvivalSpectator | 0 | 0| 
 | 20210627T10:17:35Z | Null | https://github.com/rjsu26/Exploit_dev_notes | 0 | 0| 
 | 20210627T09:36:45Z | A roblox server sided anti exploit capable of handling common exploits smoothly. Performance friendly, and reserves resources. The point of this anti exploit is to stop common exploits reliably with minimum performance impact, and rarely cause any false positive related problems. | https://github.com/SilentsReplacement/BoboFighter | 5 | 2| 
@@ -119,6 +119,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210627T10:38:41Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 422 | 62| 
 | 20210626T08:22:56Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 19 | 11| 
 | 20210626T03:49:26Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2366 | 348| 
 | 20210626T02:56:41Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 144 | 33| 
@@ -126,7 +127,6 @@
 | 20210625T13:03:41Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 14 | 3| 
 | 20210625T09:33:24Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1829 | 381| 
 | 20210625T07:16:21Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1722 | 495| 
-| 20210624T22:00:35Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 422 | 62| 
 | 20210624T18:01:57Z | This demo will show how Symbolic Execution solve the problem. | https://github.com/JeffShao96/Symbolic-NS3 | 1 | 3| 
 | 20210623T16:41:20Z | Binsec/Rel is an extension of Binsec that implements relational symbolic execution for constant-time verification and secret-erasure at binary-level. | https://github.com/binsec/Rel | 24 | 1| 
 
@@ -149,9 +149,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210627T12:02:23Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210627T11:55:49Z | Null | https://github.com/bhattacharjee/fuzzy-funicular | 0 | 0| 
 | 20210627T11:55:16Z | This is a tool for fuzzing XSS vulnerabilities based on genetic algorithm. | https://github.com/Timofey21/darlene | 2 | 0| 
-| 20210627T11:01:17Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210627T09:44:41Z | Terminal-based, hyper-fast, CRDT-backed, collaborative note-taking tool | https://github.com/Sambigeara/fuzzynote | 264 | 3| 
 | 20210627T09:05:07Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210627T08:27:57Z | DOM fuzzer | https://github.com/mevid93/domzzer | 0 | 0| 
