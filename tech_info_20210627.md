@@ -76,6 +76,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210627T12:25:22Z | Null | https://github.com/fuzzsa/fuzzsa-bugs | 0 | 1| 
 | 20210627T12:02:23Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210627T11:55:49Z | Null | https://github.com/bhattacharjee/fuzzy-funicular | 0 | 0| 
 | 20210627T11:55:16Z | This is a tool for fuzzing XSS vulnerabilities based on genetic algorithm. | https://github.com/Timofey21/darlene | 2 | 0| 
@@ -85,7 +86,6 @@
 | 20210627T08:00:48Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 288 | 39| 
 | 20210627T07:41:20Z | precision-error guided fuzz testing for deep learning operators | https://github.com/predoodl/predoo | 10 | 0| 
 | 20210627T07:35:44Z | Fuzzy Watering Control System | https://github.com/fikri221/fuzzy-wcs | 0 | 0| 
-| 20210627T05:22:24Z | Null | https://github.com/lizaorsini346/fuzzy-parakeet | 0 | 0| 
 
 
 
