@@ -88,10 +88,10 @@
 | 20210626T22:58:29Z | Null | https://github.com/DanielEbert/EmulatedFirmwareFuzzing | 0 | 0| 
 | 20210626T22:43:48Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6417 | 1303| 
 | 20210626T22:29:53Z | Tool for fuzzing with style 👌 | https://github.com/essentialkaos/fz | 1 | 0| 
-| 20210626T22:01:24Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210626T19:45:52Z | Null | https://github.com/paveltodorov/Fuzzy-Contrast-Intensification | 0 | 0| 
 | 20210626T19:38:52Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
 | 20210626T18:50:28Z | libFuzzer-based JavaScript fuzzing using Bellard%s QuickJS. | https://github.com/guidovranken/libfuzzer-js | 69 | 9| 
+| 20210626T18:42:55Z | Simple Fuzzer built from BNF grammar | https://github.com/saikumar208/sqlFuzz | 1 | 0| 
 
 
 
