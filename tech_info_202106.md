@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210627T12:19:06Z | A basic implementation of a decentralized platform consisting of artists or musicians and the audience where the musicians can share there work directly to the audience across the decentralized platform doing away with the exploitation and revenues of the intermediaries or middlemen involved. | https://github.com/RahulSriv/Decentralized-Music-Store-Blockchain-Project | 0 | 0| 
 | 20210627T12:17:15Z | Null | https://github.com/hxr404/Discord-Console-hacks | 14 | 7| 
 | 20210627T12:13:24Z | iblessing is an iOS security exploiting toolkit, it mainly includes application information collection, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining. | https://github.com/Soulghost/iblessing | 373 | 53| 
 | 20210627T12:09:21Z | An open source Roblox Exploit / Script Executor, Join our Discord: https://kokscheats.com/discord | https://github.com/SimcraftLOL/Koks-Roblox-Executor | 1 | 0| 
@@ -98,7 +99,6 @@
 | 20210627T11:13:59Z | My Collection of exploits, reverse shells, scripts and more | https://github.com/nop-tech/Pentesting | 2 | 2| 
 | 20210627T10:25:39Z | A little mod I made for my friends in my survival server and keep them from exploiting spectator mode. | https://github.com/North-West-Wind/FabricSurvivalSpectator | 0 | 0| 
 | 20210627T10:17:35Z | Null | https://github.com/rjsu26/Exploit_dev_notes | 0 | 0| 
-| 20210627T09:36:45Z | A roblox server sided anti exploit capable of handling common exploits smoothly. Performance friendly, and reserves resources. The point of this anti exploit is to stop common exploits reliably with minimum performance impact, and rarely cause any false positive related problems. | https://github.com/SilentsReplacement/BoboFighter | 5 | 2| 
 
 
 # backdoor on Github 推荐
