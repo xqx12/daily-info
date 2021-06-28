@@ -149,6 +149,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210628T01:34:39Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210628T01:15:26Z | Null | https://github.com/opimentel-github/fuzzy-tools | 0 | 0| 
 | 20210628T01:10:50Z | Null | https://github.com/shaochangxu/FuzzySearch | 0 | 0| 
 | 20210628T00:57:09Z | A fuzzer without the fuzz (or the wait). | https://github.com/cyberrumor/sitemap | 0 | 0| 
@@ -156,7 +157,6 @@
 | 20210628T00:03:49Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 12 | 6| 
 | 20210627T23:39:45Z | Null | https://github.com/DanielEbert/EmulatedFirmwareFuzzing | 0 | 0| 
 | 20210627T22:47:57Z | Graph neural network for search fuzzy formula model | https://github.com/Apich238/neural-fuzzy-sat-solver | 0 | 0| 
-| 20210627T22:35:14Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210627T22:08:18Z | CBOR codec (in Go) with CBOR tags, Go struct tags (toarray/keyasint/omitempty), float64/32/16, big.Int, and fuzz tested billions of execs for reliable RFC 7049 & RFC 8949.  | https://github.com/fxamacker/cbor | 284 | 21| 
 | 20210627T20:39:44Z | Fuzz testing tool for big data applications using a systematic exploration of higher order mutations. | https://github.com/LvKvA/SysFuzz | 0 | 0| 
 

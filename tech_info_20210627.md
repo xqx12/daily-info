@@ -83,7 +83,6 @@
 | --- | --- | --- | --- | ---| 
 | 20210627T23:39:45Z | Null | https://github.com/DanielEbert/EmulatedFirmwareFuzzing | 0 | 0| 
 | 20210627T22:47:57Z | Graph neural network for search fuzzy formula model | https://github.com/Apich238/neural-fuzzy-sat-solver | 0 | 0| 
-| 20210627T22:35:14Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210627T22:08:18Z | CBOR codec (in Go) with CBOR tags, Go struct tags (toarray/keyasint/omitempty), float64/32/16, big.Int, and fuzz tested billions of execs for reliable RFC 7049 & RFC 8949.  | https://github.com/fxamacker/cbor | 284 | 21| 
 | 20210627T20:39:44Z | Fuzz testing tool for big data applications using a systematic exploration of higher order mutations. | https://github.com/LvKvA/SysFuzz | 0 | 0| 
 | 20210627T19:37:38Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6420 | 1304| 
@@ -91,6 +90,7 @@
 | 20210627T18:14:59Z | Null | https://github.com/Githubber34562/fuzzy-meme | 0 | 0| 
 | 20210627T16:35:18Z | Fuzzy Keyword Search over Encrypted Data in Cloud Computing | https://github.com/zsnero/FuzzyKeywordSearch | 0 | 0| 
 | 20210627T16:27:28Z | Null | https://github.com/Feelinglight/fuzzing_basics | 0 | 0| 
+| 20210627T16:20:21Z | Null | https://github.com/git8951/fuzzing | 0 | 0| 
 
 
 
