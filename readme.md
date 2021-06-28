@@ -18,7 +18,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210627T23:32:42Z | CVE-2021-27850 | A Proof of concept for CVE-2021-27850 affecting Apache Tapestry and leading to unauthencticated remote code execution. | https://github.com/kahla-sec/CVE-2021-27850_POC | A critical unauthenticated remote code execution vulnerability was found all recent versions of Apache Tapestry. The affected versions include 5.4.5, 5.5.0, 5.6.2 and 5.7.0. The vulnerability I have found is a bypass of the fix for CVE-2019-0195. Recap: Before the fix of CVE-2019-0195 it was possible to download arbitrary class files from the classpath by providing a crafted asset file URL. An attacker was able to download the file `AppModule.class` by requesting the URL `http://localhost:8080/assets/something/services/AppModule.class` which contains a HMAC secret key. The fix for that bug was a blacklist filter that checks if the URL ends with `.class`, `.properties` or `.xml`. Bypass: Unfortunately, the blacklist solution can simply be bypassed by appending a `/` at the end of the URL: `http://localhost:8080/assets/something/services/AppModule.class/` The slash is stripped after the blacklist check and the file `AppModule.class` is loaded into the response. This class usually contains the HMAC secret key which is used to sign serialized Java objects. With the knowledge of that key an attacker can sign a Java gadget chain that leads to RCE (e.g. CommonsBeanUtils1 from ysoserial). Solution for this vulnerability: * For Apache Tapestry 5.4.0 to 5.6.1, upgrade to 5.6.2 or later. * For Apache Tapestry 5.7.0, upgrade to 5.7.1 or later.| 
-| 20210627T04:48:33Z | CVE-2020-10558 | TESLA MODEL 3 HACK | https://github.com/AmazingOut/Tesla-CVE-2020-10558 | | 
+| 20210627T04:48:33Z | CVE-2020-10558 | TESLA MODEL 3 HACK | https://github.com/AmazingOut/Tesla-CVE-2020-10558 | The driving interface of Tesla Model 3 vehicles in any release before 2020.4.10 allows Denial of Service to occur due to improper process separation, which allows attackers to disable the speedometer, web browser, climate controls, turn signal visual and sounds, navigation, autopilot notifications, along with other miscellaneous functions from the main screen.| 
 
 
 # klee on Github 推荐
@@ -82,7 +82,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20210627T23:39:45Z | Null | https://github.com/DanielEbert/EmulatedFirmwareFuzzing | 0 | 0| 
-| 20210627T23:06:54Z | Null | https://github.com/opimentel-github/fuzzy-tools | 0 | 0| 
 | 20210627T22:47:57Z | Graph neural network for search fuzzy formula model | https://github.com/Apich238/neural-fuzzy-sat-solver | 0 | 0| 
 | 20210627T22:35:14Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210627T22:08:18Z | CBOR codec (in Go) with CBOR tags, Go struct tags (toarray/keyasint/omitempty), float64/32/16, big.Int, and fuzz tested billions of execs for reliable RFC 7049 & RFC 8949.  | https://github.com/fxamacker/cbor | 284 | 21| 
@@ -91,6 +90,7 @@
 | 20210627T19:14:43Z | Web fuzzer for penetration testing and bruteforcing | https://github.com/aga7hokakological/fuzzWeb | 0 | 0| 
 | 20210627T18:14:59Z | Null | https://github.com/Githubber34562/fuzzy-meme | 0 | 0| 
 | 20210627T16:35:18Z | Fuzzy Keyword Search over Encrypted Data in Cloud Computing | https://github.com/zsnero/FuzzyKeywordSearch | 0 | 0| 
+| 20210627T16:27:28Z | Null | https://github.com/Feelinglight/fuzzing_basics | 0 | 0| 
 
 
 
