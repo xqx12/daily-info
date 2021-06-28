@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210628T01:39:52Z | Modular C2 framework aiming to ease post exploitation for red teamers.  | https://github.com/CMatri/MeetC2 | 2 | 0| 
 | 20210628T01:35:21Z | exploit Huawei ONT device | https://github.com/0neday/Exploit-HS8545M-ONT | 0 | 0| 
 | 20210628T01:34:34Z | Check the conditions for exploiting CVE-2021-23383 through the handlebars library version assessment. | https://github.com/dn9uy3n/Check-CVE-2021-23383 | 0 | 0| 
 | 20210628T01:02:52Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 25 | 12| 
@@ -98,7 +99,6 @@
 | 20210627T23:45:58Z | Resources for the Kr00k vulnerability (CVE-2019-15126) | https://github.com/raul23/Kr00k | 0 | 0| 
 | 20210627T23:43:56Z | Fix exploits on anarchy minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 45 | 11| 
 | 20210627T23:37:34Z | A collection of great discord bugs and exploits. | https://github.com/Passive/discord-exploits | 6 | 0| 
-| 20210627T23:17:28Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9601 | 1571| 
 
 
 # backdoor on Github 推荐
