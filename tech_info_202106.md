@@ -94,7 +94,7 @@
 | 20210628T01:02:52Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 25 | 12| 
 | 20210628T01:01:43Z | Null | https://github.com/Shaddyjr/explore_vs_exploit | 0 | 0| 
 | 20210628T00:11:23Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 66 | 23| 
-| 20210628T00:07:46Z | Exploit MsIo vulnerable driver | https://github.com/kkent030315/MsIoExploit | 1 | 0| 
+| 20210628T00:07:46Z | Exploit MsIo vulnerable driver | https://github.com/kkent030315/MsIoExploit | 1 | 1| 
 | 20210627T23:45:58Z | Resources for the Kr00k vulnerability (CVE-2019-15126) | https://github.com/raul23/Kr00k | 0 | 0| 
 | 20210627T23:43:56Z | Fix exploits on anarchy minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 45 | 11| 
 | 20210627T23:37:34Z | A collection of great discord bugs and exploits. | https://github.com/Passive/discord-exploits | 6 | 0| 
