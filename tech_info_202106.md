@@ -89,6 +89,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210628T01:49:48Z | A convenient script that provides the bare essentials for exploiting such as ESP, freecam and aimbot. | https://github.com/TheDookySoo/Essentials | 1 | 0| 
+| 20210628T01:44:10Z | Null | https://github.com/hxr404/Discord-Console-hacks | 15 | 8| 
 | 20210628T01:39:52Z | Modular C2 framework aiming to ease post exploitation for red teamers.  | https://github.com/CMatri/MeetC2 | 2 | 0| 
 | 20210628T01:35:21Z | exploit Huawei ONT device | https://github.com/0neday/Exploit-HS8545M-ONT | 0 | 0| 
 | 20210628T01:34:34Z | Check the conditions for exploiting CVE-2021-23383 through the handlebars library version assessment. | https://github.com/dn9uy3n/Check-CVE-2021-23383 | 0 | 0| 
@@ -97,8 +99,6 @@
 | 20210628T00:11:23Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 66 | 23| 
 | 20210628T00:07:46Z | Exploit MsIo vulnerable driver | https://github.com/kkent030315/MsIoExploit | 1 | 1| 
 | 20210627T23:45:58Z | Resources for the Kr00k vulnerability (CVE-2019-15126) | https://github.com/raul23/Kr00k | 0 | 0| 
-| 20210627T23:43:56Z | Fix exploits on anarchy minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 45 | 11| 
-| 20210627T23:37:34Z | A collection of great discord bugs and exploits. | https://github.com/Passive/discord-exploits | 6 | 0| 
 
 
 # backdoor on Github 推荐
@@ -149,6 +149,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210628T01:51:59Z | Null | https://github.com/Emelialei88/fuzz | 0 | 0| 
 | 20210628T01:44:35Z | Null | https://github.com/opimentel-github/fuzzy-tools | 0 | 0| 
 | 20210628T01:34:39Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210628T01:10:50Z | Null | https://github.com/shaochangxu/FuzzySearch | 0 | 0| 
@@ -158,7 +159,6 @@
 | 20210627T23:39:45Z | Null | https://github.com/DanielEbert/EmulatedFirmwareFuzzing | 0 | 0| 
 | 20210627T22:47:57Z | Graph neural network for search fuzzy formula model | https://github.com/Apich238/neural-fuzzy-sat-solver | 0 | 0| 
 | 20210627T22:08:18Z | CBOR codec (in Go) with CBOR tags, Go struct tags (toarray/keyasint/omitempty), float64/32/16, big.Int, and fuzz tested billions of execs for reliable RFC 7049 & RFC 8949.  | https://github.com/fxamacker/cbor | 284 | 21| 
-| 20210627T20:39:44Z | Fuzz testing tool for big data applications using a systematic exploration of higher order mutations. | https://github.com/LvKvA/SysFuzz | 0 | 0| 
 
 
 
