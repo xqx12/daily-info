@@ -83,7 +83,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210627T23:54:49Z | Null | https://github.com/kwky/Fuzzing-Assignment | 0 | 0| 
 | 20210627T23:39:45Z | Null | https://github.com/DanielEbert/EmulatedFirmwareFuzzing | 0 | 0| 
 | 20210627T23:06:54Z | Null | https://github.com/opimentel-github/fuzzy-tools | 0 | 0| 
 | 20210627T22:47:57Z | Graph neural network for search fuzzy formula model | https://github.com/Apich238/neural-fuzzy-sat-solver | 0 | 0| 
@@ -93,6 +92,7 @@
 | 20210627T19:37:38Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6420 | 1304| 
 | 20210627T19:14:43Z | Web fuzzer for penetration testing and bruteforcing | https://github.com/aga7hokakological/fuzzWeb | 0 | 0| 
 | 20210627T18:14:59Z | Null | https://github.com/Githubber34562/fuzzy-meme | 0 | 0| 
+| 20210627T16:52:07Z | Null | https://github.com/shaochangxu/FuzzySearch | 0 | 0| 
 
 
 

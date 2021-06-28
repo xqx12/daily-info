@@ -149,9 +149,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210628T00:17:07Z | Null | https://github.com/kwky/Fuzzing-Assignment | 0 | 0| 
 | 20210628T00:11:44Z | A fuzzer without the fuzz (or the wait). | https://github.com/cyberrumor/sitemap | 0 | 0| 
 | 20210628T00:03:49Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 12 | 6| 
-| 20210627T23:54:49Z | Null | https://github.com/kwky/Fuzzing-Assignment | 0 | 0| 
 | 20210627T23:39:45Z | Null | https://github.com/DanielEbert/EmulatedFirmwareFuzzing | 0 | 0| 
 | 20210627T23:06:54Z | Null | https://github.com/opimentel-github/fuzzy-tools | 0 | 0| 
 | 20210627T22:47:57Z | Graph neural network for search fuzzy formula model | https://github.com/Apich238/neural-fuzzy-sat-solver | 0 | 0| 
