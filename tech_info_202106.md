@@ -61,8 +61,8 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210628T12:51:02Z | Null | https://github.com/thierry-tct/KLEE-SEMu | 3 | 2| 
 | 20210628T12:46:37Z | Null | https://github.com/kleelab/kleelab.github.io | 0 | 0| 
-| 20210628T11:43:45Z | Null | https://github.com/thierry-tct/KLEE-SEMu | 3 | 2| 
 | 20210628T05:46:21Z | About Klee | https://github.com/Snowable-GA/Genshin_Impact-Klee | 0 | 0| 
 | 20210628T01:14:23Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 15 | 45| 
 | 20210628T01:13:41Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1723 | 495| 
@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210628T12:51:42Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 17 | 11| 
 | 20210628T12:47:56Z | Null | https://github.com/SiNoCiDe/McAfee-Exploit.Expert.Rules | 0 | 0| 
 | 20210628T12:35:17Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9604 | 1571| 
 | 20210628T12:25:19Z | exploit Huawei ONT device | https://github.com/0neday/Exploit-HS8545M-ONT | 0 | 0| 
@@ -98,7 +99,6 @@
 | 20210628T10:55:25Z | BioCCP.jl exploits the Coupon Collector Problem for sample size determination in combinatorial biotechnology. | https://github.com/kirstvh/BioCCP | 2 | 0| 
 | 20210628T10:49:48Z | Perform buffer overflow vuln testing and exploit | https://github.com/souvikhaldar/goffer | 0 | 0| 
 | 20210628T10:46:18Z | Null | https://github.com/nccgroup/exploit_mitigations | 0 | 0| 
-| 20210628T10:42:02Z | eXploit is designed to perform various social engineering attacks. | https://github.com/agnath18K/eXploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
