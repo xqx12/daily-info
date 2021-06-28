@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210628T00:58:55Z | Null | https://github.com/Shaddyjr/explore_vs_exploit | 0 | 0| 
 | 20210628T00:11:23Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 66 | 23| 
 | 20210628T00:07:46Z | Exploit MsIo vulnerable driver | https://github.com/kkent030315/MsIoExploit | 1 | 0| 
 | 20210628T00:02:55Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 25 | 12| 
@@ -98,7 +99,6 @@
 | 20210627T23:17:28Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9601 | 1571| 
 | 20210627T23:12:31Z | Bcrypt Cracker & Exploitation Toolkit. | https://github.com/duckstroms/poll-bcrypt | 2 | 0| 
 | 20210627T23:07:47Z | Makes it so that you can craft ores, non OP (cannot be exploited with Fortune). (Datapack) | https://github.com/zaydam1000000/craftable_ores | 0 | 0| 
-| 20210627T22:34:06Z | SSRF search vulnerabilities exploitation extended. | https://github.com/duckstroms/ssrf-search | 12 | 3| 
 
 
 # backdoor on Github 推荐
