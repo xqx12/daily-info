@@ -89,7 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210628T00:08:16Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 66 | 23| 
+| 20210628T00:11:23Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 66 | 23| 
 | 20210628T00:07:46Z | Exploit MsIo vulnerable driver | https://github.com/kkent030315/MsIoExploit | 1 | 0| 
 | 20210628T00:02:55Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 25 | 12| 
 | 20210627T23:45:58Z | Resources for the Kr00k vulnerability (CVE-2019-15126) | https://github.com/raul23/Kr00k | 0 | 0| 
@@ -149,8 +149,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210628T00:11:44Z | A fuzzer without the fuzz (or the wait). | https://github.com/cyberrumor/sitemap | 0 | 0| 
 | 20210628T00:03:49Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 12 | 6| 
-| 20210627T23:58:55Z | A fuzzer without the fuzz (or the wait). | https://github.com/cyberrumor/sitemap | 0 | 0| 
 | 20210627T23:54:49Z | Null | https://github.com/kwky/Fuzzing-Assignment | 0 | 0| 
 | 20210627T23:39:45Z | Null | https://github.com/DanielEbert/EmulatedFirmwareFuzzing | 0 | 0| 
 | 20210627T23:06:54Z | Null | https://github.com/opimentel-github/fuzzy-tools | 0 | 0| 
