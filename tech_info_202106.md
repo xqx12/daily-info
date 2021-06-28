@@ -149,6 +149,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210628T12:47:06Z | Null | https://github.com/antdurrant/fuzzy_join_app | 0 | 0| 
 | 20210628T12:43:00Z | Fuzz for sensitive directories without killing the host using ffuf | https://github.com/R0X4R/Fuzzy | 26 | 7| 
 | 20210628T12:39:20Z | Collecting and analyzing various metrics from fuzzing experiments. | https://github.com/unifuzz/metrics | 4 | 1| 
 | 20210628T12:15:16Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 13 | 6| 
@@ -158,7 +159,6 @@
 | 20210628T10:53:51Z | Simple CI program for running fuzzing over TezEdge. | https://github.com/tezedge/fuzzing-ci | 5 | 0| 
 | 20210628T10:37:02Z | An algorithm framework integrating fuzzy decision trees and fuzzy ensemble trees. | https://github.com/ZhaoqingLiu/FuzzyTrees | 0 | 0| 
 | 20210628T10:06:41Z | Null | https://github.com/MTRNord/matrix-rust-sdk-fuzz-target | 0 | 0| 
-| 20210628T09:53:23Z | Fuzzy Extractors in Java | https://github.com/ThexXTURBOXx/FuzzyExtractors | 1 | 0| 
 
 
 
