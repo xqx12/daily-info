@@ -149,8 +149,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210628T12:43:00Z | Fuzz for sensitive directories without killing the host using ffuf | https://github.com/R0X4R/Fuzzy | 26 | 7| 
 | 20210628T12:39:20Z | Collecting and analyzing various metrics from fuzzing experiments. | https://github.com/unifuzz/metrics | 4 | 1| 
-| 20210628T12:34:47Z | Fuzz for sensitive directories without killing the host using ffuf | https://github.com/R0X4R/Fuzzy | 26 | 7| 
 | 20210628T12:15:16Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 13 | 6| 
 | 20210628T12:02:42Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210628T11:50:28Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 133 | 13| 
