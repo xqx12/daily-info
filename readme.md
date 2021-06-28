@@ -57,6 +57,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210628T12:47:56Z | Null | https://github.com/SiNoCiDe/McAfee-Exploit.Expert.Rules | 0 | 0| 
 | 20210628T12:35:17Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9604 | 1571| 
 | 20210628T12:25:19Z | exploit Huawei ONT device | https://github.com/0neday/Exploit-HS8545M-ONT | 0 | 0| 
 | 20210628T12:20:41Z | S3Exploits is a script that automates to find out the AWS misconfigured S3 buckets that can lead pentester to exposed many vulnerabilities (XSS, phishing, site deface, many more). | https://github.com/Aju100/s3-exploit | 2 | 0| 
@@ -66,7 +67,6 @@
 | 20210628T10:49:48Z | Perform buffer overflow vuln testing and exploit | https://github.com/souvikhaldar/goffer | 0 | 0| 
 | 20210628T10:46:18Z | Null | https://github.com/nccgroup/exploit_mitigations | 0 | 0| 
 | 20210628T10:42:02Z | eXploit is designed to perform various social engineering attacks. | https://github.com/agnath18K/eXploit | 0 | 0| 
-| 20210628T10:19:43Z | This repository contains hints to exploit and capture flag of  CTF machines from various platforms. this isn%t a detailed walk-through. from some boxes which I hunt. | https://github.com/nibrasmuhamed/CTF-Walkthrough | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -97,6 +97,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210628T12:50:22Z | Null | https://github.com/Kalakaarboyz1/fuzzgoogle | 0 | 0| 
 | 20210628T12:47:06Z | Null | https://github.com/antdurrant/fuzzy_join_app | 0 | 0| 
 | 20210628T12:43:00Z | Fuzz for sensitive directories without killing the host using ffuf | https://github.com/R0X4R/Fuzzy | 26 | 7| 
 | 20210628T12:39:20Z | Collecting and analyzing various metrics from fuzzing experiments. | https://github.com/unifuzz/metrics | 4 | 1| 
@@ -106,7 +107,6 @@
 | 20210628T11:19:40Z | Null | https://github.com/corootine/fuzzy | 0 | 0| 
 | 20210628T10:53:51Z | Simple CI program for running fuzzing over TezEdge. | https://github.com/tezedge/fuzzing-ci | 5 | 0| 
 | 20210628T10:37:02Z | An algorithm framework integrating fuzzy decision trees and fuzzy ensemble trees. | https://github.com/ZhaoqingLiu/FuzzyTrees | 0 | 0| 
-| 20210628T10:06:41Z | Null | https://github.com/MTRNord/matrix-rust-sdk-fuzz-target | 0 | 0| 
 
 
 
