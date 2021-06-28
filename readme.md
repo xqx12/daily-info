@@ -91,7 +91,7 @@
 | 20210627T19:37:38Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6420 | 1304| 
 | 20210627T19:14:43Z | Web fuzzer for penetration testing and bruteforcing | https://github.com/aga7hokakological/fuzzWeb | 0 | 0| 
 | 20210627T18:14:59Z | Null | https://github.com/Githubber34562/fuzzy-meme | 0 | 0| 
-| 20210627T16:52:07Z | Null | https://github.com/shaochangxu/FuzzySearch | 0 | 0| 
+| 20210627T16:35:18Z | Fuzzy Keyword Search over Encrypted Data in Cloud Computing | https://github.com/zsnero/FuzzyKeywordSearch | 0 | 0| 
 
 
 
