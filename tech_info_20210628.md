@@ -60,7 +60,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210628T23:17:00Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 3698 | 512| 
 | 20210628T23:12:41Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 180 | 11| 
 | 20210628T22:45:08Z | NATSA is the first near-data-processing accelerator for time series analysis based on the Matrix Profile (SCRIMP) algorithm. NATSA exploits modern 3D-stacked High Bandwidth Memory (HBM) to enable efficient and fast matrix profile computation near memory. Described in ICCD 2020 by Fernandez et al. https://people.inf.ethz.ch/omutlu/pub/NATSA_time-series-analysis-near-data_iccd20.pdf | https://github.com/CMU-SAFARI/NATSA | 2 | 0| 
 | 20210628T22:33:56Z | A Cloud-based application that exploits a multitude of virtual machines (VMs) across the UniMelb Research Cloud (Nectar) for harvesting tweets through the Twitter APIs. The application also include a front-end interface for visualizing our analysis and RESTFul API server for data accessing. | https://github.com/yunfeijing/comp90024-assignment-2 | 1 | 0| 
@@ -70,6 +69,7 @@
 | 20210628T21:35:16Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9607 | 1573| 
 | 20210628T20:49:43Z | This was a PSD To HTML Project which was assigned to me by ITSec Pakistan, it is responsive for mobile%s {Max-Width:480px } and desktops {Max-WIdth: 1200px  - 1800px}, it is also a static website, it is made using Media Queries, CSS(Grid & Flexbox ), Advance Property%s, Exploitation of em%s Instead of %%s, rem%s Instead of pixels, HTML5, BootStrap4.  | https://github.com/Taha-Sheikh1/Smart-Life-Project | 1 | 0| 
 | 20210628T20:41:59Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
+| 20210628T20:17:47Z | exploits repo for blox fruits | https://github.com/Partaq/bloxfruits | 0 | 0| 
 
 
 # backdoor on Github 推荐

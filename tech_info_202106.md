@@ -89,22 +89,22 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210629T01:43:10Z | Resources for the Kr00k vulnerability (CVE-2019-15126) | https://github.com/raul23/Kr00k | 0 | 0| 
+| 20210629T01:40:20Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 3699 | 512| 
 | 20210629T01:39:30Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 315 | 46| 
 | 20210629T01:36:57Z | Various scripts to help spike, fuzz and exploit buffer overflows.  | https://github.com/SecuritySaiyan/buffer-overflow | 1 | 0| 
 | 20210629T01:30:50Z | SSRF search vulnerabilities exploitation extended. | https://github.com/duckstroms/ssrf-search | 12 | 3| 
 | 20210629T01:30:05Z | Random lua things for roblox exploiting lolye | https://github.com/DontAltF4/RandomProjects | 0 | 0| 
-| 20210629T01:24:07Z | Resources for the Kr00k vulnerability (CVE-2019-15126) | https://github.com/raul23/Kr00k | 0 | 0| 
 | 20210629T01:14:22Z | Exploitation of Stack-based BufferOverflow vulnerability within x64 Linux ELF binary written in C.  | https://github.com/MagicNT/Stack-BufferOverflow | 0 | 0| 
 | 20210629T01:09:25Z | 1.12.2 continuation of Paper to patch some exploits | https://github.com/moom0o/Papaya | 1 | 2| 
 | 20210629T01:03:05Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 25 | 12| 
 | 20210629T00:51:43Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 17 | 11| 
-| 20210629T00:34:08Z | Roblox exploit DLL using the LBI execution method | https://github.com/deaddlocust/LBI-Base | 8 | 1| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210629T01:20:00Z | Null | https://github.com/0zzam0/backdoor_attack | 0 | 0| 
+| 20210629T01:43:01Z | Null | https://github.com/0zzam0/backdoor_attack | 0 | 0| 
 | 20210629T00:27:18Z | Null | https://github.com/TRehderK/Backdoor | 0 | 0| 
 | 20210628T21:56:07Z | Defending Against Backdoor Attacks Using Robust Covariance Estimation | https://github.com/SewoongLab/spectre-defense | 3 | 0| 
 | 20210628T21:53:37Z | Une simple Backdoor, donnant accés à l%ensemble des fichiers d%un ordinateur. | https://github.com/billythegoat356/F0rs4k3n | 10 | 0| 
