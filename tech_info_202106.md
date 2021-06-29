@@ -104,7 +104,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210629T01:19:33Z | Null | https://github.com/0zzam0/backdoor_attack | 0 | 0| 
+| 20210629T01:20:00Z | Null | https://github.com/0zzam0/backdoor_attack | 0 | 0| 
 | 20210629T00:27:18Z | Null | https://github.com/TRehderK/Backdoor | 0 | 0| 
 | 20210628T21:56:07Z | Defending Against Backdoor Attacks Using Robust Covariance Estimation | https://github.com/SewoongLab/spectre-defense | 3 | 0| 
 | 20210628T21:53:37Z | Une simple Backdoor, donnant accés à l%ensemble des fichiers d%un ordinateur. | https://github.com/billythegoat356/F0rs4k3n | 10 | 0| 
