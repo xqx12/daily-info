@@ -89,13 +89,13 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210629T01:02:14Z | Resources for the Kr00k vulnerability (CVE-2019-15126) | https://github.com/raul23/Kr00k | 0 | 0| 
+| 20210629T01:04:24Z | Resources for the Kr00k vulnerability (CVE-2019-15126) | https://github.com/raul23/Kr00k | 0 | 0| 
+| 20210629T01:03:05Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 25 | 12| 
 | 20210629T00:56:46Z | 1.12.2 continuation of Paper to patch some exploits | https://github.com/moom0o/Papaya | 1 | 2| 
 | 20210629T00:51:43Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 17 | 11| 
 | 20210629T00:34:08Z | Roblox exploit DLL using the LBI execution method | https://github.com/deaddlocust/LBI-Base | 8 | 1| 
 | 20210629T00:19:25Z | 👁️ Tool for Data Extraction and Web Requests. | https://github.com/vLeeH/httpmapper | 16 | 3| 
 | 20210629T00:07:46Z | Null | https://github.com/demilson/WindowsExploit | 0 | 0| 
-| 20210629T00:03:08Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 25 | 12| 
 | 20210629T00:00:54Z | A collection of Windows x32 exploits created while preparing for the OSED certification exam | https://github.com/bmdyy/osed_prep | 0 | 0| 
 | 20210628T23:17:00Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 3698 | 512| 
 | 20210628T23:12:41Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 180 | 11| 
