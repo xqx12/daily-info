@@ -27,11 +27,11 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210629T12:24:50Z | CVE-2021-31955 | Null | https://github.com/mavillon1/CVE-2021-31955-POC | Windows Kernel Information Disclosure Vulnerability| 
-| 20210629T12:20:58Z | CVE-2021-22911 | Pre-Auth Blind NoSQL Injection leading to Remote Code Execution in Rocket Chat 3.12.1 | https://github.com/CsEnox/CVE-2021-22911 | A improper input sanitization vulnerability exists in Rocket.Chat server 3.11, 3.12 & 3.13 that could lead to unauthenticated NoSQL injection, resulting potentially in RCE.| 
+| 20210629T12:20:58Z | CVE-2021-22911 | Pre-Auth Blind NoSQL Injection leading to Remote Code Execution in Rocket Chat 3.12.1 | https://github.com/CsEnox/CVE-2021-22911 | | 
 | 20210629T12:01:41Z | CVE-2020-15368 | How to exploit a vulnerable windows driver. Exploit for AsrDrv104.sys | https://github.com/stong/CVE-2020-15368 | AsrDrv103.sys in the ASRock RGB Driver does not properly restrict access from user space, as demonstrated by triggering a triple fault via a request to zero CR3.| 
 | 20210629T11:28:41Z | CVE-2020-3580 | Null | https://github.com/Hudi233/CVE-2020-3580 | Multiple vulnerabilities in the web services interface of Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software could allow an unauthenticated, remote attacker to conduct cross-site scripting (XSS) attacks against a user of the web services interface of an affected device. The vulnerabilities are due to insufficient validation of user-supplied input by the web services interface of an affected device. An attacker could exploit these vulnerabilities by persuading a user of the interface to click a crafted link. A successful exploit could allow the attacker to execute arbitrary script code in the context of the interface or allow the attacker to access sensitive, browser-based information. Note: These vulnerabilities affect only specific AnyConnect and WebVPN configurations. For more information, see the Vulnerable Products section.| 
 | 20210629T09:12:29Z | CVE-2021-32537 | PoC for CVE-2021-32537: an out-of-bounds memory access that leads to pool corruption in the Windows kernel. | https://github.com/0vercl0k/CVE-2021-32537 | 未查询到CVE信息| 
-| 20210629T06:15:33Z | CVE-2021-27850 | A Proof of concept for CVE-2021-27850 affecting Apache Tapestry and leading to unauthencticated remote code execution. | https://github.com/kahla-sec/CVE-2021-27850_POC | A critical unauthenticated remote code execution vulnerability was found all recent versions of Apache Tapestry. The affected versions include 5.4.5, 5.5.0, 5.6.2 and 5.7.0. The vulnerability I have found is a bypass of the fix for CVE-2019-0195. Recap: Before the fix of CVE-2019-0195 it was possible to download arbitrary class files from the classpath by providing a crafted asset file URL. An attacker was able to download the file `AppModule.class` by requesting the URL `http://localhost:8080/assets/something/services/AppModule.class` which contains a HMAC secret key. The fix for that bug was a blacklist filter that checks if the URL ends with `.class`, `.properties` or `.xml`. Bypass: Unfortunately, the blacklist solution can simply be bypassed by appending a `/` at the end of the URL: `http://localhost:8080/assets/something/services/AppModule.class/` The slash is stripped after the blacklist check and the file `AppModule.class` is loaded into the response. This class usually contains the HMAC secret key which is used to sign serialized Java objects. With the knowledge of that key an attacker can sign a Java gadget chain that leads to RCE (e.g. CommonsBeanUtils1 from ysoserial). Solution for this vulnerability: * For Apache Tapestry 5.4.0 to 5.6.1, upgrade to 5.6.2 or later. * For Apache Tapestry 5.7.0, upgrade to 5.7.1 or later.| 
+| 20210629T06:15:33Z | CVE-2021-27850 | A Proof of concept for CVE-2021-27850 affecting Apache Tapestry and leading to unauthencticated remote code execution. | https://github.com/kahla-sec/CVE-2021-27850_POC | | 
 | 20210629T05:39:49Z | CVE-2021-35475 | Writeup for CVE-2021-35475; Stored Cross-Site Scripting(XSS) on SAS® Environment Manager 2.5 | https://github.com/saitamang/CVE-2021-35475 | SAS Environment Manager 2.5 allows XSS through the Name field when creating/editing a server. The XSS will prompt when editing the Configuration Properties.| 
 
 
@@ -51,11 +51,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210629T12:33:22Z | Null | https://github.com/TheCrazzXz/Exploits-Lab | 0 | 0| 
 | 20210629T12:26:43Z | Command line exploit. Use OS vulnerabilities to spy client connect to a server by opening a file. | https://github.com/MoryokaV/Activity-Exploit | 0 | 0| 
 | 20210629T12:10:20Z | A convenient script that provides the bare essentials for exploiting such as ESP, freecam and aimbot. | https://github.com/TheDookySoo/Essentials | 1 | 0| 
 | 20210629T12:02:59Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 25 | 12| 
 | 20210629T11:53:24Z | 蓝凌OA漏洞利用工具 | https://github.com/yuanhaiGreg/LandrayExploit | 3 | 1| 
-| 20210629T11:42:37Z | Null | https://github.com/TheCrazzXz/Exploits-Lab | 0 | 0| 
 | 20210629T11:23:22Z | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | 0 | 0| 
 | 20210629T11:08:57Z | BioCCP.jl exploits the Coupon Collector Problem for sample size determination in combinatorial biotechnology. | https://github.com/kirstvh/BioCCP | 2 | 0| 
 | 20210629T11:01:45Z | A collection of Windows x32 exploits created while preparing for the OSED certification exam | https://github.com/bmdyy/osed_prep | 0 | 0| 
@@ -66,13 +66,13 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210629T12:26:43Z | A static analysis tool to reveal backdoor threats in Ethereum smart contracts | https://github.com/SmartContractBackdoor/DPiper-tool | 2 | 0| 
 | 20210629T09:13:27Z | A Python module for building botnet ,backdoor or trojan with Telegram control panel | https://github.com/onionj/pybotnet | 2 | 2| 
 | 20210629T07:42:52Z | Code and data of the ACL 2021 paper %Turn the Combination Lock: Learnable Textual Backdoor Attacks via Word Substitution% | https://github.com/thunlp/BkdAtk-LWS | 2 | 0| 
 | 20210629T07:15:00Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 209 | 40| 
 | 20210629T07:01:52Z | Encipher - Generate XOR encoded backdoors using Python | https://github.com/Revise7/Encipher | 0 | 0| 
 | 20210629T06:59:17Z |  SniperSight - Listener, Backdoor & Keylogger Generator Developed & Maintained By revise7 | https://github.com/Revise7/SniperSight | 0 | 0| 
 | 20210629T06:53:03Z | shell backdoor | https://github.com/rabeltester44/reapers | 0 | 0| 
-| 20210629T06:18:06Z | A static analysis tool to reveal backdoor threats in Ethereum smart contracts | https://github.com/SmartContractBackdoor/DPiper-tool | 1 | 0| 
 | 20210629T03:18:26Z | %Socialx% is a Social Engineering And Remote Access Trojan Tool. You can generate fud backdoor and you can embed any file you want inside of the exe file. | https://github.com/AzizKpln/Social_X | 119 | 34| 
 | 20210629T02:40:51Z | Null | https://github.com/ShannonAI/backdoor_nlg | 2 | 2| 
 | 20210629T01:43:01Z | Null | https://github.com/0zzam0/backdoor_attack | 0 | 0| 
