@@ -93,6 +93,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210629T12:06:14Z | Tool for synchronizing saves for games via synchronization services like Dropbox or OwnCloud | https://github.com/manuelVo/fuzzy-robot | 1 | 0| 
 | 20210629T12:00:52Z | a fuzzier graph plotting method | https://github.com/autumnull/fuzzyplot | 0 | 0| 
 | 20210629T11:58:44Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210629T11:50:41Z | Null | https://github.com/danilomachadopires/FuzzyASOC | 0 | 0| 
@@ -102,7 +103,6 @@
 | 20210629T09:35:37Z | Null | https://github.com/lizaorsini346/fuzzy-parakeet | 0 | 0| 
 | 20210629T09:22:04Z | Null | https://github.com/MTRNord/matrix-rust-sdk-fuzz-target | 0 | 0| 
 | 20210629T09:05:14Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3575 | 831| 
-| 20210629T08:42:54Z | Simple CI program for running fuzzing over TezEdge. | https://github.com/tezedge/fuzzing-ci | 5 | 0| 
 
 
 
