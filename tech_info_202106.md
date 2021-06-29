@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210629T12:24:50Z | CVE-2021-31955 | Null | https://github.com/mavillon1/CVE-2021-31955-POC | | 
+| 20210629T12:24:50Z | CVE-2021-31955 | Null | https://github.com/mavillon1/CVE-2021-31955-POC | Windows Kernel Information Disclosure Vulnerability| 
 | 20210629T12:20:58Z | CVE-2021-22911 | Pre-Auth Blind NoSQL Injection leading to Remote Code Execution in Rocket Chat 3.12.1 | https://github.com/CsEnox/CVE-2021-22911 | A improper input sanitization vulnerability exists in Rocket.Chat server 3.11, 3.12 & 3.13 that could lead to unauthenticated NoSQL injection, resulting potentially in RCE.| 
 | 20210629T12:01:41Z | CVE-2020-15368 | How to exploit a vulnerable windows driver. Exploit for AsrDrv104.sys | https://github.com/stong/CVE-2020-15368 | AsrDrv103.sys in the ASRock RGB Driver does not properly restrict access from user space, as demonstrated by triggering a triple fault via a request to zero CR3.| 
 | 20210629T11:28:41Z | CVE-2020-3580 | Null | https://github.com/Hudi233/CVE-2020-3580 | Multiple vulnerabilities in the web services interface of Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software could allow an unauthenticated, remote attacker to conduct cross-site scripting (XSS) attacks against a user of the web services interface of an affected device. The vulnerabilities are due to insufficient validation of user-supplied input by the web services interface of an affected device. An attacker could exploit these vulnerabilities by persuading a user of the interface to click a crafted link. A successful exploit could allow the attacker to execute arbitrary script code in the context of the interface or allow the attacker to access sensitive, browser-based information. Note: These vulnerabilities affect only specific AnyConnect and WebVPN configurations. For more information, see the Vulnerable Products section.| 
@@ -150,8 +150,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210629T12:43:53Z | Tool for synchronizing saves for games via synchronization services like Dropbox or OwnCloud | https://github.com/manuelVo/fuzzy-robot | 1 | 0| 
 | 20210629T12:40:03Z | Null | https://github.com/DanielEbert/EmulatedFirmwareFuzzing | 0 | 0| 
-| 20210629T12:35:31Z | Tool for synchronizing saves for games via synchronization services like Dropbox or OwnCloud | https://github.com/manuelVo/fuzzy-robot | 1 | 0| 
 | 20210629T12:29:40Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6429 | 1308| 
 | 20210629T12:15:12Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 13 | 6| 
 | 20210629T12:00:52Z | a fuzzier graph plotting method | https://github.com/autumnull/fuzzyplot | 0 | 0| 
