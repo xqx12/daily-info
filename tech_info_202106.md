@@ -89,7 +89,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210629T01:30:44Z | SSRF search vulnerabilities exploitation extended. | https://github.com/duckstroms/ssrf-search | 12 | 3| 
+| 20210629T01:39:30Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 315 | 46| 
+| 20210629T01:36:57Z | Various scripts to help spike, fuzz and exploit buffer overflows.  | https://github.com/SecuritySaiyan/buffer-overflow | 1 | 0| 
+| 20210629T01:30:50Z | SSRF search vulnerabilities exploitation extended. | https://github.com/duckstroms/ssrf-search | 12 | 3| 
 | 20210629T01:30:05Z | Random lua things for roblox exploiting lolye | https://github.com/DontAltF4/RandomProjects | 0 | 0| 
 | 20210629T01:24:07Z | Resources for the Kr00k vulnerability (CVE-2019-15126) | https://github.com/raul23/Kr00k | 0 | 0| 
 | 20210629T01:14:22Z | Exploitation of Stack-based BufferOverflow vulnerability within x64 Linux ELF binary written in C.  | https://github.com/MagicNT/Stack-BufferOverflow | 0 | 0| 
@@ -97,8 +99,6 @@
 | 20210629T01:03:05Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 25 | 12| 
 | 20210629T00:51:43Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 17 | 11| 
 | 20210629T00:34:08Z | Roblox exploit DLL using the LBI execution method | https://github.com/deaddlocust/LBI-Base | 8 | 1| 
-| 20210629T00:19:25Z | 👁️ Tool for Data Extraction and Web Requests. | https://github.com/vLeeH/httpmapper | 16 | 3| 
-| 20210629T00:07:46Z | Null | https://github.com/demilson/WindowsExploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -149,6 +149,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210629T01:39:56Z | Null | https://github.com/zhou133712/fuzzy-system | 0 | 0| 
 | 20210629T01:36:57Z | Various scripts to help spike, fuzz and exploit buffer overflows.  | https://github.com/SecuritySaiyan/buffer-overflow | 1 | 0| 
 | 20210629T01:20:59Z | Null | https://github.com/danilomachadopires/FuzzyASOC | 0 | 0| 
 | 20210629T00:35:24Z | Null | https://github.com/opimentel-github/fuzzy-tools | 0 | 0| 
@@ -158,7 +159,6 @@
 | 20210628T22:26:45Z | Fuzzinator Random Testing Framework | https://github.com/renatahodovan/fuzzinator | 177 | 38| 
 | 20210628T21:44:29Z | These tests of libdwarf/dwarfdump include old object files, new ones, and many fuzzed object files. These are the definitive tests that things work.. Most people have no reason to run these tests. | https://github.com/davea42/libdwarf-regressiontests | 0 | 0| 
 | 20210628T21:39:43Z | Fuzzy logic based robot controller using MATLAB Fuzzy Logic Designer and Unity for visualization. | https://github.com/Introvertuoso/robot-controller-fuzzy-logic | 0 | 0| 
-| 20210628T21:05:43Z | Null | https://github.com/paveltodorov/Fuzzy-Contrast-Intensification | 0 | 0| 
 
 
 
