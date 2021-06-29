@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210629T12:35:16Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9609 | 1574| 
 | 20210629T12:33:22Z | Null | https://github.com/TheCrazzXz/Exploits-Lab | 0 | 0| 
 | 20210629T12:26:43Z | Command line exploit. Use OS vulnerabilities to spy client connect to a server by opening a file. | https://github.com/MoryokaV/Activity-Exploit | 0 | 0| 
 | 20210629T12:10:20Z | A convenient script that provides the bare essentials for exploiting such as ESP, freecam and aimbot. | https://github.com/TheDookySoo/Essentials | 1 | 0| 
@@ -99,7 +100,6 @@
 | 20210629T11:08:57Z | BioCCP.jl exploits the Coupon Collector Problem for sample size determination in combinatorial biotechnology. | https://github.com/kirstvh/BioCCP | 2 | 0| 
 | 20210629T11:01:45Z | A collection of Windows x32 exploits created while preparing for the OSED certification exam | https://github.com/bmdyy/osed_prep | 0 | 0| 
 | 20210629T10:40:19Z | this is a complation of all concept attack or bugs that i have read up on and made a too to exploit them | https://github.com/buffkermitisagod/concepts | 0 | 0| 
-| 20210629T10:09:01Z | Null | https://github.com/davidberiro/bunny-flashloan-exploit | 2 | 1| 
 
 
 # backdoor on Github 推荐
