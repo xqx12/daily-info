@@ -33,7 +33,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210628T22:25:51Z | CVE-2020-3580 | Null | https://github.com/Hudi233/CVE-2020-3580 | Multiple vulnerabilities in the web services interface of Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software could allow an unauthenticated, remote attacker to conduct cross-site scripting (XSS) attacks against a user of the web services interface of an affected device. The vulnerabilities are due to insufficient validation of user-supplied input by the web services interface of an affected device. An attacker could exploit these vulnerabilities by persuading a user of the interface to click a crafted link. A successful exploit could allow the attacker to execute arbitrary script code in the context of the interface or allow the attacker to access sensitive, browser-based information. Note: These vulnerabilities affect only specific AnyConnect and WebVPN configurations. For more information, see the Vulnerable Products section.| 
 | 20210628T13:14:44Z | CVE-2021-23383 | Check the conditions for exploiting CVE-2021-23383 through the handlebars library version assessment. | https://github.com/dn9uy3n/Check-CVE-2021-23383 | The package handlebars before 4.7.7 are vulnerable to Prototype Pollution when selecting certain compiling options to compile templates coming from an untrusted source.| 
-| 20210628T09:57:42Z | CVE-2021-32537 | PoC for CVE-2021-32537: an out-of-bounds memory access that leads to pool corruption in the Windows kernel. | https://github.com/0vercl0k/CVE-2021-32537 | | 
+| 20210628T09:57:42Z | CVE-2021-32537 | PoC for CVE-2021-32537: an out-of-bounds memory access that leads to pool corruption in the Windows kernel. | https://github.com/0vercl0k/CVE-2021-32537 | 未查询到CVE信息| 
 | 20210628T09:23:32Z | CVE-2021-31955 | Null | https://github.com/mavillon1/CVE-2021-31955-POC | Windows Kernel Information Disclosure Vulnerability| 
 | 20210628T08:15:06Z | CVE-2020-27368 | TOTOLINK-A702R-V1.0.0-B20161227.1023 Directory Indexing Vulnerability | https://github.com/swzhouu/CVE-2020-27368 | Directory Indexing in Login Portal of Login Portal of TOTOLINK-A702R-V1.0.0-B20161227.1023 allows attacker to access /icons/ directories via GET Parameter.| 
 
@@ -83,9 +83,9 @@
 | 20210628T17:47:44Z | Encipher - Generate XOR encoded backdoors using Python | https://github.com/Revise7/Encipher | 0 | 0| 
 | 20210628T16:17:25Z | %Socialx% is a Social Engineering And Remote Access Trojan Tool. You can generate fud backdoor and you can embed any file you want inside of the exe file. | https://github.com/AzizKpln/Social_X | 118 | 34| 
 | 20210628T15:59:41Z | Examples of how to use backdoors in appium using espresso driver | https://github.com/rajdeepv/appium_backdoors | 2 | 2| 
-| 20210628T13:18:34Z | Null | https://github.com/0zzam0/backdoor_attack | 0 | 0| 
 | 20210628T10:03:46Z | You can make reverse shells ^-^ | https://github.com/6icada/BackDoorAccess | 0 | 0| 
 | 20210628T08:58:19Z | This is a python backdoor project. This is for educational purposes only. | https://github.com/TKLinux966/B4cKD00R | 0 | 0| 
+| 20210628T07:48:33Z | kumpulan shell backdoor | https://github.com/anggixxx1/backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
