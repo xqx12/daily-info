@@ -14,6 +14,7 @@
 | 20210628 | 2021 年上半年全球勒索软件趋势报告 | https://ti.dbappsecurity.com.cn/blog/articles/2021/06/25/2021-half-year-ramsomware/| 
 | 20210628 | CVE-2021-31955 Windows 内核信息泄露漏洞 PoC | https://github.com/mavillon1/CVE-2021-31955-POC| 
 | 20210628 | Blocking Remote Memory Forensics Like An EDR | https://passthehashbrowns.github.io/blocking-remote-memory-forensics/| 
+| 20210628 | 【Black Hat Asia 2021系列分享】从算法到寄存器探索苹果神经网络引擎. | https://paper.seebug.org/1617/| 
 
 
 # 安全维基 推荐
@@ -30,19 +31,24 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210628T09:59:37Z | CVE-2020-3580 | Null | https://github.com/Hudi233/CVE-2020-3580 | Multiple vulnerabilities in the web services interface of Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software could allow an unauthenticated, remote attacker to conduct cross-site scripting (XSS) attacks against a user of the web services interface of an affected device. The vulnerabilities are due to insufficient validation of user-supplied input by the web services interface of an affected device. An attacker could exploit these vulnerabilities by persuading a user of the interface to click a crafted link. A successful exploit could allow the attacker to execute arbitrary script code in the context of the interface or allow the attacker to access sensitive, browser-based information. Note: These vulnerabilities affect only specific AnyConnect and WebVPN configurations. For more information, see the Vulnerable Products section.| 
+| 20210628T22:25:51Z | CVE-2020-3580 | Null | https://github.com/Hudi233/CVE-2020-3580 | Multiple vulnerabilities in the web services interface of Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software could allow an unauthenticated, remote attacker to conduct cross-site scripting (XSS) attacks against a user of the web services interface of an affected device. The vulnerabilities are due to insufficient validation of user-supplied input by the web services interface of an affected device. An attacker could exploit these vulnerabilities by persuading a user of the interface to click a crafted link. A successful exploit could allow the attacker to execute arbitrary script code in the context of the interface or allow the attacker to access sensitive, browser-based information. Note: These vulnerabilities affect only specific AnyConnect and WebVPN configurations. For more information, see the Vulnerable Products section.| 
+| 20210628T14:41:25Z | CVE-2021-27850 | A Proof of concept for CVE-2021-27850 affecting Apache Tapestry and leading to unauthencticated remote code execution. | https://github.com/kahla-sec/CVE-2021-27850_POC | A critical unauthenticated remote code execution vulnerability was found all recent versions of Apache Tapestry. The affected versions include 5.4.5, 5.5.0, 5.6.2 and 5.7.0. The vulnerability I have found is a bypass of the fix for CVE-2019-0195. Recap: Before the fix of CVE-2019-0195 it was possible to download arbitrary class files from the classpath by providing a crafted asset file URL. An attacker was able to download the file `AppModule.class` by requesting the URL `http://localhost:8080/assets/something/services/AppModule.class` which contains a HMAC secret key. The fix for that bug was a blacklist filter that checks if the URL ends with `.class`, `.properties` or `.xml`. Bypass: Unfortunately, the blacklist solution can simply be bypassed by appending a `/` at the end of the URL: `http://localhost:8080/assets/something/services/AppModule.class/` The slash is stripped after the blacklist check and the file `AppModule.class` is loaded into the response. This class usually contains the HMAC secret key which is used to sign serialized Java objects. With the knowledge of that key an attacker can sign a Java gadget chain that leads to RCE (e.g. CommonsBeanUtils1 from ysoserial). Solution for this vulnerability: * For Apache Tapestry 5.4.0 to 5.6.1, upgrade to 5.6.2 or later. * For Apache Tapestry 5.7.0, upgrade to 5.7.1 or later.| 
+| 20210628T13:14:44Z | CVE-2021-23383 | Check the conditions for exploiting CVE-2021-23383 through the handlebars library version assessment. | https://github.com/dn9uy3n/Check-CVE-2021-23383 | The package handlebars before 4.7.7 are vulnerable to Prototype Pollution when selecting certain compiling options to compile templates coming from an untrusted source.| 
 | 20210628T09:57:42Z | CVE-2021-32537 | PoC for CVE-2021-32537: an out-of-bounds memory access that leads to pool corruption in the Windows kernel. | https://github.com/0vercl0k/CVE-2021-32537 | 未查询到CVE信息| 
 | 20210628T09:23:32Z | CVE-2021-31955 | Null | https://github.com/mavillon1/CVE-2021-31955-POC | Windows Kernel Information Disclosure Vulnerability| 
-| 20210628T08:16:39Z | CVE-2021-27850 | A Proof of concept for CVE-2021-27850 affecting Apache Tapestry and leading to unauthencticated remote code execution. | https://github.com/kahla-sec/CVE-2021-27850_POC | A critical unauthenticated remote code execution vulnerability was found all recent versions of Apache Tapestry. The affected versions include 5.4.5, 5.5.0, 5.6.2 and 5.7.0. The vulnerability I have found is a bypass of the fix for CVE-2019-0195. Recap: Before the fix of CVE-2019-0195 it was possible to download arbitrary class files from the classpath by providing a crafted asset file URL. An attacker was able to download the file `AppModule.class` by requesting the URL `http://localhost:8080/assets/something/services/AppModule.class` which contains a HMAC secret key. The fix for that bug was a blacklist filter that checks if the URL ends with `.class`, `.properties` or `.xml`. Bypass: Unfortunately, the blacklist solution can simply be bypassed by appending a `/` at the end of the URL: `http://localhost:8080/assets/something/services/AppModule.class/` The slash is stripped after the blacklist check and the file `AppModule.class` is loaded into the response. This class usually contains the HMAC secret key which is used to sign serialized Java objects. With the knowledge of that key an attacker can sign a Java gadget chain that leads to RCE (e.g. CommonsBeanUtils1 from ysoserial). Solution for this vulnerability: * For Apache Tapestry 5.4.0 to 5.6.1, upgrade to 5.6.2 or later. * For Apache Tapestry 5.7.0, upgrade to 5.7.1 or later.| 
 | 20210628T08:15:06Z | CVE-2020-27368 | TOTOLINK-A702R-V1.0.0-B20161227.1023 Directory Indexing Vulnerability | https://github.com/swzhouu/CVE-2020-27368 | Directory Indexing in Login Portal of Login Portal of TOTOLINK-A702R-V1.0.0-B20161227.1023 allows attacker to access /icons/ directories via GET Parameter.| 
-| 20210628T01:34:34Z | CVE-2021-23383 | Check the conditions for exploiting CVE-2021-23383 through the handlebars library version assessment. | https://github.com/dn9uy3n/Check-CVE-2021-23383 | The package handlebars before 4.7.7 are vulnerable to Prototype Pollution when selecting certain compiling options to compile templates coming from an untrusted source.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210628T12:51:02Z | Null | https://github.com/thierry-tct/KLEE-SEMu | 3 | 2| 
-| 20210628T12:46:37Z | Null | https://github.com/kleelab/kleelab.github.io | 0 | 0| 
+| 20210628T23:29:02Z | Null | https://github.com/JaimePSantos/ResearchKlee | 0 | 0| 
+| 20210628T20:40:02Z | Null | https://github.com/thierry-tct/KLEE-SEMu | 3 | 2| 
+| 20210628T18:37:37Z | C library to support Map2Check Tool | https://github.com/hbgit/map2check-library | 0 | 0| 
+| 20210628T17:09:44Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 10 | 1| 
+| 20210628T14:40:11Z | Null | https://github.com/kleelab/kleelab.github.io | 0 | 0| 
+| 20210628T14:20:17Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 151 | 14| 
+| 20210628T13:50:17Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 684 | 15| 
 | 20210628T05:46:21Z | About Klee | https://github.com/Snowable-GA/Genshin_Impact-Klee | 0 | 0| 
 | 20210628T01:14:23Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 15 | 45| 
 | 20210628T01:13:41Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1723 | 495| 
@@ -57,26 +63,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210628T12:56:48Z | AIPRO (Anytime Informed Path Replanner and Optimizer) allows the robot to move in dynamic environments. Its goal is to replan the robot%s current path to avoid mobile obstacles and/or to optimize it. To do this, it exploits a set of paths computed offline and switches between them to find a solution. | https://github.com/JRL-CARI-CNR-UNIBS/online_replanner | 0 | 0| 
-| 20210628T12:51:42Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 17 | 11| 
-| 20210628T12:47:56Z | Null | https://github.com/SiNoCiDe/McAfee-Exploit.Expert.Rules | 0 | 0| 
-| 20210628T12:35:17Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9604 | 1571| 
-| 20210628T12:25:19Z | exploit Huawei ONT device | https://github.com/0neday/Exploit-HS8545M-ONT | 0 | 0| 
-| 20210628T12:20:41Z | S3Exploits is a script that automates to find out the AWS misconfigured S3 buckets that can lead pentester to exposed many vulnerabilities (XSS, phishing, site deface, many more). | https://github.com/Aju100/s3-exploit | 2 | 0| 
-| 20210628T12:02:56Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 25 | 12| 
-| 20210628T11:29:08Z | Exploit geliştirme 101 | https://github.com/SaykQ-system/Exploit-development-101 | 0 | 0| 
-| 20210628T10:55:25Z | BioCCP.jl exploits the Coupon Collector Problem for sample size determination in combinatorial biotechnology. | https://github.com/kirstvh/BioCCP | 2 | 0| 
-| 20210628T10:49:48Z | Perform buffer overflow vuln testing and exploit | https://github.com/souvikhaldar/goffer | 0 | 0| 
+| 20210628T23:51:31Z | 1.12.2 continuation of Paper to patch some exploits | https://github.com/moom0o/Papaya | 1 | 2| 
+| 20210628T23:17:00Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 3698 | 512| 
+| 20210628T23:12:41Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 180 | 11| 
+| 20210628T23:02:54Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 25 | 12| 
+| 20210628T22:45:08Z | NATSA is the first near-data-processing accelerator for time series analysis based on the Matrix Profile (SCRIMP) algorithm. NATSA exploits modern 3D-stacked High Bandwidth Memory (HBM) to enable efficient and fast matrix profile computation near memory. Described in ICCD 2020 by Fernandez et al. https://people.inf.ethz.ch/omutlu/pub/NATSA_time-series-analysis-near-data_iccd20.pdf | https://github.com/CMU-SAFARI/NATSA | 2 | 0| 
+| 20210628T22:33:56Z | A Cloud-based application that exploits a multitude of virtual machines (VMs) across the UniMelb Research Cloud (Nectar) for harvesting tweets through the Twitter APIs. The application also include a front-end interface for visualizing our analysis and RESTFul API server for data accessing. | https://github.com/yunfeijing/comp90024-assignment-2 | 1 | 0| 
+| 20210628T22:33:40Z | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | 6424 | 1483| 
+| 20210628T22:16:27Z | Null | https://github.com/faizxn/events-exploit-logs | 0 | 0| 
+| 20210628T21:38:48Z | Shader script for Roblox exploits. | https://github.com/LegitH3x0R/HackerShader | 0 | 0| 
+| 20210628T21:35:16Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9607 | 1573| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210628T21:56:07Z | Defending Against Backdoor Attacks Using Robust Covariance Estimation | https://github.com/SewoongLab/spectre-defense | 3 | 0| 
+| 20210628T21:53:37Z | Une simple Backdoor, donnant accés à l%ensemble des fichiers d%un ordinateur. | https://github.com/billythegoat356/F0rs4k3n | 10 | 0| 
+| 20210628T21:41:23Z | A Python module for building botnet ,backdoor or trojan with Telegram control panel | https://github.com/onionj/pybotnet | 2 | 2| 
+| 20210628T19:59:31Z | Null | https://github.com/TRehderK/Backdoor | 0 | 0| 
+| 20210628T19:57:55Z | Arsnick is a Python IRC Bot/Backdoor written in Python | https://github.com/netzwerk/Arsnick | 0 | 0| 
+| 20210628T17:47:44Z | Encipher - Generate XOR encoded backdoors using Python | https://github.com/Revise7/Encipher | 0 | 0| 
+| 20210628T16:17:25Z | %Socialx% is a Social Engineering And Remote Access Trojan Tool. You can generate fud backdoor and you can embed any file you want inside of the exe file. | https://github.com/AzizKpln/Social_X | 118 | 34| 
+| 20210628T15:59:41Z | Examples of how to use backdoors in appium using espresso driver | https://github.com/rajdeepv/appium_backdoors | 2 | 2| 
+| 20210628T13:18:34Z | Null | https://github.com/0zzam0/backdoor_attack | 0 | 0| 
 | 20210628T10:03:46Z | You can make reverse shells ^-^ | https://github.com/6icada/BackDoorAccess | 0 | 0| 
-| 20210628T09:29:27Z | Une simple Backdoor, donnant accés à l%ensemble des fichiers d%un ordinateur. | https://github.com/billythegoat356/F0rs4k3n | 6 | 0| 
-| 20210628T08:58:19Z | This is a python backdoor project. This is for educational purposes only. | https://github.com/TKLinux966/B4cKD00R | 0 | 0| 
-| 20210628T07:48:33Z | kumpulan shell backdoor | https://github.com/anggixxx1/backdoor | 0 | 0| 
-| 20210628T07:25:02Z | Adversarial Backdoor Attack | https://github.com/ZQ-Struggle/AdvDoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -97,16 +108,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210628T12:50:57Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 133 | 13| 
-| 20210628T12:50:22Z | Null | https://github.com/Kalakaarboyz1/fuzzgoogle | 0 | 0| 
-| 20210628T12:47:06Z | Null | https://github.com/antdurrant/fuzzy_join_app | 0 | 0| 
-| 20210628T12:43:00Z | Fuzz for sensitive directories without killing the host using ffuf | https://github.com/R0X4R/Fuzzy | 26 | 7| 
-| 20210628T12:39:20Z | Collecting and analyzing various metrics from fuzzing experiments. | https://github.com/unifuzz/metrics | 4 | 1| 
-| 20210628T12:15:16Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 13 | 6| 
-| 20210628T12:02:42Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210628T11:19:40Z | Null | https://github.com/corootine/fuzzy | 0 | 0| 
-| 20210628T10:53:51Z | Simple CI program for running fuzzing over TezEdge. | https://github.com/tezedge/fuzzing-ci | 5 | 0| 
-| 20210628T10:37:02Z | An algorithm framework integrating fuzzy decision trees and fuzzy ensemble trees. | https://github.com/ZhaoqingLiu/FuzzyTrees | 0 | 0| 
+| 20210628T23:31:55Z | Recipe book that produces recipes based on user input of given ingredients. | https://github.com/DominicYoung1/fuzzy-octo-garbanzo | 0 | 0| 
+| 20210628T22:42:21Z | Null | https://github.com/tezedge/tezedge-fuzzing | 1 | 0| 
+| 20210628T22:26:45Z | Fuzzinator Random Testing Framework | https://github.com/renatahodovan/fuzzinator | 177 | 38| 
+| 20210628T21:44:29Z | These tests of libdwarf/dwarfdump include old object files, new ones, and many fuzzed object files. These are the definitive tests that things work.. Most people have no reason to run these tests. | https://github.com/davea42/libdwarf-regressiontests | 0 | 0| 
+| 20210628T21:39:43Z | Fuzzy logic based robot controller using MATLAB Fuzzy Logic Designer and Unity for visualization. | https://github.com/Introvertuoso/robot-controller-fuzzy-logic | 0 | 0| 
+| 20210628T21:05:43Z | Null | https://github.com/paveltodorov/Fuzzy-Contrast-Intensification | 0 | 0| 
+| 20210628T20:45:36Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6426 | 1306| 
+| 20210628T20:39:11Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 134 | 13| 
+| 20210628T20:01:27Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20210628T19:46:24Z | Null | https://github.com/corootine/fuzzy | 0 | 0| 
 
 
 
