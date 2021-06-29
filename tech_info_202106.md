@@ -149,6 +149,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210629T01:20:59Z | Null | https://github.com/danilomachadopires/FuzzyASOC | 0 | 0| 
 | 20210629T00:35:24Z | Null | https://github.com/opimentel-github/fuzzy-tools | 0 | 0| 
 | 20210629T00:04:12Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 13 | 6| 
 | 20210628T23:31:55Z | Recipe book that produces recipes based on user input of given ingredients. | https://github.com/DominicYoung1/fuzzy-octo-garbanzo | 0 | 0| 
@@ -158,7 +159,6 @@
 | 20210628T21:39:43Z | Fuzzy logic based robot controller using MATLAB Fuzzy Logic Designer and Unity for visualization. | https://github.com/Introvertuoso/robot-controller-fuzzy-logic | 0 | 0| 
 | 20210628T21:05:43Z | Null | https://github.com/paveltodorov/Fuzzy-Contrast-Intensification | 0 | 0| 
 | 20210628T20:45:36Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6426 | 1306| 
-| 20210628T20:39:11Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 134 | 13| 
 
 
 
