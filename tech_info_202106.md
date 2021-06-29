@@ -89,7 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210629T01:18:32Z | Resources for the Kr00k vulnerability (CVE-2019-15126) | https://github.com/raul23/Kr00k | 0 | 0| 
+| 20210629T01:23:38Z | Resources for the Kr00k vulnerability (CVE-2019-15126) | https://github.com/raul23/Kr00k | 0 | 0| 
 | 20210629T01:14:24Z | Random lua things for roblox exploiting lolye | https://github.com/DontAltF4/RandomProjects | 0 | 0| 
 | 20210629T01:14:22Z | Exploitation of Stack-based BufferOverflow vulnerability within x64 Linux ELF binary written in C.  | https://github.com/MagicNT/Stack-BufferOverflow | 0 | 0| 
 | 20210629T01:09:25Z | 1.12.2 continuation of Paper to patch some exploits | https://github.com/moom0o/Papaya | 1 | 2| 
