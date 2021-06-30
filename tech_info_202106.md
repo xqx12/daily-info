@@ -52,7 +52,7 @@
 | 20210629T21:09:43Z | CVE-2021-3560 | Null | https://github.com/AssassinUKG/Polkit-CVE-2021-3560 | 未查询到CVE信息| 
 | 20210629T16:34:11Z | 未知编号 |  Microsoft  acknowledged a critical remote code execution  vulnerability (CVE – 2020 - 1350) existing in  Windows Domain Name System (DNS) when it  fails to properly handle requests. An adversary  who successfully exploits the vulnerability could  run arbitrary code or malicious code in the  context of the Local System Account. And this  vulnerability rests on the DNS client while it  handles specific requests. This means that an  attacker who does not perform an  authentication can gain control of an account  that exists locally on the system, even remotely.  This will allow the host to reach a complete  compromise. T | https://github.com/ejlevin99/CVE---2020---1350 | 未查询到CVE信息| 
 | 20210629T15:10:28Z | cve-2021-22214 | Gitlab SSRF | https://github.com/Vulnmachines/gitlab-cve-2021-22214 | When requests to the internal network for webhooks are enabled, a server-side request forgery vulnerability in GitLab CE/EE affecting all versions starting from 10.5 was possible to exploit for an unauthenticated attacker even on a GitLab instance where registration is limited| 
-| 20210629T14:26:28Z | CVE-2021-1675 | CVE-2021-1675 exploit | https://github.com/yu2u/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
+| 20210629T14:26:28Z | CVE-2021-1675 | CVE-2021-1675 exploit | https://github.com/yu2u/CVE-2021-1675 | | 
 | 20210629T13:44:10Z | CVE-2021-31955 | Null | https://github.com/mavillon1/CVE-2021-31955-POC | Windows Kernel Information Disclosure Vulnerability| 
 | 20210629T12:20:58Z | CVE-2021-22911 | Pre-Auth Blind NoSQL Injection leading to Remote Code Execution in Rocket Chat 3.12.1 | https://github.com/CsEnox/CVE-2021-22911 | A improper input sanitization vulnerability exists in Rocket.Chat server 3.11, 3.12 & 3.13 that could lead to unauthenticated NoSQL injection, resulting potentially in RCE.| 
 | 20210629T11:28:41Z | CVE-2020-3580 | Null | https://github.com/Hudi233/CVE-2020-3580 | Multiple vulnerabilities in the web services interface of Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software could allow an unauthenticated, remote attacker to conduct cross-site scripting (XSS) attacks against a user of the web services interface of an affected device. The vulnerabilities are due to insufficient validation of user-supplied input by the web services interface of an affected device. An attacker could exploit these vulnerabilities by persuading a user of the interface to click a crafted link. A successful exploit could allow the attacker to execute arbitrary script code in the context of the interface or allow the attacker to access sensitive, browser-based information. Note: These vulnerabilities affect only specific AnyConnect and WebVPN configurations. For more information, see the Vulnerable Products section.| 
@@ -90,16 +90,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210630T01:02:52Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 25 | 12| 
+| 20210630T00:57:03Z | Microsoft Azure Exploitation Framework | https://github.com/mattrotlevi/lava | 30 | 15| 
 | 20210630T00:51:44Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 17 | 11| 
 | 20210630T00:20:40Z | Various techniques for exploiting Windows | https://github.com/billchaison/Windows-Trix | 6 | 0| 
 | 20210630T00:10:09Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 181 | 11| 
 | 20210630T00:07:50Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9612 | 1576| 
-| 20210630T00:02:55Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 25 | 12| 
 | 20210629T23:29:04Z | Project Carthage is a Roblox Exploit that inspired by code lyoko | https://github.com/DeletedUser0x96/Project-Carthage | 0 | 0| 
 | 20210629T21:57:15Z | learning various heap exploitation techniques | https://github.com/izabela-am/Heap-Exploitation | 0 | 0| 
 | 20210629T21:25:07Z | How to exploit BERT for detecting users% personality type based on some text they have posted, according to the Myers–Briggs Type Indicator (MBTI). | https://github.com/rcantini/BERT_personality_detection | 0 | 0| 
 | 20210629T20:42:28Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 69 | 24| 
-| 20210629T20:36:34Z | Asoiu online exam Telegram bot exploit  | https://github.com/rad1k4l/asoiuexambot-exploit-node | 0 | 0| 
 
 
 # backdoor on Github 推荐
