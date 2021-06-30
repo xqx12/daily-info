@@ -47,16 +47,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210630T12:14:26Z | Knowledge base of exploit mitigations available across numerous  operating systems, architectures and applications and versions. | https://github.com/nccgroup/exploit_mitigations | 5 | 1| 
-| 20210630T12:14:07Z | Null | https://github.com/AnaCosteira/PostExploitTools | 0 | 0| 
+| 20210630T12:38:51Z | The Eclipse Foundation has been a partner in many publicly funded research projects since 2013. We help organizations to successfully create, publish, and sustain an open source software platform, making the results of the research projects available for commercial or public exploitation. | https://github.com/EclipseFdn/eclipse.org-research | 0 | 12| 
+| 20210630T12:35:16Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9614 | 1576| 
+| 20210630T12:32:47Z | Knowledge base of exploit mitigations available across numerous  operating systems, architectures and applications and versions. | https://github.com/nccgroup/exploit_mitigations | 7 | 1| 
+| 20210630T12:27:33Z | Null | https://github.com/AnaCosteira/PostExploitTools | 0 | 0| 
 | 20210630T12:03:51Z | Null | https://github.com/evilbuffer/malware-and-exploitdev-resources | 9 | 1| 
 | 20210630T12:03:11Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 25 | 12| 
 | 20210630T11:36:10Z | learning various heap exploitation techniques | https://github.com/izabela-am/Heap-Exploitation | 0 | 0| 
 | 20210630T11:09:40Z | KoGaMa Cheats / exploits | https://github.com/Hxrpiee/KoGaMa | 1 | 0| 
 | 20210630T11:02:13Z | BioCCP.jl exploits the Coupon Collector Problem for sample size determination in combinatorial biotechnology. | https://github.com/kirstvh/BioCCP | 2 | 0| 
 | 20210630T10:53:05Z | This repository contains hints to exploit and capture flag of  CTF machines from various platforms. this isn%t a detailed walk-through. from some boxes which I hunt. | https://github.com/nibrasmuhamed/CTF-Walkthrough | 0 | 0| 
-| 20210630T10:43:21Z | A convenient script that provides the bare essentials for exploiting such as ESP, freecam and aimbot. | https://github.com/TheDookySoo/Essentials | 1 | 0| 
-| 20210630T10:37:53Z | Null | https://github.com/ColdFusionX/ColdFusionX.github.io | 2 | 3| 
 
 
 # backdoor on Github 推荐
