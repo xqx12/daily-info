@@ -15,6 +15,8 @@
 | 20210629 | G DATA 研究团队发现微软为一个 Rootkit 驱动（Netfilter）签发了合法签名 | https://threatpost.com/microsoft-malicious-rootkit-gaming/167323/| 
 | 20210629 | Adobe Acrobat Reader DC CVE-2020-9715 UAF 漏洞的分析和利用，来自 Exodus Intelligence | https://blog.exodusintel.com/2021/04/20/analysis-of-a-use-after-free-vulnerability-in-adobe-acrobat-reader-dc/?utm_source=rss&utm_medium=rss&utm_campaign=analysis-of-a-use-after-free-vulnerability-in-adobe-acrobat-reader-dc| 
 | 20210629 | Certified Pre-Owned - Abusing Active Directory Certificate Services | https://www.specterops.io/assets/resources/Certified_Pre-Owned.pdf| 
+| 20210629 | REVEN Vulnerability Research Automation Demo | https://blog.tetrane.com/2021/REVEN-Reverse-Engineering-Automation-Demo.html| 
+| 20210629 | 微软官方发布第一个适用于 Windows 11 的 Insider Preview版本。 | https://blogs.windows.com/windows-insider/2021/06/28/announcing-the-first-insider-preview-for-windows-11/| 
 | 20210628 | HITB 会议一篇关于 5G 安全的议题 “5G Networks and Interconnect Threats” | https://conference.hitb.org/hitbsecconf2021ams/materials/D2%20COMMSEC%20-%205G%20Networks%20and%20Interconnect%20Threats%20-%20Martin%20Kacer.pdf| 
 | 20210628 | Low Level PC/Server Attack & Defense | https://darkmentor.com/timeline.html| 
 | 20210628 | Developers Under Attack - 检测攻击者利用包名 “Typosquatting” 问题挖矿的行为 | https://www.vdoo.com/blog/leveraging-typosquatting-crypto-mining/| 
@@ -24,8 +26,6 @@
 | 20210628 | CVE-2021-31955 Windows 内核信息泄露漏洞 PoC | https://github.com/mavillon1/CVE-2021-31955-POC| 
 | 20210628 | Blocking Remote Memory Forensics Like An EDR | https://passthehashbrowns.github.io/blocking-remote-memory-forensics/| 
 | 20210628 | 【Black Hat Asia 2021系列分享】从算法到寄存器探索苹果神经网络引擎. | https://paper.seebug.org/1617/| 
-| 20210625 | iOS Malicious Bit Hunter - iOS App 恶意插件检测引擎 | http://github.com/alipay/ios-malicious-bithunter| 
-| 20210625 | Java 静态分析框架 Soot 使用教程 | https://github.com/noidsirius/SootTutorial| 
 
 
 # 安全维基 推荐
@@ -46,31 +46,31 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210629T12:54:01Z | CVE-2021-31955 | Null | https://github.com/mavillon1/CVE-2021-31955-POC | Windows Kernel Information Disclosure Vulnerability| 
+| 20210629T23:58:09Z | CVE-2021-27850 | A Proof of concept for CVE-2021-27850 affecting Apache Tapestry and leading to unauthencticated remote code execution. | https://github.com/kahla-sec/CVE-2021-27850_POC | | 
+| 20210629T23:53:07Z | CVE-2020-15368 | How to exploit a vulnerable windows driver. Exploit for AsrDrv104.sys | https://github.com/stong/CVE-2020-15368 | AsrDrv103.sys in the ASRock RGB Driver does not properly restrict access from user space, as demonstrated by triggering a triple fault via a request to zero CR3.| 
+| 20210629T23:51:06Z | CVE-2021-1675 | Impacket implementation of CVE-2021-1675 | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
+| 20210629T21:09:43Z | CVE-2021-3560 | Null | https://github.com/AssassinUKG/Polkit-CVE-2021-3560 | 未查询到CVE信息| 
+| 20210629T16:34:11Z | 未知编号 |  Microsoft  acknowledged a critical remote code execution  vulnerability (CVE – 2020 - 1350) existing in  Windows Domain Name System (DNS) when it  fails to properly handle requests. An adversary  who successfully exploits the vulnerability could  run arbitrary code or malicious code in the  context of the Local System Account. And this  vulnerability rests on the DNS client while it  handles specific requests. This means that an  attacker who does not perform an  authentication can gain control of an account  that exists locally on the system, even remotely.  This will allow the host to reach a complete  compromise. T | https://github.com/ejlevin99/CVE---2020---1350 | | 
+| 20210629T15:10:28Z | cve-2021-22214 | Gitlab SSRF | https://github.com/Vulnmachines/gitlab-cve-2021-22214 | When requests to the internal network for webhooks are enabled, a server-side request forgery vulnerability in GitLab CE/EE affecting all versions starting from 10.5 was possible to exploit for an unauthenticated attacker even on a GitLab instance where registration is limited| 
+| 20210629T14:26:28Z | CVE-2021-1675 | CVE-2021-1675 exploit | https://github.com/yu2u/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
+| 20210629T13:44:10Z | CVE-2021-31955 | Null | https://github.com/mavillon1/CVE-2021-31955-POC | Windows Kernel Information Disclosure Vulnerability| 
 | 20210629T12:20:58Z | CVE-2021-22911 | Pre-Auth Blind NoSQL Injection leading to Remote Code Execution in Rocket Chat 3.12.1 | https://github.com/CsEnox/CVE-2021-22911 | A improper input sanitization vulnerability exists in Rocket.Chat server 3.11, 3.12 & 3.13 that could lead to unauthenticated NoSQL injection, resulting potentially in RCE.| 
-| 20210629T12:01:41Z | CVE-2020-15368 | How to exploit a vulnerable windows driver. Exploit for AsrDrv104.sys | https://github.com/stong/CVE-2020-15368 | AsrDrv103.sys in the ASRock RGB Driver does not properly restrict access from user space, as demonstrated by triggering a triple fault via a request to zero CR3.| 
 | 20210629T11:28:41Z | CVE-2020-3580 | Null | https://github.com/Hudi233/CVE-2020-3580 | Multiple vulnerabilities in the web services interface of Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software could allow an unauthenticated, remote attacker to conduct cross-site scripting (XSS) attacks against a user of the web services interface of an affected device. The vulnerabilities are due to insufficient validation of user-supplied input by the web services interface of an affected device. An attacker could exploit these vulnerabilities by persuading a user of the interface to click a crafted link. A successful exploit could allow the attacker to execute arbitrary script code in the context of the interface or allow the attacker to access sensitive, browser-based information. Note: These vulnerabilities affect only specific AnyConnect and WebVPN configurations. For more information, see the Vulnerable Products section.| 
-| 20210629T09:12:29Z | CVE-2021-32537 | PoC for CVE-2021-32537: an out-of-bounds memory access that leads to pool corruption in the Windows kernel. | https://github.com/0vercl0k/CVE-2021-32537 | 未查询到CVE信息| 
-| 20210629T06:15:33Z | CVE-2021-27850 | A Proof of concept for CVE-2021-27850 affecting Apache Tapestry and leading to unauthencticated remote code execution. | https://github.com/kahla-sec/CVE-2021-27850_POC | A critical unauthenticated remote code execution vulnerability was found all recent versions of Apache Tapestry. The affected versions include 5.4.5, 5.5.0, 5.6.2 and 5.7.0. The vulnerability I have found is a bypass of the fix for CVE-2019-0195. Recap: Before the fix of CVE-2019-0195 it was possible to download arbitrary class files from the classpath by providing a crafted asset file URL. An attacker was able to download the file `AppModule.class` by requesting the URL `http://localhost:8080/assets/something/services/AppModule.class` which contains a HMAC secret key. The fix for that bug was a blacklist filter that checks if the URL ends with `.class`, `.properties` or `.xml`. Bypass: Unfortunately, the blacklist solution can simply be bypassed by appending a `/` at the end of the URL: `http://localhost:8080/assets/something/services/AppModule.class/` The slash is stripped after the blacklist check and the file `AppModule.class` is loaded into the response. This class usually contains the HMAC secret key which is used to sign serialized Java objects. With the knowledge of that key an attacker can sign a Java gadget chain that leads to RCE (e.g. CommonsBeanUtils1 from ysoserial). Solution for this vulnerability: * For Apache Tapestry 5.4.0 to 5.6.1, upgrade to 5.6.2 or later. * For Apache Tapestry 5.7.0, upgrade to 5.7.1 or later.| 
-| 20210629T05:39:49Z | CVE-2021-35475 | Writeup for CVE-2021-35475; Stored Cross-Site Scripting(XSS) on SAS® Environment Manager 2.5 | https://github.com/saitamang/CVE-2021-35475 | SAS Environment Manager 2.5 allows XSS through the Name field when creating/editing a server. The XSS will prompt when editing the Configuration Properties.| 
-| 20210628T13:14:44Z | CVE-2021-23383 | Check the conditions for exploiting CVE-2021-23383 through the handlebars library version assessment. | https://github.com/dn9uy3n/Check-CVE-2021-23383 | The package handlebars before 4.7.7 are vulnerable to Prototype Pollution when selecting certain compiling options to compile templates coming from an untrusted source.| 
-| 20210628T08:15:06Z | CVE-2020-27368 | TOTOLINK-A702R-V1.0.0-B20161227.1023 Directory Indexing Vulnerability | https://github.com/swzhouu/CVE-2020-27368 | Directory Indexing in Login Portal of Login Portal of TOTOLINK-A702R-V1.0.0-B20161227.1023 allows attacker to access /icons/ directories via GET Parameter.| 
-| 20210627T04:48:33Z | CVE-2020-10558 | TESLA MODEL 3 HACK | https://github.com/AmazingOut/Tesla-CVE-2020-10558 | The driving interface of Tesla Model 3 vehicles in any release before 2020.4.10 allows Denial of Service to occur due to improper process separation, which allows attackers to disable the speedometer, web browser, climate controls, turn signal visual and sounds, navigation, autopilot notifications, along with other miscellaneous functions from the main screen.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210629T23:36:46Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 138 | 21| 
+| 20210629T14:30:31Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 151 | 14| 
 | 20210629T10:42:50Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 685 | 15| 
 | 20210629T00:31:42Z | Null | https://github.com/kleelab/kleelab.github.io | 0 | 0| 
 | 20210628T23:29:02Z | Null | https://github.com/JaimePSantos/ResearchKlee | 0 | 0| 
 | 20210628T20:40:02Z | Null | https://github.com/thierry-tct/KLEE-SEMu | 3 | 2| 
 | 20210628T18:37:37Z | C library to support Map2Check Tool | https://github.com/hbgit/map2check-library | 0 | 0| 
 | 20210628T17:09:44Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 10 | 1| 
-| 20210628T14:20:17Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 151 | 14| 
 | 20210628T05:46:21Z | About Klee | https://github.com/Snowable-GA/Genshin_Impact-Klee | 0 | 0| 
 | 20210628T01:14:23Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 15 | 45| 
-| 20210628T01:13:41Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1723 | 495| 
 
 
 # s2e on Github 推荐
@@ -90,31 +90,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210629T12:54:35Z | Shell script to cover your tracks on UNIX systems. Designed for pen testing %covering tracks% phase, before exiting the infected server. Or, permanently disable system logs for post-exploitation. | https://github.com/sundowndev/covermyass | 115 | 22| 
-| 20210629T12:51:43Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 17 | 11| 
-| 20210629T12:50:03Z | RCE exploit for a .NET JSON deserialization vulnerability in Telerik UI for ASP.NET AJAX. | https://github.com/noperator/CVE-2019-18935 | 195 | 56| 
-| 20210629T12:42:41Z | 蓝凌OA漏洞利用工具 | https://github.com/yuanhaiGreg/LandrayExploit | 4 | 1| 
-| 20210629T12:41:34Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9610 | 1574| 
-| 20210629T12:33:22Z | Null | https://github.com/TheCrazzXz/Exploits-Lab | 0 | 0| 
-| 20210629T12:26:43Z | Command line exploit. Use OS vulnerabilities to spy client connect to a server by opening a file. | https://github.com/MoryokaV/Activity-Exploit | 0 | 0| 
-| 20210629T12:10:20Z | A convenient script that provides the bare essentials for exploiting such as ESP, freecam and aimbot. | https://github.com/TheDookySoo/Essentials | 1 | 0| 
-| 20210629T12:02:59Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 25 | 12| 
-| 20210629T11:23:22Z | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | 0 | 0| 
+| 20210629T23:29:04Z | Project Carthage is a Roblox Exploit that inspired by code lyoko | https://github.com/DeletedUser0x96/Project-Carthage | 0 | 0| 
+| 20210629T23:02:55Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 25 | 12| 
+| 20210629T21:57:15Z | learning various heap exploitation techniques | https://github.com/izabela-am/Heap-Exploitation | 0 | 0| 
+| 20210629T21:35:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9613 | 1576| 
+| 20210629T21:25:07Z | How to exploit BERT for detecting users% personality type based on some text they have posted, according to the Myers–Briggs Type Indicator (MBTI). | https://github.com/rcantini/BERT_personality_detection | 0 | 0| 
+| 20210629T20:42:28Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 69 | 24| 
+| 20210629T20:36:34Z | Asoiu online exam Telegram bot exploit  | https://github.com/rad1k4l/asoiuexambot-exploit-node | 0 | 0| 
+| 20210629T20:32:13Z | Shader script for Roblox exploits. | https://github.com/LegitH3x0R/HackerShader | 0 | 0| 
+| 20210629T20:27:09Z | This project was assigned to me by my teacher, I was instructed to copy the theme of popular online store Daraz PK & also to manipulate it with by using my own creativity skills. It took a week to complete this whole project, furthermore, I exploited BS4, CSS, Media Queries, Font Awesome Icons, etc. | https://github.com/Taha-Sheikh1/Daraz-Pakistan-Project | 1 | 0| 
+| 20210629T20:16:57Z | script to interact with Ethereum, and use it to exploit the service via command injection | https://github.com/lnwza777/Chainsaw- | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210629T23:58:03Z | Null | https://github.com/FierzaEriez/Mini-Shell-Backdoor | 0 | 0| 
+| 20210629T23:49:22Z | Code and data of the ACL 2021 paper %Turn the Combination Lock: Learnable Textual Backdoor Attacks via Word Substitution% | https://github.com/thunlp/BkdAtk-LWS | 3 | 0| 
+| 20210629T22:52:32Z | PHP Backdoor is a web-based application that allows to execute terminal commands on a server directly from a browser. | https://github.com/psyll/PHP-Backdoor | 1 | 0| 
+| 20210629T20:43:43Z | A papermc plugin that allows code execution without any permissions on the server for selected users. | https://github.com/TheSaltyBoys/backdoor-v4 | 0 | 1| 
+| 20210629T18:30:24Z | A minecraft backdoor that uses the Java Discord API (JDA) to combine a discord bot with a minecraft papermc plugin | https://github.com/TheSaltyBoys/Backdoor-v5 | 0 | 0| 
+| 20210629T17:07:02Z | This program will help you to detect errors in a keyboard and it also used as backdoor program. | https://github.com/cyrobotcoder/keylogger | 0 | 0| 
 | 20210629T12:26:43Z | A static analysis tool to reveal backdoor threats in Ethereum smart contracts | https://github.com/SmartContractBackdoor/DPiper-tool | 2 | 0| 
 | 20210629T09:13:27Z | A Python module for building botnet ,backdoor or trojan with Telegram control panel | https://github.com/onionj/pybotnet | 2 | 2| 
-| 20210629T07:42:52Z | Code and data of the ACL 2021 paper %Turn the Combination Lock: Learnable Textual Backdoor Attacks via Word Substitution% | https://github.com/thunlp/BkdAtk-LWS | 2 | 0| 
 | 20210629T07:15:00Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 209 | 40| 
 | 20210629T07:01:52Z | Encipher - Generate XOR encoded backdoors using Python | https://github.com/Revise7/Encipher | 0 | 0| 
-| 20210629T06:59:17Z |  SniperSight - Listener, Backdoor & Keylogger Generator Developed & Maintained By revise7 | https://github.com/Revise7/SniperSight | 0 | 0| 
-| 20210629T06:53:03Z | shell backdoor | https://github.com/rabeltester44/reapers | 0 | 0| 
-| 20210629T03:18:26Z | %Socialx% is a Social Engineering And Remote Access Trojan Tool. You can generate fud backdoor and you can embed any file you want inside of the exe file. | https://github.com/AzizKpln/Social_X | 119 | 34| 
-| 20210629T02:40:51Z | Null | https://github.com/ShannonAI/backdoor_nlg | 2 | 2| 
-| 20210629T01:43:01Z | Null | https://github.com/0zzam0/backdoor_attack | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -150,16 +150,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210629T12:43:53Z | Tool for synchronizing saves for games via synchronization services like Dropbox or OwnCloud | https://github.com/manuelVo/fuzzy-robot | 1 | 0| 
-| 20210629T12:40:03Z | Null | https://github.com/DanielEbert/EmulatedFirmwareFuzzing | 0 | 0| 
-| 20210629T12:29:40Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6429 | 1308| 
-| 20210629T12:15:12Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 13 | 6| 
-| 20210629T12:00:52Z | a fuzzier graph plotting method | https://github.com/autumnull/fuzzyplot | 0 | 0| 
-| 20210629T11:58:44Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
-| 20210629T11:50:41Z | Null | https://github.com/danilomachadopires/FuzzyASOC | 0 | 0| 
-| 20210629T10:25:41Z | My personal portfolio website | https://github.com/FuzzyGrim/fuzzygrim.github.io | 0 | 0| 
-| 20210629T09:47:47Z | Fuzzing en español | https://github.com/0xVIC/Diccionarios | 1 | 0| 
-| 20210629T09:35:37Z | Null | https://github.com/lizaorsini346/fuzzy-parakeet | 0 | 0| 
+| 20210629T23:52:15Z | Network fuzzer for Slippi Online | https://github.com/altf4/slippi_fuzz | 2 | 0| 
+| 20210629T23:42:57Z | An automatic fuzzing tool for ROS 2 C++ projects  | https://github.com/rosin-project/ros2_fuzz | 5 | 0| 
+| 20210629T23:25:47Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1851 | 370| 
+| 20210629T23:17:30Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6431 | 1309| 
+| 20210629T22:59:05Z | Fuzzy charrs are fuzzy. | https://github.com/marenubium87/FuzzyCharr | 0 | 0| 
+| 20210629T22:43:33Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
+| 20210629T22:37:27Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3576 | 831| 
+| 20210629T22:36:07Z | These tests of libdwarf/dwarfdump include old object files, new ones, and many fuzzed object files. These are the definitive tests that things work.. Most people have no reason to run these tests. | https://github.com/davea42/libdwarf-regressiontests | 0 | 0| 
+| 20210629T22:32:49Z | Fuzzy name matching with python | https://github.com/conjectures/fuzzy-name-matching | 0 | 0| 
+| 20210629T22:32:46Z | Null | https://github.com/DanielEbert/EmulatedFirmwareFuzzing | 0 | 0| 
 
 
 
