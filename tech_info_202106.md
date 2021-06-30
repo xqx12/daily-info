@@ -90,10 +90,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210630T12:03:11Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 25 | 12| 
 | 20210630T11:49:47Z | Knowledge base of exploit mitigations available across numerous  operating systems, architectures and applications and versions. | https://github.com/nccgroup/exploit_mitigations | 4 | 1| 
 | 20210630T11:36:10Z | learning various heap exploitation techniques | https://github.com/izabela-am/Heap-Exploitation | 0 | 0| 
 | 20210630T11:09:40Z | KoGaMa Cheats / exploits | https://github.com/Hxrpiee/KoGaMa | 1 | 0| 
-| 20210630T11:02:50Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 25 | 12| 
 | 20210630T11:02:13Z | BioCCP.jl exploits the Coupon Collector Problem for sample size determination in combinatorial biotechnology. | https://github.com/kirstvh/BioCCP | 2 | 0| 
 | 20210630T10:53:05Z | This repository contains hints to exploit and capture flag of  CTF machines from various platforms. this isn%t a detailed walk-through. from some boxes which I hunt. | https://github.com/nibrasmuhamed/CTF-Walkthrough | 0 | 0| 
 | 20210630T10:43:21Z | A convenient script that provides the bare essentials for exploiting such as ESP, freecam and aimbot. | https://github.com/TheDookySoo/Essentials | 1 | 0| 
@@ -105,6 +105,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210630T06:52:25Z | Code and data of the ACL-IJCNLP 2021 paper %Hidden Killer: Invisible Textual Backdoor Attacks with Syntactic Trigger% | https://github.com/thunlp/HiddenKiller | 1 | 2| 
+| 20210630T03:03:36Z | Hanoman is an GUI antivirus engine singature based detection 🐒 | https://github.com/hrtywhy/Hanoman | 5 | 5| 
 | 20210630T00:09:23Z | Null | https://github.com/FierzaEriez/Mini-Shell-Backdoor | 1 | 0| 
 | 20210629T23:49:22Z | Code and data of the ACL 2021 paper %Turn the Combination Lock: Learnable Textual Backdoor Attacks via Word Substitution% | https://github.com/thunlp/BkdAtk-LWS | 3 | 0| 
 | 20210629T22:52:32Z | PHP Backdoor is a web-based application that allows to execute terminal commands on a server directly from a browser. | https://github.com/psyll/PHP-Backdoor | 1 | 0| 
@@ -113,8 +115,6 @@
 | 20210629T17:07:02Z | This program will help you to detect errors in a keyboard and it also used as backdoor program. | https://github.com/cyrobotcoder/keylogger | 0 | 0| 
 | 20210629T12:26:43Z | A static analysis tool to reveal backdoor threats in Ethereum smart contracts | https://github.com/SmartContractBackdoor/DPiper-tool | 2 | 0| 
 | 20210629T09:13:27Z | A Python module for building botnet ,backdoor or trojan with Telegram control panel | https://github.com/onionj/pybotnet | 2 | 2| 
-| 20210629T07:15:00Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 209 | 40| 
-| 20210629T07:01:52Z | Encipher - Generate XOR encoded backdoors using Python | https://github.com/Revise7/Encipher | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -150,16 +150,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210630T01:45:01Z | Null | https://github.com/pengfei1993/Fuzzy | 1 | 0| 
-| 20210630T01:36:50Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210630T01:25:01Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4528 | 445| 
-| 20210630T00:04:08Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 14 | 7| 
-| 20210630T00:03:25Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 919 | 95| 
-| 20210629T23:52:15Z | Network fuzzer for Slippi Online | https://github.com/altf4/slippi_fuzz | 2 | 0| 
-| 20210629T23:42:57Z | An automatic fuzzing tool for ROS 2 C++ projects  | https://github.com/rosin-project/ros2_fuzz | 5 | 0| 
-| 20210629T23:25:47Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1851 | 370| 
-| 20210629T23:17:30Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6431 | 1309| 
-| 20210629T22:59:05Z | Fuzzy charrs are fuzzy. | https://github.com/marenubium87/FuzzyCharr | 0 | 0| 
+| 20210630T12:03:41Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3578 | 832| 
+| 20210630T11:57:15Z | This is a tool for fuzzing XSS vulnerabilities based on genetic algorithm. | https://github.com/Timofey21/darlene | 3 | 0| 
+| 20210630T11:52:10Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 926 | 95| 
+| 20210630T11:50:18Z | A library of fuzzy rough machine learning algorithms | https://github.com/oulenz/fuzzy-rough-learn | 6 | 2| 
+| 20210630T11:45:03Z | Null | https://github.com/bhattacharjee/fuzzy-funicular | 0 | 0| 
+| 20210630T11:38:02Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 466 | 42| 
+| 20210630T11:37:26Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
+| 20210630T11:24:21Z | Null | https://github.com/Kineubdgahe/fuzzy-spork | 0 | 0| 
+| 20210630T10:55:51Z | Null | https://github.com/Bagusgus/Fuzzy-in-arduino | 0 | 0| 
+| 20210630T10:24:56Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 
 
 
