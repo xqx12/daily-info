@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210630T01:23:49Z | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | 6427 | 1484| 
 | 20210630T01:17:10Z | Null | https://github.com/sickn3ss/exploits | 0 | 0| 
 | 20210630T01:02:52Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 25 | 12| 
 | 20210630T00:57:03Z | Microsoft Azure Exploitation Framework | https://github.com/mattrotlevi/lava | 30 | 15| 
@@ -99,7 +100,6 @@
 | 20210630T00:07:50Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9612 | 1576| 
 | 20210629T23:29:04Z | Project Carthage is a Roblox Exploit that inspired by code lyoko | https://github.com/DeletedUser0x96/Project-Carthage | 0 | 0| 
 | 20210629T21:57:15Z | learning various heap exploitation techniques | https://github.com/izabela-am/Heap-Exploitation | 0 | 0| 
-| 20210629T21:25:07Z | How to exploit BERT for detecting users% personality type based on some text they have posted, according to the Myers–Briggs Type Indicator (MBTI). | https://github.com/rcantini/BERT_personality_detection | 0 | 0| 
 
 
 # backdoor on Github 推荐
