@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210630T00:10:09Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 181 | 11| 
 | 20210630T00:07:50Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9612 | 1576| 
 | 20210630T00:02:55Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 25 | 12| 
 | 20210629T23:29:04Z | Project Carthage is a Roblox Exploit that inspired by code lyoko | https://github.com/DeletedUser0x96/Project-Carthage | 0 | 0| 
@@ -99,7 +100,6 @@
 | 20210629T20:36:34Z | Asoiu online exam Telegram bot exploit  | https://github.com/rad1k4l/asoiuexambot-exploit-node | 0 | 0| 
 | 20210629T20:32:13Z | Shader script for Roblox exploits. | https://github.com/LegitH3x0R/HackerShader | 0 | 0| 
 | 20210629T20:27:09Z | This project was assigned to me by my teacher, I was instructed to copy the theme of popular online store Daraz PK & also to manipulate it with by using my own creativity skills. It took a week to complete this whole project, furthermore, I exploited BS4, CSS, Media Queries, Font Awesome Icons, etc. | https://github.com/Taha-Sheikh1/Daraz-Pakistan-Project | 1 | 0| 
-| 20210629T20:16:57Z | script to interact with Ethereum, and use it to exploit the service via command injection | https://github.com/lnwza777/Chainsaw- | 0 | 0| 
 
 
 # backdoor on Github 推荐
