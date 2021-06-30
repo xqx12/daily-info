@@ -90,7 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210630T00:19:05Z | Various techniques for exploiting Windows | https://github.com/billchaison/Windows-Trix | 6 | 0| 
+| 20210630T00:20:40Z | Various techniques for exploiting Windows | https://github.com/billchaison/Windows-Trix | 6 | 0| 
 | 20210630T00:10:09Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 181 | 11| 
 | 20210630T00:07:50Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9612 | 1576| 
 | 20210630T00:02:55Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 25 | 12| 
