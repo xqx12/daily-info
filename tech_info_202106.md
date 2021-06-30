@@ -46,11 +46,11 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210629T23:58:09Z | CVE-2021-27850 | A Proof of concept for CVE-2021-27850 affecting Apache Tapestry and leading to unauthencticated remote code execution. | https://github.com/kahla-sec/CVE-2021-27850_POC | | 
+| 20210629T23:58:09Z | CVE-2021-27850 | A Proof of concept for CVE-2021-27850 affecting Apache Tapestry and leading to unauthencticated remote code execution. | https://github.com/kahla-sec/CVE-2021-27850_POC | A critical unauthenticated remote code execution vulnerability was found all recent versions of Apache Tapestry. The affected versions include 5.4.5, 5.5.0, 5.6.2 and 5.7.0. The vulnerability I have found is a bypass of the fix for CVE-2019-0195. Recap: Before the fix of CVE-2019-0195 it was possible to download arbitrary class files from the classpath by providing a crafted asset file URL. An attacker was able to download the file `AppModule.class` by requesting the URL `http://localhost:8080/assets/something/services/AppModule.class` which contains a HMAC secret key. The fix for that bug was a blacklist filter that checks if the URL ends with `.class`, `.properties` or `.xml`. Bypass: Unfortunately, the blacklist solution can simply be bypassed by appending a `/` at the end of the URL: `http://localhost:8080/assets/something/services/AppModule.class/` The slash is stripped after the blacklist check and the file `AppModule.class` is loaded into the response. This class usually contains the HMAC secret key which is used to sign serialized Java objects. With the knowledge of that key an attacker can sign a Java gadget chain that leads to RCE (e.g. CommonsBeanUtils1 from ysoserial). Solution for this vulnerability: * For Apache Tapestry 5.4.0 to 5.6.1, upgrade to 5.6.2 or later. * For Apache Tapestry 5.7.0, upgrade to 5.7.1 or later.| 
 | 20210629T23:53:07Z | CVE-2020-15368 | How to exploit a vulnerable windows driver. Exploit for AsrDrv104.sys | https://github.com/stong/CVE-2020-15368 | AsrDrv103.sys in the ASRock RGB Driver does not properly restrict access from user space, as demonstrated by triggering a triple fault via a request to zero CR3.| 
 | 20210629T23:51:06Z | CVE-2021-1675 | Impacket implementation of CVE-2021-1675 | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210629T21:09:43Z | CVE-2021-3560 | Null | https://github.com/AssassinUKG/Polkit-CVE-2021-3560 | 未查询到CVE信息| 
-| 20210629T16:34:11Z | 未知编号 |  Microsoft  acknowledged a critical remote code execution  vulnerability (CVE – 2020 - 1350) existing in  Windows Domain Name System (DNS) when it  fails to properly handle requests. An adversary  who successfully exploits the vulnerability could  run arbitrary code or malicious code in the  context of the Local System Account. And this  vulnerability rests on the DNS client while it  handles specific requests. This means that an  attacker who does not perform an  authentication can gain control of an account  that exists locally on the system, even remotely.  This will allow the host to reach a complete  compromise. T | https://github.com/ejlevin99/CVE---2020---1350 | | 
+| 20210629T16:34:11Z | 未知编号 |  Microsoft  acknowledged a critical remote code execution  vulnerability (CVE – 2020 - 1350) existing in  Windows Domain Name System (DNS) when it  fails to properly handle requests. An adversary  who successfully exploits the vulnerability could  run arbitrary code or malicious code in the  context of the Local System Account. And this  vulnerability rests on the DNS client while it  handles specific requests. This means that an  attacker who does not perform an  authentication can gain control of an account  that exists locally on the system, even remotely.  This will allow the host to reach a complete  compromise. T | https://github.com/ejlevin99/CVE---2020---1350 | 未查询到CVE信息| 
 | 20210629T15:10:28Z | cve-2021-22214 | Gitlab SSRF | https://github.com/Vulnmachines/gitlab-cve-2021-22214 | When requests to the internal network for webhooks are enabled, a server-side request forgery vulnerability in GitLab CE/EE affecting all versions starting from 10.5 was possible to exploit for an unauthenticated attacker even on a GitLab instance where registration is limited| 
 | 20210629T14:26:28Z | CVE-2021-1675 | CVE-2021-1675 exploit | https://github.com/yu2u/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210629T13:44:10Z | CVE-2021-31955 | Null | https://github.com/mavillon1/CVE-2021-31955-POC | Windows Kernel Information Disclosure Vulnerability| 
@@ -120,15 +120,15 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210629T21:04:21Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2368 | 348| 
+| 20210629T19:49:44Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 145 | 33| 
 | 20210629T11:08:06Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1724 | 495| 
-| 20210629T08:49:39Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 144 | 33| 
 | 20210629T02:57:53Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 14 | 3| 
 | 20210628T20:20:26Z | A tool for generating nonlinear numerical invariants for C and Java programs.  DIG uses dynamic analysis to infer invariants over program execution traces and applies symbolic execution to inferred invariants. | https://github.com/unsat/dig | 4 | 4| 
 | 20210628T18:44:47Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 422 | 62| 
 | 20210628T10:04:45Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 19 | 11| 
 | 20210628T07:18:38Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 306 | 21| 
 | 20210628T01:27:42Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 7 | 4| 
-| 20210627T20:50:09Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2367 | 348| 
 | 20210625T15:07:37Z | This is the repository for Symbolic Execution engine for StateFlow (SESf) models | https://github.com/predragf/sesf | 0 | 0| 
 
 
@@ -150,6 +150,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210630T00:03:25Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 919 | 95| 
 | 20210629T23:52:15Z | Network fuzzer for Slippi Online | https://github.com/altf4/slippi_fuzz | 2 | 0| 
 | 20210629T23:42:57Z | An automatic fuzzing tool for ROS 2 C++ projects  | https://github.com/rosin-project/ros2_fuzz | 5 | 0| 
 | 20210629T23:25:47Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1851 | 370| 
@@ -159,7 +160,6 @@
 | 20210629T22:37:27Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3576 | 831| 
 | 20210629T22:36:07Z | These tests of libdwarf/dwarfdump include old object files, new ones, and many fuzzed object files. These are the definitive tests that things work.. Most people have no reason to run these tests. | https://github.com/davea42/libdwarf-regressiontests | 0 | 0| 
 | 20210629T22:32:49Z | Fuzzy name matching with python | https://github.com/conjectures/fuzzy-name-matching | 0 | 0| 
-| 20210629T22:32:46Z | Null | https://github.com/DanielEbert/EmulatedFirmwareFuzzing | 0 | 0| 
 
 
 
