@@ -58,8 +58,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210701T12:49:26Z | Proof of Concept Exploit for CVE-2021-35956, AKCP sensorProbe - %Multiple% Cross Site Scripting (XSS) | https://github.com/tcbutler320/CVE-2021-35956 | 1 | 0| 
 | 20210701T12:45:04Z | Null | https://github.com/wjddnjs33/Exploit | 0 | 0| 
-| 20210701T12:44:08Z | Proof of Concept Exploit for CVE-2021-35956, AKCP sensorProbe - %Multiple% Cross Site Scripting (XSS) | https://github.com/tcbutler320/CVE-2021-35956 | 0 | 0| 
 | 20210701T12:40:02Z | Agent-Based Modelling of labour exploitation in textile supply chains | https://github.com/kwabenantim/textile-labour | 0 | 0| 
 | 20210701T12:37:18Z | exploit code(incomplete) | https://github.com/fr0g2s/HackCTF-pwnable- | 0 | 0| 
 | 20210701T12:35:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9624 | 1579| 
