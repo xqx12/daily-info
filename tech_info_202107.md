@@ -58,6 +58,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210701T12:06:53Z | CVE-2021-1675 Simple LPE Exploit | https://github.com/evilashz/CVE-2021-1675-LPE-EXP | 2 | 0| 
 | 20210701T12:02:55Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 25 | 12| 
 | 20210701T10:55:26Z | A helpful Java Deserialization exploit framework based on ysoserial | https://github.com/wh1t3p1g/ysomap | 419 | 37| 
 | 20210701T10:39:24Z | Inception is a physical memory manipulation and hacking tool exploiting PCI-based DMA. The tool can attack over FireWire, Thunderbolt, ExpressCard, PC Card and any other PCI/PCIe interfaces. | https://github.com/carmaa/inception | 1431 | 190| 
@@ -67,7 +68,6 @@
 | 20210701T10:10:45Z | PoC for exploiting CVE-2021-29965 | https://github.com/AlAIAL90/CVE-2021-29965 | 0 | 0| 
 | 20210701T10:10:40Z | PoC for exploiting CVE-2021-31506 | https://github.com/AlAIAL90/CVE-2021-31506 | 0 | 0| 
 | 20210701T10:10:34Z | PoC for exploiting CVE-2020-24511 | https://github.com/AlAIAL90/CVE-2020-24511 | 0 | 0| 
-| 20210701T10:10:28Z | PoC for exploiting CVE-2020-24512 | https://github.com/AlAIAL90/CVE-2020-24512 | 0 | 0| 
 
 
 # backdoor on Github 推荐
