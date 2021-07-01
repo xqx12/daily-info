@@ -100,6 +100,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210701T12:05:26Z | %Seed Selection for Successful Fuzzing% artifact (at ISSTA 2021) | https://github.com/HexHive/fuzzing-seed-selection | 24 | 6| 
 | 20210701T12:00:25Z | Null | https://github.com/Hrkahfidj/fuzzy-octo-funicular | 0 | 0| 
 | 20210701T11:33:37Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 1 | 1| 
 | 20210701T11:26:24Z | My personal portfolio website | https://github.com/FuzzyGrim/fuzzygrim.github.io | 0 | 0| 
@@ -109,7 +110,6 @@
 | 20210701T08:40:59Z | Fuzzing tool for the 14th institute | https://github.com/Radon10043/fuzzing-tool-14 | 0 | 0| 
 | 20210701T08:38:12Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1237 | 220| 
 | 20210701T08:37:10Z | Obstacle avoidance car simulator using fuzzy-logic (python) | https://github.com/MhdTa/fuzzy-system-car | 0 | 0| 
-| 20210701T08:25:14Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3579 | 833| 
 
 
 
