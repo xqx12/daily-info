@@ -28,6 +28,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210701T12:06:53Z | CVE-2021-1675 | CVE-2021-1675 Simple LPE Exploit | https://github.com/evilashz/CVE-2021-1675-LPE-EXP | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210701T12:00:29Z | CVE-2021-1675 | C# and Impacket implementation of CVE-2021-1675/PrintNightmare | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210701T11:52:28Z | CVE-2021-1675 | Local Privilege Escalation Edition for CVE-2021-1675 | https://github.com/hlldz/CVE-2021-1675-LPE | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210701T11:33:24Z | CVE-2021-1675 | CVE-2021-1675 Detection Info | https://github.com/LaresLLC/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
@@ -37,7 +38,6 @@
 | 20210701T10:10:40Z | CVE-2021-31506 | PoC for exploiting CVE-2021-31506 | https://github.com/AlAIAL90/CVE-2021-31506 | This vulnerability allows remote attackers to disclose sensitive information on affected installations of OpenText Brava! Desktop Build 16.6.4.55. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The specific flaw exists within the parsing of PDF files. The issue results from the lack of proper validation of user-supplied data, which can result in a read past the end of an allocated data structure. An attacker can leverage this in conjunction with other vulnerabilities to execute arbitrary code in the context of the current process. Was ZDI-CAN-13674.| 
 | 20210701T10:10:34Z | CVE-2020-24511 | PoC for exploiting CVE-2020-24511 | https://github.com/AlAIAL90/CVE-2020-24511 | Improper isolation of shared resources in some Intel(R) Processors may allow an authenticated user to potentially enable information disclosure via local access.| 
 | 20210701T10:10:28Z | CVE-2020-24512 | PoC for exploiting CVE-2020-24512 | https://github.com/AlAIAL90/CVE-2020-24512 | Observable timing discrepancy in some Intel(R) Processors may allow an authenticated user to potentially enable information disclosure via local access.| 
-| 20210701T10:10:23Z | CVE-2021-29964 | PoC for exploiting CVE-2021-29964 | https://github.com/AlAIAL90/CVE-2021-29964 | A locally-installed hostile program could send `WM_COPYDATA` messages that Firefox would process incorrectly, leading to an out-of-bounds read. *This bug only affects Firefox on Windows. Other operating systems are unaffected.*. This vulnerability affects Thunderbird < 78.11, Firefox < 89, and Firefox ESR < 78.11.| 
 
 
 # klee on Github 推荐
