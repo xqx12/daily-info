@@ -58,6 +58,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210701T12:35:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9624 | 1579| 
 | 20210701T12:19:47Z | eXploit is designed to perform various social engineering attacks. | https://github.com/agnath18K/eXploit | 0 | 0| 
 | 20210701T12:14:10Z | CVE-2021-1675 Simple LPE Exploit | https://github.com/evilashz/CVE-2021-1675-LPE-EXP | 2 | 0| 
 | 20210701T12:02:55Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 25 | 12| 
@@ -67,7 +68,6 @@
 | 20210701T10:10:58Z | PoC for exploiting CVE-2021-33348 | https://github.com/AlAIAL90/CVE-2021-33348 | 0 | 0| 
 | 20210701T10:10:53Z | PoC for exploiting CVE-2020-21787 | https://github.com/AlAIAL90/CVE-2020-21787 | 0 | 0| 
 | 20210701T10:10:45Z | PoC for exploiting CVE-2021-29965 | https://github.com/AlAIAL90/CVE-2021-29965 | 0 | 0| 
-| 20210701T10:10:40Z | PoC for exploiting CVE-2021-31506 | https://github.com/AlAIAL90/CVE-2021-31506 | 0 | 0| 
 
 
 # backdoor on Github 推荐
