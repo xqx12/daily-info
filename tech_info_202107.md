@@ -28,9 +28,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210701T12:23:36Z | CVE-2021-1675 | CVE-2021-1675 Detection Info | https://github.com/LaresLLC/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210701T12:20:40Z | CVE-2021-1675 | C# and Impacket implementation of CVE-2021-1675/PrintNightmare | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210701T12:16:46Z | CVE-2021-1675 | CVE-2021-1675 Detection Info | https://github.com/LaresLLC/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210701T12:14:10Z | CVE-2021-1675 | CVE-2021-1675 Simple LPE Exploit | https://github.com/evilashz/CVE-2021-1675-LPE-EXP | | 
+| 20210701T12:14:10Z | CVE-2021-1675 | CVE-2021-1675 Simple LPE Exploit | https://github.com/evilashz/CVE-2021-1675-LPE-EXP | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210701T12:12:54Z | CVE-2020-1675 | Null | https://github.com/DenizSe/CVE-2020-1675 | When Security Assertion Markup Language (SAML) authentication is enabled, Juniper Networks Mist Cloud UI might incorrectly process invalid authentication certificates which could allow a malicious network-based user to access unauthorized data. This issue affects all Juniper Networks Mist Cloud UI versions prior to September 2 2020.| 
 | 20210701T11:52:28Z | CVE-2021-1675 | Local Privilege Escalation Edition for CVE-2021-1675 | https://github.com/hlldz/CVE-2021-1675-LPE | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210701T10:10:58Z | CVE-2021-33348 | PoC for exploiting CVE-2021-33348 | https://github.com/AlAIAL90/CVE-2021-33348 | An issue was discovered in JFinal framework v4.9.10 and below. The %set% method of the %Controller% class of jfinal framework is not strictly filtered, which will lead to XSS vulnerabilities in some cases.| 
@@ -58,6 +58,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210701T12:19:47Z | eXploit is designed to perform various social engineering attacks. | https://github.com/agnath18K/eXploit | 0 | 0| 
 | 20210701T12:14:10Z | CVE-2021-1675 Simple LPE Exploit | https://github.com/evilashz/CVE-2021-1675-LPE-EXP | 2 | 0| 
 | 20210701T12:02:55Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 25 | 12| 
 | 20210701T10:55:26Z | A helpful Java Deserialization exploit framework based on ysoserial | https://github.com/wh1t3p1g/ysomap | 419 | 37| 
@@ -67,7 +68,6 @@
 | 20210701T10:10:53Z | PoC for exploiting CVE-2020-21787 | https://github.com/AlAIAL90/CVE-2020-21787 | 0 | 0| 
 | 20210701T10:10:45Z | PoC for exploiting CVE-2021-29965 | https://github.com/AlAIAL90/CVE-2021-29965 | 0 | 0| 
 | 20210701T10:10:40Z | PoC for exploiting CVE-2021-31506 | https://github.com/AlAIAL90/CVE-2021-31506 | 0 | 0| 
-| 20210701T10:10:34Z | PoC for exploiting CVE-2020-24511 | https://github.com/AlAIAL90/CVE-2020-24511 | 0 | 0| 
 
 
 # backdoor on Github 推荐
