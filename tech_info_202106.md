@@ -53,7 +53,7 @@
 | 20210630T08:19:25Z | CVE-2021-31955 | Null | https://github.com/mavillon1/CVE-2021-31955-POC | Windows Kernel Information Disclosure Vulnerability| 
 | 20210629T21:09:43Z | CVE-2021-3560 | Null | https://github.com/AssassinUKG/Polkit-CVE-2021-3560 | 未查询到CVE信息| 
 | 20210629T16:34:11Z | 未知编号 |  Microsoft  acknowledged a critical remote code execution  vulnerability (CVE – 2020 - 1350) existing in  Windows Domain Name System (DNS) when it  fails to properly handle requests. An adversary  who successfully exploits the vulnerability could  run arbitrary code or malicious code in the  context of the Local System Account. And this  vulnerability rests on the DNS client while it  handles specific requests. This means that an  attacker who does not perform an  authentication can gain control of an account  that exists locally on the system, even remotely.  This will allow the host to reach a complete  compromise. T | https://github.com/ejlevin99/CVE---2020---1350 | 未查询到CVE信息| 
-| 20210629T15:10:28Z | cve-2021-22214 | Gitlab SSRF | https://github.com/Vulnmachines/gitlab-cve-2021-22214 | When requests to the internal network for webhooks are enabled, a server-side request forgery vulnerability in GitLab CE/EE affecting all versions starting from 10.5 was possible to exploit for an unauthenticated attacker even on a GitLab instance where registration is limited| 
+| 20210629T15:10:28Z | cve-2021-22214 | Gitlab SSRF | https://github.com/Vulnmachines/gitlab-cve-2021-22214 | | 
 | 20210629T12:20:58Z | CVE-2021-22911 | Pre-Auth Blind NoSQL Injection leading to Remote Code Execution in Rocket Chat 3.12.1 | https://github.com/CsEnox/CVE-2021-22911 | A improper input sanitization vulnerability exists in Rocket.Chat server 3.11, 3.12 & 3.13 that could lead to unauthenticated NoSQL injection, resulting potentially in RCE.| 
 | 20210629T11:28:41Z | CVE-2020-3580 | Null | https://github.com/Hudi233/CVE-2020-3580 | Multiple vulnerabilities in the web services interface of Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software could allow an unauthenticated, remote attacker to conduct cross-site scripting (XSS) attacks against a user of the web services interface of an affected device. The vulnerabilities are due to insufficient validation of user-supplied input by the web services interface of an affected device. An attacker could exploit these vulnerabilities by persuading a user of the interface to click a crafted link. A successful exploit could allow the attacker to execute arbitrary script code in the context of the interface or allow the attacker to access sensitive, browser-based information. Note: These vulnerabilities affect only specific AnyConnect and WebVPN configurations. For more information, see the Vulnerable Products section.| 
 
@@ -107,7 +107,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20210630T21:46:53Z | a Minecraft Client with Built in baritone PVP and more. Similar to Enertia, and Future. Specail Elytra Flight Access, & Backdoor Tools  | https://github.com/DrandevJC/Drandev-Client | 1 | 0| 
-| 20210630T20:15:04Z | Weird-Backdoor is an android backdoor that you can use to troll your friends and remotely open a URL on their phone from your device. | https://github.com/lilmond/Weird-Backdoor | 0 | 0| 
 | 20210630T19:23:33Z | A Python module for building botnet ,backdoor or trojan with Telegram control panel | https://github.com/onionj/pybotnet | 2 | 2| 
 | 20210630T14:46:27Z | PHP Backdoor is a web-based application that allows to execute terminal commands on a server directly from a browser. | https://github.com/psyll/PHP-Backdoor | 1 | 0| 
 | 20210630T13:35:06Z | A force op or backdoor minecraft plugin which can be used to get OP on a minecraft server | https://github.com/MOMIN5/force-op-backdoor-plugin | 1 | 0| 
@@ -116,6 +115,7 @@
 | 20210630T03:03:36Z | Hanoman is an GUI antivirus engine singature based detection 🐒 | https://github.com/hrtywhy/Hanoman | 5 | 5| 
 | 20210630T00:09:23Z | Null | https://github.com/FierzaEriez/Mini-Shell-Backdoor | 1 | 0| 
 | 20210629T23:49:22Z | Code and data of the ACL 2021 paper %Turn the Combination Lock: Learnable Textual Backdoor Attacks via Word Substitution% | https://github.com/thunlp/BkdAtk-LWS | 3 | 0| 
+| 20210629T20:43:43Z | A papermc plugin that allows code execution without any permissions on the server for selected users. | https://github.com/TheSaltyBoys/backdoor-v4 | 0 | 1| 
 
 
 # symbolic execution on Github 推荐

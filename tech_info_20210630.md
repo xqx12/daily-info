@@ -69,7 +69,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20210630T21:46:53Z | a Minecraft Client with Built in baritone PVP and more. Similar to Enertia, and Future. Specail Elytra Flight Access, & Backdoor Tools  | https://github.com/DrandevJC/Drandev-Client | 1 | 0| 
-| 20210630T20:15:04Z | Weird-Backdoor is an android backdoor that you can use to troll your friends and remotely open a URL on their phone from your device. | https://github.com/lilmond/Weird-Backdoor | 0 | 0| 
 | 20210630T19:23:33Z | A Python module for building botnet ,backdoor or trojan with Telegram control panel | https://github.com/onionj/pybotnet | 2 | 2| 
 | 20210630T14:46:27Z | PHP Backdoor is a web-based application that allows to execute terminal commands on a server directly from a browser. | https://github.com/psyll/PHP-Backdoor | 1 | 0| 
 | 20210630T13:35:06Z | A force op or backdoor minecraft plugin which can be used to get OP on a minecraft server | https://github.com/MOMIN5/force-op-backdoor-plugin | 1 | 0| 
