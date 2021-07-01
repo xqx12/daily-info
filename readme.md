@@ -31,7 +31,7 @@
 | 20210630T23:40:46Z | cve-2021-1675 | Null | https://github.com/kondah/patch-cve-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210630T18:00:27Z | CVE-2021-3156 | Null | https://github.com/TheFlash2k/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210630T13:21:27Z | CVE-2021-1675 | CVE-2021-1675 exploit | https://github.com/yu2u/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210630T08:19:25Z | CVE-2021-31955 | Null | https://github.com/mavillon1/CVE-2021-31955-POC | | 
+| 20210630T08:19:25Z | CVE-2021-31955 | Null | https://github.com/mavillon1/CVE-2021-31955-POC | Windows Kernel Information Disclosure Vulnerability| 
 
 
 # klee on Github 推荐
