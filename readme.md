@@ -28,16 +28,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210701T12:12:54Z | CVE-2020-1675 | Null | https://github.com/DenizSe/CVE-2020-1675 | When Security Assertion Markup Language (SAML) authentication is enabled, Juniper Networks Mist Cloud UI might incorrectly process invalid authentication certificates which could allow a malicious network-based user to access unauthorized data. This issue affects all Juniper Networks Mist Cloud UI versions prior to September 2 2020.| 
+| 20210701T12:10:47Z | CVE-2021-1675 | C# and Impacket implementation of CVE-2021-1675/PrintNightmare | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210701T12:06:53Z | CVE-2021-1675 | CVE-2021-1675 Simple LPE Exploit | https://github.com/evilashz/CVE-2021-1675-LPE-EXP | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210701T12:00:29Z | CVE-2021-1675 | C# and Impacket implementation of CVE-2021-1675/PrintNightmare | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210701T11:52:28Z | CVE-2021-1675 | Local Privilege Escalation Edition for CVE-2021-1675 | https://github.com/hlldz/CVE-2021-1675-LPE | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210701T11:33:24Z | CVE-2021-1675 | CVE-2021-1675 Detection Info | https://github.com/LaresLLC/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210701T10:10:58Z | CVE-2021-33348 | PoC for exploiting CVE-2021-33348 | https://github.com/AlAIAL90/CVE-2021-33348 | | 
+| 20210701T10:10:58Z | CVE-2021-33348 | PoC for exploiting CVE-2021-33348 | https://github.com/AlAIAL90/CVE-2021-33348 | An issue was discovered in JFinal framework v4.9.10 and below. The %set% method of the %Controller% class of jfinal framework is not strictly filtered, which will lead to XSS vulnerabilities in some cases.| 
 | 20210701T10:10:53Z | CVE-2020-21787 | PoC for exploiting CVE-2020-21787 | https://github.com/AlAIAL90/CVE-2020-21787 | CRMEB 3.1.0+ is vulnerable to File Upload Getshell via /crmeb/crmeb/services/UploadService.php.| 
 | 20210701T10:10:45Z | CVE-2021-29965 | PoC for exploiting CVE-2021-29965 | https://github.com/AlAIAL90/CVE-2021-29965 | A malicious website that causes an HTTP Authentication dialog to be spawned could trick the built-in password manager to suggest passwords for the currently active website instead of the website that triggered the dialog. *This bug only affects Firefox for Android. Other operating systems are unaffected.*. This vulnerability affects Firefox < 89.| 
 | 20210701T10:10:40Z | CVE-2021-31506 | PoC for exploiting CVE-2021-31506 | https://github.com/AlAIAL90/CVE-2021-31506 | This vulnerability allows remote attackers to disclose sensitive information on affected installations of OpenText Brava! Desktop Build 16.6.4.55. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The specific flaw exists within the parsing of PDF files. The issue results from the lack of proper validation of user-supplied data, which can result in a read past the end of an allocated data structure. An attacker can leverage this in conjunction with other vulnerabilities to execute arbitrary code in the context of the current process. Was ZDI-CAN-13674.| 
 | 20210701T10:10:34Z | CVE-2020-24511 | PoC for exploiting CVE-2020-24511 | https://github.com/AlAIAL90/CVE-2020-24511 | Improper isolation of shared resources in some Intel(R) Processors may allow an authenticated user to potentially enable information disclosure via local access.| 
-| 20210701T10:10:28Z | CVE-2020-24512 | PoC for exploiting CVE-2020-24512 | https://github.com/AlAIAL90/CVE-2020-24512 | Observable timing discrepancy in some Intel(R) Processors may allow an authenticated user to potentially enable information disclosure via local access.| 
 
 
 # klee on Github 推荐
@@ -85,6 +85,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210701T12:12:21Z | Dynamic Symbolic Execution Engine | https://github.com/Fishermanykx/DSE | 0 | 0| 
 | 20210701T08:17:45Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1832 | 383| 
 | 20210701T06:16:12Z | Aggressive compile-time optimizations for JavaScript via dynamic symbolic VM execution. | https://github.com/undefinedbuddy/optimizr | 24 | 0| 
 | 20210701T00:22:16Z | A symbolic execution engine for Chisel circuits. | https://github.com/ekiwi/maltese | 0 | 1| 
