@@ -48,7 +48,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210702T12:57:15Z | CVE-2020-15368 | How to exploit a vulnerable windows driver. Exploit for AsrDrv104.sys | https://github.com/stong/CVE-2020-15368 | AsrDrv103.sys in the ASRock RGB Driver does not properly restrict access from user space, as demonstrated by triggering a triple fault via a request to zero CR3.| 
 | 20210702T12:56:16Z | CVE-2021-1675 | Pure PowerShell implementation of CVE-2021-1675 Print Spooler Local Privilege Escalation (PrintNightmare) | https://github.com/calebstewart/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210702T12:48:00Z | CVE-2021-34527 | Null | https://github.com/JohnHammond/CVE-2021-34527 | | 
+| 20210702T12:48:00Z | CVE-2021-34527 | Null | https://github.com/JohnHammond/CVE-2021-34527 | 未查询到CVE信息| 
 | 20210702T12:47:42Z | CVE-2021-1675 | CVE-2021-1675 Detection Info | https://github.com/LaresLLC/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210702T12:39:37Z | CVE-2021-1675 | C# and Impacket implementation of CVE-2021-1675/PrintNightmare | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210702T12:34:39Z | CVE-2021-3560 | Null | https://github.com/mr-nO0b/CVE-2021-3560 | 未查询到CVE信息| 
@@ -92,6 +92,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210702T12:58:23Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/Screetsec/TheFatRat | 5406 | 1758| 
 | 20210702T12:27:29Z | C# code for Transferring Backdoor Payloads by DNS Traffic and Bypassing Anti-viruses   | https://github.com/DamonMohammadbagher/NativePayload_DNS | 231 | 106| 
 | 20210702T12:26:54Z | C# code for Transferring Backdoor Payloads by IPv6 Address (AAAA) records and DNS Traffic also Bypassing Anti-viruses  | https://github.com/DamonMohammadbagher/NativePayload_IP6DNS | 26 | 19| 
 | 20210702T12:26:06Z | C# code for Transferring Backdoor Payloads by ARP Traffic and Bypassing Anti-viruses (Slow) | https://github.com/DamonMohammadbagher/NativePayload_ARP | 36 | 28| 
@@ -101,7 +102,6 @@
 | 20210702T12:20:27Z | Data Exfiltration via HTTP Traffic (C# and Shell Script) | https://github.com/DamonMohammadbagher/NativePayload_HTTP | 10 | 7| 
 | 20210702T12:16:57Z | python backdoor | https://github.com/emmalee2003/python-backdoor | 1 | 0| 
 | 20210702T08:32:05Z | Backdoors Framework for Deep Learning and Federated Learning. A light-weight tool to conduct your research on backdoors. | https://github.com/ebagdasa/backdoors101 | 86 | 23| 
-| 20210702T08:27:03Z | This is a python backdoor project. This is for educational purposes only. | https://github.com/TKLinux966/B4cKD00R | 0 | 1| 
 
 
 # symbolic execution on Github 推荐
