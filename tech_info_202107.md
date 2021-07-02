@@ -92,7 +92,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210702T01:26:52Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2371 | 348| 
+| 20210702T01:26:52Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2371 | 349| 
 | 20210702T00:49:37Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 14 | 3| 
 | 20210701T18:49:40Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 145 | 33| 
 | 20210701T12:12:21Z | Dynamic Symbolic Execution Engine | https://github.com/Fishermanykx/DSE | 0 | 0| 
@@ -111,6 +111,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210702T01:54:53Z | The Official Fuzzy Britches Repository. | https://github.com/ThePapaw/fuzzybritches | 0 | 0| 
+| 20210702T01:46:38Z | These tests of libdwarf/dwarfdump include old object files, new ones, and many fuzzed object files. These are the definitive tests that things work.. Most people have no reason to run these tests. | https://github.com/davea42/libdwarf-regressiontests | 0 | 0| 
 | 20210702T01:35:09Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210702T00:56:21Z | Null | https://github.com/Jose2022S/fuzzy-robot | 0 | 0| 
 | 20210702T00:30:44Z | Null | https://github.com/Pitufin123/fuzzy-guacamole | 0 | 0| 
@@ -119,8 +121,6 @@
 | 20210701T23:09:25Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 934 | 97| 
 | 20210701T22:50:50Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4530 | 445| 
 | 20210701T22:50:30Z | Fuzzing Parameters , to get user objects with sensitive information | https://github.com/N7RUZN/Fuzzers | 0 | 0| 
-| 20210701T22:33:14Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6444 | 1309| 
-| 20210701T22:25:12Z | 99minutos coverage maps | https://github.com/99minutos/fuzzy-journey | 0 | 0| 
 
 
 
