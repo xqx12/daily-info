@@ -15,6 +15,9 @@
 | 20210701 | NETGEAR 路由器固件提取以及身份窃取漏洞分析 | https://www.microsoft.com/security/blog/2021/06/30/microsoft-finds-new-netgear-firmware-vulnerabilities-that-could-lead-to-identity-theft-and-full-system-compromise/| 
 | 20210701 | McAfee 安全团队利用 AFL Fuzz ImageMagick 以及 CVE-2020-27829 越界读漏洞分析 | https://www.mcafee.com/blogs/other-blogs/mcafee-labs/fuzzing-imagemagick-and-digging-deeper-into-cve-2020-27829/| 
 | 20210701 | Windows EFI 系统分区认证绕过漏洞，成功利用可以改写 UEFI 任意文件（CVE-2021-26892） | https://www.zerodayinitiative.com/blog/2021/6/30/cve-2021-26892-an-authorization-bypass-on-the-microsoft-windows-efi-system-partition| 
+| 20210701 | COM 对象的利用与挖掘 | http://paper.seebug.org/1624/| 
+| 20210701 | 探讨理解安全漏洞与安全风险重要性的专题视频 | https://www.youtube.com/watch?v=lKzsNp4AveY&feature=youtu.be| 
+| 20210701 | 概述Linux 内核 API 的发展历史。 | https://grsecurity.net/complicated_history_simple_linux_kernel_api| 
 
 
 # 安全维基 推荐
@@ -23,21 +26,22 @@
 | 20210701 | RiskScanner: 是开源的公有云安全合规扫描平台 | https://github.com/riskscanner/riskscanner| 
 | 20210701 | 安全服务的发展 | https://mp.weixin.qq.com/s/NUEW-zwdB-15pIg7b6IC9w| 
 | 20210701 | pingtunnel: ICMP流量伪装转发工具 | https://github.com/esrrhs/pingtunnel| 
+| 20210701 | A Brief Survey of Code Obfuscation Techniques | https://chris124567.github.io/2021-06-23-survey-obfuscation/| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210701T12:47:20Z | CVE-2021-1675 | C# and Impacket implementation of CVE-2021-1675/PrintNightmare | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210701T12:24:32Z | CVE-2021-1675 | Null | https://github.com/puckiestyle/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210701T12:23:36Z | CVE-2021-1675 | CVE-2021-1675 Detection Info | https://github.com/LaresLLC/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
+| 20210701T23:58:26Z | CVE-2021-1675 | C# and Impacket implementation of CVE-2021-1675/PrintNightmare | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
+| 20210701T23:45:58Z | CVE-2021-1675 | Pure PowerShell implementation of CVE-2021-1675 Print Spooler Local Privilege Escalation (PrintNightmare) | https://github.com/calebstewart/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
+| 20210701T23:26:35Z | CVE-2021-1675 | CVE-2021-1675 Detection Info | https://github.com/LaresLLC/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
+| 20210701T22:29:51Z | CVE-2021-1675 | Local Privilege Escalation Edition for CVE-2021-1675 | https://github.com/hlldz/CVE-2021-1675-LPE | Windows Print Spooler Elevation of Privilege Vulnerability| 
+| 20210701T19:52:48Z | CVE-2021-1675 | Fix without disabling Print Spooler | https://github.com/tanarchytan/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
+| 20210701T17:28:16Z | CVE-2021-1675 | Small Powershell Script to detect Running Printer Spoolers on Domain Controller | https://github.com/DenizSe/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
+| 20210701T16:26:31Z | CVE-2021-1675 | Null | https://github.com/cybersecurityworks553/CVE-2021-1675_PrintNightMare | Windows Print Spooler Elevation of Privilege Vulnerability| 
+| 20210701T12:24:32Z | CVE-2021-1675 | Null | https://github.com/puckiestyle/CVE-2021-1675 | | 
 | 20210701T12:14:10Z | CVE-2021-1675 | CVE-2021-1675 Simple LPE Exploit | https://github.com/evilashz/CVE-2021-1675-LPE-EXP | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210701T12:12:54Z | CVE-2020-1675 | Null | https://github.com/DenizSe/CVE-2020-1675 | When Security Assertion Markup Language (SAML) authentication is enabled, Juniper Networks Mist Cloud UI might incorrectly process invalid authentication certificates which could allow a malicious network-based user to access unauthorized data. This issue affects all Juniper Networks Mist Cloud UI versions prior to September 2 2020.| 
-| 20210701T11:52:28Z | CVE-2021-1675 | Local Privilege Escalation Edition for CVE-2021-1675 | https://github.com/hlldz/CVE-2021-1675-LPE | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210701T10:10:58Z | CVE-2021-33348 | PoC for exploiting CVE-2021-33348 | https://github.com/AlAIAL90/CVE-2021-33348 | An issue was discovered in JFinal framework v4.9.10 and below. The %set% method of the %Controller% class of jfinal framework is not strictly filtered, which will lead to XSS vulnerabilities in some cases.| 
-| 20210701T10:10:53Z | CVE-2020-21787 | PoC for exploiting CVE-2020-21787 | https://github.com/AlAIAL90/CVE-2020-21787 | CRMEB 3.1.0+ is vulnerable to File Upload Getshell via /crmeb/crmeb/services/UploadService.php.| 
-| 20210701T10:10:45Z | CVE-2021-29965 | PoC for exploiting CVE-2021-29965 | https://github.com/AlAIAL90/CVE-2021-29965 | A malicious website that causes an HTTP Authentication dialog to be spawned could trick the built-in password manager to suggest passwords for the currently active website instead of the website that triggered the dialog. *This bug only affects Firefox for Android. Other operating systems are unaffected.*. This vulnerability affects Firefox < 89.| 
-| 20210701T10:10:40Z | CVE-2021-31506 | PoC for exploiting CVE-2021-31506 | https://github.com/AlAIAL90/CVE-2021-31506 | This vulnerability allows remote attackers to disclose sensitive information on affected installations of OpenText Brava! Desktop Build 16.6.4.55. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The specific flaw exists within the parsing of PDF files. The issue results from the lack of proper validation of user-supplied data, which can result in a read past the end of an allocated data structure. An attacker can leverage this in conjunction with other vulnerabilities to execute arbitrary code in the context of the current process. Was ZDI-CAN-13674.| 
 
 
 # klee on Github 推荐
@@ -58,28 +62,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210701T12:49:26Z | Proof of Concept Exploit for CVE-2021-35956, AKCP sensorProbe - %Multiple% Cross Site Scripting (XSS) | https://github.com/tcbutler320/CVE-2021-35956 | 1 | 0| 
-| 20210701T12:45:04Z | Null | https://github.com/wjddnjs33/Exploit | 0 | 0| 
-| 20210701T12:40:02Z | Agent-Based Modelling of labour exploitation in textile supply chains | https://github.com/kwabenantim/textile-labour | 0 | 0| 
-| 20210701T12:37:18Z | exploit code(incomplete) | https://github.com/fr0g2s/HackCTF-pwnable- | 0 | 0| 
-| 20210701T12:35:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9624 | 1579| 
-| 20210701T12:19:47Z | eXploit is designed to perform various social engineering attacks. | https://github.com/agnath18K/eXploit | 0 | 0| 
-| 20210701T12:14:10Z | CVE-2021-1675 Simple LPE Exploit | https://github.com/evilashz/CVE-2021-1675-LPE-EXP | 2 | 0| 
-| 20210701T12:02:55Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 25 | 12| 
-| 20210701T10:55:26Z | A helpful Java Deserialization exploit framework based on ysoserial | https://github.com/wh1t3p1g/ysomap | 419 | 37| 
-| 20210701T10:39:24Z | Inception is a physical memory manipulation and hacking tool exploiting PCI-based DMA. The tool can attack over FireWire, Thunderbolt, ExpressCard, PC Card and any other PCI/PCIe interfaces. | https://github.com/carmaa/inception | 1431 | 190| 
+| 20210701T23:57:13Z | PS4 7.5X Exploit Host (Initial Jailbreak Release) | https://github.com/Night-King-Host/75XV3b1 | 0 | 0| 
+| 20210701T23:52:50Z | Exploits that I have made for CTF and study purpose.   | https://github.com/farinap5/My-Exploits | 0 | 0| 
+| 20210701T23:21:52Z | Writeup for exploit.education/nebula | https://github.com/vi11ain/nebula-writeup | 1 | 0| 
+| 20210701T23:02:52Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 25 | 12| 
+| 20210701T23:02:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9631 | 1579| 
+| 20210701T22:43:44Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 3709 | 514| 
+| 20210701T21:18:45Z | A living document for penetration testing and offensive security. | https://github.com/0xffsec/handbook | 25 | 5| 
+| 20210701T21:15:03Z | The whole collection of Exploits developed by me (Hacker5preme) | https://github.com/Hacker5preme/Exploits | 3 | 0| 
+| 20210701T21:05:46Z | A simple utility to create and exploit backdoors in the Diffie-Hellman protocol | https://github.com/jinscoe123/dph | 0 | 0| 
+| 20210701T21:04:58Z | An experimental debt system for me and my friends, exploiting git requests for financial safety and gits history for trust | https://github.com/psorus/git-pay | 0 | 2| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210701T22:00:43Z | python backdoor | https://github.com/emmalee2003/python-backdoor | 0 | 0| 
+| 20210701T21:29:07Z | Null | https://github.com/SecuProject/Backdoor | 0 | 0| 
+| 20210701T21:05:46Z | A simple utility to create and exploit backdoors in the Diffie-Hellman protocol | https://github.com/jinscoe123/dph | 0 | 0| 
+| 20210701T17:38:22Z | Pytorch implementation of backdoor unlearning. | https://github.com/fmy266/Pytorch-Backdoor-Unlearning | 1 | 0| 
 | 20210701T10:37:39Z | A Python module for building botnet ,backdoor or trojan with Telegram control panel | https://github.com/onionj/pybotnet | 3 | 2| 
 | 20210701T08:45:40Z | This is a python backdoor project. This is for educational purposes only. | https://github.com/TKLinux966/B4cKD00R | 0 | 1| 
 | 20210701T08:43:39Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 275 | 121| 
 | 20210701T07:27:37Z | Null | https://github.com/X-MarsHall/Shell-Backdoor | 0 | 0| 
 | 20210701T06:01:33Z | Weird-Backdoor is simply a RCE tool. | https://github.com/lilmond/Weird-Backdoor | 0 | 0| 
 | 20210701T01:02:42Z | Null | https://github.com/ShannonAI/backdoor_nlg | 2 | 2| 
-| 20210701T00:59:19Z | Pytorch implementation of backdoor unlearning. | https://github.com/fmy266/Pytorch-Backdoor-Unlearning | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -101,16 +108,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210701T12:29:28Z | Null | https://github.com/tyahsuabdkwb/fuzzy-journey | 0 | 0| 
-| 20210701T12:24:49Z | Null | https://github.com/Hrkahfidj/fuzzy-octo-funicular | 0 | 0| 
-| 20210701T12:15:11Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 14 | 7| 
-| 20210701T12:05:26Z | %Seed Selection for Successful Fuzzing% artifact (at ISSTA 2021) | https://github.com/HexHive/fuzzing-seed-selection | 24 | 6| 
-| 20210701T11:33:37Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 1 | 1| 
-| 20210701T11:26:24Z | My personal portfolio website | https://github.com/FuzzyGrim/fuzzygrim.github.io | 0 | 0| 
-| 20210701T10:35:37Z | Basit sugeno type fuzzy system. | https://github.com/mwlt68/Sugeno-Fuzzy-System | 1 | 0| 
-| 20210701T10:26:28Z | just a personal site~ | https://github.com/davelowqx/fuzzyfilms | 0 | 0| 
-| 20210701T09:57:37Z | A library of fuzzy rough machine learning algorithms | https://github.com/oulenz/fuzzy-rough-learn | 6 | 2| 
-| 20210701T08:40:59Z | Fuzzing tool for the 14th institute | https://github.com/Radon10043/fuzzing-tool-14 | 0 | 0| 
+| 20210701T23:52:43Z | Primitive posts fuzzer for GETTR in python | https://github.com/vasyaanarhist/GETTRPostCrawler | 0 | 0| 
+| 20210701T23:09:25Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 934 | 97| 
+| 20210701T22:50:50Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4530 | 445| 
+| 20210701T22:50:30Z | Fuzzing Parameters , to get user objects with sensitive information | https://github.com/N7RUZN/Fuzzers | 0 | 0| 
+| 20210701T22:34:32Z | Fuzzy Feedback  | https://github.com/lucasrodri/retro_fuzzy | 0 | 0| 
+| 20210701T22:33:14Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6444 | 1309| 
+| 20210701T22:25:12Z | 99minutos coverage maps | https://github.com/99minutos/fuzzy-journey | 0 | 0| 
+| 20210701T22:10:36Z | Null | https://github.com/picatz/go-fuzz-exporter | 0 | 0| 
+| 20210701T21:14:35Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2350 | 130| 
+| 20210701T21:01:45Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 
 
 
