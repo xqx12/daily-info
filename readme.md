@@ -115,12 +115,12 @@
 | 20210701T23:09:25Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 934 | 97| 
 | 20210701T22:50:50Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4530 | 445| 
 | 20210701T22:50:30Z | Fuzzing Parameters , to get user objects with sensitive information | https://github.com/N7RUZN/Fuzzers | 0 | 0| 
-| 20210701T22:34:32Z | Fuzzy Feedback  | https://github.com/lucasrodri/retro_fuzzy | 0 | 0| 
 | 20210701T22:33:14Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6444 | 1309| 
 | 20210701T22:25:12Z | 99minutos coverage maps | https://github.com/99minutos/fuzzy-journey | 0 | 0| 
 | 20210701T22:10:36Z | Null | https://github.com/picatz/go-fuzz-exporter | 0 | 0| 
 | 20210701T21:14:35Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2350 | 130| 
 | 20210701T21:01:45Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20210701T20:58:23Z | rest-fuzzer is a fuzzer capable of fuzzing REST web services. rest-fuzzer can perform different fuzzing approaches, e.g., basic fuzzing (mutation-based), and model-based (generation-based) | https://github.com/JasonKleuskens1/rest-fuzzer | 0 | 0| 
 
 
 

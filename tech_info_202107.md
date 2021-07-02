@@ -111,11 +111,11 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210702T00:10:01Z | Fuzzy Feedback  | https://github.com/lucasrodri/retro_fuzzy | 0 | 0| 
 | 20210701T23:52:43Z | Primitive posts fuzzer for GETTR in python | https://github.com/vasyaanarhist/GETTRPostCrawler | 0 | 0| 
 | 20210701T23:09:25Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 934 | 97| 
 | 20210701T22:50:50Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4530 | 445| 
 | 20210701T22:50:30Z | Fuzzing Parameters , to get user objects with sensitive information | https://github.com/N7RUZN/Fuzzers | 0 | 0| 
-| 20210701T22:34:32Z | Fuzzy Feedback  | https://github.com/lucasrodri/retro_fuzzy | 0 | 0| 
 | 20210701T22:33:14Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6444 | 1309| 
 | 20210701T22:25:12Z | 99minutos coverage maps | https://github.com/99minutos/fuzzy-journey | 0 | 0| 
 | 20210701T22:10:36Z | Null | https://github.com/picatz/go-fuzz-exporter | 0 | 0| 
