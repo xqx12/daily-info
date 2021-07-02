@@ -34,7 +34,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210702T00:32:11Z | CVE-2021-1675 | Local Privilege Escalation Edition for CVE-2021-1675 | https://github.com/hlldz/CVE-2021-1675-LPE | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210702T00:27:59Z | CVE-2021-1675 | Pure PowerShell implementation of CVE-2021-1675 Print Spooler Local Privilege Escalation (PrintNightmare) | https://github.com/calebstewart/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210702T00:22:32Z | CVE-2021-1675 | C# and Impacket implementation of CVE-2021-1675/PrintNightmare | https://github.com/cube0x0/CVE-2021-1675 | | 
+| 20210702T00:22:32Z | CVE-2021-1675 | C# and Impacket implementation of CVE-2021-1675/PrintNightmare | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210702T00:02:20Z | CVE-2021-1675 | CVE-2021-1675 Detection Info | https://github.com/LaresLLC/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210701T19:52:48Z | CVE-2021-1675 | Fix without disabling Print Spooler | https://github.com/tanarchytan/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210701T17:28:16Z | CVE-2021-1675 | Small Powershell Script to detect Running Printer Spoolers on Domain Controller | https://github.com/DenizSe/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
@@ -111,6 +111,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210702T00:30:44Z | Null | https://github.com/Pitufin123/fuzzy-guacamole | 0 | 0| 
 | 20210702T00:10:01Z | Fuzzy Feedback  | https://github.com/lucasrodri/retro_fuzzy | 0 | 0| 
 | 20210701T23:52:43Z | Primitive posts fuzzer for GETTR in python | https://github.com/vasyaanarhist/GETTRPostCrawler | 0 | 0| 
 | 20210701T23:09:25Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 934 | 97| 
@@ -120,7 +121,6 @@
 | 20210701T22:25:12Z | 99minutos coverage maps | https://github.com/99minutos/fuzzy-journey | 0 | 0| 
 | 20210701T22:10:36Z | Null | https://github.com/picatz/go-fuzz-exporter | 0 | 0| 
 | 20210701T21:14:35Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2350 | 130| 
-| 20210701T21:01:45Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 
 
 
