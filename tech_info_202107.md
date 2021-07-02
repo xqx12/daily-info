@@ -62,8 +62,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210702T00:51:24Z | 7.5X Exploit FW (May 2nd, 2021) Exploit | https://github.com/Night-King-Host/75XV3b3 | 0 | 0| 
 | 20210702T00:50:32Z | 7.5x FW Exploit (Exploit Date: May 27th, 2021) | https://github.com/Night-King-Host/75XV3b5 | 0 | 0| 
-| 20210702T00:27:32Z | 7.5X Exploit FW (May 2nd, 2021) Exploit | https://github.com/Night-King-Host/75XV3b3 | 0 | 0| 
 | 20210702T00:15:34Z | Extensible framework for analyzing publicly available information about vulnerabilities | https://github.com/leonov-av/vulristics | 34 | 3| 
 | 20210702T00:14:48Z | PS4 7.5X Host Exploit (Reduce sleeps in jb.c to speed up) | https://github.com/Night-King-Host/75XV3b2 | 0 | 0| 
 | 20210702T00:02:59Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 25 | 12| 
