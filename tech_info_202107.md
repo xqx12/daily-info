@@ -46,10 +46,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210702T12:22:05Z | CVE-2021-1675 | Pure PowerShell implementation of CVE-2021-1675 Print Spooler Local Privilege Escalation (PrintNightmare) | https://github.com/calebstewart/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
+| 20210702T12:19:44Z | CVE-2021-1675 | CVE-2021-1675 Detection Info | https://github.com/LaresLLC/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210702T12:17:58Z | CVE-2021-1675 | Null | https://github.com/thomasgeens/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210702T12:17:52Z | CVE-2021-34527 | Null | https://github.com/JohnHammond/CVE-2021-34527 | 未查询到CVE信息| 
-| 20210702T12:15:44Z | CVE-2021-1675 | Pure PowerShell implementation of CVE-2021-1675 Print Spooler Local Privilege Escalation (PrintNightmare) | https://github.com/calebstewart/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210702T12:13:32Z | CVE-2021-1675 | CVE-2021-1675 Detection Info | https://github.com/LaresLLC/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210702T12:01:53Z | CVE-2021-1675 | C# and Impacket implementation of CVE-2021-1675/PrintNightmare | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210702T11:56:16Z | CVE-2021-1675 | Local Privilege Escalation Edition for CVE-2021-1675 | https://github.com/hlldz/CVE-2021-1675-LPE | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210702T11:17:07Z | CVE-2020-15368 | How to exploit a vulnerable windows driver. Exploit for AsrDrv104.sys | https://github.com/stong/CVE-2020-15368 | AsrDrv103.sys in the ASRock RGB Driver does not properly restrict access from user space, as demonstrated by triggering a triple fault via a request to zero CR3.| 
@@ -92,6 +92,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210702T12:20:27Z | Data Exfiltration via HTTP Traffic (C# and Shell Script) | https://github.com/DamonMohammadbagher/NativePayload_HTTP | 10 | 7| 
 | 20210702T12:16:57Z | python backdoor | https://github.com/emmalee2003/python-backdoor | 1 | 0| 
 | 20210702T08:32:05Z | Backdoors Framework for Deep Learning and Federated Learning. A light-weight tool to conduct your research on backdoors. | https://github.com/ebagdasa/backdoors101 | 86 | 23| 
 | 20210702T08:27:03Z | This is a python backdoor project. This is for educational purposes only. | https://github.com/TKLinux966/B4cKD00R | 0 | 1| 
@@ -101,7 +102,6 @@
 | 20210702T01:33:02Z | Utility for creating backdoors in Bukkit plugins | https://github.com/Rikonardo/Bukloit | 21 | 3| 
 | 20210702T01:03:03Z | Backdoor for Minecraft Spigot Servers... | https://github.com/BlowoutMastry/Backdoor | 0 | 0| 
 | 20210701T21:29:07Z | Null | https://github.com/SecuProject/Backdoor | 0 | 0| 
-| 20210701T21:05:46Z | A simple utility to create and exploit backdoors in the Diffie-Hellman protocol | https://github.com/jinscoe123/dph | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -129,16 +129,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210702T12:22:00Z | Null | https://github.com/amitk0693/Variants-of-Fuzzy-Neural-Gas | 0 | 0| 
+| 20210702T12:19:46Z | AHP dan Fuzzy AHP implementasi dengan Php,dengan kriteria bersifat dinamis | https://github.com/pramulia-nasution/ahpFuzzy | 0 | 0| 
+| 20210702T12:17:11Z | Null | https://github.com/dwiwahyudi/fuzzy | 0 | 0| 
 | 20210702T12:03:25Z | My personal portfolio website | https://github.com/FuzzyGrim/fuzzygrim.github.io | 0 | 0| 
-| 20210702T11:54:30Z | Null | https://github.com/dwiwahyudi/fuzzy | 0 | 0| 
 | 20210702T11:53:45Z | Null | https://github.com/AdaLogics/go-fuzz-headers | 2 | 1| 
 | 20210702T11:53:24Z | Binary code-coverage fuzzer for macOS, based on libFuzzer and LLVM | https://github.com/ant4g0nist/ManuFuzzer | 82 | 7| 
 | 20210702T11:28:30Z | Null | https://github.com/schemathesis/web-api-fuzzing-project | 4 | 0| 
 | 20210702T11:15:28Z | Null | https://github.com/rohanpandey/fuzzy_match_dataframe | 0 | 0| 
 | 20210702T11:04:39Z | DDRFuzz is a fuzzing system based on a seq2seq model to generate valuable seed corpus. | https://github.com/kppw99/ddrfuzz | 2 | 1| 
 | 20210702T11:00:39Z | My master thesis project for fuzzy logic control system on raspberry pi 4 with python | https://github.com/Yerlan999/FuzzyLogic_Control_on_RaspberryPi | 0 | 0| 
-| 20210702T10:36:57Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210702T10:05:35Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 
 
 
