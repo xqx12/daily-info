@@ -36,13 +36,13 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210702T12:39:37Z | CVE-2021-1675 | C# and Impacket implementation of CVE-2021-1675/PrintNightmare | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210702T12:34:39Z | CVE-2021-3560 | Null | https://github.com/mr-nO0b/CVE-2021-3560 | 未查询到CVE信息| 
 | 20210702T12:31:45Z | CVE-2021-1675 | Pure PowerShell implementation of CVE-2021-1675 Print Spooler Local Privilege Escalation (PrintNightmare) | https://github.com/calebstewart/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210702T12:24:39Z | CVE-2021-34527 | Null | https://github.com/JohnHammond/CVE-2021-34527 | 未查询到CVE信息| 
 | 20210702T12:24:12Z | CVE-2021-1675 | Local Privilege Escalation Edition for CVE-2021-1675 | https://github.com/hlldz/CVE-2021-1675-LPE | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210702T12:19:44Z | CVE-2021-1675 | CVE-2021-1675 Detection Info | https://github.com/LaresLLC/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210702T12:17:58Z | CVE-2021-1675 | Null | https://github.com/thomasgeens/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210702T12:01:53Z | CVE-2021-1675 | C# and Impacket implementation of CVE-2021-1675/PrintNightmare | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210702T11:17:07Z | CVE-2020-15368 | How to exploit a vulnerable windows driver. Exploit for AsrDrv104.sys | https://github.com/stong/CVE-2020-15368 | AsrDrv103.sys in the ASRock RGB Driver does not properly restrict access from user space, as demonstrated by triggering a triple fault via a request to zero CR3.| 
 | 20210702T10:47:39Z | CVE-2021-1675 | CVE-2021-1675 Simple LPE Exploit | https://github.com/evilashz/CVE-2021-1675-LPE-EXP | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210702T10:22:50Z | CVE-2021-27850 | Apache Tapestry CVE-2021-27850 PoC | https://github.com/Ovi3/CVE_2021_27850_POC | A critical unauthenticated remote code execution vulnerability was found all recent versions of Apache Tapestry. The affected versions include 5.4.5, 5.5.0, 5.6.2 and 5.7.0. The vulnerability I have found is a bypass of the fix for CVE-2019-0195. Recap: Before the fix of CVE-2019-0195 it was possible to download arbitrary class files from the classpath by providing a crafted asset file URL. An attacker was able to download the file `AppModule.class` by requesting the URL `http://localhost:8080/assets/something/services/AppModule.class` which contains a HMAC secret key. The fix for that bug was a blacklist filter that checks if the URL ends with `.class`, `.properties` or `.xml`. Bypass: Unfortunately, the blacklist solution can simply be bypassed by appending a `/` at the end of the URL: `http://localhost:8080/assets/something/services/AppModule.class/` The slash is stripped after the blacklist check and the file `AppModule.class` is loaded into the response. This class usually contains the HMAC secret key which is used to sign serialized Java objects. With the knowledge of that key an attacker can sign a Java gadget chain that leads to RCE (e.g. CommonsBeanUtils1 from ysoserial). Solution for this vulnerability: * For Apache Tapestry 5.4.0 to 5.6.1, upgrade to 5.6.2 or later. * For Apache Tapestry 5.7.0, upgrade to 5.7.1 or later.| 
@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210702T12:37:58Z | Educational web application demonstrating techniques of binary exploitation (Front-end) | https://github.com/Pen-Test3rs/binary_exploits_frontend | 0 | 0| 
 | 20210702T12:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9633 | 1579| 
 | 20210702T12:23:33Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 76 | 13| 
 | 20210702T12:09:02Z | DebugSploit Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. DebugSploit Framework gives you the power and convenience of remote Android device administration. | https://github.com/G00Dway/DebugSploit | 2 | 0| 
@@ -72,7 +73,6 @@
 | 20210702T11:27:55Z | Null | https://github.com/kiarashjam/Exploiting-Video-Games-to-Test-AV | 0 | 1| 
 | 20210702T11:10:35Z | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | 201 | 32| 
 | 20210702T10:47:39Z | CVE-2021-1675 Simple LPE Exploit | https://github.com/evilashz/CVE-2021-1675-LPE-EXP | 6 | 1| 
-| 20210702T10:25:11Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 15 | 4| 
 
 
 # backdoor on Github 推荐
