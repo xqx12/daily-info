@@ -40,11 +40,11 @@
 | 20210702T12:19:44Z | CVE-2021-1675 | CVE-2021-1675 Detection Info | https://github.com/LaresLLC/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210702T12:17:58Z | CVE-2021-1675 | Null | https://github.com/thomasgeens/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210702T12:17:52Z | CVE-2021-34527 | Null | https://github.com/JohnHammond/CVE-2021-34527 | 未查询到CVE信息| 
-| 20210702T12:01:53Z | CVE-2021-1675 | C# and Impacket implementation of CVE-2021-1675/PrintNightmare | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
+| 20210702T12:01:53Z | CVE-2021-1675 | C# and Impacket implementation of CVE-2021-1675/PrintNightmare | https://github.com/cube0x0/CVE-2021-1675 | | 
 | 20210702T11:56:16Z | CVE-2021-1675 | Local Privilege Escalation Edition for CVE-2021-1675 | https://github.com/hlldz/CVE-2021-1675-LPE | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210702T11:17:07Z | CVE-2020-15368 | How to exploit a vulnerable windows driver. Exploit for AsrDrv104.sys | https://github.com/stong/CVE-2020-15368 | AsrDrv103.sys in the ASRock RGB Driver does not properly restrict access from user space, as demonstrated by triggering a triple fault via a request to zero CR3.| 
 | 20210702T10:47:39Z | CVE-2021-1675 | CVE-2021-1675 Simple LPE Exploit | https://github.com/evilashz/CVE-2021-1675-LPE-EXP | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210702T10:22:50Z | CVE-2021-27850 | Apache Tapestry CVE-2021-27850 PoC | https://github.com/Ovi3/CVE_2021_27850_POC | A critical unauthenticated remote code execution vulnerability was found all recent versions of Apache Tapestry. The affected versions include 5.4.5, 5.5.0, 5.6.2 and 5.7.0. The vulnerability I have found is a bypass of the fix for CVE-2019-0195. Recap: Before the fix of CVE-2019-0195 it was possible to download arbitrary class files from the classpath by providing a crafted asset file URL. An attacker was able to download the file `AppModule.class` by requesting the URL `http://localhost:8080/assets/something/services/AppModule.class` which contains a HMAC secret key. The fix for that bug was a blacklist filter that checks if the URL ends with `.class`, `.properties` or `.xml`. Bypass: Unfortunately, the blacklist solution can simply be bypassed by appending a `/` at the end of the URL: `http://localhost:8080/assets/something/services/AppModule.class/` The slash is stripped after the blacklist check and the file `AppModule.class` is loaded into the response. This class usually contains the HMAC secret key which is used to sign serialized Java objects. With the knowledge of that key an attacker can sign a Java gadget chain that leads to RCE (e.g. CommonsBeanUtils1 from ysoserial). Solution for this vulnerability: * For Apache Tapestry 5.4.0 to 5.6.1, upgrade to 5.6.2 or later. * For Apache Tapestry 5.7.0, upgrade to 5.7.1 or later.| 
+| 20210702T10:22:50Z | CVE-2021-27850 | Apache Tapestry CVE-2021-27850 PoC | https://github.com/Ovi3/CVE_2021_27850_POC | | 
 | 20210702T10:17:26Z | CVE-2021-3560 | Null | https://github.com/mr-nO0b/CVE-2021-3560 | 未查询到CVE信息| 
 
 
@@ -78,6 +78,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210702T12:23:05Z | Transferring Backdoor Payload by BSSID and Wireless traffic | https://github.com/DamonMohammadbagher/NativePayload_BSSID | 48 | 40| 
 | 20210702T12:20:27Z | Data Exfiltration via HTTP Traffic (C# and Shell Script) | https://github.com/DamonMohammadbagher/NativePayload_HTTP | 10 | 7| 
 | 20210702T12:16:57Z | python backdoor | https://github.com/emmalee2003/python-backdoor | 1 | 0| 
 | 20210702T08:32:05Z | Backdoors Framework for Deep Learning and Federated Learning. A light-weight tool to conduct your research on backdoors. | https://github.com/ebagdasa/backdoors101 | 86 | 23| 
@@ -109,7 +110,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210702T12:22:00Z | Null | https://github.com/amitk0693/Variants-of-Fuzzy-Neural-Gas | 0 | 0| 
+| 20210702T12:23:33Z | Null | https://github.com/amitk0693/Variants-of-Fuzzy-Neural-Gas | 0 | 0| 
 | 20210702T12:19:46Z | AHP dan Fuzzy AHP implementasi dengan Php,dengan kriteria bersifat dinamis | https://github.com/pramulia-nasution/ahpFuzzy | 0 | 0| 
 | 20210702T12:17:11Z | Null | https://github.com/dwiwahyudi/fuzzy | 0 | 0| 
 | 20210702T12:03:25Z | My personal portfolio website | https://github.com/FuzzyGrim/fuzzygrim.github.io | 0 | 0| 
