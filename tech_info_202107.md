@@ -32,9 +32,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210702T01:41:10Z | CVE-2021-1675 | C# and Impacket implementation of CVE-2021-1675/PrintNightmare | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
+| 20210702T01:41:05Z | CVE-2021-1675 | CVE-2021-1675 Detection Info | https://github.com/LaresLLC/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210702T01:39:05Z | CVE-2021-1675 | Pure PowerShell implementation of CVE-2021-1675 Print Spooler Local Privilege Escalation (PrintNightmare) | https://github.com/calebstewart/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210702T01:37:10Z | CVE-2021-1675 | C# and Impacket implementation of CVE-2021-1675/PrintNightmare | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210702T01:35:07Z | CVE-2021-1675 | CVE-2021-1675 Detection Info | https://github.com/LaresLLC/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210702T01:32:53Z | CVE-2021-1675 | Local Privilege Escalation Edition for CVE-2021-1675 | https://github.com/hlldz/CVE-2021-1675-LPE | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210702T01:11:28Z | CVE-2021-1675 | CVE-2021-1675 Simple LPE Exploit | https://github.com/evilashz/CVE-2021-1675-LPE-EXP | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210701T19:52:48Z | CVE-2021-1675 | Fix without disabling Print Spooler | https://github.com/tanarchytan/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
@@ -77,6 +77,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210702T01:33:02Z | Utility for creating backdoors in Bukkit plugins | https://github.com/Rikonardo/Bukloit | 21 | 3| 
 | 20210702T01:03:03Z | Backdoor for Minecraft Spigot Servers... | https://github.com/BlowoutMastry/Backdoor | 0 | 0| 
 | 20210701T22:00:43Z | python backdoor | https://github.com/emmalee2003/python-backdoor | 0 | 0| 
 | 20210701T21:29:07Z | Null | https://github.com/SecuProject/Backdoor | 0 | 0| 
@@ -86,7 +87,6 @@
 | 20210701T08:45:40Z | This is a python backdoor project. This is for educational purposes only. | https://github.com/TKLinux966/B4cKD00R | 0 | 1| 
 | 20210701T08:43:39Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 275 | 121| 
 | 20210701T07:27:37Z | Null | https://github.com/X-MarsHall/Shell-Backdoor | 0 | 0| 
-| 20210701T06:01:33Z | Weird-Backdoor is simply a RCE tool. | https://github.com/lilmond/Weird-Backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
