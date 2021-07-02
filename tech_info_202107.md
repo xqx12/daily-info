@@ -77,6 +77,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210702T00:57:45Z | Backdoor for Minecraft Spigot Servers... | https://github.com/BlowoutMastry/Backdoor | 0 | 0| 
 | 20210701T22:00:43Z | python backdoor | https://github.com/emmalee2003/python-backdoor | 0 | 0| 
 | 20210701T21:29:07Z | Null | https://github.com/SecuProject/Backdoor | 0 | 0| 
 | 20210701T21:05:46Z | A simple utility to create and exploit backdoors in the Diffie-Hellman protocol | https://github.com/jinscoe123/dph | 0 | 0| 
@@ -86,7 +87,6 @@
 | 20210701T08:43:39Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 275 | 121| 
 | 20210701T07:27:37Z | Null | https://github.com/X-MarsHall/Shell-Backdoor | 0 | 0| 
 | 20210701T06:01:33Z | Weird-Backdoor is simply a RCE tool. | https://github.com/lilmond/Weird-Backdoor | 0 | 0| 
-| 20210701T01:02:42Z | Null | https://github.com/ShannonAI/backdoor_nlg | 2 | 2| 
 
 
 # symbolic execution on Github 推荐
