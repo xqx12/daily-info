@@ -16,6 +16,7 @@
 | 20210702 | Google 利用开源工具 scorecard 为开源项目评估安全风险 | https://security.googleblog.com/2021/07/measuring-security-risks-in-open-source.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+GoogleOnlineSecurityBlog+%28Google+Online+Security+Blog%29| 
 | 20210702 | IndigoZebra APT continues to attack Central Asia with evolving tools | https://research.checkpoint.com/2021/indigozebra-apt-continues-to-attack-central-asia-with-evolving-tools/| 
 | 20210702 | Mirai_ptea Botnet 利用 KGUARD DVR 未公开的漏洞传播 | https://sec.today/pulses/5a672ffd-a6c7-4937-9b3a-c56c4d2e9e3f/| 
+| 20210702 | Mirai_ptea Botnet 利用 KGUARD DVR 未公开的漏洞传播 | https://blog.netlab.360.com/mirai_ptea-botnet-is-exploiting-undisclosed-kguard-dvr-vulnerability/| 
 
 
 # 安全维基 推荐
@@ -89,6 +90,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210702T11:23:16Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1833 | 384| 
+| 20210702T07:48:14Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1725 | 496| 
+| 20210702T07:43:45Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 19 | 11| 
+| 20210702T04:30:01Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 423 | 65| 
 | 20210702T01:55:31Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2372 | 349| 
 | 20210702T00:49:37Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 14 | 3| 
 

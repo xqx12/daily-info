@@ -16,6 +16,7 @@
 | 20210702 | Google 利用开源工具 scorecard 为开源项目评估安全风险 | https://security.googleblog.com/2021/07/measuring-security-risks-in-open-source.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+GoogleOnlineSecurityBlog+%28Google+Online+Security+Blog%29| 
 | 20210702 | IndigoZebra APT continues to attack Central Asia with evolving tools | https://research.checkpoint.com/2021/indigozebra-apt-continues-to-attack-central-asia-with-evolving-tools/| 
 | 20210702 | Mirai_ptea Botnet 利用 KGUARD DVR 未公开的漏洞传播 | https://sec.today/pulses/5a672ffd-a6c7-4937-9b3a-c56c4d2e9e3f/| 
+| 20210702 | Mirai_ptea Botnet 利用 KGUARD DVR 未公开的漏洞传播 | https://blog.netlab.360.com/mirai_ptea-botnet-is-exploiting-undisclosed-kguard-dvr-vulnerability/| 
 | 20210701 | Detecting new crypto mining attack targeting Kubeflow and TensorFlow | https://sysdig.com/blog/crypto-mining-kubeflow-tensorflow-falco/| 
 | 20210701 | 利用 Cisco 身份服务引擎 XSS 漏洞实现远程 Root RCE 的分析 | https://github.com/pedrib/PoC/blob/master/advisories/Cisco/cisco_ise_rce.md| 
 | 20210701 | VNC Penetration Testing | https://www.hackingarticles.in/vnc-penetration-testing/| 
@@ -25,7 +26,6 @@
 | 20210701 | NETGEAR 路由器固件提取以及身份窃取漏洞分析 | https://www.microsoft.com/security/blog/2021/06/30/microsoft-finds-new-netgear-firmware-vulnerabilities-that-could-lead-to-identity-theft-and-full-system-compromise/| 
 | 20210701 | McAfee 安全团队利用 AFL Fuzz ImageMagick 以及 CVE-2020-27829 越界读漏洞分析 | https://www.mcafee.com/blogs/other-blogs/mcafee-labs/fuzzing-imagemagick-and-digging-deeper-into-cve-2020-27829/| 
 | 20210701 | Windows EFI 系统分区认证绕过漏洞，成功利用可以改写 UEFI 任意文件（CVE-2021-26892） | https://www.zerodayinitiative.com/blog/2021/6/30/cve-2021-26892-an-authorization-bypass-on-the-microsoft-windows-efi-system-partition| 
-| 20210701 | COM 对象的利用与挖掘 | http://paper.seebug.org/1624/| 
 
 
 # 安全维基 推荐
@@ -107,11 +107,14 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210702T11:23:16Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1833 | 384| 
+| 20210702T07:48:14Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1725 | 496| 
+| 20210702T07:43:45Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 19 | 11| 
+| 20210702T04:30:01Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 423 | 65| 
 | 20210702T01:55:31Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2372 | 349| 
 | 20210702T00:49:37Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 14 | 3| 
 | 20210701T18:49:40Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 145 | 33| 
 | 20210701T12:12:21Z | Dynamic Symbolic Execution Engine | https://github.com/Fishermanykx/DSE | 0 | 0| 
-| 20210701T08:17:45Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1832 | 383| 
 | 20210701T06:16:12Z | Aggressive compile-time optimizations for JavaScript via dynamic symbolic VM execution. | https://github.com/undefinedbuddy/optimizr | 24 | 0| 
 | 20210701T00:22:16Z | A symbolic execution engine for Chisel circuits. | https://github.com/ekiwi/maltese | 0 | 1| 
 
