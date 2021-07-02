@@ -32,9 +32,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210702T00:27:59Z | CVE-2021-1675 | Pure PowerShell implementation of CVE-2021-1675 Print Spooler Local Privilege Escalation (PrintNightmare) | https://github.com/calebstewart/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210702T00:22:32Z | CVE-2021-1675 | C# and Impacket implementation of CVE-2021-1675/PrintNightmare | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210702T00:19:11Z | CVE-2021-1675 | Pure PowerShell implementation of CVE-2021-1675 Print Spooler Local Privilege Escalation (PrintNightmare) | https://github.com/calebstewart/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210702T00:02:20Z | CVE-2021-1675 | CVE-2021-1675 Detection Info | https://github.com/LaresLLC/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
+| 20210702T00:02:20Z | CVE-2021-1675 | CVE-2021-1675 Detection Info | https://github.com/LaresLLC/CVE-2021-1675 | | 
 | 20210701T22:29:51Z | CVE-2021-1675 | Local Privilege Escalation Edition for CVE-2021-1675 | https://github.com/hlldz/CVE-2021-1675-LPE | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210701T19:52:48Z | CVE-2021-1675 | Fix without disabling Print Spooler | https://github.com/tanarchytan/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210701T17:28:16Z | CVE-2021-1675 | Small Powershell Script to detect Running Printer Spoolers on Domain Controller | https://github.com/DenizSe/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
@@ -62,6 +62,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210702T00:27:32Z | 7.5X Exploit FW (May 2nd, 2021) Exploit | https://github.com/Night-King-Host/75XV3b3 | 0 | 0| 
 | 20210702T00:15:34Z | Extensible framework for analyzing publicly available information about vulnerabilities | https://github.com/leonov-av/vulristics | 34 | 3| 
 | 20210702T00:14:48Z | PS4 7.5X Host Exploit (Reduce sleeps in jb.c to speed up) | https://github.com/Night-King-Host/75XV3b2 | 0 | 0| 
 | 20210702T00:02:59Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 25 | 12| 
@@ -71,7 +72,6 @@
 | 20210701T23:02:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9631 | 1579| 
 | 20210701T22:43:44Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 3709 | 514| 
 | 20210701T21:18:45Z | A living document for penetration testing and offensive security. | https://github.com/0xffsec/handbook | 25 | 5| 
-| 20210701T21:15:03Z | The whole collection of Exploits developed by me (Hacker5preme) | https://github.com/Hacker5preme/Exploits | 3 | 0| 
 
 
 # backdoor on Github 推荐
