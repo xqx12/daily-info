@@ -78,6 +78,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210702T12:26:06Z | C# code for Transferring Backdoor Payloads by ARP Traffic and Bypassing Anti-viruses (Slow) | https://github.com/DamonMohammadbagher/NativePayload_ARP | 36 | 28| 
+| 20210702T12:25:12Z | Simple Script %NativePayload_ARP2.sh% for Sending DATA via ARP Bcast Traffic to all systems in (LAN) by %Vid% tag | https://github.com/DamonMohammadbagher/NativePayload_ARP2 | 8 | 7| 
 | 20210702T12:24:24Z | Transferring Backdoor Payloads with BMP Image Pixels | https://github.com/DamonMohammadbagher/NativePayload_Image | 59 | 34| 
 | 20210702T12:23:05Z | Transferring Backdoor Payload by BSSID and Wireless traffic | https://github.com/DamonMohammadbagher/NativePayload_BSSID | 48 | 40| 
 | 20210702T12:20:27Z | Data Exfiltration via HTTP Traffic (C# and Shell Script) | https://github.com/DamonMohammadbagher/NativePayload_HTTP | 10 | 7| 
@@ -86,8 +88,6 @@
 | 20210702T08:27:03Z | This is a python backdoor project. This is for educational purposes only. | https://github.com/TKLinux966/B4cKD00R | 0 | 1| 
 | 20210702T06:25:10Z | Null | https://github.com/ShannonAI/backdoor_nlg | 3 | 2| 
 | 20210702T03:26:04Z | 🙈 Small collection of bash scripts to take advantage of the .bashrc file and inject various payloads into it in order to escalate privilege or steal credentials.  | https://github.com/Naqwada/Bashrc-Backdoors | 0 | 0| 
-| 20210702T02:30:33Z | Roblox cookie logger via Discord webhook. | https://github.com/lilmond/RoCL | 0 | 0| 
-| 20210702T01:33:02Z | Utility for creating backdoors in Bukkit plugins | https://github.com/Rikonardo/Bukloit | 21 | 3| 
 
 
 # symbolic execution on Github 推荐
