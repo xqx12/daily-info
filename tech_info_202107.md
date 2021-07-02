@@ -32,12 +32,12 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210702T01:35:07Z | CVE-2021-1675 | CVE-2021-1675 Detection Info | https://github.com/LaresLLC/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210702T01:33:15Z | CVE-2021-1675 | Pure PowerShell implementation of CVE-2021-1675 Print Spooler Local Privilege Escalation (PrintNightmare) | https://github.com/calebstewart/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210702T01:32:53Z | CVE-2021-1675 | Local Privilege Escalation Edition for CVE-2021-1675 | https://github.com/hlldz/CVE-2021-1675-LPE | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210702T01:19:50Z | CVE-2021-1675 | C# and Impacket implementation of CVE-2021-1675/PrintNightmare | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210702T01:11:28Z | CVE-2021-1675 | CVE-2021-1675 Simple LPE Exploit | https://github.com/evilashz/CVE-2021-1675-LPE-EXP | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210702T01:08:44Z | CVE-2021-1675 | CVE-2021-1675 Detection Info | https://github.com/LaresLLC/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210701T19:52:48Z | CVE-2021-1675 | Fix without disabling Print Spooler | https://github.com/tanarchytan/CVE-2021-1675 | | 
+| 20210701T19:52:48Z | CVE-2021-1675 | Fix without disabling Print Spooler | https://github.com/tanarchytan/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210701T17:28:16Z | CVE-2021-1675 | Small Powershell Script to detect Running Printer Spoolers on Domain Controller | https://github.com/DenizSe/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210701T16:26:31Z | CVE-2021-1675 | Null | https://github.com/cybersecurityworks553/CVE-2021-1675_PrintNightMare | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210701T12:24:32Z | CVE-2021-1675 | Null | https://github.com/puckiestyle/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
@@ -111,6 +111,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210702T01:35:09Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210702T00:56:21Z | Null | https://github.com/Jose2022S/fuzzy-robot | 0 | 0| 
 | 20210702T00:30:44Z | Null | https://github.com/Pitufin123/fuzzy-guacamole | 0 | 0| 
 | 20210702T00:10:01Z | Fuzzy Feedback  | https://github.com/lucasrodri/retro_fuzzy | 0 | 0| 
@@ -120,7 +121,6 @@
 | 20210701T22:50:30Z | Fuzzing Parameters , to get user objects with sensitive information | https://github.com/N7RUZN/Fuzzers | 0 | 0| 
 | 20210701T22:33:14Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6444 | 1309| 
 | 20210701T22:25:12Z | 99minutos coverage maps | https://github.com/99minutos/fuzzy-journey | 0 | 0| 
-| 20210701T22:10:36Z | Null | https://github.com/picatz/go-fuzz-exporter | 0 | 0| 
 
 
 
