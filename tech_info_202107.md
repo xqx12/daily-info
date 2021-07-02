@@ -38,7 +38,7 @@
 | 20210702T01:11:28Z | CVE-2021-1675 | CVE-2021-1675 Simple LPE Exploit | https://github.com/evilashz/CVE-2021-1675-LPE-EXP | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210702T01:08:44Z | CVE-2021-1675 | CVE-2021-1675 Detection Info | https://github.com/LaresLLC/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210701T19:52:48Z | CVE-2021-1675 | Fix without disabling Print Spooler | https://github.com/tanarchytan/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210701T17:28:16Z | CVE-2021-1675 | Small Powershell Script to detect Running Printer Spoolers on Domain Controller | https://github.com/DenizSe/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
+| 20210701T17:28:16Z | CVE-2021-1675 | Small Powershell Script to detect Running Printer Spoolers on Domain Controller | https://github.com/DenizSe/CVE-2021-1675 | | 
 | 20210701T16:26:31Z | CVE-2021-1675 | Null | https://github.com/cybersecurityworks553/CVE-2021-1675_PrintNightMare | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210701T12:24:32Z | CVE-2021-1675 | Null | https://github.com/puckiestyle/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210701T12:12:54Z | CVE-2020-1675 | Null | https://github.com/DenizSe/CVE-2020-1675 | When Security Assertion Markup Language (SAML) authentication is enabled, Juniper Networks Mist Cloud UI might incorrectly process invalid authentication certificates which could allow a malicious network-based user to access unauthorized data. This issue affects all Juniper Networks Mist Cloud UI versions prior to September 2 2020.| 
