@@ -36,13 +36,13 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210702T13:09:14Z | CVE-2021-1675 | C# and Impacket implementation of CVE-2021-1675/PrintNightmare | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
+| 20210702T13:08:59Z | CVE-2021-34527 | Null | https://github.com/JohnHammond/CVE-2021-34527 | 未查询到CVE信息| 
+| 20210702T13:08:51Z | CVE-2021-1675 | CVE-2021-1675 Detection Info | https://github.com/LaresLLC/CVE-2021-1675 | | 
+| 20210702T13:08:19Z | CVE-2021-1675 | Local Privilege Escalation Edition for CVE-2021-1675 | https://github.com/hlldz/CVE-2021-1675-LPE | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210702T12:57:15Z | CVE-2020-15368 | How to exploit a vulnerable windows driver. Exploit for AsrDrv104.sys | https://github.com/stong/CVE-2020-15368 | AsrDrv103.sys in the ASRock RGB Driver does not properly restrict access from user space, as demonstrated by triggering a triple fault via a request to zero CR3.| 
 | 20210702T12:56:16Z | CVE-2021-1675 | Pure PowerShell implementation of CVE-2021-1675 Print Spooler Local Privilege Escalation (PrintNightmare) | https://github.com/calebstewart/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210702T12:48:00Z | CVE-2021-34527 | Null | https://github.com/JohnHammond/CVE-2021-34527 | 未查询到CVE信息| 
-| 20210702T12:47:42Z | CVE-2021-1675 | CVE-2021-1675 Detection Info | https://github.com/LaresLLC/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210702T12:39:37Z | CVE-2021-1675 | C# and Impacket implementation of CVE-2021-1675/PrintNightmare | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210702T12:34:39Z | CVE-2021-3560 | Null | https://github.com/mr-nO0b/CVE-2021-3560 | 未查询到CVE信息| 
-| 20210702T12:24:12Z | CVE-2021-1675 | Local Privilege Escalation Edition for CVE-2021-1675 | https://github.com/hlldz/CVE-2021-1675-LPE | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210702T12:17:58Z | CVE-2021-1675 | Null | https://github.com/thomasgeens/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210702T10:47:39Z | CVE-2021-1675 | CVE-2021-1675 Simple LPE Exploit | https://github.com/evilashz/CVE-2021-1675-LPE-EXP | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210702T10:22:50Z | CVE-2021-27850 | Apache Tapestry CVE-2021-27850 PoC | https://github.com/Ovi3/CVE_2021_27850_POC | A critical unauthenticated remote code execution vulnerability was found all recent versions of Apache Tapestry. The affected versions include 5.4.5, 5.5.0, 5.6.2 and 5.7.0. The vulnerability I have found is a bypass of the fix for CVE-2019-0195. Recap: Before the fix of CVE-2019-0195 it was possible to download arbitrary class files from the classpath by providing a crafted asset file URL. An attacker was able to download the file `AppModule.class` by requesting the URL `http://localhost:8080/assets/something/services/AppModule.class` which contains a HMAC secret key. The fix for that bug was a blacklist filter that checks if the URL ends with `.class`, `.properties` or `.xml`. Bypass: Unfortunately, the blacklist solution can simply be bypassed by appending a `/` at the end of the URL: `http://localhost:8080/assets/something/services/AppModule.class/` The slash is stripped after the blacklist check and the file `AppModule.class` is loaded into the response. This class usually contains the HMAC secret key which is used to sign serialized Java objects. With the knowledge of that key an attacker can sign a Java gadget chain that leads to RCE (e.g. CommonsBeanUtils1 from ysoserial). Solution for this vulnerability: * For Apache Tapestry 5.4.0 to 5.6.1, upgrade to 5.6.2 or later. * For Apache Tapestry 5.7.0, upgrade to 5.7.1 or later.| 
@@ -63,11 +63,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210702T13:02:55Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 25 | 12| 
 | 20210702T12:52:45Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 76 | 13| 
 | 20210702T12:37:58Z | Educational web application demonstrating techniques of binary exploitation (Front-end) | https://github.com/Pen-Test3rs/binary_exploits_frontend | 0 | 0| 
 | 20210702T12:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9633 | 1579| 
 | 20210702T12:09:02Z | DebugSploit Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. DebugSploit Framework gives you the power and convenience of remote Android device administration. | https://github.com/G00Dway/DebugSploit | 2 | 0| 
-| 20210702T12:02:56Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 25 | 12| 
 | 20210702T12:02:43Z | Patch for Waterfall to improve performance during attacks and fix memory issues. | https://github.com/2lstudios-mc/FlameCord | 43 | 24| 
 | 20210702T11:29:59Z | The code of Hacking: Art Of Exploitation (2nd Ed.) by Jon Erickson. | https://github.com/J-Melon/ArtOfExp | 0 | 0| 
 | 20210702T11:27:55Z | Null | https://github.com/kiarashjam/Exploiting-Video-Games-to-Test-AV | 0 | 1| 
@@ -78,6 +78,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210702T13:04:29Z |  C# code for Transferring Backdoor Payloads by DNS Traffic (A - PTR Records) and Bypassing Anti-viruses  | https://github.com/DamonMohammadbagher/NativePayload_DNS2 | 41 | 29| 
 | 20210702T12:58:23Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/Screetsec/TheFatRat | 5406 | 1758| 
 | 20210702T12:27:29Z | C# code for Transferring Backdoor Payloads by DNS Traffic and Bypassing Anti-viruses   | https://github.com/DamonMohammadbagher/NativePayload_DNS | 231 | 106| 
 | 20210702T12:26:54Z | C# code for Transferring Backdoor Payloads by IPv6 Address (AAAA) records and DNS Traffic also Bypassing Anti-viruses  | https://github.com/DamonMohammadbagher/NativePayload_IP6DNS | 26 | 19| 
@@ -87,7 +88,6 @@
 | 20210702T12:23:05Z | Transferring Backdoor Payload by BSSID and Wireless traffic | https://github.com/DamonMohammadbagher/NativePayload_BSSID | 48 | 40| 
 | 20210702T12:20:27Z | Data Exfiltration via HTTP Traffic (C# and Shell Script) | https://github.com/DamonMohammadbagher/NativePayload_HTTP | 10 | 7| 
 | 20210702T12:16:57Z | python backdoor | https://github.com/emmalee2003/python-backdoor | 1 | 0| 
-| 20210702T08:32:05Z | Backdoors Framework for Deep Learning and Federated Learning. A light-weight tool to conduct your research on backdoors. | https://github.com/ebagdasa/backdoors101 | 86 | 23| 
 
 
 # symbolic execution on Github 推荐
@@ -110,6 +110,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210702T13:07:54Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 467 | 43| 
+| 20210702T13:07:54Z | Minimalistic fuzzy file finding for neovim | https://github.com/cloudhead/neovim-fuzzy | 102 | 16| 
+| 20210702T13:05:33Z | AHP dan Fuzzy AHP implementasi dengan Php,dengan kriteria bersifat dinamis | https://github.com/pramulia-nasution/AHP-dan-Fuzzy-AHP | 0 | 0| 
 | 20210702T12:25:59Z | tfuzz is a command-line tool to fuzz some layer 7 OSI protocols with a template file | https://github.com/noob0x/tfuzz | 3 | 0| 
 | 20210702T12:23:33Z | Null | https://github.com/amitk0693/Variants-of-Fuzzy-Neural-Gas | 0 | 0| 
 | 20210702T12:19:46Z | AHP dan Fuzzy AHP implementasi dengan Php,dengan kriteria bersifat dinamis | https://github.com/pramulia-nasution/ahpFuzzy | 0 | 0| 
@@ -117,9 +120,6 @@
 | 20210702T12:03:25Z | My personal portfolio website | https://github.com/FuzzyGrim/fuzzygrim.github.io | 0 | 0| 
 | 20210702T11:53:45Z | Null | https://github.com/AdaLogics/go-fuzz-headers | 2 | 1| 
 | 20210702T11:53:24Z | Binary code-coverage fuzzer for macOS, based on libFuzzer and LLVM | https://github.com/ant4g0nist/ManuFuzzer | 82 | 7| 
-| 20210702T11:28:30Z | Null | https://github.com/schemathesis/web-api-fuzzing-project | 4 | 0| 
-| 20210702T11:15:28Z | Null | https://github.com/rohanpandey/fuzzy_match_dataframe | 0 | 0| 
-| 20210702T11:04:39Z | DDRFuzz is a fuzzing system based on a seq2seq model to generate valuable seed corpus. | https://github.com/kppw99/ddrfuzz | 2 | 1| 
 
 
 
