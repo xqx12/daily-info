@@ -33,10 +33,10 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210701T19:52:48Z | CVE-2021-1675 | Fix without disabling Print Spooler | https://github.com/tanarchytan/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210701T17:28:16Z | CVE-2021-1675 | Small Powershell Script to detect Running Printer Spoolers on Domain Controller | https://github.com/DenizSe/CVE-2021-1675 | | 
+| 20210701T17:28:16Z | CVE-2021-1675 | Small Powershell Script to detect Running Printer Spoolers on Domain Controller | https://github.com/DenizSe/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210701T16:26:31Z | CVE-2021-1675 | Null | https://github.com/cybersecurityworks553/CVE-2021-1675_PrintNightMare | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210701T12:24:32Z | CVE-2021-1675 | Null | https://github.com/puckiestyle/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210701T12:14:10Z | CVE-2021-1675 | CVE-2021-1675 Simple LPE Exploit | https://github.com/evilashz/CVE-2021-1675-LPE-EXP | | 
+| 20210701T12:14:10Z | CVE-2021-1675 | CVE-2021-1675 Simple LPE Exploit | https://github.com/evilashz/CVE-2021-1675-LPE-EXP | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210701T12:12:54Z | CVE-2020-1675 | Null | https://github.com/DenizSe/CVE-2020-1675 | When Security Assertion Markup Language (SAML) authentication is enabled, Juniper Networks Mist Cloud UI might incorrectly process invalid authentication certificates which could allow a malicious network-based user to access unauthorized data. This issue affects all Juniper Networks Mist Cloud UI versions prior to September 2 2020.| 
 | 20210701T10:10:58Z | CVE-2021-33348 | PoC for exploiting CVE-2021-33348 | https://github.com/AlAIAL90/CVE-2021-33348 | An issue was discovered in JFinal framework v4.9.10 and below. The %set% method of the %Controller% class of jfinal framework is not strictly filtered, which will lead to XSS vulnerabilities in some cases.| 
 | 20210701T10:10:53Z | CVE-2020-21787 | PoC for exploiting CVE-2020-21787 | https://github.com/AlAIAL90/CVE-2020-21787 | CRMEB 3.1.0+ is vulnerable to File Upload Getshell via /crmeb/crmeb/services/UploadService.php.| 
@@ -93,7 +93,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20210701T18:49:40Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 145 | 33| 
-| 20210701T18:14:37Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 14 | 3| 
 | 20210701T12:12:21Z | Dynamic Symbolic Execution Engine | https://github.com/Fishermanykx/DSE | 0 | 0| 
 | 20210701T08:17:45Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1832 | 383| 
 | 20210701T06:16:12Z | Aggressive compile-time optimizations for JavaScript via dynamic symbolic VM execution. | https://github.com/undefinedbuddy/optimizr | 24 | 0| 
