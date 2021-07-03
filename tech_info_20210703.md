@@ -17,13 +17,13 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210703T12:48:06Z | CVE-2021-1675 | CVE-2021-1675 Detection Info | https://github.com/LaresLLC/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210703T12:41:16Z | CVE-2021-1675 | C# and Impacket implementation of CVE-2021-1675/PrintNightmare | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210703T12:41:09Z | CVE-2021-1675 | CVE-2021-1675 Detection Info | https://github.com/LaresLLC/CVE-2021-1675 | | 
 | 20210703T12:19:58Z | CVE-2021-1675 | Pure PowerShell implementation of CVE-2021-1675 Print Spooler Local Privilege Escalation (PrintNightmare) | https://github.com/calebstewart/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210703T11:54:55Z | CVE-2021-34527 | Null | https://github.com/JohnHammond/CVE-2021-34527 | Windows Print Spooler Remote Code Execution Vulnerability| 
 | 20210703T09:03:00Z | CVE-2021-34527 | Fix for the security | https://github.com/fardinbarashi/Fix-CVE-2021-34527 | Windows Print Spooler Remote Code Execution Vulnerability| 
 | 20210703T08:55:20Z | CVE-2020-15368 | How to exploit a vulnerable windows driver. Exploit for AsrDrv104.sys | https://github.com/stong/CVE-2020-15368 | AsrDrv103.sys in the ASRock RGB Driver does not properly restrict access from user space, as demonstrated by triggering a triple fault via a request to zero CR3.| 
-| 20210703T08:14:41Z | CVE-2021-1675 | CVE-2021-1675 LPE Exploit | https://github.com/evilashz/CVE-2021-1675-LPE-EXP | Windows Print Spooler Elevation of Privilege Vulnerability| 
+| 20210703T08:14:41Z | CVE-2021-1675 | CVE-2021-1675 LPE Exploit | https://github.com/evilashz/CVE-2021-1675-LPE-EXP | | 
 | 20210703T04:28:58Z | CVE-2020-0674 | 随便放点自己弄的小东西 | https://github.com/yukiNeko114514/CVE-2020-0674-PoC | A remote code execution vulnerability exists in the way that the scripting engine handles objects in memory in Internet Explorer, aka %Scripting Engine Memory Corruption Vulnerability%. This CVE ID is unique from CVE-2020-0673, CVE-2020-0710, CVE-2020-0711, CVE-2020-0712, CVE-2020-0713, CVE-2020-0767.| 
 | 20210703T02:17:57Z | CVE-2020-14882 | 结合14882的未授权访问漏洞，通过14883可远程执行任意代码 | https://github.com/N0Coriander/CVE-2020-14882-14883 | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
 | 20210703T01:08:45Z | cve-2021-1675 | to catch cve-2021-1675-printnightmare | https://github.com/initconf/cve-2021-1675-printnightmare | Windows Print Spooler Elevation of Privilege Vulnerability| 
@@ -85,9 +85,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210703T12:42:37Z | Null | https://github.com/bhattacharjee/fuzzy-funicular | 0 | 0| 
 | 20210703T12:36:45Z | Elabora uma aplicação de logica fuzzy para auxiliar na umidificação do ar em um ambiente. | https://github.com/AntonioC4r10s/umidade-fuzzy | 0 | 0| 
 | 20210703T12:36:39Z | Fuzzinator Random Testing Framework | https://github.com/renatahodovan/fuzzinator | 177 | 38| 
-| 20210703T12:30:35Z | Null | https://github.com/bhattacharjee/fuzzy-funicular | 0 | 0| 
 | 20210703T12:10:21Z | Git tutorial | https://github.com/tripadeep/fuzzy-journey | 0 | 0| 
 | 20210703T12:01:18Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210703T11:36:25Z | Null | https://github.com/AdaLogics/go-fuzz-headers | 2 | 1| 
