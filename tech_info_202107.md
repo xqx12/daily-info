@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210703T01:22:22Z | CVE-2021-1675 | CVE-2021-1675 LPE Exploit | https://github.com/evilashz/CVE-2021-1675-LPE-EXP | Windows Print Spooler Elevation of Privilege Vulnerability| 
+| 20210703T01:22:22Z | CVE-2021-1675 | CVE-2021-1675 LPE Exploit | https://github.com/evilashz/CVE-2021-1675-LPE-EXP | | 
 | 20210703T01:11:38Z | CVE-2021-1675 | C# and Impacket implementation of CVE-2021-1675/PrintNightmare | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210703T01:08:45Z | cve-2021-1675 | to catch cve-2021-1675-printnightmare | https://github.com/initconf/cve-2021-1675-printnightmare | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210703T01:08:45Z | CVE-2021-1675 | Pure PowerShell implementation of CVE-2021-1675 Print Spooler Local Privilege Escalation (PrintNightmare) | https://github.com/calebstewart/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
