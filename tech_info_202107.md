@@ -49,12 +49,12 @@
 | 20210703T00:21:12Z | CVE-2021-1675 | Pure PowerShell implementation of CVE-2021-1675 Print Spooler Local Privilege Escalation (PrintNightmare) | https://github.com/calebstewart/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210703T00:21:07Z | CVE-2021-1675 | C# and Impacket implementation of CVE-2021-1675/PrintNightmare | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210703T00:18:08Z | CVE-2021-1675 | Vulnerability Scanner for CVE-2021-1675/PrintNightmare | https://github.com/Leonidus0x10/CVE-2021-1675-SCANNER | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210703T00:14:17Z | CVE-2020-15368 | How to exploit a vulnerable windows driver. Exploit for AsrDrv104.sys | https://github.com/stong/CVE-2020-15368 | | 
+| 20210703T00:14:17Z | CVE-2020-15368 | How to exploit a vulnerable windows driver. Exploit for AsrDrv104.sys | https://github.com/stong/CVE-2020-15368 | AsrDrv103.sys in the ASRock RGB Driver does not properly restrict access from user space, as demonstrated by triggering a triple fault via a request to zero CR3.| 
 | 20210702T23:51:20Z | CVE-2021-34527 | Null | https://github.com/JohnHammond/CVE-2021-34527 | Windows Print Spooler Remote Code Execution Vulnerability| 
 | 20210702T23:47:12Z | CVE-2021-1675 | Null | https://github.com/cybersecurityworks553/CVE-2021-1675_PrintNightMare | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210702T23:45:33Z | CVE-2021-1675 | Local Privilege Escalation Edition for CVE-2021-1675 | https://github.com/hlldz/CVE-2021-1675-LPE | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210702T23:28:49Z | CVE-2021-1675 | CVE-2021-1675 Detection Info | https://github.com/LaresLLC/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210702T18:07:48Z | CVE-2021-1675 | CVE-2021-1675: ZERO-DAY VULNERABILITY IN WINDOWS PRINTER SERVICE WITH AN EXPLOIT AVAILABLE IN ALL OPERATING SYSTEM VERSIONS | https://github.com/ptter23/CVE-2021-1675 | | 
+| 20210702T18:07:48Z | CVE-2021-1675 | CVE-2021-1675: ZERO-DAY VULNERABILITY IN WINDOWS PRINTER SERVICE WITH AN EXPLOIT AVAILABLE IN ALL OPERATING SYSTEM VERSIONS | https://github.com/ptter23/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210702T17:41:53Z | CVE-2021-1675 | A small powershell script to disable print spooler service using desired state configuration | https://github.com/kougyokugentou/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 
 
@@ -80,11 +80,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210703T00:25:59Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 3709 | 515| 
 | 20210703T00:20:32Z | Extensible framework for analyzing publicly available information about vulnerabilities | https://github.com/leonov-av/vulristics | 34 | 3| 
 | 20210703T00:16:39Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9637 | 1581| 
 | 20210703T00:12:27Z | A simple roblox exploit I made. | https://github.com/shappp1/ShaneSploit | 0 | 0| 
 | 20210703T00:06:45Z | Extra goodies for GEF: Open repository for unfiltered contributions to the project. | https://github.com/hugsy/gef-extras | 59 | 24| 
-| 20210703T00:04:17Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 3709 | 515| 
 | 20210703T00:03:09Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 25 | 12| 
 | 20210702T23:18:53Z | Repo that will contain variety of exploits for either public CVE or internal research. | https://github.com/bugbounty-site/exploits | 43 | 9| 
 | 20210702T23:18:46Z | The whole collection of Exploits developed by me (Hacker5preme) | https://github.com/Hacker5preme/Exploits | 3 | 0| 
