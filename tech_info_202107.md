@@ -46,10 +46,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210702T23:59:02Z | CVE-2021-1675 | C# and Impacket implementation of CVE-2021-1675/PrintNightmare | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210702T23:52:47Z | CVE-2021-1675 | Pure PowerShell implementation of CVE-2021-1675 Print Spooler Local Privilege Escalation (PrintNightmare) | https://github.com/calebstewart/CVE-2021-1675 | | 
+| 20210703T00:07:37Z | CVE-2021-1675 | C# and Impacket implementation of CVE-2021-1675/PrintNightmare | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
+| 20210702T23:52:47Z | CVE-2021-1675 | Pure PowerShell implementation of CVE-2021-1675 Print Spooler Local Privilege Escalation (PrintNightmare) | https://github.com/calebstewart/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210702T23:51:20Z | CVE-2021-34527 | Null | https://github.com/JohnHammond/CVE-2021-34527 | Windows Print Spooler Remote Code Execution Vulnerability| 
-| 20210702T23:47:12Z | CVE-2021-1675 | Null | https://github.com/cybersecurityworks553/CVE-2021-1675_PrintNightMare | Windows Print Spooler Elevation of Privilege Vulnerability| 
+| 20210702T23:47:12Z | CVE-2021-1675 | Null | https://github.com/cybersecurityworks553/CVE-2021-1675_PrintNightMare | | 
 | 20210702T23:45:33Z | CVE-2021-1675 | Local Privilege Escalation Edition for CVE-2021-1675 | https://github.com/hlldz/CVE-2021-1675-LPE | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210702T23:35:07Z | CVE-2020-15368 | How to exploit a vulnerable windows driver. Exploit for AsrDrv104.sys | https://github.com/stong/CVE-2020-15368 | AsrDrv103.sys in the ASRock RGB Driver does not properly restrict access from user space, as demonstrated by triggering a triple fault via a request to zero CR3.| 
 | 20210702T23:28:49Z | CVE-2021-1675 | CVE-2021-1675 Detection Info | https://github.com/LaresLLC/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
@@ -133,7 +133,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210703T00:02:20Z | Null | https://github.com/opimentel-github/fuzzy-tools | 0 | 0| 
+| 20210703T00:05:05Z | Null | https://github.com/opimentel-github/fuzzy-tools | 0 | 0| 
+| 20210703T00:04:03Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 16 | 7| 
 | 20210702T23:42:45Z | This tool uses fzf(1)-like fuzzy-finder to do partial or fuzzy search of Kubernetes resources. Instead of specifying full resource names to kubectl commands, you can choose them from an interactive list that you can filter by typing a few characters. | https://github.com/d-kuro/kubectl-fuzzy | 87 | 10| 
 | 20210702T23:35:56Z | Null | https://github.com/FuzzyFade/FuzzyFade | 0 | 0| 
 | 20210702T23:31:14Z | Null | https://github.com/AdaLogics/go-fuzz-headers | 2 | 1| 
@@ -142,7 +143,6 @@
 | 20210702T23:02:24Z | Null | https://github.com/and88x/Fuzzy_Logic_based_Load_balancing_of_tasks | 0 | 0| 
 | 20210702T22:47:46Z | Null | https://github.com/schemathesis/web-api-fuzzing-project | 4 | 0| 
 | 20210702T22:37:24Z | A Python3 module to assist in fuzzing web applications | https://github.com/jangelesg/py3webfuzz | 52 | 5| 
-| 20210702T21:56:08Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 82 | 23| 
 
 
 
