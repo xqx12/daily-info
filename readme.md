@@ -41,12 +41,12 @@
 | 20210702T23:51:20Z | CVE-2021-34527 | Null | https://github.com/JohnHammond/CVE-2021-34527 | Windows Print Spooler Remote Code Execution Vulnerability| 
 | 20210702T23:47:12Z | CVE-2021-1675 | Null | https://github.com/cybersecurityworks553/CVE-2021-1675_PrintNightMare | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210702T23:45:33Z | CVE-2021-1675 | Local Privilege Escalation Edition for CVE-2021-1675 | https://github.com/hlldz/CVE-2021-1675-LPE | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210702T23:35:07Z | CVE-2020-15368 | How to exploit a vulnerable windows driver. Exploit for AsrDrv104.sys | https://github.com/stong/CVE-2020-15368 | AsrDrv103.sys in the ASRock RGB Driver does not properly restrict access from user space, as demonstrated by triggering a triple fault via a request to zero CR3.| 
 | 20210702T23:28:49Z | CVE-2021-1675 | CVE-2021-1675 Detection Info | https://github.com/LaresLLC/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210702T18:07:48Z | CVE-2021-1675 | CVE-2021-1675: ZERO-DAY VULNERABILITY IN WINDOWS PRINTER SERVICE WITH AN EXPLOIT AVAILABLE IN ALL OPERATING SYSTEM VERSIONS | https://github.com/ptter23/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210702T17:41:53Z | CVE-2021-1675 | A small powershell script to disable print spooler service using desired state configuration | https://github.com/kougyokugentou/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210702T17:20:02Z | CVE-2021-34527 | Fix for the security | https://github.com/fardinbarashi/Fix-CVE-2021-34527 | Windows Print Spooler Remote Code Execution Vulnerability| 
 | 20210702T16:13:01Z | CVE-2021-1675 | Null | https://github.com/killtr0/CVE-2021-1675-PrintNightmare | Windows Print Spooler Elevation of Privilege Vulnerability| 
+| 20210702T15:47:11Z | CVE-2021-1675 | Vulnerability Scanner for CVE-2021-1675/PrintNightmare | https://github.com/Leonidus0x10/CVE-2021-1675-SCANNER | Windows Print Spooler Elevation of Privilege Vulnerability| 
 
 
 # klee on Github 推荐
@@ -67,7 +67,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210702T23:50:14Z | A simple roblox exploit I made. | https://github.com/shappp1/ShaneSploit | 0 | 0| 
 | 20210702T23:18:53Z | Repo that will contain variety of exploits for either public CVE or internal research. | https://github.com/bugbounty-site/exploits | 43 | 9| 
 | 20210702T23:18:46Z | The whole collection of Exploits developed by me (Hacker5preme) | https://github.com/Hacker5preme/Exploits | 3 | 0| 
 | 20210702T23:11:09Z | Null | https://github.com/Win32k/exploits | 0 | 0| 
@@ -77,6 +76,7 @@
 | 20210702T20:55:58Z | roblox exploit use key krnl | https://github.com/zufiouz/mod-menu-exploit-roblox | 0 | 0| 
 | 20210702T20:37:30Z | Repository For RBX Exploits Created By SigmaTech | https://github.com/SigmaEG/RBXExploits | 0 | 0| 
 | 20210702T20:33:47Z | CuteSharpSploit is an executable wrapper around SharpSploit, a .NET post-exploitation library written in C# by Ryan Cobb. | https://github.com/captain-woof/CuteSharpSploit | 0 | 0| 
+| 20210702T20:12:25Z | Null | https://github.com/g4b1t2/exploitdb_downloads_dorks | 0 | 0| 
 
 
 # backdoor on Github 推荐
