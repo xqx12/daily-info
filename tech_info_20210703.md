@@ -85,6 +85,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210703T12:56:38Z | Null | https://github.com/amitk0693/Variants-of-Fuzzy-Neural-Gas | 1 | 0| 
 | 20210703T12:52:45Z | Fuzzinator Random Testing Framework | https://github.com/renatahodovan/fuzzinator | 177 | 38| 
 | 20210703T12:42:37Z | Null | https://github.com/bhattacharjee/fuzzy-funicular | 0 | 0| 
 | 20210703T12:36:45Z | Elabora uma aplicação de logica fuzzy para auxiliar na umidificação do ar em um ambiente. | https://github.com/AntonioC4r10s/umidade-fuzzy | 0 | 0| 
@@ -94,7 +95,6 @@
 | 20210703T11:32:57Z | test suite generation for C++ | https://github.com/nlohmann/fuzzcover | 18 | 3| 
 | 20210703T10:00:28Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1238 | 220| 
 | 20210703T09:32:03Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 4751 | 553| 
-| 20210703T09:16:35Z | Fuzzing for Adversarial examples in Tree Ensembles | https://github.com/tudelft-cda-lab/FATE | 0 | 0| 
 
 
 
