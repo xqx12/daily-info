@@ -49,7 +49,7 @@
 | 20210703T00:46:20Z | CVE-2021-1675 | Pure PowerShell implementation of CVE-2021-1675 Print Spooler Local Privilege Escalation (PrintNightmare) | https://github.com/calebstewart/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210703T00:26:30Z | CVE-2021-1675 | C# and Impacket implementation of CVE-2021-1675/PrintNightmare | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210703T00:18:08Z | CVE-2021-1675 | Vulnerability Scanner for CVE-2021-1675/PrintNightmare | https://github.com/Leonidus0x10/CVE-2021-1675-SCANNER | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210703T00:14:17Z | CVE-2020-15368 | How to exploit a vulnerable windows driver. Exploit for AsrDrv104.sys | https://github.com/stong/CVE-2020-15368 | | 
+| 20210703T00:14:17Z | CVE-2020-15368 | How to exploit a vulnerable windows driver. Exploit for AsrDrv104.sys | https://github.com/stong/CVE-2020-15368 | AsrDrv103.sys in the ASRock RGB Driver does not properly restrict access from user space, as demonstrated by triggering a triple fault via a request to zero CR3.| 
 | 20210702T23:51:20Z | CVE-2021-34527 | Null | https://github.com/JohnHammond/CVE-2021-34527 | | 
 | 20210702T23:47:12Z | CVE-2021-1675 | Null | https://github.com/cybersecurityworks553/CVE-2021-1675_PrintNightMare | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210702T23:45:33Z | CVE-2021-1675 | Local Privilege Escalation Edition for CVE-2021-1675 | https://github.com/hlldz/CVE-2021-1675-LPE | Windows Print Spooler Elevation of Privilege Vulnerability| 
@@ -80,6 +80,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210703T00:49:57Z | A Rust based bootloader for SAMD21 that injects payloads by utilizing the Fusée Gelée exploit chain. | https://github.com/ianmarmour/sam-fusee-switch-rs | 0 | 0| 
 | 20210703T00:48:54Z | Extensible framework for analyzing publicly available information about vulnerabilities | https://github.com/leonov-av/vulristics | 34 | 3| 
 | 20210703T00:38:48Z | SSRF search vulnerabilities exploitation extended. | https://github.com/duckstroms/ssrf-search | 13 | 3| 
 | 20210703T00:29:21Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 15 | 4| 
@@ -89,7 +90,6 @@
 | 20210703T00:06:45Z | Extra goodies for GEF: Open repository for unfiltered contributions to the project. | https://github.com/hugsy/gef-extras | 59 | 24| 
 | 20210703T00:03:09Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 25 | 12| 
 | 20210702T23:18:53Z | Repo that will contain variety of exploits for either public CVE or internal research. | https://github.com/bugbounty-site/exploits | 43 | 9| 
-| 20210702T23:18:46Z | The whole collection of Exploits developed by me (Hacker5preme) | https://github.com/Hacker5preme/Exploits | 3 | 0| 
 
 
 # backdoor on Github 推荐
