@@ -71,12 +71,12 @@
 | 20210702T23:18:46Z | The whole collection of Exploits developed by me (Hacker5preme) | https://github.com/Hacker5preme/Exploits | 3 | 0| 
 | 20210702T23:11:09Z | Null | https://github.com/Win32k/exploits | 0 | 0| 
 | 20210702T22:38:36Z | Flask Exploit for ROBLOX | https://github.com/FlaskExploits/Flask | 0 | 0| 
-| 20210702T21:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9636 | 1581| 
 | 20210702T21:06:54Z | OWASP Benchmark is a test suite designed to verify the speed and accuracy of software vulnerability detection tools. A fully runnable web app written in Java, it supports analysis by Static (SAST), Dynamic (DAST), and Runtime (IAST) tools that support Java. The idea is that since it is fully runnable and all the vulnerabilities are actually exploitable, it’s a fair test for any kind of vulnerability detection tool.  For more details on this project, please see the OWASP Benchmark Project home page. | https://github.com/OWASP/Benchmark | 384 | 374| 
 | 20210702T20:55:58Z | roblox exploit use key krnl | https://github.com/zufiouz/mod-menu-exploit-roblox | 0 | 0| 
 | 20210702T20:37:30Z | Repository For RBX Exploits Created By SigmaTech | https://github.com/SigmaEG/RBXExploits | 0 | 0| 
 | 20210702T20:33:47Z | CuteSharpSploit is an executable wrapper around SharpSploit, a .NET post-exploitation library written in C# by Ryan Cobb. | https://github.com/captain-woof/CuteSharpSploit | 0 | 0| 
 | 20210702T20:12:25Z | Null | https://github.com/g4b1t2/exploitdb_downloads_dorks | 0 | 0| 
+| 20210702T20:06:43Z | Some Lua scripts I make, some might be useful, some might be useless. Some of these scripts may be Roblox only, and may require a Roblox exploit. | https://github.com/strawbberrys/LuaScripts | 0 | 1| 
 
 
 # backdoor on Github 推荐
