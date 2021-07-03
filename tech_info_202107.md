@@ -133,6 +133,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210703T01:30:26Z | Resolución del Seminario de Lógica Fuzzy de la asignatura Inteligencia Artificial (período 2021) - UNJu | https://github.com/matness-university/U2-fuzzy-logic | 0 | 1| 
 | 20210703T00:58:57Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 17 | 7| 
 | 20210703T00:05:05Z | Null | https://github.com/opimentel-github/fuzzy-tools | 0 | 0| 
 | 20210702T23:42:45Z | This tool uses fzf(1)-like fuzzy-finder to do partial or fuzzy search of Kubernetes resources. Instead of specifying full resource names to kubectl commands, you can choose them from an interactive list that you can filter by typing a few characters. | https://github.com/d-kuro/kubectl-fuzzy | 87 | 10| 
@@ -142,7 +143,6 @@
 | 20210702T23:09:26Z | Null | https://github.com/churellano/fuzzy-enigma | 0 | 0| 
 | 20210702T23:02:24Z | Null | https://github.com/and88x/Fuzzy_Logic_based_Load_balancing_of_tasks | 0 | 0| 
 | 20210702T22:47:46Z | Null | https://github.com/schemathesis/web-api-fuzzing-project | 4 | 0| 
-| 20210702T22:37:24Z | A Python3 module to assist in fuzzing web applications | https://github.com/jangelesg/py3webfuzz | 52 | 5| 
 
 
 
