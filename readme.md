@@ -44,7 +44,7 @@
 | 20210702T17:41:53Z | CVE-2021-1675 | A small powershell script to disable print spooler service using desired state configuration | https://github.com/kougyokugentou/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210702T17:20:02Z | CVE-2021-34527 | Fix for the security | https://github.com/fardinbarashi/Fix-CVE-2021-34527 | Windows Print Spooler Remote Code Execution Vulnerability| 
 | 20210702T16:13:01Z | CVE-2021-1675 | Null | https://github.com/killtr0/CVE-2021-1675-PrintNightmare | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210702T15:14:29Z | CVE-2021-1675 | CVE-2021-1675 LPE Exploit | https://github.com/evilashz/CVE-2021-1675-LPE-EXP | Windows Print Spooler Elevation of Privilege Vulnerability| 
+| 20210702T15:14:29Z | CVE-2021-1675 | CVE-2021-1675 LPE Exploit | https://github.com/evilashz/CVE-2021-1675-LPE-EXP | | 
 | 20210702T12:34:39Z | CVE-2021-3560 | Null | https://github.com/mr-nO0b/CVE-2021-3560 | 未查询到CVE信息| 
 | 20210702T12:17:58Z | CVE-2021-1675 | Null | https://github.com/thomasgeens/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 
