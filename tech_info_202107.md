@@ -48,13 +48,13 @@
 | --- | --- | --- | --- | ---| 
 | 20210702T23:59:02Z | CVE-2021-1675 | C# and Impacket implementation of CVE-2021-1675/PrintNightmare | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210702T23:52:47Z | CVE-2021-1675 | Pure PowerShell implementation of CVE-2021-1675 Print Spooler Local Privilege Escalation (PrintNightmare) | https://github.com/calebstewart/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210702T23:51:20Z | CVE-2021-34527 | Null | https://github.com/JohnHammond/CVE-2021-34527 | | 
+| 20210702T23:51:20Z | CVE-2021-34527 | Null | https://github.com/JohnHammond/CVE-2021-34527 | Windows Print Spooler Remote Code Execution Vulnerability| 
 | 20210702T23:47:12Z | CVE-2021-1675 | Null | https://github.com/cybersecurityworks553/CVE-2021-1675_PrintNightMare | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210702T23:45:33Z | CVE-2021-1675 | Local Privilege Escalation Edition for CVE-2021-1675 | https://github.com/hlldz/CVE-2021-1675-LPE | | 
+| 20210702T23:45:33Z | CVE-2021-1675 | Local Privilege Escalation Edition for CVE-2021-1675 | https://github.com/hlldz/CVE-2021-1675-LPE | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210702T23:35:07Z | CVE-2020-15368 | How to exploit a vulnerable windows driver. Exploit for AsrDrv104.sys | https://github.com/stong/CVE-2020-15368 | AsrDrv103.sys in the ASRock RGB Driver does not properly restrict access from user space, as demonstrated by triggering a triple fault via a request to zero CR3.| 
 | 20210702T23:28:49Z | CVE-2021-1675 | CVE-2021-1675 Detection Info | https://github.com/LaresLLC/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210702T18:07:48Z | CVE-2021-1675 | CVE-2021-1675: ZERO-DAY VULNERABILITY IN WINDOWS PRINTER SERVICE WITH AN EXPLOIT AVAILABLE IN ALL OPERATING SYSTEM VERSIONS | https://github.com/ptter23/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210702T17:41:53Z | CVE-2021-1675 | A small powershell script to disable print spooler service using desired state configuration | https://github.com/kougyokugentou/CVE-2021-1675 | | 
+| 20210702T17:41:53Z | CVE-2021-1675 | A small powershell script to disable print spooler service using desired state configuration | https://github.com/kougyokugentou/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210702T17:20:02Z | CVE-2021-34527 | Fix for the security | https://github.com/fardinbarashi/Fix-CVE-2021-34527 | Windows Print Spooler Remote Code Execution Vulnerability| 
 
 
@@ -80,7 +80,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210703T00:00:52Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 3709 | 515| 
+| 20210703T00:02:29Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 3709 | 515| 
 | 20210702T23:50:14Z | A simple roblox exploit I made. | https://github.com/shappp1/ShaneSploit | 0 | 0| 
 | 20210702T23:18:53Z | Repo that will contain variety of exploits for either public CVE or internal research. | https://github.com/bugbounty-site/exploits | 43 | 9| 
 | 20210702T23:18:46Z | The whole collection of Exploits developed by me (Hacker5preme) | https://github.com/Hacker5preme/Exploits | 3 | 0| 
@@ -110,16 +110,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210702T12:27:27Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 146 | 33| 
+| 20210702T23:15:33Z | Aggressive compile-time optimizations for JavaScript via dynamic symbolic VM execution. | https://github.com/undefinedbuddy/optimizr | 25 | 0| 
+| 20210702T21:27:23Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2373 | 349| 
+| 20210702T18:30:42Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 14 | 3| 
+| 20210702T18:29:34Z | Compiled Sail ISA snapshots for the Isla symbolic execution tool | https://github.com/rems-project/isla-snapshots | 1 | 0| 
+| 20210702T16:49:46Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 146 | 33| 
 | 20210702T11:23:16Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1833 | 384| 
 | 20210702T07:48:14Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1725 | 496| 
 | 20210702T07:43:45Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 19 | 11| 
 | 20210702T04:30:01Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 423 | 65| 
-| 20210702T01:55:31Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2372 | 349| 
-| 20210702T00:49:37Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 14 | 3| 
 | 20210701T12:12:21Z | Dynamic Symbolic Execution Engine | https://github.com/Fishermanykx/DSE | 0 | 0| 
-| 20210701T06:16:12Z | Aggressive compile-time optimizations for JavaScript via dynamic symbolic VM execution. | https://github.com/undefinedbuddy/optimizr | 24 | 0| 
-| 20210701T00:22:16Z | A symbolic execution engine for Chisel circuits. | https://github.com/ekiwi/maltese | 0 | 1| 
 
 
 # big4 on Github 推荐
@@ -132,6 +132,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210703T00:02:20Z | Null | https://github.com/opimentel-github/fuzzy-tools | 0 | 0| 
 | 20210702T23:42:45Z | This tool uses fzf(1)-like fuzzy-finder to do partial or fuzzy search of Kubernetes resources. Instead of specifying full resource names to kubectl commands, you can choose them from an interactive list that you can filter by typing a few characters. | https://github.com/d-kuro/kubectl-fuzzy | 87 | 10| 
 | 20210702T23:35:56Z | Null | https://github.com/FuzzyFade/FuzzyFade | 0 | 0| 
 | 20210702T23:31:14Z | Null | https://github.com/AdaLogics/go-fuzz-headers | 2 | 1| 
@@ -141,7 +142,6 @@
 | 20210702T22:47:46Z | Null | https://github.com/schemathesis/web-api-fuzzing-project | 4 | 0| 
 | 20210702T22:37:24Z | A Python3 module to assist in fuzzing web applications | https://github.com/jangelesg/py3webfuzz | 52 | 5| 
 | 20210702T21:56:08Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 82 | 23| 
-| 20210702T21:54:14Z | fuzzer for the x86 architecture | https://github.com/tomergoodo/x86fuzzer | 0 | 0| 
 
 
 
