@@ -133,9 +133,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210703T12:52:45Z | Fuzzinator Random Testing Framework | https://github.com/renatahodovan/fuzzinator | 177 | 38| 
 | 20210703T12:42:37Z | Null | https://github.com/bhattacharjee/fuzzy-funicular | 0 | 0| 
 | 20210703T12:36:45Z | Elabora uma aplicação de logica fuzzy para auxiliar na umidificação do ar em um ambiente. | https://github.com/AntonioC4r10s/umidade-fuzzy | 0 | 0| 
-| 20210703T12:36:39Z | Fuzzinator Random Testing Framework | https://github.com/renatahodovan/fuzzinator | 177 | 38| 
 | 20210703T12:10:21Z | Git tutorial | https://github.com/tripadeep/fuzzy-journey | 0 | 0| 
 | 20210703T12:01:18Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210703T11:36:25Z | Null | https://github.com/AdaLogics/go-fuzz-headers | 2 | 1| 
