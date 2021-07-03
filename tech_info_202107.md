@@ -55,7 +55,7 @@
 | 20210702T23:45:33Z | CVE-2021-1675 | Local Privilege Escalation Edition for CVE-2021-1675 | https://github.com/hlldz/CVE-2021-1675-LPE | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210702T23:28:49Z | CVE-2021-1675 | CVE-2021-1675 Detection Info | https://github.com/LaresLLC/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210702T18:07:48Z | CVE-2021-1675 | CVE-2021-1675: ZERO-DAY VULNERABILITY IN WINDOWS PRINTER SERVICE WITH AN EXPLOIT AVAILABLE IN ALL OPERATING SYSTEM VERSIONS | https://github.com/ptter23/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210702T17:41:53Z | CVE-2021-1675 | A small powershell script to disable print spooler service using desired state configuration | https://github.com/kougyokugentou/CVE-2021-1675 | | 
+| 20210702T17:41:53Z | CVE-2021-1675 | A small powershell script to disable print spooler service using desired state configuration | https://github.com/kougyokugentou/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 
 
 # klee on Github 推荐
