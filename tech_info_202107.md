@@ -80,6 +80,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210703T01:38:52Z | A simple utility to create and exploit backdoors in the Diffie-Hellman protocol | https://github.com/jinscoe123/dph | 0 | 0| 
 | 20210703T01:02:53Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 25 | 12| 
 | 20210703T00:52:40Z | Extensible framework for analyzing publicly available information about vulnerabilities | https://github.com/leonov-av/vulristics | 34 | 3| 
 | 20210703T00:51:45Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 17 | 11| 
@@ -89,12 +90,12 @@
 | 20210703T00:25:59Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 3709 | 515| 
 | 20210703T00:16:39Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9637 | 1581| 
 | 20210703T00:12:27Z | A simple roblox exploit I made. | https://github.com/shappp1/ShaneSploit | 0 | 0| 
-| 20210703T00:06:45Z | Extra goodies for GEF: Open repository for unfiltered contributions to the project. | https://github.com/hugsy/gef-extras | 59 | 24| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210703T01:38:52Z | A simple utility to create and exploit backdoors in the Diffie-Hellman protocol | https://github.com/jinscoe123/dph | 0 | 0| 
 | 20210702T23:55:09Z | 🙈 Small collection of bash scripts that take advantage of the .bashrc file and inject various payloads into it in order to escalate privilege or steal credentials.  | https://github.com/Naqwada/Bashrc-Backdoors | 0 | 0| 
 | 20210702T21:57:10Z | A backdoor which is similar to Meterpreter. | https://github.com/lecter76/RemoteCMD | 4 | 0| 
 | 20210702T18:13:50Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/Screetsec/TheFatRat | 5408 | 1758| 
@@ -104,7 +105,6 @@
 | 20210702T14:24:18Z | A Python module for building botnet ,backdoor or trojan with Telegram control panel | https://github.com/onionj/pybotnet | 3 | 2| 
 | 20210702T13:04:29Z |  C# code for Transferring Backdoor Payloads by DNS Traffic (A - PTR Records) and Bypassing Anti-viruses  | https://github.com/DamonMohammadbagher/NativePayload_DNS2 | 41 | 29| 
 | 20210702T12:27:29Z | C# code for Transferring Backdoor Payloads by DNS Traffic and Bypassing Anti-viruses   | https://github.com/DamonMohammadbagher/NativePayload_DNS | 231 | 106| 
-| 20210702T12:26:54Z | C# code for Transferring Backdoor Payloads by IPv6 Address (AAAA) records and DNS Traffic also Bypassing Anti-viruses  | https://github.com/DamonMohammadbagher/NativePayload_IP6DNS | 26 | 19| 
 
 
 # symbolic execution on Github 推荐
