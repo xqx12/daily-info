@@ -47,10 +47,10 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210703T01:40:04Z | CVE-2021-34527 | Null | https://github.com/JohnHammond/CVE-2021-34527 | Windows Print Spooler Remote Code Execution Vulnerability| 
-| 20210703T01:34:12Z | CVE-2021-1675 | Pure PowerShell implementation of CVE-2021-1675 Print Spooler Local Privilege Escalation (PrintNightmare) | https://github.com/calebstewart/CVE-2021-1675 | | 
+| 20210703T01:34:12Z | CVE-2021-1675 | Pure PowerShell implementation of CVE-2021-1675 Print Spooler Local Privilege Escalation (PrintNightmare) | https://github.com/calebstewart/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210703T01:22:22Z | CVE-2021-1675 | CVE-2021-1675 LPE Exploit | https://github.com/evilashz/CVE-2021-1675-LPE-EXP | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210703T01:11:38Z | CVE-2021-1675 | C# and Impacket implementation of CVE-2021-1675/PrintNightmare | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210703T01:08:45Z | cve-2021-1675 | to catch cve-2021-1675-printnightmare | https://github.com/initconf/cve-2021-1675-printnightmare | Windows Print Spooler Elevation of Privilege Vulnerability| 
+| 20210703T01:08:45Z | cve-2021-1675 | to catch cve-2021-1675-printnightmare | https://github.com/initconf/cve-2021-1675-printnightmare | | 
 | 20210703T00:18:08Z | CVE-2021-1675 | Vulnerability Scanner for CVE-2021-1675/PrintNightmare | https://github.com/Leonidus0x10/CVE-2021-1675-SCANNER | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210703T00:14:17Z | CVE-2020-15368 | How to exploit a vulnerable windows driver. Exploit for AsrDrv104.sys | https://github.com/stong/CVE-2020-15368 | AsrDrv103.sys in the ASRock RGB Driver does not properly restrict access from user space, as demonstrated by triggering a triple fault via a request to zero CR3.| 
 | 20210702T23:47:12Z | CVE-2021-1675 | Null | https://github.com/cybersecurityworks553/CVE-2021-1675_PrintNightMare | Windows Print Spooler Elevation of Privilege Vulnerability| 
