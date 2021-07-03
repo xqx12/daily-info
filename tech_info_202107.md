@@ -40,27 +40,29 @@
 | 20210702 | 美国查封伊朗媒体域名事件背后的技术分析 | https://www.inforsec.org/wp/?p=4860| 
 | 20210702 | 以史为鉴：基于复制-生成网络的时态知识图谱建模 | https://mp.weixin.qq.com/s/YM6lYAA1FyGh1myhbiAXVQ| 
 | 20210702 | 2021年InForSec 网络空间安全国际学术研究交流会报告 | /news/29372| 
-| 20210701 | RiskScanner: 是开源的公有云安全合规扫描平台 | https://github.com/riskscanner/riskscanner| 
+| 20210702 | 2021 年开源软件供应链安全风险研究报告 | https://www.cert.org.cn/publish/main/upload/File/2021%20Risk%20Analysis%20Report%20of%20Open%20Source%20Software%20%20.pdf| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210702T13:13:39Z | CVE-2021-1675 | Pure PowerShell implementation of CVE-2021-1675 Print Spooler Local Privilege Escalation (PrintNightmare) | https://github.com/calebstewart/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210702T13:09:14Z | CVE-2021-1675 | C# and Impacket implementation of CVE-2021-1675/PrintNightmare | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210702T13:08:59Z | CVE-2021-34527 | Null | https://github.com/JohnHammond/CVE-2021-34527 | 未查询到CVE信息| 
-| 20210702T13:08:51Z | CVE-2021-1675 | CVE-2021-1675 Detection Info | https://github.com/LaresLLC/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210702T13:08:19Z | CVE-2021-1675 | Local Privilege Escalation Edition for CVE-2021-1675 | https://github.com/hlldz/CVE-2021-1675-LPE | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210702T12:57:15Z | CVE-2020-15368 | How to exploit a vulnerable windows driver. Exploit for AsrDrv104.sys | https://github.com/stong/CVE-2020-15368 | AsrDrv103.sys in the ASRock RGB Driver does not properly restrict access from user space, as demonstrated by triggering a triple fault via a request to zero CR3.| 
-| 20210702T12:34:39Z | CVE-2021-3560 | Null | https://github.com/mr-nO0b/CVE-2021-3560 | 未查询到CVE信息| 
-| 20210702T12:17:58Z | CVE-2021-1675 | Null | https://github.com/thomasgeens/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210702T10:47:39Z | CVE-2021-1675 | CVE-2021-1675 Simple LPE Exploit | https://github.com/evilashz/CVE-2021-1675-LPE-EXP | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210702T10:22:50Z | CVE-2021-27850 | Apache Tapestry CVE-2021-27850 PoC | https://github.com/Ovi3/CVE_2021_27850_POC | A critical unauthenticated remote code execution vulnerability was found all recent versions of Apache Tapestry. The affected versions include 5.4.5, 5.5.0, 5.6.2 and 5.7.0. The vulnerability I have found is a bypass of the fix for CVE-2019-0195. Recap: Before the fix of CVE-2019-0195 it was possible to download arbitrary class files from the classpath by providing a crafted asset file URL. An attacker was able to download the file `AppModule.class` by requesting the URL `http://localhost:8080/assets/something/services/AppModule.class` which contains a HMAC secret key. The fix for that bug was a blacklist filter that checks if the URL ends with `.class`, `.properties` or `.xml`. Bypass: Unfortunately, the blacklist solution can simply be bypassed by appending a `/` at the end of the URL: `http://localhost:8080/assets/something/services/AppModule.class/` The slash is stripped after the blacklist check and the file `AppModule.class` is loaded into the response. This class usually contains the HMAC secret key which is used to sign serialized Java objects. With the knowledge of that key an attacker can sign a Java gadget chain that leads to RCE (e.g. CommonsBeanUtils1 from ysoserial). Solution for this vulnerability: * For Apache Tapestry 5.4.0 to 5.6.1, upgrade to 5.6.2 or later. * For Apache Tapestry 5.7.0, upgrade to 5.7.1 or later.| 
+| 20210702T23:59:02Z | CVE-2021-1675 | C# and Impacket implementation of CVE-2021-1675/PrintNightmare | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
+| 20210702T23:52:47Z | CVE-2021-1675 | Pure PowerShell implementation of CVE-2021-1675 Print Spooler Local Privilege Escalation (PrintNightmare) | https://github.com/calebstewart/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
+| 20210702T23:51:20Z | CVE-2021-34527 | Null | https://github.com/JohnHammond/CVE-2021-34527 | | 
+| 20210702T23:47:12Z | CVE-2021-1675 | Null | https://github.com/cybersecurityworks553/CVE-2021-1675_PrintNightMare | Windows Print Spooler Elevation of Privilege Vulnerability| 
+| 20210702T23:45:33Z | CVE-2021-1675 | Local Privilege Escalation Edition for CVE-2021-1675 | https://github.com/hlldz/CVE-2021-1675-LPE | | 
+| 20210702T23:35:07Z | CVE-2020-15368 | How to exploit a vulnerable windows driver. Exploit for AsrDrv104.sys | https://github.com/stong/CVE-2020-15368 | AsrDrv103.sys in the ASRock RGB Driver does not properly restrict access from user space, as demonstrated by triggering a triple fault via a request to zero CR3.| 
+| 20210702T23:28:49Z | CVE-2021-1675 | CVE-2021-1675 Detection Info | https://github.com/LaresLLC/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
+| 20210702T18:07:48Z | CVE-2021-1675 | CVE-2021-1675: ZERO-DAY VULNERABILITY IN WINDOWS PRINTER SERVICE WITH AN EXPLOIT AVAILABLE IN ALL OPERATING SYSTEM VERSIONS | https://github.com/ptter23/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
+| 20210702T17:41:53Z | CVE-2021-1675 | A small powershell script to disable print spooler service using desired state configuration | https://github.com/kougyokugentou/CVE-2021-1675 | | 
+| 20210702T17:20:02Z | CVE-2021-34527 | Fix for the security | https://github.com/fardinbarashi/Fix-CVE-2021-34527 | Windows Print Spooler Remote Code Execution Vulnerability| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210702T14:48:15Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 152 | 14| 
+| 20210702T13:32:00Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 687 | 16| 
 | 20210702T07:40:01Z | Docker repo for llvm-klee | https://github.com/joeyjiaojg/llvm-klee | 0 | 0| 
 | 20210702T06:51:42Z | Config files for my GitHub profile. | https://github.com/kleer12/kleer12 | 0 | 0| 
 | 20210701T10:42:24Z | Null | https://github.com/JaimePSantos/ResearchKlee | 0 | 0| 
@@ -70,6 +72,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210702T22:39:38Z | Null | https://github.com/hichem840/s2ee | 0 | 0| 
 | 20210701T07:33:11Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 74 | 31| 
 | 20210701T07:33:03Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 138 | 32| 
 
@@ -77,31 +80,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210702T13:12:55Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9634 | 1579| 
-| 20210702T13:02:55Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 25 | 12| 
-| 20210702T12:52:45Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 76 | 13| 
-| 20210702T12:37:58Z | Educational web application demonstrating techniques of binary exploitation (Front-end) | https://github.com/Pen-Test3rs/binary_exploits_frontend | 0 | 0| 
-| 20210702T12:09:02Z | DebugSploit Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. DebugSploit Framework gives you the power and convenience of remote Android device administration. | https://github.com/G00Dway/DebugSploit | 2 | 0| 
-| 20210702T12:02:43Z | Patch for Waterfall to improve performance during attacks and fix memory issues. | https://github.com/2lstudios-mc/FlameCord | 43 | 24| 
-| 20210702T11:29:59Z | The code of Hacking: Art Of Exploitation (2nd Ed.) by Jon Erickson. | https://github.com/J-Melon/ArtOfExp | 0 | 0| 
-| 20210702T11:27:55Z | Null | https://github.com/kiarashjam/Exploiting-Video-Games-to-Test-AV | 0 | 1| 
-| 20210702T11:10:35Z | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | 201 | 32| 
-| 20210702T10:47:39Z | CVE-2021-1675 Simple LPE Exploit | https://github.com/evilashz/CVE-2021-1675-LPE-EXP | 6 | 1| 
+| 20210703T00:00:52Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 3709 | 515| 
+| 20210702T23:50:14Z | A simple roblox exploit I made. | https://github.com/shappp1/ShaneSploit | 0 | 0| 
+| 20210702T23:18:53Z | Repo that will contain variety of exploits for either public CVE or internal research. | https://github.com/bugbounty-site/exploits | 43 | 9| 
+| 20210702T23:18:46Z | The whole collection of Exploits developed by me (Hacker5preme) | https://github.com/Hacker5preme/Exploits | 3 | 0| 
+| 20210702T23:11:09Z | Null | https://github.com/Win32k/exploits | 0 | 0| 
+| 20210702T23:02:57Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 25 | 12| 
+| 20210702T22:38:36Z | Flask Exploit for ROBLOX | https://github.com/FlaskExploits/Flask | 0 | 0| 
+| 20210702T21:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9636 | 1581| 
+| 20210702T21:06:54Z | OWASP Benchmark is a test suite designed to verify the speed and accuracy of software vulnerability detection tools. A fully runnable web app written in Java, it supports analysis by Static (SAST), Dynamic (DAST), and Runtime (IAST) tools that support Java. The idea is that since it is fully runnable and all the vulnerabilities are actually exploitable, it’s a fair test for any kind of vulnerability detection tool.  For more details on this project, please see the OWASP Benchmark Project home page. | https://github.com/OWASP/Benchmark | 384 | 374| 
+| 20210702T20:55:58Z | roblox exploit use key krnl | https://github.com/zufiouz/mod-menu-exploit-roblox | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210702T23:55:09Z | 🙈 Small collection of bash scripts that take advantage of the .bashrc file and inject various payloads into it in order to escalate privilege or steal credentials.  | https://github.com/Naqwada/Bashrc-Backdoors | 0 | 0| 
+| 20210702T21:57:10Z | A backdoor which is similar to Meterpreter. | https://github.com/lecter76/RemoteCMD | 4 | 0| 
+| 20210702T18:13:50Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/Screetsec/TheFatRat | 5408 | 1758| 
+| 20210702T18:10:45Z | Une simple Backdoor, donnant accés à l%ensemble des fichiers d%un ordinateur. | https://github.com/billythegoat356/F0rs4k3n | 14 | 0| 
+| 20210702T17:34:43Z | Simple Web Shell Backdoor can Bypass All Server with WAF instead | https://github.com/willygoid/H4x0rShell | 0 | 0| 
+| 20210702T17:26:06Z | Null | https://github.com/isuruwa/msf-php-backdoor | 0 | 0| 
+| 20210702T14:24:18Z | A Python module for building botnet ,backdoor or trojan with Telegram control panel | https://github.com/onionj/pybotnet | 3 | 2| 
 | 20210702T13:04:29Z |  C# code for Transferring Backdoor Payloads by DNS Traffic (A - PTR Records) and Bypassing Anti-viruses  | https://github.com/DamonMohammadbagher/NativePayload_DNS2 | 41 | 29| 
-| 20210702T12:58:23Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/Screetsec/TheFatRat | 5406 | 1758| 
 | 20210702T12:27:29Z | C# code for Transferring Backdoor Payloads by DNS Traffic and Bypassing Anti-viruses   | https://github.com/DamonMohammadbagher/NativePayload_DNS | 231 | 106| 
 | 20210702T12:26:54Z | C# code for Transferring Backdoor Payloads by IPv6 Address (AAAA) records and DNS Traffic also Bypassing Anti-viruses  | https://github.com/DamonMohammadbagher/NativePayload_IP6DNS | 26 | 19| 
-| 20210702T12:26:06Z | C# code for Transferring Backdoor Payloads by ARP Traffic and Bypassing Anti-viruses (Slow) | https://github.com/DamonMohammadbagher/NativePayload_ARP | 36 | 28| 
-| 20210702T12:25:12Z | Simple Script %NativePayload_ARP2.sh% for Sending DATA via ARP Bcast Traffic to all systems in (LAN) by %Vid% tag | https://github.com/DamonMohammadbagher/NativePayload_ARP2 | 8 | 7| 
-| 20210702T12:24:24Z | Transferring Backdoor Payloads with BMP Image Pixels | https://github.com/DamonMohammadbagher/NativePayload_Image | 59 | 34| 
-| 20210702T12:23:05Z | Transferring Backdoor Payload by BSSID and Wireless traffic | https://github.com/DamonMohammadbagher/NativePayload_BSSID | 48 | 40| 
-| 20210702T12:20:27Z | Data Exfiltration via HTTP Traffic (C# and Shell Script) | https://github.com/DamonMohammadbagher/NativePayload_HTTP | 10 | 7| 
-| 20210702T12:16:57Z | python backdoor | https://github.com/emmalee2003/python-backdoor | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -129,16 +132,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210702T13:15:03Z | AHP dan Fuzzy AHP implementasi dengan Php,dengan kriteria bersifat dinamis | https://github.com/pramulia-nasution/AHP-dan-Fuzzy-AHP | 0 | 0| 
-| 20210702T13:13:45Z | My personal portfolio website | https://github.com/FuzzyGrim/fuzzygrim.github.io | 0 | 0| 
-| 20210702T13:07:54Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 467 | 43| 
-| 20210702T13:07:54Z | Minimalistic fuzzy file finding for neovim | https://github.com/cloudhead/neovim-fuzzy | 102 | 15| 
-| 20210702T12:25:59Z | tfuzz is a command-line tool to fuzz some layer 7 OSI protocols with a template file | https://github.com/noob0x/tfuzz | 3 | 0| 
-| 20210702T12:23:33Z | Null | https://github.com/amitk0693/Variants-of-Fuzzy-Neural-Gas | 0 | 0| 
-| 20210702T12:19:46Z | AHP dan Fuzzy AHP implementasi dengan Php,dengan kriteria bersifat dinamis | https://github.com/pramulia-nasution/ahpFuzzy | 0 | 0| 
-| 20210702T12:17:11Z | Null | https://github.com/dwiwahyudi/fuzzy | 0 | 0| 
-| 20210702T11:53:45Z | Null | https://github.com/AdaLogics/go-fuzz-headers | 2 | 1| 
-| 20210702T11:53:24Z | Binary code-coverage fuzzer for macOS, based on libFuzzer and LLVM | https://github.com/ant4g0nist/ManuFuzzer | 82 | 7| 
+| 20210702T23:42:45Z | This tool uses fzf(1)-like fuzzy-finder to do partial or fuzzy search of Kubernetes resources. Instead of specifying full resource names to kubectl commands, you can choose them from an interactive list that you can filter by typing a few characters. | https://github.com/d-kuro/kubectl-fuzzy | 87 | 10| 
+| 20210702T23:35:56Z | Null | https://github.com/FuzzyFade/FuzzyFade | 0 | 0| 
+| 20210702T23:31:14Z | Null | https://github.com/AdaLogics/go-fuzz-headers | 2 | 1| 
+| 20210702T23:24:08Z | Furnace power control using Fuzzy Logic. GUI designed in JavaFX | https://github.com/Gefradus/FuzzyFurnaceControl | 0 | 0| 
+| 20210702T23:09:26Z | Null | https://github.com/churellano/fuzzy-enigma | 0 | 0| 
+| 20210702T23:02:24Z | Null | https://github.com/and88x/Fuzzy_Logic_based_Load_balancing_of_tasks | 0 | 0| 
+| 20210702T22:47:46Z | Null | https://github.com/schemathesis/web-api-fuzzing-project | 4 | 0| 
+| 20210702T22:37:24Z | A Python3 module to assist in fuzzing web applications | https://github.com/jangelesg/py3webfuzz | 52 | 5| 
+| 20210702T21:56:08Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 82 | 23| 
+| 20210702T21:54:14Z | fuzzer for the x86 architecture | https://github.com/tomergoodo/x86fuzzer | 0 | 0| 
 
 
 
