@@ -133,7 +133,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210704T01:01:15Z | Fuzzy logic model that predicts battery charge status based on heat and voltage. | https://github.com/ecenurarslan/battery-level-prediction-with-fuzzy-logic | 0 | 0| 
+| 20210704T01:02:10Z | Fuzzy logic model that predicts battery charge status based on heat and voltage. | https://github.com/ecenurarslan/battery-level-prediction-with-fuzzy-logic | 0 | 0| 
 | 20210704T00:38:28Z | Null | https://github.com/fuzzball-muck/fuzzball-muf | 7 | 6| 
 | 20210704T00:20:44Z | Null | https://github.com/kristhyanmatos/logica-fuzzy | 0 | 0| 
 | 20210704T00:11:29Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
