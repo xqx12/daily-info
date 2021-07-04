@@ -80,6 +80,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210704T12:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9644 | 1583| 
 | 20210704T12:25:18Z | PS1 savegame exploit | https://github.com/socram8888/tonyhax | 296 | 11| 
 | 20210704T12:03:24Z | Vulnerabilities, security advisories, exploit codes and proof-of-concept codes. | https://github.com/zeroscience/advisory | 4 | 4| 
 | 20210704T12:02:56Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 25 | 12| 
@@ -89,7 +90,6 @@
 | 20210704T11:11:45Z | CMS Detection and Exploitation suite - Scan WordPress, Joomla, Drupal and over 180 other CMSs | https://github.com/Sorrok-Exploit/CMSeeK | 1 | 0| 
 | 20210704T10:58:11Z | Exploit ZingMP3 API with NestJS, for study purposes only | https://github.com/ff3105/nest-zingmp3 | 0 | 0| 
 | 20210704T10:53:29Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 15 | 4| 
-| 20210704T10:20:11Z | Null | https://github.com/prince2014/exploit-uniswap-v1 | 0 | 0| 
 
 
 # backdoor on Github 推荐
