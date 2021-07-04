@@ -133,6 +133,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210704T00:38:28Z | Null | https://github.com/fuzzball-muck/fuzzball-muf | 7 | 6| 
 | 20210704T00:20:44Z | Null | https://github.com/kristhyanmatos/logica-fuzzy | 0 | 0| 
 | 20210704T00:11:29Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210704T00:04:58Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 17 | 7| 
@@ -142,7 +143,6 @@
 | 20210703T22:07:07Z | This library provides a support for performing fuzzy string matching in secondary memory. | https://github.com/jackbergus/fuzzyStringMatching | 0 | 0| 
 | 20210703T21:19:59Z | Null | https://github.com/ABD-01/fuzzy-pancake | 0 | 0| 
 | 20210703T21:10:40Z | Fuzzy Potato | https://github.com/gasech/Fuzzy-Potato | 0 | 0| 
-| 20210703T21:09:51Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 317 | 20| 
 
 
 
