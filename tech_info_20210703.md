@@ -18,15 +18,15 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210703T23:40:22Z | CVE-2020-7115 | Create your malicious engine in seconds | https://github.com/Retr02332/CVE-2020-7115 | The ClearPass Policy Manager web interface is affected by a vulnerability that leads to authentication bypass. Upon successful bypass an attacker could then execute an exploit that would allow to remote command execution in the underlying operating system. Resolution: Fixed in 6.7.13-HF, 6.8.5-HF, 6.8.6, 6.9.1 and higher.| 
-| 20210703T23:30:10Z | CVE-2021-1675 | C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527 | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210703T23:29:55Z | CVE-2021-1675 | CVE-2021-1675 Detection Info | https://github.com/LaresLLC/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210703T20:57:31Z | CVE-2021-1675 | Pure PowerShell implementation of CVE-2021-1675 Print Spooler Local Privilege Escalation (PrintNightmare) | https://github.com/calebstewart/CVE-2021-1675 | | 
-| 20210703T20:29:36Z | CVE-2021-34527 | Null | https://github.com/JohnHammond/CVE-2021-34527 | Windows Print Spooler Remote Code Execution Vulnerability| 
+| 20210703T20:57:31Z | CVE-2021-1675 | Pure PowerShell implementation of CVE-2021-1675 Print Spooler Local Privilege Escalation (PrintNightmare) | https://github.com/calebstewart/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
+| 20210703T20:29:36Z | CVE-2021-34527 | Null | https://github.com/JohnHammond/CVE-2021-34527 | | 
 | 20210703T19:26:32Z | CVE-2021-1675 | Windows Print Spooler Remote Code Execution Vulnerability (CVE-2021-34527) | https://github.com/nemo-wq/CVE-2021-1675_CVE-2021-34527_PrintNightmare | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210703T15:32:40Z | CVE-2021-31166 | Exploit for MS Http Protocol Stack RCE vulnerability (CVE-2021-31166) | https://github.com/y0g3sh-99/CVE-2021-31166-Exploit | HTTP Protocol Stack Remote Code Execution Vulnerability| 
 | 20210703T09:03:00Z | CVE-2021-34527 | Fix for the security | https://github.com/fardinbarashi/Fix-CVE-2021-34527 | Windows Print Spooler Remote Code Execution Vulnerability| 
 | 20210703T08:55:20Z | CVE-2020-15368 | How to exploit a vulnerable windows driver. Exploit for AsrDrv104.sys | https://github.com/stong/CVE-2020-15368 | AsrDrv103.sys in the ASRock RGB Driver does not properly restrict access from user space, as demonstrated by triggering a triple fault via a request to zero CR3.| 
 | 20210703T08:14:41Z | CVE-2021-1675 | CVE-2021-1675 LPE Exploit | https://github.com/evilashz/CVE-2021-1675-LPE-EXP | Windows Print Spooler Elevation of Privilege Vulnerability| 
+| 20210703T04:28:58Z | CVE-2020-0674 | 随便放点自己弄的小东西 | https://github.com/yukiNeko114514/CVE-2020-0674-PoC | A remote code execution vulnerability exists in the way that the scripting engine handles objects in memory in Internet Explorer, aka %Scripting Engine Memory Corruption Vulnerability%. This CVE ID is unique from CVE-2020-0673, CVE-2020-0710, CVE-2020-0711, CVE-2020-0712, CVE-2020-0713, CVE-2020-0767.| 
 
 
 # klee on Github 推荐
@@ -90,7 +90,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20210703T23:39:26Z | Null | https://github.com/ksiminski/neuro-fuzzy-library | 2 | 0| 
-| 20210703T23:32:23Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210703T23:18:45Z | Gentoo overlay | https://github.com/lferra/fuzzy-potato | 0 | 0| 
 | 20210703T22:56:33Z | These tests of libdwarf/dwarfdump include old object files, new ones, and many fuzzed object files. These are the definitive tests that things work.. Most people have no reason to run these tests. | https://github.com/davea42/libdwarf-regressiontests | 0 | 0| 
 | 20210703T22:07:07Z | This library provides a support for performing fuzzy string matching in secondary memory. | https://github.com/jackbergus/fuzzyStringMatching | 0 | 0| 
@@ -99,6 +98,7 @@
 | 20210703T21:09:51Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 317 | 20| 
 | 20210703T21:02:07Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210703T20:59:09Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 656 | 121| 
+| 20210703T20:48:35Z | a c program containing vulnerable code for common types of vulnerabilities, can be used to show fuzzing concepts. | https://github.com/hardik05/Damn_Vulnerable_C_Program | 261 | 31| 
 
 
 
