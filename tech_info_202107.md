@@ -133,6 +133,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210704T00:04:58Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 17 | 7| 
 | 20210703T23:39:26Z | Null | https://github.com/ksiminski/neuro-fuzzy-library | 2 | 0| 
 | 20210703T23:32:23Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210703T23:18:45Z | Gentoo overlay | https://github.com/lferra/fuzzy-potato | 0 | 0| 
@@ -142,7 +143,6 @@
 | 20210703T21:10:40Z | Fuzzy Potato | https://github.com/gasech/Fuzzy-Potato | 0 | 0| 
 | 20210703T21:09:51Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 317 | 20| 
 | 20210703T21:02:07Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
-| 20210703T20:59:09Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 656 | 121| 
 
 
 
