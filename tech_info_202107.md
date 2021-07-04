@@ -80,6 +80,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210704T12:25:18Z | PS1 savegame exploit | https://github.com/socram8888/tonyhax | 296 | 11| 
 | 20210704T12:03:24Z | Vulnerabilities, security advisories, exploit codes and proof-of-concept codes. | https://github.com/zeroscience/advisory | 4 | 4| 
 | 20210704T12:02:56Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 25 | 12| 
 | 20210704T11:51:03Z | Command line exploit. Use OS vulnerabilities to spy client connect to a server by opening a file. | https://github.com/MoryokaV/Activity-Exploit | 0 | 0| 
@@ -89,7 +90,6 @@
 | 20210704T10:58:11Z | Exploit ZingMP3 API with NestJS, for study purposes only | https://github.com/ff3105/nest-zingmp3 | 0 | 0| 
 | 20210704T10:53:29Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 15 | 4| 
 | 20210704T10:20:11Z | Null | https://github.com/prince2014/exploit-uniswap-v1 | 0 | 0| 
-| 20210704T09:43:33Z | Some Apex Legends Cheats Exploits and Offsets Updated Every Update | https://github.com/Android1337/Apex-Offsets-Season-9 | 15 | 4| 
 
 
 # backdoor on Github 推荐
