@@ -47,7 +47,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210704T01:27:27Z | CVE-2021-1675 | C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527 | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210704T01:25:25Z | CVE-2021-1675 | Pure PowerShell implementation of CVE-2021-1675 Print Spooler Local Privilege Escalation (PrintNightmare) | https://github.com/calebstewart/CVE-2021-1675 | | 
+| 20210704T01:25:25Z | CVE-2021-1675 | Pure PowerShell implementation of CVE-2021-1675 Print Spooler Local Privilege Escalation (PrintNightmare) | https://github.com/calebstewart/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210704T01:22:19Z | CVE-2021-1675 | CVE-2021-1675 Detection Info | https://github.com/LaresLLC/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210703T23:40:22Z | CVE-2020-7115 | Create your malicious engine in seconds | https://github.com/Retr02332/CVE-2020-7115 | The ClearPass Policy Manager web interface is affected by a vulnerability that leads to authentication bypass. Upon successful bypass an attacker could then execute an exploit that would allow to remote command execution in the underlying operating system. Resolution: Fixed in 6.7.13-HF, 6.8.5-HF, 6.8.6, 6.9.1 and higher.| 
 | 20210703T20:29:36Z | CVE-2021-34527 | Null | https://github.com/JohnHammond/CVE-2021-34527 | Windows Print Spooler Remote Code Execution Vulnerability| 
@@ -80,10 +80,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210704T01:46:45Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 3710 | 515| 
 | 20210704T01:03:03Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 25 | 12| 
 | 20210704T00:38:52Z | Extended Few-Shot Learning: Exploiting Existing Resources for Novel Tasks | https://github.com/BatsResearch/efsl | 1 | 0| 
 | 20210703T23:38:18Z | A post exploitation tool. After running a find command to search for all SUID files on a target system, this tool will tell you which binaries can be foud on GTFOBins along with a link to the page.After running a command like %find / -type f -perm -04000 -ls 2>/dev/null% \  to find all SUID files on a target system, copy the output to a text file and feed it as command line parameter to this tool. It will tell you which binaries can be foud on GTFOBins along with a link to the page. | https://github.com/michael-pena/GTFOBins-Grabber | 0 | 0| 
-| 20210703T23:35:54Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 3709 | 515| 
 | 20210703T23:34:13Z | Synapse CLI is a command line interface for Roblox exploiting made using the Synapse X console functions. | https://github.com/Remfly/synapse-cli | 0 | 0| 
 | 20210703T23:11:27Z | An automated, modular cryptanalysis tool; i.e., a Weapon of Math Destruction | https://github.com/nccgroup/featherduster | 896 | 128| 
 | 20210703T23:11:12Z | Exploit miss configured mmpublish instances from %mmcafe.com.br% | https://github.com/r00td3v/mmpublish-scanner | 0 | 0| 

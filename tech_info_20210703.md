@@ -26,7 +26,7 @@
 | 20210703T08:14:41Z | CVE-2021-1675 | CVE-2021-1675 LPE Exploit | https://github.com/evilashz/CVE-2021-1675-LPE-EXP | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210703T04:28:58Z | CVE-2020-0674 | 随便放点自己弄的小东西 | https://github.com/yukiNeko114514/CVE-2020-0674-PoC | A remote code execution vulnerability exists in the way that the scripting engine handles objects in memory in Internet Explorer, aka %Scripting Engine Memory Corruption Vulnerability%. This CVE ID is unique from CVE-2020-0673, CVE-2020-0710, CVE-2020-0711, CVE-2020-0712, CVE-2020-0713, CVE-2020-0767.| 
 | 20210703T02:17:57Z | CVE-2020-14882 | 结合14882的未授权访问漏洞，通过14883可远程执行任意代码 | https://github.com/N0Coriander/CVE-2020-14882-14883 | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
-| 20210703T01:08:45Z | cve-2021-1675 | to catch cve-2021-1675-printnightmare | https://github.com/initconf/cve-2021-1675-printnightmare | | 
+| 20210703T01:08:45Z | cve-2021-1675 | to catch cve-2021-1675-printnightmare | https://github.com/initconf/cve-2021-1675-printnightmare | Windows Print Spooler Elevation of Privilege Vulnerability| 
 
 
 # klee on Github 推荐
@@ -46,7 +46,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20210703T23:38:18Z | A post exploitation tool. After running a find command to search for all SUID files on a target system, this tool will tell you which binaries can be foud on GTFOBins along with a link to the page.After running a command like %find / -type f -perm -04000 -ls 2>/dev/null% \  to find all SUID files on a target system, copy the output to a text file and feed it as command line parameter to this tool. It will tell you which binaries can be foud on GTFOBins along with a link to the page. | https://github.com/michael-pena/GTFOBins-Grabber | 0 | 0| 
-| 20210703T23:35:54Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 3709 | 515| 
 | 20210703T23:34:13Z | Synapse CLI is a command line interface for Roblox exploiting made using the Synapse X console functions. | https://github.com/Remfly/synapse-cli | 0 | 0| 
 | 20210703T23:11:27Z | An automated, modular cryptanalysis tool; i.e., a Weapon of Math Destruction | https://github.com/nccgroup/featherduster | 896 | 128| 
 | 20210703T23:11:12Z | Exploit miss configured mmpublish instances from %mmcafe.com.br% | https://github.com/r00td3v/mmpublish-scanner | 0 | 0| 
@@ -55,6 +54,7 @@
 | 20210703T22:58:43Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9642 | 1583| 
 | 20210703T22:52:59Z | A simple utility to create and exploit backdoors in the Diffie-Hellman protocol | https://github.com/jinscoe123/dph | 0 | 0| 
 | 20210703T22:52:28Z | Not really an exploit yet | https://github.com/neutrino2211/smart-tv-exploit | 0 | 0| 
+| 20210703T22:51:25Z | A modern exploiting solution, built for Roblox and Rojo | https://github.com/richie0866/Rostruct | 0 | 0| 
 
 
 # backdoor on Github 推荐
