@@ -68,6 +68,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210704T08:40:45Z | FuSeBMC is a White-Box Fuzzer that combines FUzzing with Symbolic Execution via Bounded Model Checking to verify intricate properties in real-world C programs. | https://github.com/kaled-alshmrany/FuSeBMC | 17 | 1| 
+| 20210704T06:30:29Z | Aggressive compile-time optimizations for JavaScript via dynamic symbolic VM execution. | https://github.com/undefinedbuddy/optimizr | 26 | 0| 
 | 20210704T00:35:21Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2375 | 349| 
 
 
@@ -79,6 +81,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210704T12:02:19Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210704T11:42:21Z | Null | https://github.com/ktaken-la/fuzzy-guide | 0 | 0| 
 | 20210704T11:23:35Z | Practice repository for binary exploitation and fuzzing | https://github.com/RickdeJager/binexp-practice | 0 | 0| 
 | 20210704T11:11:55Z | Null | https://github.com/ABD-01/fuzzy-pancake | 1 | 0| 
@@ -88,7 +91,6 @@
 | 20210704T09:48:07Z | Takes user input and Uses Levenshtein distance to calculate the approximate nearest word from the file inside the content folder, if the exact word is not found. | https://github.com/sanghaarsha/cpp-fuzzy-search | 0 | 0| 
 | 20210704T09:38:10Z | DOM fuzzer | https://github.com/mevid93/domzzer | 0 | 0| 
 | 20210704T08:53:53Z | Prediksi curah hujan berdasarkan suhu, kelembaban, dan kecepatan angin menggunakan fuzzy (skfuzzy) | https://github.com/faishalwickson/Fuzzy_Rain | 0 | 0| 
-| 20210704T08:50:43Z | fuzz Tor, OpenSSL and probably more using AFL++ | https://github.com/toralf/fuzz-utils | 0 | 0| 
 
 
 
