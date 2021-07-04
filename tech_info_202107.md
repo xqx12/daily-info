@@ -48,7 +48,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210704T01:27:27Z | CVE-2021-1675 | C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527 | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210704T01:25:25Z | CVE-2021-1675 | Pure PowerShell implementation of CVE-2021-1675 Print Spooler Local Privilege Escalation (PrintNightmare) | https://github.com/calebstewart/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210704T01:22:19Z | CVE-2021-1675 | CVE-2021-1675 Detection Info | https://github.com/LaresLLC/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
+| 20210704T01:22:19Z | CVE-2021-1675 | CVE-2021-1675 Detection Info | https://github.com/LaresLLC/CVE-2021-1675 | | 
 | 20210703T23:40:22Z | CVE-2020-7115 | Create your malicious engine in seconds | https://github.com/Retr02332/CVE-2020-7115 | The ClearPass Policy Manager web interface is affected by a vulnerability that leads to authentication bypass. Upon successful bypass an attacker could then execute an exploit that would allow to remote command execution in the underlying operating system. Resolution: Fixed in 6.7.13-HF, 6.8.5-HF, 6.8.6, 6.9.1 and higher.| 
 | 20210703T20:29:36Z | CVE-2021-34527 | Null | https://github.com/JohnHammond/CVE-2021-34527 | Windows Print Spooler Remote Code Execution Vulnerability| 
 | 20210703T19:26:32Z | CVE-2021-1675 | Windows Print Spooler Remote Code Execution Vulnerability (CVE-2021-34527) | https://github.com/nemo-wq/CVE-2021-1675_CVE-2021-34527_PrintNightmare | Windows Print Spooler Elevation of Privilege Vulnerability| 
@@ -133,6 +133,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210704T01:53:13Z | Experimental OS | https://github.com/scopeInfinity/FuzzyOS | 1 | 0| 
 | 20210704T01:32:34Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210704T01:02:10Z | Fuzzy logic model that predicts battery charge status based on heat and voltage. | https://github.com/ecenurarslan/battery-level-prediction-with-fuzzy-logic | 0 | 0| 
 | 20210704T00:38:28Z | Null | https://github.com/fuzzball-muck/fuzzball-muf | 7 | 6| 
@@ -142,7 +143,6 @@
 | 20210703T23:18:45Z | Gentoo overlay | https://github.com/lferra/fuzzy-potato | 0 | 0| 
 | 20210703T22:56:33Z | These tests of libdwarf/dwarfdump include old object files, new ones, and many fuzzed object files. These are the definitive tests that things work.. Most people have no reason to run these tests. | https://github.com/davea42/libdwarf-regressiontests | 0 | 0| 
 | 20210703T22:07:07Z | This library provides a support for performing fuzzy string matching in secondary memory. | https://github.com/jackbergus/fuzzyStringMatching | 0 | 0| 
-| 20210703T21:19:59Z | Null | https://github.com/ABD-01/fuzzy-pancake | 0 | 0| 
 
 
 
