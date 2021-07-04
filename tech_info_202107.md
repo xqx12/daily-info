@@ -133,10 +133,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210704T01:32:34Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210704T01:02:10Z | Fuzzy logic model that predicts battery charge status based on heat and voltage. | https://github.com/ecenurarslan/battery-level-prediction-with-fuzzy-logic | 0 | 0| 
 | 20210704T00:38:28Z | Null | https://github.com/fuzzball-muck/fuzzball-muf | 7 | 6| 
 | 20210704T00:20:44Z | Null | https://github.com/kristhyanmatos/logica-fuzzy | 0 | 0| 
-| 20210704T00:11:29Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210704T00:04:58Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 17 | 7| 
 | 20210703T23:39:26Z | Null | https://github.com/ksiminski/neuro-fuzzy-library | 2 | 0| 
 | 20210703T23:18:45Z | Gentoo overlay | https://github.com/lferra/fuzzy-potato | 0 | 0| 
