@@ -31,6 +31,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210704 | 编程语言测试综述 | https://mp.weixin.qq.com/s/HsSTwWdWzfHuXHdbgXXIeQ| 
 | 20210703 | 越权检测系统从零开发之-Chrome插件开发 | https://www.anquanke.com/post/id/245292| 
 | 20210702 | 网络空间测绘专题——资产地址动态变化研究 | https://mp.weixin.qq.com/s/Fh93JLtMQa9Qxp_xqEj3zg| 
 | 20210702 | 常规智能设备动态调试思路 | https://mp.weixin.qq.com/s/E6R-39_UHxXPw4qxuIqNmA| 
@@ -40,29 +41,28 @@
 | 20210702 | 2021年InForSec 网络空间安全国际学术研究交流会报告 | https://www.inforsec.org/wp/?p=4841| 
 | 20210702 | 美国查封伊朗媒体域名事件背后的技术分析 | https://www.inforsec.org/wp/?p=4860| 
 | 20210702 | 以史为鉴：基于复制-生成网络的时态知识图谱建模 | https://mp.weixin.qq.com/s/YM6lYAA1FyGh1myhbiAXVQ| 
-| 20210702 | 2021年InForSec 网络空间安全国际学术研究交流会报告 | /news/29372| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210704T02:02:34Z | CVE-2021-1675 | C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527 | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210704T02:02:08Z | CVE-2021-1675 | CVE-2021-1675 Detection Info | https://github.com/LaresLLC/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210704T01:25:25Z | CVE-2021-1675 | Pure PowerShell implementation of CVE-2021-1675 Print Spooler Local Privilege Escalation (PrintNightmare) | https://github.com/calebstewart/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
+| 20210704T11:59:40Z | CVE-2021-21975 | Null | https://github.com/dorkerdevil/CVE-2021-21975 | Server Side Request Forgery in vRealize Operations Manager API (CVE-2021-21975) prior to 8.4 may allow a malicious actor with network access to the vRealize Operations Manager API can perform a Server Side Request Forgery attack to steal administrative credentials.| 
+| 20210704T11:55:09Z | CVE-2021-1675 | C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527 | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
+| 20210704T11:33:37Z | CVE-2021-1675 | Pure PowerShell implementation of CVE-2021-1675 Print Spooler Local Privilege Escalation (PrintNightmare) | https://github.com/calebstewart/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
+| 20210704T10:48:17Z | CVE-2021-1675 | Youtube : https://youtu.be/Zr0KjYDSFKQ | https://github.com/exploitblizzard/PrintNightmare-CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
+| 20210704T10:15:04Z | CVE-2020-27199 | CVE-2020-27199 | https://github.com/9lyph/CVE-2020-27199 | The Magic Home Pro application 1.5.1 for Android allows Authentication Bypass. The security control that the application currently has in place is a simple Username and Password authentication function. Using enumeration, an attacker is able to forge a User specific token without the need for correct password to gain access to the mobile application as that victim user.| 
+| 20210704T09:51:53Z | CVE-2021-1675 | CVE-2021-1675 Detection Info | https://github.com/LaresLLC/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
+| 20210704T06:26:50Z | CVE-2021-34527 | PrintNightmare - Windows Print Spooler RCE/LPE Vulnerability (CVE-2021-34527, CVE-2021-1675) proof of concept exploits | https://github.com/nemo-wq/PrintNightmare-CVE-2021-34527 | Windows Print Spooler Remote Code Execution Vulnerability| 
+| 20210704T03:08:38Z | CVE-2021-34527 | Null | https://github.com/JohnHammond/CVE-2021-34527 | Windows Print Spooler Remote Code Execution Vulnerability| 
 | 20210703T23:40:22Z | CVE-2020-7115 | Create your malicious engine in seconds | https://github.com/Retr02332/CVE-2020-7115 | The ClearPass Policy Manager web interface is affected by a vulnerability that leads to authentication bypass. Upon successful bypass an attacker could then execute an exploit that would allow to remote command execution in the underlying operating system. Resolution: Fixed in 6.7.13-HF, 6.8.5-HF, 6.8.6, 6.9.1 and higher.| 
-| 20210703T20:29:36Z | CVE-2021-34527 | Null | https://github.com/JohnHammond/CVE-2021-34527 | | 
 | 20210703T19:26:32Z | CVE-2021-1675 | Windows Print Spooler Remote Code Execution Vulnerability (CVE-2021-34527) | https://github.com/nemo-wq/CVE-2021-1675_CVE-2021-34527_PrintNightmare | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210703T15:32:40Z | CVE-2021-31166 | Exploit for MS Http Protocol Stack RCE vulnerability (CVE-2021-31166) | https://github.com/y0g3sh-99/CVE-2021-31166-Exploit | HTTP Protocol Stack Remote Code Execution Vulnerability| 
-| 20210703T09:03:00Z | CVE-2021-34527 | Fix for the security | https://github.com/fardinbarashi/Fix-CVE-2021-34527 | Windows Print Spooler Remote Code Execution Vulnerability| 
-| 20210703T08:55:20Z | CVE-2020-15368 | How to exploit a vulnerable windows driver. Exploit for AsrDrv104.sys | https://github.com/stong/CVE-2020-15368 | AsrDrv103.sys in the ASRock RGB Driver does not properly restrict access from user space, as demonstrated by triggering a triple fault via a request to zero CR3.| 
-| 20210703T08:14:41Z | CVE-2021-1675 | CVE-2021-1675 LPE Exploit | https://github.com/evilashz/CVE-2021-1675-LPE-EXP | Windows Print Spooler Elevation of Privilege Vulnerability| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210704T07:12:36Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 689 | 16| 
 | 20210703T15:13:15Z | Null | https://github.com/JaimePSantos/ResearchKlee | 0 | 0| 
-| 20210703T02:05:30Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 687 | 16| 
 | 20210702T14:48:15Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 152 | 14| 
 | 20210702T07:40:01Z | Docker repo for llvm-klee | https://github.com/joeyjiaojg/llvm-klee | 0 | 0| 
 | 20210702T06:51:42Z | Config files for my GitHub profile. | https://github.com/kleer12/kleer12 | 0 | 0| 
@@ -80,31 +80,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210704T02:07:44Z | ScadaBR 1.0 / 1.1CE Linux Shell Upload Exploit | https://github.com/dock0d1/ScadaBR-1.0-1.1CE-Linux-Shell-Upload-Exploit | 0 | 0| 
-| 20210704T02:02:53Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 25 | 12| 
-| 20210704T01:46:45Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 3710 | 515| 
-| 20210704T00:38:52Z | Extended Few-Shot Learning: Exploiting Existing Resources for Novel Tasks | https://github.com/BatsResearch/efsl | 1 | 0| 
-| 20210703T23:38:18Z | A post exploitation tool. After running a find command to search for all SUID files on a target system, this tool will tell you which binaries can be foud on GTFOBins along with a link to the page.After running a command like %find / -type f -perm -04000 -ls 2>/dev/null% \  to find all SUID files on a target system, copy the output to a text file and feed it as command line parameter to this tool. It will tell you which binaries can be foud on GTFOBins along with a link to the page. | https://github.com/michael-pena/GTFOBins-Grabber | 0 | 0| 
-| 20210703T23:34:13Z | Synapse CLI is a command line interface for Roblox exploiting made using the Synapse X console functions. | https://github.com/Remfly/synapse-cli | 0 | 0| 
-| 20210703T23:11:27Z | An automated, modular cryptanalysis tool; i.e., a Weapon of Math Destruction | https://github.com/nccgroup/featherduster | 896 | 128| 
-| 20210703T23:11:12Z | Exploit miss configured mmpublish instances from %mmcafe.com.br% | https://github.com/r00td3v/mmpublish-scanner | 0 | 0| 
-| 20210703T23:03:52Z | LUA Scripts and %Exploits% | https://github.com/TherioJunior/lua_scripts | 0 | 0| 
-| 20210703T22:59:23Z | Exploit allowing to load arbitrary code on the PSX using only a memory card (no game needed) | https://github.com/brad-lin/FreePSXBoot | 246 | 18| 
+| 20210704T11:51:03Z | Command line exploit. Use OS vulnerabilities to spy client connect to a server by opening a file. | https://github.com/MoryokaV/Activity-Exploit | 0 | 0| 
+| 20210704T11:23:35Z | Practice repository for binary exploitation and fuzzing | https://github.com/RickdeJager/binexp-practice | 0 | 0| 
+| 20210704T11:16:31Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 70 | 25| 
+| 20210704T11:11:45Z | CMS Detection and Exploitation suite - Scan WordPress, Joomla, Drupal and over 180 other CMSs | https://github.com/Sorrok-Exploit/CMSeeK | 1 | 0| 
+| 20210704T11:02:52Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 25 | 12| 
+| 20210704T10:58:11Z | Exploit ZingMP3 API with NestJS, for study purposes only | https://github.com/ff3105/nest-zingmp3 | 0 | 0| 
+| 20210704T10:53:29Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 15 | 4| 
+| 20210704T10:20:11Z | Null | https://github.com/prince2014/exploit-uniswap-v1 | 0 | 0| 
+| 20210704T09:43:33Z | Some Apex Legends Cheats Exploits and Offsets Updated Every Update | https://github.com/Android1337/Apex-Offsets-Season-9 | 15 | 4| 
+| 20210704T09:29:07Z | use your injector or download mine , rename dll to %fornite.dll%, place in the same folder of injector | https://github.com/yatzu0001/fortnite-internal-with-exploits-2 | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210704T10:04:46Z | Hexa Web Shell Backdoor | https://github.com/Bl4ckH4t-H4ck3r/Hexa-Shell | 0 | 0| 
+| 20210704T06:24:45Z | Simple Web Shell Backdoor can Bypass All Server with WAF instead | https://github.com/willygoid/H4x0rShell | 0 | 0| 
+| 20210704T05:03:47Z | Null | https://github.com/subhomoy-roy-choudhury/BackDoor_Script | 0 | 0| 
+| 20210704T04:42:51Z | Null | https://github.com/FierzaEriez/FX-Super-Mini-Shell-Backdoor | 0 | 0| 
+| 20210704T03:10:58Z | A simple utility to create and exploit backdoors in the Diffie-Hellman protocol | https://github.com/jinscoe123/dph | 0 | 0| 
+| 20210704T02:59:47Z | Null | https://github.com/FierzaEriez/Mini-Shell-Backdoor | 1 | 0| 
 | 20210704T00:40:33Z | A simple, yet effective backdoor for any Minecraft server. | https://github.com/BookBackdoor/BookBackdoor | 2 | 1| 
-| 20210703T22:52:59Z | A simple utility to create and exploit backdoors in the Diffie-Hellman protocol | https://github.com/jinscoe123/dph | 0 | 0| 
 | 20210703T22:23:29Z | A Python module for building botnet ,backdoor or trojan with Telegram control panel | https://github.com/onionj/pybotnet | 3 | 2| 
 | 20210703T15:05:52Z | Une simple Backdoor, donnant accés à l%ensemble des fichiers d%un ordinateur. | https://github.com/billythegoat356/F0rs4k3n | 16 | 0| 
 | 20210703T13:38:50Z | Small collection of bash scripts that take advantage of the .bashrc file and inject various payloads into it in order to escalate privileges or steal credentials.  | https://github.com/Naqwada/Bashrc-Backdoors | 0 | 0| 
-| 20210703T10:04:56Z | Discord Backdoors on discord :) | https://github.com/FqrBy/Discord.Controller | 0 | 0| 
-| 20210703T09:23:07Z | The best backdoor scanner there is. | https://github.com/iK4oS/backdoor.exe | 1 | 1| 
-| 20210703T09:04:11Z | Backdoor Attack in Frequency Domain | https://github.com/FTrojanAttack/FTrojan | 0 | 0| 
-| 20210703T05:44:45Z | METASPLOIT PHP BACKDOOR | https://github.com/isuruwa/msf-php-backdoor | 0 | 0| 
-| 20210703T04:31:24Z | A webshell that can bypass some system security | https://github.com/22XploiterCrew-Team/Gel4y-Mini-Shell-Backdoor | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -133,16 +133,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210704T02:14:54Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210704T01:53:13Z | Experimental OS | https://github.com/scopeInfinity/FuzzyOS | 1 | 0| 
-| 20210704T01:02:10Z | Fuzzy logic model that predicts battery charge status based on heat and voltage. | https://github.com/ecenurarslan/battery-level-prediction-with-fuzzy-logic | 0 | 0| 
-| 20210704T00:38:28Z | Null | https://github.com/fuzzball-muck/fuzzball-muf | 7 | 6| 
-| 20210704T00:20:44Z | Null | https://github.com/kristhyanmatos/logica-fuzzy | 0 | 0| 
-| 20210704T00:04:58Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 17 | 7| 
-| 20210703T23:39:26Z | Null | https://github.com/ksiminski/neuro-fuzzy-library | 2 | 0| 
-| 20210703T23:18:45Z | Gentoo overlay | https://github.com/lferra/fuzzy-potato | 0 | 0| 
-| 20210703T22:56:33Z | These tests of libdwarf/dwarfdump include old object files, new ones, and many fuzzed object files. These are the definitive tests that things work.. Most people have no reason to run these tests. | https://github.com/davea42/libdwarf-regressiontests | 0 | 0| 
-| 20210703T22:07:07Z | This library provides a support for performing fuzzy string matching in secondary memory. | https://github.com/jackbergus/fuzzyStringMatching | 0 | 0| 
+| 20210704T11:42:21Z | Null | https://github.com/ktaken-la/fuzzy-guide | 0 | 0| 
+| 20210704T11:23:35Z | Practice repository for binary exploitation and fuzzing | https://github.com/RickdeJager/binexp-practice | 0 | 0| 
+| 20210704T11:11:55Z | Null | https://github.com/ABD-01/fuzzy-pancake | 1 | 0| 
+| 20210704T10:52:00Z | Fuzzing for Quiwi https://github.com/goburrow/quic | https://github.com/goburrow/quic-fuzz | 0 | 0| 
+| 20210704T10:29:57Z | Null | https://github.com/erdifajarf/PMDK_FuzzyAHP | 0 | 0| 
+| 20210704T09:51:37Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 6 | 0| 
+| 20210704T09:48:07Z | Takes user input and Uses Levenshtein distance to calculate the approximate nearest word from the file inside the content folder, if the exact word is not found. | https://github.com/sanghaarsha/cpp-fuzzy-search | 0 | 0| 
+| 20210704T09:38:10Z | DOM fuzzer | https://github.com/mevid93/domzzer | 0 | 0| 
+| 20210704T08:53:53Z | Prediksi curah hujan berdasarkan suhu, kelembaban, dan kecepatan angin menggunakan fuzzy (skfuzzy) | https://github.com/faishalwickson/Fuzzy_Rain | 0 | 0| 
+| 20210704T08:50:43Z | fuzz Tor, OpenSSL and probably more using AFL++ | https://github.com/toralf/fuzz-utils | 0 | 0| 
 
 
 
