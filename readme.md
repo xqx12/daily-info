@@ -34,8 +34,8 @@
 | 20210705T12:06:26Z | CVE-2021-1675 | CVE-2021-1675 - Windows print spooler remote | https://github.com/edsonjt81/https-github.com-cube0x0-CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210705T11:50:18Z | CVE-2021-37152 | Exploit Accsess network clients by sending packets in wirless TP-LINK and preparing for a mitm attack | https://github.com/lhashashinl/CVE-2021-37152 | 未查询到CVE信息| 
 | 20210705T10:56:52Z | CVE-2021-1675 | Local Privilege Escalation Edition for CVE-2021-1675 | https://github.com/hlldz/CVE-2021-1675-LPE | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210705T10:44:36Z | CVE-2020-3580 | Automated bulk IP or domain scanner for CVE 2020 3580. Cisco ASA and FTD XSS hunter. | https://github.com/adarshvs/CVE-2020-3580 | | 
-| 20210705T10:10:50Z | CVE-2021-1675 | CVE-2021-1675 Detection Info | https://github.com/LaresLLC/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
+| 20210705T10:44:36Z | CVE-2020-3580 | Automated bulk IP or domain scanner for CVE 2020 3580. Cisco ASA and FTD XSS hunter. | https://github.com/adarshvs/CVE-2020-3580 | Multiple vulnerabilities in the web services interface of Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software could allow an unauthenticated, remote attacker to conduct cross-site scripting (XSS) attacks against a user of the web services interface of an affected device. The vulnerabilities are due to insufficient validation of user-supplied input by the web services interface of an affected device. An attacker could exploit these vulnerabilities by persuading a user of the interface to click a crafted link. A successful exploit could allow the attacker to execute arbitrary script code in the context of the interface or allow the attacker to access sensitive, browser-based information. Note: These vulnerabilities affect only specific AnyConnect and WebVPN configurations. For more information, see the Vulnerable Products section.| 
+| 20210705T10:10:50Z | CVE-2021-1675 | CVE-2021-1675 Detection Info | https://github.com/LaresLLC/CVE-2021-1675 | | 
 | 20210705T08:47:17Z | CVE-2021-3281 | Null | https://github.com/lwzSoviet/CVE-2021-3281 | In Django 2.2 before 2.2.18, 3.0 before 3.0.12, and 3.1 before 3.1.6, the django.utils.archive.extract method (used by %startapp --template% and %startproject --template%) allows directory traversal via an archive with absolute paths or relative paths with dot segments.| 
 | 20210705T01:58:44Z | CVE-2021-34527 | Null | https://github.com/JohnHammond/CVE-2021-34527 | Windows Print Spooler Remote Code Execution Vulnerability| 
 
@@ -55,6 +55,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210705T12:51:48Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 17 | 12| 
 | 20210705T12:49:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9652 | 1585| 
 | 20210705T12:47:48Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 71 | 25| 
 | 20210705T12:16:24Z | PatrowlHears - Vulnerability Intelligence Center / Exploits | https://github.com/Patrowl/PatrowlHears | 101 | 27| 
@@ -64,7 +65,6 @@
 | 20210705T11:50:18Z | Exploit Accsess network clients by sending packets in wirless TP-LINK and preparing for a mitm attack | https://github.com/lhashashinl/CVE-2021-37152 | 2 | 0| 
 | 20210705T11:13:31Z | The whole collection of Exploits developed by me (Hacker5preme) | https://github.com/Hacker5preme/Exploits | 3 | 0| 
 | 20210705T10:48:46Z | Null | https://github.com/z3dc0ps/windows-exploitation-more | 0 | 0| 
-| 20210705T10:42:11Z | Null | https://github.com/kienquoc102/Netwave-GoAhead-Exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
