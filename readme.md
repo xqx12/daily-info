@@ -99,16 +99,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210705T12:57:40Z | Null | https://github.com/The-Valley-Discord/Fuzzy | 0 | 2| 
+| 20210705T12:55:35Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 469 | 44| 
 | 20210705T12:52:44Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210705T12:51:22Z | Null | https://github.com/bartfish/FuzzyKSQL | 1 | 0| 
 | 20210705T12:45:58Z | A patched QEMU that exposes an interface for LibAFL-based fuzzers | https://github.com/AFLplusplus/qemu-libafl-bridge | 15 | 2| 
 | 20210705T12:29:55Z | Null | https://github.com/jiradeto/fuzzbench-result | 0 | 0| 
 | 20210705T12:15:17Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 18 | 7| 
 | 20210705T12:13:26Z | DDRFuzz is a fuzzing system based on a seq2seq model to generate valuable seed corpus. | https://github.com/kppw99/ddrfuzz | 2 | 1| 
-| 20210705T12:13:03Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 469 | 44| 
 | 20210705T12:09:47Z | Null | https://github.com/WillyArdiyanto/Pemetaan_Kerawanan_Longsor_Fuzzy | 0 | 0| 
 | 20210705T12:02:02Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
-| 20210705T11:15:29Z | Potentially dangerous files | https://github.com/Bo0oM/fuzz.txt | 1438 | 276| 
 
 
 
