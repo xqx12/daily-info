@@ -48,7 +48,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210705T00:30:18Z | CVE-2021-1675 | Pure PowerShell implementation of CVE-2021-1675 Print Spooler Local Privilege Escalation (PrintNightmare) | https://github.com/calebstewart/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210704T23:59:36Z | CVE-2021-1675 | C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527 | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210704T22:44:42Z | CVE-2021-1675 | CVE-2021-1675 Detection Info | https://github.com/LaresLLC/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
+| 20210704T22:44:42Z | CVE-2021-1675 | CVE-2021-1675 Detection Info | https://github.com/LaresLLC/CVE-2021-1675 | | 
 | 20210704T21:08:55Z | CVE-2021-34527 | Null | https://github.com/JohnHammond/CVE-2021-34527 | Windows Print Spooler Remote Code Execution Vulnerability| 
 | 20210704T16:34:54Z | CVE-2021-34527 | Cve-2021-1675 or cve-2021-34527? Detailed analysis and exploitation of windows print spooler 0day vulnerability！！！ | https://github.com/CnOxx1/CVE-2021-34527-1675 | Windows Print Spooler Remote Code Execution Vulnerability| 
 | 20210704T11:59:40Z | CVE-2021-21975 | Null | https://github.com/dorkerdevil/CVE-2021-21975 | Server Side Request Forgery in vRealize Operations Manager API (CVE-2021-21975) prior to 8.4 may allow a malicious actor with network access to the vRealize Operations Manager API can perform a Server Side Request Forgery attack to steal administrative credentials.| 
@@ -96,7 +96,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210705T00:38:05Z | This software technically acts as a backdoor, but all I use it for is to annoy my brother. :) It uses C#%s socket tools in order to listen and connect to a TCP connection, and when connected send a variety of commands. | https://github.com/lucadenhez/EasyDoor | 0 | 0| 
+| 20210705T00:50:34Z | This software technically acts as a backdoor, but all I use it for is to annoy my brother. :) It uses C#%s socket tools in order to listen and connect to a TCP connection, and when connected send a variety of commands. | https://github.com/lucadenhez/EasyDoor | 0 | 0| 
 | 20210705T00:31:22Z | Null | https://github.com/can-er/Digispark-FUD-backdoor | 0 | 0| 
 | 20210704T23:26:05Z | Small collection of bash scripts that take advantage of the .bashrc file and inject various payloads into it in order to escalate privileges or steal credentials.  | https://github.com/Naqwada/Bashrc-Backdoors | 0 | 0| 
 | 20210704T13:44:13Z | Web Shell Backdoors Collection | https://github.com/PhenaxGod/Web-Shell-Backdoors | 0 | 1| 
