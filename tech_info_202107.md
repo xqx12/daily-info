@@ -52,10 +52,10 @@
 | 20210704T23:59:36Z | CVE-2021-1675 | C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527 | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210704T22:44:42Z | CVE-2021-1675 | CVE-2021-1675 Detection Info | https://github.com/LaresLLC/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210704T21:08:55Z | CVE-2021-34527 | Null | https://github.com/JohnHammond/CVE-2021-34527 | Windows Print Spooler Remote Code Execution Vulnerability| 
-| 20210704T11:59:40Z | CVE-2021-21975 | Null | https://github.com/dorkerdevil/CVE-2021-21975 | Server Side Request Forgery in vRealize Operations Manager API (CVE-2021-21975) prior to 8.4 may allow a malicious actor with network access to the vRealize Operations Manager API can perform a Server Side Request Forgery attack to steal administrative credentials.| 
+| 20210704T11:59:40Z | CVE-2021-21975 | Null | https://github.com/dorkerdevil/CVE-2021-21975 | | 
 | 20210704T10:48:17Z | CVE-2021-1675 | Youtube : https://youtu.be/Zr0KjYDSFKQ | https://github.com/exploitblizzard/PrintNightmare-CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210704T10:15:04Z | CVE-2020-27199 | CVE-2020-27199 | https://github.com/9lyph/CVE-2020-27199 | The Magic Home Pro application 1.5.1 for Android allows Authentication Bypass. The security control that the application currently has in place is a simple Username and Password authentication function. Using enumeration, an attacker is able to forge a User specific token without the need for correct password to gain access to the mobile application as that victim user.| 
-| 20210704T06:26:50Z | CVE-2021-34527 | PrintNightmare - Windows Print Spooler RCE/LPE Vulnerability (CVE-2021-34527, CVE-2021-1675) proof of concept exploits | https://github.com/nemo-wq/PrintNightmare-CVE-2021-34527 | Windows Print Spooler Remote Code Execution Vulnerability| 
+| 20210704T06:26:50Z | CVE-2021-34527 | PrintNightmare - Windows Print Spooler RCE/LPE Vulnerability (CVE-2021-34527, CVE-2021-1675) proof of concept exploits | https://github.com/nemo-wq/PrintNightmare-CVE-2021-34527 | | 
 
 
 # klee on Github 推荐
@@ -134,10 +134,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210705T01:32:13Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210705T01:22:44Z | Null | https://github.com/fuzziebrain/fuzziebrain.github.io | 0 | 0| 
 | 20210705T01:03:11Z | Fuzzy TOPSIS software for well completion design. | https://github.com/bysarmad/fuzzytopsissoftware | 0 | 0| 
 | 20210705T00:27:08Z | Null | https://github.com/cds-group/fuzzy-network-clustering-datasets | 0 | 0| 
-| 20210705T00:11:13Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210705T00:04:11Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 17 | 7| 
 | 20210705T00:01:40Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210705T00:00:18Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1865 | 374| 
