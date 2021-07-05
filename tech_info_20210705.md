@@ -33,7 +33,7 @@
 | 20210705T12:10:59Z | CVE-2021-1675 | Null | https://github.com/edsonjt81/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210705T12:06:26Z | CVE-2021-1675 | CVE-2021-1675 - Windows print spooler remote | https://github.com/edsonjt81/https-github.com-cube0x0-CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210705T11:50:18Z | CVE-2021-37152 | Exploit Accsess network clients by sending packets in wirless TP-LINK and preparing for a mitm attack | https://github.com/lhashashinl/CVE-2021-37152 | 未查询到CVE信息| 
-| 20210705T10:56:52Z | CVE-2021-1675 | Local Privilege Escalation Edition for CVE-2021-1675 | https://github.com/hlldz/CVE-2021-1675-LPE | | 
+| 20210705T10:56:52Z | CVE-2021-1675 | Local Privilege Escalation Edition for CVE-2021-1675 | https://github.com/hlldz/CVE-2021-1675-LPE | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210705T10:44:36Z | CVE-2020-3580 | Automated bulk IP or domain scanner for CVE 2020 3580. Cisco ASA and FTD XSS hunter. | https://github.com/adarshvs/CVE-2020-3580 | Multiple vulnerabilities in the web services interface of Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software could allow an unauthenticated, remote attacker to conduct cross-site scripting (XSS) attacks against a user of the web services interface of an affected device. The vulnerabilities are due to insufficient validation of user-supplied input by the web services interface of an affected device. An attacker could exploit these vulnerabilities by persuading a user of the interface to click a crafted link. A successful exploit could allow the attacker to execute arbitrary script code in the context of the interface or allow the attacker to access sensitive, browser-based information. Note: These vulnerabilities affect only specific AnyConnect and WebVPN configurations. For more information, see the Vulnerable Products section.| 
 | 20210705T10:10:50Z | CVE-2021-1675 | CVE-2021-1675 Detection Info | https://github.com/LaresLLC/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210705T08:47:17Z | CVE-2021-3281 | Null | https://github.com/lwzSoviet/CVE-2021-3281 | In Django 2.2 before 2.2.18, 3.0 before 3.0.12, and 3.1 before 3.1.6, the django.utils.archive.extract method (used by %startapp --template% and %startproject --template%) allows directory traversal via an archive with absolute paths or relative paths with dot segments.| 
@@ -99,6 +99,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210705T12:45:58Z | A patched QEMU that exposes an interface for LibAFL-based fuzzers | https://github.com/AFLplusplus/qemu-libafl-bridge | 15 | 2| 
 | 20210705T12:29:55Z | Null | https://github.com/jiradeto/fuzzbench-result | 0 | 0| 
 | 20210705T12:15:17Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 18 | 7| 
 | 20210705T12:13:26Z | DDRFuzz is a fuzzing system based on a seq2seq model to generate valuable seed corpus. | https://github.com/kppw99/ddrfuzz | 2 | 1| 
@@ -108,7 +109,6 @@
 | 20210705T12:02:02Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
 | 20210705T11:15:29Z | Potentially dangerous files | https://github.com/Bo0oM/fuzz.txt | 1438 | 276| 
 | 20210705T11:07:56Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6458 | 1309| 
-| 20210705T11:01:19Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 
 
 
