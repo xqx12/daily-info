@@ -31,7 +31,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20210704T20:28:30Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 139 | 21| 
-| 20210704T18:54:09Z | Null | https://github.com/JaimePSantos/ResearchKlee | 0 | 0| 
 | 20210704T07:12:36Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 689 | 16| 
 
 
