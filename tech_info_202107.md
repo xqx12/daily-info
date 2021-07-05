@@ -52,7 +52,7 @@
 | 20210705T11:50:18Z | CVE-2021-37152 | Exploit Accsess network clients by sending packets in wirless TP-LINK and preparing for a mitm attack | https://github.com/lhashashinl/CVE-2021-37152 | 未查询到CVE信息| 
 | 20210705T11:05:15Z | CVE-2021-1675 | Pure PowerShell implementation of CVE-2021-1675 Print Spooler Local Privilege Escalation (PrintNightmare) | https://github.com/calebstewart/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210705T10:56:52Z | CVE-2021-1675 | Local Privilege Escalation Edition for CVE-2021-1675 | https://github.com/hlldz/CVE-2021-1675-LPE | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210705T10:44:36Z | CVE-2020-3580 | Automated bulk IP or domain scanner for CVE 2020 3580. Cisco ASA and FTD XSS hunter. | https://github.com/adarshvs/CVE-2020-3580 | | 
+| 20210705T10:44:36Z | CVE-2020-3580 | Automated bulk IP or domain scanner for CVE 2020 3580. Cisco ASA and FTD XSS hunter. | https://github.com/adarshvs/CVE-2020-3580 | Multiple vulnerabilities in the web services interface of Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software could allow an unauthenticated, remote attacker to conduct cross-site scripting (XSS) attacks against a user of the web services interface of an affected device. The vulnerabilities are due to insufficient validation of user-supplied input by the web services interface of an affected device. An attacker could exploit these vulnerabilities by persuading a user of the interface to click a crafted link. A successful exploit could allow the attacker to execute arbitrary script code in the context of the interface or allow the attacker to access sensitive, browser-based information. Note: These vulnerabilities affect only specific AnyConnect and WebVPN configurations. For more information, see the Vulnerable Products section.| 
 | 20210705T10:10:50Z | CVE-2021-1675 | CVE-2021-1675 Detection Info | https://github.com/LaresLLC/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210705T08:47:17Z | CVE-2021-3281 | Null | https://github.com/lwzSoviet/CVE-2021-3281 | In Django 2.2 before 2.2.18, 3.0 before 3.0.12, and 3.1 before 3.1.6, the django.utils.archive.extract method (used by %startapp --template% and %startproject --template%) allows directory traversal via an archive with absolute paths or relative paths with dot segments.| 
 | 20210705T01:58:44Z | CVE-2021-34527 | Null | https://github.com/JohnHammond/CVE-2021-34527 | Windows Print Spooler Remote Code Execution Vulnerability| 
@@ -82,6 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210705T12:11:37Z | A basic binary diagnostics tool/analyser for common binary exploitation tactics. | https://github.com/Angus-C-git/binaliser | 0 | 0| 
 | 20210705T12:03:00Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 26 | 12| 
 | 20210705T11:51:44Z | A bug I found to exploit 2 factor authentication(OTP) on github.com | https://github.com/trishantexploits/GitHub_OTP_Exploit | 1 | 1| 
 | 20210705T11:50:18Z | Exploit Accsess network clients by sending packets in wirless TP-LINK and preparing for a mitm attack | https://github.com/lhashashinl/CVE-2021-37152 | 2 | 0| 
@@ -91,7 +92,6 @@
 | 20210705T10:20:11Z | My Chrome and Safari exploit code + write-up repo | https://github.com/vngkv123/aSiagaming | 384 | 88| 
 | 20210705T09:42:27Z | Null | https://github.com/AnaCosteira/PostExploitTools | 0 | 0| 
 | 20210705T09:30:03Z | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | 2768 | 616| 
-| 20210705T09:20:01Z | Forestry Thematic Exploitation Platform | https://github.com/cgi-eoss/ftep | 5 | 0| 
 
 
 # backdoor on Github 推荐
@@ -135,6 +135,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210705T12:15:17Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 18 | 7| 
 | 20210705T12:13:26Z | DDRFuzz is a fuzzing system based on a seq2seq model to generate valuable seed corpus. | https://github.com/kppw99/ddrfuzz | 2 | 1| 
 | 20210705T12:13:03Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 469 | 44| 
 | 20210705T12:11:43Z | Null | https://github.com/bartfish/FuzzyKSQL | 1 | 0| 
@@ -144,7 +145,6 @@
 | 20210705T11:07:56Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6458 | 1309| 
 | 20210705T11:01:19Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210705T10:37:52Z | Null | https://github.com/Nexucis/fuzzy | 4 | 0| 
-| 20210705T10:11:28Z | Null | https://github.com/veero3/fuzzzyllama | 0 | 0| 
 
 
 
