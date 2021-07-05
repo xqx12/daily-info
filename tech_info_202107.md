@@ -81,6 +81,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210705T01:20:04Z | i wanna create soeme exploits to reload my cards with my Card Swipper Reader Writer | https://github.com/Seanboy2k19/vanilla-prepaid-mastercard-Exdploits | 0 | 0| 
+| 20210705T01:17:28Z | A cheat sheet that contains common enumeration and attack methods for Windows Active Directory. | https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet | 1818 | 433| 
 | 20210705T01:02:58Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 25 | 12| 
 | 20210705T00:32:53Z | SSRF search vulnerabilities exploitation extended. | https://github.com/duckstroms/ssrf-search | 13 | 3| 
 | 20210704T23:38:08Z | Null | https://github.com/zYan666/Demon-Exploit | 0 | 0| 
@@ -89,8 +91,6 @@
 | 20210704T22:15:52Z | PS1 savegame exploit | https://github.com/socram8888/tonyhax | 297 | 11| 
 | 20210704T22:09:29Z | EXPLOIT | https://github.com/Jondavidjondavid/DuckSploit | 0 | 0| 
 | 20210704T21:42:24Z | Null | https://github.com/FatalS3C/exploitterwa | 0 | 0| 
-| 20210704T21:35:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9644 | 1584| 
-| 20210704T21:30:49Z | A cheat sheet that contains common enumeration and attack methods for Windows Active Directory. | https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet | 1817 | 433| 
 
 
 # backdoor on Github 推荐
