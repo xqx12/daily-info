@@ -28,8 +28,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210705T12:10:59Z | CVE-2021-1675 | Null | https://github.com/edsonjt81/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210705T12:09:42Z | CVE-2021-1675 | C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527 | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210705T12:08:17Z | CVE-2021-1675 | CVE-2021-1675 - Windows print spooler remote | https://github.com/edsonjt81/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210705T12:06:26Z | CVE-2021-1675 | CVE-2021-1675 - Windows print spooler remote | https://github.com/edsonjt81/https-github.com-cube0x0-CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210705T11:50:18Z | CVE-2021-37152 | Exploit Accsess network clients by sending packets in wirless TP-LINK and preparing for a mitm attack | https://github.com/lhashashinl/CVE-2021-37152 | 未查询到CVE信息| 
 | 20210705T11:05:15Z | CVE-2021-1675 | Pure PowerShell implementation of CVE-2021-1675 Print Spooler Local Privilege Escalation (PrintNightmare) | https://github.com/calebstewart/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
@@ -98,7 +98,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210705T12:03:22Z | Null | https://github.com/WillyArdiyanto/Pemetaan_Kerawanan_Longsor_Fuzzy | 0 | 0| 
+| 20210705T12:10:49Z | Null | https://github.com/bartfish/FuzzyKSQL | 1 | 0| 
+| 20210705T12:09:47Z | Null | https://github.com/WillyArdiyanto/Pemetaan_Kerawanan_Longsor_Fuzzy | 0 | 0| 
 | 20210705T12:02:02Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
 | 20210705T11:56:59Z | DDRFuzz is a fuzzing system based on a seq2seq model to generate valuable seed corpus. | https://github.com/kppw99/ddrfuzz | 2 | 1| 
 | 20210705T11:54:19Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 469 | 44| 
@@ -107,7 +108,6 @@
 | 20210705T11:01:19Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210705T10:37:52Z | Null | https://github.com/Nexucis/fuzzy | 4 | 0| 
 | 20210705T10:11:28Z | Null | https://github.com/veero3/fuzzzyllama | 0 | 0| 
-| 20210705T09:45:51Z | Collected fuzzing payloads from different resources  | https://github.com/osamahamad/FUZZING | 8 | 5| 
 
 
 
