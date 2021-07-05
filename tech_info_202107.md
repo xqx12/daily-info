@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210705T01:46:17Z | CVE-2021-1675 | Pure PowerShell implementation of CVE-2021-1675 Print Spooler Local Privilege Escalation (PrintNightmare) | https://github.com/calebstewart/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210705T01:36:59Z | CVE-2021-1675 | C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527 | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210705T01:29:52Z | CVE-2021-1675 | Pure PowerShell implementation of CVE-2021-1675 Print Spooler Local Privilege Escalation (PrintNightmare) | https://github.com/calebstewart/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210705T01:15:21Z | CVE-2021-34527 | Cve-2021-1675 or cve-2021-34527? Detailed analysis and exploitation of windows print spooler 0day vulnerability！！！ | https://github.com/CnOxx1/CVE-2021-34527-1675 | Windows Print Spooler Remote Code Execution Vulnerability| 
 | 20210705T01:15:16Z | CVE-2021-31166 | Exploit for MS Http Protocol Stack RCE vulnerability (CVE-2021-31166) | https://github.com/y0g3sh-99/CVE-2021-31166-Exploit | HTTP Protocol Stack Remote Code Execution Vulnerability| 
 | 20210704T22:44:42Z | CVE-2021-1675 | CVE-2021-1675 Detection Info | https://github.com/LaresLLC/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
@@ -134,16 +134,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210705T01:47:08Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 18 | 7| 
+| 20210705T01:47:05Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 977 | 36| 
 | 20210705T01:32:13Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210705T01:22:44Z | Null | https://github.com/fuzziebrain/fuzziebrain.github.io | 0 | 0| 
 | 20210705T01:03:11Z | Fuzzy TOPSIS software for well completion design. | https://github.com/bysarmad/fuzzytopsissoftware | 0 | 0| 
 | 20210705T00:27:08Z | Null | https://github.com/cds-group/fuzzy-network-clustering-datasets | 0 | 0| 
-| 20210705T00:04:11Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 17 | 7| 
 | 20210705T00:01:40Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210705T00:00:18Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1865 | 374| 
 | 20210704T23:44:50Z | interactive `git` with the help of `fzf` | https://github.com/bigH/git-fuzzy | 1810 | 35| 
 | 20210704T23:43:06Z | A ground-truth binary fuzzing benchmark suite based on real programs with real bugs. | https://github.com/HexHive/magma | 109 | 36| 
-| 20210704T23:16:51Z | Null | https://github.com/bhattacharjee/fuzzy-funicular | 0 | 0| 
 
 
 

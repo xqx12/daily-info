@@ -95,7 +95,7 @@
 | 20210704T21:59:19Z | Fuzzing in an ubuntu docker container | https://github.com/dhruv/bitcoin-fuzzing-on-docker | 1 | 0| 
 | 20210704T21:57:06Z | Parameter discovery and fuzzing tool | https://github.com/DriftSec/parambuster | 0 | 0| 
 | 20210704T20:51:48Z | Null | https://github.com/DanielEbert/EmulatedFirmwareFuzzing | 0 | 0| 
-| 20210704T19:21:24Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 976 | 36| 
+| 20210704T18:22:16Z | Socket connect | https://github.com/zamigmammadov/fuzzy-octo-robot | 0 | 0| 
 
 
 
