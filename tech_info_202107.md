@@ -96,7 +96,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210705T00:55:17Z | This software technically acts as a backdoor, but all I use it for is to annoy my brother. :) It uses C#%s socket tools in order to listen and connect to a TCP connection, and when connected send a variety of commands. | https://github.com/lucadenhez/EasyDoor | 0 | 0| 
+| 20210705T01:06:11Z | This software technically acts as a backdoor, but all I use it for is to annoy my brother. :) It uses C#%s socket tools in order to listen and connect to a TCP connection, and when connected send a variety of commands. | https://github.com/lucadenhez/EasyDoor | 0 | 0| 
 | 20210705T00:31:22Z | Null | https://github.com/can-er/Digispark-FUD-backdoor | 0 | 0| 
 | 20210704T23:26:05Z | Small collection of bash scripts that take advantage of the .bashrc file and inject various payloads into it in order to escalate privileges or steal credentials.  | https://github.com/Naqwada/Bashrc-Backdoors | 0 | 0| 
 | 20210704T13:44:13Z | Web Shell Backdoors Collection | https://github.com/PhenaxGod/Web-Shell-Backdoors | 0 | 1| 
