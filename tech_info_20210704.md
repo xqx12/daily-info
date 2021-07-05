@@ -20,7 +20,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210704T23:59:36Z | CVE-2021-1675 | C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527 | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210704T22:44:42Z | CVE-2021-1675 | CVE-2021-1675 Detection Info | https://github.com/LaresLLC/CVE-2021-1675 | | 
+| 20210704T22:44:42Z | CVE-2021-1675 | CVE-2021-1675 Detection Info | https://github.com/LaresLLC/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210704T21:08:55Z | CVE-2021-34527 | Null | https://github.com/JohnHammond/CVE-2021-34527 | Windows Print Spooler Remote Code Execution Vulnerability| 
 | 20210704T11:59:40Z | CVE-2021-21975 | Null | https://github.com/dorkerdevil/CVE-2021-21975 | Server Side Request Forgery in vRealize Operations Manager API (CVE-2021-21975) prior to 8.4 may allow a malicious actor with network access to the vRealize Operations Manager API can perform a Server Side Request Forgery attack to steal administrative credentials.| 
 | 20210704T10:48:17Z | CVE-2021-1675 | Youtube : https://youtu.be/Zr0KjYDSFKQ | https://github.com/exploitblizzard/PrintNightmare-CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
@@ -87,7 +87,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210704T23:46:28Z | Null | https://github.com/fuzziebrain/fuzziebrain.github.io | 0 | 0| 
 | 20210704T23:44:50Z | interactive `git` with the help of `fzf` | https://github.com/bigH/git-fuzzy | 1810 | 35| 
 | 20210704T23:43:06Z | A ground-truth binary fuzzing benchmark suite based on real programs with real bugs. | https://github.com/HexHive/magma | 109 | 36| 
 | 20210704T23:16:51Z | Null | https://github.com/bhattacharjee/fuzzy-funicular | 0 | 0| 
@@ -97,6 +96,7 @@
 | 20210704T21:59:19Z | Fuzzing in an ubuntu docker container | https://github.com/dhruv/bitcoin-fuzzing-on-docker | 1 | 0| 
 | 20210704T21:57:06Z | Parameter discovery and fuzzing tool | https://github.com/DriftSec/parambuster | 0 | 0| 
 | 20210704T20:51:48Z | Null | https://github.com/DanielEbert/EmulatedFirmwareFuzzing | 0 | 0| 
+| 20210704T19:21:24Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 976 | 36| 
 
 
 
