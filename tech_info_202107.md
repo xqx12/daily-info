@@ -47,7 +47,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210705T01:36:59Z | CVE-2021-1675 | C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527 | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210705T01:29:52Z | CVE-2021-1675 | Pure PowerShell implementation of CVE-2021-1675 Print Spooler Local Privilege Escalation (PrintNightmare) | https://github.com/calebstewart/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
+| 20210705T01:29:52Z | CVE-2021-1675 | Pure PowerShell implementation of CVE-2021-1675 Print Spooler Local Privilege Escalation (PrintNightmare) | https://github.com/calebstewart/CVE-2021-1675 | | 
 | 20210705T01:15:21Z | CVE-2021-34527 | Cve-2021-1675 or cve-2021-34527? Detailed analysis and exploitation of windows print spooler 0day vulnerability！！！ | https://github.com/CnOxx1/CVE-2021-34527-1675 | Windows Print Spooler Remote Code Execution Vulnerability| 
 | 20210705T01:15:16Z | CVE-2021-31166 | Exploit for MS Http Protocol Stack RCE vulnerability (CVE-2021-31166) | https://github.com/y0g3sh-99/CVE-2021-31166-Exploit | HTTP Protocol Stack Remote Code Execution Vulnerability| 
 | 20210704T22:44:42Z | CVE-2021-1675 | CVE-2021-1675 Detection Info | https://github.com/LaresLLC/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
@@ -81,6 +81,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210705T01:43:04Z | Null | https://github.com/XesterSShadow/BedwarsExploit | 0 | 0| 
 | 20210705T01:35:53Z | A modern exploiting solution, built for Roblox and Rojo | https://github.com/richie0866/Rostruct | 1 | 0| 
 | 20210705T01:20:04Z | i wanna create soeme exploits to reload my cards with my Card Swipper Reader Writer | https://github.com/Seanboy2k19/vanilla-prepaid-mastercard-Exdploits | 0 | 0| 
 | 20210705T01:17:28Z | A cheat sheet that contains common enumeration and attack methods for Windows Active Directory. | https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet | 1818 | 433| 
@@ -90,7 +91,6 @@
 | 20210704T23:30:45Z | Metasploit Utilities, Post Exploit Scripts and other scripts primarily for reference | https://github.com/reg1reg1/Exploits | 0 | 0| 
 | 20210704T22:43:42Z | Synapse CLI is a command line interface for Roblox exploiting made using the Synapse X console functions. | https://github.com/Remfly/synapse-cli | 0 | 0| 
 | 20210704T22:15:52Z | PS1 savegame exploit | https://github.com/socram8888/tonyhax | 297 | 11| 
-| 20210704T22:09:29Z | EXPLOIT | https://github.com/Jondavidjondavid/DuckSploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
