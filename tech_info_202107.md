@@ -81,7 +81,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210705T01:43:04Z | Null | https://github.com/XesterSShadow/BedwarsExploit | 0 | 0| 
+| 20210705T01:52:46Z | Null | https://github.com/XesterSShadow/BedwarsExploit | 0 | 0| 
 | 20210705T01:35:53Z | A modern exploiting solution, built for Roblox and Rojo | https://github.com/richie0866/Rostruct | 1 | 0| 
 | 20210705T01:20:04Z | i wanna create soeme exploits to reload my cards with my Card Swipper Reader Writer | https://github.com/Seanboy2k19/vanilla-prepaid-mastercard-Exdploits | 0 | 0| 
 | 20210705T01:17:28Z | A cheat sheet that contains common enumeration and attack methods for Windows Active Directory. | https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet | 1818 | 433| 
