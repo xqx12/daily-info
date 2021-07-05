@@ -46,6 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210705T12:08:17Z | CVE-2021-1675 | CVE-2021-1675 - Windows print spooler remote | https://github.com/edsonjt81/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
+| 20210705T12:06:26Z | CVE-2021-1675 | CVE-2021-1675 - Windows print spooler remote | https://github.com/edsonjt81/https-github.com-cube0x0-CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210705T11:50:18Z | CVE-2021-37152 | Exploit Accsess network clients by sending packets in wirless TP-LINK and preparing for a mitm attack | https://github.com/lhashashinl/CVE-2021-37152 | 未查询到CVE信息| 
 | 20210705T11:35:55Z | CVE-2021-1675 | C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527 | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210705T11:05:15Z | CVE-2021-1675 | Pure PowerShell implementation of CVE-2021-1675 Print Spooler Local Privilege Escalation (PrintNightmare) | https://github.com/calebstewart/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
@@ -54,8 +56,6 @@
 | 20210705T10:10:50Z | CVE-2021-1675 | CVE-2021-1675 Detection Info | https://github.com/LaresLLC/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210705T08:47:17Z | CVE-2021-3281 | Null | https://github.com/lwzSoviet/CVE-2021-3281 | In Django 2.2 before 2.2.18, 3.0 before 3.0.12, and 3.1 before 3.1.6, the django.utils.archive.extract method (used by %startapp --template% and %startproject --template%) allows directory traversal via an archive with absolute paths or relative paths with dot segments.| 
 | 20210705T01:58:44Z | CVE-2021-34527 | Null | https://github.com/JohnHammond/CVE-2021-34527 | Windows Print Spooler Remote Code Execution Vulnerability| 
-| 20210705T01:15:21Z | CVE-2021-34527 | Cve-2021-1675 or cve-2021-34527? Detailed analysis and exploitation of windows print spooler 0day vulnerability！！！ | https://github.com/CnOxx1/CVE-2021-34527-1675 | Windows Print Spooler Remote Code Execution Vulnerability| 
-| 20210705T01:15:16Z | CVE-2021-31166 | Exploit for MS Http Protocol Stack RCE vulnerability (CVE-2021-31166) | https://github.com/y0g3sh-99/CVE-2021-31166-Exploit | HTTP Protocol Stack Remote Code Execution Vulnerability| 
 
 
 # klee on Github 推荐
