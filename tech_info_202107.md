@@ -6,6 +6,8 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210704 | 预见Win11“前顾之忧”：360全球首家发现Win11高危漏洞，推出热补丁解决方案！ | https://mp.weixin.qq.com/s/_PjO4_wpe2LQc4BMfg-FGg| 
+| 20210704 | Hyper-V debugging for beginners | https://www.securitylab.ru/contest/444112.php| 
 | 20210702 | How to unpack UPX packed malware with a SINGLE breakpoint | https://infosecwriteups.com/how-to-unpack-upx-packed-malware-with-a-single-breakpoint-4d3a23e21332?gi=a37bd85563e6| 
 | 20210702 | Fail2exploit - GitHub 对开源项目 Fail2ban 的安全测试 | https://securitylab.github.com/research/Fail2exploit/| 
 | 20210702 | NSA 称俄罗斯黑客利用 Kubernetes 执行爆破攻击，窃取邮件和文件 | https://www.bleepingcomputer.com/news/security/nsa-russian-gru-hackers-use-kubernetes-to-run-brute-force-attacks/| 
@@ -24,8 +26,6 @@
 | 20210701 | 一款开源的 Security Datasets 项目，收集了大量的安全类数据，基于此可以进行数据分析、检测方法验证 | https://securitydatasets.com/introduction.html| 
 | 20210701 | Trail of Bits 对 Opyn Gamma 协议智能合约的安全性评估 | https://github.com/trailofbits/publications/blob/master/reviews/Opyn-Gamma-Protocol.pdf| 
 | 20210701 | NETGEAR 路由器固件提取以及身份窃取漏洞分析 | https://www.microsoft.com/security/blog/2021/06/30/microsoft-finds-new-netgear-firmware-vulnerabilities-that-could-lead-to-identity-theft-and-full-system-compromise/| 
-| 20210701 | McAfee 安全团队利用 AFL Fuzz ImageMagick 以及 CVE-2020-27829 越界读漏洞分析 | https://www.mcafee.com/blogs/other-blogs/mcafee-labs/fuzzing-imagemagick-and-digging-deeper-into-cve-2020-27829/| 
-| 20210701 | Windows EFI 系统分区认证绕过漏洞，成功利用可以改写 UEFI 任意文件（CVE-2021-26892） | https://www.zerodayinitiative.com/blog/2021/6/30/cve-2021-26892-an-authorization-bypass-on-the-microsoft-windows-efi-system-partition| 
 
 
 # 安全维基 推荐
@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210704T13:04:14Z | CVE-2021-1675 | C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527 | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210704T13:02:33Z | CVE-2021-1675 | CVE-2021-1675 Detection Info | https://github.com/LaresLLC/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210704T12:55:09Z | CVE-2021-1675 | Pure PowerShell implementation of CVE-2021-1675 Print Spooler Local Privilege Escalation (PrintNightmare) | https://github.com/calebstewart/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
+| 20210704T23:59:36Z | CVE-2021-1675 | C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527 | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
+| 20210704T22:44:42Z | CVE-2021-1675 | CVE-2021-1675 Detection Info | https://github.com/LaresLLC/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
+| 20210704T22:25:56Z | CVE-2021-1675 | Pure PowerShell implementation of CVE-2021-1675 Print Spooler Local Privilege Escalation (PrintNightmare) | https://github.com/calebstewart/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
+| 20210704T21:08:55Z | CVE-2021-34527 | Null | https://github.com/JohnHammond/CVE-2021-34527 | Windows Print Spooler Remote Code Execution Vulnerability| 
+| 20210704T16:34:54Z | CVE-2021-34527 | Cve-2021-1675 or cve-2021-34527? Detailed analysis and exploitation of windows print spooler 0day vulnerability！！！ | https://github.com/CnOxx1/CVE-2021-34527-1675 | Windows Print Spooler Remote Code Execution Vulnerability| 
 | 20210704T11:59:40Z | CVE-2021-21975 | Null | https://github.com/dorkerdevil/CVE-2021-21975 | Server Side Request Forgery in vRealize Operations Manager API (CVE-2021-21975) prior to 8.4 may allow a malicious actor with network access to the vRealize Operations Manager API can perform a Server Side Request Forgery attack to steal administrative credentials.| 
-| 20210704T10:48:17Z | CVE-2021-1675 | Youtube : https://youtu.be/Zr0KjYDSFKQ | https://github.com/exploitblizzard/PrintNightmare-CVE-2021-1675 | | 
+| 20210704T10:48:17Z | CVE-2021-1675 | Youtube : https://youtu.be/Zr0KjYDSFKQ | https://github.com/exploitblizzard/PrintNightmare-CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210704T10:15:04Z | CVE-2020-27199 | CVE-2020-27199 | https://github.com/9lyph/CVE-2020-27199 | The Magic Home Pro application 1.5.1 for Android allows Authentication Bypass. The security control that the application currently has in place is a simple Username and Password authentication function. Using enumeration, an attacker is able to forge a User specific token without the need for correct password to gain access to the mobile application as that victim user.| 
 | 20210704T06:26:50Z | CVE-2021-34527 | PrintNightmare - Windows Print Spooler RCE/LPE Vulnerability (CVE-2021-34527, CVE-2021-1675) proof of concept exploits | https://github.com/nemo-wq/PrintNightmare-CVE-2021-34527 | Windows Print Spooler Remote Code Execution Vulnerability| 
-| 20210704T03:08:38Z | CVE-2021-34527 | Null | https://github.com/JohnHammond/CVE-2021-34527 | Windows Print Spooler Remote Code Execution Vulnerability| 
 | 20210703T23:40:22Z | CVE-2020-7115 | Create your malicious engine in seconds | https://github.com/Retr02332/CVE-2020-7115 | The ClearPass Policy Manager web interface is affected by a vulnerability that leads to authentication bypass. Upon successful bypass an attacker could then execute an exploit that would allow to remote command execution in the underlying operating system. Resolution: Fixed in 6.7.13-HF, 6.8.5-HF, 6.8.6, 6.9.1 and higher.| 
-| 20210703T19:26:32Z | CVE-2021-1675 | Windows Print Spooler Remote Code Execution Vulnerability (CVE-2021-34527) | https://github.com/nemo-wq/CVE-2021-1675_CVE-2021-34527_PrintNightmare | Windows Print Spooler Elevation of Privilege Vulnerability| 
 
 
 # klee on Github 推荐
@@ -72,29 +72,32 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210704T16:44:45Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 139 | 32| 
 | 20210703T18:52:28Z | Null | https://github.com/hichem840/s2ee | 0 | 0| 
 | 20210701T07:33:11Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 74 | 31| 
-| 20210701T07:33:03Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 138 | 32| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210704T13:02:53Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 25 | 12| 
-| 20210704T12:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9644 | 1583| 
-| 20210704T12:25:18Z | PS1 savegame exploit | https://github.com/socram8888/tonyhax | 296 | 11| 
-| 20210704T12:03:24Z | Vulnerabilities, security advisories, exploit codes and proof-of-concept codes. | https://github.com/zeroscience/advisory | 4 | 4| 
-| 20210704T11:51:03Z | Command line exploit. Use OS vulnerabilities to spy client connect to a server by opening a file. | https://github.com/MoryokaV/Activity-Exploit | 0 | 0| 
-| 20210704T11:23:35Z | Practice repository for binary exploitation and fuzzing | https://github.com/RickdeJager/binexp-practice | 0 | 0| 
-| 20210704T11:16:31Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 70 | 25| 
-| 20210704T11:11:45Z | CMS Detection and Exploitation suite - Scan WordPress, Joomla, Drupal and over 180 other CMSs | https://github.com/Sorrok-Exploit/CMSeeK | 1 | 0| 
-| 20210704T10:58:11Z | Exploit ZingMP3 API with NestJS, for study purposes only | https://github.com/ff3105/nest-zingmp3 | 0 | 0| 
-| 20210704T10:53:29Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 15 | 4| 
+| 20210704T23:38:08Z | Null | https://github.com/zYan666/Demon-Exploit | 0 | 0| 
+| 20210704T23:30:45Z | Metasploit Utilities, Post Exploit Scripts and other scripts primarily for reference | https://github.com/reg1reg1/Exploits | 0 | 0| 
+| 20210704T23:02:52Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 25 | 12| 
+| 20210704T22:43:42Z | Synapse CLI is a command line interface for Roblox exploiting made using the Synapse X console functions. | https://github.com/Remfly/synapse-cli | 0 | 0| 
+| 20210704T22:15:52Z | PS1 savegame exploit | https://github.com/socram8888/tonyhax | 297 | 11| 
+| 20210704T22:09:29Z | EXPLOIT | https://github.com/Jondavidjondavid/DuckSploit | 0 | 0| 
+| 20210704T21:42:24Z | Null | https://github.com/FatalS3C/exploitterwa | 0 | 0| 
+| 20210704T21:35:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9644 | 1583| 
+| 20210704T21:30:49Z | A cheat sheet that contains common enumeration and attack methods for Windows Active Directory. | https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet | 1817 | 432| 
+| 20210704T21:19:32Z | asd | https://github.com/Russo-ofc/ExPloit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210705T00:01:03Z | This software technically acts as a backdoor, but all I use it for is to annoy my brother. :) It uses C#%s socket tools in order to listen and connect to a TCP connection, and when connected send a variety of commands. | https://github.com/lucadenhez/EasyDoor | 0 | 0| 
+| 20210704T23:26:05Z | Small collection of bash scripts that take advantage of the .bashrc file and inject various payloads into it in order to escalate privileges or steal credentials.  | https://github.com/Naqwada/Bashrc-Backdoors | 0 | 0| 
+| 20210704T13:44:13Z | Web Shell Backdoors Collection | https://github.com/PhenaxGod/Web-Shell-Backdoors | 0 | 1| 
 | 20210704T10:04:46Z | Hexa Web Shell Backdoor | https://github.com/Bl4ckH4t-H4ck3r/Hexa-Shell | 0 | 0| 
 | 20210704T06:24:45Z | Simple Web Shell Backdoor can Bypass All Server with WAF instead | https://github.com/willygoid/H4x0rShell | 0 | 0| 
 | 20210704T05:03:47Z | Null | https://github.com/subhomoy-roy-choudhury/BackDoor_Script | 0 | 0| 
@@ -102,9 +105,6 @@
 | 20210704T03:10:58Z | A simple utility to create and exploit backdoors in the Diffie-Hellman protocol | https://github.com/jinscoe123/dph | 0 | 0| 
 | 20210704T02:59:47Z | Null | https://github.com/FierzaEriez/Mini-Shell-Backdoor | 1 | 0| 
 | 20210704T00:40:33Z | A simple, yet effective backdoor for any Minecraft server. | https://github.com/BookBackdoor/BookBackdoor | 2 | 1| 
-| 20210703T22:23:29Z | A Python module for building botnet ,backdoor or trojan with Telegram control panel | https://github.com/onionj/pybotnet | 3 | 2| 
-| 20210703T15:05:52Z | Une simple Backdoor, donnant accés à l%ensemble des fichiers d%un ordinateur. | https://github.com/billythegoat356/F0rs4k3n | 16 | 0| 
-| 20210703T13:38:50Z | Small collection of bash scripts that take advantage of the .bashrc file and inject various payloads into it in order to escalate privileges or steal credentials.  | https://github.com/Naqwada/Bashrc-Backdoors | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -133,16 +133,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210704T12:53:51Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 288 | 39| 
-| 20210704T12:24:39Z | DOM fuzzer | https://github.com/mevid93/domzzer | 0 | 0| 
-| 20210704T12:16:36Z | This library provides a support for performing fuzzy string matching in secondary memory. | https://github.com/jackbergus/fuzzyStringMatching | 0 | 0| 
-| 20210704T12:02:19Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210704T11:42:21Z | Null | https://github.com/ktaken-la/fuzzy-guide | 0 | 0| 
-| 20210704T11:23:35Z | Practice repository for binary exploitation and fuzzing | https://github.com/RickdeJager/binexp-practice | 0 | 0| 
-| 20210704T11:11:55Z | Null | https://github.com/ABD-01/fuzzy-pancake | 1 | 0| 
-| 20210704T10:52:00Z | Fuzzing for Quiwi https://github.com/goburrow/quic | https://github.com/goburrow/quic-fuzz | 0 | 0| 
-| 20210704T10:29:57Z | Null | https://github.com/erdifajarf/PMDK_FuzzyAHP | 0 | 0| 
-| 20210704T09:51:37Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 6 | 0| 
+| 20210705T00:00:18Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1865 | 374| 
+| 20210704T23:46:28Z | Null | https://github.com/fuzziebrain/fuzziebrain.github.io | 0 | 0| 
+| 20210704T23:44:50Z | interactive `git` with the help of `fzf` | https://github.com/bigH/git-fuzzy | 1810 | 35| 
+| 20210704T23:43:06Z | A ground-truth binary fuzzing benchmark suite based on real programs with real bugs. | https://github.com/HexHive/magma | 109 | 36| 
+| 20210704T23:16:51Z | Null | https://github.com/bhattacharjee/fuzzy-funicular | 0 | 0| 
+| 20210704T22:36:59Z | Null | https://github.com/opimentel-github/fuzzy-tools | 0 | 0| 
+| 20210704T22:36:47Z | Null | https://github.com/Schlese/syse-fuzzer | 0 | 0| 
+| 20210704T22:34:27Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20210704T22:16:29Z | Null | https://github.com/anila-a/Fuzzy-Logic-FCM-FIS | 0 | 0| 
+| 20210704T21:59:19Z | Fuzzing in an ubuntu docker container | https://github.com/dhruv/bitcoin-fuzzing-on-docker | 1 | 0| 
 
 
 
