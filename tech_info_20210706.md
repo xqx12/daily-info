@@ -91,10 +91,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210706T01:46:15Z | use aflsmart to fuzz web service | https://github.com/egvnoen/nfuzzer | 1 | 0| 
-| 20210706T01:44:38Z | LLVM libfuzzer test code | https://github.com/alotofsalteggs/fuzzertest | 0 | 0| 
-| 20210706T00:03:51Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 18 | 7| 
-| 20210706T00:02:08Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
+| 20210706T12:02:08Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20210706T12:01:53Z | A patched QEMU that exposes an interface for LibAFL-based fuzzers | https://github.com/AFLplusplus/qemu-libafl-bridge | 16 | 2| 
+| 20210706T11:58:37Z | Null | https://github.com/lacygoill/vim-fuzzy | 0 | 1| 
+| 20210706T11:32:10Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
+| 20210706T11:26:52Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3583 | 837| 
+| 20210706T11:22:51Z | Null | https://github.com/fuzzydragon/fuzzydragon | 0 | 0| 
+| 20210706T10:59:08Z | funky fun fuzzer | https://github.com/roddux/fffz | 0 | 0| 
+| 20210706T10:12:49Z | tired of typing afl-fuzz? try bun! | https://github.com/ocurrent/bun | 44 | 8| 
+| 20210706T10:10:55Z | REST webservices containing SQL injection vulnerabilities. A SUT developed to proof the model-based fuzzing process of RESTFuzzer. | https://github.com/ArjanGerritsen/SutSqlI | 0 | 0| 
+| 20210706T10:09:06Z | Model-based fuzzer for REST webservices. | https://github.com/ArjanGerritsen/RESTFuzzer | 0 | 0| 
 
 
 
