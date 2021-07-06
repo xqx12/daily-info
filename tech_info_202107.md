@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210706T01:31:29Z | Hello, this is a write-up for a form of a ret2libc ROP attack, which is used to bypass a exploit mitigation, known as NX for linux and DEP for windows. | https://github.com/Ret2plt/Ret2libc-Exploit-Write-up | 0 | 0| 
 | 20210706T01:09:46Z | Null | https://github.com/0xturazzi/Um-Livrinho-Sobre-Exploit-Dev | 0 | 0| 
 | 20210706T01:06:58Z | Exploits Password Reset Vulnerability in OpenCRX, CVE-2020-7378. Also maintains Stealth by deleting all the password reset mails created by the script | https://github.com/ruthvikvegunta/openCRX-CVE-2020-7378 | 0 | 0| 
 | 20210706T01:02:49Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 26 | 12| 
@@ -93,7 +94,6 @@
 | 20210705T22:59:54Z | This exploit has a crash bot script. It has a spam bot script. Lastly a name bypasser. | https://github.com/ENO500/Kahoot-Exploits | 0 | 0| 
 | 20210705T22:29:36Z | some exploit for json web tokens | https://github.com/TRIKKSS/JWTSWISSKNIFE | 0 | 0| 
 | 20210705T22:06:00Z | CGI Script Shellshock Exploitation Tool | https://github.com/sAsPeCt488/shellshockcgitool | 1 | 2| 
-| 20210705T21:59:16Z | Practice repository for binary exploitation and fuzzing | https://github.com/RickdeJager/binexp-practice | 0 | 0| 
 
 
 # backdoor on Github 推荐
