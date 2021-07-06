@@ -24,7 +24,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210706T11:21:50Z | CVE-2021-1675 | C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527 | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
+| 20210706T11:21:50Z | CVE-2021-1675 | C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527 | https://github.com/cube0x0/CVE-2021-1675 | | 
 | 20210706T10:36:57Z | CVE-2021-1675 | Pure PowerShell implementation of CVE-2021-1675 Print Spooler Local Privilege Escalation (PrintNightmare) | https://github.com/calebstewart/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210706T10:13:01Z | CVE-2021-1675 | CVE-2021-1675 Detection Info | https://github.com/LaresLLC/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210706T10:13:00Z | CVE-2021-1675 | Local Privilege Escalation Edition for CVE-2021-1675 | https://github.com/hlldz/CVE-2021-1675-LPE | Windows Print Spooler Elevation of Privilege Vulnerability| 
@@ -50,6 +50,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210706T12:17:17Z | GUI Exploit Tool For RedTeam | https://github.com/MrMeizhi/DriedMango | 29 | 6| 
 | 20210706T12:02:56Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 26 | 12| 
 | 20210706T11:46:40Z | Simple script to automate the exploit POC for Fog Project 1.5.9 | https://github.com/anjojake/fog_project_1.5.9_exploit | 0 | 0| 
 | 20210706T11:45:55Z | Allows you to get a console in Roblox using an exploit. (Such as KRNL) | https://github.com/H3ctor-Official/H3ctor-X | 0 | 0| 
@@ -59,7 +60,6 @@
 | 20210706T10:41:11Z | Null | https://github.com/kk98kk0/exploit | 1 | 0| 
 | 20210706T10:38:39Z | Null | https://github.com/PearlyNautilus/weblogic_exploit | 0 | 0| 
 | 20210706T10:33:14Z | SUID & GUID Exploit Seeker | https://github.com/v0lck3r/Seeker | 0 | 0| 
-| 20210706T10:09:56Z | Null | https://github.com/ezios/exploits | 0 | 1| 
 
 
 # backdoor on Github 推荐
