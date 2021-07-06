@@ -137,6 +137,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210706T00:03:51Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 18 | 7| 
 | 20210706T00:02:08Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210705T23:41:37Z | Null | https://github.com/elvirareza/Fuzzy_Potensi_Tsunami | 0 | 0| 
 | 20210705T23:36:46Z | Comparing tool variability and numerical variability in fMRI analyses results | https://github.com/ali4006/fuzzy-neurotools | 0 | 0| 
@@ -146,7 +147,6 @@
 | 20210705T22:41:50Z | Null | https://github.com/ArifROHMATULLAH/fuzzy-doodle | 0 | 0| 
 | 20210705T22:30:10Z | Null | https://github.com/kristhyanmatos/logica-fuzzy | 0 | 0| 
 | 20210705T22:29:33Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
-| 20210705T22:29:33Z | setup for fuzzing the Rust compiler | https://github.com/dwrensha/fuzz-rustc | 32 | 0| 
 
 
 
