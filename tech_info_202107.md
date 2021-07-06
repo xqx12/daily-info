@@ -47,7 +47,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210705T23:57:17Z | CVE-2021-1675 | C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527 | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210705T23:43:59Z | CVE-2021-1675 | Pure PowerShell implementation of CVE-2021-1675 Print Spooler Local Privilege Escalation (PrintNightmare) | https://github.com/calebstewart/CVE-2021-1675 | | 
+| 20210705T23:43:59Z | CVE-2021-1675 | Pure PowerShell implementation of CVE-2021-1675 Print Spooler Local Privilege Escalation (PrintNightmare) | https://github.com/calebstewart/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210705T20:27:56Z | CVE-2021-34527 | Disable remote sessions to print spooler withtout disabling the print spooler service  | https://github.com/officedrone/CVE-2021-34527-workaround | Windows Print Spooler Remote Code Execution Vulnerability| 
 | 20210705T19:54:32Z | CVE-2021-37152 | Exploit Accsess network clients by sending packets in wirless TP-LINK and preparing for a mitm attack | https://github.com/lhashashinl/CVE-2021-37152 | 未查询到CVE信息| 
 | 20210705T19:03:36Z | CVE-2021-34527 | This simple PowerShell script is in response to the "PrintNightmare" vulnerability. This was designed to give a end user the ability to stop and disable the "Print Spooler" service on their computer while awaiting a fix from Microsoft. | https://github.com/geekbrett/CVE-2021-34527-PrintNightmare-Workaround | Windows Print Spooler Remote Code Execution Vulnerability| 
@@ -84,10 +84,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210706T00:02:51Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 26 | 12| 
 | 20210705T23:56:15Z | Null | https://github.com/Pixelking6409/Pixel-Exploits | 0 | 0| 
 | 20210705T23:54:16Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9659 | 1585| 
 | 20210705T23:46:43Z | How to exploit BERT for detecting users% personality type based on some text they have posted, according to the Myers–Briggs Type Indicator (MBTI). | https://github.com/rcantini/BERT_personality_detection | 0 | 0| 
-| 20210705T23:02:57Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 26 | 12| 
 | 20210705T22:59:54Z | This exploit has a crash bot script. It has a spam bot script. Lastly a name bypasser. | https://github.com/ENO500/Kahoot-Exploits | 0 | 0| 
 | 20210705T22:29:36Z | some exploit for json web tokens | https://github.com/TRIKKSS/JWTSWISSKNIFE | 0 | 0| 
 | 20210705T22:06:00Z | CGI Script Shellshock Exploitation Tool | https://github.com/sAsPeCt488/shellshockcgitool | 1 | 2| 
@@ -137,6 +137,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210706T00:02:08Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210705T23:41:37Z | Null | https://github.com/elvirareza/Fuzzy_Potensi_Tsunami | 0 | 0| 
 | 20210705T23:36:46Z | Comparing tool variability and numerical variability in fMRI analyses results | https://github.com/ali4006/fuzzy-neurotools | 0 | 0| 
 | 20210705T23:35:22Z | fuzz all the 1s and 0s | https://github.com/geeknik/fuzzers | 0 | 0| 
@@ -146,7 +147,6 @@
 | 20210705T22:30:10Z | Null | https://github.com/kristhyanmatos/logica-fuzzy | 0 | 0| 
 | 20210705T22:29:33Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
 | 20210705T22:29:33Z | setup for fuzzing the Rust compiler | https://github.com/dwrensha/fuzz-rustc | 32 | 0| 
-| 20210705T21:59:16Z | Practice repository for binary exploitation and fuzzing | https://github.com/RickdeJager/binexp-practice | 0 | 0| 
 
 
 
