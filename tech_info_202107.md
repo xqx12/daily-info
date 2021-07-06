@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210706T11:21:50Z | CVE-2021-1675 | C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527 | https://github.com/cube0x0/CVE-2021-1675 | | 
+| 20210706T11:21:50Z | CVE-2021-1675 | C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527 | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210706T10:36:57Z | CVE-2021-1675 | Pure PowerShell implementation of CVE-2021-1675 Print Spooler Local Privilege Escalation (PrintNightmare) | https://github.com/calebstewart/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210706T10:13:01Z | CVE-2021-1675 | CVE-2021-1675 Detection Info | https://github.com/LaresLLC/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210706T10:13:00Z | CVE-2021-1675 | Local Privilege Escalation Edition for CVE-2021-1675 | https://github.com/hlldz/CVE-2021-1675-LPE | Windows Print Spooler Elevation of Privilege Vulnerability| 
@@ -138,7 +138,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210706T12:10:17Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
+| 20210706T12:18:33Z | tired of typing afl-fuzz? try bun! | https://github.com/ocurrent/bun | 44 | 8| 
+| 20210706T12:15:58Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
 | 20210706T12:02:08Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210706T12:01:53Z | A patched QEMU that exposes an interface for LibAFL-based fuzzers | https://github.com/AFLplusplus/qemu-libafl-bridge | 16 | 2| 
 | 20210706T11:58:37Z | Null | https://github.com/lacygoill/vim-fuzzy | 0 | 1| 
@@ -146,7 +147,6 @@
 | 20210706T11:26:52Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3583 | 837| 
 | 20210706T11:22:51Z | Null | https://github.com/fuzzydragon/fuzzydragon | 0 | 0| 
 | 20210706T10:59:08Z | funky fun fuzzer | https://github.com/roddux/fffz | 0 | 0| 
-| 20210706T10:12:49Z | tired of typing afl-fuzz? try bun! | https://github.com/ocurrent/bun | 44 | 8| 
 | 20210706T10:10:55Z | REST webservices containing SQL injection vulnerabilities. A SUT developed to proof the model-based fuzzing process of RESTFuzzer. | https://github.com/ArjanGerritsen/SutSqlI | 0 | 0| 
 
 
