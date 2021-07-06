@@ -29,7 +29,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210705T23:43:59Z | CVE-2021-1675 | Pure PowerShell implementation of CVE-2021-1675 Print Spooler Local Privilege Escalation (PrintNightmare) | https://github.com/calebstewart/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210705T20:27:56Z | CVE-2021-34527 | Disable remote sessions to print spooler withtout disabling the print spooler service  | https://github.com/officedrone/CVE-2021-34527-workaround | Windows Print Spooler Remote Code Execution Vulnerability| 
 | 20210705T19:54:32Z | CVE-2021-37152 | Exploit Accsess network clients by sending packets in wirless TP-LINK and preparing for a mitm attack | https://github.com/lhashashinl/CVE-2021-37152 | 未查询到CVE信息| 
 | 20210705T19:03:36Z | CVE-2021-34527 | This simple PowerShell script is in response to the "PrintNightmare" vulnerability. This was designed to give a end user the ability to stop and disable the "Print Spooler" service on their computer while awaiting a fix from Microsoft. | https://github.com/geekbrett/CVE-2021-34527-PrintNightmare-Workaround | Windows Print Spooler Remote Code Execution Vulnerability| 
@@ -39,6 +38,7 @@
 | 20210705T15:33:28Z | CVE-2021-1675 | Local Privilege Escalation Edition for CVE-2021-1675 | https://github.com/hlldz/CVE-2021-1675-LPE | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210705T12:10:59Z | CVE-2021-1675 | Null | https://github.com/edsonjt81/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210705T12:06:26Z | CVE-2021-1675 | CVE-2021-1675 - Windows print spooler remote | https://github.com/edsonjt81/https-github.com-cube0x0-CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
+| 20210705T08:47:17Z | CVE-2021-3281 | Null | https://github.com/lwzSoviet/CVE-2021-3281 | In Django 2.2 before 2.2.18, 3.0 before 3.0.12, and 3.1 before 3.1.6, the django.utils.archive.extract method (used by %startapp --template% and %startproject --template%) allows directory traversal via an archive with absolute paths or relative paths with dot segments.| 
 
 
 # klee on Github 推荐
