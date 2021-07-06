@@ -52,7 +52,7 @@
 | 20210706T10:13:00Z | CVE-2021-1675 | Local Privilege Escalation Edition for CVE-2021-1675 | https://github.com/hlldz/CVE-2021-1675-LPE | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210706T05:36:17Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210706T02:17:43Z | CVE-2021-3156 | Null | https://github.com/dock0d1/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210706T02:02:42Z | CVE-2021-37152 | Exploit Accsess network clients by sending packets in wirless TP-LINK and preparing for a mitm attack | https://github.com/lhashashinl/CVE-2021-37152 | 未查询到CVE信息| 
+| 20210706T02:02:42Z | CVE-2021-37152 | Exploit Accsess network clients by sending packets in wirless TP-LINK and preparing for a mitm attack | https://github.com/lhashashinl/CVE-2021-37152 | | 
 | 20210706T01:06:58Z | CVE-2020-7378 | Exploits Password Reset Vulnerability in OpenCRX, CVE-2020-7378. Also maintains Stealth by deleting all the password reset mails created by the script | https://github.com/ruthvikvegunta/openCRX-CVE-2020-7378 | CRIXP OpenCRX version 4.30 and 5.0-20200717 and prior suffers from an unverified password change vulnerability. An attacker who is able to connect to the affected OpenCRX instance can change the password of any user, including admin-Standard, to any chosen value. This issue was resolved in version 5.0-20200904, released September 4, 2020.| 
 | 20210705T20:27:56Z | CVE-2021-34527 | Disable remote sessions to print spooler withtout disabling the print spooler service  | https://github.com/officedrone/CVE-2021-34527-workaround | Windows Print Spooler Remote Code Execution Vulnerability| 
 | 20210705T19:03:36Z | CVE-2021-34527 | This simple PowerShell script is in response to the "PrintNightmare" vulnerability. This was designed to give a end user the ability to stop and disable the "Print Spooler" service on their computer while awaiting a fix from Microsoft. | https://github.com/geekbrett/CVE-2021-34527-PrintNightmare-Workaround | Windows Print Spooler Remote Code Execution Vulnerability| 
@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210706T12:51:49Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 17 | 12| 
 | 20210706T12:45:51Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9664 | 1585| 
 | 20210706T12:36:14Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 3718 | 517| 
 | 20210706T12:33:03Z | GUI Exploit Tool For RedTeam | https://github.com/MrMeizhi/DriedMango | 29 | 6| 
@@ -94,7 +95,6 @@
 | 20210706T11:45:55Z | Allows you to get a console in Roblox using an exploit. (Such as KRNL) | https://github.com/H3ctor-Official/H3ctor-X | 0 | 0| 
 | 20210706T10:43:53Z | Forestry Thematic Exploitation Platform | https://github.com/cgi-eoss/ftep | 5 | 0| 
 | 20210706T10:41:21Z | Null | https://github.com/AnaCosteira/PostExploitTools | 0 | 0| 
-| 20210706T10:41:11Z | Null | https://github.com/kk98kk0/exploit | 1 | 0| 
 
 
 # backdoor on Github 推荐
@@ -115,10 +115,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210706T12:51:04Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 146 | 33| 
 | 20210706T11:24:59Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 426 | 66| 
 | 20210706T10:57:03Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1727 | 496| 
 | 20210706T09:55:34Z | Aggressive compile-time optimizations for JavaScript via dynamic symbolic VM execution. | https://github.com/undefinedbuddy/optimizr | 26 | 0| 
-| 20210706T07:49:40Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 146 | 33| 
 | 20210706T03:16:15Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2378 | 349| 
 | 20210706T03:01:26Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 14 | 3| 
 | 20210705T18:34:48Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 19 | 11| 
