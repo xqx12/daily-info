@@ -52,7 +52,7 @@
 | 20210706T10:13:00Z | CVE-2021-1675 | Local Privilege Escalation Edition for CVE-2021-1675 | https://github.com/hlldz/CVE-2021-1675-LPE | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210706T05:36:17Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210706T02:17:43Z | CVE-2021-3156 | Null | https://github.com/dock0d1/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210706T02:02:42Z | CVE-2021-37152 | Exploit Accsess network clients by sending packets in wirless TP-LINK and preparing for a mitm attack | https://github.com/lhashashinl/CVE-2021-37152 | 未查询到CVE信息| 
+| 20210706T02:02:42Z | CVE-2021-37152 | Exploit Accsess network clients by sending packets in wirless TP-LINK and preparing for a mitm attack | https://github.com/lhashashinl/CVE-2021-37152 | | 
 | 20210706T01:06:58Z | CVE-2020-7378 | Exploits Password Reset Vulnerability in OpenCRX, CVE-2020-7378. Also maintains Stealth by deleting all the password reset mails created by the script | https://github.com/ruthvikvegunta/openCRX-CVE-2020-7378 | CRIXP OpenCRX version 4.30 and 5.0-20200717 and prior suffers from an unverified password change vulnerability. An attacker who is able to connect to the affected OpenCRX instance can change the password of any user, including admin-Standard, to any chosen value. This issue was resolved in version 5.0-20200904, released September 4, 2020.| 
 | 20210705T20:27:56Z | CVE-2021-34527 | Disable remote sessions to print spooler withtout disabling the print spooler service  | https://github.com/officedrone/CVE-2021-34527-workaround | Windows Print Spooler Remote Code Execution Vulnerability| 
 | 20210705T19:03:36Z | CVE-2021-34527 | This simple PowerShell script is in response to the "PrintNightmare" vulnerability. This was designed to give a end user the ability to stop and disable the "Print Spooler" service on their computer while awaiting a fix from Microsoft. | https://github.com/geekbrett/CVE-2021-34527-PrintNightmare-Workaround | Windows Print Spooler Remote Code Execution Vulnerability| 
@@ -84,16 +84,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210706T01:53:32Z | Post Exploitation Remote Enumeration tool | https://github.com/no0g/EnumTHis | 0 | 0| 
-| 20210706T01:34:52Z | Hello, this is a write-up for a form of a ret2libc ROP attack, which is used to bypass a exploit mitigation, known as NX for linux and DEP for windows. | https://github.com/Ret2plt/Ret2libc-Exploit-Write-up | 0 | 0| 
-| 20210706T01:09:46Z | Null | https://github.com/0xturazzi/Um-Livrinho-Sobre-Exploit-Dev | 0 | 0| 
-| 20210706T01:06:58Z | Exploits Password Reset Vulnerability in OpenCRX, CVE-2020-7378. Also maintains Stealth by deleting all the password reset mails created by the script | https://github.com/ruthvikvegunta/openCRX-CVE-2020-7378 | 0 | 0| 
-| 20210706T01:02:49Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 26 | 12| 
-| 20210705T23:56:15Z | Null | https://github.com/Pixelking6409/Pixel-Exploits | 0 | 0| 
-| 20210705T23:54:16Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9659 | 1586| 
-| 20210705T23:46:43Z | How to exploit BERT for detecting users% personality type based on some text they have posted, according to the Myers–Briggs Type Indicator (MBTI). | https://github.com/rcantini/BERT_personality_detection | 0 | 0| 
-| 20210705T22:59:54Z | This exploit has a crash bot script. It has a spam bot script. Lastly a name bypasser. | https://github.com/ENO500/Kahoot-Exploits | 0 | 0| 
-| 20210705T22:29:36Z | some exploit for json web tokens | https://github.com/TRIKKSS/JWTSWISSKNIFE | 0 | 0| 
+| 20210706T12:02:56Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 26 | 12| 
+| 20210706T11:46:40Z | Simple script to automate the exploit POC for Fog Project 1.5.9 | https://github.com/anjojake/fog_project_1.5.9_exploit | 0 | 0| 
+| 20210706T11:45:55Z | Allows you to get a console in Roblox using an exploit. (Such as KRNL) | https://github.com/H3ctor-Official/H3ctor-X | 0 | 0| 
+| 20210706T11:30:23Z | BioCCP.jl exploits the Coupon Collector Problem for sample size determination in combinatorial biotechnology. | https://github.com/kirstvh/BioCCP.jl | 2 | 0| 
+| 20210706T10:43:53Z | Forestry Thematic Exploitation Platform | https://github.com/cgi-eoss/ftep | 5 | 0| 
+| 20210706T10:41:21Z | Null | https://github.com/AnaCosteira/PostExploitTools | 0 | 0| 
+| 20210706T10:41:11Z | Null | https://github.com/kk98kk0/exploit | 1 | 0| 
+| 20210706T10:38:39Z | Null | https://github.com/PearlyNautilus/weblogic_exploit | 0 | 0| 
+| 20210706T10:33:14Z | SUID & GUID Exploit Seeker | https://github.com/v0lck3r/Seeker | 0 | 0| 
+| 20210706T10:09:56Z | Null | https://github.com/ezios/exploits | 0 | 1| 
 
 
 # backdoor on Github 推荐
