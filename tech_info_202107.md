@@ -52,10 +52,10 @@
 | 20210707T11:00:02Z | CVE-2021-37152 | Exploit Accsess network clients by sending packets in wirless TP-LINK and preparing for a mitm attack | https://github.com/lhashashinl/CVE-2021-37152 | 未查询到CVE信息| 
 | 20210707T10:00:34Z | CVE-2021-34527 | How to fix the PrintNightmare vulnerability | https://github.com/powershellpr0mpt/PrintNightmare-CVE-2021-34527 | Windows Print Spooler Remote Code Execution Vulnerability| 
 | 20210707T07:27:17Z | CVE-2021-1675 | Local Privilege Escalation Edition for CVE-2021-1675 | https://github.com/hlldz/CVE-2021-1675-LPE | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210707T07:19:06Z | CVE-2021-3493 | CVE-2021-3493 Ubuntu OverlayFS Local Privesc | https://github.com/inspiringz/CVE-2021-3493 | | 
-| 20210707T06:47:16Z | CVE-2021-34527 | Simple batch script to disable the Microsoft Print Spooler service from system | https://github.com/vinaysudheer/Disable-Spooler-Service-PrintNightmare-CVE-2021-34527 | Windows Print Spooler Remote Code Execution Vulnerability| 
+| 20210707T07:19:06Z | CVE-2021-3493 | CVE-2021-3493 Ubuntu OverlayFS Local Privesc | https://github.com/inspiringz/CVE-2021-3493 | The overlayfs implementation in the linux kernel did not properly validate with respect to user namespaces the setting of file capabilities on files in an underlying file system. Due to the combination of unprivileged user namespaces along with a patch carried in the Ubuntu kernel to allow unprivileged overlay mounts, an attacker could use this to gain elevated privileges.| 
+| 20210707T06:47:16Z | CVE-2021-34527 | Simple batch script to disable the Microsoft Print Spooler service from system | https://github.com/vinaysudheer/Disable-Spooler-Service-PrintNightmare-CVE-2021-34527 | | 
 | 20210707T04:44:08Z | CVE-2020-14321 | Python script to exploit CVE-2020-14321 - Course enrolments allowed privilege escalation from teacher role into manager role to RCE. | https://github.com/lanzt/CVE-2020-14321 | 未查询到CVE信息| 
-| 20210706T22:24:39Z | CVE-2021-1675 | CVE-2021-1675 Detection Info | https://github.com/LaresLLC/CVE-2021-1675 | | 
+| 20210706T22:24:39Z | CVE-2021-1675 | CVE-2021-1675 Detection Info | https://github.com/LaresLLC/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 
 
 # klee on Github 推荐
@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210707T12:06:42Z | New exploit for Roblox... | https://github.com/NinjaSploit-Official/Ninja_Sploit | 0 | 0| 
 | 20210707T12:02:58Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 26 | 12| 
 | 20210707T11:43:42Z | Practice repository for binary exploitation and fuzzing | https://github.com/RickdeJager/binexp-practice | 0 | 0| 
 | 20210707T11:40:27Z | This script search for the bin on the https://gtfobins.github.io/ for the SUID exploit and returns the bins that have exploit available on gtfobins. So you don%t need to manually search for every file on the site. | https://github.com/abhisheksuran/GTFObins_finder | 0 | 0| 
@@ -94,7 +95,6 @@
 | 20210707T10:50:46Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 76 | 13| 
 | 20210707T10:27:42Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 71 | 25| 
 | 20210707T10:26:37Z | HatSploit native powerful payload generation and shellcode injection tool that provides support for common platforms and architectures. | https://github.com/EntySec/HatVenom | 32 | 10| 
-| 20210707T10:25:59Z | Implementation of a native-code HatSploit membrane for unix-like systems, designed for portability, embeddability, and low resource utilization. | https://github.com/EntySec/membrane | 4 | 2| 
 
 
 # backdoor on Github 推荐
