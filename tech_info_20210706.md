@@ -29,7 +29,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210706T23:59:20Z | CVE-2021-1675 | Pure PowerShell implementation of CVE-2021-1675 Print Spooler Local Privilege Escalation (PrintNightmare) | https://github.com/calebstewart/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210706T22:35:50Z | CVE-2021-1675 | C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527 | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210706T22:24:39Z | CVE-2021-1675 | CVE-2021-1675 Detection Info | https://github.com/LaresLLC/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210706T21:30:18Z | CVE-2021-1675 | Local Privilege Escalation Edition for CVE-2021-1675 | https://github.com/hlldz/CVE-2021-1675-LPE | Windows Print Spooler Elevation of Privilege Vulnerability| 
@@ -60,28 +59,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210706T12:51:49Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 17 | 12| 
-| 20210706T12:45:51Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9664 | 1585| 
-| 20210706T12:36:14Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 3718 | 517| 
-| 20210706T12:33:03Z | GUI Exploit Tool For RedTeam | https://github.com/MrMeizhi/DriedMango | 29 | 6| 
-| 20210706T12:27:22Z | BioCCP.jl exploits the Coupon Collector Problem for sample size determination in combinatorial biotechnology. | https://github.com/kirstvh/BioCCP.jl | 2 | 0| 
-| 20210706T12:02:56Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 26 | 12| 
-| 20210706T11:46:40Z | Simple script to automate the exploit POC for Fog Project 1.5.9 | https://github.com/anjojake/fog_project_1.5.9_exploit | 0 | 0| 
-| 20210706T11:45:55Z | Allows you to get a console in Roblox using an exploit. (Such as KRNL) | https://github.com/H3ctor-Official/H3ctor-X | 0 | 0| 
-| 20210706T10:43:53Z | Forestry Thematic Exploitation Platform | https://github.com/cgi-eoss/ftep | 5 | 0| 
-| 20210706T10:41:21Z | Null | https://github.com/AnaCosteira/PostExploitTools | 0 | 0| 
+| 20210706T23:36:57Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 71 | 25| 
+| 20210706T23:36:23Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1192 | 563| 
+| 20210706T23:32:27Z | Implementation of a native-code HatSploit membrane for unix-like systems, designed for portability, embeddability, and low resource utilization. | https://github.com/EntySec/membrane | 4 | 2| 
+| 20210706T23:28:35Z | RomBuster is a router exploitation tool that allows to disclosure network router admin password. | https://github.com/EntySec/RomBuster | 67 | 16| 
+| 20210706T23:28:07Z |  CamOver is a camera exploitation tool that allows to disclosure network camera admin password. | https://github.com/EntySec/CamOver | 49 | 12| 
+| 20210706T23:28:04Z | A Framework that allows you to search for vulnerable android devices across the world and exploit them. | https://github.com/0x1CA3/AdbNet | 0 | 0| 
+| 20210706T23:27:36Z | CamRaptor is a tool that exploits several vulnerabilities in popular DVR cameras to obtain network camera credentials. | https://github.com/EntySec/CamRaptor | 38 | 8| 
+| 20210706T23:25:29Z | HatSploit native powerful payload generation and shellcode injection tool that provides support for common platforms and architectures. | https://github.com/EntySec/HatVenom | 32 | 10| 
+| 20210706T23:07:38Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9670 | 1587| 
+| 20210706T22:34:46Z | PS1 savegame exploit | https://github.com/socram8888/tonyhax | 297 | 11| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210706T23:51:52Z | Backdoors Framework for Deep Learning and Federated Learning. A light-weight tool to conduct your research on backdoors. | https://github.com/ebagdasa/backdoors101 | 87 | 23| 
+| 20210706T23:49:21Z | Null | https://github.com/Mikel0de0n/Simple-Backdoor-made-in-python | 2 | 0| 
+| 20210706T23:36:23Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1192 | 563| 
+| 20210706T23:32:27Z | Implementation of a native-code HatSploit membrane for unix-like systems, designed for portability, embeddability, and low resource utilization. | https://github.com/EntySec/membrane | 4 | 2| 
+| 20210706T21:22:15Z | A collection of python written hacking tools consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester credential harvester, keylogger, download&execute, and reverse_backdoor. | https://github.com/dmdhrumilmistry/hacking_tools | 0 | 0| 
+| 20210706T18:29:19Z | Null | https://github.com/Pramodh-G/MalwareBackdoors | 0 | 0| 
+| 20210706T17:44:03Z | It%s Just A Fun Tool. Do Whatever You Want To Do With It. Sweetest PHP Backdoor Controlled By A CLI Terminal. | https://github.com/orionhridoy/PHP-Emoji-CLI-Backdoor | 0 | 0| 
+| 20210706T14:32:51Z | A simple remote tool written in C#.    一个简单的c#远控 | https://github.com/qwqdanchun/DcRat | 173 | 77| 
+| 20210706T14:32:47Z | Backdoor FL | https://github.com/ledunggit/backdoor-fl-poisoning | 0 | 0| 
 | 20210706T12:43:25Z | Client server backdoor one zero one in python3 | https://github.com/SxNade/CSpydoor101 | 2 | 1| 
-| 20210706T11:46:20Z | A script to create a WordPress user with an Administrator role through browser executions. | https://github.com/alvindcaesar/wp-backdoor-entry | 0 | 0| 
-| 20210706T09:52:17Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 82 | 14| 
-| 20210706T08:45:12Z | Null | https://github.com/60late/mobile-backdoor | 0 | 0| 
-| 20210706T08:40:40Z | A proof of concept script for the RCE found in PHP version 8.1.0-dev, by invoking %User-Agentt: zerodiumsystem% backdoor placed in the PHP source code. | https://github.com/AN0NIT/PHP-8.1.0-dev-RCE | 0 | 0| 
-| 20210706T03:25:59Z | vmware-backdoor | https://github.com/rtyuiow/vmware-backdoor | 0 | 0| 
-| 20210706T00:29:41Z | Null | https://github.com/xpf/Backdoor-Learning-arXiv | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
