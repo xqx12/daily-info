@@ -107,7 +107,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210706T23:54:42Z | These tests of libdwarf/dwarfdump include old object files, new ones, and many fuzzed object files. These are the definitive tests that things work.. Most people have no reason to run these tests. | https://github.com/davea42/libdwarf-regressiontests | 0 | 0| 
 | 20210706T23:31:49Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 288 | 39| 
 | 20210706T23:27:22Z | Chip tools, primarily around security fuzzing (laser, EM, UV, etc) | https://github.com/JohnDMcMaster/icfuzz | 4 | 1| 
 | 20210706T23:11:17Z | Null | https://github.com/francnascimento/FuzzyRadialBasisFunction | 0 | 0| 
@@ -117,6 +116,7 @@
 | 20210706T21:35:16Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210706T21:27:19Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
 | 20210706T21:13:39Z | Site to show off tools built on my GitHub profile | https://github.com/FuzzyGamesOn/fuzzygameson.github.io | 0 | 0| 
+| 20210706T21:10:30Z | REST API Fuzz Testing (RAFT): Source code for self-hosted service developed for Azure, including the API, orchestration engine, and default set of security tools (including MSR%s RESTler), that enables developers to embed security tooling into their CI/CD workflows | https://github.com/microsoft/rest-api-fuzz-testing | 166 | 27| 
 
 
 
