@@ -138,7 +138,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210707T00:39:32Z | Null | https://github.com/Aidnagddn/fuzzy-guide | 0 | 0| 
+| 20210707T00:40:32Z | Null | https://github.com/Aidnagddn/fuzzy-guide | 0 | 0| 
 | 20210707T00:35:26Z | BCC script to add watermarked student names to their photo for %Warm Fuzzy% folders at camp | https://github.com/danieltmc/warm-fuzzies | 0 | 0| 
 | 20210707T00:32:11Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210707T00:23:17Z | Fuzzer Project - UNSW COMP6447 21T2 | https://github.com/comp6447-fuzzers/panama | 0 | 0| 
