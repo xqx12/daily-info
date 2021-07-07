@@ -100,7 +100,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210707T12:36:51Z | vmware-backdoor | https://github.com/rtyuiow/vmware-backdoor | 0 | 0| 
+| 20210707T12:37:35Z | vmware-backdoor | https://github.com/rtyuiow/vmware-backdoor | 0 | 0| 
 | 20210707T12:18:46Z | A collection of python written hacking tools consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester credential harvester, keylogger, download&execute, and reverse_backdoor. | https://github.com/dmdhrumilmistry/hacking_tools | 0 | 0| 
 | 20210707T11:07:27Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1193 | 564| 
 | 20210707T10:26:59Z | Paranoid is a web interface and dashboard, configured for managing HatSploit sessions via built-in REST API. | https://github.com/EntySec/Paranoid | 2 | 1| 
