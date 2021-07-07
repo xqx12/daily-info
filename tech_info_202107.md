@@ -50,7 +50,7 @@
 | 20210707T00:09:18Z | CVE-2021-1675 | Pure PowerShell implementation of CVE-2021-1675 Print Spooler Local Privilege Escalation (PrintNightmare) | https://github.com/calebstewart/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210706T22:24:39Z | CVE-2021-1675 | CVE-2021-1675 Detection Info | https://github.com/LaresLLC/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210706T21:30:18Z | CVE-2021-1675 | Local Privilege Escalation Edition for CVE-2021-1675 | https://github.com/hlldz/CVE-2021-1675-LPE | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210706T19:25:43Z | CVE-2021-21975 | Null | https://github.com/dorkerdevil/CVE-2021-21975 | | 
+| 20210706T19:25:43Z | CVE-2021-21975 | Null | https://github.com/dorkerdevil/CVE-2021-21975 | Server Side Request Forgery in vRealize Operations Manager API (CVE-2021-21975) prior to 8.4 may allow a malicious actor with network access to the vRealize Operations Manager API can perform a Server Side Request Forgery attack to steal administrative credentials.| 
 | 20210706T17:28:24Z | CVE-2021-22911 | Pre-Auth Blind NoSQL Injection leading to Remote Code Execution in Rocket Chat 3.12.1 | https://github.com/CsEnox/CVE-2021-22911 | A improper input sanitization vulnerability exists in Rocket.Chat server 3.11, 3.12 & 3.13 that could lead to unauthenticated NoSQL injection, resulting potentially in RCE.| 
 | 20210706T13:58:52Z | CVE-2021-37152 | Exploit Accsess network clients by sending packets in wirless TP-LINK and preparing for a mitm attack | https://github.com/lhashashinl/CVE-2021-37152 | 未查询到CVE信息| 
 | 20210706T05:36:17Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
@@ -138,10 +138,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210707T01:19:54Z | BCC script to add watermarked student names to their photo for %Warm Fuzzy% folders at camp | https://github.com/danieltmc/warm-fuzzies | 0 | 0| 
 | 20210707T01:18:10Z | These tests of libdwarf/dwarfdump include old object files, new ones, and many fuzzed object files. These are the definitive tests that things work.. Most people have no reason to run these tests. | https://github.com/davea42/libdwarf-regressiontests | 0 | 0| 
 | 20210707T00:54:50Z | Fuzzer Project - UNSW COMP6447 21T2 | https://github.com/comp6447-fuzzers/panama | 0 | 0| 
 | 20210707T00:52:24Z | Null | https://github.com/Aidnagddn/fuzzy-guide | 0 | 0| 
-| 20210707T00:51:28Z | BCC script to add watermarked student names to their photo for %Warm Fuzzy% folders at camp | https://github.com/danieltmc/warm-fuzzies | 0 | 0| 
 | 20210707T00:32:11Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210706T23:31:49Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 288 | 39| 
 | 20210706T23:27:22Z | Chip tools, primarily around security fuzzing (laser, EM, UV, etc) | https://github.com/JohnDMcMaster/icfuzz | 4 | 1| 
