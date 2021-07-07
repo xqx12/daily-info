@@ -26,13 +26,13 @@
 | --- | --- | --- | --- | ---| 
 | 20210707T12:35:49Z | CVE-2021-1675 | Pure PowerShell implementation of CVE-2021-1675 Print Spooler Local Privilege Escalation (PrintNightmare) | https://github.com/calebstewart/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210707T11:57:50Z | CVE-2021-1675 | C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527 | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210707T11:45:58Z | CVE-2020-7378 | Exploits Password Reset Vulnerability in OpenCRX, CVE-2020-7378. Also maintains Stealth by deleting all the password reset mails created by the script | https://github.com/ruthvikvegunta/openCRX-CVE-2020-7378 | CRIXP OpenCRX version 4.30 and 5.0-20200717 and prior suffers from an unverified password change vulnerability. An attacker who is able to connect to the affected OpenCRX instance can change the password of any user, including admin-Standard, to any chosen value. This issue was resolved in version 5.0-20200904, released September 4, 2020.| 
+| 20210707T11:45:58Z | CVE-2020-7378 | Exploits Password Reset Vulnerability in OpenCRX, CVE-2020-7378. Also maintains Stealth by deleting all the password reset mails created by the script | https://github.com/ruthvikvegunta/openCRX-CVE-2020-7378 | | 
 | 20210707T11:00:02Z | CVE-2021-37152 | Exploit Accsess network clients by sending packets in wirless TP-LINK and preparing for a mitm attack | https://github.com/lhashashinl/CVE-2021-37152 | 未查询到CVE信息| 
-| 20210707T10:00:34Z | CVE-2021-34527 | How to fix the PrintNightmare vulnerability | https://github.com/powershellpr0mpt/PrintNightmare-CVE-2021-34527 | Windows Print Spooler Remote Code Execution Vulnerability| 
+| 20210707T10:00:34Z | CVE-2021-34527 | How to fix the PrintNightmare vulnerability | https://github.com/powershellpr0mpt/PrintNightmare-CVE-2021-34527 | | 
 | 20210707T07:27:17Z | CVE-2021-1675 | Local Privilege Escalation Edition for CVE-2021-1675 | https://github.com/hlldz/CVE-2021-1675-LPE | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210707T07:19:06Z | CVE-2021-3493 | CVE-2021-3493 Ubuntu OverlayFS Local Privesc | https://github.com/inspiringz/CVE-2021-3493 | The overlayfs implementation in the linux kernel did not properly validate with respect to user namespaces the setting of file capabilities on files in an underlying file system. Due to the combination of unprivileged user namespaces along with a patch carried in the Ubuntu kernel to allow unprivileged overlay mounts, an attacker could use this to gain elevated privileges.| 
-| 20210707T06:47:16Z | CVE-2021-34527 | Simple batch script to disable the Microsoft Print Spooler service from system | https://github.com/vinaysudheer/Disable-Spooler-Service-PrintNightmare-CVE-2021-34527 | | 
-| 20210707T04:44:08Z | CVE-2020-14321 | Python script to exploit CVE-2020-14321 - Course enrolments allowed privilege escalation from teacher role into manager role to RCE. | https://github.com/lanzt/CVE-2020-14321 | | 
+| 20210707T06:47:16Z | CVE-2021-34527 | Simple batch script to disable the Microsoft Print Spooler service from system | https://github.com/vinaysudheer/Disable-Spooler-Service-PrintNightmare-CVE-2021-34527 | Windows Print Spooler Remote Code Execution Vulnerability| 
+| 20210707T04:44:08Z | CVE-2020-14321 | Python script to exploit CVE-2020-14321 - Course enrolments allowed privilege escalation from teacher role into manager role to RCE. | https://github.com/lanzt/CVE-2020-14321 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
@@ -95,6 +95,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210707T12:35:55Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3583 | 838| 
 | 20210707T12:34:35Z | A patched QEMU that exposes an interface for LibAFL-based fuzzers | https://github.com/AFLplusplus/qemu-libafl-bridge | 16 | 2| 
 | 20210707T12:19:04Z | Fuzzinator Random Testing Framework | https://github.com/renatahodovan/fuzzinator | 177 | 38| 
 | 20210707T12:15:14Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 18 | 7| 
@@ -102,7 +103,6 @@
 | 20210707T12:02:30Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210707T11:47:57Z | A simple web fuzzer written in python | https://github.com/dpauk/fuzzy_penguin | 0 | 0| 
 | 20210707T11:43:42Z | Practice repository for binary exploitation and fuzzing | https://github.com/RickdeJager/binexp-practice | 0 | 0| 
-| 20210707T11:39:59Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3584 | 838| 
 | 20210707T11:39:12Z | Fuzzer Project - UNSW COMP6447 21T2 | https://github.com/comp6447-fuzzers/panama | 0 | 0| 
 | 20210707T11:31:27Z | Null | https://github.com/adtyasamuel57/Fuzzy-Tsukamoto-Tsunamai | 0 | 0| 
 
