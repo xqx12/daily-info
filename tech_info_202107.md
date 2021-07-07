@@ -100,16 +100,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210707T11:07:27Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1193 | 564| 
+| 20210707T10:47:03Z | A collection of python written hacking tools consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester credential harvester, keylogger, download&execute, and reverse_backdoor. | https://github.com/dmdhrumilmistry/hacking_tools | 0 | 0| 
+| 20210707T10:26:59Z | Paranoid is a web interface and dashboard, configured for managing HatSploit sessions via built-in REST API. | https://github.com/EntySec/Paranoid | 2 | 1| 
+| 20210707T10:25:59Z | Implementation of a native-code HatSploit membrane for unix-like systems, designed for portability, embeddability, and low resource utilization. | https://github.com/EntySec/membrane | 4 | 2| 
+| 20210707T09:49:03Z | PyBack - Backdoor in Python - Reverse TCP | https://github.com/Omikrone/PyBack | 2 | 0| 
+| 20210707T07:08:41Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 83 | 14| 
+| 20210707T06:12:52Z | This software technically acts as a backdoor, but all I use it for is to annoy my brother. :) It uses C#%s socket tools in order to listen and connect to a TCP connection, and when connected send a variety of commands. | https://github.com/lucadenhez/EasyDoor | 0 | 0| 
+| 20210707T02:14:44Z | Simple Python Backdoor | https://github.com/zNairy/Sonaris | 6 | 0| 
 | 20210707T01:06:49Z | Null | https://github.com/Mikel0de0n/Simple-Backdoor-made-in-python | 2 | 0| 
 | 20210706T23:51:52Z | Backdoors Framework for Deep Learning and Federated Learning. A light-weight tool to conduct your research on backdoors. | https://github.com/ebagdasa/backdoors101 | 87 | 23| 
-| 20210706T23:36:23Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1192 | 564| 
-| 20210706T23:32:27Z | Implementation of a native-code HatSploit membrane for unix-like systems, designed for portability, embeddability, and low resource utilization. | https://github.com/EntySec/membrane | 4 | 2| 
-| 20210706T21:22:15Z | A collection of python written hacking tools consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester credential harvester, keylogger, download&execute, and reverse_backdoor. | https://github.com/dmdhrumilmistry/hacking_tools | 0 | 0| 
-| 20210706T18:29:19Z | Null | https://github.com/Pramodh-G/MalwareBackdoors | 0 | 0| 
-| 20210706T17:44:03Z | It%s Just A Fun Tool. Do Whatever You Want To Do With It. Sweetest PHP Backdoor Controlled By A CLI Terminal. | https://github.com/orionhridoy/PHP-Emoji-CLI-Backdoor | 0 | 0| 
-| 20210706T14:32:51Z | A simple remote tool written in C#.    一个简单的c#远控 | https://github.com/qwqdanchun/DcRat | 173 | 77| 
-| 20210706T14:32:47Z | Backdoor FL | https://github.com/ledunggit/backdoor-fl-poisoning | 0 | 0| 
-| 20210706T12:43:25Z | Client server backdoor one zero one in python3 | https://github.com/SxNade/CSpydoor101 | 2 | 1| 
 
 
 # symbolic execution on Github 推荐
