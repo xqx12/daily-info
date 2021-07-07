@@ -29,8 +29,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210706T22:35:50Z | CVE-2021-1675 | C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527 | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210706T22:24:39Z | CVE-2021-1675 | CVE-2021-1675 Detection Info | https://github.com/LaresLLC/CVE-2021-1675 | | 
+| 20210706T22:24:39Z | CVE-2021-1675 | CVE-2021-1675 Detection Info | https://github.com/LaresLLC/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210706T21:30:18Z | CVE-2021-1675 | Local Privilege Escalation Edition for CVE-2021-1675 | https://github.com/hlldz/CVE-2021-1675-LPE | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210706T19:25:43Z | CVE-2021-21975 | Null | https://github.com/dorkerdevil/CVE-2021-21975 | Server Side Request Forgery in vRealize Operations Manager API (CVE-2021-21975) prior to 8.4 may allow a malicious actor with network access to the vRealize Operations Manager API can perform a Server Side Request Forgery attack to steal administrative credentials.| 
 | 20210706T17:28:24Z | CVE-2021-22911 | Pre-Auth Blind NoSQL Injection leading to Remote Code Execution in Rocket Chat 3.12.1 | https://github.com/CsEnox/CVE-2021-22911 | A improper input sanitization vulnerability exists in Rocket.Chat server 3.11, 3.12 & 3.13 that could lead to unauthenticated NoSQL injection, resulting potentially in RCE.| 
@@ -75,7 +74,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20210706T23:51:52Z | Backdoors Framework for Deep Learning and Federated Learning. A light-weight tool to conduct your research on backdoors. | https://github.com/ebagdasa/backdoors101 | 87 | 23| 
-| 20210706T23:49:21Z | Null | https://github.com/Mikel0de0n/Simple-Backdoor-made-in-python | 2 | 0| 
 | 20210706T23:36:23Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1192 | 563| 
 | 20210706T23:32:27Z | Implementation of a native-code HatSploit membrane for unix-like systems, designed for portability, embeddability, and low resource utilization. | https://github.com/EntySec/membrane | 4 | 2| 
 | 20210706T21:22:15Z | A collection of python written hacking tools consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester credential harvester, keylogger, download&execute, and reverse_backdoor. | https://github.com/dmdhrumilmistry/hacking_tools | 0 | 0| 
@@ -84,6 +82,7 @@
 | 20210706T14:32:51Z | A simple remote tool written in C#.    一个简单的c#远控 | https://github.com/qwqdanchun/DcRat | 173 | 77| 
 | 20210706T14:32:47Z | Backdoor FL | https://github.com/ledunggit/backdoor-fl-poisoning | 0 | 0| 
 | 20210706T12:43:25Z | Client server backdoor one zero one in python3 | https://github.com/SxNade/CSpydoor101 | 2 | 1| 
+| 20210706T11:46:20Z | A script to create a WordPress user with an Administrator role through browser executions. | https://github.com/alvindcaesar/wp-backdoor-entry | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
