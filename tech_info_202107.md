@@ -138,6 +138,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210707T00:32:11Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210707T00:23:17Z | Fuzzer Project - UNSW COMP6447 21T2 | https://github.com/comp6447-fuzzers/panama | 0 | 0| 
 | 20210706T23:54:42Z | These tests of libdwarf/dwarfdump include old object files, new ones, and many fuzzed object files. These are the definitive tests that things work.. Most people have no reason to run these tests. | https://github.com/davea42/libdwarf-regressiontests | 0 | 0| 
 | 20210706T23:31:49Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 288 | 39| 
@@ -147,7 +148,6 @@
 | 20210706T22:23:38Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3584 | 837| 
 | 20210706T21:58:59Z | Code | https://github.com/ahamedkd1998/fuzzy-funicular | 0 | 0| 
 | 20210706T21:53:07Z | Practice repository for binary exploitation and fuzzing | https://github.com/RickdeJager/binexp-practice | 0 | 0| 
-| 20210706T21:35:16Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 
 
 
