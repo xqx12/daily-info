@@ -51,11 +51,11 @@
 | 20210706T22:24:39Z | CVE-2021-1675 | CVE-2021-1675 Detection Info | https://github.com/LaresLLC/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210706T21:30:18Z | CVE-2021-1675 | Local Privilege Escalation Edition for CVE-2021-1675 | https://github.com/hlldz/CVE-2021-1675-LPE | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210706T19:25:43Z | CVE-2021-21975 | Null | https://github.com/dorkerdevil/CVE-2021-21975 | Server Side Request Forgery in vRealize Operations Manager API (CVE-2021-21975) prior to 8.4 may allow a malicious actor with network access to the vRealize Operations Manager API can perform a Server Side Request Forgery attack to steal administrative credentials.| 
-| 20210706T17:28:24Z | CVE-2021-22911 | Pre-Auth Blind NoSQL Injection leading to Remote Code Execution in Rocket Chat 3.12.1 | https://github.com/CsEnox/CVE-2021-22911 | | 
+| 20210706T17:28:24Z | CVE-2021-22911 | Pre-Auth Blind NoSQL Injection leading to Remote Code Execution in Rocket Chat 3.12.1 | https://github.com/CsEnox/CVE-2021-22911 | A improper input sanitization vulnerability exists in Rocket.Chat server 3.11, 3.12 & 3.13 that could lead to unauthenticated NoSQL injection, resulting potentially in RCE.| 
 | 20210706T13:58:52Z | CVE-2021-37152 | Exploit Accsess network clients by sending packets in wirless TP-LINK and preparing for a mitm attack | https://github.com/lhashashinl/CVE-2021-37152 | 未查询到CVE信息| 
 | 20210706T05:36:17Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210706T02:17:43Z | CVE-2021-3156 | Null | https://github.com/dock0d1/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210706T01:06:58Z | CVE-2020-7378 | Exploits Password Reset Vulnerability in OpenCRX, CVE-2020-7378. Also maintains Stealth by deleting all the password reset mails created by the script | https://github.com/ruthvikvegunta/openCRX-CVE-2020-7378 | | 
+| 20210706T01:06:58Z | CVE-2020-7378 | Exploits Password Reset Vulnerability in OpenCRX, CVE-2020-7378. Also maintains Stealth by deleting all the password reset mails created by the script | https://github.com/ruthvikvegunta/openCRX-CVE-2020-7378 | CRIXP OpenCRX version 4.30 and 5.0-20200717 and prior suffers from an unverified password change vulnerability. An attacker who is able to connect to the affected OpenCRX instance can change the password of any user, including admin-Standard, to any chosen value. This issue was resolved in version 5.0-20200904, released September 4, 2020.| 
 
 
 # klee on Github 推荐
@@ -85,6 +85,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210707T00:38:21Z | A collection of Windows print spooler exploits containerized with other utilities for practical exploitation. | https://github.com/BeetleChunks/SpoolSploit | 0 | 0| 
+| 20210707T00:36:03Z | exploit Huawei ONT device | https://github.com/0neday/Exploit-HS8545M-ONT | 0 | 0| 
+| 20210707T00:35:52Z | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | 1457 | 511| 
 | 20210707T00:08:32Z | A light-map tool is used to hack any website affected by sql and XSS exploit,light-map has many websites there are affected by sql and XSS exploit, and it have a sqlmap tool,you can download and install it | https://github.com/7azabet/light-map | 9 | 0| 
 | 20210707T00:02:55Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 26 | 12| 
 | 20210706T23:36:57Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 71 | 25| 
@@ -92,9 +95,6 @@
 | 20210706T23:32:27Z | Implementation of a native-code HatSploit membrane for unix-like systems, designed for portability, embeddability, and low resource utilization. | https://github.com/EntySec/membrane | 4 | 2| 
 | 20210706T23:28:35Z | RomBuster is a router exploitation tool that allows to disclosure network router admin password. | https://github.com/EntySec/RomBuster | 67 | 16| 
 | 20210706T23:28:07Z |  CamOver is a camera exploitation tool that allows to disclosure network camera admin password. | https://github.com/EntySec/CamOver | 49 | 12| 
-| 20210706T23:28:04Z | A Framework that allows you to search for vulnerable android devices across the world and exploit them. | https://github.com/0x1CA3/AdbNet | 0 | 0| 
-| 20210706T23:27:36Z | CamRaptor is a tool that exploits several vulnerabilities in popular DVR cameras to obtain network camera credentials. | https://github.com/EntySec/CamRaptor | 38 | 8| 
-| 20210706T23:25:29Z | HatSploit native powerful payload generation and shellcode injection tool that provides support for common platforms and architectures. | https://github.com/EntySec/HatVenom | 32 | 10| 
 
 
 # backdoor on Github 推荐
@@ -138,6 +138,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210707T00:39:32Z | Null | https://github.com/Aidnagddn/fuzzy-guide | 0 | 0| 
 | 20210707T00:35:26Z | BCC script to add watermarked student names to their photo for %Warm Fuzzy% folders at camp | https://github.com/danieltmc/warm-fuzzies | 0 | 0| 
 | 20210707T00:32:11Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210707T00:23:17Z | Fuzzer Project - UNSW COMP6447 21T2 | https://github.com/comp6447-fuzzers/panama | 0 | 0| 
@@ -147,7 +148,6 @@
 | 20210706T23:11:17Z | Null | https://github.com/francnascimento/FuzzyRadialBasisFunction | 0 | 0| 
 | 20210706T22:23:38Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3584 | 837| 
 | 20210706T21:58:59Z | Code | https://github.com/ahamedkd1998/fuzzy-funicular | 0 | 0| 
-| 20210706T21:53:07Z | Practice repository for binary exploitation and fuzzing | https://github.com/RickdeJager/binexp-practice | 0 | 0| 
 
 
 
