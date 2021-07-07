@@ -14,29 +14,39 @@
 | 20210706 | 利用 Zoom 会议软件的 0Day 实施红队渗透测试 | https://medium.com/manomano-tech/a-red-team-operation-leveraging-a-zero-day-vulnerability-in-zoom-80f57fb0822e| 
 | 20210706 | FalconEye - 一款实时检测 Windows 进程注入行为的工具，支持对反射 DLL 加载、Process Hollowing等多种注入方法的检测 | https://github.com/rajiv2790/FalconEye| 
 | 20210706 | Securepoint SSL VPN Client 2.0.30 本地提权漏洞分析 | https://bogner.sh/2021/06/local-privilege-escalation-in-securepoint-ssl-vpn-client-2-0-30/| 
+| 20210706 | iPhone密码离线破解新版Hashcat插件演示。 | https://asciinema.org/a/423718| 
+| 20210706 | 智能电视漏洞挖掘初探之寻找工程模式热键 | https://delikely.github.io/2021/05/15/%E6%99%BA%E8%83%BD%E7%94%B5%E8%A7%86%E6%BC%8F%E6%B4%9E%E6%8C%96%E6%8E%98%E5%88%9D%E6%8E%A2%E4%B9%8B%E5%AF%BB%E6%89%BE%E5%B7%A5%E7%A8%8B%E6%A8%A1%E5%BC%8F%E7%83%AD%E9%94%AE/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210706 | 从0到1建设物联网安全实验室之设备篇 | https://mp.weixin.qq.com/s/iyoK3bQQLq6Rhxgebt4VBA| 
+| 20210706 | 离职期员工的信息安全管控实践 | https://mp.weixin.qq.com/s/hIIyFbx562WREErC9Ygw0Q| 
+| 20210706 | Libra: 网站篡改、暗链、死链监测平台 | https://github.com/rabbitmask/Libra| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210706T12:23:30Z | CVE-2021-1675 | C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527 | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210706T10:36:57Z | CVE-2021-1675 | Pure PowerShell implementation of CVE-2021-1675 Print Spooler Local Privilege Escalation (PrintNightmare) | https://github.com/calebstewart/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210706T10:13:01Z | CVE-2021-1675 | CVE-2021-1675 Detection Info | https://github.com/LaresLLC/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210706T10:13:00Z | CVE-2021-1675 | Local Privilege Escalation Edition for CVE-2021-1675 | https://github.com/hlldz/CVE-2021-1675-LPE | Windows Print Spooler Elevation of Privilege Vulnerability| 
+| 20210706T23:59:20Z | CVE-2021-1675 | Pure PowerShell implementation of CVE-2021-1675 Print Spooler Local Privilege Escalation (PrintNightmare) | https://github.com/calebstewart/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
+| 20210706T22:35:50Z | CVE-2021-1675 | C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527 | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
+| 20210706T22:24:39Z | CVE-2021-1675 | CVE-2021-1675 Detection Info | https://github.com/LaresLLC/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
+| 20210706T21:30:18Z | CVE-2021-1675 | Local Privilege Escalation Edition for CVE-2021-1675 | https://github.com/hlldz/CVE-2021-1675-LPE | Windows Print Spooler Elevation of Privilege Vulnerability| 
+| 20210706T19:25:43Z | CVE-2021-21975 | Null | https://github.com/dorkerdevil/CVE-2021-21975 | Server Side Request Forgery in vRealize Operations Manager API (CVE-2021-21975) prior to 8.4 may allow a malicious actor with network access to the vRealize Operations Manager API can perform a Server Side Request Forgery attack to steal administrative credentials.| 
+| 20210706T17:28:24Z | CVE-2021-22911 | Pre-Auth Blind NoSQL Injection leading to Remote Code Execution in Rocket Chat 3.12.1 | https://github.com/CsEnox/CVE-2021-22911 | A improper input sanitization vulnerability exists in Rocket.Chat server 3.11, 3.12 & 3.13 that could lead to unauthenticated NoSQL injection, resulting potentially in RCE.| 
+| 20210706T13:58:52Z | CVE-2021-37152 | Exploit Accsess network clients by sending packets in wirless TP-LINK and preparing for a mitm attack | https://github.com/lhashashinl/CVE-2021-37152 | 未查询到CVE信息| 
 | 20210706T05:36:17Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210706T02:17:43Z | CVE-2021-3156 | Null | https://github.com/dock0d1/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210706T02:02:42Z | CVE-2021-37152 | Exploit Accsess network clients by sending packets in wirless TP-LINK and preparing for a mitm attack | https://github.com/lhashashinl/CVE-2021-37152 | 未查询到CVE信息| 
 | 20210706T01:06:58Z | CVE-2020-7378 | Exploits Password Reset Vulnerability in OpenCRX, CVE-2020-7378. Also maintains Stealth by deleting all the password reset mails created by the script | https://github.com/ruthvikvegunta/openCRX-CVE-2020-7378 | CRIXP OpenCRX version 4.30 and 5.0-20200717 and prior suffers from an unverified password change vulnerability. An attacker who is able to connect to the affected OpenCRX instance can change the password of any user, including admin-Standard, to any chosen value. This issue was resolved in version 5.0-20200904, released September 4, 2020.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210706T22:47:48Z | Null | https://github.com/JaimePSantos/ResearchKlee | 0 | 0| 
+| 20210706T21:41:15Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 154 | 14| 
+| 20210706T13:54:09Z | Config files for my GitHub profile. | https://github.com/kleeJH/kleeJH | 0 | 0| 
 | 20210706T12:02:35Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
 | 20210706T09:29:12Z | Null | https://github.com/Chiyukichan/klee_file | 0 | 0| 
 | 20210706T08:29:32Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 692 | 16| 
@@ -77,12 +87,15 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210706T12:51:04Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 146 | 33| 
-| 20210706T11:24:59Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 426 | 66| 
+| 20210706T22:30:05Z | Compiled Sail ISA snapshots for the Isla symbolic execution tool | https://github.com/rems-project/isla-snapshots | 1 | 0| 
+| 20210706T21:49:42Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 146 | 33| 
+| 20210706T21:09:36Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 7 | 4| 
+| 20210706T21:03:14Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 14 | 3| 
+| 20210706T16:29:27Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2379 | 349| 
+| 20210706T15:17:22Z | Dynamic Symbolic Execution Engine | https://github.com/Fishermanykx/DSE | 0 | 0| 
+| 20210706T13:48:19Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 427 | 66| 
 | 20210706T10:57:03Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1727 | 496| 
 | 20210706T09:55:34Z | Aggressive compile-time optimizations for JavaScript via dynamic symbolic VM execution. | https://github.com/undefinedbuddy/optimizr | 26 | 0| 
-| 20210706T03:16:15Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2378 | 349| 
-| 20210706T03:01:26Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 14 | 3| 
 
 
 # big4 on Github 推荐
@@ -93,16 +106,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210706T12:57:55Z | Null | https://github.com/CarlottaChaos/Fuzzy-System | 0 | 0| 
-| 20210706T12:41:23Z | A patched QEMU that exposes an interface for LibAFL-based fuzzers | https://github.com/AFLplusplus/qemu-libafl-bridge | 16 | 2| 
-| 20210706T12:39:30Z | Null | https://github.com/kristhyanmatos/logica-fuzzy | 0 | 0| 
-| 20210706T12:27:08Z | White-box fuzzer for Java bytecode | https://github.com/vorpal-research/kex | 6 | 8| 
-| 20210706T12:18:33Z | tired of typing afl-fuzz? try bun! | https://github.com/ocurrent/bun | 44 | 8| 
-| 20210706T12:15:58Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
-| 20210706T12:02:08Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210706T11:58:37Z | Null | https://github.com/lacygoill/vim-fuzzy | 0 | 1| 
-| 20210706T11:32:10Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
-| 20210706T11:26:52Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3583 | 837| 
+| 20210706T23:54:42Z | These tests of libdwarf/dwarfdump include old object files, new ones, and many fuzzed object files. These are the definitive tests that things work.. Most people have no reason to run these tests. | https://github.com/davea42/libdwarf-regressiontests | 0 | 0| 
+| 20210706T23:31:49Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 288 | 39| 
+| 20210706T23:27:22Z | Chip tools, primarily around security fuzzing (laser, EM, UV, etc) | https://github.com/JohnDMcMaster/icfuzz | 4 | 1| 
+| 20210706T23:11:17Z | Null | https://github.com/francnascimento/FuzzyRadialBasisFunction | 0 | 0| 
+| 20210706T22:53:29Z | BCC script to add watermarked student names to their photo for %Warm Fuzzy% folders at camp | https://github.com/danieltmc/warm-fuzzies | 0 | 0| 
+| 20210706T22:23:38Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3584 | 837| 
+| 20210706T21:58:59Z | Code | https://github.com/ahamedkd1998/fuzzy-funicular | 0 | 0| 
+| 20210706T21:53:07Z | Practice repository for binary exploitation and fuzzing | https://github.com/RickdeJager/binexp-practice | 0 | 0| 
+| 20210706T21:35:16Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20210706T21:27:19Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
 
 
 
