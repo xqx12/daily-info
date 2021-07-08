@@ -14,6 +14,8 @@
 | 20210707 | M6 健身手环的逆向分析 | https://rbaron.net/blog/2021/07/06/Reverse-engineering-the-M6-smart-fitness-band.html| 
 | 20210707 | Exploiting Less.js to Achieve RCE | https://www.softwaresecured.com/exploiting-less-js/| 
 | 20210707 | 微软发布 Windows 例外补丁，修复近期的 Print Spooler RCE 漏洞（CVE-2021-34527） | https://msrc-blog.microsoft.com/2021/07/06/out-of-band-oob-security-update-available-for-cve-2021-34527/| 
+| 20210707 | 如何在iOS 平台上使用TestFlight测试 App应用软件 | https://testflight.apple.com/join/JkU2rh21| 
+| 20210707 | 使用 ZoomEye dork 进行数据挖掘 | https://paper.seebug.org/1629/| 
 | 20210706 | 由于 .NET Core RCE 漏洞，微软敦促 Azure 用户尽快升级 PowerShell | https://thehackernews.com/2021/07/microsoft-urges-azure-users-to-update.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+TheHackersNews+%28The+Hackers+News+-+Cyber+Security+Blog%29| 
 | 20210706 | Realtek WiFi Firmware and a Fully 8051-based Keylogger Using RealWOW Technology | https://8051enthusiast.github.io/2021/07/05/002-wifi_fun.html| 
 | 20210706 | BlackDex - Android APK 脱壳工具，支持 Android 5.0~12 版本 | https://github.com/CodingGay/BlackDex| 
@@ -24,8 +26,6 @@
 | 20210706 | Securepoint SSL VPN Client 2.0.30 本地提权漏洞分析 | https://bogner.sh/2021/06/local-privilege-escalation-in-securepoint-ssl-vpn-client-2-0-30/| 
 | 20210706 | iPhone密码离线破解新版Hashcat插件演示。 | https://asciinema.org/a/423718| 
 | 20210706 | 智能电视漏洞挖掘初探之寻找工程模式热键 | https://delikely.github.io/2021/05/15/%E6%99%BA%E8%83%BD%E7%94%B5%E8%A7%86%E6%BC%8F%E6%B4%9E%E6%8C%96%E6%8E%98%E5%88%9D%E6%8E%A2%E4%B9%8B%E5%AF%BB%E6%89%BE%E5%B7%A5%E7%A8%8B%E6%A8%A1%E5%BC%8F%E7%83%AD%E9%94%AE/| 
-| 20210705 | Bypassing macOS TCC User Privacy Protections By Accident and Design | https://labs.sentinelone.com/bypassing-macos-tcc-user-privacy-protections-by-accident-and-design/| 
-| 20210705 | Pacu - 一款开源的针对 AWS Web 服务的漏洞利用框架 | https://github.com/RhinoSecurityLabs/pacu| 
 
 
 # 安全维基 推荐
@@ -46,31 +46,31 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210707T12:55:02Z | CVE-2021-3493 | CVE-2021-3493 Ubuntu OverlayFS Local Privesc | https://github.com/inspiringz/CVE-2021-3493 | The overlayfs implementation in the linux kernel did not properly validate with respect to user namespaces the setting of file capabilities on files in an underlying file system. Due to the combination of unprivileged user namespaces along with a patch carried in the Ubuntu kernel to allow unprivileged overlay mounts, an attacker could use this to gain elevated privileges.| 
-| 20210707T12:35:49Z | CVE-2021-1675 | Pure PowerShell implementation of CVE-2021-1675 Print Spooler Local Privilege Escalation (PrintNightmare) | https://github.com/calebstewart/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
+| 20210707T22:46:23Z | CVE-2021-1675 | CVE-2021-1675 Detection Info | https://github.com/LaresLLC/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
+| 20210707T22:30:20Z | CVE-2021-1675 | Pure PowerShell implementation of CVE-2021-1675 Print Spooler Local Privilege Escalation (PrintNightmare) | https://github.com/calebstewart/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
+| 20210707T21:17:03Z | CVE-2020-11651 | CVE-2020-11651: Proof of Concept | https://github.com/0xc0d/CVE-2020-11651 | An issue was discovered in SaltStack Salt before 2019.2.4 and 3000 before 3000.2. The salt-master process ClearFuncs class does not properly validate method calls. This allows a remote user to access some methods without authentication. These methods can be used to retrieve user tokens from the salt master and/or run arbitrary commands on salt minions.| 
+| 20210707T21:04:44Z | CVE-2021-1675 | Local Privilege Escalation Edition for CVE-2021-1675 | https://github.com/hlldz/CVE-2021-1675-LPE | Windows Print Spooler Elevation of Privilege Vulnerability| 
+| 20210707T17:18:09Z | CVE-2021-34527 | This simple PowerShell script is in response to the "PrintNightmare" vulnerability. This was designed to give a end user the ability to stop and disable the "Print Spooler" service on their computer while awaiting a fix from Microsoft. | https://github.com/geekbrett/CVE-2021-34527-PrintNightmare-Workaround | Windows Print Spooler Remote Code Execution Vulnerability| 
+| 20210707T15:50:22Z | CVE-2021-1675 | Null | https://github.com/corelight/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
+| 20210707T13:34:12Z | CVE-2021-34527 | Disable remote sessions to print spooler withtout disabling the print spooler service  | https://github.com/officedrone/CVE-2021-34527-workaround | Windows Print Spooler Remote Code Execution Vulnerability| 
+| 20210707T13:05:30Z | CVE-2021-3493 | CVE-2021-3493 Ubuntu OverlayFS Local Privesc (Interactive Bash Shell & Execute Command Entered) | https://github.com/inspiringz/CVE-2021-3493 | The overlayfs implementation in the linux kernel did not properly validate with respect to user namespaces the setting of file capabilities on files in an underlying file system. Due to the combination of unprivileged user namespaces along with a patch carried in the Ubuntu kernel to allow unprivileged overlay mounts, an attacker could use this to gain elevated privileges.| 
 | 20210707T11:57:50Z | CVE-2021-1675 | C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527 | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210707T11:45:58Z | CVE-2020-7378 | Exploits Password Reset Vulnerability in OpenCRX, CVE-2020-7378. Also maintains Stealth by deleting all the password reset mails created by the script | https://github.com/ruthvikvegunta/openCRX-CVE-2020-7378 | CRIXP OpenCRX version 4.30 and 5.0-20200717 and prior suffers from an unverified password change vulnerability. An attacker who is able to connect to the affected OpenCRX instance can change the password of any user, including admin-Standard, to any chosen value. This issue was resolved in version 5.0-20200904, released September 4, 2020.| 
-| 20210707T11:00:02Z | CVE-2021-37152 | Exploit Accsess network clients by sending packets in wirless TP-LINK and preparing for a mitm attack | https://github.com/lhashashinl/CVE-2021-37152 | 未查询到CVE信息| 
-| 20210707T10:00:34Z | CVE-2021-34527 | How to fix the PrintNightmare vulnerability | https://github.com/powershellpr0mpt/PrintNightmare-CVE-2021-34527 | | 
-| 20210707T07:27:17Z | CVE-2021-1675 | Local Privilege Escalation Edition for CVE-2021-1675 | https://github.com/hlldz/CVE-2021-1675-LPE | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210707T06:47:16Z | CVE-2021-34527 | Simple batch script to disable the Microsoft Print Spooler service from system | https://github.com/vinaysudheer/Disable-Spooler-Service-PrintNightmare-CVE-2021-34527 | Windows Print Spooler Remote Code Execution Vulnerability| 
-| 20210707T04:44:08Z | CVE-2020-14321 | Python script to exploit CVE-2020-14321 - Course enrolments allowed privilege escalation from teacher role into manager role to RCE. | https://github.com/lanzt/CVE-2020-14321 | 未查询到CVE信息| 
-| 20210706T22:24:39Z | CVE-2021-1675 | CVE-2021-1675 Detection Info | https://github.com/LaresLLC/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
+| 20210707T11:45:58Z | CVE-2020-7378 | Exploits Password Reset Vulnerability in OpenCRX, CVE-2020-7378. Also maintains Stealth by deleting all the password reset mails created by the script | https://github.com/ruthvikvegunta/openCRX-CVE-2020-7378 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210707T12:47:16Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 699 | 16| 
+| 20210707T23:17:12Z | Null | https://github.com/thierry-tct/KLEE-SEMu | 3 | 2| 
+| 20210707T22:30:33Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
+| 20210707T17:01:12Z | TInA is an automated, generic, verification-friendly and trustworthy lifting technique turning GNU-style inline assembly into semantically equivalent C code amenable to verification, in order to take advantage of existing C analyzers. | https://github.com/binsec/klee21-tina-artifact | 21 | 1| 
+| 20210707T15:43:03Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 10 | 1| 
+| 20210707T13:23:36Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 700 | 16| 
+| 20210707T13:14:58Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 215 | 35| 
 | 20210707T01:56:24Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 140 | 21| 
 | 20210706T22:47:48Z | Null | https://github.com/JaimePSantos/ResearchKlee | 0 | 0| 
 | 20210706T21:41:15Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 154 | 14| 
 | 20210706T13:54:09Z | Config files for my GitHub profile. | https://github.com/kleeJH/kleeJH | 0 | 0| 
-| 20210706T12:02:35Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
-| 20210706T09:29:12Z | Null | https://github.com/Chiyukichan/klee_file | 0 | 0| 
-| 20210705T06:00:26Z | Null | https://github.com/fontworks-fonts/Klee | 464 | 13| 
-| 20210702T07:40:01Z | Docker repo for llvm-klee | https://github.com/joeyjiaojg/llvm-klee | 0 | 0| 
-| 20210702T06:51:42Z | Config files for my GitHub profile. | https://github.com/kleer12/kleer12 | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -85,31 +85,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210707T12:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9676 | 1589| 
-| 20210707T12:06:42Z | New exploit for Roblox... | https://github.com/NinjaSploit-Official/Ninja_Sploit | 0 | 0| 
-| 20210707T12:02:58Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 26 | 12| 
-| 20210707T11:43:42Z | Practice repository for binary exploitation and fuzzing | https://github.com/RickdeJager/binexp-practice | 0 | 0| 
-| 20210707T11:40:27Z | This script search for the bin on the https://gtfobins.github.io/ for the SUID exploit and returns the bins that have exploit available on gtfobins. So you don%t need to manually search for every file on the site. | https://github.com/abhisheksuran/GTFObins_finder | 0 | 0| 
-| 20210707T11:08:13Z | Authenticated file uploade exploit in osCommerce 2.3.4 | https://github.com/Cinnamon1212/osCommerce-2.3.4-Arbitrary-File-Upload | 0 | 0| 
-| 20210707T11:07:27Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1193 | 564| 
-| 20210707T11:00:02Z | Exploit Accsess network clients by sending packets in wirless TP-LINK and preparing for a mitm attack | https://github.com/lhashashinl/CVE-2021-37152 | 4 | 0| 
-| 20210707T10:50:46Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 76 | 13| 
-| 20210707T10:27:42Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 71 | 25| 
+| 20210707T23:48:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9678 | 1589| 
+| 20210707T23:25:37Z | OSINT, Threat Hunting, Network and Web Recon, Discovery, Enumeration, Vulnerability Mapping, Exploitation, Reporting | https://github.com/aryanguenthner/365 | 8 | 4| 
+| 20210707T23:04:57Z | A modern exploiting solution, built for Roblox and Rojo | https://github.com/richie0866/Rostruct | 3 | 1| 
+| 20210707T23:02:53Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 26 | 12| 
+| 20210707T22:51:11Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
+| 20210707T22:49:43Z | Agent-Based Modelling of labour exploitation in textile supply chains | https://github.com/kwabenantim/textile-labour | 1 | 0| 
+| 20210707T22:20:56Z | Practice repository for binary exploitation and fuzzing | https://github.com/RickdeJager/binexp-practice | 0 | 0| 
+| 20210707T21:12:02Z | Real-time tracking of major events on Twitter for image exploitation | https://github.com/Kiza31/Travail-de-master | 0 | 0| 
+| 20210707T21:11:49Z | A spigot based plugin dedicated to fixing glitches and exploits that have made it into final Minecraft releases. | https://github.com/dniym/IllegalStack | 60 | 21| 
+| 20210707T20:56:35Z | A number of scripts POC%s and problems solved as pentests move along.  | https://github.com/alienwithin/Scripts-Sploits | 34 | 21| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210707T22:59:46Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1195 | 565| 
+| 20210707T22:39:01Z | A collection of python written hacking tools consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester credential harvester, keylogger, download&execute, and reverse_backdoor. | https://github.com/dmdhrumilmistry/hacking_tools | 0 | 0| 
+| 20210707T21:22:03Z | Null | https://github.com/Mikel0de0n/Simple-Backdoor-made-in-python | 2 | 0| 
+| 20210707T20:31:12Z | The website for the Doorcrete security concept. | https://github.com/Doorcrete/Doorcrete.github.io | 2 | 6| 
+| 20210707T20:26:51Z | A papermc plugin that allows code execution without any permissions on the server for selected users. | https://github.com/TheSaltyBoys/backdoor-v4 | 1 | 1| 
+| 20210707T18:07:11Z | Null | https://github.com/Pramodh-G/MalwareBackdoors | 0 | 0| 
+| 20210707T13:02:35Z | A Python module for building botnet ,backdoor or trojan with Telegram control panel | https://github.com/onionj/pybotnet | 3 | 2| 
 | 20210707T12:37:35Z | vmware-backdoor | https://github.com/rtyuiow/vmware-backdoor | 0 | 0| 
-| 20210707T12:18:46Z | A collection of python written hacking tools consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester credential harvester, keylogger, download&execute, and reverse_backdoor. | https://github.com/dmdhrumilmistry/hacking_tools | 0 | 0| 
-| 20210707T11:07:27Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1193 | 564| 
 | 20210707T10:26:59Z | Paranoid is a web interface and dashboard, configured for managing HatSploit sessions via built-in REST API. | https://github.com/EntySec/Paranoid | 2 | 1| 
 | 20210707T10:25:59Z | Implementation of a native-code HatSploit membrane for unix-like systems, designed for portability, embeddability, and low resource utilization. | https://github.com/EntySec/membrane | 4 | 2| 
-| 20210707T09:49:03Z | PyBack - Backdoor in Python - Reverse TCP | https://github.com/Omikrone/PyBack | 2 | 0| 
-| 20210707T07:08:41Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 83 | 14| 
-| 20210707T06:12:52Z | This software technically acts as a backdoor, but all I use it for is to annoy my brother. :) It uses C#%s socket tools in order to listen and connect to a TCP connection, and when connected send a variety of commands. | https://github.com/lucadenhez/EasyDoor | 0 | 0| 
-| 20210707T02:14:44Z | Simple Python Backdoor | https://github.com/zNairy/Sonaris | 6 | 0| 
-| 20210707T01:06:49Z | Null | https://github.com/Mikel0de0n/Simple-Backdoor-made-in-python | 2 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -138,16 +138,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210707T12:58:19Z | This is a tool for fuzzing XSS vulnerabilities based on genetic algorithm. | https://github.com/Timofey21/darlene | 4 | 0| 
-| 20210707T12:56:16Z | Null | https://github.com/arpanghosh130883/Fuzzy_Name_Match | 0 | 0| 
-| 20210707T12:54:24Z | A ground-truth binary fuzzing benchmark suite based on real programs with real bugs. | https://github.com/HexHive/magma | 109 | 36| 
-| 20210707T12:53:09Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210707T12:35:55Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3583 | 838| 
-| 20210707T12:34:35Z | A patched QEMU that exposes an interface for LibAFL-based fuzzers | https://github.com/AFLplusplus/qemu-libafl-bridge | 16 | 2| 
-| 20210707T12:19:04Z | Fuzzinator Random Testing Framework | https://github.com/renatahodovan/fuzzinator | 177 | 38| 
-| 20210707T12:15:14Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 18 | 7| 
-| 20210707T12:06:01Z | Scripts for a variety of different situations. | https://github.com/pvital/fuzzy-spice | 0 | 0| 
-| 20210707T11:47:57Z | A simple web fuzzer written in python | https://github.com/dpauk/fuzzy_penguin | 0 | 0| 
+| 20210707T23:11:49Z | A collection of algorithms for fuzzy search like in Sublime Text. | https://github.com/tajmone/fuzzy-search | 27 | 3| 
+| 20210707T22:50:22Z | Null | https://github.com/aegniss/FUZZY-PID | 1 | 1| 
+| 20210707T22:46:54Z | A ground-truth binary fuzzing benchmark suite based on real programs with real bugs. | https://github.com/HexHive/magma | 110 | 36| 
+| 20210707T22:38:47Z | Config files for my GitHub profile. | https://github.com/SupaFuzz/SupaFuzz | 0 | 0| 
+| 20210707T22:35:12Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20210707T22:34:37Z | Null | https://github.com/hasnain-s/fuzzersss | 0 | 0| 
+| 20210707T22:20:56Z | Practice repository for binary exploitation and fuzzing | https://github.com/RickdeJager/binexp-practice | 0 | 0| 
+| 20210707T22:10:42Z | Null | https://github.com/GabrielNakamura/Autoregressive-fuzzy-model | 0 | 0| 
+| 20210707T21:58:27Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2354 | 130| 
+| 20210707T21:34:23Z | Implementacija algoritama fuzzy klasterovanja, njihova primena na odredjenim skupovima podataka i uporedjivanje sa drugim algoritmima klasterovanja. | https://github.com/markobabic8/Fuzzy-clustering | 0 | 1| 
 
 
 
