@@ -85,6 +85,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210708T01:36:30Z | 一些小工具。 | https://github.com/xwuyi/xtools | 1 | 0| 
+| 20210708T01:31:35Z | Some experimental exploits, just for research and fun | https://github.com/c4dr01d/experiment-exploit | 0 | 0| 
 | 20210708T01:20:46Z | Hacking, Reverse Engineering(Malware Analysis) and Exploit Development | https://github.com/7248510/Research | 0 | 0| 
 | 20210708T01:06:18Z | ShiroExploit 是一款 Shiro 可视化利用工具，集成密钥爆破，命令回显内存马注入等功能 | https://github.com/KpLi0rn/ShiroExploit | 32 | 0| 
 | 20210708T01:04:39Z | Flask Exploit for ROBLOX | https://github.com/FlaskExploits/Flask-Update-Patch | 0 | 0| 
@@ -93,8 +95,6 @@
 | 20210708T00:48:21Z | Exploit to allow loading arbitrary code on the PSX using only a memory card (no game needed) | https://github.com/brad-lin/FreePSXBoot | 250 | 18| 
 | 20210708T00:46:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9679 | 1589| 
 | 20210708T00:18:34Z | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | 1458 | 512| 
-| 20210707T23:25:37Z | OSINT, Threat Hunting, Network and Web Recon, Discovery, Enumeration, Vulnerability Mapping, Exploitation, Reporting | https://github.com/aryanguenthner/365 | 8 | 4| 
-| 20210707T23:04:57Z | A modern exploiting solution, built for Roblox and Rojo | https://github.com/richie0866/Rostruct | 3 | 1| 
 
 
 # backdoor on Github 推荐
