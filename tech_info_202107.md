@@ -140,7 +140,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210708T12:25:51Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
+| 20210708T12:38:36Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210708T12:23:56Z | This repository is for the artifact evaluation of ASE %21 paper % Understanding and Detecting Performance Bugs in Markdown Compilers%. | https://github.com/peng-hui/ASE21-MdPerfFuzz-Artifact | 0 | 0| 
 | 20210708T12:16:21Z | Null | https://github.com/Ysjdbakdn/fuzzy-telegram | 0 | 0| 
 | 20210708T12:15:14Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 18 | 7| 
