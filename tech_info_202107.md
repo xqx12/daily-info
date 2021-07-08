@@ -6,6 +6,15 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210708 | Cisco Talos 对 InSideCopy APT 组织的分析报告 | https://blog.talosintelligence.com/2021/07/sidecopy.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+feedburner%2FTalos+%28Talos%E2%84%A2+Blog%29| 
+| 20210708 | 百度开源的 Titan-Dex字节码操作框架，可以在二进制格式下实现修改已有的类，或者动态生成新的类 | https://github.com/baidu/titan-dex| 
+| 20210708 | RiskScanner 开源多云安全合规扫描平台 | https://github.com/riskscanner/riskscanner| 
+| 20210708 | 区块链安全相关的安全事件整理 | https://github.com/openblocksec/blocksec-incidents| 
+| 20210708 | 西部数据 MyCloud 网络存储存在 RCE 漏洞 | https://krebsonsecurity.com/2021/07/another-0-day-looms-for-many-western-digital-users/| 
+| 20210708 | NCCGroup 对 Fault Injection（Glitching）攻击技术的分析 | https://research.nccgroup.com/2021/07/07/an-introduction-to-fault-injection-part-1-3/| 
+| 20210708 | 利用多款开源库真实漏洞实现 Fuzzing benchmark 的套件 | http://github.com/HexHive/magma| 
+| 20210708 | 企业管理 ERP 系统 Sage X3 高危漏洞的分析 | https://www.rapid7.com/blog/post/2021/07/07/cve-2020-7387-7390-multiple-sage-x3-vulnerabilities/| 
+| 20210708 | Issue 2189: mpengine: asprotect embedded runtime dll memory corruption | https://bugs.chromium.org/p/project-zero/issues/detail?id=2189| 
 | 20210707 | RdpCacheStitcher - 从 RDP 缓存位图中重建图像用于取证分析的工具 | https://github.com/BSI-Bund/RdpCacheStitcher| 
 | 20210707 | PrintNightmare 打印机漏洞的 Python 版本扫描器 | https://github.com/byt3bl33d3r/ItWasAllADream| 
 | 20210707 | 因使用当前时间作为随机数，Kaspersky 密码管理器生成的密码被发现可以在数秒内被爆破 | https://donjon.ledger.com/kaspersky-password-manager/| 
@@ -17,20 +26,14 @@
 | 20210707 | 如何在iOS 平台上使用TestFlight测试 App应用软件 | https://testflight.apple.com/join/JkU2rh21| 
 | 20210707 | 使用 ZoomEye dork 进行数据挖掘 | https://paper.seebug.org/1629/| 
 | 20210706 | 由于 .NET Core RCE 漏洞，微软敦促 Azure 用户尽快升级 PowerShell | https://thehackernews.com/2021/07/microsoft-urges-azure-users-to-update.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+TheHackersNews+%28The+Hackers+News+-+Cyber+Security+Blog%29| 
-| 20210706 | Realtek WiFi Firmware and a Fully 8051-based Keylogger Using RealWOW Technology | https://8051enthusiast.github.io/2021/07/05/002-wifi_fun.html| 
-| 20210706 | BlackDex - Android APK 脱壳工具，支持 Android 5.0~12 版本 | https://github.com/CodingGay/BlackDex| 
-| 20210706 | 香山 - 香山是一款开源的高性能 RISC-V 处理器。采用 Chisel 硬件设计语言开发，支持 RV64GC 指令集。 | https://github.com/OpenXiangShan/XiangShan/blob/master/readme.zh-cn.md| 
-| 20210706 | NCC Group 团队整理的漏洞利用缓解措施的知识库，目前已整理主流操作系统以及多款浏览器的 Mitigations | https://github.com/nccgroup/exploit_mitigations| 
-| 20210706 | 利用 Zoom 会议软件的 0Day 实施红队渗透测试 | https://medium.com/manomano-tech/a-red-team-operation-leveraging-a-zero-day-vulnerability-in-zoom-80f57fb0822e| 
-| 20210706 | FalconEye - 一款实时检测 Windows 进程注入行为的工具，支持对反射 DLL 加载、Process Hollowing等多种注入方法的检测 | https://github.com/rajiv2790/FalconEye| 
-| 20210706 | Securepoint SSL VPN Client 2.0.30 本地提权漏洞分析 | https://bogner.sh/2021/06/local-privilege-escalation-in-securepoint-ssl-vpn-client-2-0-30/| 
-| 20210706 | iPhone密码离线破解新版Hashcat插件演示。 | https://asciinema.org/a/423718| 
-| 20210706 | 智能电视漏洞挖掘初探之寻找工程模式热键 | https://delikely.github.io/2021/05/15/%E6%99%BA%E8%83%BD%E7%94%B5%E8%A7%86%E6%BC%8F%E6%B4%9E%E6%8C%96%E6%8E%98%E5%88%9D%E6%8E%A2%E4%B9%8B%E5%AF%BB%E6%89%BE%E5%B7%A5%E7%A8%8B%E6%A8%A1%E5%BC%8F%E7%83%AD%E9%94%AE/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210708 | 工业企业工控安全人才矩阵 | https://mp.weixin.qq.com/s/pqGa10MzKYob0MQgxHOkhA| 
+| 20210708 | 关于 Kerberos 每个人都应该知道这些 | https://mp.weixin.qq.com/s/gLg0pdVRWl3hJMB5au61rw| 
+| 20210708 | SHELLPUB 河马查杀服务端升级维护公告 | https://mp.weixin.qq.com/s/bb0p5-jIzYfs0KQRvw2VUg| 
 | 20210706 | 从0到1建设物联网安全实验室之设备篇 | https://mp.weixin.qq.com/s/iyoK3bQQLq6Rhxgebt4VBA| 
 | 20210706 | 离职期员工的信息安全管控实践 | https://mp.weixin.qq.com/s/hIIyFbx562WREErC9Ygw0Q| 
 | 20210706 | Libra: 网站篡改、暗链、死链监测平台 | https://github.com/rabbitmask/Libra| 
@@ -38,34 +41,31 @@
 | 20210705 | Java方法完整调用链生成工具 | https://blog.csdn.net/a82514921/article/details/118472681| 
 | 20210705 | 2021年⼯业信息安全技能⼤赛-线上第⼀场WriteUp | https://mp.weixin.qq.com/s/DFJaILmNxTl1EAyksqQZ9w| 
 | 20210704 | 编程语言测试综述 | https://mp.weixin.qq.com/s/HsSTwWdWzfHuXHdbgXXIeQ| 
-| 20210703 | 越权检测系统从零开发之-Chrome插件开发 | https://www.anquanke.com/post/id/245292| 
-| 20210702 | 网络空间测绘专题——资产地址动态变化研究 | https://mp.weixin.qq.com/s/Fh93JLtMQa9Qxp_xqEj3zg| 
-| 20210702 | 常规智能设备动态调试思路 | https://mp.weixin.qq.com/s/E6R-39_UHxXPw4qxuIqNmA| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210708T01:49:38Z | CVE-2021-34527 | Mitigation for CVE-2021-34527 via settings WRITE ACLs - Setting Modify Deny ACLs should NOT be done as it causes read issues as well | https://github.com/WidespreadPandemic/CVE-2021-34527_ACL_mitigation | Windows Print Spooler Remote Code Execution Vulnerability| 
+| 20210708T11:17:10Z | CVE-2021-37152 | Exploit Accsess network clients by sending packets in wirless TP-LINK and preparing for a mitm attack | https://github.com/lhashashinl/CVE-2021-37152 | 未查询到CVE信息| 
+| 20210708T11:10:39Z | CVE-2021-1675 | C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527 | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
+| 20210708T10:36:43Z | CVE-2021-21985 | Null | https://github.com/haiclover/CVE-2021-21985 | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
+| 20210708T10:14:15Z | CVE-2021-525 | Dlink credentials decryption tool poc | https://github.com/full-disclosure/FDEU-CVE-2021-525A | 未查询到CVE信息| 
+| 20210708T07:16:25Z | CVE-2021-1675 | CVE-2021-1675 Detection Info | https://github.com/LaresLLC/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
+| 20210708T02:46:52Z | CVE-2021-34527 | Mitigation for CVE-2021-34527 RCE by setting WRITE ACLs | https://github.com/WidespreadPandemic/CVE-2021-34527_ACL_mitigation | Windows Print Spooler Remote Code Execution Vulnerability| 
 | 20210708T01:49:15Z | CVE-2021-34527 | Mitigation for CVE-2021-34527 via settings WRITE ACLs - Setting Modify Deny ACLs should NOT be done as it causes read issues as well | https://github.com/WidespreadPandemic/CVE-2021-34527_mitigation | Windows Print Spooler Remote Code Execution Vulnerability| 
 | 20210708T01:44:56Z | CVE-2020-22222 | CVE test | https://github.com/arch3rPro/CVE-2020-22222 | 未查询到CVE信息| 
 | 20210708T01:37:44Z | CVE-2020-1956 | CVE-2020-1956 | https://github.com/b510/CVE-2020-1956 | Apache Kylin 2.3.0, and releases up to 2.6.5 and 3.0.1 has some restful apis which will concatenate os command with the user input string, a user is likely to be able to execute any os command without any protection or validation.| 
 | 20210708T00:56:13Z | CVE-2021-1675 | Local Privilege Escalation Edition for CVE-2021-1675 | https://github.com/hlldz/CVE-2021-1675-LPE | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210708T00:41:57Z | CVE-2020-14343 | Experimenting with CVE-2020-14343 PyYAML vulnerability | https://github.com/raul23/pyyaml-CVE-2020-14343 | A vulnerability was discovered in the PyYAML library in versions before 5.4, where it is susceptible to arbitrary code execution when it processes untrusted YAML files through the full_load method or with the FullLoader loader. Applications that use the library to process untrusted input may be vulnerable to this flaw. This flaw allows an attacker to execute arbitrary code on the system by abusing the python/object/new constructor. This flaw is due to an incomplete fix for CVE-2020-1747.| 
-| 20210708T00:35:16Z | CVE-2021-1675 | Pure PowerShell implementation of CVE-2021-1675 Print Spooler Local Privilege Escalation (PrintNightmare) | https://github.com/calebstewart/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210707T22:46:23Z | CVE-2021-1675 | CVE-2021-1675 Detection Info | https://github.com/LaresLLC/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210707T21:17:03Z | CVE-2020-11651 | CVE-2020-11651: Proof of Concept | https://github.com/0xc0d/CVE-2020-11651 | An issue was discovered in SaltStack Salt before 2019.2.4 and 3000 before 3000.2. The salt-master process ClearFuncs class does not properly validate method calls. This allows a remote user to access some methods without authentication. These methods can be used to retrieve user tokens from the salt master and/or run arbitrary commands on salt minions.| 
-| 20210707T17:18:09Z | CVE-2021-34527 | This simple PowerShell script is in response to the "PrintNightmare" vulnerability. This was designed to give a end user the ability to stop and disable the "Print Spooler" service on their computer while awaiting a fix from Microsoft. | https://github.com/geekbrett/CVE-2021-34527-PrintNightmare-Workaround | Windows Print Spooler Remote Code Execution Vulnerability| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210708T06:19:58Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 704 | 16| 
 | 20210707T23:17:12Z | Null | https://github.com/thierry-tct/KLEE-SEMu | 3 | 2| 
 | 20210707T22:30:33Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
 | 20210707T17:01:12Z | TInA is an automated, generic, verification-friendly and trustworthy lifting technique turning GNU-style inline assembly into semantically equivalent C code amenable to verification, in order to take advantage of existing C analyzers. | https://github.com/binsec/klee21-tina-artifact | 21 | 1| 
 | 20210707T15:43:03Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 10 | 1| 
-| 20210707T13:23:36Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 700 | 16| 
 | 20210707T13:14:58Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 215 | 35| 
 | 20210707T01:56:24Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 140 | 21| 
 | 20210706T22:47:48Z | Null | https://github.com/JaimePSantos/ResearchKlee | 0 | 0| 
@@ -76,6 +76,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210708T10:18:37Z | GUI Configuration tool for WIZnet serial to ethernet devices. | https://github.com/Wiznet/WIZnet-S2E-Tool-GUI | 13 | 8| 
 | 20210705T13:24:40Z | Null | https://github.com/yuvalkirstain/s2e-coref | 6 | 2| 
 | 20210704T16:44:45Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 139 | 33| 
 | 20210703T18:52:28Z | Null | https://github.com/hichem840/s2ee | 0 | 0| 
@@ -85,16 +86,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210708T01:46:39Z | 一些小工具。 | https://github.com/xwuyi/xtools | 1 | 0| 
-| 20210708T01:45:36Z | ShiroExploit 是一款 Shiro 可视化利用工具，集成密钥爆破，命令回显内存马注入等功能 | https://github.com/KpLi0rn/ShiroExploit | 33 | 0| 
-| 20210708T01:31:35Z | Some experimental exploits, just for research and fun | https://github.com/c4dr01d/experiment-exploit | 0 | 0| 
-| 20210708T01:20:46Z | Hacking, Reverse Engineering(Malware Analysis) and Exploit Development | https://github.com/7248510/Research | 0 | 0| 
-| 20210708T01:04:39Z | Flask Exploit for ROBLOX | https://github.com/FlaskExploits/Flask-Update-Patch | 0 | 0| 
-| 20210708T01:02:56Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 26 | 12| 
-| 20210708T00:51:50Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 17 | 12| 
-| 20210708T00:48:21Z | Exploit to allow loading arbitrary code on the PSX using only a memory card (no game needed) | https://github.com/brad-lin/FreePSXBoot | 250 | 18| 
-| 20210708T00:46:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9679 | 1589| 
-| 20210708T00:18:34Z | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | 1458 | 512| 
+| 20210708T11:38:48Z | 1.12.2 continuation of Paper to patch some exploits | https://github.com/moom0o/Papaya | 5 | 3| 
+| 20210708T11:29:32Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 6221 | 1756| 
+| 20210708T11:27:06Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 76 | 13| 
+| 20210708T11:12:42Z | Exploiting Fast LCF and BERT for Aspect-based Sentiment Analysis Research | https://github.com/yangheng95/PyABSA | 114 | 21| 
+| 20210708T11:10:47Z | Printer Exploitation Toolkit - The tool that made dumpster diving obsolete. | https://github.com/RUB-NDS/PRET | 2743 | 521| 
+| 20210708T11:02:53Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 26 | 12| 
+| 20210708T10:56:54Z | Null | https://github.com/katarzynamazur/ptes-post-exploitation | 0 | 0| 
+| 20210708T10:35:12Z | Merlin is a cross-platform post-exploitation HTTP/2 Command & Control  server and agent written in golang. | https://github.com/Ne0nd0g/merlin | 3286 | 525| 
+| 20210708T10:32:02Z | Exploitation paths allowing you to (mis)use the Windows Privileges to elevate your rights within the OS. | https://github.com/gtworek/Priv2Admin | 501 | 97| 
+| 20210708T10:25:06Z | KDMapper is a simple tool that exploits iqvw64e.sys Intel driver to manually map non-signed drivers in memory | https://github.com/TheCruZ/kdmapper | 316 | 121| 
 
 
 # backdoor on Github 推荐
@@ -130,6 +131,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210708T04:52:33Z | A penetration testing tool for finding file upload bugs (NDSS 2020) | https://github.com/WSP-LAB/FUSE | 157 | 36| 
 | 20210707T02:42:39Z | Code for NDSS 2021 Paper %Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses Against Federated Learning% | https://github.com/vrt1shjwlkr/NDSS21-Model-Poisoning | 17 | 2| 
 | 20210701T12:57:09Z | Easier Way For Get PDF Of Papers On NDSS Website | https://github.com/tbbatbb/NDSS_Downloader | 0 | 0| 
 | 20210701T11:50:34Z | Auxiliary material for NDSS%20 paper: On Using Application-Layer Middlebox Protocols for Peeking Behind NAT Gateways | https://github.com/RUB-SysSec/MiddleboxProtocolStudy | 2 | 2| 
@@ -138,16 +140,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210708T01:26:46Z | Fuzzy charrs are fuzzy. | https://github.com/marenubium87/FuzzyCharr | 0 | 0| 
-| 20210708T01:16:58Z | Coverage-guided grammar aware fuzzer that uses grammar automatons | https://github.com/HexHive/Gramatron | 0 | 0| 
-| 20210708T00:54:46Z | VMI Kernel Fuzzer for Xen Project - VM forking, VMI & AFL integration demo | https://github.com/intel/kernel-fuzzer-for-xen-project | 329 | 47| 
-| 20210708T00:32:42Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6466 | 1310| 
-| 20210708T00:05:33Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 18 | 7| 
-| 20210707T23:11:49Z | A collection of algorithms for fuzzy search like in Sublime Text. | https://github.com/tajmone/fuzzy-search | 27 | 3| 
-| 20210707T22:50:22Z | Null | https://github.com/aegniss/FUZZY-PID | 1 | 1| 
-| 20210707T22:46:54Z | A ground-truth binary fuzzing benchmark suite based on real programs with real bugs. | https://github.com/HexHive/magma | 110 | 36| 
-| 20210707T22:38:47Z | Config files for my GitHub profile. | https://github.com/SupaFuzz/SupaFuzz | 0 | 0| 
-| 20210707T22:35:12Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20210708T11:58:43Z | Null | https://github.com/applepole/fuzzy-lamp | 0 | 0| 
+| 20210708T11:57:53Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
+| 20210708T11:45:20Z | Null | https://github.com/Neohajdj/fuzzy-engine | 0 | 0| 
+| 20210708T11:45:19Z | A ground-truth binary fuzzing benchmark suite based on real programs with real bugs. | https://github.com/HexHive/magma | 121 | 39| 
+| 20210708T11:42:33Z | Null | https://github.com/Ysjdbakdn/fuzzy-telegram | 0 | 0| 
+| 20210708T11:40:16Z | Null | https://github.com/Mshavfkabd/fuzzy-train | 0 | 0| 
+| 20210708T11:34:02Z | Fuzzing resources for JSC32 | https://github.com/pmatos/jsc32-fuzz | 0 | 0| 
+| 20210708T11:19:17Z | POC/ Protype of Todo list written in React and Storybook | https://github.com/doggen999/fuzzy-carnival | 0 | 0| 
+| 20210708T10:37:14Z | VMI Kernel Fuzzer for Xen Project - VM forking, VMI & AFL integration demo | https://github.com/intel/kernel-fuzzer-for-xen-project | 329 | 47| 
+| 20210708T10:30:36Z | A collection of models containing a word list and vantage-point tree for use with fuzzy-string | https://github.com/christurnbull/fuzzy-string-models | 0 | 0| 
 
 
 
