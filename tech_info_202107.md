@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210708T12:46:26Z | An SDP solver exploiting structures of clusters of constraints and low-rank of the constraint matrices. Suited for polynomial constraints | https://github.com/nanleij/Clustered-Low-Rank-SDP-solver | 0 | 0| 
 | 20210708T12:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9682 | 1590| 
 | 20210708T12:24:15Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
 | 20210708T12:08:37Z | The whole collection of Exploits developed by me (Hacker5preme) | https://github.com/Hacker5preme/Exploits | 3 | 0| 
@@ -95,7 +96,6 @@
 | 20210708T11:29:32Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 6221 | 1756| 
 | 20210708T11:27:06Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 76 | 13| 
 | 20210708T11:12:42Z | Exploiting Fast LCF and BERT for Aspect-based Sentiment Analysis Research | https://github.com/yangheng95/PyABSA | 114 | 21| 
-| 20210708T11:10:47Z | Printer Exploitation Toolkit - The tool that made dumpster diving obsolete. | https://github.com/RUB-NDS/PRET | 2743 | 521| 
 
 
 # backdoor on Github 推荐
