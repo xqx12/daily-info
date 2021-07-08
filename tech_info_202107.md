@@ -138,6 +138,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210708T00:54:46Z | VMI Kernel Fuzzer for Xen Project - VM forking, VMI & AFL integration demo | https://github.com/intel/kernel-fuzzer-for-xen-project | 329 | 47| 
 | 20210708T00:32:42Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6466 | 1310| 
 | 20210708T00:05:33Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 18 | 7| 
 | 20210707T23:11:49Z | A collection of algorithms for fuzzy search like in Sublime Text. | https://github.com/tajmone/fuzzy-search | 27 | 3| 
@@ -147,7 +148,6 @@
 | 20210707T22:35:12Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210707T22:34:37Z | Null | https://github.com/hasnain-s/fuzzersss | 0 | 0| 
 | 20210707T22:20:56Z | Practice repository for binary exploitation and fuzzing | https://github.com/RickdeJager/binexp-practice | 0 | 0| 
-| 20210707T22:10:42Z | Null | https://github.com/GabrielNakamura/Autoregressive-fuzzy-model | 0 | 0| 
 
 
 
