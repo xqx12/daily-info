@@ -140,13 +140,13 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210708T12:13:42Z | Null | https://github.com/Mshavfkabd/fuzzy-train | 0 | 0| 
 | 20210708T12:11:55Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210708T12:06:30Z | This repository is for the artifact evaluation of ASE %21 paper #66, titled: Understanding and Detecting Performance Bugs in Markdown Compilers. | https://github.com/peng-hui/ASE21-MdPerfFuzz-Artifact | 0 | 0| 
 | 20210708T11:58:43Z | Null | https://github.com/applepole/fuzzy-lamp | 0 | 0| 
 | 20210708T11:45:20Z | Null | https://github.com/Neohajdj/fuzzy-engine | 0 | 0| 
 | 20210708T11:45:19Z | A ground-truth binary fuzzing benchmark suite based on real programs with real bugs. | https://github.com/HexHive/magma | 121 | 39| 
 | 20210708T11:42:33Z | Null | https://github.com/Ysjdbakdn/fuzzy-telegram | 0 | 0| 
-| 20210708T11:40:16Z | Null | https://github.com/Mshavfkabd/fuzzy-train | 0 | 0| 
 | 20210708T11:34:02Z | Fuzzing resources for JSC32 | https://github.com/pmatos/jsc32-fuzz | 0 | 0| 
 | 20210708T11:19:17Z | POC/ Protype of Todo list written in React and Storybook | https://github.com/doggen999/fuzzy-carnival | 0 | 0| 
 | 20210708T10:37:14Z | VMI Kernel Fuzzer for Xen Project - VM forking, VMI & AFL integration demo | https://github.com/intel/kernel-fuzzer-for-xen-project | 329 | 47| 
