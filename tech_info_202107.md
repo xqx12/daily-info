@@ -54,7 +54,7 @@
 | 20210708T02:46:52Z | CVE-2021-34527 | Mitigation for CVE-2021-34527 RCE by setting WRITE ACLs | https://github.com/WidespreadPandemic/CVE-2021-34527_ACL_mitigation | Windows Print Spooler Remote Code Execution Vulnerability| 
 | 20210708T01:49:15Z | CVE-2021-34527 | Mitigation for CVE-2021-34527 via settings WRITE ACLs - Setting Modify Deny ACLs should NOT be done as it causes read issues as well | https://github.com/WidespreadPandemic/CVE-2021-34527_mitigation | Windows Print Spooler Remote Code Execution Vulnerability| 
 | 20210708T01:44:56Z | CVE-2020-22222 | CVE test | https://github.com/arch3rPro/CVE-2020-22222 | 未查询到CVE信息| 
-| 20210708T01:37:44Z | CVE-2020-1956 | CVE-2020-1956 | https://github.com/b510/CVE-2020-1956 | Apache Kylin 2.3.0, and releases up to 2.6.5 and 3.0.1 has some restful apis which will concatenate os command with the user input string, a user is likely to be able to execute any os command without any protection or validation.| 
+| 20210708T01:37:44Z | CVE-2020-1956 | CVE-2020-1956 | https://github.com/b510/CVE-2020-1956 | | 
 | 20210708T00:56:13Z | CVE-2021-1675 | Local Privilege Escalation Edition for CVE-2021-1675 | https://github.com/hlldz/CVE-2021-1675-LPE | Windows Print Spooler Elevation of Privilege Vulnerability| 
 
 
@@ -86,16 +86,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210708T12:02:54Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 26 | 12| 
+| 20210708T12:01:58Z | KDMapper is a simple tool that exploits iqvw64e.sys Intel driver to manually map non-signed drivers in memory | https://github.com/TheCruZ/kdmapper | 316 | 121| 
 | 20210708T11:38:48Z | 1.12.2 continuation of Paper to patch some exploits | https://github.com/moom0o/Papaya | 5 | 3| 
 | 20210708T11:29:32Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 6221 | 1756| 
 | 20210708T11:27:06Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 76 | 13| 
 | 20210708T11:12:42Z | Exploiting Fast LCF and BERT for Aspect-based Sentiment Analysis Research | https://github.com/yangheng95/PyABSA | 114 | 21| 
 | 20210708T11:10:47Z | Printer Exploitation Toolkit - The tool that made dumpster diving obsolete. | https://github.com/RUB-NDS/PRET | 2743 | 521| 
-| 20210708T11:02:53Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 26 | 12| 
 | 20210708T10:56:54Z | Null | https://github.com/katarzynamazur/ptes-post-exploitation | 0 | 0| 
 | 20210708T10:35:12Z | Merlin is a cross-platform post-exploitation HTTP/2 Command & Control  server and agent written in golang. | https://github.com/Ne0nd0g/merlin | 3286 | 525| 
 | 20210708T10:32:02Z | Exploitation paths allowing you to (mis)use the Windows Privileges to elevate your rights within the OS. | https://github.com/gtworek/Priv2Admin | 501 | 97| 
-| 20210708T10:25:06Z | KDMapper is a simple tool that exploits iqvw64e.sys Intel driver to manually map non-signed drivers in memory | https://github.com/TheCruZ/kdmapper | 316 | 121| 
 
 
 # backdoor on Github 推荐
@@ -140,6 +140,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210708T12:02:01Z | This repository is for the artifact evaluation of ASE %21 paper #66, titled: Understanding and Detecting Performance Bugs in Markdown Compilers. | https://github.com/peng-hui/ASE21-MdPerfFuzz-Artifact | 0 | 0| 
 | 20210708T11:58:43Z | Null | https://github.com/applepole/fuzzy-lamp | 0 | 0| 
 | 20210708T11:57:53Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210708T11:45:20Z | Null | https://github.com/Neohajdj/fuzzy-engine | 0 | 0| 
@@ -149,7 +150,6 @@
 | 20210708T11:34:02Z | Fuzzing resources for JSC32 | https://github.com/pmatos/jsc32-fuzz | 0 | 0| 
 | 20210708T11:19:17Z | POC/ Protype of Todo list written in React and Storybook | https://github.com/doggen999/fuzzy-carnival | 0 | 0| 
 | 20210708T10:37:14Z | VMI Kernel Fuzzer for Xen Project - VM forking, VMI & AFL integration demo | https://github.com/intel/kernel-fuzzer-for-xen-project | 329 | 47| 
-| 20210708T10:30:36Z | A collection of models containing a word list and vantage-point tree for use with fuzzy-string | https://github.com/christurnbull/fuzzy-string-models | 0 | 0| 
 
 
 
