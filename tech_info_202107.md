@@ -140,7 +140,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210708T12:46:23Z | Snapshot-based coverage-guided windows kernel fuzzer | https://github.com/quarkslab/rewind | 0 | 0| 
+| 20210708T12:48:34Z | Snapshot-based coverage-guided windows kernel fuzzer | https://github.com/quarkslab/rewind | 0 | 0| 
+| 20210708T12:47:45Z | Fuzzing resources for JSC32 | https://github.com/pmatos/jsc32-fuzz | 0 | 0| 
 | 20210708T12:45:34Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6468 | 1311| 
 | 20210708T12:45:31Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 658 | 127| 
 | 20210708T12:44:44Z | Null | https://github.com/UnisinosContinentais/ContinentalFuzzyLibrary | 1 | 0| 
@@ -149,7 +150,6 @@
 | 20210708T12:16:21Z | Null | https://github.com/Ysjdbakdn/fuzzy-telegram | 0 | 0| 
 | 20210708T12:15:14Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 18 | 7| 
 | 20210708T12:15:11Z | Null | https://github.com/Neohajdj/fuzzy-engine | 0 | 0| 
-| 20210708T12:13:42Z | Null | https://github.com/Mshavfkabd/fuzzy-train | 0 | 0| 
 
 
 
