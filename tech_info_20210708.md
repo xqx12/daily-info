@@ -70,6 +70,13 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210708T11:27:14Z | A simple backdoor written in PHP. | https://github.com/anonymousmailroot/php-backdoor | 0 | 0| 
+| 20210708T10:16:49Z | A collection of python written hacking tools consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester credential harvester, keylogger, download&execute, and reverse_backdoor. | https://github.com/dmdhrumilmistry/hacking_tools | 0 | 0| 
+| 20210708T10:08:23Z | Paranoid is a web interface and dashboard, configured for managing HatSploit sessions via built-in REST API. | https://github.com/EntySec/Paranoid | 2 | 1| 
+| 20210708T09:57:09Z | A simple remote tool written in C#.    一个简单的c#远控 | https://github.com/qwqdanchun/DcRat | 174 | 78| 
+| 20210708T09:09:25Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1196 | 565| 
+| 20210708T07:51:09Z | Backend for our cyber security forum - %Backdoor% | https://github.com/BackdoorForum/backdoor-backend | 0 | 1| 
+| 20210708T04:55:02Z | Null | https://github.com/ph-luffy/Backdoor | 2 | 3| 
 
 
 # symbolic execution on Github 推荐
