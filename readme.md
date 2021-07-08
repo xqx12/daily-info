@@ -32,7 +32,7 @@
 | 20210708T11:17:10Z | CVE-2021-37152 | Exploit Accsess network clients by sending packets in wirless TP-LINK and preparing for a mitm attack | https://github.com/lhashashinl/CVE-2021-37152 | 未查询到CVE信息| 
 | 20210708T11:10:39Z | CVE-2021-1675 | C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527 | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210708T10:36:43Z | CVE-2021-21985 | Null | https://github.com/haiclover/CVE-2021-21985 | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
-| 20210708T07:16:25Z | CVE-2021-1675 | CVE-2021-1675 Detection Info | https://github.com/LaresLLC/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
+| 20210708T07:16:25Z | CVE-2021-1675 | CVE-2021-1675 Detection Info | https://github.com/LaresLLC/CVE-2021-1675 | | 
 | 20210708T02:46:52Z | CVE-2021-34527 | Mitigation for CVE-2021-34527 RCE by setting WRITE ACLs | https://github.com/WidespreadPandemic/CVE-2021-34527_ACL_mitigation | Windows Print Spooler Remote Code Execution Vulnerability| 
 | 20210708T01:49:15Z | CVE-2021-34527 | Mitigation for CVE-2021-34527 via settings WRITE ACLs - Setting Modify Deny ACLs should NOT be done as it causes read issues as well | https://github.com/WidespreadPandemic/CVE-2021-34527_mitigation | Windows Print Spooler Remote Code Execution Vulnerability| 
 | 20210708T01:44:56Z | CVE-2020-22222 | CVE test | https://github.com/arch3rPro/CVE-2020-22222 | 未查询到CVE信息| 
@@ -55,6 +55,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210708T12:08:37Z | The whole collection of Exploits developed by me (Hacker5preme) | https://github.com/Hacker5preme/Exploits | 3 | 0| 
 | 20210708T12:02:54Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 26 | 12| 
 | 20210708T12:01:58Z | KDMapper is a simple tool that exploits iqvw64e.sys Intel driver to manually map non-signed drivers in memory | https://github.com/TheCruZ/kdmapper | 316 | 121| 
 | 20210708T11:38:48Z | 1.12.2 continuation of Paper to patch some exploits | https://github.com/moom0o/Papaya | 5 | 3| 
@@ -64,7 +65,6 @@
 | 20210708T11:10:47Z | Printer Exploitation Toolkit - The tool that made dumpster diving obsolete. | https://github.com/RUB-NDS/PRET | 2743 | 521| 
 | 20210708T10:56:54Z | Null | https://github.com/katarzynamazur/ptes-post-exploitation | 0 | 0| 
 | 20210708T10:35:12Z | Merlin is a cross-platform post-exploitation HTTP/2 Command & Control  server and agent written in golang. | https://github.com/Ne0nd0g/merlin | 3286 | 525| 
-| 20210708T10:32:02Z | Exploitation paths allowing you to (mis)use the Windows Privileges to elevate your rights within the OS. | https://github.com/gtworek/Priv2Admin | 501 | 97| 
 
 
 # backdoor on Github 推荐
