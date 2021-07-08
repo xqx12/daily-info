@@ -33,7 +33,7 @@
 | 20210708T11:17:10Z | CVE-2021-37152 | Exploit Accsess network clients by sending packets in wirless TP-LINK and preparing for a mitm attack | https://github.com/lhashashinl/CVE-2021-37152 | 未查询到CVE信息| 
 | 20210708T10:36:43Z | CVE-2021-21985 | Null | https://github.com/haiclover/CVE-2021-21985 | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
 | 20210708T07:16:25Z | CVE-2021-1675 | CVE-2021-1675 Detection Info | https://github.com/LaresLLC/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210708T02:46:52Z | CVE-2021-34527 | Mitigation for CVE-2021-34527 RCE by setting WRITE ACLs | https://github.com/WidespreadPandemic/CVE-2021-34527_ACL_mitigation | | 
+| 20210708T02:46:52Z | CVE-2021-34527 | Mitigation for CVE-2021-34527 RCE by setting WRITE ACLs | https://github.com/WidespreadPandemic/CVE-2021-34527_ACL_mitigation | Windows Print Spooler Remote Code Execution Vulnerability| 
 | 20210708T01:49:15Z | CVE-2021-34527 | Mitigation for CVE-2021-34527 via settings WRITE ACLs - Setting Modify Deny ACLs should NOT be done as it causes read issues as well | https://github.com/WidespreadPandemic/CVE-2021-34527_mitigation | Windows Print Spooler Remote Code Execution Vulnerability| 
 | 20210708T01:44:56Z | CVE-2020-22222 | CVE test | https://github.com/arch3rPro/CVE-2020-22222 | 未查询到CVE信息| 
 | 20210708T01:37:44Z | CVE-2020-1956 | CVE-2020-1956 | https://github.com/b510/CVE-2020-1956 | Apache Kylin 2.3.0, and releases up to 2.6.5 and 3.0.1 has some restful apis which will concatenate os command with the user input string, a user is likely to be able to execute any os command without any protection or validation.| 
@@ -97,16 +97,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210708T12:57:18Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1872 | 377| 
+| 20210708T12:54:04Z | A fuzzer that generates random Go programs | https://github.com/ALTree/microsmith | 11 | 0| 
+| 20210708T12:53:56Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210708T12:48:34Z | Snapshot-based coverage-guided windows kernel fuzzer | https://github.com/quarkslab/rewind | 0 | 0| 
 | 20210708T12:47:45Z | Fuzzing resources for JSC32 | https://github.com/pmatos/jsc32-fuzz | 0 | 0| 
 | 20210708T12:45:34Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6468 | 1311| 
 | 20210708T12:45:31Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 658 | 127| 
 | 20210708T12:44:44Z | Null | https://github.com/UnisinosContinentais/ContinentalFuzzyLibrary | 1 | 0| 
-| 20210708T12:39:43Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210708T12:23:56Z | This repository is for the artifact evaluation of ASE %21 paper % Understanding and Detecting Performance Bugs in Markdown Compilers%. | https://github.com/peng-hui/ASE21-MdPerfFuzz-Artifact | 0 | 0| 
 | 20210708T12:16:21Z | Null | https://github.com/Ysjdbakdn/fuzzy-telegram | 0 | 0| 
-| 20210708T12:15:14Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 18 | 7| 
-| 20210708T12:15:11Z | Null | https://github.com/Neohajdj/fuzzy-engine | 0 | 0| 
 
 
 
