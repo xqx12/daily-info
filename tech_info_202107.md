@@ -140,7 +140,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210709T01:43:30Z | Null | https://github.com/MyronTraps/fuzzy | 0 | 0| 
+| 20210709T01:50:46Z | Null | https://github.com/MyronTraps/fuzzy | 0 | 0| 
 | 20210709T01:26:53Z | Null | https://github.com/epsonik/FuzzyDesc | 0 | 0| 
 | 20210709T00:50:36Z | Ongoing development of the Fuzzball MUCK server software and associated functionality. | https://github.com/fuzzball-muck/fuzzball | 34 | 23| 
 | 20210709T00:25:19Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2353 | 130| 
