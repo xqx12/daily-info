@@ -99,6 +99,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210709T12:31:57Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1874 | 377| 
 | 20210709T12:22:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6471 | 1312| 
 | 20210709T12:19:29Z | DDRFuzz is a fuzzing system based on a seq2seq model to generate valuable seed corpus. | https://github.com/kppw99/ddrfuzz | 2 | 1| 
 | 20210709T12:18:49Z | fuzzy search for text matching | https://github.com/Hipkevin/fuzzySearch | 0 | 0| 
@@ -108,7 +109,6 @@
 | 20210709T12:02:43Z | Null | https://github.com/JackGrence/FuzzInspector | 2 | 0| 
 | 20210709T11:50:50Z | Fuzzing resources for JSC32 | https://github.com/pmatos/jsc32-fuzz | 0 | 0| 
 | 20210709T11:40:15Z | Null | https://github.com/pushkar7/Fuzzy-ADSR | 0 | 0| 
-| 20210709T11:31:11Z | Null | https://github.com/LucasRizzo/fuzzy_trust | 0 | 0| 
 
 
 
