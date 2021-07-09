@@ -54,7 +54,7 @@
 | 20210709T04:39:59Z | CVE-2021-22911 | Pre-Auth Blind NoSQL Injection leading to Remote Code Execution in Rocket Chat 3.12.1 | https://github.com/CsEnox/CVE-2021-22911 | A improper input sanitization vulnerability exists in Rocket.Chat server 3.11, 3.12 & 3.13 that could lead to unauthenticated NoSQL injection, resulting potentially in RCE.| 
 | 20210709T03:54:14Z | CVE-2021-34527 | Mitigation for CVE-2021-34527 RCE by setting WRITE ACLs | https://github.com/WidespreadPandemic/CVE-2021-34527_ACL_mitigation | Windows Print Spooler Remote Code Execution Vulnerability| 
 | 20210709T02:12:35Z | CVE-2020-22222 | CVE-2020-22222 | https://github.com/arch3rPro/CVE-2020-22222 | 未查询到CVE信息| 
-| 20210709T01:48:32Z | CVE-2020-1956 | CVE-2020-1956 | https://github.com/b510/CVE-2020-1956 | Apache Kylin 2.3.0, and releases up to 2.6.5 and 3.0.1 has some restful apis which will concatenate os command with the user input string, a user is likely to be able to execute any os command without any protection or validation.| 
+| 20210709T01:48:32Z | CVE-2020-1956 | CVE-2020-1956 | https://github.com/b510/CVE-2020-1956 | | 
 | 20210708T23:42:09Z | CVE-2021-1675 | Null | https://github.com/corelight/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 
 
@@ -86,11 +86,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210709T12:02:52Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 26 | 12| 
 | 20210709T11:48:29Z | Null | https://github.com/ParagonExploit/exploit | 0 | 0| 
 | 20210709T11:35:57Z | Exploiting Fast LCF and BERT for Aspect-based Sentiment Analysis (Official Implementation of LCF-BERT) | https://github.com/yangheng95/PyABSA | 117 | 21| 
 | 20210709T11:35:33Z | Null | https://github.com/cookmini35/exploit.github.io | 0 | 0| 
 | 20210709T11:27:33Z | The project is about exploiting the heavily parallelized architecture of a GPU, using the Nvidia CUDA library, in order to calculate the autocorrelation function of a given set of data | https://github.com/Lapo9/AutocorrelationCUDA | 0 | 0| 
-| 20210709T11:02:54Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 26 | 12| 
 | 20210709T10:50:35Z | CTF竞赛权威指南 | https://github.com/firmianay/CTF-All-In-One | 2564 | 527| 
 | 20210709T10:12:33Z | Some experimental exploits, just for research and fun | https://github.com/c4dr01d/experiment-exploit | 0 | 0| 
 | 20210709T10:04:46Z | Null | https://github.com/Hmood511/NASA-Exploit | 0 | 0| 
@@ -140,7 +140,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210709T11:58:55Z | Null | https://github.com/JackGrence/FuzzInspector | 1 | 0| 
+| 20210709T12:02:43Z | Null | https://github.com/JackGrence/FuzzInspector | 2 | 0| 
 | 20210709T11:50:50Z | Fuzzing resources for JSC32 | https://github.com/pmatos/jsc32-fuzz | 0 | 0| 
 | 20210709T11:40:15Z | Null | https://github.com/pushkar7/Fuzzy-ADSR | 0 | 0| 
 | 20210709T11:31:11Z | Null | https://github.com/LucasRizzo/fuzzy_trust | 0 | 0| 
