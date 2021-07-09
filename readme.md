@@ -62,7 +62,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210708T23:02:54Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 26 | 12| 
 | 20210708T22:19:44Z | Null | https://github.com/zYan666/Demon-Exploit | 0 | 0| 
 | 20210708T21:58:31Z | this exploit is spanish and is for spanish people, can use owl hub and support dark dex | https://github.com/REDSCRIPT3R/1sGig-Exploit | 0 | 0| 
 | 20210708T21:47:40Z | here is the codes to make your own exploit | https://github.com/REDSCRIPT3R/Exploit-making-codes | 0 | 0| 
@@ -72,6 +71,7 @@
 | 20210708T21:32:42Z | Scripting Time, its a roblox Lua Executor Supports owl hub, dex explorer and more, it has so much features and gonna get new ones.. | https://github.com/REDSCRIPT3R/Sc-exploit-v1.5.2 | 0 | 0| 
 | 20210708T19:35:30Z | Null | https://github.com/z3dc0ps/windows-exploitation-more | 0 | 0| 
 | 20210708T19:35:09Z | OpenEMR < 5.0.2 - (Authenticated) Path Traversal - Local File Disclosure | https://github.com/sec-it/exploit-CVE-2019-14530 | 3 | 1| 
+| 20210708T19:14:17Z | Null | https://github.com/FatalS3C/exploitterwa | 1 | 0| 
 
 
 # backdoor on Github 推荐
