@@ -54,7 +54,7 @@
 | 20210708T13:07:04Z | CVE-2020-1 | Telia Technicolor TG389ac v.17.1.7992 Samba privilege escalation exploit | https://github.com/full-disclosure/FDEU-CVE-2020-1FC5 | 未查询到CVE信息| 
 | 20210708T12:03:35Z | CVE-2021-525 | D-Link credentials decryption tool poc | https://github.com/full-disclosure/FDEU-CVE-2021-525A | 未查询到CVE信息| 
 | 20210708T11:17:10Z | CVE-2021-37152 | Exploit Accsess network clients by sending packets in wirless TP-LINK and preparing for a mitm attack | https://github.com/lhashashinl/CVE-2021-37152 | 未查询到CVE信息| 
-| 20210708T02:46:52Z | CVE-2021-34527 | Mitigation for CVE-2021-34527 RCE by setting WRITE ACLs | https://github.com/WidespreadPandemic/CVE-2021-34527_ACL_mitigation | Windows Print Spooler Remote Code Execution Vulnerability| 
+| 20210708T02:46:52Z | CVE-2021-34527 | Mitigation for CVE-2021-34527 RCE by setting WRITE ACLs | https://github.com/WidespreadPandemic/CVE-2021-34527_ACL_mitigation | | 
 | 20210708T01:49:15Z | CVE-2021-34527 | Mitigation for CVE-2021-34527 via settings WRITE ACLs - Setting Modify Deny ACLs should NOT be done as it causes read issues as well | https://github.com/WidespreadPandemic/CVE-2021-34527_mitigation | Windows Print Spooler Remote Code Execution Vulnerability| 
 
 
@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210709T00:06:51Z | The exploits that i make on HTB Rope machine | https://github.com/m4k1d3lc0n/RopeExploits | 0 | 0| 
 | 20210709T00:02:55Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 26 | 12| 
 | 20210708T22:19:44Z | Null | https://github.com/zYan666/Demon-Exploit | 0 | 0| 
 | 20210708T21:58:31Z | this exploit is spanish and is for spanish people, can use owl hub and support dark dex | https://github.com/REDSCRIPT3R/1sGig-Exploit | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20210708T21:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9682 | 1590| 
 | 20210708T21:32:42Z | Scripting Time, its a roblox Lua Executor Supports owl hub, dex explorer and more, it has so much features and gonna get new ones.. | https://github.com/REDSCRIPT3R/Sc-exploit-v1.5.2 | 0 | 0| 
 | 20210708T19:35:30Z | Null | https://github.com/z3dc0ps/windows-exploitation-more | 0 | 0| 
-| 20210708T19:35:09Z | OpenEMR < 5.0.2 - (Authenticated) Path Traversal - Local File Disclosure | https://github.com/sec-it/exploit-CVE-2019-14530 | 3 | 1| 
 
 
 # backdoor on Github 推荐
