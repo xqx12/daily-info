@@ -56,6 +56,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210709T12:55:27Z | This repository contains hints to exploit and capture flag of  CTF machines from various platforms. this isn%t a detailed walk-through. from some boxes which I hunt. | https://github.com/nibrasmuhamed/CTF-Walkthrough | 0 | 0| 
+| 20210709T12:51:51Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 17 | 12| 
+| 20210709T12:45:06Z | Null | https://github.com/Hmood511/NASA-Exploit | 0 | 0| 
 | 20210709T12:35:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9681 | 1590| 
 | 20210709T12:32:06Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 15 | 4| 
 | 20210709T12:02:52Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 26 | 12| 
@@ -63,9 +66,6 @@
 | 20210709T11:35:57Z | Exploiting Fast LCF and BERT for Aspect-based Sentiment Analysis (Official Implementation of LCF-BERT) | https://github.com/yangheng95/PyABSA | 117 | 21| 
 | 20210709T11:35:33Z | Null | https://github.com/cookmini35/exploit.github.io | 0 | 0| 
 | 20210709T11:27:33Z | The project is about exploiting the heavily parallelized architecture of a GPU, using the Nvidia CUDA library, in order to calculate the autocorrelation function of a given set of data | https://github.com/Lapo9/AutocorrelationCUDA | 0 | 0| 
-| 20210709T10:50:35Z | CTF竞赛权威指南 | https://github.com/firmianay/CTF-All-In-One | 2564 | 528| 
-| 20210709T10:12:33Z | Some experimental exploits, just for research and fun | https://github.com/c4dr01d/experiment-exploit | 0 | 0| 
-| 20210709T10:04:46Z | Null | https://github.com/Hmood511/NASA-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -100,8 +100,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210709T12:55:45Z | Null | https://github.com/pushkar7/FuzzyADSR | 0 | 0| 
 | 20210709T12:55:24Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 661 | 126| 
-| 20210709T12:50:40Z | Null | https://github.com/pushkar7/FuzzyADSR | 0 | 0| 
 | 20210709T12:50:32Z | Null | https://github.com/JackGrence/FuzzInspector | 3 | 0| 
 | 20210709T12:38:12Z | Null | https://github.com/manik-sys/FUZZY-LOGIC | 0 | 0| 
 | 20210709T12:35:41Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 480 | 48| 
