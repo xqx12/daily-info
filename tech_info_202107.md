@@ -55,7 +55,7 @@
 | 20210709T04:30:38Z | CVE-2020-14321 | Python script to exploit CVE-2020-14321 - Moodle 3.9 - Course enrollments allowed privilege escalation from teacher role into manager role to RCE. | https://github.com/lanzt/CVE-2020-14321 | 未查询到CVE信息| 
 | 20210709T03:54:14Z | CVE-2021-34527 | Mitigation for CVE-2021-34527 RCE by setting WRITE ACLs | https://github.com/WidespreadPandemic/CVE-2021-34527_ACL_mitigation | Windows Print Spooler Remote Code Execution Vulnerability| 
 | 20210709T02:12:35Z | CVE-2020-22222 | CVE-2020-22222 | https://github.com/arch3rPro/CVE-2020-22222 | 未查询到CVE信息| 
-| 20210709T01:48:32Z | CVE-2020-1956 | CVE-2020-1956 | https://github.com/b510/CVE-2020-1956 | Apache Kylin 2.3.0, and releases up to 2.6.5 and 3.0.1 has some restful apis which will concatenate os command with the user input string, a user is likely to be able to execute any os command without any protection or validation.| 
+| 20210709T01:48:32Z | CVE-2020-1956 | CVE-2020-1956 | https://github.com/b510/CVE-2020-1956 | | 
 
 
 # klee on Github 推荐
@@ -140,6 +140,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210709T12:55:24Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 661 | 126| 
 | 20210709T12:50:40Z | Null | https://github.com/pushkar7/FuzzyADSR | 0 | 0| 
 | 20210709T12:50:32Z | Null | https://github.com/JackGrence/FuzzInspector | 3 | 0| 
 | 20210709T12:38:12Z | Null | https://github.com/manik-sys/FUZZY-LOGIC | 0 | 0| 
@@ -149,7 +150,6 @@
 | 20210709T12:19:29Z | DDRFuzz is a fuzzing system based on a seq2seq model to generate valuable seed corpus. | https://github.com/kppw99/ddrfuzz | 2 | 1| 
 | 20210709T12:18:49Z | fuzzy search for text matching | https://github.com/Hipkevin/fuzzySearch | 0 | 0| 
 | 20210709T12:18:03Z | Null | https://github.com/nhsd-exeter/dos-service-fuzzy-search-api | 1 | 0| 
-| 20210709T12:15:18Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 18 | 7| 
 
 
 
