@@ -54,7 +54,7 @@
 | 20210709T04:39:59Z | CVE-2021-22911 | Pre-Auth Blind NoSQL Injection leading to Remote Code Execution in Rocket Chat 3.12.1 | https://github.com/CsEnox/CVE-2021-22911 | A improper input sanitization vulnerability exists in Rocket.Chat server 3.11, 3.12 & 3.13 that could lead to unauthenticated NoSQL injection, resulting potentially in RCE.| 
 | 20210709T03:54:14Z | CVE-2021-34527 | Mitigation for CVE-2021-34527 RCE by setting WRITE ACLs | https://github.com/WidespreadPandemic/CVE-2021-34527_ACL_mitigation | Windows Print Spooler Remote Code Execution Vulnerability| 
 | 20210709T02:12:35Z | CVE-2020-22222 | CVE-2020-22222 | https://github.com/arch3rPro/CVE-2020-22222 | 未查询到CVE信息| 
-| 20210709T01:48:32Z | CVE-2020-1956 | CVE-2020-1956 | https://github.com/b510/CVE-2020-1956 | Apache Kylin 2.3.0, and releases up to 2.6.5 and 3.0.1 has some restful apis which will concatenate os command with the user input string, a user is likely to be able to execute any os command without any protection or validation.| 
+| 20210709T01:48:32Z | CVE-2020-1956 | CVE-2020-1956 | https://github.com/b510/CVE-2020-1956 | | 
 | 20210708T23:42:09Z | CVE-2021-1675 | Null | https://github.com/corelight/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 
 
