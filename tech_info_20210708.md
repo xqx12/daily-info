@@ -111,13 +111,13 @@
 | 20210708T23:57:00Z | REST API Fuzz Testing (RAFT): Source code for self-hosted service developed for Azure, including the API, orchestration engine, and default set of security tools (including MSR%s RESTler), that enables developers to embed security tooling into their CI/CD workflows | https://github.com/microsoft/rest-api-fuzz-testing | 166 | 27| 
 | 20210708T23:52:18Z | Null | https://github.com/epsonik/FuzzyDesc2021 | 0 | 0| 
 | 20210708T23:49:34Z | Null | https://github.com/epsonik/FuzzyDesc | 0 | 0| 
-| 20210708T23:13:33Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2354 | 130| 
 | 20210708T21:31:24Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210708T21:15:18Z | Null | https://github.com/UnisinosContinentais/ContinentalFuzzyLibrary | 1 | 0| 
 | 20210708T20:21:20Z | Null | https://github.com/menave/fuzzy-funicular | 0 | 0| 
 | 20210708T19:42:22Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1873 | 377| 
 | 20210708T19:34:50Z | Null | https://github.com/tomekjaworski/FuzzyPDMP | 1 | 0| 
 | 20210708T19:20:40Z | A simple fuzzing buffer overflow python script | https://github.com/Kiran-Sethu46/fuzzing-buffer-overflow-code | 0 | 0| 
+| 20210708T19:03:52Z | This is a patient data storage and management system. | https://github.com/Aman-letscode/CodeFuzzers | 1 | 0| 
 
 
 
