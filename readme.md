@@ -108,7 +108,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210708T23:58:01Z | A testing repository that links with RStudio | https://github.com/ankibues/fuzzy-waffle | 0 | 0| 
 | 20210708T23:57:00Z | REST API Fuzz Testing (RAFT): Source code for self-hosted service developed for Azure, including the API, orchestration engine, and default set of security tools (including MSR%s RESTler), that enables developers to embed security tooling into their CI/CD workflows | https://github.com/microsoft/rest-api-fuzz-testing | 166 | 27| 
 | 20210708T23:52:18Z | Null | https://github.com/epsonik/FuzzyDesc2021 | 0 | 0| 
 | 20210708T23:49:34Z | Null | https://github.com/epsonik/FuzzyDesc | 0 | 0| 
@@ -118,6 +117,7 @@
 | 20210708T20:21:20Z | Null | https://github.com/menave/fuzzy-funicular | 0 | 0| 
 | 20210708T19:42:22Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1873 | 377| 
 | 20210708T19:34:50Z | Null | https://github.com/tomekjaworski/FuzzyPDMP | 1 | 0| 
+| 20210708T19:20:40Z | A simple fuzzing buffer overflow python script | https://github.com/Kiran-Sethu46/fuzzing-buffer-overflow-code | 0 | 0| 
 
 
 
