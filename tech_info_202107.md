@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210709T12:35:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9681 | 1590| 
 | 20210709T12:32:06Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 15 | 4| 
 | 20210709T12:02:52Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 26 | 12| 
 | 20210709T11:48:29Z | Null | https://github.com/ParagonExploit/exploit | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20210709T10:50:35Z | CTF竞赛权威指南 | https://github.com/firmianay/CTF-All-In-One | 2564 | 528| 
 | 20210709T10:12:33Z | Some experimental exploits, just for research and fun | https://github.com/c4dr01d/experiment-exploit | 0 | 0| 
 | 20210709T10:04:46Z | Null | https://github.com/Hmood511/NASA-Exploit | 0 | 0| 
-| 20210709T09:46:53Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
 
 
 # backdoor on Github 推荐
@@ -116,6 +116,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210709T12:35:09Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2380 | 349| 
 | 20210709T11:53:16Z | FuSeBMC is a White-Box Fuzzer that combines FUzzing with Symbolic Execution via Bounded Model Checking to verify intricate properties in real-world C programs. | https://github.com/kaled-alshmrany/FuSeBMC | 18 | 1| 
 | 20210709T10:49:44Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 146 | 33| 
 | 20210709T10:08:20Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 14 | 3| 
@@ -125,7 +126,6 @@
 | 20210708T11:21:06Z | Aggressive compile-time optimizations for JavaScript via dynamic symbolic VM execution. | https://github.com/undefinedbuddy/optimizr | 27 | 0| 
 | 20210707T18:54:17Z | Compiled Sail ISA snapshots for the Isla symbolic execution tool | https://github.com/rems-project/isla-snapshots | 1 | 0| 
 | 20210707T16:17:59Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 19 | 11| 
-| 20210707T11:34:45Z | Dynamic Symbolic Execution Engine | https://github.com/Fishermanykx/DSE | 0 | 0| 
 
 
 # big4 on Github 推荐
@@ -140,6 +140,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210709T12:35:41Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 480 | 48| 
 | 20210709T12:31:57Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1874 | 377| 
 | 20210709T12:22:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6471 | 1312| 
 | 20210709T12:19:29Z | DDRFuzz is a fuzzing system based on a seq2seq model to generate valuable seed corpus. | https://github.com/kppw99/ddrfuzz | 2 | 1| 
@@ -149,7 +150,6 @@
 | 20210709T12:11:24Z | Null | https://github.com/imanmalekian31/fuzzy | 0 | 0| 
 | 20210709T12:02:43Z | Null | https://github.com/JackGrence/FuzzInspector | 2 | 0| 
 | 20210709T11:50:50Z | Fuzzing resources for JSC32 | https://github.com/pmatos/jsc32-fuzz | 0 | 0| 
-| 20210709T11:40:15Z | Null | https://github.com/pushkar7/Fuzzy-ADSR | 0 | 0| 
 
 
 
