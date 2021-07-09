@@ -48,9 +48,9 @@
 | --- | --- | --- | --- | ---| 
 | 20210709T11:47:56Z | CVE-2021-1675 | C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527 | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210709T10:21:14Z | CVE-2021-525 | D-Link credentials decryption tool poc | https://github.com/full-disclosure/FDEU-CVE-2021-525A | 未查询到CVE信息| 
-| 20210709T09:46:16Z | CVE-2021-34527 | Null | https://github.com/dywhoami/CVE-2021-34527-Scanner-Based-On-cube0x0-POC | | 
+| 20210709T09:46:16Z | CVE-2021-34527 | Null | https://github.com/dywhoami/CVE-2021-34527-Scanner-Based-On-cube0x0-POC | Windows Print Spooler Remote Code Execution Vulnerability| 
 | 20210709T09:17:54Z | CVE-2020-15368 | How to exploit a vulnerable windows driver. Exploit for AsrDrv104.sys | https://github.com/stong/CVE-2020-15368 | AsrDrv103.sys in the ASRock RGB Driver does not properly restrict access from user space, as demonstrated by triggering a triple fault via a request to zero CR3.| 
-| 20210709T05:18:47Z | CVE-2021-21985 | Null | https://github.com/haiclover/CVE-2021-21985 | | 
+| 20210709T05:18:47Z | CVE-2021-21985 | Null | https://github.com/haiclover/CVE-2021-21985 | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
 | 20210709T04:39:59Z | CVE-2021-22911 | Pre-Auth Blind NoSQL Injection leading to Remote Code Execution in Rocket Chat 3.12.1 | https://github.com/CsEnox/CVE-2021-22911 | A improper input sanitization vulnerability exists in Rocket.Chat server 3.11, 3.12 & 3.13 that could lead to unauthenticated NoSQL injection, resulting potentially in RCE.| 
 | 20210709T04:30:38Z | CVE-2020-14321 | Python script to exploit CVE-2020-14321 - Moodle 3.9 - Course enrollments allowed privilege escalation from teacher role into manager role to RCE. | https://github.com/lanzt/CVE-2020-14321 | 未查询到CVE信息| 
 | 20210709T03:54:14Z | CVE-2021-34527 | Mitigation for CVE-2021-34527 RCE by setting WRITE ACLs | https://github.com/WidespreadPandemic/CVE-2021-34527_ACL_mitigation | Windows Print Spooler Remote Code Execution Vulnerability| 
@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210709T12:32:06Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 15 | 4| 
 | 20210709T12:02:52Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 26 | 12| 
 | 20210709T11:48:29Z | Null | https://github.com/ParagonExploit/exploit | 0 | 0| 
 | 20210709T11:35:57Z | Exploiting Fast LCF and BERT for Aspect-based Sentiment Analysis (Official Implementation of LCF-BERT) | https://github.com/yangheng95/PyABSA | 117 | 21| 
@@ -95,7 +96,6 @@
 | 20210709T10:12:33Z | Some experimental exploits, just for research and fun | https://github.com/c4dr01d/experiment-exploit | 0 | 0| 
 | 20210709T10:04:46Z | Null | https://github.com/Hmood511/NASA-Exploit | 0 | 0| 
 | 20210709T09:46:53Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
-| 20210709T09:43:58Z | Portable, NULL-free, Position-Independent (PIC) and highly optimized shellcodes for exploit development. | https://github.com/cwaazywabbit/shellcodes | 0 | 1| 
 
 
 # backdoor on Github 推荐
