@@ -33,8 +33,8 @@
 | 20210709T10:21:14Z | CVE-2021-525 | D-Link credentials decryption tool poc | https://github.com/full-disclosure/FDEU-CVE-2021-525A | 未查询到CVE信息| 
 | 20210709T09:46:16Z | CVE-2021-34527 | Null | https://github.com/dywhoami/CVE-2021-34527-Scanner-Based-On-cube0x0-POC | Windows Print Spooler Remote Code Execution Vulnerability| 
 | 20210709T09:17:54Z | CVE-2020-15368 | How to exploit a vulnerable windows driver. Exploit for AsrDrv104.sys | https://github.com/stong/CVE-2020-15368 | AsrDrv103.sys in the ASRock RGB Driver does not properly restrict access from user space, as demonstrated by triggering a triple fault via a request to zero CR3.| 
-| 20210709T05:18:47Z | CVE-2021-21985 | Null | https://github.com/haiclover/CVE-2021-21985 | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
-| 20210709T04:39:59Z | CVE-2021-22911 | Pre-Auth Blind NoSQL Injection leading to Remote Code Execution in Rocket Chat 3.12.1 | https://github.com/CsEnox/CVE-2021-22911 | A improper input sanitization vulnerability exists in Rocket.Chat server 3.11, 3.12 & 3.13 that could lead to unauthenticated NoSQL injection, resulting potentially in RCE.| 
+| 20210709T05:18:47Z | CVE-2021-21985 | Null | https://github.com/haiclover/CVE-2021-21985 | | 
+| 20210709T04:39:59Z | CVE-2021-22911 | Pre-Auth Blind NoSQL Injection leading to Remote Code Execution in Rocket Chat 3.12.1 | https://github.com/CsEnox/CVE-2021-22911 | | 
 | 20210709T03:54:14Z | CVE-2021-34527 | Mitigation for CVE-2021-34527 RCE by setting WRITE ACLs | https://github.com/WidespreadPandemic/CVE-2021-34527_ACL_mitigation | Windows Print Spooler Remote Code Execution Vulnerability| 
 | 20210709T02:12:35Z | CVE-2020-22222 | CVE-2020-22222 | https://github.com/arch3rPro/CVE-2020-22222 | 未查询到CVE信息| 
 | 20210709T01:48:32Z | CVE-2020-1956 | CVE-2020-1956 | https://github.com/b510/CVE-2020-1956 | Apache Kylin 2.3.0, and releases up to 2.6.5 and 3.0.1 has some restful apis which will concatenate os command with the user input string, a user is likely to be able to execute any os command without any protection or validation.| 
@@ -97,6 +97,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210709T12:18:03Z | Null | https://github.com/nhsd-exeter/dos-service-fuzzy-search-api | 1 | 0| 
+| 20210709T12:17:54Z | fuzzy search for text matching | https://github.com/Hipkevin/fuzzySearch | 0 | 0| 
 | 20210709T12:15:18Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 18 | 7| 
 | 20210709T12:11:24Z | Null | https://github.com/imanmalekian31/fuzzy | 0 | 0| 
 | 20210709T12:02:43Z | Null | https://github.com/JackGrence/FuzzInspector | 2 | 0| 
@@ -105,8 +107,6 @@
 | 20210709T11:31:11Z | Null | https://github.com/LucasRizzo/fuzzy_trust | 0 | 0| 
 | 20210709T11:22:51Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 288 | 39| 
 | 20210709T11:16:27Z | This is a patient data storage and management system. | https://github.com/Aman-letscode/CodeFuzzers | 1 | 0| 
-| 20210709T11:04:32Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
-| 20210709T11:01:20Z | Null | https://github.com/nhsd-exeter/dos-service-fuzzy-search-api | 1 | 0| 
 
 
 
