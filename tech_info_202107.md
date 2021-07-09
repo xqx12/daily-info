@@ -140,6 +140,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210709T00:26:51Z | Ongoing development of the Fuzzball MUCK server software and associated functionality. | https://github.com/fuzzball-muck/fuzzball | 34 | 23| 
 | 20210709T00:25:19Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2353 | 130| 
 | 20210709T00:20:49Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6471 | 1311| 
 | 20210709T00:16:19Z | A testing repository that links with RStudio | https://github.com/ankibues/fuzzy-waffle | 0 | 0| 
@@ -149,7 +150,6 @@
 | 20210708T23:49:34Z | Null | https://github.com/epsonik/FuzzyDesc | 0 | 0| 
 | 20210708T21:31:24Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210708T21:15:18Z | Null | https://github.com/UnisinosContinentais/ContinentalFuzzyLibrary | 1 | 0| 
-| 20210708T20:21:20Z | Null | https://github.com/menave/fuzzy-funicular | 0 | 0| 
 
 
 
