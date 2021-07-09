@@ -50,7 +50,7 @@
 | 20210708T22:16:13Z | CVE-2021-1675 | C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527 | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210708T18:26:21Z | CVE-2021-21985 | Null | https://github.com/haiclover/CVE-2021-21985 | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
 | 20210708T17:01:18Z | CVE-2021-1675 | CVE-2021-1675 Detection Info | https://github.com/LaresLLC/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210708T16:19:47Z | CVE-2021-1675 | Null | https://github.com/bartimus-primed/CVE-2021-1675-Yara | | 
+| 20210708T16:19:47Z | CVE-2021-1675 | Null | https://github.com/bartimus-primed/CVE-2021-1675-Yara | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210708T13:07:04Z | CVE-2020-1 | Telia Technicolor TG389ac v.17.1.7992 Samba privilege escalation exploit | https://github.com/full-disclosure/FDEU-CVE-2020-1FC5 | 未查询到CVE信息| 
 | 20210708T12:03:35Z | CVE-2021-525 | D-Link credentials decryption tool poc | https://github.com/full-disclosure/FDEU-CVE-2021-525A | 未查询到CVE信息| 
 | 20210708T11:17:10Z | CVE-2021-37152 | Exploit Accsess network clients by sending packets in wirless TP-LINK and preparing for a mitm attack | https://github.com/lhashashinl/CVE-2021-37152 | 未查询到CVE信息| 
@@ -142,7 +142,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210709T00:26:51Z | Ongoing development of the Fuzzball MUCK server software and associated functionality. | https://github.com/fuzzball-muck/fuzzball | 34 | 23| 
 | 20210709T00:25:19Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2353 | 130| 
-| 20210709T00:20:49Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6471 | 1311| 
+| 20210709T00:20:49Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6471 | 1312| 
 | 20210709T00:16:19Z | A testing repository that links with RStudio | https://github.com/ankibues/fuzzy-waffle | 0 | 0| 
 | 20210709T00:04:37Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 18 | 7| 
 | 20210708T23:57:00Z | REST API Fuzz Testing (RAFT): Source code for self-hosted service developed for Azure, including the API, orchestration engine, and default set of security tools (including MSR%s RESTler), that enables developers to embed security tooling into their CI/CD workflows | https://github.com/microsoft/rest-api-fuzz-testing | 166 | 27| 
