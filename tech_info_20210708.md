@@ -42,7 +42,7 @@
 | 20210708T11:17:10Z | CVE-2021-37152 | Exploit Accsess network clients by sending packets in wirless TP-LINK and preparing for a mitm attack | https://github.com/lhashashinl/CVE-2021-37152 | 未查询到CVE信息| 
 | 20210708T02:46:52Z | CVE-2021-34527 | Mitigation for CVE-2021-34527 RCE by setting WRITE ACLs | https://github.com/WidespreadPandemic/CVE-2021-34527_ACL_mitigation | Windows Print Spooler Remote Code Execution Vulnerability| 
 | 20210708T01:49:15Z | CVE-2021-34527 | Mitigation for CVE-2021-34527 via settings WRITE ACLs - Setting Modify Deny ACLs should NOT be done as it causes read issues as well | https://github.com/WidespreadPandemic/CVE-2021-34527_mitigation | Windows Print Spooler Remote Code Execution Vulnerability| 
-| 20210708T01:44:56Z | CVE-2020-22222 | CVE test | https://github.com/arch3rPro/CVE-2020-22222 | 未查询到CVE信息| 
+| 20210708T01:44:56Z | CVE-2020-22222 | CVE test | https://github.com/arch3rPro/CVE-2020-22222 | | 
 
 
 # klee on Github 推荐
