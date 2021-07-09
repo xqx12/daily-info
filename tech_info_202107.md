@@ -140,6 +140,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210709T01:43:30Z | Null | https://github.com/MyronTraps/fuzzy | 0 | 0| 
 | 20210709T01:26:53Z | Null | https://github.com/epsonik/FuzzyDesc | 0 | 0| 
 | 20210709T00:50:36Z | Ongoing development of the Fuzzball MUCK server software and associated functionality. | https://github.com/fuzzball-muck/fuzzball | 34 | 23| 
 | 20210709T00:25:19Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2353 | 130| 
@@ -149,7 +150,6 @@
 | 20210708T23:57:00Z | REST API Fuzz Testing (RAFT): Source code for self-hosted service developed for Azure, including the API, orchestration engine, and default set of security tools (including MSR%s RESTler), that enables developers to embed security tooling into their CI/CD workflows | https://github.com/microsoft/rest-api-fuzz-testing | 166 | 27| 
 | 20210708T23:52:18Z | Null | https://github.com/epsonik/FuzzyDesc2021 | 0 | 0| 
 | 20210708T21:31:24Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
-| 20210708T21:15:18Z | Null | https://github.com/UnisinosContinentais/ContinentalFuzzyLibrary | 1 | 0| 
 
 
 
