@@ -6,6 +6,17 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210709 | 基于 Ghidra 实现的 Code Property Graph (CPG) Frontend | https://github.com/joernio/ghidra2cpg| 
+| 20210709 | InlineExecute-Assembly - 以 Beacon Object File (BOF) 方式实现进程内 .NET Assembly Execution 的 PoC 代码 | https://github.com/xforcered/InlineExecute-Assembly| 
+| 20210709 | HyperDbg - Windows 平台的一款开源调试器，充分利用 Hypervisor 特性，支持用户态和内核态调试，主要为逆向分析、调试、Fuzz 设计使用 | https://github.com/HyperDbg/HyperDbg| 
+| 20210709 | XNU IPC Mach messages 的数据结构介绍 | https://dmcyk.xyz/post/xnu_ipc_i_mach_messages/| 
+| 20210709 | Process Creation is Dead, Long Live Process Creation — Adding BOFs Support to PEzor | https://iwantmore.pizza/posts/PEzor4.html| 
+| 20210709 | API 安全设计之认证（Authentication）过程常犯的 5 个错误 | https://securityboulevard.com/2021/07/api-security-need-to-know-top-5-authentication-pitfalls/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+SecurityBloggersNetwork+%28Security+Bloggers+Network%29| 
+| 20210709 | 针对能源及其供应链行业的钓鱼攻击行动 | https://www.intezer.com/blog/research/global-phishing-campaign-targets-energy-sector-and-its-suppliers/| 
+| 20210709 | Microsoft SharePoint Server 远程任意 .NET 代码执行漏洞分析（CVE-2021-28474） | https://www.thezdi.com/blog/2021/7/7/cve-2021-28474-sharepoint-remote-code-execution-via-server-side-control-interpretation-conflict| 
+| 20210709 | TenSEAL - 这篇 Paper 开源了一套针对机器学习的工具库，用于解决机器学习过程中为隐私和敏感数据脱敏而又不影响训练的问题 | https://arxiv.org/abs/2104.03152| 
+| 20210709 | SEVerity - 这篇 Paper 研究 AMD 的安全加密虚拟化（SEV）技术并提出了一种代码注入攻击 | https://sec.today/pulses/56634493-7e3a-4756-b0b8-d5bbe0c867e5/| 
+| 20210709 | SEVerity - 这篇 Paper 研究 AMD 的安全加密虚拟化（SEV）技术并提出了一种代码注入攻击 | https://arxiv.org/abs/2105.13824| 
 | 20210708 | Cisco Talos 对 InSideCopy APT 组织的分析报告 | https://blog.talosintelligence.com/2021/07/sidecopy.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+feedburner%2FTalos+%28Talos%E2%84%A2+Blog%29| 
 | 20210708 | 百度开源的 Titan-Dex字节码操作框架，可以在二进制格式下实现修改已有的类，或者动态生成新的类 | https://github.com/baidu/titan-dex| 
 | 20210708 | RiskScanner 开源多云安全合规扫描平台 | https://github.com/riskscanner/riskscanner| 
@@ -15,22 +26,13 @@
 | 20210708 | 利用多款开源库真实漏洞实现 Fuzzing benchmark 的套件 | http://github.com/HexHive/magma| 
 | 20210708 | 企业管理 ERP 系统 Sage X3 高危漏洞的分析 | https://www.rapid7.com/blog/post/2021/07/07/cve-2020-7387-7390-multiple-sage-x3-vulnerabilities/| 
 | 20210708 | Issue 2189: mpengine: asprotect embedded runtime dll memory corruption | https://bugs.chromium.org/p/project-zero/issues/detail?id=2189| 
-| 20210708 | 预防恶意IP的安全威胁解决方法。 | https://news.sophos.com/en-us/2021/05/13/ips-that-are-malicious-together-stay-together/?cmp=30726| 
-| 20210708 | Evaluation of Cache Attacks on Arm Processors and Secure Caches | https://arxiv.org/abs/2106.14054| 
-| 20210707 | RdpCacheStitcher - 从 RDP 缓存位图中重建图像用于取证分析的工具 | https://github.com/BSI-Bund/RdpCacheStitcher| 
-| 20210707 | PrintNightmare 打印机漏洞的 Python 版本扫描器 | https://github.com/byt3bl33d3r/ItWasAllADream| 
-| 20210707 | 因使用当前时间作为随机数，Kaspersky 密码管理器生成的密码被发现可以在数秒内被爆破 | https://donjon.ledger.com/kaspersky-password-manager/| 
-| 20210707 | 密码重置功能的设计以及相关的安全测试实践 | https://docs.google.com/presentation/d/1QzBl3k3n2q44ULyfZgr_gPZexj8nF5vD8JrS5AUJRbs/edit#slide=id.gacb3ae97b2_0_156| 
-| 20210707 | Exploiting the Sudo Baron Samedit vulnerability (CVE-2021-3156) on VMWare vCenter Server 7.0 | https://research.nccgroup.com/2021/07/06/exploiting-the-sudo-baron-samedit-vulnerability-cve-2021-3156-on-vmware-vcenter-server-7-0/| 
-| 20210707 | M6 健身手环的逆向分析 | https://rbaron.net/blog/2021/07/06/Reverse-engineering-the-M6-smart-fitness-band.html| 
-| 20210707 | Exploiting Less.js to Achieve RCE | https://www.softwaresecured.com/exploiting-less-js/| 
-| 20210707 | 微软发布 Windows 例外补丁，修复近期的 Print Spooler RCE 漏洞（CVE-2021-34527） | https://msrc-blog.microsoft.com/2021/07/06/out-of-band-oob-security-update-available-for-cve-2021-34527/| 
-| 20210707 | 如何在iOS 平台上使用TestFlight测试 App应用软件 | https://testflight.apple.com/join/JkU2rh21| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210709 | CVE-2021-1675远程RCE复现 | https://www.sec-in.com/article/1110| 
+| 20210709 | 零信任实践分享 | http://ckev.in/j/ztcn/| 
 | 20210708 | 工业企业工控安全人才矩阵 | https://mp.weixin.qq.com/s/pqGa10MzKYob0MQgxHOkhA| 
 | 20210708 | 关于 Kerberos 每个人都应该知道这些 | https://mp.weixin.qq.com/s/gLg0pdVRWl3hJMB5au61rw| 
 | 20210708 | SHELLPUB 河马查杀服务端升级维护公告 | https://mp.weixin.qq.com/s/bb0p5-jIzYfs0KQRvw2VUg| 
@@ -39,32 +41,30 @@
 | 20210708 | PETS 2021 论文录用列表 | /news/29390| 
 | 20210706 | 从0到1建设物联网安全实验室之设备篇 | https://mp.weixin.qq.com/s/iyoK3bQQLq6Rhxgebt4VBA| 
 | 20210706 | 离职期员工的信息安全管控实践 | https://mp.weixin.qq.com/s/hIIyFbx562WREErC9Ygw0Q| 
-| 20210706 | Libra: 网站篡改、暗链、死链监测平台 | https://github.com/rabbitmask/Libra| 
-| 20210705 | SecWiki周刊（第383期) | https://www.sec-wiki.com/weekly/383| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210709T11:47:56Z | CVE-2021-1675 | C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527 | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
+| 20210709T10:21:14Z | CVE-2021-525 | D-Link credentials decryption tool poc | https://github.com/full-disclosure/FDEU-CVE-2021-525A | 未查询到CVE信息| 
+| 20210709T09:46:16Z | CVE-2021-34527 | Null | https://github.com/dywhoami/CVE-2021-34527-Scanner-Based-On-cube0x0-POC | Windows Print Spooler Remote Code Execution Vulnerability| 
+| 20210709T09:17:54Z | CVE-2020-15368 | How to exploit a vulnerable windows driver. Exploit for AsrDrv104.sys | https://github.com/stong/CVE-2020-15368 | AsrDrv103.sys in the ASRock RGB Driver does not properly restrict access from user space, as demonstrated by triggering a triple fault via a request to zero CR3.| 
+| 20210709T05:18:47Z | CVE-2021-21985 | Null | https://github.com/haiclover/CVE-2021-21985 | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
+| 20210709T04:39:59Z | CVE-2021-22911 | Pre-Auth Blind NoSQL Injection leading to Remote Code Execution in Rocket Chat 3.12.1 | https://github.com/CsEnox/CVE-2021-22911 | A improper input sanitization vulnerability exists in Rocket.Chat server 3.11, 3.12 & 3.13 that could lead to unauthenticated NoSQL injection, resulting potentially in RCE.| 
+| 20210709T03:54:14Z | CVE-2021-34527 | Mitigation for CVE-2021-34527 RCE by setting WRITE ACLs | https://github.com/WidespreadPandemic/CVE-2021-34527_ACL_mitigation | Windows Print Spooler Remote Code Execution Vulnerability| 
+| 20210709T02:12:35Z | CVE-2020-22222 | CVE-2020-22222 | https://github.com/arch3rPro/CVE-2020-22222 | 未查询到CVE信息| 
 | 20210709T01:48:32Z | CVE-2020-1956 | CVE-2020-1956 | https://github.com/b510/CVE-2020-1956 | Apache Kylin 2.3.0, and releases up to 2.6.5 and 3.0.1 has some restful apis which will concatenate os command with the user input string, a user is likely to be able to execute any os command without any protection or validation.| 
-| 20210709T01:26:56Z | CVE-2021-1675 | C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527 | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210708T23:42:09Z | CVE-2021-1675 | Null | https://github.com/corelight/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210708T18:26:21Z | CVE-2021-21985 | Null | https://github.com/haiclover/CVE-2021-21985 | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
-| 20210708T17:01:18Z | CVE-2021-1675 | CVE-2021-1675 Detection Info | https://github.com/LaresLLC/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210708T16:19:47Z | CVE-2021-1675 | Null | https://github.com/bartimus-primed/CVE-2021-1675-Yara | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210708T13:07:04Z | CVE-2020-1 | Telia Technicolor TG389ac v.17.1.7992 Samba privilege escalation exploit | https://github.com/full-disclosure/FDEU-CVE-2020-1FC5 | 未查询到CVE信息| 
-| 20210708T12:03:35Z | CVE-2021-525 | D-Link credentials decryption tool poc | https://github.com/full-disclosure/FDEU-CVE-2021-525A | 未查询到CVE信息| 
-| 20210708T11:17:10Z | CVE-2021-37152 | Exploit Accsess network clients by sending packets in wirless TP-LINK and preparing for a mitm attack | https://github.com/lhashashinl/CVE-2021-37152 | 未查询到CVE信息| 
-| 20210708T02:46:52Z | CVE-2021-34527 | Mitigation for CVE-2021-34527 RCE by setting WRITE ACLs | https://github.com/WidespreadPandemic/CVE-2021-34527_ACL_mitigation | Windows Print Spooler Remote Code Execution Vulnerability| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210709T09:46:08Z | Null | https://github.com/thierry-tct/KLEE-SEMu | 3 | 2| 
+| 20210709T09:13:30Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 707 | 16| 
 | 20210708T22:23:17Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 216 | 35| 
 | 20210708T21:13:24Z | Null | https://github.com/JaimePSantos/ResearchKlee | 0 | 0| 
-| 20210708T06:19:58Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 704 | 16| 
-| 20210707T23:17:12Z | Null | https://github.com/thierry-tct/KLEE-SEMu | 3 | 2| 
 | 20210707T22:30:33Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
 | 20210707T17:01:12Z | TInA is an automated, generic, verification-friendly and trustworthy lifting technique turning GNU-style inline assembly into semantically equivalent C code amenable to verification, in order to take advantage of existing C analyzers. | https://github.com/binsec/klee21-tina-artifact | 21 | 1| 
 | 20210707T15:43:03Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 10 | 1| 
@@ -86,31 +86,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210709T01:13:49Z | Null | https://github.com/maxza12/S.Exploits | 0 | 0| 
-| 20210709T01:08:32Z | Roblox exploit DLL using the LBI execution method | https://github.com/deaddlocust/LBI-Base | 11 | 0| 
-| 20210709T01:03:00Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 26 | 12| 
-| 20210709T00:51:51Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 17 | 12| 
-| 20210709T00:17:28Z | The exploits that i make in HTB Rope box | https://github.com/m4k1d3lc0n/RopeExploits | 0 | 0| 
-| 20210708T22:19:44Z | Null | https://github.com/zYan666/Demon-Exploit | 0 | 0| 
-| 20210708T21:58:31Z | this exploit is spanish and is for spanish people, can use owl hub and support dark dex | https://github.com/REDSCRIPT3R/1sGig-Exploit | 0 | 0| 
-| 20210708T21:47:40Z | here is the codes to make your own exploit | https://github.com/REDSCRIPT3R/Exploit-making-codes | 0 | 0| 
-| 20210708T21:46:58Z | Python-automated program for finding and exploiting arbitrage opportunities in international currency exchange market using high frequency forex trading (HFX). | https://github.com/lperezmo/high-freq-forex-bot | 1 | 0| 
-| 20210708T21:39:50Z | Repository with python scripts to help in exploiting x86 stack-based buffer overflows. | https://github.com/ArchCWithClasses/VanillaX86BufferOverflow | 0 | 0| 
+| 20210709T11:48:29Z | Null | https://github.com/ParagonExploit/exploit | 0 | 0| 
+| 20210709T11:35:57Z | Exploiting Fast LCF and BERT for Aspect-based Sentiment Analysis (Official Implementation of LCF-BERT) | https://github.com/yangheng95/PyABSA | 117 | 21| 
+| 20210709T11:35:33Z | Null | https://github.com/cookmini35/exploit.github.io | 0 | 0| 
+| 20210709T11:27:33Z | The project is about exploiting the heavily parallelized architecture of a GPU, using the Nvidia CUDA library, in order to calculate the autocorrelation function of a given set of data | https://github.com/Lapo9/AutocorrelationCUDA | 0 | 0| 
+| 20210709T11:02:54Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 26 | 12| 
+| 20210709T10:50:35Z | CTF竞赛权威指南 | https://github.com/firmianay/CTF-All-In-One | 2564 | 527| 
+| 20210709T10:12:33Z | Some experimental exploits, just for research and fun | https://github.com/c4dr01d/experiment-exploit | 0 | 0| 
+| 20210709T10:04:46Z | Null | https://github.com/Hmood511/NASA-Exploit | 0 | 0| 
+| 20210709T09:46:53Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
+| 20210709T09:43:58Z | Portable, NULL-free, Position-Independent (PIC) and highly optimized shellcodes for exploit development. | https://github.com/cwaazywabbit/shellcodes | 0 | 1| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210708T23:54:31Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1197 | 565| 
+| 20210709T11:51:51Z | Null | https://github.com/iK4oS/PremiumBackdoor.exe | 0 | 1| 
+| 20210709T11:10:39Z | A Python module for building botnet ,backdoor or trojan with Telegram control panel | https://github.com/onionj/pybotnet | 4 | 3| 
+| 20210709T09:05:34Z | Null | https://github.com/FierzaEriez/Mini-Shell-Backdoor | 1 | 0| 
+| 20210709T08:09:56Z | Null | https://github.com/FierzaEriez/FX-Super-Mini-Shell-Backdoor | 0 | 0| 
+| 20210709T07:45:04Z | Simple Web Shell Backdoor can Bypass All Server with WAF instead | https://github.com/willygoid/H4x0rShell | 0 | 0| 
+| 20210709T05:46:28Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1199 | 565| 
+| 20210709T02:34:21Z | The best backdoor scanner there is. | https://github.com/iK4oS/backdoor.exe | 1 | 1| 
 | 20210708T22:57:17Z | A collection of python written hacking tools consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester credential harvester, keylogger, download&execute, and reverse_backdoor. | https://github.com/dmdhrumilmistry/hacking_tools | 0 | 0| 
-| 20210708T22:17:08Z | A Python module for building botnet ,backdoor or trojan with Telegram control panel | https://github.com/onionj/pybotnet | 3 | 3| 
-| 20210708T20:36:01Z | Null | https://github.com/iK4oS/PremiumBackdoor.exe | 0 | 1| 
 | 20210708T20:26:12Z | Creating a TCP backdoor using python | https://github.com/AbdulrahmanMaktabi/backdoor | 0 | 0| 
-| 20210708T18:47:42Z | Null | https://github.com/FierzaEriez/FX-Super-Mini-Shell-Backdoor | 0 | 0| 
 | 20210708T18:16:27Z | PyBack - Backdoor in Python - Reverse TCP | https://github.com/Omikrone/PyBack | 2 | 0| 
-| 20210708T16:41:56Z | A webshell that can bypass some system security | https://github.com/22XploiterCrew-Team/Gel4y-Mini-Shell-Backdoor | 2 | 1| 
-| 20210708T13:31:44Z | A papermc plugin that allows code execution without any permissions on the server for selected users. | https://github.com/TheSaltyBoys/backdoor-v4 | 2 | 1| 
-| 20210708T11:27:14Z | A simple backdoor written in PHP. | https://github.com/anonymousmailroot/php-backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -140,16 +140,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210709T01:56:59Z | Null | https://github.com/misunderstood1027/fuzzy-carnival | 0 | 0| 
-| 20210709T01:50:46Z | Null | https://github.com/MyronTraps/fuzzy | 0 | 0| 
-| 20210709T01:26:53Z | Null | https://github.com/epsonik/FuzzyDesc | 0 | 0| 
-| 20210709T00:50:36Z | Ongoing development of the Fuzzball MUCK server software and associated functionality. | https://github.com/fuzzball-muck/fuzzball | 34 | 23| 
-| 20210709T00:25:19Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2353 | 130| 
-| 20210709T00:20:49Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6471 | 1312| 
-| 20210709T00:16:19Z | A testing repository that links with RStudio | https://github.com/ankibues/fuzzy-waffle | 0 | 0| 
-| 20210709T00:04:37Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 18 | 7| 
-| 20210708T23:57:00Z | REST API Fuzz Testing (RAFT): Source code for self-hosted service developed for Azure, including the API, orchestration engine, and default set of security tools (including MSR%s RESTler), that enables developers to embed security tooling into their CI/CD workflows | https://github.com/microsoft/rest-api-fuzz-testing | 166 | 27| 
-| 20210708T23:52:18Z | Null | https://github.com/epsonik/FuzzyDesc2021 | 0 | 0| 
+| 20210709T11:58:55Z | Null | https://github.com/JackGrence/FuzzInspector | 1 | 0| 
+| 20210709T11:50:50Z | Fuzzing resources for JSC32 | https://github.com/pmatos/jsc32-fuzz | 0 | 0| 
+| 20210709T11:40:15Z | Null | https://github.com/pushkar7/Fuzzy-ADSR | 0 | 0| 
+| 20210709T11:31:11Z | Null | https://github.com/LucasRizzo/fuzzy_trust | 0 | 0| 
+| 20210709T11:22:51Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 288 | 39| 
+| 20210709T11:16:27Z | This is a patient data storage and management system. | https://github.com/Aman-letscode/CodeFuzzers | 1 | 0| 
+| 20210709T11:04:32Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
+| 20210709T11:01:20Z | Null | https://github.com/nhsd-exeter/dos-service-fuzzy-search-api | 1 | 0| 
+| 20210709T10:42:53Z | Infrastructure for Automated VAST Fuzzing Runs | https://github.com/tenzir/vast-fuzzing | 0 | 0| 
+| 20210709T10:26:16Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
 
 
 
