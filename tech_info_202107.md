@@ -49,9 +49,9 @@
 | 20210708T23:42:09Z | CVE-2021-1675 | Null | https://github.com/corelight/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210708T22:16:13Z | CVE-2021-1675 | C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527 | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210708T18:26:21Z | CVE-2021-21985 | Null | https://github.com/haiclover/CVE-2021-21985 | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
-| 20210708T17:01:18Z | CVE-2021-1675 | CVE-2021-1675 Detection Info | https://github.com/LaresLLC/CVE-2021-1675 | | 
+| 20210708T17:01:18Z | CVE-2021-1675 | CVE-2021-1675 Detection Info | https://github.com/LaresLLC/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210708T16:19:47Z | CVE-2021-1675 | Null | https://github.com/bartimus-primed/CVE-2021-1675-Yara | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210708T13:07:04Z | CVE-2020-1 | Telia Technicolor TG389ac v.17.1.7992 Samba privilege escalation exploit | https://github.com/full-disclosure/FDEU-CVE-2020-1FC5 | 未查询到CVE信息| 
+| 20210708T13:07:04Z | CVE-2020-1 | Telia Technicolor TG389ac v.17.1.7992 Samba privilege escalation exploit | https://github.com/full-disclosure/FDEU-CVE-2020-1FC5 | | 
 | 20210708T12:03:35Z | CVE-2021-525 | D-Link credentials decryption tool poc | https://github.com/full-disclosure/FDEU-CVE-2021-525A | 未查询到CVE信息| 
 | 20210708T11:17:10Z | CVE-2021-37152 | Exploit Accsess network clients by sending packets in wirless TP-LINK and preparing for a mitm attack | https://github.com/lhashashinl/CVE-2021-37152 | 未查询到CVE信息| 
 | 20210708T02:46:52Z | CVE-2021-34527 | Mitigation for CVE-2021-34527 RCE by setting WRITE ACLs | https://github.com/WidespreadPandemic/CVE-2021-34527_ACL_mitigation | Windows Print Spooler Remote Code Execution Vulnerability| 
@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210709T01:08:32Z | Roblox exploit DLL using the LBI execution method | https://github.com/deaddlocust/LBI-Base | 11 | 0| 
 | 20210709T01:03:00Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 26 | 12| 
 | 20210709T00:51:51Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 17 | 12| 
 | 20210709T00:17:28Z | The exploits that i make in HTB Rope box | https://github.com/m4k1d3lc0n/RopeExploits | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20210708T21:46:58Z | Python-automated program for finding and exploiting arbitrage opportunities in international currency exchange market using high frequency forex trading (HFX). | https://github.com/lperezmo/high-freq-forex-bot | 1 | 0| 
 | 20210708T21:39:50Z | Repository with python scripts to help in exploiting x86 stack-based buffer overflows. | https://github.com/ArchCWithClasses/VanillaX86BufferOverflow | 0 | 0| 
 | 20210708T21:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9682 | 1590| 
-| 20210708T21:32:42Z | Scripting Time, its a roblox Lua Executor Supports owl hub, dex explorer and more, it has so much features and gonna get new ones.. | https://github.com/REDSCRIPT3R/Sc-exploit-v1.5.2 | 0 | 0| 
 
 
 # backdoor on Github 推荐
