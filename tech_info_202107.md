@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210709T01:12:01Z | Null | https://github.com/maxza12/S.Exploits | 0 | 0| 
 | 20210709T01:08:32Z | Roblox exploit DLL using the LBI execution method | https://github.com/deaddlocust/LBI-Base | 11 | 0| 
 | 20210709T01:03:00Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 26 | 12| 
 | 20210709T00:51:51Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 17 | 12| 
@@ -95,7 +96,6 @@
 | 20210708T21:47:40Z | here is the codes to make your own exploit | https://github.com/REDSCRIPT3R/Exploit-making-codes | 0 | 0| 
 | 20210708T21:46:58Z | Python-automated program for finding and exploiting arbitrage opportunities in international currency exchange market using high frequency forex trading (HFX). | https://github.com/lperezmo/high-freq-forex-bot | 1 | 0| 
 | 20210708T21:39:50Z | Repository with python scripts to help in exploiting x86 stack-based buffer overflows. | https://github.com/ArchCWithClasses/VanillaX86BufferOverflow | 0 | 0| 
-| 20210708T21:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9682 | 1590| 
 
 
 # backdoor on Github 推荐
