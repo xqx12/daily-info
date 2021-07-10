@@ -101,6 +101,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210710T12:31:13Z | Simple Web Shell Backdoor can Bypass All Server with WAF instead | https://github.com/willygoid/H4x0rShell | 0 | 0| 
 | 20210710T11:11:47Z | Yet Another PHP Shell | https://github.com/Nickguitar/YAPS | 5 | 0| 
 | 20210710T10:15:46Z | A collection of python written hacking tools consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester credential harvester, keylogger, download&execute, and reverse_backdoor. | https://github.com/dmdhrumilmistry/hacking_tools | 0 | 0| 
 | 20210710T07:51:20Z | vmware-backdoor | https://github.com/rtyuiow/vmware-backdoor | 0 | 0| 
@@ -110,7 +111,6 @@
 | 20210709T22:19:52Z | Backdoor using nc, in c++ with persistence mode | https://github.com/Utobih/Ngrok_backdoor_auto_update_with_persistence | 0 | 0| 
 | 20210709T18:08:02Z | EcchiExploit Shell v1.0 | https://github.com/dmzhari/ecchi-shell | 0 | 1| 
 | 20210709T16:49:40Z | PHP Backdoor is a web-based application that allows to execute terminal commands on a server directly from a browser. | https://github.com/psyll/PHP-Backdoor | 1 | 0| 
-| 20210709T15:58:48Z | Null | https://github.com/iK4oS/PremiumBackdoor.exe | 0 | 1| 
 
 
 # symbolic execution on Github 推荐

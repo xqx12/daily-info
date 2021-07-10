@@ -55,6 +55,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210710T12:31:13Z | Simple Web Shell Backdoor can Bypass All Server with WAF instead | https://github.com/willygoid/H4x0rShell | 0 | 0| 
 | 20210710T11:11:47Z | Yet Another PHP Shell | https://github.com/Nickguitar/YAPS | 5 | 0| 
 | 20210710T10:15:46Z | A collection of python written hacking tools consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester credential harvester, keylogger, download&execute, and reverse_backdoor. | https://github.com/dmdhrumilmistry/hacking_tools | 0 | 0| 
 | 20210710T07:51:20Z | vmware-backdoor | https://github.com/rtyuiow/vmware-backdoor | 0 | 0| 
