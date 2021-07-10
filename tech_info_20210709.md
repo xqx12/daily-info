@@ -29,23 +29,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210709T11:47:56Z | CVE-2021-1675 | C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527 | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
+| 20210709T22:45:44Z | CVE-2021-1675 | C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527 | https://github.com/cube0x0/CVE-2021-1675 | | 
+| 20210709T19:38:43Z | CVE-2021-21974 | POC for CVE-2021-21974 VMWare ESXi RCE Exploit | https://github.com/Shadow0ps/CVE-2021-21974 | OpenSLP as used in ESXi (7.0 before ESXi70U1c-17325551, 6.7 before ESXi670-202102401-SG, 6.5 before ESXi650-202102101-SG) has a heap-overflow vulnerability. A malicious actor residing within the same network segment as ESXi who has access to port 427 may be able to trigger the heap-overflow issue in OpenSLP service resulting in remote code execution.| 
+| 20210709T14:17:43Z | CVE-2021-1675 | Null | https://github.com/corelight/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210709T10:21:14Z | CVE-2021-525 | D-Link credentials decryption tool poc | https://github.com/full-disclosure/FDEU-CVE-2021-525A | 未查询到CVE信息| 
 | 20210709T09:46:16Z | CVE-2021-34527 | Null | https://github.com/dywhoami/CVE-2021-34527-Scanner-Based-On-cube0x0-POC | Windows Print Spooler Remote Code Execution Vulnerability| 
 | 20210709T09:17:54Z | CVE-2020-15368 | How to exploit a vulnerable windows driver. Exploit for AsrDrv104.sys | https://github.com/stong/CVE-2020-15368 | AsrDrv103.sys in the ASRock RGB Driver does not properly restrict access from user space, as demonstrated by triggering a triple fault via a request to zero CR3.| 
 | 20210709T05:18:47Z | CVE-2021-21985 | Null | https://github.com/haiclover/CVE-2021-21985 | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
-| 20210709T04:39:59Z | CVE-2021-22911 | Pre-Auth Blind NoSQL Injection leading to Remote Code Execution in Rocket Chat 3.12.1 | https://github.com/CsEnox/CVE-2021-22911 | A improper input sanitization vulnerability exists in Rocket.Chat server 3.11, 3.12 & 3.13 that could lead to unauthenticated NoSQL injection, resulting potentially in RCE.| 
+| 20210709T04:39:59Z | CVE-2021-22911 | Pre-Auth Blind NoSQL Injection leading to Remote Code Execution in Rocket Chat 3.12.1 | https://github.com/CsEnox/CVE-2021-22911 | | 
 | 20210709T04:30:38Z | CVE-2020-14321 | Python script to exploit CVE-2020-14321 - Moodle 3.9 - Course enrollments allowed privilege escalation from teacher role into manager role to RCE. | https://github.com/lanzt/CVE-2020-14321 | 未查询到CVE信息| 
 | 20210709T03:54:14Z | CVE-2021-34527 | Mitigation for CVE-2021-34527 RCE by setting WRITE ACLs | https://github.com/WidespreadPandemic/CVE-2021-34527_ACL_mitigation | Windows Print Spooler Remote Code Execution Vulnerability| 
-| 20210709T02:12:35Z | CVE-2020-22222 | CVE-2020-22222 | https://github.com/arch3rPro/CVE-2020-22222 | 未查询到CVE信息| 
-| 20210709T01:48:32Z | CVE-2020-1956 | CVE-2020-1956 | https://github.com/b510/CVE-2020-1956 | Apache Kylin 2.3.0, and releases up to 2.6.5 and 3.0.1 has some restful apis which will concatenate os command with the user input string, a user is likely to be able to execute any os command without any protection or validation.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210709T14:09:51Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 708 | 16| 
 | 20210709T09:46:08Z | Null | https://github.com/thierry-tct/KLEE-SEMu | 3 | 2| 
-| 20210709T09:13:30Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 707 | 16| 
 
 
 # s2e on Github 推荐
@@ -56,29 +56,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210709T12:57:35Z | HatSploit native powerful payload generation and shellcode injection tool that provides support for common platforms and architectures. | https://github.com/EntySec/HatVenom | 32 | 10| 
-| 20210709T12:56:51Z | Null | https://github.com/Hmood511/NASA-Exploit | 0 | 0| 
-| 20210709T12:55:27Z | This repository contains hints to exploit and capture flag of  CTF machines from various platforms. this isn%t a detailed walk-through. from some boxes which I hunt. | https://github.com/nibrasmuhamed/CTF-Walkthrough | 0 | 0| 
-| 20210709T12:51:51Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 17 | 12| 
-| 20210709T12:35:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9681 | 1590| 
-| 20210709T12:32:06Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 15 | 4| 
-| 20210709T12:02:52Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 26 | 12| 
-| 20210709T11:48:29Z | Null | https://github.com/ParagonExploit/exploit | 0 | 0| 
-| 20210709T11:35:57Z | Exploiting Fast LCF and BERT for Aspect-based Sentiment Analysis (Official Implementation of LCF-BERT) | https://github.com/yangheng95/PyABSA | 117 | 21| 
-| 20210709T11:35:33Z | Null | https://github.com/cookmini35/exploit.github.io | 0 | 0| 
+| 20210709T23:50:29Z | A modern exploiting solution, built for Roblox and Rojo | https://github.com/richie0866/Rostruct | 3 | 1| 
+| 20210709T23:23:17Z | Writeups for various CTFs and challenges | https://github.com/MBWest/Write-ups | 0 | 0| 
+| 20210709T23:02:54Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 26 | 12| 
+| 20210709T22:49:42Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9684 | 1590| 
+| 20210709T22:43:01Z | Techniques on pool overflow exploitation for the most recent (and oldest) Windows versions | https://github.com/vp777/Windows-Non-Paged-Pool-Overflow-Exploitation | 5 | 3| 
+| 20210709T21:22:49Z | Since not everyone has access to Visual Studio at all times, this repository aims to have some useful compiled windows exploits/binaries that can be used while performing penetration testing. I do not take responsibility for any of the exploits nor do I own them, I would highly suggest to first test them in a Virtual Machine before actually running them against your target. | https://github.com/sidchn/Windows-Compiled-Exploits | 0 | 0| 
+| 20210709T20:21:10Z | Null | https://github.com/ParagonExploit/exploit | 0 | 0| 
+| 20210709T20:16:59Z | Practice repository for binary exploitation and fuzzing | https://github.com/RickdeJager/binexp-practice | 0 | 0| 
+| 20210709T20:16:28Z | Null | https://github.com/Whomever0/exploit-scripts | 0 | 0| 
+| 20210709T19:57:07Z | ExploitDev Practice  | https://github.com/ryanvillarreal/ExploitDev | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210709T23:13:54Z | Yet Another PHP Shell | https://github.com/Nickguitar/YAPS | 4 | 0| 
+| 20210709T22:19:52Z | Backdoor using nc, in c++ with persistence mode | https://github.com/Utobih/Ngrok_backdoor_auto_update_with_persistence | 0 | 0| 
+| 20210709T18:08:02Z | EcchiExploit Shell v1.0 | https://github.com/dmzhari/ecchi-shell | 0 | 1| 
+| 20210709T16:49:40Z | PHP Backdoor is a web-based application that allows to execute terminal commands on a server directly from a browser. | https://github.com/psyll/PHP-Backdoor | 1 | 0| 
+| 20210709T15:58:48Z | Null | https://github.com/iK4oS/PremiumBackdoor.exe | 0 | 1| 
 | 20210709T12:23:55Z | Null | https://github.com/AakashBanik/backdoor-tools | 0 | 0| 
-| 20210709T12:06:15Z | Null | https://github.com/iK4oS/PremiumBackdoor.exe | 0 | 1| 
 | 20210709T11:10:39Z | A Python module for building botnet ,backdoor or trojan with Telegram control panel | https://github.com/onionj/pybotnet | 4 | 3| 
 | 20210709T09:05:34Z | Null | https://github.com/FierzaEriez/Mini-Shell-Backdoor | 1 | 0| 
 | 20210709T08:09:56Z | Null | https://github.com/FierzaEriez/FX-Super-Mini-Shell-Backdoor | 0 | 0| 
 | 20210709T07:45:04Z | Simple Web Shell Backdoor can Bypass All Server with WAF instead | https://github.com/willygoid/H4x0rShell | 0 | 0| 
-| 20210709T05:46:28Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1199 | 565| 
-| 20210709T02:34:21Z | The best backdoor scanner there is. | https://github.com/iK4oS/backdoor.exe | 1 | 1| 
 
 
 # symbolic execution on Github 推荐
@@ -100,16 +102,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210709T12:55:45Z | Null | https://github.com/pushkar7/FuzzyADSR | 0 | 0| 
-| 20210709T12:55:24Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 661 | 126| 
-| 20210709T12:50:32Z | Null | https://github.com/JackGrence/FuzzInspector | 3 | 0| 
-| 20210709T12:38:12Z | Null | https://github.com/manik-sys/FUZZY-LOGIC | 0 | 0| 
-| 20210709T12:35:41Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 480 | 48| 
-| 20210709T12:31:57Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1874 | 377| 
-| 20210709T12:22:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6471 | 1312| 
-| 20210709T12:19:29Z | DDRFuzz is a fuzzing system based on a seq2seq model to generate valuable seed corpus. | https://github.com/kppw99/ddrfuzz | 2 | 1| 
-| 20210709T12:18:49Z | fuzzy search for text matching | https://github.com/Hipkevin/fuzzySearch | 0 | 0| 
-| 20210709T12:18:03Z | Null | https://github.com/nhsd-exeter/dos-service-fuzzy-search-api | 1 | 0| 
+| 20210709T22:32:44Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
+| 20210709T22:01:37Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20210709T20:59:39Z | Null | https://github.com/drtychai/fuzzing-templates | 0 | 0| 
+| 20210709T20:53:23Z | A passive diode fuzz Eurorack module with switches for changing which diodes are included | https://github.com/rahji/fivefingerfuzz | 0 | 0| 
+| 20210709T20:19:14Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 482 | 48| 
+| 20210709T20:16:59Z | Practice repository for binary exploitation and fuzzing | https://github.com/RickdeJager/binexp-practice | 0 | 0| 
+| 20210709T20:04:28Z | Fuzzinator Random Testing Framework | https://github.com/renatahodovan/fuzzinator | 177 | 38| 
+| 20210709T19:38:02Z | Ongoing development of the Fuzzball MUCK server software and associated functionality. | https://github.com/fuzzball-muck/fuzzball | 34 | 23| 
+| 20210709T19:32:20Z | Null | https://github.com/UnisinosContinentais/ContinentalFuzzyLibrary | 1 | 0| 
+| 20210709T19:31:27Z | Gentoo overlay | https://github.com/lferra/fuzzy-potato | 0 | 0| 
 
 
 
