@@ -140,16 +140,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210710T12:04:39Z | This is a patient data storage and management system. | https://github.com/Aman-letscode/CodeFuzzers | 1 | 0| 
+| 20210710T12:16:35Z | This is a patient data storage and management system. | https://github.com/Aman-letscode/CodeFuzzers | 1 | 0| 
+| 20210710T12:14:33Z | Fuzzing tool for the 14th institute | https://github.com/Radon10043/fuzzing-tool-14 | 0 | 2| 
+| 20210710T12:13:05Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 484 | 48| 
 | 20210710T12:03:50Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210710T12:02:13Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 685 | 104| 
 | 20210710T11:47:44Z | Fuzzy based segmentation of remotely sensed images using an Adaptive Neuro Fuzzy Inference System (ANFIS). | https://github.com/andmon97/FuzzyRemoteSensingSegmentation | 8 | 0| 
-| 20210710T11:41:48Z | Fuzzing tool for the 14th institute | https://github.com/Radon10043/fuzzing-tool-14 | 0 | 2| 
 | 20210710T11:34:34Z | Null | https://github.com/applepole/fuzzy-lamp | 0 | 0| 
 | 20210710T11:31:17Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6472 | 1312| 
 | 20210710T11:20:48Z | Practice repository for binary exploitation and fuzzing | https://github.com/RickdeJager/binexp-practice | 0 | 0| 
 | 20210710T10:23:27Z | Null | https://github.com/s9varesc/url-fuzzing | 1 | 1| 
-| 20210710T10:04:44Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 
 
 
