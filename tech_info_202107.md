@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210709T22:45:44Z | CVE-2021-1675 | C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527 | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210709T19:38:43Z | CVE-2021-21974 | POC for CVE-2021-21974 VMWare ESXi RCE Exploit | https://github.com/Shadow0ps/CVE-2021-21974 | OpenSLP as used in ESXi (7.0 before ESXi70U1c-17325551, 6.7 before ESXi670-202102401-SG, 6.5 before ESXi650-202102101-SG) has a heap-overflow vulnerability. A malicious actor residing within the same network segment as ESXi who has access to port 427 may be able to trigger the heap-overflow issue in OpenSLP service resulting in remote code execution.| 
+| 20210709T22:45:44Z | CVE-2021-1675 | C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527 | https://github.com/cube0x0/CVE-2021-1675 | | 
+| 20210709T19:38:43Z | CVE-2021-21974 | POC for CVE-2021-21974 VMWare ESXi RCE Exploit | https://github.com/Shadow0ps/CVE-2021-21974 | | 
 | 20210709T14:17:43Z | CVE-2021-1675 | Null | https://github.com/corelight/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210709T10:21:14Z | CVE-2021-525 | D-Link credentials decryption tool poc | https://github.com/full-disclosure/FDEU-CVE-2021-525A | 未查询到CVE信息| 
 | 20210709T09:46:16Z | CVE-2021-34527 | Null | https://github.com/dywhoami/CVE-2021-34527-Scanner-Based-On-cube0x0-POC | Windows Print Spooler Remote Code Execution Vulnerability| 
@@ -86,6 +86,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210710T00:31:31Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 15 | 4| 
+| 20210710T00:30:13Z | Exploit development training | https://github.com/0xdutra/exploitation-labs | 0 | 0| 
 | 20210710T00:23:06Z | Some experimental exploits, just for research and fun | https://github.com/c4dr01d/experiment-exploit | 0 | 0| 
 | 20210710T00:04:45Z | Techniques on pool overflow exploitation for the most recent (and oldest) Windows versions | https://github.com/vp777/Windows-Non-Paged-Pool-Overflow-Exploitation | 6 | 3| 
 | 20210710T00:03:07Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 26 | 12| 
@@ -94,13 +96,12 @@
 | 20210709T22:49:42Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9684 | 1590| 
 | 20210709T21:22:49Z | Since not everyone has access to Visual Studio at all times, this repository aims to have some useful compiled windows exploits/binaries that can be used while performing penetration testing. I do not take responsibility for any of the exploits nor do I own them, I would highly suggest to first test them in a Virtual Machine before actually running them against your target. | https://github.com/sidchn/Windows-Compiled-Exploits | 0 | 0| 
 | 20210709T20:21:10Z | Null | https://github.com/ParagonExploit/exploit | 0 | 0| 
-| 20210709T20:16:59Z | Practice repository for binary exploitation and fuzzing | https://github.com/RickdeJager/binexp-practice | 0 | 0| 
-| 20210709T20:16:28Z | Null | https://github.com/Whomever0/exploit-scripts | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210710T00:31:32Z | Null | https://github.com/can-er/Digispark-FUD-backdoor | 0 | 0| 
 | 20210709T23:13:54Z | Yet Another PHP Shell | https://github.com/Nickguitar/YAPS | 4 | 0| 
 | 20210709T22:19:52Z | Backdoor using nc, in c++ with persistence mode | https://github.com/Utobih/Ngrok_backdoor_auto_update_with_persistence | 0 | 0| 
 | 20210709T18:08:02Z | EcchiExploit Shell v1.0 | https://github.com/dmzhari/ecchi-shell | 0 | 1| 
@@ -110,7 +111,6 @@
 | 20210709T11:10:39Z | A Python module for building botnet ,backdoor or trojan with Telegram control panel | https://github.com/onionj/pybotnet | 4 | 3| 
 | 20210709T09:05:34Z | Null | https://github.com/FierzaEriez/Mini-Shell-Backdoor | 1 | 0| 
 | 20210709T08:09:56Z | Null | https://github.com/FierzaEriez/FX-Super-Mini-Shell-Backdoor | 0 | 0| 
-| 20210709T07:45:04Z | Simple Web Shell Backdoor can Bypass All Server with WAF instead | https://github.com/willygoid/H4x0rShell | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
