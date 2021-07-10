@@ -46,12 +46,12 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210710T11:26:09Z | CVE-2020-7247 | PoC exploit for CVE-2020-7247 OpenSMTPD 6.4.0 < 6.6.1 Remote Code Execution | https://github.com/f4T1H21/CVE-2020-7247 | | 
-| 20210710T08:50:55Z | CVE-2021-1675 | C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527 | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
+| 20210710T11:26:09Z | CVE-2020-7247 | PoC exploit for CVE-2020-7247 OpenSMTPD 6.4.0 < 6.6.1 Remote Code Execution | https://github.com/f4T1H21/CVE-2020-7247 | smtp_mailaddr in smtp_session.c in OpenSMTPD 6.6, as used in OpenBSD 6.6 and other products, allows remote attackers to execute arbitrary commands as root via a crafted SMTP session, as demonstrated by shell metacharacters in a MAIL FROM field. This affects the %uncommented% default configuration. The issue exists because of an incorrect return value upon failure of input validation.| 
+| 20210710T08:50:55Z | CVE-2021-1675 | C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527 | https://github.com/cube0x0/CVE-2021-1675 | | 
 | 20210710T07:28:54Z | CVE-2020-14343 | Experimenting with the CVE-2020-14343 PyYAML vulnerability | https://github.com/raul23/pyyaml-CVE-2020-14343 | A vulnerability was discovered in the PyYAML library in versions before 5.4, where it is susceptible to arbitrary code execution when it processes untrusted YAML files through the full_load method or with the FullLoader loader. Applications that use the library to process untrusted input may be vulnerable to this flaw. This flaw allows an attacker to execute arbitrary code on the system by abusing the python/object/new constructor. This flaw is due to an incomplete fix for CVE-2020-1747.| 
 | 20210709T19:38:43Z | CVE-2021-21974 | POC for CVE-2021-21974 VMWare ESXi RCE Exploit | https://github.com/Shadow0ps/CVE-2021-21974 | OpenSLP as used in ESXi (7.0 before ESXi70U1c-17325551, 6.7 before ESXi670-202102401-SG, 6.5 before ESXi650-202102101-SG) has a heap-overflow vulnerability. A malicious actor residing within the same network segment as ESXi who has access to port 427 may be able to trigger the heap-overflow issue in OpenSLP service resulting in remote code execution.| 
 | 20210709T14:17:43Z | CVE-2021-1675 | Null | https://github.com/corelight/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210709T10:21:14Z | CVE-2021-525 | D-Link credentials decryption tool poc | https://github.com/full-disclosure/FDEU-CVE-2021-525A | 未查询到CVE信息| 
+| 20210709T10:21:14Z | CVE-2021-525 | D-Link credentials decryption tool poc | https://github.com/full-disclosure/FDEU-CVE-2021-525A | | 
 | 20210709T09:46:16Z | CVE-2021-34527 | Null | https://github.com/dywhoami/CVE-2021-34527-Scanner-Based-On-cube0x0-POC | Windows Print Spooler Remote Code Execution Vulnerability| 
 | 20210709T09:17:54Z | CVE-2020-15368 | How to exploit a vulnerable windows driver. Exploit for AsrDrv104.sys | https://github.com/stong/CVE-2020-15368 | AsrDrv103.sys in the ASRock RGB Driver does not properly restrict access from user space, as demonstrated by triggering a triple fault via a request to zero CR3.| 
 | 20210709T05:18:47Z | CVE-2021-21985 | Null | https://github.com/haiclover/CVE-2021-21985 | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
@@ -116,13 +116,13 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210710T08:43:45Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1838 | 385| 
+| 20210710T05:02:36Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2382 | 349| 
 | 20210709T19:49:48Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 146 | 33| 
 | 20210709T14:06:16Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 19 | 11| 
-| 20210709T12:35:09Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2380 | 349| 
 | 20210709T11:53:16Z | FuSeBMC is a White-Box Fuzzer that combines FUzzing with Symbolic Execution via Bounded Model Checking to verify intricate properties in real-world C programs. | https://github.com/kaled-alshmrany/FuSeBMC | 18 | 1| 
 | 20210709T10:08:20Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 14 | 3| 
 | 20210709T07:58:21Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 433 | 67| 
-| 20210709T03:18:10Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1838 | 385| 
 | 20210708T15:52:51Z | A tool for generating nonlinear numerical invariants for C and Java programs.  DIG uses dynamic analysis to infer invariants over program execution traces and applies symbolic execution to inferred invariants. | https://github.com/unsat/dig | 4 | 4| 
 | 20210708T11:21:06Z | Aggressive compile-time optimizations for JavaScript via dynamic symbolic VM execution. | https://github.com/undefinedbuddy/optimizr | 27 | 0| 
 | 20210707T18:54:17Z | Compiled Sail ISA snapshots for the Isla symbolic execution tool | https://github.com/rems-project/isla-snapshots | 1 | 0| 
