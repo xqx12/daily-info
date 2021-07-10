@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210710T01:13:54Z | Some Lua scripts I make, some might be useful, some might be useless. Some of these scripts may be Roblox only, and may require a Roblox exploit. | https://github.com/strawbberrys/LuaScripts | 0 | 1| 
 | 20210710T01:13:48Z | this bash script is for remote linux hosts hacked! | https://github.com/FabioDefilippo/linuxallenum | 11 | 0| 
 | 20210710T01:02:55Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 26 | 12| 
 | 20210710T00:55:36Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/Screetsec/TheFatRat | 5427 | 1763| 
@@ -95,7 +96,6 @@
 | 20210710T00:30:13Z | Exploit development training | https://github.com/0xdutra/exploitation-labs | 0 | 0| 
 | 20210710T00:23:06Z | Some experimental exploits, just for research and fun | https://github.com/c4dr01d/experiment-exploit | 0 | 0| 
 | 20210710T00:04:45Z | Techniques on pool overflow exploitation for the most recent (and oldest) Windows versions | https://github.com/vp777/Windows-Non-Paged-Pool-Overflow-Exploitation | 6 | 3| 
-| 20210709T23:50:29Z | A modern exploiting solution, built for Roblox and Rojo | https://github.com/richie0866/Rostruct | 3 | 1| 
 
 
 # backdoor on Github 推荐
