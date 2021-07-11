@@ -38,7 +38,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210711T12:19:12Z | Blogging with 100% less risk of wordpress being exploited | https://github.com/Hypfer/blog.hypfer.de | 0 | 0| 
+| 20210711T12:24:46Z | Blogging with 100% less risk of wordpress being exploited | https://github.com/Hypfer/blog.hypfer.de | 0 | 0| 
+| 20210711T12:23:56Z | this is a repository for Exploiting Web Images for paper Fine-Grained Visual Recognition via Dynamic Loss Correction and Global Sample Selection submission | https://github.com/NUST-Machine-Intelligence-Laboratory/dynamic-loss-correction | 0 | 0| 
 | 20210711T12:02:57Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 26 | 12| 
 | 20210711T11:55:11Z | Looks for evidence of PrintNightmare exploitation execution in Logs. Requires %Event Log Readers% or higher permissions. Defaults to domain controllers, yet can be pointed to any/all domain machines (using -AllComputers parameter, or changes LDAP query). Outputs results of potential PrintNightmare exploitation to console + CSV file. | https://github.com/YossiSassi/HuntPrintNightmareExploitation | 0 | 0| 
 | 20210711T11:46:05Z | This repository contains scripts,data files, and results of my master thesis %Exploiting Transformer-based Multitask Learning for the Detection of Media Bias in News Articles%  | https://github.com/DataDave09/Exploiting-Transformer-based-Multitask-Learning-for-the-Detection-of-Media-Bias-in-News-Articles | 0 | 0| 
@@ -47,7 +48,6 @@
 | 20210711T11:36:02Z | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | 98 | 18| 
 | 20210711T11:31:56Z | Null | https://github.com/Username132131231/exploit | 0 | 0| 
 | 20210711T11:31:31Z | [ENG] A small exploit-library using the HIkvision-backdoor exploit. [DE] Kleine Python-Scripte, um die Backdoor in Hikvision-Kameras auszunutzen. | https://github.com/MatrixEditor/hikvision-sdk-cam | 1 | 0| 
-| 20210711T11:29:14Z | Geçmiş zamanlarda yazdığım yazılar. Siber güvenlik, Rootkit, Analiz, Bot Network, DDoS, DoS , Phishing , Exploit ...v.s... | https://github.com/expday/Yazilarim | 0 | 0| 
 
 
 # backdoor on Github 推荐
