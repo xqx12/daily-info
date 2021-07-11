@@ -72,7 +72,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210711T11:59:56Z | Predict taxi driver score by its behavior and driving quality | https://github.com/ahforoughi/driver-scoring-fuzzy-logic | 0 | 0| 
+| 20210711T12:07:17Z | Predict taxi driver score by its behavior and driving quality | https://github.com/ahforoughi/driver-scoring-fuzzy-logic | 0 | 0| 
 | 20210711T11:57:14Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1878 | 376| 
 | 20210711T11:47:39Z | This is a patient data storage and management system. | https://github.com/Aman-letscode/CodeFuzzers | 1 | 0| 
 | 20210711T11:46:07Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
