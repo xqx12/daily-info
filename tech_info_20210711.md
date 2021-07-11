@@ -38,8 +38,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210711T12:59:48Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 71 | 27| 
 | 20210711T12:57:43Z | Educational web application demonstrating techniques of binary exploitation (Front-end) | https://github.com/Pen-Test3rs/binary_exploits_frontend | 0 | 0| 
-| 20210711T12:57:15Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 71 | 27| 
 | 20210711T12:35:13Z | Local file inclusion discovery and exploitation tool | https://github.com/hansmach1ne/lfimap | 3 | 0| 
 | 20210711T12:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9687 | 1593| 
 | 20210711T12:24:46Z | Blogging with 100% less risk of wordpress being exploited | https://github.com/Hypfer/blog.hypfer.de | 0 | 0| 
