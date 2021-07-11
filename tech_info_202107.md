@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210711T01:45:55Z | CVE-2020-14343 | Experimenting with the CVE-2020-14343 PyYAML vulnerability | https://github.com/raul23/pyyaml-CVE-2020-14343 | A vulnerability was discovered in the PyYAML library in versions before 5.4, where it is susceptible to arbitrary code execution when it processes untrusted YAML files through the full_load method or with the FullLoader loader. Applications that use the library to process untrusted input may be vulnerable to this flaw. This flaw allows an attacker to execute arbitrary code on the system by abusing the python/object/new constructor. This flaw is due to an incomplete fix for CVE-2020-1747.| 
+| 20210711T08:55:53Z | CVE-2021-1675 | C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527 | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
+| 20210711T08:16:01Z | cve-2021-1675 | Null | https://github.com/k8gege/cve-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
+| 20210711T07:41:48Z | CVE-2021-21985 | Null | https://github.com/haiclover/CVE-2021-21985 | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
+| 20210711T04:20:46Z | CVE-2020-14343 | Experimenting with the CVE-2020-14343 PyYAML vulnerability | https://github.com/raul23/pyyaml-CVE-2020-14343 | A vulnerability was discovered in the PyYAML library in versions before 5.4, where it is susceptible to arbitrary code execution when it processes untrusted YAML files through the full_load method or with the FullLoader loader. Applications that use the library to process untrusted input may be vulnerable to this flaw. This flaw allows an attacker to execute arbitrary code on the system by abusing the python/object/new constructor. This flaw is due to an incomplete fix for CVE-2020-1747.| 
 | 20210711T00:23:22Z | CVE-2021-34527 | Null | https://github.com/dywhoami/CVE-2021-34527-Scanner-Based-On-cube0x0-POC | Windows Print Spooler Remote Code Execution Vulnerability| 
 | 20210710T21:43:57Z | CVE-2020-8277 | Null | https://github.com/AndrewIjano/CVE-2020-8277 | A Node.js application that allows an attacker to trigger a DNS request for a host of their choice could trigger a Denial of Service in versions < 15.2.1, < 14.15.1, and < 12.19.1 by getting the application to resolve a DNS record with a larger number of responses. This is fixed in 15.2.1, 14.15.1, and 12.19.1.| 
-| 20210710T20:32:52Z | CVE-2021-1675 | C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527 | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210710T17:58:29Z | CVE-2021-35042 | SQL injection via unsanitized QuerySet.order_by() input | https://github.com/YouGina/CVE-2021-35042 | Django 3.1.x before 3.1.13 and 3.2.x before 3.2.5 allows QuerySet.order_by SQL injection if order_by is untrusted input from a client of a web application.| 
+| 20210710T17:58:29Z | CVE-2021-35042 | SQL injection via unsanitized QuerySet.order_by() input | https://github.com/YouGina/CVE-2021-35042 | | 
 | 20210710T16:11:31Z | CVE-2021-26814 | Null | https://github.com/IlRabbino/Internet-Security-Project---CVE-2021-26814 | Wazuh API in Wazuh from 4.0.0 to 4.0.3 allows authenticated users to execute arbitrary code with administrative privileges via /manager/files URI. An authenticated user to the service may exploit incomplete input validation on the /manager/files API to inject arbitrary code within the API service script.| 
 | 20210710T12:42:26Z | CVE-2020-3580 | Automated bulk IP or domain scanner for CVE 2020 3580. Cisco ASA and FTD XSS hunter. | https://github.com/adarshvs/CVE-2020-3580 | Multiple vulnerabilities in the web services interface of Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software could allow an unauthenticated, remote attacker to conduct cross-site scripting (XSS) attacks against a user of the web services interface of an affected device. The vulnerabilities are due to insufficient validation of user-supplied input by the web services interface of an affected device. An attacker could exploit these vulnerabilities by persuading a user of the interface to click a crafted link. A successful exploit could allow the attacker to execute arbitrary script code in the context of the interface or allow the attacker to access sensitive, browser-based information. Note: These vulnerabilities affect only specific AnyConnect and WebVPN configurations. For more information, see the Vulnerable Products section.| 
 | 20210710T11:26:09Z | CVE-2020-7247 | PoC exploit for CVE-2020-7247 OpenSMTPD 6.4.0 < 6.6.1 Remote Code Execution | https://github.com/f4T1H21/CVE-2020-7247 | smtp_mailaddr in smtp_session.c in OpenSMTPD 6.6, as used in OpenBSD 6.6 and other products, allows remote attackers to execute arbitrary commands as root via a crafted SMTP session, as demonstrated by shell metacharacters in a MAIL FROM field. This affects the %uncommented% default configuration. The issue exists because of an incorrect return value upon failure of input validation.| 
-| 20210709T19:38:43Z | CVE-2021-21974 | POC for CVE-2021-21974 VMWare ESXi RCE Exploit | https://github.com/Shadow0ps/CVE-2021-21974 | OpenSLP as used in ESXi (7.0 before ESXi70U1c-17325551, 6.7 before ESXi670-202102401-SG, 6.5 before ESXi650-202102101-SG) has a heap-overflow vulnerability. A malicious actor residing within the same network segment as ESXi who has access to port 427 may be able to trigger the heap-overflow issue in OpenSLP service resulting in remote code execution.| 
-| 20210709T14:17:43Z | CVE-2021-1675 | Null | https://github.com/corelight/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 
 
 # klee on Github 推荐
@@ -86,39 +86,39 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210711T01:02:55Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 26 | 12| 
-| 20210711T00:11:28Z | Local file inclusion discovery and exploitation tool | https://github.com/hansmach1ne/lfimap | 3 | 0| 
-| 20210710T22:54:20Z | My first zero day. | https://github.com/Crystalware/CVE-2019-13600 | 0 | 0| 
-| 20210710T22:52:22Z | Repository For RBX Exploits Created By SigmaTech | https://github.com/SigmaEG/RBXExploits | 0 | 0| 
-| 20210710T22:29:49Z | Practice repository for binary exploitation and fuzzing | https://github.com/RickdeJager/binexp-practice | 0 | 0| 
-| 20210710T22:28:46Z | Exploits, Writeups and notes from the 2021 Enowars 5 Attack/Defense CTF | https://github.com/cioaonk/EnoWars-5 | 0 | 0| 
-| 20210710T22:15:31Z | My personal writeup for Nebula from Andrew Griffits Exploit Education | https://github.com/Hacker5preme/Nebula-Writeup | 0 | 0| 
-| 20210710T21:35:09Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9686 | 1592| 
-| 20210710T21:15:33Z | Go package that aids in binary analysis and exploitation | https://github.com/zznop/sploit | 163 | 20| 
-| 20210710T20:57:10Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 71 | 26| 
+| 20210711T11:55:11Z | Looks for evidence of PrintNightmare exploitation execution in Logs. Requires %Event Log Readers% or higher permissions. Defaults to domain controllers, yet can be pointed to any/all domain machines (using -AllComputers parameter, or changes LDAP query). Outputs results of potential PrintNightmare exploitation to console + CSV file. | https://github.com/YossiSassi/HuntPrintNightmareExploitation | 0 | 0| 
+| 20210711T11:46:05Z | This repository contains scripts,data files, and results of my master thesis %Exploiting Transformer-based Multitask Learning for the Detection of Media Bias in News Articles%  | https://github.com/DataDave09/Exploiting-Transformer-based-Multitask-Learning-for-the-Detection-of-Media-Bias-in-News-Articles | 0 | 0| 
+| 20210711T11:45:14Z | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | 0 | 0| 
+| 20210711T11:41:47Z | Null | https://github.com/xxycfhb/pku_exploit_files | 0 | 0| 
+| 20210711T11:36:02Z | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | 98 | 18| 
+| 20210711T11:31:56Z | Null | https://github.com/Username132131231/exploit | 0 | 0| 
+| 20210711T11:31:31Z | [ENG] A small exploit-library using the HIkvision-backdoor exploit. [DE] Kleine Python-Scripte, um die Backdoor in Hikvision-Kameras auszunutzen. | https://github.com/MatrixEditor/hikvision-sdk-cam | 1 | 0| 
+| 20210711T11:29:14Z | Geçmiş zamanlarda yazdığım yazılar. Siber güvenlik, Rootkit, Analiz, Bot Network, DDoS, DoS , Phishing , Exploit ...v.s... | https://github.com/expday/Yazilarim | 0 | 0| 
+| 20210711T11:02:51Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 26 | 12| 
+| 20210711T10:49:32Z | this is an open-source code for paper %Opponent Exploitation in No-limit Texas Hold%em Poker: A Neuroevolutionary Method Combined with Reinforcement Learning% | https://github.com/jiahui-x/NE_RL | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210711T11:31:31Z | [ENG] A small exploit-library using the HIkvision-backdoor exploit. [DE] Kleine Python-Scripte, um die Backdoor in Hikvision-Kameras auszunutzen. | https://github.com/MatrixEditor/hikvision-sdk-cam | 1 | 0| 
+| 20210711T11:14:55Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/Screetsec/TheFatRat | 5437 | 1764| 
+| 20210711T09:24:44Z | vmware-backdoor | https://github.com/rtyuiow/vmware-backdoor | 0 | 0| 
 | 20210710T21:33:23Z | PyBack - Backdoor in Python - Reverse TCP | https://github.com/Omikrone/PyBack | 2 | 0| 
 | 20210710T20:18:39Z | A simple python program that binds itself to a NIC and a specific port (6666) and then waits for the client commands. Depending on the command received, it will return specific information to the client. | https://github.com/etbullock9/python-server-backdoor | 0 | 0| 
-| 20210710T18:52:08Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/Screetsec/TheFatRat | 5432 | 1764| 
 | 20210710T16:33:41Z | Null | https://github.com/iK4oS/PremiumBackdoor.exe | 0 | 1| 
 | 20210710T16:03:11Z | Hexa Web Shell Backdoor | https://github.com/Bl4ckH4t-H4ck3r/Hexa-Shell | 0 | 0| 
 | 20210710T15:17:50Z | Null | https://github.com/PesAdam/python-backdoors | 0 | 0| 
 | 20210710T15:06:53Z | Simple Python Backdoor | https://github.com/zNairy/Sonaris | 6 | 0| 
 | 20210710T13:26:22Z | Simple Web Shell Backdoor can Bypass All Server with WAF instead | https://github.com/willygoid/H4x0rShell | 0 | 0| 
-| 20210710T11:11:47Z | Yet Another PHP Shell | https://github.com/Nickguitar/YAPS | 5 | 0| 
-| 20210710T10:15:46Z | A collection of python written hacking tools consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester credential harvester, keylogger, download&execute, and reverse_backdoor. | https://github.com/dmdhrumilmistry/hacking_tools | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210710T22:44:14Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 434 | 67| 
+| 20210711T06:51:11Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 436 | 67| 
+| 20210711T06:27:07Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2383 | 349| 
 | 20210710T08:43:45Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1838 | 385| 
-| 20210710T05:02:36Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2382 | 349| 
 | 20210709T19:49:48Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 146 | 33| 
 | 20210709T14:06:16Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 19 | 11| 
 | 20210709T11:53:16Z | FuSeBMC is a White-Box Fuzzer that combines FUzzing with Symbolic Execution via Bounded Model Checking to verify intricate properties in real-world C programs. | https://github.com/kaled-alshmrany/FuSeBMC | 18 | 1| 
@@ -140,16 +140,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210711T01:56:51Z | A tool that automatically creates fuzzing harnesses based on a library | https://github.com/parikhakshat/autoharness | 8 | 1| 
-| 20210711T01:55:25Z | wtf is a distributed, code-coverage guided, customizable, cross-platform snapshot-based fuzzer designed for attacking user and or kernel-mode targets running on Microsoft Windows. | https://github.com/0vercl0k/wtf | 3 | 0| 
-| 20210711T01:21:33Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 288 | 39| 
-| 20210711T01:16:39Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3587 | 839| 
-| 20210711T00:59:07Z | Fuzzer Project - UNSW COMP6447 21T2 | https://github.com/comp6447-fuzzers/panama | 0 | 0| 
-| 20210711T00:03:49Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 18 | 8| 
-| 20210710T23:47:04Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 483 | 48| 
-| 20210710T22:29:49Z | Practice repository for binary exploitation and fuzzing | https://github.com/RickdeJager/binexp-practice | 0 | 0| 
-| 20210710T22:27:13Z | Null | https://github.com/yanzhoupan/gen-fuzz | 2 | 0| 
-| 20210710T21:54:45Z | fuzzyjs is a fuzzy search algorithm in javascript | https://github.com/gjuchault/fuzzyjs | 168 | 12| 
+| 20210711T11:59:56Z | Predict taxi driver score by its behavior and driving quality | https://github.com/ahforoughi/driver-scoring-fuzzy-logic | 0 | 0| 
+| 20210711T11:57:14Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1878 | 376| 
+| 20210711T11:47:39Z | This is a patient data storage and management system. | https://github.com/Aman-letscode/CodeFuzzers | 1 | 0| 
+| 20210711T11:46:07Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
+| 20210711T11:43:00Z | Null | https://github.com/ArtieFuzzz/ArtieFuzzz | 0 | 1| 
+| 20210711T11:05:49Z | Simple FTP default credentials fuzzing | https://github.com/0xjustBen/FTP_Boring_Check | 1 | 0| 
+| 20210711T11:00:10Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
+| 20210711T09:57:41Z | fuzzyjs is a fuzzy search algorithm in javascript | https://github.com/gjuchault/fuzzyjs | 168 | 12| 
+| 20210711T09:38:50Z | FFUF(fuzz faster u fool) is a great tool used for fuzzing. It has become really popular lately with bug bounty hunters/penetration tester. It is written in Go language.For this you can fuzz a large amount of words within a minute. | https://github.com/tamimhasan404/FFUF-Tips-And-Tricks | 7 | 2| 
+| 20210711T09:14:31Z | Null | https://github.com/mnavandar/Fuzzy-Search-Over-Encrypted-Data | 0 | 0| 
 
 
 
