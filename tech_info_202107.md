@@ -86,6 +86,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210711T12:35:13Z | Local file inclusion discovery and exploitation tool | https://github.com/hansmach1ne/lfimap | 3 | 0| 
+| 20210711T12:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9687 | 1593| 
 | 20210711T12:24:46Z | Blogging with 100% less risk of wordpress being exploited | https://github.com/Hypfer/blog.hypfer.de | 0 | 0| 
 | 20210711T12:23:56Z | this is a repository for Exploiting Web Images for paper Fine-Grained Visual Recognition via Dynamic Loss Correction and Global Sample Selection submission | https://github.com/NUST-Machine-Intelligence-Laboratory/dynamic-loss-correction | 0 | 0| 
 | 20210711T12:02:57Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 26 | 12| 
@@ -94,8 +96,6 @@
 | 20210711T11:45:14Z | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | 0 | 0| 
 | 20210711T11:41:47Z | Null | https://github.com/xxycfhb/pku_exploit_files | 0 | 0| 
 | 20210711T11:36:02Z | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | 98 | 18| 
-| 20210711T11:31:56Z | Null | https://github.com/Username132131231/exploit | 0 | 0| 
-| 20210711T11:31:31Z | [ENG] A small exploit-library using the HIkvision-backdoor exploit. [DE] Kleine Python-Scripte, um die Backdoor in Hikvision-Kameras auszunutzen. | https://github.com/MatrixEditor/hikvision-sdk-cam | 1 | 0| 
 
 
 # backdoor on Github 推荐
