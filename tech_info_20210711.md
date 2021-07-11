@@ -20,8 +20,8 @@
 | 20210711T12:14:30Z | CVE-2020-3580 | Automated bulk IP or domain scanner for CVE 2020 3580. Cisco ASA and FTD XSS hunter. | https://github.com/adarshvs/CVE-2020-3580 | Multiple vulnerabilities in the web services interface of Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software could allow an unauthenticated, remote attacker to conduct cross-site scripting (XSS) attacks against a user of the web services interface of an affected device. The vulnerabilities are due to insufficient validation of user-supplied input by the web services interface of an affected device. An attacker could exploit these vulnerabilities by persuading a user of the interface to click a crafted link. A successful exploit could allow the attacker to execute arbitrary script code in the context of the interface or allow the attacker to access sensitive, browser-based information. Note: These vulnerabilities affect only specific AnyConnect and WebVPN configurations. For more information, see the Vulnerable Products section.| 
 | 20210711T08:55:53Z | CVE-2021-1675 | C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527 | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210711T08:16:01Z | cve-2021-1675 | Null | https://github.com/k8gege/cve-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210711T07:41:48Z | CVE-2021-21985 | Null | https://github.com/haiclover/CVE-2021-21985 | | 
-| 20210711T00:23:22Z | CVE-2021-34527 | Null | https://github.com/dywhoami/CVE-2021-34527-Scanner-Based-On-cube0x0-POC | | 
+| 20210711T07:41:48Z | CVE-2021-21985 | Null | https://github.com/haiclover/CVE-2021-21985 | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
+| 20210711T00:23:22Z | CVE-2021-34527 | Null | https://github.com/dywhoami/CVE-2021-34527-Scanner-Based-On-cube0x0-POC | Windows Print Spooler Remote Code Execution Vulnerability| 
 
 
 # klee on Github 推荐
@@ -38,6 +38,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210711T12:57:43Z | Educational web application demonstrating techniques of binary exploitation (Front-end) | https://github.com/Pen-Test3rs/binary_exploits_frontend | 0 | 0| 
+| 20210711T12:57:15Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 71 | 27| 
 | 20210711T12:35:13Z | Local file inclusion discovery and exploitation tool | https://github.com/hansmach1ne/lfimap | 3 | 0| 
 | 20210711T12:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9687 | 1593| 
 | 20210711T12:24:46Z | Blogging with 100% less risk of wordpress being exploited | https://github.com/Hypfer/blog.hypfer.de | 0 | 0| 
@@ -46,14 +48,12 @@
 | 20210711T11:55:11Z | Looks for evidence of PrintNightmare exploitation execution in Logs. Requires %Event Log Readers% or higher permissions. Defaults to domain controllers, yet can be pointed to any/all domain machines (using -AllComputers parameter, or changes LDAP query). Outputs results of potential PrintNightmare exploitation to console + CSV file. | https://github.com/YossiSassi/HuntPrintNightmareExploitation | 0 | 0| 
 | 20210711T11:46:05Z | This repository contains scripts,data files, and results of my master thesis %Exploiting Transformer-based Multitask Learning for the Detection of Media Bias in News Articles%  | https://github.com/DataDave09/Exploiting-Transformer-based-Multitask-Learning-for-the-Detection-of-Media-Bias-in-News-Articles | 0 | 0| 
 | 20210711T11:45:14Z | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | 0 | 0| 
-| 20210711T11:41:47Z | Null | https://github.com/xxycfhb/pku_exploit_files | 0 | 0| 
-| 20210711T11:36:02Z | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | 98 | 18| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210711T12:14:59Z | A Python module for building botnet ,backdoor or trojan with Telegram control panel | https://github.com/onionj/pybotnet | 4 | 3| 
+| 20210711T12:57:17Z | A Python module for building botnet ,backdoor or trojan with Telegram control panel | https://github.com/onionj/pybotnet | 5 | 3| 
 | 20210711T11:31:31Z | [ENG] A small exploit-library using the HIkvision-backdoor exploit. [DE] Kleine Python-Scripte, um die Backdoor in Hikvision-Kameras auszunutzen. | https://github.com/MatrixEditor/hikvision-sdk-cam | 1 | 0| 
 | 20210711T11:14:55Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/Screetsec/TheFatRat | 5437 | 1764| 
 | 20210711T09:24:44Z | vmware-backdoor | https://github.com/rtyuiow/vmware-backdoor | 0 | 0| 
