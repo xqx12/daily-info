@@ -140,12 +140,12 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210711T01:55:25Z | wtf is a distributed, code-coverage guided, customizable, cross-platform snapshot-based fuzzer designed for attacking user and or kernel-mode targets running on Microsoft Windows. | https://github.com/0vercl0k/wtf | 3 | 0| 
 | 20210711T01:51:04Z | A tool that automatically creates fuzzing harnesses based on a library | https://github.com/parikhakshat/autoharness | 7 | 1| 
 | 20210711T01:21:33Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 288 | 39| 
 | 20210711T01:16:39Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3587 | 839| 
 | 20210711T00:59:07Z | Fuzzer Project - UNSW COMP6447 21T2 | https://github.com/comp6447-fuzzers/panama | 0 | 0| 
 | 20210711T00:03:49Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 18 | 8| 
-| 20210710T23:53:01Z | wtf is a distributed, code-coverage guided, customizable, cross-platform snapshot-based fuzzer designed for attacking user and or kernel-mode targets running on Microsoft Windows. | https://github.com/0vercl0k/wtf | 2 | 0| 
 | 20210710T23:47:04Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 483 | 48| 
 | 20210710T22:29:49Z | Practice repository for binary exploitation and fuzzing | https://github.com/RickdeJager/binexp-practice | 0 | 0| 
 | 20210710T22:27:13Z | Null | https://github.com/yanzhoupan/gen-fuzz | 2 | 0| 

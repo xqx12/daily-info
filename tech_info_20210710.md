@@ -88,7 +88,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210710T23:53:01Z | wtf is a distributed, code-coverage guided, customizable, cross-platform snapshot-based fuzzer designed for attacking user and or kernel-mode targets running on Microsoft Windows. | https://github.com/0vercl0k/wtf | 2 | 0| 
 | 20210710T23:47:04Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 483 | 48| 
 | 20210710T22:29:49Z | Practice repository for binary exploitation and fuzzing | https://github.com/RickdeJager/binexp-practice | 0 | 0| 
 | 20210710T22:27:13Z | Null | https://github.com/yanzhoupan/gen-fuzz | 2 | 0| 
@@ -98,6 +97,7 @@
 | 20210710T21:32:49Z | Null | https://github.com/pxrsw/fuzzySystem | 0 | 0| 
 | 20210710T20:25:33Z | Null | https://github.com/adtyasamuel57/Fuzzy-Tsukamoto-Tsunamai | 0 | 0| 
 | 20210710T18:46:36Z | A fuzzy c-means implementation to classify wines. | https://github.com/JMateusSousa/Fuzzy-C-Means | 0 | 0| 
+| 20210710T18:46:33Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6474 | 1312| 
 
 
 
