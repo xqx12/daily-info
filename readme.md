@@ -37,6 +37,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210711T12:02:57Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 26 | 12| 
 | 20210711T11:55:11Z | Looks for evidence of PrintNightmare exploitation execution in Logs. Requires %Event Log Readers% or higher permissions. Defaults to domain controllers, yet can be pointed to any/all domain machines (using -AllComputers parameter, or changes LDAP query). Outputs results of potential PrintNightmare exploitation to console + CSV file. | https://github.com/YossiSassi/HuntPrintNightmareExploitation | 0 | 0| 
 | 20210711T11:46:05Z | This repository contains scripts,data files, and results of my master thesis %Exploiting Transformer-based Multitask Learning for the Detection of Media Bias in News Articles%  | https://github.com/DataDave09/Exploiting-Transformer-based-Multitask-Learning-for-the-Detection-of-Media-Bias-in-News-Articles | 0 | 0| 
 | 20210711T11:45:14Z | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | 0 | 0| 
@@ -45,7 +46,6 @@
 | 20210711T11:31:56Z | Null | https://github.com/Username132131231/exploit | 0 | 0| 
 | 20210711T11:31:31Z | [ENG] A small exploit-library using the HIkvision-backdoor exploit. [DE] Kleine Python-Scripte, um die Backdoor in Hikvision-Kameras auszunutzen. | https://github.com/MatrixEditor/hikvision-sdk-cam | 1 | 0| 
 | 20210711T11:29:14Z | Geçmiş zamanlarda yazdığım yazılar. Siber güvenlik, Rootkit, Analiz, Bot Network, DDoS, DoS , Phishing , Exploit ...v.s... | https://github.com/expday/Yazilarim | 0 | 0| 
-| 20210711T11:02:51Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 26 | 12| 
 | 20210711T10:49:32Z | this is an open-source code for paper %Opponent Exploitation in No-limit Texas Hold%em Poker: A Neuroevolutionary Method Combined with Reinforcement Learning% | https://github.com/jiahui-x/NE_RL | 0 | 0| 
 
 
