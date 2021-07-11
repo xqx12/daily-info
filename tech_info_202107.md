@@ -140,6 +140,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210711T01:21:33Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 288 | 39| 
 | 20210711T01:16:39Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3587 | 839| 
 | 20210711T00:59:07Z | Fuzzer Project - UNSW COMP6447 21T2 | https://github.com/comp6447-fuzzers/panama | 0 | 0| 
 | 20210711T00:03:49Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 18 | 8| 
@@ -149,7 +150,6 @@
 | 20210710T22:29:49Z | Practice repository for binary exploitation and fuzzing | https://github.com/RickdeJager/binexp-practice | 0 | 0| 
 | 20210710T22:27:13Z | Null | https://github.com/yanzhoupan/gen-fuzz | 2 | 0| 
 | 20210710T21:54:45Z | fuzzyjs is a fuzzy search algorithm in javascript | https://github.com/gjuchault/fuzzyjs | 168 | 12| 
-| 20210710T21:39:38Z | Fuzzinator Random Testing Framework | https://github.com/renatahodovan/fuzzinator | 177 | 38| 
 
 
 
