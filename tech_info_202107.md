@@ -86,7 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210711T12:13:50Z | Blogging with 100% less risk of wordpress being exploited | https://github.com/Hypfer/blog.hypfer.de | 0 | 0| 
+| 20210711T12:19:12Z | Blogging with 100% less risk of wordpress being exploited | https://github.com/Hypfer/blog.hypfer.de | 0 | 0| 
 | 20210711T12:02:57Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 26 | 12| 
 | 20210711T11:55:11Z | Looks for evidence of PrintNightmare exploitation execution in Logs. Requires %Event Log Readers% or higher permissions. Defaults to domain controllers, yet can be pointed to any/all domain machines (using -AllComputers parameter, or changes LDAP query). Outputs results of potential PrintNightmare exploitation to console + CSV file. | https://github.com/YossiSassi/HuntPrintNightmareExploitation | 0 | 0| 
 | 20210711T11:46:05Z | This repository contains scripts,data files, and results of my master thesis %Exploiting Transformer-based Multitask Learning for the Detection of Media Bias in News Articles%  | https://github.com/DataDave09/Exploiting-Transformer-based-Multitask-Learning-for-the-Detection-of-Media-Bias-in-News-Articles | 0 | 0| 
