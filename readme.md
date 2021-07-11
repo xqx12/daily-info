@@ -23,7 +23,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210710T21:43:57Z | CVE-2020-8277 | Null | https://github.com/AndrewIjano/CVE-2020-8277 | A Node.js application that allows an attacker to trigger a DNS request for a host of their choice could trigger a Denial of Service in versions < 15.2.1, < 14.15.1, and < 12.19.1 by getting the application to resolve a DNS record with a larger number of responses. This is fixed in 15.2.1, 14.15.1, and 12.19.1.| 
+| 20210710T21:43:57Z | CVE-2020-8277 | Null | https://github.com/AndrewIjano/CVE-2020-8277 | | 
 | 20210710T20:32:52Z | CVE-2021-1675 | C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527 | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210710T17:58:29Z | CVE-2021-35042 | SQL injection via unsanitized QuerySet.order_by() input | https://github.com/YouGina/CVE-2021-35042 | Django 3.1.x before 3.1.13 and 3.2.x before 3.2.5 allows QuerySet.order_by SQL injection if order_by is untrusted input from a client of a web application.| 
 | 20210710T16:11:31Z | CVE-2021-26814 | Null | https://github.com/IlRabbino/Internet-Security-Project---CVE-2021-26814 | Wazuh API in Wazuh from 4.0.0 to 4.0.3 allows authenticated users to execute arbitrary code with administrative privileges via /manager/files URI. An authenticated user to the service may exploit incomplete input validation on the /manager/files API to inject arbitrary code within the API service script.| 
