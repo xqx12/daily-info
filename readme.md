@@ -26,7 +26,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210712T11:04:39Z | CVE-2021-21985 | Null | https://github.com/haiclover/CVE-2021-21985 | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
-| 20210712T09:44:22Z | cve-2021-1675 | Null | https://github.com/k8gege/cve-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
+| 20210712T09:44:22Z | cve-2021-1675 | Null | https://github.com/k8gege/cve-2021-1675 | | 
 | 20210712T09:04:13Z | CVE-2021-24347 | Null | https://github.com/huydoppa/CVE-2021-24347- | The SP Project & Document Manager WordPress plugin before 4.22 allows users to upload files, however, the plugin attempts to prevent php and other similar files that could be executed on the server from being uploaded by checking the file extension. It was discovered that php files could still be uploaded by changing the file extension%s case, for example, from %php% to %pHP%.| 
 | 20210712T08:51:24Z | CVE-2021-1675 | CVE-2021-1675 / CVE-2021-34527 - PrintNightmare Python, C# and PowerShell Exploits Implementations (LPE & RCE) | https://github.com/galoget/PrintNightmare-CVE-2021-1675-CVE-2021-34527 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210712T08:03:27Z | CVE-2020-24148 | CVE-2020-24148 Proof-of-Concept | https://github.com/dwisiswant0/CVE-2020-24148 | Server-side request forgery (SSRF) in the Import XML and RSS Feeds (import-xml-feed) plugin 2.0.1 for WordPress via the data parameter in a moove_read_xml action.| 
@@ -48,9 +48,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210712T12:02:58Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 26 | 12| 
 | 20210712T11:45:47Z | GUI Exploit Tool For RedTeam | https://github.com/MrMeizhi/DriedMango | 31 | 6| 
 | 20210712T11:23:02Z | Exploit Code | https://github.com/wjddnjs33/Exploit | 0 | 0| 
-| 20210712T11:02:57Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 26 | 12| 
 | 20210712T10:17:39Z | bespoke tooling for offensive security%s Windows Usermode Exploit Dev course (OSED) | https://github.com/epi052/osed-scripts | 68 | 31| 
 | 20210712T10:03:52Z | This repository contains some resources for ethical hackers penetration tester 😊 This may contain some files, tools, books, and links that need to be used for good purposes only. Do not do any illegal work using these sources. | https://github.com/rng70/Hacking-Resources | 4 | 0| 
 | 20210712T09:47:05Z | POC script that exploits the Tentacles upload functionality of OctoBot and which leads to an arbitrary code execution. | https://github.com/Naqwada/Sashimi-Evil-OctoBot-Tentacle | 0 | 0| 
@@ -63,6 +63,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210712T11:16:34Z | A collection of python written hacking tools consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester credential harvester, keylogger, download&execute, and reverse_backdoor. | https://github.com/dmdhrumilmistry/hacking_tools | 0 | 0| 
+| 20210712T09:20:24Z | 🤖An Evil and Smart Bot for Enslaving Windows. | https://github.com/wildonion/katyusha | 3 | 1| 
 | 20210712T01:56:06Z | Defending Against Backdoor Attacks Using Robust Covariance Estimation | https://github.com/SewoongLab/spectre-defense | 3 | 0| 
 
 
