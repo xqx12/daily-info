@@ -27,7 +27,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210712T12:14:20Z | CVE-2020-14343 | Experimenting with the CVE-2020-14343 PyYAML vulnerability | https://github.com/raul23/pyyaml-CVE-2020-14343 | A vulnerability was discovered in the PyYAML library in versions before 5.4, where it is susceptible to arbitrary code execution when it processes untrusted YAML files through the full_load method or with the FullLoader loader. Applications that use the library to process untrusted input may be vulnerable to this flaw. This flaw allows an attacker to execute arbitrary code on the system by abusing the python/object/new constructor. This flaw is due to an incomplete fix for CVE-2020-1747.| 
 | 20210712T11:04:39Z | CVE-2021-21985 | Null | https://github.com/haiclover/CVE-2021-21985 | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
-| 20210712T09:44:22Z | cve-2021-1675 | Null | https://github.com/k8gege/cve-2021-1675 | | 
+| 20210712T09:44:22Z | cve-2021-1675 | Null | https://github.com/k8gege/cve-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210712T09:04:13Z | CVE-2021-24347 | Null | https://github.com/huydoppa/CVE-2021-24347- | The SP Project & Document Manager WordPress plugin before 4.22 allows users to upload files, however, the plugin attempts to prevent php and other similar files that could be executed on the server from being uploaded by checking the file extension. It was discovered that php files could still be uploaded by changing the file extension%s case, for example, from %php% to %pHP%.| 
 | 20210712T08:51:24Z | CVE-2021-1675 | CVE-2021-1675 / CVE-2021-34527 - PrintNightmare Python, C# and PowerShell Exploits Implementations (LPE & RCE) | https://github.com/galoget/PrintNightmare-CVE-2021-1675-CVE-2021-34527 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210712T08:03:27Z | CVE-2020-24148 | CVE-2020-24148 Proof-of-Concept | https://github.com/dwisiswant0/CVE-2020-24148 | Server-side request forgery (SSRF) in the Import XML and RSS Feeds (import-xml-feed) plugin 2.0.1 for WordPress via the data parameter in a moove_read_xml action.| 
@@ -83,6 +83,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210712T12:26:46Z | Binary, coverage-guided fuzzer for Windows and macOS | https://github.com/googleprojectzero/Jackalope | 570 | 68| 
 | 20210712T12:24:35Z | Corpus of fuzzer data use by libtpms%s fuzzer | https://github.com/stefanberger/libtpms-fuzz-corpus | 0 | 0| 
 | 20210712T12:20:05Z | Null | https://github.com/t-pegors/fuzzy-address-search | 0 | 0| 
 | 20210712T12:19:18Z | Pit file for Peach and PeachPro Fuzzer | https://github.com/0x34d/PeachPit | 0 | 0| 
@@ -92,7 +93,6 @@
 | 20210712T11:31:18Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210712T11:23:23Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3589 | 841| 
 | 20210712T11:20:35Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
-| 20210712T11:16:44Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 483 | 48| 
 
 
 
