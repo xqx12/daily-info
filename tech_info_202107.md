@@ -61,10 +61,10 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210712T00:29:32Z | Null | https://github.com/JaimePSantos/ResearchKlee | 0 | 0| 
 | 20210709T14:09:51Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 708 | 16| 
 | 20210709T09:46:08Z | Null | https://github.com/thierry-tct/KLEE-SEMu | 3 | 2| 
 | 20210708T22:23:17Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 216 | 35| 
-| 20210708T21:13:24Z | Null | https://github.com/JaimePSantos/ResearchKlee | 0 | 0| 
 | 20210707T22:30:33Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
 | 20210707T17:01:12Z | TInA is an automated, generic, verification-friendly and trustworthy lifting technique turning GNU-style inline assembly into semantically equivalent C code amenable to verification, in order to take advantage of existing C analyzers. | https://github.com/binsec/klee21-tina-artifact | 21 | 1| 
 | 20210707T15:43:03Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 10 | 1| 
@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210712T00:31:53Z | SSRF search vulnerabilities exploitation extended. | https://github.com/duckstroms/ssrf-search | 13 | 3| 
 | 20210712T00:02:56Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 26 | 12| 
 | 20210711T23:31:51Z | A Framework that allows you to search for vulnerable android devices across the world and exploit them. | https://github.com/0x1CA3/AdbNet | 0 | 0| 
 | 20210711T23:26:33Z | Local file inclusion discovery and exploitation tool | https://github.com/hansmach1ne/lfimap | 3 | 0| 
@@ -95,7 +96,6 @@
 | 20210711T22:43:52Z | Roblox Exploit Unpack Zeus By TH3KEN | https://github.com/th3ken-host/Zeus-unpack | 0 | 0| 
 | 20210711T22:28:40Z | Roblox Exploit Unpack Furk Ultra By TH3KEN | https://github.com/th3ken-host/Furk-Ultra-unpack | 0 | 0| 
 | 20210711T21:44:12Z | A simple git repositoy for exploiting a %sudo git pull%  privilege escalation | https://github.com/Eduard0x6F/git-pull-privilege-escalation | 0 | 0| 
-| 20210711T21:40:39Z | A collection of security vulnerabilities and exploits for ToaruOS. https://toaruos.org/ | https://github.com/mehsauce/kowasuos | 2 | 0| 
 
 
 # backdoor on Github 推荐
