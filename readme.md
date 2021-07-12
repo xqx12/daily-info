@@ -69,7 +69,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20210711T06:51:11Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 436 | 67| 
-| 20210711T06:27:07Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2383 | 349| 
+| 20210711T06:27:07Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2383 | 350| 
 
 
 # big4 on Github 推荐
