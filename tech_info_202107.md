@@ -140,6 +140,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210712T00:09:37Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1881 | 376| 
 | 20210712T00:04:53Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 18 | 8| 
 | 20210712T00:02:12Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210711T23:02:34Z | Wordlist for brute-forcing and discover hidden things | https://github.com/tamimhasan404/Wordlist | 9 | 1| 
@@ -149,7 +150,6 @@
 | 20210711T19:40:10Z | Null | https://github.com/Permana25/fuzzyservqual | 0 | 0| 
 | 20210711T19:29:53Z | fuzzy controller in python using skfuzzy | https://github.com/nikashahabi/fuzzy_controller | 0 | 0| 
 | 20210711T18:26:55Z | Null | https://github.com/WillAbides/fuzz-example | 0 | 0| 
-| 20210711T18:06:01Z | Null | https://github.com/salimalsaidi2021/fuzzy-couscous | 0 | 0| 
 
 
 
