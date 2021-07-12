@@ -48,8 +48,8 @@
 | 20210711T22:43:52Z | Roblox Exploit Unpack Zeus By TH3KEN | https://github.com/th3ken-host/Zeus-unpack | 0 | 0| 
 | 20210711T22:28:40Z | Roblox Exploit Unpack Furk Ultra By TH3KEN | https://github.com/th3ken-host/Furk-Ultra-unpack | 0 | 0| 
 | 20210711T21:44:12Z | A simple git repositoy for exploiting a %sudo git pull%  privilege escalation | https://github.com/Eduard0x6F/git-pull-privilege-escalation | 0 | 0| 
-| 20210711T21:40:39Z | A collection of security vulnerabilities and exploits for ToaruOS. https://toaruos.org/ | https://github.com/mehsauce/kowasuos | 2 | 0| 
 | 20210711T21:37:34Z | Bukkit plugin that aims on fixing Exploits in your Minecraft network. [Requires HamsterAPI to work] | https://github.com/2lstudios-mc/ExploitFixer | 103 | 28| 
+| 20210711T21:35:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9691 | 1593| 
 
 
 # backdoor on Github 推荐

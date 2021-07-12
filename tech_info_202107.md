@@ -86,6 +86,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210712T01:45:20Z | A collection of security vulnerabilities and exploits for ToaruOS. https://toaruos.org/ | https://github.com/mehsauce/kowasuos | 2 | 0| 
+| 20210712T01:45:15Z | A spigot based plugin dedicated to fixing glitches and exploits that have made it into final Minecraft releases. | https://github.com/dniym/IllegalStack | 61 | 21| 
 | 20210712T01:30:26Z | iOS, ARM, Research funded by the XSS.Cx Anti-Phishing Team | https://github.com/xsscx/ios-arm-research | 10 | 1| 
 | 20210712T01:02:57Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 26 | 12| 
 | 20210712T00:55:29Z | Cloud C2 Framework, which at the moment offers reconnaissance, enumeration, exploitation, post exploitation on AWS, but still working to allow testing other Cloud Providers and DevOps Components. | https://github.com/gl4ssesbo1/Nebula | 127 | 24| 
@@ -94,8 +96,6 @@
 | 20210711T23:26:33Z | Local file inclusion discovery and exploitation tool | https://github.com/hansmach1ne/lfimap | 3 | 0| 
 | 20210711T23:19:05Z | sploit(exploit) research | https://github.com/haconehack/sploit-research | 0 | 0| 
 | 20210711T23:18:14Z | This is a plugin for Minecraft that aids in building, as it gives the player creative mode and charges them for each block they place. All exploits are patched as well. | https://github.com/bsalha1/Printer | 2 | 4| 
-| 20210711T22:47:24Z | Crash, exploit and bot protection plugin. | https://github.com/RayzsYT/RayzsShield | 0 | 0| 
-| 20210711T22:43:52Z | Roblox Exploit Unpack Zeus By TH3KEN | https://github.com/th3ken-host/Zeus-unpack | 0 | 0| 
 
 
 # backdoor on Github 推荐
