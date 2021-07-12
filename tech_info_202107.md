@@ -140,16 +140,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210712T01:55:08Z | A ground-truth binary fuzzing benchmark suite based on real programs with real bugs. | https://github.com/HexHive/magma | 125 | 39| 
-| 20210712T01:32:33Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210712T00:09:37Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1881 | 376| 
-| 20210712T00:04:53Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 18 | 8| 
-| 20210712T00:02:12Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
-| 20210711T23:02:34Z | Wordlist for brute-forcing and discover hidden things | https://github.com/tamimhasan404/Wordlist | 9 | 1| 
-| 20210711T20:42:30Z | Null | https://github.com/Sam-damn/Fuzzy-Clustering | 0 | 0| 
-| 20210711T20:20:58Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6475 | 1313| 
-| 20210711T19:59:23Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 288 | 39| 
-| 20210711T19:40:10Z | Null | https://github.com/Permana25/fuzzyservqual | 0 | 0| 
+| 20210712T11:55:28Z | Emulation based snapshot fuzzer | https://github.com/jaoeul/gingersnap | 0 | 0| 
+| 20210712T11:50:42Z | Real firmware fuzz-tested with uEmu | https://github.com/MCUSec/uEmu-real_world_firmware | 3 | 1| 
+| 20210712T11:40:54Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1886 | 376| 
+| 20210712T11:31:18Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20210712T11:23:23Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3589 | 841| 
+| 20210712T11:20:35Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
+| 20210712T11:16:44Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 483 | 48| 
+| 20210712T11:15:44Z | Null | https://github.com/t-pegors/fuzzy-address-search | 0 | 0| 
+| 20210712T10:50:16Z | Demorepo | https://github.com/NikFad/fuzzy-spoons | 0 | 0| 
+| 20210712T10:13:00Z | Null | https://github.com/iam-pattan/Fuzzy_and_GANs | 0 | 0| 
 
 
 
