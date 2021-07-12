@@ -101,6 +101,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210712T01:51:57Z | Defending Against Backdoor Attacks Using Robust Covariance Estimation | https://github.com/SewoongLab/spectre-defense | 3 | 0| 
 | 20210711T22:54:14Z | A webshell that can bypass some system security | https://github.com/22XploiterCrew-Team/Gel4y-Mini-Shell-Backdoor | 3 | 1| 
 | 20210711T21:39:54Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/Screetsec/TheFatRat | 5439 | 1765| 
 | 20210711T21:27:23Z | Null | https://github.com/magzim21/go-backdoor | 0 | 0| 
@@ -110,7 +111,6 @@
 | 20210711T16:00:52Z | 🤖An Evil and Smart Bot for Enslaving Windows. | https://github.com/wildonion/katyusha | 3 | 1| 
 | 20210711T09:24:44Z | vmware-backdoor | https://github.com/rtyuiow/vmware-backdoor | 0 | 0| 
 | 20210710T21:33:23Z | PyBack - Backdoor in Python - Reverse TCP | https://github.com/Omikrone/PyBack | 2 | 0| 
-| 20210710T20:18:39Z | A simple python program that binds itself to a NIC and a specific port (6666) and then waits for the client commands. Depending on the command received, it will return specific information to the client. | https://github.com/etbullock9/python-server-backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
