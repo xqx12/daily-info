@@ -140,7 +140,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210712T00:11:57Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20210712T01:32:33Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210712T00:09:37Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1881 | 376| 
 | 20210712T00:04:53Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 18 | 8| 
 | 20210712T00:02:12Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
