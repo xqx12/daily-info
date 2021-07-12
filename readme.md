@@ -83,6 +83,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210712T12:15:17Z | Corpus of fuzzer data use by libtpms%s fuzzer | https://github.com/stefanberger/libtpms-fuzz-corpus | 0 | 0| 
 | 20210712T12:12:29Z | Null | https://github.com/t-pegors/fuzzy-address-search | 0 | 0| 
 | 20210712T11:55:28Z | Emulation based snapshot fuzzer | https://github.com/jaoeul/gingersnap | 0 | 0| 
 | 20210712T11:50:42Z | Real firmware fuzz-tested with uEmu | https://github.com/MCUSec/uEmu-real_world_firmware | 3 | 1| 
@@ -92,7 +93,6 @@
 | 20210712T11:20:35Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
 | 20210712T11:16:44Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 483 | 48| 
 | 20210712T10:50:16Z | Demorepo | https://github.com/NikFad/fuzzy-spoons | 0 | 0| 
-| 20210712T10:13:00Z | Null | https://github.com/iam-pattan/Fuzzy_and_GANs | 0 | 0| 
 
 
 
