@@ -52,7 +52,7 @@
 | 20210713T02:39:25Z | cve-2021-1675 | Null | https://github.com/k8gege/cve-2021-1675 | | 
 | 20210713T00:28:02Z | CVE-2020-14343 | Experimenting with the CVE-2020-14343 PyYAML vulnerability | https://github.com/raul23/pyyaml-CVE-2020-14343 | A vulnerability was discovered in the PyYAML library in versions before 5.4, where it is susceptible to arbitrary code execution when it processes untrusted YAML files through the full_load method or with the FullLoader loader. Applications that use the library to process untrusted input may be vulnerable to this flaw. This flaw allows an attacker to execute arbitrary code on the system by abusing the python/object/new constructor. This flaw is due to an incomplete fix for CVE-2020-1747.| 
 | 20210712T17:27:32Z | CVE-2020-24148 | CVE-2020-24148 Proof-of-Concept | https://github.com/dwisiswant0/CVE-2020-24148 | Server-side request forgery (SSRF) in the Import XML and RSS Feeds (import-xml-feed) plugin 2.0.1 for WordPress via the data parameter in a moove_read_xml action.| 
-| 20210712T15:14:01Z | CVE-2021-525 | D-Link credentials decryption tool poc | https://github.com/full-disclosure/FDEU-CVE-2021-525A | | 
+| 20210712T15:14:01Z | CVE-2021-525 | D-Link credentials decryption tool poc | https://github.com/full-disclosure/FDEU-CVE-2021-525A | 未查询到CVE信息| 
 | 20210712T11:04:39Z | CVE-2021-21985 | Null | https://github.com/haiclover/CVE-2021-21985 | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
 | 20210712T09:04:13Z | CVE-2021-24347 | Null | https://github.com/huydoppa/CVE-2021-24347- | The SP Project & Document Manager WordPress plugin before 4.22 allows users to upload files, however, the plugin attempts to prevent php and other similar files that could be executed on the server from being uploaded by checking the file extension. It was discovered that php files could still be uploaded by changing the file extension%s case, for example, from %php% to %pHP%.| 
 | 20210712T08:51:24Z | CVE-2021-1675 | CVE-2021-1675 / CVE-2021-34527 - PrintNightmare Python, C# and PowerShell Exploits Implementations (LPE & RCE) | https://github.com/galoget/PrintNightmare-CVE-2021-1675-CVE-2021-34527 | Windows Print Spooler Elevation of Privilege Vulnerability| 
@@ -116,12 +116,12 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210713T01:05:38Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1728 | 497| 
-| 20210712T19:47:21Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 7 | 4| 
-| 20210712T17:41:00Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2385 | 351| 
+| 20210713T09:20:21Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1729 | 497| 
+| 20210713T08:26:33Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2386 | 351| 
+| 20210713T08:12:04Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1839 | 385| 
+| 20210713T05:49:45Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 147 | 33| 
+| 20210713T05:00:28Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 7 | 4| 
 | 20210712T12:40:59Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 438 | 67| 
-| 20210710T08:43:45Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1838 | 385| 
-| 20210709T19:49:48Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 146 | 33| 
 | 20210709T14:06:16Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 19 | 11| 
 | 20210709T11:53:16Z | FuSeBMC is a White-Box Fuzzer that combines FUzzing with Symbolic Execution via Bounded Model Checking to verify intricate properties in real-world C programs. | https://github.com/kaled-alshmrany/FuSeBMC | 18 | 1| 
 | 20210709T10:08:20Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 14 | 3| 
