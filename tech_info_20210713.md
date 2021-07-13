@@ -16,6 +16,7 @@
 | 20210713 | 代码混淆技术概览 | https://chris124567.github.io/2021-06-23-survey-obfuscation/| 
 | 20210713 | Detecting Linux Kernel Hooking using eBPF | https://blog.tofile.dev/2021/07/07/ebpf-hooks.html| 
 | 20210713 | Dell Wyse 管理套件的 Web 接口被发现任意文件读漏洞 | https://sec.today/pulses/b0291f5f-5808-46ff-8607-21820c47edea/| 
+| 20210713 | Dell Wyse 管理套件的 Web 接口被发现任意文件读漏洞 | https://research.nccgroup.com/2021/07/06/technical-advisory-arbitrary-file-read-in-dell-wyse-management-suite-cve-2021-21586-cve-2021-21587/| 
 
 
 # 安全维基 推荐
@@ -67,6 +68,12 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210713T10:59:01Z | A collection of python written hacking tools consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester credential harvester, keylogger, download&execute, and reverse_backdoor. | https://github.com/dmdhrumilmistry/hacking_tools | 0 | 0| 
+| 20210713T10:33:34Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 85 | 14| 
+| 20210713T09:35:11Z | Generate Virus/Backdoor/Worm you name it! | https://github.com/FonderElite/Warrior | 1 | 0| 
+| 20210713T08:10:18Z | 🤖An Evil and Smart Bot for Enslaving Windows Written in Rust and Python | https://github.com/wildonion/katyusha | 3 | 1| 
+| 20210713T04:15:18Z | Yet Another PHP Shell | https://github.com/Nickguitar/YAPS | 8 | 1| 
+| 20210713T02:13:43Z | A Python module for building botnet ,backdoor or trojan with Telegram control panel | https://github.com/onionj/pybotnet | 7 | 4| 
 
 
 # symbolic execution on Github 推荐

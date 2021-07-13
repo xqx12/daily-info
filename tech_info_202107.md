@@ -16,6 +16,7 @@
 | 20210713 | 代码混淆技术概览 | https://chris124567.github.io/2021-06-23-survey-obfuscation/| 
 | 20210713 | Detecting Linux Kernel Hooking using eBPF | https://blog.tofile.dev/2021/07/07/ebpf-hooks.html| 
 | 20210713 | Dell Wyse 管理套件的 Web 接口被发现任意文件读漏洞 | https://sec.today/pulses/b0291f5f-5808-46ff-8607-21820c47edea/| 
+| 20210713 | Dell Wyse 管理套件的 Web 接口被发现任意文件读漏洞 | https://research.nccgroup.com/2021/07/06/technical-advisory-arbitrary-file-read-in-dell-wyse-management-suite-cve-2021-21586-cve-2021-21587/| 
 | 20210712 | Hells Gate - Original C Implementation of the Hells Gate VX Technique | https://github.com/am0nsec/HellsGate| 
 | 20210712 | AutoHarness - 自动化生成 Fuzz 测试用例的工具 | https://github.com/parikhakshat/autoharness| 
 | 20210712 | QuickSand - 一款用于分析和检测恶意文档的开源 Python 工具 | https://github.com/tylabs/quicksand| 
@@ -25,7 +26,6 @@
 | 20210712 | UDP Technology 公司开发的网络摄像头固件多个高危漏洞的分析 | https://www.randorisec.fr/udp-technology-ip-camera-vulnerabilities/| 
 | 20210712 | Android 蓝牙源码学习笔记 | https://evilpan.com/2021/07/11/android-bt/| 
 | 20210712 | 蓝牙安全与攻击案例分析 | https://evilpan.com/2021/07/10/bluetooth-sec/#top| 
-| 20210712 | Windows Print Spooler 服务最新漏洞 (CVE-2021-34527)详细分析. | https://paper.seebug.org/1632/| 
 
 
 # 安全维基 推荐
@@ -101,16 +101,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210713T10:59:01Z | A collection of python written hacking tools consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester credential harvester, keylogger, download&execute, and reverse_backdoor. | https://github.com/dmdhrumilmistry/hacking_tools | 0 | 0| 
+| 20210713T10:33:34Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 85 | 14| 
+| 20210713T09:35:11Z | Generate Virus/Backdoor/Worm you name it! | https://github.com/FonderElite/Warrior | 1 | 0| 
+| 20210713T08:10:18Z | 🤖An Evil and Smart Bot for Enslaving Windows Written in Rust and Python | https://github.com/wildonion/katyusha | 3 | 1| 
+| 20210713T04:15:18Z | Yet Another PHP Shell | https://github.com/Nickguitar/YAPS | 8 | 1| 
+| 20210713T02:13:43Z | A Python module for building botnet ,backdoor or trojan with Telegram control panel | https://github.com/onionj/pybotnet | 7 | 4| 
 | 20210712T20:43:58Z | Defending Against Backdoor Attacks Using Robust Covariance Estimation | https://github.com/SewoongLab/spectre-defense | 3 | 0| 
 | 20210712T20:32:46Z | Null | https://github.com/Wiilldd/backdoor | 0 | 0| 
 | 20210712T19:47:20Z | Null | https://github.com/PesAdam/python-backdoors | 0 | 0| 
 | 20210712T19:41:16Z | Implementation of a native-code HatSploit membrane for unix-like systems, designed for portability, embeddability, and low resource utilization. | https://github.com/EntySec/membrane | 5 | 3| 
-| 20210712T18:50:25Z | Yet Another PHP Shell | https://github.com/Nickguitar/YAPS | 7 | 1| 
-| 20210712T18:18:39Z | A macro generation tool for exploiting windows computers, along with some fun harmless macros. | https://github.com/Famous-Soldier/Pure-Star | 1 | 1| 
-| 20210712T17:38:48Z | Null | https://github.com/Pramodh-G/MalwareBackdoors | 0 | 0| 
-| 20210712T17:38:46Z | Null | https://github.com/eudess21/BackdoorMan | 0 | 0| 
-| 20210712T17:32:19Z | Backdoor Generator is a tool to create encoded payloads for reverse shells. | https://github.com/v3cth0r/Backdoor-generator | 0 | 0| 
-| 20210712T15:55:55Z | Null | https://github.com/backdoor322/backdoor322.github.io | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
