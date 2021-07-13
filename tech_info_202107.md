@@ -140,6 +140,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210713T01:18:48Z | A fuzzy ecosystem for evaluating the stability of your computational tools. | https://github.com/verificarlo/fuzzy | 10 | 11| 
 | 20210713T01:09:40Z | Repository to store my studies on fuzzy logic algorithms implementation | https://github.com/Rodolfodc/fuzzy_logic_2learn | 0 | 0| 
 | 20210713T00:11:30Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210713T00:05:01Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 18 | 8| 
@@ -149,7 +150,6 @@
 | 20210712T22:55:55Z | Ongoing development of the Fuzzball MUCK server software and associated functionality. | https://github.com/fuzzball-muck/fuzzball | 34 | 23| 
 | 20210712T22:38:50Z | A Python based web application scanner to gather OSINT and fuzz for OWASP vulnerabilities on a target website. | https://github.com/1N3/BlackWidow | 934 | 291| 
 | 20210712T22:31:43Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
-| 20210712T22:27:29Z | Null | https://github.com/Fesenka777/fuzzy-journey | 0 | 0| 
 
 
 
