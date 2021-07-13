@@ -50,7 +50,7 @@
 | 20210712T18:38:46Z | CVE-2021-1675 | Null | https://github.com/corelight/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210712T17:27:32Z | CVE-2020-24148 | CVE-2020-24148 Proof-of-Concept | https://github.com/dwisiswant0/CVE-2020-24148 | Server-side request forgery (SSRF) in the Import XML and RSS Feeds (import-xml-feed) plugin 2.0.1 for WordPress via the data parameter in a moove_read_xml action.| 
 | 20210712T15:14:01Z | CVE-2021-525 | D-Link credentials decryption tool poc | https://github.com/full-disclosure/FDEU-CVE-2021-525A | 未查询到CVE信息| 
-| 20210712T11:04:39Z | CVE-2021-21985 | Null | https://github.com/haiclover/CVE-2021-21985 | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
+| 20210712T11:04:39Z | CVE-2021-21985 | Null | https://github.com/haiclover/CVE-2021-21985 | | 
 | 20210712T09:44:22Z | cve-2021-1675 | Null | https://github.com/k8gege/cve-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210712T09:04:13Z | CVE-2021-24347 | Null | https://github.com/huydoppa/CVE-2021-24347- | The SP Project & Document Manager WordPress plugin before 4.22 allows users to upload files, however, the plugin attempts to prevent php and other similar files that could be executed on the server from being uploaded by checking the file extension. It was discovered that php files could still be uploaded by changing the file extension%s case, for example, from %php% to %pHP%.| 
 | 20210712T08:51:24Z | CVE-2021-1675 | CVE-2021-1675 / CVE-2021-34527 - PrintNightmare Python, C# and PowerShell Exploits Implementations (LPE & RCE) | https://github.com/galoget/PrintNightmare-CVE-2021-1675-CVE-2021-34527 | Windows Print Spooler Elevation of Privilege Vulnerability| 
@@ -140,11 +140,11 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210713T00:11:30Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210713T00:05:01Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 18 | 8| 
 | 20210712T23:45:26Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 483 | 48| 
 | 20210712T23:26:21Z | Null | https://github.com/ykoizumi50/fuzzy-disco | 0 | 0| 
 | 20210712T23:16:46Z | Null | https://github.com/swift-nav/gnss-converters-fuzz-testcases | 0 | 0| 
-| 20210712T23:01:52Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210712T22:55:55Z | Ongoing development of the Fuzzball MUCK server software and associated functionality. | https://github.com/fuzzball-muck/fuzzball | 34 | 23| 
 | 20210712T22:38:50Z | A Python based web application scanner to gather OSINT and fuzz for OWASP vulnerabilities on a target website. | https://github.com/1N3/BlackWidow | 934 | 291| 
 | 20210712T22:31:43Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
