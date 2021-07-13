@@ -53,7 +53,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210713T12:54:37Z | Automatic Dysarthric Speech Detection Exploiting Pairwise Distance-based Convolutional Neural Networks | https://github.com/idiap/distance-based-cnn | 0 | 0| 
+| 20210713T12:56:54Z | Automatic Dysarthric Speech Detection Exploiting Pairwise Distance-based Convolutional Neural Networks | https://github.com/idiap/distance-based-cnn | 0 | 0| 
 | 20210713T12:52:19Z | PickleC2 is a post-exploitation and lateral movements framework | https://github.com/xRET2pwn/PickleC2 | 7 | 1| 
 | 20210713T12:51:54Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 17 | 12| 
 | 20210713T12:44:57Z | A scanner/exploitation tool written in GO, which leverages Prototype Pollution to XSS by exploiting known gadgets. | https://github.com/kleiton0x00/ppmap | 9 | 2| 
