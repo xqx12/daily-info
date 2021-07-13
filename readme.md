@@ -29,7 +29,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210713T08:35:56Z | CVE-2021-1675 | Null | https://github.com/corelight/CVE-2021-1675 | | 
+| 20210713T08:35:56Z | CVE-2021-1675 | Null | https://github.com/corelight/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210713T06:16:14Z | cve-2021-34558 | Null | https://github.com/alexzorin/cve-2021-34558 | 未查询到CVE信息| 
 | 20210713T05:32:37Z | CVE-2020-25134 | CVE-2020-25134 Authenticated Local File Inclusion in settings/format | https://github.com/ynsmroztas/CVE-2020-25134 | An issue was discovered in Observium Professional, Enterprise & Community 20.8.10631. It is vulnerable to directory traversal and local file inclusion due to the fact that there is an unrestricted possibility of loading any file with an inc.php extension. Inclusion of other files (even though limited to the mentioned extension) can lead to Remote Code Execution. This can occur via /settings/?format=../ URIs to pages/settings.inc.php.| 
 | 20210713T02:39:25Z | cve-2021-1675 | Null | https://github.com/k8gege/cve-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
