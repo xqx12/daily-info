@@ -47,9 +47,9 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210713T00:28:02Z | CVE-2020-14343 | Experimenting with the CVE-2020-14343 PyYAML vulnerability | https://github.com/raul23/pyyaml-CVE-2020-14343 | A vulnerability was discovered in the PyYAML library in versions before 5.4, where it is susceptible to arbitrary code execution when it processes untrusted YAML files through the full_load method or with the FullLoader loader. Applications that use the library to process untrusted input may be vulnerable to this flaw. This flaw allows an attacker to execute arbitrary code on the system by abusing the python/object/new constructor. This flaw is due to an incomplete fix for CVE-2020-1747.| 
-| 20210712T18:38:46Z | CVE-2021-1675 | Null | https://github.com/corelight/CVE-2021-1675 | | 
+| 20210712T18:38:46Z | CVE-2021-1675 | Null | https://github.com/corelight/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210712T17:27:32Z | CVE-2020-24148 | CVE-2020-24148 Proof-of-Concept | https://github.com/dwisiswant0/CVE-2020-24148 | Server-side request forgery (SSRF) in the Import XML and RSS Feeds (import-xml-feed) plugin 2.0.1 for WordPress via the data parameter in a moove_read_xml action.| 
-| 20210712T15:14:01Z | CVE-2021-525 | D-Link credentials decryption tool poc | https://github.com/full-disclosure/FDEU-CVE-2021-525A | | 
+| 20210712T15:14:01Z | CVE-2021-525 | D-Link credentials decryption tool poc | https://github.com/full-disclosure/FDEU-CVE-2021-525A | 未查询到CVE信息| 
 | 20210712T11:04:39Z | CVE-2021-21985 | Null | https://github.com/haiclover/CVE-2021-21985 | The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server.| 
 | 20210712T09:44:22Z | cve-2021-1675 | Null | https://github.com/k8gege/cve-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210712T09:04:13Z | CVE-2021-24347 | Null | https://github.com/huydoppa/CVE-2021-24347- | The SP Project & Document Manager WordPress plugin before 4.22 allows users to upload files, however, the plugin attempts to prevent php and other similar files that could be executed on the server from being uploaded by checking the file extension. It was discovered that php files could still be uploaded by changing the file extension%s case, for example, from %php% to %pHP%.| 
@@ -61,6 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210713T01:05:38Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1728 | 497| 
 | 20210712T23:10:14Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 155 | 14| 
 | 20210712T20:21:36Z | Null | https://github.com/JaimePSantos/ResearchKlee | 0 | 0| 
 | 20210709T14:09:51Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 708 | 16| 
@@ -70,7 +71,6 @@
 | 20210707T17:01:12Z | TInA is an automated, generic, verification-friendly and trustworthy lifting technique turning GNU-style inline assembly into semantically equivalent C code amenable to verification, in order to take advantage of existing C analyzers. | https://github.com/binsec/klee21-tina-artifact | 21 | 1| 
 | 20210707T15:43:03Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 10 | 1| 
 | 20210707T01:56:24Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 140 | 21| 
-| 20210706T13:54:09Z | Config files for my GitHub profile. | https://github.com/kleeJH/kleeJH | 0 | 0| 
 
 
 # s2e on Github 推荐
