@@ -140,6 +140,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210713T00:05:01Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 18 | 8| 
 | 20210712T23:45:26Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 483 | 48| 
 | 20210712T23:26:21Z | Null | https://github.com/ykoizumi50/fuzzy-disco | 0 | 0| 
 | 20210712T23:16:46Z | Null | https://github.com/swift-nav/gnss-converters-fuzz-testcases | 0 | 0| 
@@ -149,7 +150,6 @@
 | 20210712T22:31:43Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210712T22:27:29Z | Null | https://github.com/Fesenka777/fuzzy-journey | 0 | 0| 
 | 20210712T22:18:05Z | Null | https://github.com/yampml/fuzzy-bassoon | 0 | 0| 
-| 20210712T21:22:07Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
 
 
 
