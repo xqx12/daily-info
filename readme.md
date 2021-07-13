@@ -30,10 +30,10 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210713T08:35:56Z | CVE-2021-1675 | Null | https://github.com/corelight/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210713T06:16:14Z | cve-2021-34558 | Null | https://github.com/alexzorin/cve-2021-34558 | 未查询到CVE信息| 
+| 20210713T06:16:14Z | cve-2021-34558 | Null | https://github.com/alexzorin/cve-2021-34558 | | 
 | 20210713T05:32:37Z | CVE-2020-25134 | CVE-2020-25134 Authenticated Local File Inclusion in settings/format | https://github.com/ynsmroztas/CVE-2020-25134 | An issue was discovered in Observium Professional, Enterprise & Community 20.8.10631. It is vulnerable to directory traversal and local file inclusion due to the fact that there is an unrestricted possibility of loading any file with an inc.php extension. Inclusion of other files (even though limited to the mentioned extension) can lead to Remote Code Execution. This can occur via /settings/?format=../ URIs to pages/settings.inc.php.| 
 | 20210713T02:39:25Z | cve-2021-1675 | Null | https://github.com/k8gege/cve-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210713T00:28:02Z | CVE-2020-14343 | Experimenting with the CVE-2020-14343 PyYAML vulnerability | https://github.com/raul23/pyyaml-CVE-2020-14343 | A vulnerability was discovered in the PyYAML library in versions before 5.4, where it is susceptible to arbitrary code execution when it processes untrusted YAML files through the full_load method or with the FullLoader loader. Applications that use the library to process untrusted input may be vulnerable to this flaw. This flaw allows an attacker to execute arbitrary code on the system by abusing the python/object/new constructor. This flaw is due to an incomplete fix for CVE-2020-1747.| 
+| 20210713T00:28:02Z | CVE-2020-14343 | Experimenting with the CVE-2020-14343 PyYAML vulnerability | https://github.com/raul23/pyyaml-CVE-2020-14343 | | 
 
 
 # klee on Github 推荐
@@ -95,6 +95,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210713T12:54:28Z | Null | https://github.com/DavrosB/Dans-FuzzBuzz | 0 | 0| 
 | 20210713T12:44:42Z | A patched QEMU that exposes an interface for LibAFL-based fuzzers | https://github.com/AFLplusplus/qemu-libafl-bridge | 17 | 2| 
 | 20210713T12:42:56Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3589 | 840| 
 | 20210713T12:34:13Z | Null | https://github.com/dim-idium/Fuzzy | 0 | 0| 
@@ -104,7 +105,6 @@
 | 20210713T11:30:58Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210713T10:56:04Z | Setup scripts for 32bit JavaScriptCore Fuzzing Setup | https://github.com/pmatos/jsc32-fuzz-setup | 0 | 0| 
 | 20210713T10:45:27Z | Fuzzinator Random Testing Framework | https://github.com/renatahodovan/fuzzinator | 176 | 38| 
-| 20210713T10:36:23Z | Implementation of several machine learning algorithms to induce fuzzy pattern trees for classification and regression. | https://github.com/senge/fuzzy-pattern-trees | 3 | 2| 
 
 
 
