@@ -86,15 +86,15 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210714T13:07:59Z | C2X - C2/Post-Exploitation For Red Teaming and Ethical Hacking | https://github.com/nxenon/c2x | 1 | 0| 
+| 20210714T13:05:46Z | A performant server sided anti exploit designed to capably handle many common exploits smoothly with rare issues of false positives and with minimal performance overhead. | https://github.com/SilentsReplacement/BoboFighter | 5 | 2| 
 | 20210714T13:02:57Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 26 | 12| 
 | 20210714T12:51:56Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 17 | 12| 
 | 20210714T12:42:41Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 6238 | 1759| 
 | 20210714T12:35:16Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9708 | 1596| 
 | 20210714T12:15:22Z | exploit-exercices (old school bugs) | https://github.com/ozswar94/Protostar | 0 | 0| 
-| 20210714T12:05:53Z | C2X - C2/Post-Exploitation For Red Teaming and Ethical Hacking | https://github.com/nxenon/c2x | 0 | 0| 
 | 20210714T11:55:48Z |  Using Lua C Parser ( Runs Script based on Lua C or Ancient Execution Method ) on Roblox in these modern day 2021 | https://github.com/Panda-Respiratory/Lua-C-Exploit-2021-Updated- | 0 | 0| 
 | 20210714T11:27:22Z | CAUTION - Malicious files 💀 | https://github.com/Am0rphous/Malware | 18 | 7| 
-| 20210714T09:34:01Z | A performant and a reliable server sided anti exploit capable of handling many common exploits smoothly with rare false positives and with minimal performance overhead. | https://github.com/SilentsReplacement/BoboFighter | 5 | 2| 
 | 20210714T09:14:03Z | GoodSecurity was tasked with performing an internal penetration test on GoodCorps CEO, Hans Gruber. An internal penetration test is a dedicated attack against internally connected systems.  | https://github.com/Samwel8/Pentesting_Icecast_Exploit | 0 | 0| 
 
 
@@ -116,7 +116,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210714T09:49:42Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 147 | 33| 
+| 20210714T12:49:47Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 147 | 33| 
 | 20210714T06:10:09Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1730 | 498| 
 | 20210714T05:19:16Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 439 | 67| 
 | 20210713T22:12:33Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1838 | 386| 
@@ -141,11 +141,11 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210714T13:11:43Z | Ethereum VM fuzzer | https://github.com/snuspl/fluffy | 12 | 0| 
 | 20210714T13:03:13Z | SBT plugin to quickly find test suites to run with `testOnly` | https://github.com/fmcgough/sbt-fuzzy-test-finder | 1 | 0| 
 | 20210714T12:57:57Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6481 | 1315| 
 | 20210714T12:56:51Z | Null | https://github.com/JohenanLi/AggregateFuzzing | 0 | 0| 
 | 20210714T12:47:15Z | Null | https://github.com/wearypossum4770/fuzzy-funicular | 0 | 0| 
-| 20210714T12:44:03Z | Ethereum VM fuzzer | https://github.com/snuspl/fluffy | 11 | 0| 
 | 20210714T12:31:45Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210714T12:22:07Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210714T12:19:53Z | A fuzzer that generates random Go programs | https://github.com/ALTree/microsmith | 11 | 0| 
