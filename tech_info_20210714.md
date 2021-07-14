@@ -24,9 +24,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210714T12:29:59Z | CVE-2021-50126 | Null | https://github.com/hacker-ali-17/CVE-2021-50126 | 未查询到CVE信息| 
+| 20210714T12:57:40Z | CVE-2021-50126 | Null | https://github.com/hacker-ali-17/CVE-2021-50126 | 未查询到CVE信息| 
 | 20210714T10:44:00Z | cve-2021-34558 | Null | https://github.com/alexzorin/cve-2021-34558 | 未查询到CVE信息| 
-| 20210714T06:42:35Z | CVE-2020-0796 | Null | https://github.com/1stPeak/CVE-2020-0796-Scanner | A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests, aka %Windows SMBv3 Client/Server Remote Code Execution Vulnerability%.| 
+| 20210714T06:42:35Z | CVE-2020-0796 | Null | https://github.com/1stPeak/CVE-2020-0796-Scanner | | 
 | 20210714T05:29:08Z | CVE-2020-15368 | How to exploit a vulnerable windows driver. Exploit for AsrDrv104.sys | https://github.com/stong/CVE-2020-15368 | AsrDrv103.sys in the ASRock RGB Driver does not properly restrict access from user space, as demonstrated by triggering a triple fault via a request to zero CR3.| 
 | 20210714T04:43:00Z | CVE-2021-10086 | Null | https://github.com/Mochican/CVE-2021-10086 | 未查询到CVE信息| 
 | 20210714T04:38:47Z | cve-2021-1675 | Null | https://github.com/k8gege/cve-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
@@ -52,21 +52,22 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210714T13:02:57Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 26 | 12| 
+| 20210714T12:51:56Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 17 | 12| 
+| 20210714T12:42:41Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 6238 | 1759| 
+| 20210714T12:35:16Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9708 | 1596| 
 | 20210714T12:15:22Z | exploit-exercices (old school bugs) | https://github.com/ozswar94/Protostar | 0 | 0| 
 | 20210714T12:05:53Z | C2X - C2/Post-Exploitation For Red Teaming and Ethical Hacking | https://github.com/nxenon/c2x | 0 | 0| 
-| 20210714T12:03:04Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 26 | 12| 
 | 20210714T11:55:48Z |  Using Lua C Parser ( Runs Script based on Lua C or Ancient Execution Method ) on Roblox in these modern day 2021 | https://github.com/Panda-Respiratory/Lua-C-Exploit-2021-Updated- | 0 | 0| 
 | 20210714T11:27:22Z | CAUTION - Malicious files 💀 | https://github.com/Am0rphous/Malware | 18 | 7| 
 | 20210714T09:34:01Z | A performant and a reliable server sided anti exploit capable of handling many common exploits smoothly with rare false positives and with minimal performance overhead. | https://github.com/SilentsReplacement/BoboFighter | 5 | 2| 
 | 20210714T09:14:03Z | GoodSecurity was tasked with performing an internal penetration test on GoodCorps CEO, Hans Gruber. An internal penetration test is a dedicated attack against internally connected systems.  | https://github.com/Samwel8/Pentesting_Icecast_Exploit | 0 | 0| 
-| 20210714T08:56:32Z | An attack/exploit Detector that utilizes Polymorphism and Diversity | https://github.com/polyverse/zerotect | 22 | 2| 
-| 20210714T08:43:50Z | Modular C2 framework aiming to ease post exploitation for red teamers.  | https://github.com/CMatri/MeetC2 | 55 | 3| 
-| 20210714T08:41:04Z | The legendary VXHeaven malware collection. | https://github.com/BaRRaKudaRain/RedZone | 18 | 6| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210714T12:45:49Z | ეს არის ერთერთი CTF დავალება სადაც გევალება რომ ანალიზი ჩაუტარო ქსელის ნაკადის ჩანაწერს დატროიანებული მსხვერპლის კომპიუტერსა და თავდამსხმელს შორის  | https://github.com/s4rr4/backdoor_traffic | 0 | 0| 
 | 20210714T11:44:57Z | Poweshell backdoor metasploit  | https://github.com/crypt0n-root/powershell-backdoor | 1 | 0| 
 | 20210714T07:05:08Z | 🤖An Evil and Smart Bot for Enslaving Windows Written in Rust and Python | https://github.com/wildonion/katyusha | 3 | 1| 
 | 20210714T04:39:11Z | Null | https://github.com/iK4oS/PremiumBackdoor.exe | 0 | 1| 
@@ -94,6 +95,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210714T13:03:13Z | SBT plugin to quickly find test suites to run with `testOnly` | https://github.com/fmcgough/sbt-fuzzy-test-finder | 1 | 0| 
+| 20210714T12:57:57Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6481 | 1315| 
+| 20210714T12:56:51Z | Null | https://github.com/JohenanLi/AggregateFuzzing | 0 | 0| 
+| 20210714T12:47:15Z | Null | https://github.com/wearypossum4770/fuzzy-funicular | 0 | 0| 
+| 20210714T12:44:03Z | Ethereum VM fuzzer | https://github.com/snuspl/fluffy | 11 | 0| 
+| 20210714T12:31:45Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
+| 20210714T12:22:07Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
+| 20210714T12:19:53Z | A fuzzer that generates random Go programs | https://github.com/ALTree/microsmith | 11 | 0| 
+| 20210714T12:19:52Z | Null | https://github.com/egegonul/Covid19-vaccination-with-fuzzy-control | 0 | 0| 
+| 20210714T12:15:17Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 18 | 7| 
 
 
 
