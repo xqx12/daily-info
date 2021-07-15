@@ -42,14 +42,14 @@
 | 20210715T04:29:56Z | CVE-2021-3516 | Null | https://github.com/fkm75P8YjLkb/CVE-2021-3516 | There%s a flaw in libxml2%s xmllint in versions before 2.9.11. An attacker who is able to submit a crafted file to be processed by xmllint could trigger a use-after-free. The greatest impact of this flaw is to confidentiality, integrity, and availability.| 
 | 20210715T04:23:58Z | CVE-2021-34496 | Null | https://github.com/fkm75P8YjLkb/CVE-2021-34496 | Windows GDI Information Disclosure Vulnerability| 
 | 20210715T01:41:16Z | CVE-2021-28480 | PoC for exploiting RCE in Exchange CVEs: CVE-2021-28480, CVE-2021-28481, CVE-2021-28482 and CVE-2021-28483.  Achieves Domain Admin on Exchange Servers running Windows Server 2003 up to Windows Server 2019. | https://github.com/ZephrFish/ExchangeRCE-CVE-2021-28480 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-28481, CVE-2021-28482, CVE-2021-28483.| 
-| 20210715T01:40:44Z | CVE-2021-22893 | Proof-of-Concept (PoC) script to exploit Pulse Secure CVE-2021-22893.  | https://github.com/ZephrFish/CVE-2021-22893 | | 
+| 20210715T01:40:44Z | CVE-2021-22893 | Proof-of-Concept (PoC) script to exploit Pulse Secure CVE-2021-22893.  | https://github.com/ZephrFish/CVE-2021-22893 | Pulse Connect Secure 9.0R3/9.1R1 and higher is vulnerable to an authentication bypass vulnerability exposed by the Windows File Share Browser and Pulse Secure Collaboration features of Pulse Connect Secure that can allow an unauthenticated user to perform remote arbitrary code execution on the Pulse Connect Secure gateway. This vulnerability has been exploited in the wild.| 
 | 20210715T01:31:48Z | CVE-2021-35042 | SQL injection via unsanitized QuerySet.order_by() input | https://github.com/YouGina/CVE-2021-35042 | Django 3.1.x before 3.1.13 and 3.2.x before 3.2.5 allows QuerySet.order_by SQL injection if order_by is untrusted input from a client of a web application.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210715T12:37:56Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 758 | 15| 
+| 20210715T12:39:55Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 759 | 15| 
 | 20210715T10:29:39Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 162 | 15| 
 | 20210715T08:44:22Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1730 | 498| 
 
@@ -62,6 +62,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210715T12:36:36Z | Bukkit plugin that aims on fixing Exploits in your Minecraft network. [Requires HamsterAPI to work] | https://github.com/2lstudios-mc/ExploitFixer | 104 | 29| 
+| 20210715T12:35:16Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9712 | 1598| 
 | 20210715T12:27:13Z | A scanner/exploitation tool written in GO, which leverages Prototype Pollution to XSS by exploiting known gadgets. | https://github.com/kleiton0x00/ppmap | 65 | 7| 
 | 20210715T12:03:02Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 26 | 12| 
 | 20210715T11:58:20Z | Modular C2 framework aiming to ease post exploitation for red teamers.  | https://github.com/CMatri/MeetC2 | 78 | 3| 
@@ -70,8 +72,6 @@
 | 20210715T11:10:23Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 29 | 2| 
 | 20210715T11:08:39Z | C2X - C2/Post-Exploitation For Red Teaming and Ethical Hacking | https://github.com/nxenon/c2x | 3 | 1| 
 | 20210715T11:06:31Z | Find SearchSploit exploits by CVE-IDs / dpkg status file | https://github.com/swapravo/cvesploit | 0 | 0| 
-| 20210715T11:06:20Z | CMS for exploit.chat | https://github.com/exploit-chat/exploiting-cms | 0 | 0| 
-| 20210715T11:01:40Z | The code of Hacking: Art Of Exploitation (2nd Ed.) by Jon Erickson. | https://github.com/J-Melon/ArtOfExp | 0 | 0| 
 
 
 # backdoor on Github 推荐
