@@ -141,16 +141,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210715T01:24:58Z | canary | https://github.com/Slike1337/-a-href-javas-x0Ccript-javascript-alert-1-id-fuzzelement1-test-a- | 0 | 0| 
-| 20210715T01:24:49Z | canary | https://github.com/Slike1337/-a-href-javas-x06cript-javascript-alert-1-id-fuzzelement1-test-a- | 0 | 0| 
-| 20210715T01:24:41Z | canary | https://github.com/Slike1337/-a-href-javas-x09cript-javascript-alert-1-id-fuzzelement1-test-a- | 0 | 0| 
-| 20210715T01:24:32Z | canary | https://github.com/Slike1337/-a-href-javas-x0Bcript-javascript-alert-1-id-fuzzelement1-test-a- | 0 | 0| 
-| 20210715T01:24:24Z | canary | https://github.com/Slike1337/-a-href-javas-x05cript-javascript-alert-1-id-fuzzelement1-test-a- | 0 | 0| 
-| 20210715T01:24:16Z | canary | https://github.com/Slike1337/-a-href-javas-x01cript-javascript-alert-1-id-fuzzelement1-test-a- | 0 | 0| 
-| 20210715T01:24:08Z | canary | https://github.com/Slike1337/-a-href-javas-x04cript-javascript-alert-1-id-fuzzelement1-test-a- | 0 | 0| 
-| 20210715T01:23:58Z | canary | https://github.com/Slike1337/-a-href-javas-x03cript-javascript-alert-1-id-fuzzelement1-test-a- | 0 | 0| 
-| 20210715T01:23:50Z | canary | https://github.com/Slike1337/-a-href-javas-x02cript-javascript-alert-1-id-fuzzelement1-test-a- | 0 | 0| 
-| 20210715T01:23:42Z | canary | https://github.com/Slike1337/-a-href-javas-x08cript-javascript-alert-1-id-fuzzelement1-test-a- | 0 | 0| 
+| 20210715T01:37:39Z | canary | https://github.com/Slike1337/-a-href-x1Ajavascript-javascript-alert-1-id-fuzzelement1-test-a- | 0 | 0| 
+| 20210715T01:37:25Z | canary | https://github.com/Slike1337/-a-href-x0Ejavascript-javascript-alert-1-id-fuzzelement1-test-a- | 0 | 0| 
+| 20210715T01:37:10Z | canary | https://github.com/Slike1337/-a-href-x03javascript-javascript-alert-1-id-fuzzelement1-test-a- | 0 | 0| 
+| 20210715T01:37:02Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 953 | 103| 
+| 20210715T01:36:57Z | canary | https://github.com/Slike1337/-a-href-x17javascript-javascript-alert-1-id-fuzzelement1-test-a- | 0 | 0| 
+| 20210715T01:36:44Z | canary | https://github.com/Slike1337/-a-href-xE2-x80-x80javascript-javascript-alert-1-id-fuzzelement1-test-a- | 0 | 0| 
+| 20210715T01:36:32Z | canary | https://github.com/Slike1337/-a-href-xE2-x80-x89javascript-javascript-alert-1-id-fuzzelement1-test-a- | 0 | 0| 
+| 20210715T01:36:20Z | canary | https://github.com/Slike1337/-a-href-xE2-x80-x88javascript-javascript-alert-1-id-fuzzelement1-test-a- | 0 | 0| 
+| 20210715T01:36:08Z | canary | https://github.com/Slike1337/-a-href-x11javascript-javascript-alert-1-id-fuzzelement1-test-a- | 0 | 0| 
+| 20210715T01:35:55Z | canary | https://github.com/Slike1337/-a-href-x18javascript-javascript-alert-1-id-fuzzelement1-test-a- | 0 | 0| 
 
 
 
