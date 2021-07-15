@@ -106,7 +106,6 @@
 | --- | --- | --- | --- | ---| 
 | 20210714T23:48:39Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6482 | 1315| 
 | 20210714T23:25:25Z | JQF + Zest: Coverage-guided semantic fuzzing for Java. | https://github.com/rohanpadhye/JQF | 381 | 56| 
-| 20210714T23:22:40Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210714T23:03:21Z | AOSP Service Fuzzing | https://github.com/rnd4u-org/aospfuz | 0 | 1| 
 | 20210714T22:59:37Z | Null | https://github.com/cinzfurz/fuzzenapi | 0 | 0| 
 | 20210714T22:52:59Z | Null | https://github.com/shobensack/fuzzy_sweater_main | 0 | 0| 
@@ -114,6 +113,7 @@
 | 20210714T22:39:01Z | Fuzzy Extractors in Java | https://github.com/ThexXTURBOXx/FuzzyExtractors | 1 | 0| 
 | 20210714T22:29:50Z | Null | https://github.com/parsegraph/fuzzyequals | 0 | 0| 
 | 20210714T21:26:28Z | Null | https://github.com/jerop/fuzzton | 0 | 0| 
+| 20210714T21:14:22Z | A fuzzing management tools collection | https://github.com/MozillaSecurity/FuzzManager | 153 | 48| 
 
 
 

@@ -141,16 +141,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210715T00:56:55Z | Fuzzy charrs are fuzzy. | https://github.com/marenubium87/FuzzyCharr | 0 | 0| 
+| 20210715T00:55:52Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210715T00:47:41Z | Ethereum VM fuzzer | https://github.com/snuspl/fluffy | 13 | 0| 
 | 20210715T00:16:53Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 288 | 39| 
 | 20210715T00:04:00Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 18 | 7| 
 | 20210714T23:48:39Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6482 | 1315| 
 | 20210714T23:25:25Z | JQF + Zest: Coverage-guided semantic fuzzing for Java. | https://github.com/rohanpadhye/JQF | 381 | 56| 
-| 20210714T23:22:40Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210714T23:03:21Z | AOSP Service Fuzzing | https://github.com/rnd4u-org/aospfuz | 0 | 1| 
 | 20210714T22:59:37Z | Null | https://github.com/cinzfurz/fuzzenapi | 0 | 0| 
 | 20210714T22:52:59Z | Null | https://github.com/shobensack/fuzzy_sweater_main | 0 | 0| 
-| 20210714T22:52:04Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 953 | 103| 
 
 
 
