@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210715T01:28:30Z | CVE-2020-15778 | Exploit for CVE-2020-15778(OpenSSH vul) | https://github.com/yukiNeko114514/CVE-2020-15778-Exploit | | 
+| 20210715T01:28:30Z | CVE-2020-15778 | Exploit for CVE-2020-15778(OpenSSH vul) | https://github.com/yukiNeko114514/CVE-2020-15778-Exploit |  scp in OpenSSH through 8.3p1 allows command injection in the scp.c toremote function, as demonstrated by backtick characters in the destination argument. NOTE: the vendor reportedly has stated that they intentionally omit validation of %anomalous argument transfers% because that could %stand a great chance of breaking existing workflows.%| 
 | 20210715T01:27:36Z | cve-2021-1675 | Null | https://github.com/k8gege/cve-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210715T01:23:51Z | CVE-2020-8277 | Null | https://github.com/AndrewIjano/CVE-2020-8277 | A Node.js application that allows an attacker to trigger a DNS request for a host of their choice could trigger a Denial of Service in versions < 15.2.1, < 14.15.1, and < 12.19.1 by getting the application to resolve a DNS record with a larger number of responses. This is fixed in 15.2.1, 14.15.1, and 12.19.1.| 
 | 20210714T21:51:24Z | CVE-2021-1675 | C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527 | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
