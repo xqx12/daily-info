@@ -47,8 +47,8 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210715T01:31:48Z | CVE-2021-35042 | SQL injection via unsanitized QuerySet.order_by() input | https://github.com/YouGina/CVE-2021-35042 | Django 3.1.x before 3.1.13 and 3.2.x before 3.2.5 allows QuerySet.order_by SQL injection if order_by is untrusted input from a client of a web application.| 
-| 20210715T01:28:30Z | CVE-2020-15778 | Exploit for CVE-2020-15778(OpenSSH vul) | https://github.com/yukiNeko114514/CVE-2020-15778-Exploit |  scp in OpenSSH through 8.3p1 allows command injection in the scp.c toremote function, as demonstrated by backtick characters in the destination argument. NOTE: the vendor reportedly has stated that they intentionally omit validation of %anomalous argument transfers% because that could %stand a great chance of breaking existing workflows.%| 
-| 20210715T01:27:36Z | cve-2021-1675 | Null | https://github.com/k8gege/cve-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
+| 20210715T01:28:30Z | CVE-2020-15778 | Exploit for CVE-2020-15778(OpenSSH vul) | https://github.com/yukiNeko114514/CVE-2020-15778-Exploit | | 
+| 20210715T01:27:36Z | cve-2021-1675 | Null | https://github.com/k8gege/cve-2021-1675 | | 
 | 20210715T01:23:51Z | CVE-2020-8277 | Null | https://github.com/AndrewIjano/CVE-2020-8277 | A Node.js application that allows an attacker to trigger a DNS request for a host of their choice could trigger a Denial of Service in versions < 15.2.1, < 14.15.1, and < 12.19.1 by getting the application to resolve a DNS record with a larger number of responses. This is fixed in 15.2.1, 14.15.1, and 12.19.1.| 
 | 20210714T21:51:24Z | CVE-2021-1675 | C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527 | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210714T19:20:24Z | CVE-2021-30461 | Null | https://github.com/puckiestyle/CVE-2021-30461 | A remote code execution issue was discovered in the web UI of VoIPmonitor before 24.61. When the recheck option is used, the user-supplied SPOOLDIR value (which might contain PHP code) is injected into config/configuration.php.| 
@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210715T00:44:14Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 712 | 15| 
+| 20210715T01:37:39Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 713 | 15| 
 | 20210714T19:21:56Z | Null | https://github.com/JaimePSantos/ResearchKlee | 0 | 0| 
 | 20210714T17:06:49Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1729 | 498| 
 | 20210714T08:40:08Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 161 | 15| 
@@ -141,16 +141,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210715T01:39:40Z | canary | https://github.com/Slike1337/-a-href-x14javascript-javascript-alert-1-id-fuzzelement1-test-a- | 0 | 0| 
+| 20210715T01:39:24Z | canary | https://github.com/Slike1337/-a-href-xE2-x80-x8Ajavascript-javascript-alert-1-id-fuzzelement1-test-a- | 0 | 0| 
+| 20210715T01:39:09Z | canary | https://github.com/Slike1337/-a-href-x09javascript-javascript-alert-1-id-fuzzelement1-test-a- | 0 | 0| 
+| 20210715T01:38:54Z | canary | https://github.com/Slike1337/-a-href-x13javascript-javascript-alert-1-id-fuzzelement1-test-a- | 0 | 0| 
+| 20210715T01:38:39Z | canary | https://github.com/Slike1337/-a-href-x20javascript-javascript-alert-1-id-fuzzelement1-test-a- | 0 | 0| 
+| 20210715T01:38:24Z | canary | https://github.com/Slike1337/-a-href-xE2-x80-x82javascript-javascript-alert-1-id-fuzzelement1-test-a- | 0 | 0| 
+| 20210715T01:38:09Z | canary | https://github.com/Slike1337/-a-href-x10javascript-javascript-alert-1-id-fuzzelement1-test-a- | 0 | 0| 
+| 20210715T01:37:54Z | canary | https://github.com/Slike1337/-a-href-x00javascript-javascript-alert-1-id-fuzzelement1-test-a- | 0 | 0| 
 | 20210715T01:37:39Z | canary | https://github.com/Slike1337/-a-href-x1Ajavascript-javascript-alert-1-id-fuzzelement1-test-a- | 0 | 0| 
 | 20210715T01:37:25Z | canary | https://github.com/Slike1337/-a-href-x0Ejavascript-javascript-alert-1-id-fuzzelement1-test-a- | 0 | 0| 
-| 20210715T01:37:10Z | canary | https://github.com/Slike1337/-a-href-x03javascript-javascript-alert-1-id-fuzzelement1-test-a- | 0 | 0| 
-| 20210715T01:37:02Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 953 | 103| 
-| 20210715T01:36:57Z | canary | https://github.com/Slike1337/-a-href-x17javascript-javascript-alert-1-id-fuzzelement1-test-a- | 0 | 0| 
-| 20210715T01:36:44Z | canary | https://github.com/Slike1337/-a-href-xE2-x80-x80javascript-javascript-alert-1-id-fuzzelement1-test-a- | 0 | 0| 
-| 20210715T01:36:32Z | canary | https://github.com/Slike1337/-a-href-xE2-x80-x89javascript-javascript-alert-1-id-fuzzelement1-test-a- | 0 | 0| 
-| 20210715T01:36:20Z | canary | https://github.com/Slike1337/-a-href-xE2-x80-x88javascript-javascript-alert-1-id-fuzzelement1-test-a- | 0 | 0| 
-| 20210715T01:36:08Z | canary | https://github.com/Slike1337/-a-href-x11javascript-javascript-alert-1-id-fuzzelement1-test-a- | 0 | 0| 
-| 20210715T01:35:55Z | canary | https://github.com/Slike1337/-a-href-x18javascript-javascript-alert-1-id-fuzzelement1-test-a- | 0 | 0| 
 
 
 
