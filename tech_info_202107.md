@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210715T00:43:14Z | Collection of Multi-platform Scripts for Rubber Ducky that exploit the css webkit filter attack to crash Internet Explorer, Edge or Safari, crashing the target machine Compatibility: Windows - MacOs - Linux (Ubuntu) | https://github.com/JonnyBanana/DUCKY_REAPER | 10 | 10| 
 | 20210715T00:03:28Z | a game based on explosion of ballooons | https://github.com/csuonereal/exploit-balloons | 0 | 0| 
 | 20210715T00:03:12Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 26 | 12| 
 | 20210714T23:36:02Z | Choose a recent exploit and setup a VM that is vulnerable to the exploit. Write a tutorial about how to execute the exploit, and/or how to defend against it. | https://github.com/EmmaFeaga/Exploit-Tutorial | 1 | 0| 
@@ -95,7 +96,6 @@
 | 20210714T22:32:24Z | Purple Fox Plus Stealer, Purple Fox Plus Stealer, all chromium and gecko based browser and many more features. serverless stealer. | https://github.com/exploitblizzard/PurpleFoxPlus-Stealer | 0 | 0| 
 | 20210714T21:56:05Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9711 | 1598| 
 | 20210714T21:23:54Z | Une liste d%exploits, simples à utiliser. | https://github.com/billythegoat356/Exploits | 0 | 0| 
-| 20210714T21:18:19Z | Various techniques for exploiting Windows | https://github.com/billchaison/Windows-Trix | 6 | 0| 
 
 
 # backdoor on Github 推荐
@@ -141,6 +141,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210715T00:47:41Z | Ethereum VM fuzzer | https://github.com/snuspl/fluffy | 13 | 0| 
 | 20210715T00:16:53Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 288 | 39| 
 | 20210715T00:04:00Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 18 | 7| 
 | 20210714T23:48:39Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6482 | 1315| 
@@ -148,7 +149,6 @@
 | 20210714T23:22:40Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210714T23:03:21Z | AOSP Service Fuzzing | https://github.com/rnd4u-org/aospfuz | 0 | 1| 
 | 20210714T22:59:37Z | Null | https://github.com/cinzfurz/fuzzenapi | 0 | 0| 
-| 20210714T22:54:50Z | Ethereum VM fuzzer | https://github.com/snuspl/fluffy | 12 | 0| 
 | 20210714T22:52:59Z | Null | https://github.com/shobensack/fuzzy_sweater_main | 0 | 0| 
 | 20210714T22:52:04Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 953 | 103| 
 

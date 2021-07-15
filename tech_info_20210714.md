@@ -109,11 +109,11 @@
 | 20210714T23:22:40Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210714T23:03:21Z | AOSP Service Fuzzing | https://github.com/rnd4u-org/aospfuz | 0 | 1| 
 | 20210714T22:59:37Z | Null | https://github.com/cinzfurz/fuzzenapi | 0 | 0| 
-| 20210714T22:54:50Z | Ethereum VM fuzzer | https://github.com/snuspl/fluffy | 12 | 0| 
 | 20210714T22:52:59Z | Null | https://github.com/shobensack/fuzzy_sweater_main | 0 | 0| 
 | 20210714T22:52:04Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 953 | 103| 
 | 20210714T22:39:01Z | Fuzzy Extractors in Java | https://github.com/ThexXTURBOXx/FuzzyExtractors | 1 | 0| 
 | 20210714T22:29:50Z | Null | https://github.com/parsegraph/fuzzyequals | 0 | 0| 
+| 20210714T21:26:28Z | Null | https://github.com/jerop/fuzzton | 0 | 0| 
 
 
 
