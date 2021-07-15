@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210715T01:04:28Z | CVE-2020-15778 | Exploit for CVE-2020-15778(OpenSSH vul) | https://github.com/yukiNeko114514/CVE-2020-15778-Exploit | | 
 | 20210714T21:51:24Z | CVE-2021-1675 | C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527 | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210714T19:20:24Z | CVE-2021-30461 | Null | https://github.com/puckiestyle/CVE-2021-30461 | A remote code execution issue was discovered in the web UI of VoIPmonitor before 24.61. When the recheck option is used, the user-supplied SPOOLDIR value (which might contain PHP code) is injected into config/configuration.php.| 
-| 20210714T17:17:39Z | CVE-2021-3560 | Null | https://github.com/secnigma/CVE-2021-3560-Polkit-Privilege-Esclation | | 
+| 20210714T17:17:39Z | CVE-2021-3560 | Null | https://github.com/secnigma/CVE-2021-3560-Polkit-Privilege-Esclation | 未查询到CVE信息| 
 | 20210714T15:08:58Z | cve-2021-34558 | Null | https://github.com/alexzorin/cve-2021-34558 | 未查询到CVE信息| 
 | 20210714T14:24:14Z | CVE-2021-35042 | SQL injection via unsanitized QuerySet.order_by() input | https://github.com/YouGina/CVE-2021-35042 | Django 3.1.x before 3.1.13 and 3.2.x before 3.2.5 allows QuerySet.order_by SQL injection if order_by is untrusted input from a client of a web application.| 
 | 20210714T12:57:40Z | CVE-2021-50126 | Null | https://github.com/hacker-ali-17/CVE-2021-50126 | 未查询到CVE信息| 
 | 20210714T06:42:35Z | CVE-2020-0796 | Null | https://github.com/1stPeak/CVE-2020-0796-Scanner | A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests, aka %Windows SMBv3 Client/Server Remote Code Execution Vulnerability%.| 
 | 20210714T05:29:08Z | CVE-2020-15368 | How to exploit a vulnerable windows driver. Exploit for AsrDrv104.sys | https://github.com/stong/CVE-2020-15368 | AsrDrv103.sys in the ASRock RGB Driver does not properly restrict access from user space, as demonstrated by triggering a triple fault via a request to zero CR3.| 
 | 20210714T04:43:00Z | CVE-2021-10086 | Null | https://github.com/Mochican/CVE-2021-10086 | 未查询到CVE信息| 
-| 20210714T04:38:47Z | cve-2021-1675 | Null | https://github.com/k8gege/cve-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 
 
 # klee on Github 推荐
@@ -86,16 +86,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210715T01:04:28Z | Exploit for CVE-2020-15778(OpenSSH vul) | https://github.com/yukiNeko114514/CVE-2020-15778-Exploit | 0 | 0| 
+| 20210715T01:03:02Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 26 | 12| 
 | 20210715T00:51:54Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 17 | 12| 
 | 20210715T00:43:14Z | Collection of Multi-platform Scripts for Rubber Ducky that exploit the css webkit filter attack to crash Internet Explorer, Edge or Safari, crashing the target machine Compatibility: Windows - MacOs - Linux (Ubuntu) | https://github.com/JonnyBanana/DUCKY_REAPER | 10 | 10| 
 | 20210715T00:03:28Z | a game based on explosion of ballooons | https://github.com/csuonereal/exploit-balloons | 0 | 0| 
-| 20210715T00:03:12Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 26 | 12| 
 | 20210714T23:36:02Z | Choose a recent exploit and setup a VM that is vulnerable to the exploit. Write a tutorial about how to execute the exploit, and/or how to defend against it. | https://github.com/EmmaFeaga/Exploit-Tutorial | 1 | 0| 
 | 20210714T23:21:15Z | C2X - C2/Post-Exploitation For Red Teaming and Ethical Hacking | https://github.com/nxenon/c2x | 2 | 1| 
 | 20210714T22:57:50Z | Null | https://github.com/jeffkwiat/lacework-exploits | 0 | 0| 
 | 20210714T22:55:22Z | Exploit for nostromo <= 1.9.6. This exploit has the functionality of being able to have an interactive shell | https://github.com/c0rnf13ld/nostromo-exploit-integrated-shell | 0 | 0| 
 | 20210714T22:32:24Z | Purple Fox Plus Stealer, Purple Fox Plus Stealer, all chromium and gecko based browser and many more features. serverless stealer. | https://github.com/exploitblizzard/PurpleFoxPlus-Stealer | 0 | 0| 
-| 20210714T21:56:05Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9711 | 1598| 
 
 
 # backdoor on Github 推荐
