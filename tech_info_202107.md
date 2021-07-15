@@ -49,13 +49,13 @@
 | 20210714T21:51:24Z | CVE-2021-1675 | C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527 | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210714T19:20:24Z | CVE-2021-30461 | Null | https://github.com/puckiestyle/CVE-2021-30461 | A remote code execution issue was discovered in the web UI of VoIPmonitor before 24.61. When the recheck option is used, the user-supplied SPOOLDIR value (which might contain PHP code) is injected into config/configuration.php.| 
 | 20210714T17:17:39Z | CVE-2021-3560 | Null | https://github.com/secnigma/CVE-2021-3560-Polkit-Privilege-Esclation | 未查询到CVE信息| 
-| 20210714T15:08:58Z | cve-2021-34558 | Null | https://github.com/alexzorin/cve-2021-34558 | | 
+| 20210714T15:08:58Z | cve-2021-34558 | Null | https://github.com/alexzorin/cve-2021-34558 | 未查询到CVE信息| 
 | 20210714T14:24:14Z | CVE-2021-35042 | SQL injection via unsanitized QuerySet.order_by() input | https://github.com/YouGina/CVE-2021-35042 | Django 3.1.x before 3.1.13 and 3.2.x before 3.2.5 allows QuerySet.order_by SQL injection if order_by is untrusted input from a client of a web application.| 
 | 20210714T12:57:40Z | CVE-2021-50126 | Null | https://github.com/hacker-ali-17/CVE-2021-50126 | 未查询到CVE信息| 
 | 20210714T06:42:35Z | CVE-2020-0796 | Null | https://github.com/1stPeak/CVE-2020-0796-Scanner | A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests, aka %Windows SMBv3 Client/Server Remote Code Execution Vulnerability%.| 
 | 20210714T05:29:08Z | CVE-2020-15368 | How to exploit a vulnerable windows driver. Exploit for AsrDrv104.sys | https://github.com/stong/CVE-2020-15368 | AsrDrv103.sys in the ASRock RGB Driver does not properly restrict access from user space, as demonstrated by triggering a triple fault via a request to zero CR3.| 
 | 20210714T04:43:00Z | CVE-2021-10086 | Null | https://github.com/Mochican/CVE-2021-10086 | 未查询到CVE信息| 
-| 20210714T04:38:47Z | cve-2021-1675 | Null | https://github.com/k8gege/cve-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
+| 20210714T04:38:47Z | cve-2021-1675 | Null | https://github.com/k8gege/cve-2021-1675 | | 
 
 
 # klee on Github 推荐
