@@ -21,7 +21,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210716T10:30:07Z | CVE-2021-1675 | C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527 | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210716T10:06:37Z | CVE-2021-22555 | CVE-2021-22555 Exploit | https://github.com/JustYoomoon/CVE-2021-22555-Exploit | A heap out-of-bounds write affecting Linux since v2.6.19-rc1 was discovered in net/netfilter/x_tables.c. This allows an attacker to gain privileges or cause a DoS (via heap memory corruption) through user name space| 
-| 20210716T04:04:35Z | CVE-2021-3493 | CVE-2021-3493 Ubuntu漏洞 | https://github.com/derek-turing/CVE-2021-3493 | The overlayfs implementation in the linux kernel did not properly validate with respect to user namespaces the setting of file capabilities on files in an underlying file system. Due to the combination of unprivileged user namespaces along with a patch carried in the Ubuntu kernel to allow unprivileged overlay mounts, an attacker could use this to gain elevated privileges.| 
+| 20210716T04:04:35Z | CVE-2021-3493 | CVE-2021-3493 Ubuntu漏洞 | https://github.com/derek-turing/CVE-2021-3493 | | 
 
 
 # klee on Github 推荐
@@ -40,6 +40,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210716T12:40:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9712 | 1598| 
 | 20210716T12:35:19Z | Fix exploits on anarchy minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 54 | 13| 
 | 20210716T12:04:56Z | Advisories, proof of concept files and exploits that have been made public by @pedrib. | https://github.com/pedrib/PoC | 420 | 109| 
 | 20210716T12:02:59Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 27 | 13| 
@@ -49,7 +50,6 @@
 | 20210716T11:21:11Z | Kali linux exploit tools guide repository. | https://github.com/Logic-01001010/KaliGuide | 1 | 0| 
 | 20210716T11:16:55Z | The project is about exploiting the heavily parallelized architecture of a GPU, using the Nvidia CUDA library, in order to calculate the autocorrelation function of a given set of data | https://github.com/Lapo9/AutocorrelationCUDA | 0 | 0| 
 | 20210716T11:02:26Z | Some experimental exploits, just for research and fun | https://github.com/c4dr01d/experiment-exploit | 0 | 0| 
-| 20210716T10:57:12Z | Domain Engineer or Domaineer is Semi-Auto Bot to gaining data from domains | https://github.com/EtcAug10/Domaineer | 0 | 2| 
 
 
 # backdoor on Github 推荐
