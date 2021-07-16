@@ -79,6 +79,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210716T12:32:48Z | Null | https://github.com/JohenanLi/AggregateFuzzing | 0 | 0| 
 | 20210716T12:26:41Z | Emulation based snapshot fuzzer | https://github.com/jaoeul/gingersnap | 0 | 0| 
 | 20210716T12:09:22Z | Null | https://github.com/HallyB96/Fuzzers | 0 | 0| 
 | 20210716T12:01:27Z | Fuzzy: contains code for a Fuzzy Engine and a Dynamical Systems Simulator. | https://github.com/josokw/Fuzzy | 2 | 0| 
@@ -88,7 +89,6 @@
 | 20210716T11:41:39Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6489 | 1316| 
 | 20210716T11:34:55Z | JetBrains Research intership project. | https://github.com/AnzhelaSukhanova/fuzzing_of_spacer | 0 | 0| 
 | 20210716T11:26:37Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
-| 20210716T11:22:26Z | Null | https://github.com/nnamdi095/Fuzzy-rules-extraction-with-traingular-membership-function | 0 | 1| 
 
 
 
