@@ -54,14 +54,14 @@
 | 20210715T04:38:43Z | CVE-2021-26690 | Null | https://github.com/fkm75P8YjLkb/CVE-2021-26690 | Apache HTTP Server versions 2.4.0 to 2.4.46 A specially crafted Cookie header handled by mod_session can cause a NULL pointer dereference and crash, leading to a possible Denial Of Service| 
 | 20210715T04:37:58Z | CVE-2021-26691 | Null | https://github.com/fkm75P8YjLkb/CVE-2021-26691 | In Apache HTTP Server versions 2.4.0 to 2.4.46 a specially crafted SessionHeader sent by an origin server could cause a heap overflow| 
 | 20210715T04:31:58Z | CVE-2021-30641 | Null | https://github.com/fkm75P8YjLkb/CVE-2021-30641 | Apache HTTP Server versions 2.4.39 to 2.4.46 Unexpected matching behavior with %MergeSlashes OFF%| 
-| 20210715T04:29:56Z | CVE-2021-3516 | Null | https://github.com/fkm75P8YjLkb/CVE-2021-3516 | There%s a flaw in libxml2%s xmllint in versions before 2.9.11. An attacker who is able to submit a crafted file to be processed by xmllint could trigger a use-after-free. The greatest impact of this flaw is to confidentiality, integrity, and availability.| 
+| 20210715T04:29:56Z | CVE-2021-3516 | Null | https://github.com/fkm75P8YjLkb/CVE-2021-3516 | | 
 | 20210715T04:23:58Z | CVE-2021-34496 | Null | https://github.com/fkm75P8YjLkb/CVE-2021-34496 | Windows GDI Information Disclosure Vulnerability| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210716T01:11:16Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 876 | 17| 
+| 20210716T01:14:03Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 878 | 17| 
 | 20210715T20:10:31Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 162 | 15| 
 | 20210715T08:44:22Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1730 | 498| 
 | 20210714T19:21:56Z | Null | https://github.com/JaimePSantos/ResearchKlee | 0 | 0| 
@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210716T01:14:33Z | labsecurity is a framework and its use is for ethical hacking and computer security | https://github.com/dylan14567/labsecurity | 1 | 3| 
 | 20210716T01:10:20Z | Pytorch implementation of paper: Model Inversion Attacks that Exploit Confidence Information and Basic Countermeasures | https://github.com/zhangzp9970/MIA | 0 | 0| 
 | 20210716T01:03:07Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 26 | 12| 
 | 20210716T00:56:59Z | YTPals Exploit | https://github.com/Tim2906/ytpalsExploit | 1 | 0| 
@@ -95,7 +96,6 @@
 | 20210715T23:47:26Z | Roblox exploit DLL using the LBI execution method | https://github.com/deaddlocust/LBI-Base | 11 | 0| 
 | 20210715T23:21:15Z | Null | https://github.com/TheCrazzXz/Exploits-Lab | 0 | 0| 
 | 20210715T23:15:00Z | Synapse CLI is an open source project that uses the Synapse X console functions aiming to provide a command-line-like interface for Roblox exploiting. | https://github.com/Remfly/synapse-cli | 1 | 0| 
-| 20210715T23:14:41Z | Null | https://github.com/deaddlocust/chsarp-print-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -141,6 +141,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210716T01:14:54Z | Null | https://github.com/lzhfromustc/goFuzz | 0 | 0| 
 | 20210716T00:19:44Z | NeDB adapter for fuzzy search, api compatible with the MongoDB version | https://github.com/rayfoss/feathers-nedb-fuzzy-search | 8 | 5| 
 | 20210716T00:12:59Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210716T00:03:57Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 19 | 7| 
@@ -150,7 +151,6 @@
 | 20210715T23:28:22Z | Implementação do projeto de mestrado feito na universidade de campo limpo paulista. | https://github.com/aikid/fuzzyscript | 0 | 0| 
 | 20210715T21:32:48Z | Null | https://github.com/AdaLogics/go-fuzz-headers | 2 | 1| 
 | 20210715T21:21:44Z | 99minutos coverage maps | https://github.com/99minutos/fuzzy-journey | 0 | 0| 
-| 20210715T20:59:46Z | Null | https://github.com/opimentel-github/fuzzy-tools | 0 | 0| 
 
 
 
