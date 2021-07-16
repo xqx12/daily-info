@@ -55,13 +55,13 @@
 | 20210715T12:54:05Z | cve-2021-22555 | Null | https://github.com/JoneyJunior/cve-2021-22555 | A heap out-of-bounds write affecting Linux since v2.6.19-rc1 was discovered in net/netfilter/x_tables.c. This allows an attacker to gain privileges or cause a DoS (via heap memory corruption) through user name space| 
 | 20210715T04:38:43Z | CVE-2021-26690 | Null | https://github.com/fkm75P8YjLkb/CVE-2021-26690 | Apache HTTP Server versions 2.4.0 to 2.4.46 A specially crafted Cookie header handled by mod_session can cause a NULL pointer dereference and crash, leading to a possible Denial Of Service| 
 | 20210715T04:37:58Z | CVE-2021-26691 | Null | https://github.com/fkm75P8YjLkb/CVE-2021-26691 | In Apache HTTP Server versions 2.4.0 to 2.4.46 a specially crafted SessionHeader sent by an origin server could cause a heap overflow| 
-| 20210715T04:31:58Z | CVE-2021-30641 | Null | https://github.com/fkm75P8YjLkb/CVE-2021-30641 | Apache HTTP Server versions 2.4.39 to 2.4.46 Unexpected matching behavior with %MergeSlashes OFF%| 
+| 20210715T04:31:58Z | CVE-2021-30641 | Null | https://github.com/fkm75P8YjLkb/CVE-2021-30641 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210716T12:50:30Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 1017 | 19| 
+| 20210716T12:58:08Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 1018 | 19| 
 | 20210715T20:10:31Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 162 | 15| 
 | 20210715T08:44:22Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1730 | 498| 
 | 20210714T19:21:56Z | Null | https://github.com/JaimePSantos/ResearchKlee | 0 | 0| 
