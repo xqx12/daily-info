@@ -141,7 +141,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210716T00:17:25Z | NeDB adapter for fuzzy search, api compatible with the MongoDB version | https://github.com/rayfoss/feathers-nedb-fuzzy-search | 8 | 5| 
+| 20210716T00:19:44Z | NeDB adapter for fuzzy search, api compatible with the MongoDB version | https://github.com/rayfoss/feathers-nedb-fuzzy-search | 8 | 5| 
 | 20210716T00:12:59Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210716T00:03:57Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 19 | 7| 
 | 20210715T23:57:44Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2355 | 132| 
