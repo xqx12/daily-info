@@ -79,6 +79,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210716T12:56:32Z | Null | https://github.com/lxphxkr/fuzzy-pancake | 0 | 0| 
+| 20210716T12:56:05Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 32492 | 16825| 
 | 20210716T12:54:05Z | Demorepo | https://github.com/NikFad/fuzzy-spoons | 0 | 0| 
 | 20210716T12:45:18Z | Null | https://github.com/HallyB96/Fuzzers | 0 | 0| 
 | 20210716T12:32:48Z | Null | https://github.com/JohenanLi/AggregateFuzzing | 0 | 0| 
@@ -87,8 +89,6 @@
 | 20210716T11:57:48Z | Null | https://github.com/Sufyan87/Fuzzer | 0 | 0| 
 | 20210716T11:56:38Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210716T11:53:43Z | reaally fuzzy-bassoon | https://github.com/seranatbat/fuzzy-bassoon | 0 | 0| 
-| 20210716T11:41:39Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6489 | 1316| 
-| 20210716T11:34:55Z | JetBrains Research intership project. | https://github.com/AnzhelaSukhanova/fuzzing_of_spacer | 0 | 0| 
 
 
 
