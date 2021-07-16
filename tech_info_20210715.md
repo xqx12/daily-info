@@ -109,7 +109,6 @@
 | --- | --- | --- | --- | ---| 
 | 20210715T23:57:44Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2355 | 132| 
 | 20210715T23:47:22Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 288 | 39| 
-| 20210715T23:33:05Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210715T23:30:17Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210715T23:28:22Z | Implementação do projeto de mestrado feito na universidade de campo limpo paulista. | https://github.com/aikid/fuzzyscript | 0 | 0| 
 | 20210715T21:32:48Z | Null | https://github.com/AdaLogics/go-fuzz-headers | 2 | 1| 
@@ -117,6 +116,7 @@
 | 20210715T20:59:46Z | Null | https://github.com/opimentel-github/fuzzy-tools | 0 | 0| 
 | 20210715T20:38:57Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6485 | 1316| 
 | 20210715T20:38:10Z | Fuzzy Extractors in Java | https://github.com/ThexXTURBOXx/FuzzyExtractors | 1 | 0| 
+| 20210715T20:10:51Z | A fuzzy ecosystem for evaluating the stability of your computational tools. | https://github.com/verificarlo/fuzzy | 10 | 11| 
 
 
 
