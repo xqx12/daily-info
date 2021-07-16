@@ -54,8 +54,8 @@
 | 20210715T13:43:37Z | CVE-2021-22893 | Proof-of-Concept (PoC) script to exploit Pulse Secure CVE-2021-22893.  | https://github.com/ZephrFish/CVE-2021-22893 | Pulse Connect Secure 9.0R3/9.1R1 and higher is vulnerable to an authentication bypass vulnerability exposed by the Windows File Share Browser and Pulse Secure Collaboration features of Pulse Connect Secure that can allow an unauthenticated user to perform remote arbitrary code execution on the Pulse Connect Secure gateway. This vulnerability has been exploited in the wild.| 
 | 20210715T12:54:05Z | cve-2021-22555 | Null | https://github.com/JoneyJunior/cve-2021-22555 | A heap out-of-bounds write affecting Linux since v2.6.19-rc1 was discovered in net/netfilter/x_tables.c. This allows an attacker to gain privileges or cause a DoS (via heap memory corruption) through user name space| 
 | 20210715T04:38:43Z | CVE-2021-26690 | Null | https://github.com/fkm75P8YjLkb/CVE-2021-26690 | Apache HTTP Server versions 2.4.0 to 2.4.46 A specially crafted Cookie header handled by mod_session can cause a NULL pointer dereference and crash, leading to a possible Denial Of Service| 
-| 20210715T04:37:58Z | CVE-2021-26691 | Null | https://github.com/fkm75P8YjLkb/CVE-2021-26691 | | 
-| 20210715T04:31:58Z | CVE-2021-30641 | Null | https://github.com/fkm75P8YjLkb/CVE-2021-30641 | Apache HTTP Server versions 2.4.39 to 2.4.46 Unexpected matching behavior with %MergeSlashes OFF%| 
+| 20210715T04:37:58Z | CVE-2021-26691 | Null | https://github.com/fkm75P8YjLkb/CVE-2021-26691 | In Apache HTTP Server versions 2.4.0 to 2.4.46 a specially crafted SessionHeader sent by an origin server could cause a heap overflow| 
+| 20210715T04:31:58Z | CVE-2021-30641 | Null | https://github.com/fkm75P8YjLkb/CVE-2021-30641 | | 
 
 
 # klee on Github 推荐
