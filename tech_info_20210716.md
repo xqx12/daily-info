@@ -40,6 +40,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210716T12:04:56Z | Advisories, proof of concept files and exploits that have been made public by @pedrib. | https://github.com/pedrib/PoC | 420 | 109| 
 | 20210716T12:02:59Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 27 | 13| 
 | 20210716T12:00:19Z | Container (Docker) escape exploits | https://github.com/duowen1/Container-escape-exps | 2 | 1| 
 | 20210716T11:37:28Z | A spigot based plugin dedicated to fixing glitches and exploits that have made it into final Minecraft releases. | https://github.com/dniym/IllegalStack | 62 | 21| 
@@ -49,7 +50,6 @@
 | 20210716T11:02:26Z | Some experimental exploits, just for research and fun | https://github.com/c4dr01d/experiment-exploit | 0 | 0| 
 | 20210716T11:00:14Z | Fix exploits on anarchy minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 54 | 13| 
 | 20210716T10:57:12Z | Domain Engineer or Domaineer is Semi-Auto Bot to gaining data from domains | https://github.com/EtcAug10/Domaineer | 0 | 2| 
-| 20210716T10:51:40Z | A exploit to remotely check if a chunk is loaded. | https://github.com/B2H990/InteractCordExploit | 8 | 2| 
 
 
 # backdoor on Github 推荐
