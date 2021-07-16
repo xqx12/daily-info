@@ -141,13 +141,13 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210716T01:36:17Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210716T01:30:12Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210716T01:29:02Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2356 | 132| 
 | 20210716T01:27:24Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 954 | 103| 
 | 20210716T01:26:31Z | Null | https://github.com/PollockT/FuzzAndMutantApp | 0 | 0| 
 | 20210716T01:14:54Z | Null | https://github.com/lzhfromustc/goFuzz | 0 | 0| 
 | 20210716T00:19:44Z | NeDB adapter for fuzzy search, api compatible with the MongoDB version | https://github.com/rayfoss/feathers-nedb-fuzzy-search | 8 | 5| 
-| 20210716T00:12:59Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210716T00:03:57Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 19 | 7| 
 | 20210715T23:47:22Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 288 | 39| 
 | 20210715T23:28:22Z | Implementação do projeto de mestrado feito na universidade de campo limpo paulista. | https://github.com/aikid/fuzzyscript | 0 | 0| 
