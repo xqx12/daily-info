@@ -79,6 +79,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210716T12:54:05Z | Demorepo | https://github.com/NikFad/fuzzy-spoons | 0 | 0| 
 | 20210716T12:45:18Z | Null | https://github.com/HallyB96/Fuzzers | 0 | 0| 
 | 20210716T12:32:48Z | Null | https://github.com/JohenanLi/AggregateFuzzing | 0 | 0| 
 | 20210716T12:26:41Z | Emulation based snapshot fuzzer | https://github.com/jaoeul/gingersnap | 0 | 0| 
@@ -88,7 +89,6 @@
 | 20210716T11:53:43Z | reaally fuzzy-bassoon | https://github.com/seranatbat/fuzzy-bassoon | 0 | 0| 
 | 20210716T11:41:39Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6489 | 1316| 
 | 20210716T11:34:55Z | JetBrains Research intership project. | https://github.com/AnzhelaSukhanova/fuzzing_of_spacer | 0 | 0| 
-| 20210716T11:26:37Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
 
 
 
