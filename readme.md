@@ -79,9 +79,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210716T12:45:18Z | Null | https://github.com/HallyB96/Fuzzers | 0 | 0| 
 | 20210716T12:32:48Z | Null | https://github.com/JohenanLi/AggregateFuzzing | 0 | 0| 
 | 20210716T12:26:41Z | Emulation based snapshot fuzzer | https://github.com/jaoeul/gingersnap | 0 | 0| 
-| 20210716T12:09:22Z | Null | https://github.com/HallyB96/Fuzzers | 0 | 0| 
 | 20210716T12:01:27Z | Fuzzy: contains code for a Fuzzy Engine and a Dynamical Systems Simulator. | https://github.com/josokw/Fuzzy | 2 | 0| 
 | 20210716T11:57:48Z | Null | https://github.com/Sufyan87/Fuzzer | 0 | 0| 
 | 20210716T11:56:38Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
