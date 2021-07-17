@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210717T00:33:06Z | This repository will have recollected most of my notes on windows internals both for Malware Analysis and Logic Bug Exploitation | https://github.com/NtQuerySystemInformation/Notes-on-Windows-Internals | 0 | 0| 
 | 20210717T00:19:13Z | labsecurity is a framework and its use is for ethical hacking and computer security | https://github.com/dylan14567/labsecurity | 5 | 3| 
 | 20210717T00:03:17Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 27 | 13| 
 | 20210716T23:57:25Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9717 | 1600| 
@@ -96,7 +97,6 @@
 | 20210716T23:39:27Z | How to exploit BERT for detecting users% personality type based on some text they have posted, according to the Myers–Briggs Type Indicator (MBTI). | https://github.com/rcantini/BERT_personality_detection | 1 | 0| 
 | 20210716T23:31:47Z | C++ project to extract cached chrome credentials. Intended to be used as a post exploitation tool for offensive security researchers. Illegal activity is not condoned and I am not responsible for how you use this. | https://github.com/D3cl4n/Chrome-Stealer | 0 | 0| 
 | 20210716T22:37:05Z | Null | https://github.com/TheCrazzXz/Exploits-Lab | 0 | 0| 
-| 20210716T22:08:01Z | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | 2201 | 400| 
 
 
 # backdoor on Github 推荐
