@@ -25,7 +25,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210717T11:48:11Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 1087 | 21| 
+| 20210717T11:48:11Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 1087 | 22| 
 | 20210717T05:14:28Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 143 | 21| 
 
 
@@ -37,8 +37,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210717T12:39:38Z | Exploit HTTP Response Splitting to perform XSS | https://github.com/Ruulian/HTTPResponseSplitting | 0 | 0| 
 | 20210717T12:35:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9720 | 1601| 
-| 20210717T12:15:00Z | Exploit HTTP Response Splitting to perform XSS | https://github.com/Ruulian/HTTPResponseSplitting | 0 | 0| 
 | 20210717T12:03:01Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 27 | 13| 
 | 20210717T11:56:37Z | Null | https://github.com/xnmapadvanced/elghandoury_exploit | 0 | 0| 
 | 20210717T11:39:46Z | The project is about exploiting the heavily parallelized architecture of a GPU, using the Nvidia CUDA library, in order to calculate the autocorrelation function of a given set of data | https://github.com/Lapo9/AutocorrelationCUDA | 0 | 0| 
