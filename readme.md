@@ -25,7 +25,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210717T11:48:11Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 1087 | 22| 
+| 20210717T12:49:44Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 1088 | 23| 
 | 20210717T05:14:28Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 143 | 21| 
 
 
@@ -71,6 +71,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210717T12:49:14Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 32508 | 16832| 
+| 20210717T12:39:13Z | Null | https://github.com/cyyever/dali_fuzzing | 0 | 0| 
 | 20210717T12:10:38Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6490 | 1316| 
 | 20210717T12:02:56Z | Null | https://github.com/Resansuax/fuzzy-octo-funicular | 0 | 0| 
 | 20210717T11:34:52Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
@@ -79,8 +81,6 @@
 | 20210717T10:55:24Z | Null | https://github.com/saxtro/fuzzy-system | 0 | 0| 
 | 20210717T10:52:56Z | Search your tmux scrollback buffer using fzf | https://github.com/roosta/tmux-fuzzback | 3 | 1| 
 | 20210717T10:36:50Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210717T10:18:21Z | Null | https://github.com/nieliecious/fuzzy-usecase-point | 0 | 0| 
-| 20210717T09:50:37Z | Fuzzing for websites, a request tool that searches for value within the site, fetches source code | https://github.com/muhammetsahinadibas/requester | 1 | 0| 
 
 
 
