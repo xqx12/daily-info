@@ -142,16 +142,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210719T01:49:02Z | Null | https://github.com/opimentel-github/fuzzy-torch | 1 | 0| 
-| 20210719T01:30:33Z | Null | https://github.com/Aurelioolive/test-fuzz | 0 | 0| 
-| 20210719T00:15:43Z | fuzz all the 1s and 0s | https://github.com/geeknik/fuzzers | 0 | 0| 
-| 20210719T00:12:11Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210718T23:55:29Z | SubInDomains is a subdomain fuzzer developed in python3 using asynchronous requests. | https://github.com/brunosgio/subindomains | 0 | 0| 
-| 20210718T23:37:55Z | Config files for my GitHub profile. | https://github.com/fuzzwuzz/fuzzwuzz | 0 | 0| 
-| 20210718T22:18:14Z | Null | https://github.com/yampml/fuzzy-bassoon | 0 | 0| 
-| 20210718T22:11:25Z | Null | https://github.com/13jojo/fuzzy_search | 0 | 0| 
-| 20210718T21:31:59Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 288 | 39| 
-| 20210718T21:13:40Z | Python scripts that were used to implement a fuzzy model for screening COVID-19 patients | https://github.com/marcosroriz/FUZZY-COVID-19 | 0 | 0| 
+| 20210719T12:03:02Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20210719T12:02:14Z | Null | https://github.com/Nexucis/fuzzy | 4 | 0| 
+| 20210719T12:02:14Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1906 | 380| 
+| 20210719T11:47:18Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3599 | 842| 
+| 20210719T11:25:57Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
+| 20210719T11:14:06Z | Implementacija algoritama fuzzy klasterovanja, njihova primena na odredjenim skupovima podataka i uporedjivanje sa drugim algoritmima klasterovanja. | https://github.com/markobabic8/Fuzzy-clustering | 0 | 1| 
+| 20210719T10:56:40Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 319 | 22| 
+| 20210719T09:56:42Z | Null | https://github.com/iampankajkoranga/fuzzy-spoon | 0 | 0| 
+| 20210719T09:56:38Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
+| 20210719T09:18:12Z | Binary code-coverage fuzzer for macOS, based on libFuzzer and LLVM | https://github.com/ant4g0nist/ManuFuzzer | 98 | 12| 
 
 
 
