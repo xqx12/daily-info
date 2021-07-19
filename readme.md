@@ -90,6 +90,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210719T12:24:46Z | Null | https://github.com/JohenanLi/AggregateFuzzing | 0 | 0| 
 | 20210719T12:21:35Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3599 | 842| 
 | 20210719T12:08:35Z | A Codice Fiscale Generator | https://github.com/tonyarris/codice-fuzzcale | 0 | 0| 
 | 20210719T12:03:02Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
@@ -99,7 +100,6 @@
 | 20210719T11:14:06Z | Implementacija algoritama fuzzy klasterovanja, njihova primena na odredjenim skupovima podataka i uporedjivanje sa drugim algoritmima klasterovanja. | https://github.com/markobabic8/Fuzzy-clustering | 0 | 1| 
 | 20210719T10:56:40Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 319 | 22| 
 | 20210719T09:56:42Z | Null | https://github.com/iampankajkoranga/fuzzy-spoon | 0 | 0| 
-| 20210719T09:56:38Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
 
 
 
