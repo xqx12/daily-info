@@ -50,7 +50,7 @@
 | 20210718T19:57:31Z | CVE-2021-1675 | C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527 | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210718T16:56:41Z | CVE-2021-22893 | Proof-of-Concept (PoC) script to exploit Pulse Secure CVE-2021-22893.  | https://github.com/ZephrFish/CVE-2021-22893 | Pulse Connect Secure 9.0R3/9.1R1 and higher is vulnerable to an authentication bypass vulnerability exposed by the Windows File Share Browser and Pulse Secure Collaboration features of Pulse Connect Secure that can allow an unauthenticated user to perform remote arbitrary code execution on the Pulse Connect Secure gateway. This vulnerability has been exploited in the wild.| 
 | 20210718T16:23:04Z | CVE-2021-21315 | systeminformation | https://github.com/MazX0p/CVE-2021-21315-exploit | The System Information Library for Node.JS (npm package %systeminformation%) is an open source collection of functions to retrieve detailed hardware, system and OS information. In systeminformation before version 5.3.1 there is a command injection vulnerability. Problem was fixed in version 5.3.1. As a workaround instead of upgrading, be sure to check or sanitize service parameters that are passed to si.inetLatency(), si.inetChecksite(), si.services(), si.processLoad() ... do only allow strings, reject any arrays. String sanitation works as expected.| 
-| 20210718T14:03:08Z | CVE-2021-1675 | Null | https://github.com/thalpius/Microsoft-CVE-2021-1675 | | 
+| 20210718T14:03:08Z | CVE-2021-1675 | Null | https://github.com/thalpius/Microsoft-CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210718T08:27:39Z | cve-2021-22555 | Null | https://github.com/cgwalters/container-cve-2021-22555 | A heap out-of-bounds write affecting Linux since v2.6.19-rc1 was discovered in net/netfilter/x_tables.c. This allows an attacker to gain privileges or cause a DoS (via heap memory corruption) through user name space| 
 | 20210718T04:47:13Z | CVE-2020-14882 | Null | https://github.com/0xhatuna/CVE-2020-14882 | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
 | 20210718T01:28:30Z | CVE-2021-21315 | systeminformation | https://github.com/MazX0p/CVE-2021-21315-POC | The System Information Library for Node.JS (npm package %systeminformation%) is an open source collection of functions to retrieve detailed hardware, system and OS information. In systeminformation before version 5.3.1 there is a command injection vulnerability. Problem was fixed in version 5.3.1. As a workaround instead of upgrading, be sure to check or sanitize service parameters that are passed to si.inetLatency(), si.inetChecksite(), si.services(), si.processLoad() ... do only allow strings, reject any arrays. String sanitation works as expected.| 
@@ -87,7 +87,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210719T01:48:14Z | CommandAndControlServer for post exploitation.  | https://github.com/RyanMower/CommandAndControlServer | 0 | 0| 
+| 20210719T01:57:38Z | A malicious JavaScript script that exploit XSS vulnerabilities in a modern way using steganography technique and Telegram. | https://github.com/Naqwa/SnitchyScript | 0 | 0| 
+| 20210719T01:52:49Z | CommandAndControlServer for post exploitation.  | https://github.com/RyanMower/CommandAndControlServer | 0 | 0| 
 | 20210719T01:33:39Z | An Python Exploit for Sudo vulnerability CVE-2019-18634 | https://github.com/N1et/CVE-2019-18634 | 2 | 0| 
 | 20210719T01:25:44Z | PrintNightmare - Windows Print Spooler RCE/LPE Vulnerability (CVE-2021-34527, CVE-2021-1675) proof of concept exploits | https://github.com/nemo-wq/PrintNightmare-CVE-2021-34527 | 12 | 5| 
 | 20210719T01:14:52Z | Null | https://github.com/TheSquanch-147/Rugpulls-Hacks-Exploits-List | 0 | 0| 
@@ -96,7 +97,6 @@
 | 20210719T00:22:11Z | Roblox exploit DLL using the LBI execution method | https://github.com/deaddlocust/LBI-Base | 11 | 0| 
 | 20210718T23:52:35Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 17 | 4| 
 | 20210718T23:40:12Z | Vulnnr - Vulnerability Scanner  And Mass Exploiter, created for pentesting. | https://github.com/DarkRabbit-0/Vulnnr | 73 | 26| 
-| 20210718T23:17:26Z | Metasploit Utilities, Post Exploit Scripts and other scripts primarily for reference | https://github.com/reg1reg1/Exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
