@@ -55,22 +55,22 @@
 | 20210718T01:28:30Z | CVE-2021-21315 | systeminformation | https://github.com/MazX0p/CVE-2021-21315-POC | The System Information Library for Node.JS (npm package %systeminformation%) is an open source collection of functions to retrieve detailed hardware, system and OS information. In systeminformation before version 5.3.1 there is a command injection vulnerability. Problem was fixed in version 5.3.1. As a workaround instead of upgrading, be sure to check or sanitize service parameters that are passed to si.inetLatency(), si.inetChecksite(), si.services(), si.processLoad() ... do only allow strings, reject any arrays. String sanitation works as expected.| 
 | 20210717T09:21:45Z | CVE-2020-15778 | Exploit for CVE-2020-15778(OpenSSH vul) | https://github.com/yukiNeko114514/CVE-2020-15778-Exploit |  scp in OpenSSH through 8.3p1 allows command injection in the scp.c toremote function, as demonstrated by backtick characters in the destination argument. NOTE: the vendor reportedly has stated that they intentionally omit validation of %anomalous argument transfers% because that could %stand a great chance of breaking existing workflows.%| 
 | 20210717T08:32:39Z | CVE-2021-22555 | CVE-2021-22555 Exploit | https://github.com/JustYoomoon/CVE-2021-22555-Exploit | A heap out-of-bounds write affecting Linux since v2.6.19-rc1 was discovered in net/netfilter/x_tables.c. This allows an attacker to gain privileges or cause a DoS (via heap memory corruption) through user name space| 
-| 20210716T15:24:16Z | CVE-2021-33560 | Tool to check whether a PGP client is affected by CVE-2021-33560 | https://github.com/IBM/PGP-client-checker-CVE-2021-33560 | | 
+| 20210716T15:24:16Z | CVE-2021-33560 | Tool to check whether a PGP client is affected by CVE-2021-33560 | https://github.com/IBM/PGP-client-checker-CVE-2021-33560 | Libgcrypt before 1.8.8 and 1.9.x before 1.9.3 mishandles ElGamal encryption because it lacks exponent blinding to address a side-channel attack against mpi_powm, and the window size is not chosen appropriately. (There is also an interoperability problem because the selection of the k integer value does not properly consider the differences between basic ElGamal encryption and generalized ElGamal encryption.) This, for example, affects use of ElGamal in OpenPGP.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210718T12:51:48Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 1138 | 24| 
+| 20210718T23:18:04Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 1176 | 26| 
+| 20210718T21:39:36Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
+| 20210718T20:40:58Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1731 | 499| 
 | 20210718T03:55:08Z | symbolic execution fuzzing with KLEE | https://github.com/raminfp/symbolic_execution_fuzzing | 0 | 0| 
 | 20210717T05:14:28Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 143 | 21| 
 | 20210715T20:10:31Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 162 | 15| 
-| 20210715T08:44:22Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1730 | 499| 
 | 20210714T19:21:56Z | Null | https://github.com/JaimePSantos/ResearchKlee | 0 | 0| 
 | 20210714T06:19:45Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 216 | 35| 
 | 20210713T14:50:42Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 15 | 45| 
 | 20210709T09:46:08Z | Null | https://github.com/thierry-tct/KLEE-SEMu | 3 | 2| 
-| 20210707T22:30:33Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -87,8 +87,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210719T00:02:45Z | CommandAndControlServer for post exploitation.  | https://github.com/RyanMower/CommandAndControlServer | 0 | 0| 
 | 20210718T23:52:35Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 17 | 4| 
-| 20210718T23:49:51Z | CommandAndControlServer for post exploitation.  | https://github.com/RyanMower/CommandAndControlServer | 0 | 0| 
 | 20210718T23:40:12Z | Vulnnr - Vulnerability Scanner  And Mass Exploiter, created for pentesting. | https://github.com/DarkRabbit-0/Vulnnr | 73 | 26| 
 | 20210718T23:17:26Z | Metasploit Utilities, Post Exploit Scripts and other scripts primarily for reference | https://github.com/reg1reg1/Exploits | 0 | 0| 
 | 20210718T23:02:53Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 28 | 14| 
@@ -102,31 +102,31 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210718T10:15:20Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 214 | 41| 
+| 20210718T23:15:34Z | sqlsus is an open source MySQL injection and takeover tool, written in perl.  Via a command line interface, you can retrieve the database(s) structure, inject your own SQL queries (even complex ones), download files from the web server, crawl the website for writable directories, upload and control a backdoor, clone the database(s), and much more... Whenever relevant, sqlsus will mimic a MySQL console output.  sqlsus focuses on speed and efficiency, optimising the available injection space, making the best use (I can think of) of MySQL functions. It uses stacked subqueries and an powerful blind injection algorithm to maximise the data gathered per web server hit. Using multithreading on top of that, sqlsus is an extremely fast database dumper, be it for inband or blind injection.  If the privileges are high enough, sqlsus will be a great help for uploading a backdoor through the injection point, and takeover the web server.  It uses SQLite as a backend, for an easier use of what has been dumped, and integrates a lot of usual features (see below) such as cookie support, socks/http proxying, https.. | https://github.com/XDCeltic/sqlsus0.7.2 | 0 | 0| 
+| 20210718T22:32:18Z | Paranoid is a web interface and dashboard, configured for managing HatSploit sessions via built-in REST API. | https://github.com/EntySec/Paranoid | 2 | 0| 
+| 20210718T21:56:27Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 215 | 41| 
+| 20210718T20:38:12Z | Yet Another PHP Shell | https://github.com/Nickguitar/YAPS | 15 | 2| 
+| 20210718T20:17:46Z | Repository for data and code associated with the paper, %% | https://github.com/wmgeolab/Backdoor_Attacks_Sat_Img | 0 | 0| 
+| 20210718T18:17:20Z | Null | https://github.com/areski1337/Scorpio-backdoor | 1 | 0| 
+| 20210718T16:32:56Z | 🤖An Evil and Smart Bot for Enslaving Windows Written in Rust and Python | https://github.com/wildonion/katyusha | 3 | 1| 
+| 20210718T14:57:42Z | Null | https://github.com/msid78641/Linux-Python-Backdoor-Covert-Channel | 0 | 0| 
 | 20210718T08:40:28Z | Null | https://github.com/OzkanInonlu/Backdoor | 0 | 0| 
 | 20210718T06:44:59Z | Null | https://github.com/FierzaEriez/Mini-Shell-Backdoor | 1 | 0| 
-| 20210718T04:19:09Z | Yet Another PHP Shell | https://github.com/Nickguitar/YAPS | 14 | 1| 
-| 20210717T23:14:15Z | Null | https://github.com/DarlingSh1337/backdoor-golang | 0 | 0| 
-| 20210717T15:24:53Z | 🤖An Evil and Smart Bot for Enslaving Windows Written in Rust and Python | https://github.com/wildonion/katyusha | 3 | 1| 
-| 20210717T06:11:31Z | Eren is an advanced backdoor made by ErenYeager#5608 (Discord). Eren can be used for file managing or illegal purposes. Im not responsible for any damage to any property that is not owned by me  | https://github.com/MrDoxxer2/eren | 0 | 0| 
-| 20210717T03:39:21Z | Backdoor&后渗透工具 | https://github.com/PENG-PLUS/SFBD | 1 | 0| 
-| 20210716T17:37:47Z | This is a reverse shell coded in Python, similar to my C backdoor, but doesn%t allow for persistence and just allows command prompt commands. | https://github.com/Calastrophe/Reverse-Shell | 0 | 0| 
-| 20210716T16:53:24Z | A batch script for taking information. A bit overdeveloped, and kind of useless. | https://github.com/Takaovi/BatchStealer | 9 | 2| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210718T23:50:51Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 7 | 4| 
+| 20210718T21:11:22Z | A tool for generating nonlinear numerical invariants for C and Java programs.  DIG uses dynamic analysis to infer invariants over program execution traces and applies symbolic execution to inferred invariants. | https://github.com/unsat/dig | 4 | 4| 
+| 20210718T20:40:58Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1731 | 499| 
+| 20210718T18:06:26Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 150 | 33| 
+| 20210718T15:28:36Z | FuSeBMC is a White-Box Fuzzer that combines FUzzing with Symbolic Execution via Bounded Model Checking to verify intricate properties in real-world C programs. | https://github.com/kaled-alshmrany/FuSeBMC | 18 | 1| 
+| 20210718T14:27:02Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1842 | 386| 
 | 20210718T03:55:08Z | symbolic execution fuzzing with KLEE | https://github.com/raminfp/symbolic_execution_fuzzing | 0 | 0| 
-| 20210718T03:52:35Z | A tool for generating nonlinear numerical invariants for C and Java programs.  DIG uses dynamic analysis to infer invariants over program execution traces and applies symbolic execution to inferred invariants. | https://github.com/unsat/dig | 4 | 4| 
 | 20210717T23:59:23Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2389 | 352| 
 | 20210717T20:40:40Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 19 | 11| 
 | 20210717T15:25:48Z | This is the repository for Symbolic Execution engine for StateFlow (SESf) models | https://github.com/predragf/sesf | 0 | 0| 
-| 20210716T02:16:06Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1840 | 386| 
-| 20210715T20:28:45Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 149 | 33| 
-| 20210715T19:29:21Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 442 | 67| 
-| 20210715T10:36:51Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 14 | 3| 
-| 20210715T08:44:22Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1730 | 499| 
 
 
 # big4 on Github 推荐
