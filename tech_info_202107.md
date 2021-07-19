@@ -51,9 +51,9 @@
 | 20210718T16:23:04Z | CVE-2021-21315 | systeminformation | https://github.com/MazX0p/CVE-2021-21315-exploit | The System Information Library for Node.JS (npm package %systeminformation%) is an open source collection of functions to retrieve detailed hardware, system and OS information. In systeminformation before version 5.3.1 there is a command injection vulnerability. Problem was fixed in version 5.3.1. As a workaround instead of upgrading, be sure to check or sanitize service parameters that are passed to si.inetLatency(), si.inetChecksite(), si.services(), si.processLoad() ... do only allow strings, reject any arrays. String sanitation works as expected.| 
 | 20210718T14:03:08Z | CVE-2021-1675 | Null | https://github.com/thalpius/Microsoft-CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210718T08:27:39Z | cve-2021-22555 | Null | https://github.com/cgwalters/container-cve-2021-22555 | A heap out-of-bounds write affecting Linux since v2.6.19-rc1 was discovered in net/netfilter/x_tables.c. This allows an attacker to gain privileges or cause a DoS (via heap memory corruption) through user name space| 
-| 20210718T04:47:13Z | CVE-2020-14882 | Null | https://github.com/0xhatuna/CVE-2020-14882 | | 
+| 20210718T04:47:13Z | CVE-2020-14882 | Null | https://github.com/0xhatuna/CVE-2020-14882 | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
 | 20210718T01:28:30Z | CVE-2021-21315 | systeminformation | https://github.com/MazX0p/CVE-2021-21315-POC | The System Information Library for Node.JS (npm package %systeminformation%) is an open source collection of functions to retrieve detailed hardware, system and OS information. In systeminformation before version 5.3.1 there is a command injection vulnerability. Problem was fixed in version 5.3.1. As a workaround instead of upgrading, be sure to check or sanitize service parameters that are passed to si.inetLatency(), si.inetChecksite(), si.services(), si.processLoad() ... do only allow strings, reject any arrays. String sanitation works as expected.| 
-| 20210717T09:21:45Z | CVE-2020-15778 | Exploit for CVE-2020-15778(OpenSSH vul) | https://github.com/yukiNeko114514/CVE-2020-15778-Exploit |  scp in OpenSSH through 8.3p1 allows command injection in the scp.c toremote function, as demonstrated by backtick characters in the destination argument. NOTE: the vendor reportedly has stated that they intentionally omit validation of %anomalous argument transfers% because that could %stand a great chance of breaking existing workflows.%| 
+| 20210717T09:21:45Z | CVE-2020-15778 | Exploit for CVE-2020-15778(OpenSSH vul) | https://github.com/yukiNeko114514/CVE-2020-15778-Exploit | | 
 | 20210717T08:32:39Z | CVE-2021-22555 | CVE-2021-22555 Exploit | https://github.com/JustYoomoon/CVE-2021-22555-Exploit | A heap out-of-bounds write affecting Linux since v2.6.19-rc1 was discovered in net/netfilter/x_tables.c. This allows an attacker to gain privileges or cause a DoS (via heap memory corruption) through user name space| 
 | 20210716T15:24:16Z | CVE-2021-33560 | Tool to check whether a PGP client is affected by CVE-2021-33560 | https://github.com/IBM/PGP-client-checker-CVE-2021-33560 | Libgcrypt before 1.8.8 and 1.9.x before 1.9.3 mishandles ElGamal encryption because it lacks exponent blinding to address a side-channel attack against mpi_powm, and the window size is not chosen appropriately. (There is also an interoperability problem because the selection of the k integer value does not properly consider the differences between basic ElGamal encryption and generalized ElGamal encryption.) This, for example, affects use of ElGamal in OpenPGP.| 
 
@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210719T01:08:36Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 1182 | 26| 
+| 20210719T01:12:53Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 1183 | 26| 
 | 20210718T21:39:36Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
 | 20210718T20:40:58Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1731 | 499| 
 | 20210718T03:55:08Z | symbolic execution fuzzing with KLEE | https://github.com/raminfp/symbolic_execution_fuzzing | 0 | 0| 
@@ -87,7 +87,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210719T01:10:27Z | CommandAndControlServer for post exploitation.  | https://github.com/RyanMower/CommandAndControlServer | 0 | 0| 
+| 20210719T01:14:52Z | Null | https://github.com/TheSquanch-147/Rugpulls-Hacks-Exploits-List | 0 | 0| 
+| 20210719T01:14:51Z | CommandAndControlServer for post exploitation.  | https://github.com/RyanMower/CommandAndControlServer | 0 | 0| 
 | 20210719T01:06:56Z | Exploits project Hacking Command Center | https://github.com/chacka0101/exploits | 11 | 9| 
 | 20210719T01:02:55Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 28 | 14| 
 | 20210719T00:22:11Z | Roblox exploit DLL using the LBI execution method | https://github.com/deaddlocust/LBI-Base | 11 | 0| 
@@ -96,7 +97,6 @@
 | 20210718T23:17:26Z | Metasploit Utilities, Post Exploit Scripts and other scripts primarily for reference | https://github.com/reg1reg1/Exploits | 0 | 0| 
 | 20210718T22:56:09Z | A Discord bot for collecting statistics about emojis% exploitation in a guild. The bot is currently in alpha and talking in Russian. The English language will be added in the future. | https://github.com/VovaOneReal/TheCollectorOfEmojisStats | 0 | 0| 
 | 20210718T22:46:26Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9729 | 1602| 
-| 20210718T22:10:37Z | Got hit with another Ransomware this is more advanced, as long as it is online it will search for Variants on online Libraries and Exploit sites to update. This is smart and runs all the time and improves it self. It will take small amounts of Data relatively to normal use. This code installs and will run on the life of the device. Ransomware will get worse , I have had 6 versions from the outside world hit me. This is the reason Why. I post Here. The 2 posted today will be stolen by hackers | https://github.com/Sparrrow2020/V-lley-6-Anti-Ransomware | 0 | 0| 
 
 
 # backdoor on Github 推荐
