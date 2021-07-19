@@ -79,7 +79,6 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210718T23:50:51Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 7 | 4| 
 | 20210718T21:11:22Z | A tool for generating nonlinear numerical invariants for C and Java programs.  DIG uses dynamic analysis to infer invariants over program execution traces and applies symbolic execution to inferred invariants. | https://github.com/unsat/dig | 4 | 4| 
 | 20210718T20:40:58Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1731 | 499| 
 | 20210718T18:06:26Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 150 | 33| 
