@@ -87,7 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210719T01:27:41Z | CommandAndControlServer for post exploitation.  | https://github.com/RyanMower/CommandAndControlServer | 0 | 0| 
+| 20210719T01:31:12Z | CommandAndControlServer for post exploitation.  | https://github.com/RyanMower/CommandAndControlServer | 0 | 0| 
 | 20210719T01:25:44Z | PrintNightmare - Windows Print Spooler RCE/LPE Vulnerability (CVE-2021-34527, CVE-2021-1675) proof of concept exploits | https://github.com/nemo-wq/PrintNightmare-CVE-2021-34527 | 12 | 5| 
 | 20210719T01:14:52Z | Null | https://github.com/TheSquanch-147/Rugpulls-Hacks-Exploits-List | 0 | 0| 
 | 20210719T01:06:56Z | Exploits project Hacking Command Center | https://github.com/chacka0101/exploits | 11 | 9| 
