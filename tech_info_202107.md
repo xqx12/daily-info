@@ -142,6 +142,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210719T00:15:43Z | fuzz all the 1s and 0s | https://github.com/geeknik/fuzzers | 0 | 0| 
 | 20210719T00:12:11Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210718T23:55:29Z | SubInDomains is a subdomain fuzzer developed in python3 using asynchronous requests. | https://github.com/brunosgio/subindomains | 0 | 0| 
 | 20210718T23:37:55Z | Config files for my GitHub profile. | https://github.com/fuzzwuzz/fuzzwuzz | 0 | 0| 
@@ -151,7 +152,6 @@
 | 20210718T21:13:40Z | Python scripts that were used to implement a fuzzy model for screening COVID-19 patients | https://github.com/marcosroriz/FUZZY-COVID-19 | 0 | 0| 
 | 20210718T21:08:27Z | Null | https://github.com/adtyasamuel57/Fuzzy-Tsukamoto-Tsunamai | 0 | 0| 
 | 20210718T20:38:16Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6493 | 1316| 
-| 20210718T20:28:01Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
 
 
 
