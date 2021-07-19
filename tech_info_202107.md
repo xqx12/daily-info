@@ -142,11 +142,11 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210719T13:00:20Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3599 | 842| 
 | 20210719T12:53:19Z | use aflsmart to fuzz web service | https://github.com/egvnoen/nfuzzer | 1 | 0| 
 | 20210719T12:39:26Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1907 | 380| 
 | 20210719T12:30:55Z | JetBrains Research intership project. | https://github.com/AnzhelaSukhanova/fuzzing_of_spacer | 0 | 0| 
 | 20210719T12:24:46Z | Null | https://github.com/JohenanLi/AggregateFuzzing | 0 | 0| 
-| 20210719T12:21:35Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3599 | 842| 
 | 20210719T12:08:35Z | A Codice Fiscale Generator | https://github.com/tonyarris/codice-fuzzcale | 0 | 0| 
 | 20210719T12:03:02Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210719T12:02:14Z | Null | https://github.com/Nexucis/fuzzy | 4 | 0| 
