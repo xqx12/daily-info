@@ -87,11 +87,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210719T00:02:45Z | CommandAndControlServer for post exploitation.  | https://github.com/RyanMower/CommandAndControlServer | 0 | 0| 
+| 20210719T00:04:26Z | CommandAndControlServer for post exploitation.  | https://github.com/RyanMower/CommandAndControlServer | 0 | 0| 
+| 20210719T00:03:08Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 28 | 14| 
 | 20210718T23:52:35Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 17 | 4| 
 | 20210718T23:40:12Z | Vulnnr - Vulnerability Scanner  And Mass Exploiter, created for pentesting. | https://github.com/DarkRabbit-0/Vulnnr | 73 | 26| 
 | 20210718T23:17:26Z | Metasploit Utilities, Post Exploit Scripts and other scripts primarily for reference | https://github.com/reg1reg1/Exploits | 0 | 0| 
-| 20210718T23:02:53Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 28 | 14| 
 | 20210718T22:56:09Z | A Discord bot for collecting statistics about emojis% exploitation in a guild. The bot is currently in alpha and talking in Russian. The English language will be added in the future. | https://github.com/VovaOneReal/TheCollectorOfEmojisStats | 0 | 0| 
 | 20210718T22:46:26Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9729 | 1602| 
 | 20210718T22:10:37Z | Got hit with another Ransomware this is more advanced, as long as it is online it will search for Variants on online Libraries and Exploit sites to update. This is smart and runs all the time and improves it self. It will take small amounts of Data relatively to normal use. This code installs and will run on the life of the device. Ransomware will get worse , I have had 6 versions from the outside world hit me. This is the reason Why. I post Here. The 2 posted today will be stolen by hackers | https://github.com/Sparrrow2020/V-lley-6-Anti-Ransomware | 0 | 0| 
