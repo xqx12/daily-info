@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210719T12:23:22Z | CVE-2021-22555 | CVE-2021-22555 Exploit | https://github.com/JustYoomoon/CVE-2021-22555-Exploit | | 
+| 20210719T12:23:22Z | CVE-2021-22555 | CVE-2021-22555 Exploit | https://github.com/JustYoomoon/CVE-2021-22555-Exploit | A heap out-of-bounds write affecting Linux since v2.6.19-rc1 was discovered in net/netfilter/x_tables.c. This allows an attacker to gain privileges or cause a DoS (via heap memory corruption) through user name space| 
 | 20210719T07:01:22Z | CVE-2020-9483 | PoC of SQL Injection vul(CVE-2020-9483,Apache SkyWalking) | https://github.com/Neko2sh1ro/CVE-2020-9483 | **Resolved** When use H2/MySQL/TiDB as Apache SkyWalking storage, the metadata query through GraphQL protocol, there is a SQL injection vulnerability, which allows to access unpexcted data. Apache SkyWalking 6.0.0 to 6.6.0, 7.0.0 H2/MySQL/TiDB storage implementations don%t use the appropriate way to set SQL parameters.| 
 | 20210719T04:28:25Z | CVE-2021-34527 | PrintNightmare - Windows Print Spooler RCE/LPE Vulnerability (CVE-2021-34527, CVE-2021-1675) proof of concept exploits | https://github.com/nemo-wq/PrintNightmare-CVE-2021-34527 | Windows Print Spooler Remote Code Execution Vulnerability| 
 | 20210719T03:22:40Z | cve-2021-22555 | Null | https://github.com/cgwalters/container-cve-2021-22555 | A heap out-of-bounds write affecting Linux since v2.6.19-rc1 was discovered in net/netfilter/x_tables.c. This allows an attacker to gain privileges or cause a DoS (via heap memory corruption) through user name space| 
@@ -102,6 +102,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210719T12:51:44Z | shell backdoor | https://github.com/m0nd4y99/shellbackdoorr | 0 | 0| 
 | 20210719T12:36:30Z | 🤖An Evil and Smart Bot for Enslaving Windows Written in Rust and Python | https://github.com/wildonion/katyusha | 3 | 1| 
 | 20210719T12:35:16Z | Paranoid is a web interface and dashboard, configured for managing HatSploit sessions via built-in REST API. | https://github.com/EntySec/Paranoid | 2 | 0| 
 | 20210719T11:53:35Z | Small collection of bash scripts that take advantage of the .bashrc file and inject various payloads into it in order to escalate privileges or steal credentials. | https://github.com/Naqwa/Bashrc-Backdoors | 1 | 0| 
@@ -111,7 +112,6 @@
 | 20210719T06:09:37Z | Yet Another PHP Shell | https://github.com/Nickguitar/YAPS | 16 | 2| 
 | 20210719T05:21:05Z | Embedded a Backdoor in executable file using Veil Evasion, and Metasploit framework to establish connection between Kali Linux and Windows. Then to detect and analyse this malware, we used static and dynamic analysis. | https://github.com/Vivekyadv/Malware-Analysis | 0 | 0| 
 | 20210718T23:15:34Z | sqlsus is an open source MySQL injection and takeover tool, written in perl.  Via a command line interface, you can retrieve the database(s) structure, inject your own SQL queries (even complex ones), download files from the web server, crawl the website for writable directories, upload and control a backdoor, clone the database(s), and much more... Whenever relevant, sqlsus will mimic a MySQL console output.  sqlsus focuses on speed and efficiency, optimising the available injection space, making the best use (I can think of) of MySQL functions. It uses stacked subqueries and an powerful blind injection algorithm to maximise the data gathered per web server hit. Using multithreading on top of that, sqlsus is an extremely fast database dumper, be it for inband or blind injection.  If the privileges are high enough, sqlsus will be a great help for uploading a backdoor through the injection point, and takeover the web server.  It uses SQLite as a backend, for an easier use of what has been dumped, and integrates a lot of usual features (see below) such as cookie support, socks/http proxying, https.. | https://github.com/XDCeltic/sqlsus0.7.2 | 0 | 0| 
-| 20210718T21:56:27Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 215 | 41| 
 
 
 # symbolic execution on Github 推荐
