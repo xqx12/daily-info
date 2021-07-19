@@ -52,7 +52,7 @@
 | 20210719T03:22:40Z | cve-2021-22555 | Null | https://github.com/cgwalters/container-cve-2021-22555 | A heap out-of-bounds write affecting Linux since v2.6.19-rc1 was discovered in net/netfilter/x_tables.c. This allows an attacker to gain privileges or cause a DoS (via heap memory corruption) through user name space| 
 | 20210718T19:57:31Z | CVE-2021-1675 | C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527 | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210718T16:56:41Z | CVE-2021-22893 | Proof-of-Concept (PoC) script to exploit Pulse Secure CVE-2021-22893.  | https://github.com/ZephrFish/CVE-2021-22893 | Pulse Connect Secure 9.0R3/9.1R1 and higher is vulnerable to an authentication bypass vulnerability exposed by the Windows File Share Browser and Pulse Secure Collaboration features of Pulse Connect Secure that can allow an unauthenticated user to perform remote arbitrary code execution on the Pulse Connect Secure gateway. This vulnerability has been exploited in the wild.| 
-| 20210718T16:23:04Z | CVE-2021-21315 | systeminformation | https://github.com/MazX0p/CVE-2021-21315-exploit | The System Information Library for Node.JS (npm package %systeminformation%) is an open source collection of functions to retrieve detailed hardware, system and OS information. In systeminformation before version 5.3.1 there is a command injection vulnerability. Problem was fixed in version 5.3.1. As a workaround instead of upgrading, be sure to check or sanitize service parameters that are passed to si.inetLatency(), si.inetChecksite(), si.services(), si.processLoad() ... do only allow strings, reject any arrays. String sanitation works as expected.| 
+| 20210718T16:23:04Z | CVE-2021-21315 | systeminformation | https://github.com/MazX0p/CVE-2021-21315-exploit | | 
 | 20210718T14:03:08Z | CVE-2021-1675 | Null | https://github.com/thalpius/Microsoft-CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210718T04:47:13Z | CVE-2020-14882 | Null | https://github.com/0xhatuna/CVE-2020-14882 | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
 | 20210718T01:28:30Z | CVE-2021-21315 | systeminformation | https://github.com/MazX0p/CVE-2021-21315-POC | The System Information Library for Node.JS (npm package %systeminformation%) is an open source collection of functions to retrieve detailed hardware, system and OS information. In systeminformation before version 5.3.1 there is a command injection vulnerability. Problem was fixed in version 5.3.1. As a workaround instead of upgrading, be sure to check or sanitize service parameters that are passed to si.inetLatency(), si.inetChecksite(), si.services(), si.processLoad() ... do only allow strings, reject any arrays. String sanitation works as expected.| 
@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210719T12:13:32Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 1395 | 33| 
+| 20210719T12:20:15Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 1396 | 33| 
 | 20210719T08:08:56Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1732 | 498| 
 | 20210719T03:57:56Z | Null | https://github.com/johanfajar/klee-puzzle | 0 | 0| 
 | 20210718T21:39:36Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
@@ -102,6 +102,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210719T12:25:05Z | 🤖An Evil and Smart Bot for Enslaving Windows Written in Rust and Python | https://github.com/wildonion/katyusha | 3 | 1| 
 | 20210719T11:53:35Z | Small collection of bash scripts that take advantage of the .bashrc file and inject various payloads into it in order to escalate privileges or steal credentials. | https://github.com/Naqwa/Bashrc-Backdoors | 1 | 0| 
 | 20210719T10:13:06Z | Backdoor in Python | https://github.com/M4UR9/Backdoor | 1 | 0| 
 | 20210719T09:37:17Z | Null | https://github.com/Pramodh-G/MalwareBackdoors | 0 | 0| 
@@ -111,7 +112,6 @@
 | 20210718T23:15:34Z | sqlsus is an open source MySQL injection and takeover tool, written in perl.  Via a command line interface, you can retrieve the database(s) structure, inject your own SQL queries (even complex ones), download files from the web server, crawl the website for writable directories, upload and control a backdoor, clone the database(s), and much more... Whenever relevant, sqlsus will mimic a MySQL console output.  sqlsus focuses on speed and efficiency, optimising the available injection space, making the best use (I can think of) of MySQL functions. It uses stacked subqueries and an powerful blind injection algorithm to maximise the data gathered per web server hit. Using multithreading on top of that, sqlsus is an extremely fast database dumper, be it for inband or blind injection.  If the privileges are high enough, sqlsus will be a great help for uploading a backdoor through the injection point, and takeover the web server.  It uses SQLite as a backend, for an easier use of what has been dumped, and integrates a lot of usual features (see below) such as cookie support, socks/http proxying, https.. | https://github.com/XDCeltic/sqlsus0.7.2 | 0 | 0| 
 | 20210718T22:32:18Z | Paranoid is a web interface and dashboard, configured for managing HatSploit sessions via built-in REST API. | https://github.com/EntySec/Paranoid | 2 | 0| 
 | 20210718T21:56:27Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 215 | 41| 
-| 20210718T20:17:46Z | Repository for data and code associated with the paper, %% | https://github.com/wmgeolab/Backdoor_Attacks_Sat_Img | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
