@@ -34,7 +34,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210719T12:03:36Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 1394 | 33| 
+| 20210719T12:13:32Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 1395 | 33| 
 | 20210719T08:08:56Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1732 | 498| 
 | 20210719T03:57:56Z | Null | https://github.com/johanfajar/klee-puzzle | 0 | 0| 
 
@@ -47,6 +47,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210719T12:12:50Z | Null | https://github.com/hxr404/Discord-Console-hacks | 38 | 13| 
 | 20210719T12:07:39Z | Load exploit projects from Roblox model files | https://github.com/richie0866/rbxm-suite | 0 | 0| 
 | 20210719T12:02:54Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 28 | 14| 
 | 20210719T11:48:36Z | simple python script to extract username and password from no sqli databases | https://github.com/youngowl13/nosqli-exploit | 0 | 0| 
@@ -56,7 +57,6 @@
 | 20210719T10:55:22Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 5826 | 1371| 
 | 20210719T10:31:25Z | Null | https://github.com/TheSquanch-147/Rugpulls-Hacks-Exploits-List | 6 | 0| 
 | 20210719T10:28:32Z | Knowledge base of exploit mitigations available across numerous  operating systems, architectures and applications and versions. | https://github.com/nccgroup/exploit_mitigations | 379 | 40| 
-| 20210719T10:17:35Z | Roblox exploit DLL using the LBI execution method | https://github.com/deaddlocust/LBI-Base | 11 | 0| 
 
 
 # backdoor on Github 推荐
