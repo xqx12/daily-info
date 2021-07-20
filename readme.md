@@ -39,7 +39,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210719T20:24:53Z | CVE-2021-21551 | An extended proof-of-concept for the CVE-2021-21551 Dell ‘dbutil_2_3.sys’ Kernel Exploit. | https://github.com/mzakocs/CVE-2021-21551-POC | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
 | 20210719T20:05:52Z | cve-2021-22555 | Null | https://github.com/cgwalters/container-cve-2021-22555 | A heap out-of-bounds write affecting Linux since v2.6.19-rc1 was discovered in net/netfilter/x_tables.c. This allows an attacker to gain privileges or cause a DoS (via heap memory corruption) through user name space| 
-| 20210719T15:48:51Z | CVE-2021-34527 | PrintNightmare - Windows Print Spooler RCE/LPE Vulnerability (CVE-2021-34527, CVE-2021-1675) proof of concept exploits | https://github.com/nemo-wq/PrintNightmare-CVE-2021-34527 | | 
+| 20210719T15:48:51Z | CVE-2021-34527 | PrintNightmare - Windows Print Spooler RCE/LPE Vulnerability (CVE-2021-34527, CVE-2021-1675) proof of concept exploits | https://github.com/nemo-wq/PrintNightmare-CVE-2021-34527 | Windows Print Spooler Remote Code Execution Vulnerability| 
 | 20210719T14:20:41Z | CVE-2021-33560 | Tool to check whether a PGP client is affected by CVE-2021-33560 | https://github.com/IBM/PGP-client-checker-CVE-2021-33560 | Libgcrypt before 1.8.8 and 1.9.x before 1.9.3 mishandles ElGamal encryption because it lacks exponent blinding to address a side-channel attack against mpi_powm, and the window size is not chosen appropriately. (There is also an interoperability problem because the selection of the k integer value does not properly consider the differences between basic ElGamal encryption and generalized ElGamal encryption.) This, for example, affects use of ElGamal in OpenPGP.| 
 | 20210719T12:23:22Z | CVE-2021-22555 | CVE-2021-22555 Exploit | https://github.com/JustYoomoon/CVE-2021-22555-Exploit | A heap out-of-bounds write affecting Linux since v2.6.19-rc1 was discovered in net/netfilter/x_tables.c. This allows an attacker to gain privileges or cause a DoS (via heap memory corruption) through user name space| 
 | 20210719T07:01:22Z | CVE-2020-9483 | PoC of SQL Injection vul(CVE-2020-9483,Apache SkyWalking) | https://github.com/Neko2sh1ro/CVE-2020-9483 | **Resolved** When use H2/MySQL/TiDB as Apache SkyWalking storage, the metadata query through GraphQL protocol, there is a SQL injection vulnerability, which allows to access unpexcted data. Apache SkyWalking 6.0.0 to 6.6.0, 7.0.0 H2/MySQL/TiDB storage implementations don%t use the appropriate way to set SQL parameters.| 
@@ -114,12 +114,12 @@
 | 20210719T23:21:58Z | Null | https://github.com/stuartelimu/fuzzy-octo-carnival | 0 | 0| 
 | 20210719T22:55:29Z | Null | https://github.com/lzhfromustc/goFuzz | 0 | 0| 
 | 20210719T22:48:07Z | Null | https://github.com/Bagdjdd/fuzzy-journey | 0 | 0| 
-| 20210719T22:35:19Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210719T22:31:51Z | Fuzzinator Random Testing Framework | https://github.com/renatahodovan/fuzzinator | 177 | 38| 
 | 20210719T22:18:57Z | Config files for my GitHub profile. | https://github.com/fuzzysaucer/fuzzysaucer | 0 | 0| 
 | 20210719T22:02:22Z | a fuzzier graph plotting method | https://github.com/autumnull/fuzzyplot | 0 | 0| 
-| 20210719T21:53:41Z | An investigation of American Fuzzy Lop++ as a fuzzer | https://github.com/hark130/hardy-remix | 0 | 0| 
 | 20210719T21:26:51Z | Null | https://github.com/13jojo/fuzzy_search | 0 | 0| 
+| 20210719T21:21:51Z | A GUI fuzzing tool that works by recording the user and making scenarios out of it | https://github.com/MrVoustache/GUI-Mimic | 0 | 0| 
+| 20210719T21:16:36Z | Fuzzy based segmentation of remotely sensed images using an Adaptive Neuro Fuzzy Inference System (ANFIS). | https://github.com/andmon97/FuzzyRemoteSensingSegmentation | 8 | 0| 
 
 
 

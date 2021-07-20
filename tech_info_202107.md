@@ -48,7 +48,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210719T20:24:53Z | CVE-2021-21551 | An extended proof-of-concept for the CVE-2021-21551 Dell ‘dbutil_2_3.sys’ Kernel Exploit. | https://github.com/mzakocs/CVE-2021-21551-POC | Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.| 
 | 20210719T20:05:52Z | cve-2021-22555 | Null | https://github.com/cgwalters/container-cve-2021-22555 | A heap out-of-bounds write affecting Linux since v2.6.19-rc1 was discovered in net/netfilter/x_tables.c. This allows an attacker to gain privileges or cause a DoS (via heap memory corruption) through user name space| 
-| 20210719T15:48:51Z | CVE-2021-34527 | PrintNightmare - Windows Print Spooler RCE/LPE Vulnerability (CVE-2021-34527, CVE-2021-1675) proof of concept exploits | https://github.com/nemo-wq/PrintNightmare-CVE-2021-34527 | | 
+| 20210719T15:48:51Z | CVE-2021-34527 | PrintNightmare - Windows Print Spooler RCE/LPE Vulnerability (CVE-2021-34527, CVE-2021-1675) proof of concept exploits | https://github.com/nemo-wq/PrintNightmare-CVE-2021-34527 | Windows Print Spooler Remote Code Execution Vulnerability| 
 | 20210719T14:20:41Z | CVE-2021-33560 | Tool to check whether a PGP client is affected by CVE-2021-33560 | https://github.com/IBM/PGP-client-checker-CVE-2021-33560 | Libgcrypt before 1.8.8 and 1.9.x before 1.9.3 mishandles ElGamal encryption because it lacks exponent blinding to address a side-channel attack against mpi_powm, and the window size is not chosen appropriately. (There is also an interoperability problem because the selection of the k integer value does not properly consider the differences between basic ElGamal encryption and generalized ElGamal encryption.) This, for example, affects use of ElGamal in OpenPGP.| 
 | 20210719T12:23:22Z | CVE-2021-22555 | CVE-2021-22555 Exploit | https://github.com/JustYoomoon/CVE-2021-22555-Exploit | A heap out-of-bounds write affecting Linux since v2.6.19-rc1 was discovered in net/netfilter/x_tables.c. This allows an attacker to gain privileges or cause a DoS (via heap memory corruption) through user name space| 
 | 20210719T07:01:22Z | CVE-2020-9483 | PoC of SQL Injection vul(CVE-2020-9483,Apache SkyWalking) | https://github.com/Neko2sh1ro/CVE-2020-9483 | **Resolved** When use H2/MySQL/TiDB as Apache SkyWalking storage, the metadata query through GraphQL protocol, there is a SQL injection vulnerability, which allows to access unpexcted data. Apache SkyWalking 6.0.0 to 6.6.0, 7.0.0 H2/MySQL/TiDB storage implementations don%t use the appropriate way to set SQL parameters.| 
@@ -61,8 +61,8 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210720T00:58:55Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 1553 | 34| 
-| 20210720T00:52:26Z | Null | https://github.com/kleelab/kleelab.github.io | 0 | 0| 
+| 20210720T01:59:03Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 1579 | 35| 
+| 20210720T01:53:26Z | Null | https://github.com/kleelab/kleelab.github.io | 0 | 0| 
 | 20210719T13:56:53Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 163 | 15| 
 | 20210719T08:08:56Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1732 | 498| 
 | 20210719T03:57:56Z | Null | https://github.com/johanfajar/klee-puzzle | 0 | 0| 
@@ -87,21 +87,22 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210720T01:51:55Z | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | 6473 | 1501| 
+| 20210720T01:50:21Z | A Roblox rbxm(x) file runtime built for exploiting | https://github.com/richie0866/rbxm-suite | 0 | 0| 
+| 20210720T01:43:34Z | Write-up and functional exploit of tfUSD 50M worth of bug. | https://github.com/Jonah246/tfusd-flashloan-attack-write-up | 0 | 0| 
+| 20210720T01:40:20Z | This tool is great for information gathering and post- exploitation | https://github.com/Cybercrack-bot/Cybercrack | 4 | 4| 
+| 20210720T01:19:48Z | An R package to enable the creation of high quality hexagonally binned graphs that can exploit all of ggplot2’s functionality | https://github.com/dugar3/gghexbin | 0 | 0| 
 | 20210720T01:02:56Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 28 | 14| 
 | 20210720T00:32:19Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9740 | 1604| 
-| 20210720T00:18:34Z | A Roblox rbxm(x) file runtime built for exploiting | https://github.com/richie0866/rbxm-suite | 0 | 1| 
 | 20210720T00:04:30Z | Null | https://github.com/haltlol/worldedit-exploit | 0 | 0| 
 | 20210719T23:46:32Z | Null | https://github.com/TheCrazzXz/Exploits-Lab | 0 | 0| 
 | 20210719T23:35:58Z | Patch for Waterfall to improve performance during attacks and fix memory issues. | https://github.com/2lstudios-mc/FlameCord | 52 | 31| 
-| 20210719T23:22:05Z | Agent-Based Modelling of labour exploitation in textile supply chains | https://github.com/kwabenantim/textile-labour | 1 | 0| 
-| 20210719T22:18:23Z | exploiter le potentiel des logiciels de reconnaissance d’objets pour identifier et compter tous les types de véhicules dans des flux vidéos des caméras de videosurveillance | https://github.com/fabmob/open_trafic | 1 | 0| 
-| 20210719T22:11:06Z | Null | https://github.com/zYan666/Demon-Exploit | 0 | 0| 
-| 20210719T21:51:57Z | Old and new CTFs about Linux kernel exploitation. | https://github.com/MaherAzzouzi/LinuxKernelExploitation | 9 | 2| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210720T01:08:56Z | Simple Python Backdoor | https://github.com/zNairy/Sonaris | 6 | 0| 
 | 20210720T01:02:27Z | Mock server backdoor for playing around with another python tool I made.  | https://github.com/CadenFore/ServerBackdoor | 0 | 0| 
 | 20210720T00:28:12Z | Proof of Concept | https://github.com/YeahOMA/omaBackdoor | 1 | 0| 
 | 20210720T00:28:12Z | Proof of Concept | https://github.com/xxxOMA/omaBackdoor | 1 | 0| 
@@ -111,7 +112,6 @@
 | 20210719T17:13:23Z | Poweshell backdoor metasploit  | https://github.com/crypt0n-root/powershell-backdoor | 1 | 0| 
 | 20210719T16:49:23Z | Python remote server(backdoor) | https://github.com/KalenMajic/python-remote-server | 0 | 0| 
 | 20210719T14:47:18Z | test backdoor | https://github.com/navithejatboy/juspaybd | 0 | 0| 
-| 20210719T13:01:06Z | shell backdoor | https://github.com/m0nd4y99/shellbackdoorr | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -142,16 +142,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210720T01:04:40Z | Null | https://github.com/opimentel-github/fuzzy-tools | 0 | 0| 
-| 20210720T00:39:06Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 484 | 48| 
+| 20210720T01:44:57Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 485 | 48| 
+| 20210720T01:44:44Z | An investigation of American Fuzzy Lop++ as a fuzzer | https://github.com/hark130/hardy-remix | 0 | 0| 
+| 20210720T01:41:29Z | Null | https://github.com/SenSecurity/Directory-Fuzzing | 0 | 0| 
+| 20210720T01:39:31Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20210720T01:35:19Z | Null | https://github.com/SherlokMo/FuzzyUmbrella | 0 | 0| 
+| 20210720T01:16:11Z | Null | https://github.com/opimentel-github/fuzzy-tools | 0 | 0| 
 | 20210720T00:13:50Z | Package to combine fuzzywuzzy matching and python sorting into a few functions. | https://github.com/maybemaby/fuzzysort | 0 | 0| 
 | 20210720T00:09:43Z | Null | https://github.com/ArtieFuzzz/ArtieFuzzz | 0 | 1| 
 | 20210719T23:32:18Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210719T23:21:58Z | Null | https://github.com/stuartelimu/fuzzy-octo-carnival | 0 | 0| 
-| 20210719T22:55:29Z | Null | https://github.com/lzhfromustc/goFuzz | 0 | 0| 
-| 20210719T22:48:07Z | Null | https://github.com/Bagdjdd/fuzzy-journey | 0 | 0| 
-| 20210719T22:35:19Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210719T22:31:51Z | Fuzzinator Random Testing Framework | https://github.com/renatahodovan/fuzzinator | 177 | 38| 
 
 
 
