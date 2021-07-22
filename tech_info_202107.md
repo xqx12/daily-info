@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210722T01:21:08Z | Exploiting the ssh config feature for obfuscation | https://github.com/hazarky/andre3000 | 0 | 0| 
 | 20210722T01:03:36Z | Null | https://github.com/NHPT/CVE-Exploit-Script | 4 | 0| 
 | 20210722T01:03:17Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 28 | 14| 
 | 20210722T00:53:11Z | Config files for my GitHub profile. | https://github.com/ItzPikaExploits/ItzPikaExploits | 0 | 0| 
@@ -97,7 +98,6 @@
 | 20210721T23:52:12Z | Hardware setup tips for exploiting MouseJack on Catalina and OS X | https://github.com/notwlsn/catalina-mousejack | 0 | 0| 
 | 20210721T23:26:30Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9758 | 1609| 
 | 20210721T23:25:16Z | Null | https://github.com/0xturazzi/Um-Livrinho-Sobre-Exploit-Dev | 0 | 0| 
-| 20210721T23:20:13Z | A collection of custom built scripts to exploit known vulnerability chains | https://github.com/R-s0n/Custom_Exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
