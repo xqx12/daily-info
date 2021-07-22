@@ -46,10 +46,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210722T12:24:28Z | CVE-2021-36934 | CVE-2021-36934 PowerShell Fix | https://github.com/tda90/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
+| 20210722T12:26:37Z | CVE-2021-1675 | see https://github.com/cube0x0/CVE-2021-1675 | https://github.com/hahaleyile/my-CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
+| 20210722T12:25:50Z | CVE-2021-36934 | CVE-2021-36934 PowerShell Fix | https://github.com/tda90/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
 | 20210722T12:03:37Z | CVE-2021-36934 | Fix for the CVE-2021-36934 | https://github.com/JoranSlingerland/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
 | 20210722T11:42:35Z | CVE-2021-33909 | Sequoia exploit (7/20/21) | https://github.com/Liang2580/CVE-2021-33909 | fs/seq_file.c in the Linux kernel 3.16 through 5.13.x before 5.13.4 does not properly restrict seq buffer allocations, leading to an integer overflow, an Out-of-bounds Write, and escalation to root by an unprivileged user, aka CID-8cae8cd89f05.| 
-| 20210722T10:50:46Z | CVE-2021-1675 | see https://github.com/cube0x0/CVE-2021-1675 | https://github.com/hahaleyile/my-CVE-2021-1675 | | 
 | 20210722T10:25:38Z | CVE-2021-1675 | C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527 | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210722T09:18:30Z | CVE-2021-3129 | Null | https://github.com/1111one/laravel-CVE-2021-3129-EXP | Ignition before 2.5.2, as used in Laravel and other products, allows unauthenticated remote attackers to execute arbitrary code because of insecure usage of file_get_contents() and file_put_contents(). This is exploitable on sites using debug mode with Laravel before 8.4.2.| 
 | 20210722T02:10:58Z | CVE-2021-36934 | Detection and Mitigation script for CVE-2021-36934 (HiveNightmare aka. SeriousSam) | https://github.com/n3tsurge/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
@@ -90,8 +90,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210722T12:27:04Z | Exploit allowing you to read registry hives as non-admin on Windows 10 and 11 | https://github.com/GossiTheDog/HiveNightmare | 249 | 58| 
 | 20210722T12:23:27Z | Pure Nim implementation for exploiting CVE-2021-36934, the SeriousSAM local privilege escalation | https://github.com/HuskyHacks/ShadowSteal | 93 | 18| 
-| 20210722T12:22:48Z | Exploit allowing you to read registry hives as non-admin on Windows 10 and 11 | https://github.com/GossiTheDog/HiveNightmare | 248 | 58| 
 | 20210722T12:02:57Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 28 | 14| 
 | 20210722T11:39:17Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 73 | 28| 
 | 20210722T11:19:16Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
@@ -145,6 +145,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210722T12:27:20Z | JetBrains Research intership project. | https://github.com/AnzhelaSukhanova/fuzzing_of_spacer | 0 | 0| 
 | 20210722T12:25:54Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 495 | 48| 
 | 20210722T12:15:12Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 19 | 8| 
 | 20210722T12:05:48Z | Config files for my GitHub profile. | https://github.com/leFuzz/leFuzz | 0 | 0| 
@@ -154,7 +155,6 @@
 | 20210722T11:30:47Z | Null | https://github.com/zarzisur/PI-and-Fuzzy-Controller | 0 | 0| 
 | 20210722T11:15:40Z | Emulation based snapshot fuzzer | https://github.com/jaoeul/gingersnap | 0 | 0| 
 | 20210722T11:13:50Z | Null | https://github.com/Faskhutdinova/fuzzy-umbrella | 0 | 0| 
-| 20210722T11:09:15Z | Null | https://github.com/gresssa/Mamdani-Fuzzy-Logic | 0 | 0| 
 
 
 
