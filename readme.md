@@ -37,7 +37,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210721T23:14:02Z | CVE-2021-36934 | Fix for the CVE-2021-36934 | https://github.com/JoranSlingerland/CVE-2021-36934 | 未查询到CVE信息| 
 | 20210721T21:29:58Z | CVE-2021-1675 | C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527 | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210721T18:34:36Z | CVE-2020-23934 | Python Implementation of CVE-2020-23934 | https://github.com/zyeinn/CVE-2020-23934 | | 
+| 20210721T18:34:36Z | CVE-2020-23934 | Python Implementation of CVE-2020-23934 | https://github.com/zyeinn/CVE-2020-23934 | An issue was discovered in RiteCMS 2.2.1. An authenticated user can directly execute system commands by uploading a php web shell in the %Filemanager% section.| 
 | 20210721T18:26:38Z | cve-2021-33909 | This module fixes an issue in the kernels filesystem layer (CVE-2021-33909) by kprobe-replacing vulnerable functions during runtime | https://github.com/baerwolf/cve-2021-33909 | fs/seq_file.c in the Linux kernel 3.16 through 5.13.x before 5.13.4 does not properly restrict seq buffer allocations, leading to an integer overflow, an Out-of-bounds Write, and escalation to root by an unprivileged user, aka CID-8cae8cd89f05.| 
 | 20210721T12:56:25Z | CVE-2021-33909 | Sequoia exploit (7/20/21) | https://github.com/AmIAHuman/CVE-2021-33909 | fs/seq_file.c in the Linux kernel 3.16 through 5.13.x before 5.13.4 does not properly restrict seq buffer allocations, leading to an integer overflow, an Out-of-bounds Write, and escalation to root by an unprivileged user, aka CID-8cae8cd89f05.| 
 | 20210721T03:02:49Z | CVE-2020-15778 | Exploit for CVE-2020-15778(OpenSSH vul) | https://github.com/Neko2sh1ro/CVE-2020-15778-Exploit |  scp in OpenSSH through 8.3p1 allows command injection in the scp.c toremote function, as demonstrated by backtick characters in the destination argument. NOTE: the vendor reportedly has stated that they intentionally omit validation of %anomalous argument transfers% because that could %stand a great chance of breaking existing workflows.%| 
@@ -81,12 +81,12 @@
 | 20210721T21:35:23Z | Dashboard for conducting Backdoors and Breaches sessions over Zoom. | https://github.com/p3hndrx/B-B-Shuffle | 2 | 0| 
 | 20210721T18:48:03Z | Null | https://github.com/Enormity-Hack/Backdoor-Generator | 0 | 0| 
 | 20210721T18:07:41Z | Backdoor has been discovered in Linsys WAG200G that listening on port 32764 in 2015. I decided to create this repository with some codes to access backdoor because this security hole exists today. | https://github.com/enty8080/32764-multi-backdoor | 2 | 2| 
-| 20210721T16:06:20Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1219 | 579| 
 | 20210721T12:35:26Z | Leux-Backdoor 0.3 0.9 version  | https://github.com/3arthx/Leux-Backdoor | 2 | 1| 
 | 20210721T09:57:08Z | RATata is a simple python RAT to setup and use ! | https://github.com/loTus04/RATata | 8 | 6| 
 | 20210721T07:30:02Z | Null | https://github.com/gsingla21/Backdoor | 0 | 0| 
 | 20210721T06:47:44Z | Null | https://github.com/sudharshan-krishna/backdoor | 0 | 0| 
 | 20210721T06:19:13Z | Malware and malicious applications database | https://github.com/Black-Hell-Team/sppen | 15 | 2| 
+| 20210721T04:50:40Z | Config files for my GitHub profile. | https://github.com/backdooroe/backdooroe | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
