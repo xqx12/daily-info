@@ -46,10 +46,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210722T12:34:51Z | 未知编号 | Null | https://github.com/haerin7427/CVE_2020_1938 | 未查询到CVE信息| 
+| 20210722T12:41:51Z | 未知编号 | Null | https://github.com/haerin7427/CVE_2020_1938 | 未查询到CVE信息| 
 | 20210722T12:30:21Z | CVE-2021-36934 | CVE-2021-36934 PowerShell Fix | https://github.com/tda90/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
 | 20210722T12:26:37Z | CVE-2021-1675 | see https://github.com/cube0x0/CVE-2021-1675 | https://github.com/hahaleyile/my-CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210722T12:03:37Z | CVE-2021-36934 | Fix for the CVE-2021-36934 | https://github.com/JoranSlingerland/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
+| 20210722T12:03:37Z | CVE-2021-36934 | Fix for the CVE-2021-36934 | https://github.com/JoranSlingerland/CVE-2021-36934 | | 
 | 20210722T11:42:35Z | CVE-2021-33909 | Sequoia exploit (7/20/21) | https://github.com/Liang2580/CVE-2021-33909 | fs/seq_file.c in the Linux kernel 3.16 through 5.13.x before 5.13.4 does not properly restrict seq buffer allocations, leading to an integer overflow, an Out-of-bounds Write, and escalation to root by an unprivileged user, aka CID-8cae8cd89f05.| 
 | 20210722T10:25:38Z | CVE-2021-1675 | C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527 | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210722T09:18:30Z | CVE-2021-3129 | Null | https://github.com/1111one/laravel-CVE-2021-3129-EXP | Ignition before 2.5.2, as used in Laravel and other products, allows unauthenticated remote attackers to execute arbitrary code because of insecure usage of file_get_contents() and file_put_contents(). This is exploitable on sites using debug mode with Laravel before 8.4.2.| 
@@ -105,6 +105,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210722T12:43:07Z | A Python module for building botnet ,backdoor or trojan with Telegram control panel | https://github.com/onionj/pybotnet | 8 | 5| 
 | 20210722T12:37:08Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1222 | 579| 
 | 20210722T10:55:52Z | Null | https://github.com/maskfunction/backdoorserver | 0 | 0| 
 | 20210722T08:45:56Z | Backdoor Lnk Obfuscated Macro  ( Cachée ) Développé par 4po. | https://github.com/4po/BackdoorObfuscated | 2 | 2| 
@@ -114,7 +115,6 @@
 | 20210722T02:15:56Z | Hide a process,port,self under Linux using the ld_preload | https://github.com/veo/vbackdoor | 0 | 0| 
 | 20210722T02:00:15Z | Malware and malicious applications database | https://github.com/Black-Hell-Team/sppen | 16 | 2| 
 | 20210722T01:39:05Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 88 | 15| 
-| 20210722T00:09:54Z | A batch script for taking information. A bit overdeveloped, and kind of useless. | https://github.com/Takaovi/BatchStealer | 9 | 2| 
 
 
 # symbolic execution on Github 推荐
