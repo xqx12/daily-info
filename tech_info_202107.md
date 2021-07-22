@@ -143,6 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210722T01:38:08Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210722T01:05:53Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 5 | 1| 
 | 20210722T00:28:34Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6501 | 1318| 
 | 20210722T00:07:33Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 19 | 8| 
@@ -152,7 +153,6 @@
 | 20210721T23:04:51Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 490 | 48| 
 | 20210721T22:45:56Z | A fuzzy c-means implementation to classify wines. | https://github.com/JMateusSousa/Fuzzy-C-Means | 0 | 1| 
 | 20210721T22:25:47Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2358 | 132| 
-| 20210721T21:35:36Z | Fuzzy Logic & Knowledge Based System for difficulty of the AI in First person shooters | https://github.com/tinitis0/Fuzzy-Logic-KBS | 0 | 0| 
 
 
 
