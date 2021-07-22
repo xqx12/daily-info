@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210722T01:00:05Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2039 | 46| 
+| 20210722T01:06:45Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2043 | 46| 
 | 20210721T15:54:50Z | Personal portfolio website built with React | https://github.com/collinkleest/kleest.io | 0 | 0| 
 | 20210721T10:43:16Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
 | 20210721T10:25:30Z | Report PPT template for CS students  | https://github.com/Fishermanykx/paper_reading_report_template | 1 | 0| 
@@ -143,7 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210722T00:48:34Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 5 | 1| 
+| 20210722T01:05:53Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 5 | 1| 
 | 20210722T00:28:34Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6501 | 1318| 
 | 20210722T00:07:33Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 19 | 8| 
 | 20210721T23:55:59Z | Null | https://github.com/amorblue/Fuzzing | 0 | 0| 
