@@ -145,6 +145,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210722T12:15:12Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 19 | 8| 
 | 20210722T12:05:48Z | Config files for my GitHub profile. | https://github.com/leFuzz/leFuzz | 0 | 0| 
 | 20210722T12:01:32Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3604 | 841| 
 | 20210722T11:54:46Z | use aflsmart to fuzz web service | https://github.com/egvnoen/nfuzzer | 1 | 0| 
@@ -154,7 +155,6 @@
 | 20210722T11:14:31Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 494 | 48| 
 | 20210722T11:13:50Z | Null | https://github.com/Faskhutdinova/fuzzy-umbrella | 0 | 0| 
 | 20210722T11:09:15Z | Null | https://github.com/gresssa/Mamdani-Fuzzy-Logic | 0 | 0| 
-| 20210722T11:08:31Z | Fuzzy: contains code for a Fuzzy Engine and a Dynamical Systems Simulator (DySySim). | https://github.com/josokw/Fuzzy | 2 | 0| 
 
 
 
