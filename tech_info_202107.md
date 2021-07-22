@@ -145,7 +145,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210722T12:01:32Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3604 | 842| 
+| 20210722T12:05:48Z | Config files for my GitHub profile. | https://github.com/leFuzz/leFuzz | 0 | 0| 
+| 20210722T12:01:32Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3604 | 841| 
 | 20210722T11:54:46Z | use aflsmart to fuzz web service | https://github.com/egvnoen/nfuzzer | 1 | 0| 
 | 20210722T11:48:05Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210722T11:30:47Z | Null | https://github.com/zarzisur/PI-and-Fuzzy-Controller | 0 | 0| 
@@ -154,7 +155,6 @@
 | 20210722T11:13:50Z | Null | https://github.com/Faskhutdinova/fuzzy-umbrella | 0 | 0| 
 | 20210722T11:09:15Z | Null | https://github.com/gresssa/Mamdani-Fuzzy-Logic | 0 | 0| 
 | 20210722T11:08:31Z | Fuzzy: contains code for a Fuzzy Engine and a Dynamical Systems Simulator (DySySim). | https://github.com/josokw/Fuzzy | 2 | 0| 
-| 20210722T10:58:41Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 319 | 22| 
 
 
 
