@@ -27,6 +27,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210722T12:34:16Z | 未知编号 | Null | https://github.com/haerin7427/CVE_2020_1938 | 未查询到CVE信息| 
 | 20210722T12:30:21Z | CVE-2021-36934 | CVE-2021-36934 PowerShell Fix | https://github.com/tda90/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
 | 20210722T12:26:37Z | CVE-2021-1675 | see https://github.com/cube0x0/CVE-2021-1675 | https://github.com/hahaleyile/my-CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210722T12:03:37Z | CVE-2021-36934 | Fix for the CVE-2021-36934 | https://github.com/JoranSlingerland/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
