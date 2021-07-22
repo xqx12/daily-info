@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210722T11:55:57Z | CVE-2021-36934 | Fix for the CVE-2021-36934 | https://github.com/JoranSlingerland/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
+| 20210722T12:03:37Z | CVE-2021-36934 | Fix for the CVE-2021-36934 | https://github.com/JoranSlingerland/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
 | 20210722T11:42:35Z | CVE-2021-33909 | Sequoia exploit (7/20/21) | https://github.com/Liang2580/CVE-2021-33909 | fs/seq_file.c in the Linux kernel 3.16 through 5.13.x before 5.13.4 does not properly restrict seq buffer allocations, leading to an integer overflow, an Out-of-bounds Write, and escalation to root by an unprivileged user, aka CID-8cae8cd89f05.| 
 | 20210722T10:50:46Z | CVE-2021-1675 | see https://github.com/cube0x0/CVE-2021-1675 | https://github.com/hahaleyile/my-CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210722T10:25:38Z | CVE-2021-1675 | C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527 | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
@@ -76,6 +76,8 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210722T10:37:33Z | Null | https://github.com/Feddouuu/s2e_federico | 0 | 0| 
+| 20210722T09:13:59Z | Null | https://github.com/Djeufo/22GithubTestProject_S2E | 0 | 0| 
 | 20210721T14:56:09Z | Automatic Exploit Generation (AEG) tool based on S2E 2.X | https://github.com/aesophor/baphomet | 3 | 0| 
 | 20210719T14:19:27Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 142 | 33| 
 | 20210716T08:48:51Z | Season 2, Episode 1 - In this episode we look at how to correctly host your HTML files, and reverse proxy the ws/ (Websocket) connections back to the Asterisk Service. It%s all done on a single local instance so we are using a self signed certificate. | https://github.com/InnovateAsterisk/S2E1 | 0 | 0| 
@@ -88,16 +90,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210722T01:57:48Z | Pure Nim implementation for exploiting CVE-2021-36934, the SeriousSAM local privilege escalation | https://github.com/HuskyHacks/ShadowSteal | 77 | 14| 
-| 20210722T01:52:02Z | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | 1469 | 514| 
-| 20210722T01:48:21Z | This repository will have recollected most of my notes on windows internals both for Malware Analysis and Logic Bug Exploitation | https://github.com/NtQuerySystemInformation/Notes-on-Windows-Internals | 0 | 0| 
-| 20210722T01:21:08Z | Exploiting the ssh config feature for obfuscation | https://github.com/hazarky/andre3000 | 0 | 0| 
-| 20210722T01:03:36Z | Null | https://github.com/NHPT/CVE-Exploit-Script | 4 | 0| 
-| 20210722T01:03:17Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 28 | 14| 
-| 20210722T00:53:11Z | Config files for my GitHub profile. | https://github.com/ItzPikaExploits/ItzPikaExploits | 0 | 0| 
-| 20210722T00:42:07Z | exploiting android vulnerabilities | https://github.com/rafaellimaapt/android_exploits | 0 | 0| 
-| 20210722T00:22:00Z | A Universal Exploit (3rd Edition) | https://github.com/SynapsUsr/UniExploit-V1 | 0 | 0| 
-| 20210721T23:52:12Z | Hardware setup tips for exploiting MouseJack on Catalina and OS X | https://github.com/notwlsn/catalina-mousejack | 0 | 0| 
+| 20210722T12:02:57Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 28 | 14| 
+| 20210722T11:52:18Z | Pure Nim implementation for exploiting CVE-2021-36934, the SeriousSAM local privilege escalation | https://github.com/HuskyHacks/ShadowSteal | 92 | 18| 
+| 20210722T11:50:35Z | Exploit allowing you to read registry hives as non-admin on Windows 10 and 11 | https://github.com/GossiTheDog/HiveNightmare | 244 | 58| 
+| 20210722T11:39:17Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 73 | 28| 
+| 20210722T11:19:16Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
+| 20210722T11:17:40Z | Null | https://github.com/flex0geek/cves-exploits | 2 | 1| 
+| 20210722T11:17:13Z | Prototype Pollution exploits collection | https://github.com/Kirill89/prototype-pollution-exploits | 13 | 3| 
+| 20210722T10:50:44Z | A Universal Exploit (3rd Edition) | https://github.com/SynapsUsr/UniExploit-V1 | 0 | 0| 
+| 20210722T10:32:31Z | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | 214 | 37| 
+| 20210722T09:54:34Z | 死神 Shinigami Program is a reverse engineering challenge made for people who are trying to learn exploit dev / low level hacking / reverse engineering / ... | https://github.com/osamu-kj/shinigami-challenge | 0 | 0| 
 
 
 # backdoor on Github 推荐
