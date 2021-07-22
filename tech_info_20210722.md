@@ -32,7 +32,7 @@
 | 20210722T12:26:37Z | CVE-2021-1675 | see https://github.com/cube0x0/CVE-2021-1675 | https://github.com/hahaleyile/my-CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210722T12:03:37Z | CVE-2021-36934 | Fix for the CVE-2021-36934 | https://github.com/JoranSlingerland/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
 | 20210722T11:42:35Z | CVE-2021-33909 | Sequoia exploit (7/20/21) | https://github.com/Liang2580/CVE-2021-33909 | fs/seq_file.c in the Linux kernel 3.16 through 5.13.x before 5.13.4 does not properly restrict seq buffer allocations, leading to an integer overflow, an Out-of-bounds Write, and escalation to root by an unprivileged user, aka CID-8cae8cd89f05.| 
-| 20210722T10:25:38Z | CVE-2021-1675 | C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527 | https://github.com/cube0x0/CVE-2021-1675 | | 
+| 20210722T10:25:38Z | CVE-2021-1675 | C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527 | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210722T09:18:30Z | CVE-2021-3129 | Null | https://github.com/1111one/laravel-CVE-2021-3129-EXP | Ignition before 2.5.2, as used in Laravel and other products, allows unauthenticated remote attackers to execute arbitrary code because of insecure usage of file_get_contents() and file_put_contents(). This is exploitable on sites using debug mode with Laravel before 8.4.2.| 
 | 20210722T02:10:58Z | CVE-2021-36934 | Detection and Mitigation script for CVE-2021-36934 (HiveNightmare aka. SeriousSam) | https://github.com/n3tsurge/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
 
@@ -53,7 +53,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210722T12:27:04Z | Exploit allowing you to read registry hives as non-admin on Windows 10 and 11 | https://github.com/GossiTheDog/HiveNightmare | 249 | 58| 
+| 20210722T12:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9759 | 1608| 
+| 20210722T12:34:58Z | advisories/bugs/exploits/pocs etc | https://github.com/0xfml/poc | 0 | 0| 
+| 20210722T12:34:36Z | Exploit allowing you to read registry hives as non-admin on Windows 10 and 11 | https://github.com/GossiTheDog/HiveNightmare | 250 | 58| 
 | 20210722T12:23:27Z | Pure Nim implementation for exploiting CVE-2021-36934, the SeriousSAM local privilege escalation | https://github.com/HuskyHacks/ShadowSteal | 93 | 18| 
 | 20210722T12:02:57Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 28 | 14| 
 | 20210722T11:39:17Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 73 | 28| 
@@ -61,17 +63,15 @@
 | 20210722T11:17:40Z | Null | https://github.com/flex0geek/cves-exploits | 2 | 1| 
 | 20210722T11:17:13Z | Prototype Pollution exploits collection | https://github.com/Kirill89/prototype-pollution-exploits | 13 | 3| 
 | 20210722T10:50:44Z | A Universal Exploit (3rd Edition) | https://github.com/SynapsUsr/UniExploit-V1 | 0 | 0| 
-| 20210722T10:32:31Z | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | 214 | 37| 
-| 20210722T09:54:34Z | 死神 Shinigami Program is a reverse engineering challenge made for people who are trying to learn exploit dev / low level hacking / reverse engineering / ... | https://github.com/osamu-kj/shinigami-challenge | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210722T12:37:08Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1222 | 579| 
 | 20210722T10:55:52Z | Null | https://github.com/maskfunction/backdoorserver | 0 | 0| 
 | 20210722T08:45:56Z | Backdoor Lnk Obfuscated Macro  ( Cachée ) Développé par 4po. | https://github.com/4po/BackdoorObfuscated | 2 | 2| 
 | 20210722T07:14:07Z | A simple remote tool written in C#.    一个简单的c#远控 | https://github.com/qwqdanchun/DcRat | 259 | 101| 
-| 20210722T04:49:14Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1221 | 579| 
 | 20210722T03:19:22Z | You have a Front Door, a Backdoor, why not a SideD00r... | https://github.com/Aaron-Akhtar/SideD00r | 0 | 0| 
 | 20210722T03:15:28Z | Null | https://github.com/FierzaEriez/Mini-Shell-Backdoor | 1 | 1| 
 | 20210722T02:15:56Z | Hide a process,port,self under Linux using the ld_preload | https://github.com/veo/vbackdoor | 0 | 0| 
