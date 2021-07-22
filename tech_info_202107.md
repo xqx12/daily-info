@@ -49,7 +49,7 @@
 | 20210722T00:47:55Z | CVE-2021-36934 | Detection and Mitigation script for CVE-2021-36934 (HiveNightmare aka. SeriousSam) | https://github.com/n3tsurge/CVE-2021-36934 | 未查询到CVE信息| 
 | 20210722T00:45:16Z | CVE-2021-33909 | Sequoia exploit (7/20/21) | https://github.com/Liang2580/CVE-2021-33909 | fs/seq_file.c in the Linux kernel 3.16 through 5.13.x before 5.13.4 does not properly restrict seq buffer allocations, leading to an integer overflow, an Out-of-bounds Write, and escalation to root by an unprivileged user, aka CID-8cae8cd89f05.| 
 | 20210721T23:14:02Z | CVE-2021-36934 | Fix for the CVE-2021-36934 | https://github.com/JoranSlingerland/CVE-2021-36934 | 未查询到CVE信息| 
-| 20210721T21:29:58Z | CVE-2021-1675 | C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527 | https://github.com/cube0x0/CVE-2021-1675 | | 
+| 20210721T21:29:58Z | CVE-2021-1675 | C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527 | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210721T18:34:36Z | CVE-2020-23934 | Python Implementation of CVE-2020-23934 | https://github.com/zyeinn/CVE-2020-23934 | An issue was discovered in RiteCMS 2.2.1. An authenticated user can directly execute system commands by uploading a php web shell in the %Filemanager% section.| 
 | 20210721T18:26:38Z | cve-2021-33909 | This module fixes an issue in the kernels filesystem layer (CVE-2021-33909) by kprobe-replacing vulnerable functions during runtime | https://github.com/baerwolf/cve-2021-33909 | fs/seq_file.c in the Linux kernel 3.16 through 5.13.x before 5.13.4 does not properly restrict seq buffer allocations, leading to an integer overflow, an Out-of-bounds Write, and escalation to root by an unprivileged user, aka CID-8cae8cd89f05.| 
 | 20210721T12:56:25Z | CVE-2021-33909 | Sequoia exploit (7/20/21) | https://github.com/AmIAHuman/CVE-2021-33909 | fs/seq_file.c in the Linux kernel 3.16 through 5.13.x before 5.13.4 does not properly restrict seq buffer allocations, leading to an integer overflow, an Out-of-bounds Write, and escalation to root by an unprivileged user, aka CID-8cae8cd89f05.| 
@@ -88,6 +88,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210722T00:56:24Z | Null | https://github.com/NHPT/CVE-Exploit-Script | 4 | 0| 
+| 20210722T00:53:11Z | Config files for my GitHub profile. | https://github.com/ItzPikaExploits/ItzPikaExploits | 0 | 0| 
 | 20210722T00:42:07Z | exploiting android vulnerabilities | https://github.com/rafaellimaapt/android_exploits | 0 | 0| 
 | 20210722T00:41:55Z | Pure Nim implementation for exploiting CVE-2021-36934, the SeriousSAM local privilege escalation | https://github.com/HuskyHacks/ShadowSteal | 75 | 14| 
 | 20210722T00:22:00Z | A Universal Exploit (3rd Edition) | https://github.com/SynapsUsr/UniExploit-V1 | 0 | 0| 
@@ -96,8 +98,6 @@
 | 20210721T23:26:30Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9758 | 1609| 
 | 20210721T23:25:16Z | Null | https://github.com/0xturazzi/Um-Livrinho-Sobre-Exploit-Dev | 0 | 0| 
 | 20210721T23:20:13Z | A collection of custom built scripts to exploit known vulnerability chains | https://github.com/R-s0n/Custom_Exploits | 0 | 0| 
-| 20210721T22:58:35Z | labsecurity is a framework and its use is for ethical hacking and computer security | https://github.com/dylan14567/labsecurity | 5 | 4| 
-| 20210721T22:41:46Z | 🦓 RCE in Zimbra Collaboration 8.7.X < 8.7.11p10 | https://github.com/oppsec/Zebra | 1 | 0| 
 
 
 # backdoor on Github 推荐
