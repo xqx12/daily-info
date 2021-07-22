@@ -49,7 +49,7 @@
 | 20210722T12:41:51Z | 未知编号 | Null | https://github.com/haerin7427/CVE_2020_1938 | 未查询到CVE信息| 
 | 20210722T12:30:21Z | CVE-2021-36934 | CVE-2021-36934 PowerShell Fix | https://github.com/tda90/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
 | 20210722T12:26:37Z | CVE-2021-1675 | see https://github.com/cube0x0/CVE-2021-1675 | https://github.com/hahaleyile/my-CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210722T12:03:37Z | CVE-2021-36934 | Fix for the CVE-2021-36934 | https://github.com/JoranSlingerland/CVE-2021-36934 | | 
+| 20210722T12:03:37Z | CVE-2021-36934 | Fix for the CVE-2021-36934 | https://github.com/JoranSlingerland/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
 | 20210722T11:42:35Z | CVE-2021-33909 | Sequoia exploit (7/20/21) | https://github.com/Liang2580/CVE-2021-33909 | fs/seq_file.c in the Linux kernel 3.16 through 5.13.x before 5.13.4 does not properly restrict seq buffer allocations, leading to an integer overflow, an Out-of-bounds Write, and escalation to root by an unprivileged user, aka CID-8cae8cd89f05.| 
 | 20210722T10:25:38Z | CVE-2021-1675 | C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527 | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210722T09:18:30Z | CVE-2021-3129 | Null | https://github.com/1111one/laravel-CVE-2021-3129-EXP | Ignition before 2.5.2, as used in Laravel and other products, allows unauthenticated remote attackers to execute arbitrary code because of insecure usage of file_get_contents() and file_put_contents(). This is exploitable on sites using debug mode with Laravel before 8.4.2.| 
