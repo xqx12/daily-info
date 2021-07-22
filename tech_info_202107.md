@@ -143,16 +143,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210720T01:44:57Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 485 | 48| 
-| 20210720T01:44:44Z | An investigation of American Fuzzy Lop++ as a fuzzer | https://github.com/hark130/hardy-remix | 0 | 0| 
-| 20210720T01:41:29Z | Null | https://github.com/SenSecurity/Directory-Fuzzing | 0 | 0| 
-| 20210720T01:39:31Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210720T01:35:19Z | Null | https://github.com/SherlokMo/FuzzyUmbrella | 0 | 0| 
-| 20210720T01:16:11Z | Null | https://github.com/opimentel-github/fuzzy-tools | 0 | 0| 
-| 20210720T00:13:50Z | Package to combine fuzzywuzzy matching and python sorting into a few functions. | https://github.com/maybemaby/fuzzysort | 0 | 0| 
-| 20210720T00:09:43Z | Null | https://github.com/ArtieFuzzz/ArtieFuzzz | 0 | 1| 
-| 20210719T23:32:18Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
-| 20210719T23:21:58Z | Null | https://github.com/stuartelimu/fuzzy-octo-carnival | 0 | 0| 
+| 20210722T00:45:32Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 5 | 1| 
+| 20210722T00:28:34Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6501 | 1318| 
+| 20210722T00:07:33Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 19 | 8| 
+| 20210721T23:55:59Z | Null | https://github.com/amorblue/Fuzzing | 0 | 0| 
+| 20210721T23:38:11Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
+| 20210721T23:31:40Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 32574 | 16853| 
+| 20210721T23:04:51Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 490 | 48| 
+| 20210721T22:45:56Z | A fuzzy c-means implementation to classify wines. | https://github.com/JMateusSousa/Fuzzy-C-Means | 0 | 1| 
+| 20210721T22:25:47Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2358 | 132| 
+| 20210721T21:35:36Z | Fuzzy Logic & Knowledge Based System for difficulty of the AI in First person shooters | https://github.com/tinitis0/Fuzzy-Logic-KBS | 0 | 0| 
 
 
 

@@ -106,6 +106,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210721T23:55:59Z | Null | https://github.com/amorblue/Fuzzing | 0 | 0| 
+| 20210721T23:38:11Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
+| 20210721T23:31:40Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 32574 | 16853| 
+| 20210721T23:04:51Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 490 | 48| 
+| 20210721T22:45:56Z | A fuzzy c-means implementation to classify wines. | https://github.com/JMateusSousa/Fuzzy-C-Means | 0 | 1| 
+| 20210721T22:25:47Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2358 | 132| 
+| 20210721T21:35:36Z | Fuzzy Logic & Knowledge Based System for difficulty of the AI in First person shooters | https://github.com/tinitis0/Fuzzy-Logic-KBS | 0 | 0| 
+| 20210721T21:35:26Z | A fuzzer for full VM kernel/driver targets | https://github.com/IntelLabs/kAFL | 244 | 42| 
+| 20210721T20:54:12Z | Hi thre, I%m TRÄW🤟🏻, i%m a beginner in ethical hacking and Content Creator on Level iv Security & NOOBSEC. I Spend most of time coding outstanding ethical hacking projects or recording useful short tutorials . I love programming ethical hacking tools, fuzzing and hacking all the things | https://github.com/0xTRAW/0xTRAW | 1 | 1| 
+| 20210721T20:53:08Z | Practice repository for binary exploitation and fuzzing | https://github.com/RickdeJager/binexp-practice | 0 | 0| 
 
 
 
