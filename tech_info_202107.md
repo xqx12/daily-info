@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210722T01:18:11Z | CVE-2021-36934 | Detection and Mitigation script for CVE-2021-36934 (HiveNightmare aka. SeriousSam) | https://github.com/n3tsurge/CVE-2021-36934 | | 
+| 20210722T01:18:11Z | CVE-2021-36934 | Detection and Mitigation script for CVE-2021-36934 (HiveNightmare aka. SeriousSam) | https://github.com/n3tsurge/CVE-2021-36934 | 未查询到CVE信息| 
 | 20210722T00:45:16Z | CVE-2021-33909 | Sequoia exploit (7/20/21) | https://github.com/Liang2580/CVE-2021-33909 | fs/seq_file.c in the Linux kernel 3.16 through 5.13.x before 5.13.4 does not properly restrict seq buffer allocations, leading to an integer overflow, an Out-of-bounds Write, and escalation to root by an unprivileged user, aka CID-8cae8cd89f05.| 
 | 20210721T23:14:02Z | CVE-2021-36934 | Fix for the CVE-2021-36934 | https://github.com/JoranSlingerland/CVE-2021-36934 | 未查询到CVE信息| 
 | 20210721T21:29:58Z | CVE-2021-1675 | C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527 | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
@@ -88,13 +88,13 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210722T01:42:46Z | Pure Nim implementation for exploiting CVE-2021-36934, the SeriousSAM local privilege escalation | https://github.com/HuskyHacks/ShadowSteal | 75 | 14| 
 | 20210722T01:36:12Z | This repository will have recollected most of my notes on windows internals both for Malware Analysis and Logic Bug Exploitation | https://github.com/NtQuerySystemInformation/Notes-on-Windows-Internals | 0 | 0| 
 | 20210722T01:21:08Z | Exploiting the ssh config feature for obfuscation | https://github.com/hazarky/andre3000 | 0 | 0| 
 | 20210722T01:03:36Z | Null | https://github.com/NHPT/CVE-Exploit-Script | 4 | 0| 
 | 20210722T01:03:17Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 28 | 14| 
 | 20210722T00:53:11Z | Config files for my GitHub profile. | https://github.com/ItzPikaExploits/ItzPikaExploits | 0 | 0| 
 | 20210722T00:42:07Z | exploiting android vulnerabilities | https://github.com/rafaellimaapt/android_exploits | 0 | 0| 
-| 20210722T00:41:55Z | Pure Nim implementation for exploiting CVE-2021-36934, the SeriousSAM local privilege escalation | https://github.com/HuskyHacks/ShadowSteal | 75 | 14| 
 | 20210722T00:22:00Z | A Universal Exploit (3rd Edition) | https://github.com/SynapsUsr/UniExploit-V1 | 0 | 0| 
 | 20210721T23:52:12Z | Hardware setup tips for exploiting MouseJack on Catalina and OS X | https://github.com/notwlsn/catalina-mousejack | 0 | 0| 
 | 20210721T23:26:30Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9758 | 1609| 
