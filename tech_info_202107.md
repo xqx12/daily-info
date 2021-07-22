@@ -103,6 +103,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210722T01:39:05Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 88 | 15| 
 | 20210722T00:09:54Z | A batch script for taking information. A bit overdeveloped, and kind of useless. | https://github.com/Takaovi/BatchStealer | 9 | 2| 
 | 20210721T21:55:58Z | Null | https://github.com/Enormity-Organization/Backdoor-Generator | 1 | 0| 
 | 20210721T21:35:23Z | Dashboard for conducting Backdoors and Breaches sessions over Zoom. | https://github.com/p3hndrx/B-B-Shuffle | 2 | 0| 
@@ -112,14 +113,13 @@
 | 20210721T12:35:26Z | Leux-Backdoor 0.3 0.9 version  | https://github.com/3arthx/Leux-Backdoor | 2 | 1| 
 | 20210721T09:57:08Z | RATata is a simple python RAT to setup and use ! | https://github.com/loTus04/RATata | 8 | 6| 
 | 20210721T07:30:02Z | Null | https://github.com/gsingla21/Backdoor | 0 | 0| 
-| 20210721T06:47:44Z | Null | https://github.com/sudharshan-krishna/backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210722T01:29:59Z | A tool for generating nonlinear numerical invariants for C and Java programs.  DIG uses dynamic analysis to infer invariants over program execution traces and applies symbolic execution to inferred invariants. | https://github.com/unsat/dig | 4 | 4| 
 | 20210722T00:24:27Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2393 | 352| 
-| 20210721T16:28:55Z | A tool for generating nonlinear numerical invariants for C and Java programs.  DIG uses dynamic analysis to infer invariants over program execution traces and applies symbolic execution to inferred invariants. | https://github.com/unsat/dig | 4 | 4| 
 | 20210721T09:06:15Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1847 | 388| 
 | 20210720T18:49:43Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 150 | 33| 
 | 20210720T12:24:10Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 14 | 3| 
