@@ -6,6 +6,17 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210722 | New Attacks on Kubernetes via Misconfigured Argo Workflows | https://www.intezer.com/blog/container-security/new-attacks-on-kubernetes-via-misconfigured-argo-workflows/| 
+| 20210722 | NPM 市场的 “nodejs_net_server” 软件包被发现窃取用户数据 | https://www.tensorbugs.in/2021/07/npm-package-nodejsnetserver-caught.html| 
+| 20210722 | libPeConv - 用于加载、修改、Dump PE 文件的工具库 | https://github.com/hasherezade/libpeconv| 
+| 20210722 | 2021 Pwn2Own Chromium 浏览器 CVE-2021-21220 RCE 漏洞的细节公开了 | https://bugs.chromium.org/p/chromium/issues/detail?id=1196683| 
+| 20210722 | Apple 发布 iOS 14.7 版本漏洞公告 | https://support.apple.com/zh-cn/HT212601| 
+| 20210722 | iOS RE 4 beginners 2 - 静态链接&&动态链接 | https://o0xmuhe.github.io/2021/07/14/iOS-RE-4-beginners-2/| 
+| 20210722 | Attacking the DevTools | https://microsoftedge.github.io/edgevr/posts/attacking-the-devtools/| 
+| 20210722 | Fuzzing Modern UDP Game Protocols With Snapshot-based Fuzzers | http://blog.ret2.io/2021/07/21/wtf-snapshot-fuzzing/| 
+| 20210722 | Windows 用于实现云存储的驱动 cldflt.sys 被发现整数下溢漏洞（CVE-2021-31969） | https://www.thezdi.com/blog/2021/7/19/cve-2021-31969-underflowing-in-the-clouds| 
+| 20210722 | 知名恶意软件 Formbook 最近新增对 macOS 平台的支持 | https://sec.today/pulses/75405d62-c257-4e2c-b4d7-bcae6ea20955/| 
+| 20210722 | 知名恶意软件 Formbook 最近新增对 macOS 平台的支持 | https://research.checkpoint.com/2021/top-prevalent-malware-with-a-thousand-campaigns-migrates-to-macos/| 
 | 20210721 | 利用 PowerShell 混淆技术绕过 ASMI 检测的工具 | https://www.reddit.com/r/netsec/comments/olzpsr/a_new_powershell_obfuscation_tool_for_amsi_bypass/| 
 | 20210721 | Windows 11 安装环境探测工具 WhyNotWin11 发布公告，修复 DLL 劫持漏洞 | https://www.reddit.com/r/netsec/comments/ogpzl1/previous_whynotwin11_releases_vulnerable_to_dll/| 
 | 20210721 | 攻防启示：Chromium组件风险剖析与收敛 | https://mp.weixin.qq.com/s/f0aFLEKyABpYDobPN2b6tQ| 
@@ -15,17 +26,6 @@
 | 20210721 | Apple 内核 mount 系统调用 Double-Fetch 漏洞分析 | https://pwning.systems/posts/apple-kernel-vulnerability/| 
 | 20210721 | size_t 到 int 类型转换导致的 Linux 内核文件系统层漏洞，成功利用可以实现本地提权(CVE-2021-33909) | https://blog.qualys.com/vulnerabilities-threat-research/2021/07/20/sequoia-a-local-privilege-escalation-vulnerability-in-linuxs-filesystem-layer-cve-2021-33909| 
 | 20210721 | Chrome 浏览器 92 版本将进一步强化 Site Isolation 保护机制 | https://security.googleblog.com/2021/07/protecting-more-with-site-isolation.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+GoogleOnlineSecurityBlog+%28Google+Online+Security+Blog%29| 
-| 20210720 | Reversing in action: New WildPressure targets macOS | https://www.youtube.com/watch?v=1v79QRhi1HM&feature=youtu.be| 
-| 20210719 | MVT - 通过取证信息分析 iOS/Android 手机是否已被入侵的工具 | https://github.com/mvt-project/mvt| 
-| 20210719 | A Journey to understand LLVM-IR | https://un-devs.github.io/low-level-exploration/journey-to-understanding-llvm-ir/| 
-| 20210719 | PetitPotam - 强制 Windows 通过 MS-EFSRPC EfsRpcOpenFileRaw 函数认证其他机器的工具 | https://github.com/topotam/PetitPotam| 
-| 20210719 | Swimming In The (Kernel) Pool，内核内存 Pool 漏洞实现任意地址读写的利用方法 | https://connormcgarr.github.io/swimming-in-the-kernel-pool-part-2/| 
-| 20210719 | Rewind - Snapshot-based coverage-guided windows kernel fuzzer | https://github.com/quarkslab/rewind| 
-| 20210719 | macOS TCC 隐私保护机制不限制对 Home 目录进行访问，SSH 密钥等其他一些敏感信息可被直接访问 | https://cedowens.medium.com/initial-access-checks-on-macos-531dd2d0cee6| 
-| 20210719 | Forensic Methodology Report: How to catch NSO Group’s Pegasus | https://www.amnesty.org/en/latest/research/2021/07/forensic-methodology-report-how-to-catch-nso-groups-pegasus/| 
-| 20210719 | ZecOps 团队经过分析发现，前段时间 iOS WiFi SSID 格式化字符串拒绝服务漏洞可以实现 RCE | https://blog.zecops.com/research/meet-wifidemon-ios-wifi-rce-0-day-vulnerability-and-a-zero-click-vulnerability-that-was-silently-patched/| 
-| 20210719 | Google 对 3 个野外浏览器 0Day 漏洞被利用过程的简单介绍 | https://blog.google/threat-analysis-group/how-we-protect-users-0-day-attacks/| 
-| 20210719 | Google CTF 比赛一道没被解出的上传文件泄露 flag 题 | https://gist.github.com/terjanq/458d8ec1148e96f7ccbdccfd908c56f6| 
 
 
 # 安全维基 推荐
@@ -46,22 +46,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210722T01:46:17Z | CVE-2021-33909 | Sequoia exploit (7/20/21) | https://github.com/Liang2580/CVE-2021-33909 | fs/seq_file.c in the Linux kernel 3.16 through 5.13.x before 5.13.4 does not properly restrict seq buffer allocations, leading to an integer overflow, an Out-of-bounds Write, and escalation to root by an unprivileged user, aka CID-8cae8cd89f05.| 
-| 20210722T01:18:11Z | CVE-2021-36934 | Detection and Mitigation script for CVE-2021-36934 (HiveNightmare aka. SeriousSam) | https://github.com/n3tsurge/CVE-2021-36934 | 未查询到CVE信息| 
-| 20210721T23:14:02Z | CVE-2021-36934 | Fix for the CVE-2021-36934 | https://github.com/JoranSlingerland/CVE-2021-36934 | | 
-| 20210721T21:29:58Z | CVE-2021-1675 | C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527 | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
+| 20210722T11:55:57Z | CVE-2021-36934 | Fix for the CVE-2021-36934 | https://github.com/JoranSlingerland/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
+| 20210722T11:42:35Z | CVE-2021-33909 | Sequoia exploit (7/20/21) | https://github.com/Liang2580/CVE-2021-33909 | fs/seq_file.c in the Linux kernel 3.16 through 5.13.x before 5.13.4 does not properly restrict seq buffer allocations, leading to an integer overflow, an Out-of-bounds Write, and escalation to root by an unprivileged user, aka CID-8cae8cd89f05.| 
+| 20210722T10:50:46Z | CVE-2021-1675 | see https://github.com/cube0x0/CVE-2021-1675 | https://github.com/hahaleyile/my-CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
+| 20210722T10:25:38Z | CVE-2021-1675 | C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527 | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
+| 20210722T09:18:30Z | CVE-2021-3129 | Null | https://github.com/1111one/laravel-CVE-2021-3129-EXP | Ignition before 2.5.2, as used in Laravel and other products, allows unauthenticated remote attackers to execute arbitrary code because of insecure usage of file_get_contents() and file_put_contents(). This is exploitable on sites using debug mode with Laravel before 8.4.2.| 
+| 20210722T02:10:58Z | CVE-2021-36934 | Detection and Mitigation script for CVE-2021-36934 (HiveNightmare aka. SeriousSam) | https://github.com/n3tsurge/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
 | 20210721T18:34:36Z | CVE-2020-23934 | Python Implementation of CVE-2020-23934 | https://github.com/zyeinn/CVE-2020-23934 | An issue was discovered in RiteCMS 2.2.1. An authenticated user can directly execute system commands by uploading a php web shell in the %Filemanager% section.| 
 | 20210721T18:26:38Z | cve-2021-33909 | This module fixes an issue in the kernels filesystem layer (CVE-2021-33909) by kprobe-replacing vulnerable functions during runtime | https://github.com/baerwolf/cve-2021-33909 | fs/seq_file.c in the Linux kernel 3.16 through 5.13.x before 5.13.4 does not properly restrict seq buffer allocations, leading to an integer overflow, an Out-of-bounds Write, and escalation to root by an unprivileged user, aka CID-8cae8cd89f05.| 
 | 20210721T12:56:25Z | CVE-2021-33909 | Sequoia exploit (7/20/21) | https://github.com/AmIAHuman/CVE-2021-33909 | fs/seq_file.c in the Linux kernel 3.16 through 5.13.x before 5.13.4 does not properly restrict seq buffer allocations, leading to an integer overflow, an Out-of-bounds Write, and escalation to root by an unprivileged user, aka CID-8cae8cd89f05.| 
 | 20210721T03:02:49Z | CVE-2020-15778 | Exploit for CVE-2020-15778(OpenSSH vul) | https://github.com/Neko2sh1ro/CVE-2020-15778-Exploit |  scp in OpenSSH through 8.3p1 allows command injection in the scp.c toremote function, as demonstrated by backtick characters in the destination argument. NOTE: the vendor reportedly has stated that they intentionally omit validation of %anomalous argument transfers% because that could %stand a great chance of breaking existing workflows.%| 
-| 20210720T20:29:58Z | CVE-2020-1472 | C# Vulnerability Checker for CVE-2020-1472 Aka Zerologon | https://github.com/CPO-EH/CVE-2020-1472_ZeroLogonChecker | An elevation of privilege vulnerability exists when an attacker establishes a vulnerable Netlogon secure channel connection to a domain controller, using the Netlogon Remote Protocol (MS-NRPC), aka %Netlogon Elevation of Privilege Vulnerability%.| 
-| 20210720T19:32:59Z | CVE-2021-36747 | Null | https://github.com/cseasholtz/CVE-2021-36747 | Blackboard Learn through 9.1 allows XSS by an authenticated user via the Feedback to Learner form.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210722T01:54:19Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2052 | 46| 
+| 20210722T11:55:02Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2173 | 50| 
 | 20210721T15:54:50Z | Personal portfolio website built with React | https://github.com/collinkleest/kleest.io | 0 | 0| 
 | 20210721T10:43:16Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
 | 20210721T10:25:30Z | Report PPT template for CS students  | https://github.com/Fishermanykx/paper_reading_report_template | 1 | 0| 
@@ -103,31 +103,31 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210722T01:50:17Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1220 | 579| 
+| 20210722T10:55:52Z | Null | https://github.com/maskfunction/backdoorserver | 0 | 0| 
+| 20210722T08:45:56Z | Backdoor Lnk Obfuscated Macro  ( Cachée ) Développé par 4po. | https://github.com/4po/BackdoorObfuscated | 2 | 2| 
+| 20210722T07:14:07Z | A simple remote tool written in C#.    一个简单的c#远控 | https://github.com/qwqdanchun/DcRat | 259 | 101| 
+| 20210722T04:49:14Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1221 | 579| 
+| 20210722T03:19:22Z | You have a Front Door, a Backdoor, why not a SideD00r... | https://github.com/Aaron-Akhtar/SideD00r | 0 | 0| 
+| 20210722T03:15:28Z | Null | https://github.com/FierzaEriez/Mini-Shell-Backdoor | 1 | 1| 
+| 20210722T02:15:56Z | Hide a process,port,self under Linux using the ld_preload | https://github.com/veo/vbackdoor | 0 | 0| 
+| 20210722T02:00:15Z | Malware and malicious applications database | https://github.com/Black-Hell-Team/sppen | 16 | 2| 
 | 20210722T01:39:05Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 88 | 15| 
 | 20210722T00:09:54Z | A batch script for taking information. A bit overdeveloped, and kind of useless. | https://github.com/Takaovi/BatchStealer | 9 | 2| 
-| 20210721T21:55:58Z | Null | https://github.com/Enormity-Organization/Backdoor-Generator | 1 | 0| 
-| 20210721T21:35:23Z | Dashboard for conducting Backdoors and Breaches sessions over Zoom. | https://github.com/p3hndrx/B-B-Shuffle | 2 | 0| 
-| 20210721T18:48:03Z | Null | https://github.com/Enormity-Hack/Backdoor-Generator | 0 | 0| 
-| 20210721T18:07:41Z | Backdoor has been discovered in Linsys WAG200G that listening on port 32764 in 2015. I decided to create this repository with some codes to access backdoor because this security hole exists today. | https://github.com/enty8080/32764-multi-backdoor | 2 | 2| 
-| 20210721T12:35:26Z | Leux-Backdoor 0.3 0.9 version  | https://github.com/3arthx/Leux-Backdoor | 2 | 1| 
-| 20210721T09:57:08Z | RATata is a simple python RAT to setup and use ! | https://github.com/loTus04/RATata | 8 | 6| 
-| 20210721T07:30:02Z | Null | https://github.com/gsingla21/Backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210722T01:29:59Z | A tool for generating nonlinear numerical invariants for C and Java programs.  DIG uses dynamic analysis to infer invariants over program execution traces and applies symbolic execution to inferred invariants. | https://github.com/unsat/dig | 4 | 4| 
+| 20210722T11:20:12Z | Monster is a symbolic execution engine for 64-bit RISC-U code | https://github.com/cksystemsgroup/monster | 6 | 3| 
+| 20210722T10:03:23Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1847 | 388| 
+| 20210722T06:31:27Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 91 | 6| 
+| 20210722T03:19:55Z | A tool for generating nonlinear numerical invariants for C and Java programs.  DIG uses dynamic analysis to infer invariants over program execution traces and applies symbolic execution to inferred invariants. | https://github.com/unsat/dig | 4 | 4| 
 | 20210722T00:24:27Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2393 | 352| 
-| 20210721T09:06:15Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1847 | 388| 
 | 20210720T18:49:43Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 150 | 33| 
 | 20210720T12:24:10Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 14 | 3| 
 | 20210720T10:44:45Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 443 | 67| 
-| 20210720T09:13:00Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 90 | 6| 
 | 20210719T19:13:29Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 7 | 4| 
 | 20210719T17:29:44Z | FuSeBMC is a White-Box Fuzzer that combines FUzzing with Symbolic Execution via Bounded Model Checking to verify intricate properties in real-world C programs. | https://github.com/kaled-alshmrany/FuSeBMC | 19 | 1| 
-| 20210719T16:27:16Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 19 | 11| 
 
 
 # big4 on Github 推荐
@@ -143,16 +143,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210722T01:45:28Z | Null | https://github.com/lzhfromustc/goFuzz | 0 | 0| 
-| 20210722T01:38:08Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210722T01:05:53Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 5 | 1| 
-| 20210722T00:28:34Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6501 | 1318| 
-| 20210722T00:07:33Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 19 | 8| 
-| 20210721T23:55:59Z | Null | https://github.com/amorblue/Fuzzing | 0 | 0| 
-| 20210721T23:38:11Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
-| 20210721T23:31:40Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 32574 | 16853| 
-| 20210721T23:04:51Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 490 | 48| 
-| 20210721T22:45:56Z | A fuzzy c-means implementation to classify wines. | https://github.com/JMateusSousa/Fuzzy-C-Means | 0 | 1| 
+| 20210722T12:01:32Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3604 | 842| 
+| 20210722T11:54:46Z | use aflsmart to fuzz web service | https://github.com/egvnoen/nfuzzer | 1 | 0| 
+| 20210722T11:48:05Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
+| 20210722T11:30:47Z | Null | https://github.com/zarzisur/PI-and-Fuzzy-Controller | 0 | 0| 
+| 20210722T11:15:40Z | Emulation based snapshot fuzzer | https://github.com/jaoeul/gingersnap | 0 | 0| 
+| 20210722T11:14:31Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 494 | 48| 
+| 20210722T11:13:50Z | Null | https://github.com/Faskhutdinova/fuzzy-umbrella | 0 | 0| 
+| 20210722T11:09:15Z | Null | https://github.com/gresssa/Mamdani-Fuzzy-Logic | 0 | 0| 
+| 20210722T11:08:31Z | Fuzzy: contains code for a Fuzzy Engine and a Dynamical Systems Simulator (DySySim). | https://github.com/josokw/Fuzzy | 2 | 0| 
+| 20210722T10:58:41Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 319 | 22| 
 
 
 
