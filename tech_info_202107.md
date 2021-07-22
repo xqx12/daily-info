@@ -55,7 +55,7 @@
 | 20210721T12:56:25Z | CVE-2021-33909 | Sequoia exploit (7/20/21) | https://github.com/AmIAHuman/CVE-2021-33909 | fs/seq_file.c in the Linux kernel 3.16 through 5.13.x before 5.13.4 does not properly restrict seq buffer allocations, leading to an integer overflow, an Out-of-bounds Write, and escalation to root by an unprivileged user, aka CID-8cae8cd89f05.| 
 | 20210721T03:02:49Z | CVE-2020-15778 | Exploit for CVE-2020-15778(OpenSSH vul) | https://github.com/Neko2sh1ro/CVE-2020-15778-Exploit |  scp in OpenSSH through 8.3p1 allows command injection in the scp.c toremote function, as demonstrated by backtick characters in the destination argument. NOTE: the vendor reportedly has stated that they intentionally omit validation of %anomalous argument transfers% because that could %stand a great chance of breaking existing workflows.%| 
 | 20210720T20:29:58Z | CVE-2020-1472 | C# Vulnerability Checker for CVE-2020-1472 Aka Zerologon | https://github.com/CPO-EH/CVE-2020-1472_ZeroLogonChecker | An elevation of privilege vulnerability exists when an attacker establishes a vulnerable Netlogon secure channel connection to a domain controller, using the Netlogon Remote Protocol (MS-NRPC), aka %Netlogon Elevation of Privilege Vulnerability%.| 
-| 20210720T19:32:59Z | CVE-2021-36747 | Null | https://github.com/cseasholtz/CVE-2021-36747 | Blackboard Learn through 9.1 allows XSS by an authenticated user via the Feedback to Learner form.| 
+| 20210720T19:32:59Z | CVE-2021-36747 | Null | https://github.com/cseasholtz/CVE-2021-36747 | | 
 
 
 # klee on Github 推荐
@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210722T01:52:02Z | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | 1469 | 514| 
 | 20210722T01:48:21Z | This repository will have recollected most of my notes on windows internals both for Malware Analysis and Logic Bug Exploitation | https://github.com/NtQuerySystemInformation/Notes-on-Windows-Internals | 0 | 0| 
 | 20210722T01:42:46Z | Pure Nim implementation for exploiting CVE-2021-36934, the SeriousSAM local privilege escalation | https://github.com/HuskyHacks/ShadowSteal | 75 | 14| 
 | 20210722T01:21:08Z | Exploiting the ssh config feature for obfuscation | https://github.com/hazarky/andre3000 | 0 | 0| 
@@ -97,7 +98,6 @@
 | 20210722T00:42:07Z | exploiting android vulnerabilities | https://github.com/rafaellimaapt/android_exploits | 0 | 0| 
 | 20210722T00:22:00Z | A Universal Exploit (3rd Edition) | https://github.com/SynapsUsr/UniExploit-V1 | 0 | 0| 
 | 20210721T23:52:12Z | Hardware setup tips for exploiting MouseJack on Catalina and OS X | https://github.com/notwlsn/catalina-mousejack | 0 | 0| 
-| 20210721T23:26:30Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9758 | 1609| 
 
 
 # backdoor on Github 推荐
