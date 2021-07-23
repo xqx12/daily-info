@@ -31,7 +31,7 @@
 | 20210723T12:19:19Z | CVE-2021-36934 | Fix for the CVE-2021-36934 | https://github.com/JoranSlingerland/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
 | 20210723T11:22:53Z | CVE-2021-33909 | Sequoia exploit (7/20/21) | https://github.com/Liang2580/CVE-2021-33909 | fs/seq_file.c in the Linux kernel 3.16 through 5.13.x before 5.13.4 does not properly restrict seq buffer allocations, leading to an integer overflow, an Out-of-bounds Write, and escalation to root by an unprivileged user, aka CID-8cae8cd89f05.| 
 | 20210723T08:34:08Z | 未知编号 | Null | https://github.com/haerin7427/CVE_2020_1938 | 未查询到CVE信息| 
-| 20210723T07:56:38Z | CVE-2021-1675 | see https://github.com/cube0x0/CVE-2021-1675 | https://github.com/hahaleyile/my-CVE-2021-1675 | | 
+| 20210723T07:56:38Z | CVE-2021-1675 | see https://github.com/cube0x0/CVE-2021-1675 | https://github.com/hahaleyile/my-CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210723T03:55:39Z | CVE-2020-14343 | Experimenting with the CVE-2020-14343 PyYAML vulnerability | https://github.com/raul23/pyyaml-CVE-2020-14343 | | 
 
 
@@ -51,6 +51,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210723T12:48:56Z | A collection of custom built scripts to exploit known vulnerability chains | https://github.com/R-s0n/Custom_Exploits | 0 | 0| 
 | 20210723T12:35:50Z | Post-exploitation tool for attacking Active Directory domain controllers | https://github.com/tmenochet/ADThief | 16 | 3| 
 | 20210723T12:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9763 | 1610| 
 | 20210723T12:03:14Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 28 | 14| 
@@ -60,7 +61,6 @@
 | 20210723T10:52:06Z | Exploit for HiveNightmare - CVE-2021–36934 | https://github.com/FireFart/hivenightmare | 4 | 2| 
 | 20210723T10:40:40Z | Automatic Exploit Generation (AEG) tool | https://github.com/aesophor/baphomet | 3 | 0| 
 | 20210723T10:25:19Z | Null | https://github.com/4RG0S/2021-Summer-Some-Day-Exploit | 0 | 0| 
-| 20210723T10:25:18Z | Additional material for the paper %MoralStrength: Exploiting a Moral Lexicon and Embedding Similarity for Moral Foundations Prediction% | https://github.com/oaraque/moral-foundations | 19 | 7| 
 
 
 # backdoor on Github 推荐
