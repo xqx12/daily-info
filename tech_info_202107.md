@@ -48,7 +48,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210722T22:58:52Z | CVE-2021-33909 | Sequoia exploit (7/20/21) | https://github.com/Liang2580/CVE-2021-33909 | fs/seq_file.c in the Linux kernel 3.16 through 5.13.x before 5.13.4 does not properly restrict seq buffer allocations, leading to an integer overflow, an Out-of-bounds Write, and escalation to root by an unprivileged user, aka CID-8cae8cd89f05.| 
 | 20210722T22:39:53Z | CVE-2021-36934 | CVE-2021-36934 PowerShell scripts | https://github.com/bytesizedalex/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
-| 20210722T20:21:09Z | CVE-2021-1675 | C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527 | https://github.com/cube0x0/CVE-2021-1675 | | 
+| 20210722T20:21:09Z | CVE-2021-1675 | C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527 | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210722T18:46:20Z | CVE-2021-36934 | Fix for the CVE-2021-36934 | https://github.com/JoranSlingerland/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
 | 20210722T15:24:07Z | CVE-2021-36934 | Windows Elevation of Privilege Vulnerability (SeriousSAM) | https://github.com/VertigoRay/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
 | 20210722T14:50:52Z | cve-2021-44444 | Null | https://github.com/zoukba0014/cve-2021-44444 | 未查询到CVE信息| 
@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210723T00:31:49Z | Exploiting the ssh config feature for obfuscation | https://github.com/hazarky/andre3000 | 0 | 0| 
 | 20210723T00:22:13Z | An introduction, explanation, and tutorial of various exploits for the heap of the GNU libc. | https://github.com/bstank/bstank.github.io | 0 | 0| 
 | 20210723T00:19:33Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 4 | 1| 
 | 20210723T00:03:18Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 28 | 14| 
@@ -99,7 +100,6 @@
 | 20210722T23:02:26Z | Agent-Based Modelling of labour exploitation in textile supply chains | https://github.com/kwabenantim/textile-labour | 1 | 0| 
 | 20210722T23:01:34Z | passive keyless entry exploit research | https://github.com/zeetulsa/pke | 1 | 0| 
 | 20210722T22:56:40Z | Spigot plugin that protects against op exploits & malicious plugins. | https://github.com/GuardedOperators/OpGuard | 9 | 5| 
-| 20210722T22:47:58Z | A Universal Exploit (3rd Edition) | https://github.com/SynapsUsr/UniExploit-V1 | 0 | 0| 
 
 
 # backdoor on Github 推荐
