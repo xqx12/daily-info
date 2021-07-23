@@ -50,10 +50,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210723T12:03:14Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 28 | 14| 
 | 20210723T11:34:36Z | My degree%s final project | https://github.com/oriolOrnaque/TFG-Binary-exploitation | 0 | 0| 
 | 20210723T11:31:28Z | Pure Nim implementation for exploiting CVE-2021-36934, the SeriousSAM local privilege escalation | https://github.com/HuskyHacks/ShadowSteal | 113 | 25| 
 | 20210723T11:30:03Z | Null | https://github.com/z3dc0ps/windows-exploitation-more | 0 | 0| 
-| 20210723T11:03:00Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 28 | 14| 
 | 20210723T10:52:06Z | Exploit for HiveNightmare - CVE-2021–36934 | https://github.com/FireFart/hivenightmare | 4 | 1| 
 | 20210723T10:40:40Z | Automatic Exploit Generation (AEG) tool | https://github.com/aesophor/baphomet | 3 | 0| 
 | 20210723T10:25:19Z | Null | https://github.com/4RG0S/2021-Summer-Some-Day-Exploit | 0 | 0| 
@@ -75,6 +75,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210723T07:55:55Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 444 | 67| 
 | 20210723T00:09:37Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 7 | 4| 
 
 
