@@ -147,6 +147,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210723T12:07:45Z | Fuzzing resources for JSC32 | https://github.com/pmatos/jsc32-fuzz | 0 | 0| 
 | 20210723T12:07:02Z | Binary, coverage-guided fuzzer for Windows and macOS | https://github.com/googleprojectzero/Jackalope | 593 | 68| 
 | 20210723T11:55:13Z | A Codice Fiscale Generator | https://github.com/tonyarris/codice-fuzzcale | 0 | 0| 
 | 20210723T11:54:12Z | Null | https://github.com/Healer-fuzz/healer-fuzz | 0 | 0| 
@@ -156,7 +157,6 @@
 | 20210723T11:06:40Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 5 | 1| 
 | 20210723T10:57:45Z | Verilog Fuzzer to test the major simulators and sythesisers by generating random, valid Verilog. | https://github.com/ymherklotz/verismith | 62 | 3| 
 | 20210723T10:40:53Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 140 | 13| 
-| 20210723T10:40:40Z | Takagi–Sugeno–Kang (TSK) neuro fuzzy models and Control Systems using Fuzzy Logic Controller (FLC). | https://github.com/NickKaparinos/Fuzzy-Systems-Assignments-TSK-FLC | 1 | 0| 
 
 
 
