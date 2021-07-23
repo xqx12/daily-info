@@ -50,7 +50,7 @@
 | 20210723T12:23:45Z | CVE-2020-23934 | Python Implementation of CVE-2020-23934 | https://github.com/zyeinn/CVE-2020-23934 | An issue was discovered in RiteCMS 2.2.1. An authenticated user can directly execute system commands by uploading a php web shell in the %Filemanager% section.| 
 | 20210723T12:19:19Z | CVE-2021-36934 | Fix for the CVE-2021-36934 | https://github.com/JoranSlingerland/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
 | 20210723T11:22:53Z | CVE-2021-33909 | Sequoia exploit (7/20/21) | https://github.com/Liang2580/CVE-2021-33909 | fs/seq_file.c in the Linux kernel 3.16 through 5.13.x before 5.13.4 does not properly restrict seq buffer allocations, leading to an integer overflow, an Out-of-bounds Write, and escalation to root by an unprivileged user, aka CID-8cae8cd89f05.| 
-| 20210723T08:34:08Z | 未知编号 | Null | https://github.com/haerin7427/CVE_2020_1938 | 未查询到CVE信息| 
+| 20210723T08:34:08Z | 未知编号 | Null | https://github.com/haerin7427/CVE_2020_1938 | | 
 | 20210723T07:56:38Z | CVE-2021-1675 | see https://github.com/cube0x0/CVE-2021-1675 | https://github.com/hahaleyile/my-CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210723T03:55:39Z | CVE-2020-14343 | Experimenting with the CVE-2020-14343 PyYAML vulnerability | https://github.com/raul23/pyyaml-CVE-2020-14343 | A vulnerability was discovered in the PyYAML library in versions before 5.4, where it is susceptible to arbitrary code execution when it processes untrusted YAML files through the full_load method or with the FullLoader loader. Applications that use the library to process untrusted input may be vulnerable to this flaw. This flaw allows an attacker to execute arbitrary code on the system by abusing the python/object/new constructor. This flaw is due to an incomplete fix for CVE-2020-1747.| 
 | 20210722T22:39:53Z | CVE-2021-36934 | CVE-2021-36934 PowerShell scripts | https://github.com/bytesizedalex/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210723T11:31:22Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2246 | 52| 
+| 20210723T12:55:49Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2247 | 52| 
 | 20210723T09:19:08Z | Config files for my GitHub profile. | https://github.com/Kleem405/Kleem405 | 0 | 0| 
 | 20210722T21:48:12Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 165 | 15| 
 | 20210722T17:33:18Z | Null | https://github.com/JaimePSantos/ResearchKlee | 0 | 0| 
@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210723T12:57:07Z | A basic python script for web app pen testing -- I got tired of re-writing the same thing three times a week~ | https://github.com/R-s0n/Exploit-Script-Template | 0 | 0| 
 | 20210723T12:54:58Z | PoC to exploit OCSInventory vulnerabilities (XSS to RCE) | https://github.com/xmco/ocsinventory-exploit | 0 | 0| 
 | 20210723T12:48:56Z | A collection of custom built scripts to exploit known vulnerability chains | https://github.com/R-s0n/Custom_Exploits | 0 | 0| 
 | 20210723T12:35:50Z | Post-exploitation tool for attacking Active Directory domain controllers | https://github.com/tmenochet/ADThief | 16 | 3| 
@@ -100,7 +101,6 @@
 | 20210723T11:31:28Z | Pure Nim implementation for exploiting CVE-2021-36934, the SeriousSAM local privilege escalation | https://github.com/HuskyHacks/ShadowSteal | 113 | 25| 
 | 20210723T11:30:03Z | Null | https://github.com/z3dc0ps/windows-exploitation-more | 0 | 0| 
 | 20210723T10:52:06Z | Exploit for HiveNightmare - CVE-2021–36934 | https://github.com/FireFart/hivenightmare | 4 | 2| 
-| 20210723T10:40:40Z | Automatic Exploit Generation (AEG) tool | https://github.com/aesophor/baphomet | 3 | 0| 
 
 
 # backdoor on Github 推荐
@@ -121,12 +121,12 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210723T12:57:08Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 152 | 33| 
 | 20210723T07:55:55Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 444 | 67| 
 | 20210723T00:09:37Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 7 | 4| 
 | 20210722T21:06:01Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1849 | 388| 
 | 20210722T19:54:06Z | A tool for generating nonlinear numerical invariants for C and Java programs.  DIG uses dynamic analysis to infer invariants over program execution traces and applies symbolic execution to inferred invariants. | https://github.com/unsat/dig | 4 | 4| 
 | 20210722T15:23:36Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 14 | 3| 
-| 20210722T15:15:56Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 151 | 33| 
 | 20210722T14:53:43Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2393 | 352| 
 | 20210722T12:52:30Z | A toy symbolic execution engine, supporting the blog article ... | https://github.com/synacktiv/toy-wasm-symbexp | 0 | 0| 
 | 20210722T11:20:12Z | Monster is a symbolic execution engine for 64-bit RISC-U code | https://github.com/cksystemsgroup/monster | 6 | 3| 
