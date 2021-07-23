@@ -52,7 +52,7 @@
 | 20210722T20:21:09Z | CVE-2021-1675 | C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527 | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210722T18:46:20Z | CVE-2021-36934 | Fix for the CVE-2021-36934 | https://github.com/JoranSlingerland/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
 | 20210722T15:24:07Z | CVE-2021-36934 | Windows Elevation of Privilege Vulnerability (SeriousSAM) | https://github.com/VertigoRay/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
-| 20210722T14:50:52Z | cve-2021-44444 | Null | https://github.com/zoukba0014/cve-2021-44444 | 未查询到CVE信息| 
+| 20210722T14:50:52Z | cve-2021-44444 | Null | https://github.com/zoukba0014/cve-2021-44444 | | 
 | 20210722T14:50:52Z | CVE-2021-36934 | CVE-2021-36934 PowerShell Fix | https://github.com/tda90/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
 | 20210722T12:26:37Z | CVE-2021-1675 | see https://github.com/cube0x0/CVE-2021-1675 | https://github.com/hahaleyile/my-CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210722T09:18:30Z | CVE-2021-3129 | Null | https://github.com/1111one/laravel-CVE-2021-3129-EXP | Ignition before 2.5.2, as used in Laravel and other products, allows unauthenticated remote attackers to execute arbitrary code because of insecure usage of file_get_contents() and file_put_contents(). This is exploitable on sites using debug mode with Laravel before 8.4.2.| 
@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210723T00:52:02Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 17 | 12| 
 | 20210723T00:43:35Z | eLearnSecurity Certified Exploit Development | https://github.com/CyberSecurityUP/eCXD-Preparation | 5 | 1| 
 | 20210723T00:34:54Z | Pure Nim implementation for exploiting CVE-2021-36934, the SeriousSAM local privilege escalation | https://github.com/HuskyHacks/ShadowSteal | 105 | 23| 
 | 20210723T00:31:49Z | Exploiting the ssh config feature for obfuscation | https://github.com/hazarky/andre3000 | 0 | 0| 
@@ -99,7 +100,6 @@
 | 20210722T23:54:23Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 18 | 4| 
 | 20210722T23:32:17Z | PS4 Exploit 7.55 (Add additional cleanup spray after the exploit) | https://github.com/Buzbee/Buzbee3 | 0 | 0| 
 | 20210722T23:02:26Z | Agent-Based Modelling of labour exploitation in textile supply chains | https://github.com/kwabenantim/textile-labour | 1 | 0| 
-| 20210722T23:01:34Z | passive keyless entry exploit research | https://github.com/zeetulsa/pke | 1 | 0| 
 
 
 # backdoor on Github 推荐
