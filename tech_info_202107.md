@@ -147,10 +147,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210723T12:07:02Z | Binary, coverage-guided fuzzer for Windows and macOS | https://github.com/googleprojectzero/Jackalope | 593 | 68| 
 | 20210723T11:55:13Z | A Codice Fiscale Generator | https://github.com/tonyarris/codice-fuzzcale | 0 | 0| 
 | 20210723T11:54:12Z | Null | https://github.com/Healer-fuzz/healer-fuzz | 0 | 0| 
 | 20210723T11:46:18Z | fuzzy-word-search | https://github.com/slalit360/fuzzy-word-search | 0 | 0| 
-| 20210723T11:40:35Z | Binary, coverage-guided fuzzer for Windows and macOS | https://github.com/googleprojectzero/Jackalope | 593 | 68| 
 | 20210723T11:28:39Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 320 | 22| 
 | 20210723T11:26:00Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6505 | 1320| 
 | 20210723T11:06:40Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 5 | 1| 
