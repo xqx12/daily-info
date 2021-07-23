@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210723T01:15:05Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2210 | 50| 
+| 20210723T01:58:25Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2213 | 50| 
 | 20210722T21:48:12Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 165 | 15| 
 | 20210722T17:33:18Z | Null | https://github.com/JaimePSantos/ResearchKlee | 0 | 0| 
 | 20210722T12:59:38Z | Projet SensioTv de formation Symfony 5 Klee Interactive, stack en Docksal et WSL2 windows | https://github.com/404Panky/formation-sf5 | 0 | 1| 
@@ -90,7 +90,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210723T01:23:21Z | Pure Nim implementation for exploiting CVE-2021-36934, the SeriousSAM local privilege escalation | https://github.com/HuskyHacks/ShadowSteal | 106 | 23| 
+| 20210723T01:58:28Z | Null | https://github.com/ret2basic/Pentest-Exploit-Lookup | 0 | 0| 
+| 20210723T01:56:52Z | Pure Nim implementation for exploiting CVE-2021-36934, the SeriousSAM local privilege escalation | https://github.com/HuskyHacks/ShadowSteal | 108 | 23| 
+| 20210723T01:29:51Z | PS4 Exploit 7.55 (Add additional cleanup spray after the exploit) | https://github.com/Buzbee/buzbee3.github.com | 0 | 0| 
 | 20210723T01:05:32Z | Roblox exploit DLL using the LBI execution method | https://github.com/deaddlocust/LBI-Base | 11 | 0| 
 | 20210723T01:05:21Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9761 | 1610| 
 | 20210723T01:03:12Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 28 | 14| 
@@ -98,8 +100,6 @@
 | 20210723T00:43:35Z | eLearnSecurity Certified Exploit Development | https://github.com/CyberSecurityUP/eCXD-Preparation | 5 | 1| 
 | 20210723T00:31:49Z | Exploiting the ssh config feature for obfuscation | https://github.com/hazarky/andre3000 | 0 | 0| 
 | 20210723T00:22:13Z | An introduction, explanation, and tutorial of various exploits for the heap of the GNU libc. | https://github.com/bstank/bstank.github.io | 0 | 0| 
-| 20210723T00:19:33Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 4 | 1| 
-| 20210722T23:54:23Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 18 | 4| 
 
 
 # backdoor on Github 推荐
@@ -146,6 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210723T01:42:08Z | Null | https://github.com/Rendy-Yusuf-Prasetyo/fuzzy-logic | 0 | 0| 
 | 20210723T01:26:30Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 288 | 39| 
 | 20210723T01:16:42Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6502 | 1319| 
 | 20210723T01:12:31Z | Null | https://github.com/lzhfromustc/goFuzz | 0 | 0| 
@@ -155,7 +156,6 @@
 | 20210722T23:54:07Z | a fuzzier graph plotting method | https://github.com/autumnull/fuzzyplot | 0 | 0| 
 | 20210722T22:39:31Z | Web-application app intended to help people study and have more productivity. | https://github.com/gasech/Fuzzy-Potato | 0 | 0| 
 | 20210722T22:19:24Z | VMI Kernel Fuzzer for Xen Project - VM forking, VMI & AFL integration demo | https://github.com/intel/kernel-fuzzer-for-xen-project | 334 | 48| 
-| 20210722T22:18:18Z | A Rust toolkit to combine property-based testing and fuzzing. | https://github.com/facebookincubator/propfuzz | 106 | 2| 
 
 
 
