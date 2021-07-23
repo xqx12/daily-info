@@ -146,6 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210723T00:37:45Z | Config files for my GitHub profile. | https://github.com/FuzzyDee/FuzzyDee | 0 | 0| 
 | 20210723T00:12:19Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210723T00:05:35Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 19 | 8| 
 | 20210722T23:54:07Z | a fuzzier graph plotting method | https://github.com/autumnull/fuzzyplot | 0 | 0| 
@@ -155,7 +156,6 @@
 | 20210722T22:19:16Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6502 | 1319| 
 | 20210722T22:18:18Z | A Rust toolkit to combine property-based testing and fuzzing. | https://github.com/facebookincubator/propfuzz | 106 | 2| 
 | 20210722T21:53:50Z | This repository contains the Matlab files for the Sliding Mode Fuzzy Control ISBN:978-3-030-69181-3. | https://github.com/Moji82/Sliding_mode_fuzzy_control | 0 | 0| 
-| 20210722T21:29:29Z | A bare-metal x86 instruction set fuzzer a la Sandsifter | https://github.com/blitz/baresifter | 37 | 3| 
 
 
 
