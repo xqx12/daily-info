@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210723T00:43:35Z | eLearnSecurity Certified Exploit Development | https://github.com/CyberSecurityUP/eCXD-Preparation | 5 | 1| 
 | 20210723T00:34:54Z | Pure Nim implementation for exploiting CVE-2021-36934, the SeriousSAM local privilege escalation | https://github.com/HuskyHacks/ShadowSteal | 105 | 23| 
 | 20210723T00:31:49Z | Exploiting the ssh config feature for obfuscation | https://github.com/hazarky/andre3000 | 0 | 0| 
 | 20210723T00:22:13Z | An introduction, explanation, and tutorial of various exploits for the heap of the GNU libc. | https://github.com/bstank/bstank.github.io | 0 | 0| 
@@ -99,7 +100,6 @@
 | 20210722T23:32:17Z | PS4 Exploit 7.55 (Add additional cleanup spray after the exploit) | https://github.com/Buzbee/Buzbee3 | 0 | 0| 
 | 20210722T23:02:26Z | Agent-Based Modelling of labour exploitation in textile supply chains | https://github.com/kwabenantim/textile-labour | 1 | 0| 
 | 20210722T23:01:34Z | passive keyless entry exploit research | https://github.com/zeetulsa/pke | 1 | 0| 
-| 20210722T22:56:40Z | Spigot plugin that protects against op exploits & malicious plugins. | https://github.com/GuardedOperators/OpGuard | 9 | 5| 
 
 
 # backdoor on Github 推荐

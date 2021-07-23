@@ -68,8 +68,8 @@
 | 20210722T22:47:58Z | A Universal Exploit (3rd Edition) | https://github.com/SynapsUsr/UniExploit-V1 | 0 | 0| 
 | 20210722T22:47:00Z | Null | https://github.com/0xturazzi/Um-Livrinho-Sobre-Exploit-Dev | 0 | 0| 
 | 20210722T21:55:26Z | Null | https://github.com/jwardsmith/Active-Directory-Exploitation | 1 | 0| 
-| 20210722T21:54:08Z | eLearnSecurity Certified Exploit Development | https://github.com/CyberSecurityUP/eCXD-Preparation | 4 | 1| 
 | 20210722T21:51:00Z | Various tools, PoCs and experiments related to my blog at https://www.forrest-orr.net/ | https://github.com/forrest-orr/ExploitDev | 10 | 2| 
+| 20210722T21:45:43Z | Educational web application demonstrating techniques of binary exploitation (Front-end) | https://github.com/Pen-Test3rs/binary_exploits_frontend | 0 | 0| 
 
 
 # backdoor on Github 推荐
