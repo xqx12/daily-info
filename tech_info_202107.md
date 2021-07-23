@@ -52,7 +52,7 @@
 | 20210722T20:21:09Z | CVE-2021-1675 | C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527 | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210722T18:46:20Z | CVE-2021-36934 | Fix for the CVE-2021-36934 | https://github.com/JoranSlingerland/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
 | 20210722T15:24:07Z | CVE-2021-36934 | Windows Elevation of Privilege Vulnerability (SeriousSAM) | https://github.com/VertigoRay/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
-| 20210722T14:50:52Z | cve-2021-44444 | Null | https://github.com/zoukba0014/cve-2021-44444 | 未查询到CVE信息| 
+| 20210722T14:50:52Z | cve-2021-44444 | Null | https://github.com/zoukba0014/cve-2021-44444 | | 
 | 20210722T14:50:52Z | CVE-2021-36934 | CVE-2021-36934 PowerShell Fix | https://github.com/tda90/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
 | 20210722T12:26:37Z | CVE-2021-1675 | see https://github.com/cube0x0/CVE-2021-1675 | https://github.com/hahaleyile/my-CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210722T09:18:30Z | CVE-2021-3129 | Null | https://github.com/1111one/laravel-CVE-2021-3129-EXP | Ignition before 2.5.2, as used in Laravel and other products, allows unauthenticated remote attackers to execute arbitrary code because of insecure usage of file_get_contents() and file_put_contents(). This is exploitable on sites using debug mode with Laravel before 8.4.2.| 
@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210723T01:14:43Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2210 | 50| 
+| 20210723T01:15:05Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2210 | 50| 
 | 20210722T21:48:12Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 165 | 15| 
 | 20210722T17:33:18Z | Null | https://github.com/JaimePSantos/ResearchKlee | 0 | 0| 
 | 20210722T12:59:38Z | Projet SensioTv de formation Symfony 5 Klee Interactive, stack en Docksal et WSL2 windows | https://github.com/404Panky/formation-sf5 | 0 | 1| 
@@ -146,6 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210723T01:16:42Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6502 | 1319| 
 | 20210723T01:12:31Z | Null | https://github.com/lzhfromustc/goFuzz | 0 | 0| 
 | 20210723T00:37:45Z | Config files for my GitHub profile. | https://github.com/FuzzyDee/FuzzyDee | 0 | 0| 
 | 20210723T00:12:19Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
@@ -154,7 +155,6 @@
 | 20210722T23:35:15Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 288 | 39| 
 | 20210722T22:39:31Z | Web-application app intended to help people study and have more productivity. | https://github.com/gasech/Fuzzy-Potato | 0 | 0| 
 | 20210722T22:19:24Z | VMI Kernel Fuzzer for Xen Project - VM forking, VMI & AFL integration demo | https://github.com/intel/kernel-fuzzer-for-xen-project | 334 | 48| 
-| 20210722T22:19:16Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6502 | 1319| 
 | 20210722T22:18:18Z | A Rust toolkit to combine property-based testing and fuzzing. | https://github.com/facebookincubator/propfuzz | 106 | 2| 
 
 
