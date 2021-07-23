@@ -90,12 +90,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210723T00:34:54Z | Pure Nim implementation for exploiting CVE-2021-36934, the SeriousSAM local privilege escalation | https://github.com/HuskyHacks/ShadowSteal | 105 | 23| 
 | 20210723T00:31:49Z | Exploiting the ssh config feature for obfuscation | https://github.com/hazarky/andre3000 | 0 | 0| 
 | 20210723T00:22:13Z | An introduction, explanation, and tutorial of various exploits for the heap of the GNU libc. | https://github.com/bstank/bstank.github.io | 0 | 0| 
 | 20210723T00:19:33Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 4 | 1| 
 | 20210723T00:03:18Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 28 | 14| 
 | 20210722T23:54:23Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 18 | 4| 
-| 20210722T23:34:16Z | Pure Nim implementation for exploiting CVE-2021-36934, the SeriousSAM local privilege escalation | https://github.com/HuskyHacks/ShadowSteal | 104 | 23| 
 | 20210722T23:32:17Z | PS4 Exploit 7.55 (Add additional cleanup spray after the exploit) | https://github.com/Buzbee/Buzbee3 | 0 | 0| 
 | 20210722T23:02:26Z | Agent-Based Modelling of labour exploitation in textile supply chains | https://github.com/kwabenantim/textile-labour | 1 | 0| 
 | 20210722T23:01:34Z | passive keyless entry exploit research | https://github.com/zeetulsa/pke | 1 | 0| 
@@ -105,6 +105,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210723T00:35:53Z | CRFL: Certifiably Robust Federated Learning against Backdoor Attacks (ICML 2021) | https://github.com/AI-secure/CRFL | 14 | 0| 
 | 20210722T21:02:37Z | A collection of python written hacking tools consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester credential harvester, keylogger, download&execute, and reverse_backdoor. | https://github.com/dmdhrumilmistry/pyhtools | 15 | 6| 
 | 20210722T17:48:45Z | a pseudo shell to be used in conjuction with a PHP backdoor | https://github.com/mwnickerson/php-pseudo-shell | 0 | 0| 
 | 20210722T17:46:45Z | Proof of Concept | https://github.com/xxxOMA/omaBackdoor | 1 | 0| 
@@ -114,7 +115,6 @@
 | 20210722T14:05:29Z | Null | https://github.com/areski1337/Scorpio-backdoor | 1 | 0| 
 | 20210722T12:37:08Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1222 | 579| 
 | 20210722T10:55:52Z | Null | https://github.com/maskfunction/backdoorserver | 0 | 0| 
-| 20210722T08:45:56Z | Backdoor Lnk Obfuscated Macro  ( Cachée ) Développé par 4po. | https://github.com/4po/BackdoorObfuscated | 2 | 2| 
 
 
 # symbolic execution on Github 推荐

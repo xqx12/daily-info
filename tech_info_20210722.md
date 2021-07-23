@@ -61,7 +61,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20210722T23:54:23Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 18 | 4| 
-| 20210722T23:34:16Z | Pure Nim implementation for exploiting CVE-2021-36934, the SeriousSAM local privilege escalation | https://github.com/HuskyHacks/ShadowSteal | 104 | 23| 
 | 20210722T23:32:17Z | PS4 Exploit 7.55 (Add additional cleanup spray after the exploit) | https://github.com/Buzbee/Buzbee3 | 0 | 0| 
 | 20210722T23:02:26Z | Agent-Based Modelling of labour exploitation in textile supply chains | https://github.com/kwabenantim/textile-labour | 1 | 0| 
 | 20210722T23:01:34Z | passive keyless entry exploit research | https://github.com/zeetulsa/pke | 1 | 0| 
@@ -70,6 +69,7 @@
 | 20210722T22:47:00Z | Null | https://github.com/0xturazzi/Um-Livrinho-Sobre-Exploit-Dev | 0 | 0| 
 | 20210722T21:55:26Z | Null | https://github.com/jwardsmith/Active-Directory-Exploitation | 1 | 0| 
 | 20210722T21:54:08Z | eLearnSecurity Certified Exploit Development | https://github.com/CyberSecurityUP/eCXD-Preparation | 4 | 1| 
+| 20210722T21:51:00Z | Various tools, PoCs and experiments related to my blog at https://www.forrest-orr.net/ | https://github.com/forrest-orr/ExploitDev | 10 | 2| 
 
 
 # backdoor on Github 推荐
