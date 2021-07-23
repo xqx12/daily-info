@@ -51,6 +51,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210723T12:54:58Z | PoC to exploit OCSInventory vulnerabilities (XSS to RCE) | https://github.com/xmco/ocsinventory-exploit | 0 | 0| 
 | 20210723T12:48:56Z | A collection of custom built scripts to exploit known vulnerability chains | https://github.com/R-s0n/Custom_Exploits | 0 | 0| 
 | 20210723T12:35:50Z | Post-exploitation tool for attacking Active Directory domain controllers | https://github.com/tmenochet/ADThief | 16 | 3| 
 | 20210723T12:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9763 | 1610| 
@@ -60,7 +61,6 @@
 | 20210723T11:30:03Z | Null | https://github.com/z3dc0ps/windows-exploitation-more | 0 | 0| 
 | 20210723T10:52:06Z | Exploit for HiveNightmare - CVE-2021–36934 | https://github.com/FireFart/hivenightmare | 4 | 2| 
 | 20210723T10:40:40Z | Automatic Exploit Generation (AEG) tool | https://github.com/aesophor/baphomet | 3 | 0| 
-| 20210723T10:25:19Z | Null | https://github.com/4RG0S/2021-Summer-Some-Day-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
