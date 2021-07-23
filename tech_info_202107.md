@@ -51,7 +51,7 @@
 | 20210723T11:22:53Z | CVE-2021-33909 | Sequoia exploit (7/20/21) | https://github.com/Liang2580/CVE-2021-33909 | fs/seq_file.c in the Linux kernel 3.16 through 5.13.x before 5.13.4 does not properly restrict seq buffer allocations, leading to an integer overflow, an Out-of-bounds Write, and escalation to root by an unprivileged user, aka CID-8cae8cd89f05.| 
 | 20210723T08:34:08Z | 未知编号 | Null | https://github.com/haerin7427/CVE_2020_1938 | 未查询到CVE信息| 
 | 20210723T08:33:06Z | CVE-2021-1675 | C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527 | https://github.com/cube0x0/CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210723T07:56:38Z | CVE-2021-1675 | see https://github.com/cube0x0/CVE-2021-1675 | https://github.com/hahaleyile/my-CVE-2021-1675 | | 
+| 20210723T07:56:38Z | CVE-2021-1675 | see https://github.com/cube0x0/CVE-2021-1675 | https://github.com/hahaleyile/my-CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210723T03:55:39Z | CVE-2020-14343 | Experimenting with the CVE-2020-14343 PyYAML vulnerability | https://github.com/raul23/pyyaml-CVE-2020-14343 | A vulnerability was discovered in the PyYAML library in versions before 5.4, where it is susceptible to arbitrary code execution when it processes untrusted YAML files through the full_load method or with the FullLoader loader. Applications that use the library to process untrusted input may be vulnerable to this flaw. This flaw allows an attacker to execute arbitrary code on the system by abusing the python/object/new constructor. This flaw is due to an incomplete fix for CVE-2020-1747.| 
 | 20210722T22:39:53Z | CVE-2021-36934 | CVE-2021-36934 PowerShell scripts | https://github.com/bytesizedalex/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
 | 20210722T15:24:07Z | CVE-2021-36934 | Windows Elevation of Privilege Vulnerability (SeriousSAM) | https://github.com/VertigoRay/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
@@ -147,6 +147,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210723T12:39:41Z | Build a Fuzzy Search in Angular App | https://github.com/odilov/fuzzy-search | 0 | 0| 
+| 20210723T12:37:34Z | use aflsmart to fuzz web service | https://github.com/egvnoen/nfuzzer | 1 | 0| 
 | 20210723T12:28:43Z | Configurations written for Fuzzinator | https://github.com/renatahodovan/fuzzinator-configs | 8 | 4| 
 | 20210723T12:25:25Z | A Codice Fiscale Generator | https://github.com/tonyarris/codice-fuzzcale | 0 | 0| 
 | 20210723T12:21:23Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1249 | 224| 
@@ -155,8 +157,6 @@
 | 20210723T12:07:02Z | Binary, coverage-guided fuzzer for Windows and macOS | https://github.com/googleprojectzero/Jackalope | 593 | 68| 
 | 20210723T11:54:12Z | Null | https://github.com/Healer-fuzz/healer-fuzz | 0 | 0| 
 | 20210723T11:46:18Z | fuzzy-word-search | https://github.com/slalit360/fuzzy-word-search | 0 | 0| 
-| 20210723T11:28:39Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 320 | 22| 
-| 20210723T11:26:00Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6505 | 1320| 
 
 
 
