@@ -35,10 +35,10 @@
 | 20210722T18:46:20Z | CVE-2021-36934 | Fix for the CVE-2021-36934 | https://github.com/JoranSlingerland/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
 | 20210722T15:24:07Z | CVE-2021-36934 | Windows Elevation of Privilege Vulnerability (SeriousSAM) | https://github.com/VertigoRay/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
 | 20210722T14:50:52Z | cve-2021-44444 | Null | https://github.com/zoukba0014/cve-2021-44444 | 未查询到CVE信息| 
-| 20210722T14:50:52Z | CVE-2021-36934 | CVE-2021-36934 PowerShell Fix | https://github.com/tda90/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
+| 20210722T14:50:52Z | CVE-2021-36934 | CVE-2021-36934 PowerShell Fix | https://github.com/tda90/CVE-2021-36934 | | 
 | 20210722T12:26:37Z | CVE-2021-1675 | see https://github.com/cube0x0/CVE-2021-1675 | https://github.com/hahaleyile/my-CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210722T09:18:30Z | CVE-2021-3129 | Null | https://github.com/1111one/laravel-CVE-2021-3129-EXP | | 
-| 20210722T02:10:58Z | CVE-2021-36934 | Detection and Mitigation script for CVE-2021-36934 (HiveNightmare aka. SeriousSam) | https://github.com/n3tsurge/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
+| 20210722T09:18:30Z | CVE-2021-3129 | Null | https://github.com/1111one/laravel-CVE-2021-3129-EXP | Ignition before 2.5.2, as used in Laravel and other products, allows unauthenticated remote attackers to execute arbitrary code because of insecure usage of file_get_contents() and file_put_contents(). This is exploitable on sites using debug mode with Laravel before 8.4.2.| 
+| 20210722T02:10:58Z | CVE-2021-36934 | Detection and Mitigation script for CVE-2021-36934 (HiveNightmare aka. SeriousSam) | https://github.com/n3tsurge/CVE-2021-36934 | | 
 
 
 # klee on Github 推荐
