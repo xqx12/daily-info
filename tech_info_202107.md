@@ -147,8 +147,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210724T01:13:34Z | Null | https://github.com/lzhfromustc/goFuzz | 0 | 0| 
+| 20210724T01:12:49Z | Null | https://github.com/joseffaghihi/Causal-fuzzy-CEVAE | 1 | 1| 
 | 20210724T01:11:29Z | A small application to extract @Route annotations from PHP code and generate a Swagger / OpenAPI specification after that | https://github.com/JuKu/php-route-extractor-fuzzer | 0 | 0| 
-| 20210724T01:09:15Z | Null | https://github.com/joseffaghihi/Causal-fuzzy-CEVAE | 1 | 1| 
 | 20210724T00:45:45Z | Null | https://github.com/Sam-damn/Fuzzy-Clustering | 0 | 0| 
 | 20210724T00:21:24Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6505 | 1320| 
 | 20210723T23:00:33Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
@@ -156,7 +157,6 @@
 | 20210723T22:01:39Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210723T21:32:17Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1918 | 383| 
 | 20210723T21:14:18Z | Emulation based snapshot fuzzer | https://github.com/jaoeul/gingersnap | 0 | 0| 
-| 20210723T20:41:39Z | Fuzz 403/401ing endpoints for bypasses | https://github.com/intrudir/403fuzzer | 181 | 22| 
 
 
 
