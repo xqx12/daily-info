@@ -26,51 +26,62 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210723T23:23:28Z | CVE-2020-0022 | This is a RCE bluetooth vulnerability on Android 8.0 and 9.0 | https://github.com/k3vinlusec/Bluefrag_CVE-2020-0022 | In reassemble_and_dispatch of packet_fragmenter.cc, there is possible out of bounds write due to an incorrect bounds calculation. This could lead to remote code execution over Bluetooth with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-8.0 Android-8.1 Android-9 Android-10Android ID: A-143894715| 
+| 20210723T23:20:13Z | CVE-2020-15416 | https://www.zerodayinitiative.com/advisories/ZDI-20-712/ | https://github.com/k3vinlusec/R7000_httpd_BOF_CVE-2020-15416 | This vulnerability allows network-adjacent attackers to bypass authentication on affected installations of NETGEAR R6700 V1.0.4.84_10.0.58 routers. Authentication is not required to exploit this vulnerability. The specific flaw exists within the httpd service, which listens on TCP port 80 by default. The issue results from the lack of proper validation of the length of user-supplied data prior to copying it to a fixed-length, stack-based buffer. An attacker can leverage this vulnerability to execute code in the context of root. Was ZDI-CAN-9703.| 
+| 20210723T22:42:08Z | CVE-2021-33909 | Sequoia exploit (7/20/21) | https://github.com/Liang2580/CVE-2021-33909 | fs/seq_file.c in the Linux kernel 3.16 through 5.13.x before 5.13.4 does not properly restrict seq buffer allocations, leading to an integer overflow, an Out-of-bounds Write, and escalation to root by an unprivileged user, aka CID-8cae8cd89f05.| 
+| 20210723T19:14:21Z | CVE-2021-36934 | CVE-2021-36934 PowerShell scripts | https://github.com/bytesizedalex/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
+| 20210723T17:19:17Z | CVE-2021-36934 | Windows Elevation of Privilege Vulnerability (SeriousSAM) | https://github.com/VertigoRay/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
+| 20210723T15:46:41Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210723T14:54:01Z | CVE-2020-14343 | Experimenting with the CVE-2020-14343 PyYAML vulnerability | https://github.com/raul23/pyyaml-CVE-2020-14343 | A vulnerability was discovered in the PyYAML library in versions before 5.4, where it is susceptible to arbitrary code execution when it processes untrusted YAML files through the full_load method or with the FullLoader loader. Applications that use the library to process untrusted input may be vulnerable to this flaw. This flaw allows an attacker to execute arbitrary code on the system by abusing the python/object/new constructor. This flaw is due to an incomplete fix for CVE-2020-1747.| 
 | 20210723T12:44:28Z | CVE-2021-1675 | C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527 | https://github.com/cube0x0/CVE-2021-1675 | | 
 | 20210723T12:23:45Z | CVE-2020-23934 | Python Implementation of CVE-2020-23934 | https://github.com/zyeinn/CVE-2020-23934 | An issue was discovered in RiteCMS 2.2.1. An authenticated user can directly execute system commands by uploading a php web shell in the %Filemanager% section.| 
 | 20210723T12:19:19Z | CVE-2021-36934 | Fix for the CVE-2021-36934 | https://github.com/JoranSlingerland/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
-| 20210723T11:22:53Z | CVE-2021-33909 | Sequoia exploit (7/20/21) | https://github.com/Liang2580/CVE-2021-33909 | fs/seq_file.c in the Linux kernel 3.16 through 5.13.x before 5.13.4 does not properly restrict seq buffer allocations, leading to an integer overflow, an Out-of-bounds Write, and escalation to root by an unprivileged user, aka CID-8cae8cd89f05.| 
-| 20210723T08:34:08Z | 未知编号 | Null | https://github.com/haerin7427/CVE_2020_1938 | 未查询到CVE信息| 
-| 20210723T07:56:38Z | CVE-2021-1675 | see https://github.com/cube0x0/CVE-2021-1675 | https://github.com/hahaleyile/my-CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210723T03:55:39Z | CVE-2020-14343 | Experimenting with the CVE-2020-14343 PyYAML vulnerability | https://github.com/raul23/pyyaml-CVE-2020-14343 | A vulnerability was discovered in the PyYAML library in versions before 5.4, where it is susceptible to arbitrary code execution when it processes untrusted YAML files through the full_load method or with the FullLoader loader. Applications that use the library to process untrusted input may be vulnerable to this flaw. This flaw allows an attacker to execute arbitrary code on the system by abusing the python/object/new constructor. This flaw is due to an incomplete fix for CVE-2020-1747.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210723T12:55:49Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2247 | 52| 
+| 20210723T22:12:29Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2252 | 52| 
+| 20210723T19:09:11Z | Null | https://github.com/JaimePSantos/ResearchKlee | 0 | 0| 
+| 20210723T16:55:51Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 143 | 21| 
 | 20210723T09:19:08Z | Config files for my GitHub profile. | https://github.com/Kleem405/Kleem405 | 0 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210723T14:58:37Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 144 | 34| 
 | 20210723T02:37:08Z | Config files for my GitHub profile. | https://github.com/s2ensei/s2ensei | 0 | 0| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210723T12:57:07Z | A basic python script for web app pen testing -- I got tired of re-writing the same thing three times a week~ | https://github.com/R-s0n/Exploit-Script-Template | 0 | 0| 
-| 20210723T12:54:58Z | PoC to exploit OCSInventory vulnerabilities (XSS to RCE) | https://github.com/xmco/ocsinventory-exploit | 0 | 0| 
-| 20210723T12:48:56Z | A collection of custom built scripts to exploit known vulnerability chains | https://github.com/R-s0n/Custom_Exploits | 0 | 0| 
-| 20210723T12:35:50Z | Post-exploitation tool for attacking Active Directory domain controllers | https://github.com/tmenochet/ADThief | 16 | 3| 
-| 20210723T12:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9763 | 1610| 
-| 20210723T12:03:14Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 28 | 14| 
-| 20210723T11:34:36Z | My degree%s final project | https://github.com/oriolOrnaque/TFG-Binary-exploitation | 0 | 0| 
-| 20210723T11:31:28Z | Pure Nim implementation for exploiting CVE-2021-36934, the SeriousSAM local privilege escalation | https://github.com/HuskyHacks/ShadowSteal | 113 | 25| 
-| 20210723T11:30:03Z | Null | https://github.com/z3dc0ps/windows-exploitation-more | 0 | 0| 
-| 20210723T10:52:06Z | Exploit for HiveNightmare - CVE-2021–36934 | https://github.com/FireFart/hivenightmare | 4 | 2| 
+| 20210723T23:23:47Z | An automated, modular cryptanalysis tool; i.e., a Weapon of Math Destruction | https://github.com/nccgroup/featherduster | 897 | 129| 
+| 20210723T23:20:49Z | Exploit Analysis of The WhatsApp Double-Free Vulnerability (CVE-2019-11932) Using the GEF-GDB Debugger | https://github.com/k3vinlusec/WhatsApp-Double-Free-Vulnerability_CVE-2019-11932 | 0 | 0| 
+| 20210723T23:11:51Z | Null | https://github.com/dfclin073/exploits | 0 | 0| 
+| 20210723T23:03:19Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 28 | 14| 
+| 20210723T22:48:39Z | Meu exploit automatizado(recebe uma wordlist) faz o check se o host é vulneravel e exploita, codado em php para apache nifi | https://github.com/KnC0x00/ExploitApacheNIFI | 1 | 0| 
+| 20210723T22:35:17Z | Binary exploits presented in web app | https://github.com/Pen-Test3rs/binary_exploits_examples | 0 | 0| 
+| 20210723T22:24:01Z | Null | https://github.com/HarrysExploit/Harrys-exploit-api-v2 | 0 | 0| 
+| 20210723T22:23:09Z | Dossiers: fonctionnelle, Technique, Exploitation | https://github.com/dlparisato/Dossiers-OC-Pizza | 0 | 0| 
+| 20210723T22:08:43Z | Funny exploit lol | https://github.com/Kami147/InstantMine | 18 | 3| 
+| 20210723T22:04:26Z | Script  for downloading post exploitation scripts/tools | https://github.com/0xastraeus/Post-exploitation-tools | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210723T11:32:19Z | A simple remote tool written in C#.    一个简单的c#远控 | https://github.com/qwqdanchun/DcRat | 260 | 101| 
-| 20210723T09:54:23Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 267 | 51| 
-| 20210723T07:43:18Z | A Powerfull Windows Ransomware with a Fully Undetectable Persistent Backdoor , System Halt Attack etc | https://github.com/M4xSec/curse2death | 2 | 0| 
-| 20210723T05:01:40Z | A collection of python written hacking tools consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester credential harvester, keylogger, download&execute, and reverse_backdoor. | https://github.com/dmdhrumilmistry/pyhtools | 16 | 7| 
-| 20210723T00:38:08Z | CRFL: Certifiably Robust Federated Learning against Backdoor Attacks (ICML 2021) | https://github.com/AI-secure/CRFL | 14 | 0| 
+| 20210723T23:39:04Z | :rocket: Simple Backdoor writted in  Python  | https://github.com/anonik9900/BackFucker | 0 | 0| 
+| 20210723T21:16:35Z | You have a Front Door, a Backdoor, why not a SideD00r... | https://github.com/Aaron-Akhtar/SideD00r | 0 | 0| 
+| 20210723T20:23:58Z | This is a reverse shell coded in Python, similar to my C backdoor, but doesn%t allow for persistence and just allows command prompt commands. | https://github.com/Calastrophe/Reverse-Shell | 0 | 0| 
+| 20210723T19:14:06Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 88 | 15| 
+| 20210723T18:18:49Z | A module-based repository for testing and evaluating backdoor attacks and defenses. | https://github.com/SewoongLab/backdoor-suite | 1 | 0| 
+| 20210723T18:01:40Z | Implementation of a native-code HatSploit membrane for unix-like systems, designed for portability, embeddability, and low resource utilization. | https://github.com/EntySec/membrane | 6 | 3| 
+| 20210723T18:01:24Z | Paranoid is a web interface and dashboard, configured for managing HatSploit sessions via built-in REST API. | https://github.com/EntySec/Paranoid | 2 | 0| 
+| 20210723T17:58:52Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1222 | 580| 
+| 20210723T17:07:44Z | Null | https://github.com/FierzaEriez/Mini-Shell-Backdoor | 1 | 1| 
+| 20210723T14:59:39Z | [ENG] A small exploit-library using the HIkvision-backdoor exploit. [DE] Kleine Python-Scripte, um die Backdoor in Hikvision-Kameras auszunutzen. | https://github.com/MatrixEditor/hikvision-sdk-cam | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -84,21 +95,23 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210723T14:58:47Z | Original implementation of FlowPrint as in the NDSS %20 paper | https://github.com/Thijsvanede/FlowPrint | 51 | 18| 
+| 20210723T14:58:42Z | Code for the paper %FlowLens: Enabling Efficient Flow Classification for ML-based Network Security Applications% [NDSS %21] | https://github.com/dmbb/FlowLens | 6 | 1| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210723T13:00:32Z | Fuzzing tool for the 14th institute | https://github.com/Radon10043/fuzzing-tool-14 | 0 | 2| 
-| 20210723T13:00:26Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
-| 20210723T12:58:52Z | Null | https://github.com/Dominic2000code/fuzzy-journey | 0 | 0| 
-| 20210723T12:55:20Z | Null | https://github.com/Healer-fuzz/healer-fuzz | 0 | 0| 
-| 20210723T12:39:41Z | Build a Fuzzy Search in Angular App | https://github.com/odilov/fuzzy-search | 0 | 0| 
-| 20210723T12:37:34Z | use aflsmart to fuzz web service | https://github.com/egvnoen/nfuzzer | 1 | 0| 
-| 20210723T12:28:43Z | Configurations written for Fuzzinator | https://github.com/renatahodovan/fuzzinator-configs | 8 | 4| 
-| 20210723T12:25:25Z | A Codice Fiscale Generator | https://github.com/tonyarris/codice-fuzzcale | 0 | 0| 
-| 20210723T12:21:23Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1249 | 224| 
-| 20210723T12:15:14Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 19 | 8| 
+| 20210723T23:55:49Z | A small application to extract @Route annotations from PHP code and generate a Swagger / OpenAPI specification after that | https://github.com/JuKu/php-route-extractor-fuzzer | 0 | 0| 
+| 20210723T23:00:33Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
+| 20210723T22:31:30Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
+| 20210723T22:01:39Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20210723T21:32:17Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1918 | 383| 
+| 20210723T21:14:18Z | Emulation based snapshot fuzzer | https://github.com/jaoeul/gingersnap | 0 | 0| 
+| 20210723T20:50:46Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6505 | 1320| 
+| 20210723T20:41:39Z | Fuzz 403/401ing endpoints for bypasses | https://github.com/intrudir/403fuzzer | 181 | 22| 
+| 20210723T20:30:29Z | REST API Fuzz Testing (RAFT): Source code for self-hosted service developed for Azure, including the API, orchestration engine, and default set of security tools (including MSR%s RESTler), that enables developers to embed security tooling into their CI/CD workflows | https://github.com/microsoft/rest-api-fuzz-testing | 185 | 27| 
+| 20210723T20:27:59Z | Fuzzing C-Compilers with QuickCheck | https://github.com/m-schmidt/Fuzzer | 5 | 0| 
 
 
 
