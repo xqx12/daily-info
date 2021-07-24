@@ -23,7 +23,7 @@
 | 20210724T12:03:30Z | CVE-2021-36934 | Windows Elevation of Privilege Vulnerability (SeriousSAM) | https://github.com/VertigoRay/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
 | 20210724T10:46:24Z | CVE-2021-33909 | Sequoia exploit (7/20/21) | https://github.com/Liang2580/CVE-2021-33909 | fs/seq_file.c in the Linux kernel 3.16 through 5.13.x before 5.13.4 does not properly restrict seq buffer allocations, leading to an integer overflow, an Out-of-bounds Write, and escalation to root by an unprivileged user, aka CID-8cae8cd89f05.| 
 | 20210724T07:11:15Z | CVE-2020-0022 | This is a RCE bluetooth vulnerability on Android 8.0 and 9.0 | https://github.com/k3vinlusec/Bluefrag_CVE-2020-0022 | In reassemble_and_dispatch of packet_fragmenter.cc, there is possible out of bounds write due to an incorrect bounds calculation. This could lead to remote code execution over Bluetooth with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-8.0 Android-8.1 Android-9 Android-10Android ID: A-143894715| 
-| 20210724T07:08:19Z | CVE-2021-23410 | Null | https://github.com/azu/msgpack-CVE-2021-23410-test | | 
+| 20210724T07:08:19Z | CVE-2021-23410 | Null | https://github.com/azu/msgpack-CVE-2021-23410-test | All versions of package msgpack are vulnerable to Deserialization of Untrusted Data via the unpack function. N.B: this affects the NPM package [msgpack](https://www.npmjs.com/package/msgpack) only, NOT the more popular package [@msgpack/msgpack](https://www.npmjs.com/package/@msgpack/msgpack).| 
 
 
 # klee on Github 推荐
@@ -78,6 +78,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210724T12:15:14Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 19 | 8| 
 | 20210724T12:05:09Z | Null | https://github.com/Nourollah/FuzzySample | 0 | 0| 
 | 20210724T11:30:22Z | Null | https://github.com/Healer-fuzz/healer-fuzz | 0 | 0| 
 | 20210724T11:14:37Z | Null | https://github.com/kunal262000/WASHING-MACHINE-CONTROLLER-USING-FUZZY-LOGIC | 0 | 0| 
@@ -87,7 +88,6 @@
 | 20210724T09:45:41Z | This is implementation of lambda cut for a set and for matrices by Akshay Yadav | https://github.com/Akshay646/Fuzzy-sets-Lambda-cut | 0 | 0| 
 | 20210724T09:39:51Z | This is implementation of Max-min and Max-product Composition on fuzzy sets by Akshay Yadav | https://github.com/Akshay646/Fuzzy-sets-Max-min-and-max-product-Composition | 0 | 0| 
 | 20210724T09:33:30Z | This is implementation of De Morgan%s Law on Fuzzy sets by Akshay Yadav | https://github.com/Akshay646/Fuzzy-sets-De-Morgan-s-Law | 0 | 0| 
-| 20210724T09:27:25Z | This is Implementation of Algebraic sum and Algebraic product of fuzzy sets by Akshay Yadav | https://github.com/Akshay646/Fuzzy-sets-Algebraic-sum--Algebraic-Product | 0 | 0| 
 
 
 
