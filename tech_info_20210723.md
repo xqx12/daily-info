@@ -60,13 +60,13 @@
 | 20210723T23:23:47Z | An automated, modular cryptanalysis tool; i.e., a Weapon of Math Destruction | https://github.com/nccgroup/featherduster | 897 | 129| 
 | 20210723T23:20:49Z | Exploit Analysis of The WhatsApp Double-Free Vulnerability (CVE-2019-11932) Using the GEF-GDB Debugger | https://github.com/k3vinlusec/WhatsApp-Double-Free-Vulnerability_CVE-2019-11932 | 0 | 0| 
 | 20210723T23:11:51Z | Null | https://github.com/dfclin073/exploits | 0 | 0| 
-| 20210723T23:03:19Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 28 | 14| 
 | 20210723T22:48:39Z | Meu exploit automatizado(recebe uma wordlist) faz o check se o host é vulneravel e exploita, codado em php para apache nifi | https://github.com/KnC0x00/ExploitApacheNIFI | 1 | 0| 
 | 20210723T22:35:17Z | Binary exploits presented in web app | https://github.com/Pen-Test3rs/binary_exploits_examples | 0 | 0| 
 | 20210723T22:23:09Z | Dossiers: fonctionnelle, Technique, Exploitation | https://github.com/dlparisato/Dossiers-OC-Pizza | 0 | 0| 
 | 20210723T22:08:43Z | Funny exploit lol | https://github.com/Kami147/InstantMine | 18 | 3| 
 | 20210723T22:04:26Z | Script  for downloading post exploitation scripts/tools | https://github.com/0xastraeus/Post-exploitation-tools | 0 | 0| 
 | 20210723T21:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9764 | 1610| 
+| 20210723T21:17:35Z | Null | https://github.com/MazX0p/FireBase-Finder-Exploit | 1 | 0| 
 
 
 # backdoor on Github 推荐

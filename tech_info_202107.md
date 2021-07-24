@@ -91,11 +91,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210724T00:01:57Z | Null | https://github.com/HarrysExploit/Harrys-exploit-api-v2 | 0 | 0| 
+| 20210724T00:03:15Z | Null | https://github.com/HarrysExploit/Harrys-exploit-api-v2 | 0 | 0| 
+| 20210724T00:03:15Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 28 | 14| 
 | 20210723T23:23:47Z | An automated, modular cryptanalysis tool; i.e., a Weapon of Math Destruction | https://github.com/nccgroup/featherduster | 897 | 129| 
 | 20210723T23:20:49Z | Exploit Analysis of The WhatsApp Double-Free Vulnerability (CVE-2019-11932) Using the GEF-GDB Debugger | https://github.com/k3vinlusec/WhatsApp-Double-Free-Vulnerability_CVE-2019-11932 | 0 | 0| 
 | 20210723T23:11:51Z | Null | https://github.com/dfclin073/exploits | 0 | 0| 
-| 20210723T23:03:19Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 28 | 14| 
 | 20210723T22:48:39Z | Meu exploit automatizado(recebe uma wordlist) faz o check se o host é vulneravel e exploita, codado em php para apache nifi | https://github.com/KnC0x00/ExploitApacheNIFI | 1 | 0| 
 | 20210723T22:35:17Z | Binary exploits presented in web app | https://github.com/Pen-Test3rs/binary_exploits_examples | 0 | 0| 
 | 20210723T22:23:09Z | Dossiers: fonctionnelle, Technique, Exploitation | https://github.com/dlparisato/Dossiers-OC-Pizza | 0 | 0| 
