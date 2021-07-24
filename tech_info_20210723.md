@@ -63,10 +63,10 @@
 | 20210723T23:03:19Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 28 | 14| 
 | 20210723T22:48:39Z | Meu exploit automatizado(recebe uma wordlist) faz o check se o host é vulneravel e exploita, codado em php para apache nifi | https://github.com/KnC0x00/ExploitApacheNIFI | 1 | 0| 
 | 20210723T22:35:17Z | Binary exploits presented in web app | https://github.com/Pen-Test3rs/binary_exploits_examples | 0 | 0| 
-| 20210723T22:24:01Z | Null | https://github.com/HarrysExploit/Harrys-exploit-api-v2 | 0 | 0| 
 | 20210723T22:23:09Z | Dossiers: fonctionnelle, Technique, Exploitation | https://github.com/dlparisato/Dossiers-OC-Pizza | 0 | 0| 
 | 20210723T22:08:43Z | Funny exploit lol | https://github.com/Kami147/InstantMine | 18 | 3| 
 | 20210723T22:04:26Z | Script  for downloading post exploitation scripts/tools | https://github.com/0xastraeus/Post-exploitation-tools | 0 | 0| 
+| 20210723T21:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9764 | 1610| 
 
 
 # backdoor on Github 推荐
@@ -87,9 +87,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210723T21:08:20Z | A tool for generating nonlinear numerical invariants for C and Java programs.  DIG uses dynamic analysis to infer invariants over program execution traces and applies symbolic execution to inferred invariants. | https://github.com/unsat/dig | 4 | 4| 
+| 20210723T19:58:26Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 7 | 4| 
 | 20210723T12:57:08Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 152 | 33| 
 | 20210723T07:55:55Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 444 | 67| 
-| 20210723T00:09:37Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 7 | 4| 
 
 
 # big4 on Github 推荐

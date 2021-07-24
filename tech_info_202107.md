@@ -91,13 +91,13 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210724T00:01:57Z | Null | https://github.com/HarrysExploit/Harrys-exploit-api-v2 | 0 | 0| 
 | 20210723T23:23:47Z | An automated, modular cryptanalysis tool; i.e., a Weapon of Math Destruction | https://github.com/nccgroup/featherduster | 897 | 129| 
 | 20210723T23:20:49Z | Exploit Analysis of The WhatsApp Double-Free Vulnerability (CVE-2019-11932) Using the GEF-GDB Debugger | https://github.com/k3vinlusec/WhatsApp-Double-Free-Vulnerability_CVE-2019-11932 | 0 | 0| 
 | 20210723T23:11:51Z | Null | https://github.com/dfclin073/exploits | 0 | 0| 
 | 20210723T23:03:19Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 28 | 14| 
 | 20210723T22:48:39Z | Meu exploit automatizado(recebe uma wordlist) faz o check se o host é vulneravel e exploita, codado em php para apache nifi | https://github.com/KnC0x00/ExploitApacheNIFI | 1 | 0| 
 | 20210723T22:35:17Z | Binary exploits presented in web app | https://github.com/Pen-Test3rs/binary_exploits_examples | 0 | 0| 
-| 20210723T22:24:01Z | Null | https://github.com/HarrysExploit/Harrys-exploit-api-v2 | 0 | 0| 
 | 20210723T22:23:09Z | Dossiers: fonctionnelle, Technique, Exploitation | https://github.com/dlparisato/Dossiers-OC-Pizza | 0 | 0| 
 | 20210723T22:08:43Z | Funny exploit lol | https://github.com/Kami147/InstantMine | 18 | 3| 
 | 20210723T22:04:26Z | Script  for downloading post exploitation scripts/tools | https://github.com/0xastraeus/Post-exploitation-tools | 0 | 0| 
@@ -121,11 +121,11 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210723T21:08:20Z | A tool for generating nonlinear numerical invariants for C and Java programs.  DIG uses dynamic analysis to infer invariants over program execution traces and applies symbolic execution to inferred invariants. | https://github.com/unsat/dig | 4 | 4| 
+| 20210723T19:58:26Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 7 | 4| 
 | 20210723T12:57:08Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 152 | 33| 
 | 20210723T07:55:55Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 444 | 67| 
-| 20210723T00:09:37Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 7 | 4| 
 | 20210722T21:06:01Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1849 | 388| 
-| 20210722T19:54:06Z | A tool for generating nonlinear numerical invariants for C and Java programs.  DIG uses dynamic analysis to infer invariants over program execution traces and applies symbolic execution to inferred invariants. | https://github.com/unsat/dig | 4 | 4| 
 | 20210722T15:23:36Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 14 | 3| 
 | 20210722T14:53:43Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2393 | 352| 
 | 20210722T12:52:30Z | A toy symbolic execution engine, supporting the blog article ... | https://github.com/synacktiv/toy-wasm-symbexp | 0 | 0| 
