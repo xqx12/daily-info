@@ -52,7 +52,7 @@
 | 20210724T07:08:19Z | CVE-2021-23410 | Null | https://github.com/azu/msgpack-CVE-2021-23410-test | All versions of package msgpack are vulnerable to Deserialization of Untrusted Data via the unpack function. N.B: this affects the NPM package [msgpack](https://www.npmjs.com/package/msgpack) only, NOT the more popular package [@msgpack/msgpack](https://www.npmjs.com/package/@msgpack/msgpack).| 
 | 20210723T23:20:13Z | CVE-2020-15416 | https://www.zerodayinitiative.com/advisories/ZDI-20-712/ | https://github.com/k3vinlusec/R7000_httpd_BOF_CVE-2020-15416 | This vulnerability allows network-adjacent attackers to bypass authentication on affected installations of NETGEAR R6700 V1.0.4.84_10.0.58 routers. Authentication is not required to exploit this vulnerability. The specific flaw exists within the httpd service, which listens on TCP port 80 by default. The issue results from the lack of proper validation of the length of user-supplied data prior to copying it to a fixed-length, stack-based buffer. An attacker can leverage this vulnerability to execute code in the context of root. Was ZDI-CAN-9703.| 
 | 20210723T19:14:21Z | CVE-2021-36934 | CVE-2021-36934 PowerShell scripts | https://github.com/bytesizedalex/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
-| 20210723T15:46:41Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210723T15:46:41Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | | 
 | 20210723T14:54:01Z | CVE-2020-14343 | Experimenting with the CVE-2020-14343 PyYAML vulnerability | https://github.com/raul23/pyyaml-CVE-2020-14343 | A vulnerability was discovered in the PyYAML library in versions before 5.4, where it is susceptible to arbitrary code execution when it processes untrusted YAML files through the full_load method or with the FullLoader loader. Applications that use the library to process untrusted input may be vulnerable to this flaw. This flaw allows an attacker to execute arbitrary code on the system by abusing the python/object/new constructor. This flaw is due to an incomplete fix for CVE-2020-1747.| 
 | 20210723T12:44:28Z | CVE-2021-1675 | C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527 | https://github.com/cube0x0/CVE-2021-1675 | | 
 | 20210723T12:23:45Z | CVE-2020-23934 | Python Implementation of CVE-2020-23934 | https://github.com/zyeinn/CVE-2020-23934 | An issue was discovered in RiteCMS 2.2.1. An authenticated user can directly execute system commands by uploading a php web shell in the %Filemanager% section.| 
@@ -91,9 +91,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210724T12:08:13Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 3823 | 551| 
 | 20210724T12:04:17Z | The new exploit StinkyFileX V2 IS OUT FINNALY!!! | https://github.com/StinkcatReal/StinkyFileX-V2 | 0 | 0| 
 | 20210724T12:03:00Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 14| 
-| 20210724T11:03:58Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 3822 | 551| 
 | 20210724T10:57:56Z | Exploit Code | https://github.com/wjddnjs33/Exploit | 0 | 0| 
 | 20210724T10:47:07Z | RomBuster is a router exploitation tool that allows to disclosure network router admin password. | https://github.com/EntySec/RomBuster | 94 | 22| 
 | 20210724T10:05:14Z | Binary exploits presented in web app | https://github.com/Pen-Test3rs/binary_exploits_examples | 0 | 0| 

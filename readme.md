@@ -41,9 +41,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210724T12:08:13Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 3823 | 551| 
 | 20210724T12:04:17Z | The new exploit StinkyFileX V2 IS OUT FINNALY!!! | https://github.com/StinkcatReal/StinkyFileX-V2 | 0 | 0| 
 | 20210724T12:03:00Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 14| 
-| 20210724T11:03:58Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 3822 | 551| 
 | 20210724T10:57:56Z | Exploit Code | https://github.com/wjddnjs33/Exploit | 0 | 0| 
 | 20210724T10:47:07Z | RomBuster is a router exploitation tool that allows to disclosure network router admin password. | https://github.com/EntySec/RomBuster | 94 | 22| 
 | 20210724T10:05:14Z | Binary exploits presented in web app | https://github.com/Pen-Test3rs/binary_exploits_examples | 0 | 0| 
