@@ -147,7 +147,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210724T01:28:28Z | Null | https://github.com/joseffaghihi/Causal-fuzzy-CEVAE | 1 | 1| 
+| 20210724T01:28:44Z | Null | https://github.com/joseffaghihi/Causal-fuzzy-CEVAE | 1 | 1| 
 | 20210724T01:27:58Z | Null | https://github.com/lzhfromustc/goFuzz | 0 | 0| 
 | 20210724T01:11:29Z | A small application to extract @Route annotations from PHP code and generate a Swagger / OpenAPI specification after that | https://github.com/JuKu/php-route-extractor-fuzzer | 0 | 0| 
 | 20210724T00:45:45Z | Null | https://github.com/Sam-damn/Fuzzy-Clustering | 0 | 0| 
