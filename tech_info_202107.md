@@ -31,31 +31,31 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210724 | Palantir 大数据能力分析研究（下篇） | https://mp.weixin.qq.com/s/NUZX8RCIQ9PUCOqyynkU9g| 
+| 20210724 | 经典中间人攻击教学案例-吃瓜吴某帆事件 | https://mp.weixin.qq.com/s/Z0OM-OCHOU68c8IbfpPmrg| 
+| 20210724 | 万物互联时代的API安全探索 | https://static.cdxy.me/starcross_api_intelligence_product_launch.pdf| 
+| 20210724 | AISecOps：基于异构图的威胁分析技术 | https://mp.weixin.qq.com/s/jlH3lWCw_U8w2vDGzr60sQ| 
 | 20210723 | 记一次促销活动中的业务安全对抗 | https://mp.weixin.qq.com/s/wX8Yo4YGTudRyft32HEeug| 
 | 20210722 | 对“超高能力网空威胁行为体”系列分析回顾 | https://mp.weixin.qq.com/s/RGIfplSiDK8_AQekn-nImA| 
 | 20210721 | 基于用户态虚拟化的物联网设备仿真方法 | https://blog.lyle.ac.cn/2021/07/09/uemu/| 
 | 20210721 | 浅谈云安全之K8S | https://www.anquanke.com/post/id/245526| 
 | 20210721 | 应急响应的神兵利器 | https://www.anquanke.com/post/id/246290| 
 | 20210721 | NGLite-基于区块链网络的匿名跨平台远控程序 | https://www.anquanke.com/post/id/247454| 
-| 20210721 | 利用pocsuite3框架编写poc实战案例 | https://mp.weixin.qq.com/s/LN5gJnKpunfWGJ6yQQtHuw| 
-| 20210721 | 某工控设备固件提取及分析 | http://blog.nsfocus.net/vxwork-qnx/| 
-| 20210721 | 攻防启示：Chromium组件风险剖析与收敛 | https://mp.weixin.qq.com/s/f0aFLEKyABpYDobPN2b6tQ| 
-| 20210721 | [翻译] 通过不安全的动态加载获得获得反射 XSS | https://mp.weixin.qq.com/s/MyC527oZVqT1ZDjlUZ_gYw| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210724T01:46:18Z | CVE-2021-33909 | Sequoia exploit (7/20/21) | https://github.com/Liang2580/CVE-2021-33909 | fs/seq_file.c in the Linux kernel 3.16 through 5.13.x before 5.13.4 does not properly restrict seq buffer allocations, leading to an integer overflow, an Out-of-bounds Write, and escalation to root by an unprivileged user, aka CID-8cae8cd89f05.| 
-| 20210724T01:19:07Z | CVE-2021-23410 | Null | https://github.com/azu/msgpack-CVE-2021-23410-test | All versions of package msgpack are vulnerable to Deserialization of Untrusted Data via the unpack function. N.B: this affects the NPM package [msgpack](https://www.npmjs.com/package/msgpack) only, NOT the more popular package [@msgpack/msgpack](https://www.npmjs.com/package/@msgpack/msgpack).| 
-| 20210723T23:23:28Z | CVE-2020-0022 | This is a RCE bluetooth vulnerability on Android 8.0 and 9.0 | https://github.com/k3vinlusec/Bluefrag_CVE-2020-0022 | In reassemble_and_dispatch of packet_fragmenter.cc, there is possible out of bounds write due to an incorrect bounds calculation. This could lead to remote code execution over Bluetooth with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-8.0 Android-8.1 Android-9 Android-10Android ID: A-143894715| 
+| 20210724T12:00:13Z | CVE-2021-36934 | Windows Elevation of Privilege Vulnerability (SeriousSAM) | https://github.com/VertigoRay/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
+| 20210724T10:46:24Z | CVE-2021-33909 | Sequoia exploit (7/20/21) | https://github.com/Liang2580/CVE-2021-33909 | fs/seq_file.c in the Linux kernel 3.16 through 5.13.x before 5.13.4 does not properly restrict seq buffer allocations, leading to an integer overflow, an Out-of-bounds Write, and escalation to root by an unprivileged user, aka CID-8cae8cd89f05.| 
+| 20210724T07:11:15Z | CVE-2020-0022 | This is a RCE bluetooth vulnerability on Android 8.0 and 9.0 | https://github.com/k3vinlusec/Bluefrag_CVE-2020-0022 | In reassemble_and_dispatch of packet_fragmenter.cc, there is possible out of bounds write due to an incorrect bounds calculation. This could lead to remote code execution over Bluetooth with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-8.0 Android-8.1 Android-9 Android-10Android ID: A-143894715| 
+| 20210724T07:08:19Z | CVE-2021-23410 | Null | https://github.com/azu/msgpack-CVE-2021-23410-test | All versions of package msgpack are vulnerable to Deserialization of Untrusted Data via the unpack function. N.B: this affects the NPM package [msgpack](https://www.npmjs.com/package/msgpack) only, NOT the more popular package [@msgpack/msgpack](https://www.npmjs.com/package/@msgpack/msgpack).| 
 | 20210723T23:20:13Z | CVE-2020-15416 | https://www.zerodayinitiative.com/advisories/ZDI-20-712/ | https://github.com/k3vinlusec/R7000_httpd_BOF_CVE-2020-15416 | This vulnerability allows network-adjacent attackers to bypass authentication on affected installations of NETGEAR R6700 V1.0.4.84_10.0.58 routers. Authentication is not required to exploit this vulnerability. The specific flaw exists within the httpd service, which listens on TCP port 80 by default. The issue results from the lack of proper validation of the length of user-supplied data prior to copying it to a fixed-length, stack-based buffer. An attacker can leverage this vulnerability to execute code in the context of root. Was ZDI-CAN-9703.| 
 | 20210723T19:14:21Z | CVE-2021-36934 | CVE-2021-36934 PowerShell scripts | https://github.com/bytesizedalex/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
-| 20210723T17:19:17Z | CVE-2021-36934 | Windows Elevation of Privilege Vulnerability (SeriousSAM) | https://github.com/VertigoRay/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
-| 20210723T15:46:41Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | | 
+| 20210723T15:46:41Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210723T14:54:01Z | CVE-2020-14343 | Experimenting with the CVE-2020-14343 PyYAML vulnerability | https://github.com/raul23/pyyaml-CVE-2020-14343 | A vulnerability was discovered in the PyYAML library in versions before 5.4, where it is susceptible to arbitrary code execution when it processes untrusted YAML files through the full_load method or with the FullLoader loader. Applications that use the library to process untrusted input may be vulnerable to this flaw. This flaw allows an attacker to execute arbitrary code on the system by abusing the python/object/new constructor. This flaw is due to an incomplete fix for CVE-2020-1747.| 
 | 20210723T12:44:28Z | CVE-2021-1675 | C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527 | https://github.com/cube0x0/CVE-2021-1675 | | 
-| 20210723T12:23:45Z | CVE-2020-23934 | Python Implementation of CVE-2020-23934 | https://github.com/zyeinn/CVE-2020-23934 | An issue was discovered in RiteCMS 2.2.1. An authenticated user can directly execute system commands by uploading a php web shell in the %Filemanager% section.| 
+| 20210723T12:23:45Z | CVE-2020-23934 | Python Implementation of CVE-2020-23934 | https://github.com/zyeinn/CVE-2020-23934 | | 
 
 
 # klee on Github 推荐
@@ -91,31 +91,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210724T01:54:00Z | PS4 Exploit 7.55 (Add additional cleanup spray after the exploit) | https://github.com/Buzbee/Buzbee3 | 0 | 0| 
-| 20210724T01:03:09Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 28 | 14| 
-| 20210724T00:52:02Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 17 | 12| 
-| 20210724T00:06:06Z | Null | https://github.com/jwardsmith/Active-Directory-Exploitation | 1 | 0| 
-| 20210724T00:03:15Z | Null | https://github.com/HarrysExploit/Harrys-exploit-api-v2 | 0 | 0| 
-| 20210723T23:23:47Z | An automated, modular cryptanalysis tool; i.e., a Weapon of Math Destruction | https://github.com/nccgroup/featherduster | 897 | 129| 
-| 20210723T23:20:49Z | Exploit Analysis of The WhatsApp Double-Free Vulnerability (CVE-2019-11932) Using the GEF-GDB Debugger | https://github.com/k3vinlusec/WhatsApp-Double-Free-Vulnerability_CVE-2019-11932 | 0 | 0| 
-| 20210723T23:11:51Z | Null | https://github.com/dfclin073/exploits | 0 | 0| 
-| 20210723T22:48:39Z | Meu exploit automatizado(recebe uma wordlist) faz o check se o host é vulneravel e exploita, codado em php para apache nifi | https://github.com/KnC0x00/ExploitApacheNIFI | 1 | 0| 
-| 20210723T22:35:17Z | Binary exploits presented in web app | https://github.com/Pen-Test3rs/binary_exploits_examples | 0 | 0| 
+| 20210724T11:03:58Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 3822 | 551| 
+| 20210724T11:02:55Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 14| 
+| 20210724T10:57:56Z | Exploit Code | https://github.com/wjddnjs33/Exploit | 0 | 0| 
+| 20210724T10:47:07Z | RomBuster is a router exploitation tool that allows to disclosure network router admin password. | https://github.com/EntySec/RomBuster | 94 | 22| 
+| 20210724T10:05:14Z | Binary exploits presented in web app | https://github.com/Pen-Test3rs/binary_exploits_examples | 0 | 0| 
+| 20210724T09:30:09Z | Exploit scripts for HD Admin. Meant to be private for my Discord Server, but if you found them, Enjoy i guess. | https://github.com/arcsyi/HDXploit | 0 | 0| 
+| 20210724T08:33:39Z | Collection of exploits, mainly to see where I%m at. | https://github.com/Crystalware/HEVD-Exploits | 1 | 0| 
+| 20210724T08:18:47Z | Pytorch implementation of paper: Model Inversion Attacks that Exploit Confidence Information and Basic Countermeasures | https://github.com/zhangzp9970/MIA | 0 | 0| 
+| 20210724T06:31:37Z | Domain Engineer or Domaineer is Semi-Auto Bot to gaining data from domains | https://github.com/EtcAug10/Domaineer | 1 | 2| 
+| 20210724T05:59:48Z | Null | https://github.com/HarrysExploit/Harrys-exploit-api-v2 | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210724T10:02:18Z | CRFL: Certifiably Robust Federated Learning against Backdoor Attacks (ICML 2021) | https://github.com/AI-secure/CRFL | 14 | 0| 
+| 20210724T08:35:35Z | (OOP) a Python based reverse shell backdoor capable of working on both Linux and Windows with special capabilities. | https://github.com/ToxicEnvelope/XSYS-rat | 4 | 2| 
+| 20210724T08:17:07Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1224 | 580| 
+| 20210724T05:00:06Z | A Powerfull Windows Ransomware with a Fully Undetectable Persistent Backdoor , System Halt Attack etc | https://github.com/M4xSec/curse2death | 5 | 1| 
 | 20210723T23:39:04Z | :rocket: Simple Backdoor writted in  Python  | https://github.com/anonik9900/BackFucker | 0 | 0| 
 | 20210723T21:16:35Z | You have a Front Door, a Backdoor, why not a SideD00r... | https://github.com/Aaron-Akhtar/SideD00r | 0 | 0| 
 | 20210723T20:23:58Z | This is a reverse shell coded in Python, similar to my C backdoor, but doesn%t allow for persistence and just allows command prompt commands. | https://github.com/Calastrophe/Reverse-Shell | 0 | 0| 
 | 20210723T19:14:06Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 88 | 15| 
 | 20210723T18:18:49Z | A module-based repository for testing and evaluating backdoor attacks and defenses. | https://github.com/SewoongLab/backdoor-suite | 1 | 0| 
 | 20210723T18:01:40Z | Implementation of a native-code HatSploit membrane for unix-like systems, designed for portability, embeddability, and low resource utilization. | https://github.com/EntySec/membrane | 6 | 3| 
-| 20210723T18:01:24Z | Paranoid is a web interface and dashboard, configured for managing HatSploit sessions via built-in REST API. | https://github.com/EntySec/Paranoid | 2 | 0| 
-| 20210723T17:58:52Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1222 | 580| 
-| 20210723T17:07:44Z | Null | https://github.com/FierzaEriez/Mini-Shell-Backdoor | 1 | 1| 
-| 20210723T14:59:39Z | [ENG] A small exploit-library using the HIkvision-backdoor exploit. [DE] Kleine Python-Scripte, um die Backdoor in Hikvision-Kameras auszunutzen. | https://github.com/MatrixEditor/hikvision-sdk-cam | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -136,6 +136,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210724T08:23:33Z | SAGE: Steering the Adversarial Generation of Examples with Accelerations | https://github.com/NDSSSAGE/NDSS_SAGE | 0 | 0| 
 | 20210723T14:58:47Z | Original implementation of FlowPrint as in the NDSS %20 paper | https://github.com/Thijsvanede/FlowPrint | 51 | 18| 
 | 20210723T14:58:42Z | Code for the paper %FlowLens: Enabling Efficient Flow Classification for ML-based Network Security Applications% [NDSS %21] | https://github.com/dmbb/FlowLens | 6 | 1| 
 | 20210714T18:32:46Z | A penetration testing tool for finding file upload bugs (NDSS 2020) | https://github.com/WSP-LAB/FUSE | 158 | 37| 
@@ -147,16 +148,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210724T01:42:47Z | Null | https://github.com/Sam-damn/Fuzzy-Clustering | 0 | 0| 
-| 20210724T01:38:34Z | A small application to extract @Route annotations from PHP code and generate a Swagger / OpenAPI specification after that | https://github.com/JuKu/php-route-extractor-fuzzer | 0 | 0| 
-| 20210724T01:32:57Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210724T01:28:44Z | Null | https://github.com/joseffaghihi/Causal-fuzzy-CEVAE | 1 | 1| 
-| 20210724T01:27:58Z | Null | https://github.com/lzhfromustc/goFuzz | 0 | 0| 
-| 20210724T00:21:24Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6505 | 1320| 
-| 20210723T23:00:33Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
-| 20210723T22:31:30Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
-| 20210723T21:32:17Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1918 | 383| 
-| 20210723T21:14:18Z | Emulation based snapshot fuzzer | https://github.com/jaoeul/gingersnap | 0 | 0| 
+| 20210724T11:32:17Z | Null | https://github.com/Nourollah/FuzzySample | 0 | 0| 
+| 20210724T11:30:22Z | Null | https://github.com/Healer-fuzz/healer-fuzz | 0 | 0| 
+| 20210724T11:14:37Z | Null | https://github.com/kunal262000/WASHING-MACHINE-CONTROLLER-USING-FUZZY-LOGIC | 0 | 0| 
+| 20210724T11:05:42Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
+| 20210724T10:36:42Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20210724T10:13:27Z | Null | https://github.com/JohenanLi/AggregateFuzzing | 0 | 0| 
+| 20210724T09:45:41Z | This is implementation of lambda cut for a set and for matrices by Akshay Yadav | https://github.com/Akshay646/Fuzzy-sets-Lambda-cut | 0 | 0| 
+| 20210724T09:39:51Z | This is implementation of Max-min and Max-product Composition on fuzzy sets by Akshay Yadav | https://github.com/Akshay646/Fuzzy-sets-Max-min-and-max-product-Composition | 0 | 0| 
+| 20210724T09:33:30Z | This is implementation of De Morgan%s Law on Fuzzy sets by Akshay Yadav | https://github.com/Akshay646/Fuzzy-sets-De-Morgan-s-Law | 0 | 0| 
+| 20210724T09:27:25Z | This is Implementation of Algebraic sum and Algebraic product of fuzzy sets by Akshay Yadav | https://github.com/Akshay646/Fuzzy-sets-Algebraic-sum--Algebraic-Product | 0 | 0| 
 
 
 
