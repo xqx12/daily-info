@@ -78,7 +78,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210724T11:32:17Z | Null | https://github.com/Nourollah/FuzzySample | 0 | 0| 
+| 20210724T12:05:09Z | Null | https://github.com/Nourollah/FuzzySample | 0 | 0| 
 | 20210724T11:30:22Z | Null | https://github.com/Healer-fuzz/healer-fuzz | 0 | 0| 
 | 20210724T11:14:37Z | Null | https://github.com/kunal262000/WASHING-MACHINE-CONTROLLER-USING-FUZZY-LOGIC | 0 | 0| 
 | 20210724T11:05:42Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
