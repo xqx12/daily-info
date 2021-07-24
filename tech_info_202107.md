@@ -148,9 +148,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210724T12:56:27Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
 | 20210724T12:51:06Z | Null | https://github.com/Healer-fuzz/healer-fuzz | 0 | 0| 
 | 20210724T12:42:29Z | Null | https://github.com/AlexWh1te/fuzzy-barnacle | 0 | 0| 
-| 20210724T12:42:19Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
 | 20210724T12:15:14Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 19 | 8| 
 | 20210724T12:05:09Z | Null | https://github.com/Nourollah/FuzzySample | 0 | 0| 
 | 20210724T11:14:37Z | Null | https://github.com/kunal262000/WASHING-MACHINE-CONTROLLER-USING-FUZZY-LOGIC | 0 | 0| 
