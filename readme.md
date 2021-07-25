@@ -11,13 +11,15 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210725 | 安全领域下的机器学习注意事项 | https://mp.weixin.qq.com/s/bgy8aeQbrAzS2FA8zKn6Fg| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210725T12:29:06Z | CVE-2021-36934 | C# PoC for CVE-2021-36934/HiveNightmare/SeriousSAM | https://github.com/cube0x0/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
-| 20210725T07:41:52Z | CVE-2020-35846 | Python PoC for CVE-2020-35846 targeting Cockpit 0.11.1 | https://github.com/JohnHammond/CVE-2020-35846 | | 
+| 20210725T12:55:49Z | CVE-2021-36934 | C# PoC for CVE-2021-36934/HiveNightmare/SeriousSAM | https://github.com/cube0x0/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
+| 20210725T12:41:44Z | CVE-2021-88888 | Null | https://github.com/NHPT/CVE-2021-88888 | 未查询到CVE信息| 
+| 20210725T07:41:52Z | CVE-2020-35846 | Python PoC for CVE-2020-35846 targeting Cockpit 0.11.1 | https://github.com/JohnHammond/CVE-2020-35846 | Agentejo Cockpit before 0.11.2 allows NoSQL injection via the Controller/Auth.php check function.| 
 
 
 # klee on Github 推荐
@@ -34,16 +36,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210725T12:59:37Z | DebugSploit Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. DebugSploit Framework gives you the power and convenience of remote Android device administration. | https://github.com/G00Dway/DebugSploit | 2 | 0| 
+| 20210725T12:54:56Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 18 | 4| 
+| 20210725T12:48:22Z | block game military grade radar | https://github.com/nerdsinspace/nocom-explanation | 73 | 7| 
+| 20210725T12:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9769 | 1612| 
 | 20210725T12:20:58Z | Excercises on memory exploits in C | https://github.com/ro-per/Memory_Exploits_in_C | 1 | 0| 
-| 20210725T12:15:38Z | block game military grade radar | https://github.com/nerdsinspace/nocom-explanation | 72 | 7| 
 | 20210725T12:02:58Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 14| 
 | 20210725T11:49:00Z | Educational web application demonstrating techniques of binary exploitation - (Back-end) | https://github.com/Pen-Test3rs/binary_exploits_backend | 0 | 0| 
 | 20210725T11:47:20Z | Roblox exploit I decided to release. | https://github.com/georgewoodall82/GoodSk8r | 0 | 0| 
 | 20210725T11:45:43Z | Null | https://github.com/NHPT/CVE-Exploit-Script | 4 | 0| 
 | 20210725T11:44:16Z | I found a way to exploit the rotation minecraft applies to certain Blocks to reconstruct coordinates from them | https://github.com/DerBejijing/BlockRotationExploit | 2 | 0| 
-| 20210725T11:40:44Z | Null | https://github.com/4RG0S/2021-Summer-Some-Day-Exploit | 0 | 0| 
-| 20210725T11:22:17Z | Null | https://github.com/TheCrazzXz/Exploits-Lab | 0 | 0| 
-| 20210725T11:15:33Z | ATS Bouquet is strategically located at a very important location which is just adjacent to the Noida Expressway in Noida Sector 132. Where you can get easy access to many IT companies and metro avenues, highways and domestic societies. The workspace is visible from far away and as a result is easy to reach with minimal herbal interruption. It is just a 10-minute drive to Delhi and Greater Noida.   ATS Best Interactive Surroundings   Employees and officers working in ATS Commercial Projects Noida sector 132 will never feel that they are at workplace. The environment is consistently intimate and soothing. Every little element has been considered to provide an environment that allows everyone to have compelling productivity while at work.   ATS Bouquet Social Responsibility   The makers of ATS Bouquet Noida have taken remarkable hobby in making sure that the job area has eco-friendly bits and ambitions at sustainable improvement without exploiting the available resources. If you%re seeking out a place of business that has excellent infrastructure, green surroundings and all the present-day offerings, then Anthurium Digital Administrative Center is the one prevents technique to all your wishes. With all the advantages of getting an expert workplace in Noida, your funding and expectancies couldn%t get better price anywhere else. More information visits my site: - https://www.noidacommercial.com/label/ats-bouquet/     | https://github.com/dkummkm120/Ats-Bouquet-Commercial-Project-Sector-132 | 0 | 0| 
 
 
 # backdoor on Github 推荐

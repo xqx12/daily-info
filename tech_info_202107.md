@@ -31,6 +31,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210725 | 安全领域下的机器学习注意事项 | https://mp.weixin.qq.com/s/bgy8aeQbrAzS2FA8zKn6Fg| 
 | 20210724 | Palantir 大数据能力分析研究（下篇） | https://mp.weixin.qq.com/s/NUZX8RCIQ9PUCOqyynkU9g| 
 | 20210724 | 经典中间人攻击教学案例-吃瓜吴某帆事件 | https://mp.weixin.qq.com/s/Z0OM-OCHOU68c8IbfpPmrg| 
 | 20210724 | 万物互联时代的API安全探索 | https://static.cdxy.me/starcross_api_intelligence_product_launch.pdf| 
@@ -40,28 +41,27 @@
 | 20210724 | 越权漏洞治理实践（自动检测部分IDOR） | https://mp.weixin.qq.com/s/GG8cdvpYoGVs4l-G_YvSag| 
 | 20210724 | 浅析利用虚拟货币洗钱 | https://mp.weixin.qq.com/s/hoXNYkaOF4SWNzK4W8l-8w| 
 | 20210724 | 基于DevSecOps理念的安全运营 | https://v.qq.com/x/page/w32574uhn66.html| 
-| 20210723 | 记一次促销活动中的业务安全对抗 | https://mp.weixin.qq.com/s/wX8Yo4YGTudRyft32HEeug| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210725T01:01:11Z | CVE-2021-36934 | C# PoC for CVE-2021-36934/HiveNightmare/SeriousSAM | https://github.com/cube0x0/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
+| 20210725T12:55:49Z | CVE-2021-36934 | C# PoC for CVE-2021-36934/HiveNightmare/SeriousSAM | https://github.com/cube0x0/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
+| 20210725T12:41:44Z | CVE-2021-88888 | Null | https://github.com/NHPT/CVE-2021-88888 | 未查询到CVE信息| 
+| 20210725T07:41:52Z | CVE-2020-35846 | Python PoC for CVE-2020-35846 targeting Cockpit 0.11.1 | https://github.com/JohnHammond/CVE-2020-35846 | Agentejo Cockpit before 0.11.2 allows NoSQL injection via the Controller/Auth.php check function.| 
 | 20210724T12:33:56Z | CVE-2020-14409 | PoC for exploiting CVE-2020-14409 : SDL (Simple DirectMedia Layer) through 2.0.12 has an Integer Overflow (and resultant SDL_memcpy heap corruption) in SDL_BlitCopy in video/SDL_blit_copy.c via a crafted .BMP file. | https://github.com/AlAIAL90/CVE-2020-14409 | SDL (Simple DirectMedia Layer) through 2.0.12 has an Integer Overflow (and resultant SDL_memcpy heap corruption) in SDL_BlitCopy in video/SDL_blit_copy.c via a crafted .BMP file.| 
 | 20210724T12:33:50Z | CVE-2020-14410 | PoC for exploiting CVE-2020-14410 : SDL (Simple DirectMedia Layer) through 2.0.12 has a heap-based buffer over-read in Blit_3or4_to_3or4__inversed_rgb in video/SDL_blit_N.c via a crafted .BMP file. | https://github.com/AlAIAL90/CVE-2020-14410 | SDL (Simple DirectMedia Layer) through 2.0.12 has a heap-based buffer over-read in Blit_3or4_to_3or4__inversed_rgb in video/SDL_blit_N.c via a crafted .BMP file.| 
 | 20210724T12:33:44Z | CVE-2020-13959 | PoC for exploiting CVE-2020-13959 : The default error page for VelocityView in Apache Velocity Tools prior to 3.1 reflects back the vm file that was entered as part of the URL. An attacker can set an XSS payload file as this vm file in the URL which results in this payload being executed. XSS vulnerabilities allow attackers to execute arbitrary JavaScript in the context of the attacked website and the attacked user. This can be abused to steal session cookies, perform requests in the name of the victim or for phishing attacks. | https://github.com/AlAIAL90/CVE-2020-13959 | The default error page for VelocityView in Apache Velocity Tools prior to 3.1 reflects back the vm file that was entered as part of the URL. An attacker can set an XSS payload file as this vm file in the URL which results in this payload being executed. XSS vulnerabilities allow attackers to execute arbitrary JavaScript in the context of the attacked website and the attacked user. This can be abused to steal session cookies, perform requests in the name of the victim or for phishing attacks.| 
 | 20210724T12:33:38Z | CVE-2020-13936 | PoC for exploiting CVE-2020-13936 : An attacker that is able to modify Velocity templates may execute arbitrary Java code or run arbitrary system commands with the same privileges as the account running the Servlet container. This applies to applications that allow untrusted users to upload/modify velocity templates running Apache Velocity Engine versions up to 2.2. | https://github.com/AlAIAL90/CVE-2020-13936 | An attacker that is able to modify Velocity templates may execute arbitrary Java code or run arbitrary system commands with the same privileges as the account running the Servlet container. This applies to applications that allow untrusted users to upload/modify velocity templates running Apache Velocity Engine versions up to 2.2.| 
-| 20210724T12:33:32Z | CVE-2020-36277 | PoC for exploiting CVE-2020-36277 : Leptonica before 1.80.0 allows a denial of service (application crash) via an incorrect left shift in pixConvert2To8 in pixconv.c. | https://github.com/AlAIAL90/CVE-2020-36277 | Leptonica before 1.80.0 allows a denial of service (application crash) via an incorrect left shift in pixConvert2To8 in pixconv.c.| 
-| 20210724T12:33:27Z | CVE-2020-36280 | PoC for exploiting CVE-2020-36280 : Leptonica before 1.80.0 allows a heap-based buffer over-read in pixReadFromTiffStream, related to tiffio.c. | https://github.com/AlAIAL90/CVE-2020-36280 | | 
+| 20210724T12:33:32Z | CVE-2020-36277 | PoC for exploiting CVE-2020-36277 : Leptonica before 1.80.0 allows a denial of service (application crash) via an incorrect left shift in pixConvert2To8 in pixconv.c. | https://github.com/AlAIAL90/CVE-2020-36277 | | 
+| 20210724T12:33:27Z | CVE-2020-36280 | PoC for exploiting CVE-2020-36280 : Leptonica before 1.80.0 allows a heap-based buffer over-read in pixReadFromTiffStream, related to tiffio.c. | https://github.com/AlAIAL90/CVE-2020-36280 | Leptonica before 1.80.0 allows a heap-based buffer over-read in pixReadFromTiffStream, related to tiffio.c.| 
 | 20210724T12:33:21Z | CVE-2020-36278 | PoC for exploiting CVE-2020-36278 : Leptonica before 1.80.0 allows a heap-based buffer over-read in findNextBorderPixel in ccbord.c. | https://github.com/AlAIAL90/CVE-2020-36278 | Leptonica before 1.80.0 allows a heap-based buffer over-read in findNextBorderPixel in ccbord.c.| 
-| 20210724T12:33:15Z | CVE-2020-36279 | PoC for exploiting CVE-2020-36279 : Leptonica before 1.80.0 allows a heap-based buffer over-read in rasteropGeneralLow, related to adaptmap_reg.c and adaptmap.c. | https://github.com/AlAIAL90/CVE-2020-36279 | Leptonica before 1.80.0 allows a heap-based buffer over-read in rasteropGeneralLow, related to adaptmap_reg.c and adaptmap.c.| 
-| 20210724T12:33:09Z | CVE-2020-36281 | PoC for exploiting CVE-2020-36281 : Leptonica before 1.80.0 allows a heap-based buffer over-read in pixFewColorsOctcubeQuantMixed in colorquant1.c. | https://github.com/AlAIAL90/CVE-2020-36281 | Leptonica before 1.80.0 allows a heap-based buffer over-read in pixFewColorsOctcubeQuantMixed in colorquant1.c.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210725T01:25:36Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2280 | 54| 
+| 20210725T11:16:15Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2303 | 54| 
 | 20210724T04:22:55Z | Config files for my GitHub profile. | https://github.com/Klee1969/Klee1969 | 0 | 0| 
 | 20210723T19:09:11Z | Null | https://github.com/JaimePSantos/ResearchKlee | 0 | 0| 
 | 20210723T16:55:51Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 143 | 22| 
@@ -91,46 +91,46 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210725T01:59:05Z | Null | https://github.com/HarrysExploit/Harrys-exploit-api-v2 | 0 | 0| 
-| 20210725T01:57:35Z | block game military grade radar | https://github.com/nerdsinspace/nocom-explanation | 42 | 4| 
-| 20210725T01:37:00Z | All of my ROBLOX exploiting scripts (only to be used in an executor) that I%ve posted to V3rmillion. This repo is to just so I can update the script without changing the link. | https://github.com/dragonismcode/robloxscripts | 0 | 0| 
-| 20210725T01:26:07Z | A private Da Hood exploit script | https://github.com/iamtryingtofindname/Artemis | 0 | 0| 
-| 20210725T01:03:16Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 14| 
-| 20210724T23:42:10Z | PS4 Exploit 7.55 (Add additional cleanup spray after the exploit) | https://github.com/Buzbee/Buzbee3 | 0 | 0| 
-| 20210724T22:57:40Z | Null | https://github.com/Mikey108/Xylos-Exploit-gold-admin | 0 | 0| 
-| 20210724T22:17:42Z | A cheat sheet that contains common enumeration and attack methods for Windows Active Directory. | https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet | 1875 | 443| 
-| 20210724T21:50:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9767 | 1611| 
-| 20210724T21:18:17Z | I found a way to exploit the rotation minecraft applies to certain Blocks to reconstruct coordinates from them | https://github.com/DerBejijing/BlockRotationExploit | 0 | 0| 
+| 20210725T12:59:37Z | DebugSploit Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. DebugSploit Framework gives you the power and convenience of remote Android device administration. | https://github.com/G00Dway/DebugSploit | 2 | 0| 
+| 20210725T12:54:56Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 18 | 4| 
+| 20210725T12:48:22Z | block game military grade radar | https://github.com/nerdsinspace/nocom-explanation | 73 | 7| 
+| 20210725T12:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9769 | 1612| 
+| 20210725T12:20:58Z | Excercises on memory exploits in C | https://github.com/ro-per/Memory_Exploits_in_C | 1 | 0| 
+| 20210725T12:02:58Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 14| 
+| 20210725T11:49:00Z | Educational web application demonstrating techniques of binary exploitation - (Back-end) | https://github.com/Pen-Test3rs/binary_exploits_backend | 0 | 0| 
+| 20210725T11:47:20Z | Roblox exploit I decided to release. | https://github.com/georgewoodall82/GoodSk8r | 0 | 0| 
+| 20210725T11:45:43Z | Null | https://github.com/NHPT/CVE-Exploit-Script | 4 | 0| 
+| 20210725T11:44:16Z | I found a way to exploit the rotation minecraft applies to certain Blocks to reconstruct coordinates from them | https://github.com/DerBejijing/BlockRotationExploit | 2 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210725T12:31:40Z | Nuker bot and backdoor for admin perms and such | https://github.com/ESYT2021/discord-bot-backdoor | 0 | 0| 
+| 20210725T12:03:24Z | Null | https://github.com/imran-1453/Backdoor | 0 | 0| 
+| 20210725T11:07:38Z | A Powerfull Windows Ransomware with a Fully Undetectable Persistent Backdoor , System Halt Attack etc | https://github.com/M4xSec/curse2death | 7 | 3| 
+| 20210725T10:06:00Z | Null | https://github.com/SujaBro2000/Create-an-undetectable-backdoor-using-Veil-and-Metasploit-framework-to-bypass-anti-virus-programs-in | 0 | 0| 
+| 20210725T08:43:13Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 267 | 51| 
+| 20210725T03:51:14Z | Null | https://github.com/FierzaEriez/Mini-Shell-Backdoor | 1 | 1| 
 | 20210724T21:07:41Z | Null | https://github.com/kyukazamiqq/backdoor | 0 | 0| 
-| 20210724T20:57:03Z | Nukekr bot and backdoor for admin perms and such | https://github.com/ESYT2021/discord-bot-backdoor | 0 | 0| 
-| 20210724T18:49:44Z | Null | https://github.com/FierzaEriez/Mini-Shell-Backdoor | 1 | 1| 
 | 20210724T15:23:39Z | pybotnet -  Library for building botnet ,backdoor or trojan with Telegram control panel | https://github.com/onionj/pybotnet | 8 | 5| 
 | 20210724T15:19:05Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1225 | 580| 
 | 20210724T14:19:35Z | This tool will create backdoor | https://github.com/krishpranav/Backdoorcreator | 10 | 8| 
-| 20210724T10:02:18Z | CRFL: Certifiably Robust Federated Learning against Backdoor Attacks (ICML 2021) | https://github.com/AI-secure/CRFL | 14 | 0| 
-| 20210724T08:35:35Z | (OOP) a Python based reverse shell backdoor capable of working on both Linux and Windows with special capabilities. | https://github.com/ToxicEnvelope/XSYS-rat | 4 | 2| 
-| 20210724T05:00:06Z | A Powerfull Windows Ransomware with a Fully Undetectable Persistent Backdoor , System Halt Attack etc | https://github.com/M4xSec/curse2death | 5 | 2| 
-| 20210723T23:39:04Z | :rocket: Simple Backdoor writted in  Python  | https://github.com/anonik9900/BackFucker | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210725T08:19:28Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1851 | 388| 
+| 20210725T06:17:16Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 446 | 67| 
+| 20210725T04:43:20Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 15 | 3| 
+| 20210725T03:16:38Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1733 | 498| 
 | 20210725T00:55:43Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 7 | 4| 
-| 20210725T00:09:17Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2394 | 352| 
+| 20210725T00:09:17Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2394 | 353| 
 | 20210724T16:20:18Z | A toy symbolic execution engine, supporting the blog article ... | https://github.com/synacktiv/toy-wasm-symbexp | 1 | 0| 
 | 20210724T15:43:02Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 153 | 33| 
-| 20210724T15:22:37Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 445 | 67| 
 | 20210724T01:54:34Z | SymQEMU: Compilation-based symbolic execution for binaries | https://github.com/eurecom-s3/symqemu | 157 | 20| 
-| 20210724T01:53:33Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1850 | 388| 
 | 20210723T21:08:20Z | A tool for generating nonlinear numerical invariants for C and Java programs.  DIG uses dynamic analysis to infer invariants over program execution traces and applies symbolic execution to inferred invariants. | https://github.com/unsat/dig | 4 | 4| 
-| 20210722T15:23:36Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 14 | 3| 
-| 20210722T11:20:12Z | Monster is a symbolic execution engine for 64-bit RISC-U code | https://github.com/cksystemsgroup/monster | 6 | 3| 
 
 
 # big4 on Github 推荐
@@ -148,16 +148,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210725T01:56:26Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 288 | 39| 
-| 20210725T01:35:24Z | Adversarial Attack input generator using fuzzing methods | https://github.com/EYazdpour/AAGen | 0 | 0| 
-| 20210725T00:24:36Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
-| 20210725T00:08:11Z | a fuzzier graph plotting method | https://github.com/autumnull/fuzzyplot | 0 | 0| 
-| 20210724T23:32:00Z | Tutorials for my youtube page | https://github.com/FuzzySmurf/FuzzyTutorials | 0 | 0| 
-| 20210724T23:17:20Z | Null | https://github.com/MashaSamoylova/fuzz-workshop | 0 | 0| 
-| 20210724T22:50:02Z | Fuzzinator Random Testing Framework | https://github.com/renatahodovan/fuzzinator | 177 | 38| 
-| 20210724T22:31:19Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 5 | 1| 
-| 20210724T22:06:16Z | https://github.com/wcventure/FuzzingPaper | https://github.com/mishmashclone/wcventure-FuzzingPaper | 6 | 1| 
-| 20210724T21:38:30Z | Guitar Pedal | https://github.com/AlSpudnik/The-Fuzz-64 | 0 | 0| 
+| 20210725T11:55:06Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
+| 20210725T11:52:13Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1251 | 224| 
+| 20210725T11:34:53Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2283 | 458| 
+| 20210725T11:24:29Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 6 | 0| 
+| 20210725T11:02:16Z | dev sam | https://github.com/awopejo/fuzzy-potato | 0 | 0| 
+| 20210725T10:52:37Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
+| 20210725T10:28:01Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 5 | 1| 
+| 20210725T09:43:20Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 503 | 48| 
+| 20210725T09:01:42Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20210725T08:55:53Z | Null | https://github.com/coder-yunyi/fuzzy-garbanzo | 0 | 0| 
 
 
 
