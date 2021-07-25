@@ -52,8 +52,8 @@
 | 20210724T12:33:44Z | CVE-2020-13959 | PoC for exploiting CVE-2020-13959 : The default error page for VelocityView in Apache Velocity Tools prior to 3.1 reflects back the vm file that was entered as part of the URL. An attacker can set an XSS payload file as this vm file in the URL which results in this payload being executed. XSS vulnerabilities allow attackers to execute arbitrary JavaScript in the context of the attacked website and the attacked user. This can be abused to steal session cookies, perform requests in the name of the victim or for phishing attacks. | https://github.com/AlAIAL90/CVE-2020-13959 | The default error page for VelocityView in Apache Velocity Tools prior to 3.1 reflects back the vm file that was entered as part of the URL. An attacker can set an XSS payload file as this vm file in the URL which results in this payload being executed. XSS vulnerabilities allow attackers to execute arbitrary JavaScript in the context of the attacked website and the attacked user. This can be abused to steal session cookies, perform requests in the name of the victim or for phishing attacks.| 
 | 20210724T12:33:38Z | CVE-2020-13936 | PoC for exploiting CVE-2020-13936 : An attacker that is able to modify Velocity templates may execute arbitrary Java code or run arbitrary system commands with the same privileges as the account running the Servlet container. This applies to applications that allow untrusted users to upload/modify velocity templates running Apache Velocity Engine versions up to 2.2. | https://github.com/AlAIAL90/CVE-2020-13936 | An attacker that is able to modify Velocity templates may execute arbitrary Java code or run arbitrary system commands with the same privileges as the account running the Servlet container. This applies to applications that allow untrusted users to upload/modify velocity templates running Apache Velocity Engine versions up to 2.2.| 
 | 20210724T12:33:32Z | CVE-2020-36277 | PoC for exploiting CVE-2020-36277 : Leptonica before 1.80.0 allows a denial of service (application crash) via an incorrect left shift in pixConvert2To8 in pixconv.c. | https://github.com/AlAIAL90/CVE-2020-36277 | Leptonica before 1.80.0 allows a denial of service (application crash) via an incorrect left shift in pixConvert2To8 in pixconv.c.| 
-| 20210724T12:33:27Z | CVE-2020-36280 | PoC for exploiting CVE-2020-36280 : Leptonica before 1.80.0 allows a heap-based buffer over-read in pixReadFromTiffStream, related to tiffio.c. | https://github.com/AlAIAL90/CVE-2020-36280 | Leptonica before 1.80.0 allows a heap-based buffer over-read in pixReadFromTiffStream, related to tiffio.c.| 
-| 20210724T12:33:21Z | CVE-2020-36278 | PoC for exploiting CVE-2020-36278 : Leptonica before 1.80.0 allows a heap-based buffer over-read in findNextBorderPixel in ccbord.c. | https://github.com/AlAIAL90/CVE-2020-36278 | | 
+| 20210724T12:33:27Z | CVE-2020-36280 | PoC for exploiting CVE-2020-36280 : Leptonica before 1.80.0 allows a heap-based buffer over-read in pixReadFromTiffStream, related to tiffio.c. | https://github.com/AlAIAL90/CVE-2020-36280 | | 
+| 20210724T12:33:21Z | CVE-2020-36278 | PoC for exploiting CVE-2020-36278 : Leptonica before 1.80.0 allows a heap-based buffer over-read in findNextBorderPixel in ccbord.c. | https://github.com/AlAIAL90/CVE-2020-36278 | Leptonica before 1.80.0 allows a heap-based buffer over-read in findNextBorderPixel in ccbord.c.| 
 | 20210724T12:33:15Z | CVE-2020-36279 | PoC for exploiting CVE-2020-36279 : Leptonica before 1.80.0 allows a heap-based buffer over-read in rasteropGeneralLow, related to adaptmap_reg.c and adaptmap.c. | https://github.com/AlAIAL90/CVE-2020-36279 | Leptonica before 1.80.0 allows a heap-based buffer over-read in rasteropGeneralLow, related to adaptmap_reg.c and adaptmap.c.| 
 | 20210724T12:33:09Z | CVE-2020-36281 | PoC for exploiting CVE-2020-36281 : Leptonica before 1.80.0 allows a heap-based buffer over-read in pixFewColorsOctcubeQuantMixed in colorquant1.c. | https://github.com/AlAIAL90/CVE-2020-36281 | Leptonica before 1.80.0 allows a heap-based buffer over-read in pixFewColorsOctcubeQuantMixed in colorquant1.c.| 
 
@@ -91,7 +91,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210725T01:49:09Z | block game military grade radar | https://github.com/nerdsinspace/nocom-explanation | 41 | 4| 
+| 20210725T01:59:05Z | Null | https://github.com/HarrysExploit/Harrys-exploit-api-v2 | 0 | 0| 
+| 20210725T01:57:35Z | block game military grade radar | https://github.com/nerdsinspace/nocom-explanation | 42 | 4| 
 | 20210725T01:37:00Z | All of my ROBLOX exploiting scripts (only to be used in an executor) that I%ve posted to V3rmillion. This repo is to just so I can update the script without changing the link. | https://github.com/dragonismcode/robloxscripts | 0 | 0| 
 | 20210725T01:26:07Z | A private Da Hood exploit script | https://github.com/iamtryingtofindname/Artemis | 0 | 0| 
 | 20210725T01:03:16Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 14| 
@@ -100,7 +101,6 @@
 | 20210724T22:17:42Z | A cheat sheet that contains common enumeration and attack methods for Windows Active Directory. | https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet | 1875 | 443| 
 | 20210724T21:50:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9767 | 1611| 
 | 20210724T21:18:17Z | I found a way to exploit the rotation minecraft applies to certain Blocks to reconstruct coordinates from them | https://github.com/DerBejijing/BlockRotationExploit | 0 | 0| 
-| 20210724T20:51:28Z | Null | https://github.com/IvarsLevans/Blockchain-Exploitation | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -148,6 +148,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210725T01:56:26Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 288 | 39| 
 | 20210725T01:35:24Z | Adversarial Attack input generator using fuzzing methods | https://github.com/EYazdpour/AAGen | 0 | 0| 
 | 20210725T00:24:36Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210725T00:08:11Z | a fuzzier graph plotting method | https://github.com/autumnull/fuzzyplot | 0 | 0| 
@@ -157,7 +158,6 @@
 | 20210724T22:31:19Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 5 | 1| 
 | 20210724T22:06:16Z | https://github.com/wcventure/FuzzingPaper | https://github.com/mishmashclone/wcventure-FuzzingPaper | 6 | 1| 
 | 20210724T21:38:30Z | Guitar Pedal | https://github.com/AlSpudnik/The-Fuzz-64 | 0 | 0| 
-| 20210724T21:14:54Z | A Codice Fiscale Generator | https://github.com/tonyarris/codice-fuzzcale | 0 | 0| 
 
 
 
