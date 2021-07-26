@@ -36,7 +36,7 @@
 | 20210726T08:30:31Z | CVE-2021-33909 | Exploit code for CVE-2021-33909,Just a dump of removed https://github.com/AmIAHuman/ repo | https://github.com/bbinfosec43/CVE-2021-33909 | fs/seq_file.c in the Linux kernel 3.16 through 5.13.x before 5.13.4 does not properly restrict seq buffer allocations, leading to an integer overflow, an Out-of-bounds Write, and escalation to root by an unprivileged user, aka CID-8cae8cd89f05.| 
 | 20210726T08:18:37Z | CVE-2021-36934 | Null | https://github.com/0x0D1n/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
 | 20210726T07:12:07Z | CVE-2021-3560 | CVE-2021-3560 (Polkit - Local Privilege Escalation) | https://github.com/deathflash1411/CVE-2021-3560 | 未查询到CVE信息| 
-| 20210726T07:11:48Z | CVE-2021-35448 | CVE-2021-35448 (Remote Mouse GUI 3.008 - Local Privilege Escalation) | https://github.com/deathflash1411/CVE-2021-35448 | | 
+| 20210726T07:11:48Z | CVE-2021-35448 | CVE-2021-35448 (Remote Mouse GUI 3.008 - Local Privilege Escalation) | https://github.com/deathflash1411/CVE-2021-35448 | Emote Interactive Remote Mouse 3.008 on Windows allows attackers to execute arbitrary programs as Administrator by using the Image Transfer Folder feature to navigate to cmd.exe. It binds to local ports to listen for incoming connections.| 
 
 
 # klee on Github 推荐
@@ -71,8 +71,9 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210726T12:14:43Z | Null | https://github.com/FierzaEriez/Mini-Shell-Backdoor | 1 | 1| 
+| 20210726T12:13:22Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 269 | 51| 
 | 20210726T12:02:53Z | Nguontol Shell Backdoor  - Recoded By RzkyO | https://github.com/RzkyO/Nguontol-Shell | 0 | 0| 
-| 20210726T09:30:48Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 268 | 51| 
 | 20210726T05:32:47Z | Null | https://github.com/Samira-Valifakhr/reverse-backdoor | 0 | 0| 
 
 

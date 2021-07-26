@@ -53,8 +53,8 @@
 | 20210726T08:30:31Z | CVE-2021-33909 | Exploit code for CVE-2021-33909,Just a dump of removed https://github.com/AmIAHuman/ repo | https://github.com/bbinfosec43/CVE-2021-33909 | fs/seq_file.c in the Linux kernel 3.16 through 5.13.x before 5.13.4 does not properly restrict seq buffer allocations, leading to an integer overflow, an Out-of-bounds Write, and escalation to root by an unprivileged user, aka CID-8cae8cd89f05.| 
 | 20210726T08:18:37Z | CVE-2021-36934 | Null | https://github.com/0x0D1n/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
 | 20210726T07:12:07Z | CVE-2021-3560 | CVE-2021-3560 (Polkit - Local Privilege Escalation) | https://github.com/deathflash1411/CVE-2021-3560 | 未查询到CVE信息| 
-| 20210726T07:11:48Z | CVE-2021-35448 | CVE-2021-35448 (Remote Mouse GUI 3.008 - Local Privilege Escalation) | https://github.com/deathflash1411/CVE-2021-35448 | | 
-| 20210725T23:01:26Z | CVE-2021-3156 | Null | https://github.com/dock0d1/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210726T07:11:48Z | CVE-2021-35448 | CVE-2021-35448 (Remote Mouse GUI 3.008 - Local Privilege Escalation) | https://github.com/deathflash1411/CVE-2021-35448 | Emote Interactive Remote Mouse 3.008 on Windows allows attackers to execute arbitrary programs as Administrator by using the Image Transfer Folder feature to navigate to cmd.exe. It binds to local ports to listen for incoming connections.| 
+| 20210725T23:01:26Z | CVE-2021-3156 | Null | https://github.com/dock0d1/CVE-2021-3156 | | 
 | 20210725T18:10:18Z | CVE-2021-36934 | This PowerShell script will take the mitigation measures for CVE-2021-36934 described by Microsoft and the US CERT team.  https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-36934 https://kb.cert.org/vuls/id/506989  USE AT YOUR OWN RISK -- BACKUPS MAY BREAK. | https://github.com/jmaddington/Serious-Sam---CVE-2021-36934-Mitigation-for-Datto-RMM | Windows Elevation of Privilege Vulnerability| 
 
 
@@ -106,8 +106,9 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210726T12:14:43Z | Null | https://github.com/FierzaEriez/Mini-Shell-Backdoor | 1 | 1| 
+| 20210726T12:13:22Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 269 | 51| 
 | 20210726T12:02:53Z | Nguontol Shell Backdoor  - Recoded By RzkyO | https://github.com/RzkyO/Nguontol-Shell | 0 | 0| 
-| 20210726T09:30:48Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 268 | 51| 
 | 20210726T05:32:47Z | Null | https://github.com/Samira-Valifakhr/reverse-backdoor | 0 | 0| 
 | 20210725T22:36:28Z | You have a Front Door, a Backdoor, why not a SideD00r... | https://github.com/Aaron-Akhtar/SideD00r | 0 | 0| 
 | 20210725T21:05:04Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1229 | 582| 
@@ -115,7 +116,6 @@
 | 20210725T16:11:21Z | Null | https://github.com/master7720/LeuxBackdoor-0.4-source-code | 0 | 0| 
 | 20210725T15:06:03Z | A simple remote tool written in C#.    一个简单的c#远控 | https://github.com/qwqdanchun/DcRat | 262 | 104| 
 | 20210725T13:30:17Z | Une simple Backdoor, donnant accés à l%ensemble des fichiers d%un ordinateur. | https://github.com/billythegoat356/F0rs4k3n | 20 | 0| 
-| 20210725T12:31:40Z | Nuker bot and backdoor for admin perms and such | https://github.com/ESYT2021/discord-bot-backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
