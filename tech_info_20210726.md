@@ -71,6 +71,9 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210726T12:02:53Z | Nguontol Shell Backdoor  - Recoded By RzkyO | https://github.com/RzkyO/Nguontol-Shell | 0 | 0| 
+| 20210726T09:30:48Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 268 | 51| 
+| 20210726T05:32:47Z | Null | https://github.com/Samira-Valifakhr/reverse-backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐

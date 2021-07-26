@@ -106,6 +106,9 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210726T12:02:53Z | Nguontol Shell Backdoor  - Recoded By RzkyO | https://github.com/RzkyO/Nguontol-Shell | 0 | 0| 
+| 20210726T09:30:48Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 268 | 51| 
+| 20210726T05:32:47Z | Null | https://github.com/Samira-Valifakhr/reverse-backdoor | 0 | 0| 
 | 20210725T22:36:28Z | You have a Front Door, a Backdoor, why not a SideD00r... | https://github.com/Aaron-Akhtar/SideD00r | 0 | 0| 
 | 20210725T21:05:04Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1229 | 582| 
 | 20210725T17:46:33Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 88 | 16| 
@@ -113,9 +116,6 @@
 | 20210725T15:06:03Z | A simple remote tool written in C#.    一个简单的c#远控 | https://github.com/qwqdanchun/DcRat | 262 | 104| 
 | 20210725T13:30:17Z | Une simple Backdoor, donnant accés à l%ensemble des fichiers d%un ordinateur. | https://github.com/billythegoat356/F0rs4k3n | 20 | 0| 
 | 20210725T12:31:40Z | Nuker bot and backdoor for admin perms and such | https://github.com/ESYT2021/discord-bot-backdoor | 0 | 0| 
-| 20210725T12:03:24Z | Null | https://github.com/imran-1453/Backdoor | 0 | 0| 
-| 20210725T11:07:38Z | A Powerfull Windows Ransomware with a Fully Undetectable Persistent Backdoor , System Halt Attack etc | https://github.com/M4xSec/curse2death | 7 | 3| 
-| 20210725T10:06:00Z | Null | https://github.com/SujaBro2000/Create-an-undetectable-backdoor-using-Veil-and-Metasploit-framework-to-bypass-anti-virus-programs-in | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
