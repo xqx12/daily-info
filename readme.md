@@ -90,11 +90,11 @@
 | 20210725T23:37:39Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210725T23:16:30Z | Aplikasi Cek Harga Kos dengan Algoritma Fuzzy Tsukamoto menggunakan framework Laravel | https://github.com/LinggaWahyu/Cek-Harga-Kos-Fuzzy-Tsukamoto-Laravel | 0 | 0| 
 | 20210725T22:34:32Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210725T22:33:23Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1923 | 383| 
 | 20210725T22:27:05Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 504 | 48| 
 | 20210725T22:13:10Z | Null | https://github.com/oluwaferanmiadetunji/fuzzy-lamp | 0 | 0| 
 | 20210725T21:28:19Z | Paint on your screen | https://github.com/Abourass/fuzzy-lamp | 0 | 0| 
 | 20210725T20:42:40Z | Null | https://github.com/lzhfromustc/goFuzz | 0 | 0| 
+| 20210725T20:19:42Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1056 | 81| 
 
 
 
