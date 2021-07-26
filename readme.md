@@ -34,7 +34,7 @@
 | 20210726T10:21:51Z | cve-2021-33909 | This module fixes an issue in the kernels filesystem layer (CVE-2021-33909) by kprobe-replacing vulnerable functions during runtime | https://github.com/baerwolf/cve-2021-33909 | fs/seq_file.c in the Linux kernel 3.16 through 5.13.x before 5.13.4 does not properly restrict seq buffer allocations, leading to an integer overflow, an Out-of-bounds Write, and escalation to root by an unprivileged user, aka CID-8cae8cd89f05.| 
 | 20210726T08:37:39Z | CVE-2021-37152 | Exploit Accsess network clients by sending packets in wirless TP-LINK and preparing for a mitm attack | https://github.com/lhashashinl/CVE-2021-37152 | 未查询到CVE信息| 
 | 20210726T08:30:31Z | CVE-2021-33909 | Exploit code for CVE-2021-33909,Just a dump of removed https://github.com/AmIAHuman/ repo | https://github.com/bbinfosec43/CVE-2021-33909 | fs/seq_file.c in the Linux kernel 3.16 through 5.13.x before 5.13.4 does not properly restrict seq buffer allocations, leading to an integer overflow, an Out-of-bounds Write, and escalation to root by an unprivileged user, aka CID-8cae8cd89f05.| 
-| 20210726T08:18:37Z | CVE-2021-36934 | Null | https://github.com/0x0D1n/CVE-2021-36934 | | 
+| 20210726T08:18:37Z | CVE-2021-36934 | Null | https://github.com/0x0D1n/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
 | 20210726T07:12:07Z | CVE-2021-3560 | CVE-2021-3560 (Polkit - Local Privilege Escalation) | https://github.com/deathflash1411/CVE-2021-3560 | 未查询到CVE信息| 
 | 20210726T07:11:48Z | CVE-2021-35448 | CVE-2021-35448 (Remote Mouse GUI 3.008 - Local Privilege Escalation) | https://github.com/deathflash1411/CVE-2021-35448 | Emote Interactive Remote Mouse 3.008 on Windows allows attackers to execute arbitrary programs as Administrator by using the Image Transfer Folder feature to navigate to cmd.exe. It binds to local ports to listen for incoming connections.| 
 
@@ -94,6 +94,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210726T12:11:17Z | Simple FTP Fuzzer | https://github.com/Craizox/ftp-fuzzer | 0 | 0| 
 | 20210726T12:10:04Z | fuzzy-pancake | https://github.com/pattersonpearson2445/fuzzy-pancake | 0 | 0| 
 | 20210726T11:40:08Z | fuzzy-dollop | https://github.com/lovefox6584/fuzzy-dollop | 0 | 0| 
 | 20210726T11:40:01Z | fuzzy-spoon | https://github.com/jamiealexander4069/fuzzy-spoon | 0 | 0| 
@@ -103,7 +104,6 @@
 | 20210726T11:33:17Z | Null | https://github.com/epsonik/FuzzyDescV2 | 0 | 0| 
 | 20210726T11:31:49Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210726T11:26:51Z | Null | https://github.com/Ajehsudb/fuzzy-spork | 0 | 0| 
-| 20210726T11:22:52Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1251 | 224| 
 
 
 
