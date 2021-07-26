@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210726T12:35:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9770 | 1613| 
 | 20210726T12:29:02Z | From LFI to RCE | https://github.com/iiSiLvEr/Exploiting-PHP_SESSION_UPLOAD_PROGRESS | 0 | 0| 
 | 20210726T12:19:07Z | A Discord bot for collecting statistics about emojis% exploitation in a guild. The bot is currently in alpha and talking in Russian. The English language will be added in the future. | https://github.com/VovaOneReal/TheCollectorOfEmojisStats | 0 | 0| 
 | 20210726T12:11:01Z | Agent-Based Modelling of labour exploitation in textile supply chains | https://github.com/kwabenantim/textile-labour | 1 | 0| 
@@ -100,7 +101,6 @@
 | 20210726T11:38:26Z | iblessing is an iOS security exploiting toolkit, it mainly includes application information collection, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining. | https://github.com/Soulghost/iblessing | 381 | 57| 
 | 20210726T11:22:19Z | DebugSploit Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. DebugSploit Framework gives you the power and convenience of remote Android device administration. | https://github.com/G00Dway/DebugSploit | 2 | 0| 
 | 20210726T11:18:57Z | Progressive Fusion Video Super-Resolution Network via Exploiting Non-Local Spatio-Temporal Correlations | https://github.com/psychopa4/PFNL | 116 | 24| 
-| 20210726T10:12:15Z | Developed a project to exploit the property of a general chatting app like watsapp or telegram using LRU Cache , Linked List, Hash Map in Java script. | https://github.com/Akshay-Srivastava/ChatList-LRU-Cache | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -149,6 +149,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210726T12:35:16Z | Null | https://github.com/ThePatrickStar/fuzzer-data-collector | 12 | 1| 
 | 20210726T12:32:57Z | Null | https://github.com/oluwaferanmiadetunji/fuzzy-lamp | 0 | 0| 
 | 20210726T12:31:43Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1251 | 224| 
 | 20210726T12:26:28Z | Simple FTP Fuzzer | https://github.com/Craizox/ftp-fuzzer | 0 | 0| 
@@ -158,7 +159,6 @@
 | 20210726T12:11:41Z | Null | https://github.com/Ajehsudb/fuzzy-spork | 0 | 0| 
 | 20210726T12:10:04Z | fuzzy-pancake | https://github.com/pattersonpearson2445/fuzzy-pancake | 0 | 0| 
 | 20210726T11:40:08Z | fuzzy-dollop | https://github.com/lovefox6584/fuzzy-dollop | 0 | 0| 
-| 20210726T11:40:01Z | fuzzy-spoon | https://github.com/jamiealexander4069/fuzzy-spoon | 0 | 0| 
 
 
 
