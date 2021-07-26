@@ -149,16 +149,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210726T01:46:58Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1924 | 383| 
-| 20210726T01:34:54Z | Generates a regular expression for %Romaji Fuzzy Search% | https://github.com/kjirou/romaji-fuzzy-search | 0 | 0| 
-| 20210726T01:30:58Z | Tutorials for my youtube page | https://github.com/FuzzySmurf/FuzzyTutorials | 0 | 0| 
-| 20210726T00:25:11Z | Hack akun | https://github.com/Nanavim/fuzzy-octo-succotash | 1 | 0| 
-| 20210726T00:16:23Z | Null | https://github.com/andianiputri/Fuzzy-Logic | 1 | 0| 
-| 20210725T23:48:44Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6506 | 1320| 
-| 20210725T23:43:49Z | Null | https://github.com/mmj50055/fuzzy-robot | 0 | 0| 
-| 20210725T23:37:39Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
-| 20210725T23:16:30Z | Aplikasi Cek Harga Kos dengan Algoritma Fuzzy Tsukamoto menggunakan framework Laravel | https://github.com/LinggaWahyu/Cek-Harga-Kos-Fuzzy-Tsukamoto-Laravel | 0 | 0| 
-| 20210725T22:34:32Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20210726T11:40:08Z | fuzzy-dollop | https://github.com/lovefox6584/fuzzy-dollop | 0 | 0| 
+| 20210726T11:40:01Z | fuzzy-spoon | https://github.com/jamiealexander4069/fuzzy-spoon | 0 | 0| 
+| 20210726T11:39:17Z | fuzzy-invention | https://github.com/phillipsjay6207/fuzzy-invention | 0 | 0| 
+| 20210726T11:35:25Z | HI | https://github.com/mgundagani/fuzzy-chainsaw | 0 | 0| 
+| 20210726T11:34:45Z | Official Tensorflow implementation of %Choquet Integral and Coalition Game-based Ensemble of Deep Learning Models for COVID-19 Screening from Chest X-ray Images% | https://github.com/subhankar01/Covid-Chestxray-lambda-fuzzy | 1 | 2| 
+| 20210726T11:33:17Z | Null | https://github.com/epsonik/FuzzyDescV2 | 0 | 0| 
+| 20210726T11:31:49Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20210726T11:26:51Z | Null | https://github.com/Ajehsudb/fuzzy-spork | 0 | 0| 
+| 20210726T11:22:52Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1251 | 224| 
+| 20210726T11:14:36Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 
 
 
