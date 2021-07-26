@@ -149,6 +149,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210726T12:11:41Z | Null | https://github.com/Ajehsudb/fuzzy-spork | 0 | 0| 
 | 20210726T12:11:17Z | Simple FTP Fuzzer | https://github.com/Craizox/ftp-fuzzer | 0 | 0| 
 | 20210726T12:10:04Z | fuzzy-pancake | https://github.com/pattersonpearson2445/fuzzy-pancake | 0 | 0| 
 | 20210726T11:40:08Z | fuzzy-dollop | https://github.com/lovefox6584/fuzzy-dollop | 0 | 0| 
@@ -158,7 +159,6 @@
 | 20210726T11:34:45Z | Official Tensorflow implementation of %Choquet Integral and Coalition Game-based Ensemble of Deep Learning Models for COVID-19 Screening from Chest X-ray Images% | https://github.com/subhankar01/Covid-Chestxray-lambda-fuzzy | 1 | 2| 
 | 20210726T11:33:17Z | Null | https://github.com/epsonik/FuzzyDescV2 | 0 | 0| 
 | 20210726T11:31:49Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210726T11:26:51Z | Null | https://github.com/Ajehsudb/fuzzy-spork | 0 | 0| 
 
 
 
