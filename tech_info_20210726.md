@@ -56,6 +56,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210726T12:19:07Z | A Discord bot for collecting statistics about emojis% exploitation in a guild. The bot is currently in alpha and talking in Russian. The English language will be added in the future. | https://github.com/VovaOneReal/TheCollectorOfEmojisStats | 0 | 0| 
 | 20210726T12:11:01Z | Agent-Based Modelling of labour exploitation in textile supply chains | https://github.com/kwabenantim/textile-labour | 1 | 0| 
 | 20210726T12:07:17Z | Similar to the other binary exploitation exploits lab, but this time for web, exploiting with python ! | https://github.com/TheCrazzXz/Webexploits-Lab | 0 | 0| 
 | 20210726T12:03:19Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 14| 
@@ -65,7 +66,6 @@
 | 20210726T11:18:57Z | Progressive Fusion Video Super-Resolution Network via Exploiting Non-Local Spatio-Temporal Correlations | https://github.com/psychopa4/PFNL | 116 | 24| 
 | 20210726T10:12:15Z | Developed a project to exploit the property of a general chatting app like watsapp or telegram using LRU Cache , Linked List, Hash Map in Java script. | https://github.com/Akshay-Srivastava/ChatList-LRU-Cache | 0 | 0| 
 | 20210726T09:26:09Z | Exploits for roblox. Made by me. | https://github.com/MrMyth152346/Roblox-Exploits | 2 | 0| 
-| 20210726T09:23:04Z | E3C is a freely available multilingual corpus (Italian, English, French, Spanish, and Basque) of semantically annotated clinical narratives to allow for the linguistic analysis, benchmarking, and training of information extraction systems. It consists of two types of annotations: (i) clinical entities: pathologies, symptoms, procedures, body parts, etc., according to standard clinical taxonomies (i.e. SNOMED-CT, ICD-10); and (ii) temporal information and factuality: events, time expressions, and temporal relations according to the THYME standard. The corpus is organised into three layers, with different purposes. Layer 1: about 25K tokens per language with full manual annotation of clinical entities, temporal information and factuality, for benchmarkingand linguistic analysis. Layer 2: 50-100K tokens per language with semi-automatic annotations of clinical entities, to be used to train baseline systems. Layer 3: about 1M tokens per language of non-annotated medical documents to be exploited by semi-supervised approaches. Researchers can use the benchmark training and test splits of our corpus to develop and test their own models. We trained several deep learning based models and provide baselines using the benchmark. Both the corpus and the built models will be available through the ELG platform.  | https://github.com/hltfbk/E3C-Corpus | 0 | 1| 
 
 
 # backdoor on Github 推荐
