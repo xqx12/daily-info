@@ -95,6 +95,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210726T12:58:29Z | this projects holds controllers for a self driving car in unity C# that uses the Fuzzy logic concepts to control the steering and the speed of the car | https://github.com/MuhammadNsearaty/Fuzzy-self-driving-car | 0 | 0| 
 | 20210726T12:39:45Z | Null | https://github.com/oluwaferanmiadetunji/fuzzy-lamp | 0 | 0| 
 | 20210726T12:35:16Z | Null | https://github.com/ThePatrickStar/fuzzer-data-collector | 12 | 1| 
 | 20210726T12:31:43Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1251 | 224| 
@@ -104,7 +105,6 @@
 | 20210726T12:18:57Z | Effortlessly fuzz libraries with large API surfaces | https://github.com/rust-fuzz/auto-fuzz-test | 57 | 5| 
 | 20210726T12:11:41Z | Null | https://github.com/Ajehsudb/fuzzy-spork | 0 | 0| 
 | 20210726T12:10:04Z | fuzzy-pancake | https://github.com/pattersonpearson2445/fuzzy-pancake | 0 | 0| 
-| 20210726T11:40:08Z | fuzzy-dollop | https://github.com/lovefox6584/fuzzy-dollop | 0 | 0| 
 
 
 
