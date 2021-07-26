@@ -49,13 +49,13 @@
 | 20210726T11:42:26Z | CVE-2020-35846 | Python PoC for CVE-2020-35846 targeting Cockpit 0.11.1 | https://github.com/JohnHammond/CVE-2020-35846 | Agentejo Cockpit before 0.11.2 allows NoSQL injection via the Controller/Auth.php check function.| 
 | 20210726T10:43:42Z | CVE-2021-36934 | C# PoC for CVE-2021-36934/HiveNightmare/SeriousSAM | https://github.com/cube0x0/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
 | 20210726T10:21:51Z | cve-2021-33909 | This module fixes an issue in the kernels filesystem layer (CVE-2021-33909) by kprobe-replacing vulnerable functions during runtime | https://github.com/baerwolf/cve-2021-33909 | fs/seq_file.c in the Linux kernel 3.16 through 5.13.x before 5.13.4 does not properly restrict seq buffer allocations, leading to an integer overflow, an Out-of-bounds Write, and escalation to root by an unprivileged user, aka CID-8cae8cd89f05.| 
-| 20210726T08:37:39Z | CVE-2021-37152 | Exploit Accsess network clients by sending packets in wirless TP-LINK and preparing for a mitm attack | https://github.com/lhashashinl/CVE-2021-37152 | 未查询到CVE信息| 
-| 20210726T08:30:31Z | CVE-2021-33909 | Exploit code for CVE-2021-33909,Just a dump of removed https://github.com/AmIAHuman/ repo | https://github.com/bbinfosec43/CVE-2021-33909 | fs/seq_file.c in the Linux kernel 3.16 through 5.13.x before 5.13.4 does not properly restrict seq buffer allocations, leading to an integer overflow, an Out-of-bounds Write, and escalation to root by an unprivileged user, aka CID-8cae8cd89f05.| 
+| 20210726T08:37:39Z | CVE-2021-37152 | Exploit Accsess network clients by sending packets in wirless TP-LINK and preparing for a mitm attack | https://github.com/lhashashinl/CVE-2021-37152 | | 
+| 20210726T08:30:31Z | CVE-2021-33909 | Exploit code for CVE-2021-33909,Just a dump of removed https://github.com/AmIAHuman/ repo | https://github.com/bbinfosec43/CVE-2021-33909 | | 
 | 20210726T08:18:37Z | CVE-2021-36934 | Null | https://github.com/0x0D1n/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
 | 20210726T07:12:07Z | CVE-2021-3560 | CVE-2021-3560 (Polkit - Local Privilege Escalation) | https://github.com/deathflash1411/CVE-2021-3560 | 未查询到CVE信息| 
 | 20210726T07:11:48Z | CVE-2021-35448 | CVE-2021-35448 (Remote Mouse GUI 3.008 - Local Privilege Escalation) | https://github.com/deathflash1411/CVE-2021-35448 | Emote Interactive Remote Mouse 3.008 on Windows allows attackers to execute arbitrary programs as Administrator by using the Image Transfer Folder feature to navigate to cmd.exe. It binds to local ports to listen for incoming connections.| 
 | 20210725T23:01:26Z | CVE-2021-3156 | Null | https://github.com/dock0d1/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210725T18:10:18Z | CVE-2021-36934 | This PowerShell script will take the mitigation measures for CVE-2021-36934 described by Microsoft and the US CERT team.  https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-36934 https://kb.cert.org/vuls/id/506989  USE AT YOUR OWN RISK -- BACKUPS MAY BREAK. | https://github.com/jmaddington/Serious-Sam---CVE-2021-36934-Mitigation-for-Datto-RMM | | 
+| 20210725T18:10:18Z | CVE-2021-36934 | This PowerShell script will take the mitigation measures for CVE-2021-36934 described by Microsoft and the US CERT team.  https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-36934 https://kb.cert.org/vuls/id/506989  USE AT YOUR OWN RISK -- BACKUPS MAY BREAK. | https://github.com/jmaddington/Serious-Sam---CVE-2021-36934-Mitigation-for-Datto-RMM | Windows Elevation of Privilege Vulnerability| 
 
 
 # klee on Github 推荐
@@ -149,11 +149,11 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210726T12:26:28Z | Simple FTP Fuzzer | https://github.com/Craizox/ftp-fuzzer | 0 | 0| 
 | 20210726T12:25:05Z | fuzzy-telegram | https://github.com/owendawson4133/fuzzy-telegram | 0 | 0| 
 | 20210726T12:24:41Z | HI | https://github.com/mgundagani/fuzzy-chainsaw | 0 | 0| 
 | 20210726T12:18:57Z | Effortlessly fuzz libraries with large API surfaces | https://github.com/rust-fuzz/auto-fuzz-test | 57 | 5| 
 | 20210726T12:11:41Z | Null | https://github.com/Ajehsudb/fuzzy-spork | 0 | 0| 
-| 20210726T12:11:17Z | Simple FTP Fuzzer | https://github.com/Craizox/ftp-fuzzer | 0 | 0| 
 | 20210726T12:10:04Z | fuzzy-pancake | https://github.com/pattersonpearson2445/fuzzy-pancake | 0 | 0| 
 | 20210726T11:40:08Z | fuzzy-dollop | https://github.com/lovefox6584/fuzzy-dollop | 0 | 0| 
 | 20210726T11:40:01Z | fuzzy-spoon | https://github.com/jamiealexander4069/fuzzy-spoon | 0 | 0| 
