@@ -54,8 +54,8 @@
 | 20210726T08:18:37Z | CVE-2021-36934 | Null | https://github.com/0x0D1n/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
 | 20210726T07:12:07Z | CVE-2021-3560 | CVE-2021-3560 (Polkit - Local Privilege Escalation) | https://github.com/deathflash1411/CVE-2021-3560 | 未查询到CVE信息| 
 | 20210726T07:11:48Z | CVE-2021-35448 | CVE-2021-35448 (Remote Mouse GUI 3.008 - Local Privilege Escalation) | https://github.com/deathflash1411/CVE-2021-35448 | Emote Interactive Remote Mouse 3.008 on Windows allows attackers to execute arbitrary programs as Administrator by using the Image Transfer Folder feature to navigate to cmd.exe. It binds to local ports to listen for incoming connections.| 
-| 20210725T23:01:26Z | CVE-2021-3156 | Null | https://github.com/dock0d1/CVE-2021-3156 | | 
-| 20210725T18:10:18Z | CVE-2021-36934 | This PowerShell script will take the mitigation measures for CVE-2021-36934 described by Microsoft and the US CERT team.  https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-36934 https://kb.cert.org/vuls/id/506989  USE AT YOUR OWN RISK -- BACKUPS MAY BREAK. | https://github.com/jmaddington/Serious-Sam---CVE-2021-36934-Mitigation-for-Datto-RMM | | 
+| 20210725T23:01:26Z | CVE-2021-3156 | Null | https://github.com/dock0d1/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210725T18:10:18Z | CVE-2021-36934 | This PowerShell script will take the mitigation measures for CVE-2021-36934 described by Microsoft and the US CERT team.  https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-36934 https://kb.cert.org/vuls/id/506989  USE AT YOUR OWN RISK -- BACKUPS MAY BREAK. | https://github.com/jmaddington/Serious-Sam---CVE-2021-36934-Mitigation-for-Datto-RMM | Windows Elevation of Privilege Vulnerability| 
 
 
 # klee on Github 推荐
