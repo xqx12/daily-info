@@ -28,7 +28,7 @@
 | 20210727T11:49:23Z | CVE-2021-36934 | C# PoC for CVE-2021-36934/HiveNightmare/SeriousSAM | https://github.com/cube0x0/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
 | 20210727T06:56:20Z | CVE-2021-36934 | HiveNightmare aka SeriousSAM  | https://github.com/exploitblizzard/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
 | 20210727T06:07:37Z | CVE-2021-3438 | Proof of concept code for CVE-2021-3438 | https://github.com/Crystalware/CVE-2021-3438 | A potential buffer overflow in the software drivers for certain HP LaserJet products and Samsung product printers could lead to an escalation of privilege.| 
-| 20210727T01:42:41Z | cve-2021-22146 | Null | https://github.com/magichk/cve-2021-22146 | All versions of Elastic Cloud Enterprise has the Elasticsearch “anonymous” user enabled by default in deployed clusters. While in the default setting the anonymous user has no permissions and is unable to successfully query any Elasticsearch APIs, an attacker could leverage the anonymous user to gain insight into certain details of a deployed cluster.| 
+| 20210727T01:42:41Z | cve-2021-22146 | Null | https://github.com/magichk/cve-2021-22146 | | 
 
 
 # klee on Github 推荐
@@ -48,6 +48,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210727T12:26:11Z | K8博客 | https://github.com/k8gege/k8gege.github.io | 15 | 7| 
 | 20210727T12:23:44Z | Ladon Pentest Scanner framework  全平台Go开源内网渗透扫描器框架,Windows/Linux/Mac内网渗透，使用它可轻松一键批量探测C段、B段、A段存活主机、高危漏洞检测MS17010、SmbGhost，远程执行SSH/Winrm，密码爆破SMB/SSH/FTP/Mysql/Mssql/Oracle/Winrm/HttpBasic/Redis，端口扫描服务识别PortScan指纹识别/HttpBanner/HttpTitle/TcpBanner/Weblogic/Oxid多网卡主机，端口扫描服务识别PortScan。 | https://github.com/k8gege/LadonGo | 563 | 115| 
 | 20210727T12:20:25Z | block game military grade radar | https://github.com/nerdsinspace/nocom-explanation | 159 | 8| 
 | 20210727T12:19:38Z | E3C is a freely available multilingual corpus (Italian, English, French, Spanish, and Basque) of semantically annotated clinical narratives to allow for the linguistic analysis, benchmarking, and training of information extraction systems. It consists of two types of annotations: (i) clinical entities: pathologies, symptoms, procedures, body parts, etc., according to standard clinical taxonomies (i.e. SNOMED-CT, ICD-10); and (ii) temporal information and factuality: events, time expressions, and temporal relations according to the THYME standard. The corpus is organised into three layers, with different purposes. Layer 1: about 25K tokens per language with full manual annotation of clinical entities, temporal information and factuality, for benchmarkingand linguistic analysis. Layer 2: 50-100K tokens per language with semi-automatic annotations of clinical entities, to be used to train baseline systems. Layer 3: about 1M tokens per language of non-annotated medical documents to be exploited by semi-supervised approaches. Researchers can use the benchmark training and test splits of our corpus to develop and test their own models. We trained several deep learning based models and provide baselines using the benchmark. Both the corpus and the built models will be available through the ELG platform.  | https://github.com/hltfbk/E3C-Corpus | 0 | 1| 
@@ -57,7 +58,6 @@
 | 20210727T12:03:12Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 14| 
 | 20210727T11:57:08Z | A scanner/exploitation tool written in GO, which leverages Prototype Pollution to XSS by exploiting known gadgets. | https://github.com/kleiton0x00/ppmap | 129 | 13| 
 | 20210727T10:46:32Z | The legendary VXHeaven malware collection. | https://github.com/BaRRaKudaRain/RedZone | 18 | 6| 
-| 20210727T10:06:19Z | A place for ideas + MC-AIXI approximation using inquisitiveness to solve the exploration-exploitation problem | https://github.com/keodarus/Inq-mc-aixi | 1 | 0| 
 
 
 # backdoor on Github 推荐
