@@ -150,7 +150,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210727T00:39:28Z | fuzzy-garbanzo | https://github.com/clintrudy8424/fuzzy-garbanzo | 0 | 0| 
+| 20210727T00:40:09Z | fuzzy-garbanzo | https://github.com/clintrudy8424/fuzzy-garbanzo | 0 | 0| 
 | 20210727T00:04:28Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 20 | 8| 
 | 20210726T23:26:19Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210726T23:04:27Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
