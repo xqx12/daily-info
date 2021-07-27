@@ -54,7 +54,7 @@
 | 20210726T15:03:49Z | CVE-2020-14343 | Experimenting with the CVE-2020-14343 PyYAML vulnerability | https://github.com/raul23/pyyaml-CVE-2020-14343 | A vulnerability was discovered in the PyYAML library in versions before 5.4, where it is susceptible to arbitrary code execution when it processes untrusted YAML files through the full_load method or with the FullLoader loader. Applications that use the library to process untrusted input may be vulnerable to this flaw. This flaw allows an attacker to execute arbitrary code on the system by abusing the python/object/new constructor. This flaw is due to an incomplete fix for CVE-2020-1747.| 
 | 20210726T10:21:51Z | cve-2021-33909 | This module fixes an issue in the kernels filesystem layer (CVE-2021-33909) by kprobe-replacing vulnerable functions during runtime | https://github.com/baerwolf/cve-2021-33909 | fs/seq_file.c in the Linux kernel 3.16 through 5.13.x before 5.13.4 does not properly restrict seq buffer allocations, leading to an integer overflow, an Out-of-bounds Write, and escalation to root by an unprivileged user, aka CID-8cae8cd89f05.| 
 | 20210726T08:37:39Z | CVE-2021-37152 | Exploit Accsess network clients by sending packets in wirless TP-LINK and preparing for a mitm attack | https://github.com/lhashashinl/CVE-2021-37152 | 未查询到CVE信息| 
-| 20210726T08:30:31Z | CVE-2021-33909 | Exploit code for CVE-2021-33909,Just a dump of removed https://github.com/AmIAHuman/ repo | https://github.com/bbinfosec43/CVE-2021-33909 | fs/seq_file.c in the Linux kernel 3.16 through 5.13.x before 5.13.4 does not properly restrict seq buffer allocations, leading to an integer overflow, an Out-of-bounds Write, and escalation to root by an unprivileged user, aka CID-8cae8cd89f05.| 
+| 20210726T08:30:31Z | CVE-2021-33909 | Exploit code for CVE-2021-33909,Just a dump of removed https://github.com/AmIAHuman/ repo | https://github.com/bbinfosec43/CVE-2021-33909 | | 
 | 20210726T08:18:37Z | CVE-2021-36934 | Null | https://github.com/0x0D1n/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
 
 
@@ -150,7 +150,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210727T01:43:24Z | fuzzy-goggles | https://github.com/eddieaustin2278/fuzzy-goggles | 0 | 0| 
+| 20210727T01:44:04Z | fuzzy-goggles | https://github.com/eddieaustin2278/fuzzy-goggles | 0 | 0| 
 | 20210727T01:39:57Z | A Kotlin implementation of Sublime Text editor%s fuzzy search | https://github.com/android-password-store/sublime-fuzzy | 6 | 0| 
 | 20210727T01:33:21Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2361 | 133| 
 | 20210727T01:17:07Z | a fuzzier graph plotting method | https://github.com/autumnull/fuzzyplot | 0 | 0| 
