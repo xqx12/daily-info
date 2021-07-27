@@ -91,7 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210727T12:52:09Z | A discontinued, and cancelled unreleased roblox exploit uis, made by orbx so free to skid? | https://github.com/orbxishere/White-Cube | 0 | 0| 
+| 20210727T12:54:53Z | A discontinued, and cancelled unreleased roblox exploit uis, made by orbx so free to skid? | https://github.com/orbxishere/White-Cube | 0 | 0| 
 | 20210727T12:52:05Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 18 | 12| 
 | 20210727T12:51:27Z | Linux kernel CVE exploit analysis report and relative debug environment. You don%t need to compile Linux kernel and configure your environment anymore.  | https://github.com/bsauce/kernel-exploit-factory | 76 | 14| 
 | 20210727T12:38:43Z | K8博客 | https://github.com/k8gege/k8gege.github.io | 15 | 7| 
@@ -150,6 +150,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210727T12:55:41Z | Null | https://github.com/hadiMh/selenium_fuzzer | 0 | 0| 
 | 20210727T12:52:30Z | Null | https://github.com/Sargerus/fuzzy-enigma | 0 | 0| 
 | 20210727T12:32:23Z | Fuzzing tool for the 14th institute | https://github.com/Radon10043/fuzzing-tool-14 | 0 | 2| 
 | 20210727T12:20:24Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 288 | 39| 
@@ -158,7 +159,6 @@
 | 20210727T12:10:44Z | OWASP ZAP add-on containing the web-backdoors and attack files from FuzzDB | https://github.com/zaproxy/fuzzdb-offensive | 6 | 6| 
 | 20210727T12:09:25Z | A Codice Fiscale Generator | https://github.com/tonyarris/codice-fuzzcale | 0 | 0| 
 | 20210727T12:06:48Z | Null | https://github.com/thedarkscepter/fuzzy-funicular | 0 | 0| 
-| 20210727T12:00:11Z | Null | https://github.com/hadiMh/selenium_fuzzer | 0 | 0| 
 | 20210727T11:31:53Z | Simple FTP Fuzzer | https://github.com/Craizox/ftp-fuzzer | 0 | 0| 
 
 
