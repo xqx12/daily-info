@@ -55,7 +55,7 @@
 | 20210726T10:21:51Z | cve-2021-33909 | This module fixes an issue in the kernels filesystem layer (CVE-2021-33909) by kprobe-replacing vulnerable functions during runtime | https://github.com/baerwolf/cve-2021-33909 | fs/seq_file.c in the Linux kernel 3.16 through 5.13.x before 5.13.4 does not properly restrict seq buffer allocations, leading to an integer overflow, an Out-of-bounds Write, and escalation to root by an unprivileged user, aka CID-8cae8cd89f05.| 
 | 20210726T08:37:39Z | CVE-2021-37152 | Exploit Accsess network clients by sending packets in wirless TP-LINK and preparing for a mitm attack | https://github.com/lhashashinl/CVE-2021-37152 | 未查询到CVE信息| 
 | 20210726T08:30:31Z | CVE-2021-33909 | Exploit code for CVE-2021-33909,Just a dump of removed https://github.com/AmIAHuman/ repo | https://github.com/bbinfosec43/CVE-2021-33909 | fs/seq_file.c in the Linux kernel 3.16 through 5.13.x before 5.13.4 does not properly restrict seq buffer allocations, leading to an integer overflow, an Out-of-bounds Write, and escalation to root by an unprivileged user, aka CID-8cae8cd89f05.| 
-| 20210726T08:18:37Z | CVE-2021-36934 | Null | https://github.com/0x0D1n/CVE-2021-36934 | | 
+| 20210726T08:18:37Z | CVE-2021-36934 | Null | https://github.com/0x0D1n/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
 
 
 # klee on Github 推荐
@@ -150,6 +150,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210727T00:39:28Z | fuzzy-garbanzo | https://github.com/clintrudy8424/fuzzy-garbanzo | 0 | 0| 
 | 20210727T00:04:28Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 20 | 8| 
 | 20210726T23:26:19Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210726T23:04:27Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
@@ -159,7 +160,6 @@
 | 20210726T21:43:30Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 506 | 48| 
 | 20210726T21:35:35Z | Fuzzbuzz Using Node and React | https://github.com/darshanaslp/fuzzbuzz_assignmnet | 0 | 0| 
 | 20210726T20:49:30Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 87 | 23| 
-| 20210726T20:47:54Z | 🏆 Collection of bugs uncovered by fuzzing Rust code | https://github.com/rust-fuzz/trophy-case | 238 | 38| 
 
 
 
