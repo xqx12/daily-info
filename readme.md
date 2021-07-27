@@ -77,7 +77,6 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210726T23:56:16Z | Simple Python Backdoor | https://github.com/zNairy/Sonaris | 6 | 0| 
 | 20210726T23:06:07Z | pybotnet -  Library for building botnet ,backdoor or trojan with Telegram control panel | https://github.com/onionj/pybotnet | 9 | 5| 
 | 20210726T22:52:19Z | vuln scanner, web spider, web scanner, auto exploiter, fuzzer, dll injector, shellcoder, backdoors, rootkits, debugger framework | https://github.com/irackit/softkeys | 0 | 0| 
 | 20210726T21:08:10Z | Null | https://github.com/HersonRuiz/Targeted-Backdoor-Attacks-on-Deep-Learning-Systems-Using-Data-Poisoning- | 0 | 0| 
@@ -87,6 +86,7 @@
 | 20210726T15:05:01Z | A Backdoor Attack against 3D Point Cloud Classifiers | https://github.com/zhenxianglance/PCBA | 0 | 0| 
 | 20210726T13:54:25Z | A simple remote tool written in C#.    一个简单的c#远控 | https://github.com/qwqdanchun/DcRat | 263 | 104| 
 | 20210726T12:13:22Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 269 | 51| 
+| 20210726T12:02:53Z | Nguontol Shell Backdoor  - Recoded By RzkyO | https://github.com/RzkyO/Nguontol-Shell | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
