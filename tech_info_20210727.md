@@ -28,7 +28,7 @@
 | 20210727T11:49:23Z | CVE-2021-36934 | C# PoC for CVE-2021-36934/HiveNightmare/SeriousSAM | https://github.com/cube0x0/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
 | 20210727T06:56:20Z | CVE-2021-36934 | HiveNightmare aka SeriousSAM  | https://github.com/exploitblizzard/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
 | 20210727T06:07:37Z | CVE-2021-3438 | Proof of concept code for CVE-2021-3438 | https://github.com/Crystalware/CVE-2021-3438 | A potential buffer overflow in the software drivers for certain HP LaserJet products and Samsung product printers could lead to an escalation of privilege.| 
-| 20210727T01:42:41Z | cve-2021-22146 | Null | https://github.com/magichk/cve-2021-22146 | All versions of Elastic Cloud Enterprise has the Elasticsearch “anonymous” user enabled by default in deployed clusters. While in the default setting the anonymous user has no permissions and is unable to successfully query any Elasticsearch APIs, an attacker could leverage the anonymous user to gain insight into certain details of a deployed cluster.| 
+| 20210727T01:42:41Z | cve-2021-22146 | Null | https://github.com/magichk/cve-2021-22146 | | 
 
 
 # klee on Github 推荐
