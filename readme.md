@@ -40,7 +40,7 @@
 | 20210726T08:37:39Z | CVE-2021-37152 | Exploit Accsess network clients by sending packets in wirless TP-LINK and preparing for a mitm attack | https://github.com/lhashashinl/CVE-2021-37152 | 未查询到CVE信息| 
 | 20210726T08:30:31Z | CVE-2021-33909 | Exploit code for CVE-2021-33909,Just a dump of removed https://github.com/AmIAHuman/ repo | https://github.com/bbinfosec43/CVE-2021-33909 | fs/seq_file.c in the Linux kernel 3.16 through 5.13.x before 5.13.4 does not properly restrict seq buffer allocations, leading to an integer overflow, an Out-of-bounds Write, and escalation to root by an unprivileged user, aka CID-8cae8cd89f05.| 
 | 20210726T08:18:37Z | CVE-2021-36934 | Null | https://github.com/0x0D1n/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
-| 20210726T07:12:07Z | CVE-2021-3560 | CVE-2021-3560 (Polkit - Local Privilege Escalation) | https://github.com/deathflash1411/CVE-2021-3560 | | 
+| 20210726T07:12:07Z | CVE-2021-3560 | CVE-2021-3560 (Polkit - Local Privilege Escalation) | https://github.com/deathflash1411/CVE-2021-3560 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
@@ -80,13 +80,13 @@
 | 20210726T23:06:07Z | pybotnet -  Library for building botnet ,backdoor or trojan with Telegram control panel | https://github.com/onionj/pybotnet | 9 | 5| 
 | 20210726T22:52:19Z | vuln scanner, web spider, web scanner, auto exploiter, fuzzer, dll injector, shellcoder, backdoors, rootkits, debugger framework | https://github.com/irackit/softkeys | 0 | 0| 
 | 20210726T21:08:10Z | Null | https://github.com/HersonRuiz/Targeted-Backdoor-Attacks-on-Deep-Learning-Systems-Using-Data-Poisoning- | 0 | 0| 
-| 20210726T17:32:35Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1230 | 583| 
 | 20210726T17:21:58Z | Null | https://github.com/FierzaEriez/Mini-Shell-Backdoor | 1 | 1| 
 | 20210726T16:28:26Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 87 | 16| 
 | 20210726T15:05:01Z | A Backdoor Attack against 3D Point Cloud Classifiers | https://github.com/zhenxianglance/PCBA | 0 | 0| 
 | 20210726T13:54:25Z | A simple remote tool written in C#.    一个简单的c#远控 | https://github.com/qwqdanchun/DcRat | 263 | 104| 
 | 20210726T12:13:22Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 269 | 51| 
 | 20210726T12:02:53Z | Nguontol Shell Backdoor  - Recoded By RzkyO | https://github.com/RzkyO/Nguontol-Shell | 0 | 0| 
+| 20210726T05:32:47Z | Null | https://github.com/Samira-Valifakhr/reverse-backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
