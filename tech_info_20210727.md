@@ -103,7 +103,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20210727T23:57:38Z | Null | https://github.com/epsonik/FuzzyDescV2 | 0 | 0| 
-| 20210727T23:45:32Z | Null | https://github.com/opimentel-github/fuzzy-torch | 1 | 0| 
 | 20210727T23:32:42Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210727T22:54:20Z | vuln scanner, web spider, web scanner, auto exploiter, fuzzer, dll injector, shellcoder, backdoors, rootkits, debugger framework | https://github.com/irackit/softkeys | 1 | 0| 
 | 20210727T22:51:44Z | A simple fuzzer in C++ | https://github.com/simocosimo/SimpleFuzzer | 0 | 0| 
@@ -112,6 +111,7 @@
 | 20210727T22:29:50Z | Simple cli utility for using fzf to search for/list/install/remove packages. | https://github.com/ericlay/fuzzy-pkg-finder | 8 | 0| 
 | 20210727T21:06:55Z | a fuzzier graph plotting method | https://github.com/autumnull/fuzzyplot | 0 | 0| 
 | 20210727T20:49:36Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
+| 20210727T20:10:43Z | rstr is a helper module for easily generating random strings of various types. It could be useful for fuzz testing, generating dummy data, or other applications. | https://github.com/leapfrogonline/rstr | 22 | 2| 
 
 
 

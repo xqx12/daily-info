@@ -150,9 +150,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210728T00:31:35Z | Null | https://github.com/opimentel-github/fuzzy-torch | 1 | 0| 
 | 20210728T00:05:20Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 20 | 8| 
 | 20210727T23:57:38Z | Null | https://github.com/epsonik/FuzzyDescV2 | 0 | 0| 
-| 20210727T23:45:32Z | Null | https://github.com/opimentel-github/fuzzy-torch | 1 | 0| 
 | 20210727T23:32:42Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210727T22:54:20Z | vuln scanner, web spider, web scanner, auto exploiter, fuzzer, dll injector, shellcoder, backdoors, rootkits, debugger framework | https://github.com/irackit/softkeys | 1 | 0| 
 | 20210727T22:51:44Z | A simple fuzzer in C++ | https://github.com/simocosimo/SimpleFuzzer | 0 | 0| 
