@@ -25,16 +25,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210728T12:03:41Z | CVE-2021-41241412 | Null | https://github.com/dorisroot1/CVE-2021-41241412 | 未查询到CVE信息| 
 | 20210728T11:59:26Z | CVE-2021-5128108 | Null | https://github.com/dorisroot1/CVE-2021-5128108 | 未查询到CVE信息| 
 | 20210728T11:53:08Z | CVE-2021-1258008 | Null | https://github.com/dorisroot1/CVE-2021-1258008 | 未查询到CVE信息| 
-| 20210728T11:50:00Z | CVE-2021-9878724 | Null | https://github.com/dorisroot1/CVE-2021-9878724 | 未查询到CVE信息| 
+| 20210728T11:50:00Z | CVE-2021-9878724 | Null | https://github.com/dorisroot1/CVE-2021-9878724 | | 
 | 20210728T11:46:29Z | CVE-2021-23142414 | Null | https://github.com/dorisroot1/CVE-2021-23142414 | 未查询到CVE信息| 
 | 20210728T11:43:55Z | CVE-2021-1594398 | Null | https://github.com/dorisroot1/CVE-2021-1594398 | 未查询到CVE信息| 
 | 20210728T11:41:02Z | CVE-2021-4124214 | Null | https://github.com/dorisroot1/CVE-2021-4124214 | 未查询到CVE信息| 
 | 20210728T11:37:54Z | CVE-2021-123324125 | Null | https://github.com/dorisroot1/CVE-2021-123324125 | 未查询到CVE信息| 
 | 20210728T11:34:12Z | CVE-2021-12523214 | Null | https://github.com/dorisroot1/CVE-2021-12523214 | 未查询到CVE信息| 
 | 20210728T11:28:24Z | CVE-2021-324213341 | Null | https://github.com/dorisroot1/CVE-2021-324213341 | 未查询到CVE信息| 
-| 20210728T11:25:43Z | CVE-2021-57834782 | Null | https://github.com/dorisroot1/CVE-2021-57834782 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
@@ -53,8 +53,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210728T12:03:02Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 14| 
 | 20210728T11:59:39Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 6280 | 1766| 
-| 20210728T11:03:13Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 14| 
 | 20210728T10:47:29Z | Multi-format search tool - Profiles exploitation based on existing files | https://github.com/LiamSeddaoui/SearcHuman | 1 | 0| 
 | 20210728T10:42:32Z | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | 2788 | 621| 
 | 20210728T09:57:28Z | E3C is a freely available multilingual corpus (Italian, English, French, Spanish, and Basque) of semantically annotated clinical narratives to allow for the linguistic analysis, benchmarking, and training of information extraction systems. It consists of two types of annotations: (i) clinical entities: pathologies, symptoms, procedures, body parts, etc., according to standard clinical taxonomies (i.e. SNOMED-CT, ICD-10); and (ii) temporal information and factuality: events, time expressions, and temporal relations according to the THYME standard. The corpus is organised into three layers, with different purposes. Layer 1: about 25K tokens per language with full manual annotation of clinical entities, temporal information and factuality, for benchmarkingand linguistic analysis. Layer 2: 50-100K tokens per language with semi-automatic annotations of clinical entities, to be used to train baseline systems. Layer 3: about 1M tokens per language of non-annotated medical documents to be exploited by semi-supervised approaches. Researchers can use the benchmark training and test splits of our corpus to develop and test their own models. We trained several deep learning based models and provide baselines using the benchmark. Both the corpus and the built models will be available through the ELG platform.  | https://github.com/hltfbk/E3C-Corpus | 0 | 1| 
