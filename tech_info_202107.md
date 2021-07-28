@@ -150,6 +150,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210728T00:05:20Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 20 | 8| 
 | 20210727T23:57:38Z | Null | https://github.com/epsonik/FuzzyDescV2 | 0 | 0| 
 | 20210727T23:45:32Z | Null | https://github.com/opimentel-github/fuzzy-torch | 1 | 0| 
 | 20210727T23:32:42Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
@@ -159,7 +160,6 @@
 | 20210727T22:35:34Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210727T22:29:50Z | Simple cli utility for using fzf to search for/list/install/remove packages. | https://github.com/ericlay/fuzzy-pkg-finder | 8 | 0| 
 | 20210727T21:06:55Z | a fuzzier graph plotting method | https://github.com/autumnull/fuzzyplot | 0 | 0| 
-| 20210727T20:49:36Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 
 
 
