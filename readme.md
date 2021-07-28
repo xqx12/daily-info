@@ -104,11 +104,11 @@
 | 20210727T22:54:20Z | vuln scanner, web spider, web scanner, auto exploiter, fuzzer, dll injector, shellcoder, backdoors, rootkits, debugger framework | https://github.com/irackit/softkeys | 1 | 0| 
 | 20210727T22:51:44Z | A simple fuzzer in C++ | https://github.com/simocosimo/SimpleFuzzer | 0 | 0| 
 | 20210727T22:48:05Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 5 | 1| 
-| 20210727T22:35:34Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210727T22:29:50Z | Simple cli utility for using fzf to search for/list/install/remove packages. | https://github.com/ericlay/fuzzy-pkg-finder | 8 | 0| 
 | 20210727T21:06:55Z | a fuzzier graph plotting method | https://github.com/autumnull/fuzzyplot | 0 | 0| 
 | 20210727T20:10:43Z | rstr is a helper module for easily generating random strings of various types. It could be useful for fuzz testing, generating dummy data, or other applications. | https://github.com/leapfrogonline/rstr | 22 | 2| 
 | 20210727T20:05:47Z | Null | https://github.com/Faskhutdinova/fuzzy-umbrella | 0 | 0| 
+| 20210727T19:58:20Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6512 | 1323| 
 
 
 

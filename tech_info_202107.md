@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210728T01:36:45Z | An introduction, explanation, and tutorial of various exploits for the heap of the GNU libc. | https://github.com/bstank/bstank.github.io | 0 | 0| 
 | 20210728T01:20:02Z | Lightweight open-source packet limiter plugin to prevent minecraft exploits. | https://github.com/HakanGulgen/packetlimiter | 0 | 0| 
 | 20210728T01:07:40Z | Python script to send/retrieve HTTP data to find the correct answer on a quiz question by brute force. Uses %requests% and %json% libraries. | https://github.com/gwcislo/quiz-exploit | 0 | 0| 
 | 20210728T01:07:40Z | Python script to send/retrieve HTTP data to find the correct answer on a quiz question by brute force. Uses %requests% and %json% libraries. | https://github.com/gkwcislo/quiz-exploit | 0 | 0| 
@@ -100,15 +101,14 @@
 | 20210728T00:47:27Z | List of exploits found in Nations Glory%s code. For intellectual purposes only, I do not endorse any malicious use of the said exploits. | https://github.com/Dr-Fabian/nations-glory-exploits | 0 | 0| 
 | 20210728T00:31:40Z | OSINT, Threat Hunting, Network and Web Recon, Discovery, Enumeration, Vulnerability Mapping, Exploitation, Reporting | https://github.com/aryanguenthner/365 | 8 | 4| 
 | 20210728T00:15:22Z | Null | https://github.com/jwardsmith/Active-Directory-Exploitation | 1 | 0| 
-| 20210728T00:15:06Z | Exploit Privado | https://github.com/whaomi23/Update-Defender | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210728T01:29:43Z | CredPhish is a PowerShell script designed to invoke legitimate credential prompts and exfiltrate passwords over DNS. | https://github.com/tokyoneon/CredPhish | 19 | 2| 
 | 20210728T00:57:49Z | Python AV Evasion Tools | https://github.com/G1ft3dC0d3/MsfMania | 187 | 45| 
 | 20210728T00:54:02Z | Backdoor has been discovered by me in Denver Smart Wifi Camera SHC-150. Backdoor allows attacker to execute commands on OS level. | https://github.com/enty8080/denver-camera-backdoor | 2 | 1| 
-| 20210728T00:37:02Z | CredPhish is a PowerShell script designed to invoke legitimate credential prompts and exfiltrate passwords over DNS. | https://github.com/tokyoneon/CredPhish | 18 | 2| 
 | 20210727T22:54:20Z | vuln scanner, web spider, web scanner, auto exploiter, fuzzer, dll injector, shellcoder, backdoors, rootkits, debugger framework | https://github.com/irackit/softkeys | 1 | 0| 
 | 20210727T20:49:53Z | I can not be nobody in my own city... | https://github.com/thesaintzion/python-backdoor | 1 | 0| 
 | 20210727T20:48:12Z | Rxploit | https://github.com/BeyondDevy/Rxploit | 3 | 0| 
@@ -150,6 +150,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210728T01:37:36Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210728T01:24:08Z | Fuzzer for Dolt repositories | https://github.com/dolthub/fuzzer | 2 | 0| 
 | 20210728T01:19:11Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210728T00:31:35Z | Null | https://github.com/opimentel-github/fuzzy-torch | 1 | 0| 
@@ -159,7 +160,6 @@
 | 20210727T22:54:20Z | vuln scanner, web spider, web scanner, auto exploiter, fuzzer, dll injector, shellcoder, backdoors, rootkits, debugger framework | https://github.com/irackit/softkeys | 1 | 0| 
 | 20210727T22:51:44Z | A simple fuzzer in C++ | https://github.com/simocosimo/SimpleFuzzer | 0 | 0| 
 | 20210727T22:48:05Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 5 | 1| 
-| 20210727T22:35:34Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 
 
 
