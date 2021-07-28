@@ -70,7 +70,6 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210727T23:21:40Z | CredPhish is a PowerShell script designed to invoke legitimate credential prompts and exfiltrate passwords over DNS. | https://github.com/tokyoneon/CredPhish | 17 | 2| 
 | 20210727T23:13:51Z | Backdoor has been discovered by me in Denver Smart Wifi Camera SHC-150. Backdoor allows attacker to execute commands on OS level. | https://github.com/enty8080/denver-camera-backdoor | 2 | 1| 
 | 20210727T22:54:20Z | vuln scanner, web spider, web scanner, auto exploiter, fuzzer, dll injector, shellcoder, backdoors, rootkits, debugger framework | https://github.com/irackit/softkeys | 1 | 0| 
 | 20210727T20:49:53Z | I can not be nobody in my own city... | https://github.com/thesaintzion/python-backdoor | 1 | 0| 
@@ -80,6 +79,7 @@
 | 20210727T12:34:57Z | A batch script for taking information. A bit overdeveloped, and kind of useless. | https://github.com/Takaovi/BatchStealer | 10 | 2| 
 | 20210727T12:10:44Z | OWASP ZAP add-on containing the web-backdoors and attack files from FuzzDB | https://github.com/zaproxy/fuzzdb-offensive | 6 | 6| 
 | 20210727T12:10:17Z | Weird-Backdoor is simply a RCE tool. | https://github.com/lilmond/Weird-Backdoor | 0 | 0| 
+| 20210727T10:22:02Z | A simple remote tool written in C#.    一个简单的c#远控 | https://github.com/qwqdanchun/DcRat | 264 | 104| 
 
 
 # symbolic execution on Github 推荐

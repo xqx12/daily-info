@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210728T00:31:40Z | OSINT, Threat Hunting, Network and Web Recon, Discovery, Enumeration, Vulnerability Mapping, Exploitation, Reporting | https://github.com/aryanguenthner/365 | 8 | 4| 
 | 20210728T00:15:22Z | Null | https://github.com/jwardsmith/Active-Directory-Exploitation | 1 | 0| 
 | 20210728T00:15:06Z | Exploit Privado | https://github.com/whaomi23/Update-Defender | 0 | 0| 
 | 20210728T00:03:04Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 14| 
@@ -100,13 +101,12 @@
 | 20210727T22:54:20Z | vuln scanner, web spider, web scanner, auto exploiter, fuzzer, dll injector, shellcoder, backdoors, rootkits, debugger framework | https://github.com/irackit/softkeys | 1 | 0| 
 | 20210727T22:53:49Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 8085 | 1421| 
 | 20210727T21:48:52Z | A private Da Hood exploit script | https://github.com/iamtryingtofindname/Artemis | 0 | 0| 
-| 20210727T21:46:55Z | An R package to enable the creation of high quality hexagonally binned graphs that can exploit all of ggplot2’s functionality | https://github.com/dugar3/gghexbin | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210727T23:21:40Z | CredPhish is a PowerShell script designed to invoke legitimate credential prompts and exfiltrate passwords over DNS. | https://github.com/tokyoneon/CredPhish | 17 | 2| 
+| 20210728T00:37:02Z | CredPhish is a PowerShell script designed to invoke legitimate credential prompts and exfiltrate passwords over DNS. | https://github.com/tokyoneon/CredPhish | 18 | 2| 
 | 20210727T23:13:51Z | Backdoor has been discovered by me in Denver Smart Wifi Camera SHC-150. Backdoor allows attacker to execute commands on OS level. | https://github.com/enty8080/denver-camera-backdoor | 2 | 1| 
 | 20210727T22:54:20Z | vuln scanner, web spider, web scanner, auto exploiter, fuzzer, dll injector, shellcoder, backdoors, rootkits, debugger framework | https://github.com/irackit/softkeys | 1 | 0| 
 | 20210727T20:49:53Z | I can not be nobody in my own city... | https://github.com/thesaintzion/python-backdoor | 1 | 0| 
