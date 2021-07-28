@@ -50,7 +50,7 @@
 | 20210728T12:12:22Z | CVE-2021-4121442 | Null | https://github.com/dorisroot1/CVE-2021-4121442 | 未查询到CVE信息| 
 | 20210728T12:10:45Z | CVE-2021-2197075 | Null | https://github.com/dorisroot1/CVE-2021-2197075 | 未查询到CVE信息| 
 | 20210728T12:07:30Z | CVE-2021-42892849 | Null | https://github.com/dorisroot1/CVE-2021-42892849 | 未查询到CVE信息| 
-| 20210728T12:05:39Z | CVE-2021-3214124 | Null | https://github.com/dorisroot1/CVE-2021-3214124 | | 
+| 20210728T12:05:39Z | CVE-2021-3214124 | Null | https://github.com/dorisroot1/CVE-2021-3214124 | 未查询到CVE信息| 
 | 20210728T12:03:41Z | CVE-2021-41241412 | Null | https://github.com/dorisroot1/CVE-2021-41241412 | 未查询到CVE信息| 
 | 20210728T11:59:26Z | CVE-2021-5128108 | Null | https://github.com/dorisroot1/CVE-2021-5128108 | 未查询到CVE信息| 
 | 20210728T11:53:08Z | CVE-2021-1258008 | Null | https://github.com/dorisroot1/CVE-2021-1258008 | 未查询到CVE信息| 
@@ -91,11 +91,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210728T12:34:08Z | Yet another malware collection in the Internet. | https://github.com/BaRRaKudaRain/RedZone | 18 | 6| 
 | 20210728T12:23:37Z | E3C is a freely available multilingual corpus (Italian, English, French, Spanish, and Basque) of semantically annotated clinical narratives to allow for the linguistic analysis, benchmarking, and training of information extraction systems. It consists of two types of annotations: (i) clinical entities: pathologies, symptoms, procedures, body parts, etc., according to standard clinical taxonomies (i.e. SNOMED-CT, ICD-10); and (ii) temporal information and factuality: events, time expressions, and temporal relations according to the THYME standard. The corpus is organised into three layers, with different purposes. Layer 1: about 25K tokens per language with full manual annotation of clinical entities, temporal information and factuality, for benchmarkingand linguistic analysis. Layer 2: 50-100K tokens per language with semi-automatic annotations of clinical entities, to be used to train baseline systems. Layer 3: about 1M tokens per language of non-annotated medical documents to be exploited by semi-supervised approaches. Researchers can use the benchmark training and test splits of our corpus to develop and test their own models. We trained several deep learning based models and provide baselines using the benchmark. Both the corpus and the built models will be available through the ELG platform.  | https://github.com/hltfbk/E3C-Corpus | 0 | 1| 
 | 20210728T12:12:15Z | Exploit Discord%s cache system to remote upload payloads on Discord users machines  | https://github.com/dock0d1/Exploit-Discord-Cache-System-PoC | 1 | 1| 
 | 20210728T12:10:43Z | Lightweight open-source packet limiter plugin to prevent minecraft exploits. | https://github.com/HakanGulgen/packetlimiter | 0 | 0| 
 | 20210728T12:10:17Z | Exploit code, Learning materials, Binaries, everything related to OSED preparation. | https://github.com/kainesmicheal/OSED | 0 | 0| 
-| 20210728T12:06:28Z | Yet another malware collection in the Internet. | https://github.com/BaRRaKudaRain/RedZone | 18 | 6| 
 | 20210728T12:03:02Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 14| 
 | 20210728T11:59:39Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 6280 | 1766| 
 | 20210728T10:47:29Z | Multi-format search tool - Profiles exploitation based on existing files | https://github.com/LiamSeddaoui/SearcHuman | 1 | 0| 
