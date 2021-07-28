@@ -29,10 +29,10 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210727T17:07:04Z | CVE-2021-36934 | C# PoC for CVE-2021-36934/HiveNightmare/SeriousSAM | https://github.com/cube0x0/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
-| 20210727T15:52:27Z | CVE-2020-35846 | Python PoC for CVE-2020-35846 targeting Cockpit 0.11.1 | https://github.com/JohnHammond/CVE-2020-35846 | | 
+| 20210727T15:52:27Z | CVE-2020-35846 | Python PoC for CVE-2020-35846 targeting Cockpit 0.11.1 | https://github.com/JohnHammond/CVE-2020-35846 | Agentejo Cockpit before 0.11.2 allows NoSQL injection via the Controller/Auth.php check function.| 
 | 20210727T14:43:13Z | CVE-2020-14343 | Experimenting with the CVE-2020-14343 PyYAML vulnerability | https://github.com/raul23/pyyaml-CVE-2020-14343 | A vulnerability was discovered in the PyYAML library in versions before 5.4, where it is susceptible to arbitrary code execution when it processes untrusted YAML files through the full_load method or with the FullLoader loader. Applications that use the library to process untrusted input may be vulnerable to this flaw. This flaw allows an attacker to execute arbitrary code on the system by abusing the python/object/new constructor. This flaw is due to an incomplete fix for CVE-2020-1747.| 
 | 20210727T06:56:20Z | CVE-2021-36934 | HiveNightmare aka SeriousSAM  | https://github.com/exploitblizzard/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
-| 20210727T06:07:37Z | CVE-2021-3438 | Proof of concept code for CVE-2021-3438 | https://github.com/Crystalware/CVE-2021-3438 | A potential buffer overflow in the software drivers for certain HP LaserJet products and Samsung product printers could lead to an escalation of privilege.| 
+| 20210727T06:07:37Z | CVE-2021-3438 | Proof of concept code for CVE-2021-3438 | https://github.com/Crystalware/CVE-2021-3438 | | 
 | 20210727T01:42:41Z | cve-2021-22146 | Null | https://github.com/magichk/cve-2021-22146 | All versions of Elastic Cloud Enterprise has the Elasticsearch “anonymous” user enabled by default in deployed clusters. While in the default setting the anonymous user has no permissions and is unable to successfully query any Elasticsearch APIs, an attacker could leverage the anonymous user to gain insight into certain details of a deployed cluster.| 
 
 
