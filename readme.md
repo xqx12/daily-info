@@ -55,7 +55,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210727T23:58:25Z | Null | https://github.com/jwardsmith/Active-Directory-Exploitation | 1 | 0| 
 | 20210727T23:52:44Z | Cross-platform post-exploitation HTTP Command & Control agent written in golang | https://github.com/MythicAgents/merlin | 2 | 1| 
 | 20210727T23:47:37Z | Exploits project Hacking Command Center | https://github.com/chacka0101/exploits | 11 | 9| 
 | 20210727T23:37:07Z | Clouddefense.ai is an automated web application security testing tool that audits your web applications by checking for vulnerabilities like SQL Injection, Cross site scripting and other exploitable vulnerabilities. | https://github.com/CloudDefenseAI/cd | 10 | 1| 
@@ -65,6 +64,7 @@
 | 20210727T21:46:55Z | An R package to enable the creation of high quality hexagonally binned graphs that can exploit all of ggplot2’s functionality | https://github.com/dugar3/gghexbin | 0 | 0| 
 | 20210727T21:41:01Z | The Next-Gen Roblox Exploit Hub | https://github.com/HonestlyDex/DexHub | 1 | 0| 
 | 20210727T21:36:00Z | Scripts to support users exploit TAMSAT rainfall estimates. | https://github.com/TAMSAT/capacity_building | 0 | 0| 
+| 20210727T21:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9772 | 1613| 
 
 
 # backdoor on Github 推荐

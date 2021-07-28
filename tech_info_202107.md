@@ -91,8 +91,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210728T00:15:22Z | Null | https://github.com/jwardsmith/Active-Directory-Exploitation | 1 | 0| 
+| 20210728T00:15:06Z | Exploit Privado | https://github.com/whaomi23/Update-Defender | 0 | 0| 
 | 20210728T00:03:04Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 14| 
-| 20210727T23:58:25Z | Null | https://github.com/jwardsmith/Active-Directory-Exploitation | 1 | 0| 
 | 20210727T23:52:44Z | Cross-platform post-exploitation HTTP Command & Control agent written in golang | https://github.com/MythicAgents/merlin | 2 | 1| 
 | 20210727T23:47:37Z | Exploits project Hacking Command Center | https://github.com/chacka0101/exploits | 11 | 9| 
 | 20210727T23:37:07Z | Clouddefense.ai is an automated web application security testing tool that audits your web applications by checking for vulnerabilities like SQL Injection, Cross site scripting and other exploitable vulnerabilities. | https://github.com/CloudDefenseAI/cd | 10 | 1| 
@@ -100,7 +101,6 @@
 | 20210727T22:53:49Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 8085 | 1421| 
 | 20210727T21:48:52Z | A private Da Hood exploit script | https://github.com/iamtryingtofindname/Artemis | 0 | 0| 
 | 20210727T21:46:55Z | An R package to enable the creation of high quality hexagonally binned graphs that can exploit all of ggplot2’s functionality | https://github.com/dugar3/gghexbin | 0 | 0| 
-| 20210727T21:41:01Z | The Next-Gen Roblox Exploit Hub | https://github.com/HonestlyDex/DexHub | 1 | 0| 
 
 
 # backdoor on Github 推荐
