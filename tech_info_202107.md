@@ -91,7 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210728T01:47:05Z | Exploit for php 8.1.0 with webshell from the console and read ability | https://github.com/c0rnf13ld/php-8.1.0-exploit-rce | 0 | 0| 
+| 20210728T01:51:47Z | Exploit for php 8.1.0 with webshell from the console and read ability | https://github.com/c0rnf13ld/php-8.1.0-exploit-rce | 0 | 0| 
 | 20210728T01:40:58Z | An introduction, explanation, and tutorial of various exploits for the heap of the GNU libc. | https://github.com/bstank/bstank.github.io | 0 | 0| 
 | 20210728T01:39:54Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 323 | 52| 
 | 20210728T01:20:02Z | Lightweight open-source packet limiter plugin to prevent minecraft exploits. | https://github.com/HakanGulgen/packetlimiter | 0 | 0| 
@@ -121,11 +121,11 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210728T01:50:51Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2395 | 353| 
 | 20210727T22:46:24Z | Symbolic execution in radare2 with angr | https://github.com/0xchase/modality | 40 | 1| 
 | 20210727T17:58:27Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1852 | 388| 
 | 20210727T17:12:14Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 7 | 4| 
 | 20210727T15:16:12Z | SymQEMU: Compilation-based symbolic execution for binaries | https://github.com/eurecom-s3/symqemu | 158 | 20| 
-| 20210727T15:12:05Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2394 | 353| 
 | 20210727T14:23:02Z | A tool for generating nonlinear numerical invariants for C and Java programs.  DIG uses dynamic analysis to infer invariants over program execution traces and applies symbolic execution to inferred invariants. | https://github.com/unsat/dig | 4 | 4| 
 | 20210727T10:54:08Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 449 | 68| 
 | 20210726T18:27:45Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 153 | 33| 
