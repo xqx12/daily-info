@@ -50,12 +50,12 @@
 | 20210728T12:05:39Z | CVE-2021-3214124 | Null | https://github.com/dorisroot1/CVE-2021-3214124 | 未查询到CVE信息| 
 | 20210728T12:03:41Z | CVE-2021-41241412 | Null | https://github.com/dorisroot1/CVE-2021-41241412 | 未查询到CVE信息| 
 | 20210728T11:59:26Z | CVE-2021-5128108 | Null | https://github.com/dorisroot1/CVE-2021-5128108 | 未查询到CVE信息| 
-| 20210728T11:53:08Z | CVE-2021-1258008 | Null | https://github.com/dorisroot1/CVE-2021-1258008 | 未查询到CVE信息| 
-| 20210728T11:50:00Z | CVE-2021-9878724 | Null | https://github.com/dorisroot1/CVE-2021-9878724 | | 
+| 20210728T11:53:08Z | CVE-2021-1258008 | Null | https://github.com/dorisroot1/CVE-2021-1258008 | | 
+| 20210728T11:50:00Z | CVE-2021-9878724 | Null | https://github.com/dorisroot1/CVE-2021-9878724 | 未查询到CVE信息| 
 | 20210728T11:46:29Z | CVE-2021-23142414 | Null | https://github.com/dorisroot1/CVE-2021-23142414 | 未查询到CVE信息| 
 | 20210728T11:43:55Z | CVE-2021-1594398 | Null | https://github.com/dorisroot1/CVE-2021-1594398 | 未查询到CVE信息| 
 | 20210728T11:41:02Z | CVE-2021-4124214 | Null | https://github.com/dorisroot1/CVE-2021-4124214 | 未查询到CVE信息| 
-| 20210728T11:37:54Z | CVE-2021-123324125 | Null | https://github.com/dorisroot1/CVE-2021-123324125 | 未查询到CVE信息| 
+| 20210728T11:37:54Z | CVE-2021-123324125 | Null | https://github.com/dorisroot1/CVE-2021-123324125 | | 
 
 
 # klee on Github 推荐
@@ -91,16 +91,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210728T12:10:43Z | Lightweight open-source packet limiter plugin to prevent minecraft exploits. | https://github.com/HakanGulgen/packetlimiter | 0 | 0| 
+| 20210728T12:10:17Z | Exploit code, Learning materials, Binaries, everything related to OSED preparation. | https://github.com/kainesmicheal/OSED | 0 | 0| 
+| 20210728T12:06:28Z | Yet another malware collection in the Internet. | https://github.com/BaRRaKudaRain/RedZone | 18 | 6| 
 | 20210728T12:03:02Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 14| 
 | 20210728T11:59:39Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 6280 | 1766| 
 | 20210728T10:47:29Z | Multi-format search tool - Profiles exploitation based on existing files | https://github.com/LiamSeddaoui/SearcHuman | 1 | 0| 
 | 20210728T10:42:32Z | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | 2788 | 621| 
 | 20210728T09:57:28Z | E3C is a freely available multilingual corpus (Italian, English, French, Spanish, and Basque) of semantically annotated clinical narratives to allow for the linguistic analysis, benchmarking, and training of information extraction systems. It consists of two types of annotations: (i) clinical entities: pathologies, symptoms, procedures, body parts, etc., according to standard clinical taxonomies (i.e. SNOMED-CT, ICD-10); and (ii) temporal information and factuality: events, time expressions, and temporal relations according to the THYME standard. The corpus is organised into three layers, with different purposes. Layer 1: about 25K tokens per language with full manual annotation of clinical entities, temporal information and factuality, for benchmarkingand linguistic analysis. Layer 2: 50-100K tokens per language with semi-automatic annotations of clinical entities, to be used to train baseline systems. Layer 3: about 1M tokens per language of non-annotated medical documents to be exploited by semi-supervised approaches. Researchers can use the benchmark training and test splits of our corpus to develop and test their own models. We trained several deep learning based models and provide baselines using the benchmark. Both the corpus and the built models will be available through the ELG platform.  | https://github.com/hltfbk/E3C-Corpus | 0 | 1| 
 | 20210728T09:56:47Z | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | 216 | 38| 
-| 20210728T09:44:07Z | The legendary VXHeaven malware collection. | https://github.com/BaRRaKudaRain/RedZone | 18 | 6| 
 | 20210728T09:33:39Z | Exploit Privado | https://github.com/whaomi23/Update-Defender | 0 | 0| 
-| 20210728T09:06:21Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9773 | 1613| 
-| 20210728T09:02:15Z | InfiniteWP Client < 1.9.4.5 - Authentication Bypass | https://github.com/random-robbie/InfiniteWP-exploit | 12 | 4| 
 
 
 # backdoor on Github 推荐
@@ -150,8 +150,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210728T12:10:56Z | A Codice Fiscale Generator | https://github.com/tonyarris/codice-fuzzcale | 0 | 0| 
 | 20210728T11:35:07Z | 针对小型应用服务搜索场景的工具包（也可部署为独立服务） | https://github.com/kc910521/MiniSearch | 5 | 0| 
-| 20210728T11:29:32Z | A Codice Fiscale Generator | https://github.com/tonyarris/codice-fuzzcale | 0 | 0| 
 | 20210728T11:24:58Z | SSL and TLS protocol test suite and fuzzer | https://github.com/tlsfuzzer/tlsfuzzer | 388 | 88| 
 | 20210728T11:24:34Z | KVM harness for Linux Kernel Fuzzing | https://github.com/SmoothHacker/LateRegistration | 0 | 0| 
 | 20210728T10:49:22Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 5 | 1| 
