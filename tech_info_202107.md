@@ -49,7 +49,7 @@
 | 20210728T12:03:41Z | CVE-2021-41241412 | Null | https://github.com/dorisroot1/CVE-2021-41241412 | 未查询到CVE信息| 
 | 20210728T11:59:26Z | CVE-2021-5128108 | Null | https://github.com/dorisroot1/CVE-2021-5128108 | 未查询到CVE信息| 
 | 20210728T11:53:08Z | CVE-2021-1258008 | Null | https://github.com/dorisroot1/CVE-2021-1258008 | 未查询到CVE信息| 
-| 20210728T11:50:00Z | CVE-2021-9878724 | Null | https://github.com/dorisroot1/CVE-2021-9878724 | | 
+| 20210728T11:50:00Z | CVE-2021-9878724 | Null | https://github.com/dorisroot1/CVE-2021-9878724 | 未查询到CVE信息| 
 | 20210728T11:46:29Z | CVE-2021-23142414 | Null | https://github.com/dorisroot1/CVE-2021-23142414 | 未查询到CVE信息| 
 | 20210728T11:43:55Z | CVE-2021-1594398 | Null | https://github.com/dorisroot1/CVE-2021-1594398 | 未查询到CVE信息| 
 | 20210728T11:41:02Z | CVE-2021-4124214 | Null | https://github.com/dorisroot1/CVE-2021-4124214 | 未查询到CVE信息| 
@@ -121,16 +121,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210728T01:50:51Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2395 | 353| 
+| 20210728T11:16:12Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 91 | 6| 
+| 20210728T10:14:32Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2399 | 353| 
+| 20210728T08:47:28Z | A toy symbolic execution engine, supporting the blog article ... | https://github.com/synacktiv/toy-wasm-symbexp | 2 | 0| 
+| 20210728T08:10:24Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 153 | 33| 
 | 20210727T22:46:24Z | Symbolic execution in radare2 with angr | https://github.com/0xchase/modality | 40 | 1| 
 | 20210727T17:58:27Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1852 | 388| 
 | 20210727T17:12:14Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 7 | 4| 
 | 20210727T15:16:12Z | SymQEMU: Compilation-based symbolic execution for binaries | https://github.com/eurecom-s3/symqemu | 158 | 20| 
 | 20210727T14:23:02Z | A tool for generating nonlinear numerical invariants for C and Java programs.  DIG uses dynamic analysis to infer invariants over program execution traces and applies symbolic execution to inferred invariants. | https://github.com/unsat/dig | 4 | 4| 
 | 20210727T10:54:08Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 449 | 68| 
-| 20210726T18:27:45Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 153 | 33| 
-| 20210726T03:21:08Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 17 | 3| 
-| 20210726T02:26:06Z | A toy symbolic execution engine, supporting the blog article ... | https://github.com/synacktiv/toy-wasm-symbexp | 2 | 0| 
 
 
 # big4 on Github 推荐

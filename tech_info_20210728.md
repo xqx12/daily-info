@@ -28,7 +28,7 @@
 | 20210728T12:03:41Z | CVE-2021-41241412 | Null | https://github.com/dorisroot1/CVE-2021-41241412 | 未查询到CVE信息| 
 | 20210728T11:59:26Z | CVE-2021-5128108 | Null | https://github.com/dorisroot1/CVE-2021-5128108 | 未查询到CVE信息| 
 | 20210728T11:53:08Z | CVE-2021-1258008 | Null | https://github.com/dorisroot1/CVE-2021-1258008 | 未查询到CVE信息| 
-| 20210728T11:50:00Z | CVE-2021-9878724 | Null | https://github.com/dorisroot1/CVE-2021-9878724 | | 
+| 20210728T11:50:00Z | CVE-2021-9878724 | Null | https://github.com/dorisroot1/CVE-2021-9878724 | 未查询到CVE信息| 
 | 20210728T11:46:29Z | CVE-2021-23142414 | Null | https://github.com/dorisroot1/CVE-2021-23142414 | 未查询到CVE信息| 
 | 20210728T11:43:55Z | CVE-2021-1594398 | Null | https://github.com/dorisroot1/CVE-2021-1594398 | 未查询到CVE信息| 
 | 20210728T11:41:02Z | CVE-2021-4124214 | Null | https://github.com/dorisroot1/CVE-2021-4124214 | 未查询到CVE信息| 
@@ -81,7 +81,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210728T01:50:51Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2395 | 353| 
+| 20210728T11:16:12Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 91 | 6| 
+| 20210728T10:14:32Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2399 | 353| 
+| 20210728T08:47:28Z | A toy symbolic execution engine, supporting the blog article ... | https://github.com/synacktiv/toy-wasm-symbexp | 2 | 0| 
+| 20210728T08:10:24Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 153 | 33| 
 
 
 # big4 on Github 推荐
