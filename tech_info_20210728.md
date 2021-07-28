@@ -29,8 +29,8 @@
 | 20210728T12:12:22Z | CVE-2021-4121442 | Null | https://github.com/dorisroot1/CVE-2021-4121442 | 未查询到CVE信息| 
 | 20210728T12:10:45Z | CVE-2021-2197075 | Null | https://github.com/dorisroot1/CVE-2021-2197075 | 未查询到CVE信息| 
 | 20210728T12:07:30Z | CVE-2021-42892849 | Null | https://github.com/dorisroot1/CVE-2021-42892849 | 未查询到CVE信息| 
-| 20210728T12:05:39Z | CVE-2021-3214124 | Null | https://github.com/dorisroot1/CVE-2021-3214124 | 未查询到CVE信息| 
-| 20210728T12:03:41Z | CVE-2021-41241412 | Null | https://github.com/dorisroot1/CVE-2021-41241412 | | 
+| 20210728T12:05:39Z | CVE-2021-3214124 | Null | https://github.com/dorisroot1/CVE-2021-3214124 | | 
+| 20210728T12:03:41Z | CVE-2021-41241412 | Null | https://github.com/dorisroot1/CVE-2021-41241412 | 未查询到CVE信息| 
 | 20210728T11:59:26Z | CVE-2021-5128108 | Null | https://github.com/dorisroot1/CVE-2021-5128108 | 未查询到CVE信息| 
 | 20210728T11:53:08Z | CVE-2021-1258008 | Null | https://github.com/dorisroot1/CVE-2021-1258008 | 未查询到CVE信息| 
 | 20210728T11:50:00Z | CVE-2021-9878724 | Null | https://github.com/dorisroot1/CVE-2021-9878724 | 未查询到CVE信息| 
