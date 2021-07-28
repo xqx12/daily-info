@@ -54,7 +54,7 @@
 | 20210727T01:42:41Z | cve-2021-22146 | Null | https://github.com/magichk/cve-2021-22146 | All versions of Elastic Cloud Enterprise has the Elasticsearch “anonymous” user enabled by default in deployed clusters. While in the default setting the anonymous user has no permissions and is unable to successfully query any Elasticsearch APIs, an attacker could leverage the anonymous user to gain insight into certain details of a deployed cluster.| 
 | 20210726T23:42:27Z | CVE-2021-3156 | Null | https://github.com/dock0d1/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210726T18:49:30Z | CVE-2021-21972 | Null | https://github.com/haiclover/CVE-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
-| 20210726T10:21:51Z | cve-2021-33909 | This module fixes an issue in the kernels filesystem layer (CVE-2021-33909) by kprobe-replacing vulnerable functions during runtime | https://github.com/baerwolf/cve-2021-33909 | fs/seq_file.c in the Linux kernel 3.16 through 5.13.x before 5.13.4 does not properly restrict seq buffer allocations, leading to an integer overflow, an Out-of-bounds Write, and escalation to root by an unprivileged user, aka CID-8cae8cd89f05.| 
+| 20210726T10:21:51Z | cve-2021-33909 | This module fixes an issue in the kernels filesystem layer (CVE-2021-33909) by kprobe-replacing vulnerable functions during runtime | https://github.com/baerwolf/cve-2021-33909 | | 
 | 20210726T08:37:39Z | CVE-2021-37152 | Exploit Accsess network clients by sending packets in wirless TP-LINK and preparing for a mitm attack | https://github.com/lhashashinl/CVE-2021-37152 | 未查询到CVE信息| 
 
 
@@ -91,6 +91,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210728T00:54:35Z | Some Lua scripts I make, some might be useful, some might be useless. Some of these scripts may be Roblox only, and may require a Roblox exploit. | https://github.com/strawbberrys/LuaScripts | 0 | 1| 
+| 20210728T00:54:13Z | Python script to send/retrieve http data to find the correct answer on a quiz question by brute force | https://github.com/gwcislo/quiz-exploit | 0 | 0| 
+| 20210728T00:52:05Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 18 | 12| 
 | 20210728T00:47:27Z | List of exploits found in Nations Glory%s code. For intellectual purposes only, I do not endorse any malicious use of the said exploits. | https://github.com/Dr-Fabian/nations-glory-exploits | 0 | 0| 
 | 20210728T00:31:40Z | OSINT, Threat Hunting, Network and Web Recon, Discovery, Enumeration, Vulnerability Mapping, Exploitation, Reporting | https://github.com/aryanguenthner/365 | 8 | 4| 
 | 20210728T00:15:22Z | Null | https://github.com/jwardsmith/Active-Directory-Exploitation | 1 | 0| 
@@ -98,9 +101,6 @@
 | 20210728T00:03:04Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 14| 
 | 20210727T23:52:44Z | Cross-platform post-exploitation HTTP Command & Control agent written in golang | https://github.com/MythicAgents/merlin | 2 | 1| 
 | 20210727T23:47:37Z | Exploits project Hacking Command Center | https://github.com/chacka0101/exploits | 11 | 9| 
-| 20210727T23:37:07Z | Clouddefense.ai is an automated web application security testing tool that audits your web applications by checking for vulnerabilities like SQL Injection, Cross site scripting and other exploitable vulnerabilities. | https://github.com/CloudDefenseAI/cd | 10 | 1| 
-| 20210727T22:54:20Z | vuln scanner, web spider, web scanner, auto exploiter, fuzzer, dll injector, shellcoder, backdoors, rootkits, debugger framework | https://github.com/irackit/softkeys | 1 | 0| 
-| 20210727T22:53:49Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 8085 | 1421| 
 
 
 # backdoor on Github 推荐
