@@ -28,7 +28,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210727T17:07:04Z | CVE-2021-36934 | C# PoC for CVE-2021-36934/HiveNightmare/SeriousSAM | https://github.com/cube0x0/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
 | 20210727T15:52:27Z | CVE-2020-35846 | Python PoC for CVE-2020-35846 targeting Cockpit 0.11.1 | https://github.com/JohnHammond/CVE-2020-35846 | Agentejo Cockpit before 0.11.2 allows NoSQL injection via the Controller/Auth.php check function.| 
 | 20210727T14:43:13Z | CVE-2020-14343 | Experimenting with the CVE-2020-14343 PyYAML vulnerability | https://github.com/raul23/pyyaml-CVE-2020-14343 | A vulnerability was discovered in the PyYAML library in versions before 5.4, where it is susceptible to arbitrary code execution when it processes untrusted YAML files through the full_load method or with the FullLoader loader. Applications that use the library to process untrusted input may be vulnerable to this flaw. This flaw allows an attacker to execute arbitrary code on the system by abusing the python/object/new constructor. This flaw is due to an incomplete fix for CVE-2020-1747.| 
 | 20210727T06:56:20Z | CVE-2021-36934 | HiveNightmare aka SeriousSAM  | https://github.com/exploitblizzard/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
@@ -69,7 +68,6 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210727T23:13:51Z | Backdoor has been discovered by me in Denver Smart Wifi Camera SHC-150. Backdoor allows attacker to execute commands on OS level. | https://github.com/enty8080/denver-camera-backdoor | 2 | 1| 
 | 20210727T22:54:20Z | vuln scanner, web spider, web scanner, auto exploiter, fuzzer, dll injector, shellcoder, backdoors, rootkits, debugger framework | https://github.com/irackit/softkeys | 1 | 0| 
 | 20210727T20:49:53Z | I can not be nobody in my own city... | https://github.com/thesaintzion/python-backdoor | 1 | 0| 
 | 20210727T20:48:12Z | Rxploit | https://github.com/BeyondDevy/Rxploit | 3 | 0| 
@@ -79,6 +77,7 @@
 | 20210727T12:10:44Z | OWASP ZAP add-on containing the web-backdoors and attack files from FuzzDB | https://github.com/zaproxy/fuzzdb-offensive | 6 | 6| 
 | 20210727T12:10:17Z | Weird-Backdoor is simply a RCE tool. | https://github.com/lilmond/Weird-Backdoor | 0 | 0| 
 | 20210727T10:22:02Z | A simple remote tool written in C#.    一个简单的c#远控 | https://github.com/qwqdanchun/DcRat | 264 | 104| 
+| 20210727T10:15:02Z | Code for the paper %Rethinking Stealthiness of Backdoor Attack against NLP Models% (ACL-IJCNLP 2021) | https://github.com/lancopku/SOS | 2 | 0| 
 
 
 # symbolic execution on Github 推荐
