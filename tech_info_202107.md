@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210728T01:16:16Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2365 | 56| 
+| 20210728T01:48:20Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2367 | 56| 
 | 20210727T20:25:06Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 167 | 15| 
 | 20210727T13:11:32Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 216 | 35| 
 | 20210727T12:39:19Z | Null | https://github.com/vitaliiomelchenko/kleene | 0 | 0| 
@@ -91,7 +91,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210728T01:36:45Z | An introduction, explanation, and tutorial of various exploits for the heap of the GNU libc. | https://github.com/bstank/bstank.github.io | 0 | 0| 
+| 20210728T01:47:05Z | Exploit for php 8.1.0 with webshell from the console and read ability | https://github.com/c0rnf13ld/php-8.1.0-exploit-rce | 0 | 0| 
+| 20210728T01:40:58Z | An introduction, explanation, and tutorial of various exploits for the heap of the GNU libc. | https://github.com/bstank/bstank.github.io | 0 | 0| 
+| 20210728T01:39:54Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 323 | 52| 
 | 20210728T01:20:02Z | Lightweight open-source packet limiter plugin to prevent minecraft exploits. | https://github.com/HakanGulgen/packetlimiter | 0 | 0| 
 | 20210728T01:07:40Z | Python script to send/retrieve HTTP data to find the correct answer on a quiz question by brute force. Uses %requests% and %json% libraries. | https://github.com/gwcislo/quiz-exploit | 0 | 0| 
 | 20210728T01:07:40Z | Python script to send/retrieve HTTP data to find the correct answer on a quiz question by brute force. Uses %requests% and %json% libraries. | https://github.com/gkwcislo/quiz-exploit | 0 | 0| 
@@ -99,16 +101,14 @@
 | 20210728T00:54:35Z | Some Lua scripts I make, some might be useful, some might be useless. Some of these scripts may be Roblox only, and may require a Roblox exploit. | https://github.com/strawbberrys/LuaScripts | 0 | 1| 
 | 20210728T00:52:05Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 18 | 12| 
 | 20210728T00:47:27Z | List of exploits found in Nations Glory%s code. For intellectual purposes only, I do not endorse any malicious use of the said exploits. | https://github.com/Dr-Fabian/nations-glory-exploits | 0 | 0| 
-| 20210728T00:31:40Z | OSINT, Threat Hunting, Network and Web Recon, Discovery, Enumeration, Vulnerability Mapping, Exploitation, Reporting | https://github.com/aryanguenthner/365 | 8 | 4| 
-| 20210728T00:15:22Z | Null | https://github.com/jwardsmith/Active-Directory-Exploitation | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210728T01:45:01Z | Backdoor has been discovered by me in Denver Smart Wifi Camera SHC-150. Backdoor allows attacker to execute commands on OS level. | https://github.com/enty8080/denver-camera-backdoor | 3 | 1| 
 | 20210728T01:41:07Z | CredPhish is a PowerShell script designed to invoke legitimate credential prompts and exfiltrate passwords over DNS. | https://github.com/tokyoneon/CredPhish | 20 | 2| 
 | 20210728T00:57:49Z | Python AV Evasion Tools | https://github.com/G1ft3dC0d3/MsfMania | 187 | 45| 
-| 20210728T00:54:02Z | Backdoor has been discovered by me in Denver Smart Wifi Camera SHC-150. Backdoor allows attacker to execute commands on OS level. | https://github.com/enty8080/denver-camera-backdoor | 2 | 1| 
 | 20210727T22:54:20Z | vuln scanner, web spider, web scanner, auto exploiter, fuzzer, dll injector, shellcoder, backdoors, rootkits, debugger framework | https://github.com/irackit/softkeys | 1 | 0| 
 | 20210727T20:49:53Z | I can not be nobody in my own city... | https://github.com/thesaintzion/python-backdoor | 1 | 0| 
 | 20210727T20:48:12Z | Rxploit | https://github.com/BeyondDevy/Rxploit | 3 | 0| 
