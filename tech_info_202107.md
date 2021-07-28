@@ -55,7 +55,7 @@
 | 20210728T12:03:41Z | CVE-2021-41241412 | Null | https://github.com/dorisroot1/CVE-2021-41241412 | 未查询到CVE信息| 
 | 20210728T11:59:26Z | CVE-2021-5128108 | Null | https://github.com/dorisroot1/CVE-2021-5128108 | 未查询到CVE信息| 
 | 20210728T11:53:08Z | CVE-2021-1258008 | Null | https://github.com/dorisroot1/CVE-2021-1258008 | 未查询到CVE信息| 
-| 20210728T11:50:00Z | CVE-2021-9878724 | Null | https://github.com/dorisroot1/CVE-2021-9878724 | | 
+| 20210728T11:50:00Z | CVE-2021-9878724 | Null | https://github.com/dorisroot1/CVE-2021-9878724 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
@@ -150,6 +150,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210728T12:58:19Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20210728T12:57:20Z | Null | https://github.com/Victor-Alfred/Fuzzy_Detection_Merged_Channels | 0 | 0| 
 | 20210728T12:17:24Z | ruby binary for  enumeration fuzzing | https://github.com/Madhava-mng/m4dh4v45b1n | 2 | 0| 
 | 20210728T12:15:16Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 20 | 8| 
 | 20210728T12:10:56Z | A Codice Fiscale Generator | https://github.com/tonyarris/codice-fuzzcale | 0 | 0| 
@@ -158,8 +160,6 @@
 | 20210728T11:24:34Z | KVM harness for Linux Kernel Fuzzing | https://github.com/SmoothHacker/LateRegistration | 0 | 0| 
 | 20210728T10:49:22Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 5 | 1| 
 | 20210728T09:54:35Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
-| 20210728T09:54:03Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1932 | 383| 
-| 20210728T09:42:07Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3612 | 847| 
 
 
 
