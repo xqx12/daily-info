@@ -53,7 +53,7 @@
 | 20210727T06:56:20Z | CVE-2021-36934 | HiveNightmare aka SeriousSAM  | https://github.com/exploitblizzard/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
 | 20210727T01:42:41Z | cve-2021-22146 | Null | https://github.com/magichk/cve-2021-22146 | All versions of Elastic Cloud Enterprise has the Elasticsearch “anonymous” user enabled by default in deployed clusters. While in the default setting the anonymous user has no permissions and is unable to successfully query any Elasticsearch APIs, an attacker could leverage the anonymous user to gain insight into certain details of a deployed cluster.| 
 | 20210726T23:42:27Z | CVE-2021-3156 | Null | https://github.com/dock0d1/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210726T18:49:30Z | CVE-2021-21972 | Null | https://github.com/haiclover/CVE-2021-21972 | | 
+| 20210726T18:49:30Z | CVE-2021-21972 | Null | https://github.com/haiclover/CVE-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
 | 20210726T10:21:51Z | cve-2021-33909 | This module fixes an issue in the kernels filesystem layer (CVE-2021-33909) by kprobe-replacing vulnerable functions during runtime | https://github.com/baerwolf/cve-2021-33909 | fs/seq_file.c in the Linux kernel 3.16 through 5.13.x before 5.13.4 does not properly restrict seq buffer allocations, leading to an integer overflow, an Out-of-bounds Write, and escalation to root by an unprivileged user, aka CID-8cae8cd89f05.| 
 | 20210726T08:37:39Z | CVE-2021-37152 | Exploit Accsess network clients by sending packets in wirless TP-LINK and preparing for a mitm attack | https://github.com/lhashashinl/CVE-2021-37152 | 未查询到CVE信息| 
 
@@ -150,6 +150,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210728T01:24:08Z | Fuzzer for Dolt repositories | https://github.com/dolthub/fuzzer | 2 | 0| 
 | 20210728T01:19:11Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210728T00:31:35Z | Null | https://github.com/opimentel-github/fuzzy-torch | 1 | 0| 
 | 20210728T00:05:20Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 20 | 8| 
@@ -159,7 +160,6 @@
 | 20210727T22:51:44Z | A simple fuzzer in C++ | https://github.com/simocosimo/SimpleFuzzer | 0 | 0| 
 | 20210727T22:48:05Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 5 | 1| 
 | 20210727T22:35:34Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210727T22:29:50Z | Simple cli utility for using fzf to search for/list/install/remove packages. | https://github.com/ericlay/fuzzy-pkg-finder | 8 | 0| 
 
 
 
