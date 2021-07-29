@@ -14,33 +14,40 @@
 | 20210728 | 利用 TLS 证书发现恶意软件的网络基础设施 | https://www.prevailion.com/cert-safari-leveraging-tls-certificates-to-hunt-evil/| 
 | 20210728 | Rocket.Chat 远程命令执行漏洞分析 | https://paper.seebug.org/1652/| 
 | 20210728 | Google 的漏洞奖励计划（VRP）启用新平台 bughunters.google.com，向开源代码提交补丁以及发表安全研究 Paper 同样可以得到奖励 | https://security.googleblog.com/2021/07/a-new-chapter-for-googles-vulnerability.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+GoogleOnlineSecurityBlog+%28Google+Online+Security+Blog%29| 
+| 20210728 | WebLogic CVE-2021-2394 RCE 漏洞分析。 | https://paper.seebug.org/1655/| 
+| 20210728 | 蓝色华容道（CVE-2021-3573）以及其补丁的故事 | https://paper.seebug.org/1653/| 
+| 20210728 | 深入理解C语言指针算数奥秘。 | https://www.youtube.com/watch?v=zdzcTh9kUrc| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
 | 20210728 | “中兴捧月”杯算法精英挑战赛-Dijkstra赛道解决方案分享 | https://mp.weixin.qq.com/s/WfvEKvgG98aBZNDfLQhaBg| 
+| 20210728 | 面向人工智能的软件工程研究与实践 | https://mp.weixin.qq.com/s/8xx2Q_cGjBD8l_dNMFkhgg| 
+| 20210728 | 基于公共服务的载荷投递与C2通信技术剖析 | https://mp.weixin.qq.com/s/95EjmJZBSvye1FuAu2J_pQ| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210728T12:45:21Z | CVE-2021-3438 | Null | https://github.com/TobiasS1402/CVE-2021-3438 | A potential buffer overflow in the software drivers for certain HP LaserJet products and Samsung product printers could lead to an escalation of privilege.| 
+| 20210728T15:12:28Z | CVE-2020-0041 | My implementation of CVE-2020-0041 | https://github.com/Byte-Master-101/CVE-2020-0041 | In binder_transaction of binder.c, there is a possible out of bounds write due to an incorrect bounds check. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-145988638References: Upstream kernel| 
+| 20210728T14:51:57Z | CVE-2021-3438 | Detection and remediation for CVE-2021-3438 with Powershell | https://github.com/TobiasS1402/CVE-2021-3438 | A potential buffer overflow in the software drivers for certain HP LaserJet products and Samsung product printers could lead to an escalation of privilege.| 
+| 20210728T13:06:01Z | cve-2021-123456 | Null | https://github.com/zoukba0014/cve-2021-123456 | 未查询到CVE信息| 
 | 20210728T12:24:39Z | CVE-2021-412999 | Null | https://github.com/dorisroot1/CVE-2021-412999 | 未查询到CVE信息| 
 | 20210728T12:12:22Z | CVE-2021-4121442 | Null | https://github.com/dorisroot1/CVE-2021-4121442 | 未查询到CVE信息| 
-| 20210728T12:10:45Z | CVE-2021-2197075 | Null | https://github.com/dorisroot1/CVE-2021-2197075 | | 
+| 20210728T12:10:45Z | CVE-2021-2197075 | Null | https://github.com/dorisroot1/CVE-2021-2197075 | 未查询到CVE信息| 
 | 20210728T12:07:30Z | CVE-2021-42892849 | Null | https://github.com/dorisroot1/CVE-2021-42892849 | 未查询到CVE信息| 
 | 20210728T12:05:39Z | CVE-2021-3214124 | Null | https://github.com/dorisroot1/CVE-2021-3214124 | 未查询到CVE信息| 
 | 20210728T12:03:41Z | CVE-2021-41241412 | Null | https://github.com/dorisroot1/CVE-2021-41241412 | 未查询到CVE信息| 
 | 20210728T11:59:26Z | CVE-2021-5128108 | Null | https://github.com/dorisroot1/CVE-2021-5128108 | 未查询到CVE信息| 
-| 20210728T11:53:08Z | CVE-2021-1258008 | Null | https://github.com/dorisroot1/CVE-2021-1258008 | 未查询到CVE信息| 
-| 20210728T11:50:00Z | CVE-2021-9878724 | Null | https://github.com/dorisroot1/CVE-2021-9878724 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210728T12:40:33Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2391 | 56| 
+| 20210728T23:13:04Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2397 | 56| 
+| 20210728T20:17:10Z | Null | https://github.com/JaimePSantos/ResearchKlee | 0 | 0| 
+| 20210728T14:52:19Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 18 | 0| 
 | 20210728T06:45:21Z | Null | https://github.com/vitaliiomelchenko/kleene | 0 | 0| 
 | 20210728T06:14:57Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 216 | 35| 
 
@@ -53,16 +60,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210728T12:51:14Z | Null | https://github.com/xw103/DepthExploit | 0 | 0| 
-| 20210728T12:39:13Z | E3C is a freely available multilingual corpus (Italian, English, French, Spanish, and Basque) of semantically annotated clinical narratives to allow for the linguistic analysis, benchmarking, and training of information extraction systems. It consists of two types of annotations: (i) clinical entities: pathologies, symptoms, procedures, body parts, etc., according to standard clinical taxonomies (i.e. SNOMED-CT, ICD-10); and (ii) temporal information and factuality: events, time expressions, and temporal relations according to the THYME standard. The corpus is organised into three layers, with different purposes. Layer 1: about 25K tokens per language with full manual annotation of clinical entities, temporal information and factuality, for benchmarkingand linguistic analysis. Layer 2: 50-100K tokens per language with semi-automatic annotations of clinical entities, to be used to train baseline systems. Layer 3: about 1M tokens per language of non-annotated medical documents to be exploited by semi-supervised approaches. Researchers can use the benchmark training and test splits of our corpus to develop and test their own models. We trained several deep learning based models and provide baselines using the benchmark. Both the corpus and the built models will be available through the ELG platform.  | https://github.com/hltfbk/E3C-Corpus | 0 | 1| 
-| 20210728T12:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9773 | 1613| 
-| 20210728T12:34:08Z | Yet another malware collection in the Internet. | https://github.com/BaRRaKudaRain/RedZone | 18 | 6| 
-| 20210728T12:12:15Z | Exploit Discord%s cache system to remote upload payloads on Discord users machines  | https://github.com/dock0d1/Exploit-Discord-Cache-System-PoC | 1 | 1| 
-| 20210728T12:10:43Z | Lightweight open-source packet limiter plugin to prevent minecraft exploits. | https://github.com/HakanGulgen/packetlimiter | 0 | 0| 
-| 20210728T12:10:17Z | Exploit code, Learning materials, Binaries, everything related to OSED preparation. | https://github.com/kainesmicheal/OSED | 0 | 0| 
-| 20210728T12:03:02Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 14| 
-| 20210728T11:59:39Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 6280 | 1766| 
-| 20210728T10:47:29Z | Multi-format search tool - Profiles exploitation based on existing files | https://github.com/LiamSeddaoui/SearcHuman | 1 | 0| 
+| 20210728T23:34:32Z | vuln scanner, web spider, web scanner, auto exploiter, fuzzer, dll injector, shellcoder, backdoors, rootkits, debugger framework | https://github.com/irackit/softkeys | 0 | 0| 
+| 20210728T23:19:38Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 169 | 10| 
+| 20210728T23:03:18Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 14| 
+| 20210728T22:58:08Z | A simple bash script that pulls a new version of Bash and recompiles within the shell. Great for testing privilege escalation exploits in Unix environments. | https://github.com/ITxTristan/bash-recompiler | 0 | 0| 
+| 20210728T22:53:08Z | Null | https://github.com/jwardsmith/Active-Directory-Exploitation | 1 | 0| 
+| 20210728T22:33:12Z | A Discord bot for collecting statistics about emojis% exploitation in a guild. The bot is currently in alpha and talking in Russian. The English language will be added in the future. | https://github.com/VovaOneReal/TheCollectorOfEmojisStats | 0 | 0| 
+| 20210728T22:00:48Z | Popular Pentesting scanner in Python3.6 for SQLi/XSS/LFI/RFI and other Vulns | https://github.com/v3n0m-Scanner/V3n0M-Scanner | 897 | 354| 
+| 20210728T21:53:00Z | Vulnerabilities, security advisories, exploit codes and proof-of-concept codes. | https://github.com/zeroscience/advisory | 5 | 4| 
+| 20210728T21:39:36Z | LFI to RCE | https://github.com/iiSiLvEr/Exploiting-PHP_SESSION_UPLOAD_PRO-GRESS | 0 | 0| 
+| 20210728T21:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9773 | 1613| 
 
 
 # backdoor on Github 推荐
@@ -95,16 +102,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210728T12:58:19Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210728T12:57:20Z | Null | https://github.com/Victor-Alfred/Fuzzy_Detection_Merged_Channels | 0 | 0| 
-| 20210728T12:17:24Z | ruby binary for  enumeration fuzzing | https://github.com/Madhava-mng/m4dh4v45b1n | 2 | 0| 
-| 20210728T12:15:16Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 20 | 8| 
-| 20210728T12:10:56Z | A Codice Fiscale Generator | https://github.com/tonyarris/codice-fuzzcale | 0 | 0| 
-| 20210728T11:35:07Z | 针对小型应用服务搜索场景的工具包（也可部署为独立服务） | https://github.com/kc910521/MiniSearch | 5 | 0| 
-| 20210728T11:24:58Z | SSL and TLS protocol test suite and fuzzer | https://github.com/tlsfuzzer/tlsfuzzer | 388 | 88| 
-| 20210728T11:24:34Z | KVM harness for Linux Kernel Fuzzing | https://github.com/SmoothHacker/LateRegistration | 0 | 0| 
-| 20210728T10:49:22Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 5 | 1| 
-| 20210728T09:54:35Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
+| 20210728T23:47:46Z | Null | https://github.com/opimentel-github/fuzzy-tools | 0 | 0| 
+| 20210728T23:34:32Z | vuln scanner, web spider, web scanner, auto exploiter, fuzzer, dll injector, shellcoder, backdoors, rootkits, debugger framework | https://github.com/irackit/softkeys | 0 | 0| 
+| 20210728T23:29:52Z | Generation-based, context-free grammar fuzzer. | https://github.com/MozillaSecurity/dharma | 435 | 83| 
+| 20210728T22:59:20Z | Fuzzing for improper API error handle detection | https://github.com/purs3lab/APIFuzzErr | 0 | 0| 
+| 20210728T22:31:03Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20210728T22:07:59Z | An investigation of American Fuzzy Lop++ as a fuzzer | https://github.com/hark130/hardy-remix | 0 | 0| 
+| 20210728T22:05:51Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
+| 20210728T21:58:11Z | Null | https://github.com/epsonik/FuzzyDescV2 | 0 | 0| 
+| 20210728T21:53:17Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6513 | 1321| 
+| 20210728T21:19:12Z | A simple fuzzer in C++ | https://github.com/simocosimo/SimpleFuzzer | 0 | 0| 
 
 
 
