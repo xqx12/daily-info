@@ -75,20 +75,22 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210728T10:51:29Z | pybotnet -  Library for building botnet ,backdoor or trojan with Telegram control panel | https://github.com/onionj/pybotnet | 10 | 5| 
-| 20210728T10:24:35Z | CredPhish is a PowerShell script designed to invoke legitimate credential prompts and exfiltrate passwords over DNS. | https://github.com/tokyoneon/CredPhish | 34 | 4| 
+| 20210728T23:49:22Z | CredPhish is a PowerShell script designed to invoke legitimate credential prompts and exfiltrate passwords over DNS. | https://github.com/tokyoneon/CredPhish | 41 | 5| 
+| 20210728T23:39:56Z | Null | https://github.com/jjy1994/BackdoorSSL | 1 | 0| 
+| 20210728T23:34:32Z | vuln scanner, web spider, web scanner, auto exploiter, fuzzer, dll injector, shellcoder, backdoors, rootkits, debugger framework | https://github.com/irackit/softkeys | 0 | 0| 
+| 20210728T20:56:06Z | pybotnet -  Library for building botnet ,backdoor or trojan with Telegram control panel | https://github.com/onionj/pybotnet | 10 | 5| 
+| 20210728T19:13:41Z | Null | https://github.com/kyukazamiqq/backdoor | 0 | 0| 
+| 20210728T17:07:03Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 19 | 6| 
+| 20210728T15:29:53Z | a simple backdoor in Nim | https://github.com/kensh1ro/NimTeleBackdoor | 11 | 1| 
 | 20210728T08:59:24Z | Backdoor has been discovered by me in Denver Smart Wifi Camera SHC-150. Backdoor allows attacker to execute commands on OS level. | https://github.com/enty8080/denver-camera-backdoor | 3 | 1| 
 | 20210728T08:21:22Z | Python AV Evasion Tools | https://github.com/G1ft3dC0d3/MsfMania | 188 | 45| 
 | 20210728T06:51:17Z | A collection of python written hacking tools consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester credential harvester, keylogger, download&execute, and reverse_backdoor. | https://github.com/dmdhrumilmistry/pyhtools | 19 | 7| 
-| 20210728T04:33:31Z | Yet Another PHP Shell | https://github.com/Nickguitar/YAPS | 17 | 2| 
-| 20210728T03:21:10Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 270 | 51| 
-| 20210728T02:50:21Z | Windows 10 PRO Activator - No more backdoors via loaders from China and neither you will need any crack anymore that is valid for a week or two. This is script is written for powershell/cmd. This script will also removing all bloatware from Windows 10. Edit the script after your needs. | https://github.com/wuseman/wloader | 70 | 16| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210728T11:16:12Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 91 | 6| 
+| 20210728T19:21:09Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 91 | 6| 
 | 20210728T10:14:32Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2399 | 353| 
 | 20210728T08:47:28Z | A toy symbolic execution engine, supporting the blog article ... | https://github.com/synacktiv/toy-wasm-symbexp | 2 | 0| 
 | 20210728T08:10:24Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 153 | 33| 
