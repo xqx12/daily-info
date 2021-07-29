@@ -33,7 +33,7 @@
 | 20210729T09:28:22Z | CVE-2020-3452 | CISCO CVE-2020-3452 Scanner & Exploiter | https://github.com/darklotuskdb/CISCO-CVE-2020-3452-Scanner-Exploiter | A vulnerability in the web services interface of Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software could allow an unauthenticated, remote attacker to conduct directory traversal attacks and read sensitive files on a targeted system. The vulnerability is due to a lack of proper input validation of URLs in HTTP requests processed by an affected device. An attacker could exploit this vulnerability by sending a crafted HTTP request containing directory traversal character sequences to an affected device. A successful exploit could allow the attacker to view arbitrary files within the web services file system on the targeted device. The web services file system is enabled when the affected device is configured with either WebVPN or AnyConnect features. This vulnerability cannot be used to obtain access to ASA or FTD system files or underlying operating system (OS) files.| 
 | 20210729T08:25:46Z | CVE-2021- | Null | https://github.com/hanchen666/CVE-2021-XXXX | 未查询到CVE信息| 
 | 20210729T08:24:46Z | CVE-2021-3560 | NYCY_homework_&_meeting | https://github.com/BizarreLove/CVE-2021-3560 | 未查询到CVE信息| 
-| 20210729T06:47:23Z | CVE-2021-36934 | CVE-2021-36934 PowerShell Fix | https://github.com/tda90/CVE-2021-36934 | | 
+| 20210729T06:47:23Z | CVE-2021-36934 | CVE-2021-36934 PowerShell Fix | https://github.com/tda90/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
 | 20210729T04:51:30Z | CVE-2020-9014 | Proof of concept code for CVE-2020-9014 | https://github.com/Crystalware/CVE-2020-9014 | In Epson iProjection v2.30, the driver file (EMP_NSAU.sys) allows local users to cause a denial of service (BSOD) via crafted input to the virtual audio device driver with IOCTL 0x9C402402, 0x9C402406, or 0x9C40240A. \Device\EMPNSAUIO and \DosDevices\EMPNSAU are similarly affected.| 
 | 20210729T04:13:11Z | CVE-2020-5248 | CVE-2020-5248 | https://github.com/Mkway/CVE-2020-5248 | GLPI before before version 9.4.6 has a vulnerability involving a default encryption key. GLPIKEY is public and is used on every instance. This means anyone can decrypt sensitive data stored using this key. It is possible to change the key before installing GLPI. But on existing instances, data must be reencrypted with the new key. Problem is we can not know which columns or rows in the database are using that; espcially from plugins. Changing the key without updating data would lend in bad password sent from glpi; but storing them again from the UI will work.| 
 | 20210729T03:57:57Z | CVE-2021-3438 | Proof of concept code for CVE-2021-3438 | https://github.com/Crystalware/CVE-2021-3438 | A potential buffer overflow in the software drivers for certain HP LaserJet products and Samsung product printers could lead to an escalation of privilege.| 
@@ -42,8 +42,8 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210729T12:48:27Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2415 | 57| 
 | 20210729T12:47:16Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 144 | 22| 
-| 20210729T12:16:02Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2414 | 57| 
 | 20210729T09:58:55Z | A RISC-V RV32 virtual prototype based on riscv-vp with symbolic execution support | https://github.com/agra-uni-bremen/symex-vp | 2 | 0| 
 | 20210729T05:02:29Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 125 | 36| 
 
@@ -57,6 +57,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210729T12:49:07Z | Tools for exploiting ARIA standard products | https://github.com/aria-tools/ARIA-tools | 43 | 22| 
 | 20210729T12:37:12Z | Exploit Remote Command Execution for OpenNetAdmin v18.1.1 written in Python3 | https://github.com/rekkatz/OpenNetAdmin-v18.1.1-RCE | 0 | 0| 
 | 20210729T12:35:16Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9773 | 1612| 
 | 20210729T12:20:36Z | Null | https://github.com/Dolf7/Binary_Exploitation_1 | 0 | 0| 
@@ -66,7 +67,6 @@
 | 20210729T12:00:51Z | Blueborne CVE-2017-0781 Android heap overflow vulnerability | https://github.com/ojasookert/CVE-2017-0781 | 78 | 40| 
 | 20210729T11:58:09Z | Model of resource exploitation of Iron Age communities in southwest Anatolia. To be presented at ReSoc conference | https://github.com/driesdaems10/Resoc | 1 | 1| 
 | 20210729T11:44:26Z | E3C is a freely available multilingual corpus (Italian, English, French, Spanish, and Basque) of semantically annotated clinical narratives to allow for the linguistic analysis, benchmarking, and training of information extraction systems. It consists of two types of annotations: (i) clinical entities: pathologies, symptoms, procedures, body parts, etc., according to standard clinical taxonomies (i.e. SNOMED-CT, ICD-10); and (ii) temporal information and factuality: events, time expressions, and temporal relations according to the THYME standard. The corpus is organised into three layers, with different purposes. Layer 1: about 25K tokens per language with full manual annotation of clinical entities, temporal information and factuality, for benchmarkingand linguistic analysis. Layer 2: 50-100K tokens per language with semi-automatic annotations of clinical entities, to be used to train baseline systems. Layer 3: about 1M tokens per language of non-annotated medical documents to be exploited by semi-supervised approaches. Researchers can use the benchmark training and test splits of our corpus to develop and test their own models. We trained several deep learning based models and provide baselines using the benchmark. Both the corpus and the built models will be available through the ELG platform.  | https://github.com/hltfbk/E3C-Corpus | 0 | 1| 
-| 20210729T11:12:54Z | PacketLimiter is a open-source packet limiter to fix minecraft exploits with version support for 1.7 to 1.17. | https://github.com/HakanGulgen/packetlimiter | 0 | 0| 
 
 
 # backdoor on Github 推荐
