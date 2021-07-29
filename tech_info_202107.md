@@ -53,7 +53,7 @@
 | 20210728T12:12:22Z | CVE-2021-4121442 | Null | https://github.com/dorisroot1/CVE-2021-4121442 | 未查询到CVE信息| 
 | 20210728T12:10:45Z | CVE-2021-2197075 | Null | https://github.com/dorisroot1/CVE-2021-2197075 | 未查询到CVE信息| 
 | 20210728T12:07:30Z | CVE-2021-42892849 | Null | https://github.com/dorisroot1/CVE-2021-42892849 | 未查询到CVE信息| 
-| 20210728T12:05:39Z | CVE-2021-3214124 | Null | https://github.com/dorisroot1/CVE-2021-3214124 | | 
+| 20210728T12:05:39Z | CVE-2021-3214124 | Null | https://github.com/dorisroot1/CVE-2021-3214124 | 未查询到CVE信息| 
 | 20210728T12:03:41Z | CVE-2021-41241412 | Null | https://github.com/dorisroot1/CVE-2021-41241412 | 未查询到CVE信息| 
 | 20210728T11:59:26Z | CVE-2021-5128108 | Null | https://github.com/dorisroot1/CVE-2021-5128108 | 未查询到CVE信息| 
 
@@ -91,9 +91,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210729T00:09:43Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 170 | 10| 
 | 20210729T00:03:01Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 14| 
 | 20210728T23:34:32Z | vuln scanner, web spider, web scanner, auto exploiter, fuzzer, dll injector, shellcoder, backdoors, rootkits, debugger framework | https://github.com/irackit/softkeys | 0 | 0| 
-| 20210728T23:19:38Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 169 | 10| 
 | 20210728T22:58:08Z | A simple bash script that pulls a new version of Bash and recompiles within the shell. Great for testing privilege escalation exploits in Unix environments. | https://github.com/ITxTristan/bash-recompiler | 0 | 0| 
 | 20210728T22:53:08Z | Null | https://github.com/jwardsmith/Active-Directory-Exploitation | 1 | 0| 
 | 20210728T22:33:12Z | A Discord bot for collecting statistics about emojis% exploitation in a guild. The bot is currently in alpha and talking in Russian. The English language will be added in the future. | https://github.com/VovaOneReal/TheCollectorOfEmojisStats | 0 | 0| 
