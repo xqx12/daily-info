@@ -76,6 +76,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210729T07:15:00Z | Null | https://github.com/Chanel-B/S2E_Projects | 0 | 0| 
 | 20210727T06:34:28Z | Simulator for S2Engine architucture , a CNN accelerator | https://github.com/BUAA-CI-Lab/S2EngineSimulator | 2 | 1| 
 | 20210726T07:22:48Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 145 | 35| 
 | 20210723T02:37:08Z | Config files for my GitHub profile. | https://github.com/s2ensei/s2ensei | 0 | 0| 
@@ -85,7 +86,6 @@
 | 20210721T14:56:09Z | Automatic Exploit Generation (AEG) tool based on S2E 2.X | https://github.com/aesophor/baphomet | 3 | 0| 
 | 20210716T08:48:51Z | Season 2, Episode 1 - In this episode we look at how to correctly host your HTML files, and reverse proxy the ws/ (Websocket) connections back to the Asterisk Service. It%s all done on a single local instance so we are using a self signed certificate. | https://github.com/InnovateAsterisk/S2E1 | 0 | 0| 
 | 20210714T02:13:53Z | GUI Configuration tool for WIZnet serial to ethernet devices. | https://github.com/Wiznet/WIZnet-S2E-Tool-GUI | 13 | 8| 
-| 20210713T19:49:07Z | Null | https://github.com/yuvalkirstain/s2e-coref | 9 | 4| 
 
 
 # exploit on Github 推荐
