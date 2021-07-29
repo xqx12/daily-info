@@ -150,6 +150,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210729T00:19:50Z | Scan ports or fuzz web endpoints. A simple script. | https://github.com/kaantekiner/web-and-port-fuzzer | 0 | 0| 
 | 20210728T23:47:46Z | Null | https://github.com/opimentel-github/fuzzy-tools | 0 | 0| 
 | 20210728T23:34:32Z | vuln scanner, web spider, web scanner, auto exploiter, fuzzer, dll injector, shellcoder, backdoors, rootkits, debugger framework | https://github.com/irackit/softkeys | 0 | 0| 
 | 20210728T23:29:52Z | Generation-based, context-free grammar fuzzer. | https://github.com/MozillaSecurity/dharma | 435 | 83| 
@@ -159,7 +160,6 @@
 | 20210728T22:05:51Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210728T21:58:11Z | Null | https://github.com/epsonik/FuzzyDescV2 | 0 | 0| 
 | 20210728T21:53:17Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6513 | 1321| 
-| 20210728T21:19:12Z | A simple fuzzer in C++ | https://github.com/simocosimo/SimpleFuzzer | 0 | 0| 
 
 
 
