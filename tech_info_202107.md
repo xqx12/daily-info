@@ -91,16 +91,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210729T12:04:03Z | Some simple python scripts that can be used to discover and exploit vulnerabilities  | https://github.com/shin0x/Python-Security-Scripts | 0 | 0| 
+| 20210729T12:03:12Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 14| 
 | 20210729T12:00:51Z | Blueborne CVE-2017-0781 Android heap overflow vulnerability | https://github.com/ojasookert/CVE-2017-0781 | 78 | 40| 
 | 20210729T11:58:09Z | Model of resource exploitation of Iron Age communities in southwest Anatolia. To be presented at ReSoc conference | https://github.com/driesdaems10/Resoc | 1 | 1| 
 | 20210729T11:44:26Z | E3C is a freely available multilingual corpus (Italian, English, French, Spanish, and Basque) of semantically annotated clinical narratives to allow for the linguistic analysis, benchmarking, and training of information extraction systems. It consists of two types of annotations: (i) clinical entities: pathologies, symptoms, procedures, body parts, etc., according to standard clinical taxonomies (i.e. SNOMED-CT, ICD-10); and (ii) temporal information and factuality: events, time expressions, and temporal relations according to the THYME standard. The corpus is organised into three layers, with different purposes. Layer 1: about 25K tokens per language with full manual annotation of clinical entities, temporal information and factuality, for benchmarkingand linguistic analysis. Layer 2: 50-100K tokens per language with semi-automatic annotations of clinical entities, to be used to train baseline systems. Layer 3: about 1M tokens per language of non-annotated medical documents to be exploited by semi-supervised approaches. Researchers can use the benchmark training and test splits of our corpus to develop and test their own models. We trained several deep learning based models and provide baselines using the benchmark. Both the corpus and the built models will be available through the ELG platform.  | https://github.com/hltfbk/E3C-Corpus | 0 | 1| 
 | 20210729T11:12:54Z | PacketLimiter is a open-source packet limiter to fix minecraft exploits with version support for 1.7 to 1.17. | https://github.com/HakanGulgen/packetlimiter | 0 | 0| 
 | 20210729T11:06:16Z | Exploiting a buffer overflow vulnerability with ROP chains. | https://github.com/kavishkagihan/ROP-Buffer-overflow | 0 | 0| 
 | 20210729T11:04:00Z | Null | https://github.com/seapaddy/php-exploit | 0 | 0| 
-| 20210729T11:03:00Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 14| 
 | 20210729T10:59:51Z | A Discord bot for collecting statistics about emojis% exploitation in a guild. The bot is currently in alpha and talking in Russian. The English language will be added in the future. | https://github.com/VovaOneReal/TheCollectorOfEmojisStats | 0 | 0| 
 | 20210729T10:32:45Z | Blogging with 100% less risk of wordpress being exploited | https://github.com/Hypfer/blog.hypfer.de | 0 | 0| 
-| 20210729T10:05:10Z | Exploits that I modified according to my need/usecase . | https://github.com/A3h1nt/Exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -121,16 +121,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210729T10:41:45Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 153 | 33| 
+| 20210729T10:12:17Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 17 | 3| 
+| 20210729T10:11:24Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1852 | 388| 
+| 20210729T09:58:55Z | A RISC-V RV32 virtual prototype based on riscv-vp with symbolic execution support | https://github.com/agra-uni-bremen/symex-vp | 2 | 0| 
+| 20210729T09:13:56Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2402 | 354| 
+| 20210729T08:49:54Z | Monster is a symbolic execution engine for 64-bit RISC-U code | https://github.com/cksystemsgroup/monster | 6 | 3| 
+| 20210729T05:35:35Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1734 | 499| 
 | 20210728T19:21:09Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 91 | 6| 
-| 20210728T10:14:32Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2399 | 353| 
 | 20210728T08:47:28Z | A toy symbolic execution engine, supporting the blog article ... | https://github.com/synacktiv/toy-wasm-symbexp | 2 | 0| 
-| 20210728T08:10:24Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 153 | 33| 
 | 20210727T22:46:24Z | Symbolic execution in radare2 with angr | https://github.com/0xchase/modality | 40 | 1| 
-| 20210727T17:58:27Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1852 | 388| 
-| 20210727T17:12:14Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 7 | 4| 
-| 20210727T15:16:12Z | SymQEMU: Compilation-based symbolic execution for binaries | https://github.com/eurecom-s3/symqemu | 158 | 20| 
-| 20210727T14:23:02Z | A tool for generating nonlinear numerical invariants for C and Java programs.  DIG uses dynamic analysis to infer invariants over program execution traces and applies symbolic execution to inferred invariants. | https://github.com/unsat/dig | 4 | 4| 
-| 20210727T10:54:08Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 449 | 68| 
 
 
 # big4 on Github 推荐
