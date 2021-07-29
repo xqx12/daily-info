@@ -150,6 +150,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210729T01:10:42Z | Null | https://github.com/opimentel-github/fuzzy-torch | 1 | 0| 
 | 20210729T00:50:57Z | DDRFuzz is a fuzzing system based on a seq2seq model to generate valuable seed corpus. | https://github.com/kppw99/ddrfuzz | 2 | 1| 
 | 20210729T00:19:50Z | Scan ports or fuzz web endpoints. A simple script. | https://github.com/kaantekiner/web-and-port-fuzzer | 0 | 0| 
 | 20210728T23:47:46Z | Null | https://github.com/opimentel-github/fuzzy-tools | 0 | 0| 
@@ -159,7 +160,6 @@
 | 20210728T22:31:03Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210728T22:07:59Z | An investigation of American Fuzzy Lop++ as a fuzzer | https://github.com/hark130/hardy-remix | 0 | 0| 
 | 20210728T22:05:51Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
-| 20210728T21:58:11Z | Null | https://github.com/epsonik/FuzzyDescV2 | 0 | 0| 
 
 
 
