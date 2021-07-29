@@ -29,14 +29,14 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210729T12:53:17Z | CVE-2021-30573 | Google Chrome Use After Free vulnerability reported by S4E Team | https://github.com/s4e-lab/CVE-2021-30573-PoC-Google-Chrome | 未查询到CVE信息| 
-| 20210729T12:18:22Z | cve-2021-1480 | Null | https://github.com/xmco/sdwan-cve-2021-1480 | Multiple vulnerabilities in Cisco SD-WAN vManage Software could allow an unauthenticated, remote attacker to execute arbitrary code or allow an authenticated, local attacker to gain escalated privileges on an affected system. For more information about these vulnerabilities, see the Details section of this advisory.| 
+| 20210729T12:18:22Z | cve-2021-1480 | Null | https://github.com/xmco/sdwan-cve-2021-1480 | | 
 | 20210729T10:02:13Z | CVE-2021-27965 | Proof of concept for CVE-2021-27965 (Stack-based Buffer Overflow) | https://github.com/Crystalware/CVE-2021-27965 | The MsIo64.sys driver before 1.1.19.1016 in MSI Dragon Center before 2.0.98.0 has a buffer overflow that allows privilege escalation via a crafted 0x80102040, 0x80102044, 0x80102050, or 0x80102054 IOCTL request.| 
 | 20210729T09:28:22Z | CVE-2020-3452 | CISCO CVE-2020-3452 Scanner & Exploiter | https://github.com/darklotuskdb/CISCO-CVE-2020-3452-Scanner-Exploiter | A vulnerability in the web services interface of Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software could allow an unauthenticated, remote attacker to conduct directory traversal attacks and read sensitive files on a targeted system. The vulnerability is due to a lack of proper input validation of URLs in HTTP requests processed by an affected device. An attacker could exploit this vulnerability by sending a crafted HTTP request containing directory traversal character sequences to an affected device. A successful exploit could allow the attacker to view arbitrary files within the web services file system on the targeted device. The web services file system is enabled when the affected device is configured with either WebVPN or AnyConnect features. This vulnerability cannot be used to obtain access to ASA or FTD system files or underlying operating system (OS) files.| 
 | 20210729T08:25:46Z | CVE-2021- | Null | https://github.com/hanchen666/CVE-2021-XXXX | 未查询到CVE信息| 
 | 20210729T08:24:46Z | CVE-2021-3560 | NYCY_homework_&_meeting | https://github.com/BizarreLove/CVE-2021-3560 | 未查询到CVE信息| 
 | 20210729T06:47:23Z | CVE-2021-36934 | CVE-2021-36934 PowerShell Fix | https://github.com/tda90/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
 | 20210729T04:51:30Z | CVE-2020-9014 | Proof of concept code for CVE-2020-9014 | https://github.com/Crystalware/CVE-2020-9014 | In Epson iProjection v2.30, the driver file (EMP_NSAU.sys) allows local users to cause a denial of service (BSOD) via crafted input to the virtual audio device driver with IOCTL 0x9C402402, 0x9C402406, or 0x9C40240A. \Device\EMPNSAUIO and \DosDevices\EMPNSAU are similarly affected.| 
-| 20210729T04:13:11Z | CVE-2020-5248 | CVE-2020-5248 | https://github.com/Mkway/CVE-2020-5248 | | 
+| 20210729T04:13:11Z | CVE-2020-5248 | CVE-2020-5248 | https://github.com/Mkway/CVE-2020-5248 | GLPI before before version 9.4.6 has a vulnerability involving a default encryption key. GLPIKEY is public and is used on every instance. This means anyone can decrypt sensitive data stored using this key. It is possible to change the key before installing GLPI. But on existing instances, data must be reencrypted with the new key. Problem is we can not know which columns or rows in the database are using that; espcially from plugins. Changing the key without updating data would lend in bad password sent from glpi; but storing them again from the UI will work.| 
 | 20210729T03:57:57Z | CVE-2021-3438 | Proof of concept code for CVE-2021-3438 | https://github.com/Crystalware/CVE-2021-3438 | | 
 
 
@@ -104,6 +104,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210729T12:55:24Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210729T12:40:50Z | solution for full stack coding problem from testpress tech labs | https://github.com/gamersdestiny/fuzzyquiz | 0 | 0| 
 | 20210729T12:30:12Z | SSL and TLS protocol test suite and fuzzer | https://github.com/tlsfuzzer/tlsfuzzer | 388 | 88| 
 | 20210729T12:15:19Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 20 | 8| 
@@ -112,7 +113,6 @@
 | 20210729T11:16:26Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
 | 20210729T10:56:39Z | Fuzzy Text watchface for Garmin devices | https://github.com/nels0nwu/fuzzy-text | 0 | 0| 
 | 20210729T10:40:54Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
-| 20210729T10:37:29Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210729T10:24:07Z | 针对小型应用服务搜索场景的工具包（也可部署为独立服务） | https://github.com/kc910521/MiniSearch | 5 | 0| 
 
 
