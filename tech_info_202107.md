@@ -48,7 +48,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210728T15:12:28Z | CVE-2020-0041 | My implementation of CVE-2020-0041 | https://github.com/Byte-Master-101/CVE-2020-0041 | In binder_transaction of binder.c, there is a possible out of bounds write due to an incorrect bounds check. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-145988638References: Upstream kernel| 
 | 20210728T14:51:57Z | CVE-2021-3438 | Detection and remediation for CVE-2021-3438 with Powershell | https://github.com/TobiasS1402/CVE-2021-3438 | A potential buffer overflow in the software drivers for certain HP LaserJet products and Samsung product printers could lead to an escalation of privilege.| 
-| 20210728T13:06:01Z | cve-2021-123456 | Null | https://github.com/zoukba0014/cve-2021-123456 | | 
+| 20210728T13:06:01Z | cve-2021-123456 | Null | https://github.com/zoukba0014/cve-2021-123456 | 未查询到CVE信息| 
 | 20210728T12:24:39Z | CVE-2021-412999 | Null | https://github.com/dorisroot1/CVE-2021-412999 | 未查询到CVE信息| 
 | 20210728T12:12:22Z | CVE-2021-4121442 | Null | https://github.com/dorisroot1/CVE-2021-4121442 | 未查询到CVE信息| 
 | 20210728T12:10:45Z | CVE-2021-2197075 | Null | https://github.com/dorisroot1/CVE-2021-2197075 | 未查询到CVE信息| 
@@ -150,8 +150,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210729T01:35:35Z | This project aims to recognize vowels recorded in a noisy environment. It does this using 6 different types of neuro-fuzzy networks and determines the best base model. | https://github.com/atulshrotriya/Comparison-of-neural-and-fuzzy-models-for-vowel-recognition | 0 | 0| 
 | 20210729T01:33:54Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210729T01:31:58Z | This project aims to recognize vowels recorded in a noisy environment. It does this using 6 different types of neuro-fuzzy networks and determines the best base model. | https://github.com/atulshrotriya/Comparison-of-neural-and-fuzzy-models-for-vowel-recognition | 0 | 0| 
 | 20210729T01:29:31Z | Null | https://github.com/Pineapple999Master999/fuzzy-palm-tree | 0 | 0| 
 | 20210729T01:10:42Z | Null | https://github.com/opimentel-github/fuzzy-torch | 1 | 0| 
 | 20210729T00:50:57Z | DDRFuzz is a fuzzing system based on a seq2seq model to generate valuable seed corpus. | https://github.com/kppw99/ddrfuzz | 2 | 1| 
