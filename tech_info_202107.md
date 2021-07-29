@@ -51,10 +51,10 @@
 | 20210728T13:06:01Z | cve-2021-123456 | Null | https://github.com/zoukba0014/cve-2021-123456 | 未查询到CVE信息| 
 | 20210728T12:24:39Z | CVE-2021-412999 | Null | https://github.com/dorisroot1/CVE-2021-412999 | 未查询到CVE信息| 
 | 20210728T12:12:22Z | CVE-2021-4121442 | Null | https://github.com/dorisroot1/CVE-2021-4121442 | 未查询到CVE信息| 
-| 20210728T12:10:45Z | CVE-2021-2197075 | Null | https://github.com/dorisroot1/CVE-2021-2197075 | 未查询到CVE信息| 
+| 20210728T12:10:45Z | CVE-2021-2197075 | Null | https://github.com/dorisroot1/CVE-2021-2197075 | | 
 | 20210728T12:07:30Z | CVE-2021-42892849 | Null | https://github.com/dorisroot1/CVE-2021-42892849 | 未查询到CVE信息| 
-| 20210728T12:05:39Z | CVE-2021-3214124 | Null | https://github.com/dorisroot1/CVE-2021-3214124 | | 
-| 20210728T12:03:41Z | CVE-2021-41241412 | Null | https://github.com/dorisroot1/CVE-2021-41241412 | 未查询到CVE信息| 
+| 20210728T12:05:39Z | CVE-2021-3214124 | Null | https://github.com/dorisroot1/CVE-2021-3214124 | 未查询到CVE信息| 
+| 20210728T12:03:41Z | CVE-2021-41241412 | Null | https://github.com/dorisroot1/CVE-2021-41241412 | | 
 | 20210728T11:59:26Z | CVE-2021-5128108 | Null | https://github.com/dorisroot1/CVE-2021-5128108 | 未查询到CVE信息| 
 
 
@@ -91,14 +91,14 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210729T01:28:43Z | A python script that exploits open adb(Android Debug Bridge) devices. | https://github.com/kikiokol/Android-Down | 0 | 0| 
+| 20210729T01:27:27Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 176 | 10| 
 | 20210729T01:18:25Z | Null | https://github.com/jwardsmith/Active-Directory-Exploitation | 1 | 0| 
 | 20210729T01:15:34Z | Exploiting Fast LCF and BERT for Aspect-based Sentiment Analysis (Official Implementation of LCF-BERT) | https://github.com/yangheng95/PyABSA | 124 | 23| 
-| 20210729T01:12:27Z | A python script that exploits open adb(Android Debug Bridge) devices. | https://github.com/kikiokol/Android-Down | 0 | 0| 
 | 20210729T01:11:06Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 23 | 5| 
 | 20210729T01:03:01Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 14| 
 | 20210729T00:52:06Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 19 | 12| 
 | 20210729T00:49:51Z | Roblox-TS typings for popular Roblox %scripting engines% | https://github.com/richie0866/exploit-types | 0 | 0| 
-| 20210729T00:34:16Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 173 | 10| 
 | 20210729T00:20:14Z | Sourcemod plugin for No More Room in Hell that fixes an exploit allowing players to use chainsaws without consuming fuel. | https://github.com/dysphie/nmrih-infinite-fuel-fix | 0 | 0| 
 | 20210728T23:34:32Z | vuln scanner, web spider, web scanner, auto exploiter, fuzzer, dll injector, shellcoder, backdoors, rootkits, debugger framework | https://github.com/irackit/softkeys | 0 | 0| 
 
@@ -150,6 +150,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210729T01:28:56Z | Null | https://github.com/Pineapple999Master999/fuzzy-palm-tree | 0 | 0| 
 | 20210729T01:10:42Z | Null | https://github.com/opimentel-github/fuzzy-torch | 1 | 0| 
 | 20210729T00:50:57Z | DDRFuzz is a fuzzing system based on a seq2seq model to generate valuable seed corpus. | https://github.com/kppw99/ddrfuzz | 2 | 1| 
 | 20210729T00:19:50Z | Scan ports or fuzz web endpoints. A simple script. | https://github.com/kaantekiner/web-and-port-fuzzer | 0 | 0| 
@@ -159,7 +160,6 @@
 | 20210728T22:59:20Z | Fuzzing for improper API error handle detection | https://github.com/purs3lab/APIFuzzErr | 0 | 0| 
 | 20210728T22:31:03Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210728T22:07:59Z | An investigation of American Fuzzy Lop++ as a fuzzer | https://github.com/hark130/hardy-remix | 0 | 0| 
-| 20210728T22:05:51Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 
 
 
