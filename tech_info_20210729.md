@@ -35,7 +35,7 @@
 | 20210729T08:24:46Z | CVE-2021-3560 | NYCY_homework_&_meeting | https://github.com/BizarreLove/CVE-2021-3560 | 未查询到CVE信息| 
 | 20210729T06:47:23Z | CVE-2021-36934 | CVE-2021-36934 PowerShell Fix | https://github.com/tda90/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
 | 20210729T04:51:30Z | CVE-2020-9014 | Proof of concept code for CVE-2020-9014 | https://github.com/Crystalware/CVE-2020-9014 | In Epson iProjection v2.30, the driver file (EMP_NSAU.sys) allows local users to cause a denial of service (BSOD) via crafted input to the virtual audio device driver with IOCTL 0x9C402402, 0x9C402406, or 0x9C40240A. \Device\EMPNSAUIO and \DosDevices\EMPNSAU are similarly affected.| 
-| 20210729T04:13:11Z | CVE-2020-5248 | CVE-2020-5248 | https://github.com/Mkway/CVE-2020-5248 | GLPI before before version 9.4.6 has a vulnerability involving a default encryption key. GLPIKEY is public and is used on every instance. This means anyone can decrypt sensitive data stored using this key. It is possible to change the key before installing GLPI. But on existing instances, data must be reencrypted with the new key. Problem is we can not know which columns or rows in the database are using that; espcially from plugins. Changing the key without updating data would lend in bad password sent from glpi; but storing them again from the UI will work.| 
+| 20210729T04:13:11Z | CVE-2020-5248 | CVE-2020-5248 | https://github.com/Mkway/CVE-2020-5248 | | 
 | 20210729T03:57:57Z | CVE-2021-3438 | Proof of concept code for CVE-2021-3438 | https://github.com/Crystalware/CVE-2021-3438 | A potential buffer overflow in the software drivers for certain HP LaserJet products and Samsung product printers could lead to an escalation of privilege.| 
 
 
@@ -56,6 +56,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210729T12:31:46Z | Exploit Remote Command Execution for OpenNetAdmin v18.1.1 written in Python3 | https://github.com/rekkatz/OpenNetAdmin-v18.1.1-RCE | 0 | 0| 
 | 20210729T12:20:36Z | Null | https://github.com/Dolf7/Binary_Exploitation_1 | 0 | 0| 
 | 20210729T12:09:09Z | Moving Object Segmentation in 3D LiDAR Data: A Learning-based Approach Exploiting Sequential Data (RAL/IROS 2021) | https://github.com/PRBonn/LiDAR-MOS | 115 | 17| 
 | 20210729T12:06:56Z | Some simple python scripts that can be used to discover and exploit vulnerabilities  | https://github.com/shin0x/Python-Security-Scripts | 0 | 0| 
@@ -65,13 +66,13 @@
 | 20210729T11:44:26Z | E3C is a freely available multilingual corpus (Italian, English, French, Spanish, and Basque) of semantically annotated clinical narratives to allow for the linguistic analysis, benchmarking, and training of information extraction systems. It consists of two types of annotations: (i) clinical entities: pathologies, symptoms, procedures, body parts, etc., according to standard clinical taxonomies (i.e. SNOMED-CT, ICD-10); and (ii) temporal information and factuality: events, time expressions, and temporal relations according to the THYME standard. The corpus is organised into three layers, with different purposes. Layer 1: about 25K tokens per language with full manual annotation of clinical entities, temporal information and factuality, for benchmarkingand linguistic analysis. Layer 2: 50-100K tokens per language with semi-automatic annotations of clinical entities, to be used to train baseline systems. Layer 3: about 1M tokens per language of non-annotated medical documents to be exploited by semi-supervised approaches. Researchers can use the benchmark training and test splits of our corpus to develop and test their own models. We trained several deep learning based models and provide baselines using the benchmark. Both the corpus and the built models will be available through the ELG platform.  | https://github.com/hltfbk/E3C-Corpus | 0 | 1| 
 | 20210729T11:12:54Z | PacketLimiter is a open-source packet limiter to fix minecraft exploits with version support for 1.7 to 1.17. | https://github.com/HakanGulgen/packetlimiter | 0 | 0| 
 | 20210729T11:06:16Z | Exploiting a buffer overflow vulnerability with ROP chains. | https://github.com/kavishkagihan/ROP-Buffer-overflow | 0 | 0| 
-| 20210729T11:04:00Z | Null | https://github.com/seapaddy/php-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210729T12:23:04Z | CredPhish is a PowerShell script designed to invoke legitimate credential prompts and exfiltrate passwords over DNS. | https://github.com/tokyoneon/CredPhish | 67 | 8| 
+| 20210729T12:32:33Z | Backdoor has been discovered by me in Denver Smart Wifi Camera SHC-150. Backdoor allows attacker to execute commands on OS level. | https://github.com/enty8080/denver-camera-backdoor | 4 | 1| 
+| 20210729T12:27:31Z | CredPhish is a PowerShell script designed to invoke legitimate credential prompts and exfiltrate passwords over DNS. | https://github.com/tokyoneon/CredPhish | 68 | 8| 
 | 20210729T10:02:04Z | Here is the reverse_backdoor using reverse TCP model.It%s only for educational purpose not harm any device. | https://github.com/sainathreddy0207/reverse_backdoor | 0 | 0| 
 | 20210729T09:15:54Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 20 | 6| 
 | 20210729T08:27:04Z | Python AV Evasion Tools | https://github.com/G1ft3dC0d3/MsfMania | 189 | 45| 
