@@ -33,13 +33,13 @@
 | 20210728T15:12:28Z | CVE-2020-0041 | My implementation of CVE-2020-0041 | https://github.com/Byte-Master-101/CVE-2020-0041 | In binder_transaction of binder.c, there is a possible out of bounds write due to an incorrect bounds check. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-145988638References: Upstream kernel| 
 | 20210728T14:51:57Z | CVE-2021-3438 | Detection and remediation for CVE-2021-3438 with Powershell | https://github.com/TobiasS1402/CVE-2021-3438 | A potential buffer overflow in the software drivers for certain HP LaserJet products and Samsung product printers could lead to an escalation of privilege.| 
 | 20210728T13:06:01Z | cve-2021-123456 | Null | https://github.com/zoukba0014/cve-2021-123456 | 未查询到CVE信息| 
-| 20210728T12:24:39Z | CVE-2021-412999 | Null | https://github.com/dorisroot1/CVE-2021-412999 | | 
-| 20210728T12:12:22Z | CVE-2021-4121442 | Null | https://github.com/dorisroot1/CVE-2021-4121442 | 未查询到CVE信息| 
+| 20210728T12:24:39Z | CVE-2021-412999 | Null | https://github.com/dorisroot1/CVE-2021-412999 | 未查询到CVE信息| 
+| 20210728T12:12:22Z | CVE-2021-4121442 | Null | https://github.com/dorisroot1/CVE-2021-4121442 | | 
 | 20210728T12:10:45Z | CVE-2021-2197075 | Null | https://github.com/dorisroot1/CVE-2021-2197075 | 未查询到CVE信息| 
 | 20210728T12:07:30Z | CVE-2021-42892849 | Null | https://github.com/dorisroot1/CVE-2021-42892849 | 未查询到CVE信息| 
 | 20210728T12:05:39Z | CVE-2021-3214124 | Null | https://github.com/dorisroot1/CVE-2021-3214124 | 未查询到CVE信息| 
 | 20210728T12:03:41Z | CVE-2021-41241412 | Null | https://github.com/dorisroot1/CVE-2021-41241412 | 未查询到CVE信息| 
-| 20210728T11:59:26Z | CVE-2021-5128108 | Null | https://github.com/dorisroot1/CVE-2021-5128108 | | 
+| 20210728T11:59:26Z | CVE-2021-5128108 | Null | https://github.com/dorisroot1/CVE-2021-5128108 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
@@ -75,7 +75,6 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210728T23:49:22Z | CredPhish is a PowerShell script designed to invoke legitimate credential prompts and exfiltrate passwords over DNS. | https://github.com/tokyoneon/CredPhish | 41 | 5| 
 | 20210728T23:39:56Z | Null | https://github.com/jjy1994/BackdoorSSL | 1 | 0| 
 | 20210728T23:34:32Z | vuln scanner, web spider, web scanner, auto exploiter, fuzzer, dll injector, shellcoder, backdoors, rootkits, debugger framework | https://github.com/irackit/softkeys | 0 | 0| 
 | 20210728T20:56:06Z | pybotnet -  Library for building botnet ,backdoor or trojan with Telegram control panel | https://github.com/onionj/pybotnet | 10 | 5| 
@@ -85,6 +84,7 @@
 | 20210728T08:59:24Z | Backdoor has been discovered by me in Denver Smart Wifi Camera SHC-150. Backdoor allows attacker to execute commands on OS level. | https://github.com/enty8080/denver-camera-backdoor | 3 | 1| 
 | 20210728T08:21:22Z | Python AV Evasion Tools | https://github.com/G1ft3dC0d3/MsfMania | 188 | 45| 
 | 20210728T06:51:17Z | A collection of python written hacking tools consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester credential harvester, keylogger, download&execute, and reverse_backdoor. | https://github.com/dmdhrumilmistry/pyhtools | 19 | 7| 
+| 20210728T04:33:31Z | Yet Another PHP Shell | https://github.com/Nickguitar/YAPS | 17 | 2| 
 
 
 # symbolic execution on Github 推荐
