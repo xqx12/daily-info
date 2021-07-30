@@ -41,7 +41,7 @@
 | 20210729T08:25:46Z | CVE-2021- | Null | https://github.com/hanchen666/CVE-2021-XXXX | 未查询到CVE信息| 
 | 20210729T08:24:46Z | CVE-2021-3560 | NYCY_homework_&_meeting | https://github.com/BizarreLove/CVE-2021-3560 | 未查询到CVE信息| 
 | 20210729T06:47:23Z | CVE-2021-36934 | CVE-2021-36934 PowerShell Fix | https://github.com/tda90/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
-| 20210729T04:51:30Z | CVE-2020-9014 | Proof of concept code for CVE-2020-9014 | https://github.com/Crystalware/CVE-2020-9014 | | 
+| 20210729T04:51:30Z | CVE-2020-9014 | Proof of concept code for CVE-2020-9014 | https://github.com/Crystalware/CVE-2020-9014 | In Epson iProjection v2.30, the driver file (EMP_NSAU.sys) allows local users to cause a denial of service (BSOD) via crafted input to the virtual audio device driver with IOCTL 0x9C402402, 0x9C402406, or 0x9C40240A. \Device\EMPNSAUIO and \DosDevices\EMPNSAU are similarly affected.| 
 
 
 # klee on Github 推荐
