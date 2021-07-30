@@ -150,6 +150,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210730T12:56:32Z | Verilog Fuzzer to test the major simulators and sythesisers by generating random, valid Verilog. | https://github.com/ymherklotz/verismith | 62 | 3| 
 | 20210730T12:42:12Z | OWASP-ZAP with Drone pipeline | https://github.com/9447-team-4/Pipeline-dynamic-fuzzer | 0 | 0| 
 | 20210730T12:40:13Z | Fuzzinator Random Testing Framework | https://github.com/renatahodovan/fuzzinator | 178 | 38| 
 | 20210730T12:35:05Z | Null | https://github.com/randstad-strategic-analytics/fuzzy_merge | 0 | 0| 
@@ -159,7 +160,6 @@
 | 20210730T12:03:16Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 511 | 48| 
 | 20210730T12:03:16Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1936 | 384| 
 | 20210730T12:02:46Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210730T11:48:19Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 291 | 39| 
 
 
 
