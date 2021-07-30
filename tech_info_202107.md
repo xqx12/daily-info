@@ -150,6 +150,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210730T00:39:56Z | DDRFuzz is a fuzzing system based on a seq2seq model to generate valuable seed corpus. | https://github.com/kppw99/ddrfuzz | 2 | 1| 
+| 20210730T00:38:13Z | Null | https://github.com/opimentel-github/fuzzy-torch | 1 | 0| 
 | 20210730T00:32:57Z | Null | https://github.com/SkinnyShugo/fuzzy-octo-system | 0 | 0| 
 | 20210730T00:26:50Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 699 | 110| 
 | 20210730T00:25:12Z | AFLNet: A Greybox Fuzzer for Network Protocols (https://thuanpv.github.io/publications/AFLNet_ICST20.pdf) | https://github.com/aflnet/aflnet | 435 | 80| 
@@ -158,8 +160,6 @@
 | 20210730T00:04:10Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 20 | 8| 
 | 20210729T23:59:09Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210729T23:56:47Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2362 | 133| 
-| 20210729T23:47:35Z | Null | https://github.com/applepole/fuzzy-lamp | 0 | 0| 
-| 20210729T23:17:58Z | Null | https://github.com/epsonik/FuzzyDescV2 | 0 | 0| 
 
 
 

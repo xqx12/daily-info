@@ -122,7 +122,7 @@
 | 20210729T21:24:53Z | Fuzzinator Random Testing Framework | https://github.com/renatahodovan/fuzzinator | 177 | 38| 
 | 20210729T21:17:52Z | Null | https://github.com/MahmoudZohdy/File_Fuzzer | 0 | 0| 
 | 20210729T21:09:44Z | Null | https://github.com/randstad-strategic-analytics/fuzzy_merge | 0 | 0| 
-| 20210729T20:33:47Z | Null | https://github.com/opimentel-github/fuzzy-torch | 1 | 0| 
+| 20210729T20:15:01Z | Fuzzy Wuzzy - A Coding Project - Find Your Pairs | https://github.com/harrisonapickettiv/fuzzyWuzzy | 0 | 0| 
 
 
 
