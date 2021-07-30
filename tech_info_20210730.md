@@ -67,6 +67,10 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210730T11:04:46Z | Null | https://github.com/gduweng/simple-c-backdoor | 0 | 0| 
+| 20210730T10:39:38Z | Implementation of a native-code HatSploit membrane for unix-like systems, designed for portability, embeddability, and low resource utilization. | https://github.com/EntySec/membrane | 6 | 3| 
+| 20210730T05:48:40Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 270 | 51| 
+| 20210730T02:25:59Z | The code of AAAI-21 paper %Defending against Backdoors in Federated Learning with Robust Learning Rate%. | https://github.com/TinfoilHat0/Defending-Against-Backdoors-with-Robust-Learning-Rate | 0 | 1| 
 | 20210730T00:59:59Z | Python AV Evasion Tools | https://github.com/G1ft3dC0d3/MsfMania | 190 | 45| 
 
 
