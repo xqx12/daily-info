@@ -150,6 +150,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210730T00:32:57Z | Null | https://github.com/SkinnyShugo/fuzzy-octo-system | 0 | 0| 
 | 20210730T00:26:50Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 699 | 110| 
 | 20210730T00:25:12Z | AFLNet: A Greybox Fuzzer for Network Protocols (https://thuanpv.github.io/publications/AFLNet_ICST20.pdf) | https://github.com/aflnet/aflnet | 435 | 80| 
 | 20210730T00:22:13Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 975 | 107| 
@@ -159,7 +160,6 @@
 | 20210729T23:56:47Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2362 | 133| 
 | 20210729T23:47:35Z | Null | https://github.com/applepole/fuzzy-lamp | 0 | 0| 
 | 20210729T23:17:58Z | Null | https://github.com/epsonik/FuzzyDescV2 | 0 | 0| 
-| 20210729T22:34:51Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 
 
 
