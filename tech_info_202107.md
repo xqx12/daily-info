@@ -55,7 +55,7 @@
 | 20210729T12:53:17Z | CVE-2021-30573 | Google Chrome Use After Free vulnerability reported by S4E Team | https://github.com/s4e-lab/CVE-2021-30573-PoC-Google-Chrome | 未查询到CVE信息| 
 | 20210729T09:28:22Z | CVE-2020-3452 | CISCO CVE-2020-3452 Scanner & Exploiter | https://github.com/darklotuskdb/CISCO-CVE-2020-3452-Scanner-Exploiter | A vulnerability in the web services interface of Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software could allow an unauthenticated, remote attacker to conduct directory traversal attacks and read sensitive files on a targeted system. The vulnerability is due to a lack of proper input validation of URLs in HTTP requests processed by an affected device. An attacker could exploit this vulnerability by sending a crafted HTTP request containing directory traversal character sequences to an affected device. A successful exploit could allow the attacker to view arbitrary files within the web services file system on the targeted device. The web services file system is enabled when the affected device is configured with either WebVPN or AnyConnect features. This vulnerability cannot be used to obtain access to ASA or FTD system files or underlying operating system (OS) files.| 
 | 20210729T08:25:46Z | CVE-2021- | Null | https://github.com/hanchen666/CVE-2021-XXXX | 未查询到CVE信息| 
-| 20210729T08:24:46Z | CVE-2021-3560 | NYCY_homework_&_meeting | https://github.com/BizarreLove/CVE-2021-3560 | | 
+| 20210729T08:24:46Z | CVE-2021-3560 | NYCY_homework_&_meeting | https://github.com/BizarreLove/CVE-2021-3560 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
@@ -150,6 +150,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210730T00:22:13Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 975 | 107| 
 | 20210730T00:09:53Z | Null | https://github.com/lzhfromustc/goFuzz | 0 | 0| 
 | 20210730T00:04:10Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 20 | 8| 
 | 20210729T23:59:09Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
@@ -159,7 +160,6 @@
 | 20210729T22:34:51Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210729T21:54:19Z | shop till ya drop | https://github.com/julianwagle/fuzzy-system | 0 | 0| 
 | 20210729T21:24:53Z | Fuzzinator Random Testing Framework | https://github.com/renatahodovan/fuzzinator | 177 | 38| 
-| 20210729T21:17:52Z | Null | https://github.com/MahmoudZohdy/File_Fuzzer | 0 | 0| 
 
 
 
