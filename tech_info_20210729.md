@@ -113,7 +113,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20210729T23:59:09Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
-| 20210729T23:56:47Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2362 | 133| 
 | 20210729T23:47:35Z | Null | https://github.com/applepole/fuzzy-lamp | 0 | 0| 
 | 20210729T23:17:58Z | Null | https://github.com/epsonik/FuzzyDescV2 | 0 | 0| 
 | 20210729T22:34:51Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
@@ -122,6 +121,7 @@
 | 20210729T21:17:52Z | Null | https://github.com/MahmoudZohdy/File_Fuzzer | 0 | 0| 
 | 20210729T21:09:44Z | Null | https://github.com/randstad-strategic-analytics/fuzzy_merge | 0 | 0| 
 | 20210729T20:15:01Z | Fuzzy Wuzzy - A Coding Project - Find Your Pairs | https://github.com/harrisonapickettiv/fuzzyWuzzy | 0 | 0| 
+| 20210729T19:54:31Z | Epub source for the Standard Ebooks edition of Little Fuzzy, by H. Beam Piper | https://github.com/standardebooks/h-beam-piper_little-fuzzy | 1 | 2| 
 
 
 

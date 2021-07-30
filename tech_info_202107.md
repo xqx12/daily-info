@@ -150,6 +150,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210730T00:52:52Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2362 | 133| 
 | 20210730T00:42:02Z | Null | https://github.com/Natas1986/fuzzy-giggle | 0 | 0| 
 | 20210730T00:41:22Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 975 | 107| 
 | 20210730T00:39:56Z | DDRFuzz is a fuzzing system based on a seq2seq model to generate valuable seed corpus. | https://github.com/kppw99/ddrfuzz | 2 | 1| 
@@ -159,7 +160,6 @@
 | 20210730T00:25:12Z | AFLNet: A Greybox Fuzzer for Network Protocols (https://thuanpv.github.io/publications/AFLNet_ICST20.pdf) | https://github.com/aflnet/aflnet | 435 | 80| 
 | 20210730T00:09:53Z | Null | https://github.com/lzhfromustc/goFuzz | 0 | 0| 
 | 20210730T00:04:10Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 20 | 8| 
-| 20210729T23:59:09Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 
 
 
