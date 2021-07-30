@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210730T01:41:28Z | Python script to send/retrieve HTTP data to find the correct answer on a quiz question by brute force. Uses %requests% and %json% libraries. | https://github.com/gkwcislo/quiz-exploit | 0 | 0| 
 | 20210730T01:21:57Z | Criado para explorar vulnerabilidade de sqli que há no Drupal 7.0 < 7.31  | https://github.com/AlexandreMMelo/Drupal-Exploit | 1 | 0| 
 | 20210730T01:21:16Z | Null | https://github.com/jwardsmith/Active-Directory-Exploitation | 2 | 0| 
 | 20210730T01:03:02Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 14| 
@@ -100,7 +101,6 @@
 | 20210730T00:34:18Z | Flask Exploit for ROBLOX | https://github.com/FlaskExploits/Flask-Update-Patch | 0 | 0| 
 | 20210730T00:19:26Z | no pain no gain | https://github.com/BizarreLove/some_ctf_exploit | 0 | 0| 
 | 20210730T00:17:36Z | C2X - C2/Post-Exploitation Tool For Red Teaming and Ethical Hacking | https://github.com/nxenon/c2x | 4 | 1| 
-| 20210729T23:33:08Z | Extensible framework for analyzing publicly available information about vulnerabilities | https://github.com/leonov-av/vulristics | 34 | 3| 
 
 
 # backdoor on Github 推荐
