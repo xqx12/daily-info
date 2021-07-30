@@ -6,6 +6,15 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210730 | A virtual journey: From hardware virtualization to Hyper-Vs Virtual Trust Levels | http://blog.quarkslab.com/a-virtual-journey-from-hardware-virtualization-to-hyper-vs-virtual-trust-levels.html| 
+| 20210730 | 2186 - Exchange: AD Schema Misconfiguration Elevation of Privilege | https://bugs.chromium.org/p/project-zero/issues/detail?id=2186| 
+| 20210730 | Kernel Pwning with eBPF: a Love Story | https://www.graplsecurity.com/post/kernel-pwning-with-ebpf-a-love-story| 
+| 20210730 | hallucinate - 基于动态插桩实现的 TLS 流量 Hook 和修改工具 | https://blog.syss.com/posts/hallucinate/| 
+| 20210730 | 研究员 Axel Souchet Fuzz IDA 发现大量内存类问题 | https://github.com/0vercl0k/fuzzing-ida75| 
+| 20210730 | Pre-Auth RCE in Moodle Part I - PHP Object Injection in Shibboleth | http://haxolot.com/posts/2021/moodle_pre_auth_shibboleth_rce_part1/| 
+| 20210730 | 利用欺骗的方式检测 AD 域环境的 Bloodhound 探测和渗透行为 | https://medium.com/securonix-tech-blog/detecting-ldap-enumeration-and-bloodhound-s-sharphound-collector-using-active-directory-decoys-dfc840f2f644| 
+| 20210730 | 欧盟网络安全局发布调查报告称，涉及供应链的攻击快速增长且应对不足 | http://www.enisa.europa.eu/news/enisa-news/understanding-the-increase-in-supply-chain-security-attacks| 
+| 20210730 | 现在的 Linux 恶意软件常常会主动检查并禁用系统和第三方的一些安全监控软件 | https://threatpost.com/six-malicious-linux-shell-scripts-how-to-stop-them/168127/| 
 | 20210729 | 针对 PyPI 市场 Python 软件包的静态安全分析（Paper） | https://arxiv.org/abs/2107.12699| 
 | 20210729 | 利用 Falco 云安全工具缓解 Linux 文件系统 CVE-2021-33909 漏洞影响 | https://sysdig.com/blog/cve-2021-33909-sequoia-falco-linux-filesystem/| 
 | 20210729 | Hyper-V vmswitch.sys CVE-2021-28476 RCE 漏洞分析 | https://www.guardicore.com/labs/critical-vulnerability-in-hyper-v-allowed-attackers-to-exploit-azure/| 
@@ -17,20 +26,14 @@
 | 20210729 | OWASP 移动安全测试指南. | https://owasp.org/www-project-mobile-security-testing-guide/| 
 | 20210728 | Active Directory ACL 可视化工具 | https://github.com/lkarlslund/adalanche| 
 | 20210728 | V8 CVE-2019-13764 类型混淆漏洞的分析和利用 | https://blog.haboob.sa/blog/cve-2019-13764-from-root-cause-to-bash| 
-| 20210728 | 微软基于模糊哈希与深度学习检测恶意软件的实践 | https://www.microsoft.com/security/blog/2021/07/27/combing-through-the-fuzz-using-fuzzy-hashing-and-deep-learning-to-counter-malware-detection-evasion-techniques/| 
-| 20210728 | StrongPity APT Group Deploys Android Malware for the First Time | https://www.trendmicro.com/en_us/research/21/g/strongpity-apt-group-deploys-android-malware-for-the-first-time.html?utm_source=trendmicroresearch&utm_medium=smk&utm_campaign=0721_aptgroup1| 
-| 20210728 | 基于 HELK、Appmon 等开源工具利用数据分析的方法实现 macOS 平台的入侵检测 | https://antman1p-30185.medium.com/acting-red-seeing-blue-b04dd845c3dc| 
-| 20210728 | 利用 TLS 证书发现恶意软件的网络基础设施 | https://www.prevailion.com/cert-safari-leveraging-tls-certificates-to-hunt-evil/| 
-| 20210728 | Rocket.Chat 远程命令执行漏洞分析 | https://paper.seebug.org/1652/| 
-| 20210728 | Google 的漏洞奖励计划（VRP）启用新平台 bughunters.google.com，向开源代码提交补丁以及发表安全研究 Paper 同样可以得到奖励 | https://security.googleblog.com/2021/07/a-new-chapter-for-googles-vulnerability.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+GoogleOnlineSecurityBlog+%28Google+Online+Security+Blog%29| 
-| 20210728 | WebLogic CVE-2021-2394 RCE 漏洞分析。 | https://paper.seebug.org/1655/| 
-| 20210728 | 蓝色华容道（CVE-2021-3573）以及其补丁的故事 | https://paper.seebug.org/1653/| 
-| 20210728 | 深入理解C语言指针算数奥秘。 | https://www.youtube.com/watch?v=zdzcTh9kUrc| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210730 | [HTB] Active Writeup | https://mp.weixin.qq.com/s/-6eTR-2WCnVSRnn2DjgRmg| 
+| 20210730 | 第二届网鼎杯线下决赛网络靶场复盘 | https://mp.weixin.qq.com/s/rXqSfjTFUQJsirkhi1hmHQ| 
+| 20210730 | 强行打点途径 | https://www.yuque.com/ee/nangod/bh75w2| 
 | 20210729 | NPM软件包供应链攻击赏析 | https://mp.weixin.qq.com/s/PCPX4G9MucAMHH8pWpg6pQ| 
 | 20210729 | 一个人怎么建立独立的思维框架和逻辑体系？ | https://www.zhihu.com/question/442047678/answer/1846239907| 
 | 20210729 | 水泽-信息收集自动化工具 | https://github.com/0x727/ShuiZe_0x727| 
@@ -38,30 +41,28 @@
 | 20210729 | 谷歌学术指标2021年（计算机安全及加密） | https://mp.weixin.qq.com/s/ZuJmj3YX11tb4-405mZREw| 
 | 20210729 | 威胁情报共享之野望 | https://mp.weixin.qq.com/s/4HcixB3igTZtt2NClkUlXQ| 
 | 20210729 | 浅谈并行化模糊测试技术 | https://mp.weixin.qq.com/s/I-2IllKVbUvOm1x9mMiihw| 
-| 20210728 | “中兴捧月”杯算法精英挑战赛-Dijkstra赛道解决方案分享 | https://mp.weixin.qq.com/s/WfvEKvgG98aBZNDfLQhaBg| 
-| 20210728 | 面向人工智能的软件工程研究与实践 | https://mp.weixin.qq.com/s/8xx2Q_cGjBD8l_dNMFkhgg| 
-| 20210728 | 基于公共服务的载荷投递与C2通信技术剖析 | https://mp.weixin.qq.com/s/95EjmJZBSvye1FuAu2J_pQ| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210730T01:58:57Z | CVE-2021-36934 | CVE-2021-36934 HiveNightmare vulnerability checker and workaround | https://github.com/irissentinel/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
-| 20210730T01:50:24Z | CVE-2021-3490 | Null | https://github.com/chompie1337/Linux_LPE_eBPF_CVE-2021-3490 | The eBPF ALU32 bounds tracking for bitwise ops (AND, OR and XOR) in the Linux kernel did not properly update 32-bit bounds, which could be turned into out of bounds reads and writes in the Linux kernel and therefore, arbitrary code execution. This issue was fixed via commit 049c4e13714e (%bpf: Fix alu32 const subreg bound tracking on bitwise operations%) (v5.13-rc4) and backported to the stable kernels in v5.12.4, v5.11.21, and v5.10.37. The AND/OR issues were introduced by commit 3f50f132d840 (%bpf: Verifier, do explicit ALU32 bounds tracking%) (5.7-rc1) and the XOR variant was introduced by 2921c90d4718 (%bpf:Fix a verifier failure with xor%) ( 5.10-rc1).| 
-| 20210730T01:22:36Z | CVE-2021-33909 | Null | https://github.com/ikramimamoglu/AmIAHuman-CVE-2021-33909 | fs/seq_file.c in the Linux kernel 3.16 through 5.13.x before 5.13.4 does not properly restrict seq buffer allocations, leading to an integer overflow, an Out-of-bounds Write, and escalation to root by an unprivileged user, aka CID-8cae8cd89f05.| 
+| 20210730T11:55:50Z | CVE-2021-24155 | WordPress Backup Guard Authenticated Remote Code Execution Exploit | https://github.com/0Day-dev/CVE-2021-24155.rb | The WordPress Backup and Migrate Plugin – Backup Guard WordPress plugin before 1.6.0 did not ensure that the imported files are of the SGBP format and extension, allowing high privilege users (admin+) to upload arbitrary files, including PHP ones, leading to RCE.| 
+| 20210730T11:43:35Z | CVE-2021-3560 | Polkit D-Bus Authentication Bypass Exploit | https://github.com/0Day-dev/CVE-2021-3560 | 未查询到CVE信息| 
+| 20210730T11:29:44Z | CVE-2021-3490 | Null | https://github.com/chompie1337/Linux_LPE_eBPF_CVE-2021-3490 | The eBPF ALU32 bounds tracking for bitwise ops (AND, OR and XOR) in the Linux kernel did not properly update 32-bit bounds, which could be turned into out of bounds reads and writes in the Linux kernel and therefore, arbitrary code execution. This issue was fixed via commit 049c4e13714e (%bpf: Fix alu32 const subreg bound tracking on bitwise operations%) (v5.13-rc4) and backported to the stable kernels in v5.12.4, v5.11.21, and v5.10.37. The AND/OR issues were introduced by commit 3f50f132d840 (%bpf: Verifier, do explicit ALU32 bounds tracking%) (5.7-rc1) and the XOR variant was introduced by 2921c90d4718 (%bpf:Fix a verifier failure with xor%) ( 5.10-rc1).| 
+| 20210730T07:53:07Z | CVE-2020-15368 | How to exploit a vulnerable windows driver. Exploit for AsrDrv104.sys | https://github.com/stong/CVE-2020-15368 | | 
+| 20210730T07:51:40Z | CVE-2021-36934 | CVE-2021-36934 HiveNightmare vulnerability checker and workaround | https://github.com/irissentinel/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
+| 20210730T03:48:26Z | cve-2021-1480 | Null | https://github.com/xmco/sdwan-cve-2021-1480 | Multiple vulnerabilities in Cisco SD-WAN vManage Software could allow an unauthenticated, remote attacker to execute arbitrary code or allow an authenticated, local attacker to gain escalated privileges on an affected system. For more information about these vulnerabilities, see the Details section of this advisory.| 
+| 20210730T01:22:36Z | CVE-2021-33909 | Null | https://github.com/ikramimamoglu/AmIAHuman-CVE-2021-33909 | | 
 | 20210729T23:51:25Z | CVE-2021-34470 | A Powrshell script to scan for CVE-2021-34470 | https://github.com/technion/CVE-2021-34470scanner | Microsoft Exchange Server Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-33768, CVE-2021-34523.| 
 | 20210729T20:40:37Z | CVE-2021-27965 | Proof of concept for CVE-2021-27965 (Stack-based Buffer Overflow) | https://github.com/Crystalware/CVE-2021-27965 | The MsIo64.sys driver before 1.1.19.1016 in MSI Dragon Center before 2.0.98.0 has a buffer overflow that allows privilege escalation via a crafted 0x80102040, 0x80102044, 0x80102050, or 0x80102054 IOCTL request.| 
-| 20210729T16:28:05Z | cve-2021-1480 | Null | https://github.com/xmco/sdwan-cve-2021-1480 | Multiple vulnerabilities in Cisco SD-WAN vManage Software could allow an unauthenticated, remote attacker to execute arbitrary code or allow an authenticated, local attacker to gain escalated privileges on an affected system. For more information about these vulnerabilities, see the Details section of this advisory.| 
 | 20210729T12:53:17Z | CVE-2021-30573 | Google Chrome Use After Free vulnerability reported by S4E Team | https://github.com/s4e-lab/CVE-2021-30573-PoC-Google-Chrome | 未查询到CVE信息| 
-| 20210729T09:28:22Z | CVE-2020-3452 | CISCO CVE-2020-3452 Scanner & Exploiter | https://github.com/darklotuskdb/CISCO-CVE-2020-3452-Scanner-Exploiter | A vulnerability in the web services interface of Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software could allow an unauthenticated, remote attacker to conduct directory traversal attacks and read sensitive files on a targeted system. The vulnerability is due to a lack of proper input validation of URLs in HTTP requests processed by an affected device. An attacker could exploit this vulnerability by sending a crafted HTTP request containing directory traversal character sequences to an affected device. A successful exploit could allow the attacker to view arbitrary files within the web services file system on the targeted device. The web services file system is enabled when the affected device is configured with either WebVPN or AnyConnect features. This vulnerability cannot be used to obtain access to ASA or FTD system files or underlying operating system (OS) files.| 
-| 20210729T08:25:46Z | CVE-2021- | Null | https://github.com/hanchen666/CVE-2021-XXXX | 未查询到CVE信息| 
-| 20210729T08:24:46Z | CVE-2021-3560 | NYCY_homework_&_meeting | https://github.com/BizarreLove/CVE-2021-3560 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210730T01:06:36Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2423 | 57| 
+| 20210730T11:17:38Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2437 | 57| 
+| 20210730T09:34:23Z | Null | https://github.com/xenoney/kleee | 0 | 0| 
 | 20210729T18:23:23Z | Null | https://github.com/JaimePSantos/ResearchKlee | 0 | 0| 
 | 20210729T17:07:37Z | Null | https://github.com/pansilup/cgc-prgs-for-klee-seed-mode | 0 | 0| 
 | 20210729T13:07:45Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 216 | 35| 
@@ -70,7 +71,6 @@
 | 20210729T05:02:29Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 125 | 36| 
 | 20210728T14:52:19Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 18 | 0| 
 | 20210728T06:45:21Z | Null | https://github.com/vitaliiomelchenko/kleene | 0 | 0| 
-| 20210727T20:25:06Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 167 | 16| 
 
 
 # s2e on Github 推荐
@@ -91,16 +91,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210730T01:41:28Z | Python script to send/retrieve HTTP data to find the correct answer on a quiz question by brute force. Uses %requests% and %json% libraries. | https://github.com/gkwcislo/quiz-exploit | 0 | 0| 
-| 20210730T01:21:57Z | Criado para explorar vulnerabilidade de sqli que há no Drupal 7.0 < 7.31  | https://github.com/AlexandreMMelo/Drupal-Exploit | 1 | 0| 
-| 20210730T01:21:16Z | Null | https://github.com/jwardsmith/Active-Directory-Exploitation | 2 | 0| 
-| 20210730T01:03:02Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 14| 
-| 20210730T00:52:06Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 19 | 12| 
-| 20210730T00:50:05Z | Open Source Projects that helps exploit Intel SGX technology | https://github.com/Maxul/Awesome-SGX-Open-Source | 67 | 12| 
-| 20210730T00:47:31Z | block game military grade radar | https://github.com/nerdsinspace/nocom-explanation | 208 | 10| 
-| 20210730T00:34:18Z | Flask Exploit for ROBLOX | https://github.com/FlaskExploits/Flask-Update-Patch | 0 | 0| 
-| 20210730T00:19:26Z | no pain no gain | https://github.com/BizarreLove/some_ctf_exploit | 0 | 0| 
-| 20210730T00:17:36Z | C2X - C2/Post-Exploitation Tool For Red Teaming and Ethical Hacking | https://github.com/nxenon/c2x | 4 | 1| 
+| 20210730T12:01:11Z | A python based tool for exploiting and managing Android devices via ADB | https://github.com/mesquidar/adbsploit | 233 | 49| 
+| 20210730T11:57:37Z | CamRaptor is a tool that exploits several vulnerabilities in popular DVR cameras to obtain network camera credentials. | https://github.com/EntySec/CamRaptor | 49 | 12| 
+| 20210730T11:57:26Z | Exploits project Hacking Command Center | https://github.com/chacka0101/exploits | 12 | 10| 
+| 20210730T11:55:50Z | WordPress Backup Guard Authenticated Remote Code Execution Exploit | https://github.com/0Day-dev/CVE-2021-24155.rb | 1 | 1| 
+| 20210730T11:48:48Z |  CamOver is a camera exploitation tool that allows to disclosure network camera admin password. | https://github.com/EntySec/CamOver | 70 | 21| 
+| 20210730T11:48:46Z | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | 100 | 18| 
+| 20210730T11:43:35Z | Polkit D-Bus Authentication Bypass Exploit | https://github.com/0Day-dev/CVE-2021-3560 | 0 | 0| 
+| 20210730T11:40:26Z | Aruba Instant (IAP) - Remote Code Execution Exploit | https://github.com/0Day-dev/2021-25157 | 0 | 0| 
+| 20210730T11:02:56Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 14| 
+| 20210730T10:56:47Z | Vulnerabilities, security advisories, exploit codes and proof-of-concept codes. | https://github.com/zeroscience/advisory | 5 | 4| 
 
 
 # backdoor on Github 推荐
@@ -150,16 +150,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210730T01:00:41Z | Null | https://github.com/opimentel-github/fuzzy-torch | 1 | 0| 
-| 20210730T00:52:52Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2362 | 133| 
-| 20210730T00:42:02Z | Null | https://github.com/Natas1986/fuzzy-giggle | 0 | 0| 
-| 20210730T00:41:22Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 975 | 107| 
-| 20210730T00:39:56Z | DDRFuzz is a fuzzing system based on a seq2seq model to generate valuable seed corpus. | https://github.com/kppw99/ddrfuzz | 2 | 1| 
-| 20210730T00:32:57Z | Null | https://github.com/SkinnyShugo/fuzzy-octo-system | 0 | 0| 
-| 20210730T00:26:50Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 699 | 110| 
-| 20210730T00:25:12Z | AFLNet: A Greybox Fuzzer for Network Protocols (https://thuanpv.github.io/publications/AFLNet_ICST20.pdf) | https://github.com/aflnet/aflnet | 435 | 80| 
-| 20210730T00:09:53Z | Null | https://github.com/lzhfromustc/goFuzz | 0 | 0| 
-| 20210730T00:04:10Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 20 | 8| 
+| 20210730T11:56:13Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1935 | 384| 
+| 20210730T11:48:19Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 291 | 39| 
+| 20210730T11:44:37Z | Associating input coverage to code coverage for targeted fuzzing | https://github.com/havrikov/codeine | 0 | 0| 
+| 20210730T11:42:30Z | MS-myfirstDemo | https://github.com/shafik01/Fuzzy-spoon | 0 | 0| 
+| 20210730T11:38:25Z | Null | https://github.com/UnisinosContinentais/ContinentalFuzzyLibrary | 1 | 0| 
+| 20210730T11:17:42Z | Null | https://github.com/syi07030/incognito-project_web-fuzzing | 0 | 0| 
+| 20210730T11:09:09Z | Fuzzy based segmentation of remotely sensed images using an Adaptive Neuro Fuzzy Inference System (ANFIS). | https://github.com/andmon97/FuzzyRemoteSensingSegmentation | 8 | 0| 
+| 20210730T10:37:02Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20210730T10:31:13Z | Null | https://github.com/Kaspyy/fuzzy-sets-numpy | 0 | 0| 
+| 20210730T10:14:24Z | 快速的跨平台红队(red team)打点扫描器，功能 端口扫描(port scan) 指纹识别(fingerprint) nday检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | 8 | 3| 
 
 
 
