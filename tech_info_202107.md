@@ -96,7 +96,7 @@
 | 20210730T11:57:37Z | CamRaptor is a tool that exploits several vulnerabilities in popular DVR cameras to obtain network camera credentials. | https://github.com/EntySec/CamRaptor | 49 | 12| 
 | 20210730T11:57:26Z | Exploits project Hacking Command Center | https://github.com/chacka0101/exploits | 12 | 10| 
 | 20210730T11:55:50Z | WordPress Backup Guard Authenticated Remote Code Execution Exploit | https://github.com/0Day-dev/CVE-2021-24155.rb | 1 | 1| 
-| 20210730T11:48:48Z |  CamOver is a camera exploitation tool that allows to disclosure network camera admin password. | https://github.com/EntySec/CamOver | 70 | 21| 
+| 20210730T11:48:48Z |  CamOver is a camera exploitation tool that allows to disclosure network camera admin password. | https://github.com/EntySec/CamOver | 70 | 22| 
 | 20210730T11:48:46Z | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | 100 | 18| 
 | 20210730T11:43:35Z | Polkit D-Bus Authentication Bypass Exploit | https://github.com/0Day-dev/CVE-2021-3560 | 0 | 0| 
 | 20210730T11:40:26Z | Aruba Instant (IAP) - Remote Code Execution Exploit | https://github.com/0Day-dev/2021-25157 | 0 | 0| 
