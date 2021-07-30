@@ -91,7 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210730T12:14:51Z | System Exploitation Fundamental | https://github.com/JiWonOck/DreamHack | 0 | 0| 
+| 20210730T12:15:47Z | System Exploitation Fundamental | https://github.com/JiWonOck/DreamHack | 0 | 0| 
 | 20210730T12:02:57Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 14| 
 | 20210730T12:01:11Z | A python based tool for exploiting and managing Android devices via ADB | https://github.com/mesquidar/adbsploit | 233 | 49| 
 | 20210730T11:57:37Z | CamRaptor is a tool that exploits several vulnerabilities in popular DVR cameras to obtain network camera credentials. | https://github.com/EntySec/CamRaptor | 49 | 12| 
