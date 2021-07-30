@@ -49,10 +49,10 @@
 | 20210730T11:55:50Z | CVE-2021-24155 | WordPress Backup Guard Authenticated Remote Code Execution Exploit | https://github.com/0Day-dev/CVE-2021-24155.rb | The WordPress Backup and Migrate Plugin – Backup Guard WordPress plugin before 1.6.0 did not ensure that the imported files are of the SGBP format and extension, allowing high privilege users (admin+) to upload arbitrary files, including PHP ones, leading to RCE.| 
 | 20210730T11:43:35Z | CVE-2021-3560 | Polkit D-Bus Authentication Bypass Exploit | https://github.com/0Day-dev/CVE-2021-3560 | 未查询到CVE信息| 
 | 20210730T11:29:44Z | CVE-2021-3490 | Null | https://github.com/chompie1337/Linux_LPE_eBPF_CVE-2021-3490 | The eBPF ALU32 bounds tracking for bitwise ops (AND, OR and XOR) in the Linux kernel did not properly update 32-bit bounds, which could be turned into out of bounds reads and writes in the Linux kernel and therefore, arbitrary code execution. This issue was fixed via commit 049c4e13714e (%bpf: Fix alu32 const subreg bound tracking on bitwise operations%) (v5.13-rc4) and backported to the stable kernels in v5.12.4, v5.11.21, and v5.10.37. The AND/OR issues were introduced by commit 3f50f132d840 (%bpf: Verifier, do explicit ALU32 bounds tracking%) (5.7-rc1) and the XOR variant was introduced by 2921c90d4718 (%bpf:Fix a verifier failure with xor%) ( 5.10-rc1).| 
-| 20210730T07:53:07Z | CVE-2020-15368 | How to exploit a vulnerable windows driver. Exploit for AsrDrv104.sys | https://github.com/stong/CVE-2020-15368 | | 
+| 20210730T07:53:07Z | CVE-2020-15368 | How to exploit a vulnerable windows driver. Exploit for AsrDrv104.sys | https://github.com/stong/CVE-2020-15368 | AsrDrv103.sys in the ASRock RGB Driver does not properly restrict access from user space, as demonstrated by triggering a triple fault via a request to zero CR3.| 
 | 20210730T07:51:40Z | CVE-2021-36934 | CVE-2021-36934 HiveNightmare vulnerability checker and workaround | https://github.com/irissentinel/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
 | 20210730T03:48:26Z | cve-2021-1480 | Null | https://github.com/xmco/sdwan-cve-2021-1480 | Multiple vulnerabilities in Cisco SD-WAN vManage Software could allow an unauthenticated, remote attacker to execute arbitrary code or allow an authenticated, local attacker to gain escalated privileges on an affected system. For more information about these vulnerabilities, see the Details section of this advisory.| 
-| 20210730T01:22:36Z | CVE-2021-33909 | Null | https://github.com/ikramimamoglu/AmIAHuman-CVE-2021-33909 | | 
+| 20210730T01:22:36Z | CVE-2021-33909 | Null | https://github.com/ikramimamoglu/AmIAHuman-CVE-2021-33909 | fs/seq_file.c in the Linux kernel 3.16 through 5.13.x before 5.13.4 does not properly restrict seq buffer allocations, leading to an integer overflow, an Out-of-bounds Write, and escalation to root by an unprivileged user, aka CID-8cae8cd89f05.| 
 | 20210729T23:51:25Z | CVE-2021-34470 | A Powrshell script to scan for CVE-2021-34470 | https://github.com/technion/CVE-2021-34470scanner | Microsoft Exchange Server Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-33768, CVE-2021-34523.| 
 | 20210729T20:40:37Z | CVE-2021-27965 | Proof of concept for CVE-2021-27965 (Stack-based Buffer Overflow) | https://github.com/Crystalware/CVE-2021-27965 | The MsIo64.sys driver before 1.1.19.1016 in MSI Dragon Center before 2.0.98.0 has a buffer overflow that allows privilege escalation via a crafted 0x80102040, 0x80102044, 0x80102050, or 0x80102054 IOCTL request.| 
 | 20210729T12:53:17Z | CVE-2021-30573 | Google Chrome Use After Free vulnerability reported by S4E Team | https://github.com/s4e-lab/CVE-2021-30573-PoC-Google-Chrome | 未查询到CVE信息| 
@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210730T12:02:57Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 14| 
 | 20210730T12:01:11Z | A python based tool for exploiting and managing Android devices via ADB | https://github.com/mesquidar/adbsploit | 233 | 49| 
 | 20210730T11:57:37Z | CamRaptor is a tool that exploits several vulnerabilities in popular DVR cameras to obtain network camera credentials. | https://github.com/EntySec/CamRaptor | 49 | 12| 
 | 20210730T11:57:26Z | Exploits project Hacking Command Center | https://github.com/chacka0101/exploits | 12 | 10| 
@@ -99,7 +100,6 @@
 | 20210730T11:48:46Z | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | 100 | 18| 
 | 20210730T11:43:35Z | Polkit D-Bus Authentication Bypass Exploit | https://github.com/0Day-dev/CVE-2021-3560 | 0 | 0| 
 | 20210730T11:40:26Z | Aruba Instant (IAP) - Remote Code Execution Exploit | https://github.com/0Day-dev/2021-25157 | 0 | 0| 
-| 20210730T11:02:56Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 14| 
 | 20210730T10:56:47Z | Vulnerabilities, security advisories, exploit codes and proof-of-concept codes. | https://github.com/zeroscience/advisory | 5 | 4| 
 
 
@@ -121,16 +121,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210730T00:47:28Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1854 | 388| 
+| 20210730T10:45:08Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 91 | 6| 
+| 20210730T08:39:33Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 153 | 33| 
+| 20210730T08:39:14Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1856 | 388| 
+| 20210730T08:02:07Z | A toy symbolic execution engine, supporting the blog article ... | https://github.com/synacktiv/toy-wasm-symbexp | 2 | 1| 
 | 20210729T19:21:14Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 7 | 4| 
 | 20210729T16:17:52Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 17 | 3| 
-| 20210729T16:10:28Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 153 | 33| 
 | 20210729T13:12:51Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1735 | 499| 
 | 20210729T09:58:55Z | A RISC-V RV32 virtual prototype based on riscv-vp with symbolic execution support | https://github.com/agra-uni-bremen/symex-vp | 2 | 0| 
-| 20210729T09:13:56Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2402 | 354| 
+| 20210729T09:13:56Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2402 | 355| 
 | 20210729T08:49:54Z | Monster is a symbolic execution engine for 64-bit RISC-U code | https://github.com/cksystemsgroup/monster | 6 | 3| 
-| 20210728T19:21:09Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 91 | 6| 
-| 20210728T08:47:28Z | A toy symbolic execution engine, supporting the blog article ... | https://github.com/synacktiv/toy-wasm-symbexp | 2 | 0| 
 
 
 # big4 on Github 推荐
@@ -150,16 +150,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210730T11:56:13Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1935 | 384| 
+| 20210730T12:03:16Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 511 | 48| 
+| 20210730T12:03:16Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1936 | 384| 
+| 20210730T12:02:46Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210730T11:48:19Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 291 | 39| 
 | 20210730T11:44:37Z | Associating input coverage to code coverage for targeted fuzzing | https://github.com/havrikov/codeine | 0 | 0| 
 | 20210730T11:42:30Z | MS-myfirstDemo | https://github.com/shafik01/Fuzzy-spoon | 0 | 0| 
 | 20210730T11:38:25Z | Null | https://github.com/UnisinosContinentais/ContinentalFuzzyLibrary | 1 | 0| 
 | 20210730T11:17:42Z | Null | https://github.com/syi07030/incognito-project_web-fuzzing | 0 | 0| 
 | 20210730T11:09:09Z | Fuzzy based segmentation of remotely sensed images using an Adaptive Neuro Fuzzy Inference System (ANFIS). | https://github.com/andmon97/FuzzyRemoteSensingSegmentation | 8 | 0| 
-| 20210730T10:37:02Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210730T10:31:13Z | Null | https://github.com/Kaspyy/fuzzy-sets-numpy | 0 | 0| 
-| 20210730T10:14:24Z | 快速的跨平台红队(red team)打点扫描器，功能 端口扫描(port scan) 指纹识别(fingerprint) nday检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | 8 | 3| 
 
 
 
