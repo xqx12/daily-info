@@ -34,7 +34,7 @@
 | 20210730T07:53:07Z | CVE-2020-15368 | How to exploit a vulnerable windows driver. Exploit for AsrDrv104.sys | https://github.com/stong/CVE-2020-15368 | AsrDrv103.sys in the ASRock RGB Driver does not properly restrict access from user space, as demonstrated by triggering a triple fault via a request to zero CR3.| 
 | 20210730T07:51:40Z | CVE-2021-36934 | CVE-2021-36934 HiveNightmare vulnerability checker and workaround | https://github.com/irissentinel/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
 | 20210730T03:48:26Z | cve-2021-1480 | Null | https://github.com/xmco/sdwan-cve-2021-1480 | Multiple vulnerabilities in Cisco SD-WAN vManage Software could allow an unauthenticated, remote attacker to execute arbitrary code or allow an authenticated, local attacker to gain escalated privileges on an affected system. For more information about these vulnerabilities, see the Details section of this advisory.| 
-| 20210730T01:22:36Z | CVE-2021-33909 | Null | https://github.com/ikramimamoglu/AmIAHuman-CVE-2021-33909 | fs/seq_file.c in the Linux kernel 3.16 through 5.13.x before 5.13.4 does not properly restrict seq buffer allocations, leading to an integer overflow, an Out-of-bounds Write, and escalation to root by an unprivileged user, aka CID-8cae8cd89f05.| 
+| 20210730T01:22:36Z | CVE-2021-33909 | Null | https://github.com/ikramimamoglu/AmIAHuman-CVE-2021-33909 | | 
 
 
 # klee on Github 推荐
