@@ -29,7 +29,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210730T11:55:50Z | CVE-2021-24155 | WordPress Backup Guard Authenticated Remote Code Execution Exploit | https://github.com/0Day-dev/CVE-2021-24155.rb | The WordPress Backup and Migrate Plugin – Backup Guard WordPress plugin before 1.6.0 did not ensure that the imported files are of the SGBP format and extension, allowing high privilege users (admin+) to upload arbitrary files, including PHP ones, leading to RCE.| 
-| 20210730T11:43:35Z | CVE-2021-3560 | Polkit D-Bus Authentication Bypass Exploit | https://github.com/0Day-dev/CVE-2021-3560 | 未查询到CVE信息| 
+| 20210730T11:43:35Z | CVE-2021-3560 | Polkit D-Bus Authentication Bypass Exploit | https://github.com/0Day-dev/CVE-2021-3560 | | 
 | 20210730T11:29:44Z | CVE-2021-3490 | Null | https://github.com/chompie1337/Linux_LPE_eBPF_CVE-2021-3490 | The eBPF ALU32 bounds tracking for bitwise ops (AND, OR and XOR) in the Linux kernel did not properly update 32-bit bounds, which could be turned into out of bounds reads and writes in the Linux kernel and therefore, arbitrary code execution. This issue was fixed via commit 049c4e13714e (%bpf: Fix alu32 const subreg bound tracking on bitwise operations%) (v5.13-rc4) and backported to the stable kernels in v5.12.4, v5.11.21, and v5.10.37. The AND/OR issues were introduced by commit 3f50f132d840 (%bpf: Verifier, do explicit ALU32 bounds tracking%) (5.7-rc1) and the XOR variant was introduced by 2921c90d4718 (%bpf:Fix a verifier failure with xor%) ( 5.10-rc1).| 
 | 20210730T07:53:07Z | CVE-2020-15368 | How to exploit a vulnerable windows driver. Exploit for AsrDrv104.sys | https://github.com/stong/CVE-2020-15368 | AsrDrv103.sys in the ASRock RGB Driver does not properly restrict access from user space, as demonstrated by triggering a triple fault via a request to zero CR3.| 
 | 20210730T07:51:40Z | CVE-2021-36934 | CVE-2021-36934 HiveNightmare vulnerability checker and workaround | https://github.com/irissentinel/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
@@ -52,6 +52,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210730T12:14:51Z | System Exploitation Fundamental | https://github.com/JiWonOck/DreamHack | 0 | 0| 
 | 20210730T12:02:57Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 14| 
 | 20210730T12:01:11Z | A python based tool for exploiting and managing Android devices via ADB | https://github.com/mesquidar/adbsploit | 233 | 49| 
 | 20210730T11:57:37Z | CamRaptor is a tool that exploits several vulnerabilities in popular DVR cameras to obtain network camera credentials. | https://github.com/EntySec/CamRaptor | 49 | 12| 
@@ -61,7 +62,6 @@
 | 20210730T11:48:46Z | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | 100 | 18| 
 | 20210730T11:43:35Z | Polkit D-Bus Authentication Bypass Exploit | https://github.com/0Day-dev/CVE-2021-3560 | 0 | 0| 
 | 20210730T11:40:26Z | Aruba Instant (IAP) - Remote Code Execution Exploit | https://github.com/0Day-dev/2021-25157 | 0 | 0| 
-| 20210730T10:56:47Z | Vulnerabilities, security advisories, exploit codes and proof-of-concept codes. | https://github.com/zeroscience/advisory | 5 | 4| 
 
 
 # backdoor on Github 推荐
@@ -91,6 +91,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210730T12:15:13Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 20 | 8| 
+| 20210730T12:15:02Z | Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery. | https://github.com/fuzzdb-project/fuzzdb | 5896 | 1760| 
 | 20210730T12:03:16Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 511 | 48| 
 | 20210730T12:03:16Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1936 | 384| 
 | 20210730T12:02:46Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
@@ -99,8 +101,6 @@
 | 20210730T11:42:30Z | MS-myfirstDemo | https://github.com/shafik01/Fuzzy-spoon | 0 | 0| 
 | 20210730T11:38:25Z | Null | https://github.com/UnisinosContinentais/ContinentalFuzzyLibrary | 1 | 0| 
 | 20210730T11:17:42Z | Null | https://github.com/syi07030/incognito-project_web-fuzzing | 0 | 0| 
-| 20210730T11:09:09Z | Fuzzy based segmentation of remotely sensed images using an Adaptive Neuro Fuzzy Inference System (ANFIS). | https://github.com/andmon97/FuzzyRemoteSensingSegmentation | 8 | 0| 
-| 20210730T10:31:13Z | Null | https://github.com/Kaspyy/fuzzy-sets-numpy | 0 | 0| 
 
 
 
