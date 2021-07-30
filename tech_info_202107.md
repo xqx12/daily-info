@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210730T00:19:26Z | no pain no gain | https://github.com/BizarreLove/some_ctf_exploit | 0 | 0| 
 | 20210730T00:17:36Z | C2X - C2/Post-Exploitation Tool For Red Teaming and Ethical Hacking | https://github.com/nxenon/c2x | 4 | 1| 
 | 20210730T00:03:19Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 14| 
 | 20210729T23:33:08Z | Extensible framework for analyzing publicly available information about vulnerabilities | https://github.com/leonov-av/vulristics | 34 | 3| 
@@ -100,7 +101,6 @@
 | 20210729T22:44:19Z | Null | https://github.com/jwardsmith/Active-Directory-Exploitation | 1 | 0| 
 | 20210729T22:33:35Z | Shellphish%s automated exploitation engine, originally created for the Cyber Grand Challenge. | https://github.com/angr/rex | 528 | 109| 
 | 20210729T22:01:10Z | No credit needed! | https://github.com/Roblotastical/Exploit-Template | 0 | 0| 
-| 20210729T21:52:45Z | Exploitation of security vulnerabilities found in poorly designed token-weighted governance protocols, using AAVE flash loans to gain unfair voting power. | https://github.com/Elisik/Token-Weighted-Governance-Security-Exploit-Using-AAVE-Flash-Loans | 1 | 0| 
 
 
 # backdoor on Github 推荐
