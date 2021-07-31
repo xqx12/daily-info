@@ -150,6 +150,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210731T12:27:25Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210731T12:02:39Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210731T12:01:42Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210731T11:59:03Z | Null | https://github.com/oluwaferanmiadetunji/fuzzy-lamp | 0 | 0| 
@@ -159,7 +160,6 @@
 | 20210731T10:30:05Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 32694 | 16951| 
 | 20210731T09:31:03Z | A static blog generator script without any fuzz | https://github.com/dvwallin/ago | 4 | 2| 
 | 20210731T09:26:20Z | Fuzzing with the generated argument | https://github.com/zodf0055980/Yuan-fuzz | 16 | 3| 
-| 20210731T09:11:45Z | A Codice Fiscale Generator | https://github.com/tonyarris/codice-fuzzcale | 0 | 0| 
 
 
 
