@@ -91,7 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210731T00:42:56Z | Null | https://github.com/jwardsmith/Active-Directory-Exploitation | 3 | 1| 
+| 20210731T00:45:44Z | Null | https://github.com/jwardsmith/Active-Directory-Exploitation | 3 | 1| 
 | 20210731T00:32:29Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 217 | 10| 
 | 20210731T00:22:59Z | This repository will have recollected most of my notes on windows internals both for Malware Analysis and Logic Bug Exploitation | https://github.com/NtQuerySystemInformation/Notes-on-Windows-Internals | 0 | 0| 
 | 20210731T00:02:57Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 14| 
@@ -150,6 +150,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210731T00:48:23Z | Open Enclave specific security automation projects (CodeQL static analysis, Fuzzing and binary analysis). | https://github.com/openenclave/openenclave-security | 2 | 3| 
 | 20210731T00:32:53Z | Config files for my GitHub profile. | https://github.com/ossFuzzTest/ossFuzzTest | 0 | 0| 
 | 20210731T00:10:23Z | Null | https://github.com/microsoft36/fuzzy-parakeet | 0 | 0| 
 | 20210731T00:06:57Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 20 | 8| 
@@ -159,7 +160,6 @@
 | 20210730T21:35:07Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210730T20:45:28Z | ruby binary for  enumeration fuzzing | https://github.com/Madhava-mng/m4dh4v45b1n | 2 | 0| 
 | 20210730T20:33:16Z | Simple fuzzy classifier combined with evolutionary algorithms, PSO and GA, applied on Iris Dataset. | https://github.com/andrecasotti/fuzzy_EAClassifier | 0 | 0| 
-| 20210730T20:10:46Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 87 | 23| 
 
 
 
