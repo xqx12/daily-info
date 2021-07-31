@@ -65,6 +65,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210731T08:36:38Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 91 | 6| 
 
 
 # big4 on Github 推荐

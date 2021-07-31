@@ -54,8 +54,8 @@
 | 20210730T12:29:18Z | CVE-2021-36934 | CVE-2021-36934 HiveNightmare vulnerability checker and workaround | https://github.com/irissentinel/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
 | 20210730T11:55:50Z | CVE-2021-24155 | WordPress Backup Guard Authenticated Remote Code Execution Exploit | https://github.com/0Day-dev/CVE-2021-24155.rb | The WordPress Backup and Migrate Plugin – Backup Guard WordPress plugin before 1.6.0 did not ensure that the imported files are of the SGBP format and extension, allowing high privilege users (admin+) to upload arbitrary files, including PHP ones, leading to RCE.| 
 | 20210730T11:43:35Z | CVE-2021-3560 | Polkit D-Bus Authentication Bypass Exploit | https://github.com/0Day-dev/CVE-2021-3560 | | 
-| 20210730T07:53:07Z | CVE-2020-15368 | How to exploit a vulnerable windows driver. Exploit for AsrDrv104.sys | https://github.com/stong/CVE-2020-15368 | | 
-| 20210730T03:48:26Z | cve-2021-1480 | Null | https://github.com/xmco/sdwan-cve-2021-1480 | | 
+| 20210730T07:53:07Z | CVE-2020-15368 | How to exploit a vulnerable windows driver. Exploit for AsrDrv104.sys | https://github.com/stong/CVE-2020-15368 | AsrDrv103.sys in the ASRock RGB Driver does not properly restrict access from user space, as demonstrated by triggering a triple fault via a request to zero CR3.| 
+| 20210730T03:48:26Z | cve-2021-1480 | Null | https://github.com/xmco/sdwan-cve-2021-1480 | Multiple vulnerabilities in Cisco SD-WAN vManage Software could allow an unauthenticated, remote attacker to execute arbitrary code or allow an authenticated, local attacker to gain escalated privileges on an affected system. For more information about these vulnerabilities, see the Details section of this advisory.| 
 
 
 # klee on Github 推荐
@@ -121,9 +121,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210731T08:36:38Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 91 | 6| 
 | 20210730T22:27:50Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2402 | 355| 
 | 20210730T21:13:02Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1857 | 388| 
-| 20210730T17:00:42Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 91 | 6| 
 | 20210730T15:54:59Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1736 | 499| 
 | 20210730T14:40:52Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 153 | 33| 
 | 20210730T08:02:07Z | A toy symbolic execution engine, supporting the blog article ... | https://github.com/synacktiv/toy-wasm-symbexp | 2 | 1| 
