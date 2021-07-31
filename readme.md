@@ -38,6 +38,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210731T12:35:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9789 | 1617| 
+| 20210731T12:34:05Z | Null | https://github.com/kasper-dev/perrk-exploit | 0 | 0| 
 | 20210731T12:10:09Z | Space Exploitation for Stellaris | https://github.com/draconas1/stellaris-space-exploitation | 0 | 0| 
 | 20210731T12:09:26Z | Null | https://github.com/MicroFox-HD/Exploits | 0 | 0| 
 | 20210731T12:02:54Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 14| 
@@ -46,8 +48,6 @@
 | 20210731T11:22:35Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
 | 20210731T11:18:19Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 31 | 2| 
 | 20210731T10:52:43Z | Record some topics and exploits in my learning of PWN | https://github.com/noobone123/my_pwn | 0 | 0| 
-| 20210731T10:37:00Z | C2X - C2/Post-Exploitation Tool For Red Teaming and Ethical Hacking | https://github.com/nxenon/c2x | 4 | 1| 
-| 20210731T10:28:21Z | Simple exploit for the buffer overflow in ruby | https://github.com/Lojacops/Buffer-Overflow-Exploit | 1 | 0| 
 
 
 # backdoor on Github 推荐
