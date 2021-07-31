@@ -30,11 +30,11 @@
 | --- | --- | --- | --- | ---| 
 | 20210730T22:00:55Z | CVE-2021-22911 | Full unauthenticated RCE proof of concept for Rocket.Chat 3.12.1 CVE-2021-22911 | https://github.com/optionalCTF/Rocket.Chat-Automated-Account-Takeover-RCE-CVE-2021-22911 | A improper input sanitization vulnerability exists in Rocket.Chat server 3.11, 3.12 & 3.13 that could lead to unauthenticated NoSQL injection, resulting potentially in RCE.| 
 | 20210730T16:38:34Z | CVE-2021-3490 | Null | https://github.com/chompie1337/Linux_LPE_eBPF_CVE-2021-3490 | The eBPF ALU32 bounds tracking for bitwise ops (AND, OR and XOR) in the Linux kernel did not properly update 32-bit bounds, which could be turned into out of bounds reads and writes in the Linux kernel and therefore, arbitrary code execution. This issue was fixed via commit 049c4e13714e (%bpf: Fix alu32 const subreg bound tracking on bitwise operations%) (v5.13-rc4) and backported to the stable kernels in v5.12.4, v5.11.21, and v5.10.37. The AND/OR issues were introduced by commit 3f50f132d840 (%bpf: Verifier, do explicit ALU32 bounds tracking%) (5.7-rc1) and the XOR variant was introduced by 2921c90d4718 (%bpf:Fix a verifier failure with xor%) ( 5.10-rc1).| 
-| 20210730T12:29:18Z | CVE-2021-36934 | CVE-2021-36934 HiveNightmare vulnerability checker and workaround | https://github.com/irissentinel/CVE-2021-36934 | | 
+| 20210730T12:29:18Z | CVE-2021-36934 | CVE-2021-36934 HiveNightmare vulnerability checker and workaround | https://github.com/irissentinel/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
 | 20210730T11:55:50Z | CVE-2021-24155 | WordPress Backup Guard Authenticated Remote Code Execution Exploit | https://github.com/0Day-dev/CVE-2021-24155.rb | The WordPress Backup and Migrate Plugin – Backup Guard WordPress plugin before 1.6.0 did not ensure that the imported files are of the SGBP format and extension, allowing high privilege users (admin+) to upload arbitrary files, including PHP ones, leading to RCE.| 
 | 20210730T11:43:35Z | CVE-2021-3560 | Polkit D-Bus Authentication Bypass Exploit | https://github.com/0Day-dev/CVE-2021-3560 | | 
 | 20210730T07:53:07Z | CVE-2020-15368 | How to exploit a vulnerable windows driver. Exploit for AsrDrv104.sys | https://github.com/stong/CVE-2020-15368 | AsrDrv103.sys in the ASRock RGB Driver does not properly restrict access from user space, as demonstrated by triggering a triple fault via a request to zero CR3.| 
-| 20210730T03:48:26Z | cve-2021-1480 | Null | https://github.com/xmco/sdwan-cve-2021-1480 | Multiple vulnerabilities in Cisco SD-WAN vManage Software could allow an unauthenticated, remote attacker to execute arbitrary code or allow an authenticated, local attacker to gain escalated privileges on an affected system. For more information about these vulnerabilities, see the Details section of this advisory.| 
+| 20210730T03:48:26Z | cve-2021-1480 | Null | https://github.com/xmco/sdwan-cve-2021-1480 | | 
 | 20210730T01:22:36Z | CVE-2021-33909 | Null | https://github.com/ikramimamoglu/AmIAHuman-CVE-2021-33909 | fs/seq_file.c in the Linux kernel 3.16 through 5.13.x before 5.13.4 does not properly restrict seq buffer allocations, leading to an integer overflow, an Out-of-bounds Write, and escalation to root by an unprivileged user, aka CID-8cae8cd89f05.| 
 
 
@@ -58,7 +58,6 @@
 | --- | --- | --- | --- | ---| 
 | 20210730T23:20:55Z | Null | https://github.com/Hmood511/NASA-Exploit | 0 | 0| 
 | 20210730T22:36:57Z | Repo to study exploitation techniques for Android userland. | https://github.com/MaherAzzouzi/AndroidExploitation | 0 | 0| 
-| 20210730T22:08:19Z | When it comes to exploiting web application security, this is a methodology. Enumeration and Networking guidelines are also listed to help while on a Pentest/CTF.  | https://github.com/Mdot0/Pentesting-Methodology- | 1 | 0| 
 | 20210730T21:52:03Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9787 | 1617| 
 | 20210730T21:36:42Z | Some of my Binary Exploitation Stuff | https://github.com/k0rup710n/BinaryExploitation | 0 | 0| 
 | 20210730T21:21:17Z | Exploit do Wii U que se aproveita de uma brecha no navegador do console, possibilitando a execução do Homebrew e CFW. Requer que o CFW seja executado em cada reinício. | https://github.com/Nintendo-Homebrew/Mocha_Indexiine | 0 | 0| 
@@ -66,6 +65,7 @@
 | 20210730T20:57:00Z | Simple Roblox Exploit no key, EasyXploits API V2 | https://github.com/D4cky/D4ckyExploit | 0 | 0| 
 | 20210730T20:55:21Z | labsecurity is a framework and its use is for ethical hacking and computer security | https://github.com/dylan14567/labsecurity | 5 | 4| 
 | 20210730T20:22:23Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1235 | 585| 
+| 20210730T20:20:31Z | Python script to send/retrieve HTTP data to find the correct answer on a quiz question by brute force. Uses %requests% and %json% libraries. | https://github.com/gkwcislo/quiz-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
