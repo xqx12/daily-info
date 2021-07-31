@@ -28,8 +28,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210730T12:48:04Z | CVE-2021-3490 | Null | https://github.com/chompie1337/Linux_LPE_eBPF_CVE-2021-3490 | The eBPF ALU32 bounds tracking for bitwise ops (AND, OR and XOR) in the Linux kernel did not properly update 32-bit bounds, which could be turned into out of bounds reads and writes in the Linux kernel and therefore, arbitrary code execution. This issue was fixed via commit 049c4e13714e (%bpf: Fix alu32 const subreg bound tracking on bitwise operations%) (v5.13-rc4) and backported to the stable kernels in v5.12.4, v5.11.21, and v5.10.37. The AND/OR issues were introduced by commit 3f50f132d840 (%bpf: Verifier, do explicit ALU32 bounds tracking%) (5.7-rc1) and the XOR variant was introduced by 2921c90d4718 (%bpf:Fix a verifier failure with xor%) ( 5.10-rc1).| 
-| 20210730T12:29:18Z | CVE-2021-36934 | CVE-2021-36934 HiveNightmare vulnerability checker and workaround | https://github.com/irissentinel/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
+| 20210730T22:00:55Z | CVE-2021-22911 | Full unauthenticated RCE proof of concept for Rocket.Chat 3.12.1 CVE-2021-22911 | https://github.com/optionalCTF/Rocket.Chat-Automated-Account-Takeover-RCE-CVE-2021-22911 | A improper input sanitization vulnerability exists in Rocket.Chat server 3.11, 3.12 & 3.13 that could lead to unauthenticated NoSQL injection, resulting potentially in RCE.| 
+| 20210730T16:38:34Z | CVE-2021-3490 | Null | https://github.com/chompie1337/Linux_LPE_eBPF_CVE-2021-3490 | The eBPF ALU32 bounds tracking for bitwise ops (AND, OR and XOR) in the Linux kernel did not properly update 32-bit bounds, which could be turned into out of bounds reads and writes in the Linux kernel and therefore, arbitrary code execution. This issue was fixed via commit 049c4e13714e (%bpf: Fix alu32 const subreg bound tracking on bitwise operations%) (v5.13-rc4) and backported to the stable kernels in v5.12.4, v5.11.21, and v5.10.37. The AND/OR issues were introduced by commit 3f50f132d840 (%bpf: Verifier, do explicit ALU32 bounds tracking%) (5.7-rc1) and the XOR variant was introduced by 2921c90d4718 (%bpf:Fix a verifier failure with xor%) ( 5.10-rc1).| 
+| 20210730T12:29:18Z | CVE-2021-36934 | CVE-2021-36934 HiveNightmare vulnerability checker and workaround | https://github.com/irissentinel/CVE-2021-36934 | | 
 | 20210730T11:55:50Z | CVE-2021-24155 | WordPress Backup Guard Authenticated Remote Code Execution Exploit | https://github.com/0Day-dev/CVE-2021-24155.rb | The WordPress Backup and Migrate Plugin – Backup Guard WordPress plugin before 1.6.0 did not ensure that the imported files are of the SGBP format and extension, allowing high privilege users (admin+) to upload arbitrary files, including PHP ones, leading to RCE.| 
 | 20210730T11:43:35Z | CVE-2021-3560 | Polkit D-Bus Authentication Bypass Exploit | https://github.com/0Day-dev/CVE-2021-3560 | 未查询到CVE信息| 
 | 20210730T07:53:07Z | CVE-2020-15368 | How to exploit a vulnerable windows driver. Exploit for AsrDrv104.sys | https://github.com/stong/CVE-2020-15368 | AsrDrv103.sys in the ASRock RGB Driver does not properly restrict access from user space, as demonstrated by triggering a triple fault via a request to zero CR3.| 
@@ -40,7 +41,11 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210730T12:34:11Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2438 | 57| 
+| 20210730T19:31:32Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2443 | 57| 
+| 20210730T18:49:20Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 145 | 22| 
+| 20210730T16:25:58Z | Null | https://github.com/pansilup/cgc-prgs-for-klee-seed-mode | 0 | 0| 
+| 20210730T16:11:53Z | Null | https://github.com/JaimePSantos/ResearchKlee | 0 | 0| 
+| 20210730T13:33:05Z | Config files for my GitHub profile. | https://github.com/KleeMilaxa/KleeMilaxa | 0 | 0| 
 | 20210730T09:34:23Z | Null | https://github.com/xenoney/kleee | 0 | 0| 
 
 
@@ -52,21 +57,26 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210730T12:42:18Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9783 | 1615| 
-| 20210730T12:34:20Z | Exploits project Hacking Command Center | https://github.com/chacka0101/exploits | 12 | 10| 
-| 20210730T12:28:59Z |  CamOver is a camera exploitation tool that allows to disclosure network camera admin password. | https://github.com/EntySec/CamOver | 71 | 22| 
-| 20210730T12:26:03Z | A Roblox Exploit | https://github.com/WhyTeaCEO/WhyTea-Hax | 0 | 0| 
-| 20210730T12:15:47Z | System Exploitation Fundamental | https://github.com/JiWonOck/DreamHack | 0 | 0| 
-| 20210730T12:02:57Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 14| 
-| 20210730T12:01:11Z | A python based tool for exploiting and managing Android devices via ADB | https://github.com/mesquidar/adbsploit | 233 | 49| 
-| 20210730T11:57:37Z | CamRaptor is a tool that exploits several vulnerabilities in popular DVR cameras to obtain network camera credentials. | https://github.com/EntySec/CamRaptor | 49 | 12| 
-| 20210730T11:55:50Z | WordPress Backup Guard Authenticated Remote Code Execution Exploit | https://github.com/0Day-dev/CVE-2021-24155.rb | 1 | 1| 
-| 20210730T11:48:46Z | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | 100 | 18| 
+| 20210730T23:43:09Z | Null | https://github.com/jwardsmith/Active-Directory-Exploitation | 3 | 1| 
+| 20210730T23:20:55Z | Null | https://github.com/Hmood511/NASA-Exploit | 0 | 0| 
+| 20210730T23:02:56Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 14| 
+| 20210730T22:36:57Z | Repo to study exploitation techniques for Android userland. | https://github.com/MaherAzzouzi/AndroidExploitation | 0 | 0| 
+| 20210730T22:08:19Z | When it comes to exploiting web application security, this is a methodology. Enumeration and Networking guidelines are also listed to help while on a Pentest/CTF.  | https://github.com/Mdot0/Pentesting-Methodology- | 1 | 0| 
+| 20210730T21:52:03Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9787 | 1617| 
+| 20210730T21:36:42Z | Some of my Binary Exploitation Stuff | https://github.com/k0rup710n/BinaryExploitation | 0 | 0| 
+| 20210730T21:21:17Z | Exploit do Wii U que se aproveita de uma brecha no navegador do console, possibilitando a execução do Homebrew e CFW. Requer que o CFW seja executado em cada reinício. | https://github.com/Nintendo-Homebrew/Mocha_Indexiine | 0 | 0| 
+| 20210730T21:21:08Z | Binary exploits presented in web app | https://github.com/Pen-Test3rs/binary_exploits_examples | 0 | 0| 
+| 20210730T21:11:57Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 216 | 10| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210730T20:22:23Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1235 | 585| 
+| 20210730T18:30:14Z | Windows 10 PRO Activator - No more backdoors via loaders from China and neither you will need any crack anymore that is valid for a week or two. This is script is written for powershell/cmd. This script will also removing all bloatware from Windows 10. Edit the script after your needs. | https://github.com/wuseman/wloader | 71 | 16| 
+| 20210730T17:51:17Z | Null | https://github.com/FierzaEriez/Mini-Shell-Backdoor | 1 | 1| 
+| 20210730T17:34:38Z | Backdoor has been discovered by me in Denver Smart Wifi Camera SHC-150. Backdoor allows attacker to execute commands on OS level. | https://github.com/enty8080/denver-camera-backdoor | 4 | 1| 
+| 20210730T15:31:47Z | A WordPress backdoor | https://github.com/alainlankers/wordpress-backdoor | 0 | 0| 
 | 20210730T11:04:46Z | Null | https://github.com/gduweng/simple-c-backdoor | 0 | 0| 
 | 20210730T10:39:38Z | Implementation of a native-code HatSploit membrane for unix-like systems, designed for portability, embeddability, and low resource utilization. | https://github.com/EntySec/membrane | 6 | 3| 
 | 20210730T05:48:40Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 270 | 51| 
@@ -91,16 +101,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210730T12:56:32Z | Verilog Fuzzer to test the major simulators and sythesisers by generating random, valid Verilog. | https://github.com/ymherklotz/verismith | 62 | 3| 
-| 20210730T12:42:12Z | OWASP-ZAP with Drone pipeline | https://github.com/9447-team-4/Pipeline-dynamic-fuzzer | 0 | 0| 
-| 20210730T12:40:13Z | Fuzzinator Random Testing Framework | https://github.com/renatahodovan/fuzzinator | 178 | 38| 
-| 20210730T12:35:05Z | Null | https://github.com/randstad-strategic-analytics/fuzzy_merge | 0 | 0| 
-| 20210730T12:22:57Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1256 | 225| 
-| 20210730T12:15:13Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 20 | 8| 
-| 20210730T12:15:02Z | Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery. | https://github.com/fuzzdb-project/fuzzdb | 5896 | 1760| 
-| 20210730T12:03:16Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 511 | 48| 
-| 20210730T12:03:16Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1936 | 384| 
-| 20210730T12:02:46Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20210730T22:33:03Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
+| 20210730T22:01:55Z | Null | https://github.com/kutay-ugurlu/Fuzzy-Control-of-Vaccination | 0 | 0| 
+| 20210730T21:56:02Z | Null | https://github.com/jekkogray/fuzzy-telegram | 0 | 0| 
+| 20210730T21:35:07Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20210730T20:45:28Z | ruby binary for  enumeration fuzzing | https://github.com/Madhava-mng/m4dh4v45b1n | 2 | 0| 
+| 20210730T20:33:16Z | Simple fuzzy classifier combined with evolutionary algorithms, PSO and GA, applied on Iris Dataset. | https://github.com/andrecasotti/fuzzy_EAClassifier | 0 | 0| 
+| 20210730T20:10:46Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 87 | 23| 
+| 20210730T19:56:52Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2363 | 133| 
+| 20210730T19:56:22Z | A Codice Fiscale Generator | https://github.com/tonyarris/codice-fuzzcale | 0 | 0| 
+| 20210730T19:53:47Z | Null | https://github.com/randstad-strategic-analytics/fuzzy_merge | 0 | 0| 
 
 
 
