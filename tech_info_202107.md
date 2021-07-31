@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210731T01:32:07Z | CVE-2021-3490 | Null | https://github.com/chompie1337/Linux_LPE_eBPF_CVE-2021-3490 | The eBPF ALU32 bounds tracking for bitwise ops (AND, OR and XOR) in the Linux kernel did not properly update 32-bit bounds, which could be turned into out of bounds reads and writes in the Linux kernel and therefore, arbitrary code execution. This issue was fixed via commit 049c4e13714e (%bpf: Fix alu32 const subreg bound tracking on bitwise operations%) (v5.13-rc4) and backported to the stable kernels in v5.12.4, v5.11.21, and v5.10.37. The AND/OR issues were introduced by commit 3f50f132d840 (%bpf: Verifier, do explicit ALU32 bounds tracking%) (5.7-rc1) and the XOR variant was introduced by 2921c90d4718 (%bpf:Fix a verifier failure with xor%) ( 5.10-rc1).| 
 | 20210730T22:00:55Z | CVE-2021-22911 | Full unauthenticated RCE proof of concept for Rocket.Chat 3.12.1 CVE-2021-22911 | https://github.com/optionalCTF/Rocket.Chat-Automated-Account-Takeover-RCE-CVE-2021-22911 | A improper input sanitization vulnerability exists in Rocket.Chat server 3.11, 3.12 & 3.13 that could lead to unauthenticated NoSQL injection, resulting potentially in RCE.| 
-| 20210730T16:38:34Z | CVE-2021-3490 | Null | https://github.com/chompie1337/Linux_LPE_eBPF_CVE-2021-3490 | The eBPF ALU32 bounds tracking for bitwise ops (AND, OR and XOR) in the Linux kernel did not properly update 32-bit bounds, which could be turned into out of bounds reads and writes in the Linux kernel and therefore, arbitrary code execution. This issue was fixed via commit 049c4e13714e (%bpf: Fix alu32 const subreg bound tracking on bitwise operations%) (v5.13-rc4) and backported to the stable kernels in v5.12.4, v5.11.21, and v5.10.37. The AND/OR issues were introduced by commit 3f50f132d840 (%bpf: Verifier, do explicit ALU32 bounds tracking%) (5.7-rc1) and the XOR variant was introduced by 2921c90d4718 (%bpf:Fix a verifier failure with xor%) ( 5.10-rc1).| 
 | 20210730T12:29:18Z | CVE-2021-36934 | CVE-2021-36934 HiveNightmare vulnerability checker and workaround | https://github.com/irissentinel/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
 | 20210730T11:55:50Z | CVE-2021-24155 | WordPress Backup Guard Authenticated Remote Code Execution Exploit | https://github.com/0Day-dev/CVE-2021-24155.rb | The WordPress Backup and Migrate Plugin – Backup Guard WordPress plugin before 1.6.0 did not ensure that the imported files are of the SGBP format and extension, allowing high privilege users (admin+) to upload arbitrary files, including PHP ones, leading to RCE.| 
 | 20210730T11:55:50Z | CVE-2021-24155 | WordPress Backup Guard Authenticated Remote Code Execution Exploit | https://github.com/0dayNinja/CVE-2021-24155.rb | The WordPress Backup and Migrate Plugin – Backup Guard WordPress plugin before 1.6.0 did not ensure that the imported files are of the SGBP format and extension, allowing high privilege users (admin+) to upload arbitrary files, including PHP ones, leading to RCE.| 
@@ -91,21 +91,22 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210731T01:42:45Z | Null | https://github.com/jwardsmith/Active-Directory-Exploitation | 3 | 1| 
+| 20210731T01:39:57Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 324 | 52| 
+| 20210731T01:36:51Z | This repository will have recollected most of my notes on windows internals both for Malware Analysis and Logic Bug Exploitation | https://github.com/NtQuerySystemInformation/Notes-on-Windows-Internals | 0 | 0| 
 | 20210731T01:13:59Z | When it comes to exploiting web application security, this is a methodology. Enumeration and Networking guidelines are also listed to help while on a Pentest/CTF.  | https://github.com/Mdot0/Pentesting-Methodology- | 1 | 0| 
-| 20210731T01:05:31Z | Null | https://github.com/jwardsmith/Active-Directory-Exploitation | 3 | 1| 
 | 20210731T01:02:55Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 14| 
 | 20210731T00:52:08Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 19 | 12| 
 | 20210731T00:32:29Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 217 | 10| 
-| 20210731T00:22:59Z | This repository will have recollected most of my notes on windows internals both for Malware Analysis and Logic Bug Exploitation | https://github.com/NtQuerySystemInformation/Notes-on-Windows-Internals | 0 | 0| 
 | 20210730T23:20:55Z | Null | https://github.com/Hmood511/NASA-Exploit | 0 | 0| 
 | 20210730T22:36:57Z | Repo to study exploitation techniques for Android userland. | https://github.com/MaherAzzouzi/AndroidExploitation | 0 | 0| 
 | 20210730T21:52:03Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9787 | 1617| 
-| 20210730T21:36:42Z | Some of my Binary Exploitation Stuff | https://github.com/k0rup710n/BinaryExploitation | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210731T01:27:05Z | Patch PE, ELF, Mach-O binaries with shellcode new version in development, available only to sponsors | https://github.com/secretsquirrel/the-backdoor-factory | 2817 | 759| 
 | 20210730T20:22:23Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1235 | 585| 
 | 20210730T18:30:14Z | Windows 10 PRO Activator - No more backdoors via loaders from China and neither you will need any crack anymore that is valid for a week or two. This is script is written for powershell/cmd. This script will also removing all bloatware from Windows 10. Edit the script after your needs. | https://github.com/wuseman/wloader | 71 | 16| 
 | 20210730T17:51:17Z | Null | https://github.com/FierzaEriez/Mini-Shell-Backdoor | 1 | 1| 
@@ -115,7 +116,6 @@
 | 20210730T10:39:38Z | Implementation of a native-code HatSploit membrane for unix-like systems, designed for portability, embeddability, and low resource utilization. | https://github.com/EntySec/membrane | 6 | 3| 
 | 20210730T05:48:40Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 270 | 51| 
 | 20210730T02:25:59Z | The code of AAAI-21 paper %Defending against Backdoors in Federated Learning with Robust Learning Rate%. | https://github.com/TinfoilHat0/Defending-Against-Backdoors-with-Robust-Learning-Rate | 0 | 1| 
-| 20210730T00:59:59Z | Python AV Evasion Tools | https://github.com/G1ft3dC0d3/MsfMania | 190 | 45| 
 
 
 # symbolic execution on Github 推荐
