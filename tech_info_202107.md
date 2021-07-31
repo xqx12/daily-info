@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210731T11:21:44Z | CVE-2021-3490 | Null | https://github.com/chompie1337/Linux_LPE_eBPF_CVE-2021-3490 | The eBPF ALU32 bounds tracking for bitwise ops (AND, OR and XOR) in the Linux kernel did not properly update 32-bit bounds, which could be turned into out of bounds reads and writes in the Linux kernel and therefore, arbitrary code execution. This issue was fixed via commit 049c4e13714e (%bpf: Fix alu32 const subreg bound tracking on bitwise operations%) (v5.13-rc4) and backported to the stable kernels in v5.12.4, v5.11.21, and v5.10.37. The AND/OR issues were introduced by commit 3f50f132d840 (%bpf: Verifier, do explicit ALU32 bounds tracking%) (5.7-rc1) and the XOR variant was introduced by 2921c90d4718 (%bpf:Fix a verifier failure with xor%) ( 5.10-rc1).| 
+| 20210731T12:13:28Z | CVE-2021-3490 | Null | https://github.com/chompie1337/Linux_LPE_eBPF_CVE-2021-3490 | The eBPF ALU32 bounds tracking for bitwise ops (AND, OR and XOR) in the Linux kernel did not properly update 32-bit bounds, which could be turned into out of bounds reads and writes in the Linux kernel and therefore, arbitrary code execution. This issue was fixed via commit 049c4e13714e (%bpf: Fix alu32 const subreg bound tracking on bitwise operations%) (v5.13-rc4) and backported to the stable kernels in v5.12.4, v5.11.21, and v5.10.37. The AND/OR issues were introduced by commit 3f50f132d840 (%bpf: Verifier, do explicit ALU32 bounds tracking%) (5.7-rc1) and the XOR variant was introduced by 2921c90d4718 (%bpf:Fix a verifier failure with xor%) ( 5.10-rc1).| 
 | 20210731T11:07:31Z | CVE-2021-3560 | Polkit D-Bus Authentication Bypass Exploit | https://github.com/0dayNinja/CVE-2021-3560 | 未查询到CVE信息| 
 | 20210731T11:07:29Z | CVE-2021-24155 | WordPress Backup Guard Authenticated Remote Code Execution Exploit | https://github.com/0dayNinja/CVE-2021-24155.rb | The WordPress Backup and Migrate Plugin – Backup Guard WordPress plugin before 1.6.0 did not ensure that the imported files are of the SGBP format and extension, allowing high privilege users (admin+) to upload arbitrary files, including PHP ones, leading to RCE.| 
 | 20210731T08:20:04Z | CVE-2021-22911 | Full unauthenticated RCE proof of concept for Rocket.Chat 3.12.1 CVE-2021-22911 | https://github.com/optionalCTF/Rocket.Chat-Automated-Account-Takeover-RCE-CVE-2021-22911 | A improper input sanitization vulnerability exists in Rocket.Chat server 3.11, 3.12 & 3.13 that could lead to unauthenticated NoSQL injection, resulting potentially in RCE.| 
-| 20210731T03:47:31Z | CVE-2020-14343 | Experimenting with the CVE-2020-14343 PyYAML vulnerability | https://github.com/raul23/pyyaml-CVE-2020-14343 | A vulnerability was discovered in the PyYAML library in versions before 5.4, where it is susceptible to arbitrary code execution when it processes untrusted YAML files through the full_load method or with the FullLoader loader. Applications that use the library to process untrusted input may be vulnerable to this flaw. This flaw allows an attacker to execute arbitrary code on the system by abusing the python/object/new constructor. This flaw is due to an incomplete fix for CVE-2020-1747.| 
+| 20210731T03:47:31Z | CVE-2020-14343 | Experimenting with the CVE-2020-14343 PyYAML vulnerability | https://github.com/raul23/pyyaml-CVE-2020-14343 | | 
 | 20210730T12:29:18Z | CVE-2021-36934 | CVE-2021-36934 HiveNightmare vulnerability checker and workaround | https://github.com/irissentinel/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
 | 20210730T11:55:50Z | CVE-2021-24155 | WordPress Backup Guard Authenticated Remote Code Execution Exploit | https://github.com/0Day-dev/CVE-2021-24155.rb | The WordPress Backup and Migrate Plugin – Backup Guard WordPress plugin before 1.6.0 did not ensure that the imported files are of the SGBP format and extension, allowing high privilege users (admin+) to upload arbitrary files, including PHP ones, leading to RCE.| 
 | 20210730T11:43:35Z | CVE-2021-3560 | Polkit D-Bus Authentication Bypass Exploit | https://github.com/0Day-dev/CVE-2021-3560 | | 
 | 20210730T07:53:07Z | CVE-2020-15368 | How to exploit a vulnerable windows driver. Exploit for AsrDrv104.sys | https://github.com/stong/CVE-2020-15368 | AsrDrv103.sys in the ASRock RGB Driver does not properly restrict access from user space, as demonstrated by triggering a triple fault via a request to zero CR3.| 
-| 20210730T03:48:26Z | cve-2021-1480 | Null | https://github.com/xmco/sdwan-cve-2021-1480 | Multiple vulnerabilities in Cisco SD-WAN vManage Software could allow an unauthenticated, remote attacker to execute arbitrary code or allow an authenticated, local attacker to gain escalated privileges on an affected system. For more information about these vulnerabilities, see the Details section of this advisory.| 
+| 20210730T03:48:26Z | cve-2021-1480 | Null | https://github.com/xmco/sdwan-cve-2021-1480 | | 
 
 
 # klee on Github 推荐
@@ -91,9 +91,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210731T12:10:09Z | Space Exploitation for Stellaris | https://github.com/draconas1/stellaris-space-exploitation | 0 | 0| 
 | 20210731T12:09:26Z | Null | https://github.com/MicroFox-HD/Exploits | 0 | 0| 
 | 20210731T12:02:54Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 14| 
-| 20210731T12:01:40Z | Space Exploitation for Stellaris | https://github.com/draconas1/stellaris-space-exploitation | 0 | 0| 
 | 20210731T11:48:46Z | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | 9 | 3| 
 | 20210731T11:29:22Z | PacketLimiter is a open-source packet limiter to fix minecraft exploits with version support for 1.7 to 1.17. | https://github.com/HakanGulgen/packetlimiter | 0 | 0| 
 | 20210731T11:22:35Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
