@@ -45,7 +45,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210801T12:57:54Z | Some of my Binary Exploitation Stuff | https://github.com/k0rup710n/BinaryExploitation | 0 | 0| 
+| 20210801T12:59:48Z | Some of my Binary Exploitation Stuff | https://github.com/k0rup710n/BinaryExploitation | 0 | 0| 
 | 20210801T12:56:20Z | Host exploit for 7.02&7.50&7.51&7.55 | https://github.com/els3edyps4/7xx | 0 | 0| 
 | 20210801T12:54:39Z | Discord Nukers, Bots, Tools, Proxies, Exploits, Grabbers, anything to do with discord will be found here. | https://github.com/ItsChasa/Discord | 1 | 0| 
 | 20210801T12:52:00Z | Null | https://github.com/omerfaruktuna/exploiting-epistemic-uncertainty | 0 | 0| 
