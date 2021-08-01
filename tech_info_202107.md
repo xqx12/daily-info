@@ -94,13 +94,13 @@
 | 20210731T23:16:08Z | Discord Nukers, Bots, Tools, Proxies, Exploits, Grabbers, anything to do with discord will be found here. | https://github.com/ItsChasa/Discord | 0 | 0| 
 | 20210731T23:08:24Z | block game military grade radar | https://github.com/nerdsinspace/nocom-explanation | 230 | 10| 
 | 20210731T23:06:22Z | Extensible framework for analyzing publicly available information about vulnerabilities | https://github.com/leonov-av/vulristics | 34 | 3| 
-| 20210731T23:02:57Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 14| 
 | 20210731T21:48:01Z | Host exploit for 7.02&7.50&7.51&7.55 | https://github.com/els3edyps4/7xx | 0 | 0| 
 | 20210731T21:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9791 | 1618| 
 | 20210731T21:19:40Z | RomBuster is a router exploitation tool that allows to disclosure network router admin password. | https://github.com/EntySec/RomBuster | 96 | 22| 
 | 20210731T21:17:30Z | CamRaptor is a tool that exploits several vulnerabilities in popular DVR cameras to obtain network camera credentials. | https://github.com/EntySec/CamRaptor | 49 | 12| 
 | 20210731T21:16:16Z | HatSploit native powerful payload generation and shellcode injection tool that provides support for common platforms and architectures. | https://github.com/EntySec/HatVenom | 36 | 11| 
 | 20210731T21:15:23Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1239 | 585| 
+| 20210731T21:12:57Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 3839 | 553| 
 
 
 # backdoor on Github 推荐
