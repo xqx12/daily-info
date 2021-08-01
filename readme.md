@@ -33,8 +33,8 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210801T12:53:52Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2460 | 59| 
 | 20210801T12:23:25Z | Null | https://github.com/coffee100percnt/KleeDiscordBomber | 3 | 0| 
-| 20210801T12:13:07Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2461 | 59| 
 
 
 # s2e on Github 推荐
@@ -45,9 +45,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210801T12:54:39Z | Discord Nukers, Bots, Tools, Proxies, Exploits, Grabbers, anything to do with discord will be found here. | https://github.com/ItsChasa/Discord | 1 | 0| 
+| 20210801T12:54:38Z | Host exploit for 7.02&7.50&7.51&7.55 | https://github.com/els3edyps4/7xx | 0 | 0| 
 | 20210801T12:52:00Z | Null | https://github.com/omerfaruktuna/exploiting-epistemic-uncertainty | 0 | 0| 
-| 20210801T12:51:39Z | Host exploit for 7.02&7.50&7.51&7.55 | https://github.com/els3edyps4/7xx | 0 | 0| 
-| 20210801T12:36:27Z | Discord Nukers, Bots, Tools, Proxies, Exploits, Grabbers, anything to do with discord will be found here. | https://github.com/ItsChasa/Discord | 0 | 0| 
 | 20210801T12:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9792 | 1619| 
 | 20210801T12:34:54Z | Commodity Injection Signatures, Malicious Inputs, XSS, HTTP Header Injection, XXE, RCE, Javascript, XSLT | https://github.com/xsscx/Commodity-Injection-Signatures | 283 | 105| 
 | 20210801T12:24:59Z | Null | https://github.com/TheCrazzXz/Exploits-Lab | 0 | 0| 
@@ -60,7 +60,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210801T12:50:09Z | Null | https://github.com/BackdoorTech/BackdoorTech | 0 | 0| 
+| 20210801T12:54:48Z | Null | https://github.com/BackdoorTech/BackdoorTech | 0 | 0| 
 | 20210801T12:41:34Z | Null | https://github.com/s3q/backdoor_c | 0 | 0| 
 | 20210801T11:58:35Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 293 | 129| 
 | 20210801T10:58:44Z | Null | https://github.com/lhysgithub/MI-and-Backdoor-on-FL | 0 | 0| 
