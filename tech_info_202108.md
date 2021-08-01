@@ -45,7 +45,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210801T12:47:11Z | Host exploit for 7.02&7.50&7.51&7.55 | https://github.com/els3edyps4/7xx | 0 | 0| 
+| 20210801T12:52:00Z | Null | https://github.com/omerfaruktuna/exploiting-epistemic-uncertainty | 0 | 0| 
+| 20210801T12:51:39Z | Host exploit for 7.02&7.50&7.51&7.55 | https://github.com/els3edyps4/7xx | 0 | 0| 
 | 20210801T12:36:27Z | Discord Nukers, Bots, Tools, Proxies, Exploits, Grabbers, anything to do with discord will be found here. | https://github.com/ItsChasa/Discord | 0 | 0| 
 | 20210801T12:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9792 | 1619| 
 | 20210801T12:34:54Z | Commodity Injection Signatures, Malicious Inputs, XSS, HTTP Header Injection, XXE, RCE, Javascript, XSLT | https://github.com/xsscx/Commodity-Injection-Signatures | 283 | 105| 
@@ -53,13 +54,13 @@
 | 20210801T12:24:07Z | Record some topics and exploits in my learning of PWN | https://github.com/noobone123/my_pwn | 0 | 0| 
 | 20210801T12:02:54Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 14| 
 | 20210801T11:43:02Z | Some Generic Browser Exploits (For Educational Purposes Only) | https://github.com/matamorphosis/Browser-Exploits | 20 | 21| 
-| 20210801T11:41:56Z | Null | https://github.com/omerfaruktuna/exploiting-epistemic-uncertainty | 0 | 0| 
 | 20210801T11:32:46Z | With this script you can perform the first connection step against a server to successfully exploit a BuffOverFlow | https://github.com/akil3s79/BS-BOF | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210801T12:50:09Z | Null | https://github.com/BackdoorTech/BackdoorTech | 0 | 0| 
 | 20210801T12:41:34Z | Null | https://github.com/s3q/backdoor_c | 0 | 0| 
 | 20210801T11:58:35Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 293 | 129| 
 | 20210801T10:58:44Z | Null | https://github.com/lhysgithub/MI-and-Backdoor-on-FL | 0 | 0| 
@@ -83,16 +84,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210801T12:51:43Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20210801T12:50:56Z | Aplikasi Fuzzy C Means Untuk spk penduduk | https://github.com/andriirwanzahri/Fuzzy-C-Means | 0 | 0| 
+| 20210801T12:49:13Z | Little mobile app I use to monitor getfursu.it | https://github.com/veelkoov/fuzzrake-hc-android | 0 | 0| 
+| 20210801T12:44:22Z | Fuzzinator Random Testing Framework | https://github.com/renatahodovan/fuzzinator | 178 | 38| 
 | 20210801T12:37:08Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210801T12:36:06Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 322 | 22| 
 | 20210801T12:26:52Z | Null | https://github.com/Isyehaydgs/fuzzy-doodle | 0 | 0| 
 | 20210801T12:26:37Z | Personal web development portfolio site | https://github.com/fuzzylogicltd/fuzzylogic.ltd-v1 | 0 | 0| 
 | 20210801T12:15:11Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 21 | 8| 
 | 20210801T12:11:26Z | A Codice Fiscale Generator | https://github.com/tonyarris/codice-fuzzcale | 0 | 0| 
-| 20210801T12:08:29Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 6 | 0| 
-| 20210801T11:31:10Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210801T11:25:02Z | Null | https://github.com/Vacxamaiys/fuzzy-doodle | 0 | 0| 
-| 20210801T11:14:16Z | Null | https://github.com/cds-group/fuzzy-network-clustering-datasets | 0 | 0| 
 
 
 
