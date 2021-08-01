@@ -82,9 +82,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210801T12:11:26Z | A Codice Fiscale Generator | https://github.com/tonyarris/codice-fuzzcale | 0 | 0| 
 | 20210801T12:08:29Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 6 | 0| 
 | 20210801T11:53:53Z | Null | https://github.com/Isyehaydgs/fuzzy-doodle | 0 | 0| 
-| 20210801T11:35:12Z | A Codice Fiscale Generator | https://github.com/tonyarris/codice-fuzzcale | 0 | 0| 
 | 20210801T11:31:10Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210801T11:25:02Z | Null | https://github.com/Vacxamaiys/fuzzy-doodle | 0 | 0| 
 | 20210801T11:14:16Z | Null | https://github.com/cds-group/fuzzy-network-clustering-datasets | 0 | 0| 
