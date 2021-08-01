@@ -45,6 +45,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210801T12:36:27Z | Discord Nukers, Bots, Tools, Proxies, Exploits, Grabbers, anything to do with discord will be found here. | https://github.com/ItsChasa/Discord | 0 | 0| 
 | 20210801T12:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9792 | 1619| 
 | 20210801T12:34:54Z | Commodity Injection Signatures, Malicious Inputs, XSS, HTTP Header Injection, XXE, RCE, Javascript, XSLT | https://github.com/xsscx/Commodity-Injection-Signatures | 283 | 105| 
 | 20210801T12:24:59Z | Null | https://github.com/TheCrazzXz/Exploits-Lab | 0 | 0| 
@@ -54,7 +55,6 @@
 | 20210801T11:41:56Z | Null | https://github.com/omerfaruktuna/exploiting-epistemic-uncertainty | 0 | 0| 
 | 20210801T11:32:46Z | With this script you can perform the first connection step against a server to successfully exploit a BuffOverFlow | https://github.com/akil3s79/BS-BOF | 0 | 0| 
 | 20210801T11:02:19Z | My n-day exploit for CVE-2019-18634 (local privilege escalation) | https://github.com/aesophor/CVE-2019-18634 | 0 | 0| 
-| 20210801T11:00:11Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 24 | 5| 
 
 
 # backdoor on Github 推荐
