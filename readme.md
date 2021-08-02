@@ -67,7 +67,6 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210801T23:26:15Z | Light-weight UNIX backdoor | https://github.com/phath0m/JadedWraith | 4 | 1| 
 | 20210801T20:14:55Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1240 | 586| 
 | 20210801T14:59:27Z | Null | https://github.com/BackdoorTech/BackdoorTech | 0 | 0| 
 | 20210801T12:41:34Z | Null | https://github.com/s3q/backdoor_c | 0 | 0| 
