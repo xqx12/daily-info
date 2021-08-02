@@ -56,13 +56,13 @@
 | 20210801T23:58:42Z | Pure Nim implementation for exploiting CVE-2021-36934, the SeriousSAM local privilege escalation | https://github.com/HuskyHacks/ShadowSteal | 153 | 31| 
 | 20210801T23:43:30Z | this is a windows machine vulnerable to the eternalblue exploit. let%s hack it! | https://github.com/ethanoxendine/blue | 0 | 0| 
 | 20210801T23:21:11Z | Simple stuffs (exploit, extentions) for habboz.ws a french habbo game | https://github.com/Miisaakii/Habboz.ws-stuffs | 0 | 0| 
-| 20210801T23:03:04Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 14| 
 | 20210801T22:38:09Z | Suported: SynapseX, KRNL, ScriptWare | https://github.com/XJMI/LuaU-Scripts | 0 | 0| 
 | 20210801T21:58:28Z | A tiny repository with exploits for challenges or another executables. | https://github.com/xVoiceSyntax/Exploits | 1 | 0| 
 | 20210801T21:54:08Z | Null | https://github.com/Vanshal/Exploits-and-Scripts | 0 | 0| 
 | 20210801T21:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9795 | 1621| 
 | 20210801T21:08:11Z | haha funne roblox exploit | https://github.com/s7l/astro | 0 | 0| 
 | 20210801T20:56:43Z | Null | https://github.com/jwardsmith/Active-Directory-Exploitation | 3 | 1| 
+| 20210801T20:52:29Z | Discord Nukers, Bots, Tools, Proxies, Exploits, Grabbers, anything to do with discord will be found here. | https://github.com/ItsChasa/Discord | 1 | 0| 
 
 
 # backdoor on Github 推荐

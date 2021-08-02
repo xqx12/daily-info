@@ -53,11 +53,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210802T00:03:08Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 14| 
 | 20210802T00:00:18Z | Ipdetect is a tool with multiple functionalities ... still under development. With ipdetect you will be able to find vulnerabilities in a host being analyzed and exploit them later. | https://github.com/kanekorbs/ipdetect | 0 | 0| 
 | 20210801T23:58:42Z | Pure Nim implementation for exploiting CVE-2021-36934, the SeriousSAM local privilege escalation | https://github.com/HuskyHacks/ShadowSteal | 153 | 31| 
 | 20210801T23:43:30Z | this is a windows machine vulnerable to the eternalblue exploit. let%s hack it! | https://github.com/ethanoxendine/blue | 0 | 0| 
 | 20210801T23:21:11Z | Simple stuffs (exploit, extentions) for habboz.ws a french habbo game | https://github.com/Miisaakii/Habboz.ws-stuffs | 0 | 0| 
-| 20210801T23:03:04Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 14| 
 | 20210801T22:38:09Z | Suported: SynapseX, KRNL, ScriptWare | https://github.com/XJMI/LuaU-Scripts | 0 | 0| 
 | 20210801T21:58:28Z | A tiny repository with exploits for challenges or another executables. | https://github.com/xVoiceSyntax/Exploits | 1 | 0| 
 | 20210801T21:54:08Z | Null | https://github.com/Vanshal/Exploits-and-Scripts | 0 | 0| 
