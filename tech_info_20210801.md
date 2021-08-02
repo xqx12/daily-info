@@ -32,7 +32,7 @@
 | 20210801T19:54:34Z | CVE-2021-36934 | SeriousSAM Auto Exploiter | https://github.com/websecnl/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
 | 20210801T14:51:33Z | CVE-2021-3560 | Polkit D-Bus Authentication Bypass Exploit | https://github.com/0dayNinja/CVE-2021-3560 | 未查询到CVE信息| 
 | 20210801T14:51:32Z | CVE-2021-24155 | WordPress Backup Guard Authenticated Remote Code Execution Exploit | https://github.com/0dayNinja/CVE-2021-24155.rb | The WordPress Backup and Migrate Plugin – Backup Guard WordPress plugin before 1.6.0 did not ensure that the imported files are of the SGBP format and extension, allowing high privilege users (admin+) to upload arbitrary files, including PHP ones, leading to RCE.| 
-| 20210801T13:21:24Z | CVE-2021-28378 | Null | https://github.com/PandatiX/CVE-2021-28378 | Gitea 1.12.x and 1.13.x before 1.13.4 allows XSS via certain issue data in some situations.| 
+| 20210801T13:21:24Z | CVE-2021-28378 | Null | https://github.com/PandatiX/CVE-2021-28378 | | 
 
 
 # klee on Github 推荐
