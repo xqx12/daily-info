@@ -34,7 +34,7 @@
 | 20210802T09:16:45Z | CVE-2021-22204 | Null | https://github.com/PenTestical/CVE-2021-22204 | Improper neutralization of user data in the DjVu file format in ExifTool versions 7.44 and up allows arbitrary code execution when parsing the malicious image| 
 | 20210802T08:34:20Z | CVE-2021-21300 | Null | https://github.com/xiaofeihahah/CVE-2021-21300 | Git is an open-source distributed revision control system. In affected versions of Git a specially crafted repository that contains symbolic links as well as files using a clean/smudge filter such as Git LFS, may cause just-checked out script to be executed while cloning onto a case-insensitive file system such as NTFS, HFS+ or APFS (i.e. the default file systems on Windows and macOS). Note that clean/smudge filters have to be configured for that. Git for Windows configures Git LFS by default, and is therefore vulnerable. The problem has been patched in the versions published on Tuesday, March 9th, 2021. As a workaound, if symbolic link support is disabled in Git (e.g. via `git config --global core.symlinks false`), the described attack won%t work. Likewise, if no clean/smudge filters such as Git LFS are configured globally (i.e. _before_ cloning), the attack is foiled. As always, it is best to avoid cloning repositories from untrusted sources. The earliest impacted version is 2.14.2. The fix versions are: 2.30.1, 2.29.3, 2.28.1, 2.27.1, 2.26.3, 2.25.5, 2.24.4, 2.23.4, 2.22.5, 2.21.4, 2.20.5, 2.19.6, 2.18.5, 2.17.62.17.6.| 
 | 20210802T07:24:04Z | CVE-2021-33624 | Proof of Concept for CVE-2021-33624 | https://github.com/Kakashiiiiy/CVE-2021-33624 | In kernel/bpf/verifier.c in the Linux kernel before 5.12.13, a branch can be mispredicted (e.g., because of type confusion) and consequently an unprivileged BPF program can read arbitrary memory locations via a side-channel attack, aka CID-9183671af6db.| 
-| 20210802T04:48:27Z | CVE-2021-31630 | Exploit for Authenticated Remote Code Execution on OpenPLC v3 Webserver | https://github.com/h3v0x/CVE-2021-31630-OpenPLC_RCE | | 
+| 20210802T04:48:27Z | CVE-2021-31630 | Exploit for Authenticated Remote Code Execution on OpenPLC v3 Webserver | https://github.com/h3v0x/CVE-2021-31630-OpenPLC_RCE | 未查询到CVE信息| 
 | 20210802T01:56:39Z | CVE-2020-36287 | The dashboard gadgets preference resource of the Atlassian gadgets plugin used in Jira Server and Jira Data Center before version 8.13.5, and from version 8.14.0 before version 8.15.1 allows remote anonymous attackers to obtain gadget related settings via a missing permissions check. | https://github.com/f4rber/CVE-2020-36287 | The dashboard gadgets preference resource of the Atlassian gadgets plugin used in Jira Server and Jira Data Center before version 8.13.5, and from version 8.14.0 before version 8.15.1 allows remote anonymous attackers to obtain gadget related settings via a missing permissions check.| 
 | 20210802T01:26:24Z | 未知编号 | Null | https://github.com/zeronohacker/CVE-2018-20250 | 未查询到CVE信息| 
 
@@ -57,6 +57,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210802T12:27:23Z | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | 217 | 38| 
 | 20210802T12:23:11Z | My n-day exploit for CVE-2019-18634 (local privilege escalation) | https://github.com/aesophor/CVE-2019-18634 | 2 | 0| 
 | 20210802T12:21:20Z | From prototype to production, BCFG works closely with projects through the complete development cycle to identify security issues and recommend best practices. With recurring exploitations, rugpulls and hacks infiltrating the Decentralised Finance sector, our mission is to mitigate and pinpoint all possible security risks and flaws within each line of code.  | https://github.com/BCFG-Audit/Smart_Contract_Security_Audits | 0 | 0| 
 | 20210802T12:05:55Z | Google Chrome 86.0.4240 V8 - Remote Code Execution | https://github.com/dock0d1/Exploit-Google-Chrome-86.0.4240_V8_RCE | 4 | 3| 
@@ -66,7 +67,6 @@
 | 20210802T10:54:17Z | Exploitation of security vulnerabilities found in poorly designed token-weighted governance protocols, using AAVE flash loans to gain unfair voting power. | https://github.com/Elisik/Token-Weighted-Governance-Security-Exploit-Using-AAVE-Flash-Loans | 1 | 0| 
 | 20210802T10:41:26Z | The first pixel strike 3d hack made in python. | https://github.com/poggersbutnot/Pixel-Strike-Hack | 1 | 0| 
 | 20210802T10:26:43Z | Local exploit for CVE-2021-1675 | https://github.com/tacbliw/PrintNightmare-LPE | 0 | 0| 
-| 20210802T10:10:18Z | Proof of Concept for ATO vulnerability exploitation | https://github.com/renzejongman/POC_ATO_vuln | 0 | 0| 
 
 
 # backdoor on Github 推荐
