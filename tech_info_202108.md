@@ -94,6 +94,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210802T00:04:10Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 21 | 8| 
+| 20210802T00:02:18Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4537 | 453| 
 | 20210801T23:48:35Z | Null | https://github.com/LuanMS99/fuzzy-computing-machine | 0 | 0| 
 | 20210801T22:55:30Z | Null | https://github.com/igorsodre/fuzzy-trader | 0 | 0| 
 | 20210801T22:36:26Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
@@ -102,8 +104,6 @@
 | 20210801T21:46:10Z | A Codice Fiscale Generator | https://github.com/tonyarris/codice-fuzzcale | 0 | 0| 
 | 20210801T21:42:42Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 292 | 39| 
 | 20210801T20:36:58Z | wtf is a distributed, code-coverage guided, customizable, cross-platform snapshot-based fuzzer designed for attacking user and / or kernel-mode targets running on Microsoft Windows. | https://github.com/0vercl0k/wtf | 627 | 37| 
-| 20210801T20:02:49Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 171 | 35| 
-| 20210801T19:08:33Z | Sound and Cost-effective Fuzzing of Stripped Binaries by Incremental and Stochastic Rewriting | https://github.com/ZhangZhuoSJTU/StochFuzz | 70 | 2| 
 
 
 
