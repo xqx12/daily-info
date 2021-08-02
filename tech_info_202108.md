@@ -33,7 +33,7 @@
 | 20210801T20:02:59Z | CVE-2021-22911 | Full unauthenticated RCE proof of concept for Rocket.Chat 3.12.1 CVE-2021-22911 | https://github.com/optionalCTF/Rocket.Chat-Automated-Account-Takeover-RCE-CVE-2021-22911 | A improper input sanitization vulnerability exists in Rocket.Chat server 3.11, 3.12 & 3.13 that could lead to unauthenticated NoSQL injection, resulting potentially in RCE.| 
 | 20210801T19:54:34Z | CVE-2021-36934 | SeriousSAM Auto Exploiter | https://github.com/websecnl/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
 | 20210801T14:51:33Z | CVE-2021-3560 | Polkit D-Bus Authentication Bypass Exploit | https://github.com/0dayNinja/CVE-2021-3560 | 未查询到CVE信息| 
-| 20210801T14:51:32Z | CVE-2021-24155 | WordPress Backup Guard Authenticated Remote Code Execution Exploit | https://github.com/0dayNinja/CVE-2021-24155.rb | | 
+| 20210801T14:51:32Z | CVE-2021-24155 | WordPress Backup Guard Authenticated Remote Code Execution Exploit | https://github.com/0dayNinja/CVE-2021-24155.rb | The WordPress Backup and Migrate Plugin – Backup Guard WordPress plugin before 1.6.0 did not ensure that the imported files are of the SGBP format and extension, allowing high privilege users (admin+) to upload arbitrary files, including PHP ones, leading to RCE.| 
 | 20210801T13:21:24Z | CVE-2021-28378 | Null | https://github.com/PandatiX/CVE-2021-28378 | Gitea 1.12.x and 1.13.x before 1.13.4 allows XSS via certain issue data in some situations.| 
 
 
@@ -69,7 +69,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210802T01:24:49Z | Light-weight UNIX backdoor | https://github.com/phath0m/JadedWraith | 5 | 1| 
+| 20210802T01:42:51Z | Light-weight UNIX backdoor | https://github.com/phath0m/JadedWraith | 6 | 1| 
 | 20210801T20:14:55Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1240 | 586| 
 | 20210801T14:59:27Z | Null | https://github.com/BackdoorTech/BackdoorTech | 0 | 0| 
 | 20210801T12:41:34Z | Null | https://github.com/s3q/backdoor_c | 0 | 0| 
