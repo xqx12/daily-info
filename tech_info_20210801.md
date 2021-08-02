@@ -27,7 +27,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210801T21:03:33Z | CVE-2020-23934 | Python Implementation of CVE-2020-23934 | https://github.com/zyeinn/CVE-2020-23934 | An issue was discovered in RiteCMS 2.2.1. An authenticated user can directly execute system commands by uploading a php web shell in the %Filemanager% section.| 
+| 20210801T21:03:33Z | CVE-2020-23934 | Python Implementation of CVE-2020-23934 | https://github.com/zyeinn/CVE-2020-23934 | | 
 | 20210801T20:02:59Z | CVE-2021-22911 | Full unauthenticated RCE proof of concept for Rocket.Chat 3.12.1 CVE-2021-22911 | https://github.com/optionalCTF/Rocket.Chat-Automated-Account-Takeover-RCE-CVE-2021-22911 | A improper input sanitization vulnerability exists in Rocket.Chat server 3.11, 3.12 & 3.13 that could lead to unauthenticated NoSQL injection, resulting potentially in RCE.| 
 | 20210801T19:54:34Z | CVE-2021-36934 | SeriousSAM Auto Exploiter | https://github.com/websecnl/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
 | 20210801T14:51:33Z | CVE-2021-3560 | Polkit D-Bus Authentication Bypass Exploit | https://github.com/0dayNinja/CVE-2021-3560 | 未查询到CVE信息| 
