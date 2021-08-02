@@ -33,7 +33,7 @@
 | 20210801T20:02:59Z | CVE-2021-22911 | Full unauthenticated RCE proof of concept for Rocket.Chat 3.12.1 CVE-2021-22911 | https://github.com/optionalCTF/Rocket.Chat-Automated-Account-Takeover-RCE-CVE-2021-22911 | A improper input sanitization vulnerability exists in Rocket.Chat server 3.11, 3.12 & 3.13 that could lead to unauthenticated NoSQL injection, resulting potentially in RCE.| 
 | 20210801T19:54:34Z | CVE-2021-36934 | SeriousSAM Auto Exploiter | https://github.com/websecnl/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
 | 20210801T14:51:33Z | CVE-2021-3560 | Polkit D-Bus Authentication Bypass Exploit | https://github.com/0dayNinja/CVE-2021-3560 | 未查询到CVE信息| 
-| 20210801T14:51:32Z | CVE-2021-24155 | WordPress Backup Guard Authenticated Remote Code Execution Exploit | https://github.com/0dayNinja/CVE-2021-24155.rb | The WordPress Backup and Migrate Plugin – Backup Guard WordPress plugin before 1.6.0 did not ensure that the imported files are of the SGBP format and extension, allowing high privilege users (admin+) to upload arbitrary files, including PHP ones, leading to RCE.| 
+| 20210801T14:51:32Z | CVE-2021-24155 | WordPress Backup Guard Authenticated Remote Code Execution Exploit | https://github.com/0dayNinja/CVE-2021-24155.rb | | 
 | 20210801T13:21:24Z | CVE-2021-28378 | Null | https://github.com/PandatiX/CVE-2021-28378 | Gitea 1.12.x and 1.13.x before 1.13.4 allows XSS via certain issue data in some situations.| 
 
 
@@ -54,6 +54,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210802T01:38:26Z | A collection of kernel pwn challenges and writeups | https://github.com/fr33bug/PWN | 0 | 0| 
 | 20210802T01:11:00Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9796 | 1621| 
 | 20210802T01:02:55Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 14| 
 | 20210802T00:36:15Z | Ipdetect is a tool with multiple functionalities ... still under development. With ipdetect you will be able to find vulnerabilities in a host being analyzed and exploit them later. | https://github.com/kanekorbs/ipdetect | 0 | 0| 
@@ -63,7 +64,6 @@
 | 20210801T22:38:09Z | Suported: SynapseX, KRNL, ScriptWare | https://github.com/XJMI/LuaU-Scripts | 0 | 0| 
 | 20210801T21:58:28Z | A tiny repository with exploits for challenges or another executables. | https://github.com/xVoiceSyntax/Exploits | 1 | 0| 
 | 20210801T21:54:08Z | Null | https://github.com/Vanshal/Exploits-and-Scripts | 0 | 0| 
-| 20210801T21:08:11Z | haha funne roblox exploit | https://github.com/s7l/astro | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -84,6 +84,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210802T01:34:42Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1860 | 388| 
 | 20210801T01:28:56Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 450 | 68| 
 
 
