@@ -57,9 +57,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210802T12:29:29Z | From prototype to production, BCFG works closely with projects through the complete development cycle to identify security issues and recommend best practices. With recurring exploitations, rugpulls and hacks infiltrating the Decentralised Finance sector, our mission is to mitigate and pinpoint all possible security risks and flaws within each line of code.  | https://github.com/BCFG-Audit/Smart_Contract_Security_Audits | 0 | 0| 
 | 20210802T12:27:23Z | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | 217 | 38| 
 | 20210802T12:23:11Z | My n-day exploit for CVE-2019-18634 (local privilege escalation) | https://github.com/aesophor/CVE-2019-18634 | 2 | 0| 
-| 20210802T12:21:20Z | From prototype to production, BCFG works closely with projects through the complete development cycle to identify security issues and recommend best practices. With recurring exploitations, rugpulls and hacks infiltrating the Decentralised Finance sector, our mission is to mitigate and pinpoint all possible security risks and flaws within each line of code.  | https://github.com/BCFG-Audit/Smart_Contract_Security_Audits | 0 | 0| 
 | 20210802T12:05:55Z | Google Chrome 86.0.4240 V8 - Remote Code Execution | https://github.com/dock0d1/Exploit-Google-Chrome-86.0.4240_V8_RCE | 4 | 3| 
 | 20210802T12:02:58Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 14| 
 | 20210802T11:52:01Z | exploit Huawei ONT device | https://github.com/0neday/Exploit-HS8545M-ONT | 2 | 2| 
@@ -72,7 +72,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210802T10:20:08Z | Light-weight UNIX backdoor | https://github.com/phath0m/JadedWraith | 14 | 1| 
+| 20210802T12:29:52Z | Light-weight UNIX backdoor | https://github.com/phath0m/JadedWraith | 15 | 1| 
 | 20210802T08:36:44Z | Patch PE, ELF, Mach-O binaries with shellcode new version in development, available only to sponsors | https://github.com/secretsquirrel/the-backdoor-factory | 2820 | 760| 
 | 20210802T07:38:28Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1241 | 586| 
 | 20210802T03:26:40Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 270 | 50| 
