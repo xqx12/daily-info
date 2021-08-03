@@ -46,15 +46,15 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210803T11:51:20Z | CVE-2021-3560 | Polkit D-Bus Authentication Bypass Exploit | https://github.com/0dayNinja/CVE-2021-3560 | | 
+| 20210803T11:51:20Z | CVE-2021-3560 | Polkit D-Bus Authentication Bypass Exploit | https://github.com/0dayNinja/CVE-2021-3560 | 未查询到CVE信息| 
 | 20210803T11:00:50Z | CVE-2021-36934 | POC experiments with Volume Shadow copy Service (VSS) | https://github.com/grishinpv/poc_CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
 | 20210803T10:24:37Z | CVE-2020-14321 | Course enrolments allowed privilege escalation from teacher role into manager role to RCE | https://github.com/HoangKien1020/CVE-2020-14321 | 未查询到CVE信息| 
 | 20210803T10:01:01Z | CVE-2021-2394 | POC of CVE-2021-2394 | https://github.com/freeide/CVE-2021-2394 | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Core). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via T3, IIOP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
 | 20210803T05:31:15Z | CVE-2021-2999899 | Null | https://github.com/woliujizhou/CVE-2021-2999899 | 未查询到CVE信息| 
-| 20210803T01:57:08Z | 未知编号 | CVE-2018-20250 | https://github.com/zeronohacker/CVE-2018-20250 | | 
+| 20210803T01:57:08Z | 未知编号 | CVE-2018-20250 | https://github.com/zeronohacker/CVE-2018-20250 | 未查询到CVE信息| 
 | 20210803T01:49:57Z | CVE-2021-2394 | POC of CVE-2021-2394 | https://github.com/lz2y/CVE-2021-2394 | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Core). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via T3, IIOP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
 | 20210802T20:11:18Z | CVE-2021-22204 | Null | https://github.com/AssassinUKG/CVE-2021-22204 | Improper neutralization of user data in the DjVu file format in ExifTool versions 7.44 and up allows arbitrary code execution when parsing the malicious image| 
-| 20210802T17:46:02Z | CVE-2021-21972 | Null | https://github.com/haiclover/CVE-2021-21972 | | 
+| 20210802T17:46:02Z | CVE-2021-21972 | Null | https://github.com/haiclover/CVE-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
 | 20210802T16:05:56Z | CVE-2021-22204 | Null | https://github.com/PenTestical/CVE-2021-22204 | Improper neutralization of user data in the DjVu file format in ExifTool versions 7.44 and up allows arbitrary code execution when parsing the malicious image| 
 
 
@@ -81,16 +81,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210803T12:00:55Z | Binary Exploitation Challenges Solving and a lot of Binaries Exploitation Challenge i came across through out time | https://github.com/k0rup710n/BinaryExploitation | 0 | 0| 
+| 20210803T12:03:34Z | PS4 FW7.55 Exploit Menu with .js and .bin Payload Loader. All important payloads are included!  | https://github.com/Storm21CH/PS4-FW7.55-Exploit-Menu | 0 | 0| 
+| 20210803T12:03:33Z | Binary Exploitation Challenges Solving and a lot of Binaries Exploitation Challenge i came across through out time | https://github.com/k0rup710n/BinaryExploitation | 0 | 0| 
+| 20210803T12:02:56Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 14| 
 | 20210803T11:58:55Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 24 | 5| 
 | 20210803T11:51:04Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 55 | 17| 
 | 20210803T11:19:24Z | My n-day exploit for CVE-2019-18634 (local privilege escalation) | https://github.com/aesophor/CVE-2019-18634 | 3 | 1| 
 | 20210803T11:18:47Z | Config files for my GitHub profile. | https://github.com/RobloxExploitings/RobloxExploitings | 0 | 0| 
 | 20210803T11:16:28Z | The popular GENIE Generator product is used by nearly all accelerator neutrino experiments and it plays a key role in the exploitation of neutrino data. The Generator implements a modern software framework and it includes state-of-the-art physics modules. It captures the latest results of the GENIE global analysis of neutrino scattering data and includes several tunes that were produced using the proprietary Comparisons and Tuning products. The GENIE physics model is universal and comprehensive:  It handles all neutrinos and targets, and all processes relevant from MeV to PeV energy scales. The Generator includes several tools (flux drivers, detector geometry navigators, specialized event generation apps, event reweighting engines) to simulate complex experimental setups in full detail and to support generator-related analysis tasks.  | https://github.com/GENIE-MC/Generator | 20 | 53| 
-| 20210803T11:02:56Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 14| 
 | 20210803T11:01:07Z | The first pixel strike 3d hack made in python. | https://github.com/poggersbutnot/Pixel-Strike-Hack | 1 | 1| 
 | 20210803T10:51:29Z | A quick and easy command line tool for finding exploits in a website. | https://github.com/jptr218/websploit | 1 | 0| 
-| 20210803T10:45:21Z | Exploit code, Learning materials, Binaries, everything related to OSED preparation. | https://github.com/kainesmicheal/OSED | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -111,7 +111,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210802T23:39:26Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1739 | 499| 
+| 20210803T04:07:10Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1740 | 499| 
 | 20210802T22:55:51Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2405 | 355| 
 | 20210802T20:16:15Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 451 | 68| 
 | 20210802T13:39:37Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 153 | 33| 
@@ -128,16 +128,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210803T01:51:50Z | Null | https://github.com/epsonik/FuzzyDescV2 | 0 | 0| 
-| 20210803T01:40:17Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210803T01:13:04Z | Null | https://github.com/GabrielDeml/fuzzy_language | 0 | 0| 
-| 20210803T00:51:45Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
-| 20210803T00:25:03Z | Null | https://github.com/KimSeoYe/TheFuzzingBook | 0 | 0| 
-| 20210803T00:06:27Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6523 | 1329| 
-| 20210803T00:04:45Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 21 | 8| 
-| 20210802T23:54:28Z | Null | https://github.com/opimentel-github/fuzzy-tools | 0 | 0| 
-| 20210802T22:41:41Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4537 | 453| 
-| 20210802T22:38:36Z | Fuzzer for Dolt repositories | https://github.com/dolthub/fuzzer | 2 | 0| 
+| 20210803T11:46:18Z | Build a Fuzzy Search in Angular App | https://github.com/odilov/fuzzy-search | 0 | 0| 
+| 20210803T11:44:26Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6527 | 1329| 
+| 20210803T11:42:27Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
+| 20210803T11:31:23Z | A library of fuzzy rough machine learning algorithms | https://github.com/oulenz/fuzzy-rough-learn | 7 | 2| 
+| 20210803T10:51:28Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 512 | 48| 
+| 20210803T10:51:04Z | Null | https://github.com/KimSeoYe/TheFuzzingBook | 0 | 0| 
+| 20210803T10:37:55Z | Fuzzy: contains code for a Fuzzy Engine and a Dynamical Systems Simulator (DySySim). | https://github.com/josokw/Fuzzy | 2 | 0| 
+| 20210803T10:10:56Z | FuzzingStudy | https://github.com/qpalzmm22/FuzzingStudy | 0 | 0| 
+| 20210803T10:02:14Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20210803T09:34:57Z | 开源、轻量、快速、跨平台 的红队(redteam)外网打点扫描器，功能 端口扫描(port scan) 指纹识别(fingerprint) nday检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | 15 | 5| 
 
 
 
