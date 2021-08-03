@@ -26,6 +26,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210803T12:24:02Z | CVE-2021-37832 | CVE-2021-37832 - Hotel Druid 3.0.2 SQL Injection Vulnerability | https://github.com/dievus/CVE-2021-37832 | 未查询到CVE信息| 
+| 20210803T12:19:33Z | CVE-2021-37833 | Null | https://github.com/dievus/CVE-2021-37833 | | 
 | 20210803T11:51:20Z | CVE-2021-3560 | Polkit D-Bus Authentication Bypass Exploit | https://github.com/0dayNinja/CVE-2021-3560 | 未查询到CVE信息| 
 | 20210803T11:00:50Z | CVE-2021-36934 | POC experiments with Volume Shadow copy Service (VSS) | https://github.com/grishinpv/poc_CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
 | 20210803T10:24:37Z | CVE-2020-14321 | Course enrolments allowed privilege escalation from teacher role into manager role to RCE | https://github.com/HoangKien1020/CVE-2020-14321 | 未查询到CVE信息| 
