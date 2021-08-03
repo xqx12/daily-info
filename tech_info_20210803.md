@@ -51,6 +51,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210803T12:10:02Z | C2X - C2/Post-Exploitation Tool For Red Teaming and Ethical Hacking | https://github.com/nxenon/c2x | 4 | 1| 
 | 20210803T12:03:34Z | PS4 FW7.55 Exploit Menu with .js and .bin Payload Loader. All important payloads are included!  | https://github.com/Storm21CH/PS4-FW7.55-Exploit-Menu | 0 | 0| 
 | 20210803T12:03:33Z | Binary Exploitation Challenges Solving and a lot of Binaries Exploitation Challenge i came across through out time | https://github.com/k0rup710n/BinaryExploitation | 0 | 0| 
 | 20210803T12:02:56Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 14| 
@@ -60,7 +61,6 @@
 | 20210803T11:18:47Z | Config files for my GitHub profile. | https://github.com/RobloxExploitings/RobloxExploitings | 0 | 0| 
 | 20210803T11:16:28Z | The popular GENIE Generator product is used by nearly all accelerator neutrino experiments and it plays a key role in the exploitation of neutrino data. The Generator implements a modern software framework and it includes state-of-the-art physics modules. It captures the latest results of the GENIE global analysis of neutrino scattering data and includes several tunes that were produced using the proprietary Comparisons and Tuning products. The GENIE physics model is universal and comprehensive:  It handles all neutrinos and targets, and all processes relevant from MeV to PeV energy scales. The Generator includes several tools (flux drivers, detector geometry navigators, specialized event generation apps, event reweighting engines) to simulate complex experimental setups in full detail and to support generator-related analysis tasks.  | https://github.com/GENIE-MC/Generator | 20 | 53| 
 | 20210803T11:01:07Z | The first pixel strike 3d hack made in python. | https://github.com/poggersbutnot/Pixel-Strike-Hack | 1 | 1| 
-| 20210803T10:51:29Z | A quick and easy command line tool for finding exploits in a website. | https://github.com/jptr218/websploit | 1 | 0| 
 
 
 # backdoor on Github 推荐
@@ -92,6 +92,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210803T12:12:52Z | Null | https://github.com/adtyasamuel57/Fuzzy-Tsukamoto-Tsunamai | 0 | 0| 
 | 20210803T11:46:18Z | Build a Fuzzy Search in Angular App | https://github.com/odilov/fuzzy-search | 0 | 0| 
 | 20210803T11:44:26Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6527 | 1329| 
 | 20210803T11:42:27Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
@@ -101,7 +102,6 @@
 | 20210803T10:37:55Z | Fuzzy: contains code for a Fuzzy Engine and a Dynamical Systems Simulator (DySySim). | https://github.com/josokw/Fuzzy | 2 | 0| 
 | 20210803T10:10:56Z | FuzzingStudy | https://github.com/qpalzmm22/FuzzingStudy | 0 | 0| 
 | 20210803T10:02:14Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210803T09:34:57Z | 开源、轻量、快速、跨平台 的红队(redteam)外网打点扫描器，功能 端口扫描(port scan) 指纹识别(fingerprint) nday检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | 15 | 5| 
 
 
 
