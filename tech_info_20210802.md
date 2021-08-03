@@ -80,7 +80,6 @@
 | 20210802T17:32:09Z | Null | https://github.com/FierzaEriez/Mini-Shell-Backdoor | 1 | 1| 
 | 20210802T17:16:19Z | WIP (anti backdoor thing for the blox) | https://github.com/Deniied/Roblox-Developer-Security-Essentials | 0 | 0| 
 | 20210802T16:53:48Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1242 | 586| 
-| 20210802T16:26:16Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 271 | 50| 
 | 20210802T16:00:37Z | The given Python code is for a Reverse-Backdoor, that grants a User, Remote Code Execution access to a target computer. | https://github.com/iamKushGupta/Reverse-Backdoor-with-Listener | 0 | 0| 
 | 20210802T15:58:15Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 21 | 7| 
 | 20210802T13:07:39Z | Null | https://github.com/BackdoorTech/BackdoorTech | 0 | 0| 
@@ -107,15 +106,15 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20210802T23:54:28Z | Null | https://github.com/opimentel-github/fuzzy-tools | 0 | 0| 
-| 20210802T23:40:18Z | Null | https://github.com/epsonik/FuzzyDescV2 | 0 | 0| 
 | 20210802T22:41:41Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4537 | 453| 
 | 20210802T22:38:36Z | Fuzzer for Dolt repositories | https://github.com/dolthub/fuzzer | 2 | 0| 
 | 20210802T22:17:03Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 292 | 39| 
 | 20210802T21:39:03Z | A ground-truth fuzzing benchmark suite based on real programs with real bugs. | https://github.com/HexHive/magma | 130 | 39| 
-| 20210802T21:34:25Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210802T21:26:34Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
 | 20210802T21:14:27Z | Collected fuzzing payloads from different resources  | https://github.com/osamahamad/FUZZING | 8 | 5| 
 | 20210802T20:58:28Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 6 | 0| 
+| 20210802T19:44:54Z | Null | https://github.com/huycool/fuzzy-lamp | 0 | 0| 
+| 20210802T19:16:28Z | A library of fuzzy rough machine learning algorithms | https://github.com/oulenz/fuzzy-rough-learn | 7 | 2| 
 
 
 
