@@ -14,6 +14,8 @@
 | 20210802 | Fuzzing Windows RPC with RpcView | https://itm4n.github.io/fuzzing-windows-rpc-rpcview/| 
 | 20210802 | Ninja - 一款用于渗透测试的开源的 C&C Server | https://github.com/ahmedkhlief/Ninja| 
 | 20210802 | 智能电动车充电桩安全测试 | https://www.pentestpartners.com/security-blog/smart-car-chargers-plug-n-play-for-hackers/| 
+| 20210802 | 重新编译旧的森海塞尔麦克风 -第4部分-PLL(锁相环) | https://vgnotepad.blogspot.com/2021/06/reprogramming-old-sennheiser-microphone_3.html| 
+| 20210802 | 破解协议（缓冲区）：逆向工程分析 gRPC 二进制文件。 | https://labs.ioactive.com/2021/07/breaking-protocol-buffers-reverse.html| 
 | 20210801 | Portable Executable Injection Study | https://malwareunicorn.org/workshops/peinjection.html| 
 | 20210801 | Pre-Auth RCE in Moodle Part I - PHP Object Injection in Shibboleth | https://www.reddit.com/r/netsec/comments/osnbgl/preauth_rce_in_moodle_part_i_php_object_injection/| 
 
@@ -36,23 +38,24 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210802T13:06:13Z | CVE-2020-27955 | Null | https://github.com/whitetea2424/CVE-2020-27955-LFS-main | Git LFS 2.12.0 allows Remote Code Execution.| 
-| 20210802T12:44:41Z | CVE-2021-2394 | POC of CVE-2021-2394 | https://github.com/lz2y/CVE-2021-2394 | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Core). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via T3, IIOP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
+| 20210802T23:44:24Z | CVE-2021-2394 | POC of CVE-2021-2394 | https://github.com/lz2y/CVE-2021-2394 | | 
+| 20210802T20:11:18Z | CVE-2021-22204 | Null | https://github.com/AssassinUKG/CVE-2021-22204 | Improper neutralization of user data in the DjVu file format in ExifTool versions 7.44 and up allows arbitrary code execution when parsing the malicious image| 
+| 20210802T17:46:02Z | CVE-2021-21972 | Null | https://github.com/haiclover/CVE-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
+| 20210802T16:05:56Z | CVE-2021-22204 | Null | https://github.com/PenTestical/CVE-2021-22204 | Improper neutralization of user data in the DjVu file format in ExifTool versions 7.44 and up allows arbitrary code execution when parsing the malicious image| 
+| 20210802T14:50:39Z | cve-2021-1480 | PoC materials to exploit the CVE-2021-1480 on Cico SD-WAN. | https://github.com/xmco/sdwan-cve-2021-1480 | Multiple vulnerabilities in Cisco SD-WAN vManage Software could allow an unauthenticated, remote attacker to execute arbitrary code or allow an authenticated, local attacker to gain escalated privileges on an affected system. For more information about these vulnerabilities, see the Details section of this advisory.| 
+| 20210802T13:51:42Z | CVE-2021-36934 | POC experiments with Volume Shadow copy Service (VSS) | https://github.com/grishinpv/poc_CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
+| 20210802T13:13:28Z | CVE-2020-27955 | Null | https://github.com/whitetea2424/CVE-2020-27955-LFS-main | Git LFS 2.12.0 allows Remote Code Execution.| 
 | 20210802T12:22:04Z | CVE-2021-3490 | Null | https://github.com/chompie1337/Linux_LPE_eBPF_CVE-2021-3490 | The eBPF ALU32 bounds tracking for bitwise ops (AND, OR and XOR) in the Linux kernel did not properly update 32-bit bounds, which could be turned into out of bounds reads and writes in the Linux kernel and therefore, arbitrary code execution. This issue was fixed via commit 049c4e13714e (%bpf: Fix alu32 const subreg bound tracking on bitwise operations%) (v5.13-rc4) and backported to the stable kernels in v5.12.4, v5.11.21, and v5.10.37. The AND/OR issues were introduced by commit 3f50f132d840 (%bpf: Verifier, do explicit ALU32 bounds tracking%) (5.7-rc1) and the XOR variant was introduced by 2921c90d4718 (%bpf:Fix a verifier failure with xor%) ( 5.10-rc1).| 
-| 20210802T10:07:25Z | cve-2021-1480 | Null | https://github.com/xmco/sdwan-cve-2021-1480 | Multiple vulnerabilities in Cisco SD-WAN vManage Software could allow an unauthenticated, remote attacker to execute arbitrary code or allow an authenticated, local attacker to gain escalated privileges on an affected system. For more information about these vulnerabilities, see the Details section of this advisory.| 
-| 20210802T09:16:45Z | CVE-2021-22204 | Null | https://github.com/PenTestical/CVE-2021-22204 | Improper neutralization of user data in the DjVu file format in ExifTool versions 7.44 and up allows arbitrary code execution when parsing the malicious image| 
 | 20210802T08:34:20Z | CVE-2021-21300 | Null | https://github.com/xiaofeihahah/CVE-2021-21300 | Git is an open-source distributed revision control system. In affected versions of Git a specially crafted repository that contains symbolic links as well as files using a clean/smudge filter such as Git LFS, may cause just-checked out script to be executed while cloning onto a case-insensitive file system such as NTFS, HFS+ or APFS (i.e. the default file systems on Windows and macOS). Note that clean/smudge filters have to be configured for that. Git for Windows configures Git LFS by default, and is therefore vulnerable. The problem has been patched in the versions published on Tuesday, March 9th, 2021. As a workaound, if symbolic link support is disabled in Git (e.g. via `git config --global core.symlinks false`), the described attack won%t work. Likewise, if no clean/smudge filters such as Git LFS are configured globally (i.e. _before_ cloning), the attack is foiled. As always, it is best to avoid cloning repositories from untrusted sources. The earliest impacted version is 2.14.2. The fix versions are: 2.30.1, 2.29.3, 2.28.1, 2.27.1, 2.26.3, 2.25.5, 2.24.4, 2.23.4, 2.22.5, 2.21.4, 2.20.5, 2.19.6, 2.18.5, 2.17.62.17.6.| 
-| 20210802T07:24:04Z | CVE-2021-33624 | Proof of Concept for CVE-2021-33624 | https://github.com/Kakashiiiiy/CVE-2021-33624 | In kernel/bpf/verifier.c in the Linux kernel before 5.12.13, a branch can be mispredicted (e.g., because of type confusion) and consequently an unprivileged BPF program can read arbitrary memory locations via a side-channel attack, aka CID-9183671af6db.| 
-| 20210802T04:48:27Z | CVE-2021-31630 | Exploit for Authenticated Remote Code Execution on OpenPLC v3 Webserver | https://github.com/h3v0x/CVE-2021-31630-OpenPLC_RCE | 未查询到CVE信息| 
-| 20210802T01:56:39Z | CVE-2020-36287 | The dashboard gadgets preference resource of the Atlassian gadgets plugin used in Jira Server and Jira Data Center before version 8.13.5, and from version 8.14.0 before version 8.15.1 allows remote anonymous attackers to obtain gadget related settings via a missing permissions check. | https://github.com/f4rber/CVE-2020-36287 | The dashboard gadgets preference resource of the Atlassian gadgets plugin used in Jira Server and Jira Data Center before version 8.13.5, and from version 8.14.0 before version 8.15.1 allows remote anonymous attackers to obtain gadget related settings via a missing permissions check.| 
-| 20210802T01:26:24Z | 未知编号 | Null | https://github.com/zeronohacker/CVE-2018-20250 | 未查询到CVE信息| 
+| 20210802T07:24:04Z | CVE-2021-33624 | Proof of Concept for CVE-2021-33624 | https://github.com/Kakashiiiiy/CVE-2021-33624 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210802T12:48:13Z | Null | https://github.com/pansilup/cgc-prgs-for-klee-seed-mode | 0 | 0| 
-| 20210802T11:44:14Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2465 | 59| 
+| 20210802T22:54:46Z | Null | https://github.com/santiagoHV/kleer-dojo-assessment-backend | 0 | 0| 
+| 20210802T17:07:27Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2468 | 59| 
+| 20210802T15:16:36Z | Null | https://github.com/pansilup/cgc-prgs-for-klee-seed-mode | 0 | 0| 
 | 20210802T09:51:15Z | Null | https://github.com/coffee100percnt/KleeDiscordBomber | 4 | 0| 
 | 20210802T02:07:51Z | Null | https://github.com/adamhumphriescs/TASE_KLEE | 0 | 0| 
 | 20210801T22:09:32Z | Izrada novih algoritama za pretragu u okvriu alata za simboličko izvršavanje KLEE | https://github.com/MATF-Software-Verification/2020_03_Klee_Searcher | 0 | 0| 
@@ -68,40 +71,41 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210802T13:10:07Z | Agent-Based Modelling of labour exploitation in textile supply chains | https://github.com/kwabenantim/textile-labour | 1 | 0| 
-| 20210802T13:07:39Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9798 | 1621| 
-| 20210802T13:02:58Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 14| 
-| 20210802T12:38:56Z | With this script you can perform the first connection step against a server to successfully exploit a BuffOverFlow | https://github.com/akil3s79/BS-BOF | 0 | 0| 
-| 20210802T12:29:29Z | From prototype to production, BCFG works closely with projects through the complete development cycle to identify security issues and recommend best practices. With recurring exploitations, rugpulls and hacks infiltrating the Decentralised Finance sector, our mission is to mitigate and pinpoint all possible security risks and flaws within each line of code.  | https://github.com/BCFG-Audit/Smart_Contract_Security_Audits | 0 | 0| 
-| 20210802T12:27:23Z | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | 217 | 38| 
-| 20210802T12:23:11Z | My n-day exploit for CVE-2019-18634 (local privilege escalation) | https://github.com/aesophor/CVE-2019-18634 | 2 | 0| 
-| 20210802T12:05:55Z | Google Chrome 86.0.4240 V8 - Remote Code Execution | https://github.com/dock0d1/Exploit-Google-Chrome-86.0.4240_V8_RCE | 4 | 3| 
-| 20210802T11:52:01Z | exploit Huawei ONT device | https://github.com/0neday/Exploit-HS8545M-ONT | 2 | 2| 
-| 20210802T11:49:19Z | Null | https://github.com/omerfaruktuna/exploiting-epistemic-uncertainty | 0 | 0| 
+| 20210803T00:03:50Z | C2X - C2/Post-Exploitation Tool For Red Teaming and Ethical Hacking | https://github.com/nxenon/c2x | 4 | 1| 
+| 20210803T00:03:18Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 14| 
+| 20210802T23:39:25Z | I will be uploading all the exploit UIs i make for the community here. Thank you for visiting! | https://github.com/airp0dz/open-source-exploit | 0 | 0| 
+| 20210802T23:16:54Z | Simple stuffs (exploit, extentions) for habboz.ws a french habbo game | https://github.com/Miisaakii/Habboz.ws-stuffs | 0 | 0| 
+| 20210802T22:45:52Z | Basic Exploit Essentials is a multi-script, consisting of many great features! | https://github.com/Nextrixcs/Basic-Exploit-Essentials | 0 | 1| 
+| 20210802T22:33:45Z | bad robox ui lib | https://github.com/ceat-ceat/ScriptPanelv2 | 0 | 0| 
+| 20210802T22:03:47Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | 0 | 0| 
+| 20210802T21:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9803 | 1622| 
+| 20210802T21:24:00Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 3842 | 553| 
+| 20210802T21:23:15Z | The optimization field suffers from the metaphor-based “pseudo-novel” or “fancy” optimizers. Most of these cliché methods mimic animals% searching trends and possess a small contribution to the optimization process itself. Most of these cliché methods suffer from the locally efficient performance, biased verification methods on easy problems, and high similarity between their components% interactions. This study attempts to go beyond the traps of metaphors and introduce a novel metaphor-free population-based optimization method based on the mathematical foundations and ideas of the Runge Kutta (RK) method widely well-known in mathematics. The proposed RUNge Kutta optimizer (RUN) was developed to deal with various types of optimization problems in the future. The RUN utilizes the logic of slope variations computed by the RK method as a promising and logical searching mechanism for global optimization. This search mechanism benefits from two active exploration and exploitation phases for exploring the promising regions in the feature space and constructive movement toward the global best solution. Furthermore, an enhanced solution quality (ESQ) mechanism is employed to avoid the local optimal solutions and increase convergence speed. The RUN algorithm%s efficiency was evaluated by comparing with other metaheuristic algorithms in 50 mathematical test functions and four real-world engineering problems. The RUN provided very promising and competitive results, showing superior exploration and exploitation tendencies, fast convergence rate, and local optima avoidance. In optimizing the constrained engineering problems, the metaphor-free RUN demonstrated its suitable performance as well. The authors invite the community for extensive evaluations of this deep-rooted optimizer as a promising tool for real-world optimization. The source codes, supplementary materials, and guidance for the developed method will be publicly available at different hubs at http://imanahmadianfar.com and http://aliasgharheidari.com/RUN.html. | https://github.com/imahmadian/Runge-Kutta-Optimization-RUN- | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210802T23:15:43Z | Light-weight UNIX backdoor | https://github.com/phath0m/JadedWraith | 19 | 2| 
+| 20210802T22:05:10Z | Malika is a very simple malware for GNU/Linux written in Python for educational purpose only. | https://github.com/CalfCrusher/malika | 0 | 0| 
+| 20210802T18:41:46Z | Use me to create a corrupted cookie capable of creating a backdoor on the webserver node which uses the %serialize% function | https://github.com/DrBlackWolf/Node-Serialize-WebServer-Backdoor | 0 | 0| 
+| 20210802T17:32:09Z | Null | https://github.com/FierzaEriez/Mini-Shell-Backdoor | 1 | 1| 
+| 20210802T17:16:19Z | WIP (anti backdoor thing for the blox) | https://github.com/Deniied/Roblox-Developer-Security-Essentials | 0 | 0| 
+| 20210802T16:53:48Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1242 | 586| 
+| 20210802T16:26:16Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 271 | 50| 
+| 20210802T16:00:37Z | The given Python code is for a Reverse-Backdoor, that grants a User, Remote Code Execution access to a target computer. | https://github.com/iamKushGupta/Reverse-Backdoor-with-Listener | 0 | 0| 
+| 20210802T15:58:15Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 21 | 7| 
 | 20210802T13:07:39Z | Null | https://github.com/BackdoorTech/BackdoorTech | 0 | 0| 
-| 20210802T12:29:52Z | Light-weight UNIX backdoor | https://github.com/phath0m/JadedWraith | 15 | 1| 
-| 20210802T08:36:44Z | Patch PE, ELF, Mach-O binaries with shellcode new version in development, available only to sponsors | https://github.com/secretsquirrel/the-backdoor-factory | 2820 | 760| 
-| 20210802T07:38:28Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1241 | 586| 
-| 20210802T03:26:40Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 270 | 50| 
-| 20210801T12:41:34Z | Null | https://github.com/s3q/backdoor_c | 0 | 0| 
-| 20210801T11:58:35Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 293 | 130| 
-| 20210801T10:58:44Z | Null | https://github.com/lhysgithub/MI-and-Backdoor-on-FL | 0 | 0| 
-| 20210801T06:41:19Z | Yet Another PHP Shell | https://github.com/Nickguitar/YAPS | 17 | 2| 
-| 20210801T00:42:08Z | example backdoor malware in C explained | https://github.com/lukasbalazik123/h34vy-backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210802T10:46:07Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2403 | 355| 
-| 20210802T07:25:45Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1738 | 499| 
+| 20210802T23:39:26Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1739 | 499| 
+| 20210802T22:55:51Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2405 | 355| 
+| 20210802T20:16:15Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 451 | 68| 
+| 20210802T13:39:37Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 153 | 33| 
 | 20210802T04:08:56Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1861 | 387| 
-| 20210801T01:28:56Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 450 | 68| 
 
 
 # big4 on Github 推荐
