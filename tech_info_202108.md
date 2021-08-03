@@ -38,7 +38,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210802T23:44:24Z | CVE-2021-2394 | POC of CVE-2021-2394 | https://github.com/lz2y/CVE-2021-2394 | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Core). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via T3, IIOP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
+| 20210803T00:45:32Z | CVE-2021-2394 | POC of CVE-2021-2394 | https://github.com/lz2y/CVE-2021-2394 | | 
 | 20210802T20:11:18Z | CVE-2021-22204 | Null | https://github.com/AssassinUKG/CVE-2021-22204 | Improper neutralization of user data in the DjVu file format in ExifTool versions 7.44 and up allows arbitrary code execution when parsing the malicious image| 
 | 20210802T17:46:02Z | CVE-2021-21972 | Null | https://github.com/haiclover/CVE-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
 | 20210802T16:05:56Z | CVE-2021-22204 | Null | https://github.com/PenTestical/CVE-2021-22204 | Improper neutralization of user data in the DjVu file format in ExifTool versions 7.44 and up allows arbitrary code execution when parsing the malicious image| 
@@ -53,8 +53,8 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210803T00:37:49Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2469 | 59| 
 | 20210802T22:54:46Z | Null | https://github.com/santiagoHV/kleer-dojo-assessment-backend | 0 | 0| 
-| 20210802T17:07:27Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2468 | 59| 
 | 20210802T15:16:36Z | Null | https://github.com/pansilup/cgc-prgs-for-klee-seed-mode | 0 | 0| 
 | 20210802T09:51:15Z | Null | https://github.com/coffee100percnt/KleeDiscordBomber | 4 | 0| 
 | 20210802T02:07:51Z | Null | https://github.com/adamhumphriescs/TASE_KLEE | 0 | 0| 
@@ -71,6 +71,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210803T00:52:10Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 19 | 12| 
+| 20210803T00:47:10Z | Patch for Waterfall to improve performance during attacks and fix memory issues. | https://github.com/2lstudios-mc/FlameCord | 58 | 34| 
 | 20210803T00:18:27Z | C2X - C2/Post-Exploitation Tool For Red Teaming and Ethical Hacking | https://github.com/nxenon/c2x | 4 | 1| 
 | 20210803T00:03:18Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 14| 
 | 20210802T23:39:25Z | I will be uploading all the exploit UIs i make for the community here. Thank you for visiting! | https://github.com/airp0dz/open-source-exploit | 0 | 0| 
@@ -79,14 +81,12 @@
 | 20210802T22:33:45Z | bad robox ui lib | https://github.com/ceat-ceat/ScriptPanelv2 | 0 | 0| 
 | 20210802T22:03:47Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | 0 | 0| 
 | 20210802T21:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9803 | 1622| 
-| 20210802T21:24:00Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 3842 | 553| 
-| 20210802T21:23:15Z | The optimization field suffers from the metaphor-based “pseudo-novel” or “fancy” optimizers. Most of these cliché methods mimic animals% searching trends and possess a small contribution to the optimization process itself. Most of these cliché methods suffer from the locally efficient performance, biased verification methods on easy problems, and high similarity between their components% interactions. This study attempts to go beyond the traps of metaphors and introduce a novel metaphor-free population-based optimization method based on the mathematical foundations and ideas of the Runge Kutta (RK) method widely well-known in mathematics. The proposed RUNge Kutta optimizer (RUN) was developed to deal with various types of optimization problems in the future. The RUN utilizes the logic of slope variations computed by the RK method as a promising and logical searching mechanism for global optimization. This search mechanism benefits from two active exploration and exploitation phases for exploring the promising regions in the feature space and constructive movement toward the global best solution. Furthermore, an enhanced solution quality (ESQ) mechanism is employed to avoid the local optimal solutions and increase convergence speed. The RUN algorithm%s efficiency was evaluated by comparing with other metaheuristic algorithms in 50 mathematical test functions and four real-world engineering problems. The RUN provided very promising and competitive results, showing superior exploration and exploitation tendencies, fast convergence rate, and local optima avoidance. In optimizing the constrained engineering problems, the metaphor-free RUN demonstrated its suitable performance as well. The authors invite the community for extensive evaluations of this deep-rooted optimizer as a promising tool for real-world optimization. The source codes, supplementary materials, and guidance for the developed method will be publicly available at different hubs at http://imanahmadianfar.com and http://aliasgharheidari.com/RUN.html. | https://github.com/imahmadian/Runge-Kutta-Optimization-RUN- | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210802T23:15:43Z | Light-weight UNIX backdoor | https://github.com/phath0m/JadedWraith | 19 | 2| 
+| 20210803T00:25:41Z | Light-weight UNIX backdoor | https://github.com/phath0m/JadedWraith | 20 | 2| 
 | 20210802T22:05:10Z | Malika is a very simple malware for GNU/Linux written in Python for educational purpose only. | https://github.com/CalfCrusher/malika | 0 | 0| 
 | 20210802T18:41:46Z | Use me to create a corrupted cookie capable of creating a backdoor on the webserver node which uses the %serialize% function | https://github.com/DrBlackWolf/Node-Serialize-WebServer-Backdoor | 0 | 0| 
 | 20210802T17:32:09Z | Null | https://github.com/FierzaEriez/Mini-Shell-Backdoor | 1 | 1| 
@@ -117,6 +117,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210803T00:51:45Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
+| 20210803T00:25:03Z | Null | https://github.com/KimSeoYe/TheFuzzingBook | 0 | 0| 
 | 20210803T00:06:27Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6523 | 1329| 
 | 20210803T00:04:45Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 21 | 8| 
 | 20210802T23:54:28Z | Null | https://github.com/opimentel-github/fuzzy-tools | 0 | 0| 
@@ -125,8 +127,6 @@
 | 20210802T22:38:36Z | Fuzzer for Dolt repositories | https://github.com/dolthub/fuzzer | 2 | 0| 
 | 20210802T22:17:03Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 292 | 39| 
 | 20210802T21:39:03Z | A ground-truth fuzzing benchmark suite based on real programs with real bugs. | https://github.com/HexHive/magma | 130 | 39| 
-| 20210802T21:34:25Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210802T21:26:34Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
 
 
 
