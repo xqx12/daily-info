@@ -6,6 +6,14 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210803 | Rotten Apples: MacOS Codesigning Translocation Vulnerability | https://occamsec.com/rotten-apples-macos-codesigning-translocation-vulnerability/| 
+| 20210803 | Windows Non-Paged-Pool 溢出漏洞的利用（CVE-2020-17087） | https://github.com/vp777/Windows-Non-Paged-Pool-Overflow-Exploitation| 
+| 20210803 | 利用 CodeQL 检测 Jackson 中的反序列化漏洞 | https://blog.gypsyengineer.com/en/security/detecting-jackson-deserialization-vulnerabilities-with-codeql.html| 
+| 20210803 | Linux 内核模块编程指南 | https://sysprog21.github.io/lkmpg/| 
+| 20210803 | Universal Privilege Escalation and Persistence – Printer | https://pentestlab.blog/2021/08/02/universal-privilege-escalation-and-persistence-printer/| 
+| 20210803 | 利用各类技术绕过 AV-EDR 检测的框架 | https://klezvirus.github.io/RedTeaming/AV_Evasion/CodeExeNewDotNet/| 
+| 20210803 | macOS 应急响应与取证分析相关的部分资料 | https://gist.github.com/0xmachos/6e8b813cffc2035914606bd4cda491d2| 
+| 20210803 | PyPI 仓库 GitHub Actions 配置不当导致的 pypi.org 任意代码执行漏洞 | https://blog.ryotak.me/post/pypi-potential-remote-code-execution-en/| 
 | 20210802 | SDR++，跨平台、开源的 SDK 分析软件 | https://github.com/AlexandreRouma/SDRPlusPlus| 
 | 20210802 | BIAS: Bluetooth Impersonation AttackS | https://francozappa.github.io/about-bias/| 
 | 20210802 | 打印机驱动 CVE-2021-3438 漏洞的逆向分析 | https://voidsec.com/root-cause-analysis-of-cve-2021-3438/| 
@@ -23,6 +31,8 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210803 | Linux计划任务那点事儿 | https://mp.weixin.qq.com/s/KfeKpoPj-X7BRNR7O6QAcw| 
+| 20210803 | Lazarus结合NDay投递VBA恶意远控的攻击分析 | https://mp.weixin.qq.com/s/x7L3R9iQdnrnEKpfop92Gg| 
 | 20210802 | 如何利用多杀软结果归并恶意软件家族名称 | https://mp.weixin.qq.com/s/hOvqm0U7rc-NNdVjR0dAaA| 
 | 20210802 | 做红队你需要学习“如何挖掘战壕”（三） | https://mp.weixin.qq.com/s/OO_VZ8QB_J5UY88qkpLXDg| 
 | 20210802 | SecWiki周刊（第387期) | https://www.sec-wiki.com/weekly/387| 
@@ -31,28 +41,28 @@
 | 20210801 | 情报研究方法论——对情报收集工作的展望 | https://paper.seebug.org/1647/| 
 | 20210801 | 知识图谱及其在安全领域的应用 | https://paper.seebug.org/1649/| 
 | 20210801 | 从Github一开源项目ADSEC学习域渗透攻防基础 | https://www.anquanke.com/post/id/248030| 
-| 20210801 | Linksys EA6100 固件解密分析 | https://www.anquanke.com/post/id/246659| 
-| 20210801 | Apache2+Perl 造成的 CRLF 注入问题 | https://lightless.me/archives/httpd_perl_crlf.html| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210803T01:57:08Z | 未知编号 | CVE-2018-20250 | https://github.com/zeronohacker/CVE-2018-20250 | 未查询到CVE信息| 
+| 20210803T11:51:20Z | CVE-2021-3560 | Polkit D-Bus Authentication Bypass Exploit | https://github.com/0dayNinja/CVE-2021-3560 | | 
+| 20210803T11:00:50Z | CVE-2021-36934 | POC experiments with Volume Shadow copy Service (VSS) | https://github.com/grishinpv/poc_CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
+| 20210803T10:24:37Z | CVE-2020-14321 | Course enrolments allowed privilege escalation from teacher role into manager role to RCE | https://github.com/HoangKien1020/CVE-2020-14321 | 未查询到CVE信息| 
+| 20210803T10:01:01Z | CVE-2021-2394 | POC of CVE-2021-2394 | https://github.com/freeide/CVE-2021-2394 | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Core). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via T3, IIOP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
+| 20210803T05:31:15Z | CVE-2021-2999899 | Null | https://github.com/woliujizhou/CVE-2021-2999899 | 未查询到CVE信息| 
+| 20210803T01:57:08Z | 未知编号 | CVE-2018-20250 | https://github.com/zeronohacker/CVE-2018-20250 | | 
 | 20210803T01:49:57Z | CVE-2021-2394 | POC of CVE-2021-2394 | https://github.com/lz2y/CVE-2021-2394 | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Core). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via T3, IIOP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
 | 20210802T20:11:18Z | CVE-2021-22204 | Null | https://github.com/AssassinUKG/CVE-2021-22204 | Improper neutralization of user data in the DjVu file format in ExifTool versions 7.44 and up allows arbitrary code execution when parsing the malicious image| 
-| 20210802T17:46:02Z | CVE-2021-21972 | Null | https://github.com/haiclover/CVE-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
+| 20210802T17:46:02Z | CVE-2021-21972 | Null | https://github.com/haiclover/CVE-2021-21972 | | 
 | 20210802T16:05:56Z | CVE-2021-22204 | Null | https://github.com/PenTestical/CVE-2021-22204 | Improper neutralization of user data in the DjVu file format in ExifTool versions 7.44 and up allows arbitrary code execution when parsing the malicious image| 
-| 20210802T14:50:39Z | cve-2021-1480 | PoC materials to exploit the CVE-2021-1480 on Cico SD-WAN. | https://github.com/xmco/sdwan-cve-2021-1480 | Multiple vulnerabilities in Cisco SD-WAN vManage Software could allow an unauthenticated, remote attacker to execute arbitrary code or allow an authenticated, local attacker to gain escalated privileges on an affected system. For more information about these vulnerabilities, see the Details section of this advisory.| 
-| 20210802T13:51:42Z | CVE-2021-36934 | POC experiments with Volume Shadow copy Service (VSS) | https://github.com/grishinpv/poc_CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
-| 20210802T13:13:28Z | CVE-2020-27955 | Null | https://github.com/whitetea2424/CVE-2020-27955-LFS-main | Git LFS 2.12.0 allows Remote Code Execution.| 
-| 20210802T12:22:04Z | CVE-2021-3490 | Null | https://github.com/chompie1337/Linux_LPE_eBPF_CVE-2021-3490 | The eBPF ALU32 bounds tracking for bitwise ops (AND, OR and XOR) in the Linux kernel did not properly update 32-bit bounds, which could be turned into out of bounds reads and writes in the Linux kernel and therefore, arbitrary code execution. This issue was fixed via commit 049c4e13714e (%bpf: Fix alu32 const subreg bound tracking on bitwise operations%) (v5.13-rc4) and backported to the stable kernels in v5.12.4, v5.11.21, and v5.10.37. The AND/OR issues were introduced by commit 3f50f132d840 (%bpf: Verifier, do explicit ALU32 bounds tracking%) (5.7-rc1) and the XOR variant was introduced by 2921c90d4718 (%bpf:Fix a verifier failure with xor%) ( 5.10-rc1).| 
-| 20210802T08:34:20Z | CVE-2021-21300 | Null | https://github.com/xiaofeihahah/CVE-2021-21300 | Git is an open-source distributed revision control system. In affected versions of Git a specially crafted repository that contains symbolic links as well as files using a clean/smudge filter such as Git LFS, may cause just-checked out script to be executed while cloning onto a case-insensitive file system such as NTFS, HFS+ or APFS (i.e. the default file systems on Windows and macOS). Note that clean/smudge filters have to be configured for that. Git for Windows configures Git LFS by default, and is therefore vulnerable. The problem has been patched in the versions published on Tuesday, March 9th, 2021. As a workaound, if symbolic link support is disabled in Git (e.g. via `git config --global core.symlinks false`), the described attack won%t work. Likewise, if no clean/smudge filters such as Git LFS are configured globally (i.e. _before_ cloning), the attack is foiled. As always, it is best to avoid cloning repositories from untrusted sources. The earliest impacted version is 2.14.2. The fix versions are: 2.30.1, 2.29.3, 2.28.1, 2.27.1, 2.26.3, 2.25.5, 2.24.4, 2.23.4, 2.22.5, 2.21.4, 2.20.5, 2.19.6, 2.18.5, 2.17.62.17.6.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210803T07:56:42Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 217 | 35| 
+| 20210803T05:35:20Z | Config files for my GitHub profile. | https://github.com/JiwonKLee/JiwonKLee | 0 | 0| 
 | 20210803T01:42:50Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2470 | 59| 
 | 20210802T22:54:46Z | Null | https://github.com/santiagoHV/kleer-dojo-assessment-backend | 0 | 0| 
 | 20210802T15:16:36Z | Null | https://github.com/pansilup/cgc-prgs-for-klee-seed-mode | 0 | 0| 
@@ -71,31 +81,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210803T01:56:33Z | Binary Exploitation Challenges Solving and a lot of Binaries Exploitation Challenge i came across through out time | https://github.com/k0rup710n/BinaryExploitation | 0 | 0| 
-| 20210803T01:24:04Z | Using PyRaider You can scan installed dependencies known security vulnerabilities. It uses publicly known exploits, vulnerabilities database. | https://github.com/raidersource/pyraider | 5 | 0| 
-| 20210803T01:03:05Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 14| 
-| 20210803T01:02:54Z | A Python-powered exploitation framework and botnet. | https://github.com/MatthewZito/brutus | 25 | 11| 
-| 20210803T01:02:01Z | Patch for Waterfall to improve performance during attacks and fix memory issues. | https://github.com/2lstudios-mc/FlameCord | 58 | 34| 
-| 20210803T00:52:10Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 19 | 12| 
-| 20210803T00:18:27Z | C2X - C2/Post-Exploitation Tool For Red Teaming and Ethical Hacking | https://github.com/nxenon/c2x | 4 | 1| 
-| 20210802T23:39:25Z | I will be uploading all the exploit UIs i make for the community here. Thank you for visiting! | https://github.com/airp0dz/open-source-exploit | 0 | 0| 
-| 20210802T23:16:54Z | Simple stuffs (exploit, extentions) for habboz.ws a french habbo game | https://github.com/Miisaakii/Habboz.ws-stuffs | 0 | 0| 
-| 20210802T22:45:52Z | Basic Exploit Essentials is a multi-script, consisting of many great features! | https://github.com/Nextrixcs/Basic-Exploit-Essentials | 0 | 1| 
+| 20210803T12:00:55Z | Binary Exploitation Challenges Solving and a lot of Binaries Exploitation Challenge i came across through out time | https://github.com/k0rup710n/BinaryExploitation | 0 | 0| 
+| 20210803T11:58:55Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 24 | 5| 
+| 20210803T11:51:04Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 55 | 17| 
+| 20210803T11:19:24Z | My n-day exploit for CVE-2019-18634 (local privilege escalation) | https://github.com/aesophor/CVE-2019-18634 | 3 | 1| 
+| 20210803T11:18:47Z | Config files for my GitHub profile. | https://github.com/RobloxExploitings/RobloxExploitings | 0 | 0| 
+| 20210803T11:16:28Z | The popular GENIE Generator product is used by nearly all accelerator neutrino experiments and it plays a key role in the exploitation of neutrino data. The Generator implements a modern software framework and it includes state-of-the-art physics modules. It captures the latest results of the GENIE global analysis of neutrino scattering data and includes several tunes that were produced using the proprietary Comparisons and Tuning products. The GENIE physics model is universal and comprehensive:  It handles all neutrinos and targets, and all processes relevant from MeV to PeV energy scales. The Generator includes several tools (flux drivers, detector geometry navigators, specialized event generation apps, event reweighting engines) to simulate complex experimental setups in full detail and to support generator-related analysis tasks.  | https://github.com/GENIE-MC/Generator | 20 | 53| 
+| 20210803T11:02:56Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 14| 
+| 20210803T11:01:07Z | The first pixel strike 3d hack made in python. | https://github.com/poggersbutnot/Pixel-Strike-Hack | 1 | 1| 
+| 20210803T10:51:29Z | A quick and easy command line tool for finding exploits in a website. | https://github.com/jptr218/websploit | 1 | 0| 
+| 20210803T10:45:21Z | Exploit code, Learning materials, Binaries, everything related to OSED preparation. | https://github.com/kainesmicheal/OSED | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210803T01:37:01Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 271 | 50| 
-| 20210803T00:25:41Z | Light-weight UNIX backdoor | https://github.com/phath0m/JadedWraith | 20 | 2| 
+| 20210803T10:12:35Z | Mini Shell | https://github.com/Rzzky/Perindo-Shell-Backdoor | 0 | 0| 
+| 20210803T10:06:26Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1242 | 586| 
+| 20210803T09:51:16Z | https://www.whonix.org/wiki/Verifiable_Builds - for better security. Makes finding backdoors easier. | https://github.com/Whonix/whonix-initializer | 2 | 3| 
+| 20210803T08:08:59Z | Gerindra Shell Backdoor | https://github.com/Rzzky/Gerindra-Shell-Backdoor | 0 | 0| 
+| 20210803T07:46:52Z | PDI Perjuangan Shell Backdoor | https://github.com/Rzzky/PDIP-Shell-Backdoor | 0 | 0| 
+| 20210803T07:44:16Z | Null | https://github.com/FierzaEriez/Mini-Shell-Backdoor | 1 | 1| 
+| 20210803T07:22:36Z | Light-weight UNIX backdoor | https://github.com/phath0m/JadedWraith | 23 | 3| 
+| 20210803T07:03:40Z | kumpulan shell backdoor | https://github.com/FRMFOX/SH3LL-BKDR | 0 | 0| 
+| 20210803T04:49:27Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 272 | 50| 
 | 20210802T22:05:10Z | Malika is a very simple malware for GNU/Linux written in Python for educational purpose only. | https://github.com/CalfCrusher/malika | 0 | 0| 
-| 20210802T18:41:46Z | Use me to create a corrupted cookie capable of creating a backdoor on the webserver node which uses the %serialize% function | https://github.com/DrBlackWolf/Node-Serialize-WebServer-Backdoor | 0 | 0| 
-| 20210802T17:32:09Z | Null | https://github.com/FierzaEriez/Mini-Shell-Backdoor | 1 | 1| 
-| 20210802T17:16:19Z | WIP (anti backdoor thing for the blox) | https://github.com/Deniied/Roblox-Developer-Security-Essentials | 0 | 0| 
-| 20210802T16:53:48Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1242 | 586| 
-| 20210802T16:00:37Z | The given Python code is for a Reverse-Backdoor, that grants a User, Remote Code Execution access to a target computer. | https://github.com/iamKushGupta/Reverse-Backdoor-with-Listener | 0 | 0| 
-| 20210802T15:58:15Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 21 | 7| 
-| 20210802T13:07:39Z | Null | https://github.com/BackdoorTech/BackdoorTech | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -111,6 +121,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210803T01:36:03Z | Original implementation of FlowPrint as in the NDSS %20 paper | https://github.com/Thijsvanede/FlowPrint | 52 | 18| 
 | 20210802T10:52:04Z | Config files for my GitHub profile. | https://github.com/WlNDSS/WlNDSS | 0 | 0| 
 
 
