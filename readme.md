@@ -53,6 +53,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210803T12:52:10Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 19 | 12| 
 | 20210803T12:37:48Z | Null | https://github.com/TheCrazzXz/Exploits-Lab | 0 | 1| 
 | 20210803T12:36:42Z | PS4 FW7.55 Exploit Menu with .js and .bin Payload Loader. All important payloads are included!  | https://github.com/Storm21CH/PS4-FW7.55-Exploit-Menu | 0 | 0| 
 | 20210803T12:36:34Z | C2X - C2/Post-Exploitation Tool For Red Teaming and Ethical Hacking | https://github.com/nxenon/c2x | 4 | 1| 
@@ -62,7 +63,6 @@
 | 20210803T12:02:56Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 14| 
 | 20210803T11:58:55Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 24 | 5| 
 | 20210803T11:51:04Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 55 | 17| 
-| 20210803T11:19:24Z | My n-day exploit for CVE-2019-18634 (local privilege escalation) | https://github.com/aesophor/CVE-2019-18634 | 3 | 1| 
 
 
 # backdoor on Github 推荐
