@@ -51,10 +51,10 @@
 | 20210805T08:47:22Z | CVE-2021-1675 | see https://github.com/cube0x0/CVE-2021-1675 | https://github.com/hahaleyile/my-CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210805T06:47:50Z | CVE-2021-10086 | Null | https://github.com/Mochican/CVE-2021-10086 | 未查询到CVE信息| 
 | 20210805T05:17:31Z | 未知编号 | Null | https://github.com/artsking/Sqlite-CVE-2019-20218 | 未查询到CVE信息| 
-| 20210805T02:09:29Z | CVE-2021-3560 | ubuntu new PrivEsc race condition vulnerability | https://github.com/mr-nO0b/CVE-2021-3560 | 未查询到CVE信息| 
+| 20210805T02:09:29Z | CVE-2021-3560 | ubuntu new PrivEsc race condition vulnerability | https://github.com/mr-nO0b/CVE-2021-3560 | | 
 | 20210804T06:49:23Z | CVE-2020-9496 | Null | https://github.com/s4dbrd/CVE-2020-9496 | XML-RPC request are vulnerable to unsafe deserialization and Cross-Site Scripting issues in Apache OFBiz 17.12.03| 
 | 20210804T03:39:49Z | CVE-2021-22204 | Null | https://github.com/AssassinUKG/CVE-2021-22204 | Improper neutralization of user data in the DjVu file format in ExifTool versions 7.44 and up allows arbitrary code execution when parsing the malicious image| 
-| 20210804T01:33:05Z | CVE-2020-14343 | Experimenting with the CVE-2020-14343 PyYAML vulnerability | https://github.com/raul23/pyyaml-CVE-2020-14343 | | 
+| 20210804T01:33:05Z | CVE-2020-14343 | Experimenting with the CVE-2020-14343 PyYAML vulnerability | https://github.com/raul23/pyyaml-CVE-2020-14343 | A vulnerability was discovered in the PyYAML library in versions before 5.4, where it is susceptible to arbitrary code execution when it processes untrusted YAML files through the full_load method or with the FullLoader loader. Applications that use the library to process untrusted input may be vulnerable to this flaw. This flaw allows an attacker to execute arbitrary code on the system by abusing the python/object/new constructor. This flaw is due to an incomplete fix for CVE-2020-1747.| 
 | 20210803T23:43:35Z | CVE-2020-9922 | Null | https://github.com/Wowfunhappy/Fix-Apple-Mail-CVE-2020-9922 | A logic issue was addressed with improved state management. This issue is fixed in macOS Catalina 10.15.6, Security Update 2020-004 Mojave, Security Update 2020-004 High Sierra. Processing a maliciously crafted email may lead to writing arbitrary files.| 
 
 
@@ -82,8 +82,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210805T12:25:13Z | Key System | https://github.com/jareer12/sky-exploits-web | 0 | 0| 
 | 20210805T12:17:46Z | E3C is a freely available multilingual corpus (Italian, English, French, Spanish, and Basque) of semantically annotated clinical narratives to allow for the linguistic analysis, benchmarking, and training of information extraction systems. It consists of two types of annotations: (i) clinical entities: pathologies, symptoms, procedures, body parts, etc., according to standard clinical taxonomies (i.e. SNOMED-CT, ICD-10); and (ii) temporal information and factuality: events, time expressions, and temporal relations according to the THYME standard. The corpus is organised into three layers, with different purposes. Layer 1: about 25K tokens per language with full manual annotation of clinical entities, temporal information and factuality, for benchmarkingand linguistic analysis. Layer 2: 50-100K tokens per language with semi-automatic annotations of clinical entities, to be used to train baseline systems. Layer 3: about 1M tokens per language of non-annotated medical documents to be exploited by semi-supervised approaches. Researchers can use the benchmark training and test splits of our corpus to develop and test their own models. We trained several deep learning based models and provide baselines using the benchmark. Both the corpus and the built models will be available through the ELG platform.  | https://github.com/hltfbk/E3C-Corpus | 0 | 1| 
-| 20210805T12:16:01Z | Key System | https://github.com/jareer12/sky-exploits-web | 0 | 0| 
 | 20210805T12:15:27Z | A helpful Java Deserialization exploit framework based on ysoserial | https://github.com/wh1t3p1g/ysomap | 436 | 40| 
 | 20210805T12:02:52Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210805T11:08:08Z | Octagon is a  fully fledged modular anti exploit designed to detect many exploits reliably without interrupting user experience.  | https://github.com/SilentsReplacement/Octagon | 1 | 0| 
@@ -133,16 +133,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210805T12:30:06Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
+| 20210805T12:27:45Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6533 | 1330| 
 | 20210805T12:19:19Z | fuzzy_waddle implementation for POE | https://github.com/NathanLangley/fuzzy_waddle_POE | 0 | 0| 
 | 20210805T12:15:14Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 21 | 8| 
 | 20210805T12:12:32Z | A fuzzer which allows to find bugs in Goost | https://github.com/goostengine/goost-fuzzer | 0 | 0| 
 | 20210805T12:01:22Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210805T11:54:28Z | Structure-aware, coverage-guided fuzzing engine for Rust functions. | https://github.com/loiclec/fuzzcheck-rs | 272 | 7| 
 | 20210805T11:50:56Z | A simple Fuzzy Washing Machine with 3 degrees of dirt and 3 types of dirt as input and 5 levels of washing as output | https://github.com/ParnianH98/Fuzzy-Washing-Machine | 1 | 0| 
-| 20210805T11:45:57Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
 | 20210805T11:40:04Z | generate contextually sensible fuzz tests for servant apps | https://github.com/mwotton/roboservant | 19 | 5| 
 | 20210805T11:22:05Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 515 | 48| 
-| 20210805T11:17:57Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3625 | 855| 
 
 
 
