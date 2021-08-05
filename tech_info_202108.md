@@ -48,10 +48,10 @@
 | --- | --- | --- | --- | ---| 
 | 20210805T10:58:38Z | CVE-2021-22204 | Null | https://github.com/PenTestical/CVE-2021-22204 | Improper neutralization of user data in the DjVu file format in ExifTool versions 7.44 and up allows arbitrary code execution when parsing the malicious image| 
 | 20210805T09:35:54Z | CVE-2021-3492 | PoC for CVE-2021-3492 used at Pwn2Own 2021 | https://github.com/synacktiv/CVE-2021-3492 | Shiftfs, an out-of-tree stacking file system included in Ubuntu Linux kernels, did not properly handle faults occurring during copy_from_user() correctly. These could lead to either a double-free situation or memory not being freed at all. An attacker could use this to cause a denial of service (kernel memory exhaustion) or gain privileges via executing arbitrary code. AKA ZDI-CAN-13562.| 
-| 20210805T08:47:22Z | CVE-2021-1675 | see https://github.com/cube0x0/CVE-2021-1675 | https://github.com/hahaleyile/my-CVE-2021-1675 | | 
+| 20210805T08:47:22Z | CVE-2021-1675 | see https://github.com/cube0x0/CVE-2021-1675 | https://github.com/hahaleyile/my-CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210805T06:47:50Z | CVE-2021-10086 | Null | https://github.com/Mochican/CVE-2021-10086 | 未查询到CVE信息| 
 | 20210805T05:17:31Z | 未知编号 | Null | https://github.com/artsking/Sqlite-CVE-2019-20218 | 未查询到CVE信息| 
-| 20210805T02:09:29Z | CVE-2021-3560 | ubuntu new PrivEsc race condition vulnerability | https://github.com/mr-nO0b/CVE-2021-3560 | 未查询到CVE信息| 
+| 20210805T02:09:29Z | CVE-2021-3560 | ubuntu new PrivEsc race condition vulnerability | https://github.com/mr-nO0b/CVE-2021-3560 | | 
 | 20210804T06:49:23Z | CVE-2020-9496 | Null | https://github.com/s4dbrd/CVE-2020-9496 | XML-RPC request are vulnerable to unsafe deserialization and Cross-Site Scripting issues in Apache OFBiz 17.12.03| 
 | 20210804T03:39:49Z | CVE-2021-22204 | Null | https://github.com/AssassinUKG/CVE-2021-22204 | Improper neutralization of user data in the DjVu file format in ExifTool versions 7.44 and up allows arbitrary code execution when parsing the malicious image| 
 | 20210804T01:33:05Z | CVE-2020-14343 | Experimenting with the CVE-2020-14343 PyYAML vulnerability | https://github.com/raul23/pyyaml-CVE-2020-14343 | A vulnerability was discovered in the PyYAML library in versions before 5.4, where it is susceptible to arbitrary code execution when it processes untrusted YAML files through the full_load method or with the FullLoader loader. Applications that use the library to process untrusted input may be vulnerable to this flaw. This flaw allows an attacker to execute arbitrary code on the system by abusing the python/object/new constructor. This flaw is due to an incomplete fix for CVE-2020-1747.| 
@@ -125,24 +125,24 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210805T12:53:52Z | Original implementation of FlowPrint as in the NDSS %20 paper | https://github.com/Thijsvanede/FlowPrint | 53 | 19| 
 | 20210804T10:13:29Z | Code for NDSS 2021 Paper %Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses Against Federated Learning% | https://github.com/vrt1shjwlkr/NDSS21-Model-Poisoning | 18 | 4| 
-| 20210803T01:36:03Z | Original implementation of FlowPrint as in the NDSS %20 paper | https://github.com/Thijsvanede/FlowPrint | 52 | 18| 
 | 20210802T10:52:04Z | Config files for my GitHub profile. | https://github.com/WlNDSS/WlNDSS | 0 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210805T12:59:18Z | Null | https://github.com/ISySRGg/Fuzzy- | 0 | 0| 
+| 20210805T12:57:11Z | [WIP] A fuzzer which allows to find bugs in Goost | https://github.com/goostengine/goost-fuzzer | 0 | 0| 
+| 20210805T12:55:54Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20210805T12:53:59Z | This tool is used for fuzzing API, directory fuzzing and sub domains fuzzing... | https://github.com/vivashu27/ifuzz | 1 | 0| 
+| 20210805T12:46:52Z | Null | https://github.com/KimSeoYe/TheFuzzingBook | 0 | 0| 
+| 20210805T12:42:58Z | A simple Fuzzy Washing Machine with 3 degrees of dirt and 3 types of dirt as input and 5 levels of washing as output | https://github.com/ParnianH98/Fuzzy-Washing-Machine | 2 | 0| 
 | 20210805T12:30:06Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
 | 20210805T12:27:45Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6533 | 1330| 
 | 20210805T12:19:19Z | fuzzy_waddle implementation for POE | https://github.com/NathanLangley/fuzzy_waddle_POE | 0 | 0| 
 | 20210805T12:15:14Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 21 | 8| 
-| 20210805T12:12:32Z | A fuzzer which allows to find bugs in Goost | https://github.com/goostengine/goost-fuzzer | 0 | 0| 
-| 20210805T12:01:22Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
-| 20210805T11:54:28Z | Structure-aware, coverage-guided fuzzing engine for Rust functions. | https://github.com/loiclec/fuzzcheck-rs | 272 | 7| 
-| 20210805T11:50:56Z | A simple Fuzzy Washing Machine with 3 degrees of dirt and 3 types of dirt as input and 5 levels of washing as output | https://github.com/ParnianH98/Fuzzy-Washing-Machine | 1 | 0| 
-| 20210805T11:40:04Z | generate contextually sensible fuzz tests for servant apps | https://github.com/mwotton/roboservant | 19 | 5| 
-| 20210805T11:22:05Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 515 | 48| 
 
 
 
