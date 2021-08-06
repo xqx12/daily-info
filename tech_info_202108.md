@@ -55,13 +55,13 @@
 | 20210805T06:47:50Z | CVE-2021-10086 | Null | https://github.com/Mochican/CVE-2021-10086 | 未查询到CVE信息| 
 | 20210805T05:17:31Z | 未知编号 | Null | https://github.com/artsking/Sqlite-CVE-2019-20218 | 未查询到CVE信息| 
 | 20210805T02:09:29Z | CVE-2021-3560 | ubuntu new PrivEsc race condition vulnerability | https://github.com/mr-nO0b/CVE-2021-3560 | 未查询到CVE信息| 
-| 20210804T06:49:23Z | CVE-2020-9496 | Null | https://github.com/s4dbrd/CVE-2020-9496 | XML-RPC request are vulnerable to unsafe deserialization and Cross-Site Scripting issues in Apache OFBiz 17.12.03| 
+| 20210804T06:49:23Z | CVE-2020-9496 | Null | https://github.com/s4dbrd/CVE-2020-9496 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210806T11:59:03Z | Null | https://github.com/vitaliiomelchenko/kleene | 0 | 0| 
+| 20210806T12:13:38Z | Null | https://github.com/vitaliiomelchenko/kleene | 0 | 0| 
 | 20210806T11:39:47Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2518 | 60| 
 | 20210806T11:31:30Z | klee+nme for user space aeg | https://github.com/jqhong/klee-nme-aeg | 1 | 0| 
 | 20210806T10:29:20Z | Null | https://github.com/pansilup/cgc-prgs-for-klee-seed-mode | 0 | 0| 
