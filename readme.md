@@ -29,7 +29,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210805T14:25:24Z | CVE-2021-22204 | Null | https://github.com/PenTestical/CVE-2021-22204 | Improper neutralization of user data in the DjVu file format in ExifTool versions 7.44 and up allows arbitrary code execution when parsing the malicious image| 
-| 20210805T09:35:54Z | CVE-2021-3492 | PoC for CVE-2021-3492 used at Pwn2Own 2021 | https://github.com/synacktiv/CVE-2021-3492 | Shiftfs, an out-of-tree stacking file system included in Ubuntu Linux kernels, did not properly handle faults occurring during copy_from_user() correctly. These could lead to either a double-free situation or memory not being freed at all. An attacker could use this to cause a denial of service (kernel memory exhaustion) or gain privileges via executing arbitrary code. AKA ZDI-CAN-13562.| 
+| 20210805T09:35:54Z | CVE-2021-3492 | PoC for CVE-2021-3492 used at Pwn2Own 2021 | https://github.com/synacktiv/CVE-2021-3492 | | 
 | 20210805T08:47:22Z | CVE-2021-1675 | see https://github.com/cube0x0/CVE-2021-1675 | https://github.com/hahaleyile/my-CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210805T06:47:50Z | CVE-2021-10086 | Null | https://github.com/Mochican/CVE-2021-10086 | 未查询到CVE信息| 
 | 20210805T05:17:31Z | 未知编号 | Null | https://github.com/artsking/Sqlite-CVE-2019-20218 | 未查询到CVE信息| 
@@ -59,14 +59,14 @@
 | --- | --- | --- | --- | ---| 
 | 20210805T23:29:29Z | Null | https://github.com/robin2309/exploitation-sites | 0 | 0| 
 | 20210805T23:29:13Z | Root repository for CS 6265: Information Security Lab - Reverse Engineering and Binary Exploitation | https://github.com/one2blame/cs6265 | 3 | 2| 
-| 20210805T22:57:15Z | Zuthaka is an open source application designed to assist red-teaming efforts, by simplifying the task of managing different APTs and other post-exploitation tools.  | https://github.com/pucarasec/zuthaka | 3 | 0| 
 | 20210805T22:40:44Z | Null | https://github.com/StarCodes2/MTK-bypass-exploits_collection | 0 | 0| 
 | 20210805T22:29:30Z | LBI based Roblox Exploit API (LBI base by deadlocust) | https://github.com/nuldylan/PenguinAPI | 0 | 0| 
-| 20210805T21:24:06Z | Ipdetect is a tool with multiple functionalities ... still under development. With ipdetect you will be able to find vulnerabilities in a host being analyzed and exploit them later. | https://github.com/kanekorbs/ipdetect | 0 | 0| 
 | 20210805T21:20:59Z | Null | https://github.com/tburakdirlik/vulnserverBufferOverflowExploit | 0 | 0| 
 | 20210805T21:17:22Z | Repository For RBX Exploits Created By SigmaTech | https://github.com/SigmaEG/RBXExploits | 0 | 0| 
 | 20210805T21:11:38Z | Repository for %Exploiting BERT For Multimodal Target Sentiment Classification Through Input Space Translation% [ACM MM %21] | https://github.com/codezakh/exploiting-BERT-thru-translation | 2 | 0| 
 | 20210805T21:11:38Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
+| 20210805T21:05:59Z | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | 2237 | 404| 
+| 20210805T20:57:04Z | Collection of bash scripts I wrote to make my life easier or test myself that you may find useful. | https://github.com/tobor88/Bash | 14 | 6| 
 
 
 # backdoor on Github 推荐
