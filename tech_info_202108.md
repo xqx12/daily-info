@@ -53,7 +53,7 @@
 | 20210805T05:17:31Z | 未知编号 | Null | https://github.com/artsking/Sqlite-CVE-2019-20218 | 未查询到CVE信息| 
 | 20210805T02:09:29Z | CVE-2021-3560 | ubuntu new PrivEsc race condition vulnerability | https://github.com/mr-nO0b/CVE-2021-3560 | 未查询到CVE信息| 
 | 20210804T06:49:23Z | CVE-2020-9496 | Null | https://github.com/s4dbrd/CVE-2020-9496 | XML-RPC request are vulnerable to unsafe deserialization and Cross-Site Scripting issues in Apache OFBiz 17.12.03| 
-| 20210804T03:39:49Z | CVE-2021-22204 | Null | https://github.com/AssassinUKG/CVE-2021-22204 | Improper neutralization of user data in the DjVu file format in ExifTool versions 7.44 and up allows arbitrary code execution when parsing the malicious image| 
+| 20210804T03:39:49Z | CVE-2021-22204 | Null | https://github.com/AssassinUKG/CVE-2021-22204 | | 
 | 20210804T01:33:05Z | CVE-2020-14343 | Experimenting with the CVE-2020-14343 PyYAML vulnerability | https://github.com/raul23/pyyaml-CVE-2020-14343 | A vulnerability was discovered in the PyYAML library in versions before 5.4, where it is susceptible to arbitrary code execution when it processes untrusted YAML files through the full_load method or with the FullLoader loader. Applications that use the library to process untrusted input may be vulnerable to this flaw. This flaw allows an attacker to execute arbitrary code on the system by abusing the python/object/new constructor. This flaw is due to an incomplete fix for CVE-2020-1747.| 
 | 20210803T23:43:35Z | CVE-2020-9922 | Null | https://github.com/Wowfunhappy/Fix-Apple-Mail-CVE-2020-9922 | A logic issue was addressed with improved state management. This issue is fixed in macOS Catalina 10.15.6, Security Update 2020-004 Mojave, Security Update 2020-004 High Sierra. Processing a maliciously crafted email may lead to writing arbitrary files.| 
 
@@ -82,16 +82,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210806T00:11:26Z | Null | https://github.com/peteallelite/peteallelite-ps4-exploit-host | 0 | 0| 
+| 20210806T00:22:38Z | Null | https://github.com/peteallelite/peteallelite-ps4-exploit-host | 0 | 0| 
+| 20210806T00:21:40Z | An introduction, explanation, and tutorial of various exploits for the heap of current and recent GNU libcs. | https://github.com/bstank/bstank.github.io | 0 | 0| 
+| 20210806T00:18:05Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9827 | 1623| 
+| 20210806T00:12:31Z | block game military grade radar | https://github.com/nerdsinspace/nocom-explanation | 262 | 14| 
 | 20210806T00:03:16Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
-| 20210806T00:02:33Z | An introduction, explanation, and tutorial of various exploits for the heap of current and recent GNU libcs. | https://github.com/bstank/bstank.github.io | 0 | 0| 
 | 20210805T23:29:29Z | Null | https://github.com/robin2309/exploitation-sites | 0 | 0| 
 | 20210805T23:29:13Z | Root repository for CS 6265: Information Security Lab - Reverse Engineering and Binary Exploitation | https://github.com/one2blame/cs6265 | 3 | 2| 
 | 20210805T22:57:15Z | Zuthaka is an open source application designed to assist red-teaming efforts, by simplifying the task of managing different APTs and other post-exploitation tools.  | https://github.com/pucarasec/zuthaka | 3 | 0| 
 | 20210805T22:40:44Z | Null | https://github.com/StarCodes2/MTK-bypass-exploits_collection | 0 | 0| 
 | 20210805T22:29:30Z | LBI based Roblox Exploit API (LBI base by deadlocust) | https://github.com/nuldylan/PenguinAPI | 0 | 0| 
-| 20210805T21:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9826 | 1623| 
-| 20210805T21:24:06Z | Ipdetect is a tool with multiple functionalities ... still under development. With ipdetect you will be able to find vulnerabilities in a host being analyzed and exploit them later. | https://github.com/kanekorbs/ipdetect | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -133,6 +133,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210806T00:23:18Z | Null | https://github.com/ISySRGg/Fuzzy- | 0 | 0| 
+| 20210806T00:22:40Z | Implementação do projeto de mestrado feito na universidade de campo limpo paulista. | https://github.com/aikid/fuzzyscript | 0 | 0| 
 | 20210806T00:05:06Z | Null | https://github.com/pedrofnsc1/CSGOStatsFuzzy | 0 | 0| 
 | 20210805T23:58:21Z | These tests of libdwarf/dwarfdump include old object files, new ones, and many fuzzed object files. These are the definitive tests that things work.. Most people have no reason to run these tests. | https://github.com/davea42/libdwarf-regressiontests | 0 | 0| 
 | 20210805T23:33:05Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
@@ -141,8 +143,6 @@
 | 20210805T22:53:11Z | Null | https://github.com/iolson/fuzzyhat-nfts | 0 | 0| 
 | 20210805T22:23:04Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6533 | 1332| 
 | 20210805T21:41:32Z | Null | https://github.com/ViniciusKowalski/fuzzy-engine | 0 | 0| 
-| 20210805T21:21:58Z | Null | https://github.com/epsonik/FuzzyDescV2 | 0 | 0| 
-| 20210805T21:15:49Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
 
 
 

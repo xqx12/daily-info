@@ -62,11 +62,11 @@
 | 20210805T22:57:15Z | Zuthaka is an open source application designed to assist red-teaming efforts, by simplifying the task of managing different APTs and other post-exploitation tools.  | https://github.com/pucarasec/zuthaka | 3 | 0| 
 | 20210805T22:40:44Z | Null | https://github.com/StarCodes2/MTK-bypass-exploits_collection | 0 | 0| 
 | 20210805T22:29:30Z | LBI based Roblox Exploit API (LBI base by deadlocust) | https://github.com/nuldylan/PenguinAPI | 0 | 0| 
-| 20210805T21:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9826 | 1623| 
 | 20210805T21:24:06Z | Ipdetect is a tool with multiple functionalities ... still under development. With ipdetect you will be able to find vulnerabilities in a host being analyzed and exploit them later. | https://github.com/kanekorbs/ipdetect | 0 | 0| 
 | 20210805T21:20:59Z | Null | https://github.com/tburakdirlik/vulnserverBufferOverflowExploit | 0 | 0| 
 | 20210805T21:17:22Z | Repository For RBX Exploits Created By SigmaTech | https://github.com/SigmaEG/RBXExploits | 0 | 0| 
 | 20210805T21:11:38Z | Repository for %Exploiting BERT For Multimodal Target Sentiment Classification Through Input Space Translation% [ACM MM %21] | https://github.com/codezakh/exploiting-BERT-thru-translation | 2 | 0| 
+| 20210805T21:11:38Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
 
 
 # backdoor on Github 推荐
