@@ -94,6 +94,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210806T12:58:10Z | Null | https://github.com/Vincebye/FuzzingD | 0 | 0| 
+| 20210806T12:51:46Z | Fuzzy: contains code for a Fuzzy Engine and a Dynamical Systems Simulator (DySySim). | https://github.com/josokw/Fuzzy | 2 | 0| 
 | 20210806T12:42:34Z | TELEVİZYON EKRAN PARLAKLIĞI BULANIK MODELİ RAPORU | https://github.com/EnesFYavuz/Fuzzy-Logic2 | 0 | 0| 
 | 20210806T12:41:29Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 88 | 23| 
 | 20210806T12:38:27Z | Bulanık Mantık ve Yapay Sinir Ağları Ağ Eğitimi | https://github.com/EnesFYavuz/Fuzzy-Logic | 0 | 0| 
@@ -102,8 +104,6 @@
 | 20210806T12:05:21Z | A fuzzer which allows to find bugs in Goost | https://github.com/goostengine/goost-fuzzer | 0 | 0| 
 | 20210806T12:00:31Z | Null | https://github.com/anshulj99/Fuzzy | 0 | 0| 
 | 20210806T11:42:13Z | 🔥 Studying The Fuzzing Book : https://www.fuzzingbook.org | https://github.com/KimSeoYe/TheFuzzingBook | 0 | 0| 
-| 20210806T11:29:02Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
-| 20210806T11:20:23Z |  A tool written in python to find files and directories of web applications using a specified wordlist | https://github.com/Tomiwa-Ot/Website-Directory-Fuzzing-Tool | 0 | 0| 
 
 
 
