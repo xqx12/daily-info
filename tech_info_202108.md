@@ -82,7 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210806T00:07:28Z | Null | https://github.com/peteallelite/peteallelite-ps4-exploit-host | 0 | 0| 
+| 20210806T00:11:26Z | Null | https://github.com/peteallelite/peteallelite-ps4-exploit-host | 0 | 0| 
 | 20210806T00:03:16Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210806T00:02:33Z | An introduction, explanation, and tutorial of various exploits for the heap of current and recent GNU libcs. | https://github.com/bstank/bstank.github.io | 0 | 0| 
 | 20210805T23:29:29Z | Null | https://github.com/robin2309/exploitation-sites | 0 | 0| 
