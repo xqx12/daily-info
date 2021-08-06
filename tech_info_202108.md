@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210805T14:25:24Z | CVE-2021-22204 | Null | https://github.com/PenTestical/CVE-2021-22204 | | 
+| 20210805T14:25:24Z | CVE-2021-22204 | Null | https://github.com/PenTestical/CVE-2021-22204 | Improper neutralization of user data in the DjVu file format in ExifTool versions 7.44 and up allows arbitrary code execution when parsing the malicious image| 
 | 20210805T09:35:54Z | CVE-2021-3492 | PoC for CVE-2021-3492 used at Pwn2Own 2021 | https://github.com/synacktiv/CVE-2021-3492 | Shiftfs, an out-of-tree stacking file system included in Ubuntu Linux kernels, did not properly handle faults occurring during copy_from_user() correctly. These could lead to either a double-free situation or memory not being freed at all. An attacker could use this to cause a denial of service (kernel memory exhaustion) or gain privileges via executing arbitrary code. AKA ZDI-CAN-13562.| 
 | 20210805T08:47:22Z | CVE-2021-1675 | see https://github.com/cube0x0/CVE-2021-1675 | https://github.com/hahaleyile/my-CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210805T06:47:50Z | CVE-2021-10086 | Null | https://github.com/Mochican/CVE-2021-10086 | 未查询到CVE信息| 
@@ -133,16 +133,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210806T02:00:32Z | 🔥 Studying The Fuzzing Book : https://www.fuzzingbook.org | https://github.com/KimSeoYe/TheFuzzingBook | 0 | 0| 
+| 20210806T01:59:40Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4540 | 454| 
 | 20210806T01:41:23Z | Implementação do projeto de mestrado feito na universidade de campo limpo paulista. | https://github.com/aikid/fuzzyscript | 0 | 0| 
 | 20210806T01:39:05Z | Null | https://github.com/HelintonAlves/fuzzy-giggle | 0 | 0| 
 | 20210806T01:36:18Z | fuzzy search the emoji 🥰 | https://github.com/JiangWeixian/fuzzy-emoji | 0 | 0| 
 | 20210806T01:05:41Z | Null | https://github.com/Ubisam-Project-MASIDU/FuzzStoryWorld | 0 | 0| 
 | 20210806T01:03:41Z | Null | https://github.com/lzhfromustc/goFuzz | 0 | 0| 
-| 20210806T00:41:28Z | 🔥 Studying The Fuzzing Book : https://www.fuzzingbook.org | https://github.com/KimSeoYe/TheFuzzingBook | 0 | 0| 
 | 20210806T00:31:56Z | Null | https://github.com/Hwangwoosam/fuzzing | 0 | 0| 
 | 20210806T00:27:43Z | Code of fuzzing book | https://github.com/jiniljeil/Fuzzing | 0 | 0| 
 | 20210806T00:25:44Z | Fuzzer for Dolt repositories | https://github.com/dolthub/fuzzer | 2 | 0| 
-| 20210806T00:23:18Z | Null | https://github.com/ISySRGg/Fuzzy- | 0 | 0| 
 
 
 
