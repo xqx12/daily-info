@@ -133,6 +133,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210806T12:19:56Z | Null | https://github.com/leadmeout/fuzzy-octo-potato | 0 | 0| 
 | 20210806T12:13:46Z | Null | https://github.com/tezedge/tezedge-fuzzing | 2 | 0| 
 | 20210806T12:05:21Z | A fuzzer which allows to find bugs in Goost | https://github.com/goostengine/goost-fuzzer | 0 | 0| 
 | 20210806T12:00:31Z | Null | https://github.com/anshulj99/Fuzzy | 0 | 0| 
@@ -140,7 +141,6 @@
 | 20210806T11:29:02Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210806T11:20:23Z |  A tool written in python to find files and directories of web applications using a specified wordlist | https://github.com/Tomiwa-Ot/Website-Directory-Fuzzing-Tool | 0 | 0| 
 | 20210806T11:14:25Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3632 | 857| 
-| 20210806T11:08:26Z | Null | https://github.com/leadmeout/fuzzy-octo-potato | 0 | 0| 
 | 20210806T11:06:12Z | Fuzzer for the .NET toolchains, developed as a project for the 2018 Language-Based Security course at Aarhus University. | https://github.com/jakobbotsch/Fuzzlyn | 213 | 18| 
 | 20210806T11:01:44Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 
