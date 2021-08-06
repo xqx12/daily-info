@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210806T10:53:15Z | CVE-2020-35847 | CVE-2020-35847, CVE-2020-35848 : Account Takeover | https://github.com/w33vils/CVE-2020-35847_CVE-2020-35848 | Agentejo Cockpit before 0.11.2 allows NoSQL injection via the Controller/Auth.php resetpassword function.| 
+| 20210806T10:53:15Z | CVE-2020-35847 | CVE-2020-35847, CVE-2020-35848 : Account Takeover | https://github.com/w33vils/CVE-2020-35847_CVE-2020-35848 | | 
 | 20210806T10:23:26Z | CVE-2021-36934 | SeriousSAM Auto Exploiter | https://github.com/websecnl/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
 | 20210806T09:40:01Z | CVE-2021-38149 | Chikitsa Patient Management System Stored Cross-Site Scripting (XSS) | https://github.com/jboogie15/CVE-2021-38149 | index.php/admin/add_user in Chikitsa Patient Management System 2.0.0 allows XSS.| 
 | 20210805T14:25:24Z | CVE-2021-22204 | Null | https://github.com/PenTestical/CVE-2021-22204 | Improper neutralization of user data in the DjVu file format in ExifTool versions 7.44 and up allows arbitrary code execution when parsing the malicious image| 
@@ -112,13 +112,13 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210806T12:53:52Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2409 | 357| 
 | 20210806T10:10:25Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 153 | 33| 
 | 20210806T09:30:19Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 450 | 68| 
 | 20210806T02:42:22Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1865 | 388| 
 | 20210805T17:36:02Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1743 | 500| 
 | 20210805T16:09:41Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 7 | 4| 
 | 20210805T11:02:52Z | A RISC-V RV32 virtual prototype based on riscv-vp with symbolic execution support | https://github.com/agra-uni-bremen/symex-vp | 2 | 0| 
-| 20210804T22:36:31Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2408 | 357| 
 | 20210803T23:43:09Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 92 | 6| 
 
 
