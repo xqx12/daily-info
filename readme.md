@@ -59,7 +59,6 @@
 | --- | --- | --- | --- | ---| 
 | 20210805T23:29:29Z | Null | https://github.com/robin2309/exploitation-sites | 0 | 0| 
 | 20210805T23:29:13Z | Root repository for CS 6265: Information Security Lab - Reverse Engineering and Binary Exploitation | https://github.com/one2blame/cs6265 | 3 | 2| 
-| 20210805T22:59:29Z | Null | https://github.com/peteallelite/peteallelite-ps4-exploit-host | 0 | 0| 
 | 20210805T22:57:15Z | Zuthaka is an open source application designed to assist red-teaming efforts, by simplifying the task of managing different APTs and other post-exploitation tools.  | https://github.com/pucarasec/zuthaka | 3 | 0| 
 | 20210805T22:40:44Z | Null | https://github.com/StarCodes2/MTK-bypass-exploits_collection | 0 | 0| 
 | 20210805T22:29:30Z | LBI based Roblox Exploit API (LBI base by deadlocust) | https://github.com/nuldylan/PenguinAPI | 0 | 0| 
@@ -67,6 +66,7 @@
 | 20210805T21:24:06Z | Ipdetect is a tool with multiple functionalities ... still under development. With ipdetect you will be able to find vulnerabilities in a host being analyzed and exploit them later. | https://github.com/kanekorbs/ipdetect | 0 | 0| 
 | 20210805T21:20:59Z | Null | https://github.com/tburakdirlik/vulnserverBufferOverflowExploit | 0 | 0| 
 | 20210805T21:17:22Z | Repository For RBX Exploits Created By SigmaTech | https://github.com/SigmaEG/RBXExploits | 0 | 0| 
+| 20210805T21:11:38Z | Repository for %Exploiting BERT For Multimodal Target Sentiment Classification Through Input Space Translation% [ACM MM %21] | https://github.com/codezakh/exploiting-BERT-thru-translation | 2 | 0| 
 
 
 # backdoor on Github 推荐
