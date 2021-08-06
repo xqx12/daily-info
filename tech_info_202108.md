@@ -82,16 +82,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210806T01:20:15Z | Automatic Exploit Generation Paper | https://github.com/hjyuan/AEGPaper | 0 | 0| 
+| 20210806T01:18:34Z | Ipdetect is a tool with multiple functionalities ... still under development. With ipdetect you will be able to find vulnerabilities in a host being analyzed and exploit them later. | https://github.com/kanekorbs/ipdetect | 1 | 0| 
 | 20210806T01:13:13Z | The Next-Gen Roblox Exploit Hub | https://github.com/HonestlyDex/DexHub | 1 | 1| 
 | 20210806T01:03:03Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
-| 20210806T01:01:22Z | Ipdetect is a tool with multiple functionalities ... still under development. With ipdetect you will be able to find vulnerabilities in a host being analyzed and exploit them later. | https://github.com/kanekorbs/ipdetect | 1 | 0| 
 | 20210806T01:01:09Z | Zuthaka is an open source application designed to assist red-teaming efforts, by simplifying the task of managing different APTs and other post-exploitation tools.  | https://github.com/pucarasec/zuthaka | 6 | 1| 
 | 20210806T00:59:02Z | Null | https://github.com/peteallelite/ps4-exploit-host | 0 | 0| 
 | 20210806T00:52:10Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 19 | 12| 
 | 20210806T00:51:59Z | Null | https://github.com/peteallelite/peteallelite-ps4-exploit-host | 0 | 0| 
 | 20210806T00:49:19Z | wifi pentest tools can exploit free trial vulnerability  | https://github.com/toutpuissantged/hacktools-cpp | 1 | 0| 
 | 20210806T00:35:04Z | An introduction, explanation, and tutorial of various exploits for the heap of current and recent GNU libcs. | https://github.com/bstank/bstank.github.io | 0 | 0| 
-| 20210806T00:29:10Z | Post-Exploitation methods inside any extension, Presented @DEFCON29: %Extension-Land exploits and rootkits in your browser extensions%.  | https://github.com/barakolo/Maltensions | 0 | 0| 
 
 
 # backdoor on Github 推荐
