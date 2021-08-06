@@ -29,7 +29,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210806T10:53:15Z | CVE-2020-35847 | CVE-2020-35847, CVE-2020-35848 : Account Takeover | https://github.com/w33vils/CVE-2020-35847_CVE-2020-35848 | Agentejo Cockpit before 0.11.2 allows NoSQL injection via the Controller/Auth.php resetpassword function.| 
-| 20210806T10:23:26Z | CVE-2021-36934 | SeriousSAM Auto Exploiter | https://github.com/websecnl/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
+| 20210806T10:23:26Z | CVE-2021-36934 | SeriousSAM Auto Exploiter | https://github.com/websecnl/CVE-2021-36934 | | 
 | 20210806T09:40:01Z | CVE-2021-38149 | Chikitsa Patient Management System Stored Cross-Site Scripting (XSS) | https://github.com/jboogie15/CVE-2021-38149 | 未查询到CVE信息| 
 
 
@@ -93,6 +93,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210806T12:13:46Z | Null | https://github.com/tezedge/tezedge-fuzzing | 2 | 0| 
 | 20210806T12:05:21Z | A fuzzer which allows to find bugs in Goost | https://github.com/goostengine/goost-fuzzer | 0 | 0| 
 | 20210806T12:00:31Z | Null | https://github.com/anshulj99/Fuzzy | 0 | 0| 
 | 20210806T11:42:13Z | 🔥 Studying The Fuzzing Book : https://www.fuzzingbook.org | https://github.com/KimSeoYe/TheFuzzingBook | 0 | 0| 
@@ -102,7 +103,6 @@
 | 20210806T11:08:26Z | Null | https://github.com/leadmeout/fuzzy-octo-potato | 0 | 0| 
 | 20210806T11:06:12Z | Fuzzer for the .NET toolchains, developed as a project for the 2018 Language-Based Security course at Aarhus University. | https://github.com/jakobbotsch/Fuzzlyn | 213 | 18| 
 | 20210806T11:01:44Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210806T10:45:56Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6536 | 1332| 
 
 
 
