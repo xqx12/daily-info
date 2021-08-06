@@ -82,8 +82,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210806T00:22:38Z | Null | https://github.com/peteallelite/peteallelite-ps4-exploit-host | 0 | 0| 
-| 20210806T00:21:40Z | An introduction, explanation, and tutorial of various exploits for the heap of current and recent GNU libcs. | https://github.com/bstank/bstank.github.io | 0 | 0| 
+| 20210806T00:38:40Z | Null | https://github.com/peteallelite/peteallelite-ps4-exploit-host | 0 | 0| 
+| 20210806T00:35:04Z | An introduction, explanation, and tutorial of various exploits for the heap of current and recent GNU libcs. | https://github.com/bstank/bstank.github.io | 0 | 0| 
+| 20210806T00:29:10Z | Post-Exploitation methods inside any extension, Presented @DEFCON29: %Extension-Land exploits and rootkits in your browser extensions%.  | https://github.com/barakolo/Maltensions | 0 | 0| 
 | 20210806T00:18:05Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9827 | 1623| 
 | 20210806T00:12:31Z | block game military grade radar | https://github.com/nerdsinspace/nocom-explanation | 262 | 14| 
 | 20210806T00:03:16Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
@@ -91,7 +92,6 @@
 | 20210805T23:29:13Z | Root repository for CS 6265: Information Security Lab - Reverse Engineering and Binary Exploitation | https://github.com/one2blame/cs6265 | 3 | 2| 
 | 20210805T22:57:15Z | Zuthaka is an open source application designed to assist red-teaming efforts, by simplifying the task of managing different APTs and other post-exploitation tools.  | https://github.com/pucarasec/zuthaka | 3 | 0| 
 | 20210805T22:40:44Z | Null | https://github.com/StarCodes2/MTK-bypass-exploits_collection | 0 | 0| 
-| 20210805T22:29:30Z | LBI based Roblox Exploit API (LBI base by deadlocust) | https://github.com/nuldylan/PenguinAPI | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -133,16 +133,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210806T00:41:28Z | 🔥 Studying The Fuzzing Book : https://www.fuzzingbook.org | https://github.com/KimSeoYe/TheFuzzingBook | 0 | 0| 
+| 20210806T00:31:56Z | Null | https://github.com/Hwangwoosam/fuzzing | 0 | 0| 
+| 20210806T00:27:43Z | Code of fuzzing book | https://github.com/jiniljeil/Fuzzing | 0 | 0| 
+| 20210806T00:26:51Z | Implementação do projeto de mestrado feito na universidade de campo limpo paulista. | https://github.com/aikid/fuzzyscript | 0 | 0| 
+| 20210806T00:25:44Z | Fuzzer for Dolt repositories | https://github.com/dolthub/fuzzer | 2 | 0| 
 | 20210806T00:23:18Z | Null | https://github.com/ISySRGg/Fuzzy- | 0 | 0| 
-| 20210806T00:22:40Z | Implementação do projeto de mestrado feito na universidade de campo limpo paulista. | https://github.com/aikid/fuzzyscript | 0 | 0| 
 | 20210806T00:05:06Z | Null | https://github.com/pedrofnsc1/CSGOStatsFuzzy | 0 | 0| 
 | 20210805T23:58:21Z | These tests of libdwarf/dwarfdump include old object files, new ones, and many fuzzed object files. These are the definitive tests that things work.. Most people have no reason to run these tests. | https://github.com/davea42/libdwarf-regressiontests | 0 | 0| 
 | 20210805T23:33:05Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210805T23:32:38Z | Fuzzer for Dolt repositories | https://github.com/dolthub/fuzzer | 2 | 0| 
 | 20210805T23:25:08Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
-| 20210805T22:53:11Z | Null | https://github.com/iolson/fuzzyhat-nfts | 0 | 0| 
-| 20210805T22:23:04Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6533 | 1332| 
-| 20210805T21:41:32Z | Null | https://github.com/ViniciusKowalski/fuzzy-engine | 0 | 0| 
 
 
 

@@ -105,7 +105,6 @@
 | --- | --- | --- | --- | ---| 
 | 20210805T23:58:21Z | These tests of libdwarf/dwarfdump include old object files, new ones, and many fuzzed object files. These are the definitive tests that things work.. Most people have no reason to run these tests. | https://github.com/davea42/libdwarf-regressiontests | 0 | 0| 
 | 20210805T23:33:05Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210805T23:32:38Z | Fuzzer for Dolt repositories | https://github.com/dolthub/fuzzer | 2 | 0| 
 | 20210805T23:25:08Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210805T22:53:11Z | Null | https://github.com/iolson/fuzzyhat-nfts | 0 | 0| 
 | 20210805T22:23:04Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6533 | 1332| 
@@ -113,6 +112,7 @@
 | 20210805T21:21:58Z | Null | https://github.com/epsonik/FuzzyDescV2 | 0 | 0| 
 | 20210805T21:15:49Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
 | 20210805T20:59:27Z | Null | https://github.com/tutterown/fuzzyhttp | 0 | 0| 
+| 20210805T20:36:50Z | Command line helpers for fuzzing | https://github.com/rust-fuzz/cargo-fuzz | 776 | 62| 
 
 
 
