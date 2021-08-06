@@ -53,8 +53,8 @@
 | 20210805T09:35:54Z | CVE-2021-3492 | PoC for CVE-2021-3492 used at Pwn2Own 2021 | https://github.com/synacktiv/CVE-2021-3492 | Shiftfs, an out-of-tree stacking file system included in Ubuntu Linux kernels, did not properly handle faults occurring during copy_from_user() correctly. These could lead to either a double-free situation or memory not being freed at all. An attacker could use this to cause a denial of service (kernel memory exhaustion) or gain privileges via executing arbitrary code. AKA ZDI-CAN-13562.| 
 | 20210805T08:47:22Z | CVE-2021-1675 | see https://github.com/cube0x0/CVE-2021-1675 | https://github.com/hahaleyile/my-CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210805T06:47:50Z | CVE-2021-10086 | Null | https://github.com/Mochican/CVE-2021-10086 | 未查询到CVE信息| 
-| 20210805T05:17:31Z | 未知编号 | Null | https://github.com/artsking/Sqlite-CVE-2019-20218 | | 
-| 20210805T02:09:29Z | CVE-2021-3560 | ubuntu new PrivEsc race condition vulnerability | https://github.com/mr-nO0b/CVE-2021-3560 | 未查询到CVE信息| 
+| 20210805T05:17:31Z | 未知编号 | Null | https://github.com/artsking/Sqlite-CVE-2019-20218 | 未查询到CVE信息| 
+| 20210805T02:09:29Z | CVE-2021-3560 | ubuntu new PrivEsc race condition vulnerability | https://github.com/mr-nO0b/CVE-2021-3560 | | 
 | 20210804T06:49:23Z | CVE-2020-9496 | Null | https://github.com/s4dbrd/CVE-2020-9496 | XML-RPC request are vulnerable to unsafe deserialization and Cross-Site Scripting issues in Apache OFBiz 17.12.03| 
 
 
@@ -133,6 +133,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210806T12:42:34Z | TELEVİZYON EKRAN PARLAKLIĞI BULANIK MODELİ RAPORU | https://github.com/EnesFYavuz/Fuzzy-Logic2 | 0 | 0| 
+| 20210806T12:41:29Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 88 | 23| 
 | 20210806T12:38:27Z | Bulanık Mantık ve Yapay Sinir Ağları Ağ Eğitimi | https://github.com/EnesFYavuz/Fuzzy-Logic | 0 | 0| 
 | 20210806T12:19:56Z | Null | https://github.com/leadmeout/fuzzy-octo-potato | 0 | 0| 
 | 20210806T12:13:46Z | Null | https://github.com/tezedge/tezedge-fuzzing | 2 | 0| 
@@ -141,8 +143,6 @@
 | 20210806T11:42:13Z | 🔥 Studying The Fuzzing Book : https://www.fuzzingbook.org | https://github.com/KimSeoYe/TheFuzzingBook | 0 | 0| 
 | 20210806T11:29:02Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210806T11:20:23Z |  A tool written in python to find files and directories of web applications using a specified wordlist | https://github.com/Tomiwa-Ot/Website-Directory-Fuzzing-Tool | 0 | 0| 
-| 20210806T11:14:25Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3632 | 857| 
-| 20210806T11:06:12Z | Fuzzer for the .NET toolchains, developed as a project for the 2018 Language-Based Security course at Aarhus University. | https://github.com/jakobbotsch/Fuzzlyn | 213 | 18| 
 
 
 
