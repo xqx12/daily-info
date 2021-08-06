@@ -55,13 +55,13 @@
 | 20210804T06:49:23Z | CVE-2020-9496 | Null | https://github.com/s4dbrd/CVE-2020-9496 | XML-RPC request are vulnerable to unsafe deserialization and Cross-Site Scripting issues in Apache OFBiz 17.12.03| 
 | 20210804T03:39:49Z | CVE-2021-22204 | Null | https://github.com/AssassinUKG/CVE-2021-22204 | Improper neutralization of user data in the DjVu file format in ExifTool versions 7.44 and up allows arbitrary code execution when parsing the malicious image| 
 | 20210804T01:33:05Z | CVE-2020-14343 | Experimenting with the CVE-2020-14343 PyYAML vulnerability | https://github.com/raul23/pyyaml-CVE-2020-14343 | A vulnerability was discovered in the PyYAML library in versions before 5.4, where it is susceptible to arbitrary code execution when it processes untrusted YAML files through the full_load method or with the FullLoader loader. Applications that use the library to process untrusted input may be vulnerable to this flaw. This flaw allows an attacker to execute arbitrary code on the system by abusing the python/object/new constructor. This flaw is due to an incomplete fix for CVE-2020-1747.| 
-| 20210803T23:43:35Z | CVE-2020-9922 | Null | https://github.com/Wowfunhappy/Fix-Apple-Mail-CVE-2020-9922 | | 
+| 20210803T23:43:35Z | CVE-2020-9922 | Null | https://github.com/Wowfunhappy/Fix-Apple-Mail-CVE-2020-9922 | A logic issue was addressed with improved state management. This issue is fixed in macOS Catalina 10.15.6, Security Update 2020-004 Mojave, Security Update 2020-004 High Sierra. Processing a maliciously crafted email may lead to writing arbitrary files.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210806T01:36:24Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2510 | 61| 
+| 20210806T01:46:37Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2511 | 61| 
 | 20210805T21:16:54Z | Null | https://github.com/thierry-tct/KLEE-SEMu | 3 | 2| 
 | 20210805T17:06:55Z | Null | https://github.com/santiagoHV/kleer-dojo-assessment-backend | 0 | 0| 
 | 20210805T15:56:43Z | Izrada novih algoritama za pretragu u okvriu alata za simboličko izvršavanje KLEE | https://github.com/MATF-Software-Verification/2020_03_Klee_Searcher | 0 | 0| 
@@ -82,7 +82,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210806T01:38:40Z | The Next-Gen Roblox Exploit Hub | https://github.com/HonestlyDex/DexHub | 1 | 1| 
+| 20210806T01:47:28Z | The Next-Gen Roblox Exploit Hub | https://github.com/HonestlyDex/DexHub | 1 | 1| 
+| 20210806T01:40:08Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 328 | 53| 
 | 20210806T01:38:37Z | A collection of kernel pwn challenges and writeups | https://github.com/fr33bug/PWN | 0 | 0| 
 | 20210806T01:36:25Z | Ipdetect is a tool with multiple functionalities ... still under development. With ipdetect you will be able to find vulnerabilities in a host being analyzed and exploit them later. | https://github.com/kanekorbs/ipdetect | 1 | 0| 
 | 20210806T01:20:15Z | Automatic Exploit Generation Paper | https://github.com/hjyuan/AEGPaper | 0 | 0| 
@@ -91,16 +92,15 @@
 | 20210806T00:59:02Z | Null | https://github.com/peteallelite/ps4-exploit-host | 0 | 0| 
 | 20210806T00:52:10Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 19 | 12| 
 | 20210806T00:51:59Z | Null | https://github.com/peteallelite/peteallelite-ps4-exploit-host | 0 | 0| 
-| 20210806T00:49:19Z | wifi pentest tools can exploit free trial vulnerability  | https://github.com/toutpuissantged/hacktools-cpp | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210806T01:50:20Z | Uses Apple%s MDM protocol to backdoor a device with a malicious profile. | https://github.com/MythicAgents/orthrus | 3 | 0| 
 | 20210805T22:55:34Z | Dashboard for conducting Backdoors and Breaches sessions over Zoom. | https://github.com/p3hndrx/B-B-Shuffle | 14 | 4| 
 | 20210805T21:40:34Z | example backdoor malware in C explained | https://github.com/lukasbalazik123/h34vy-backdoor | 0 | 0| 
 | 20210805T21:15:06Z | https://www.whonix.org/wiki/Verifiable_Builds - for better security. Makes finding backdoors easier. | https://github.com/Whonix/whonix-initializer | 2 | 3| 
-| 20210805T19:40:15Z | Uses Apple%s MDM protocol to backdoor a device with a malicious profile. | https://github.com/MythicAgents/orthrus | 2 | 0| 
 | 20210805T19:07:40Z | Backdoor en Powershell para obtener una shell | https://github.com/thiagous06/powershell-backdoor | 1 | 0| 
 | 20210805T18:42:14Z | Smooth penetration, more control, better speed and performance. ^_^ blackdoor | https://github.com/s3q/blackdoor | 1 | 0| 
 | 20210805T17:28:39Z | XML-RPC Backdoor - WP | https://github.com/carlosevieira/Wordpress-RPC-Backdoor | 1 | 0| 
@@ -133,9 +133,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210806T01:41:23Z | Implementação do projeto de mestrado feito na universidade de campo limpo paulista. | https://github.com/aikid/fuzzyscript | 0 | 0| 
 | 20210806T01:39:05Z | Null | https://github.com/HelintonAlves/fuzzy-giggle | 0 | 0| 
 | 20210806T01:36:18Z | fuzzy search the emoji 🥰 | https://github.com/JiangWeixian/fuzzy-emoji | 0 | 0| 
-| 20210806T01:22:51Z | Implementação do projeto de mestrado feito na universidade de campo limpo paulista. | https://github.com/aikid/fuzzyscript | 0 | 0| 
 | 20210806T01:05:41Z | Null | https://github.com/Ubisam-Project-MASIDU/FuzzStoryWorld | 0 | 0| 
 | 20210806T01:03:41Z | Null | https://github.com/lzhfromustc/goFuzz | 0 | 0| 
 | 20210806T00:41:28Z | 🔥 Studying The Fuzzing Book : https://www.fuzzingbook.org | https://github.com/KimSeoYe/TheFuzzingBook | 0 | 0| 

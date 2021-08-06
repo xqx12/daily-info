@@ -74,13 +74,13 @@
 | 20210805T22:55:34Z | Dashboard for conducting Backdoors and Breaches sessions over Zoom. | https://github.com/p3hndrx/B-B-Shuffle | 14 | 4| 
 | 20210805T21:40:34Z | example backdoor malware in C explained | https://github.com/lukasbalazik123/h34vy-backdoor | 0 | 0| 
 | 20210805T21:15:06Z | https://www.whonix.org/wiki/Verifiable_Builds - for better security. Makes finding backdoors easier. | https://github.com/Whonix/whonix-initializer | 2 | 3| 
-| 20210805T19:40:15Z | Uses Apple%s MDM protocol to backdoor a device with a malicious profile. | https://github.com/MythicAgents/orthrus | 2 | 0| 
 | 20210805T19:07:40Z | Backdoor en Powershell para obtener una shell | https://github.com/thiagous06/powershell-backdoor | 1 | 0| 
 | 20210805T18:42:14Z | Smooth penetration, more control, better speed and performance. ^_^ blackdoor | https://github.com/s3q/blackdoor | 1 | 0| 
 | 20210805T17:28:39Z | XML-RPC Backdoor - WP | https://github.com/carlosevieira/Wordpress-RPC-Backdoor | 1 | 0| 
 | 20210805T14:12:57Z | CRFL: Certifiably Robust Federated Learning against Backdoor Attacks (ICML 2021) | https://github.com/AI-secure/CRFL | 18 | 2| 
 | 20210805T14:08:36Z | DBA: Distributed Backdoor Attacks against Federated Learning (ICLR 2020) | https://github.com/AI-secure/DBA | 60 | 17| 
 | 20210805T07:56:20Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 276 | 50| 
+| 20210805T06:55:20Z | 🤖An Evil and Smart Bot for Enslaving Windows Written in Rust and Python | https://github.com/wildonion/katyusha | 3 | 1| 
 
 
 # symbolic execution on Github 推荐
