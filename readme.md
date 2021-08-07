@@ -63,10 +63,10 @@
 | 20210806T22:41:26Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | 0 | 0| 
 | 20210806T21:50:45Z | Security programas | https://github.com/lfntchagas/security-exploits | 0 | 0| 
 | 20210806T21:38:42Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 3802 | 523| 
-| 20210806T21:09:01Z | discord exploit tools written in golang | https://github.com/jumang4423/discord-exploit-tools | 1 | 0| 
 | 20210806T20:59:44Z | Null | https://github.com/TheCrazzXz/Exploits-Lab | 0 | 1| 
 | 20210806T20:39:33Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 74 | 31| 
 | 20210806T20:24:07Z | Exploit Development CheatSheet. | https://github.com/V0lk3n/OSED-CheatSheet | 0 | 0| 
+| 20210806T20:01:32Z | Save file exploit for Super Paper Mario | https://github.com/SeekyCt/spm-save-exploit | 3 | 0| 
 
 
 # backdoor on Github 推荐

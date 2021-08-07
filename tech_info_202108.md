@@ -82,6 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210807T00:28:02Z | discord exploit tools written in golang | https://github.com/jumang4423/discord-exploit-tools | 2 | 0| 
 | 20210807T00:07:40Z | Zuthaka is an open source application designed to assist red-teaming efforts, by simplifying the task of managing different APTs and other post-exploitation tools.  | https://github.com/pucarasec/zuthaka | 16 | 1| 
 | 20210807T00:02:54Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210806T23:47:35Z | a roblox exploit that works on low-performance pc with only 23mb ram consumption | https://github.com/Enterrados/Lazuli-Exploit | 0 | 0| 
@@ -90,7 +91,6 @@
 | 20210806T22:41:26Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | 0 | 0| 
 | 20210806T21:50:45Z | Security programas | https://github.com/lfntchagas/security-exploits | 0 | 0| 
 | 20210806T21:38:42Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 3802 | 523| 
-| 20210806T21:09:01Z | discord exploit tools written in golang | https://github.com/jumang4423/discord-exploit-tools | 1 | 0| 
 | 20210806T20:59:44Z | Null | https://github.com/TheCrazzXz/Exploits-Lab | 0 | 1| 
 
 
