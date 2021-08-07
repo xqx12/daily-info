@@ -78,6 +78,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210807T12:12:23Z | Fuzzinator Random Testing Framework | https://github.com/renatahodovan/fuzzinator | 178 | 38| 
 | 20210807T11:54:48Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 515 | 48| 
 | 20210807T11:31:14Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210807T10:54:21Z | 开源、轻量、快速、跨平台 的红队(redteam)外网打点扫描器，功能 端口扫描(port scan) 指纹识别(fingerprint) nday检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | 16 | 5| 
@@ -87,7 +88,6 @@
 | 20210807T09:43:52Z | A Codice Fiscale Generator | https://github.com/tonyarris/codice-fuzzcale | 1 | 0| 
 | 20210807T09:43:39Z | ruby binary for  enumeration fuzzing | https://github.com/Madhava-mng/m4dh4v45b1n | 2 | 0| 
 | 20210807T09:15:13Z | PostgreSQL extension supports searching full text using Levenshtein Distance | https://github.com/shanenoi/fuzzering | 1 | 0| 
-| 20210807T08:59:51Z | Null | https://github.com/leadmeout/fuzzy-octo-potato | 0 | 0| 
 
 
 
