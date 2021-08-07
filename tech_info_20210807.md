@@ -38,6 +38,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210807T12:26:09Z | Basic projects | https://github.com/sngrotesque/Exploit_Vulnerability_discovery | 0 | 0| 
 | 20210807T12:02:59Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210807T11:58:45Z | Collection of docker images to be used for exploit development and testing | https://github.com/mishrasunny174/pwn-docker | 8 | 2| 
 | 20210807T11:39:09Z | Key System | https://github.com/jareer12/sky-exploits-web | 1 | 0| 
@@ -47,7 +48,6 @@
 | 20210807T10:12:02Z | Null | https://github.com/DK9510/web-app-exploitation | 11 | 0| 
 | 20210807T10:01:38Z | Null | https://github.com/kienquoc102/Netwave-GoAhead-Exploits | 1 | 1| 
 | 20210807T09:41:33Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
-| 20210807T09:29:16Z | Octagon is a fully fledged modular server sided anti exploit designed to detect many exploits reliably without interrupting user experience.  | https://github.com/SilentsReplacement/Octagon | 1 | 1| 
 
 
 # backdoor on Github 推荐
