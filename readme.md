@@ -32,9 +32,9 @@
 | --- | --- | --- | --- | ---| 
 | 20210806T18:25:29Z | CVE-2021-22204 | Null | https://github.com/AssassinUKG/CVE-2021-22204 | Improper neutralization of user data in the DjVu file format in ExifTool versions 7.44 and up allows arbitrary code execution when parsing the malicious image| 
 | 20210806T14:11:15Z | CVE-2020-35846 | Cockpit CMS 0.11.1 NoSQL Injection to Remote Code Execution | https://github.com/0z09e/CVE-2020-35846 | Agentejo Cockpit before 0.11.2 allows NoSQL injection via the Controller/Auth.php check function.| 
-| 20210806T10:53:15Z | CVE-2020-35847 | CVE-2020-35847, CVE-2020-35848 : Account Takeover | https://github.com/w33vils/CVE-2020-35847_CVE-2020-35848 | | 
+| 20210806T10:53:15Z | CVE-2020-35847 | CVE-2020-35847, CVE-2020-35848 : Account Takeover | https://github.com/w33vils/CVE-2020-35847_CVE-2020-35848 | Agentejo Cockpit before 0.11.2 allows NoSQL injection via the Controller/Auth.php resetpassword function.| 
 | 20210806T10:23:26Z | CVE-2021-36934 | SeriousSAM Auto Exploiter | https://github.com/websecnl/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
-| 20210806T09:40:01Z | CVE-2021-38149 | Chikitsa Patient Management System Stored Cross-Site Scripting (XSS) | https://github.com/jboogie15/CVE-2021-38149 | index.php/admin/add_user in Chikitsa Patient Management System 2.0.0 allows XSS.| 
+| 20210806T09:40:01Z | CVE-2021-38149 | Chikitsa Patient Management System Stored Cross-Site Scripting (XSS) | https://github.com/jboogie15/CVE-2021-38149 | | 
 
 
 # klee on Github 推荐

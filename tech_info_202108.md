@@ -48,9 +48,9 @@
 | --- | --- | --- | --- | ---| 
 | 20210806T18:25:29Z | CVE-2021-22204 | Null | https://github.com/AssassinUKG/CVE-2021-22204 | Improper neutralization of user data in the DjVu file format in ExifTool versions 7.44 and up allows arbitrary code execution when parsing the malicious image| 
 | 20210806T14:11:15Z | CVE-2020-35846 | Cockpit CMS 0.11.1 NoSQL Injection to Remote Code Execution | https://github.com/0z09e/CVE-2020-35846 | Agentejo Cockpit before 0.11.2 allows NoSQL injection via the Controller/Auth.php check function.| 
-| 20210806T10:53:15Z | CVE-2020-35847 | CVE-2020-35847, CVE-2020-35848 : Account Takeover | https://github.com/w33vils/CVE-2020-35847_CVE-2020-35848 | | 
+| 20210806T10:53:15Z | CVE-2020-35847 | CVE-2020-35847, CVE-2020-35848 : Account Takeover | https://github.com/w33vils/CVE-2020-35847_CVE-2020-35848 | Agentejo Cockpit before 0.11.2 allows NoSQL injection via the Controller/Auth.php resetpassword function.| 
 | 20210806T10:23:26Z | CVE-2021-36934 | SeriousSAM Auto Exploiter | https://github.com/websecnl/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
-| 20210806T09:40:01Z | CVE-2021-38149 | Chikitsa Patient Management System Stored Cross-Site Scripting (XSS) | https://github.com/jboogie15/CVE-2021-38149 | index.php/admin/add_user in Chikitsa Patient Management System 2.0.0 allows XSS.| 
+| 20210806T09:40:01Z | CVE-2021-38149 | Chikitsa Patient Management System Stored Cross-Site Scripting (XSS) | https://github.com/jboogie15/CVE-2021-38149 | | 
 | 20210805T14:25:24Z | CVE-2021-22204 | Null | https://github.com/PenTestical/CVE-2021-22204 | Improper neutralization of user data in the DjVu file format in ExifTool versions 7.44 and up allows arbitrary code execution when parsing the malicious image| 
 | 20210805T09:35:54Z | CVE-2021-3492 | PoC for CVE-2021-3492 used at Pwn2Own 2021 | https://github.com/synacktiv/CVE-2021-3492 | Shiftfs, an out-of-tree stacking file system included in Ubuntu Linux kernels, did not properly handle faults occurring during copy_from_user() correctly. These could lead to either a double-free situation or memory not being freed at all. An attacker could use this to cause a denial of service (kernel memory exhaustion) or gain privileges via executing arbitrary code. AKA ZDI-CAN-13562.| 
 | 20210805T08:47:22Z | CVE-2021-1675 | see https://github.com/cube0x0/CVE-2021-1675 | https://github.com/hahaleyile/my-CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
@@ -97,6 +97,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210807T00:24:47Z | Null | https://github.com/FierzaEriez/Mini-Shell-Backdoor | 1 | 1| 
 | 20210806T22:59:52Z | Uses Apple%s MDM protocol to backdoor a device with a malicious profile. | https://github.com/MythicAgents/orthrus | 9 | 2| 
 | 20210806T20:09:06Z | This tool gives developers, researchers and companies the ability to analyze software packages of different programming languages that are being or will be used in their codes, providing information that allows them to know in advance if this library complies with processes. secure development, if currently supported, possible backdoors (malicious embedded code), typosquatting analysis, the history of versions and reported vulnerabilities (CVEs) of the package. | https://github.com/Telefonica/packagedna | 1 | 0| 
 | 20210806T18:55:32Z | a simple backdoor in Nim | https://github.com/kensh1ro/NimTeleBackdoor | 11 | 1| 
@@ -106,7 +107,6 @@
 | 20210806T15:28:12Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 36 | 27| 
 | 20210806T15:25:13Z | Null | https://github.com/EjHvorSerDuVildUdJim/backdoor | 0 | 0| 
 | 20210806T13:50:32Z | Smooth penetration, more control, better speed and performance. ^_^ blackdoor | https://github.com/s3q/blackdoor | 1 | 0| 
-| 20210806T13:43:47Z | Dashboard for conducting Backdoors and Breaches sessions over Zoom. | https://github.com/p3hndrx/B-B-Shuffle | 14 | 4| 
 
 
 # symbolic execution on Github 推荐
