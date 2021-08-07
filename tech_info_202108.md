@@ -82,6 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210807T01:36:14Z | Null | https://github.com/MTK-bypass/exploits_collection | 104 | 50| 
 | 20210807T01:23:38Z | When it comes to exploiting web application security, this is a methodology. Enumeration and Networking guidelines are also listed to help while on a Pentest/CTF.  | https://github.com/Mdot0/Pentesting-Methodology- | 1 | 0| 
 | 20210807T01:11:37Z | Null | https://github.com/lewisaarons/exploitation-colonies | 0 | 0| 
 | 20210807T01:11:14Z | 7.5X Host Exploit - Jun 03,2021 Exploit (Imitate legit network traffic before exploit) | https://github.com/Night-King-Host/75XV3b6 | 0 | 0| 
@@ -91,7 +92,6 @@
 | 20210807T01:09:48Z | PS4 7.5X Exploit Host (Initial Jailbreak Release) | https://github.com/Night-King-Host/75XV3b1 | 0 | 0| 
 | 20210807T01:07:13Z | Roblox Exploit UI: Frostware X | https://github.com/09Shahin/Frostware | 0 | 0| 
 | 20210807T01:03:10Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
-| 20210807T00:58:54Z | Welcome to RoSEC Security, a highly advanced security suite to protect your Roblox games from the newest threats, backdoors, and server-sided exploits. | https://github.com/Revoxelizer/RoSEC-Security | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -135,6 +135,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210807T01:36:54Z | Null | https://github.com/lzhfromustc/goFuzz | 0 | 0| 
 | 20210807T01:27:11Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210807T01:18:32Z | Poke-a-square | https://github.com/nataliesmyth/fuzzy-octo-memory | 0 | 0| 
 | 20210807T01:06:46Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1947 | 387| 
@@ -144,7 +145,6 @@
 | 20210806T23:39:13Z | Formal verification and fuzzing of Nova with DappTools. | https://github.com/Rari-Capital/nova-invariants | 1 | 0| 
 | 20210806T22:57:59Z | JQF + Zest: Coverage-guided semantic fuzzing for Java. | https://github.com/rohanpadhye/JQF | 387 | 56| 
 | 20210806T22:27:37Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
-| 20210806T21:47:45Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 672 | 127| 
 
 
 
