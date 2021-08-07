@@ -59,7 +59,6 @@
 | --- | --- | --- | --- | ---| 
 | 20210806T23:47:35Z | a roblox exploit that works on low-performance pc with only 23mb ram consumption | https://github.com/Enterrados/Lazuli-Exploit | 0 | 0| 
 | 20210806T23:08:48Z | Documentation for my exploit | https://github.com/Minishapp/exos.fun-docs | 0 | 0| 
-| 20210806T23:03:00Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210806T22:49:41Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9826 | 1624| 
 | 20210806T22:41:26Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | 0 | 0| 
 | 20210806T21:50:45Z | Security programas | https://github.com/lfntchagas/security-exploits | 0 | 0| 
@@ -67,6 +66,7 @@
 | 20210806T21:09:01Z | discord exploit tools written in golang | https://github.com/jumang4423/discord-exploit-tools | 1 | 0| 
 | 20210806T20:59:44Z | Null | https://github.com/TheCrazzXz/Exploits-Lab | 0 | 1| 
 | 20210806T20:39:33Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 74 | 31| 
+| 20210806T20:24:07Z | Exploit Development CheatSheet. | https://github.com/V0lk3n/OSED-CheatSheet | 0 | 0| 
 
 
 # backdoor on Github 推荐
