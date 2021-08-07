@@ -51,11 +51,11 @@
 | 20210806T10:53:15Z | CVE-2020-35847 | CVE-2020-35847, CVE-2020-35848 : Account Takeover | https://github.com/w33vils/CVE-2020-35847_CVE-2020-35848 | Agentejo Cockpit before 0.11.2 allows NoSQL injection via the Controller/Auth.php resetpassword function.| 
 | 20210806T10:23:26Z | CVE-2021-36934 | SeriousSAM Auto Exploiter | https://github.com/websecnl/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
 | 20210806T09:40:01Z | CVE-2021-38149 | Chikitsa Patient Management System Stored Cross-Site Scripting (XSS) | https://github.com/jboogie15/CVE-2021-38149 | index.php/admin/add_user in Chikitsa Patient Management System 2.0.0 allows XSS.| 
-| 20210805T14:25:24Z | CVE-2021-22204 | Null | https://github.com/PenTestical/CVE-2021-22204 | Improper neutralization of user data in the DjVu file format in ExifTool versions 7.44 and up allows arbitrary code execution when parsing the malicious image| 
+| 20210805T14:25:24Z | CVE-2021-22204 | Null | https://github.com/PenTestical/CVE-2021-22204 | | 
 | 20210805T09:35:54Z | CVE-2021-3492 | PoC for CVE-2021-3492 used at Pwn2Own 2021 | https://github.com/synacktiv/CVE-2021-3492 | Shiftfs, an out-of-tree stacking file system included in Ubuntu Linux kernels, did not properly handle faults occurring during copy_from_user() correctly. These could lead to either a double-free situation or memory not being freed at all. An attacker could use this to cause a denial of service (kernel memory exhaustion) or gain privileges via executing arbitrary code. AKA ZDI-CAN-13562.| 
 | 20210805T08:47:22Z | CVE-2021-1675 | see https://github.com/cube0x0/CVE-2021-1675 | https://github.com/hahaleyile/my-CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210805T06:47:50Z | CVE-2021-10086 | Null | https://github.com/Mochican/CVE-2021-10086 | 未查询到CVE信息| 
-| 20210805T05:17:31Z | 未知编号 | Null | https://github.com/artsking/Sqlite-CVE-2019-20218 | | 
+| 20210805T05:17:31Z | 未知编号 | Null | https://github.com/artsking/Sqlite-CVE-2019-20218 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
@@ -82,7 +82,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210807T00:51:02Z | Welcome to RoSEC Security, a highly advanced security suite to protect your Roblox games from the newest threats, backdoors, and server-sided exploits. | https://github.com/Revoxelizer/RoSEC-Security | 0 | 0| 
+| 20210807T00:58:54Z | Welcome to RoSEC Security, a highly advanced security suite to protect your Roblox games from the newest threats, backdoors, and server-sided exploits. | https://github.com/Revoxelizer/RoSEC-Security | 0 | 0| 
+| 20210807T00:52:11Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 19 | 12| 
 | 20210807T00:29:11Z | discord exploit tools written in golang | https://github.com/jumang4423/discord-exploit-tools | 3 | 0| 
 | 20210807T00:07:40Z | Zuthaka is an open source application designed to assist red-teaming efforts, by simplifying the task of managing different APTs and other post-exploitation tools.  | https://github.com/pucarasec/zuthaka | 16 | 1| 
 | 20210807T00:02:54Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
@@ -91,7 +92,6 @@
 | 20210806T22:49:41Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9826 | 1624| 
 | 20210806T22:41:26Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | 0 | 0| 
 | 20210806T21:50:45Z | Security programas | https://github.com/lfntchagas/security-exploits | 0 | 0| 
-| 20210806T21:38:42Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 3802 | 523| 
 
 
 # backdoor on Github 推荐
@@ -135,6 +135,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210807T00:59:19Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1946 | 387| 
 | 20210807T00:38:05Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6538 | 1333| 
 | 20210807T00:04:18Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 21 | 9| 
 | 20210806T23:59:38Z | Null | https://github.com/Vincebye/FuzzingD | 0 | 0| 
@@ -144,7 +145,6 @@
 | 20210806T22:27:37Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210806T21:47:45Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 672 | 127| 
 | 20210806T20:57:00Z | Null | https://github.com/jeun-990806/gibcFuzzer | 0 | 0| 
-| 20210806T20:44:18Z | application of fuzzy logic in a sensor based automated irrigation system | https://github.com/jonesvielle/fuzzy-irrigation | 0 | 0| 
 
 
 
