@@ -135,13 +135,13 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210807T01:27:11Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210807T01:18:32Z | Poke-a-square | https://github.com/nataliesmyth/fuzzy-octo-memory | 0 | 0| 
 | 20210807T01:06:46Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1947 | 387| 
 | 20210807T00:38:05Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6538 | 1333| 
 | 20210807T00:04:18Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 21 | 9| 
 | 20210806T23:59:38Z | Null | https://github.com/Vincebye/FuzzingD | 0 | 0| 
 | 20210806T23:39:13Z | Formal verification and fuzzing of Nova with DappTools. | https://github.com/Rari-Capital/nova-invariants | 1 | 0| 
-| 20210806T23:32:39Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210806T22:57:59Z | JQF + Zest: Coverage-guided semantic fuzzing for Java. | https://github.com/rohanpadhye/JQF | 387 | 56| 
 | 20210806T22:27:37Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210806T21:47:45Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 672 | 127| 

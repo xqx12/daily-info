@@ -106,7 +106,6 @@
 | --- | --- | --- | --- | ---| 
 | 20210806T23:59:38Z | Null | https://github.com/Vincebye/FuzzingD | 0 | 0| 
 | 20210806T23:39:13Z | Formal verification and fuzzing of Nova with DappTools. | https://github.com/Rari-Capital/nova-invariants | 1 | 0| 
-| 20210806T23:32:39Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210806T22:57:59Z | JQF + Zest: Coverage-guided semantic fuzzing for Java. | https://github.com/rohanpadhye/JQF | 387 | 56| 
 | 20210806T22:27:37Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210806T21:47:45Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 672 | 127| 
@@ -114,6 +113,7 @@
 | 20210806T20:44:18Z | application of fuzzy logic in a sensor based automated irrigation system | https://github.com/jonesvielle/fuzzy-irrigation | 0 | 0| 
 | 20210806T20:41:32Z | REST API Fuzz Testing (RAFT): Source code for self-hosted service developed for Azure, including the API, orchestration engine, and default set of security tools (including MSR%s RESTler), that enables developers to embed security tooling into their CI/CD workflows | https://github.com/microsoft/rest-api-fuzz-testing | 185 | 27| 
 | 20210806T20:02:13Z | fuzzy_waddle implementation for POE | https://github.com/NathanLangley/fuzzy_waddle_POE | 0 | 0| 
+| 20210806T19:13:59Z | Nero is an open source HTTP API fuzzer aiming to be easy to use and extend. | https://github.com/kandeh/nero-fuzzer | 0 | 0| 
 
 
 
