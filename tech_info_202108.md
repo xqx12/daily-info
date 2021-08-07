@@ -82,7 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210807T00:28:02Z | discord exploit tools written in golang | https://github.com/jumang4423/discord-exploit-tools | 2 | 0| 
+| 20210807T00:29:11Z | discord exploit tools written in golang | https://github.com/jumang4423/discord-exploit-tools | 3 | 0| 
 | 20210807T00:07:40Z | Zuthaka is an open source application designed to assist red-teaming efforts, by simplifying the task of managing different APTs and other post-exploitation tools.  | https://github.com/pucarasec/zuthaka | 16 | 1| 
 | 20210807T00:02:54Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210806T23:47:35Z | a roblox exploit that works on low-performance pc with only 23mb ram consumption | https://github.com/Enterrados/Lazuli-Exploit | 0 | 0| 
