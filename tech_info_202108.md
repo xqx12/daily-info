@@ -82,11 +82,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210807T01:03:10Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210807T00:58:54Z | Welcome to RoSEC Security, a highly advanced security suite to protect your Roblox games from the newest threats, backdoors, and server-sided exploits. | https://github.com/Revoxelizer/RoSEC-Security | 0 | 0| 
 | 20210807T00:52:11Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 19 | 12| 
 | 20210807T00:29:11Z | discord exploit tools written in golang | https://github.com/jumang4423/discord-exploit-tools | 3 | 0| 
 | 20210807T00:07:40Z | Zuthaka is an open source application designed to assist red-teaming efforts, by simplifying the task of managing different APTs and other post-exploitation tools.  | https://github.com/pucarasec/zuthaka | 16 | 1| 
-| 20210807T00:02:54Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210806T23:47:35Z | a roblox exploit that works on low-performance pc with only 23mb ram consumption | https://github.com/Enterrados/Lazuli-Exploit | 0 | 0| 
 | 20210806T23:08:48Z | Documentation for my exploit | https://github.com/Minishapp/exos.fun-docs | 0 | 0| 
 | 20210806T22:49:41Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9826 | 1624| 
