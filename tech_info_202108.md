@@ -31,37 +31,38 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210807 | fuzzing check分支概述 | https://mp.weixin.qq.com/s/7JdHPEo6DyxOjFuw1VMlqg| 
+| 20210807 | weblogic Coherence 组件漏洞总结分析 | https://nosec.org/home/detail/4806.html| 
+| 20210807 | 使用 GDB 获取软路由的文件系统 | https://mp.weixin.qq.com/s/FWprX-R1EfWrPMNa0WPedA| 
+| 20210807 | 《党委（党组）网络安全工作责任制实施办法》解读 | https://mp.weixin.qq.com/s/ZzFx2Leu7DYhm39Kacofcg| 
 | 20210806 | 浅谈利用session绕过getshell | https://www.sec-in.com/article/1089| 
 | 20210806 | 如何利用多杀软结果提取恶意软件标签 | https://mp.weixin.qq.com/s/yxxd6eshC26BIHm9LgGp2A| 
 | 20210806 | 施耐德充电桩漏洞挖掘之旅 | https://forum.butian.net/share/357| 
 | 20210806 | 施耐德充电桩漏洞挖掘之旅 | https://bacde.me/post/Schneider-Charging-Staiong-Vulnerabilites/| 
 | 20210805 | XMap：兼含 IPv6 与 IPv4 网络空间探测功能的快速扫描器 | https://netsec.ccert.edu.cn/chs/projects/xmap| 
 | 20210805 | 浅谈程序分析 | https://mp.weixin.qq.com/s/l5NAWWQ584uXCO_HRMvQ0A| 
-| 20210805 | Android预装应用的分析 | https://mp.weixin.qq.com/s/ldkhHPH3MB4Te9JHa23xpg| 
-| 20210804 | Android生态系统中分析库的隐私风险分析和缓解 | https://mp.weixin.qq.com/s/ItQUSf2PsA7KsSHryAGfmw| 
-| 20210803 | Linux计划任务那点事儿 | https://mp.weixin.qq.com/s/KfeKpoPj-X7BRNR7O6QAcw| 
-| 20210803 | Lazarus结合NDay投递VBA恶意远控的攻击分析 | https://mp.weixin.qq.com/s/x7L3R9iQdnrnEKpfop92Gg| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210807T08:43:21Z | CVE-2021-3156 | Null | https://github.com/CyberCommands/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210806T18:25:29Z | CVE-2021-22204 | Null | https://github.com/AssassinUKG/CVE-2021-22204 | Improper neutralization of user data in the DjVu file format in ExifTool versions 7.44 and up allows arbitrary code execution when parsing the malicious image| 
-| 20210806T14:11:15Z | CVE-2020-35846 | Cockpit CMS 0.11.1 NoSQL Injection to Remote Code Execution | https://github.com/0z09e/CVE-2020-35846 | | 
+| 20210806T14:11:15Z | CVE-2020-35846 | Cockpit CMS 0.11.1 NoSQL Injection to Remote Code Execution | https://github.com/0z09e/CVE-2020-35846 | Agentejo Cockpit before 0.11.2 allows NoSQL injection via the Controller/Auth.php check function.| 
 | 20210806T10:53:15Z | CVE-2020-35847 | CVE-2020-35847, CVE-2020-35848 : Account Takeover | https://github.com/w33vils/CVE-2020-35847_CVE-2020-35848 | Agentejo Cockpit before 0.11.2 allows NoSQL injection via the Controller/Auth.php resetpassword function.| 
 | 20210806T10:23:26Z | CVE-2021-36934 | SeriousSAM Auto Exploiter | https://github.com/websecnl/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
 | 20210806T09:40:01Z | CVE-2021-38149 | Chikitsa Patient Management System Stored Cross-Site Scripting (XSS) | https://github.com/jboogie15/CVE-2021-38149 | index.php/admin/add_user in Chikitsa Patient Management System 2.0.0 allows XSS.| 
 | 20210805T14:25:24Z | CVE-2021-22204 | Null | https://github.com/PenTestical/CVE-2021-22204 | Improper neutralization of user data in the DjVu file format in ExifTool versions 7.44 and up allows arbitrary code execution when parsing the malicious image| 
-| 20210805T09:35:54Z | CVE-2021-3492 | PoC for CVE-2021-3492 used at Pwn2Own 2021 | https://github.com/synacktiv/CVE-2021-3492 | Shiftfs, an out-of-tree stacking file system included in Ubuntu Linux kernels, did not properly handle faults occurring during copy_from_user() correctly. These could lead to either a double-free situation or memory not being freed at all. An attacker could use this to cause a denial of service (kernel memory exhaustion) or gain privileges via executing arbitrary code. AKA ZDI-CAN-13562.| 
+| 20210805T09:35:54Z | CVE-2021-3492 | PoC for CVE-2021-3492 used at Pwn2Own 2021 | https://github.com/synacktiv/CVE-2021-3492 | | 
 | 20210805T08:47:22Z | CVE-2021-1675 | see https://github.com/cube0x0/CVE-2021-1675 | https://github.com/hahaleyile/my-CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210805T06:47:50Z | CVE-2021-10086 | Null | https://github.com/Mochican/CVE-2021-10086 | 未查询到CVE信息| 
-| 20210805T05:17:31Z | 未知编号 | Null | https://github.com/artsking/Sqlite-CVE-2019-20218 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210806T22:02:41Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2519 | 60| 
+| 20210807T10:51:46Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2522 | 60| 
+| 20210807T03:23:16Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 219 | 35| 
 | 20210806T17:13:05Z | Izrada novih algoritama za pretragu u okvriu alata za simboličko izvršavanje KLEE | https://github.com/MATF-Software-Verification/2020_03_Klee_Searcher | 0 | 0| 
 | 20210806T16:45:18Z | Null | https://github.com/BertKleewein/BertKleewein.github.io | 0 | 0| 
 | 20210806T12:47:50Z | Null | https://github.com/vitaliiomelchenko/kleene | 0 | 0| 
@@ -70,7 +71,6 @@
 | 20210806T06:39:36Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 146 | 22| 
 | 20210805T21:16:54Z | Null | https://github.com/thierry-tct/KLEE-SEMu | 3 | 2| 
 | 20210805T17:06:55Z | Null | https://github.com/santiagoHV/kleer-dojo-assessment-backend | 0 | 0| 
-| 20210805T11:02:52Z | A RISC-V RV32 virtual prototype based on riscv-vp with symbolic execution support | https://github.com/agra-uni-bremen/symex-vp | 2 | 0| 
 
 
 # s2e on Github 推荐
@@ -82,31 +82,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210807T01:36:14Z | Null | https://github.com/MTK-bypass/exploits_collection | 104 | 50| 
-| 20210807T01:23:38Z | When it comes to exploiting web application security, this is a methodology. Enumeration and Networking guidelines are also listed to help while on a Pentest/CTF.  | https://github.com/Mdot0/Pentesting-Methodology- | 1 | 0| 
-| 20210807T01:11:37Z | Null | https://github.com/lewisaarons/exploitation-colonies | 0 | 0| 
-| 20210807T01:11:14Z | 7.5X Host Exploit - Jun 03,2021 Exploit (Imitate legit network traffic before exploit) | https://github.com/Night-King-Host/75XV3b6 | 0 | 0| 
-| 20210807T01:11:00Z | 7.5x FW Exploit (Exploit Date: May 27th, 2021) | https://github.com/Night-King-Host/75XV3b5 | 0 | 0| 
-| 20210807T01:10:30Z | 7.5X Exploit FW (May 2nd, 2021) Exploit | https://github.com/Night-King-Host/75XV3b3 | 0 | 0| 
-| 20210807T01:10:08Z | PS4 7.5X Host Exploit (Reduce sleeps in jb.c to speed up) | https://github.com/Night-King-Host/75XV3b2 | 0 | 0| 
-| 20210807T01:09:48Z | PS4 7.5X Exploit Host (Initial Jailbreak Release) | https://github.com/Night-King-Host/75XV3b1 | 0 | 0| 
-| 20210807T01:07:13Z | Roblox Exploit UI: Frostware X | https://github.com/09Shahin/Frostware | 0 | 0| 
-| 20210807T01:03:10Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
+| 20210807T11:58:45Z | Collection of docker images to be used for exploit development and testing | https://github.com/mishrasunny174/pwn-docker | 8 | 2| 
+| 20210807T11:39:09Z | Key System | https://github.com/jareer12/sky-exploits-web | 1 | 0| 
+| 20210807T11:36:23Z | Multi camera gathering and exploiting tool | https://github.com/M0tHs3C/Argo | 29 | 14| 
+| 20210807T11:34:01Z | Security programas | https://github.com/lfntchagas/security-exploits | 0 | 0| 
+| 20210807T11:02:57Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
+| 20210807T10:48:20Z | Thi powershell script has got to run in remote hacked windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 6 | 1| 
+| 20210807T10:12:02Z | Null | https://github.com/DK9510/web-app-exploitation | 11 | 0| 
+| 20210807T10:01:38Z | Null | https://github.com/kienquoc102/Netwave-GoAhead-Exploits | 1 | 1| 
+| 20210807T09:41:33Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
+| 20210807T09:29:16Z | Octagon is a fully fledged modular server sided anti exploit designed to detect many exploits reliably without interrupting user experience.  | https://github.com/SilentsReplacement/Octagon | 1 | 1| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210807T11:07:17Z | Null | https://github.com/EjHvorSerDuVildUdJim/backdoor | 0 | 0| 
+| 20210807T10:46:14Z | This tool gives developers, researchers and companies the ability to analyze software packages of different programming languages that are being or will be used in their codes, providing information that allows them to know in advance if this library complies with processes. secure development, if currently supported, possible backdoors (malicious embedded code), typosquatting analysis, the history of versions and reported vulnerabilities (CVEs) of the package. | https://github.com/Telefonica/packagedna | 3 | 0| 
+| 20210807T10:36:09Z | Uses Apple%s MDM protocol to backdoor a device with a malicious profile. | https://github.com/MythicAgents/orthrus | 11 | 4| 
+| 20210807T10:07:12Z | 🤖An Evil and Smart Bot for Enslaving Windows Written in Rust and Python | https://github.com/wildonion/katyusha | 3 | 1| 
+| 20210807T09:02:59Z | POC for RCE backdoor in PHP 8.1.0 | https://github.com/vida00/Backdoor-PHP8.1.0 | 0 | 0| 
+| 20210807T08:26:42Z | Smooth penetration, more control, better speed and performance. ^_^ blackdoor | https://github.com/s3q/blackdoor | 1 | 0| 
+| 20210807T07:15:17Z | Null | https://github.com/FierzaEriez/Mini-Shell-Backdoor | 1 | 1| 
 | 20210807T00:51:02Z | Welcome to RoSEC Security, a highly advanced security suite to protect your Roblox games from the newest threats, backdoors, and server-sided exploits. | https://github.com/Revoxelizer/RoSEC-Security | 0 | 0| 
-| 20210807T00:42:41Z | Null | https://github.com/FierzaEriez/Mini-Shell-Backdoor | 1 | 1| 
-| 20210807T00:33:55Z | Uses Apple%s MDM protocol to backdoor a device with a malicious profile. | https://github.com/MythicAgents/orthrus | 10 | 2| 
-| 20210806T20:09:06Z | This tool gives developers, researchers and companies the ability to analyze software packages of different programming languages that are being or will be used in their codes, providing information that allows them to know in advance if this library complies with processes. secure development, if currently supported, possible backdoors (malicious embedded code), typosquatting analysis, the history of versions and reported vulnerabilities (CVEs) of the package. | https://github.com/Telefonica/packagedna | 1 | 0| 
 | 20210806T18:55:32Z | a simple backdoor in Nim | https://github.com/kensh1ro/NimTeleBackdoor | 11 | 1| 
 | 20210806T17:48:15Z | A webshell that can bypass some system security | https://github.com/22XploiterCrew-Team/Gel4y-Mini-Shell-Backdoor | 4 | 5| 
-| 20210806T16:35:39Z | 去掉获取系统信息回传到www.shack2.org的工具 | https://github.com/NS-Sp4ce/Shack2ToolsWithoutBackdoor | 7 | 1| 
-| 20210806T15:52:58Z | Huawei HG8245 backdoor and remote access | https://github.com/HAPPILY333/hack-router | 0 | 0| 
-| 20210806T15:28:12Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 36 | 27| 
-| 20210806T15:25:13Z | Null | https://github.com/EjHvorSerDuVildUdJim/backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -135,16 +135,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210807T01:54:59Z | Formal verification and fuzzing of Nova with DappTools. | https://github.com/Rari-Capital/nova-invariants | 1 | 0| 
-| 20210807T01:47:33Z | Fuzzy matcher for ddc.vim | https://github.com/matsui54/ddc-matcher_fuzzy | 2 | 0| 
-| 20210807T01:36:54Z | Null | https://github.com/lzhfromustc/goFuzz | 0 | 0| 
-| 20210807T01:27:11Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210807T01:18:32Z | Poke-a-square | https://github.com/nataliesmyth/fuzzy-octo-memory | 0 | 0| 
-| 20210807T01:06:46Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1947 | 387| 
-| 20210807T00:38:05Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6538 | 1333| 
-| 20210807T00:04:18Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 21 | 9| 
-| 20210806T23:59:38Z | Null | https://github.com/Vincebye/FuzzingD | 0 | 0| 
-| 20210806T22:57:59Z | JQF + Zest: Coverage-guided semantic fuzzing for Java. | https://github.com/rohanpadhye/JQF | 387 | 56| 
+| 20210807T11:54:48Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 515 | 48| 
+| 20210807T11:31:14Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20210807T10:54:21Z | 开源、轻量、快速、跨平台 的红队(redteam)外网打点扫描器，功能 端口扫描(port scan) 指纹识别(fingerprint) nday检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | 16 | 5| 
+| 20210807T10:24:32Z | This is an implementation for parking a car at a specific angle and location using fuzzy logic and fuzzy rules | https://github.com/alizindari/Fuzzy-controller-for-parking-car | 0 | 0| 
+| 20210807T10:18:45Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
+| 20210807T09:57:46Z | Im noob | https://github.com/ARIEZ-911/fuzzy-parakeete | 0 | 0| 
+| 20210807T09:43:52Z | A Codice Fiscale Generator | https://github.com/tonyarris/codice-fuzzcale | 1 | 0| 
+| 20210807T09:43:39Z | ruby binary for  enumeration fuzzing | https://github.com/Madhava-mng/m4dh4v45b1n | 2 | 0| 
+| 20210807T09:15:13Z | PostgreSQL extension supports searching full text using Levenshtein Distance | https://github.com/shanenoi/fuzzering | 1 | 0| 
+| 20210807T08:59:51Z | Null | https://github.com/leadmeout/fuzzy-octo-potato | 0 | 0| 
 
 
 
