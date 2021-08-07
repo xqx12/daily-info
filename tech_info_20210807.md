@@ -20,7 +20,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210807T08:43:21Z | CVE-2021-3156 | Null | https://github.com/CyberCommands/CVE-2021-3156 | | 
+| 20210807T08:43:21Z | CVE-2021-3156 | Null | https://github.com/CyberCommands/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 
 
 # klee on Github 推荐
@@ -38,6 +38,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210807T12:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9826 | 1624| 
 | 20210807T12:26:09Z | Basic projects | https://github.com/sngrotesque/Exploit_Vulnerability_discovery | 0 | 0| 
 | 20210807T12:02:59Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210807T11:58:45Z | Collection of docker images to be used for exploit development and testing | https://github.com/mishrasunny174/pwn-docker | 8 | 2| 
@@ -47,7 +48,6 @@
 | 20210807T10:48:20Z | Thi powershell script has got to run in remote hacked windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 6 | 1| 
 | 20210807T10:12:02Z | Null | https://github.com/DK9510/web-app-exploitation | 11 | 0| 
 | 20210807T10:01:38Z | Null | https://github.com/kienquoc102/Netwave-GoAhead-Exploits | 1 | 1| 
-| 20210807T09:41:33Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
 
 
 # backdoor on Github 推荐
