@@ -20,7 +20,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210807T08:43:21Z | CVE-2021-3156 | Null | https://github.com/CyberCommands/CVE-2021-3156 | | 
+| 20210807T08:43:21Z | CVE-2021-3156 | Null | https://github.com/CyberCommands/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 
 
 # klee on Github 推荐
