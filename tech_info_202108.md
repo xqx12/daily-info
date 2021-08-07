@@ -53,7 +53,7 @@
 | 20210806T10:23:26Z | CVE-2021-36934 | SeriousSAM Auto Exploiter | https://github.com/websecnl/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
 | 20210806T09:40:01Z | CVE-2021-38149 | Chikitsa Patient Management System Stored Cross-Site Scripting (XSS) | https://github.com/jboogie15/CVE-2021-38149 | index.php/admin/add_user in Chikitsa Patient Management System 2.0.0 allows XSS.| 
 | 20210805T14:25:24Z | CVE-2021-22204 | Null | https://github.com/PenTestical/CVE-2021-22204 | Improper neutralization of user data in the DjVu file format in ExifTool versions 7.44 and up allows arbitrary code execution when parsing the malicious image| 
-| 20210805T09:35:54Z | CVE-2021-3492 | PoC for CVE-2021-3492 used at Pwn2Own 2021 | https://github.com/synacktiv/CVE-2021-3492 | | 
+| 20210805T09:35:54Z | CVE-2021-3492 | PoC for CVE-2021-3492 used at Pwn2Own 2021 | https://github.com/synacktiv/CVE-2021-3492 | Shiftfs, an out-of-tree stacking file system included in Ubuntu Linux kernels, did not properly handle faults occurring during copy_from_user() correctly. These could lead to either a double-free situation or memory not being freed at all. An attacker could use this to cause a denial of service (kernel memory exhaustion) or gain privileges via executing arbitrary code. AKA ZDI-CAN-13562.| 
 | 20210805T08:47:22Z | CVE-2021-1675 | see https://github.com/cube0x0/CVE-2021-1675 | https://github.com/hahaleyile/my-CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210805T06:47:50Z | CVE-2021-10086 | Null | https://github.com/Mochican/CVE-2021-10086 | 未查询到CVE信息| 
 
@@ -82,11 +82,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210807T12:02:59Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210807T11:58:45Z | Collection of docker images to be used for exploit development and testing | https://github.com/mishrasunny174/pwn-docker | 8 | 2| 
 | 20210807T11:39:09Z | Key System | https://github.com/jareer12/sky-exploits-web | 1 | 0| 
 | 20210807T11:36:23Z | Multi camera gathering and exploiting tool | https://github.com/M0tHs3C/Argo | 29 | 14| 
 | 20210807T11:34:01Z | Security programas | https://github.com/lfntchagas/security-exploits | 0 | 0| 
-| 20210807T11:02:57Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210807T10:48:20Z | Thi powershell script has got to run in remote hacked windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 6 | 1| 
 | 20210807T10:12:02Z | Null | https://github.com/DK9510/web-app-exploitation | 11 | 0| 
 | 20210807T10:01:38Z | Null | https://github.com/kienquoc102/Netwave-GoAhead-Exploits | 1 | 1| 
