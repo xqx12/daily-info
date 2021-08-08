@@ -82,16 +82,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210808T01:08:51Z | PoC for exploiting CVE-2020-27153 : In BlueZ before 5.55, a double free was found in the gatttool disconnect_cb() routine from shared/att.c. A remote attacker could potentially cause a denial of service or code execution, during service discovery, due to a redundant disconnect MGMT event. | https://github.com/AlAIAL90/CVE-2020-27153 | 0 | 0| 
+| 20210808T01:08:51Z | PoC for exploiting CVE-2020-26558 : Bluetooth LE and BR/EDR secure pairing in Bluetooth Core Specification 2.1 through 5.2 may permit a nearby man-in-the-middle attacker to identify the Passkey used during pairing (in the Passkey authentication procedure) by reflection of the public key and the authentication evidence of the initiating device, potentially permitting this attacker to complete authenticated pairing with the responding device using the correct Passkey for the pairing session. The attack methodology determines the Passkey value one bit at a time. | https://github.com/AlAIAL90/CVE-2020-26558 | 0 | 0| 
+| 20210808T01:08:46Z | PoC for exploiting CVE-2021-0129 : Improper access control in BlueZ may allow an authenticated user to potentially enable information disclosure via adjacent access. | https://github.com/AlAIAL90/CVE-2021-0129 | 0 | 0| 
+| 20210808T01:08:13Z | Predicting weekly sales for Retail store chain by exploiting local attributes using Machine Learning | https://github.com/mayankaroranew/US-Retail-ML | 0 | 0| 
 | 20210808T01:02:59Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210808T01:02:11Z | Clouddefense.ai is an automated web application security testing tool that audits your web applications by checking for vulnerabilities like SQL Injection, Cross site scripting and other exploitable vulnerabilities. | https://github.com/CloudDefenseAI/cd | 11 | 1| 
 | 20210808T00:59:27Z | Zuthaka is an open source application designed to assist red-teaming efforts, by simplifying the task of managing different APTs and other post-exploitation tools.  | https://github.com/pucarasec/zuthaka | 30 | 2| 
 | 20210808T00:48:10Z | ACE poc exploit for glibc cpio 2.13 through mmap chunk metadata curruption (CVE-2021-38185) | https://github.com/fangqyi/cpiopwn | 0 | 0| 
 | 20210808T00:45:04Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 24 | 5| 
 | 20210808T00:42:32Z | Exploit for Es File Explorer <= 4.1.9.7.4 | https://github.com/c0rnf13ld/Es-File-Explorer-Exploit | 0 | 0| 
-| 20210808T00:26:40Z | 0DAY EXPLOIT | https://github.com/SleepTheGod/0day | 0 | 0| 
-| 20210807T22:50:38Z | Null | https://github.com/Buster-2002/Discord-Exploit | 0 | 1| 
-| 20210807T22:38:50Z | Exploit para vulnerabilidade de sqli no Drupal 7.0 < 7.31 | https://github.com/Black-Catx/Drupal-Exploit | 0 | 0| 
-| 20210807T22:24:33Z | bad robox ui lib | https://github.com/ceat-ceat/ScriptPanelv2 | 0 | 1| 
 
 
 # backdoor on Github 推荐
