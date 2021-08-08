@@ -74,6 +74,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210808T12:57:33Z | Null | https://github.com/syi07030/incognito-project_web-fuzzing | 0 | 0| 
 | 20210808T12:50:12Z | Null | https://github.com/bartfish/FuzzyKSQL | 1 | 0| 
 | 20210808T12:15:09Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 21 | 9| 
 | 20210808T12:02:48Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
@@ -83,7 +84,6 @@
 | 20210808T11:22:43Z | An implementation of Fuzzy-c-Means Algorithm like described in the wikipedia page (https://de.wikipedia.org/wiki/Fuzzy-c-Means-Algorithmus) | https://github.com/munat1/fuzzy-c-means | 0 | 0| 
 | 20210808T11:21:29Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 6 | 0| 
 | 20210808T11:21:12Z | Poke-a-square | https://github.com/nataliesmyth/fuzzy-octo-memory | 0 | 0| 
-| 20210808T10:32:05Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
 
 
 
