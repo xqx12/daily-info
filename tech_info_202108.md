@@ -135,6 +135,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210808T00:05:01Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 21 | 9| 
 | 20210807T23:32:14Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210807T22:59:13Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 4930 | 574| 
 | 20210807T22:50:40Z | Null | https://github.com/GeorgeOgeorge/fuzzy_eaj | 0 | 0| 
@@ -144,7 +145,6 @@
 | 20210807T20:00:41Z | MATLAB code for the paper titled %A Self-Adaptive Fuzzy Learning System for Streaming Data Prediction%. | https://github.com/Gu-X/Self-Adaptive-Fuzzy-Learning-System | 0 | 0| 
 | 20210807T19:29:41Z | Null | https://github.com/mogg411/fuzzy-octo-guacamole | 0 | 0| 
 | 20210807T18:55:42Z | Fuzzy: contains code for a Fuzzy Engine and a Dynamical Systems Simulator (DySySim). | https://github.com/josokw/Fuzzy | 2 | 0| 
-| 20210807T18:23:54Z | Null | https://github.com/lzhfromustc/goFuzz | 0 | 0| 
 
 
 
