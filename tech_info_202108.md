@@ -135,6 +135,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210808T01:32:36Z | repo of scripts | https://github.com/johanvargas/fuzzy-projects | 0 | 0| 
 | 20210808T01:32:28Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210808T00:21:18Z | Null | https://github.com/audravolk/fuzzbois | 0 | 0| 
 | 20210808T00:05:01Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 21 | 9| 
@@ -144,7 +145,6 @@
 | 20210807T20:46:12Z | Null | https://github.com/iolson/fuzzyhat-nfts | 0 | 0| 
 | 20210807T20:43:05Z | A Codice Fiscale Generator | https://github.com/tonyarris/codice-fuzzcale | 1 | 0| 
 | 20210807T20:00:41Z | MATLAB code for the paper titled %A Self-Adaptive Fuzzy Learning System for Streaming Data Prediction%. | https://github.com/Gu-X/Self-Adaptive-Fuzzy-Learning-System | 0 | 0| 
-| 20210807T19:29:41Z | Null | https://github.com/mogg411/fuzzy-octo-guacamole | 0 | 0| 
 
 
 
