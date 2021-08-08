@@ -74,6 +74,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210808T12:02:48Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210808T11:51:31Z | 开源、轻量、快速、跨平台 的红队(redteam)外网打点扫描器，功能 端口扫描(port scan) 指纹识别(fingerprint) nday检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | 16 | 5| 
 | 20210808T11:48:00Z | Rough Pythagorean Fuzzy TOPSIS algorithm for criteria weight calculations. | https://github.com/ahmetoztel/Rough-Pythagorean-Fuzzy-TOPSIS | 0 | 0| 
 | 20210808T11:29:36Z | Null | https://github.com/JjnnKsha/fuzzy-invention | 0 | 0| 
@@ -82,7 +83,6 @@
 | 20210808T11:21:12Z | Poke-a-square | https://github.com/nataliesmyth/fuzzy-octo-memory | 0 | 0| 
 | 20210808T10:32:05Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
 | 20210808T10:02:57Z | A collection of user-space Linux kernel specific guided fuzzers based on LKL | https://github.com/atrosinenko/kbdysch | 53 | 7| 
-| 20210808T10:01:55Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210808T09:38:20Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 
 
