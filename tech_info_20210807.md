@@ -80,7 +80,6 @@
 | 20210807T22:58:54Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 450 | 68| 
 | 20210807T20:35:57Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 7 | 4| 
 | 20210807T15:48:09Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1743 | 500| 
-| 20210807T10:55:07Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1866 | 388| 
 | 20210807T04:08:43Z | A tool for generating nonlinear numerical invariants for C and Java programs.  DIG uses dynamic analysis to infer invariants over program execution traces and applies symbolic execution to inferred invariants. | https://github.com/unsat/dig | 4 | 4| 
 
 
