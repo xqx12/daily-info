@@ -47,7 +47,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210808T01:30:27Z | CVE-2020-27153 | PoC for exploiting CVE-2020-27153 : In BlueZ before 5.55, a double free was found in the gatttool disconnect_cb() routine from shared/att.c. A remote attacker could potentially cause a denial of service or code execution, during service discovery, due to a redundant disconnect MGMT event. | https://github.com/AlAIAL90/CVE-2020-27153 | In BlueZ before 5.55, a double free was found in the gatttool disconnect_cb() routine from shared/att.c. A remote attacker could potentially cause a denial of service or code execution, during service discovery, due to a redundant disconnect MGMT event.| 
-| 20210808T01:30:23Z | CVE-2020-26558 | PoC for exploiting CVE-2020-26558 : Bluetooth LE and BR/EDR secure pairing in Bluetooth Core Specification 2.1 through 5.2 may permit a nearby man-in-the-middle attacker to identify the Passkey used during pairing (in the Passkey authentication procedure) by reflection of the public key and the authentication evidence of the initiating device, potentially permitting this attacker to complete authenticated pairing with the responding device using the correct Passkey for the pairing session. The attack methodology determines the Passkey value one bit at a time. | https://github.com/AlAIAL90/CVE-2020-26558 | | 
+| 20210808T01:30:23Z | CVE-2020-26558 | PoC for exploiting CVE-2020-26558 : Bluetooth LE and BR/EDR secure pairing in Bluetooth Core Specification 2.1 through 5.2 may permit a nearby man-in-the-middle attacker to identify the Passkey used during pairing (in the Passkey authentication procedure) by reflection of the public key and the authentication evidence of the initiating device, potentially permitting this attacker to complete authenticated pairing with the responding device using the correct Passkey for the pairing session. The attack methodology determines the Passkey value one bit at a time. | https://github.com/AlAIAL90/CVE-2020-26558 | Bluetooth LE and BR/EDR secure pairing in Bluetooth Core Specification 2.1 through 5.2 may permit a nearby man-in-the-middle attacker to identify the Passkey used during pairing (in the Passkey authentication procedure) by reflection of the public key and the authentication evidence of the initiating device, potentially permitting this attacker to complete authenticated pairing with the responding device using the correct Passkey for the pairing session. The attack methodology determines the Passkey value one bit at a time.| 
 | 20210808T01:30:19Z | CVE-2021-0129 | PoC for exploiting CVE-2021-0129 : Improper access control in BlueZ may allow an authenticated user to potentially enable information disclosure via adjacent access. | https://github.com/AlAIAL90/CVE-2021-0129 | Improper access control in BlueZ may allow an authenticated user to potentially enable information disclosure via adjacent access.| 
 | 20210807T20:08:18Z | CVE-2021-31799 | PoC for exploiting CVE-2021-31799 : In RDoc 3.11 through 6.x before 6.3.1, as distributed with Ruby through 3.0.1, it is possible to execute arbitrary code via , and tags in a filename. | https://github.com/AlAIAL90/CVE-2021-31799 | In RDoc 3.11 through 6.x before 6.3.1, as distributed with Ruby through 3.0.1, it is possible to execute arbitrary code via , and tags in a filename.| 
 | 20210807T20:08:14Z | CVE-2021-20786 | PoC for exploiting CVE-2021-20786 : Cross-site request forgery (CSRF) vulnerability in GroupSession (GroupSession Free edition from ver2.2.0 to the version prior to ver5.1.0, GroupSession byCloud from ver3.0.3 to the version prior to ver5.1.0, and GroupSession ZION from ver3.0.3 to the version prior to ver5.1.0) allows a remote attacker to hijack the authentication of administrators via a specially crafted URL. | https://github.com/AlAIAL90/CVE-2021-20786 | Cross-site request forgery (CSRF) vulnerability in GroupSession (GroupSession Free edition from ver2.2.0 to the version prior to ver5.1.0, GroupSession byCloud from ver3.0.3 to the version prior to ver5.1.0, and GroupSession ZION from ver3.0.3 to the version prior to ver5.1.0) allows a remote attacker to hijack the authentication of administrators via a specially crafted URL.| 
@@ -61,16 +61,16 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210808T10:55:53Z | klee+nme for user space aeg | https://github.com/jqhong/klee-nme-aeg | 1 | 0| 
+| 20210808T06:49:53Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2527 | 60| 
+| 20210808T02:46:08Z | Null | https://github.com/JaimePSantos/ResearchKlee | 0 | 0| 
 | 20210807T15:06:10Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 147 | 22| 
-| 20210807T14:32:44Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2524 | 60| 
 | 20210807T03:23:16Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 219 | 35| 
 | 20210806T17:13:05Z | Izrada novih algoritama za pretragu u okvriu alata za simboličko izvršavanje KLEE | https://github.com/MATF-Software-Verification/2020_03_Klee_Searcher | 0 | 0| 
 | 20210806T16:45:18Z | Null | https://github.com/BertKleewein/BertKleewein.github.io | 0 | 0| 
 | 20210806T12:47:50Z | Null | https://github.com/vitaliiomelchenko/kleene | 0 | 0| 
-| 20210806T11:31:30Z | klee+nme for user space aeg | https://github.com/jqhong/klee-nme-aeg | 1 | 0| 
 | 20210806T10:29:20Z | Null | https://github.com/pansilup/cgc-prgs-for-klee-seed-mode | 0 | 0| 
 | 20210805T21:16:54Z | Null | https://github.com/thierry-tct/KLEE-SEMu | 3 | 2| 
-| 20210805T17:06:55Z | Null | https://github.com/santiagoHV/kleer-dojo-assessment-backend | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -82,31 +82,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210808T01:30:27Z | PoC for exploiting CVE-2020-27153 : In BlueZ before 5.55, a double free was found in the gatttool disconnect_cb() routine from shared/att.c. A remote attacker could potentially cause a denial of service or code execution, during service discovery, due to a redundant disconnect MGMT event. | https://github.com/AlAIAL90/CVE-2020-27153 | 0 | 0| 
-| 20210808T01:30:23Z | PoC for exploiting CVE-2020-26558 : Bluetooth LE and BR/EDR secure pairing in Bluetooth Core Specification 2.1 through 5.2 may permit a nearby man-in-the-middle attacker to identify the Passkey used during pairing (in the Passkey authentication procedure) by reflection of the public key and the authentication evidence of the initiating device, potentially permitting this attacker to complete authenticated pairing with the responding device using the correct Passkey for the pairing session. The attack methodology determines the Passkey value one bit at a time. | https://github.com/AlAIAL90/CVE-2020-26558 | 0 | 0| 
-| 20210808T01:30:19Z | PoC for exploiting CVE-2021-0129 : Improper access control in BlueZ may allow an authenticated user to potentially enable information disclosure via adjacent access. | https://github.com/AlAIAL90/CVE-2021-0129 | 0 | 0| 
-| 20210808T01:19:16Z | Fix exploits on anarchy minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 62 | 17| 
-| 20210808T01:15:48Z | Predicting weekly sales for Retail store chain by exploiting local attributes using Machine Learning | https://github.com/mayankaroranew/US-Retail-ML | 0 | 0| 
-| 20210808T01:02:59Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
-| 20210808T01:02:11Z | Clouddefense.ai is an automated web application security testing tool that audits your web applications by checking for vulnerabilities like SQL Injection, Cross site scripting and other exploitable vulnerabilities. | https://github.com/CloudDefenseAI/cd | 11 | 1| 
-| 20210808T00:59:27Z | Zuthaka is an open source application designed to assist red-teaming efforts, by simplifying the task of managing different APTs and other post-exploitation tools.  | https://github.com/pucarasec/zuthaka | 30 | 2| 
-| 20210808T00:48:10Z | ACE poc exploit for glibc cpio 2.13 through mmap chunk metadata curruption (CVE-2021-38185) | https://github.com/fangqyi/cpiopwn | 0 | 0| 
-| 20210808T00:45:04Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 24 | 5| 
+| 20210808T11:13:36Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 74 | 31| 
+| 20210808T11:02:51Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
+| 20210808T10:13:48Z | Me exploiting my js knowledge to create hell | https://github.com/SMOLKEYS/cursed-turrets-js | 0 | 0| 
+| 20210808T08:45:15Z | Automatic Exploit Generation Paper | https://github.com/hjyuan/AEGPaper | 0 | 0| 
+| 20210808T08:39:33Z | Target domain information exploits | https://github.com/SivaPrakasam7/ISPLOIT | 0 | 0| 
+| 20210808T08:10:03Z | Cloud backup of exploitation scripts for recycling. | https://github.com/gister9000/skeletons | 0 | 0| 
+| 20210808T07:38:54Z | Prototype Pollution exploits collection | https://github.com/Kirill89/prototype-pollution-exploits | 14 | 3| 
+| 20210808T07:34:03Z | In this project, you will: (1) Deploy and assess a simple web application environment’s security posture (2) Test the security of the environment by simulating attack scenarios and exploiting cloud configuration vulnerabilities (3) Implement monitoring to identify insecure configurations and malicious activity (4) Apply methods learned in the course to harden and secure the environment (5) Design a DevSecOps pipeline | https://github.com/wfs/cloud-architect-aws-project-3-security | 0 | 0| 
+| 20210808T07:32:46Z | Android RAT with web panel and undetectable App | https://github.com/Th30neAnd0nly/Ohm | 34 | 13| 
+| 20210808T07:28:03Z | Octagon is a fully fledged modular server sided anti exploit designed to detect many exploits reliably without interrupting user experience.  | https://github.com/SilentsReplacement/Octagon | 2 | 1| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210807T21:06:33Z | This tool gives developers, researchers and companies the ability to analyze software packages of different programming languages that are being or will be used in their codes, providing information that allows them to know in advance if this library complies with processes. secure development, if currently supported, possible backdoors (malicious embedded code), typosquatting analysis, the history of versions and reported vulnerabilities (CVEs) of the package. | https://github.com/Telefonica/packagedna | 5 | 0| 
+| 20210808T08:57:40Z | A webshell that can bypass some system security | https://github.com/22XploiterCrew-Team/Gel4y-Mini-Shell-Backdoor | 5 | 5| 
+| 20210808T08:47:09Z | This tool gives developers, researchers and companies the ability to analyze software packages of different programming languages that are being or will be used in their codes, providing information that allows them to know in advance if this library complies with processes. secure development, if currently supported, possible backdoors (malicious embedded code), typosquatting analysis, the history of versions and reported vulnerabilities (CVEs) of the package. | https://github.com/Telefonica/packagedna | 6 | 1| 
+| 20210808T08:32:39Z | Python3 backdoor for windows! | https://github.com/hirusha-adi/backdoor | 0 | 0| 
+| 20210808T08:21:38Z | OWASP ZAP add-on containing the web-backdoors and attack files from FuzzDB | https://github.com/zaproxy/fuzzdb-offensive | 6 | 6| 
+| 20210808T07:48:51Z | This backdoor can download and upload files execute programs in the victim machine and has full persistance. | https://github.com/ktDutt/Backdoor | 0 | 0| 
+| 20210808T06:26:55Z | Null | https://github.com/HarrialX/GraphBackdoor | 0 | 0| 
 | 20210807T20:54:07Z | Uses Apple%s MDM protocol to backdoor a device with a malicious profile. | https://github.com/MythicAgents/orthrus | 14 | 4| 
 | 20210807T19:15:36Z | This backdoor can download and upload files execute programs in the victim machine and has full persistance. | https://github.com/K5e6Dtt/Backdoor | 0 | 0| 
 | 20210807T15:35:08Z | Smooth penetration, more control, better speed and performance. ^_^ blackdoor | https://github.com/s3q/blackdoor | 2 | 0| 
 | 20210807T14:25:46Z | 🤖An Evil and Smart Bot for Enslaving Windows Written in Rust and Python | https://github.com/wildonion/katyusha | 3 | 1| 
-| 20210807T11:07:17Z | Null | https://github.com/EjHvorSerDuVildUdJim/backdoor | 0 | 0| 
-| 20210807T09:02:59Z | POC for RCE backdoor in PHP 8.1.0 | https://github.com/vida00/Backdoor-PHP8.1.0 | 0 | 0| 
-| 20210807T07:15:17Z | Null | https://github.com/FierzaEriez/Mini-Shell-Backdoor | 1 | 1| 
-| 20210807T00:51:02Z | Welcome to RoSEC Security, a highly advanced security suite to protect your Roblox games from the newest threats, backdoors, and server-sided exploits. | https://github.com/Revoxelizer/RoSEC-Security | 0 | 0| 
-| 20210806T18:55:32Z | a simple backdoor in Nim | https://github.com/kensh1ro/NimTeleBackdoor | 11 | 1| 
 
 
 # symbolic execution on Github 推荐
@@ -135,16 +135,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210808T01:58:45Z | Null | https://github.com/audravolk/fuzzbois | 0 | 0| 
-| 20210808T01:47:31Z | Null | https://github.com/worakritsoo/fuzzy-robot | 0 | 0| 
-| 20210808T01:32:36Z | repo of scripts | https://github.com/johanvargas/fuzzy-projects | 0 | 0| 
-| 20210808T01:32:28Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210808T00:05:01Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 21 | 9| 
-| 20210807T22:59:13Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 4930 | 574| 
-| 20210807T22:50:40Z | Null | https://github.com/GeorgeOgeorge/fuzzy_eaj | 0 | 0| 
-| 20210807T21:53:33Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
-| 20210807T20:46:12Z | Null | https://github.com/iolson/fuzzyhat-nfts | 0 | 0| 
-| 20210807T20:43:05Z | A Codice Fiscale Generator | https://github.com/tonyarris/codice-fuzzcale | 1 | 0| 
+| 20210808T11:51:31Z | 开源、轻量、快速、跨平台 的红队(redteam)外网打点扫描器，功能 端口扫描(port scan) 指纹识别(fingerprint) nday检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | 16 | 5| 
+| 20210808T11:48:00Z | Rough Pythagorean Fuzzy TOPSIS algorithm for criteria weight calculations. | https://github.com/ahmetoztel/Rough-Pythagorean-Fuzzy-TOPSIS | 0 | 0| 
+| 20210808T11:29:36Z | Null | https://github.com/JjnnKsha/fuzzy-invention | 0 | 0| 
+| 20210808T11:22:43Z | An implementation of Fuzzy-c-Means Algorithm like described in the wikipedia page (https://de.wikipedia.org/wiki/Fuzzy-c-Means-Algorithmus) | https://github.com/munat1/fuzzy-c-means | 0 | 0| 
+| 20210808T11:21:29Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 6 | 0| 
+| 20210808T11:21:12Z | Poke-a-square | https://github.com/nataliesmyth/fuzzy-octo-memory | 0 | 0| 
+| 20210808T10:32:05Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
+| 20210808T10:02:57Z | A collection of user-space Linux kernel specific guided fuzzers based on LKL | https://github.com/atrosinenko/kbdysch | 53 | 7| 
+| 20210808T10:01:55Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20210808T09:38:20Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 
 
 
