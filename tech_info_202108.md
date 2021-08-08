@@ -135,7 +135,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210808T01:44:29Z | Null | https://github.com/worakritsoo/fuzzy-robot | 0 | 0| 
+| 20210808T01:47:31Z | Null | https://github.com/worakritsoo/fuzzy-robot | 0 | 0| 
 | 20210808T01:32:36Z | repo of scripts | https://github.com/johanvargas/fuzzy-projects | 0 | 0| 
 | 20210808T01:32:28Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210808T00:21:18Z | Null | https://github.com/audravolk/fuzzbois | 0 | 0| 
