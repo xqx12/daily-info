@@ -16,7 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210808T01:30:27Z | CVE-2020-27153 | PoC for exploiting CVE-2020-27153 : In BlueZ before 5.55, a double free was found in the gatttool disconnect_cb() routine from shared/att.c. A remote attacker could potentially cause a denial of service or code execution, during service discovery, due to a redundant disconnect MGMT event. | https://github.com/AlAIAL90/CVE-2020-27153 | | 
+| 20210808T01:30:27Z | CVE-2020-27153 | PoC for exploiting CVE-2020-27153 : In BlueZ before 5.55, a double free was found in the gatttool disconnect_cb() routine from shared/att.c. A remote attacker could potentially cause a denial of service or code execution, during service discovery, due to a redundant disconnect MGMT event. | https://github.com/AlAIAL90/CVE-2020-27153 | In BlueZ before 5.55, a double free was found in the gatttool disconnect_cb() routine from shared/att.c. A remote attacker could potentially cause a denial of service or code execution, during service discovery, due to a redundant disconnect MGMT event.| 
 | 20210808T01:30:23Z | CVE-2020-26558 | PoC for exploiting CVE-2020-26558 : Bluetooth LE and BR/EDR secure pairing in Bluetooth Core Specification 2.1 through 5.2 may permit a nearby man-in-the-middle attacker to identify the Passkey used during pairing (in the Passkey authentication procedure) by reflection of the public key and the authentication evidence of the initiating device, potentially permitting this attacker to complete authenticated pairing with the responding device using the correct Passkey for the pairing session. The attack methodology determines the Passkey value one bit at a time. | https://github.com/AlAIAL90/CVE-2020-26558 | Bluetooth LE and BR/EDR secure pairing in Bluetooth Core Specification 2.1 through 5.2 may permit a nearby man-in-the-middle attacker to identify the Passkey used during pairing (in the Passkey authentication procedure) by reflection of the public key and the authentication evidence of the initiating device, potentially permitting this attacker to complete authenticated pairing with the responding device using the correct Passkey for the pairing session. The attack methodology determines the Passkey value one bit at a time.| 
 | 20210808T01:30:19Z | CVE-2021-0129 | PoC for exploiting CVE-2021-0129 : Improper access control in BlueZ may allow an authenticated user to potentially enable information disclosure via adjacent access. | https://github.com/AlAIAL90/CVE-2021-0129 | Improper access control in BlueZ may allow an authenticated user to potentially enable information disclosure via adjacent access.| 
 
@@ -37,6 +37,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210808T12:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9830 | 1625| 
 | 20210808T12:02:52Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210808T11:13:36Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 74 | 31| 
 | 20210808T10:13:48Z | Me exploiting my js knowledge to create hell | https://github.com/SMOLKEYS/cursed-turrets-js | 0 | 0| 
@@ -46,7 +47,6 @@
 | 20210808T07:38:54Z | Prototype Pollution exploits collection | https://github.com/Kirill89/prototype-pollution-exploits | 14 | 3| 
 | 20210808T07:34:03Z | In this project, you will: (1) Deploy and assess a simple web application environment’s security posture (2) Test the security of the environment by simulating attack scenarios and exploiting cloud configuration vulnerabilities (3) Implement monitoring to identify insecure configurations and malicious activity (4) Apply methods learned in the course to harden and secure the environment (5) Design a DevSecOps pipeline | https://github.com/wfs/cloud-architect-aws-project-3-security | 0 | 0| 
 | 20210808T07:32:46Z | Android RAT with web panel and undetectable App | https://github.com/Th30neAnd0nly/Ohm | 34 | 13| 
-| 20210808T07:28:03Z | Octagon is a fully fledged modular server sided anti exploit designed to detect many exploits reliably without interrupting user experience.  | https://github.com/SilentsReplacement/Octagon | 2 | 1| 
 
 
 # backdoor on Github 推荐
