@@ -6,6 +6,7 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210808 | 逆向工程课程资源集合，涵盖 x86、x64、32 位 ARM 和 64 位 ARM 架构学习资料。 | https://www.reddit.com/r/ReverseEngineering/comments/oxpzua/a_free_comprehensive_reverse_engineering_course/| 
 
 
 # 安全维基 推荐
@@ -16,16 +17,21 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210808T18:55:21Z | CVE-2021-32558 | PoC for exploiting CVE-2021-32558 : An issue was discovered in Sangoma Asterisk 13.x before 13.38.3, 16.x before 16.19.1, 17.x before 17.9.4, and 18.x before 18.5.1, and Certified Asterisk before 16.8-cert10. If the IAX2 channel driver receives a packet that contains an unsupported media format, a crash can occur. | https://github.com/AlAIAL90/CVE-2021-32558 | An issue was discovered in Sangoma Asterisk 13.x before 13.38.3, 16.x before 16.19.1, 17.x before 17.9.4, and 18.x before 18.5.1, and Certified Asterisk before 16.8-cert10. If the IAX2 channel driver receives a packet that contains an unsupported media format, a crash can occur.| 
+| 20210808T16:41:31Z | CVE-2021-2394 | Null | https://github.com/BabyTeam1024/CVE-2021-2394 | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Core). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via T3, IIOP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
+| 20210808T16:26:13Z | CVE-2020-36287 | The dashboard gadgets preference resource of the Atlassian gadgets plugin used in Jira Server and Jira Data Center before version 8.13.5, and from version 8.14.0 before version 8.15.1 allows remote anonymous attackers to obtain gadget related settings via a missing permissions check. | https://github.com/f4rber/CVE-2020-36287 | The dashboard gadgets preference resource of the Atlassian gadgets plugin used in Jira Server and Jira Data Center before version 8.13.5, and from version 8.14.0 before version 8.15.1 allows remote anonymous attackers to obtain gadget related settings via a missing permissions check.| 
 | 20210808T01:30:27Z | CVE-2020-27153 | PoC for exploiting CVE-2020-27153 : In BlueZ before 5.55, a double free was found in the gatttool disconnect_cb() routine from shared/att.c. A remote attacker could potentially cause a denial of service or code execution, during service discovery, due to a redundant disconnect MGMT event. | https://github.com/AlAIAL90/CVE-2020-27153 | In BlueZ before 5.55, a double free was found in the gatttool disconnect_cb() routine from shared/att.c. A remote attacker could potentially cause a denial of service or code execution, during service discovery, due to a redundant disconnect MGMT event.| 
-| 20210808T01:30:23Z | CVE-2020-26558 | PoC for exploiting CVE-2020-26558 : Bluetooth LE and BR/EDR secure pairing in Bluetooth Core Specification 2.1 through 5.2 may permit a nearby man-in-the-middle attacker to identify the Passkey used during pairing (in the Passkey authentication procedure) by reflection of the public key and the authentication evidence of the initiating device, potentially permitting this attacker to complete authenticated pairing with the responding device using the correct Passkey for the pairing session. The attack methodology determines the Passkey value one bit at a time. | https://github.com/AlAIAL90/CVE-2020-26558 | Bluetooth LE and BR/EDR secure pairing in Bluetooth Core Specification 2.1 through 5.2 may permit a nearby man-in-the-middle attacker to identify the Passkey used during pairing (in the Passkey authentication procedure) by reflection of the public key and the authentication evidence of the initiating device, potentially permitting this attacker to complete authenticated pairing with the responding device using the correct Passkey for the pairing session. The attack methodology determines the Passkey value one bit at a time.| 
+| 20210808T01:30:23Z | CVE-2020-26558 | PoC for exploiting CVE-2020-26558 : Bluetooth LE and BR/EDR secure pairing in Bluetooth Core Specification 2.1 through 5.2 may permit a nearby man-in-the-middle attacker to identify the Passkey used during pairing (in the Passkey authentication procedure) by reflection of the public key and the authentication evidence of the initiating device, potentially permitting this attacker to complete authenticated pairing with the responding device using the correct Passkey for the pairing session. The attack methodology determines the Passkey value one bit at a time. | https://github.com/AlAIAL90/CVE-2020-26558 | | 
 | 20210808T01:30:19Z | CVE-2021-0129 | PoC for exploiting CVE-2021-0129 : Improper access control in BlueZ may allow an authenticated user to potentially enable information disclosure via adjacent access. | https://github.com/AlAIAL90/CVE-2021-0129 | Improper access control in BlueZ may allow an authenticated user to potentially enable information disclosure via adjacent access.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210808T12:23:49Z | klee+nme for user space aeg | https://github.com/jqhong/klee-nme-aeg | 1 | 0| 
-| 20210808T06:49:53Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2527 | 60| 
+| 20210808T21:14:39Z | Null | https://github.com/adamhumphriescs/TASE_KLEE | 0 | 0| 
+| 20210808T15:25:44Z | klee+nme for user space aeg | https://github.com/jqhong/klee-nme-aeg | 1 | 0| 
+| 20210808T14:54:06Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 12 | 1| 
+| 20210808T14:30:26Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2530 | 60| 
 | 20210808T02:46:08Z | Null | https://github.com/JaimePSantos/ResearchKlee | 0 | 0| 
 
 
@@ -37,27 +43,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210808T12:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9830 | 1625| 
-| 20210808T12:02:52Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
-| 20210808T11:13:36Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 74 | 31| 
-| 20210808T10:13:48Z | Me exploiting my js knowledge to create hell | https://github.com/SMOLKEYS/cursed-turrets-js | 0 | 0| 
-| 20210808T08:45:15Z | Automatic Exploit Generation Paper | https://github.com/hjyuan/AEGPaper | 0 | 0| 
-| 20210808T08:39:33Z | Target domain information exploits | https://github.com/SivaPrakasam7/ISPLOIT | 0 | 0| 
-| 20210808T08:10:03Z | Cloud backup of exploitation scripts for recycling. | https://github.com/gister9000/skeletons | 0 | 0| 
-| 20210808T07:38:54Z | Prototype Pollution exploits collection | https://github.com/Kirill89/prototype-pollution-exploits | 14 | 3| 
-| 20210808T07:34:03Z | In this project, you will: (1) Deploy and assess a simple web application environment’s security posture (2) Test the security of the environment by simulating attack scenarios and exploiting cloud configuration vulnerabilities (3) Implement monitoring to identify insecure configurations and malicious activity (4) Apply methods learned in the course to harden and secure the environment (5) Design a DevSecOps pipeline | https://github.com/wfs/cloud-architect-aws-project-3-security | 0 | 0| 
-| 20210808T07:32:46Z | Android RAT with web panel and undetectable App | https://github.com/Th30neAnd0nly/Ohm | 34 | 13| 
+| 20210808T23:47:19Z | LBI based Roblox Exploit API (LBI base by deadlocust) | https://github.com/nuldylan/PenguinAPI | 0 | 0| 
+| 20210808T23:33:49Z | PoC exploits for software vulnerabilities | https://github.com/lockedbyte/CVE-Exploits | 608 | 131| 
+| 20210808T23:22:59Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | 0 | 0| 
+| 20210808T23:20:34Z | All the Lynx Exploits created - discontinued | https://github.com/pwdsec/Lynx-Exploit-DB | 0 | 0| 
+| 20210808T23:18:36Z | Exploit for the Brainpan machine Buffer Overflow vulnerability. | https://github.com/Xcatolin/VulnHub-Brainpan-BoF | 0 | 0| 
+| 20210808T23:18:30Z | Space to share xss vulnerabilities and knowledge of exploitation | https://github.com/ndanilo/xss-exploitation | 0 | 0| 
+| 20210808T23:11:45Z | Ipdetect is a tool with multiple functionalities ... still under development. With ipdetect you will be able to find vulnerabilities in a host being analyzed and exploit them later. | https://github.com/kanekorbs/ipdetect | 1 | 0| 
+| 20210808T23:03:02Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
+| 20210808T23:00:21Z | Null | https://github.com/vulsio/go-exploitdb | 118 | 35| 
+| 20210808T22:51:58Z | Exploit your way through trade tower | https://github.com/Zonxi/TradeTowerScript | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210808T08:57:40Z | A webshell that can bypass some system security | https://github.com/22XploiterCrew-Team/Gel4y-Mini-Shell-Backdoor | 5 | 5| 
-| 20210808T08:47:09Z | This tool gives developers, researchers and companies the ability to analyze software packages of different programming languages that are being or will be used in their codes, providing information that allows them to know in advance if this library complies with processes. secure development, if currently supported, possible backdoors (malicious embedded code), typosquatting analysis, the history of versions and reported vulnerabilities (CVEs) of the package. | https://github.com/Telefonica/packagedna | 6 | 1| 
-| 20210808T08:32:39Z | Python3 backdoor for windows! | https://github.com/hirusha-adi/backdoor | 0 | 0| 
-| 20210808T08:21:38Z | OWASP ZAP add-on containing the web-backdoors and attack files from FuzzDB | https://github.com/zaproxy/fuzzdb-offensive | 6 | 6| 
-| 20210808T07:48:51Z | This backdoor can download and upload files execute programs in the victim machine and has full persistance. | https://github.com/ktDutt/Backdoor | 0 | 0| 
-| 20210808T06:26:55Z | Null | https://github.com/HarrialX/GraphBackdoor | 0 | 0| 
+| 20210808T23:00:57Z | Null | https://github.com/HarrialX/GraphBackdoor | 1 | 0| 
+| 20210808T22:11:12Z | Null | https://github.com/guilhermeortolano/backdoor | 0 | 0| 
+| 20210808T19:53:58Z | Null | https://github.com/FierzaEriez/Mini-Shell-Backdoor | 1 | 1| 
+| 20210808T17:36:57Z | 🤖An Evil and Smart Bot for Enslaving Windows Written in Rust and Python | https://github.com/wildonion/katyusha | 3 | 1| 
+| 20210808T17:26:08Z | pybotnet -  Library for building botnet ,backdoor or trojan with Telegram control panel | https://github.com/onionj/pybotnet | 10 | 6| 
+| 20210808T16:32:28Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1247 | 590| 
+| 20210808T15:17:20Z | Null | https://github.com/Web-Hacker403/WebShell-Backdoor | 0 | 0| 
+| 20210808T15:05:21Z | Null | https://github.com/Web-Hacker403/shell-backdoor-list | 0 | 0| 
+| 20210808T15:03:46Z | Null | https://github.com/Web-Hacker403/WebShell-Backdoorv5 | 0 | 0| 
+| 20210808T14:56:02Z | Null | https://github.com/Web-Hacker403/PHP-backdoors | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -74,16 +84,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210808T12:57:33Z | Null | https://github.com/syi07030/incognito-project_web-fuzzing | 0 | 0| 
-| 20210808T12:50:12Z | Null | https://github.com/bartfish/FuzzyKSQL | 1 | 0| 
-| 20210808T12:15:09Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 21 | 9| 
-| 20210808T12:02:48Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210808T11:51:31Z | 开源、轻量、快速、跨平台 的红队(redteam)外网打点扫描器，功能 端口扫描(port scan) 指纹识别(fingerprint) nday检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | 16 | 5| 
-| 20210808T11:48:00Z | Rough Pythagorean Fuzzy TOPSIS algorithm for criteria weight calculations. | https://github.com/ahmetoztel/Rough-Pythagorean-Fuzzy-TOPSIS | 0 | 0| 
-| 20210808T11:29:36Z | Null | https://github.com/JjnnKsha/fuzzy-invention | 0 | 0| 
-| 20210808T11:22:43Z | An implementation of Fuzzy-c-Means Algorithm like described in the wikipedia page (https://de.wikipedia.org/wiki/Fuzzy-c-Means-Algorithmus) | https://github.com/munat1/fuzzy-c-means | 0 | 0| 
-| 20210808T11:21:29Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 6 | 0| 
-| 20210808T11:21:12Z | Poke-a-square | https://github.com/nataliesmyth/fuzzy-octo-memory | 0 | 0| 
+| 20210808T23:45:57Z | Null | https://github.com/Ubisam-Project-MASIDU/FuzzStoryWorld | 0 | 0| 
+| 20210808T23:25:00Z | Tutorials for my youtube page | https://github.com/FuzzySmurf/FuzzyTutorials | 0 | 0| 
+| 20210808T23:10:33Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 514 | 48| 
+| 20210808T22:49:10Z | Null | https://github.com/yanzhoupan/gen-fuzz | 2 | 0| 
+| 20210808T22:47:47Z | Null | https://github.com/leadmeout/fuzzy-octo-potato | 0 | 0| 
+| 20210808T22:31:31Z | Null | https://github.com/DanielEbert/EmulatedFirmwareFuzzing | 0 | 0| 
+| 20210808T21:33:56Z | Null | https://github.com/dannub/CarDetectionFuzzy | 0 | 0| 
+| 20210808T21:19:03Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
+| 20210808T20:14:33Z | Nero is an open source HTTP API fuzzer aiming to be easy to use and extend. | https://github.com/kandeh/nero-fuzzer | 1 | 0| 
+| 20210808T20:03:01Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6541 | 1331| 
 
 
 
