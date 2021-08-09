@@ -135,6 +135,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210809T12:10:47Z | solution for full stack coding problem from testpress tech labs | https://github.com/gamersdestiny/fuzzyquizgame | 0 | 0| 
 | 20210809T12:05:00Z | Null | https://github.com/becgabri/fuzzycrypto | 0 | 0| 
 | 20210809T12:04:09Z | 开源、轻量、快速、跨平台 的红队(redteam)外网打点扫描器，功能 端口扫描(port scan) 指纹识别(fingerprint) nday检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | 25 | 5| 
 | 20210809T11:51:26Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 140 | 13| 
@@ -144,7 +145,6 @@
 | 20210809T10:54:01Z | This is a Project I completed in my final year of University to design and implement an AI System in Matlab. The design, implementing and testing is documented in the written materials. For this I was graded a First (74/100) | https://github.com/AlexMc124/FuzzyLogicAndAI | 0 | 0| 
 | 20210809T10:44:11Z | Reproduce bug in go fuzz beta | https://github.com/stevenjohnstone/silent-beta-fuzz | 0 | 0| 
 | 20210809T10:31:42Z | JetBrains Research intership project. | https://github.com/AnzhelaSukhanova/fuzzing_of_spacer | 0 | 0| 
-| 20210809T10:23:54Z | Project Logika Fuzzy untuk Prediksi Mamdani dan Tsukamoto | https://github.com/JoeAlfarizii/Fuzzy_Inference_System | 0 | 0| 
 
 
 
