@@ -51,6 +51,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210809T12:52:46Z | This directory contains the source code for implementing Random Linear Network Coding (RLNC) into Multi-Processor System-on-Chips (MPSoC). By exploiting data vectorization, we obtained latency and throughputs gains during the matrix multiplication operations. | https://github.com/jracevedob/RLNC_MPSoC | 0 | 0| 
 | 20210809T12:35:16Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9833 | 1627| 
 | 20210809T12:32:08Z | Exploiting Fast LCF and BERT for Aspect-based Sentiment Analysis (Official Implementation of LCF-BERT) | https://github.com/yangheng95/PyABSA | 129 | 24| 
 | 20210809T12:27:08Z | Security programas | https://github.com/lfntchagas/security-exploits | 0 | 0| 
@@ -60,7 +61,6 @@
 | 20210809T11:28:01Z | Ipdetect is a tool with multiple functionalities ... still under development. With ipdetect you will be able to find vulnerabilities in a host being analyzed and exploit them later. | https://github.com/kanekorbs/ipdetect | 1 | 0| 
 | 20210809T11:20:41Z | Null | https://github.com/DK9510/web-app-exploitation | 12 | 1| 
 | 20210809T10:49:14Z | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | 230 | 40| 
-| 20210809T10:46:49Z | Key System | https://github.com/jareer12/sky-exploits-web | 1 | 0| 
 
 
 # backdoor on Github 推荐
