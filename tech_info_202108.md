@@ -82,6 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210809T00:49:17Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 24 | 5| 
 | 20210809T00:46:29Z | Exploit your way through trade tower | https://github.com/Zonxi/TradeTowerScript | 0 | 0| 
 | 20210809T00:35:46Z | Avorion mod that fIxes exodus mission exploit that allowed to get unlimited keys. | https://github.com/rinart73/Exodus-Fix | 0 | 1| 
 | 20210809T00:14:31Z | Null | https://github.com/vulsio/go-exploitdb | 118 | 35| 
@@ -91,13 +92,12 @@
 | 20210808T23:22:59Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | 0 | 0| 
 | 20210808T23:20:34Z | All the Lynx Exploits created - discontinued | https://github.com/pwdsec/Lynx-Exploit-DB | 0 | 0| 
 | 20210808T23:18:36Z | Exploit for the Brainpan machine Buffer Overflow vulnerability. | https://github.com/Xcatolin/VulnHub-Brainpan-BoF | 0 | 0| 
-| 20210808T23:18:30Z | Space to share xss vulnerabilities and knowledge of exploitation | https://github.com/ndanilo/xss-exploitation | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210809T00:38:23Z | Backdoor&后渗透工具 | https://github.com/PENG-PLUS/SFBD | 2 | 0| 
+| 20210809T00:49:59Z | Backdoor&后渗透工具 | https://github.com/PENG-PLUS/SFBD | 2 | 0| 
 | 20210808T23:00:57Z | Null | https://github.com/HarrialX/GraphBackdoor | 1 | 0| 
 | 20210808T22:11:12Z | Null | https://github.com/guilhermeortolano/backdoor | 0 | 0| 
 | 20210808T19:53:58Z | Null | https://github.com/FierzaEriez/Mini-Shell-Backdoor | 1 | 1| 
