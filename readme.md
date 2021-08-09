@@ -51,11 +51,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210809T12:02:55Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210809T11:47:39Z | A collection of Discord hacking tools/exploits that I developed using NodeJS. | https://github.com/I2rys/ODiscord | 0 | 0| 
 | 20210809T11:36:07Z | Null | https://github.com/BinaryExploiter/CTF-s-Exploits | 0 | 0| 
 | 20210809T11:28:01Z | Ipdetect is a tool with multiple functionalities ... still under development. With ipdetect you will be able to find vulnerabilities in a host being analyzed and exploit them later. | https://github.com/kanekorbs/ipdetect | 1 | 0| 
 | 20210809T11:20:41Z | Null | https://github.com/DK9510/web-app-exploitation | 12 | 1| 
-| 20210809T11:02:56Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210809T10:49:14Z | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | 230 | 40| 
 | 20210809T10:46:49Z | Key System | https://github.com/jareer12/sky-exploits-web | 1 | 0| 
 | 20210809T10:42:01Z | Exploitation Framework for Embedded Devices. Forked From  | https://github.com/Rexinazor/routersploit | 1 | 0| 
@@ -92,7 +92,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210809T11:54:31Z | 开源、轻量、快速、跨平台 的红队(redteam)外网打点扫描器，功能 端口扫描(port scan) 指纹识别(fingerprint) nday检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | 24 | 5| 
+| 20210809T12:04:09Z | 开源、轻量、快速、跨平台 的红队(redteam)外网打点扫描器，功能 端口扫描(port scan) 指纹识别(fingerprint) nday检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | 25 | 5| 
 | 20210809T11:51:26Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 140 | 13| 
 | 20210809T11:44:12Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210809T11:39:36Z | Null | https://github.com/BhanaviSingh/fuzzy-waffle | 0 | 0| 
