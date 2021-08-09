@@ -82,6 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210809T00:34:01Z | Exploit your way through trade tower | https://github.com/Zonxi/TradeTowerScript | 0 | 0| 
 | 20210809T00:14:31Z | Null | https://github.com/vulsio/go-exploitdb | 118 | 35| 
 | 20210809T00:03:11Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210808T23:47:19Z | LBI based Roblox Exploit API (LBI base by deadlocust) | https://github.com/nuldylan/PenguinAPI | 0 | 0| 
@@ -91,7 +92,6 @@
 | 20210808T23:18:36Z | Exploit for the Brainpan machine Buffer Overflow vulnerability. | https://github.com/Xcatolin/VulnHub-Brainpan-BoF | 0 | 0| 
 | 20210808T23:18:30Z | Space to share xss vulnerabilities and knowledge of exploitation | https://github.com/ndanilo/xss-exploitation | 0 | 0| 
 | 20210808T23:11:45Z | Ipdetect is a tool with multiple functionalities ... still under development. With ipdetect you will be able to find vulnerabilities in a host being analyzed and exploit them later. | https://github.com/kanekorbs/ipdetect | 1 | 0| 
-| 20210808T22:51:58Z | Exploit your way through trade tower | https://github.com/Zonxi/TradeTowerScript | 0 | 0| 
 
 
 # backdoor on Github 推荐
