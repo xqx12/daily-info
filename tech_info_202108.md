@@ -82,8 +82,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210809T00:39:06Z | Exploit your way through trade tower | https://github.com/Zonxi/TradeTowerScript | 0 | 0| 
 | 20210809T00:35:46Z | Avorion mod that fIxes exodus mission exploit that allowed to get unlimited keys. | https://github.com/rinart73/Exodus-Fix | 0 | 1| 
-| 20210809T00:34:01Z | Exploit your way through trade tower | https://github.com/Zonxi/TradeTowerScript | 0 | 0| 
 | 20210809T00:14:31Z | Null | https://github.com/vulsio/go-exploitdb | 118 | 35| 
 | 20210809T00:03:11Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210808T23:47:19Z | LBI based Roblox Exploit API (LBI base by deadlocust) | https://github.com/nuldylan/PenguinAPI | 0 | 0| 
@@ -97,7 +97,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210809T00:35:41Z | Backdoor&后渗透工具 | https://github.com/PENG-PLUS/SFBD | 2 | 0| 
+| 20210809T00:38:23Z | Backdoor&后渗透工具 | https://github.com/PENG-PLUS/SFBD | 2 | 0| 
 | 20210808T23:00:57Z | Null | https://github.com/HarrialX/GraphBackdoor | 1 | 0| 
 | 20210808T22:11:12Z | Null | https://github.com/guilhermeortolano/backdoor | 0 | 0| 
 | 20210808T19:53:58Z | Null | https://github.com/FierzaEriez/Mini-Shell-Backdoor | 1 | 1| 
