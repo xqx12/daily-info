@@ -95,6 +95,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210809T12:24:41Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1265 | 226| 
 | 20210809T12:23:02Z | Null | https://github.com/lzhfromustc/goFuzz | 0 | 0| 
 | 20210809T12:10:47Z | solution for full stack coding problem from testpress tech labs | https://github.com/gamersdestiny/fuzzyquizgame | 0 | 0| 
 | 20210809T12:05:00Z | Null | https://github.com/becgabri/fuzzycrypto | 0 | 0| 
@@ -104,7 +105,6 @@
 | 20210809T11:39:36Z | Null | https://github.com/BhanaviSingh/fuzzy-waffle | 0 | 0| 
 | 20210809T11:16:58Z | Null | https://github.com/leadmeout/fuzzy-octo-potato | 0 | 0| 
 | 20210809T10:54:01Z | This is a Project I completed in my final year of University to design and implement an AI System in Matlab. The design, implementing and testing is documented in the written materials. For this I was graded a First (74/100) | https://github.com/AlexMc124/FuzzyLogicAndAI | 0 | 0| 
-| 20210809T10:44:11Z | Reproduce bug in go fuzz beta | https://github.com/stevenjohnstone/silent-beta-fuzz | 0 | 0| 
 
 
 
