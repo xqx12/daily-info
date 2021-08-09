@@ -95,6 +95,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210809T12:34:18Z | A node app to implment fuzzy searching , the technique of finding strings that are approximately equal to a given pattern (rather than exactly). | https://github.com/rohitdhamija/fuzzySearch | 1 | 0| 
 | 20210809T12:29:48Z | Null | https://github.com/leadmeout/fuzzy-octo-potato | 0 | 0| 
 | 20210809T12:27:11Z | 开源、轻量、快速、跨平台 的红队(redteam)外网打点扫描器，功能 端口扫描(port scan) 指纹识别(fingerprint) nday检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | 26 | 5| 
 | 20210809T12:25:48Z | Null | https://github.com/becgabri/fuzzycrypto | 0 | 0| 
@@ -104,7 +105,6 @@
 | 20210809T11:51:26Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 140 | 13| 
 | 20210809T11:44:12Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210809T11:39:36Z | Null | https://github.com/BhanaviSingh/fuzzy-waffle | 0 | 0| 
-| 20210809T10:54:01Z | This is a Project I completed in my final year of University to design and implement an AI System in Matlab. The design, implementing and testing is documented in the written materials. For this I was graded a First (74/100) | https://github.com/AlexMc124/FuzzyLogicAndAI | 0 | 0| 
 
 
 
