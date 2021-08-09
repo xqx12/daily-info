@@ -31,7 +31,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210809T11:33:10Z | CVE-2021-2109 | CVE-2021-2109 basic scanner | https://github.com/dinosn/CVE-2021-2109 | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows high privileged attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 7.2 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H).| 
-| 20210809T10:17:48Z | CVE-2021-2394 | Null | https://github.com/BabyTeam1024/CVE-2021-2394 | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Core). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via T3, IIOP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
+| 20210809T10:17:48Z | CVE-2021-2394 | Null | https://github.com/BabyTeam1024/CVE-2021-2394 | | 
 | 20210809T01:01:56Z | CVE-2020-9922 | Null | https://github.com/Wowfunhappy/Fix-Apple-Mail-CVE-2020-9922 | A logic issue was addressed with improved state management. This issue is fixed in macOS Catalina 10.15.6, Security Update 2020-004 Mojave, Security Update 2020-004 High Sierra. Processing a maliciously crafted email may lead to writing arbitrary files.| 
 
 
@@ -51,7 +51,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210809T12:18:16Z | Security programas | https://github.com/lfntchagas/security-exploits | 0 | 0| 
+| 20210809T12:27:08Z | Security programas | https://github.com/lfntchagas/security-exploits | 0 | 0| 
 | 20210809T12:02:55Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210809T11:47:39Z | A collection of Discord hacking tools/exploits that I developed using NodeJS. | https://github.com/I2rys/ODiscord | 0 | 0| 
 | 20210809T11:36:07Z | Null | https://github.com/BinaryExploiter/CTF-s-Exploits | 0 | 0| 
@@ -95,6 +95,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210809T12:29:48Z | Null | https://github.com/leadmeout/fuzzy-octo-potato | 0 | 0| 
 | 20210809T12:27:11Z | 开源、轻量、快速、跨平台 的红队(redteam)外网打点扫描器，功能 端口扫描(port scan) 指纹识别(fingerprint) nday检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | 26 | 5| 
 | 20210809T12:25:48Z | Null | https://github.com/becgabri/fuzzycrypto | 0 | 0| 
 | 20210809T12:24:41Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1265 | 226| 
@@ -103,7 +104,6 @@
 | 20210809T11:51:26Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 140 | 13| 
 | 20210809T11:44:12Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210809T11:39:36Z | Null | https://github.com/BhanaviSingh/fuzzy-waffle | 0 | 0| 
-| 20210809T11:16:58Z | Null | https://github.com/leadmeout/fuzzy-octo-potato | 0 | 0| 
 | 20210809T10:54:01Z | This is a Project I completed in my final year of University to design and implement an AI System in Matlab. The design, implementing and testing is documented in the written materials. For this I was graded a First (74/100) | https://github.com/AlexMc124/FuzzyLogicAndAI | 0 | 0| 
 
 
