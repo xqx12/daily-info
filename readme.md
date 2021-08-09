@@ -95,8 +95,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210809T12:57:21Z | Null | https://github.com/syi07030/incognito-project_web-fuzzing | 0 | 0| 
 | 20210809T12:55:25Z | 🤖 Repeat tests. Repeat tests. Repeat tests. | https://github.com/ehmicky/test-each | 94 | 2| 
-| 20210809T12:47:28Z | Null | https://github.com/syi07030/incognito-project_web-fuzzing | 0 | 0| 
 | 20210809T12:34:18Z | A node app to implment fuzzy searching , the technique of finding strings that are approximately equal to a given pattern (rather than exactly). | https://github.com/rohitdhamija/fuzzySearch | 1 | 0| 
 | 20210809T12:29:48Z | Null | https://github.com/leadmeout/fuzzy-octo-potato | 0 | 0| 
 | 20210809T12:27:11Z | 开源、轻量、快速、跨平台 的红队(redteam)外网打点扫描器，功能 端口扫描(port scan) 指纹识别(fingerprint) nday检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | 26 | 5| 
