@@ -31,7 +31,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210809T11:33:10Z | CVE-2021-2109 | CVE-2021-2109 basic scanner | https://github.com/dinosn/CVE-2021-2109 | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows high privileged attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 7.2 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H).| 
-| 20210809T10:17:48Z | CVE-2021-2394 | Null | https://github.com/BabyTeam1024/CVE-2021-2394 | | 
+| 20210809T10:17:48Z | CVE-2021-2394 | Null | https://github.com/BabyTeam1024/CVE-2021-2394 | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Core). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via T3, IIOP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
 | 20210809T01:01:56Z | CVE-2020-9922 | Null | https://github.com/Wowfunhappy/Fix-Apple-Mail-CVE-2020-9922 | A logic issue was addressed with improved state management. This issue is fixed in macOS Catalina 10.15.6, Security Update 2020-004 Mojave, Security Update 2020-004 High Sierra. Processing a maliciously crafted email may lead to writing arbitrary files.| 
 
 
@@ -51,6 +51,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210809T12:32:08Z | Exploiting Fast LCF and BERT for Aspect-based Sentiment Analysis (Official Implementation of LCF-BERT) | https://github.com/yangheng95/PyABSA | 129 | 24| 
 | 20210809T12:27:08Z | Security programas | https://github.com/lfntchagas/security-exploits | 0 | 0| 
 | 20210809T12:02:55Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210809T11:47:39Z | A collection of Discord hacking tools/exploits that I developed using NodeJS. | https://github.com/I2rys/ODiscord | 0 | 0| 
@@ -60,7 +61,6 @@
 | 20210809T10:49:14Z | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | 230 | 40| 
 | 20210809T10:46:49Z | Key System | https://github.com/jareer12/sky-exploits-web | 1 | 0| 
 | 20210809T10:42:01Z | Exploitation Framework for Embedded Devices. Forked From  | https://github.com/Rexinazor/routersploit | 1 | 0| 
-| 20210809T10:17:04Z | Understanding the smart contract vulnerability exploited during the DAO attack | https://github.com/nathanrhoda/dao-vulnerability | 0 | 0| 
 
 
 # backdoor on Github 推荐
