@@ -84,7 +84,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210808T23:45:57Z | Null | https://github.com/Ubisam-Project-MASIDU/FuzzStoryWorld | 0 | 0| 
 | 20210808T23:25:00Z | Tutorials for my youtube page | https://github.com/FuzzySmurf/FuzzyTutorials | 0 | 0| 
 | 20210808T22:49:10Z | Null | https://github.com/yanzhoupan/gen-fuzz | 2 | 0| 
 | 20210808T22:31:31Z | Null | https://github.com/DanielEbert/EmulatedFirmwareFuzzing | 0 | 0| 
@@ -94,6 +93,7 @@
 | 20210808T20:03:01Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6541 | 1331| 
 | 20210808T19:55:11Z | Null | https://github.com/fuzzymonster24/fuzzymonster24.github | 0 | 0| 
 | 20210808T19:47:13Z | Null | https://github.com/lzhfromustc/goFuzz | 0 | 0| 
+| 20210808T19:31:51Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
 
 
 
