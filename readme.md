@@ -51,6 +51,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210809T12:35:16Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9833 | 1627| 
 | 20210809T12:32:08Z | Exploiting Fast LCF and BERT for Aspect-based Sentiment Analysis (Official Implementation of LCF-BERT) | https://github.com/yangheng95/PyABSA | 129 | 24| 
 | 20210809T12:27:08Z | Security programas | https://github.com/lfntchagas/security-exploits | 0 | 0| 
 | 20210809T12:02:55Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
@@ -60,7 +61,6 @@
 | 20210809T11:20:41Z | Null | https://github.com/DK9510/web-app-exploitation | 12 | 1| 
 | 20210809T10:49:14Z | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | 230 | 40| 
 | 20210809T10:46:49Z | Key System | https://github.com/jareer12/sky-exploits-web | 1 | 0| 
-| 20210809T10:42:01Z | Exploitation Framework for Embedded Devices. Forked From  | https://github.com/Rexinazor/routersploit | 1 | 0| 
 
 
 # backdoor on Github 推荐
