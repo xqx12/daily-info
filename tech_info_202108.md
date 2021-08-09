@@ -6,6 +6,15 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210809 | EyeWitnessTheFitness - 自动化生成 FireProx AWS API，实现 HTTP Proxy 的工具 | https://github.com/knavesec/EyeWitnessTheFitness| 
+| 20210809 | Awesome-Cellular-Hacking - 2G/3G/4G 移动网络通信安全方向的资料收集 | https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/README.md| 
+| 20210809 | Rust 标准库 “net” 输入验证不完善导致存在 SSRF & RFI 漏洞（CVE-2021-29922） | https://sick.codes/sick-2021-015/| 
+| 20210809 | 代码混淆逃逸安全检测的 Workshop | https://github.com/BC-SECURITY/Beginners-Guide-to-Obfuscation| 
+| 20210809 | DEF CON 会议关于 UEFI 安全的议题 “Safeguarding UEFI Ecosystem: Firmware Supply Chain is Hard(coded)” | https://i.blackhat.com/USA21/Wednesday-Handouts/us-21-Safeguarding-UEFI-Ecosystem-Firmware-Supply-Chain-Is-Hardcoded.pdf| 
+| 20210809 | SigFlip - Patch PE 文件同时不破坏签名的工具 | https://github.com/med0x2e/SigFlip| 
+| 20210809 | A New Attack Surface on MS Exchange Part 2 - ProxyOracle! | https://devco.re/blog/2021/08/06/a-new-attack-surface-on-MS-exchange-part-2-ProxyOracle/| 
+| 20210809 | A New Attack Surface on MS Exchange Part 1 - ProxyLogon! | https://devco.re/blog/2021/08/06/a-new-attack-surface-on-MS-exchange-part-1-ProxyLogon/| 
+| 20210809 | Checkpoint 对 Kindle E-Book Parsing 过程的安全研究 | https://research.checkpoint.com/2021/i-can-take-over-your-kindle/| 
 | 20210808 | 逆向工程课程资源集合，涵盖 x86、x64、32 位 ARM 和 64 位 ARM 架构学习资料。 | https://www.reddit.com/r/ReverseEngineering/comments/oxpzua/a_free_comprehensive_reverse_engineering_course/| 
 | 20210806 | 腾讯安全玄武实验室研究员 Tianze Ding 在 DEF CON 29 会议的演讲 - One Domain Account For More Than Exchange Server RCE | http://media.defcon.org/DEF%20CON%2029/DEF%20CON%2029%20presentations/Tianze%20Ding%20-%20Vulnerability%20Exchange-%20One%20Domain%20Account%20For%20More%20Than%20Exchange%20Server%20RCE.pdf| 
 | 20210806 | 腾讯安全玄武实验室研究员 Hao Xing 和 Zekai Wu 在 DEF CON 29 会议的演讲 - How I use a JSON Deserialization 0day to Steal Your Money On The Blockchain | http://media.defcon.org/DEF%20CON%2029/DEF%20CON%2029%20presentations/Hao%20Xing%20Zekai%20Wu%20-%20How%20I%20use%20a%20JSON%20Deserialization%200day%20to%20Steal%20Your%20Money%20On%20The%20Blockchain.pdf| 
@@ -17,60 +26,51 @@
 | 20210806 | IBM X-Force 团队对 ITG18 APT 组织的分析 | https://i.blackhat.com/USA21/Wednesday-Handouts/us-21-The-Kitten-That-Charmed-Me-The-9-Lives-Of-A-Nation-State-Attacker.pdf| 
 | 20210806 | Windows Address Book 应用堆缓冲区溢出漏洞的分析（CVE-2021-24083） | https://blog.exodusintel.com/2021/08/05/analysis-of-a-heap-buffer-overflow-vulnerability-in-microsoft-windows-address-book/?utm_source=rss&utm_medium=rss&utm_campaign=analysis-of-a-heap-buffer-overflow-vulnerability-in-microsoft-windows-address-book| 
 | 20210806 | Cobalt Strike BOF - Inject AMSI Bypass | https://github.com/boku7/injectAmsiBypass| 
-| 20210805 | SentinelOne 对 Cobalt Strike 4.2, 4.3 版本一个拒绝服务漏洞的分析，利用这个漏洞可以阻止 Beacons 连接 C&C 服务器 | https://labs.sentinelone.com/hotcobalt-new-cobalt-strike-dos-vulnerability-that-lets-you-halt-operations/| 
-| 20210805 | Using ProxyCannon-NG to Create Unlimited Rotating Proxies | https://medium.com/@devinjaystokes/using-proxycannon-ng-to-create-unlimited-rotating-proxies-fccffa70a728| 
-| 20210805 | seemoo-lab 在 BlackHat USA 会议关于 Apple Ultrawide Band 芯片研究的议题 | https://github.com/seemoo-lab/apple_u1| 
-| 20210805 | SAML is insecure by design | https://joonas.fi/2021/08/saml-is-insecure-by-design/| 
-| 20210805 | 通用的针对源码泄露利用程序的反制 | https://drivertom.blogspot.com/2021/08/git.html?m=1| 
-| 20210805 | Reverse Engineering For Everyone 教程 | https://github.com/mytechnotalent/Reverse-Engineering| 
-| 20210805 | Mistuned Part 1: Client-side XSS to Calculator and More | https://blog.chichou.me/2021/08/04/mistuned-part-i/| 
-| 20210805 | Ubuntu Snap 包管理器的动态库 Sideloading 漏洞的分析和利用（CVE-2020-27348） | https://blog.ret2.io/2021/08/04/snapcraft-injection/| 
-| 20210805 | 利用污点分析的方法挖掘 D-Link DIR-878 固件的漏洞 | https://starlabs.sg/blog/2021/08/identifying-bugs-in-router-firmware-at-scale-with-taint-analysis/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210809 | Webshell流量检测 | https://mp.weixin.qq.com/s/q29rBW5ndtH7nilnpe6URA| 
+| 20210809 | SecWiki周刊（第388期) | https://www.sec-wiki.com/weekly/388| 
+| 20210809 | [HTB] Spectra Writeup | https://mp.weixin.qq.com/s/nDTJk9m4-gpd-S9j0i1w1A| 
+| 20210809 | 二进制漏洞利用可视化技术研究 | https://mp.weixin.qq.com/s/2AW9FzVr3xaRsUbsiZ9cRQ| 
+| 20210809 | 评估自动生成 Yara 规则工具的有效性及提高 | https://mp.weixin.qq.com/s/xvfa9pfFRZs64VgyV7KSsQ| 
 | 20210807 | fuzzing check分支概述 | https://mp.weixin.qq.com/s/7JdHPEo6DyxOjFuw1VMlqg| 
 | 20210807 | weblogic Coherence 组件漏洞总结分析 | https://nosec.org/home/detail/4806.html| 
 | 20210807 | 使用 GDB 获取软路由的文件系统 | https://mp.weixin.qq.com/s/FWprX-R1EfWrPMNa0WPedA| 
 | 20210807 | 《党委（党组）网络安全工作责任制实施办法》解读 | https://mp.weixin.qq.com/s/ZzFx2Leu7DYhm39Kacofcg| 
 | 20210806 | 浅谈利用session绕过getshell | https://www.sec-in.com/article/1089| 
-| 20210806 | 如何利用多杀软结果提取恶意软件标签 | https://mp.weixin.qq.com/s/yxxd6eshC26BIHm9LgGp2A| 
-| 20210806 | 施耐德充电桩漏洞挖掘之旅 | https://forum.butian.net/share/357| 
-| 20210806 | 施耐德充电桩漏洞挖掘之旅 | https://bacde.me/post/Schneider-Charging-Staiong-Vulnerabilites/| 
-| 20210805 | XMap：兼含 IPv6 与 IPv4 网络空间探测功能的快速扫描器 | https://netsec.ccert.edu.cn/chs/projects/xmap| 
-| 20210805 | 浅谈程序分析 | https://mp.weixin.qq.com/s/l5NAWWQ584uXCO_HRMvQ0A| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210809T01:01:56Z | CVE-2020-9922 | Null | https://github.com/Wowfunhappy/Fix-Apple-Mail-CVE-2020-9922 | | 
+| 20210809T11:33:10Z | CVE-2021-2109 | CVE-2021-2109 basic scanner | https://github.com/dinosn/CVE-2021-2109 | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows high privileged attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 7.2 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H).| 
+| 20210809T10:17:48Z | CVE-2021-2394 | Null | https://github.com/BabyTeam1024/CVE-2021-2394 | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Core). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via T3, IIOP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
+| 20210809T01:01:56Z | CVE-2020-9922 | Null | https://github.com/Wowfunhappy/Fix-Apple-Mail-CVE-2020-9922 | A logic issue was addressed with improved state management. This issue is fixed in macOS Catalina 10.15.6, Security Update 2020-004 Mojave, Security Update 2020-004 High Sierra. Processing a maliciously crafted email may lead to writing arbitrary files.| 
 | 20210808T18:55:21Z | CVE-2021-32558 | PoC for exploiting CVE-2021-32558 : An issue was discovered in Sangoma Asterisk 13.x before 13.38.3, 16.x before 16.19.1, 17.x before 17.9.4, and 18.x before 18.5.1, and Certified Asterisk before 16.8-cert10. If the IAX2 channel driver receives a packet that contains an unsupported media format, a crash can occur. | https://github.com/AlAIAL90/CVE-2021-32558 | An issue was discovered in Sangoma Asterisk 13.x before 13.38.3, 16.x before 16.19.1, 17.x before 17.9.4, and 18.x before 18.5.1, and Certified Asterisk before 16.8-cert10. If the IAX2 channel driver receives a packet that contains an unsupported media format, a crash can occur.| 
-| 20210808T16:41:31Z | CVE-2021-2394 | Null | https://github.com/BabyTeam1024/CVE-2021-2394 | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Core). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via T3, IIOP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
 | 20210808T16:26:13Z | CVE-2020-36287 | The dashboard gadgets preference resource of the Atlassian gadgets plugin used in Jira Server and Jira Data Center before version 8.13.5, and from version 8.14.0 before version 8.15.1 allows remote anonymous attackers to obtain gadget related settings via a missing permissions check. | https://github.com/f4rber/CVE-2020-36287 | The dashboard gadgets preference resource of the Atlassian gadgets plugin used in Jira Server and Jira Data Center before version 8.13.5, and from version 8.14.0 before version 8.15.1 allows remote anonymous attackers to obtain gadget related settings via a missing permissions check.| 
 | 20210808T01:30:27Z | CVE-2020-27153 | PoC for exploiting CVE-2020-27153 : In BlueZ before 5.55, a double free was found in the gatttool disconnect_cb() routine from shared/att.c. A remote attacker could potentially cause a denial of service or code execution, during service discovery, due to a redundant disconnect MGMT event. | https://github.com/AlAIAL90/CVE-2020-27153 | In BlueZ before 5.55, a double free was found in the gatttool disconnect_cb() routine from shared/att.c. A remote attacker could potentially cause a denial of service or code execution, during service discovery, due to a redundant disconnect MGMT event.| 
 | 20210808T01:30:23Z | CVE-2020-26558 | PoC for exploiting CVE-2020-26558 : Bluetooth LE and BR/EDR secure pairing in Bluetooth Core Specification 2.1 through 5.2 may permit a nearby man-in-the-middle attacker to identify the Passkey used during pairing (in the Passkey authentication procedure) by reflection of the public key and the authentication evidence of the initiating device, potentially permitting this attacker to complete authenticated pairing with the responding device using the correct Passkey for the pairing session. The attack methodology determines the Passkey value one bit at a time. | https://github.com/AlAIAL90/CVE-2020-26558 | Bluetooth LE and BR/EDR secure pairing in Bluetooth Core Specification 2.1 through 5.2 may permit a nearby man-in-the-middle attacker to identify the Passkey used during pairing (in the Passkey authentication procedure) by reflection of the public key and the authentication evidence of the initiating device, potentially permitting this attacker to complete authenticated pairing with the responding device using the correct Passkey for the pairing session. The attack methodology determines the Passkey value one bit at a time.| 
-| 20210808T01:30:19Z | CVE-2021-0129 | PoC for exploiting CVE-2021-0129 : Improper access control in BlueZ may allow an authenticated user to potentially enable information disclosure via adjacent access. | https://github.com/AlAIAL90/CVE-2021-0129 | | 
+| 20210808T01:30:19Z | CVE-2021-0129 | PoC for exploiting CVE-2021-0129 : Improper access control in BlueZ may allow an authenticated user to potentially enable information disclosure via adjacent access. | https://github.com/AlAIAL90/CVE-2021-0129 | Improper access control in BlueZ may allow an authenticated user to potentially enable information disclosure via adjacent access.| 
 | 20210807T20:08:18Z | CVE-2021-31799 | PoC for exploiting CVE-2021-31799 : In RDoc 3.11 through 6.x before 6.3.1, as distributed with Ruby through 3.0.1, it is possible to execute arbitrary code via , and tags in a filename. | https://github.com/AlAIAL90/CVE-2021-31799 | In RDoc 3.11 through 6.x before 6.3.1, as distributed with Ruby through 3.0.1, it is possible to execute arbitrary code via , and tags in a filename.| 
 | 20210807T20:08:14Z | CVE-2021-20786 | PoC for exploiting CVE-2021-20786 : Cross-site request forgery (CSRF) vulnerability in GroupSession (GroupSession Free edition from ver2.2.0 to the version prior to ver5.1.0, GroupSession byCloud from ver3.0.3 to the version prior to ver5.1.0, and GroupSession ZION from ver3.0.3 to the version prior to ver5.1.0) allows a remote attacker to hijack the authentication of administrators via a specially crafted URL. | https://github.com/AlAIAL90/CVE-2021-20786 | Cross-site request forgery (CSRF) vulnerability in GroupSession (GroupSession Free edition from ver2.2.0 to the version prior to ver5.1.0, GroupSession byCloud from ver3.0.3 to the version prior to ver5.1.0, and GroupSession ZION from ver3.0.3 to the version prior to ver5.1.0) allows a remote attacker to hijack the authentication of administrators via a specially crafted URL.| 
-| 20210807T20:08:07Z | CVE-2021-35478 | PoC for exploiting CVE-2021-35478 : Nagios Log Server before 2.1.9 contains Reflected XSS in the dropdown box for the alert history and audit log function. All parameters used for filtering are affected. This affects users who open a crafted link or third-party web page. | https://github.com/AlAIAL90/CVE-2021-35478 | Nagios Log Server before 2.1.9 contains Reflected XSS in the dropdown box for the alert history and audit log function. All parameters used for filtering are affected. This affects users who open a crafted link or third-party web page.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210809T11:04:43Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2548 | 61| 
+| 20210809T09:29:05Z | Null | https://github.com/kamosika179/kleegame | 0 | 0| 
+| 20210809T05:18:38Z | Null | https://github.com/DonaldKLee/DonaldKLee | 0 | 1| 
 | 20210808T21:14:39Z | Null | https://github.com/adamhumphriescs/TASE_KLEE | 0 | 0| 
 | 20210808T15:25:44Z | klee+nme for user space aeg | https://github.com/jqhong/klee-nme-aeg | 1 | 0| 
 | 20210808T14:54:06Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 12 | 1| 
-| 20210808T14:30:26Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2530 | 60| 
 | 20210808T02:46:08Z | Null | https://github.com/JaimePSantos/ResearchKlee | 0 | 0| 
 | 20210807T15:06:10Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 147 | 22| 
 | 20210807T03:23:16Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 219 | 35| 
 | 20210806T17:13:05Z | Izrada novih algoritama za pretragu u okvriu alata za simboličko izvršavanje KLEE | https://github.com/MATF-Software-Verification/2020_03_Klee_Searcher | 0 | 0| 
-| 20210806T16:45:18Z | Null | https://github.com/BertKleewein/BertKleewein.github.io | 0 | 0| 
-| 20210806T12:47:50Z | Null | https://github.com/vitaliiomelchenko/kleene | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -82,16 +82,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210809T01:49:22Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | 0 | 0| 
-| 20210809T01:26:57Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 24 | 5| 
-| 20210809T01:19:56Z | Official Source For The Lua Dual API Executor For Roblox, batman o. Feel free to use this code, but if you do make an exploit with this please make sure to credit us because we spent alot of time on this. Thank you :) (DISCLAIMER: ME NOR THE DEVS OF BATMAN O WILL NOT BE PLANNING TO UPDATE THIS SOURCE)  | https://github.com/x1official/BatmanOSource | 1 | 1| 
-| 20210809T01:02:57Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
-| 20210809T00:52:23Z | Exploit your way through trade tower | https://github.com/Zonxi/TradeTowerScript | 0 | 0| 
-| 20210809T00:35:46Z | Avorion mod that fIxes exodus mission exploit that allowed to get unlimited keys. | https://github.com/rinart73/Exodus-Fix | 0 | 1| 
-| 20210809T00:14:31Z | Null | https://github.com/vulsio/go-exploitdb | 118 | 35| 
-| 20210808T23:47:19Z | LBI based Roblox Exploit API (LBI base by deadlocust) | https://github.com/nuldylan/PenguinAPI | 0 | 0| 
-| 20210808T23:33:49Z | PoC exploits for software vulnerabilities | https://github.com/lockedbyte/CVE-Exploits | 608 | 131| 
-| 20210808T23:20:34Z | All the Lynx Exploits created - discontinued | https://github.com/pwdsec/Lynx-Exploit-DB | 0 | 0| 
+| 20210809T11:47:39Z | A collection of Discord hacking tools/exploits that I developed using NodeJS. | https://github.com/I2rys/ODiscord | 0 | 0| 
+| 20210809T11:36:07Z | Null | https://github.com/BinaryExploiter/CTF-s-Exploits | 0 | 0| 
+| 20210809T11:28:01Z | Ipdetect is a tool with multiple functionalities ... still under development. With ipdetect you will be able to find vulnerabilities in a host being analyzed and exploit them later. | https://github.com/kanekorbs/ipdetect | 1 | 0| 
+| 20210809T11:20:41Z | Null | https://github.com/DK9510/web-app-exploitation | 12 | 1| 
+| 20210809T11:02:56Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
+| 20210809T10:49:14Z | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | 230 | 40| 
+| 20210809T10:46:49Z | Key System | https://github.com/jareer12/sky-exploits-web | 1 | 0| 
+| 20210809T10:42:01Z | Exploitation Framework for Embedded Devices. Forked From  | https://github.com/Rexinazor/routersploit | 1 | 0| 
+| 20210809T10:17:04Z | Understanding the smart contract vulnerability exploited during the DAO attack | https://github.com/nathanrhoda/dao-vulnerability | 0 | 0| 
+| 20210809T10:00:20Z | CVEs collection | https://github.com/errorecho/CVEs-Collection | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -135,16 +135,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210809T01:56:54Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 88 | 23| 
-| 20210809T01:56:00Z | Null | https://github.com/Ubisam-Project-MASIDU/FuzzStoryWorld | 0 | 0| 
-| 20210809T01:55:05Z | Null | https://github.com/Hwangwoosam/fuzzing | 0 | 0| 
-| 20210809T01:52:12Z | fuzzy search the emoji 🥰 | https://github.com/JiangWeixian/fuzzy-emoji | 0 | 0| 
-| 20210809T01:47:55Z | Ongoing development of the Fuzzball MUCK server software and associated functionality. | https://github.com/fuzzball-muck/fuzzball | 35 | 25| 
-| 20210809T01:32:32Z | 🔥 Studying The Fuzzing Book : https://www.fuzzingbook.org | https://github.com/KimSeoYe/TheFuzzingBook | 0 | 0| 
-| 20210809T01:03:32Z | Null | https://github.com/leadmeout/fuzzy-octo-potato | 0 | 0| 
-| 20210809T00:59:43Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 514 | 48| 
-| 20210809T00:15:00Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210808T23:25:00Z | Tutorials for my youtube page | https://github.com/FuzzySmurf/FuzzyTutorials | 0 | 0| 
+| 20210809T11:54:31Z | 开源、轻量、快速、跨平台 的红队(redteam)外网打点扫描器，功能 端口扫描(port scan) 指纹识别(fingerprint) nday检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | 24 | 5| 
+| 20210809T11:51:26Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 140 | 13| 
+| 20210809T11:44:12Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
+| 20210809T11:39:36Z | Null | https://github.com/BhanaviSingh/fuzzy-waffle | 0 | 0| 
+| 20210809T11:16:58Z | Null | https://github.com/leadmeout/fuzzy-octo-potato | 0 | 0| 
+| 20210809T10:54:01Z | This is a Project I completed in my final year of University to design and implement an AI System in Matlab. The design, implementing and testing is documented in the written materials. For this I was graded a First (74/100) | https://github.com/AlexMc124/FuzzyLogicAndAI | 0 | 0| 
+| 20210809T10:44:11Z | Reproduce bug in go fuzz beta | https://github.com/stevenjohnstone/silent-beta-fuzz | 0 | 0| 
+| 20210809T10:31:42Z | JetBrains Research intership project. | https://github.com/AnzhelaSukhanova/fuzzing_of_spacer | 0 | 0| 
+| 20210809T10:23:54Z | Project Logika Fuzzy untuk Prediksi Mamdani dan Tsukamoto | https://github.com/JoeAlfarizii/Fuzzy_Inference_System | 0 | 0| 
+| 20210809T10:21:44Z | A list of payload and bypass lists for penetration testing and red team infrastructure build. | https://github.com/ffffffff0x/AboutSecurity | 235 | 54| 
 
 
 
