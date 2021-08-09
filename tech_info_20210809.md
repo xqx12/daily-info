@@ -95,10 +95,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210809T12:25:48Z | Null | https://github.com/becgabri/fuzzycrypto | 0 | 0| 
 | 20210809T12:24:41Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1265 | 226| 
 | 20210809T12:23:02Z | Null | https://github.com/lzhfromustc/goFuzz | 0 | 0| 
 | 20210809T12:10:47Z | solution for full stack coding problem from testpress tech labs | https://github.com/gamersdestiny/fuzzyquizgame | 0 | 0| 
-| 20210809T12:05:00Z | Null | https://github.com/becgabri/fuzzycrypto | 0 | 0| 
 | 20210809T12:04:09Z | 开源、轻量、快速、跨平台 的红队(redteam)外网打点扫描器，功能 端口扫描(port scan) 指纹识别(fingerprint) nday检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | 25 | 5| 
 | 20210809T11:51:26Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 140 | 13| 
 | 20210809T11:44:12Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
