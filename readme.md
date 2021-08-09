@@ -81,7 +81,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210809T01:42:01Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2410 | 357| 
+| 20210809T11:01:55Z | A toy symbolic execution engine, supporting the blog article ... | https://github.com/synacktiv/toy-wasm-symbexp | 3 | 1| 
+| 20210809T09:10:25Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 153 | 33| 
+| 20210809T08:32:20Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2411 | 357| 
+| 20210809T07:54:53Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1867 | 388| 
 
 
 # big4 on Github 推荐
@@ -92,6 +95,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210809T12:05:00Z | Null | https://github.com/becgabri/fuzzycrypto | 0 | 0| 
 | 20210809T12:04:09Z | 开源、轻量、快速、跨平台 的红队(redteam)外网打点扫描器，功能 端口扫描(port scan) 指纹识别(fingerprint) nday检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | 25 | 5| 
 | 20210809T11:51:26Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 140 | 13| 
 | 20210809T11:44:12Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
@@ -101,7 +105,6 @@
 | 20210809T10:44:11Z | Reproduce bug in go fuzz beta | https://github.com/stevenjohnstone/silent-beta-fuzz | 0 | 0| 
 | 20210809T10:31:42Z | JetBrains Research intership project. | https://github.com/AnzhelaSukhanova/fuzzing_of_spacer | 0 | 0| 
 | 20210809T10:23:54Z | Project Logika Fuzzy untuk Prediksi Mamdani dan Tsukamoto | https://github.com/JoeAlfarizii/Fuzzy_Inference_System | 0 | 0| 
-| 20210809T10:21:44Z | A list of payload and bypass lists for penetration testing and red team infrastructure build. | https://github.com/ffffffff0x/AboutSecurity | 235 | 54| 
 
 
 
