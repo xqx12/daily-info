@@ -135,7 +135,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210809T00:10:38Z | Null | https://github.com/leadmeout/fuzzy-octo-potato | 0 | 0| 
+| 20210809T00:11:51Z | Null | https://github.com/leadmeout/fuzzy-octo-potato | 0 | 0| 
 | 20210808T23:45:57Z | Null | https://github.com/Ubisam-Project-MASIDU/FuzzStoryWorld | 0 | 0| 
 | 20210808T23:25:00Z | Tutorials for my youtube page | https://github.com/FuzzySmurf/FuzzyTutorials | 0 | 0| 
 | 20210808T23:10:33Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 514 | 48| 
