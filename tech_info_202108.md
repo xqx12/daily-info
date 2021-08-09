@@ -82,6 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210809T00:14:31Z | Null | https://github.com/vulsio/go-exploitdb | 118 | 35| 
 | 20210809T00:03:11Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210808T23:47:19Z | LBI based Roblox Exploit API (LBI base by deadlocust) | https://github.com/nuldylan/PenguinAPI | 0 | 0| 
 | 20210808T23:33:49Z | PoC exploits for software vulnerabilities | https://github.com/lockedbyte/CVE-Exploits | 608 | 131| 
@@ -90,7 +91,6 @@
 | 20210808T23:18:36Z | Exploit for the Brainpan machine Buffer Overflow vulnerability. | https://github.com/Xcatolin/VulnHub-Brainpan-BoF | 0 | 0| 
 | 20210808T23:18:30Z | Space to share xss vulnerabilities and knowledge of exploitation | https://github.com/ndanilo/xss-exploitation | 0 | 0| 
 | 20210808T23:11:45Z | Ipdetect is a tool with multiple functionalities ... still under development. With ipdetect you will be able to find vulnerabilities in a host being analyzed and exploit them later. | https://github.com/kanekorbs/ipdetect | 1 | 0| 
-| 20210808T23:00:21Z | Null | https://github.com/vulsio/go-exploitdb | 118 | 35| 
 | 20210808T22:51:58Z | Exploit your way through trade tower | https://github.com/Zonxi/TradeTowerScript | 0 | 0| 
 
 
@@ -135,6 +135,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210809T00:15:00Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210809T00:11:51Z | Null | https://github.com/leadmeout/fuzzy-octo-potato | 0 | 0| 
 | 20210808T23:45:57Z | Null | https://github.com/Ubisam-Project-MASIDU/FuzzStoryWorld | 0 | 0| 
 | 20210808T23:25:00Z | Tutorials for my youtube page | https://github.com/FuzzySmurf/FuzzyTutorials | 0 | 0| 
@@ -144,7 +145,6 @@
 | 20210808T21:33:56Z | Null | https://github.com/dannub/CarDetectionFuzzy | 0 | 0| 
 | 20210808T21:19:03Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210808T20:14:33Z | Nero is an open source HTTP API fuzzer aiming to be easy to use and extend. | https://github.com/kandeh/nero-fuzzer | 1 | 0| 
-| 20210808T20:03:01Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6541 | 1331| 
 
 
 
