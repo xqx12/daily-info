@@ -49,9 +49,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210810T12:05:24Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 25 | 5| 
 | 20210810T12:03:24Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210810T12:01:11Z | The repo is about how to get access to the gold standard corpus that is created and exploited to generate the Global Contention Dataset (GLOCON) | https://github.com/emerging-welfare/glocongold | 2 | 1| 
-| 20210810T11:51:01Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 24 | 5| 
 | 20210810T11:39:58Z | Null | https://github.com/flex0geek/cves-exploits | 2 | 1| 
 | 20210810T11:39:11Z | This tool compares a targets patch levels against the Microsoft vulnerability database in order to detect potential missing patches on the target. It also notifies the user if there are public exploits and Metasploit modules available for the missing bulletins. | https://github.com/AonCyberLabs/Windows-Exploit-Suggester | 2841 | 857| 
 | 20210810T10:50:15Z | A basic binary diagnostics tool/analyser for common binary exploitation tactics. | https://github.com/Angus-C-git/binaliser | 0 | 0| 
@@ -71,6 +71,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210810T11:10:25Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 156 | 33| 
+| 20210810T06:48:10Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2413 | 357| 
+| 20210810T03:38:15Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1742 | 500| 
 
 
 # big4 on Github 推荐
