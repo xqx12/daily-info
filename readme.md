@@ -29,7 +29,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210810T10:18:29Z | CVE-2021-27905 | [CVE-2021-27905] Apache Solr ReplicationHandler Server Side Request Forgery (SSRF) | https://github.com/murataydemir/CVE-2021-27905 | | 
+| 20210810T10:18:29Z | CVE-2021-27905 | [CVE-2021-27905] Apache Solr ReplicationHandler Server Side Request Forgery (SSRF) | https://github.com/murataydemir/CVE-2021-27905 | The ReplicationHandler (normally registered at %/replication% under a Solr core) in Apache Solr has a %masterUrl% (also %leaderUrl% alias) parameter that is used to designate another ReplicationHandler on another Solr core to replicate index data into the local core. To prevent a SSRF vulnerability, Solr ought to check these parameters against a similar configuration it uses for the %shards% parameter. Prior to this bug getting fixed, it did not. This problem affects essentially all Solr versions prior to it getting fixed in 8.8.2.| 
 | 20210810T07:27:44Z | CVE-2020-1020 | Windows Font Driver Type 1 VToHOrigin stack corruption | https://github.com/KaLendsi/CVE-2020-1020 | A remote code execution vulnerability exists in Microsoft Windows when the Windows Adobe Type Manager Library improperly handles a specially-crafted multi-master font - Adobe Type 1 PostScript format.For all systems except Windows 10, an attacker who successfully exploited the vulnerability could execute code remotely, aka %Adobe Font Manager Library Remote Code Execution Vulnerability%. This CVE ID is unique from CVE-2020-0938.| 
 
 
@@ -85,9 +85,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210810T12:17:56Z | Fuzzinator Random Testing Framework | https://github.com/renatahodovan/fuzzinator | 178 | 38| 
 | 20210810T12:15:12Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 21 | 9| 
 | 20210810T11:47:00Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6542 | 1333| 
-| 20210810T11:36:27Z | Fuzzinator Random Testing Framework | https://github.com/renatahodovan/fuzzinator | 178 | 38| 
 | 20210810T11:23:44Z | Packer Fuzzer is a fast and efficient scanner for security detection of websites constructed by javascript module bundler such as Webpack.  | https://github.com/rtcatc/Packer-Fuzzer | 973 | 130| 
 | 20210810T10:04:05Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210810T09:41:31Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 325 | 23| 
