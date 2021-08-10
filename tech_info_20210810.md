@@ -29,7 +29,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210810T10:18:29Z | CVE-2021-27905 | [CVE-2021-27905] Apache Solr ReplicationHandler Server Side Request Forgery (SSRF) | https://github.com/murataydemir/CVE-2021-27905 | The ReplicationHandler (normally registered at %/replication% under a Solr core) in Apache Solr has a %masterUrl% (also %leaderUrl% alias) parameter that is used to designate another ReplicationHandler on another Solr core to replicate index data into the local core. To prevent a SSRF vulnerability, Solr ought to check these parameters against a similar configuration it uses for the %shards% parameter. Prior to this bug getting fixed, it did not. This problem affects essentially all Solr versions prior to it getting fixed in 8.8.2.| 
+| 20210810T10:18:29Z | CVE-2021-27905 | [CVE-2021-27905] Apache Solr ReplicationHandler Server Side Request Forgery (SSRF) | https://github.com/murataydemir/CVE-2021-27905 | | 
 | 20210810T07:27:44Z | CVE-2020-1020 | Windows Font Driver Type 1 VToHOrigin stack corruption | https://github.com/KaLendsi/CVE-2020-1020 | A remote code execution vulnerability exists in Microsoft Windows when the Windows Adobe Type Manager Library improperly handles a specially-crafted multi-master font - Adobe Type 1 PostScript format.For all systems except Windows 10, an attacker who successfully exploited the vulnerability could execute code remotely, aka %Adobe Font Manager Library Remote Code Execution Vulnerability%. This CVE ID is unique from CVE-2020-0938.| 
 
 
@@ -49,8 +49,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210810T12:37:56Z | Null | https://github.com/katarzynamazur/ptes-post-exploitation | 0 | 0| 
 | 20210810T12:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9836 | 1629| 
-| 20210810T12:34:43Z | Null | https://github.com/katarzynamazur/ptes-post-exploitation | 0 | 0| 
 | 20210810T12:05:24Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 25 | 5| 
 | 20210810T12:03:24Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210810T12:01:11Z | The repo is about how to get access to the gold standard corpus that is created and exploited to generate the Global Contention Dataset (GLOCON) | https://github.com/emerging-welfare/glocongold | 2 | 1| 
