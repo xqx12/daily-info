@@ -49,6 +49,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210810T12:10:33Z | Null | https://github.com/katarzynamazur/ptes-post-exploitation | 0 | 0| 
 | 20210810T12:05:24Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 25 | 5| 
 | 20210810T12:03:24Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210810T12:01:11Z | The repo is about how to get access to the gold standard corpus that is created and exploited to generate the Global Contention Dataset (GLOCON) | https://github.com/emerging-welfare/glocongold | 2 | 1| 
@@ -58,7 +59,6 @@
 | 20210810T10:39:56Z | Null | https://github.com/eugeniogarcia/hacking_exploits | 0 | 0| 
 | 20210810T10:29:29Z | Techniques based on named pipes for pool overflow exploitation targeting the most recent (and oldest) Windows versions demonstrated on CVE-2020-17087 and an off-by-one overflow | https://github.com/vp777/Windows-Non-Paged-Pool-Overflow-Exploitation | 97 | 29| 
 | 20210810T10:21:59Z | My collection of pentesting tools, notes and exploits | https://github.com/gikabyte27/Pentest | 0 | 0| 
-| 20210810T09:57:35Z | Record some topics and exploits in my learning of PWN | https://github.com/noobone123/my_pwn | 0 | 0| 
 
 
 # backdoor on Github 推荐
