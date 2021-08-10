@@ -35,7 +35,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210809T15:01:19Z | CVE-2020-14882 | CVE-2020-14882_Exploit 支持12.2.X和10.3.6版本，12.2.x可回显 | https://github.com/nice0e3/CVE-2020-14882_Exploit_Gui | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
 | 20210809T11:33:10Z | CVE-2021-2109 | CVE-2021-2109 basic scanner | https://github.com/dinosn/CVE-2021-2109 | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows high privileged attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 7.2 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H).| 
-| 20210809T10:17:48Z | CVE-2021-2394 | Null | https://github.com/BabyTeam1024/CVE-2021-2394 | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Core). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via T3, IIOP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
+| 20210809T10:17:48Z | CVE-2021-2394 | Null | https://github.com/BabyTeam1024/CVE-2021-2394 | | 
 | 20210809T01:01:56Z | CVE-2020-9922 | Null | https://github.com/Wowfunhappy/Fix-Apple-Mail-CVE-2020-9922 | A logic issue was addressed with improved state management. This issue is fixed in macOS Catalina 10.15.6, Security Update 2020-004 Mojave, Security Update 2020-004 High Sierra. Processing a maliciously crafted email may lead to writing arbitrary files.| 
 
 
@@ -104,7 +104,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210809T23:52:47Z | just a personal site~ | https://github.com/davelowqx/fuzzyfilms | 0 | 0| 
 | 20210809T23:37:19Z | A differential fuzzer for x86 decoders | https://github.com/trailofbits/mishegos | 154 | 22| 
 | 20210809T23:33:24Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210809T22:58:17Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6542 | 1332| 
@@ -114,6 +113,7 @@
 | 20210809T21:26:12Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210809T21:02:57Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210809T20:58:28Z | Null | https://github.com/JeffreyYST/COMP6447-fuzzer | 0 | 0| 
+| 20210809T20:40:51Z | A fuzzing management tools collection | https://github.com/MozillaSecurity/FuzzManager | 154 | 48| 
 
 
 
