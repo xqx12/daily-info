@@ -16,6 +16,7 @@
 | 20210810 | GHunt - 一款用于收集 Google 系账号、邮箱等敏感信息的情报分析工具 | https://github.com/mxrch/GHunt| 
 | 20210810 | 面向 Windows 平台的逆向教程 | https://www.begin.re/the-workshop| 
 | 20210810 | Patrick Wardle 在 BlackHat 会议关于 macOS 平台恶意软件分析的议题 Arm’d & Dangerous - analyzing arm64 malware targeting macOS | https://sec.today/pulses/ad3f3d02-80ff-4fbe-b523-09706d36acf1/| 
+| 20210810 | Patrick Wardle 在 BlackHat 会议关于 macOS 平台恶意软件分析的议题 Arm’d & Dangerous - analyzing arm64 malware targeting macOS | https://i.blackhat.com/USA21/Wednesday-Handouts/US-21-Wardle-Armd-and-Dangerous.pdf| 
 
 
 # 安全维基 推荐
@@ -63,7 +64,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210810T01:09:55Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 278 | 52| 
+| 20210810T06:47:05Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 280 | 52| 
 | 20210810T00:03:49Z | Backdoor&后渗透工具 | https://github.com/PENG-PLUS/SFBD | 2 | 0| 
 
 

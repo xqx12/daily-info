@@ -16,6 +16,7 @@
 | 20210810 | GHunt - 一款用于收集 Google 系账号、邮箱等敏感信息的情报分析工具 | https://github.com/mxrch/GHunt| 
 | 20210810 | 面向 Windows 平台的逆向教程 | https://www.begin.re/the-workshop| 
 | 20210810 | Patrick Wardle 在 BlackHat 会议关于 macOS 平台恶意软件分析的议题 Arm’d & Dangerous - analyzing arm64 malware targeting macOS | https://sec.today/pulses/ad3f3d02-80ff-4fbe-b523-09706d36acf1/| 
+| 20210810 | Patrick Wardle 在 BlackHat 会议关于 macOS 平台恶意软件分析的议题 Arm’d & Dangerous - analyzing arm64 malware targeting macOS | https://i.blackhat.com/USA21/Wednesday-Handouts/US-21-Wardle-Armd-and-Dangerous.pdf| 
 | 20210809 | EyeWitnessTheFitness - 自动化生成 FireProx AWS API，实现 HTTP Proxy 的工具 | https://github.com/knavesec/EyeWitnessTheFitness| 
 | 20210809 | Awesome-Cellular-Hacking - 2G/3G/4G 移动网络通信安全方向的资料收集 | https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/README.md| 
 | 20210809 | Rust 标准库 “net” 输入验证不完善导致存在 SSRF & RFI 漏洞（CVE-2021-29922） | https://sick.codes/sick-2021-015/| 
@@ -25,7 +26,6 @@
 | 20210809 | A New Attack Surface on MS Exchange Part 2 - ProxyOracle! | https://devco.re/blog/2021/08/06/a-new-attack-surface-on-MS-exchange-part-2-ProxyOracle/| 
 | 20210809 | A New Attack Surface on MS Exchange Part 1 - ProxyLogon! | https://devco.re/blog/2021/08/06/a-new-attack-surface-on-MS-exchange-part-1-ProxyLogon/| 
 | 20210809 | Checkpoint 对 Kindle E-Book Parsing 过程的安全研究 | https://research.checkpoint.com/2021/i-can-take-over-your-kindle/| 
-| 20210809 | 一次对 Tui Editor XSS 的挖掘与分析 | https://paper.seebug.org/1667/| 
 
 
 # 安全维基 推荐
@@ -97,7 +97,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210810T01:09:55Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 278 | 52| 
+| 20210810T06:47:05Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 280 | 52| 
 | 20210810T00:03:49Z | Backdoor&后渗透工具 | https://github.com/PENG-PLUS/SFBD | 2 | 0| 
 | 20210809T20:48:22Z | pybotnet -  Library for building botnet ,backdoor or trojan with Telegram control panel | https://github.com/onionj/pybotnet | 10 | 6| 
 | 20210809T19:23:23Z | Malika is a very simple malware for GNU/Linux written in Python for educational purpose only. | https://github.com/CalfCrusher/Malika | 0 | 0| 
