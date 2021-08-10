@@ -49,7 +49,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210810T12:22:29Z | Null | https://github.com/katarzynamazur/ptes-post-exploitation | 0 | 0| 
+| 20210810T12:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9836 | 1629| 
+| 20210810T12:34:43Z | Null | https://github.com/katarzynamazur/ptes-post-exploitation | 0 | 0| 
 | 20210810T12:05:24Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 25 | 5| 
 | 20210810T12:03:24Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210810T12:01:11Z | The repo is about how to get access to the gold standard corpus that is created and exploited to generate the Global Contention Dataset (GLOCON) | https://github.com/emerging-welfare/glocongold | 2 | 1| 
@@ -58,12 +59,12 @@
 | 20210810T10:50:15Z | A basic binary diagnostics tool/analyser for common binary exploitation tactics. | https://github.com/Angus-C-git/binaliser | 0 | 0| 
 | 20210810T10:39:56Z | Null | https://github.com/eugeniogarcia/hacking_exploits | 0 | 0| 
 | 20210810T10:29:29Z | Techniques based on named pipes for pool overflow exploitation targeting the most recent (and oldest) Windows versions demonstrated on CVE-2020-17087 and an off-by-one overflow | https://github.com/vp777/Windows-Non-Paged-Pool-Overflow-Exploitation | 97 | 29| 
-| 20210810T10:21:59Z | My collection of pentesting tools, notes and exploits | https://github.com/gikabyte27/Pentest | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210810T12:34:55Z | Simple TCP Backdoor  | https://github.com/EGO-T-T/silver-octo-disco | 0 | 0| 
 | 20210810T06:47:05Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 280 | 52| 
 | 20210810T00:03:49Z | Backdoor&后渗透工具 | https://github.com/PENG-PLUS/SFBD | 2 | 0| 
 
