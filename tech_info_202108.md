@@ -55,7 +55,7 @@
 | 20210808T01:30:27Z | CVE-2020-27153 | PoC for exploiting CVE-2020-27153 : In BlueZ before 5.55, a double free was found in the gatttool disconnect_cb() routine from shared/att.c. A remote attacker could potentially cause a denial of service or code execution, during service discovery, due to a redundant disconnect MGMT event. | https://github.com/AlAIAL90/CVE-2020-27153 | In BlueZ before 5.55, a double free was found in the gatttool disconnect_cb() routine from shared/att.c. A remote attacker could potentially cause a denial of service or code execution, during service discovery, due to a redundant disconnect MGMT event.| 
 | 20210808T01:30:23Z | CVE-2020-26558 | PoC for exploiting CVE-2020-26558 : Bluetooth LE and BR/EDR secure pairing in Bluetooth Core Specification 2.1 through 5.2 may permit a nearby man-in-the-middle attacker to identify the Passkey used during pairing (in the Passkey authentication procedure) by reflection of the public key and the authentication evidence of the initiating device, potentially permitting this attacker to complete authenticated pairing with the responding device using the correct Passkey for the pairing session. The attack methodology determines the Passkey value one bit at a time. | https://github.com/AlAIAL90/CVE-2020-26558 | Bluetooth LE and BR/EDR secure pairing in Bluetooth Core Specification 2.1 through 5.2 may permit a nearby man-in-the-middle attacker to identify the Passkey used during pairing (in the Passkey authentication procedure) by reflection of the public key and the authentication evidence of the initiating device, potentially permitting this attacker to complete authenticated pairing with the responding device using the correct Passkey for the pairing session. The attack methodology determines the Passkey value one bit at a time.| 
 | 20210808T01:30:19Z | CVE-2021-0129 | PoC for exploiting CVE-2021-0129 : Improper access control in BlueZ may allow an authenticated user to potentially enable information disclosure via adjacent access. | https://github.com/AlAIAL90/CVE-2021-0129 | Improper access control in BlueZ may allow an authenticated user to potentially enable information disclosure via adjacent access.| 
-| 20210807T20:08:18Z | CVE-2021-31799 | PoC for exploiting CVE-2021-31799 : In RDoc 3.11 through 6.x before 6.3.1, as distributed with Ruby through 3.0.1, it is possible to execute arbitrary code via , and tags in a filename. | https://github.com/AlAIAL90/CVE-2021-31799 | | 
+| 20210807T20:08:18Z | CVE-2021-31799 | PoC for exploiting CVE-2021-31799 : In RDoc 3.11 through 6.x before 6.3.1, as distributed with Ruby through 3.0.1, it is possible to execute arbitrary code via , and tags in a filename. | https://github.com/AlAIAL90/CVE-2021-31799 | In RDoc 3.11 through 6.x before 6.3.1, as distributed with Ruby through 3.0.1, it is possible to execute arbitrary code via , and tags in a filename.| 
 
 
 # klee on Github 推荐
@@ -82,7 +82,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210810T01:08:15Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 24 | 5| 
+| 20210810T01:18:21Z | Thi powershell script has got to run in remote hacked windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 6 | 1| 
+| 20210810T01:17:47Z | this bash script is for remote linux hosts hacked! | https://github.com/FabioDefilippo/linuxallenum | 13 | 0| 
+| 20210810T01:17:15Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 24 | 5| 
 | 20210810T01:03:21Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210810T00:52:15Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 19 | 12| 
 | 20210810T00:44:42Z | ROBLOX exploit scripts. | https://github.com/florian9721/Exploit-Scripts | 0 | 0| 
@@ -90,8 +92,6 @@
 | 20210809T23:35:15Z | Null | https://github.com/JayZone420/FiveMarkExploitHelper | 0 | 0| 
 | 20210809T23:33:04Z | this script is exploit for wordpress old plugin gwolle | https://github.com/Ki11i0n4ir3/gwolle_buster | 1 | 0| 
 | 20210809T23:16:54Z | Null | https://github.com/zYan666/Demon-Exploit | 0 | 0| 
-| 20210809T23:01:25Z | C2X - C2/Post-Exploitation Tool For Red Teaming and Ethical Hacking | https://github.com/nxenon/c2x | 5 | 1| 
-| 20210809T23:00:28Z | Just a collection of writeup/exploits for ctfs that I have done. | https://github.com/movups/ctfs | 0 | 0| 
 
 
 # backdoor on Github 推荐
