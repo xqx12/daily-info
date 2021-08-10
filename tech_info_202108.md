@@ -82,6 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210810T00:44:42Z | ROBLOX exploit scripts. | https://github.com/florian9721/Exploit-Scripts | 0 | 0| 
 | 20210810T00:34:28Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 24 | 5| 
 | 20210810T00:24:48Z | PoC exploits for software vulnerabilities | https://github.com/lockedbyte/CVE-Exploits | 608 | 131| 
 | 20210810T00:03:12Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
@@ -91,7 +92,6 @@
 | 20210809T23:01:25Z | C2X - C2/Post-Exploitation Tool For Red Teaming and Ethical Hacking | https://github.com/nxenon/c2x | 5 | 1| 
 | 20210809T23:00:28Z | Just a collection of writeup/exploits for ctfs that I have done. | https://github.com/movups/ctfs | 0 | 0| 
 | 20210809T22:52:18Z | Some exploits i developed for VulnHub machines and common vulnerabilities. | https://github.com/Xcatolin/Personal-Exploits | 0 | 0| 
-| 20210809T22:38:10Z | Repository for CVE exploits | https://github.com/yuriisanin/cve-exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
