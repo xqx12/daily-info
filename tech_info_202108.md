@@ -135,6 +135,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210810T00:49:39Z | 🔥 Studying The Fuzzing Book : https://www.fuzzingbook.org | https://github.com/KimSeoYe/TheFuzzingBook | 0 | 0| 
 | 20210810T00:36:40Z | Null | https://github.com/Hwangwoosam/fuzzing | 1 | 0| 
 | 20210810T00:31:14Z | just a personal site~ | https://github.com/davelowqx/fuzzyfilms | 0 | 0| 
 | 20210809T23:37:19Z | A differential fuzzer for x86 decoders | https://github.com/trailofbits/mishegos | 154 | 22| 
@@ -144,7 +145,6 @@
 | 20210809T22:34:05Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 21 | 9| 
 | 20210809T21:46:27Z | Emulation based snapshot fuzzer | https://github.com/jaoeul/gingersnap | 0 | 0| 
 | 20210809T21:26:12Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
-| 20210809T21:02:57Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 
 
 
