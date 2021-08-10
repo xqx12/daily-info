@@ -135,7 +135,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210810T12:17:56Z | Fuzzinator Random Testing Framework | https://github.com/renatahodovan/fuzzinator | 178 | 38| 
+| 20210810T12:34:22Z | Fuzzinator Random Testing Framework | https://github.com/renatahodovan/fuzzinator | 178 | 38| 
 | 20210810T12:15:12Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 21 | 9| 
 | 20210810T11:47:00Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6542 | 1333| 
 | 20210810T11:23:44Z | Packer Fuzzer is a fast and efficient scanner for security detection of websites constructed by javascript module bundler such as Webpack.  | https://github.com/rtcatc/Packer-Fuzzer | 973 | 130| 
