@@ -34,7 +34,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210811T10:58:49Z | CVE-2020-35606 | Null | https://github.com/puckiestyle/CVE-2020-35606 | Arbitrary command execution can occur in Webmin through 1.962. Any user authorized for the Package Updates module can execute arbitrary commands with root privileges via vectors involving %0A and %0C. NOTE: this issue exists because of an incomplete fix for CVE-2019-12840.| 
+| 20210811T10:58:49Z | CVE-2020-35606 | Null | https://github.com/puckiestyle/CVE-2020-35606 | | 
 | 20210811T08:47:43Z | CVE-2021-1675 | see https://github.com/cube0x0/CVE-2021-1675 | https://github.com/hahaleyile/my-CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 
 
@@ -93,9 +93,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210811T12:12:07Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210811T11:57:28Z | 开源、轻量、快速、跨平台 的红队(redteam)外网打点扫描器，功能 端口扫描(port scan) 指纹识别(fingerprint) nday检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | 103 | 11| 
 | 20210811T11:50:33Z | Null | https://github.com/Coffreed/BizzFuzzFlash | 0 | 0| 
-| 20210811T11:22:46Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210811T11:09:07Z | Null | https://github.com/avpatel26/Fuzzer_SecurityTesting | 0 | 0| 
 | 20210811T10:36:28Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1960 | 388| 
 | 20210811T10:20:34Z | Null | https://github.com/coder-yunyi/fuzzy-garbanzo | 0 | 0| 
