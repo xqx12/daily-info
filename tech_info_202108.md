@@ -135,16 +135,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210811T01:59:06Z | Null | https://github.com/epsonik/FuzzyDescV2 | 0 | 0| 
+| 20210811T01:58:44Z | 🔥 Studying The Fuzzing Book : https://www.fuzzingbook.org | https://github.com/KimSeoYe/TheFuzzingBook | 0 | 0| 
 | 20210811T01:44:59Z | Null | https://github.com/Ubisam-Project-MASIDU/FuzzStoryWorld | 0 | 0| 
 | 20210811T01:41:25Z | A site that allows you to reverse image search millions of furry images in under a second | https://github.com/Syfaro/fuzzysearch | 13 | 2| 
 | 20210811T01:23:03Z | Kernel fuzzer inspired by Syzkaller | https://github.com/SunHao-0/healer | 81 | 14| 
 | 20210811T00:39:52Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
-| 20210811T00:31:35Z | Null | https://github.com/epsonik/FuzzyDescV2 | 0 | 0| 
 | 20210811T00:08:24Z | Null | https://github.com/lzhfromustc/goFuzz | 0 | 0| 
 | 20210811T00:05:19Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 21 | 9| 
 | 20210810T23:52:39Z | Null | https://github.com/pedrofnsc1/CSGOStatsFuzzy | 0 | 0| 
 | 20210810T23:48:40Z | Null | https://github.com/i-yokota/fuzzy-broccoli | 0 | 0| 
-| 20210810T22:59:35Z | Small web app for cataloging side projects | https://github.com/fuzzylimes/fuzzy-project-catalog | 0 | 0| 
 
 
 
