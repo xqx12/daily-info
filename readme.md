@@ -34,7 +34,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210811T12:55:38Z | CVE-2021-34473 | Scanner for CVE-2021-34473, ProxyShell, A Microsoft Exchange On-premise Vulnerability | https://github.com/RaouzRouik/CVE-2021-34473-scanner | | 
+| 20210811T12:55:38Z | CVE-2021-34473 | Scanner for CVE-2021-34473, ProxyShell, A Microsoft Exchange On-premise Vulnerability | https://github.com/RaouzRouik/CVE-2021-34473-scanner | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-31196, CVE-2021-31206.| 
 | 20210811T12:27:25Z | CVE-2021-34473 | Null | https://github.com/ajeanne33/CVE-2021-34473-scanner | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-31196, CVE-2021-31206.| 
 | 20210811T10:58:49Z | CVE-2020-35606 | Null | https://github.com/puckiestyle/CVE-2020-35606 | Arbitrary command execution can occur in Webmin through 1.962. Any user authorized for the Package Updates module can execute arbitrary commands with root privileges via vectors involving %0A and %0C. NOTE: this issue exists because of an incomplete fix for CVE-2019-12840.| 
 | 20210811T08:47:43Z | CVE-2021-1675 | see https://github.com/cube0x0/CVE-2021-1675 | https://github.com/hahaleyile/my-CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
@@ -57,8 +57,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210811T12:56:56Z | This directory contains the source code for implementing Random Linear Network Coding (RLNC) into Multi-Processor System-on-Chips (MPSoC). By exploiting data vectorization, we obtained latency and throughputs gains during the matrix multiplication operations. | https://github.com/jracevedob/RLNC_MPSoC | 0 | 0| 
-| 20210811T12:44:00Z | Key-Breaker is a public tool (OSS) used to currently retrieve, cipher, and exploit the weak security standards of Chrome. It also comes with a built-in demo of worms 🪱 | https://github.com/KazutoKashima/Project-Key-Breaker | 1 | 0| 
+| 20210811T12:58:14Z | This directory contains the source code for implementing Random Linear Network Coding (RLNC) into Multi-Processor System-on-Chips (MPSoC). By exploiting data vectorization, we obtained latency and throughputs gains during the matrix multiplication operations. | https://github.com/jracevedob/RLNC_MPSoC | 0 | 0| 
+| 20210811T12:58:10Z | Key-Breaker is a public tool (OSS) used to currently retrieve, cipher, and exploit the weak security standards of Chrome. It also comes with a built-in demo of worms 🪱 | https://github.com/KazutoKashima/Project-Key-Breaker | 2 | 1| 
 | 20210811T12:35:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9840 | 1631| 
 | 20210811T12:33:35Z | A python based tool for exploiting and managing Android devices via ADB | https://github.com/mesquidar/adbsploit | 238 | 49| 
 | 20210811T12:20:41Z | Tools and Exploits | https://github.com/abundov/web-exploits | 1 | 0| 
