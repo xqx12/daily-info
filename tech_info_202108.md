@@ -55,7 +55,7 @@
 | 20210809T01:01:56Z | CVE-2020-9922 | Null | https://github.com/Wowfunhappy/Fix-Apple-Mail-CVE-2020-9922 | A logic issue was addressed with improved state management. This issue is fixed in macOS Catalina 10.15.6, Security Update 2020-004 Mojave, Security Update 2020-004 High Sierra. Processing a maliciously crafted email may lead to writing arbitrary files.| 
 | 20210808T18:55:21Z | CVE-2021-32558 | PoC for exploiting CVE-2021-32558 : An issue was discovered in Sangoma Asterisk 13.x before 13.38.3, 16.x before 16.19.1, 17.x before 17.9.4, and 18.x before 18.5.1, and Certified Asterisk before 16.8-cert10. If the IAX2 channel driver receives a packet that contains an unsupported media format, a crash can occur. | https://github.com/AlAIAL90/CVE-2021-32558 | An issue was discovered in Sangoma Asterisk 13.x before 13.38.3, 16.x before 16.19.1, 17.x before 17.9.4, and 18.x before 18.5.1, and Certified Asterisk before 16.8-cert10. If the IAX2 channel driver receives a packet that contains an unsupported media format, a crash can occur.| 
 | 20210808T16:26:13Z | CVE-2020-36287 | The dashboard gadgets preference resource of the Atlassian gadgets plugin used in Jira Server and Jira Data Center before version 8.13.5, and from version 8.14.0 before version 8.15.1 allows remote anonymous attackers to obtain gadget related settings via a missing permissions check. | https://github.com/f4rber/CVE-2020-36287 | | 
-| 20210808T01:30:27Z | CVE-2020-27153 | PoC for exploiting CVE-2020-27153 : In BlueZ before 5.55, a double free was found in the gatttool disconnect_cb() routine from shared/att.c. A remote attacker could potentially cause a denial of service or code execution, during service discovery, due to a redundant disconnect MGMT event. | https://github.com/AlAIAL90/CVE-2020-27153 | | 
+| 20210808T01:30:27Z | CVE-2020-27153 | PoC for exploiting CVE-2020-27153 : In BlueZ before 5.55, a double free was found in the gatttool disconnect_cb() routine from shared/att.c. A remote attacker could potentially cause a denial of service or code execution, during service discovery, due to a redundant disconnect MGMT event. | https://github.com/AlAIAL90/CVE-2020-27153 | In BlueZ before 5.55, a double free was found in the gatttool disconnect_cb() routine from shared/att.c. A remote attacker could potentially cause a denial of service or code execution, during service discovery, due to a redundant disconnect MGMT event.| 
 
 
 # klee on Github 推荐
@@ -97,6 +97,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210811T01:33:38Z | This is a python backdoor project. This is for educational purposes only. | https://github.com/TKLinux966/B4cKD00R | 0 | 1| 
 | 20210811T01:18:04Z | Null | https://github.com/emmalee2003/C-backdoor | 1 | 0| 
 | 20210810T22:17:25Z | Statically-linked ssh server with reverse shell functionality for CTFs and such | https://github.com/Fahrj/reverse-ssh | 219 | 13| 
 | 20210810T20:50:31Z | Null | https://github.com/mamavegetta/Leux-Backdoor-0.6-beta-deobf | 0 | 0| 
@@ -106,7 +107,6 @@
 | 20210810T00:03:49Z | Backdoor&后渗透工具 | https://github.com/PENG-PLUS/SFBD | 2 | 0| 
 | 20210809T20:48:22Z | pybotnet -  Library for building botnet ,backdoor or trojan with Telegram control panel | https://github.com/onionj/pybotnet | 10 | 6| 
 | 20210809T19:23:23Z | Malika is a very simple malware for GNU/Linux written in Python for educational purpose only. | https://github.com/CalfCrusher/Malika | 0 | 0| 
-| 20210809T19:01:56Z | Dashboard for conducting Backdoors and Breaches sessions over Zoom. | https://github.com/p3hndrx/B-B-Shuffle | 14 | 4| 
 
 
 # symbolic execution on Github 推荐
