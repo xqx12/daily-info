@@ -16,6 +16,7 @@
 | 20210811 | 360 Alpha Lab 关于利用 CodeQL 挖掘 Chrome 漏洞变种的研究 | https://i.blackhat.com/USA21/Wednesday-Handouts/us-21-Leecraso-Put-In-One-Bug-And-Pop-Out-More-An-Effective-Way-Of-Bug-Hunting-In-Chrome.pdf| 
 | 20210811 | Firefox 91 支持用户一键清除指定或全部站点的 Cookie | https://blog.mozilla.org/security/2021/08/10/firefox-91-introduces-enhanced-cookie-clearing/| 
 | 20210811 | XSLM 恶意软件利用 MacroSheets 提供的访问窗口的高级功能躲避杀软检测 | https://sec.today/pulses/72aa8c6a-8153-47b9-9956-9d14877eaecc/| 
+| 20210811 | XSLM 恶意软件利用 MacroSheets 提供的访问窗口的高级功能躲避杀软检测 | https://www.mcafee.com/blogs/other-blogs/mcafee-labs/xlsm-malware-with-macrosheets/| 
 | 20210810 | Breaking the Android Bootloader on the Qualcomm Snapdragon 660 | https://www.pentestpartners.com/security-blog/breaking-the-android-bootloader-on-the-qualcomm-snapdragon-660/| 
 | 20210810 | SourcePoint - Cobalt Strike C&C Profile Generator | https://github.com/Tylous/SourcePoint| 
 | 20210810 | NO STARTTLS - 邮件协议中为 TLS 启用 STARTTLS 会引入被降级攻击的风险 | https://nostarttls.secvuln.info/| 
@@ -25,7 +26,6 @@
 | 20210810 | Multi-Stage Offensive Operations with Mythic | https://blog.kyleavery.com/posts/multi-stage-mythic/| 
 | 20210810 | GHunt - 一款用于收集 Google 系账号、邮箱等敏感信息的情报分析工具 | https://github.com/mxrch/GHunt| 
 | 20210810 | 面向 Windows 平台的逆向教程 | https://www.begin.re/the-workshop| 
-| 20210810 | Patrick Wardle 在 BlackHat 会议关于 macOS 平台恶意软件分析的议题 Arm’d & Dangerous - analyzing arm64 malware targeting macOS | https://sec.today/pulses/ad3f3d02-80ff-4fbe-b523-09706d36acf1/| 
 
 
 # 安全维基 推荐
@@ -97,16 +97,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210811T11:27:08Z | I just wanted to take a look inside public webshells and play with it :) | https://github.com/9aylas/Public-Backdoored-WebShells | 0 | 0| 
+| 20210811T11:23:43Z | Invisible Backdoor Attack with Sample-Specific Triggers | https://github.com/yuezunli/ISSBA | 0 | 0| 
+| 20210811T05:34:25Z | Null | https://github.com/KangProf/reverse_tcp_backdoor | 0 | 0| 
+| 20210811T05:13:48Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 281 | 52| 
 | 20210811T01:33:38Z | This is a python backdoor project. This is for educational purposes only. | https://github.com/TKLinux966/B4cKD00R | 0 | 1| 
 | 20210811T01:18:04Z | Null | https://github.com/emmalee2003/C-backdoor | 1 | 0| 
 | 20210810T22:17:25Z | Statically-linked ssh server with reverse shell functionality for CTFs and such | https://github.com/Fahrj/reverse-ssh | 219 | 13| 
 | 20210810T20:50:31Z | Null | https://github.com/mamavegetta/Leux-Backdoor-0.6-beta-deobf | 0 | 0| 
 | 20210810T16:29:05Z | A plugin made to gain access to the admin power of a server | https://github.com/Corentynn/Just-a-minecraft-backdoor | 0 | 0| 
 | 20210810T12:34:55Z | Simple TCP Backdoor  | https://github.com/EGO-T-T/silver-octo-disco | 0 | 0| 
-| 20210810T06:47:05Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 280 | 52| 
-| 20210810T00:03:49Z | Backdoor&后渗透工具 | https://github.com/PENG-PLUS/SFBD | 2 | 0| 
-| 20210809T20:48:22Z | pybotnet -  Library for building botnet ,backdoor or trojan with Telegram control panel | https://github.com/onionj/pybotnet | 10 | 6| 
-| 20210809T19:23:23Z | Malika is a very simple malware for GNU/Linux written in Python for educational purpose only. | https://github.com/CalfCrusher/Malika | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
