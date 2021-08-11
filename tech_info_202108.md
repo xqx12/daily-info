@@ -135,9 +135,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210811T01:34:06Z | A site that allows you to reverse image search millions of furry images in under a second | https://github.com/Syfaro/fuzzysearch | 13 | 2| 
+| 20210811T01:44:59Z | Null | https://github.com/Ubisam-Project-MASIDU/FuzzStoryWorld | 0 | 0| 
+| 20210811T01:41:25Z | A site that allows you to reverse image search millions of furry images in under a second | https://github.com/Syfaro/fuzzysearch | 13 | 2| 
 | 20210811T01:23:03Z | Kernel fuzzer inspired by Syzkaller | https://github.com/SunHao-0/healer | 81 | 14| 
-| 20210811T00:42:48Z | Null | https://github.com/Ubisam-Project-MASIDU/FuzzStoryWorld | 0 | 0| 
 | 20210811T00:39:52Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210811T00:31:35Z | Null | https://github.com/epsonik/FuzzyDescV2 | 0 | 0| 
 | 20210811T00:08:24Z | Null | https://github.com/lzhfromustc/goFuzz | 0 | 0| 
