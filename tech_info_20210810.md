@@ -41,7 +41,6 @@
 | --- | --- | --- | --- | ---| 
 | 20210810T23:42:26Z | Null | https://github.com/adamhumphriescs/TASE_KLEE | 0 | 0| 
 | 20210810T17:08:15Z | Izrada novih algoritama za pretragu u okvriu alata za simboličko izvršavanje KLEE | https://github.com/MATF-Software-Verification/2020_03_Klee_Searcher | 0 | 0| 
-| 20210810T16:00:15Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2557 | 62| 
 | 20210810T07:37:24Z | Report PPT template for CS students  | https://github.com/Fishermanykx/paper_reading_report_template | 1 | 0| 
 
 
