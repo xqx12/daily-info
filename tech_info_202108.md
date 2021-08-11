@@ -49,7 +49,7 @@
 | 20210810T19:45:05Z | CVE-2021-36934 | Null | https://github.com/OlivierLaflamme/CVE-2021-36934_export_shadow_volume | Windows Elevation of Privilege Vulnerability| 
 | 20210810T10:18:29Z | CVE-2021-27905 | [CVE-2021-27905] Apache Solr ReplicationHandler Server Side Request Forgery (SSRF) | https://github.com/murataydemir/CVE-2021-27905 | The ReplicationHandler (normally registered at %/replication% under a Solr core) in Apache Solr has a %masterUrl% (also %leaderUrl% alias) parameter that is used to designate another ReplicationHandler on another Solr core to replicate index data into the local core. To prevent a SSRF vulnerability, Solr ought to check these parameters against a similar configuration it uses for the %shards% parameter. Prior to this bug getting fixed, it did not. This problem affects essentially all Solr versions prior to it getting fixed in 8.8.2.| 
 | 20210810T07:27:44Z | CVE-2020-1020 | Windows Font Driver Type 1 VToHOrigin stack corruption | https://github.com/KaLendsi/CVE-2020-1020 | A remote code execution vulnerability exists in Microsoft Windows when the Windows Adobe Type Manager Library improperly handles a specially-crafted multi-master font - Adobe Type 1 PostScript format.For all systems except Windows 10, an attacker who successfully exploited the vulnerability could execute code remotely, aka %Adobe Font Manager Library Remote Code Execution Vulnerability%. This CVE ID is unique from CVE-2020-0938.| 
-| 20210809T15:01:19Z | CVE-2020-14882 | CVE-2020-14882_Exploit 支持12.2.X和10.3.6版本，12.2.x可回显 | https://github.com/nice0e3/CVE-2020-14882_Exploit_Gui | | 
+| 20210809T15:01:19Z | CVE-2020-14882 | CVE-2020-14882_Exploit 支持12.2.X和10.3.6版本，12.2.x可回显 | https://github.com/nice0e3/CVE-2020-14882_Exploit_Gui | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
 | 20210809T11:33:10Z | CVE-2021-2109 | CVE-2021-2109 basic scanner | https://github.com/dinosn/CVE-2021-2109 | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows high privileged attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 7.2 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H).| 
 | 20210809T10:17:48Z | CVE-2021-2394 | Null | https://github.com/BabyTeam1024/CVE-2021-2394 | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Core). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via T3, IIOP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
 | 20210809T01:01:56Z | CVE-2020-9922 | Null | https://github.com/Wowfunhappy/Fix-Apple-Mail-CVE-2020-9922 | A logic issue was addressed with improved state management. This issue is fixed in macOS Catalina 10.15.6, Security Update 2020-004 Mojave, Security Update 2020-004 High Sierra. Processing a maliciously crafted email may lead to writing arbitrary files.| 
@@ -82,6 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210811T01:10:16Z | Repository For RBX Exploits Created By SigmaTech | https://github.com/SigmaEG/RBXExploits | 0 | 0| 
 | 20210811T01:03:06Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210811T01:01:50Z | exploit for roblox | https://github.com/Morsy0/VanusX | 0 | 0| 
 | 20210811T00:52:14Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 19 | 12| 
@@ -91,7 +92,6 @@
 | 20210810T22:46:51Z | Clouddefense.ai is an automated web application security testing tool that audits your web applications by checking for vulnerabilities like SQL Injection, Cross site scripting and other exploitable vulnerabilities. | https://github.com/CloudDefenseAI/cd | 11 | 1| 
 | 20210810T22:39:06Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | 0 | 0| 
 | 20210810T22:14:21Z | A repository of hacking concepts and resources. IoT devices, toaster mods, reverse engineering, exploitation and more. | https://github.com/hyproviola/hack-theory | 0 | 0| 
-| 20210810T21:56:06Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 8132 | 1423| 
 
 
 # backdoor on Github 推荐
@@ -112,7 +112,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210810T21:24:00Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2415 | 357| 
+| 20210811T01:13:01Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2416 | 357| 
 | 20210810T18:01:35Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 451 | 68| 
 | 20210810T16:39:41Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 156 | 34| 
 | 20210810T12:49:15Z | A toy symbolic execution engine, supporting the blog article ... | https://github.com/synacktiv/toy-wasm-symbexp | 8 | 1| 

@@ -80,7 +80,6 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210810T21:24:00Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2415 | 357| 
 | 20210810T18:01:35Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 451 | 68| 
 | 20210810T16:39:41Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 156 | 34| 
 | 20210810T12:49:15Z | A toy symbolic execution engine, supporting the blog article ... | https://github.com/synacktiv/toy-wasm-symbexp | 8 | 1| 
