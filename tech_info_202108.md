@@ -82,6 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210811T01:52:18Z | bad robox ui lib | https://github.com/ceat-ceat/ScriptPanelv2 | 0 | 1| 
 | 20210811T01:10:16Z | Repository For RBX Exploits Created By SigmaTech | https://github.com/SigmaEG/RBXExploits | 0 | 0| 
 | 20210811T01:03:06Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210811T01:01:50Z | exploit for roblox | https://github.com/Morsy0/VanusX | 0 | 0| 
@@ -91,7 +92,6 @@
 | 20210810T23:48:33Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 3808 | 524| 
 | 20210810T22:46:51Z | Clouddefense.ai is an automated web application security testing tool that audits your web applications by checking for vulnerabilities like SQL Injection, Cross site scripting and other exploitable vulnerabilities. | https://github.com/CloudDefenseAI/cd | 11 | 1| 
 | 20210810T22:39:06Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | 0 | 0| 
-| 20210810T22:14:21Z | A repository of hacking concepts and resources. IoT devices, toaster mods, reverse engineering, exploitation and more. | https://github.com/hyproviola/hack-theory | 0 | 0| 
 
 
 # backdoor on Github 推荐

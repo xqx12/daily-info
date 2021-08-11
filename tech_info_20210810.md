@@ -61,8 +61,8 @@
 | 20210810T21:56:06Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 8132 | 1423| 
 | 20210810T21:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9838 | 1629| 
 | 20210810T21:29:23Z | I found a way to exploit the rotation minecraft applies to certain Blocks to reconstruct coordinates from them | https://github.com/DerBejijing/BlockRotationExploit | 3 | 0| 
-| 20210810T21:05:24Z | bad robox ui lib | https://github.com/ceat-ceat/ScriptPanelv2 | 0 | 1| 
 | 20210810T20:59:17Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 25 | 5| 
+| 20210810T20:53:58Z | KDMapper is a simple tool that exploits iqvw64e.sys Intel driver to manually map non-signed drivers in memory | https://github.com/TheCruZ/kdmapper | 348 | 130| 
 
 
 # backdoor on Github 推荐
