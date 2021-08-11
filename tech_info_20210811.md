@@ -34,7 +34,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210811T12:20:58Z | CVE-2021-34473 | Null | https://github.com/ajeanne33/CVE-2021-34473-scanner | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-31196, CVE-2021-31206.| 
+| 20210811T12:22:46Z | CVE-2021-34473 | Null | https://github.com/ajeanne33/CVE-2021-34473-scanner | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-31196, CVE-2021-31206.| 
 | 20210811T10:58:49Z | CVE-2020-35606 | Null | https://github.com/puckiestyle/CVE-2020-35606 | Arbitrary command execution can occur in Webmin through 1.962. Any user authorized for the Package Updates module can execute arbitrary commands with root privileges via vectors involving %0A and %0C. NOTE: this issue exists because of an incomplete fix for CVE-2019-12840.| 
 | 20210811T08:47:43Z | CVE-2021-1675 | see https://github.com/cube0x0/CVE-2021-1675 | https://github.com/hahaleyile/my-CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 
@@ -56,8 +56,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210811T12:20:41Z | Tools and Exploits | https://github.com/abundov/web-exploits | 1 | 0| 
 | 20210811T12:09:47Z | E3C is a freely available multilingual corpus (Italian, English, French, Spanish, and Basque) of semantically annotated clinical narratives to allow for the linguistic analysis, benchmarking, and training of information extraction systems. It consists of two types of annotations: (i) clinical entities: pathologies, symptoms, procedures, body parts, etc., according to standard clinical taxonomies (i.e. SNOMED-CT, ICD-10); and (ii) temporal information and factuality: events, time expressions, and temporal relations according to the THYME standard. The corpus is organised into three layers, with different purposes. Layer 1: about 25K tokens per language with full manual annotation of clinical entities, temporal information and factuality, for benchmarkingand linguistic analysis. Layer 2: 50-100K tokens per language with semi-automatic annotations of clinical entities, to be used to train baseline systems. Layer 3: about 1M tokens per language of non-annotated medical documents to be exploited by semi-supervised approaches. Researchers can use the benchmark training and test splits of our corpus to develop and test their own models. We trained several deep learning based models and provide baselines using the benchmark. Both the corpus and the built models will be available through the ELG platform.  | https://github.com/hltfbk/E3C-Corpus | 0 | 1| 
-| 20210811T12:07:32Z | Tools and Exploits | https://github.com/abundov/web-exploits | 1 | 0| 
 | 20210811T12:02:59Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210811T11:51:36Z | Null | https://github.com/MohammedBasithkv/a-rat-exploit | 0 | 0| 
 | 20210811T11:50:43Z | CVEs, Pentesting guides, Exploits, Wordlists, all for pentesting efficency! | https://github.com/complexusprada/penguide | 0 | 0| 
