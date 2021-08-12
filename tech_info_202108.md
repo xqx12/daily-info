@@ -137,6 +137,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210812T00:14:47Z | Small web app for cataloging side projects | https://github.com/fuzzylimes/fuzzy-project-catalog | 0 | 0| 
 | 20210812T00:05:19Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210812T00:05:12Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 21 | 9| 
 | 20210812T00:02:55Z | Null | https://github.com/wesleywen1/FuzzyMatcher | 0 | 0| 
@@ -146,7 +147,6 @@
 | 20210811T22:20:48Z | Null | https://github.com/epsonik/FuzzyDescV2 | 0 | 0| 
 | 20210811T22:01:21Z | Fuzzer for Dolt repositories | https://github.com/dolthub/fuzzer | 2 | 0| 
 | 20210811T21:43:19Z | Null | https://github.com/elijah-atkins/fuzzmoon | 0 | 0| 
-| 20210811T20:51:40Z | Implementacija algoritama fuzzy klasterovanja, njihova primena na odredjenim skupovima podataka i uporedjivanje sa drugim algoritmima klasterovanja. | https://github.com/markobabic8/Fuzzy-clustering | 0 | 1| 
 
 
 
