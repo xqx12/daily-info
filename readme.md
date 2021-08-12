@@ -86,8 +86,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210812T12:27:49Z | Null | https://github.com/bfardtity/fuzzy-octo-waddle | 0 | 0| 
 | 20210812T12:15:12Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 21 | 9| 
-| 20210812T11:45:57Z | Null | https://github.com/bfardtity/fuzzy-octo-waddle | 0 | 0| 
 | 20210812T11:31:09Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210812T11:27:38Z | Null | https://github.com/Ilya-Saldeckiy/fuzzy-octo-disco | 0 | 0| 
 | 20210812T10:49:19Z | A simple client side fuzzy search in TypeScript | https://github.com/jackdomleo7/Client-side-fuzzy-search | 0 | 0| 
