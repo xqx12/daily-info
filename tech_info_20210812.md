@@ -51,6 +51,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210812T12:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9846 | 1632| 
 | 20210812T12:21:47Z | Third (and last) virtual machine on binary exploitation and cybersecurity. Part of the 42 School cybersec branch. | https://github.com/d-r-e/override | 0 | 0| 
 | 20210812T12:02:59Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210812T11:23:49Z | *Well documented* scripts exploiting some useful UNIX utilities. | https://github.com/chhajedji/scripts | 4 | 0| 
@@ -60,7 +61,6 @@
 | 20210812T10:08:12Z | Null | https://github.com/DK9510/web-app-exploitation | 12 | 1| 
 | 20210812T09:50:56Z | KDMapper is a simple tool that exploits iqvw64e.sys Intel driver to manually map non-signed drivers in memory | https://github.com/TheCruZ/kdmapper | 353 | 130| 
 | 20210812T09:19:40Z | CVEs, Pentesting guides, Exploits, Wordlists, all for pentesting efficency! | https://github.com/complexusprada/penguide | 0 | 0| 
-| 20210812T09:15:44Z | An app with really insecure crypto. To be used to see/test/exploit weak cryptographic implementations as well as to learn a little bit more about crypto, without the need to dive deep into the math behind it | https://github.com/DamnVulnerableCryptoApp/DamnVulnerableCryptoApp | 69 | 20| 
 
 
 # backdoor on Github 推荐
