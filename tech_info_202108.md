@@ -83,7 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210812T00:21:20Z | Null | https://github.com/ret2basic/Pentest-Exploit-Lookup | 0 | 0| 
+| 20210812T00:22:49Z | Null | https://github.com/ret2basic/Pentest-Exploit-Lookup | 0 | 0| 
 | 20210812T00:08:42Z | Repository for programs from Jon Erickson%s Hacking - The Art of Exploitation (2d Ed) | https://github.com/PatrickBruso/Hacking | 0 | 0| 
 | 20210812T00:06:22Z | Exploit MsIo vulnerable driver | https://github.com/kkent030315/MsIoExploit | 46 | 22| 
 | 20210812T00:03:10Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
