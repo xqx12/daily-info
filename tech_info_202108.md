@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210811T22:52:59Z | CVE-2021-38583 | Null | https://github.com/charlesbickel/CVE-2021-38583 | 未查询到CVE信息| 
+| 20210812T00:05:36Z | CVE-2021-38583 | Null | https://github.com/charlesbickel/CVE-2021-38583 | 未查询到CVE信息| 
 | 20210811T20:06:46Z | CVE-2021-36934 | Fix for the CVE-2021-36934 | https://github.com/JoranSlingerland/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
 | 20210811T17:01:18Z | CVE-2021-34481 | Check patch for CVE-2021-34481 | https://github.com/vanpn/CVE-2021-34481 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210811T16:53:52Z | CVE-2020-35606 | Null | https://github.com/puckiestyle/CVE-2020-35606 | Arbitrary command execution can occur in Webmin through 1.962. Any user authorized for the Package Updates module can execute arbitrary commands with root privileges via vectors involving %0A and %0C. NOTE: this issue exists because of an incomplete fix for CVE-2019-12840.| 
@@ -54,7 +54,7 @@
 | 20210811T12:27:25Z | CVE-2021-34473 | Null | https://github.com/ajeanne33/CVE-2021-34473-scanner | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-31196, CVE-2021-31206.| 
 | 20210811T08:47:43Z | CVE-2021-1675 | see https://github.com/cube0x0/CVE-2021-1675 | https://github.com/hahaleyile/my-CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210810T19:45:05Z | CVE-2021-36934 | Null | https://github.com/OlivierLaflamme/CVE-2021-36934_export_shadow_volume | Windows Elevation of Privilege Vulnerability| 
-| 20210810T10:18:29Z | CVE-2021-27905 | [CVE-2021-27905] Apache Solr ReplicationHandler Server Side Request Forgery (SSRF) | https://github.com/murataydemir/CVE-2021-27905 | | 
+| 20210810T10:18:29Z | CVE-2021-27905 | [CVE-2021-27905] Apache Solr ReplicationHandler Server Side Request Forgery (SSRF) | https://github.com/murataydemir/CVE-2021-27905 | The ReplicationHandler (normally registered at %/replication% under a Solr core) in Apache Solr has a %masterUrl% (also %leaderUrl% alias) parameter that is used to designate another ReplicationHandler on another Solr core to replicate index data into the local core. To prevent a SSRF vulnerability, Solr ought to check these parameters against a similar configuration it uses for the %shards% parameter. Prior to this bug getting fixed, it did not. This problem affects essentially all Solr versions prior to it getting fixed in 8.8.2.| 
 | 20210810T07:27:44Z | CVE-2020-1020 | Windows Font Driver Type 1 VToHOrigin stack corruption | https://github.com/KaLendsi/CVE-2020-1020 | A remote code execution vulnerability exists in Microsoft Windows when the Windows Adobe Type Manager Library improperly handles a specially-crafted multi-master font - Adobe Type 1 PostScript format.For all systems except Windows 10, an attacker who successfully exploited the vulnerability could execute code remotely, aka %Adobe Font Manager Library Remote Code Execution Vulnerability%. This CVE ID is unique from CVE-2020-0938.| 
 
 
@@ -83,6 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210812T00:06:22Z | Exploit MsIo vulnerable driver | https://github.com/kkent030315/MsIoExploit | 46 | 22| 
 | 20210812T00:04:45Z | Repository for programs from Jon Erickson%s Hacking - The Art of Exploitation (2d Ed) | https://github.com/PatrickBruso/Hacking | 0 | 0| 
 | 20210812T00:03:10Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210811T23:35:59Z | this bash script is for remote linux hosts hacked! | https://github.com/FabioDefilippo/linuxallenum | 13 | 0| 
@@ -92,7 +93,6 @@
 | 20210811T22:51:36Z | Fix redstone lag exploits in your server! | https://github.com/Bleepooo/BleeposExploitFixer | 0 | 0| 
 | 20210811T22:50:44Z | Null | https://github.com/jwardsmith/Active-Directory-Exploitation | 3 | 1| 
 | 20210811T22:43:48Z | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | 101 | 18| 
-| 20210811T22:33:28Z | Null | https://github.com/locusmodzYT/exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -137,15 +137,15 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210812T00:05:19Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
+| 20210812T00:05:12Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 21 | 9| 
 | 20210812T00:02:55Z | Null | https://github.com/wesleywen1/FuzzyMatcher | 0 | 0| 
-| 20210812T00:02:35Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210811T23:53:05Z | An investigation of American Fuzzy Lop++ as a fuzzer | https://github.com/hark130/hardy-remix | 0 | 0| 
 | 20210811T23:46:07Z | Null | https://github.com/lzhfromustc/goFuzz | 0 | 0| 
 | 20210811T22:33:01Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2371 | 136| 
 | 20210811T22:20:48Z | Null | https://github.com/epsonik/FuzzyDescV2 | 0 | 0| 
 | 20210811T22:01:21Z | Fuzzer for Dolt repositories | https://github.com/dolthub/fuzzer | 2 | 0| 
 | 20210811T21:43:19Z | Null | https://github.com/elijah-atkins/fuzzmoon | 0 | 0| 
-| 20210811T21:34:02Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 21 | 9| 
 | 20210811T20:51:40Z | Implementacija algoritama fuzzy klasterovanja, njihova primena na odredjenim skupovima podataka i uporedjivanje sa drugim algoritmima klasterovanja. | https://github.com/markobabic8/Fuzzy-clustering | 0 | 1| 
 
 

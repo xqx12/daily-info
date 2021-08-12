@@ -34,7 +34,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210811T22:52:59Z | CVE-2021-38583 | Null | https://github.com/charlesbickel/CVE-2021-38583 | 未查询到CVE信息| 
 | 20210811T20:06:46Z | CVE-2021-36934 | Fix for the CVE-2021-36934 | https://github.com/JoranSlingerland/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
 | 20210811T17:01:18Z | CVE-2021-34481 | Check patch for CVE-2021-34481 | https://github.com/vanpn/CVE-2021-34481 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210811T16:53:52Z | CVE-2020-35606 | Null | https://github.com/puckiestyle/CVE-2020-35606 | Arbitrary command execution can occur in Webmin through 1.962. Any user authorized for the Package Updates module can execute arbitrary commands with root privileges via vectors involving %0A and %0C. NOTE: this issue exists because of an incomplete fix for CVE-2019-12840.| 
@@ -112,10 +111,10 @@
 | 20210811T22:20:48Z | Null | https://github.com/epsonik/FuzzyDescV2 | 0 | 0| 
 | 20210811T22:01:21Z | Fuzzer for Dolt repositories | https://github.com/dolthub/fuzzer | 2 | 0| 
 | 20210811T21:43:19Z | Null | https://github.com/elijah-atkins/fuzzmoon | 0 | 0| 
-| 20210811T21:34:02Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 21 | 9| 
 | 20210811T20:51:40Z | Implementacija algoritama fuzzy klasterovanja, njihova primena na odredjenim skupovima podataka i uporedjivanje sa drugim algoritmima klasterovanja. | https://github.com/markobabic8/Fuzzy-clustering | 0 | 1| 
 | 20210811T20:48:49Z | Null | https://github.com/pedrofnsc1/CSGOStatsFuzzy | 0 | 0| 
 | 20210811T20:35:52Z | Fuzzy inference system optimized by a genetic algorithm | https://github.com/layansg/Fuzzy-Inference-Optimization | 0 | 0| 
+| 20210811T20:33:00Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 4963 | 577| 
 
 
 
