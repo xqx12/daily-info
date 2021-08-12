@@ -83,7 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210811T23:56:03Z | Repository for programs from Jon Erickson%s Hacking - The Art of Exploitation (2d Ed) | https://github.com/PatrickBruso/Hacking | 0 | 0| 
+| 20210812T00:02:10Z | Repository for programs from Jon Erickson%s Hacking - The Art of Exploitation (2d Ed) | https://github.com/PatrickBruso/Hacking | 0 | 0| 
 | 20210811T23:35:59Z | this bash script is for remote linux hosts hacked! | https://github.com/FabioDefilippo/linuxallenum | 13 | 0| 
 | 20210811T23:15:53Z | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | 2247 | 408| 
 | 20210811T23:08:26Z | Exploiting Causal Structure for Transportability in Multi-Agent Environments | https://github.com/damianbrowne/ECS4TIME | 0 | 0| 
@@ -113,8 +113,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210811T21:40:49Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 93 | 6| 
+| 20210811T21:29:14Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1870 | 389| 
 | 20210811T08:16:09Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2417 | 357| 
-| 20210811T06:12:52Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1869 | 389| 
 | 20210810T18:01:35Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 451 | 68| 
 | 20210810T16:39:41Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 156 | 34| 
 | 20210810T12:49:15Z | A toy symbolic execution engine, supporting the blog article ... | https://github.com/synacktiv/toy-wasm-symbexp | 8 | 1| 
@@ -122,7 +123,6 @@
 | 20210809T19:16:35Z | A tool for generating nonlinear numerical invariants for C and Java programs.  DIG uses dynamic analysis to infer invariants over program execution traces and applies symbolic execution to inferred invariants. | https://github.com/unsat/dig | 4 | 4| 
 | 20210809T15:18:00Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 17 | 3| 
 | 20210807T20:35:57Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 7 | 4| 
-| 20210805T11:02:52Z | A RISC-V RV32 virtual prototype based on riscv-vp with symbolic execution support | https://github.com/agra-uni-bremen/symex-vp | 2 | 0| 
 
 
 # big4 on Github 推荐
@@ -137,6 +137,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210812T00:02:55Z | Null | https://github.com/wesleywen1/FuzzyMatcher | 0 | 0| 
+| 20210812T00:02:35Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210811T23:53:05Z | An investigation of American Fuzzy Lop++ as a fuzzer | https://github.com/hark130/hardy-remix | 0 | 0| 
 | 20210811T23:46:07Z | Null | https://github.com/lzhfromustc/goFuzz | 0 | 0| 
 | 20210811T22:33:01Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2371 | 136| 
@@ -145,8 +147,6 @@
 | 20210811T21:43:19Z | Null | https://github.com/elijah-atkins/fuzzmoon | 0 | 0| 
 | 20210811T21:34:02Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 21 | 9| 
 | 20210811T20:51:40Z | Implementacija algoritama fuzzy klasterovanja, njihova primena na odredjenim skupovima podataka i uporedjivanje sa drugim algoritmima klasterovanja. | https://github.com/markobabic8/Fuzzy-clustering | 0 | 1| 
-| 20210811T20:48:49Z | Null | https://github.com/pedrofnsc1/CSGOStatsFuzzy | 0 | 0| 
-| 20210811T20:35:52Z | Fuzzy inference system optimized by a genetic algorithm | https://github.com/layansg/Fuzzy-Inference-Optimization | 0 | 0| 
 
 
 

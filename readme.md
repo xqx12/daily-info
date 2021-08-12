@@ -62,7 +62,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210811T23:56:03Z | Repository for programs from Jon Erickson%s Hacking - The Art of Exploitation (2d Ed) | https://github.com/PatrickBruso/Hacking | 0 | 0| 
 | 20210811T23:35:59Z | this bash script is for remote linux hosts hacked! | https://github.com/FabioDefilippo/linuxallenum | 13 | 0| 
 | 20210811T23:15:53Z | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | 2247 | 408| 
 | 20210811T23:08:26Z | Exploiting Causal Structure for Transportability in Multi-Agent Environments | https://github.com/damianbrowne/ECS4TIME | 0 | 0| 
@@ -72,6 +71,7 @@
 | 20210811T22:50:44Z | Null | https://github.com/jwardsmith/Active-Directory-Exploitation | 3 | 1| 
 | 20210811T22:43:48Z | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | 101 | 18| 
 | 20210811T22:33:28Z | Null | https://github.com/locusmodzYT/exploit | 0 | 0| 
+| 20210811T22:31:54Z | Ipdetect is a tool with multiple functionalities ... still under development. With ipdetect you will be able to find vulnerabilities in a host being analyzed and exploit them later. | https://github.com/kanekorbs/ipdetect | 1 | 0| 
 
 
 # backdoor on Github 推荐
@@ -92,8 +92,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210811T21:40:49Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 93 | 6| 
+| 20210811T21:29:14Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1870 | 389| 
 | 20210811T08:16:09Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2417 | 357| 
-| 20210811T06:12:52Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1869 | 389| 
 
 
 # big4 on Github 推荐
