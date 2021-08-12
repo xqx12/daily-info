@@ -86,7 +86,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210812T12:52:58Z | Version of ParamSpider that can read files and receive only one URL | https://github.com/drjgouveia/ParamFuzzer | 0 | 0| 
+| 20210812T12:53:42Z | Version of ParamSpider that can read files and receive only one URL | https://github.com/drjgouveia/ParamFuzzer | 0 | 0| 
 | 20210812T12:50:00Z | Null | https://github.com/bfardtity/fuzzy-octo-waddle | 0 | 0| 
 | 20210812T12:40:13Z | Null | https://github.com/antonio-morales/Fuzzing101 | 95 | 12| 
 | 20210812T12:15:12Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 21 | 9| 
