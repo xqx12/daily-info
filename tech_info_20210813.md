@@ -28,10 +28,10 @@
 | --- | --- | --- | --- | ---| 
 | 20210813T11:54:45Z | CVE-2020-24186 | WpDiscuz 7.0.4 Arbitrary File Upload Exploit | https://github.com/meicookies/CVE-2020-24186 | A Remote Code Execution vulnerability exists in the gVectors wpDiscuz plugin 7.0 through 7.0.4 for WordPress, which allows unauthenticated users to upload any type of file, including PHP files via the wmuUploadFiles AJAX action.| 
 | 20210813T09:48:09Z | CVE-2021-34473 | Scanner for CVE-2021-34473, ProxyShell, A Microsoft Exchange On-premise Vulnerability | https://github.com/RaouzRouik/CVE-2021-34473-scanner | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-31196, CVE-2021-31206.| 
-| 20210813T07:46:30Z | CVE-2020-14364 | Null | https://github.com/y-f00l/CVE-2020-14364 | | 
+| 20210813T07:46:30Z | CVE-2020-14364 | Null | https://github.com/y-f00l/CVE-2020-14364 | An out-of-bounds read/write access flaw was found in the USB emulator of the QEMU in versions before 5.2.0. This issue occurs while processing USB packets from a guest when USBDevice %setup_len% exceeds its %data_buf[4096]% in the do_token_in, do_token_out routines. This flaw allows a guest user to crash the QEMU process, resulting in a denial of service, or the potential execution of arbitrary code with the privileges of the QEMU process on the host.| 
 | 20210813T06:48:35Z | CVE-2021-38600 | CVE-2021-38600 - Stored XSS in Pepperminty-Wiki 0.23-dev | https://github.com/hmaverickadams/CVE-2021-38600 | 未查询到CVE信息| 
 | 20210813T06:48:31Z | CVE-2021-38601 | CVE-2021-38601 - Reflected XSS in Pepperminty-Wiki 0.23-dev | https://github.com/hmaverickadams/CVE-2021-38601 | 未查询到CVE信息| 
-| 20210813T00:11:54Z | CVE-2021-37832 | CVE-2021-37832 - Hotel Druid 3.0.2 SQL Injection Vulnerability - 9.8 CVSS 3.1 | https://github.com/dievus/CVE-2021-37832 | A SQL injection vulnerability exists in version 3.0.2 of Hotel Druid when SQLite is being used as the application database. A malicious attacker can issue SQL commands to the SQLite database through the vulnerable idappartamenti parameter.| 
+| 20210813T00:11:54Z | CVE-2021-37832 | CVE-2021-37832 - Hotel Druid 3.0.2 SQL Injection Vulnerability - 9.8 CVSS 3.1 | https://github.com/dievus/CVE-2021-37832 | | 
 
 
 # klee on Github 推荐
@@ -75,6 +75,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210813T09:10:25Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 156 | 34| 
 
 
 # big4 on Github 推荐
@@ -86,6 +87,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210813T12:02:08Z | The Official Fuzzy Britches Repository. | https://github.com/ThePapaw/fuzzybritches | 0 | 0| 
 | 20210813T11:49:21Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4543 | 457| 
 | 20210813T11:46:43Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 5 | 1| 
 | 20210813T11:43:20Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 173 | 36| 
@@ -95,7 +97,6 @@
 | 20210813T10:32:08Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210813T09:37:52Z | find vulnerability of Django by fuzzing | https://github.com/lwzSoviet/djangofuzz | 0 | 0| 
 | 20210813T09:24:47Z | FuzzingStudy | https://github.com/qpalzmm22/FuzzingStudy | 1 | 0| 
-| 20210813T08:55:29Z | 🔥 Studying The Fuzzing Book : https://www.fuzzingbook.org | https://github.com/KimSeoYe/TheFuzzingBook | 1 | 0| 
 
 
 
