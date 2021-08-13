@@ -57,7 +57,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20210812T23:52:53Z | A console tool developed using Python to calculate the Content-Length of a given Request Body. Perfect for bug bounty hunting. Especially for exploiting HTTP REQUEST SMUGGLING (specifically CL-TE server chain).  Now let this tool calculate the Content-Length and save a lot of your valuable time.  | https://github.com/CYBERDEVILZ/Content-Length-Calculator | 0 | 0| 
-| 20210812T23:29:28Z | An introduction, explanation, and tutorial of various exploits for the heap of current and recent GNU libcs. | https://github.com/bstank/bstank.github.io | 0 | 0| 
 | 20210812T22:59:50Z | Vulnerabilities, exploits, and PoCs | https://github.com/Accenture/AARO-Bugs | 22 | 12| 
 | 20210812T21:49:45Z | Null | https://github.com/jwardsmith/Active-Directory-Exploitation | 3 | 1| 
 | 20210812T21:41:34Z | Null | https://github.com/XYZ-DANO/exploit-go | 0 | 0| 
@@ -66,6 +65,7 @@
 | 20210812T21:28:43Z | Installation and exploitation script for gentilwiki%s Mimispool Kiwi Printer. Written in PowerShell. | https://github.com/xbufu/Mimispool | 2 | 0| 
 | 20210812T21:14:16Z | Exploiting Causal Structure for Transportability in Multi-Agent Environments | https://github.com/damianbrowne/ECS4TIME | 0 | 0| 
 | 20210812T21:12:00Z |  SharpSploit is a .NET post-exploitation library written in C# | https://github.com/cobbr/SharpSploit | 1292 | 242| 
+| 20210812T21:04:30Z | Assessing vulnerable Virtual Machines that expose web servers, using ELK stack to analyze logs and test alerts. Exploiting of a vulnerable WordPress installation. | https://github.com/YargiC5/Cybersecurity-Project-3-Final-Engagement | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -97,12 +97,12 @@
 | 20210812T23:17:39Z | An investigation of American Fuzzy Lop++ as a fuzzer | https://github.com/hark130/hardy-remix | 0 | 0| 
 | 20210812T23:01:48Z | Null | https://github.com/antonio-morales/Fuzzing101 | 108 | 14| 
 | 20210812T22:12:54Z | Null | https://github.com/giorgio9002/fuzzy-robot | 0 | 0| 
-| 20210812T22:08:32Z | Find the ideal fuzz targets in a Rust codebase | https://github.com/trailofbits/siderophile | 104 | 8| 
 | 20210812T21:40:50Z | Null | https://github.com/wearypossum4770/fuzzy-funicular | 0 | 0| 
 | 20210812T21:24:42Z | Null | https://github.com/Hassnain69/fuzzy-invention | 0 | 0| 
 | 20210812T21:13:19Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6548 | 1333| 
 | 20210812T20:24:33Z | These tests of libdwarf/dwarfdump include old object files, new ones, and many fuzzed object files. These are the definitive tests that things work.. Most people have no reason to run these tests. | https://github.com/davea42/libdwarf-regressiontests | 0 | 0| 
 | 20210812T20:10:07Z | JQF + Zest: Coverage-guided semantic fuzzing for Java. | https://github.com/rohanpadhye/JQF | 388 | 56| 
+| 20210812T20:07:11Z | A bare-metal x86 instruction set fuzzer a la Sandsifter | https://github.com/blitz/baresifter | 37 | 3| 
 
 
 

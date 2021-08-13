@@ -83,9 +83,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210813T00:06:39Z | An introduction, explanation, and tutorial of various exploits for the heap of current and recent GNU libcs. | https://github.com/bstank/bstank.github.io | 0 | 0| 
 | 20210813T00:03:15Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210812T23:52:53Z | A console tool developed using Python to calculate the Content-Length of a given Request Body. Perfect for bug bounty hunting. Especially for exploiting HTTP REQUEST SMUGGLING (specifically CL-TE server chain).  Now let this tool calculate the Content-Length and save a lot of your valuable time.  | https://github.com/CYBERDEVILZ/Content-Length-Calculator | 0 | 0| 
-| 20210812T23:29:28Z | An introduction, explanation, and tutorial of various exploits for the heap of current and recent GNU libcs. | https://github.com/bstank/bstank.github.io | 0 | 0| 
 | 20210812T22:59:50Z | Vulnerabilities, exploits, and PoCs | https://github.com/Accenture/AARO-Bugs | 22 | 12| 
 | 20210812T21:49:45Z | Null | https://github.com/jwardsmith/Active-Directory-Exploitation | 3 | 1| 
 | 20210812T21:41:34Z | Null | https://github.com/XYZ-DANO/exploit-go | 0 | 0| 
@@ -137,11 +137,11 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210813T00:07:04Z | Find the ideal fuzz targets in a Rust codebase | https://github.com/trailofbits/siderophile | 105 | 8| 
 | 20210812T23:27:42Z | Null | https://github.com/Ubisam-Project-MASIDU/FuzzStoryWorld | 0 | 0| 
 | 20210812T23:17:39Z | An investigation of American Fuzzy Lop++ as a fuzzer | https://github.com/hark130/hardy-remix | 0 | 0| 
 | 20210812T23:01:48Z | Null | https://github.com/antonio-morales/Fuzzing101 | 108 | 14| 
 | 20210812T22:12:54Z | Null | https://github.com/giorgio9002/fuzzy-robot | 0 | 0| 
-| 20210812T22:08:32Z | Find the ideal fuzz targets in a Rust codebase | https://github.com/trailofbits/siderophile | 104 | 8| 
 | 20210812T21:40:50Z | Null | https://github.com/wearypossum4770/fuzzy-funicular | 0 | 0| 
 | 20210812T21:24:42Z | Null | https://github.com/Hassnain69/fuzzy-invention | 0 | 0| 
 | 20210812T21:13:19Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6548 | 1333| 
