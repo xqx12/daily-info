@@ -95,11 +95,11 @@
 | 20210812T22:12:54Z | Null | https://github.com/giorgio9002/fuzzy-robot | 0 | 0| 
 | 20210812T21:40:50Z | Null | https://github.com/wearypossum4770/fuzzy-funicular | 0 | 0| 
 | 20210812T21:24:42Z | Null | https://github.com/Hassnain69/fuzzy-invention | 0 | 0| 
-| 20210812T21:13:19Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6548 | 1333| 
 | 20210812T20:24:33Z | These tests of libdwarf/dwarfdump include old object files, new ones, and many fuzzed object files. These are the definitive tests that things work.. Most people have no reason to run these tests. | https://github.com/davea42/libdwarf-regressiontests | 0 | 0| 
 | 20210812T20:10:07Z | JQF + Zest: Coverage-guided semantic fuzzing for Java. | https://github.com/rohanpadhye/JQF | 388 | 56| 
 | 20210812T20:07:11Z | A bare-metal x86 instruction set fuzzer a la Sandsifter | https://github.com/blitz/baresifter | 37 | 3| 
 | 20210812T19:49:41Z | Gentoo overlay | https://github.com/lferra/fuzzy-potato | 0 | 0| 
+| 20210812T19:32:05Z | Manage & generate prefs.js files | https://github.com/MozillaSecurity/prefpicker | 5 | 2| 
 
 
 
