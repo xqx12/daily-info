@@ -137,6 +137,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210813T01:04:03Z | 🔥 Studying The Fuzzing Book : https://www.fuzzingbook.org | https://github.com/KimSeoYe/TheFuzzingBook | 1 | 0| 
+| 20210813T01:02:22Z | A website that animates various pathfinding algorithms | https://github.com/donguyentung2001/fuzzy-octo-tribble | 0 | 0| 
 | 20210813T00:51:28Z | Null | https://github.com/Ubisam-Project-MASIDU/FuzzStoryWorld | 0 | 0| 
 | 20210813T00:48:32Z | Null | https://github.com/luckoftheseapples/fuzzy-octo-journey | 0 | 0| 
 | 20210813T00:44:29Z | Open Enclave specific security automation projects (CodeQL static analysis, Fuzzing and binary analysis). | https://github.com/openenclave/openenclave-security | 2 | 4| 
@@ -145,8 +147,6 @@
 | 20210813T00:28:36Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6547 | 1333| 
 | 20210813T00:13:49Z | Null | https://github.com/marciommrs/fuzzy-octo-winner | 0 | 0| 
 | 20210813T00:07:04Z | Find the ideal fuzz targets in a Rust codebase | https://github.com/trailofbits/siderophile | 105 | 8| 
-| 20210812T23:17:39Z | An investigation of American Fuzzy Lop++ as a fuzzer | https://github.com/hark130/hardy-remix | 0 | 0| 
-| 20210812T23:01:48Z | Null | https://github.com/antonio-morales/Fuzzing101 | 108 | 14| 
 
 
 
