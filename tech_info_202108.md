@@ -51,8 +51,8 @@
 | 20210812T21:03:12Z | CVE-2021-38602 | Null | https://github.com/KielVaughn/CVE-2021-38602 | PluXML 5.8.7 allows Article Editing stored XSS via Headline or Content.| 
 | 20210812T20:21:18Z | CVE-2021-38601 | CVE-2021-38601 - Reflected XSS in Pepperminty-Wiki 0.23-dev | https://github.com/hmaverickadams/CVE-2021-38601 | 未查询到CVE信息| 
 | 20210812T18:55:05Z | CVE-2021-38600 | CVE-2021-38600 - Stored XSS in Pepperminty-Wiki 0.23-dev | https://github.com/hmaverickadams/CVE-2021-38600 | 未查询到CVE信息| 
-| 20210812T12:54:07Z | CVE-2021-38583 | Null | https://github.com/charlesbickel/CVE-2021-38583 | 未查询到CVE信息| 
-| 20210812T06:14:18Z | CVE-2020-8277 | Exploit for CVE-2020-8277 (educational purpose) | https://github.com/progfay/CVE-2020-8277 | A Node.js application that allows an attacker to trigger a DNS request for a host of their choice could trigger a Denial of Service in versions < 15.2.1, < 14.15.1, and < 12.19.1 by getting the application to resolve a DNS record with a larger number of responses. This is fixed in 15.2.1, 14.15.1, and 12.19.1.| 
+| 20210812T12:54:07Z | CVE-2021-38583 | Null | https://github.com/charlesbickel/CVE-2021-38583 | | 
+| 20210812T06:14:18Z | CVE-2020-8277 | Exploit for CVE-2020-8277 (educational purpose) | https://github.com/progfay/CVE-2020-8277 | | 
 | 20210812T03:09:47Z | 未知编号 | cve | https://github.com/e0mlja/cve202014883 | 未查询到CVE信息| 
 | 20210811T20:06:46Z | CVE-2021-36934 | Fix for the CVE-2021-36934 | https://github.com/JoranSlingerland/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
 | 20210811T17:01:18Z | CVE-2021-34481 | Check patch for CVE-2021-34481 | https://github.com/vanpn/CVE-2021-34481 | Windows Print Spooler Elevation of Privilege Vulnerability| 
@@ -137,6 +137,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210813T01:54:28Z | Null | https://github.com/lagherua/fuzzy-guide | 0 | 0| 
+| 20210813T01:53:48Z | Null | https://github.com/pedrofnsc1/CSGOStatsFuzzy | 0 | 0| 
 | 20210813T01:52:40Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210813T01:32:26Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210813T01:04:03Z | 🔥 Studying The Fuzzing Book : https://www.fuzzingbook.org | https://github.com/KimSeoYe/TheFuzzingBook | 1 | 0| 
@@ -145,8 +147,6 @@
 | 20210813T00:48:32Z | Null | https://github.com/luckoftheseapples/fuzzy-octo-journey | 0 | 0| 
 | 20210813T00:44:29Z | Open Enclave specific security automation projects (CodeQL static analysis, Fuzzing and binary analysis). | https://github.com/openenclave/openenclave-security | 2 | 4| 
 | 20210813T00:36:57Z | Classificação de danos em sementes de soja através de descritores do sistema de análise de imagens do teste de Tetrazólio | https://github.com/LuanMagioli/Tetrazolio-Fuzzy | 0 | 0| 
-| 20210813T00:32:22Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
-| 20210813T00:28:36Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6547 | 1333| 
 
 
 
