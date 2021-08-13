@@ -31,9 +31,9 @@
 | --- | --- | --- | --- | ---| 
 | 20210812T21:09:27Z | CVE-2021-38603 | Null | https://github.com/KielVaughn/CVE-2021-38603 | PluXML 5.8.7 allows core/admin/profil.php stored XSS via the Information field.| 
 | 20210812T21:03:12Z | CVE-2021-38602 | Null | https://github.com/KielVaughn/CVE-2021-38602 | PluXML 5.8.7 allows Article Editing stored XSS via Headline or Content.| 
-| 20210812T20:21:18Z | CVE-2021-38601 | CVE-2021-38601 - Reflected XSS in Pepperminty-Wiki 0.23-dev | https://github.com/hmaverickadams/CVE-2021-38601 | 未查询到CVE信息| 
+| 20210812T20:21:18Z | CVE-2021-38601 | CVE-2021-38601 - Reflected XSS in Pepperminty-Wiki 0.23-dev | https://github.com/hmaverickadams/CVE-2021-38601 | | 
 | 20210812T18:55:05Z | CVE-2021-38600 | CVE-2021-38600 - Stored XSS in Pepperminty-Wiki 0.23-dev | https://github.com/hmaverickadams/CVE-2021-38600 | 未查询到CVE信息| 
-| 20210812T12:54:07Z | CVE-2021-38583 | Null | https://github.com/charlesbickel/CVE-2021-38583 | | 
+| 20210812T12:54:07Z | CVE-2021-38583 | Null | https://github.com/charlesbickel/CVE-2021-38583 | 未查询到CVE信息| 
 | 20210812T07:37:58Z | CVE-2021-37832 | CVE-2021-37832 - Hotel Druid 3.0.2 SQL Injection Vulnerability - 9.8 CVSS 3.1 | https://github.com/dievus/CVE-2021-37832 | A SQL injection vulnerability exists in version 3.0.2 of Hotel Druid when SQLite is being used as the application database. A malicious attacker can issue SQL commands to the SQLite database through the vulnerable idappartamenti parameter.| 
 | 20210812T06:14:18Z | CVE-2020-8277 | Exploit for CVE-2020-8277 (educational purpose) | https://github.com/progfay/CVE-2020-8277 | A Node.js application that allows an attacker to trigger a DNS request for a host of their choice could trigger a Denial of Service in versions < 15.2.1, < 14.15.1, and < 12.19.1 by getting the application to resolve a DNS record with a larger number of responses. This is fixed in 15.2.1, 14.15.1, and 12.19.1.| 
 | 20210812T03:09:47Z | 未知编号 | cve | https://github.com/e0mlja/cve202014883 | 未查询到CVE信息| 
@@ -58,7 +58,6 @@
 | --- | --- | --- | --- | ---| 
 | 20210812T23:52:53Z | A console tool developed using Python to calculate the Content-Length of a given Request Body. Perfect for bug bounty hunting. Especially for exploiting HTTP REQUEST SMUGGLING (specifically CL-TE server chain).  Now let this tool calculate the Content-Length and save a lot of your valuable time.  | https://github.com/CYBERDEVILZ/Content-Length-Calculator | 0 | 0| 
 | 20210812T23:29:28Z | An introduction, explanation, and tutorial of various exploits for the heap of current and recent GNU libcs. | https://github.com/bstank/bstank.github.io | 0 | 0| 
-| 20210812T23:03:02Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210812T22:59:50Z | Vulnerabilities, exploits, and PoCs | https://github.com/Accenture/AARO-Bugs | 22 | 12| 
 | 20210812T21:49:45Z | Null | https://github.com/jwardsmith/Active-Directory-Exploitation | 3 | 1| 
 | 20210812T21:41:34Z | Null | https://github.com/XYZ-DANO/exploit-go | 0 | 0| 
@@ -66,6 +65,7 @@
 | 20210812T21:40:38Z | Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish to influence Onelinetips and explain the commands, for the better understanding of new hunters.. | https://github.com/KingOfBugbounty/KingOfBugBountyTips | 2296 | 393| 
 | 20210812T21:28:43Z | Installation and exploitation script for gentilwiki%s Mimispool Kiwi Printer. Written in PowerShell. | https://github.com/xbufu/Mimispool | 2 | 0| 
 | 20210812T21:14:16Z | Exploiting Causal Structure for Transportability in Multi-Agent Environments | https://github.com/damianbrowne/ECS4TIME | 0 | 0| 
+| 20210812T21:12:00Z |  SharpSploit is a .NET post-exploitation library written in C# | https://github.com/cobbr/SharpSploit | 1292 | 242| 
 
 
 # backdoor on Github 推荐
@@ -80,6 +80,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210812T22:44:42Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2418 | 358| 
 | 20210812T10:26:26Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 93 | 6| 
 | 20210812T09:14:05Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 452 | 68| 
 
