@@ -51,9 +51,9 @@
 | 20210813T09:48:09Z | CVE-2021-34473 | Scanner for CVE-2021-34473, ProxyShell, A Microsoft Exchange On-premise Vulnerability | https://github.com/RaouzRouik/CVE-2021-34473-scanner | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-31196, CVE-2021-31206.| 
 | 20210813T07:46:30Z | CVE-2020-14364 | Null | https://github.com/y-f00l/CVE-2020-14364 | An out-of-bounds read/write access flaw was found in the USB emulator of the QEMU in versions before 5.2.0. This issue occurs while processing USB packets from a guest when USBDevice %setup_len% exceeds its %data_buf[4096]% in the do_token_in, do_token_out routines. This flaw allows a guest user to crash the QEMU process, resulting in a denial of service, or the potential execution of arbitrary code with the privileges of the QEMU process on the host.| 
 | 20210813T06:48:35Z | CVE-2021-38600 | CVE-2021-38600 - Stored XSS in Pepperminty-Wiki 0.23-dev | https://github.com/hmaverickadams/CVE-2021-38600 | 未查询到CVE信息| 
-| 20210813T06:48:31Z | CVE-2021-38601 | CVE-2021-38601 - Reflected XSS in Pepperminty-Wiki 0.23-dev | https://github.com/hmaverickadams/CVE-2021-38601 | 未查询到CVE信息| 
+| 20210813T06:48:31Z | CVE-2021-38601 | CVE-2021-38601 - Reflected XSS in Pepperminty-Wiki 0.23-dev | https://github.com/hmaverickadams/CVE-2021-38601 | | 
 | 20210813T00:11:54Z | CVE-2021-37832 | CVE-2021-37832 - Hotel Druid 3.0.2 SQL Injection Vulnerability - 9.8 CVSS 3.1 | https://github.com/dievus/CVE-2021-37832 | A SQL injection vulnerability exists in version 3.0.2 of Hotel Druid when SQLite is being used as the application database. A malicious attacker can issue SQL commands to the SQLite database through the vulnerable idappartamenti parameter.| 
-| 20210812T21:09:27Z | CVE-2021-38603 | Null | https://github.com/KielVaughn/CVE-2021-38603 | | 
+| 20210812T21:09:27Z | CVE-2021-38603 | Null | https://github.com/KielVaughn/CVE-2021-38603 | PluXML 5.8.7 allows core/admin/profil.php stored XSS via the Information field.| 
 | 20210812T21:03:12Z | CVE-2021-38602 | Null | https://github.com/KielVaughn/CVE-2021-38602 | PluXML 5.8.7 allows Article Editing stored XSS via Headline or Content.| 
 | 20210812T12:54:07Z | CVE-2021-38583 | Null | https://github.com/charlesbickel/CVE-2021-38583 | 未查询到CVE信息| 
 
@@ -83,6 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210813T12:27:41Z | Installation and exploitation script for gentilwiki%s Mimispool Kiwi Printer. Written in PowerShell. | https://github.com/xbufu/Mimispool | 3 | 0| 
 | 20210813T12:08:30Z | Exploit Code | https://github.com/wjddnjs33/Exploit | 0 | 0| 
 | 20210813T12:03:01Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210813T11:54:45Z | WpDiscuz 7.0.4 Arbitrary File Upload Exploit | https://github.com/meicookies/CVE-2020-24186 | 0 | 0| 
@@ -92,17 +93,16 @@
 | 20210813T10:04:01Z | E3C is a freely available multilingual corpus (Italian, English, French, Spanish, and Basque) of semantically annotated clinical narratives to allow for the linguistic analysis, benchmarking, and training of information extraction systems. It consists of two types of annotations: (i) clinical entities: pathologies, symptoms, procedures, body parts, etc., according to standard clinical taxonomies (i.e. SNOMED-CT, ICD-10); and (ii) temporal information and factuality: events, time expressions, and temporal relations according to the THYME standard. The corpus is organised into three layers, with different purposes. Layer 1: about 25K tokens per language with full manual annotation of clinical entities, temporal information and factuality, for benchmarkingand linguistic analysis. Layer 2: 50-100K tokens per language with semi-automatic annotations of clinical entities, to be used to train baseline systems. Layer 3: about 1M tokens per language of non-annotated medical documents to be exploited by semi-supervised approaches. Researchers can use the benchmark training and test splits of our corpus to develop and test their own models. We trained several deep learning based models and provide baselines using the benchmark. Both the corpus and the built models will be available through the ELG platform.  | https://github.com/hltfbk/E3C-Corpus | 0 | 1| 
 | 20210813T09:40:32Z | Key-Breaker is a public tool (OSS) used to currently retrieve, cipher, and exploit the weak security standards of Chrome. It also comes with a built-in demo of worms 🪱 | https://github.com/KazutoKashima/Project-Key-Breaker | 2 | 1| 
 | 20210813T09:38:20Z | Third (and last) virtual machine on binary exploitation and cybersecurity. Part of the 42 School cybersec branch. | https://github.com/d-r-e/override | 0 | 0| 
-| 20210813T09:31:28Z | A collection of kernel pwn challenges and writeups | https://github.com/fr33bug/PWN | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210813T12:29:49Z | Python AV Evasion Tools | https://github.com/G1ft3dC0d3/MsfMania | 205 | 45| 
 | 20210813T12:12:03Z | Null | https://github.com/KangProf/reverse_tcp_backdoor | 1 | 0| 
 | 20210813T12:11:59Z | Null | https://github.com/KangProf/backdoor_python | 1 | 0| 
 | 20210813T10:46:08Z | Null | https://github.com/adi33333333334/Backdoor | 0 | 0| 
 | 20210813T10:13:42Z | A Hidden and Undetectable Remote Access Tool written in C++ and Server in Python3 | https://github.com/Ryan-AW/Windows-Backdoor | 16 | 3| 
-| 20210813T10:11:19Z | Python AV Evasion Tools | https://github.com/G1ft3dC0d3/MsfMania | 205 | 45| 
 | 20210813T09:04:25Z | A module-based repository for testing and evaluating backdoor attacks and defenses. | https://github.com/SewoongLab/backdoor-suite | 2 | 0| 
 | 20210813T07:22:55Z | OWASP ZAP add-on containing the web-backdoors and attack files from FuzzDB | https://github.com/zaproxy/fuzzdb-offensive | 6 | 6| 
 | 20210812T18:34:29Z | POC Exploit writen in Bash that takes advantage of the %User-Agentt% backdoor included in PHP 8.1.0-dev. | https://github.com/thepedroalves/PHP-8.1.0-dev-RCE | 0 | 0| 
