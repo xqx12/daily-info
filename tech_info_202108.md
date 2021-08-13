@@ -6,6 +6,14 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210813 | When Memory Serves Not So Well: Memory Errors 30 Years Later（paper） | https://sec.today/pulses/dd5e01fd-82e1-4032-8376-6eaa24b0633e/| 
+| 20210813 | VMPImportFixer - 还原被 VMP 加壳后二进制的导入表信息 | https://github.com/mike1k/VMPImportFixer| 
+| 20210813 | ByeIntegrity 8.0 - 利用 Program Compatibility Assistant 实现 UAC Bypass | https://github.com/AzAgarampur/byeintegrity8-uac| 
+| 20210813 | Fortinet FortiPortal 安全管理 Web Portal 被发现多个漏洞 | https://insomniasec.com/blog/fortiportal-disclosures| 
+| 20210813 | Intel 关于 Intel Debug Technology 的文档 | https://software.intel.com/content/www/us/en/develop/articles/software-security-guidance/secure-coding/intel-debug-technology.html| 
+| 20210813 | ProxyShell Exchange RCE 漏洞的重现过程 | https://y4y.space/2021/08/12/my-steps-of-reproducing-proxyshell/| 
+| 20210813 | Nyx: Greybox Hypervisor Fuzzing using Fast Snapshots and Affine Types（Paper） | https://www.usenix.org/conference/usenixsecurity21/presentation/schumilo| 
+| 20210813 | Who’s Debugging the Debuggers，挖掘软件调试信息处理工具链中的 Bug | https://bibbase.org/network/publication/diluna-italiano-massarelli-sterlund-giuffrida-querzoni-whosdebuggingthedebuggersexposingdebuginformationbugsinoptimizedbinaries-2021| 
 | 20210812 | Visual Studio Code .ipynb Jupyter Notebook XSS 漏洞分析 | https://github.com/justinsteven/advisories/blob/master/2021_vscode_ipynb_xss_arbitrary_file_read.md| 
 | 20210812 | Common GraphQL Misconceptions | https://securitygoat.medium.com/common-graphql-misconceptions-a-rant-489647167ca3| 
 | 20210812 | Poly Network 团队被窃取价值 6 亿美元的加密货币, 随后该团队在 Twitter 发表声明表示这是严重经济犯罪. 目前, 黑客真的退回了其中的 2.58 亿 | https://blog.malwarebytes.com/reports/2021/08/code-vulnerability-leads-to-colossal-600-million-cryptocurrency-theft/| 
@@ -18,19 +26,13 @@
 | 20210812 | 探讨Shell注入执行命令的方法。 | https://matklad.github.io//2021/07/30/shell-injection.html| 
 | 20210811 | 通过 RPC 触发的 NTLM Relaying 漏洞（CVE-2021-26414） | https://blog.compass-security.com/2021/08/relaying-ntlm-authentication-over-rpc-again/| 
 | 20210811 | Pulse Connect Secure – RCE via Uncontrolled Archive Extraction – CVE-2021-22937 (Patch Bypass) | https://research.nccgroup.com/2021/08/05/technical-advisory-pulse-connect-secure-rce-via-uncontrolled-archive-extraction-cve-2021-22937-patch-bypass/| 
-| 20210811 | 针对 HTTP/2 协议的 DESYNC 攻击 | https://portswigger.net/research/http2| 
-| 20210811 | 利用 CodeQL 挖掘 NSA 开源的分布式 Workflow 框架 - Emissary 的漏洞 | https://securitylab.github.com/research/NSA-emissary/| 
-| 20210811 | How to Hack APIs in 2021 | https://labs.detectify.com/2021/08/10/how-to-hack-apis-in-2021/| 
-| 20210811 | Having fun with a Use-After-Free in ProFTPd (CVE-2020-9273) | https://adepts.of0x.cc/proftpd-cve-2020-9273-exploit/| 
-| 20210811 | EasyAntiCheat Exploit to inject unsigned code into protected processes | https://back.engineering/10/08/2021/| 
-| 20210811 | 360 Alpha Lab 关于利用 CodeQL 挖掘 Chrome 漏洞变种的研究 | https://i.blackhat.com/USA21/Wednesday-Handouts/us-21-Leecraso-Put-In-One-Bug-And-Pop-Out-More-An-Effective-Way-Of-Bug-Hunting-In-Chrome.pdf| 
-| 20210811 | Firefox 91 支持用户一键清除指定或全部站点的 Cookie | https://blog.mozilla.org/security/2021/08/10/firefox-91-introduces-enhanced-cookie-clearing/| 
-| 20210811 | XSLM 恶意软件利用 MacroSheets 提供的访问窗口的高级功能躲避杀软检测 | https://sec.today/pulses/72aa8c6a-8153-47b9-9956-9d14877eaecc/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210813 | Lorec53组织分析报告- 攻击组件部分 | https://mp.weixin.qq.com/s/t_d8I4l0SnzGDXLRmmQzYg| 
+| 20210813 | 针对UAF类漏洞的定向Fuzz论文分享 | https://mp.weixin.qq.com/s/8zGKJzipp8AS4o3rjFr8rw| 
 | 20210812 | CodeQL从入门到放弃 | https://www.freebuf.com/articles/web/283795.html| 
 | 20210812 | 基于词依存信息类型映射记忆神经网络的关系抽取 | https://mp.weixin.qq.com/s/BV1u8zq0YoP2yOKpKD_xNw| 
 | 20210812 | Microsoft对于信息安全建设与业务发展之间平衡的思考（上） | https://zhuanlan.zhihu.com/p/376562987| 
@@ -39,29 +41,27 @@
 | 20210811 | APT29—觊觎全球情报的国家级黑客组织（中） | https://mp.weixin.qq.com/s/Ln7iBm-Go17CQhIaRNHD0Q| 
 | 20210811 | APT29—觊觎全球情报的国家级黑客组织（上） | https://mp.weixin.qq.com/s/x0Y8psN_luaIH8dfQjwp3w| 
 | 20210811 | 南亚地区APT组织2020年度攻击活动回顾（下） | https://mp.weixin.qq.com/s/XcBuxlDh2DIjIMdFH6KCKQ| 
-| 20210811 | 南亚地区APT组织2020年度攻击活动回顾（上） | https://mp.weixin.qq.com/s/IG8g8F6-YqTTcGX1BaSNaQ| 
-| 20210811 | 如何检测暗链植入 | https://mp.weixin.qq.com/s/EIC__6o3-tppnmcZMo6d8g| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210813T11:54:45Z | CVE-2020-24186 | WpDiscuz 7.0.4 Arbitrary File Upload Exploit | https://github.com/meicookies/CVE-2020-24186 | A Remote Code Execution vulnerability exists in the gVectors wpDiscuz plugin 7.0 through 7.0.4 for WordPress, which allows unauthenticated users to upload any type of file, including PHP files via the wmuUploadFiles AJAX action.| 
+| 20210813T09:48:09Z | CVE-2021-34473 | Scanner for CVE-2021-34473, ProxyShell, A Microsoft Exchange On-premise Vulnerability | https://github.com/RaouzRouik/CVE-2021-34473-scanner | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-31196, CVE-2021-31206.| 
+| 20210813T07:46:30Z | CVE-2020-14364 | Null | https://github.com/y-f00l/CVE-2020-14364 | | 
+| 20210813T06:48:35Z | CVE-2021-38600 | CVE-2021-38600 - Stored XSS in Pepperminty-Wiki 0.23-dev | https://github.com/hmaverickadams/CVE-2021-38600 | 未查询到CVE信息| 
+| 20210813T06:48:31Z | CVE-2021-38601 | CVE-2021-38601 - Reflected XSS in Pepperminty-Wiki 0.23-dev | https://github.com/hmaverickadams/CVE-2021-38601 | 未查询到CVE信息| 
 | 20210813T00:11:54Z | CVE-2021-37832 | CVE-2021-37832 - Hotel Druid 3.0.2 SQL Injection Vulnerability - 9.8 CVSS 3.1 | https://github.com/dievus/CVE-2021-37832 | A SQL injection vulnerability exists in version 3.0.2 of Hotel Druid when SQLite is being used as the application database. A malicious attacker can issue SQL commands to the SQLite database through the vulnerable idappartamenti parameter.| 
 | 20210812T21:09:27Z | CVE-2021-38603 | Null | https://github.com/KielVaughn/CVE-2021-38603 | PluXML 5.8.7 allows core/admin/profil.php stored XSS via the Information field.| 
 | 20210812T21:03:12Z | CVE-2021-38602 | Null | https://github.com/KielVaughn/CVE-2021-38602 | PluXML 5.8.7 allows Article Editing stored XSS via Headline or Content.| 
-| 20210812T20:21:18Z | CVE-2021-38601 | CVE-2021-38601 - Reflected XSS in Pepperminty-Wiki 0.23-dev | https://github.com/hmaverickadams/CVE-2021-38601 | 未查询到CVE信息| 
-| 20210812T18:55:05Z | CVE-2021-38600 | CVE-2021-38600 - Stored XSS in Pepperminty-Wiki 0.23-dev | https://github.com/hmaverickadams/CVE-2021-38600 | 未查询到CVE信息| 
 | 20210812T12:54:07Z | CVE-2021-38583 | Null | https://github.com/charlesbickel/CVE-2021-38583 | 未查询到CVE信息| 
 | 20210812T06:14:18Z | CVE-2020-8277 | Exploit for CVE-2020-8277 (educational purpose) | https://github.com/progfay/CVE-2020-8277 | A Node.js application that allows an attacker to trigger a DNS request for a host of their choice could trigger a Denial of Service in versions < 15.2.1, < 14.15.1, and < 12.19.1 by getting the application to resolve a DNS record with a larger number of responses. This is fixed in 15.2.1, 14.15.1, and 12.19.1.| 
-| 20210812T03:09:47Z | 未知编号 | cve | https://github.com/e0mlja/cve202014883 | 未查询到CVE信息| 
-| 20210811T20:06:46Z | CVE-2021-36934 | Fix for the CVE-2021-36934 | https://github.com/JoranSlingerland/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
-| 20210811T17:01:18Z | CVE-2021-34481 | Check patch for CVE-2021-34481 | https://github.com/vanpn/CVE-2021-34481 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210813T01:46:01Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2583 | 63| 
+| 20210813T09:08:02Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2585 | 64| 
 | 20210813T01:36:20Z | Null | https://github.com/santiagoHV/kleer-dojo-assessment-backend | 0 | 0| 
 | 20210812T09:13:07Z | Null | https://github.com/kamosika179/kleegame | 0 | 0| 
 | 20210812T03:13:02Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 12 | 1| 
@@ -83,31 +83,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210813T01:31:27Z | network programming with golang and hacking/exploitation | https://github.com/jackal-sec/golang | 0 | 0| 
-| 20210813T01:16:11Z | Notes for learing binary exploitation on Linux x86 and x86-64 architectures. | https://github.com/rodobre/pwn-notes | 0 | 0| 
-| 20210813T01:03:11Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
-| 20210813T00:59:52Z | Key-Breaker is a public tool (OSS) used to currently retrieve, cipher, and exploit the weak security standards of Chrome. It also comes with a built-in demo of worms 🪱 | https://github.com/KazutoKashima/Project-Key-Breaker | 2 | 1| 
-| 20210813T00:52:16Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 19 | 12| 
-| 20210813T00:46:23Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9852 | 1634| 
-| 20210813T00:38:46Z | Writeup for exploit.education/nebula | https://github.com/vi11ain/nebula-writeup | 1 | 0| 
-| 20210813T00:35:39Z | Repository for programs from Jon Erickson%s Hacking - The Art of Exploitation (2d Ed) | https://github.com/PatrickBruso/Hacking | 0 | 0| 
-| 20210813T00:21:41Z | Exploiting Causal Structure for Transportability in Multi-Agent Environments | https://github.com/damianbrowne/ECS4TIME | 0 | 0| 
-| 20210813T00:11:26Z | Drafts of exploits made for studying and consultation purposes | https://github.com/brerodrigues/exploit_drafts | 0 | 0| 
+| 20210813T11:54:45Z | WpDiscuz 7.0.4 Arbitrary File Upload Exploit | https://github.com/meicookies/CVE-2020-24186 | 0 | 0| 
+| 20210813T11:28:04Z | This repository will feature my scripts, research and documentation on Pokémon engines, glitches and exploits. | https://github.com/RETIREglitch/Pokemon-Research | 4 | 2| 
+| 20210813T11:23:39Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 6333 | 1771| 
+| 20210813T11:16:10Z | 42 , Security project, 15 levels to discover securities exploits | https://github.com/thallard/snow-crash | 0 | 0| 
+| 20210813T11:03:03Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
+| 20210813T10:04:01Z | E3C is a freely available multilingual corpus (Italian, English, French, Spanish, and Basque) of semantically annotated clinical narratives to allow for the linguistic analysis, benchmarking, and training of information extraction systems. It consists of two types of annotations: (i) clinical entities: pathologies, symptoms, procedures, body parts, etc., according to standard clinical taxonomies (i.e. SNOMED-CT, ICD-10); and (ii) temporal information and factuality: events, time expressions, and temporal relations according to the THYME standard. The corpus is organised into three layers, with different purposes. Layer 1: about 25K tokens per language with full manual annotation of clinical entities, temporal information and factuality, for benchmarkingand linguistic analysis. Layer 2: 50-100K tokens per language with semi-automatic annotations of clinical entities, to be used to train baseline systems. Layer 3: about 1M tokens per language of non-annotated medical documents to be exploited by semi-supervised approaches. Researchers can use the benchmark training and test splits of our corpus to develop and test their own models. We trained several deep learning based models and provide baselines using the benchmark. Both the corpus and the built models will be available through the ELG platform.  | https://github.com/hltfbk/E3C-Corpus | 0 | 1| 
+| 20210813T09:40:32Z | Key-Breaker is a public tool (OSS) used to currently retrieve, cipher, and exploit the weak security standards of Chrome. It also comes with a built-in demo of worms 🪱 | https://github.com/KazutoKashima/Project-Key-Breaker | 2 | 1| 
+| 20210813T09:38:20Z | Third (and last) virtual machine on binary exploitation and cybersecurity. Part of the 42 School cybersec branch. | https://github.com/d-r-e/override | 0 | 0| 
+| 20210813T09:31:28Z | A collection of kernel pwn challenges and writeups | https://github.com/fr33bug/PWN | 0 | 0| 
+| 20210813T09:04:32Z | A post exploitation framework designed to operate covertly on heavily monitored environments | https://github.com/bats3c/shad0w | 1354 | 228| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210813T10:46:08Z | Null | https://github.com/adi33333333334/Backdoor | 0 | 0| 
+| 20210813T10:13:42Z | A Hidden and Undetectable Remote Access Tool written in C++ and Server in Python3 | https://github.com/Ryan-AW/Windows-Backdoor | 16 | 3| 
+| 20210813T10:11:19Z | Python AV Evasion Tools | https://github.com/G1ft3dC0d3/MsfMania | 205 | 45| 
+| 20210813T09:04:25Z | A module-based repository for testing and evaluating backdoor attacks and defenses. | https://github.com/SewoongLab/backdoor-suite | 2 | 0| 
+| 20210813T08:54:30Z | Null | https://github.com/KangProf/backdoor_python | 0 | 0| 
+| 20210813T07:22:55Z | OWASP ZAP add-on containing the web-backdoors and attack files from FuzzDB | https://github.com/zaproxy/fuzzdb-offensive | 6 | 6| 
 | 20210812T18:34:29Z | POC Exploit writen in Bash that takes advantage of the %User-Agentt% backdoor included in PHP 8.1.0-dev. | https://github.com/thepedroalves/PHP-8.1.0-dev-RCE | 0 | 0| 
 | 20210812T15:18:28Z | pybotnet -  Library for building botnet ,backdoor or trojan with Telegram control panel | https://github.com/onionj/pybotnet | 12 | 8| 
 | 20210812T10:07:58Z | Ethical Remote Acces Tool Client and Server for W10 and Linux Persist functionality | https://github.com/PolGs/Persistent-Backdoor | 4 | 2| 
 | 20210812T08:43:53Z | Backdoor&后渗透工具 | https://github.com/PENG-PLUS/SFBD | 3 | 1| 
-| 20210811T23:09:47Z | Je décide de leak la base DreamDeep V1 suite au fondateur Zervec qui a fait les grosse couilles avec moi, je préfère prévenir qu%il y%a potentiellement des backdoors et que la base n%est pas optimisé, votre petit tiktokeur en sueur :) | https://github.com/Rorost/Dream-Deep | 1 | 0| 
-| 20210811T20:28:35Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 90 | 16| 
-| 20210811T19:32:17Z | Null | https://github.com/adi33333333334/Backdoor | 0 | 0| 
-| 20210811T17:43:25Z | 🤖An Evil and Smart Bot for Enslaving Windows Written in Rust and Python | https://github.com/wildonion/katyusha | 3 | 1| 
-| 20210811T13:39:10Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 36 | 27| 
-| 20210811T11:27:08Z | I just wanted to take a look inside public webshells and play with it :) | https://github.com/9aylas/Public-Backdoored-WebShells | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -128,8 +128,8 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210813T08:22:15Z | Original implementation of FlowPrint as in the NDSS %20 paper | https://github.com/Thijsvanede/FlowPrint | 54 | 19| 
 | 20210811T22:39:00Z | A penetration testing tool for finding file upload bugs (NDSS 2020) | https://github.com/WSP-LAB/FUSE | 159 | 37| 
-| 20210805T12:53:52Z | Original implementation of FlowPrint as in the NDSS %20 paper | https://github.com/Thijsvanede/FlowPrint | 53 | 19| 
 | 20210804T10:13:29Z | Code for NDSS 2021 Paper %Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses Against Federated Learning% | https://github.com/vrt1shjwlkr/NDSS21-Model-Poisoning | 18 | 4| 
 | 20210802T10:52:04Z | Config files for my GitHub profile. | https://github.com/WlNDSS/WlNDSS | 0 | 0| 
 
@@ -137,16 +137,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210813T01:58:11Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
-| 20210813T01:54:28Z | Null | https://github.com/lagherua/fuzzy-guide | 0 | 0| 
-| 20210813T01:53:48Z | Null | https://github.com/pedrofnsc1/CSGOStatsFuzzy | 0 | 0| 
-| 20210813T01:32:26Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210813T01:04:03Z | 🔥 Studying The Fuzzing Book : https://www.fuzzingbook.org | https://github.com/KimSeoYe/TheFuzzingBook | 1 | 0| 
-| 20210813T01:02:22Z | A website that animates various pathfinding algorithms | https://github.com/donguyentung2001/fuzzy-octo-tribble | 0 | 0| 
-| 20210813T00:51:28Z | Null | https://github.com/Ubisam-Project-MASIDU/FuzzStoryWorld | 0 | 0| 
-| 20210813T00:48:32Z | Null | https://github.com/luckoftheseapples/fuzzy-octo-journey | 0 | 0| 
-| 20210813T00:44:29Z | Open Enclave specific security automation projects (CodeQL static analysis, Fuzzing and binary analysis). | https://github.com/openenclave/openenclave-security | 2 | 4| 
-| 20210813T00:36:57Z | Classificação de danos em sementes de soja através de descritores do sistema de análise de imagens do teste de Tetrazólio | https://github.com/LuanMagioli/Tetrazolio-Fuzzy | 0 | 0| 
+| 20210813T11:49:21Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4543 | 457| 
+| 20210813T11:46:43Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 5 | 1| 
+| 20210813T11:43:20Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 173 | 36| 
+| 20210813T11:30:14Z | Fuzz for sensitive directories without killing the host using ffuf | https://github.com/R0X4R/Fuzzy | 30 | 8| 
+| 20210813T10:36:55Z | Null | https://github.com/Hwangwoosam/fuzzing | 2 | 0| 
+| 20210813T10:36:47Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20210813T10:32:08Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
+| 20210813T09:37:52Z | find vulnerability of Django by fuzzing | https://github.com/lwzSoviet/djangofuzz | 0 | 0| 
+| 20210813T09:24:47Z | FuzzingStudy | https://github.com/qpalzmm22/FuzzingStudy | 1 | 0| 
+| 20210813T08:55:29Z | 🔥 Studying The Fuzzing Book : https://www.fuzzingbook.org | https://github.com/KimSeoYe/TheFuzzingBook | 1 | 0| 
 
 
 
