@@ -83,7 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210813T01:15:45Z | Notes for learing binary exploitation on Linux x86 and x86-64 architectures. | https://github.com/rodobre/pwn-notes | 0 | 0| 
+| 20210813T01:16:11Z | Notes for learing binary exploitation on Linux x86 and x86-64 architectures. | https://github.com/rodobre/pwn-notes | 0 | 0| 
 | 20210813T01:03:11Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210813T00:59:52Z | Key-Breaker is a public tool (OSS) used to currently retrieve, cipher, and exploit the weak security standards of Chrome. It also comes with a built-in demo of worms 🪱 | https://github.com/KazutoKashima/Project-Key-Breaker | 2 | 1| 
 | 20210813T00:52:16Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 19 | 12| 
