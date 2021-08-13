@@ -137,6 +137,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210813T01:52:40Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210813T01:32:26Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210813T01:04:03Z | 🔥 Studying The Fuzzing Book : https://www.fuzzingbook.org | https://github.com/KimSeoYe/TheFuzzingBook | 1 | 0| 
 | 20210813T01:02:22Z | A website that animates various pathfinding algorithms | https://github.com/donguyentung2001/fuzzy-octo-tribble | 0 | 0| 
@@ -146,7 +147,6 @@
 | 20210813T00:36:57Z | Classificação de danos em sementes de soja através de descritores do sistema de análise de imagens do teste de Tetrazólio | https://github.com/LuanMagioli/Tetrazolio-Fuzzy | 0 | 0| 
 | 20210813T00:32:22Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210813T00:28:36Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6547 | 1333| 
-| 20210813T00:13:49Z | Null | https://github.com/marciommrs/fuzzy-octo-winner | 0 | 0| 
 
 
 
