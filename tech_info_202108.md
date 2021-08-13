@@ -53,7 +53,7 @@
 | 20210812T18:55:05Z | CVE-2021-38600 | CVE-2021-38600 - Stored XSS in Pepperminty-Wiki 0.23-dev | https://github.com/hmaverickadams/CVE-2021-38600 | 未查询到CVE信息| 
 | 20210812T12:54:07Z | CVE-2021-38583 | Null | https://github.com/charlesbickel/CVE-2021-38583 | 未查询到CVE信息| 
 | 20210812T06:14:18Z | CVE-2020-8277 | Exploit for CVE-2020-8277 (educational purpose) | https://github.com/progfay/CVE-2020-8277 | A Node.js application that allows an attacker to trigger a DNS request for a host of their choice could trigger a Denial of Service in versions < 15.2.1, < 14.15.1, and < 12.19.1 by getting the application to resolve a DNS record with a larger number of responses. This is fixed in 15.2.1, 14.15.1, and 12.19.1.| 
-| 20210812T03:09:47Z | 未知编号 | cve | https://github.com/e0mlja/cve202014883 | 未查询到CVE信息| 
+| 20210812T03:09:47Z | 未知编号 | cve | https://github.com/e0mlja/cve202014883 | | 
 | 20210811T20:06:46Z | CVE-2021-36934 | Fix for the CVE-2021-36934 | https://github.com/JoranSlingerland/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
 | 20210811T17:01:18Z | CVE-2021-34481 | Check patch for CVE-2021-34481 | https://github.com/vanpn/CVE-2021-34481 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 
@@ -137,6 +137,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210813T00:45:58Z | Null | https://github.com/luckoftheseapples/fuzzy-octo-journey | 0 | 0| 
+| 20210813T00:44:29Z | Open Enclave specific security automation projects (CodeQL static analysis, Fuzzing and binary analysis). | https://github.com/openenclave/openenclave-security | 2 | 4| 
 | 20210813T00:36:57Z | Classificação de danos em sementes de soja através de descritores do sistema de análise de imagens do teste de Tetrazólio | https://github.com/LuanMagioli/Tetrazolio-Fuzzy | 0 | 0| 
 | 20210813T00:32:22Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210813T00:28:36Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6547 | 1333| 
@@ -145,8 +147,6 @@
 | 20210813T00:07:04Z | Find the ideal fuzz targets in a Rust codebase | https://github.com/trailofbits/siderophile | 105 | 8| 
 | 20210812T23:17:39Z | An investigation of American Fuzzy Lop++ as a fuzzer | https://github.com/hark130/hardy-remix | 0 | 0| 
 | 20210812T23:01:48Z | Null | https://github.com/antonio-morales/Fuzzing101 | 108 | 14| 
-| 20210812T22:12:54Z | Null | https://github.com/giorgio9002/fuzzy-robot | 0 | 0| 
-| 20210812T21:40:50Z | Null | https://github.com/wearypossum4770/fuzzy-funicular | 0 | 0| 
 
 
 
