@@ -83,6 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210813T12:08:30Z | Exploit Code | https://github.com/wjddnjs33/Exploit | 0 | 0| 
 | 20210813T12:03:01Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210813T11:54:45Z | WpDiscuz 7.0.4 Arbitrary File Upload Exploit | https://github.com/meicookies/CVE-2020-24186 | 0 | 0| 
 | 20210813T11:28:04Z | This repository will feature my scripts, research and documentation on Pokémon engines, glitches and exploits. | https://github.com/RETIREglitch/Pokemon-Research | 4 | 2| 
@@ -92,7 +93,6 @@
 | 20210813T09:40:32Z | Key-Breaker is a public tool (OSS) used to currently retrieve, cipher, and exploit the weak security standards of Chrome. It also comes with a built-in demo of worms 🪱 | https://github.com/KazutoKashima/Project-Key-Breaker | 2 | 1| 
 | 20210813T09:38:20Z | Third (and last) virtual machine on binary exploitation and cybersecurity. Part of the 42 School cybersec branch. | https://github.com/d-r-e/override | 0 | 0| 
 | 20210813T09:31:28Z | A collection of kernel pwn challenges and writeups | https://github.com/fr33bug/PWN | 0 | 0| 
-| 20210813T09:04:32Z | A post exploitation framework designed to operate covertly on heavily monitored environments | https://github.com/bats3c/shad0w | 1354 | 228| 
 
 
 # backdoor on Github 推荐
@@ -137,6 +137,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210813T12:16:37Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 142 | 13| 
+| 20210813T12:15:12Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 21 | 9| 
 | 20210813T12:03:59Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 174 | 36| 
 | 20210813T12:02:08Z | The Official Fuzzy Britches Repository. | https://github.com/ThePapaw/fuzzybritches | 0 | 0| 
 | 20210813T11:49:21Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4543 | 457| 
@@ -145,8 +147,6 @@
 | 20210813T10:36:55Z | Null | https://github.com/Hwangwoosam/fuzzing | 2 | 0| 
 | 20210813T10:36:47Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210813T10:32:08Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
-| 20210813T09:37:52Z | find vulnerability of Django by fuzzing | https://github.com/lwzSoviet/djangofuzz | 0 | 0| 
-| 20210813T09:24:47Z | FuzzingStudy | https://github.com/qpalzmm22/FuzzingStudy | 1 | 0| 
 
 
 
