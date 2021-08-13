@@ -46,9 +46,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210813T12:17:37Z | CVE-2021-1675 | see https://github.com/cube0x0/CVE-2021-1675 | https://github.com/hahaleyile/my-CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
+| 20210813T12:17:37Z | CVE-2021-1675 | see https://github.com/cube0x0/CVE-2021-1675 | https://github.com/hahaleyile/my-CVE-2021-1675 | | 
 | 20210813T11:54:45Z | CVE-2020-24186 | WpDiscuz 7.0.4 Arbitrary File Upload Exploit | https://github.com/meicookies/CVE-2020-24186 | A Remote Code Execution vulnerability exists in the gVectors wpDiscuz plugin 7.0 through 7.0.4 for WordPress, which allows unauthenticated users to upload any type of file, including PHP files via the wmuUploadFiles AJAX action.| 
-| 20210813T09:48:09Z | CVE-2021-34473 | Scanner for CVE-2021-34473, ProxyShell, A Microsoft Exchange On-premise Vulnerability | https://github.com/RaouzRouik/CVE-2021-34473-scanner | | 
+| 20210813T09:48:09Z | CVE-2021-34473 | Scanner for CVE-2021-34473, ProxyShell, A Microsoft Exchange On-premise Vulnerability | https://github.com/RaouzRouik/CVE-2021-34473-scanner | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-31196, CVE-2021-31206.| 
 | 20210813T07:46:30Z | CVE-2020-14364 | Null | https://github.com/y-f00l/CVE-2020-14364 | An out-of-bounds read/write access flaw was found in the USB emulator of the QEMU in versions before 5.2.0. This issue occurs while processing USB packets from a guest when USBDevice %setup_len% exceeds its %data_buf[4096]% in the do_token_in, do_token_out routines. This flaw allows a guest user to crash the QEMU process, resulting in a denial of service, or the potential execution of arbitrary code with the privileges of the QEMU process on the host.| 
 | 20210813T06:48:35Z | CVE-2021-38600 | CVE-2021-38600 - Stored XSS in Pepperminty-Wiki 0.23-dev | https://github.com/hmaverickadams/CVE-2021-38600 | 未查询到CVE信息| 
 | 20210813T06:48:31Z | CVE-2021-38601 | CVE-2021-38601 - Reflected XSS in Pepperminty-Wiki 0.23-dev | https://github.com/hmaverickadams/CVE-2021-38601 | 未查询到CVE信息| 
