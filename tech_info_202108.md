@@ -53,7 +53,7 @@
 | 20210812T18:55:05Z | CVE-2021-38600 | CVE-2021-38600 - Stored XSS in Pepperminty-Wiki 0.23-dev | https://github.com/hmaverickadams/CVE-2021-38600 | 未查询到CVE信息| 
 | 20210812T12:54:07Z | CVE-2021-38583 | Null | https://github.com/charlesbickel/CVE-2021-38583 | 未查询到CVE信息| 
 | 20210812T06:14:18Z | CVE-2020-8277 | Exploit for CVE-2020-8277 (educational purpose) | https://github.com/progfay/CVE-2020-8277 | A Node.js application that allows an attacker to trigger a DNS request for a host of their choice could trigger a Denial of Service in versions < 15.2.1, < 14.15.1, and < 12.19.1 by getting the application to resolve a DNS record with a larger number of responses. This is fixed in 15.2.1, 14.15.1, and 12.19.1.| 
-| 20210812T03:09:47Z | 未知编号 | cve | https://github.com/e0mlja/cve202014883 | | 
+| 20210812T03:09:47Z | 未知编号 | cve | https://github.com/e0mlja/cve202014883 | 未查询到CVE信息| 
 | 20210811T20:06:46Z | CVE-2021-36934 | Fix for the CVE-2021-36934 | https://github.com/JoranSlingerland/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
 | 20210811T17:01:18Z | CVE-2021-34481 | Check patch for CVE-2021-34481 | https://github.com/vanpn/CVE-2021-34481 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 
@@ -87,7 +87,7 @@
 | 20210813T01:03:11Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210813T00:59:52Z | Key-Breaker is a public tool (OSS) used to currently retrieve, cipher, and exploit the weak security standards of Chrome. It also comes with a built-in demo of worms 🪱 | https://github.com/KazutoKashima/Project-Key-Breaker | 2 | 1| 
 | 20210813T00:52:16Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 19 | 12| 
-| 20210813T00:46:23Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9852 | 1633| 
+| 20210813T00:46:23Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9852 | 1634| 
 | 20210813T00:38:46Z | Writeup for exploit.education/nebula | https://github.com/vi11ain/nebula-writeup | 1 | 0| 
 | 20210813T00:35:39Z | Repository for programs from Jon Erickson%s Hacking - The Art of Exploitation (2d Ed) | https://github.com/PatrickBruso/Hacking | 0 | 0| 
 | 20210813T00:21:41Z | Exploiting Causal Structure for Transportability in Multi-Agent Environments | https://github.com/damianbrowne/ECS4TIME | 0 | 0| 
