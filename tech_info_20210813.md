@@ -26,11 +26,11 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210813T12:22:39Z | CVE-2021-1675 | see https://github.com/cube0x0/CVE-2021-1675 | https://github.com/hahaleyile/my-CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
+| 20210813T12:22:39Z | CVE-2021-1675 | see https://github.com/cube0x0/CVE-2021-1675 | https://github.com/hahaleyile/my-CVE-2021-1675 | | 
 | 20210813T11:54:45Z | CVE-2020-24186 | WpDiscuz 7.0.4 Arbitrary File Upload Exploit | https://github.com/meicookies/CVE-2020-24186 | A Remote Code Execution vulnerability exists in the gVectors wpDiscuz plugin 7.0 through 7.0.4 for WordPress, which allows unauthenticated users to upload any type of file, including PHP files via the wmuUploadFiles AJAX action.| 
 | 20210813T09:48:09Z | CVE-2021-34473 | Scanner for CVE-2021-34473, ProxyShell, A Microsoft Exchange On-premise Vulnerability | https://github.com/RaouzRouik/CVE-2021-34473-scanner | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-31196, CVE-2021-31206.| 
 | 20210813T07:46:30Z | CVE-2020-14364 | Null | https://github.com/y-f00l/CVE-2020-14364 | An out-of-bounds read/write access flaw was found in the USB emulator of the QEMU in versions before 5.2.0. This issue occurs while processing USB packets from a guest when USBDevice %setup_len% exceeds its %data_buf[4096]% in the do_token_in, do_token_out routines. This flaw allows a guest user to crash the QEMU process, resulting in a denial of service, or the potential execution of arbitrary code with the privileges of the QEMU process on the host.| 
-| 20210813T06:48:35Z | CVE-2021-38600 | CVE-2021-38600 - Stored XSS in Pepperminty-Wiki 0.23-dev | https://github.com/hmaverickadams/CVE-2021-38600 | 未查询到CVE信息| 
+| 20210813T06:48:35Z | CVE-2021-38600 | CVE-2021-38600 - Stored XSS in Pepperminty-Wiki 0.23-dev | https://github.com/hmaverickadams/CVE-2021-38600 | | 
 | 20210813T06:48:31Z | CVE-2021-38601 | CVE-2021-38601 - Reflected XSS in Pepperminty-Wiki 0.23-dev | https://github.com/hmaverickadams/CVE-2021-38601 | 未查询到CVE信息| 
 | 20210813T00:11:54Z | CVE-2021-37832 | CVE-2021-37832 - Hotel Druid 3.0.2 SQL Injection Vulnerability - 9.8 CVSS 3.1 | https://github.com/dievus/CVE-2021-37832 | A SQL injection vulnerability exists in version 3.0.2 of Hotel Druid when SQLite is being used as the application database. A malicious attacker can issue SQL commands to the SQLite database through the vulnerable idappartamenti parameter.| 
 
@@ -50,7 +50,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210813T12:39:30Z | exploit for user flag && root flag | https://github.com/chilltamizha/explore-htb | 0 | 0| 
+| 20210813T12:50:56Z | Goby掃描器遠程代碼執行漏洞Exploit | https://github.com/JustYoomoon/Goby-RCE | 0 | 0| 
+| 20210813T12:46:48Z | 42 , Security project, 15 levels to discover securities exploits | https://github.com/thallard/snow-crash | 0 | 0| 
+| 20210813T12:43:15Z | exploit for user flag && root flag | https://github.com/chilltamizha/explore-htb | 0 | 0| 
 | 20210813T12:35:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9858 | 1636| 
 | 20210813T12:27:41Z | Installation and exploitation script for gentilwiki%s Mimispool Kiwi Printer. Written in PowerShell. | https://github.com/xbufu/Mimispool | 3 | 0| 
 | 20210813T12:08:30Z | Exploit Code | https://github.com/wjddnjs33/Exploit | 0 | 0| 
@@ -58,8 +60,6 @@
 | 20210813T11:54:45Z | WpDiscuz 7.0.4 Arbitrary File Upload Exploit | https://github.com/meicookies/CVE-2020-24186 | 0 | 0| 
 | 20210813T11:28:04Z | This repository will feature my scripts, research and documentation on Pokémon engines, glitches and exploits. | https://github.com/RETIREglitch/Pokemon-Research | 4 | 2| 
 | 20210813T11:23:39Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 6333 | 1771| 
-| 20210813T11:16:10Z | 42 , Security project, 15 levels to discover securities exploits | https://github.com/thallard/snow-crash | 0 | 0| 
-| 20210813T10:04:01Z | E3C is a freely available multilingual corpus (Italian, English, French, Spanish, and Basque) of semantically annotated clinical narratives to allow for the linguistic analysis, benchmarking, and training of information extraction systems. It consists of two types of annotations: (i) clinical entities: pathologies, symptoms, procedures, body parts, etc., according to standard clinical taxonomies (i.e. SNOMED-CT, ICD-10); and (ii) temporal information and factuality: events, time expressions, and temporal relations according to the THYME standard. The corpus is organised into three layers, with different purposes. Layer 1: about 25K tokens per language with full manual annotation of clinical entities, temporal information and factuality, for benchmarkingand linguistic analysis. Layer 2: 50-100K tokens per language with semi-automatic annotations of clinical entities, to be used to train baseline systems. Layer 3: about 1M tokens per language of non-annotated medical documents to be exploited by semi-supervised approaches. Researchers can use the benchmark training and test splits of our corpus to develop and test their own models. We trained several deep learning based models and provide baselines using the benchmark. Both the corpus and the built models will be available through the ELG platform.  | https://github.com/hltfbk/E3C-Corpus | 0 | 1| 
 
 
 # backdoor on Github 推荐
