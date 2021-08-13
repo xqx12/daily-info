@@ -83,6 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210813T01:31:27Z | network programming with golang and hacking/exploitation | https://github.com/jackal-sec/golang | 0 | 0| 
 | 20210813T01:16:11Z | Notes for learing binary exploitation on Linux x86 and x86-64 architectures. | https://github.com/rodobre/pwn-notes | 0 | 0| 
 | 20210813T01:03:11Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210813T00:59:52Z | Key-Breaker is a public tool (OSS) used to currently retrieve, cipher, and exploit the weak security standards of Chrome. It also comes with a built-in demo of worms 🪱 | https://github.com/KazutoKashima/Project-Key-Breaker | 2 | 1| 
@@ -92,7 +93,6 @@
 | 20210813T00:35:39Z | Repository for programs from Jon Erickson%s Hacking - The Art of Exploitation (2d Ed) | https://github.com/PatrickBruso/Hacking | 0 | 0| 
 | 20210813T00:21:41Z | Exploiting Causal Structure for Transportability in Multi-Agent Environments | https://github.com/damianbrowne/ECS4TIME | 0 | 0| 
 | 20210813T00:11:26Z | Drafts of exploits made for studying and consultation purposes | https://github.com/brerodrigues/exploit_drafts | 0 | 0| 
-| 20210813T00:08:47Z | A Framework that allows you to search for vulnerable android devices across the world and exploit them. | https://github.com/0x1CA3/AdbNet | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -137,6 +137,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210813T01:32:26Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210813T01:04:03Z | 🔥 Studying The Fuzzing Book : https://www.fuzzingbook.org | https://github.com/KimSeoYe/TheFuzzingBook | 1 | 0| 
 | 20210813T01:02:22Z | A website that animates various pathfinding algorithms | https://github.com/donguyentung2001/fuzzy-octo-tribble | 0 | 0| 
 | 20210813T00:51:28Z | Null | https://github.com/Ubisam-Project-MASIDU/FuzzStoryWorld | 0 | 0| 
@@ -146,7 +147,6 @@
 | 20210813T00:32:22Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210813T00:28:36Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6547 | 1333| 
 | 20210813T00:13:49Z | Null | https://github.com/marciommrs/fuzzy-octo-winner | 0 | 0| 
-| 20210813T00:07:04Z | Find the ideal fuzz targets in a Rust codebase | https://github.com/trailofbits/siderophile | 105 | 8| 
 
 
 
