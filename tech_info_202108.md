@@ -15,6 +15,7 @@
 | 20210812 | 利用 hAFL1 Fuzz Hyper-V vmswitch.sys 驱动 | https://www.guardicore.com/labs/hafl1-our-journey-of-fuzzing-hyper-v-and-discovering-a-critical-0-day/| 
 | 20210812 | BlackMatter 勒索软件的分析 | https://blog.group-ib.com/blackmatter| 
 | 20210812 | Certify - Active Directory Certificate Services 错误配置检测工具 | https://github.com/GhostPack/Certify| 
+| 20210812 | 探讨Shell注入执行命令的方法。 | https://matklad.github.io//2021/07/30/shell-injection.html| 
 | 20210811 | 通过 RPC 触发的 NTLM Relaying 漏洞（CVE-2021-26414） | https://blog.compass-security.com/2021/08/relaying-ntlm-authentication-over-rpc-again/| 
 | 20210811 | Pulse Connect Secure – RCE via Uncontrolled Archive Extraction – CVE-2021-22937 (Patch Bypass) | https://research.nccgroup.com/2021/08/05/technical-advisory-pulse-connect-secure-rce-via-uncontrolled-archive-extraction-cve-2021-22937-patch-bypass/| 
 | 20210811 | 针对 HTTP/2 协议的 DESYNC 攻击 | https://portswigger.net/research/http2| 
@@ -25,7 +26,6 @@
 | 20210811 | 360 Alpha Lab 关于利用 CodeQL 挖掘 Chrome 漏洞变种的研究 | https://i.blackhat.com/USA21/Wednesday-Handouts/us-21-Leecraso-Put-In-One-Bug-And-Pop-Out-More-An-Effective-Way-Of-Bug-Hunting-In-Chrome.pdf| 
 | 20210811 | Firefox 91 支持用户一键清除指定或全部站点的 Cookie | https://blog.mozilla.org/security/2021/08/10/firefox-91-introduces-enhanced-cookie-clearing/| 
 | 20210811 | XSLM 恶意软件利用 MacroSheets 提供的访问窗口的高级功能躲避杀软检测 | https://sec.today/pulses/72aa8c6a-8153-47b9-9956-9d14877eaecc/| 
-| 20210811 | XSLM 恶意软件利用 MacroSheets 提供的访问窗口的高级功能躲避杀软检测 | https://www.mcafee.com/blogs/other-blogs/mcafee-labs/xlsm-malware-with-macrosheets/| 
 
 
 # 安全维基 推荐
@@ -46,25 +46,25 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210812T21:09:27Z | CVE-2021-38603 | Null | https://github.com/KielVaughn/CVE-2021-38603 | PluXML 5.8.7 allows core/admin/profil.php stored XSS via the Information field.| 
+| 20210812T21:03:12Z | CVE-2021-38602 | Null | https://github.com/KielVaughn/CVE-2021-38602 | PluXML 5.8.7 allows Article Editing stored XSS via Headline or Content.| 
+| 20210812T20:21:18Z | CVE-2021-38601 | CVE-2021-38601 - Reflected XSS in Pepperminty-Wiki 0.23-dev | https://github.com/hmaverickadams/CVE-2021-38601 | 未查询到CVE信息| 
+| 20210812T18:55:05Z | CVE-2021-38600 | CVE-2021-38600 - Stored XSS in Pepperminty-Wiki 0.23-dev | https://github.com/hmaverickadams/CVE-2021-38600 | 未查询到CVE信息| 
 | 20210812T12:54:07Z | CVE-2021-38583 | Null | https://github.com/charlesbickel/CVE-2021-38583 | | 
 | 20210812T07:37:58Z | CVE-2021-37832 | CVE-2021-37832 - Hotel Druid 3.0.2 SQL Injection Vulnerability - 9.8 CVSS 3.1 | https://github.com/dievus/CVE-2021-37832 | A SQL injection vulnerability exists in version 3.0.2 of Hotel Druid when SQLite is being used as the application database. A malicious attacker can issue SQL commands to the SQLite database through the vulnerable idappartamenti parameter.| 
 | 20210812T06:14:18Z | CVE-2020-8277 | Exploit for CVE-2020-8277 (educational purpose) | https://github.com/progfay/CVE-2020-8277 | A Node.js application that allows an attacker to trigger a DNS request for a host of their choice could trigger a Denial of Service in versions < 15.2.1, < 14.15.1, and < 12.19.1 by getting the application to resolve a DNS record with a larger number of responses. This is fixed in 15.2.1, 14.15.1, and 12.19.1.| 
 | 20210812T03:09:47Z | 未知编号 | cve | https://github.com/e0mlja/cve202014883 | 未查询到CVE信息| 
-| 20210811T20:06:46Z | CVE-2021-36934 | Fix for the CVE-2021-36934 | https://github.com/JoranSlingerland/CVE-2021-36934 | | 
+| 20210811T20:06:46Z | CVE-2021-36934 | Fix for the CVE-2021-36934 | https://github.com/JoranSlingerland/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
 | 20210811T17:01:18Z | CVE-2021-34481 | Check patch for CVE-2021-34481 | https://github.com/vanpn/CVE-2021-34481 | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210811T16:53:52Z | CVE-2020-35606 | Null | https://github.com/puckiestyle/CVE-2020-35606 | | 
-| 20210811T12:55:38Z | CVE-2021-34473 | Scanner for CVE-2021-34473, ProxyShell, A Microsoft Exchange On-premise Vulnerability | https://github.com/RaouzRouik/CVE-2021-34473-scanner | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-31196, CVE-2021-31206.| 
-| 20210811T12:27:25Z | CVE-2021-34473 | Null | https://github.com/ajeanne33/CVE-2021-34473-scanner | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-31196, CVE-2021-31206.| 
-| 20210811T08:47:43Z | CVE-2021-1675 | see https://github.com/cube0x0/CVE-2021-1675 | https://github.com/hahaleyile/my-CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210812T10:45:04Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2576 | 63| 
+| 20210812T23:51:41Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2581 | 63| 
+| 20210812T23:14:05Z | Null | https://github.com/santiagoHV/kleer-dojo-assessment-backend | 0 | 0| 
 | 20210812T09:13:07Z | Null | https://github.com/kamosika179/kleegame | 0 | 0| 
 | 20210812T03:13:02Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 12 | 1| 
-| 20210812T01:38:15Z | Null | https://github.com/santiagoHV/kleer-dojo-assessment-backend | 0 | 0| 
 | 20210811T22:58:40Z | An opiniated Next TypeScript powered starter which include Klee, emotion / styled-system, framer motion, jest and Cypress | https://github.com/Liinkiing/next-ts-klee-starter | 0 | 0| 
 | 20210811T06:26:55Z | Null | https://github.com/coffee100percnt/KleeDiscordBomber | 4 | 0| 
 | 20210811T05:09:10Z | Null | https://github.com/DonaldKLee/DonaldKLee | 0 | 1| 
@@ -83,23 +83,24 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210812T12:50:08Z | Third (and last) virtual machine on binary exploitation and cybersecurity. Part of the 42 School cybersec branch. | https://github.com/d-r-e/override | 0 | 0| 
-| 20210812T12:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9846 | 1632| 
-| 20210812T12:02:59Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
-| 20210812T11:23:49Z | *Well documented* scripts exploiting some useful UNIX utilities. | https://github.com/chhajedji/scripts | 4 | 0| 
-| 20210812T11:22:47Z | 死神 Shinigami Program is a reverse engineering challenge made for people who are trying to learn exploit dev / low level hacking / reverse engineering / ... | https://github.com/osamu-kj/shinigami-challenge | 0 | 0| 
-| 20210812T10:43:36Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 25 | 5| 
-| 20210812T10:15:42Z | An introduction, explanation, and tutorial of various exploits for the heap of current and recent GNU libcs. | https://github.com/bstank/bstank.github.io | 0 | 0| 
-| 20210812T10:08:12Z | Null | https://github.com/DK9510/web-app-exploitation | 12 | 1| 
-| 20210812T09:50:56Z | KDMapper is a simple tool that exploits iqvw64e.sys Intel driver to manually map non-signed drivers in memory | https://github.com/TheCruZ/kdmapper | 353 | 130| 
-| 20210812T09:19:40Z | CVEs, Pentesting guides, Exploits, Wordlists, all for pentesting efficency! | https://github.com/complexusprada/penguide | 0 | 0| 
+| 20210812T23:52:53Z | A console tool developed using Python to calculate the Content-Length of a given Request Body. Perfect for bug bounty hunting. Especially for exploiting HTTP REQUEST SMUGGLING (specifically CL-TE server chain).  Now let this tool calculate the Content-Length and save a lot of your valuable time.  | https://github.com/CYBERDEVILZ/Content-Length-Calculator | 0 | 0| 
+| 20210812T23:29:28Z | An introduction, explanation, and tutorial of various exploits for the heap of current and recent GNU libcs. | https://github.com/bstank/bstank.github.io | 0 | 0| 
+| 20210812T23:03:02Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
+| 20210812T22:59:50Z | Vulnerabilities, exploits, and PoCs | https://github.com/Accenture/AARO-Bugs | 22 | 12| 
+| 20210812T21:49:45Z | Null | https://github.com/jwardsmith/Active-Directory-Exploitation | 3 | 1| 
+| 20210812T21:41:34Z | Null | https://github.com/XYZ-DANO/exploit-go | 0 | 0| 
+| 20210812T21:40:44Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9851 | 1633| 
+| 20210812T21:40:38Z | Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish to influence Onelinetips and explain the commands, for the better understanding of new hunters.. | https://github.com/KingOfBugbounty/KingOfBugBountyTips | 2296 | 393| 
+| 20210812T21:28:43Z | Installation and exploitation script for gentilwiki%s Mimispool Kiwi Printer. Written in PowerShell. | https://github.com/xbufu/Mimispool | 2 | 0| 
+| 20210812T21:14:16Z | Exploiting Causal Structure for Transportability in Multi-Agent Environments | https://github.com/damianbrowne/ECS4TIME | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210812T18:34:29Z | POC Exploit writen in Bash that takes advantage of the %User-Agentt% backdoor included in PHP 8.1.0-dev. | https://github.com/thepedroalves/PHP-8.1.0-dev-RCE | 0 | 0| 
+| 20210812T15:18:28Z | pybotnet -  Library for building botnet ,backdoor or trojan with Telegram control panel | https://github.com/onionj/pybotnet | 12 | 8| 
 | 20210812T10:07:58Z | Ethical Remote Acces Tool Client and Server for W10 and Linux Persist functionality | https://github.com/PolGs/Persistent-Backdoor | 4 | 2| 
-| 20210812T08:45:55Z | pybotnet -  Library for building botnet ,backdoor or trojan with Telegram control panel | https://github.com/onionj/pybotnet | 11 | 7| 
 | 20210812T08:43:53Z | Backdoor&后渗透工具 | https://github.com/PENG-PLUS/SFBD | 3 | 1| 
 | 20210811T23:09:47Z | Je décide de leak la base DreamDeep V1 suite au fondateur Zervec qui a fait les grosse couilles avec moi, je préfère prévenir qu%il y%a potentiellement des backdoors et que la base n%est pas optimisé, votre petit tiktokeur en sueur :) | https://github.com/Rorost/Dream-Deep | 1 | 0| 
 | 20210811T20:28:35Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 90 | 16| 
@@ -107,7 +108,6 @@
 | 20210811T17:43:25Z | 🤖An Evil and Smart Bot for Enslaving Windows Written in Rust and Python | https://github.com/wildonion/katyusha | 3 | 1| 
 | 20210811T13:39:10Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 36 | 27| 
 | 20210811T11:27:08Z | I just wanted to take a look inside public webshells and play with it :) | https://github.com/9aylas/Public-Backdoored-WebShells | 0 | 0| 
-| 20210811T11:23:43Z | Invisible Backdoor Attack with Sample-Specific Triggers | https://github.com/yuezunli/ISSBA | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -137,16 +137,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210812T12:53:42Z | Version of ParamSpider that can read files and receive only one URL | https://github.com/drjgouveia/ParamFuzzer | 0 | 0| 
-| 20210812T12:50:00Z | Null | https://github.com/bfardtity/fuzzy-octo-waddle | 0 | 0| 
-| 20210812T12:40:13Z | Null | https://github.com/antonio-morales/Fuzzing101 | 95 | 12| 
-| 20210812T12:15:12Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 21 | 9| 
-| 20210812T11:31:09Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210812T11:27:38Z | Null | https://github.com/Ilya-Saldeckiy/fuzzy-octo-disco | 0 | 0| 
-| 20210812T10:49:19Z | A simple client side fuzzy search in TypeScript | https://github.com/jackdomleo7/Client-side-fuzzy-search | 0 | 0| 
-| 20210812T10:19:08Z | Null | https://github.com/leadmeout/fuzzy-octo-potato | 0 | 0| 
-| 20210812T10:15:23Z | An algorithm framework integrating fuzzy decision trees and fuzzy ensemble trees. | https://github.com/ZhaoqingLiu/FuzzyTrees | 3 | 0| 
-| 20210812T10:13:34Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1961 | 390| 
+| 20210812T23:27:42Z | Null | https://github.com/Ubisam-Project-MASIDU/FuzzStoryWorld | 0 | 0| 
+| 20210812T23:17:39Z | An investigation of American Fuzzy Lop++ as a fuzzer | https://github.com/hark130/hardy-remix | 0 | 0| 
+| 20210812T23:01:48Z | Null | https://github.com/antonio-morales/Fuzzing101 | 108 | 14| 
+| 20210812T22:12:54Z | Null | https://github.com/giorgio9002/fuzzy-robot | 0 | 0| 
+| 20210812T22:08:32Z | Find the ideal fuzz targets in a Rust codebase | https://github.com/trailofbits/siderophile | 104 | 8| 
+| 20210812T21:40:50Z | Null | https://github.com/wearypossum4770/fuzzy-funicular | 0 | 0| 
+| 20210812T21:24:42Z | Null | https://github.com/Hassnain69/fuzzy-invention | 0 | 0| 
+| 20210812T21:13:19Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6548 | 1333| 
+| 20210812T20:24:33Z | These tests of libdwarf/dwarfdump include old object files, new ones, and many fuzzed object files. These are the definitive tests that things work.. Most people have no reason to run these tests. | https://github.com/davea42/libdwarf-regressiontests | 0 | 0| 
+| 20210812T20:10:07Z | JQF + Zest: Coverage-guided semantic fuzzing for Java. | https://github.com/rohanpadhye/JQF | 388 | 56| 
 
 
 
