@@ -19,7 +19,7 @@
 | 20210814T12:17:15Z | CVE-2021-38619 | Null | https://github.com/charlesbickel/CVE-2021-38619 | openBaraza HCM 3.1.6 does not properly neutralize user-controllable input: an unauthenticated remote attacker can conduct a stored cross-site scripting (XSS) attack against an administrative user from hr/subscription.jsp and hr/application.jsp and and hr/index.jsp (with view=).| 
 | 20210814T08:40:54Z | CVE-2020-8277 | Exploit for CVE-2020-8277 (educational purpose) | https://github.com/progfay/CVE-2020-8277 | A Node.js application that allows an attacker to trigger a DNS request for a host of their choice could trigger a Denial of Service in versions < 15.2.1, < 14.15.1, and < 12.19.1 by getting the application to resolve a DNS record with a larger number of responses. This is fixed in 15.2.1, 14.15.1, and 12.19.1.| 
 | 20210814T03:55:19Z | CVE-2021-24145 | WordPress File Upload Vulnerability, Modern Events Calendar Lite WordPress plugin before 5.16.5 | https://github.com/dnr6419/CVE-2021-24145 | Arbitrary file upload in the Modern Events Calendar Lite WordPress plugin, versions before 5.16.5, did not properly check the imported file, allowing PHP ones to be uploaded by administrator by using the %text/csv% content-type in the request.| 
-| 20210814T02:52:19Z | CVE-2021-32644 | Ampache XSS  | https://github.com/dnr6419/CVE-2021-32644 | | 
+| 20210814T02:52:19Z | CVE-2021-32644 | Ampache XSS  | https://github.com/dnr6419/CVE-2021-32644 | Ampache is an open source web based audio/video streaming application and file manager. Due to a lack of input filtering versions 4.x.y are vulnerable to code injection in random.php. The attack requires user authentication to access the random.php page unless the site is running in demo mode. This issue has been resolved in 4.4.3.| 
 | 20210814T01:56:15Z | CVE-2021-31166 | Rewrittened CVE-2021-31166 poc and exp | https://github.com/c4dr01d/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
 
 
@@ -78,6 +78,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210814T12:52:23Z | Template repo for libraries written in go | https://github.com/arhat-dev/template-library-go | 0 | 0| 
 | 20210814T12:15:17Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 21 | 9| 
 | 20210814T11:31:15Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210814T11:30:23Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
@@ -87,7 +88,6 @@
 | 20210814T10:18:38Z | A persistent datastore backed by RocksDB with fuzzy key lookup using an arbitrary distance function accelerated by the SymSpell algorithm | https://github.com/luketpeterson/fuzzy_rocks | 2 | 0| 
 | 20210814T09:54:30Z | Null | https://github.com/BrajeshPatil/fuzzy-octo-bassoon | 0 | 0| 
 | 20210814T08:52:46Z | A Rust compiler fuzzer | https://github.com/jmanchuck/rustsmith | 0 | 0| 
-| 20210814T08:29:45Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6551 | 1335| 
 
 
 
