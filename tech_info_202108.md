@@ -54,7 +54,7 @@
 | 20210813T16:52:46Z | CVE-2021-37832 | CVE-2021-37832 - Hotel Druid 3.0.2 SQL Injection Vulnerability - 9.8 CVSS 3.1 | https://github.com/dievus/CVE-2021-37832 | A SQL injection vulnerability exists in version 3.0.2 of Hotel Druid when SQLite is being used as the application database. A malicious attacker can issue SQL commands to the SQLite database through the vulnerable idappartamenti parameter.| 
 | 20210813T15:15:08Z | CVE-2021-1675 | see https://github.com/cube0x0/CVE-2021-1675 | https://github.com/hahaleyile/my-CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210813T14:05:37Z | CVE-2021-38603 | Null | https://github.com/KielVaughn/CVE-2021-38603 | PluXML 5.8.7 allows core/admin/profil.php stored XSS via the Information field.| 
-| 20210813T14:05:35Z | CVE-2021-38602 | Null | https://github.com/KielVaughn/CVE-2021-38602 | | 
+| 20210813T14:05:35Z | CVE-2021-38602 | Null | https://github.com/KielVaughn/CVE-2021-38602 | PluXML 5.8.7 allows Article Editing stored XSS via Headline or Content.| 
 | 20210813T11:54:45Z | CVE-2020-24186 | WpDiscuz 7.0.4 Arbitrary File Upload Exploit | https://github.com/meicookies/CVE-2020-24186 | A Remote Code Execution vulnerability exists in the gVectors wpDiscuz plugin 7.0 through 7.0.4 for WordPress, which allows unauthenticated users to upload any type of file, including PHP files via the wmuUploadFiles AJAX action.| 
 
 
@@ -83,9 +83,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210814T12:46:08Z | Null | https://github.com/TheCrazzXz/Exploits-Lab | 0 | 1| 
 | 20210814T12:38:50Z | Key-Breaker is a public tool (OSS) used to currently retrieve, cipher, and exploit the weak security standards of Chrome. It also comes with a built-in demo of worms 🪱 | https://github.com/KazutoKashima/Project-Key-Breaker | 2 | 1| 
 | 20210814T12:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9859 | 1637| 
-| 20210814T12:30:21Z | Null | https://github.com/TheCrazzXz/Exploits-Lab | 0 | 1| 
 | 20210814T12:18:07Z | Null | https://github.com/AminIsWinnerA/SynExploits | 0 | 0| 
 | 20210814T12:16:46Z | Null | https://github.com/H4D3ZS/FB_Exploitation_JS | 0 | 0| 
 | 20210814T12:02:53Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 

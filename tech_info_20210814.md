@@ -38,9 +38,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210814T12:46:08Z | Null | https://github.com/TheCrazzXz/Exploits-Lab | 0 | 1| 
 | 20210814T12:38:50Z | Key-Breaker is a public tool (OSS) used to currently retrieve, cipher, and exploit the weak security standards of Chrome. It also comes with a built-in demo of worms 🪱 | https://github.com/KazutoKashima/Project-Key-Breaker | 2 | 1| 
 | 20210814T12:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9859 | 1637| 
-| 20210814T12:30:21Z | Null | https://github.com/TheCrazzXz/Exploits-Lab | 0 | 1| 
 | 20210814T12:18:07Z | Null | https://github.com/AminIsWinnerA/SynExploits | 0 | 0| 
 | 20210814T12:16:46Z | Null | https://github.com/H4D3ZS/FB_Exploitation_JS | 0 | 0| 
 | 20210814T12:02:53Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
