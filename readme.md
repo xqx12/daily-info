@@ -66,6 +66,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210814T11:48:59Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1870 | 388| 
+| 20210814T06:04:21Z | A tiny symbolic execution engine | https://github.com/pruemmer/nano-symex | 3 | 7| 
 
 
 # big4 on Github 推荐

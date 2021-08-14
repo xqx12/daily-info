@@ -113,16 +113,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210814T11:48:59Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1870 | 388| 
+| 20210814T06:04:21Z | A tiny symbolic execution engine | https://github.com/pruemmer/nano-symex | 3 | 7| 
 | 20210813T21:10:24Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 156 | 34| 
 | 20210812T22:44:42Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2418 | 358| 
 | 20210812T10:26:26Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 93 | 6| 
 | 20210812T09:14:05Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 452 | 68| 
-| 20210811T21:29:14Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1870 | 388| 
 | 20210810T12:49:15Z | A toy symbolic execution engine, supporting the blog article ... | https://github.com/synacktiv/toy-wasm-symbexp | 8 | 2| 
 | 20210810T03:38:15Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1742 | 500| 
 | 20210809T19:16:35Z | A tool for generating nonlinear numerical invariants for C and Java programs.  DIG uses dynamic analysis to infer invariants over program execution traces and applies symbolic execution to inferred invariants. | https://github.com/unsat/dig | 4 | 4| 
 | 20210809T15:18:00Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 17 | 3| 
-| 20210807T20:35:57Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 7 | 4| 
 
 
 # big4 on Github 推荐
