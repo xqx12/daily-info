@@ -31,7 +31,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210813T16:52:46Z | CVE-2021-37832 | CVE-2021-37832 - Hotel Druid 3.0.2 SQL Injection Vulnerability - 9.8 CVSS 3.1 | https://github.com/dievus/CVE-2021-37832 | A SQL injection vulnerability exists in version 3.0.2 of Hotel Druid when SQLite is being used as the application database. A malicious attacker can issue SQL commands to the SQLite database through the vulnerable idappartamenti parameter.| 
+| 20210813T16:52:46Z | CVE-2021-37832 | CVE-2021-37832 - Hotel Druid 3.0.2 SQL Injection Vulnerability - 9.8 CVSS 3.1 | https://github.com/dievus/CVE-2021-37832 | | 
 | 20210813T15:15:08Z | CVE-2021-1675 | see https://github.com/cube0x0/CVE-2021-1675 | https://github.com/hahaleyile/my-CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210813T14:05:37Z | CVE-2021-38603 | Null | https://github.com/KielVaughn/CVE-2021-38603 | PluXML 5.8.7 allows core/admin/profil.php stored XSS via the Information field.| 
 | 20210813T14:05:35Z | CVE-2021-38602 | Null | https://github.com/KielVaughn/CVE-2021-38602 | PluXML 5.8.7 allows Article Editing stored XSS via Headline or Content.| 
@@ -100,7 +100,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210813T23:59:41Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 32899 | 17096| 
 | 20210813T23:13:32Z | Custo Beneficio compra de Carro (Fuzzy) | https://github.com/rafaelsbk/CustoBeneficioCarroFuzzy | 0 | 0| 
 | 20210813T22:34:51Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210813T22:01:37Z | ignews | https://github.com/pedrocleis/fuzzy-disco | 0 | 0| 
@@ -110,6 +109,7 @@
 | 20210813T19:53:44Z | ECMAScript 6 Version of fuzzynet by Dmitry Kaluzhny | https://github.com/deriven/fuzzynet-es6 | 0 | 0| 
 | 20210813T19:50:31Z | Generation-based, context-free grammar fuzzer. Refer to https://github.com/posidron/dharma for a maintained version. | https://github.com/MozillaSecurity/dharma | 436 | 83| 
 | 20210813T19:31:03Z | Fuzzinator Random Testing Framework | https://github.com/renatahodovan/fuzzinator | 178 | 38| 
+| 20210813T18:54:58Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2372 | 137| 
 
 
 
