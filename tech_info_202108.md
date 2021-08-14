@@ -137,6 +137,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210814T12:57:17Z | Null | https://github.com/LakshLilhare-in/fuzzy-meme | 0 | 0| 
 | 20210814T12:52:23Z | Template repo for libraries written in go | https://github.com/arhat-dev/template-library-go | 0 | 0| 
 | 20210814T12:15:17Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 21 | 9| 
 | 20210814T11:31:15Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
@@ -146,7 +147,6 @@
 | 20210814T10:41:29Z | This repository is for the artifact evaluation of ASE %21 paper % Understanding and Detecting Performance Bugs in Markdown Compilers%. | https://github.com/peng-hui/ASE21-MdPerfFuzz-Artifact | 2 | 0| 
 | 20210814T10:18:38Z | A persistent datastore backed by RocksDB with fuzzy key lookup using an arbitrary distance function accelerated by the SymSpell algorithm | https://github.com/luketpeterson/fuzzy_rocks | 2 | 0| 
 | 20210814T09:54:30Z | Null | https://github.com/BrajeshPatil/fuzzy-octo-bassoon | 0 | 0| 
-| 20210814T08:52:46Z | A Rust compiler fuzzer | https://github.com/jmanchuck/rustsmith | 0 | 0| 
 
 
 
