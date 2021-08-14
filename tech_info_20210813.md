@@ -31,7 +31,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210813T16:52:46Z | CVE-2021-37832 | CVE-2021-37832 - Hotel Druid 3.0.2 SQL Injection Vulnerability - 9.8 CVSS 3.1 | https://github.com/dievus/CVE-2021-37832 | | 
+| 20210813T16:52:46Z | CVE-2021-37832 | CVE-2021-37832 - Hotel Druid 3.0.2 SQL Injection Vulnerability - 9.8 CVSS 3.1 | https://github.com/dievus/CVE-2021-37832 | A SQL injection vulnerability exists in version 3.0.2 of Hotel Druid when SQLite is being used as the application database. A malicious attacker can issue SQL commands to the SQLite database through the vulnerable idappartamenti parameter.| 
 | 20210813T15:15:08Z | CVE-2021-1675 | see https://github.com/cube0x0/CVE-2021-1675 | https://github.com/hahaleyile/my-CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210813T14:05:37Z | CVE-2021-38603 | Null | https://github.com/KielVaughn/CVE-2021-38603 | PluXML 5.8.7 allows core/admin/profil.php stored XSS via the Information field.| 
 | 20210813T14:05:35Z | CVE-2021-38602 | Null | https://github.com/KielVaughn/CVE-2021-38602 | PluXML 5.8.7 allows Article Editing stored XSS via Headline or Content.| 
