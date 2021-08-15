@@ -19,7 +19,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210814T21:40:56Z | CVE-2021-38601 | CVE-2021-38601 - Reflected XSS in Pepperminty-Wiki 0.23-dev | https://github.com/hmaverickadams/CVE-2021-38601 | 未查询到CVE信息| 
 | 20210814T21:14:07Z | CVE-2021-36949 | check if Azure AD Connect is affected by the vulnerability described in CVE-2021-36949 | https://github.com/Maxwitat/Check-AAD-Connect-for-CVE-2021-36949-vulnerability | Microsoft Azure Active Directory Connect Authentication Bypass Vulnerability| 
-| 20210814T21:01:48Z | CVE-2021-38699 | TastyIgniter 3.0.7 allows XSS via the name field during user-account creation | https://github.com/Justin-1993/CVE-2021-38699 | 未查询到CVE信息| 
+| 20210814T21:01:48Z | CVE-2021-38699 | TastyIgniter 3.0.7 allows XSS via the name field during user-account creation | https://github.com/Justin-1993/CVE-2021-38699 | | 
 | 20210814T12:17:15Z | CVE-2021-38619 | Null | https://github.com/charlesbickel/CVE-2021-38619 | openBaraza HCM 3.1.6 does not properly neutralize user-controllable input: an unauthenticated remote attacker can conduct a stored cross-site scripting (XSS) attack against an administrative user from hr/subscription.jsp and hr/application.jsp and and hr/index.jsp (with view=).| 
 | 20210814T08:40:54Z | CVE-2020-8277 | Exploit for CVE-2020-8277 (educational purpose) | https://github.com/progfay/CVE-2020-8277 | A Node.js application that allows an attacker to trigger a DNS request for a host of their choice could trigger a Denial of Service in versions < 15.2.1, < 14.15.1, and < 12.19.1 by getting the application to resolve a DNS record with a larger number of responses. This is fixed in 15.2.1, 14.15.1, and 12.19.1.| 
 | 20210814T03:55:19Z | CVE-2021-24145 | WordPress File Upload Vulnerability, Modern Events Calendar Lite WordPress plugin before 5.16.5 | https://github.com/dnr6419/CVE-2021-24145 | Arbitrary file upload in the Modern Events Calendar Lite WordPress plugin, versions before 5.16.5, did not properly check the imported file, allowing PHP ones to be uploaded by administrator by using the %text/csv% content-type in the request.| 
@@ -48,10 +48,10 @@
 | 20210814T23:27:00Z | Basic Exploit Essentials is a multi-script for Basic Admin Essentials 2.0. | https://github.com/Nextrixcs/Basic-Exploit-Essentials | 0 | 1| 
 | 20210814T23:16:33Z | Bukkit plugin that aims on fixing Exploits in your Minecraft network. [Requires HamsterAPI to work] | https://github.com/2lstudios-mc/ExploitFixer | 109 | 30| 
 | 20210814T23:06:07Z | Drafts of exploits made for studying and consultation purposes | https://github.com/brerodrigues/exploit_drafts | 0 | 0| 
-| 20210814T23:02:54Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210814T23:02:12Z | In this project I played the role of a pentester and a SOC Analyst. Reporting and presenting the logged data with suggested mitigation measures for each exploit performed. | https://github.com/jburnside307/Red-vs-Blue-Project | 0 | 0| 
 | 20210814T22:45:13Z | Exploit Development - Weaponized Exploit and Proof of Concepts (PoC)  | https://github.com/VoidSec/Exploit-Development | 44 | 15| 
 | 20210814T22:22:39Z | Null | https://github.com/TheCrazzXz/Exploits-Lab | 0 | 1| 
+| 20210814T21:41:10Z | Roblox Exploit UI: Frostware X | https://github.com/09Shahin/Frostware | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -72,7 +72,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210814T11:48:59Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1870 | 388| 
+| 20210814T13:46:31Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1871 | 388| 
 | 20210814T06:04:21Z | A tiny symbolic execution engine | https://github.com/pruemmer/nano-symex | 3 | 7| 
 
 
