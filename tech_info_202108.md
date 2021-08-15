@@ -137,6 +137,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210815T01:04:23Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210815T00:34:54Z | Fuzzing for Quiwi https://github.com/goburrow/quic | https://github.com/goburrow/quic-fuzz | 0 | 0| 
 | 20210815T00:04:17Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 21 | 9| 
 | 20210815T00:04:13Z | wtf is a distributed, code-coverage guided, customizable, cross-platform snapshot-based fuzzer designed for attacking user and / or kernel-mode targets running on Microsoft Windows. | https://github.com/0vercl0k/wtf | 672 | 40| 
@@ -146,7 +147,6 @@
 | 20210814T21:50:47Z | Null | https://github.com/dogan-kartal/fuzzy-c-means | 0 | 0| 
 | 20210814T21:47:36Z | Helper scripts for the FlyBase scRNAseq project | https://github.com/gouttegd/fuzzy-onions | 0 | 0| 
 | 20210814T21:41:35Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1016 | 45| 
-| 20210814T21:33:15Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 
 
 
