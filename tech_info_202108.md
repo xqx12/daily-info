@@ -46,14 +46,14 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210815T11:44:04Z | CVE-2021-28476 | tools for automate configure Ubuntu 20.04 enviroment for testing CVE-2021-28476. | https://github.com/sh4m2hwz/CVE-2021-28476-tools-env | | 
+| 20210815T11:44:04Z | CVE-2021-28476 | tools for automate configure Ubuntu 20.04 enviroment for testing CVE-2021-28476. | https://github.com/sh4m2hwz/CVE-2021-28476-tools-env | Hyper-V Remote Code Execution Vulnerability| 
 | 20210815T11:08:47Z | CVE-2021-2394 | POC of CVE-2021-2394 | https://github.com/lz2y/CVE-2021-2394 | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Core). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via T3, IIOP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
 | 20210815T07:37:07Z | CVE-2021-36949 | check if Azure AD Connect is affected by the vulnerability described in CVE-2021-36949 | https://github.com/Maxwitat/Check-AAD-Connect-for-CVE-2021-36949-vulnerability | Microsoft Azure Active Directory Connect Authentication Bypass Vulnerability| 
 | 20210814T21:40:56Z | CVE-2021-38601 | CVE-2021-38601 - Reflected XSS in Pepperminty-Wiki 0.23-dev | https://github.com/hmaverickadams/CVE-2021-38601 | 未查询到CVE信息| 
 | 20210814T21:01:48Z | CVE-2021-38699 | TastyIgniter 3.0.7 allows XSS via the name field during user-account creation | https://github.com/Justin-1993/CVE-2021-38699 | 未查询到CVE信息| 
 | 20210814T12:17:15Z | CVE-2021-38619 | Null | https://github.com/charlesbickel/CVE-2021-38619 | openBaraza HCM 3.1.6 does not properly neutralize user-controllable input: an unauthenticated remote attacker can conduct a stored cross-site scripting (XSS) attack against an administrative user from hr/subscription.jsp and hr/application.jsp and and hr/index.jsp (with view=).| 
 | 20210814T08:40:54Z | CVE-2020-8277 | Exploit for CVE-2020-8277 (educational purpose) | https://github.com/progfay/CVE-2020-8277 | A Node.js application that allows an attacker to trigger a DNS request for a host of their choice could trigger a Denial of Service in versions < 15.2.1, < 14.15.1, and < 12.19.1 by getting the application to resolve a DNS record with a larger number of responses. This is fixed in 15.2.1, 14.15.1, and 12.19.1.| 
-| 20210814T03:55:19Z | CVE-2021-24145 | WordPress File Upload Vulnerability, Modern Events Calendar Lite WordPress plugin before 5.16.5 | https://github.com/dnr6419/CVE-2021-24145 | | 
+| 20210814T03:55:19Z | CVE-2021-24145 | WordPress File Upload Vulnerability, Modern Events Calendar Lite WordPress plugin before 5.16.5 | https://github.com/dnr6419/CVE-2021-24145 | Arbitrary file upload in the Modern Events Calendar Lite WordPress plugin, versions before 5.16.5, did not properly check the imported file, allowing PHP ones to be uploaded by administrator by using the %text/csv% content-type in the request.| 
 | 20210814T02:52:19Z | CVE-2021-32644 | Ampache XSS  | https://github.com/dnr6419/CVE-2021-32644 | Ampache is an open source web based audio/video streaming application and file manager. Due to a lack of input filtering versions 4.x.y are vulnerable to code injection in random.php. The attack requires user authentication to access the random.php page unless the site is running in demo mode. This issue has been resolved in 4.4.3.| 
 | 20210814T01:56:15Z | CVE-2021-31166 | Rewrittened CVE-2021-31166 poc and exp | https://github.com/c4dr01d/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
 
@@ -137,7 +137,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210815T12:26:16Z | Fuzzing some projects written in Rust | https://github.com/Nereuxofficial/Fuzzing | 0 | 0| 
+| 20210815T12:35:33Z | Fuzzing some projects written in Rust | https://github.com/Nereuxofficial/Fuzzing | 0 | 0| 
 | 20210815T12:21:05Z | Reproduce bugs in https://github.com/google/fuzzer-test-suite | https://github.com/K-atc/reproduce-bugs-in-fuzzer-test-suite | 1 | 0| 
 | 20210815T12:19:03Z | Null | https://github.com/MdSaifulIslamSajol/Choosing-a-Control-method-and-Design-of-Mamdani-Fuzzy-Controller-for-Nonlinear-System-using-MATLAB | 0 | 0| 
 | 20210815T12:18:23Z | Null | https://github.com/Artisan-Lab/Fuzzing-Scripts | 1 | 0| 
