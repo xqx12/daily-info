@@ -73,6 +73,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210815T12:26:16Z | Fuzzing some projects written in Rust | https://github.com/Nereuxofficial/Fuzzing | 0 | 0| 
 | 20210815T12:21:05Z | Reproduce bugs in https://github.com/google/fuzzer-test-suite | https://github.com/K-atc/reproduce-bugs-in-fuzzer-test-suite | 1 | 0| 
 | 20210815T12:19:03Z | Null | https://github.com/MdSaifulIslamSajol/Choosing-a-Control-method-and-Design-of-Mamdani-Fuzzy-Controller-for-Nonlinear-System-using-MATLAB | 0 | 0| 
 | 20210815T12:18:23Z | Null | https://github.com/Artisan-Lab/Fuzzing-Scripts | 1 | 0| 
@@ -82,7 +83,6 @@
 | 20210815T11:01:39Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210815T10:51:51Z | This is the code for the paper %Classification of Electromyographic Hand Gesture Signals Using Modified Fuzzy C-Means Clustering and Two-Step Machine Learning Approach% | https://github.com/Guangyu05/Modified-Fuzzy-C-Means-Clustering-and-Two-Step-Machine-Learning-Approach | 0 | 0| 
 | 20210815T10:18:20Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 6 | 0| 
-| 20210815T10:11:39Z | Fuzzy matcher for ddc.vim | https://github.com/matsui54/ddc-matcher_fuzzy | 3 | 0| 
 
 
 
