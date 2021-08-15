@@ -35,6 +35,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210815T12:46:26Z | Null | https://github.com/TheCrazzXz/Exploits-Lab | 0 | 1| 
 | 20210815T12:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9858 | 1637| 
 | 20210815T12:32:41Z | A standalone python script which utilizes python%s built-in modules to enumerate SUID binaries, separate default binaries from custom binaries, cross-match those with bins in GTFO Bin%s repository & auto-exploit those, all with colors! ( ͡~ ͜ʖ ͡°) | https://github.com/Anon-Exploiter/SUID3NUM | 393 | 99| 
 | 20210815T12:26:01Z | CAUTION - Malicious files 💀 | https://github.com/Am0rphous/Malware | 18 | 8| 
@@ -44,7 +45,6 @@
 | 20210815T12:05:00Z | I found a way to exploit the rotation minecraft applies to certain Blocks to reconstruct coordinates from them | https://github.com/DerBejijing/BlockRotationExploit | 4 | 0| 
 | 20210815T12:02:54Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210815T11:33:52Z | Roblox Exploit UI: Frostware X | https://github.com/09Shahin/Frostware | 0 | 0| 
-| 20210815T11:32:18Z | Binary Game & Tutorial on how to use Python to brute force and exploit input in a binary.  | https://github.com/Blakley/Binary-Exploitation | 0 | 0| 
 
 
 # backdoor on Github 推荐
