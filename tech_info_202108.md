@@ -47,7 +47,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210814T21:40:56Z | CVE-2021-38601 | CVE-2021-38601 - Reflected XSS in Pepperminty-Wiki 0.23-dev | https://github.com/hmaverickadams/CVE-2021-38601 | 未查询到CVE信息| 
-| 20210814T21:14:07Z | CVE-2021-36949 | check if Azure AD Connect is affected by the vulnerability described in CVE-2021-36949 | https://github.com/Maxwitat/Check-AAD-Connect-for-CVE-2021-36949-vulnerability | | 
+| 20210814T21:14:07Z | CVE-2021-36949 | check if Azure AD Connect is affected by the vulnerability described in CVE-2021-36949 | https://github.com/Maxwitat/Check-AAD-Connect-for-CVE-2021-36949-vulnerability | Microsoft Azure Active Directory Connect Authentication Bypass Vulnerability| 
 | 20210814T21:01:48Z | CVE-2021-38699 | TastyIgniter 3.0.7 allows XSS via the name field during user-account creation | https://github.com/Justin-1993/CVE-2021-38699 | 未查询到CVE信息| 
 | 20210814T12:17:15Z | CVE-2021-38619 | Null | https://github.com/charlesbickel/CVE-2021-38619 | openBaraza HCM 3.1.6 does not properly neutralize user-controllable input: an unauthenticated remote attacker can conduct a stored cross-site scripting (XSS) attack against an administrative user from hr/subscription.jsp and hr/application.jsp and and hr/index.jsp (with view=).| 
 | 20210814T08:40:54Z | CVE-2020-8277 | Exploit for CVE-2020-8277 (educational purpose) | https://github.com/progfay/CVE-2020-8277 | A Node.js application that allows an attacker to trigger a DNS request for a host of their choice could trigger a Denial of Service in versions < 15.2.1, < 14.15.1, and < 12.19.1 by getting the application to resolve a DNS record with a larger number of responses. This is fixed in 15.2.1, 14.15.1, and 12.19.1.| 
@@ -137,7 +137,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210815T01:04:23Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
+| 20210815T01:08:02Z | Experimental OS | https://github.com/scopeInfinity/FuzzyOS | 1 | 0| 
+| 20210815T01:07:15Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210815T00:34:54Z | Fuzzing for Quiwi https://github.com/goburrow/quic | https://github.com/goburrow/quic-fuzz | 0 | 0| 
 | 20210815T00:04:17Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 21 | 9| 
 | 20210815T00:04:13Z | wtf is a distributed, code-coverage guided, customizable, cross-platform snapshot-based fuzzer designed for attacking user and / or kernel-mode targets running on Microsoft Windows. | https://github.com/0vercl0k/wtf | 672 | 40| 
@@ -146,7 +147,6 @@
 | 20210814T21:59:34Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6551 | 1335| 
 | 20210814T21:50:47Z | Null | https://github.com/dogan-kartal/fuzzy-c-means | 0 | 0| 
 | 20210814T21:47:36Z | Helper scripts for the FlyBase scRNAseq project | https://github.com/gouttegd/fuzzy-onions | 0 | 0| 
-| 20210814T21:41:35Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1016 | 45| 
 
 
 
