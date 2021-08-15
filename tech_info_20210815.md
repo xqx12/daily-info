@@ -73,7 +73,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210815T12:06:31Z | Null | https://github.com/Artisan-Lab/Fuzzing-Scripts | 1 | 0| 
+| 20210815T12:13:08Z | Null | https://github.com/Artisan-Lab/Fuzzing-Scripts | 1 | 0| 
 | 20210815T11:41:38Z | Null | https://github.com/fuzziejaxer/FuzzieCraft | 0 | 0| 
 | 20210815T11:29:16Z | Null | https://github.com/MdSaifulIslamSajol/Choosing-a-Control-method-and-Design-of-Mamdani-Fuzzy-Controller-for-Nonlinear-System-using-MATLAB | 0 | 0| 
 | 20210815T11:01:39Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
