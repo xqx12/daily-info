@@ -52,7 +52,7 @@
 | 20210814T12:17:15Z | CVE-2021-38619 | Null | https://github.com/charlesbickel/CVE-2021-38619 | openBaraza HCM 3.1.6 does not properly neutralize user-controllable input: an unauthenticated remote attacker can conduct a stored cross-site scripting (XSS) attack against an administrative user from hr/subscription.jsp and hr/application.jsp and and hr/index.jsp (with view=).| 
 | 20210814T08:40:54Z | CVE-2020-8277 | Exploit for CVE-2020-8277 (educational purpose) | https://github.com/progfay/CVE-2020-8277 | A Node.js application that allows an attacker to trigger a DNS request for a host of their choice could trigger a Denial of Service in versions < 15.2.1, < 14.15.1, and < 12.19.1 by getting the application to resolve a DNS record with a larger number of responses. This is fixed in 15.2.1, 14.15.1, and 12.19.1.| 
 | 20210814T03:55:19Z | CVE-2021-24145 | WordPress File Upload Vulnerability, Modern Events Calendar Lite WordPress plugin before 5.16.5 | https://github.com/dnr6419/CVE-2021-24145 | Arbitrary file upload in the Modern Events Calendar Lite WordPress plugin, versions before 5.16.5, did not properly check the imported file, allowing PHP ones to be uploaded by administrator by using the %text/csv% content-type in the request.| 
-| 20210814T02:52:19Z | CVE-2021-32644 | Ampache XSS  | https://github.com/dnr6419/CVE-2021-32644 | | 
+| 20210814T02:52:19Z | CVE-2021-32644 | Ampache XSS  | https://github.com/dnr6419/CVE-2021-32644 | Ampache is an open source web based audio/video streaming application and file manager. Due to a lack of input filtering versions 4.x.y are vulnerable to code injection in random.php. The attack requires user authentication to access the random.php page unless the site is running in demo mode. This issue has been resolved in 4.4.3.| 
 | 20210814T01:56:15Z | CVE-2021-31166 | Rewrittened CVE-2021-31166 poc and exp | https://github.com/c4dr01d/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
 | 20210813T16:52:46Z | CVE-2021-37832 | CVE-2021-37832 - Hotel Druid 3.0.2 SQL Injection Vulnerability - 9.8 CVSS 3.1 | https://github.com/dievus/CVE-2021-37832 | A SQL injection vulnerability exists in version 3.0.2 of Hotel Druid when SQLite is being used as the application database. A malicious attacker can issue SQL commands to the SQLite database through the vulnerable idappartamenti parameter.| 
 | 20210813T15:15:08Z | CVE-2021-1675 | see https://github.com/cube0x0/CVE-2021-1675 | https://github.com/hahaleyile/my-CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
@@ -113,10 +113,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210815T01:27:39Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2418 | 360| 
 | 20210814T13:46:31Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1871 | 388| 
 | 20210814T06:04:21Z | A tiny symbolic execution engine | https://github.com/pruemmer/nano-symex | 3 | 7| 
 | 20210813T21:10:24Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 156 | 34| 
-| 20210812T22:44:42Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2418 | 360| 
 | 20210812T10:26:26Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 93 | 6| 
 | 20210812T09:14:05Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 452 | 68| 
 | 20210810T12:49:15Z | A toy symbolic execution engine, supporting the blog article ... | https://github.com/synacktiv/toy-wasm-symbexp | 8 | 2| 
