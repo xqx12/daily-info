@@ -35,7 +35,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210815T12:46:26Z | Null | https://github.com/TheCrazzXz/Exploits-Lab | 0 | 1| 
+| 20210815T12:47:06Z | Null | https://github.com/TheCrazzXz/Exploits-Lab | 0 | 1| 
 | 20210815T12:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9858 | 1637| 
 | 20210815T12:32:41Z | A standalone python script which utilizes python%s built-in modules to enumerate SUID binaries, separate default binaries from custom binaries, cross-match those with bins in GTFO Bin%s repository & auto-exploit those, all with colors! ( ͡~ ͜ʖ ͡°) | https://github.com/Anon-Exploiter/SUID3NUM | 393 | 99| 
 | 20210815T12:26:01Z | CAUTION - Malicious files 💀 | https://github.com/Am0rphous/Malware | 18 | 8| 
