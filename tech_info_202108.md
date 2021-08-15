@@ -137,6 +137,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210815T01:30:56Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210815T01:08:02Z | Experimental OS | https://github.com/scopeInfinity/FuzzyOS | 1 | 0| 
 | 20210815T01:07:15Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210815T00:34:54Z | Fuzzing for Quiwi https://github.com/goburrow/quic | https://github.com/goburrow/quic-fuzz | 0 | 0| 
@@ -146,7 +147,6 @@
 | 20210814T22:09:04Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 294 | 39| 
 | 20210814T21:59:34Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6551 | 1335| 
 | 20210814T21:50:47Z | Null | https://github.com/dogan-kartal/fuzzy-c-means | 0 | 0| 
-| 20210814T21:47:36Z | Helper scripts for the FlyBase scRNAseq project | https://github.com/gouttegd/fuzzy-onions | 0 | 0| 
 
 
 

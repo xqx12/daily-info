@@ -89,11 +89,11 @@
 | 20210814T21:50:47Z | Null | https://github.com/dogan-kartal/fuzzy-c-means | 0 | 0| 
 | 20210814T21:47:36Z | Helper scripts for the FlyBase scRNAseq project | https://github.com/gouttegd/fuzzy-onions | 0 | 0| 
 | 20210814T21:41:35Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1016 | 45| 
-| 20210814T21:33:15Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210814T21:32:57Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 6 | 0| 
 | 20210814T21:08:13Z | Null | https://github.com/Trengs/fuzzy-robot | 0 | 0| 
 | 20210814T21:05:29Z | Null | https://github.com/airaveni/fuzzy-pancake | 0 | 0| 
 | 20210814T21:05:15Z | Swift-based fuzzing tools | https://github.com/krypted/swiftfuzztools | 1 | 0| 
+| 20210814T21:04:16Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 516 | 49| 
 
 
 
