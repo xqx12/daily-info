@@ -54,7 +54,7 @@
 | 20210814T03:55:19Z | CVE-2021-24145 | WordPress File Upload Vulnerability, Modern Events Calendar Lite WordPress plugin before 5.16.5 | https://github.com/dnr6419/CVE-2021-24145 | Arbitrary file upload in the Modern Events Calendar Lite WordPress plugin, versions before 5.16.5, did not properly check the imported file, allowing PHP ones to be uploaded by administrator by using the %text/csv% content-type in the request.| 
 | 20210814T02:52:19Z | CVE-2021-32644 | Ampache XSS  | https://github.com/dnr6419/CVE-2021-32644 | Ampache is an open source web based audio/video streaming application and file manager. Due to a lack of input filtering versions 4.x.y are vulnerable to code injection in random.php. The attack requires user authentication to access the random.php page unless the site is running in demo mode. This issue has been resolved in 4.4.3.| 
 | 20210814T01:56:15Z | CVE-2021-31166 | Rewrittened CVE-2021-31166 poc and exp | https://github.com/c4dr01d/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
-| 20210813T16:52:46Z | CVE-2021-37832 | CVE-2021-37832 - Hotel Druid 3.0.2 SQL Injection Vulnerability - 9.8 CVSS 3.1 | https://github.com/dievus/CVE-2021-37832 | A SQL injection vulnerability exists in version 3.0.2 of Hotel Druid when SQLite is being used as the application database. A malicious attacker can issue SQL commands to the SQLite database through the vulnerable idappartamenti parameter.| 
+| 20210813T16:52:46Z | CVE-2021-37832 | CVE-2021-37832 - Hotel Druid 3.0.2 SQL Injection Vulnerability - 9.8 CVSS 3.1 | https://github.com/dievus/CVE-2021-37832 | | 
 | 20210813T15:15:08Z | CVE-2021-1675 | see https://github.com/cube0x0/CVE-2021-1675 | https://github.com/hahaleyile/my-CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability| 
 
 
@@ -83,7 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210815T01:42:22Z | Linux Kernel Defence Map shows the relationships between vulnerability classes, exploitation techniques, bug detection mechanisms, and defence technologies | https://github.com/a13xp0p0v/linux-kernel-defence-map | 701 | 70| 
+| 20210815T01:56:00Z | Linux Kernel Defence Map shows the relationships between vulnerability classes, exploitation techniques, bug detection mechanisms, and defence technologies | https://github.com/a13xp0p0v/linux-kernel-defence-map | 702 | 70| 
 | 20210815T01:03:12Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210815T00:52:45Z | Binary Game & Tutorial on how to use Python to brute force and exploit input in a binary.  | https://github.com/Blakley/Binary-Exploitation | 0 | 0| 
 | 20210815T00:52:17Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 20 | 12| 
@@ -137,6 +137,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210815T01:53:21Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210815T01:30:56Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210815T01:08:02Z | Experimental OS | https://github.com/scopeInfinity/FuzzyOS | 1 | 0| 
 | 20210815T01:07:15Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
@@ -146,7 +147,6 @@
 | 20210815T00:01:35Z | Null | https://github.com/Amirfarhad-Nilizadeh/GSoC_Fuzzer_RAC | 0 | 0| 
 | 20210814T22:09:04Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 294 | 39| 
 | 20210814T21:59:34Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6551 | 1335| 
-| 20210814T21:50:47Z | Null | https://github.com/dogan-kartal/fuzzy-c-means | 0 | 0| 
 
 
 
