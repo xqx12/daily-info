@@ -35,6 +35,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210815T12:26:01Z | CAUTION - Malicious files 💀 | https://github.com/Am0rphous/Malware | 18 | 8| 
 | 20210815T12:20:47Z | A standalone python script which utilizes python%s built-in modules to enumerate SUID binaries, separate default binaries from custom binaries, cross-match those with bins in GTFO Bin%s repository & auto-exploit those, all with colors! ( ͡~ ͜ʖ ͡°) | https://github.com/Anon-Exploiter/SUID3NUM | 392 | 99| 
 | 20210815T12:15:09Z | This repository will feature my scripts, research and documentation on Pokémon engines, glitches and exploits. | https://github.com/RETIREglitch/Pokemon-Research | 4 | 2| 
 | 20210815T12:12:39Z | In this project, you will: (1) Deploy and assess a simple web application environment’s security posture (2) Test the security of the environment by simulating attack scenarios and exploiting cloud configuration vulnerabilities (3) Implement monitoring to identify insecure configurations and malicious activity (4) Apply methods learned in the course to harden and secure the environment (5) Design a DevSecOps pipeline | https://github.com/wfs/cloud-architect-aws-project-3-security | 0 | 0| 
@@ -44,13 +45,12 @@
 | 20210815T11:33:52Z | Roblox Exploit UI: Frostware X | https://github.com/09Shahin/Frostware | 0 | 0| 
 | 20210815T11:32:18Z | Binary Game & Tutorial on how to use Python to brute force and exploit input in a binary.  | https://github.com/Blakley/Binary-Exploitation | 0 | 0| 
 | 20210815T11:29:39Z | Record some topics and exploits in my learning of PWN | https://github.com/noobone123/my_pwn | 0 | 0| 
-| 20210815T11:21:59Z | A SQL Injection attack consists of the insertion or injection of a SQL query via the input data from the client to the application. A successful SQL injection exploit can read sensitive data from the database, modify database data (Insert/Update/Delete), execute administration operations on the database (such as shutdown the DBMS), recover the content of a given file present on the DBMS file system and in some cases issue commands to the operating system. SQL injection attacks are a type of injection attack, in which SQL commands are injected into data-plane input to affect the execution of predefined SQL commands. | https://github.com/pierceoneill/SQL-injection | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210815T12:22:35Z | 🤖An Evil and Smart Bot for Enslaving Windows Written in Rust and Python | https://github.com/wildonion/katyusha | 3 | 1| 
+| 20210815T12:25:22Z | 🤖An Evil and Smart Bot for Enslaving Windows Written in Rust and Python | https://github.com/wildonion/katyusha | 3 | 1| 
 | 20210815T11:33:58Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1257 | 597| 
 | 20210815T11:24:56Z | Null | https://github.com/quantization-backdoor/quantization-backdoor | 0 | 0| 
 | 20210815T10:50:06Z | kumpulan shell backdoor | https://github.com/anggixxx1/backdoor | 0 | 0| 
