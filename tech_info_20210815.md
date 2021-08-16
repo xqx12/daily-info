@@ -59,7 +59,6 @@
 | 20210815T22:07:22Z | This program is an non-object oriented opensource, hidden and undetectable backdoor/reverse shell/RAT for Windows made in Python 3 which contains many features such as multi-client support and cross-platform server. | https://github.com/xp4xbox/Python-Backdoor | 429 | 151| 
 | 20210815T20:06:19Z | Statically-linked ssh server with reverse shell functionality for CTFs and such | https://github.com/Fahrj/reverse-ssh | 239 | 14| 
 | 20210815T20:03:28Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1262 | 598| 
-| 20210815T20:01:35Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1390 | 361| 
 | 20210815T18:25:39Z | Python AV Evasion Tools | https://github.com/G1ft3dC0d3/MsfMania | 209 | 45| 
 | 20210815T17:19:48Z | 🤖An Evil and Smart Bot for Enslaving Windows Written in Rust and Python | https://github.com/wildonion/katyusha | 4 | 2| 
 | 20210815T11:24:56Z | Null | https://github.com/quantization-backdoor/quantization-backdoor | 0 | 0| 
