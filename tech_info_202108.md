@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210816T12:13:44Z | Get information about custom game, ip, password, name and platform. | https://github.com/OwOHamper/Splitgate-custom-games-password-exploit | 0 | 0| 
 | 20210816T12:10:12Z | Null | https://github.com/lewisaarons/exploitation-colonies | 0 | 0| 
 | 20210816T12:08:17Z | Null | https://github.com/TOG6-6/roblox-exploit | 0 | 0| 
 | 20210816T12:03:02Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
@@ -93,7 +94,6 @@
 | 20210816T10:34:37Z | Code to exploit samba 3.0.20 vulnerability | https://github.com/knooob/Samba-3.0.20-Exploit | 0 | 0| 
 | 20210816T10:23:36Z | A persuasive game designed to help people feel empowered by social media rather than exploited | https://github.com/naveedjan/social-tycoon | 0 | 0| 
 | 20210816T09:47:41Z | IG-Scanning-Exploiting-C2 | https://github.com/Peneter/BrXen-Framework | 0 | 0| 
-| 20210816T09:03:55Z | Record some topics and exploits in my learning of PWN | https://github.com/noobone123/my_pwn | 0 | 0| 
 
 
 # backdoor on Github 推荐
