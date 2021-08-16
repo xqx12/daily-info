@@ -138,9 +138,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210816T00:16:28Z | The minimal logging micro service web api with ASP.NET CORE | https://github.com/onurcanyilmaz/fuzzy-engine | 0 | 0| 
 | 20210816T00:13:53Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210816T00:13:16Z | a simple braking system using fuzzy logic with some simple rules, written in python using jupyter notebook | https://github.com/Hosein-Beheshti/Braking-System-Using-Fuzzy-Logic | 0 | 0| 
-| 20210816T00:11:17Z | The minimal logging micro service web api with .NET 5 | https://github.com/onurcanyilmaz/fuzzy-engine | 0 | 0| 
 | 20210816T00:05:11Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 21 | 9| 
 | 20210815T23:41:21Z | A Bash wrapper for radamsa that can be used to fuzz exported activities and deep links. | https://github.com/B3nac/deeplink-fuzz.sh | 6 | 0| 
 | 20210815T23:14:24Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6554 | 1336| 
