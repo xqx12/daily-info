@@ -19,8 +19,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210815T23:33:39Z | CVE-2021-38699 | Stored XSS in TastyIgniter v3.0.7 Restaurtant CMS | https://github.com/HuskyHacks/CVE-2021-38699-Stored-XSS | TastyIgniter 3.0.7 allows XSS via /account, /reservation, /admin/dashboard, and /admin/system_logs.| 
-| 20210815T23:33:22Z | CVE-2021-38699 | Multiple Reflected XSS in TastyIgniter v3.0.7 Restaurtant CMS | https://github.com/HuskyHacks/CVE-2021-38699-Reflected-XSS | TastyIgniter 3.0.7 allows XSS via /account, /reservation, /admin/dashboard, and /admin/system_logs.| 
-| 20210815T23:05:49Z | CVE-2021-38699 | TastyIgniter 3.0.7 allows XSS via the name field during user-account creation | https://github.com/Justin-1993/CVE-2021-38699 | TastyIgniter 3.0.7 allows XSS via /account, /reservation, /admin/dashboard, and /admin/system_logs.| 
+| 20210815T23:33:22Z | CVE-2021-38699 | Multiple Reflected XSS in TastyIgniter v3.0.7 Restaurtant CMS | https://github.com/HuskyHacks/CVE-2021-38699-Reflected-XSS | | 
 | 20210815T18:39:57Z | CVE-2021-36949 | check if Azure AD Connect is affected by the vulnerability described in CVE-2021-36949 | https://github.com/Maxwitat/Check-AAD-Connect-for-CVE-2021-36949-vulnerability | Microsoft Azure Active Directory Connect Authentication Bypass Vulnerability| 
 | 20210815T17:29:21Z | CVE-2021-28476 | tools for automate configure Ubuntu 20.04 enviroment for testing CVE-2021-28476. | https://github.com/sh4m2hwz/CVE-2021-28476-tools-env | Hyper-V Remote Code Execution Vulnerability| 
 | 20210815T11:08:47Z | CVE-2021-2394 | POC of CVE-2021-2394 | https://github.com/lz2y/CVE-2021-2394 | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Core). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via T3, IIOP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
@@ -43,7 +42,6 @@
 | --- | --- | --- | --- | ---| 
 | 20210815T23:38:31Z | some scripts i made you can use while exploiting RCE | https://github.com/Titoot/PHP-scripts-for-RCE-use | 0 | 0| 
 | 20210815T23:33:36Z | Script to extract local information in windows | https://github.com/Mr-r00t11/Ducky-Exploit | 0 | 0| 
-| 20210815T23:03:03Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210815T22:35:55Z | Comment utiliser ReactJS pour l%exploitation d%une API des pays comme notre exemple | https://github.com/MERIEM-dev-dev/Application-ReactJS-qui-exploite-une-API | 0 | 0| 
 | 20210815T22:25:57Z | Thi powershell script has got to run in remote hacked windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 6 | 1| 
 | 20210815T22:17:02Z | A number of exploits and tools I%ve written for CVEs accredited to Marshall Whittaker/oxagast | https://github.com/oxagast/oxasploits | 6 | 1| 
@@ -51,6 +49,7 @@
 | 20210815T22:11:54Z | DIfferent code bases for well known exploits | https://github.com/brad-ak/exploits | 0 | 0| 
 | 20210815T22:02:21Z | Old and new CTFs about Linux kernel exploitation. | https://github.com/MaherAzzouzi/LinuxKernelExploitation | 10 | 3| 
 | 20210815T21:59:45Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 25 | 5| 
+| 20210815T21:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9860 | 1639| 
 
 
 # backdoor on Github 推荐
