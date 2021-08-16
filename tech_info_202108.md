@@ -138,6 +138,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210816T01:33:54Z | Null | https://github.com/MJ-SEO/Fuzzing | 1 | 0| 
 | 20210816T01:29:06Z | Null | https://github.com/Hwangwoosam/fuzzing | 2 | 0| 
 | 20210816T01:21:12Z | FuzzingStudy | https://github.com/qpalzmm22/FuzzingStudy | 1 | 0| 
 | 20210816T01:19:30Z | 🔥 Studying The Fuzzing Book : https://www.fuzzingbook.org | https://github.com/KimSeoYe/TheFuzzingBook | 1 | 0| 
@@ -147,7 +148,6 @@
 | 20210816T00:16:28Z | The minimal logging micro service web api with ASP.NET CORE | https://github.com/onurcanyilmaz/fuzzy-engine | 0 | 0| 
 | 20210816T00:13:53Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210816T00:05:11Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 21 | 9| 
-| 20210815T23:14:24Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6554 | 1336| 
 
 
 
