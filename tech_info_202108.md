@@ -6,6 +6,7 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210815 | Defcon CTF 流水账 | http://brieflyx.me/2021/dc29-memo/| 
 | 20210813 | When Memory Serves Not So Well: Memory Errors 30 Years Later（paper） | https://sec.today/pulses/dd5e01fd-82e1-4032-8376-6eaa24b0633e/| 
 | 20210813 | VMPImportFixer - 还原被 VMP 加壳后二进制的导入表信息 | https://github.com/mike1k/VMPImportFixer| 
 | 20210813 | ByeIntegrity 8.0 - 利用 Program Compatibility Assistant 实现 UAC Bypass | https://github.com/AzAgarampur/byeintegrity8-uac| 
@@ -25,12 +26,12 @@
 | 20210812 | Certify - Active Directory Certificate Services 错误配置检测工具 | https://github.com/GhostPack/Certify| 
 | 20210812 | 探讨Shell注入执行命令的方法。 | https://matklad.github.io//2021/07/30/shell-injection.html| 
 | 20210811 | 通过 RPC 触发的 NTLM Relaying 漏洞（CVE-2021-26414） | https://blog.compass-security.com/2021/08/relaying-ntlm-authentication-over-rpc-again/| 
-| 20210811 | Pulse Connect Secure – RCE via Uncontrolled Archive Extraction – CVE-2021-22937 (Patch Bypass) | https://research.nccgroup.com/2021/08/05/technical-advisory-pulse-connect-secure-rce-via-uncontrolled-archive-extraction-cve-2021-22937-patch-bypass/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210815 | 现代网络应用中的同站攻击 | https://mp.weixin.qq.com/s/irGk0552-SlLEe9ItG1hVg| 
 | 20210814 | EyeJo: 一款自动化资产风险评估平台 | https://github.com/ice-doom/EyeJo| 
 | 20210813 | Lorec53组织分析报告- 攻击组件部分 | https://mp.weixin.qq.com/s/t_d8I4l0SnzGDXLRmmQzYg| 
 | 20210813 | 针对UAF类漏洞的定向Fuzz论文分享 | https://mp.weixin.qq.com/s/8zGKJzipp8AS4o3rjFr8rw| 
@@ -40,28 +41,28 @@
 | 20210813 | Windows上机取证检查 | https://mp.weixin.qq.com/s/2iyXBrobI2WjGmpsCrjUxw| 
 | 20210813 | 区块链安全罪与罚 -- 浅谈区块链与安全发展史 | https://lorexxar.cn/2021/08/06/blaockchain-dev/| 
 | 20210812 | CodeQL从入门到放弃 | https://www.freebuf.com/articles/web/283795.html| 
-| 20210812 | 基于词依存信息类型映射记忆神经网络的关系抽取 | https://mp.weixin.qq.com/s/BV1u8zq0YoP2yOKpKD_xNw| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210815T11:44:04Z | CVE-2021-28476 | tools for automate configure Ubuntu 20.04 enviroment for testing CVE-2021-28476. | https://github.com/sh4m2hwz/CVE-2021-28476-tools-env | Hyper-V Remote Code Execution Vulnerability| 
+| 20210815T23:33:39Z | CVE-2021-38699 | Stored XSS in TastyIgniter v3.0.7 Restaurtant CMS | https://github.com/HuskyHacks/CVE-2021-38699-Stored-XSS | TastyIgniter 3.0.7 allows XSS via /account, /reservation, /admin/dashboard, and /admin/system_logs.| 
+| 20210815T23:33:22Z | CVE-2021-38699 | Multiple Reflected XSS in TastyIgniter v3.0.7 Restaurtant CMS | https://github.com/HuskyHacks/CVE-2021-38699-Reflected-XSS | TastyIgniter 3.0.7 allows XSS via /account, /reservation, /admin/dashboard, and /admin/system_logs.| 
+| 20210815T23:05:49Z | CVE-2021-38699 | TastyIgniter 3.0.7 allows XSS via the name field during user-account creation | https://github.com/Justin-1993/CVE-2021-38699 | TastyIgniter 3.0.7 allows XSS via /account, /reservation, /admin/dashboard, and /admin/system_logs.| 
+| 20210815T18:39:57Z | CVE-2021-36949 | check if Azure AD Connect is affected by the vulnerability described in CVE-2021-36949 | https://github.com/Maxwitat/Check-AAD-Connect-for-CVE-2021-36949-vulnerability | Microsoft Azure Active Directory Connect Authentication Bypass Vulnerability| 
+| 20210815T17:29:21Z | CVE-2021-28476 | tools for automate configure Ubuntu 20.04 enviroment for testing CVE-2021-28476. | https://github.com/sh4m2hwz/CVE-2021-28476-tools-env | | 
 | 20210815T11:08:47Z | CVE-2021-2394 | POC of CVE-2021-2394 | https://github.com/lz2y/CVE-2021-2394 | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Core). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via T3, IIOP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
-| 20210815T07:37:07Z | CVE-2021-36949 | check if Azure AD Connect is affected by the vulnerability described in CVE-2021-36949 | https://github.com/Maxwitat/Check-AAD-Connect-for-CVE-2021-36949-vulnerability | Microsoft Azure Active Directory Connect Authentication Bypass Vulnerability| 
-| 20210814T21:40:56Z | CVE-2021-38601 | CVE-2021-38601 - Reflected XSS in Pepperminty-Wiki 0.23-dev | https://github.com/hmaverickadams/CVE-2021-38601 | 未查询到CVE信息| 
-| 20210814T21:01:48Z | CVE-2021-38699 | TastyIgniter 3.0.7 allows XSS via the name field during user-account creation | https://github.com/Justin-1993/CVE-2021-38699 | 未查询到CVE信息| 
+| 20210814T21:40:56Z | CVE-2021-38601 | CVE-2021-38601 - Reflected XSS in Pepperminty-Wiki 0.23-dev | https://github.com/hmaverickadams/CVE-2021-38601 | | 
 | 20210814T12:17:15Z | CVE-2021-38619 | Null | https://github.com/charlesbickel/CVE-2021-38619 | openBaraza HCM 3.1.6 does not properly neutralize user-controllable input: an unauthenticated remote attacker can conduct a stored cross-site scripting (XSS) attack against an administrative user from hr/subscription.jsp and hr/application.jsp and and hr/index.jsp (with view=).| 
-| 20210814T08:40:54Z | CVE-2020-8277 | Exploit for CVE-2020-8277 (educational purpose) | https://github.com/progfay/CVE-2020-8277 | | 
+| 20210814T08:40:54Z | CVE-2020-8277 | Exploit for CVE-2020-8277 (educational purpose) | https://github.com/progfay/CVE-2020-8277 | A Node.js application that allows an attacker to trigger a DNS request for a host of their choice could trigger a Denial of Service in versions < 15.2.1, < 14.15.1, and < 12.19.1 by getting the application to resolve a DNS record with a larger number of responses. This is fixed in 15.2.1, 14.15.1, and 12.19.1.| 
 | 20210814T03:55:19Z | CVE-2021-24145 | WordPress File Upload Vulnerability, Modern Events Calendar Lite WordPress plugin before 5.16.5 | https://github.com/dnr6419/CVE-2021-24145 | Arbitrary file upload in the Modern Events Calendar Lite WordPress plugin, versions before 5.16.5, did not properly check the imported file, allowing PHP ones to be uploaded by administrator by using the %text/csv% content-type in the request.| 
-| 20210814T02:52:19Z | CVE-2021-32644 | Ampache XSS  | https://github.com/dnr6419/CVE-2021-32644 | Ampache is an open source web based audio/video streaming application and file manager. Due to a lack of input filtering versions 4.x.y are vulnerable to code injection in random.php. The attack requires user authentication to access the random.php page unless the site is running in demo mode. This issue has been resolved in 4.4.3.| 
-| 20210814T01:56:15Z | CVE-2021-31166 | Rewrittened CVE-2021-31166 poc and exp | https://github.com/c4dr01d/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210815T10:12:46Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2601 | 66| 
+| 20210815T19:59:22Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 171 | 18| 
+| 20210815T18:11:13Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2604 | 67| 
 | 20210814T12:14:12Z | Null | https://github.com/coffee100percnt/KleeDiscordBomber | 4 | 0| 
 | 20210813T01:36:20Z | Null | https://github.com/santiagoHV/kleer-dojo-assessment-backend | 0 | 0| 
 | 20210812T09:13:07Z | Null | https://github.com/kamosika179/kleegame | 0 | 0| 
@@ -70,7 +71,6 @@
 | 20210811T05:09:10Z | Null | https://github.com/DonaldKLee/DonaldKLee | 0 | 1| 
 | 20210810T23:42:26Z | Null | https://github.com/adamhumphriescs/TASE_KLEE | 0 | 0| 
 | 20210810T17:08:15Z | Izrada novih algoritama za pretragu u okvriu alata za simboličko izvršavanje KLEE | https://github.com/MATF-Software-Verification/2020_03_Klee_Searcher | 0 | 0| 
-| 20210810T07:37:24Z | Report PPT template for CS students  | https://github.com/Fishermanykx/paper_reading_report_template | 1 | 0| 
 
 
 # s2e on Github 推荐
@@ -83,31 +83,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210815T12:47:06Z | Null | https://github.com/TheCrazzXz/Exploits-Lab | 0 | 1| 
-| 20210815T12:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9858 | 1637| 
-| 20210815T12:32:41Z | A standalone python script which utilizes python%s built-in modules to enumerate SUID binaries, separate default binaries from custom binaries, cross-match those with bins in GTFO Bin%s repository & auto-exploit those, all with colors! ( ͡~ ͜ʖ ͡°) | https://github.com/Anon-Exploiter/SUID3NUM | 393 | 99| 
-| 20210815T12:26:01Z | CAUTION - Malicious files 💀 | https://github.com/Am0rphous/Malware | 18 | 8| 
-| 20210815T12:15:09Z | This repository will feature my scripts, research and documentation on Pokémon engines, glitches and exploits. | https://github.com/RETIREglitch/Pokemon-Research | 4 | 2| 
-| 20210815T12:12:39Z | In this project, you will: (1) Deploy and assess a simple web application environment’s security posture (2) Test the security of the environment by simulating attack scenarios and exploiting cloud configuration vulnerabilities (3) Implement monitoring to identify insecure configurations and malicious activity (4) Apply methods learned in the course to harden and secure the environment (5) Design a DevSecOps pipeline | https://github.com/wfs/cloud-architect-aws-project-3-security | 0 | 0| 
-| 20210815T12:12:04Z | A post exploitation framework designed to operate covertly on heavily monitored environments | https://github.com/bats3c/shad0w | 1354 | 229| 
-| 20210815T12:05:00Z | I found a way to exploit the rotation minecraft applies to certain Blocks to reconstruct coordinates from them | https://github.com/DerBejijing/BlockRotationExploit | 4 | 0| 
-| 20210815T12:02:54Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
-| 20210815T11:33:52Z | Roblox Exploit UI: Frostware X | https://github.com/09Shahin/Frostware | 0 | 0| 
+| 20210815T23:38:31Z | some scripts i made you can use while exploiting RCE | https://github.com/Titoot/PHP-scripts-for-RCE-use | 0 | 0| 
+| 20210815T23:33:36Z | Script to extract local information in windows | https://github.com/Mr-r00t11/Ducky-Exploit | 0 | 0| 
+| 20210815T23:03:03Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
+| 20210815T22:35:55Z | Comment utiliser ReactJS pour l%exploitation d%une API des pays comme notre exemple | https://github.com/MERIEM-dev-dev/Application-ReactJS-qui-exploite-une-API | 0 | 0| 
+| 20210815T22:25:57Z | Thi powershell script has got to run in remote hacked windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 6 | 1| 
+| 20210815T22:17:02Z | A number of exploits and tools I%ve written for CVEs accredited to Marshall Whittaker/oxagast | https://github.com/oxagast/oxasploits | 6 | 1| 
+| 20210815T22:16:20Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | 0 | 0| 
+| 20210815T22:11:54Z | DIfferent code bases for well known exploits | https://github.com/brad-ak/exploits | 0 | 0| 
+| 20210815T22:02:21Z | Old and new CTFs about Linux kernel exploitation. | https://github.com/MaherAzzouzi/LinuxKernelExploitation | 10 | 3| 
+| 20210815T21:59:45Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 25 | 5| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210815T12:25:22Z | 🤖An Evil and Smart Bot for Enslaving Windows Written in Rust and Python | https://github.com/wildonion/katyusha | 3 | 1| 
-| 20210815T11:33:58Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1257 | 597| 
+| 20210815T23:51:21Z | Backdoor utilizando criptografia Xor para evitar detecção | https://github.com/andreyquerino/Backdoor-Indetectavel | 0 | 0| 
+| 20210815T22:07:22Z | This program is an non-object oriented opensource, hidden and undetectable backdoor/reverse shell/RAT for Windows made in Python 3 which contains many features such as multi-client support and cross-platform server. | https://github.com/xp4xbox/Python-Backdoor | 429 | 151| 
+| 20210815T20:06:19Z | Statically-linked ssh server with reverse shell functionality for CTFs and such | https://github.com/Fahrj/reverse-ssh | 239 | 14| 
+| 20210815T20:03:28Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1262 | 598| 
+| 20210815T20:01:35Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1390 | 361| 
+| 20210815T18:25:39Z | Python AV Evasion Tools | https://github.com/G1ft3dC0d3/MsfMania | 209 | 45| 
+| 20210815T17:19:48Z | 🤖An Evil and Smart Bot for Enslaving Windows Written in Rust and Python | https://github.com/wildonion/katyusha | 4 | 2| 
 | 20210815T11:24:56Z | Null | https://github.com/quantization-backdoor/quantization-backdoor | 0 | 0| 
-| 20210815T10:50:06Z | kumpulan shell backdoor | https://github.com/anggixxx1/backdoor | 0 | 0| 
-| 20210815T09:12:14Z | Statically-linked ssh server with reverse shell functionality for CTFs and such | https://github.com/Fahrj/reverse-ssh | 238 | 14| 
-| 20210815T07:16:59Z | This program is an non-object oriented opensource, hidden and undetectable backdoor/reverse shell/RAT for Windows made in Python 3 which contains many features such as multi-client support and cross-platform server. | https://github.com/xp4xbox/Python-Backdoor | 428 | 151| 
+| 20210815T10:50:06Z | kumpulan shell backdoor | https://github.com/anggixxx1/backdoor | 0 | 1| 
 | 20210814T23:26:55Z | The code of AAAI-21 paper %Defending against Backdoors in Federated Learning with Robust Learning Rate%. | https://github.com/TinfoilHat0/Defending-Against-Backdoors-with-Robust-Learning-Rate | 0 | 1| 
-| 20210814T15:42:34Z | Null | https://github.com/Numb3rsProprety/backdoor | 0 | 0| 
-| 20210814T14:41:09Z | LeuxBackdoor Versión 0.8 Pública y libre de cualquier malware | https://github.com/Luscius-Dev/LeuxBackdoor-0.8 | 9 | 4| 
-| 20210814T11:46:01Z | Null | https://github.com/EjHvorSerDuVildUdJim/backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -128,6 +128,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210815T13:11:06Z | Code for NDSS% 19 paper:  A Systematic Framework to Generate Invariants for Anomaly Detection in Industrial Control Systems | https://github.com/cfeng783/NDSS19_InvariantRuleAD | 2 | 1| 
 | 20210813T08:22:15Z | Original implementation of FlowPrint as in the NDSS %20 paper | https://github.com/Thijsvanede/FlowPrint | 54 | 19| 
 | 20210811T22:39:00Z | A penetration testing tool for finding file upload bugs (NDSS 2020) | https://github.com/WSP-LAB/FUSE | 159 | 37| 
 | 20210804T10:13:29Z | Code for NDSS 2021 Paper %Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses Against Federated Learning% | https://github.com/vrt1shjwlkr/NDSS21-Model-Poisoning | 18 | 4| 
@@ -137,16 +138,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210815T12:54:44Z | Null | https://github.com/jiradeto/fuzzbench-result | 0 | 0| 
-| 20210815T12:52:44Z | Null | https://github.com/LakshLilhare-in/fuzzy-meme | 0 | 0| 
-| 20210815T12:51:39Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210815T12:35:33Z | Fuzzing some projects written in Rust | https://github.com/Nereuxofficial/Fuzzing | 0 | 0| 
-| 20210815T12:21:05Z | Reproduce bugs in https://github.com/google/fuzzer-test-suite | https://github.com/K-atc/reproduce-bugs-in-fuzzer-test-suite | 1 | 0| 
-| 20210815T12:19:03Z | Null | https://github.com/MdSaifulIslamSajol/Choosing-a-Control-method-and-Design-of-Mamdani-Fuzzy-Controller-for-Nonlinear-System-using-MATLAB | 0 | 0| 
-| 20210815T12:18:23Z | Null | https://github.com/Artisan-Lab/Fuzzing-Scripts | 1 | 0| 
-| 20210815T12:15:20Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 21 | 9| 
-| 20210815T12:14:37Z | SSL and TLS protocol test suite and fuzzer | https://github.com/tlsfuzzer/tlsfuzzer | 389 | 88| 
-| 20210815T11:41:38Z | Null | https://github.com/fuzziejaxer/FuzzieCraft | 0 | 0| 
+| 20210815T23:41:21Z | A Bash wrapper for radamsa that can be used to fuzz exported activities and deep links. | https://github.com/B3nac/deeplink-fuzz.sh | 6 | 0| 
+| 20210815T23:14:24Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6554 | 1336| 
+| 20210815T23:05:58Z | Project ini merupakan sebuah sistem berbasis Internet of Thing untuk memantau kadar asap dimana kadar asap akan ditampilkan pada website secara realtime. | https://github.com/novaangeliaeriyanti/Smoke-Detector-using-Fuzzy-Logic | 0 | 0| 
+| 20210815T23:01:13Z | A ground-truth fuzzing benchmark suite based on real programs with real bugs. | https://github.com/HexHive/magma | 131 | 39| 
+| 20210815T22:32:37Z | Project ini merupakan sebuah sistem berbasis Internet of Thing untuk  memantau kadar asap dimana kadar asap akan ditampilkan pada website  secara realtime. Sistem ini dilengkapi status peringatan berdasarkan  tingkat kepekatan asap yaitu aman, waspada, dan berbahaya. Kemudian,  pada alat project ini dilengkapi dengan indikator berupa tiga buah lampu yang mewakili kondisi asap. Project ini dibangun dengan bahasa  pemograman C++, PHP dan HTML untuk mebuat website, software  Arduino dan modul ESP8266. | https://github.com/novaangelia/Smoke-Detector-using-Fuzzy-Logic | 0 | 0| 
+| 20210815T21:44:09Z | wtf is a distributed, code-coverage guided, customizable, cross-platform snapshot-based fuzzer designed for attacking user and / or kernel-mode targets running on Microsoft Windows. | https://github.com/0vercl0k/wtf | 673 | 40| 
+| 20210815T21:29:33Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
+| 20210815T21:25:16Z | Null | https://github.com/opimentel-github/fuzzy-tools | 0 | 0| 
+| 20210815T21:10:46Z | Simple fuzzy logic library implemented in Rust language. | https://github.com/SeriousRedCat/fuzzy-rust | 0 | 0| 
+| 20210815T21:07:40Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
 
 
 
