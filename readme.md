@@ -97,6 +97,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210816T12:10:07Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 89 | 23| 
 | 20210816T11:39:44Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210816T11:37:02Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3641 | 862| 
 | 20210816T10:51:04Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6553 | 1336| 
@@ -106,7 +107,6 @@
 | 20210816T10:17:02Z | A curated list of awesome directed fuzzing research papers | https://github.com/strongcourage/awesome-directed-fuzzing | 91 | 15| 
 | 20210816T09:44:56Z | Null | https://github.com/nhsd-exeter/dos-service-fuzzy-search-api | 1 | 0| 
 | 20210816T09:41:20Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 175 | 36| 
-| 20210816T09:16:32Z | FuzzingStudy | https://github.com/qpalzmm22/FuzzingStudy | 3 | 0| 
 
 
 
