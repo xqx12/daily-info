@@ -55,7 +55,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210816T12:22:10Z | Get information about custom game, ip, password, name and platform. | https://github.com/OwOHamper/Splitgate-custom-games-password-exploit | 0 | 0| 
+| 20210816T12:25:39Z | Get information about custom game, ip, password, name and platform. | https://github.com/OwOHamper/Splitgate-custom-games-password-exploit | 0 | 0| 
 | 20210816T12:10:12Z | Null | https://github.com/lewisaarons/exploitation-colonies | 0 | 0| 
 | 20210816T12:08:17Z | Null | https://github.com/TOG6-6/roblox-exploit | 0 | 0| 
 | 20210816T12:03:02Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
