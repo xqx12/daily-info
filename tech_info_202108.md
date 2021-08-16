@@ -138,6 +138,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210816T00:51:10Z | Null | https://github.com/divyanishevatkar/fuzzy-doodle | 0 | 0| 
 | 20210816T00:35:35Z | A Bash wrapper for radamsa that can be used to fuzz exported activities and deep links. | https://github.com/B3nac/deeplink-fuzz.sh | 7 | 0| 
 | 20210816T00:16:56Z | a simple braking system using fuzzy logic with some simple rules, written in python using jupyter notebook | https://github.com/Hosein-Beheshti/Braking-System-Using-Fuzzy-Logic | 0 | 0| 
 | 20210816T00:16:28Z | The minimal logging micro service web api with ASP.NET CORE | https://github.com/onurcanyilmaz/fuzzy-engine | 0 | 0| 
@@ -147,7 +148,6 @@
 | 20210815T23:05:58Z | Project ini merupakan sebuah sistem berbasis Internet of Thing untuk memantau kadar asap dimana kadar asap akan ditampilkan pada website secara realtime. | https://github.com/novaangeliaeriyanti/Smoke-Detector-using-Fuzzy-Logic | 0 | 0| 
 | 20210815T23:01:13Z | A ground-truth fuzzing benchmark suite based on real programs with real bugs. | https://github.com/HexHive/magma | 131 | 39| 
 | 20210815T22:32:37Z | Project ini merupakan sebuah sistem berbasis Internet of Thing untuk  memantau kadar asap dimana kadar asap akan ditampilkan pada website  secara realtime. Sistem ini dilengkapi status peringatan berdasarkan  tingkat kepekatan asap yaitu aman, waspada, dan berbahaya. Kemudian,  pada alat project ini dilengkapi dengan indikator berupa tiga buah lampu yang mewakili kondisi asap. Project ini dibangun dengan bahasa  pemograman C++, PHP dan HTML untuk mebuat website, software  Arduino dan modul ESP8266. | https://github.com/novaangelia/Smoke-Detector-using-Fuzzy-Logic | 0 | 0| 
-| 20210815T21:44:09Z | wtf is a distributed, code-coverage guided, customizable, cross-platform snapshot-based fuzzer designed for attacking user and / or kernel-mode targets running on Microsoft Windows. | https://github.com/0vercl0k/wtf | 673 | 40| 
 
 
 
