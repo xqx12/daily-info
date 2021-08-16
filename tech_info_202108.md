@@ -98,6 +98,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210816T01:31:20Z | LeuxBackdoor Versión 0.8 Pública y libre de cualquier malware | https://github.com/Luscius-Dev/LeuxBackdoor-0.8 | 10 | 4| 
 | 20210816T00:13:35Z | Statically-linked ssh server with reverse shell functionality for CTFs and such | https://github.com/Fahrj/reverse-ssh | 240 | 14| 
 | 20210816T00:11:46Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1391 | 361| 
 | 20210815T23:51:21Z | Backdoor utilizando criptografia Xor para evitar detecção | https://github.com/andreyquerino/Backdoor-Indetectavel | 0 | 0| 
@@ -107,7 +108,6 @@
 | 20210815T17:19:48Z | 🤖An Evil and Smart Bot for Enslaving Windows Written in Rust and Python | https://github.com/wildonion/katyusha | 4 | 2| 
 | 20210815T11:24:56Z | Null | https://github.com/quantization-backdoor/quantization-backdoor | 0 | 0| 
 | 20210815T10:50:06Z | kumpulan shell backdoor | https://github.com/anggixxx1/backdoor | 0 | 1| 
-| 20210814T23:26:55Z | The code of AAAI-21 paper %Defending against Backdoors in Federated Learning with Robust Learning Rate%. | https://github.com/TinfoilHat0/Defending-Against-Backdoors-with-Robust-Learning-Rate | 0 | 1| 
 
 
 # symbolic execution on Github 推荐
