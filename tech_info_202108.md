@@ -139,6 +139,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210816T12:39:19Z | Academic papers and articles that I read related to web hacking, fuzzing, etc. / 阅读过的Web安全方向、模糊测试方向的一些论文与阅读笔记 | https://github.com/LyleMi/papers | 216 | 15| 
 | 20210816T12:22:24Z | my fuzzy control lessons homework | https://github.com/dordunculsahis/artifical-intelegence-and-fuzzy-control | 0 | 0| 
 | 20210816T12:10:07Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 89 | 23| 
 | 20210816T11:39:44Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
@@ -148,7 +149,6 @@
 | 20210816T10:37:02Z | 基于JQF，使运行模糊测试更方便 | https://github.com/baileyfu/fuzzing4j | 0 | 0| 
 | 20210816T10:34:58Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210816T10:17:02Z | A curated list of awesome directed fuzzing research papers | https://github.com/strongcourage/awesome-directed-fuzzing | 91 | 15| 
-| 20210816T09:44:56Z | Null | https://github.com/nhsd-exeter/dos-service-fuzzy-search-api | 1 | 0| 
 
 
 
