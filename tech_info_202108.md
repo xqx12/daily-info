@@ -139,8 +139,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210816T12:42:39Z | my fuzzy control lessons homework | https://github.com/dordunculsahis/artifical-intelegence-and-fuzzy-control | 0 | 0| 
 | 20210816T12:39:19Z | Academic papers and articles that I read related to web hacking, fuzzing, etc. / 阅读过的Web安全方向、模糊测试方向的一些论文与阅读笔记 | https://github.com/LyleMi/papers | 216 | 15| 
-| 20210816T12:22:24Z | my fuzzy control lessons homework | https://github.com/dordunculsahis/artifical-intelegence-and-fuzzy-control | 0 | 0| 
 | 20210816T12:10:07Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 89 | 23| 
 | 20210816T11:39:44Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210816T11:37:02Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3641 | 862| 
