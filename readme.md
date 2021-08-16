@@ -55,7 +55,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210816T12:25:39Z | Get information about custom game, ip, password, name and platform. | https://github.com/OwOHamper/Splitgate-custom-games-password-exploit | 0 | 0| 
+| 20210816T12:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9860 | 1640| 
+| 20210816T12:34:15Z | Get information about custom game, ip, password, name and platform. | https://github.com/OwOHamper/Splitgate-custom-games-password-exploit | 0 | 0| 
 | 20210816T12:10:12Z | Null | https://github.com/lewisaarons/exploitation-colonies | 0 | 0| 
 | 20210816T12:08:17Z | Null | https://github.com/TOG6-6/roblox-exploit | 0 | 0| 
 | 20210816T12:03:02Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
@@ -64,13 +65,12 @@
 | 20210816T11:01:56Z | Null | https://github.com/TheSquanch-147/Rugpulls-Hacks-Exploits-List | 25 | 0| 
 | 20210816T10:34:37Z | Code to exploit samba 3.0.20 vulnerability | https://github.com/knooob/Samba-3.0.20-Exploit | 0 | 0| 
 | 20210816T10:23:36Z | A persuasive game designed to help people feel empowered by social media rather than exploited | https://github.com/naveedjan/social-tycoon | 0 | 0| 
-| 20210816T09:47:41Z | IG-Scanning-Exploiting-C2 | https://github.com/Peneter/BrXen-Framework | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210816T12:32:27Z | Want to backdoor a script kiddie? This project is perfect for you! | https://github.com/GermanBread/skid-begone | 0 | 0| 
+| 20210816T12:35:01Z | Want to backdoor a script kiddie? This project is perfect for you! | https://github.com/GermanBread/skid-begone | 0 | 0| 
 | 20210816T10:17:04Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1264 | 598| 
 | 20210816T09:21:51Z | Null | https://github.com/L-F-Z/BackDoor-FrontDoor | 0 | 0| 
 | 20210816T08:46:10Z | Windoor is a Windows Backdoor which uses ssh to gain access to the windows machine.  | https://github.com/Talhamehar007/windoor-ssh | 0 | 0| 
