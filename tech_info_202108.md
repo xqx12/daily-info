@@ -138,10 +138,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210816T01:33:54Z | Null | https://github.com/MJ-SEO/Fuzzing | 1 | 0| 
-| 20210816T01:29:06Z | Null | https://github.com/Hwangwoosam/fuzzing | 2 | 0| 
-| 20210816T01:21:12Z | FuzzingStudy | https://github.com/qpalzmm22/FuzzingStudy | 1 | 0| 
-| 20210816T01:19:30Z | 🔥 Studying The Fuzzing Book : https://www.fuzzingbook.org | https://github.com/KimSeoYe/TheFuzzingBook | 1 | 0| 
+| 20210816T01:34:53Z | 🔥 Studying The Fuzzing Book : https://www.fuzzingbook.org | https://github.com/KimSeoYe/TheFuzzingBook | 2 | 0| 
+| 20210816T01:34:52Z | FuzzingStudy | https://github.com/qpalzmm22/FuzzingStudy | 3 | 0| 
+| 20210816T01:34:50Z | Null | https://github.com/MJ-SEO/Fuzzing | 2 | 0| 
+| 20210816T01:34:48Z | Null | https://github.com/Hwangwoosam/fuzzing | 3 | 0| 
 | 20210816T00:51:10Z | Null | https://github.com/divyanishevatkar/fuzzy-doodle | 0 | 0| 
 | 20210816T00:35:35Z | A Bash wrapper for radamsa that can be used to fuzz exported activities and deep links. | https://github.com/B3nac/deeplink-fuzz.sh | 7 | 0| 
 | 20210816T00:16:56Z | a simple braking system using fuzzy logic with some simple rules, written in python using jupyter notebook | https://github.com/Hosein-Beheshti/Braking-System-Using-Fuzzy-Logic | 0 | 0| 
