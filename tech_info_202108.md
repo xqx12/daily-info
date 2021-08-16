@@ -49,7 +49,7 @@
 | 20210816T11:58:08Z | CVE-2021-2394 | POC of CVE-2021-2394 | https://github.com/lz2y/CVE-2021-2394 | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Core). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via T3, IIOP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
 | 20210816T11:50:46Z | CVE-2021-25791 | Multiple Stored XSS Online Doctor Appointment System  | https://github.com/MrCraniums/CVE-2021-25791-Multiple-Stored-XSS | Multiple stored cross site scripting (XSS) vulnerabilities in the %Update Profile% module of Online Doctor Appointment System 1.0 allows authenticated attackers to execute arbitrary web scripts or HTML via crafted payloads in the First Name, Last Name, and Address text fields.| 
 | 20210816T11:50:43Z | CVE-2021-25790 | CVE-2021-25790-Multiple-Stored-XSS : Multiple Stored XSS in House Rental and Property Listing | https://github.com/MrCraniums/CVE-2021-25790-Multiple-Stored-XSS | Multiple stored cross site scripting (XSS) vulnerabilities in the %Register% module of House Rental and Property Listing 1.0 allows authenticated attackers to execute arbitrary web scripts or HTML via crafted payloads in all text fields except for Phone Number and Alternate Phone Number.| 
-| 20210816T10:41:45Z | CVE-2021-34473 | CVE-2021-34473 Microsoft Exchange Server Remote Code Execution Vulnerability | https://github.com/whichbuffer/CVE-2021-34473 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-31196, CVE-2021-31206.| 
+| 20210816T10:41:45Z | CVE-2021-34473 | CVE-2021-34473 Microsoft Exchange Server Remote Code Execution Vulnerability | https://github.com/whichbuffer/CVE-2021-34473 | | 
 | 20210816T01:31:50Z | CVE-2021-36949 | check if Azure AD Connect is affected by the vulnerability described in CVE-2021-36949 | https://github.com/Maxwitat/Check-AAD-Connect-for-CVE-2021-36949-vulnerability | Microsoft Azure Active Directory Connect Authentication Bypass Vulnerability| 
 | 20210816T01:29:50Z | CVE-2021-3156 | Sudo heap-based buffer overflow privilege escalation commands and mitigations. | https://github.com/Kleptocratic/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210816T00:35:56Z | CVE-2021-38699 | Stored XSS in TastyIgniter v3.0.7 Restaurtant CMS | https://github.com/HuskyHacks/CVE-2021-38699-Stored-XSS | TastyIgniter 3.0.7 allows XSS via /account, /reservation, /admin/dashboard, and /admin/system_logs.| 
@@ -114,16 +114,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210816T11:21:42Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 454 | 68| 
+| 20210816T09:39:38Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 156 | 34| 
+| 20210816T07:42:23Z | SymQEMU: Compilation-based symbolic execution for binaries | https://github.com/eurecom-s3/symqemu | 159 | 20| 
 | 20210815T09:47:35Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1873 | 389| 
 | 20210815T01:27:39Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2418 | 360| 
-| 20210814T06:04:21Z | A tiny symbolic execution engine | https://github.com/pruemmer/nano-symex | 3 | 7| 
-| 20210813T21:10:24Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 156 | 34| 
+| 20210814T06:04:21Z | A tiny symbolic execution engine | https://github.com/pruemmer/nano-symex | 3 | 8| 
 | 20210812T10:26:26Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 93 | 6| 
-| 20210812T09:14:05Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 452 | 68| 
 | 20210810T12:49:15Z | A toy symbolic execution engine, supporting the blog article ... | https://github.com/synacktiv/toy-wasm-symbexp | 8 | 2| 
 | 20210810T03:38:15Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1742 | 500| 
 | 20210809T19:16:35Z | A tool for generating nonlinear numerical invariants for C and Java programs.  DIG uses dynamic analysis to infer invariants over program execution traces and applies symbolic execution to inferred invariants. | https://github.com/unsat/dig | 4 | 4| 
-| 20210809T15:18:00Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 17 | 3| 
 
 
 # big4 on Github 推荐
