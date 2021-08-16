@@ -78,7 +78,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210815T23:41:21Z | A Bash wrapper for radamsa that can be used to fuzz exported activities and deep links. | https://github.com/B3nac/deeplink-fuzz.sh | 6 | 0| 
 | 20210815T23:14:24Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6554 | 1336| 
 | 20210815T23:05:58Z | Project ini merupakan sebuah sistem berbasis Internet of Thing untuk memantau kadar asap dimana kadar asap akan ditampilkan pada website secara realtime. | https://github.com/novaangeliaeriyanti/Smoke-Detector-using-Fuzzy-Logic | 0 | 0| 
 | 20210815T23:01:13Z | A ground-truth fuzzing benchmark suite based on real programs with real bugs. | https://github.com/HexHive/magma | 131 | 39| 
@@ -88,6 +87,7 @@
 | 20210815T21:25:16Z | Null | https://github.com/opimentel-github/fuzzy-tools | 0 | 0| 
 | 20210815T21:10:46Z | Simple fuzzy logic library implemented in Rust language. | https://github.com/SeriousRedCat/fuzzy-rust | 0 | 0| 
 | 20210815T21:07:40Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
+| 20210815T19:59:28Z | Null | https://github.com/wearypossum4770/fuzzy-funicular | 0 | 0| 
 
 
 
