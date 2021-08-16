@@ -55,11 +55,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210816T12:10:12Z | Null | https://github.com/lewisaarons/exploitation-colonies | 0 | 0| 
 | 20210816T12:08:17Z | Null | https://github.com/TOG6-6/roblox-exploit | 0 | 0| 
 | 20210816T12:03:02Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210816T11:54:04Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 76 | 13| 
 | 20210816T11:51:04Z | Commodity Injection Signatures, Malicious Inputs, XSS, HTTP Header Injection, XXE, RCE, Javascript, XSLT | https://github.com/xsscx/Commodity-Injection-Signatures | 284 | 106| 
-| 20210816T11:48:51Z | Null | https://github.com/lewisaarons/exploitation-colonies | 0 | 0| 
 | 20210816T11:01:56Z | Null | https://github.com/TheSquanch-147/Rugpulls-Hacks-Exploits-List | 25 | 0| 
 | 20210816T10:34:37Z | Code to exploit samba 3.0.20 vulnerability | https://github.com/knooob/Samba-3.0.20-Exploit | 0 | 0| 
 | 20210816T10:23:36Z | A persuasive game designed to help people feel empowered by social media rather than exploited | https://github.com/naveedjan/social-tycoon | 0 | 0| 
