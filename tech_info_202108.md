@@ -14,6 +14,8 @@
 | 20210816 | 一份关于渗透测试的 Red Team Handbook | https://kwcsec.gitbook.io/the-red-team-handbook/| 
 | 20210816 | rConfig 3.9.6 - Magic Hash Auth Bypass to RCE | https://posts.slayerlabs.com/rconfig-vulns/| 
 | 20210816 | PetitPotam 以及 Windows RPC 接口安全保护 | https://www.tiraniddo.dev/2021/08/how-to-secure-windows-rpc-server-and.html| 
+| 20210816 | 从 mimikatz 学习 Windows 安全之访问控制模型（二） | https://paper.seebug.org/1672/| 
+| 20210816 | RSA 加密的数学原理分析。 | http://fringe.davesource.com/Fringe/Crypt/RSA/Algorithm.html| 
 | 20210815 | Defcon CTF 流水账 | http://brieflyx.me/2021/dc29-memo/| 
 | 20210813 | When Memory Serves Not So Well: Memory Errors 30 Years Later（paper） | https://sec.today/pulses/dd5e01fd-82e1-4032-8376-6eaa24b0633e/| 
 | 20210813 | VMPImportFixer - 还原被 VMP 加壳后二进制的导入表信息 | https://github.com/mike1k/VMPImportFixer| 
@@ -24,8 +26,6 @@
 | 20210813 | Nyx: Greybox Hypervisor Fuzzing using Fast Snapshots and Affine Types（Paper） | https://www.usenix.org/conference/usenixsecurity21/presentation/schumilo| 
 | 20210813 | Who’s Debugging the Debuggers，挖掘软件调试信息处理工具链中的 Bug | https://bibbase.org/network/publication/diluna-italiano-massarelli-sterlund-giuffrida-querzoni-whosdebuggingthedebuggersexposingdebuginformationbugsinoptimizedbinaries-2021| 
 | 20210812 | Visual Studio Code .ipynb Jupyter Notebook XSS 漏洞分析 | https://github.com/justinsteven/advisories/blob/master/2021_vscode_ipynb_xss_arbitrary_file_read.md| 
-| 20210812 | Common GraphQL Misconceptions | https://securitygoat.medium.com/common-graphql-misconceptions-a-rant-489647167ca3| 
-| 20210812 | Poly Network 团队被窃取价值 6 亿美元的加密货币, 随后该团队在 Twitter 发表声明表示这是严重经济犯罪. 目前, 黑客真的退回了其中的 2.58 亿 | https://blog.malwarebytes.com/reports/2021/08/code-vulnerability-leads-to-colossal-600-million-cryptocurrency-theft/| 
 
 
 # 安全维基 推荐
@@ -46,22 +46,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210816T22:45:12Z | CVE-2021-34473 | CVE-2021-34473 Microsoft Exchange Server Remote Code Execution Vulnerability | https://github.com/phamphuqui1998/CVE-2021-34473 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-31196, CVE-2021-31206.| 
+| 20210816T12:59:22Z | CVE-2021-3156 | Sudo Heap Overflow Baron Samedit | https://github.com/0x7183/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210816T12:36:19Z | CVE-2021-2394 | POC of CVE-2021-2394 | https://github.com/lz2y/CVE-2021-2394 | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Core). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via T3, IIOP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
 | 20210816T11:50:46Z | CVE-2021-25791 | Multiple Stored XSS Online Doctor Appointment System  | https://github.com/MrCraniums/CVE-2021-25791-Multiple-Stored-XSS | Multiple stored cross site scripting (XSS) vulnerabilities in the %Update Profile% module of Online Doctor Appointment System 1.0 allows authenticated attackers to execute arbitrary web scripts or HTML via crafted payloads in the First Name, Last Name, and Address text fields.| 
-| 20210816T11:50:43Z | CVE-2021-25790 | CVE-2021-25790-Multiple-Stored-XSS : Multiple Stored XSS in House Rental and Property Listing | https://github.com/MrCraniums/CVE-2021-25790-Multiple-Stored-XSS | Multiple stored cross site scripting (XSS) vulnerabilities in the %Register% module of House Rental and Property Listing 1.0 allows authenticated attackers to execute arbitrary web scripts or HTML via crafted payloads in all text fields except for Phone Number and Alternate Phone Number.| 
+| 20210816T11:50:43Z | CVE-2021-25790 | CVE-2021-25790-Multiple-Stored-XSS : Multiple Stored XSS in House Rental and Property Listing | https://github.com/MrCraniums/CVE-2021-25790-Multiple-Stored-XSS | | 
 | 20210816T10:41:45Z | CVE-2021-34473 | CVE-2021-34473 Microsoft Exchange Server Remote Code Execution Vulnerability | https://github.com/whichbuffer/CVE-2021-34473 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-31196, CVE-2021-31206.| 
 | 20210816T01:31:50Z | CVE-2021-36949 | check if Azure AD Connect is affected by the vulnerability described in CVE-2021-36949 | https://github.com/Maxwitat/Check-AAD-Connect-for-CVE-2021-36949-vulnerability | Microsoft Azure Active Directory Connect Authentication Bypass Vulnerability| 
 | 20210816T01:29:50Z | CVE-2021-3156 | Sudo heap-based buffer overflow privilege escalation commands and mitigations. | https://github.com/Kleptocratic/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210816T00:35:56Z | CVE-2021-38699 | Stored XSS in TastyIgniter v3.0.7 Restaurtant CMS | https://github.com/HuskyHacks/CVE-2021-38699-Stored-XSS | TastyIgniter 3.0.7 allows XSS via /account, /reservation, /admin/dashboard, and /admin/system_logs.| 
 | 20210816T00:35:54Z | CVE-2021-38699 | Multiple Reflected XSS in TastyIgniter v3.0.7 Restaurtant CMS | https://github.com/HuskyHacks/CVE-2021-38699-Reflected-XSS | TastyIgniter 3.0.7 allows XSS via /account, /reservation, /admin/dashboard, and /admin/system_logs.| 
-| 20210816T00:03:32Z | CVE-2021-38699 | TastyIgniter 3.0.7 allows XSS via the name field during user-account creation | https://github.com/Justin-1993/CVE-2021-38699 | TastyIgniter 3.0.7 allows XSS via /account, /reservation, /admin/dashboard, and /admin/system_logs.| 
-| 20210815T17:29:21Z | CVE-2021-28476 | tools for automate configure Ubuntu 20.04 enviroment for testing CVE-2021-28476. | https://github.com/sh4m2hwz/CVE-2021-28476-tools-env | Hyper-V Remote Code Execution Vulnerability| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210816T11:08:47Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2608 | 67| 
+| 20210816T17:30:35Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2609 | 67| 
 | 20210816T06:33:59Z | Null | https://github.com/davidtr1037/klee-symsize | 0 | 0| 
 | 20210815T19:59:22Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 171 | 18| 
 | 20210814T12:14:12Z | Null | https://github.com/coffee100percnt/KleeDiscordBomber | 4 | 0| 
@@ -84,16 +84,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210816T12:50:32Z | Enabling and automating an exploit in Pokémon Tower Battle | https://github.com/manstie/PokemonTowerExploit | 1 | 0| 
-| 20210816T12:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9860 | 1640| 
-| 20210816T12:34:15Z | Get information about custom game, ip, password, name and platform. | https://github.com/OwOHamper/Splitgate-custom-games-password-exploit | 0 | 0| 
-| 20210816T12:10:12Z | Null | https://github.com/lewisaarons/exploitation-colonies | 0 | 0| 
-| 20210816T12:08:17Z | Null | https://github.com/TOG6-6/roblox-exploit | 0 | 0| 
-| 20210816T12:03:02Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
-| 20210816T11:54:04Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 76 | 13| 
-| 20210816T11:51:04Z | Commodity Injection Signatures, Malicious Inputs, XSS, HTTP Header Injection, XXE, RCE, Javascript, XSLT | https://github.com/xsscx/Commodity-Injection-Signatures | 284 | 106| 
-| 20210816T11:01:56Z | Null | https://github.com/TheSquanch-147/Rugpulls-Hacks-Exploits-List | 25 | 0| 
-| 20210816T10:34:37Z | Code to exploit samba 3.0.20 vulnerability | https://github.com/knooob/Samba-3.0.20-Exploit | 0 | 0| 
+| 20210817T00:00:34Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 206 | 12| 
+| 20210816T23:57:20Z | Repository For RBX Exploits Created By SigmaTech | https://github.com/SigmaEG/RBXExploits | 0 | 0| 
+| 20210816T23:23:08Z | Exploiting Causal Structure for Transportability in Multi-Agent Environments | https://github.com/damianbrowne/ECS4TIME | 0 | 0| 
+| 20210816T23:21:53Z | Red Exploit Is a Roblox Full Lua Executor Can Inject Scripts like Owl Hub Or dex Explorer... | https://github.com/REDSCRIPT3R/Red-Exploit | 0 | 0| 
+| 20210816T23:17:19Z | The Evo Exploits bought you New Experiences. | https://github.com/Avancy3/EvoExploits | 0 | 0| 
+| 20210816T23:02:55Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
+| 20210816T22:36:35Z | 🏴‍☠️ Pwn misconfigured sites running ShareX custom image uploader API | https://github.com/ecriminal/PwnX.py | 21 | 4| 
+| 20210816T22:36:07Z | 👾 A collection of Discord bugs and exploits | https://github.com/ecriminal/Discord-Exploit-Collection | 240 | 76| 
+| 20210816T21:51:59Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 25 | 5| 
+| 20210816T21:41:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9863 | 1641| 
 
 
 # backdoor on Github 推荐
@@ -139,16 +139,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210816T12:42:39Z | my fuzzy control lessons homework | https://github.com/dordunculsahis/artifical-intelegence-and-fuzzy-control | 0 | 0| 
-| 20210816T12:39:19Z | Academic papers and articles that I read related to web hacking, fuzzing, etc. / 阅读过的Web安全方向、模糊测试方向的一些论文与阅读笔记 | https://github.com/LyleMi/papers | 216 | 15| 
-| 20210816T12:10:07Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 89 | 23| 
-| 20210816T11:39:44Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210816T11:37:02Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3641 | 862| 
-| 20210816T10:51:04Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6553 | 1336| 
-| 20210816T10:44:14Z | Fuzzer for the .NET toolchains, developed as a project for the 2018 Language-Based Security course at Aarhus University. | https://github.com/jakobbotsch/Fuzzlyn | 213 | 18| 
-| 20210816T10:37:02Z | 基于JQF，使运行模糊测试更方便 | https://github.com/baileyfu/fuzzing4j | 0 | 0| 
-| 20210816T10:34:58Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
-| 20210816T10:17:02Z | A curated list of awesome directed fuzzing research papers | https://github.com/strongcourage/awesome-directed-fuzzing | 91 | 15| 
+| 20210816T23:56:39Z | Fuzzer for Dolt repositories | https://github.com/dolthub/fuzzer | 2 | 0| 
+| 20210816T23:44:25Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
+| 20210816T23:44:20Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 516 | 49| 
+| 20210816T23:09:44Z | Null | https://github.com/theripper93/fuzzy-foundry | 0 | 0| 
+| 20210816T23:04:29Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
+| 20210816T22:19:50Z | Config files for my GitHub profile. | https://github.com/FuzzyGuyV2/FuzzyGuyV2 | 0 | 0| 
+| 20210816T22:19:49Z | An investigation of American Fuzzy Lop++ as a fuzzer | https://github.com/hark130/hardy-remix | 0 | 0| 
+| 20210816T21:11:04Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1977 | 393| 
+| 20210816T21:03:40Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6555 | 1337| 
+| 20210816T20:31:07Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2371 | 136| 
 
 
 
