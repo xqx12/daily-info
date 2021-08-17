@@ -47,7 +47,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210817T00:52:18Z | CVE-2021-2394 | POC of CVE-2021-2394 | https://github.com/lz2y/CVE-2021-2394 | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Core). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via T3, IIOP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
-| 20210816T22:45:12Z | CVE-2021-34473 | CVE-2021-34473 Microsoft Exchange Server Remote Code Execution Vulnerability | https://github.com/phamphuqui1998/CVE-2021-34473 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-31196, CVE-2021-31206.| 
+| 20210816T22:45:12Z | CVE-2021-34473 | CVE-2021-34473 Microsoft Exchange Server Remote Code Execution Vulnerability | https://github.com/phamphuqui1998/CVE-2021-34473 | | 
 | 20210816T12:59:22Z | CVE-2021-3156 | Sudo Heap Overflow Baron Samedit | https://github.com/0x7183/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210816T11:50:46Z | CVE-2021-25791 | Multiple Stored XSS Online Doctor Appointment System  | https://github.com/MrCraniums/CVE-2021-25791-Multiple-Stored-XSS | Multiple stored cross site scripting (XSS) vulnerabilities in the %Update Profile% module of Online Doctor Appointment System 1.0 allows authenticated attackers to execute arbitrary web scripts or HTML via crafted payloads in the First Name, Last Name, and Address text fields.| 
 | 20210816T11:50:43Z | CVE-2021-25790 | CVE-2021-25790-Multiple-Stored-XSS : Multiple Stored XSS in House Rental and Property Listing | https://github.com/MrCraniums/CVE-2021-25790-Multiple-Stored-XSS | Multiple stored cross site scripting (XSS) vulnerabilities in the %Register% module of House Rental and Property Listing 1.0 allows authenticated attackers to execute arbitrary web scripts or HTML via crafted payloads in all text fields except for Phone Number and Alternate Phone Number.| 
@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210816T17:30:35Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2609 | 67| 
+| 20210817T01:05:33Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2610 | 67| 
 | 20210816T06:33:59Z | Null | https://github.com/davidtr1037/klee-symsize | 0 | 0| 
 | 20210815T19:59:22Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 171 | 18| 
 | 20210814T12:14:12Z | Null | https://github.com/coffee100percnt/KleeDiscordBomber | 4 | 0| 
