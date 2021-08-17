@@ -139,7 +139,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210817T00:22:19Z | Null | https://github.com/Ubisam-Project-MASIDU/FuzzStoryWorld | 0 | 0| 
+| 20210817T00:35:25Z | Null | https://github.com/Ubisam-Project-MASIDU/FuzzStoryWorld | 0 | 0| 
 | 20210817T00:16:32Z | Fuzzer for Dolt repositories | https://github.com/dolthub/fuzzer | 2 | 0| 
 | 20210817T00:08:55Z | Null | https://github.com/DanDanCool/fuzzy | 0 | 0| 
 | 20210816T23:44:25Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
