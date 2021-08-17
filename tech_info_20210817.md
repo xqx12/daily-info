@@ -32,7 +32,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210817T11:47:13Z | CVE-2021-3156 | Sudo Heap Overflow Baron Samedit | https://github.com/0x7183/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210817T11:47:13Z | CVE-2021-3156 | Sudo Heap Overflow Baron Samedit | https://github.com/0x7183/CVE-2021-3156 | | 
 | 20210817T03:05:03Z | CVE-2021-34473 | CVE-2021-34473 Microsoft Exchange Server Remote Code Execution Vulnerability | https://github.com/phamphuqui1998/CVE-2021-34473 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-31196, CVE-2021-31206.| 
 | 20210817T02:01:42Z | CVE-2021-38710 | Null | https://github.com/security-n/CVE-2021-38710 | 未查询到CVE信息| 
 | 20210817T01:24:14Z | CVE-2021-38699 | Multiple Reflected XSS in TastyIgniter v3.0.7 Restaurtant CMS | https://github.com/HuskyHacks/CVE-2021-38699-Reflected-XSS | TastyIgniter 3.0.7 allows XSS via /account, /reservation, /admin/dashboard, and /admin/system_logs.| 
@@ -93,6 +93,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210817T12:51:13Z | FuzzingStudy | https://github.com/qpalzmm22/FuzzingStudy | 3 | 0| 
 | 20210817T12:49:38Z | Code of fuzzing book | https://github.com/jiniljeil/Fuzzing | 5 | 0| 
 | 20210817T12:49:17Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1978 | 394| 
 | 20210817T12:39:44Z | Null | https://github.com/ahi-hfg/fuzzy-dollop | 0 | 0| 
@@ -102,7 +103,6 @@
 | 20210817T11:43:16Z | Null | https://github.com/theripper93/fuzzy-foundry | 0 | 0| 
 | 20210817T11:30:52Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210817T11:06:22Z | A kind of Fuzzing Tool | https://github.com/MustafaBilgici/BDfuzzy | 0 | 0| 
-| 20210817T10:38:16Z | JetBrains Research intership project. | https://github.com/AnzhelaSukhanova/fuzzing_of_spacer | 0 | 0| 
 
 
 
