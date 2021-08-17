@@ -52,7 +52,7 @@
 | 20210817T01:24:14Z | CVE-2021-38699 | Multiple Reflected XSS in TastyIgniter v3.0.7 Restaurtant CMS | https://github.com/HuskyHacks/CVE-2021-38699-Reflected-XSS | TastyIgniter 3.0.7 allows XSS via /account, /reservation, /admin/dashboard, and /admin/system_logs.| 
 | 20210817T00:52:18Z | CVE-2021-2394 | POC of CVE-2021-2394 | https://github.com/lz2y/CVE-2021-2394 | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Core). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via T3, IIOP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
 | 20210816T11:50:46Z | CVE-2021-25791 | Multiple Stored XSS Online Doctor Appointment System  | https://github.com/MrCraniums/CVE-2021-25791-Multiple-Stored-XSS | Multiple stored cross site scripting (XSS) vulnerabilities in the %Update Profile% module of Online Doctor Appointment System 1.0 allows authenticated attackers to execute arbitrary web scripts or HTML via crafted payloads in the First Name, Last Name, and Address text fields.| 
-| 20210816T11:50:43Z | CVE-2021-25790 | CVE-2021-25790-Multiple-Stored-XSS : Multiple Stored XSS in House Rental and Property Listing | https://github.com/MrCraniums/CVE-2021-25790-Multiple-Stored-XSS | | 
+| 20210816T11:50:43Z | CVE-2021-25790 | CVE-2021-25790-Multiple-Stored-XSS : Multiple Stored XSS in House Rental and Property Listing | https://github.com/MrCraniums/CVE-2021-25790-Multiple-Stored-XSS | Multiple stored cross site scripting (XSS) vulnerabilities in the %Register% module of House Rental and Property Listing 1.0 allows authenticated attackers to execute arbitrary web scripts or HTML via crafted payloads in all text fields except for Phone Number and Alternate Phone Number.| 
 | 20210816T10:41:45Z | CVE-2021-34473 | CVE-2021-34473 Microsoft Exchange Server Remote Code Execution Vulnerability | https://github.com/whichbuffer/CVE-2021-34473 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-31196, CVE-2021-31206.| 
 | 20210816T01:31:50Z | CVE-2021-36949 | check if Azure AD Connect is affected by the vulnerability described in CVE-2021-36949 | https://github.com/Maxwitat/Check-AAD-Connect-for-CVE-2021-36949-vulnerability | Microsoft Azure Active Directory Connect Authentication Bypass Vulnerability| 
 | 20210816T01:29:50Z | CVE-2021-3156 | Sudo heap-based buffer overflow privilege escalation commands and mitigations. | https://github.com/Kleptocratic/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
@@ -140,7 +140,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210817T12:28:32Z | Null | https://github.com/lokeshkumarbathina/Image-segmentation-using-C-Means-Fuzzy-Clustering | 0 | 0| 
+| 20210817T12:31:58Z | 🏆 Collection of bugs uncovered by fuzzing Rust code | https://github.com/rust-fuzz/trophy-case | 238 | 39| 
+| 20210817T12:31:17Z | Null | https://github.com/lokeshkumarbathina/Image-segmentation-using-C-Means-Fuzzy-Clustering | 0 | 0| 
 | 20210817T11:45:24Z | Fuzzing en español | https://github.com/0xVIC/Diccionarios | 1 | 0| 
 | 20210817T11:43:16Z | Null | https://github.com/theripper93/fuzzy-foundry | 0 | 0| 
 | 20210817T11:30:52Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
@@ -149,7 +150,6 @@
 | 20210817T10:38:16Z | JetBrains Research intership project. | https://github.com/AnzhelaSukhanova/fuzzing_of_spacer | 0 | 0| 
 | 20210817T10:34:09Z | Null | https://github.com/MiqueasGaldino/SystemFuzzy | 0 | 0| 
 | 20210817T10:31:01Z | Null | https://github.com/Anisha300/fuzzy-octo-pancake | 0 | 0| 
-| 20210817T10:29:50Z | Null | https://github.com/MiqueasGaldino/AbordagemFuzzy | 0 | 0| 
 
 
 
