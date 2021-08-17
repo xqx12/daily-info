@@ -139,8 +139,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210817T01:53:57Z | Website for Goryeo Guy | https://github.com/ScoutYes/fuzzy-spoon | 0 | 0| 
-| 20210817T01:26:23Z | Null | https://github.com/Ubisam-Project-MASIDU/FuzzStoryWorld | 0 | 0| 
+| 20210817T01:59:50Z | Null | https://github.com/theripper93/fuzzy-foundry | 0 | 0| 
+| 20210817T01:59:26Z | Null | https://github.com/Ubisam-Project-MASIDU/FuzzStoryWorld | 0 | 0| 
+| 20210817T01:58:39Z | Website for Goryeo Guy | https://github.com/ScoutYes/fuzzy-spoon | 0 | 0| 
 | 20210817T01:16:07Z | Null | https://github.com/elijah-atkins/fuzzmoon | 0 | 0| 
 | 20210817T01:15:46Z | Null | https://github.com/Hwangwoosam/fuzzing | 4 | 0| 
 | 20210817T00:46:46Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1018 | 111| 
@@ -148,7 +149,6 @@
 | 20210817T00:16:32Z | Fuzzer for Dolt repositories | https://github.com/dolthub/fuzzer | 2 | 0| 
 | 20210817T00:08:55Z | Null | https://github.com/DanDanCool/fuzzy | 0 | 0| 
 | 20210816T23:44:25Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
-| 20210816T23:44:20Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 516 | 49| 
 
 
 

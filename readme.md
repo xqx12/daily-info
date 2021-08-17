@@ -103,7 +103,6 @@
 | --- | --- | --- | --- | ---| 
 | 20210816T23:44:25Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210816T23:44:20Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 516 | 49| 
-| 20210816T23:09:44Z | Null | https://github.com/theripper93/fuzzy-foundry | 0 | 0| 
 | 20210816T23:04:29Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210816T22:19:50Z | Config files for my GitHub profile. | https://github.com/FuzzyGuyV2/FuzzyGuyV2 | 0 | 0| 
 | 20210816T22:19:49Z | An investigation of American Fuzzy Lop++ as a fuzzer | https://github.com/hark130/hardy-remix | 0 | 0| 
@@ -111,6 +110,7 @@
 | 20210816T21:03:40Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6555 | 1337| 
 | 20210816T20:31:07Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2371 | 136| 
 | 20210816T20:21:45Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 295 | 39| 
+| 20210816T20:13:12Z | Emulation based snapshot fuzzer | https://github.com/jaoeul/gingersnap | 0 | 0| 
 
 
 
