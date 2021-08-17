@@ -139,7 +139,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210817T00:51:36Z | Null | https://github.com/Ubisam-Project-MASIDU/FuzzStoryWorld | 0 | 0| 
+| 20210817T01:00:21Z | Null | https://github.com/Ubisam-Project-MASIDU/FuzzStoryWorld | 0 | 0| 
+| 20210817T00:59:39Z | Website for Goryeo Guy | https://github.com/ScoutYes/fuzzy-spoon | 0 | 0| 
 | 20210817T00:46:46Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1018 | 111| 
 | 20210817T00:41:27Z | 🔥 Studying The Fuzzing Book : https://www.fuzzingbook.org | https://github.com/KimSeoYe/TheFuzzingBook | 4 | 0| 
 | 20210817T00:16:32Z | Fuzzer for Dolt repositories | https://github.com/dolthub/fuzzer | 2 | 0| 
@@ -148,7 +149,6 @@
 | 20210816T23:44:20Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 516 | 49| 
 | 20210816T23:09:44Z | Null | https://github.com/theripper93/fuzzy-foundry | 0 | 0| 
 | 20210816T23:04:29Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
-| 20210816T22:19:50Z | Config files for my GitHub profile. | https://github.com/FuzzyGuyV2/FuzzyGuyV2 | 0 | 0| 
 
 
 
