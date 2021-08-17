@@ -139,6 +139,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210817T00:41:27Z | 🔥 Studying The Fuzzing Book : https://www.fuzzingbook.org | https://github.com/KimSeoYe/TheFuzzingBook | 4 | 0| 
 | 20210817T00:35:25Z | Null | https://github.com/Ubisam-Project-MASIDU/FuzzStoryWorld | 0 | 0| 
 | 20210817T00:16:32Z | Fuzzer for Dolt repositories | https://github.com/dolthub/fuzzer | 2 | 0| 
 | 20210817T00:08:55Z | Null | https://github.com/DanDanCool/fuzzy | 0 | 0| 
@@ -148,7 +149,6 @@
 | 20210816T23:04:29Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210816T22:19:50Z | Config files for my GitHub profile. | https://github.com/FuzzyGuyV2/FuzzyGuyV2 | 0 | 0| 
 | 20210816T22:19:49Z | An investigation of American Fuzzy Lop++ as a fuzzer | https://github.com/hark130/hardy-remix | 0 | 0| 
-| 20210816T21:11:04Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1977 | 393| 
 
 
 
