@@ -84,6 +84,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210817T01:40:10Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 329 | 53| 
+| 20210817T01:39:34Z | 微信公众号dame | https://github.com/17628243578/wx_exploit | 0 | 0| 
 | 20210817T01:25:57Z | Repository For RBX Exploits Created By SigmaTech | https://github.com/SigmaEG/RBXExploits | 0 | 0| 
 | 20210817T01:22:58Z | This Project has been Stopped in the 2019. Now we moved to Github, So We%re Trying to Remake This. | https://github.com/AminIsWinnerA/SynExploits_Preview | 0 | 0| 
 | 20210817T01:02:59Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
@@ -92,8 +94,6 @@
 | 20210817T00:52:19Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 20 | 12| 
 | 20210817T00:00:34Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 206 | 12| 
 | 20210816T23:23:08Z | Exploiting Causal Structure for Transportability in Multi-Agent Environments | https://github.com/damianbrowne/ECS4TIME | 0 | 0| 
-| 20210816T23:21:53Z | Red Exploit Is a Roblox Full Lua Executor Can Inject Scripts like Owl Hub Or dex Explorer... | https://github.com/REDSCRIPT3R/Red-Exploit | 0 | 0| 
-| 20210816T23:17:19Z | The Evo Exploits bought you New Experiences. | https://github.com/Avancy3/EvoExploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
