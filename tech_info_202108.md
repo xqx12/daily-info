@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210817T01:24:14Z | CVE-2021-38699 | Multiple Reflected XSS in TastyIgniter v3.0.7 Restaurtant CMS | https://github.com/HuskyHacks/CVE-2021-38699-Reflected-XSS | TastyIgniter 3.0.7 allows XSS via /account, /reservation, /admin/dashboard, and /admin/system_logs.| 
 | 20210817T00:52:18Z | CVE-2021-2394 | POC of CVE-2021-2394 | https://github.com/lz2y/CVE-2021-2394 | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Core). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via T3, IIOP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
 | 20210816T22:45:12Z | CVE-2021-34473 | CVE-2021-34473 Microsoft Exchange Server Remote Code Execution Vulnerability | https://github.com/phamphuqui1998/CVE-2021-34473 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-31196, CVE-2021-31206.| 
 | 20210816T12:59:22Z | CVE-2021-3156 | Sudo Heap Overflow Baron Samedit | https://github.com/0x7183/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
@@ -55,7 +56,6 @@
 | 20210816T01:31:50Z | CVE-2021-36949 | check if Azure AD Connect is affected by the vulnerability described in CVE-2021-36949 | https://github.com/Maxwitat/Check-AAD-Connect-for-CVE-2021-36949-vulnerability | Microsoft Azure Active Directory Connect Authentication Bypass Vulnerability| 
 | 20210816T01:29:50Z | CVE-2021-3156 | Sudo heap-based buffer overflow privilege escalation commands and mitigations. | https://github.com/Kleptocratic/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210816T00:35:56Z | CVE-2021-38699 | Stored XSS in TastyIgniter v3.0.7 Restaurtant CMS | https://github.com/HuskyHacks/CVE-2021-38699-Stored-XSS | TastyIgniter 3.0.7 allows XSS via /account, /reservation, /admin/dashboard, and /admin/system_logs.| 
-| 20210816T00:35:54Z | CVE-2021-38699 | Multiple Reflected XSS in TastyIgniter v3.0.7 Restaurtant CMS | https://github.com/HuskyHacks/CVE-2021-38699-Reflected-XSS | TastyIgniter 3.0.7 allows XSS via /account, /reservation, /admin/dashboard, and /admin/system_logs.| 
 
 
 # klee on Github 推荐
@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210817T01:22:58Z | This Project has been Stopped in the 2019. Now we moved to Github, So We%re Trying to Remake This. | https://github.com/AminIsWinnerA/SynExploits_Preview | 0 | 0| 
 | 20210817T01:02:59Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210817T00:53:21Z | Roblox Exploit for TPS: Ultimate Soccer | https://github.com/HackerOfTPS/TPS-Fucker-v.1.2.7 | 0 | 0| 
 | 20210817T00:52:43Z | Repository For RBX Exploits Created By SigmaTech | https://github.com/SigmaEG/RBXExploits | 0 | 0| 
@@ -93,7 +94,6 @@
 | 20210816T23:23:08Z | Exploiting Causal Structure for Transportability in Multi-Agent Environments | https://github.com/damianbrowne/ECS4TIME | 0 | 0| 
 | 20210816T23:21:53Z | Red Exploit Is a Roblox Full Lua Executor Can Inject Scripts like Owl Hub Or dex Explorer... | https://github.com/REDSCRIPT3R/Red-Exploit | 0 | 0| 
 | 20210816T23:17:19Z | The Evo Exploits bought you New Experiences. | https://github.com/Avancy3/EvoExploits | 0 | 0| 
-| 20210816T22:36:35Z | 🏴‍☠️ Pwn misconfigured sites running ShareX custom image uploader API | https://github.com/ecriminal/PwnX.py | 21 | 4| 
 
 
 # backdoor on Github 推荐
