@@ -139,7 +139,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210817T01:33:39Z | Website for Goryeo Guy | https://github.com/ScoutYes/fuzzy-spoon | 0 | 0| 
+| 20210817T01:35:17Z | Website for Goryeo Guy | https://github.com/ScoutYes/fuzzy-spoon | 0 | 0| 
 | 20210817T01:26:23Z | Null | https://github.com/Ubisam-Project-MASIDU/FuzzStoryWorld | 0 | 0| 
 | 20210817T01:16:07Z | Null | https://github.com/elijah-atkins/fuzzmoon | 0 | 0| 
 | 20210817T01:15:46Z | Null | https://github.com/Hwangwoosam/fuzzing | 4 | 0| 
