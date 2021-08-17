@@ -140,6 +140,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210817T12:39:44Z | Null | https://github.com/ahi-hfg/fuzzy-dollop | 0 | 0| 
 | 20210817T12:36:01Z | Null | https://github.com/lokeshkumarbathina/Image-segmentation-using-C-Means-Fuzzy-Clustering | 0 | 0| 
 | 20210817T12:31:58Z | 🏆 Collection of bugs uncovered by fuzzing Rust code | https://github.com/rust-fuzz/trophy-case | 238 | 39| 
 | 20210817T11:45:24Z | Fuzzing en español | https://github.com/0xVIC/Diccionarios | 1 | 0| 
@@ -149,7 +150,6 @@
 | 20210817T11:06:22Z | A kind of Fuzzing Tool | https://github.com/MustafaBilgici/BDfuzzy | 0 | 0| 
 | 20210817T10:38:16Z | JetBrains Research intership project. | https://github.com/AnzhelaSukhanova/fuzzing_of_spacer | 0 | 0| 
 | 20210817T10:34:09Z | Null | https://github.com/MiqueasGaldino/SystemFuzzy | 0 | 0| 
-| 20210817T10:31:01Z | Null | https://github.com/Anisha300/fuzzy-octo-pancake | 0 | 0| 
 
 
 
