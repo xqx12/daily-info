@@ -140,7 +140,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210817T12:26:06Z | Null | https://github.com/lokeshkumarbathina/Image-segmentation-using-C-Means-Fuzzy-Clustering | 0 | 0| 
+| 20210817T12:28:32Z | Null | https://github.com/lokeshkumarbathina/Image-segmentation-using-C-Means-Fuzzy-Clustering | 0 | 0| 
 | 20210817T11:45:24Z | Fuzzing en español | https://github.com/0xVIC/Diccionarios | 1 | 0| 
 | 20210817T11:43:16Z | Null | https://github.com/theripper93/fuzzy-foundry | 0 | 0| 
 | 20210817T11:30:52Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
