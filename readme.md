@@ -34,7 +34,7 @@
 | 20210816T12:59:22Z | CVE-2021-3156 | Sudo Heap Overflow Baron Samedit | https://github.com/0x7183/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210816T12:36:19Z | CVE-2021-2394 | POC of CVE-2021-2394 | https://github.com/lz2y/CVE-2021-2394 | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Core). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via T3, IIOP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
 | 20210816T11:50:46Z | CVE-2021-25791 | Multiple Stored XSS Online Doctor Appointment System  | https://github.com/MrCraniums/CVE-2021-25791-Multiple-Stored-XSS | Multiple stored cross site scripting (XSS) vulnerabilities in the %Update Profile% module of Online Doctor Appointment System 1.0 allows authenticated attackers to execute arbitrary web scripts or HTML via crafted payloads in the First Name, Last Name, and Address text fields.| 
-| 20210816T11:50:43Z | CVE-2021-25790 | CVE-2021-25790-Multiple-Stored-XSS : Multiple Stored XSS in House Rental and Property Listing | https://github.com/MrCraniums/CVE-2021-25790-Multiple-Stored-XSS | | 
+| 20210816T11:50:43Z | CVE-2021-25790 | CVE-2021-25790-Multiple-Stored-XSS : Multiple Stored XSS in House Rental and Property Listing | https://github.com/MrCraniums/CVE-2021-25790-Multiple-Stored-XSS | Multiple stored cross site scripting (XSS) vulnerabilities in the %Register% module of House Rental and Property Listing 1.0 allows authenticated attackers to execute arbitrary web scripts or HTML via crafted payloads in all text fields except for Phone Number and Alternate Phone Number.| 
 | 20210816T10:41:45Z | CVE-2021-34473 | CVE-2021-34473 Microsoft Exchange Server Remote Code Execution Vulnerability | https://github.com/whichbuffer/CVE-2021-34473 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-31196, CVE-2021-31206.| 
 | 20210816T01:31:50Z | CVE-2021-36949 | check if Azure AD Connect is affected by the vulnerability described in CVE-2021-36949 | https://github.com/Maxwitat/Check-AAD-Connect-for-CVE-2021-36949-vulnerability | Microsoft Azure Active Directory Connect Authentication Bypass Vulnerability| 
 | 20210816T01:29:50Z | CVE-2021-3156 | Sudo heap-based buffer overflow privilege escalation commands and mitigations. | https://github.com/Kleptocratic/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
@@ -62,26 +62,27 @@
 | 20210816T23:23:08Z | Exploiting Causal Structure for Transportability in Multi-Agent Environments | https://github.com/damianbrowne/ECS4TIME | 0 | 0| 
 | 20210816T23:21:53Z | Red Exploit Is a Roblox Full Lua Executor Can Inject Scripts like Owl Hub Or dex Explorer... | https://github.com/REDSCRIPT3R/Red-Exploit | 0 | 0| 
 | 20210816T23:17:19Z | The Evo Exploits bought you New Experiences. | https://github.com/Avancy3/EvoExploits | 0 | 0| 
-| 20210816T23:02:55Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210816T22:36:35Z | 🏴‍☠️ Pwn misconfigured sites running ShareX custom image uploader API | https://github.com/ecriminal/PwnX.py | 21 | 4| 
 | 20210816T22:36:07Z | 👾 A collection of Discord bugs and exploits | https://github.com/ecriminal/Discord-Exploit-Collection | 240 | 76| 
 | 20210816T21:51:59Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 25 | 5| 
 | 20210816T21:41:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9863 | 1641| 
 | 20210816T21:18:18Z | Ethernaut exploits - Write-ups and contracts | https://github.com/H0tmilk/OZ-Ethernaut-exploits | 0 | 0| 
+| 20210816T21:17:33Z | A guide to demonstrate the operation of a buffer overflow exploit. | https://github.com/tavaresrodrigo/StackOverflow | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210816T12:35:01Z | Want to backdoor a script kiddie? This project is perfect for you! | https://github.com/GermanBread/skid-begone | 0 | 0| 
-| 20210816T10:17:04Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1264 | 598| 
+| 20210816T22:50:23Z | Null | https://github.com/guilhermeortolano/backdoor | 0 | 0| 
+| 20210816T20:32:23Z | Want to backdoor an arrogant, wannabe hacker script kiddie that failed to scare you? This project is perfect for you! | https://github.com/GermanBread/skid-begone | 0 | 0| 
+| 20210816T20:26:50Z | Backdoor utilizando criptografia Xor para evitar detecção | https://github.com/andreyquerino/Backdoor-Indetectavel | 0 | 0| 
+| 20210816T19:45:08Z | 🤖An Evil and Smart Bot for Enslaving Windows Written in Rust and Python | https://github.com/wildonion/katyusha | 4 | 2| 
+| 20210816T18:49:30Z | Statically-linked ssh server with reverse shell functionality for CTFs and such | https://github.com/Fahrj/reverse-ssh | 243 | 15| 
+| 20210816T17:46:15Z | This program is an non-object oriented opensource, hidden and undetectable backdoor/reverse shell/RAT for Windows made in Python 3 which contains many features such as multi-client support and cross-platform server. | https://github.com/xp4xbox/Python-Backdoor | 434 | 152| 
+| 20210816T16:51:04Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1266 | 599| 
 | 20210816T09:21:51Z | Null | https://github.com/L-F-Z/BackDoor-FrontDoor | 0 | 0| 
 | 20210816T08:46:10Z | Windoor is a Windows Backdoor which uses ssh to gain access to the windows machine.  | https://github.com/Talhamehar007/windoor-ssh | 0 | 0| 
-| 20210816T08:03:44Z | Statically-linked ssh server with reverse shell functionality for CTFs and such | https://github.com/Fahrj/reverse-ssh | 242 | 15| 
-| 20210816T07:31:33Z | 🤖An Evil and Smart Bot for Enslaving Windows Written in Rust and Python | https://github.com/wildonion/katyusha | 4 | 2| 
 | 20210816T06:54:06Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1392 | 361| 
-| 20210816T03:18:14Z | 去掉获取系统信息回传到www.shack2.org的工具 | https://github.com/NS-Sp4ce/Shack2ToolsWithoutBackdoor | 8 | 2| 
-| 20210816T01:31:20Z | LeuxBackdoor Versión 0.8 Pública y libre de cualquier malware | https://github.com/Luscius-Dev/LeuxBackdoor-0.8 | 10 | 4| 
 
 
 # symbolic execution on Github 推荐
