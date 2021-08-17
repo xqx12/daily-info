@@ -32,7 +32,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210817T11:47:13Z | CVE-2021-3156 | Sudo Heap Overflow Baron Samedit | https://github.com/0x7183/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210817T11:47:13Z | CVE-2021-3156 | Sudo Heap Overflow Baron Samedit | https://github.com/0x7183/CVE-2021-3156 | | 
 | 20210817T03:05:03Z | CVE-2021-34473 | CVE-2021-34473 Microsoft Exchange Server Remote Code Execution Vulnerability | https://github.com/phamphuqui1998/CVE-2021-34473 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-31196, CVE-2021-31206.| 
 | 20210817T02:01:42Z | CVE-2021-38710 | Null | https://github.com/security-n/CVE-2021-38710 | 未查询到CVE信息| 
 | 20210817T01:24:14Z | CVE-2021-38699 | Multiple Reflected XSS in TastyIgniter v3.0.7 Restaurtant CMS | https://github.com/HuskyHacks/CVE-2021-38699-Reflected-XSS | TastyIgniter 3.0.7 allows XSS via /account, /reservation, /admin/dashboard, and /admin/system_logs.| 
@@ -55,6 +55,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210817T12:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9864 | 1643| 
 | 20210817T12:04:21Z | In this project, you will: (1) Deploy and assess a simple web application environment’s security posture (2) Test the security of the environment by simulating attack scenarios and exploiting cloud configuration vulnerabilities (3) Implement monitoring to identify insecure configurations and malicious activity (4) Apply methods learned in the course to harden and secure the environment (5) Design a DevSecOps pipeline | https://github.com/wfs/cloud-architect-aws-project-3-security | 0 | 0| 
 | 20210817T12:03:19Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210817T11:39:11Z | A collection of Discord hacking tools/exploits that I developed using NodeJS. | https://github.com/I2rys/ODiscord | 0 | 0| 
@@ -64,16 +65,15 @@
 | 20210817T10:16:18Z | Null | https://github.com/raylax/exploit | 0 | 0| 
 | 20210817T10:10:21Z | Code used at my talk at ShehacksKE CampusEdition | https://github.com/Chal13W1zz/Intro-To-ARM-Binary-Exploitation | 0 | 0| 
 | 20210817T09:31:44Z | 42 , Security project, 15 levels to discover securities exploits | https://github.com/thallard/snow-crash | 0 | 0| 
-| 20210817T09:27:26Z | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210817T12:35:45Z | Statically-linked ssh server with reverse shell functionality for CTFs and such | https://github.com/Fahrj/reverse-ssh | 244 | 15| 
 | 20210817T12:13:57Z | A script for executing command via the backdoor that was found in PHP/8.1.0-dev | https://github.com/0xP4UL/PHP-8.1.0-dev-Backdoor-POC | 0 | 0| 
 | 20210817T11:04:36Z | A 100% undetectable NodeJS reverse shell backdoor virus that autoruns on startup. | https://github.com/I2rys/NRSBackdoor | 1 | 0| 
 | 20210817T09:15:37Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1393 | 361| 
-| 20210817T08:47:16Z | Statically-linked ssh server with reverse shell functionality for CTFs and such | https://github.com/Fahrj/reverse-ssh | 243 | 15| 
 | 20210817T07:15:57Z | 🤖An Evil and Smart Bot for Enslaving Windows Written in Rust and Python | https://github.com/wildonion/katyusha | 4 | 2| 
 | 20210817T03:18:55Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 282 | 52| 
 
@@ -93,8 +93,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210817T12:36:01Z | Null | https://github.com/lokeshkumarbathina/Image-segmentation-using-C-Means-Fuzzy-Clustering | 0 | 0| 
 | 20210817T12:31:58Z | 🏆 Collection of bugs uncovered by fuzzing Rust code | https://github.com/rust-fuzz/trophy-case | 238 | 39| 
-| 20210817T12:31:17Z | Null | https://github.com/lokeshkumarbathina/Image-segmentation-using-C-Means-Fuzzy-Clustering | 0 | 0| 
 | 20210817T11:45:24Z | Fuzzing en español | https://github.com/0xVIC/Diccionarios | 1 | 0| 
 | 20210817T11:43:16Z | Null | https://github.com/theripper93/fuzzy-foundry | 0 | 0| 
 | 20210817T11:30:52Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
