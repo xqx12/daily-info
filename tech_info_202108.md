@@ -140,13 +140,13 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210817T12:26:06Z | Null | https://github.com/lokeshkumarbathina/Image-segmentation-using-C-Means-Fuzzy-Clustering | 0 | 0| 
 | 20210817T11:45:24Z | Fuzzing en español | https://github.com/0xVIC/Diccionarios | 1 | 0| 
 | 20210817T11:43:16Z | Null | https://github.com/theripper93/fuzzy-foundry | 0 | 0| 
 | 20210817T11:30:52Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210817T11:19:24Z | Code of fuzzing book | https://github.com/jiniljeil/Fuzzing | 5 | 0| 
 | 20210817T11:06:22Z | A kind of Fuzzing Tool | https://github.com/MustafaBilgici/BDfuzzy | 0 | 0| 
 | 20210817T10:38:16Z | JetBrains Research intership project. | https://github.com/AnzhelaSukhanova/fuzzing_of_spacer | 0 | 0| 
-| 20210817T10:35:59Z | Null | https://github.com/lokeshkumarbathina/Image-segmentation-using-C-Means-Fuzzy-Clustering | 0 | 0| 
 | 20210817T10:34:09Z | Null | https://github.com/MiqueasGaldino/SystemFuzzy | 0 | 0| 
 | 20210817T10:31:01Z | Null | https://github.com/Anisha300/fuzzy-octo-pancake | 0 | 0| 
 | 20210817T10:29:50Z | Null | https://github.com/MiqueasGaldino/AbordagemFuzzy | 0 | 0| 
