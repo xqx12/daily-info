@@ -93,16 +93,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210817T12:49:38Z | Code of fuzzing book | https://github.com/jiniljeil/Fuzzing | 5 | 0| 
+| 20210817T12:49:17Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1978 | 394| 
 | 20210817T12:39:44Z | Null | https://github.com/ahi-hfg/fuzzy-dollop | 0 | 0| 
 | 20210817T12:36:01Z | Null | https://github.com/lokeshkumarbathina/Image-segmentation-using-C-Means-Fuzzy-Clustering | 0 | 0| 
 | 20210817T12:31:58Z | 🏆 Collection of bugs uncovered by fuzzing Rust code | https://github.com/rust-fuzz/trophy-case | 238 | 39| 
 | 20210817T11:45:24Z | Fuzzing en español | https://github.com/0xVIC/Diccionarios | 1 | 0| 
 | 20210817T11:43:16Z | Null | https://github.com/theripper93/fuzzy-foundry | 0 | 0| 
 | 20210817T11:30:52Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210817T11:19:24Z | Code of fuzzing book | https://github.com/jiniljeil/Fuzzing | 5 | 0| 
 | 20210817T11:06:22Z | A kind of Fuzzing Tool | https://github.com/MustafaBilgici/BDfuzzy | 0 | 0| 
 | 20210817T10:38:16Z | JetBrains Research intership project. | https://github.com/AnzhelaSukhanova/fuzzing_of_spacer | 0 | 0| 
-| 20210817T10:34:09Z | Null | https://github.com/MiqueasGaldino/SystemFuzzy | 0 | 0| 
 
 
 
