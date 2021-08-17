@@ -16,6 +16,7 @@
 | 20210817 | 汇编和 C 写的 Cobalt Strike 反射加载器 | https://github.com/boku7/CobaltStrikeReflectiveLoader| 
 | 20210817 | 三星 Android 手机多个内置预装 App 的漏洞的分析（part2） | https://blog.oversecured.com/Two-weeks-of-securing-Samsung-devices-Part-2/| 
 | 20210817 | v8 Array.prototype.concat 实现中的 CVE-2021-21225 漏洞分析 | https://sec.today/pulses/a07ef12e-904a-4bb9-bf27-ac58a6427493/| 
+| 20210817 | v8 Array.prototype.concat 实现中的 CVE-2021-21225 漏洞分析 | https://tiszka.com/blog/CVE_2021_21225.html| 
 
 
 # 安全维基 推荐

@@ -16,6 +16,7 @@
 | 20210817 | 汇编和 C 写的 Cobalt Strike 反射加载器 | https://github.com/boku7/CobaltStrikeReflectiveLoader| 
 | 20210817 | 三星 Android 手机多个内置预装 App 的漏洞的分析（part2） | https://blog.oversecured.com/Two-weeks-of-securing-Samsung-devices-Part-2/| 
 | 20210817 | v8 Array.prototype.concat 实现中的 CVE-2021-21225 漏洞分析 | https://sec.today/pulses/a07ef12e-904a-4bb9-bf27-ac58a6427493/| 
+| 20210817 | v8 Array.prototype.concat 实现中的 CVE-2021-21225 漏洞分析 | https://tiszka.com/blog/CVE_2021_21225.html| 
 | 20210816 | Trickbot 近期在入侵中使用了一个 Fake 1Password Installer | https://thedfirreport.com/2021/08/16/trickbot-leads-up-to-fake-1password-installation/| 
 | 20210816 | Android 安全相关的文档、工具和教程 | https://github.com/Ralireza/Android-Security-Teryaagh| 
 | 20210816 | One Glitch to Rule Them All: Fault Injection Attacks Against AMD’s Secure Encrypted Virtualization (paper) | https://arxiv.org/pdf/2108.04575.pdf| 
@@ -25,7 +26,6 @@
 | 20210816 | rConfig 3.9.6 - Magic Hash Auth Bypass to RCE | https://posts.slayerlabs.com/rconfig-vulns/| 
 | 20210816 | PetitPotam 以及 Windows RPC 接口安全保护 | https://www.tiraniddo.dev/2021/08/how-to-secure-windows-rpc-server-and.html| 
 | 20210816 | 从 mimikatz 学习 Windows 安全之访问控制模型（二） | https://paper.seebug.org/1672/| 
-| 20210816 | RSA 加密的数学原理分析。 | http://fringe.davesource.com/Fringe/Crypt/RSA/Algorithm.html| 
 
 
 # 安全维基 推荐
