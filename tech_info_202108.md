@@ -140,6 +140,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210818T00:54:27Z | 🔥 Studying The Fuzzing Book : https://www.fuzzingbook.org | https://github.com/KimSeoYe/TheFuzzingBook | 4 | 0| 
 | 20210818T00:35:42Z | Null | https://github.com/Ubisam-Project-MASIDU/FuzzStoryWorld | 0 | 0| 
 | 20210818T00:20:45Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 21 | 9| 
 | 20210817T23:36:53Z | Null | https://github.com/Amirfarhad-Nilizadeh/GSoC_Fuzzer_RAC | 0 | 0| 
@@ -149,7 +150,6 @@
 | 20210817T22:31:26Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 246 | 31| 
 | 20210817T22:22:57Z | Fuzzy Wuzzy Matching using various ratios | https://github.com/aditimukerjee/Fuzzy-Wuzzy-Matching- | 0 | 0| 
 | 20210817T21:55:21Z | Shows how to fuzz-test a markdown site | https://github.com/Shakespeare-s-Monkeys/s-markdown-example | 0 | 0| 
-| 20210817T21:30:31Z | aurora.py fully interacts with an Aurora PostgreSQL database that is hosted in AWS; checker.py compares two dataframes for exact matches | https://github.com/Adam-Infinitive/fuzzy-pycharm | 1 | 0| 
 
 
 
