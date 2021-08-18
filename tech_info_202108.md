@@ -84,8 +84,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210818T00:19:12Z | [PATCHED] Exploit that allows you to do a full account takeover on Animal Jam. | https://github.com/TheAstroSquad/toastie | 1 | 0| 
 | 20210818T00:03:28Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
-| 20210818T00:01:22Z | [PATCHED] Exploit that allows you to do a full account takeover on Animal Jam. | https://github.com/TheAstroSquad/toastie | 0 | 0| 
 | 20210817T23:14:48Z | A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization. | https://github.com/frohoff/ysoserial | 4386 | 1269| 
 | 20210817T22:55:00Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9868 | 1646| 
 | 20210817T22:45:05Z | Ubuntu vagrant box with 32/64 bit protostar binaries to practice exploit development. | https://github.com/hupe1980/exploit-exercises | 0 | 0| 
@@ -140,7 +140,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210818T00:18:17Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 21 | 9| 
+| 20210818T00:18:39Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 21 | 9| 
 | 20210818T00:10:43Z | Null | https://github.com/Ubisam-Project-MASIDU/FuzzStoryWorld | 0 | 0| 
 | 20210817T23:36:53Z | Null | https://github.com/Amirfarhad-Nilizadeh/GSoC_Fuzzer_RAC | 0 | 0| 
 | 20210817T22:54:45Z | A Bash wrapper for radamsa that can be used to fuzz exported activities and deep links. | https://github.com/B3nac/deeplink-fuzz.sh | 14 | 2| 
