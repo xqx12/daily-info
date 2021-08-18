@@ -140,6 +140,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210818T01:58:17Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4543 | 457| 
 | 20210818T01:19:31Z | Null | https://github.com/DanDanCool/fuzzy | 0 | 0| 
 | 20210818T00:54:27Z | 🔥 Studying The Fuzzing Book : https://www.fuzzingbook.org | https://github.com/KimSeoYe/TheFuzzingBook | 4 | 0| 
 | 20210818T00:35:42Z | Null | https://github.com/Ubisam-Project-MASIDU/FuzzStoryWorld | 0 | 0| 
@@ -149,7 +150,6 @@
 | 20210817T22:45:19Z | Here are you%ll find Fuzzy Logic exercises  | https://github.com/Marceeaax/FuzzyLogic | 0 | 0| 
 | 20210817T22:35:08Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210817T22:31:26Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 246 | 31| 
-| 20210817T22:22:57Z | Fuzzy Wuzzy Matching using various ratios | https://github.com/aditimukerjee/Fuzzy-Wuzzy-Matching- | 0 | 0| 
 
 
 
