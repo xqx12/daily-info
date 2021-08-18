@@ -84,9 +84,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210818T00:03:28Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210818T00:01:22Z | [PATCHED] Exploit that allows you to do a full account takeover on Animal Jam. | https://github.com/TheAstroSquad/toastie | 0 | 0| 
 | 20210817T23:14:48Z | A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization. | https://github.com/frohoff/ysoserial | 4386 | 1269| 
-| 20210817T23:02:56Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210817T22:55:00Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9868 | 1646| 
 | 20210817T22:45:05Z | Ubuntu vagrant box with 32/64 bit protostar binaries to practice exploit development. | https://github.com/hupe1980/exploit-exercises | 0 | 0| 
 | 20210817T22:32:32Z | Exploit Resource-Based Constrained Delegation | https://github.com/davidmckennirey/SharpMAD | 0 | 0| 
@@ -114,11 +114,11 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210817T21:27:55Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2420 | 360| 
+| 20210817T19:39:37Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 156 | 34| 
 | 20210817T12:53:18Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1875 | 389| 
-| 20210816T23:46:33Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2418 | 360| 
 | 20210816T19:38:06Z | In this project, we use the symbolic execution using angr to analyse x86 binaries which are vulnerable to buffer overflow. We have then used the same to generate a payload for us that will exploit the same. We then used a binary with stack canaries to generate a payload which will evade the protection provided by the canary. Angr is smart enough to create an appropriate payload even if there are variable amount of local variables introduced and hence adjusts as the stack layout changes. | https://github.com/sukritisingh/Exploit-Payload-Generation-Using-Angr | 0 | 0| 
 | 20210816T11:21:42Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 454 | 68| 
-| 20210816T09:39:38Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 156 | 34| 
 | 20210816T07:42:23Z | SymQEMU: Compilation-based symbolic execution for binaries | https://github.com/eurecom-s3/symqemu | 159 | 20| 
 | 20210814T06:04:21Z | A tiny symbolic execution engine | https://github.com/pruemmer/nano-symex | 3 | 8| 
 | 20210812T10:26:26Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 93 | 6| 
