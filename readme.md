@@ -37,7 +37,7 @@
 | 20210817T03:05:03Z | CVE-2021-34473 | CVE-2021-34473 Microsoft Exchange Server Remote Code Execution Vulnerability | https://github.com/phamphuqui1998/CVE-2021-34473 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-31196, CVE-2021-31206.| 
 | 20210817T02:01:42Z | CVE-2021-38710 | Null | https://github.com/security-n/CVE-2021-38710 | 未查询到CVE信息| 
 | 20210817T01:24:14Z | CVE-2021-38699 | Multiple Reflected XSS in TastyIgniter v3.0.7 Restaurtant CMS | https://github.com/HuskyHacks/CVE-2021-38699-Reflected-XSS | TastyIgniter 3.0.7 allows XSS via /account, /reservation, /admin/dashboard, and /admin/system_logs.| 
-| 20210817T00:52:18Z | CVE-2021-2394 | POC of CVE-2021-2394 | https://github.com/lz2y/CVE-2021-2394 | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Core). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via T3, IIOP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
+| 20210817T00:52:18Z | CVE-2021-2394 | POC of CVE-2021-2394 | https://github.com/lz2y/CVE-2021-2394 | | 
 
 
 # klee on Github 推荐
@@ -47,7 +47,6 @@
 | 20210817T17:59:40Z | Null | https://github.com/BertKleewein/BertKleewein.github.io | 0 | 0| 
 | 20210817T13:38:25Z | Null | https://github.com/kleelab/kleelab.github.io | 0 | 0| 
 | 20210817T09:52:11Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 171 | 18| 
-| 20210817T09:41:59Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2612 | 67| 
 | 20210817T06:42:54Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 219 | 36| 
 
 
