@@ -47,9 +47,9 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210817T15:22:10Z | CVE-2021-3156 | Sudo Heap Overflow Baron Samedit | https://github.com/0x7183/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210817T03:05:03Z | CVE-2021-34473 | CVE-2021-34473 Microsoft Exchange Server Remote Code Execution Vulnerability | https://github.com/phamphuqui1998/CVE-2021-34473 | | 
+| 20210817T03:05:03Z | CVE-2021-34473 | CVE-2021-34473 Microsoft Exchange Server Remote Code Execution Vulnerability | https://github.com/phamphuqui1998/CVE-2021-34473 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-31196, CVE-2021-31206.| 
 | 20210817T02:01:42Z | CVE-2021-38710 | Null | https://github.com/security-n/CVE-2021-38710 | 未查询到CVE信息| 
-| 20210817T01:24:14Z | CVE-2021-38699 | Multiple Reflected XSS in TastyIgniter v3.0.7 Restaurtant CMS | https://github.com/HuskyHacks/CVE-2021-38699-Reflected-XSS | | 
+| 20210817T01:24:14Z | CVE-2021-38699 | Multiple Reflected XSS in TastyIgniter v3.0.7 Restaurtant CMS | https://github.com/HuskyHacks/CVE-2021-38699-Reflected-XSS | TastyIgniter 3.0.7 allows XSS via /account, /reservation, /admin/dashboard, and /admin/system_logs.| 
 | 20210817T00:52:18Z | CVE-2021-2394 | POC of CVE-2021-2394 | https://github.com/lz2y/CVE-2021-2394 | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Core). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via T3, IIOP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
 | 20210816T11:50:46Z | CVE-2021-25791 | Multiple Stored XSS Online Doctor Appointment System  | https://github.com/MrCraniums/CVE-2021-25791-Multiple-Stored-XSS | Multiple stored cross site scripting (XSS) vulnerabilities in the %Update Profile% module of Online Doctor Appointment System 1.0 allows authenticated attackers to execute arbitrary web scripts or HTML via crafted payloads in the First Name, Last Name, and Address text fields.| 
 | 20210816T11:50:43Z | CVE-2021-25790 | CVE-2021-25790-Multiple-Stored-XSS : Multiple Stored XSS in House Rental and Property Listing | https://github.com/MrCraniums/CVE-2021-25790-Multiple-Stored-XSS | Multiple stored cross site scripting (XSS) vulnerabilities in the %Register% module of House Rental and Property Listing 1.0 allows authenticated attackers to execute arbitrary web scripts or HTML via crafted payloads in all text fields except for Phone Number and Alternate Phone Number.| 
@@ -84,16 +84,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210818T00:52:35Z | A Head Full of Exploits | https://github.com/belikeParamjot/belikeParamjot | 0 | 0| 
+| 20210818T00:52:20Z | [PATCHED] Exploit that allows you to do a full account takeover on Animal Jam. | https://github.com/TheAstroSquad/toastie | 2 | 0| 
+| 20210818T00:52:19Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 20 | 12| 
 | 20210818T00:37:48Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 207 | 12| 
-| 20210818T00:27:53Z | A Head Full of Exploits | https://github.com/belikeParamjot/belikeParamjot | 0 | 0| 
 | 20210818T00:23:34Z | shut up | https://github.com/Askire-ux/kami-blue-cape-exploit | 0 | 0| 
-| 20210818T00:19:12Z | [PATCHED] Exploit that allows you to do a full account takeover on Animal Jam. | https://github.com/TheAstroSquad/toastie | 1 | 0| 
 | 20210818T00:03:28Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210817T23:14:48Z | A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization. | https://github.com/frohoff/ysoserial | 4386 | 1269| 
 | 20210817T22:55:00Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9868 | 1646| 
 | 20210817T22:45:05Z | Ubuntu vagrant box with 32/64 bit protostar binaries to practice exploit development. | https://github.com/hupe1980/exploit-exercises | 0 | 0| 
 | 20210817T22:32:32Z | Exploit Resource-Based Constrained Delegation | https://github.com/davidmckennirey/SharpMAD | 0 | 0| 
-| 20210817T22:32:06Z | Exploiting Causal Structure for Transportability in Multi-Agent Environments | https://github.com/damianbrowne/ECS4TIME | 0 | 0| 
 
 
 # backdoor on Github 推荐
