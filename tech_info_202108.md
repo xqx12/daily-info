@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210818T10:57:21Z | CVE-2020-8169 | Null | https://github.com/madhans23/curl-curl-7_64_1_CVE-2020-8169_withPatch | curl 7.62.0 through 7.70.0 is vulnerable to an information disclosure vulnerability that can lead to a partial password being leaked over the network and to the DNS server(s).| 
-| 20210818T10:42:13Z | CVE-2020-8284 | Null | https://github.com/artsking/curl-7.64.1_CVE-2020-8284_WithPatch | | 
+| 20210818T10:57:21Z | CVE-2020-8169 | Null | https://github.com/madhans23/curl-curl-7_64_1_CVE-2020-8169_withPatch | | 
+| 20210818T10:42:13Z | CVE-2020-8284 | Null | https://github.com/artsking/curl-7.64.1_CVE-2020-8284_WithPatch | A malicious server can use the FTP PASV response to trick curl 7.73.0 and earlier into connecting back to a given IP address and port, and this way potentially make curl extract information about services that are otherwise private and not disclosed, for example doing port scanning and service banner extractions.| 
 | 20210818T10:30:49Z | CVE-2020-8169 | Null | https://github.com/madhans23/curl-curl-7_64_1_CVE-2020-8169_noPatch | curl 7.62.0 through 7.70.0 is vulnerable to an information disclosure vulnerability that can lead to a partial password being leaked over the network and to the DNS server(s).| 
 | 20210818T08:59:32Z | CVE-2020-27223 | Null | https://github.com/ttestoo/Jetty-CVE-2020-27223 | In Eclipse Jetty 9.4.6.v20170531 to 9.4.36.v20210114 (inclusive), 10.0.0, and 11.0.0 when Jetty handles a request containing multiple Accept headers with a large number of “quality” (i.e. q) parameters, the server may enter a denial of service (DoS) state due to high CPU usage processing those quality values, resulting in minutes of CPU time exhausted processing those quality values.| 
 | 20210818T07:57:46Z | CVE-2021-39273 | Two security issues identified in Sn1per v9.0 free version by XeroSecurity | https://github.com/nikip72/CVE-2021-39273-CVE-2021-39274 | 未查询到CVE信息| 
@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210818T12:26:04Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2617 | 67| 
+| 20210818T12:28:55Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2618 | 67| 
 | 20210818T09:26:04Z | Null | https://github.com/kamosika179/kleegame | 0 | 0| 
 | 20210818T02:06:35Z | Null | https://github.com/adamhumphriescs/TASE_KLEE | 0 | 0| 
 | 20210817T23:04:49Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
