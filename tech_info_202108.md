@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210818T01:57:06Z | Repository For RBX Exploits Created By SigmaTech | https://github.com/SigmaEG/RBXExploits | 0 | 0| 
 | 20210818T01:56:10Z | kol v1 roblox exploit  using wearedews api by ROOT44 | https://github.com/ROOT44x/kol-v1-roblox-exploit- | 0 | 0| 
 | 20210818T01:54:55Z | A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization. | https://github.com/frohoff/ysoserial | 4386 | 1269| 
 | 20210818T01:06:43Z | [PATCHED] Exploit that allows you to do a full account takeover on Animal Jam. | https://github.com/TheAstroSquad/toastie | 1 | 0| 
@@ -93,7 +94,6 @@
 | 20210818T00:37:48Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 207 | 12| 
 | 20210818T00:23:34Z | shut up | https://github.com/Askire-ux/kami-blue-cape-exploit | 0 | 0| 
 | 20210817T22:55:00Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9868 | 1646| 
-| 20210817T22:45:05Z | Ubuntu vagrant box with 32/64 bit protostar binaries to practice exploit development. | https://github.com/hupe1980/exploit-exercises | 0 | 0| 
 
 
 # backdoor on Github 推荐
