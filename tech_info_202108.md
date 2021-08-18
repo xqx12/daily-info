@@ -84,6 +84,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210818T00:37:48Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 207 | 12| 
+| 20210818T00:27:53Z | A Head Full of Exploits | https://github.com/belikeParamjot/belikeParamjot | 0 | 0| 
 | 20210818T00:23:34Z | shut up | https://github.com/Askire-ux/kami-blue-cape-exploit | 0 | 0| 
 | 20210818T00:19:12Z | [PATCHED] Exploit that allows you to do a full account takeover on Animal Jam. | https://github.com/TheAstroSquad/toastie | 1 | 0| 
 | 20210818T00:03:28Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
@@ -92,8 +94,6 @@
 | 20210817T22:45:05Z | Ubuntu vagrant box with 32/64 bit protostar binaries to practice exploit development. | https://github.com/hupe1980/exploit-exercises | 0 | 0| 
 | 20210817T22:32:32Z | Exploit Resource-Based Constrained Delegation | https://github.com/davidmckennirey/SharpMAD | 0 | 0| 
 | 20210817T22:32:06Z | Exploiting Causal Structure for Transportability in Multi-Agent Environments | https://github.com/damianbrowne/ECS4TIME | 0 | 0| 
-| 20210817T22:19:54Z | HatSploit native powerful payload generation and shellcode injection tool that provides support for common platforms and architectures. | https://github.com/EntySec/HatVenom | 52 | 16| 
-| 20210817T22:00:01Z | A Head Full of Exploits | https://github.com/belikeParamjot/belikeParamjot | 0 | 0| 
 
 
 # backdoor on Github 推荐

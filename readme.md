@@ -64,10 +64,10 @@
 | 20210817T22:32:32Z | Exploit Resource-Based Constrained Delegation | https://github.com/davidmckennirey/SharpMAD | 0 | 0| 
 | 20210817T22:32:06Z | Exploiting Causal Structure for Transportability in Multi-Agent Environments | https://github.com/damianbrowne/ECS4TIME | 0 | 0| 
 | 20210817T22:19:54Z | HatSploit native powerful payload generation and shellcode injection tool that provides support for common platforms and architectures. | https://github.com/EntySec/HatVenom | 52 | 16| 
-| 20210817T22:00:01Z | A Head Full of Exploits | https://github.com/belikeParamjot/belikeParamjot | 0 | 0| 
 | 20210817T21:55:58Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 25 | 5| 
 | 20210817T21:41:58Z | Agent Is a FULL Lua executor whit pretty Short Key (5 pages - 4 ad pages) Can Execute Script Like Owl Hub , Dex Explorer (and so much more) | https://github.com/REDSCRIPT3R/Agent-Exploit | 0 | 0| 
 | 20210817T21:30:40Z | Some exploits i developed for VulnHub machines and common vulnerabilities. | https://github.com/Xcatolin/Personal-Exploits | 0 | 0| 
+| 20210817T21:08:18Z | Ethernaut exploits - Write-ups and contracts | https://github.com/H0tmilk/OZ-Ethernaut-exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
