@@ -71,6 +71,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210818T12:59:55Z | Statically-linked ssh server with reverse shell functionality for CTFs and such | https://github.com/Fahrj/reverse-ssh | 260 | 19| 
 | 20210818T11:49:46Z | Golang backdoor template for pentest | https://github.com/iIIusi0n/backkit | 0 | 0| 
 | 20210818T11:13:49Z | Backdoor utilizando criptografia Xor para evitar detecção | https://github.com/andreyquerino/Backdoor-Indetectavel | 0 | 0| 
 | 20210818T06:58:59Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1269 | 601| 
@@ -90,6 +91,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210818T13:00:36Z | proyecto de mendoza y romero 4to 1ra c | https://github.com/lucas-mendoza/Fuzzy | 0 | 0| 
 | 20210818T12:53:45Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210818T12:52:37Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 518 | 49| 
 | 20210818T12:50:56Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6558 | 1336| 
@@ -99,7 +101,6 @@
 | 20210818T12:15:12Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 21 | 9| 
 | 20210818T12:07:20Z | Null | https://github.com/theripper93/fuzzy-foundry | 0 | 0| 
 | 20210818T11:03:37Z | Null | https://github.com/simonproudfoot/fuzzy-electron | 0 | 0| 
-| 20210818T10:50:01Z | Null | https://github.com/Nyeugaudv-agsu/fuzzy-funicular | 0 | 0| 
 
 
 
