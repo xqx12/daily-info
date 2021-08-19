@@ -84,6 +84,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210819T00:44:31Z | This repo is for host the exploits | https://github.com/prem-coder/exploit_host | 0 | 0| 
+| 20210819T00:40:50Z | Null | https://github.com/xyu3xx/exploit | 0 | 0| 
 | 20210819T00:17:20Z | Null | https://github.com/JayaByu/exploit-dev | 0 | 0| 
 | 20210819T00:06:25Z | EternalBlue suite remade in C/C++ which includes: MS17-010 Exploit, EternalBlue vulnerability detector, DoublePulsar detector and DoublePulsar Shellcode & DLL uploader | https://github.com/bhassani/EternalBlueC | 365 | 93| 
 | 20210819T00:04:16Z | In this Red Team vs. Blue Team project, I played the role of both penetration tester and SOC analyst. As the Red Team, I attacked a vulnerable VM within my environment, ultimately gaining root access to the machine. As Blue Team, I used Kibana to review logs taken during the Red Team portion. I used the logs to extract hard data and visualizations for this report. Then, I interpreted log data to suggest mitigation measures for each exploit that I successfully performed. | https://github.com/lesliekahler/Red-Vs-Blue-Project | 0 | 0| 
@@ -92,8 +94,6 @@
 | 20210818T23:07:32Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 207 | 12| 
 | 20210818T23:06:19Z | based on ilinked%s original op 14 exploit, this exploit used the commands query event with a negative type and limit for it to outage any server on the platform LMAO | https://github.com/esocialreject/discord-server-outage-exploit | 3 | 0| 
 | 20210818T22:47:24Z | Domain Engineer or Domaineer is Semi-Auto Bot to gaining data from domains | https://github.com/EtcAug10/Domaineer | 4 | 3| 
-| 20210818T22:17:15Z | 7.5x Host Exploit, July 21th,2021 Release (add post-exploit cleanup spray) | https://github.com/Night-King-Host/75XV3b7 | 0 | 0| 
-| 20210818T22:13:42Z | 7.5X Host Exploit - Jun 03,2021 Exploit (Imitate legit network traffic before exploit) | https://github.com/Night-King-Host/75XV3b6 | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -140,6 +140,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210819T00:44:36Z | Null | https://github.com/Carben-dev/WebApp-Fuzzing-Training-Data | 0 | 0| 
 | 20210819T00:20:20Z | Null | https://github.com/Ubisam-Project-MASIDU/FuzzStoryWorld | 0 | 0| 
 | 20210819T00:06:27Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 21 | 9| 
 | 20210818T23:41:13Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4541 | 457| 
@@ -147,7 +148,6 @@
 | 20210818T23:09:18Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210818T22:57:20Z | FuzzBALL: Vine-based Binary Symbolic Execution | https://github.com/bitblaze-fuzzball/fuzzball | 204 | 52| 
 | 20210818T22:55:50Z | Fuzzy inference system optimized by a genetic algorithm | https://github.com/layansg/Fuzzy-Inference-Optimization | 0 | 0| 
-| 20210818T22:17:59Z | Null | https://github.com/Carben-dev/WebApp-Fuzzing-Training-Data | 0 | 0| 
 | 20210818T22:11:56Z | Material de estudo sistemas nebulosos | https://github.com/lugabiel/fuzzy_stuff | 0 | 0| 
 | 20210818T22:07:56Z | Lightweight Fuzzy Logic Engine | https://github.com/ch-x01/fuzzy | 5 | 1| 
 

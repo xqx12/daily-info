@@ -113,11 +113,11 @@
 | 20210818T23:09:18Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210818T22:57:20Z | FuzzBALL: Vine-based Binary Symbolic Execution | https://github.com/bitblaze-fuzzball/fuzzball | 204 | 52| 
 | 20210818T22:55:50Z | Fuzzy inference system optimized by a genetic algorithm | https://github.com/layansg/Fuzzy-Inference-Optimization | 0 | 0| 
-| 20210818T22:17:59Z | Null | https://github.com/Carben-dev/WebApp-Fuzzing-Training-Data | 0 | 0| 
 | 20210818T22:11:56Z | Material de estudo sistemas nebulosos | https://github.com/lugabiel/fuzzy_stuff | 0 | 0| 
 | 20210818T22:07:56Z | Lightweight Fuzzy Logic Engine | https://github.com/ch-x01/fuzzy | 5 | 1| 
 | 20210818T21:42:44Z | Null | https://github.com/Nahalsaman/fuzzy-rotary-phone | 0 | 0| 
 | 20210818T21:36:41Z | Manage & generate prefs.js files | https://github.com/MozillaSecurity/prefpicker | 5 | 2| 
+| 20210818T21:09:39Z | JQF + Zest: Coverage-guided semantic fuzzing for Java. | https://github.com/rohanpadhye/JQF | 389 | 56| 
 
 
 
