@@ -36,7 +36,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210818T20:35:11Z | CVE-2021-3156 | Null | https://github.com/dock0d1/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210818T20:32:51Z | CVE-2021- | Null | https://github.com/evildrummer/CVE-2021-XYZ2 | 未查询到CVE信息| 
+| 20210818T20:32:51Z | CVE-2021- | Null | https://github.com/evildrummer/CVE-2021-XYZ2 | | 
 | 20210818T20:24:16Z | CVE-2021-39287 | CVE-TBD Stored XSS in TastyIgniter v3.0.7 Restaurtant CMS | https://github.com/Fearless523/CVE-2021-39287-Stored-XSS | 未查询到CVE信息| 
 | 20210818T20:09:50Z | CVE-2021- | Null | https://github.com/evildrummer/CVE-2021-XYZ | 未查询到CVE信息| 
 | 20210818T15:53:59Z | CVE-2020-9273 | Analysis and exploitation of an use-after-free in ProFTPd | https://github.com/ptef/CVE-2020-9273 | In ProFTPD 1.3.7, it is possible to corrupt the memory pool by interrupting the data transfer channel. This triggers a use-after-free in alloc_pool in pool.c, and possible remote code execution.| 
@@ -69,13 +69,13 @@
 | 20210818T23:32:40Z | Powershell module for exploiting AD vulnerabilities. | https://github.com/dfirdeferred/AD-Exploit-Module | 0 | 0| 
 | 20210818T23:07:32Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 207 | 12| 
 | 20210818T23:06:19Z | based on ilinked%s original op 14 exploit, this exploit used the commands query event with a negative type and limit for it to outage any server on the platform LMAO | https://github.com/esocialreject/discord-server-outage-exploit | 3 | 0| 
-| 20210818T23:02:57Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210818T22:47:24Z | Domain Engineer or Domaineer is Semi-Auto Bot to gaining data from domains | https://github.com/EtcAug10/Domaineer | 4 | 3| 
 | 20210818T22:17:15Z | 7.5x Host Exploit, July 21th,2021 Release (add post-exploit cleanup spray) | https://github.com/Night-King-Host/75XV3b7 | 0 | 0| 
 | 20210818T22:13:42Z | 7.5X Host Exploit - Jun 03,2021 Exploit (Imitate legit network traffic before exploit) | https://github.com/Night-King-Host/75XV3b6 | 0 | 0| 
 | 20210818T22:09:33Z | 7.5x FW Exploit (Exploit Date: May 27th, 2021) | https://github.com/Night-King-Host/75XV3b5 | 0 | 0| 
 | 20210818T21:50:22Z | 7.5X Exploit FW (May 2nd, 2021) Exploit | https://github.com/Night-King-Host/75XV3b3 | 0 | 0| 
 | 20210818T21:46:02Z | PS4 7.5X Host Exploit (Reduce sleeps in jb.c to speed up) | https://github.com/Night-King-Host/75XV3b2 | 0 | 0| 
+| 20210818T21:36:42Z | I found a way to exploit the rotation minecraft applies to certain Blocks to reconstruct coordinates from them | https://github.com/DerBejijing/BlockRotationExploit | 5 | 0| 
 
 
 # backdoor on Github 推荐
