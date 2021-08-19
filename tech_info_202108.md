@@ -52,10 +52,10 @@
 | 20210818T20:09:50Z | CVE-2021- | Null | https://github.com/evildrummer/CVE-2021-XYZ | 未查询到CVE信息| 
 | 20210818T15:53:59Z | CVE-2020-9273 | Analysis and exploitation of an use-after-free in ProFTPd | https://github.com/ptef/CVE-2020-9273 | In ProFTPD 1.3.7, it is possible to corrupt the memory pool by interrupting the data transfer channel. This triggers a use-after-free in alloc_pool in pool.c, and possible remote code execution.| 
 | 20210818T13:34:55Z | CVE-2021-2394 | POC of CVE-2021-2394 | https://github.com/lz2y/CVE-2021-2394 | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Core). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via T3, IIOP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
-| 20210818T13:27:33Z | CVE-2020-8285 | Null | https://github.com/artsking/curl-7.64.1_CVE-2020-8285_WithPatch | | 
+| 20210818T13:27:33Z | CVE-2020-8285 | Null | https://github.com/artsking/curl-7.64.1_CVE-2020-8285_WithPatch | curl 7.21.0 to and including 7.73.0 is vulnerable to uncontrolled recursion due to a stack overflow issue in FTP wildcard match parsing.| 
 | 20210818T13:20:31Z | CVE-2021-22123 | [CVE-2021-22123] Fortinet FortiWeb Authenticated OS Command Injection | https://github.com/murataydemir/CVE-2021-22123 | An OS command injection vulnerability in FortiWeb%s management interface 6.3.7 and below, 6.2.3 and below, 6.1.x, 6.0.x, 5.9.x may allow a remote authenticated attacker to execute arbitrary commands on the system via the SAML server configuration page.| 
 | 20210818T10:57:21Z | CVE-2020-8169 | Null | https://github.com/madhans23/curl-curl-7_64_1_CVE-2020-8169_withPatch | curl 7.62.0 through 7.70.0 is vulnerable to an information disclosure vulnerability that can lead to a partial password being leaked over the network and to the DNS server(s).| 
-| 20210818T10:42:13Z | CVE-2020-8284 | Null | https://github.com/artsking/curl-7.64.1_CVE-2020-8284_WithPatch | | 
+| 20210818T10:42:13Z | CVE-2020-8284 | Null | https://github.com/artsking/curl-7.64.1_CVE-2020-8284_WithPatch | A malicious server can use the FTP PASV response to trick curl 7.73.0 and earlier into connecting back to a given IP address and port, and this way potentially make curl extract information about services that are otherwise private and not disclosed, for example doing port scanning and service banner extractions.| 
 
 
 # klee on Github 推荐
@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210819T00:17:20Z | Null | https://github.com/JayaByu/exploit-dev | 0 | 0| 
 | 20210819T00:06:25Z | EternalBlue suite remade in C/C++ which includes: MS17-010 Exploit, EternalBlue vulnerability detector, DoublePulsar detector and DoublePulsar Shellcode & DLL uploader | https://github.com/bhassani/EternalBlueC | 365 | 93| 
 | 20210819T00:04:16Z | In this Red Team vs. Blue Team project, I played the role of both penetration tester and SOC analyst. As the Red Team, I attacked a vulnerable VM within my environment, ultimately gaining root access to the machine. As Blue Team, I used Kibana to review logs taken during the Red Team portion. I used the logs to extract hard data and visualizations for this report. Then, I interpreted log data to suggest mitigation measures for each exploit that I successfully performed. | https://github.com/lesliekahler/Red-Vs-Blue-Project | 0 | 0| 
 | 20210819T00:03:41Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
@@ -93,7 +94,6 @@
 | 20210818T22:47:24Z | Domain Engineer or Domaineer is Semi-Auto Bot to gaining data from domains | https://github.com/EtcAug10/Domaineer | 4 | 3| 
 | 20210818T22:17:15Z | 7.5x Host Exploit, July 21th,2021 Release (add post-exploit cleanup spray) | https://github.com/Night-King-Host/75XV3b7 | 0 | 0| 
 | 20210818T22:13:42Z | 7.5X Host Exploit - Jun 03,2021 Exploit (Imitate legit network traffic before exploit) | https://github.com/Night-King-Host/75XV3b6 | 0 | 0| 
-| 20210818T22:09:33Z | 7.5x FW Exploit (Exploit Date: May 27th, 2021) | https://github.com/Night-King-Host/75XV3b5 | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -140,8 +140,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210819T00:20:20Z | Null | https://github.com/Ubisam-Project-MASIDU/FuzzStoryWorld | 0 | 0| 
 | 20210819T00:06:27Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 21 | 9| 
-| 20210819T00:04:40Z | Null | https://github.com/Ubisam-Project-MASIDU/FuzzStoryWorld | 0 | 0| 
 | 20210818T23:41:13Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4541 | 457| 
 | 20210818T23:35:43Z | Shows how to fuzz-test a markdown site | https://github.com/Shakespeare-s-Monkeys/s-markdown-example | 0 | 0| 
 | 20210818T23:09:18Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
