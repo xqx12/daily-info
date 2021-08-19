@@ -47,7 +47,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210818T20:35:11Z | CVE-2021-3156 | Null | https://github.com/dock0d1/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210818T20:32:51Z | CVE-2021- | Null | https://github.com/evildrummer/CVE-2021-XYZ2 | | 
+| 20210818T20:32:51Z | CVE-2021- | Null | https://github.com/evildrummer/CVE-2021-XYZ2 | 未查询到CVE信息| 
 | 20210818T20:24:16Z | CVE-2021-39287 | CVE-TBD Stored XSS in TastyIgniter v3.0.7 Restaurtant CMS | https://github.com/Fearless523/CVE-2021-39287-Stored-XSS | 未查询到CVE信息| 
 | 20210818T20:09:50Z | CVE-2021- | Null | https://github.com/evildrummer/CVE-2021-XYZ | 未查询到CVE信息| 
 | 20210818T15:53:59Z | CVE-2020-9273 | Analysis and exploitation of an use-after-free in ProFTPd | https://github.com/ptef/CVE-2020-9273 | In ProFTPD 1.3.7, it is possible to corrupt the memory pool by interrupting the data transfer channel. This triggers a use-after-free in alloc_pool in pool.c, and possible remote code execution.| 
