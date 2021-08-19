@@ -49,7 +49,7 @@
 | 20210818T20:35:11Z | CVE-2021-3156 | Null | https://github.com/dock0d1/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210818T20:32:51Z | CVE-2021- | Null | https://github.com/evildrummer/CVE-2021-XYZ2 | 未查询到CVE信息| 
 | 20210818T20:24:16Z | CVE-2021-39287 | CVE-TBD Stored XSS in TastyIgniter v3.0.7 Restaurtant CMS | https://github.com/Fearless523/CVE-2021-39287-Stored-XSS | 未查询到CVE信息| 
-| 20210818T20:09:50Z | CVE-2021- | Null | https://github.com/evildrummer/CVE-2021-XYZ | | 
+| 20210818T20:09:50Z | CVE-2021- | Null | https://github.com/evildrummer/CVE-2021-XYZ | 未查询到CVE信息| 
 | 20210818T15:53:59Z | CVE-2020-9273 | Analysis and exploitation of an use-after-free in ProFTPd | https://github.com/ptef/CVE-2020-9273 | In ProFTPD 1.3.7, it is possible to corrupt the memory pool by interrupting the data transfer channel. This triggers a use-after-free in alloc_pool in pool.c, and possible remote code execution.| 
 | 20210818T13:34:55Z | CVE-2021-2394 | POC of CVE-2021-2394 | https://github.com/lz2y/CVE-2021-2394 | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Core). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via T3, IIOP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
 | 20210818T13:27:33Z | CVE-2020-8285 | Null | https://github.com/artsking/curl-7.64.1_CVE-2020-8285_WithPatch | curl 7.21.0 to and including 7.73.0 is vulnerable to uncontrolled recursion due to a stack overflow issue in FTP wildcard match parsing.| 
@@ -140,6 +140,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210819T00:06:27Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 21 | 9| 
+| 20210819T00:04:40Z | Null | https://github.com/Ubisam-Project-MASIDU/FuzzStoryWorld | 0 | 0| 
 | 20210818T23:41:13Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4541 | 457| 
 | 20210818T23:35:43Z | Shows how to fuzz-test a markdown site | https://github.com/Shakespeare-s-Monkeys/s-markdown-example | 0 | 0| 
 | 20210818T23:09:18Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
@@ -148,8 +150,6 @@
 | 20210818T22:17:59Z | Null | https://github.com/Carben-dev/WebApp-Fuzzing-Training-Data | 0 | 0| 
 | 20210818T22:11:56Z | Material de estudo sistemas nebulosos | https://github.com/lugabiel/fuzzy_stuff | 0 | 0| 
 | 20210818T22:07:56Z | Lightweight Fuzzy Logic Engine | https://github.com/ch-x01/fuzzy | 5 | 1| 
-| 20210818T21:42:44Z | Null | https://github.com/Nahalsaman/fuzzy-rotary-phone | 0 | 0| 
-| 20210818T21:36:41Z | Manage & generate prefs.js files | https://github.com/MozillaSecurity/prefpicker | 5 | 2| 
 
 
 
