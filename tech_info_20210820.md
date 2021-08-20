@@ -87,6 +87,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210820T12:01:53Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
+| 20210820T11:59:49Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6562 | 1339| 
+| 20210820T11:43:47Z | Null | https://github.com/thiphuonganh/fuzzy-octo-guacamole | 0 | 0| 
+| 20210820T11:43:11Z | Null | https://github.com/ConsenSys/diligence-fuzzing | 2 | 1| 
+| 20210820T11:17:08Z | Null | https://github.com/theripper93/fuzzy-foundry | 0 | 0| 
+| 20210820T11:12:12Z | fuzzing script | https://github.com/m1ke-adams/mikefuxx | 0 | 0| 
+| 20210820T11:11:14Z | Fuzzing the Rust crypto library orion with honggfuzz-rs | https://github.com/orion-rs/orion-fuzz | 1 | 1| 
+| 20210820T11:01:39Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20210820T10:56:43Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1023 | 45| 
+| 20210820T10:49:21Z | 只是一个学习的普通仓库 | https://github.com/Kikyar/fuzzy-octo-pancake | 0 | 0| 
 
 
 
