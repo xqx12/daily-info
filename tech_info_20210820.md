@@ -90,14 +90,14 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210820T12:21:56Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 178 | 36| 
+| 20210820T12:27:12Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6563 | 1339| 
+| 20210820T12:27:00Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 178 | 36| 
+| 20210820T12:25:28Z | Null | https://github.com/ConsenSys/diligence-fuzzing | 3 | 1| 
 | 20210820T12:21:25Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1023 | 45| 
 | 20210820T12:15:14Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 21 | 9| 
 | 20210820T12:06:53Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1988 | 394| 
 | 20210820T12:01:53Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
-| 20210820T11:59:49Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6562 | 1339| 
 | 20210820T11:43:47Z | Null | https://github.com/thiphuonganh/fuzzy-octo-guacamole | 0 | 0| 
-| 20210820T11:43:11Z | Null | https://github.com/ConsenSys/diligence-fuzzing | 2 | 1| 
 | 20210820T11:17:08Z | Null | https://github.com/theripper93/fuzzy-foundry | 0 | 0| 
 | 20210820T11:12:12Z | fuzzing script | https://github.com/m1ke-adams/mikefuxx | 0 | 0| 
 
