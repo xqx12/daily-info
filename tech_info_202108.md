@@ -84,7 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210820T12:05:42Z | Android exploits made easy. | https://github.com/STRT-Official/Ansploit | 0 | 0| 
+| 20210820T12:07:20Z | Android exploits made easy. | https://github.com/STRT-Official/Ansploit | 0 | 0| 
 | 20210820T12:03:05Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210820T11:52:45Z | Golang CTF framework and exploit development library | https://github.com/hupe1980/gopwn | 0 | 0| 
 | 20210820T11:28:19Z | Linux kernel exploitation notları | https://github.com/figbux/kernel-notlari | 3 | 1| 
@@ -140,6 +140,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210820T12:06:53Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1988 | 394| 
 | 20210820T12:01:53Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210820T11:59:49Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6562 | 1339| 
 | 20210820T11:43:47Z | Null | https://github.com/thiphuonganh/fuzzy-octo-guacamole | 0 | 0| 
@@ -149,7 +150,6 @@
 | 20210820T11:11:14Z | Fuzzing the Rust crypto library orion with honggfuzz-rs | https://github.com/orion-rs/orion-fuzz | 1 | 1| 
 | 20210820T11:01:39Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210820T10:56:43Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1023 | 45| 
-| 20210820T10:49:21Z | 只是一个学习的普通仓库 | https://github.com/Kikyar/fuzzy-octo-pancake | 0 | 0| 
 
 
 
