@@ -37,6 +37,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210821T12:35:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9897 | 1653| 
 | 20210821T12:03:01Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210821T11:48:10Z | B3zkurt Hacking Tools | https://github.com/B3zkurt/hacking-tools | 0 | 0| 
 | 20210821T11:36:06Z | One Click root Exploit for Unobtainium Machine [HackTheBox] | https://github.com/Rajchowdhury420/Unobtainium-HTB-Exploit | 0 | 0| 
@@ -46,7 +47,6 @@
 | 20210821T09:41:13Z | This repository will feature my scripts, research and documentation on Pokémon engines, glitches and exploits. | https://github.com/RETIREglitch/Pokemon-Research | 4 | 2| 
 | 20210821T09:01:35Z | An exploit | https://github.com/Yellowteeth999/Exploit | 0 | 0| 
 | 20210821T08:53:10Z | Simple exploit for the buffer overflow in ruby | https://github.com/Lojacops/Buffer-Overflow-Exploit | 2 | 0| 
-| 20210821T08:33:34Z | Attack and defend active directory using modern post exploitation adversary tradecraft activity | https://github.com/infosecn1nja/AD-Attack-Defense | 2934 | 761| 
 
 
 # backdoor on Github 推荐
@@ -78,6 +78,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210821T12:23:32Z | Object clustering framework using latent variables of trained fully convolutional neural networks. | https://github.com/cjuliani/tf-object-neuro-fuzzy-clustering | 1 | 0| 
 | 20210821T12:15:32Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 523 | 49| 
 | 20210821T11:58:53Z | Null | https://github.com/Fueheyavd/fuzzy-robot | 0 | 0| 
 | 20210821T11:35:20Z | 一些阅读源码和Fuzzing 的经验,涵盖黑盒与白盒测试.. | https://github.com/lcatro/Source-and-Fuzzing | 501 | 113| 
@@ -87,7 +88,6 @@
 | 20210821T09:11:22Z | JetBrains Research intership project. | https://github.com/AnzhelaSukhanova/fuzzing_of_spacer | 0 | 0| 
 | 20210821T08:47:28Z | The Fuzzing Book Study | https://github.com/MJ-SEO/Fuzzing | 5 | 0| 
 | 20210821T08:35:59Z | Null | https://github.com/selvakreditbee/fuzzy-journey | 0 | 0| 
-| 20210821T07:41:28Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6565 | 1341| 
 
 
 
