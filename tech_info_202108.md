@@ -55,7 +55,7 @@
 | 20210820T02:36:47Z | CVE-2020-7565 | PoC for exploiting CVE-2020-7565 : A CWE-326: Inadequate Encryption Strength vulnerability exists in Modicon M221 (all references, all versions) that could allow the attacker to break the encryption key when the attacker has captured the traffic between EcoStruxure Machine - Basic software and Modicon M221 controller. | https://github.com/AlAIAL90/CVE-2020-7565 | A CWE-326: Inadequate Encryption Strength vulnerability exists in Modicon M221 (all references, all versions) that could allow the attacker to break the encryption key when the attacker has captured the traffic between EcoStruxure Machine - Basic software and Modicon M221 controller.| 
 | 20210820T02:36:44Z | CVE-2020-28220 | PoC for exploiting CVE-2020-28220 : A CWE-119: Improper Restriction of Operations within the Bounds of a Memory Buffer vulnerability exists in Modicon M258 Firmware (All versions prior to V5.0.4.11) and SoMachine/SoMachine Motion software (All versions), that could cause a buffer overflow when the length of a file transferred to the webserver is not verified. | https://github.com/AlAIAL90/CVE-2020-28220 | A CWE-119: Improper Restriction of Operations within the Bounds of a Memory Buffer vulnerability exists in Modicon M258 Firmware (All versions prior to V5.0.4.11) and SoMachine/SoMachine Motion software (All versions), that could cause a buffer overflow when the length of a file transferred to the webserver is not verified.| 
 | 20210820T02:36:41Z | CVE-2020-28214 | PoC for exploiting CVE-2020-28214 : A CWE-760: Use of a One-Way Hash with a Predictable Salt vulnerability exists in Modicon M221 (all references, all versions), that could allow an attacker to pre-compute the hash value using dictionary attack technique such as rainbow tables, effectively disabling the protection that an unpredictable salt would provide. | https://github.com/AlAIAL90/CVE-2020-28214 | A CWE-760: Use of a One-Way Hash with a Predictable Salt vulnerability exists in Modicon M221 (all references, all versions), that could allow an attacker to pre-compute the hash value using dictionary attack technique such as rainbow tables, effectively disabling the protection that an unpredictable salt would provide.| 
-| 20210820T02:36:38Z | CVE-2021-22699 | PoC for exploiting CVE-2021-22699 : Improper Input Validation vulnerability exists in Modicon M241/M251 logic controllers firmware prior to V5.1.9.1 that could cause denial of service when specific crafted requests are sent to the controller over HTTP. | https://github.com/AlAIAL90/CVE-2021-22699 | Improper Input Validation vulnerability exists in Modicon M241/M251 logic controllers firmware prior to V5.1.9.1 that could cause denial of service when specific crafted requests are sent to the controller over HTTP.| 
+| 20210820T02:36:38Z | CVE-2021-22699 | PoC for exploiting CVE-2021-22699 : Improper Input Validation vulnerability exists in Modicon M241/M251 logic controllers firmware prior to V5.1.9.1 that could cause denial of service when specific crafted requests are sent to the controller over HTTP. | https://github.com/AlAIAL90/CVE-2021-22699 | | 
 
 
 # klee on Github 推荐
@@ -84,11 +84,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210821T00:03:21Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210820T23:58:13Z | Penetration test and exploitation of multiple web servers at Raven Security | https://github.com/ExtonHoward/Raven_Security_project | 0 | 0| 
 | 20210820T23:54:57Z | In this project I played the role of a pentester and a SOC Analyst. As the Red Team I used tools such as Nmap, Nessus, and Metasploit to gain access to a vulnerable target. As the Blue Team I used the Kibana dashboard to analyze the data collected from the three active beats (Filebeat, Metricbeat, and Packetbeat). Reporting and presenting the logged data with suggested mitigation measures for each exploit performed. | https://github.com/jburnside307/Red-vs-Blue-Project | 0 | 0| 
 | 20210820T23:54:56Z | This repo is for host the exploits | https://github.com/prem-coder/exploit_host | 0 | 0| 
 | 20210820T23:13:52Z | Un simple portefeuille qui vous laissera exploiter le STI2D a votre guise. | https://github.com/sti2d-company/wallet | 0 | 1| 
-| 20210820T23:03:11Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210820T22:54:20Z | Opponent exploitation in imperfect game using Neural Networks. | https://github.com/noeRls/opponent-exploitation | 0 | 0| 
 | 20210820T21:39:16Z | Golang CTF framework and exploit development library | https://github.com/hupe1980/gopwn | 0 | 0| 
 | 20210820T21:35:10Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9895 | 1653| 
@@ -114,6 +114,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210820T16:56:44Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 455 | 69| 
+| 20210820T14:31:42Z | A symbolic execution engine which works on a subset of RISC-V (compiled from a subset of C). | https://github.com/aabyaneh/ase_artifact | 0 | 0| 
+| 20210820T13:32:40Z | The open-source core of Symbolica%s symbolic execution engine. | https://github.com/SymbolicaDev/Symbolica | 4 | 0| 
 | 20210820T08:11:06Z | A toy symbolic execution engine, supporting the blog article ... | https://github.com/synacktiv/toy-wasm-symbexp | 8 | 2| 
 | 20210820T01:37:02Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2424 | 360| 
 | 20210819T03:10:07Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1876 | 389| 
@@ -121,9 +124,6 @@
 | 20210818T22:57:20Z | FuzzBALL: Vine-based Binary Symbolic Execution | https://github.com/bitblaze-fuzzball/fuzzball | 204 | 52| 
 | 20210818T15:39:38Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 156 | 34| 
 | 20210818T13:46:05Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 17 | 3| 
-| 20210816T19:38:06Z | In this project, we use the symbolic execution using angr to analyse x86 binaries which are vulnerable to buffer overflow. We have then used the same to generate a payload for us that will exploit the same. We then used a binary with stack canaries to generate a payload which will evade the protection provided by the canary. Angr is smart enough to create an appropriate payload even if there are variable amount of local variables introduced and hence adjusts as the stack layout changes. | https://github.com/sukritisingh/Exploit-Payload-Generation-Using-Angr | 0 | 0| 
-| 20210816T11:21:42Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 454 | 69| 
-| 20210814T06:04:21Z | A tiny symbolic execution engine | https://github.com/pruemmer/nano-symex | 3 | 8| 
 
 
 # big4 on Github 推荐
