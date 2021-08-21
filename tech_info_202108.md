@@ -140,8 +140,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210821T12:47:58Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 523 | 49| 
+| 20210821T12:44:55Z | first | https://github.com/ggamerafk/fuzzy-barnacle | 0 | 0| 
 | 20210821T12:23:32Z | Object clustering framework using latent variables of trained fully convolutional neural networks. | https://github.com/cjuliani/tf-object-neuro-fuzzy-clustering | 1 | 0| 
-| 20210821T12:15:32Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 523 | 49| 
 | 20210821T11:58:53Z | Null | https://github.com/Fueheyavd/fuzzy-robot | 0 | 0| 
 | 20210821T11:35:20Z | 一些阅读源码和Fuzzing 的经验,涵盖黑盒与白盒测试.. | https://github.com/lcatro/Source-and-Fuzzing | 501 | 113| 
 | 20210821T11:02:14Z | fuzzing script | https://github.com/m1ke-adams/mikefuxx | 1 | 0| 
@@ -149,7 +150,6 @@
 | 20210821T09:34:55Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210821T09:11:22Z | JetBrains Research intership project. | https://github.com/AnzhelaSukhanova/fuzzing_of_spacer | 0 | 0| 
 | 20210821T08:47:28Z | The Fuzzing Book Study | https://github.com/MJ-SEO/Fuzzing | 5 | 0| 
-| 20210821T08:35:59Z | Null | https://github.com/selvakreditbee/fuzzy-journey | 0 | 0| 
 
 
 
