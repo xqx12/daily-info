@@ -31,6 +31,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210820 | 基于欺骗的Web认证扩展 | https://mp.weixin.qq.com/s/LZAPzhJ2oiFakolTPq5pzA| 
 | 20210819 | firmeye - IoT固件漏洞挖掘工具 | https://github.com/firmianay/firmeye| 
 | 20210818 | ICDF2C 2021 论文录用列表 | https://mp.weixin.qq.com/s/jP8-0oHVwh75MtK22qmdlw| 
 | 20210818 | 数据脱敏的风险量化评估方案 | https://mp.weixin.qq.com/s/ItTpyty3LMSxwy8YL86CLg| 
@@ -40,28 +41,27 @@
 | 20210818 | 攻击基础设施是攻击者自有还是攻陷他人利用？ | https://mp.weixin.qq.com/s/5otjKjP-teFmEerrswrpDA| 
 | 20210818 | [HTB] Delivery Writeup | https://mp.weixin.qq.com/s/YixEsAWtS5YvwlKGgObWzw| 
 | 20210818 | JSONP和CORS跨域漏洞学习笔记 | https://mp.weixin.qq.com/s/FGGdgpBLcUciSXqkqkE40g| 
-| 20210818 | 2020~2021 网络安全态势观察报告 | https://www.venustech.com.cn/u/cms/www/202108/181454025drp.pdf| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210820T12:10:27Z | CVE-2021-3441 | CVE-2021-3441 CVE Check is a python script to search targets for indicators of compromise to CVE-2021-3441 | https://github.com/tcbutler320/CVE-2021-3441-check | 未查询到CVE信息| 
+| 20210820T22:19:28Z | CVE-2021-39281 | Documentation for cve-2021-39281 | https://github.com/grahamhelton/CVE-2021-39281 | 未查询到CVE信息| 
+| 20210820T12:10:27Z | CVE-2021-3441 | CVE-2021-3441 CVE Check is a python script to search targets for indicators of compromise to CVE-2021-3441 | https://github.com/tcbutler320/CVE-2021-3441-check | | 
 | 20210820T07:47:32Z | CVE-2021-38534 | PoC for exploiting CVE-2021-38534 : Certain NETGEAR devices are affected by stored XSS. This affects D3600 before 1.0.0.76, D6000 before 1.0.0.76, D6100 before 1.0.0.60, D6200 before 1.1.00.36, D6220 before 1.0.0.52, D6400 before 1.0.0.86, D7000 before 1.0.1.70, D7000v2 before 1.0.0.53, D8500 before 1.0.3.44, DC112A before 1.0.0.42, DGN2200v4 before 1.0.0.110, DGND2200Bv4 before 1.0.0.109, DM200 before 1.0.0.61, JR6150 before 1.0.1.18, PR2000 before 1.0.0.28, R6020 before 1.0.0.42, R6050 before 1.0.1.18, R6080 before 1.0.0.42, R6220 before 1.1.0.80, R6230 before 1.1.0.80, R6250 before 1.0.4.34, R6260 before 1.1.0.64, R6300v2 before 1.0.4.34, R6400 before 1.0.1.46, R6400v2 before 1.0.2.62, R6700 before 1.0.2.6, R6700v2 before 1.2.0.36, R6700v3 before 1.0.2.62, R6800 before 1.2.0.36, R6900 before 1.0.2.4, R6900P before 1.3.1.64, R6900v2 before 1.2.0.36, R7000 before 1.0.9.60, R7000P before 1.3.1.64, R7100LG before 1.0.0.50, R7300DST before 1.0.0.70, R7450 before 1.2.0.36, R7900 before 1.0.3.8, R7900P before 1.4.1.50, R8000 before 1.0.4.28, R8000P before 1.4.1.50, R8300 before 1.0.2.130, R8500 before 1.0.2.130, WNDR3400v3 before 1.0.1.24, WNR2020 before 1.1.0.62, WNR3500Lv2 before 1.2.0.62, XR450 before 2.3.2.40, and XR500 before 2.3.2.40. | https://github.com/AlAIAL90/CVE-2021-38534 | Certain NETGEAR devices are affected by stored XSS. This affects D3600 before 1.0.0.76, D6000 before 1.0.0.76, D6100 before 1.0.0.60, D6200 before 1.1.00.36, D6220 before 1.0.0.52, D6400 before 1.0.0.86, D7000 before 1.0.1.70, D7000v2 before 1.0.0.53, D8500 before 1.0.3.44, DC112A before 1.0.0.42, DGN2200v4 before 1.0.0.110, DGND2200Bv4 before 1.0.0.109, DM200 before 1.0.0.61, JR6150 before 1.0.1.18, PR2000 before 1.0.0.28, R6020 before 1.0.0.42, R6050 before 1.0.1.18, R6080 before 1.0.0.42, R6220 before 1.1.0.80, R6230 before 1.1.0.80, R6250 before 1.0.4.34, R6260 before 1.1.0.64, R6300v2 before 1.0.4.34, R6400 before 1.0.1.46, R6400v2 before 1.0.2.62, R6700 before 1.0.2.6, R6700v2 before 1.2.0.36, R6700v3 before 1.0.2.62, R6800 before 1.2.0.36, R6900 before 1.0.2.4, R6900P before 1.3.1.64, R6900v2 before 1.2.0.36, R7000 before 1.0.9.60, R7000P before 1.3.1.64, R7100LG before 1.0.0.50, R7300DST before 1.0.0.70, R7450 before 1.2.0.36, R7900 before 1.0.3.8, R7900P before 1.4.1.50, R8000 before 1.0.4.28, R8000P before 1.4.1.50, R8300 before 1.0.2.130, R8500 before 1.0.2.130, WNDR3400v3 before 1.0.1.24, WNR2020 before 1.1.0.62, WNR3500Lv2 before 1.2.0.62, XR450 before 2.3.2.40, and XR500 before 2.3.2.40.| 
 | 20210820T02:37:26Z | CVE-2021-3045 | PoC for exploiting CVE-2021-3045 : An OS command argument injection vulnerability in the Palo Alto Networks PAN-OS web interface enables an authenticated administrator to read any arbitrary file from the file system. This issue impacts: PAN-OS 8.1 versions earlier than PAN-OS 8.1.19; PAN-OS 9.0 versions earlier than PAN-OS 9.0.14; PAN-OS 9.1 versions earlier than PAN-OS 9.1.10. PAN-OS 10.0 and later versions are not impacted. | https://github.com/AlAIAL90/CVE-2021-3045 | An OS command argument injection vulnerability in the Palo Alto Networks PAN-OS web interface enables an authenticated administrator to read any arbitrary file from the file system. This issue impacts: PAN-OS 8.1 versions earlier than PAN-OS 8.1.19; PAN-OS 9.0 versions earlier than PAN-OS 9.0.14; PAN-OS 9.1 versions earlier than PAN-OS 9.1.10. PAN-OS 10.0 and later versions are not impacted.| 
 | 20210820T02:36:55Z | CVE-2020-7524 | PoC for exploiting CVE-2020-7524 : Out-of-bounds Write vulnerability exists in Modicon M218 Logic Controller (V5.0.0.7 and prior) which could cause Denial of Service when sending specific crafted IPV4 packet to the controller: Sending a specific IPv4 protocol package to Schneider Electric Modicon M218 Logic Controller can cause IPv4 devices to go down. The device does not work properly and must be powered back on to return to normal. | https://github.com/AlAIAL90/CVE-2020-7524 | Out-of-bounds Write vulnerability exists in Modicon M218 Logic Controller (V5.0.0.7 and prior) which could cause Denial of Service when sending specific crafted IPV4 packet to the controller: Sending a specific IPv4 protocol package to Schneider Electric Modicon M218 Logic Controller can cause IPv4 devices to go down. The device does not work properly and must be powered back on to return to normal.| 
 | 20210820T02:36:51Z | CVE-2020-7566 | PoC for exploiting CVE-2020-7566 : A CWE-334: Small Space of Random Values vulnerability exists in Modicon M221 (all references, all versions) that could allow the attacker to break the encryption keys when the attacker has captured the traffic between EcoStruxure Machine - Basic software and Modicon M221 controller. | https://github.com/AlAIAL90/CVE-2020-7566 | A CWE-334: Small Space of Random Values vulnerability exists in Modicon M221 (all references, all versions) that could allow the attacker to break the encryption keys when the attacker has captured the traffic between EcoStruxure Machine - Basic software and Modicon M221 controller.| 
 | 20210820T02:36:47Z | CVE-2020-7565 | PoC for exploiting CVE-2020-7565 : A CWE-326: Inadequate Encryption Strength vulnerability exists in Modicon M221 (all references, all versions) that could allow the attacker to break the encryption key when the attacker has captured the traffic between EcoStruxure Machine - Basic software and Modicon M221 controller. | https://github.com/AlAIAL90/CVE-2020-7565 | A CWE-326: Inadequate Encryption Strength vulnerability exists in Modicon M221 (all references, all versions) that could allow the attacker to break the encryption key when the attacker has captured the traffic between EcoStruxure Machine - Basic software and Modicon M221 controller.| 
-| 20210820T02:36:44Z | CVE-2020-28220 | PoC for exploiting CVE-2020-28220 : A CWE-119: Improper Restriction of Operations within the Bounds of a Memory Buffer vulnerability exists in Modicon M258 Firmware (All versions prior to V5.0.4.11) and SoMachine/SoMachine Motion software (All versions), that could cause a buffer overflow when the length of a file transferred to the webserver is not verified. | https://github.com/AlAIAL90/CVE-2020-28220 | A CWE-119: Improper Restriction of Operations within the Bounds of a Memory Buffer vulnerability exists in Modicon M258 Firmware (All versions prior to V5.0.4.11) and SoMachine/SoMachine Motion software (All versions), that could cause a buffer overflow when the length of a file transferred to the webserver is not verified.| 
-| 20210820T02:36:41Z | CVE-2020-28214 | PoC for exploiting CVE-2020-28214 : A CWE-760: Use of a One-Way Hash with a Predictable Salt vulnerability exists in Modicon M221 (all references, all versions), that could allow an attacker to pre-compute the hash value using dictionary attack technique such as rainbow tables, effectively disabling the protection that an unpredictable salt would provide. | https://github.com/AlAIAL90/CVE-2020-28214 | | 
+| 20210820T02:36:44Z | CVE-2020-28220 | PoC for exploiting CVE-2020-28220 : A CWE-119: Improper Restriction of Operations within the Bounds of a Memory Buffer vulnerability exists in Modicon M258 Firmware (All versions prior to V5.0.4.11) and SoMachine/SoMachine Motion software (All versions), that could cause a buffer overflow when the length of a file transferred to the webserver is not verified. | https://github.com/AlAIAL90/CVE-2020-28220 | | 
+| 20210820T02:36:41Z | CVE-2020-28214 | PoC for exploiting CVE-2020-28214 : A CWE-760: Use of a One-Way Hash with a Predictable Salt vulnerability exists in Modicon M221 (all references, all versions), that could allow an attacker to pre-compute the hash value using dictionary attack technique such as rainbow tables, effectively disabling the protection that an unpredictable salt would provide. | https://github.com/AlAIAL90/CVE-2020-28214 | A CWE-760: Use of a One-Way Hash with a Predictable Salt vulnerability exists in Modicon M221 (all references, all versions), that could allow an attacker to pre-compute the hash value using dictionary attack technique such as rainbow tables, effectively disabling the protection that an unpredictable salt would provide.| 
 | 20210820T02:36:38Z | CVE-2021-22699 | PoC for exploiting CVE-2021-22699 : Improper Input Validation vulnerability exists in Modicon M241/M251 logic controllers firmware prior to V5.1.9.1 that could cause denial of service when specific crafted requests are sent to the controller over HTTP. | https://github.com/AlAIAL90/CVE-2021-22699 | Improper Input Validation vulnerability exists in Modicon M241/M251 logic controllers firmware prior to V5.1.9.1 that could cause denial of service when specific crafted requests are sent to the controller over HTTP.| 
-| 20210820T02:36:35Z | CVE-2021-0002 | PoC for exploiting CVE-2021-0002 : Improper conditions check in some Intel(R) Ethernet Controllers 800 series Linux drivers before version 1.4.11 may allow an authenticated user to potentially enable information disclosure or denial of service via local access. | https://github.com/AlAIAL90/CVE-2021-0002 | Improper conditions check in some Intel(R) Ethernet Controllers 800 series Linux drivers before version 1.4.11 may allow an authenticated user to potentially enable information disclosure or denial of service via local access.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210820T08:43:55Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2628 | 67| 
+| 20210820T16:26:03Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2629 | 67| 
 | 20210820T02:19:00Z | Personal portfolio website built with React | https://github.com/collinkleest/kleest.io | 0 | 0| 
 | 20210819T22:10:49Z | An opiniated Next TypeScript powered starter which include Klee, emotion / styled-system, framer motion, jest and Cypress | https://github.com/Liinkiing/next-ts-klee-starter | 0 | 0| 
 | 20210819T22:00:41Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 12 | 1| 
@@ -84,31 +84,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210820T12:58:03Z | Null | https://github.com/TheCrazzXz/Exploits-Lab | 0 | 1| 
-| 20210820T12:52:22Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 21 | 13| 
-| 20210820T12:40:09Z | On the art of exploiting computational machines and the laws that govern them | https://github.com/Ckrielle/OnHacking | 0 | 0| 
-| 20210820T12:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9890 | 1651| 
-| 20210820T12:20:06Z | Null | https://github.com/Neppkun/invisible-tag-exploit | 1 | 0| 
-| 20210820T12:07:20Z | Android exploits made easy. | https://github.com/STRT-Official/Ansploit | 0 | 0| 
-| 20210820T12:03:05Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
-| 20210820T11:52:45Z | Golang CTF framework and exploit development library | https://github.com/hupe1980/gopwn | 0 | 0| 
-| 20210820T11:28:19Z | Linux kernel exploitation notları | https://github.com/figbux/kernel-notlari | 3 | 1| 
-| 20210820T11:26:28Z | Anomaly event detection is vital in surveillance video analysis. However, how to learn the discriminative motion in the crowd scene is still not tackled. In this work, we propose a deep social force network by exploiting both social force extracting and deep motion coding. Given a grid of particles with velocity provided by the optical flow, we investigate the interaction force in the crowd scene and embed a social force module in a deep network. We further design a Deep Motion Convolution with a 3D (DMC-3D) module. The DMC-3D not only eliminates the noise motion in the crowd scene with a spatial encoder-decoder but also learns the 3D feature with a spatio-temporal encoder. We model the deep social force coding with multiple features, in which each feature can describe specific anomaly motion. The experiments on  UCF-Crime and ShanghaiTech datasets demonstrate that our method can predict the temporal localization of anomaly events and outperform the state-of-the-art methods. | https://github.com/wukewei1984/Deep-social-force-network-for-anomaly-event-detection | 0 | 0| 
+| 20210820T23:58:13Z | Penetration test and exploitation of multiple web servers at Raven Security | https://github.com/ExtonHoward/Raven_Security_project | 0 | 0| 
+| 20210820T23:54:57Z | In this project I played the role of a pentester and a SOC Analyst. As the Red Team I used tools such as Nmap, Nessus, and Metasploit to gain access to a vulnerable target. As the Blue Team I used the Kibana dashboard to analyze the data collected from the three active beats (Filebeat, Metricbeat, and Packetbeat). Reporting and presenting the logged data with suggested mitigation measures for each exploit performed. | https://github.com/jburnside307/Red-vs-Blue-Project | 0 | 0| 
+| 20210820T23:54:56Z | This repo is for host the exploits | https://github.com/prem-coder/exploit_host | 0 | 0| 
+| 20210820T23:13:52Z | Un simple portefeuille qui vous laissera exploiter le STI2D a votre guise. | https://github.com/sti2d-company/wallet | 0 | 1| 
+| 20210820T23:03:11Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
+| 20210820T22:54:20Z | Opponent exploitation in imperfect game using Neural Networks. | https://github.com/noeRls/opponent-exploitation | 0 | 0| 
+| 20210820T21:39:16Z | Golang CTF framework and exploit development library | https://github.com/hupe1980/gopwn | 0 | 0| 
+| 20210820T21:35:10Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9895 | 1653| 
+| 20210820T21:31:03Z | Writeups on my TryHackMe adventures! | https://github.com/Sma-Das/TryHackMe | 6 | 0| 
+| 20210820T21:05:27Z | Configured Kibana alerts in Elasticsearch Watcher to monitor WordPress installation, identified exposed ports and services and exploited vulnerable web server to obtain credentials from MySQL DB and gain user shell, performed network forensic analysis on malicious traffic to identify compromised machines and provide security recommendations. | https://github.com/patricknakayama/Red_vs_Blue_Team | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210820T12:53:39Z | Null | https://github.com/quantization-backdoor/quantization-backdoor | 0 | 0| 
-| 20210820T12:04:48Z | Golang package for pentest | https://github.com/iIIusi0n/backkit | 1 | 0| 
-| 20210820T11:15:04Z | A practical experiment on supply-chain security using reproducible builds | https://github.com/kpcyrd/i-probably-didnt-backdoor-this | 31 | 0| 
+| 20210820T20:21:58Z | A practical experiment on supply-chain security using reproducible builds | https://github.com/kpcyrd/i-probably-didnt-backdoor-this | 44 | 0| 
+| 20210820T18:48:03Z | The given Python code is for a Reverse-Backdoor, that grants a User, Remote Code Execution access to a target computer. | https://github.com/iamKushGupta/Reverse-Backdoor-with-Listener | 1 | 0| 
+| 20210820T16:51:19Z | Null | https://github.com/quantization-backdoor/quantization-backdoor | 0 | 0| 
+| 20210820T16:29:23Z | Smooth penetration, more control, better speed and performance. ^_^ blackdoor | https://github.com/s3q/blackdoor | 2 | 0| 
+| 20210820T16:10:02Z | Golang package for pentest | https://github.com/iIIusi0n/backkit | 1 | 0| 
+| 20210820T15:02:34Z | Windoor is a Windows Backdoor which uses ssh to gain access to the windows machine.  | https://github.com/Talhamehar007/windoor-ssh | 0 | 0| 
+| 20210820T14:21:48Z | LD_PRELOAD rootkit | https://github.com/mav8557/Father | 15 | 1| 
 | 20210820T06:20:50Z | 100% Undetectable NodeJS reverse shell backdoor virus that autoruns on startup. | https://github.com/I2rys/NRSBackdoor | 1 | 0| 
 | 20210820T05:57:13Z | 一款全能的后门框架 （截屏， 打开文件， 下载文件， 发送文件， 执行 CMD 指令， 发送信息框， 查看文件 , 日志文件 , 用户管理） | https://github.com/FaintCloudy/AdvantageBackdoorFramework | 1 | 0| 
 | 20210820T01:01:35Z | Backdoor utilizando criptografia Xor para evitar detecção | https://github.com/andreyquerino/Backdoor-Indetectavel | 0 | 0| 
-| 20210819T23:44:11Z | Statically-linked ssh server with reverse shell functionality for CTFs and such | https://github.com/Fahrj/reverse-ssh | 269 | 20| 
-| 20210819T22:58:53Z | Je décide de leak la base DreamDeep V1 suite au fondateur Zervec qui a fait les grosse couilles avec moi, je préfère prévenir qu%il y%a potentiellement des backdoors et que la base n%est pas optimisé, votre petit tiktokeur en sueur :) | https://github.com/Rorost/Dream-Deep | 1 | 0| 
-| 20210819T21:45:54Z | A module-based repository for testing and evaluating backdoor attacks and defenses. | https://github.com/SewoongLab/backdoor-suite | 2 | 0| 
-| 20210819T20:49:38Z | Unauthenticated SSL VPN User Password Modification for FortiOS 6.0.0 to 6.0.4, 5.6.0 to 5.6.8 and 5.4.1 to 5.4.10. | https://github.com/Kleptocratic/FortiOS-Backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -140,16 +140,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210820T12:53:57Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210820T12:42:35Z | Life is Fuzzy, lets try to deFuzzyify, Bit by bIT | https://github.com/animesh/fuzzyLife | 0 | 0| 
-| 20210820T12:27:12Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6563 | 1339| 
-| 20210820T12:27:00Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 178 | 36| 
-| 20210820T12:25:28Z | Null | https://github.com/ConsenSys/diligence-fuzzing | 3 | 1| 
-| 20210820T12:21:25Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1023 | 45| 
-| 20210820T12:15:14Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 21 | 9| 
-| 20210820T12:06:53Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1988 | 394| 
-| 20210820T12:01:53Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
-| 20210820T11:43:47Z | Null | https://github.com/thiphuonganh/fuzzy-octo-guacamole | 0 | 0| 
+| 20210820T23:57:14Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
+| 20210820T23:33:03Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20210820T23:27:38Z | A balls to the wall type fuzz VST effect designed for guitar | https://github.com/biocommando/FuzzOfDoom | 0 | 0| 
+| 20210820T23:24:43Z | C++14 automated code test infrastructure with permutation, fuzzing, sanitising and edge coverage | https://github.com/ned14/kerneltest | 11 | 2| 
+| 20210820T23:03:32Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1024 | 111| 
+| 20210820T22:47:56Z | Shows how to fuzz-test a markdown site | https://github.com/Shakespeare-s-Monkeys/engine | 0 | 0| 
+| 20210820T22:43:23Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 6 | 0| 
+| 20210820T22:39:08Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 296 | 39| 
+| 20210820T22:04:02Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
+| 20210820T21:55:13Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1989 | 394| 
 
 
 
