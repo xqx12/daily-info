@@ -68,7 +68,6 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210820T20:21:58Z | A practical experiment on supply-chain security using reproducible builds | https://github.com/kpcyrd/i-probably-didnt-backdoor-this | 44 | 0| 
 | 20210820T18:48:03Z | The given Python code is for a Reverse-Backdoor, that grants a User, Remote Code Execution access to a target computer. | https://github.com/iamKushGupta/Reverse-Backdoor-with-Listener | 1 | 0| 
 | 20210820T16:51:19Z | Null | https://github.com/quantization-backdoor/quantization-backdoor | 0 | 0| 
 | 20210820T16:29:23Z | Smooth penetration, more control, better speed and performance. ^_^ blackdoor | https://github.com/s3q/blackdoor | 2 | 0| 

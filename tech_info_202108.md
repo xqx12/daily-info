@@ -99,8 +99,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210821T01:07:27Z | A practical experiment on supply-chain security using reproducible builds | https://github.com/kpcyrd/i-probably-didnt-backdoor-this | 45 | 0| 
 | 20210821T00:30:24Z | Null | https://github.com/laerson-hammes/backdoor | 0 | 0| 
-| 20210820T20:21:58Z | A practical experiment on supply-chain security using reproducible builds | https://github.com/kpcyrd/i-probably-didnt-backdoor-this | 44 | 0| 
 | 20210820T18:48:03Z | The given Python code is for a Reverse-Backdoor, that grants a User, Remote Code Execution access to a target computer. | https://github.com/iamKushGupta/Reverse-Backdoor-with-Listener | 1 | 0| 
 | 20210820T16:51:19Z | Null | https://github.com/quantization-backdoor/quantization-backdoor | 0 | 0| 
 | 20210820T16:29:23Z | Smooth penetration, more control, better speed and performance. ^_^ blackdoor | https://github.com/s3q/blackdoor | 2 | 0| 
@@ -140,7 +140,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210821T00:53:43Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1023 | 45| 
+| 20210821T01:09:07Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1023 | 45| 
+| 20210821T01:01:39Z | Null | https://github.com/epsonik/FuzzyDescV2 | 0 | 0| 
 | 20210821T00:41:17Z | Null | https://github.com/theripper93/fuzzy-foundry | 0 | 0| 
 | 20210821T00:07:54Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 21 | 9| 
 | 20210821T00:02:54Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
@@ -149,7 +150,6 @@
 | 20210820T23:24:43Z | C++14 automated code test infrastructure with permutation, fuzzing, sanitising and edge coverage | https://github.com/ned14/kerneltest | 11 | 2| 
 | 20210820T23:03:32Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1024 | 111| 
 | 20210820T22:47:56Z | Shows how to fuzz-test a markdown site | https://github.com/Shakespeare-s-Monkeys/engine | 0 | 0| 
-| 20210820T22:43:23Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 6 | 0| 
 
 
 
