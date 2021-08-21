@@ -140,6 +140,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210821T00:41:17Z | Null | https://github.com/theripper93/fuzzy-foundry | 0 | 0| 
 | 20210821T00:07:54Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 21 | 9| 
 | 20210821T00:02:54Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210820T23:33:03Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
@@ -149,7 +150,6 @@
 | 20210820T22:47:56Z | Shows how to fuzz-test a markdown site | https://github.com/Shakespeare-s-Monkeys/engine | 0 | 0| 
 | 20210820T22:43:23Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 6 | 0| 
 | 20210820T22:39:08Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 296 | 39| 
-| 20210820T22:04:02Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 
 
 
