@@ -114,7 +114,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210823T11:45:56Z | The open-source core of Symbolica%s symbolic execution engine. | https://github.com/SymbolicaDev/Symbolica | 4 | 0| 
+| 20210823T12:20:49Z | Symbolica%s open-source symbolic execution engine. | https://github.com/SymbolicaDev/Symbolica | 4 | 0| 
 | 20210823T11:12:02Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2428 | 361| 
 | 20210823T05:48:56Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 456 | 69| 
 | 20210823T02:55:34Z | A tool for generating nonlinear numerical invariants for C and Java programs.  DIG uses dynamic analysis to infer invariants over program execution traces and applies symbolic execution to inferred invariants. | https://github.com/unsat/dig | 4 | 4| 
