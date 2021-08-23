@@ -114,16 +114,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210822T22:55:16Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2427 | 361| 
-| 20210822T16:03:28Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 455 | 69| 
+| 20210823T11:45:56Z | The open-source core of Symbolica%s symbolic execution engine. | https://github.com/SymbolicaDev/Symbolica | 4 | 0| 
+| 20210823T11:12:02Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2428 | 361| 
+| 20210823T05:48:56Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 456 | 69| 
+| 20210823T02:55:34Z | A tool for generating nonlinear numerical invariants for C and Java programs.  DIG uses dynamic analysis to infer invariants over program execution traces and applies symbolic execution to inferred invariants. | https://github.com/unsat/dig | 4 | 4| 
 | 20210821T07:05:09Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1877 | 389| 
 | 20210820T14:31:42Z | A symbolic execution engine which works on a subset of RISC-V (compiled from a subset of C). | https://github.com/aabyaneh/ase_artifact | 0 | 0| 
-| 20210820T13:32:40Z | The open-source core of Symbolica%s symbolic execution engine. | https://github.com/SymbolicaDev/Symbolica | 4 | 0| 
 | 20210820T08:11:06Z | A toy symbolic execution engine, supporting the blog article ... | https://github.com/synacktiv/toy-wasm-symbexp | 8 | 2| 
 | 20210819T02:39:34Z | SymQEMU: Compilation-based symbolic execution for binaries | https://github.com/eurecom-s3/symqemu | 160 | 20| 
 | 20210818T22:57:20Z | FuzzBALL: Vine-based Binary Symbolic Execution | https://github.com/bitblaze-fuzzball/fuzzball | 204 | 52| 
 | 20210818T15:39:38Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 156 | 34| 
-| 20210818T13:46:05Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 17 | 3| 
 
 
 # big4 on Github 推荐
