@@ -140,6 +140,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210823T12:15:13Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 22 | 9| 
 | 20210823T12:10:32Z | A Codice Fiscale Generator | https://github.com/tonyarris/codice-fuzzcale | 1 | 0| 
 | 20210823T12:02:56Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210823T12:02:05Z | Null | https://github.com/frightempire/FuzzyExpert | 1 | 0| 
@@ -149,7 +150,6 @@
 | 20210823T10:37:02Z | Null | https://github.com/alibalun/fuzzy-garbanzo | 0 | 0| 
 | 20210823T10:33:34Z | A  newer version fuzzing tool for glFTPd servers.  | https://github.com/spantheslayer/FTP-Fuzzing | 0 | 0| 
 | 20210823T10:17:52Z | Fuzzing tool for the 14th institute | https://github.com/Radon10043/fuzzing-tool-14 | 0 | 2| 
-| 20210823T09:58:36Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2375 | 136| 
 
 
 
