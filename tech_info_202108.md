@@ -55,7 +55,7 @@
 | 20210820T12:10:27Z | CVE-2021-3441 | CVE-2021-3441 CVE Check is a python script to search targets for indicators of compromise to CVE-2021-3441 | https://github.com/tcbutler320/CVE-2021-3441-check | 未查询到CVE信息| 
 | 20210820T07:47:32Z | CVE-2021-38534 | PoC for exploiting CVE-2021-38534 : Certain NETGEAR devices are affected by stored XSS. This affects D3600 before 1.0.0.76, D6000 before 1.0.0.76, D6100 before 1.0.0.60, D6200 before 1.1.00.36, D6220 before 1.0.0.52, D6400 before 1.0.0.86, D7000 before 1.0.1.70, D7000v2 before 1.0.0.53, D8500 before 1.0.3.44, DC112A before 1.0.0.42, DGN2200v4 before 1.0.0.110, DGND2200Bv4 before 1.0.0.109, DM200 before 1.0.0.61, JR6150 before 1.0.1.18, PR2000 before 1.0.0.28, R6020 before 1.0.0.42, R6050 before 1.0.1.18, R6080 before 1.0.0.42, R6220 before 1.1.0.80, R6230 before 1.1.0.80, R6250 before 1.0.4.34, R6260 before 1.1.0.64, R6300v2 before 1.0.4.34, R6400 before 1.0.1.46, R6400v2 before 1.0.2.62, R6700 before 1.0.2.6, R6700v2 before 1.2.0.36, R6700v3 before 1.0.2.62, R6800 before 1.2.0.36, R6900 before 1.0.2.4, R6900P before 1.3.1.64, R6900v2 before 1.2.0.36, R7000 before 1.0.9.60, R7000P before 1.3.1.64, R7100LG before 1.0.0.50, R7300DST before 1.0.0.70, R7450 before 1.2.0.36, R7900 before 1.0.3.8, R7900P before 1.4.1.50, R8000 before 1.0.4.28, R8000P before 1.4.1.50, R8300 before 1.0.2.130, R8500 before 1.0.2.130, WNDR3400v3 before 1.0.1.24, WNR2020 before 1.1.0.62, WNR3500Lv2 before 1.2.0.62, XR450 before 2.3.2.40, and XR500 before 2.3.2.40. | https://github.com/AlAIAL90/CVE-2021-38534 | Certain NETGEAR devices are affected by stored XSS. This affects D3600 before 1.0.0.76, D6000 before 1.0.0.76, D6100 before 1.0.0.60, D6200 before 1.1.00.36, D6220 before 1.0.0.52, D6400 before 1.0.0.86, D7000 before 1.0.1.70, D7000v2 before 1.0.0.53, D8500 before 1.0.3.44, DC112A before 1.0.0.42, DGN2200v4 before 1.0.0.110, DGND2200Bv4 before 1.0.0.109, DM200 before 1.0.0.61, JR6150 before 1.0.1.18, PR2000 before 1.0.0.28, R6020 before 1.0.0.42, R6050 before 1.0.1.18, R6080 before 1.0.0.42, R6220 before 1.1.0.80, R6230 before 1.1.0.80, R6250 before 1.0.4.34, R6260 before 1.1.0.64, R6300v2 before 1.0.4.34, R6400 before 1.0.1.46, R6400v2 before 1.0.2.62, R6700 before 1.0.2.6, R6700v2 before 1.2.0.36, R6700v3 before 1.0.2.62, R6800 before 1.2.0.36, R6900 before 1.0.2.4, R6900P before 1.3.1.64, R6900v2 before 1.2.0.36, R7000 before 1.0.9.60, R7000P before 1.3.1.64, R7100LG before 1.0.0.50, R7300DST before 1.0.0.70, R7450 before 1.2.0.36, R7900 before 1.0.3.8, R7900P before 1.4.1.50, R8000 before 1.0.4.28, R8000P before 1.4.1.50, R8300 before 1.0.2.130, R8500 before 1.0.2.130, WNDR3400v3 before 1.0.1.24, WNR2020 before 1.1.0.62, WNR3500Lv2 before 1.2.0.62, XR450 before 2.3.2.40, and XR500 before 2.3.2.40.| 
 | 20210820T02:36:55Z | CVE-2020-7524 | PoC for exploiting CVE-2020-7524 : Out-of-bounds Write vulnerability exists in Modicon M218 Logic Controller (V5.0.0.7 and prior) which could cause Denial of Service when sending specific crafted IPV4 packet to the controller: Sending a specific IPv4 protocol package to Schneider Electric Modicon M218 Logic Controller can cause IPv4 devices to go down. The device does not work properly and must be powered back on to return to normal. | https://github.com/AlAIAL90/CVE-2020-7524 | Out-of-bounds Write vulnerability exists in Modicon M218 Logic Controller (V5.0.0.7 and prior) which could cause Denial of Service when sending specific crafted IPV4 packet to the controller: Sending a specific IPv4 protocol package to Schneider Electric Modicon M218 Logic Controller can cause IPv4 devices to go down. The device does not work properly and must be powered back on to return to normal.| 
-| 20210820T02:36:51Z | CVE-2020-7566 | PoC for exploiting CVE-2020-7566 : A CWE-334: Small Space of Random Values vulnerability exists in Modicon M221 (all references, all versions) that could allow the attacker to break the encryption keys when the attacker has captured the traffic between EcoStruxure Machine - Basic software and Modicon M221 controller. | https://github.com/AlAIAL90/CVE-2020-7566 | A CWE-334: Small Space of Random Values vulnerability exists in Modicon M221 (all references, all versions) that could allow the attacker to break the encryption keys when the attacker has captured the traffic between EcoStruxure Machine - Basic software and Modicon M221 controller.| 
+| 20210820T02:36:51Z | CVE-2020-7566 | PoC for exploiting CVE-2020-7566 : A CWE-334: Small Space of Random Values vulnerability exists in Modicon M221 (all references, all versions) that could allow the attacker to break the encryption keys when the attacker has captured the traffic between EcoStruxure Machine - Basic software and Modicon M221 controller. | https://github.com/AlAIAL90/CVE-2020-7566 | | 
 
 
 # klee on Github 推荐
@@ -84,11 +84,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210823T12:02:57Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210823T11:53:25Z | Exploit-db android app  (Not official app) | https://github.com/gaiththewolf/Exploitdb | 1 | 0| 
 | 20210823T11:45:22Z | A Post exploitation tool written in C# uses either CIM or WMI to query remote systems. | https://github.com/iomoath/SharpStrike | 32 | 12| 
 | 20210823T11:38:21Z | %making games easier to exploit% | https://github.com/choke-dev/easierlua | 2 | 0| 
 | 20210823T11:05:22Z |  Tool for post exploitation of any machine / Dynamic encrypted remote command line | https://github.com/prasannan-robots/Dynamic_command | 1 | 0| 
-| 20210823T11:02:57Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210823T10:54:16Z | Thi powershell script has got to run in remote hacked windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 6 | 1| 
 | 20210823T10:26:11Z | A post-exploitation framework | https://github.com/enkomio/AlanFramework | 76 | 14| 
 | 20210823T09:31:47Z | POC or EXP | https://github.com/iDongle/NoExploit | 0 | 0| 
@@ -140,16 +140,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210823T01:55:19Z | Null | https://github.com/Ubisam-Project-MASIDU/FuzzStoryWorld | 0 | 0| 
-| 20210823T01:42:58Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 33059 | 17177| 
-| 20210823T01:24:26Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210823T01:05:54Z | 🔥 Studying The Fuzzing Book : https://www.fuzzingbook.org | https://github.com/KimSeoYe/TheFuzzingBook | 4 | 0| 
-| 20210823T00:53:26Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6567 | 1343| 
-| 20210823T00:09:24Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 22 | 9| 
-| 20210823T00:05:23Z | Easy to use and powerful fuzzy string matching, port of fuzzywuzzy. | https://github.com/nol13/fuzzball.js | 387 | 32| 
-| 20210823T00:04:24Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 89 | 23| 
-| 20210822T23:16:14Z | Website for Goryeo Guy | https://github.com/ScoutYes/fuzzy-spoon | 0 | 0| 
-| 20210822T22:47:37Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 296 | 39| 
+| 20210823T12:02:56Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20210823T12:02:05Z | Null | https://github.com/frightempire/FuzzyExpert | 1 | 0| 
+| 20210823T11:56:45Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6570 | 1342| 
+| 20210823T11:55:01Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 89 | 23| 
+| 20210823T10:46:51Z | Generate code for json encoders/decoders, codecs, fuzzers, generators, and more | https://github.com/MartinSStewart/elm-review-todo-it-for-me | 1 | 1| 
+| 20210823T10:37:02Z | Null | https://github.com/alibalun/fuzzy-garbanzo | 0 | 0| 
+| 20210823T10:33:34Z | A  newer version fuzzing tool for glFTPd servers.  | https://github.com/spantheslayer/FTP-Fuzzing | 0 | 0| 
+| 20210823T10:17:52Z | Fuzzing tool for the 14th institute | https://github.com/Radon10043/fuzzing-tool-14 | 0 | 2| 
+| 20210823T09:58:36Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2375 | 136| 
+| 20210823T09:38:05Z | Attila%s website on GitHub | https://github.com/attilavajdaxyz/fuzzy-engine | 0 | 0| 
 
 
 

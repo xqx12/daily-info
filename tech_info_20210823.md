@@ -49,11 +49,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210823T12:02:57Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210823T11:53:25Z | Exploit-db android app  (Not official app) | https://github.com/gaiththewolf/Exploitdb | 1 | 0| 
 | 20210823T11:45:22Z | A Post exploitation tool written in C# uses either CIM or WMI to query remote systems. | https://github.com/iomoath/SharpStrike | 32 | 12| 
 | 20210823T11:38:21Z | %making games easier to exploit% | https://github.com/choke-dev/easierlua | 2 | 0| 
 | 20210823T11:05:22Z |  Tool for post exploitation of any machine / Dynamic encrypted remote command line | https://github.com/prasannan-robots/Dynamic_command | 1 | 0| 
-| 20210823T11:02:57Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210823T10:54:16Z | Thi powershell script has got to run in remote hacked windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 6 | 1| 
 | 20210823T10:26:11Z | A post-exploitation framework | https://github.com/enkomio/AlanFramework | 76 | 14| 
 | 20210823T09:31:47Z | POC or EXP | https://github.com/iDongle/NoExploit | 0 | 0| 
@@ -85,14 +85,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210823T01:55:19Z | Null | https://github.com/Ubisam-Project-MASIDU/FuzzStoryWorld | 0 | 0| 
-| 20210823T01:42:58Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 33059 | 17177| 
-| 20210823T01:24:26Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210823T01:05:54Z | 🔥 Studying The Fuzzing Book : https://www.fuzzingbook.org | https://github.com/KimSeoYe/TheFuzzingBook | 4 | 0| 
-| 20210823T00:53:26Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6567 | 1343| 
-| 20210823T00:09:24Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 22 | 9| 
-| 20210823T00:05:23Z | Easy to use and powerful fuzzy string matching, port of fuzzywuzzy. | https://github.com/nol13/fuzzball.js | 387 | 32| 
-| 20210823T00:04:24Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 89 | 23| 
+| 20210823T12:02:56Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20210823T12:02:05Z | Null | https://github.com/frightempire/FuzzyExpert | 1 | 0| 
+| 20210823T11:56:45Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6570 | 1342| 
+| 20210823T11:55:01Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 89 | 23| 
+| 20210823T10:46:51Z | Generate code for json encoders/decoders, codecs, fuzzers, generators, and more | https://github.com/MartinSStewart/elm-review-todo-it-for-me | 1 | 1| 
+| 20210823T10:37:02Z | Null | https://github.com/alibalun/fuzzy-garbanzo | 0 | 0| 
+| 20210823T10:33:34Z | A  newer version fuzzing tool for glFTPd servers.  | https://github.com/spantheslayer/FTP-Fuzzing | 0 | 0| 
+| 20210823T10:17:52Z | Fuzzing tool for the 14th institute | https://github.com/Radon10043/fuzzing-tool-14 | 0 | 2| 
+| 20210823T09:58:36Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2375 | 136| 
+| 20210823T09:38:05Z | Attila%s website on GitHub | https://github.com/attilavajdaxyz/fuzzy-engine | 0 | 0| 
 
 
 
