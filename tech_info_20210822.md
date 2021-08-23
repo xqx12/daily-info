@@ -64,6 +64,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210822T22:55:16Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2427 | 361| 
+| 20210822T16:03:28Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 455 | 69| 
 
 
 # big4 on Github 推荐
@@ -74,7 +76,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210822T23:32:54Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210822T23:16:14Z | Website for Goryeo Guy | https://github.com/ScoutYes/fuzzy-spoon | 0 | 0| 
 | 20210822T23:04:43Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 33059 | 17177| 
 | 20210822T22:47:37Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 296 | 39| 
@@ -84,6 +85,7 @@
 | 20210822T19:39:41Z | Null | https://github.com/mohamed50277/fuzzy-lamp | 0 | 0| 
 | 20210822T19:32:40Z | Code for fuzzy monkeys. | https://github.com/fuzzyatelin/fuzzyatelin.github.io | 3 | 9| 
 | 20210822T18:49:11Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
+| 20210822T18:14:01Z | JetBrains Research intership project. | https://github.com/AnzhelaSukhanova/fuzzing_of_spacer | 0 | 0| 
 
 
 
