@@ -49,6 +49,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210823T12:25:44Z | Random scripts and exploits I used, modified or wrote. | https://github.com/0iphor13/Scripts-and-Exploits | 1 | 0| 
 | 20210823T12:02:57Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210823T11:53:25Z | Exploit-db android app  (Not official app) | https://github.com/gaiththewolf/Exploitdb | 1 | 0| 
 | 20210823T11:45:22Z | A Post exploitation tool written in C# uses either CIM or WMI to query remote systems. | https://github.com/iomoath/SharpStrike | 32 | 12| 
@@ -58,7 +59,6 @@
 | 20210823T10:26:11Z | A post-exploitation framework | https://github.com/enkomio/AlanFramework | 76 | 14| 
 | 20210823T09:31:47Z | POC or EXP | https://github.com/iDongle/NoExploit | 0 | 0| 
 | 20210823T08:46:57Z | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | 2827 | 629| 
-| 20210823T08:43:01Z | Official Code: %Exploiting Emotional Dependencies with Graph Convolutional Networks for Facial Expression Recognition% | https://github.com/PanosAntoniadis/emotion-gcn | 4 | 0| 
 
 
 # backdoor on Github 推荐
