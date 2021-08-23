@@ -49,16 +49,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210823T12:52:24Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 21 | 13| 
+| 20210823T12:51:33Z | Hamburger | https://github.com/StasonJatham/exploit.to | 0 | 0| 
+| 20210823T12:51:19Z | A Post exploitation tool written in C# uses either CIM or WMI to query remote systems. | https://github.com/iomoath/SharpStrike | 33 | 12| 
 | 20210823T12:39:06Z | This rep is mainly used to record and collect some articles that i%ve encountered in the learning process.The content includes but is not limited to CTF,Vulnerability recurrence,Vulnerability exploitation. | https://github.com/N0el4kLs/Mylibrary | 0 | 0| 
 | 20210823T12:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9904 | 1654| 
 | 20210823T12:30:51Z | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | 2828 | 629| 
 | 20210823T12:27:27Z | Random scripts and exploits I used, modified or wrote. | https://github.com/0iphor13/Scripts-and-Exploits | 1 | 0| 
 | 20210823T12:02:57Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210823T11:53:25Z | Exploit-db android app  (Not official app) | https://github.com/gaiththewolf/Exploitdb | 1 | 0| 
-| 20210823T11:45:22Z | A Post exploitation tool written in C# uses either CIM or WMI to query remote systems. | https://github.com/iomoath/SharpStrike | 32 | 12| 
 | 20210823T11:38:21Z | %making games easier to exploit% | https://github.com/choke-dev/easierlua | 2 | 0| 
-| 20210823T11:05:22Z |  Tool for post exploitation of any machine / Dynamic encrypted remote command line | https://github.com/prasannan-robots/Dynamic_command | 1 | 0| 
-| 20210823T10:54:16Z | Thi powershell script has got to run in remote hacked windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 6 | 1| 
 
 
 # backdoor on Github 推荐
@@ -89,9 +89,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210823T12:52:33Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210823T12:15:13Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 22 | 9| 
 | 20210823T12:10:32Z | A Codice Fiscale Generator | https://github.com/tonyarris/codice-fuzzcale | 1 | 0| 
-| 20210823T12:02:56Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210823T12:02:05Z | Null | https://github.com/frightempire/FuzzyExpert | 1 | 0| 
 | 20210823T11:56:45Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6570 | 1342| 
 | 20210823T11:55:01Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 89 | 23| 

@@ -49,7 +49,7 @@
 | 20210823T05:50:25Z | CVE-2021-30551 | my exp for chrome V8 CVE-2021-30551 | https://github.com/xmzyshypnc/CVE-2021-30551 | Type confusion in V8 in Google Chrome prior to 91.0.4472.101 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.| 
 | 20210823T03:09:58Z | CVE-2020-8284 | Null | https://github.com/artsking/curl-7.64.1_CVE-2020-8284_WithPatch | A malicious server can use the FTP PASV response to trick curl 7.73.0 and earlier into connecting back to a given IP address and port, and this way potentially make curl extract information about services that are otherwise private and not disclosed, for example doing port scanning and service banner extractions.| 
 | 20210823T03:00:18Z | CVE-2020-0796 | MS CVE 2020-0796 SMB | https://github.com/Nephael/Nephael-CVE-2020-0796 | A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests, aka %Windows SMBv3 Client/Server Remote Code Execution Vulnerability%.| 
-| 20210822T07:03:31Z | CVE-2021-3045 | PoC for exploiting CVE-2021-3045 : An OS command argument injection vulnerability in the Palo Alto Networks PAN-OS web interface enables an authenticated administrator to read any arbitrary file from the file system. This issue impacts: PAN-OS 8.1 versions earlier than PAN-OS 8.1.19; PAN-OS 9.0 versions earlier than PAN-OS 9.0.14; PAN-OS 9.1 versions earlier than PAN-OS 9.1.10. PAN-OS 10.0 and later versions are not impacted. | https://github.com/AlAIAL90/CVE-2021-3045 | An OS command argument injection vulnerability in the Palo Alto Networks PAN-OS web interface enables an authenticated administrator to read any arbitrary file from the file system. This issue impacts: PAN-OS 8.1 versions earlier than PAN-OS 8.1.19; PAN-OS 9.0 versions earlier than PAN-OS 9.0.14; PAN-OS 9.1 versions earlier than PAN-OS 9.1.10. PAN-OS 10.0 and later versions are not impacted.| 
+| 20210822T07:03:31Z | CVE-2021-3045 | PoC for exploiting CVE-2021-3045 : An OS command argument injection vulnerability in the Palo Alto Networks PAN-OS web interface enables an authenticated administrator to read any arbitrary file from the file system. This issue impacts: PAN-OS 8.1 versions earlier than PAN-OS 8.1.19; PAN-OS 9.0 versions earlier than PAN-OS 9.0.14; PAN-OS 9.1 versions earlier than PAN-OS 9.1.10. PAN-OS 10.0 and later versions are not impacted. | https://github.com/AlAIAL90/CVE-2021-3045 | | 
 | 20210821T22:58:42Z | CVE-2021-35464 | Null | https://github.com/rood8008/CVE-2021-35464 | ForgeRock AM server before 7.0 has a Java deserialization vulnerability in the jato.pageSession parameter on multiple pages. The exploitation does not require authentication, and remote code execution can be triggered by sending a single crafted /ccversion/* request to the server. The vulnerability exists due to the usage of Sun ONE Application Framework (JATO) found in versions of Java 8 or earlier| 
 | 20210820T22:19:28Z | CVE-2021-39281 | Documentation for cve-2021-39281 | https://github.com/grahamhelton/CVE-2021-39281 | 未查询到CVE信息| 
 | 20210820T12:10:27Z | CVE-2021-3441 | CVE-2021-3441 CVE Check is a python script to search targets for indicators of compromise to CVE-2021-3441 | https://github.com/tcbutler320/CVE-2021-3441-check | 未查询到CVE信息| 
@@ -84,16 +84,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210823T12:52:24Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 21 | 13| 
+| 20210823T12:51:33Z | Hamburger | https://github.com/StasonJatham/exploit.to | 0 | 0| 
+| 20210823T12:51:19Z | A Post exploitation tool written in C# uses either CIM or WMI to query remote systems. | https://github.com/iomoath/SharpStrike | 33 | 12| 
 | 20210823T12:39:06Z | This rep is mainly used to record and collect some articles that i%ve encountered in the learning process.The content includes but is not limited to CTF,Vulnerability recurrence,Vulnerability exploitation. | https://github.com/N0el4kLs/Mylibrary | 0 | 0| 
 | 20210823T12:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9904 | 1654| 
 | 20210823T12:30:51Z | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | 2828 | 629| 
 | 20210823T12:27:27Z | Random scripts and exploits I used, modified or wrote. | https://github.com/0iphor13/Scripts-and-Exploits | 1 | 0| 
 | 20210823T12:02:57Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210823T11:53:25Z | Exploit-db android app  (Not official app) | https://github.com/gaiththewolf/Exploitdb | 1 | 0| 
-| 20210823T11:45:22Z | A Post exploitation tool written in C# uses either CIM or WMI to query remote systems. | https://github.com/iomoath/SharpStrike | 32 | 12| 
 | 20210823T11:38:21Z | %making games easier to exploit% | https://github.com/choke-dev/easierlua | 2 | 0| 
-| 20210823T11:05:22Z |  Tool for post exploitation of any machine / Dynamic encrypted remote command line | https://github.com/prasannan-robots/Dynamic_command | 1 | 0| 
-| 20210823T10:54:16Z | Thi powershell script has got to run in remote hacked windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 6 | 1| 
 
 
 # backdoor on Github 推荐
@@ -140,9 +140,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210823T12:52:33Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210823T12:15:13Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 22 | 9| 
 | 20210823T12:10:32Z | A Codice Fiscale Generator | https://github.com/tonyarris/codice-fuzzcale | 1 | 0| 
-| 20210823T12:02:56Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210823T12:02:05Z | Null | https://github.com/frightempire/FuzzyExpert | 1 | 0| 
 | 20210823T11:56:45Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6570 | 1342| 
 | 20210823T11:55:01Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 89 | 23| 
