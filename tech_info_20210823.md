@@ -56,22 +56,25 @@
 | 20210823T23:58:22Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | 0 | 0| 
 | 20210823T23:54:45Z | Extra goodies for GEF: Open repository for unfiltered contributions to the project. | https://github.com/hugsy/gef-extras | 63 | 25| 
 | 20210823T23:23:55Z | Agent Is a FULL Lua executor whit pretty Short Key (5 pages - 4 ad pages) Can Execute Script Like Owl Hub , Dex Explorer (and so much more) | https://github.com/REDSCRIPT3R/Agent-Exploit | 0 | 0| 
-| 20210823T23:03:12Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210823T22:48:43Z | Null | https://github.com/TheCrazzXz/Exploits-Lab | 0 | 1| 
 | 20210823T22:08:50Z | Exploit-db android app  (Not official app) | https://github.com/gaiththewolf/Exploitdb | 1 | 0| 
 | 20210823T21:59:44Z | Extensible framework for analyzing publicly available information about vulnerabilities | https://github.com/leonov-av/vulristics | 36 | 5| 
 | 20210823T21:57:59Z | Thi powershell script has got to run in remote hacked windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 6 | 1| 
 | 20210823T21:35:10Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9912 | 1654| 
 | 20210823T21:32:09Z | Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish to influence Onelinetips and explain the commands, for the better understanding of new hunters.. | https://github.com/KingOfBugbounty/KingOfBugBountyTips | 2336 | 397| 
+| 20210823T21:04:46Z | Golang CTF framework and exploit development module | https://github.com/hupe1980/gopwn | 1 | 1| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210823T23:26:11Z | Sample backdoor with python | https://github.com/aaron-padilla-14/Backdoor-with-python | 0 | 0| 
+| 20210823T17:55:38Z | Smooth penetration, more control, better speed and performance. 💣 blackdoor | https://github.com/s3q/blackdoor | 2 | 0| 
+| 20210823T16:08:05Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 91 | 16| 
+| 20210823T16:07:19Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 287 | 54| 
+| 20210823T15:11:22Z | A highly resilient Zero-Conf (Plug & Play) solution to remotely manage any LAN using failproof SSH tunnels. | https://github.com/NassimBentarka/NBN-Pi-Core | 1 | 0| 
+| 20210823T14:12:27Z | Golang package for pentest | https://github.com/iIIusi0n/backkit | 2 | 0| 
 | 20210823T10:58:48Z | This is an advanced backdoor, created with Python | https://github.com/NoamHarush/Backdoor | 0 | 0| 
-| 20210823T08:40:07Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 287 | 54| 
-| 20210823T05:56:45Z | Golang package for pentest | https://github.com/iIIusi0n/backkit | 2 | 0| 
-| 20210823T05:27:15Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 90 | 16| 
 | 20210823T02:36:08Z | A backdoor attack by vulnerability amplification on online machine learning-based network intrusion detection system | https://github.com/liuguangrui-hit/VulnerGAN-py | 0 | 0| 
 | 20210823T02:04:44Z | Null | https://github.com/mr-r3b00t/RDP_Backdoor | 5 | 2| 
 
