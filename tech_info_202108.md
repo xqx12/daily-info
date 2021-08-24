@@ -84,7 +84,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210824T00:32:39Z | DIfferent code bases for well known exploits | https://github.com/brad-ak/exploits | 0 | 0| 
+| 20210824T00:55:36Z | An exploit for executing Lua scripts | https://github.com/0xCAFEB0BA/NExecutor | 2 | 1| 
+| 20210824T00:52:25Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 21 | 13| 
+| 20210824T00:52:19Z | DIfferent code bases for well known exploits | https://github.com/brad-ak/exploits | 0 | 0| 
 | 20210824T00:03:20Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210823T23:58:22Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | 0 | 0| 
 | 20210823T23:54:45Z | Extra goodies for GEF: Open repository for unfiltered contributions to the project. | https://github.com/hugsy/gef-extras | 63 | 25| 
@@ -92,8 +94,6 @@
 | 20210823T22:48:43Z | Null | https://github.com/TheCrazzXz/Exploits-Lab | 0 | 1| 
 | 20210823T22:08:50Z | Exploit-db android app  (Not official app) | https://github.com/gaiththewolf/Exploitdb | 1 | 0| 
 | 20210823T21:59:44Z | Extensible framework for analyzing publicly available information about vulnerabilities | https://github.com/leonov-av/vulristics | 36 | 5| 
-| 20210823T21:57:59Z | Thi powershell script has got to run in remote hacked windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 6 | 1| 
-| 20210823T21:35:10Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9912 | 1654| 
 
 
 # backdoor on Github 推荐
