@@ -48,7 +48,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210823T21:49:01Z | CVE-2021- | Remote Code Execution at Rittal | https://github.com/asang17/CVE-2021-RCE | 未查询到CVE信息| 
 | 20210823T21:48:49Z | CVE-2021- | XSS Vulnerability in Rittal | https://github.com/asang17/CVE-2021-XSS | 未查询到CVE信息| 
-| 20210823T05:50:25Z | CVE-2021-30551 | my exp for chrome V8 CVE-2021-30551 | https://github.com/xmzyshypnc/CVE-2021-30551 | | 
+| 20210823T05:50:25Z | CVE-2021-30551 | my exp for chrome V8 CVE-2021-30551 | https://github.com/xmzyshypnc/CVE-2021-30551 | Type confusion in V8 in Google Chrome prior to 91.0.4472.101 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.| 
 | 20210823T03:09:58Z | CVE-2020-8284 | Null | https://github.com/artsking/curl-7.64.1_CVE-2020-8284_WithPatch | A malicious server can use the FTP PASV response to trick curl 7.73.0 and earlier into connecting back to a given IP address and port, and this way potentially make curl extract information about services that are otherwise private and not disclosed, for example doing port scanning and service banner extractions.| 
 | 20210823T03:00:18Z | CVE-2020-0796 | MS CVE 2020-0796 SMB | https://github.com/Nephael/Nephael-CVE-2020-0796 | A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests, aka %Windows SMBv3 Client/Server Remote Code Execution Vulnerability%.| 
 | 20210822T07:03:31Z | CVE-2021-3045 | PoC for exploiting CVE-2021-3045 : An OS command argument injection vulnerability in the Palo Alto Networks PAN-OS web interface enables an authenticated administrator to read any arbitrary file from the file system. This issue impacts: PAN-OS 8.1 versions earlier than PAN-OS 8.1.19; PAN-OS 9.0 versions earlier than PAN-OS 9.0.14; PAN-OS 9.1 versions earlier than PAN-OS 9.1.10. PAN-OS 10.0 and later versions are not impacted. | https://github.com/AlAIAL90/CVE-2021-3045 | An OS command argument injection vulnerability in the Palo Alto Networks PAN-OS web interface enables an authenticated administrator to read any arbitrary file from the file system. This issue impacts: PAN-OS 8.1 versions earlier than PAN-OS 8.1.19; PAN-OS 9.0 versions earlier than PAN-OS 9.0.14; PAN-OS 9.1 versions earlier than PAN-OS 9.1.10. PAN-OS 10.0 and later versions are not impacted.| 
@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210824T01:40:15Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 335 | 52| 
 | 20210824T01:31:57Z | Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish to influence Onelinetips and explain the commands, for the better understanding of new hunters.. | https://github.com/KingOfBugbounty/KingOfBugBountyTips | 2338 | 397| 
 | 20210824T01:28:19Z | Octagon is a fully fledged modular server sided anti exploit designed to detect many exploits reliably without interrupting user experience.  | https://github.com/SilentsReplacement/Octagon | 5 | 3| 
 | 20210824T01:24:53Z | DIfferent code bases for well known exploits | https://github.com/brad-ak/exploits | 0 | 0| 
@@ -93,7 +94,6 @@
 | 20210823T23:58:22Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | 0 | 0| 
 | 20210823T23:54:45Z | Extra goodies for GEF: Open repository for unfiltered contributions to the project. | https://github.com/hugsy/gef-extras | 63 | 25| 
 | 20210823T23:23:55Z | Agent Is a FULL Lua executor whit pretty Short Key (5 pages - 4 ad pages) Can Execute Script Like Owl Hub , Dex Explorer (and so much more) | https://github.com/REDSCRIPT3R/Agent-Exploit | 0 | 0| 
-| 20210823T22:48:43Z | Null | https://github.com/TheCrazzXz/Exploits-Lab | 0 | 1| 
 
 
 # backdoor on Github 推荐
