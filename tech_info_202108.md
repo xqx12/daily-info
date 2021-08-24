@@ -140,6 +140,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210824T00:10:41Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 6 | 1| 
 | 20210824T00:04:30Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 22 | 9| 
 | 20210824T00:00:04Z | Null | https://github.com/opimentel-github/fuzzy-tools | 0 | 0| 
 | 20210823T23:13:12Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
@@ -149,7 +150,6 @@
 | 20210823T21:13:39Z | Find the ideal fuzz targets in a Rust codebase | https://github.com/trailofbits/siderophile | 118 | 9| 
 | 20210823T21:05:51Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 679 | 131| 
 | 20210823T21:02:14Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
-| 20210823T20:47:00Z | Generate code for json encoders/decoders, codecs, fuzzers, generators, and more | https://github.com/MartinSStewart/elm-review-todo-it-for-me | 1 | 1| 
 
 
 
