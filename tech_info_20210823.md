@@ -15,6 +15,7 @@
 | 20210823 | Creating the WhereAmI Cobalt Strike BOF | https://0xboku.com/2021/08/19/Bof-WhereAmI.html| 
 | 20210823 | 以真实软件漏洞为目标的一套 Fuzzing 教程 | https://github.com/antonio-morales/Fuzzing101| 
 | 20210823 | iOS IOGPU 驱动 CVE-2021-30656 信息泄露漏洞的分析 | https://jsherman212.github.io/CVE-2021-30656/| 
+| 20210823 | 浅谈云上攻防——对象存储服务访问策略评估机制研究 | https://paper.seebug.org/1682/| 
 
 
 # 安全维基 推荐
@@ -29,6 +30,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210823T21:49:01Z | CVE-2021- | Remote Code Execution at Rittal | https://github.com/asang17/CVE-2021-RCE | 未查询到CVE信息| 
+| 20210823T21:48:49Z | CVE-2021- | XSS Vulnerability in Rittal | https://github.com/asang17/CVE-2021-XSS | 未查询到CVE信息| 
 | 20210823T05:50:25Z | CVE-2021-30551 | my exp for chrome V8 CVE-2021-30551 | https://github.com/xmzyshypnc/CVE-2021-30551 | Type confusion in V8 in Google Chrome prior to 91.0.4472.101 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.| 
 | 20210823T03:09:58Z | CVE-2020-8284 | Null | https://github.com/artsking/curl-7.64.1_CVE-2020-8284_WithPatch | A malicious server can use the FTP PASV response to trick curl 7.73.0 and earlier into connecting back to a given IP address and port, and this way potentially make curl extract information about services that are otherwise private and not disclosed, for example doing port scanning and service banner extractions.| 
 | 20210823T03:00:18Z | CVE-2020-0796 | MS CVE 2020-0796 SMB | https://github.com/Nephael/Nephael-CVE-2020-0796 | A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests, aka %Windows SMBv3 Client/Server Remote Code Execution Vulnerability%.| 
@@ -37,6 +40,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210823T19:32:23Z | Null | https://github.com/pansilup/cgc-prgs-for-klee-seed-mode | 0 | 0| 
 | 20210823T09:58:55Z | Null | https://github.com/kamosika179/kleegame | 0 | 0| 
 | 20210823T03:31:51Z | Scala library for generating and manipulation of images treated as a point => color function. | https://github.com/skac112/klee | 0 | 0| 
 
@@ -49,16 +53,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210823T12:52:24Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 21 | 13| 
-| 20210823T12:51:33Z | Hamburger | https://github.com/StasonJatham/exploit.to | 0 | 0| 
-| 20210823T12:51:19Z | A Post exploitation tool written in C# uses either CIM or WMI to query remote systems. | https://github.com/iomoath/SharpStrike | 33 | 12| 
-| 20210823T12:39:06Z | This rep is mainly used to record and collect some articles that i%ve encountered in the learning process.The content includes but is not limited to CTF,Vulnerability recurrence,Vulnerability exploitation. | https://github.com/N0el4kLs/Mylibrary | 0 | 0| 
-| 20210823T12:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9904 | 1654| 
-| 20210823T12:30:51Z | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | 2828 | 629| 
-| 20210823T12:27:27Z | Random scripts and exploits I used, modified or wrote. | https://github.com/0iphor13/Scripts-and-Exploits | 1 | 0| 
-| 20210823T12:02:57Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
-| 20210823T11:53:25Z | Exploit-db android app  (Not official app) | https://github.com/gaiththewolf/Exploitdb | 1 | 0| 
-| 20210823T11:38:21Z | %making games easier to exploit% | https://github.com/choke-dev/easierlua | 2 | 0| 
+| 20210823T23:58:22Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | 0 | 0| 
+| 20210823T23:54:45Z | Extra goodies for GEF: Open repository for unfiltered contributions to the project. | https://github.com/hugsy/gef-extras | 63 | 25| 
+| 20210823T23:23:55Z | Agent Is a FULL Lua executor whit pretty Short Key (5 pages - 4 ad pages) Can Execute Script Like Owl Hub , Dex Explorer (and so much more) | https://github.com/REDSCRIPT3R/Agent-Exploit | 0 | 0| 
+| 20210823T23:03:12Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
+| 20210823T22:48:43Z | Null | https://github.com/TheCrazzXz/Exploits-Lab | 0 | 1| 
+| 20210823T22:08:50Z | Exploit-db android app  (Not official app) | https://github.com/gaiththewolf/Exploitdb | 1 | 0| 
+| 20210823T21:59:44Z | Extensible framework for analyzing publicly available information about vulnerabilities | https://github.com/leonov-av/vulristics | 36 | 5| 
+| 20210823T21:57:59Z | Thi powershell script has got to run in remote hacked windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 6 | 1| 
+| 20210823T21:35:10Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9912 | 1654| 
+| 20210823T21:32:09Z | Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish to influence Onelinetips and explain the commands, for the better understanding of new hunters.. | https://github.com/KingOfBugbounty/KingOfBugBountyTips | 2336 | 397| 
 
 
 # backdoor on Github 推荐
@@ -89,16 +93,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210823T12:52:33Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210823T12:15:13Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 22 | 9| 
-| 20210823T12:10:32Z | A Codice Fiscale Generator | https://github.com/tonyarris/codice-fuzzcale | 1 | 0| 
-| 20210823T12:02:05Z | Null | https://github.com/frightempire/FuzzyExpert | 1 | 0| 
-| 20210823T11:56:45Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6570 | 1342| 
-| 20210823T11:55:01Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 89 | 23| 
-| 20210823T10:46:51Z | Generate code for json encoders/decoders, codecs, fuzzers, generators, and more | https://github.com/MartinSStewart/elm-review-todo-it-for-me | 1 | 1| 
-| 20210823T10:37:02Z | Null | https://github.com/alibalun/fuzzy-garbanzo | 0 | 0| 
-| 20210823T10:33:34Z | A  newer version fuzzing tool for glFTPd servers.  | https://github.com/spantheslayer/FTP-Fuzzing | 0 | 0| 
-| 20210823T10:17:52Z | Fuzzing tool for the 14th institute | https://github.com/Radon10043/fuzzing-tool-14 | 0 | 2| 
+| 20210823T23:13:12Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
+| 20210823T22:22:19Z | REST API Fuzz Testing (RAFT): Source code for self-hosted service developed for Azure, including the API, orchestration engine, and default set of security tools (including MSR%s RESTler), that enables developers to embed security tooling into their CI/CD workflows | https://github.com/microsoft/rest-api-fuzz-testing | 188 | 28| 
+| 20210823T22:01:45Z | Emulation based snapshot fuzzer | https://github.com/jaoeul/gingersnap | 0 | 0| 
+| 20210823T21:32:21Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20210823T21:13:39Z | Find the ideal fuzz targets in a Rust codebase | https://github.com/trailofbits/siderophile | 118 | 9| 
+| 20210823T21:05:51Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 679 | 131| 
+| 20210823T21:02:14Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
+| 20210823T20:47:00Z | Generate code for json encoders/decoders, codecs, fuzzers, generators, and more | https://github.com/MartinSStewart/elm-review-todo-it-for-me | 1 | 1| 
+| 20210823T20:27:42Z | JetBrains Research intership project. | https://github.com/AnzhelaSukhanova/fuzzing_of_spacer | 0 | 0| 
+| 20210823T20:05:39Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6571 | 1342| 
 
 
 
