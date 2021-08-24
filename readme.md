@@ -62,13 +62,18 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210824T09:13:51Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 288 | 54| 
+| 20210824T08:24:58Z | Null | https://github.com/quantization-backdoor/quantization-backdoor | 1 | 0| 
+| 20210824T03:30:15Z | A highly resilient Zero-Conf (Plug & Play) solution to remotely manage any LAN using failproof SSH tunnels. | https://github.com/NassimBentarka/NBN-Pi-Core | 1 | 0| 
+| 20210824T02:31:42Z | A backdoor attack by vulnerability amplification on online machine learning-based network intrusion detection system | https://github.com/liuguangrui-hit/VulnerGAN-py | 0 | 0| 
 | 20210824T01:55:39Z | ADB WEBKIT Access Android Debug Bridge Any Thing in Your Browser | https://github.com/jxroot/adbwebkit | 0 | 0| 
-| 20210824T01:03:22Z | A highly resilient Zero-Conf (Plug & Play) solution to remotely manage any LAN using failproof SSH tunnels. | https://github.com/NassimBentarka/NBN-Pi-Core | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210824T05:19:26Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 457 | 69| 
+| 20210824T02:28:23Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2429 | 361| 
 
 
 # big4 on Github 推荐
@@ -79,11 +84,11 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210824T12:06:04Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1033 | 111| 
+| 20210824T12:05:13Z | JetBrains Research intership project. | https://github.com/AnzhelaSukhanova/fuzzing_of_spacer | 0 | 0| 
 | 20210824T11:53:37Z | A Codice Fiscale Generator | https://github.com/tonyarris/codice-fuzzcale | 1 | 0| 
 | 20210824T11:40:15Z | An algorithm framework integrating fuzzy decision trees and fuzzy ensemble trees. | https://github.com/ZhaoqingLiu/FuzzyTrees | 3 | 0| 
 | 20210824T11:32:14Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210824T11:31:53Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1032 | 111| 
-| 20210824T10:41:55Z | JetBrains Research intership project. | https://github.com/AnzhelaSukhanova/fuzzing_of_spacer | 0 | 0| 
 | 20210824T10:37:53Z | Find the ideal fuzz targets in a Rust codebase | https://github.com/trailofbits/siderophile | 119 | 9| 
 | 20210824T10:35:49Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 6 | 1| 
 | 20210824T10:31:47Z | Null | https://github.com/Fojsuhbus/fuzzy-couscous | 0 | 0| 
