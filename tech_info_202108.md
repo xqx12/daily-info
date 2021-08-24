@@ -51,7 +51,7 @@
 | 20210823T05:50:25Z | CVE-2021-30551 | my exp for chrome V8 CVE-2021-30551 | https://github.com/xmzyshypnc/CVE-2021-30551 | Type confusion in V8 in Google Chrome prior to 91.0.4472.101 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.| 
 | 20210823T03:09:58Z | CVE-2020-8284 | Null | https://github.com/artsking/curl-7.64.1_CVE-2020-8284_WithPatch | A malicious server can use the FTP PASV response to trick curl 7.73.0 and earlier into connecting back to a given IP address and port, and this way potentially make curl extract information about services that are otherwise private and not disclosed, for example doing port scanning and service banner extractions.| 
 | 20210823T03:00:18Z | CVE-2020-0796 | MS CVE 2020-0796 SMB | https://github.com/Nephael/Nephael-CVE-2020-0796 | A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests, aka %Windows SMBv3 Client/Server Remote Code Execution Vulnerability%.| 
-| 20210822T07:03:31Z | CVE-2021-3045 | PoC for exploiting CVE-2021-3045 : An OS command argument injection vulnerability in the Palo Alto Networks PAN-OS web interface enables an authenticated administrator to read any arbitrary file from the file system. This issue impacts: PAN-OS 8.1 versions earlier than PAN-OS 8.1.19; PAN-OS 9.0 versions earlier than PAN-OS 9.0.14; PAN-OS 9.1 versions earlier than PAN-OS 9.1.10. PAN-OS 10.0 and later versions are not impacted. | https://github.com/AlAIAL90/CVE-2021-3045 | | 
+| 20210822T07:03:31Z | CVE-2021-3045 | PoC for exploiting CVE-2021-3045 : An OS command argument injection vulnerability in the Palo Alto Networks PAN-OS web interface enables an authenticated administrator to read any arbitrary file from the file system. This issue impacts: PAN-OS 8.1 versions earlier than PAN-OS 8.1.19; PAN-OS 9.0 versions earlier than PAN-OS 9.0.14; PAN-OS 9.1 versions earlier than PAN-OS 9.1.10. PAN-OS 10.0 and later versions are not impacted. | https://github.com/AlAIAL90/CVE-2021-3045 | An OS command argument injection vulnerability in the Palo Alto Networks PAN-OS web interface enables an authenticated administrator to read any arbitrary file from the file system. This issue impacts: PAN-OS 8.1 versions earlier than PAN-OS 8.1.19; PAN-OS 9.0 versions earlier than PAN-OS 9.0.14; PAN-OS 9.1 versions earlier than PAN-OS 9.1.10. PAN-OS 10.0 and later versions are not impacted.| 
 | 20210821T22:58:42Z | CVE-2021-35464 | Null | https://github.com/rood8008/CVE-2021-35464 | ForgeRock AM server before 7.0 has a Java deserialization vulnerability in the jato.pageSession parameter on multiple pages. The exploitation does not require authentication, and remote code execution can be triggered by sending a single crafted /ccversion/* request to the server. The vulnerability exists due to the usage of Sun ONE Application Framework (JATO) found in versions of Java 8 or earlier| 
 | 20210820T22:19:28Z | CVE-2021-39281 | Documentation for cve-2021-39281 | https://github.com/grahamhelton/CVE-2021-39281 | 未查询到CVE信息| 
 | 20210820T12:10:27Z | CVE-2021-3441 | CVE-2021-3441 CVE Check is a python script to search targets for indicators of compromise to CVE-2021-3441 | https://github.com/tcbutler320/CVE-2021-3441-check | 未查询到CVE信息| 
@@ -84,16 +84,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210824T01:50:21Z | Null | https://github.com/TheCrazzXz/Exploits-Lab | 0 | 1| 
+| 20210824T01:49:44Z | DIfferent code bases for well known exploits | https://github.com/brad-ak/exploits | 0 | 0| 
 | 20210824T01:40:15Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 335 | 52| 
 | 20210824T01:31:57Z | Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish to influence Onelinetips and explain the commands, for the better understanding of new hunters.. | https://github.com/KingOfBugbounty/KingOfBugBountyTips | 2338 | 397| 
 | 20210824T01:28:19Z | Octagon is a fully fledged modular server sided anti exploit designed to detect many exploits reliably without interrupting user experience.  | https://github.com/SilentsReplacement/Octagon | 5 | 3| 
-| 20210824T01:24:53Z | DIfferent code bases for well known exploits | https://github.com/brad-ak/exploits | 0 | 0| 
 | 20210824T01:03:11Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210824T00:55:36Z | An exploit for executing Lua scripts | https://github.com/0xCAFEB0BA/NExecutor | 2 | 1| 
 | 20210824T00:52:25Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 21 | 13| 
 | 20210823T23:58:22Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | 0 | 0| 
 | 20210823T23:54:45Z | Extra goodies for GEF: Open repository for unfiltered contributions to the project. | https://github.com/hugsy/gef-extras | 63 | 25| 
-| 20210823T23:23:55Z | Agent Is a FULL Lua executor whit pretty Short Key (5 pages - 4 ad pages) Can Execute Script Like Owl Hub , Dex Explorer (and so much more) | https://github.com/REDSCRIPT3R/Agent-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐

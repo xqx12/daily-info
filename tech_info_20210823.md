@@ -56,13 +56,13 @@
 | 20210823T23:58:22Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | 0 | 0| 
 | 20210823T23:54:45Z | Extra goodies for GEF: Open repository for unfiltered contributions to the project. | https://github.com/hugsy/gef-extras | 63 | 25| 
 | 20210823T23:23:55Z | Agent Is a FULL Lua executor whit pretty Short Key (5 pages - 4 ad pages) Can Execute Script Like Owl Hub , Dex Explorer (and so much more) | https://github.com/REDSCRIPT3R/Agent-Exploit | 0 | 0| 
-| 20210823T22:48:43Z | Null | https://github.com/TheCrazzXz/Exploits-Lab | 0 | 1| 
 | 20210823T22:08:50Z | Exploit-db android app  (Not official app) | https://github.com/gaiththewolf/Exploitdb | 1 | 0| 
 | 20210823T21:59:44Z | Extensible framework for analyzing publicly available information about vulnerabilities | https://github.com/leonov-av/vulristics | 36 | 5| 
 | 20210823T21:57:59Z | Thi powershell script has got to run in remote hacked windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 6 | 1| 
 | 20210823T21:35:10Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9912 | 1654| 
 | 20210823T21:04:46Z | Golang CTF framework and exploit development module | https://github.com/hupe1980/gopwn | 1 | 1| 
 | 20210823T20:50:35Z | Here I will post my solutions/exploits for some of the challenges on 0x0539.net | https://github.com/0x1CA3/0x0539 | 0 | 0| 
+| 20210823T20:41:43Z | authentication bypass exploit on tp-link cloud enabled devices. | https://github.com/cnlvswsyua/tplink_authbypass | 0 | 0| 
 
 
 # backdoor on Github 推荐
