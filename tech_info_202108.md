@@ -140,7 +140,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210824T01:31:21Z | Null | https://github.com/Ubisam-Project-MASIDU/FuzzStoryWorld | 0 | 0| 
+| 20210824T01:36:28Z | Null | https://github.com/Ubisam-Project-MASIDU/FuzzStoryWorld | 0 | 0| 
 | 20210824T01:27:30Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210824T00:26:32Z | Null | https://github.com/epsonik/FuzzyDescV2 | 0 | 0| 
 | 20210824T00:10:41Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 6 | 1| 
