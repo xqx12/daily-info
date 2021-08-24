@@ -99,7 +99,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210824T00:41:03Z | A highly resilient Zero-Conf (Plug & Play) solution to remotely manage any LAN using failproof SSH tunnels. | https://github.com/NassimBentarka/NBN-Pi-Core | 1 | 0| 
+| 20210824T00:49:28Z | A highly resilient Zero-Conf (Plug & Play) solution to remotely manage any LAN using failproof SSH tunnels. | https://github.com/NassimBentarka/NBN-Pi-Core | 1 | 0| 
 | 20210823T23:26:11Z | Sample backdoor with python | https://github.com/aaron-padilla-14/Backdoor-with-python | 0 | 0| 
 | 20210823T17:55:38Z | Smooth penetration, more control, better speed and performance. 💣 blackdoor | https://github.com/s3q/blackdoor | 2 | 0| 
 | 20210823T16:08:05Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 91 | 16| 
