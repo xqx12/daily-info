@@ -6,6 +6,17 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210824 | 俄罗斯 APT28 组织的所使用的新版本恶意软件的分析 | https://cybergeeks.tech/skinnyboy-apt28/| 
+| 20210824 | Snakes on a Domain - 一款 Python 实现的恶意软件加载器 | https://www.huntress.com/blog/snakes-on-a-domain-an-analysis-of-a-python-malware-loader| 
+| 20210824 | Uncovering Tetris – a Full Surveillance Kit Running in your Browser | https://imp0rtp3.wordpress.com/2021/08/12/tetris/| 
+| 20210824 | Windows 系统插入雷蛇鼠标后自动安装的 Synapse 组件可被利用实现本地提权 | https://securityaffairs.co/wordpress/121385/hacking/razer-synapse-zero-day.html?utm_source=feedly&utm_medium=rss&utm_campaign=razer-synapse-zero-day| 
+| 20210824 | 其他研究员为 Orange 的 Proxyshell 漏洞编写的 PoC | https://github.com/dmaasland/proxyshell-poc| 
+| 20210824 | 伊朗 Siamesekitten APT 组织分析报告，Siamesekitten 主要在中东和非洲一代活动 | https://www.clearskysec.com/wp-content/uploads/2021/08/Siamesekitten.pdf| 
+| 20210824 | kubescape - Kubernetes 部署环境安全检测工具 | https://github.com/armosec/kubescape| 
+| 20210824 | ipa-medit - 重打包 iOS App 内存搜索和内存修改工具 | https://github.com/aktsk/ipa-medit| 
+| 20210824 | 将 \Device\BootDevice 替换成符号链接，禁用 Windows Defender 的检测功能 | https://aptw.tf/2021/08/21/killing-defender.html| 
+| 20210824 | Pwn2Own 2021 Zoom Zero-Click RCE 漏洞的分析 | https://sec.today/pulses/c077c3c3-c356-46b9-a3c3-df36b28e4ac2/| 
+| 20210824 | Pwn2Own 2021 Zoom Zero-Click RCE 漏洞的分析 | https://sector7.computest.nl/post/2021-08-zoom/| 
 | 20210823 | DIT - DTLS Interception Tool | https://github.com/CountablyInfinite/dit| 
 | 20210823 | 利用 electron-store 组件缺陷，在没有密钥的情况下修改加密配置文件 | https://blog.jse.li/posts/electron-store-encryption/| 
 | 20210823 | JS/WASM 代码混淆、反调试技术分析 | https://remyhax.xyz/posts/javascript-wasm-anti-debug/| 
@@ -15,17 +26,6 @@
 | 20210823 | Creating the WhereAmI Cobalt Strike BOF | https://0xboku.com/2021/08/19/Bof-WhereAmI.html| 
 | 20210823 | 以真实软件漏洞为目标的一套 Fuzzing 教程 | https://github.com/antonio-morales/Fuzzing101| 
 | 20210823 | iOS IOGPU 驱动 CVE-2021-30656 信息泄露漏洞的分析 | https://jsherman212.github.io/CVE-2021-30656/| 
-| 20210823 | 浅谈云上攻防——对象存储服务访问策略评估机制研究 | https://paper.seebug.org/1682/| 
-| 20210822 | 关于Windows防火墙的RPC 筛选器的工作原理。 | https://www.tiraniddo.dev/2021/08/how-windows-firewall-rpc-filter-works.html| 
-| 20210820 | James Forshaw 对 Windows 防火墙限制 AppContainers 联网实现机制的分析 | https://googleprojectzero.blogspot.com/2021/08/understanding-network-access-windows-app.html| 
-| 20210820 | 华为 BootROM 漏洞(CVE-2021-22429) OTA 更新补丁的分析 | https://labs.taszk.io/articles/post/huawei_kirin990_bootrom_patch/| 
-| 20210820 | Issue 2191: JavaScriptCore: Uninitialized register in slow_path_profile_catch | https://bugs.chromium.org/p/project-zero/issues/detail?id=2191| 
-| 20210820 | 逆向分析奥地利的身份证验证 App | https://yepoleb.github.io/blog/2021/08/18/reverse-engineering-the-check-at-android-app/| 
-| 20210820 | T-Mobile 发表声明称 8 月 17 号发现数据泄露安全事件 | https://www.t-mobile.com/brand/data-breach-2021| 
-| 20210820 | CVE-2021-31955 信息泄露漏洞的分析和利用 | https://research.nccgroup.com/2021/08/17/cve-2021-31956-exploiting-the-windows-kernel-ntfs-with-wnf-part-2/| 
-| 20210820 | GoKart - 扫描 Go 源码检测安全漏洞的静态分析工具 | https://www.praetorian.com/blog/introducing-gokart/| 
-| 20210820 | Reversing the Pokémon Snap Station without a Snap Station | https://jamchamb.net/2021/08/17/snap-station.html| 
-| 20210820 | 微软 Azure AD FS 服务日志记录的协议被发现存在漏洞，可以篡改 Sign-Ins Logs | https://www.secureworks.com/research/azure-active-directory-sign-ins-log-tampering| 
 
 
 # 安全维基 推荐
@@ -46,23 +46,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210824T10:52:01Z | CVE-2020-15368 | How to exploit a vulnerable windows driver. Exploit for AsrDrv104.sys | https://github.com/stong/CVE-2020-15368 | AsrDrv103.sys in the ASRock RGB Driver does not properly restrict access from user space, as demonstrated by triggering a triple fault via a request to zero CR3.| 
+| 20210824T08:44:13Z | CVE-2020-6308 | Exploit script for SAP Business Objects SSRF | https://github.com/TheMMMdev/CVE-2020-6308 | SAP BusinessObjects Business Intelligence Platform (Web Services) versions - 410, 420, 430, allows an unauthenticated attacker to inject arbitrary values as CMS parameters to perform lookups on the internal network which is otherwise not accessible externally. On successful exploitation, attacker can scan internal network to determine internal infrastructure and gather information for further attacks like remote file inclusion, retrieve server files, bypass firewall and force the vulnerable server to perform malicious requests, resulting in a Server-Side Request Forgery vulnerability.| 
+| 20210824T04:59:15Z | CVE-2021-30551 | my exp for chrome V8 CVE-2021-30551 | https://github.com/xmzyshypnc/CVE-2021-30551 | Type confusion in V8 in Google Chrome prior to 91.0.4472.101 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.| 
 | 20210823T21:49:01Z | CVE-2021- | Remote Code Execution at Rittal | https://github.com/asang17/CVE-2021-RCE | 未查询到CVE信息| 
 | 20210823T21:48:49Z | CVE-2021- | XSS Vulnerability in Rittal | https://github.com/asang17/CVE-2021-XSS | 未查询到CVE信息| 
-| 20210823T05:50:25Z | CVE-2021-30551 | my exp for chrome V8 CVE-2021-30551 | https://github.com/xmzyshypnc/CVE-2021-30551 | Type confusion in V8 in Google Chrome prior to 91.0.4472.101 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.| 
 | 20210823T03:09:58Z | CVE-2020-8284 | Null | https://github.com/artsking/curl-7.64.1_CVE-2020-8284_WithPatch | A malicious server can use the FTP PASV response to trick curl 7.73.0 and earlier into connecting back to a given IP address and port, and this way potentially make curl extract information about services that are otherwise private and not disclosed, for example doing port scanning and service banner extractions.| 
 | 20210823T03:00:18Z | CVE-2020-0796 | MS CVE 2020-0796 SMB | https://github.com/Nephael/Nephael-CVE-2020-0796 | A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests, aka %Windows SMBv3 Client/Server Remote Code Execution Vulnerability%.| 
-| 20210822T07:03:31Z | CVE-2021-3045 | PoC for exploiting CVE-2021-3045 : An OS command argument injection vulnerability in the Palo Alto Networks PAN-OS web interface enables an authenticated administrator to read any arbitrary file from the file system. This issue impacts: PAN-OS 8.1 versions earlier than PAN-OS 8.1.19; PAN-OS 9.0 versions earlier than PAN-OS 9.0.14; PAN-OS 9.1 versions earlier than PAN-OS 9.1.10. PAN-OS 10.0 and later versions are not impacted. | https://github.com/AlAIAL90/CVE-2021-3045 | | 
+| 20210822T07:03:31Z | CVE-2021-3045 | PoC for exploiting CVE-2021-3045 : An OS command argument injection vulnerability in the Palo Alto Networks PAN-OS web interface enables an authenticated administrator to read any arbitrary file from the file system. This issue impacts: PAN-OS 8.1 versions earlier than PAN-OS 8.1.19; PAN-OS 9.0 versions earlier than PAN-OS 9.0.14; PAN-OS 9.1 versions earlier than PAN-OS 9.1.10. PAN-OS 10.0 and later versions are not impacted. | https://github.com/AlAIAL90/CVE-2021-3045 | An OS command argument injection vulnerability in the Palo Alto Networks PAN-OS web interface enables an authenticated administrator to read any arbitrary file from the file system. This issue impacts: PAN-OS 8.1 versions earlier than PAN-OS 8.1.19; PAN-OS 9.0 versions earlier than PAN-OS 9.0.14; PAN-OS 9.1 versions earlier than PAN-OS 9.1.10. PAN-OS 10.0 and later versions are not impacted.| 
 | 20210821T22:58:42Z | CVE-2021-35464 | Null | https://github.com/rood8008/CVE-2021-35464 | ForgeRock AM server before 7.0 has a Java deserialization vulnerability in the jato.pageSession parameter on multiple pages. The exploitation does not require authentication, and remote code execution can be triggered by sending a single crafted /ccversion/* request to the server. The vulnerability exists due to the usage of Sun ONE Application Framework (JATO) found in versions of Java 8 or earlier| 
 | 20210820T22:19:28Z | CVE-2021-39281 | Documentation for cve-2021-39281 | https://github.com/grahamhelton/CVE-2021-39281 | 未查询到CVE信息| 
-| 20210820T12:10:27Z | CVE-2021-3441 | CVE-2021-3441 CVE Check is a python script to search targets for indicators of compromise to CVE-2021-3441 | https://github.com/tcbutler320/CVE-2021-3441-check | | 
-| 20210820T07:47:32Z | CVE-2021-38534 | PoC for exploiting CVE-2021-38534 : Certain NETGEAR devices are affected by stored XSS. This affects D3600 before 1.0.0.76, D6000 before 1.0.0.76, D6100 before 1.0.0.60, D6200 before 1.1.00.36, D6220 before 1.0.0.52, D6400 before 1.0.0.86, D7000 before 1.0.1.70, D7000v2 before 1.0.0.53, D8500 before 1.0.3.44, DC112A before 1.0.0.42, DGN2200v4 before 1.0.0.110, DGND2200Bv4 before 1.0.0.109, DM200 before 1.0.0.61, JR6150 before 1.0.1.18, PR2000 before 1.0.0.28, R6020 before 1.0.0.42, R6050 before 1.0.1.18, R6080 before 1.0.0.42, R6220 before 1.1.0.80, R6230 before 1.1.0.80, R6250 before 1.0.4.34, R6260 before 1.1.0.64, R6300v2 before 1.0.4.34, R6400 before 1.0.1.46, R6400v2 before 1.0.2.62, R6700 before 1.0.2.6, R6700v2 before 1.2.0.36, R6700v3 before 1.0.2.62, R6800 before 1.2.0.36, R6900 before 1.0.2.4, R6900P before 1.3.1.64, R6900v2 before 1.2.0.36, R7000 before 1.0.9.60, R7000P before 1.3.1.64, R7100LG before 1.0.0.50, R7300DST before 1.0.0.70, R7450 before 1.2.0.36, R7900 before 1.0.3.8, R7900P before 1.4.1.50, R8000 before 1.0.4.28, R8000P before 1.4.1.50, R8300 before 1.0.2.130, R8500 before 1.0.2.130, WNDR3400v3 before 1.0.1.24, WNR2020 before 1.1.0.62, WNR3500Lv2 before 1.2.0.62, XR450 before 2.3.2.40, and XR500 before 2.3.2.40. | https://github.com/AlAIAL90/CVE-2021-38534 | Certain NETGEAR devices are affected by stored XSS. This affects D3600 before 1.0.0.76, D6000 before 1.0.0.76, D6100 before 1.0.0.60, D6200 before 1.1.00.36, D6220 before 1.0.0.52, D6400 before 1.0.0.86, D7000 before 1.0.1.70, D7000v2 before 1.0.0.53, D8500 before 1.0.3.44, DC112A before 1.0.0.42, DGN2200v4 before 1.0.0.110, DGND2200Bv4 before 1.0.0.109, DM200 before 1.0.0.61, JR6150 before 1.0.1.18, PR2000 before 1.0.0.28, R6020 before 1.0.0.42, R6050 before 1.0.1.18, R6080 before 1.0.0.42, R6220 before 1.1.0.80, R6230 before 1.1.0.80, R6250 before 1.0.4.34, R6260 before 1.1.0.64, R6300v2 before 1.0.4.34, R6400 before 1.0.1.46, R6400v2 before 1.0.2.62, R6700 before 1.0.2.6, R6700v2 before 1.2.0.36, R6700v3 before 1.0.2.62, R6800 before 1.2.0.36, R6900 before 1.0.2.4, R6900P before 1.3.1.64, R6900v2 before 1.2.0.36, R7000 before 1.0.9.60, R7000P before 1.3.1.64, R7100LG before 1.0.0.50, R7300DST before 1.0.0.70, R7450 before 1.2.0.36, R7900 before 1.0.3.8, R7900P before 1.4.1.50, R8000 before 1.0.4.28, R8000P before 1.4.1.50, R8300 before 1.0.2.130, R8500 before 1.0.2.130, WNDR3400v3 before 1.0.1.24, WNR2020 before 1.1.0.62, WNR3500Lv2 before 1.2.0.62, XR450 before 2.3.2.40, and XR500 before 2.3.2.40.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210823T19:32:23Z | Null | https://github.com/pansilup/cgc-prgs-for-klee-seed-mode | 0 | 0| 
-| 20210823T09:58:55Z | Null | https://github.com/kamosika179/kleegame | 0 | 0| 
+| 20210824T07:55:33Z | Null | https://github.com/pansilup/cgc-prgs-for-klee-seed-mode | 0 | 0| 
+| 20210824T07:26:30Z | Null | https://github.com/kamosika179/kleegame | 0 | 0| 
 | 20210823T03:31:51Z | Scala library for generating and manipulation of images treated as a point => color function. | https://github.com/skac112/klee | 0 | 0| 
 | 20210822T23:52:08Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 18 | 0| 
 | 20210822T21:29:17Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
@@ -84,16 +84,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210824T01:53:06Z | Octagon is a fully fledged modular server sided anti exploit designed to detect many exploits reliably without interrupting user experience.  | https://github.com/SilentsReplacement/Octagon | 5 | 3| 
-| 20210824T01:50:21Z | Null | https://github.com/TheCrazzXz/Exploits-Lab | 0 | 1| 
-| 20210824T01:49:44Z | DIfferent code bases for well known exploits | https://github.com/brad-ak/exploits | 0 | 0| 
-| 20210824T01:40:15Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 335 | 52| 
-| 20210824T01:31:57Z | Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish to influence Onelinetips and explain the commands, for the better understanding of new hunters.. | https://github.com/KingOfBugbounty/KingOfBugBountyTips | 2338 | 397| 
-| 20210824T01:03:11Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
-| 20210824T00:55:36Z | An exploit for executing Lua scripts | https://github.com/0xCAFEB0BA/NExecutor | 2 | 1| 
-| 20210824T00:52:25Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 21 | 13| 
-| 20210823T23:58:22Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | 0 | 0| 
-| 20210823T23:54:45Z | Extra goodies for GEF: Open repository for unfiltered contributions to the project. | https://github.com/hugsy/gef-extras | 63 | 25| 
+| 20210824T11:48:35Z | Some exploits i developed for VulnHub machines and common vulnerabilities. | https://github.com/Xcatolin/Personal-Exploits | 0 | 0| 
+| 20210824T11:44:16Z | Open Redirect Exploit POC | https://github.com/Slingx/usdes1.pageuppeople.com.github.io | 0 | 0| 
+| 20210824T11:42:17Z | Tamil CTF Site | https://github.com/exploiteverythingtamil/exploiteverythingtamil.github.io | 1 | 0| 
+| 20210824T11:25:16Z | Octagon is a fully fledged modular server sided anti exploit designed to detect many exploits reliably without interrupting user experience.  | https://github.com/SilentsReplacement/Octagon | 5 | 3| 
+| 20210824T11:23:52Z | %making games easier to exploit% | https://github.com/choke-dev/easierlua | 2 | 0| 
+| 20210824T11:17:49Z | Domain Engineer or Domaineer is Semi-Auto Bot to gaining data from domains | https://github.com/EtcAug10/Domaineer | 4 | 3| 
+| 20210824T11:07:41Z | awd比赛可用的自动化获取flag脚本。 | https://github.com/Perceptual33/exploit-awd | 1 | 0| 
+| 20210824T11:03:08Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
+| 20210824T10:52:01Z | How to exploit a vulnerable windows driver. Exploit for AsrDrv104.sys | https://github.com/stong/CVE-2020-15368 | 276 | 24| 
+| 20210824T09:28:11Z | 📈 A visualization of MetricQ data exploiting the advantages of the HTA db backend  | https://github.com/metricq/metricq-webview | 0 | 1| 
 
 
 # backdoor on Github 推荐
@@ -140,16 +140,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210824T01:57:27Z | Null | https://github.com/Ubisam-Project-MASIDU/FuzzStoryWorld | 0 | 0| 
-| 20210824T01:43:17Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4547 | 457| 
-| 20210824T01:27:30Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210824T00:26:32Z | Null | https://github.com/epsonik/FuzzyDescV2 | 0 | 0| 
-| 20210824T00:10:41Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 6 | 1| 
-| 20210824T00:04:30Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 22 | 9| 
-| 20210824T00:00:04Z | Null | https://github.com/opimentel-github/fuzzy-tools | 0 | 0| 
-| 20210823T23:13:12Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
-| 20210823T22:22:19Z | REST API Fuzz Testing (RAFT): Source code for self-hosted service developed for Azure, including the API, orchestration engine, and default set of security tools (including MSR%s RESTler), that enables developers to embed security tooling into their CI/CD workflows | https://github.com/microsoft/rest-api-fuzz-testing | 188 | 28| 
-| 20210823T22:01:45Z | Emulation based snapshot fuzzer | https://github.com/jaoeul/gingersnap | 0 | 0| 
+| 20210824T11:53:37Z | A Codice Fiscale Generator | https://github.com/tonyarris/codice-fuzzcale | 1 | 0| 
+| 20210824T11:40:15Z | An algorithm framework integrating fuzzy decision trees and fuzzy ensemble trees. | https://github.com/ZhaoqingLiu/FuzzyTrees | 3 | 0| 
+| 20210824T11:32:14Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20210824T11:31:53Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1032 | 111| 
+| 20210824T10:41:55Z | JetBrains Research intership project. | https://github.com/AnzhelaSukhanova/fuzzing_of_spacer | 0 | 0| 
+| 20210824T10:37:53Z | Find the ideal fuzz targets in a Rust codebase | https://github.com/trailofbits/siderophile | 119 | 9| 
+| 20210824T10:35:49Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 6 | 1| 
+| 20210824T10:31:47Z | Null | https://github.com/Fojsuhbus/fuzzy-couscous | 0 | 0| 
+| 20210824T10:10:59Z | Generate code for json encoders/decoders, codecs, fuzzers, generators, and more | https://github.com/MartinSStewart/elm-review-todo-it-for-me | 1 | 1| 
+| 20210824T09:51:19Z | Fuzz the Internet | https://github.com/themastersunil/Fuzzzzz | 0 | 0| 
 
 
 
