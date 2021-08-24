@@ -47,7 +47,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210823T21:49:01Z | CVE-2021- | Remote Code Execution at Rittal | https://github.com/asang17/CVE-2021-RCE | 未查询到CVE信息| 
-| 20210823T21:48:49Z | CVE-2021- | XSS Vulnerability in Rittal | https://github.com/asang17/CVE-2021-XSS | | 
+| 20210823T21:48:49Z | CVE-2021- | XSS Vulnerability in Rittal | https://github.com/asang17/CVE-2021-XSS | 未查询到CVE信息| 
 | 20210823T05:50:25Z | CVE-2021-30551 | my exp for chrome V8 CVE-2021-30551 | https://github.com/xmzyshypnc/CVE-2021-30551 | Type confusion in V8 in Google Chrome prior to 91.0.4472.101 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.| 
 | 20210823T03:09:58Z | CVE-2020-8284 | Null | https://github.com/artsking/curl-7.64.1_CVE-2020-8284_WithPatch | A malicious server can use the FTP PASV response to trick curl 7.73.0 and earlier into connecting back to a given IP address and port, and this way potentially make curl extract information about services that are otherwise private and not disclosed, for example doing port scanning and service banner extractions.| 
 | 20210823T03:00:18Z | CVE-2020-0796 | MS CVE 2020-0796 SMB | https://github.com/Nephael/Nephael-CVE-2020-0796 | A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests, aka %Windows SMBv3 Client/Server Remote Code Execution Vulnerability%.| 
@@ -84,11 +84,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210824T01:53:06Z | Octagon is a fully fledged modular server sided anti exploit designed to detect many exploits reliably without interrupting user experience.  | https://github.com/SilentsReplacement/Octagon | 5 | 3| 
 | 20210824T01:50:21Z | Null | https://github.com/TheCrazzXz/Exploits-Lab | 0 | 1| 
 | 20210824T01:49:44Z | DIfferent code bases for well known exploits | https://github.com/brad-ak/exploits | 0 | 0| 
 | 20210824T01:40:15Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 335 | 52| 
 | 20210824T01:31:57Z | Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish to influence Onelinetips and explain the commands, for the better understanding of new hunters.. | https://github.com/KingOfBugbounty/KingOfBugBountyTips | 2338 | 397| 
-| 20210824T01:28:19Z | Octagon is a fully fledged modular server sided anti exploit designed to detect many exploits reliably without interrupting user experience.  | https://github.com/SilentsReplacement/Octagon | 5 | 3| 
 | 20210824T01:03:11Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210824T00:55:36Z | An exploit for executing Lua scripts | https://github.com/0xCAFEB0BA/NExecutor | 2 | 1| 
 | 20210824T00:52:25Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 21 | 13| 
@@ -99,7 +99,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210824T01:52:21Z | ADB WEBKIT Access Android Debug Bridge Any Thing in Your Browser | https://github.com/jxroot/adbwebkit | 0 | 0| 
+| 20210824T01:55:39Z | ADB WEBKIT Access Android Debug Bridge Any Thing in Your Browser | https://github.com/jxroot/adbwebkit | 0 | 0| 
 | 20210824T01:03:22Z | A highly resilient Zero-Conf (Plug & Play) solution to remotely manage any LAN using failproof SSH tunnels. | https://github.com/NassimBentarka/NBN-Pi-Core | 1 | 0| 
 | 20210823T23:26:11Z | Sample backdoor with python | https://github.com/aaron-padilla-14/Backdoor-with-python | 0 | 0| 
 | 20210823T17:55:38Z | Smooth penetration, more control, better speed and performance. 💣 blackdoor | https://github.com/s3q/blackdoor | 2 | 0| 
@@ -140,7 +140,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210824T01:52:57Z | Null | https://github.com/Ubisam-Project-MASIDU/FuzzStoryWorld | 0 | 0| 
+| 20210824T01:57:27Z | Null | https://github.com/Ubisam-Project-MASIDU/FuzzStoryWorld | 0 | 0| 
 | 20210824T01:43:17Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4547 | 457| 
 | 20210824T01:27:30Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210824T00:26:32Z | Null | https://github.com/epsonik/FuzzyDescV2 | 0 | 0| 
