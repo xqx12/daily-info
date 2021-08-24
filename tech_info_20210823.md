@@ -61,8 +61,8 @@
 | 20210823T21:59:44Z | Extensible framework for analyzing publicly available information about vulnerabilities | https://github.com/leonov-av/vulristics | 36 | 5| 
 | 20210823T21:57:59Z | Thi powershell script has got to run in remote hacked windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 6 | 1| 
 | 20210823T21:35:10Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9912 | 1654| 
-| 20210823T21:32:09Z | Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish to influence Onelinetips and explain the commands, for the better understanding of new hunters.. | https://github.com/KingOfBugbounty/KingOfBugBountyTips | 2336 | 397| 
 | 20210823T21:04:46Z | Golang CTF framework and exploit development module | https://github.com/hupe1980/gopwn | 1 | 1| 
+| 20210823T20:50:35Z | Here I will post my solutions/exploits for some of the challenges on 0x0539.net | https://github.com/0x1CA3/0x0539 | 0 | 0| 
 
 
 # backdoor on Github 推荐
