@@ -98,13 +98,13 @@
 | 20210823T23:13:12Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210823T22:22:19Z | REST API Fuzz Testing (RAFT): Source code for self-hosted service developed for Azure, including the API, orchestration engine, and default set of security tools (including MSR%s RESTler), that enables developers to embed security tooling into their CI/CD workflows | https://github.com/microsoft/rest-api-fuzz-testing | 188 | 28| 
 | 20210823T22:01:45Z | Emulation based snapshot fuzzer | https://github.com/jaoeul/gingersnap | 0 | 0| 
-| 20210823T21:32:21Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210823T21:13:39Z | Find the ideal fuzz targets in a Rust codebase | https://github.com/trailofbits/siderophile | 118 | 9| 
 | 20210823T21:05:51Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 679 | 131| 
 | 20210823T21:02:14Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210823T20:47:00Z | Generate code for json encoders/decoders, codecs, fuzzers, generators, and more | https://github.com/MartinSStewart/elm-review-todo-it-for-me | 1 | 1| 
 | 20210823T20:27:42Z | JetBrains Research intership project. | https://github.com/AnzhelaSukhanova/fuzzing_of_spacer | 0 | 0| 
 | 20210823T20:05:39Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6571 | 1342| 
+| 20210823T19:40:45Z | A Codice Fiscale Generator | https://github.com/tonyarris/codice-fuzzcale | 1 | 0| 
 
 
 
