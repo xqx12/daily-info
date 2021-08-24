@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210823T21:49:01Z | CVE-2021- | Remote Code Execution at Rittal | https://github.com/asang17/CVE-2021-RCE | | 
+| 20210823T21:49:01Z | CVE-2021- | Remote Code Execution at Rittal | https://github.com/asang17/CVE-2021-RCE | 未查询到CVE信息| 
 | 20210823T21:48:49Z | CVE-2021- | XSS Vulnerability in Rittal | https://github.com/asang17/CVE-2021-XSS | 未查询到CVE信息| 
 | 20210823T05:50:25Z | CVE-2021-30551 | my exp for chrome V8 CVE-2021-30551 | https://github.com/xmzyshypnc/CVE-2021-30551 | Type confusion in V8 in Google Chrome prior to 91.0.4472.101 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.| 
 | 20210823T03:09:58Z | CVE-2020-8284 | Null | https://github.com/artsking/curl-7.64.1_CVE-2020-8284_WithPatch | A malicious server can use the FTP PASV response to trick curl 7.73.0 and earlier into connecting back to a given IP address and port, and this way potentially make curl extract information about services that are otherwise private and not disclosed, for example doing port scanning and service banner extractions.| 
@@ -140,6 +140,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210824T00:26:32Z | Null | https://github.com/epsonik/FuzzyDescV2 | 0 | 0| 
 | 20210824T00:24:32Z | Null | https://github.com/Ubisam-Project-MASIDU/FuzzStoryWorld | 0 | 0| 
 | 20210824T00:10:41Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 6 | 1| 
 | 20210824T00:04:30Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 22 | 9| 
@@ -149,7 +150,6 @@
 | 20210823T22:01:45Z | Emulation based snapshot fuzzer | https://github.com/jaoeul/gingersnap | 0 | 0| 
 | 20210823T21:32:21Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210823T21:13:39Z | Find the ideal fuzz targets in a Rust codebase | https://github.com/trailofbits/siderophile | 118 | 9| 
-| 20210823T21:05:51Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 679 | 131| 
 
 
 
