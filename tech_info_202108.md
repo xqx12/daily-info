@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210825T01:23:41Z | Secure sharing of geospatial information has attracted widespread attention in recent years. As a typical geospatial data, vector maps can be used in many areas of national economic and social development. However, there are many security threats to data sharing of vector digital map, including the vector map tampering, forgery, infringement, data leakages, and so on. Due to the complex spatial relation nature, the traditional data protection approaches are either infeasible or ineffective in such scenarios, e.g., data exchange, sharing, and publishing. To address these security problems for real situations, in this paper, we propose a novel vector map protection framework, which exploits the ideas of dynamic game and local desensitization. An important information protection model, an optimal data desensitization model, and a game-based local desensitization model are presented in this framework. Dynamic game strategies are used to effectively measure the utility of players under different decisions. Based on these three models and the idea of dynamic game, important or sensitive map elements in vector maps can be de- sensitized locally in a controllable and reversible way, thus enabling more flexible and efficient security protection. A comprehensive evaluation, including desensitization strategies, perfor- mance and time consumption, accuracy control and reversibility, is given to show the security and feasibility of the proposed framework. | https://github.com/MoonkeyBoy/VMPS-A-Vector-Map-Protection-Framework-Supporting-Dynamic-Game-and-Local-Desensitization | 0 | 0| 
 | 20210825T01:03:08Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210825T01:00:52Z | CVE-2021-3449 OpenSSL denial-of-service exploit 👨🏻‍💻 | https://github.com/terorie/cve-2021-3449 | 205 | 38| 
 | 20210825T00:57:10Z | This tool compares a targets patch levels against the Microsoft vulnerability database in order to detect potential missing patches on the target. It also notifies the user if there are public exploits and Metasploit modules available for the missing bulletins. | https://github.com/AonCyberLabs/Windows-Exploit-Suggester | 2868 | 862| 
@@ -93,7 +94,6 @@
 | 20210825T00:10:14Z | Null | https://github.com/brainstorming423/exploits | 0 | 0| 
 | 20210824T23:34:58Z | PS4 Exploit 7.55 (Add additional cleanup spray after the exploit) | https://github.com/Buzbee/Buzbee3 | 0 | 0| 
 | 20210824T23:18:15Z | Null | https://github.com/TheCrazzXz/Exploits-Lab | 0 | 1| 
-| 20210824T23:18:08Z | Patch for Waterfall to improve performance during attacks and fix memory issues. | https://github.com/2lstudios-mc/FlameCord | 66 | 35| 
 
 
 # backdoor on Github 推荐
