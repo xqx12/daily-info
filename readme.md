@@ -90,6 +90,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210825T13:00:38Z | Null | https://github.com/Turtleshell-designs/fuzzy-invention | 0 | 0| 
 | 20210825T12:36:51Z | Predict the disease of cotton crop | https://github.com/Aditya64/Leaf-disease-prediction-using-fuzzy-logic- | 0 | 0| 
 | 20210825T12:01:36Z | Comparison of Go%s fuzzer beta (https://blog.golang.org/fuzz-beta) with libfuzzer. Work in progress. Warning: Comparing fuzzers is hard; results require careful interpretation. | https://github.com/stevenjohnstone/go-beta-fuzzer-vs-libfuzzer | 1 | 1| 
 | 20210825T11:59:45Z | Fuzzy: contains code for a Fuzzy Engine and a Dynamical Systems Simulator (DySySim). | https://github.com/josokw/Fuzzy | 2 | 0| 
@@ -99,7 +100,6 @@
 | 20210825T11:14:38Z | An algorithm framework integrating fuzzy decision trees and fuzzy ensemble trees. | https://github.com/ZhaoqingLiu/FuzzyTrees | 3 | 0| 
 | 20210825T11:06:15Z | Null | https://github.com/fuzzm/fuzzm-project | 2 | 1| 
 | 20210825T10:53:20Z | Null | https://github.com/HoaNguyen55/Quality_Network_Fuzzy_Logic | 0 | 0| 
-| 20210825T10:39:31Z | Find the ideal fuzz targets in a Rust codebase | https://github.com/trailofbits/siderophile | 120 | 9| 
 
 
 
