@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210825T12:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9920 | 1656| 
 | 20210825T12:06:21Z | Exploit-db (is NOT the official APP). | https://github.com/gaiththewolf/Exploitdb | 1 | 0| 
 | 20210825T12:02:58Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210825T11:14:02Z | A scanner/exploitation tool written in GO, which leverages client-side Prototype Pollution to XSS by exploiting known gadgets. | https://github.com/kleiton0x00/ppmap | 168 | 20| 
@@ -93,7 +94,6 @@
 | 20210825T09:55:28Z | Null | https://github.com/asr511/exploitdb-bin-sploits-offsec | 0 | 0| 
 | 20210825T09:30:28Z | go-firebase-exploit or gfe is a tool for exploiting insecure firebase databases | https://github.com/fadhilthomas/go-firebase-exploit | 1 | 0| 
 | 20210825T09:10:46Z | This program uses a system call dependency graph to detect malware and analyze their behavior. First, the software under examination is executed and system calls are extracted. A dependency graph is built from these system calls and a set of features for each software is extracted to specify the software behavior. A feature selection method is implemented to reduce the number of features by clustering them. Machine learning algorithms such as Decision Tree, Random Forest, K-Nearest Neighbors, Support Vector Machines, and Neural Networks are exploited to build two prediction models. The first model is a two-class model that classifies software into malware and regular software. The second model is a multi-class model, which identifies the type of malware, in addition to classifying the software to malware and regular software. These two models are evaluated using data collected by Fredrickson and et.al. | https://github.com/MahsaSinaei/Malware-detection-by-system-call-graph-using-Machine-Learning | 0 | 0| 
-| 20210825T08:58:18Z | Roblox-TS typings for popular Roblox %scripting engines% | https://github.com/richie0866/exploit-types | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -140,6 +140,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210825T12:33:00Z | Predict the disease of cotton crop | https://github.com/Aditya64/Leaf-disease-prediction-using-fuzzy-logic- | 0 | 0| 
 | 20210825T12:01:36Z | Comparison of Go%s fuzzer beta (https://blog.golang.org/fuzz-beta) with libfuzzer. Work in progress. Warning: Comparing fuzzers is hard; results require careful interpretation. | https://github.com/stevenjohnstone/go-beta-fuzzer-vs-libfuzzer | 1 | 1| 
 | 20210825T11:59:45Z | Fuzzy: contains code for a Fuzzy Engine and a Dynamical Systems Simulator (DySySim). | https://github.com/josokw/Fuzzy | 2 | 0| 
 | 20210825T11:51:56Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2381 | 136| 
@@ -149,7 +150,6 @@
 | 20210825T11:06:15Z | Null | https://github.com/fuzzm/fuzzm-project | 2 | 1| 
 | 20210825T10:53:20Z | Null | https://github.com/HoaNguyen55/Quality_Network_Fuzzy_Logic | 0 | 0| 
 | 20210825T10:39:31Z | Find the ideal fuzz targets in a Rust codebase | https://github.com/trailofbits/siderophile | 120 | 9| 
-| 20210825T10:03:10Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 
 
 
