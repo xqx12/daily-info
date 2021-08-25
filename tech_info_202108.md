@@ -49,7 +49,7 @@
 | 20210824T20:19:07Z | cve-2021-3449 | CVE-2021-3449 OpenSSL denial-of-service exploit 👨🏻‍💻 | https://github.com/terorie/cve-2021-3449 | An OpenSSL TLS server may crash if sent a maliciously crafted renegotiation ClientHello message from a client. If a TLSv1.2 renegotiation ClientHello omits the signature_algorithms extension (where it was present in the initial ClientHello), but includes a signature_algorithms_cert extension then a NULL pointer dereference will result, leading to a crash and a denial of service attack. A server is only vulnerable if it has TLSv1.2 and renegotiation enabled (which is the default configuration). OpenSSL TLS clients are not impacted by this issue. All OpenSSL 1.1.1 versions are affected by this issue. Users of these versions should upgrade to OpenSSL 1.1.1k. OpenSSL 1.0.2 is not impacted by this issue. Fixed in OpenSSL 1.1.1k (Affected 1.1.1-1.1.1j).| 
 | 20210824T10:52:01Z | CVE-2020-15368 | How to exploit a vulnerable windows driver. Exploit for AsrDrv104.sys | https://github.com/stong/CVE-2020-15368 | AsrDrv103.sys in the ASRock RGB Driver does not properly restrict access from user space, as demonstrated by triggering a triple fault via a request to zero CR3.| 
 | 20210824T08:44:13Z | CVE-2020-6308 | Exploit script for SAP Business Objects SSRF | https://github.com/TheMMMdev/CVE-2020-6308 | SAP BusinessObjects Business Intelligence Platform (Web Services) versions - 410, 420, 430, allows an unauthenticated attacker to inject arbitrary values as CMS parameters to perform lookups on the internal network which is otherwise not accessible externally. On successful exploitation, attacker can scan internal network to determine internal infrastructure and gather information for further attacks like remote file inclusion, retrieve server files, bypass firewall and force the vulnerable server to perform malicious requests, resulting in a Server-Side Request Forgery vulnerability.| 
-| 20210824T04:59:15Z | CVE-2021-30551 | my exp for chrome V8 CVE-2021-30551 | https://github.com/xmzyshypnc/CVE-2021-30551 | Type confusion in V8 in Google Chrome prior to 91.0.4472.101 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.| 
+| 20210824T04:59:15Z | CVE-2021-30551 | my exp for chrome V8 CVE-2021-30551 | https://github.com/xmzyshypnc/CVE-2021-30551 | | 
 | 20210823T21:49:01Z | CVE-2021- | Remote Code Execution at Rittal | https://github.com/asang17/CVE-2021-RCE | 未查询到CVE信息| 
 | 20210823T21:48:49Z | CVE-2021- | XSS Vulnerability in Rittal | https://github.com/asang17/CVE-2021-XSS | 未查询到CVE信息| 
 | 20210823T03:09:58Z | CVE-2020-8284 | Null | https://github.com/artsking/curl-7.64.1_CVE-2020-8284_WithPatch | A malicious server can use the FTP PASV response to trick curl 7.73.0 and earlier into connecting back to a given IP address and port, and this way potentially make curl extract information about services that are otherwise private and not disclosed, for example doing port scanning and service banner extractions.| 
@@ -84,10 +84,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210825T00:20:38Z | go-firebase-exploit or gfe is a tool for exploiting insecure firebase databases. | https://github.com/fadhilthomas/go-firebase-exploit | 1 | 0| 
 | 20210825T00:11:05Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 3898 | 561| 
 | 20210825T00:10:14Z | Null | https://github.com/brainstorming423/exploits | 0 | 0| 
 | 20210825T00:03:22Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
-| 20210824T23:53:51Z | go-firebase-exploit or gfe is a tool for exploiting insecure firebase databases. | https://github.com/fadhilthomas/go-firebase-exploit | 1 | 0| 
 | 20210824T23:34:58Z | PS4 Exploit 7.55 (Add additional cleanup spray after the exploit) | https://github.com/Buzbee/Buzbee3 | 0 | 0| 
 | 20210824T23:18:15Z | Null | https://github.com/TheCrazzXz/Exploits-Lab | 0 | 1| 
 | 20210824T23:18:08Z | Patch for Waterfall to improve performance during attacks and fix memory issues. | https://github.com/2lstudios-mc/FlameCord | 66 | 35| 
@@ -140,6 +140,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210825T00:19:52Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 22 | 9| 
 | 20210824T23:52:42Z | Pattern Fuzzing for Worst-Case Algorithmic Complexity using Program Synthesis | https://github.com/MrVPlusOne/Singularity | 13 | 0| 
 | 20210824T23:29:09Z | 32-bit x86 OS capable of running console user application. | https://github.com/scopeInfinity/FuzzyOS | 0 | 0| 
 | 20210824T23:17:05Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1033 | 112| 
@@ -149,7 +150,6 @@
 | 20210824T22:25:02Z | Null | https://github.com/Dismas2282/fuzzy-parakeet | 0 | 0| 
 | 20210824T22:04:40Z | Comparison of Go%s fuzzer beta (https://blog.golang.org/fuzz-beta) with libfuzzer. Work in progress. Warning: Comparing fuzzers is hard; results require careful interpretation. | https://github.com/stevenjohnstone/go-beta-fuzzer-vs-libfuzzer | 1 | 1| 
 | 20210824T22:03:39Z | SQL Query Examples  | https://github.com/sadilushka/FuzzyFactory | 0 | 0| 
-| 20210824T21:37:48Z | Null | https://github.com/Badshah0010/fuzzy-system | 0 | 0| 
 
 
 
