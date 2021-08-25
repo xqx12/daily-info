@@ -28,7 +28,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210825T04:26:10Z | CVE-2021-39512 | Unauthenticated CSRF Account TakeOver in BigTreeCMS v4.4.14 | https://github.com/guusec/CVE-2021-39512-BigTreeCMS-v4.4.14-AccountTakeOver | | 
+| 20210825T04:26:10Z | CVE-2021-39512 | Unauthenticated CSRF Account TakeOver in BigTreeCMS v4.4.14 | https://github.com/guusec/CVE-2021-39512-BigTreeCMS-v4.4.14-AccountTakeOver | 未查询到CVE信息| 
 | 20210825T01:00:52Z | cve-2021-3449 | CVE-2021-3449 OpenSSL denial-of-service exploit 👨🏻‍💻 | https://github.com/terorie/cve-2021-3449 | An OpenSSL TLS server may crash if sent a maliciously crafted renegotiation ClientHello message from a client. If a TLSv1.2 renegotiation ClientHello omits the signature_algorithms extension (where it was present in the initial ClientHello), but includes a signature_algorithms_cert extension then a NULL pointer dereference will result, leading to a crash and a denial of service attack. A server is only vulnerable if it has TLSv1.2 and renegotiation enabled (which is the default configuration). OpenSSL TLS clients are not impacted by this issue. All OpenSSL 1.1.1 versions are affected by this issue. Users of these versions should upgrade to OpenSSL 1.1.1k. OpenSSL 1.0.2 is not impacted by this issue. Fixed in OpenSSL 1.1.1k (Affected 1.1.1-1.1.1j).| 
 
 
@@ -49,6 +49,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210825T12:37:12Z | A metasploit module that allows users to generate *undetected* windows shells. | https://github.com/0x44F/metasploit-windows-ud-shell | 1 | 0| 
 | 20210825T12:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9920 | 1656| 
 | 20210825T12:06:21Z | Exploit-db (is NOT the official APP). | https://github.com/gaiththewolf/Exploitdb | 1 | 0| 
 | 20210825T12:02:58Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
@@ -58,7 +59,6 @@
 | 20210825T10:09:59Z | Exploit Huawei ONT device, only support r019. You need to compile kernel module getshell.ko for r018 or r017 by yourself. | https://github.com/0neday/Exploit-HS8545M-ONT | 5 | 4| 
 | 20210825T09:55:28Z | Null | https://github.com/asr511/exploitdb-bin-sploits-offsec | 0 | 0| 
 | 20210825T09:30:28Z | go-firebase-exploit or gfe is a tool for exploiting insecure firebase databases | https://github.com/fadhilthomas/go-firebase-exploit | 1 | 0| 
-| 20210825T09:10:46Z | This program uses a system call dependency graph to detect malware and analyze their behavior. First, the software under examination is executed and system calls are extracted. A dependency graph is built from these system calls and a set of features for each software is extracted to specify the software behavior. A feature selection method is implemented to reduce the number of features by clustering them. Machine learning algorithms such as Decision Tree, Random Forest, K-Nearest Neighbors, Support Vector Machines, and Neural Networks are exploited to build two prediction models. The first model is a two-class model that classifies software into malware and regular software. The second model is a multi-class model, which identifies the type of malware, in addition to classifying the software to malware and regular software. These two models are evaluated using data collected by Fredrickson and et.al. | https://github.com/MahsaSinaei/Malware-detection-by-system-call-graph-using-Machine-Learning | 0 | 0| 
 
 
 # backdoor on Github 推荐
