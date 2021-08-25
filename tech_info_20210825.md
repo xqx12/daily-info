@@ -49,6 +49,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210825T12:44:50Z | Use a system call dependency graph to detect malware and analyze their behavior. The system calls are extracted and collected by Fredrickson and et al.[1] it contains two sets of benchmarks: the malware and the regular software set. The malware set comprises 2631 samples pre-classified into 48 families and 11 types. The regular software set comprises 35 samples. A dependency graph is built from these system calls and a set of features for each software is extracted to specify the software behavior. A feature selection method is implemented to reduce the number of features by clustering them. Machine learning algorithms such as Decision Tree, Random Forest, K-Nearest Neighbors, Support Vector Machines, and Neural Networks are exploited to build two prediction models. The first model is a two-class model that classifies software into malware and regular software. The second model is a multi-class model, which identifies the type of malware, in addition to classifying the software to malware and regular software.  [1] Matt Fredrikson, Somesh Jha, Mihai Christodorescu, Reiner Sailer, and Xifeng Yan. Synthesizing near-optimal malware specifications from suspicious behaviors. In Security and Privacy (SP), 2010 IEEE Symposium on, pages 45–60. IEEE, 2010.  | https://github.com/MahsaSinaei/Malware-detection-by-system-call-grap-husing-Machine-Learning | 0 | 0| 
 | 20210825T12:37:12Z | A metasploit module that allows users to generate *undetected* windows shells. | https://github.com/0x44F/metasploit-windows-ud-shell | 1 | 0| 
 | 20210825T12:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9920 | 1656| 
 | 20210825T12:06:21Z | Exploit-db (is NOT the official APP). | https://github.com/gaiththewolf/Exploitdb | 1 | 0| 
@@ -58,7 +59,6 @@
 | 20210825T11:09:26Z | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | 239 | 41| 
 | 20210825T10:09:59Z | Exploit Huawei ONT device, only support r019. You need to compile kernel module getshell.ko for r018 or r017 by yourself. | https://github.com/0neday/Exploit-HS8545M-ONT | 5 | 4| 
 | 20210825T09:55:28Z | Null | https://github.com/asr511/exploitdb-bin-sploits-offsec | 0 | 0| 
-| 20210825T09:30:28Z | go-firebase-exploit or gfe is a tool for exploiting insecure firebase databases | https://github.com/fadhilthomas/go-firebase-exploit | 1 | 0| 
 
 
 # backdoor on Github 推荐
