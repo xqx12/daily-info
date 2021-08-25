@@ -84,13 +84,13 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210825T01:03:08Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210825T01:00:52Z | CVE-2021-3449 OpenSSL denial-of-service exploit 👨🏻‍💻 | https://github.com/terorie/cve-2021-3449 | 205 | 38| 
 | 20210825T00:57:10Z | This tool compares a targets patch levels against the Microsoft vulnerability database in order to detect potential missing patches on the target. It also notifies the user if there are public exploits and Metasploit modules available for the missing bulletins. | https://github.com/AonCyberLabs/Windows-Exploit-Suggester | 2868 | 862| 
 | 20210825T00:52:26Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 21 | 13| 
 | 20210825T00:50:57Z | go-firebase-exploit or gfe is a tool for exploiting insecure firebase databases. | https://github.com/fadhilthomas/go-firebase-exploit | 1 | 0| 
 | 20210825T00:11:05Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 3898 | 561| 
 | 20210825T00:10:14Z | Null | https://github.com/brainstorming423/exploits | 0 | 0| 
-| 20210825T00:03:22Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210824T23:34:58Z | PS4 Exploit 7.55 (Add additional cleanup spray after the exploit) | https://github.com/Buzbee/Buzbee3 | 0 | 0| 
 | 20210824T23:18:15Z | Null | https://github.com/TheCrazzXz/Exploits-Lab | 0 | 1| 
 | 20210824T23:18:08Z | Patch for Waterfall to improve performance during attacks and fix memory issues. | https://github.com/2lstudios-mc/FlameCord | 66 | 35| 
@@ -114,6 +114,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210825T01:04:49Z | SymQEMU: Compilation-based symbolic execution for binaries | https://github.com/eurecom-s3/symqemu | 161 | 20| 
 | 20210824T21:00:15Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2432 | 361| 
 | 20210824T18:10:29Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 156 | 34| 
 | 20210824T05:19:26Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 457 | 69| 
@@ -122,7 +123,6 @@
 | 20210821T07:05:09Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1877 | 389| 
 | 20210820T14:31:42Z | A symbolic execution engine which works on a subset of RISC-V (compiled from a subset of C). | https://github.com/aabyaneh/ase_artifact | 0 | 0| 
 | 20210820T08:11:06Z | A toy symbolic execution engine, supporting the blog article ... | https://github.com/synacktiv/toy-wasm-symbexp | 8 | 2| 
-| 20210819T02:39:34Z | SymQEMU: Compilation-based symbolic execution for binaries | https://github.com/eurecom-s3/symqemu | 160 | 20| 
 | 20210818T22:57:20Z | FuzzBALL: Vine-based Binary Symbolic Execution | https://github.com/bitblaze-fuzzball/fuzzball | 204 | 52| 
 
 
