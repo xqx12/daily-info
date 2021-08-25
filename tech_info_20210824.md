@@ -92,7 +92,6 @@
 | --- | --- | --- | --- | ---| 
 | 20210824T23:52:42Z | Pattern Fuzzing for Worst-Case Algorithmic Complexity using Program Synthesis | https://github.com/MrVPlusOne/Singularity | 13 | 0| 
 | 20210824T23:29:09Z | 32-bit x86 OS capable of running console user application. | https://github.com/scopeInfinity/FuzzyOS | 0 | 0| 
-| 20210824T23:17:05Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1033 | 112| 
 | 20210824T22:49:17Z | Website for Goryeo Guy | https://github.com/ScoutYes/fuzzy-spoon | 0 | 0| 
 | 20210824T22:26:01Z | Find the ideal fuzz targets in a Rust codebase | https://github.com/trailofbits/siderophile | 119 | 9| 
 | 20210824T22:25:38Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6572 | 1343| 
@@ -100,6 +99,7 @@
 | 20210824T22:04:40Z | Comparison of Go%s fuzzer beta (https://blog.golang.org/fuzz-beta) with libfuzzer. Work in progress. Warning: Comparing fuzzers is hard; results require careful interpretation. | https://github.com/stevenjohnstone/go-beta-fuzzer-vs-libfuzzer | 1 | 1| 
 | 20210824T22:03:39Z | SQL Query Examples  | https://github.com/sadilushka/FuzzyFactory | 0 | 0| 
 | 20210824T21:37:48Z | Null | https://github.com/Badshah0010/fuzzy-system | 0 | 0| 
+| 20210824T21:19:14Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 
 
 
