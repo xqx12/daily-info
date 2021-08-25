@@ -140,16 +140,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210825T00:52:11Z | Null | https://github.com/hzhou07/AutoFuzzCore | 0 | 0| 
+| 20210825T00:51:34Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 22 | 9| 
 | 20210825T00:46:47Z | Null | https://github.com/Ubisam-Project-MASIDU/FuzzStoryWorld | 0 | 0| 
 | 20210825T00:36:01Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1033 | 112| 
-| 20210825T00:19:52Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 22 | 9| 
 | 20210824T23:52:42Z | Pattern Fuzzing for Worst-Case Algorithmic Complexity using Program Synthesis | https://github.com/MrVPlusOne/Singularity | 13 | 0| 
 | 20210824T23:29:09Z | 32-bit x86 OS capable of running console user application. | https://github.com/scopeInfinity/FuzzyOS | 0 | 0| 
 | 20210824T22:49:17Z | Website for Goryeo Guy | https://github.com/ScoutYes/fuzzy-spoon | 0 | 0| 
 | 20210824T22:26:01Z | Find the ideal fuzz targets in a Rust codebase | https://github.com/trailofbits/siderophile | 119 | 9| 
 | 20210824T22:25:38Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6572 | 1343| 
 | 20210824T22:25:02Z | Null | https://github.com/Dismas2282/fuzzy-parakeet | 0 | 0| 
-| 20210824T22:04:40Z | Comparison of Go%s fuzzer beta (https://blog.golang.org/fuzz-beta) with libfuzzer. Work in progress. Warning: Comparing fuzzers is hard; results require careful interpretation. | https://github.com/stevenjohnstone/go-beta-fuzzer-vs-libfuzzer | 1 | 1| 
 
 
 
