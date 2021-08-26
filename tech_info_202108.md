@@ -140,6 +140,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210826T00:53:29Z | Null | https://github.com/epsonik/FuzzyDescV2 | 0 | 0| 
 | 20210826T00:45:44Z | Null | https://github.com/Ubisam-Project-MASIDU/FuzzStoryWorld | 0 | 0| 
 | 20210826T00:33:20Z | .so fuzzing sample. | https://github.com/verifsec/pathcov | 0 | 0| 
 | 20210826T00:15:12Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 22 | 9| 
@@ -149,7 +150,6 @@
 | 20210825T23:29:17Z | 32-bit x86 OS capable of running console user application. | https://github.com/scopeInfinity/FuzzyOS | 1 | 0| 
 | 20210825T22:47:23Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6576 | 1344| 
 | 20210825T22:29:34Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2001 | 397| 
-| 20210825T22:23:02Z | Null | https://github.com/AdaLogics/fuzz-headers | 1 | 0| 
 
 
 
