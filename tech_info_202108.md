@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210825T19:26:24Z | CVE-2021-3490 | Null | https://github.com/chompie1337/Linux_LPE_eBPF_CVE-2021-3490 | | 
+| 20210825T19:26:24Z | CVE-2021-3490 | Null | https://github.com/chompie1337/Linux_LPE_eBPF_CVE-2021-3490 | The eBPF ALU32 bounds tracking for bitwise ops (AND, OR and XOR) in the Linux kernel did not properly update 32-bit bounds, which could be turned into out of bounds reads and writes in the Linux kernel and therefore, arbitrary code execution. This issue was fixed via commit 049c4e13714e (%bpf: Fix alu32 const subreg bound tracking on bitwise operations%) (v5.13-rc4) and backported to the stable kernels in v5.12.4, v5.11.21, and v5.10.37. The AND/OR issues were introduced by commit 3f50f132d840 (%bpf: Verifier, do explicit ALU32 bounds tracking%) (5.7-rc1) and the XOR variant was introduced by 2921c90d4718 (%bpf:Fix a verifier failure with xor%) ( 5.10-rc1).| 
 | 20210825T17:41:16Z | CVE-2021-39475 | Found multiple XSS vulnerabilities within PhoenixCart 1.0.8.0 | https://github.com/W4RCL0UD/CVE-2021-39475 | 未查询到CVE信息| 
 | 20210825T17:39:15Z | CVE-2021-39476 | Null | https://github.com/W4RCL0UD/CVE-2021-39476 | 未查询到CVE信息| 
 | 20210825T17:22:58Z | CVE-2021-37589 | Exploit to Virtua Software.  | https://github.com/LucaRibeiro/CVE-2021-37589 | 未查询到CVE信息| 
@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210826T00:18:10Z | %making games easier to exploit% | https://github.com/choke-dev/easierlua | 2 | 0| 
 | 20210826T00:02:59Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210825T23:44:28Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 3847 | 532| 
 | 20210825T23:41:37Z | Exploits that I have written either on my own or inspired by other POCs | https://github.com/VWolt/Other-Exploits | 0 | 0| 
@@ -93,7 +94,6 @@
 | 20210825T21:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9920 | 1656| 
 | 20210825T21:27:19Z | This repository contains codes of ICCV2021 paper: SO-Pose: Exploiting Self-Occlusion for Direct 6D Pose Estimation | https://github.com/shangbuhuan13/SO-Pose | 5 | 1| 
 | 20210825T20:58:58Z | Null | https://github.com/DevKitteny/exploits | 0 | 0| 
-| 20210825T20:56:51Z | Exploit-db (is NOT the official APP). | https://github.com/gaiththewolf/Exploitdb | 1 | 0| 
 
 
 # backdoor on Github 推荐
