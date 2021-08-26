@@ -99,7 +99,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210826T00:10:00Z | A Hidden and Undetectable Remote Access Tool written in C++ and Server in Python3 | https://github.com/Ryan-AW/Windows-Backdoor | 17 | 4| 
+| 20210826T00:13:14Z | A Hidden and Undetectable Remote Access Tool written in C++ and Server in Python3 | https://github.com/Ryan-AW/Windows-Backdoor | 17 | 4| 
 | 20210825T18:24:34Z |  Access ADB On Browsers (: | https://github.com/jxroot/adbwebkit | 2 | 0| 
 | 20210825T14:09:42Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 92 | 16| 
 | 20210825T13:49:20Z | Windoor is a Windows Backdoor that uses ssh to gain access to the windows machine.  | https://github.com/Talhamehar007/windoor-ssh | 0 | 0| 
@@ -140,6 +140,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210826T00:15:12Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 22 | 9| 
 | 20210826T00:07:32Z | Speech Fuzzer is a tool that can take individual words or phrases and apply mutations to them that mimic real life speech impairments and use these mutated inputs to test real world applications. | https://github.com/bhmurphy/speech-fuzzer | 0 | 0| 
 | 20210826T00:04:55Z | .so fuzzing sample. | https://github.com/verifsec/pathcov | 0 | 0| 
 | 20210825T23:36:13Z | JQF + Zest: Coverage-guided semantic fuzzing for Java. | https://github.com/rohanpadhye/JQF | 389 | 56| 
@@ -149,7 +150,6 @@
 | 20210825T22:29:34Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2001 | 397| 
 | 20210825T22:23:02Z | Null | https://github.com/AdaLogics/fuzz-headers | 1 | 0| 
 | 20210825T21:18:36Z | Set of tests for fuzzing engines | https://github.com/google/fuzzer-test-suite | 1208 | 264| 
-| 20210825T20:58:31Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 
 
 
