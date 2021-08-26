@@ -50,7 +50,7 @@
 | 20210825T17:41:16Z | CVE-2021-39475 | Found multiple XSS vulnerabilities within PhoenixCart 1.0.8.0 | https://github.com/W4RCL0UD/CVE-2021-39475 | 未查询到CVE信息| 
 | 20210825T17:39:15Z | CVE-2021-39476 | Null | https://github.com/W4RCL0UD/CVE-2021-39476 | 未查询到CVE信息| 
 | 20210825T17:22:58Z | CVE-2021-37589 | Exploit to Virtua Software.  | https://github.com/LucaRibeiro/CVE-2021-37589 | 未查询到CVE信息| 
-| 20210825T16:17:25Z | cve-2021-3449 | CVE-2021-3449 OpenSSL denial-of-service exploit 👨🏻‍💻 | https://github.com/terorie/cve-2021-3449 | An OpenSSL TLS server may crash if sent a maliciously crafted renegotiation ClientHello message from a client. If a TLSv1.2 renegotiation ClientHello omits the signature_algorithms extension (where it was present in the initial ClientHello), but includes a signature_algorithms_cert extension then a NULL pointer dereference will result, leading to a crash and a denial of service attack. A server is only vulnerable if it has TLSv1.2 and renegotiation enabled (which is the default configuration). OpenSSL TLS clients are not impacted by this issue. All OpenSSL 1.1.1 versions are affected by this issue. Users of these versions should upgrade to OpenSSL 1.1.1k. OpenSSL 1.0.2 is not impacted by this issue. Fixed in OpenSSL 1.1.1k (Affected 1.1.1-1.1.1j).| 
+| 20210825T16:17:25Z | cve-2021-3449 | CVE-2021-3449 OpenSSL denial-of-service exploit 👨🏻‍💻 | https://github.com/terorie/cve-2021-3449 | | 
 | 20210825T04:26:10Z | CVE-2021-39512 | Unauthenticated CSRF Account TakeOver in BigTreeCMS v4.4.14 | https://github.com/guusec/CVE-2021-39512-BigTreeCMS-v4.4.14-AccountTakeOver | 未查询到CVE信息| 
 | 20210824T10:52:01Z | CVE-2020-15368 | How to exploit a vulnerable windows driver. Exploit for AsrDrv104.sys | https://github.com/stong/CVE-2020-15368 | AsrDrv103.sys in the ASRock RGB Driver does not properly restrict access from user space, as demonstrated by triggering a triple fault via a request to zero CR3.| 
 | 20210824T08:44:13Z | CVE-2020-6308 | Exploit script for SAP Business Objects SSRF | https://github.com/TheMMMdev/CVE-2020-6308 | SAP BusinessObjects Business Intelligence Platform (Web Services) versions - 410, 420, 430, allows an unauthenticated attacker to inject arbitrary values as CMS parameters to perform lookups on the internal network which is otherwise not accessible externally. On successful exploitation, attacker can scan internal network to determine internal infrastructure and gather information for further attacks like remote file inclusion, retrieve server files, bypass firewall and force the vulnerable server to perform malicious requests, resulting in a Server-Side Request Forgery vulnerability.| 
@@ -129,7 +129,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210825T19:27:53Z | Code for NDSS 2021 Paper %Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses Against Federated Learning% | https://github.com/vrt1shjwlkr/NDSS21-Model-Poisoning | 19 | 4| 
+| 20210826T01:16:38Z | Code for NDSS 2021 Paper %Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses Against Federated Learning% | https://github.com/vrt1shjwlkr/NDSS21-Model-Poisoning | 20 | 4| 
 | 20210820T00:57:56Z | Original implementation of FlowPrint as in the NDSS %20 paper | https://github.com/Thijsvanede/FlowPrint | 56 | 19| 
 | 20210817T08:14:18Z | Code to run the evaluation of our %Obfuscated Access and Search Patterns in Searchable Encryption%, NDSS%21 | https://github.com/simon-oya/NDSS21-osse-evaluation | 3 | 1| 
 | 20210815T13:11:06Z | Code for NDSS% 19 paper:  A Systematic Framework to Generate Invariants for Anomaly Detection in Industrial Control Systems | https://github.com/cfeng783/NDSS19_InvariantRuleAD | 2 | 1| 
@@ -140,10 +140,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210826T01:14:14Z | Null | https://github.com/hashue/gh-fuzzyfinder | 0 | 0| 
-| 20210826T01:13:30Z | Null | https://github.com/Ubisam-Project-MASIDU/FuzzStoryWorld | 0 | 0| 
+| 20210826T01:16:06Z | Null | https://github.com/Ubisam-Project-MASIDU/FuzzStoryWorld | 0 | 0| 
+| 20210826T01:15:45Z | .so fuzzing sample. | https://github.com/verifsec/pathcov | 0 | 0| 
+| 20210826T01:15:25Z | Null | https://github.com/hashue/gh-fuzzyfinder | 0 | 0| 
 | 20210826T01:08:04Z | Generic plugin based web application security fuzzing for anomalies by Slándáil Research Limited | https://github.com/maK-/scanomaly | 10 | 1| 
-| 20210826T01:07:10Z | .so fuzzing sample. | https://github.com/verifsec/pathcov | 0 | 0| 
 | 20210826T00:58:11Z | Set of tests for fuzzing engines | https://github.com/google/fuzzer-test-suite | 1209 | 264| 
 | 20210826T00:53:29Z | Null | https://github.com/epsonik/FuzzyDescV2 | 0 | 0| 
 | 20210826T00:15:12Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 22 | 9| 
