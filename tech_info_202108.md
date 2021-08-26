@@ -140,6 +140,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210826T00:07:32Z | Speech Fuzzer is a tool that can take individual words or phrases and apply mutations to them that mimic real life speech impairments and use these mutated inputs to test real world applications. | https://github.com/bhmurphy/speech-fuzzer | 0 | 0| 
+| 20210826T00:04:55Z | .so fuzzing sample. | https://github.com/verifsec/pathcov | 0 | 0| 
 | 20210825T23:36:13Z | JQF + Zest: Coverage-guided semantic fuzzing for Java. | https://github.com/rohanpadhye/JQF | 389 | 56| 
 | 20210825T23:31:55Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210825T23:29:17Z | 32-bit x86 OS capable of running console user application. | https://github.com/scopeInfinity/FuzzyOS | 1 | 0| 
@@ -148,8 +150,6 @@
 | 20210825T22:23:02Z | Null | https://github.com/AdaLogics/fuzz-headers | 1 | 0| 
 | 20210825T21:18:36Z | Set of tests for fuzzing engines | https://github.com/google/fuzzer-test-suite | 1208 | 264| 
 | 20210825T20:58:31Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
-| 20210825T20:45:39Z | Fuzzinator Random Testing Framework | https://github.com/renatahodovan/fuzzinator | 178 | 38| 
-| 20210825T20:41:40Z | USENIX 2021 - Nyx: Greybox Hypervisor Fuzzing using Fast Snapshots and Affine Types | https://github.com/RUB-SysSec/Nyx | 1 | 0| 
 
 
 
