@@ -53,7 +53,7 @@
 | 20210826T04:35:34Z | CVE-2021-39377 | Null | https://github.com/security-n/CVE-2021-39377 | 未查询到CVE信息| 
 | 20210826T02:59:58Z | CVE-2021-30551 | my exp for chrome V8 CVE-2021-30551 | https://github.com/xmzyshypnc/CVE-2021-30551 | Type confusion in V8 in Google Chrome prior to 91.0.4472.101 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.| 
 | 20210826T02:25:15Z | CVE-2021-39281 | Documentation for cve-2021-39281 | https://github.com/grahamhelton/CVE-2021-39281 | 未查询到CVE信息| 
-| 20210826T02:09:11Z | CVE-2021-3441 | CVE-2021-3441 CVE Check is a python script to search targets for indicators of compromise to CVE-2021-3441 | https://github.com/tcbutler320/CVE-2021-3441-check | 未查询到CVE信息| 
+| 20210826T02:09:11Z | CVE-2021-3441 | CVE-2021-3441 CVE Check is a python script to search targets for indicators of compromise to CVE-2021-3441 | https://github.com/tcbutler320/CVE-2021-3441-check | | 
 | 20210825T17:41:16Z | CVE-2021-39475 | Found multiple XSS vulnerabilities within PhoenixCart 1.0.8.0 | https://github.com/W4RCL0UD/CVE-2021-39475 | 未查询到CVE信息| 
 | 20210825T17:39:15Z | CVE-2021-39476 | Null | https://github.com/W4RCL0UD/CVE-2021-39476 | 未查询到CVE信息| 
 
