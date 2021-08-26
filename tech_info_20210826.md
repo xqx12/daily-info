@@ -94,7 +94,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210826T12:02:44Z | USENIX 2021 - Nyx: Greybox Hypervisor Fuzzing using Fast Snapshots and Affine Types | https://github.com/RUB-SysSec/Nyx | 17 | 1| 
+| 20210826T12:09:23Z | USENIX 2021 - Nyx: Greybox Hypervisor Fuzzing using Fast Snapshots and Affine Types | https://github.com/RUB-SysSec/Nyx | 18 | 1| 
 | 20210826T11:57:44Z | NDSS 2020 - HYPER-CUBE: High-Dimensional Hypervisor Fuzzing | https://github.com/RUB-SysSec/Hypercube | 1 | 0| 
 | 20210826T11:51:38Z | Null | https://github.com/nhsd-exeter/dos-service-fuzzy-search-api | 1 | 0| 
 | 20210826T11:50:28Z | This is a tool for fuzzing XSS vulnerabilities. It%s based on genetic algorithm. | https://github.com/Timofey21/darlene | 4 | 0| 
