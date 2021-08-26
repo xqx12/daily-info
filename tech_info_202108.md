@@ -6,6 +6,14 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210826 | Pwn2Own Vancouver 2021 比赛上 Exchange Server 中间人劫持 RCE 漏洞分析 | https://srcincite.io/blog/2021/08/25/pwn2own-vancouver-2021-microsoft-exchange-server-remote-code-execution.html| 
+| 20210826 | Ghostscript Interpreter 9.50 版本 0Day 漏洞分析 | https://www.slideshare.net/neexemil/hotpics-2021| 
+| 20210826 | 利用 Frida 绕过各类 Windows 反调试的方法 | http://www.layakk.com/blog/practical-examples-with-fridafrida-vs-anti-debug-techniques-on-windows-ii/| 
+| 20210826 | Escape from chrome sandbox to root | https://vul.360.net/archives/217| 
+| 20210826 | APT 组织 SparklingGoblin 使用的 SideWalk 后门的分析 | https://www.welivesecurity.com/2021/08/24/sidewalk-may-be-as-dangerous-as-crosswalk/| 
+| 20210826 | TEMPEST 攻击 - 利用电源 LED 指示灯还原声音 | https://www.nassiben.com/glowworm-attack| 
+| 20210826 | 以在线购物为目标的 Magecart 组织利用 Recaptcha.tech 域名发起的攻击 | https://www.perimeterx.com/tech-blog/2021/evolution-of-a-magecart-attack-leveraging-recaptcha-tech-domain/| 
+| 20210826 | ghidra2frida - 为 Ghidra 静态分析工具写一个与 Frida 交互的工具，利用 Frida 动态分析的数据提升静态分析效果 | https://security.humanativaspa.it/ghidra2frida-the-new-bridge-between-ghidra-and-frida/| 
 | 20210825 | 智能合约语言 Solidity 的静态分析工具 | https://github.com/crytic/slither| 
 | 20210825 | Quantum Attack Resource Estimate: Using Shor’s Algorithm to Break RSA vs DH/DSA VS ECC | https://research.kudelskisecurity.com/2021/08/24/quantum-attack-resource-estimate-using-shors-algorithm-to-break-rsa-vs-dh-dsa-vs-ecc/| 
 | 20210825 | 医疗设备 B. Braun 输液泵被发现多个安全漏洞 | https://www.mcafee.com/blogs/enterprise/mcafee-enterprise-atr/mcafee-enterprise-atr-uncovers-vulnerabilities-in-globally-used-b-braun-infusion-pump/| 
@@ -18,50 +26,42 @@
 | 20210825 | Windows系统编程视频教程：基础入门知识。 | https://www.pentesteracademy.com/course?id=51| 
 | 20210825 | MESH: A Memory-Efficient Safe Heap for C/C++ | https://arxiv.org/abs/2108.08683| 
 | 20210824 | 俄罗斯 APT28 组织的所使用的新版本恶意软件的分析 | https://cybergeeks.tech/skinnyboy-apt28/| 
-| 20210824 | Snakes on a Domain - 一款 Python 实现的恶意软件加载器 | https://www.huntress.com/blog/snakes-on-a-domain-an-analysis-of-a-python-malware-loader| 
-| 20210824 | Uncovering Tetris – a Full Surveillance Kit Running in your Browser | https://imp0rtp3.wordpress.com/2021/08/12/tetris/| 
-| 20210824 | Windows 系统插入雷蛇鼠标后自动安装的 Synapse 组件可被利用实现本地提权 | https://securityaffairs.co/wordpress/121385/hacking/razer-synapse-zero-day.html?utm_source=feedly&utm_medium=rss&utm_campaign=razer-synapse-zero-day| 
-| 20210824 | 其他研究员为 Orange 的 Proxyshell 漏洞编写的 PoC | https://github.com/dmaasland/proxyshell-poc| 
-| 20210824 | 伊朗 Siamesekitten APT 组织分析报告，Siamesekitten 主要在中东和非洲一代活动 | https://www.clearskysec.com/wp-content/uploads/2021/08/Siamesekitten.pdf| 
-| 20210824 | kubescape - Kubernetes 部署环境安全检测工具 | https://github.com/armosec/kubescape| 
-| 20210824 | ipa-medit - 重打包 iOS App 内存搜索和内存修改工具 | https://github.com/aktsk/ipa-medit| 
-| 20210824 | 将 \Device\BootDevice 替换成符号链接，禁用 Windows Defender 的检测功能 | https://aptw.tf/2021/08/21/killing-defender.html| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210826 | Escape from chrome sandbox to root | https://vul.360.net/archives/217?continueFlag=b9e944728e53a56fa7ff39d24c55dc4a| 
+| 20210826 | Weaponizing Middleboxes for TCP Reflected Amplification | https://geneva.cs.umd.edu/posts/usenix21-weaponizing-censors/?continueFlag=b9e944728e53a56fa7ff39d24c55dc4a| 
+| 20210826 | [HTB] Admirer Writeup | https://mp.weixin.qq.com/s/8scaoLaiENuL_L5eLM7hYg| 
+| 20210826 | 面向开放域的无监督实体对齐 | https://mp.weixin.qq.com/s/gH1VNCUVT5Hd5lGaGvEO2w| 
 | 20210825 | 海量恶意样本下高性能 Yara 检测方案 | https://mp.weixin.qq.com/s/vtmrhjXzL3gj8m_1uwgtmw| 
 | 20210825 | learning-codeql: CodeQL Java 全网最全的中文学习资料 | https://github.com/SummerSec/learning-codeql| 
 | 20210825 | seed-emulator: A Python framework for creating emulation o... | https://github.com/seed-labs/seed-emulator| 
 | 20210825 | 浅谈云上攻防——对象存储服务访问策略评估机制研究 | https://mp.weixin.qq.com/s/ncWGrMsIAvh9HEK1QC5IGQ| 
 | 20210823 | SecWiki周刊（第390期) | https://www.sec-wiki.com/weekly/390| 
 | 20210823 | 过往可能低估了反射放大 DDoS 的风险 | https://mp.weixin.qq.com/s/feav2bcigQScbze4C5psSw| 
-| 20210823 | 面向开源软件的自动化漏洞数据采集与处理技术研究 | https://mp.weixin.qq.com/s/P9zQI7I2obCpov_LMIeKIw| 
-| 20210823 | 说说JAVA反序列化 | https://mp.weixin.qq.com/s/t2hMiPg0-qrgGIyysG9e_A| 
-| 20210822 | [HTB] Tabby Writeup | https://mp.weixin.qq.com/s/L4Vuz7R84WbZz5GAtkJabQ| 
-| 20210822 | 文本歧义在隐私政策知识图谱构建中的影响 | https://mp.weixin.qq.com/s/VjlIw0QtAuBZXEORotDrwA| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210826T01:22:11Z | CVE-2021-3490 | Null | https://github.com/chompie1337/Linux_LPE_eBPF_CVE-2021-3490 | The eBPF ALU32 bounds tracking for bitwise ops (AND, OR and XOR) in the Linux kernel did not properly update 32-bit bounds, which could be turned into out of bounds reads and writes in the Linux kernel and therefore, arbitrary code execution. This issue was fixed via commit 049c4e13714e (%bpf: Fix alu32 const subreg bound tracking on bitwise operations%) (v5.13-rc4) and backported to the stable kernels in v5.12.4, v5.11.21, and v5.10.37. The AND/OR issues were introduced by commit 3f50f132d840 (%bpf: Verifier, do explicit ALU32 bounds tracking%) (5.7-rc1) and the XOR variant was introduced by 2921c90d4718 (%bpf:Fix a verifier failure with xor%) ( 5.10-rc1).| 
+| 20210826T11:23:58Z | CVE-2021-3490 | Null | https://github.com/chompie1337/Linux_LPE_eBPF_CVE-2021-3490 | The eBPF ALU32 bounds tracking for bitwise ops (AND, OR and XOR) in the Linux kernel did not properly update 32-bit bounds, which could be turned into out of bounds reads and writes in the Linux kernel and therefore, arbitrary code execution. This issue was fixed via commit 049c4e13714e (%bpf: Fix alu32 const subreg bound tracking on bitwise operations%) (v5.13-rc4) and backported to the stable kernels in v5.12.4, v5.11.21, and v5.10.37. The AND/OR issues were introduced by commit 3f50f132d840 (%bpf: Verifier, do explicit ALU32 bounds tracking%) (5.7-rc1) and the XOR variant was introduced by 2921c90d4718 (%bpf:Fix a verifier failure with xor%) ( 5.10-rc1).| 
+| 20210826T05:39:41Z | CVE-2020-8169 | Null | https://github.com/madhans23/curl-curl-7_64_1_CVE-2020-8169_noPatch | curl 7.62.0 through 7.70.0 is vulnerable to an information disclosure vulnerability that can lead to a partial password being leaked over the network and to the DNS server(s).| 
+| 20210826T04:44:03Z | CVE-2021-39379 | Null | https://github.com/security-n/CVE-2021-39379 | 未查询到CVE信息| 
+| 20210826T04:40:46Z | CVE-2021-39378 | Null | https://github.com/security-n/CVE-2021-39378 | 未查询到CVE信息| 
+| 20210826T04:35:34Z | CVE-2021-39377 | Null | https://github.com/security-n/CVE-2021-39377 | 未查询到CVE信息| 
+| 20210826T02:59:58Z | CVE-2021-30551 | my exp for chrome V8 CVE-2021-30551 | https://github.com/xmzyshypnc/CVE-2021-30551 | Type confusion in V8 in Google Chrome prior to 91.0.4472.101 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.| 
+| 20210826T02:25:15Z | CVE-2021-39281 | Documentation for cve-2021-39281 | https://github.com/grahamhelton/CVE-2021-39281 | 未查询到CVE信息| 
+| 20210826T02:09:11Z | CVE-2021-3441 | CVE-2021-3441 CVE Check is a python script to search targets for indicators of compromise to CVE-2021-3441 | https://github.com/tcbutler320/CVE-2021-3441-check | 未查询到CVE信息| 
 | 20210825T17:41:16Z | CVE-2021-39475 | Found multiple XSS vulnerabilities within PhoenixCart 1.0.8.0 | https://github.com/W4RCL0UD/CVE-2021-39475 | 未查询到CVE信息| 
 | 20210825T17:39:15Z | CVE-2021-39476 | Null | https://github.com/W4RCL0UD/CVE-2021-39476 | 未查询到CVE信息| 
-| 20210825T17:22:58Z | CVE-2021-37589 | Exploit to Virtua Software.  | https://github.com/LucaRibeiro/CVE-2021-37589 | 未查询到CVE信息| 
-| 20210825T16:17:25Z | cve-2021-3449 | CVE-2021-3449 OpenSSL denial-of-service exploit 👨🏻‍💻 | https://github.com/terorie/cve-2021-3449 | An OpenSSL TLS server may crash if sent a maliciously crafted renegotiation ClientHello message from a client. If a TLSv1.2 renegotiation ClientHello omits the signature_algorithms extension (where it was present in the initial ClientHello), but includes a signature_algorithms_cert extension then a NULL pointer dereference will result, leading to a crash and a denial of service attack. A server is only vulnerable if it has TLSv1.2 and renegotiation enabled (which is the default configuration). OpenSSL TLS clients are not impacted by this issue. All OpenSSL 1.1.1 versions are affected by this issue. Users of these versions should upgrade to OpenSSL 1.1.1k. OpenSSL 1.0.2 is not impacted by this issue. Fixed in OpenSSL 1.1.1k (Affected 1.1.1-1.1.1j).| 
-| 20210825T04:26:10Z | CVE-2021-39512 | Unauthenticated CSRF Account TakeOver in BigTreeCMS v4.4.14 | https://github.com/guusec/CVE-2021-39512-BigTreeCMS-v4.4.14-AccountTakeOver | 未查询到CVE信息| 
-| 20210824T10:52:01Z | CVE-2020-15368 | How to exploit a vulnerable windows driver. Exploit for AsrDrv104.sys | https://github.com/stong/CVE-2020-15368 | AsrDrv103.sys in the ASRock RGB Driver does not properly restrict access from user space, as demonstrated by triggering a triple fault via a request to zero CR3.| 
-| 20210824T08:44:13Z | CVE-2020-6308 | Exploit script for SAP Business Objects SSRF | https://github.com/TheMMMdev/CVE-2020-6308 | SAP BusinessObjects Business Intelligence Platform (Web Services) versions - 410, 420, 430, allows an unauthenticated attacker to inject arbitrary values as CMS parameters to perform lookups on the internal network which is otherwise not accessible externally. On successful exploitation, attacker can scan internal network to determine internal infrastructure and gather information for further attacks like remote file inclusion, retrieve server files, bypass firewall and force the vulnerable server to perform malicious requests, resulting in a Server-Side Request Forgery vulnerability.| 
-| 20210824T04:59:15Z | CVE-2021-30551 | my exp for chrome V8 CVE-2021-30551 | https://github.com/xmzyshypnc/CVE-2021-30551 | Type confusion in V8 in Google Chrome prior to 91.0.4472.101 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.| 
-| 20210823T21:49:01Z | CVE-2021- | Remote Code Execution at Rittal | https://github.com/asang17/CVE-2021-RCE | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210825T15:10:27Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2653 | 68| 
+| 20210826T11:28:19Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2656 | 68| 
 | 20210825T11:30:19Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 220 | 36| 
 | 20210825T11:27:00Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 172 | 19| 
 | 20210825T09:21:22Z | A RISC-V RV32 virtual prototype based on riscv-vp with symbolic execution support | https://github.com/agra-uni-bremen/symex-vp | 2 | 0| 
@@ -84,31 +84,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210826T01:40:17Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 336 | 52| 
-| 20210826T01:36:04Z | Null | https://github.com/RAYTRAClNG/Exploits | 0 | 0| 
-| 20210826T01:03:06Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
-| 20210826T00:52:26Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 21 | 13| 
-| 20210826T00:19:54Z | %making games easier to exploit% | https://github.com/choke-dev/easierlua | 2 | 0| 
-| 20210825T23:44:28Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 3847 | 532| 
-| 20210825T23:41:37Z | Exploits that I have written either on my own or inspired by other POCs | https://github.com/VWolt/Other-Exploits | 0 | 0| 
-| 20210825T23:27:21Z | Root shell exploit for several Xiaomi routers: 4A Gigabit, 4A 100M, 4, 4C, 3Gv2, 4Q, miWifi 3C... | https://github.com/acecilia/OpenWRTInvasion | 510 | 108| 
-| 20210825T23:20:00Z | Null | https://github.com/smokeroots/EXPLOIT-BUFFER-OVERFLOW | 0 | 0| 
-| 20210825T21:52:53Z | A series of CTF/hacking challenge solutions for binary exploitation(or pwn)/reverse engineering/vulnerability research/memory corruption(or whatever term you use) | https://github.com/docfate111/binary_exploitation | 0 | 0| 
+| 20210826T11:52:20Z | NOTES AND EXPLOITS | https://github.com/NITIN911/BOUNTY_HUNTER-HACK-THE-BOX | 0 | 0| 
+| 20210826T11:45:36Z | My notes from doing https://exploit.education/nebula/ | https://github.com/cgolian/nebula-notes | 0 | 0| 
+| 20210826T11:06:22Z | Some files for information security exploits | https://github.com/renatus-cartesius/infosec | 0 | 0| 
+| 20210826T11:02:59Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
+| 20210826T10:38:14Z | Null | https://github.com/asr511/windows-kernel-exploits | 0 | 0| 
+| 20210826T10:30:20Z | my exploits for HEVD on win10 Home 20H2 19042.1165 | https://github.com/AravGarg/HEVD-myexploits | 0 | 0| 
+| 20210826T10:20:17Z |  Tool for post exploitation of any machine / Dynamic encrypted remote command line | https://github.com/prasannan-robots/Dynamic_command | 1 | 0| 
+| 20210826T10:12:42Z | Writeups on my TryHackMe adventures! | https://github.com/Sma-Das/TryHackMe | 6 | 0| 
+| 20210826T09:55:29Z | A Paid Roblox Exploit Hub | https://github.com/I2345/FelixHub | 0 | 0| 
+| 20210826T09:44:13Z | Octagon is a fully fledged modular server sided anti exploit designed to detect many exploits reliably without interrupting user experience.  | https://github.com/SilentsReplacement/Octagon | 5 | 3| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210826T10:33:46Z | 100% Undetectable NodeJS reverse shell backdoor virus that autoruns on startup. | https://github.com/I2rys/NRSBackdoor | 1 | 0| 
+| 20210826T10:19:02Z | pybotnet -   A Python Library for building Botnet , Trojan or BackDoor for windows and linux with Telegram control panel  | https://github.com/onionj/pybotnet | 13 | 8| 
+| 20210826T09:32:59Z | Min backdoor | https://github.com/XmXTheDev/backdoor | 0 | 0| 
+| 20210826T09:17:12Z | Python malware trojan that was written in educational purposes only. It take your data and give remote access to your PC. Now only with VK. Later will add HTTP/TELEGRAM. | https://github.com/kirillzhosul/python-malware-trojan | 5 | 0| 
+| 20210826T03:55:16Z | python backdoor | https://github.com/brookelee1/python-backdoor | 1 | 0| 
+| 20210826T02:31:03Z | Sample backdoor with python | https://github.com/aaron-padilla-14/Backdoor-with-python | 0 | 0| 
+| 20210826T02:24:38Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 93 | 16| 
 | 20210826T01:38:23Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 289 | 54| 
 | 20210826T00:13:14Z | A Hidden and Undetectable Remote Access Tool written in C++ and Server in Python3 | https://github.com/Ryan-AW/Windows-Backdoor | 17 | 4| 
 | 20210825T18:24:34Z |  Access ADB On Browsers (: | https://github.com/jxroot/adbwebkit | 2 | 0| 
-| 20210825T14:09:42Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 92 | 16| 
-| 20210825T13:49:20Z | Windoor is a Windows Backdoor that uses ssh to gain access to the windows machine.  | https://github.com/Talhamehar007/windoor-ssh | 0 | 0| 
-| 20210825T11:16:00Z | Keeping it simple - PHP backdoors. | https://github.com/F-Masood/php-backdoors | 0 | 0| 
-| 20210825T11:14:10Z | Mini Shell PDI Perjuangan | https://github.com/Rzzky/PDIP-Shell-Backdoor | 0 | 0| 
-| 20210825T09:25:47Z | Applying backdoor attacks to BadNet on MNIST and ResNet on CIFAR10 (for personal use). | https://github.com/vtu81/backdoor_attack | 0 | 0| 
-| 20210825T05:36:42Z | Golang package for pentest | https://github.com/iIIusi0n/backkit | 3 | 0| 
-| 20210825T03:51:54Z | 0.9 | https://github.com/Notme11/LeuxBackdoor | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -129,6 +129,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210826T11:57:44Z | NDSS 2020 - HYPER-CUBE: High-Dimensional Hypervisor Fuzzing | https://github.com/RUB-SysSec/Hypercube | 1 | 0| 
 | 20210826T01:16:38Z | Code for NDSS 2021 Paper %Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses Against Federated Learning% | https://github.com/vrt1shjwlkr/NDSS21-Model-Poisoning | 20 | 4| 
 | 20210820T00:57:56Z | Original implementation of FlowPrint as in the NDSS %20 paper | https://github.com/Thijsvanede/FlowPrint | 56 | 19| 
 | 20210817T08:14:18Z | Code to run the evaluation of our %Obfuscated Access and Search Patterns in Searchable Encryption%, NDSS%21 | https://github.com/simon-oya/NDSS21-osse-evaluation | 3 | 1| 
@@ -140,16 +141,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210826T01:46:08Z | Null | https://github.com/Ubisam-Project-MASIDU/FuzzStoryWorld | 0 | 0| 
-| 20210826T01:44:39Z | .so fuzzing sample. | https://github.com/verifsec/pathcov | 0 | 0| 
-| 20210826T01:38:47Z | Null | https://github.com/epsonik/FuzzyDescV2 | 0 | 0| 
-| 20210826T01:28:27Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 33118 | 17204| 
-| 20210826T01:28:05Z | Null | https://github.com/hashue/gh-fuzzyclone | 0 | 0| 
-| 20210826T01:25:07Z | Null | https://github.com/westterrehaute99/fuzzy-goggles | 0 | 0| 
-| 20210826T01:15:25Z | Null | https://github.com/hashue/gh-fuzzyfinder | 0 | 0| 
-| 20210826T01:08:04Z | Generic plugin based web application security fuzzing for anomalies by Slándáil Research Limited | https://github.com/maK-/scanomaly | 10 | 1| 
-| 20210826T00:58:11Z | Set of tests for fuzzing engines | https://github.com/google/fuzzer-test-suite | 1209 | 264| 
-| 20210826T00:15:12Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 22 | 9| 
+| 20210826T11:57:46Z | USENIX 2021 - Nyx: Greybox Hypervisor Fuzzing using Fast Snapshots and Affine Types | https://github.com/RUB-SysSec/Nyx | 16 | 1| 
+| 20210826T11:57:44Z | NDSS 2020 - HYPER-CUBE: High-Dimensional Hypervisor Fuzzing | https://github.com/RUB-SysSec/Hypercube | 1 | 0| 
+| 20210826T11:51:38Z | Null | https://github.com/nhsd-exeter/dos-service-fuzzy-search-api | 1 | 0| 
+| 20210826T11:50:28Z | This is a tool for fuzzing XSS vulnerabilities. It%s based on genetic algorithm. | https://github.com/Timofey21/darlene | 4 | 0| 
+| 20210826T11:47:46Z | Take the current implementation and turning a microservice architecture | https://github.com/ccesarrod/FuzzyMicrosrvices | 0 | 0| 
+| 20210826T11:43:41Z | Our solution for ICIAR 2018 Grand Challenge BACH dataset | https://github.com/subhankar01/fuzzyBACH | 2 | 0| 
+| 20210826T11:30:10Z | Fuzzing tool for the 14th institute | https://github.com/Radon10043/fuzzing-tool-14 | 0 | 2| 
+| 20210826T11:25:07Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 526 | 49| 
+| 20210826T11:16:46Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6578 | 1346| 
+| 20210826T10:59:00Z | Null | https://github.com/epsonik/FuzzyDescV2 | 0 | 0| 
 
 
 
