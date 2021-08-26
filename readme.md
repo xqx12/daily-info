@@ -52,6 +52,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210826T12:18:58Z | Moving Object Segmentation in 3D LiDAR Data: A Learning-based Approach Exploiting Sequential Data (RAL/IROS 2021) | https://github.com/PRBonn/LiDAR-MOS | 139 | 22| 
+| 20210826T12:11:49Z | XSS payloads for exploiting Markdown syntax | https://github.com/yousufislam/Markdown-XSS-Payloads | 0 | 0| 
 | 20210826T12:03:02Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210826T12:02:57Z | Exploit-db (is NOT the official APP). | https://github.com/gaiththewolf/Exploitdb | 1 | 0| 
 | 20210826T11:52:20Z | NOTES AND EXPLOITS | https://github.com/NITIN911/BOUNTY_HUNTER-HACK-THE-BOX | 0 | 0| 
@@ -60,8 +62,6 @@
 | 20210826T10:38:14Z | Null | https://github.com/asr511/windows-kernel-exploits | 0 | 0| 
 | 20210826T10:30:20Z | my exploits for HEVD on win10 Home 20H2 19042.1165 | https://github.com/AravGarg/HEVD-myexploits | 0 | 0| 
 | 20210826T10:20:17Z |  Tool for post exploitation of any machine / Dynamic encrypted remote command line | https://github.com/prasannan-robots/Dynamic_command | 1 | 0| 
-| 20210826T10:12:42Z | Writeups on my TryHackMe adventures! | https://github.com/Sma-Das/TryHackMe | 6 | 0| 
-| 20210826T09:55:29Z | A Paid Roblox Exploit Hub | https://github.com/I2345/FelixHub | 0 | 0| 
 
 
 # backdoor on Github 推荐
