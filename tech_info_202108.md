@@ -141,6 +141,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210826T12:15:13Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 22 | 9| 
 | 20210826T12:13:38Z | USENIX 2021 - Nyx: Greybox Hypervisor Fuzzing using Fast Snapshots and Affine Types | https://github.com/RUB-SysSec/Nyx | 19 | 1| 
 | 20210826T12:11:03Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 179 | 36| 
 | 20210826T11:57:44Z | NDSS 2020 - HYPER-CUBE: High-Dimensional Hypervisor Fuzzing | https://github.com/RUB-SysSec/Hypercube | 1 | 0| 
@@ -150,7 +151,6 @@
 | 20210826T11:43:41Z | Our solution for ICIAR 2018 Grand Challenge BACH dataset | https://github.com/subhankar01/fuzzyBACH | 2 | 0| 
 | 20210826T11:30:10Z | Fuzzing tool for the 14th institute | https://github.com/Radon10043/fuzzing-tool-14 | 0 | 2| 
 | 20210826T11:25:07Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 526 | 49| 
-| 20210826T11:16:46Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6578 | 1346| 
 
 
 
