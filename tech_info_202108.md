@@ -99,6 +99,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210826T01:38:23Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 289 | 54| 
 | 20210826T00:13:14Z | A Hidden and Undetectable Remote Access Tool written in C++ and Server in Python3 | https://github.com/Ryan-AW/Windows-Backdoor | 17 | 4| 
 | 20210825T18:24:34Z |  Access ADB On Browsers (: | https://github.com/jxroot/adbwebkit | 2 | 0| 
 | 20210825T14:09:42Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 92 | 16| 
@@ -106,7 +107,6 @@
 | 20210825T11:16:00Z | Keeping it simple - PHP backdoors. | https://github.com/F-Masood/php-backdoors | 0 | 0| 
 | 20210825T11:14:10Z | Mini Shell PDI Perjuangan | https://github.com/Rzzky/PDIP-Shell-Backdoor | 0 | 0| 
 | 20210825T09:25:47Z | Applying backdoor attacks to BadNet on MNIST and ResNet on CIFAR10 (for personal use). | https://github.com/vtu81/backdoor_attack | 0 | 0| 
-| 20210825T08:24:31Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 289 | 54| 
 | 20210825T05:36:42Z | Golang package for pentest | https://github.com/iIIusi0n/backkit | 3 | 0| 
 | 20210825T03:51:54Z | 0.9 | https://github.com/Notme11/LeuxBackdoor | 1 | 0| 
 
