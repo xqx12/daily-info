@@ -48,7 +48,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210826T11:23:58Z | CVE-2021-3490 | Null | https://github.com/chompie1337/Linux_LPE_eBPF_CVE-2021-3490 | The eBPF ALU32 bounds tracking for bitwise ops (AND, OR and XOR) in the Linux kernel did not properly update 32-bit bounds, which could be turned into out of bounds reads and writes in the Linux kernel and therefore, arbitrary code execution. This issue was fixed via commit 049c4e13714e (%bpf: Fix alu32 const subreg bound tracking on bitwise operations%) (v5.13-rc4) and backported to the stable kernels in v5.12.4, v5.11.21, and v5.10.37. The AND/OR issues were introduced by commit 3f50f132d840 (%bpf: Verifier, do explicit ALU32 bounds tracking%) (5.7-rc1) and the XOR variant was introduced by 2921c90d4718 (%bpf:Fix a verifier failure with xor%) ( 5.10-rc1).| 
 | 20210826T05:39:41Z | CVE-2020-8169 | Null | https://github.com/madhans23/curl-curl-7_64_1_CVE-2020-8169_noPatch | curl 7.62.0 through 7.70.0 is vulnerable to an information disclosure vulnerability that can lead to a partial password being leaked over the network and to the DNS server(s).| 
-| 20210826T04:44:03Z | CVE-2021-39379 | Null | https://github.com/security-n/CVE-2021-39379 | | 
+| 20210826T04:44:03Z | CVE-2021-39379 | Null | https://github.com/security-n/CVE-2021-39379 | 未查询到CVE信息| 
 | 20210826T04:40:46Z | CVE-2021-39378 | Null | https://github.com/security-n/CVE-2021-39378 | 未查询到CVE信息| 
 | 20210826T04:35:34Z | CVE-2021-39377 | Null | https://github.com/security-n/CVE-2021-39377 | 未查询到CVE信息| 
 | 20210826T02:59:58Z | CVE-2021-30551 | my exp for chrome V8 CVE-2021-30551 | https://github.com/xmzyshypnc/CVE-2021-30551 | Type confusion in V8 in Google Chrome prior to 91.0.4472.101 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.| 
@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210826T11:28:19Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2656 | 68| 
+| 20210826T12:54:00Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2657 | 68| 
 | 20210825T11:30:19Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 220 | 36| 
 | 20210825T11:27:00Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 172 | 19| 
 | 20210825T09:21:22Z | A RISC-V RV32 virtual prototype based on riscv-vp with symbolic execution support | https://github.com/agra-uni-bremen/symex-vp | 2 | 0| 
@@ -84,6 +84,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210826T12:52:56Z | Use a system call dependency graph to detect malware and analyze their behavior. The system calls are extracted and collected by Fredrickson and et al.[1] it contains two sets of benchmarks: the malware and the regular software set. The malware set comprises 2631 samples pre-classified into 48 families and 11 types. The regular software set comprises 35 samples. A dependency graph is built from these system calls and a set of features for each software is extracted to specify the software behavior. A feature selection method is implemented to reduce the number of features by clustering them. Machine learning algorithms such as Decision Tree, Random Forest, K-Nearest Neighbors, Support Vector Machines, and Neural Networks are exploited to build two prediction models. The first model is a two-class model that classifies software into malware and regular software. The second model is a multi-class model, which identifies the type of malware, in addition to classifying the software to malware and regular software.  [1] Matt Fredrikson, Somesh Jha, Mihai Christodorescu, Reiner Sailer, and Xifeng Yan. Synthesizing near-optimal malware specifications from suspicious behaviors. In Security and Privacy (SP), 2010 IEEE Symposium on, pages 45–60. IEEE, 2010.  | https://github.com/MahsaSinaei/Malware-detection-by-system-call-graph-using-Machine-Learning | 0 | 0| 
+| 20210826T12:52:26Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 21 | 13| 
 | 20210826T12:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9923 | 1658| 
 | 20210826T12:28:24Z | Random one liner scripts for use in reversing, exploit development etc. | https://github.com/keremenci/OneLiners | 0 | 0| 
 | 20210826T12:18:58Z | Moving Object Segmentation in 3D LiDAR Data: A Learning-based Approach Exploiting Sequential Data (RAL/IROS 2021) | https://github.com/PRBonn/LiDAR-MOS | 139 | 22| 
@@ -92,8 +94,6 @@
 | 20210826T12:02:57Z | Exploit-db (is NOT the official APP). | https://github.com/gaiththewolf/Exploitdb | 1 | 0| 
 | 20210826T11:52:20Z | NOTES AND EXPLOITS | https://github.com/NITIN911/BOUNTY_HUNTER-HACK-THE-BOX | 0 | 0| 
 | 20210826T11:45:36Z | My notes from doing https://exploit.education/nebula/ | https://github.com/cgolian/nebula-notes | 0 | 0| 
-| 20210826T11:06:22Z | Some files for information security exploits | https://github.com/renatus-cartesius/infosec | 0 | 0| 
-| 20210826T10:38:14Z | Null | https://github.com/asr511/windows-kernel-exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -129,7 +129,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210826T12:38:35Z | NDSS 2020 - HYPER-CUBE: High-Dimensional Hypervisor Fuzzing | https://github.com/RUB-SysSec/Hypercube | 2 | 0| 
+| 20210826T12:54:28Z | NDSS 2020 - HYPER-CUBE: High-Dimensional Hypervisor Fuzzing | https://github.com/RUB-SysSec/Hypercube | 3 | 0| 
 | 20210826T01:16:38Z | Code for NDSS 2021 Paper %Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses Against Federated Learning% | https://github.com/vrt1shjwlkr/NDSS21-Model-Poisoning | 20 | 4| 
 | 20210820T00:57:56Z | Original implementation of FlowPrint as in the NDSS %20 paper | https://github.com/Thijsvanede/FlowPrint | 56 | 19| 
 | 20210817T08:14:18Z | Code to run the evaluation of our %Obfuscated Access and Search Patterns in Searchable Encryption%, NDSS%21 | https://github.com/simon-oya/NDSS21-osse-evaluation | 3 | 1| 
@@ -141,9 +141,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210826T12:54:28Z | NDSS 2020 - HYPER-CUBE: High-Dimensional Hypervisor Fuzzing | https://github.com/RUB-SysSec/Hypercube | 3 | 0| 
 | 20210826T12:51:13Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210826T12:48:30Z | USENIX 2021 - Nyx: Greybox Hypervisor Fuzzing using Fast Snapshots and Affine Types | https://github.com/RUB-SysSec/Nyx | 21 | 1| 
-| 20210826T12:38:35Z | NDSS 2020 - HYPER-CUBE: High-Dimensional Hypervisor Fuzzing | https://github.com/RUB-SysSec/Hypercube | 2 | 0| 
 | 20210826T12:15:13Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 22 | 9| 
 | 20210826T12:11:03Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 179 | 36| 
 | 20210826T11:51:38Z | Null | https://github.com/nhsd-exeter/dos-service-fuzzy-search-api | 1 | 0| 
