@@ -140,7 +140,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210826T01:26:24Z | Null | https://github.com/hashue/gh-fuzzyclone | 0 | 0| 
+| 20210826T01:28:27Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 33118 | 17204| 
+| 20210826T01:28:05Z | Null | https://github.com/hashue/gh-fuzzyclone | 0 | 0| 
 | 20210826T01:25:48Z | Null | https://github.com/Ubisam-Project-MASIDU/FuzzStoryWorld | 0 | 0| 
 | 20210826T01:25:07Z | Null | https://github.com/westterrehaute99/fuzzy-goggles | 0 | 0| 
 | 20210826T01:15:45Z | .so fuzzing sample. | https://github.com/verifsec/pathcov | 0 | 0| 
@@ -149,7 +150,6 @@
 | 20210826T00:58:11Z | Set of tests for fuzzing engines | https://github.com/google/fuzzer-test-suite | 1209 | 264| 
 | 20210826T00:53:29Z | Null | https://github.com/epsonik/FuzzyDescV2 | 0 | 0| 
 | 20210826T00:15:12Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 22 | 9| 
-| 20210826T00:07:32Z | Speech Fuzzer is a tool that can take individual words or phrases and apply mutations to them that mimic real life speech impairments and use these mutated inputs to test real world applications. | https://github.com/bhmurphy/speech-fuzzer | 0 | 0| 
 
 
 
