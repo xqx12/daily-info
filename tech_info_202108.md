@@ -6,6 +6,15 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210827 | 在 Reader 角色中滥用 Azure Logic Apps 访问敏感信息 | https://www.netspi.com/blog/technical/cloud-penetration-testing/illogical-apps-exploring-exploiting-azure-logic-apps/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+NetspiBlog+%28NetSPI+Blog%29| 
+| 20210827 | 利用 ROP 链绕过 Linux 内核的 Linux Kernel Runtime Guard（LKRG）保护特性 | https://a13xp0p0v.github.io/2021/08/25/lkrg-bypass.html| 
+| 20210827 | GDB 调试器的高级用法 | https://interrupt.memfault.com/blog/advanced-gdb| 
+| 20210827 | Nyx: Greybox Hypervisor Fuzzing using Fast Snapshots and Affine Types（Paper） | https://github.com/RUB-SysSec/Nyx| 
+| 20210827 | 利用 Trust Policy 访问模型的古老特性实现 AWS 的特权 | https://rzepsky.medium.com/aws-privilege-escalation-exploring-odd-features-of-the-trust-policy-7a970a32861| 
+| 20210827 | RC4 与 Salsa20 加密算法的逆向 | https://www.goggleheadedhacker.com/blog/post/reversing-crypto-functions| 
+| 20210827 | HITB 会议关于 Android 内核 UAF 漏洞利用的议题：The Art of Exploiting UAF by Ret2bpf in Android Kernel | https://conference.hitb.org/hitbsecconf2021sin/materials/D1T1%20-%20%20The%20Art%20of%20Exploiting%20UAF%20by%20Ret2bpf%20in%20Android%20Kernel%20-%20Xingyu%20Jin%20&%20Richard%20Neal.pdf| 
+| 20210827 | 来自 HITB 会议的议题：Make JDBC Attack Brilliant Again | https://conference.hitb.org/hitbsecconf2021sin/materials/D1T2%20-%20Make%20JDBC%20Attacks%20Brilliant%20Again%20-%20Xu%20Yuanzhen%20&%20Chen%20Hongkun.pdf| 
+| 20210827 | BlackHat USA 2021 洞察（三）：议题技术解读 | https://mp.weixin.qq.com/s/BCdN9KOFpCYUKQ_SNSgPPQ| 
 | 20210826 | Pwn2Own Vancouver 2021 比赛上 Exchange Server 中间人劫持 RCE 漏洞分析 | https://srcincite.io/blog/2021/08/25/pwn2own-vancouver-2021-microsoft-exchange-server-remote-code-execution.html| 
 | 20210826 | Ghostscript Interpreter 9.50 版本 0Day 漏洞分析 | https://www.slideshare.net/neexemil/hotpics-2021| 
 | 20210826 | 利用 Frida 绕过各类 Windows 反调试的方法 | http://www.layakk.com/blog/practical-examples-with-fridafrida-vs-anti-debug-techniques-on-windows-ii/| 
@@ -17,20 +26,14 @@
 | 20210825 | 智能合约语言 Solidity 的静态分析工具 | https://github.com/crytic/slither| 
 | 20210825 | Quantum Attack Resource Estimate: Using Shor’s Algorithm to Break RSA vs DH/DSA VS ECC | https://research.kudelskisecurity.com/2021/08/24/quantum-attack-resource-estimate-using-shors-algorithm-to-break-rsa-vs-dh-dsa-vs-ecc/| 
 | 20210825 | 医疗设备 B. Braun 输液泵被发现多个安全漏洞 | https://www.mcafee.com/blogs/enterprise/mcafee-enterprise-atr/mcafee-enterprise-atr-uncovers-vulnerabilities-in-globally-used-b-braun-infusion-pump/| 
-| 20210825 | Samsung S10+/S9 4.14 内核地址信息泄露漏洞分析 | https://ssd-disclosure.com/ssd-advisory-samsung-s10-s9-kernel-4-14-android-10-kernel-function-address-text-and-heap-address-information-leak/| 
-| 20210825 | 5.14 版本的 Linux 内核新增了一个 memfd_secret 系统调用，用于解决地址空间共享相关的安全问题。 | http://lwn.net/Articles/865256/| 
-| 20210825 | 利用符号执行工具 KLEE 为 Linux 内核的 Rust for Linux Repo 提供形式化验证支持 | https://project-oak.github.io/rust-verification-tools/2021/08/22/rust-on-linux-1.html| 
-| 20210825 | 昨天推送过 Windows 插入雷蛇鼠标可以实现 Windows EoP 的漏洞，之后有研究员发现赛睿（SteelSeries）外设也存在相同问题 | http://0xsp.com/security%20research%20&%20development%20(SRD)/local-administrator-is-not-just-with-razer-it-is-possible-for-all| 
-| 20210825 | 第三方重打包的 WhatsApp App 被发现嵌入 Triada 木马 | https://securelist.com/triada-trojan-in-whatsapp-mod/103679/| 
-| 20210825 | Google 研究员 Natalie 在 BlackHat 会议上对多款即时通讯 App 的远程漏洞的分析 | https://i.blackhat.com/USA21/Wednesday-Handouts/us-21-Can-You-Hear-Me-Now-Remote-Eavesdropping-Vulnerabilities-In-Mobile-Messaging-Applications.pdf| 
-| 20210825 | Windows系统编程视频教程：基础入门知识。 | https://www.pentesteracademy.com/course?id=51| 
-| 20210825 | MESH: A Memory-Efficient Safe Heap for C/C++ | https://arxiv.org/abs/2108.08683| 
-| 20210824 | 俄罗斯 APT28 组织的所使用的新版本恶意软件的分析 | https://cybergeeks.tech/skinnyboy-apt28/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210827 | 全球高级持续性威胁（APT）2021年中报告 | https://ti.qianxin.com/uploads/2021/08/26/67c584e9e1e86a8dc3f40801f05eb981.pdf| 
+| 20210827 | 车机硬件分析与固件提取 | https://mp.weixin.qq.com/s/IIqg3ePO6MNY-pxcpGYv1w| 
+| 20210827 | 通过漏洞预测改进漏洞修复决策 | https://mp.weixin.qq.com/s/LOBnwPsYMNfLg9nkeeMi-w| 
 | 20210826 | Escape from chrome sandbox to root | https://vul.360.net/archives/217?continueFlag=b9e944728e53a56fa7ff39d24c55dc4a| 
 | 20210826 | Weaponizing Middleboxes for TCP Reflected Amplification | https://geneva.cs.umd.edu/posts/usenix21-weaponizing-censors/?continueFlag=b9e944728e53a56fa7ff39d24c55dc4a| 
 | 20210826 | [HTB] Admirer Writeup | https://mp.weixin.qq.com/s/8scaoLaiENuL_L5eLM7hYg| 
@@ -38,16 +41,14 @@
 | 20210826 | HybridTestFramewrok: End to End testing of Web, API and Se... | https://github.com/dipjyotimetia/HybridTestFramewrok#setup--tools| 
 | 20210826 | windows10内核态提权方法汇总 | https://wonderkun.cc/2021/08/22/windows10%E5%86%85%E6%A0%B8%E6%80%81%E6%8F%90%E6%9D%83%E6%96%B9%E6%B3%95%E6%B1%87%E6%80%BB/| 
 | 20210826 | MSSQL数据库注入全方位利用 | https://www.anquanke.com/post/id/248896| 
-| 20210826 | Electron的openExternal可控利用点分析 | https://www.anquanke.com/post/id/251224| 
-| 20210826 | 祥云杯-WriteUp | https://mp.weixin.qq.com/s/EsLeJwmo0ylW_VDmHsW_gw| 
-| 20210825 | 海量恶意样本下高性能 Yara 检测方案 | https://mp.weixin.qq.com/s/vtmrhjXzL3gj8m_1uwgtmw| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210826T18:17:21Z | CVE-2020-16898 | A network detection package for CVE-2020-16898 (Windows TCP/IP Remote Code Execution Vulnerability) | https://github.com/corelight/CVE-2020-16898 | | 
-| 20210826T14:55:15Z | CVE-2020-15368 | How to exploit a vulnerable windows driver. Exploit for AsrDrv104.sys | https://github.com/stong/CVE-2020-15368 | | 
+| 20210827T08:27:41Z | cve-2021-3449 | CVE-2021-3449 OpenSSL denial-of-service exploit 👨🏻‍💻 | https://github.com/terorie/cve-2021-3449 | An OpenSSL TLS server may crash if sent a maliciously crafted renegotiation ClientHello message from a client. If a TLSv1.2 renegotiation ClientHello omits the signature_algorithms extension (where it was present in the initial ClientHello), but includes a signature_algorithms_cert extension then a NULL pointer dereference will result, leading to a crash and a denial of service attack. A server is only vulnerable if it has TLSv1.2 and renegotiation enabled (which is the default configuration). OpenSSL TLS clients are not impacted by this issue. All OpenSSL 1.1.1 versions are affected by this issue. Users of these versions should upgrade to OpenSSL 1.1.1k. OpenSSL 1.0.2 is not impacted by this issue. Fixed in OpenSSL 1.1.1k (Affected 1.1.1-1.1.1j).| 
+| 20210826T18:17:21Z | CVE-2020-16898 | A network detection package for CVE-2020-16898 (Windows TCP/IP Remote Code Execution Vulnerability) | https://github.com/corelight/CVE-2020-16898 | A remote code execution vulnerability exists when the Windows TCP/IP stack improperly handles ICMPv6 Router Advertisement packets, aka %Windows TCP/IP Remote Code Execution Vulnerability%.| 
+| 20210826T14:55:15Z | CVE-2020-15368 | How to exploit a vulnerable windows driver. Exploit for AsrDrv104.sys | https://github.com/stong/CVE-2020-15368 | AsrDrv103.sys in the ASRock RGB Driver does not properly restrict access from user space, as demonstrated by triggering a triple fault via a request to zero CR3.| 
 | 20210826T14:33:39Z | CVE-2021-3490 | Null | https://github.com/chompie1337/Linux_LPE_eBPF_CVE-2021-3490 | The eBPF ALU32 bounds tracking for bitwise ops (AND, OR and XOR) in the Linux kernel did not properly update 32-bit bounds, which could be turned into out of bounds reads and writes in the Linux kernel and therefore, arbitrary code execution. This issue was fixed via commit 049c4e13714e (%bpf: Fix alu32 const subreg bound tracking on bitwise operations%) (v5.13-rc4) and backported to the stable kernels in v5.12.4, v5.11.21, and v5.10.37. The AND/OR issues were introduced by commit 3f50f132d840 (%bpf: Verifier, do explicit ALU32 bounds tracking%) (5.7-rc1) and the XOR variant was introduced by 2921c90d4718 (%bpf:Fix a verifier failure with xor%) ( 5.10-rc1).| 
 | 20210826T13:01:48Z | 未知编号 | Null | https://github.com/BabyTeam1024/cve-nc-45.76.202.226-1237- | 未查询到CVE信息| 
 | 20210826T05:39:41Z | CVE-2020-8169 | Null | https://github.com/madhans23/curl-curl-7_64_1_CVE-2020-8169_noPatch | curl 7.62.0 through 7.70.0 is vulnerable to an information disclosure vulnerability that can lead to a partial password being leaked over the network and to the DNS server(s).| 
@@ -55,13 +56,12 @@
 | 20210826T04:40:46Z | CVE-2021-39378 | Null | https://github.com/security-n/CVE-2021-39378 | 未查询到CVE信息| 
 | 20210826T04:35:34Z | CVE-2021-39377 | Null | https://github.com/security-n/CVE-2021-39377 | 未查询到CVE信息| 
 | 20210826T02:59:58Z | CVE-2021-30551 | my exp for chrome V8 CVE-2021-30551 | https://github.com/xmzyshypnc/CVE-2021-30551 | Type confusion in V8 in Google Chrome prior to 91.0.4472.101 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.| 
-| 20210826T02:25:15Z | CVE-2021-39281 | Documentation for cve-2021-39281 | https://github.com/grahamhelton/CVE-2021-39281 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210827T01:47:13Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2660 | 68| 
+| 20210827T06:49:41Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2664 | 68| 
 | 20210826T15:17:11Z | A RISC-V RV32 virtual prototype based on riscv-vp with symbolic execution support | https://github.com/agra-uni-bremen/symex-vp | 4 | 1| 
 | 20210825T11:30:19Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 220 | 36| 
 | 20210825T11:27:00Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 172 | 19| 
@@ -76,9 +76,10 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210827T11:04:27Z | Null | https://github.com/Chanel-B/S2E-STUDENT-COURSE | 0 | 0| 
 | 20210826T14:19:17Z | S2E website (s2e.systems) | https://github.com/S2E2/s2e2.github.io | 0 | 0| 
 | 20210818T17:05:58Z | Null | https://github.com/Chanel-B/S2E-FINAL-PROJECT | 0 | 0| 
-| 20210811T20:16:36Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 146 | 36| 
+| 20210811T20:16:36Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 146 | 37| 
 | 20210810T08:32:24Z | Null | https://github.com/yuvalkirstain/s2e-coref | 12 | 5| 
 
 
@@ -115,22 +116,22 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210827T10:44:04Z | Symbolica%s open-source symbolic execution engine. | https://github.com/SymbolicaDev/Symbolica | 4 | 0| 
+| 20210827T08:18:35Z | It is a repository for conducting symbolic execution on nodejs automatically | https://github.com/zheli-1/nodejs-sym-harness | 0 | 0| 
 | 20210826T21:53:06Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1879 | 390| 
 | 20210826T17:39:48Z | Symbolic execution of LLVM IR with an engine written in Rust | https://github.com/PLSysSec/haybale | 325 | 16| 
 | 20210826T15:17:11Z | A RISC-V RV32 virtual prototype based on riscv-vp with symbolic execution support | https://github.com/agra-uni-bremen/symex-vp | 4 | 1| 
-| 20210826T13:31:30Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2436 | 361| 
+| 20210826T13:31:30Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2436 | 362| 
 | 20210826T03:16:09Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 458 | 69| 
 | 20210825T16:42:50Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 7 | 4| 
 | 20210825T14:24:57Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 17 | 3| 
-| 20210825T14:06:13Z | Symbolica%s open-source symbolic execution engine. | https://github.com/SymbolicaDev/Symbolica | 4 | 0| 
 | 20210825T01:04:49Z | SymQEMU: Compilation-based symbolic execution for binaries | https://github.com/eurecom-s3/symqemu | 161 | 20| 
-| 20210824T18:10:29Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 156 | 34| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210826T23:17:17Z | NDSS 2020 - HYPER-CUBE: High-Dimensional Hypervisor Fuzzing | https://github.com/RUB-SysSec/Hypercube | 7 | 0| 
+| 20210827T02:04:23Z | NDSS 2020 - HYPER-CUBE: High-Dimensional Hypervisor Fuzzing | https://github.com/RUB-SysSec/Hypercube | 8 | 0| 
 | 20210826T01:16:38Z | Code for NDSS 2021 Paper %Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses Against Federated Learning% | https://github.com/vrt1shjwlkr/NDSS21-Model-Poisoning | 20 | 4| 
 | 20210820T00:57:56Z | Original implementation of FlowPrint as in the NDSS %20 paper | https://github.com/Thijsvanede/FlowPrint | 56 | 19| 
 | 20210817T08:14:18Z | Code to run the evaluation of our %Obfuscated Access and Search Patterns in Searchable Encryption%, NDSS%21 | https://github.com/simon-oya/NDSS21-osse-evaluation | 3 | 1| 
@@ -142,16 +143,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210827T01:57:09Z | Null | https://github.com/Ubisam-Project-MASIDU/FuzzStoryWorld | 0 | 0| 
-| 20210827T01:56:52Z | Null | https://github.com/zdykstra/fuzzypkg | 13 | 1| 
-| 20210827T01:56:33Z | fuzz payload(持续更新) | https://github.com/kill02lc/fuzz-then-bypass-dict | 0 | 0| 
-| 20210827T01:41:48Z | Sound and Cost-effective Fuzzing of Stripped Binaries by Incremental and Stochastic Rewriting | https://github.com/ZhangZhuoSJTU/StochFuzz | 85 | 3| 
-| 20210827T01:41:46Z | Null | https://github.com/Hwangwoosam/fuzzing | 5 | 0| 
-| 20210827T01:33:51Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210827T01:31:46Z | Null | https://github.com/willy-smith/fuzzy-adventure | 0 | 0| 
-| 20210827T01:15:40Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1035 | 113| 
-| 20210827T01:08:19Z | 32-bit x86 OS capable of running console user application. | https://github.com/scopeInfinity/FuzzyOS | 1 | 0| 
-| 20210827T00:47:03Z | Null | https://github.com/Christopher880/fuzzy-rotary | 0 | 0| 
+| 20210827T11:45:18Z | Null | https://github.com/Kanzuxbdue/fuzzy-system | 0 | 0| 
+| 20210827T11:41:36Z | Official Keras implementation of IEEE JBHI 2021 paper: %Choquet Integral and Coalition Game-based Ensemble of Deep Learning Models for COVID-19 Screening from Chest X-ray Images% | https://github.com/subhankar01/Covid-Chestxray-lambda-fuzzy | 1 | 3| 
+| 20210827T11:29:23Z | MATLAB code for the paper titled %A Self-Adaptive Fuzzy Learning System for Streaming Data Prediction%. | https://github.com/Gu-X/Self-Adaptive-Fuzzy-Learning-System | 0 | 0| 
+| 20210827T11:17:58Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6580 | 1349| 
+| 20210827T11:05:14Z | Property-based grey-box fuzzing for Multicore OCaml | https://github.com/ocaml-multicore/parafuzz | 3 | 0| 
+| 20210827T11:01:22Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20210827T10:17:22Z | Fuzzing tool for the 14th institute | https://github.com/Radon10043/fuzzing-tool-14 | 0 | 2| 
+| 20210827T10:15:55Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1030 | 46| 
+| 20210827T10:08:37Z | Null | https://github.com/Jurmex3/fuzzy-vyn-lez | 0 | 0| 
+| 20210827T09:41:10Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 526 | 49| 
 
 
 
