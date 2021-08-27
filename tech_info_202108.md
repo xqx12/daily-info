@@ -55,7 +55,7 @@
 | 20210826T04:44:03Z | CVE-2021-39379 | Null | https://github.com/security-n/CVE-2021-39379 | 未查询到CVE信息| 
 | 20210826T04:40:46Z | CVE-2021-39378 | Null | https://github.com/security-n/CVE-2021-39378 | 未查询到CVE信息| 
 | 20210826T04:35:34Z | CVE-2021-39377 | Null | https://github.com/security-n/CVE-2021-39377 | 未查询到CVE信息| 
-| 20210826T02:59:58Z | CVE-2021-30551 | my exp for chrome V8 CVE-2021-30551 | https://github.com/xmzyshypnc/CVE-2021-30551 | | 
+| 20210826T02:59:58Z | CVE-2021-30551 | my exp for chrome V8 CVE-2021-30551 | https://github.com/xmzyshypnc/CVE-2021-30551 | Type confusion in V8 in Google Chrome prior to 91.0.4472.101 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.| 
 
 
 # klee on Github 推荐
@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210827T12:52:27Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 21 | 13| 
 | 20210827T12:50:48Z | Some files for information security exploits | https://github.com/renatus-cartesius/infosec | 0 | 0| 
 | 20210827T12:49:35Z | HEVD | https://github.com/ReJimp/Kernel_Exploit | 2 | 0| 
 | 20210827T12:47:38Z | Auto IP range scanner & exploit tool for BlueKeep metasploit module | https://github.com/ind3p3nd3nt/BlueRDPSploit | 13 | 8| 
@@ -95,7 +96,6 @@
 | 20210827T12:28:44Z | Detect common exploits | https://github.com/StarTux/Exploits | 1 | 0| 
 | 20210827T12:15:29Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 5900 | 1397| 
 | 20210827T12:14:12Z | 42 , Security project, 15 levels to discover securities exploits | https://github.com/thallard/snow-crash | 0 | 0| 
-| 20210827T12:03:01Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 
 
 # backdoor on Github 推荐
@@ -152,7 +152,7 @@
 | 20210827T11:45:18Z | Null | https://github.com/Kanzuxbdue/fuzzy-system | 0 | 0| 
 | 20210827T11:41:36Z | Official Keras implementation of IEEE JBHI 2021 paper: %Choquet Integral and Coalition Game-based Ensemble of Deep Learning Models for COVID-19 Screening from Chest X-ray Images% | https://github.com/subhankar01/Covid-Chestxray-lambda-fuzzy | 1 | 3| 
 | 20210827T11:29:23Z | MATLAB code for the paper titled %A Self-Adaptive Fuzzy Learning System for Streaming Data Prediction%. | https://github.com/Gu-X/Self-Adaptive-Fuzzy-Learning-System | 0 | 0| 
-| 20210827T11:17:58Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6580 | 1349| 
+| 20210827T11:17:58Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6580 | 1350| 
 
 
 
