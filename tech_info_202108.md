@@ -142,6 +142,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210827T00:07:14Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 22 | 9| 
 | 20210826T23:33:07Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210826T22:41:21Z | Here are you%ll find Fuzzy Logic exercises  | https://github.com/Marceeaax/FuzzyLogic | 0 | 0| 
 | 20210826T22:39:35Z | Null | https://github.com/zdykstra/fuzzypkg | 13 | 1| 
@@ -151,7 +152,6 @@
 | 20210826T21:41:07Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6579 | 1347| 
 | 20210826T21:05:09Z | Null | https://github.com/willy-smith/fuzzy-adventure | 0 | 0| 
 | 20210826T20:49:50Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
-| 20210826T20:33:53Z | Null | https://github.com/hashue/gh-fuzzyclone | 0 | 3| 
 
 
 
