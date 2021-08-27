@@ -142,8 +142,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210827T01:57:09Z | Null | https://github.com/Ubisam-Project-MASIDU/FuzzStoryWorld | 0 | 0| 
+| 20210827T01:56:52Z | Null | https://github.com/zdykstra/fuzzypkg | 13 | 1| 
 | 20210827T01:56:33Z | fuzz payload(持续更新) | https://github.com/kill02lc/fuzz-then-bypass-dict | 0 | 0| 
-| 20210827T01:49:06Z | Null | https://github.com/Ubisam-Project-MASIDU/FuzzStoryWorld | 0 | 0| 
 | 20210827T01:41:48Z | Sound and Cost-effective Fuzzing of Stripped Binaries by Incremental and Stochastic Rewriting | https://github.com/ZhangZhuoSJTU/StochFuzz | 85 | 3| 
 | 20210827T01:41:46Z | Null | https://github.com/Hwangwoosam/fuzzing | 5 | 0| 
 | 20210827T01:33:51Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
@@ -151,7 +152,6 @@
 | 20210827T01:15:40Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1035 | 113| 
 | 20210827T01:08:19Z | 32-bit x86 OS capable of running console user application. | https://github.com/scopeInfinity/FuzzyOS | 1 | 0| 
 | 20210827T00:47:03Z | Null | https://github.com/Christopher880/fuzzy-rotary | 0 | 0| 
-| 20210827T00:12:54Z | Null | https://github.com/zdykstra/fuzzypkg | 13 | 1| 
 
 
 
