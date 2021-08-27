@@ -46,17 +46,25 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210827T01:46:08Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | 0 | 0| 
-| 20210827T01:34:51Z | Basic Exploit Essentials is a multi-script for Basic Admin Essentials 2.0. | https://github.com/Nextrixcs/Basic-Exploit-Essentials | 1 | 1| 
-| 20210827T01:03:23Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
-| 20210827T01:00:12Z | OpenCRX Exploit | https://github.com/ApexPredator-InfoSec/OpenCRX | 0 | 0| 
-| 20210827T00:52:26Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 21 | 13| 
-| 20210827T00:52:05Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 212 | 12| 
+| 20210827T12:07:44Z | A thread-safe Hash Table using Nvidia’s API for CUDA-enabled GPUs. 200 times faster than the C++ only code through sheer exploitation of a GPU’s fine-grained parallelism. | https://github.com/Miruna-Chi/CUDA-Hash-Table | 0 | 0| 
+| 20210827T12:03:01Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
+| 20210827T11:58:50Z | 🎣    Fish for line detections by exploiting the known velocity structure of the disk. | https://github.com/richteague/gofish | 8 | 6| 
+| 20210827T11:51:06Z | some hacking tools that I wrote | https://github.com/Alekseyyy/InfoSec | 0 | 2| 
+| 20210827T11:45:41Z | Color philosophy has a long past of screening that certain colors are related to certain dispositions which will also touch how patients feel. The investigation shows these possessions are professed by those who have to be in the space and the lengthier they’re in the space the more the color touches them. Since dispositions have been related to vicissitudes in levels of strain and strain levels have been related to the probability of better handling hostile circumstances like shock or illness. High strain levels have also been related to the expansion of new complaints, so dropping strain while in retrieval spaces will be helpful. Before you resolve on the colors and designs for your ICU Curtains, you need to reflect two issues: color / design strength and the senses of the color / design selections. What Do the Colors & Designs Mean? There are well-established senses for insignia, and there are no correct or wrong selections when it comes to colors / designs, even mixed or assorted colors can evoke the same reaction of both of their parent colors. For instance, a mixed blue / green pattern on a curtain made by ICU Curtains Manufacturers in India will bring out moods related with blue and those related with green. Use these senses to help you pick the perfect color or design curtain made by ICU Curtains Manufacturers for your space: Oranges speak to contentment Greens characteristically make people think of cash and flora, this generates vigor in space and comfort Blues remind us of amity and serenity, which is good for soothing patients Yellows are a joyful color which provokes vitality and vigor Reds are an exploit color which can make patients feel brave and conclusive It’s informal to see how you can create dissimilar dispositions for your patients selecting exact colors and designs for your curtains that are available with ICU Curtains Suppliers. Opposing Curtain Injury  While it may seem common intelligence to stock your ICU Curtains in parts that won’t cause harm, it isn’t continually so clear. Many hidden opponents of ICU Curtains prowl in storing parts and storerooms. Let’s look at a few shared areas where injury can happen.  High Dampness Parts This is an informal one to evade. You don’t want to stock your curtains bought from ICU Curtains Suppliers in India in storerooms or lodgings where the heat varies to excesses and produces at times high humidity. This surge in dampness can damage the curtains and in some cases totally extinguish them.  Wire Shelving It is common to find medicinal grade stainless steel cable shelving or stands in storing areas, but on some of these sills you’ll find bulging metal that has the latent to catch and slash your ICU Curtains when positioned or detached on those sills.   Obstacles Another part where problems and tears can happen is in tight accommodations or in storing areas that have other apparatus such as IV barrows with shafts that can easily clasp the draperies when being detached and harm or totally wreck them. By safeguarding that your ICU Curtains stay in perfect state you’ll be able to keep prices down on the price of possessions as well as the labor in assembling, getting and reinstating.  If you are looking for an ICU Curtains product directory, please log onto Ozahub. | https://github.com/OzahubNew/How-ICU-Curtains-Colors-Influence-Patients- | 0 | 0| 
+| 20210827T11:42:14Z | Exploitation Framework for Embedded Devices | https://github.com/threat9/routersploit | 9600 | 2073| 
+| 20210827T11:22:44Z | 42 , Security project, 15 levels to discover securities exploits | https://github.com/thallard/snow-crash | 0 | 0| 
+| 20210827T11:15:34Z | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | 0 | 0| 
+| 20210827T11:08:24Z | Exploit-db (is NOT the official APP). | https://github.com/gaiththewolf/Exploitdb | 1 | 0| 
+| 20210827T11:06:23Z | Some files for information security exploits | https://github.com/renatus-cartesius/infosec | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210827T11:41:08Z | pybotnet -   A Python Library for building Botnet , Trojan or BackDoor for windows and linux with Telegram control panel  | https://github.com/onionj/pybotnet | 13 | 8| 
+| 20210827T09:49:08Z | Null | https://github.com/FreeLesio/WordPress-Backdoor | 0 | 0| 
+| 20210827T05:52:41Z | A collection of python written hacking tools consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester credential harvester, keylogger, download&execute, and reverse_backdoor. | https://github.com/dmdhrumilmistry/pyhtools | 20 | 8| 
+| 20210827T04:16:48Z | Backdoor Bellingham HTML/CSS project that highlights the beauty of the city of subdued excitement! | https://github.com/dwstrong5/Backdoor-Bellingham | 0 | 0| 
 | 20210827T01:24:13Z | A LKM rootkit targeting 4.x and 5.x kernel versions which opens a backdoor that can be used to spawn a reverse shell to a remote host and more. | https://github.com/h3xduck/Umbra | 22 | 5| 
 | 20210827T00:29:41Z | A simple backdoor and a listener | https://github.com/guilhermeortolano/Backdor | 0 | 0| 
 | 20210827T00:19:58Z | Null | https://github.com/guilhermeortolano/backdoor | 0 | 0| 
@@ -78,16 +86,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210827T12:09:22Z | Hi thre, I%m TRÄW🤟🏻, i%m a beginner in ethical hacking and Content Creator on Level iv Security & NOOBSEC. I Spend most of time coding outstanding ethical hacking projects or recording useful short tutorials . I love programming ethical hacking tools, fuzzing and hacking all the things | https://github.com/0xTRAW/0xTRAW | 1 | 1| 
+| 20210827T12:03:14Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210827T11:45:18Z | Null | https://github.com/Kanzuxbdue/fuzzy-system | 0 | 0| 
 | 20210827T11:41:36Z | Official Keras implementation of IEEE JBHI 2021 paper: %Choquet Integral and Coalition Game-based Ensemble of Deep Learning Models for COVID-19 Screening from Chest X-ray Images% | https://github.com/subhankar01/Covid-Chestxray-lambda-fuzzy | 1 | 3| 
 | 20210827T11:29:23Z | MATLAB code for the paper titled %A Self-Adaptive Fuzzy Learning System for Streaming Data Prediction%. | https://github.com/Gu-X/Self-Adaptive-Fuzzy-Learning-System | 0 | 0| 
 | 20210827T11:17:58Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6580 | 1349| 
 | 20210827T11:05:14Z | Property-based grey-box fuzzing for Multicore OCaml | https://github.com/ocaml-multicore/parafuzz | 3 | 0| 
-| 20210827T11:01:22Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210827T10:17:22Z | Fuzzing tool for the 14th institute | https://github.com/Radon10043/fuzzing-tool-14 | 0 | 2| 
 | 20210827T10:15:55Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1030 | 46| 
 | 20210827T10:08:37Z | Null | https://github.com/Jurmex3/fuzzy-vyn-lez | 0 | 0| 
-| 20210827T09:41:10Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 526 | 49| 
 
 
 
