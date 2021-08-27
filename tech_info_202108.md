@@ -142,6 +142,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210827T01:15:40Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1035 | 113| 
 | 20210827T01:08:19Z | 32-bit x86 OS capable of running console user application. | https://github.com/scopeInfinity/FuzzyOS | 1 | 0| 
 | 20210827T00:55:35Z | Null | https://github.com/Ubisam-Project-MASIDU/FuzzStoryWorld | 0 | 0| 
 | 20210827T00:47:03Z | Null | https://github.com/Christopher880/fuzzy-rotary | 0 | 0| 
@@ -151,7 +152,6 @@
 | 20210826T22:41:21Z | Here are you%ll find Fuzzy Logic exercises  | https://github.com/Marceeaax/FuzzyLogic | 0 | 0| 
 | 20210826T22:15:22Z | Hairy puppies | https://github.com/Domelmo84/fuzzy-dog | 0 | 0| 
 | 20210826T21:58:35Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2381 | 137| 
-| 20210826T21:47:33Z | Fuzzer for the .NET toolchains, developed as a project for the 2018 Language-Based Security course at Aarhus University. | https://github.com/jakobbotsch/Fuzzlyn | 213 | 18| 
 
 
 
