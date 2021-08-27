@@ -41,7 +41,7 @@
 | 20210826T04:44:03Z | CVE-2021-39379 | Null | https://github.com/security-n/CVE-2021-39379 | 未查询到CVE信息| 
 | 20210826T04:40:46Z | CVE-2021-39378 | Null | https://github.com/security-n/CVE-2021-39378 | 未查询到CVE信息| 
 | 20210826T04:35:34Z | CVE-2021-39377 | Null | https://github.com/security-n/CVE-2021-39377 | 未查询到CVE信息| 
-| 20210826T02:59:58Z | CVE-2021-30551 | my exp for chrome V8 CVE-2021-30551 | https://github.com/xmzyshypnc/CVE-2021-30551 | Type confusion in V8 in Google Chrome prior to 91.0.4472.101 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.| 
+| 20210826T02:59:58Z | CVE-2021-30551 | my exp for chrome V8 CVE-2021-30551 | https://github.com/xmzyshypnc/CVE-2021-30551 | | 
 | 20210826T02:25:15Z | CVE-2021-39281 | Documentation for cve-2021-39281 | https://github.com/grahamhelton/CVE-2021-39281 | 未查询到CVE信息| 
 
 
@@ -110,7 +110,6 @@
 | --- | --- | --- | --- | ---| 
 | 20210826T23:33:07Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210826T22:41:21Z | Here are you%ll find Fuzzy Logic exercises  | https://github.com/Marceeaax/FuzzyLogic | 0 | 0| 
-| 20210826T22:39:35Z | Null | https://github.com/zdykstra/fuzzypkg | 13 | 1| 
 | 20210826T22:15:22Z | Hairy puppies | https://github.com/Domelmo84/fuzzy-dog | 0 | 0| 
 | 20210826T21:58:35Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2381 | 137| 
 | 20210826T21:47:33Z | Fuzzer for the .NET toolchains, developed as a project for the 2018 Language-Based Security course at Aarhus University. | https://github.com/jakobbotsch/Fuzzlyn | 213 | 18| 
@@ -118,6 +117,7 @@
 | 20210826T21:05:09Z | Null | https://github.com/willy-smith/fuzzy-adventure | 0 | 0| 
 | 20210826T20:49:50Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210826T20:33:53Z | Null | https://github.com/hashue/gh-fuzzyclone | 0 | 3| 
+| 20210826T20:26:50Z | Config files for my GitHub profile. | https://github.com/fuzzy1coder/fuzzy1coder | 0 | 0| 
 
 
 
