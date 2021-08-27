@@ -87,6 +87,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210827T13:00:15Z | MS-fuzz data | https://github.com/Clingto/MS-Fuzz | 0 | 0| 
 | 20210827T12:51:48Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210827T12:33:45Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2382 | 137| 
 | 20210827T12:28:20Z | Hi thre, I%m TRÄW🤟🏻, i%m a beginner in ethical hacking and Content Creator on Level iv Security & NOOBSEC. I Spend most of time coding outstanding ethical hacking projects or recording useful short tutorials . I love programming ethical hacking tools, fuzzing and hacking all the things | https://github.com/0xTRAW/0xTRAW | 1 | 1| 
@@ -96,7 +97,6 @@
 | 20210827T11:45:18Z | Null | https://github.com/Kanzuxbdue/fuzzy-system | 0 | 0| 
 | 20210827T11:41:36Z | Official Keras implementation of IEEE JBHI 2021 paper: %Choquet Integral and Coalition Game-based Ensemble of Deep Learning Models for COVID-19 Screening from Chest X-ray Images% | https://github.com/subhankar01/Covid-Chestxray-lambda-fuzzy | 1 | 3| 
 | 20210827T11:29:23Z | MATLAB code for the paper titled %A Self-Adaptive Fuzzy Learning System for Streaming Data Prediction%. | https://github.com/Gu-X/Self-Adaptive-Fuzzy-Learning-System | 0 | 0| 
-| 20210827T11:17:58Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6580 | 1350| 
 
 
 
