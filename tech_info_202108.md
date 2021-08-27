@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210827T00:27:10Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | 0 | 0| 
 | 20210827T00:03:09Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210826T23:16:57Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 2455 | 380| 
 | 20210826T23:14:44Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9926 | 1659| 
@@ -92,7 +93,6 @@
 | 20210826T22:36:07Z | Here I will post my solutions/exploits for some of the challenges on 0x0539.net | https://github.com/0x1CA3/0x0539 | 0 | 0| 
 | 20210826T21:44:06Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 8188 | 1433| 
 | 20210826T21:38:24Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 26 | 5| 
-| 20210826T21:10:46Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | 0 | 0| 
 | 20210826T20:58:47Z | This repo will contain tutorials for scripting in python and how various modules can be used by pentesters in their task automation / exploit writing. | https://github.com/hexachordanu/Pentest-Scripts-Py3 | 0 | 0| 
 | 20210826T19:46:54Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 212 | 12| 
 
