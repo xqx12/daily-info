@@ -142,7 +142,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210827T01:47:03Z | Null | https://github.com/Ubisam-Project-MASIDU/FuzzStoryWorld | 0 | 0| 
+| 20210827T01:49:06Z | Null | https://github.com/Ubisam-Project-MASIDU/FuzzStoryWorld | 0 | 0| 
 | 20210827T01:41:48Z | Sound and Cost-effective Fuzzing of Stripped Binaries by Incremental and Stochastic Rewriting | https://github.com/ZhangZhuoSJTU/StochFuzz | 85 | 3| 
 | 20210827T01:41:46Z | Null | https://github.com/Hwangwoosam/fuzzing | 5 | 0| 
 | 20210827T01:33:51Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
