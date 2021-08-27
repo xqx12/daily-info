@@ -53,8 +53,8 @@
 | 20210826T05:39:41Z | CVE-2020-8169 | Null | https://github.com/madhans23/curl-curl-7_64_1_CVE-2020-8169_noPatch | curl 7.62.0 through 7.70.0 is vulnerable to an information disclosure vulnerability that can lead to a partial password being leaked over the network and to the DNS server(s).| 
 | 20210826T04:44:03Z | CVE-2021-39379 | Null | https://github.com/security-n/CVE-2021-39379 | 未查询到CVE信息| 
 | 20210826T04:40:46Z | CVE-2021-39378 | Null | https://github.com/security-n/CVE-2021-39378 | 未查询到CVE信息| 
-| 20210826T04:35:34Z | CVE-2021-39377 | Null | https://github.com/security-n/CVE-2021-39377 | 未查询到CVE信息| 
-| 20210826T02:59:58Z | CVE-2021-30551 | my exp for chrome V8 CVE-2021-30551 | https://github.com/xmzyshypnc/CVE-2021-30551 | | 
+| 20210826T04:35:34Z | CVE-2021-39377 | Null | https://github.com/security-n/CVE-2021-39377 | | 
+| 20210826T02:59:58Z | CVE-2021-30551 | my exp for chrome V8 CVE-2021-30551 | https://github.com/xmzyshypnc/CVE-2021-30551 | Type confusion in V8 in Google Chrome prior to 91.0.4472.101 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.| 
 | 20210826T02:25:15Z | CVE-2021-39281 | Documentation for cve-2021-39281 | https://github.com/grahamhelton/CVE-2021-39281 | 未查询到CVE信息| 
 
 
@@ -100,11 +100,11 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210827T01:24:13Z | A LKM rootkit targeting 4.x and 5.x kernel versions which opens a backdoor that can be used to spawn a reverse shell to a remote host and more. | https://github.com/h3xduck/Umbra | 22 | 5| 
 | 20210827T00:29:41Z | A simple backdoor and a listener | https://github.com/guilhermeortolano/Backdor | 0 | 0| 
 | 20210827T00:19:58Z | Null | https://github.com/guilhermeortolano/backdoor | 0 | 0| 
 | 20210826T21:36:14Z | A Hidden and Undetectable Remote Access Tool written in C++ and Server in Python3 | https://github.com/Ryan-AW/Windows-Backdoor | 17 | 4| 
 | 20210826T20:11:15Z | Null | https://github.com/FreeLesio/WordPress-Backdoor | 0 | 0| 
-| 20210826T19:26:14Z | A LKM rootkit targeting 4.x and 5.x kernel versions which opens a backdoor that can be used to spawn a reverse shell to a remote host and more. | https://github.com/h3xduck/Umbra | 21 | 5| 
 | 20210826T18:13:35Z | A collection of python written hacking tools consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester credential harvester, keylogger, download&execute, and reverse_backdoor. | https://github.com/dmdhrumilmistry/pyhtools | 20 | 8| 
 | 20210826T17:26:37Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 93 | 16| 
 | 20210826T14:21:25Z | Golang package for pentest | https://github.com/iIIusi0n/backkit | 3 | 0| 
@@ -142,7 +142,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210827T01:21:31Z | Null | https://github.com/Ubisam-Project-MASIDU/FuzzStoryWorld | 0 | 0| 
+| 20210827T01:26:46Z | Null | https://github.com/Hwangwoosam/fuzzing | 5 | 0| 
+| 20210827T01:24:38Z | Sound and Cost-effective Fuzzing of Stripped Binaries by Incremental and Stochastic Rewriting | https://github.com/ZhangZhuoSJTU/StochFuzz | 85 | 3| 
+| 20210827T01:23:51Z | Null | https://github.com/Ubisam-Project-MASIDU/FuzzStoryWorld | 0 | 0| 
 | 20210827T01:15:40Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1035 | 113| 
 | 20210827T01:08:19Z | 32-bit x86 OS capable of running console user application. | https://github.com/scopeInfinity/FuzzyOS | 1 | 0| 
 | 20210827T00:47:03Z | Null | https://github.com/Christopher880/fuzzy-rotary | 0 | 0| 
@@ -150,8 +152,6 @@
 | 20210827T00:07:14Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 22 | 9| 
 | 20210826T23:33:07Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210826T22:41:21Z | Here are you%ll find Fuzzy Logic exercises  | https://github.com/Marceeaax/FuzzyLogic | 0 | 0| 
-| 20210826T22:15:22Z | Hairy puppies | https://github.com/Domelmo84/fuzzy-dog | 0 | 0| 
-| 20210826T21:58:35Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2381 | 137| 
 
 
 
