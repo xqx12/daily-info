@@ -59,13 +59,13 @@
 | 20210827T23:57:02Z | Null | https://github.com/TheCrazzXz/Exploits-Lab | 0 | 1| 
 | 20210827T23:23:48Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 213 | 12| 
 | 20210827T23:17:44Z | Made small changes to the exploit such as removing the update patch screen and fixing some bugs. Using this exploit can get you banned on Roblox, I highly recommend using a paid executor like Synapse X. | https://github.com/EthanMcDonagh/VapeV4ForRoblox | 1 | 0| 
-| 20210827T23:03:08Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210827T23:02:20Z | Discord UI for Roblox. Mainly used as an Exploit Library. | https://github.com/EthanMcDonagh/Discord-Library-Roblox | 1 | 0| 
 | 20210827T22:56:54Z | Exploit for Bubble Gum Simulator that has many features such as Auto Hatch, Teleport to Islands, Auto Collect & More! | https://github.com/EthanMcDonagh/BubbleGumFuckerV1 | 1 | 0| 
 | 20210827T22:30:12Z | Writeups on my TryHackMe adventures! | https://github.com/Sma-Das/TryHackMe | 7 | 0| 
 | 20210827T21:58:50Z | The Ultimate Roblox Exploit by ferderplays | https://github.com/FERDdeveloper/SaugaHack | 1 | 0| 
 | 20210827T21:57:49Z | Here I will post my solutions/exploits for some of the challenges on 0x0539.net | https://github.com/0x1CA3/0x0539 | 0 | 0| 
 | 20210827T21:47:18Z | A Remote Code Execution Post Exploitation Framework via Exif Data in images | https://github.com/CalfCrusher/Exif-Maniac | 0 | 0| 
+| 20210827T21:42:23Z | Python Pickle RCE Exploit + vulnerable Flask App | https://github.com/CalfCrusher/Python-Pickle-RCE-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
