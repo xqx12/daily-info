@@ -18,7 +18,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210828T10:22:30Z | CVE-2020-15368 | How to exploit a vulnerable windows driver. Exploit for AsrDrv104.sys | https://github.com/stong/CVE-2020-15368 | AsrDrv103.sys in the ASRock RGB Driver does not properly restrict access from user space, as demonstrated by triggering a triple fault via a request to zero CR3.| 
-| 20210828T08:11:08Z | CVE-2021-36394 | Null | https://github.com/dinhbaouit/CVE-2021-36394 | 未查询到CVE信息| 
+| 20210828T08:11:08Z | CVE-2021-36394 | Null | https://github.com/dinhbaouit/CVE-2021-36394 | | 
 | 20210828T02:17:05Z | CVE-2021-3156 | Null | https://github.com/dock0d1/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 
 
@@ -75,6 +75,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210828T12:07:14Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 33157 | 17232| 
 | 20210828T12:02:07Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 22 | 9| 
 | 20210828T11:54:53Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6587 | 1349| 
 | 20210828T11:47:54Z | Fuzzing tool for the 14th institute | https://github.com/Radon10043/fuzzing-tool-14 | 0 | 2| 
@@ -82,7 +83,6 @@
 | 20210828T11:05:21Z | Null | https://github.com/FyodorVaganov/fuzzy-potato | 0 | 0| 
 | 20210828T11:02:41Z | Bot Fuzzy Spuffy Official | https://github.com/pikzykacheng/Fuzzy-Spuffy-Project | 0 | 0| 
 | 20210828T11:01:43Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210828T10:41:10Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 33156 | 17232| 
 | 20210828T09:56:19Z | Null | https://github.com/VY12311/fuzzy-potato | 0 | 0| 
 | 20210828T08:03:27Z | A Rust compiler fuzzer | https://github.com/jmanchuck/rustsmith | 0 | 0| 
 
