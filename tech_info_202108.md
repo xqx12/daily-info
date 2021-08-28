@@ -55,7 +55,7 @@
 | 20210826T13:01:48Z | 未知编号 | Null | https://github.com/BabyTeam1024/cve-nc-45.76.202.226-1237- | 未查询到CVE信息| 
 | 20210826T05:39:41Z | CVE-2020-8169 | Null | https://github.com/madhans23/curl-curl-7_64_1_CVE-2020-8169_noPatch | curl 7.62.0 through 7.70.0 is vulnerable to an information disclosure vulnerability that can lead to a partial password being leaked over the network and to the DNS server(s).| 
 | 20210826T04:44:03Z | CVE-2021-39379 | Null | https://github.com/security-n/CVE-2021-39379 | 未查询到CVE信息| 
-| 20210826T04:40:46Z | CVE-2021-39378 | Null | https://github.com/security-n/CVE-2021-39378 | 未查询到CVE信息| 
+| 20210826T04:40:46Z | CVE-2021-39378 | Null | https://github.com/security-n/CVE-2021-39378 | | 
 
 
 # klee on Github 推荐
@@ -86,16 +86,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210828T01:06:04Z | The Internet Observatory (Obsrva) is a vulnerability research project founded by independent security researcher Tyler Butler. Obsrva engages product vendors in coordinated disclosures, publishes vulnerability advisories, and creates proof of concept exploits. | https://github.com/obsrva/obsrva.org | 1 | 0| 
+| 20210828T01:03:06Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210828T00:52:28Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 21 | 13| 
 | 20210828T00:46:33Z | Binary Exploitation Challenges Solving and a lot of Binaries Exploitation Challenge i came across through out time | https://github.com/k0rup710n/BinaryExploitation | 0 | 0| 
 | 20210828T00:13:58Z | Null | https://github.com/Hmood511/NASA-Exploit | 0 | 0| 
-| 20210828T00:03:16Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210827T23:57:02Z | Null | https://github.com/TheCrazzXz/Exploits-Lab | 0 | 1| 
 | 20210827T23:23:48Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 213 | 12| 
 | 20210827T23:17:44Z | Made small changes to the exploit such as removing the update patch screen and fixing some bugs. Using this exploit can get you banned on Roblox, I highly recommend using a paid executor like Synapse X. | https://github.com/EthanMcDonagh/VapeV4ForRoblox | 1 | 0| 
 | 20210827T23:02:20Z | Discord UI for Roblox. Mainly used as an Exploit Library. | https://github.com/EthanMcDonagh/Discord-Library-Roblox | 1 | 0| 
 | 20210827T22:56:54Z | Exploit for Bubble Gum Simulator that has many features such as Auto Hatch, Teleport to Islands, Auto Collect & More! | https://github.com/EthanMcDonagh/BubbleGumFuckerV1 | 1 | 0| 
-| 20210827T22:30:12Z | Writeups on my TryHackMe adventures! | https://github.com/Sma-Das/TryHackMe | 7 | 0| 
 
 
 # backdoor on Github 推荐
