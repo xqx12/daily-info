@@ -103,15 +103,15 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20210827T23:58:32Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 33151 | 17229| 
-| 20210827T23:52:09Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1036 | 113| 
 | 20210827T23:01:12Z | This is a test task app. It compares hashes of opcode sequnce from dex files of chosen APKs using SSDeep algorithm | https://github.com/Dvasilets/TestTaskFuzzyHashSSDeep | 0 | 0| 
 | 20210827T22:50:48Z | Null | https://github.com/oscarpimentel/fuzzy-torch | 1 | 0| 
 | 20210827T22:48:47Z | Null | https://github.com/oscarpimentel/fuzzy-tools | 0 | 0| 
-| 20210827T22:46:19Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 6 | 0| 
 | 20210827T22:27:14Z | Code for fuzzy monkeys. | https://github.com/fuzzyatelin/fuzzyatelin.github.io | 3 | 9| 
 | 20210827T21:31:51Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210827T20:58:19Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210827T20:09:56Z | Tools for fuzzing RDP | https://github.com/cyberark/rdpfuzz | 0 | 0| 
+| 20210827T20:04:23Z | Null | https://github.com/Katheeravan305/Machine-Learning-and-Fuzzy-Logic-Module | 0 | 0| 
+| 20210827T20:02:30Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 
 
 
