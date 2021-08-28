@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210828T01:47:33Z | sayan chatterjee portfolio  | https://github.com/ExploitTheLoop/ExploitTheLoop | 0 | 1| 
 | 20210828T01:27:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9930 | 1660| 
 | 20210828T01:21:20Z | The Internet Observatory (Obsrva) is a vulnerability research project founded by independent security researcher Tyler Butler. Obsrva engages product vendors in coordinated disclosures, publishes vulnerability advisories, and creates proof of concept exploits. | https://github.com/obsrva/obsrva.org | 1 | 0| 
 | 20210828T01:09:33Z | work arounds and bypasses for the hse school technological area | https://github.com/jeryn-oss/hse-exploits | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20210828T00:13:58Z | Null | https://github.com/Hmood511/NASA-Exploit | 0 | 0| 
 | 20210827T23:57:02Z | Null | https://github.com/TheCrazzXz/Exploits-Lab | 0 | 1| 
 | 20210827T23:23:48Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 213 | 12| 
-| 20210827T23:17:44Z | Made small changes to the exploit such as removing the update patch screen and fixing some bugs. Using this exploit can get you banned on Roblox, I highly recommend using a paid executor like Synapse X. | https://github.com/EthanMcDonagh/VapeV4ForRoblox | 1 | 0| 
 
 
 # backdoor on Github 推荐
