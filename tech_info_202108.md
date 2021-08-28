@@ -143,6 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210828T12:02:07Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 22 | 9| 
 | 20210828T11:54:53Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6587 | 1349| 
 | 20210828T11:47:54Z | Fuzzing tool for the 14th institute | https://github.com/Radon10043/fuzzing-tool-14 | 0 | 2| 
 | 20210828T11:46:11Z | Null | https://github.com/aicacia/ts-string-fuzzy_equals | 0 | 0| 
@@ -152,7 +153,6 @@
 | 20210828T10:41:10Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 33156 | 17232| 
 | 20210828T09:56:19Z | Null | https://github.com/VY12311/fuzzy-potato | 0 | 0| 
 | 20210828T08:03:27Z | A Rust compiler fuzzer | https://github.com/jmanchuck/rustsmith | 0 | 0| 
-| 20210828T07:54:35Z | 开源、轻量、快速、跨平台 的红队(redteam)外网打点扫描器，功能 端口扫描(port scan) 指纹识别(fingerprint) nday检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | 158 | 19| 
 
 
 
