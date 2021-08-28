@@ -17,7 +17,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210828T10:22:30Z | CVE-2020-15368 | How to exploit a vulnerable windows driver. Exploit for AsrDrv104.sys | https://github.com/stong/CVE-2020-15368 | AsrDrv103.sys in the ASRock RGB Driver does not properly restrict access from user space, as demonstrated by triggering a triple fault via a request to zero CR3.| 
+| 20210828T10:22:30Z | CVE-2020-15368 | How to exploit a vulnerable windows driver. Exploit for AsrDrv104.sys | https://github.com/stong/CVE-2020-15368 | | 
 | 20210828T08:11:08Z | CVE-2021-36394 | Null | https://github.com/dinhbaouit/CVE-2021-36394 | 未查询到CVE信息| 
 | 20210828T02:17:05Z | CVE-2021-3156 | Null | https://github.com/dock0d1/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 
@@ -37,7 +37,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210828T12:03:44Z | sayan chatterjee portfolio  | https://github.com/ExploitTheLoop/ExploitTheLoop | 0 | 1| 
+| 20210828T12:05:43Z | sayan chatterjee portfolio  | https://github.com/ExploitTheLoop/ExploitTheLoop | 0 | 1| 
 | 20210828T12:03:05Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210828T11:44:36Z | A Remote Code Execution Post Exploitation Framework via Exif Data in images | https://github.com/CalfCrusher/Exif-Maniac | 0 | 0| 
 | 20210828T11:43:52Z | Null | https://github.com/Hmood511/NASA-Exploit | 0 | 0| 
