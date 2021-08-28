@@ -86,7 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210828T12:05:43Z | sayan chatterjee portfolio  | https://github.com/ExploitTheLoop/ExploitTheLoop | 0 | 1| 
+| 20210828T12:06:08Z | sayan chatterjee portfolio  | https://github.com/ExploitTheLoop/ExploitTheLoop | 0 | 1| 
 | 20210828T12:03:05Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210828T11:44:36Z | A Remote Code Execution Post Exploitation Framework via Exif Data in images | https://github.com/CalfCrusher/Exif-Maniac | 0 | 0| 
 | 20210828T11:43:52Z | Null | https://github.com/Hmood511/NASA-Exploit | 0 | 0| 
