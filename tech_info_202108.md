@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210828T17:34:14Z | CVE-2020-0796 | MS CVE 2020-0796 SMB | https://github.com/Nephael/Nephael-CVE-2020-0796 | | 
+| 20210828T17:34:14Z | CVE-2020-0796 | MS CVE 2020-0796 SMB | https://github.com/Nephael/Nephael-CVE-2020-0796 | A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests, aka %Windows SMBv3 Client/Server Remote Code Execution Vulnerability%.| 
 | 20210828T10:22:30Z | CVE-2020-15368 | How to exploit a vulnerable windows driver. Exploit for AsrDrv104.sys | https://github.com/stong/CVE-2020-15368 | AsrDrv103.sys in the ASRock RGB Driver does not properly restrict access from user space, as demonstrated by triggering a triple fault via a request to zero CR3.| 
 | 20210828T08:11:08Z | CVE-2021-36394 | Null | https://github.com/dinhbaouit/CVE-2021-36394 | 未查询到CVE信息| 
 | 20210828T05:53:53Z | CVE-2021-30551 | my exp for chrome V8 CVE-2021-30551 | https://github.com/xmzyshypnc/CVE-2021-30551 | Type confusion in V8 in Google Chrome prior to 91.0.4472.101 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.| 
@@ -86,10 +86,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210829T01:03:19Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210829T00:54:03Z | Instructions for a WebDAV exploit using Msfconsole in Kali: Target mation is Metasploitable.  | https://github.com/wolfea/webdav_exploit | 0 | 0| 
 | 20210829T00:36:06Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9935 | 1662| 
 | 20210829T00:05:36Z | Automatic Exploit Generation (AEG) and remote flag capture for exploitable CTF problems | https://github.com/ChrisTheCoolHut/Zeratool | 649 | 98| 
-| 20210829T00:03:23Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210828T23:59:18Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 3914 | 561| 
 | 20210828T23:55:05Z | A collection of links related to Linux kernel security and exploitation | https://github.com/xairy/linux-kernel-exploitation | 3624 | 789| 
 | 20210828T23:54:11Z | Android RAT with web panel and undetectable App | https://github.com/Th30neAnd0nly/Ohm | 39 | 18| 
