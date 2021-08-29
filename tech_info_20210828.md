@@ -46,10 +46,10 @@
 | 20210828T23:09:07Z | Exploit Privado | https://github.com/whaomi23/Update-Defender | 0 | 0| 
 | 20210828T22:39:24Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 238 | 11| 
 | 20210828T22:38:45Z | Exploit scripts for HD Admin. Meant to be private for my Discord Server, but if you found them, Enjoy i guess. | https://github.com/arcsyi/HDXploit | 0 | 0| 
+| 20210828T22:38:45Z | Exploit scripts for HD Admin. Meant to be private for my Discord Server, but if you found them, Enjoy i guess. | https://github.com/arcsyie/HDXploit | 0 | 0| 
 | 20210828T22:18:24Z | Implementation of a digital multi-instrument using SuperCollider and Processing. Additive synthesis principle was exploited. | https://github.com/samuelebh/Additive-Synthesis-Live-Instrument | 0 | 0| 
 | 20210828T20:43:32Z | Null | https://github.com/0xturazzi/Um-Livrinho-Sobre-Exploit-Dev | 0 | 0| 
 | 20210828T20:20:53Z | A Remote Code Execution Post Exploitation Framework via Exif Data in images | https://github.com/CalfCrusher/Exif-Maniac | 0 | 0| 
-| 20210828T20:10:47Z | On the art of exploiting computational machines and the laws that govern them | https://github.com/Ckrielle/OnHacking | 0 | 0| 
 
 
 # backdoor on Github 推荐
