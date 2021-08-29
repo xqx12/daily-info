@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210829T06:52:30Z | CVE-2020-0796 | MS CVE 2020-0796 SMB | https://github.com/Nephael/Nephael-CVE-2020-0796 | | 
+| 20210829T06:52:30Z | CVE-2020-0796 | MS CVE 2020-0796 SMB | https://github.com/Nephael/Nephael-CVE-2020-0796 | A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests, aka %Windows SMBv3 Client/Server Remote Code Execution Vulnerability%.| 
 | 20210828T10:22:30Z | CVE-2020-15368 | How to exploit a vulnerable windows driver. Exploit for AsrDrv104.sys | https://github.com/stong/CVE-2020-15368 | AsrDrv103.sys in the ASRock RGB Driver does not properly restrict access from user space, as demonstrated by triggering a triple fault via a request to zero CR3.| 
 | 20210828T08:11:08Z | CVE-2021-36394 | Null | https://github.com/dinhbaouit/CVE-2021-36394 | 未查询到CVE信息| 
 | 20210828T05:53:53Z | CVE-2021-30551 | my exp for chrome V8 CVE-2021-30551 | https://github.com/xmzyshypnc/CVE-2021-30551 | Type confusion in V8 in Google Chrome prior to 91.0.4472.101 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.| 
@@ -117,9 +117,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210829T10:15:52Z | Symbolica%s open-source symbolic execution engine. | https://github.com/SymbolicaDev/Symbolica | 4 | 0| 
 | 20210829T00:26:35Z | It is a repository for conducting symbolic execution on nodejs automatically | https://github.com/zheli-1/nodejs-sym | 0 | 0| 
 | 20210829T00:25:14Z | It is a repository for conducting symbolic execution on nodejs automatically | https://github.com/zheli-1/nodejs-sym-harness | 0 | 0| 
-| 20210828T21:23:50Z | Symbolica%s open-source symbolic execution engine. | https://github.com/SymbolicaDev/Symbolica | 4 | 0| 
 | 20210828T14:18:33Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 460 | 69| 
 | 20210828T08:49:39Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1880 | 390| 
 | 20210828T01:58:41Z | Symbolic Execution over Falcon IL | https://github.com/falconre/finch | 18 | 0| 
@@ -144,11 +144,11 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210829T12:02:35Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210829T11:28:37Z | The Fuzzing Book Study | https://github.com/MJ-SEO/Fuzzing | 5 | 0| 
 | 20210829T11:03:29Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 6 | 0| 
 | 20210829T10:32:41Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210829T10:17:24Z | Null | https://github.com/Surrurh/fuzzy-lamp | 0 | 0| 
-| 20210829T10:01:52Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210829T09:53:09Z | Null | https://github.com/NICUP14/fuzzer | 0 | 0| 
 | 20210829T09:25:02Z | 开源、轻量、快速、跨平台 的红队(redteam)外网打点扫描器，功能 端口扫描(port scan) 指纹识别(fingerprint) nday检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | 160 | 19| 
 | 20210829T08:43:31Z | Null | https://github.com/Nusuubr/fuzzy-robot | 0 | 0| 
