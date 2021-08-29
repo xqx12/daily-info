@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210829T01:40:19Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 336 | 52| 
 | 20210829T01:31:40Z | A collection of Roblox exploiting scripts which I currently use. | https://github.com/MoonSecV2/MoonSecScripts | 0 | 0| 
 | 20210829T01:18:04Z | Instructions for a WebDAV exploit using Msfconsole in Kali: Target machine is Metasploitable.  | https://github.com/wolfea/webdav_exploit | 0 | 0| 
 | 20210829T01:03:19Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
@@ -95,7 +96,6 @@
 | 20210828T23:55:05Z | A collection of links related to Linux kernel security and exploitation | https://github.com/xairy/linux-kernel-exploitation | 3624 | 789| 
 | 20210828T23:54:11Z | Android RAT with web panel and undetectable App | https://github.com/Th30neAnd0nly/Ohm | 39 | 18| 
 | 20210828T23:09:07Z | Exploit Privado | https://github.com/whaomi23/Update-Defender | 0 | 0| 
-| 20210828T22:39:24Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 238 | 11| 
 
 
 # backdoor on Github 推荐
