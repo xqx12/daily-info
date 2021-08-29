@@ -35,10 +35,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210829T12:03:09Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210829T11:50:10Z | Programs for my journey to getting the OSEE | https://github.com/sparky23172/BinaryExploitation | 1 | 0| 
 | 20210829T11:09:29Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 86 | 33| 
 | 20210829T11:03:42Z | A Remote Code Execution Post Exploitation Framework via Exif Data in images | https://github.com/CalfCrusher/Exif-Maniac | 0 | 0| 
-| 20210829T11:02:56Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210829T10:47:03Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 56 | 16| 
 | 20210829T10:33:02Z | Blog consacré au Raspberry Pi. Au programme : des actualités, des tutoriels en français, des conseils, des projets, et bien plus pour exploiter le maximum de votre framboise ! | https://github.com/Skyost/FramboisePi | 0 | 0| 
 | 20210829T10:30:41Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 540 | 109| 
