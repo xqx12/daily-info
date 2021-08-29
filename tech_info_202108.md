@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210828T17:34:14Z | CVE-2020-0796 | MS CVE 2020-0796 SMB | https://github.com/Nephael/Nephael-CVE-2020-0796 | | 
+| 20210828T17:34:14Z | CVE-2020-0796 | MS CVE 2020-0796 SMB | https://github.com/Nephael/Nephael-CVE-2020-0796 | A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests, aka %Windows SMBv3 Client/Server Remote Code Execution Vulnerability%.| 
 | 20210828T10:22:30Z | CVE-2020-15368 | How to exploit a vulnerable windows driver. Exploit for AsrDrv104.sys | https://github.com/stong/CVE-2020-15368 | AsrDrv103.sys in the ASRock RGB Driver does not properly restrict access from user space, as demonstrated by triggering a triple fault via a request to zero CR3.| 
 | 20210828T08:11:08Z | CVE-2021-36394 | Null | https://github.com/dinhbaouit/CVE-2021-36394 | 未查询到CVE信息| 
 | 20210828T05:53:53Z | CVE-2021-30551 | my exp for chrome V8 CVE-2021-30551 | https://github.com/xmzyshypnc/CVE-2021-30551 | Type confusion in V8 in Google Chrome prior to 91.0.4472.101 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.| 
@@ -116,6 +116,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210829T00:25:14Z | It is a repository for conducting symbolic execution on nodejs automatically | https://github.com/zheli-1/nodejs-sym-harness | 0 | 0| 
 | 20210828T21:23:50Z | Symbolica%s open-source symbolic execution engine. | https://github.com/SymbolicaDev/Symbolica | 4 | 0| 
 | 20210828T14:18:33Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 460 | 69| 
 | 20210828T08:49:39Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1880 | 390| 
@@ -123,7 +124,6 @@
 | 20210827T20:18:33Z | Symbolic execution of LLVM IR with an engine written in Rust | https://github.com/PLSysSec/haybale | 325 | 16| 
 | 20210827T17:56:00Z | Verifying constant-time code with symbolic execution | https://github.com/PLSysSec/haybale-pitchfork | 31 | 0| 
 | 20210827T13:31:03Z | A RISC-V RV32 virtual prototype based on riscv-vp with symbolic execution support | https://github.com/agra-uni-bremen/symex-vp | 3 | 1| 
-| 20210827T08:18:35Z | It is a repository for conducting symbolic execution on nodejs automatically | https://github.com/zheli-1/nodejs-sym-harness | 0 | 0| 
 | 20210826T13:31:30Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2436 | 362| 
 | 20210825T16:42:50Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 7 | 4| 
 
