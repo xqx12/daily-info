@@ -143,13 +143,13 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210829T01:58:16Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2008 | 397| 
 | 20210829T01:53:08Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 33162 | 17238| 
 | 20210829T01:52:15Z | Null | https://github.com/hashue/gh-fuzzyclone | 3 | 4| 
 | 20210829T01:26:36Z | Config files for my GitHub profile. | https://github.com/Fuzzeyo/Fuzzeyo | 0 | 0| 
 | 20210828T23:50:30Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6589 | 1349| 
 | 20210828T22:31:51Z | Emulation based snapshot fuzzer | https://github.com/jaoeul/gingersnap | 0 | 0| 
 | 20210828T21:43:45Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
-| 20210828T21:30:32Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2007 | 397| 
 | 20210828T21:24:44Z | Hi thre, I%m TRÄW🤟🏻, i%m a beginner in ethical hacking and Content Creator on Level iv Security & NOOBSEC. I Spend most of time coding outstanding ethical hacking projects or recording useful short tutorials . I love programming ethical hacking tools, fuzzing and hacking all the things | https://github.com/0xTRAW/0xTRAW | 1 | 1| 
 | 20210828T19:46:50Z | 2018 CS A Level Project: Teacher App | https://github.com/ZSciamma/fuzzy-guacamole | 0 | 0| 
 | 20210828T19:01:29Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 

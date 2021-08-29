@@ -84,13 +84,13 @@
 | 20210828T23:50:30Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6589 | 1349| 
 | 20210828T22:31:51Z | Emulation based snapshot fuzzer | https://github.com/jaoeul/gingersnap | 0 | 0| 
 | 20210828T21:43:45Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
-| 20210828T21:30:32Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2007 | 397| 
 | 20210828T21:24:44Z | Hi thre, I%m TRÄW🤟🏻, i%m a beginner in ethical hacking and Content Creator on Level iv Security & NOOBSEC. I Spend most of time coding outstanding ethical hacking projects or recording useful short tutorials . I love programming ethical hacking tools, fuzzing and hacking all the things | https://github.com/0xTRAW/0xTRAW | 1 | 1| 
 | 20210828T19:46:50Z | 2018 CS A Level Project: Teacher App | https://github.com/ZSciamma/fuzzy-guacamole | 0 | 0| 
 | 20210828T19:01:29Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210828T18:55:13Z | for fuzzing the C++ standard library | https://github.com/pauldreik/stdfuzz | 0 | 0| 
 | 20210828T18:09:26Z | A simple HTTP Fuzzer. | https://github.com/4shishRana/httpfuzz | 0 | 0| 
 | 20210828T17:31:53Z | A fuzzer that generates random Go programs | https://github.com/ALTree/microsmith | 11 | 0| 
+| 20210828T15:32:47Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1034 | 46| 
 
 
 
