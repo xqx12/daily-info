@@ -81,7 +81,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210828T23:58:44Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 33160 | 17237| 
 | 20210828T23:50:30Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6589 | 1349| 
 | 20210828T22:31:51Z | Emulation based snapshot fuzzer | https://github.com/jaoeul/gingersnap | 0 | 0| 
 | 20210828T21:43:45Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
@@ -91,6 +90,7 @@
 | 20210828T19:01:29Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210828T18:55:13Z | for fuzzing the C++ standard library | https://github.com/pauldreik/stdfuzz | 0 | 0| 
 | 20210828T18:09:26Z | A simple HTTP Fuzzer. | https://github.com/4shishRana/httpfuzz | 0 | 0| 
+| 20210828T17:31:53Z | A fuzzer that generates random Go programs | https://github.com/ALTree/microsmith | 11 | 0| 
 
 
 
