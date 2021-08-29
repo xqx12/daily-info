@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210829T12:44:23Z | Record some topics and exploits in my learning of PWN | https://github.com/noobone123/my_pwn | 0 | 0| 
 | 20210829T12:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9939 | 1663| 
 | 20210829T12:29:50Z | Programs for my journey to getting the OSEE | https://github.com/sparky23172/BinaryExploitation | 1 | 0| 
 | 20210829T12:15:03Z | Exploit scripts for HD Admin. Meant to be private for my Discord Server, but if you found them, Enjoy i guess. | https://github.com/arcsyi/HDXploit | 0 | 0| 
@@ -96,7 +97,6 @@
 | 20210829T11:03:42Z | A Remote Code Execution Post Exploitation Framework via Exif Data in images | https://github.com/CalfCrusher/Exif-Maniac | 0 | 0| 
 | 20210829T10:47:03Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 56 | 16| 
 | 20210829T10:33:02Z | Blog consacré au Raspberry Pi. Au programme : des actualités, des tutoriels en français, des conseils, des projets, et bien plus pour exploiter le maximum de votre framboise ! | https://github.com/Skyost/FramboisePi | 0 | 0| 
-| 20210829T10:30:41Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 540 | 109| 
 
 
 # backdoor on Github 推荐
