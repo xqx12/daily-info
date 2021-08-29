@@ -45,11 +45,11 @@
 | 20210828T23:54:11Z | Android RAT with web panel and undetectable App | https://github.com/Th30neAnd0nly/Ohm | 39 | 18| 
 | 20210828T23:22:23Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9934 | 1661| 
 | 20210828T23:09:07Z | Exploit Privado | https://github.com/whaomi23/Update-Defender | 0 | 0| 
-| 20210828T23:02:55Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210828T22:39:24Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 238 | 11| 
 | 20210828T22:38:45Z | Exploit scripts for HD Admin. Meant to be private for my Discord Server, but if you found them, Enjoy i guess. | https://github.com/arcsyi/HDXploit | 0 | 0| 
 | 20210828T22:18:24Z | Implementation of a digital multi-instrument using SuperCollider and Processing. Additive synthesis principle was exploited. | https://github.com/samuelebh/Additive-Synthesis-Live-Instrument | 0 | 0| 
 | 20210828T20:43:32Z | Null | https://github.com/0xturazzi/Um-Livrinho-Sobre-Exploit-Dev | 0 | 0| 
+| 20210828T20:20:53Z | A Remote Code Execution Post Exploitation Framework via Exif Data in images | https://github.com/CalfCrusher/Exif-Maniac | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -66,6 +66,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210828T21:23:50Z | Symbolica%s open-source symbolic execution engine. | https://github.com/SymbolicaDev/Symbolica | 4 | 0| 
+| 20210828T14:18:33Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 460 | 69| 
 | 20210828T08:49:39Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1880 | 390| 
 | 20210828T01:58:41Z | Symbolic Execution over Falcon IL | https://github.com/falconre/finch | 18 | 0| 
 
