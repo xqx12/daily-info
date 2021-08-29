@@ -43,7 +43,7 @@
 | 20210828T23:59:18Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 3914 | 561| 
 | 20210828T23:55:05Z | A collection of links related to Linux kernel security and exploitation | https://github.com/xairy/linux-kernel-exploitation | 3624 | 789| 
 | 20210828T23:54:11Z | Android RAT with web panel and undetectable App | https://github.com/Th30neAnd0nly/Ohm | 39 | 18| 
-| 20210828T23:22:23Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9934 | 1661| 
+| 20210828T23:22:23Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9934 | 1662| 
 | 20210828T23:09:07Z | Exploit Privado | https://github.com/whaomi23/Update-Defender | 0 | 0| 
 | 20210828T22:39:24Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 238 | 11| 
 | 20210828T22:38:45Z | Exploit scripts for HD Admin. Meant to be private for my Discord Server, but if you found them, Enjoy i guess. | https://github.com/arcsyi/HDXploit | 0 | 0| 
