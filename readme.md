@@ -72,6 +72,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210829T12:15:12Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 22 | 9| 
 | 20210829T12:02:35Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210829T11:28:37Z | The Fuzzing Book Study | https://github.com/MJ-SEO/Fuzzing | 5 | 0| 
 | 20210829T11:03:29Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 6 | 0| 
@@ -81,7 +82,6 @@
 | 20210829T09:25:02Z | 开源、轻量、快速、跨平台 的红队(redteam)外网打点扫描器，功能 端口扫描(port scan) 指纹识别(fingerprint) nday检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | 160 | 19| 
 | 20210829T08:43:31Z | Null | https://github.com/Nusuubr/fuzzy-robot | 0 | 0| 
 | 20210829T08:33:09Z | Null | https://github.com/dato24/fuzzy-octo-umbrella | 0 | 0| 
-| 20210829T08:32:40Z | 8个测试案例的模糊集数据 | https://github.com/hfsd1997/Fuzzy-set | 0 | 0| 
 
 
 
