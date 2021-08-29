@@ -35,6 +35,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210829T12:15:03Z | Exploit scripts for HD Admin. Meant to be private for my Discord Server, but if you found them, Enjoy i guess. | https://github.com/arcsyi/HDXploit | 0 | 0| 
 | 20210829T12:06:36Z | Exploit scripts for HD Admin. Meant to be private for my Discord Server, but if you found them, Enjoy i guess. | https://github.com/ArcModz/HDXploit | 0 | 0| 
 | 20210829T12:03:09Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210829T11:50:10Z | Programs for my journey to getting the OSEE | https://github.com/sparky23172/BinaryExploitation | 1 | 0| 
@@ -44,7 +45,6 @@
 | 20210829T10:33:02Z | Blog consacré au Raspberry Pi. Au programme : des actualités, des tutoriels en français, des conseils, des projets, et bien plus pour exploiter le maximum de votre framboise ! | https://github.com/Skyost/FramboisePi | 0 | 0| 
 | 20210829T10:30:41Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 540 | 109| 
 | 20210829T10:18:55Z | This repository contains the C program files that were taught in the book %Hacking The Art of Exploitation%. | https://github.com/papusethi/hackingtaoe | 0 | 0| 
-| 20210829T09:44:25Z | Exploiting Causal Structure for Transportability in Multi-Agent Environments | https://github.com/damianbrowne/ECS4TIME | 0 | 0| 
 
 
 # backdoor on Github 推荐

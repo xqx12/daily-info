@@ -50,8 +50,8 @@
 | 20210828T10:22:30Z | CVE-2020-15368 | How to exploit a vulnerable windows driver. Exploit for AsrDrv104.sys | https://github.com/stong/CVE-2020-15368 | AsrDrv103.sys in the ASRock RGB Driver does not properly restrict access from user space, as demonstrated by triggering a triple fault via a request to zero CR3.| 
 | 20210828T08:11:08Z | CVE-2021-36394 | Null | https://github.com/dinhbaouit/CVE-2021-36394 | 未查询到CVE信息| 
 | 20210828T05:53:53Z | CVE-2021-30551 | my exp for chrome V8 CVE-2021-30551 | https://github.com/xmzyshypnc/CVE-2021-30551 | Type confusion in V8 in Google Chrome prior to 91.0.4472.101 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.| 
-| 20210828T02:17:05Z | CVE-2021-3156 | Null | https://github.com/dock0d1/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210827T21:28:19Z | cve-2021-21972 | Null | https://github.com/stevenp322/cve-2021-21972 | | 
+| 20210828T02:17:05Z | CVE-2021-3156 | Null | https://github.com/dock0d1/CVE-2021-3156 | | 
+| 20210827T21:28:19Z | cve-2021-21972 | Null | https://github.com/stevenp322/cve-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
 | 20210827T19:25:06Z | CVE-2021-29447 | Null | https://github.com/AssassinUKG/CVE-2021-29447 | Wordpress is an open source CMS. A user with the ability to upload files (like an Author) can exploit an XML parsing issue in the Media Library leading to XXE attacks. This requires WordPress installation to be using PHP 8. Access to internal files is possible in a successful XXE attack. This has been patched in WordPress version 5.7.1, along with the older affected versions via a minor release. We strongly recommend you keep auto-updates enabled.| 
 | 20210827T08:27:41Z | cve-2021-3449 | CVE-2021-3449 OpenSSL denial-of-service exploit 👨🏻‍💻 | https://github.com/terorie/cve-2021-3449 | An OpenSSL TLS server may crash if sent a maliciously crafted renegotiation ClientHello message from a client. If a TLSv1.2 renegotiation ClientHello omits the signature_algorithms extension (where it was present in the initial ClientHello), but includes a signature_algorithms_cert extension then a NULL pointer dereference will result, leading to a crash and a denial of service attack. A server is only vulnerable if it has TLSv1.2 and renegotiation enabled (which is the default configuration). OpenSSL TLS clients are not impacted by this issue. All OpenSSL 1.1.1 versions are affected by this issue. Users of these versions should upgrade to OpenSSL 1.1.1k. OpenSSL 1.0.2 is not impacted by this issue. Fixed in OpenSSL 1.1.1k (Affected 1.1.1-1.1.1j).| 
 | 20210826T18:17:21Z | CVE-2020-16898 | A network detection package for CVE-2020-16898 (Windows TCP/IP Remote Code Execution Vulnerability) | https://github.com/corelight/CVE-2020-16898 | A remote code execution vulnerability exists when the Windows TCP/IP stack improperly handles ICMPv6 Router Advertisement packets, aka %Windows TCP/IP Remote Code Execution Vulnerability%.| 
@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210829T12:15:03Z | Exploit scripts for HD Admin. Meant to be private for my Discord Server, but if you found them, Enjoy i guess. | https://github.com/arcsyi/HDXploit | 0 | 0| 
 | 20210829T12:06:36Z | Exploit scripts for HD Admin. Meant to be private for my Discord Server, but if you found them, Enjoy i guess. | https://github.com/ArcModz/HDXploit | 0 | 0| 
 | 20210829T12:03:09Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210829T11:50:10Z | Programs for my journey to getting the OSEE | https://github.com/sparky23172/BinaryExploitation | 1 | 0| 
@@ -96,7 +97,6 @@
 | 20210829T10:33:02Z | Blog consacré au Raspberry Pi. Au programme : des actualités, des tutoriels en français, des conseils, des projets, et bien plus pour exploiter le maximum de votre framboise ! | https://github.com/Skyost/FramboisePi | 0 | 0| 
 | 20210829T10:30:41Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 540 | 109| 
 | 20210829T10:18:55Z | This repository contains the C program files that were taught in the book %Hacking The Art of Exploitation%. | https://github.com/papusethi/hackingtaoe | 0 | 0| 
-| 20210829T09:44:25Z | Exploiting Causal Structure for Transportability in Multi-Agent Environments | https://github.com/damianbrowne/ECS4TIME | 0 | 0| 
 
 
 # backdoor on Github 推荐
