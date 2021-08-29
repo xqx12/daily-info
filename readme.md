@@ -72,6 +72,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210829T12:27:57Z | for fuzzing the C++ standard library | https://github.com/pauldreik/stdfuzz | 0 | 0| 
 | 20210829T12:26:21Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210829T12:15:12Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 22 | 9| 
 | 20210829T12:02:35Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
@@ -81,7 +82,6 @@
 | 20210829T10:17:24Z | Null | https://github.com/Surrurh/fuzzy-lamp | 0 | 0| 
 | 20210829T09:53:09Z | Null | https://github.com/NICUP14/fuzzer | 0 | 0| 
 | 20210829T09:25:02Z | 开源、轻量、快速、跨平台 的红队(redteam)外网打点扫描器，功能 端口扫描(port scan) 指纹识别(fingerprint) nday检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | 160 | 19| 
-| 20210829T08:43:31Z | Null | https://github.com/Nusuubr/fuzzy-robot | 0 | 0| 
 
 
 
