@@ -51,6 +51,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210830T12:23:25Z | Null | https://github.com/xnmapadvanced/elghandoury_exploit | 0 | 0| 
+| 20210830T12:22:37Z | Null | https://github.com/WillOram/Post-exploitation-identity-stealing- | 0 | 0| 
 | 20210830T12:03:07Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210830T12:02:27Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 76 | 13| 
 | 20210830T11:57:03Z | GraphQL security auditing script with a focus on performing batch GraphQL queries and mutations | https://github.com/assetnote/batchql | 9 | 3| 
@@ -59,8 +61,6 @@
 | 20210830T11:32:00Z | Discover duplication glitches, abusive staff giving items, x-ray or simply poor server economy. | https://github.com/kangarko/Confiscate | 27 | 7| 
 | 20210830T10:51:18Z | Ghostscript Exploits | https://github.com/nsonaniya2010/testing | 0 | 1| 
 | 20210830T10:48:46Z | Exploit-db (is NOT the official APP). | https://github.com/gaiththewolf/Exploitdb | 1 | 0| 
-| 20210830T10:25:37Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9945 | 1665| 
-| 20210830T09:47:53Z | Null | https://github.com/kienquoc102/Netwave-GoAhead-Exploits | 1 | 0| 
 
 
 # backdoor on Github 推荐
