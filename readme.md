@@ -51,7 +51,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210830T12:37:08Z | my roblox exploit made 4fun | https://github.com/blxxxz/roblox-exploit-lua-exec | 0 | 0| 
+| 20210830T12:39:22Z | my roblox exploit made 4fun | https://github.com/blxxxz/roblox-exploit-lua-exec | 0 | 0| 
 | 20210830T12:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9945 | 1665| 
 | 20210830T12:34:01Z | My Master project, where I explore how exploitative interactions affects coevolutionary dynamics in mutualistic networks | https://github.com/lucascamacho/coevo_mut_antag | 0 | 0| 
 | 20210830T12:31:38Z | Null | https://github.com/xnmapadvanced/elghandoury_exploit | 0 | 0| 
@@ -66,12 +66,12 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210830T12:38:51Z | Learning in public about supply-chain security of community open source projects | https://github.com/bureado/they-probably-didnt-backdoor-this-either | 1 | 0| 
 | 20210830T11:50:57Z | This is an advanced backdoor, created with Python | https://github.com/NoamHarush/Backdoor | 0 | 0| 
 | 20210830T11:18:29Z | a request from anonymous | https://github.com/Vex43/roblox-backdoor | 0 | 0| 
 | 20210830T08:10:24Z | A simple remote tool written in C#.    一个简单的c#远控 | https://github.com/qwqdanchun/DcRat | 335 | 123| 
 | 20210830T07:40:08Z | A collection of python written hacking tools consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester credential harvester, keylogger, download&execute, ransomware and reverse_backdoor. | https://github.com/dmdhrumilmistry/pyhtools | 20 | 8| 
 | 20210830T03:51:57Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 618 | 85| 
-| 20210830T03:18:24Z | Learning in public about supply-chain security of community open source projects | https://github.com/bureado/they-probably-didnt-backdoor-this-either | 0 | 0| 
 | 20210830T03:01:44Z | A workflow to create/manage a backdoor admin account and rotate the password. E.g. Another LAPS workflow. | https://github.com/Rocketman-Tech/BreakGlassAdmin | 0 | 1| 
 
 
