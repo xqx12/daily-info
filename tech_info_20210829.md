@@ -83,7 +83,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210829T23:55:11Z | Null | https://github.com/Ubisam-Project-MASIDU/FuzzStoryWorld | 0 | 0| 
 | 20210829T23:32:18Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210829T23:20:29Z | Null | https://github.com/GitHub925/fuzzy-fiesta | 0 | 0| 
 | 20210829T23:11:52Z | This code clusters an image with a fuzzy c means algorithm  | https://github.com/rodblg/Fuzzy_C_Means_Image_Segmentation | 0 | 0| 
@@ -93,6 +92,7 @@
 | 20210829T21:09:43Z | Simple ptrace-based fuzzer written in Zig | https://github.com/pakesson/zigfuzz | 0 | 0| 
 | 20210829T20:52:31Z | Null | https://github.com/ghoyane/fuzzy-dollop | 0 | 0| 
 | 20210829T20:51:17Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6590 | 1349| 
+| 20210829T20:36:06Z | Tutorials for my youtube page | https://github.com/FuzzySmurf/FuzzyTutorials | 0 | 0| 
 
 
 
