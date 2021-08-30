@@ -87,7 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210830T01:34:08Z | I am not the creator of this exploit, all credit goes to 7GrandDadPGN! | https://github.com/EthanMcDonagh/SycoleX | 0 | 0| 
+| 20210830T01:35:11Z | I am not the creator of this exploit, all credit goes to 7GrandDadPGN! | https://github.com/EthanMcDonagh/SycoleX | 0 | 0| 
 | 20210830T01:16:06Z |  Linux Kernel 5.4 - %BleedingTooth% Bluetooth Zero-Click Remote Code Execution | https://github.com/dock0d1/Exploit-Linux-Kernel-5.4---BleedingTooth-Bluetooth-Zero-Click-Remote-Code-Execution | 3 | 1| 
 | 20210830T01:03:07Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210830T00:56:07Z | A post-exploitation framework for Windows and Linux. | https://github.com/0x1CA3/Duo | 1 | 0| 
