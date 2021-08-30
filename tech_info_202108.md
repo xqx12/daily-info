@@ -16,6 +16,7 @@
 | 20210830 | SNES 游戏模拟器被发现 DLL 劫持漏洞 | https://huskyhacks.dev/2021/08/29/dll-hijacking-dll-proxying-an-snes-emulator/| 
 | 20210830 | Data-Only Attacks Against UEFI BIOS | https://github.com/flothrone/smm/blob/main/ZN2021%20Dataonly%20attacks%20BIOS%20-%20Ermolov.pdf| 
 | 20210830 | 漫谈PHP反汇编器/反编译器 | https://sec.today/pulses/413ff4a8-fe78-4751-a529-61083de4ac8d/| 
+| 20210830 | 漫谈PHP反汇编器/反编译器 | https://mp.weixin.qq.com/s/bmdSyZem46aukj_hvLhu0w| 
 | 20210829 | linux 内核跟踪分析。 | http://redplait.blogspot.com/2021/08/linux-kernel-tracing.html| 
 | 20210829 | iOS Tampering and Reverse Engineering。 | https://github.com/OWASP/owasp-mstg/blob/master/Document/0x06c-Reverse-Engineering-and-Tampering.md| 
 | 20210827 | 在 Reader 角色中滥用 Azure Logic Apps 访问敏感信息 | https://www.netspi.com/blog/technical/cloud-penetration-testing/illogical-apps-exploring-exploiting-azure-logic-apps/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+NetspiBlog+%28NetSPI+Blog%29| 
@@ -25,7 +26,6 @@
 | 20210827 | 利用 Trust Policy 访问模型的古老特性实现 AWS 的特权 | https://rzepsky.medium.com/aws-privilege-escalation-exploring-odd-features-of-the-trust-policy-7a970a32861| 
 | 20210827 | RC4 与 Salsa20 加密算法的逆向 | https://www.goggleheadedhacker.com/blog/post/reversing-crypto-functions| 
 | 20210827 | HITB 会议关于 Android 内核 UAF 漏洞利用的议题：The Art of Exploiting UAF by Ret2bpf in Android Kernel | https://conference.hitb.org/hitbsecconf2021sin/materials/D1T1%20-%20%20The%20Art%20of%20Exploiting%20UAF%20by%20Ret2bpf%20in%20Android%20Kernel%20-%20Xingyu%20Jin%20&%20Richard%20Neal.pdf| 
-| 20210827 | 来自 HITB 会议的议题：Make JDBC Attack Brilliant Again | https://conference.hitb.org/hitbsecconf2021sin/materials/D1T2%20-%20Make%20JDBC%20Attacks%20Brilliant%20Again%20-%20Xu%20Yuanzhen%20&%20Chen%20Hongkun.pdf| 
 
 
 # 安全维基 推荐
@@ -117,16 +117,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210830T01:57:19Z | FuzzBALL: Vine-based Binary Symbolic Execution | https://github.com/bitblaze-fuzzball/fuzzball | 205 | 52| 
 | 20210829T20:24:29Z | A symbolic execution tool for Move, which is a smart contract language designed for Facebook Diem. | https://github.com/LEAFERx/Movable | 0 | 0| 
 | 20210829T20:18:57Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 157 | 34| 
 | 20210829T10:15:52Z | Symbolica%s open-source symbolic execution engine. | https://github.com/SymbolicaDev/Symbolica | 4 | 0| 
 | 20210829T00:26:35Z | It is a repository for conducting symbolic execution on nodejs automatically | https://github.com/zheli-1/nodejs-sym | 0 | 0| 
 | 20210829T00:25:14Z | It is a repository for conducting symbolic execution on nodejs automatically | https://github.com/zheli-1/nodejs-sym-harness | 0 | 0| 
-| 20210828T14:18:33Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 460 | 69| 
+| 20210828T14:18:33Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 460 | 70| 
 | 20210828T08:49:39Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1880 | 390| 
 | 20210828T01:58:41Z | Symbolic Execution over Falcon IL | https://github.com/falconre/finch | 18 | 0| 
 | 20210827T20:18:33Z | Symbolic execution of LLVM IR with an engine written in Rust | https://github.com/PLSysSec/haybale | 325 | 16| 
-| 20210827T17:56:00Z | Verifying constant-time code with symbolic execution | https://github.com/PLSysSec/haybale-pitchfork | 31 | 0| 
 
 
 # big4 on Github 推荐

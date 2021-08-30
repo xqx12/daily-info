@@ -16,6 +16,7 @@
 | 20210830 | SNES 游戏模拟器被发现 DLL 劫持漏洞 | https://huskyhacks.dev/2021/08/29/dll-hijacking-dll-proxying-an-snes-emulator/| 
 | 20210830 | Data-Only Attacks Against UEFI BIOS | https://github.com/flothrone/smm/blob/main/ZN2021%20Dataonly%20attacks%20BIOS%20-%20Ermolov.pdf| 
 | 20210830 | 漫谈PHP反汇编器/反编译器 | https://sec.today/pulses/413ff4a8-fe78-4751-a529-61083de4ac8d/| 
+| 20210830 | 漫谈PHP反汇编器/反编译器 | https://mp.weixin.qq.com/s/bmdSyZem46aukj_hvLhu0w| 
 
 
 # 安全维基 推荐
@@ -77,6 +78,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210830T01:57:19Z | FuzzBALL: Vine-based Binary Symbolic Execution | https://github.com/bitblaze-fuzzball/fuzzball | 205 | 52| 
 
 
 # big4 on Github 推荐
