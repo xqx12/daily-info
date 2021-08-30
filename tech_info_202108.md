@@ -87,7 +87,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210830T01:15:12Z | I am not the creator of this exploit, all credit goes to 7GrandDadPGN! | https://github.com/EthanMcDonagh/SycoleX | 0 | 0| 
+| 20210830T01:16:27Z | I am not the creator of this exploit, all credit goes to 7GrandDadPGN! | https://github.com/EthanMcDonagh/SycoleX | 0 | 0| 
+| 20210830T01:16:06Z |  Linux Kernel 5.4 - %BleedingTooth% Bluetooth Zero-Click Remote Code Execution | https://github.com/dock0d1/Exploit-Linux-Kernel-5.4---BleedingTooth-Bluetooth-Zero-Click-Remote-Code-Execution | 3 | 1| 
 | 20210830T01:03:07Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210830T00:56:07Z | A post-exploitation framework for Windows and Linux. | https://github.com/0x1CA3/Duo | 1 | 0| 
 | 20210830T00:32:52Z | Null | https://github.com/bunkerexplorer2000/roblox-exploiting | 0 | 0| 
@@ -96,7 +97,6 @@
 | 20210829T22:19:37Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9943 | 1664| 
 | 20210829T22:13:59Z | Writeup for exploit.education/nebula | https://github.com/vi11ain/nebula-writeup | 1 | 0| 
 | 20210829T22:12:24Z | Programming - Payload - Exploit templates | https://github.com/dev-frog/templates | 0 | 0| 
-| 20210829T21:42:31Z | Experimenting with Kali Linux tools to exploit vulnerabilities in WordPress | https://github.com/LifeBringer/WordPress-Pentesting | 0 | 1| 
 
 
 # backdoor on Github 推荐
