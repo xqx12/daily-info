@@ -144,13 +144,13 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210830T00:14:26Z | Null | https://github.com/Ubisam-Project-MASIDU/FuzzStoryWorld | 0 | 0| 
+| 20210830T00:29:42Z | Null | https://github.com/epsonik/FuzzyDescV2 | 0 | 0| 
+| 20210830T00:28:47Z | Null | https://github.com/Ubisam-Project-MASIDU/FuzzStoryWorld | 0 | 0| 
 | 20210830T00:00:03Z | Fuzzy | https://github.com/Yazannalkhateeeb/fuzzy | 0 | 0| 
 | 20210829T23:32:18Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210829T23:20:29Z | Null | https://github.com/GitHub925/fuzzy-fiesta | 0 | 0| 
 | 20210829T23:11:52Z | This code clusters an image with a fuzzy c means algorithm  | https://github.com/rodblg/Fuzzy_C_Means_Image_Segmentation | 0 | 0| 
 | 20210829T22:45:47Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
-| 20210829T22:17:09Z | Null | https://github.com/epsonik/FuzzyDescV2 | 0 | 0| 
 | 20210829T22:00:04Z | Small web app for cataloging side projects | https://github.com/fuzzylimes/fuzzy-project-catalog | 0 | 0| 
 | 20210829T21:09:43Z | Simple ptrace-based fuzzer written in Zig | https://github.com/pakesson/zigfuzz | 0 | 0| 
 | 20210829T20:52:31Z | Null | https://github.com/ghoyane/fuzzy-dollop | 0 | 0| 

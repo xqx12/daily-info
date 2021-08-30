@@ -87,12 +87,12 @@
 | 20210829T23:20:29Z | Null | https://github.com/GitHub925/fuzzy-fiesta | 0 | 0| 
 | 20210829T23:11:52Z | This code clusters an image with a fuzzy c means algorithm  | https://github.com/rodblg/Fuzzy_C_Means_Image_Segmentation | 0 | 0| 
 | 20210829T22:45:47Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
-| 20210829T22:17:09Z | Null | https://github.com/epsonik/FuzzyDescV2 | 0 | 0| 
 | 20210829T22:00:04Z | Small web app for cataloging side projects | https://github.com/fuzzylimes/fuzzy-project-catalog | 0 | 0| 
 | 20210829T21:09:43Z | Simple ptrace-based fuzzer written in Zig | https://github.com/pakesson/zigfuzz | 0 | 0| 
 | 20210829T20:52:31Z | Null | https://github.com/ghoyane/fuzzy-dollop | 0 | 0| 
 | 20210829T20:51:17Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6590 | 1349| 
 | 20210829T20:36:06Z | Tutorials for my youtube page | https://github.com/FuzzySmurf/FuzzyTutorials | 0 | 0| 
+| 20210829T20:11:55Z | A fuzzing platform of Zigbee protocol implementations | https://github.com/zigbeeprotocol/Z-Fuzzer | 0 | 0| 
 
 
 
