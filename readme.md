@@ -39,7 +39,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210829T23:03:01Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210829T22:41:48Z | Trace Generation Tool and Traces Used In the Paper: %Chimera: exploiting UAS flight path information to optimize heterogeneous data transmission,% by Shirey, Rao, and Sundaram. | https://github.com/Purdue-ISL/ChimeraTraceGeneration | 0 | 0| 
 | 20210829T22:39:10Z | A full fledged exploitation framework written in pure python3. | https://github.com/MrSharkSpamBot/GlidingSword | 0 | 0| 
 | 20210829T22:19:37Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9943 | 1664| 
@@ -49,6 +48,7 @@
 | 20210829T21:32:50Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 239 | 11| 
 | 20210829T21:31:23Z | Linux Kernel Defence Map shows the relationships between vulnerability classes, exploitation techniques, bug detection mechanisms, and defence technologies | https://github.com/a13xp0p0v/linux-kernel-defence-map | 1249 | 87| 
 | 20210829T21:21:39Z | Un simple portefeuille qui vous laissera exploiter le STI2D a votre guise. | https://github.com/sti2d-company/wallet | 0 | 1| 
+| 20210829T20:30:27Z | Fixes an exploit in GenisysPro that allows an attacker to crash the server  | https://github.com/Gaprix/gMoveExploitFix | 0 | 0| 
 
 
 # backdoor on Github 推荐
