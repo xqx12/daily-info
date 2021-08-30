@@ -32,7 +32,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210830T10:46:22Z | CVE-2021-3490 | Null | https://github.com/chompie1337/Linux_LPE_eBPF_CVE-2021-3490 | The eBPF ALU32 bounds tracking for bitwise ops (AND, OR and XOR) in the Linux kernel did not properly update 32-bit bounds, which could be turned into out of bounds reads and writes in the Linux kernel and therefore, arbitrary code execution. This issue was fixed via commit 049c4e13714e (%bpf: Fix alu32 const subreg bound tracking on bitwise operations%) (v5.13-rc4) and backported to the stable kernels in v5.12.4, v5.11.21, and v5.10.37. The AND/OR issues were introduced by commit 3f50f132d840 (%bpf: Verifier, do explicit ALU32 bounds tracking%) (5.7-rc1) and the XOR variant was introduced by 2921c90d4718 (%bpf:Fix a verifier failure with xor%) ( 5.10-rc1).| 
-| 20210830T07:36:09Z | CVE-2021-36394 | Null | https://github.com/dinhbaouit/CVE-2021-36394 | | 
+| 20210830T07:36:09Z | CVE-2021-36394 | Null | https://github.com/dinhbaouit/CVE-2021-36394 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
@@ -51,16 +51,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210830T12:27:04Z | Null | https://github.com/xnmapadvanced/elghandoury_exploit | 0 | 0| 
-| 20210830T12:26:54Z | Null | https://github.com/MarioSecurity1337/lfi-exploit | 0 | 0| 
+| 20210830T12:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9945 | 1665| 
+| 20210830T12:34:01Z | My Master project, where I explore how exploitative interactions affects coevolutionary dynamics in mutualistic networks | https://github.com/lucascamacho/coevo_mut_antag | 0 | 0| 
+| 20210830T12:31:38Z | Null | https://github.com/xnmapadvanced/elghandoury_exploit | 0 | 0| 
+| 20210830T12:30:00Z | Null | https://github.com/MarioSecurity1337/lfi-exploit | 0 | 0| 
 | 20210830T12:22:37Z | Null | https://github.com/WillOram/Post-exploitation-identity-stealing- | 0 | 0| 
 | 20210830T12:03:07Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210830T12:02:27Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 76 | 13| 
 | 20210830T11:57:03Z | GraphQL security auditing script with a focus on performing batch GraphQL queries and mutations | https://github.com/assetnote/batchql | 9 | 3| 
 | 20210830T11:56:43Z | Une liste d%exploits, simples à utiliser. | https://github.com/billythegoat356/Exploits | 0 | 0| 
 | 20210830T11:50:50Z | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | 248 | 42| 
-| 20210830T11:32:00Z | Discover duplication glitches, abusive staff giving items, x-ray or simply poor server economy. | https://github.com/kangarko/Confiscate | 27 | 7| 
-| 20210830T10:51:18Z | Ghostscript Exploits | https://github.com/nsonaniya2010/testing | 0 | 1| 
 
 
 # backdoor on Github 推荐
@@ -91,6 +91,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210830T12:35:52Z | Null | https://github.com/jiradeto/fuzzbench-result | 0 | 0| 
 | 20210830T12:31:21Z | All things Fuzzy | https://github.com/QuantumSLE/Fuzz_master_flex | 0 | 0| 
 | 20210830T12:26:38Z | Tools for fuzzing RDP | https://github.com/cyberark/rdpfuzz | 15 | 3| 
 | 20210830T12:24:58Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6592 | 1349| 
@@ -100,7 +101,6 @@
 | 20210830T11:18:56Z | IDOR bypass fuzz 权限绕过burp 插件 fuzz （shiro 等） | https://github.com/guguyu1/IDOR-bypass-fuzz | 6 | 1| 
 | 20210830T09:34:40Z | 开源、轻量、快速、跨平台 的红队(redteam)外网打点扫描器，功能 端口扫描(port scan) 指纹识别(fingerprint) nday检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | 161 | 19| 
 | 20210830T09:31:53Z | Null | https://github.com/Isbdusvd/fuzzy-palm-tree | 0 | 0| 
-| 20210830T09:30:36Z | Node JS project for experiment | https://github.com/dannythreeka/fuzzy-bassoon | 0 | 0| 
 
 
 
