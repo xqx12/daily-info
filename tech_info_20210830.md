@@ -51,7 +51,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210830T12:39:22Z | my roblox exploit made 4fun | https://github.com/blxxxz/roblox-exploit-lua-exec | 0 | 0| 
+| 20210830T12:42:00Z | my roblox exploit made 4fun | https://github.com/blxxxz/roblox-exploit-lua-exec | 0 | 0| 
 | 20210830T12:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9945 | 1665| 
 | 20210830T12:34:01Z | My Master project, where I explore how exploitative interactions affects coevolutionary dynamics in mutualistic networks | https://github.com/lucascamacho/coevo_mut_antag | 0 | 0| 
 | 20210830T12:31:38Z | Null | https://github.com/xnmapadvanced/elghandoury_exploit | 0 | 0| 
@@ -91,12 +91,12 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210830T12:52:25Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210830T12:35:52Z | Null | https://github.com/jiradeto/fuzzbench-result | 0 | 0| 
 | 20210830T12:31:21Z | All things Fuzzy | https://github.com/QuantumSLE/Fuzz_master_flex | 0 | 0| 
 | 20210830T12:26:38Z | Tools for fuzzing RDP | https://github.com/cyberark/rdpfuzz | 15 | 3| 
 | 20210830T12:24:58Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6592 | 1349| 
 | 20210830T12:11:15Z | Null | https://github.com/t-head-aosp/platform-test-vts-testcase-fuzz | 0 | 0| 
-| 20210830T11:31:05Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210830T11:30:29Z | 2222 | https://github.com/Congti555/fuzzy-engine | 0 | 0| 
 | 20210830T11:18:56Z | IDOR bypass fuzz 权限绕过burp 插件 fuzz （shiro 等） | https://github.com/guguyu1/IDOR-bypass-fuzz | 6 | 1| 
 | 20210830T09:34:40Z | 开源、轻量、快速、跨平台 的红队(redteam)外网打点扫描器，功能 端口扫描(port scan) 指纹识别(fingerprint) nday检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | 161 | 19| 
