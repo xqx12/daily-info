@@ -51,7 +51,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210830T12:23:25Z | Null | https://github.com/xnmapadvanced/elghandoury_exploit | 0 | 0| 
+| 20210830T12:27:04Z | Null | https://github.com/xnmapadvanced/elghandoury_exploit | 0 | 0| 
+| 20210830T12:26:54Z | Null | https://github.com/MarioSecurity1337/lfi-exploit | 0 | 0| 
 | 20210830T12:22:37Z | Null | https://github.com/WillOram/Post-exploitation-identity-stealing- | 0 | 0| 
 | 20210830T12:03:07Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210830T12:02:27Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 76 | 13| 
@@ -60,7 +61,6 @@
 | 20210830T11:50:50Z | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | 248 | 42| 
 | 20210830T11:32:00Z | Discover duplication glitches, abusive staff giving items, x-ray or simply poor server economy. | https://github.com/kangarko/Confiscate | 27 | 7| 
 | 20210830T10:51:18Z | Ghostscript Exploits | https://github.com/nsonaniya2010/testing | 0 | 1| 
-| 20210830T10:48:46Z | Exploit-db (is NOT the official APP). | https://github.com/gaiththewolf/Exploitdb | 1 | 0| 
 
 
 # backdoor on Github 推荐
