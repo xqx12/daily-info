@@ -27,7 +27,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20210829T20:34:51Z | Null | https://github.com/luchunchen/new-klee | 0 | 0| 
-| 20210829T18:58:19Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2676 | 68| 
 
 
 # s2e on Github 推荐

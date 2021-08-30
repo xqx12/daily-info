@@ -61,8 +61,8 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210830T00:55:29Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2677 | 68| 
 | 20210829T20:34:51Z | Null | https://github.com/luchunchen/new-klee | 0 | 0| 
-| 20210829T18:58:19Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2676 | 68| 
 | 20210828T10:22:50Z | a mirai bot | https://github.com/youfantan/KleeBot | 2 | 0| 
 | 20210827T18:26:20Z | Null | https://github.com/Aredu89/Test-kleeen-demo | 0 | 0| 
 | 20210827T13:31:03Z | A RISC-V RV32 virtual prototype based on riscv-vp with symbolic execution support | https://github.com/agra-uni-bremen/symex-vp | 3 | 1| 
@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210830T00:56:07Z | A post-exploitation framework for Windows and Linux. | https://github.com/0x1CA3/Duo | 1 | 0| 
 | 20210830T00:32:52Z | Null | https://github.com/bunkerexplorer2000/roblox-exploiting | 0 | 0| 
 | 20210830T00:03:21Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210829T22:41:48Z | Trace Generation Tool and Traces Used In the Paper: %Chimera: exploiting UAS flight path information to optimize heterogeneous data transmission,% by Shirey, Rao, and Sundaram. | https://github.com/Purdue-ISL/ChimeraTraceGeneration | 0 | 0| 
@@ -96,7 +97,6 @@
 | 20210829T22:12:24Z | Programming - Payload - Exploit templates | https://github.com/dev-frog/templates | 0 | 0| 
 | 20210829T21:42:31Z | Experimenting with Kali Linux tools to exploit vulnerabilities in WordPress | https://github.com/LifeBringer/WordPress-Pentesting | 0 | 1| 
 | 20210829T21:32:50Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 239 | 11| 
-| 20210829T21:31:23Z | Linux Kernel Defence Map shows the relationships between vulnerability classes, exploitation techniques, bug detection mechanisms, and defence technologies | https://github.com/a13xp0p0v/linux-kernel-defence-map | 1249 | 87| 
 
 
 # backdoor on Github 推荐
