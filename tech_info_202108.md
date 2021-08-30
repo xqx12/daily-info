@@ -144,6 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210830T00:35:27Z | Null | https://github.com/olegsych/fuzzy | 0 | 0| 
 | 20210830T00:33:46Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210830T00:29:42Z | Null | https://github.com/epsonik/FuzzyDescV2 | 0 | 0| 
 | 20210830T00:28:47Z | Null | https://github.com/Ubisam-Project-MASIDU/FuzzStoryWorld | 0 | 0| 
@@ -153,7 +154,6 @@
 | 20210829T23:11:52Z | This code clusters an image with a fuzzy c means algorithm  | https://github.com/rodblg/Fuzzy_C_Means_Image_Segmentation | 0 | 0| 
 | 20210829T22:45:47Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210829T22:00:04Z | Small web app for cataloging side projects | https://github.com/fuzzylimes/fuzzy-project-catalog | 0 | 0| 
-| 20210829T21:09:43Z | Simple ptrace-based fuzzer written in Zig | https://github.com/pakesson/zigfuzz | 0 | 0| 
 
 
 
