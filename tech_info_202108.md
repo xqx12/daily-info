@@ -55,7 +55,7 @@
 | 20210827T19:25:06Z | CVE-2021-29447 | Null | https://github.com/AssassinUKG/CVE-2021-29447 | Wordpress is an open source CMS. A user with the ability to upload files (like an Author) can exploit an XML parsing issue in the Media Library leading to XXE attacks. This requires WordPress installation to be using PHP 8. Access to internal files is possible in a successful XXE attack. This has been patched in WordPress version 5.7.1, along with the older affected versions via a minor release. We strongly recommend you keep auto-updates enabled.| 
 | 20210827T08:27:41Z | cve-2021-3449 | CVE-2021-3449 OpenSSL denial-of-service exploit 👨🏻‍💻 | https://github.com/terorie/cve-2021-3449 | An OpenSSL TLS server may crash if sent a maliciously crafted renegotiation ClientHello message from a client. If a TLSv1.2 renegotiation ClientHello omits the signature_algorithms extension (where it was present in the initial ClientHello), but includes a signature_algorithms_cert extension then a NULL pointer dereference will result, leading to a crash and a denial of service attack. A server is only vulnerable if it has TLSv1.2 and renegotiation enabled (which is the default configuration). OpenSSL TLS clients are not impacted by this issue. All OpenSSL 1.1.1 versions are affected by this issue. Users of these versions should upgrade to OpenSSL 1.1.1k. OpenSSL 1.0.2 is not impacted by this issue. Fixed in OpenSSL 1.1.1k (Affected 1.1.1-1.1.1j).| 
 | 20210826T18:17:21Z | CVE-2020-16898 | A network detection package for CVE-2020-16898 (Windows TCP/IP Remote Code Execution Vulnerability) | https://github.com/corelight/CVE-2020-16898 | A remote code execution vulnerability exists when the Windows TCP/IP stack improperly handles ICMPv6 Router Advertisement packets, aka %Windows TCP/IP Remote Code Execution Vulnerability%.| 
-| 20210826T14:33:39Z | CVE-2021-3490 | Null | https://github.com/chompie1337/Linux_LPE_eBPF_CVE-2021-3490 | | 
+| 20210826T14:33:39Z | CVE-2021-3490 | Null | https://github.com/chompie1337/Linux_LPE_eBPF_CVE-2021-3490 | The eBPF ALU32 bounds tracking for bitwise ops (AND, OR and XOR) in the Linux kernel did not properly update 32-bit bounds, which could be turned into out of bounds reads and writes in the Linux kernel and therefore, arbitrary code execution. This issue was fixed via commit 049c4e13714e (%bpf: Fix alu32 const subreg bound tracking on bitwise operations%) (v5.13-rc4) and backported to the stable kernels in v5.12.4, v5.11.21, and v5.10.37. The AND/OR issues were introduced by commit 3f50f132d840 (%bpf: Verifier, do explicit ALU32 bounds tracking%) (5.7-rc1) and the XOR variant was introduced by 2921c90d4718 (%bpf:Fix a verifier failure with xor%) ( 5.10-rc1).| 
 
 
 # klee on Github 推荐
@@ -144,6 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210830T00:33:46Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210830T00:29:42Z | Null | https://github.com/epsonik/FuzzyDescV2 | 0 | 0| 
 | 20210830T00:28:47Z | Null | https://github.com/Ubisam-Project-MASIDU/FuzzStoryWorld | 0 | 0| 
 | 20210830T00:00:03Z | Fuzzy | https://github.com/Yazannalkhateeeb/fuzzy | 0 | 0| 
@@ -153,7 +154,6 @@
 | 20210829T22:45:47Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210829T22:00:04Z | Small web app for cataloging side projects | https://github.com/fuzzylimes/fuzzy-project-catalog | 0 | 0| 
 | 20210829T21:09:43Z | Simple ptrace-based fuzzer written in Zig | https://github.com/pakesson/zigfuzz | 0 | 0| 
-| 20210829T20:52:31Z | Null | https://github.com/ghoyane/fuzzy-dollop | 0 | 0| 
 
 
 
