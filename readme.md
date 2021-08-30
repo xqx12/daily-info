@@ -51,6 +51,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210830T12:52:30Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 21 | 13| 
 | 20210830T12:42:00Z | my roblox exploit made 4fun | https://github.com/blxxxz/roblox-exploit-lua-exec | 0 | 0| 
 | 20210830T12:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9945 | 1665| 
 | 20210830T12:34:01Z | My Master project, where I explore how exploitative interactions affects coevolutionary dynamics in mutualistic networks | https://github.com/lucascamacho/coevo_mut_antag | 0 | 0| 
@@ -60,7 +61,6 @@
 | 20210830T12:03:07Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210830T12:02:27Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 76 | 13| 
 | 20210830T11:57:03Z | GraphQL security auditing script with a focus on performing batch GraphQL queries and mutations | https://github.com/assetnote/batchql | 9 | 3| 
-| 20210830T11:56:43Z | Une liste d%exploits, simples à utiliser. | https://github.com/billythegoat356/Exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐

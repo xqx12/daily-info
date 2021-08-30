@@ -48,7 +48,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210830T10:46:22Z | CVE-2021-3490 | Null | https://github.com/chompie1337/Linux_LPE_eBPF_CVE-2021-3490 | The eBPF ALU32 bounds tracking for bitwise ops (AND, OR and XOR) in the Linux kernel did not properly update 32-bit bounds, which could be turned into out of bounds reads and writes in the Linux kernel and therefore, arbitrary code execution. This issue was fixed via commit 049c4e13714e (%bpf: Fix alu32 const subreg bound tracking on bitwise operations%) (v5.13-rc4) and backported to the stable kernels in v5.12.4, v5.11.21, and v5.10.37. The AND/OR issues were introduced by commit 3f50f132d840 (%bpf: Verifier, do explicit ALU32 bounds tracking%) (5.7-rc1) and the XOR variant was introduced by 2921c90d4718 (%bpf:Fix a verifier failure with xor%) ( 5.10-rc1).| 
 | 20210830T07:36:09Z | CVE-2021-36394 | Null | https://github.com/dinhbaouit/CVE-2021-36394 | 未查询到CVE信息| 
-| 20210829T06:52:30Z | CVE-2020-0796 | MS CVE 2020-0796 SMB | https://github.com/Nephael/Nephael-CVE-2020-0796 | A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests, aka %Windows SMBv3 Client/Server Remote Code Execution Vulnerability%.| 
+| 20210829T06:52:30Z | CVE-2020-0796 | MS CVE 2020-0796 SMB | https://github.com/Nephael/Nephael-CVE-2020-0796 | | 
 | 20210828T10:22:30Z | CVE-2020-15368 | How to exploit a vulnerable windows driver. Exploit for AsrDrv104.sys | https://github.com/stong/CVE-2020-15368 | AsrDrv103.sys in the ASRock RGB Driver does not properly restrict access from user space, as demonstrated by triggering a triple fault via a request to zero CR3.| 
 | 20210828T05:53:53Z | CVE-2021-30551 | my exp for chrome V8 CVE-2021-30551 | https://github.com/xmzyshypnc/CVE-2021-30551 | Type confusion in V8 in Google Chrome prior to 91.0.4472.101 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.| 
 | 20210828T02:17:05Z | CVE-2021-3156 | Null | https://github.com/dock0d1/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210830T12:52:30Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 21 | 13| 
 | 20210830T12:42:00Z | my roblox exploit made 4fun | https://github.com/blxxxz/roblox-exploit-lua-exec | 0 | 0| 
 | 20210830T12:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9945 | 1665| 
 | 20210830T12:34:01Z | My Master project, where I explore how exploitative interactions affects coevolutionary dynamics in mutualistic networks | https://github.com/lucascamacho/coevo_mut_antag | 0 | 0| 
@@ -96,7 +97,6 @@
 | 20210830T12:03:07Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210830T12:02:27Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 76 | 13| 
 | 20210830T11:57:03Z | GraphQL security auditing script with a focus on performing batch GraphQL queries and mutations | https://github.com/assetnote/batchql | 9 | 3| 
-| 20210830T11:56:43Z | Une liste d%exploits, simples à utiliser. | https://github.com/billythegoat356/Exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
