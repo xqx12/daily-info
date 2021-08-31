@@ -144,6 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210831T01:14:49Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210831T00:52:37Z | Null | https://github.com/Ubisam-Project-MASIDU/FuzzStoryWorld | 0 | 0| 
 | 20210831T00:47:03Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1038 | 114| 
 | 20210831T00:13:06Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
@@ -153,7 +154,6 @@
 | 20210830T22:32:40Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 7 | 1| 
 | 20210830T22:27:25Z | Library for structured fuzzing with protobuffers | https://github.com/google/libprotobuf-mutator | 342 | 79| 
 | 20210830T22:05:54Z | A ground-truth fuzzing benchmark suite based on real programs with real bugs. | https://github.com/HexHive/magma | 132 | 39| 
-| 20210830T21:51:18Z | A fuzzing management tools collection | https://github.com/MozillaSecurity/FuzzManager | 155 | 48| 
 
 
 
