@@ -39,7 +39,6 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210830T23:48:30Z | Null | https://github.com/kleelab/kleelab.github.io | 0 | 0| 
 | 20210830T22:18:11Z | Kleene algebra, regular expressions | https://github.com/phadej/kleene | 27 | 1| 
 | 20210830T20:00:13Z | Backend application for running static analysis of rust-based programs | https://github.com/LedgerProject/safepkt_backend | 0 | 0| 
 | 20210830T18:01:40Z | Null | https://github.com/pansilup/cgc-prgs-for-klee-seed-mode | 0 | 0| 
@@ -63,12 +62,12 @@
 | 20210830T23:40:03Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
 | 20210830T23:37:48Z | Exploiting API to Shell challenge from Pentesterlab serialize badge. | https://github.com/RyouYoo/API-to-Shell | 2 | 0| 
 | 20210830T23:36:11Z | Tron is a %Roblox Exploit% that is meant to help people get to know C# Framework app | https://github.com/redfoxdadad/Tron | 0 | 0| 
-| 20210830T23:02:58Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210830T22:42:52Z | Private exploit scripts for Roblox games with HD Admin. | https://github.com/ArcModz/HDX | 0 | 0| 
 | 20210830T22:36:18Z | Exploit for CVE-2019-19609 in Strapi (Remote Code Execution)  | https://github.com/diego-tella/CVE-2019-19609-EXPLOIT | 2 | 0| 
 | 20210830T22:10:57Z | Null | https://github.com/TheCrazzXz/Exploits-Lab | 0 | 1| 
 | 20210830T21:51:01Z | Practice repository for binary exploitation and fuzzing | https://github.com/RickdeJager/binexp-practice | 0 | 0| 
 | 20210830T21:46:34Z | Null | https://github.com/Sooraj599/exploitation2 | 0 | 0| 
+| 20210830T21:40:15Z | Null | https://github.com/Sooraj599/exploitation1 | 0 | 0| 
 
 
 # backdoor on Github 推荐
