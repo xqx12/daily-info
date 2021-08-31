@@ -24,6 +24,7 @@
 | --- | --- | ---| 
 | 20210831 | 我是如何捡到Jetty CVE的 | https://mp.weixin.qq.com/s/Uj-gwD2QNer-6CnyR9DW7A| 
 | 20210831 | 中央集采安全软件列表及报价 | https://mp.weixin.qq.com/s/Yni5Yw6SOLOJEvRbiSSRVg| 
+| 20210831 | maigret: Collect a dossier on a person by username from th... | https://github.com/soxoj/maigret| 
 
 
 # CVE Github 推荐

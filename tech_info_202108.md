@@ -33,6 +33,7 @@
 | --- | --- | ---| 
 | 20210831 | 我是如何捡到Jetty CVE的 | https://mp.weixin.qq.com/s/Uj-gwD2QNer-6CnyR9DW7A| 
 | 20210831 | 中央集采安全软件列表及报价 | https://mp.weixin.qq.com/s/Yni5Yw6SOLOJEvRbiSSRVg| 
+| 20210831 | maigret: Collect a dossier on a person by username from th... | https://github.com/soxoj/maigret| 
 | 20210830 | 网络空间测绘技术的实践与思考 | https://mp.weixin.qq.com/s/sjHKGw6tZ7q-2HMnxLYpoQ| 
 | 20210830 | 中国网络安全技术趋势分析 | https://mp.weixin.qq.com/s/CxGlNaCpDbnJXLIqeHJriQ| 
 | 20210830 | 车联网安全基础知识之大众J949(OCU/T-BOX) | https://mp.weixin.qq.com/s/ANQCVpV8vkpYVWt0duIZLA| 
@@ -40,7 +41,6 @@
 | 20210829 | Nginx 场景绕过之一: URL white spaces + Gunicorn | https://github.com/CHYbeta/OddProxyDemo/blob/master/nginx/demo1/README.md| 
 | 20210828 | 漫谈PHP反汇编器/反编译器 | https://mp.weixin.qq.com/s/bmdSyZem46aukj_hvLhu0w| 
 | 20210827 | 全球高级持续性威胁（APT）2021年中报告 | https://ti.qianxin.com/uploads/2021/08/26/67c584e9e1e86a8dc3f40801f05eb981.pdf| 
-| 20210827 | 车机硬件分析与固件提取 | https://mp.weixin.qq.com/s/IIqg3ePO6MNY-pxcpGYv1w| 
 
 
 # CVE Github 推荐
