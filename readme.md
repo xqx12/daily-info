@@ -61,13 +61,13 @@
 | 20210830T23:41:06Z | Jex Exploiter | https://github.com/maschil/JEX_V5 | 0 | 0| 
 | 20210830T23:40:03Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
 | 20210830T23:37:48Z | Exploiting API to Shell challenge from Pentesterlab serialize badge. | https://github.com/RyouYoo/API-to-Shell | 2 | 0| 
-| 20210830T23:36:11Z | Tron is a %Roblox Exploit% that is meant to help people get to know C# Framework app | https://github.com/redfoxdadad/Tron | 0 | 0| 
 | 20210830T22:42:52Z | Private exploit scripts for Roblox games with HD Admin. | https://github.com/ArcModz/HDX | 0 | 0| 
 | 20210830T22:36:18Z | Exploit for CVE-2019-19609 in Strapi (Remote Code Execution)  | https://github.com/diego-tella/CVE-2019-19609-EXPLOIT | 2 | 0| 
 | 20210830T22:10:57Z | Null | https://github.com/TheCrazzXz/Exploits-Lab | 0 | 1| 
 | 20210830T21:51:01Z | Practice repository for binary exploitation and fuzzing | https://github.com/RickdeJager/binexp-practice | 0 | 0| 
 | 20210830T21:46:34Z | Null | https://github.com/Sooraj599/exploitation2 | 0 | 0| 
 | 20210830T21:40:15Z | Null | https://github.com/Sooraj599/exploitation1 | 0 | 0| 
+| 20210830T21:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9951 | 1665| 
 
 
 # backdoor on Github 推荐

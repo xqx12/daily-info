@@ -55,7 +55,7 @@
 | 20210827T21:28:19Z | cve-2021-21972 | Null | https://github.com/stevenp322/cve-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
 | 20210827T19:25:06Z | CVE-2021-29447 | Null | https://github.com/AssassinUKG/CVE-2021-29447 | Wordpress is an open source CMS. A user with the ability to upload files (like an Author) can exploit an XML parsing issue in the Media Library leading to XXE attacks. This requires WordPress installation to be using PHP 8. Access to internal files is possible in a successful XXE attack. This has been patched in WordPress version 5.7.1, along with the older affected versions via a minor release. We strongly recommend you keep auto-updates enabled.| 
 | 20210827T08:27:41Z | cve-2021-3449 | CVE-2021-3449 OpenSSL denial-of-service exploit 👨🏻‍💻 | https://github.com/terorie/cve-2021-3449 | An OpenSSL TLS server may crash if sent a maliciously crafted renegotiation ClientHello message from a client. If a TLSv1.2 renegotiation ClientHello omits the signature_algorithms extension (where it was present in the initial ClientHello), but includes a signature_algorithms_cert extension then a NULL pointer dereference will result, leading to a crash and a denial of service attack. A server is only vulnerable if it has TLSv1.2 and renegotiation enabled (which is the default configuration). OpenSSL TLS clients are not impacted by this issue. All OpenSSL 1.1.1 versions are affected by this issue. Users of these versions should upgrade to OpenSSL 1.1.1k. OpenSSL 1.0.2 is not impacted by this issue. Fixed in OpenSSL 1.1.1k (Affected 1.1.1-1.1.1j).| 
-| 20210826T18:17:21Z | CVE-2020-16898 | A network detection package for CVE-2020-16898 (Windows TCP/IP Remote Code Execution Vulnerability) | https://github.com/corelight/CVE-2020-16898 | A remote code execution vulnerability exists when the Windows TCP/IP stack improperly handles ICMPv6 Router Advertisement packets, aka %Windows TCP/IP Remote Code Execution Vulnerability%.| 
+| 20210826T18:17:21Z | CVE-2020-16898 | A network detection package for CVE-2020-16898 (Windows TCP/IP Remote Code Execution Vulnerability) | https://github.com/corelight/CVE-2020-16898 | | 
 
 
 # klee on Github 推荐
@@ -87,11 +87,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210831T00:32:18Z | Tron is a %Roblox Exploit% that is meant to help people get to know C# Framework app | https://github.com/redfoxdadad/Tron | 0 | 0| 
 | 20210831T00:03:22Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210830T23:41:06Z | Jex Exploiter | https://github.com/maschil/JEX_V5 | 0 | 0| 
 | 20210830T23:40:03Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
 | 20210830T23:37:48Z | Exploiting API to Shell challenge from Pentesterlab serialize badge. | https://github.com/RyouYoo/API-to-Shell | 2 | 0| 
-| 20210830T23:36:11Z | Tron is a %Roblox Exploit% that is meant to help people get to know C# Framework app | https://github.com/redfoxdadad/Tron | 0 | 0| 
 | 20210830T22:42:52Z | Private exploit scripts for Roblox games with HD Admin. | https://github.com/ArcModz/HDX | 0 | 0| 
 | 20210830T22:36:18Z | Exploit for CVE-2019-19609 in Strapi (Remote Code Execution)  | https://github.com/diego-tella/CVE-2019-19609-EXPLOIT | 2 | 0| 
 | 20210830T22:10:57Z | Null | https://github.com/TheCrazzXz/Exploits-Lab | 0 | 1| 
