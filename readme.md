@@ -50,6 +50,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210831T12:52:31Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 22 | 14| 
+| 20210831T12:51:31Z | Auto IP range scanner & exploit tool for BlueKeep metasploit module | https://github.com/ind3p3nd3nt/BlueRDPSploit | 13 | 8| 
+| 20210831T12:47:28Z | Null | https://github.com/7ten7/WorkflowServiceXml-Exploit | 0 | 0| 
 | 20210831T12:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9956 | 1665| 
 | 20210831T12:26:44Z | OpenNetAdmin 18.1.1 - Exploit - Remote Code Execution | https://github.com/d4t4s3c/OpenNetAdmin18.1.1RCE | 6 | 2| 
 | 20210831T12:19:29Z | Exploiting Pokemon API | https://github.com/macklark/Pokemon-pod | 0 | 0| 
@@ -57,9 +60,6 @@
 | 20210831T12:03:22Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210831T11:46:46Z | Null | https://github.com/VictorSuraj/php-exploit | 1 | 0| 
 | 20210831T11:31:51Z | Bug fixes for the Exploit-DB | https://github.com/Re4son/exploitdb-ng | 0 | 0| 
-| 20210831T11:23:48Z | Exploit-db (is NOT the official APP). | https://github.com/gaiththewolf/Exploitdb | 1 | 0| 
-| 20210831T10:45:55Z | Code for the paper: %SimPLE: Similar Pseudo Label Exploitation for Semi-Supervised Classification% | https://github.com/zijian-hu/SimPLE | 15 | 0| 
-| 20210831T10:14:14Z | Null | https://github.com/deadlyappache55/King-Exploits | 0 | 1| 
 
 
 # backdoor on Github 推荐
