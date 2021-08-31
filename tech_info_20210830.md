@@ -17,6 +17,7 @@
 | 20210830 | Data-Only Attacks Against UEFI BIOS | https://github.com/flothrone/smm/blob/main/ZN2021%20Dataonly%20attacks%20BIOS%20-%20Ermolov.pdf| 
 | 20210830 | 漫谈PHP反汇编器/反编译器 | https://sec.today/pulses/413ff4a8-fe78-4751-a529-61083de4ac8d/| 
 | 20210830 | 漫谈PHP反汇编器/反编译器 | https://mp.weixin.qq.com/s/bmdSyZem46aukj_hvLhu0w| 
+| 20210830 | WMI攻击方法研究 - 基础篇（第 1 部分） | https://0xinfection.github.io/posts/wmi-basics-part-1/| 
 
 
 # 安全维基 推荐
@@ -38,6 +39,12 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210830T23:48:30Z | Null | https://github.com/kleelab/kleelab.github.io | 0 | 0| 
+| 20210830T22:18:11Z | Kleene algebra, regular expressions | https://github.com/phadej/kleene | 27 | 1| 
+| 20210830T20:00:13Z | Backend application for running static analysis of rust-based programs | https://github.com/LedgerProject/safepkt_backend | 0 | 0| 
+| 20210830T18:01:40Z | Null | https://github.com/pansilup/cgc-prgs-for-klee-seed-mode | 0 | 0| 
+| 20210830T17:18:58Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 12 | 1| 
+| 20210830T13:06:36Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 219 | 36| 
 | 20210830T12:20:00Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2680 | 68| 
 | 20210830T08:28:42Z | Config files for my GitHub profile. | https://github.com/dKlee99/dKlee99 | 0 | 0| 
 | 20210830T07:51:28Z | Null | https://github.com/coffee100percnt/KleeDiscordBomber | 4 | 0| 
@@ -46,38 +53,45 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210830T20:50:39Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 147 | 37| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210830T12:52:30Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 21 | 13| 
-| 20210830T12:42:00Z | my roblox exploit made 4fun | https://github.com/blxxxz/roblox-exploit-lua-exec | 0 | 0| 
-| 20210830T12:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9945 | 1665| 
-| 20210830T12:34:01Z | My Master project, where I explore how exploitative interactions affects coevolutionary dynamics in mutualistic networks | https://github.com/lucascamacho/coevo_mut_antag | 0 | 0| 
-| 20210830T12:31:38Z | Null | https://github.com/xnmapadvanced/elghandoury_exploit | 0 | 0| 
-| 20210830T12:30:00Z | Null | https://github.com/MarioSecurity1337/lfi-exploit | 0 | 0| 
-| 20210830T12:22:37Z | Null | https://github.com/WillOram/Post-exploitation-identity-stealing- | 0 | 0| 
-| 20210830T12:03:07Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
-| 20210830T12:02:27Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 76 | 13| 
-| 20210830T11:57:03Z | GraphQL security auditing script with a focus on performing batch GraphQL queries and mutations | https://github.com/assetnote/batchql | 9 | 3| 
+| 20210830T23:41:06Z | Jex Exploiter | https://github.com/maschil/JEX_V5 | 0 | 0| 
+| 20210830T23:40:03Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
+| 20210830T23:37:48Z | Exploiting API to Shell challenge from Pentesterlab serialize badge. | https://github.com/RyouYoo/API-to-Shell | 2 | 0| 
+| 20210830T23:36:11Z | Tron is a %Roblox Exploit% that is meant to help people get to know C# Framework app | https://github.com/redfoxdadad/Tron | 0 | 0| 
+| 20210830T23:02:58Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
+| 20210830T22:42:52Z | Private exploit scripts for Roblox games with HD Admin. | https://github.com/ArcModz/HDX | 0 | 0| 
+| 20210830T22:36:18Z | Exploit for CVE-2019-19609 in Strapi (Remote Code Execution)  | https://github.com/diego-tella/CVE-2019-19609-EXPLOIT | 2 | 0| 
+| 20210830T22:10:57Z | Null | https://github.com/TheCrazzXz/Exploits-Lab | 0 | 1| 
+| 20210830T21:51:01Z | Practice repository for binary exploitation and fuzzing | https://github.com/RickdeJager/binexp-practice | 0 | 0| 
+| 20210830T21:46:34Z | Null | https://github.com/Sooraj599/exploitation2 | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210830T12:38:51Z | Learning in public about supply-chain security of community open source projects | https://github.com/bureado/they-probably-didnt-backdoor-this-either | 1 | 0| 
-| 20210830T11:50:57Z | This is an advanced backdoor, created with Python | https://github.com/NoamHarush/Backdoor | 0 | 0| 
+| 20210830T23:10:41Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 619 | 85| 
+| 20210830T20:35:37Z | python backdoor | https://github.com/brookelee1/python-backdoor | 1 | 0| 
+| 20210830T17:12:32Z | This is an advanced backdoor, created with Python | https://github.com/NoamHarush/Backdoor | 0 | 0| 
+| 20210830T16:46:06Z | Null | https://github.com/Wiilldd/backdoor | 0 | 0| 
+| 20210830T16:03:06Z | for educational purposes only! Send all contacts and SMS to a database for Android. | https://github.com/komen205/java-backdoor | 0 | 0| 
+| 20210830T14:54:24Z | A simple remote tool written in C#.    一个简单的c#远控 | https://github.com/qwqdanchun/DcRat | 337 | 123| 
+| 20210830T14:47:53Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 292 | 55| 
+| 20210830T14:20:06Z | Learning in public about supply-chain security of community open source projects | https://github.com/bureado/they-probably-didnt-backdoor-this-either | 2 | 0| 
+| 20210830T13:27:05Z | Null | https://github.com/stalker26/Python_reverse_backdoor | 0 | 0| 
 | 20210830T11:18:29Z | a request from anonymous | https://github.com/Vex43/roblox-backdoor | 0 | 0| 
-| 20210830T08:10:24Z | A simple remote tool written in C#.    一个简单的c#远控 | https://github.com/qwqdanchun/DcRat | 335 | 123| 
-| 20210830T07:40:08Z | A collection of python written hacking tools consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester credential harvester, keylogger, download&execute, ransomware and reverse_backdoor. | https://github.com/dmdhrumilmistry/pyhtools | 20 | 8| 
-| 20210830T03:51:57Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 618 | 85| 
-| 20210830T03:01:44Z | A workflow to create/manage a backdoor admin account and rotate the password. E.g. Another LAPS workflow. | https://github.com/Rocketman-Tech/BreakGlassAdmin | 0 | 1| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210830T20:50:39Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 147 | 37| 
+| 20210830T18:04:24Z | Sato, the Symbolic Analysis Typechecker for Odefa, dynamically locates type errors using demand-driven symbolic execution. | https://github.com/JHU-PL-Lab/sato | 4 | 0| 
+| 20210830T15:36:51Z | Use on-demand control- data- flow slicing combined with taint analysis and symbolic execution to produce scalable and precise UB detection for Linux kernel. | https://github.com/RiS3-Lab/kubo | 10 | 3| 
 | 20210830T01:57:19Z | FuzzBALL: Vine-based Binary Symbolic Execution | https://github.com/bitblaze-fuzzball/fuzzball | 205 | 52| 
 
 
@@ -91,16 +105,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210830T12:52:25Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210830T12:35:52Z | Null | https://github.com/jiradeto/fuzzbench-result | 0 | 0| 
-| 20210830T12:31:21Z | All things Fuzzy | https://github.com/QuantumSLE/Fuzz_master_flex | 0 | 0| 
-| 20210830T12:26:38Z | Tools for fuzzing RDP | https://github.com/cyberark/rdpfuzz | 15 | 3| 
-| 20210830T12:24:58Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6592 | 1349| 
-| 20210830T12:11:15Z | Null | https://github.com/t-head-aosp/platform-test-vts-testcase-fuzz | 0 | 0| 
-| 20210830T11:30:29Z | 2222 | https://github.com/Congti555/fuzzy-engine | 0 | 0| 
-| 20210830T11:18:56Z | IDOR bypass fuzz 权限绕过burp 插件 fuzz （shiro 等） | https://github.com/guguyu1/IDOR-bypass-fuzz | 6 | 1| 
-| 20210830T09:34:40Z | 开源、轻量、快速、跨平台 的红队(redteam)外网打点扫描器，功能 端口扫描(port scan) 指纹识别(fingerprint) nday检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | 161 | 19| 
-| 20210830T09:31:53Z | Null | https://github.com/Isbdusvd/fuzzy-palm-tree | 0 | 0| 
+| 20210830T23:59:09Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
+| 20210830T23:45:08Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6592 | 1349| 
+| 20210830T22:32:40Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 7 | 1| 
+| 20210830T22:27:25Z | Library for structured fuzzing with protobuffers | https://github.com/google/libprotobuf-mutator | 342 | 79| 
+| 20210830T22:05:54Z | A ground-truth fuzzing benchmark suite based on real programs with real bugs. | https://github.com/HexHive/magma | 132 | 39| 
+| 20210830T21:51:18Z | A fuzzing management tools collection | https://github.com/MozillaSecurity/FuzzManager | 155 | 48| 
+| 20210830T21:51:01Z | Practice repository for binary exploitation and fuzzing | https://github.com/RickdeJager/binexp-practice | 0 | 0| 
+| 20210830T21:50:20Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 6 | 0| 
+| 20210830T21:18:36Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
+| 20210830T21:01:38Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 
 
 
