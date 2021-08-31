@@ -144,6 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210831T00:08:51Z | Node JS project for experiment | https://github.com/dannythreeka/fuzzy-bassoon | 0 | 0| 
 | 20210830T23:59:09Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210830T23:45:08Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6592 | 1349| 
 | 20210830T22:32:40Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 7 | 1| 
@@ -153,7 +154,6 @@
 | 20210830T21:51:01Z | Practice repository for binary exploitation and fuzzing | https://github.com/RickdeJager/binexp-practice | 0 | 0| 
 | 20210830T21:50:20Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 6 | 0| 
 | 20210830T21:18:36Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
-| 20210830T21:01:38Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 
 
 
