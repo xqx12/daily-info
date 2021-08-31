@@ -16,6 +16,7 @@
 | 20210831 | ProxyToken: An Authentication Bypass in Microsoft Exchange Server | https://www.thezdi.com/blog/2021/8/30/proxytoken-an-authentication-bypass-in-microsoft-exchange-server| 
 | 20210831 | CVE-2021-39165: 从一个Laravel SQL注入漏洞开始的Bug Bounty之旅 | https://www.leavesongs.com/PENETRATION/cachet-from-laravel-sqli-to-bug-bounty.html| 
 | 20210831 | 利用 PetitPotam 的 NTLM relay 获取域管理员权限 | https://sec.today/pulses/bfbb1a8a-4bc5-43cd-bc5d-f0149b5e9421/| 
+| 20210831 | 利用 PetitPotam 的 NTLM relay 获取域管理员权限 | https://blog.truesec.com/2021/08/05/from-stranger-to-da-using-petitpotam-to-ntlm-relay-to-active-directory/| 
 | 20210830 | 嵌入式设备软件的自动化漏洞挖掘 | https://conference.hitb.org/hitbsecconf2021sin/materials/D2T1%20-%20Automated%200-day%20Discovery%20in%202021%20-%20%20Squashing%20the%20Low-hanging%20Fruit%20in%20Embedded%20Software%20-%20Daniel%20dos%20Santos%20&%20Shachar%20Menashe.pdf| 
 | 20210830 | trapfuzzer - 基于断点实现的覆盖率导向的二进制 Fuzz | https://conference.hitb.org/hitbsecconf2021sin/materials/D2T2%20-%20trapfuzzer-%20Coverage-guided%20Binary%20Fuzzing%20with%20Breakpoints%20-%20Sili%20Luo.pdf| 
 | 20210830 | Blinding EDR On Windows | https://synzack.github.io/Blinding-EDR-On-Windows/| 
@@ -25,7 +26,6 @@
 | 20210830 | 利用 AFL Fuzz Windows RDP 协议 | https://www.cyberark.com/resources/threat-research-blog/fuzzing-rdp-holding-the-stick-at-both-ends| 
 | 20210830 | SNES 游戏模拟器被发现 DLL 劫持漏洞 | https://huskyhacks.dev/2021/08/29/dll-hijacking-dll-proxying-an-snes-emulator/| 
 | 20210830 | Data-Only Attacks Against UEFI BIOS | https://github.com/flothrone/smm/blob/main/ZN2021%20Dataonly%20attacks%20BIOS%20-%20Ermolov.pdf| 
-| 20210830 | 漫谈PHP反汇编器/反编译器 | https://sec.today/pulses/413ff4a8-fe78-4751-a529-61083de4ac8d/| 
 
 
 # 安全维基 推荐
@@ -102,31 +102,31 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210831T11:25:50Z | Simple PHP backdoor | https://github.com/afrzlfa/Simple-PHP-Backdoor | 0 | 0| 
+| 20210831T09:48:08Z | This is an advanced backdoor, created with Python | https://github.com/NoamHarush/Backdoor | 0 | 0| 
+| 20210831T09:26:15Z | Unofficial pytorch implementation of RobNet(Defense-Resistant Backdoor Attacks on DNN) | https://github.com/dhkim2810/RobNet | 0 | 0| 
+| 20210831T08:52:29Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 292 | 55| 
+| 20210831T06:39:09Z | Null | https://github.com/henil0604/backdoor-boiler | 0 | 0| 
+| 20210831T05:29:39Z | Bilingual PhishingKit. TigerShark intergrates a vast array of various phishing tools and frameworks, from C2 servers, backdoors and delivery methods in multiple scripting languages in order to suit whatever your deployment needs may be. | https://github.com/s1l3nt78/TigerShark | 289 | 46| 
+| 20210831T05:29:04Z | A simple remote tool written in C#.    一个简单的c#远控 | https://github.com/qwqdanchun/DcRat | 338 | 124| 
+| 20210831T05:06:54Z | Null | https://github.com/nourdemille/backdoor | 0 | 0| 
+| 20210831T02:32:07Z | Simples Backdoor Camuflada em um Programa. | https://github.com/KnC0x00/BackdoorSUID | 1 | 0| 
 | 20210831T01:05:48Z | Ethical Remote Acces Tool Client and Server for W10 and Linux Persist functionality | https://github.com/PolGs/Persistent-Backdoor | 4 | 2| 
-| 20210830T23:10:41Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 619 | 85| 
-| 20210830T20:35:37Z | python backdoor | https://github.com/brookelee1/python-backdoor | 1 | 0| 
-| 20210830T17:12:32Z | This is an advanced backdoor, created with Python | https://github.com/NoamHarush/Backdoor | 0 | 0| 
-| 20210830T16:46:06Z | Null | https://github.com/Wiilldd/backdoor | 0 | 0| 
-| 20210830T16:03:06Z | for educational purposes only! Send all contacts and SMS to a database for Android. | https://github.com/komen205/java-backdoor | 0 | 0| 
-| 20210830T14:54:24Z | A simple remote tool written in C#.    一个简单的c#远控 | https://github.com/qwqdanchun/DcRat | 337 | 123| 
-| 20210830T14:47:53Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 292 | 55| 
-| 20210830T14:20:06Z | Learning in public about supply-chain security of community open source projects | https://github.com/bureado/they-probably-didnt-backdoor-this-either | 2 | 0| 
-| 20210830T13:27:05Z | Null | https://github.com/stalker26/Python_reverse_backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210831T11:29:02Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2438 | 362| 
+| 20210831T10:10:30Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 157 | 34| 
 | 20210830T20:50:39Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 147 | 37| 
 | 20210830T18:04:24Z | Sato, the Symbolic Analysis Typechecker for Odefa, dynamically locates type errors using demand-driven symbolic execution. | https://github.com/JHU-PL-Lab/sato | 4 | 0| 
 | 20210830T15:36:51Z | Use on-demand control- data- flow slicing combined with taint analysis and symbolic execution to produce scalable and precise UB detection for Linux kernel. | https://github.com/RiS3-Lab/kubo | 10 | 3| 
 | 20210830T01:57:19Z | FuzzBALL: Vine-based Binary Symbolic Execution | https://github.com/bitblaze-fuzzball/fuzzball | 205 | 52| 
 | 20210829T20:24:29Z | A symbolic execution tool for Move, which is a smart contract language designed for Facebook Diem. | https://github.com/LEAFERx/Movable | 0 | 0| 
-| 20210829T20:18:57Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 157 | 34| 
-| 20210829T10:15:52Z | Symbolica%s open-source symbolic execution engine. | https://github.com/SymbolicaDev/Symbolica | 4 | 0| 
+| 20210829T10:15:52Z | Symbolica%s open-source symbolic execution engine. | https://github.com/SymbolicaDev/Symbolica | 4 | 1| 
 | 20210829T00:26:35Z | It is a repository for conducting symbolic execution on nodejs automatically | https://github.com/zheli-1/nodejs-sym | 0 | 0| 
 | 20210829T00:25:14Z | It is a repository for conducting symbolic execution on nodejs automatically | https://github.com/zheli-1/nodejs-sym-harness | 0 | 0| 
-| 20210828T14:18:33Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 460 | 70| 
 
 
 # big4 on Github 推荐

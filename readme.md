@@ -16,6 +16,7 @@
 | 20210831 | ProxyToken: An Authentication Bypass in Microsoft Exchange Server | https://www.thezdi.com/blog/2021/8/30/proxytoken-an-authentication-bypass-in-microsoft-exchange-server| 
 | 20210831 | CVE-2021-39165: 从一个Laravel SQL注入漏洞开始的Bug Bounty之旅 | https://www.leavesongs.com/PENETRATION/cachet-from-laravel-sqli-to-bug-bounty.html| 
 | 20210831 | 利用 PetitPotam 的 NTLM relay 获取域管理员权限 | https://sec.today/pulses/bfbb1a8a-4bc5-43cd-bc5d-f0149b5e9421/| 
+| 20210831 | 利用 PetitPotam 的 NTLM relay 获取域管理员权限 | https://blog.truesec.com/2021/08/05/from-stranger-to-da-using-petitpotam-to-ntlm-relay-to-active-directory/| 
 
 
 # 安全维基 推荐
@@ -63,12 +64,23 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210831T11:25:50Z | Simple PHP backdoor | https://github.com/afrzlfa/Simple-PHP-Backdoor | 0 | 0| 
+| 20210831T09:48:08Z | This is an advanced backdoor, created with Python | https://github.com/NoamHarush/Backdoor | 0 | 0| 
+| 20210831T09:26:15Z | Unofficial pytorch implementation of RobNet(Defense-Resistant Backdoor Attacks on DNN) | https://github.com/dhkim2810/RobNet | 0 | 0| 
+| 20210831T08:52:29Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 292 | 55| 
+| 20210831T06:39:09Z | Null | https://github.com/henil0604/backdoor-boiler | 0 | 0| 
+| 20210831T05:29:39Z | Bilingual PhishingKit. TigerShark intergrates a vast array of various phishing tools and frameworks, from C2 servers, backdoors and delivery methods in multiple scripting languages in order to suit whatever your deployment needs may be. | https://github.com/s1l3nt78/TigerShark | 289 | 46| 
+| 20210831T05:29:04Z | A simple remote tool written in C#.    一个简单的c#远控 | https://github.com/qwqdanchun/DcRat | 338 | 124| 
+| 20210831T05:06:54Z | Null | https://github.com/nourdemille/backdoor | 0 | 0| 
+| 20210831T02:32:07Z | Simples Backdoor Camuflada em um Programa. | https://github.com/KnC0x00/BackdoorSUID | 1 | 0| 
 | 20210831T01:05:48Z | Ethical Remote Acces Tool Client and Server for W10 and Linux Persist functionality | https://github.com/PolGs/Persistent-Backdoor | 4 | 2| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210831T11:29:02Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2438 | 362| 
+| 20210831T10:10:30Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 157 | 34| 
 
 
 # big4 on Github 推荐
