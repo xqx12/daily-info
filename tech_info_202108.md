@@ -102,6 +102,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210831T01:05:48Z | Ethical Remote Acces Tool Client and Server for W10 and Linux Persist functionality | https://github.com/PolGs/Persistent-Backdoor | 4 | 2| 
 | 20210830T23:10:41Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 619 | 85| 
 | 20210830T20:35:37Z | python backdoor | https://github.com/brookelee1/python-backdoor | 1 | 0| 
 | 20210830T17:12:32Z | This is an advanced backdoor, created with Python | https://github.com/NoamHarush/Backdoor | 0 | 0| 
@@ -111,7 +112,6 @@
 | 20210830T14:47:53Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 292 | 55| 
 | 20210830T14:20:06Z | Learning in public about supply-chain security of community open source projects | https://github.com/bureado/they-probably-didnt-backdoor-this-either | 2 | 0| 
 | 20210830T13:27:05Z | Null | https://github.com/stalker26/Python_reverse_backdoor | 0 | 0| 
-| 20210830T11:18:29Z | a request from anonymous | https://github.com/Vex43/roblox-backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
