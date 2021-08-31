@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210831T01:36:26Z | The Internet Observatory (Obsrva) is a vulnerability research project founded by independent security researcher Tyler Butler. Obsrva engages product vendors in coordinated disclosures, publishes vulnerability advisories, and creates proof of concept exploits. | https://github.com/obsrva/obsrva.org | 1 | 0| 
 | 20210831T01:03:24Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210831T00:52:30Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 21 | 13| 
 | 20210831T00:45:53Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 215 | 12| 
@@ -96,7 +97,6 @@
 | 20210830T23:37:48Z | Exploiting API to Shell challenge from Pentesterlab serialize badge. | https://github.com/RyouYoo/API-to-Shell | 2 | 0| 
 | 20210830T22:42:52Z | Private exploit scripts for Roblox games with HD Admin. | https://github.com/ArcModz/HDX | 0 | 0| 
 | 20210830T22:36:18Z | Exploit for CVE-2019-19609 in Strapi (Remote Code Execution)  | https://github.com/diego-tella/CVE-2019-19609-EXPLOIT | 2 | 1| 
-| 20210830T22:10:57Z | Null | https://github.com/TheCrazzXz/Exploits-Lab | 0 | 1| 
 
 
 # backdoor on Github 推荐
