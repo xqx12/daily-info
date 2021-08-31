@@ -113,7 +113,7 @@
 | 20210830T21:51:01Z | Practice repository for binary exploitation and fuzzing | https://github.com/RickdeJager/binexp-practice | 0 | 0| 
 | 20210830T21:50:20Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 6 | 0| 
 | 20210830T21:18:36Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
-| 20210830T21:01:38Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20210830T20:48:04Z | Null | https://github.com/azuax/go-simple-http-dir-fuzzer | 0 | 0| 
 
 
 
