@@ -91,6 +91,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210831T12:12:58Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6592 | 1349| 
 | 20210831T12:03:15Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210831T11:59:48Z | Null | https://github.com/joshdianz/fuzzy-engine | 0 | 0| 
 | 20210831T11:51:41Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1035 | 46| 
@@ -100,7 +101,6 @@
 | 20210831T10:57:18Z | Null | https://github.com/nhsd-exeter/dos-service-fuzzy-search-api | 1 | 0| 
 | 20210831T10:37:19Z | Find the ideal fuzz targets in a Rust codebase | https://github.com/trailofbits/siderophile | 121 | 9| 
 | 20210831T10:34:25Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
-| 20210831T10:24:05Z | Null | https://github.com/Altair-Bueno/fuzzy-disco | 0 | 1| 
 
 
 
