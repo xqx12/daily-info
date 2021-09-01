@@ -35,7 +35,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210901T11:41:38Z | CVE-2021-26084 | CVE-2021-26084 - Confluence Pre-Auth RCE  OGNL injection 回显 | https://github.com/r0ckysec/CVE-2021-26084_Confluence | In affected versions of Confluence Server and Data Center, an OGNL injection vulnerability exists that would allow an authenticated user, and in some instances an unauthenticated user, to execute arbitrary code on a Confluence Server or Data Center instance. The vulnerable endpoints can be accessed by a non-administrator user or unauthenticated user if ‘Allow people to sign up to create their account’ is enabled. To check whether this is enabled go to COG > User Management > User Signup Options. The affected versions are before version 6.13.23, from version 6.14.0 before 7.4.11, from version 7.5.0 before 7.11.6, and from version 7.12.0 before 7.12.5.| 
+| 20210901T11:41:38Z | CVE-2021-26084 | CVE-2021-26084 - Confluence Pre-Auth RCE  OGNL injection 回显 | https://github.com/r0ckysec/CVE-2021-26084_Confluence | | 
 | 20210901T11:38:09Z | CVE-2021-1675 | PrintNightMare LPE提权漏洞的CS 反射加载插件。开箱即用、通过内存加载、混淆加载的驱动名称来ByPass Defender/EDR。 | https://github.com/mstxq17/CVE-2021-1675_RDL_LPE | Windows Print Spooler Elevation of Privilege Vulnerability| 
 | 20210901T11:34:30Z | CVE-2021-26084 | Confluence Server Webwork OGNL injection | https://github.com/h3v0x/CVE-2021-26084_Confluence | In affected versions of Confluence Server and Data Center, an OGNL injection vulnerability exists that would allow an authenticated user, and in some instances an unauthenticated user, to execute arbitrary code on a Confluence Server or Data Center instance. The vulnerable endpoints can be accessed by a non-administrator user or unauthenticated user if ‘Allow people to sign up to create their account’ is enabled. To check whether this is enabled go to COG > User Management > User Signup Options. The affected versions are before version 6.13.23, from version 6.14.0 before 7.4.11, from version 7.5.0 before 7.11.6, and from version 7.12.0 before 7.12.5.| 
 | 20210901T10:57:25Z | CVE-2021-26084 | Null | https://github.com/alt3kx/CVE-2021-26084_PoC | In affected versions of Confluence Server and Data Center, an OGNL injection vulnerability exists that would allow an authenticated user, and in some instances an unauthenticated user, to execute arbitrary code on a Confluence Server or Data Center instance. The vulnerable endpoints can be accessed by a non-administrator user or unauthenticated user if ‘Allow people to sign up to create their account’ is enabled. To check whether this is enabled go to COG > User Management > User Signup Options. The affected versions are before version 6.13.23, from version 6.14.0 before 7.4.11, from version 7.5.0 before 7.11.6, and from version 7.12.0 before 7.12.5.| 
@@ -77,12 +77,22 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210901T00:15:22Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 95 | 16| 
+| 20210901T11:50:49Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 300 | 56| 
+| 20210901T10:28:12Z | A Hidden and Undetectable Remote Access Tool written in C++ and Server in Python3 | https://github.com/Ryan-AW/Windows-Backdoor | 17 | 4| 
+| 20210901T07:14:39Z | A Simple Ruby Websocket Backdoor And Ruby Command Line Listener | https://github.com/krishpranav/browserexploit | 1 | 1| 
+| 20210901T05:33:52Z | This is an advanced backdoor, created with Python | https://github.com/NoamHarush/Backdoor | 1 | 1| 
+| 20210901T05:32:01Z | Just a simple test using modules to make an apache2 backdoor | https://github.com/impugnus/simple_apache2_backdoor | 1 | 1| 
+| 20210901T05:00:06Z | Null | https://github.com/mohdhumaid/BackdoorPython27 | 0 | 0| 
+| 20210901T04:01:29Z | DDoor - cross platform backdoor using dns txt records | https://github.com/rek7/ddoor | 173 | 50| 
+| 20210901T02:14:15Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 95 | 16| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210901T09:10:26Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 157 | 34| 
+| 20210901T06:41:32Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2441 | 362| 
+| 20210901T05:29:01Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1881 | 390| 
 
 
 # big4 on Github 推荐
