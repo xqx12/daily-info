@@ -38,7 +38,7 @@
 | 20210901T12:06:22Z | CVE-2021-26084 | Confluence Server Webwork OGNL injection | https://github.com/h3v0x/CVE-2021-26084_Confluence | In affected versions of Confluence Server and Data Center, an OGNL injection vulnerability exists that would allow an authenticated user, and in some instances an unauthenticated user, to execute arbitrary code on a Confluence Server or Data Center instance. The vulnerable endpoints can be accessed by a non-administrator user or unauthenticated user if ‘Allow people to sign up to create their account’ is enabled. To check whether this is enabled go to COG > User Management > User Signup Options. The affected versions are before version 6.13.23, from version 6.14.0 before 7.4.11, from version 7.5.0 before 7.11.6, and from version 7.12.0 before 7.12.5.| 
 | 20210901T11:41:38Z | CVE-2021-26084 | CVE-2021-26084 - Confluence Pre-Auth RCE  OGNL injection 回显 | https://github.com/r0ckysec/CVE-2021-26084_Confluence | In affected versions of Confluence Server and Data Center, an OGNL injection vulnerability exists that would allow an authenticated user, and in some instances an unauthenticated user, to execute arbitrary code on a Confluence Server or Data Center instance. The vulnerable endpoints can be accessed by a non-administrator user or unauthenticated user if ‘Allow people to sign up to create their account’ is enabled. To check whether this is enabled go to COG > User Management > User Signup Options. The affected versions are before version 6.13.23, from version 6.14.0 before 7.4.11, from version 7.5.0 before 7.11.6, and from version 7.12.0 before 7.12.5.| 
 | 20210901T11:38:09Z | CVE-2021-1675 | PrintNightMare LPE提权漏洞的CS 反射加载插件。开箱即用、通过内存加载、混淆加载的驱动名称来ByPass Defender/EDR。 | https://github.com/mstxq17/CVE-2021-1675_RDL_LPE | Windows Print Spooler Elevation of Privilege Vulnerability| 
-| 20210901T10:57:25Z | CVE-2021-26084 | Null | https://github.com/alt3kx/CVE-2021-26084_PoC | In affected versions of Confluence Server and Data Center, an OGNL injection vulnerability exists that would allow an authenticated user, and in some instances an unauthenticated user, to execute arbitrary code on a Confluence Server or Data Center instance. The vulnerable endpoints can be accessed by a non-administrator user or unauthenticated user if ‘Allow people to sign up to create their account’ is enabled. To check whether this is enabled go to COG > User Management > User Signup Options. The affected versions are before version 6.13.23, from version 6.14.0 before 7.4.11, from version 7.5.0 before 7.11.6, and from version 7.12.0 before 7.12.5.| 
+| 20210901T10:57:25Z | CVE-2021-26084 | Null | https://github.com/alt3kx/CVE-2021-26084_PoC | | 
 | 20210901T10:53:31Z | CVE-2021-26084 | Null | https://github.com/dinhbaouit/CVE-2021-26084 | In affected versions of Confluence Server and Data Center, an OGNL injection vulnerability exists that would allow an authenticated user, and in some instances an unauthenticated user, to execute arbitrary code on a Confluence Server or Data Center instance. The vulnerable endpoints can be accessed by a non-administrator user or unauthenticated user if ‘Allow people to sign up to create their account’ is enabled. To check whether this is enabled go to COG > User Management > User Signup Options. The affected versions are before version 6.13.23, from version 6.14.0 before 7.4.11, from version 7.5.0 before 7.11.6, and from version 7.12.0 before 7.12.5.| 
 | 20210901T10:48:44Z | CVE-2021-26084 | Atlassian Confluence Pre-Auth RCE | https://github.com/Udyz/CVE-2021-26084 | In affected versions of Confluence Server and Data Center, an OGNL injection vulnerability exists that would allow an authenticated user, and in some instances an unauthenticated user, to execute arbitrary code on a Confluence Server or Data Center instance. The vulnerable endpoints can be accessed by a non-administrator user or unauthenticated user if ‘Allow people to sign up to create their account’ is enabled. To check whether this is enabled go to COG > User Management > User Signup Options. The affected versions are before version 6.13.23, from version 6.14.0 before 7.4.11, from version 7.5.0 before 7.11.6, and from version 7.12.0 before 7.12.5.| 
 | 20210901T10:39:16Z | CVE-2021-26084 | CVE-2021-26084 Remote Code Execution on Confluence Servers | https://github.com/FanqXu/CVE-2021-26084 | In affected versions of Confluence Server and Data Center, an OGNL injection vulnerability exists that would allow an authenticated user, and in some instances an unauthenticated user, to execute arbitrary code on a Confluence Server or Data Center instance. The vulnerable endpoints can be accessed by a non-administrator user or unauthenticated user if ‘Allow people to sign up to create their account’ is enabled. To check whether this is enabled go to COG > User Management > User Signup Options. The affected versions are before version 6.13.23, from version 6.14.0 before 7.4.11, from version 7.5.0 before 7.11.6, and from version 7.12.0 before 7.12.5.| 
@@ -63,10 +63,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210901T12:07:59Z | Um exploit escrito para o site da minha antiga escola :) | https://github.com/kn1pnc/etelg-ph | 0 | 0| 
+| 20210901T12:13:13Z | Null | https://github.com/ARO7I/exploit.py | 0 | 0| 
+| 20210901T12:12:46Z | Um exploit escrito para o site da minha antiga escola :) | https://github.com/kn1pnc/etelg-ph | 0 | 0| 
 | 20210901T12:05:49Z | Practice repository for binary exploitation and fuzzing | https://github.com/RickdeJager/binexp-practice | 0 | 0| 
 | 20210901T12:02:57Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
-| 20210901T11:56:05Z | Null | https://github.com/ARO7I/exploit.py | 0 | 0| 
 | 20210901T11:06:26Z | Exploit-db (is NOT the official APP). | https://github.com/gaiththewolf/Exploitdb | 1 | 0| 
 | 20210901T10:18:47Z | Null | https://github.com/deadlyappache55/King-Exploits | 0 | 1| 
 | 20210901T09:46:17Z | A template-based lowerer for RDF repositories exploiting Apache Velocity. | https://github.com/cefriel/rdf-lowerer | 1 | 0| 
@@ -104,6 +104,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210901T12:12:36Z | Project description and methodology outlined | https://github.com/devarshee97/Vector-Fuzzy-Dark-matter | 0 | 0| 
 | 20210901T12:05:49Z | Practice repository for binary exploitation and fuzzing | https://github.com/RickdeJager/binexp-practice | 0 | 0| 
 | 20210901T11:59:45Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210901T11:46:11Z | fuzz payload(持续更新) | https://github.com/kill02lc/fuzz-then-bypass-dict | 0 | 0| 
@@ -113,7 +114,6 @@
 | 20210901T11:10:12Z | Null | https://github.com/seclab-fudan/StrawFuzzer | 0 | 0| 
 | 20210901T11:04:09Z | SSL and TLS protocol test suite and fuzzer | https://github.com/tlsfuzzer/tlsfuzzer | 391 | 88| 
 | 20210901T11:00:47Z | Null | https://github.com/ArtieFuzzz/ArtieFuzzz | 0 | 1| 
-| 20210901T10:54:40Z | Null | https://github.com/Altair-Bueno/fuzzy-disco | 0 | 1| 
 
 
 
