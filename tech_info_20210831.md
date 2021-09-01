@@ -60,7 +60,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20210831T23:46:20Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9960 | 1666| 
-| 20210831T23:28:10Z | ProxyToken (CVE-2021-33766) : An Authentication Bypass in Microsoft Exchange Server POC exploit | https://github.com/bhdresh/CVE-2021-33766-ProxyToken | 1 | 0| 
+| 20210831T23:28:10Z | ProxyToken (CVE-2021-33766) : An Authentication Bypass in Microsoft Exchange Server POC exploit | https://github.com/bhdresh/CVE-2021-33766-ProxyToken | 1 | 1| 
 | 20210831T23:27:24Z | An exploitable nodejs application | https://github.com/conikeec/explnode | 4 | 7| 
 | 20210831T23:17:04Z | forked from the ones that%s on exploit db fixed for http | https://github.com/exfiltrate/dominohashextractionhttponly | 0 | 0| 
 | 20210831T22:41:33Z | A tool to identify and exploit sudo rules% misconfigurations and vulnerabilities within sudo for linux privilege escalation. | https://github.com/TH3xACE/SUDO_KILLER | 1260 | 180| 
