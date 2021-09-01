@@ -104,6 +104,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210901T12:05:49Z | Practice repository for binary exploitation and fuzzing | https://github.com/RickdeJager/binexp-practice | 0 | 0| 
 | 20210901T11:59:45Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210901T11:46:11Z | fuzz payload(持续更新) | https://github.com/kill02lc/fuzz-then-bypass-dict | 0 | 0| 
 | 20210901T11:35:44Z | Null | https://github.com/mongoloidkhulmikuki366385/fuzzy-octo-eureka | 0 | 0| 
@@ -113,7 +114,6 @@
 | 20210901T11:04:09Z | SSL and TLS protocol test suite and fuzzer | https://github.com/tlsfuzzer/tlsfuzzer | 391 | 88| 
 | 20210901T11:00:47Z | Null | https://github.com/ArtieFuzzz/ArtieFuzzz | 0 | 1| 
 | 20210901T10:54:40Z | Null | https://github.com/Altair-Bueno/fuzzy-disco | 0 | 1| 
-| 20210901T10:46:09Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2386 | 137| 
 
 
 
