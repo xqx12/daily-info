@@ -63,12 +63,12 @@
 | 20210831T23:28:10Z | ProxyToken (CVE-2021-33766) : An Authentication Bypass in Microsoft Exchange Server POC exploit | https://github.com/bhdresh/CVE-2021-33766-ProxyToken | 1 | 0| 
 | 20210831T23:27:24Z | An exploitable nodejs application | https://github.com/conikeec/explnode | 4 | 7| 
 | 20210831T23:17:04Z | forked from the ones that%s on exploit db fixed for http | https://github.com/exfiltrate/dominohashextractionhttponly | 0 | 0| 
-| 20210831T23:03:14Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210831T22:41:33Z | A tool to identify and exploit sudo rules% misconfigurations and vulnerabilities within sudo for linux privilege escalation. | https://github.com/TH3xACE/SUDO_KILLER | 1260 | 180| 
 | 20210831T21:43:07Z | Exploiting Causal Structure for Transportability in Multi-Agent Environments | https://github.com/axelbrowne/ECS4TIME | 0 | 0| 
 | 20210831T21:16:25Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 216 | 12| 
 | 20210831T19:58:39Z | A repository dedicated to all things S7 - Wireshark dissectors, nmap enumeration scripts, and exploits. Dive into the world of Siemens automation with everything from protocol analysis to cross-site scripting exploitation on TIA portal.  | https://github.com/Kleptocratic/All-Things-S7 | 0 | 0| 
 | 20210831T19:35:49Z | Exploit code for CVE-2019-17662 | https://github.com/MuirlandOracle/CVE-2019-17662 | 1 | 0| 
+| 20210831T19:26:09Z | oracle_weblogic | https://github.com/arescanpolat/weblogic_exploit_mitigation | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -89,8 +89,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210831T11:29:02Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2438 | 362| 
-| 20210831T10:10:30Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 157 | 34| 
+| 20210831T20:25:08Z | Symbolica%s open-source symbolic execution engine. | https://github.com/SymbolicaDev/Symbolica | 4 | 1| 
+| 20210831T19:27:59Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2439 | 362| 
+| 20210831T15:39:44Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 157 | 34| 
 
 
 # big4 on Github 推荐

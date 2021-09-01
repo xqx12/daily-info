@@ -92,12 +92,12 @@
 | 20210831T23:28:10Z | ProxyToken (CVE-2021-33766) : An Authentication Bypass in Microsoft Exchange Server POC exploit | https://github.com/bhdresh/CVE-2021-33766-ProxyToken | 1 | 0| 
 | 20210831T23:27:24Z | An exploitable nodejs application | https://github.com/conikeec/explnode | 4 | 7| 
 | 20210831T23:17:04Z | forked from the ones that%s on exploit db fixed for http | https://github.com/exfiltrate/dominohashextractionhttponly | 0 | 0| 
-| 20210831T23:03:14Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210831T22:41:33Z | A tool to identify and exploit sudo rules% misconfigurations and vulnerabilities within sudo for linux privilege escalation. | https://github.com/TH3xACE/SUDO_KILLER | 1260 | 180| 
 | 20210831T21:43:07Z | Exploiting Causal Structure for Transportability in Multi-Agent Environments | https://github.com/axelbrowne/ECS4TIME | 0 | 0| 
 | 20210831T21:16:25Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 216 | 12| 
 | 20210831T19:58:39Z | A repository dedicated to all things S7 - Wireshark dissectors, nmap enumeration scripts, and exploits. Dive into the world of Siemens automation with everything from protocol analysis to cross-site scripting exploitation on TIA portal.  | https://github.com/Kleptocratic/All-Things-S7 | 0 | 0| 
 | 20210831T19:35:49Z | Exploit code for CVE-2019-17662 | https://github.com/MuirlandOracle/CVE-2019-17662 | 1 | 0| 
+| 20210831T19:26:09Z | oracle_weblogic | https://github.com/arescanpolat/weblogic_exploit_mitigation | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -118,14 +118,14 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210831T11:29:02Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2438 | 362| 
-| 20210831T10:10:30Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 157 | 34| 
+| 20210831T20:25:08Z | Symbolica%s open-source symbolic execution engine. | https://github.com/SymbolicaDev/Symbolica | 4 | 1| 
+| 20210831T19:27:59Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2439 | 362| 
+| 20210831T15:39:44Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 157 | 34| 
 | 20210830T20:50:39Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 147 | 37| 
 | 20210830T18:04:24Z | Sato, the Symbolic Analysis Typechecker for Odefa, dynamically locates type errors using demand-driven symbolic execution. | https://github.com/JHU-PL-Lab/sato | 4 | 0| 
 | 20210830T15:36:51Z | Use on-demand control- data- flow slicing combined with taint analysis and symbolic execution to produce scalable and precise UB detection for Linux kernel. | https://github.com/RiS3-Lab/kubo | 10 | 3| 
 | 20210830T01:57:19Z | FuzzBALL: Vine-based Binary Symbolic Execution | https://github.com/bitblaze-fuzzball/fuzzball | 205 | 52| 
 | 20210829T20:24:29Z | A symbolic execution tool for Move, which is a smart contract language designed for Facebook Diem. | https://github.com/LEAFERx/Movable | 0 | 0| 
-| 20210829T10:15:52Z | Symbolica%s open-source symbolic execution engine. | https://github.com/SymbolicaDev/Symbolica | 4 | 1| 
 | 20210829T00:26:35Z | It is a repository for conducting symbolic execution on nodejs automatically | https://github.com/zheli-1/nodejs-sym | 0 | 0| 
 | 20210829T00:25:14Z | It is a repository for conducting symbolic execution on nodejs automatically | https://github.com/zheli-1/nodejs-sym-harness | 0 | 0| 
 
