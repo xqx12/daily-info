@@ -113,6 +113,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210902T00:05:29Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 22 | 9| 
 | 20210901T23:58:24Z | Projek tugas fuzzy sistem untuk memprediksi lama ketahanan buah. Data pada projek ini bukan data real karena tujuan dibuatnya lebih ke implementasi metode fuzzy. | https://github.com/iizmyy/fuzzy-buah | 0 | 0| 
 | 20210901T23:14:42Z | Null | https://github.com/aicacia/ts-string-fuzzy_equals | 0 | 0| 
 | 20210901T22:32:04Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
@@ -122,7 +123,6 @@
 | 20210901T21:48:00Z | Null | https://github.com/epsonik/FuzzyDescV2 | 0 | 0| 
 | 20210901T21:32:59Z | under construction | https://github.com/ekiwi/rtl-fuzz-lab | 0 | 0| 
 | 20210901T21:22:04Z | all manner of wordlists | https://github.com/thelikes/fuzzmost | 9 | 17| 
-| 20210901T20:51:53Z | REST API Fuzz Testing (RAFT): Source code for self-hosted service developed for Azure, including the API, orchestration engine, and default set of security tools (including MSR%s RESTler), that enables developers to embed security tooling into their CI/CD workflows | https://github.com/microsoft/rest-api-fuzz-testing | 193 | 28| 
 
 
 
