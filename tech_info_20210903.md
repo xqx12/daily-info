@@ -58,6 +58,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210903T12:55:55Z | Exploitation of signature of non-fixed size messages with CBC-MAC challenge on Pentesterlab. | https://github.com/RyouYoo/CBC-MAC | 0 | 0| 
+| 20210903T12:52:33Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 22 | 14| 
 | 20210903T12:45:50Z | A template-based lowerer for RDF repositories exploiting Apache Velocity. | https://github.com/cefriel/rdf-lowerer | 1 | 0| 
 | 20210903T12:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9978 | 1667| 
 | 20210903T12:06:19Z | Null | https://github.com/dottorvenom/exploitation | 0 | 0| 
@@ -66,8 +68,6 @@
 | 20210903T11:06:31Z | Project made for the course Deep Learning at the University of Trento in collaboration with @jacklazze . The project consists of developing a neural network to exploit the tasks of Attribute Recognition and Person Re-identification on the dataset Market-1501.  | https://github.com/DarioFabiani/Deep_Learnin_Project_Attribute_Recognition_and_Person_Re-Identification | 0 | 0| 
 | 20210903T10:06:34Z | Multi camera gathering and exploiting tool | https://github.com/M0tHs3C/Argo | 31 | 14| 
 | 20210903T09:53:37Z | Octagon is a fully fledged modular server sided anti exploit designed to detect many exploits reliably without interrupting user experience. | https://github.com/SilentsReplacement/Octagon | 2 | 1| 
-| 20210903T09:44:38Z | Null | https://github.com/ngovinhhuy/Crossfire-oscp-exploit | 0 | 0| 
-| 20210903T09:30:00Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 6418 | 1784| 
 
 
 # backdoor on Github 推荐
