@@ -47,7 +47,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210903T12:34:39Z | CVE-2021-26084 | Confluence Server Webwork OGNL injection | https://github.com/h3v0x/CVE-2021-26084_Confluence | In affected versions of Confluence Server and Data Center, an OGNL injection vulnerability exists that would allow an authenticated user, and in some instances an unauthenticated user, to execute arbitrary code on a Confluence Server or Data Center instance. The vulnerable endpoints can be accessed by a non-administrator user or unauthenticated user if ‘Allow people to sign up to create their account’ is enabled. To check whether this is enabled go to COG > User Management > User Signup Options. The affected versions are before version 6.13.23, from version 6.14.0 before 7.4.11, from version 7.5.0 before 7.11.6, and from version 7.12.0 before 7.12.5.| 
-| 20210903T11:31:04Z | CVE-2021-26084 | Atlassian Confluence Pre-Auth RCE | https://github.com/Udyz/CVE-2021-26084 | | 
+| 20210903T11:31:04Z | CVE-2021-26084 | Atlassian Confluence Pre-Auth RCE | https://github.com/Udyz/CVE-2021-26084 | In affected versions of Confluence Server and Data Center, an OGNL injection vulnerability exists that would allow an authenticated user, and in some instances an unauthenticated user, to execute arbitrary code on a Confluence Server or Data Center instance. The vulnerable endpoints can be accessed by a non-administrator user or unauthenticated user if ‘Allow people to sign up to create their account’ is enabled. To check whether this is enabled go to COG > User Management > User Signup Options. The affected versions are before version 6.13.23, from version 6.14.0 before 7.4.11, from version 7.5.0 before 7.11.6, and from version 7.12.0 before 7.12.5.| 
 | 20210903T10:24:36Z | CVE-2021-28663 | A basic PoC leak for CVE-2021-28663 (Internal of the Android kernel backdoor vulnerability) | https://github.com/lntrx/CVE-2021-28663 | The Arm Mali GPU kernel driver allows privilege escalation or information disclosure because GPU memory operations are mishandled, leading to a use-after-free. This affects Bifrost r0p0 through r28p0 before r29p0, Valhall r19p0 through r28p0 before r29p0, and Midgard r4p0 through r30p0.| 
 | 20210903T08:54:46Z | CVE-2021-26084 | CVE-2021-26084 | https://github.com/p0nymc1/CVE-2021-26084 | In affected versions of Confluence Server and Data Center, an OGNL injection vulnerability exists that would allow an authenticated user, and in some instances an unauthenticated user, to execute arbitrary code on a Confluence Server or Data Center instance. The vulnerable endpoints can be accessed by a non-administrator user or unauthenticated user if ‘Allow people to sign up to create their account’ is enabled. To check whether this is enabled go to COG > User Management > User Signup Options. The affected versions are before version 6.13.23, from version 6.14.0 before 7.4.11, from version 7.5.0 before 7.11.6, and from version 7.12.0 before 7.12.5.| 
 | 20210903T08:22:58Z | cve-2021-26084 | cve-2021-26084 EXP | https://github.com/Xc1Ym/cve_2021_26084 | In affected versions of Confluence Server and Data Center, an OGNL injection vulnerability exists that would allow an authenticated user, and in some instances an unauthenticated user, to execute arbitrary code on a Confluence Server or Data Center instance. The vulnerable endpoints can be accessed by a non-administrator user or unauthenticated user if ‘Allow people to sign up to create their account’ is enabled. To check whether this is enabled go to COG > User Management > User Signup Options. The affected versions are before version 6.13.23, from version 6.14.0 before 7.4.11, from version 7.5.0 before 7.11.6, and from version 7.12.0 before 7.12.5.| 
@@ -129,16 +129,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210902T01:27:17Z | Null | https://github.com/xanderificnl/fuzzy-engine | 0 | 0| 
-| 20210902T01:26:35Z | Null | https://github.com/ToolmanInside/xFuzzforReview | 0 | 0| 
-| 20210902T01:18:28Z | Null | https://github.com/ys-zhang/fuzz-ml | 0 | 0| 
-| 20210902T00:50:14Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1040 | 114| 
-| 20210902T00:29:20Z | A simple python implementation of Fuzzy C-means algorithm. | https://github.com/omadson/fuzzy-c-means | 58 | 26| 
-| 20210902T00:26:23Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4553 | 459| 
-| 20210902T00:05:29Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 22 | 9| 
-| 20210901T23:58:24Z | Projek tugas fuzzy sistem untuk memprediksi lama ketahanan buah. Data pada projek ini bukan data real karena tujuan dibuatnya lebih ke implementasi metode fuzzy. | https://github.com/iizmyy/fuzzy-buah | 0 | 0| 
-| 20210901T23:14:42Z | Null | https://github.com/aicacia/ts-string-fuzzy_equals | 0 | 0| 
-| 20210901T22:32:04Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
+| 20210903T12:37:33Z | Null | https://github.com/Altair-Bueno/fuzzy-disco | 0 | 1| 
+| 20210903T12:31:39Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
+| 20210903T12:15:46Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6623 | 1354| 
+| 20210903T12:06:06Z | Software: The Hierarchical Fuzzy Inference Tree Software Toolbox is a function approximation and feature selection tool that uses genetic programming for constructing a tree-like structure to construct an adaptive multi-layer perceptron. This standalone software toolbox solves prediction problems. The developed algorithm performs multiobjective in which it adaptively creates a simple model with high generalization ability. | https://github.com/vojha-code/Hierarchical-Fuzzy-Tree | 1 | 0| 
+| 20210903T11:58:34Z | DDRFuzz is a fuzzing system based on a seq2seq model to generate valuable seed corpus. | https://github.com/kppw99/ddrfuzz | 2 | 1| 
+| 20210903T11:52:11Z | The first concolic fuzzer in detecting vulnerabilities in EOSIO smart contracts. | https://github.com/ICSE2022-887/WASAI | 0 | 0| 
+| 20210903T11:48:06Z | Null | https://github.com/nhsd-exeter/dos-service-fuzzy-search-api | 1 | 0| 
+| 20210903T11:47:21Z | SSL and TLS protocol test suite and fuzzer | https://github.com/tlsfuzzer/tlsfuzzer | 391 | 88| 
+| 20210903T11:30:56Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20210903T11:20:35Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 181 | 36| 
 
 
 
