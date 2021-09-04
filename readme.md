@@ -19,7 +19,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210904T10:59:00Z | CVE-2021-26084 | Confluence Server Webwork OGNL injection | https://github.com/h3v0x/CVE-2021-26084_Confluence | In affected versions of Confluence Server and Data Center, an OGNL injection vulnerability exists that would allow an authenticated user, and in some instances an unauthenticated user, to execute arbitrary code on a Confluence Server or Data Center instance. The vulnerable endpoints can be accessed by a non-administrator user or unauthenticated user if ‘Allow people to sign up to create their account’ is enabled. To check whether this is enabled go to COG > User Management > User Signup Options. The affected versions are before version 6.13.23, from version 6.14.0 before 7.4.11, from version 7.5.0 before 7.11.6, and from version 7.12.0 before 7.12.5.| 
-| 20210904T10:45:20Z | CVE-2020-8515 | Draytek CVE-2020-8515 PoC | https://github.com/darrenmartyn/CVE-2020-8515 | | 
+| 20210904T10:45:20Z | CVE-2020-8515 | Draytek CVE-2020-8515 PoC | https://github.com/darrenmartyn/CVE-2020-8515 | DrayTek Vigor2960 1.3.1_Beta, Vigor3900 1.4.4_Beta, and Vigor300B 1.3.3_Beta, 1.4.2.1_Beta, and 1.4.4_Beta devices allow remote code execution as root (without authentication) via shell metacharacters to the cgi-bin/mainfunction.cgi URI. This issue has been fixed in Vigor3900/2960/300B v1.5.1.| 
 | 20210904T09:27:52Z | CVE-2021-36934 | SeriousSAM Auto Exploiter | https://github.com/websecnl/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
 | 20210904T05:00:13Z | CVE-2020-6418 | CVE-2020-6418 제로데이 취약점 | https://github.com/CYB3R-X3eRo0/CVE-2020-6418 | Type confusion in V8 in Google Chrome prior to 80.0.3987.122 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.| 
 
@@ -66,6 +66,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210904T09:59:27Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2443 | 362| 
+| 20210904T06:45:39Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1881 | 391| 
 
 
 # big4 on Github 推荐
@@ -77,6 +79,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210904T12:02:34Z | Implementasi Fuzzy Tahani Pada Database MySQL dan Sistem Berbasis Web dengan PHP | https://github.com/hudtakim/SPK-Pariwisata-FuzzyTahani | 0 | 0| 
 | 20210904T11:52:23Z | An add-on filament autochanger for existing 3D printers, in duel-spool configuration. | https://github.com/FuzzyNoodle/Fuzzy-Spooder | 1 | 0| 
 | 20210904T11:50:36Z | Code of fuzzing book | https://github.com/jiniljeil/Fuzzing | 5 | 0| 
 | 20210904T11:49:46Z | under construction | https://github.com/ekiwi/rtl-fuzz-lab | 0 | 0| 
@@ -86,7 +89,6 @@
 | 20210904T10:31:49Z | A bare-metal x86 instruction set fuzzer a la Sandsifter | https://github.com/blitz/baresifter | 39 | 3| 
 | 20210904T10:03:25Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210904T09:52:40Z | Null | https://github.com/saschakaraivanov/fuzzy-enigma | 0 | 0| 
-| 20210904T09:51:29Z | Implementasi Fuzzy Tahani Pada Database MySQL dan Sistem Berbasis Web dengan PHP | https://github.com/hudtakim/SPK-Pariwisata-FuzzyTahani | 0 | 0| 
 
 
 
