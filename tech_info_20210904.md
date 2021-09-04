@@ -19,7 +19,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210904T10:59:00Z | CVE-2021-26084 | Confluence Server Webwork OGNL injection | https://github.com/h3v0x/CVE-2021-26084_Confluence | In affected versions of Confluence Server and Data Center, an OGNL injection vulnerability exists that would allow an authenticated user, and in some instances an unauthenticated user, to execute arbitrary code on a Confluence Server or Data Center instance. The vulnerable endpoints can be accessed by a non-administrator user or unauthenticated user if ‘Allow people to sign up to create their account’ is enabled. To check whether this is enabled go to COG > User Management > User Signup Options. The affected versions are before version 6.13.23, from version 6.14.0 before 7.4.11, from version 7.5.0 before 7.11.6, and from version 7.12.0 before 7.12.5.| 
-| 20210904T10:45:20Z | CVE-2020-8515 | Draytek CVE-2020-8515 PoC | https://github.com/darrenmartyn/CVE-2020-8515 | DrayTek Vigor2960 1.3.1_Beta, Vigor3900 1.4.4_Beta, and Vigor300B 1.3.3_Beta, 1.4.2.1_Beta, and 1.4.4_Beta devices allow remote code execution as root (without authentication) via shell metacharacters to the cgi-bin/mainfunction.cgi URI. This issue has been fixed in Vigor3900/2960/300B v1.5.1.| 
+| 20210904T10:45:20Z | CVE-2020-8515 | Draytek CVE-2020-8515 PoC | https://github.com/darrenmartyn/CVE-2020-8515 | | 
 | 20210904T09:27:52Z | CVE-2021-36934 | SeriousSAM Auto Exploiter | https://github.com/websecnl/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
 | 20210904T05:00:13Z | CVE-2020-6418 | CVE-2020-6418 제로데이 취약점 | https://github.com/CYB3R-X3eRo0/CVE-2020-6418 | Type confusion in V8 in Google Chrome prior to 80.0.3987.122 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.| 
 
@@ -54,13 +54,13 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210904T12:30:30Z | Null | https://github.com/ssllllll/Backdoored-Plugin | 2 | 1| 
 | 20210904T11:11:04Z | A basic PoC leak for CVE-2021-28663 (Internal of the Android kernel backdoor vulnerability) | https://github.com/lntrx/CVE-2021-28663 | 21 | 5| 
 | 20210904T09:15:11Z | Null | https://github.com/rishavmehra/reverse_backdoor | 1 | 0| 
 | 20210904T06:20:37Z | Python network worm that spreads on the local network and gives the attacker control of these machines. | https://github.com/pylyf/NetWorm | 189 | 91| 
 | 20210904T05:58:41Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 95 | 16| 
 | 20210904T05:22:06Z | Code for the paper %RAP: Robustness-Aware Perturbations for Defending against Backdoor Attacks on NLP Models% (EMNLP 2021) | https://github.com/lancopku/RAP | 3 | 0| 
 | 20210904T03:48:32Z | persistant android-backdoor for use with metersploit | https://github.com/derickmachaa/android-persistant.sh | 0 | 2| 
-| 20210904T02:57:07Z | Null | https://github.com/ssllllll/Backdoored-Plugin | 1 | 1| 
 
 
 # symbolic execution on Github 推荐
