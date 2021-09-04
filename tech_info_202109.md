@@ -131,6 +131,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210904T12:17:51Z | FLUFFI (Fully Localized Utility For Fuzzing Instantaneously) - A distributed evolutionary binary fuzzer for pentesters | https://github.com/siemens/fluffi | 87 | 17| 
 | 20210904T12:16:52Z | under construction | https://github.com/ekiwi/rtl-fuzz-lab | 0 | 0| 
 | 20210904T12:06:12Z | Read-only mirror of %fuzzysim% from r-forge SVN. | https://github.com/r-forge/fuzzysim | 0 | 0| 
 | 20210904T12:02:34Z | Implementasi Fuzzy Tahani Pada Database MySQL dan Sistem Berbasis Web dengan PHP | https://github.com/hudtakim/SPK-Pariwisata-FuzzyTahani | 0 | 0| 
@@ -140,7 +141,6 @@
 | 20210904T11:06:17Z | 🔥 Studying The Fuzzing Book : https://www.fuzzingbook.org | https://github.com/KimSeoYe/TheFuzzingBook | 5 | 0| 
 | 20210904T10:45:34Z | 📨 Responsive email template generator. | https://github.com/luangjokaj/fuzzymail | 117 | 5| 
 | 20210904T10:31:49Z | A bare-metal x86 instruction set fuzzer a la Sandsifter | https://github.com/blitz/baresifter | 39 | 3| 
-| 20210904T10:03:25Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 
 
 
