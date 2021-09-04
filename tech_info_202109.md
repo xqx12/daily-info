@@ -130,7 +130,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210904T00:29:47Z | Null | https://github.com/vjrmsg/FuzzyMatcherVENV | 0 | 0| 
+| 20210904T00:31:24Z | Null | https://github.com/vjrmsg/FuzzyMatcherVENV | 0 | 0| 
 | 20210904T00:26:05Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210904T00:14:12Z | Read-only mirror of %fuzzysim% from r-forge SVN. | https://github.com/r-forge/fuzzysim | 0 | 0| 
 | 20210904T00:13:00Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
