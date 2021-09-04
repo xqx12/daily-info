@@ -81,7 +81,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210904T12:50:06Z | Network vulnerability exploitation library | https://github.com/sairson/NetworkExpLibrary | 1 | 1| 
+| 20210904T12:54:07Z | Network vulnerability exploitation library | https://github.com/sairson/NetworkExpLibrary | 2 | 1| 
 | 20210904T12:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9993 | 1668| 
 | 20210904T12:24:57Z | This repository contains codes of ICCV2021 paper: SO-Pose: Exploiting Self-Occlusion for Direct 6D Pose Estimation | https://github.com/shangbuhuan13/SO-Pose | 12 | 2| 
 | 20210904T12:03:10Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
