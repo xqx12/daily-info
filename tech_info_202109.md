@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210904T10:59:00Z | CVE-2021-26084 | Confluence Server Webwork OGNL injection | https://github.com/h3v0x/CVE-2021-26084_Confluence | In affected versions of Confluence Server and Data Center, an OGNL injection vulnerability exists that would allow an authenticated user, and in some instances an unauthenticated user, to execute arbitrary code on a Confluence Server or Data Center instance. The vulnerable endpoints can be accessed by a non-administrator user or unauthenticated user if ‘Allow people to sign up to create their account’ is enabled. To check whether this is enabled go to COG > User Management > User Signup Options. The affected versions are before version 6.13.23, from version 6.14.0 before 7.4.11, from version 7.5.0 before 7.11.6, and from version 7.12.0 before 7.12.5.| 
+| 20210904T10:59:00Z | CVE-2021-26084 | Confluence Server Webwork OGNL injection | https://github.com/h3v0x/CVE-2021-26084_Confluence | | 
 | 20210904T10:45:20Z | CVE-2020-8515 | Draytek CVE-2020-8515 PoC | https://github.com/darrenmartyn/CVE-2020-8515 | DrayTek Vigor2960 1.3.1_Beta, Vigor3900 1.4.4_Beta, and Vigor300B 1.3.3_Beta, 1.4.2.1_Beta, and 1.4.4_Beta devices allow remote code execution as root (without authentication) via shell metacharacters to the cgi-bin/mainfunction.cgi URI. This issue has been fixed in Vigor3900/2960/300B v1.5.1.| 
 | 20210904T09:27:52Z | CVE-2021-36934 | SeriousSAM Auto Exploiter | https://github.com/websecnl/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
 | 20210904T05:00:13Z | CVE-2020-6418 | CVE-2020-6418 제로데이 취약점 | https://github.com/CYB3R-X3eRo0/CVE-2020-6418 | Type confusion in V8 in Google Chrome prior to 80.0.3987.122 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.| 
@@ -81,10 +81,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210904T12:18:29Z | Network vulnerability exploitation library | https://github.com/sairson/NetworkExpLibrary | 1 | 1| 
 | 20210904T12:03:10Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210904T11:54:51Z | This repository contains codes of ICCV2021 paper: SO-Pose: Exploiting Self-Occlusion for Direct 6D Pose Estimation | https://github.com/shangbuhuan13/SO-Pose | 12 | 2| 
 | 20210904T11:41:51Z | An open source Roblox Exploit / Script Executor, Join our Discord: https://kokscheats.com/discord | https://github.com/SimcraftLOL/Koks-Roblox-Executor | 1 | 0| 
-| 20210904T11:23:59Z | Network vulnerability exploitation library | https://github.com/sairson/NetworkExpLibrary | 1 | 1| 
 | 20210904T10:46:36Z | Local file inclusion discovery and exploitation tool | https://github.com/hansmach1ne/lfimap | 4 | 0| 
 | 20210904T10:43:37Z | This Repository will contain various tools, scripts and commands used in Active Directory Enumeration and Exploitation. | https://github.com/SecTheBit/Active-Directory | 1 | 0| 
 | 20210904T10:07:10Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 5932 | 1402| 
