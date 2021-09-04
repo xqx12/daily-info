@@ -53,7 +53,7 @@
 | 20210903T22:56:53Z | CVE-2021-32967 | PoC for exploiting CVE-2021-32967 : Delta Electronics DIAEnergie Version 1.7.5 and prior may allow an attacker to add a new administrative user without being authenticated or authorized, which may allow the attacker to log in and use the device with administrative privileges. | https://github.com/AlAIAL90/CVE-2021-32967 | Delta Electronics DIAEnergie Version 1.7.5 and prior may allow an attacker to add a new administrative user without being authenticated or authorized, which may allow the attacker to log in and use the device with administrative privileges.| 
 | 20210903T22:56:51Z | CVE-2021-32955 | PoC for exploiting CVE-2021-32955 : Delta Electronics DIAEnergie Version 1.7.5 and prior allows unrestricted file uploads, which may allow an attacker to remotely execute code. | https://github.com/AlAIAL90/CVE-2021-32955 | Delta Electronics DIAEnergie Version 1.7.5 and prior allows unrestricted file uploads, which may allow an attacker to remotely execute code.| 
 | 20210903T22:56:49Z | CVE-2021-32991 | PoC for exploiting CVE-2021-32991 : Delta Electronics DIAEnergie Version 1.7.5 and prior is vulnerable to cross-site request forgery, which may allow an attacker to cause a user to carry out an action unintentionally. | https://github.com/AlAIAL90/CVE-2021-32991 | Delta Electronics DIAEnergie Version 1.7.5 and prior is vulnerable to cross-site request forgery, which may allow an attacker to cause a user to carry out an action unintentionally.| 
-| 20210903T22:56:45Z | CVE-2021-33003 | PoC for exploiting CVE-2021-33003 : Delta Electronics DIAEnergie Version 1.7.5 and prior may allow an attacker to retrieve passwords in cleartext due to a weak hashing algorithm. | https://github.com/AlAIAL90/CVE-2021-33003 | | 
+| 20210903T22:56:45Z | CVE-2021-33003 | PoC for exploiting CVE-2021-33003 : Delta Electronics DIAEnergie Version 1.7.5 and prior may allow an attacker to retrieve passwords in cleartext due to a weak hashing algorithm. | https://github.com/AlAIAL90/CVE-2021-33003 | Delta Electronics DIAEnergie Version 1.7.5 and prior may allow an attacker to retrieve passwords in cleartext due to a weak hashing algorithm.| 
 | 20210903T22:56:41Z | CVE-2021-32983 | PoC for exploiting CVE-2021-32983 : A Blind SQL injection vulnerability exists in the /DataHandler/Handler_CFG.ashx endpoint of Delta Electronics DIAEnergie Version 1.7.5 and prior. The application does not properly validate the user-controlled value supplied through the parameter keyword before using it as part of an SQL query. A remote, unauthenticated attacker can exploit this issue to execute arbitrary code in the context of NT SERVICE\MSSQLSERVER. | https://github.com/AlAIAL90/CVE-2021-32983 | A Blind SQL injection vulnerability exists in the /DataHandler/Handler_CFG.ashx endpoint of Delta Electronics DIAEnergie Version 1.7.5 and prior. The application does not properly validate the user-controlled value supplied through the parameter keyword before using it as part of an SQL query. A remote, unauthenticated attacker can exploit this issue to execute arbitrary code in the context of NT SERVICE\MSSQLSERVER.| 
 | 20210903T22:56:37Z | CVE-2021-33007 | PoC for exploiting CVE-2021-33007 : A heap-based buffer overflow in Delta Electronics TPEditor: v1.98.06 and prior may be exploited by processing a specially crafted project file. Successful exploitation of this vulnerability may allow an attacker to execute arbitrary code. | https://github.com/AlAIAL90/CVE-2021-33007 | A heap-based buffer overflow in Delta Electronics TPEditor: v1.98.06 and prior may be exploited by processing a specially crafted project file. Successful exploitation of this vulnerability may allow an attacker to execute arbitrary code.| 
 
@@ -81,6 +81,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210904T00:52:33Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 22 | 14| 
 | 20210904T00:03:15Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210904T00:02:25Z | Local file inclusion discovery and exploitation tool | https://github.com/hansmach1ne/lfimap | 4 | 0| 
 | 20210903T23:59:04Z | blowing the whistle on the apparent %otax% discord exploit. | https://github.com/6x2/otax | 0 | 0| 
@@ -90,7 +91,6 @@
 | 20210903T22:56:59Z | PoC for exploiting CVE-2021-1592 : A vulnerability in the way Cisco UCS Manager software handles SSH sessions could allow an authenticated, remote attacker to cause a denial of service (DoS) condition on an affected device. This vulnerability is due to improper resource management for established SSH sessions. An attacker could exploit this vulnerability by opening a significant number of SSH sessions on an affected device. A successful exploit could allow the attacker to cause a crash and restart of internal Cisco UCS Manager software processes and a temporary loss of access to the Cisco UCS Manager CLI and web UI. Note: The attacker must have valid user credentials to authenticate to the affected device. | https://github.com/AlAIAL90/CVE-2021-1592 | 0 | 0| 
 | 20210903T22:56:53Z | PoC for exploiting CVE-2021-32967 : Delta Electronics DIAEnergie Version 1.7.5 and prior may allow an attacker to add a new administrative user without being authenticated or authorized, which may allow the attacker to log in and use the device with administrative privileges. | https://github.com/AlAIAL90/CVE-2021-32967 | 0 | 0| 
 | 20210903T22:56:51Z | PoC for exploiting CVE-2021-32955 : Delta Electronics DIAEnergie Version 1.7.5 and prior allows unrestricted file uploads, which may allow an attacker to remotely execute code. | https://github.com/AlAIAL90/CVE-2021-32955 | 0 | 0| 
-| 20210903T22:56:49Z | PoC for exploiting CVE-2021-32991 : Delta Electronics DIAEnergie Version 1.7.5 and prior is vulnerable to cross-site request forgery, which may allow an attacker to cause a user to carry out an action unintentionally. | https://github.com/AlAIAL90/CVE-2021-32991 | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -130,11 +130,11 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210904T00:52:32Z | under construction | https://github.com/ekiwi/rtl-fuzz-lab | 0 | 0| 
 | 20210904T00:41:29Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210904T00:31:24Z | Null | https://github.com/vjrmsg/FuzzyMatcherVENV | 0 | 0| 
 | 20210904T00:14:12Z | Read-only mirror of %fuzzysim% from r-forge SVN. | https://github.com/r-forge/fuzzysim | 0 | 0| 
 | 20210904T00:13:00Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210904T00:05:26Z | under construction | https://github.com/ekiwi/rtl-fuzz-lab | 0 | 0| 
 | 20210903T23:05:53Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 313 | 75| 
 | 20210903T22:40:42Z | Emulation based snapshot fuzzer | https://github.com/jaoeul/gingersnap | 0 | 0| 
 | 20210903T22:39:10Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
