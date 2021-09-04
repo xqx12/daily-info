@@ -61,7 +61,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20210903T23:59:04Z | blowing the whistle on the apparent %otax% discord exploit. | https://github.com/6x2/otax | 0 | 0| 
-| 20210903T23:03:11Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210903T22:57:11Z | PoC for exploiting CVE-2021-1588 : A vulnerability in the MPLS Operation, Administration, and Maintenance (OAM) feature of Cisco NX-OS Software could allow an unauthenticated, remote attacker to cause a denial of service (DoS) condition on an affected device. This vulnerability is due to improper input validation when an affected device is processing an MPLS echo-request or echo-reply packet. An attacker could exploit this vulnerability by sending malicious MPLS echo-request or echo-reply packets to an interface that is enabled for MPLS forwarding on the affected device. A successful exploit could allow the attacker to cause the MPLS OAM process to crash and restart multiple times, causing the affected device to reload and resulting in a DoS condition. | https://github.com/AlAIAL90/CVE-2021-1588 | 0 | 0| 
 | 20210903T22:57:07Z | PoC for exploiting CVE-2021-1590 : A vulnerability in the implementation of the system login block-for command for Cisco NX-OS Software could allow an unauthenticated, remote attacker to cause a login process to unexpectedly restart, causing a denial of service (DoS) condition. This vulnerability is due to a logic error in the implementation of the system login block-for command when an attack is detected and acted upon. An attacker could exploit this vulnerability by performing a brute-force login attack on an affected device. A successful exploit could allow the attacker to cause a login process to reload, which could result in a delay during authentication to the affected device. | https://github.com/AlAIAL90/CVE-2021-1590 | 0 | 0| 
 | 20210903T22:57:03Z | PoC for exploiting CVE-2021-1591 : A vulnerability in the EtherChannel port subscription logic of Cisco Nexus 9500 Series Switches could allow an unauthenticated, remote attacker to bypass access control list (ACL) rules that are configured on an affected device. This vulnerability is due to oversubscription of resources that occurs when applying ACLs to port channel interfaces. An attacker could exploit this vulnerability by attempting to access network resources that are protected by the ACL. A successful exploit could allow the attacker to access network resources that would be protected by the ACL that was applied on the port channel interface. | https://github.com/AlAIAL90/CVE-2021-1591 | 0 | 0| 
@@ -70,6 +69,7 @@
 | 20210903T22:56:51Z | PoC for exploiting CVE-2021-32955 : Delta Electronics DIAEnergie Version 1.7.5 and prior allows unrestricted file uploads, which may allow an attacker to remotely execute code. | https://github.com/AlAIAL90/CVE-2021-32955 | 0 | 0| 
 | 20210903T22:56:49Z | PoC for exploiting CVE-2021-32991 : Delta Electronics DIAEnergie Version 1.7.5 and prior is vulnerable to cross-site request forgery, which may allow an attacker to cause a user to carry out an action unintentionally. | https://github.com/AlAIAL90/CVE-2021-32991 | 0 | 0| 
 | 20210903T22:56:45Z | PoC for exploiting CVE-2021-33003 : Delta Electronics DIAEnergie Version 1.7.5 and prior may allow an attacker to retrieve passwords in cleartext due to a weak hashing algorithm. | https://github.com/AlAIAL90/CVE-2021-33003 | 0 | 0| 
+| 20210903T22:56:41Z | PoC for exploiting CVE-2021-32983 : A Blind SQL injection vulnerability exists in the /DataHandler/Handler_CFG.ashx endpoint of Delta Electronics DIAEnergie Version 1.7.5 and prior. The application does not properly validate the user-controlled value supplied through the parameter keyword before using it as part of an SQL query. A remote, unauthenticated attacker can exploit this issue to execute arbitrary code in the context of NT SERVICE\MSSQLSERVER. | https://github.com/AlAIAL90/CVE-2021-32983 | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -90,6 +90,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210903T20:06:59Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2444 | 362| 
+| 20210903T17:21:54Z | A tool for generating nonlinear numerical invariants for C and Java programs.  DIG uses dynamic analysis to infer invariants over program execution traces and applies symbolic execution to inferred invariants. | https://github.com/unsat/dig | 8 | 4| 
+| 20210903T14:45:40Z | Symbolica%s open-source symbolic execution engine. | https://github.com/SymbolicaDev/Symbolica | 4 | 1| 
 
 
 # big4 on Github 推荐
