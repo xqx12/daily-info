@@ -39,6 +39,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210904T12:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9993 | 1668| 
 | 20210904T12:27:05Z | Network vulnerability exploitation library | https://github.com/sairson/NetworkExpLibrary | 1 | 1| 
 | 20210904T12:24:57Z | This repository contains codes of ICCV2021 paper: SO-Pose: Exploiting Self-Occlusion for Direct 6D Pose Estimation | https://github.com/shangbuhuan13/SO-Pose | 12 | 2| 
 | 20210904T12:03:10Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
@@ -48,7 +49,6 @@
 | 20210904T10:07:10Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 5932 | 1402| 
 | 20210904T09:38:55Z | Null | https://github.com/Abdulrahman-Kamel/public_exploits | 0 | 0| 
 | 20210904T09:37:41Z | Null | https://github.com/gggyan07/Insta-Exploit | 0 | 0| 
-| 20210904T09:35:16Z | Windows Exploit Development Tutorial Series | https://github.com/whichbuffer/WindowsExploitDev | 8 | 1| 
 
 
 # backdoor on Github 推荐
