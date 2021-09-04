@@ -54,6 +54,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210904T12:44:52Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 304 | 57| 
 | 20210904T12:30:30Z | Null | https://github.com/ssllllll/Backdoored-Plugin | 2 | 1| 
 | 20210904T11:11:04Z | A basic PoC leak for CVE-2021-28663 (Internal of the Android kernel backdoor vulnerability) | https://github.com/lntrx/CVE-2021-28663 | 21 | 5| 
 | 20210904T09:15:11Z | Null | https://github.com/rishavmehra/reverse_backdoor | 1 | 0| 
@@ -79,8 +80,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210904T12:47:07Z | Null | https://github.com/eddarmitage/FuzzyTime | 0 | 0| 
 | 20210904T12:38:37Z | under construction | https://github.com/ekiwi/rtl-fuzz-lab | 0 | 0| 
-| 20210904T12:34:24Z | Null | https://github.com/eddarmitage/FuzzyTime | 0 | 0| 
 | 20210904T12:22:40Z | Take the current implementation and turning a microservice architecture | https://github.com/ccesarrod/FuzzyMicrosrvices | 0 | 0| 
 | 20210904T12:17:51Z | FLUFFI (Fully Localized Utility For Fuzzing Instantaneously) - A distributed evolutionary binary fuzzer for pentesters | https://github.com/siemens/fluffi | 87 | 17| 
 | 20210904T12:06:12Z | Read-only mirror of %fuzzysim% from r-forge SVN. | https://github.com/r-forge/fuzzysim | 0 | 0| 
