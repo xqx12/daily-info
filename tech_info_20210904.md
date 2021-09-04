@@ -79,16 +79,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210904T12:06:12Z | Read-only mirror of %fuzzysim% from r-forge SVN. | https://github.com/r-forge/fuzzysim | 0 | 0| 
+| 20210904T12:05:41Z | under construction | https://github.com/ekiwi/rtl-fuzz-lab | 0 | 0| 
 | 20210904T12:02:34Z | Implementasi Fuzzy Tahani Pada Database MySQL dan Sistem Berbasis Web dengan PHP | https://github.com/hudtakim/SPK-Pariwisata-FuzzyTahani | 0 | 0| 
 | 20210904T11:52:23Z | An add-on filament autochanger for existing 3D printers, in duel-spool configuration. | https://github.com/FuzzyNoodle/Fuzzy-Spooder | 1 | 0| 
 | 20210904T11:50:36Z | Code of fuzzing book | https://github.com/jiniljeil/Fuzzing | 5 | 0| 
-| 20210904T11:49:46Z | under construction | https://github.com/ekiwi/rtl-fuzz-lab | 0 | 0| 
 | 20210904T11:30:54Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210904T11:06:17Z | 🔥 Studying The Fuzzing Book : https://www.fuzzingbook.org | https://github.com/KimSeoYe/TheFuzzingBook | 5 | 0| 
 | 20210904T10:45:34Z | 📨 Responsive email template generator. | https://github.com/luangjokaj/fuzzymail | 117 | 5| 
 | 20210904T10:31:49Z | A bare-metal x86 instruction set fuzzer a la Sandsifter | https://github.com/blitz/baresifter | 39 | 3| 
 | 20210904T10:03:25Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
-| 20210904T09:52:40Z | Null | https://github.com/saschakaraivanov/fuzzy-enigma | 0 | 0| 
 
 
 
