@@ -130,7 +130,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210903T23:54:15Z | under construction | https://github.com/ekiwi/rtl-fuzz-lab | 0 | 0| 
+| 20210904T00:02:08Z | under construction | https://github.com/ekiwi/rtl-fuzz-lab | 0 | 0| 
 | 20210903T23:05:53Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 313 | 75| 
 | 20210903T22:40:42Z | Emulation based snapshot fuzzer | https://github.com/jaoeul/gingersnap | 0 | 0| 
 | 20210903T22:39:10Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 

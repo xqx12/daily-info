@@ -100,7 +100,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210903T23:54:15Z | under construction | https://github.com/ekiwi/rtl-fuzz-lab | 0 | 0| 
 | 20210903T23:05:53Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 313 | 75| 
 | 20210903T22:40:42Z | Emulation based snapshot fuzzer | https://github.com/jaoeul/gingersnap | 0 | 0| 
 | 20210903T22:39:10Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
@@ -110,6 +109,7 @@
 | 20210903T21:09:45Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2386 | 137| 
 | 20210903T20:32:41Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210903T20:02:14Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20210903T19:55:58Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1042 | 114| 
 
 
 
