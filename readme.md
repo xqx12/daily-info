@@ -111,8 +111,8 @@
 | 20210903T21:38:15Z | Code for fuzzy monkeys. | https://github.com/fuzzyatelin/fuzzyatelin.github.io | 3 | 9| 
 | 20210903T21:09:45Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2386 | 137| 
 | 20210903T20:32:41Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
-| 20210903T20:02:14Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210903T19:55:58Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1042 | 114| 
+| 20210903T19:32:12Z | Null | https://github.com/vjrmsg/FuzzyMatcherVENV | 0 | 0| 
 
 
 

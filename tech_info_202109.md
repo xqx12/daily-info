@@ -130,6 +130,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210904T00:14:12Z | Read-only mirror of %fuzzysim% from r-forge SVN. | https://github.com/r-forge/fuzzysim | 0 | 0| 
+| 20210904T00:13:00Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210904T00:05:26Z | under construction | https://github.com/ekiwi/rtl-fuzz-lab | 0 | 0| 
 | 20210903T23:05:53Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 313 | 75| 
 | 20210903T22:40:42Z | Emulation based snapshot fuzzer | https://github.com/jaoeul/gingersnap | 0 | 0| 
@@ -138,8 +140,6 @@
 | 20210903T21:53:50Z | Null | https://github.com/N-Musa/fuzzy-todoApp | 0 | 0| 
 | 20210903T21:38:15Z | Code for fuzzy monkeys. | https://github.com/fuzzyatelin/fuzzyatelin.github.io | 3 | 9| 
 | 20210903T21:09:45Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2386 | 137| 
-| 20210903T20:32:41Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
-| 20210903T20:02:14Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 
 
 
