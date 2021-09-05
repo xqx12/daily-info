@@ -39,6 +39,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210905T12:29:19Z | Practice repository for binary exploitation and fuzzing | https://github.com/RickdeJager/binexp-practice | 0 | 0| 
 | 20210905T12:18:26Z | Auto IP range scanner & exploit tool for BlueKeep metasploit module | https://github.com/ind3p3nd3nt/BlueRDPSploit | 14 | 8| 
 | 20210905T12:15:41Z | A vulnerable machine made for CTF. In this vulnerable machine Dirty COW vulnerability is used. Dirty COW vulnerability is a type of privilege escalation exploit, which essentially means that it can be used to gain root-user access on any Linux-based system. | https://github.com/risacker/Vulnerable_Machine | 0 | 0| 
 | 20210905T12:10:21Z | VSFTPD 2.3.4 EXPLOİT :)  | https://github.com/hawk-unity/vftpd-exploit | 0 | 0| 
@@ -48,7 +49,6 @@
 | 20210905T11:46:08Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 3888 | 536| 
 | 20210905T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9999 | 1668| 
 | 20210905T11:14:38Z | Null | https://github.com/SkillartzHD/HomeGuard-CCTV_exploit | 0 | 0| 
-| 20210905T11:10:25Z | 🎻 Modularized exploit generation framework | https://github.com/aesophor/requiem | 5 | 0| 
 
 
 # backdoor on Github 推荐
@@ -74,6 +74,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210905T12:29:19Z | Practice repository for binary exploitation and fuzzing | https://github.com/RickdeJager/binexp-practice | 0 | 0| 
 | 20210905T12:24:46Z | Web Fuzzing Box - Web 模糊测试字典与一些Payloads，主要包含：弱口令暴力破解、目录以及文件枚举、Web漏洞...字典运用于实战案例：https://gh0st.cn/archives/2019-11-11/1 | https://github.com/gh0stkey/Web-Fuzzing-Box | 841 | 176| 
 | 20210905T12:15:17Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 22 | 9| 
 | 20210905T12:01:25Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
@@ -83,7 +84,6 @@
 | 20210905T10:13:05Z | vFuzzer is a tool developed for fuzzing buffer overflows, For now, It can be used for fuzzing plain vanilla stack based buffer overflows | https://github.com/Vedant-Bhalgama/vFuzzer | 1 | 0| 
 | 20210905T10:00:28Z | under construction | https://github.com/ekiwi/rtl-fuzz-lab | 1 | 0| 
 | 20210905T09:46:58Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
-| 20210905T09:27:13Z | ant4g0nist%s blog | https://github.com/ant4g0nist/fuzzing.science | 3 | 0| 
 
 
 
