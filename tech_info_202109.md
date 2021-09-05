@@ -51,7 +51,7 @@
 | 20210905T08:57:27Z | CVE-2020-0796 | Null | https://github.com/Anonimo501/SMBGhost_CVE-2020-0796_checker | A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests, aka %Windows SMBv3 Client/Server Remote Code Execution Vulnerability%.| 
 | 20210905T05:07:26Z | CVE-2021-26084 | Confluence OGNL Injection [CVE-2021-26084]. | https://github.com/march0s1as/CVE-2021-26084 | In affected versions of Confluence Server and Data Center, an OGNL injection vulnerability exists that would allow an authenticated user, and in some instances an unauthenticated user, to execute arbitrary code on a Confluence Server or Data Center instance. The vulnerable endpoints can be accessed by a non-administrator user or unauthenticated user if ‘Allow people to sign up to create their account’ is enabled. To check whether this is enabled go to COG > User Management > User Signup Options. The affected versions are before version 6.13.23, from version 6.14.0 before 7.4.11, from version 7.5.0 before 7.11.6, and from version 7.12.0 before 7.12.5.| 
 | 20210904T15:10:08Z | CVE-2021-34646 | CVE-2021-34646 PoC | https://github.com/motikan2010/CVE-2021-34646 | Versions up to, and including, 5.4.3, of the Booster for WooCommerce WordPress plugin are vulnerable to authentication bypass via the process_email_verification function due to a random token generation weakness in the reset_and_mail_activation_link function found in the ~/includes/class-wcj-emails-verification.php file. This allows attackers to impersonate users and trigger an email address verification for arbitrary accounts, including administrative accounts, and automatically be logged in as that user, including any site administrators. This requires the Email Verification module to be active in the plugin and the Login User After Successful Verification setting to be enabled, which it is by default.| 
-| 20210904T13:31:44Z | CVE-2021-38707 | Persistent Cross-Site Scripting (XSS) in ClinicCases 7.3.3  | https://github.com/sudonoodle/CVE-2021-38707 | | 
+| 20210904T13:31:44Z | CVE-2021-38707 | Persistent Cross-Site Scripting (XSS) in ClinicCases 7.3.3  | https://github.com/sudonoodle/CVE-2021-38707 | 未查询到CVE信息| 
 | 20210904T13:29:14Z | CVE-2021-38706 | Blind SQL Injection in ClinicCases 7.3.3 | https://github.com/sudonoodle/CVE-2021-38706 | 未查询到CVE信息| 
 | 20210904T13:22:53Z | CVE-2021-38705 | Cross-Site Request Forgery (CSRF) in ClinicCases 7.3.3 | https://github.com/sudonoodle/CVE-2021-38705 | 未查询到CVE信息| 
 | 20210904T13:13:40Z | CVE-2021-38704 | Reflected Cross-Site Scripting (XSS) in ClinicCases 7.3.3  | https://github.com/sudonoodle/CVE-2021-38704 | 未查询到CVE信息| 
@@ -81,6 +81,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210905T12:18:26Z | Auto IP range scanner & exploit tool for BlueKeep metasploit module | https://github.com/ind3p3nd3nt/BlueRDPSploit | 14 | 8| 
 | 20210905T12:15:41Z | A vulnerable machine made for CTF. In this vulnerable machine Dirty COW vulnerability is used. Dirty COW vulnerability is a type of privilege escalation exploit, which essentially means that it can be used to gain root-user access on any Linux-based system. | https://github.com/risacker/Vulnerable_Machine | 0 | 0| 
 | 20210905T12:10:21Z | VSFTPD 2.3.4 EXPLOİT :)  | https://github.com/hawk-unity/vftpd-exploit | 0 | 0| 
 | 20210905T12:05:53Z | The best exploitation tool for SSL VPN 0day vulnerabilities. | https://github.com/shelld3v/PwnVPN | 47 | 16| 
@@ -90,7 +91,6 @@
 | 20210905T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9999 | 1668| 
 | 20210905T11:14:38Z | Null | https://github.com/SkillartzHD/HomeGuard-CCTV_exploit | 0 | 0| 
 | 20210905T11:10:25Z | 🎻 Modularized exploit generation framework | https://github.com/aesophor/requiem | 5 | 0| 
-| 20210905T10:18:20Z | I%m looking for a developer who can help me with exploits. Write me on Discord if you are good at coding. Kaliim#8328 | https://github.com/Kaliim/Fortnite-Exploits-Search | 0 | 0| 
 
 
 # backdoor on Github 推荐

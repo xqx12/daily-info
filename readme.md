@@ -39,6 +39,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210905T12:18:26Z | Auto IP range scanner & exploit tool for BlueKeep metasploit module | https://github.com/ind3p3nd3nt/BlueRDPSploit | 14 | 8| 
 | 20210905T12:15:41Z | A vulnerable machine made for CTF. In this vulnerable machine Dirty COW vulnerability is used. Dirty COW vulnerability is a type of privilege escalation exploit, which essentially means that it can be used to gain root-user access on any Linux-based system. | https://github.com/risacker/Vulnerable_Machine | 0 | 0| 
 | 20210905T12:10:21Z | VSFTPD 2.3.4 EXPLOİT :)  | https://github.com/hawk-unity/vftpd-exploit | 0 | 0| 
 | 20210905T12:05:53Z | The best exploitation tool for SSL VPN 0day vulnerabilities. | https://github.com/shelld3v/PwnVPN | 47 | 16| 
@@ -48,7 +49,6 @@
 | 20210905T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9999 | 1668| 
 | 20210905T11:14:38Z | Null | https://github.com/SkillartzHD/HomeGuard-CCTV_exploit | 0 | 0| 
 | 20210905T11:10:25Z | 🎻 Modularized exploit generation framework | https://github.com/aesophor/requiem | 5 | 0| 
-| 20210905T10:18:20Z | I%m looking for a developer who can help me with exploits. Write me on Discord if you are good at coding. Kaliim#8328 | https://github.com/Kaliim/Fortnite-Exploits-Search | 0 | 0| 
 
 
 # backdoor on Github 推荐
