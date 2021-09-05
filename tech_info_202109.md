@@ -54,7 +54,7 @@
 | 20210904T13:31:44Z | CVE-2021-38707 | Persistent Cross-Site Scripting (XSS) in ClinicCases 7.3.3  | https://github.com/sudonoodle/CVE-2021-38707 | 未查询到CVE信息| 
 | 20210904T13:29:14Z | CVE-2021-38706 | Blind SQL Injection in ClinicCases 7.3.3 | https://github.com/sudonoodle/CVE-2021-38706 | 未查询到CVE信息| 
 | 20210904T13:22:53Z | CVE-2021-38705 | Cross-Site Request Forgery (CSRF) in ClinicCases 7.3.3 | https://github.com/sudonoodle/CVE-2021-38705 | 未查询到CVE信息| 
-| 20210904T13:13:40Z | CVE-2021-38704 | Reflected Cross-Site Scripting (XSS) in ClinicCases 7.3.3  | https://github.com/sudonoodle/CVE-2021-38704 | | 
+| 20210904T13:13:40Z | CVE-2021-38704 | Reflected Cross-Site Scripting (XSS) in ClinicCases 7.3.3  | https://github.com/sudonoodle/CVE-2021-38704 | 未查询到CVE信息| 
 | 20210904T10:45:20Z | CVE-2020-8515 | Draytek CVE-2020-8515 PoC | https://github.com/darrenmartyn/CVE-2020-8515 | DrayTek Vigor2960 1.3.1_Beta, Vigor3900 1.4.4_Beta, and Vigor300B 1.3.3_Beta, 1.4.2.1_Beta, and 1.4.4_Beta devices allow remote code execution as root (without authentication) via shell metacharacters to the cgi-bin/mainfunction.cgi URI. This issue has been fixed in Vigor3900/2960/300B v1.5.1.| 
 
 
