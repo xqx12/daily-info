@@ -96,6 +96,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210905T12:31:55Z | backdoor virus on python | https://github.com/aaalllexxx/backdoor | 0 | 0| 
 | 20210905T11:38:57Z | Threat Emulation and Red Teaming Framework, The Hacking Software for normal people. | https://github.com/quantumcore/remote_hacker_probe | 83 | 31| 
 | 20210905T09:59:41Z | A basic PoC leak for CVE-2021-28663 (Internal of the Android kernel backdoor vulnerability) | https://github.com/lntrx/CVE-2021-28663 | 24 | 5| 
 | 20210905T05:08:21Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 95 | 16| 
@@ -105,7 +106,6 @@
 | 20210904T18:09:20Z | Golang Windows Backdoor for Educational Purposes. | https://github.com/ber0glu/Golang-PandasBackdoor | 0 | 0| 
 | 20210904T15:53:47Z | Null | https://github.com/Mr-Hax0r/BackDoor_windows_py | 0 | 0| 
 | 20210904T15:08:48Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 226 | 44| 
-| 20210904T13:31:23Z | Null | https://github.com/kaidi-jin/backdoor_samples_detection | 5 | 0| 
 
 
 # symbolic execution on Github 推荐
