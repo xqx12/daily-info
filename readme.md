@@ -26,7 +26,7 @@
 | 20210904T13:29:14Z | CVE-2021-38706 | Blind SQL Injection in ClinicCases 7.3.3 | https://github.com/sudonoodle/CVE-2021-38706 | 未查询到CVE信息| 
 | 20210904T13:22:53Z | CVE-2021-38705 | Cross-Site Request Forgery (CSRF) in ClinicCases 7.3.3 | https://github.com/sudonoodle/CVE-2021-38705 | 未查询到CVE信息| 
 | 20210904T13:13:40Z | CVE-2021-38704 | Reflected Cross-Site Scripting (XSS) in ClinicCases 7.3.3  | https://github.com/sudonoodle/CVE-2021-38704 | 未查询到CVE信息| 
-| 20210904T10:45:20Z | CVE-2020-8515 | Draytek CVE-2020-8515 PoC | https://github.com/darrenmartyn/CVE-2020-8515 | DrayTek Vigor2960 1.3.1_Beta, Vigor3900 1.4.4_Beta, and Vigor300B 1.3.3_Beta, 1.4.2.1_Beta, and 1.4.4_Beta devices allow remote code execution as root (without authentication) via shell metacharacters to the cgi-bin/mainfunction.cgi URI. This issue has been fixed in Vigor3900/2960/300B v1.5.1.| 
+| 20210904T10:45:20Z | CVE-2020-8515 | Draytek CVE-2020-8515 PoC | https://github.com/darrenmartyn/CVE-2020-8515 | | 
 | 20210904T09:27:52Z | CVE-2021-36934 | SeriousSAM Auto Exploiter | https://github.com/websecnl/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
 
 
@@ -35,7 +35,6 @@
 | --- | --- | --- | --- | ---| 
 | 20210904T23:01:08Z | External audio preamp board for the RP2A03 | https://github.com/Gumball2415/squeeki-kleen-Audio-FC | 1 | 0| 
 | 20210904T15:31:00Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2715 | 69| 
-| 20210904T07:54:26Z | Null | https://github.com/kleelab/kleelab.github.io | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -52,10 +51,10 @@
 | 20210904T23:09:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9996 | 1668| 
 | 20210904T22:45:14Z | Advanced dork Search & Mass Exploit Scanner | https://github.com/AlisamTechnology/ATSCAN | 882 | 327| 
 | 20210904T22:43:41Z | CAUTION - Malicious files 💀 | https://github.com/Am0rphous/Malware | 19 | 8| 
-| 20210904T21:32:50Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 3887 | 535| 
 | 20210904T20:56:07Z | Add defenses to common security exploits. | https://github.com/micromichamp/RESTsecure | 0 | 0| 
 | 20210904T20:31:40Z | Windows Exploit Development Tutorial Series | https://github.com/whichbuffer/WindowsExploitDev | 8 | 1| 
 | 20210904T19:42:01Z | One Click root Exploit for Unobtainium Machine [HackTheBox] | https://github.com/Rajchowdhury420/Unobtainium-HTB-Exploit | 1 | 0| 
+| 20210904T19:09:36Z | 🎻 Modularized exploit generation framework | https://github.com/aesophor/requiem | 4 | 0| 
 
 
 # backdoor on Github 推荐

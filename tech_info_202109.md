@@ -54,16 +54,16 @@
 | 20210904T13:29:14Z | CVE-2021-38706 | Blind SQL Injection in ClinicCases 7.3.3 | https://github.com/sudonoodle/CVE-2021-38706 | 未查询到CVE信息| 
 | 20210904T13:22:53Z | CVE-2021-38705 | Cross-Site Request Forgery (CSRF) in ClinicCases 7.3.3 | https://github.com/sudonoodle/CVE-2021-38705 | 未查询到CVE信息| 
 | 20210904T13:13:40Z | CVE-2021-38704 | Reflected Cross-Site Scripting (XSS) in ClinicCases 7.3.3  | https://github.com/sudonoodle/CVE-2021-38704 | 未查询到CVE信息| 
-| 20210904T10:45:20Z | CVE-2020-8515 | Draytek CVE-2020-8515 PoC | https://github.com/darrenmartyn/CVE-2020-8515 | DrayTek Vigor2960 1.3.1_Beta, Vigor3900 1.4.4_Beta, and Vigor300B 1.3.3_Beta, 1.4.2.1_Beta, and 1.4.4_Beta devices allow remote code execution as root (without authentication) via shell metacharacters to the cgi-bin/mainfunction.cgi URI. This issue has been fixed in Vigor3900/2960/300B v1.5.1.| 
+| 20210904T10:45:20Z | CVE-2020-8515 | Draytek CVE-2020-8515 PoC | https://github.com/darrenmartyn/CVE-2020-8515 | | 
 | 20210904T09:27:52Z | CVE-2021-36934 | SeriousSAM Auto Exploiter | https://github.com/websecnl/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210905T00:54:54Z | Null | https://github.com/kleelab/kleelab.github.io | 0 | 0| 
 | 20210904T23:01:08Z | External audio preamp board for the RP2A03 | https://github.com/Gumball2415/squeeki-kleen-Audio-FC | 1 | 0| 
 | 20210904T15:31:00Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2715 | 69| 
-| 20210904T07:54:26Z | Null | https://github.com/kleelab/kleelab.github.io | 0 | 0| 
 | 20210903T18:24:08Z | ⚡ Kleeja Open Source Desktop Application (Windows / Linux / Mac) | https://github.com/Lil-Nickel/Kleeja-da | 1 | 1| 
 | 20210903T13:04:35Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 175 | 19| 
 | 20210903T12:21:17Z | Null | https://github.com/pansilup/cgc-prgs-for-klee-seed-mode | 0 | 0| 
@@ -81,6 +81,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210905T00:55:34Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 3887 | 535| 
 | 20210905T00:32:37Z | Network vulnerability exploitation library | https://github.com/sairson/NetworkExpLibrary | 5 | 1| 
 | 20210905T00:29:04Z | Null | https://github.com/a-rey/exploits | 0 | 0| 
 | 20210905T00:03:33Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 16| 
@@ -90,7 +91,6 @@
 | 20210904T23:20:12Z | tool to automate exploitation of android degubg bridge vulnerability  | https://github.com/DrH3X/Android-debug-bridge- | 4 | 0| 
 | 20210904T23:09:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9996 | 1668| 
 | 20210904T22:45:14Z | Advanced dork Search & Mass Exploit Scanner | https://github.com/AlisamTechnology/ATSCAN | 882 | 327| 
-| 20210904T22:43:41Z | CAUTION - Malicious files 💀 | https://github.com/Am0rphous/Malware | 19 | 8| 
 
 
 # backdoor on Github 推荐
