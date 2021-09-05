@@ -131,7 +131,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210905T00:37:21Z | Modelo Fuzzy controle do Carro autônomo | https://github.com/Carro-Nvidia/Controle-Fuzzy | 0 | 0| 
+| 20210905T00:39:27Z | Modelo Fuzzy controle do Carro autônomo | https://github.com/Carro-Nvidia/Controle-Fuzzy | 0 | 0| 
 | 20210905T00:27:34Z | 32-bit x86 OS capable of running console user application. | https://github.com/scopeInfinity/FuzzyOS | 1 | 0| 
 | 20210905T00:11:47Z | Zuri Chat bot for company shift plugin | https://github.com/HuzaifaImam/fuzzy-dollop | 0 | 0| 
 | 20210905T00:04:23Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 22 | 9| 
