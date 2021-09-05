@@ -53,7 +53,7 @@
 | 20210904T13:31:44Z | CVE-2021-38707 | Persistent Cross-Site Scripting (XSS) in ClinicCases 7.3.3  | https://github.com/sudonoodle/CVE-2021-38707 | 未查询到CVE信息| 
 | 20210904T13:29:14Z | CVE-2021-38706 | Blind SQL Injection in ClinicCases 7.3.3 | https://github.com/sudonoodle/CVE-2021-38706 | 未查询到CVE信息| 
 | 20210904T13:22:53Z | CVE-2021-38705 | Cross-Site Request Forgery (CSRF) in ClinicCases 7.3.3 | https://github.com/sudonoodle/CVE-2021-38705 | 未查询到CVE信息| 
-| 20210904T13:13:40Z | CVE-2021-38704 | Reflected Cross-Site Scripting (XSS) in ClinicCases 7.3.3  | https://github.com/sudonoodle/CVE-2021-38704 | 未查询到CVE信息| 
+| 20210904T13:13:40Z | CVE-2021-38704 | Reflected Cross-Site Scripting (XSS) in ClinicCases 7.3.3  | https://github.com/sudonoodle/CVE-2021-38704 | | 
 | 20210904T10:45:20Z | CVE-2020-8515 | Draytek CVE-2020-8515 PoC | https://github.com/darrenmartyn/CVE-2020-8515 | DrayTek Vigor2960 1.3.1_Beta, Vigor3900 1.4.4_Beta, and Vigor300B 1.3.3_Beta, 1.4.2.1_Beta, and 1.4.4_Beta devices allow remote code execution as root (without authentication) via shell metacharacters to the cgi-bin/mainfunction.cgi URI. This issue has been fixed in Vigor3900/2960/300B v1.5.1.| 
 | 20210904T09:27:52Z | CVE-2021-36934 | SeriousSAM Auto Exploiter | https://github.com/websecnl/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
 
@@ -131,6 +131,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210905T01:31:34Z | Itchy laugh | https://github.com/JPlows/fuzzy-giggle | 0 | 0| 
 | 20210905T01:24:06Z | Policy-Guided Fuzzing for Robotic Vehicles | https://github.com/purseclab/PGFUZZ | 4 | 1| 
 | 20210905T00:39:27Z | Modelo Fuzzy controle do Carro autônomo | https://github.com/Carro-Nvidia/Controle-Fuzzy | 0 | 0| 
 | 20210905T00:27:34Z | 32-bit x86 OS capable of running console user application. | https://github.com/scopeInfinity/FuzzyOS | 1 | 0| 
@@ -140,7 +141,6 @@
 | 20210904T23:30:00Z | Fuzz tester for the Zydis disassembly library | https://github.com/tremalrik/zydis-fuzzer | 0 | 0| 
 | 20210904T23:16:43Z | code for images for networks slides | https://github.com/jomare1188/fuzzy-octo-fortnight | 0 | 0| 
 | 20210904T23:07:16Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
-| 20210904T21:44:19Z | ant4g0nist%s blog | https://github.com/ant4g0nist/fuzzing.science | 1 | 0| 
 
 
 
