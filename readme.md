@@ -53,9 +53,9 @@
 | 20210904T22:45:14Z | Advanced dork Search & Mass Exploit Scanner | https://github.com/AlisamTechnology/ATSCAN | 882 | 327| 
 | 20210904T22:43:41Z | CAUTION - Malicious files 💀 | https://github.com/Am0rphous/Malware | 19 | 8| 
 | 20210904T21:32:50Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 3887 | 535| 
-| 20210904T21:09:42Z | Null | https://github.com/a-rey/exploits | 0 | 0| 
 | 20210904T20:56:07Z | Add defenses to common security exploits. | https://github.com/micromichamp/RESTsecure | 0 | 0| 
 | 20210904T20:31:40Z | Windows Exploit Development Tutorial Series | https://github.com/whichbuffer/WindowsExploitDev | 8 | 1| 
+| 20210904T19:42:01Z | One Click root Exploit for Unobtainium Machine [HackTheBox] | https://github.com/Rajchowdhury420/Unobtainium-HTB-Exploit | 1 | 0| 
 
 
 # backdoor on Github 推荐

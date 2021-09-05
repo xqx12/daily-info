@@ -81,6 +81,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210905T00:32:37Z | Network vulnerability exploitation library | https://github.com/sairson/NetworkExpLibrary | 5 | 1| 
+| 20210905T00:29:04Z | Null | https://github.com/a-rey/exploits | 0 | 0| 
 | 20210905T00:03:33Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 16| 
 | 20210905T00:01:45Z | A full fledged exploitation framework written in pure python3. | https://github.com/MrSharkSpamBot/GlidingSword | 0 | 0| 
 | 20210904T23:37:29Z | Exploiting Causal Structure for Transportability in Online, Multi-Agent Environments | https://github.com/axelbrowne/ECS4TOMAE | 0 | 0| 
@@ -89,8 +91,6 @@
 | 20210904T23:09:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9996 | 1668| 
 | 20210904T22:45:14Z | Advanced dork Search & Mass Exploit Scanner | https://github.com/AlisamTechnology/ATSCAN | 882 | 327| 
 | 20210904T22:43:41Z | CAUTION - Malicious files 💀 | https://github.com/Am0rphous/Malware | 19 | 8| 
-| 20210904T21:32:50Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 3887 | 535| 
-| 20210904T21:09:42Z | Null | https://github.com/a-rey/exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
