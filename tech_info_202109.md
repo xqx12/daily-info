@@ -132,7 +132,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210905T12:12:06Z | Web Fuzzing Box - Web 模糊测试字典与一些Payloads，主要包含：弱口令暴力破解、目录以及文件枚举、Web漏洞...字典运用于实战案例：https://gh0st.cn/archives/2019-11-11/1 | https://github.com/gh0stkey/Web-Fuzzing-Box | 838 | 176| 
+| 20210905T12:13:02Z | Web Fuzzing Box - Web 模糊测试字典与一些Payloads，主要包含：弱口令暴力破解、目录以及文件枚举、Web漏洞...字典运用于实战案例：https://gh0st.cn/archives/2019-11-11/1 | https://github.com/gh0stkey/Web-Fuzzing-Box | 839 | 176| 
 | 20210905T12:01:25Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210905T11:02:50Z | Implementasi Fuzzy Tahani Pada Database MySQL dan Sistem Berbasis Web dengan PHP | https://github.com/hudtakim/SPK-Pariwisata-FuzzyTahani | 0 | 0| 
 | 20210905T10:53:20Z | Null | https://github.com/fuzzdb/fuzzdb | 0 | 0| 
