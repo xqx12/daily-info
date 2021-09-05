@@ -31,6 +31,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210905 | 小心你信任的人：跨域通信中的安全陷阱 | https://mp.weixin.qq.com/s/ErjUg177-jGR9UQjyZaEoA| 
 | 20210904 | Survey: 基于机器学习和数据挖掘技术的软件漏洞检测 | https://zhuanlan.zhihu.com/p/405003793| 
 | 20210904 | 海外执法机构未公开的技术监视设备 | https://www.anquanke.com/post/id/252421| 
 | 20210903 | HITB 2021 新加坡安全会议公开视频 | https://www.youtube.com/playlist?list=PLmv8T5-GONwQhUlGN2UhOAi8YxPaiYCDQ| 
@@ -40,32 +41,31 @@
 | 20210901 | 源码解析angr的模拟执行 | https://www.anquanke.com/post/id/251983| 
 | 20210901 | 二进制角度构造Java反序列化Payload | https://www.anquanke.com/post/id/252024| 
 | 20210901 | A-Journey-into-Synology-NAS-系列——群晖NAS介绍 | https://www.anquanke.com/post/id/251883| 
-| 20210901 | GitHub Pull Request业务逻辑风险 | https://mp.weixin.qq.com/s/Fo0OhNb-MP-GqKM-ASCXsg| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210905T01:25:22Z | CVE-2021-26084 | Confluence Server Webwork OGNL injection | https://github.com/h3v0x/CVE-2021-26084_Confluence | | 
-| 20210904T15:47:31Z | CVE-2021-26084 | Confluence OGNL Injection [CVE-2021-26084]. | https://github.com/march0s1as/CVE-2021-26084 | | 
+| 20210905T11:28:31Z | CVE-2021-26084 | Confluence Server Webwork OGNL injection | https://github.com/h3v0x/CVE-2021-26084_Confluence | In affected versions of Confluence Server and Data Center, an OGNL injection vulnerability exists that would allow an authenticated user, and in some instances an unauthenticated user, to execute arbitrary code on a Confluence Server or Data Center instance. The vulnerable endpoints can be accessed by a non-administrator user or unauthenticated user if ‘Allow people to sign up to create their account’ is enabled. To check whether this is enabled go to COG > User Management > User Signup Options. The affected versions are before version 6.13.23, from version 6.14.0 before 7.4.11, from version 7.5.0 before 7.11.6, and from version 7.12.0 before 7.12.5.| 
+| 20210905T10:26:41Z | CVE-2021-26084 | Confluence server webwork OGNL injection | https://github.com/rootsmadi/CVE-2021-26084 | In affected versions of Confluence Server and Data Center, an OGNL injection vulnerability exists that would allow an authenticated user, and in some instances an unauthenticated user, to execute arbitrary code on a Confluence Server or Data Center instance. The vulnerable endpoints can be accessed by a non-administrator user or unauthenticated user if ‘Allow people to sign up to create their account’ is enabled. To check whether this is enabled go to COG > User Management > User Signup Options. The affected versions are before version 6.13.23, from version 6.14.0 before 7.4.11, from version 7.5.0 before 7.11.6, and from version 7.12.0 before 7.12.5.| 
+| 20210905T08:57:27Z | CVE-2020-0796 | Null | https://github.com/Anonimo501/SMBGhost_CVE-2020-0796_checker | A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests, aka %Windows SMBv3 Client/Server Remote Code Execution Vulnerability%.| 
+| 20210905T05:07:26Z | CVE-2021-26084 | Confluence OGNL Injection [CVE-2021-26084]. | https://github.com/march0s1as/CVE-2021-26084 | In affected versions of Confluence Server and Data Center, an OGNL injection vulnerability exists that would allow an authenticated user, and in some instances an unauthenticated user, to execute arbitrary code on a Confluence Server or Data Center instance. The vulnerable endpoints can be accessed by a non-administrator user or unauthenticated user if ‘Allow people to sign up to create their account’ is enabled. To check whether this is enabled go to COG > User Management > User Signup Options. The affected versions are before version 6.13.23, from version 6.14.0 before 7.4.11, from version 7.5.0 before 7.11.6, and from version 7.12.0 before 7.12.5.| 
 | 20210904T15:10:08Z | CVE-2021-34646 | CVE-2021-34646 PoC | https://github.com/motikan2010/CVE-2021-34646 | Versions up to, and including, 5.4.3, of the Booster for WooCommerce WordPress plugin are vulnerable to authentication bypass via the process_email_verification function due to a random token generation weakness in the reset_and_mail_activation_link function found in the ~/includes/class-wcj-emails-verification.php file. This allows attackers to impersonate users and trigger an email address verification for arbitrary accounts, including administrative accounts, and automatically be logged in as that user, including any site administrators. This requires the Email Verification module to be active in the plugin and the Login User After Successful Verification setting to be enabled, which it is by default.| 
-| 20210904T15:08:55Z | CVE-2020-0796 | Null | https://github.com/Anonimo501/SMBGhost_CVE-2020-0796_checker | A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests, aka %Windows SMBv3 Client/Server Remote Code Execution Vulnerability%.| 
 | 20210904T13:31:44Z | CVE-2021-38707 | Persistent Cross-Site Scripting (XSS) in ClinicCases 7.3.3  | https://github.com/sudonoodle/CVE-2021-38707 | 未查询到CVE信息| 
 | 20210904T13:29:14Z | CVE-2021-38706 | Blind SQL Injection in ClinicCases 7.3.3 | https://github.com/sudonoodle/CVE-2021-38706 | 未查询到CVE信息| 
 | 20210904T13:22:53Z | CVE-2021-38705 | Cross-Site Request Forgery (CSRF) in ClinicCases 7.3.3 | https://github.com/sudonoodle/CVE-2021-38705 | 未查询到CVE信息| 
 | 20210904T13:13:40Z | CVE-2021-38704 | Reflected Cross-Site Scripting (XSS) in ClinicCases 7.3.3  | https://github.com/sudonoodle/CVE-2021-38704 | 未查询到CVE信息| 
 | 20210904T10:45:20Z | CVE-2020-8515 | Draytek CVE-2020-8515 PoC | https://github.com/darrenmartyn/CVE-2020-8515 | DrayTek Vigor2960 1.3.1_Beta, Vigor3900 1.4.4_Beta, and Vigor300B 1.3.3_Beta, 1.4.2.1_Beta, and 1.4.4_Beta devices allow remote code execution as root (without authentication) via shell metacharacters to the cgi-bin/mainfunction.cgi URI. This issue has been fixed in Vigor3900/2960/300B v1.5.1.| 
-| 20210904T09:27:52Z | CVE-2021-36934 | SeriousSAM Auto Exploiter | https://github.com/websecnl/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210905T01:55:47Z | Null | https://github.com/kleelab/kleelab.github.io | 0 | 0| 
-| 20210905T01:20:45Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2716 | 69| 
+| 20210905T09:45:11Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2718 | 70| 
+| 20210905T08:28:44Z | Null | https://github.com/kleelab/kleelab.github.io | 0 | 0| 
+| 20210905T03:40:20Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 176 | 19| 
 | 20210904T23:01:08Z | External audio preamp board for the RP2A03 | https://github.com/Gumball2415/squeeki-kleen-Audio-FC | 1 | 0| 
 | 20210903T18:24:08Z | ⚡ Kleeja Open Source Desktop Application (Windows / Linux / Mac) | https://github.com/Lil-Nickel/Kleeja-da | 1 | 1| 
-| 20210903T13:04:35Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 175 | 19| 
 | 20210903T12:21:17Z | Null | https://github.com/pansilup/cgc-prgs-for-klee-seed-mode | 0 | 0| 
 | 20210903T05:57:00Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 13 | 1| 
 | 20210902T22:53:37Z | Null | https://github.com/JaimePSantos/ResearchKlee | 0 | 0| 
@@ -81,26 +81,26 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210905T01:38:00Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9997 | 1668| 
-| 20210905T01:37:04Z | Private exploit scripts for Roblox games with HD Admin. | https://github.com/ArcModz/HDX | 0 | 0| 
-| 20210905T01:03:17Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 16| 
-| 20210905T00:55:34Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 3887 | 535| 
-| 20210905T00:32:37Z | Network vulnerability exploitation library | https://github.com/sairson/NetworkExpLibrary | 5 | 1| 
-| 20210905T00:29:04Z | Null | https://github.com/a-rey/exploits | 0 | 0| 
-| 20210905T00:01:45Z | A full fledged exploitation framework written in pure python3. | https://github.com/MrSharkSpamBot/GlidingSword | 0 | 0| 
-| 20210904T23:37:29Z | Exploiting Causal Structure for Transportability in Online, Multi-Agent Environments | https://github.com/axelbrowne/ECS4TOMAE | 0 | 0| 
-| 20210904T23:24:27Z | Null | https://github.com/SerumTechnology/Serum-Word-Exploit-Builder-Almost-FUD | 1 | 0| 
-| 20210904T23:20:12Z | tool to automate exploitation of android degubg bridge vulnerability  | https://github.com/DrH3X/Android-debug-bridge- | 4 | 0| 
+| 20210905T12:00:50Z | My notes, exploits and tricks in preparation for taking the OSCP exam. | https://github.com/YanoF/OSCP_Prep | 0 | 0| 
+| 20210905T11:46:08Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 3888 | 536| 
+| 20210905T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9999 | 1668| 
+| 20210905T11:14:38Z | Null | https://github.com/SkillartzHD/HomeGuard-CCTV_exploit | 0 | 0| 
+| 20210905T11:10:25Z | 🎻 Modularized exploit generation framework | https://github.com/aesophor/requiem | 5 | 0| 
+| 20210905T11:02:55Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 16| 
+| 20210905T10:18:20Z | I%m looking for a developer who can help me with exploits. Write me on Discord if you are good at coding. Kaliim#8328 | https://github.com/Kaliim/Fortnite-Exploits-Search | 0 | 0| 
+| 20210905T09:39:18Z | Octagon is a fully fledged modular server sided anti exploit designed to detect many exploits reliably without interrupting user experience. | https://github.com/SilentsReplacement/Octagon | 2 | 1| 
+| 20210905T09:21:36Z | Printer Exploitation Toolkit - The tool that made dumpster diving obsolete. | https://github.com/RUB-NDS/PRET | 2804 | 530| 
+| 20210905T07:02:18Z | This project extracts the canvas data on https://www.osrsmap.net/ and converts each canvas display as an png file. This is done by exploiting html elements on the website and adding javascript parameter functions such as .toDataURL.   .toDataURL() method returns a data URI containing a representation of the image in the format specified by the type parameter (defaults to PNG).    WebDriver is an open source tool for automated testing of webapps across many browsers. It provides capabilities for navigating to web pages, user input, JavaScript execution, and more.     Download the chrome webdriver here: https://chromedriver.chromium.org/downloads   Base64 module allows for the script to This module provides functions for encoding binary data to printable ASCII characters and decoding such encodings back to binary data.    This is useful converting the canvas data to a png file.   The next function merges those images by looping the interactions of the canvas images, that results in the final product a full osrs map with icons and detailed. | https://github.com/slyautomation/astar_pathfinding_node_networks | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210905T11:38:57Z | Threat Emulation and Red Teaming Framework, The Hacking Software for normal people. | https://github.com/quantumcore/remote_hacker_probe | 83 | 31| 
+| 20210905T09:59:41Z | A basic PoC leak for CVE-2021-28663 (Internal of the Android kernel backdoor vulnerability) | https://github.com/lntrx/CVE-2021-28663 | 24 | 5| 
+| 20210905T05:08:21Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 95 | 16| 
 | 20210904T21:45:08Z | Simples Backdoor Camuflada em um Programa. | https://github.com/KnC0x00/BackdoorSUID | 1 | 0| 
 | 20210904T21:40:05Z | Null | https://github.com/ssllllll/Backdoored-Plugin | 3 | 1| 
-| 20210904T20:38:24Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 95 | 16| 
-| 20210904T19:21:36Z | Threat Emulation and Red Teaming Framework, The Hacking Software for normal people. | https://github.com/quantumcore/remote_hacker_probe | 81 | 30| 
-| 20210904T19:11:02Z | A basic PoC leak for CVE-2021-28663 (Internal of the Android kernel backdoor vulnerability) | https://github.com/lntrx/CVE-2021-28663 | 23 | 5| 
 | 20210904T19:09:52Z | This assignment evokes the role of a hacker. I remotely access a victim%s target machine, maintain access using a backdoor, and crack sensitive passwords in the /etc directory. | https://github.com/melchti/Bash-Scripting-Programming | 0 | 0| 
 | 20210904T18:09:20Z | Golang Windows Backdoor for Educational Purposes. | https://github.com/ber0glu/Golang-PandasBackdoor | 0 | 0| 
 | 20210904T15:53:47Z | Null | https://github.com/Mr-Hax0r/BackDoor_windows_py | 0 | 0| 
@@ -131,16 +131,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210905T01:34:47Z | Null | https://github.com/Apple0217/fuzzy-goggles | 0 | 0| 
-| 20210905T01:31:34Z | Itchy laugh | https://github.com/JPlows/fuzzy-giggle | 0 | 0| 
-| 20210905T01:24:06Z | Policy-Guided Fuzzing for Robotic Vehicles | https://github.com/purseclab/PGFUZZ | 4 | 1| 
-| 20210905T00:39:27Z | Modelo Fuzzy controle do Carro autônomo | https://github.com/Carro-Nvidia/Controle-Fuzzy | 0 | 0| 
-| 20210905T00:27:34Z | 32-bit x86 OS capable of running console user application. | https://github.com/scopeInfinity/FuzzyOS | 1 | 0| 
-| 20210905T00:11:47Z | Zuri Chat bot for company shift plugin | https://github.com/HuzaifaImam/fuzzy-dollop | 0 | 0| 
-| 20210905T00:04:23Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 22 | 9| 
-| 20210904T23:54:51Z | Null | https://github.com/trevt15/fuzzy-winner | 0 | 0| 
-| 20210904T23:30:00Z | Fuzz tester for the Zydis disassembly library | https://github.com/tremalrik/zydis-fuzzer | 0 | 0| 
-| 20210904T23:16:43Z | code for images for networks slides | https://github.com/jomare1188/fuzzy-octo-fortnight | 0 | 0| 
+| 20210905T12:01:25Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
+| 20210905T11:34:37Z | Web Fuzzing Box - Web 模糊测试字典与一些Payloads，主要包含：弱口令暴力破解、目录以及文件枚举、Web漏洞...字典运用于实战案例：https://gh0st.cn/archives/2019-11-11/1 | https://github.com/gh0stkey/Web-Fuzzing-Box | 837 | 176| 
+| 20210905T11:02:50Z | Implementasi Fuzzy Tahani Pada Database MySQL dan Sistem Berbasis Web dengan PHP | https://github.com/hudtakim/SPK-Pariwisata-FuzzyTahani | 0 | 0| 
+| 20210905T10:53:20Z | Null | https://github.com/fuzzdb/fuzzdb | 0 | 0| 
+| 20210905T10:36:08Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20210905T10:13:05Z | vFuzzer is a tool developed for fuzzing buffer overflows, For now, It can be used for fuzzing plain vanilla stack based buffer overflows | https://github.com/Vedant-Bhalgama/vFuzzer | 1 | 0| 
+| 20210905T10:00:28Z | under construction | https://github.com/ekiwi/rtl-fuzz-lab | 1 | 0| 
+| 20210905T09:46:58Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
+| 20210905T09:27:13Z | ant4g0nist%s blog | https://github.com/ant4g0nist/fuzzing.science | 3 | 0| 
+| 20210905T08:43:27Z | Fuzz tester for the Zydis disassembly library | https://github.com/tremalrik/zydis-fuzzer | 4 | 0| 
 
 
 
