@@ -50,12 +50,12 @@
 | 20210904T23:24:27Z | Null | https://github.com/SerumTechnology/Serum-Word-Exploit-Builder-Almost-FUD | 1 | 0| 
 | 20210904T23:20:12Z | tool to automate exploitation of android degubg bridge vulnerability  | https://github.com/DrH3X/Android-debug-bridge- | 4 | 0| 
 | 20210904T23:09:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9996 | 1668| 
-| 20210904T23:03:00Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
 | 20210904T22:45:14Z | Advanced dork Search & Mass Exploit Scanner | https://github.com/AlisamTechnology/ATSCAN | 882 | 327| 
 | 20210904T22:43:41Z | CAUTION - Malicious files 💀 | https://github.com/Am0rphous/Malware | 19 | 8| 
 | 20210904T21:32:50Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 3887 | 535| 
 | 20210904T21:09:42Z | Null | https://github.com/a-rey/exploits | 0 | 0| 
 | 20210904T20:56:07Z | Add defenses to common security exploits. | https://github.com/micromichamp/RESTsecure | 0 | 0| 
+| 20210904T20:31:40Z | Windows Exploit Development Tutorial Series | https://github.com/whichbuffer/WindowsExploitDev | 8 | 1| 
 
 
 # backdoor on Github 推荐
