@@ -48,12 +48,12 @@
 | --- | --- | --- | --- | ---| 
 | 20210904T22:14:48Z | CVE-2021-26084 | Confluence Server Webwork OGNL injection | https://github.com/h3v0x/CVE-2021-26084_Confluence | In affected versions of Confluence Server and Data Center, an OGNL injection vulnerability exists that would allow an authenticated user, and in some instances an unauthenticated user, to execute arbitrary code on a Confluence Server or Data Center instance. The vulnerable endpoints can be accessed by a non-administrator user or unauthenticated user if ‘Allow people to sign up to create their account’ is enabled. To check whether this is enabled go to COG > User Management > User Signup Options. The affected versions are before version 6.13.23, from version 6.14.0 before 7.4.11, from version 7.5.0 before 7.11.6, and from version 7.12.0 before 7.12.5.| 
 | 20210904T15:47:31Z | CVE-2021-26084 | Confluence OGNL Injection [CVE-2021-26084]. | https://github.com/march0s1as/CVE-2021-26084 | In affected versions of Confluence Server and Data Center, an OGNL injection vulnerability exists that would allow an authenticated user, and in some instances an unauthenticated user, to execute arbitrary code on a Confluence Server or Data Center instance. The vulnerable endpoints can be accessed by a non-administrator user or unauthenticated user if ‘Allow people to sign up to create their account’ is enabled. To check whether this is enabled go to COG > User Management > User Signup Options. The affected versions are before version 6.13.23, from version 6.14.0 before 7.4.11, from version 7.5.0 before 7.11.6, and from version 7.12.0 before 7.12.5.| 
-| 20210904T15:10:08Z | CVE-2021-34646 | CVE-2021-34646 PoC | https://github.com/motikan2010/CVE-2021-34646 | | 
+| 20210904T15:10:08Z | CVE-2021-34646 | CVE-2021-34646 PoC | https://github.com/motikan2010/CVE-2021-34646 | Versions up to, and including, 5.4.3, of the Booster for WooCommerce WordPress plugin are vulnerable to authentication bypass via the process_email_verification function due to a random token generation weakness in the reset_and_mail_activation_link function found in the ~/includes/class-wcj-emails-verification.php file. This allows attackers to impersonate users and trigger an email address verification for arbitrary accounts, including administrative accounts, and automatically be logged in as that user, including any site administrators. This requires the Email Verification module to be active in the plugin and the Login User After Successful Verification setting to be enabled, which it is by default.| 
 | 20210904T15:08:55Z | CVE-2020-0796 | Null | https://github.com/Anonimo501/SMBGhost_CVE-2020-0796_checker | A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests, aka %Windows SMBv3 Client/Server Remote Code Execution Vulnerability%.| 
 | 20210904T13:31:44Z | CVE-2021-38707 | Persistent Cross-Site Scripting (XSS) in ClinicCases 7.3.3  | https://github.com/sudonoodle/CVE-2021-38707 | 未查询到CVE信息| 
 | 20210904T13:29:14Z | CVE-2021-38706 | Blind SQL Injection in ClinicCases 7.3.3 | https://github.com/sudonoodle/CVE-2021-38706 | 未查询到CVE信息| 
 | 20210904T13:22:53Z | CVE-2021-38705 | Cross-Site Request Forgery (CSRF) in ClinicCases 7.3.3 | https://github.com/sudonoodle/CVE-2021-38705 | 未查询到CVE信息| 
-| 20210904T13:13:40Z | CVE-2021-38704 | Reflected Cross-Site Scripting (XSS) in ClinicCases 7.3.3  | https://github.com/sudonoodle/CVE-2021-38704 | | 
+| 20210904T13:13:40Z | CVE-2021-38704 | Reflected Cross-Site Scripting (XSS) in ClinicCases 7.3.3  | https://github.com/sudonoodle/CVE-2021-38704 | 未查询到CVE信息| 
 | 20210904T10:45:20Z | CVE-2020-8515 | Draytek CVE-2020-8515 PoC | https://github.com/darrenmartyn/CVE-2020-8515 | DrayTek Vigor2960 1.3.1_Beta, Vigor3900 1.4.4_Beta, and Vigor300B 1.3.3_Beta, 1.4.2.1_Beta, and 1.4.4_Beta devices allow remote code execution as root (without authentication) via shell metacharacters to the cgi-bin/mainfunction.cgi URI. This issue has been fixed in Vigor3900/2960/300B v1.5.1.| 
 | 20210904T09:27:52Z | CVE-2021-36934 | SeriousSAM Auto Exploiter | https://github.com/websecnl/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
 
@@ -131,6 +131,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210905T00:27:34Z | 32-bit x86 OS capable of running console user application. | https://github.com/scopeInfinity/FuzzyOS | 1 | 0| 
 | 20210905T00:11:47Z | Zuri Chat bot for company shift plugin | https://github.com/HuzaifaImam/fuzzy-dollop | 0 | 0| 
 | 20210905T00:04:23Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 22 | 9| 
 | 20210904T23:54:51Z | Null | https://github.com/trevt15/fuzzy-winner | 0 | 0| 
@@ -140,7 +141,6 @@
 | 20210904T21:44:19Z | ant4g0nist%s blog | https://github.com/ant4g0nist/fuzzing.science | 1 | 0| 
 | 20210904T20:55:43Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6626 | 1355| 
 | 20210904T20:53:44Z | Implementation of a differential fuzzer for Ethereum Virtual Machines | https://github.com/MariusVanDerWijden/FuzzyVM | 35 | 11| 
-| 20210904T20:36:41Z | Web application fuzz testing tool for SWEN-331 | https://github.com/cxs7700/fuzzer | 0 | 0| 
 
 
 
