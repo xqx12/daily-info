@@ -96,7 +96,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210905T12:31:55Z | backdoor virus on python | https://github.com/aaalllexxx/backdoor | 0 | 0| 
+| 20210905T12:33:29Z | backdoor virus on python | https://github.com/aaalllexxx/backdoor | 0 | 0| 
 | 20210905T11:38:57Z | Threat Emulation and Red Teaming Framework, The Hacking Software for normal people. | https://github.com/quantumcore/remote_hacker_probe | 83 | 31| 
 | 20210905T09:59:41Z | A basic PoC leak for CVE-2021-28663 (Internal of the Android kernel backdoor vulnerability) | https://github.com/lntrx/CVE-2021-28663 | 24 | 5| 
 | 20210905T05:08:21Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 95 | 16| 
