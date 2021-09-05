@@ -78,7 +78,7 @@
 | 20210905T12:44:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6628 | 1355| 
 | 20210905T12:43:31Z | GraphQLmap is a scripting engine to interact with a graphql endpoint for pentesting purposes. | https://github.com/swisskyrepo/GraphQLmap | 613 | 115| 
 | 20210905T12:29:19Z | Practice repository for binary exploitation and fuzzing | https://github.com/RickdeJager/binexp-practice | 0 | 0| 
-| 20210905T12:24:46Z | Web Fuzzing Box - Web 模糊测试字典与一些Payloads，主要包含：弱口令暴力破解、目录以及文件枚举、Web漏洞...字典运用于实战案例：https://gh0st.cn/archives/2019-11-11/1 | https://github.com/gh0stkey/Web-Fuzzing-Box | 841 | 176| 
+| 20210905T12:24:46Z | Web Fuzzing Box - Web 模糊测试字典与一些Payloads，主要包含：弱口令暴力破解、目录以及文件枚举、Web漏洞...字典运用于实战案例：https://gh0st.cn/archives/2019-11-11/1 | https://github.com/gh0stkey/Web-Fuzzing-Box | 841 | 177| 
 | 20210905T12:15:17Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 22 | 9| 
 | 20210905T12:01:25Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210905T11:02:50Z | Implementasi Fuzzy Tahani Pada Database MySQL dan Sistem Berbasis Web dengan PHP | https://github.com/hudtakim/SPK-Pariwisata-FuzzyTahani | 0 | 0| 
