@@ -76,7 +76,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210904T09:59:27Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2443 | 362| 
+| 20210904T19:37:36Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2445 | 362| 
 | 20210904T06:45:39Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1881 | 391| 
 
 

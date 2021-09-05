@@ -81,6 +81,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210905T00:01:45Z | A full fledged exploitation framework written in pure python3. | https://github.com/MrSharkSpamBot/GlidingSword | 0 | 0| 
 | 20210904T23:37:29Z | Exploiting Causal Structure for Transportability in Online, Multi-Agent Environments | https://github.com/axelbrowne/ECS4TOMAE | 0 | 0| 
 | 20210904T23:24:27Z | Null | https://github.com/SerumTechnology/Serum-Word-Exploit-Builder-Almost-FUD | 1 | 0| 
 | 20210904T23:20:12Z | tool to automate exploitation of android degubg bridge vulnerability  | https://github.com/DrH3X/Android-debug-bridge- | 4 | 0| 
@@ -90,7 +91,6 @@
 | 20210904T22:43:41Z | CAUTION - Malicious files 💀 | https://github.com/Am0rphous/Malware | 19 | 8| 
 | 20210904T21:32:50Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 3887 | 535| 
 | 20210904T21:09:42Z | Null | https://github.com/a-rey/exploits | 0 | 0| 
-| 20210904T20:56:07Z | Add defenses to common security exploits. | https://github.com/micromichamp/RESTsecure | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -111,7 +111,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210904T09:59:27Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2443 | 362| 
+| 20210904T19:37:36Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2445 | 362| 
 | 20210904T06:45:39Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1881 | 391| 
 | 20210903T17:21:54Z | A tool for generating nonlinear numerical invariants for C and Java programs.  DIG uses dynamic analysis to infer invariants over program execution traces and applies symbolic execution to inferred invariants. | https://github.com/unsat/dig | 8 | 4| 
 | 20210903T14:45:40Z | Symbolica%s open-source symbolic execution engine. | https://github.com/SymbolicaDev/Symbolica | 4 | 1| 
@@ -131,6 +131,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210905T00:02:55Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 22 | 9| 
 | 20210904T23:54:51Z | Null | https://github.com/trevt15/fuzzy-winner | 0 | 0| 
 | 20210904T23:30:00Z | Fuzz tester for the Zydis disassembly library | https://github.com/tremalrik/zydis-fuzzer | 0 | 0| 
 | 20210904T23:16:43Z | code for images for networks slides | https://github.com/jomare1188/fuzzy-octo-fortnight | 0 | 0| 
@@ -140,7 +141,6 @@
 | 20210904T20:53:44Z | Implementation of a differential fuzzer for Ethereum Virtual Machines | https://github.com/MariusVanDerWijden/FuzzyVM | 35 | 11| 
 | 20210904T20:36:41Z | Web application fuzz testing tool for SWEN-331 | https://github.com/cxs7700/fuzzer | 0 | 0| 
 | 20210904T20:09:00Z | A Python 3 REST API written using Flask to serve provided companies data using Elasticsearch. | https://github.com/lethalazo/python-fuzzy-search-api | 1 | 0| 
-| 20210904T19:52:31Z | Emulation based snapshot fuzzer | https://github.com/jaoeul/gingersnap | 0 | 0| 
 
 
 
