@@ -81,7 +81,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210905T12:00:50Z | My notes, exploits and tricks in preparation for taking the OSCP exam. | https://github.com/YanoF/OSCP_Prep | 0 | 0| 
+| 20210905T12:00:53Z | My notes, exploits and tricks in preparation for taking the OSCP exam. | https://github.com/YanoF/OSCP_Prep | 0 | 0| 
 | 20210905T11:46:08Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 3888 | 536| 
 | 20210905T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9999 | 1668| 
 | 20210905T11:14:38Z | Null | https://github.com/SkillartzHD/HomeGuard-CCTV_exploit | 0 | 0| 
@@ -111,6 +111,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210905T11:31:53Z | 👓 Yet another binary vulnerbilities checker. An automated vulnerability scanner for ELF based on symbolic execution. | https://github.com/dev2ero/BinV | 17 | 5| 
+| 20210905T07:25:06Z | Symbolic execution of LLVM IR with an engine written in Rust | https://github.com/PLSysSec/haybale | 326 | 16| 
 | 20210904T19:37:36Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2445 | 362| 
 | 20210904T06:45:39Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1881 | 391| 
 | 20210903T17:21:54Z | A tool for generating nonlinear numerical invariants for C and Java programs.  DIG uses dynamic analysis to infer invariants over program execution traces and applies symbolic execution to inferred invariants. | https://github.com/unsat/dig | 8 | 4| 
@@ -119,7 +121,6 @@
 | 20210902T13:10:29Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 157 | 34| 
 | 20210902T12:54:28Z | Symbolic Execution for WebAssembly | https://github.com/romits800/Vivienne_eval | 1 | 0| 
 | 20210902T05:12:19Z | Symbolic Execution over Falcon IL | https://github.com/falconre/finch | 20 | 0| 
-| 20210901T15:34:29Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 7 | 4| 
 
 
 # big4 on Github 推荐
