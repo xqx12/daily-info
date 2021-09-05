@@ -81,12 +81,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210905T12:02:56Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 16| 
 | 20210905T12:00:53Z | My notes, exploits and tricks in preparation for taking the OSCP exam. | https://github.com/YanoF/OSCP_Prep | 0 | 0| 
 | 20210905T11:46:08Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 3888 | 536| 
 | 20210905T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9999 | 1668| 
 | 20210905T11:14:38Z | Null | https://github.com/SkillartzHD/HomeGuard-CCTV_exploit | 0 | 0| 
 | 20210905T11:10:25Z | 🎻 Modularized exploit generation framework | https://github.com/aesophor/requiem | 5 | 0| 
-| 20210905T11:02:55Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 16| 
 | 20210905T10:18:20Z | I%m looking for a developer who can help me with exploits. Write me on Discord if you are good at coding. Kaliim#8328 | https://github.com/Kaliim/Fortnite-Exploits-Search | 0 | 0| 
 | 20210905T09:39:18Z | Octagon is a fully fledged modular server sided anti exploit designed to detect many exploits reliably without interrupting user experience. | https://github.com/SilentsReplacement/Octagon | 2 | 1| 
 | 20210905T09:21:36Z | Printer Exploitation Toolkit - The tool that made dumpster diving obsolete. | https://github.com/RUB-NDS/PRET | 2804 | 530| 
