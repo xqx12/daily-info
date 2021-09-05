@@ -46,22 +46,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210904T10:59:00Z | CVE-2021-26084 | Confluence Server Webwork OGNL injection | https://github.com/h3v0x/CVE-2021-26084_Confluence | In affected versions of Confluence Server and Data Center, an OGNL injection vulnerability exists that would allow an authenticated user, and in some instances an unauthenticated user, to execute arbitrary code on a Confluence Server or Data Center instance. The vulnerable endpoints can be accessed by a non-administrator user or unauthenticated user if ‘Allow people to sign up to create their account’ is enabled. To check whether this is enabled go to COG > User Management > User Signup Options. The affected versions are before version 6.13.23, from version 6.14.0 before 7.4.11, from version 7.5.0 before 7.11.6, and from version 7.12.0 before 7.12.5.| 
+| 20210904T22:14:48Z | CVE-2021-26084 | Confluence Server Webwork OGNL injection | https://github.com/h3v0x/CVE-2021-26084_Confluence | In affected versions of Confluence Server and Data Center, an OGNL injection vulnerability exists that would allow an authenticated user, and in some instances an unauthenticated user, to execute arbitrary code on a Confluence Server or Data Center instance. The vulnerable endpoints can be accessed by a non-administrator user or unauthenticated user if ‘Allow people to sign up to create their account’ is enabled. To check whether this is enabled go to COG > User Management > User Signup Options. The affected versions are before version 6.13.23, from version 6.14.0 before 7.4.11, from version 7.5.0 before 7.11.6, and from version 7.12.0 before 7.12.5.| 
+| 20210904T15:47:31Z | CVE-2021-26084 | Confluence OGNL Injection [CVE-2021-26084]. | https://github.com/march0s1as/CVE-2021-26084 | In affected versions of Confluence Server and Data Center, an OGNL injection vulnerability exists that would allow an authenticated user, and in some instances an unauthenticated user, to execute arbitrary code on a Confluence Server or Data Center instance. The vulnerable endpoints can be accessed by a non-administrator user or unauthenticated user if ‘Allow people to sign up to create their account’ is enabled. To check whether this is enabled go to COG > User Management > User Signup Options. The affected versions are before version 6.13.23, from version 6.14.0 before 7.4.11, from version 7.5.0 before 7.11.6, and from version 7.12.0 before 7.12.5.| 
+| 20210904T15:10:08Z | CVE-2021-34646 | CVE-2021-34646 PoC | https://github.com/motikan2010/CVE-2021-34646 | Versions up to, and including, 5.4.3, of the Booster for WooCommerce WordPress plugin are vulnerable to authentication bypass via the process_email_verification function due to a random token generation weakness in the reset_and_mail_activation_link function found in the ~/includes/class-wcj-emails-verification.php file. This allows attackers to impersonate users and trigger an email address verification for arbitrary accounts, including administrative accounts, and automatically be logged in as that user, including any site administrators. This requires the Email Verification module to be active in the plugin and the Login User After Successful Verification setting to be enabled, which it is by default.| 
+| 20210904T15:08:55Z | CVE-2020-0796 | Null | https://github.com/Anonimo501/SMBGhost_CVE-2020-0796_checker | A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests, aka %Windows SMBv3 Client/Server Remote Code Execution Vulnerability%.| 
+| 20210904T13:31:44Z | CVE-2021-38707 | Persistent Cross-Site Scripting (XSS) in ClinicCases 7.3.3  | https://github.com/sudonoodle/CVE-2021-38707 | 未查询到CVE信息| 
+| 20210904T13:29:14Z | CVE-2021-38706 | Blind SQL Injection in ClinicCases 7.3.3 | https://github.com/sudonoodle/CVE-2021-38706 | 未查询到CVE信息| 
+| 20210904T13:22:53Z | CVE-2021-38705 | Cross-Site Request Forgery (CSRF) in ClinicCases 7.3.3 | https://github.com/sudonoodle/CVE-2021-38705 | 未查询到CVE信息| 
+| 20210904T13:13:40Z | CVE-2021-38704 | Reflected Cross-Site Scripting (XSS) in ClinicCases 7.3.3  | https://github.com/sudonoodle/CVE-2021-38704 | 未查询到CVE信息| 
 | 20210904T10:45:20Z | CVE-2020-8515 | Draytek CVE-2020-8515 PoC | https://github.com/darrenmartyn/CVE-2020-8515 | DrayTek Vigor2960 1.3.1_Beta, Vigor3900 1.4.4_Beta, and Vigor300B 1.3.3_Beta, 1.4.2.1_Beta, and 1.4.4_Beta devices allow remote code execution as root (without authentication) via shell metacharacters to the cgi-bin/mainfunction.cgi URI. This issue has been fixed in Vigor3900/2960/300B v1.5.1.| 
 | 20210904T09:27:52Z | CVE-2021-36934 | SeriousSAM Auto Exploiter | https://github.com/websecnl/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
-| 20210904T05:00:13Z | CVE-2020-6418 | CVE-2020-6418 제로데이 취약점 | https://github.com/CYB3R-X3eRo0/CVE-2020-6418 | Type confusion in V8 in Google Chrome prior to 80.0.3987.122 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.| 
-| 20210903T22:57:11Z | CVE-2021-1588 | PoC for exploiting CVE-2021-1588 : A vulnerability in the MPLS Operation, Administration, and Maintenance (OAM) feature of Cisco NX-OS Software could allow an unauthenticated, remote attacker to cause a denial of service (DoS) condition on an affected device. This vulnerability is due to improper input validation when an affected device is processing an MPLS echo-request or echo-reply packet. An attacker could exploit this vulnerability by sending malicious MPLS echo-request or echo-reply packets to an interface that is enabled for MPLS forwarding on the affected device. A successful exploit could allow the attacker to cause the MPLS OAM process to crash and restart multiple times, causing the affected device to reload and resulting in a DoS condition. | https://github.com/AlAIAL90/CVE-2021-1588 | A vulnerability in the MPLS Operation, Administration, and Maintenance (OAM) feature of Cisco NX-OS Software could allow an unauthenticated, remote attacker to cause a denial of service (DoS) condition on an affected device. This vulnerability is due to improper input validation when an affected device is processing an MPLS echo-request or echo-reply packet. An attacker could exploit this vulnerability by sending malicious MPLS echo-request or echo-reply packets to an interface that is enabled for MPLS forwarding on the affected device. A successful exploit could allow the attacker to cause the MPLS OAM process to crash and restart multiple times, causing the affected device to reload and resulting in a DoS condition.| 
-| 20210903T22:57:07Z | CVE-2021-1590 | PoC for exploiting CVE-2021-1590 : A vulnerability in the implementation of the system login block-for command for Cisco NX-OS Software could allow an unauthenticated, remote attacker to cause a login process to unexpectedly restart, causing a denial of service (DoS) condition. This vulnerability is due to a logic error in the implementation of the system login block-for command when an attack is detected and acted upon. An attacker could exploit this vulnerability by performing a brute-force login attack on an affected device. A successful exploit could allow the attacker to cause a login process to reload, which could result in a delay during authentication to the affected device. | https://github.com/AlAIAL90/CVE-2021-1590 | A vulnerability in the implementation of the system login block-for command for Cisco NX-OS Software could allow an unauthenticated, remote attacker to cause a login process to unexpectedly restart, causing a denial of service (DoS) condition. This vulnerability is due to a logic error in the implementation of the system login block-for command when an attack is detected and acted upon. An attacker could exploit this vulnerability by performing a brute-force login attack on an affected device. A successful exploit could allow the attacker to cause a login process to reload, which could result in a delay during authentication to the affected device.| 
-| 20210903T22:57:03Z | CVE-2021-1591 | PoC for exploiting CVE-2021-1591 : A vulnerability in the EtherChannel port subscription logic of Cisco Nexus 9500 Series Switches could allow an unauthenticated, remote attacker to bypass access control list (ACL) rules that are configured on an affected device. This vulnerability is due to oversubscription of resources that occurs when applying ACLs to port channel interfaces. An attacker could exploit this vulnerability by attempting to access network resources that are protected by the ACL. A successful exploit could allow the attacker to access network resources that would be protected by the ACL that was applied on the port channel interface. | https://github.com/AlAIAL90/CVE-2021-1591 | A vulnerability in the EtherChannel port subscription logic of Cisco Nexus 9500 Series Switches could allow an unauthenticated, remote attacker to bypass access control list (ACL) rules that are configured on an affected device. This vulnerability is due to oversubscription of resources that occurs when applying ACLs to port channel interfaces. An attacker could exploit this vulnerability by attempting to access network resources that are protected by the ACL. A successful exploit could allow the attacker to access network resources that would be protected by the ACL that was applied on the port channel interface.| 
-| 20210903T22:56:59Z | CVE-2021-1592 | PoC for exploiting CVE-2021-1592 : A vulnerability in the way Cisco UCS Manager software handles SSH sessions could allow an authenticated, remote attacker to cause a denial of service (DoS) condition on an affected device. This vulnerability is due to improper resource management for established SSH sessions. An attacker could exploit this vulnerability by opening a significant number of SSH sessions on an affected device. A successful exploit could allow the attacker to cause a crash and restart of internal Cisco UCS Manager software processes and a temporary loss of access to the Cisco UCS Manager CLI and web UI. Note: The attacker must have valid user credentials to authenticate to the affected device. | https://github.com/AlAIAL90/CVE-2021-1592 | A vulnerability in the way Cisco UCS Manager software handles SSH sessions could allow an authenticated, remote attacker to cause a denial of service (DoS) condition on an affected device. This vulnerability is due to improper resource management for established SSH sessions. An attacker could exploit this vulnerability by opening a significant number of SSH sessions on an affected device. A successful exploit could allow the attacker to cause a crash and restart of internal Cisco UCS Manager software processes and a temporary loss of access to the Cisco UCS Manager CLI and web UI. Note: The attacker must have valid user credentials to authenticate to the affected device.| 
-| 20210903T22:56:53Z | CVE-2021-32967 | PoC for exploiting CVE-2021-32967 : Delta Electronics DIAEnergie Version 1.7.5 and prior may allow an attacker to add a new administrative user without being authenticated or authorized, which may allow the attacker to log in and use the device with administrative privileges. | https://github.com/AlAIAL90/CVE-2021-32967 | Delta Electronics DIAEnergie Version 1.7.5 and prior may allow an attacker to add a new administrative user without being authenticated or authorized, which may allow the attacker to log in and use the device with administrative privileges.| 
-| 20210903T22:56:51Z | CVE-2021-32955 | PoC for exploiting CVE-2021-32955 : Delta Electronics DIAEnergie Version 1.7.5 and prior allows unrestricted file uploads, which may allow an attacker to remotely execute code. | https://github.com/AlAIAL90/CVE-2021-32955 | Delta Electronics DIAEnergie Version 1.7.5 and prior allows unrestricted file uploads, which may allow an attacker to remotely execute code.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210904T08:53:54Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2714 | 69| 
+| 20210904T23:01:08Z | External audio preamp board for the RP2A03 | https://github.com/Gumball2415/squeeki-kleen-Audio-FC | 1 | 0| 
+| 20210904T15:31:00Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2715 | 69| 
 | 20210904T07:54:26Z | Null | https://github.com/kleelab/kleelab.github.io | 0 | 0| 
 | 20210903T18:24:08Z | ⚡ Kleeja Open Source Desktop Application (Windows / Linux / Mac) | https://github.com/Lil-Nickel/Kleeja-da | 1 | 1| 
 | 20210903T13:04:35Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 175 | 19| 
@@ -70,7 +71,6 @@
 | 20210902T22:53:37Z | Null | https://github.com/JaimePSantos/ResearchKlee | 0 | 0| 
 | 20210902T20:32:01Z | Config files for my GitHub profile. | https://github.com/klee48862/klee48862 | 0 | 0| 
 | 20210902T02:58:32Z | Klee | https://github.com/aiskunks/Klee | 1 | 0| 
-| 20210901T15:34:13Z | Web application for running static analysis of rust-based programs | https://github.com/LedgerProject/safepkt | 0 | 1| 
 
 
 # s2e on Github 推荐
@@ -81,31 +81,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210904T13:09:01Z | This repository contains codes of ICCV2021 paper: SO-Pose: Exploiting Self-Occlusion for Direct 6D Pose Estimation | https://github.com/shangbuhuan13/SO-Pose | 12 | 2| 
-| 20210904T13:02:58Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
-| 20210904T13:02:28Z | Network vulnerability exploitation library | https://github.com/sairson/NetworkExpLibrary | 3 | 1| 
-| 20210904T12:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9993 | 1668| 
-| 20210904T11:41:51Z | An open source Roblox Exploit / Script Executor, Join our Discord: https://kokscheats.com/discord | https://github.com/SimcraftLOL/Koks-Roblox-Executor | 1 | 0| 
-| 20210904T10:46:36Z | Local file inclusion discovery and exploitation tool | https://github.com/hansmach1ne/lfimap | 4 | 0| 
-| 20210904T10:43:37Z | This Repository will contain various tools, scripts and commands used in Active Directory Enumeration and Exploitation. | https://github.com/SecTheBit/Active-Directory | 1 | 0| 
-| 20210904T10:07:10Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 5932 | 1402| 
-| 20210904T09:38:55Z | Null | https://github.com/Abdulrahman-Kamel/public_exploits | 0 | 0| 
-| 20210904T09:37:41Z | Null | https://github.com/gggyan07/Insta-Exploit | 0 | 0| 
+| 20210904T23:37:29Z | Exploiting Causal Structure for Transportability in Online, Multi-Agent Environments | https://github.com/axelbrowne/ECS4TOMAE | 0 | 0| 
+| 20210904T23:24:27Z | Null | https://github.com/SerumTechnology/Serum-Word-Exploit-Builder-Almost-FUD | 1 | 0| 
+| 20210904T23:20:12Z | tool to automate exploitation of android degubg bridge vulnerability  | https://github.com/DrH3X/Android-debug-bridge- | 4 | 0| 
+| 20210904T23:09:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9996 | 1668| 
+| 20210904T23:03:00Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 15| 
+| 20210904T22:45:14Z | Advanced dork Search & Mass Exploit Scanner | https://github.com/AlisamTechnology/ATSCAN | 882 | 327| 
+| 20210904T22:43:41Z | CAUTION - Malicious files 💀 | https://github.com/Am0rphous/Malware | 19 | 8| 
+| 20210904T21:32:50Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 3887 | 535| 
+| 20210904T21:09:42Z | Null | https://github.com/a-rey/exploits | 0 | 0| 
+| 20210904T20:56:07Z | Add defenses to common security exploits. | https://github.com/micromichamp/RESTsecure | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210904T12:44:52Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 304 | 57| 
-| 20210904T12:30:30Z | Null | https://github.com/ssllllll/Backdoored-Plugin | 2 | 1| 
-| 20210904T11:11:04Z | A basic PoC leak for CVE-2021-28663 (Internal of the Android kernel backdoor vulnerability) | https://github.com/lntrx/CVE-2021-28663 | 21 | 5| 
-| 20210904T09:15:11Z | Null | https://github.com/rishavmehra/reverse_backdoor | 1 | 0| 
-| 20210904T06:20:37Z | Python network worm that spreads on the local network and gives the attacker control of these machines. | https://github.com/pylyf/NetWorm | 189 | 91| 
-| 20210904T05:58:41Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 95 | 16| 
-| 20210904T05:22:06Z | Code for the paper %RAP: Robustness-Aware Perturbations for Defending against Backdoor Attacks on NLP Models% (EMNLP 2021) | https://github.com/lancopku/RAP | 3 | 0| 
-| 20210904T03:48:32Z | persistant android-backdoor for use with metersploit | https://github.com/derickmachaa/android-persistant.sh | 0 | 2| 
-| 20210903T22:21:14Z | Backdoor in c++ | https://github.com/Terraminator/Backdoor | 0 | 0| 
-| 20210903T16:35:37Z | A practical experiment on supply-chain security using reproducible builds | https://github.com/kpcyrd/i-probably-didnt-backdoor-this | 74 | 2| 
+| 20210904T21:45:08Z | Simples Backdoor Camuflada em um Programa. | https://github.com/KnC0x00/BackdoorSUID | 1 | 0| 
+| 20210904T21:40:05Z | Null | https://github.com/ssllllll/Backdoored-Plugin | 3 | 1| 
+| 20210904T20:38:24Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 95 | 16| 
+| 20210904T19:21:36Z | Threat Emulation and Red Teaming Framework, The Hacking Software for normal people. | https://github.com/quantumcore/remote_hacker_probe | 81 | 30| 
+| 20210904T19:11:02Z | A basic PoC leak for CVE-2021-28663 (Internal of the Android kernel backdoor vulnerability) | https://github.com/lntrx/CVE-2021-28663 | 23 | 5| 
+| 20210904T19:09:52Z | This assignment evokes the role of a hacker. I remotely access a victim%s target machine, maintain access using a backdoor, and crack sensitive passwords in the /etc directory. | https://github.com/melchti/Bash-Scripting-Programming | 0 | 0| 
+| 20210904T18:09:20Z | Golang Windows Backdoor for Educational Purposes. | https://github.com/ber0glu/Golang-PandasBackdoor | 0 | 0| 
+| 20210904T15:53:47Z | Null | https://github.com/Mr-Hax0r/BackDoor_windows_py | 0 | 0| 
+| 20210904T15:08:48Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 226 | 44| 
+| 20210904T13:31:23Z | Null | https://github.com/kaidi-jin/backdoor_samples_detection | 5 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -131,16 +131,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210904T12:47:07Z | Null | https://github.com/eddarmitage/FuzzyTime | 0 | 0| 
-| 20210904T12:38:37Z | under construction | https://github.com/ekiwi/rtl-fuzz-lab | 0 | 0| 
-| 20210904T12:22:40Z | Take the current implementation and turning a microservice architecture | https://github.com/ccesarrod/FuzzyMicrosrvices | 0 | 0| 
-| 20210904T12:17:51Z | FLUFFI (Fully Localized Utility For Fuzzing Instantaneously) - A distributed evolutionary binary fuzzer for pentesters | https://github.com/siemens/fluffi | 87 | 17| 
-| 20210904T12:06:12Z | Read-only mirror of %fuzzysim% from r-forge SVN. | https://github.com/r-forge/fuzzysim | 0 | 0| 
-| 20210904T12:02:34Z | Implementasi Fuzzy Tahani Pada Database MySQL dan Sistem Berbasis Web dengan PHP | https://github.com/hudtakim/SPK-Pariwisata-FuzzyTahani | 0 | 0| 
-| 20210904T11:52:23Z | An add-on filament autochanger for existing 3D printers, in duel-spool configuration. | https://github.com/FuzzyNoodle/Fuzzy-Spooder | 1 | 0| 
-| 20210904T11:50:36Z | Code of fuzzing book | https://github.com/jiniljeil/Fuzzing | 5 | 0| 
-| 20210904T11:30:54Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210904T11:06:17Z | 🔥 Studying The Fuzzing Book : https://www.fuzzingbook.org | https://github.com/KimSeoYe/TheFuzzingBook | 5 | 0| 
+| 20210904T23:54:51Z | Null | https://github.com/trevt15/fuzzy-winner | 0 | 0| 
+| 20210904T23:30:00Z | Fuzz tester for the Zydis disassembly library | https://github.com/tremalrik/zydis-fuzzer | 0 | 0| 
+| 20210904T23:16:43Z | code for images for networks slides | https://github.com/jomare1188/fuzzy-octo-fortnight | 0 | 0| 
+| 20210904T23:07:16Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
+| 20210904T21:44:19Z | ant4g0nist%s blog | https://github.com/ant4g0nist/fuzzing.science | 1 | 0| 
+| 20210904T20:55:43Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6626 | 1355| 
+| 20210904T20:53:44Z | Implementation of a differential fuzzer for Ethereum Virtual Machines | https://github.com/MariusVanDerWijden/FuzzyVM | 35 | 11| 
+| 20210904T20:36:41Z | Web application fuzz testing tool for SWEN-331 | https://github.com/cxs7700/fuzzer | 0 | 0| 
+| 20210904T20:09:00Z | A Python 3 REST API written using Flask to serve provided companies data using Elasticsearch. | https://github.com/lethalazo/python-fuzzy-search-api | 1 | 0| 
+| 20210904T19:52:31Z | Emulation based snapshot fuzzer | https://github.com/jaoeul/gingersnap | 0 | 0| 
 
 
 
