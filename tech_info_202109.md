@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210906T00:57:21Z | CVE-2021-26084 | Confluence Server Webwork OGNL injection | https://github.com/h3v0x/CVE-2021-26084_Confluence | | 
+| 20210906T00:57:21Z | CVE-2021-26084 | Confluence Server Webwork OGNL injection | https://github.com/h3v0x/CVE-2021-26084_Confluence | In affected versions of Confluence Server and Data Center, an OGNL injection vulnerability exists that would allow an authenticated user, and in some instances an unauthenticated user, to execute arbitrary code on a Confluence Server or Data Center instance. The vulnerable endpoints can be accessed by a non-administrator user or unauthenticated user if ‘Allow people to sign up to create their account’ is enabled. To check whether this is enabled go to COG > User Management > User Signup Options. The affected versions are before version 6.13.23, from version 6.14.0 before 7.4.11, from version 7.5.0 before 7.11.6, and from version 7.12.0 before 7.12.5.| 
 | 20210905T16:39:31Z | CVE-2020-13942 | Null | https://github.com/Prodrious/CVE-2020-13942 | It is possible to inject malicious OGNL or MVEL scripts into the /context.json public endpoint. This was partially fixed in 1.5.1 but a new attack vector was found. In Apache Unomi version 1.5.2 scripts are now completely filtered from the input. It is highly recommended to upgrade to the latest available version of the 1.5.x release to fix this problem.| 
 | 20210905T10:26:41Z | CVE-2021-26084 | Confluence server webwork OGNL injection | https://github.com/rootsmadi/CVE-2021-26084 | In affected versions of Confluence Server and Data Center, an OGNL injection vulnerability exists that would allow an authenticated user, and in some instances an unauthenticated user, to execute arbitrary code on a Confluence Server or Data Center instance. The vulnerable endpoints can be accessed by a non-administrator user or unauthenticated user if ‘Allow people to sign up to create their account’ is enabled. To check whether this is enabled go to COG > User Management > User Signup Options. The affected versions are before version 6.13.23, from version 6.14.0 before 7.4.11, from version 7.5.0 before 7.11.6, and from version 7.12.0 before 7.12.5.| 
 | 20210905T08:57:27Z | CVE-2020-0796 | Null | https://github.com/Anonimo501/SMBGhost_CVE-2020-0796_checker | A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests, aka %Windows SMBv3 Client/Server Remote Code Execution Vulnerability%.| 
@@ -132,6 +132,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210906T01:24:31Z | ECF | https://github.com/jojuega/fuzzy-goggles | 0 | 0| 
 | 20210906T01:01:24Z | Null | https://github.com/igorsodre/fuzzy-trader | 0 | 0| 
 | 20210906T00:44:39Z | Null | https://github.com/vjrmsg/FuzzyMatcherVENV | 0 | 0| 
 | 20210906T00:16:09Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
@@ -141,7 +142,6 @@
 | 20210905T22:17:23Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 6 | 0| 
 | 20210905T22:12:57Z | KVM harness for Linux Kernel Fuzzing | https://github.com/SmoothHacker/LateRegistration | 0 | 0| 
 | 20210905T21:18:40Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
-| 20210905T21:01:25Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 299 | 39| 
 
 
 
