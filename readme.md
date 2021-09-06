@@ -95,7 +95,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210906T12:37:31Z | Simple shell scripts to automate the scanning and fuzzing process. | https://github.com/vasanthrv10/Scripts | 0 | 0| 
+| 20210906T12:38:08Z | Simple shell scripts to automate the scanning and fuzzing process. | https://github.com/vasanthrv10/Scripts | 0 | 0| 
 | 20210906T12:25:18Z | Null | https://github.com/JosephBond/fuzzy-rust | 0 | 0| 
 | 20210906T12:22:15Z | A tiny fuzzer. | https://github.com/zhenghaodong/tiny-fuzzer | 0 | 0| 
 | 20210906T11:43:56Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6634 | 1356| 
