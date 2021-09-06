@@ -95,13 +95,13 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210906T12:54:00Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 33424 | 17331| 
 | 20210906T12:53:06Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210906T12:51:32Z | Fuzzy Logic with Unity | https://github.com/mmuqiitf/FuzzyLogicUnity | 0 | 0| 
 | 20210906T12:38:08Z | Simple shell scripts to automate the scanning and fuzzing process. | https://github.com/vasanthrv10/Scripts | 0 | 0| 
 | 20210906T12:25:18Z | Null | https://github.com/JosephBond/fuzzy-rust | 0 | 0| 
 | 20210906T12:22:15Z | A tiny fuzzer. | https://github.com/zhenghaodong/tiny-fuzzer | 0 | 0| 
 | 20210906T11:43:56Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6634 | 1356| 
-| 20210906T11:32:53Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 33423 | 17329| 
 | 20210906T11:03:24Z | Kernel fuzzer inspired by Syzkaller | https://github.com/SunHao-0/healer | 115 | 14| 
 | 20210906T10:54:06Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 534 | 50| 
 | 20210906T10:47:10Z | This is to replicate the Economist%s daily chart of 2021/08/31, Covid-19 patients with severe symptoms suffer long-lasting cognitive impairments | https://github.com/lukorir/caught_by_the_fuzz | 0 | 0| 
