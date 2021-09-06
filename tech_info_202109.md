@@ -132,7 +132,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210906T01:37:19Z | Null | https://github.com/ToolmanInside/xFuzzforReview | 0 | 0| 
+| 20210906T01:45:05Z | Null | https://github.com/ToolmanInside/xFuzzforReview | 0 | 0| 
 | 20210906T01:36:39Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210906T01:24:31Z | ECF | https://github.com/jojuega/fuzzy-goggles | 0 | 0| 
 | 20210906T01:01:24Z | Null | https://github.com/igorsodre/fuzzy-trader | 0 | 0| 
