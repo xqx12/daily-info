@@ -31,7 +31,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210906T08:54:49Z | CVE-2021-26084 | Confluence Server Webwork OGNL injection | https://github.com/h3v0x/CVE-2021-26084_Confluence | In affected versions of Confluence Server and Data Center, an OGNL injection vulnerability exists that would allow an unauthenticated attacker to execute arbitrary code on a Confluence Server or Data Center instance. The affected versions are before version 6.13.23, from version 6.14.0 before 7.4.11, from version 7.5.0 before 7.11.6, and from version 7.12.0 before 7.12.5.| 
+| 20210906T08:54:49Z | CVE-2021-26084 | Confluence Server Webwork OGNL injection | https://github.com/h3v0x/CVE-2021-26084_Confluence | | 
 | 20210906T06:58:34Z | CVE-2021-26084 | asjhdsajdlksavksapfoka | https://github.com/p1gz/CVE-2021-26084-Confluence-OGNL | In affected versions of Confluence Server and Data Center, an OGNL injection vulnerability exists that would allow an authenticated user, and in some instances an unauthenticated user, to execute arbitrary code on a Confluence Server or Data Center instance. The vulnerable endpoints can be accessed by a non-administrator user or unauthenticated user if ‘Allow people to sign up to create their account’ is enabled. To check whether this is enabled go to COG > User Management > User Signup Options. The affected versions are before version 6.13.23, from version 6.14.0 before 7.4.11, from version 7.5.0 before 7.11.6, and from version 7.12.0 before 7.12.5.| 
 | 20210906T06:50:06Z | CVE-2021-3156 | Null | https://github.com/Y3A/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210906T03:58:31Z | CVE-2021-34371 | CVE-2021-34371.jar | https://github.com/zwjjustdoit/CVE-2021-34371.jar | Neo4j through 3.4.18 (with the shell server enabled) exposes an RMI service that arbitrarily deserializes Java objects, e.g., through setSessionVariable. An attacker can abuse this for remote code execution because there are dependencies with exploitable gadget chains.| 
@@ -95,6 +95,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210906T12:22:15Z | A tiny fuzzer. | https://github.com/zhenghaodong/tiny-fuzzer | 0 | 0| 
 | 20210906T12:07:38Z | Simple shell scripts to automate the scanning and fuzzing process. | https://github.com/vasanthrv10/Scripts | 0 | 0| 
 | 20210906T11:43:56Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6634 | 1356| 
 | 20210906T11:32:53Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 33423 | 17329| 
@@ -104,7 +105,6 @@
 | 20210906T10:47:10Z | This is to replicate the Economist%s daily chart of 2021/08/31, Covid-19 patients with severe symptoms suffer long-lasting cognitive impairments | https://github.com/lukorir/caught_by_the_fuzz | 0 | 0| 
 | 20210906T10:18:20Z | Null | https://github.com/creator5112011/fuzzy-sniffle | 0 | 0| 
 | 20210906T09:42:52Z | Fuzzing tool for the 14th institute | https://github.com/Radon10043/fuzzing-tool-14 | 0 | 2| 
-| 20210906T09:33:11Z | White-box fuzzer for Java bytecode | https://github.com/vorpal-research/kex | 7 | 10| 
 
 
 
