@@ -132,6 +132,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210906T00:16:09Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210905T23:41:30Z | Practice repository for binary exploitation and fuzzing | https://github.com/RickdeJager/binexp-practice | 0 | 0| 
 | 20210905T23:18:19Z | Null | https://github.com/Isidro93/fuzzy-memory | 0 | 0| 
 | 20210905T22:51:49Z | A ground-truth fuzzing benchmark suite based on real programs with real bugs. | https://github.com/HexHive/magma | 133 | 39| 
@@ -141,7 +142,6 @@
 | 20210905T21:01:25Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 299 | 39| 
 | 20210905T20:33:07Z | maximum power point tracking of solar module simulation using FuzzyLogic controller | https://github.com/arafatikram/matlab_mppt_fuzzy_logic | 0 | 0| 
 | 20210905T20:31:25Z | Null | https://github.com/DorsaNazari/Fuzzy-controller-with-fuzzy-logic-designer-in-MATLAB | 0 | 0| 
-| 20210905T19:59:50Z | Null | https://github.com/igorsodre/fuzzy-trader | 0 | 0| 
 
 
 
