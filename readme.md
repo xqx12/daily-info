@@ -57,7 +57,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210906T12:43:00Z | Windows Exploit Development Tutorial Series | https://github.com/whichbuffer/WindowsExploitDev | 8 | 1| 
+| 20210906T12:43:59Z | Windows Exploit Development Tutorial Series | https://github.com/whichbuffer/WindowsExploitDev | 8 | 1| 
 | 20210906T12:04:32Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 3934 | 563| 
 | 20210906T12:03:07Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 17| 
 | 20210906T11:46:35Z | This repository contains some resources for ethical hackers penetration tester 😊 This may contain some files, tools, books, and links that need to be used for good purposes only. Do not do any illegal work using these sources. | https://github.com/rng70/Hacking-Resources | 7 | 0| 
