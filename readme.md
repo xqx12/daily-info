@@ -32,9 +32,9 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210906T08:54:49Z | CVE-2021-26084 | Confluence Server Webwork OGNL injection | https://github.com/h3v0x/CVE-2021-26084_Confluence | In affected versions of Confluence Server and Data Center, an OGNL injection vulnerability exists that would allow an unauthenticated attacker to execute arbitrary code on a Confluence Server or Data Center instance. The affected versions are before version 6.13.23, from version 6.14.0 before 7.4.11, from version 7.5.0 before 7.11.6, and from version 7.12.0 before 7.12.5.| 
-| 20210906T06:58:34Z | CVE-2021-26084 | asjhdsajdlksavksapfoka | https://github.com/p1gz/CVE-2021-26084-Confluence-OGNL | In affected versions of Confluence Server and Data Center, an OGNL injection vulnerability exists that would allow an authenticated user, and in some instances an unauthenticated user, to execute arbitrary code on a Confluence Server or Data Center instance. The vulnerable endpoints can be accessed by a non-administrator user or unauthenticated user if ‘Allow people to sign up to create their account’ is enabled. To check whether this is enabled go to COG > User Management > User Signup Options. The affected versions are before version 6.13.23, from version 6.14.0 before 7.4.11, from version 7.5.0 before 7.11.6, and from version 7.12.0 before 7.12.5.| 
+| 20210906T06:58:34Z | CVE-2021-26084 | asjhdsajdlksavksapfoka | https://github.com/p1gz/CVE-2021-26084-Confluence-OGNL | In affected versions of Confluence Server and Data Center, an OGNL injection vulnerability exists that would allow an unauthenticated attacker to execute arbitrary code on a Confluence Server or Data Center instance. The affected versions are before version 6.13.23, from version 6.14.0 before 7.4.11, from version 7.5.0 before 7.11.6, and from version 7.12.0 before 7.12.5.| 
 | 20210906T06:50:06Z | CVE-2021-3156 | Null | https://github.com/Y3A/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210906T03:58:31Z | CVE-2021-34371 | CVE-2021-34371.jar | https://github.com/zwjjustdoit/CVE-2021-34371.jar | Neo4j through 3.4.18 (with the shell server enabled) exposes an RMI service that arbitrarily deserializes Java objects, e.g., through setSessionVariable. An attacker can abuse this for remote code execution because there are dependencies with exploitable gadget chains.| 
+| 20210906T03:58:31Z | CVE-2021-34371 | CVE-2021-34371.jar | https://github.com/zwjjustdoit/CVE-2021-34371.jar | | 
 
 
 # klee on Github 推荐
@@ -84,7 +84,7 @@
 | 20210906T09:10:26Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 157 | 34| 
 | 20210906T03:28:16Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1882 | 391| 
 | 20210906T02:29:21Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 148 | 37| 
-| 20210906T02:14:58Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2446 | 362| 
+| 20210906T02:14:58Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2446 | 363| 
 
 
 # big4 on Github 推荐
