@@ -55,13 +55,13 @@
 | 20210905T08:57:27Z | CVE-2020-0796 | Null | https://github.com/Anonimo501/SMBGhost_CVE-2020-0796_checker | A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests, aka %Windows SMBv3 Client/Server Remote Code Execution Vulnerability%.| 
 | 20210905T05:07:26Z | CVE-2021-26084 | Confluence OGNL Injection [CVE-2021-26084]. | https://github.com/march0s1as/CVE-2021-26084 | In affected versions of Confluence Server and Data Center, an OGNL injection vulnerability exists that would allow an unauthenticated attacker to execute arbitrary code on a Confluence Server or Data Center instance. The affected versions are before version 6.13.23, from version 6.14.0 before 7.4.11, from version 7.5.0 before 7.11.6, and from version 7.12.0 before 7.12.5.| 
 | 20210904T15:10:08Z | CVE-2021-34646 | CVE-2021-34646 PoC | https://github.com/motikan2010/CVE-2021-34646 | Versions up to, and including, 5.4.3, of the Booster for WooCommerce WordPress plugin are vulnerable to authentication bypass via the process_email_verification function due to a random token generation weakness in the reset_and_mail_activation_link function found in the ~/includes/class-wcj-emails-verification.php file. This allows attackers to impersonate users and trigger an email address verification for arbitrary accounts, including administrative accounts, and automatically be logged in as that user, including any site administrators. This requires the Email Verification module to be active in the plugin and the Login User After Successful Verification setting to be enabled, which it is by default.| 
-| 20210904T13:31:44Z | CVE-2021-38707 | Persistent Cross-Site Scripting (XSS) in ClinicCases 7.3.3  | https://github.com/sudonoodle/CVE-2021-38707 | | 
+| 20210904T13:31:44Z | CVE-2021-38707 | Persistent Cross-Site Scripting (XSS) in ClinicCases 7.3.3  | https://github.com/sudonoodle/CVE-2021-38707 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210906T12:11:40Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2727 | 71| 
+| 20210906T12:38:56Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2728 | 71| 
 | 20210906T11:51:17Z | Null | https://github.com/Hidayatilman/KleeBOT | 1 | 0| 
 | 20210906T11:41:15Z | Personal Blog | https://github.com/klee1611/klee1611.github.io | 0 | 0| 
 | 20210906T09:41:40Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 178 | 19| 
