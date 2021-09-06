@@ -88,12 +88,12 @@
 | 20210905T23:18:19Z | Null | https://github.com/Isidro93/fuzzy-memory | 0 | 0| 
 | 20210905T22:51:49Z | A ground-truth fuzzing benchmark suite based on real programs with real bugs. | https://github.com/HexHive/magma | 133 | 39| 
 | 20210905T22:17:23Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 6 | 0| 
-| 20210905T22:12:57Z | KVM harness for Linux Kernel Fuzzing | https://github.com/SmoothHacker/LateRegistration | 0 | 0| 
 | 20210905T21:18:40Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
 | 20210905T21:01:25Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 299 | 39| 
 | 20210905T20:33:07Z | maximum power point tracking of solar module simulation using FuzzyLogic controller | https://github.com/arafatikram/matlab_mppt_fuzzy_logic | 0 | 0| 
 | 20210905T20:31:25Z | Null | https://github.com/DorsaNazari/Fuzzy-controller-with-fuzzy-logic-designer-in-MATLAB | 0 | 0| 
 | 20210905T19:51:50Z | Using this python script to genrate wordlist for web site API fuzzing.  | https://github.com/vishal-vishal/web-app-wordlist-generator | 0 | 0| 
+| 20210905T19:35:47Z | Null | https://github.com/Sportiello/fuzzy-octo-invention | 0 | 0| 
 
 
 
