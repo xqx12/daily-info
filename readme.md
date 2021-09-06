@@ -95,6 +95,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210906T12:25:18Z | Null | https://github.com/JosephBond/fuzzy-rust | 0 | 0| 
 | 20210906T12:22:15Z | A tiny fuzzer. | https://github.com/zhenghaodong/tiny-fuzzer | 0 | 0| 
 | 20210906T12:07:38Z | Simple shell scripts to automate the scanning and fuzzing process. | https://github.com/vasanthrv10/Scripts | 0 | 0| 
 | 20210906T11:43:56Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6634 | 1356| 
@@ -104,7 +105,6 @@
 | 20210906T10:54:06Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 534 | 50| 
 | 20210906T10:47:10Z | This is to replicate the Economist%s daily chart of 2021/08/31, Covid-19 patients with severe symptoms suffer long-lasting cognitive impairments | https://github.com/lukorir/caught_by_the_fuzz | 0 | 0| 
 | 20210906T10:18:20Z | Null | https://github.com/creator5112011/fuzzy-sniffle | 0 | 0| 
-| 20210906T09:42:52Z | Fuzzing tool for the 14th institute | https://github.com/Radon10043/fuzzing-tool-14 | 0 | 2| 
 
 
 
