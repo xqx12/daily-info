@@ -83,12 +83,12 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210907T12:38:04Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 946 | 159| 
 | 20210907T12:32:47Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210907T12:16:43Z | My first PHP application  | https://github.com/haricoder/fuzzy-telegram | 0 | 0| 
 | 20210907T11:59:57Z | SSL and TLS protocol test suite and fuzzer | https://github.com/tlsfuzzer/tlsfuzzer | 393 | 89| 
 | 20210907T11:44:39Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6634 | 1356| 
 | 20210907T11:30:53Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210907T11:29:49Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 945 | 159| 
 | 20210907T10:42:29Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
 | 20210907T10:23:50Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210907T10:18:10Z | JSON testing | https://github.com/mexer/fuzzy-eureka | 0 | 1| 
