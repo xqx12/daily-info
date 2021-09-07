@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210907T12:04:09Z | cve-2021-26084 | A quick and dirty PoC of cve-2010-26084 as none of the existing ones worked for me. | https://github.com/GlennPegden2/cve-2021-26084-confluence | 未查询到CVE信息| 
-| 20210907T11:48:46Z | CVE-2021-26084 | Atlassian Confluence CVE-2021-26084  one-liner mass checker | https://github.com/1ZRR4H/CVE-2021-26084 | 未查询到CVE信息| 
-| 20210907T10:25:50Z | CVE-2021-26084 | Atlassian Confluence Pre-Auth RCE | https://github.com/Udyz/CVE-2021-26084 | 未查询到CVE信息| 
-| 20210907T10:10:25Z | CVE-2021-26084 | Confluence Server Webwork OGNL injection | https://github.com/h3v0x/CVE-2021-26084_Confluence | 未查询到CVE信息| 
+| 20210907T12:04:09Z | cve-2021-26084 | A quick and dirty PoC of cve-2010-26084 as none of the existing ones worked for me. | https://github.com/GlennPegden2/cve-2021-26084-confluence | In affected versions of Confluence Server and Data Center, an OGNL injection vulnerability exists that would allow an unauthenticated attacker to execute arbitrary code on a Confluence Server or Data Center instance. The affected versions are before version 6.13.23, from version 6.14.0 before 7.4.11, from version 7.5.0 before 7.11.6, and from version 7.12.0 before 7.12.5.| 
+| 20210907T11:48:46Z | CVE-2021-26084 | Atlassian Confluence CVE-2021-26084  one-liner mass checker | https://github.com/1ZRR4H/CVE-2021-26084 | In affected versions of Confluence Server and Data Center, an OGNL injection vulnerability exists that would allow an unauthenticated attacker to execute arbitrary code on a Confluence Server or Data Center instance. The affected versions are before version 6.13.23, from version 6.14.0 before 7.4.11, from version 7.5.0 before 7.11.6, and from version 7.12.0 before 7.12.5.| 
+| 20210907T10:25:50Z | CVE-2021-26084 | Atlassian Confluence Pre-Auth RCE | https://github.com/Udyz/CVE-2021-26084 | In affected versions of Confluence Server and Data Center, an OGNL injection vulnerability exists that would allow an unauthenticated attacker to execute arbitrary code on a Confluence Server or Data Center instance. The affected versions are before version 6.13.23, from version 6.14.0 before 7.4.11, from version 7.5.0 before 7.11.6, and from version 7.12.0 before 7.12.5.| 
+| 20210907T10:10:25Z | CVE-2021-26084 | Confluence Server Webwork OGNL injection | https://github.com/h3v0x/CVE-2021-26084_Confluence | In affected versions of Confluence Server and Data Center, an OGNL injection vulnerability exists that would allow an unauthenticated attacker to execute arbitrary code on a Confluence Server or Data Center instance. The affected versions are before version 6.13.23, from version 6.14.0 before 7.4.11, from version 7.5.0 before 7.11.6, and from version 7.12.0 before 7.12.5.| 
 | 20210907T06:59:43Z | 未知编号 | Null | https://github.com/artsking/sqlite-3.22.0_CVE-2019-20218_withPatch | 未查询到CVE信息| 
 | 20210907T03:36:33Z | CVE-2021-3156 | Null | https://github.com/Y3A/CVE-2021-3156 | | 
-| 20210907T02:12:35Z | CVE-2021-34371 | CVE-2021-34371.jar | https://github.com/zwjjustdoit/CVE-2021-34371.jar | 未查询到CVE信息| 
+| 20210907T02:12:35Z | CVE-2021-34371 | CVE-2021-34371.jar | https://github.com/zwjjustdoit/CVE-2021-34371.jar | Neo4j through 3.4.18 (with the shell server enabled) exposes an RMI service that arbitrarily deserializes Java objects, e.g., through setSessionVariable. An attacker can abuse this for remote code execution because there are dependencies with exploitable gadget chains.| 
 | 20210906T15:05:20Z | CVE-2020-15368 | How to exploit a vulnerable windows driver. Exploit for AsrDrv104.sys | https://github.com/stong/CVE-2020-15368 | 未查询到CVE信息| 
-| 20210906T06:58:34Z | CVE-2021-26084 | asjhdsajdlksavksapfoka | https://github.com/p1gz/CVE-2021-26084-Confluence-OGNL | 未查询到CVE信息| 
-| 20210905T16:39:31Z | CVE-2020-13942 | Null | https://github.com/Prodrious/CVE-2020-13942 | 未查询到CVE信息| 
+| 20210906T06:58:34Z | CVE-2021-26084 | asjhdsajdlksavksapfoka | https://github.com/p1gz/CVE-2021-26084-Confluence-OGNL | In affected versions of Confluence Server and Data Center, an OGNL injection vulnerability exists that would allow an unauthenticated attacker to execute arbitrary code on a Confluence Server or Data Center instance. The affected versions are before version 6.13.23, from version 6.14.0 before 7.4.11, from version 7.5.0 before 7.11.6, and from version 7.12.0 before 7.12.5.| 
+| 20210905T16:39:31Z | CVE-2020-13942 | Null | https://github.com/Prodrious/CVE-2020-13942 | It is possible to inject malicious OGNL or MVEL scripts into the /context.json public endpoint. This was partially fixed in 1.5.1 but a new attack vector was found. In Apache Unomi version 1.5.2 scripts are now completely filtered from the input. It is highly recommended to upgrade to the latest available version of the 1.5.x release to fix this problem.| 
 
 
 # klee on Github 推荐
@@ -83,11 +83,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210907T12:05:43Z | Binary Exploitation Challenges Solving and a lot of Binaries Exploitation Challenge i came across through out time | https://github.com/k0rup710n/BinaryExploitation | 0 | 0| 
 | 20210907T12:03:05Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 17| 
 | 20210907T11:56:01Z | Find exposed API keys based on RegEx and get exploitation methods for some of keys that are found | https://github.com/sdushantha/dora | 1 | 0| 
 | 20210907T11:52:33Z | Null | https://github.com/yogeshshe1ke/DeepExploit | 0 | 0| 
 | 20210907T11:44:59Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 3892 | 536| 
-| 20210907T11:44:35Z | Binary Exploitation Challenges Solving and a lot of Binaries Exploitation Challenge i came across through out time | https://github.com/k0rup710n/BinaryExploitation | 0 | 0| 
 | 20210907T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10007 | 1672| 
 | 20210907T11:31:39Z | A console tool developed using Python to calculate the Content-Length of a given Request Body. Perfect for bug bounty hunting. Especially for exploiting HTTP REQUEST SMUGGLING (specifically CL-TE server chain).  Now let this tool calculate the Content-Length and save a lot of your valuable time.  | https://github.com/CYBERDEVILZ/Content-Length-Calculator | 0 | 0| 
 | 20210907T11:16:23Z | Null | https://github.com/windows-exploits/windows-exploits.github.io | 0 | 0| 
