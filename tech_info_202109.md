@@ -134,9 +134,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210907T00:18:04Z | A Modular Open-Source Hardware Fuzzing Framework | https://github.com/ekiwi/rtl-fuzz-lab | 1 | 0| 
 | 20210906T23:43:21Z | Code of fuzzing book | https://github.com/jiniljeil/Fuzzing | 5 | 0| 
 | 20210906T23:32:48Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210906T22:51:58Z | A Modular Open-Source Hardware Fuzzing Framework | https://github.com/ekiwi/rtl-fuzz-lab | 1 | 0| 
 | 20210906T22:40:09Z | Config files for my GitHub profile. | https://github.com/fuzzemann2607/fuzzemann2607 | 0 | 0| 
 | 20210906T22:14:45Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2327 | 468| 
 | 20210906T22:03:40Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 534 | 50| 
