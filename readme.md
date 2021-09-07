@@ -29,9 +29,9 @@
 | 20210907T11:48:46Z | CVE-2021-26084 | Atlassian Confluence CVE-2021-26084  one-liner mass checker | https://github.com/1ZRR4H/CVE-2021-26084 | In affected versions of Confluence Server and Data Center, an OGNL injection vulnerability exists that would allow an unauthenticated attacker to execute arbitrary code on a Confluence Server or Data Center instance. The affected versions are before version 6.13.23, from version 6.14.0 before 7.4.11, from version 7.5.0 before 7.11.6, and from version 7.12.0 before 7.12.5.| 
 | 20210907T10:25:50Z | CVE-2021-26084 | Atlassian Confluence Pre-Auth RCE | https://github.com/Udyz/CVE-2021-26084 | In affected versions of Confluence Server and Data Center, an OGNL injection vulnerability exists that would allow an unauthenticated attacker to execute arbitrary code on a Confluence Server or Data Center instance. The affected versions are before version 6.13.23, from version 6.14.0 before 7.4.11, from version 7.5.0 before 7.11.6, and from version 7.12.0 before 7.12.5.| 
 | 20210907T10:10:25Z | CVE-2021-26084 | Confluence Server Webwork OGNL injection | https://github.com/h3v0x/CVE-2021-26084_Confluence | In affected versions of Confluence Server and Data Center, an OGNL injection vulnerability exists that would allow an unauthenticated attacker to execute arbitrary code on a Confluence Server or Data Center instance. The affected versions are before version 6.13.23, from version 6.14.0 before 7.4.11, from version 7.5.0 before 7.11.6, and from version 7.12.0 before 7.12.5.| 
-| 20210907T06:59:43Z | 未知编号 | Null | https://github.com/artsking/sqlite-3.22.0_CVE-2019-20218_withPatch | 未查询到CVE信息| 
+| 20210907T06:59:43Z | 未知编号 | Null | https://github.com/artsking/sqlite-3.22.0_CVE-2019-20218_withPatch | | 
 | 20210907T03:36:33Z | CVE-2021-3156 | Null | https://github.com/Y3A/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210907T02:12:35Z | CVE-2021-34371 | CVE-2021-34371.jar | https://github.com/zwjjustdoit/CVE-2021-34371.jar | Neo4j through 3.4.18 (with the shell server enabled) exposes an RMI service that arbitrarily deserializes Java objects, e.g., through setSessionVariable. An attacker can abuse this for remote code execution because there are dependencies with exploitable gadget chains.| 
+| 20210907T02:12:35Z | CVE-2021-34371 | CVE-2021-34371.jar | https://github.com/zwjjustdoit/CVE-2021-34371.jar | | 
 
 
 # klee on Github 推荐
@@ -48,7 +48,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210907T12:27:44Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10008 | 1672| 
+| 20210907T12:56:37Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10008 | 1672| 
+| 20210907T12:52:36Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 22 | 14| 
 | 20210907T12:27:24Z | Null | https://github.com/windows-exploits/windows-exploits.github.io | 0 | 0| 
 | 20210907T12:23:04Z | A vulnerable machine made for CTF. In this vulnerable machine Dirty COW vulnerability is used. Dirty COW vulnerability is a type of privilege escalation exploit, which essentially means that it can be used to gain root-user access on any Linux-based system. | https://github.com/risacker/Vulnerable_Machine | 0 | 0| 
 | 20210907T12:05:43Z | Binary Exploitation Challenges Solving and a lot of Binaries Exploitation Challenge i came across through out time | https://github.com/k0rup710n/BinaryExploitation | 0 | 0| 
@@ -57,7 +58,6 @@
 | 20210907T11:52:33Z | Null | https://github.com/yogeshshe1ke/DeepExploit | 0 | 0| 
 | 20210907T11:44:59Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 3892 | 536| 
 | 20210907T11:31:39Z | A console tool developed using Python to calculate the Content-Length of a given Request Body. Perfect for bug bounty hunting. Especially for exploiting HTTP REQUEST SMUGGLING (specifically CL-TE server chain).  Now let this tool calculate the Content-Length and save a lot of your valuable time.  | https://github.com/CYBERDEVILZ/Content-Length-Calculator | 0 | 0| 
-| 20210907T10:57:27Z | Tool for enumerating and exploiting misconfigurations in MS SQL Server | https://github.com/zodi4cx/SQLPwner | 0 | 0| 
 
 
 # backdoor on Github 推荐
