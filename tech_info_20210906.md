@@ -61,7 +61,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20210906T23:02:14Z | Cringe Hub a roblox exploit only for synapse x | https://github.com/32bitmeterpreterwastaken/LucidHub | 0 | 0| 
-| 20210906T23:01:40Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 17| 
 | 20210906T22:26:19Z | exploit-diffDir | https://github.com/audioscavenger/exploit-diffDir | 0 | 0| 
 | 20210906T22:25:05Z | Null | https://github.com/zYan666/Demon-Exploit | 0 | 0| 
 | 20210906T22:18:20Z | Null | https://github.com/ssrwtn2/Exploit | 0 | 0| 
@@ -70,6 +69,7 @@
 | 20210906T20:38:29Z | Exploiting Causal Structure for Transportability in Online, Multi-Agent Environments | https://github.com/axelbrowne/ECS4TOMAE | 0 | 0| 
 | 20210906T20:35:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10006 | 1671| 
 | 20210906T19:50:38Z | Un simple portefeuille qui vous laissera exploiter le STI2D a votre guise. | https://github.com/sti2d-company/wallet | 0 | 1| 
+| 20210906T19:31:10Z | One Click root Exploit for Unobtainium Machine [HackTheBox] | https://github.com/Rajchowdhury420/Unobtainium-HTB-Exploit | 1 | 0| 
 
 
 # backdoor on Github 推荐
