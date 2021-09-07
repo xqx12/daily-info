@@ -29,8 +29,8 @@
 | 20210907T11:48:46Z | CVE-2021-26084 | Atlassian Confluence CVE-2021-26084  one-liner mass checker | https://github.com/1ZRR4H/CVE-2021-26084 | In affected versions of Confluence Server and Data Center, an OGNL injection vulnerability exists that would allow an unauthenticated attacker to execute arbitrary code on a Confluence Server or Data Center instance. The affected versions are before version 6.13.23, from version 6.14.0 before 7.4.11, from version 7.5.0 before 7.11.6, and from version 7.12.0 before 7.12.5.| 
 | 20210907T10:25:50Z | CVE-2021-26084 | Atlassian Confluence Pre-Auth RCE | https://github.com/Udyz/CVE-2021-26084 | In affected versions of Confluence Server and Data Center, an OGNL injection vulnerability exists that would allow an unauthenticated attacker to execute arbitrary code on a Confluence Server or Data Center instance. The affected versions are before version 6.13.23, from version 6.14.0 before 7.4.11, from version 7.5.0 before 7.11.6, and from version 7.12.0 before 7.12.5.| 
 | 20210907T10:10:25Z | CVE-2021-26084 | Confluence Server Webwork OGNL injection | https://github.com/h3v0x/CVE-2021-26084_Confluence | In affected versions of Confluence Server and Data Center, an OGNL injection vulnerability exists that would allow an unauthenticated attacker to execute arbitrary code on a Confluence Server or Data Center instance. The affected versions are before version 6.13.23, from version 6.14.0 before 7.4.11, from version 7.5.0 before 7.11.6, and from version 7.12.0 before 7.12.5.| 
-| 20210907T06:59:43Z | 未知编号 | Null | https://github.com/artsking/sqlite-3.22.0_CVE-2019-20218_withPatch | 未查询到CVE信息| 
-| 20210907T03:36:33Z | CVE-2021-3156 | Null | https://github.com/Y3A/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210907T06:59:43Z | 未知编号 | Null | https://github.com/artsking/sqlite-3.22.0_CVE-2019-20218_withPatch | | 
+| 20210907T03:36:33Z | CVE-2021-3156 | Null | https://github.com/Y3A/CVE-2021-3156 | | 
 | 20210907T02:12:35Z | CVE-2021-34371 | CVE-2021-34371.jar | https://github.com/zwjjustdoit/CVE-2021-34371.jar | Neo4j through 3.4.18 (with the shell server enabled) exposes an RMI service that arbitrarily deserializes Java objects, e.g., through setSessionVariable. An attacker can abuse this for remote code execution because there are dependencies with exploitable gadget chains.| 
 
 
@@ -84,6 +84,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210907T12:56:59Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2387 | 139| 
 | 20210907T12:50:31Z | Here you%ll find some of my Fuzzy Logic college stuff | https://github.com/Marceeaax/FuzzyLogic | 0 | 0| 
 | 20210907T12:38:04Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 946 | 159| 
 | 20210907T12:32:47Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
@@ -93,7 +94,6 @@
 | 20210907T11:30:53Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210907T10:42:29Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
 | 20210907T10:23:50Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
-| 20210907T10:18:10Z | JSON testing | https://github.com/mexer/fuzzy-eureka | 0 | 1| 
 
 
 
