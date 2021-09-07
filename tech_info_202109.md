@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210907T12:17:51Z | cve-2021-26084 | A quick and dirty PoC of cve-2010-26084 as none of the existing ones worked for me. | https://github.com/GlennPegden2/cve-2021-26084-confluence | | 
+| 20210907T12:17:51Z | cve-2021-26084 | A quick and dirty PoC of cve-2010-26084 as none of the existing ones worked for me. | https://github.com/GlennPegden2/cve-2021-26084-confluence | In affected versions of Confluence Server and Data Center, an OGNL injection vulnerability exists that would allow an unauthenticated attacker to execute arbitrary code on a Confluence Server or Data Center instance. The affected versions are before version 6.13.23, from version 6.14.0 before 7.4.11, from version 7.5.0 before 7.11.6, and from version 7.12.0 before 7.12.5.| 
 | 20210907T11:48:46Z | CVE-2021-26084 | Atlassian Confluence CVE-2021-26084  one-liner mass checker | https://github.com/1ZRR4H/CVE-2021-26084 | In affected versions of Confluence Server and Data Center, an OGNL injection vulnerability exists that would allow an unauthenticated attacker to execute arbitrary code on a Confluence Server or Data Center instance. The affected versions are before version 6.13.23, from version 6.14.0 before 7.4.11, from version 7.5.0 before 7.11.6, and from version 7.12.0 before 7.12.5.| 
 | 20210907T10:25:50Z | CVE-2021-26084 | Atlassian Confluence Pre-Auth RCE | https://github.com/Udyz/CVE-2021-26084 | In affected versions of Confluence Server and Data Center, an OGNL injection vulnerability exists that would allow an unauthenticated attacker to execute arbitrary code on a Confluence Server or Data Center instance. The affected versions are before version 6.13.23, from version 6.14.0 before 7.4.11, from version 7.5.0 before 7.11.6, and from version 7.12.0 before 7.12.5.| 
 | 20210907T10:10:25Z | CVE-2021-26084 | Confluence Server Webwork OGNL injection | https://github.com/h3v0x/CVE-2021-26084_Confluence | In affected versions of Confluence Server and Data Center, an OGNL injection vulnerability exists that would allow an unauthenticated attacker to execute arbitrary code on a Confluence Server or Data Center instance. The affected versions are before version 6.13.23, from version 6.14.0 before 7.4.11, from version 7.5.0 before 7.11.6, and from version 7.12.0 before 7.12.5.| 
@@ -134,6 +134,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210907T12:16:43Z | My first PHP application  | https://github.com/haricoder/fuzzy-telegram | 0 | 0| 
 | 20210907T11:59:57Z | SSL and TLS protocol test suite and fuzzer | https://github.com/tlsfuzzer/tlsfuzzer | 393 | 89| 
 | 20210907T11:44:39Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6634 | 1356| 
 | 20210907T11:30:53Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
@@ -143,7 +144,6 @@
 | 20210907T10:18:10Z | JSON testing | https://github.com/mexer/fuzzy-eureka | 0 | 1| 
 | 20210907T09:23:07Z | A small decision making system, that uses Fuzzy logic. | https://github.com/algisxD/FuzzyDecisionSystem | 0 | 0| 
 | 20210907T08:40:58Z | A Rust compiler fuzzer | https://github.com/jmanchuck/rustsmith | 0 | 0| 
-| 20210907T08:39:01Z | Implementasi Fuzzy Tahani Pada Database MySQL dan Sistem Berbasis Web dengan PHP | https://github.com/hudtakim/SPK-Wisata-Fuzzy | 1 | 0| 
 
 
 
