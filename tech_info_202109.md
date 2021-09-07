@@ -83,7 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210907T00:50:52Z | Razor installer elevation of privilege trigger + automation with Seeeduino XIAO | https://github.com/synap5e/razor-eop-XIAO | 0 | 0| 
+| 20210907T00:55:11Z | Razor installer elevation of privilege trigger + automation with Seeeduino XIAO | https://github.com/synap5e/razor-eop-XIAO | 0 | 0| 
 | 20210907T00:03:09Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 17| 
 | 20210906T23:02:14Z | Cringe Hub a roblox exploit only for synapse x | https://github.com/32bitmeterpreterwastaken/LucidHub | 0 | 0| 
 | 20210906T22:26:19Z | exploit-diffDir | https://github.com/audioscavenger/exploit-diffDir | 0 | 0| 
