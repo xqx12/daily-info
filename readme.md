@@ -48,16 +48,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210907T12:27:44Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10008 | 1672| 
+| 20210907T12:27:24Z | Null | https://github.com/windows-exploits/windows-exploits.github.io | 0 | 0| 
+| 20210907T12:23:04Z | A vulnerable machine made for CTF. In this vulnerable machine Dirty COW vulnerability is used. Dirty COW vulnerability is a type of privilege escalation exploit, which essentially means that it can be used to gain root-user access on any Linux-based system. | https://github.com/risacker/Vulnerable_Machine | 0 | 0| 
 | 20210907T12:05:43Z | Binary Exploitation Challenges Solving and a lot of Binaries Exploitation Challenge i came across through out time | https://github.com/k0rup710n/BinaryExploitation | 0 | 0| 
 | 20210907T12:03:05Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 17| 
 | 20210907T11:56:01Z | Find exposed API keys based on RegEx and get exploitation methods for some of keys that are found | https://github.com/sdushantha/dora | 1 | 0| 
 | 20210907T11:52:33Z | Null | https://github.com/yogeshshe1ke/DeepExploit | 0 | 0| 
 | 20210907T11:44:59Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 3892 | 536| 
-| 20210907T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10007 | 1672| 
 | 20210907T11:31:39Z | A console tool developed using Python to calculate the Content-Length of a given Request Body. Perfect for bug bounty hunting. Especially for exploiting HTTP REQUEST SMUGGLING (specifically CL-TE server chain).  Now let this tool calculate the Content-Length and save a lot of your valuable time.  | https://github.com/CYBERDEVILZ/Content-Length-Calculator | 0 | 0| 
-| 20210907T11:16:23Z | Null | https://github.com/windows-exploits/windows-exploits.github.io | 0 | 0| 
 | 20210907T10:57:27Z | Tool for enumerating and exploiting misconfigurations in MS SQL Server | https://github.com/zodi4cx/SQLPwner | 0 | 0| 
-| 20210907T10:20:18Z | Linux kernel CVE exploit analysis report and relative debug environment. You don%t need to compile Linux kernel and configure your environment anymore.  | https://github.com/bsauce/kernel-exploit-factory | 103 | 18| 
 
 
 # backdoor on Github 推荐
