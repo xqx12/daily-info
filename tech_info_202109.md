@@ -134,6 +134,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210907T00:56:13Z | Null | https://github.com/fdegiovanni/easy-fuzzy-logic | 0 | 0| 
 | 20210907T00:46:25Z | Fuzzing tool for the 14th institute | https://github.com/Radon10043/fuzzing-tool-14 | 0 | 2| 
 | 20210907T00:18:04Z | A Modular Open-Source Hardware Fuzzing Framework | https://github.com/ekiwi/rtl-fuzz-lab | 1 | 0| 
 | 20210906T23:43:21Z | Code of fuzzing book | https://github.com/jiniljeil/Fuzzing | 5 | 0| 
@@ -143,7 +144,6 @@
 | 20210906T22:03:40Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 534 | 50| 
 | 20210906T21:47:07Z | Null | https://github.com/mcbunnylau/fuzzy-giggle | 0 | 0| 
 | 20210906T21:36:04Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6634 | 1356| 
-| 20210906T21:12:13Z | Fuzzy Extractors in Java | https://github.com/ThexXTURBOXx/FuzzyExtractors | 1 | 0| 
 
 
 
