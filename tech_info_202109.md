@@ -83,6 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210907T01:57:15Z | Desenvolvendo exploits x86 para linux | https://github.com/git-cardoso/Desenvolvimento_exploits_x86 | 0 | 0| 
 | 20210907T01:45:48Z | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | 1503 | 515| 
 | 20210907T01:15:29Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10005 | 1671| 
 | 20210907T01:02:59Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 29 | 17| 
@@ -92,7 +93,6 @@
 | 20210906T22:25:05Z | Null | https://github.com/zYan666/Demon-Exploit | 0 | 0| 
 | 20210906T22:18:20Z | Null | https://github.com/ssrwtn2/Exploit | 0 | 0| 
 | 20210906T22:14:56Z | Linux/UX ultra complete profile | https://github.com/audioscavenger/exploit | 0 | 1| 
-| 20210906T21:40:20Z | exploits and proof-of-concept vulnerability demonstration files from the team at Hacker House | https://github.com/hackerhouse-opensource/exploits | 275 | 78| 
 
 
 # backdoor on Github 推荐
