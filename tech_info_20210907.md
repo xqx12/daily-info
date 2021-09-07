@@ -63,6 +63,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210907T12:50:06Z | Code and data of the EMNLP 2021 paper %Mind the Style of Text! Adversarial and Backdoor Attacks Based on Text Style Transfer% | https://github.com/thunlp/StyleAttack | 0 | 0| 
 | 20210907T12:44:18Z | Unofficial pytorch implementation of RobNet(Defense-Resistant Backdoor Attacks on DNN) | https://github.com/dhkim2810/RobNet | 0 | 0| 
 | 20210907T10:26:08Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 306 | 57| 
 | 20210907T06:49:58Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 6546 | 1655| 
@@ -83,7 +84,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210907T12:45:11Z | Here you%ll find some of my Fuzzy Logic exercises  | https://github.com/Marceeaax/FuzzyLogic | 0 | 0| 
+| 20210907T12:50:31Z | Here you%ll find some of my Fuzzy Logic college stuff | https://github.com/Marceeaax/FuzzyLogic | 0 | 0| 
 | 20210907T12:38:04Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 946 | 159| 
 | 20210907T12:32:47Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210907T12:16:43Z | My first PHP application  | https://github.com/haricoder/fuzzy-telegram | 0 | 0| 
