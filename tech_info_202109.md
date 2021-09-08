@@ -134,7 +134,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210908T01:27:08Z | Null | https://github.com/rafael-olmedo/fuzzy-search | 0 | 0| 
+| 20210908T01:39:13Z | Miniproject to cross data | https://github.com/rafael-olmedo/fuzzy-search | 0 | 0| 
 | 20210908T01:03:54Z | Versi dinamis dari spk fuzzy sebelumnya, kini support setting jumlah sub kriteria | https://github.com/hudtakim/spk-fuzzy-dynamic | 1 | 0| 
 | 20210908T00:53:22Z | Null | https://github.com/vjrmsg/FuzzyMatcherVENV | 0 | 0| 
 | 20210908T00:51:41Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
