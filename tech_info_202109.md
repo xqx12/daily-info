@@ -83,7 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210908T12:49:10Z | Exploits Scripts and other tools that are useful during Penetration-Testing or Red Team engagement  | https://github.com/BlackSnufkin/PT-ToolKit | 0 | 0| 
+| 20210908T12:50:48Z | Exploits Scripts and other tools that are useful during Penetration-Testing or Red Team engagement  | https://github.com/BlackSnufkin/PT-ToolKit | 0 | 0| 
 | 20210908T12:12:59Z | C# based tool which automates the process of discovering and exploiting DLL Hijacks in target binaries. The Hijacked paths discovered can later be weaponized during Red Team Operations to evade EDR%s. | https://github.com/knight0x07/ImpulsiveDLLHijack | 0 | 0| 
 | 20210908T12:03:07Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 30 | 17| 
 | 20210908T11:38:51Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10015 | 1672| 
@@ -134,6 +134,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210908T12:52:36Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210908T12:44:30Z | Versi dinamis dari spk fuzzy sebelumnya, kini support setting jumlah sub kriteria | https://github.com/hudtakim/spk-wisata-fuzzy-versi2 | 1 | 0| 
 | 20210908T12:32:17Z | JetBrains Research intership project. | https://github.com/AnzhelaSukhanova/fuzzing_of_spacer | 0 | 0| 
 | 20210908T12:28:37Z | A small decision making system, that uses Fuzzy logic. | https://github.com/algisxD/FuzzyDecisionSystem | 0 | 0| 
@@ -143,7 +144,6 @@
 | 20210908T12:04:48Z | еблан блять | https://github.com/A9FM/fuzzy-palm-tree | 0 | 0| 
 | 20210908T12:01:46Z | Open Registry Editor regedit.exe at a location conveniently | https://github.com/zvodd/fuzzyw32registry | 0 | 0| 
 | 20210908T11:57:28Z | Write unit and fuzz tests for Elm code. | https://github.com/elm-explorations/test | 204 | 29| 
-| 20210908T11:31:04Z | Continuously updated | https://github.com/CforU/fuzzy-enigma | 0 | 0| 
 
 
 
