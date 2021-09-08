@@ -6,6 +6,15 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210908 | Container Escape in 2021，来自 HITB 会议 | https://conference.hitb.org/hitbsecconf2021sin/materials/D2T2%20-%20Ccntainer%20Escape%20in%202021%20-%20Li%20Qiang.pdf| 
+| 20210908 | Another Road Leads to the Host: From a Message to VM Escape on Nvidia vGPU，来自 BlackHat USA 会议的议题 | https://i.blackhat.com/USA21/Wednesday-Handouts/us-21-Another-Road-Leads-To-The-Host-From-A-Message-To-VM-Escape-On-Nvidia-VGPU.pdf| 
+| 20210908 | 滥用 Chromium Devtools Scope Pane 实现 anti-debug | https://gist.github.com/weizman/b21c71187fcbf138aec341021e0e4e30| 
+| 20210908 | Reload executable files to achieve efficient inline-hook | https://vx-underground.org/papers/VXUG/Mirrors/Reloadexecutablefilestoachieveefficientinlinehook.pdf| 
+| 20210908 | BladeHawk 组织利用 Android 恶意 App 攻击库尔德组织 | https://www.welivesecurity.com/2021/09/07/bladehawk-android-espionage-kurdish/| 
+| 20210908 | Windows 发布紧急例外补丁，修复 MSHTML 的 RCE 漏洞（CVE-2021-40444），漏洞可通过 Office 文档触发且已被用于野外定向攻击 | https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-40444| 
+| 20210908 | James Forshaw 对 Windows LowBox Token Permissive Learning Mode 的分析 | https://www.tiraniddo.dev/2021/09/lowbox-token-permissive-learning-mode.html| 
+| 20210908 | gcpHound - 面向 Google 云环境渗透测试的工具 | https://desi-jarvis.medium.com/gcphound-a-swiss-army-knife-offensive-toolkit-for-google-cloud-platform-gcp-fb9e18b959b4| 
+| 20210908 | 以 Adobe Acrobat DC 的 Fuzz 为例介绍找 Fuzz 向量 | https://blog.haboob.sa/blog/modern-harnessing-meets-in-memory-fuzzing| 
 | 20210907 | Reversing and Exploiting Samsungs Neural Processing Unit | https://github.com/Impalabs/conferences/blob/master/2021-barbhack21/21-Barbhack21-Reversing_and_Exploiting_Samsungs_Neural_Processing_Unit.pdf| 
 | 20210907 | 用深度学习的方案检测命令混淆的问题 | https://medium.com/adobetech/using-deep-learning-to-better-detect-command-obfuscation-965b448973e0?source=social.tw&_branch_match_id=963757906340777726| 
 | 20210907 | How to Exploit SQL Server Using OLE Automation | https://www.imperva.com/blog/how-to-exploit-sql-server-using-ole-automation/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Imperviews+%28Imperva+Cyber+Security+Blog%29| 
@@ -17,51 +26,42 @@
 | 20210907 | 云原生——容器和应用安全运营实践思考 | https://security.tencent.com/index.php/blog/msg/200| 
 | 20210906 | 前两周推送过一个 GhostScript 9.50 0Day 的会议议题，现在有研究员公开了该漏洞的 RCE PoC 脚本 | https://github.com/duc-nt/RCE-0-day-for-GhostScript-9.50| 
 | 20210906 | Offensive WMI - Exploring Namespaces, Classes & Methods (Part 2) | https://0xinfection.github.io/posts/wmi-classes-methods-part-2/| 
-| 20210906 | Rudroid - 用 Rust 语言写一个 Android 模拟器 | https://fuzzing.science/page/rudroid-worlds-worst-android-emulator/| 
-| 20210906 | 可以实现 Windows 10 KASLR Bypass 的 API 列表 | https://github.com/waleedassar/RestrictedKernelLeaks| 
-| 20210906 | Teradek 网络视频设备被发现 Root Shell 后门漏洞 | https://infosecwriteups.com/full-disclosure-0-day-rce-backdoor-in-teradek-ip-video-device-firmwares-85a16f346e15?gi=bbf9cd352aa6| 
-| 20210906 | FireEye 对近期发现的利用 Microsoft Exchange ProxyShell 漏洞链的多起攻击事件的分析 | https://www.fireeye.com/blog/threat-research/2021/09/proxyshell-exploiting-microsoft-exchange-servers.html| 
-| 20210906 | From RpcView to PetitPotam | https://itm4n.github.io/from-rpcview-to-petitpotam/| 
-| 20210906 | 在无法读取 Response 的 Blind SSRF 情况下，如何验证 SSRF 的影响 | https://blog.assetnote.io/2021/01/13/blind-ssrf-chains/| 
-| 20210906 | 反制爬虫之 Burp Suite RCE. | https://paper.seebug.org/1696/| 
-| 20210905 | Https payload与C2重定向方法研究。 | https://bluescreenofjeff.com/2018-04-12-https-payload-and-c2-redirectors/| 
-| 20210905 | 在深度神经网络里隐藏任意恶意软件。 | https://toooold.com/2021/09/05/hide_malware_ann.html| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210908 | Zabbix攻击面挖掘与利用 | http://noahblog.360.cn/zabbixgong-ji-mian-wa-jue-yu-li-yong/| 
+| 20210908 | 云原生——容器和应用安全运营实践思考 | https://security.tencent.com/index.php/blog/msg/200| 
+| 20210908 | FastJson 反序列化漏洞及在区块链应用中的渗透利用 | https://paper.seebug.org/1698/| 
+| 20210908 | 浅谈angr的缓解状态爆炸策略 | https://www.anquanke.com/post/id/251984| 
+| 20210908 | 如何高效地捡漏反序列化利用链 | https://mp.weixin.qq.com/s/th9hDuMK8LgrkesgPvEDHQ| 
+| 20210908 | 漫谈企业安全运营能力建设 | https://mp.weixin.qq.com/s/dBAV_4iGw8rTU5Y3SI4ocA| 
+| 20210908 | Gartner：2021年SIEM（安全信息与事件管理）市场分析 | https://mp.weixin.qq.com/s/2hiU8ko3N3duW0sI9JdNfA| 
+| 20210908 | DLL注入之全局钩子注入 | https://mp.weixin.qq.com/s/2CZA9aRr9nsawMkxHQrupg| 
 | 20210907 | URL FIlter 绕过 - Python 之 Flask | https://github.com/CHYbeta/URLFilterBypassDemo/blob/master/python/flask_demo/README.md| 
 | 20210906 | 反制爬虫之Burp Suite RCE | http://noahblog.360.cn/burp-suite-rce/| 
-| 20210906 | [HTB] Haystack Writeup | https://mp.weixin.qq.com/s/HFh8pMRtZ-fm_-0lMoUqvw| 
-| 20210906 | DongTai: 开源的 IAST | https://github.com/HXSecurity/DongTai| 
-| 20210906 | 为什么 LSTM 检测 DGA 是无用功 | https://toooold.com/2021/07/12/dga_detection.html| 
-| 20210906 | 在深度神经网络里隐藏任意恶意软件 | https://toooold.com/2021/09/05/hide_malware_ann.html?continueFlag=f2aeadc6d507ff1e919e27925b7e4d4a| 
-| 20210906 | SecWiki周刊（第392期) | https://www.sec-wiki.com/weekly/392| 
-| 20210906 | 谈谈网络空间“行为测绘” | https://mp.weixin.qq.com/s/fQatA5iyewqRBMWtpVjsRA| 
-| 20210905 | 小心你信任的人：跨域通信中的安全陷阱 | https://mp.weixin.qq.com/s/ErjUg177-jGR9UQjyZaEoA| 
-| 20210904 | Survey: 基于机器学习和数据挖掘技术的软件漏洞检测 | https://zhuanlan.zhihu.com/p/405003793| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210908T11:56:46Z | CVE-2021- | Null | https://github.com/evildrummer/CVE-2021-XYZ2 | 未查询到CVE信息| 
+| 20210908T11:56:13Z | CVE-2021- | Null | https://github.com/evildrummer/CVE-2021-XYZ | 未查询到CVE信息| 
+| 20210908T11:04:56Z | CVE-2021-26084 | Exploit CVE 2021 26084 Confluence | https://github.com/dock0d1/CVE-2021-26084_Confluence | In affected versions of Confluence Server and Data Center, an OGNL injection vulnerability exists that would allow an unauthenticated attacker to execute arbitrary code on a Confluence Server or Data Center instance. The affected versions are before version 6.13.23, from version 6.14.0 before 7.4.11, from version 7.5.0 before 7.11.6, and from version 7.12.0 before 7.12.5.| 
+| 20210908T09:11:13Z | CVE-2021-36563 | Null | https://github.com/Edgarloyola/CVE-2021-36563 | The CheckMK management web console (versions 1.5.0 to 2.0.0) does not sanitise user input in various parameters of the WATO module. This allows an attacker to open a backdoor on the device with HTML content and interpreted by the browser (such as JavaScript or other client-side scripts), the XSS payload will be triggered when the user accesses some specific sections of the application. In the same sense a very dangerous potential way would be when an attacker who has the monitor role (not administrator) manages to get a stored XSS to steal the secretAutomation (for the use of the API in administrator mode) and thus be able to create another administrator user who has high privileges on the CheckMK monitoring web console. Another way is that persistent XSS allows an attacker to modify the displayed content or change the victim%s information. Successful exploitation requires access to the web management interface, either with valid credentials or with a hijacked session.| 
+| 20210908T08:47:17Z | CVE-2021-40444 | Microsoft MSHTML Remote Code Execution Vulnerability CVE-2021-40444 | https://github.com/ozergoker/CVE-2021-40444 | 未查询到CVE信息| 
 | 20210907T23:02:56Z | CVE-2021-1590 | PoC for exploiting CVE-2021-1590 : A vulnerability in the implementation of the system login block-for command for Cisco NX-OS Software could allow an unauthenticated, remote attacker to cause a login process to unexpectedly restart, causing a denial of service (DoS) condition. This vulnerability is due to a logic error in the implementation of the system login block-for command when an attack is detected and acted upon. An attacker could exploit this vulnerability by performing a brute-force login attack on an affected device. A successful exploit could allow the attacker to cause a login process to reload, which could result in a delay during authentication to the affected device. | https://github.com/AlAIAL90/CVE-2021-1590 | A vulnerability in the implementation of the system login block-for command for Cisco NX-OS Software could allow an unauthenticated, remote attacker to cause a login process to unexpectedly restart, causing a denial of service (DoS) condition. This vulnerability is due to a logic error in the implementation of the system login block-for command when an attack is detected and acted upon. An attacker could exploit this vulnerability by performing a brute-force login attack on an affected device. A successful exploit could allow the attacker to cause a login process to reload, which could result in a delay during authentication to the affected device.| 
 | 20210907T23:02:54Z | CVE-2021-1591 | PoC for exploiting CVE-2021-1591 : A vulnerability in the EtherChannel port subscription logic of Cisco Nexus 9500 Series Switches could allow an unauthenticated, remote attacker to bypass access control list (ACL) rules that are configured on an affected device. This vulnerability is due to oversubscription of resources that occurs when applying ACLs to port channel interfaces. An attacker could exploit this vulnerability by attempting to access network resources that are protected by the ACL. A successful exploit could allow the attacker to access network resources that would be protected by the ACL that was applied on the port channel interface. | https://github.com/AlAIAL90/CVE-2021-1591 | A vulnerability in the EtherChannel port subscription logic of Cisco Nexus 9500 Series Switches could allow an unauthenticated, remote attacker to bypass access control list (ACL) rules that are configured on an affected device. This vulnerability is due to oversubscription of resources that occurs when applying ACLs to port channel interfaces. An attacker could exploit this vulnerability by attempting to access network resources that are protected by the ACL. A successful exploit could allow the attacker to access network resources that would be protected by the ACL that was applied on the port channel interface.| 
 | 20210907T23:02:51Z | CVE-2021-1592 | PoC for exploiting CVE-2021-1592 : A vulnerability in the way Cisco UCS Manager software handles SSH sessions could allow an authenticated, remote attacker to cause a denial of service (DoS) condition on an affected device. This vulnerability is due to improper resource management for established SSH sessions. An attacker could exploit this vulnerability by opening a significant number of SSH sessions on an affected device. A successful exploit could allow the attacker to cause a crash and restart of internal Cisco UCS Manager software processes and a temporary loss of access to the Cisco UCS Manager CLI and web UI. Note: The attacker must have valid user credentials to authenticate to the affected device. | https://github.com/AlAIAL90/CVE-2021-1592 | A vulnerability in the way Cisco UCS Manager software handles SSH sessions could allow an authenticated, remote attacker to cause a denial of service (DoS) condition on an affected device. This vulnerability is due to improper resource management for established SSH sessions. An attacker could exploit this vulnerability by opening a significant number of SSH sessions on an affected device. A successful exploit could allow the attacker to cause a crash and restart of internal Cisco UCS Manager software processes and a temporary loss of access to the Cisco UCS Manager CLI and web UI. Note: The attacker must have valid user credentials to authenticate to the affected device.| 
-| 20210907T23:02:48Z | CVE-2021-32955 | PoC for exploiting CVE-2021-32955 : Delta Electronics DIAEnergie Version 1.7.5 and prior allows unrestricted file uploads, which may allow an attacker to remotely execute code. | https://github.com/AlAIAL90/CVE-2021-32955 | Delta Electronics DIAEnergie Version 1.7.5 and prior allows unrestricted file uploads, which may allow an attacker to remotely execute code.| 
+| 20210907T23:02:48Z | CVE-2021-32955 | PoC for exploiting CVE-2021-32955 : Delta Electronics DIAEnergie Version 1.7.5 and prior allows unrestricted file uploads, which may allow an attacker to remotely execute code. | https://github.com/AlAIAL90/CVE-2021-32955 | | 
 | 20210907T23:02:45Z | CVE-2021-32967 | PoC for exploiting CVE-2021-32967 : Delta Electronics DIAEnergie Version 1.7.5 and prior may allow an attacker to add a new administrative user without being authenticated or authorized, which may allow the attacker to log in and use the device with administrative privileges. | https://github.com/AlAIAL90/CVE-2021-32967 | Delta Electronics DIAEnergie Version 1.7.5 and prior may allow an attacker to add a new administrative user without being authenticated or authorized, which may allow the attacker to log in and use the device with administrative privileges.| 
-| 20210907T23:02:42Z | CVE-2021-32991 | PoC for exploiting CVE-2021-32991 : Delta Electronics DIAEnergie Version 1.7.5 and prior is vulnerable to cross-site request forgery, which may allow an attacker to cause a user to carry out an action unintentionally. | https://github.com/AlAIAL90/CVE-2021-32991 | Delta Electronics DIAEnergie Version 1.7.5 and prior is vulnerable to cross-site request forgery, which may allow an attacker to cause a user to carry out an action unintentionally.| 
-| 20210907T23:02:40Z | CVE-2021-33003 | PoC for exploiting CVE-2021-33003 : Delta Electronics DIAEnergie Version 1.7.5 and prior may allow an attacker to retrieve passwords in cleartext due to a weak hashing algorithm. | https://github.com/AlAIAL90/CVE-2021-33003 | Delta Electronics DIAEnergie Version 1.7.5 and prior may allow an attacker to retrieve passwords in cleartext due to a weak hashing algorithm.| 
-| 20210907T23:02:37Z | CVE-2021-32983 | PoC for exploiting CVE-2021-32983 : A Blind SQL injection vulnerability exists in the /DataHandler/Handler_CFG.ashx endpoint of Delta Electronics DIAEnergie Version 1.7.5 and prior. The application does not properly validate the user-controlled value supplied through the parameter keyword before using it as part of an SQL query. A remote, unauthenticated attacker can exploit this issue to execute arbitrary code in the context of NT SERVICE\MSSQLSERVER. | https://github.com/AlAIAL90/CVE-2021-32983 | A Blind SQL injection vulnerability exists in the /DataHandler/Handler_CFG.ashx endpoint of Delta Electronics DIAEnergie Version 1.7.5 and prior. The application does not properly validate the user-controlled value supplied through the parameter keyword before using it as part of an SQL query. A remote, unauthenticated attacker can exploit this issue to execute arbitrary code in the context of NT SERVICE\MSSQLSERVER.| 
-| 20210907T23:02:34Z | CVE-2021-33007 | PoC for exploiting CVE-2021-33007 : A heap-based buffer overflow in Delta Electronics TPEditor: v1.98.06 and prior may be exploited by processing a specially crafted project file. Successful exploitation of this vulnerability may allow an attacker to execute arbitrary code. | https://github.com/AlAIAL90/CVE-2021-33007 | A heap-based buffer overflow in Delta Electronics TPEditor: v1.98.06 and prior may be exploited by processing a specially crafted project file. Successful exploitation of this vulnerability may allow an attacker to execute arbitrary code.| 
-| 20210907T23:02:32Z | CVE-2021-33019 | PoC for exploiting CVE-2021-33019 : A stack-based buffer overflow vulnerability in Delta Electronics DOPSoft Version 4.00.11 and prior may be exploited by processing a specially crafted project file, which may allow an attacker to execute arbitrary code. | https://github.com/AlAIAL90/CVE-2021-33019 | A stack-based buffer overflow vulnerability in Delta Electronics DOPSoft Version 4.00.11 and prior may be exploited by processing a specially crafted project file, which may allow an attacker to execute arbitrary code.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210907T14:59:27Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2737 | 73| 
+| 20210908T11:50:29Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2740 | 73| 
 | 20210907T14:41:50Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 14 | 45| 
 | 20210907T14:03:25Z | Config files for my GitHub profile. | https://github.com/Kleemann77/Kleemann77 | 0 | 0| 
 | 20210906T14:26:26Z | Personal Blog | https://github.com/klee1611/klee1611.github.io | 0 | 0| 
@@ -83,16 +83,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210908T01:49:10Z | A Roblox exploit script that gives you a gun in Prison Life | https://github.com/HudsonDuke19/prison-life-gun-giver | 0 | 0| 
-| 20210908T01:27:35Z | An introduction, explanation, and tutorial of various exploits for the heap of current and recent GNU libcs. | https://github.com/bstank/bstank.github.io | 0 | 0| 
-| 20210908T01:16:20Z | Null | https://github.com/4RG0S/2021-Fall-Some-Day-Exploit | 0 | 0| 
-| 20210908T01:02:57Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 30 | 17| 
-| 20210908T00:52:37Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 22 | 14| 
-| 20210908T00:32:41Z | Cringe Hub a roblox exploit only for synapse x | https://github.com/32bitmeterpreterwastaken/LucidHub | 0 | 0| 
-| 20210908T00:14:27Z | Null | https://github.com/iiRezux/Exploit | 0 | 0| 
-| 20210907T23:43:36Z | Artics Roblox Exploit for @articsdev | https://github.com/P-DennyGamingYT/Artics | 0 | 0| 
-| 20210907T23:33:54Z | FLOOD is a tool which exploits some of the most popular DDoS attacks | https://github.com/4anonz/FLOOD | 0 | 0| 
-| 20210907T23:26:34Z | Coe rpzd cola lá no meu canal fiz um exploit group sem precisar de ADM sem ko | https://github.com/davizinZZZ/davizinZZZ | 1 | 0| 
+| 20210908T11:52:45Z | C# based tool which automates the process of discovering and exploiting DLL Hijacks in target binaries. The Hijacked paths discovered can later be weaponized during Red Team Operations to evade EDR%s. | https://github.com/knight0x07/ImpulsiveDLLHijack | 0 | 0| 
+| 20210908T11:38:51Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10015 | 1672| 
+| 20210908T11:04:56Z | Exploit CVE 2021 26084 Confluence | https://github.com/dock0d1/CVE-2021-26084_Confluence | 0 | 0| 
+| 20210908T11:02:56Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 30 | 17| 
+| 20210908T10:58:20Z | Tamil CTF Site | https://github.com/exploiteverythingtamil/exploiteverythingtamil.github.io | 1 | 0| 
+| 20210908T10:19:17Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
+| 20210908T10:10:52Z | A collection of Destiny 2 macros built with AutoHotKey | https://github.com/preco21/destiny-macros | 19 | 7| 
+| 20210908T09:51:59Z | Exploiting Causal Structure for Transportability in Online, Multi-Agent Environments | https://github.com/axelbrowne/ECS4TOMAE | 0 | 0| 
+| 20210908T09:46:28Z | This repository contains the POC of an exploit for node-jose < 0.11.0 | https://github.com/zi0Black/POC-CVE-2018-0114 | 23 | 10| 
+| 20210908T09:36:26Z | A Rust post-exploit framework with a built-in module system :-) | https://github.com/saifsuleman/hacksploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -134,16 +134,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210908T01:56:45Z | Miniproject to cross data | https://github.com/rafael-olmedo/fuzzy-search | 0 | 0| 
-| 20210908T01:03:54Z | Versi dinamis dari spk fuzzy sebelumnya, kini support setting jumlah sub kriteria | https://github.com/hudtakim/spk-fuzzy-dynamic | 1 | 0| 
-| 20210908T00:53:22Z | Null | https://github.com/vjrmsg/FuzzyMatcherVENV | 0 | 0| 
-| 20210908T00:51:41Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
-| 20210908T00:48:17Z | Fuzzing tool for the 14th institute | https://github.com/Radon10043/fuzzing-tool-14 | 0 | 2| 
-| 20210908T00:33:14Z | Null | https://github.com/igorsodre/fuzzy-trader | 0 | 0| 
-| 20210908T00:05:07Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 22 | 9| 
-| 20210908T00:03:23Z | Implementations of fuzzy inference systems for improving the extraction process of chia cake extract | https://github.com/accarniel/fuzzy-chia | 0 | 0| 
-| 20210907T23:37:26Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 299 | 39| 
-| 20210907T23:09:32Z | 1xpaNck4vI0r43R4jwOc2LEzljF_7qQ5QNMZxmVvE7spp4dKg | https://github.com/machinei/fuzzy-spork | 0 | 0| 
+| 20210908T12:01:46Z | Open Registry Editor regedit.exe at a location conveniently | https://github.com/zvodd/fuzzyw32registry | 0 | 0| 
+| 20210908T12:01:30Z | Versi dinamis dari spk fuzzy sebelumnya, kini support setting jumlah sub kriteria | https://github.com/hudtakim/spk-wisata-fuzzy-versi2 | 1 | 0| 
+| 20210908T11:57:28Z | Write unit and fuzz tests for Elm code. | https://github.com/elm-explorations/test | 204 | 29| 
+| 20210908T11:31:04Z | Continuously updated | https://github.com/CforU/fuzzy-enigma | 0 | 0| 
+| 20210908T11:21:23Z | Custom scripts for directory fuzzing, subdomain enumeration, and more. | https://github.com/R0X4R/scvault | 32 | 9| 
+| 20210908T11:12:11Z | Fuzzy Text watchface for Garmin devices | https://github.com/nels0nwu/fuzzy-text | 2 | 3| 
+| 20210908T10:56:02Z | Project developed under TwinCAT3.1 FIS is implemented for Mamdani inference wuth not limits of iI/O or rule numner | https://github.com/jonataro/FUZZY-INFERENCE-SYSTEM-IN-IEC61131 | 0 | 0| 
+| 20210908T10:38:06Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
+| 20210908T10:37:31Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20210908T10:32:31Z | Null | https://github.com/Altair-Bueno/fuzzy-disco | 0 | 1| 
 
 
 
