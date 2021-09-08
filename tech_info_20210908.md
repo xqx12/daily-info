@@ -34,10 +34,10 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210908T11:56:46Z | CVE-2021- | Null | https://github.com/evildrummer/CVE-2021-XYZ2 | 未查询到CVE信息| 
-| 20210908T11:56:13Z | CVE-2021- | Null | https://github.com/evildrummer/CVE-2021-XYZ | | 
+| 20210908T11:56:13Z | CVE-2021- | Null | https://github.com/evildrummer/CVE-2021-XYZ | 未查询到CVE信息| 
 | 20210908T11:04:56Z | CVE-2021-26084 | Exploit CVE 2021 26084 Confluence | https://github.com/dock0d1/CVE-2021-26084_Confluence | In affected versions of Confluence Server and Data Center, an OGNL injection vulnerability exists that would allow an unauthenticated attacker to execute arbitrary code on a Confluence Server or Data Center instance. The affected versions are before version 6.13.23, from version 6.14.0 before 7.4.11, from version 7.5.0 before 7.11.6, and from version 7.12.0 before 7.12.5.| 
 | 20210908T09:11:13Z | CVE-2021-36563 | Null | https://github.com/Edgarloyola/CVE-2021-36563 | The CheckMK management web console (versions 1.5.0 to 2.0.0) does not sanitise user input in various parameters of the WATO module. This allows an attacker to open a backdoor on the device with HTML content and interpreted by the browser (such as JavaScript or other client-side scripts), the XSS payload will be triggered when the user accesses some specific sections of the application. In the same sense a very dangerous potential way would be when an attacker who has the monitor role (not administrator) manages to get a stored XSS to steal the secretAutomation (for the use of the API in administrator mode) and thus be able to create another administrator user who has high privileges on the CheckMK monitoring web console. Another way is that persistent XSS allows an attacker to modify the displayed content or change the victim%s information. Successful exploitation requires access to the web management interface, either with valid credentials or with a hijacked session.| 
-| 20210908T08:47:17Z | CVE-2021-40444 | Microsoft MSHTML Remote Code Execution Vulnerability CVE-2021-40444 | https://github.com/ozergoker/CVE-2021-40444 | | 
+| 20210908T08:47:17Z | CVE-2021-40444 | Microsoft MSHTML Remote Code Execution Vulnerability CVE-2021-40444 | https://github.com/ozergoker/CVE-2021-40444 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
@@ -97,11 +97,11 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210908T12:53:20Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 181 | 36| 
 | 20210908T12:52:36Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210908T12:44:30Z | Versi dinamis dari spk fuzzy sebelumnya, kini support setting jumlah sub kriteria | https://github.com/hudtakim/spk-wisata-fuzzy-versi2 | 1 | 0| 
 | 20210908T12:32:17Z | JetBrains Research intership project. | https://github.com/AnzhelaSukhanova/fuzzing_of_spacer | 0 | 0| 
 | 20210908T12:28:37Z | A small decision making system, that uses Fuzzy logic. | https://github.com/algisxD/FuzzyDecisionSystem | 0 | 0| 
-| 20210908T12:23:26Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 181 | 36| 
 | 20210908T12:22:32Z | Null | https://github.com/14isnot40/fa-fuzz | 0 | 0| 
 | 20210908T12:08:26Z | A fuzzer that generates random Go programs | https://github.com/ALTree/microsmith | 11 | 0| 
 | 20210908T12:04:48Z | еблан блять | https://github.com/A9FM/fuzzy-palm-tree | 0 | 0| 
