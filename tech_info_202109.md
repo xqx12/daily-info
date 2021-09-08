@@ -134,8 +134,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210908T00:51:41Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210908T00:48:17Z | Fuzzing tool for the 14th institute | https://github.com/Radon10043/fuzzing-tool-14 | 0 | 2| 
-| 20210908T00:45:54Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210908T00:33:14Z | Null | https://github.com/igorsodre/fuzzy-trader | 0 | 0| 
 | 20210908T00:05:07Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 22 | 9| 
 | 20210908T00:03:23Z | Implementations of fuzzy inference systems for improving the extraction process of chia cake extract | https://github.com/accarniel/fuzzy-chia | 0 | 0| 
