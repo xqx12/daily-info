@@ -83,11 +83,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210908T00:03:33Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 30 | 17| 
 | 20210907T23:43:36Z | Artics Roblox Exploit for @articsdev | https://github.com/P-DennyGamingYT/Artics | 0 | 0| 
 | 20210907T23:33:54Z | FLOOD is a tool which exploits some of the most popular DDoS attacks | https://github.com/4anonz/FLOOD | 0 | 0| 
 | 20210907T23:26:34Z | Coe rpzd cola lá no meu canal fiz um exploit group sem precisar de ADM sem ko | https://github.com/davizinZZZ/davizinZZZ | 1 | 0| 
 | 20210907T23:23:06Z | Post exploitation helper | https://github.com/melnicek/peh | 32 | 5| 
-| 20210907T23:03:10Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 30 | 17| 
 | 20210907T23:02:56Z | PoC for exploiting CVE-2021-1590 : A vulnerability in the implementation of the system login block-for command for Cisco NX-OS Software could allow an unauthenticated, remote attacker to cause a login process to unexpectedly restart, causing a denial of service (DoS) condition. This vulnerability is due to a logic error in the implementation of the system login block-for command when an attack is detected and acted upon. An attacker could exploit this vulnerability by performing a brute-force login attack on an affected device. A successful exploit could allow the attacker to cause a login process to reload, which could result in a delay during authentication to the affected device. | https://github.com/AlAIAL90/CVE-2021-1590 | 0 | 0| 
 | 20210907T23:02:54Z | PoC for exploiting CVE-2021-1591 : A vulnerability in the EtherChannel port subscription logic of Cisco Nexus 9500 Series Switches could allow an unauthenticated, remote attacker to bypass access control list (ACL) rules that are configured on an affected device. This vulnerability is due to oversubscription of resources that occurs when applying ACLs to port channel interfaces. An attacker could exploit this vulnerability by attempting to access network resources that are protected by the ACL. A successful exploit could allow the attacker to access network resources that would be protected by the ACL that was applied on the port channel interface. | https://github.com/AlAIAL90/CVE-2021-1591 | 0 | 0| 
 | 20210907T23:02:51Z | PoC for exploiting CVE-2021-1592 : A vulnerability in the way Cisco UCS Manager software handles SSH sessions could allow an authenticated, remote attacker to cause a denial of service (DoS) condition on an affected device. This vulnerability is due to improper resource management for established SSH sessions. An attacker could exploit this vulnerability by opening a significant number of SSH sessions on an affected device. A successful exploit could allow the attacker to cause a crash and restart of internal Cisco UCS Manager software processes and a temporary loss of access to the Cisco UCS Manager CLI and web UI. Note: The attacker must have valid user credentials to authenticate to the affected device. | https://github.com/AlAIAL90/CVE-2021-1592 | 0 | 0| 
@@ -134,6 +134,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210908T00:05:07Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 22 | 9| 
 | 20210908T00:03:23Z | Implementations of fuzzy inference systems for improving the extraction process of chia cake extract | https://github.com/accarniel/fuzzy-chia | 0 | 0| 
 | 20210907T23:37:26Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 299 | 39| 
 | 20210907T23:09:32Z | 1xpaNck4vI0r43R4jwOc2LEzljF_7qQ5QNMZxmVvE7spp4dKg | https://github.com/machinei/fuzzy-spork | 0 | 0| 
@@ -143,7 +144,6 @@
 | 20210907T21:44:58Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6635 | 1358| 
 | 20210907T21:20:20Z | Null | https://github.com/tlperini/fuzzyclock | 0 | 0| 
 | 20210907T21:01:35Z | Null | https://github.com/FuzzFinance/fuzz-swap-core | 0 | 0| 
-| 20210907T20:41:38Z | Web fuzzing tool | https://github.com/fagci/fuzzy | 0 | 0| 
 
 
 
