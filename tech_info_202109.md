@@ -83,8 +83,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210908T12:12:22Z | C# based tool which automates the process of discovering and exploiting DLL Hijacks in target binaries. The Hijacked paths discovered can later be weaponized during Red Team Operations to evade EDR%s. | https://github.com/knight0x07/ImpulsiveDLLHijack | 0 | 0| 
+| 20210908T12:11:31Z | Exploits Scripts and other tools that are useful during Penetration-Testing or Red Team engagement  | https://github.com/BlackSnufkin/PT-ToolKit | 0 | 0| 
 | 20210908T12:03:07Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 30 | 17| 
-| 20210908T11:52:45Z | C# based tool which automates the process of discovering and exploiting DLL Hijacks in target binaries. The Hijacked paths discovered can later be weaponized during Red Team Operations to evade EDR%s. | https://github.com/knight0x07/ImpulsiveDLLHijack | 0 | 0| 
 | 20210908T11:38:51Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10015 | 1672| 
 | 20210908T11:04:56Z | Exploit CVE 2021 26084 Confluence | https://github.com/dock0d1/CVE-2021-26084_Confluence | 0 | 0| 
 | 20210908T10:58:20Z | Tamil CTF Site | https://github.com/exploiteverythingtamil/exploiteverythingtamil.github.io | 1 | 0| 
@@ -92,18 +93,17 @@
 | 20210908T10:10:52Z | A collection of Destiny 2 macros built with AutoHotKey | https://github.com/preco21/destiny-macros | 19 | 7| 
 | 20210908T09:51:59Z | Exploiting Causal Structure for Transportability in Online, Multi-Agent Environments | https://github.com/axelbrowne/ECS4TOMAE | 0 | 0| 
 | 20210908T09:46:28Z | This repository contains the POC of an exploit for node-jose < 0.11.0 | https://github.com/zi0Black/POC-CVE-2018-0114 | 23 | 10| 
-| 20210908T09:36:26Z | A Rust post-exploit framework with a built-in module system :-) | https://github.com/saifsuleman/hacksploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210908T12:11:36Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 6548 | 1655| 
 | 20210908T09:40:01Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 308 | 57| 
 | 20210908T08:59:28Z | Official implementation of the EMNLP 2021 paper %ONION: A Simple and Effective Defense Against Textual Backdoor Attacks% | https://github.com/thunlp/ONION | 0 | 0| 
 | 20210908T08:52:10Z | Backdoored Plugin for anarchy servers  | https://github.com/ssllllll/Backdoored-Plugin | 3 | 1| 
 | 20210908T05:53:30Z | Python botnet and backdoor | https://github.com/sweetsoftware/Ares | 1128 | 445| 
 | 20210908T03:00:49Z | Null | https://github.com/Huiying-Li/Latent-Backdoor | 0 | 0| 
-| 20210908T02:32:04Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 6547 | 1655| 
 | 20210908T01:32:00Z | Backdoor utilizando criptografia Xor para evitar detecção | https://github.com/andreyquerino/Backdoor-Indetectavel | 0 | 0| 
 | 20210908T00:09:41Z | PyIris-backdoor is a modular, stealthy and flexible remote-access-toolkit written completely in python used to command and control other systems. It is now in the beta stage, possibly perpetually. There are bugs still present in the framework, feel free to contribute or help me out with this project its still under active development >_> | https://github.com/angus-y/PyIris-backdoor | 169 | 53| 
 | 20210907T23:31:36Z | Null | https://github.com/ammarin25455/Remote-Desktop-Backdoor | 0 | 0| 
@@ -134,6 +134,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210908T12:12:53Z | Null | https://github.com/14isnot40/fa-fuzz | 0 | 0| 
+| 20210908T12:08:26Z | A fuzzer that generates random Go programs | https://github.com/ALTree/microsmith | 11 | 0| 
 | 20210908T12:04:48Z | еблан блять | https://github.com/A9FM/fuzzy-palm-tree | 0 | 0| 
 | 20210908T12:02:29Z | Versi dinamis dari spk fuzzy sebelumnya, kini support setting jumlah sub kriteria | https://github.com/hudtakim/spk-wisata-fuzzy-versi2 | 1 | 0| 
 | 20210908T12:01:46Z | Open Registry Editor regedit.exe at a location conveniently | https://github.com/zvodd/fuzzyw32registry | 0 | 0| 
@@ -142,8 +144,6 @@
 | 20210908T11:21:23Z | Custom scripts for directory fuzzing, subdomain enumeration, and more. | https://github.com/R0X4R/scvault | 32 | 9| 
 | 20210908T11:12:11Z | Fuzzy Text watchface for Garmin devices | https://github.com/nels0nwu/fuzzy-text | 2 | 3| 
 | 20210908T10:56:02Z | Project developed under TwinCAT3.1 FIS is implemented for Mamdani inference wuth not limits of iI/O or rule numner | https://github.com/jonataro/FUZZY-INFERENCE-SYSTEM-IN-IEC61131 | 0 | 0| 
-| 20210908T10:38:06Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
-| 20210908T10:37:31Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 
 
 
