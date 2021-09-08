@@ -82,7 +82,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210907T08:34:22Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2446 | 363| 
+| 20210907T20:23:28Z | Symbolica%s open-source symbolic execution engine. | https://github.com/SymbolicaDev/Symbolica | 7 | 1| 
+| 20210907T17:46:36Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2446 | 363| 
 
 
 # big4 on Github 推荐
