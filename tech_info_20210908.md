@@ -54,8 +54,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210908T12:22:29Z | Exploits Scripts and other tools that are useful during Penetration-Testing or Red Team engagement  | https://github.com/BlackSnufkin/PT-ToolKit | 0 | 0| 
 | 20210908T12:12:59Z | C# based tool which automates the process of discovering and exploiting DLL Hijacks in target binaries. The Hijacked paths discovered can later be weaponized during Red Team Operations to evade EDR%s. | https://github.com/knight0x07/ImpulsiveDLLHijack | 0 | 0| 
-| 20210908T12:11:31Z | Exploits Scripts and other tools that are useful during Penetration-Testing or Red Team engagement  | https://github.com/BlackSnufkin/PT-ToolKit | 0 | 0| 
 | 20210908T12:03:07Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 30 | 17| 
 | 20210908T11:38:51Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10015 | 1672| 
 | 20210908T11:04:56Z | Exploit CVE 2021 26084 Confluence | https://github.com/dock0d1/CVE-2021-26084_Confluence | 0 | 0| 
@@ -97,7 +97,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210908T12:12:53Z | Null | https://github.com/14isnot40/fa-fuzz | 0 | 0| 
+| 20210908T12:28:37Z | A small decision making system, that uses Fuzzy logic. | https://github.com/algisxD/FuzzyDecisionSystem | 0 | 0| 
+| 20210908T12:23:26Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 181 | 36| 
+| 20210908T12:22:32Z | Null | https://github.com/14isnot40/fa-fuzz | 0 | 0| 
 | 20210908T12:08:26Z | A fuzzer that generates random Go programs | https://github.com/ALTree/microsmith | 11 | 0| 
 | 20210908T12:04:48Z | еблан блять | https://github.com/A9FM/fuzzy-palm-tree | 0 | 0| 
 | 20210908T12:02:29Z | Versi dinamis dari spk fuzzy sebelumnya, kini support setting jumlah sub kriteria | https://github.com/hudtakim/spk-wisata-fuzzy-versi2 | 1 | 0| 
@@ -105,8 +107,6 @@
 | 20210908T11:57:28Z | Write unit and fuzz tests for Elm code. | https://github.com/elm-explorations/test | 204 | 29| 
 | 20210908T11:31:04Z | Continuously updated | https://github.com/CforU/fuzzy-enigma | 0 | 0| 
 | 20210908T11:21:23Z | Custom scripts for directory fuzzing, subdomain enumeration, and more. | https://github.com/R0X4R/scvault | 32 | 9| 
-| 20210908T11:12:11Z | Fuzzy Text watchface for Garmin devices | https://github.com/nels0nwu/fuzzy-text | 2 | 3| 
-| 20210908T10:56:02Z | Project developed under TwinCAT3.1 FIS is implemented for Mamdani inference wuth not limits of iI/O or rule numner | https://github.com/jonataro/FUZZY-INFERENCE-SYSTEM-IN-IEC61131 | 0 | 0| 
 
 
 
