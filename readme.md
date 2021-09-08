@@ -97,13 +97,13 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210908T12:44:30Z | Versi dinamis dari spk fuzzy sebelumnya, kini support setting jumlah sub kriteria | https://github.com/hudtakim/spk-wisata-fuzzy-versi2 | 1 | 0| 
 | 20210908T12:32:17Z | JetBrains Research intership project. | https://github.com/AnzhelaSukhanova/fuzzing_of_spacer | 0 | 0| 
 | 20210908T12:28:37Z | A small decision making system, that uses Fuzzy logic. | https://github.com/algisxD/FuzzyDecisionSystem | 0 | 0| 
 | 20210908T12:23:26Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 181 | 36| 
 | 20210908T12:22:32Z | Null | https://github.com/14isnot40/fa-fuzz | 0 | 0| 
 | 20210908T12:08:26Z | A fuzzer that generates random Go programs | https://github.com/ALTree/microsmith | 11 | 0| 
 | 20210908T12:04:48Z | еблан блять | https://github.com/A9FM/fuzzy-palm-tree | 0 | 0| 
-| 20210908T12:02:29Z | Versi dinamis dari spk fuzzy sebelumnya, kini support setting jumlah sub kriteria | https://github.com/hudtakim/spk-wisata-fuzzy-versi2 | 1 | 0| 
 | 20210908T12:01:46Z | Open Registry Editor regedit.exe at a location conveniently | https://github.com/zvodd/fuzzyw32registry | 0 | 0| 
 | 20210908T11:57:28Z | Write unit and fuzz tests for Elm code. | https://github.com/elm-explorations/test | 204 | 29| 
 | 20210908T11:31:04Z | Continuously updated | https://github.com/CforU/fuzzy-enigma | 0 | 0| 
