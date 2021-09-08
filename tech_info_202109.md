@@ -83,7 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210908T00:12:28Z | Null | https://github.com/iiRezux/Exploit | 0 | 0| 
+| 20210908T00:13:02Z | Null | https://github.com/iiRezux/Exploit | 0 | 0| 
 | 20210908T00:03:33Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 30 | 17| 
 | 20210907T23:43:36Z | Artics Roblox Exploit for @articsdev | https://github.com/P-DennyGamingYT/Artics | 0 | 0| 
 | 20210907T23:33:54Z | FLOOD is a tool which exploits some of the most popular DDoS attacks | https://github.com/4anonz/FLOOD | 0 | 0| 
