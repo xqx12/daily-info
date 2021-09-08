@@ -54,10 +54,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210908T12:03:07Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 30 | 17| 
 | 20210908T11:52:45Z | C# based tool which automates the process of discovering and exploiting DLL Hijacks in target binaries. The Hijacked paths discovered can later be weaponized during Red Team Operations to evade EDR%s. | https://github.com/knight0x07/ImpulsiveDLLHijack | 0 | 0| 
 | 20210908T11:38:51Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10015 | 1672| 
 | 20210908T11:04:56Z | Exploit CVE 2021 26084 Confluence | https://github.com/dock0d1/CVE-2021-26084_Confluence | 0 | 0| 
-| 20210908T11:02:56Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 30 | 17| 
 | 20210908T10:58:20Z | Tamil CTF Site | https://github.com/exploiteverythingtamil/exploiteverythingtamil.github.io | 1 | 0| 
 | 20210908T10:19:17Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
 | 20210908T10:10:52Z | A collection of Destiny 2 macros built with AutoHotKey | https://github.com/preco21/destiny-macros | 19 | 7| 
@@ -97,8 +97,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210908T12:03:55Z | еблан блять | https://github.com/A9FM/fuzzy-palm-tree | 0 | 0| 
+| 20210908T12:02:29Z | Versi dinamis dari spk fuzzy sebelumnya, kini support setting jumlah sub kriteria | https://github.com/hudtakim/spk-wisata-fuzzy-versi2 | 1 | 0| 
 | 20210908T12:01:46Z | Open Registry Editor regedit.exe at a location conveniently | https://github.com/zvodd/fuzzyw32registry | 0 | 0| 
-| 20210908T12:01:30Z | Versi dinamis dari spk fuzzy sebelumnya, kini support setting jumlah sub kriteria | https://github.com/hudtakim/spk-wisata-fuzzy-versi2 | 1 | 0| 
 | 20210908T11:57:28Z | Write unit and fuzz tests for Elm code. | https://github.com/elm-explorations/test | 204 | 29| 
 | 20210908T11:31:04Z | Continuously updated | https://github.com/CforU/fuzzy-enigma | 0 | 0| 
 | 20210908T11:21:23Z | Custom scripts for directory fuzzing, subdomain enumeration, and more. | https://github.com/R0X4R/scvault | 32 | 9| 
@@ -106,7 +107,6 @@
 | 20210908T10:56:02Z | Project developed under TwinCAT3.1 FIS is implemented for Mamdani inference wuth not limits of iI/O or rule numner | https://github.com/jonataro/FUZZY-INFERENCE-SYSTEM-IN-IEC61131 | 0 | 0| 
 | 20210908T10:38:06Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
 | 20210908T10:37:31Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210908T10:32:31Z | Null | https://github.com/Altair-Bueno/fuzzy-disco | 0 | 1| 
 
 
 
