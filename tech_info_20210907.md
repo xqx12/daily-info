@@ -93,7 +93,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210907T23:58:18Z | Implementations of fuzzy inference systems for improving the extraction process of chia cake extract | https://github.com/accarniel/fuzzy-chia | 0 | 0| 
 | 20210907T23:37:26Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 299 | 39| 
 | 20210907T23:09:32Z | 1xpaNck4vI0r43R4jwOc2LEzljF_7qQ5QNMZxmVvE7spp4dKg | https://github.com/machinei/fuzzy-spork | 0 | 0| 
 | 20210907T23:01:48Z | Null | https://github.com/vjrmsg/FuzzyMatcherVENV | 0 | 0| 
@@ -103,6 +102,7 @@
 | 20210907T21:20:20Z | Null | https://github.com/tlperini/fuzzyclock | 0 | 0| 
 | 20210907T21:01:35Z | Null | https://github.com/FuzzFinance/fuzz-swap-core | 0 | 0| 
 | 20210907T20:41:38Z | Web fuzzing tool | https://github.com/fagci/fuzzy | 0 | 0| 
+| 20210907T20:32:58Z | Hacking tools written by me. IP fortune, webmap -- web vulns scanner, rtsp brute+fuzz, and more. | https://github.com/fagci/h4ck | 11 | 4| 
 
 
 

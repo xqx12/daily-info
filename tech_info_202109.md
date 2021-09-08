@@ -134,7 +134,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210907T23:58:18Z | Implementations of fuzzy inference systems for improving the extraction process of chia cake extract | https://github.com/accarniel/fuzzy-chia | 0 | 0| 
+| 20210908T00:03:23Z | Implementations of fuzzy inference systems for improving the extraction process of chia cake extract | https://github.com/accarniel/fuzzy-chia | 0 | 0| 
 | 20210907T23:37:26Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 299 | 39| 
 | 20210907T23:09:32Z | 1xpaNck4vI0r43R4jwOc2LEzljF_7qQ5QNMZxmVvE7spp4dKg | https://github.com/machinei/fuzzy-spork | 0 | 0| 
 | 20210907T23:01:48Z | Null | https://github.com/vjrmsg/FuzzyMatcherVENV | 0 | 0| 
