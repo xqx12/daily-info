@@ -34,7 +34,7 @@
 | 20210907T23:02:42Z | CVE-2021-32991 | PoC for exploiting CVE-2021-32991 : Delta Electronics DIAEnergie Version 1.7.5 and prior is vulnerable to cross-site request forgery, which may allow an attacker to cause a user to carry out an action unintentionally. | https://github.com/AlAIAL90/CVE-2021-32991 | Delta Electronics DIAEnergie Version 1.7.5 and prior is vulnerable to cross-site request forgery, which may allow an attacker to cause a user to carry out an action unintentionally.| 
 | 20210907T23:02:40Z | CVE-2021-33003 | PoC for exploiting CVE-2021-33003 : Delta Electronics DIAEnergie Version 1.7.5 and prior may allow an attacker to retrieve passwords in cleartext due to a weak hashing algorithm. | https://github.com/AlAIAL90/CVE-2021-33003 | Delta Electronics DIAEnergie Version 1.7.5 and prior may allow an attacker to retrieve passwords in cleartext due to a weak hashing algorithm.| 
 | 20210907T23:02:37Z | CVE-2021-32983 | PoC for exploiting CVE-2021-32983 : A Blind SQL injection vulnerability exists in the /DataHandler/Handler_CFG.ashx endpoint of Delta Electronics DIAEnergie Version 1.7.5 and prior. The application does not properly validate the user-controlled value supplied through the parameter keyword before using it as part of an SQL query. A remote, unauthenticated attacker can exploit this issue to execute arbitrary code in the context of NT SERVICE\MSSQLSERVER. | https://github.com/AlAIAL90/CVE-2021-32983 | A Blind SQL injection vulnerability exists in the /DataHandler/Handler_CFG.ashx endpoint of Delta Electronics DIAEnergie Version 1.7.5 and prior. The application does not properly validate the user-controlled value supplied through the parameter keyword before using it as part of an SQL query. A remote, unauthenticated attacker can exploit this issue to execute arbitrary code in the context of NT SERVICE\MSSQLSERVER.| 
-| 20210907T23:02:34Z | CVE-2021-33007 | PoC for exploiting CVE-2021-33007 : A heap-based buffer overflow in Delta Electronics TPEditor: v1.98.06 and prior may be exploited by processing a specially crafted project file. Successful exploitation of this vulnerability may allow an attacker to execute arbitrary code. | https://github.com/AlAIAL90/CVE-2021-33007 | | 
+| 20210907T23:02:34Z | CVE-2021-33007 | PoC for exploiting CVE-2021-33007 : A heap-based buffer overflow in Delta Electronics TPEditor: v1.98.06 and prior may be exploited by processing a specially crafted project file. Successful exploitation of this vulnerability may allow an attacker to execute arbitrary code. | https://github.com/AlAIAL90/CVE-2021-33007 | A heap-based buffer overflow in Delta Electronics TPEditor: v1.98.06 and prior may be exploited by processing a specially crafted project file. Successful exploitation of this vulnerability may allow an attacker to execute arbitrary code.| 
 | 20210907T23:02:32Z | CVE-2021-33019 | PoC for exploiting CVE-2021-33019 : A stack-based buffer overflow vulnerability in Delta Electronics DOPSoft Version 4.00.11 and prior may be exploited by processing a specially crafted project file, which may allow an attacker to execute arbitrary code. | https://github.com/AlAIAL90/CVE-2021-33019 | A stack-based buffer overflow vulnerability in Delta Electronics DOPSoft Version 4.00.11 and prior may be exploited by processing a specially crafted project file, which may allow an attacker to execute arbitrary code.| 
 
 
@@ -96,7 +96,6 @@
 | --- | --- | --- | --- | ---| 
 | 20210907T23:37:26Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 299 | 39| 
 | 20210907T23:09:32Z | 1xpaNck4vI0r43R4jwOc2LEzljF_7qQ5QNMZxmVvE7spp4dKg | https://github.com/machinei/fuzzy-spork | 0 | 0| 
-| 20210907T23:01:48Z | Null | https://github.com/vjrmsg/FuzzyMatcherVENV | 0 | 0| 
 | 20210907T22:52:58Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 314 | 77| 
 | 20210907T22:07:37Z | Repo for the New HI-SPACE project. Named because fuzzy-octo-robot is much more fun than %new-hi-space%, and since this is a personal project I choose fun :)  | https://github.com/ahope/fuzzy-octo-robot | 0 | 0| 
 | 20210907T21:44:58Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6635 | 1358| 
@@ -104,6 +103,7 @@
 | 20210907T21:01:35Z | Null | https://github.com/FuzzFinance/fuzz-swap-core | 0 | 0| 
 | 20210907T20:41:38Z | Web fuzzing tool | https://github.com/fagci/fuzzy | 0 | 0| 
 | 20210907T20:32:58Z | Hacking tools written by me. IP fortune, webmap -- web vulns scanner, rtsp brute+fuzz, and more. | https://github.com/fagci/h4ck | 11 | 4| 
+| 20210907T20:21:01Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3673 | 871| 
 
 
 
