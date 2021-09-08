@@ -134,6 +134,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210908T01:02:37Z | Versi dinamis dari spk fuzzy sebelumnya, kini support setting jumlah sub kriteria | https://github.com/hudtakim/spk-fuzzy-dynamic | 1 | 0| 
 | 20210908T00:53:22Z | Null | https://github.com/vjrmsg/FuzzyMatcherVENV | 0 | 0| 
 | 20210908T00:51:41Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210908T00:48:17Z | Fuzzing tool for the 14th institute | https://github.com/Radon10043/fuzzing-tool-14 | 0 | 2| 
@@ -143,7 +144,6 @@
 | 20210907T23:37:26Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 299 | 39| 
 | 20210907T23:09:32Z | 1xpaNck4vI0r43R4jwOc2LEzljF_7qQ5QNMZxmVvE7spp4dKg | https://github.com/machinei/fuzzy-spork | 0 | 0| 
 | 20210907T22:52:58Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 314 | 77| 
-| 20210907T22:07:37Z | Repo for the New HI-SPACE project. Named because fuzzy-octo-robot is much more fun than %new-hi-space%, and since this is a personal project I choose fun :)  | https://github.com/ahope/fuzzy-octo-robot | 0 | 0| 
 
 
 
