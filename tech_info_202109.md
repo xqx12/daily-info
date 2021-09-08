@@ -98,31 +98,31 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210908T09:40:01Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 308 | 57| 
+| 20210908T08:59:28Z | Official implementation of the EMNLP 2021 paper %ONION: A Simple and Effective Defense Against Textual Backdoor Attacks% | https://github.com/thunlp/ONION | 0 | 0| 
+| 20210908T08:52:10Z | Backdoored Plugin for anarchy servers  | https://github.com/ssllllll/Backdoored-Plugin | 3 | 1| 
+| 20210908T05:53:30Z | Python botnet and backdoor | https://github.com/sweetsoftware/Ares | 1128 | 445| 
+| 20210908T03:00:49Z | Null | https://github.com/Huiying-Li/Latent-Backdoor | 0 | 0| 
+| 20210908T02:32:04Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 6547 | 1655| 
 | 20210908T01:32:00Z | Backdoor utilizando criptografia Xor para evitar detecção | https://github.com/andreyquerino/Backdoor-Indetectavel | 0 | 0| 
 | 20210908T00:09:41Z | PyIris-backdoor is a modular, stealthy and flexible remote-access-toolkit written completely in python used to command and control other systems. It is now in the beta stage, possibly perpetually. There are bugs still present in the framework, feel free to contribute or help me out with this project its still under active development >_> | https://github.com/angus-y/PyIris-backdoor | 169 | 53| 
 | 20210907T23:31:36Z | Null | https://github.com/ammarin25455/Remote-Desktop-Backdoor | 0 | 0| 
-| 20210907T23:24:40Z | Backdoored Plugin for anarchy servers  | https://github.com/ssllllll/Backdoored-Plugin | 2 | 1| 
-| 20210907T23:15:48Z | Null | https://github.com/Huiying-Li/Latent-Backdoor | 0 | 0| 
 | 20210907T13:36:28Z | Nuker bot and backdoor for admin perms and such | https://github.com/ESYT2021/discord-bot-backdoor | 0 | 0| 
-| 20210907T13:20:51Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 307 | 57| 
-| 20210907T12:50:06Z | Code and data of the EMNLP 2021 paper %Mind the Style of Text! Adversarial and Backdoor Attacks Based on Text Style Transfer% | https://github.com/thunlp/StyleAttack | 0 | 0| 
-| 20210907T12:44:18Z | Unofficial pytorch implementation of RobNet(Defense-Resistant Backdoor Attacks on DNN) | https://github.com/dhkim2810/RobNet | 0 | 0| 
-| 20210907T06:49:58Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 6546 | 1655| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210908T10:55:29Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2448 | 362| 
+| 20210908T10:39:35Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 157 | 34| 
+| 20210908T08:47:11Z | A toy symbolic execution engine, supporting the blog article ... | https://github.com/synacktiv/toy-wasm-symbexp | 8 | 2| 
+| 20210908T06:12:34Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 462 | 70| 
 | 20210908T01:36:06Z | Symbolica%s open-source symbolic execution engine. | https://github.com/SymbolicaDev/Symbolica | 8 | 1| 
-| 20210907T17:46:36Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2446 | 363| 
 | 20210906T16:51:31Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 27 | 5| 
-| 20210906T13:10:33Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 157 | 34| 
 | 20210906T03:28:16Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1882 | 391| 
 | 20210906T02:29:21Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 148 | 37| 
 | 20210905T20:04:41Z | Use on-demand control- data- flow slicing combined with taint analysis and symbolic execution to produce scalable and precise UB detection for Linux kernel. | https://github.com/RiS3-Lab/kubo | 10 | 3| 
-| 20210905T17:14:39Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 461 | 70| 
 | 20210905T11:31:53Z | 👓 Yet another binary vulnerbilities checker. An automated vulnerability scanner for ELF based on symbolic execution. | https://github.com/dev2ero/BinV | 17 | 5| 
-| 20210905T07:25:06Z | Symbolic execution of LLVM IR with an engine written in Rust | https://github.com/PLSysSec/haybale | 326 | 16| 
 
 
 # big4 on Github 推荐

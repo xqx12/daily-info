@@ -69,6 +69,12 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210908T09:40:01Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 308 | 57| 
+| 20210908T08:59:28Z | Official implementation of the EMNLP 2021 paper %ONION: A Simple and Effective Defense Against Textual Backdoor Attacks% | https://github.com/thunlp/ONION | 0 | 0| 
+| 20210908T08:52:10Z | Backdoored Plugin for anarchy servers  | https://github.com/ssllllll/Backdoored-Plugin | 3 | 1| 
+| 20210908T05:53:30Z | Python botnet and backdoor | https://github.com/sweetsoftware/Ares | 1128 | 445| 
+| 20210908T03:00:49Z | Null | https://github.com/Huiying-Li/Latent-Backdoor | 0 | 0| 
+| 20210908T02:32:04Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 6547 | 1655| 
 | 20210908T01:32:00Z | Backdoor utilizando criptografia Xor para evitar detecção | https://github.com/andreyquerino/Backdoor-Indetectavel | 0 | 0| 
 | 20210908T00:09:41Z | PyIris-backdoor is a modular, stealthy and flexible remote-access-toolkit written completely in python used to command and control other systems. It is now in the beta stage, possibly perpetually. There are bugs still present in the framework, feel free to contribute or help me out with this project its still under active development >_> | https://github.com/angus-y/PyIris-backdoor | 169 | 53| 
 
@@ -76,6 +82,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210908T10:55:29Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2448 | 362| 
+| 20210908T10:39:35Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 157 | 34| 
+| 20210908T08:47:11Z | A toy symbolic execution engine, supporting the blog article ... | https://github.com/synacktiv/toy-wasm-symbexp | 8 | 2| 
+| 20210908T06:12:34Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 462 | 70| 
 | 20210908T01:36:06Z | Symbolica%s open-source symbolic execution engine. | https://github.com/SymbolicaDev/Symbolica | 8 | 1| 
 
 
