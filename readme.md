@@ -35,7 +35,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210908T22:37:18Z | CVE-2021-40346 | CVE-2021-40346 PoC (HAProxy HTTP Smuggling) | https://github.com/knqyf263/CVE-2021-40346 | An integer overflow exists in HAProxy 2.0 through 2.5 in the htx_add_header() can be exploited to perform an HTTP request smuggling attack, allowing an attacker to bypass all configured http-request HAProxy ACLs and possibly other ACLs.| 
 | 20210908T19:21:11Z | CVE-2021-28476 | tools for automate configure Ubuntu 20.04 enviroment for testing CVE-2021-28476. | https://github.com/sh4m2hwz/CVE-2021-28476-tools-env | Hyper-V Remote Code Execution Vulnerability| 
-| 20210908T17:29:07Z | CVE-2021-26084 | CVE-2021-26084 patch as provided in "Confluence Security Advisory - 2021-08-25" | https://github.com/nizarbamida/CVE-2021-26084-patch- | 未查询到CVE信息| 
+| 20210908T17:29:07Z | CVE-2021-26084 | CVE-2021-26084 patch as provided in "Confluence Security Advisory - 2021-08-25" | https://github.com/nizarbamida/CVE-2021-26084-patch- | In affected versions of Confluence Server and Data Center, an OGNL injection vulnerability exists that would allow an unauthenticated attacker to execute arbitrary code on a Confluence Server or Data Center instance. The affected versions are before version 6.13.23, from version 6.14.0 before 7.4.11, from version 7.5.0 before 7.11.6, and from version 7.12.0 before 7.12.5.| 
 | 20210908T13:40:04Z | CVE-2021-26084 | CVE-2021-26084 - Confluence Server Webwork OGNL injection (Pre-Auth RCE) | https://github.com/taythebot/CVE-2021-26084 | In affected versions of Confluence Server and Data Center, an OGNL injection vulnerability exists that would allow an unauthenticated attacker to execute arbitrary code on a Confluence Server or Data Center instance. The affected versions are before version 6.13.23, from version 6.14.0 before 7.4.11, from version 7.5.0 before 7.11.6, and from version 7.12.0 before 7.12.5.| 
 | 20210908T11:56:46Z | CVE-2021- | Null | https://github.com/evildrummer/CVE-2021-XYZ2 | 未查询到CVE信息| 
 | 20210908T11:56:13Z | CVE-2021- | Null | https://github.com/evildrummer/CVE-2021-XYZ | 未查询到CVE信息| 
@@ -61,7 +61,6 @@
 | --- | --- | --- | --- | ---| 
 | 20210908T23:44:50Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 3897 | 538| 
 | 20210908T23:23:30Z | Find exposed API keys based on RegEx and get exploitation methods for some of keys that are found | https://github.com/sdushantha/dora | 43 | 5| 
-| 20210908T23:02:28Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 30 | 17| 
 | 20210908T22:32:54Z | Null | https://github.com/vlasebian/predicting-exploitation-of-cves | 0 | 0| 
 | 20210908T21:49:07Z | Desenvolvendo exploits x86 para linux | https://github.com/git-cardoso/Desenvolvimento_exploits_x86 | 0 | 0| 
 | 20210908T21:31:14Z | Null | https://github.com/SerumTechnology/Serum-Word-Exploit-Builder-Almost-FUD | 1 | 0| 
@@ -69,6 +68,7 @@
 | 20210908T20:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10017 | 1673| 
 | 20210908T19:47:18Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 224 | 12| 
 | 20210908T19:43:09Z | A unique, multithreaded Slow DoS exploit against web servers that use vulnerable versions of thread-based web server software (Apache 1.x, Apache 2.x, httpd, etc.); and is effective against even some mitigation mechanisms such as poorly implemented reverse proxy servers. | https://github.com/SHUR1K-N/GETreqt-Multithreaded-Slow-DoS-Attack | 1 | 0| 
+| 20210908T19:36:25Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 78 | 13| 
 
 
 # backdoor on Github 推荐
@@ -89,10 +89,11 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210908T21:27:22Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 464 | 70| 
+| 20210908T15:38:44Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 20 | 12| 
 | 20210908T10:55:29Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2448 | 362| 
 | 20210908T10:39:35Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 157 | 34| 
 | 20210908T08:47:11Z | A toy symbolic execution engine, supporting the blog article ... | https://github.com/synacktiv/toy-wasm-symbexp | 8 | 2| 
-| 20210908T06:12:34Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 462 | 70| 
 | 20210908T01:36:06Z | Symbolica%s open-source symbolic execution engine. | https://github.com/SymbolicaDev/Symbolica | 8 | 1| 
 
 

@@ -48,14 +48,14 @@
 | --- | --- | --- | --- | ---| 
 | 20210908T22:37:18Z | CVE-2021-40346 | CVE-2021-40346 PoC (HAProxy HTTP Smuggling) | https://github.com/knqyf263/CVE-2021-40346 | An integer overflow exists in HAProxy 2.0 through 2.5 in the htx_add_header() can be exploited to perform an HTTP request smuggling attack, allowing an attacker to bypass all configured http-request HAProxy ACLs and possibly other ACLs.| 
 | 20210908T19:21:11Z | CVE-2021-28476 | tools for automate configure Ubuntu 20.04 enviroment for testing CVE-2021-28476. | https://github.com/sh4m2hwz/CVE-2021-28476-tools-env | Hyper-V Remote Code Execution Vulnerability| 
-| 20210908T17:29:07Z | CVE-2021-26084 | CVE-2021-26084 patch as provided in "Confluence Security Advisory - 2021-08-25" | https://github.com/nizarbamida/CVE-2021-26084-patch- | 未查询到CVE信息| 
+| 20210908T17:29:07Z | CVE-2021-26084 | CVE-2021-26084 patch as provided in "Confluence Security Advisory - 2021-08-25" | https://github.com/nizarbamida/CVE-2021-26084-patch- | In affected versions of Confluence Server and Data Center, an OGNL injection vulnerability exists that would allow an unauthenticated attacker to execute arbitrary code on a Confluence Server or Data Center instance. The affected versions are before version 6.13.23, from version 6.14.0 before 7.4.11, from version 7.5.0 before 7.11.6, and from version 7.12.0 before 7.12.5.| 
 | 20210908T13:40:04Z | CVE-2021-26084 | CVE-2021-26084 - Confluence Server Webwork OGNL injection (Pre-Auth RCE) | https://github.com/taythebot/CVE-2021-26084 | In affected versions of Confluence Server and Data Center, an OGNL injection vulnerability exists that would allow an unauthenticated attacker to execute arbitrary code on a Confluence Server or Data Center instance. The affected versions are before version 6.13.23, from version 6.14.0 before 7.4.11, from version 7.5.0 before 7.11.6, and from version 7.12.0 before 7.12.5.| 
 | 20210908T11:56:46Z | CVE-2021- | Null | https://github.com/evildrummer/CVE-2021-XYZ2 | 未查询到CVE信息| 
 | 20210908T11:56:13Z | CVE-2021- | Null | https://github.com/evildrummer/CVE-2021-XYZ | 未查询到CVE信息| 
 | 20210908T11:04:56Z | CVE-2021-26084 | Exploit CVE 2021 26084 Confluence | https://github.com/dock0d1/CVE-2021-26084_Confluence | In affected versions of Confluence Server and Data Center, an OGNL injection vulnerability exists that would allow an unauthenticated attacker to execute arbitrary code on a Confluence Server or Data Center instance. The affected versions are before version 6.13.23, from version 6.14.0 before 7.4.11, from version 7.5.0 before 7.11.6, and from version 7.12.0 before 7.12.5.| 
 | 20210908T09:11:13Z | CVE-2021-36563 | Null | https://github.com/Edgarloyola/CVE-2021-36563 | The CheckMK management web console (versions 1.5.0 to 2.0.0) does not sanitise user input in various parameters of the WATO module. This allows an attacker to open a backdoor on the device with HTML content and interpreted by the browser (such as JavaScript or other client-side scripts), the XSS payload will be triggered when the user accesses some specific sections of the application. In the same sense a very dangerous potential way would be when an attacker who has the monitor role (not administrator) manages to get a stored XSS to steal the secretAutomation (for the use of the API in administrator mode) and thus be able to create another administrator user who has high privileges on the CheckMK monitoring web console. Another way is that persistent XSS allows an attacker to modify the displayed content or change the victim%s information. Successful exploitation requires access to the web management interface, either with valid credentials or with a hijacked session.| 
 | 20210908T08:47:17Z | CVE-2021-40444 | Microsoft MSHTML Remote Code Execution Vulnerability CVE-2021-40444 | https://github.com/ozergoker/CVE-2021-40444 | 未查询到CVE信息| 
-| 20210907T23:02:56Z | CVE-2021-1590 | PoC for exploiting CVE-2021-1590 : A vulnerability in the implementation of the system login block-for command for Cisco NX-OS Software could allow an unauthenticated, remote attacker to cause a login process to unexpectedly restart, causing a denial of service (DoS) condition. This vulnerability is due to a logic error in the implementation of the system login block-for command when an attack is detected and acted upon. An attacker could exploit this vulnerability by performing a brute-force login attack on an affected device. A successful exploit could allow the attacker to cause a login process to reload, which could result in a delay during authentication to the affected device. | https://github.com/AlAIAL90/CVE-2021-1590 | 未查询到CVE信息| 
+| 20210907T23:02:56Z | CVE-2021-1590 | PoC for exploiting CVE-2021-1590 : A vulnerability in the implementation of the system login block-for command for Cisco NX-OS Software could allow an unauthenticated, remote attacker to cause a login process to unexpectedly restart, causing a denial of service (DoS) condition. This vulnerability is due to a logic error in the implementation of the system login block-for command when an attack is detected and acted upon. An attacker could exploit this vulnerability by performing a brute-force login attack on an affected device. A successful exploit could allow the attacker to cause a login process to reload, which could result in a delay during authentication to the affected device. | https://github.com/AlAIAL90/CVE-2021-1590 | | 
 
 
 # klee on Github 推荐
@@ -83,9 +83,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210909T00:03:01Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 30 | 17| 
 | 20210908T23:44:50Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 3897 | 538| 
 | 20210908T23:23:30Z | Find exposed API keys based on RegEx and get exploitation methods for some of keys that are found | https://github.com/sdushantha/dora | 43 | 5| 
-| 20210908T23:02:28Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 30 | 17| 
 | 20210908T22:32:54Z | Null | https://github.com/vlasebian/predicting-exploitation-of-cves | 0 | 0| 
 | 20210908T21:49:07Z | Desenvolvendo exploits x86 para linux | https://github.com/git-cardoso/Desenvolvimento_exploits_x86 | 0 | 0| 
 | 20210908T21:31:14Z | Null | https://github.com/SerumTechnology/Serum-Word-Exploit-Builder-Almost-FUD | 1 | 0| 
@@ -113,16 +113,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210908T21:27:22Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 464 | 70| 
+| 20210908T15:38:44Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 20 | 12| 
 | 20210908T10:55:29Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2448 | 362| 
 | 20210908T10:39:35Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 157 | 34| 
 | 20210908T08:47:11Z | A toy symbolic execution engine, supporting the blog article ... | https://github.com/synacktiv/toy-wasm-symbexp | 8 | 2| 
-| 20210908T06:12:34Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 462 | 70| 
 | 20210908T01:36:06Z | Symbolica%s open-source symbolic execution engine. | https://github.com/SymbolicaDev/Symbolica | 8 | 1| 
 | 20210906T16:51:31Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 27 | 5| 
 | 20210906T03:28:16Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1882 | 391| 
 | 20210906T02:29:21Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 148 | 37| 
 | 20210905T20:04:41Z | Use on-demand control- data- flow slicing combined with taint analysis and symbolic execution to produce scalable and precise UB detection for Linux kernel. | https://github.com/RiS3-Lab/kubo | 10 | 3| 
-| 20210905T11:31:53Z | 👓 Yet another binary vulnerbilities checker. An automated vulnerability scanner for ELF based on symbolic execution. | https://github.com/dev2ero/BinV | 17 | 5| 
 
 
 # big4 on Github 推荐
@@ -134,6 +134,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210909T00:04:33Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 22 | 9| 
 | 20210908T23:04:40Z | Transformation-based fuzzer extension for PortSwigger Burp Suite | https://github.com/0xquad/burpsuite-extensions | 0 | 0| 
 | 20210908T23:02:15Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210908T22:58:25Z | Null | https://github.com/FusionFuzz/FusionFuzz | 0 | 0| 
@@ -143,7 +144,6 @@
 | 20210908T21:47:13Z | a simplified means to CRUD ephemeral user-scoped EC2 instances | https://github.com/rstudio/fuzzbucket | 3 | 1| 
 | 20210908T21:44:31Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210908T21:24:33Z | An investigation of American Fuzzy Lop++ as a fuzzer | https://github.com/hark130/hardy-remix | 0 | 0| 
-| 20210908T21:14:08Z | Null | https://github.com/episaputra/fuzzy-AHP | 0 | 0| 
 
 
 
