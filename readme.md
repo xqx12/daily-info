@@ -111,10 +111,10 @@
 | 20210908T22:53:28Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1050 | 115| 
 | 20210908T22:24:48Z | Null | https://github.com/fghanduri1/interpretability-fuzzy-system | 0 | 0| 
 | 20210908T22:07:34Z | Null | https://github.com/forallfuzzers/fuzzers | 0 | 1| 
-| 20210908T21:47:13Z | a simplified means to CRUD ephemeral user-scoped EC2 instances | https://github.com/rstudio/fuzzbucket | 3 | 1| 
 | 20210908T21:44:31Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210908T21:24:33Z | An investigation of American Fuzzy Lop++ as a fuzzer | https://github.com/hark130/hardy-remix | 0 | 0| 
 | 20210908T21:14:08Z | Null | https://github.com/episaputra/fuzzy-AHP | 0 | 0| 
+| 20210908T21:12:23Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6634 | 1358| 
 
 
 

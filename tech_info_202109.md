@@ -134,6 +134,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210909T00:21:32Z | a simplified means to CRUD ephemeral user-scoped EC2 instances | https://github.com/rstudio/fuzzbucket | 3 | 1| 
 | 20210909T00:11:43Z | Null | https://github.com/journeyman32/fuzzy-computing-machine | 0 | 0| 
 | 20210909T00:06:47Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 22 | 9| 
 | 20210908T23:04:40Z | Transformation-based fuzzer extension for PortSwigger Burp Suite | https://github.com/0xquad/burpsuite-extensions | 0 | 0| 
@@ -142,7 +143,6 @@
 | 20210908T22:53:28Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1050 | 115| 
 | 20210908T22:24:48Z | Null | https://github.com/fghanduri1/interpretability-fuzzy-system | 0 | 0| 
 | 20210908T22:07:34Z | Null | https://github.com/forallfuzzers/fuzzers | 0 | 1| 
-| 20210908T21:47:13Z | a simplified means to CRUD ephemeral user-scoped EC2 instances | https://github.com/rstudio/fuzzbucket | 3 | 1| 
 | 20210908T21:44:31Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 
 
