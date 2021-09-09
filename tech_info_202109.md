@@ -49,7 +49,7 @@
 | 20210909T00:30:51Z | CVE-2021-40444 | Microsoft MSHTML Remote Code Execution Vulnerability CVE-2021-40444 | https://github.com/ozergoker/CVE-2021-40444 | 未查询到CVE信息| 
 | 20210908T22:37:18Z | CVE-2021-40346 | CVE-2021-40346 PoC (HAProxy HTTP Smuggling) | https://github.com/knqyf263/CVE-2021-40346 | An integer overflow exists in HAProxy 2.0 through 2.5 in the htx_add_header() can be exploited to perform an HTTP request smuggling attack, allowing an attacker to bypass all configured http-request HAProxy ACLs and possibly other ACLs.| 
 | 20210908T19:21:11Z | CVE-2021-28476 | tools for automate configure Ubuntu 20.04 enviroment for testing CVE-2021-28476. | https://github.com/sh4m2hwz/CVE-2021-28476-tools-env | Hyper-V Remote Code Execution Vulnerability| 
-| 20210908T17:29:07Z | CVE-2021-26084 | CVE-2021-26084 patch as provided in "Confluence Security Advisory - 2021-08-25" | https://github.com/nizarbamida/CVE-2021-26084-patch- | In affected versions of Confluence Server and Data Center, an OGNL injection vulnerability exists that would allow an unauthenticated attacker to execute arbitrary code on a Confluence Server or Data Center instance. The affected versions are before version 6.13.23, from version 6.14.0 before 7.4.11, from version 7.5.0 before 7.11.6, and from version 7.12.0 before 7.12.5.| 
+| 20210908T17:29:07Z | CVE-2021-26084 | CVE-2021-26084 patch as provided in "Confluence Security Advisory - 2021-08-25" | https://github.com/nizarbamida/CVE-2021-26084-patch- | | 
 | 20210908T13:40:04Z | CVE-2021-26084 | CVE-2021-26084 - Confluence Server Webwork OGNL injection (Pre-Auth RCE) | https://github.com/taythebot/CVE-2021-26084 | In affected versions of Confluence Server and Data Center, an OGNL injection vulnerability exists that would allow an unauthenticated attacker to execute arbitrary code on a Confluence Server or Data Center instance. The affected versions are before version 6.13.23, from version 6.14.0 before 7.4.11, from version 7.5.0 before 7.11.6, and from version 7.12.0 before 7.12.5.| 
 | 20210908T11:56:46Z | CVE-2021- | Null | https://github.com/evildrummer/CVE-2021-XYZ2 | 未查询到CVE信息| 
 | 20210908T11:56:13Z | CVE-2021- | Null | https://github.com/evildrummer/CVE-2021-XYZ | 未查询到CVE信息| 
@@ -83,6 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210909T00:52:37Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 22 | 14| 
 | 20210909T00:21:23Z | Collection of Discord hacking tools/fun stuff/exploits that I developed using NodeJS. | https://github.com/I2rys/ODiscord | 2 | 1| 
 | 20210909T00:03:01Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 30 | 17| 
 | 20210908T23:44:50Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 3897 | 538| 
@@ -92,13 +93,12 @@
 | 20210908T21:31:14Z | Null | https://github.com/SerumTechnology/Serum-Word-Exploit-Builder-Almost-FUD | 1 | 0| 
 | 20210908T20:38:34Z | Violent Fungus is a command and control (C2) software suite, providing red teams post-exploitation persistence and other juicy stuff. WIP. | https://github.com/sogonsec/ViolentFungus-C2 | 13 | 0| 
 | 20210908T20:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10017 | 1673| 
-| 20210908T19:47:18Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 224 | 12| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210909T00:13:14Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 95 | 17| 
+| 20210909T00:53:09Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 95 | 17| 
 | 20210908T23:26:05Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 6548 | 1656| 
 | 20210908T20:49:06Z | This is the documentation of the Tensorflow/Keras implementation of Latent Backdoor Attacks. Please see the paper for details Latent Backdoor Attacks on Deep Neural Networks, CCS%19. | https://github.com/Huiying-Li/Latent-Backdoor | 1 | 0| 
 | 20210908T20:00:38Z | Null | https://github.com/thesaep/MyBackdoorListener | 0 | 0| 
@@ -134,6 +134,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210909T00:55:36Z | Null | https://github.com/chu-data-lab/AutomaticFuzzyJoin | 5 | 0| 
 | 20210909T00:42:52Z | Sound and Cost-effective Fuzzing of Stripped Binaries by Incremental and Stochastic Rewriting | https://github.com/ZhangZhuoSJTU/StochFuzz | 88 | 3| 
 | 20210909T00:39:58Z | ant4g0nist%s blog | https://github.com/ant4g0nist/fuzzing.science | 4 | 1| 
 | 20210909T00:29:29Z | Null | https://github.com/igorsodre/fuzzy-trader | 0 | 0| 
@@ -143,7 +144,6 @@
 | 20210908T23:04:40Z | Transformation-based fuzzer extension for PortSwigger Burp Suite | https://github.com/0xquad/burpsuite-extensions | 0 | 0| 
 | 20210908T23:02:15Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210908T22:58:25Z | Null | https://github.com/FusionFuzz/FusionFuzz | 0 | 0| 
-| 20210908T22:53:28Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1050 | 115| 
 
 
 
