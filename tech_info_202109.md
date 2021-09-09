@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210909T01:09:34Z | CVE-2021-3129 | Laravel <= v8.4.2 debug mode: Remote code execution (CVE-2021-3129) | https://github.com/zhzyker/CVE-2021-3129 | Ignition before 2.5.2, as used in Laravel and other products, allows unauthenticated remote attackers to execute arbitrary code because of insecure usage of file_get_contents() and file_put_contents(). This is exploitable on sites using debug mode with Laravel before 8.4.2.| 
 | 20210909T00:30:51Z | CVE-2021-40444 | Microsoft MSHTML Remote Code Execution Vulnerability CVE-2021-40444 | https://github.com/ozergoker/CVE-2021-40444 | 未查询到CVE信息| 
 | 20210908T22:37:18Z | CVE-2021-40346 | CVE-2021-40346 PoC (HAProxy HTTP Smuggling) | https://github.com/knqyf263/CVE-2021-40346 | An integer overflow exists in HAProxy 2.0 through 2.5 in the htx_add_header() can be exploited to perform an HTTP request smuggling attack, allowing an attacker to bypass all configured http-request HAProxy ACLs and possibly other ACLs.| 
 | 20210908T19:21:11Z | CVE-2021-28476 | tools for automate configure Ubuntu 20.04 enviroment for testing CVE-2021-28476. | https://github.com/sh4m2hwz/CVE-2021-28476-tools-env | Hyper-V Remote Code Execution Vulnerability| 
@@ -55,7 +56,6 @@
 | 20210908T11:56:13Z | CVE-2021- | Null | https://github.com/evildrummer/CVE-2021-XYZ | 未查询到CVE信息| 
 | 20210908T11:04:56Z | CVE-2021-26084 | Exploit CVE 2021 26084 Confluence | https://github.com/dock0d1/CVE-2021-26084_Confluence | In affected versions of Confluence Server and Data Center, an OGNL injection vulnerability exists that would allow an unauthenticated attacker to execute arbitrary code on a Confluence Server or Data Center instance. The affected versions are before version 6.13.23, from version 6.14.0 before 7.4.11, from version 7.5.0 before 7.11.6, and from version 7.12.0 before 7.12.5.| 
 | 20210908T09:11:13Z | CVE-2021-36563 | Null | https://github.com/Edgarloyola/CVE-2021-36563 | The CheckMK management web console (versions 1.5.0 to 2.0.0) does not sanitise user input in various parameters of the WATO module. This allows an attacker to open a backdoor on the device with HTML content and interpreted by the browser (such as JavaScript or other client-side scripts), the XSS payload will be triggered when the user accesses some specific sections of the application. In the same sense a very dangerous potential way would be when an attacker who has the monitor role (not administrator) manages to get a stored XSS to steal the secretAutomation (for the use of the API in administrator mode) and thus be able to create another administrator user who has high privileges on the CheckMK monitoring web console. Another way is that persistent XSS allows an attacker to modify the displayed content or change the victim%s information. Successful exploitation requires access to the web management interface, either with valid credentials or with a hijacked session.| 
-| 20210907T23:02:56Z | CVE-2021-1590 | PoC for exploiting CVE-2021-1590 : A vulnerability in the implementation of the system login block-for command for Cisco NX-OS Software could allow an unauthenticated, remote attacker to cause a login process to unexpectedly restart, causing a denial of service (DoS) condition. This vulnerability is due to a logic error in the implementation of the system login block-for command when an attack is detected and acted upon. An attacker could exploit this vulnerability by performing a brute-force login attack on an affected device. A successful exploit could allow the attacker to cause a login process to reload, which could result in a delay during authentication to the affected device. | https://github.com/AlAIAL90/CVE-2021-1590 | A vulnerability in the implementation of the system login block-for command for Cisco NX-OS Software could allow an unauthenticated, remote attacker to cause a login process to unexpectedly restart, causing a denial of service (DoS) condition. This vulnerability is due to a logic error in the implementation of the system login block-for command when an attack is detected and acted upon. An attacker could exploit this vulnerability by performing a brute-force login attack on an affected device. A successful exploit could allow the attacker to cause a login process to reload, which could result in a delay during authentication to the affected device.| 
 
 
 # klee on Github 推荐
@@ -83,23 +83,23 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210909T01:58:58Z | Exploiting Causal Structure for Transportability in Online, Multi-Agent Environments | https://github.com/axelbrowne/ECS4TOMAE | 0 | 0| 
+| 20210909T01:42:21Z | Find exposed API keys based on RegEx and get exploitation methods for some of keys that are found | https://github.com/sdushantha/dora | 44 | 5| 
+| 20210909T01:40:33Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 343 | 51| 
+| 20210909T01:12:53Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 3899 | 538| 
+| 20210909T01:03:16Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 30 | 17| 
 | 20210909T00:52:37Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 22 | 14| 
 | 20210909T00:21:23Z | Collection of Discord hacking tools/fun stuff/exploits that I developed using NodeJS. | https://github.com/I2rys/ODiscord | 2 | 1| 
-| 20210909T00:03:01Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 30 | 17| 
-| 20210908T23:44:50Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 3897 | 538| 
-| 20210908T23:23:30Z | Find exposed API keys based on RegEx and get exploitation methods for some of keys that are found | https://github.com/sdushantha/dora | 43 | 5| 
 | 20210908T22:32:54Z | Null | https://github.com/vlasebian/predicting-exploitation-of-cves | 0 | 0| 
 | 20210908T21:49:07Z | Desenvolvendo exploits x86 para linux | https://github.com/git-cardoso/Desenvolvimento_exploits_x86 | 0 | 0| 
 | 20210908T21:31:14Z | Null | https://github.com/SerumTechnology/Serum-Word-Exploit-Builder-Almost-FUD | 1 | 0| 
-| 20210908T20:38:34Z | Violent Fungus is a command and control (C2) software suite, providing red teams post-exploitation persistence and other juicy stuff. WIP. | https://github.com/sogonsec/ViolentFungus-C2 | 13 | 0| 
-| 20210908T20:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10017 | 1673| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20210909T00:53:09Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 95 | 17| 
-| 20210908T23:26:05Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 6548 | 1656| 
+| 20210908T23:26:05Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 6548 | 1657| 
 | 20210908T20:49:06Z | This is the documentation of the Tensorflow/Keras implementation of Latent Backdoor Attacks. Please see the paper for details Latent Backdoor Attacks on Deep Neural Networks, CCS%19. | https://github.com/Huiying-Li/Latent-Backdoor | 1 | 0| 
 | 20210908T20:00:38Z | Null | https://github.com/thesaep/MyBackdoorListener | 0 | 0| 
 | 20210908T19:54:30Z | Null | https://github.com/thesaep/MyBackdoor | 0 | 0| 
@@ -134,16 +134,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210909T00:55:36Z | Null | https://github.com/chu-data-lab/AutomaticFuzzyJoin | 5 | 0| 
+| 20210909T01:52:45Z | Null | https://github.com/chu-data-lab/AutomaticFuzzyJoin | 5 | 0| 
+| 20210909T01:34:52Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20210909T01:13:25Z | Null | https://github.com/igorsodre/fuzzy-trader | 0 | 0| 
+| 20210909T01:09:33Z | Null | https://github.com/vjrmsg/FuzzyMatcherVENV | 0 | 0| 
 | 20210909T00:42:52Z | Sound and Cost-effective Fuzzing of Stripped Binaries by Incremental and Stochastic Rewriting | https://github.com/ZhangZhuoSJTU/StochFuzz | 88 | 3| 
 | 20210909T00:39:58Z | ant4g0nist%s blog | https://github.com/ant4g0nist/fuzzing.science | 4 | 1| 
-| 20210909T00:29:29Z | Null | https://github.com/igorsodre/fuzzy-trader | 0 | 0| 
 | 20210909T00:21:32Z | a simplified means to CRUD ephemeral user-scoped EC2 instances | https://github.com/rstudio/fuzzbucket | 3 | 1| 
 | 20210909T00:11:43Z | Null | https://github.com/journeyman32/fuzzy-computing-machine | 0 | 0| 
 | 20210909T00:06:47Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 22 | 9| 
 | 20210908T23:04:40Z | Transformation-based fuzzer extension for PortSwigger Burp Suite | https://github.com/0xquad/burpsuite-extensions | 0 | 0| 
-| 20210908T23:02:15Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210908T22:58:25Z | Null | https://github.com/FusionFuzz/FusionFuzz | 0 | 0| 
 
 
 

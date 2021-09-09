@@ -58,8 +58,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210908T23:44:50Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 3897 | 538| 
-| 20210908T23:23:30Z | Find exposed API keys based on RegEx and get exploitation methods for some of keys that are found | https://github.com/sdushantha/dora | 43 | 5| 
 | 20210908T22:32:54Z | Null | https://github.com/vlasebian/predicting-exploitation-of-cves | 0 | 0| 
 | 20210908T21:49:07Z | Desenvolvendo exploits x86 para linux | https://github.com/git-cardoso/Desenvolvimento_exploits_x86 | 0 | 0| 
 | 20210908T21:31:14Z | Null | https://github.com/SerumTechnology/Serum-Word-Exploit-Builder-Almost-FUD | 1 | 0| 
@@ -68,12 +66,14 @@
 | 20210908T19:47:18Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 224 | 12| 
 | 20210908T19:43:09Z | A unique, multithreaded Slow DoS exploit against web servers that use vulnerable versions of thread-based web server software (Apache 1.x, Apache 2.x, httpd, etc.); and is effective against even some mitigation mechanisms such as poorly implemented reverse proxy servers. | https://github.com/SHUR1K-N/GETreqt-Multithreaded-Slow-DoS-Attack | 1 | 0| 
 | 20210908T19:36:25Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 78 | 13| 
+| 20210908T19:31:36Z | The project exploits the scope of macros and is vastly automated in usage.  | https://github.com/ArunNawani/Multi-regional-sales-business-analysis | 0 | 0| 
+| 20210908T19:08:53Z | Null | https://github.com/reybango/Exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210908T23:26:05Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 6548 | 1656| 
+| 20210908T23:26:05Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 6548 | 1657| 
 | 20210908T20:49:06Z | This is the documentation of the Tensorflow/Keras implementation of Latent Backdoor Attacks. Please see the paper for details Latent Backdoor Attacks on Deep Neural Networks, CCS%19. | https://github.com/Huiying-Li/Latent-Backdoor | 1 | 0| 
 | 20210908T20:00:38Z | Null | https://github.com/thesaep/MyBackdoorListener | 0 | 0| 
 | 20210908T19:54:30Z | Null | https://github.com/thesaep/MyBackdoor | 0 | 0| 
@@ -105,7 +105,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20210908T23:04:40Z | Transformation-based fuzzer extension for PortSwigger Burp Suite | https://github.com/0xquad/burpsuite-extensions | 0 | 0| 
-| 20210908T23:02:15Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210908T22:58:25Z | Null | https://github.com/FusionFuzz/FusionFuzz | 0 | 0| 
 | 20210908T22:53:28Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1050 | 115| 
 | 20210908T22:24:48Z | Null | https://github.com/fghanduri1/interpretability-fuzzy-system | 0 | 0| 
@@ -114,6 +113,7 @@
 | 20210908T21:24:33Z | An investigation of American Fuzzy Lop++ as a fuzzer | https://github.com/hark130/hardy-remix | 0 | 0| 
 | 20210908T21:14:08Z | Null | https://github.com/episaputra/fuzzy-AHP | 0 | 0| 
 | 20210908T21:12:23Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6634 | 1358| 
+| 20210908T20:55:10Z | Project I developed with Sean Snively & Arno Dasgupta for NCSU%s Undergraduate DevOps course to apply concepts learned throughout the semester. This pipeline was developed from scratch and performs automated Jenkins setup, automated build, automated testing, automated fuzzing & static analysis (developed from scratch), automated deployment to a virtualbox environment, automated delivery to Google Cloud, & canary analysis). Tools utilized: Jenkins, Ansible, Google Cloud Platform, NodeJS, & Virtualbox. | https://github.com/adchungcsc/NCSUDevopsCourseSemesterProject | 0 | 1| 
 
 
 
