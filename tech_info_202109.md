@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210908T22:37:18Z | CVE-2021-40346 | CVE-2021-40346 PoC (HAProxy HTTP Smuggling) | https://github.com/knqyf263/CVE-2021-40346 | An integer overflow exists in HAProxy 2.0 through 2.5 in the htx_add_header() can be exploited to perform an HTTP request smuggling attack, allowing an attacker to bypass all configured http-request HAProxy ACLs and possibly other ACLs.| 
+| 20210908T22:37:18Z | CVE-2021-40346 | CVE-2021-40346 PoC (HAProxy HTTP Smuggling) | https://github.com/knqyf263/CVE-2021-40346 | | 
 | 20210908T19:21:11Z | CVE-2021-28476 | tools for automate configure Ubuntu 20.04 enviroment for testing CVE-2021-28476. | https://github.com/sh4m2hwz/CVE-2021-28476-tools-env | Hyper-V Remote Code Execution Vulnerability| 
 | 20210908T17:29:07Z | CVE-2021-26084 | CVE-2021-26084 patch as provided in "Confluence Security Advisory - 2021-08-25" | https://github.com/nizarbamida/CVE-2021-26084-patch- | In affected versions of Confluence Server and Data Center, an OGNL injection vulnerability exists that would allow an unauthenticated attacker to execute arbitrary code on a Confluence Server or Data Center instance. The affected versions are before version 6.13.23, from version 6.14.0 before 7.4.11, from version 7.5.0 before 7.11.6, and from version 7.12.0 before 7.12.5.| 
 | 20210908T13:40:04Z | CVE-2021-26084 | CVE-2021-26084 - Confluence Server Webwork OGNL injection (Pre-Auth RCE) | https://github.com/taythebot/CVE-2021-26084 | In affected versions of Confluence Server and Data Center, an OGNL injection vulnerability exists that would allow an unauthenticated attacker to execute arbitrary code on a Confluence Server or Data Center instance. The affected versions are before version 6.13.23, from version 6.14.0 before 7.4.11, from version 7.5.0 before 7.11.6, and from version 7.12.0 before 7.12.5.| 
@@ -134,6 +134,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210909T00:11:43Z | Null | https://github.com/journeyman32/fuzzy-computing-machine | 0 | 0| 
 | 20210909T00:06:47Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 22 | 9| 
 | 20210908T23:04:40Z | Transformation-based fuzzer extension for PortSwigger Burp Suite | https://github.com/0xquad/burpsuite-extensions | 0 | 0| 
 | 20210908T23:02:15Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
@@ -143,7 +144,6 @@
 | 20210908T22:07:34Z | Null | https://github.com/forallfuzzers/fuzzers | 0 | 1| 
 | 20210908T21:47:13Z | a simplified means to CRUD ephemeral user-scoped EC2 instances | https://github.com/rstudio/fuzzbucket | 3 | 1| 
 | 20210908T21:44:31Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
-| 20210908T21:24:33Z | An investigation of American Fuzzy Lop++ as a fuzzer | https://github.com/hark130/hardy-remix | 0 | 0| 
 
 
 
