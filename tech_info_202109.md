@@ -98,16 +98,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210910T01:50:43Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 308 | 57| 
+| 20210910T11:04:28Z | Bot Laravel Auto Exploit And Upload Backdoor | https://github.com/tobiphoenix/laravelbot | 2 | 2| 
+| 20210910T08:57:34Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 308 | 57| 
+| 20210910T08:55:55Z | Invisible Backdoor Attack with Sample-Specific Triggers | https://github.com/yuezunli/ISSBA | 4 | 1| 
+| 20210910T08:39:37Z | Python botnet and backdoor | https://github.com/sweetsoftware/Ares | 1130 | 445| 
+| 20210910T08:30:13Z | Esse script automatiza a criação de backdoors | https://github.com/H7XX/backdoor-creator | 1 | 0| 
+| 20210910T07:22:53Z | Remote control software | https://github.com/h1zzz/purewater | 0 | 0| 
 | 20210910T01:20:30Z | Null | https://github.com/kyukazamiqq/backdoor | 0 | 0| 
-| 20210909T20:59:50Z | Esse script automatiza a criação de backdoors | https://github.com/H7XX/backdoor-creator | 0 | 0| 
 | 20210909T20:36:50Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/persianhydra/Xeexe-TopAntivirusEvasion | 549 | 126| 
-| 20210909T20:16:15Z | Python botnet and backdoor | https://github.com/sweetsoftware/Ares | 1129 | 445| 
 | 20210909T17:46:45Z | backdoor | https://github.com/Emilia-ZX/backdoor | 0 | 0| 
 | 20210909T16:27:24Z | Something I wrote for CVE-2019-15107, a Webmin backdoor | https://github.com/darrenmartyn/CVE-2019-15107 | 0 | 0| 
-| 20210909T07:13:07Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 6549 | 1657| 
-| 20210909T04:40:47Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 95 | 17| 
-| 20210909T04:08:17Z | Backdoor Attacks on Lottery Ticket Hypothesis | https://github.com/zeyuanyin/LTH-Backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐

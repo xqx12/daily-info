@@ -69,7 +69,12 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210910T01:50:43Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 308 | 57| 
+| 20210910T11:04:28Z | Bot Laravel Auto Exploit And Upload Backdoor | https://github.com/tobiphoenix/laravelbot | 2 | 2| 
+| 20210910T08:57:34Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 308 | 57| 
+| 20210910T08:55:55Z | Invisible Backdoor Attack with Sample-Specific Triggers | https://github.com/yuezunli/ISSBA | 4 | 1| 
+| 20210910T08:39:37Z | Python botnet and backdoor | https://github.com/sweetsoftware/Ares | 1130 | 445| 
+| 20210910T08:30:13Z | Esse script automatiza a criação de backdoors | https://github.com/H7XX/backdoor-creator | 1 | 0| 
+| 20210910T07:22:53Z | Remote control software | https://github.com/h1zzz/purewater | 0 | 0| 
 | 20210910T01:20:30Z | Null | https://github.com/kyukazamiqq/backdoor | 0 | 0| 
 
 
