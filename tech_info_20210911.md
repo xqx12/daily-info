@@ -82,6 +82,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210911T12:15:17Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 22 | 10| 
 | 20210911T12:01:47Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210911T11:09:31Z | 🔥 Studying The Fuzzing Book : https://www.fuzzingbook.org | https://github.com/KimSeoYe/TheFuzzingBook | 5 | 0| 
 | 20210911T10:51:14Z | React Native with MST  | https://github.com/Elter71/fuzzy-computing-machine | 0 | 0| 
@@ -91,7 +92,6 @@
 | 20210911T10:27:42Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1043 | 46| 
 | 20210911T10:14:53Z | Fuzzing tool for the 14th institute | https://github.com/Radon10043/fuzzing-tool-14 | 0 | 2| 
 | 20210911T10:07:07Z | learn and practise audio video coding stuff | https://github.com/HWilliamgo/fuzzy-video-drill | 0 | 0| 
-| 20210911T09:44:49Z | Null | https://github.com/qkenr7895/fuzz_cow | 0 | 0| 
 
 
 
