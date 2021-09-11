@@ -83,16 +83,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210911T12:02:51Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 30 | 17| 
+| 20210911T12:02:18Z | Null | https://github.com/pablogonlez16/HackTheBox_exploits | 0 | 0| 
 | 20210911T11:53:02Z | Null | https://github.com/BinaryExploiter/CTF-s-Exploits | 0 | 0| 
 | 20210911T11:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10028 | 1678| 
-| 20210911T11:02:48Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 30 | 17| 
 | 20210911T10:38:05Z | This repository contains one Roblox cheat script made by me and other scripts made by other persons which I use to exploit Roblox. | https://github.com/ezluci/Roblox-scripts | 1 | 0| 
 | 20210911T10:14:35Z | Roblox Exploit | https://github.com/zekgt/Zyrix | 0 | 0| 
 | 20210911T09:22:25Z | Null | https://github.com/nightrelax/Exploit-PoC-CVE-2021-40444-inject-ma-doc-vao-docx | 0 | 0| 
 | 20210911T09:03:12Z | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | 2886 | 632| 
 | 20210911T08:39:34Z | XSS | https://github.com/King-Sign/Javascript-Exploitation | 0 | 0| 
 | 20210911T08:13:20Z | My little repository relating to exploitation of win32 processes. | https://github.com/c0decave/Win32_Exploitation | 0 | 0| 
-| 20210911T08:09:02Z | A thorough library database to assist with binary exploitation tasks. | https://github.com/0xb0bb/karkinos | 178 | 16| 
 
 
 # backdoor on Github 推荐
@@ -113,16 +113,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210911T10:50:47Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1773 | 505| 
+| 20210911T02:43:58Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 465 | 71| 
 | 20210910T22:28:54Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 27 | 6| 
 | 20210910T20:50:31Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2449 | 363| 
 | 20210910T20:26:49Z | Symbolica%s open-source symbolic execution engine. | https://github.com/SymbolicaDev/Symbolica | 27 | 1| 
 | 20210910T16:39:45Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 655 | 65| 
-| 20210910T16:35:49Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1771 | 505| 
 | 20210910T08:39:38Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 157 | 34| 
 | 20210910T06:26:50Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1884 | 391| 
 | 20210909T11:23:55Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 20 | 12| 
 | 20210909T08:17:50Z | RAUK: Automatic Schedulability Analysis of RTIC Applications Using Symbolic Execution | https://github.com/markhakansson/master-thesis | 5 | 0| 
-| 20210909T06:42:02Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 149 | 37| 
 
 
 # big4 on Github 推荐

@@ -42,16 +42,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210911T12:02:51Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 30 | 17| 
+| 20210911T12:02:18Z | Null | https://github.com/pablogonlez16/HackTheBox_exploits | 0 | 0| 
 | 20210911T11:53:02Z | Null | https://github.com/BinaryExploiter/CTF-s-Exploits | 0 | 0| 
 | 20210911T11:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10028 | 1678| 
-| 20210911T11:02:48Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 30 | 17| 
 | 20210911T10:38:05Z | This repository contains one Roblox cheat script made by me and other scripts made by other persons which I use to exploit Roblox. | https://github.com/ezluci/Roblox-scripts | 1 | 0| 
 | 20210911T10:14:35Z | Roblox Exploit | https://github.com/zekgt/Zyrix | 0 | 0| 
 | 20210911T09:22:25Z | Null | https://github.com/nightrelax/Exploit-PoC-CVE-2021-40444-inject-ma-doc-vao-docx | 0 | 0| 
 | 20210911T09:03:12Z | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | 2886 | 632| 
 | 20210911T08:39:34Z | XSS | https://github.com/King-Sign/Javascript-Exploitation | 0 | 0| 
 | 20210911T08:13:20Z | My little repository relating to exploitation of win32 processes. | https://github.com/c0decave/Win32_Exploitation | 0 | 0| 
-| 20210911T08:09:02Z | A thorough library database to assist with binary exploitation tasks. | https://github.com/0xb0bb/karkinos | 178 | 16| 
 
 
 # backdoor on Github 推荐
@@ -70,6 +70,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210911T10:50:47Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1773 | 505| 
+| 20210911T02:43:58Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 465 | 71| 
 
 
 # big4 on Github 推荐
