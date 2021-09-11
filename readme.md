@@ -16,7 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210911T12:32:50Z | CVE-2021-40444 | CVE-2021-40444 PoC | https://github.com/lockedbyte/CVE-2021-40444 | 未查询到CVE信息| 
+| 20210911T12:39:15Z | CVE-2021-40444 | CVE-2021-40444 PoC | https://github.com/lockedbyte/CVE-2021-40444 | 未查询到CVE信息| 
 | 20210911T12:26:32Z | CVE-2021-40444 | CVE-2021-40444 Microsoft MSHTML Remote Code Execution Vulnerability | https://github.com/FanqXu/CVE-2021-40444 | 未查询到CVE信息| 
 | 20210911T10:48:05Z | CVE-2021-40444 | Null | https://github.com/Lagal1990/CVE-2021-40444-docx-Generate | 未查询到CVE信息| 
 | 20210911T10:35:22Z | CVE-2021-40444 | CVE-2021-40444 Sample  | https://github.com/Udyz/CVE-2021-40444-Sample | 未查询到CVE信息| 
@@ -82,12 +82,12 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210911T12:37:12Z | JetBrains Research intership project. | https://github.com/AnzhelaSukhanova/fuzzing_of_spacer | 0 | 0| 
 | 20210911T12:15:17Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 22 | 10| 
 | 20210911T12:01:47Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210911T11:09:31Z | 🔥 Studying The Fuzzing Book : https://www.fuzzingbook.org | https://github.com/KimSeoYe/TheFuzzingBook | 5 | 0| 
 | 20210911T10:51:14Z | React Native with MST  | https://github.com/Elter71/fuzzy-computing-machine | 0 | 0| 
 | 20210911T10:48:52Z | The Fuzzing Book Study | https://github.com/MJ-SEO/Fuzzing | 5 | 0| 
-| 20210911T10:40:03Z | JetBrains Research intership project. | https://github.com/AnzhelaSukhanova/fuzzing_of_spacer | 0 | 0| 
 | 20210911T10:36:03Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210911T10:27:42Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1043 | 46| 
 | 20210911T10:14:53Z | Fuzzing tool for the 14th institute | https://github.com/Radon10043/fuzzing-tool-14 | 0 | 2| 
