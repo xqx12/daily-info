@@ -16,7 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210911T12:26:39Z | CVE-2021-40444 | CVE-2021-40444 PoC | https://github.com/lockedbyte/CVE-2021-40444 | 未查询到CVE信息| 
+| 20210911T12:29:10Z | CVE-2021-40444 | CVE-2021-40444 PoC | https://github.com/lockedbyte/CVE-2021-40444 | 未查询到CVE信息| 
 | 20210911T12:26:32Z | CVE-2021-40444 | CVE-2021-40444 Microsoft MSHTML Remote Code Execution Vulnerability | https://github.com/FanqXu/CVE-2021-40444 | 未查询到CVE信息| 
 | 20210911T10:48:05Z | CVE-2021-40444 | Null | https://github.com/Lagal1990/CVE-2021-40444-docx-Generate | 未查询到CVE信息| 
 | 20210911T10:35:22Z | CVE-2021-40444 | CVE-2021-40444 Sample  | https://github.com/Udyz/CVE-2021-40444-Sample | 未查询到CVE信息| 
