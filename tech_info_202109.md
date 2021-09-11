@@ -135,16 +135,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210911T01:44:20Z | JIGSAW is a fuzzing-based path constraint solver. | https://github.com/R-Fuzz/jigsaw | 0 | 0| 
-| 20210911T01:35:41Z | Versi dinamis dari spk fuzzy sebelumnya, kini support setting jumlah sub kriteria | https://github.com/hudtakim/spk-wisata-fuzzy-versi2 | 1 | 0| 
-| 20210911T01:29:48Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210911T01:11:16Z | 32-bit x86 multiprocessing OS capable of running console or graphical user applications. | https://github.com/scopeInfinity/FuzzyOS | 1 | 0| 
-| 20210911T01:09:43Z | Weather dashboard app | https://github.com/ksdevinney/fuzzy-spork | 0 | 0| 
-| 20210911T01:05:01Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2036 | 401| 
-| 20210911T01:00:46Z | Browser Fuzzer 3 is designed as a hybrid framework/standalone fuzzer; the modules it uses are extensible but also highly integrated into the core. bf3 can be used via command line to set all necessary flags for each fuzzing operation.  | https://github.com/Dying-Doomer/browser-fuzzer-3 | 2 | 0| 
-| 20210910T23:20:32Z |  Fuzz Testing to Detect Platform Dependent Divergence for Heterogeneous Application (FSE 2021) | https://github.com/UCLA-SEAL/HeteroFuzz | 0 | 0| 
-| 20210910T21:25:58Z | Write unit and fuzz tests for Elm code. | https://github.com/elm-explorations/test | 204 | 29| 
-| 20210910T21:20:11Z | Code for fuzzy monkeys. | https://github.com/fuzzyatelin/fuzzyatelin.github.io | 3 | 11| 
+| 20210911T12:01:47Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
+| 20210911T11:09:31Z | 🔥 Studying The Fuzzing Book : https://www.fuzzingbook.org | https://github.com/KimSeoYe/TheFuzzingBook | 5 | 0| 
+| 20210911T10:51:14Z | React Native with MST  | https://github.com/Elter71/fuzzy-computing-machine | 0 | 0| 
+| 20210911T10:48:52Z | The Fuzzing Book Study | https://github.com/MJ-SEO/Fuzzing | 5 | 0| 
+| 20210911T10:40:03Z | JetBrains Research intership project. | https://github.com/AnzhelaSukhanova/fuzzing_of_spacer | 0 | 0| 
+| 20210911T10:36:03Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20210911T10:27:42Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1043 | 46| 
+| 20210911T10:14:53Z | Fuzzing tool for the 14th institute | https://github.com/Radon10043/fuzzing-tool-14 | 0 | 2| 
+| 20210911T10:07:07Z | learn and practise audio video coding stuff | https://github.com/HWilliamgo/fuzzy-video-drill | 0 | 0| 
+| 20210911T09:44:49Z | Null | https://github.com/qkenr7895/fuzz_cow | 0 | 0| 
 
 
 
