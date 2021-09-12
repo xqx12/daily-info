@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210912T12:00:29Z | cve-2021-40444 | Reverse engineering the "A Letter Before Court 4.docx" malicious files exploting cve-2021-40444 | https://github.com/jamesrep/cve-2021-40444 | 未查询到CVE信息| 
+| 20210912T12:00:29Z | cve-2021-40444 | Reverse engineering the "A Letter Before Court 4.docx" malicious files exploting cve-2021-40444 | https://github.com/jamesrep/cve-2021-40444 | | 
 | 20210912T12:00:10Z | CVE-2021-40444 | CVE-2021-40444 PoC | https://github.com/lockedbyte/CVE-2021-40444 | 未查询到CVE信息| 
 | 20210912T10:10:01Z | CVE-2021-40444 | CVE-2021-40444 Sample  | https://github.com/Udyz/CVE-2021-40444-Sample | 未查询到CVE信息| 
 | 20210912T08:42:14Z | CVE-2021-40346 | CVE-2021-40346 integer overflow enables http smuggling | https://github.com/donky16/CVE-2021-40346-POC | An integer overflow exists in HAProxy 2.0 through 2.5 in htx_add_header that can be exploited to perform an HTTP request smuggling attack, allowing an attacker to bypass all configured http-request HAProxy ACLs and possibly other ACLs.| 
@@ -83,6 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210912T12:04:47Z | Exploit android devices via the Android Debugging Bridge | https://github.com/kikiokol/AndroidDown | 1 | 0| 
 | 20210912T12:02:54Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 30 | 17| 
 | 20210912T11:57:22Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 5958 | 1413| 
 | 20210912T11:47:36Z | I found a way to exploit the rotation minecraft applies to certain Blocks to reconstruct coordinates from them | https://github.com/DerBejijing/BlockRotationExploit | 6 | 0| 
@@ -92,7 +93,6 @@
 | 20210912T10:57:13Z | Null | https://github.com/joeengo/exploiting | 0 | 0| 
 | 20210912T10:01:48Z | Bot Laravel Auto Exploit And Upload Backdoor | https://github.com/tobiphoenix/laravelbot | 2 | 2| 
 | 20210912T09:54:32Z | 🎻 Exploit metaprogramming: Modularized exploit generation | https://github.com/aesophor/requiem | 5 | 0| 
-| 20210912T09:35:45Z | An exploit for the continuous server-side logout | https://github.com/Lojacops/Log-out-Exploit | 1 | 0| 
 
 
 # backdoor on Github 推荐
