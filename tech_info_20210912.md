@@ -40,12 +40,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210912T12:02:54Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 30 | 17| 
 | 20210912T11:57:22Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 5958 | 1413| 
 | 20210912T11:47:36Z | I found a way to exploit the rotation minecraft applies to certain Blocks to reconstruct coordinates from them | https://github.com/DerBejijing/BlockRotationExploit | 6 | 0| 
 | 20210912T11:39:49Z | 在科研（摸鱼）过程中，收集到的或者自己写的一些有用的（经过实战检验的）exp/poc，欢迎提交issue和PR | https://github.com/ycdxsb/Exploits | 2 | 1| 
 | 20210912T11:35:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10028 | 1677| 
 | 20210912T11:22:16Z | Random scripts and exploits I used, modified or wrote. | https://github.com/0iphor13/Scripts-and-Exploits | 1 | 0| 
-| 20210912T11:02:54Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 30 | 17| 
 | 20210912T10:57:13Z | Null | https://github.com/joeengo/exploiting | 0 | 0| 
 | 20210912T10:01:48Z | Bot Laravel Auto Exploit And Upload Backdoor | https://github.com/tobiphoenix/laravelbot | 2 | 2| 
 | 20210912T09:54:32Z | 🎻 Exploit metaprogramming: Modularized exploit generation | https://github.com/aesophor/requiem | 5 | 0| 
@@ -63,6 +63,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210912T06:30:48Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1885 | 391| 
 
 
 # big4 on Github 推荐
