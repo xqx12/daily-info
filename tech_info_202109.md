@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210912T12:25:08Z | CVE-2021-3493 | 2021 kernel vulnerability in Ubuntu | https://github.com/cerodah/overlayFS-CVE-2021-3493 | The overlayfs implementation in the linux kernel did not properly validate with respect to user namespaces the setting of file capabilities on files in an underlying file system. Due to the combination of unprivileged user namespaces along with a patch carried in the Ubuntu kernel to allow unprivileged overlay mounts, an attacker could use this to gain elevated privileges.| 
 | 20210912T12:17:44Z | CVE-2021-40444 | CVE-2021-40444 PoC | https://github.com/lockedbyte/CVE-2021-40444 | 未查询到CVE信息| 
 | 20210912T12:00:29Z | cve-2021-40444 | Reverse engineering the "A Letter Before Court 4.docx" malicious files exploting cve-2021-40444 | https://github.com/jamesrep/cve-2021-40444 | 未查询到CVE信息| 
 | 20210912T10:10:01Z | CVE-2021-40444 | CVE-2021-40444 Sample  | https://github.com/Udyz/CVE-2021-40444-Sample | 未查询到CVE信息| 
@@ -55,7 +56,6 @@
 | 20210912T00:25:14Z | CVE-2021-40444 | Null | https://github.com/R0fM1a/CVE-2021-40444-pocv | 未查询到CVE信息| 
 | 20210911T20:20:39Z | CVE-2021-40845 | Null | https://github.com/ricardojoserf/CVE-2021-40845 | 未查询到CVE信息| 
 | 20210911T18:13:05Z | CVE-2020-25223 | Null | https://github.com/twentybel0w/CVE-2020-25223 | A remote code execution vulnerability exists in the WebAdmin of Sophos SG UTM before v9.705 MR5, v9.607 MR7, and v9.511 MR11| 
-| 20210911T12:26:32Z | CVE-2021-40444 | CVE-2021-40444 Microsoft MSHTML Remote Code Execution Vulnerability | https://github.com/FanqXu/CVE-2021-40444 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
