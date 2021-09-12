@@ -16,6 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210912T12:44:41Z | CVE-2021-24499 | Mass exploitation of CVE-2021-24499 unauthenticated upload leading to remote code execution. | https://github.com/RyouYoo/CVE-2021-24499 | The Workreap WordPress theme before 2.2.2 AJAX actions workreap_award_temp_file_uploader and workreap_temp_file_uploader did not perform nonce checks, or validate that the request is from a valid user in any other way. The endpoints allowed for uploading arbitrary files to the uploads/workreap-temp directory. Uploaded files were neither sanitized nor validated, allowing an unauthenticated visitor to upload executable code such as php scripts.| 
 | 20210912T12:25:08Z | CVE-2021-3493 | 2021 kernel vulnerability in Ubuntu | https://github.com/cerodah/overlayFS-CVE-2021-3493 | The overlayfs implementation in the linux kernel did not properly validate with respect to user namespaces the setting of file capabilities on files in an underlying file system. Due to the combination of unprivileged user namespaces along with a patch carried in the Ubuntu kernel to allow unprivileged overlay mounts, an attacker could use this to gain elevated privileges.| 
 | 20210912T12:17:44Z | CVE-2021-40444 | CVE-2021-40444 PoC | https://github.com/lockedbyte/CVE-2021-40444 | 未查询到CVE信息| 
 | 20210912T12:00:29Z | cve-2021-40444 | Reverse engineering the "A Letter Before Court 4.docx" malicious files exploting cve-2021-40444 | https://github.com/jamesrep/cve-2021-40444 | 未查询到CVE信息| 
@@ -41,6 +42,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210912T12:45:25Z | Mass exploitation of CVE-2021-24499 unauthenticated upload leading to remote code execution. | https://github.com/RyouYoo/CVE-2021-24499 | 0 | 0| 
 | 20210912T12:42:09Z | 🎻 Modularized exploit generation framework | https://github.com/aesophor/requiem | 5 | 0| 
 | 20210912T12:15:44Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 5958 | 1413| 
 | 20210912T12:05:50Z | Exploit android devices via the Android Debugging Bridge | https://github.com/kikiokol/AndroidDown | 1 | 0| 
@@ -50,7 +52,6 @@
 | 20210912T11:35:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10028 | 1677| 
 | 20210912T11:22:16Z | Random scripts and exploits I used, modified or wrote. | https://github.com/0iphor13/Scripts-and-Exploits | 1 | 0| 
 | 20210912T10:57:13Z | Null | https://github.com/joeengo/exploiting | 0 | 0| 
-| 20210912T10:01:48Z | Bot Laravel Auto Exploit And Upload Backdoor | https://github.com/tobiphoenix/laravelbot | 2 | 2| 
 
 
 # backdoor on Github 推荐
