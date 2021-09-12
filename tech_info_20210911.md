@@ -19,12 +19,12 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210911T20:20:39Z | CVE-2021-40845 | Null | https://github.com/ricardojoserf/CVE-2021-40845 | 未查询到CVE信息| 
-| 20210911T18:13:05Z | CVE-2020-25223 | Null | https://github.com/twentybel0w/CVE-2020-25223 | A remote code execution vulnerability exists in the WebAdmin of Sophos SG UTM before v9.705 MR5, v9.607 MR7, and v9.511 MR11| 
+| 20210911T18:13:05Z | CVE-2020-25223 | Null | https://github.com/twentybel0w/CVE-2020-25223 | 未查询到CVE信息| 
 | 20210911T16:58:05Z | CVE-2021-40444 | Null | https://github.com/Lagal1990/CVE-2021-40444-docx-Generate | 未查询到CVE信息| 
-| 20210911T14:02:10Z | CVE-2021-26084 | Confluence Server Webwork OGNL injection | https://github.com/h3v0x/CVE-2021-26084_Confluence | In affected versions of Confluence Server and Data Center, an OGNL injection vulnerability exists that would allow an unauthenticated attacker to execute arbitrary code on a Confluence Server or Data Center instance. The affected versions are before version 6.13.23, from version 6.14.0 before 7.4.11, from version 7.5.0 before 7.11.6, and from version 7.12.0 before 7.12.5.| 
+| 20210911T14:02:10Z | CVE-2021-26084 | Confluence Server Webwork OGNL injection | https://github.com/h3v0x/CVE-2021-26084_Confluence | 未查询到CVE信息| 
 | 20210911T12:26:32Z | CVE-2021-40444 | CVE-2021-40444 Microsoft MSHTML Remote Code Execution Vulnerability | https://github.com/FanqXu/CVE-2021-40444 | 未查询到CVE信息| 
 | 20210911T10:35:22Z | CVE-2021-40444 | CVE-2021-40444 Sample  | https://github.com/Udyz/CVE-2021-40444-Sample | 未查询到CVE信息| 
-| 20210911T09:47:31Z | CVE-2021-40346 | CVE-2021-40346 integer overflow enables http smuggling | https://github.com/donky16/CVE-2021-40346-POC | An integer overflow exists in HAProxy 2.0 through 2.5 in htx_add_header that can be exploited to perform an HTTP request smuggling attack, allowing an attacker to bypass all configured http-request HAProxy ACLs and possibly other ACLs.| 
+| 20210911T09:47:31Z | CVE-2021-40346 | CVE-2021-40346 integer overflow enables http smuggling | https://github.com/donky16/CVE-2021-40346-POC | 未查询到CVE信息| 
 | 20210911T09:22:25Z | CVE-2021-40444 | Null | https://github.com/nightrelax/Exploit-PoC-CVE-2021-40444-inject-ma-doc-vao-docx | 未查询到CVE信息| 
 | 20210911T07:19:37Z | CVE-2021-39115 | Template Injection in Email Templates leads to code execution on Jira Service Management Server | https://github.com/PetrusViet/CVE-2021-39115 | Affected versions of Atlassian Jira Service Management Server and Data Center allow remote attackers with %Jira Administrators% access to execute arbitrary Java code or run arbitrary system commands via a Server_Side Template Injection vulnerability in the Email Template feature. The affected versions are before version 4.13.9, and from version 4.14.0 before 4.18.0.| 
 | 20210911T02:55:42Z | CVE-2021-40444 | Null | https://github.com/fengjixuchui/CVE-2021-40444-docx-Generate | 未查询到CVE信息| 
