@@ -47,14 +47,14 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210912T12:25:08Z | CVE-2021-3493 | 2021 kernel vulnerability in Ubuntu | https://github.com/cerodah/overlayFS-CVE-2021-3493 | The overlayfs implementation in the linux kernel did not properly validate with respect to user namespaces the setting of file capabilities on files in an underlying file system. Due to the combination of unprivileged user namespaces along with a patch carried in the Ubuntu kernel to allow unprivileged overlay mounts, an attacker could use this to gain elevated privileges.| 
-| 20210912T12:17:44Z | CVE-2021-40444 | CVE-2021-40444 PoC | https://github.com/lockedbyte/CVE-2021-40444 | | 
+| 20210912T12:17:44Z | CVE-2021-40444 | CVE-2021-40444 PoC | https://github.com/lockedbyte/CVE-2021-40444 | 未查询到CVE信息| 
 | 20210912T12:00:29Z | cve-2021-40444 | Reverse engineering the "A Letter Before Court 4.docx" malicious files exploting cve-2021-40444 | https://github.com/jamesrep/cve-2021-40444 | 未查询到CVE信息| 
 | 20210912T10:10:01Z | CVE-2021-40444 | CVE-2021-40444 Sample  | https://github.com/Udyz/CVE-2021-40444-Sample | 未查询到CVE信息| 
 | 20210912T08:42:14Z | CVE-2021-40346 | CVE-2021-40346 integer overflow enables http smuggling | https://github.com/donky16/CVE-2021-40346-POC | An integer overflow exists in HAProxy 2.0 through 2.5 in htx_add_header that can be exploited to perform an HTTP request smuggling attack, allowing an attacker to bypass all configured http-request HAProxy ACLs and possibly other ACLs.| 
 | 20210912T05:12:56Z | CVE-2021-26084 | Confluence Server Webwork OGNL injection | https://github.com/h3v0x/CVE-2021-26084_Confluence | In affected versions of Confluence Server and Data Center, an OGNL injection vulnerability exists that would allow an unauthenticated attacker to execute arbitrary code on a Confluence Server or Data Center instance. The affected versions are before version 6.13.23, from version 6.14.0 before 7.4.11, from version 7.5.0 before 7.11.6, and from version 7.12.0 before 7.12.5.| 
 | 20210912T03:48:14Z | CVE-2021-40444 | Null | https://github.com/Lagal1990/CVE-2021-40444-docx-Generate | 未查询到CVE信息| 
 | 20210912T00:25:14Z | CVE-2021-40444 | Null | https://github.com/R0fM1a/CVE-2021-40444-pocv | 未查询到CVE信息| 
-| 20210911T20:20:39Z | CVE-2021-40845 | Null | https://github.com/ricardojoserf/CVE-2021-40845 | 未查询到CVE信息| 
+| 20210911T20:20:39Z | CVE-2021-40845 | Null | https://github.com/ricardojoserf/CVE-2021-40845 | | 
 | 20210911T18:13:05Z | CVE-2020-25223 | Null | https://github.com/twentybel0w/CVE-2020-25223 | A remote code execution vulnerability exists in the WebAdmin of Sophos SG UTM before v9.705 MR5, v9.607 MR7, and v9.511 MR11| 
 
 
@@ -83,6 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210912T12:42:09Z | 🎻 Modularized exploit generation framework | https://github.com/aesophor/requiem | 5 | 0| 
 | 20210912T12:15:44Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 5958 | 1413| 
 | 20210912T12:05:50Z | Exploit android devices via the Android Debugging Bridge | https://github.com/kikiokol/AndroidDown | 1 | 0| 
 | 20210912T12:02:54Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 30 | 17| 
@@ -92,7 +93,6 @@
 | 20210912T11:22:16Z | Random scripts and exploits I used, modified or wrote. | https://github.com/0iphor13/Scripts-and-Exploits | 1 | 0| 
 | 20210912T10:57:13Z | Null | https://github.com/joeengo/exploiting | 0 | 0| 
 | 20210912T10:01:48Z | Bot Laravel Auto Exploit And Upload Backdoor | https://github.com/tobiphoenix/laravelbot | 2 | 2| 
-| 20210912T09:54:32Z | 🎻 Exploit metaprogramming: Modularized exploit generation | https://github.com/aesophor/requiem | 5 | 0| 
 
 
 # backdoor on Github 推荐
