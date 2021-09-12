@@ -49,12 +49,12 @@
 | 20210912T00:50:09Z | CVE-2021-40444 | CVE-2021-40444 PoC | https://github.com/lockedbyte/CVE-2021-40444 | 未查询到CVE信息| 
 | 20210912T00:25:14Z | CVE-2021-40444 | Null | https://github.com/R0fM1a/CVE-2021-40444-pocv | 未查询到CVE信息| 
 | 20210911T20:20:39Z | CVE-2021-40845 | Null | https://github.com/ricardojoserf/CVE-2021-40845 | 未查询到CVE信息| 
-| 20210911T18:13:05Z | CVE-2020-25223 | Null | https://github.com/twentybel0w/CVE-2020-25223 | 未查询到CVE信息| 
-| 20210911T16:58:05Z | CVE-2021-40444 | Null | https://github.com/Lagal1990/CVE-2021-40444-docx-Generate | | 
-| 20210911T14:02:10Z | CVE-2021-26084 | Confluence Server Webwork OGNL injection | https://github.com/h3v0x/CVE-2021-26084_Confluence | | 
+| 20210911T18:13:05Z | CVE-2020-25223 | Null | https://github.com/twentybel0w/CVE-2020-25223 | A remote code execution vulnerability exists in the WebAdmin of Sophos SG UTM before v9.705 MR5, v9.607 MR7, and v9.511 MR11| 
+| 20210911T16:58:05Z | CVE-2021-40444 | Null | https://github.com/Lagal1990/CVE-2021-40444-docx-Generate | 未查询到CVE信息| 
+| 20210911T14:02:10Z | CVE-2021-26084 | Confluence Server Webwork OGNL injection | https://github.com/h3v0x/CVE-2021-26084_Confluence | In affected versions of Confluence Server and Data Center, an OGNL injection vulnerability exists that would allow an unauthenticated attacker to execute arbitrary code on a Confluence Server or Data Center instance. The affected versions are before version 6.13.23, from version 6.14.0 before 7.4.11, from version 7.5.0 before 7.11.6, and from version 7.12.0 before 7.12.5.| 
 | 20210911T12:26:32Z | CVE-2021-40444 | CVE-2021-40444 Microsoft MSHTML Remote Code Execution Vulnerability | https://github.com/FanqXu/CVE-2021-40444 | 未查询到CVE信息| 
-| 20210911T10:35:22Z | CVE-2021-40444 | CVE-2021-40444 Sample  | https://github.com/Udyz/CVE-2021-40444-Sample | | 
-| 20210911T09:47:31Z | CVE-2021-40346 | CVE-2021-40346 integer overflow enables http smuggling | https://github.com/donky16/CVE-2021-40346-POC | | 
+| 20210911T10:35:22Z | CVE-2021-40444 | CVE-2021-40444 Sample  | https://github.com/Udyz/CVE-2021-40444-Sample | 未查询到CVE信息| 
+| 20210911T09:47:31Z | CVE-2021-40346 | CVE-2021-40346 integer overflow enables http smuggling | https://github.com/donky16/CVE-2021-40346-POC | An integer overflow exists in HAProxy 2.0 through 2.5 in htx_add_header that can be exploited to perform an HTTP request smuggling attack, allowing an attacker to bypass all configured http-request HAProxy ACLs and possibly other ACLs.| 
 | 20210911T09:22:25Z | CVE-2021-40444 | Null | https://github.com/nightrelax/Exploit-PoC-CVE-2021-40444-inject-ma-doc-vao-docx | 未查询到CVE信息| 
 
 
@@ -83,10 +83,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210912T01:03:06Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 30 | 17| 
 | 20210912T00:50:31Z | Null | https://github.com/zenmenu/ZENITSU-EXPLOIT | 0 | 0| 
 | 20210912T00:32:20Z | Simple Tool to Temp Disable Discord Accounts , Force them to Reset their password | https://github.com/Fweak/ForceReset | 11 | 1| 
 | 20210912T00:17:31Z | ps4 jailbrake exploit | https://github.com/F1R3xS1NN3R/sebos-Ps4-exploit | 0 | 0| 
-| 20210912T00:03:19Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 30 | 17| 
 | 20210911T23:33:21Z | A (bad) C++17 pwn library for Windows & Linux | https://github.com/hugsy/pwn-- | 30 | 2| 
 | 20210911T22:49:10Z | Null | https://github.com/joeengo/exploiting | 0 | 0| 
 | 20210911T22:20:05Z | I found a way to exploit the rotation minecraft applies to certain Blocks to reconstruct coordinates from them | https://github.com/DerBejijing/BlockRotationExploit | 5 | 0| 
