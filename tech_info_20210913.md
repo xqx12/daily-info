@@ -26,16 +26,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210913T12:17:04Z | CVE-2021-40444 | CVE-2021-40444 PoC | https://github.com/lockedbyte/CVE-2021-40444 | 未查询到CVE信息| 
 | 20210913T12:16:01Z | CVE-2021-40222 | Remote Code Execution at Rittal | https://github.com/asang17/CVE-2021-40222 | Rittal CMC PU III Web management Version affected: V3.11.00_2. Version fixed: V3.17.10 is affected by a remote code execution vulnerablity. It is possible to introduce shell code to create a reverse shell in the PU-Hostname field of the TCP/IP Configuration dialog. Web application fails to sanitize user input on Network TCP/IP configuration page. This allows the attacker to inject commands as root on the device which will be executed once the data is received.| 
 | 20210913T12:15:32Z | CVE-2021-40223 | XSS Vulnerability in Rittal | https://github.com/asang17/CVE-2021-40223 | Rittal CMC PU III Web management (version V3.11.00_2) fails to sanitize user input on several parameters of the configuration (User Configuration dialog, Task Configuration dialog and set logging filter dialog). This allows an attacker to backdoor the device with HTML and browser-interpreted content (such as JavaScript or other client-side scripts). The XSS payload will be triggered when the user accesses some specific sections of the application.| 
 | 20210913T12:14:49Z | CVE-2021-34527 | PrintNightmare - Windows Print Spooler RCE/LPE Vulnerability (CVE-2021-34527, CVE-2021-1675) proof of concept exploits | https://github.com/nemo-wq/PrintNightmare-CVE-2021-34527 | Windows Print Spooler Remote Code Execution Vulnerability| 
 | 20210913T12:06:06Z | CVE-2021-40444 | This repo contain builders of cab file, html file, and docx file for CVE-2021-40444 exploit | https://github.com/aslitsecurity/CVE-2021-40444_builders | 未查询到CVE信息| 
-| 20210913T11:51:02Z | CVE-2021-40444 | CVE-2021-40444 PoC | https://github.com/lockedbyte/CVE-2021-40444 | 未查询到CVE信息| 
 | 20210913T11:14:38Z | CVE-2021-40444 | CVE-2021-40444 Sample  | https://github.com/Udyz/CVE-2021-40444-Sample | 未查询到CVE信息| 
-| 20210913T11:07:12Z | CVE-2021-24499 | Mass exploitation of CVE-2021-24499 unauthenticated upload leading to remote code execution in Workreap theme. | https://github.com/RyouYoo/CVE-2021-24499 | The Workreap WordPress theme before 2.2.2 AJAX actions workreap_award_temp_file_uploader and workreap_temp_file_uploader did not perform nonce checks, or validate that the request is from a valid user in any other way. The endpoints allowed for uploading arbitrary files to the uploads/workreap-temp directory. Uploaded files were neither sanitized nor validated, allowing an unauthenticated visitor to upload executable code such as php scripts.| 
+| 20210913T11:07:12Z | CVE-2021-24499 | Mass exploitation of CVE-2021-24499 unauthenticated upload leading to remote code execution in Workreap theme. | https://github.com/RyouYoo/CVE-2021-24499 | | 
 | 20210913T09:46:04Z | CVE-2021-40444 | POC for CVE-2021-40444 | https://github.com/khoaduynu/CVE-2021-40444 | 未查询到CVE信息| 
 | 20210913T09:29:31Z | CVE-2021-40346 | Null | https://github.com/alikarimi999/CVE-2021-40346 | An integer overflow exists in HAProxy 2.0 through 2.5 in htx_add_header that can be exploited to perform an HTTP request smuggling attack, allowing an attacker to bypass all configured http-request HAProxy ACLs and possibly other ACLs.| 
-| 20210913T09:16:55Z | CVE-2021-1234 | Null | https://github.com/sDreamForZzQ/CVE-2021-1234 | | 
+| 20210913T09:16:55Z | CVE-2021-1234 | Null | https://github.com/sDreamForZzQ/CVE-2021-1234 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
@@ -89,15 +89,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210913T01:56:02Z | code for images for networks slides | https://github.com/jomare1188/fuzzy-octo-fortnight | 0 | 0| 
-| 20210913T01:52:32Z | Sebuah proyek sistem pendukung keputusan berbasis web dengan metode Fuzzy | https://github.com/hudtakim/spk-web-based-fuzzy | 0 | 0| 
-| 20210913T01:50:17Z | Versi dinamis dari spk fuzzy sebelumnya, kini support setting jumlah sub kriteria | https://github.com/hudtakim/spk-wisata-fuzzy-versi2 | 2 | 0| 
-| 20210913T01:44:16Z | Tugas java fuzzy tsukamoto | https://github.com/PMBMBSI21/MuhammadFahrizal_Fuzzy_tsukamoto | 0 | 0| 
-| 20210913T01:00:47Z | Null | https://github.com/parimewi/fuzzy-rotary-phone | 0 | 0| 
-| 20210913T00:58:03Z | A simple python implementation of Fuzzy C-means algorithm. | https://github.com/omadson/fuzzy-c-means | 59 | 27| 
-| 20210913T00:51:37Z | Null | https://github.com/docfate111/driver-fuzzer-setup | 0 | 0| 
-| 20210913T00:49:20Z | Mystikos fuzzing and binary analysis | https://github.com/mrragava/mystikos-security | 0 | 0| 
-| 20210913T00:03:55Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 23 | 10| 
+| 20210913T12:24:35Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 539 | 50| 
+| 20210913T12:03:16Z | This repository collects scripts/tools/code for scanning vulnerability, including fuzzing, fingerprinting ... | https://github.com/sunxueliang96/Vulnerability-scan-scripts | 1 | 0| 
+| 20210913T11:27:54Z | Gentoo overlay | https://github.com/lferra/fuzzy-potato | 0 | 0| 
+| 20210913T10:48:52Z | Null | https://github.com/Aboba05ffd/fuzzy-octo-spork | 0 | 0| 
+| 20210913T10:19:48Z | Fuzzy: contains code for a Fuzzy Engine and a Dynamical Systems Simulator (DySySim). | https://github.com/josokw/Fuzzy | 2 | 0| 
+| 20210913T10:01:26Z | Null | https://github.com/jiradeto/fuzzbench-result | 0 | 0| 
+| 20210913T09:46:30Z | fuzz payload(持续更新) | https://github.com/kill02lc/fuzz-then-bypass-dict | 0 | 0| 
+| 20210913T09:42:32Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1288 | 230| 
+| 20210913T09:42:27Z | Dockerfile for peach pro with everything set up as needed  | https://github.com/vanhauser-thc/peachpro | 11 | 1| 
+| 20210913T09:42:03Z | A patched QEMU that exposes an interface for LibAFL-based fuzzers | https://github.com/AFLplusplus/qemu-libafl-bridge | 19 | 2| 
 
 
 
