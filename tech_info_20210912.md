@@ -17,14 +17,13 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210912T23:52:28Z | CVE-2021-40444 | CVE-2021-40444 Sample  | https://github.com/Udyz/CVE-2021-40444-Sample | 未查询到CVE信息| 
 | 20210912T21:01:01Z | CVE-2021-40444 | Null | https://github.com/Lagal1990/CVE-2021-40444-docx-Generate | 未查询到CVE信息| 
 | 20210912T19:54:50Z | CVE-2021-3493 | 2021 kernel vulnerability in Ubuntu. | https://github.com/cerodah/overlayFS-CVE-2021-3493 | The overlayfs implementation in the linux kernel did not properly validate with respect to user namespaces the setting of file capabilities on files in an underlying file system. Due to the combination of unprivileged user namespaces along with a patch carried in the Ubuntu kernel to allow unprivileged overlay mounts, an attacker could use this to gain elevated privileges.| 
 | 20210912T19:17:57Z | CVE-2021-24499 | Mass exploitation of CVE-2021-24499 unauthenticated upload leading to remote code execution in Workreap theme. | https://github.com/RyouYoo/CVE-2021-24499 | The Workreap WordPress theme before 2.2.2 AJAX actions workreap_award_temp_file_uploader and workreap_temp_file_uploader did not perform nonce checks, or validate that the request is from a valid user in any other way. The endpoints allowed for uploading arbitrary files to the uploads/workreap-temp directory. Uploaded files were neither sanitized nor validated, allowing an unauthenticated visitor to upload executable code such as php scripts.| 
 | 20210912T12:51:16Z | CVE-2021-40346 | CVE-2021-40346 integer overflow enables http smuggling | https://github.com/donky16/CVE-2021-40346-POC | An integer overflow exists in HAProxy 2.0 through 2.5 in htx_add_header that can be exploited to perform an HTTP request smuggling attack, allowing an attacker to bypass all configured http-request HAProxy ACLs and possibly other ACLs.| 
-| 20210912T12:00:29Z | cve-2021-40444 | Reverse engineering the "A Letter Before Court 4.docx" malicious files exploting cve-2021-40444 | https://github.com/jamesrep/cve-2021-40444 | 未查询到CVE信息| 
+| 20210912T12:00:29Z | cve-2021-40444 | Reverse engineering the "A Letter Before Court 4.docx" malicious files exploting cve-2021-40444 | https://github.com/jamesrep/cve-2021-40444 | | 
 | 20210912T05:12:56Z | CVE-2021-26084 | Confluence Server Webwork OGNL injection | https://github.com/h3v0x/CVE-2021-26084_Confluence | In affected versions of Confluence Server and Data Center, an OGNL injection vulnerability exists that would allow an unauthenticated attacker to execute arbitrary code on a Confluence Server or Data Center instance. The affected versions are before version 6.13.23, from version 6.14.0 before 7.4.11, from version 7.5.0 before 7.11.6, and from version 7.12.0 before 7.12.5.| 
-| 20210912T00:25:14Z | CVE-2021-40444 | Null | https://github.com/R0fM1a/CVE-2021-40444-pocv | | 
+| 20210912T00:25:14Z | CVE-2021-40444 | Null | https://github.com/R0fM1a/CVE-2021-40444-pocv | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
@@ -47,13 +46,13 @@
 | 20210912T23:56:25Z | LFI to RCE | https://github.com/iiSiLvEr/Exploiting-PHP_SESSION_UPLOAD_PRO-GRESS | 0 | 1| 
 | 20210912T23:51:44Z | Null | https://github.com/skynet-jpg/exploit | 0 | 0| 
 | 20210912T23:49:13Z | 持续收集国内外智能家居安全漏洞演示代码 | https://github.com/fuzzing0day/homsec-poc | 0 | 0| 
-| 20210912T23:17:34Z | includes things like equality mod | https://github.com/Wayyllon/dumb-exploit-scripts | 1 | 0| 
 | 20210912T23:00:27Z | Script executor for Roblox exploits | https://github.com/Legacy775/PipSqeak-Executor | 0 | 0| 
 | 20210912T21:17:11Z | Null | https://github.com/Kappaladi/exploitupdate | 0 | 0| 
 | 20210912T21:09:00Z | A private Da Hood exploit script | https://github.com/iamtryingtofindname/Artemis | 0 | 0| 
 | 20210912T20:35:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10029 | 1680| 
 | 20210912T19:59:14Z | Null | https://github.com/cubaaaa/fishy-fishy-squad-exploit | 0 | 0| 
 | 20210912T19:42:52Z | Null | https://github.com/MicroFox-HD/Exploits | 0 | 0| 
+| 20210912T19:17:55Z | Exploitation of CVE-2018-18925 a Remote Code Execution against the Git self hosted tool: Gogs. | https://github.com/RyouYoo/CVE-2018-18925 | 2 | 0| 
 
 
 # backdoor on Github 推荐

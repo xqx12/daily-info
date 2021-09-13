@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210913T00:32:55Z | CVE-2021-40444 | CVE-2021-40444 PoC | https://github.com/lockedbyte/CVE-2021-40444 | 未查询到CVE信息| 
-| 20210913T00:23:18Z | CVE-2021-40444 | This repo contain builders of cab file, html file, and docx file for CVE-2021-40444 exploit | https://github.com/aslitsecurity/CVE-2021-40444_builders | 未查询到CVE信息| 
-| 20210912T23:52:28Z | CVE-2021-40444 | CVE-2021-40444 Sample  | https://github.com/Udyz/CVE-2021-40444-Sample | 未查询到CVE信息| 
+| 20210913T01:58:33Z | CVE-2021-40444 | CVE-2021-40444 PoC | https://github.com/lockedbyte/CVE-2021-40444 | 未查询到CVE信息| 
+| 20210913T01:52:18Z | CVE-2021-40444 | CVE-2021-40444 Sample  | https://github.com/Udyz/CVE-2021-40444-Sample | | 
+| 20210913T01:13:28Z | CVE-2021-40444 | This repo contain builders of cab file, html file, and docx file for CVE-2021-40444 exploit | https://github.com/aslitsecurity/CVE-2021-40444_builders | 未查询到CVE信息| 
 | 20210912T21:01:01Z | CVE-2021-40444 | Null | https://github.com/Lagal1990/CVE-2021-40444-docx-Generate | 未查询到CVE信息| 
 | 20210912T19:54:50Z | CVE-2021-3493 | 2021 kernel vulnerability in Ubuntu. | https://github.com/cerodah/overlayFS-CVE-2021-3493 | The overlayfs implementation in the linux kernel did not properly validate with respect to user namespaces the setting of file capabilities on files in an underlying file system. Due to the combination of unprivileged user namespaces along with a patch carried in the Ubuntu kernel to allow unprivileged overlay mounts, an attacker could use this to gain elevated privileges.| 
 | 20210912T19:17:57Z | CVE-2021-24499 | Mass exploitation of CVE-2021-24499 unauthenticated upload leading to remote code execution in Workreap theme. | https://github.com/RyouYoo/CVE-2021-24499 | The Workreap WordPress theme before 2.2.2 AJAX actions workreap_award_temp_file_uploader and workreap_temp_file_uploader did not perform nonce checks, or validate that the request is from a valid user in any other way. The endpoints allowed for uploading arbitrary files to the uploads/workreap-temp directory. Uploaded files were neither sanitized nor validated, allowing an unauthenticated visitor to upload executable code such as php scripts.| 
 | 20210912T12:51:16Z | CVE-2021-40346 | CVE-2021-40346 integer overflow enables http smuggling | https://github.com/donky16/CVE-2021-40346-POC | An integer overflow exists in HAProxy 2.0 through 2.5 in htx_add_header that can be exploited to perform an HTTP request smuggling attack, allowing an attacker to bypass all configured http-request HAProxy ACLs and possibly other ACLs.| 
-| 20210912T12:00:29Z | cve-2021-40444 | Reverse engineering the "A Letter Before Court 4.docx" malicious files exploting cve-2021-40444 | https://github.com/jamesrep/cve-2021-40444 | 未查询到CVE信息| 
+| 20210912T12:00:29Z | cve-2021-40444 | Reverse engineering the "A Letter Before Court 4.docx" malicious files exploting cve-2021-40444 | https://github.com/jamesrep/cve-2021-40444 | | 
 | 20210912T05:12:56Z | CVE-2021-26084 | Confluence Server Webwork OGNL injection | https://github.com/h3v0x/CVE-2021-26084_Confluence | In affected versions of Confluence Server and Data Center, an OGNL injection vulnerability exists that would allow an unauthenticated attacker to execute arbitrary code on a Confluence Server or Data Center instance. The affected versions are before version 6.13.23, from version 6.14.0 before 7.4.11, from version 7.5.0 before 7.11.6, and from version 7.12.0 before 7.12.5.| 
-| 20210912T00:25:14Z | CVE-2021-40444 | Null | https://github.com/R0fM1a/CVE-2021-40444-pocv | | 
+| 20210912T00:25:14Z | CVE-2021-40444 | Null | https://github.com/R0fM1a/CVE-2021-40444-pocv | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
@@ -83,16 +83,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210913T00:23:18Z | This repo contain builders of cab file, html file, and docx file for CVE-2021-40444 exploit | https://github.com/aslitsecurity/CVE-2021-40444_builders | 1 | 0| 
+| 20210913T01:34:27Z | includes things like equality mod | https://github.com/Wayyllon/dumb-exploit-scripts | 1 | 0| 
+| 20210913T01:30:18Z | Smart Supermarket project: an IoT system to optimize supermarket processes exploiting Internet. | https://github.com/federicacitarrella/IoTProject | 0 | 0| 
+| 20210913T01:13:28Z | This repo contain builders of cab file, html file, and docx file for CVE-2021-40444 exploit | https://github.com/aslitsecurity/CVE-2021-40444_builders | 4 | 2| 
+| 20210913T01:02:55Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 31 | 18| 
 | 20210913T00:05:26Z | exploitation framework | https://github.com/pimpsquad/pimp | 0 | 0| 
-| 20210913T00:02:55Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 31 | 18| 
 | 20210912T23:56:25Z | LFI to RCE | https://github.com/iiSiLvEr/Exploiting-PHP_SESSION_UPLOAD_PRO-GRESS | 0 | 1| 
 | 20210912T23:51:44Z | Null | https://github.com/skynet-jpg/exploit | 0 | 0| 
 | 20210912T23:49:13Z | 持续收集国内外智能家居安全漏洞演示代码 | https://github.com/fuzzing0day/homsec-poc | 0 | 0| 
-| 20210912T23:17:34Z | includes things like equality mod | https://github.com/Wayyllon/dumb-exploit-scripts | 1 | 0| 
 | 20210912T23:00:27Z | Script executor for Roblox exploits | https://github.com/Legacy775/PipSqeak-Executor | 0 | 0| 
 | 20210912T21:17:11Z | Null | https://github.com/Kappaladi/exploitupdate | 0 | 0| 
-| 20210912T21:09:00Z | A private Da Hood exploit script | https://github.com/iamtryingtofindname/Artemis | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -136,16 +136,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210913T00:31:29Z | Mystikos fuzzing and binary analysis | https://github.com/mrragava/mystikos-security | 0 | 0| 
-| 20210913T00:26:46Z | Null | https://github.com/docfate111/driver-fuzzer-setup | 0 | 0| 
+| 20210913T01:56:02Z | code for images for networks slides | https://github.com/jomare1188/fuzzy-octo-fortnight | 0 | 0| 
+| 20210913T01:52:32Z | Sebuah proyek sistem pendukung keputusan berbasis web dengan metode Fuzzy | https://github.com/hudtakim/spk-web-based-fuzzy | 0 | 0| 
+| 20210913T01:50:17Z | Versi dinamis dari spk fuzzy sebelumnya, kini support setting jumlah sub kriteria | https://github.com/hudtakim/spk-wisata-fuzzy-versi2 | 2 | 0| 
+| 20210913T01:44:16Z | Tugas java fuzzy tsukamoto | https://github.com/PMBMBSI21/MuhammadFahrizal_Fuzzy_tsukamoto | 0 | 0| 
+| 20210913T01:00:47Z | Null | https://github.com/parimewi/fuzzy-rotary-phone | 0 | 0| 
+| 20210913T00:58:03Z | A simple python implementation of Fuzzy C-means algorithm. | https://github.com/omadson/fuzzy-c-means | 59 | 27| 
+| 20210913T00:51:37Z | Null | https://github.com/docfate111/driver-fuzzer-setup | 0 | 0| 
+| 20210913T00:49:20Z | Mystikos fuzzing and binary analysis | https://github.com/mrragava/mystikos-security | 0 | 0| 
 | 20210913T00:03:55Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 23 | 10| 
 | 20210912T23:36:16Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6639 | 1358| 
-| 20210912T23:29:35Z | Highly experimental parser that calculates the way a pattern best matches a text, and how closely it matches the text, rather than calculates a binary match or parse error. | https://github.com/SamRoberts/fuzzy | 0 | 0| 
-| 20210912T22:55:41Z | Null | https://github.com/AmeliaYeah/dns-host-directory-fuzz | 0 | 0| 
-| 20210912T22:41:38Z | Formal verification and fuzzing of Nova with DappTools. | https://github.com/Rari-Capital/nova-invariants | 3 | 0| 
-| 20210912T22:15:15Z | Open your projects in tmux, with sweet coconut magic | https://github.com/gma/tmux-fuzzy-launcher | 0 | 0| 
-| 20210912T21:14:12Z | Fuzzinator Random Testing Framework | https://github.com/renatahodovan/fuzzinator | 177 | 38| 
-| 20210912T21:13:34Z | Linux Kernel Snapshot Fuzzer using KVM | https://github.com/SmoothHacker/LateRegistration | 0 | 0| 
 
 
 
