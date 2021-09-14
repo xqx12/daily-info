@@ -29,9 +29,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210913T23:59:59Z | CVE-2021-40444 | CVE-2021-40444 PoC | https://github.com/lockedbyte/CVE-2021-40444 | 未查询到CVE信息| 
-| 20210913T23:57:02Z | CVE-2021-40444 | CVE-2021-40444 Sample  | https://github.com/Udyz/CVE-2021-40444-Sample | 未查询到CVE信息| 
-| 20210913T20:57:31Z | CVE-2021-40444 | This repo contain builders of cab file, html file, and docx file for CVE-2021-40444 exploit | https://github.com/aslitsecurity/CVE-2021-40444_builders | 未查询到CVE信息| 
 | 20210913T20:46:21Z | CVE-2021-40346 | Null | https://github.com/alikarimi999/CVE-2021-40346 | An integer overflow exists in HAProxy 2.0 through 2.5 in htx_add_header that can be exploited to perform an HTTP request smuggling attack, allowing an attacker to bypass all configured http-request HAProxy ACLs and possibly other ACLs.| 
 | 20210913T15:29:28Z | CVE-2021-40444 | Null | https://github.com/Lagal1990/CVE-2021-40444-docx-Generate | 未查询到CVE信息| 
 | 20210913T12:16:01Z | CVE-2021-40222 | Remote Code Execution at Rittal | https://github.com/asang17/CVE-2021-40222 | Rittal CMC PU III Web management Version affected: V3.11.00_2. Version fixed: V3.17.10 is affected by a remote code execution vulnerablity. It is possible to introduce shell code to create a reverse shell in the PU-Hostname field of the TCP/IP Configuration dialog. Web application fails to sanitize user input on Network TCP/IP configuration page. This allows the attacker to inject commands as root on the device which will be executed once the data is received.| 
@@ -39,6 +36,9 @@
 | 20210913T12:14:49Z | CVE-2021-34527 | PrintNightmare - Windows Print Spooler RCE/LPE Vulnerability (CVE-2021-34527, CVE-2021-1675) proof of concept exploits | https://github.com/nemo-wq/PrintNightmare-CVE-2021-34527 | Windows Print Spooler Remote Code Execution Vulnerability| 
 | 20210913T11:07:12Z | CVE-2021-24499 | Mass exploitation of CVE-2021-24499 unauthenticated upload leading to remote code execution in Workreap theme. | https://github.com/RyouYoo/CVE-2021-24499 | The Workreap WordPress theme before 2.2.2 AJAX actions workreap_award_temp_file_uploader and workreap_temp_file_uploader did not perform nonce checks, or validate that the request is from a valid user in any other way. The endpoints allowed for uploading arbitrary files to the uploads/workreap-temp directory. Uploaded files were neither sanitized nor validated, allowing an unauthenticated visitor to upload executable code such as php scripts.| 
 | 20210913T09:46:04Z | CVE-2021-40444 | POC for CVE-2021-40444 | https://github.com/khoaduynu/CVE-2021-40444 | 未查询到CVE信息| 
+| 20210913T09:16:55Z | CVE-2021-1234 | Null | https://github.com/sDreamForZzQ/CVE-2021-1234 | 未查询到CVE信息| 
+| 20210913T09:13:55Z | CVE-2021-40346 | CVE-2021-40346 integer overflow enables http smuggling | https://github.com/donky16/CVE-2021-40346-POC | An integer overflow exists in HAProxy 2.0 through 2.5 in htx_add_header that can be exploited to perform an HTTP request smuggling attack, allowing an attacker to bypass all configured http-request HAProxy ACLs and possibly other ACLs.| 
+| 20210913T05:22:28Z | CVE-2021-40845 | Null | https://github.com/ricardojoserf/CVE-2021-40845 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
@@ -66,14 +66,13 @@
 | 20210913T20:28:32Z | Desenvolvendo exploits x86 para linux | https://github.com/git-cardoso/Desenvolvimento_exploits_x86 | 0 | 0| 
 | 20210913T20:01:25Z | Mass Exploit Multi Threading Candy CBT V.2.7.0.r0  | https://github.com/Jevil36239/Mass-Candy-CBT | 0 | 0| 
 | 20210913T19:11:01Z | Shell Script that runs the BlueBomb exploit of FullMetal5 for Wii  | https://github.com/ianes-gm1/Ianis-Bluebomb-Helper | 0 | 0| 
-| 20210913T18:52:41Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 22 | 14| 
 | 20210913T18:09:57Z | 🎻 Modularized exploit generation framework | https://github.com/aesophor/requiem | 5 | 0| 
+| 20210913T17:56:57Z | Un simple portefeuille qui vous laissera exploiter le STI2D a votre guise. | https://github.com/sti2d-company/wallet | 0 | 2| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210913T23:43:34Z | A simple, yet effective backdoor for any Minecraft server. | https://github.com/BookBackdoor/BookBackdoor | 6 | 2| 
 | 20210913T15:59:12Z | This script will parse an input PCAP file, pull out certificates, and analyze them. Reverse https shells can be hard to detect because unlike TCP and HTTP, the content is encrypted. To get around this and attempt some level of detection, we can analyze the handshake at the start of the connection. Meterpreter reverse https shells have randomly generated certificates, so if the issuer/domain are random charcters then we know the server is not legitimate and could be a reverse https back door | https://github.com/shailu-coder/https-backdoors | 0 | 0| 
 | 20210913T15:32:16Z | backdoor | https://github.com/Emilia-ZX/backdoor | 0 | 0| 
 | 20210913T15:31:33Z | This is an advanced backdoor, created with Python | https://github.com/Senc3951/Backdoor | 1 | 1| 
@@ -86,9 +85,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210913T09:02:34Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1887 | 392| 
+| 20210913T16:25:44Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1887 | 392| 
+| 20210913T15:21:26Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 466 | 73| 
+| 20210913T14:16:31Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2450 | 363| 
 | 20210913T08:53:38Z | Monster is a symbolic execution engine for 64-bit RISC-U code | https://github.com/cksystemsgroup/monster | 6 | 3| 
-| 20210913T03:25:17Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2450 | 363| 
 
 
 # big4 on Github 推荐

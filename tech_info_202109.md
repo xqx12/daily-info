@@ -46,21 +46,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210913T23:59:59Z | CVE-2021-40444 | CVE-2021-40444 PoC | https://github.com/lockedbyte/CVE-2021-40444 | 未查询到CVE信息| 
-| 20210913T23:57:02Z | CVE-2021-40444 | CVE-2021-40444 Sample  | https://github.com/Udyz/CVE-2021-40444-Sample | 未查询到CVE信息| 
-| 20210913T20:57:31Z | CVE-2021-40444 | This repo contain builders of cab file, html file, and docx file for CVE-2021-40444 exploit | https://github.com/aslitsecurity/CVE-2021-40444_builders | 未查询到CVE信息| 
+| 20210914T01:58:25Z | CVE-2021-40444 | CVE-2021-40444 PoC | https://github.com/lockedbyte/CVE-2021-40444 | 未查询到CVE信息| 
+| 20210914T01:57:18Z | CVE-2021-40444 | This repo contain builders of cab file, html file, and docx file for CVE-2021-40444 exploit | https://github.com/aslitsecurity/CVE-2021-40444_builders | 未查询到CVE信息| 
+| 20210914T01:51:17Z | 未知编号 | Null | https://github.com/aydianosec/CVE2021-40444 | 未查询到CVE信息| 
+| 20210914T01:41:02Z | CVE-2021-40444 | CVE-2021-40444 Sample  | https://github.com/Udyz/CVE-2021-40444-Sample | 未查询到CVE信息| 
 | 20210913T20:46:21Z | CVE-2021-40346 | Null | https://github.com/alikarimi999/CVE-2021-40346 | An integer overflow exists in HAProxy 2.0 through 2.5 in htx_add_header that can be exploited to perform an HTTP request smuggling attack, allowing an attacker to bypass all configured http-request HAProxy ACLs and possibly other ACLs.| 
 | 20210913T15:29:28Z | CVE-2021-40444 | Null | https://github.com/Lagal1990/CVE-2021-40444-docx-Generate | 未查询到CVE信息| 
 | 20210913T12:16:01Z | CVE-2021-40222 | Remote Code Execution at Rittal | https://github.com/asang17/CVE-2021-40222 | Rittal CMC PU III Web management Version affected: V3.11.00_2. Version fixed: V3.17.10 is affected by a remote code execution vulnerablity. It is possible to introduce shell code to create a reverse shell in the PU-Hostname field of the TCP/IP Configuration dialog. Web application fails to sanitize user input on Network TCP/IP configuration page. This allows the attacker to inject commands as root on the device which will be executed once the data is received.| 
 | 20210913T12:15:32Z | CVE-2021-40223 | XSS Vulnerability in Rittal | https://github.com/asang17/CVE-2021-40223 | Rittal CMC PU III Web management (version V3.11.00_2) fails to sanitize user input on several parameters of the configuration (User Configuration dialog, Task Configuration dialog and set logging filter dialog). This allows an attacker to backdoor the device with HTML and browser-interpreted content (such as JavaScript or other client-side scripts). The XSS payload will be triggered when the user accesses some specific sections of the application.| 
 | 20210913T12:14:49Z | CVE-2021-34527 | PrintNightmare - Windows Print Spooler RCE/LPE Vulnerability (CVE-2021-34527, CVE-2021-1675) proof of concept exploits | https://github.com/nemo-wq/PrintNightmare-CVE-2021-34527 | Windows Print Spooler Remote Code Execution Vulnerability| 
 | 20210913T11:07:12Z | CVE-2021-24499 | Mass exploitation of CVE-2021-24499 unauthenticated upload leading to remote code execution in Workreap theme. | https://github.com/RyouYoo/CVE-2021-24499 | The Workreap WordPress theme before 2.2.2 AJAX actions workreap_award_temp_file_uploader and workreap_temp_file_uploader did not perform nonce checks, or validate that the request is from a valid user in any other way. The endpoints allowed for uploading arbitrary files to the uploads/workreap-temp directory. Uploaded files were neither sanitized nor validated, allowing an unauthenticated visitor to upload executable code such as php scripts.| 
-| 20210913T09:46:04Z | CVE-2021-40444 | POC for CVE-2021-40444 | https://github.com/khoaduynu/CVE-2021-40444 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210914T01:33:58Z | Null | https://github.com/ioliu/klee | 0 | 0| 
 | 20210913T18:47:18Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 183 | 19| 
 | 20210913T08:14:51Z | Null | https://github.com/JwayLo/klee | 0 | 0| 
 | 20210913T04:30:39Z | Repositorio del proyecto Kleema | https://github.com/svelezp/Kleema | 0 | 0| 
@@ -70,7 +71,6 @@
 | 20210912T05:44:32Z | A standalone Unreal Engine Blueprint visualizer for the web | https://github.com/Joined-Forces/klee | 3 | 0| 
 | 20210911T18:14:16Z | Null | https://github.com/eisenstatdavid/KleeMeasureProblem | 0 | 0| 
 | 20210911T15:01:48Z | Personal Blog | https://github.com/klee1611/klee1611.github.io | 1 | 1| 
-| 20210911T08:49:59Z | Config files for my GitHub profile. | https://github.com/RedGirlKlee/RedGirlKlee | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -83,22 +83,23 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210914T00:03:26Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 31 | 18| 
+| 20210914T01:52:36Z | The Internet Observatory (Obsrva) is a vulnerability research project founded by independent security researcher Tyler Butler. Obsrva engages product vendors in coordinated disclosures, publishes vulnerability advisories, and creates proof of concept exploits. | https://github.com/obsrva/obsrva.org | 1 | 0| 
+| 20210914T01:43:02Z | Pure Nim implementation for exploiting CVE-2021-36934, the SeriousSAM local privilege escalation | https://github.com/HuskyHacks/ShadowSteal | 177 | 35| 
+| 20210914T01:04:55Z | Repository for my talk %Crafting exploits, tools and havoc with Ruby% featured at Ruby Kaigi 2021. | https://github.com/MauroEldritch/rubycraft | 1 | 0| 
+| 20210914T01:03:25Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 31 | 18| 
+| 20210914T00:52:41Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 22 | 14| 
+| 20210914T00:13:18Z | Script PoC that exploits the Tentacles upload functionality of OctoBot trading bot and which leads to an arbitrary code execution. | https://github.com/nwqda/Sashimi-Evil-OctoBot-Tentacle | 0 | 0| 
+| 20210914T00:11:26Z | Null | https://github.com/TheCrazzXz/Exploits-Lab | 0 | 1| 
 | 20210913T23:59:46Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 3950 | 565| 
 | 20210913T23:27:12Z | Supported: SynapseX, KRNL, ScriptWare, and other shitsploits | https://github.com/XJMI/LuaU-Scripts | 0 | 0| 
 | 20210913T22:04:32Z | I found a way to exploit the rotation minecraft applies to certain Blocks to reconstruct coordinates from them | https://github.com/DerBejijing/BlockRotationExploit | 6 | 0| 
-| 20210913T21:28:00Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10029 | 1680| 
-| 20210913T21:16:42Z | Pseudo shells for different Lambda Runtime Environments & Lambda persistency exploits | https://github.com/Djkusik/Lambda-sHell | 0 | 0| 
-| 20210913T20:28:32Z | Desenvolvendo exploits x86 para linux | https://github.com/git-cardoso/Desenvolvimento_exploits_x86 | 0 | 0| 
-| 20210913T20:01:25Z | Mass Exploit Multi Threading Candy CBT V.2.7.0.r0  | https://github.com/Jevil36239/Mass-Candy-CBT | 0 | 0| 
-| 20210913T19:11:01Z | Shell Script that runs the BlueBomb exploit of FullMetal5 for Wii  | https://github.com/ianes-gm1/Ianis-Bluebomb-Helper | 0 | 0| 
-| 20210913T18:52:41Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 22 | 14| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210913T23:43:34Z | A simple, yet effective backdoor for any Minecraft server. | https://github.com/BookBackdoor/BookBackdoor | 6 | 2| 
+| 20210914T00:54:39Z | Official Repository for the CVPR 2020 paper %Universal Litmus Patterns: Revealing Backdoor Attacks in CNNs% | https://github.com/UMBCvision/Universal-Litmus-Patterns | 26 | 4| 
+| 20210914T00:18:46Z | A simple, yet effective backdoor for any Minecraft server. | https://github.com/BookBackdoor/BookBackdoor | 6 | 2| 
 | 20210913T15:59:12Z | This script will parse an input PCAP file, pull out certificates, and analyze them. Reverse https shells can be hard to detect because unlike TCP and HTTP, the content is encrypted. To get around this and attempt some level of detection, we can analyze the handshake at the start of the connection. Meterpreter reverse https shells have randomly generated certificates, so if the issuer/domain are random charcters then we know the server is not legitimate and could be a reverse https back door | https://github.com/shailu-coder/https-backdoors | 0 | 0| 
 | 20210913T15:32:16Z | backdoor | https://github.com/Emilia-ZX/backdoor | 0 | 0| 
 | 20210913T15:31:33Z | This is an advanced backdoor, created with Python | https://github.com/Senc3951/Backdoor | 1 | 1| 
@@ -107,20 +108,19 @@
 | 20210913T11:46:08Z | Goes through every company on the list and checks how much traffic they have by exploiting a backdoor in Similar Web%s API(needs Selenium). Could have been more elegant(Paying for their API), but meh | https://github.com/Infinime/similar-web | 1 | 0| 
 | 20210913T10:34:52Z | Remote control software | https://github.com/h1zzz/purewater | 0 | 0| 
 | 20210912T23:12:44Z | Small collection of bash scripts that take advantage of the .bashrc file and inject various payloads into it in order to escalate privileges or steal credentials. | https://github.com/nwqda/Bashrc-Backdoors | 0 | 0| 
-| 20210912T18:20:15Z | Statically-linked ssh server with reverse shell functionality for CTFs and such | https://github.com/Fahrj/reverse-ssh | 356 | 39| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210913T09:02:34Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1887 | 392| 
+| 20210913T16:25:44Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1887 | 392| 
+| 20210913T15:21:26Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 466 | 73| 
+| 20210913T14:16:31Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2450 | 363| 
 | 20210913T08:53:38Z | Monster is a symbolic execution engine for 64-bit RISC-U code | https://github.com/cksystemsgroup/monster | 6 | 3| 
-| 20210913T03:25:17Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2450 | 363| 
 | 20210912T21:03:06Z | Symbolica%s open-source symbolic execution engine. | https://github.com/SymbolicaDev/Symbolica | 28 | 1| 
 | 20210912T17:50:55Z | A toy symbolic execution engine, supporting the blog article ... | https://github.com/synacktiv/toy-wasm-symbexp | 9 | 2| 
 | 20210912T13:32:48Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1775 | 505| 
 | 20210911T21:18:14Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 7 | 4| 
-| 20210911T02:43:58Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 465 | 72| 
 | 20210910T22:28:54Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 27 | 6| 
 | 20210910T16:39:45Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 655 | 65| 
 
@@ -137,16 +137,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210914T01:50:42Z | Creciendo en programacion | https://github.com/Sahit28/fuzzy-octo-meme- | 0 | 0| 
+| 20210914T01:28:33Z | Null | https://github.com/fuzzy11111/fuzzysbigidea | 0 | 0| 
+| 20210914T01:25:57Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6641 | 1359| 
+| 20210914T01:02:51Z | Repo para TP #4 de PIAPC | https://github.com/hernanbrue/HB_fuzzy | 0 | 0| 
+| 20210914T00:06:33Z | Sebuah proyek sistem pendukung keputusan berbasis web dengan metode Fuzzy | https://github.com/hudtakim/spk-web-based-fuzzy | 1 | 0| 
 | 20210913T23:57:32Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4563 | 459| 
 | 20210913T23:52:14Z | Null | https://github.com/tmwatchanan/FuzzySets.jl | 0 | 0| 
 | 20210913T23:44:35Z | Locally searching in Swift made simple (and fuzzily) | https://github.com/nerdsupremacist/Fuzzi | 8 | 0| 
 | 20210913T23:43:18Z | domato but as a website | https://github.com/GawdOfROFL/rofl-fuzzer | 0 | 0| 
 | 20210913T22:53:29Z | Just some random things that i%m working on. Feel free to fuzz around and do something with it. | https://github.com/ttoledo00/random_things | 0 | 0| 
-| 20210913T22:13:36Z | An investigation of American Fuzzy Lop++ as a fuzzer | https://github.com/hark130/hardy-remix | 0 | 0| 
-| 20210913T22:11:16Z | Null | https://github.com/MrP4n1c/fuzzy-octo-winner | 0 | 0| 
-| 20210913T21:54:54Z | A groovy/java tabular Data (from CSV,SQL,JSON) processing library that supports fuzzy column matching,tranformations/merging/querying | https://github.com/kayr/fuzzy-csv | 9 | 6| 
-| 20210913T21:49:01Z | Null | https://github.com/dawsonrichey/fuzzy-disco | 0 | 0| 
-| 20210913T21:45:59Z | Null | https://github.com/koltiradw/FuzzingFerm | 0 | 0| 
 
 
 
