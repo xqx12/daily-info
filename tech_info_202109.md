@@ -6,6 +6,14 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210914 | BinDiff 二进制比较简介 | https://mp.weixin.qq.com/s/fPjqO_L5aHxzVUu8GtIgeA| 
+| 20210914 | Apple 发布 iOS 14.8 版本更新 | https://support.apple.com/en-us/HT212807| 
+| 20210914 | 利用 Root-Cause Clustering 的方案实现 Fuzz 过程中 Crash 样本的去重 | https://nebelwelt.net/files/21CCS.pdf| 
+| 20210914 | VaultFuzzer: A state-based approach for Linux kernel | https://www.reddit.com/r/netsec/comments/pnedi0/vaultfuzzer_a_statebased_approach_for_linux_kernel/| 
+| 20210914 | Go 语言实现的跨平台 CobaltStrike Beacon | https://github.com/darkr4y/geacon| 
+| 20210914 | Oracle BI XML XXE 漏洞分析 | https://testbnull.medium.com/linh-tinh-v%E1%BB%81-oracle-business-intelligence-part-1-5a050b48a193| 
+| 20210914 | 通过分析 NSO Group Pegasus 间谍软件，CitizenLab 发现了一个针对 iMessage 的 Zero-Click 0Day Exploit - FORCEDENTRY，Apple 今天发布补丁更新修复该漏洞 | https://citizenlab.ca/2021/09/forcedentry-nso-group-imessage-zero-click-exploit-captured-in-the-wild/| 
+| 20210914 | Hacking CloudKit - 因 CloudKit 使用不当，导致可以删除 Apple Shortcuts | https://labs.detectify.com/2021/09/13/hacking-cloudkit-how-i-accidentally-deleted-your-apple-shortcuts/| 
 | 20210913 | 利用 Microsoft Graph API 实现基于 Outlook 的 C&C 命令控制 | https://github.com/boku7/azureOutlookC2| 
 | 20210913 | 利用 AWS 环境 IAM 的错误配置实现提权 | https://labs.bishopfox.com/tech-blog/iam-vulnerable-an-aws-iam-privilege-escalation-playground| 
 | 20210913 | Cross-Account Container Takeover in Azure Container Instances | https://unit42.paloaltonetworks.com/azure-container-instances/| 
@@ -18,96 +26,88 @@
 | 20210913 | 最全的逆向工程资源集合。 | https://pewpewthespells.com/blog/re.html| 
 | 20210913 | 蚂蚁安全光年实验室 Usenix Security 2021 中稿论文解读. | https://paper.seebug.org/1706/| 
 | 20210913 | Black Hat USA 2021 议题分享——莫比乌斯环：探索 Hyper-V 攻击面 | https://paper.seebug.org/1705/| 
-| 20210912 | [Fuzzing with AFL] 如何在 Ubuntu 系统上安装 AFL演示视频。 | https://www.youtube.com/watch?v=r7ucv2kN4j4| 
-| 20210910 | The making of a MySQL Canarytoken | https://blog.thinkst.com/2021/09/a-mysql-canarytoken.html| 
-| 20210910 | Splunk 开源了一个 “Attack Data Repository”，方便开发者开发和测试安全检测产品（SIEM） | https://github.com/splunk/attack_data| 
-| 20210910 | Hook Heaps and Live Free | https://www.arashparsa.com/hook-heaps-and-live-free/| 
-| 20210910 | 有研究员利用 Windows 密码还原开始的一系列操作，最终绕过了锁屏登录界面 | https://halove23.blogspot.com/2021/09/zdi-21-1053-bypassing-windows-lock.html| 
-| 20210910 | Quectel EG25-G modem 存在 root 权限的 system 命令注入漏洞 | https://nns.ee/blog/2021/04/03/modem-rce.html| 
-| 20210910 | 8.7 万存在漏洞的 Fortinet SSL-VPN 设备的大量敏感凭据信息被泄露 | http://threatpost.com/thousands-of-fortinet-vpn-account-credentials-leaked/169348/| 
-| 20210910 | Android 12 Beta 版本计划推出一个独立的 Private Compute Core 环境，将需要隐私保护的服务放到隔离环境中 | https://security.googleblog.com/2021/09/introducing-androids-private-compute.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+GoogleOnlineSecurityBlog+%28Google+Online+Security+Blog%29| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210914 | 谈谈网络空间“行为测绘” | https://mp.weixin.qq.com/s/THEdOpSu_bSPWo66sRDyPA| 
+| 20210914 | VaultFuzzer: 针对Linux内核的状态导向模糊测试方案 | https://mp.weixin.qq.com/s/ZevJBJjANmBLPCG0RyC3eg| 
+| 20210914 | fapro: 协议模拟服务器 | https://github.com/fofapro/fapro| 
+| 20210914 | 攻击推理-安全知识图谱应用的困境思考 | https://mp.weixin.qq.com/s/DOfrD7SGpoXP--zZPzf5bg| 
+| 20210914 | goblin: 一款适用于红蓝对抗中的仿真钓鱼系统 | https://github.com/xiecat/goblin| 
+| 20210914 | 网络空间资产安全管理实践与创新 | https://mp.weixin.qq.com/s/3NWI-_qJZfTuqvFl3d2SAQ| 
+| 20210914 | Xcheck之PHP代码安全检查 | https://mp.weixin.qq.com/s?__biz=Mzg2ODQ3ODE1NA==&mid=2247483818&idx=1&sn=f55330a128035ba29cc8f1eca2c56230&chksm=ceaafc0ff9dd7519397f4dc0f710c3901ad7b76436dbc7accbfc1a543c702f49dabefa0d7ea5&token=654851123&lang=zh_CN#rd| 
+| 20210914 | URL FIlter 绕过 - Python 之 Django | https://github.com/CHYbeta/URLFilterBypassDemo/tree/master/python/django_demo| 
+| 20210914 | 检测浏览器是否存在代理 | https://github.com/ttttmr/checkproxy| 
 | 20210913 | Squid 场景绕过之一: URN bypass ACL | https://github.com/CHYbeta/OddProxyDemo/tree/master/squid/demo1| 
-| 20210911 | 如何高效迅速的进行CodeReview | https://mp.weixin.qq.com/s/nlDSYvR2SyKhtl4fOPt2Hg| 
-| 20210911 | NGINX速率限制原理及源码分析 | https://mp.weixin.qq.com/s/hj7DPoFevmRPdgMY9orilg| 
-| 20210910 | Xcheck之Golang安全检查引擎 | https://mp.weixin.qq.com/s?__biz=Mzg2ODQ3ODE1NA==&mid=2247483838&idx=1&sn=aeaa216d2fcd81a1c7c9a6b63f097281&chksm=ceaafc1bf9dd750d11e48b9c6139e41ae4c461b33a0a34bdd88fb512f6f465f4d5dc0fd887a2&token=2135304516&lang=zh_CN#rd| 
-| 20210909 | IoT 恶意软件进化谱系研究 | https://mp.weixin.qq.com/s/xXYFcVOXA6lZfhign0BJlg| 
-| 20210909 | Miara的延续--gafgyt病毒分析 | https://mp.weixin.qq.com/s/JYBdhxbt0mqU3wIqFFWdhQ| 
-| 20210909 | HAProxy 场景绕过之一: CVE-2021-40346 | https://github.com/CHYbeta/OddProxyDemo/tree/master/haproxy/demo1| 
-| 20210908 | Zabbix攻击面挖掘与利用 | http://noahblog.360.cn/zabbixgong-ji-mian-wa-jue-yu-li-yong/| 
-| 20210908 | 云原生——容器和应用安全运营实践思考 | https://security.tencent.com/index.php/blog/msg/200| 
-| 20210908 | FastJson 反序列化漏洞及在区块链应用中的渗透利用 | https://paper.seebug.org/1698/| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210914T01:58:25Z | CVE-2021-40444 | CVE-2021-40444 PoC | https://github.com/lockedbyte/CVE-2021-40444 | 未查询到CVE信息| 
-| 20210914T01:57:18Z | CVE-2021-40444 | This repo contain builders of cab file, html file, and docx file for CVE-2021-40444 exploit | https://github.com/aslitsecurity/CVE-2021-40444_builders | 未查询到CVE信息| 
-| 20210914T01:51:17Z | 未知编号 | Null | https://github.com/aydianosec/CVE2021-40444 | 未查询到CVE信息| 
-| 20210914T01:41:02Z | CVE-2021-40444 | CVE-2021-40444 Sample  | https://github.com/Udyz/CVE-2021-40444-Sample | 未查询到CVE信息| 
-| 20210913T20:46:21Z | CVE-2021-40346 | Null | https://github.com/alikarimi999/CVE-2021-40346 | An integer overflow exists in HAProxy 2.0 through 2.5 in htx_add_header that can be exploited to perform an HTTP request smuggling attack, allowing an attacker to bypass all configured http-request HAProxy ACLs and possibly other ACLs.| 
-| 20210913T15:29:28Z | CVE-2021-40444 | Null | https://github.com/Lagal1990/CVE-2021-40444-docx-Generate | 未查询到CVE信息| 
-| 20210913T12:16:01Z | CVE-2021-40222 | Remote Code Execution at Rittal | https://github.com/asang17/CVE-2021-40222 | Rittal CMC PU III Web management Version affected: V3.11.00_2. Version fixed: V3.17.10 is affected by a remote code execution vulnerablity. It is possible to introduce shell code to create a reverse shell in the PU-Hostname field of the TCP/IP Configuration dialog. Web application fails to sanitize user input on Network TCP/IP configuration page. This allows the attacker to inject commands as root on the device which will be executed once the data is received.| 
-| 20210913T12:15:32Z | CVE-2021-40223 | XSS Vulnerability in Rittal | https://github.com/asang17/CVE-2021-40223 | Rittal CMC PU III Web management (version V3.11.00_2) fails to sanitize user input on several parameters of the configuration (User Configuration dialog, Task Configuration dialog and set logging filter dialog). This allows an attacker to backdoor the device with HTML and browser-interpreted content (such as JavaScript or other client-side scripts). The XSS payload will be triggered when the user accesses some specific sections of the application.| 
-| 20210913T12:14:49Z | CVE-2021-34527 | PrintNightmare - Windows Print Spooler RCE/LPE Vulnerability (CVE-2021-34527, CVE-2021-1675) proof of concept exploits | https://github.com/nemo-wq/PrintNightmare-CVE-2021-34527 | Windows Print Spooler Remote Code Execution Vulnerability| 
-| 20210913T11:07:12Z | CVE-2021-24499 | Mass exploitation of CVE-2021-24499 unauthenticated upload leading to remote code execution in Workreap theme. | https://github.com/RyouYoo/CVE-2021-24499 | The Workreap WordPress theme before 2.2.2 AJAX actions workreap_award_temp_file_uploader and workreap_temp_file_uploader did not perform nonce checks, or validate that the request is from a valid user in any other way. The endpoints allowed for uploading arbitrary files to the uploads/workreap-temp directory. Uploaded files were neither sanitized nor validated, allowing an unauthenticated visitor to upload executable code such as php scripts.| 
+| 20210914T11:39:19Z | 未知编号 | Null | https://github.com/mr-r3b00t/2021-BadPewCVEs | 未查询到CVE信息| 
+| 20210914T11:39:01Z | CVE-2021-24499 | Mass exploitation of CVE-2021-24499 unauthenticated upload leading to remote code execution in Workreap theme. | https://github.com/RyouYoo/CVE-2021-24499 | The Workreap WordPress theme before 2.2.2 AJAX actions workreap_award_temp_file_uploader and workreap_temp_file_uploader did not perform nonce checks, or validate that the request is from a valid user in any other way. The endpoints allowed for uploading arbitrary files to the uploads/workreap-temp directory. Uploaded files were neither sanitized nor validated, allowing an unauthenticated visitor to upload executable code such as php scripts.| 
+| 20210914T10:23:28Z | CVE-2021-40444 | This repo contain builders of cab file, html file, and docx file for CVE-2021-40444 exploit | https://github.com/aslitsecurity/CVE-2021-40444_builders | 未查询到CVE信息| 
+| 20210914T08:18:40Z | cve-2021-40444 | Null | https://github.com/Immersive-Labs-Sec/cve-2021-40444-analysis | 未查询到CVE信息| 
+| 20210914T06:44:49Z | CVE-2021-40845 | AlphaWeb XE, the embedded web server running on AlphaCom XE, has a vulnerability which allows to upload PHP files leading to RCE once the authentication is successful. | https://github.com/ricardojoserf/CVE-2021-40845 | 未查询到CVE信息| 
+| 20210914T03:21:25Z | CVE-2021-32202 | CVE-2021-32202 | https://github.com/l00neyhacker/CVE-2021-32202 | 未查询到CVE信息| 
+| 20210914T03:17:26Z | CVE-2021-36582 | CVE-2021-36582 | https://github.com/l00neyhacker/CVE-2021-36582 | 未查询到CVE信息| 
+| 20210914T03:12:30Z | CVE-2021-36581 | CVE-2021-36581 | https://github.com/l00neyhacker/CVE-2021-36581 | 未查询到CVE信息| 
+| 20210914T02:47:28Z | CVE-2021-40346 | CVE-2021-40346 integer overflow enables http smuggling | https://github.com/donky16/CVE-2021-40346-POC | | 
+| 20210914T02:33:43Z | 未知编号 | Null | https://github.com/aydianosec/CVE2021-40444 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210914T08:49:57Z | Config files for my GitHub profile. | https://github.com/kleefr1/kleefr1 | 0 | 0| 
+| 20210914T07:06:29Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1776 | 505| 
+| 20210914T04:33:53Z | Assets to be used for linking, wget-uploads and Gists. | https://github.com/lahiri-phdworks/Assets | 0 | 0| 
 | 20210914T01:33:58Z | Null | https://github.com/ioliu/klee | 0 | 0| 
 | 20210913T18:47:18Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 183 | 19| 
 | 20210913T08:14:51Z | Null | https://github.com/JwayLo/klee | 0 | 0| 
 | 20210913T04:30:39Z | Repositorio del proyecto Kleema | https://github.com/svelezp/Kleema | 0 | 0| 
 | 20210913T00:32:52Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2754 | 74| 
-| 20210912T13:32:48Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1775 | 505| 
 | 20210912T07:09:14Z | Null | https://github.com/shabroek/Kleedkamerscherm | 0 | 0| 
 | 20210912T05:44:32Z | A standalone Unreal Engine Blueprint visualizer for the web | https://github.com/Joined-Forces/klee | 3 | 0| 
-| 20210911T18:14:16Z | Null | https://github.com/eisenstatdavid/KleeMeasureProblem | 0 | 0| 
-| 20210911T15:01:48Z | Personal Blog | https://github.com/klee1611/klee1611.github.io | 1 | 1| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210909T06:42:02Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 149 | 37| 
+| 20210914T09:35:45Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 148 | 37| 
 | 20210906T09:41:06Z | Season 2, Episode 1 - In this episode we look at how to correctly host your HTML files, and reverse proxy the ws/ (Websocket) connections back to the Asterisk Service. It%s all done on a single local instance so we are using a self signed certificate. | https://github.com/InnovateAsterisk/S2E1 | 0 | 0| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210914T01:52:36Z | The Internet Observatory (Obsrva) is a vulnerability research project founded by independent security researcher Tyler Butler. Obsrva engages product vendors in coordinated disclosures, publishes vulnerability advisories, and creates proof of concept exploits. | https://github.com/obsrva/obsrva.org | 1 | 0| 
-| 20210914T01:43:02Z | Pure Nim implementation for exploiting CVE-2021-36934, the SeriousSAM local privilege escalation | https://github.com/HuskyHacks/ShadowSteal | 177 | 35| 
-| 20210914T01:04:55Z | Repository for my talk %Crafting exploits, tools and havoc with Ruby% featured at Ruby Kaigi 2021. | https://github.com/MauroEldritch/rubycraft | 1 | 0| 
-| 20210914T01:03:25Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 31 | 18| 
-| 20210914T00:52:41Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 22 | 14| 
-| 20210914T00:13:18Z | Script PoC that exploits the Tentacles upload functionality of OctoBot trading bot and which leads to an arbitrary code execution. | https://github.com/nwqda/Sashimi-Evil-OctoBot-Tentacle | 0 | 0| 
-| 20210914T00:11:26Z | Null | https://github.com/TheCrazzXz/Exploits-Lab | 0 | 1| 
-| 20210913T23:59:46Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 3950 | 565| 
-| 20210913T23:27:12Z | Supported: SynapseX, KRNL, ScriptWare, and other shitsploits | https://github.com/XJMI/LuaU-Scripts | 0 | 0| 
-| 20210913T22:04:32Z | I found a way to exploit the rotation minecraft applies to certain Blocks to reconstruct coordinates from them | https://github.com/DerBejijing/BlockRotationExploit | 6 | 0| 
+| 20210914T11:56:34Z | 📈 A visualization of MetricQ data exploiting the advantages of the HTA db backend  | https://github.com/metricq/metricq-webview | 0 | 1| 
+| 20210914T11:42:33Z | The aim of this project is to develop a web interface for visualizing indexed documents, enriched by exploiting the semantic index | https://github.com/issa-project/visualization | 0 | 0| 
+| 20210914T11:38:13Z | Collection of Discord hacking tools/fun stuff/exploits that I developed using NodeJS. | https://github.com/I2rys/ODiscord | 5 | 3| 
+| 20210914T11:35:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10032 | 1680| 
+| 20210914T11:30:57Z | Thi powershell script has got to run in remote hacked windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 6 | 2| 
+| 20210914T11:28:52Z | Null | https://github.com/Relkss/Testing_Exploit | 0 | 0| 
+| 20210914T11:26:42Z | Useful scripts and commands for post exploitation on Mac OS | https://github.com/dubs3c/MacRecon | 0 | 0| 
+| 20210914T11:20:29Z | The popular GENIE Generator product is used by nearly all accelerator neutrino experiments and it plays a key role in the exploitation of neutrino data. The Generator implements a modern software framework and it includes state-of-the-art physics modules. It captures the latest results of the GENIE global analysis of neutrino scattering data and includes several tunes that were produced using the proprietary Comparisons and Tuning products. The GENIE physics model is universal and comprehensive:  It handles all neutrinos and targets, and all processes relevant from MeV to PeV energy scales. The Generator includes several tools (flux drivers, detector geometry navigators, specialized event generation apps, event reweighting engines) to simulate complex experimental setups in full detail and to support generator-related analysis tasks.  | https://github.com/GENIE-MC/Generator | 23 | 54| 
+| 20210914T11:17:00Z | Container (Docker) escape exploits | https://github.com/duowen1/Container-escape-exps | 2 | 1| 
+| 20210914T11:11:46Z | E3C is a freely available multilingual corpus (Italian, English, French, Spanish, and Basque) of semantically annotated clinical narratives to allow for the linguistic analysis, benchmarking, and training of information extraction systems. It consists of two types of annotations: (i) clinical entities: pathologies, symptoms, procedures, body parts, etc., according to standard clinical taxonomies (i.e. SNOMED-CT, ICD-10); and (ii) temporal information and factuality: events, time expressions, and temporal relations according to the THYME standard. The corpus is organised into three layers, with different purposes. Layer 1: about 25K tokens per language with full manual annotation of clinical entities, temporal information and factuality, for benchmarkingand linguistic analysis. Layer 2: 50-100K tokens per language with semi-automatic annotations of clinical entities, to be used to train baseline systems. Layer 3: about 1M tokens per language of non-annotated medical documents to be exploited by semi-supervised approaches. Researchers can use the benchmark training and test splits of our corpus to develop and test their own models. We trained several deep learning based models and provide baselines using the benchmark. Both the corpus and the built models will be available through the ELG platform.  | https://github.com/hltfbk/E3C-Corpus | 0 | 1| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210914T11:17:26Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 96 | 17| 
+| 20210914T10:11:00Z | Remote control software | https://github.com/h1zzz/purewater | 0 | 0| 
+| 20210914T02:16:58Z | Backdoor attacks on a deep neural network-based system for COVID-19 detection from chest X-ray images | https://github.com/YukiM00/Backdoored-COVID-Net | 0 | 0| 
+| 20210914T02:02:51Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 315 | 57| 
 | 20210914T00:54:39Z | Official Repository for the CVPR 2020 paper %Universal Litmus Patterns: Revealing Backdoor Attacks in CNNs% | https://github.com/UMBCvision/Universal-Litmus-Patterns | 26 | 4| 
 | 20210914T00:18:46Z | A simple, yet effective backdoor for any Minecraft server. | https://github.com/BookBackdoor/BookBackdoor | 6 | 2| 
 | 20210913T15:59:12Z | This script will parse an input PCAP file, pull out certificates, and analyze them. Reverse https shells can be hard to detect because unlike TCP and HTTP, the content is encrypted. To get around this and attempt some level of detection, we can analyze the handshake at the start of the connection. Meterpreter reverse https shells have randomly generated certificates, so if the issuer/domain are random charcters then we know the server is not legitimate and could be a reverse https back door | https://github.com/shailu-coder/https-backdoors | 0 | 0| 
 | 20210913T15:32:16Z | backdoor | https://github.com/Emilia-ZX/backdoor | 0 | 0| 
 | 20210913T15:31:33Z | This is an advanced backdoor, created with Python | https://github.com/Senc3951/Backdoor | 1 | 1| 
-| 20210913T15:09:38Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 315 | 57| 
 | 20210913T13:26:58Z | Command Center for multiple Windows targets gained access through Backdoor | https://github.com/ardmm/CommandCenter | 0 | 0| 
-| 20210913T11:46:08Z | Goes through every company on the list and checks how much traffic they have by exploiting a backdoor in Similar Web%s API(needs Selenium). Could have been more elegant(Paying for their API), but meh | https://github.com/Infinime/similar-web | 1 | 0| 
-| 20210913T10:34:52Z | Remote control software | https://github.com/h1zzz/purewater | 0 | 0| 
-| 20210912T23:12:44Z | Small collection of bash scripts that take advantage of the .bashrc file and inject various payloads into it in order to escalate privileges or steal credentials. | https://github.com/nwqda/Bashrc-Backdoors | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
