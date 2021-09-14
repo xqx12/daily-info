@@ -33,7 +33,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210914T12:23:23Z | CVE-2021-40444 | This repo contain builders of cab file, html file, and docx file for CVE-2021-40444 exploit | https://github.com/aslitsecurity/CVE-2021-40444_builders | 未查询到CVE信息| 
+| 20210914T12:47:34Z | CVE-2021-40444 | This repo contain builders of cab file, html file, and docx file for CVE-2021-40444 exploit | https://github.com/aslitsecurity/CVE-2021-40444_builders | 未查询到CVE信息| 
 | 20210914T12:14:05Z | 未知编号 | Null | https://github.com/mr-r3b00t/2021-BadPewCVEs | 未查询到CVE信息| 
 | 20210914T11:39:01Z | CVE-2021-24499 | Mass exploitation of CVE-2021-24499 unauthenticated upload leading to remote code execution in Workreap theme. | https://github.com/RyouYoo/CVE-2021-24499 | The Workreap WordPress theme before 2.2.2 AJAX actions workreap_award_temp_file_uploader and workreap_temp_file_uploader did not perform nonce checks, or validate that the request is from a valid user in any other way. The endpoints allowed for uploading arbitrary files to the uploads/workreap-temp directory. Uploaded files were neither sanitized nor validated, allowing an unauthenticated visitor to upload executable code such as php scripts.| 
 | 20210914T08:18:40Z | cve-2021-40444 | Null | https://github.com/Immersive-Labs-Sec/cve-2021-40444-analysis | 未查询到CVE信息| 
@@ -41,7 +41,7 @@
 | 20210914T03:21:25Z | CVE-2021-32202 | CVE-2021-32202 | https://github.com/l00neyhacker/CVE-2021-32202 | In CS-Cart version 4.11.1, it is possible to induce copy-paste XSS by manipulating the %post description% filed in the blog post creation page.| 
 | 20210914T03:17:26Z | CVE-2021-36582 | CVE-2021-36582 | https://github.com/l00neyhacker/CVE-2021-36582 | In Kooboo CMS 2.1.1.0, it is possible to upload a remote shell (e.g., aspx) to the server and then call upon it to receive a reverse shell from the victim server. The files are uploaded to /Content/Template/root/reverse-shell.aspx and can be simply triggered by browsing that URL.| 
 | 20210914T03:12:30Z | CVE-2021-36581 | CVE-2021-36581 | https://github.com/l00neyhacker/CVE-2021-36581 | Kooboo CMS 2.1.1.0 is vulnerable to Insecure file upload. It is possible to upload any file extension to the server. The server does not verify the extension of the file and the tester was able to upload an aspx to the server.| 
-| 20210914T02:47:28Z | CVE-2021-40346 | CVE-2021-40346 integer overflow enables http smuggling | https://github.com/donky16/CVE-2021-40346-POC | An integer overflow exists in HAProxy 2.0 through 2.5 in htx_add_header that can be exploited to perform an HTTP request smuggling attack, allowing an attacker to bypass all configured http-request HAProxy ACLs and possibly other ACLs.| 
+| 20210914T02:47:28Z | CVE-2021-40346 | CVE-2021-40346 integer overflow enables http smuggling | https://github.com/donky16/CVE-2021-40346-POC | | 
 | 20210914T02:33:43Z | 未知编号 | Null | https://github.com/aydianosec/CVE2021-40444 | 未查询到CVE信息| 
 
 
@@ -63,6 +63,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210914T12:52:41Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 22 | 14| 
+| 20210914T12:45:20Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 79 | 13| 
 | 20210914T12:26:37Z | E3C is a freely available multilingual corpus (Italian, English, French, Spanish, and Basque) of semantically annotated clinical narratives to allow for the linguistic analysis, benchmarking, and training of information extraction systems. It consists of two types of annotations: (i) clinical entities: pathologies, symptoms, procedures, body parts, etc., according to standard clinical taxonomies (i.e. SNOMED-CT, ICD-10); and (ii) temporal information and factuality: events, time expressions, and temporal relations according to the THYME standard. The corpus is organised into three layers, with different purposes. Layer 1: about 25K tokens per language with full manual annotation of clinical entities, temporal information and factuality, for benchmarkingand linguistic analysis. Layer 2: 50-100K tokens per language with semi-automatic annotations of clinical entities, to be used to train baseline systems. Layer 3: about 1M tokens per language of non-annotated medical documents to be exploited by semi-supervised approaches. Researchers can use the benchmark training and test splits of our corpus to develop and test their own models. We trained several deep learning based models and provide baselines using the benchmark. Both the corpus and the built models will be available through the ELG platform.  | https://github.com/hltfbk/E3C-Corpus | 0 | 1| 
 | 20210914T12:22:51Z | Null | https://github.com/TheCrazzXz/Exploits-Lab | 0 | 1| 
 | 20210914T12:03:29Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 31 | 18| 
@@ -71,13 +73,12 @@
 | 20210914T11:38:13Z | Collection of Discord hacking tools/fun stuff/exploits that I developed using NodeJS. | https://github.com/I2rys/ODiscord | 5 | 3| 
 | 20210914T11:35:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10032 | 1680| 
 | 20210914T11:30:57Z | Thi powershell script has got to run in remote hacked windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 6 | 2| 
-| 20210914T11:28:52Z | Null | https://github.com/Relkss/Testing_Exploit | 0 | 0| 
-| 20210914T11:26:42Z | Useful scripts and commands for post exploitation on Mac OS | https://github.com/dubs3c/MacRecon | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210914T12:36:17Z | This is an advanced backdoor, created with Python | https://github.com/Senc3951/Backdoor | 2 | 1| 
 | 20210914T12:23:47Z | Poweshell backdoor metasploit  | https://github.com/crypt0n-root/powershell-backdoor | 0 | 0| 
 | 20210914T11:17:26Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 96 | 17| 
 | 20210914T10:11:00Z | Remote control software | https://github.com/h1zzz/purewater | 0 | 0| 
@@ -99,16 +100,22 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210914T02:29:51Z | NDSS 2020 - HYPER-CUBE: High-Dimensional Hypervisor Fuzzing | https://github.com/RUB-SysSec/Hypercube | 12 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210914T01:50:42Z | Creciendo en programacion | https://github.com/Sahit28/fuzzy-octo-meme- | 0 | 0| 
-| 20210914T01:28:33Z | Null | https://github.com/fuzzy11111/fuzzysbigidea | 0 | 0| 
-| 20210914T01:25:57Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6641 | 1359| 
-| 20210914T01:02:51Z | Repo para TP #4 de PIAPC | https://github.com/hernanbrue/HB_fuzzy | 0 | 0| 
-| 20210914T00:06:33Z | Sebuah proyek sistem pendukung keputusan berbasis web dengan metode Fuzzy | https://github.com/hudtakim/spk-web-based-fuzzy | 1 | 0| 
+| 20210914T13:00:08Z | Null | https://github.com/ys-zhang/fuzz-ml | 0 | 0| 
+| 20210914T12:51:17Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
+| 20210914T12:45:27Z | 🔥 Studying The Fuzzing Book : https://www.fuzzingbook.org | https://github.com/KimSeoYe/TheFuzzingBook | 5 | 0| 
+| 20210914T12:43:42Z | Null | https://github.com/EviLPhi/Fuzzy-Tsukamoto_Algoritm | 0 | 0| 
+| 20210914T12:36:57Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 341 | 27| 
+| 20210914T12:04:53Z | The main aim of the project was to implement Fuzzy Logic and calculate the amount of braking to be applied on vehicle so we can have a secure travell. The project base or use is in automobile industry where they can use this thing so to test their vehicles and analyse the results and built there product better.  | https://github.com/vedantshitale/Creating-a-ABS-system-using-Fuzzy-logic | 0 | 0| 
+| 20210914T11:58:07Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 541 | 51| 
+| 20210914T11:46:10Z | JetBrains Research intership project. | https://github.com/AnzhelaSukhanova/fuzzing_of_spacer | 0 | 0| 
+| 20210914T11:34:29Z | Null | https://github.com/Karthik1597/fuzzy-potato | 0 | 0| 
+| 20210914T11:31:12Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 
 
 

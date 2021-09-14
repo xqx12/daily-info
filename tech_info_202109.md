@@ -46,14 +46,14 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210914T11:39:19Z | 未知编号 | Null | https://github.com/mr-r3b00t/2021-BadPewCVEs | 未查询到CVE信息| 
+| 20210914T12:47:34Z | CVE-2021-40444 | This repo contain builders of cab file, html file, and docx file for CVE-2021-40444 exploit | https://github.com/aslitsecurity/CVE-2021-40444_builders | 未查询到CVE信息| 
+| 20210914T12:14:05Z | 未知编号 | Null | https://github.com/mr-r3b00t/2021-BadPewCVEs | 未查询到CVE信息| 
 | 20210914T11:39:01Z | CVE-2021-24499 | Mass exploitation of CVE-2021-24499 unauthenticated upload leading to remote code execution in Workreap theme. | https://github.com/RyouYoo/CVE-2021-24499 | The Workreap WordPress theme before 2.2.2 AJAX actions workreap_award_temp_file_uploader and workreap_temp_file_uploader did not perform nonce checks, or validate that the request is from a valid user in any other way. The endpoints allowed for uploading arbitrary files to the uploads/workreap-temp directory. Uploaded files were neither sanitized nor validated, allowing an unauthenticated visitor to upload executable code such as php scripts.| 
-| 20210914T10:23:28Z | CVE-2021-40444 | This repo contain builders of cab file, html file, and docx file for CVE-2021-40444 exploit | https://github.com/aslitsecurity/CVE-2021-40444_builders | 未查询到CVE信息| 
 | 20210914T08:18:40Z | cve-2021-40444 | Null | https://github.com/Immersive-Labs-Sec/cve-2021-40444-analysis | 未查询到CVE信息| 
 | 20210914T06:44:49Z | CVE-2021-40845 | AlphaWeb XE, the embedded web server running on AlphaCom XE, has a vulnerability which allows to upload PHP files leading to RCE once the authentication is successful. | https://github.com/ricardojoserf/CVE-2021-40845 | 未查询到CVE信息| 
-| 20210914T03:21:25Z | CVE-2021-32202 | CVE-2021-32202 | https://github.com/l00neyhacker/CVE-2021-32202 | 未查询到CVE信息| 
-| 20210914T03:17:26Z | CVE-2021-36582 | CVE-2021-36582 | https://github.com/l00neyhacker/CVE-2021-36582 | 未查询到CVE信息| 
-| 20210914T03:12:30Z | CVE-2021-36581 | CVE-2021-36581 | https://github.com/l00neyhacker/CVE-2021-36581 | 未查询到CVE信息| 
+| 20210914T03:21:25Z | CVE-2021-32202 | CVE-2021-32202 | https://github.com/l00neyhacker/CVE-2021-32202 | In CS-Cart version 4.11.1, it is possible to induce copy-paste XSS by manipulating the %post description% filed in the blog post creation page.| 
+| 20210914T03:17:26Z | CVE-2021-36582 | CVE-2021-36582 | https://github.com/l00neyhacker/CVE-2021-36582 | In Kooboo CMS 2.1.1.0, it is possible to upload a remote shell (e.g., aspx) to the server and then call upon it to receive a reverse shell from the victim server. The files are uploaded to /Content/Template/root/reverse-shell.aspx and can be simply triggered by browsing that URL.| 
+| 20210914T03:12:30Z | CVE-2021-36581 | CVE-2021-36581 | https://github.com/l00neyhacker/CVE-2021-36581 | Kooboo CMS 2.1.1.0 is vulnerable to Insecure file upload. It is possible to upload any file extension to the server. The server does not verify the extension of the file and the tester was able to upload an aspx to the server.| 
 | 20210914T02:47:28Z | CVE-2021-40346 | CVE-2021-40346 integer overflow enables http smuggling | https://github.com/donky16/CVE-2021-40346-POC | | 
 | 20210914T02:33:43Z | 未知编号 | Null | https://github.com/aydianosec/CVE2021-40444 | 未查询到CVE信息| 
 
@@ -83,21 +83,23 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210914T12:52:41Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 22 | 14| 
+| 20210914T12:45:20Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 79 | 13| 
+| 20210914T12:26:37Z | E3C is a freely available multilingual corpus (Italian, English, French, Spanish, and Basque) of semantically annotated clinical narratives to allow for the linguistic analysis, benchmarking, and training of information extraction systems. It consists of two types of annotations: (i) clinical entities: pathologies, symptoms, procedures, body parts, etc., according to standard clinical taxonomies (i.e. SNOMED-CT, ICD-10); and (ii) temporal information and factuality: events, time expressions, and temporal relations according to the THYME standard. The corpus is organised into three layers, with different purposes. Layer 1: about 25K tokens per language with full manual annotation of clinical entities, temporal information and factuality, for benchmarkingand linguistic analysis. Layer 2: 50-100K tokens per language with semi-automatic annotations of clinical entities, to be used to train baseline systems. Layer 3: about 1M tokens per language of non-annotated medical documents to be exploited by semi-supervised approaches. Researchers can use the benchmark training and test splits of our corpus to develop and test their own models. We trained several deep learning based models and provide baselines using the benchmark. Both the corpus and the built models will be available through the ELG platform.  | https://github.com/hltfbk/E3C-Corpus | 0 | 1| 
+| 20210914T12:22:51Z | Null | https://github.com/TheCrazzXz/Exploits-Lab | 0 | 1| 
+| 20210914T12:03:29Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 31 | 18| 
 | 20210914T11:56:34Z | 📈 A visualization of MetricQ data exploiting the advantages of the HTA db backend  | https://github.com/metricq/metricq-webview | 0 | 1| 
 | 20210914T11:42:33Z | The aim of this project is to develop a web interface for visualizing indexed documents, enriched by exploiting the semantic index | https://github.com/issa-project/visualization | 0 | 0| 
 | 20210914T11:38:13Z | Collection of Discord hacking tools/fun stuff/exploits that I developed using NodeJS. | https://github.com/I2rys/ODiscord | 5 | 3| 
 | 20210914T11:35:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10032 | 1680| 
 | 20210914T11:30:57Z | Thi powershell script has got to run in remote hacked windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 6 | 2| 
-| 20210914T11:28:52Z | Null | https://github.com/Relkss/Testing_Exploit | 0 | 0| 
-| 20210914T11:26:42Z | Useful scripts and commands for post exploitation on Mac OS | https://github.com/dubs3c/MacRecon | 0 | 0| 
-| 20210914T11:20:29Z | The popular GENIE Generator product is used by nearly all accelerator neutrino experiments and it plays a key role in the exploitation of neutrino data. The Generator implements a modern software framework and it includes state-of-the-art physics modules. It captures the latest results of the GENIE global analysis of neutrino scattering data and includes several tunes that were produced using the proprietary Comparisons and Tuning products. The GENIE physics model is universal and comprehensive:  It handles all neutrinos and targets, and all processes relevant from MeV to PeV energy scales. The Generator includes several tools (flux drivers, detector geometry navigators, specialized event generation apps, event reweighting engines) to simulate complex experimental setups in full detail and to support generator-related analysis tasks.  | https://github.com/GENIE-MC/Generator | 23 | 54| 
-| 20210914T11:17:00Z | Container (Docker) escape exploits | https://github.com/duowen1/Container-escape-exps | 2 | 1| 
-| 20210914T11:11:46Z | E3C is a freely available multilingual corpus (Italian, English, French, Spanish, and Basque) of semantically annotated clinical narratives to allow for the linguistic analysis, benchmarking, and training of information extraction systems. It consists of two types of annotations: (i) clinical entities: pathologies, symptoms, procedures, body parts, etc., according to standard clinical taxonomies (i.e. SNOMED-CT, ICD-10); and (ii) temporal information and factuality: events, time expressions, and temporal relations according to the THYME standard. The corpus is organised into three layers, with different purposes. Layer 1: about 25K tokens per language with full manual annotation of clinical entities, temporal information and factuality, for benchmarkingand linguistic analysis. Layer 2: 50-100K tokens per language with semi-automatic annotations of clinical entities, to be used to train baseline systems. Layer 3: about 1M tokens per language of non-annotated medical documents to be exploited by semi-supervised approaches. Researchers can use the benchmark training and test splits of our corpus to develop and test their own models. We trained several deep learning based models and provide baselines using the benchmark. Both the corpus and the built models will be available through the ELG platform.  | https://github.com/hltfbk/E3C-Corpus | 0 | 1| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210914T12:36:17Z | This is an advanced backdoor, created with Python | https://github.com/Senc3951/Backdoor | 2 | 1| 
+| 20210914T12:23:47Z | Poweshell backdoor metasploit  | https://github.com/crypt0n-root/powershell-backdoor | 0 | 0| 
 | 20210914T11:17:26Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 96 | 17| 
 | 20210914T10:11:00Z | Remote control software | https://github.com/h1zzz/purewater | 0 | 0| 
 | 20210914T02:16:58Z | Backdoor attacks on a deep neural network-based system for COVID-19 detection from chest X-ray images | https://github.com/YukiM00/Backdoored-COVID-Net | 0 | 0| 
@@ -106,29 +108,27 @@
 | 20210914T00:18:46Z | A simple, yet effective backdoor for any Minecraft server. | https://github.com/BookBackdoor/BookBackdoor | 6 | 2| 
 | 20210913T15:59:12Z | This script will parse an input PCAP file, pull out certificates, and analyze them. Reverse https shells can be hard to detect because unlike TCP and HTTP, the content is encrypted. To get around this and attempt some level of detection, we can analyze the handshake at the start of the connection. Meterpreter reverse https shells have randomly generated certificates, so if the issuer/domain are random charcters then we know the server is not legitimate and could be a reverse https back door | https://github.com/shailu-coder/https-backdoors | 0 | 0| 
 | 20210913T15:32:16Z | backdoor | https://github.com/Emilia-ZX/backdoor | 0 | 0| 
-| 20210913T15:31:33Z | This is an advanced backdoor, created with Python | https://github.com/Senc3951/Backdoor | 1 | 1| 
-| 20210913T13:26:58Z | Command Center for multiple Windows targets gained access through Backdoor | https://github.com/ardmm/CommandCenter | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210914T12:10:28Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 157 | 34| 
+| 20210914T11:58:36Z | RAUK: Automatic Schedulability Analysis of RTIC Applications Using Symbolic Execution | https://github.com/markhakansson/master-thesis | 5 | 0| 
+| 20210914T09:35:45Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 148 | 37| 
+| 20210914T07:06:29Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1776 | 505| 
 | 20210913T16:25:44Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1887 | 392| 
 | 20210913T15:21:26Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 466 | 73| 
 | 20210913T14:16:31Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2450 | 363| 
 | 20210913T08:53:38Z | Monster is a symbolic execution engine for 64-bit RISC-U code | https://github.com/cksystemsgroup/monster | 6 | 3| 
 | 20210912T21:03:06Z | Symbolica%s open-source symbolic execution engine. | https://github.com/SymbolicaDev/Symbolica | 28 | 1| 
 | 20210912T17:50:55Z | A toy symbolic execution engine, supporting the blog article ... | https://github.com/synacktiv/toy-wasm-symbexp | 9 | 2| 
-| 20210912T13:32:48Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1775 | 505| 
-| 20210911T21:18:14Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 7 | 4| 
-| 20210910T22:28:54Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 27 | 6| 
-| 20210910T16:39:45Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 655 | 65| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210913T14:00:15Z | NDSS 2020 - HYPER-CUBE: High-Dimensional Hypervisor Fuzzing | https://github.com/RUB-SysSec/Hypercube | 11 | 0| 
+| 20210914T02:29:51Z | NDSS 2020 - HYPER-CUBE: High-Dimensional Hypervisor Fuzzing | https://github.com/RUB-SysSec/Hypercube | 12 | 0| 
 | 20210912T09:26:17Z | A penetration testing tool for finding file upload bugs (NDSS 2020) | https://github.com/WSP-LAB/FUSE | 160 | 37| 
 | 20210911T23:55:07Z | Code for NDSS 2021 Paper %Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses Against Federated Learning% | https://github.com/vrt1shjwlkr/NDSS21-Model-Poisoning | 22 | 4| 
 | 20210910T21:11:44Z | Code for NDSS% 19 paper:  A Systematic Framework to Generate Invariants for Anomaly Detection in Industrial Control Systems | https://github.com/cfeng783/NDSS19_InvariantRuleAD | 3 | 1| 
@@ -137,16 +137,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210914T01:50:42Z | Creciendo en programacion | https://github.com/Sahit28/fuzzy-octo-meme- | 0 | 0| 
-| 20210914T01:28:33Z | Null | https://github.com/fuzzy11111/fuzzysbigidea | 0 | 0| 
-| 20210914T01:25:57Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6641 | 1359| 
-| 20210914T01:02:51Z | Repo para TP #4 de PIAPC | https://github.com/hernanbrue/HB_fuzzy | 0 | 0| 
-| 20210914T00:06:33Z | Sebuah proyek sistem pendukung keputusan berbasis web dengan metode Fuzzy | https://github.com/hudtakim/spk-web-based-fuzzy | 1 | 0| 
-| 20210913T23:57:32Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4563 | 459| 
-| 20210913T23:52:14Z | Null | https://github.com/tmwatchanan/FuzzySets.jl | 0 | 0| 
-| 20210913T23:44:35Z | Locally searching in Swift made simple (and fuzzily) | https://github.com/nerdsupremacist/Fuzzi | 8 | 0| 
-| 20210913T23:43:18Z | domato but as a website | https://github.com/GawdOfROFL/rofl-fuzzer | 0 | 0| 
-| 20210913T22:53:29Z | Just some random things that i%m working on. Feel free to fuzz around and do something with it. | https://github.com/ttoledo00/random_things | 0 | 0| 
+| 20210914T13:00:08Z | Null | https://github.com/ys-zhang/fuzz-ml | 0 | 0| 
+| 20210914T12:51:17Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
+| 20210914T12:45:27Z | 🔥 Studying The Fuzzing Book : https://www.fuzzingbook.org | https://github.com/KimSeoYe/TheFuzzingBook | 5 | 0| 
+| 20210914T12:43:42Z | Null | https://github.com/EviLPhi/Fuzzy-Tsukamoto_Algoritm | 0 | 0| 
+| 20210914T12:36:57Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 341 | 27| 
+| 20210914T12:04:53Z | The main aim of the project was to implement Fuzzy Logic and calculate the amount of braking to be applied on vehicle so we can have a secure travell. The project base or use is in automobile industry where they can use this thing so to test their vehicles and analyse the results and built there product better.  | https://github.com/vedantshitale/Creating-a-ABS-system-using-Fuzzy-logic | 0 | 0| 
+| 20210914T11:58:07Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 541 | 51| 
+| 20210914T11:46:10Z | JetBrains Research intership project. | https://github.com/AnzhelaSukhanova/fuzzing_of_spacer | 0 | 0| 
+| 20210914T11:34:29Z | Null | https://github.com/Karthik1597/fuzzy-potato | 0 | 0| 
+| 20210914T11:31:12Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 
 
 
