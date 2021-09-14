@@ -33,14 +33,14 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210914T12:23:23Z | CVE-2021-40444 | This repo contain builders of cab file, html file, and docx file for CVE-2021-40444 exploit | https://github.com/aslitsecurity/CVE-2021-40444_builders | 未查询到CVE信息| 
 | 20210914T12:14:05Z | 未知编号 | Null | https://github.com/mr-r3b00t/2021-BadPewCVEs | 未查询到CVE信息| 
 | 20210914T11:39:01Z | CVE-2021-24499 | Mass exploitation of CVE-2021-24499 unauthenticated upload leading to remote code execution in Workreap theme. | https://github.com/RyouYoo/CVE-2021-24499 | The Workreap WordPress theme before 2.2.2 AJAX actions workreap_award_temp_file_uploader and workreap_temp_file_uploader did not perform nonce checks, or validate that the request is from a valid user in any other way. The endpoints allowed for uploading arbitrary files to the uploads/workreap-temp directory. Uploaded files were neither sanitized nor validated, allowing an unauthenticated visitor to upload executable code such as php scripts.| 
-| 20210914T10:23:28Z | CVE-2021-40444 | This repo contain builders of cab file, html file, and docx file for CVE-2021-40444 exploit | https://github.com/aslitsecurity/CVE-2021-40444_builders | 未查询到CVE信息| 
 | 20210914T08:18:40Z | cve-2021-40444 | Null | https://github.com/Immersive-Labs-Sec/cve-2021-40444-analysis | 未查询到CVE信息| 
 | 20210914T06:44:49Z | CVE-2021-40845 | AlphaWeb XE, the embedded web server running on AlphaCom XE, has a vulnerability which allows to upload PHP files leading to RCE once the authentication is successful. | https://github.com/ricardojoserf/CVE-2021-40845 | 未查询到CVE信息| 
-| 20210914T03:21:25Z | CVE-2021-32202 | CVE-2021-32202 | https://github.com/l00neyhacker/CVE-2021-32202 | 未查询到CVE信息| 
+| 20210914T03:21:25Z | CVE-2021-32202 | CVE-2021-32202 | https://github.com/l00neyhacker/CVE-2021-32202 | In CS-Cart version 4.11.1, it is possible to induce copy-paste XSS by manipulating the %post description% filed in the blog post creation page.| 
 | 20210914T03:17:26Z | CVE-2021-36582 | CVE-2021-36582 | https://github.com/l00neyhacker/CVE-2021-36582 | In Kooboo CMS 2.1.1.0, it is possible to upload a remote shell (e.g., aspx) to the server and then call upon it to receive a reverse shell from the victim server. The files are uploaded to /Content/Template/root/reverse-shell.aspx and can be simply triggered by browsing that URL.| 
-| 20210914T03:12:30Z | CVE-2021-36581 | CVE-2021-36581 | https://github.com/l00neyhacker/CVE-2021-36581 | 未查询到CVE信息| 
+| 20210914T03:12:30Z | CVE-2021-36581 | CVE-2021-36581 | https://github.com/l00neyhacker/CVE-2021-36581 | Kooboo CMS 2.1.1.0 is vulnerable to Insecure file upload. It is possible to upload any file extension to the server. The server does not verify the extension of the file and the tester was able to upload an aspx to the server.| 
 | 20210914T02:47:28Z | CVE-2021-40346 | CVE-2021-40346 integer overflow enables http smuggling | https://github.com/donky16/CVE-2021-40346-POC | An integer overflow exists in HAProxy 2.0 through 2.5 in htx_add_header that can be exploited to perform an HTTP request smuggling attack, allowing an attacker to bypass all configured http-request HAProxy ACLs and possibly other ACLs.| 
 | 20210914T02:33:43Z | 未知编号 | Null | https://github.com/aydianosec/CVE2021-40444 | 未查询到CVE信息| 
 
@@ -63,7 +63,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210914T12:17:04Z | Null | https://github.com/TheCrazzXz/Exploits-Lab | 0 | 1| 
+| 20210914T12:26:37Z | E3C is a freely available multilingual corpus (Italian, English, French, Spanish, and Basque) of semantically annotated clinical narratives to allow for the linguistic analysis, benchmarking, and training of information extraction systems. It consists of two types of annotations: (i) clinical entities: pathologies, symptoms, procedures, body parts, etc., according to standard clinical taxonomies (i.e. SNOMED-CT, ICD-10); and (ii) temporal information and factuality: events, time expressions, and temporal relations according to the THYME standard. The corpus is organised into three layers, with different purposes. Layer 1: about 25K tokens per language with full manual annotation of clinical entities, temporal information and factuality, for benchmarkingand linguistic analysis. Layer 2: 50-100K tokens per language with semi-automatic annotations of clinical entities, to be used to train baseline systems. Layer 3: about 1M tokens per language of non-annotated medical documents to be exploited by semi-supervised approaches. Researchers can use the benchmark training and test splits of our corpus to develop and test their own models. We trained several deep learning based models and provide baselines using the benchmark. Both the corpus and the built models will be available through the ELG platform.  | https://github.com/hltfbk/E3C-Corpus | 0 | 1| 
+| 20210914T12:22:51Z | Null | https://github.com/TheCrazzXz/Exploits-Lab | 0 | 1| 
 | 20210914T12:03:29Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 31 | 18| 
 | 20210914T11:56:34Z | 📈 A visualization of MetricQ data exploiting the advantages of the HTA db backend  | https://github.com/metricq/metricq-webview | 0 | 1| 
 | 20210914T11:42:33Z | The aim of this project is to develop a web interface for visualizing indexed documents, enriched by exploiting the semantic index | https://github.com/issa-project/visualization | 0 | 0| 
@@ -72,13 +73,12 @@
 | 20210914T11:30:57Z | Thi powershell script has got to run in remote hacked windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 6 | 2| 
 | 20210914T11:28:52Z | Null | https://github.com/Relkss/Testing_Exploit | 0 | 0| 
 | 20210914T11:26:42Z | Useful scripts and commands for post exploitation on Mac OS | https://github.com/dubs3c/MacRecon | 0 | 0| 
-| 20210914T11:20:29Z | The popular GENIE Generator product is used by nearly all accelerator neutrino experiments and it plays a key role in the exploitation of neutrino data. The Generator implements a modern software framework and it includes state-of-the-art physics modules. It captures the latest results of the GENIE global analysis of neutrino scattering data and includes several tunes that were produced using the proprietary Comparisons and Tuning products. The GENIE physics model is universal and comprehensive:  It handles all neutrinos and targets, and all processes relevant from MeV to PeV energy scales. The Generator includes several tools (flux drivers, detector geometry navigators, specialized event generation apps, event reweighting engines) to simulate complex experimental setups in full detail and to support generator-related analysis tasks.  | https://github.com/GENIE-MC/Generator | 23 | 54| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210914T12:17:08Z | Poweshell backdoor metasploit  | https://github.com/crypt0n-root/powershell-backdoor | 0 | 0| 
+| 20210914T12:23:47Z | Poweshell backdoor metasploit  | https://github.com/crypt0n-root/powershell-backdoor | 0 | 0| 
 | 20210914T11:17:26Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 96 | 17| 
 | 20210914T10:11:00Z | Remote control software | https://github.com/h1zzz/purewater | 0 | 0| 
 | 20210914T02:16:58Z | Backdoor attacks on a deep neural network-based system for COVID-19 detection from chest X-ray images | https://github.com/YukiM00/Backdoored-COVID-Net | 0 | 0| 
@@ -90,6 +90,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210914T12:10:28Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 157 | 34| 
+| 20210914T11:58:36Z | RAUK: Automatic Schedulability Analysis of RTIC Applications Using Symbolic Execution | https://github.com/markhakansson/master-thesis | 5 | 0| 
+| 20210914T09:35:45Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 148 | 37| 
+| 20210914T07:06:29Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1776 | 505| 
 
 
 # big4 on Github 推荐
