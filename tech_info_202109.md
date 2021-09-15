@@ -47,7 +47,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210915T12:44:12Z | CVE-2021-40444 | This repo contain builders of cab file, html file, and docx file for CVE-2021-40444 exploit | https://github.com/aslitsecurity/CVE-2021-40444_builders | Microsoft MSHTML Remote Code Execution Vulnerability| 
-| 20210915T11:45:16Z | CVE-2021-40444 | Null | https://github.com/k8gege/CVE-2021-40444 | | 
+| 20210915T11:45:16Z | CVE-2021-40444 | Null | https://github.com/k8gege/CVE-2021-40444 | Microsoft MSHTML Remote Code Execution Vulnerability| 
 | 20210915T11:12:32Z | CVE-2020-36386 | Null | https://github.com/madhans23/kernel_imx_4.1.15-CVE-2020-36386_noPatch | An issue was discovered in the Linux kernel before 5.8.1. net/bluetooth/hci_event.c has a slab out-of-bounds read in hci_extended_inquiry_result_evt, aka CID-51c19bf3d5cf.| 
 | 20210915T10:44:18Z | CVE-2020-36386 | Null | https://github.com/artsking/linux-3.0.35_CVE-2020-36386_withPatch | An issue was discovered in the Linux kernel before 5.8.1. net/bluetooth/hci_event.c has a slab out-of-bounds read in hci_extended_inquiry_result_evt, aka CID-51c19bf3d5cf.| 
 | 20210915T09:26:35Z | CVE-2021-33766 | CVE-2021-33766-poc | https://github.com/demossl/CVE-2021-33766-ProxyToken | Microsoft Exchange Information Disclosure Vulnerability| 
@@ -83,6 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210915T12:52:43Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 22 | 14| 
 | 20210915T12:38:13Z | list of bot detector users but marked as %exploiter% | https://github.com/Barmem/BDusers | 0 | 0| 
 | 20210915T12:33:08Z | EVIL (Exploiting software VIa natural Language) is an approach to automatically generate software exploits in assembly/Python language from descriptions in natural language. The approach leverages Neural Machine Translation (NMT) techniques and a dataset that we developed for this work.  | https://github.com/dessertlab/EVIL | 6 | 1| 
 | 20210915T12:12:51Z | Exploits Scripts and other tools that are useful during Penetration-Testing or Red Team engagement  | https://github.com/BlackSnufkin/PT-ToolKit | 1 | 1| 
@@ -92,7 +93,6 @@
 | 20210915T11:35:16Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10037 | 1682| 
 | 20210915T11:33:40Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | 0 | 0| 
 | 20210915T11:29:02Z | brainpan machine exploit | https://github.com/pl7771/brainpanTHM | 0 | 0| 
-| 20210915T11:26:26Z | Wii archive containing WADs including official, unofficial and system IOS/menu, Exploits, Homebrew Apps, DevKit, and more. | https://github.com/ForwarderFactory/wii | 2 | 0| 
 
 
 # backdoor on Github 推荐
@@ -137,12 +137,12 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210915T12:40:43Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
+| 20210915T12:52:53Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20210915T12:45:26Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
 | 20210915T12:34:07Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 183 | 36| 
 | 20210915T12:20:08Z | NSR drone fuzzing project 2021 | https://github.com/daehee87/nsr2021 | 0 | 1| 
 | 20210915T12:17:36Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1045 | 46| 
 | 20210915T12:15:15Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 24 | 10| 
-| 20210915T12:03:58Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210915T11:59:58Z | Null | https://github.com/mongoloidkhulmikuki366385/fuzzy-octo-barnacle | 0 | 0| 
 | 20210915T11:32:10Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210915T11:29:47Z | helper script to generate a random string | https://github.com/ZackDev/fuzzystring | 0 | 0| 
