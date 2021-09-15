@@ -46,22 +46,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210915T00:46:15Z | CVE-2021-40444 | This repo contain builders of cab file, html file, and docx file for CVE-2021-40444 exploit | https://github.com/aslitsecurity/CVE-2021-40444_builders | 未查询到CVE信息| 
-| 20210915T00:15:15Z | CVE-2021-40444 | Null | https://github.com/k8gege/CVE-2021-40444 | 未查询到CVE信息| 
+| 20210915T01:59:14Z | CVE-2021-40444 | Null | https://github.com/k8gege/CVE-2021-40444 | 未查询到CVE信息| 
+| 20210915T01:55:21Z | CVE-2021-40444 | This repo contain builders of cab file, html file, and docx file for CVE-2021-40444 exploit | https://github.com/aslitsecurity/CVE-2021-40444_builders | 未查询到CVE信息| 
+| 20210915T01:18:55Z | 未知编号 | Null | https://github.com/mr-r3b00t/2021-BadPewCVEs | 未查询到CVE信息| 
 | 20210914T20:02:42Z | 未知编号 | Scans Microsoft office documents for malicious xml entries | https://github.com/InfoSecPolkCounty/CVE2021-40444-document-Scanner | 未查询到CVE信息| 
 | 20210914T19:23:22Z | CVE-2021-3156 | CVE-2021-3156: Sudo heap overflow exploit for Debian 10 | https://github.com/0xdevil/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210914T16:18:44Z | CVE-2021-24741 | Multiple SQL Inejection Vulnerability in Support Board Version 3.3.3 that allow remote unauthenticated attacker to execute arbitrary SQL commands via status_code, department, user_id, conversation_id, conversation_status_code, and recipient_id parameters to ajax.php which is connected to functions.php which the vulnerability is present. | https://github.com/itsjeffersonli/CVE-2021-24741 | 未查询到CVE信息| 
-| 20210914T14:23:06Z | 未知编号 | Null | https://github.com/mr-r3b00t/2021-BadPewCVEs | 未查询到CVE信息| 
 | 20210914T13:56:49Z | CVE-2021-40444 | partly working PoC, check lockedbytes PoC for full experience! | https://github.com/js-on/CVE-2021-40444 | 未查询到CVE信息| 
 | 20210914T11:39:01Z | CVE-2021-24499 | Mass exploitation of CVE-2021-24499 unauthenticated upload leading to remote code execution in Workreap theme. | https://github.com/RyouYoo/CVE-2021-24499 | The Workreap WordPress theme before 2.2.2 AJAX actions workreap_award_temp_file_uploader and workreap_temp_file_uploader did not perform nonce checks, or validate that the request is from a valid user in any other way. The endpoints allowed for uploading arbitrary files to the uploads/workreap-temp directory. Uploaded files were neither sanitized nor validated, allowing an unauthenticated visitor to upload executable code such as php scripts.| 
-| 20210914T08:18:40Z | cve-2021-40444 | Null | https://github.com/Immersive-Labs-Sec/cve-2021-40444-analysis | 未查询到CVE信息| 
+| 20210914T08:18:40Z | cve-2021-40444 | Null | https://github.com/Immersive-Labs-Sec/cve-2021-40444-analysis | | 
 | 20210914T06:44:49Z | CVE-2021-40845 | AlphaWeb XE, the embedded web server running on AlphaCom XE, has a vulnerability which allows to upload PHP files leading to RCE once the authentication is successful. | https://github.com/ricardojoserf/CVE-2021-40845 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210915T00:42:45Z | Null | https://github.com/klee669/klee669.github.io | 0 | 0| 
+| 20210915T01:02:19Z | Null | https://github.com/klee669/klee669.github.io | 0 | 0| 
 | 20210914T18:52:11Z | Null | https://github.com/klee669/klee.github.io | 0 | 0| 
 | 20210914T14:48:27Z | Null | https://github.com/kleemeo/kleemeo.github.io | 0 | 0| 
 | 20210914T14:35:19Z | KLEE with floating point support (unmaintained) | https://github.com/srg-imperial/klee-float | 12 | 14| 
@@ -83,16 +83,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210915T01:58:15Z | 在科研（摸鱼）过程中，收集到的或者自己写的一些有用的（经过实战检验的）exp/poc，欢迎提交issue和PR | https://github.com/ycdxsb/Exploits | 2 | 1| 
+| 20210915T01:42:49Z | scripts and scraps related to exploitation | https://github.com/egeniius/exploitation | 0 | 0| 
+| 20210915T01:32:38Z | Thi powershell script has got to run in remote hacked windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 6 | 2| 
+| 20210915T01:06:35Z | Docker container that has all the CLI tooling for binary exploitation (thanks to @LiveOverflow) | https://github.com/sogonsec/docker-binaryexploitation | 8 | 0| 
+| 20210915T01:02:59Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 31 | 18| 
+| 20210915T00:52:42Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 22 | 14| 
 | 20210915T00:43:41Z | Collection of Discord hacking tools/fun stuff/exploits that I developed using NodeJS. | https://github.com/I2rys/ODiscord | 5 | 3| 
-| 20210915T00:35:00Z | Docker container that has all the CLI tooling for binary exploitation (thanks to @LiveOverflow) | https://github.com/sogonsec/docker-binaryexploitation | 8 | 0| 
 | 20210915T00:28:52Z | C# based tool which automates the process of discovering and exploiting DLL Hijacks in target binaries. The Hijacked paths discovered can later be weaponized during Red Team Operations to evade EDR%s. | https://github.com/knight0x07/ImpulsiveDLLHijack | 68 | 12| 
 | 20210915T00:23:43Z | This is a list of Discord console scripts, bugs and exploits. | https://github.com/ImLorio/All-Discord-Exploits | 9 | 2| 
 | 20210915T00:06:39Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 227 | 12| 
-| 20210915T00:03:16Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 31 | 18| 
-| 20210914T23:58:31Z | Rewritten exploits and automated scripts | https://github.com/jclel/tools | 0 | 0| 
-| 20210914T23:49:49Z | CVE-2018-15473 Exploit | https://github.com/MrDottt/CVE-2018-15473 | 0 | 0| 
-| 20210914T23:35:30Z | Proof of concept code for the BranchSpec exploit. | https://github.com/fanyao/branchspec | 2 | 4| 
-| 20210914T23:30:47Z | lxd privilege escalation exploit with an alpine image encoded inside lxd-privesc-exploit. (Privilege escalation resultant in root access)  | https://github.com/0bfxgh0st/lxd-privesc-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -137,16 +137,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210915T00:36:56Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6645 | 1359| 
-| 20210915T00:31:41Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
+| 20210915T01:50:42Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1043 | 46| 
+| 20210915T01:49:34Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6646 | 1359| 
+| 20210915T01:35:34Z | Null | https://github.com/turpag/fuzzy-eureka | 0 | 0| 
+| 20210915T01:29:27Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4564 | 459| 
+| 20210915T01:19:05Z | Null | https://github.com/randstad-strategic-analytics/fuzzy_merge | 0 | 0| 
+| 20210915T01:11:18Z | CBOR codec (in Go) with CBOR tags, Go struct tags (toarray/keyasint/omitempty), float64/32/16, big.Int, and fuzz tested billions of execs for reliable RFC 7049 & RFC 8949.  | https://github.com/fxamacker/cbor | 321 | 26| 
+| 20210915T01:01:43Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210915T00:18:33Z | Fuzzer for Dolt repositories | https://github.com/dolthub/fuzzer | 2 | 0| 
 | 20210915T00:13:50Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210915T00:09:12Z | Null | https://github.com/yasminekat/fuzzy-octo-potato | 0 | 0| 
-| 20210914T23:43:28Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4564 | 459| 
-| 20210914T23:03:41Z | Null | https://github.com/AmeliaYeah/dns-host-directory-fuzz | 0 | 0| 
-| 20210914T22:15:59Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1043 | 46| 
-| 20210914T21:56:46Z | An investigation of American Fuzzy Lop++ as a fuzzer | https://github.com/hark130/hardy-remix | 0 | 0| 
-| 20210914T21:51:44Z | Null | https://github.com/tmwatchanan/FuzzySets.jl | 0 | 0| 
 
 
 

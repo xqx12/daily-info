@@ -38,13 +38,13 @@
 | 20210914T20:02:42Z | 未知编号 | Scans Microsoft office documents for malicious xml entries | https://github.com/InfoSecPolkCounty/CVE2021-40444-document-Scanner | 未查询到CVE信息| 
 | 20210914T19:23:22Z | CVE-2021-3156 | CVE-2021-3156: Sudo heap overflow exploit for Debian 10 | https://github.com/0xdevil/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210914T16:18:44Z | CVE-2021-24741 | Multiple SQL Inejection Vulnerability in Support Board Version 3.3.3 that allow remote unauthenticated attacker to execute arbitrary SQL commands via status_code, department, user_id, conversation_id, conversation_status_code, and recipient_id parameters to ajax.php which is connected to functions.php which the vulnerability is present. | https://github.com/itsjeffersonli/CVE-2021-24741 | 未查询到CVE信息| 
-| 20210914T14:23:06Z | 未知编号 | Null | https://github.com/mr-r3b00t/2021-BadPewCVEs | 未查询到CVE信息| 
 | 20210914T13:56:49Z | CVE-2021-40444 | partly working PoC, check lockedbytes PoC for full experience! | https://github.com/js-on/CVE-2021-40444 | 未查询到CVE信息| 
 | 20210914T11:39:01Z | CVE-2021-24499 | Mass exploitation of CVE-2021-24499 unauthenticated upload leading to remote code execution in Workreap theme. | https://github.com/RyouYoo/CVE-2021-24499 | The Workreap WordPress theme before 2.2.2 AJAX actions workreap_award_temp_file_uploader and workreap_temp_file_uploader did not perform nonce checks, or validate that the request is from a valid user in any other way. The endpoints allowed for uploading arbitrary files to the uploads/workreap-temp directory. Uploaded files were neither sanitized nor validated, allowing an unauthenticated visitor to upload executable code such as php scripts.| 
-| 20210914T08:18:40Z | cve-2021-40444 | Null | https://github.com/Immersive-Labs-Sec/cve-2021-40444-analysis | 未查询到CVE信息| 
+| 20210914T08:18:40Z | cve-2021-40444 | Null | https://github.com/Immersive-Labs-Sec/cve-2021-40444-analysis | | 
 | 20210914T06:44:49Z | CVE-2021-40845 | AlphaWeb XE, the embedded web server running on AlphaCom XE, has a vulnerability which allows to upload PHP files leading to RCE once the authentication is successful. | https://github.com/ricardojoserf/CVE-2021-40845 | 未查询到CVE信息| 
 | 20210914T03:21:25Z | CVE-2021-32202 | CVE-2021-32202 | https://github.com/l00neyhacker/CVE-2021-32202 | In CS-Cart version 4.11.1, it is possible to induce copy-paste XSS by manipulating the %post description% filed in the blog post creation page.| 
 | 20210914T03:17:26Z | CVE-2021-36582 | CVE-2021-36582 | https://github.com/l00neyhacker/CVE-2021-36582 | In Kooboo CMS 2.1.1.0, it is possible to upload a remote shell (e.g., aspx) to the server and then call upon it to receive a reverse shell from the victim server. The files are uploaded to /Content/Template/root/reverse-shell.aspx and can be simply triggered by browsing that URL.| 
+| 20210914T03:12:30Z | CVE-2021-36581 | CVE-2021-36581 | https://github.com/l00neyhacker/CVE-2021-36581 | Kooboo CMS 2.1.1.0 is vulnerable to Insecure file upload. It is possible to upload any file extension to the server. The server does not verify the extension of the file and the tester was able to upload an aspx to the server.| 
 
 
 # klee on Github 推荐
@@ -113,9 +113,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210914T23:43:28Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4564 | 459| 
 | 20210914T23:03:41Z | Null | https://github.com/AmeliaYeah/dns-host-directory-fuzz | 0 | 0| 
-| 20210914T22:15:59Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1043 | 46| 
 | 20210914T21:56:46Z | An investigation of American Fuzzy Lop++ as a fuzzer | https://github.com/hark130/hardy-remix | 0 | 0| 
 | 20210914T21:51:44Z | Null | https://github.com/tmwatchanan/FuzzySets.jl | 0 | 0| 
 | 20210914T21:39:53Z | Examples to stand up demo infrastructure | https://github.com/mikelaramie/fuzzy-bassoon | 0 | 0| 
@@ -123,6 +121,8 @@
 | 20210914T20:10:01Z | Calculating regression of large datasets using FCM clustering algorithm to aproximate and reduce data set size. | https://github.com/margawron/FuzzyRegression | 0 | 0| 
 | 20210914T20:02:36Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210914T19:37:01Z | Gentoo overlay | https://github.com/lferra/fuzzy-potato | 0 | 0| 
+| 20210914T18:54:04Z | Repo for a personal website using blogdown | https://github.com/mntzj/fuzzy-potato | 0 | 0| 
+| 20210914T18:35:23Z | Null | https://github.com/becsun/fuzzy-barnacle | 0 | 0| 
 
 
 
