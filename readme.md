@@ -28,10 +28,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210915T12:39:27Z | CVE-2021-40444 | This repo contain builders of cab file, html file, and docx file for CVE-2021-40444 exploit | https://github.com/aslitsecurity/CVE-2021-40444_builders | Microsoft MSHTML Remote Code Execution Vulnerability| 
-| 20210915T11:45:16Z | CVE-2021-40444 | Null | https://github.com/k8gege/CVE-2021-40444 | Microsoft MSHTML Remote Code Execution Vulnerability| 
+| 20210915T12:44:12Z | CVE-2021-40444 | This repo contain builders of cab file, html file, and docx file for CVE-2021-40444 exploit | https://github.com/aslitsecurity/CVE-2021-40444_builders | Microsoft MSHTML Remote Code Execution Vulnerability| 
+| 20210915T11:45:16Z | CVE-2021-40444 | Null | https://github.com/k8gege/CVE-2021-40444 | | 
 | 20210915T11:12:32Z | CVE-2020-36386 | Null | https://github.com/madhans23/kernel_imx_4.1.15-CVE-2020-36386_noPatch | An issue was discovered in the Linux kernel before 5.8.1. net/bluetooth/hci_event.c has a slab out-of-bounds read in hci_extended_inquiry_result_evt, aka CID-51c19bf3d5cf.| 
-| 20210915T10:44:18Z | CVE-2020-36386 | Null | https://github.com/artsking/linux-3.0.35_CVE-2020-36386_withPatch | | 
+| 20210915T10:44:18Z | CVE-2020-36386 | Null | https://github.com/artsking/linux-3.0.35_CVE-2020-36386_withPatch | An issue was discovered in the Linux kernel before 5.8.1. net/bluetooth/hci_event.c has a slab out-of-bounds read in hci_extended_inquiry_result_evt, aka CID-51c19bf3d5cf.| 
 | 20210915T09:26:35Z | CVE-2021-33766 | CVE-2021-33766-poc | https://github.com/demossl/CVE-2021-33766-ProxyToken | Microsoft Exchange Information Disclosure Vulnerability| 
 | 20210915T06:17:05Z | CVE-2021-29003 | Null | https://github.com/jaysharma786/CVE-2021-29003 | Genexis PLATINUM 4410 2.1 P4410-V2-1.28 devices allow remote attackers to execute arbitrary code via shell metacharacters to sys_config_valid.xgi, as demonstrated by the sys_config_valid.xgi?exeshell=%60telnetd%20%26%60 URI.| 
 | 20210915T03:22:09Z | CVE-2021-21220 | Null | https://github.com/security-dbg/CVE-2021-21220 | Insufficient validation of untrusted input in V8 in Google Chrome prior to 89.0.4389.128 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.| 
@@ -79,8 +79,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210915T12:41:51Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1888 | 393| 
 | 20210915T12:10:30Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 157 | 34| 
-| 20210915T10:14:04Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1887 | 393| 
 | 20210915T08:07:40Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 468 | 73| 
 
 
