@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210916T12:53:39Z | CVE-2021-40444 | CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit | https://github.com/klezVirus/CVE-2021-40444 | Microsoft MSHTML Remote Code Execution Vulnerability| 
-| 20210916T10:50:28Z | CVE-2020-36386 | Null | https://github.com/artsking/linux-4.1.15_CVE-2020-36386_withPatch | An issue was discovered in the Linux kernel before 5.8.1. net/bluetooth/hci_event.c has a slab out-of-bounds read in hci_extended_inquiry_result_evt, aka CID-51c19bf3d5cf.| 
+| 20210916T12:56:43Z | CVE-2021-40444 | CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit | https://github.com/klezVirus/CVE-2021-40444 | Microsoft MSHTML Remote Code Execution Vulnerability| 
+| 20210916T10:50:28Z | CVE-2020-36386 | Null | https://github.com/artsking/linux-4.1.15_CVE-2020-36386_withPatch | | 
 | 20210916T10:40:02Z | CVE-2021-38647 | Proof on Concept Exploit for CVE-2021-38647 (OMIGOD) | https://github.com/horizon3ai/CVE-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
 | 20210916T10:31:09Z | CVE-2021-2302 | Null | https://github.com/quynhle7821/CVE-2021-2302 | Vulnerability in the Oracle Platform Security for Java product of Oracle Fusion Middleware (component: OPSS). Supported versions that are affected are 11.1.1.9.0, 12.2.1.3.0 and 12.2.1.4.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle Platform Security for Java. Successful attacks of this vulnerability can result in takeover of Oracle Platform Security for Java. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
 | 20210916T10:20:13Z | CVE-2021-40444 | CVE-2021-40444 - Custom CAB templates from MakeCAB | https://github.com/Udyz/CVE-2021-40444-CAB | Microsoft MSHTML Remote Code Execution Vulnerability| 
@@ -85,7 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210916T12:53:39Z | CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit | https://github.com/klezVirus/CVE-2021-40444 | 34 | 11| 
+| 20210916T12:56:43Z | CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit | https://github.com/klezVirus/CVE-2021-40444 | 35 | 11| 
 | 20210916T12:52:43Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 22 | 14| 
 | 20210916T12:46:50Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10040 | 1682| 
 | 20210916T12:33:12Z | Null | https://github.com/dalvikbytecode/exploit | 0 | 0| 
@@ -115,12 +115,12 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210916T12:52:05Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 469 | 73| 
 | 20210916T12:46:56Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 656 | 66| 
 | 20210916T09:37:54Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2454 | 363| 
 | 20210916T08:58:02Z | Compiled Sail ISA snapshots for the Isla symbolic execution tool | https://github.com/rems-project/isla-snapshots | 1 | 0| 
 | 20210916T03:06:54Z | Code for the use cases presented in the paper Symbion: Interleaving Symbolic with Concrete Execution | https://github.com/degrigis/symbion-use-cases | 7 | 2| 
 | 20210916T00:34:39Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 28 | 6| 
-| 20210915T16:48:25Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 469 | 73| 
 | 20210915T16:14:24Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1776 | 506| 
 | 20210915T12:41:51Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1888 | 393| 
 | 20210915T12:10:30Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 157 | 34| 
