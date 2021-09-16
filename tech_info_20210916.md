@@ -30,10 +30,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210916T11:52:37Z | CVE-2021-40444 | CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit | https://github.com/klezVirus/CVE-2021-40444 | | 
+| 20210916T12:02:59Z | CVE-2021-40444 | CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit | https://github.com/klezVirus/CVE-2021-40444 | Microsoft MSHTML Remote Code Execution Vulnerability| 
 | 20210916T10:50:28Z | CVE-2020-36386 | Null | https://github.com/artsking/linux-4.1.15_CVE-2020-36386_withPatch | An issue was discovered in the Linux kernel before 5.8.1. net/bluetooth/hci_event.c has a slab out-of-bounds read in hci_extended_inquiry_result_evt, aka CID-51c19bf3d5cf.| 
 | 20210916T10:40:02Z | CVE-2021-38647 | Proof on Concept Exploit for CVE-2021-38647 (OMIGOD) | https://github.com/horizon3ai/CVE-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
-| 20210916T10:31:09Z | CVE-2021-2302 | Null | https://github.com/quynhle7821/CVE-2021-2302 | Vulnerability in the Oracle Platform Security for Java product of Oracle Fusion Middleware (component: OPSS). Supported versions that are affected are 11.1.1.9.0, 12.2.1.3.0 and 12.2.1.4.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle Platform Security for Java. Successful attacks of this vulnerability can result in takeover of Oracle Platform Security for Java. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
+| 20210916T10:31:09Z | CVE-2021-2302 | Null | https://github.com/quynhle7821/CVE-2021-2302 | | 
 | 20210916T10:20:13Z | CVE-2021-40444 | CVE-2021-40444 - Custom CAB templates from MakeCAB | https://github.com/Udyz/CVE-2021-40444-CAB | Microsoft MSHTML Remote Code Execution Vulnerability| 
 | 20210916T09:57:43Z | CVE-2021-33034 | Null | https://github.com/artsking/linux-4.1.15_CVE-2021-33034_withPatch | In the Linux kernel before 5.12.4, net/bluetooth/hci_event.c has a use-after-free when destroying an hci_chan, aka CID-5c4c8c954409. This leads to writing an arbitrary value.| 
 | 20210916T09:50:24Z | CVE-2021-40444 | This repo contain builders of cab file, html file, and docx file for CVE-2021-40444 exploit | https://github.com/aslitsecurity/CVE-2021-40444_builders | Microsoft MSHTML Remote Code Execution Vulnerability| 
@@ -60,22 +60,29 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210916T12:03:01Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 31 | 18| 
+| 20210916T12:02:59Z | CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit | https://github.com/klezVirus/CVE-2021-40444 | 26 | 9| 
+| 20210916T12:02:36Z | Null | https://github.com/vulsio/go-exploitdb | 124 | 36| 
+| 20210916T12:02:15Z | Windows Exploit Development Tutorial Series | https://github.com/whichbuffer/WindowsExploitDev | 9 | 2| 
 | 20210916T11:55:09Z | PolaBeax is an easy-to-use exploit which allow you to run different commands ( not LUA ) which already invented. For more information, go to %README.txt%. | https://github.com/OriChanEzScript/PolaBeax-Lua | 0 | 0| 
-| 20210916T11:52:37Z | CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit | https://github.com/klezVirus/CVE-2021-40444 | 24 | 9| 
 | 20210916T11:51:19Z | Final Year Project - Side-Channel Attack Exploitation Tools | https://github.com/leonlai1234/FYP | 0 | 0| 
 | 20210916T11:50:17Z | Thi powershell script has got to run in remote hacked windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 7 | 2| 
 | 20210916T11:44:01Z | Exploit Code | https://github.com/wjddnjs33/Exploit | 0 | 0| 
 | 20210916T11:35:17Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10041 | 1682| 
 | 20210916T11:19:24Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 3920 | 541| 
-| 20210916T11:07:05Z | 📈 A visualization of MetricQ data exploiting the advantages of the HTA db backend  | https://github.com/metricq/metricq-webview | 0 | 1| 
-| 20210916T11:02:56Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 31 | 18| 
-| 20210916T11:02:44Z | Ways to bypass school restrictions and collect data | https://github.com/itsjaylen/SchoolExploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210916T01:44:42Z | Pico-BackDroid is an Android Reverse Shell Backdoor for CircuitPython on Raspberry Pi Pico. | https://github.com/V0lk3n/Pico-BackDroid | 0 | 0| 
+| 20210916T11:59:10Z | Code and data of the ACL-IJCNLP 2021 paper %Hidden Killer: Invisible Textual Backdoor Attacks with Syntactic Trigger% | https://github.com/thunlp/HiddenKiller | 3 | 2| 
+| 20210916T10:43:04Z | PyIris is a modular remote access trojan toolkit written completely in python targeting Windows and Linux systems. | https://github.com/angus-y/PyIris-backdoor | 169 | 53| 
+| 20210916T10:27:53Z | Null | https://github.com/Wiilldd/backdoor | 0 | 0| 
+| 20210916T07:30:04Z | Null | https://github.com/master7720/backdoored-1.8.2-src | 0 | 0| 
+| 20210916T06:44:47Z | Null | https://github.com/Kani1812/Backdoor_Project | 0 | 0| 
+| 20210916T06:43:29Z | Null | https://github.com/mr-quixter/ShellBackdoor | 0 | 0| 
+| 20210916T03:02:16Z | Pico-BackDroid is an Android Reverse Shell Backdoor for CircuitPython on Raspberry Pi Pico. | https://github.com/V0lk3n/Pico-BackDroid | 0 | 0| 
+| 20210916T02:29:55Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 315 | 57| 
 
 
 # symbolic execution on Github 推荐
