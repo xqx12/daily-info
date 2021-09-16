@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210916T00:59:14Z | CVE-2021-40444 | This repo contain builders of cab file, html file, and docx file for CVE-2021-40444 exploit | https://github.com/aslitsecurity/CVE-2021-40444_builders | Microsoft MSHTML Remote Code Execution Vulnerability| 
+| 20210916T01:35:07Z | CVE-2021-40444 | This repo contain builders of cab file, html file, and docx file for CVE-2021-40444 exploit | https://github.com/aslitsecurity/CVE-2021-40444_builders | Microsoft MSHTML Remote Code Execution Vulnerability| 
 | 20210915T23:09:30Z | CVE-2021-36934 | C# PoC for CVE-2021-36934/HiveNightmare/SeriousSAM | https://github.com/cube0x0/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
 | 20210915T22:41:04Z | cve-2020-2853 | Null | https://github.com/intrigueio/cve-2020-2853-poc | Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Security: Privileges). Supported versions that are affected are 8.0.18 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server. Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of MySQL Server. CVSS 3.0 Base Score 4.9 (Availability impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:H/UI:N/S:U/C:N/I:N/A:H).| 
 | 20210915T21:48:12Z | CVE-2021-38647 | CVE-2021-38647 POC for RCE | https://github.com/midoxnet/CVE-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210916T00:40:03Z | Null | https://github.com/kleemeo/kleemeo.github.io | 0 | 0| 
+| 20210916T01:28:31Z | Null | https://github.com/kleemeo/kleemeo.github.io | 0 | 0| 
 | 20210915T22:42:42Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 186 | 19| 
 | 20210915T20:44:48Z | Null | https://github.com/pain-arch/klee-broser-py | 0 | 0| 
 | 20210915T16:14:24Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1776 | 505| 
@@ -83,6 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210916T01:29:43Z | Collection of Discord hacking tools/fun stuff/exploits that is completely developed using NodeJS. | https://github.com/I2rys/ODiscord | 4 | 3| 
 | 20210916T01:15:54Z | CTF/hacking challenge solutions for binary exploitation/memory corruption. Currently adding kernel exploitation challenge writeups | https://github.com/docfate111/binary_exploitation | 0 | 0| 
 | 20210916T01:11:27Z | Everest, A Next-Gen Roblox Exploitation Toolkit. | https://github.com/Th3Tr1ckst3r/Everest | 3 | 1| 
 | 20210916T01:03:17Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 31 | 18| 
@@ -92,13 +93,12 @@
 | 20210915T23:49:42Z | X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter | https://github.com/Moham3dRiahi/XAttacker | 988 | 433| 
 | 20210915T23:33:24Z | Exploits Collection Tool | https://github.com/wibuheker/exploits | 0 | 0| 
 | 20210915T22:40:03Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 3956 | 567| 
-| 20210915T22:35:49Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 227 | 12| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210916T01:23:43Z | Pico-BackDroid is an Android Reverse Shell Backdoor for CircuitPython on Raspberry Pi Pico. | https://github.com/V0lk3n/Pico-BackDroid | 0 | 0| 
+| 20210916T01:32:18Z | Pico-BackDroid is an Android Reverse Shell Backdoor for CircuitPython on Raspberry Pi Pico. | https://github.com/V0lk3n/Pico-BackDroid | 0 | 0| 
 | 20210915T23:34:17Z | backdoor control php sites, The site is controlled by sending commands, files and codes to the site using the http or https protocol. After copying the code and placing it in any php file on the target website, you will have permissions to enter it, read all files, delete and even upload new files to it. Also, this backdoor is password protected and non-reverse encryption. | https://github.com/yasserbdj96/hiphp | 1 | 0| 
 | 20210915T16:43:14Z | A collection of python written hacking tools consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester credential harvester, keylogger, download&execute, ransomware and reverse_backdoor. | https://github.com/dmdhrumilmistry/pyhtools | 22 | 8| 
 | 20210915T16:32:17Z | A simple, yet effective backdoor for any Minecraft server. | https://github.com/BookBackdoor/BookBackdoor | 6 | 2| 
