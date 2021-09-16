@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210916T00:18:34Z | Null | https://github.com/kleemeo/kleemeo.github.io | 0 | 0| 
+| 20210916T00:40:03Z | Null | https://github.com/kleemeo/kleemeo.github.io | 0 | 0| 
 | 20210915T22:42:42Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 186 | 19| 
 | 20210915T20:44:48Z | Null | https://github.com/pain-arch/klee-broser-py | 0 | 0| 
 | 20210915T16:14:24Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1776 | 505| 
@@ -83,16 +83,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210916T00:46:32Z | Everest, A Next-Gen Roblox Exploitation Toolkit. | https://github.com/Th3Tr1ckst3r/Everest | 3 | 1| 
 | 20210916T00:23:14Z | Null | https://github.com/antonio-morales/Fuzzing-Exploiting-challenges__Ekoparty2021 | 0 | 0| 
 | 20210916T00:03:19Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 31 | 18| 
 | 20210915T23:49:42Z | X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter | https://github.com/Moham3dRiahi/XAttacker | 988 | 433| 
 | 20210915T23:33:24Z | Exploits Collection Tool | https://github.com/wibuheker/exploits | 0 | 0| 
-| 20210915T22:40:03Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 3956 | 568| 
+| 20210915T22:40:03Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 3956 | 567| 
 | 20210915T22:35:49Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 227 | 12| 
 | 20210915T22:15:32Z | Kernel Mode Driver um Exploits zu testen | https://github.com/jtrac3er/KernelControl | 0 | 0| 
 | 20210915T22:09:02Z | [ UNDER MAINTENANCE ] cpulimit binary exploit while cpulimit is not installed, without download, cpulimit binary is encoded inside cpulimit-portable-exploit.sh (Privilege escalation resultant in root access) | https://github.com/0bfxgh0st/cpulimit-privesc-portable | 0 | 0| 
 | 20210915T21:43:34Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10037 | 1682| 
-| 20210915T21:34:52Z | lxd privilege escalation exploit | https://github.com/0bfxgh0st/lxd-privesc-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐

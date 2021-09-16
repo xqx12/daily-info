@@ -59,7 +59,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210915T23:49:42Z | X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter | https://github.com/Moham3dRiahi/XAttacker | 988 | 433| 
 | 20210915T23:33:24Z | Exploits Collection Tool | https://github.com/wibuheker/exploits | 0 | 0| 
-| 20210915T22:40:03Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 3956 | 568| 
+| 20210915T22:40:03Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 3956 | 567| 
 | 20210915T22:35:49Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 227 | 12| 
 | 20210915T22:15:32Z | Kernel Mode Driver um Exploits zu testen | https://github.com/jtrac3er/KernelControl | 0 | 0| 
 | 20210915T22:09:02Z | [ UNDER MAINTENANCE ] cpulimit binary exploit while cpulimit is not installed, without download, cpulimit binary is encoded inside cpulimit-portable-exploit.sh (Privilege escalation resultant in root access) | https://github.com/0bfxgh0st/cpulimit-privesc-portable | 0 | 0| 
