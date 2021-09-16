@@ -51,7 +51,7 @@
 | 20210915T22:41:04Z | cve-2020-2853 | Null | https://github.com/intrigueio/cve-2020-2853-poc | Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Security: Privileges). Supported versions that are affected are 8.0.18 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server. Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of MySQL Server. CVSS 3.0 Base Score 4.9 (Availability impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:H/UI:N/S:U/C:N/I:N/A:H).| 
 | 20210915T21:48:12Z | CVE-2021-38647 | CVE-2021-38647 POC for RCE | https://github.com/midoxnet/CVE-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
 | 20210915T15:58:35Z | CVE-2021-1829 | PoC for exploiting CVE-2021-1829 : A type confusion issue was addressed with improved state handling. This issue is fixed in macOS Big Sur 11.3. An application may be able to execute arbitrary code with kernel privileges. | https://github.com/AlAIAL90/CVE-2021-1829 | A type confusion issue was addressed with improved state handling. This issue is fixed in macOS Big Sur 11.3. An application may be able to execute arbitrary code with kernel privileges.| 
-| 20210915T15:58:32Z | CVE-2020-27942 | PoC for exploiting CVE-2020-27942 : A logic issue was addressed with improved state management. This issue is fixed in Security Update 2021-002 Catalina, Security Update 2021-003 Mojave. Processing a maliciously crafted font file may lead to arbitrary code execution. | https://github.com/AlAIAL90/CVE-2020-27942 | | 
+| 20210915T15:58:32Z | CVE-2020-27942 | PoC for exploiting CVE-2020-27942 : A logic issue was addressed with improved state management. This issue is fixed in Security Update 2021-002 Catalina, Security Update 2021-003 Mojave. Processing a maliciously crafted font file may lead to arbitrary code execution. | https://github.com/AlAIAL90/CVE-2020-27942 | A logic issue was addressed with improved state management. This issue is fixed in Security Update 2021-002 Catalina, Security Update 2021-003 Mojave. Processing a maliciously crafted font file may lead to arbitrary code execution.| 
 | 20210915T15:58:27Z | CVE-2021-1830 | PoC for exploiting CVE-2021-1830 : An out-of-bounds read was addressed with improved input validation. This issue is fixed in iOS 14.5 and iPadOS 14.5. A local user may be able to read kernel memory. | https://github.com/AlAIAL90/CVE-2021-1830 | An out-of-bounds read was addressed with improved input validation. This issue is fixed in iOS 14.5 and iPadOS 14.5. A local user may be able to read kernel memory.| 
 | 20210915T15:58:23Z | CVE-2021-30858 | PoC for exploiting CVE-2021-30858 : A use after free issue was addressed with improved memory management. This issue is fixed in iOS 14.8 and iPadOS 14.8, macOS Big Sur 11.6. Processing maliciously crafted web content may lead to arbitrary code execution. Apple is aware of a report that this issue may have been actively exploited. | https://github.com/AlAIAL90/CVE-2021-30858 | A use after free issue was addressed with improved memory management. This issue is fixed in iOS 14.8 and iPadOS 14.8, macOS Big Sur 11.6. Processing maliciously crafted web content may lead to arbitrary code execution. Apple is aware of a report that this issue may have been actively exploited.| 
 | 20210915T15:58:17Z | CVE-2021-28560 | PoC for exploiting CVE-2021-28560 : Acrobat Reader DC versions versions 2021.001.20150 (and earlier), 2020.001.30020 (and earlier) and 2017.011.30194 (and earlier) are affected by a Heap-based Buffer Overflow vulnerability. An unauthenticated attacker could leverage this vulnerability to achieve arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file. | https://github.com/AlAIAL90/CVE-2021-28560 | Acrobat Reader DC versions versions 2021.001.20150 (and earlier), 2020.001.30020 (and earlier) and 2017.011.30194 (and earlier) are affected by a Heap-based Buffer Overflow vulnerability. An unauthenticated attacker could leverage this vulnerability to achieve arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.| 
@@ -83,8 +83,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210916T01:15:54Z | CTF/hacking challenge solutions for binary exploitation/memory corruption. Currently adding kernel exploitation challenge writeups | https://github.com/docfate111/binary_exploitation | 0 | 0| 
 | 20210916T01:11:27Z | Everest, A Next-Gen Roblox Exploitation Toolkit. | https://github.com/Th3Tr1ckst3r/Everest | 3 | 1| 
-| 20210916T01:08:29Z | CTF/hacking challenge solutions for binary exploitation/memory corruption. Currently adding kernel exploitation challenge writeups | https://github.com/docfate111/binary_exploitation | 0 | 0| 
 | 20210916T01:03:17Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 31 | 18| 
 | 20210916T00:59:11Z | Book of Exploits I make  | https://github.com/joshmerr/exploitbook | 0 | 0| 
 | 20210916T00:52:43Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 22 | 14| 
@@ -98,7 +98,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210916T01:14:29Z | Pico-BackDroid is an Android Reverse Shell Backdoor for CircuitPython on Raspberry Pi Pico. | https://github.com/V0lk3n/Pico-BackDroid | 0 | 0| 
+| 20210916T01:23:43Z | Pico-BackDroid is an Android Reverse Shell Backdoor for CircuitPython on Raspberry Pi Pico. | https://github.com/V0lk3n/Pico-BackDroid | 0 | 0| 
 | 20210915T23:34:17Z | backdoor control php sites, The site is controlled by sending commands, files and codes to the site using the http or https protocol. After copying the code and placing it in any php file on the target website, you will have permissions to enter it, read all files, delete and even upload new files to it. Also, this backdoor is password protected and non-reverse encryption. | https://github.com/yasserbdj96/hiphp | 1 | 0| 
 | 20210915T16:43:14Z | A collection of python written hacking tools consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester credential harvester, keylogger, download&execute, ransomware and reverse_backdoor. | https://github.com/dmdhrumilmistry/pyhtools | 22 | 8| 
 | 20210915T16:32:17Z | A simple, yet effective backdoor for any Minecraft server. | https://github.com/BookBackdoor/BookBackdoor | 6 | 2| 
@@ -137,6 +137,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210916T01:12:29Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6650 | 1361| 
 | 20210916T01:08:23Z | Fuzzy Logic Medieval Chess game made in Python | https://github.com/JulianRobinson/FuzzyLogicMedievalChess | 0 | 0| 
 | 20210916T01:03:20Z | JQF + Zest: Coverage-guided semantic fuzzing for Java. | https://github.com/rohanpadhye/JQF | 394 | 59| 
 | 20210916T00:58:38Z | Null | https://github.com/Srshshafe/Neural-fuzzy-network-for-letter-recognition | 0 | 0| 
@@ -144,7 +145,6 @@
 | 20210916T00:18:41Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 24 | 10| 
 | 20210915T23:33:04Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210915T22:51:22Z | Null | https://github.com/mthelm85/fuzzy-linker | 0 | 0| 
-| 20210915T22:26:22Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6650 | 1361| 
 | 20210915T22:17:07Z | Null | https://github.com/cycy2233/fuzzy-umbrella | 0 | 0| 
 | 20210915T21:54:34Z | Null | https://github.com/Kylomask/fuzzy-octo-funicular | 0 | 0| 
 
