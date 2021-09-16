@@ -139,6 +139,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210916T12:48:49Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3687 | 873| 
+| 20210916T12:47:18Z | A differential fuzzer for x86 decoders | https://github.com/trailofbits/mishegos | 154 | 22| 
+| 20210916T12:47:16Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1292 | 231| 
 | 20210916T12:31:17Z | Null | https://github.com/MariusVanDerWijden/merge-fuzz | 0 | 0| 
 | 20210916T12:15:14Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 24 | 10| 
 | 20210916T11:53:37Z | Null | https://github.com/ModifiedCommunityModules/fuzzy-search | 0 | 0| 
@@ -146,9 +149,6 @@
 | 20210916T11:31:06Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210916T11:01:41Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
 | 20210916T10:43:27Z | Library and command line utility to do approximate string matching of a source against a bitext index and get matched source and target.  | https://github.com/SYSTRAN/fuzzy-match | 23 | 4| 
-| 20210916T10:27:39Z | 用于渗透测试和红队基础设施建设的 payload 和 bypass 字典。A list of payload and bypass lists for penetration and red team infrastructure build. | https://github.com/ffffffff0x/AboutSecurity | 340 | 69| 
-| 20210916T10:23:08Z | Fuzz testing for sonic. | https://github.com/liuq19/sonic-fuzz | 0 | 1| 
-| 20210916T09:35:22Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 320 | 80| 
 
 
 
