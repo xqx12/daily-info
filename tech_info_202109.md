@@ -85,7 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210916T12:06:50Z | CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit | https://github.com/klezVirus/CVE-2021-40444 | 28 | 10| 
+| 20210916T12:12:39Z | CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit | https://github.com/klezVirus/CVE-2021-40444 | 30 | 10| 
 | 20210916T12:03:01Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 31 | 18| 
 | 20210916T12:02:36Z | Null | https://github.com/vulsio/go-exploitdb | 124 | 36| 
 | 20210916T12:02:15Z | Windows Exploit Development Tutorial Series | https://github.com/whichbuffer/WindowsExploitDev | 9 | 2| 
