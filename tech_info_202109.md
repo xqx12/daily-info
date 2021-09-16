@@ -83,6 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210916T01:04:29Z | CTF/hacking challenge solutions for binary exploitation/memory corruption. Currently adding kernel exploitation challenge writeups | https://github.com/docfate111/binary_exploitation | 0 | 0| 
 | 20210916T01:03:17Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 31 | 18| 
 | 20210916T00:59:11Z | Book of Exploits I make  | https://github.com/joshmerr/exploitbook | 0 | 0| 
 | 20210916T00:53:46Z | Everest, A Next-Gen Roblox Exploitation Toolkit. | https://github.com/Th3Tr1ckst3r/Everest | 3 | 1| 
@@ -92,7 +93,6 @@
 | 20210915T23:33:24Z | Exploits Collection Tool | https://github.com/wibuheker/exploits | 0 | 0| 
 | 20210915T22:40:03Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 3956 | 567| 
 | 20210915T22:35:49Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 227 | 12| 
-| 20210915T22:15:32Z | Kernel Mode Driver um Exploits zu testen | https://github.com/jtrac3er/KernelControl | 0 | 0| 
 
 
 # backdoor on Github 推荐
