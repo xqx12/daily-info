@@ -60,7 +60,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210916T12:21:18Z | CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit | https://github.com/klezVirus/CVE-2021-40444 | 31 | 10| 
+| 20210916T12:24:36Z | Exploits scripts | https://github.com/AmitNiz/exploits | 0 | 0| 
+| 20210916T12:21:18Z | CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit | https://github.com/klezVirus/CVE-2021-40444 | 31 | 11| 
 | 20210916T12:03:01Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 31 | 18| 
 | 20210916T12:02:36Z | Null | https://github.com/vulsio/go-exploitdb | 124 | 36| 
 | 20210916T12:02:15Z | Windows Exploit Development Tutorial Series | https://github.com/whichbuffer/WindowsExploitDev | 9 | 2| 
@@ -69,7 +70,6 @@
 | 20210916T11:50:17Z | Thi powershell script has got to run in remote hacked windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 7 | 2| 
 | 20210916T11:44:01Z | Exploit Code | https://github.com/wjddnjs33/Exploit | 0 | 0| 
 | 20210916T11:35:17Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10041 | 1682| 
-| 20210916T11:19:24Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 3920 | 541| 
 
 
 # backdoor on Github 推荐
