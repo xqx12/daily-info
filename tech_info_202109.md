@@ -47,7 +47,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210916T12:21:18Z | CVE-2021-40444 | CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit | https://github.com/klezVirus/CVE-2021-40444 | Microsoft MSHTML Remote Code Execution Vulnerability| 
-| 20210916T10:50:28Z | CVE-2020-36386 | Null | https://github.com/artsking/linux-4.1.15_CVE-2020-36386_withPatch | An issue was discovered in the Linux kernel before 5.8.1. net/bluetooth/hci_event.c has a slab out-of-bounds read in hci_extended_inquiry_result_evt, aka CID-51c19bf3d5cf.| 
+| 20210916T10:50:28Z | CVE-2020-36386 | Null | https://github.com/artsking/linux-4.1.15_CVE-2020-36386_withPatch | | 
 | 20210916T10:40:02Z | CVE-2021-38647 | Proof on Concept Exploit for CVE-2021-38647 (OMIGOD) | https://github.com/horizon3ai/CVE-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
 | 20210916T10:31:09Z | CVE-2021-2302 | Null | https://github.com/quynhle7821/CVE-2021-2302 | Vulnerability in the Oracle Platform Security for Java product of Oracle Fusion Middleware (component: OPSS). Supported versions that are affected are 11.1.1.9.0, 12.2.1.3.0 and 12.2.1.4.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle Platform Security for Java. Successful attacks of this vulnerability can result in takeover of Oracle Platform Security for Java. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
 | 20210916T10:20:13Z | CVE-2021-40444 | CVE-2021-40444 - Custom CAB templates from MakeCAB | https://github.com/Udyz/CVE-2021-40444-CAB | Microsoft MSHTML Remote Code Execution Vulnerability| 
