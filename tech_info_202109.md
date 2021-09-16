@@ -16,6 +16,7 @@
 | 20210916 | iOS14.8: Patch CVE-2021-1740 again silently | https://jhftss.github.io/CVE-2021-1740-Invalid-Patch/| 
 | 20210916 | FireEye 开源的可执行文件静态分析工具 Capa 开始支持 Linux ELF 了 | https://www.fireeye.com/blog/threat-research/2021/09/elfant-in-the-room-capa-v3.html| 
 | 20210916 | 利用 PTE Overwrite 实现 Bypass SMEP | https://sec.today/pulses/3f6a3577-8f45-42dc-884e-b2d7c6e83d20/| 
+| 20210916 | 利用 PTE Overwrite 实现 Bypass SMEP | https://connormcgarr.github.io/pte-overwrites/| 
 | 20210915 | About the Unsuccessful Quest for a Deserialization Gadget (or: How I found CVE-2021-21481) | https://codewhitesec.blogspot.com/2021/06/about-unsuccessful-quest-for.html| 
 | 20210915 | Windows 10 版本内核堆管理的细节以及 Heap Overflow 漏洞的利用 | https://www.sstic.org/media/SSTIC2020/SSTIC-actes/pool_overflow_exploitation_since_windows_10_19h1/SSTIC2020-Article-pool_overflow_exploitation_since_windows_10_19h1-bayet_fariello.pdf| 
 | 20210915 | Windows Debugger API — The End of Versioned Structures | https://www.driverentry.com/articles/94| 
@@ -25,7 +26,6 @@
 | 20210915 | Fortinet 对近期抓到的 ProxyShell Exploits 的分析 | https://www.fortinet.com/blog/threat-research/more-proxyshell-web-shells-lead-to-zerologon-and-application-impersonation-attacks?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+fortinet%2Fblog%2Fthreat-research+%28Fortinet+Threat+Research+Blog%29| 
 | 20210915 | 利用 Fuzzilli 和 TinyInst Fuzz jscript9.dll 脚本引擎，来自 Project Zero Ivan Fratric | https://googleprojectzero.blogspot.com/2021/09/fuzzing-closed-source-javascript.html| 
 | 20210915 | Tenet - 为 IDA 提供动态 Trace Explorer 功能的插件 | https://blog.ret2.io/2021/09/14/tenet-v0.2/| 
-| 20210915 | macOS libFontParser.dylib 越界读漏洞分析（CVE-2021-1758） | https://sec.today/pulses/ab836222-df36-45d1-8007-10f0353d0d46/| 
 
 
 # 安全维基 推荐

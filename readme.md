@@ -16,6 +16,7 @@
 | 20210916 | iOS14.8: Patch CVE-2021-1740 again silently | https://jhftss.github.io/CVE-2021-1740-Invalid-Patch/| 
 | 20210916 | FireEye 开源的可执行文件静态分析工具 Capa 开始支持 Linux ELF 了 | https://www.fireeye.com/blog/threat-research/2021/09/elfant-in-the-room-capa-v3.html| 
 | 20210916 | 利用 PTE Overwrite 实现 Bypass SMEP | https://sec.today/pulses/3f6a3577-8f45-42dc-884e-b2d7c6e83d20/| 
+| 20210916 | 利用 PTE Overwrite 实现 Bypass SMEP | https://connormcgarr.github.io/pte-overwrites/| 
 
 
 # 安全维基 推荐
