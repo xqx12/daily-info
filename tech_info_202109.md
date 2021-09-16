@@ -49,7 +49,7 @@
 | 20210916T01:35:07Z | CVE-2021-40444 | This repo contain builders of cab file, html file, and docx file for CVE-2021-40444 exploit | https://github.com/aslitsecurity/CVE-2021-40444_builders | Microsoft MSHTML Remote Code Execution Vulnerability| 
 | 20210915T23:09:30Z | CVE-2021-36934 | C# PoC for CVE-2021-36934/HiveNightmare/SeriousSAM | https://github.com/cube0x0/CVE-2021-36934 | Windows Elevation of Privilege Vulnerability| 
 | 20210915T22:41:04Z | cve-2020-2853 | Null | https://github.com/intrigueio/cve-2020-2853-poc | Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Security: Privileges). Supported versions that are affected are 8.0.18 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server. Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of MySQL Server. CVSS 3.0 Base Score 4.9 (Availability impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:H/UI:N/S:U/C:N/I:N/A:H).| 
-| 20210915T21:48:12Z | CVE-2021-38647 | CVE-2021-38647 POC for RCE | https://github.com/midoxnet/CVE-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
+| 20210915T21:48:12Z | CVE-2021-38647 | CVE-2021-38647 POC for RCE | https://github.com/midoxnet/CVE-2021-38647 | | 
 | 20210915T15:58:35Z | CVE-2021-1829 | PoC for exploiting CVE-2021-1829 : A type confusion issue was addressed with improved state handling. This issue is fixed in macOS Big Sur 11.3. An application may be able to execute arbitrary code with kernel privileges. | https://github.com/AlAIAL90/CVE-2021-1829 | A type confusion issue was addressed with improved state handling. This issue is fixed in macOS Big Sur 11.3. An application may be able to execute arbitrary code with kernel privileges.| 
 | 20210915T15:58:32Z | CVE-2020-27942 | PoC for exploiting CVE-2020-27942 : A logic issue was addressed with improved state management. This issue is fixed in Security Update 2021-002 Catalina, Security Update 2021-003 Mojave. Processing a maliciously crafted font file may lead to arbitrary code execution. | https://github.com/AlAIAL90/CVE-2020-27942 | A logic issue was addressed with improved state management. This issue is fixed in Security Update 2021-002 Catalina, Security Update 2021-003 Mojave. Processing a maliciously crafted font file may lead to arbitrary code execution.| 
 | 20210915T15:58:27Z | CVE-2021-1830 | PoC for exploiting CVE-2021-1830 : An out-of-bounds read was addressed with improved input validation. This issue is fixed in iOS 14.5 and iPadOS 14.5. A local user may be able to read kernel memory. | https://github.com/AlAIAL90/CVE-2021-1830 | An out-of-bounds read was addressed with improved input validation. This issue is fixed in iOS 14.5 and iPadOS 14.5. A local user may be able to read kernel memory.| 
@@ -83,6 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210916T01:51:41Z | Desenvolvendo exploits x86 para linux | https://github.com/git-cardoso/Desenvolvimento_exploits_x86 | 0 | 0| 
 | 20210916T01:29:43Z | Collection of Discord hacking tools/fun stuff/exploits that is completely developed using NodeJS. | https://github.com/I2rys/ODiscord | 4 | 3| 
 | 20210916T01:15:54Z | CTF/hacking challenge solutions for binary exploitation/memory corruption. Currently adding kernel exploitation challenge writeups | https://github.com/docfate111/binary_exploitation | 0 | 0| 
 | 20210916T01:11:27Z | Everest, A Next-Gen Roblox Exploitation Toolkit. | https://github.com/Th3Tr1ckst3r/Everest | 3 | 1| 
@@ -92,7 +93,6 @@
 | 20210916T00:23:14Z | Null | https://github.com/antonio-morales/Fuzzing-Exploiting-challenges__Ekoparty2021 | 0 | 0| 
 | 20210915T23:49:42Z | X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter | https://github.com/Moham3dRiahi/XAttacker | 988 | 433| 
 | 20210915T23:33:24Z | Exploits Collection Tool | https://github.com/wibuheker/exploits | 0 | 0| 
-| 20210915T22:40:03Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 3956 | 567| 
 
 
 # backdoor on Github 推荐
