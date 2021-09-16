@@ -52,9 +52,9 @@
 | 20210915T21:48:12Z | CVE-2021-38647 | CVE-2021-38647 POC for RCE | https://github.com/midoxnet/CVE-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
 | 20210915T15:58:35Z | CVE-2021-1829 | PoC for exploiting CVE-2021-1829 : A type confusion issue was addressed with improved state handling. This issue is fixed in macOS Big Sur 11.3. An application may be able to execute arbitrary code with kernel privileges. | https://github.com/AlAIAL90/CVE-2021-1829 | A type confusion issue was addressed with improved state handling. This issue is fixed in macOS Big Sur 11.3. An application may be able to execute arbitrary code with kernel privileges.| 
 | 20210915T15:58:32Z | CVE-2020-27942 | PoC for exploiting CVE-2020-27942 : A logic issue was addressed with improved state management. This issue is fixed in Security Update 2021-002 Catalina, Security Update 2021-003 Mojave. Processing a maliciously crafted font file may lead to arbitrary code execution. | https://github.com/AlAIAL90/CVE-2020-27942 | A logic issue was addressed with improved state management. This issue is fixed in Security Update 2021-002 Catalina, Security Update 2021-003 Mojave. Processing a maliciously crafted font file may lead to arbitrary code execution.| 
-| 20210915T15:58:27Z | CVE-2021-1830 | PoC for exploiting CVE-2021-1830 : An out-of-bounds read was addressed with improved input validation. This issue is fixed in iOS 14.5 and iPadOS 14.5. A local user may be able to read kernel memory. | https://github.com/AlAIAL90/CVE-2021-1830 | | 
+| 20210915T15:58:27Z | CVE-2021-1830 | PoC for exploiting CVE-2021-1830 : An out-of-bounds read was addressed with improved input validation. This issue is fixed in iOS 14.5 and iPadOS 14.5. A local user may be able to read kernel memory. | https://github.com/AlAIAL90/CVE-2021-1830 | An out-of-bounds read was addressed with improved input validation. This issue is fixed in iOS 14.5 and iPadOS 14.5. A local user may be able to read kernel memory.| 
 | 20210915T15:58:23Z | CVE-2021-30858 | PoC for exploiting CVE-2021-30858 : A use after free issue was addressed with improved memory management. This issue is fixed in iOS 14.8 and iPadOS 14.8, macOS Big Sur 11.6. Processing maliciously crafted web content may lead to arbitrary code execution. Apple is aware of a report that this issue may have been actively exploited. | https://github.com/AlAIAL90/CVE-2021-30858 | A use after free issue was addressed with improved memory management. This issue is fixed in iOS 14.8 and iPadOS 14.8, macOS Big Sur 11.6. Processing maliciously crafted web content may lead to arbitrary code execution. Apple is aware of a report that this issue may have been actively exploited.| 
-| 20210915T15:58:17Z | CVE-2021-28560 | PoC for exploiting CVE-2021-28560 : Acrobat Reader DC versions versions 2021.001.20150 (and earlier), 2020.001.30020 (and earlier) and 2017.011.30194 (and earlier) are affected by a Heap-based Buffer Overflow vulnerability. An unauthenticated attacker could leverage this vulnerability to achieve arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file. | https://github.com/AlAIAL90/CVE-2021-28560 | | 
+| 20210915T15:58:17Z | CVE-2021-28560 | PoC for exploiting CVE-2021-28560 : Acrobat Reader DC versions versions 2021.001.20150 (and earlier), 2020.001.30020 (and earlier) and 2017.011.30194 (and earlier) are affected by a Heap-based Buffer Overflow vulnerability. An unauthenticated attacker could leverage this vulnerability to achieve arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file. | https://github.com/AlAIAL90/CVE-2021-28560 | Acrobat Reader DC versions versions 2021.001.20150 (and earlier), 2020.001.30020 (and earlier) and 2017.011.30194 (and earlier) are affected by a Heap-based Buffer Overflow vulnerability. An unauthenticated attacker could leverage this vulnerability to achieve arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.| 
 | 20210915T15:58:16Z | CVE-2021-1831 | PoC for exploiting CVE-2021-1831 : The issue was addressed with improved permissions logic. This issue is fixed in iOS 14.5 and iPadOS 14.5. An application may allow shortcuts to access restricted files. | https://github.com/AlAIAL90/CVE-2021-1831 | The issue was addressed with improved permissions logic. This issue is fixed in iOS 14.5 and iPadOS 14.5. An application may allow shortcuts to access restricted files.| 
 
 
@@ -83,7 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210916T01:04:29Z | CTF/hacking challenge solutions for binary exploitation/memory corruption. Currently adding kernel exploitation challenge writeups | https://github.com/docfate111/binary_exploitation | 0 | 0| 
+| 20210916T01:08:29Z | CTF/hacking challenge solutions for binary exploitation/memory corruption. Currently adding kernel exploitation challenge writeups | https://github.com/docfate111/binary_exploitation | 0 | 0| 
 | 20210916T01:03:17Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 31 | 18| 
 | 20210916T00:59:11Z | Book of Exploits I make  | https://github.com/joshmerr/exploitbook | 0 | 0| 
 | 20210916T00:53:46Z | Everest, A Next-Gen Roblox Exploitation Toolkit. | https://github.com/Th3Tr1ckst3r/Everest | 3 | 1| 
@@ -137,16 +137,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210916T00:43:39Z | Null | https://github.com/Srshshafe/Neural-fuzzy-network-for-letter-recognition | 0 | 0| 
+| 20210916T01:08:23Z | Fuzzy Logic Medieval Chess game made in Python | https://github.com/JulianRobinson/FuzzyLogicMedievalChess | 0 | 0| 
+| 20210916T01:03:20Z | JQF + Zest: Coverage-guided semantic fuzzing for Java. | https://github.com/rohanpadhye/JQF | 394 | 59| 
+| 20210916T00:58:38Z | Null | https://github.com/Srshshafe/Neural-fuzzy-network-for-letter-recognition | 0 | 0| 
 | 20210916T00:23:14Z | Null | https://github.com/antonio-morales/Fuzzing-Exploiting-challenges__Ekoparty2021 | 0 | 0| 
 | 20210916T00:18:41Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 24 | 10| 
 | 20210915T23:33:04Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210915T23:26:37Z | Fuzzy Logic Medieval Chess game made in Python | https://github.com/JulianRobinson/FuzzyLogicMedievalChess | 0 | 0| 
 | 20210915T22:51:22Z | Null | https://github.com/mthelm85/fuzzy-linker | 0 | 0| 
 | 20210915T22:26:22Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6650 | 1361| 
 | 20210915T22:17:07Z | Null | https://github.com/cycy2233/fuzzy-umbrella | 0 | 0| 
 | 20210915T21:54:34Z | Null | https://github.com/Kylomask/fuzzy-octo-funicular | 0 | 0| 
-| 20210915T20:44:08Z | Fuzzer for the .NET toolchains, developed as a project for the 2018 Language-Based Security course at Aarhus University. | https://github.com/jakobbotsch/Fuzzlyn | 213 | 18| 
 
 
 
