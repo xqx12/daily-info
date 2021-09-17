@@ -24,7 +24,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210917T12:30:47Z | CVE-2021-40444 | CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit | https://github.com/klezVirus/CVE-2021-40444 | Microsoft MSHTML Remote Code Execution Vulnerability| 
+| 20210917T12:35:40Z | CVE-2021-40444 | CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit | https://github.com/klezVirus/CVE-2021-40444 | Microsoft MSHTML Remote Code Execution Vulnerability| 
 | 20210917T12:20:50Z | CVE-2021-38647 | Proof on Concept Exploit for CVE-2021-38647 (OMIGOD) | https://github.com/horizon3ai/CVE-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
 | 20210917T10:59:21Z | CVE-2021-40444 | CVE-2021-40444 - Custom CAB templates from MakeCAB | https://github.com/Udyz/CVE-2021-40444-CAB | Microsoft MSHTML Remote Code Execution Vulnerability| 
 | 20210917T09:29:18Z | CVE-2021-40444 | Python script to extract embedded URLs from doc files (.doc, .docx, .docm, .rtf) | https://github.com/gh0stxplt/CVE-2021-40444-URL-Extractor | Microsoft MSHTML Remote Code Execution Vulnerability| 
@@ -50,25 +50,25 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210917T12:35:03Z | Null | https://github.com/Bronwen-hunter/Global-Bat-Exploitation-Study | 0 | 0| 
+| 20210917T12:28:46Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 6466 | 1797| 
 | 20210917T12:02:57Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 31 | 18| 
 | 20210917T11:31:46Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 2496 | 385| 
-| 20210917T11:01:59Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 6465 | 1797| 
 | 20210917T11:01:52Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 8266 | 1436| 
 | 20210917T10:46:36Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | 0 | 0| 
 | 20210917T10:45:06Z | This Repository will contain various tools, scripts and commands used in Active Directory Enumeration and Exploitation. | https://github.com/SecTheBit/Active-Directory | 1 | 0| 
 | 20210917T10:24:06Z | Geohazards Thematic Exploitation guide | https://github.com/Terradue/doc-tep-geohazards | 9 | 26| 
 | 20210917T09:58:31Z | code for %Exploiting Reasoning Chains for Multi-hop Science Question Answering% | https://github.com/wwxu21/CGR | 0 | 0| 
-| 20210917T09:52:55Z | Null | https://github.com/Bronwen-hunter/Global-Bat-Exploitation-Study | 0 | 0| 
 | 20210917T09:10:44Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 3921 | 541| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210917T12:32:11Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 317 | 57| 
 | 20210917T12:30:00Z | pybotnet -   A Python Library for building Botnet , Trojan or BackDoor for windows and linux with Telegram control panel  | https://github.com/onionj/pybotnet | 14 | 10| 
 | 20210917T12:17:12Z | PyIris is a modular remote access trojan toolkit written completely in python targeting Windows and Linux systems. | https://github.com/angus-y/PyIris-backdoor | 185 | 54| 
 | 20210917T10:40:08Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 97 | 17| 
-| 20210917T09:09:44Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 316 | 57| 
 | 20210917T08:02:26Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 32 | 9| 
 | 20210917T06:22:24Z | Null | https://github.com/mlearning-security/countermeasures-against-backdoor-attacks | 0 | 0| 
 | 20210917T06:10:05Z | Null | https://github.com/YukiM00/Backdoor-medicalAI | 0 | 0| 
