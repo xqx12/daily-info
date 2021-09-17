@@ -24,7 +24,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210917T12:05:59Z | CVE-2021-38647 | Proof on Concept Exploit for CVE-2021-38647 (OMIGOD) | https://github.com/horizon3ai/CVE-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
+| 20210917T12:05:59Z | CVE-2021-38647 | Proof on Concept Exploit for CVE-2021-38647 (OMIGOD) | https://github.com/horizon3ai/CVE-2021-38647 | | 
 | 20210917T11:46:34Z | CVE-2021-40444 | CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit | https://github.com/klezVirus/CVE-2021-40444 | Microsoft MSHTML Remote Code Execution Vulnerability| 
 | 20210917T10:59:21Z | CVE-2021-40444 | CVE-2021-40444 - Custom CAB templates from MakeCAB | https://github.com/Udyz/CVE-2021-40444-CAB | Microsoft MSHTML Remote Code Execution Vulnerability| 
 | 20210917T09:29:18Z | CVE-2021-40444 | Python script to extract embedded URLs from doc files (.doc, .docx, .docm, .rtf) | https://github.com/gh0stxplt/CVE-2021-40444-URL-Extractor | Microsoft MSHTML Remote Code Execution Vulnerability| 
