@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210917T12:20:50Z | CVE-2021-38647 | Proof on Concept Exploit for CVE-2021-38647 (OMIGOD) | https://github.com/horizon3ai/CVE-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
 | 20210917T12:14:27Z | CVE-2021-40444 | CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit | https://github.com/klezVirus/CVE-2021-40444 | Microsoft MSHTML Remote Code Execution Vulnerability| 
-| 20210917T12:05:59Z | CVE-2021-38647 | Proof on Concept Exploit for CVE-2021-38647 (OMIGOD) | https://github.com/horizon3ai/CVE-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
 | 20210917T10:59:21Z | CVE-2021-40444 | CVE-2021-40444 - Custom CAB templates from MakeCAB | https://github.com/Udyz/CVE-2021-40444-CAB | Microsoft MSHTML Remote Code Execution Vulnerability| 
 | 20210917T09:29:18Z | CVE-2021-40444 | Python script to extract embedded URLs from doc files (.doc, .docx, .docm, .rtf) | https://github.com/gh0stxplt/CVE-2021-40444-URL-Extractor | Microsoft MSHTML Remote Code Execution Vulnerability| 
 | 20210917T09:27:06Z | cve-2021-38647 | A PoC exploit for CVE-2021-38647 RCE in OMI | https://github.com/Immersive-Labs-Sec/cve-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
@@ -140,9 +140,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210917T12:22:15Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6658 | 1362| 
 | 20210917T12:01:59Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 24 | 10| 
 | 20210917T11:44:52Z |  A tool written in python to find files and directories of web applications using a specified wordlist | https://github.com/Tomiwa-Ot/Website-Directory-Fuzzing-Tool | 0 | 0| 
-| 20210917T11:39:49Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6658 | 1362| 
 | 20210917T11:31:08Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210917T11:19:57Z | Null | https://github.com/nhsd-exeter/dos-service-fuzzy-search-api | 1 | 0| 
 | 20210917T11:13:21Z | Null | https://github.com/Yanghua-Github/peach_fuzz | 0 | 0| 
