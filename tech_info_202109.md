@@ -139,6 +139,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210917T00:37:53Z | Weather dashboard app | https://github.com/ksdevinney/fuzzy-spork | 0 | 0| 
 | 20210917T00:12:37Z | Here you%ll find some of my Fuzzy Logic college stuff | https://github.com/Marceeaax/FuzzyLogic | 0 | 0| 
 | 20210917T00:02:37Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210916T23:53:19Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6655 | 1363| 
@@ -148,7 +149,6 @@
 | 20210916T23:25:22Z | A TCP/UDP based network daemon fuzzer | https://github.com/denandz/fuzzotron | 343 | 64| 
 | 20210916T23:16:07Z | Null | https://github.com/tmwatchanan/FuzzySets.jl | 0 | 0| 
 | 20210916T23:08:52Z | JQF + Zest: Coverage-guided semantic fuzzing for Java. | https://github.com/rohanpadhye/JQF | 394 | 59| 
-| 20210916T23:04:09Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 301 | 39| 
 
 
 
