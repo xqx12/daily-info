@@ -92,6 +92,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210917T13:00:24Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3686 | 873| 
 | 20210917T12:50:31Z | A ground-truth fuzzing benchmark suite based on real programs with real bugs. | https://github.com/HexHive/magma | 134 | 39| 
 | 20210917T12:33:58Z | Website for Stand-up comic %Karthik Kumar% | https://github.com/axenhammer/fuzzy-eureka | 0 | 0| 
 | 20210917T12:22:15Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6658 | 1362| 
@@ -101,7 +102,6 @@
 | 20210917T11:19:57Z | Null | https://github.com/nhsd-exeter/dos-service-fuzzy-search-api | 1 | 0| 
 | 20210917T11:13:21Z | Null | https://github.com/Yanghua-Github/peach_fuzz | 0 | 0| 
 | 20210917T11:03:14Z | A differential fuzzer for x86 decoders | https://github.com/trailofbits/mishegos | 155 | 22| 
-| 20210917T10:42:59Z | Null | https://github.com/oof-cheburash/FuzzerLib | 0 | 0| 
 
 
 
