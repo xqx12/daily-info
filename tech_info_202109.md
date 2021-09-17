@@ -6,6 +6,14 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210917 | 惠普 Omen 笔记本预装驱动本地提权漏洞的分析（CVE-2021-3437） | https://www.sentinelone.com/labs/cve-2021-3437-hp-omen-gaming-hub-privilege-escalation-bug-hits-millions-of-gaming-devices/| 
+| 20210917 | Fully Weaponized Exploit for Microsoft Office CVE-2021-40444 | https://github.com/klezVirus/CVE-2021-40444| 
+| 20210917 | Datree - 检测 Kubernetes 安全配置的工具 | https://github.com/datreeio/datree| 
+| 20210917 | 微软 Azure 云 OMI Agent RCE 漏洞的 PoC | https://github.com/horizon3ai/CVE-2021-38647| 
+| 20210917 | ForcedEntry Zero-Click iOS 漏洞的分析，来自研究员 Tom McGuire | https://objective-see.com/blog/blog_0x67.html| 
+| 20210917 | 通过内核 Hook 的方式实时检测 Shellcode 执行 | https://www.countercraftsec.com/blog/post/shellcode-detection-using-realtime-kernel-monitoring/| 
+| 20210917 | Build 一个 USB 设备，以 433MHz ASK 调制方式，从隔离的环境中渗出数据 | https://www.driverentry.com/node/104| 
+| 20210917 | 利用静态扫描工具 Semgrep 检测 Flask 项目中的 XSS 漏洞 | https://michaelhidalgo.medium.com/on-flask-semgrep-and-secure-coding-26290fcdd960| 
 | 20210916 | 有用户反馈在百度搜索中搜索 iterm2 排名第一的推广链接下载的 iterm2 是钓鱼版本 | https://zhuanlan.zhihu.com/p/408746101| 
 | 20210916 | 利用 DNS Rebinding 攻击泄露 Virgin Media VPN 背后用户的真实 IP | https://fidusinfosec.com/silently-unmasking-virgin-media-vpn-users-in-seconds-cve-2019-16651/| 
 | 20210916 | 摩托罗拉婴儿监视器被发现 RCE 漏洞 | https://randywestergren.com/unauthenticated-remote-code-execution-in-motorola-baby-monitors/| 
@@ -18,14 +26,6 @@
 | 20210916 | 利用 PTE Overwrite 实现 Bypass SMEP | https://sec.today/pulses/3f6a3577-8f45-42dc-884e-b2d7c6e83d20/| 
 | 20210916 | 利用 PTE Overwrite 实现 Bypass SMEP | https://connormcgarr.github.io/pte-overwrites/| 
 | 20210916 | 突破防火墙 NAT 的内外网隔离，真黑客想访问谁就访问谁！ | https://paper.seebug.org/1716/| 
-| 20210916 | dll 劫持和应用研究 | https://paper.seebug.org/1713/| 
-| 20210915 | About the Unsuccessful Quest for a Deserialization Gadget (or: How I found CVE-2021-21481) | https://codewhitesec.blogspot.com/2021/06/about-unsuccessful-quest-for.html| 
-| 20210915 | Windows 10 版本内核堆管理的细节以及 Heap Overflow 漏洞的利用 | https://www.sstic.org/media/SSTIC2020/SSTIC-actes/pool_overflow_exploitation_since_windows_10_19h1/SSTIC2020-Article-pool_overflow_exploitation_since_windows_10_19h1-bayet_fariello.pdf| 
-| 20210915 | Windows Debugger API — The End of Versioned Structures | https://www.driverentry.com/articles/94| 
-| 20210915 | Azure 在其虚拟机实例中默认的安装的 OMI Agent 被发现存在 Root RCE 漏洞 | https://www.wiz.io/blog/secret-agent-exposes-azure-customers-to-unauthorized-code-execution| 
-| 20210915 | 微软发布本月漏洞补丁公告，修复 66 个漏洞 | https://threatpost.com/microsoft-patch-tuesday-exploited-windows-zero-day/169459/| 
-| 20210915 | iOS 0-Click PDF 越界写漏洞分析（CVE-2021-30860） | https://blog.zecops.com/research/the-recent-ios-0-click-cve-2021-30860-sounds-familiar-an-unreleased-write-up-one-year-later/| 
-| 20210915 | Fortinet 对近期抓到的 ProxyShell Exploits 的分析 | https://www.fortinet.com/blog/threat-research/more-proxyshell-web-shells-lead-to-zerologon-and-application-impersonation-attacks?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+fortinet%2Fblog%2Fthreat-research+%28Fortinet+Threat+Research+Blog%29| 
 
 
 # 安全维基 推荐
@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210917T01:58:25Z | CVE-2021-40444 | CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit | https://github.com/klezVirus/CVE-2021-40444 | Microsoft MSHTML Remote Code Execution Vulnerability| 
-| 20210917T01:53:57Z | CVE-2021-40444 | This repo contain builders of cab file, html file, and docx file for CVE-2021-40444 exploit | https://github.com/aslitsecurity/CVE-2021-40444_builders | Microsoft MSHTML Remote Code Execution Vulnerability| 
-| 20210917T01:46:49Z | CVE-2021-38647 | Proof on Concept Exploit for CVE-2021-38647 (OMIGOD) | https://github.com/horizon3ai/CVE-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
-| 20210916T23:40:12Z | CVE-2021-2302 | Null | https://github.com/quynhle7821/CVE-2021-2302 | Vulnerability in the Oracle Platform Security for Java product of Oracle Fusion Middleware (component: OPSS). Supported versions that are affected are 11.1.1.9.0, 12.2.1.3.0 and 12.2.1.4.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle Platform Security for Java. Successful attacks of this vulnerability can result in takeover of Oracle Platform Security for Java. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
-| 20210916T21:10:17Z | CVE-2021-38647 | CVE-2021-38647 POC for RCE | https://github.com/midoxnet/CVE-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
-| 20210916T19:18:34Z | CVE-2021-40444 | Python script to extract embedded URLs from doc files (.doc, .docx, .docm, .rtf) | https://github.com/gh0stxplt/CVE-2021-40444-URL-Extractor | Microsoft MSHTML Remote Code Execution Vulnerability| 
-| 20210916T18:09:29Z | CVE-2021-2456 | CVE-2021-2456 | https://github.com/peterjson31337/CVE-2021-2456 | Vulnerability in the Oracle Business Intelligence Enterprise Edition product of Oracle Fusion Middleware (component: Analytics Web General). The supported version that is affected is 12.2.1.4.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle Business Intelligence Enterprise Edition. Successful attacks of this vulnerability can result in takeover of Oracle Business Intelligence Enterprise Edition. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
-| 20210916T16:27:16Z | CVE-2021-40444 | CVE-2021-40444 - Custom CAB templates from MakeCAB | https://github.com/Udyz/CVE-2021-40444-CAB | Microsoft MSHTML Remote Code Execution Vulnerability| 
-| 20210916T16:06:16Z | CVE-2021-37589 | Exploit to Virtua Software.  | https://github.com/LucaRibeiro/CVE-2021-37589 | 未查询到CVE信息| 
-| 20210916T14:52:05Z | cve-2021-38647 | A PoC exploit for CVE-2021-38647 RCE in OMI | https://github.com/Immersive-Labs-Sec/cve-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
+| 20210917T11:46:34Z | CVE-2021-40444 | CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit | https://github.com/klezVirus/CVE-2021-40444 | Microsoft MSHTML Remote Code Execution Vulnerability| 
+| 20210917T11:38:01Z | CVE-2021-38647 | Proof on Concept Exploit for CVE-2021-38647 (OMIGOD) | https://github.com/horizon3ai/CVE-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
+| 20210917T10:59:21Z | CVE-2021-40444 | CVE-2021-40444 - Custom CAB templates from MakeCAB | https://github.com/Udyz/CVE-2021-40444-CAB | Microsoft MSHTML Remote Code Execution Vulnerability| 
+| 20210917T09:29:18Z | CVE-2021-40444 | Python script to extract embedded URLs from doc files (.doc, .docx, .docm, .rtf) | https://github.com/gh0stxplt/CVE-2021-40444-URL-Extractor | Microsoft MSHTML Remote Code Execution Vulnerability| 
+| 20210917T09:27:06Z | cve-2021-38647 | A PoC exploit for CVE-2021-38647 RCE in OMI | https://github.com/Immersive-Labs-Sec/cve-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
+| 20210917T07:35:23Z | CVE-2021-40444 | This repo contain builders of cab file, html file, and docx file for CVE-2021-40444 exploit | https://github.com/aslitsecurity/CVE-2021-40444_builders | Microsoft MSHTML Remote Code Execution Vulnerability| 
+| 20210917T03:34:31Z | CVE-2021-37678 | TP Seguridad Informática | https://github.com/fran-CICS/ExploitTensorflowCVE-2021-37678 | TensorFlow is an end-to-end open source platform for machine learning. In affected versions TensorFlow and Keras can be tricked to perform arbitrary code execution when deserializing a Keras model from YAML format. The [implementation](https://github.com/tensorflow/tensorflow/blob/460e000de3a83278fb00b61a16d161b1964f15f4/tensorflow/python/keras/saving/model_config.py#L66-L104) uses `yaml.unsafe_load` which can perform arbitrary code execution on the input. Given that YAML format support requires a significant amount of work, we have removed it for now. We have patched the issue in GitHub commit 23d6383eb6c14084a8fc3bdf164043b974818012. The fix will be included in TensorFlow 2.6.0. We will also cherrypick this commit on TensorFlow 2.5.1, TensorFlow 2.4.3, and TensorFlow 2.3.4, as these are also affected and still in supported range.| 
+| 20210917T02:56:21Z | CVE-2021-40539 | CVE-2021-40539 POC | https://github.com/DarkSprings/CVE-2021-40539 | Zoho ManageEngine ADSelfService Plus version 6113 and prior is vulnerable to REST API authentication bypass with resultant remote code execution.| 
+| 20210917T02:47:14Z | CVE-2021-2456 | CVE-2021-2456 | https://github.com/peterjson31337/CVE-2021-2456 | Vulnerability in the Oracle Business Intelligence Enterprise Edition product of Oracle Fusion Middleware (component: Analytics Web General). The supported version that is affected is 12.2.1.4.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle Business Intelligence Enterprise Edition. Successful attacks of this vulnerability can result in takeover of Oracle Business Intelligence Enterprise Edition. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
+| 20210917T02:38:42Z | CVE-2021-38639 | Windows win32k ascension UAC poc | https://github.com/DarkSprings/CVE-2021-38639 | Win32k Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-36975.| 
 
 
 # klee on Github 推荐
@@ -76,6 +76,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210917T02:55:13Z | Null | https://github.com/yuvalkirstain/s2e-coref | 13 | 6| 
 | 20210916T10:12:59Z | Compiler for S2Engine architecure , an CNN accelerator | https://github.com/BUAA-CI-Lab/S2EngineCompiler | 2 | 1| 
 | 20210916T10:12:52Z | Simulator for S2Engine architucture , a CNN accelerator | https://github.com/BUAA-CI-Lab/S2EngineSimulator | 3 | 1| 
 | 20210916T04:05:27Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 150 | 37| 
@@ -85,31 +86,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210917T01:49:42Z | Samba 3.0.20 < 3.0.25rc3 - %Username% map script% Command Execution | https://github.com/NPTG24/Exploit-smb-3.0.20 | 0 | 0| 
-| 20210917T01:21:42Z | PolaBeax is an easy-to-use exploit which allow you to run different commands ( not LUA ) which already invented. For more information, go to %README.txt%. | https://github.com/OriChanEzScript/PolaBeax-Lua | 0 | 0| 
-| 20210917T01:20:25Z | Linux kernel CVE exploit analysis report and relative debug environment. You don%t need to compile Linux kernel and configure your environment anymore.  | https://github.com/bsauce/kernel-exploit-factory | 107 | 20| 
-| 20210917T01:03:17Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 31 | 18| 
-| 20210917T00:39:16Z | Custom WPF Exploit UI for Synapse X. COMING SOON! | https://github.com/twokaythetwothousandth/2000-UI | 0 | 0| 
-| 20210917T00:06:34Z | Null | https://github.com/jpsecundino/dependency-exploit | 0 | 0| 
-| 20210916T23:44:17Z | Exploitation of CVE-2019-5420 to gain code execution. | https://github.com/RyouYoo/CVE-2019-5420-RCE | 0 | 0| 
-| 20210916T23:41:21Z | Collection of Discord hacking tools/fun stuff/exploits that is completely developed using NodeJS. | https://github.com/I2rys/ODiscord | 4 | 3| 
-| 20210916T22:19:04Z | Presentation of Cross-Site Scripting (XSS) exploitations. With realistic examples | https://github.com/centime/xss-paper | 4 | 1| 
-| 20210916T21:32:52Z | Null | https://github.com/joeengo/exploiting | 0 | 0| 
+| 20210917T11:31:46Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 2496 | 385| 
+| 20210917T11:02:56Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 31 | 18| 
+| 20210917T11:01:59Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 6465 | 1797| 
+| 20210917T11:01:52Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 8266 | 1436| 
+| 20210917T10:46:36Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | 0 | 0| 
+| 20210917T10:45:06Z | This Repository will contain various tools, scripts and commands used in Active Directory Enumeration and Exploitation. | https://github.com/SecTheBit/Active-Directory | 1 | 0| 
+| 20210917T10:24:06Z | Geohazards Thematic Exploitation guide | https://github.com/Terradue/doc-tep-geohazards | 9 | 26| 
+| 20210917T09:58:31Z | code for %Exploiting Reasoning Chains for Multi-hop Science Question Answering% | https://github.com/wwxu21/CGR | 0 | 0| 
+| 20210917T09:52:55Z | Null | https://github.com/Bronwen-hunter/Global-Bat-Exploitation-Study | 0 | 0| 
+| 20210917T09:10:44Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 3921 | 541| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210917T11:49:33Z | pybotnet -   A Python Library for building Botnet , Trojan or BackDoor for windows and linux with Telegram control panel  | https://github.com/onionj/pybotnet | 14 | 10| 
+| 20210917T10:40:08Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 97 | 17| 
+| 20210917T09:14:48Z | PyIris is a modular remote access trojan toolkit written completely in python targeting Windows and Linux systems. | https://github.com/angus-y/PyIris-backdoor | 184 | 54| 
+| 20210917T09:09:44Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 316 | 57| 
+| 20210917T08:02:26Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 32 | 9| 
+| 20210917T06:22:24Z | Null | https://github.com/mlearning-security/countermeasures-against-backdoor-attacks | 0 | 0| 
+| 20210917T06:10:05Z | Null | https://github.com/YukiM00/Backdoor-medicalAI | 0 | 0| 
 | 20210917T01:53:47Z | WaNet - Imperceptible Warping-based Backdoor Attack (ICLR 2021) | https://github.com/VinAIResearch/Warping-based_Backdoor_Attack-release | 17 | 5| 
-| 20210917T01:34:37Z | PyIris is a modular remote access trojan toolkit written completely in python targeting Windows and Linux systems. | https://github.com/angus-y/PyIris-backdoor | 175 | 54| 
-| 20210916T22:38:10Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 31 | 9| 
 | 20210916T19:29:09Z | A collection of python written hacking tools consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester credential harvester, keylogger, download&execute, ransomware and reverse_backdoor. | https://github.com/dmdhrumilmistry/pyhtools | 24 | 8| 
 | 20210916T19:09:19Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 36 | 27| 
-| 20210916T12:55:52Z | backdoor control php sites, The site is controlled by sending commands, files and codes to the site using the http or https protocol. After copying the code and placing it in any php file on the target website, you will have permissions to enter it, read all files, delete and even upload new files to it. Also, this backdoor is password protected and non-reverse encryption. | https://github.com/yasserbdj96/hiphp | 1 | 0| 
-| 20210916T11:59:10Z | Code and data of the ACL-IJCNLP 2021 paper %Hidden Killer: Invisible Textual Backdoor Attacks with Syntactic Trigger% | https://github.com/thunlp/HiddenKiller | 3 | 2| 
-| 20210916T10:27:53Z | Null | https://github.com/Wiilldd/backdoor | 0 | 0| 
-| 20210916T07:30:04Z | Null | https://github.com/master7720/backdoored-1.8.2-src | 0 | 0| 
-| 20210916T06:44:47Z | Null | https://github.com/Kani1812/Backdoor_Project | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -139,16 +140,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210917T01:26:37Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6655 | 1363| 
-| 20210917T01:03:30Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 541 | 51| 
-| 20210917T00:37:53Z | Weather dashboard app | https://github.com/ksdevinney/fuzzy-spork | 0 | 0| 
-| 20210917T00:12:37Z | Here you%ll find some of my Fuzzy Logic college stuff | https://github.com/Marceeaax/FuzzyLogic | 0 | 0| 
-| 20210917T00:02:37Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
-| 20210916T23:41:23Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
-| 20210916T23:33:04Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210916T23:26:37Z | Fuzzify your DJ experience. Some assembly required. | https://github.com/djdarchon/fuzzdj | 0 | 0| 
-| 20210916T23:25:22Z | A TCP/UDP based network daemon fuzzer | https://github.com/denandz/fuzzotron | 343 | 64| 
-| 20210916T23:16:07Z | Null | https://github.com/tmwatchanan/FuzzySets.jl | 0 | 0| 
+| 20210917T11:44:52Z |  A tool written in python to find files and directories of web applications using a specified wordlist | https://github.com/Tomiwa-Ot/Website-Directory-Fuzzing-Tool | 0 | 0| 
+| 20210917T11:39:49Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6658 | 1362| 
+| 20210917T11:31:08Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20210917T11:19:57Z | Null | https://github.com/nhsd-exeter/dos-service-fuzzy-search-api | 1 | 0| 
+| 20210917T11:13:21Z | Null | https://github.com/Yanghua-Github/peach_fuzz | 0 | 0| 
+| 20210917T11:03:14Z | A differential fuzzer for x86 decoders | https://github.com/trailofbits/mishegos | 155 | 22| 
+| 20210917T10:42:59Z | Null | https://github.com/oof-cheburash/FuzzerLib | 0 | 0| 
+| 20210917T09:51:15Z | 基于JQF，使运行模糊测试更方便 | https://github.com/baileyfu/fuzzing4j | 0 | 0| 
+| 20210917T09:32:10Z | Null | https://github.com/AnaghHegde/fuzzy-meme | 0 | 0| 
+| 20210917T09:16:16Z | greybox mutation-based fuzzer for PHP | https://github.com/HGUfuzzing/php-fuzzer | 2 | 1| 
 
 
 
