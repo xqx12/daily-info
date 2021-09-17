@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210917T01:19:26Z | Linux kernel CVE exploit analysis report and relative debug environment. You don%t need to compile Linux kernel and configure your environment anymore.  | https://github.com/bsauce/kernel-exploit-factory | 107 | 20| 
 | 20210917T01:03:17Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 31 | 18| 
 | 20210917T00:39:16Z | Custom WPF Exploit UI for Synapse X. COMING SOON! | https://github.com/twokaythetwothousandth/2000-UI | 0 | 0| 
 | 20210917T00:06:34Z | Null | https://github.com/jpsecundino/dependency-exploit | 0 | 0| 
@@ -94,7 +95,6 @@
 | 20210916T21:32:52Z | Null | https://github.com/joeengo/exploiting | 0 | 0| 
 | 20210916T21:25:23Z | 2D implementation of boss assets flaw in Dark Souls 3 using Unity | https://github.com/nam0011/2D-Game-Flaw-Exploit-Example | 1 | 0| 
 | 20210916T21:06:02Z | Exploiting? | https://github.com/XenHubz/XenHubLua | 0 | 0| 
-| 20210916T20:59:31Z | adding more exploit to metasploit | https://github.com/Darkhunters22/metasploit-framework-exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
