@@ -42,7 +42,7 @@
 | 20210916T17:19:50Z | CVE-2021-40444 | This repo contain builders of cab file, html file, and docx file for CVE-2021-40444 exploit | https://github.com/aslitsecurity/CVE-2021-40444_builders | Microsoft MSHTML Remote Code Execution Vulnerability| 
 | 20210916T16:27:16Z | CVE-2021-40444 | CVE-2021-40444 - Custom CAB templates from MakeCAB | https://github.com/Udyz/CVE-2021-40444-CAB | Microsoft MSHTML Remote Code Execution Vulnerability| 
 | 20210916T16:06:16Z | CVE-2021-37589 | Exploit to Virtua Software.  | https://github.com/LucaRibeiro/CVE-2021-37589 | 未查询到CVE信息| 
-| 20210916T14:52:05Z | cve-2021-38647 | A PoC exploit for CVE-2021-38647 RCE in OMI | https://github.com/Immersive-Labs-Sec/cve-2021-38647 | | 
+| 20210916T14:52:05Z | cve-2021-38647 | A PoC exploit for CVE-2021-38647 RCE in OMI | https://github.com/Immersive-Labs-Sec/cve-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
 
 
 # klee on Github 推荐
@@ -94,9 +94,11 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210916T21:52:26Z | A tool for generating nonlinear numerical invariants for C and Java programs.  DIG uses dynamic analysis to infer invariants over program execution traces and applies symbolic execution to inferred invariants. | https://github.com/unsat/dig | 8 | 4| 
+| 20210916T17:41:35Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2453 | 363| 
+| 20210916T14:00:23Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1777 | 506| 
 | 20210916T12:52:05Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 469 | 73| 
 | 20210916T12:46:56Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 656 | 66| 
-| 20210916T09:37:54Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2454 | 363| 
 | 20210916T08:58:02Z | Compiled Sail ISA snapshots for the Isla symbolic execution tool | https://github.com/rems-project/isla-snapshots | 1 | 0| 
 | 20210916T03:06:54Z | Code for the use cases presented in the paper Symbion: Interleaving Symbolic with Concrete Execution | https://github.com/degrigis/symbion-use-cases | 7 | 2| 
 | 20210916T00:34:39Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 28 | 6| 
