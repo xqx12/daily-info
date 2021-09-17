@@ -52,7 +52,7 @@
 | 20210916T21:10:17Z | CVE-2021-38647 | CVE-2021-38647 POC for RCE | https://github.com/midoxnet/CVE-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
 | 20210916T19:18:34Z | CVE-2021-40444 | Python script to extract embedded URLs from doc files (.doc, .docx, .docm, .rtf) | https://github.com/gh0stxplt/CVE-2021-40444-URL-Extractor | Microsoft MSHTML Remote Code Execution Vulnerability| 
 | 20210916T18:09:29Z | CVE-2021-2456 | CVE-2021-2456 | https://github.com/peterjson31337/CVE-2021-2456 | Vulnerability in the Oracle Business Intelligence Enterprise Edition product of Oracle Fusion Middleware (component: Analytics Web General). The supported version that is affected is 12.2.1.4.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle Business Intelligence Enterprise Edition. Successful attacks of this vulnerability can result in takeover of Oracle Business Intelligence Enterprise Edition. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
-| 20210916T17:19:50Z | CVE-2021-40444 | This repo contain builders of cab file, html file, and docx file for CVE-2021-40444 exploit | https://github.com/aslitsecurity/CVE-2021-40444_builders | | 
+| 20210916T17:19:50Z | CVE-2021-40444 | This repo contain builders of cab file, html file, and docx file for CVE-2021-40444 exploit | https://github.com/aslitsecurity/CVE-2021-40444_builders | Microsoft MSHTML Remote Code Execution Vulnerability| 
 | 20210916T16:27:16Z | CVE-2021-40444 | CVE-2021-40444 - Custom CAB templates from MakeCAB | https://github.com/Udyz/CVE-2021-40444-CAB | Microsoft MSHTML Remote Code Execution Vulnerability| 
 | 20210916T16:06:16Z | CVE-2021-37589 | Exploit to Virtua Software.  | https://github.com/LucaRibeiro/CVE-2021-37589 | 未查询到CVE信息| 
 | 20210916T14:52:05Z | cve-2021-38647 | A PoC exploit for CVE-2021-38647 RCE in OMI | https://github.com/Immersive-Labs-Sec/cve-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
@@ -100,7 +100,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210917T00:57:01Z | PyIris is a modular remote access trojan toolkit written completely in python targeting Windows and Linux systems. | https://github.com/angus-y/PyIris-backdoor | 174 | 53| 
+| 20210917T00:57:01Z | PyIris is a modular remote access trojan toolkit written completely in python targeting Windows and Linux systems. | https://github.com/angus-y/PyIris-backdoor | 174 | 54| 
 | 20210916T22:38:10Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 31 | 9| 
 | 20210916T19:29:09Z | A collection of python written hacking tools consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester credential harvester, keylogger, download&execute, ransomware and reverse_backdoor. | https://github.com/dmdhrumilmistry/pyhtools | 24 | 8| 
 | 20210916T19:09:19Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 36 | 27| 
@@ -139,6 +139,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210917T01:03:30Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 541 | 51| 
 | 20210917T00:37:53Z | Weather dashboard app | https://github.com/ksdevinney/fuzzy-spork | 0 | 0| 
 | 20210917T00:12:37Z | Here you%ll find some of my Fuzzy Logic college stuff | https://github.com/Marceeaax/FuzzyLogic | 0 | 0| 
 | 20210917T00:02:37Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
@@ -148,7 +149,6 @@
 | 20210916T23:26:37Z | Fuzzify your DJ experience. Some assembly required. | https://github.com/djdarchon/fuzzdj | 0 | 0| 
 | 20210916T23:25:22Z | A TCP/UDP based network daemon fuzzer | https://github.com/denandz/fuzzotron | 343 | 64| 
 | 20210916T23:16:07Z | Null | https://github.com/tmwatchanan/FuzzySets.jl | 0 | 0| 
-| 20210916T23:08:52Z | JQF + Zest: Coverage-guided semantic fuzzing for Java. | https://github.com/rohanpadhye/JQF | 394 | 59| 
 
 
 
