@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210917T01:49:09Z | CVE-2021-40444 | CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit | https://github.com/klezVirus/CVE-2021-40444 | Microsoft MSHTML Remote Code Execution Vulnerability| 
 | 20210917T01:46:49Z | CVE-2021-38647 | Proof on Concept Exploit for CVE-2021-38647 (OMIGOD) | https://github.com/horizon3ai/CVE-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
-| 20210917T01:16:11Z | CVE-2021-40444 | CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit | https://github.com/klezVirus/CVE-2021-40444 | Microsoft MSHTML Remote Code Execution Vulnerability| 
 | 20210916T23:40:12Z | CVE-2021-2302 | Null | https://github.com/quynhle7821/CVE-2021-2302 | Vulnerability in the Oracle Platform Security for Java product of Oracle Fusion Middleware (component: OPSS). Supported versions that are affected are 11.1.1.9.0, 12.2.1.3.0 and 12.2.1.4.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle Platform Security for Java. Successful attacks of this vulnerability can result in takeover of Oracle Platform Security for Java. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
 | 20210916T21:10:17Z | CVE-2021-38647 | CVE-2021-38647 POC for RCE | https://github.com/midoxnet/CVE-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
 | 20210916T19:18:34Z | CVE-2021-40444 | Python script to extract embedded URLs from doc files (.doc, .docx, .docm, .rtf) | https://github.com/gh0stxplt/CVE-2021-40444-URL-Extractor | Microsoft MSHTML Remote Code Execution Vulnerability| 
@@ -85,7 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210917T01:45:14Z | Samba 3.0.20 < 3.0.25rc3 - %Username% map script% Command Execution | https://github.com/NPTG24/Exploit-smb-3.0.20 | 0 | 0| 
+| 20210917T01:49:42Z | Samba 3.0.20 < 3.0.25rc3 - %Username% map script% Command Execution | https://github.com/NPTG24/Exploit-smb-3.0.20 | 0 | 0| 
 | 20210917T01:21:42Z | PolaBeax is an easy-to-use exploit which allow you to run different commands ( not LUA ) which already invented. For more information, go to %README.txt%. | https://github.com/OriChanEzScript/PolaBeax-Lua | 0 | 0| 
 | 20210917T01:20:25Z | Linux kernel CVE exploit analysis report and relative debug environment. You don%t need to compile Linux kernel and configure your environment anymore.  | https://github.com/bsauce/kernel-exploit-factory | 107 | 20| 
 | 20210917T01:03:17Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 31 | 18| 
