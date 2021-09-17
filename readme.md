@@ -33,7 +33,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210916T23:40:12Z | CVE-2021-2302 | Null | https://github.com/quynhle7821/CVE-2021-2302 | | 
+| 20210916T23:40:12Z | CVE-2021-2302 | Null | https://github.com/quynhle7821/CVE-2021-2302 | Vulnerability in the Oracle Platform Security for Java product of Oracle Fusion Middleware (component: OPSS). Supported versions that are affected are 11.1.1.9.0, 12.2.1.3.0 and 12.2.1.4.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle Platform Security for Java. Successful attacks of this vulnerability can result in takeover of Oracle Platform Security for Java. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
 | 20210916T23:22:30Z | CVE-2021-38647 | Proof on Concept Exploit for CVE-2021-38647 (OMIGOD) | https://github.com/horizon3ai/CVE-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
 | 20210916T22:58:39Z | CVE-2021-40444 | CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit | https://github.com/klezVirus/CVE-2021-40444 | Microsoft MSHTML Remote Code Execution Vulnerability| 
 | 20210916T21:10:17Z | CVE-2021-38647 | CVE-2021-38647 POC for RCE | https://github.com/midoxnet/CVE-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
@@ -64,7 +64,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210916T23:59:31Z | Null | https://github.com/jpsecundino/dependency-exploit | 0 | 0| 
 | 20210916T23:44:17Z | Exploitation of CVE-2019-5420 to gain code execution. | https://github.com/RyouYoo/CVE-2019-5420-RCE | 0 | 0| 
 | 20210916T23:41:21Z | Collection of Discord hacking tools/fun stuff/exploits that is completely developed using NodeJS. | https://github.com/I2rys/ODiscord | 4 | 3| 
 | 20210916T22:19:04Z | Presentation of Cross-Site Scripting (XSS) exploitations. With realistic examples | https://github.com/centime/xss-paper | 4 | 1| 
@@ -74,6 +73,7 @@
 | 20210916T20:59:31Z | adding more exploit to metasploit | https://github.com/Darkhunters22/metasploit-framework-exploits | 0 | 0| 
 | 20210916T20:48:31Z | a meme exploit script obfuscator (only runs on synapse x). | https://github.com/cccyclops/skoop-secure | 0 | 0| 
 | 20210916T20:36:44Z | Null | https://github.com/zYan666/Demon-Exploit | 0 | 0| 
+| 20210916T20:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10041 | 1683| 
 
 
 # backdoor on Github 推荐
