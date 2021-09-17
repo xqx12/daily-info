@@ -42,7 +42,7 @@
 | 20210916T16:06:16Z | CVE-2021-37589 | Exploit to Virtua Software.  | https://github.com/LucaRibeiro/CVE-2021-37589 | 未查询到CVE信息| 
 | 20210916T14:52:05Z | cve-2021-38647 | A PoC exploit for CVE-2021-38647 RCE in OMI | https://github.com/Immersive-Labs-Sec/cve-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
 | 20210916T10:50:28Z | CVE-2020-36386 | Null | https://github.com/artsking/linux-4.1.15_CVE-2020-36386_withPatch | An issue was discovered in the Linux kernel before 5.8.1. net/bluetooth/hci_event.c has a slab out-of-bounds read in hci_extended_inquiry_result_evt, aka CID-51c19bf3d5cf.| 
-| 20210916T09:57:43Z | CVE-2021-33034 | Null | https://github.com/artsking/linux-4.1.15_CVE-2021-33034_withPatch | In the Linux kernel before 5.12.4, net/bluetooth/hci_event.c has a use-after-free when destroying an hci_chan, aka CID-5c4c8c954409. This leads to writing an arbitrary value.| 
+| 20210916T09:57:43Z | CVE-2021-33034 | Null | https://github.com/artsking/linux-4.1.15_CVE-2021-33034_withPatch | | 
 
 
 # klee on Github 推荐
