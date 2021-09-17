@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210917T12:38:51Z | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | 101 | 20| 
 | 20210917T12:35:03Z | Null | https://github.com/Bronwen-hunter/Global-Bat-Exploitation-Study | 0 | 0| 
 | 20210917T12:28:46Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 6466 | 1797| 
 | 20210917T12:02:57Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 31 | 18| 
@@ -95,7 +96,6 @@
 | 20210917T10:45:06Z | This Repository will contain various tools, scripts and commands used in Active Directory Enumeration and Exploitation. | https://github.com/SecTheBit/Active-Directory | 1 | 0| 
 | 20210917T10:24:06Z | Geohazards Thematic Exploitation guide | https://github.com/Terradue/doc-tep-geohazards | 9 | 26| 
 | 20210917T09:58:31Z | code for %Exploiting Reasoning Chains for Multi-hop Science Question Answering% | https://github.com/wwxu21/CGR | 0 | 0| 
-| 20210917T09:10:44Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 3921 | 541| 
 
 
 # backdoor on Github 推荐
