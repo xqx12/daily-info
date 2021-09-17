@@ -113,7 +113,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210916T23:53:19Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6655 | 1363| 
 | 20210916T23:41:23Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210916T23:33:04Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210916T23:26:37Z | Fuzzify your DJ experience. Some assembly required. | https://github.com/djdarchon/fuzzdj | 0 | 0| 
@@ -123,6 +122,7 @@
 | 20210916T23:04:09Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 301 | 39| 
 | 20210916T22:53:55Z | Python Front End Basics | https://github.com/Radar3759/fuzzy-palm-tree | 0 | 0| 
 | 20210916T22:49:09Z | Null | https://github.com/qianzhanghk/BigFuzz | 11 | 4| 
+| 20210916T22:29:28Z | 32-bit x86 multiprocessing OS capable of running console or graphical user applications. | https://github.com/scopeInfinity/FuzzyOS | 1 | 0| 
 
 
 
