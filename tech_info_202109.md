@@ -116,7 +116,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210917T21:42:12Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2459 | 363| 
+| 20210918T09:19:48Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 20 | 12| 
+| 20210918T04:27:59Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2460 | 363| 
 | 20210917T13:33:30Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 29 | 6| 
 | 20210917T12:24:23Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1888 | 394| 
 | 20210917T11:02:54Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 658 | 66| 
@@ -125,7 +126,6 @@
 | 20210916T14:00:23Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1777 | 506| 
 | 20210916T12:52:05Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 469 | 73| 
 | 20210916T08:58:02Z | Compiled Sail ISA snapshots for the Isla symbolic execution tool | https://github.com/rems-project/isla-snapshots | 1 | 0| 
-| 20210916T03:06:54Z | Code for the use cases presented in the paper Symbion: Interleaving Symbolic with Concrete Execution | https://github.com/degrigis/symbion-use-cases | 7 | 2| 
 
 
 # big4 on Github 推荐
