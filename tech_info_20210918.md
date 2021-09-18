@@ -18,8 +18,8 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210918T07:34:24Z | CVE-2021-26084 | [CVE-2021-26084] Confluence pre-auth RCE test script | https://github.com/ludy-dev/CVE-2021-26084_PoC | In affected versions of Confluence Server and Data Center, an OGNL injection vulnerability exists that would allow an unauthenticated attacker to execute arbitrary code on a Confluence Server or Data Center instance. The affected versions are before version 6.13.23, from version 6.14.0 before 7.4.11, from version 7.5.0 before 7.11.6, and from version 7.12.0 before 7.12.5.| 
-| 20210918T03:17:20Z | CVE-2021-35042 | Reproduce CVE-2021-35042 | https://github.com/mrlihd/CVE-2021-35042 | Django 3.1.x before 3.1.13 and 3.2.x before 3.2.5 allows QuerySet.order_by SQL injection if order_by is untrusted input from a client of a web application.| 
-| 20210918T02:48:17Z | CVE-2021-30686 | PoC for exploiting CVE-2021-30686 : An out-of-bounds read was addressed with improved bounds checking. This issue is fixed in tvOS 14.6, iOS 14.6 and iPadOS 14.6, Security Update 2021-003 Catalina, macOS Big Sur 11.4, watchOS 7.5. Processing a maliciously crafted audio file may disclose restricted memory. | https://github.com/AlAIAL90/CVE-2021-30686 | An out-of-bounds read was addressed with improved bounds checking. This issue is fixed in tvOS 14.6, iOS 14.6 and iPadOS 14.6, Security Update 2021-003 Catalina, macOS Big Sur 11.4, watchOS 7.5. Processing a maliciously crafted audio file may disclose restricted memory.| 
+| 20210918T03:17:20Z | CVE-2021-35042 | Reproduce CVE-2021-35042 | https://github.com/mrlihd/CVE-2021-35042 | | 
+| 20210918T02:48:17Z | CVE-2021-30686 | PoC for exploiting CVE-2021-30686 : An out-of-bounds read was addressed with improved bounds checking. This issue is fixed in tvOS 14.6, iOS 14.6 and iPadOS 14.6, Security Update 2021-003 Catalina, macOS Big Sur 11.4, watchOS 7.5. Processing a maliciously crafted audio file may disclose restricted memory. | https://github.com/AlAIAL90/CVE-2021-30686 | | 
 | 20210918T02:48:13Z | CVE-2021-30780 | PoC for exploiting CVE-2021-30780 : An out-of-bounds write issue was addressed with improved bounds checking. This issue is fixed in iOS 14.7, macOS Big Sur 11.5, watchOS 7.6, tvOS 14.7, Security Update 2021-005 Mojave, Security Update 2021-004 Catalina. A malicious application may be able to gain root privileges. | https://github.com/AlAIAL90/CVE-2021-30780 | An out-of-bounds write issue was addressed with improved bounds checking. This issue is fixed in iOS 14.7, macOS Big Sur 11.5, watchOS 7.6, tvOS 14.7, Security Update 2021-005 Mojave, Security Update 2021-004 Catalina. A malicious application may be able to gain root privileges.| 
 | 20210918T02:48:09Z | CVE-2021-30779 | PoC for exploiting CVE-2021-30779 : This issue was addressed with improved checks. This issue is fixed in iOS 14.7, macOS Big Sur 11.5, watchOS 7.6, tvOS 14.7. Processing a maliciously crafted image may lead to arbitrary code execution. | https://github.com/AlAIAL90/CVE-2021-30779 | This issue was addressed with improved checks. This issue is fixed in iOS 14.7, macOS Big Sur 11.5, watchOS 7.6, tvOS 14.7. Processing a maliciously crafted image may lead to arbitrary code execution.| 
 | 20210918T02:48:06Z | CVE-2021-30654 | PoC for exploiting CVE-2021-30654 : This issue was addressed by removing additional entitlements. This issue is fixed in GarageBand 10.4.3. A local attacker may be able to read sensitive information. | https://github.com/AlAIAL90/CVE-2021-30654 | This issue was addressed by removing additional entitlements. This issue is fixed in GarageBand 10.4.3. A local attacker may be able to read sensitive information.| 
@@ -43,8 +43,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210918T12:22:10Z | Null | https://github.com/Athis-Offsec/Exploits-I-Made | 0 | 0| 
 | 20210918T12:17:48Z | Null | https://github.com/Pen-Test3rs/binary_exploits_tasks_public | 0 | 0| 
-| 20210918T12:16:02Z | Null | https://github.com/Athis-Offsec/Exploits-I-Made | 0 | 0| 
 | 20210918T12:15:05Z | An extension of Lua for exploiting. | https://github.com/treee-pro/L- | 0 | 0| 
 | 20210918T12:03:01Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 31 | 18| 
 | 20210918T11:55:47Z | Roblox Exploit Scripts for HD Admin. | https://github.com/arcryi/FamilyHell | 0 | 0| 
@@ -58,6 +58,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210918T12:22:49Z | A LKM rootkit targeting 4.x and 5.x kernel versions which opens a backdoor that can spawn a reverse shell to a remote host, launch malware and more. | https://github.com/h3xduck/Umbra | 24 | 4| 
 | 20210918T11:04:12Z | pybotnet -   A Python Library for building Botnet , Trojan or BackDoor for windows and linux with Telegram control panel  | https://github.com/onionj/pybotnet | 15 | 10| 
 | 20210918T10:28:18Z | A simple PHP web backdoor allows you to retrieve directory/file contents and upload file(s) from the local machine or remote URL. | https://github.com/aqhmal/Simple-PHP-Web-Backdoor | 0 | 0| 
 | 20210918T10:21:46Z | Null | https://github.com/Wiilldd/backdoor | 0 | 0| 
