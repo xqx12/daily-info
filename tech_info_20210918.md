@@ -43,6 +43,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210918T12:52:41Z | An attempt of automating the exploitation workflow of basic OSCP like buffer overflows in python | https://github.com/lyxo/autoOverflow | 0 | 0| 
 | 20210918T12:45:47Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10052 | 1688| 
 | 20210918T12:41:07Z | Null | https://github.com/PitchyATree/roblox-exploit-library | 0 | 0| 
 | 20210918T12:38:38Z | Null | https://github.com/Athis-Offsec/Exploits-I-Made | 0 | 0| 
@@ -52,7 +53,6 @@
 | 20210918T11:55:47Z | Roblox Exploit Scripts for HD Admin. | https://github.com/arcryi/FamilyHell | 0 | 0| 
 | 20210918T11:32:28Z | Work in progress. | https://github.com/0x0elliot/WerkzeugDebuggerExploit | 0 | 0| 
 | 20210918T11:19:28Z | Extensible framework for analyzing publicly available information about vulnerabilities | https://github.com/leonov-av/vulristics | 37 | 5| 
-| 20210918T10:42:08Z | Collection of Discord hacking tools/fun stuff/exploits that is completely developed using NodeJS. | https://github.com/I2rys/ODiscord | 4 | 3| 
 
 
 # backdoor on Github 推荐
@@ -85,6 +85,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210918T12:55:27Z | A set of tools for fuzzing SecureROM. Managed to find and trigger checkm8. | https://github.com/galli-leo/emmutaler | 67 | 6| 
 | 20210918T12:50:10Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210918T12:20:06Z | Attempts to find security vulnerabilities in NetHack via input Fuzzing | https://github.com/recursion-ninja/Superion-YAML | 1 | 3| 
 | 20210918T12:15:14Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 24 | 10| 
@@ -94,7 +95,6 @@
 | 20210918T09:56:10Z | A small utility for fuzzy string searching where you provide strings and phrases, and receive the best fit results. | https://github.com/Chase-William/fuzzy-phrase-classifier | 0 | 0| 
 | 20210918T09:37:30Z | rstr is a helper module for easily generating random strings of various types. It could be useful for fuzz testing, generating dummy data, or other applications. | https://github.com/leapfrogonline/rstr | 23 | 2| 
 | 20210918T08:58:00Z | Null | https://github.com/samuel8876170/Neuro-Fuzzy-System | 0 | 0| 
-| 20210918T08:23:42Z | Sample code for golang native fuzzer: https://go.googlesource.com/proposal/+/master/design/draft-fuzzing.md | https://github.com/s3nt3/gofuzz-sample | 0 | 0| 
 
 
 
