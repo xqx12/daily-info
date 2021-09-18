@@ -31,6 +31,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210918 | Xcheck之Python安全检查引擎 | https://mp.weixin.qq.com/s?__biz=Mzg2ODQ3ODE1NA==&mid=2247484302&idx=1&sn=4d82ca55aa139f5ab6871f400a68d6b7&chksm=ceaafe2bf9dd773d5a6a4b8ca338e63767b9f2b5c8d5bee40e9d2420bf10c53617145d13f0e7&token=427179046&lang=zh_CN#rd| 
 | 20210917 | Dubbo 源码分析 | https://mp.weixin.qq.com/s/o1QSOkTTFHft0EWpUh0pDg| 
 | 20210917 | Web应用组件自动化发现的探索 | https://mp.weixin.qq.com/s/6xFYQ3D45VpTT3n_qgRing| 
 | 20210916 | [HTB] Laboratory Writeup | https://mp.weixin.qq.com/s/JogpD-YDJr_By3_z7X0rxA| 
@@ -40,22 +41,21 @@
 | 20210915 | Hachi: This tool maps a files behavior on MITRE ATT&CK ma... | https://github.com/Kart1keya/Hachi| 
 | 20210914 | 谈谈网络空间“行为测绘” | https://mp.weixin.qq.com/s/THEdOpSu_bSPWo66sRDyPA| 
 | 20210914 | VaultFuzzer: 针对Linux内核的状态导向模糊测试方案 | https://mp.weixin.qq.com/s/ZevJBJjANmBLPCG0RyC3eg| 
-| 20210914 | fapro: 协议模拟服务器 | https://github.com/fofapro/fapro| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210918T01:37:26Z | CVE-2021-38647 | Proof on Concept Exploit for CVE-2021-38647 (OMIGOD) | https://github.com/horizon3ai/CVE-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
-| 20210918T01:03:46Z | CVE-2021-37678 | TP Seguridad Informática | https://github.com/fran-CICS/ExploitTensorflowCVE-2021-37678 | TensorFlow is an end-to-end open source platform for machine learning. In affected versions TensorFlow and Keras can be tricked to perform arbitrary code execution when deserializing a Keras model from YAML format. The [implementation](https://github.com/tensorflow/tensorflow/blob/460e000de3a83278fb00b61a16d161b1964f15f4/tensorflow/python/keras/saving/model_config.py#L66-L104) uses `yaml.unsafe_load` which can perform arbitrary code execution on the input. Given that YAML format support requires a significant amount of work, we have removed it for now. We have patched the issue in GitHub commit 23d6383eb6c14084a8fc3bdf164043b974818012. The fix will be included in TensorFlow 2.6.0. We will also cherrypick this commit on TensorFlow 2.5.1, TensorFlow 2.4.3, and TensorFlow 2.3.4, as these are also affected and still in supported range.| 
-| 20210918T00:43:41Z | CVE-2021-40444 | CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit | https://github.com/klezVirus/CVE-2021-40444 | Microsoft MSHTML Remote Code Execution Vulnerability| 
-| 20210917T23:28:36Z | CVE-2021-38647 | CVE-2021-38647 POC for RCE | https://github.com/midoxnet/CVE-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
-| 20210917T14:56:15Z | CVE-2021-2456 | CVE-2021-2456 | https://github.com/peterjson31337/CVE-2021-2456 | Vulnerability in the Oracle Business Intelligence Enterprise Edition product of Oracle Fusion Middleware (component: Analytics Web General). The supported version that is affected is 12.2.1.4.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle Business Intelligence Enterprise Edition. Successful attacks of this vulnerability can result in takeover of Oracle Business Intelligence Enterprise Edition. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
-| 20210917T13:43:14Z | CVE-2021-40444 | This repo contain builders of cab file, html file, and docx file for CVE-2021-40444 exploit | https://github.com/aslitsecurity/CVE-2021-40444_builders | Microsoft MSHTML Remote Code Execution Vulnerability| 
-| 20210917T10:59:21Z | CVE-2021-40444 | CVE-2021-40444 - Custom CAB templates from MakeCAB | https://github.com/Udyz/CVE-2021-40444-CAB | Microsoft MSHTML Remote Code Execution Vulnerability| 
-| 20210917T09:29:18Z | CVE-2021-40444 | Python script to extract embedded URLs from doc files (.doc, .docx, .docm, .rtf) | https://github.com/gh0stxplt/CVE-2021-40444-URL-Extractor | Microsoft MSHTML Remote Code Execution Vulnerability| 
-| 20210917T09:27:06Z | cve-2021-38647 | A PoC exploit for CVE-2021-38647 RCE in OMI | https://github.com/Immersive-Labs-Sec/cve-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
-| 20210917T02:56:21Z | CVE-2021-40539 | CVE-2021-40539 POC | https://github.com/DarkSprings/CVE-2021-40539 | Zoho ManageEngine ADSelfService Plus version 6113 and prior is vulnerable to REST API authentication bypass with resultant remote code execution.| 
+| 20210918T07:34:24Z | CVE-2021-26084 | [CVE-2021-26084] Confluence pre-auth RCE test script | https://github.com/ludy-dev/CVE-2021-26084_PoC | In affected versions of Confluence Server and Data Center, an OGNL injection vulnerability exists that would allow an unauthenticated attacker to execute arbitrary code on a Confluence Server or Data Center instance. The affected versions are before version 6.13.23, from version 6.14.0 before 7.4.11, from version 7.5.0 before 7.11.6, and from version 7.12.0 before 7.12.5.| 
+| 20210918T03:17:20Z | CVE-2021-35042 | Reproduce CVE-2021-35042 | https://github.com/mrlihd/CVE-2021-35042 | Django 3.1.x before 3.1.13 and 3.2.x before 3.2.5 allows QuerySet.order_by SQL injection if order_by is untrusted input from a client of a web application.| 
+| 20210918T02:48:17Z | CVE-2021-30686 | PoC for exploiting CVE-2021-30686 : An out-of-bounds read was addressed with improved bounds checking. This issue is fixed in tvOS 14.6, iOS 14.6 and iPadOS 14.6, Security Update 2021-003 Catalina, macOS Big Sur 11.4, watchOS 7.5. Processing a maliciously crafted audio file may disclose restricted memory. | https://github.com/AlAIAL90/CVE-2021-30686 | An out-of-bounds read was addressed with improved bounds checking. This issue is fixed in tvOS 14.6, iOS 14.6 and iPadOS 14.6, Security Update 2021-003 Catalina, macOS Big Sur 11.4, watchOS 7.5. Processing a maliciously crafted audio file may disclose restricted memory.| 
+| 20210918T02:48:13Z | CVE-2021-30780 | PoC for exploiting CVE-2021-30780 : An out-of-bounds write issue was addressed with improved bounds checking. This issue is fixed in iOS 14.7, macOS Big Sur 11.5, watchOS 7.6, tvOS 14.7, Security Update 2021-005 Mojave, Security Update 2021-004 Catalina. A malicious application may be able to gain root privileges. | https://github.com/AlAIAL90/CVE-2021-30780 | An out-of-bounds write issue was addressed with improved bounds checking. This issue is fixed in iOS 14.7, macOS Big Sur 11.5, watchOS 7.6, tvOS 14.7, Security Update 2021-005 Mojave, Security Update 2021-004 Catalina. A malicious application may be able to gain root privileges.| 
+| 20210918T02:48:09Z | CVE-2021-30779 | PoC for exploiting CVE-2021-30779 : This issue was addressed with improved checks. This issue is fixed in iOS 14.7, macOS Big Sur 11.5, watchOS 7.6, tvOS 14.7. Processing a maliciously crafted image may lead to arbitrary code execution. | https://github.com/AlAIAL90/CVE-2021-30779 | This issue was addressed with improved checks. This issue is fixed in iOS 14.7, macOS Big Sur 11.5, watchOS 7.6, tvOS 14.7. Processing a maliciously crafted image may lead to arbitrary code execution.| 
+| 20210918T02:48:06Z | CVE-2021-30654 | PoC for exploiting CVE-2021-30654 : This issue was addressed by removing additional entitlements. This issue is fixed in GarageBand 10.4.3. A local attacker may be able to read sensitive information. | https://github.com/AlAIAL90/CVE-2021-30654 | This issue was addressed by removing additional entitlements. This issue is fixed in GarageBand 10.4.3. A local attacker may be able to read sensitive information.| 
+| 20210918T02:48:01Z | CVE-2021-30773 | PoC for exploiting CVE-2021-30773 : An issue in code signature validation was addressed with improved checks. This issue is fixed in iOS 14.7, tvOS 14.7, watchOS 7.6. A malicious application may be able to bypass code signing checks. | https://github.com/AlAIAL90/CVE-2021-30773 | An issue in code signature validation was addressed with improved checks. This issue is fixed in iOS 14.7, tvOS 14.7, watchOS 7.6. A malicious application may be able to bypass code signing checks.| 
+| 20210918T02:47:57Z | CVE-2021-30682 | PoC for exploiting CVE-2021-30682 : A logic issue was addressed with improved restrictions. This issue is fixed in tvOS 14.6, iOS 14.6 and iPadOS 14.6, Safari 14.1.1, macOS Big Sur 11.4, watchOS 7.5. A malicious application may be able to leak sensitive user information. | https://github.com/AlAIAL90/CVE-2021-30682 | A logic issue was addressed with improved restrictions. This issue is fixed in tvOS 14.6, iOS 14.6 and iPadOS 14.6, Safari 14.1.1, macOS Big Sur 11.4, watchOS 7.5. A malicious application may be able to leak sensitive user information.| 
+| 20210918T02:47:53Z | CVE-2021-30777 | PoC for exploiting CVE-2021-30777 : An injection issue was addressed with improved validation. This issue is fixed in macOS Big Sur 11.5, Security Update 2021-004 Catalina, Security Update 2021-005 Mojave. A malicious application may be able to gain root privileges. | https://github.com/AlAIAL90/CVE-2021-30777 | An injection issue was addressed with improved validation. This issue is fixed in macOS Big Sur 11.5, Security Update 2021-004 Catalina, Security Update 2021-005 Mojave. A malicious application may be able to gain root privileges.| 
+| 20210918T02:47:47Z | CVE-2021-30768 | PoC for exploiting CVE-2021-30768 : A logic issue was addressed with improved validation. This issue is fixed in iOS 14.7, macOS Big Sur 11.5, watchOS 7.6, tvOS 14.7, Security Update 2021-004 Catalina. A sandboxed process may be able to circumvent sandbox restrictions. | https://github.com/AlAIAL90/CVE-2021-30768 | A logic issue was addressed with improved validation. This issue is fixed in iOS 14.7, macOS Big Sur 11.5, watchOS 7.6, tvOS 14.7, Security Update 2021-004 Catalina. A sandboxed process may be able to circumvent sandbox restrictions.| 
 
 
 # klee on Github 推荐
@@ -76,41 +76,41 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210918T07:54:34Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 152 | 36| 
 | 20210917T02:55:13Z | Null | https://github.com/yuvalkirstain/s2e-coref | 13 | 6| 
 | 20210916T10:12:59Z | Compiler for S2Engine architecure , an CNN accelerator | https://github.com/BUAA-CI-Lab/S2EngineCompiler | 2 | 1| 
 | 20210916T10:12:52Z | Simulator for S2Engine architucture , a CNN accelerator | https://github.com/BUAA-CI-Lab/S2EngineSimulator | 3 | 1| 
-| 20210916T04:05:27Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 150 | 36| 
 | 20210906T09:41:06Z | Season 2, Episode 1 - In this episode we look at how to correctly host your HTML files, and reverse proxy the ws/ (Websocket) connections back to the Asterisk Service. It%s all done on a single local instance so we are using a self signed certificate. | https://github.com/InnovateAsterisk/S2E1 | 0 | 0| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210918T01:02:56Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 31 | 18| 
-| 20210918T00:54:49Z | DiscordExploits, Including infinite video time, Gif crasher, and way more. (Warning, some antiviruses might think this is a virus due to the Gif Crasher) | https://github.com/NetworkingUser/DiscordExploits | 1 | 0| 
-| 20210918T00:18:35Z | A post-exploitation kernel module that allows an attacker to edit files with little to no footprint. | https://github.com/mineo333/GhostFops | 0 | 0| 
-| 20210917T23:42:28Z | Computational analysis of the exploitability of %Chinese Poker% strategies  | https://github.com/ianmilleretal/cpoker | 0 | 0| 
-| 20210917T23:10:58Z | Null | https://github.com/antonio-morales/Fuzzing-Exploiting-challenges__Ekoparty2021 | 3 | 1| 
-| 20210917T22:44:24Z | I found a way to exploit the rotation minecraft applies to certain Blocks to reconstruct coordinates from them | https://github.com/DerBejijing/BlockRotationExploit | 6 | 0| 
-| 20210917T22:26:53Z | Le but de l%exercice est de savoir s%il existe des spécificités propres à chaque genre musical. Pour cela on dispose du site : https://remixpacks.ru/, où figurent pas mal d%informations exploitables. | https://github.com/damien1994/Remixpack | 0 | 0| 
-| 20210917T21:59:11Z | Drafts of exploits made for studying and consultation purposes | https://github.com/brerodrigues/exploit_drafts | 0 | 0| 
-| 20210917T21:42:45Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 8268 | 1435| 
-| 20210917T21:29:48Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 228 | 13| 
+| 20210918T11:55:47Z | Roblox Exploit Scripts for HD Admin. | https://github.com/arcryi/FamilyHell | 0 | 0| 
+| 20210918T11:55:16Z | Null | https://github.com/Pen-Test3rs/binary_exploits_tasks_public | 0 | 0| 
+| 20210918T11:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10051 | 1687| 
+| 20210918T11:32:28Z | Work in progress. | https://github.com/0x0elliot/WerkzeugDebuggerExploit | 0 | 0| 
+| 20210918T11:19:28Z | Extensible framework for analyzing publicly available information about vulnerabilities | https://github.com/leonov-av/vulristics | 37 | 5| 
+| 20210918T11:03:00Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 31 | 18| 
+| 20210918T10:42:08Z | Collection of Discord hacking tools/fun stuff/exploits that is completely developed using NodeJS. | https://github.com/I2rys/ODiscord | 4 | 3| 
+| 20210918T09:38:35Z | An extension of Lua for exploiting. | https://github.com/treee-pro/L- | 0 | 0| 
+| 20210918T08:58:26Z | Internal ROBLOX exploit using the LBI execution method | https://github.com/deaddlocust/LBI-Base | 12 | 1| 
+| 20210918T08:55:02Z | The best tool for finding one gadget RCE in libc.so.6 | https://github.com/david942j/one_gadget | 1429 | 117| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210918T00:40:32Z | Pico-BackDroid is an Android Reverse Shell Backdoor for CircuitPython on Raspberry Pi Pico. | https://github.com/V0lk3n/Pico-BackDroid | 0 | 0| 
+| 20210918T11:04:12Z | pybotnet -   A Python Library for building Botnet , Trojan or BackDoor for windows and linux with Telegram control panel  | https://github.com/onionj/pybotnet | 15 | 10| 
+| 20210918T10:28:18Z | A simple PHP web backdoor allows you to retrieve directory/file contents and upload file(s) from the local machine or remote URL. | https://github.com/aqhmal/Simple-PHP-Web-Backdoor | 0 | 0| 
+| 20210918T10:21:46Z | Null | https://github.com/Wiilldd/backdoor | 0 | 0| 
+| 20210918T10:19:30Z | Getting access of other%s cmd | https://github.com/ravi518/Reverse_backdoor | 0 | 0| 
+| 20210918T09:54:17Z | Null | https://github.com/FierzaEriez/Mini-Shell-Backdoor | 1 | 2| 
+| 20210918T09:53:16Z | This is a Backdoor, Created with Python. | https://github.com/JohnTR13/Backdoor | 0 | 0| 
+| 20210918T07:03:09Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 34 | 10| 
+| 20210918T05:13:52Z | Null | https://github.com/botbotbotthaiFAR/backdoorbyfar | 1 | 0| 
+| 20210918T03:34:55Z | Pico-BackDroid is an Android Reverse Shell Backdoor for CircuitPython on Raspberry Pi Pico. | https://github.com/V0lk3n/Pico-BackDroid | 0 | 0| 
 | 20210917T21:49:48Z | PyIris is a modular remote access trojan toolkit written completely in python targeting Windows and Linux systems. | https://github.com/angus-y/PyIris-backdoor | 192 | 54| 
-| 20210917T20:18:02Z | Null | https://github.com/ouldevloper/backdoor_cpp | 0 | 0| 
-| 20210917T19:40:07Z | Null | https://github.com/DanilMinni/backdoor_691 | 0 | 0| 
-| 20210917T19:20:38Z | This program will help you to detect errors in a keyboard and it also used as backdoor program. | https://github.com/cyrobotcoder/keylogger | 0 | 0| 
-| 20210917T17:12:57Z | Herramienta de ingeniería social (Creador de puerta trasera con Reverse Shell para Windows/Android) con Ngrok. | https://github.com/m4lal0/backdoorPhish | 0 | 0| 
-| 20210917T16:22:31Z | Poweshell backdoor metasploit  | https://github.com/crypt0n-root/powershell-backdoor | 0 | 0| 
-| 20210917T15:01:25Z | BackDoor to control php WebSites, hiphp is controlle by sending commands, files and codes to the site using http/https protocol. After copying the code and placing it in any php file on the target website, you will have permissions to enter it, read all files, delete and even upload new files to it. Also, this backdoor is password protected. | https://github.com/yasserbdj96/hiphp | 1 | 0| 
-| 20210917T14:19:13Z | pybotnet -   A Python Library for building Botnet , Trojan or BackDoor for windows and linux with Telegram control panel  | https://github.com/onionj/pybotnet | 14 | 9| 
-| 20210917T13:47:52Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 33 | 10| 
 
 
 # symbolic execution on Github 推荐
@@ -140,16 +140,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210918T01:52:27Z | Null | https://github.com/Mamni-LO/fuzzy-rotary-phone | 0 | 0| 
-| 20210918T01:22:50Z | The Official Fuzzy Britches Repository. | https://github.com/ThePapaw/fuzzybritches | 0 | 0| 
-| 20210918T00:13:51Z | Code for fuzzy monkeys. | https://github.com/fuzzyatelin/fuzzyatelin.github.io | 3 | 11| 
-| 20210918T00:13:11Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210918T00:09:19Z | Null | https://github.com/BrunoMonteiroGomes/vant-pid-fuzzy | 0 | 0| 
-| 20210918T00:08:53Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 24 | 10| 
-| 20210917T23:38:15Z | Null | https://github.com/BrunoMonteiroGomes/vant-pid_fuzzy | 0 | 0| 
-| 20210917T23:31:13Z | Attempts to find security vulnerabilities in NetHack via input Fuzzing | https://github.com/recursion-ninja/Superion-YAML | 1 | 3| 
-| 20210917T23:14:24Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6660 | 1362| 
-| 20210917T23:10:58Z | Null | https://github.com/antonio-morales/Fuzzing-Exploiting-challenges__Ekoparty2021 | 3 | 1| 
+| 20210918T11:52:34Z | Null | https://github.com/yrameshra0/fuzzy-doner | 0 | 0| 
+| 20210918T11:15:23Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6661 | 1362| 
+| 20210918T11:14:22Z | Null | https://github.com/ys-zhang/fuzz-ml | 0 | 0| 
+| 20210918T11:01:17Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20210918T09:56:10Z | A small utility for fuzzy string searching where you provide strings and phrases, and receive the best fit results. | https://github.com/Chase-William/fuzzy-phrase-classifier | 0 | 0| 
+| 20210918T09:37:30Z | rstr is a helper module for easily generating random strings of various types. It could be useful for fuzz testing, generating dummy data, or other applications. | https://github.com/leapfrogonline/rstr | 23 | 2| 
+| 20210918T08:58:00Z | Null | https://github.com/samuel8876170/Neuro-Fuzzy-System | 0 | 0| 
+| 20210918T08:23:42Z | Sample code for golang native fuzzer: https://go.googlesource.com/proposal/+/master/design/draft-fuzzing.md | https://github.com/s3nt3/gofuzz-sample | 0 | 0| 
+| 20210918T08:20:18Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
+| 20210918T07:21:34Z | Null | https://github.com/tadashi-aikawa/obsidian-fuzzy-search | 0 | 0| 
 
 
 
