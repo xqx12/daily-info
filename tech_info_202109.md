@@ -140,13 +140,13 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210918T00:13:11Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210918T00:09:19Z | Null | https://github.com/BrunoMonteiroGomes/vant-pid-fuzzy | 0 | 0| 
 | 20210918T00:08:53Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 24 | 10| 
 | 20210917T23:38:15Z | Null | https://github.com/BrunoMonteiroGomes/vant-pid_fuzzy | 0 | 0| 
 | 20210917T23:31:13Z | Attempts to find security vulnerabilities in NetHack via input Fuzzing | https://github.com/recursion-ninja/Superion-YAML | 1 | 3| 
 | 20210917T23:14:24Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6660 | 1362| 
 | 20210917T23:10:58Z | Null | https://github.com/antonio-morales/Fuzzing-Exploiting-challenges__Ekoparty2021 | 3 | 1| 
-| 20210917T23:02:44Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210917T22:14:27Z | Null | https://github.com/tmwatchanan/FuzzySets.jl | 0 | 0| 
 | 20210917T21:33:56Z | Fuzzy logic codes - study  | https://github.com/Brightson-George/Fuzzy-logic | 0 | 0| 
 | 20210917T21:17:49Z | fuzz Tor, OpenSSL and probably more using AFL++ | https://github.com/toralf/fuzz-utils | 0 | 0| 
