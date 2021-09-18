@@ -140,6 +140,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210918T12:20:06Z | Attempts to find security vulnerabilities in NetHack via input Fuzzing | https://github.com/recursion-ninja/Superion-YAML | 1 | 3| 
 | 20210918T12:15:14Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 24 | 10| 
 | 20210918T11:52:34Z | Null | https://github.com/yrameshra0/fuzzy-doner | 0 | 0| 
 | 20210918T11:15:23Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6661 | 1362| 
@@ -149,7 +150,6 @@
 | 20210918T09:37:30Z | rstr is a helper module for easily generating random strings of various types. It could be useful for fuzz testing, generating dummy data, or other applications. | https://github.com/leapfrogonline/rstr | 23 | 2| 
 | 20210918T08:58:00Z | Null | https://github.com/samuel8876170/Neuro-Fuzzy-System | 0 | 0| 
 | 20210918T08:23:42Z | Sample code for golang native fuzzer: https://go.googlesource.com/proposal/+/master/design/draft-fuzzing.md | https://github.com/s3nt3/gofuzz-sample | 0 | 0| 
-| 20210918T08:20:18Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 
 
 
