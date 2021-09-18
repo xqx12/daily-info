@@ -140,6 +140,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210918T00:08:02Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 24 | 10| 
 | 20210917T23:38:15Z | Null | https://github.com/BrunoMonteiroGomes/vant-pid_fuzzy | 0 | 0| 
 | 20210917T23:31:13Z | Attempts to find security vulnerabilities in NetHack via input Fuzzing | https://github.com/recursion-ninja/Superion-YAML | 1 | 3| 
 | 20210917T23:14:24Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6660 | 1362| 
@@ -149,7 +150,6 @@
 | 20210917T21:33:56Z | Fuzzy logic codes - study  | https://github.com/Brightson-George/Fuzzy-logic | 0 | 0| 
 | 20210917T21:17:49Z | fuzz Tor, OpenSSL and probably more using AFL++ | https://github.com/toralf/fuzz-utils | 0 | 0| 
 | 20210917T21:05:01Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2390 | 144| 
-| 20210917T21:03:57Z | Null | https://github.com/panch0r3d/public_fuzz_lists | 3 | 2| 
 
 
 
