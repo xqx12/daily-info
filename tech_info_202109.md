@@ -140,12 +140,12 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210918T12:50:10Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210918T12:20:06Z | Attempts to find security vulnerabilities in NetHack via input Fuzzing | https://github.com/recursion-ninja/Superion-YAML | 1 | 3| 
 | 20210918T12:15:14Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 24 | 10| 
 | 20210918T11:52:34Z | Null | https://github.com/yrameshra0/fuzzy-doner | 0 | 0| 
 | 20210918T11:15:23Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6661 | 1362| 
 | 20210918T11:14:22Z | Null | https://github.com/ys-zhang/fuzz-ml | 0 | 0| 
-| 20210918T11:01:17Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210918T09:56:10Z | A small utility for fuzzy string searching where you provide strings and phrases, and receive the best fit results. | https://github.com/Chase-William/fuzzy-phrase-classifier | 0 | 0| 
 | 20210918T09:37:30Z | rstr is a helper module for easily generating random strings of various types. It could be useful for fuzz testing, generating dummy data, or other applications. | https://github.com/leapfrogonline/rstr | 23 | 2| 
 | 20210918T08:58:00Z | Null | https://github.com/samuel8876170/Neuro-Fuzzy-System | 0 | 0| 

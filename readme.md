@@ -18,7 +18,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210918T07:34:24Z | CVE-2021-26084 | [CVE-2021-26084] Confluence pre-auth RCE test script | https://github.com/ludy-dev/CVE-2021-26084_PoC | In affected versions of Confluence Server and Data Center, an OGNL injection vulnerability exists that would allow an unauthenticated attacker to execute arbitrary code on a Confluence Server or Data Center instance. The affected versions are before version 6.13.23, from version 6.14.0 before 7.4.11, from version 7.5.0 before 7.11.6, and from version 7.12.0 before 7.12.5.| 
-| 20210918T03:17:20Z | CVE-2021-35042 | Reproduce CVE-2021-35042 | https://github.com/mrlihd/CVE-2021-35042 | | 
+| 20210918T03:17:20Z | CVE-2021-35042 | Reproduce CVE-2021-35042 | https://github.com/mrlihd/CVE-2021-35042 | Django 3.1.x before 3.1.13 and 3.2.x before 3.2.5 allows QuerySet.order_by SQL injection if order_by is untrusted input from a client of a web application.| 
 | 20210918T02:48:17Z | CVE-2021-30686 | PoC for exploiting CVE-2021-30686 : An out-of-bounds read was addressed with improved bounds checking. This issue is fixed in tvOS 14.6, iOS 14.6 and iPadOS 14.6, Security Update 2021-003 Catalina, macOS Big Sur 11.4, watchOS 7.5. Processing a maliciously crafted audio file may disclose restricted memory. | https://github.com/AlAIAL90/CVE-2021-30686 | An out-of-bounds read was addressed with improved bounds checking. This issue is fixed in tvOS 14.6, iOS 14.6 and iPadOS 14.6, Security Update 2021-003 Catalina, macOS Big Sur 11.4, watchOS 7.5. Processing a maliciously crafted audio file may disclose restricted memory.| 
 | 20210918T02:48:13Z | CVE-2021-30780 | PoC for exploiting CVE-2021-30780 : An out-of-bounds write issue was addressed with improved bounds checking. This issue is fixed in iOS 14.7, macOS Big Sur 11.5, watchOS 7.6, tvOS 14.7, Security Update 2021-005 Mojave, Security Update 2021-004 Catalina. A malicious application may be able to gain root privileges. | https://github.com/AlAIAL90/CVE-2021-30780 | An out-of-bounds write issue was addressed with improved bounds checking. This issue is fixed in iOS 14.7, macOS Big Sur 11.5, watchOS 7.6, tvOS 14.7, Security Update 2021-005 Mojave, Security Update 2021-004 Catalina. A malicious application may be able to gain root privileges.| 
 | 20210918T02:48:09Z | CVE-2021-30779 | PoC for exploiting CVE-2021-30779 : This issue was addressed with improved checks. This issue is fixed in iOS 14.7, macOS Big Sur 11.5, watchOS 7.6, tvOS 14.7. Processing a maliciously crafted image may lead to arbitrary code execution. | https://github.com/AlAIAL90/CVE-2021-30779 | This issue was addressed with improved checks. This issue is fixed in iOS 14.7, macOS Big Sur 11.5, watchOS 7.6, tvOS 14.7. Processing a maliciously crafted image may lead to arbitrary code execution.| 
@@ -85,12 +85,12 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210918T12:50:10Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210918T12:20:06Z | Attempts to find security vulnerabilities in NetHack via input Fuzzing | https://github.com/recursion-ninja/Superion-YAML | 1 | 3| 
 | 20210918T12:15:14Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 24 | 10| 
 | 20210918T11:52:34Z | Null | https://github.com/yrameshra0/fuzzy-doner | 0 | 0| 
 | 20210918T11:15:23Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6661 | 1362| 
 | 20210918T11:14:22Z | Null | https://github.com/ys-zhang/fuzz-ml | 0 | 0| 
-| 20210918T11:01:17Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210918T09:56:10Z | A small utility for fuzzy string searching where you provide strings and phrases, and receive the best fit results. | https://github.com/Chase-William/fuzzy-phrase-classifier | 0 | 0| 
 | 20210918T09:37:30Z | rstr is a helper module for easily generating random strings of various types. It could be useful for fuzz testing, generating dummy data, or other applications. | https://github.com/leapfrogonline/rstr | 23 | 2| 
 | 20210918T08:58:00Z | Null | https://github.com/samuel8876170/Neuro-Fuzzy-System | 0 | 0| 
