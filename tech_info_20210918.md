@@ -43,13 +43,13 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210918T12:45:47Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10052 | 1688| 
 | 20210918T12:41:07Z | Null | https://github.com/PitchyATree/roblox-exploit-library | 0 | 0| 
 | 20210918T12:38:38Z | Null | https://github.com/Athis-Offsec/Exploits-I-Made | 0 | 0| 
 | 20210918T12:17:48Z | Null | https://github.com/Pen-Test3rs/binary_exploits_tasks_public | 0 | 0| 
 | 20210918T12:15:05Z | An extension of Lua for exploiting. | https://github.com/treee-pro/L- | 0 | 0| 
 | 20210918T12:03:01Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 31 | 18| 
 | 20210918T11:55:47Z | Roblox Exploit Scripts for HD Admin. | https://github.com/arcryi/FamilyHell | 0 | 0| 
-| 20210918T11:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10051 | 1688| 
 | 20210918T11:32:28Z | Work in progress. | https://github.com/0x0elliot/WerkzeugDebuggerExploit | 0 | 0| 
 | 20210918T11:19:28Z | Extensible framework for analyzing publicly available information about vulnerabilities | https://github.com/leonov-av/vulristics | 37 | 5| 
 | 20210918T10:42:08Z | Collection of Discord hacking tools/fun stuff/exploits that is completely developed using NodeJS. | https://github.com/I2rys/ODiscord | 4 | 3| 
