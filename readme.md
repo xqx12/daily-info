@@ -19,7 +19,7 @@
 | 20210919T11:48:51Z | CVE-2021-22911 | Modifed ver of the original exploit to save some times on password reseting for unprivileged user | https://github.com/jayngng/CVE-2021-22911 | A improper input sanitization vulnerability exists in Rocket.Chat server 3.11, 3.12 & 3.13 that could lead to unauthenticated NoSQL injection, resulting potentially in RCE.| 
 | 20210919T08:50:20Z | CVE-2021-41074 | CSRF in Qloapps HotelCommerce 1.5.1 | https://github.com/dillonkirsch/CVE-2021-41074 | 未查询到CVE信息| 
 | 20210919T05:34:08Z | CVE-2021-30860 | Scan for evidence of CVE-2021-30860 (FORCEDENTRY) exploit | https://github.com/Levilutz/CVE-2021-30860 | An integer overflow was addressed with improved input validation. This issue is fixed in Security Update 2021-005 Catalina, iOS 14.8 and iPadOS 14.8, macOS Big Sur 11.6, watchOS 7.6.2. Processing a maliciously crafted PDF may lead to arbitrary code execution. Apple is aware of a report that this issue may have been actively exploited.| 
-| 20210919T03:47:38Z | CVE-2020-14343 | Experimenting with the CVE-2020-14343 PyYAML vulnerability | https://github.com/raul23/pyyaml-CVE-2020-14343 | A vulnerability was discovered in the PyYAML library in versions before 5.4, where it is susceptible to arbitrary code execution when it processes untrusted YAML files through the full_load method or with the FullLoader loader. Applications that use the library to process untrusted input may be vulnerable to this flaw. This flaw allows an attacker to execute arbitrary code on the system by abusing the python/object/new constructor. This flaw is due to an incomplete fix for CVE-2020-1747.| 
+| 20210919T03:47:38Z | CVE-2020-14343 | Experimenting with the CVE-2020-14343 PyYAML vulnerability | https://github.com/raul23/pyyaml-CVE-2020-14343 | | 
 
 
 # klee on Github 推荐
@@ -37,6 +37,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210919T12:02:55Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 31 | 18| 
 | 20210919T11:56:35Z | The Wise Opportunist - Learn how to exploit the system to your own interest | https://github.com/luseeds/opportunist | 1 | 0| 
 | 20210919T11:53:22Z | Template based scanning for API endpoints for further exploitation | https://github.com/utkarsh24122/get-api | 1 | 0| 
 | 20210919T11:48:51Z | Modifed ver of the original exploit to save some times on password reseting for unprivileged user | https://github.com/jayngng/CVE-2021-22911 | 0 | 0| 
@@ -46,7 +47,6 @@
 | 20210919T11:34:52Z | Null | https://github.com/Pen-Test3rs/binary_exploits_tasks_public | 0 | 0| 
 | 20210919T11:32:51Z | PS4 FW7.55 Exploit Menu with .js and .bin Payload Loader. All important payloads are included!  | https://github.com/Storm21CH/PS4-FW7.55-Exploit-Menu | 0 | 0| 
 | 20210919T11:32:33Z | Null | https://github.com/joeengo/exploiting | 0 | 0| 
-| 20210919T11:25:00Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 3929 | 542| 
 
 
 # backdoor on Github 推荐
