@@ -46,7 +46,6 @@
 | --- | --- | --- | --- | ---| 
 | 20210918T23:35:12Z | Metasploit Utilities, Post Exploit Scripts and other scripts primarily for reference | https://github.com/reg1reg1/Exploits | 1 | 1| 
 | 20210918T23:22:38Z | Scan for evidence of CVE-2021-30860 (FORCEDENTRY) exploit | https://github.com/Levilutz/CVE-2021-30860 | 0 | 0| 
-| 20210918T23:03:06Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 31 | 18| 
 | 20210918T23:00:32Z | Null | https://github.com/joeengo/exploiting | 0 | 0| 
 | 20210918T22:25:29Z | honeypot contract sourcecode for use on the BSC network | https://github.com/ProCryptoCoders/BSCHoneyPotContract | 0 | 0| 
 | 20210918T21:55:30Z | Extensible framework for analyzing publicly available information about vulnerabilities | https://github.com/leonov-av/vulristics | 38 | 5| 
@@ -54,6 +53,7 @@
 | 20210918T21:00:45Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 250 | 11| 
 | 20210918T20:38:33Z | Just a collection of writeup/exploits for ctfs that I have done. | https://github.com/kozmer/ctfs | 0 | 0| 
 | 20210918T20:35:37Z | Upload/Download/Delete file exploit - Doesn%t work anymore | https://github.com/notmike101/Source-Engine-Upload-Download-Delete-Exploit | 0 | 0| 
+| 20210918T20:35:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10053 | 1688| 
 
 
 # backdoor on Github 推荐
