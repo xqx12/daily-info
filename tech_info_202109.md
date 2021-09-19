@@ -55,7 +55,7 @@
 | 20210918T02:48:13Z | CVE-2021-30780 | PoC for exploiting CVE-2021-30780 : An out-of-bounds write issue was addressed with improved bounds checking. This issue is fixed in iOS 14.7, macOS Big Sur 11.5, watchOS 7.6, tvOS 14.7, Security Update 2021-005 Mojave, Security Update 2021-004 Catalina. A malicious application may be able to gain root privileges. | https://github.com/AlAIAL90/CVE-2021-30780 | An out-of-bounds write issue was addressed with improved bounds checking. This issue is fixed in iOS 14.7, macOS Big Sur 11.5, watchOS 7.6, tvOS 14.7, Security Update 2021-005 Mojave, Security Update 2021-004 Catalina. A malicious application may be able to gain root privileges.| 
 | 20210918T02:48:09Z | CVE-2021-30779 | PoC for exploiting CVE-2021-30779 : This issue was addressed with improved checks. This issue is fixed in iOS 14.7, macOS Big Sur 11.5, watchOS 7.6, tvOS 14.7. Processing a maliciously crafted image may lead to arbitrary code execution. | https://github.com/AlAIAL90/CVE-2021-30779 | This issue was addressed with improved checks. This issue is fixed in iOS 14.7, macOS Big Sur 11.5, watchOS 7.6, tvOS 14.7. Processing a maliciously crafted image may lead to arbitrary code execution.| 
 | 20210918T02:48:06Z | CVE-2021-30654 | PoC for exploiting CVE-2021-30654 : This issue was addressed by removing additional entitlements. This issue is fixed in GarageBand 10.4.3. A local attacker may be able to read sensitive information. | https://github.com/AlAIAL90/CVE-2021-30654 | This issue was addressed by removing additional entitlements. This issue is fixed in GarageBand 10.4.3. A local attacker may be able to read sensitive information.| 
-| 20210918T02:48:01Z | CVE-2021-30773 | PoC for exploiting CVE-2021-30773 : An issue in code signature validation was addressed with improved checks. This issue is fixed in iOS 14.7, tvOS 14.7, watchOS 7.6. A malicious application may be able to bypass code signing checks. | https://github.com/AlAIAL90/CVE-2021-30773 | | 
+| 20210918T02:48:01Z | CVE-2021-30773 | PoC for exploiting CVE-2021-30773 : An issue in code signature validation was addressed with improved checks. This issue is fixed in iOS 14.7, tvOS 14.7, watchOS 7.6. A malicious application may be able to bypass code signing checks. | https://github.com/AlAIAL90/CVE-2021-30773 | An issue in code signature validation was addressed with improved checks. This issue is fixed in iOS 14.7, tvOS 14.7, watchOS 7.6. A malicious application may be able to bypass code signing checks.| 
 
 
 # klee on Github 推荐
@@ -116,6 +116,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210918T16:35:41Z | Symbolica%s open-source symbolic execution engine. | https://github.com/SymbolicaDev/Symbolica | 28 | 1| 
 | 20210918T09:19:48Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 20 | 12| 
 | 20210918T04:27:59Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2460 | 363| 
 | 20210917T13:33:30Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 29 | 6| 
@@ -125,7 +126,6 @@
 | 20210916T21:52:26Z | A tool for generating nonlinear numerical invariants for C and Java programs.  DIG uses dynamic analysis to infer invariants over program execution traces and applies symbolic execution to inferred invariants. | https://github.com/unsat/dig | 8 | 4| 
 | 20210916T14:00:23Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1777 | 506| 
 | 20210916T12:52:05Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 469 | 73| 
-| 20210916T08:58:02Z | Compiled Sail ISA snapshots for the Isla symbolic execution tool | https://github.com/rems-project/isla-snapshots | 1 | 0| 
 
 
 # big4 on Github 推荐
