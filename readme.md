@@ -78,6 +78,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210919T12:11:04Z | Null | https://github.com/vokenboy/fuzzy-waffle | 0 | 0| 
+| 20210919T12:09:24Z | Config files for my GitHub profile. | https://github.com/Fuzzyophai/Fuzzyophai | 0 | 0| 
 | 20210919T12:02:08Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 24 | 10| 
 | 20210919T11:52:09Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1301 | 233| 
 | 20210919T11:41:46Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6665 | 1363| 
@@ -86,8 +88,6 @@
 | 20210919T10:43:48Z | A fuzzer which allows to find bugs in Goost | https://github.com/goostengine/goost-fuzzer | 0 | 0| 
 | 20210919T10:32:56Z | Null | https://github.com/tadashi-aikawa/obsidian-fuzzy-search | 0 | 0| 
 | 20210919T10:21:10Z | fuzzing corpus and instrumentation for tree-sitter-hcl | https://github.com/MichaHoffmann/tree-sitter-hcl-fuzz | 0 | 0| 
-| 20210919T10:19:33Z | just a personal site~ | https://github.com/davelowqx/fuzzyfilms | 0 | 0| 
-| 20210919T10:17:27Z | Fuzzy Clustering Project for %Principles of Computational Intelligence% University Course | https://github.com/shsooratgar/Fuzzy-C-Means-Clustering | 0 | 0| 
 
 
 
