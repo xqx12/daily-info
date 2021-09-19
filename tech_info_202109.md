@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210918T23:22:38Z | CVE-2021-30860 | Scan for evidence of CVE-2021-30860 (FORCEDENTRY) exploit | https://github.com/Levilutz/CVE-2021-30860 | An integer overflow was addressed with improved input validation. This issue is fixed in Security Update 2021-005 Catalina, iOS 14.8 and iPadOS 14.8, macOS Big Sur 11.6, watchOS 7.6.2. Processing a maliciously crafted PDF may lead to arbitrary code execution. Apple is aware of a report that this issue may have been actively exploited.| 
-| 20210918T18:18:10Z | CVE-2021-30689 | PoC for exploiting CVE-2021-30689 : A logic issue was addressed with improved state management. This issue is fixed in tvOS 14.6, iOS 14.6 and iPadOS 14.6, Safari 14.1.1, macOS Big Sur 11.4, watchOS 7.5. Processing maliciously crafted web content may lead to universal cross site scripting. | https://github.com/AlAIAL90/CVE-2021-30689 | A logic issue was addressed with improved state management. This issue is fixed in tvOS 14.6, iOS 14.6 and iPadOS 14.6, Safari 14.1.1, macOS Big Sur 11.4, watchOS 7.5. Processing maliciously crafted web content may lead to universal cross site scripting.| 
+| 20210919T01:01:22Z | CVE-2021-30860 | Scan for evidence of CVE-2021-30860 (FORCEDENTRY) exploit | https://github.com/Levilutz/CVE-2021-30860 | An integer overflow was addressed with improved input validation. This issue is fixed in Security Update 2021-005 Catalina, iOS 14.8 and iPadOS 14.8, macOS Big Sur 11.6, watchOS 7.6.2. Processing a maliciously crafted PDF may lead to arbitrary code execution. Apple is aware of a report that this issue may have been actively exploited.| 
+| 20210918T18:18:10Z | CVE-2021-30689 | PoC for exploiting CVE-2021-30689 : A logic issue was addressed with improved state management. This issue is fixed in tvOS 14.6, iOS 14.6 and iPadOS 14.6, Safari 14.1.1, macOS Big Sur 11.4, watchOS 7.5. Processing maliciously crafted web content may lead to universal cross site scripting. | https://github.com/AlAIAL90/CVE-2021-30689 | | 
 | 20210918T18:17:10Z | CVE-2021-30682 | PoC for exploiting CVE-2021-30682 : A logic issue was addressed with improved restrictions. This issue is fixed in tvOS 14.6, iOS 14.6 and iPadOS 14.6, Safari 14.1.1, macOS Big Sur 11.4, watchOS 7.5. A malicious application may be able to leak sensitive user information. | https://github.com/AlAIAL90/CVE-2021-30682 | A logic issue was addressed with improved restrictions. This issue is fixed in tvOS 14.6, iOS 14.6 and iPadOS 14.6, Safari 14.1.1, macOS Big Sur 11.4, watchOS 7.5. A malicious application may be able to leak sensitive user information.| 
 | 20210918T07:34:24Z | CVE-2021-26084 | [CVE-2021-26084] Confluence pre-auth RCE test script | https://github.com/ludy-dev/CVE-2021-26084_PoC | In affected versions of Confluence Server and Data Center, an OGNL injection vulnerability exists that would allow an unauthenticated attacker to execute arbitrary code on a Confluence Server or Data Center instance. The affected versions are before version 6.13.23, from version 6.14.0 before 7.4.11, from version 7.5.0 before 7.11.6, and from version 7.12.0 before 7.12.5.| 
 | 20210918T03:17:20Z | CVE-2021-35042 | Reproduce CVE-2021-35042 | https://github.com/mrlihd/CVE-2021-35042 | Django 3.1.x before 3.1.13 and 3.2.x before 3.2.5 allows QuerySet.order_by SQL injection if order_by is untrusted input from a client of a web application.| 
@@ -86,16 +86,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210919T01:03:26Z | Noncomplex Roblox-Exploiting scripts I make on the undergoing basis can be found on this repository. | https://github.com/Memory0498/Roblox-Lua | 0 | 0| 
+| 20210919T01:03:00Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 31 | 18| 
+| 20210919T01:01:22Z | Scan for evidence of CVE-2021-30860 (FORCEDENTRY) exploit | https://github.com/Levilutz/CVE-2021-30860 | 0 | 0| 
 | 20210919T00:43:40Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10054 | 1688| 
 | 20210919T00:25:56Z | Metasploit Utilities, Post Exploit Scripts and other scripts primarily for reference | https://github.com/reg1reg1/Exploits | 1 | 1| 
-| 20210919T00:03:07Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 31 | 18| 
-| 20210918T23:22:38Z | Scan for evidence of CVE-2021-30860 (FORCEDENTRY) exploit | https://github.com/Levilutz/CVE-2021-30860 | 0 | 0| 
 | 20210918T23:00:32Z | Null | https://github.com/joeengo/exploiting | 0 | 0| 
 | 20210918T22:25:29Z | honeypot contract sourcecode for use on the BSC network | https://github.com/ProCryptoCoders/BSCHoneyPotContract | 0 | 0| 
 | 20210918T21:55:30Z | Extensible framework for analyzing publicly available information about vulnerabilities | https://github.com/leonov-av/vulristics | 38 | 5| 
 | 20210918T21:20:11Z | Exploit for HiveNightmare - CVE-2021–36934 | https://github.com/FireFart/hivenightmare | 48 | 7| 
 | 20210918T21:00:45Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 250 | 11| 
-| 20210918T20:38:33Z | Just a collection of writeup/exploits for ctfs that I have done. | https://github.com/kozmer/ctfs | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -140,6 +140,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210919T00:58:37Z | Collected fuzzing payloads from different resources  | https://github.com/osamahamad/FUZZING | 9 | 5| 
+| 20210919T00:53:24Z | Null | https://github.com/pikzykacheng/team-fuzzy | 0 | 0| 
 | 20210919T00:08:23Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 24 | 10| 
 | 20210918T22:26:43Z | just a personal site~ | https://github.com/davelowqx/fuzzyfilms | 0 | 0| 
 | 20210918T22:07:59Z | https://github.com/wcventure/FuzzingPaper | https://github.com/mishmashclone/wcventure-FuzzingPaper | 6 | 1| 
@@ -148,8 +150,6 @@
 | 20210918T21:41:14Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210918T20:33:49Z | learn/try interesting techics | https://github.com/Si3ver/fuzzy-happiness | 0 | 0| 
 | 20210918T20:33:06Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6663 | 1362| 
-| 20210918T20:08:14Z | A post sharing social network focused on simplicity | https://github.com/Altair-Bueno/fuzzy-disco | 0 | 1| 
-| 20210918T20:07:47Z | Null | https://github.com/mntzj/fuzzy-netlify | 0 | 0| 
 
 
 

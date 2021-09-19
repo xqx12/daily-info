@@ -17,8 +17,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210918T23:22:38Z | CVE-2021-30860 | Scan for evidence of CVE-2021-30860 (FORCEDENTRY) exploit | https://github.com/Levilutz/CVE-2021-30860 | An integer overflow was addressed with improved input validation. This issue is fixed in Security Update 2021-005 Catalina, iOS 14.8 and iPadOS 14.8, macOS Big Sur 11.6, watchOS 7.6.2. Processing a maliciously crafted PDF may lead to arbitrary code execution. Apple is aware of a report that this issue may have been actively exploited.| 
-| 20210918T18:18:10Z | CVE-2021-30689 | PoC for exploiting CVE-2021-30689 : A logic issue was addressed with improved state management. This issue is fixed in tvOS 14.6, iOS 14.6 and iPadOS 14.6, Safari 14.1.1, macOS Big Sur 11.4, watchOS 7.5. Processing maliciously crafted web content may lead to universal cross site scripting. | https://github.com/AlAIAL90/CVE-2021-30689 | A logic issue was addressed with improved state management. This issue is fixed in tvOS 14.6, iOS 14.6 and iPadOS 14.6, Safari 14.1.1, macOS Big Sur 11.4, watchOS 7.5. Processing maliciously crafted web content may lead to universal cross site scripting.| 
+| 20210918T18:18:10Z | CVE-2021-30689 | PoC for exploiting CVE-2021-30689 : A logic issue was addressed with improved state management. This issue is fixed in tvOS 14.6, iOS 14.6 and iPadOS 14.6, Safari 14.1.1, macOS Big Sur 11.4, watchOS 7.5. Processing maliciously crafted web content may lead to universal cross site scripting. | https://github.com/AlAIAL90/CVE-2021-30689 | | 
 | 20210918T18:17:10Z | CVE-2021-30682 | PoC for exploiting CVE-2021-30682 : A logic issue was addressed with improved restrictions. This issue is fixed in tvOS 14.6, iOS 14.6 and iPadOS 14.6, Safari 14.1.1, macOS Big Sur 11.4, watchOS 7.5. A malicious application may be able to leak sensitive user information. | https://github.com/AlAIAL90/CVE-2021-30682 | A logic issue was addressed with improved restrictions. This issue is fixed in tvOS 14.6, iOS 14.6 and iPadOS 14.6, Safari 14.1.1, macOS Big Sur 11.4, watchOS 7.5. A malicious application may be able to leak sensitive user information.| 
 | 20210918T07:34:24Z | CVE-2021-26084 | [CVE-2021-26084] Confluence pre-auth RCE test script | https://github.com/ludy-dev/CVE-2021-26084_PoC | In affected versions of Confluence Server and Data Center, an OGNL injection vulnerability exists that would allow an unauthenticated attacker to execute arbitrary code on a Confluence Server or Data Center instance. The affected versions are before version 6.13.23, from version 6.14.0 before 7.4.11, from version 7.5.0 before 7.11.6, and from version 7.12.0 before 7.12.5.| 
 | 20210918T03:17:20Z | CVE-2021-35042 | Reproduce CVE-2021-35042 | https://github.com/mrlihd/CVE-2021-35042 | Django 3.1.x before 3.1.13 and 3.2.x before 3.2.5 allows QuerySet.order_by SQL injection if order_by is untrusted input from a client of a web application.| 
@@ -27,6 +26,7 @@
 | 20210918T02:48:09Z | CVE-2021-30779 | PoC for exploiting CVE-2021-30779 : This issue was addressed with improved checks. This issue is fixed in iOS 14.7, macOS Big Sur 11.5, watchOS 7.6, tvOS 14.7. Processing a maliciously crafted image may lead to arbitrary code execution. | https://github.com/AlAIAL90/CVE-2021-30779 | This issue was addressed with improved checks. This issue is fixed in iOS 14.7, macOS Big Sur 11.5, watchOS 7.6, tvOS 14.7. Processing a maliciously crafted image may lead to arbitrary code execution.| 
 | 20210918T02:48:06Z | CVE-2021-30654 | PoC for exploiting CVE-2021-30654 : This issue was addressed by removing additional entitlements. This issue is fixed in GarageBand 10.4.3. A local attacker may be able to read sensitive information. | https://github.com/AlAIAL90/CVE-2021-30654 | This issue was addressed by removing additional entitlements. This issue is fixed in GarageBand 10.4.3. A local attacker may be able to read sensitive information.| 
 | 20210918T02:48:01Z | CVE-2021-30773 | PoC for exploiting CVE-2021-30773 : An issue in code signature validation was addressed with improved checks. This issue is fixed in iOS 14.7, tvOS 14.7, watchOS 7.6. A malicious application may be able to bypass code signing checks. | https://github.com/AlAIAL90/CVE-2021-30773 | An issue in code signature validation was addressed with improved checks. This issue is fixed in iOS 14.7, tvOS 14.7, watchOS 7.6. A malicious application may be able to bypass code signing checks.| 
+| 20210918T02:47:53Z | CVE-2021-30777 | PoC for exploiting CVE-2021-30777 : An injection issue was addressed with improved validation. This issue is fixed in macOS Big Sur 11.5, Security Update 2021-004 Catalina, Security Update 2021-005 Mojave. A malicious application may be able to gain root privileges. | https://github.com/AlAIAL90/CVE-2021-30777 | An injection issue was addressed with improved validation. This issue is fixed in macOS Big Sur 11.5, Security Update 2021-004 Catalina, Security Update 2021-005 Mojave. A malicious application may be able to gain root privileges.| 
 
 
 # klee on Github 推荐
@@ -44,7 +44,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210918T23:22:38Z | Scan for evidence of CVE-2021-30860 (FORCEDENTRY) exploit | https://github.com/Levilutz/CVE-2021-30860 | 0 | 0| 
 | 20210918T23:00:32Z | Null | https://github.com/joeengo/exploiting | 0 | 0| 
 | 20210918T22:25:29Z | honeypot contract sourcecode for use on the BSC network | https://github.com/ProCryptoCoders/BSCHoneyPotContract | 0 | 0| 
 | 20210918T21:55:30Z | Extensible framework for analyzing publicly available information about vulnerabilities | https://github.com/leonov-av/vulristics | 38 | 5| 
@@ -54,6 +53,7 @@
 | 20210918T20:35:37Z | Upload/Download/Delete file exploit - Doesn%t work anymore | https://github.com/notmike101/Source-Engine-Upload-Download-Delete-Exploit | 0 | 0| 
 | 20210918T20:27:15Z | Archived version of LSS Disconnect Exploit Menu by MikE | https://github.com/notmike101/LSS-Disconnect-Exploit-Menu | 0 | 0| 
 | 20210918T20:14:23Z | CPU Functionality Content For Binary Exploitation | https://github.com/Offensive-Cyber/Binary-Exploitation | 3 | 0| 
+| 20210918T19:52:00Z | Null | https://github.com/Pen-Test3rs/binary_exploits_tasks_public | 0 | 0| 
 
 
 # backdoor on Github 推荐
