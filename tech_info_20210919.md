@@ -16,7 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210919T11:48:51Z | CVE-2021-22911 | Modifed ver of the original exploit to save some times on password reseting for unprivileged user | https://github.com/jayngng/CVE-2021-22911 | | 
+| 20210919T11:48:51Z | CVE-2021-22911 | Modifed ver of the original exploit to save some times on password reseting for unprivileged user | https://github.com/jayngng/CVE-2021-22911 | A improper input sanitization vulnerability exists in Rocket.Chat server 3.11, 3.12 & 3.13 that could lead to unauthenticated NoSQL injection, resulting potentially in RCE.| 
 | 20210919T08:50:20Z | CVE-2021-41074 | CSRF in Qloapps HotelCommerce 1.5.1 | https://github.com/dillonkirsch/CVE-2021-41074 | 未查询到CVE信息| 
 | 20210919T05:34:08Z | CVE-2021-30860 | Scan for evidence of CVE-2021-30860 (FORCEDENTRY) exploit | https://github.com/Levilutz/CVE-2021-30860 | An integer overflow was addressed with improved input validation. This issue is fixed in Security Update 2021-005 Catalina, iOS 14.8 and iPadOS 14.8, macOS Big Sur 11.6, watchOS 7.6.2. Processing a maliciously crafted PDF may lead to arbitrary code execution. Apple is aware of a report that this issue may have been actively exploited.| 
 | 20210919T03:47:38Z | CVE-2020-14343 | Experimenting with the CVE-2020-14343 PyYAML vulnerability | https://github.com/raul23/pyyaml-CVE-2020-14343 | A vulnerability was discovered in the PyYAML library in versions before 5.4, where it is susceptible to arbitrary code execution when it processes untrusted YAML files through the full_load method or with the FullLoader loader. Applications that use the library to process untrusted input may be vulnerable to this flaw. This flaw allows an attacker to execute arbitrary code on the system by abusing the python/object/new constructor. This flaw is due to an incomplete fix for CVE-2020-1747.| 
@@ -37,16 +37,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210919T12:54:17Z | An extension of Lua for exploiting. | https://github.com/treee-pro/L- | 0 | 0| 
+| 20210919T12:37:22Z | Wii archive containing WADs including official, unofficial and system IOS/menu, Exploits, Homebrew Apps, DevKit, and more. | https://github.com/ForwarderFactory/wii | 2 | 0| 
+| 20210919T12:37:10Z | Null | https://github.com/IdanBanani/Binary-exploitation-Pwn | 0 | 1| 
+| 20210919T12:20:48Z | The Wise Opportunist - Learn how to exploit the system to your own interest | https://github.com/luseeds/opportunist | 1 | 0| 
+| 20210919T12:20:43Z | A list of fun things to do with DarkRP addons | https://github.com/OverlordAkise/darkrp-exploits | 0 | 0| 
 | 20210919T12:02:55Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 31 | 18| 
-| 20210919T11:56:35Z | The Wise Opportunist - Learn how to exploit the system to your own interest | https://github.com/luseeds/opportunist | 1 | 0| 
 | 20210919T11:53:22Z | Template based scanning for API endpoints for further exploitation | https://github.com/utkarsh24122/get-api | 1 | 0| 
 | 20210919T11:48:51Z | Modifed ver of the original exploit to save some times on password reseting for unprivileged user | https://github.com/jayngng/CVE-2021-22911 | 0 | 0| 
 | 20210919T11:41:38Z | A script that monitors and extracts requested URLs and clients connected to the service by exploiting publicly accessible Apache server-status instances. | https://github.com/mazen160/server-status_PWN | 301 | 75| 
-| 20210919T11:39:20Z | An extension of Lua for exploiting. | https://github.com/treee-pro/L- | 0 | 0| 
 | 20210919T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10058 | 1689| 
-| 20210919T11:34:52Z | Null | https://github.com/Pen-Test3rs/binary_exploits_tasks_public | 0 | 0| 
-| 20210919T11:32:51Z | PS4 FW7.55 Exploit Menu with .js and .bin Payload Loader. All important payloads are included!  | https://github.com/Storm21CH/PS4-FW7.55-Exploit-Menu | 0 | 0| 
-| 20210919T11:32:33Z | Null | https://github.com/joeengo/exploiting | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -78,16 +78,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210919T12:59:15Z | Null | https://github.com/sunzu94/sandsifter---X84-fuzzer | 0 | 0| 
+| 20210919T12:47:08Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 971 | 167| 
+| 20210919T12:42:52Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1302 | 234| 
+| 20210919T12:31:20Z | SSH Fuzzer | https://github.com/fasync/SSHFuzz | 0 | 0| 
 | 20210919T12:11:04Z | Null | https://github.com/vokenboy/fuzzy-waffle | 0 | 0| 
 | 20210919T12:09:24Z | Config files for my GitHub profile. | https://github.com/Fuzzyophai/Fuzzyophai | 0 | 0| 
 | 20210919T12:02:08Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 24 | 10| 
-| 20210919T11:52:09Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1301 | 233| 
 | 20210919T11:41:46Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6665 | 1363| 
 | 20210919T11:19:16Z | Null | https://github.com/Lingreen33/fuzzy-rotary-phone | 0 | 0| 
 | 20210919T11:08:02Z | Config files for my GitHub profile. | https://github.com/FuzZePL/FuzZePL | 0 | 0| 
-| 20210919T10:43:48Z | A fuzzer which allows to find bugs in Goost | https://github.com/goostengine/goost-fuzzer | 0 | 0| 
-| 20210919T10:32:56Z | Null | https://github.com/tadashi-aikawa/obsidian-fuzzy-search | 0 | 0| 
-| 20210919T10:21:10Z | fuzzing corpus and instrumentation for tree-sitter-hcl | https://github.com/MichaHoffmann/tree-sitter-hcl-fuzz | 0 | 0| 
 
 
 
