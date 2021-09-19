@@ -116,16 +116,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210919T11:24:30Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 470 | 73| 
+| 20210919T10:59:15Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1887 | 394| 
+| 20210919T08:30:46Z | RAUK: Automatic Schedulability Analysis of RTIC Applications Using Symbolic Execution | https://github.com/markhakansson/master-thesis | 5 | 0| 
+| 20210919T07:33:13Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 659 | 66| 
 | 20210918T16:35:41Z | Symbolica%s open-source symbolic execution engine. | https://github.com/SymbolicaDev/Symbolica | 28 | 1| 
 | 20210918T09:19:48Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 20 | 12| 
 | 20210918T04:27:59Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2460 | 363| 
 | 20210917T13:33:30Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 29 | 6| 
-| 20210917T12:24:23Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1888 | 394| 
-| 20210917T11:02:54Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 658 | 66| 
 | 20210917T09:10:28Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 157 | 34| 
 | 20210916T21:52:26Z | A tool for generating nonlinear numerical invariants for C and Java programs.  DIG uses dynamic analysis to infer invariants over program execution traces and applies symbolic execution to inferred invariants. | https://github.com/unsat/dig | 8 | 4| 
-| 20210916T14:00:23Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1777 | 506| 
-| 20210916T12:52:05Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 469 | 73| 
 
 
 # big4 on Github 推荐
@@ -140,6 +140,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210919T12:02:08Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 24 | 10| 
 | 20210919T11:52:09Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1301 | 233| 
 | 20210919T11:41:46Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6665 | 1363| 
 | 20210919T11:19:16Z | Null | https://github.com/Lingreen33/fuzzy-rotary-phone | 0 | 0| 
@@ -149,7 +150,6 @@
 | 20210919T10:21:10Z | fuzzing corpus and instrumentation for tree-sitter-hcl | https://github.com/MichaHoffmann/tree-sitter-hcl-fuzz | 0 | 0| 
 | 20210919T10:19:33Z | just a personal site~ | https://github.com/davelowqx/fuzzyfilms | 0 | 0| 
 | 20210919T10:17:27Z | Fuzzy Clustering Project for %Principles of Computational Intelligence% University Course | https://github.com/shsooratgar/Fuzzy-C-Means-Clustering | 0 | 0| 
-| 20210919T09:50:36Z | learn/try interesting techics | https://github.com/Si3ver/fuzzy-happiness | 0 | 0| 
 
 
 
