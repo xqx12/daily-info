@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210920T00:19:47Z | CVE-2021-40444 | Modified code so that we don´t need to rely on CAB archives | https://github.com/Edubr2020/CVE-2021-40444--CABless | | 
+| 20210920T00:19:47Z | CVE-2021-40444 | Modified code so that we don´t need to rely on CAB archives | https://github.com/Edubr2020/CVE-2021-40444--CABless | Microsoft MSHTML Remote Code Execution Vulnerability| 
 | 20210919T19:03:45Z | CVE-2021-38647 | OMIGod / CVE-2021-38647 POC and Demo environment | https://github.com/SimenBai/CVE-2021-38647-POC-and-Demo-environment | Open Management Infrastructure Remote Code Execution Vulnerability| 
 | 20210919T11:48:51Z | CVE-2021-22911 | Modifed ver of the original exploit to save some times on password reseting for unprivileged user | https://github.com/jayngng/CVE-2021-22911 | A improper input sanitization vulnerability exists in Rocket.Chat server 3.11, 3.12 & 3.13 that could lead to unauthenticated NoSQL injection, resulting potentially in RCE.| 
 | 20210919T08:50:20Z | CVE-2021-41074 | CSRF in Qloapps HotelCommerce 1.5.1 | https://github.com/dillonkirsch/CVE-2021-41074 | 未查询到CVE信息| 
@@ -55,7 +55,7 @@
 | 20210918T18:18:10Z | CVE-2021-30689 | PoC for exploiting CVE-2021-30689 : A logic issue was addressed with improved state management. This issue is fixed in tvOS 14.6, iOS 14.6 and iPadOS 14.6, Safari 14.1.1, macOS Big Sur 11.4, watchOS 7.5. Processing maliciously crafted web content may lead to universal cross site scripting. | https://github.com/AlAIAL90/CVE-2021-30689 | | 
 | 20210918T18:17:10Z | CVE-2021-30682 | PoC for exploiting CVE-2021-30682 : A logic issue was addressed with improved restrictions. This issue is fixed in tvOS 14.6, iOS 14.6 and iPadOS 14.6, Safari 14.1.1, macOS Big Sur 11.4, watchOS 7.5. A malicious application may be able to leak sensitive user information. | https://github.com/AlAIAL90/CVE-2021-30682 | A logic issue was addressed with improved restrictions. This issue is fixed in tvOS 14.6, iOS 14.6 and iPadOS 14.6, Safari 14.1.1, macOS Big Sur 11.4, watchOS 7.5. A malicious application may be able to leak sensitive user information.| 
 | 20210918T07:34:24Z | CVE-2021-26084 | [CVE-2021-26084] Confluence pre-auth RCE test script | https://github.com/ludy-dev/CVE-2021-26084_PoC | In affected versions of Confluence Server and Data Center, an OGNL injection vulnerability exists that would allow an unauthenticated attacker to execute arbitrary code on a Confluence Server or Data Center instance. The affected versions are before version 6.13.23, from version 6.14.0 before 7.4.11, from version 7.5.0 before 7.11.6, and from version 7.12.0 before 7.12.5.| 
-| 20210918T03:17:20Z | CVE-2021-35042 | Reproduce CVE-2021-35042 | https://github.com/mrlihd/CVE-2021-35042 | Django 3.1.x before 3.1.13 and 3.2.x before 3.2.5 allows QuerySet.order_by SQL injection if order_by is untrusted input from a client of a web application.| 
+| 20210918T03:17:20Z | CVE-2021-35042 | Reproduce CVE-2021-35042 | https://github.com/mrlihd/CVE-2021-35042 | | 
 
 
 # klee on Github 推荐
@@ -86,8 +86,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210920T01:38:51Z | Various techniques for exploiting Windows | https://github.com/billchaison/Windows-Trix | 6 | 0| 
 | 20210920T01:33:49Z | Vulmap 是一款 web 漏洞扫描和验证工具, 可对 webapps 进行漏洞扫描, 并且具备漏洞验证功能 | https://github.com/zhzyker/vulmap | 1709 | 328| 
-| 20210920T01:30:21Z | Various techniques for exploiting Windows | https://github.com/billchaison/Windows-Trix | 6 | 0| 
 | 20210920T01:26:52Z | Windows post-exploitation tools, resources, techniques and commands to use during post-exploitation phase of penetration test.  Contributions are appreciated.  Enjoy! | https://github.com/emilyanncr/Windows-Post-Exploitation | 324 | 95| 
 | 20210920T01:25:28Z | Qmi, a Discord exploit toolset. | https://github.com/7ua/Qmi | 0 | 0| 
 | 20210920T01:03:20Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 31 | 18| 
