@@ -78,6 +78,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210920T12:56:40Z | Academic papers and articles that I read related to web hacking, fuzzing, etc. / 阅读过的Web安全方向、模糊测试方向的一些论文与阅读笔记 | https://github.com/LyleMi/papers | 222 | 16| 
 | 20210920T12:06:34Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210920T12:05:37Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3689 | 873| 
 | 20210920T12:04:37Z | A post sharing social network focused on simplicity | https://github.com/Altair-Bueno/fuzzy-disco | 0 | 1| 
@@ -87,7 +88,6 @@
 | 20210920T08:40:08Z | Null | https://github.com/ottotech/go-fuzzing-test | 0 | 0| 
 | 20210920T08:26:44Z | learn/try interesting techics | https://github.com/Si3ver/fuzzy-happiness | 0 | 0| 
 | 20210920T08:08:29Z | Null | https://github.com/YaroslavEvdokimov/Fuzzer-convertor | 0 | 0| 
-| 20210920T08:03:10Z | Null | https://github.com/tmwatchanan/FuzzySets.jl | 0 | 0| 
 
 
 
