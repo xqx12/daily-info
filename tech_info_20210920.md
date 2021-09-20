@@ -39,12 +39,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210920T12:02:59Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 31 | 18| 
 | 20210920T12:01:08Z | List of discord exploits listed by https://github.com/ecriminal in node js | https://github.com/Himatric/Discord-Exploits-Node | 0 | 0| 
 | 20210920T12:00:34Z | Small scripts for exploiting dummy application vulnerable to XXE | https://github.com/magnus-longva-bouvet/xxe-demo-script | 0 | 0| 
 | 20210920T11:59:40Z | Roblox exploit under development | https://github.com/Unknown3958/UnknownExploit | 0 | 0| 
 | 20210920T11:49:31Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10065 | 1690| 
 | 20210920T11:38:03Z | Collection of Discord hacking tools/fun stuff/exploits that is completely developed using NodeJS. | https://github.com/I2rys/ODiscord | 4 | 4| 
-| 20210920T11:02:56Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 31 | 18| 
 | 20210920T10:50:32Z | A collection of more than 140+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 769 | 178| 
 | 20210920T10:48:14Z | Null | https://github.com/Athis-Offsec/Exploits-I-Made | 0 | 0| 
 | 20210920T10:23:11Z | This repository contains codes of ICCV2021 paper: SO-Pose: Exploiting Self-Occlusion for Direct 6D Pose Estimation | https://github.com/shangbuhuan13/SO-Pose | 12 | 4| 
