@@ -52,9 +52,9 @@
 | 20210920T07:58:32Z | CVE-2021-22911 | Pre-Auth Blind NoSQL Injection leading to Remote Code Execution in Rocket Chat 3.12.1 | https://github.com/CsEnox/CVE-2021-22911 | A improper input sanitization vulnerability exists in Rocket.Chat server 3.11, 3.12 & 3.13 that could lead to unauthenticated NoSQL injection, resulting potentially in RCE.| 
 | 20210920T05:20:20Z | CVE-2021-38647 | OMIGod / CVE-2021-38647 POC and Demo environment | https://github.com/SimenBai/CVE-2021-38647-POC-and-Demo-environment | Open Management Infrastructure Remote Code Execution Vulnerability| 
 | 20210919T11:48:51Z | CVE-2021-22911 | Modifed ver of the original exploit to save some times on password reseting for unprivileged user | https://github.com/jayngng/CVE-2021-22911 | A improper input sanitization vulnerability exists in Rocket.Chat server 3.11, 3.12 & 3.13 that could lead to unauthenticated NoSQL injection, resulting potentially in RCE.| 
-| 20210919T08:50:20Z | CVE-2021-41074 | CSRF in Qloapps HotelCommerce 1.5.1 | https://github.com/dillonkirsch/CVE-2021-41074 | | 
+| 20210919T08:50:20Z | CVE-2021-41074 | CSRF in Qloapps HotelCommerce 1.5.1 | https://github.com/dillonkirsch/CVE-2021-41074 | 未查询到CVE信息| 
 | 20210919T05:34:08Z | CVE-2021-30860 | Scan for evidence of CVE-2021-30860 (FORCEDENTRY) exploit | https://github.com/Levilutz/CVE-2021-30860 | An integer overflow was addressed with improved input validation. This issue is fixed in Security Update 2021-005 Catalina, iOS 14.8 and iPadOS 14.8, macOS Big Sur 11.6, watchOS 7.6.2. Processing a maliciously crafted PDF may lead to arbitrary code execution. Apple is aware of a report that this issue may have been actively exploited.| 
-| 20210919T03:47:38Z | CVE-2020-14343 | Experimenting with the CVE-2020-14343 PyYAML vulnerability | https://github.com/raul23/pyyaml-CVE-2020-14343 | | 
+| 20210919T03:47:38Z | CVE-2020-14343 | Experimenting with the CVE-2020-14343 PyYAML vulnerability | https://github.com/raul23/pyyaml-CVE-2020-14343 | A vulnerability was discovered in the PyYAML library in versions before 5.4, where it is susceptible to arbitrary code execution when it processes untrusted YAML files through the full_load method or with the FullLoader loader. Applications that use the library to process untrusted input may be vulnerable to this flaw. This flaw allows an attacker to execute arbitrary code on the system by abusing the python/object/new constructor. This flaw is due to an incomplete fix for CVE-2020-1747.| 
 | 20210918T18:18:10Z | CVE-2021-30689 | PoC for exploiting CVE-2021-30689 : A logic issue was addressed with improved state management. This issue is fixed in tvOS 14.6, iOS 14.6 and iPadOS 14.6, Safari 14.1.1, macOS Big Sur 11.4, watchOS 7.5. Processing maliciously crafted web content may lead to universal cross site scripting. | https://github.com/AlAIAL90/CVE-2021-30689 | | 
 
 
@@ -86,8 +86,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210920T12:06:34Z | List of discord exploits listed by https://github.com/ecriminal in node js | https://github.com/Himatric/Discord-Exploits-Node | 0 | 0| 
 | 20210920T12:02:59Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 31 | 18| 
-| 20210920T12:01:08Z | List of discord exploits listed by https://github.com/ecriminal in node js | https://github.com/Himatric/Discord-Exploits-Node | 0 | 0| 
 | 20210920T12:00:34Z | Small scripts for exploiting dummy application vulnerable to XXE | https://github.com/magnus-longva-bouvet/xxe-demo-script | 0 | 0| 
 | 20210920T11:59:40Z | Roblox exploit under development | https://github.com/Unknown3958/UnknownExploit | 0 | 0| 
 | 20210920T11:49:31Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10065 | 1690| 
@@ -140,7 +140,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210920T12:00:34Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
+| 20210920T12:06:34Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
+| 20210920T12:05:37Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3689 | 873| 
+| 20210920T12:04:37Z | A post sharing social network focused on simplicity | https://github.com/Altair-Bueno/fuzzy-disco | 0 | 1| 
 | 20210920T09:36:52Z | my first repository | https://github.com/zixuan0304/fuzzy-adventure | 1 | 0| 
 | 20210920T09:31:32Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6667 | 1365| 
 | 20210920T09:00:27Z | Library and command line utility to do approximate string matching of a source against a bitext index and get matched source and target.  | https://github.com/SYSTRAN/fuzzy-match | 23 | 4| 
@@ -148,8 +150,6 @@
 | 20210920T08:26:44Z | learn/try interesting techics | https://github.com/Si3ver/fuzzy-happiness | 0 | 0| 
 | 20210920T08:08:29Z | Null | https://github.com/YaroslavEvdokimov/Fuzzer-convertor | 0 | 0| 
 | 20210920T08:03:10Z | Null | https://github.com/tmwatchanan/FuzzySets.jl | 0 | 0| 
-| 20210920T08:02:21Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210920T07:38:16Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3689 | 873| 
 
 
 

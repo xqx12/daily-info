@@ -39,8 +39,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210920T12:06:34Z | List of discord exploits listed by https://github.com/ecriminal in node js | https://github.com/Himatric/Discord-Exploits-Node | 0 | 0| 
 | 20210920T12:02:59Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 31 | 18| 
-| 20210920T12:01:08Z | List of discord exploits listed by https://github.com/ecriminal in node js | https://github.com/Himatric/Discord-Exploits-Node | 0 | 0| 
 | 20210920T12:00:34Z | Small scripts for exploiting dummy application vulnerable to XXE | https://github.com/magnus-longva-bouvet/xxe-demo-script | 0 | 0| 
 | 20210920T11:59:40Z | Roblox exploit under development | https://github.com/Unknown3958/UnknownExploit | 0 | 0| 
 | 20210920T11:49:31Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10065 | 1690| 
@@ -75,7 +75,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210920T12:00:34Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
+| 20210920T12:06:34Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
+| 20210920T12:05:37Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3689 | 873| 
+| 20210920T12:04:37Z | A post sharing social network focused on simplicity | https://github.com/Altair-Bueno/fuzzy-disco | 0 | 1| 
 | 20210920T09:36:52Z | my first repository | https://github.com/zixuan0304/fuzzy-adventure | 1 | 0| 
 | 20210920T09:31:32Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6667 | 1365| 
 | 20210920T09:00:27Z | Library and command line utility to do approximate string matching of a source against a bitext index and get matched source and target.  | https://github.com/SYSTRAN/fuzzy-match | 23 | 4| 
@@ -83,8 +85,6 @@
 | 20210920T08:26:44Z | learn/try interesting techics | https://github.com/Si3ver/fuzzy-happiness | 0 | 0| 
 | 20210920T08:08:29Z | Null | https://github.com/YaroslavEvdokimov/Fuzzer-convertor | 0 | 0| 
 | 20210920T08:03:10Z | Null | https://github.com/tmwatchanan/FuzzySets.jl | 0 | 0| 
-| 20210920T08:02:21Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210920T07:38:16Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3689 | 873| 
 
 
 
