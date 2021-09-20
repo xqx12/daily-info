@@ -55,7 +55,7 @@
 | 20210920T07:58:32Z | CVE-2021-22911 | Pre-Auth Blind NoSQL Injection leading to Remote Code Execution in Rocket Chat 3.12.1 | https://github.com/CsEnox/CVE-2021-22911 | A improper input sanitization vulnerability exists in Rocket.Chat server 3.11, 3.12 & 3.13 that could lead to unauthenticated NoSQL injection, resulting potentially in RCE.| 
 | 20210920T05:20:20Z | CVE-2021-38647 | OMIGod / CVE-2021-38647 POC and Demo environment | https://github.com/SimenBai/CVE-2021-38647-POC-and-Demo-environment | Open Management Infrastructure Remote Code Execution Vulnerability| 
 | 20210919T11:48:51Z | CVE-2021-22911 | Modifed ver of the original exploit to save some times on password reseting for unprivileged user | https://github.com/jayngng/CVE-2021-22911 | A improper input sanitization vulnerability exists in Rocket.Chat server 3.11, 3.12 & 3.13 that could lead to unauthenticated NoSQL injection, resulting potentially in RCE.| 
-| 20210919T08:50:20Z | CVE-2021-41074 | CSRF in Qloapps HotelCommerce 1.5.1 | https://github.com/dillonkirsch/CVE-2021-41074 | 未查询到CVE信息| 
+| 20210919T08:50:20Z | CVE-2021-41074 | CSRF in Qloapps HotelCommerce 1.5.1 | https://github.com/dillonkirsch/CVE-2021-41074 | | 
 
 
 # klee on Github 推荐
