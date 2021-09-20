@@ -46,10 +46,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210920T12:54:08Z | CVE-2021-30632 | PoC CVE-2021-30632 - Out of bounds write in V8 | https://github.com/Phuong39/PoC-CVE-2021-30632 | 未查询到CVE信息| 
 | 20210920T12:43:07Z | CVE-2021-21315 | Null | https://github.com/alikarimi999/CVE-2021-21315 | The System Information Library for Node.JS (npm package %systeminformation%) is an open source collection of functions to retrieve detailed hardware, system and OS information. In systeminformation before version 5.3.1 there is a command injection vulnerability. Problem was fixed in version 5.3.1. As a workaround instead of upgrading, be sure to check or sanitize service parameters that are passed to si.inetLatency(), si.inetChecksite(), si.services(), si.processLoad() ... do only allow strings, reject any arrays. String sanitation works as expected.| 
 | 20210920T12:10:53Z | CVE-2021-26084 | [CVE-2021-26084] Confluence pre-auth RCE test script | https://github.com/ludy-dev/CVE-2021-26084_PoC | In affected versions of Confluence Server and Data Center, an OGNL injection vulnerability exists that would allow an unauthenticated attacker to execute arbitrary code on a Confluence Server or Data Center instance. The affected versions are before version 6.13.23, from version 6.14.0 before 7.4.11, from version 7.5.0 before 7.11.6, and from version 7.12.0 before 7.12.5.| 
 | 20210920T12:10:16Z | CVE-2021-30860 | Scan for evidence of CVE-2021-30860 (FORCEDENTRY) exploit | https://github.com/Levilutz/CVE-2021-30860 | An integer overflow was addressed with improved input validation. This issue is fixed in Security Update 2021-005 Catalina, iOS 14.8 and iPadOS 14.8, macOS Big Sur 11.6, watchOS 7.6.2. Processing a maliciously crafted PDF may lead to arbitrary code execution. Apple is aware of a report that this issue may have been actively exploited.| 
-| 20210920T11:54:30Z | CVE-2021-30632 | PoC CVE-2021-30632 - Out of bounds write in V8 | https://github.com/Phuong39/PoC-CVE-2021-30632 | 未查询到CVE信息| 
 | 20210920T10:44:57Z | CVE-2021-40444 | Modified code so that we don´t need to rely on CAB archives | https://github.com/Edubr2020/CVE-2021-40444--CABless | Microsoft MSHTML Remote Code Execution Vulnerability| 
 | 20210920T09:58:19Z | CVE-2021-24499 | Mass exploitation of CVE-2021-24499 unauthenticated upload leading to remote code execution in Workreap theme. | https://github.com/RyouYoo/CVE-2021-24499 | The Workreap WordPress theme before 2.2.2 AJAX actions workreap_award_temp_file_uploader and workreap_temp_file_uploader did not perform nonce checks, or validate that the request is from a valid user in any other way. The endpoints allowed for uploading arbitrary files to the uploads/workreap-temp directory. Uploaded files were neither sanitized nor validated, allowing an unauthenticated visitor to upload executable code such as php scripts.| 
 | 20210920T07:58:32Z | CVE-2021-22911 | Pre-Auth Blind NoSQL Injection leading to Remote Code Execution in Rocket Chat 3.12.1 | https://github.com/CsEnox/CVE-2021-22911 | A improper input sanitization vulnerability exists in Rocket.Chat server 3.11, 3.12 & 3.13 that could lead to unauthenticated NoSQL injection, resulting potentially in RCE.| 
@@ -86,7 +86,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210920T12:48:12Z | Roblox exploit under development | https://github.com/Unknown3958/UnknownExploit | 0 | 0| 
+| 20210920T12:55:46Z | Trojan Rat Builder(310), Ransomware Builder(7), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 610 tools, that you can use for Hacking. | https://github.com/in-future-world/Hacking-Tools-Pack | 6 | 3| 
+| 20210920T12:55:11Z | Roblox exploit under development | https://github.com/Unknown3958/UnknownExploit | 0 | 0| 
 | 20210920T12:44:38Z | PS4 7.5X Exploit Host (Initial Jailbreak Release) | https://github.com/Night-King-Host/75XV3b1 | 0 | 0| 
 | 20210920T12:36:34Z | PS4 7.5X FW Exploit Host Full Auto Mode | https://github.com/Night-King-Host/75Xauto | 0 | 0| 
 | 20210920T12:23:27Z | Null | https://github.com/dagheyman/awesome-binary-exploitation | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20210920T12:11:08Z | Agricultural Monitoring exploiting Sentinel 1 and Sentinel 2. SandboxNL contains detailed explanations about the creation and usage of the parcel based Sentinel datasets.  | https://github.com/ManuelHuber-Github/Agricultural-SandboxNL | 0 | 0| 
 | 20210920T12:02:59Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 31 | 18| 
 | 20210920T12:00:34Z | Small scripts for exploiting dummy application vulnerable to XXE | https://github.com/magnus-longva-bouvet/xxe-demo-script | 0 | 0| 
-| 20210920T11:38:03Z | Collection of Discord hacking tools/fun stuff/exploits that is completely developed using NodeJS. | https://github.com/I2rys/ODiscord | 4 | 4| 
 
 
 # backdoor on Github 推荐
