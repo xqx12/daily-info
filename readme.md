@@ -91,9 +91,9 @@
 | 20210919T22:15:59Z | Null | https://github.com/YaroslavEvdokimov/Fuzzer | 0 | 0| 
 | 20210919T21:56:40Z | Null | https://github.com/ottotech/go-fuzzing-test | 0 | 0| 
 | 20210919T21:50:01Z | my collection of cp77mods | https://github.com/rfuzzo/cp77fuzzymods | 0 | 0| 
-| 20210919T20:33:35Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210919T20:26:48Z | rstr is a helper module for easily generating random strings of various types. It could be useful for fuzz testing, generating dummy data, or other applications. | https://github.com/leapfrogonline/rstr | 23 | 2| 
 | 20210919T20:21:40Z | fzf based client for cht.sh | https://github.com/iotku/fuzzy-sheets | 0 | 0| 
+| 20210919T19:53:44Z | A post sharing social network focused on simplicity | https://github.com/Altair-Bueno/fuzzy-disco | 0 | 1| 
 
 
 

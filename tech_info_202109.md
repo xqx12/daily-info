@@ -140,6 +140,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210920T01:35:23Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210920T01:15:53Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210920T00:31:11Z | Project to cross external data with the Salesforce database. | https://github.com/rfolmedoa/fuzzy-search | 0 | 0| 
 | 20210919T23:04:56Z | llvm opt fuzzer and bounded exhaustive test generator | https://github.com/regehr/opt-fuzz | 27 | 3| 
@@ -149,7 +150,6 @@
 | 20210919T22:15:59Z | Null | https://github.com/YaroslavEvdokimov/Fuzzer | 0 | 0| 
 | 20210919T21:56:40Z | Null | https://github.com/ottotech/go-fuzzing-test | 0 | 0| 
 | 20210919T21:50:01Z | my collection of cp77mods | https://github.com/rfuzzo/cp77fuzzymods | 0 | 0| 
-| 20210919T20:33:35Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 
 
 
