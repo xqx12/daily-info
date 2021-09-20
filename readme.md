@@ -39,7 +39,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210920T12:00:41Z | List of discord exploits listed by https://github.com/ecriminal in node js | https://github.com/Himatric/Discord-Exploits-Node | 0 | 0| 
+| 20210920T12:01:08Z | List of discord exploits listed by https://github.com/ecriminal in node js | https://github.com/Himatric/Discord-Exploits-Node | 0 | 0| 
 | 20210920T12:00:34Z | Small scripts for exploiting dummy application vulnerable to XXE | https://github.com/magnus-longva-bouvet/xxe-demo-script | 0 | 0| 
 | 20210920T11:59:40Z | Roblox exploit under development | https://github.com/Unknown3958/UnknownExploit | 0 | 0| 
 | 20210920T11:49:31Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10065 | 1690| 
@@ -63,6 +63,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210920T11:57:10Z | Virtual Prototype with symbolic execution support and HardBound path analyzer | https://github.com/agra-uni-bremen/hardbound-vp | 0 | 0| 
+| 20210920T09:55:51Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 471 | 74| 
 
 
 # big4 on Github 推荐
