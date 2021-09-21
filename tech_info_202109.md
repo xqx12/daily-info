@@ -140,6 +140,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210921T01:51:24Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210921T01:14:45Z | 研究内容 | https://github.com/RH210/fuzzy | 0 | 0| 
 | 20210921T01:14:20Z | A set of fuzzers for fuzzing various parts of the Zig standard library | https://github.com/squeek502/zig-std-lib-fuzzing | 0 | 0| 
 | 20210921T00:43:34Z | Null | https://github.com/Jason-Henson/fuzzy-fiesta | 0 | 0| 
@@ -149,7 +150,6 @@
 | 20210921T00:21:10Z | Fuzzer for Dolt repositories | https://github.com/dolthub/fuzzer | 2 | 0| 
 | 20210921T00:20:40Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2390 | 144| 
 | 20210921T00:10:12Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6668 | 1365| 
-| 20210921T00:10:06Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 27 | 10| 
 
 
 
