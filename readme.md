@@ -49,12 +49,12 @@
 | 20210920T23:36:12Z | Collection of Discord hacking tools/fun stuff/exploits that is completely developed using NodeJS. | https://github.com/I2rys/ODiscord | 5 | 4| 
 | 20210920T23:17:36Z | Print to Roblox console using C# | https://github.com/deaddlocust/csharp-print-exploit | 0 | 0| 
 | 20210920T23:15:53Z | Simple script that utilities discord%s flaw in detecting who blocked who. | https://github.com/Fweak/Discord-Block-Bypass | 19 | 5| 
-| 20210920T23:03:03Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 31 | 18| 
 | 20210920T22:47:48Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 3933 | 543| 
 | 20210920T22:35:18Z | Post exploitation tool for configuration management servers. | https://github.com/master-of-servers/mose | 69 | 15| 
 | 20210920T21:35:55Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10074 | 1692| 
 | 20210920T21:15:20Z | Continuous Integration and Development ExploiteR | https://github.com/spaceB0x/cider | 79 | 14| 
 | 20210920T21:12:54Z | Exploiting Causal Structure for Transportability in Online, Multi-Agent Environments | https://github.com/axelbrowne/ECS4TOMAE | 0 | 0| 
+| 20210920T20:44:20Z | This bash scripts will help you to hack remote hosts. You can choose and run one of them. | https://github.com/FabioDefilippo/linuxallremote | 27 | 5| 
 
 
 # backdoor on Github 推荐
