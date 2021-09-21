@@ -140,7 +140,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210921T01:07:23Z | A set of fuzzers for fuzzing various parts of the Zig standard library | https://github.com/squeek502/zig-std-lib-fuzzing | 0 | 0| 
+| 20210921T01:14:20Z | A set of fuzzers for fuzzing various parts of the Zig standard library | https://github.com/squeek502/zig-std-lib-fuzzing | 0 | 0| 
 | 20210921T00:43:34Z | Null | https://github.com/Jason-Henson/fuzzy-fiesta | 0 | 0| 
 | 20210921T00:39:05Z | Null | https://github.com/AmeliaYeah/dns-host-directory-fuzz | 0 | 0| 
 | 20210921T00:23:42Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4569 | 461| 
