@@ -86,6 +86,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210921T00:56:12Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 5 | 1| 
+| 20210921T00:54:59Z | %Windows App Telemetry% is a post-exploitation implant, with the main goals being persistance and lateral movement. | https://github.com/shownadda/WindowsAppTelemetry | 0 | 0| 
 | 20210921T00:53:07Z | Null | https://github.com/AbdaalRuhaani/RuhaaniExploits | 0 | 0| 
 | 20210921T00:52:46Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 22 | 14| 
 | 20210921T00:43:54Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10075 | 1692| 
@@ -94,8 +96,6 @@
 | 20210921T00:03:12Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 31 | 18| 
 | 20210920T23:45:57Z | utility for become fumo scripts | https://github.com/ceat-ceat/BecomeFumoStuff | 0 | 0| 
 | 20210920T23:36:12Z | Collection of Discord hacking tools/fun stuff/exploits that is completely developed using NodeJS. | https://github.com/I2rys/ODiscord | 5 | 4| 
-| 20210920T23:17:36Z | Print to Roblox console using C# | https://github.com/deaddlocust/csharp-print-exploit | 0 | 0| 
-| 20210920T23:15:53Z | Simple script that utilities discord%s flaw in detecting who blocked who. | https://github.com/Fweak/Discord-Block-Bypass | 19 | 5| 
 
 
 # backdoor on Github 推荐
