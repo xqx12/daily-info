@@ -116,16 +116,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210920T11:57:10Z | Virtual Prototype with symbolic execution support and HardBound path analyzer | https://github.com/agra-uni-bremen/hardbound-vp | 0 | 0| 
+| 20210920T17:57:05Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 20 | 12| 
+| 20210920T15:00:45Z | Monster is a symbolic execution engine for 64-bit RISC-U code | https://github.com/cksystemsgroup/monster | 6 | 3| 
+| 20210920T14:10:39Z | Symbolica%s open-source symbolic execution engine. | https://github.com/SymbolicaDev/Symbolica | 28 | 2| 
+| 20210920T14:07:44Z | Virtual Prototype with symbolic execution support and HardBound path analyzer | https://github.com/agra-uni-bremen/hardbound-vp | 0 | 0| 
+| 20210920T13:10:33Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 157 | 34| 
+| 20210920T13:04:27Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 660 | 66| 
 | 20210920T09:55:51Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 471 | 74| 
 | 20210919T23:47:12Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1776 | 505| 
 | 20210919T10:59:15Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1887 | 395| 
 | 20210919T08:30:46Z | RAUK: Automatic Schedulability Analysis of RTIC Applications Using Symbolic Execution | https://github.com/markhakansson/master-thesis | 5 | 0| 
-| 20210919T07:33:13Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 659 | 66| 
-| 20210918T16:35:41Z | Symbolica%s open-source symbolic execution engine. | https://github.com/SymbolicaDev/Symbolica | 28 | 1| 
-| 20210918T09:19:48Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 20 | 12| 
-| 20210918T04:27:59Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2460 | 363| 
-| 20210917T13:33:30Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 29 | 6| 
 
 
 # big4 on Github 推荐
@@ -140,6 +140,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210921T00:03:26Z | A set of fuzzers for fuzzing various parts of the Zig standard library | https://github.com/squeek502/zig-std-lib-fuzzing | 0 | 0| 
 | 20210920T23:41:22Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2390 | 144| 
 | 20210920T23:40:38Z | Null | https://github.com/AmeliaYeah/dns-host-directory-fuzz | 0 | 0| 
 | 20210920T23:38:47Z | Trabalho realizado para a matéria TÓPICOS ESPECIAIS EM SISTEMAS DE PROGRAMAÇÃO VI | https://github.com/herecomesMac/controle_simples_seguidor_linha_logica_fuzzy | 0 | 0| 
@@ -149,7 +150,6 @@
 | 20210920T22:34:40Z | Coding practice for HTML/CSS/anything else web based | https://github.com/FuzzyPumpkin/FuzzyPumpkin.github.io | 5 | 1| 
 | 20210920T22:28:13Z | An investigation of American Fuzzy Lop++ as a fuzzer | https://github.com/hark130/hardy-remix | 0 | 0| 
 | 20210920T22:18:20Z | Fuse.js binding for fuzzy text match highlighting | https://github.com/metonym/svelte-fuzzy | 13 | 0| 
-| 20210920T22:13:02Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1303 | 234| 
 
 
 
