@@ -116,6 +116,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210921T01:43:06Z | A Ghidra extension that allows you to run Angr symbolic execution using the Pcode from Ghidra. | https://github.com/jdkleuver/PcodeSym | 0 | 0| 
 | 20210920T17:57:05Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 20 | 12| 
 | 20210920T15:00:45Z | Monster is a symbolic execution engine for 64-bit RISC-U code | https://github.com/cksystemsgroup/monster | 6 | 3| 
 | 20210920T14:10:39Z | Symbolica%s open-source symbolic execution engine. | https://github.com/SymbolicaDev/Symbolica | 28 | 2| 
@@ -125,7 +126,6 @@
 | 20210920T09:55:51Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 471 | 74| 
 | 20210919T23:47:12Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1776 | 505| 
 | 20210919T10:59:15Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1887 | 395| 
-| 20210919T08:30:46Z | RAUK: Automatic Schedulability Analysis of RTIC Applications Using Symbolic Execution | https://github.com/markhakansson/master-thesis | 5 | 0| 
 
 
 # big4 on Github 推荐
