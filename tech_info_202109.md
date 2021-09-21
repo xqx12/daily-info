@@ -140,7 +140,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210921T00:03:26Z | A set of fuzzers for fuzzing various parts of the Zig standard library | https://github.com/squeek502/zig-std-lib-fuzzing | 0 | 0| 
+| 20210921T00:10:12Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6668 | 1365| 
+| 20210921T00:10:06Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 27 | 10| 
+| 20210921T00:03:49Z | A set of fuzzers for fuzzing various parts of the Zig standard library | https://github.com/squeek502/zig-std-lib-fuzzing | 0 | 0| 
 | 20210920T23:41:22Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2390 | 144| 
 | 20210920T23:40:38Z | Null | https://github.com/AmeliaYeah/dns-host-directory-fuzz | 0 | 0| 
 | 20210920T23:38:47Z | Trabalho realizado para a matéria TÓPICOS ESPECIAIS EM SISTEMAS DE PROGRAMAÇÃO VI | https://github.com/herecomesMac/controle_simples_seguidor_linha_logica_fuzzy | 0 | 0| 
@@ -148,8 +150,6 @@
 | 20210920T23:28:43Z | Python Front End Basics | https://github.com/Radar3759/fuzzy-palm-tree | 0 | 0| 
 | 20210920T23:01:13Z | Fuzzer for Dolt repositories | https://github.com/dolthub/fuzzer | 2 | 0| 
 | 20210920T22:34:40Z | Coding practice for HTML/CSS/anything else web based | https://github.com/FuzzyPumpkin/FuzzyPumpkin.github.io | 5 | 1| 
-| 20210920T22:28:13Z | An investigation of American Fuzzy Lop++ as a fuzzer | https://github.com/hark130/hardy-remix | 0 | 0| 
-| 20210920T22:18:20Z | Fuse.js binding for fuzzy text match highlighting | https://github.com/metonym/svelte-fuzzy | 13 | 0| 
 
 
 
