@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210921T01:20:12Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 3967 | 574| 
 | 20210921T01:02:53Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 31 | 18| 
 | 20210921T00:58:21Z | Null | https://github.com/AbdaalRuhaani/RuhaaniExploits | 0 | 0| 
 | 20210921T00:56:12Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 5 | 1| 
@@ -95,7 +96,6 @@
 | 20210921T00:43:49Z | Local file inclusion discovery and exploitation tool | https://github.com/hansmach1ne/lfimap | 4 | 0| 
 | 20210921T00:37:45Z | exploit code(incomplete) | https://github.com/fr0g2s/HackCTF-pwnable- | 0 | 0| 
 | 20210920T23:45:57Z | utility for become fumo scripts | https://github.com/ceat-ceat/BecomeFumoStuff | 0 | 0| 
-| 20210920T23:36:12Z | Collection of Discord hacking tools/fun stuff/exploits that is completely developed using NodeJS. | https://github.com/I2rys/ODiscord | 5 | 4| 
 
 
 # backdoor on Github 推荐
