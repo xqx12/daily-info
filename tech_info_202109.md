@@ -140,6 +140,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210921T00:23:42Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4569 | 461| 
 | 20210921T00:22:06Z | Write unit and fuzz tests for Elm code. | https://github.com/elm-explorations/test | 205 | 29| 
 | 20210921T00:21:10Z | Fuzzer for Dolt repositories | https://github.com/dolthub/fuzzer | 2 | 0| 
 | 20210921T00:20:40Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2390 | 144| 
@@ -149,7 +150,6 @@
 | 20210920T23:40:38Z | Null | https://github.com/AmeliaYeah/dns-host-directory-fuzz | 0 | 0| 
 | 20210920T23:38:47Z | Trabalho realizado para a matéria TÓPICOS ESPECIAIS EM SISTEMAS DE PROGRAMAÇÃO VI | https://github.com/herecomesMac/controle_simples_seguidor_linha_logica_fuzzy | 0 | 0| 
 | 20210920T23:30:59Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210920T23:28:43Z | Python Front End Basics | https://github.com/Radar3759/fuzzy-palm-tree | 0 | 0| 
 
 
 
