@@ -80,7 +80,6 @@
 | 20210920T14:07:44Z | Virtual Prototype with symbolic execution support and HardBound path analyzer | https://github.com/agra-uni-bremen/hardbound-vp | 0 | 0| 
 | 20210920T13:10:33Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 157 | 34| 
 | 20210920T13:04:27Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 660 | 66| 
-| 20210920T09:55:51Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 471 | 74| 
 
 
 # big4 on Github 推荐
