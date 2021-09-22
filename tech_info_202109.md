@@ -76,6 +76,8 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210922T01:11:38Z | Null | https://github.com/aja76793/Home-Economics---s2e1-on-ABC-s | 0 | 0| 
+| 20210922T01:11:05Z | Null | https://github.com/abaytete/Home-Economics-2021-Episode-1-S2E01-TV-Show | 0 | 0| 
 | 20210920T17:21:58Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 153 | 36| 
 | 20210917T02:55:13Z | Null | https://github.com/yuvalkirstain/s2e-coref | 13 | 6| 
 | 20210916T10:12:59Z | Compiler for S2Engine architecure , an CNN accelerator | https://github.com/BUAA-CI-Lab/S2EngineCompiler | 2 | 1| 
@@ -86,11 +88,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210922T01:03:09Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 31 | 18| 
 | 20210922T00:52:47Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 22 | 14| 
 | 20210922T00:43:14Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 8 | 4| 
 | 20210922T00:28:43Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 3936 | 543| 
 | 20210922T00:15:12Z | Tool for searching Exploits from Exploit Databases, etc. | https://github.com/vulsio/go-exploitdb | 124 | 36| 
-| 20210922T00:03:21Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 31 | 18| 
 | 20210921T23:51:30Z | Exploiting Causal Structure for Transportability in Online, Multi-Agent Environments | https://github.com/axelbrowne/ECS4TOMAE | 0 | 0| 
 | 20210921T22:53:43Z | Ded Security Framework is a tool aimed at security professionals | https://github.com/dedsecurity/dedsecurity-framework | 10 | 7| 
 | 20210921T22:52:09Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10086 | 1694| 
