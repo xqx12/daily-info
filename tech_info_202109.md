@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210922T01:51:56Z | Local file inclusion discovery and exploitation tool | https://github.com/hansmach1ne/lfimap | 5 | 0| 
 | 20210922T01:43:51Z | A collection of more than 140+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 771 | 179| 
 | 20210922T01:40:42Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 347 | 51| 
 | 20210922T01:39:27Z | Null | https://github.com/B00TK1D/pihole-exploit | 0 | 0| 
@@ -97,7 +98,6 @@
 | 20210922T00:52:47Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 22 | 14| 
 | 20210922T00:43:14Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 8 | 4| 
 | 20210922T00:28:43Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 3936 | 543| 
-| 20210922T00:15:12Z | Tool for searching Exploits from Exploit Databases, etc. | https://github.com/vulsio/go-exploitdb | 124 | 36| 
 
 
 # backdoor on Github 推荐

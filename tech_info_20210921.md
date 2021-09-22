@@ -52,9 +52,9 @@
 | 20210921T21:22:00Z | AD Enum is a pentesting tool that allows to find misconfiguration through the the protocol LDAP and exploit some of those weaknesses with kerberos. | https://github.com/SecuProject/ADenum | 7 | 1| 
 | 20210921T21:18:53Z | One Click root Exploit for Unobtainium Machine [HackTheBox] | https://github.com/Rajchowdhury420/Unobtainium-HTB-Exploit | 1 | 0| 
 | 20210921T21:11:53Z | Null | https://github.com/AbdaalRuhaani/RuhaaniExploits | 0 | 0| 
-| 20210921T20:04:20Z | Local file inclusion discovery and exploitation tool | https://github.com/hansmach1ne/lfimap | 4 | 0| 
 | 20210921T19:51:25Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 91 | 32| 
 | 20210921T19:46:06Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 230 | 13| 
+| 20210921T19:13:29Z | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | 2305 | 419| 
 
 
 # backdoor on Github 推荐
