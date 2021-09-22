@@ -97,6 +97,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210922T12:17:07Z | Nephael Simple Python Fuzzer | https://github.com/Apasys/Apasys-Simple-Fuzzer | 7 | 0| 
 | 20210922T12:06:14Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6673 | 1366| 
 | 20210922T12:03:28Z | A curated list of awesome directed fuzzing research papers | https://github.com/strongcourage/awesome-directed-fuzzing | 97 | 18| 
 | 20210922T12:02:07Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 28 | 10| 
@@ -106,7 +107,6 @@
 | 20210922T11:30:54Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210922T10:26:11Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
 | 20210922T10:17:52Z | Null | https://github.com/Manishnetam-Org/fuzzy-giggle | 0 | 0| 
-| 20210922T10:00:08Z | Dictionary collection project such as Pentesing, Fuzzing, Bruteforce and BugBounty. 渗透测试、SRC漏洞挖掘、爆破、Fuzzing等字典收集项目。 | https://github.com/insightglacier/Dictionary-Of-Pentesting | 834 | 191| 
 
 
 
