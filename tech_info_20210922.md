@@ -54,16 +54,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210922T12:54:56Z | CVE-2021-40875: Tools to Inspect Gurock Testrail Servers for Vulnerabilities related to CVE-2021-40875. | https://github.com/SakuraSamuraii/derailed | 3 | 1| 
+| 20210922T12:52:48Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 22 | 14| 
+| 20210922T12:52:23Z | CVE-2021-38647 - POC to exploit unauthenticated RCE #OMIGOD | https://github.com/AlteredSecurity/CVE-2021-38647 | 23 | 9| 
+| 20210922T12:51:01Z | The popular GENIE Generator product is used by nearly all accelerator neutrino experiments and it plays a key role in the exploitation of neutrino data. The Generator implements a modern software framework and it includes state-of-the-art physics modules. It captures the latest results of the GENIE global analysis of neutrino scattering data and includes several tunes that were produced using the proprietary Comparisons and Tuning products. The GENIE physics model is universal and comprehensive:  It handles all neutrinos and targets, and all processes relevant from MeV to PeV energy scales. The Generator includes several tools (flux drivers, detector geometry navigators, specialized event generation apps, event reweighting engines) to simulate complex experimental setups in full detail and to support generator-related analysis tasks.  | https://github.com/GENIE-MC/Generator | 23 | 54| 
 | 20210922T12:44:31Z | Combat + Exploit - PopWare For Anarchy Servers | https://github.com/Leuxarik/PopWare | 0 | 0| 
 | 20210922T12:40:30Z | Exploits for some pwn challenges on windows and linux .  | https://github.com/HadiMed/pwn | 0 | 0| 
 | 20210922T12:28:39Z | A ideia é centralizar scripts para detecção e exploração de vulnerabilidades em sistemas com base em RCEs/CVEs. | https://github.com/BlackCyber21/exploit-toolkit | 0 | 0| 
 | 20210922T12:08:21Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10092 | 1695| 
 | 20210922T12:03:49Z | Null | https://github.com/RyouYoo/exploit | 0 | 0| 
 | 20210922T12:03:16Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 31 | 18| 
-| 20210922T11:52:04Z | Drupal RCE CVE Python Exploit | https://github.com/Apasys/Apasys-CVE-2019-6340 | 7 | 0| 
-| 20210922T11:29:07Z | Exploiting boundaries | https://github.com/umegbewe/polkit-vuln | 0 | 0| 
-| 20210922T11:22:22Z | This bash scripts will help you to hack remote hosts. You can choose and run one of them. | https://github.com/FabioDefilippo/linuxallremote | 27 | 5| 
-| 20210922T11:21:24Z | Tamil CTF Site | https://github.com/exploiteverythingtamil/exploiteverythingtamil.github.io | 3 | 0| 
 
 
 # backdoor on Github 推荐
