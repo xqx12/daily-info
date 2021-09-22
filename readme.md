@@ -54,10 +54,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210922T12:08:21Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10092 | 1695| 
 | 20210922T12:03:49Z | Null | https://github.com/RyouYoo/exploit | 0 | 0| 
 | 20210922T12:03:16Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 31 | 18| 
 | 20210922T11:52:04Z | Drupal RCE CVE Python Exploit | https://github.com/Apasys/Apasys-CVE-2019-6340 | 7 | 0| 
-| 20210922T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10091 | 1694| 
 | 20210922T11:29:07Z | Exploiting boundaries | https://github.com/umegbewe/polkit-vuln | 0 | 0| 
 | 20210922T11:22:22Z | This bash scripts will help you to hack remote hosts. You can choose and run one of them. | https://github.com/FabioDefilippo/linuxallremote | 27 | 5| 
 | 20210922T11:21:24Z | Tamil CTF Site | https://github.com/exploiteverythingtamil/exploiteverythingtamil.github.io | 3 | 0| 
