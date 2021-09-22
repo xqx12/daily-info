@@ -54,9 +54,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210922T12:44:31Z | Combat + Exploit - PopWare For Anarchy Servers | https://github.com/Leuxarik/PopWare | 0 | 0| 
 | 20210922T12:40:30Z | Exploits for some pwn challenges on windows and linux .  | https://github.com/HadiMed/pwn | 0 | 0| 
 | 20210922T12:28:39Z | A ideia é centralizar scripts para detecção e exploração de vulnerabilidades em sistemas com base em RCEs/CVEs. | https://github.com/BlackCyber21/exploit-toolkit | 0 | 0| 
-| 20210922T12:12:16Z | Combat + Exploit - PopWare For Anarchy Servers | https://github.com/Leuxarik/PopWare | 0 | 0| 
 | 20210922T12:08:21Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10092 | 1695| 
 | 20210922T12:03:49Z | Null | https://github.com/RyouYoo/exploit | 0 | 0| 
 | 20210922T12:03:16Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 31 | 18| 
