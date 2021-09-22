@@ -105,10 +105,10 @@
 | 20210921T22:54:01Z | Null | https://github.com/psuchta/fuzzy-parking | 0 | 0| 
 | 20210921T22:35:16Z | An investigation of American Fuzzy Lop++ as a fuzzer | https://github.com/hark130/hardy-remix | 0 | 0| 
 | 20210921T21:50:26Z | Coding practice for HTML/CSS/anything else web based | https://github.com/FuzzyPumpkin/FuzzyPumpkin.github.io | 5 | 1| 
-| 20210921T21:31:50Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210921T21:23:40Z | A fork and successor of the Sulley Fuzzing Framework | https://github.com/jtpereyda/boofuzz | 1309 | 259| 
 | 20210921T21:15:13Z | Null | https://github.com/mntzj/fuzzy-netlify | 0 | 0| 
 | 20210921T21:08:23Z | A Modular Open-Source Hardware Fuzzing Framework | https://github.com/ekiwi/rtl-fuzz-lab | 1 | 0| 
+| 20210921T21:01:36Z | Go library that provides fuzzy string matching optimized for filenames and code symbols in the style of Sublime Text, VSCode, IntelliJ IDEA et al. | https://github.com/sahilm/fuzzy | 1042 | 52| 
 
 
 

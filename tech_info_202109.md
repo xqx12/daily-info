@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210922T00:03:26Z | CVE-2021-38647 | CVE-2021-38647 AKA "OMIGOD" vulnerability in Windows OMI  | https://github.com/corelight/CVE-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
+| 20210922T00:03:26Z | CVE-2021-38647 | CVE-2021-38647 AKA "OMIGOD" vulnerability in Windows OMI  | https://github.com/corelight/CVE-2021-38647 | | 
 | 20210921T23:49:11Z | CVE-2021-38647 | CVE-2021-38647 - POC to exploit unauthenticated RCE #OMIGOD | https://github.com/AlteredSecurity/CVE-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
 | 20210921T23:45:00Z | CVE-2021-30632 | PoC CVE-2021-30632 - Out of bounds write in V8 | https://github.com/Phuong39/PoC-CVE-2021-30632 | 未查询到CVE信息| 
 | 20210921T20:09:55Z | CVE-2021-40444 | Modified code so that we don´t need to rely on CAB archives | https://github.com/Edubr2020/CVE-2021-40444--CABless | Microsoft MSHTML Remote Code Execution Vulnerability| 
@@ -142,13 +142,13 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210922T00:14:43Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210921T23:36:09Z | Fuzzy logic with microcontroller device to determine of watering time for plants based on temperature and humidity using the DHT11 sensor module. | https://github.com/ganiadiw/arduino-fuzzification | 0 | 0| 
 | 20210921T23:02:44Z | A ground-truth fuzzing benchmark suite based on real programs with real bugs. | https://github.com/HexHive/magma | 135 | 39| 
 | 20210921T22:57:08Z | Tool for fuzzing with style 👌 | https://github.com/essentialkaos/fz | 1 | 0| 
 | 20210921T22:54:01Z | Null | https://github.com/psuchta/fuzzy-parking | 0 | 0| 
 | 20210921T22:35:16Z | An investigation of American Fuzzy Lop++ as a fuzzer | https://github.com/hark130/hardy-remix | 0 | 0| 
 | 20210921T21:50:26Z | Coding practice for HTML/CSS/anything else web based | https://github.com/FuzzyPumpkin/FuzzyPumpkin.github.io | 5 | 1| 
-| 20210921T21:31:50Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210921T21:23:40Z | A fork and successor of the Sulley Fuzzing Framework | https://github.com/jtpereyda/boofuzz | 1309 | 259| 
 | 20210921T21:15:13Z | Null | https://github.com/mntzj/fuzzy-netlify | 0 | 0| 
 | 20210921T21:08:23Z | A Modular Open-Source Hardware Fuzzing Framework | https://github.com/ekiwi/rtl-fuzz-lab | 1 | 0| 
