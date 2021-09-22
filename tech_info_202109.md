@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210922T00:52:47Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 22 | 14| 
 | 20210922T00:43:14Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 8 | 4| 
 | 20210922T00:28:43Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 3936 | 543| 
 | 20210922T00:15:12Z | Tool for searching Exploits from Exploit Databases, etc. | https://github.com/vulsio/go-exploitdb | 124 | 36| 
@@ -95,7 +96,6 @@
 | 20210921T22:52:09Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10086 | 1694| 
 | 20210921T22:37:41Z | Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish to influence Onelinetips and explain the commands, for the better understanding of new hunters.. | https://github.com/KingOfBugbounty/KingOfBugBountyTips | 2425 | 413| 
 | 20210921T22:12:18Z | An attempt of automating the exploitation workflow of basic OSCP like buffer overflows in python | https://github.com/lyxo/autoOverflow | 0 | 0| 
-| 20210921T21:22:00Z | AD Enum is a pentesting tool that allows to find misconfiguration through the the protocol LDAP and exploit some of those weaknesses with kerberos. | https://github.com/SecuProject/ADenum | 7 | 1| 
 
 
 # backdoor on Github 推荐
@@ -142,10 +142,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210922T00:57:38Z | Null | https://github.com/cycy2233/fuzzy-umbrella | 0 | 0| 
 | 20210922T00:56:58Z | Diberikan file restoran.xls berupa himpunan data 100 restoran yang ada di kota A dengan dua atribut: Kualitas pelayanan (bilangan real 1-100) dan kualitas makanan (bilangan real 1-10). Bangunlah sebuah sistem berbasis fuzzy logic untuk memilih 10 restoran terbaik di kota A. Sistem membaca masukan file restoran.xls dan mengeluarkan output berupa sebuah file peringkat.xls yang berisi satu vektor kolom berisi 10 baris angka bernilai integer (bilangan bulat) yang menyatakan nomor baris/record id restoran (1-100) pada file restoran.xls.  | https://github.com/dinipuspitarini/fuzzy-logic | 0 | 0| 
 | 20210922T00:50:38Z | Comparing tool variability and numerical variability in fMRI analyses results | https://github.com/ali4006/fuzzy-neurotools | 0 | 0| 
 | 20210922T00:50:00Z | Null | https://github.com/yasminekat/fuzzy-octo-potato | 0 | 0| 
-| 20210922T00:49:52Z | Null | https://github.com/cycy2233/fuzzy-umbrella | 0 | 0| 
 | 20210922T00:14:43Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210921T23:36:09Z | Fuzzy logic with microcontroller device to determine of watering time for plants based on temperature and humidity using the DHT11 sensor module. | https://github.com/ganiadiw/arduino-fuzzification | 0 | 0| 
 | 20210921T23:02:44Z | A ground-truth fuzzing benchmark suite based on real programs with real bugs. | https://github.com/HexHive/magma | 135 | 39| 
