@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210922T01:40:42Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 347 | 51| 
 | 20210922T01:39:27Z | Null | https://github.com/B00TK1D/pihole-exploit | 0 | 0| 
 | 20210922T01:30:55Z | An introduction, explanation, and tutorial of various exploits for the heap of current and recent GNU libcs. | https://github.com/bstank/bstank.github.io | 0 | 0| 
 | 20210922T01:18:00Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10087 | 1694| 
@@ -97,7 +98,6 @@
 | 20210922T00:28:43Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 3936 | 543| 
 | 20210922T00:15:12Z | Tool for searching Exploits from Exploit Databases, etc. | https://github.com/vulsio/go-exploitdb | 124 | 36| 
 | 20210921T23:51:30Z | Exploiting Causal Structure for Transportability in Online, Multi-Agent Environments | https://github.com/axelbrowne/ECS4TOMAE | 0 | 0| 
-| 20210921T22:53:43Z | Ded Security Framework is a tool aimed at security professionals | https://github.com/dedsecurity/dedsecurity-framework | 10 | 7| 
 
 
 # backdoor on Github 推荐
