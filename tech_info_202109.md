@@ -46,10 +46,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210922T12:52:23Z | CVE-2021-38647 | CVE-2021-38647 - POC to exploit unauthenticated RCE #OMIGOD | https://github.com/AlteredSecurity/CVE-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
 | 20210922T12:38:09Z | CVE-2021-40444 | Modified code so that we don´t need to rely on CAB archives | https://github.com/Edubr2020/CVE-2021-40444--CABless | Microsoft MSHTML Remote Code Execution Vulnerability| 
 | 20210922T11:51:28Z | CVE-2020-0796 | MS CVE 2020-0796 SMB | https://github.com/Apasys/Apasys-CVE-2020-0796 | A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests, aka %Windows SMBv3 Client/Server Remote Code Execution Vulnerability%.| 
-| 20210922T10:57:46Z | CVE-2021-38647 | CVE-2021-38647 - POC to exploit unauthenticated RCE #OMIGOD | https://github.com/AlteredSecurity/CVE-2021-38647 | | 
-| 20210922T10:47:05Z | CVE-2021-38647 | OMIGod / CVE-2021-38647 POC and Demo environment | https://github.com/SimenBai/CVE-2021-38647-POC-and-Demo-environment | | 
+| 20210922T10:47:05Z | CVE-2021-38647 | OMIGod / CVE-2021-38647 POC and Demo environment | https://github.com/SimenBai/CVE-2021-38647-POC-and-Demo-environment | Open Management Infrastructure Remote Code Execution Vulnerability| 
 | 20210922T07:33:57Z | CVE-2021-30632 | PoC CVE-2021-30632 - Out of bounds write in V8 | https://github.com/Phuong39/PoC-CVE-2021-30632 | 未查询到CVE信息| 
 | 20210922T01:09:21Z | CVE-2021-38647 | OMIGOD PoC | https://github.com/m1thryn/CVE-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
 | 20210922T00:03:26Z | CVE-2021-38647 | CVE-2021-38647 AKA "OMIGOD" vulnerability in Windows OMI  | https://github.com/corelight/CVE-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
@@ -144,6 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210922T12:53:12Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210922T12:49:27Z | A fork of AFL for fuzzing Windows binaries | https://github.com/googleprojectzero/winafl | 1755 | 444| 
 | 20210922T12:33:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6673 | 1366| 
 | 20210922T12:24:50Z | Dictionary collection project such as Pentesing, Fuzzing, Bruteforce and BugBounty. 渗透测试、SRC漏洞挖掘、爆破、Fuzzing等字典收集项目。 | https://github.com/insightglacier/Dictionary-Of-Pentesting | 835 | 191| 
@@ -153,7 +154,6 @@
 | 20210922T12:01:33Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210922T11:56:39Z | This is the source code for the MQTT fuzzer that we used in our paper Di Paolo, E., Bassetti, E., & Spognardi, A. (2021). Security assessment of common open source MQTT brokers and clients. @ ITASEC21: Italian Conference on Cybersecurity, April 07–09, 2021, Online | https://github.com/aedoardo/mqtt | 1 | 0| 
 | 20210922T11:50:38Z | stuffs for fuzzcoin paper | https://github.com/daehee87/fuzzcoin-paper | 0 | 0| 
-| 20210922T11:30:54Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 
 
 
