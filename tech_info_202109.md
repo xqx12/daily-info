@@ -48,13 +48,13 @@
 | --- | --- | --- | --- | ---| 
 | 20210922T12:52:23Z | CVE-2021-38647 | CVE-2021-38647 - POC to exploit unauthenticated RCE #OMIGOD | https://github.com/AlteredSecurity/CVE-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
 | 20210922T12:38:09Z | CVE-2021-40444 | Modified code so that we don´t need to rely on CAB archives | https://github.com/Edubr2020/CVE-2021-40444--CABless | Microsoft MSHTML Remote Code Execution Vulnerability| 
-| 20210922T11:51:28Z | CVE-2020-0796 | MS CVE 2020-0796 SMB | https://github.com/Apasys/Apasys-CVE-2020-0796 | A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests, aka %Windows SMBv3 Client/Server Remote Code Execution Vulnerability%.| 
+| 20210922T11:51:28Z | CVE-2020-0796 | MS CVE 2020-0796 SMB | https://github.com/Apasys/Apasys-CVE-2020-0796 | | 
 | 20210922T10:47:05Z | CVE-2021-38647 | OMIGod / CVE-2021-38647 POC and Demo environment | https://github.com/SimenBai/CVE-2021-38647-POC-and-Demo-environment | Open Management Infrastructure Remote Code Execution Vulnerability| 
 | 20210922T07:33:57Z | CVE-2021-30632 | PoC CVE-2021-30632 - Out of bounds write in V8 | https://github.com/Phuong39/PoC-CVE-2021-30632 | 未查询到CVE信息| 
 | 20210922T01:09:21Z | CVE-2021-38647 | OMIGOD PoC | https://github.com/m1thryn/CVE-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
 | 20210922T00:03:26Z | CVE-2021-38647 | CVE-2021-38647 AKA "OMIGOD" vulnerability in Windows OMI  | https://github.com/corelight/CVE-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
 | 20210921T11:43:41Z | CVE-2021-24499 | Mass exploitation of CVE-2021-24499 unauthenticated upload leading to remote code execution in Workreap theme. | https://github.com/RyouYoo/CVE-2021-24499 | The Workreap WordPress theme before 2.2.2 AJAX actions workreap_award_temp_file_uploader and workreap_temp_file_uploader did not perform nonce checks, or validate that the request is from a valid user in any other way. The endpoints allowed for uploading arbitrary files to the uploads/workreap-temp directory. Uploaded files were neither sanitized nor validated, allowing an unauthenticated visitor to upload executable code such as php scripts.| 
-| 20210921T10:00:33Z | CVE-2021-22925 | PoC for exploiting CVE-2021-22925 : curl supports the `-t` command line option, known as `CURLOPT_TELNETOPTIONS`in libcurl. This rarely used option is used to send variable=content pairs toTELNET servers.Due to flaw in the option parser for sending `NEW_ENV` variables, libcurlcould be made to pass on uninitialized data from a stack based buffer to theserver. Therefore potentially revealing sensitive internal information to theserver using a clear-text network protocol.This could happen because curl did not call and use sscanf() correctly whenparsing the string provided by the application. | https://github.com/AlAIAL90/CVE-2021-22925 | | 
+| 20210921T10:00:33Z | CVE-2021-22925 | PoC for exploiting CVE-2021-22925 : curl supports the `-t` command line option, known as `CURLOPT_TELNETOPTIONS`in libcurl. This rarely used option is used to send variable=content pairs toTELNET servers.Due to flaw in the option parser for sending `NEW_ENV` variables, libcurlcould be made to pass on uninitialized data from a stack based buffer to theserver. Therefore potentially revealing sensitive internal information to theserver using a clear-text network protocol.This could happen because curl did not call and use sscanf() correctly whenparsing the string provided by the application. | https://github.com/AlAIAL90/CVE-2021-22925 | curl supports the `-t` command line option, known as `CURLOPT_TELNETOPTIONS`in libcurl. This rarely used option is used to send variable=content pairs toTELNET servers.Due to flaw in the option parser for sending `NEW_ENV` variables, libcurlcould be made to pass on uninitialized data from a stack based buffer to theserver. Therefore potentially revealing sensitive internal information to theserver using a clear-text network protocol.This could happen because curl did not call and use sscanf() correctly whenparsing the string provided by the application.| 
 | 20210921T10:00:28Z | CVE-2021-30713 | PoC for exploiting CVE-2021-30713 : A permissions issue was addressed with improved validation. This issue is fixed in macOS Big Sur 11.4. A malicious application may be able to bypass Privacy preferences. Apple is aware of a report that this issue may have been actively exploited.. | https://github.com/AlAIAL90/CVE-2021-30713 | A permissions issue was addressed with improved validation. This issue is fixed in macOS Big Sur 11.4. A malicious application may be able to bypass Privacy preferences. Apple is aware of a report that this issue may have been actively exploited..| 
 
 
@@ -103,7 +103,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210922T12:27:45Z | Android attack using Metasploit framework in Parrot OS   | https://github.com/PasinduWijesingha/Android-Backdoor-Attack | 0 | 0| 
+| 20210922T12:55:27Z | Android attack using Metasploit framework in Parrot OS   | https://github.com/PasinduWijesingha/Android-Backdoor-Attack | 1 | 0| 
 | 20210922T12:03:45Z | Neo est un tool / outil pour crée des backdoor sur Windows et Linux pour Windows et Linux. Développer en python3.9 et arrive dans un mois en Perl (pour les puristes) | https://github.com/Psyquoquack/Neo | 0 | 0| 
 | 20210922T11:36:15Z | A LKM rootkit targeting 4.x and 5.x kernel versions which opens a backdoor that can spawn a reverse shell to a remote host, launch malware and more. | https://github.com/h3xduck/Umbra | 41 | 7| 
 | 20210922T10:34:13Z | Just a Rick Roll with a left over poisoned love letter . | https://github.com/Mastermindx33/N3haV1ru5 | 3 | 0| 
@@ -144,6 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210922T12:58:20Z | Null | https://github.com/amitk0693/Possibilistic-Fuzzy-Neural-Gas | 1 | 0| 
 | 20210922T12:53:12Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210922T12:49:27Z | A fork of AFL for fuzzing Windows binaries | https://github.com/googleprojectzero/winafl | 1755 | 444| 
 | 20210922T12:33:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6673 | 1366| 
@@ -153,7 +154,6 @@
 | 20210922T12:02:07Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 28 | 10| 
 | 20210922T12:01:33Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210922T11:56:39Z | This is the source code for the MQTT fuzzer that we used in our paper Di Paolo, E., Bassetti, E., & Spognardi, A. (2021). Security assessment of common open source MQTT brokers and clients. @ ITASEC21: Italian Conference on Cybersecurity, April 07–09, 2021, Online | https://github.com/aedoardo/mqtt | 1 | 0| 
-| 20210922T11:50:38Z | stuffs for fuzzcoin paper | https://github.com/daehee87/fuzzcoin-paper | 0 | 0| 
 
 
 
