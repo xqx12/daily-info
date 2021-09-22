@@ -28,7 +28,7 @@
 | 20210921T10:00:28Z | CVE-2021-30713 | PoC for exploiting CVE-2021-30713 : A permissions issue was addressed with improved validation. This issue is fixed in macOS Big Sur 11.4. A malicious application may be able to bypass Privacy preferences. Apple is aware of a report that this issue may have been actively exploited.. | https://github.com/AlAIAL90/CVE-2021-30713 | A permissions issue was addressed with improved validation. This issue is fixed in macOS Big Sur 11.4. A malicious application may be able to bypass Privacy preferences. Apple is aware of a report that this issue may have been actively exploited..| 
 | 20210921T10:00:23Z | CVE-2021-30783 | PoC for exploiting CVE-2021-30783 : An access issue was addressed with improved access restrictions. This issue is fixed in macOS Big Sur 11.5, Security Update 2021-004 Catalina, Security Update 2021-005 Mojave. A sandboxed process may be able to circumvent sandbox restrictions. | https://github.com/AlAIAL90/CVE-2021-30783 | An access issue was addressed with improved access restrictions. This issue is fixed in macOS Big Sur 11.5, Security Update 2021-004 Catalina, Security Update 2021-005 Mojave. A sandboxed process may be able to circumvent sandbox restrictions.| 
 | 20210921T08:33:31Z | CVE-2021-26084 | [CVE-2021-26084] Confluence pre-auth RCE test script | https://github.com/ludy-dev/CVE-2021-26084_PoC | In affected versions of Confluence Server and Data Center, an OGNL injection vulnerability exists that would allow an unauthenticated attacker to execute arbitrary code on a Confluence Server or Data Center instance. The affected versions are before version 6.13.23, from version 6.14.0 before 7.4.11, from version 7.5.0 before 7.11.6, and from version 7.12.0 before 7.12.5.| 
-| 20210921T04:31:00Z | CVE-2021-30860 | Scan for evidence of CVE-2021-30860 (FORCEDENTRY) exploit | https://github.com/Levilutz/CVE-2021-30860 | An integer overflow was addressed with improved input validation. This issue is fixed in Security Update 2021-005 Catalina, iOS 14.8 and iPadOS 14.8, macOS Big Sur 11.6, watchOS 7.6.2. Processing a maliciously crafted PDF may lead to arbitrary code execution. Apple is aware of a report that this issue may have been actively exploited.| 
+| 20210921T04:31:00Z | CVE-2021-30860 | Scan for evidence of CVE-2021-30860 (FORCEDENTRY) exploit | https://github.com/Levilutz/CVE-2021-30860 | | 
 
 
 # klee on Github 推荐
@@ -79,8 +79,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210921T15:01:46Z | Symbolica%s open-source symbolic execution engine. | https://github.com/SymbolicaDev/Symbolica | 28 | 2| 
+| 20210921T14:57:43Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 158 | 34| 
 | 20210921T10:12:01Z | A Ghidra extension that allows you to run Angr symbolic execution using the Pcode from Ghidra. | https://github.com/jdkleuver/PcodeSym | 1 | 0| 
-| 20210921T09:10:31Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 157 | 34| 
 | 20210921T08:02:02Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 661 | 66| 
 | 20210921T06:53:46Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1777 | 505| 
 | 20210921T05:49:36Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 7 | 4| 
