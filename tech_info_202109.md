@@ -144,6 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210922T01:20:07Z | Null | https://github.com/ajinerte/fuzzy-invention | 0 | 0| 
 | 20210922T01:07:46Z | Null | https://github.com/cycy2233/fuzzy-umbrella | 0 | 0| 
 | 20210922T00:56:58Z | Diberikan file restoran.xls berupa himpunan data 100 restoran yang ada di kota A dengan dua atribut: Kualitas pelayanan (bilangan real 1-100) dan kualitas makanan (bilangan real 1-10). Bangunlah sebuah sistem berbasis fuzzy logic untuk memilih 10 restoran terbaik di kota A. Sistem membaca masukan file restoran.xls dan mengeluarkan output berupa sebuah file peringkat.xls yang berisi satu vektor kolom berisi 10 baris angka bernilai integer (bilangan bulat) yang menyatakan nomor baris/record id restoran (1-100) pada file restoran.xls.  | https://github.com/dinipuspitarini/fuzzy-logic | 0 | 0| 
 | 20210922T00:50:38Z | Comparing tool variability and numerical variability in fMRI analyses results | https://github.com/ali4006/fuzzy-neurotools | 0 | 0| 
@@ -153,7 +154,6 @@
 | 20210921T23:02:44Z | A ground-truth fuzzing benchmark suite based on real programs with real bugs. | https://github.com/HexHive/magma | 135 | 39| 
 | 20210921T22:57:08Z | Tool for fuzzing with style 👌 | https://github.com/essentialkaos/fz | 1 | 0| 
 | 20210921T22:54:01Z | Null | https://github.com/psuchta/fuzzy-parking | 0 | 0| 
-| 20210921T22:35:16Z | An investigation of American Fuzzy Lop++ as a fuzzer | https://github.com/hark130/hardy-remix | 0 | 0| 
 
 
 
