@@ -54,6 +54,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210922T12:40:30Z | Exploits for some pwn challenges on windows and linux .  | https://github.com/HadiMed/pwn | 0 | 0| 
 | 20210922T12:28:39Z | A ideia é centralizar scripts para detecção e exploração de vulnerabilidades em sistemas com base em RCEs/CVEs. | https://github.com/BlackCyber21/exploit-toolkit | 0 | 0| 
 | 20210922T12:12:16Z | Combat + Exploit - PopWare For Anarchy Servers | https://github.com/Leuxarik/PopWare | 0 | 0| 
 | 20210922T12:08:21Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10092 | 1695| 
@@ -63,7 +64,6 @@
 | 20210922T11:29:07Z | Exploiting boundaries | https://github.com/umegbewe/polkit-vuln | 0 | 0| 
 | 20210922T11:22:22Z | This bash scripts will help you to hack remote hosts. You can choose and run one of them. | https://github.com/FabioDefilippo/linuxallremote | 27 | 5| 
 | 20210922T11:21:24Z | Tamil CTF Site | https://github.com/exploiteverythingtamil/exploiteverythingtamil.github.io | 3 | 0| 
-| 20210922T11:05:36Z | Tool for searching Exploits from Exploit Databases, etc. | https://github.com/vulsio/go-exploitdb | 124 | 36| 
 
 
 # backdoor on Github 推荐
