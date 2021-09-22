@@ -27,7 +27,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210922T11:51:28Z | CVE-2020-0796 | MS CVE 2020-0796 SMB | https://github.com/Apasys/Apasys-CVE-2020-0796 | | 
+| 20210922T11:51:28Z | CVE-2020-0796 | MS CVE 2020-0796 SMB | https://github.com/Apasys/Apasys-CVE-2020-0796 | A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests, aka %Windows SMBv3 Client/Server Remote Code Execution Vulnerability%.| 
 | 20210922T10:57:46Z | CVE-2021-38647 | CVE-2021-38647 - POC to exploit unauthenticated RCE #OMIGOD | https://github.com/AlteredSecurity/CVE-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
 | 20210922T10:47:05Z | CVE-2021-38647 | OMIGod / CVE-2021-38647 POC and Demo environment | https://github.com/SimenBai/CVE-2021-38647-POC-and-Demo-environment | Open Management Infrastructure Remote Code Execution Vulnerability| 
 | 20210922T09:49:08Z | CVE-2021-40444 | Modified code so that we don´t need to rely on CAB archives | https://github.com/Edubr2020/CVE-2021-40444--CABless | Microsoft MSHTML Remote Code Execution Vulnerability| 
@@ -54,6 +54,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210922T12:28:39Z | A ideia é centralizar scripts para detecção e exploração de vulnerabilidades em sistemas com base em RCEs/CVEs. | https://github.com/BlackCyber21/exploit-toolkit | 0 | 0| 
 | 20210922T12:12:16Z | Combat + Exploit - PopWare For Anarchy Servers | https://github.com/Leuxarik/PopWare | 0 | 0| 
 | 20210922T12:08:21Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10092 | 1695| 
 | 20210922T12:03:49Z | Null | https://github.com/RyouYoo/exploit | 0 | 0| 
@@ -63,7 +64,6 @@
 | 20210922T11:22:22Z | This bash scripts will help you to hack remote hosts. You can choose and run one of them. | https://github.com/FabioDefilippo/linuxallremote | 27 | 5| 
 | 20210922T11:21:24Z | Tamil CTF Site | https://github.com/exploiteverythingtamil/exploiteverythingtamil.github.io | 3 | 0| 
 | 20210922T11:05:36Z | Tool for searching Exploits from Exploit Databases, etc. | https://github.com/vulsio/go-exploitdb | 124 | 36| 
-| 20210922T10:57:46Z | CVE-2021-38647 - POC to exploit unauthenticated RCE #OMIGOD | https://github.com/AlteredSecurity/CVE-2021-38647 | 22 | 9| 
 
 
 # backdoor on Github 推荐
@@ -98,9 +98,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210922T12:33:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6673 | 1366| 
 | 20210922T12:24:50Z | Dictionary collection project such as Pentesing, Fuzzing, Bruteforce and BugBounty. 渗透测试、SRC漏洞挖掘、爆破、Fuzzing等字典收集项目。 | https://github.com/insightglacier/Dictionary-Of-Pentesting | 835 | 191| 
 | 20210922T12:17:07Z | Nephael Simple Python Fuzzer | https://github.com/Apasys/Apasys-Simple-Fuzzer | 7 | 0| 
-| 20210922T12:06:14Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6673 | 1366| 
 | 20210922T12:03:28Z | A curated list of awesome directed fuzzing research papers | https://github.com/strongcourage/awesome-directed-fuzzing | 97 | 18| 
 | 20210922T12:02:07Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 28 | 10| 
 | 20210922T12:01:33Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
