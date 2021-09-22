@@ -29,10 +29,10 @@
 | --- | --- | --- | --- | ---| 
 | 20210922T11:51:28Z | CVE-2020-0796 | MS CVE 2020-0796 SMB | https://github.com/Apasys/Apasys-CVE-2020-0796 | A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests, aka %Windows SMBv3 Client/Server Remote Code Execution Vulnerability%.| 
 | 20210922T10:57:46Z | CVE-2021-38647 | CVE-2021-38647 - POC to exploit unauthenticated RCE #OMIGOD | https://github.com/AlteredSecurity/CVE-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
-| 20210922T10:47:05Z | CVE-2021-38647 | OMIGod / CVE-2021-38647 POC and Demo environment | https://github.com/SimenBai/CVE-2021-38647-POC-and-Demo-environment | Open Management Infrastructure Remote Code Execution Vulnerability| 
+| 20210922T10:47:05Z | CVE-2021-38647 | OMIGod / CVE-2021-38647 POC and Demo environment | https://github.com/SimenBai/CVE-2021-38647-POC-and-Demo-environment | | 
 | 20210922T09:49:08Z | CVE-2021-40444 | Modified code so that we don´t need to rely on CAB archives | https://github.com/Edubr2020/CVE-2021-40444--CABless | Microsoft MSHTML Remote Code Execution Vulnerability| 
-| 20210922T07:33:57Z | CVE-2021-30632 | PoC CVE-2021-30632 - Out of bounds write in V8 | https://github.com/Phuong39/PoC-CVE-2021-30632 | | 
-| 20210922T01:09:21Z | CVE-2021-38647 | OMIGOD PoC | https://github.com/m1thryn/CVE-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
+| 20210922T07:33:57Z | CVE-2021-30632 | PoC CVE-2021-30632 - Out of bounds write in V8 | https://github.com/Phuong39/PoC-CVE-2021-30632 | 未查询到CVE信息| 
+| 20210922T01:09:21Z | CVE-2021-38647 | OMIGOD PoC | https://github.com/m1thryn/CVE-2021-38647 | | 
 | 20210922T00:03:26Z | CVE-2021-38647 | CVE-2021-38647 AKA "OMIGOD" vulnerability in Windows OMI  | https://github.com/corelight/CVE-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
 
 
@@ -69,7 +69,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210922T12:22:59Z | Android attack using Metasploit framework in Parrot OS   | https://github.com/PasinduWijesingha/Android-Backdoor-Attack | 0 | 0| 
+| 20210922T12:27:45Z | Android attack using Metasploit framework in Parrot OS   | https://github.com/PasinduWijesingha/Android-Backdoor-Attack | 0 | 0| 
 | 20210922T12:03:45Z | Neo est un tool / outil pour crée des backdoor sur Windows et Linux pour Windows et Linux. Développer en python3.9 et arrive dans un mois en Perl (pour les puristes) | https://github.com/Psyquoquack/Neo | 0 | 0| 
 | 20210922T11:36:15Z | A LKM rootkit targeting 4.x and 5.x kernel versions which opens a backdoor that can spawn a reverse shell to a remote host, launch malware and more. | https://github.com/h3xduck/Umbra | 41 | 7| 
 | 20210922T10:34:13Z | Just a Rick Roll with a left over poisoned love letter . | https://github.com/Mastermindx33/N3haV1ru5 | 3 | 0| 
