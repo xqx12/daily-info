@@ -89,13 +89,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210922T01:49:51Z | Config files for my GitHub profile. | https://github.com/fuzzysocksguy/fuzzysocksguy | 0 | 0| 
-| 20210922T01:20:07Z | Null | https://github.com/ajinerte/fuzzy-invention | 0 | 0| 
-| 20210922T01:07:46Z | Null | https://github.com/cycy2233/fuzzy-umbrella | 0 | 0| 
-| 20210922T00:56:58Z | Diberikan file restoran.xls berupa himpunan data 100 restoran yang ada di kota A dengan dua atribut: Kualitas pelayanan (bilangan real 1-100) dan kualitas makanan (bilangan real 1-10). Bangunlah sebuah sistem berbasis fuzzy logic untuk memilih 10 restoran terbaik di kota A. Sistem membaca masukan file restoran.xls dan mengeluarkan output berupa sebuah file peringkat.xls yang berisi satu vektor kolom berisi 10 baris angka bernilai integer (bilangan bulat) yang menyatakan nomor baris/record id restoran (1-100) pada file restoran.xls.  | https://github.com/dinipuspitarini/fuzzy-logic | 0 | 0| 
-| 20210922T00:50:38Z | Comparing tool variability and numerical variability in fMRI analyses results | https://github.com/ali4006/fuzzy-neurotools | 0 | 0| 
-| 20210922T00:50:00Z | Null | https://github.com/yasminekat/fuzzy-octo-potato | 0 | 0| 
-| 20210922T00:14:43Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20210922T12:02:07Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 28 | 10| 
+| 20210922T12:01:33Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
+| 20210922T11:56:39Z | This is the source code for the MQTT fuzzer that we used in our paper Di Paolo, E., Bassetti, E., & Spognardi, A. (2021). Security assessment of common open source MQTT brokers and clients. @ ITASEC21: Italian Conference on Cybersecurity, April 07–09, 2021, Online | https://github.com/aedoardo/mqtt | 1 | 0| 
+| 20210922T11:50:38Z | stuffs for fuzzcoin paper | https://github.com/daehee87/fuzzcoin-paper | 0 | 0| 
+| 20210922T11:30:54Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20210922T10:40:47Z | A curated list of awesome directed fuzzing research papers | https://github.com/strongcourage/awesome-directed-fuzzing | 96 | 17| 
+| 20210922T10:26:11Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
+| 20210922T10:17:52Z | Null | https://github.com/Manishnetam-Org/fuzzy-giggle | 0 | 0| 
+| 20210922T10:03:29Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6672 | 1366| 
+| 20210922T10:00:08Z | Dictionary collection project such as Pentesing, Fuzzing, Bruteforce and BugBounty. 渗透测试、SRC漏洞挖掘、爆破、Fuzzing等字典收集项目。 | https://github.com/insightglacier/Dictionary-Of-Pentesting | 834 | 191| 
 
 
 
