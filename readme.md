@@ -51,8 +51,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210923T12:31:35Z | Metasploit Multi Purpose Exploiting Toolkit For Termux | https://github.com/isuruwa/MSF-ANDRO | 2 | 1| 
-| 20210923T12:30:55Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10100 | 1696| 
+| 20210923T12:37:06Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10101 | 1697| 
+| 20210923T12:36:23Z | Metasploit Multi Purpose Exploiting Toolkit For Termux | https://github.com/isuruwa/MSF-ANDRO | 2 | 1| 
 | 20210923T12:22:14Z | Geohazards Thematic Exploitation guide | https://github.com/Terradue/doc-tep-geohazards | 9 | 26| 
 | 20210923T12:03:09Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 31 | 19| 
 | 20210923T11:55:31Z | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily. | https://github.com/cdk-team/CDK | 1714 | 266| 
