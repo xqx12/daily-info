@@ -27,7 +27,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210923T12:10:55Z | CVE-2021-40444 | Modified code so that we don´t need to rely on CAB archives | https://github.com/Edubr2020/CVE-2021-40444--CABless | Microsoft MSHTML Remote Code Execution Vulnerability| 
 | 20210923T10:56:40Z | CVE-2021-22005 | Null | https://github.com/1ZRR4H/CVE-2021-22005 | 未查询到CVE信息| 
-| 20210923T09:48:40Z | CVE-2021-30632 | PoC CVE-2021-30632 - Out of bounds write in V8 | https://github.com/Phuong39/PoC-CVE-2021-30632 | | 
+| 20210923T09:48:40Z | CVE-2021-30632 | PoC CVE-2021-30632 - Out of bounds write in V8 | https://github.com/Phuong39/PoC-CVE-2021-30632 | 未查询到CVE信息| 
 | 20210923T09:14:55Z | CVE-2021-38647 | CVE-2021-38647 - POC to exploit unauthenticated RCE #OMIGOD | https://github.com/AlteredSecurity/CVE-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
 | 20210923T04:21:14Z | CVE-2021-22005 | Null | https://github.com/pisut4152/Sigma-Rule-for-CVE-2021-22005-scanning-activity | | 
 
@@ -90,16 +90,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210923T12:15:17Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 28 | 10| 
+| 20210923T12:14:52Z | Fuzzy controller open project | https://github.com/EdsonLMarques/Fuzzy_controle | 0 | 0| 
 | 20210923T12:11:44Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 149 | 13| 
 | 20210923T12:00:56Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6680 | 1371| 
 | 20210923T11:58:09Z | Null | https://github.com/umeshk-19/fuzzy-doodle | 0 | 0| 
 | 20210923T11:51:38Z | Null | https://github.com/chrishowitt123/fuzzy_match_tuples | 0 | 0| 
-| 20210923T11:46:26Z | Fuzzy controller open project | https://github.com/EdsonLMarques/Fuzzy_controle | 0 | 0| 
 | 20210923T11:46:04Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 976 | 167| 
 | 20210923T11:18:39Z | A set of fuzzers for fuzzing various parts of the Zig standard library | https://github.com/squeek502/zig-std-lib-fuzzing | 8 | 0| 
 | 20210923T11:18:07Z | Planning tool | https://github.com/HappyDustbunny/FuzzyFlexx | 1 | 0| 
 | 20210923T10:29:37Z | An example of fuzzing Zig code with AFL++ | https://github.com/squeek502/zig-fuzzing-example | 1 | 0| 
-| 20210923T09:33:04Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 5250 | 601| 
 
 
 
