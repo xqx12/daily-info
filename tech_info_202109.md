@@ -47,7 +47,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210923T00:10:20Z | CVE-2021-22005 | Null | https://github.com/1ZRR4H/CVE-2021-22005 | 未查询到CVE信息| 
-| 20210922T22:40:10Z | CVE-2021-38647 | OMIGOD PoC | https://github.com/m1thryn/CVE-2021-38647 | | 
+| 20210922T22:40:10Z | CVE-2021-38647 | OMIGOD PoC | https://github.com/m1thryn/CVE-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
 | 20210922T20:07:54Z | CVE-2021-40444 | Modified code so that we don´t need to rely on CAB archives | https://github.com/Edubr2020/CVE-2021-40444--CABless | Microsoft MSHTML Remote Code Execution Vulnerability| 
 | 20210922T19:53:44Z | CVE-2021-30632 | PoC CVE-2021-30632 - Out of bounds write in V8 | https://github.com/Phuong39/PoC-CVE-2021-30632 | 未查询到CVE信息| 
 | 20210922T18:46:39Z | CVE-2021-38647 | CVE-2021-38647 - POC to exploit unauthenticated RCE #OMIGOD | https://github.com/AlteredSecurity/CVE-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210923T00:52:48Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 22 | 14| 
 | 20210923T00:03:23Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 31 | 18| 
 | 20210922T23:26:20Z | Collection of Discord hacking tools/fun stuff/exploits that is completely developed using NodeJS. | https://github.com/I2rys/ODiscord | 6 | 4| 
 | 20210922T22:19:28Z | This is a GUI application of the Contract Automata Toolkit,  exploiting the contract automata library to put contract automata at work | https://github.com/davidebasile/ContractAutomataApp | 0 | 0| 
@@ -97,7 +98,6 @@
 | 20210922T21:29:01Z | Auto malicious git repository creation to exploit CVE-2018-11235 a Remote Code Execution using Git Sub module. | https://github.com/RyouYoo/CVE-2018-11235 | 1 | 0| 
 | 20210922T20:39:51Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10093 | 1695| 
 | 20210922T20:31:01Z | Personal dump of exploits and POCs | https://github.com/guerzon/exploits | 0 | 0| 
-| 20210922T20:30:46Z | OWASP Benchmark is a test suite designed to verify the speed and accuracy of software vulnerability detection tools. A fully runnable web app written in Java, it supports analysis by Static (SAST), Dynamic (DAST), and Runtime (IAST) tools that support Java. The idea is that since it is fully runnable and all the vulnerabilities are actually exploitable, it’s a fair test for any kind of vulnerability detection tool.  For more details on this project, please see the OWASP Benchmark Project home page. | https://github.com/OWASP-Benchmark/BenchmarkJava | 415 | 444| 
 
 
 # backdoor on Github 推荐
