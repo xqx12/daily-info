@@ -50,7 +50,7 @@
 | 20210922T22:40:10Z | CVE-2021-38647 | OMIGOD PoC | https://github.com/m1thryn/CVE-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
 | 20210922T20:07:54Z | CVE-2021-40444 | Modified code so that we don´t need to rely on CAB archives | https://github.com/Edubr2020/CVE-2021-40444--CABless | Microsoft MSHTML Remote Code Execution Vulnerability| 
 | 20210922T19:53:44Z | CVE-2021-30632 | PoC CVE-2021-30632 - Out of bounds write in V8 | https://github.com/Phuong39/PoC-CVE-2021-30632 | 未查询到CVE信息| 
-| 20210922T18:46:39Z | CVE-2021-38647 | CVE-2021-38647 - POC to exploit unauthenticated RCE #OMIGOD | https://github.com/AlteredSecurity/CVE-2021-38647 | | 
+| 20210922T18:46:39Z | CVE-2021-38647 | CVE-2021-38647 - POC to exploit unauthenticated RCE #OMIGOD | https://github.com/AlteredSecurity/CVE-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
 | 20210922T15:29:15Z | cve-2021-38647 | https://github.com/corelight/CVE-2021-38647 without the bloat | https://github.com/abousteif/cve-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
 | 20210922T14:32:41Z | CVE-2021-30860 | Scan for evidence of CVE-2021-30860 (FORCEDENTRY) exploit | https://github.com/Levilutz/CVE-2021-30860 | An integer overflow was addressed with improved input validation. This issue is fixed in Security Update 2021-005 Catalina, iOS 14.8 and iPadOS 14.8, macOS Big Sur 11.6, watchOS 7.6.2. Processing a maliciously crafted PDF may lead to arbitrary code execution. Apple is aware of a report that this issue may have been actively exploited.| 
 | 20210922T11:51:28Z | CVE-2020-0796 | MS CVE 2020-0796 SMB | https://github.com/Apasys/Apasys-CVE-2020-0796 | A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests, aka %Windows SMBv3 Client/Server Remote Code Execution Vulnerability%.| 
@@ -144,6 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210923T01:13:13Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2057 | 406| 
 | 20210923T01:04:13Z | Comparing tool variability and numerical variability in fMRI analyses results | https://github.com/ali4006/fuzzy-neurotools | 0 | 0| 
 | 20210923T00:47:10Z | bash script to run from installation media to setup gentoo automagically | https://github.com/fjp321/fuzzy-goggles | 0 | 0| 
 | 20210922T23:58:43Z | Trabalho realizado para a matéria TÓPICOS ESPECIAIS EM SISTEMAS DE PROGRAMAÇÃO VI | https://github.com/herecomesMac/controle_simples_seguidor_linha_logica_fuzzy | 0 | 0| 
@@ -153,7 +154,6 @@
 | 20210922T21:18:31Z | fuzzing audio adversarial attacks for voice assistant | https://github.com/Kur1su0/software_analysis_final_proj | 0 | 1| 
 | 20210922T21:00:35Z | Null | https://github.com/xfuzzycomp/FuzzyAsteroids | 1 | 0| 
 | 20210922T20:40:10Z | Null | https://github.com/MahindaMK/A-generalized-fuzzy-k-nearest-neighbor-regression-model-based-on-Minkowski-distance | 0 | 0| 
-| 20210922T20:20:07Z | A fork and successor of the Sulley Fuzzing Framework | https://github.com/jtpereyda/boofuzz | 1310 | 259| 
 
 
 
