@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210923T12:11:45Z | Metasploit Multi Purpose Exploiting Toolkit For Termux | https://github.com/isuruwa/MSF-ANDRO | 1 | 0| 
 | 20210923T12:03:09Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 31 | 19| 
 | 20210923T11:55:31Z | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily. | https://github.com/cdk-team/CDK | 1714 | 266| 
 | 20210923T11:38:43Z | Null | https://github.com/Athis-Offsec/Exploits-I-Made | 0 | 0| 
@@ -97,7 +98,6 @@
 | 20210923T10:30:52Z | XSS | https://github.com/King-Sign/Javascript-Exploitation | 0 | 0| 
 | 20210923T10:07:16Z | Exploration-Exploitation using MAB | https://github.com/aegoe/MAB | 0 | 1| 
 | 20210923T09:57:17Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 78 | 13| 
-| 20210923T09:51:04Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 6484 | 1801| 
 
 
 # backdoor on Github 推荐
