@@ -31,7 +31,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210922T22:40:10Z | CVE-2021-38647 | OMIGOD PoC | https://github.com/m1thryn/CVE-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
-| 20210922T20:07:54Z | CVE-2021-40444 | Modified code so that we don´t need to rely on CAB archives | https://github.com/Edubr2020/CVE-2021-40444--CABless | Microsoft MSHTML Remote Code Execution Vulnerability| 
+| 20210922T20:07:54Z | CVE-2021-40444 | Modified code so that we don´t need to rely on CAB archives | https://github.com/Edubr2020/CVE-2021-40444--CABless | | 
 | 20210922T19:53:44Z | CVE-2021-30632 | PoC CVE-2021-30632 - Out of bounds write in V8 | https://github.com/Phuong39/PoC-CVE-2021-30632 | 未查询到CVE信息| 
 | 20210922T18:46:39Z | CVE-2021-38647 | CVE-2021-38647 - POC to exploit unauthenticated RCE #OMIGOD | https://github.com/AlteredSecurity/CVE-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
 | 20210922T15:29:15Z | cve-2021-38647 | https://github.com/corelight/CVE-2021-38647 without the bloat | https://github.com/abousteif/cve-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
