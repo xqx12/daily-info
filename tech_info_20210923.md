@@ -28,7 +28,7 @@
 | 20210923T11:11:09Z | CVE-2021-40444 | Modified code so that we don´t need to rely on CAB archives | https://github.com/Edubr2020/CVE-2021-40444--CABless | Microsoft MSHTML Remote Code Execution Vulnerability| 
 | 20210923T10:56:40Z | CVE-2021-22005 | Null | https://github.com/1ZRR4H/CVE-2021-22005 | 未查询到CVE信息| 
 | 20210923T09:48:40Z | CVE-2021-30632 | PoC CVE-2021-30632 - Out of bounds write in V8 | https://github.com/Phuong39/PoC-CVE-2021-30632 | 未查询到CVE信息| 
-| 20210923T09:14:55Z | CVE-2021-38647 | CVE-2021-38647 - POC to exploit unauthenticated RCE #OMIGOD | https://github.com/AlteredSecurity/CVE-2021-38647 | | 
+| 20210923T09:14:55Z | CVE-2021-38647 | CVE-2021-38647 - POC to exploit unauthenticated RCE #OMIGOD | https://github.com/AlteredSecurity/CVE-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
 | 20210923T04:21:14Z | CVE-2021-22005 | Null | https://github.com/pisut4152/Sigma-Rule-for-CVE-2021-22005-scanning-activity | 未查询到CVE信息| 
 
 
@@ -51,11 +51,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210923T01:37:59Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 5981 | 1423| 
-| 20210923T01:16:06Z | Root shell exploit for several Xiaomi routers: 4A Gigabit, 4A 100M, 4, 4C, 3Gv2, 4Q, miWifi 3C... | https://github.com/acecilia/OpenWRTInvasion | 536 | 113| 
-| 20210923T01:03:01Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 31 | 19| 
-| 20210923T01:01:00Z | Auto malicious git repository creation to exploit CVE-2018-11235 a Remote Code Execution using Git Sub module. | https://github.com/RyouYoo/CVE-2018-11235 | 2 | 0| 
-| 20210923T00:52:48Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 22 | 14| 
+| 20210923T11:55:31Z | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily. | https://github.com/cdk-team/CDK | 1714 | 266| 
+| 20210923T11:38:43Z | Null | https://github.com/Athis-Offsec/Exploits-I-Made | 0 | 0| 
+| 20210923T11:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10099 | 1695| 
+| 20210923T11:03:15Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 31 | 19| 
+| 20210923T10:49:34Z | Metasploit Exploiting Tool | https://github.com/isuruwa/MSF-EXPLOIT | 3 | 2| 
+| 20210923T10:45:13Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 3941 | 543| 
+| 20210923T10:30:52Z | XSS | https://github.com/King-Sign/Javascript-Exploitation | 0 | 0| 
+| 20210923T10:07:16Z | Exploration-Exploitation using MAB | https://github.com/aegoe/MAB | 0 | 1| 
+| 20210923T09:57:17Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 78 | 13| 
+| 20210923T09:51:04Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 6484 | 1801| 
 
 
 # backdoor on Github 推荐
@@ -72,6 +77,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210923T05:49:36Z | Symbolica%s open-source symbolic execution engine. | https://github.com/SymbolicaDev/Symbolica | 28 | 2| 
+| 20210923T05:34:25Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1780 | 505| 
+| 20210923T05:25:41Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2460 | 363| 
 
 
 # big4 on Github 推荐

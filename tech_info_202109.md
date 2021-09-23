@@ -49,7 +49,7 @@
 | 20210923T11:11:09Z | CVE-2021-40444 | Modified code so that we don´t need to rely on CAB archives | https://github.com/Edubr2020/CVE-2021-40444--CABless | Microsoft MSHTML Remote Code Execution Vulnerability| 
 | 20210923T10:56:40Z | CVE-2021-22005 | Null | https://github.com/1ZRR4H/CVE-2021-22005 | 未查询到CVE信息| 
 | 20210923T09:48:40Z | CVE-2021-30632 | PoC CVE-2021-30632 - Out of bounds write in V8 | https://github.com/Phuong39/PoC-CVE-2021-30632 | 未查询到CVE信息| 
-| 20210923T09:14:55Z | CVE-2021-38647 | CVE-2021-38647 - POC to exploit unauthenticated RCE #OMIGOD | https://github.com/AlteredSecurity/CVE-2021-38647 | | 
+| 20210923T09:14:55Z | CVE-2021-38647 | CVE-2021-38647 - POC to exploit unauthenticated RCE #OMIGOD | https://github.com/AlteredSecurity/CVE-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
 | 20210923T04:21:14Z | CVE-2021-22005 | Null | https://github.com/pisut4152/Sigma-Rule-for-CVE-2021-22005-scanning-activity | 未查询到CVE信息| 
 | 20210922T22:40:10Z | CVE-2021-38647 | OMIGOD PoC | https://github.com/m1thryn/CVE-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
 | 20210922T15:29:15Z | cve-2021-38647 | https://github.com/corelight/CVE-2021-38647 without the bloat | https://github.com/abousteif/cve-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
@@ -88,16 +88,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210923T01:37:59Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 5981 | 1423| 
-| 20210923T01:16:06Z | Root shell exploit for several Xiaomi routers: 4A Gigabit, 4A 100M, 4, 4C, 3Gv2, 4Q, miWifi 3C... | https://github.com/acecilia/OpenWRTInvasion | 536 | 113| 
-| 20210923T01:03:01Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 31 | 19| 
-| 20210923T01:01:00Z | Auto malicious git repository creation to exploit CVE-2018-11235 a Remote Code Execution using Git Sub module. | https://github.com/RyouYoo/CVE-2018-11235 | 2 | 0| 
-| 20210923T00:52:48Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 22 | 14| 
-| 20210922T23:26:20Z | Collection of Discord hacking tools/fun stuff/exploits that is completely developed using NodeJS. | https://github.com/I2rys/ODiscord | 6 | 4| 
-| 20210922T22:19:28Z | This is a GUI application of the Contract Automata Toolkit,  exploiting the contract automata library to put contract automata at work | https://github.com/davidebasile/ContractAutomataApp | 0 | 0| 
-| 20210922T22:08:09Z | Ded Security Framework is a tool aimed at security professionals | https://github.com/dedsecurity/dedsecurity-framework | 10 | 7| 
-| 20210922T22:01:56Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 9 | 4| 
-| 20210922T22:01:30Z | This project aims to exploit the blockchain technology in the health sector to create a decentralized and secure application that allows the management of medical data of patients while ensuring integrity, confidentiality and transparency. | https://github.com/Manel-Fares/Medical-Records-Management-Using-Blockchain | 0 | 0| 
+| 20210923T11:55:31Z | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily. | https://github.com/cdk-team/CDK | 1714 | 266| 
+| 20210923T11:38:43Z | Null | https://github.com/Athis-Offsec/Exploits-I-Made | 0 | 0| 
+| 20210923T11:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10099 | 1695| 
+| 20210923T11:03:15Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 31 | 19| 
+| 20210923T10:49:34Z | Metasploit Exploiting Tool | https://github.com/isuruwa/MSF-EXPLOIT | 3 | 2| 
+| 20210923T10:45:13Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 3941 | 543| 
+| 20210923T10:30:52Z | XSS | https://github.com/King-Sign/Javascript-Exploitation | 0 | 0| 
+| 20210923T10:07:16Z | Exploration-Exploitation using MAB | https://github.com/aegoe/MAB | 0 | 1| 
+| 20210923T09:57:17Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 78 | 13| 
+| 20210923T09:51:04Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 6484 | 1801| 
 
 
 # backdoor on Github 推荐
@@ -118,13 +118,13 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210923T05:49:36Z | Symbolica%s open-source symbolic execution engine. | https://github.com/SymbolicaDev/Symbolica | 28 | 2| 
+| 20210923T05:34:25Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1780 | 505| 
+| 20210923T05:25:41Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2460 | 363| 
 | 20210922T21:01:50Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 474 | 74| 
-| 20210922T19:53:14Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1779 | 505| 
-| 20210922T14:09:39Z | Symbolica%s open-source symbolic execution engine. | https://github.com/SymbolicaDev/Symbolica | 28 | 2| 
 | 20210922T14:06:34Z | A RISC-V RV32 virtual prototype based on riscv-vp with symbolic execution support | https://github.com/agra-uni-bremen/symex-vp | 3 | 1| 
 | 20210922T06:07:26Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1888 | 395| 
 | 20210922T02:46:04Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 30 | 6| 
-| 20210922T00:58:16Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2459 | 363| 
 | 20210921T14:57:43Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 158 | 34| 
 | 20210921T10:12:01Z | A Ghidra extension that allows you to run Angr symbolic execution using the Pcode from Ghidra. | https://github.com/jdkleuver/PcodeSym | 1 | 0| 
 | 20210921T08:02:02Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 661 | 67| 
