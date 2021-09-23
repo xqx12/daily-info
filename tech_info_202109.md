@@ -144,7 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210923T01:44:42Z | bash script to run from installation media to setup gentoo automagically | https://github.com/fjp321/fuzzy-goggles | 0 | 0| 
+| 20210923T01:54:02Z | bash script to run from installation media to setup gentoo automagically | https://github.com/fjp321/fuzzy-goggles | 0 | 0| 
 | 20210923T01:37:00Z | Null | https://github.com/igorsodre/fuzzy-trader | 0 | 0| 
 | 20210923T01:23:15Z | Comparing tool variability and numerical variability in fMRI analyses results | https://github.com/ali4006/fuzzy-neurotools | 0 | 0| 
 | 20210923T01:16:17Z | This holds more information | https://github.com/MidNight0wl/fuzzy-guide | 0 | 0| 
