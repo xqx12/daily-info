@@ -144,6 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210923T01:16:17Z | This holds more information | https://github.com/MidNight0wl/fuzzy-guide | 0 | 0| 
 | 20210923T01:13:13Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2057 | 406| 
 | 20210923T01:04:13Z | Comparing tool variability and numerical variability in fMRI analyses results | https://github.com/ali4006/fuzzy-neurotools | 0 | 0| 
 | 20210923T00:47:10Z | bash script to run from installation media to setup gentoo automagically | https://github.com/fjp321/fuzzy-goggles | 0 | 0| 
@@ -153,7 +154,6 @@
 | 20210922T21:35:00Z | Fuzzy Clustering for iris dataset | https://github.com/muhannadAltabba/Fuzzy-Clustering | 0 | 0| 
 | 20210922T21:18:31Z | fuzzing audio adversarial attacks for voice assistant | https://github.com/Kur1su0/software_analysis_final_proj | 0 | 1| 
 | 20210922T21:00:35Z | Null | https://github.com/xfuzzycomp/FuzzyAsteroids | 1 | 0| 
-| 20210922T20:40:10Z | Null | https://github.com/MahindaMK/A-generalized-fuzzy-k-nearest-neighbor-regression-model-based-on-Minkowski-distance | 0 | 0| 
 
 
 
