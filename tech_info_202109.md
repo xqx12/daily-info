@@ -144,6 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210923T12:38:35Z | Null | https://github.com/IlhamDilan/Triangular-Fuzzy_CPM | 0 | 0| 
 | 20210923T12:19:30Z | Null | https://github.com/nhsd-exeter/dos-service-fuzzy-search-api | 1 | 0| 
 | 20210923T12:15:17Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 28 | 10| 
 | 20210923T12:14:52Z | Fuzzy controller open project | https://github.com/EdsonLMarques/Fuzzy_controle | 0 | 0| 
@@ -153,7 +154,6 @@
 | 20210923T11:51:38Z | Null | https://github.com/chrishowitt123/fuzzy_match_tuples | 0 | 0| 
 | 20210923T11:46:04Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 976 | 167| 
 | 20210923T11:18:39Z | A set of fuzzers for fuzzing various parts of the Zig standard library | https://github.com/squeek502/zig-std-lib-fuzzing | 8 | 0| 
-| 20210923T11:18:07Z | Planning tool | https://github.com/HappyDustbunny/FuzzyFlexx | 1 | 0| 
 
 
 
