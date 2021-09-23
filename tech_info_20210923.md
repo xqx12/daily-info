@@ -51,7 +51,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210923T12:11:45Z | Metasploit Multi Purpose Exploiting Toolkit For Termux | https://github.com/isuruwa/MSF-ANDRO | 1 | 0| 
+| 20210923T12:17:56Z | Metasploit Multi Purpose Exploiting Toolkit For Termux | https://github.com/isuruwa/MSF-ANDRO | 2 | 1| 
 | 20210923T12:03:09Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 31 | 19| 
 | 20210923T11:55:31Z | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily. | https://github.com/cdk-team/CDK | 1714 | 266| 
 | 20210923T11:38:43Z | Null | https://github.com/Athis-Offsec/Exploits-I-Made | 0 | 0| 
@@ -90,6 +90,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210923T12:19:30Z | Null | https://github.com/nhsd-exeter/dos-service-fuzzy-search-api | 1 | 0| 
 | 20210923T12:15:17Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 28 | 10| 
 | 20210923T12:14:52Z | Fuzzy controller open project | https://github.com/EdsonLMarques/Fuzzy_controle | 0 | 0| 
 | 20210923T12:11:44Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 149 | 13| 
@@ -99,7 +100,6 @@
 | 20210923T11:46:04Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 976 | 167| 
 | 20210923T11:18:39Z | A set of fuzzers for fuzzing various parts of the Zig standard library | https://github.com/squeek502/zig-std-lib-fuzzing | 8 | 0| 
 | 20210923T11:18:07Z | Planning tool | https://github.com/HappyDustbunny/FuzzyFlexx | 1 | 0| 
-| 20210923T10:29:37Z | An example of fuzzing Zig code with AFL++ | https://github.com/squeek502/zig-fuzzing-example | 1 | 0| 
 
 
 
