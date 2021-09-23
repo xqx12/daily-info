@@ -36,7 +36,7 @@
 | 20210922T18:46:39Z | CVE-2021-38647 | CVE-2021-38647 - POC to exploit unauthenticated RCE #OMIGOD | https://github.com/AlteredSecurity/CVE-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
 | 20210922T15:29:15Z | cve-2021-38647 | https://github.com/corelight/CVE-2021-38647 without the bloat | https://github.com/abousteif/cve-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
 | 20210922T14:32:41Z | CVE-2021-30860 | Scan for evidence of CVE-2021-30860 (FORCEDENTRY) exploit | https://github.com/Levilutz/CVE-2021-30860 | An integer overflow was addressed with improved input validation. This issue is fixed in Security Update 2021-005 Catalina, iOS 14.8 and iPadOS 14.8, macOS Big Sur 11.6, watchOS 7.6.2. Processing a maliciously crafted PDF may lead to arbitrary code execution. Apple is aware of a report that this issue may have been actively exploited.| 
-| 20210922T11:51:28Z | CVE-2020-0796 | MS CVE 2020-0796 SMB | https://github.com/Apasys/Apasys-CVE-2020-0796 | | 
+| 20210922T11:51:28Z | CVE-2020-0796 | MS CVE 2020-0796 SMB | https://github.com/Apasys/Apasys-CVE-2020-0796 | A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests, aka %Windows SMBv3 Client/Server Remote Code Execution Vulnerability%.| 
 | 20210922T10:47:05Z | CVE-2021-38647 | OMIGod / CVE-2021-38647 POC and Demo environment | https://github.com/SimenBai/CVE-2021-38647-POC-and-Demo-environment | Open Management Infrastructure Remote Code Execution Vulnerability| 
 | 20210922T00:03:26Z | CVE-2021-38647 | CVE-2021-38647 AKA "OMIGOD" vulnerability in Windows OMI  | https://github.com/corelight/CVE-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
 
@@ -118,7 +118,7 @@
 | 20210922T20:40:10Z | Null | https://github.com/MahindaMK/A-generalized-fuzzy-k-nearest-neighbor-regression-model-based-on-Minkowski-distance | 0 | 0| 
 | 20210922T20:20:07Z | A fork and successor of the Sulley Fuzzing Framework | https://github.com/jtpereyda/boofuzz | 1310 | 259| 
 | 20210922T20:06:50Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 301 | 39| 
-| 20210922T19:28:57Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6676 | 1370| 
+| 20210922T19:25:45Z | Null | https://github.com/dataunitylab/fuzzy-sets | 0 | 0| 
 
 
 

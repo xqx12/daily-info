@@ -53,7 +53,7 @@
 | 20210922T18:46:39Z | CVE-2021-38647 | CVE-2021-38647 - POC to exploit unauthenticated RCE #OMIGOD | https://github.com/AlteredSecurity/CVE-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
 | 20210922T15:29:15Z | cve-2021-38647 | https://github.com/corelight/CVE-2021-38647 without the bloat | https://github.com/abousteif/cve-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
 | 20210922T14:32:41Z | CVE-2021-30860 | Scan for evidence of CVE-2021-30860 (FORCEDENTRY) exploit | https://github.com/Levilutz/CVE-2021-30860 | An integer overflow was addressed with improved input validation. This issue is fixed in Security Update 2021-005 Catalina, iOS 14.8 and iPadOS 14.8, macOS Big Sur 11.6, watchOS 7.6.2. Processing a maliciously crafted PDF may lead to arbitrary code execution. Apple is aware of a report that this issue may have been actively exploited.| 
-| 20210922T11:51:28Z | CVE-2020-0796 | MS CVE 2020-0796 SMB | https://github.com/Apasys/Apasys-CVE-2020-0796 | | 
+| 20210922T11:51:28Z | CVE-2020-0796 | MS CVE 2020-0796 SMB | https://github.com/Apasys/Apasys-CVE-2020-0796 | A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests, aka %Windows SMBv3 Client/Server Remote Code Execution Vulnerability%.| 
 | 20210922T10:47:05Z | CVE-2021-38647 | OMIGod / CVE-2021-38647 POC and Demo environment | https://github.com/SimenBai/CVE-2021-38647-POC-and-Demo-environment | Open Management Infrastructure Remote Code Execution Vulnerability| 
 | 20210922T00:03:26Z | CVE-2021-38647 | CVE-2021-38647 AKA "OMIGOD" vulnerability in Windows OMI  | https://github.com/corelight/CVE-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
 
@@ -144,6 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210923T01:54:42Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6677 | 1370| 
 | 20210923T01:54:02Z | bash script to run from installation media to setup gentoo automagically | https://github.com/fjp321/fuzzy-goggles | 0 | 0| 
 | 20210923T01:37:00Z | Null | https://github.com/igorsodre/fuzzy-trader | 0 | 0| 
 | 20210923T01:23:15Z | Comparing tool variability and numerical variability in fMRI analyses results | https://github.com/ali4006/fuzzy-neurotools | 0 | 0| 
@@ -153,7 +154,6 @@
 | 20210922T22:47:31Z | Null | https://github.com/tkuar/fuzzy-dollop | 0 | 0| 
 | 20210922T22:07:40Z | Config files for my GitHub profile. | https://github.com/Fuzzywuzzy0x/Fuzzywuzzy0x | 0 | 0| 
 | 20210922T21:35:00Z | Fuzzy Clustering for iris dataset | https://github.com/muhannadAltabba/Fuzzy-Clustering | 0 | 0| 
-| 20210922T21:18:31Z | fuzzing audio adversarial attacks for voice assistant | https://github.com/Kur1su0/software_analysis_final_proj | 0 | 1| 
 
 
 
