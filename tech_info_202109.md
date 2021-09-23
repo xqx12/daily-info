@@ -52,8 +52,8 @@
 | 20210922T18:46:39Z | CVE-2021-38647 | CVE-2021-38647 - POC to exploit unauthenticated RCE #OMIGOD | https://github.com/AlteredSecurity/CVE-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
 | 20210922T15:29:15Z | cve-2021-38647 | https://github.com/corelight/CVE-2021-38647 without the bloat | https://github.com/abousteif/cve-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
 | 20210922T14:32:41Z | CVE-2021-30860 | Scan for evidence of CVE-2021-30860 (FORCEDENTRY) exploit | https://github.com/Levilutz/CVE-2021-30860 | An integer overflow was addressed with improved input validation. This issue is fixed in Security Update 2021-005 Catalina, iOS 14.8 and iPadOS 14.8, macOS Big Sur 11.6, watchOS 7.6.2. Processing a maliciously crafted PDF may lead to arbitrary code execution. Apple is aware of a report that this issue may have been actively exploited.| 
-| 20210922T11:51:28Z | CVE-2020-0796 | MS CVE 2020-0796 SMB | https://github.com/Apasys/Apasys-CVE-2020-0796 | | 
-| 20210922T10:47:05Z | CVE-2021-38647 | OMIGod / CVE-2021-38647 POC and Demo environment | https://github.com/SimenBai/CVE-2021-38647-POC-and-Demo-environment | Open Management Infrastructure Remote Code Execution Vulnerability| 
+| 20210922T11:51:28Z | CVE-2020-0796 | MS CVE 2020-0796 SMB | https://github.com/Apasys/Apasys-CVE-2020-0796 | A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests, aka %Windows SMBv3 Client/Server Remote Code Execution Vulnerability%.| 
+| 20210922T10:47:05Z | CVE-2021-38647 | OMIGod / CVE-2021-38647 POC and Demo environment | https://github.com/SimenBai/CVE-2021-38647-POC-and-Demo-environment | | 
 | 20210922T00:03:26Z | CVE-2021-38647 | CVE-2021-38647 AKA "OMIGOD" vulnerability in Windows OMI  | https://github.com/corelight/CVE-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
 | 20210921T11:43:41Z | CVE-2021-24499 | Mass exploitation of CVE-2021-24499 unauthenticated upload leading to remote code execution in Workreap theme. | https://github.com/RyouYoo/CVE-2021-24499 | The Workreap WordPress theme before 2.2.2 AJAX actions workreap_award_temp_file_uploader and workreap_temp_file_uploader did not perform nonce checks, or validate that the request is from a valid user in any other way. The endpoints allowed for uploading arbitrary files to the uploads/workreap-temp directory. Uploaded files were neither sanitized nor validated, allowing an unauthenticated visitor to upload executable code such as php scripts.| 
 
@@ -118,16 +118,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210922T12:19:03Z | Symbolica%s open-source symbolic execution engine. | https://github.com/SymbolicaDev/Symbolica | 28 | 2| 
-| 20210922T07:33:37Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 473 | 74| 
+| 20210922T21:01:50Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 474 | 74| 
+| 20210922T19:53:14Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1779 | 505| 
+| 20210922T14:09:39Z | Symbolica%s open-source symbolic execution engine. | https://github.com/SymbolicaDev/Symbolica | 28 | 2| 
+| 20210922T14:06:34Z | A RISC-V RV32 virtual prototype based on riscv-vp with symbolic execution support | https://github.com/agra-uni-bremen/symex-vp | 3 | 1| 
 | 20210922T06:07:26Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1888 | 395| 
 | 20210922T02:46:04Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 30 | 6| 
 | 20210922T00:58:16Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2459 | 363| 
 | 20210921T14:57:43Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 158 | 34| 
 | 20210921T10:12:01Z | A Ghidra extension that allows you to run Angr symbolic execution using the Pcode from Ghidra. | https://github.com/jdkleuver/PcodeSym | 1 | 0| 
 | 20210921T08:02:02Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 661 | 67| 
-| 20210921T06:53:46Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1777 | 505| 
-| 20210921T05:49:36Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 7 | 4| 
 
 
 # big4 on Github 推荐
