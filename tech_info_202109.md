@@ -144,7 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210923T00:45:29Z | bash script to run from installation media to setup gentoo automagically | https://github.com/fjp321/fuzzy-goggles | 0 | 0| 
+| 20210923T00:47:10Z | bash script to run from installation media to setup gentoo automagically | https://github.com/fjp321/fuzzy-goggles | 0 | 0| 
 | 20210922T23:58:43Z | Trabalho realizado para a matéria TÓPICOS ESPECIAIS EM SISTEMAS DE PROGRAMAÇÃO VI | https://github.com/herecomesMac/controle_simples_seguidor_linha_logica_fuzzy | 0 | 0| 
 | 20210922T22:47:31Z | Null | https://github.com/tkuar/fuzzy-dollop | 0 | 0| 
 | 20210922T22:07:40Z | Config files for my GitHub profile. | https://github.com/Fuzzywuzzy0x/Fuzzywuzzy0x | 0 | 0| 
