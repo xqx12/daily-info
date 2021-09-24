@@ -105,8 +105,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210924T12:30:39Z | A black-box fuzzer to detect custom permission related privilege escalation vulnerabilities in Android.  | https://github.com/little-leiry/CuPerFuzzer | 0 | 0| 
-| 20210924T12:27:56Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6684 | 1371| 
+| 20210924T12:38:31Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6684 | 1371| 
+| 20210924T12:32:40Z | A black-box fuzzer to detect custom permission related privilege escalation vulnerabilities in Android.  | https://github.com/little-leiry/CuPerFuzzer | 0 | 0| 
 | 20210924T12:23:27Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210924T12:15:12Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 28 | 10| 
 | 20210924T12:12:18Z | Fuzzy matching for `company-mode%. | https://github.com/jcs-elpa/company-fuzzy | 65 | 6| 
