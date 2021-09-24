@@ -55,7 +55,7 @@
 | 20210922T15:29:15Z | cve-2021-38647 | https://github.com/corelight/CVE-2021-38647 without the bloat | https://github.com/abousteif/cve-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
 | 20210922T14:32:41Z | CVE-2021-30860 | Scan for evidence of CVE-2021-30860 (FORCEDENTRY) exploit | https://github.com/Levilutz/CVE-2021-30860 | An integer overflow was addressed with improved input validation. This issue is fixed in Security Update 2021-005 Catalina, iOS 14.8 and iPadOS 14.8, macOS Big Sur 11.6, watchOS 7.6.2. Processing a maliciously crafted PDF may lead to arbitrary code execution. Apple is aware of a report that this issue may have been actively exploited.| 
 | 20210922T11:51:28Z | CVE-2020-0796 | MS CVE 2020-0796 SMB | https://github.com/Apasys/Apasys-CVE-2020-0796 | A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests, aka %Windows SMBv3 Client/Server Remote Code Execution Vulnerability%.| 
-| 20210922T10:47:05Z | CVE-2021-38647 | OMIGod / CVE-2021-38647 POC and Demo environment | https://github.com/SimenBai/CVE-2021-38647-POC-and-Demo-environment | Open Management Infrastructure Remote Code Execution Vulnerability| 
+| 20210922T10:47:05Z | CVE-2021-38647 | OMIGod / CVE-2021-38647 POC and Demo environment | https://github.com/SimenBai/CVE-2021-38647-POC-and-Demo-environment | | 
 
 
 # klee on Github 推荐
@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210924T00:20:14Z | Linux kernel CVE exploit analysis report and relative debug environment. You don%t need to compile Linux kernel and configure your environment anymore.  | https://github.com/bsauce/kernel-exploit-factory | 107 | 20| 
 | 20210924T00:07:50Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 10 | 4| 
 | 20210924T00:03:15Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
 | 20210923T23:59:13Z | auto exploiter com_user | https://github.com/kyukazamiqq/com_userexploiter | 0 | 0| 
@@ -97,7 +98,6 @@
 | 20210923T22:53:55Z | OWASP Benchmark is a test suite designed to verify the speed and accuracy of software vulnerability detection tools. A fully runnable web app written in Java, it supports analysis by Static (SAST), Dynamic (DAST), and Runtime (IAST) tools that support Java. The idea is that since it is fully runnable and all the vulnerabilities are actually exploitable, it’s a fair test for any kind of vulnerability detection tool.  For more details on this project, please see the OWASP Benchmark Project home page. | https://github.com/OWASP-Benchmark/BenchmarkJava | 415 | 445| 
 | 20210923T22:42:40Z | Learn Binary Exploitation with sample problems. | https://github.com/Adamkadaban/LearnPwn | 0 | 0| 
 | 20210923T22:02:58Z | Simple Serverless Application with a few weakness to exploit | https://github.com/JustinDPerkins/vulnerable-serverless-application-python | 1 | 0| 
-| 20210923T21:46:32Z | HatVenom is a HatSploit native powerful payload generation and shellcode injection tool that provides support for common platforms and architectures. | https://github.com/EntySec/HatVenom | 54 | 18| 
 
 
 # backdoor on Github 推荐
