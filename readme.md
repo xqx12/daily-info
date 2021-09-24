@@ -105,13 +105,13 @@
 | 20210923T23:58:24Z | Null | https://github.com/jhyoon929/fuzzy-happiness | 0 | 0| 
 | 20210923T23:32:24Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210923T23:31:28Z | Fuzzing tool to test .NET code generation | https://github.com/kunalspathak/Antigen | 0 | 0| 
-| 20210923T23:18:22Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1053 | 46| 
 | 20210923T23:16:59Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2393 | 144| 
 | 20210923T22:41:11Z | Comparing tool variability and numerical variability in fMRI analyses results | https://github.com/ali4006/fuzzy-neurotools | 0 | 0| 
 | 20210923T22:36:47Z | Gentoo overlay | https://github.com/lferra/fuzzy-potato | 0 | 0| 
 | 20210923T22:05:39Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
 | 20210923T22:02:06Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210923T21:43:12Z | A fork and successor of the Sulley Fuzzing Framework | https://github.com/jtpereyda/boofuzz | 1310 | 259| 
+| 20210923T21:42:06Z | rstr is a helper module for easily generating random strings of various types. It could be useful for fuzz testing, generating dummy data, or other applications. | https://github.com/leapfrogonline/rstr | 24 | 3| 
 
 
 

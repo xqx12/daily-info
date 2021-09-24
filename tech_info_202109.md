@@ -144,11 +144,11 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210924T00:24:14Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1053 | 46| 
 | 20210924T00:06:15Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 33680 | 17526| 
 | 20210923T23:58:24Z | Null | https://github.com/jhyoon929/fuzzy-happiness | 0 | 0| 
 | 20210923T23:32:24Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210923T23:31:28Z | Fuzzing tool to test .NET code generation | https://github.com/kunalspathak/Antigen | 0 | 0| 
-| 20210923T23:18:22Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1053 | 46| 
 | 20210923T23:16:59Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2393 | 144| 
 | 20210923T22:41:11Z | Comparing tool variability and numerical variability in fMRI analyses results | https://github.com/ali4006/fuzzy-neurotools | 0 | 0| 
 | 20210923T22:36:47Z | Gentoo overlay | https://github.com/lferra/fuzzy-potato | 0 | 0| 
