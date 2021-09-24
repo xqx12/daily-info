@@ -53,7 +53,7 @@
 | 20210923T04:21:14Z | CVE-2021-22005 | Null | https://github.com/pisut4152/Sigma-Rule-for-CVE-2021-22005-scanning-activity | The vCenter Server contains an arbitrary file upload vulnerability in the Analytics service. A malicious actor with network access to port 443 on vCenter Server may exploit this issue to execute code on vCenter Server by uploading a specially crafted file.| 
 | 20210922T22:40:10Z | CVE-2021-38647 | OMIGOD PoC | https://github.com/m1thryn/CVE-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
 | 20210922T15:29:15Z | cve-2021-38647 | https://github.com/corelight/CVE-2021-38647 without the bloat | https://github.com/abousteif/cve-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
-| 20210922T14:32:41Z | CVE-2021-30860 | Scan for evidence of CVE-2021-30860 (FORCEDENTRY) exploit | https://github.com/Levilutz/CVE-2021-30860 | | 
+| 20210922T14:32:41Z | CVE-2021-30860 | Scan for evidence of CVE-2021-30860 (FORCEDENTRY) exploit | https://github.com/Levilutz/CVE-2021-30860 | An integer overflow was addressed with improved input validation. This issue is fixed in Security Update 2021-005 Catalina, iOS 14.8 and iPadOS 14.8, macOS Big Sur 11.6, watchOS 7.6.2. Processing a maliciously crafted PDF may lead to arbitrary code execution. Apple is aware of a report that this issue may have been actively exploited.| 
 | 20210922T11:51:28Z | CVE-2020-0796 | MS CVE 2020-0796 SMB | https://github.com/Apasys/Apasys-CVE-2020-0796 | A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests, aka %Windows SMBv3 Client/Server Remote Code Execution Vulnerability%.| 
 | 20210922T10:47:05Z | CVE-2021-38647 | OMIGod / CVE-2021-38647 POC and Demo environment | https://github.com/SimenBai/CVE-2021-38647-POC-and-Demo-environment | Open Management Infrastructure Remote Code Execution Vulnerability| 
 
@@ -118,16 +118,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210923T23:26:50Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1782 | 506| 
+| 20210923T18:39:16Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 158 | 34| 
+| 20210923T18:00:40Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 154 | 37| 
+| 20210923T17:43:15Z | malSET: An Automated Symbolic Execution Toolkit for  Assisting Malware Classification Systems | https://github.com/DanielHaugen/malSET | 1 | 0| 
+| 20210923T15:37:50Z | Symbolica%s open-source symbolic execution engine. | https://github.com/SymbolicaDev/Symbolica | 28 | 2| 
 | 20210923T12:48:02Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 475 | 74| 
 | 20210923T12:37:54Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 17 | 3| 
-| 20210923T05:49:36Z | Symbolica%s open-source symbolic execution engine. | https://github.com/SymbolicaDev/Symbolica | 28 | 2| 
-| 20210923T05:34:25Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1780 | 505| 
 | 20210923T05:25:41Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2460 | 363| 
 | 20210922T14:06:34Z | A RISC-V RV32 virtual prototype based on riscv-vp with symbolic execution support | https://github.com/agra-uni-bremen/symex-vp | 3 | 1| 
 | 20210922T06:07:26Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1888 | 395| 
-| 20210922T02:46:04Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 30 | 6| 
-| 20210921T14:57:43Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 158 | 34| 
-| 20210921T10:12:01Z | A Ghidra extension that allows you to run Angr symbolic execution using the Pcode from Ghidra. | https://github.com/jdkleuver/PcodeSym | 1 | 0| 
 
 
 # big4 on Github 推荐
