@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210924T12:24:28Z | Plateforme de publication des site exploitable dans le secteur de l%électricité | https://github.com/tchiendje-lucien/arsel_title_attribution_plateform | 0 | 0| 
 | 20210924T12:06:42Z | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | 0 | 0| 
 | 20210924T12:03:10Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10114 | 1697| 
 | 20210924T12:03:01Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
@@ -97,7 +98,6 @@
 | 20210924T11:22:49Z | Third party patch for EsteemAudit NSA Exploit released in 2017 | https://github.com/trapmine/esteemaudit-patch | 0 | 0| 
 | 20210924T10:58:00Z | Roblox exploit under development | https://github.com/Unknown3958/UnknownExploit | 0 | 0| 
 | 20210924T10:41:56Z | xstream deserial vul exploit | https://github.com/woodpecker-appstore/xstream-vuldb | 0 | 0| 
-| 20210924T09:56:49Z | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | 267 | 49| 
 
 
 # backdoor on Github 推荐
@@ -144,16 +144,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210924T12:30:39Z | A black-box fuzzer to detect custom permission related privilege escalation vulnerabilities in Android.  | https://github.com/little-leiry/CuPerFuzzer | 0 | 0| 
+| 20210924T12:27:56Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6684 | 1371| 
+| 20210924T12:23:27Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
+| 20210924T12:15:12Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 28 | 10| 
+| 20210924T12:12:18Z | Fuzzy matching for `company-mode%. | https://github.com/jcs-elpa/company-fuzzy | 65 | 6| 
 | 20210924T12:06:12Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 2 | 1| 
-| 20210924T11:59:43Z | Fuzzy matching for `company-mode%. | https://github.com/jcs-elpa/company-fuzzy | 65 | 6| 
 | 20210924T11:46:10Z | Null | https://github.com/shohei/fuzzy-pid | 0 | 0| 
-| 20210924T11:42:21Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
 | 20210924T11:34:40Z | Null | https://github.com/umeshk-19/fuzzy-doodle | 0 | 0| 
 | 20210924T11:22:37Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 544 | 51| 
 | 20210924T11:17:50Z | Null | https://github.com/BhanaviSingh/fuzzy-waffle | 0 | 0| 
-| 20210924T11:14:31Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 7 | 1| 
-| 20210924T10:51:09Z | Null | https://github.com/chrishowitt123/fuzzy-match-sql-names | 0 | 0| 
-| 20210924T10:36:47Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 
 
 
