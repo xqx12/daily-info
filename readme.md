@@ -16,6 +16,7 @@
 | 20210924 | Disclosure of three 0-day iOS vulnerabilities and critique of Apple Security Bounty program | https://habr.com/en/post/579714/| 
 | 20210924 | 利用 CodeQL 检测 Web 应用中的 client 端漏洞 | http://raz0r.name/articles/using-codeql-to-detect-client-side-vulnerabilities-in-web-applications/| 
 | 20210924 | 研究员 evilpan 经过分析认为前两天的 macOS Finder RCE 不能算作漏洞 | https://sec.today/pulses/4d3653ed-b294-47ed-81d7-abdc93eb85a4/| 
+| 20210924 | 研究员 evilpan 经过分析认为前两天的 macOS Finder RCE 不能算作漏洞 | https://evilpan.com/2021/09/23/macos-rce/| 
 
 
 # 安全维基 推荐
@@ -32,9 +33,9 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210924T11:58:12Z | CVE-2021-40444 | Modified code so that we don´t need to rely on CAB archives | https://github.com/Edubr2020/CVE-2021-40444--CABless | Microsoft MSHTML Remote Code Execution Vulnerability| 
-| 20210924T11:32:40Z | CVE-2021-40444 | Null | https://github.com/kal1gh0st/CVE-2021-40444_CAB_archives | | 
+| 20210924T11:32:40Z | CVE-2021-40444 | Null | https://github.com/kal1gh0st/CVE-2021-40444_CAB_archives | Microsoft MSHTML Remote Code Execution Vulnerability| 
 | 20210924T11:01:35Z | cve-2021-38647 | CVE-2021-38647 is an unauthenticated RCE vulnerability effecting the OMI agent as root. | https://github.com/Vulnmachines/OMIGOD_cve-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
-| 20210924T06:46:43Z | CVE-2021-22005 | Null | https://github.com/1ZRR4H/CVE-2021-22005 | | 
+| 20210924T06:46:43Z | CVE-2021-22005 | Null | https://github.com/1ZRR4H/CVE-2021-22005 | The vCenter Server contains an arbitrary file upload vulnerability in the Analytics service. A malicious actor with network access to port 443 on vCenter Server may exploit this issue to execute code on vCenter Server by uploading a specially crafted file.| 
 | 20210924T04:47:20Z | CVE-2021-33739 | CVE-2021-33739 PoC Analysis | https://github.com/giwon9977/CVE-2021-33739_PoC | Microsoft DWM Core Library Elevation of Privilege Vulnerability| 
 | 20210924T02:47:56Z | CVE-2021-38647 | CVE-2021-38647 AKA "OMIGOD" vulnerability in Windows OMI  | https://github.com/corelight/CVE-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
 | 20210924T01:37:22Z | CVE-2021-1732 | Null | https://github.com/BeneficialCode/CVE-2021-1732 | Windows Win32k Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-1698.| 
@@ -54,6 +55,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210924T05:35:40Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 155 | 37| 
 
 
 # exploit on Github 推荐

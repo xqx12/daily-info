@@ -16,6 +16,7 @@
 | 20210924 | Disclosure of three 0-day iOS vulnerabilities and critique of Apple Security Bounty program | https://habr.com/en/post/579714/| 
 | 20210924 | 利用 CodeQL 检测 Web 应用中的 client 端漏洞 | http://raz0r.name/articles/using-codeql-to-detect-client-side-vulnerabilities-in-web-applications/| 
 | 20210924 | 研究员 evilpan 经过分析认为前两天的 macOS Finder RCE 不能算作漏洞 | https://sec.today/pulses/4d3653ed-b294-47ed-81d7-abdc93eb85a4/| 
+| 20210924 | 研究员 evilpan 经过分析认为前两天的 macOS Finder RCE 不能算作漏洞 | https://evilpan.com/2021/09/23/macos-rce/| 
 | 20210923 | PoC of Out of Bounds Write in V8（CVE-2021-30632） | https://github.com/Phuong39/PoC-CVE-2021-30632| 
 | 20210923 | 微软 Exchange Autodiscover 协议被发现会向第三方域名泄露用户认证凭据信息 | https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-autodiscover-bugs-leak-100k-windows-credentials/| 
 | 20210923 | Resetting Expired Passwords Remotely | https://www.n00py.io/2021/09/resetting-expired-passwords-remotely/| 
@@ -25,7 +26,6 @@
 | 20210923 | Atlassian Confluence Server Webwork OGNL 注入漏洞分析（CVE-2021-26084） | https://www.zerodayinitiative.com/blog/2021/9/21/cve-2021-26084-details-on-the-recently-exploited-atlassian-confluence-ognl-injection-bug| 
 | 20210923 | Monitoring Threat Actors Cobalt Strike C2 Infrastructure with Shodan | https://michaelkoczwara.medium.com/monitoring-threat-actors-c2-infrastructure-with-shodan-9be6f7aa1d41| 
 | 20210923 | OWASP 安全编码指南手册. | https://cybersecurity.att.com/blogs/security-essentials/a-guide-to-owasps-secure-coding?Source=ESSZsPSPR00gensEM&wtExtndSource=20210921193000_attcyber_TWITTER_Business_N%2FA_Evergreen_N%2FA_APS+%E2%80%93+Cybersecurity_20210921_Organic_Brand_N%2FA_N%2FA_N%2FA_Awareness_No_attcyber_tw_| 
-| 20210922 | Apache Dubbo: All roads lead to RCE | https://securitylab.github.com/research/apache-dubbo/| 
 
 
 # 安全维基 推荐
@@ -47,9 +47,9 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210924T11:58:12Z | CVE-2021-40444 | Modified code so that we don´t need to rely on CAB archives | https://github.com/Edubr2020/CVE-2021-40444--CABless | Microsoft MSHTML Remote Code Execution Vulnerability| 
-| 20210924T11:32:40Z | CVE-2021-40444 | Null | https://github.com/kal1gh0st/CVE-2021-40444_CAB_archives | | 
+| 20210924T11:32:40Z | CVE-2021-40444 | Null | https://github.com/kal1gh0st/CVE-2021-40444_CAB_archives | Microsoft MSHTML Remote Code Execution Vulnerability| 
 | 20210924T11:01:35Z | cve-2021-38647 | CVE-2021-38647 is an unauthenticated RCE vulnerability effecting the OMI agent as root. | https://github.com/Vulnmachines/OMIGOD_cve-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
-| 20210924T06:46:43Z | CVE-2021-22005 | Null | https://github.com/1ZRR4H/CVE-2021-22005 | | 
+| 20210924T06:46:43Z | CVE-2021-22005 | Null | https://github.com/1ZRR4H/CVE-2021-22005 | The vCenter Server contains an arbitrary file upload vulnerability in the Analytics service. A malicious actor with network access to port 443 on vCenter Server may exploit this issue to execute code on vCenter Server by uploading a specially crafted file.| 
 | 20210924T04:47:20Z | CVE-2021-33739 | CVE-2021-33739 PoC Analysis | https://github.com/giwon9977/CVE-2021-33739_PoC | Microsoft DWM Core Library Elevation of Privilege Vulnerability| 
 | 20210924T02:47:56Z | CVE-2021-38647 | CVE-2021-38647 AKA "OMIGOD" vulnerability in Windows OMI  | https://github.com/corelight/CVE-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
 | 20210924T01:37:22Z | CVE-2021-1732 | Null | https://github.com/BeneficialCode/CVE-2021-1732 | Windows Win32k Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-1698.| 
@@ -76,7 +76,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210923T18:00:40Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 154 | 37| 
+| 20210924T05:35:40Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 155 | 37| 
 | 20210922T08:28:42Z | Null | https://github.com/aja76793/Home-Economics---s2e1-on-ABC-s | 0 | 0| 
 | 20210922T08:24:54Z | Null | https://github.com/abaytete/Home-Economics-2021-Episode-1-S2E01-TV-Show | 0 | 0| 
 | 20210917T02:55:13Z | Null | https://github.com/yuvalkirstain/s2e-coref | 13 | 6| 
