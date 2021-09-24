@@ -88,16 +88,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210924T12:05:29Z | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | 0 | 0| 
+| 20210924T12:03:10Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10114 | 1697| 
+| 20210924T12:03:01Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
+| 20210924T12:01:37Z | Attack surface mapping | https://github.com/gobysec/Goby | 658 | 74| 
 | 20210924T11:53:47Z | A scanner/exploitation tool written in GO, which leverages client-side Prototype Pollution to XSS by exploiting known gadgets. | https://github.com/kleiton0x00/ppmap | 189 | 24| 
-| 20210924T11:38:51Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10113 | 1697| 
 | 20210924T11:34:53Z | Educational web application demonstrating techniques of binary exploitation (Front-end) | https://github.com/Pen-Test3rs/binary_exploits_frontend | 0 | 0| 
 | 20210924T11:22:49Z | Third party patch for EsteemAudit NSA Exploit released in 2017 | https://github.com/trapmine/esteemaudit-patch | 0 | 0| 
-| 20210924T11:02:59Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
 | 20210924T10:58:00Z | Roblox exploit under development | https://github.com/Unknown3958/UnknownExploit | 0 | 0| 
 | 20210924T10:41:56Z | xstream deserial vul exploit | https://github.com/woodpecker-appstore/xstream-vuldb | 0 | 0| 
 | 20210924T09:56:49Z | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | 267 | 49| 
-| 20210924T09:56:41Z | This repository contains templates that you can use for binary exploiting. It aims to speed up the process of exploit creation during CTF competitions. | https://github.com/PeterStolz/pwntools_templates | 0 | 0| 
-| 20210924T09:43:17Z | A unique, multithreaded Slow DoS exploit against web servers that use vulnerable versions of thread-based web server software (Apache 1.x, Apache 2.x, httpd, etc.); and is effective against even some mitigation mechanisms such as poorly implemented reverse proxy servers. | https://github.com/SHUR1K-N/GETreqt-Multithreaded-Slow-DoS-Attack | 9 | 0| 
 
 
 # backdoor on Github 推荐
@@ -144,6 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210924T12:06:12Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 2 | 1| 
 | 20210924T11:59:43Z | Fuzzy matching for `company-mode%. | https://github.com/jcs-elpa/company-fuzzy | 65 | 6| 
 | 20210924T11:46:10Z | Null | https://github.com/shohei/fuzzy-pid | 0 | 0| 
 | 20210924T11:42:21Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
@@ -153,7 +154,6 @@
 | 20210924T11:14:31Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 7 | 1| 
 | 20210924T10:51:09Z | Null | https://github.com/chrishowitt123/fuzzy-match-sql-names | 0 | 0| 
 | 20210924T10:36:47Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210924T10:35:03Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6683 | 1371| 
 
 
 
