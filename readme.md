@@ -105,10 +105,10 @@
 | 20210923T22:41:11Z | Comparing tool variability and numerical variability in fMRI analyses results | https://github.com/ali4006/fuzzy-neurotools | 0 | 0| 
 | 20210923T22:36:47Z | Gentoo overlay | https://github.com/lferra/fuzzy-potato | 0 | 0| 
 | 20210923T22:05:39Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
-| 20210923T22:02:06Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210923T21:43:12Z | A fork and successor of the Sulley Fuzzing Framework | https://github.com/jtpereyda/boofuzz | 1310 | 259| 
 | 20210923T21:42:06Z | rstr is a helper module for easily generating random strings of various types. It could be useful for fuzz testing, generating dummy data, or other applications. | https://github.com/leapfrogonline/rstr | 24 | 3| 
 | 20210923T21:05:16Z | just a test repo | https://github.com/joseantoniovazquez/fuzzy-lamp | 0 | 0| 
+| 20210923T20:42:01Z | An investigation of American Fuzzy Lop++ as a fuzzer | https://github.com/hark130/hardy-remix | 0 | 0| 
 
 
 
