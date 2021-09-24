@@ -34,10 +34,10 @@
 | --- | --- | --- | --- | ---| 
 | 20210924T12:45:07Z | cve-2021-38647 | CVE-2021-38647 is an unauthenticated RCE vulnerability effecting the OMI agent as root. | https://github.com/Vulnmachines/OMIGOD_cve-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
 | 20210924T11:58:12Z | CVE-2021-40444 | Modified code so that we don´t need to rely on CAB archives | https://github.com/Edubr2020/CVE-2021-40444--CABless | Microsoft MSHTML Remote Code Execution Vulnerability| 
-| 20210924T11:32:40Z | CVE-2021-40444 | Null | https://github.com/kal1gh0st/CVE-2021-40444_CAB_archives | | 
-| 20210924T06:46:43Z | CVE-2021-22005 | Null | https://github.com/1ZRR4H/CVE-2021-22005 | The vCenter Server contains an arbitrary file upload vulnerability in the Analytics service. A malicious actor with network access to port 443 on vCenter Server may exploit this issue to execute code on vCenter Server by uploading a specially crafted file.| 
-| 20210924T04:47:20Z | CVE-2021-33739 | CVE-2021-33739 PoC Analysis | https://github.com/giwon9977/CVE-2021-33739_PoC | Microsoft DWM Core Library Elevation of Privilege Vulnerability| 
-| 20210924T02:47:56Z | CVE-2021-38647 | CVE-2021-38647 AKA "OMIGOD" vulnerability in Windows OMI  | https://github.com/corelight/CVE-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
+| 20210924T11:32:40Z | CVE-2021-40444 | Null | https://github.com/kal1gh0st/CVE-2021-40444_CAB_archives | Microsoft MSHTML Remote Code Execution Vulnerability| 
+| 20210924T06:46:43Z | CVE-2021-22005 | Null | https://github.com/1ZRR4H/CVE-2021-22005 | | 
+| 20210924T04:47:20Z | CVE-2021-33739 | CVE-2021-33739 PoC Analysis | https://github.com/giwon9977/CVE-2021-33739_PoC | | 
+| 20210924T02:47:56Z | CVE-2021-38647 | CVE-2021-38647 AKA "OMIGOD" vulnerability in Windows OMI  | https://github.com/corelight/CVE-2021-38647 | | 
 | 20210924T01:37:22Z | CVE-2021-1732 | Null | https://github.com/BeneficialCode/CVE-2021-1732 | Windows Win32k Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-1698.| 
 | 20210924T00:37:42Z | CVE-2021-30632 | PoC CVE-2021-30632 - Out of bounds write in V8 | https://github.com/Phuong39/PoC-CVE-2021-30632 | 未查询到CVE信息| 
 
@@ -61,6 +61,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210924T13:17:42Z | Final Year Project - Side-Channel Attack Exploitation Tools | https://github.com/leonlai1234/FYP | 0 | 0| 
 | 20210924T13:03:10Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
 | 20210924T12:59:26Z | Playground for minetest palamod modpack (Patched hacks) | https://github.com/minetest-palamod/palamod-test-dragonfire | 1 | 0| 
 | 20210924T12:52:50Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 22 | 14| 
@@ -70,7 +71,6 @@
 | 20210924T12:01:37Z | Attack surface mapping | https://github.com/gobysec/Goby | 658 | 74| 
 | 20210924T11:53:47Z | A scanner/exploitation tool written in GO, which leverages client-side Prototype Pollution to XSS by exploiting known gadgets. | https://github.com/kleiton0x00/ppmap | 189 | 24| 
 | 20210924T11:34:53Z | Educational web application demonstrating techniques of binary exploitation (Front-end) | https://github.com/Pen-Test3rs/binary_exploits_frontend | 0 | 0| 
-| 20210924T11:22:49Z | Third party patch for EsteemAudit NSA Exploit released in 2017 | https://github.com/trapmine/esteemaudit-patch | 0 | 0| 
 
 
 # backdoor on Github 推荐
