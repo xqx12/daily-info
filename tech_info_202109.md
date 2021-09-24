@@ -88,11 +88,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210924T00:03:15Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
 | 20210924T00:00:04Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 10 | 4| 
 | 20210923T23:59:13Z | auto exploiter com_user | https://github.com/kyukazamiqq/com_userexploiter | 0 | 0| 
 | 20210923T23:51:16Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10107 | 1697| 
 | 20210923T23:42:02Z | Simple exploits I made because I was bored, credit to Aika for the library. | https://github.com/EthanMcDonagh/EthansChamber | 0 | 0| 
-| 20210923T23:02:59Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
 | 20210923T22:56:34Z | Null | https://github.com/illusionofchaos/ios-analyticsd-pre14.7-exploit | 0 | 0| 
 | 20210923T22:53:55Z | OWASP Benchmark is a test suite designed to verify the speed and accuracy of software vulnerability detection tools. A fully runnable web app written in Java, it supports analysis by Static (SAST), Dynamic (DAST), and Runtime (IAST) tools that support Java. The idea is that since it is fully runnable and all the vulnerabilities are actually exploitable, it’s a fair test for any kind of vulnerability detection tool.  For more details on this project, please see the OWASP Benchmark Project home page. | https://github.com/OWASP-Benchmark/BenchmarkJava | 415 | 445| 
 | 20210923T22:42:40Z | Learn Binary Exploitation with sample problems. | https://github.com/Adamkadaban/LearnPwn | 0 | 0| 
