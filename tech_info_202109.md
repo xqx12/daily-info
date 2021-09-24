@@ -144,7 +144,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210924T01:46:30Z | Trabalho realizado para a matéria TÓPICOS ESPECIAIS EM SISTEMAS DE PROGRAMAÇÃO VI | https://github.com/herecomesMac/controle_simples_seguidor_linha_logica_fuzzy | 0 | 0| 
+| 20210924T01:47:28Z | Trabalho realizado para a matéria TÓPICOS ESPECIAIS EM SISTEMAS DE PROGRAMAÇÃO VI | https://github.com/herecomesMac/controle_simples_seguidor_linha_logica_fuzzy | 0 | 0| 
+| 20210924T01:47:13Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 33681 | 17526| 
 | 20210924T01:46:08Z | Null | https://github.com/reflexer-labs/rai-metapool-fuzz | 0 | 0| 
 | 20210924T01:34:14Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210924T01:25:55Z | Fuzzing tool to test .NET code generation | https://github.com/kunalspathak/Antigen | 0 | 0| 
@@ -152,7 +153,6 @@
 | 20210924T01:15:54Z | An Apple homage site featuring JavaScript and CSS techniques that I%m learning | https://github.com/beautyTruth/fuzzy-eureka | 0 | 0| 
 | 20210924T01:15:19Z | Anything about kernel security.  CTF kernel pwn, kernel exploit, kernel fuzz and kernel defense paper, kernel debugging technique, kernel CVE debug. | https://github.com/bsauce/kernel-security-learning | 220 | 31| 
 | 20210924T00:33:40Z | Null | https://github.com/mpgxc/fuzzy-doodle | 2 | 0| 
-| 20210924T00:06:15Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 33680 | 17526| 
 | 20210923T23:58:24Z | Null | https://github.com/jhyoon929/fuzzy-happiness | 0 | 0| 
 
 
