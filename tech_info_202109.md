@@ -88,16 +88,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210925T01:03:18Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
+| 20210925T00:52:49Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 22 | 14| 
+| 20210925T00:52:41Z | NuclearGravity is a game about gravity, and exploiting it to your advantage, just like everything else humanity touches | https://github.com/Madiwka4/NuclearGravity | 2 | 0| 
 | 20210925T00:25:40Z | Simple exploits I made because I was bored, credit to Aika for the library. | https://github.com/EthanMcDonagh/SimulatorFucker | 0 | 0| 
 | 20210925T00:05:40Z | CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit | https://github.com/klezVirus/CVE-2021-40444 | 367 | 71| 
-| 20210925T00:03:45Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
 | 20210924T23:52:38Z | Working around modern memory corruption exploitation mitigations with small as possible universal exploits. | https://github.com/4IbWNsis3S/MSVC-and-GCC-and-Xcode-mitigation-bypasses | 0 | 0| 
 | 20210924T23:38:35Z | Null | https://github.com/ctwtruscottwatters/MEMSCANPAPER_Compiler_IntelAMDARMMIPS_Compiler_MemoryBased_Processor_Exploit_Mitigation | 0 | 0| 
 | 20210924T23:21:46Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 10 | 6| 
 | 20210924T23:16:16Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 3948 | 544| 
 | 20210924T23:04:42Z | This bash scripts will help you to hack remote hosts. You can choose and run one of them. | https://github.com/FabioDefilippo/linuxallremote | 27 | 5| 
-| 20210924T22:15:41Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10119 | 1698| 
-| 20210924T22:08:14Z | View %once% can be viewed many times. | https://github.com/lucasrdrgs/whatsapp-view-once-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -144,6 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210925T01:06:30Z | Null | https://github.com/MFeuer23/fuzzy-pancake | 0 | 0| 
 | 20210924T23:22:24Z | Notes | https://github.com/bucketfro/fuzzy-garbanzo | 0 | 0| 
 | 20210924T23:10:02Z | Contestar y preguntar | https://github.com/Gruppresarial/fuzzy-tribble | 0 | 0| 
 | 20210924T22:54:01Z | Final Project for my Intelligent Systems Class | https://github.com/batomow/fuzzy-inverted-pendulum | 0 | 0| 
@@ -151,7 +152,6 @@
 | 20210924T22:30:03Z |  Fuzz Testing to Detect Platform Dependent Divergence for Heterogeneous Application (FSE 2021) | https://github.com/UCLA-SEAL/HeteroFuzz | 0 | 0| 
 | 20210924T22:14:09Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6685 | 1370| 
 | 20210924T22:13:54Z | 99minutos coverage maps | https://github.com/99minutos/fuzzy-journey | 0 | 3| 
-| 20210924T22:00:50Z | Null | https://github.com/MFeuer23/fuzzy-pancake | 0 | 0| 
 | 20210924T21:36:26Z | Emulation based snapshot fuzzer | https://github.com/jaoeul/gingersnap | 0 | 0| 
 | 20210924T21:25:12Z | Gentoo overlay | https://github.com/lferra/fuzzy-potato | 0 | 0| 
 

@@ -117,9 +117,9 @@
 | 20210924T22:30:03Z |  Fuzz Testing to Detect Platform Dependent Divergence for Heterogeneous Application (FSE 2021) | https://github.com/UCLA-SEAL/HeteroFuzz | 0 | 0| 
 | 20210924T22:14:09Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6685 | 1370| 
 | 20210924T22:13:54Z | 99minutos coverage maps | https://github.com/99minutos/fuzzy-journey | 0 | 3| 
-| 20210924T22:00:50Z | Null | https://github.com/MFeuer23/fuzzy-pancake | 0 | 0| 
 | 20210924T21:36:26Z | Emulation based snapshot fuzzer | https://github.com/jaoeul/gingersnap | 0 | 0| 
 | 20210924T21:25:12Z | Gentoo overlay | https://github.com/lferra/fuzzy-potato | 0 | 0| 
+| 20210924T20:45:30Z | Null | https://github.com/mexdievaelya/fuzzy-octo-fortnight | 0 | 0| 
 
 
 
