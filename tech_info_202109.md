@@ -144,6 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210925T01:52:20Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4573 | 462| 
 | 20210925T01:46:11Z | An Apple homage site featuring JavaScript and CSS techniques that I%m learning | https://github.com/beautyTruth/fuzzy-eureka | 0 | 0| 
 | 20210925T01:32:18Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210925T01:06:30Z | Null | https://github.com/MFeuer23/fuzzy-pancake | 0 | 0| 
@@ -153,7 +154,6 @@
 | 20210924T22:39:59Z | Null | https://github.com/AmeliaYeah/dns-host-directory-fuzz | 0 | 0| 
 | 20210924T22:30:03Z |  Fuzz Testing to Detect Platform Dependent Divergence for Heterogeneous Application (FSE 2021) | https://github.com/UCLA-SEAL/HeteroFuzz | 0 | 0| 
 | 20210924T22:14:09Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6685 | 1370| 
-| 20210924T22:13:54Z | 99minutos coverage maps | https://github.com/99minutos/fuzzy-journey | 0 | 3| 
 
 
 
