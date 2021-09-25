@@ -47,13 +47,13 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210925T00:05:40Z | CVE-2021-40444 | CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit | https://github.com/klezVirus/CVE-2021-40444 | Microsoft MSHTML Remote Code Execution Vulnerability| 
-| 20210924T17:03:37Z | CVE-2021-35042 | Null | https://github.com/r4vi/CVE-2021-35042 | | 
+| 20210924T17:03:37Z | CVE-2021-35042 | Null | https://github.com/r4vi/CVE-2021-35042 | Django 3.1.x before 3.1.13 and 3.2.x before 3.2.5 allows QuerySet.order_by SQL injection if order_by is untrusted input from a client of a web application.| 
 | 20210924T14:45:54Z | CVE-2021-22005 | Null | https://github.com/1ZRR4H/CVE-2021-22005 | The vCenter Server contains an arbitrary file upload vulnerability in the Analytics service. A malicious actor with network access to port 443 on vCenter Server may exploit this issue to execute code on vCenter Server by uploading a specially crafted file.| 
 | 20210924T12:45:07Z | cve-2021-38647 | CVE-2021-38647 is an unauthenticated RCE vulnerability effecting the OMI agent as root. | https://github.com/Vulnmachines/OMIGOD_cve-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
 | 20210924T11:58:12Z | CVE-2021-40444 | Modified code so that we don´t need to rely on CAB archives | https://github.com/Edubr2020/CVE-2021-40444--CABless | Microsoft MSHTML Remote Code Execution Vulnerability| 
 | 20210924T11:32:40Z | CVE-2021-40444 | Null | https://github.com/kal1gh0st/CVE-2021-40444_CAB_archives | Microsoft MSHTML Remote Code Execution Vulnerability| 
 | 20210924T04:47:20Z | CVE-2021-33739 | CVE-2021-33739 PoC Analysis | https://github.com/giwon9977/CVE-2021-33739_PoC | Microsoft DWM Core Library Elevation of Privilege Vulnerability| 
-| 20210924T02:47:56Z | CVE-2021-38647 | CVE-2021-38647 AKA "OMIGOD" vulnerability in Windows OMI  | https://github.com/corelight/CVE-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
+| 20210924T02:47:56Z | CVE-2021-38647 | CVE-2021-38647 AKA "OMIGOD" vulnerability in Windows OMI  | https://github.com/corelight/CVE-2021-38647 | | 
 | 20210924T01:37:22Z | CVE-2021-1732 | Null | https://github.com/BeneficialCode/CVE-2021-1732 | Windows Win32k Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-1698.| 
 | 20210924T00:37:42Z | CVE-2021-30632 | PoC CVE-2021-30632 - Out of bounds write in V8 | https://github.com/Phuong39/PoC-CVE-2021-30632 | 未查询到CVE信息| 
 
@@ -88,16 +88,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210925T02:03:01Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
+| 20210925T02:00:50Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 11 | 6| 
 | 20210925T01:49:07Z | This code is an IRC BOT that can connect to an IRC server with SSL The main purpose of this bot is to scan for Open/Unsecured VNC servers. The bot can also search for credit card informations in the computer that the bot is running (removed in last version to optimize compilation process time). Added SSH takeover module/command.. There is also a DDoS module made in Python, for taking out the target from the network. | https://github.com/ind3p3nd3nt/vncperlbot | 6 | 1| 
 | 20210925T01:40:44Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 347 | 52| 
-| 20210925T01:03:18Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
 | 20210925T00:52:49Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 22 | 14| 
 | 20210925T00:52:41Z | NuclearGravity is a game about gravity, and exploiting it to your advantage, just like everything else humanity touches | https://github.com/Madiwka4/NuclearGravity | 2 | 0| 
 | 20210925T00:25:40Z | Simple exploits I made because I was bored, credit to Aika for the library. | https://github.com/EthanMcDonagh/SimulatorFucker | 0 | 0| 
 | 20210925T00:05:40Z | CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit | https://github.com/klezVirus/CVE-2021-40444 | 367 | 71| 
 | 20210924T23:52:38Z | Working around modern memory corruption exploitation mitigations with small as possible universal exploits. | https://github.com/4IbWNsis3S/MSVC-and-GCC-and-Xcode-mitigation-bypasses | 0 | 0| 
 | 20210924T23:38:35Z | Null | https://github.com/ctwtruscottwatters/MEMSCANPAPER_Compiler_IntelAMDARMMIPS_Compiler_MemoryBased_Processor_Exploit_Mitigation | 0 | 0| 
-| 20210924T23:21:46Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 10 | 6| 
 
 
 # backdoor on Github 推荐

@@ -32,13 +32,13 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210924T17:03:37Z | CVE-2021-35042 | Null | https://github.com/r4vi/CVE-2021-35042 | | 
+| 20210924T17:03:37Z | CVE-2021-35042 | Null | https://github.com/r4vi/CVE-2021-35042 | Django 3.1.x before 3.1.13 and 3.2.x before 3.2.5 allows QuerySet.order_by SQL injection if order_by is untrusted input from a client of a web application.| 
 | 20210924T14:45:54Z | CVE-2021-22005 | Null | https://github.com/1ZRR4H/CVE-2021-22005 | The vCenter Server contains an arbitrary file upload vulnerability in the Analytics service. A malicious actor with network access to port 443 on vCenter Server may exploit this issue to execute code on vCenter Server by uploading a specially crafted file.| 
 | 20210924T12:45:07Z | cve-2021-38647 | CVE-2021-38647 is an unauthenticated RCE vulnerability effecting the OMI agent as root. | https://github.com/Vulnmachines/OMIGOD_cve-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
 | 20210924T11:58:12Z | CVE-2021-40444 | Modified code so that we don´t need to rely on CAB archives | https://github.com/Edubr2020/CVE-2021-40444--CABless | Microsoft MSHTML Remote Code Execution Vulnerability| 
 | 20210924T11:32:40Z | CVE-2021-40444 | Null | https://github.com/kal1gh0st/CVE-2021-40444_CAB_archives | Microsoft MSHTML Remote Code Execution Vulnerability| 
 | 20210924T04:47:20Z | CVE-2021-33739 | CVE-2021-33739 PoC Analysis | https://github.com/giwon9977/CVE-2021-33739_PoC | Microsoft DWM Core Library Elevation of Privilege Vulnerability| 
-| 20210924T02:47:56Z | CVE-2021-38647 | CVE-2021-38647 AKA "OMIGOD" vulnerability in Windows OMI  | https://github.com/corelight/CVE-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
+| 20210924T02:47:56Z | CVE-2021-38647 | CVE-2021-38647 AKA "OMIGOD" vulnerability in Windows OMI  | https://github.com/corelight/CVE-2021-38647 | | 
 | 20210924T01:37:22Z | CVE-2021-1732 | Null | https://github.com/BeneficialCode/CVE-2021-1732 | Windows Win32k Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-1698.| 
 | 20210924T00:37:42Z | CVE-2021-30632 | PoC CVE-2021-30632 - Out of bounds write in V8 | https://github.com/Phuong39/PoC-CVE-2021-30632 | 未查询到CVE信息| 
 
@@ -64,7 +64,6 @@
 | --- | --- | --- | --- | ---| 
 | 20210924T23:52:38Z | Working around modern memory corruption exploitation mitigations with small as possible universal exploits. | https://github.com/4IbWNsis3S/MSVC-and-GCC-and-Xcode-mitigation-bypasses | 0 | 0| 
 | 20210924T23:38:35Z | Null | https://github.com/ctwtruscottwatters/MEMSCANPAPER_Compiler_IntelAMDARMMIPS_Compiler_MemoryBased_Processor_Exploit_Mitigation | 0 | 0| 
-| 20210924T23:21:46Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 10 | 6| 
 | 20210924T23:16:16Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 3948 | 544| 
 | 20210924T23:04:42Z | This bash scripts will help you to hack remote hosts. You can choose and run one of them. | https://github.com/FabioDefilippo/linuxallremote | 27 | 5| 
 | 20210924T22:15:41Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10119 | 1698| 
@@ -72,6 +71,7 @@
 | 20210924T21:35:56Z | Uses UE4 (EngineRendering) and has Fixed Car fly, bullet tp, fov changer, and waypoint tp. All credit to ritz#8008 for leaking, and Micca#1337 for releasing publicly:) | https://github.com/rain1337lol/InternalS8Exploits | 0 | 0| 
 | 20210924T21:29:53Z | A post-exploitation kernel module that allows an attacker to edit files with little to no footprint. | https://github.com/mineo333/GhostFops | 0 | 0| 
 | 20210924T20:40:46Z | Roblox exploit under development | https://github.com/Unknown3958/UnknownExploit | 0 | 0| 
+| 20210924T20:06:22Z | Fully interactive shell after netcat | https://github.com/tximista64/Stable-shell-post-exploitation | 1 | 0| 
 
 
 # backdoor on Github 推荐
