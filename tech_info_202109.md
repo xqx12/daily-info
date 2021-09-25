@@ -46,9 +46,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210924T22:04:03Z | CVE-2021-40444 | CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit | https://github.com/klezVirus/CVE-2021-40444 | Microsoft MSHTML Remote Code Execution Vulnerability| 
+| 20210925T00:05:40Z | CVE-2021-40444 | CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit | https://github.com/klezVirus/CVE-2021-40444 | | 
 | 20210924T17:03:37Z | CVE-2021-35042 | Null | https://github.com/r4vi/CVE-2021-35042 | Django 3.1.x before 3.1.13 and 3.2.x before 3.2.5 allows QuerySet.order_by SQL injection if order_by is untrusted input from a client of a web application.| 
-| 20210924T14:45:54Z | CVE-2021-22005 | Null | https://github.com/1ZRR4H/CVE-2021-22005 | | 
+| 20210924T14:45:54Z | CVE-2021-22005 | Null | https://github.com/1ZRR4H/CVE-2021-22005 | The vCenter Server contains an arbitrary file upload vulnerability in the Analytics service. A malicious actor with network access to port 443 on vCenter Server may exploit this issue to execute code on vCenter Server by uploading a specially crafted file.| 
 | 20210924T12:45:07Z | cve-2021-38647 | CVE-2021-38647 is an unauthenticated RCE vulnerability effecting the OMI agent as root. | https://github.com/Vulnmachines/OMIGOD_cve-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
 | 20210924T11:58:12Z | CVE-2021-40444 | Modified code so that we don´t need to rely on CAB archives | https://github.com/Edubr2020/CVE-2021-40444--CABless | Microsoft MSHTML Remote Code Execution Vulnerability| 
 | 20210924T11:32:40Z | CVE-2021-40444 | Null | https://github.com/kal1gh0st/CVE-2021-40444_CAB_archives | Microsoft MSHTML Remote Code Execution Vulnerability| 
@@ -88,16 +88,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210925T00:05:40Z | CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit | https://github.com/klezVirus/CVE-2021-40444 | 367 | 71| 
+| 20210925T00:03:45Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
 | 20210924T23:56:48Z | Simple exploits I made because I was bored, credit to Aika for the library. | https://github.com/EthanMcDonagh/SimulatorFucker | 0 | 0| 
 | 20210924T23:52:38Z | Working around modern memory corruption exploitation mitigations with small as possible universal exploits. | https://github.com/4IbWNsis3S/MSVC-and-GCC-and-Xcode-mitigation-bypasses | 0 | 0| 
 | 20210924T23:38:35Z | Null | https://github.com/ctwtruscottwatters/MEMSCANPAPER_Compiler_IntelAMDARMMIPS_Compiler_MemoryBased_Processor_Exploit_Mitigation | 0 | 0| 
 | 20210924T23:21:46Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 10 | 5| 
 | 20210924T23:16:16Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 3948 | 544| 
 | 20210924T23:04:42Z | This bash scripts will help you to hack remote hosts. You can choose and run one of them. | https://github.com/FabioDefilippo/linuxallremote | 27 | 5| 
-| 20210924T23:03:03Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
 | 20210924T22:15:41Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10119 | 1698| 
 | 20210924T22:08:14Z | View %once% can be viewed many times. | https://github.com/lucasrdrgs/whatsapp-view-once-exploit | 0 | 0| 
-| 20210924T21:35:56Z | Uses UE4 (EngineRendering) and has Fixed Car fly, bullet tp, fov changer, and waypoint tp. All credit to ritz#8008 for leaking, and Micca#1337 for releasing publicly:) | https://github.com/rain1337lol/InternalS8Exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -118,16 +118,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210924T23:59:05Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1890 | 393| 
+| 20210924T17:40:55Z | A tool for generating nonlinear numerical invariants for C and Java programs.  DIG uses dynamic analysis to infer invariants over program execution traces and applies symbolic execution to inferred invariants. | https://github.com/unsat/dig | 9 | 4| 
+| 20210924T16:02:13Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1784 | 507| 
 | 20210924T12:12:36Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2461 | 363| 
 | 20210924T12:05:38Z | Symbolica%s open-source symbolic execution engine. | https://github.com/SymbolicaDev/Symbolica | 28 | 2| 
 | 20210924T07:43:38Z | A RISC-V RV32 virtual prototype based on riscv-vp with symbolic execution support | https://github.com/agra-uni-bremen/symex-vp | 3 | 1| 
-| 20210924T06:51:00Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1783 | 507| 
 | 20210924T05:35:40Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 155 | 37| 
 | 20210924T02:38:21Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 31 | 6| 
 | 20210923T18:39:16Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 158 | 34| 
 | 20210923T17:43:15Z | malSET: An Automated Symbolic Execution Toolkit for  Assisting Malware Classification Systems | https://github.com/DanielHaugen/malSET | 1 | 0| 
-| 20210923T12:48:02Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 475 | 74| 
-| 20210923T12:37:54Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 17 | 3| 
 
 
 # big4 on Github 推荐
