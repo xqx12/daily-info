@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210925T01:40:44Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 347 | 52| 
 | 20210925T01:32:04Z | This code is an IRC BOT that can connect to an IRC server with SSL The main purpose of this bot is to scan for Open/Unsecured VNC servers. The bot can also search for credit card informations in the computer that the bot is running (removed in last version to optimize compilation process time). Added SSH takeover module/command.. There is also a DDoS module made in Python, for taking out the target from the network. | https://github.com/ind3p3nd3nt/vncperlbot | 6 | 1| 
 | 20210925T01:03:18Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
 | 20210925T00:52:49Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 22 | 14| 
@@ -97,7 +98,6 @@
 | 20210924T23:52:38Z | Working around modern memory corruption exploitation mitigations with small as possible universal exploits. | https://github.com/4IbWNsis3S/MSVC-and-GCC-and-Xcode-mitigation-bypasses | 0 | 0| 
 | 20210924T23:38:35Z | Null | https://github.com/ctwtruscottwatters/MEMSCANPAPER_Compiler_IntelAMDARMMIPS_Compiler_MemoryBased_Processor_Exploit_Mitigation | 0 | 0| 
 | 20210924T23:21:46Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 10 | 6| 
-| 20210924T23:16:16Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 3948 | 544| 
 
 
 # backdoor on Github 推荐
