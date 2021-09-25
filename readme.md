@@ -62,7 +62,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210924T23:56:48Z | Simple exploits I made because I was bored, credit to Aika for the library. | https://github.com/EthanMcDonagh/SimulatorFucker | 0 | 0| 
 | 20210924T23:52:38Z | Working around modern memory corruption exploitation mitigations with small as possible universal exploits. | https://github.com/4IbWNsis3S/MSVC-and-GCC-and-Xcode-mitigation-bypasses | 0 | 0| 
 | 20210924T23:38:35Z | Null | https://github.com/ctwtruscottwatters/MEMSCANPAPER_Compiler_IntelAMDARMMIPS_Compiler_MemoryBased_Processor_Exploit_Mitigation | 0 | 0| 
 | 20210924T23:21:46Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 10 | 5| 
@@ -72,6 +71,7 @@
 | 20210924T22:08:14Z | View %once% can be viewed many times. | https://github.com/lucasrdrgs/whatsapp-view-once-exploit | 0 | 0| 
 | 20210924T21:35:56Z | Uses UE4 (EngineRendering) and has Fixed Car fly, bullet tp, fov changer, and waypoint tp. All credit to ritz#8008 for leaking, and Micca#1337 for releasing publicly:) | https://github.com/rain1337lol/InternalS8Exploits | 0 | 0| 
 | 20210924T21:29:53Z | A post-exploitation kernel module that allows an attacker to edit files with little to no footprint. | https://github.com/mineo333/GhostFops | 0 | 0| 
+| 20210924T20:40:46Z | Roblox exploit under development | https://github.com/Unknown3958/UnknownExploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
