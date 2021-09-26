@@ -42,13 +42,13 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210926T12:22:04Z | [ProxyLogon] CVE-2021-26855 & CVE-2021-27065 Fixed RawIdentity Bug Exploit. [ProxyOracle] CVE-2021-31195 & CVE-2021-31196 Exploit Chains. [ProxyShell] CVE-2021-34473 & CVE-2021-34523 Exploit Chains, Wait For Update FileWrite Exp(31207.py) | https://github.com/hosch3n/ProxyVulns | 65 | 16| 
 | 20210926T12:13:08Z | This is use for track location or logout all google account using only one click. | https://github.com/VaimpierOfficial/Vaim-Samay | 1 | 0| 
 | 20210926T12:09:09Z | Null | https://github.com/GodlikeIGH/RBLXGameExploits | 0 | 0| 
 | 20210926T12:02:54Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
 | 20210926T11:54:49Z | Null | https://github.com/joeengo/exploiting | 0 | 0| 
 | 20210926T11:45:04Z | Next.js site where I document my coding exploits | https://github.com/ephcoding/site__ephcoding-dot-com | 0 | 0| 
 | 20210926T11:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10127 | 1699| 
-| 20210926T11:30:58Z | [ProxyLogon] CVE-2021-26855 & CVE-2021-27065 Fixed RawIdentity Bug Exploit. [ProxyOracle] CVE-2021-31195 & CVE-2021-31196 Exploit Chains. [ProxyShell] CVE-2021-34473 & CVE-2021-34523 Exploit Chains, Wait For Update FileWrite Exp(31207.py) | https://github.com/hosch3n/ProxyVulns | 64 | 15| 
 | 20210926T11:28:11Z | This is an Minecraft exploit for cracked server with no login. | https://github.com/Lolpprogamer666/Minecraft-exploit | 1 | 0| 
 | 20210926T11:08:05Z | exploit de la vulnerabilidad dirtyCow | https://github.com/Pabloeldiablo19/dirtyCow | 0 | 0| 
 | 20210926T11:02:33Z | Workaround for the 4 0-days: https://github.com/illusionofchaos/ios-gamed-0day https://github.com/illusionofchaos/ios-nehelper-wifi-info-0day https://github.com/illusionofchaos/ios-nehelper-enum-apps-0day https://github.com/illusionofchaos/ios-analyticsd-pre14.7-exploit | https://github.com/rllbe/entitlementfix | 12 | 1| 
