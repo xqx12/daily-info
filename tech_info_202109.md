@@ -47,7 +47,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210926T00:55:40Z | CVE-2021-22005 | CVE-2021-22005 - VMWare vCenter Server File Upload to RCE | https://github.com/r0ckysec/CVE-2021-22005 | The vCenter Server contains an arbitrary file upload vulnerability in the Analytics service. A malicious actor with network access to port 443 on vCenter Server may exploit this issue to execute code on vCenter Server by uploading a specially crafted file.| 
-| 20210926T00:02:45Z | CVE-2021-40444 | CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit | https://github.com/klezVirus/CVE-2021-40444 | Microsoft MSHTML Remote Code Execution Vulnerability| 
+| 20210926T00:02:45Z | CVE-2021-40444 | CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit | https://github.com/klezVirus/CVE-2021-40444 | | 
 | 20210925T22:14:43Z | cve-2021-40444 | Null | https://github.com/securitysphynx/cve-2021-40444_weaponized | Microsoft MSHTML Remote Code Execution Vulnerability| 
 | 20210925T17:18:04Z | CVE-2021-22005 | Null | https://github.com/pisut4152/Sigma-Rule-for-CVE-2021-22005-scanning-activity | The vCenter Server contains an arbitrary file upload vulnerability in the Analytics service. A malicious actor with network access to port 443 on vCenter Server may exploit this issue to execute code on vCenter Server by uploading a specially crafted file.| 
 | 20210925T17:01:12Z | CVE-2021-22005 | Null | https://github.com/1ZRR4H/CVE-2021-22005 | The vCenter Server contains an arbitrary file upload vulnerability in the Analytics service. A malicious actor with network access to port 443 on vCenter Server may exploit this issue to execute code on vCenter Server by uploading a specially crafted file.| 
@@ -55,7 +55,7 @@
 | 20210924T17:03:37Z | CVE-2021-35042 | Null | https://github.com/r4vi/CVE-2021-35042 | Django 3.1.x before 3.1.13 and 3.2.x before 3.2.5 allows QuerySet.order_by SQL injection if order_by is untrusted input from a client of a web application.| 
 | 20210924T12:45:07Z | cve-2021-38647 | CVE-2021-38647 is an unauthenticated RCE vulnerability effecting the OMI agent as root. | https://github.com/Vulnmachines/OMIGOD_cve-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
 | 20210924T11:58:12Z | CVE-2021-40444 | Modified code so that we don´t need to rely on CAB archives | https://github.com/Edubr2020/CVE-2021-40444--CABless | Microsoft MSHTML Remote Code Execution Vulnerability| 
-| 20210924T11:32:40Z | CVE-2021-40444 | Null | https://github.com/kal1gh0st/CVE-2021-40444_CAB_archives | Microsoft MSHTML Remote Code Execution Vulnerability| 
+| 20210924T11:32:40Z | CVE-2021-40444 | Null | https://github.com/kal1gh0st/CVE-2021-40444_CAB_archives | | 
 
 
 # klee on Github 推荐
@@ -88,8 +88,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210926T01:03:03Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
 | 20210926T00:37:56Z | Experimental Go language CSGO exploit. | https://github.com/jamesmoriarty/gohack | 38 | 7| 
-| 20210926T00:03:20Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
 | 20210925T23:52:19Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 3950 | 546| 
 | 20210925T23:36:20Z | Writeup for exploit.education/nebula | https://github.com/vi11ain/nebula-writeup | 1 | 0| 
 | 20210925T23:27:08Z | Exploit development training | https://github.com/0xdutra/exploitation-labs | 0 | 0| 
