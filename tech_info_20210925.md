@@ -12,19 +12,28 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20210925 | Sodinokibi勒索病毒分析 | https://mp.weixin.qq.com/s/PiGU1cck3VuQhyUs06Locw| 
+| 20210925 | 软件成分分析工具评估开放指南 | https://mp.weixin.qq.com/s/_OwlypeLFlZOsPMDsBVtFQ| 
+| 20210925 | 欧盟网络安全局供应链攻击威胁全景图（上） | https://mp.weixin.qq.com/s/5dGxqeckzSIsr3TDaqwxNw| 
+| 20210925 | WebVPN弱口令引发的内网沦陷 | https://mp.weixin.qq.com/s/9GT8QM9FQBVCHrEjwxyTmA| 
+| 20210925 | GDPR和云隐私政策的语义相似性 | https://mp.weixin.qq.com/s/NojVXifceVuHfhgVvqtHoQ| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210925T13:13:10Z | CVE-2021-40444 | CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit | https://github.com/klezVirus/CVE-2021-40444 | Microsoft MSHTML Remote Code Execution Vulnerability| 
+| 20210925T22:14:43Z | cve-2021-40444 | Null | https://github.com/securitysphynx/cve-2021-40444_weaponized | Microsoft MSHTML Remote Code Execution Vulnerability| 
+| 20210925T21:11:08Z | CVE-2021-22005 | CVE-2021-22005 - VMWare vCenter Server File Upload to RCE | https://github.com/r0ckysec/CVE-2021-22005 | | 
+| 20210925T19:45:16Z | CVE-2021-40444 | CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit | https://github.com/klezVirus/CVE-2021-40444 | Microsoft MSHTML Remote Code Execution Vulnerability| 
+| 20210925T17:18:04Z | CVE-2021-22005 | Null | https://github.com/pisut4152/Sigma-Rule-for-CVE-2021-22005-scanning-activity | The vCenter Server contains an arbitrary file upload vulnerability in the Analytics service. A malicious actor with network access to port 443 on vCenter Server may exploit this issue to execute code on vCenter Server by uploading a specially crafted file.| 
+| 20210925T17:01:12Z | CVE-2021-22005 | Null | https://github.com/1ZRR4H/CVE-2021-22005 | The vCenter Server contains an arbitrary file upload vulnerability in the Analytics service. A malicious actor with network access to port 443 on vCenter Server may exploit this issue to execute code on vCenter Server by uploading a specially crafted file.| 
 | 20210925T12:23:05Z | CVE-2021-22005 | CVE-2021-22005批量验证python脚本 | https://github.com/5gstudent/CVE-2021-22005- | The vCenter Server contains an arbitrary file upload vulnerability in the Analytics service. A malicious actor with network access to port 443 on vCenter Server may exploit this issue to execute code on vCenter Server by uploading a specially crafted file.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210925T12:40:47Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2791 | 76| 
+| 20210925T16:31:54Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1785 | 507| 
+| 20210925T13:26:54Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2792 | 76| 
 
 
 # s2e on Github 推荐
@@ -35,28 +44,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210925T13:25:18Z | [ProxyLogon] CVE-2021-26855 & CVE-2021-27065 Fixed RawIdentity Bug Exploit. [ProxyOracle] CVE-2021-31195 & CVE-2021-31196 Exploit Chains. [ProxyShell] CVE-2021-34473 & CVE-2021-34523 Exploit Chains, Wait For Update FileWrite Exp(31207.py) | https://github.com/hosch3n/ProxyVulns | 44 | 11| 
-| 20210925T13:21:12Z | 🎻 Modularized exploit generation framework | https://github.com/aesophor/requiem | 9 | 1| 
-| 20210925T13:02:54Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
-| 20210925T12:48:26Z | A new, pretty, simple, cross-platform GUI-based tool for injecting payloads onto your Switch to boot into Atmosphere, Hekate, Android etc! Available for Windows, MacOS and Linux. | https://github.com/versionxcontrol/super-payload-launcher | 7 | 0| 
-| 20210925T12:34:30Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | 0 | 0| 
-| 20210925T12:30:43Z | Null | https://github.com/r4j0x00/exploits | 2366 | 709| 
-| 20210925T12:00:52Z | This is exploitation tool for weaknesses in WP-sites. Do not use it for illegal activities! | https://github.com/noobprogammier/XFRPC | 1 | 0| 
-| 20210925T11:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10121 | 1698| 
-| 20210925T10:57:06Z | One Click root Exploit for Unobtainium Machine [HackTheBox] | https://github.com/Rajchowdhury420/Unobtainium-HTB-Exploit | 1 | 0| 
-| 20210925T10:29:11Z | CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit | https://github.com/klezVirus/CVE-2021-40444 | 371 | 71| 
+| 20210925T23:52:19Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 3950 | 546| 
+| 20210925T23:36:20Z | Writeup for exploit.education/nebula | https://github.com/vi11ain/nebula-writeup | 1 | 0| 
+| 20210925T23:27:08Z | Exploit development training | https://github.com/0xdutra/exploitation-labs | 0 | 0| 
+| 20210925T23:05:37Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 15 | 8| 
+| 20210925T23:03:01Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
+| 20210925T22:55:49Z | https://exploit.education/protostar/ | https://github.com/ngovinhhuy/Protostar_exploit | 0 | 0| 
+| 20210925T22:49:29Z | This project aims to exploit the blockchain technology in the health sector to create a decentralized and secure application that allows the management of medical data of patients while ensuring integrity, confidentiality and transparency. | https://github.com/Manel-Fares/Medical-Records-Management-Using-Blockchain | 0 | 0| 
+| 20210925T22:40:09Z | Null | https://github.com/ExploitHax/ExploitHax | 0 | 0| 
+| 20210925T22:00:04Z | A roblox Exploit GUI Cheat/Hack | https://github.com/Jupiterly/Jupiter-s-GUI | 0 | 0| 
+| 20210925T21:51:25Z | A private Da Hood exploit script | https://github.com/iamtryingtofindname/Artemis | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210925T23:03:04Z | A python Library that when the main function is imported - creates a Reverse Shell to an attacker | https://github.com/alufdavid/BackDoor-py-Lib | 0 | 0| 
+| 20210925T20:29:50Z | The best backdoor scanner there is. | https://github.com/iK4oS/backdoor.exe | 2 | 2| 
+| 20210925T19:45:32Z | pybotnet -   A Python Library for building Botnet , Trojan or BackDoor for windows and linux with Telegram control panel  | https://github.com/onionj/pybotnet | 21 | 12| 
+| 20210925T15:57:47Z | This project aims to understand ethical hacking techniques using python backdoor tool from scratch. The tests and procedures should only be executed on your own machines. If you%re planning to execute pwned-by on someone else%s machine, DO IT ETHICALLY! Ask for permission to conduct your activity with written instructions. Do not investigate someone else%s files without permission. I do not promote any harm to other people. Please use it at your own risk! Author will not be responsible for any damage! This project is for study purposes only. Enjoy hacking! | https://github.com/4stropotato/pwned-by | 1 | 0| 
 | 20210925T11:51:35Z | Backdoor attacks on a deep neural network-based system for COVID-19 detection from chest X-ray images | https://github.com/YukiM00/Backdoored-COVID-Net | 0 | 0| 
 | 20210925T11:03:29Z | Code and data of the EMNLP 2021 paper %Mind the Style of Text! Adversarial and Backdoor Attacks Based on Text Style Transfer% | https://github.com/thunlp/StyleAttack | 1 | 0| 
 | 20210925T10:19:14Z | backdoor virus on python | https://github.com/aaalllexxx/backdoor | 0 | 0| 
 | 20210925T09:26:00Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 318 | 58| 
 | 20210925T07:43:25Z | Code and data of the ACL-IJCNLP 2021 paper %Hidden Killer: Invisible Textual Backdoor Attacks with Syntactic Trigger% | https://github.com/thunlp/HiddenKiller | 5 | 2| 
 | 20210925T07:29:18Z | Want to backdoor an arrogant, wannabe hacker script kiddie that failed to scare you? This project is perfect for you! | https://github.com/GermanBread/skid-begone | 0 | 0| 
-| 20210925T03:42:33Z | This project aims to understand ethical hacking techniques using python backdoor tool from scratch. The tests and procedures should only be executed on your own machines. If you%re planning to execute pwned-by on someone else%s machine, DO IT ETHICALLY! Ask for permission to conduct your activity with written instructions. Do not investigate someone else%s files without permission. I do not promote any harm to other people. Please use it at your own risk! Author will not be responsible for any damage! This project is for study purposes only. Enjoy hacking! | https://github.com/4stropotato/pwned-by | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -73,16 +85,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210925T13:15:16Z | Null | https://github.com/kabolat/AutoFuzzifier | 0 | 0| 
-| 20210925T13:13:44Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 33703 | 17537| 
-| 20210925T12:45:57Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6685 | 1372| 
-| 20210925T12:27:17Z | web fuzzer in python | https://github.com/Nameless-chan/py-fuzz | 0 | 0| 
-| 20210925T12:22:51Z | Null | https://github.com/s9varesc/url-fuzzing-results | 0 | 0| 
-| 20210925T12:15:16Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 28 | 10| 
-| 20210925T12:06:56Z | Null | https://github.com/reflexer-labs/rai-metapool-fuzz | 1 | 0| 
-| 20210925T10:59:09Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 6 | 0| 
-| 20210925T09:33:10Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210925T09:07:36Z | A black-box fuzzer to detect custom permission related privilege escalation vulnerabilities in Android.  | https://github.com/little-leiry/CuPerFuzzer | 0 | 0| 
+| 20210925T23:42:43Z | Null | https://github.com/guipiveti/Fuzzy-Controller | 0 | 0| 
+| 20210925T23:04:14Z | llvm opt fuzzer and bounded exhaustive test generator | https://github.com/regehr/opt-fuzz | 27 | 3| 
+| 20210925T22:13:35Z | An Apple homage site featuring JavaScript and CSS techniques that I%m learning | https://github.com/beautyTruth/fuzzy-eureka | 0 | 0| 
+| 20210925T22:06:06Z | https://github.com/wcventure/FuzzingPaper | https://github.com/mishmashclone/wcventure-FuzzingPaper | 6 | 1| 
+| 20210925T21:34:26Z | Gentoo overlay | https://github.com/lferra/fuzzy-potato | 0 | 0| 
+| 20210925T21:29:37Z | Emulation based snapshot fuzzer | https://github.com/jaoeul/gingersnap | 0 | 0| 
+| 20210925T21:27:26Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1307 | 234| 
+| 20210925T20:54:49Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 547 | 51| 
+| 20210925T20:35:57Z | Null | https://github.com/CyPhEr-Riya/fuzzy-doodle | 0 | 0| 
+| 20210925T19:25:50Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
 
 
 
