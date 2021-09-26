@@ -30,7 +30,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20210925T16:31:54Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1785 | 507| 
-| 20210925T13:26:54Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2792 | 76| 
 
 
 # s2e on Github 推荐
