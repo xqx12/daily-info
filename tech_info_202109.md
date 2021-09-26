@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210926T01:39:46Z | Android RAT with web panel and undetectable App | https://github.com/Th30neAnd0nly/Ohm | 58 | 23| 
 | 20210926T01:37:10Z | repo for %Exploiting Curriculum Learning in Unsupervised Neural Machine Translation% | https://github.com/JinliangLu96/CL_UNMT | 1 | 0| 
 | 20210926T01:35:53Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 349 | 52| 
 | 20210926T01:30:31Z | exploration versus exploitation in reinforcement learning by implementing a k armed bandit problem with greedy and e-greedy action selection algorithms | https://github.com/xuanwei20/K_armed-Bandit-Problem | 0 | 1| 
@@ -97,7 +98,6 @@
 | 20210925T23:52:19Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 3950 | 546| 
 | 20210925T23:36:20Z | Writeup for exploit.education/nebula | https://github.com/vi11ain/nebula-writeup | 1 | 0| 
 | 20210925T23:27:08Z | Exploit development training | https://github.com/0xdutra/exploitation-labs | 0 | 0| 
-| 20210925T23:05:37Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 15 | 8| 
 
 
 # backdoor on Github 推荐
