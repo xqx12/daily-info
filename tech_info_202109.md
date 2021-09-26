@@ -47,7 +47,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210926T00:02:45Z | CVE-2021-40444 | CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit | https://github.com/klezVirus/CVE-2021-40444 | Microsoft MSHTML Remote Code Execution Vulnerability| 
-| 20210925T22:14:43Z | cve-2021-40444 | Null | https://github.com/securitysphynx/cve-2021-40444_weaponized | Microsoft MSHTML Remote Code Execution Vulnerability| 
+| 20210925T22:14:43Z | cve-2021-40444 | Null | https://github.com/securitysphynx/cve-2021-40444_weaponized | | 
 | 20210925T21:11:08Z | CVE-2021-22005 | CVE-2021-22005 - VMWare vCenter Server File Upload to RCE | https://github.com/r0ckysec/CVE-2021-22005 | The vCenter Server contains an arbitrary file upload vulnerability in the Analytics service. A malicious actor with network access to port 443 on vCenter Server may exploit this issue to execute code on vCenter Server by uploading a specially crafted file.| 
 | 20210925T17:18:04Z | CVE-2021-22005 | Null | https://github.com/pisut4152/Sigma-Rule-for-CVE-2021-22005-scanning-activity | The vCenter Server contains an arbitrary file upload vulnerability in the Analytics service. A malicious actor with network access to port 443 on vCenter Server may exploit this issue to execute code on vCenter Server by uploading a specially crafted file.| 
 | 20210925T17:01:12Z | CVE-2021-22005 | Null | https://github.com/1ZRR4H/CVE-2021-22005 | The vCenter Server contains an arbitrary file upload vulnerability in the Analytics service. A malicious actor with network access to port 443 on vCenter Server may exploit this issue to execute code on vCenter Server by uploading a specially crafted file.| 
@@ -144,9 +144,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210926T00:50:25Z | Null | https://github.com/usama54321/dl-fuzzing | 0 | 0| 
 | 20210926T00:41:07Z | An Apple homage site featuring JavaScript and CSS techniques that I%m learning | https://github.com/beautyTruth/fuzzy-eureka | 0 | 0| 
 | 20210926T00:26:09Z | Formal verification and fuzzing of Nova with DappTools. | https://github.com/Rari-Capital/nova-invariants | 5 | 0| 
-| 20210926T00:22:29Z | Null | https://github.com/usama54321/dl-fuzzing | 0 | 0| 
 | 20210925T23:42:43Z | Null | https://github.com/guipiveti/Fuzzy-Controller | 0 | 0| 
 | 20210925T23:04:14Z | llvm opt fuzzer and bounded exhaustive test generator | https://github.com/regehr/opt-fuzz | 27 | 3| 
 | 20210925T22:06:06Z | https://github.com/wcventure/FuzzingPaper | https://github.com/mishmashclone/wcventure-FuzzingPaper | 6 | 1| 
