@@ -42,15 +42,15 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210926T12:02:54Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
+| 20210926T12:01:23Z | This is use for track location or logout all google account using only one click. | https://github.com/VaimpierOfficial/Vaim-Samay | 0 | 0| 
 | 20210926T11:59:05Z | Null | https://github.com/GodlikeIGH/RBLXGameExploits | 0 | 0| 
-| 20210926T11:55:41Z | This is use for track location or logout all google account using only one click. | https://github.com/VaimpierOfficial/Vaim-Samay | 0 | 0| 
 | 20210926T11:54:49Z | Null | https://github.com/joeengo/exploiting | 0 | 0| 
 | 20210926T11:45:04Z | Next.js site where I document my coding exploits | https://github.com/ephcoding/site__ephcoding-dot-com | 0 | 0| 
 | 20210926T11:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10127 | 1699| 
 | 20210926T11:30:58Z | [ProxyLogon] CVE-2021-26855 & CVE-2021-27065 Fixed RawIdentity Bug Exploit. [ProxyOracle] CVE-2021-31195 & CVE-2021-31196 Exploit Chains. [ProxyShell] CVE-2021-34473 & CVE-2021-34523 Exploit Chains, Wait For Update FileWrite Exp(31207.py) | https://github.com/hosch3n/ProxyVulns | 64 | 15| 
 | 20210926T11:28:11Z | This is an Minecraft exploit for cracked server with no login. | https://github.com/Lolpprogamer666/Minecraft-exploit | 1 | 0| 
 | 20210926T11:08:05Z | exploit de la vulnerabilidad dirtyCow | https://github.com/Pabloeldiablo19/dirtyCow | 0 | 0| 
-| 20210926T11:02:53Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
 | 20210926T11:02:33Z | Workaround for the 4 0-days: https://github.com/illusionofchaos/ios-gamed-0day https://github.com/illusionofchaos/ios-nehelper-wifi-info-0day https://github.com/illusionofchaos/ios-nehelper-enum-apps-0day https://github.com/illusionofchaos/ios-analyticsd-pre14.7-exploit | https://github.com/rllbe/entitlementfix | 12 | 1| 
 
 
@@ -71,6 +71,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210926T11:17:15Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2461 | 363| 
+| 20210926T09:25:22Z | RAUK: Automatic Schedulability Analysis of RTIC Applications Using Symbolic Execution | https://github.com/markhakansson/master-thesis | 5 | 0| 
+| 20210926T06:32:07Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1786 | 507| 
 
 
 # big4 on Github 推荐
@@ -81,6 +84,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210926T12:03:03Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210926T11:58:25Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1058 | 46| 
 | 20210926T11:54:51Z | Code of fuzzing book | https://github.com/jiniljeil/Fuzzing | 5 | 0| 
 | 20210926T11:32:23Z | Null | https://github.com/chestnutsj/fuzzergo | 0 | 0| 
@@ -89,7 +93,6 @@
 | 20210926T11:20:03Z | Null | https://github.com/Eudes57/fuzzy-octo-meme | 0 | 0| 
 | 20210926T11:18:37Z | The Fuzzing Book Study | https://github.com/MJ-SEO/Fuzzing | 5 | 0| 
 | 20210926T11:17:18Z | Null | https://github.com/i20548879/fuzztest | 0 | 0| 
-| 20210926T10:35:38Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210926T10:06:32Z | Custom scripts for directory fuzzing, subdomain enumeration, and more. | https://github.com/R0X4R/scvault | 33 | 9| 
 
 
