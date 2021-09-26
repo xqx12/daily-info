@@ -42,9 +42,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210926T12:05:09Z | This is use for track location or logout all google account using only one click. | https://github.com/VaimpierOfficial/Vaim-Samay | 1 | 0| 
+| 20210926T12:13:08Z | This is use for track location or logout all google account using only one click. | https://github.com/VaimpierOfficial/Vaim-Samay | 1 | 0| 
+| 20210926T12:09:09Z | Null | https://github.com/GodlikeIGH/RBLXGameExploits | 0 | 0| 
 | 20210926T12:02:54Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
-| 20210926T11:59:05Z | Null | https://github.com/GodlikeIGH/RBLXGameExploits | 0 | 0| 
 | 20210926T11:54:49Z | Null | https://github.com/joeengo/exploiting | 0 | 0| 
 | 20210926T11:45:04Z | Next.js site where I document my coding exploits | https://github.com/ephcoding/site__ephcoding-dot-com | 0 | 0| 
 | 20210926T11:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10127 | 1699| 
