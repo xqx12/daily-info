@@ -18,7 +18,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210926T12:49:44Z | CVE-2021-22005 | CVE-2021-22005 - VMWare vCenter Server File Upload to RCE | https://github.com/r0ckysec/CVE-2021-22005 | The vCenter Server contains an arbitrary file upload vulnerability in the Analytics service. A malicious actor with network access to port 443 on vCenter Server may exploit this issue to execute code on vCenter Server by uploading a specially crafted file.| 
+| 20210926T12:49:44Z | CVE-2021-22005 | CVE-2021-22005 - VMWare vCenter Server File Upload to RCE | https://github.com/r0ckysec/CVE-2021-22005 | | 
 | 20210926T11:49:36Z | CVE-2021-33739 | CVE-2021-33739 PoC Analysis | https://github.com/giwon9977/CVE-2021-33739_PoC | Microsoft DWM Core Library Elevation of Privilege Vulnerability| 
 | 20210926T08:30:17Z | CVE-2021-40444 | CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit | https://github.com/klezVirus/CVE-2021-40444 | Microsoft MSHTML Remote Code Execution Vulnerability| 
 | 20210926T04:37:06Z | CVE-2021-38647 | CVE-2021-38647 - POC to exploit unauthenticated RCE #OMIGOD | https://github.com/AlteredSecurity/CVE-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
@@ -43,6 +43,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210926T12:55:04Z | repo for %Exploiting Curriculum Learning in Unsupervised Neural Machine Translation% | https://github.com/JinliangLu96/CL_UNMT | 1 | 0| 
 | 20210926T12:22:04Z | [ProxyLogon] CVE-2021-26855 & CVE-2021-27065 Fixed RawIdentity Bug Exploit. [ProxyOracle] CVE-2021-31195 & CVE-2021-31196 Exploit Chains. [ProxyShell] CVE-2021-34473 & CVE-2021-34523 Exploit Chains, Wait For Update FileWrite Exp(31207.py) | https://github.com/hosch3n/ProxyVulns | 65 | 16| 
 | 20210926T12:13:08Z | This is use for track location or logout all google account using only one click. | https://github.com/VaimpierOfficial/Vaim-Samay | 1 | 0| 
 | 20210926T12:09:09Z | Null | https://github.com/GodlikeIGH/RBLXGameExploits | 0 | 0| 
@@ -52,7 +53,6 @@
 | 20210926T11:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10127 | 1699| 
 | 20210926T11:28:11Z | This is an Minecraft exploit for cracked server with no login. | https://github.com/Lolpprogamer666/Minecraft-exploit | 1 | 0| 
 | 20210926T11:08:05Z | exploit de la vulnerabilidad dirtyCow | https://github.com/Pabloeldiablo19/dirtyCow | 0 | 0| 
-| 20210926T11:02:33Z | Workaround for the 4 0-days: https://github.com/illusionofchaos/ios-gamed-0day https://github.com/illusionofchaos/ios-nehelper-wifi-info-0day https://github.com/illusionofchaos/ios-nehelper-enum-apps-0day https://github.com/illusionofchaos/ios-analyticsd-pre14.7-exploit | https://github.com/rllbe/entitlementfix | 12 | 1| 
 
 
 # backdoor on Github 推荐
