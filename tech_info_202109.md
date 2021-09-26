@@ -88,6 +88,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210926T01:35:53Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 349 | 52| 
+| 20210926T01:35:43Z | repo for %Exploiting Curriculum Learning in Unsupervised Neural Machine Translation% | https://github.com/JinliangLu96/CL_UNMT | 1 | 0| 
 | 20210926T01:30:31Z | exploration versus exploitation in reinforcement learning by implementing a k armed bandit problem with greedy and e-greedy action selection algorithms | https://github.com/xuanwei20/K_armed-Bandit-Problem | 0 | 1| 
 | 20210926T01:27:57Z | exploration versus exploitation in reinforcement learning by implementing a k armed bandit problem with greedy and e-greedy action selection algorithms | https://github.com/xuanwei20/my-first-repository | 0 | 1| 
 | 20210926T01:03:03Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
@@ -96,8 +98,6 @@
 | 20210925T23:36:20Z | Writeup for exploit.education/nebula | https://github.com/vi11ain/nebula-writeup | 1 | 0| 
 | 20210925T23:27:08Z | Exploit development training | https://github.com/0xdutra/exploitation-labs | 0 | 0| 
 | 20210925T23:05:37Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 15 | 8| 
-| 20210925T22:55:49Z | https://exploit.education/protostar/ | https://github.com/ngovinhhuy/Protostar_exploit | 0 | 0| 
-| 20210925T22:49:29Z | This project aims to exploit the blockchain technology in the health sector to create a decentralized and secure application that allows the management of medical data of patients while ensuring integrity, confidentiality and transparency. | https://github.com/Manel-Fares/Medical-Records-Management-Using-Blockchain | 0 | 0| 
 
 
 # backdoor on Github 推荐
