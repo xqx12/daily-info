@@ -144,16 +144,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210926T00:26:09Z | Formal verification and fuzzing of Nova with DappTools. | https://github.com/Rari-Capital/nova-invariants | 5 | 0| 
+| 20210926T00:22:29Z | Null | https://github.com/usama54321/dl-fuzzing | 0 | 0| 
+| 20210926T00:19:01Z | An Apple homage site featuring JavaScript and CSS techniques that I%m learning | https://github.com/beautyTruth/fuzzy-eureka | 0 | 0| 
 | 20210925T23:42:43Z | Null | https://github.com/guipiveti/Fuzzy-Controller | 0 | 0| 
 | 20210925T23:04:14Z | llvm opt fuzzer and bounded exhaustive test generator | https://github.com/regehr/opt-fuzz | 27 | 3| 
-| 20210925T22:13:35Z | An Apple homage site featuring JavaScript and CSS techniques that I%m learning | https://github.com/beautyTruth/fuzzy-eureka | 0 | 0| 
 | 20210925T22:06:06Z | https://github.com/wcventure/FuzzingPaper | https://github.com/mishmashclone/wcventure-FuzzingPaper | 6 | 1| 
 | 20210925T21:34:26Z | Gentoo overlay | https://github.com/lferra/fuzzy-potato | 0 | 0| 
 | 20210925T21:29:37Z | Emulation based snapshot fuzzer | https://github.com/jaoeul/gingersnap | 0 | 0| 
 | 20210925T21:27:26Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1307 | 234| 
 | 20210925T20:54:49Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 547 | 51| 
-| 20210925T20:35:57Z | Null | https://github.com/CyPhEr-Riya/fuzzy-doodle | 0 | 0| 
-| 20210925T19:25:50Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
 
 
 
