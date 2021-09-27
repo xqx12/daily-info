@@ -55,7 +55,7 @@
 | 20210926T13:20:29Z | CVE-2021-40444 | Modified code so that we don´t need to rely on CAB archives | https://github.com/Edubr2020/CVE-2021-40444--CABless | Microsoft MSHTML Remote Code Execution Vulnerability| 
 | 20210926T04:37:06Z | CVE-2021-38647 | CVE-2021-38647 - POC to exploit unauthenticated RCE #OMIGOD | https://github.com/AlteredSecurity/CVE-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
 | 20210925T22:14:43Z | cve-2021-40444 | Null | https://github.com/securitysphynx/cve-2021-40444_weaponized | Microsoft MSHTML Remote Code Execution Vulnerability| 
-| 20210925T17:18:04Z | CVE-2021-22005 | Null | https://github.com/pisut4152/Sigma-Rule-for-CVE-2021-22005-scanning-activity | | 
+| 20210925T17:18:04Z | CVE-2021-22005 | Null | https://github.com/pisut4152/Sigma-Rule-for-CVE-2021-22005-scanning-activity | The vCenter Server contains an arbitrary file upload vulnerability in the Analytics service. A malicious actor with network access to port 443 on vCenter Server may exploit this issue to execute code on vCenter Server by uploading a specially crafted file.| 
 
 
 # klee on Github 推荐
