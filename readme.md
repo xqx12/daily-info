@@ -92,13 +92,13 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210927T12:04:08Z | DDRFuzz is a fuzzing system based on a seq2seq model to generate valuable seed corpus. | https://github.com/kppw99/ddrfuzz | 3 | 1| 
 | 20210927T11:54:05Z | star wars api | https://github.com/stepheng323/fuzzy-octo-dollop | 0 | 0| 
 | 20210927T11:45:56Z | Null | https://github.com/romly74/fuzzy-succotash | 0 | 0| 
 | 20210927T11:31:12Z | 🔥 Studying The Fuzzing Book : https://www.fuzzingbook.org | https://github.com/KimSeoYe/TheFuzzingBook | 5 | 0| 
 | 20210927T11:15:51Z | Simple tool combine  ffuf and output full url having 200 response code | https://github.com/bineeg/fuzz_full_url | 0 | 0| 
 | 20210927T11:13:26Z | Null | https://github.com/tani/ddc-fuzzy | 1 | 0| 
 | 20210927T11:07:41Z | Fuzzy Text watchface for Garmin devices | https://github.com/nels0nwu/fuzzy-text | 2 | 3| 
-| 20210927T11:07:31Z | DDRFuzz is a fuzzing system based on a seq2seq model to generate valuable seed corpus. | https://github.com/kppw99/ddrfuzz | 3 | 1| 
 | 20210927T10:38:39Z | Planning tool | https://github.com/HappyDustbunny/FuzzyFlexx | 1 | 0| 
 | 20210927T10:37:11Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210927T10:21:25Z | Filtered Fuzzy Time Series | https://github.com/Marcos001/Filtered-Fuzzy-Time-Series | 0 | 0| 

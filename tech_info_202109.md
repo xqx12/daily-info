@@ -52,7 +52,7 @@
 | 20210927T07:28:09Z | CVE-2021-22005 | CVE-2021-22005批量验证python脚本 | https://github.com/5gstudent/CVE-2021-22005- | The vCenter Server contains an arbitrary file upload vulnerability in the Analytics service. A malicious actor with network access to port 443 on vCenter Server may exploit this issue to execute code on vCenter Server by uploading a specially crafted file.| 
 | 20210927T03:18:50Z | CVE-2021-22005 | CVE-2021-22005_PoC | https://github.com/RedTeamExp/CVE-2021-22005_PoC | The vCenter Server contains an arbitrary file upload vulnerability in the Analytics service. A malicious actor with network access to port 443 on vCenter Server may exploit this issue to execute code on vCenter Server by uploading a specially crafted file.| 
 | 20210927T01:45:19Z | CVE-2021-33739 | CVE-2021-33739 PoC Analysis | https://github.com/giwon9977/CVE-2021-33739_PoC | Microsoft DWM Core Library Elevation of Privilege Vulnerability| 
-| 20210926T13:20:29Z | CVE-2021-40444 | Modified code so that we don´t need to rely on CAB archives | https://github.com/Edubr2020/CVE-2021-40444--CABless | | 
+| 20210926T13:20:29Z | CVE-2021-40444 | Modified code so that we don´t need to rely on CAB archives | https://github.com/Edubr2020/CVE-2021-40444--CABless | Microsoft MSHTML Remote Code Execution Vulnerability| 
 | 20210926T04:37:06Z | CVE-2021-38647 | CVE-2021-38647 - POC to exploit unauthenticated RCE #OMIGOD | https://github.com/AlteredSecurity/CVE-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
 | 20210925T22:14:43Z | cve-2021-40444 | Null | https://github.com/securitysphynx/cve-2021-40444_weaponized | Microsoft MSHTML Remote Code Execution Vulnerability| 
 | 20210925T17:18:04Z | CVE-2021-22005 | Null | https://github.com/pisut4152/Sigma-Rule-for-CVE-2021-22005-scanning-activity | The vCenter Server contains an arbitrary file upload vulnerability in the Analytics service. A malicious actor with network access to port 443 on vCenter Server may exploit this issue to execute code on vCenter Server by uploading a specially crafted file.| 
@@ -145,13 +145,13 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210927T12:04:08Z | DDRFuzz is a fuzzing system based on a seq2seq model to generate valuable seed corpus. | https://github.com/kppw99/ddrfuzz | 3 | 1| 
 | 20210927T11:54:05Z | star wars api | https://github.com/stepheng323/fuzzy-octo-dollop | 0 | 0| 
 | 20210927T11:45:56Z | Null | https://github.com/romly74/fuzzy-succotash | 0 | 0| 
 | 20210927T11:31:12Z | 🔥 Studying The Fuzzing Book : https://www.fuzzingbook.org | https://github.com/KimSeoYe/TheFuzzingBook | 5 | 0| 
 | 20210927T11:15:51Z | Simple tool combine  ffuf and output full url having 200 response code | https://github.com/bineeg/fuzz_full_url | 0 | 0| 
 | 20210927T11:13:26Z | Null | https://github.com/tani/ddc-fuzzy | 1 | 0| 
 | 20210927T11:07:41Z | Fuzzy Text watchface for Garmin devices | https://github.com/nels0nwu/fuzzy-text | 2 | 3| 
-| 20210927T11:07:31Z | DDRFuzz is a fuzzing system based on a seq2seq model to generate valuable seed corpus. | https://github.com/kppw99/ddrfuzz | 3 | 1| 
 | 20210927T10:38:39Z | Planning tool | https://github.com/HappyDustbunny/FuzzyFlexx | 1 | 0| 
 | 20210927T10:37:11Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210927T10:21:25Z | Filtered Fuzzy Time Series | https://github.com/Marcos001/Filtered-Fuzzy-Time-Series | 0 | 0| 
