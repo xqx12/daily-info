@@ -94,7 +94,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20210926T23:55:28Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6689 | 1373| 
-| 20210926T23:38:22Z | Null | https://github.com/lboecken/fuzzy-octo-system | 0 | 0| 
 | 20210926T23:32:07Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4573 | 462| 
 | 20210926T23:12:27Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 303 | 39| 
 | 20210926T23:04:28Z | Attempts to find security vulnerabilities in NetHack via input Fuzzing | https://github.com/recursion-ninja/Superion-YAML | 1 | 3| 
@@ -103,6 +102,7 @@
 | 20210926T21:51:54Z | A bare-metal x86 instruction set fuzzer a la Sandsifter | https://github.com/blitz/baresifter | 39 | 3| 
 | 20210926T21:44:58Z | Tough Fuzzer is an obstacle course for go-fuzz composed of a series of small code samples which encapsulate the most common obstacles to code-coverage the fuzzer will encounter. In each case, the obstacle is insurmountable in a reasonable period of time using random inputs or even coverage-guided mutation. | https://github.com/stevenjohnstone/toughfuzzer | 15 | 0| 
 | 20210926T21:43:04Z | A multi-platform fuzzer for poking at userland binaries and servers | https://github.com/sec-tools/litefuzz | 6 | 1| 
+| 20210926T20:05:21Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1058 | 46| 
 
 
 
