@@ -89,7 +89,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210927T00:33:13Z | Roblox Exploit Scripts for HD Admin. This won%t be of any use to you unless you%re in my Discord server. | https://github.com/arcryi/FamilyHell | 0 | 0| 
+| 20210927T00:48:30Z | Exploit Code | https://github.com/wjddnjs33/Exploit | 0 | 0| 
+| 20210927T00:46:50Z | Roblox Exploit Scripts for HD Admin. This won%t be of any use to you unless you%re in my Discord server. | https://github.com/arcryi/FamilyHell | 0 | 0| 
 | 20210927T00:18:46Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 18 | 11| 
 | 20210927T00:18:31Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 3955 | 545| 
 | 20210927T00:14:29Z | A collection of more than 140+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 783 | 181| 
@@ -98,7 +99,6 @@
 | 20210926T22:32:58Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10129 | 1702| 
 | 20210926T22:27:36Z | Null | https://github.com/AbdaalRuhaani/RuhaaniExploits | 0 | 0| 
 | 20210926T22:18:29Z | This project exploits the potential of fuzzy logic to allow the titanic to avoid icebergs. | https://github.com/LaroyenneG/Fuzzy-Logic | 0 | 0| 
-| 20210926T21:55:06Z | A post-exploitation framework | https://github.com/enkomio/AlanFramework | 81 | 16| 
 
 
 # backdoor on Github 推荐
