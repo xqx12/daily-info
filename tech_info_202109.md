@@ -48,7 +48,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210927T11:57:00Z | CVE-2021-40444 | CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit | https://github.com/klezVirus/CVE-2021-40444 | Microsoft MSHTML Remote Code Execution Vulnerability| 
 | 20210927T10:15:33Z | CVE-2021-31166 | Windows HTTP协议栈远程代码执行漏洞 CVE-2021-31166 | https://github.com/antx-code/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
-| 20210927T10:08:36Z | CVE-2021-22005 | CVE-2021-22005 - VMWare vCenter Server File Upload to RCE | https://github.com/r0ckysec/CVE-2021-22005 | The vCenter Server contains an arbitrary file upload vulnerability in the Analytics service. A malicious actor with network access to port 443 on vCenter Server may exploit this issue to execute code on vCenter Server by uploading a specially crafted file.| 
+| 20210927T10:08:36Z | CVE-2021-22005 | CVE-2021-22005 - VMWare vCenter Server File Upload to RCE | https://github.com/r0ckysec/CVE-2021-22005 | | 
 | 20210927T07:28:09Z | CVE-2021-22005 | CVE-2021-22005批量验证python脚本 | https://github.com/5gstudent/CVE-2021-22005- | The vCenter Server contains an arbitrary file upload vulnerability in the Analytics service. A malicious actor with network access to port 443 on vCenter Server may exploit this issue to execute code on vCenter Server by uploading a specially crafted file.| 
 | 20210927T03:18:50Z | CVE-2021-22005 | CVE-2021-22005_PoC | https://github.com/RedTeamExp/CVE-2021-22005_PoC | The vCenter Server contains an arbitrary file upload vulnerability in the Analytics service. A malicious actor with network access to port 443 on vCenter Server may exploit this issue to execute code on vCenter Server by uploading a specially crafted file.| 
 | 20210927T01:45:19Z | CVE-2021-33739 | CVE-2021-33739 PoC Analysis | https://github.com/giwon9977/CVE-2021-33739_PoC | Microsoft DWM Core Library Elevation of Privilege Vulnerability| 
@@ -145,6 +145,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210927T12:09:21Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 550 | 52| 
 | 20210927T12:04:08Z | DDRFuzz is a fuzzing system based on a seq2seq model to generate valuable seed corpus. | https://github.com/kppw99/ddrfuzz | 3 | 1| 
 | 20210927T11:54:05Z | star wars api | https://github.com/stepheng323/fuzzy-octo-dollop | 0 | 0| 
 | 20210927T11:45:56Z | Null | https://github.com/romly74/fuzzy-succotash | 0 | 0| 
@@ -154,7 +155,6 @@
 | 20210927T11:07:41Z | Fuzzy Text watchface for Garmin devices | https://github.com/nels0nwu/fuzzy-text | 2 | 3| 
 | 20210927T10:38:39Z | Planning tool | https://github.com/HappyDustbunny/FuzzyFlexx | 1 | 0| 
 | 20210927T10:37:11Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210927T10:21:25Z | Filtered Fuzzy Time Series | https://github.com/Marcos001/Filtered-Fuzzy-Time-Series | 0 | 0| 
 
 
 
