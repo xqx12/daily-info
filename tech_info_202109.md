@@ -145,6 +145,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210927T13:00:25Z | Null | https://github.com/vijith07/Bitap-Fuzzy | 0 | 0| 
+| 20210927T12:54:43Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6691 | 1373| 
 | 20210927T12:51:11Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 550 | 52| 
 | 20210927T12:15:16Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 28 | 10| 
 | 20210927T12:12:13Z | DDRFuzz is a fuzzing system based on a seq2seq model to generate valuable seed corpus. | https://github.com/kppw99/ddrfuzz | 3 | 1| 
@@ -153,8 +155,6 @@
 | 20210927T11:31:12Z | 🔥 Studying The Fuzzing Book : https://www.fuzzingbook.org | https://github.com/KimSeoYe/TheFuzzingBook | 5 | 0| 
 | 20210927T11:15:51Z | Simple tool combine  ffuf and output full url having 200 response code | https://github.com/bineeg/fuzz_full_url | 0 | 0| 
 | 20210927T11:13:26Z | Null | https://github.com/tani/ddc-fuzzy | 1 | 0| 
-| 20210927T11:07:41Z | Fuzzy Text watchface for Garmin devices | https://github.com/nels0nwu/fuzzy-text | 2 | 3| 
-| 20210927T10:38:39Z | Planning tool | https://github.com/HappyDustbunny/FuzzyFlexx | 1 | 0| 
 
 
 
