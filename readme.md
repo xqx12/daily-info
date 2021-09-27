@@ -92,8 +92,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210927T12:12:13Z | DDRFuzz is a fuzzing system based on a seq2seq model to generate valuable seed corpus. | https://github.com/kppw99/ddrfuzz | 3 | 1| 
 | 20210927T12:09:21Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 550 | 52| 
-| 20210927T12:04:08Z | DDRFuzz is a fuzzing system based on a seq2seq model to generate valuable seed corpus. | https://github.com/kppw99/ddrfuzz | 3 | 1| 
 | 20210927T11:54:05Z | star wars api | https://github.com/stepheng323/fuzzy-octo-dollop | 0 | 0| 
 | 20210927T11:45:56Z | Null | https://github.com/romly74/fuzzy-succotash | 0 | 0| 
 | 20210927T11:31:12Z | 🔥 Studying The Fuzzing Book : https://www.fuzzingbook.org | https://github.com/KimSeoYe/TheFuzzingBook | 5 | 0| 
