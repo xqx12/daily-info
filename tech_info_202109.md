@@ -145,7 +145,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210927T01:38:52Z | A Python based web application scanner to gather OSINT and fuzz for OWASP vulnerabilities on a target website. | https://github.com/1N3/BlackWidow | 986 | 305| 
+| 20210927T01:41:43Z | A Python based web application scanner to gather OSINT and fuzz for OWASP vulnerabilities on a target website. | https://github.com/1N3/BlackWidow | 986 | 305| 
 | 20210927T00:02:24Z | Null | https://github.com/lboecken/fuzzy-octo-system | 0 | 0| 
 | 20210926T23:55:28Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6689 | 1373| 
 | 20210926T23:32:07Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4573 | 462| 
