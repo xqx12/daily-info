@@ -89,7 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210927T01:21:07Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 18 | 12| 
+| 20210927T01:25:15Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 18 | 12| 
 | 20210927T01:03:08Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
 | 20210927T00:48:30Z | Exploit Code | https://github.com/wjddnjs33/Exploit | 0 | 0| 
 | 20210927T00:46:50Z | Roblox Exploit Scripts for HD Admin. This won%t be of any use to you unless you%re in my Discord server. | https://github.com/arcryi/FamilyHell | 0 | 0| 
