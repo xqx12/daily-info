@@ -89,12 +89,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210927T01:56:46Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 18 | 12| 
 | 20210927T01:49:17Z | Vulmap 是一款 web 漏洞扫描和验证工具, 可对 webapps 进行漏洞扫描, 并且具备漏洞验证功能 | https://github.com/zhzyker/vulmap | 1724 | 329| 
 | 20210927T01:48:41Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 3956 | 545| 
 | 20210927T01:48:16Z | Exploits by 1N3 @CrowdShield @xer0dayz @XeroSecurity | https://github.com/1N3/Exploits | 160 | 92| 
 | 20210927T01:45:14Z | Null | https://github.com/Ruia-ruia/Exploits | 4 | 0| 
 | 20210927T01:43:28Z | Find exploits in local and online databases instantly | https://github.com/1N3/Findsploit | 1230 | 301| 
-| 20210927T01:42:13Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 18 | 12| 
 | 20210927T01:03:08Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
 | 20210927T00:48:30Z | Exploit Code | https://github.com/wjddnjs33/Exploit | 0 | 0| 
 | 20210927T00:46:50Z | Roblox Exploit Scripts for HD Admin. This won%t be of any use to you unless you%re in my Discord server. | https://github.com/arcryi/FamilyHell | 0 | 0| 
@@ -145,6 +145,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210927T01:55:01Z | A CTF fuzz powerd by protobuf. | https://github.com/Kiprey/protobuf_ctf_fuzz | 2 | 0| 
 | 20210927T01:49:22Z | A set of fuzzers for fuzzing various parts of the Zig standard library | https://github.com/squeek502/zig-std-lib-fuzzing | 8 | 0| 
 | 20210927T01:47:10Z | A collection of Burpsuite Intruder payloads, BurpBounty payloads, fuzz lists, malicious file uploads and web pentesting methodologies and checklists. | https://github.com/1N3/IntruderPayloads | 2684 | 1019| 
 | 20210927T01:41:43Z | A Python based web application scanner to gather OSINT and fuzz for OWASP vulnerabilities on a target website. | https://github.com/1N3/BlackWidow | 986 | 305| 
@@ -154,7 +155,6 @@
 | 20210926T23:12:27Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 303 | 39| 
 | 20210926T23:04:28Z | Attempts to find security vulnerabilities in NetHack via input Fuzzing | https://github.com/recursion-ninja/Superion-YAML | 1 | 3| 
 | 20210926T22:34:14Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20210926T22:18:29Z | This project exploits the potential of fuzzy logic to allow the titanic to avoid icebergs. | https://github.com/LaroyenneG/Fuzzy-Logic | 0 | 0| 
 
 
 
