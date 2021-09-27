@@ -92,7 +92,7 @@
 | 20210927T01:03:08Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
 | 20210927T00:48:30Z | Exploit Code | https://github.com/wjddnjs33/Exploit | 0 | 0| 
 | 20210927T00:46:50Z | Roblox Exploit Scripts for HD Admin. This won%t be of any use to you unless you%re in my Discord server. | https://github.com/arcryi/FamilyHell | 0 | 0| 
-| 20210927T00:18:46Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 18 | 11| 
+| 20210927T00:18:46Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 18 | 12| 
 | 20210927T00:18:31Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 3955 | 545| 
 | 20210927T00:14:29Z | A collection of more than 140+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 783 | 181| 
 | 20210926T23:09:59Z | Open-Source Roblox Exploit. It was made in under 2 hours. I had no coding experience before this, and followed tutorials. | https://github.com/githubisveryepic/Booba-Roblox-Exploit | 0 | 0| 
