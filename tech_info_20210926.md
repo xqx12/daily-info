@@ -21,10 +21,10 @@
 | --- | --- | --- | --- | ---| 
 | 20210926T16:05:08Z | CVE-2021-22005 | CVE-2021-22005 - VMWare vCenter Server File Upload to RCE | https://github.com/r0ckysec/CVE-2021-22005 | The vCenter Server contains an arbitrary file upload vulnerability in the Analytics service. A malicious actor with network access to port 443 on vCenter Server may exploit this issue to execute code on vCenter Server by uploading a specially crafted file.| 
 | 20210926T15:43:55Z | CVE-2021-40444 | CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit | https://github.com/klezVirus/CVE-2021-40444 | Microsoft MSHTML Remote Code Execution Vulnerability| 
-| 20210926T13:20:29Z | CVE-2021-40444 | Modified code so that we don´t need to rely on CAB archives | https://github.com/Edubr2020/CVE-2021-40444--CABless | | 
+| 20210926T13:20:29Z | CVE-2021-40444 | Modified code so that we don´t need to rely on CAB archives | https://github.com/Edubr2020/CVE-2021-40444--CABless | Microsoft MSHTML Remote Code Execution Vulnerability| 
 | 20210926T11:49:36Z | CVE-2021-33739 | CVE-2021-33739 PoC Analysis | https://github.com/giwon9977/CVE-2021-33739_PoC | Microsoft DWM Core Library Elevation of Privilege Vulnerability| 
 | 20210926T04:37:06Z | CVE-2021-38647 | CVE-2021-38647 - POC to exploit unauthenticated RCE #OMIGOD | https://github.com/AlteredSecurity/CVE-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
-| 20210926T04:05:14Z | CVE-2021-22005 | CVE-2021-22005批量验证python脚本 | https://github.com/5gstudent/CVE-2021-22005- | The vCenter Server contains an arbitrary file upload vulnerability in the Analytics service. A malicious actor with network access to port 443 on vCenter Server may exploit this issue to execute code on vCenter Server by uploading a specially crafted file.| 
+| 20210926T04:05:14Z | CVE-2021-22005 | CVE-2021-22005批量验证python脚本 | https://github.com/5gstudent/CVE-2021-22005- | | 
 
 
 # klee on Github 推荐
@@ -51,8 +51,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20210926T23:09:59Z | Open-Source Roblox Exploit. It was made in under 2 hours. I had no coding experience before this, and followed tutorials. | https://github.com/githubisveryepic/Booba-Roblox-Exploit | 0 | 0| 
-| 20210926T23:07:55Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 17 | 10| 
-| 20210926T22:32:58Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10129 | 1701| 
+| 20210926T22:32:58Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10129 | 1702| 
 | 20210926T22:27:36Z | Null | https://github.com/AbdaalRuhaani/RuhaaniExploits | 0 | 0| 
 | 20210926T22:18:29Z | This project exploits the potential of fuzzy logic to allow the titanic to avoid icebergs. | https://github.com/LaroyenneG/Fuzzy-Logic | 0 | 0| 
 | 20210926T21:55:06Z | A post-exploitation framework | https://github.com/enkomio/AlanFramework | 81 | 16| 
@@ -60,6 +59,7 @@
 | 20210926T20:48:54Z | Exploration-Exploitation using MAB | https://github.com/aegoe/MAB | 0 | 1| 
 | 20210926T20:46:11Z | Null | https://github.com/PitchyATree/roblox-exploit-library | 1 | 0| 
 | 20210926T20:36:24Z | My first exploit💀 | https://github.com/Trix2/My-100-first-projects | 0 | 0| 
+| 20210926T19:59:40Z | Null | https://github.com/GodlikeIGH/RBLXGameExploits | 0 | 1| 
 
 
 # backdoor on Github 推荐
