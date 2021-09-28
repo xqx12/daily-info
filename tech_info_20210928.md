@@ -97,6 +97,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210928T12:20:33Z | 🔥 Studying The Fuzzing Book : https://www.fuzzingbook.org | https://github.com/KimSeoYe/TheFuzzingBook | 5 | 0| 
 | 20210928T12:15:16Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 28 | 10| 
 | 20210928T12:09:38Z | Kernel fuzzer inspired by Syzkaller | https://github.com/SunHao-0/healer | 116 | 14| 
 | 20210928T12:03:10Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 303 | 39| 
@@ -106,7 +107,6 @@
 | 20210928T11:22:28Z | Null | https://github.com/TinkerBoard2-Android/test-vts-testcase-fuzz | 0 | 0| 
 | 20210928T11:22:23Z | Null | https://github.com/TinkerBoard2-Android/test-vti-fuzz_test_serving | 0 | 0| 
 | 20210928T11:10:53Z | Null | https://github.com/TinkerBoard2-Android/external-oss-fuzz | 0 | 0| 
-| 20210928T10:59:26Z | A fuzzer which allows to find bugs in Goost | https://github.com/goostengine/goost-fuzzer | 0 | 0| 
 
 
 
