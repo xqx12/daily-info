@@ -55,7 +55,7 @@
 | 20210927T10:15:33Z | CVE-2021-31166 | Windows HTTP协议栈远程代码执行漏洞 CVE-2021-31166 | https://github.com/antx-code/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
 | 20210927T03:18:50Z | CVE-2021-22005 | CVE-2021-22005_PoC | https://github.com/RedTeamExp/CVE-2021-22005_PoC | The vCenter Server contains an arbitrary file upload vulnerability in the Analytics service. A malicious actor with network access to port 443 on vCenter Server may exploit this issue to execute code on vCenter Server by uploading a specially crafted file.| 
 | 20210927T01:45:19Z | CVE-2021-33739 | CVE-2021-33739 PoC Analysis | https://github.com/giwon9977/CVE-2021-33739_PoC | Microsoft DWM Core Library Elevation of Privilege Vulnerability| 
-| 20210926T04:37:06Z | CVE-2021-38647 | CVE-2021-38647 - POC to exploit unauthenticated RCE #OMIGOD | https://github.com/AlteredSecurity/CVE-2021-38647 | | 
+| 20210926T04:37:06Z | CVE-2021-38647 | CVE-2021-38647 - POC to exploit unauthenticated RCE #OMIGOD | https://github.com/AlteredSecurity/CVE-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
 
 
 # klee on Github 推荐
@@ -146,6 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210928T00:07:20Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 33743 | 17556| 
 | 20210928T00:06:31Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210927T23:58:32Z | Julia package for fuzzy sets and clustering | https://github.com/tmwatchanan/FuzzySets.jl | 0 | 0| 
 | 20210927T23:56:11Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 551 | 52| 
@@ -155,7 +156,6 @@
 | 20210927T22:05:57Z | Null | https://github.com/SafwanSukeri/fuzzy-doodle | 0 | 0| 
 | 20210927T21:55:33Z | Gentoo overlay | https://github.com/lferra/fuzzy-potato | 0 | 0| 
 | 20210927T21:45:00Z | Comparing tool variability and numerical variability in fMRI analyses results | https://github.com/ali4006/fuzzy-neurotools | 0 | 0| 
-| 20210927T21:25:04Z | A differential fuzzer for x86 decoders | https://github.com/trailofbits/mishegos | 155 | 22| 
 
 
 
