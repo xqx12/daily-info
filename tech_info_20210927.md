@@ -64,16 +64,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210927T23:55:33Z | Exploiting Causal Structure for Transportability in Online, Multi-Agent Environments | https://github.com/axelbrowne/ECS4TOMAE | 0 | 0| 
 | 20210927T23:44:58Z | Similar to the other binary exploitation exploits lab, but this time for web, exploiting with python ! | https://github.com/TheCrazzXz/Webexploits-Lab | 0 | 0| 
 | 20210927T23:40:45Z | Dork and Exploit Scanenr for ( SQL, XSS, RFI, LFI )  | https://github.com/TurKLoJeN/dork-exploit-scanner | 1 | 1| 
 | 20210927T23:36:25Z | Null | https://github.com/haltlol/worldedit-exploit | 0 | 0| 
 | 20210927T23:28:59Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 18 | 17| 
 | 20210927T23:24:34Z | Exploitation of the theory of the six degrees of separation. | https://github.com/arthur-fontaine/dupondt | 1 | 1| 
-| 20210927T23:03:06Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
 | 20210927T21:08:40Z | Null | https://github.com/DragonExploitUgur/DragonExploitSite | 0 | 0| 
 | 20210927T20:45:28Z | Database Systems - Principles of database design and operation. Relational data model. High-level data modeling representations. SQL database language. Active databases with constraints and triggers. Query optimization with views and indexes. Exploiting database servers within programming languages for web application development. Other topics include transaction processing and recovery, user-defined functions, and data warehousing.  | https://github.com/kingkirpal2000/CSE-111 | 1 | 0| 
 | 20210927T20:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10135 | 1708| 
+| 20210927T20:29:06Z | Exploitdb Twitter bot | https://github.com/dedsxc/bot_exploitdb | 0 | 0| 
+| 20210927T20:09:37Z | Null | https://github.com/zYan666/Demon-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
