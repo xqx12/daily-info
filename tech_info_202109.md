@@ -90,7 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210928T00:21:53Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 18 | 17| 
+| 20210928T00:23:34Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 19 | 17| 
 | 20210928T00:19:28Z | Exploiting Causal Structure for Transportability in Online, Multi-Agent Environments | https://github.com/axelbrowne/ECS4TOMAE | 0 | 0| 
 | 20210928T00:02:57Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
 | 20210927T23:44:58Z | Similar to the other binary exploitation exploits lab, but this time for web, exploiting with python ! | https://github.com/TheCrazzXz/Webexploits-Lab | 0 | 0| 
