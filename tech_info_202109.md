@@ -55,7 +55,7 @@
 | 20210927T10:15:33Z | CVE-2021-31166 | Windows HTTP协议栈远程代码执行漏洞 CVE-2021-31166 | https://github.com/antx-code/CVE-2021-31166 | HTTP Protocol Stack Remote Code Execution Vulnerability| 
 | 20210927T03:18:50Z | CVE-2021-22005 | CVE-2021-22005_PoC | https://github.com/RedTeamExp/CVE-2021-22005_PoC | The vCenter Server contains an arbitrary file upload vulnerability in the Analytics service. A malicious actor with network access to port 443 on vCenter Server may exploit this issue to execute code on vCenter Server by uploading a specially crafted file.| 
 | 20210927T01:45:19Z | CVE-2021-33739 | CVE-2021-33739 PoC Analysis | https://github.com/giwon9977/CVE-2021-33739_PoC | Microsoft DWM Core Library Elevation of Privilege Vulnerability| 
-| 20210926T04:37:06Z | CVE-2021-38647 | CVE-2021-38647 - POC to exploit unauthenticated RCE #OMIGOD | https://github.com/AlteredSecurity/CVE-2021-38647 | | 
+| 20210926T04:37:06Z | CVE-2021-38647 | CVE-2021-38647 - POC to exploit unauthenticated RCE #OMIGOD | https://github.com/AlteredSecurity/CVE-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
 
 
 # klee on Github 推荐
@@ -120,16 +120,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210927T12:10:36Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 158 | 34| 
+| 20210927T19:48:47Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1788 | 507| 
+| 20210927T19:10:21Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1893 | 393| 
+| 20210927T17:18:32Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 31 | 7| 
+| 20210927T15:08:53Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2463 | 363| 
+| 20210927T14:10:32Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 158 | 34| 
 | 20210927T11:56:08Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 17 | 3| 
-| 20210927T05:56:10Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2462 | 363| 
-| 20210927T03:49:13Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1787 | 507| 
 | 20210926T14:44:07Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 156 | 37| 
 | 20210926T09:25:22Z | RAUK: Automatic Schedulability Analysis of RTIC Applications Using Symbolic Execution | https://github.com/markhakansson/master-thesis | 5 | 0| 
-| 20210925T16:28:45Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1891 | 393| 
 | 20210924T17:40:55Z | A tool for generating nonlinear numerical invariants for C and Java programs.  DIG uses dynamic analysis to infer invariants over program execution traces and applies symbolic execution to inferred invariants. | https://github.com/unsat/dig | 9 | 4| 
 | 20210924T12:05:38Z | Symbolica%s open-source symbolic execution engine. | https://github.com/SymbolicaDev/Symbolica | 28 | 2| 
-| 20210924T07:43:38Z | A RISC-V RV32 virtual prototype based on riscv-vp with symbolic execution support | https://github.com/agra-uni-bremen/symex-vp | 3 | 1| 
 
 
 # big4 on Github 推荐
@@ -146,9 +146,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210928T00:06:31Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210927T23:58:32Z | Julia package for fuzzy sets and clustering | https://github.com/tmwatchanan/FuzzySets.jl | 0 | 0| 
 | 20210927T23:56:11Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 551 | 52| 
-| 20210927T23:35:07Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210927T23:09:33Z | 32-bit x86 multiprocessing OS capable of running console or graphical user applications. | https://github.com/scopeInfinity/FuzzyOS | 2 | 0| 
 | 20210927T22:37:28Z | Null | https://github.com/diegodimer/fuzzy-bassoon | 0 | 0| 
 | 20210927T22:35:10Z | Waddle | https://github.com/Mbduncan2008/fuzzy-waddle | 0 | 0| 
