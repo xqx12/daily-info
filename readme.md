@@ -33,7 +33,7 @@
 | 20210928T06:34:47Z | CVE-2021-22005 | CVE-2021-22005_PoC | https://github.com/RedTeamExp/CVE-2021-22005_PoC | The vCenter Server contains an arbitrary file upload vulnerability in the Analytics service. A malicious actor with network access to port 443 on vCenter Server may exploit this issue to execute code on vCenter Server by uploading a specially crafted file.| 
 | 20210928T05:25:07Z | CVE-2021-22005 | CVE-2021-22005批量验证python脚本 | https://github.com/5gstudent/CVE-2021-22005- | The vCenter Server contains an arbitrary file upload vulnerability in the Analytics service. A malicious actor with network access to port 443 on vCenter Server may exploit this issue to execute code on vCenter Server by uploading a specially crafted file.| 
 | 20210928T04:08:46Z | CVE-2021-3493 | Ubuntu OverlayFS Local Privesc | https://github.com/briskets/CVE-2021-3493 | The overlayfs implementation in the linux kernel did not properly validate with respect to user namespaces the setting of file capabilities on files in an underlying file system. Due to the combination of unprivileged user namespaces along with a patch carried in the Ubuntu kernel to allow unprivileged overlay mounts, an attacker could use this to gain elevated privileges.| 
-| 20210928T03:40:15Z | CVE-2021-40444 | CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit | https://github.com/klezVirus/CVE-2021-40444 | | 
+| 20210928T03:40:15Z | CVE-2021-40444 | CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit | https://github.com/klezVirus/CVE-2021-40444 | Microsoft MSHTML Remote Code Execution Vulnerability| 
 
 
 # klee on Github 推荐
@@ -55,6 +55,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210928T12:52:54Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 22 | 14| 
 | 20210928T12:47:25Z | Working Discord Token Generator | https://github.com/xenos1337/Discord-Token-Generator | 0 | 0| 
 | 20210928T12:37:11Z | Roblox exploit under development | https://github.com/Unknown3958/UnknownExploit | 0 | 0| 
 | 20210928T12:33:51Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10140 | 1708| 
@@ -64,7 +65,6 @@
 | 20210928T11:08:40Z | This is a repository of exploits that helps in pentest. | https://github.com/TarunYenni/exploits | 0 | 0| 
 | 20210928T11:05:54Z | This is an optimized and efficient scene segmentation model which exploits multi-scale feature fusion technique for capturing contextual information from the scene. This model produces less parameters and FLOPS compare to many existing real-time scene segmentation model. | https://github.com/tanmaysingha/FANet | 3 | 2| 
 | 20210928T11:03:30Z | Ways to bypass school restrictions and collect data | https://github.com/itsjaylen/SchoolExploits | 0 | 0| 
-| 20210928T10:22:31Z | Exploitdb Twitter bot | https://github.com/dedsxc/bot_exploitdb | 0 | 0| 
 
 
 # backdoor on Github 推荐
