@@ -29,7 +29,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210929T12:37:15Z | CVE-2021-40444 | CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit | https://github.com/klezVirus/CVE-2021-40444 | Microsoft MSHTML Remote Code Execution Vulnerability| 
 | 20210929T12:35:29Z | CVE-2021-30632 | Null | https://github.com/Lagal1990/CVE-2021-30632 | 未查询到CVE信息| 
-| 20210929T12:20:13Z | CVE-2021-22005 | CVE-2021-22005 - VMWare vCenter Server File Upload to RCE | https://github.com/r0ckysec/CVE-2021-22005 | | 
+| 20210929T12:20:13Z | CVE-2021-22005 | CVE-2021-22005 - VMWare vCenter Server File Upload to RCE | https://github.com/r0ckysec/CVE-2021-22005 | The vCenter Server contains an arbitrary file upload vulnerability in the Analytics service. A malicious actor with network access to port 443 on vCenter Server may exploit this issue to execute code on vCenter Server by uploading a specially crafted file.| 
 | 20210929T11:39:29Z | CVE-2021-40444 | Microsoft MSHTML Remote Code Execution Vulnerability CVE-2021-40444 | https://github.com/ozergoker/CVE-2021-40444 | Microsoft MSHTML Remote Code Execution Vulnerability| 
 | 20210929T07:12:57Z | CVE-2021-3493 | Ubuntu OverlayFS Local Privesc | https://github.com/briskets/CVE-2021-3493 | The overlayfs implementation in the linux kernel did not properly validate with respect to user namespaces the setting of file capabilities on files in an underlying file system. Due to the combination of unprivileged user namespaces along with a patch carried in the Ubuntu kernel to allow unprivileged overlay mounts, an attacker could use this to gain elevated privileges.| 
 | 20210929T07:12:53Z | CVE-2021-22005 | Null | https://github.com/rwincey/CVE-2021-22005 | The vCenter Server contains an arbitrary file upload vulnerability in the Analytics service. A malicious actor with network access to port 443 on vCenter Server may exploit this issue to execute code on vCenter Server by uploading a specially crafted file.| 
@@ -94,8 +94,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210929T12:52:08Z | fuzzing lists | https://github.com/strshpntrprz1/lists | 0 | 0| 
 | 20210929T12:47:20Z | An Apple homage site featuring JavaScript and CSS techniques that I%m learning | https://github.com/beautyTruth/fuzzy-eureka | 0 | 0| 
-| 20210929T12:46:57Z | fuzzing lists | https://github.com/strshpntrprz1/lists | 0 | 0| 
 | 20210929T12:40:14Z | Planning tool | https://github.com/HappyDustbunny/FuzzyFlexx | 1 | 0| 
 | 20210929T12:38:48Z | Null | https://github.com/LindiweM-Stack/fuzzy-enigma | 0 | 0| 
 | 20210929T12:25:35Z | JSON testing | https://github.com/mexer/fuzzy-eureka | 0 | 1| 
