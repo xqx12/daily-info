@@ -148,7 +148,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210929T12:52:08Z | fuzzing lists | https://github.com/strshpntrprz1/lists | 0 | 0| 
+| 20210929T12:59:42Z | fuzzing lists | https://github.com/strshpntrprz1/lists | 0 | 0| 
 | 20210929T12:47:20Z | An Apple homage site featuring JavaScript and CSS techniques that I%m learning | https://github.com/beautyTruth/fuzzy-eureka | 0 | 0| 
 | 20210929T12:40:14Z | Planning tool | https://github.com/HappyDustbunny/FuzzyFlexx | 1 | 0| 
 | 20210929T12:38:48Z | Null | https://github.com/LindiweM-Stack/fuzzy-enigma | 0 | 0| 
