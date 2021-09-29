@@ -94,6 +94,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210929T12:15:13Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 28 | 10| 
+| 20210929T12:12:32Z | Null | https://github.com/PaulPextra/fuzzy-disco | 0 | 0| 
 | 20210929T12:04:46Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3701 | 879| 
 | 20210929T12:04:35Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210929T11:56:08Z | Code of fuzzing book | https://github.com/jiniljeil/Fuzzing | 5 | 0| 
@@ -102,8 +104,6 @@
 | 20210929T11:15:45Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2397 | 145| 
 | 20210929T11:01:13Z | Null | https://github.com/mayaming/Fuzzer | 0 | 0| 
 | 20210929T10:35:41Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
-| 20210929T09:59:14Z | Type keyword for web search and then choose where to search with fuzzy list filter from csv file | https://github.com/yellowsoar/alfred_web_search_with_fuzzy_list | 1 | 0| 
-| 20210929T09:54:47Z | JetBrains Research intership project. | https://github.com/AnzhelaSukhanova/fuzzing_of_spacer | 0 | 0| 
 
 
 
