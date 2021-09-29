@@ -46,10 +46,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210929T12:05:40Z | CVE-2021-30632 | Null | https://github.com/Lagal1990/CVE-2021-30632 | | 
+| 20210929T12:05:40Z | CVE-2021-30632 | Null | https://github.com/Lagal1990/CVE-2021-30632 | 未查询到CVE信息| 
 | 20210929T12:03:09Z | CVE-2021-22005 | CVE-2021-22005 - VMWare vCenter Server File Upload to RCE | https://github.com/r0ckysec/CVE-2021-22005 | The vCenter Server contains an arbitrary file upload vulnerability in the Analytics service. A malicious actor with network access to port 443 on vCenter Server may exploit this issue to execute code on vCenter Server by uploading a specially crafted file.| 
 | 20210929T11:39:29Z | CVE-2021-40444 | Microsoft MSHTML Remote Code Execution Vulnerability CVE-2021-40444 | https://github.com/ozergoker/CVE-2021-40444 | Microsoft MSHTML Remote Code Execution Vulnerability| 
-| 20210929T10:54:49Z | CVE-2021-40444 | CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit | https://github.com/klezVirus/CVE-2021-40444 | | 
+| 20210929T10:54:49Z | CVE-2021-40444 | CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit | https://github.com/klezVirus/CVE-2021-40444 | Microsoft MSHTML Remote Code Execution Vulnerability| 
 | 20210929T07:12:57Z | CVE-2021-3493 | Ubuntu OverlayFS Local Privesc | https://github.com/briskets/CVE-2021-3493 | The overlayfs implementation in the linux kernel did not properly validate with respect to user namespaces the setting of file capabilities on files in an underlying file system. Due to the combination of unprivileged user namespaces along with a patch carried in the Ubuntu kernel to allow unprivileged overlay mounts, an attacker could use this to gain elevated privileges.| 
 | 20210929T07:12:53Z | CVE-2021-22005 | Null | https://github.com/rwincey/CVE-2021-22005 | The vCenter Server contains an arbitrary file upload vulnerability in the Analytics service. A malicious actor with network access to port 443 on vCenter Server may exploit this issue to execute code on vCenter Server by uploading a specially crafted file.| 
 | 20210929T01:29:00Z | CVE-2021-40346 | CVE-2021-40346 integer overflow enables http smuggling | https://github.com/donky16/CVE-2021-40346-POC | An integer overflow exists in HAProxy 2.0 through 2.5 in htx_add_header that can be exploited to perform an HTTP request smuggling attack, allowing an attacker to bypass all configured http-request HAProxy ACLs and possibly other ACLs.| 
@@ -91,10 +91,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210929T12:09:42Z | Experimental Linux kernel module that attempts to offer an in-kernel defence against the %rowhammer% exploit | https://github.com/nyarosu/rowhammer | 0 | 0| 
+| 20210929T12:09:26Z | not public yet | https://github.com/LazarusReborn/PDF-Silent-Exploit | 0 | 0| 
 | 20210929T12:08:17Z | In this project, I deployed and assessed a simple web application environment’s security posture. I will test the security of the environment by simulating an attack scenario and exploiting cloud configuration vulnerabilities. I%ll also set up monitoring to identify suspicious behavior and vulnerable configurations and you will remediate the identified misconfigurations. Finally, i will tie it all together by proposing a DevOps build pipeline that includes security best practices. | https://github.com/YoussefBayouli/AWS-Cloud-Security---Protecting-Resources-and-Data-in-the-Cloud | 0 | 0| 
-| 20210929T12:05:16Z | not public yet | https://github.com/LazarusReborn/PDF-Silent-Exploit | 0 | 0| 
 | 20210929T12:03:21Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
-| 20210929T12:00:36Z | Experimental Linux kernel module that attempts to offer an in-kernel defence against the %rowhammer% exploit | https://github.com/nyarosu/rowhammer | 0 | 0| 
 | 20210929T11:45:10Z | Exploit to bypass Google%s JS security protection when using MITM phishing tools | https://github.com/TomAbel/evilginx.botguard | 0 | 0| 
 | 20210929T11:45:08Z | Geohazards Thematic Exploitation guide | https://github.com/Terradue/doc-tep-geohazards | 9 | 26| 
 | 20210929T11:35:16Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10149 | 1708| 
@@ -121,7 +121,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210929T11:15:47Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 67 | 4| 
+| 20210929T12:09:05Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 68 | 4| 
 | 20210929T11:10:27Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 161 | 37| 
 | 20210929T07:05:10Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1894 | 393| 
 | 20210928T22:39:48Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 158 | 35| 
