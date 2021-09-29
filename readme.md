@@ -55,8 +55,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210929T12:36:47Z | In this project, I deployed and assessed a simple web application environment’s security posture. Then, I intentionally test the security of the environment by simulating an attack scenario and exploiting cloud configuration vulnerabilities. I%ll also set up monitoring to identify suspicious behavior and vulnerable configurations and you will remediate the identified misconfigurations. Finally, I tied it all together by proposing a DevOps build pipeline that includes security best practices. | https://github.com/YoussefBayouli/AWS-Cloud-Security---Protecting-Resources-and-Data-in-the-Cloud | 0 | 0| 
+| 20210929T12:32:46Z | Exploit Development - Weaponized Exploit and Proof of Concepts (PoC)  | https://github.com/VoidSec/Exploit-Development | 50 | 17| 
 | 20210929T12:13:28Z | Collection of Discord hacking tools/fun stuff/exploits that is completely developed using NodeJS. | https://github.com/I2rys/ODiscord | 6 | 4| 
-| 20210929T12:13:12Z | In this project, I deployed and assessed a simple web application environment’s security posture. Then, I intentionally test the security of the environment by simulating an attack scenario and exploiting cloud configuration vulnerabilities. I%ll also set up monitoring to identify suspicious behavior and vulnerable configurations and you will remediate the identified misconfigurations. Finally, I tied it all together by proposing a DevOps build pipeline that includes security best practices. | https://github.com/YoussefBayouli/AWS-Cloud-Security---Protecting-Resources-and-Data-in-the-Cloud | 0 | 0| 
 | 20210929T12:11:13Z | not public yet | https://github.com/LazarusReborn/PDF-Silent-Exploit | 0 | 0| 
 | 20210929T12:10:50Z | Experimental Linux kernel module that attempts to offer an in-kernel defence against the %rowhammer% exploit | https://github.com/nyarosu/rowhammer | 0 | 0| 
 | 20210929T12:03:21Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
@@ -64,7 +65,6 @@
 | 20210929T11:45:08Z | Geohazards Thematic Exploitation guide | https://github.com/Terradue/doc-tep-geohazards | 9 | 26| 
 | 20210929T11:35:16Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10149 | 1708| 
 | 20210929T11:11:52Z | A collection of more than 140+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 799 | 182| 
-| 20210929T10:45:46Z | This docx exploit uses res files inside Microsoft .docx file to execute malicious files. This exploit is related to CVE-2021-40444 | https://github.com/LazarusReborn/Docx-Exploit-2021 | 0 | 1| 
 
 
 # backdoor on Github 推荐
