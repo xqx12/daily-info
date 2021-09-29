@@ -91,9 +91,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210929T00:00:52Z | A yocto meta-layer for Raspberry Pi with preconfigured vulnerabilities to exploit. | https://github.com/nimarty/hackypi | 0 | 0| 
+| 20210929T00:04:41Z | A yocto meta-layer for Raspberry Pi with preconfigured vulnerabilities to exploit. | https://github.com/nimarty/hackypi | 0 | 0| 
+| 20210929T00:03:05Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
 | 20210928T23:58:23Z | Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish to influence Onelinetips and explain the commands, for the better understanding of new hunters.. | https://github.com/KingOfBugbounty/KingOfBugBountyTips | 2442 | 416| 
-| 20210928T23:02:57Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
 | 20210928T22:16:26Z | PS4 Host Exploits For 5.05 Firmware to 7.55 Firmware | https://github.com/Night-King-Host/Night-King-Host.github.io | 6 | 2| 
 | 20210928T21:58:57Z | Exploiting Causal Structure for Transportability in Online, Multi-Agent Environments | https://github.com/axelbrowne/ECS4TOMAE | 0 | 0| 
 | 20210928T21:49:48Z | CTF website using Django, Apache, and PostgresSQL. Will feature cloudflare protection that requires exploit to get source ip, to get to ssh section. | https://github.com/Jagroop-Singh/CTF | 0 | 0| 
@@ -121,16 +121,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210928T12:43:41Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 15 | 1| 
-| 20210928T11:05:12Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1789 | 507| 
+| 20210928T23:59:25Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 33 | 2| 
+| 20210928T22:39:48Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 158 | 34| 
+| 20210928T19:02:35Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1790 | 507| 
+| 20210928T16:10:25Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 17 | 3| 
 | 20210928T07:19:03Z | Symbolica%s open-source symbolic execution engine. | https://github.com/Symbolica/Symbolica | 29 | 2| 
 | 20210928T04:36:25Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 158 | 37| 
 | 20210928T04:24:53Z | A Ghidra extension that allows you to run Angr symbolic execution using the Pcode from Ghidra. | https://github.com/jdkleuver/PcodeSym | 1 | 0| 
 | 20210927T19:10:21Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1893 | 393| 
 | 20210927T17:18:32Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 31 | 7| 
 | 20210927T15:08:53Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2463 | 363| 
-| 20210927T14:10:32Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 158 | 34| 
-| 20210927T11:56:08Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 17 | 3| 
 
 
 # big4 on Github 推荐
