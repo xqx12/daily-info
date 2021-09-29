@@ -29,7 +29,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210929T12:37:15Z | CVE-2021-40444 | CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit | https://github.com/klezVirus/CVE-2021-40444 | Microsoft MSHTML Remote Code Execution Vulnerability| 
 | 20210929T12:35:29Z | CVE-2021-30632 | Null | https://github.com/Lagal1990/CVE-2021-30632 | 未查询到CVE信息| 
-| 20210929T12:20:13Z | CVE-2021-22005 | CVE-2021-22005 - VMWare vCenter Server File Upload to RCE | https://github.com/r0ckysec/CVE-2021-22005 | The vCenter Server contains an arbitrary file upload vulnerability in the Analytics service. A malicious actor with network access to port 443 on vCenter Server may exploit this issue to execute code on vCenter Server by uploading a specially crafted file.| 
+| 20210929T12:20:13Z | CVE-2021-22005 | CVE-2021-22005 - VMWare vCenter Server File Upload to RCE | https://github.com/r0ckysec/CVE-2021-22005 | | 
 | 20210929T11:39:29Z | CVE-2021-40444 | Microsoft MSHTML Remote Code Execution Vulnerability CVE-2021-40444 | https://github.com/ozergoker/CVE-2021-40444 | Microsoft MSHTML Remote Code Execution Vulnerability| 
 | 20210929T07:12:57Z | CVE-2021-3493 | Ubuntu OverlayFS Local Privesc | https://github.com/briskets/CVE-2021-3493 | The overlayfs implementation in the linux kernel did not properly validate with respect to user namespaces the setting of file capabilities on files in an underlying file system. Due to the combination of unprivileged user namespaces along with a patch carried in the Ubuntu kernel to allow unprivileged overlay mounts, an attacker could use this to gain elevated privileges.| 
 | 20210929T07:12:53Z | CVE-2021-22005 | Null | https://github.com/rwincey/CVE-2021-22005 | The vCenter Server contains an arbitrary file upload vulnerability in the Analytics service. A malicious actor with network access to port 443 on vCenter Server may exploit this issue to execute code on vCenter Server by uploading a specially crafted file.| 
@@ -55,6 +55,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210929T12:52:54Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 22 | 14| 
 | 20210929T12:52:07Z | A collection of more than 140+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 800 | 182| 
 | 20210929T12:49:15Z | Understanding and Exploiting Deep Learning-based Sentiment Analysis from News Headlines for Predicting Price Movements of WTI Crude Oil | https://github.com/Captain-1337/Master-Thesis | 0 | 0| 
 | 20210929T12:46:52Z | In this project, I deployed and assessed a simple web application environment’s security posture. Then, I intentionally test the security of the environment by simulating an attack scenario and exploiting cloud configuration vulnerabilities. I%ll also set up monitoring to identify suspicious behavior and vulnerable configurations and  remediate the identified misconfigurations. Finally, I tied it all together by proposing a DevOps build pipeline that includes security best practices. | https://github.com/YoussefBayouli/AWS-Cloud-Security---Protecting-Resources-and-Data-in-the-Cloud | 0 | 0| 
@@ -64,7 +65,6 @@
 | 20210929T12:11:13Z | not public yet | https://github.com/LazarusReborn/PDF-Silent-Exploit | 0 | 0| 
 | 20210929T12:10:50Z | Experimental Linux kernel module that attempts to offer an in-kernel defence against the %rowhammer% exploit | https://github.com/nyarosu/rowhammer | 0 | 0| 
 | 20210929T12:03:21Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
-| 20210929T11:45:10Z | Exploit to bypass Google%s JS security protection when using MITM phishing tools | https://github.com/TomAbel/evilginx.botguard | 0 | 0| 
 
 
 # backdoor on Github 推荐
