@@ -50,7 +50,7 @@
 | 20210929T12:03:09Z | CVE-2021-22005 | CVE-2021-22005 - VMWare vCenter Server File Upload to RCE | https://github.com/r0ckysec/CVE-2021-22005 | The vCenter Server contains an arbitrary file upload vulnerability in the Analytics service. A malicious actor with network access to port 443 on vCenter Server may exploit this issue to execute code on vCenter Server by uploading a specially crafted file.| 
 | 20210929T11:39:29Z | CVE-2021-40444 | Microsoft MSHTML Remote Code Execution Vulnerability CVE-2021-40444 | https://github.com/ozergoker/CVE-2021-40444 | Microsoft MSHTML Remote Code Execution Vulnerability| 
 | 20210929T10:54:49Z | CVE-2021-40444 | CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit | https://github.com/klezVirus/CVE-2021-40444 | Microsoft MSHTML Remote Code Execution Vulnerability| 
-| 20210929T07:12:57Z | CVE-2021-3493 | Ubuntu OverlayFS Local Privesc | https://github.com/briskets/CVE-2021-3493 | The overlayfs implementation in the linux kernel did not properly validate with respect to user namespaces the setting of file capabilities on files in an underlying file system. Due to the combination of unprivileged user namespaces along with a patch carried in the Ubuntu kernel to allow unprivileged overlay mounts, an attacker could use this to gain elevated privileges.| 
+| 20210929T07:12:57Z | CVE-2021-3493 | Ubuntu OverlayFS Local Privesc | https://github.com/briskets/CVE-2021-3493 | | 
 | 20210929T07:12:53Z | CVE-2021-22005 | Null | https://github.com/rwincey/CVE-2021-22005 | The vCenter Server contains an arbitrary file upload vulnerability in the Analytics service. A malicious actor with network access to port 443 on vCenter Server may exploit this issue to execute code on vCenter Server by uploading a specially crafted file.| 
 | 20210929T01:29:00Z | CVE-2021-40346 | CVE-2021-40346 integer overflow enables http smuggling | https://github.com/donky16/CVE-2021-40346-POC | An integer overflow exists in HAProxy 2.0 through 2.5 in htx_add_header that can be exploited to perform an HTTP request smuggling attack, allowing an attacker to bypass all configured http-request HAProxy ACLs and possibly other ACLs.| 
 | 20210929T00:46:04Z | CVE-2021-22005 | Null | https://github.com/1ZRR4H/CVE-2021-22005 | The vCenter Server contains an arbitrary file upload vulnerability in the Analytics service. A malicious actor with network access to port 443 on vCenter Server may exploit this issue to execute code on vCenter Server by uploading a specially crafted file.| 
@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210929T12:12:35Z | for atcoder | https://github.com/kashee337/klee_atcoder | 0 | 0| 
+| 20210929T12:17:10Z | for atcoder | https://github.com/kashee337/klee_atcoder | 0 | 0| 
 | 20210929T09:55:24Z | projet to format csv files to pg | https://github.com/CinquinAndy/klee_csv_formater_to_pg | 0 | 0| 
 | 20210929T09:32:43Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2802 | 76| 
 | 20210929T08:35:13Z | application de mesure énergétique des application métier d%une entreprise - kleegroup - api | https://github.com/CinquinAndy/klee-green-it-app-api | 0 | 0| 
