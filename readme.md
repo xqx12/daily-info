@@ -94,7 +94,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210929T12:22:22Z | JSON testing | https://github.com/mexer/fuzzy-eureka | 0 | 1| 
+| 20210929T12:25:35Z | JSON testing | https://github.com/mexer/fuzzy-eureka | 0 | 1| 
 | 20210929T12:15:13Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 28 | 10| 
 | 20210929T12:12:32Z | Null | https://github.com/PaulPextra/fuzzy-disco | 0 | 0| 
 | 20210929T12:04:46Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3701 | 879| 
