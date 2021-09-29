@@ -31,7 +31,7 @@
 | 20210929T12:05:40Z | CVE-2021-30632 | Null | https://github.com/Lagal1990/CVE-2021-30632 | 未查询到CVE信息| 
 | 20210929T11:39:29Z | CVE-2021-40444 | Microsoft MSHTML Remote Code Execution Vulnerability CVE-2021-40444 | https://github.com/ozergoker/CVE-2021-40444 | Microsoft MSHTML Remote Code Execution Vulnerability| 
 | 20210929T10:54:49Z | CVE-2021-40444 | CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit | https://github.com/klezVirus/CVE-2021-40444 | Microsoft MSHTML Remote Code Execution Vulnerability| 
-| 20210929T07:12:57Z | CVE-2021-3493 | Ubuntu OverlayFS Local Privesc | https://github.com/briskets/CVE-2021-3493 | The overlayfs implementation in the linux kernel did not properly validate with respect to user namespaces the setting of file capabilities on files in an underlying file system. Due to the combination of unprivileged user namespaces along with a patch carried in the Ubuntu kernel to allow unprivileged overlay mounts, an attacker could use this to gain elevated privileges.| 
+| 20210929T07:12:57Z | CVE-2021-3493 | Ubuntu OverlayFS Local Privesc | https://github.com/briskets/CVE-2021-3493 | | 
 | 20210929T07:12:53Z | CVE-2021-22005 | Null | https://github.com/rwincey/CVE-2021-22005 | The vCenter Server contains an arbitrary file upload vulnerability in the Analytics service. A malicious actor with network access to port 443 on vCenter Server may exploit this issue to execute code on vCenter Server by uploading a specially crafted file.| 
 | 20210929T01:29:00Z | CVE-2021-40346 | CVE-2021-40346 integer overflow enables http smuggling | https://github.com/donky16/CVE-2021-40346-POC | An integer overflow exists in HAProxy 2.0 through 2.5 in htx_add_header that can be exploited to perform an HTTP request smuggling attack, allowing an attacker to bypass all configured http-request HAProxy ACLs and possibly other ACLs.| 
 | 20210929T00:46:04Z | CVE-2021-22005 | Null | https://github.com/1ZRR4H/CVE-2021-22005 | The vCenter Server contains an arbitrary file upload vulnerability in the Analytics service. A malicious actor with network access to port 443 on vCenter Server may exploit this issue to execute code on vCenter Server by uploading a specially crafted file.| 
@@ -94,6 +94,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210929T12:22:22Z | JSON testing | https://github.com/mexer/fuzzy-eureka | 0 | 1| 
 | 20210929T12:15:13Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 28 | 10| 
 | 20210929T12:12:32Z | Null | https://github.com/PaulPextra/fuzzy-disco | 0 | 0| 
 | 20210929T12:04:46Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3701 | 879| 
@@ -103,7 +104,6 @@
 | 20210929T11:19:14Z | An Apple homage site featuring JavaScript and CSS techniques that I%m learning | https://github.com/beautyTruth/fuzzy-eureka | 0 | 0| 
 | 20210929T11:15:45Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2397 | 145| 
 | 20210929T11:01:13Z | Null | https://github.com/mayaming/Fuzzer | 0 | 0| 
-| 20210929T10:35:41Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 
 
 
