@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210929T00:50:56Z | Collection of Discord hacking tools/fun stuff/exploits that is completely developed using NodeJS. | https://github.com/I2rys/ODiscord | 6 | 4| 
 | 20210929T00:42:52Z | This repository contains some resources for ethical hackers penetration tester 😊 This may contain some files, tools, books, and links that need to be used for good purposes only. Do not do any illegal work using these sources. | https://github.com/rng70/Hacking-Resources | 9 | 0| 
 | 20210929T00:42:24Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10145 | 1709| 
 | 20210929T00:09:28Z | A yocto meta-layer for Raspberry Pi with preconfigured vulnerabilities to exploit. | https://github.com/nimarty/hackypi | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20210928T21:58:57Z | Exploiting Causal Structure for Transportability in Online, Multi-Agent Environments | https://github.com/axelbrowne/ECS4TOMAE | 0 | 0| 
 | 20210928T21:49:48Z | CTF website using Django, Apache, and PostgresSQL. Will feature cloudflare protection that requires exploit to get source ip, to get to ssh section. | https://github.com/Jagroop-Singh/CTF | 0 | 0| 
 | 20210928T21:42:35Z | Repository for the NeurIPS 2021 paper: %Exploiting Domain-Specific Features to Enhance Domain Generalization%. | https://github.com/manhhabui/mDSDI | 0 | 0| 
-| 20210928T21:31:08Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 20 | 18| 
 
 
 # backdoor on Github 推荐
