@@ -29,7 +29,7 @@
 | 20210928T21:08:23Z | CVE-2021-22005 | Null | https://github.com/rwincey/CVE-2021-22005 | The vCenter Server contains an arbitrary file upload vulnerability in the Analytics service. A malicious actor with network access to port 443 on vCenter Server may exploit this issue to execute code on vCenter Server by uploading a specially crafted file.| 
 | 20210928T20:29:38Z | CVE-2021-40346 | CVE-2021-40346 integer overflow enables http smuggling | https://github.com/donky16/CVE-2021-40346-POC | An integer overflow exists in HAProxy 2.0 through 2.5 in htx_add_header that can be exploited to perform an HTTP request smuggling attack, allowing an attacker to bypass all configured http-request HAProxy ACLs and possibly other ACLs.| 
 | 20210928T19:25:08Z | CVE-2021-40444 | CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit | https://github.com/klezVirus/CVE-2021-40444 | Microsoft MSHTML Remote Code Execution Vulnerability| 
-| 20210928T17:56:13Z | CVE-2021-30632 | Null | https://github.com/Lagal1990/CVE-2021-30632 | 未查询到CVE信息| 
+| 20210928T17:56:13Z | CVE-2021-30632 | Null | https://github.com/Lagal1990/CVE-2021-30632 | | 
 | 20210928T11:44:00Z | CVE-2021-36563 | Null | https://github.com/Edgarloyola/CVE-2021-36563 | The CheckMK management web console (versions 1.5.0 to 2.0.0) does not sanitise user input in various parameters of the WATO module. This allows an attacker to open a backdoor on the device with HTML content and interpreted by the browser (such as JavaScript or other client-side scripts), the XSS payload will be triggered when the user accesses some specific sections of the application. In the same sense a very dangerous potential way would be when an attacker who has the monitor role (not administrator) manages to get a stored XSS to steal the secretAutomation (for the use of the API in administrator mode) and thus be able to create another administrator user who has high privileges on the CheckMK monitoring web console. Another way is that persistent XSS allows an attacker to modify the displayed content or change the victim%s information. Successful exploitation requires access to the web management interface, either with valid credentials or with a hijacked session.| 
 | 20210928T08:48:35Z | CVE-2021-22005 | CVE-2021-22005 - VMWare vCenter Server File Upload to RCE | https://github.com/r0ckysec/CVE-2021-22005 | The vCenter Server contains an arbitrary file upload vulnerability in the Analytics service. A malicious actor with network access to port 443 on vCenter Server may exploit this issue to execute code on vCenter Server by uploading a specially crafted file.| 
 | 20210928T07:23:57Z | CVE-2021-35042 | Null | https://github.com/r4vi/CVE-2021-35042 | Django 3.1.x before 3.1.13 and 3.2.x before 3.2.5 allows QuerySet.order_by SQL injection if order_by is untrusted input from a client of a web application.| 
@@ -88,7 +88,6 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210928T23:59:25Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 33 | 2| 
 | 20210928T22:39:48Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 158 | 34| 
 | 20210928T19:02:35Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1790 | 507| 
 | 20210928T16:10:25Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 17 | 3| 
@@ -111,11 +110,11 @@
 | 20210928T23:39:07Z | Human Assisted Fuzzing | https://github.com/crowlc3/HAF | 0 | 0| 
 | 20210928T23:00:31Z | Null | https://github.com/googleprojectzero/SockFuzzer | 217 | 25| 
 | 20210928T22:50:56Z | Null | https://github.com/yuchunju/art-works-fuzz | 0 | 0| 
-| 20210928T21:36:32Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210928T20:43:21Z | This project exploits the potential of fuzzy logic to allow the titanic to avoid icebergs. | https://github.com/LaroyenneG/Fuzzy-Logic | 0 | 0| 
 | 20210928T20:11:00Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 303 | 39| 
 | 20210928T19:58:35Z | RTSPhuzz - An RTSP Fuzzer written using the Boofuzz framework | https://github.com/IncludeSecurity/RTSPhuzz | 25 | 3| 
 | 20210928T19:36:41Z | Gentoo overlay | https://github.com/lferra/fuzzy-potato | 1 | 0| 
+| 20210928T19:27:42Z | What is WinAppDbg? The WinAppDbg python module allows developers to quickly code instrumentation scripts in Python under a Windows environment.  It uses ctypes to wrap many Win32 API calls related to debugging, and provides an object-oriented abstraction layer to manipulate threads, libraries and processes, attach your script as a debugger, trace execution, hook API calls, handle events in your debugee and set breakpoints of different kinds (code, hardware and memory). Additionally it has no native code at all, making it easier to maintain or modify than other debuggers on Windows.  The intended audience are QA engineers and software security auditors wishing to test / fuzz Windows applications with quickly coded Python scripts, as well as malware analysts and researchers wishing to instrument and test Windows binaries. Several ready to use utilities are shipped and can be used for this purposes.  Current features also include disassembling x86/x64 native code, debugging multiple processes simultaneously and produce a detailed log of application crashes, useful for fuzzing and automated testing. | https://github.com/sahdow3256/-WinDbg | 1 | 0| 
 
 
 
