@@ -106,29 +106,29 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210929T10:17:15Z | pybotnet -   A Python Library for building Botnet , Trojan or BackDoor for windows and linux with Telegram control panel  | https://github.com/onionj/pybotnet | 21 | 12| 
+| 20210929T10:11:37Z | Remote control software | https://github.com/h1zzz/purewater | 0 | 0| 
+| 20210929T08:18:34Z | Unofficial pytorch implementation of RobNet(Defense-Resistant Backdoor Attacks on DNN) | https://github.com/dhkim2810/RobNet | 0 | 0| 
+| 20210929T07:07:03Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 100 | 18| 
 | 20210928T21:13:29Z | In collab with Brynard Security | https://github.com/spence-rat/ps_backdoor | 0 | 0| 
 | 20210928T15:24:48Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 36 | 27| 
-| 20210928T15:01:40Z | Remote control software | https://github.com/h1zzz/purewater | 0 | 0| 
 | 20210928T14:52:55Z | python backdoor shell | https://github.com/trevalkov/cc_centre | 0 | 0| 
 | 20210928T13:23:03Z | Null | https://github.com/diksaratower/RAT-backdoor | 0 | 0| 
-| 20210928T11:25:11Z | Unofficial pytorch implementation of RobNet(Defense-Resistant Backdoor Attacks on DNN) | https://github.com/dhkim2810/RobNet | 0 | 0| 
 | 20210928T09:10:36Z | Apache Tomcat auto WAR deployment & pwning penetration testing tool. | https://github.com/mgeeky/tomcatWarDeployer | 314 | 118| 
 | 20210928T07:32:48Z | Not mine | https://github.com/luke-beep/backdoor | 0 | 0| 
-| 20210928T06:53:08Z | backdoored ECDSA signatures yum! | https://github.com/oreparaz/backdoor-ecdsa | 0 | 0| 
-| 20210928T03:15:37Z | Code for EMNLP 2021 paper: Backdoor Attacks on Pre-trained Models by Layerwise Weight Poisoning | https://github.com/LinyangLee/Layer-Weight-Poison | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210929T01:38:35Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 37 | 2| 
-| 20210928T22:39:48Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 158 | 34| 
+| 20210929T11:15:47Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 67 | 4| 
+| 20210929T11:10:27Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 161 | 37| 
+| 20210929T07:05:10Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1894 | 393| 
+| 20210928T22:39:48Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 158 | 35| 
 | 20210928T19:02:35Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1790 | 507| 
 | 20210928T16:10:25Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 17 | 3| 
 | 20210928T07:19:03Z | Symbolica%s open-source symbolic execution engine. | https://github.com/Symbolica/Symbolica | 29 | 2| 
-| 20210928T04:36:25Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 158 | 37| 
 | 20210928T04:24:53Z | A Ghidra extension that allows you to run Angr symbolic execution using the Pcode from Ghidra. | https://github.com/jdkleuver/PcodeSym | 1 | 0| 
-| 20210927T19:10:21Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1893 | 393| 
 | 20210927T17:18:32Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 31 | 7| 
 | 20210927T15:08:53Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2463 | 363| 
 
