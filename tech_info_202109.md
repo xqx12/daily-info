@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210929T00:59:28Z | CVE-2021-30632 | Null | https://github.com/Lagal1990/CVE-2021-30632 | 未查询到CVE信息| 
+| 20210929T01:00:27Z | CVE-2021-30632 | Null | https://github.com/Lagal1990/CVE-2021-30632 | 未查询到CVE信息| 
 | 20210929T00:46:04Z | CVE-2021-22005 | Null | https://github.com/1ZRR4H/CVE-2021-22005 | The vCenter Server contains an arbitrary file upload vulnerability in the Analytics service. A malicious actor with network access to port 443 on vCenter Server may exploit this issue to execute code on vCenter Server by uploading a specially crafted file.| 
 | 20210928T23:27:35Z | CVE-2021-38647 | CVE-2021-38647 AKA "OMIGOD" vulnerability in Windows OMI  | https://github.com/corelight/CVE-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
 | 20210928T21:08:23Z | CVE-2021-22005 | Null | https://github.com/rwincey/CVE-2021-22005 | The vCenter Server contains an arbitrary file upload vulnerability in the Analytics service. A malicious actor with network access to port 443 on vCenter Server may exploit this issue to execute code on vCenter Server by uploading a specially crafted file.| 
@@ -54,7 +54,7 @@
 | 20210928T19:25:08Z | CVE-2021-40444 | CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit | https://github.com/klezVirus/CVE-2021-40444 | Microsoft MSHTML Remote Code Execution Vulnerability| 
 | 20210928T11:44:00Z | CVE-2021-36563 | Null | https://github.com/Edgarloyola/CVE-2021-36563 | The CheckMK management web console (versions 1.5.0 to 2.0.0) does not sanitise user input in various parameters of the WATO module. This allows an attacker to open a backdoor on the device with HTML content and interpreted by the browser (such as JavaScript or other client-side scripts), the XSS payload will be triggered when the user accesses some specific sections of the application. In the same sense a very dangerous potential way would be when an attacker who has the monitor role (not administrator) manages to get a stored XSS to steal the secretAutomation (for the use of the API in administrator mode) and thus be able to create another administrator user who has high privileges on the CheckMK monitoring web console. Another way is that persistent XSS allows an attacker to modify the displayed content or change the victim%s information. Successful exploitation requires access to the web management interface, either with valid credentials or with a hijacked session.| 
 | 20210928T08:48:35Z | CVE-2021-22005 | CVE-2021-22005 - VMWare vCenter Server File Upload to RCE | https://github.com/r0ckysec/CVE-2021-22005 | The vCenter Server contains an arbitrary file upload vulnerability in the Analytics service. A malicious actor with network access to port 443 on vCenter Server may exploit this issue to execute code on vCenter Server by uploading a specially crafted file.| 
-| 20210928T07:23:57Z | CVE-2021-35042 | Null | https://github.com/r4vi/CVE-2021-35042 | Django 3.1.x before 3.1.13 and 3.2.x before 3.2.5 allows QuerySet.order_by SQL injection if order_by is untrusted input from a client of a web application.| 
+| 20210928T07:23:57Z | CVE-2021-35042 | Null | https://github.com/r4vi/CVE-2021-35042 | | 
 | 20210928T07:15:57Z | CVE-2021-40444 | CVE 2021 40444 Windows Exploit services.dll | https://github.com/kal1gh0st/CVE-2021-40444_CAB_archives | Microsoft MSHTML Remote Code Execution Vulnerability| 
 
 
@@ -91,13 +91,13 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210929T01:03:13Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
+| 20210929T01:01:13Z | Collection of Discord hacking tools/fun stuff/exploits that is completely developed using NodeJS. | https://github.com/I2rys/ODiscord | 6 | 4| 
 | 20210929T00:59:06Z | utility for become fumo scripts | https://github.com/ceat-ceat/BecomeFumoStuff | 0 | 0| 
-| 20210929T00:56:38Z | Collection of Discord hacking tools/fun stuff/exploits that is completely developed using NodeJS. | https://github.com/I2rys/ODiscord | 6 | 4| 
 | 20210929T00:52:53Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 22 | 14| 
 | 20210929T00:42:52Z | This repository contains some resources for ethical hackers penetration tester 😊 This may contain some files, tools, books, and links that need to be used for good purposes only. Do not do any illegal work using these sources. | https://github.com/rng70/Hacking-Resources | 9 | 0| 
 | 20210929T00:42:24Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10145 | 1709| 
 | 20210929T00:09:28Z | A yocto meta-layer for Raspberry Pi with preconfigured vulnerabilities to exploit. | https://github.com/nimarty/hackypi | 0 | 0| 
-| 20210929T00:03:05Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
 | 20210928T23:58:23Z | Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish to influence Onelinetips and explain the commands, for the better understanding of new hunters.. | https://github.com/KingOfBugbounty/KingOfBugBountyTips | 2442 | 416| 
 | 20210928T22:16:26Z | PS4 Host Exploits For 5.05 Firmware to 7.55 Firmware | https://github.com/Night-King-Host/Night-King-Host.github.io | 6 | 2| 
 | 20210928T21:58:57Z | Exploiting Causal Structure for Transportability in Online, Multi-Agent Environments | https://github.com/axelbrowne/ECS4TOMAE | 0 | 0| 
@@ -148,6 +148,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210929T01:02:32Z | Implementação do projeto de mestrado feito na universidade de campo limpo paulista. | https://github.com/aikid/fuzzyscript | 0 | 0| 
 | 20210929T00:48:02Z | An Apple homage site featuring JavaScript and CSS techniques that I%m learning | https://github.com/beautyTruth/fuzzy-eureka | 0 | 0| 
 | 20210929T00:36:28Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210929T00:19:10Z | Mastermind: Simple Personal Website, Ticking Clock, Todo App | https://github.com/lboecken/fuzzy-bunny-slippers | 0 | 0| 
@@ -157,7 +158,6 @@
 | 20210928T23:39:07Z | Human Assisted Fuzzing | https://github.com/crowlc3/HAF | 0 | 0| 
 | 20210928T23:00:31Z | Null | https://github.com/googleprojectzero/SockFuzzer | 217 | 25| 
 | 20210928T22:50:56Z | Null | https://github.com/yuchunju/art-works-fuzz | 0 | 0| 
-| 20210928T20:43:21Z | This project exploits the potential of fuzzy logic to allow the titanic to avoid icebergs. | https://github.com/LaroyenneG/Fuzzy-Logic | 0 | 0| 
 
 
 
