@@ -105,7 +105,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210929T23:55:28Z | Null | https://github.com/afleissner2019/fuzzy-match | 0 | 0| 
 | 20210929T22:58:37Z | Implemented federated learning for binary classification (tabular data) with PyTorch. The data fuzzification technique and local differential privacy mechanism are applied to protect data privacy.  | https://github.com/taokz/FuzzyFL | 0 | 0| 
 | 20210929T22:35:36Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210929T22:19:40Z | Repo para TP #4 de PIAPC | https://github.com/hernanbrue/HB_fuzzy | 0 | 0| 
@@ -115,6 +114,7 @@
 | 20210929T21:03:13Z | Code for fuzzy monkeys. | https://github.com/fuzzyatelin/fuzzyatelin.github.io | 3 | 11| 
 | 20210929T20:56:33Z | Null | https://github.com/xfuzzycomp/FuzzyAsteroids | 1 | 0| 
 | 20210929T20:43:34Z | This repository contains the source code related to the conference paper Bias Quantification for Protected Features in Pattern Classification Problems published at the 25th Iberoamerican Congress on Pattern Recognition in March 2021. | https://github.com/LisaKouts/Fuzzy-rough-Uncertainty-Bias | 0 | 0| 
+| 20210929T20:40:34Z | Null | https://github.com/YaroslavEvdokimov/Fuzzer-convertor | 0 | 0| 
 
 
 
