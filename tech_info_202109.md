@@ -149,6 +149,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210930T01:22:40Z | Null | https://github.com/mpgxc/fuzzy-umbrella | 0 | 0| 
 | 20210930T01:18:14Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20210930T01:00:27Z | Null | https://github.com/afleissner2019/fuzzy-match | 0 | 0| 
 | 20210930T00:19:40Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 28 | 10| 
@@ -158,7 +159,6 @@
 | 20210929T22:10:16Z | An investigation of American Fuzzy Lop++ as a fuzzer | https://github.com/hark130/hardy-remix | 0 | 0| 
 | 20210929T21:26:32Z | loving the name github gave me, this is a test for me to work on. | https://github.com/th3boe/fuzzy-lamp | 0 | 0| 
 | 20210929T21:26:26Z | Null | https://github.com/yuchunju/art-works-fuzz | 0 | 0| 
-| 20210929T21:03:13Z | Code for fuzzy monkeys. | https://github.com/fuzzyatelin/fuzzyatelin.github.io | 3 | 11| 
 
 
 
