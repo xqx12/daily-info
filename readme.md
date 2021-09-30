@@ -59,13 +59,13 @@
 | 20210929T23:52:58Z | A collection of more than 140+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 805 | 182| 
 | 20210929T22:28:15Z | Exploiting metasplotable, in this report I gained access to the system by exploiting FTP. | https://github.com/Noli18P/Metasploitable-ftp | 1 | 0| 
 | 20210929T22:22:02Z | Cross Site Scripting Vulnerability Exploitation Freamwork | https://github.com/ringzerofy/XSSEF | 1 | 0| 
-| 20210929T21:26:20Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 22 | 20| 
 | 20210929T20:49:46Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
 | 20210929T20:37:32Z | This repository contains some resources for ethical hackers penetration tester 😊 This may contain some files, tools, books, and links that need to be used for good purposes only. Do not do any illegal work using these sources. | https://github.com/rng70/Hacking-Resources | 9 | 0| 
 | 20210929T20:35:30Z | According to researchers with Rapid7, over 110,000 devices appear on internet, which run stable Samba versions, while 92,500 seem to run unstable Samba versions, for which there is no fix. The newest Samba models, including the models 4.6.x before 4.6.4, 4.5.x before 4.5.10 and 3.5.0 before 4.4.13, was impacted by this error. May 24, 2017, Samba released version 4.6.4, which fixes a serious remote code execution vulnerability, vulnerability number CVE-2017-7494, which affected Samba 3.5.0 onwards.  Vulnerability number: CVE-2017-7494 Severity Rating: High Affected software:     • Samba Version < 4.6.4     • Samba Version < 4.5.10     • Samba Version < 4.4.14  Unaffected software:     • Samba Version = 4.6.4     • Samba Version = 4.5.10     • Samba Version = 4.4.14 | https://github.com/adjaliya/-CVE-2017-7494-Samba-Exploit-POC | 0 | 0| 
 | 20210929T20:35:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10150 | 1709| 
 | 20210929T20:16:26Z | Null | https://github.com/zYan666/Demon-Exploit | 0 | 0| 
 | 20210929T19:46:16Z | This repo contains all the exploits I reference on my blog. | https://github.com/r4bbithole/exploits | 0 | 0| 
+| 20210929T19:26:35Z | Null | https://github.com/joeengo/exploiting | 0 | 0| 
 
 
 # backdoor on Github 推荐

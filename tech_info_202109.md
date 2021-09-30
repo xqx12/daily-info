@@ -91,7 +91,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210930T01:24:40Z | Ceibal Blacklist Disable eXplOit | https://github.com/iiLH/CBDXO | 0 | 0| 
+| 20210930T01:29:37Z | Ceibal Blacklist Disable eXplOit | https://github.com/iiLH/CBDXO | 0 | 0| 
+| 20210930T01:26:54Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 23 | 20| 
 | 20210930T01:21:54Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 3968 | 546| 
 | 20210930T01:17:18Z | Tool for searching Exploits from Exploit Databases, etc. | https://github.com/vulsio/go-exploitdb | 125 | 37| 
 | 20210930T01:10:55Z | This module exploits an unauthenticated events export in WordPress plugin %modern-events-calendar-lite% plugin version | https://github.com/hoanx4/Modern_Events_Calendar | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20210929T23:52:58Z | A collection of more than 140+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 805 | 182| 
 | 20210929T22:28:15Z | Exploiting metasplotable, in this report I gained access to the system by exploiting FTP. | https://github.com/Noli18P/Metasploitable-ftp | 1 | 0| 
 | 20210929T22:22:02Z | Cross Site Scripting Vulnerability Exploitation Freamwork | https://github.com/ringzerofy/XSSEF | 1 | 0| 
-| 20210929T21:26:20Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 22 | 20| 
 
 
 # backdoor on Github 推荐
