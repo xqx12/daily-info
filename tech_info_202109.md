@@ -55,7 +55,7 @@
 | 20210929T15:28:04Z | CVE-2020-2950 | Null | https://github.com/tuo4n8/CVE-2020-2950 | Vulnerability in the Oracle Business Intelligence Enterprise Edition product of Oracle Fusion Middleware (component: Analytics Web General). Supported versions that are affected are 5.5.0.0.0, 11.1.1.9.0, 12.2.1.3.0 and 12.2.1.4.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle Business Intelligence Enterprise Edition. Successful attacks of this vulnerability can result in takeover of Oracle Business Intelligence Enterprise Edition. CVSS 3.0 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
 | 20210929T11:39:29Z | CVE-2021-40444 | Microsoft MSHTML Remote Code Execution Vulnerability CVE-2021-40444 | https://github.com/ozergoker/CVE-2021-40444 | Microsoft MSHTML Remote Code Execution Vulnerability| 
 | 20210929T07:12:57Z | CVE-2021-3493 | Ubuntu OverlayFS Local Privesc | https://github.com/briskets/CVE-2021-3493 | The overlayfs implementation in the linux kernel did not properly validate with respect to user namespaces the setting of file capabilities on files in an underlying file system. Due to the combination of unprivileged user namespaces along with a patch carried in the Ubuntu kernel to allow unprivileged overlay mounts, an attacker could use this to gain elevated privileges.| 
-| 20210929T01:29:00Z | CVE-2021-40346 | CVE-2021-40346 integer overflow enables http smuggling | https://github.com/donky16/CVE-2021-40346-POC | An integer overflow exists in HAProxy 2.0 through 2.5 in htx_add_header that can be exploited to perform an HTTP request smuggling attack, allowing an attacker to bypass all configured http-request HAProxy ACLs and possibly other ACLs.| 
+| 20210929T01:29:00Z | CVE-2021-40346 | CVE-2021-40346 integer overflow enables http smuggling | https://github.com/donky16/CVE-2021-40346-POC | | 
 
 
 # klee on Github 推荐
@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210930T00:52:53Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 22 | 14| 
 | 20210930T00:03:24Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
 | 20210929T23:52:58Z | A collection of more than 140+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 805 | 182| 
 | 20210929T22:28:15Z | Exploiting metasplotable, in this report I gained access to the system by exploiting FTP. | https://github.com/Noli18P/Metasploitable-ftp | 1 | 0| 
@@ -100,7 +101,6 @@
 | 20210929T20:37:32Z | This repository contains some resources for ethical hackers penetration tester 😊 This may contain some files, tools, books, and links that need to be used for good purposes only. Do not do any illegal work using these sources. | https://github.com/rng70/Hacking-Resources | 9 | 0| 
 | 20210929T20:35:30Z | According to researchers with Rapid7, over 110,000 devices appear on internet, which run stable Samba versions, while 92,500 seem to run unstable Samba versions, for which there is no fix. The newest Samba models, including the models 4.6.x before 4.6.4, 4.5.x before 4.5.10 and 3.5.0 before 4.4.13, was impacted by this error. May 24, 2017, Samba released version 4.6.4, which fixes a serious remote code execution vulnerability, vulnerability number CVE-2017-7494, which affected Samba 3.5.0 onwards.  Vulnerability number: CVE-2017-7494 Severity Rating: High Affected software:     • Samba Version < 4.6.4     • Samba Version < 4.5.10     • Samba Version < 4.4.14  Unaffected software:     • Samba Version = 4.6.4     • Samba Version = 4.5.10     • Samba Version = 4.4.14 | https://github.com/adjaliya/-CVE-2017-7494-Samba-Exploit-POC | 0 | 0| 
 | 20210929T20:35:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10150 | 1709| 
-| 20210929T20:16:26Z | Null | https://github.com/zYan666/Demon-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
