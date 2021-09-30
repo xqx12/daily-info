@@ -46,10 +46,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210930T01:38:53Z | CVE-2021-40444 | CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit | https://github.com/klezVirus/CVE-2021-40444 | Microsoft MSHTML Remote Code Execution Vulnerability| 
 | 20210930T01:37:47Z | CVE-2021-35211 | Null | https://github.com/NattiSamson/Serv-U-CVE-2021-35211 | Microsoft discovered a remote code execution (RCE) vulnerability in the SolarWinds Serv-U product utilizing a Remote Memory Escape Vulnerability. If exploited, a threat actor may be able to gain privileged access to the machine hosting Serv-U Only. SolarWinds Serv-U Managed File Transfer and Serv-U Secure FTP for Windows before 15.2.3 HF2 are affected by this vulnerability.| 
 | 20210930T01:26:11Z | CVE-2021-22005 | Null | https://github.com/rwincey/CVE-2021-22005 | The vCenter Server contains an arbitrary file upload vulnerability in the Analytics service. A malicious actor with network access to port 443 on vCenter Server may exploit this issue to execute code on vCenter Server by uploading a specially crafted file.| 
 | 20210930T01:07:57Z | CVE-2021-22005 | CVE-2021-22005 - VMWare vCenter Server File Upload to RCE | https://github.com/r0ckysec/CVE-2021-22005 | The vCenter Server contains an arbitrary file upload vulnerability in the Analytics service. A malicious actor with network access to port 443 on vCenter Server may exploit this issue to execute code on vCenter Server by uploading a specially crafted file.| 
-| 20210930T01:01:26Z | CVE-2021-40444 | CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit | https://github.com/klezVirus/CVE-2021-40444 | Microsoft MSHTML Remote Code Execution Vulnerability| 
 | 20210930T00:58:59Z | CVE-2021-38647 | CVE-2021-38647 AKA "OMIGOD" vulnerability in Windows OMI  | https://github.com/corelight/CVE-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
 | 20210929T23:07:37Z | CVE-2021-30632 | Null | https://github.com/Lagal1990/CVE-2021-30632 | 未查询到CVE信息| 
 | 20210929T17:41:14Z | CVE-2021-25162 | CVE-2021-25162 | https://github.com/twentybel0w/CVE-2021-25162 | A remote execution of arbitrary commands vulnerability was discovered in some Aruba Instant Access Point (IAP) products in version(s): Aruba Instant 6.4.x: 6.4.4.8-4.2.4.17 and below; Aruba Instant 6.5.x: 6.5.4.18 and below; Aruba Instant 8.3.x: 8.3.0.14 and below; Aruba Instant 8.5.x: 8.5.0.11 and below; Aruba Instant 8.6.x: 8.6.0.7 and below; Aruba Instant 8.7.x: 8.7.1.1 and below. Aruba has released patches for Aruba Instant that address this security vulnerability.| 
@@ -121,8 +121,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210930T01:36:49Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 88 | 6| 
 | 20210930T01:01:40Z | A symbolic execution engine for Chisel circuits. | https://github.com/ekiwi/maltese | 0 | 1| 
-| 20210930T00:03:40Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 87 | 6| 
 | 20210929T20:30:15Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 159 | 35| 
 | 20210929T15:52:02Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 162 | 37| 
 | 20210929T13:48:15Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 17 | 3| 
@@ -149,6 +149,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210930T01:40:21Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210930T01:34:04Z | Simple tool for running libfuzzer across a project | https://github.com/dpayne/fuzz_test | 1 | 0| 
 | 20210930T01:22:40Z | Null | https://github.com/mpgxc/fuzzy-umbrella | 0 | 0| 
 | 20210930T01:18:14Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
@@ -158,7 +159,6 @@
 | 20210929T22:58:37Z | Implemented federated learning for binary classification (tabular data) with PyTorch. The data fuzzification technique and local differential privacy mechanism are applied to protect data privacy.  | https://github.com/taokz/FuzzyFL | 0 | 0| 
 | 20210929T22:19:40Z | Repo para TP #4 de PIAPC | https://github.com/hernanbrue/HB_fuzzy | 0 | 0| 
 | 20210929T22:10:16Z | An investigation of American Fuzzy Lop++ as a fuzzer | https://github.com/hark130/hardy-remix | 0 | 0| 
-| 20210929T21:26:32Z | loving the name github gave me, this is a test for me to work on. | https://github.com/th3boe/fuzzy-lamp | 0 | 0| 
 
 
 
