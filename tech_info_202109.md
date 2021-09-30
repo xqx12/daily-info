@@ -53,7 +53,7 @@
 | 20210929T23:07:37Z | CVE-2021-30632 | Null | https://github.com/Lagal1990/CVE-2021-30632 | 未查询到CVE信息| 
 | 20210929T17:41:14Z | CVE-2021-25162 | CVE-2021-25162 | https://github.com/twentybel0w/CVE-2021-25162 | A remote execution of arbitrary commands vulnerability was discovered in some Aruba Instant Access Point (IAP) products in version(s): Aruba Instant 6.4.x: 6.4.4.8-4.2.4.17 and below; Aruba Instant 6.5.x: 6.5.4.18 and below; Aruba Instant 8.3.x: 8.3.0.14 and below; Aruba Instant 8.5.x: 8.5.0.11 and below; Aruba Instant 8.6.x: 8.6.0.7 and below; Aruba Instant 8.7.x: 8.7.1.1 and below. Aruba has released patches for Aruba Instant that address this security vulnerability.| 
 | 20210929T17:40:54Z | CVE-2021-38647 | CVE-2021-38647 - POC to exploit unauthenticated RCE #OMIGOD | https://github.com/AlteredSecurity/CVE-2021-38647 | Open Management Infrastructure Remote Code Execution Vulnerability| 
-| 20210929T15:45:11Z | CVE-2021-22005 | Null | https://github.com/rwincey/CVE-2021-22005 | The vCenter Server contains an arbitrary file upload vulnerability in the Analytics service. A malicious actor with network access to port 443 on vCenter Server may exploit this issue to execute code on vCenter Server by uploading a specially crafted file.| 
+| 20210929T15:45:11Z | CVE-2021-22005 | Null | https://github.com/rwincey/CVE-2021-22005 | | 
 | 20210929T15:28:04Z | CVE-2020-2950 | Null | https://github.com/tuo4n8/CVE-2020-2950 | Vulnerability in the Oracle Business Intelligence Enterprise Edition product of Oracle Fusion Middleware (component: Analytics Web General). Supported versions that are affected are 5.5.0.0.0, 11.1.1.9.0, 12.2.1.3.0 and 12.2.1.4.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle Business Intelligence Enterprise Edition. Successful attacks of this vulnerability can result in takeover of Oracle Business Intelligence Enterprise Edition. CVSS 3.0 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
 | 20210929T11:39:29Z | CVE-2021-40444 | Microsoft MSHTML Remote Code Execution Vulnerability CVE-2021-40444 | https://github.com/ozergoker/CVE-2021-40444 | Microsoft MSHTML Remote Code Execution Vulnerability| 
 
@@ -91,6 +91,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210930T01:24:40Z | Ceibal Blacklist Disable eXplOit | https://github.com/iiLH/CBDXO | 0 | 0| 
+| 20210930T01:21:54Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 3968 | 546| 
 | 20210930T01:17:18Z | Tool for searching Exploits from Exploit Databases, etc. | https://github.com/vulsio/go-exploitdb | 125 | 37| 
 | 20210930T01:10:55Z | This module exploits an unauthenticated events export in WordPress plugin %modern-events-calendar-lite% plugin version | https://github.com/hoanx4/Modern_Events_Calendar | 0 | 0| 
 | 20210930T01:03:07Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
@@ -99,8 +101,6 @@
 | 20210929T22:28:15Z | Exploiting metasplotable, in this report I gained access to the system by exploiting FTP. | https://github.com/Noli18P/Metasploitable-ftp | 1 | 0| 
 | 20210929T22:22:02Z | Cross Site Scripting Vulnerability Exploitation Freamwork | https://github.com/ringzerofy/XSSEF | 1 | 0| 
 | 20210929T21:26:20Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 22 | 20| 
-| 20210929T20:49:46Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
-| 20210929T20:37:32Z | This repository contains some resources for ethical hackers penetration tester 😊 This may contain some files, tools, books, and links that need to be used for good purposes only. Do not do any illegal work using these sources. | https://github.com/rng70/Hacking-Resources | 9 | 0| 
 
 
 # backdoor on Github 推荐
