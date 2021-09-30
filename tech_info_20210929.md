@@ -52,40 +52,47 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210929T11:10:27Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 161 | 37| 
+| 20210929T16:36:17Z | 🎻 Automatic Exploit Generation (AEG) using concolic execution | https://github.com/aesophor/requiem | 9 | 1| 
+| 20210929T15:52:02Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 162 | 37| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210929T12:52:54Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 22 | 14| 
-| 20210929T12:52:07Z | A collection of more than 140+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 800 | 182| 
-| 20210929T12:49:15Z | Understanding and Exploiting Deep Learning-based Sentiment Analysis from News Headlines for Predicting Price Movements of WTI Crude Oil | https://github.com/Captain-1337/Master-Thesis | 0 | 0| 
-| 20210929T12:46:52Z | In this project, I deployed and assessed a simple web application environment’s security posture. Then, I intentionally test the security of the environment by simulating an attack scenario and exploiting cloud configuration vulnerabilities. I%ll also set up monitoring to identify suspicious behavior and vulnerable configurations and  remediate the identified misconfigurations. Finally, I tied it all together by proposing a DevOps build pipeline that includes security best practices. | https://github.com/YoussefBayouli/AWS-Cloud-Security---Protecting-Resources-and-Data-in-the-Cloud | 0 | 0| 
-| 20210929T12:46:10Z | Null | https://github.com/krastanoel/exploits | 0 | 0| 
-| 20210929T12:32:46Z | Exploit Development - Weaponized Exploit and Proof of Concepts (PoC)  | https://github.com/VoidSec/Exploit-Development | 50 | 17| 
-| 20210929T12:13:28Z | Collection of Discord hacking tools/fun stuff/exploits that is completely developed using NodeJS. | https://github.com/I2rys/ODiscord | 6 | 4| 
-| 20210929T12:11:13Z | not public yet | https://github.com/LazarusReborn/PDF-Silent-Exploit | 0 | 0| 
-| 20210929T12:10:50Z | Experimental Linux kernel module that attempts to offer an in-kernel defence against the %rowhammer% exploit | https://github.com/nyarosu/rowhammer | 0 | 0| 
-| 20210929T12:03:21Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
+| 20210929T23:52:58Z | A collection of more than 140+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 805 | 182| 
+| 20210929T22:28:15Z | Exploiting metasplotable, in this report I gained access to the system by exploiting FTP. | https://github.com/Noli18P/Metasploitable-ftp | 1 | 0| 
+| 20210929T22:22:02Z | Cross Site Scripting Vulnerability Exploitation Freamwork | https://github.com/ringzerofy/XSSEF | 1 | 0| 
+| 20210929T21:26:20Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 22 | 20| 
+| 20210929T20:49:46Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
+| 20210929T20:37:32Z | This repository contains some resources for ethical hackers penetration tester 😊 This may contain some files, tools, books, and links that need to be used for good purposes only. Do not do any illegal work using these sources. | https://github.com/rng70/Hacking-Resources | 9 | 0| 
+| 20210929T20:35:30Z | According to researchers with Rapid7, over 110,000 devices appear on internet, which run stable Samba versions, while 92,500 seem to run unstable Samba versions, for which there is no fix. The newest Samba models, including the models 4.6.x before 4.6.4, 4.5.x before 4.5.10 and 3.5.0 before 4.4.13, was impacted by this error. May 24, 2017, Samba released version 4.6.4, which fixes a serious remote code execution vulnerability, vulnerability number CVE-2017-7494, which affected Samba 3.5.0 onwards.  Vulnerability number: CVE-2017-7494 Severity Rating: High Affected software:     • Samba Version < 4.6.4     • Samba Version < 4.5.10     • Samba Version < 4.4.14  Unaffected software:     • Samba Version = 4.6.4     • Samba Version = 4.5.10     • Samba Version = 4.4.14 | https://github.com/adjaliya/-CVE-2017-7494-Samba-Exploit-POC | 0 | 0| 
+| 20210929T20:35:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10150 | 1709| 
+| 20210929T20:16:26Z | Null | https://github.com/zYan666/Demon-Exploit | 0 | 0| 
+| 20210929T19:46:16Z | This repo contains all the exploits I reference on my blog. | https://github.com/r4bbithole/exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210929T12:06:23Z | The best backdoor scanner there is. | https://github.com/iK4oS/backdoor.exe | 2 | 2| 
+| 20210929T23:59:47Z | Null | https://github.com/Seaocn/Dyn-Backdoor | 0 | 0| 
+| 20210929T22:18:07Z | Offensive RPC PoC | https://github.com/sensepost/offensive-rpc | 3 | 1| 
+| 20210929T21:12:49Z | a simple backdoor service | https://github.com/ranon-rat/yackdoor | 1 | 0| 
+| 20210929T19:59:24Z | cite from the reading list from THU | https://github.com/keyanUB/backdoor_reading | 0 | 0| 
+| 20210929T18:43:49Z | The best backdoor scanner there is. | https://github.com/iK4oS/backdoor.exe | 2 | 2| 
+| 20210929T15:25:35Z | This project aims to understand ethical hacking techniques using python backdoor tool from scratch. The tests and procedures should only be executed on your own machines. If you%re planning to execute pwned-by on someone else%s machine, DO IT ETHICALLY! Ask for permission to conduct your activity with written instructions. Do not investigate someone else%s files without permission. I do not promote any harm to other people. Please use it at your own risk! Author will not be responsible for any damage! This project is for study purposes only. Enjoy hacking! | https://github.com/4stropotato/pwned-by | 2 | 0| 
+| 20210929T14:53:33Z | Just a Rick Roll with a left over poisoned love letter . | https://github.com/Mastermindx33/N3h4V1ru5 | 3 | 0| 
 | 20210929T10:17:15Z | pybotnet -   A Python Library for building Botnet , Trojan or BackDoor for windows and linux with Telegram control panel  | https://github.com/onionj/pybotnet | 21 | 12| 
 | 20210929T10:11:37Z | Remote control software | https://github.com/h1zzz/purewater | 0 | 0| 
 | 20210929T08:18:34Z | Unofficial pytorch implementation of RobNet(Defense-Resistant Backdoor Attacks on DNN) | https://github.com/dhkim2810/RobNet | 0 | 0| 
-| 20210929T07:07:03Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 100 | 18| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210929T12:56:31Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 73 | 4| 
-| 20210929T12:10:29Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 158 | 35| 
-| 20210929T11:10:27Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 161 | 37| 
+| 20210929T20:30:15Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 159 | 35| 
+| 20210929T16:10:06Z | A symbolic execution engine for Chisel circuits. | https://github.com/ekiwi/maltese | 0 | 1| 
+| 20210929T15:52:02Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 162 | 37| 
+| 20210929T13:48:15Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 17 | 3| 
 | 20210929T07:05:10Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1894 | 393| 
 
 
