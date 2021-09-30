@@ -149,11 +149,11 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210930T01:49:07Z | Null | https://github.com/afleissner2019/fuzzy-match | 0 | 0| 
 | 20210930T01:40:21Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20210930T01:34:04Z | Simple tool for running libfuzzer across a project | https://github.com/dpayne/fuzz_test | 1 | 0| 
 | 20210930T01:22:40Z | Null | https://github.com/mpgxc/fuzzy-umbrella | 0 | 0| 
 | 20210930T01:18:14Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
-| 20210930T01:00:27Z | Null | https://github.com/afleissner2019/fuzzy-match | 0 | 0| 
 | 20210930T00:19:40Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 28 | 10| 
 | 20210930T00:02:02Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2397 | 145| 
 | 20210929T22:58:37Z | Implemented federated learning for binary classification (tabular data) with PyTorch. The data fuzzification technique and local differential privacy mechanism are applied to protect data privacy.  | https://github.com/taokz/FuzzyFL | 0 | 0| 
