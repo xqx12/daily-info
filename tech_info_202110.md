@@ -16,6 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211001T12:14:27Z | CVE-2021-30632 | Null | https://github.com/Lagal1990/CVE-2021-30632 | | 
 | 20211001T11:44:45Z | CVE-2020-15436 | Null | https://github.com/artsking/linux-4.1.15_CVE-2020-15436_withPatch | | 
 | 20211001T09:16:44Z | CVE-2021-3129 | PoC for CVE-2021-3129 (Laravel) | https://github.com/knqyf263/CVE-2021-3129 | | 
 | 20211001T08:19:39Z | CVE-2021-22005 | CVE-2021-22005 - VMWare vCenter Server File Upload to RCE | https://github.com/r0ckysec/CVE-2021-22005 | | 
@@ -28,8 +29,8 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211001T12:16:50Z | application de mesure énergétique des application métier d%une entreprise - kleegroup - api | https://github.com/CinquinAndy/klee-green-it-app-api | 0 | 0| 
 | 20211001T11:56:04Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 14 | 1| 
-| 20211001T09:40:45Z | application de mesure énergétique des application métier d%une entreprise - kleegroup - api | https://github.com/CinquinAndy/klee-green-it-app-api | 0 | 0| 
 | 20211001T07:52:01Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2807 | 74| 
 | 20211001T00:21:17Z | for atcoder | https://github.com/kashee337/klee_atcoder | 0 | 0| 
 
@@ -42,6 +43,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211001T12:14:20Z | Tool for searching Exploits from Exploit Databases, etc. | https://github.com/vulsio/go-exploitdb | 126 | 37| 
 | 20211001T12:02:59Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
 | 20211001T11:53:28Z | a very poorly coded bot that uses 3 fucking different languages | https://github.com/Csparmaz/MaarsseveenRPMoneyExploit | 0 | 0| 
 | 20211001T11:47:10Z | CVE Exploit PoC%s | https://github.com/Timirepo/CVE_Exploits | 0 | 0| 
@@ -51,12 +53,12 @@
 | 20211001T09:25:29Z | BioCCP.jl exploits the Coupon Collector Problem for sample size determination in combinatorial biotechnology. | https://github.com/kirstvh/BioCCP.jl | 4 | 0| 
 | 20211001T09:23:34Z | Null | https://github.com/xvSync/NGROK-0DAY-Exploit---Not-Finished | 0 | 0| 
 | 20211001T08:46:36Z | PS4 7.5X Host Exploit (Reduce sleeps in jb.c to speed up) | https://github.com/Night-King-Host/75XV3b2 | 0 | 0| 
-| 20211001T08:28:02Z | Null | https://github.com/EternalCheats/Eternal-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211001T12:15:32Z | Backdoor for access website. | https://github.com/KnightStorm/Root-Web-Shell | 0 | 0| 
 | 20211001T10:09:47Z | pybotnet -   A Python Library for building Botnet , Trojan or BackDoor for windows and linux with Telegram control panel  | https://github.com/onionj/pybotnet | 23 | 13| 
 | 20211001T09:13:10Z | Null | https://github.com/Arram512/python_backdoor | 0 | 0| 
 | 20211001T09:04:38Z | a simple backdoor service(NOT FINISHED) | https://github.com/ranon-rat/yackdoor | 1 | 0| 
@@ -80,6 +82,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211001T12:15:19Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 28 | 10| 
 | 20211001T12:05:48Z | Test Case Generator Based on Branch Coverage and Fuzzing | https://github.com/WeWatchWall/fast-fuzz | 0 | 0| 
 | 20211001T11:59:18Z | FuzzyGreenhouse is project for my master thesis on Faculty of Mathematics, University in Belgrade. FuzzyGreenhouse will implement fuzzy logic on process automation in greenhouse. | https://github.com/bozzano101/FuzzyGreenhouse | 0 | 0| 
 | 20211001T11:48:35Z | Autocomplete Search Project | https://github.com/afleissner2019/fuzzy-match | 0 | 0| 
@@ -89,7 +92,6 @@
 | 20211001T10:39:39Z | Fuzzy Logic for Python 3 | https://github.com/amogorkon/fuzzylogic | 26 | 9| 
 | 20211001T10:31:16Z | Null | https://github.com/KSanthoshkumarK/fuzzy-octo-waffle | 0 | 0| 
 | 20211001T10:17:31Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 553 | 52| 
-| 20211001T09:57:21Z | Fuzz test your application using your OpenAPI or Swagger API definition without coding | https://github.com/KissPeter/APIFuzzer | 138 | 38| 
 
 
 
