@@ -64,7 +64,7 @@
 | 20210930T23:51:40Z | Tool for searching Exploits from Exploit Databases, etc. | https://github.com/vulsio/go-exploitdb | 126 | 37| 
 | 20210930T23:34:32Z | Code referred to Diversight back-end application, realized by META-EXPLOIT team, on ioasys Camp - Fase 02. | https://github.com/META-EXPLOIT/backend-version | 0 | 1| 
 | 20210930T23:14:52Z | Exploiting Causal Structure for Transportability in Online, Multi-Agent Environments | https://github.com/axelbrowne/ECS4TOMAE | 0 | 0| 
-| 20210930T23:00:01Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 23 | 23| 
+| 20210930T23:00:01Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 23 | 24| 
 | 20210930T22:20:46Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 3972 | 546| 
 | 20210930T21:25:28Z | Walkthrough of Exploit Education exercises | https://github.com/suyash-chavan/Exploit-Education | 0 | 0| 
 | 20210930T21:22:10Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 1848 | 282| 
