@@ -29,7 +29,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211001T12:16:50Z | application de mesure énergétique des application métier d%une entreprise - kleegroup - api | https://github.com/CinquinAndy/klee-green-it-app-api | 0 | 0| 
+| 20211001T12:17:56Z | application de mesure énergétique des application métier d%une entreprise - kleegroup - api | https://github.com/CinquinAndy/klee-green-it-app-api | 0 | 0| 
 | 20211001T11:56:04Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 14 | 1| 
 | 20211001T07:52:01Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2807 | 74| 
 | 20211001T00:21:17Z | for atcoder | https://github.com/kashee337/klee_atcoder | 0 | 0| 
@@ -58,7 +58,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211001T12:15:32Z | Backdoor for access website. | https://github.com/KnightStorm/Root-Web-Shell | 0 | 0| 
+| 20211001T12:19:00Z | Backdoor for access website. | https://github.com/KnightStorm/Root-Web-Shell | 0 | 0| 
 | 20211001T10:09:47Z | pybotnet -   A Python Library for building Botnet , Trojan or BackDoor for windows and linux with Telegram control panel  | https://github.com/onionj/pybotnet | 23 | 13| 
 | 20211001T09:13:10Z | Null | https://github.com/Arram512/python_backdoor | 0 | 0| 
 | 20211001T09:04:38Z | a simple backdoor service(NOT FINISHED) | https://github.com/ranon-rat/yackdoor | 1 | 0| 
@@ -71,6 +71,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211001T11:39:19Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 113 | 8| 
+| 20211001T11:22:47Z | Symbolic Execution: Foundations, Techniques, Applications and Future Perspectives | https://github.com/rindPHI/se-book-festschrift-rh | 0 | 0| 
+| 20211001T09:10:29Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 159 | 35| 
+| 20211001T05:47:15Z | RAUK: Automatic Schedulability Analysis of RTIC Applications Using Symbolic Execution | https://github.com/markhakansson/master-thesis | 5 | 0| 
 | 20211001T00:09:46Z | A symbolic execution engine for Chisel circuits. | https://github.com/ekiwi/maltese | 0 | 1| 
 
 
