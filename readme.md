@@ -80,9 +80,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211001T12:05:48Z | Test Case Generator Based on Branch Coverage and Fuzzing | https://github.com/WeWatchWall/fast-fuzz | 0 | 0| 
 | 20211001T11:59:18Z | FuzzyGreenhouse is project for my master thesis on Faculty of Mathematics, University in Belgrade. FuzzyGreenhouse will implement fuzzy logic on process automation in greenhouse. | https://github.com/bozzano101/FuzzyGreenhouse | 0 | 0| 
 | 20211001T11:48:35Z | Autocomplete Search Project | https://github.com/afleissner2019/fuzzy-match | 0 | 0| 
-| 20211001T11:37:02Z | Test Case Generator Based on Branch Coverage and Fuzzing | https://github.com/WeWatchWall/fast-fuzz | 0 | 0| 
 | 20211001T11:29:52Z | Eliminate the blue squares before time runs out! | https://github.com/nataliesmyth/fuzzy-octo-memory | 1 | 0| 
 | 20211001T11:10:46Z | See all statistics by Github username as Graphs easily with cobra cli | https://github.com/jack5341/fuzzy-pancake | 0 | 0| 
 | 20211001T10:52:29Z | Null | https://github.com/Schwoader123/es-mit-Fuzzy-Spoon | 0 | 0| 
