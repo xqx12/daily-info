@@ -118,7 +118,7 @@
 | 20210930T20:54:58Z | dddd | https://github.com/senpai0666/fuzzy-barnacle | 0 | 1| 
 | 20210930T20:48:52Z | Null | https://github.com/AmeliaYeah/dns-host-directory-fuzz | 0 | 0| 
 | 20210930T20:39:49Z | Autocomplete Search Project | https://github.com/afleissner2019/fuzzy-match | 0 | 0| 
-| 20210930T19:46:37Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2398 | 145| 
+| 20210930T19:35:29Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1088 | 120| 
 
 
 
