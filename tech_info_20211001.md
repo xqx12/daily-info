@@ -42,11 +42,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211001T12:02:59Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
 | 20211001T11:53:28Z | a very poorly coded bot that uses 3 fucking different languages | https://github.com/Csparmaz/MaarsseveenRPMoneyExploit | 0 | 0| 
 | 20211001T11:47:10Z | CVE Exploit PoC%s | https://github.com/Timirepo/CVE_Exploits | 0 | 0| 
 | 20211001T11:40:39Z | 7.5X Exploit FW (May 2nd, 2021) Exploit | https://github.com/Night-King-Host/75XV3b3 | 0 | 0| 
 | 20211001T11:35:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10153 | 1712| 
-| 20211001T11:02:54Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
 | 20211001T10:56:10Z | Car hacking is the manipulation of the code in a car%s electronic control unit (ECU) to exploit a vulnerability and gain control of other ECU units in the vehicle | https://github.com/D3m0nicw0lf/Vehicle-hacking | 0 | 0| 
 | 20211001T09:25:29Z | BioCCP.jl exploits the Coupon Collector Problem for sample size determination in combinatorial biotechnology. | https://github.com/kirstvh/BioCCP.jl | 4 | 0| 
 | 20211001T09:23:34Z | Null | https://github.com/xvSync/NGROK-0DAY-Exploit---Not-Finished | 0 | 0| 
@@ -80,14 +80,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211001T02:00:30Z | Null | https://github.com/Jared-01/fuzzyProject | 0 | 0| 
-| 20211001T01:32:44Z | A PHP library that turns easy fuzzy string searching | https://github.com/lucascavalcante/fuzzy-search | 1 | 1| 
-| 20211001T01:16:08Z | Kernel Fuzzer for Xen Project (KF/x) - Hypervisor-based fuzzing using Xen VM forking, VMI & AFL | https://github.com/intel/kernel-fuzzer-for-xen-project | 348 | 52| 
-| 20211001T01:14:27Z | A repository for my collection game, Fuzzy Farmer | https://github.com/Strawhatsheik/Capstone_FuzzyFarmer | 0 | 0| 
-| 20211001T01:05:01Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2398 | 145| 
-| 20211001T00:07:09Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
-| 20211001T00:04:23Z | Null | https://github.com/jaydeepsingh25/WebFuzz | 0 | 0| 
-| 20211001T00:03:51Z | Simple web fuzzer made in Nim | https://github.com/jagelit0/nimfuzz | 0 | 0| 
+| 20211001T11:59:18Z | FuzzyGreenhouse is project for my master thesis on Faculty of Mathematics, University in Belgrade. FuzzyGreenhouse will implement fuzzy logic on process automation in greenhouse. | https://github.com/bozzano101/FuzzyGreenhouse | 0 | 0| 
+| 20211001T11:48:35Z | Autocomplete Search Project | https://github.com/afleissner2019/fuzzy-match | 0 | 0| 
+| 20211001T11:37:02Z | Test Case Generator Based on Branch Coverage and Fuzzing | https://github.com/WeWatchWall/fast-fuzz | 0 | 0| 
+| 20211001T11:29:52Z | Eliminate the blue squares before time runs out! | https://github.com/nataliesmyth/fuzzy-octo-memory | 1 | 0| 
+| 20211001T11:10:46Z | See all statistics by Github username as Graphs easily with cobra cli | https://github.com/jack5341/fuzzy-pancake | 0 | 0| 
+| 20211001T10:52:29Z | Null | https://github.com/Schwoader123/es-mit-Fuzzy-Spoon | 0 | 0| 
+| 20211001T10:39:39Z | Fuzzy Logic for Python 3 | https://github.com/amogorkon/fuzzylogic | 26 | 9| 
+| 20211001T10:31:16Z | Null | https://github.com/KSanthoshkumarK/fuzzy-octo-waffle | 0 | 0| 
+| 20211001T10:17:31Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 553 | 52| 
+| 20211001T09:57:21Z | Fuzz test your application using your OpenAPI or Swagger API definition without coding | https://github.com/KissPeter/APIFuzzer | 138 | 38| 
 
 
 
