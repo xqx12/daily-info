@@ -39,6 +39,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211002T12:02:58Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
 | 20211002T11:56:05Z | XSsploit is a tool to exploit xss and understand their impact in the world-wide-web | https://github.com/evilcater/XSsploit | 0 | 0| 
 | 20211002T11:55:32Z | Android RAT with web panel and undetectable App | https://github.com/Th30neAnd0nly/Ohm | 60 | 24| 
 | 20211002T11:50:42Z | This is a tool for hackers which is best tool ever. It is also a hacker toolkit with many exploits and it also contain whole kali os . | https://github.com/TechIndiaTutorials/Exploit_Chip | 0 | 0| 
@@ -48,7 +49,6 @@
 | 20211002T11:19:10Z | A collection of more than 140+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 845 | 193| 
 | 20211002T11:15:25Z | A series of symupy examples to exploit the symupy package | https://github.com/licit-lab/symupy-examples | 0 | 0| 
 | 20211002T11:14:57Z | RCE exploit for attack chain in %A Saga of Code Executions on Zimbra% post | https://github.com/nth347/Zimbra-RCE-exploit | 2 | 2| 
-| 20211002T11:08:16Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 3581 | 1242| 
 
 
 # backdoor on Github 推荐
@@ -75,6 +75,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211002T12:03:09Z | See all statistics by Github username as Graphs easily with cobra cli | https://github.com/jack5341/fuzzy-pancake | 0 | 0| 
 | 20211002T11:24:38Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6697 | 1380| 
 | 20211002T11:05:44Z | Insert in Bash or ZSH a fuzzily found command-line, file or (recent) directory path at the cursor position. | https://github.com/Konfekt/fuzzyfinders.sh | 1 | 0| 
 | 20211002T10:56:43Z | Fuzz vulnerserver: TRUN  | https://github.com/xd3nux/Fuzzer | 0 | 0| 
@@ -84,7 +85,6 @@
 | 20211002T09:11:19Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
 | 20211002T09:01:44Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211002T08:16:32Z | Fuzzing tool for the 14th institute | https://github.com/Radon10043/fuzzing-tool-14 | 0 | 2| 
-| 20211002T08:10:02Z | Null | https://github.com/mongoloidkhulmikuki366385/fuzzy-adventure | 0 | 0| 
 
 
 
