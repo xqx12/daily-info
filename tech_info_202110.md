@@ -63,6 +63,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211002T01:09:51Z | Website Shell BackDoors | https://github.com/7r0j4ncodeing/Web-Shells | 9 | 4| 
 | 20211001T23:41:01Z | Light-weight UNIX backdoor | https://github.com/phath0m/JadedWraith | 72 | 19| 
 | 20211001T21:03:07Z | The best backdoor scanner there is. | https://github.com/iK4oS/backdoor.exe | 2 | 4| 
 | 20211001T18:06:01Z | pybotnet -   A Python Library for building Botnet , Trojan or BackDoor for windows and linux with Telegram control panel  | https://github.com/onionj/pybotnet | 25 | 13| 
@@ -72,7 +73,6 @@
 | 20211001T10:53:39Z | Offensive RPC PoC | https://github.com/sensepost/offensive-rpc | 35 | 3| 
 | 20211001T09:13:10Z | Null | https://github.com/Arram512/python_backdoor | 0 | 0| 
 | 20211001T09:04:38Z | a simple backdoor service(NOT FINISHED) | https://github.com/ranon-rat/yackdoor | 1 | 0| 
-| 20211001T08:32:53Z | Null | https://github.com/mr-quixter/ShellBackdoor | 0 | 1| 
 
 
 # symbolic execution on Github 推荐
