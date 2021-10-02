@@ -96,7 +96,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20211001T23:28:35Z | Python GUI for seeing what%s happening inside a fuzzer | https://github.com/mechanicalnull/fuzzwatch | 1 | 1| 
-| 20211001T23:23:49Z | Website for Gaming Documents | https://github.com/Fuzzybomb/fuzzybomb.github.io | 0 | 0| 
 | 20211001T22:51:13Z | Null | https://github.com/cycy2233/fuzzy-umbrella | 0 | 0| 
 | 20211001T22:33:58Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20211001T22:15:06Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2397 | 145| 
@@ -105,6 +104,7 @@
 | 20211001T21:29:30Z | Insert in Bash or ZSH a fuzzily found command-line, file or (recent) directory path at the cursor position. | https://github.com/Konfekt/fuzzyfinders.sh | 1 | 0| 
 | 20211001T21:15:32Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6696 | 1380| 
 | 20211001T21:01:24Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20211001T20:50:24Z | A quick cli fuzzer. | https://github.com/DFC302/fuzzy | 0 | 0| 
 
 
 
