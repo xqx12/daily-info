@@ -95,6 +95,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211002T01:51:09Z | Attempts to find security vulnerabilities in NetHack via input Fuzzing | https://github.com/recursion-ninja/Superion-YAML | 1 | 3| 
 | 20211002T01:14:40Z | A C++ 2D Game Engine built off of the SDL 2.0 framework | https://github.com/fuzzwaz/Fuzzy2D-Game-Engine | 1 | 0| 
 | 20211002T00:32:55Z | Website for Gaming Documents | https://github.com/Fuzzybomb/fuzzybomb.github.io | 0 | 0| 
 | 20211002T00:07:53Z | Null | https://github.com/Cemellaarv80/fuzzy-dollop | 0 | 0| 
@@ -104,7 +105,6 @@
 | 20211001T22:15:06Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2397 | 145| 
 | 20211001T21:52:53Z | Project1 - Website  | https://github.com/Fuzzy111/Fuzzy111Website-repo | 0 | 0| 
 | 20211001T21:52:45Z | Null | https://github.com/gordod26/fuzzy-chainsaw | 0 | 0| 
-| 20211001T21:29:30Z | Insert in Bash or ZSH a fuzzily found command-line, file or (recent) directory path at the cursor position. | https://github.com/Konfekt/fuzzyfinders.sh | 1 | 0| 
 
 
 
