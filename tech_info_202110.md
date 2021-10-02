@@ -16,7 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211001T21:26:09Z | CVE-2021-21569 | PoC for exploiting CVE-2021-21569 : Dell NetWorker, versions 18.x and 19.x contain a Path traversal vulnerability. A NetWorker server user with remote access to NetWorker clients may potentially exploit this vulnerability and gain access to unauthorized information. | https://github.com/AlAIAL90/CVE-2021-21569 | | 
+| 20211002T01:33:31Z | CVE-2021-21569 | PoC for exploiting CVE-2021-21569 : Dell NetWorker, versions 18.x and 19.x contain a Path traversal vulnerability. A NetWorker server user with remote access to NetWorker clients may potentially exploit this vulnerability and gain access to unauthorized information. | https://github.com/AlAIAL90/CVE-2021-21569 | | 
 | 20211001T21:25:50Z | CVE-2021-21570 | PoC for exploiting CVE-2021-21570 : Dell NetWorker, versions 18.x and 19.x contain an Information disclosure vulnerability. A NetWorker server user with remote access to NetWorker clients may potentially exploit this vulnerability and gain access to unauthorized information. | https://github.com/AlAIAL90/CVE-2021-21570 | | 
 | 20211001T21:25:20Z | CVE-2021-24604 | PoC for exploiting CVE-2021-24604 : The Availability Calendar WordPress plugin before 1.2.2 does not sanitise or escape its Category Names before outputting them in page/post where the associated shortcode is embed, allowing high privilege users to perform Cross-Site Scripting attacks even when the unfiltered_html is disallowed | https://github.com/AlAIAL90/CVE-2021-24604 | | 
 | 20211001T21:25:15Z | CVE-2021-36286 | PoC for exploiting CVE-2021-36286 : Dell SupportAssist Client Consumer versions 3.9.13.0 and any versions prior to 3.9.13.0 contain an arbitrary file deletion vulnerability that can be exploited by using the Windows feature of NTFS called Symbolic links. Symbolic links can be created by any(non-privileged) user under some object directories, but by themselves are not sufficient to successfully escalate privileges. However, combining them with a different object, such as the NTFS junction point allows for the exploitation. Support assist clean files functionality do not distinguish junction points from the physical folder and proceeds to clean the target of the junction that allows nonprivileged users to create junction points and delete arbitrary files on the system which can be accessed only by the admin. | https://github.com/AlAIAL90/CVE-2021-36286 | | 
@@ -48,7 +48,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211002T01:22:33Z | Collection of Discord hacking tools/fun stuff/exploits that is completely developed using NodeJS. | https://github.com/I2rys/ODiscord | 9 | 5| 
+| 20211002T01:35:36Z | Collection of Discord hacking tools/fun stuff/exploits that is completely developed using NodeJS. | https://github.com/I2rys/ODiscord | 9 | 5| 
+| 20211002T01:33:31Z | PoC for exploiting CVE-2021-21569 : Dell NetWorker, versions 18.x and 19.x contain a Path traversal vulnerability. A NetWorker server user with remote access to NetWorker clients may potentially exploit this vulnerability and gain access to unauthorized information. | https://github.com/AlAIAL90/CVE-2021-21569 | 1 | 1| 
+| 20211002T01:33:17Z | labsecurity is a framework and its use is for ethical hacking and computer security | https://github.com/dylanmeca/labsecurity | 8 | 5| 
 | 20211002T01:03:01Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
 | 20211002T00:35:27Z | This is my very first exploit to skyjam. Please be patient there%s more to come in the future.  | https://github.com/luckymime28/Skyjam | 0 | 0| 
 | 20211001T22:36:47Z | Repository full of scripts made by me for ROBLOX exploiting. | https://github.com/v0d0/RBX_Scripts | 1 | 0| 
@@ -56,8 +58,6 @@
 | 20211001T22:09:37Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 23 | 31| 
 | 20211001T22:07:32Z | Exploiting Causal Structure for Transportability in Online, Multi-Agent Environments | https://github.com/axelbrowne/ECS4TOMAE | 0 | 0| 
 | 20211001T22:06:19Z | Null | https://github.com/joeengo/exploiting | 0 | 0| 
-| 20211001T22:04:29Z | this bash script is for remote linux and macos hosts hacked! | https://github.com/FabioDefilippo/linuxallenum | 15 | 0| 
-| 20211001T21:56:21Z | writeups for binary exploitation challenges | https://github.com/Bex-WriteUp/binary-exploitation | 0 | 0| 
 
 
 # backdoor on Github 推荐
