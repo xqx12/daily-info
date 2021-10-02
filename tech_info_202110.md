@@ -49,8 +49,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211002T12:29:52Z | Walkthrough of Exploit Education exercises | https://github.com/suyash-chavan/Exploit-Education | 0 | 0| 
-| 20211002T12:22:26Z | A collection of more than 140+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 846 | 195| 
+| 20211002T12:32:17Z | A collection of more than 140+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 847 | 195| 
+| 20211002T12:32:15Z | Walkthrough of Exploit Education exercises | https://github.com/suyash-chavan/Exploit-Education | 0 | 0| 
 | 20211002T12:20:15Z | Null | https://github.com/robertofocke/exploits | 0 | 0| 
 | 20211002T12:12:12Z | Repository for the NeurIPS 2021 paper: %Exploiting Domain-Specific Features to Enhance Domain Generalization%. | https://github.com/manhhabui/mDSDI | 2 | 0| 
 | 20211002T12:09:43Z | A series of symupy examples to exploit the symupy package | https://github.com/licit-lab/symupy-examples | 0 | 0| 
@@ -96,7 +96,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211002T12:30:09Z | See all statistics by Github username as Graphs easily with cobra cli | https://github.com/jack5341/fuzzy-pancake | 0 | 0| 
+| 20211002T12:32:27Z | See all statistics by Github username as Graphs easily with cobra cli | https://github.com/jack5341/fuzzy-pancake | 0 | 0| 
 | 20211002T11:24:38Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6697 | 1380| 
 | 20211002T11:05:44Z | Insert in Bash or ZSH a fuzzily found command-line, file or (recent) directory path at the cursor position. | https://github.com/Konfekt/fuzzyfinders.sh | 1 | 0| 
 | 20211002T10:56:43Z | Fuzz vulnerserver: TRUN  | https://github.com/xd3nux/Fuzzer | 0 | 0| 
