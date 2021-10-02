@@ -76,8 +76,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211002T12:49:46Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20211002T12:47:51Z | See all statistics by Github username as Graphs easily with cobra cli | https://github.com/jack5341/fuzzy-pancake | 0 | 0| 
 | 20211002T12:33:35Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 7 | 1| 
-| 20211002T12:32:27Z | See all statistics by Github username as Graphs easily with cobra cli | https://github.com/jack5341/fuzzy-pancake | 0 | 0| 
 | 20211002T11:24:38Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6697 | 1380| 
 | 20211002T11:05:44Z | Insert in Bash or ZSH a fuzzily found command-line, file or (recent) directory path at the cursor position. | https://github.com/Konfekt/fuzzyfinders.sh | 1 | 0| 
 | 20211002T10:56:43Z | Fuzz vulnerserver: TRUN  | https://github.com/xd3nux/Fuzzer | 0 | 0| 
@@ -85,7 +86,6 @@
 | 20211002T10:21:04Z | V Fast Fuzzer | https://github.com/cz7047/vff | 0 | 0| 
 | 20211002T09:19:00Z | my first repository | https://github.com/zixuan0304/fuzzy-adventure | 1 | 0| 
 | 20211002T09:11:19Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
-| 20211002T09:01:44Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 
 
 
