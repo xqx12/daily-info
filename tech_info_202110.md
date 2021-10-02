@@ -49,6 +49,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211002T12:22:26Z | A collection of more than 140+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 846 | 194| 
 | 20211002T12:20:15Z | Null | https://github.com/robertofocke/exploits | 0 | 0| 
 | 20211002T12:13:58Z | Walkthrough of Exploit Education exercises | https://github.com/suyash-chavan/Exploit-Education | 0 | 0| 
 | 20211002T12:12:12Z | Repository for the NeurIPS 2021 paper: %Exploiting Domain-Specific Features to Enhance Domain Generalization%. | https://github.com/manhhabui/mDSDI | 2 | 0| 
@@ -58,7 +59,6 @@
 | 20211002T11:55:32Z | Android RAT with web panel and undetectable App | https://github.com/Th30neAnd0nly/Ohm | 60 | 24| 
 | 20211002T11:50:42Z | This is a tool for hackers which is best tool ever. It is also a hacker toolkit with many exploits and it also contain whole kali os . | https://github.com/TechIndiaTutorials/Exploit_Chip | 0 | 0| 
 | 20211002T11:42:13Z | Roblox Exploit | https://github.com/m0nixga/MonixEX | 0 | 0| 
-| 20211002T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10159 | 1712| 
 
 
 # backdoor on Github 推荐
