@@ -63,7 +63,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211002T01:10:19Z | Website Shell BackDoors | https://github.com/7r0j4ncodeing/Web-Shells | 9 | 4| 
+| 20211002T01:17:29Z | Website Shell BackDoors | https://github.com/7r0j4ncodeing/Web-Shells | 10 | 4| 
 | 20211001T23:41:01Z | Light-weight UNIX backdoor | https://github.com/phath0m/JadedWraith | 72 | 19| 
 | 20211001T21:03:07Z | The best backdoor scanner there is. | https://github.com/iK4oS/backdoor.exe | 2 | 4| 
 | 20211001T18:06:01Z | pybotnet -   A Python Library for building Botnet , Trojan or BackDoor for windows and linux with Telegram control panel  | https://github.com/onionj/pybotnet | 25 | 13| 
@@ -95,6 +95,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211002T01:14:40Z | A C++ 2D Game Engine built off of the SDL 2.0 framework | https://github.com/fuzzwaz/Fuzzy2D-Game-Engine | 1 | 0| 
 | 20211002T00:32:55Z | Website for Gaming Documents | https://github.com/Fuzzybomb/fuzzybomb.github.io | 0 | 0| 
 | 20211002T00:07:53Z | Null | https://github.com/Cemellaarv80/fuzzy-dollop | 0 | 0| 
 | 20211001T23:28:35Z | Python GUI for seeing what%s happening inside a fuzzer | https://github.com/mechanicalnull/fuzzwatch | 1 | 1| 
@@ -104,7 +105,6 @@
 | 20211001T21:52:53Z | Project1 - Website  | https://github.com/Fuzzy111/Fuzzy111Website-repo | 0 | 0| 
 | 20211001T21:52:45Z | Null | https://github.com/gordod26/fuzzy-chainsaw | 0 | 0| 
 | 20211001T21:29:30Z | Insert in Bash or ZSH a fuzzily found command-line, file or (recent) directory path at the cursor position. | https://github.com/Konfekt/fuzzyfinders.sh | 1 | 0| 
-| 20211001T21:15:32Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6696 | 1380| 
 
 
 
