@@ -49,6 +49,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211002T12:36:35Z | This is a tool for hackers which is best tool ever. It is also a hacker toolkit with many exploits and it also contain whole kali os . | https://github.com/TechIndiaTutorials/Exploit_Chip | 0 | 0| 
 | 20211002T12:32:17Z | A collection of more than 140+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 847 | 195| 
 | 20211002T12:32:15Z | Walkthrough of Exploit Education exercises | https://github.com/suyash-chavan/Exploit-Education | 0 | 0| 
 | 20211002T12:20:15Z | Null | https://github.com/robertofocke/exploits | 0 | 0| 
@@ -57,7 +58,6 @@
 | 20211002T12:02:58Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
 | 20211002T11:56:05Z | XSsploit is a tool to exploit xss and understand their impact in the world-wide-web | https://github.com/evilcater/XSsploit | 0 | 0| 
 | 20211002T11:55:32Z | Android RAT with web panel and undetectable App | https://github.com/Th30neAnd0nly/Ohm | 60 | 24| 
-| 20211002T11:50:42Z | This is a tool for hackers which is best tool ever. It is also a hacker toolkit with many exploits and it also contain whole kali os . | https://github.com/TechIndiaTutorials/Exploit_Chip | 0 | 0| 
 | 20211002T11:42:13Z | Roblox Exploit | https://github.com/m0nixga/MonixEX | 0 | 0| 
 
 
@@ -96,6 +96,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211002T12:33:35Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 7 | 1| 
 | 20211002T12:32:27Z | See all statistics by Github username as Graphs easily with cobra cli | https://github.com/jack5341/fuzzy-pancake | 0 | 0| 
 | 20211002T11:24:38Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6697 | 1380| 
 | 20211002T11:05:44Z | Insert in Bash or ZSH a fuzzily found command-line, file or (recent) directory path at the cursor position. | https://github.com/Konfekt/fuzzyfinders.sh | 1 | 0| 
@@ -105,7 +106,6 @@
 | 20211002T09:19:00Z | my first repository | https://github.com/zixuan0304/fuzzy-adventure | 1 | 0| 
 | 20211002T09:11:19Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
 | 20211002T09:01:44Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20211002T08:16:32Z | Fuzzing tool for the 14th institute | https://github.com/Radon10043/fuzzing-tool-14 | 0 | 2| 
 
 
 
