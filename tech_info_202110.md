@@ -49,6 +49,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211002T12:53:18Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 1850 | 282| 
 | 20211002T12:36:35Z | This is a tool for hackers which is best tool ever. It is also a hacker toolkit with many exploits and it also contain whole kali os . | https://github.com/TechIndiaTutorials/Exploit_Chip | 0 | 0| 
 | 20211002T12:32:17Z | A collection of more than 140+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 847 | 195| 
 | 20211002T12:32:15Z | Walkthrough of Exploit Education exercises | https://github.com/suyash-chavan/Exploit-Education | 0 | 0| 
@@ -58,7 +59,6 @@
 | 20211002T12:02:58Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
 | 20211002T11:56:05Z | XSsploit is a tool to exploit xss and understand their impact in the world-wide-web | https://github.com/evilcater/XSsploit | 0 | 0| 
 | 20211002T11:55:32Z | Android RAT with web panel and undetectable App | https://github.com/Th30neAnd0nly/Ohm | 60 | 24| 
-| 20211002T11:42:13Z | Roblox Exploit | https://github.com/m0nixga/MonixEX | 0 | 0| 
 
 
 # backdoor on Github 推荐
