@@ -48,6 +48,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211002T00:33:52Z | This is my very first exploit to skyjam. Please be patient there%s more to come in the future.  | https://github.com/luckymime28/Skyjam | 0 | 0| 
 | 20211002T00:03:29Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
 | 20211001T23:50:39Z | Collection of Discord hacking tools/fun stuff/exploits that is completely developed using NodeJS. | https://github.com/I2rys/ODiscord | 9 | 5| 
 | 20211001T22:36:47Z | Repository full of scripts made by me for ROBLOX exploiting. | https://github.com/v0d0/RBX_Scripts | 1 | 0| 
@@ -57,7 +58,6 @@
 | 20211001T22:06:19Z | Null | https://github.com/joeengo/exploiting | 0 | 0| 
 | 20211001T22:04:29Z | this bash script is for remote linux and macos hosts hacked! | https://github.com/FabioDefilippo/linuxallenum | 15 | 0| 
 | 20211001T21:56:21Z | writeups for binary exploitation challenges | https://github.com/Bex-WriteUp/binary-exploitation | 0 | 0| 
-| 20211001T21:26:09Z | PoC for exploiting CVE-2021-21569 : Dell NetWorker, versions 18.x and 19.x contain a Path traversal vulnerability. A NetWorker server user with remote access to NetWorker clients may potentially exploit this vulnerability and gain access to unauthorized information. | https://github.com/AlAIAL90/CVE-2021-21569 | 0 | 1| 
 
 
 # backdoor on Github 推荐
