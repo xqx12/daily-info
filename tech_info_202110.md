@@ -16,20 +16,25 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211001T12:14:27Z | CVE-2021-30632 | Null | https://github.com/Lagal1990/CVE-2021-30632 | | 
-| 20211001T11:44:45Z | CVE-2020-15436 | Null | https://github.com/artsking/linux-4.1.15_CVE-2020-15436_withPatch | | 
-| 20211001T09:16:44Z | CVE-2021-3129 | PoC for CVE-2021-3129 (Laravel) | https://github.com/knqyf263/CVE-2021-3129 | | 
-| 20211001T08:19:39Z | CVE-2021-22005 | CVE-2021-22005 - VMWare vCenter Server File Upload to RCE | https://github.com/r0ckysec/CVE-2021-22005 | | 
-| 20211001T06:08:13Z | cve-2021-38647 | CVE-2021-38647 is an unauthenticated RCE vulnerability effecting the OMI agent as root. | https://github.com/Vulnmachines/OMIGOD_cve-2021-38647 | | 
-| 20211001T06:06:34Z | CVE-2021-34730 | Cisco RV110w UPnP stack overflow  | https://github.com/badmonkey7/CVE-2021-34730 | | 
-| 20211001T02:19:18Z | CVE-2021-22555 | Null | https://github.com/daletoniris/CVE-2021-22555-esc-priv | | 
-| 20211001T00:39:07Z | CVE-2021-35211 | Simple Serv-U CVE-2021-35211 PoC | https://github.com/NattiSamson/Serv-U-CVE-2021-35211 | | 
+| 20211001T21:26:09Z | CVE-2021-21569 | PoC for exploiting CVE-2021-21569 : Dell NetWorker, versions 18.x and 19.x contain a Path traversal vulnerability. A NetWorker server user with remote access to NetWorker clients may potentially exploit this vulnerability and gain access to unauthorized information. | https://github.com/AlAIAL90/CVE-2021-21569 | | 
+| 20211001T21:25:50Z | CVE-2021-21570 | PoC for exploiting CVE-2021-21570 : Dell NetWorker, versions 18.x and 19.x contain an Information disclosure vulnerability. A NetWorker server user with remote access to NetWorker clients may potentially exploit this vulnerability and gain access to unauthorized information. | https://github.com/AlAIAL90/CVE-2021-21570 | | 
+| 20211001T21:25:20Z | CVE-2021-24604 | PoC for exploiting CVE-2021-24604 : The Availability Calendar WordPress plugin before 1.2.2 does not sanitise or escape its Category Names before outputting them in page/post where the associated shortcode is embed, allowing high privilege users to perform Cross-Site Scripting attacks even when the unfiltered_html is disallowed | https://github.com/AlAIAL90/CVE-2021-24604 | | 
+| 20211001T21:25:15Z | CVE-2021-36286 | PoC for exploiting CVE-2021-36286 : Dell SupportAssist Client Consumer versions 3.9.13.0 and any versions prior to 3.9.13.0 contain an arbitrary file deletion vulnerability that can be exploited by using the Windows feature of NTFS called Symbolic links. Symbolic links can be created by any(non-privileged) user under some object directories, but by themselves are not sufficient to successfully escalate privileges. However, combining them with a different object, such as the NTFS junction point allows for the exploitation. Support assist clean files functionality do not distinguish junction points from the physical folder and proceeds to clean the target of the junction that allows nonprivileged users to create junction points and delete arbitrary files on the system which can be accessed only by the admin. | https://github.com/AlAIAL90/CVE-2021-36286 | | 
+| 20211001T21:25:04Z | CVE-2021-24613 | PoC for exploiting CVE-2021-24613 : The Post Views Counter WordPress plugin before 1.3.5 does not sanitise or escape its Post Views Label settings, which could allow high privilege users to perform Cross-Site Scripting attacks in the frontend even when the unfiltered_html capability is disallowed | https://github.com/AlAIAL90/CVE-2021-24613 | | 
+| 20211001T21:25:01Z | CVE-2021-40690 | PoC for exploiting CVE-2021-40690 : All versions of Apache Santuario - XML Security for Java prior to 2.2.3 and 2.1.7 are vulnerable to an issue where the "secureValidation" property is not passed correctly when creating a KeyInfo from a KeyInfoReference element. This allows an attacker to abuse an XPath Transform to extract any local .xml files in a RetrievalMethod element. | https://github.com/AlAIAL90/CVE-2021-40690 | | 
+| 20211001T21:24:56Z | CVE-2021-24583 | PoC for exploiting CVE-2021-24583 : The Timetable and Event Schedule WordPress plugin before 2.4.2 does not have proper access control when deleting a timeslot, allowing any user with the edit_posts capability (contributor+) to delete arbitrary timeslot from any events. Furthermore, no CSRF check is in place as well, allowing such attack to be performed via CSRF against a logged in with such capability | https://github.com/AlAIAL90/CVE-2021-24583 | | 
+| 20211001T21:24:53Z | CVE-2021-24600 | PoC for exploiting CVE-2021-24600 : The WP Dialog WordPress plugin through 1.2.5.5 does not sanitise and escape some of its settings before outputting them in pages, allowing high privilege users to perform Cross-Site Scripting attacks even when the unfiltered_html capability is disallowed. | https://github.com/AlAIAL90/CVE-2021-24600 | | 
+| 20211001T21:24:49Z | CVE-2021-24606 | PoC for exploiting CVE-2021-24606 : The Availability Calendar WordPress plugin before 1.2.1 does not escape the category attribute from its shortcode before using it in a SQL statement, leading to a SQL Injection issue, which can be exploited by any user able to add shortcode to posts/pages, such as contributor+ | https://github.com/AlAIAL90/CVE-2021-24606 | | 
+| 20211001T21:24:45Z | CVE-2021-24584 | PoC for exploiting CVE-2021-24584 : The Timetable and Event Schedule WordPress plugin before 2.4.2 does not have proper access control when updating a timeslot, allowing any user with the edit_posts capability (contributor+) to update arbitrary timeslot from any events. Furthermore, no CSRF check is in place as well, allowing such attack to be perform via CSRF against a logged in with such capability. In versions before 2.3.19, the lack of sanitisation and escaping in some of the fields, like the descritption could also lead to Stored XSS issues | https://github.com/AlAIAL90/CVE-2021-24584 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211001T12:40:56Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2808 | 74| 
+| 20211001T20:46:23Z | A standalone Unreal Engine Blueprint visualizer for the web | https://github.com/Joined-Forces/klee | 5 | 0| 
+| 20211001T19:10:41Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2810 | 74| 
+| 20211001T16:11:23Z | Null | https://github.com/JaimePSantos/ResearchKlee | 0 | 0| 
+| 20211001T14:13:21Z | Null | https://github.com/shabroek/Kleedkamerscherm | 0 | 0| 
 | 20211001T12:17:56Z | application de mesure énergétique des application métier d%une entreprise - kleegroup - api | https://github.com/CinquinAndy/klee-green-it-app-api | 0 | 0| 
 | 20211001T11:56:04Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 14 | 1| 
 | 20211001T00:21:17Z | for atcoder | https://github.com/kashee337/klee_atcoder | 0 | 0| 
@@ -43,37 +48,41 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211001T12:52:55Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 22 | 14| 
-| 20211001T12:23:00Z | Quantum computing, a study focused on the development of computer-based technologies centred around the principles of quantum theory. It is the amalgam of Physics, Mathematics, and Quantum Mechanics that exploits the collective properties of quantum states. This repo consists of fundamental concepts essential to have a grip on the vast subject. | https://github.com/rishabh-panda/TheQuantumRepo | 1 | 0| 
-| 20211001T12:14:20Z | Tool for searching Exploits from Exploit Databases, etc. | https://github.com/vulsio/go-exploitdb | 126 | 37| 
-| 20211001T12:02:59Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
-| 20211001T11:53:28Z | a very poorly coded bot that uses 3 fucking different languages | https://github.com/Csparmaz/MaarsseveenRPMoneyExploit | 0 | 0| 
-| 20211001T11:47:10Z | CVE Exploit PoC%s | https://github.com/Timirepo/CVE_Exploits | 0 | 0| 
-| 20211001T11:40:39Z | 7.5X Exploit FW (May 2nd, 2021) Exploit | https://github.com/Night-King-Host/75XV3b3 | 0 | 0| 
-| 20211001T11:35:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10153 | 1712| 
-| 20211001T10:56:10Z | Car hacking is the manipulation of the code in a car%s electronic control unit (ECU) to exploit a vulnerability and gain control of other ECU units in the vehicle | https://github.com/D3m0nicw0lf/Vehicle-hacking | 0 | 0| 
-| 20211001T09:25:29Z | BioCCP.jl exploits the Coupon Collector Problem for sample size determination in combinatorial biotechnology. | https://github.com/kirstvh/BioCCP.jl | 4 | 0| 
+| 20211002T00:03:29Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
+| 20211001T23:50:39Z | Collection of Discord hacking tools/fun stuff/exploits that is completely developed using NodeJS. | https://github.com/I2rys/ODiscord | 9 | 5| 
+| 20211001T22:36:47Z | Repository full of scripts made by me for ROBLOX exploiting. | https://github.com/v0d0/RBX_Scripts | 1 | 0| 
+| 20211001T22:23:07Z | Patch for Waterfall to improve performance during attacks and fix memory issues. | https://github.com/2lstudios-mc/FlameCord | 70 | 41| 
+| 20211001T22:09:37Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 23 | 31| 
+| 20211001T22:07:32Z | Exploiting Causal Structure for Transportability in Online, Multi-Agent Environments | https://github.com/axelbrowne/ECS4TOMAE | 0 | 0| 
+| 20211001T22:06:19Z | Null | https://github.com/joeengo/exploiting | 0 | 0| 
+| 20211001T22:04:29Z | this bash script is for remote linux and macos hosts hacked! | https://github.com/FabioDefilippo/linuxallenum | 15 | 0| 
+| 20211001T21:56:21Z | writeups for binary exploitation challenges | https://github.com/Bex-WriteUp/binary-exploitation | 0 | 0| 
+| 20211001T21:26:09Z | PoC for exploiting CVE-2021-21569 : Dell NetWorker, versions 18.x and 19.x contain a Path traversal vulnerability. A NetWorker server user with remote access to NetWorker clients may potentially exploit this vulnerability and gain access to unauthorized information. | https://github.com/AlAIAL90/CVE-2021-21569 | 0 | 1| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211001T23:41:01Z | Light-weight UNIX backdoor | https://github.com/phath0m/JadedWraith | 72 | 19| 
+| 20211001T21:03:07Z | The best backdoor scanner there is. | https://github.com/iK4oS/backdoor.exe | 2 | 4| 
+| 20211001T18:06:01Z | pybotnet -   A Python Library for building Botnet , Trojan or BackDoor for windows and linux with Telegram control panel  | https://github.com/onionj/pybotnet | 25 | 13| 
+| 20211001T17:29:04Z | python backdoor shell | https://github.com/trevalkov/cc_centre | 0 | 0| 
+| 20211001T15:15:52Z | A Hidden and Undetectable Remote Access Tool written in C++ and Server in Python3 | https://github.com/Ryan-AW/Windows-Backdoor | 19 | 6| 
 | 20211001T12:19:00Z | Backdoor for access website. | https://github.com/KnightStorm/Root-Web-Shell | 0 | 0| 
 | 20211001T10:53:39Z | Offensive RPC PoC | https://github.com/sensepost/offensive-rpc | 35 | 3| 
-| 20211001T10:09:47Z | pybotnet -   A Python Library for building Botnet , Trojan or BackDoor for windows and linux with Telegram control panel  | https://github.com/onionj/pybotnet | 23 | 13| 
 | 20211001T09:13:10Z | Null | https://github.com/Arram512/python_backdoor | 0 | 0| 
 | 20211001T09:04:38Z | a simple backdoor service(NOT FINISHED) | https://github.com/ranon-rat/yackdoor | 1 | 0| 
 | 20211001T08:32:53Z | Null | https://github.com/mr-quixter/ShellBackdoor | 0 | 1| 
-| 20211001T03:21:37Z | Web shell/backdoor written in php for web exploitation | https://github.com/cacadosman/Keisatsu-Shell-Backdoor | 13 | 10| 
-| 20211001T02:12:29Z | Config files for my GitHub profile. | https://github.com/backdoor1983/backdoor1983 | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211001T11:39:19Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 113 | 8| 
+| 20211001T18:10:39Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 115 | 8| 
+| 20211001T17:45:59Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1895 | 393| 
+| 20211001T16:49:37Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 17 | 3| 
+| 20211001T16:10:31Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 159 | 35| 
 | 20211001T11:22:47Z | Symbolic Execution: Foundations, Techniques, Applications and Future Perspectives | https://github.com/rindPHI/se-book-festschrift-rh | 0 | 0| 
-| 20211001T09:10:29Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 159 | 35| 
 | 20211001T05:47:15Z | RAUK: Automatic Schedulability Analysis of RTIC Applications Using Symbolic Execution | https://github.com/markhakansson/master-thesis | 5 | 0| 
 | 20211001T00:09:46Z | A symbolic execution engine for Chisel circuits. | https://github.com/ekiwi/maltese | 0 | 1| 
 
@@ -86,16 +95,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211001T12:51:37Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20211001T12:50:36Z | Test Case Generator Based on Branch Coverage and Fuzzing | https://github.com/WeWatchWall/fast-fuzz | 0 | 0| 
-| 20211001T12:41:45Z | Python GUI for seeing what%s happening inside a fuzzer | https://github.com/mechanicalnull/fuzzwatch | 1 | 0| 
-| 20211001T12:31:22Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 553 | 52| 
-| 20211001T12:15:19Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 28 | 10| 
-| 20211001T11:59:18Z | FuzzyGreenhouse is project for my master thesis on Faculty of Mathematics, University in Belgrade. FuzzyGreenhouse will implement fuzzy logic on process automation in greenhouse. | https://github.com/bozzano101/FuzzyGreenhouse | 0 | 0| 
-| 20211001T11:48:35Z | Autocomplete Search Project | https://github.com/afleissner2019/fuzzy-match | 0 | 0| 
-| 20211001T11:29:52Z | Eliminate the blue squares before time runs out! | https://github.com/nataliesmyth/fuzzy-octo-memory | 1 | 0| 
-| 20211001T11:10:46Z | See all statistics by Github username as Graphs easily with cobra cli | https://github.com/jack5341/fuzzy-pancake | 0 | 0| 
-| 20211001T10:52:29Z | Null | https://github.com/Schwoader123/es-mit-Fuzzy-Spoon | 0 | 0| 
+| 20211001T23:28:35Z | Python GUI for seeing what%s happening inside a fuzzer | https://github.com/mechanicalnull/fuzzwatch | 1 | 1| 
+| 20211001T23:23:49Z | Website for Gaming Documents | https://github.com/Fuzzybomb/fuzzybomb.github.io | 0 | 0| 
+| 20211001T22:51:13Z | Null | https://github.com/cycy2233/fuzzy-umbrella | 0 | 0| 
+| 20211001T22:33:58Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
+| 20211001T22:15:06Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2397 | 145| 
+| 20211001T21:52:53Z | Project1 - Website  | https://github.com/Fuzzy111/Fuzzy111Website-repo | 0 | 0| 
+| 20211001T21:52:45Z | Null | https://github.com/gordod26/fuzzy-chainsaw | 0 | 0| 
+| 20211001T21:29:30Z | Insert in Bash or ZSH a fuzzily found command-line, file or (recent) directory path at the cursor position. | https://github.com/Konfekt/fuzzyfinders.sh | 1 | 0| 
+| 20211001T21:15:32Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6696 | 1380| 
+| 20211001T21:01:24Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 
 
 
