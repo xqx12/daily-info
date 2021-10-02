@@ -39,9 +39,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211002T12:29:52Z | Walkthrough of Exploit Education exercises | https://github.com/suyash-chavan/Exploit-Education | 0 | 0| 
 | 20211002T12:22:26Z | A collection of more than 140+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 846 | 195| 
 | 20211002T12:20:15Z | Null | https://github.com/robertofocke/exploits | 0 | 0| 
-| 20211002T12:13:58Z | Walkthrough of Exploit Education exercises | https://github.com/suyash-chavan/Exploit-Education | 0 | 0| 
 | 20211002T12:12:12Z | Repository for the NeurIPS 2021 paper: %Exploiting Domain-Specific Features to Enhance Domain Generalization%. | https://github.com/manhhabui/mDSDI | 2 | 0| 
 | 20211002T12:09:43Z | A series of symupy examples to exploit the symupy package | https://github.com/licit-lab/symupy-examples | 0 | 0| 
 | 20211002T12:02:58Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
