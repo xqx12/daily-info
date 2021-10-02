@@ -48,6 +48,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211002T01:52:06Z | Roblox Exploiting Hexa game | https://github.com/istillplaying/Hexa-Game | 0 | 0| 
 | 20211002T01:35:36Z | Collection of Discord hacking tools/fun stuff/exploits that is completely developed using NodeJS. | https://github.com/I2rys/ODiscord | 9 | 5| 
 | 20211002T01:33:31Z | PoC for exploiting CVE-2021-21569 : Dell NetWorker, versions 18.x and 19.x contain a Path traversal vulnerability. A NetWorker server user with remote access to NetWorker clients may potentially exploit this vulnerability and gain access to unauthorized information. | https://github.com/AlAIAL90/CVE-2021-21569 | 1 | 1| 
 | 20211002T01:33:17Z | labsecurity is a framework and its use is for ethical hacking and computer security | https://github.com/dylanmeca/labsecurity | 8 | 5| 
@@ -57,7 +58,6 @@
 | 20211001T22:23:07Z | Patch for Waterfall to improve performance during attacks and fix memory issues. | https://github.com/2lstudios-mc/FlameCord | 70 | 41| 
 | 20211001T22:09:37Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 23 | 31| 
 | 20211001T22:07:32Z | Exploiting Causal Structure for Transportability in Online, Multi-Agent Environments | https://github.com/axelbrowne/ECS4TOMAE | 0 | 0| 
-| 20211001T22:06:19Z | Null | https://github.com/joeengo/exploiting | 0 | 0| 
 
 
 # backdoor on Github 推荐
