@@ -95,6 +95,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211002T00:07:53Z | Null | https://github.com/Cemellaarv80/fuzzy-dollop | 0 | 0| 
 | 20211001T23:28:35Z | Python GUI for seeing what%s happening inside a fuzzer | https://github.com/mechanicalnull/fuzzwatch | 1 | 1| 
 | 20211001T23:23:49Z | Website for Gaming Documents | https://github.com/Fuzzybomb/fuzzybomb.github.io | 0 | 0| 
 | 20211001T22:51:13Z | Null | https://github.com/cycy2233/fuzzy-umbrella | 0 | 0| 
@@ -104,7 +105,6 @@
 | 20211001T21:52:45Z | Null | https://github.com/gordod26/fuzzy-chainsaw | 0 | 0| 
 | 20211001T21:29:30Z | Insert in Bash or ZSH a fuzzily found command-line, file or (recent) directory path at the cursor position. | https://github.com/Konfekt/fuzzyfinders.sh | 1 | 0| 
 | 20211001T21:15:32Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6696 | 1380| 
-| 20211001T21:01:24Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 
 
 
