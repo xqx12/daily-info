@@ -37,10 +37,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211003T12:21:53Z | A multi exploit instagram exploitation framework | https://github.com/BirdSecurity/Instagram-Exploitation-Framework | 1 | 0| 
 | 20211003T12:02:54Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
 | 20211003T12:00:37Z | Collection of many exploits & cheats for KoGaMa | https://github.com/SimonLovesU/KoGaMa | 0 | 0| 
 | 20211003T11:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10170 | 1714| 
-| 20211003T11:32:49Z | A multi exploit instagram exploitation framework | https://github.com/BirdSecurity/Instagram-Exploitation-Framework | 1 | 0| 
 | 20211003T10:47:15Z | Null | https://github.com/HackerAnonyms/Confluence-exploit-secret | 0 | 0| 
 | 20211003T10:44:32Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
 | 20211003T10:34:01Z | Spam any site that uses chatwoot, filling up their support system | https://github.com/SemiConductorShortage/chatwoot-exploit | 0 | 0| 
