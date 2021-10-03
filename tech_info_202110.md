@@ -51,6 +51,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211003T01:59:36Z | K8博客 | https://github.com/k8gege/k8gege.github.io | 17 | 7| 
 | 20211003T01:03:03Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
 | 20211003T00:56:59Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 1849 | 282| 
 | 20211003T00:56:11Z | Null | https://github.com/j4wh3r/exploiting_metasploitable2 | 0 | 0| 
@@ -60,7 +61,6 @@
 | 20211002T23:46:23Z | Null | https://github.com/webexp1oit/Web_exploit | 0 | 0| 
 | 20211002T23:45:48Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 236 | 13| 
 | 20211002T23:29:18Z | This tool can help you to see the real IP behind CloudFlare protected websites. | https://github.com/zidansec/CrimeFlare | 103 | 31| 
-| 20211002T23:17:45Z | DESCRIPTION This tool compares a targets patch levels against the Microsoft vulnerability database in order to detect potential missing patches on the target. It also notifies the user if there are public exploits and Metasploit modules available for the missing bulletins. | https://github.com/kal1gh0st/Windows-Exploit-2021-1811 | 0 | 0| 
 
 
 # backdoor on Github 推荐
