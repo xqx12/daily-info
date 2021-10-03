@@ -99,7 +99,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211003T01:28:47Z | This code project simulates the traffic control at a Junction, North , South , East, West  | https://github.com/yoadeoye/Fuzzy-Traffic-Control | 0 | 0| 
+| 20211003T01:38:30Z | This code project simulates the traffic control at a Junction, North , South , East, West  | https://github.com/yoadeoye/Fuzzy-Traffic-Control | 0 | 0| 
 | 20211003T01:04:56Z | Hi I%m mohin From Bangladesh and I%m new here so please my request to all of honorable dear sir  and person teaching everything  with detail about all of subject thank everyone by | https://github.com/MSTN1985/fuzzy-giggle | 0 | 0| 
 | 20211003T00:06:36Z | Fuzzy finder tool and library | https://github.com/bottlerocketlabs/fuzzy | 0 | 0| 
 | 20211003T00:06:17Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 28 | 10| 
