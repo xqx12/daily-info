@@ -77,6 +77,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211003T12:49:48Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211003T12:24:27Z | Ada Fuzzball Slam is a JS game using P5 and Matter | https://github.com/mike-ada/Ada-FuzzballSlam | 0 | 0| 
 | 20211003T12:15:09Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 28 | 10| 
 | 20211003T12:04:57Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 190 | 37| 
@@ -86,7 +87,6 @@
 | 20211003T10:17:44Z | Planning tool | https://github.com/HappyDustbunny/FuzzyFlexx | 1 | 0| 
 | 20211003T10:07:10Z | Erlang port of famous radamsa fuzzzer. | https://github.com/Darkkey/erlamsa | 59 | 8| 
 | 20211003T09:55:53Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
-| 20211003T09:44:18Z | Null | https://github.com/Osievskaya23/fuzzy-dbscan-clustering | 0 | 0| 
 
 
 
