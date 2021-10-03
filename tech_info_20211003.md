@@ -37,6 +37,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211003T12:55:52Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 3587 | 1243| 
 | 20211003T12:37:14Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 610 tools, that you can use for Hacking. | https://github.com/can-you-teach-me/Hacking-Tools-Pack | 0 | 0| 
 | 20211003T12:35:18Z | Null | https://github.com/sepehrdaddev/packetstorm-exploits | 17 | 9| 
 | 20211003T12:21:53Z | A multi exploit instagram exploitation framework | https://github.com/BirdSecurity/Instagram-Exploitation-Framework | 1 | 0| 
@@ -46,7 +47,6 @@
 | 20211003T10:47:15Z | Null | https://github.com/HackerAnonyms/Confluence-exploit-secret | 0 | 0| 
 | 20211003T10:44:32Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
 | 20211003T10:34:01Z | Spam any site that uses chatwoot, filling up their support system | https://github.com/SemiConductorShortage/chatwoot-exploit | 0 | 0| 
-| 20211003T10:20:28Z | PS4 Exploit Host Firmware 7.02 | https://github.com/exploitos/exploitos.github.io | 0 | 1| 
 
 
 # backdoor on Github 推荐
