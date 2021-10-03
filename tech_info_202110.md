@@ -99,7 +99,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211003T00:06:14Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 28 | 10| 
+| 20211003T00:06:36Z | Fuzzy finder tool and library | https://github.com/bottlerocketlabs/fuzzy | 0 | 0| 
+| 20211003T00:06:17Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 28 | 10| 
 | 20211003T00:02:49Z | Fuzzy finder tool and library | https://github.com/stuart-warren/fuzzy | 0 | 0| 
 | 20211002T23:36:29Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 304 | 39| 
 | 20211002T23:31:46Z | Null | https://github.com/jaymahfudy/fuzzy-octo-barnacle | 0 | 0| 
@@ -108,7 +109,6 @@
 | 20211002T22:04:41Z | Null | https://github.com/fuzzyhappy/fuzzyhappy | 0 | 0| 
 | 20211002T21:56:44Z | Null | https://github.com/stevewhitmore/focus-fuzz | 0 | 0| 
 | 20211002T21:38:17Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
-| 20211002T19:31:03Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 
 
 
