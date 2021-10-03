@@ -51,6 +51,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211003T00:29:05Z | Wii archive containing WADs including official, unofficial and system IOS/menu, Exploits, Homebrew Apps, DevKit, and more. | https://github.com/ForwarderFactory/wii | 2 | 0| 
 | 20211003T00:03:42Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
 | 20211002T23:46:23Z | Null | https://github.com/webexp1oit/Web_exploit | 0 | 0| 
 | 20211002T23:45:48Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 236 | 13| 
@@ -60,7 +61,6 @@
 | 20211002T23:14:18Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 610 tools, that you can use for Hacking. | https://github.com/in-future-world/Hacking-Tools-Pack | 8 | 3| 
 | 20211002T23:07:31Z | This powershell script has got to run in remote hacked windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 9 | 2| 
 | 20211002T23:06:23Z | This bash scripts will help you to hack remote hosts. You can choose and run one of them. | https://github.com/FabioDefilippo/linuxallremote | 28 | 5| 
-| 20211002T23:05:30Z | One Click root Exploit for Unobtainium Machine [HackTheBox] | https://github.com/Rajchowdhury420/Unobtainium-HTB-Exploit | 1 | 0| 
 
 
 # backdoor on Github 推荐
