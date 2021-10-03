@@ -76,6 +76,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211003T12:15:09Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 28 | 10| 
 | 20211003T12:04:57Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 190 | 37| 
 | 20211003T11:58:09Z | Null | https://github.com/Bariq09/Penentuan-Kerawanan-Longsor-Metode-Fuzzy-Logic | 0 | 0| 
 | 20211003T11:53:41Z | Awesome Fuzz Effect Vst3. | https://github.com/Kirby01/KFuzz | 0 | 0| 
@@ -85,7 +86,6 @@
 | 20211003T09:55:53Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
 | 20211003T09:44:18Z | Null | https://github.com/Osievskaya23/fuzzy-dbscan-clustering | 0 | 0| 
 | 20211003T09:28:25Z | V Fast Fuzzer | https://github.com/cz7047/vff | 0 | 0| 
-| 20211003T08:55:29Z | Test Case Generator Based on Branch Coverage and Fuzzing | https://github.com/WeWatchWall/fast-fuzz | 0 | 0| 
 
 
 
