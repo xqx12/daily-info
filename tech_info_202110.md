@@ -17,7 +17,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211003T01:13:45Z | CVE-2021-40444 | Null | https://github.com/H0j3n/CVE-2021-40444 | | 
+| 20211003T01:34:56Z | CVE-2021-40444 | Null | https://github.com/H0j3n/CVE-2021-40444 | | 
 | 20211002T14:44:55Z | CVE-2021-3493 | Null | https://github.com/puckiestyle/CVE-2021-3493 | | 
 | 20211002T11:46:23Z | CVE-2021-22005 | the metasploit script(POC/EXP) about CVE-2021-22005 VMware vCenter Server contains an arbitrary file upload vulnerability | https://github.com/TaroballzChen/CVE-2021-22005-metasploit | | 
 | 20211002T10:46:57Z | CVE-2021-41511 | Null | https://github.com/Ni7inSharma/CVE-2021-41511 | | 
