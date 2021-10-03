@@ -52,6 +52,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211003T12:27:04Z | Null | https://github.com/mr-quixter/ShellBackdoor | 0 | 1| 
 | 20211003T11:23:48Z | Light-weight UNIX backdoor | https://github.com/phath0m/JadedWraith | 74 | 19| 
 | 20211003T10:34:29Z | Website Shell BackDoors | https://github.com/7r0j4ncodeing/Web-Shells | 16 | 5| 
 | 20211003T03:25:50Z | Backdoor for a project that sucks | https://github.com/MediumNight/Backdoor | 0 | 0| 
@@ -63,7 +64,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211003T11:58:32Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 122 | 10| 
+| 20211003T12:21:47Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 123 | 10| 
 | 20211003T05:17:40Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 164 | 37| 
 | 20211003T05:01:09Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1790 | 507| 
 

@@ -67,6 +67,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211003T12:27:04Z | Null | https://github.com/mr-quixter/ShellBackdoor | 0 | 1| 
 | 20211003T11:23:48Z | Light-weight UNIX backdoor | https://github.com/phath0m/JadedWraith | 74 | 19| 
 | 20211003T10:34:29Z | Website Shell BackDoors | https://github.com/7r0j4ncodeing/Web-Shells | 16 | 5| 
 | 20211003T03:25:50Z | Backdoor for a project that sucks | https://github.com/MediumNight/Backdoor | 0 | 0| 
@@ -76,13 +77,12 @@
 | 20211002T22:35:35Z | unlock the advanced menu of Lenovo Yoga Slim 7 BIOS | https://github.com/esno/yoga-bios-unlock | 38 | 4| 
 | 20211002T22:05:39Z | Null | https://github.com/leeze417/backdoor | 0 | 0| 
 | 20211002T18:30:19Z | A self made CTF tool written under Kali Linux Os, contains one liner backdoors generator for many programs, tools from my repos and other tools that I havent published as a web scrapper for gtfobins. | https://github.com/0bfxgh0st/saf2 | 0 | 0| 
-| 20211002T17:34:51Z | Androspy framework is a Backdoor Crypter & Creator with Automatic IP Poisener  | https://github.com/geoscrapper/androispy | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211003T11:58:32Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 122 | 10| 
+| 20211003T12:21:47Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 123 | 10| 
 | 20211003T05:17:40Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 164 | 37| 
 | 20211003T05:01:09Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1790 | 507| 
 | 20211002T13:14:09Z | A tool for generating nonlinear numerical invariants for C and Java programs.  DIG uses dynamic analysis to infer invariants over program execution traces and applies symbolic execution to inferred invariants. | https://github.com/unsat/dig | 9 | 4| 
