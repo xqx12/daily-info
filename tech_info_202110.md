@@ -17,6 +17,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211003T01:13:45Z | CVE-2021-40444 | Null | https://github.com/H0j3n/CVE-2021-40444 | | 
 | 20211002T14:44:55Z | CVE-2021-3493 | Null | https://github.com/puckiestyle/CVE-2021-3493 | | 
 | 20211002T11:46:23Z | CVE-2021-22005 | the metasploit script(POC/EXP) about CVE-2021-22005 VMware vCenter Server contains an arbitrary file upload vulnerability | https://github.com/TaroballzChen/CVE-2021-22005-metasploit | | 
 | 20211002T10:46:57Z | CVE-2021-41511 | Null | https://github.com/Ni7inSharma/CVE-2021-41511 | | 
@@ -26,7 +27,6 @@
 | 20211001T21:25:50Z | CVE-2021-21570 | PoC for exploiting CVE-2021-21570 : Dell NetWorker, versions 18.x and 19.x contain an Information disclosure vulnerability. A NetWorker server user with remote access to NetWorker clients may potentially exploit this vulnerability and gain access to unauthorized information. | https://github.com/AlAIAL90/CVE-2021-21570 | | 
 | 20211001T21:25:20Z | CVE-2021-24604 | PoC for exploiting CVE-2021-24604 : The Availability Calendar WordPress plugin before 1.2.2 does not sanitise or escape its Category Names before outputting them in page/post where the associated shortcode is embed, allowing high privilege users to perform Cross-Site Scripting attacks even when the unfiltered_html is disallowed | https://github.com/AlAIAL90/CVE-2021-24604 | | 
 | 20211001T21:25:15Z | CVE-2021-36286 | PoC for exploiting CVE-2021-36286 : Dell SupportAssist Client Consumer versions 3.9.13.0 and any versions prior to 3.9.13.0 contain an arbitrary file deletion vulnerability that can be exploited by using the Windows feature of NTFS called Symbolic links. Symbolic links can be created by any(non-privileged) user under some object directories, but by themselves are not sufficient to successfully escalate privileges. However, combining them with a different object, such as the NTFS junction point allows for the exploitation. Support assist clean files functionality do not distinguish junction points from the physical folder and proceeds to clean the target of the junction that allows nonprivileged users to create junction points and delete arbitrary files on the system which can be accessed only by the admin. | https://github.com/AlAIAL90/CVE-2021-36286 | | 
-| 20211001T21:25:04Z | CVE-2021-24613 | PoC for exploiting CVE-2021-24613 : The Post Views Counter WordPress plugin before 1.3.5 does not sanitise or escape its Post Views Label settings, which could allow high privilege users to perform Cross-Site Scripting attacks in the frontend even when the unfiltered_html capability is disallowed | https://github.com/AlAIAL90/CVE-2021-24613 | | 
 
 
 # klee on Github 推荐
