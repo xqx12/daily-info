@@ -51,6 +51,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211003T00:03:42Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
 | 20211002T23:46:23Z | Null | https://github.com/webexp1oit/Web_exploit | 0 | 0| 
 | 20211002T23:45:48Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 236 | 13| 
 | 20211002T23:29:18Z | This tool can help you to see the real IP behind CloudFlare protected websites. | https://github.com/zidansec/CrimeFlare | 103 | 31| 
@@ -60,7 +61,6 @@
 | 20211002T23:07:31Z | This powershell script has got to run in remote hacked windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 9 | 2| 
 | 20211002T23:06:23Z | This bash scripts will help you to hack remote hosts. You can choose and run one of them. | https://github.com/FabioDefilippo/linuxallremote | 28 | 5| 
 | 20211002T23:05:30Z | One Click root Exploit for Unobtainium Machine [HackTheBox] | https://github.com/Rajchowdhury420/Unobtainium-HTB-Exploit | 1 | 0| 
-| 20211002T23:03:49Z | this bash script is for remote linux and macos hosts hacked! | https://github.com/FabioDefilippo/linuxallenum | 15 | 0| 
 
 
 # backdoor on Github 推荐
@@ -99,7 +99,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211003T00:00:27Z | Fuzzy finder tool and library | https://github.com/stuart-warren/fuzzy | 0 | 0| 
+| 20211003T00:06:14Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 28 | 10| 
+| 20211003T00:02:49Z | Fuzzy finder tool and library | https://github.com/stuart-warren/fuzzy | 0 | 0| 
 | 20211002T23:36:29Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 304 | 39| 
 | 20211002T23:31:46Z | Null | https://github.com/jaymahfudy/fuzzy-octo-barnacle | 0 | 0| 
 | 20211002T22:13:27Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
@@ -108,7 +109,6 @@
 | 20211002T21:56:44Z | Null | https://github.com/stevewhitmore/focus-fuzz | 0 | 0| 
 | 20211002T21:38:17Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20211002T19:31:03Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20211002T18:56:34Z | A game played on  a hexagonal grid | https://github.com/Chris-Hibbert/FuzzyBorders | 0 | 0| 
 
 
 
