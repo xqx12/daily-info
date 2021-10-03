@@ -51,6 +51,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211003T00:54:50Z | Null | https://github.com/j4wh3r/exploiting_metasploitable2 | 0 | 0| 
 | 20211003T00:52:18Z | Repo to maintain Microsoft Cloud exploitation stuff. | https://github.com/ar0dd/LaListaDeMCA | 1 | 0| 
 | 20211003T00:38:19Z | Learn Binary Exploitation with sample problems. | https://github.com/Adamkadaban/LearnPwn | 0 | 0| 
 | 20211003T00:29:05Z | Wii archive containing WADs including official, unofficial and system IOS/menu, Exploits, Homebrew Apps, DevKit, and more. | https://github.com/ForwarderFactory/wii | 2 | 0| 
@@ -60,7 +61,6 @@
 | 20211002T23:29:18Z | This tool can help you to see the real IP behind CloudFlare protected websites. | https://github.com/zidansec/CrimeFlare | 103 | 31| 
 | 20211002T23:17:45Z | DESCRIPTION This tool compares a targets patch levels against the Microsoft vulnerability database in order to detect potential missing patches on the target. It also notifies the user if there are public exploits and Metasploit modules available for the missing bulletins. | https://github.com/kal1gh0st/Windows-Exploit-2021-1811 | 0 | 0| 
 | 20211002T23:14:37Z | Null | https://github.com/exploit-xy/exploit-xy.github.io | 0 | 0| 
-| 20211002T23:14:18Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 610 tools, that you can use for Hacking. | https://github.com/in-future-world/Hacking-Tools-Pack | 8 | 3| 
 
 
 # backdoor on Github 推荐
