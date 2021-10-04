@@ -68,7 +68,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211004T12:05:42Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 324 | 59| 
+| 20211004T12:14:58Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 324 | 59| 
 | 20211004T11:29:36Z | This project aims to understand ethical hacking techniques using python backdoor tool from scratch. The tests and procedures should only be executed on your own machines. If you%re planning to execute pwned-by on someone else%s machine, DO IT ETHICALLY! Ask for permission to conduct your activity with written instructions. Do not investigate someone else%s files without permission. I do not promote any harm to other people. Please use it at your own risk! Author will not be responsible for any damage! This project is for study purposes only. Enjoy hacking! | https://github.com/4stropotato/pwned-by | 2 | 0| 
 | 20211004T06:59:27Z | Light-weight UNIX backdoor | https://github.com/phath0m/JadedWraith | 79 | 21| 
 | 20211004T02:01:50Z | Website Shell BackDoors | https://github.com/7r0j4ncodeing/Web-Shells | 17 | 6| 
