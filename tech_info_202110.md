@@ -104,6 +104,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211004T12:07:07Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3711 | 878| 
 | 20211004T12:04:19Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211004T11:56:19Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 330 | 81| 
 | 20211004T11:35:10Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2077 | 407| 
@@ -113,7 +114,6 @@
 | 20211004T09:40:59Z | Fuzzy finder tool and library | https://github.com/bottlerocketlabs/fuzzy | 0 | 0| 
 | 20211004T09:23:56Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1312 | 234| 
 | 20211004T08:45:02Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 553 | 52| 
-| 20211004T08:44:25Z | A patched QEMU that exposes an interface for LibAFL-based fuzzers | https://github.com/AFLplusplus/qemu-libafl-bridge | 19 | 2| 
 
 
 
