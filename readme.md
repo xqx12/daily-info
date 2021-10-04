@@ -40,6 +40,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211004T12:34:21Z | Proof-of-concept obfuscation toolkit for C# post-exploitation tools | https://github.com/h4wkst3r/InvisibilityCloak | 53 | 38| 
 | 20211004T12:03:16Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
 | 20211004T12:01:50Z | BioCCP.jl exploits the Coupon Collector Problem for sample size determination in combinatorial biotechnology. | https://github.com/kirstvh/BioCCP.jl | 4 | 0| 
 | 20211004T12:01:02Z | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | 2912 | 641| 
@@ -49,7 +50,6 @@
 | 20211004T11:15:16Z | Exploitation of Lyrics, Music and Vocals in Multimodal Song Classification Systems | https://github.com/sergiopicascia/thesis | 0 | 0| 
 | 20211004T10:31:06Z | Null | https://github.com/karimmuya/laravel-exploit-tricks | 1 | 0| 
 | 20211004T10:26:53Z | SECMON is a web-based tool for the automation of infosec watching and vulnerability management with a web interface. | https://github.com/Guezone/SECMON | 109 | 25| 
-| 20211004T10:13:21Z | A unique, multithreaded Slow DoS exploit against web servers that use vulnerable versions of thread-based web server software (Apache 1.x, Apache 2.x, httpd, etc.); and is effective against even some mitigation mechanisms such as poorly implemented reverse proxy servers. | https://github.com/SHUR1K-N/GETreqt-Multithreaded-Slow-DoS-Attack | 9 | 0| 
 
 
 # backdoor on Github 推荐
