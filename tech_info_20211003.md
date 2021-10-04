@@ -42,7 +42,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20211003T23:55:20Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10174 | 1714| 
-| 20211003T23:36:13Z | A private Da Hood exploit script | https://github.com/iamtryingtofindname/Artemis | 0 | 0| 
 | 20211003T23:30:58Z | Tool for searching Exploits from Exploit Databases, etc. | https://github.com/vulsio/go-exploitdb | 126 | 37| 
 | 20211003T23:23:11Z | A post-exploitation kernel module that allows an attacker to edit files with little to no footprint. | https://github.com/mineo333/GhostFops | 0 | 0| 
 | 20211003T23:14:50Z | Resources, scripts, and overviews of the knowledge I collect going through Offensive Security%s macOS Exploit Development course. | https://github.com/e-a-security/macOS-Exploit-Dev | 0 | 0| 
@@ -51,6 +50,7 @@
 | 20211003T22:50:11Z | A Exploit Gui For Rocket Arena | https://github.com/Rollimonster/Rocket-Arena-Gui | 0 | 0| 
 | 20211003T22:21:20Z | An exploit and demonstration on how to exploit a Client Side Stored XSS vulnerability in https://anonstress.com. | https://github.com/0x1CA3/AnonStress-Client-Side-Stored-XSS-Exploit | 0 | 0| 
 | 20211003T21:51:01Z | Database Systems - Principles of database design and operation. Relational data model. High-level data modeling representations. SQL database language. Active databases with constraints and triggers. Query optimization with views and indexes. Exploiting database servers within programming languages for web application development. Other topics include transaction processing and recovery, user-defined functions, and data warehousing.  | https://github.com/kingkirpal2000/CSE-111 | 1 | 0| 
+| 20211003T21:39:41Z | Exploit code for CVE-2007-2447 written in Python3. | https://github.com/xbufu/CVE-2007-2447 | 0 | 0| 
 
 
 # backdoor on Github 推荐
