@@ -19,7 +19,6 @@
 | 20211003T23:11:33Z | CVE-2021-21972 | CVE-2021-21972 – ᴠᴍᴡᴀʀᴇ ᴄʟɪᴇɴᴛ ᴜɴᴀᴜᴛʜᴏʀɪᴢᴇᴅ ᴄᴏᴅᴇ ɪɴᴊᴇᴄᴛɪᴏɴ (ʀᴄᴇ) | https://github.com/oxctdev/CVE-2021-21972 | | 
 | 20211003T21:52:04Z | CVE-2021-22893 | Proof On Concept — Pulse Secure CVE-2021-22893 | https://github.com/oxctdev/CVE-2021-22893 | | 
 | 20211003T13:04:21Z | CVE-2021-1675 | Null | https://github.com/puckiestyle/CVE-2021-1675 | | 
-| 20211003T09:20:30Z | CVE-2021-22005 | the metasploit script(POC/EXP) about CVE-2021-22005 VMware vCenter Server contains an arbitrary file upload vulnerability | https://github.com/TaroballzChen/CVE-2021-22005-metasploit | | 
 | 20211003T09:20:25Z | CVE-2021-22005 | CVE-2021-22005 - VMWare vCenter Server File Upload to RCE | https://github.com/r0ckysec/CVE-2021-22005 | | 
 
 
