@@ -53,7 +53,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211004T00:33:06Z | Resources, scripts, and overviews of the knowledge I collect going through Offensive Security%s macOS Exploit Development course. | https://github.com/e-a-security/macOS-Exploit-Dev | 0 | 0| 
+| 20211004T00:35:03Z | Resources, scripts, and overviews of the knowledge I collect going through Offensive Security%s macOS Exploit Development course. | https://github.com/e-a-security/macOS-Exploit-Dev | 0 | 0| 
 | 20211004T00:23:17Z | Quickstart for creating a Roblox exploit with the WeAreDevs API | https://github.com/WeAreDevs-Official/Exploit-Template-with-WRDAPI | 18 | 29| 
 | 20211004T00:22:11Z | A private Da Hood exploit script | https://github.com/iamtryingtofindname/Artemis | 0 | 0| 
 | 20211004T00:19:59Z | Collection of Discord hacking tools/fun stuff/exploits that is completely developed using NodeJS. | https://github.com/I2rys/ODiscord | 9 | 5| 
@@ -103,6 +103,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211004T00:34:43Z | Dictionary collection project such as Pentesing, Fuzzing, Bruteforce and BugBounty. 渗透测试、SRC漏洞挖掘、爆破、Fuzzing等字典收集项目。 | https://github.com/insightglacier/Dictionary-Of-Pentesting | 876 | 199| 
 | 20211004T00:15:07Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211004T00:05:30Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 29 | 11| 
 | 20211003T23:18:59Z | Null | https://github.com/oscarpimentel/fuzzy-tools | 0 | 0| 
@@ -112,7 +113,6 @@
 | 20211003T21:41:29Z | Null | https://github.com/AkisParousis/Fuzzy_Systems | 0 | 0| 
 | 20211003T20:46:21Z | Null | https://github.com/lzhfromustc/goFuzz | 0 | 0| 
 | 20211003T20:04:28Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
-| 20211003T19:58:07Z | Null | https://github.com/mike-ada/Ada-Fuzzball-Slam | 0 | 0| 
 
 
 
