@@ -81,6 +81,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211004T12:36:03Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20211004T12:15:13Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 29 | 11| 
 | 20211004T12:14:48Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6702 | 1383| 
 | 20211004T12:07:07Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3711 | 878| 
@@ -90,7 +91,6 @@
 | 20211004T11:27:45Z | NSR drone fuzzing project 2021 | https://github.com/daehee87/nsr2021 | 0 | 1| 
 | 20211004T11:01:37Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
 | 20211004T10:47:30Z | Null | https://github.com/JordanFosu/fuzzy-succotash | 0 | 0| 
-| 20211004T09:40:59Z | Fuzzy finder tool and library | https://github.com/bottlerocketlabs/fuzzy | 0 | 0| 
 
 
 
