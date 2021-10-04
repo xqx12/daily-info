@@ -53,7 +53,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211004T00:28:21Z | Resources, scripts, and overviews of the knowledge I collect going through Offensive Security%s macOS Exploit Development course. | https://github.com/e-a-security/macOS-Exploit-Dev | 0 | 0| 
+| 20211004T00:33:06Z | Resources, scripts, and overviews of the knowledge I collect going through Offensive Security%s macOS Exploit Development course. | https://github.com/e-a-security/macOS-Exploit-Dev | 0 | 0| 
 | 20211004T00:23:17Z | Quickstart for creating a Roblox exploit with the WeAreDevs API | https://github.com/WeAreDevs-Official/Exploit-Template-with-WRDAPI | 18 | 29| 
 | 20211004T00:22:11Z | A private Da Hood exploit script | https://github.com/iamtryingtofindname/Artemis | 0 | 0| 
 | 20211004T00:19:59Z | Collection of Discord hacking tools/fun stuff/exploits that is completely developed using NodeJS. | https://github.com/I2rys/ODiscord | 9 | 5| 
