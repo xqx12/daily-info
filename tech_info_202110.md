@@ -103,6 +103,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211004T00:05:30Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 29 | 11| 
 | 20211003T23:18:59Z | Null | https://github.com/oscarpimentel/fuzzy-tools | 0 | 0| 
 | 20211003T22:58:21Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6700 | 1383| 
 | 20211003T22:43:36Z | 🤖 Repeat tests. Repeat tests. Repeat tests. | https://github.com/ehmicky/test-each | 94 | 2| 
@@ -112,7 +113,6 @@
 | 20211003T20:04:28Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20211003T19:58:07Z | Null | https://github.com/mike-ada/Ada-Fuzzball-Slam | 0 | 0| 
 | 20211003T19:36:02Z | A fork of AFL for fuzzing Windows binaries | https://github.com/googleprojectzero/winafl | 1773 | 445| 
-| 20211003T19:22:04Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
 
 
 
