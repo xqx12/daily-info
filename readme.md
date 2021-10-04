@@ -40,6 +40,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211004T12:01:02Z | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | 2912 | 641| 
 | 20211004T11:58:19Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10173 | 1716| 
 | 20211004T11:48:00Z | BioCCP.jl exploits the Coupon Collector Problem for sample size determination in combinatorial biotechnology. | https://github.com/kirstvh/BioCCP.jl | 4 | 0| 
 | 20211004T11:42:48Z | Robotics semester project at LASA, EPFL | https://github.com/RaphaelUebersax/Incrementally_Learning_and_Exploiting_Inverse_Dynamics | 0 | 0| 
@@ -49,7 +50,6 @@
 | 20211004T10:31:06Z | Null | https://github.com/karimmuya/laravel-exploit-tricks | 1 | 0| 
 | 20211004T10:26:53Z | SECMON is a web-based tool for the automation of infosec watching and vulnerability management with a web interface. | https://github.com/Guezone/SECMON | 109 | 25| 
 | 20211004T10:13:21Z | A unique, multithreaded Slow DoS exploit against web servers that use vulnerable versions of thread-based web server software (Apache 1.x, Apache 2.x, httpd, etc.); and is effective against even some mitigation mechanisms such as poorly implemented reverse proxy servers. | https://github.com/SHUR1K-N/GETreqt-Multithreaded-Slow-DoS-Attack | 9 | 0| 
-| 20211004T09:50:33Z | Exploit Code | https://github.com/wjddnjs33/Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -74,12 +74,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211004T01:58:01Z | These tests of libdwarf/dwarfdump include old object files, new ones, and many fuzzed object files. These are the definitive tests that things work.. Most people have no reason to run these tests. | https://github.com/davea42/libdwarf-regressiontests | 0 | 0| 
-| 20211004T01:37:28Z | Command line helpers for fuzzing | https://github.com/rust-fuzz/cargo-fuzz | 811 | 67| 
-| 20211004T00:50:33Z | A set of fuzzers for fuzzing various parts of the Zig standard library | https://github.com/squeek502/zig-std-lib-fuzzing | 9 | 0| 
-| 20211004T00:34:43Z | Dictionary collection project such as Pentesing, Fuzzing, Bruteforce and BugBounty. 渗透测试、SRC漏洞挖掘、爆破、Fuzzing等字典收集项目。 | https://github.com/insightglacier/Dictionary-Of-Pentesting | 876 | 199| 
-| 20211004T00:15:07Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20211004T00:05:30Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 29 | 11| 
+| 20211004T11:56:19Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 330 | 81| 
+| 20211004T11:35:10Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2077 | 407| 
+| 20211004T11:27:45Z | NSR drone fuzzing project 2021 | https://github.com/daehee87/nsr2021 | 0 | 1| 
+| 20211004T11:01:37Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
+| 20211004T10:47:30Z | Null | https://github.com/JordanFosu/fuzzy-succotash | 0 | 0| 
+| 20211004T10:01:52Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20211004T09:40:59Z | Fuzzy finder tool and library | https://github.com/bottlerocketlabs/fuzzy | 0 | 0| 
+| 20211004T09:23:56Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1312 | 234| 
+| 20211004T08:45:02Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 553 | 52| 
+| 20211004T08:44:25Z | A patched QEMU that exposes an interface for LibAFL-based fuzzers | https://github.com/AFLplusplus/qemu-libafl-bridge | 19 | 2| 
 
 
 
