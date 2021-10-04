@@ -103,6 +103,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211004T00:50:33Z | A set of fuzzers for fuzzing various parts of the Zig standard library | https://github.com/squeek502/zig-std-lib-fuzzing | 9 | 0| 
 | 20211004T00:34:43Z | Dictionary collection project such as Pentesing, Fuzzing, Bruteforce and BugBounty. 渗透测试、SRC漏洞挖掘、爆破、Fuzzing等字典收集项目。 | https://github.com/insightglacier/Dictionary-Of-Pentesting | 876 | 199| 
 | 20211004T00:15:07Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211004T00:05:30Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 29 | 11| 
@@ -112,7 +113,6 @@
 | 20211003T22:32:39Z | ROS code for the fuzzy Mixed-Initiative controller | https://github.com/uob-erl/fuzzy_mi_controller | 6 | 4| 
 | 20211003T21:41:29Z | Null | https://github.com/AkisParousis/Fuzzy_Systems | 0 | 0| 
 | 20211003T20:46:21Z | Null | https://github.com/lzhfromustc/goFuzz | 0 | 0| 
-| 20211003T20:04:28Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 
 
 
