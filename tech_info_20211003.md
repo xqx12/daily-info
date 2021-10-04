@@ -39,7 +39,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211003T23:55:20Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10174 | 1714| 
+| 20211003T23:55:20Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10174 | 1715| 
 | 20211003T23:30:58Z | Tool for searching Exploits from Exploit Databases, etc. | https://github.com/vulsio/go-exploitdb | 126 | 37| 
 | 20211003T23:23:11Z | A post-exploitation kernel module that allows an attacker to edit files with little to no footprint. | https://github.com/mineo333/GhostFops | 0 | 0| 
 | 20211003T23:11:33Z | CVE-2021-21972 – ᴠᴍᴡᴀʀᴇ ᴄʟɪᴇɴᴛ ᴜɴᴀᴜᴛʜᴏʀɪᴢᴇᴅ ᴄᴏᴅᴇ ɪɴᴊᴇᴄᴛɪᴏɴ (ʀᴄᴇ) | https://github.com/oxctdev/CVE-2021-21972 | 0 | 0| 

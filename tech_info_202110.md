@@ -60,7 +60,7 @@
 | 20211004T00:35:03Z | Resources, scripts, and overviews of the knowledge I collect going through Offensive Security%s macOS Exploit Development course. | https://github.com/e-a-security/macOS-Exploit-Dev | 0 | 0| 
 | 20211004T00:23:17Z | Quickstart for creating a Roblox exploit with the WeAreDevs API | https://github.com/WeAreDevs-Official/Exploit-Template-with-WRDAPI | 18 | 29| 
 | 20211004T00:19:59Z | Collection of Discord hacking tools/fun stuff/exploits that is completely developed using NodeJS. | https://github.com/I2rys/ODiscord | 9 | 5| 
-| 20211003T23:55:20Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10174 | 1714| 
+| 20211003T23:55:20Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10174 | 1715| 
 | 20211003T23:30:58Z | Tool for searching Exploits from Exploit Databases, etc. | https://github.com/vulsio/go-exploitdb | 126 | 37| 
 | 20211003T23:23:11Z | A post-exploitation kernel module that allows an attacker to edit files with little to no footprint. | https://github.com/mineo333/GhostFops | 0 | 0| 
 
