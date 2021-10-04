@@ -68,9 +68,9 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211004T01:58:37Z | Light-weight UNIX backdoor | https://github.com/phath0m/JadedWraith | 78 | 20| 
 | 20211004T01:52:19Z | A self made CTF tool written under Kali Linux Os, contains one liner backdoors generator for many programs, tools from my repos and other tools that I havent published as a web scrapper for gtfobins. | https://github.com/0bfxgh0st/saf2 | 2 | 1| 
 | 20211003T21:02:16Z | The best backdoor scanner there is. | https://github.com/iK4oS/backdoor.exe | 2 | 4| 
-| 20211003T20:23:11Z | Light-weight UNIX backdoor | https://github.com/phath0m/JadedWraith | 77 | 19| 
 | 20211003T15:23:24Z | Hanoman is an GUI antivirus engine singature based detection 🐒 | https://github.com/hrtywhy/Hanoman | 15 | 10| 
 | 20211003T15:20:59Z | pybotnet -   A Python Library for building Botnet , Trojan or BackDoor for windows and linux with Telegram control panel  | https://github.com/onionj/pybotnet | 27 | 15| 
 | 20211003T13:51:00Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 259 | 47| 
@@ -103,6 +103,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211004T01:58:01Z | These tests of libdwarf/dwarfdump include old object files, new ones, and many fuzzed object files. These are the definitive tests that things work.. Most people have no reason to run these tests. | https://github.com/davea42/libdwarf-regressiontests | 0 | 0| 
 | 20211004T01:37:28Z | Command line helpers for fuzzing | https://github.com/rust-fuzz/cargo-fuzz | 811 | 67| 
 | 20211004T00:50:33Z | A set of fuzzers for fuzzing various parts of the Zig standard library | https://github.com/squeek502/zig-std-lib-fuzzing | 9 | 0| 
 | 20211004T00:34:43Z | Dictionary collection project such as Pentesing, Fuzzing, Bruteforce and BugBounty. 渗透测试、SRC漏洞挖掘、爆破、Fuzzing等字典收集项目。 | https://github.com/insightglacier/Dictionary-Of-Pentesting | 876 | 199| 
@@ -112,7 +113,6 @@
 | 20211003T22:58:21Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6700 | 1383| 
 | 20211003T22:43:36Z | 🤖 Repeat tests. Repeat tests. Repeat tests. | https://github.com/ehmicky/test-each | 94 | 2| 
 | 20211003T22:32:39Z | ROS code for the fuzzy Mixed-Initiative controller | https://github.com/uob-erl/fuzzy_mi_controller | 6 | 4| 
-| 20211003T21:41:29Z | Null | https://github.com/AkisParousis/Fuzzy_Systems | 0 | 0| 
 
 
 

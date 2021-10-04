@@ -54,7 +54,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20211003T21:02:16Z | The best backdoor scanner there is. | https://github.com/iK4oS/backdoor.exe | 2 | 4| 
-| 20211003T20:23:11Z | Light-weight UNIX backdoor | https://github.com/phath0m/JadedWraith | 77 | 19| 
 | 20211003T15:23:24Z | Hanoman is an GUI antivirus engine singature based detection 🐒 | https://github.com/hrtywhy/Hanoman | 15 | 10| 
 | 20211003T15:20:59Z | pybotnet -   A Python Library for building Botnet , Trojan or BackDoor for windows and linux with Telegram control panel  | https://github.com/onionj/pybotnet | 27 | 15| 
 | 20211003T13:51:00Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 259 | 47| 
@@ -63,6 +62,7 @@
 | 20211003T03:25:50Z | Backdoor for a project that sucks | https://github.com/MediumNight/Backdoor | 0 | 0| 
 | 20211003T02:25:38Z | contain keylogger , backdoor | https://github.com/Rexbeast2/malware | 0 | 0| 
 | 20211003T01:28:15Z | Null | https://github.com/evgen-jkay/backDoorInWordpress | 0 | 0| 
+| 20211003T01:02:12Z | Null | https://github.com/evgen-jkay/backDoorInModX | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
