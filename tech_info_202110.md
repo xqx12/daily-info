@@ -17,8 +17,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211004T00:28:18Z | CVE-2021-40444 | Null | https://github.com/H0j3n/CVE-2021-40444 | | 
 | 20211004T00:18:41Z | CVE-2021-22005 | the metasploit script(POC/EXP) about CVE-2021-22005 VMware vCenter Server contains an arbitrary file upload vulnerability | https://github.com/TaroballzChen/CVE-2021-22005-metasploit | | 
-| 20211004T00:11:33Z | CVE-2021-40444 | Null | https://github.com/H0j3n/CVE-2021-40444 | | 
 | 20211003T23:11:33Z | CVE-2021-21972 | CVE-2021-21972 – ᴠᴍᴡᴀʀᴇ ᴄʟɪᴇɴᴛ ᴜɴᴀᴜᴛʜᴏʀɪᴢᴇᴅ ᴄᴏᴅᴇ ɪɴᴊᴇᴄᴛɪᴏɴ (ʀᴄᴇ) | https://github.com/oxctdev/CVE-2021-21972 | | 
 | 20211003T21:52:04Z | CVE-2021-22893 | Proof On Concept — Pulse Secure CVE-2021-22893 | https://github.com/oxctdev/CVE-2021-22893 | | 
 | 20211003T13:04:21Z | CVE-2021-1675 | Null | https://github.com/puckiestyle/CVE-2021-1675 | | 
@@ -53,7 +53,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211004T00:23:52Z | Resources, scripts, and overviews of the knowledge I collect going through Offensive Security%s macOS Exploit Development course. | https://github.com/e-a-security/macOS-Exploit-Dev | 0 | 0| 
+| 20211004T00:28:21Z | Resources, scripts, and overviews of the knowledge I collect going through Offensive Security%s macOS Exploit Development course. | https://github.com/e-a-security/macOS-Exploit-Dev | 0 | 0| 
 | 20211004T00:23:17Z | Quickstart for creating a Roblox exploit with the WeAreDevs API | https://github.com/WeAreDevs-Official/Exploit-Template-with-WRDAPI | 18 | 29| 
 | 20211004T00:22:11Z | A private Da Hood exploit script | https://github.com/iamtryingtofindname/Artemis | 0 | 0| 
 | 20211004T00:19:59Z | Collection of Discord hacking tools/fun stuff/exploits that is completely developed using NodeJS. | https://github.com/I2rys/ODiscord | 9 | 5| 
