@@ -17,23 +17,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211004T01:31:48Z | CVE-2021-21972 | CVE-2021-21972 – ᴠᴍᴡᴀʀᴇ ᴄʟɪᴇɴᴛ ᴜɴᴀᴜᴛʜᴏʀɪᴢᴇᴅ ᴄᴏᴅᴇ ɪɴᴊᴇᴄᴛɪᴏɴ (ʀᴄᴇ) | https://github.com/oxctdev/CVE-2021-21972 | | 
+| 20211004T10:24:34Z | CVE-2021-22893 | Proof On Concept — Pulse Secure CVE-2021-22893 | https://github.com/oxctdev/CVE-2021-22893 | | 
+| 20211004T07:49:46Z | CVE-2020-15436 | Null | https://github.com/artsking/linux-3.0.35_CVE-2020-15436_withPatch | | 
+| 20211004T07:40:37Z | CVE-2021-22005 | the metasploit script(POC/EXP) about CVE-2021-22005 VMware vCenter Server contains an arbitrary file upload vulnerability | https://github.com/TaroballzChen/CVE-2021-22005-metasploit | | 
+| 20211004T07:40:33Z | CVE-2021-21569 | PoC for exploiting CVE-2021-21569 : Dell NetWorker, versions 18.x and 19.x contain a Path traversal vulnerability. A NetWorker server user with remote access to NetWorker clients may potentially exploit this vulnerability and gain access to unauthorized information. | https://github.com/AlAIAL90/CVE-2021-21569 | | 
+| 20211004T07:40:31Z | CVE-2021-40444 | Null | https://github.com/H0j3n/CVE-2021-40444 | | 
+| 20211004T05:41:12Z | CVE-2020-23934 | Null | https://github.com/H0j3n/CVE-2020-23934 | | 
+| 20211004T02:07:03Z | CVE-2021-21972 | CVE-2021-21972 – ᴠᴍᴡᴀʀᴇ ᴄʟɪᴇɴᴛ ᴜɴᴀᴜᴛʜᴏʀɪᴢᴇᴅ ᴄᴏᴅᴇ ɪɴᴊᴇᴄᴛɪᴏɴ (ʀᴄᴇ) | https://github.com/oxctdev/CVE-2021-21972 | | 
 | 20211004T01:13:56Z | CVE-2021-29447 | WordPress - Authenticated XXE (CVE-2021-29447) | https://github.com/motikan2010/CVE-2021-29447 | | 
-| 20211004T00:28:18Z | CVE-2021-40444 | Null | https://github.com/H0j3n/CVE-2021-40444 | | 
-| 20211004T00:18:41Z | CVE-2021-22005 | the metasploit script(POC/EXP) about CVE-2021-22005 VMware vCenter Server contains an arbitrary file upload vulnerability | https://github.com/TaroballzChen/CVE-2021-22005-metasploit | | 
-| 20211003T21:52:04Z | CVE-2021-22893 | Proof On Concept — Pulse Secure CVE-2021-22893 | https://github.com/oxctdev/CVE-2021-22893 | | 
 | 20211003T13:04:21Z | CVE-2021-1675 | Null | https://github.com/puckiestyle/CVE-2021-1675 | | 
 | 20211003T09:20:25Z | CVE-2021-22005 | CVE-2021-22005 - VMWare vCenter Server File Upload to RCE | https://github.com/r0ckysec/CVE-2021-22005 | | 
-| 20211002T14:44:55Z | CVE-2021-3493 | Null | https://github.com/puckiestyle/CVE-2021-3493 | | 
-| 20211002T10:46:57Z | CVE-2021-41511 | Null | https://github.com/Ni7inSharma/CVE-2021-41511 | | 
-| 20211002T03:16:43Z | CVE-2021-26084 | Null | https://github.com/wdjcy/CVE-2021-26084 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211004T09:52:50Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2818 | 74| 
 | 20211003T17:08:12Z | Config files for my GitHub profile. | https://github.com/Kleevry/Kleevry | 0 | 0| 
-| 20211003T14:04:07Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2815 | 74| 
 | 20211003T07:48:23Z | for atcoder | https://github.com/kashee337/klee_atcoder | 0 | 0| 
 | 20211002T20:10:27Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 14 | 45| 
 | 20211002T14:57:04Z | klee.js is a (data driven) generator and wrapper for the magnificent three.js | https://github.com/trenc/klee.js | 1 | 0| 
@@ -53,31 +53,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211004T01:31:48Z | CVE-2021-21972 – ᴠᴍᴡᴀʀᴇ ᴄʟɪᴇɴᴛ ᴜɴᴀᴜᴛʜᴏʀɪᴢᴇᴅ ᴄᴏᴅᴇ ɪɴᴊᴇᴄᴛɪᴏɴ (ʀᴄᴇ) | https://github.com/oxctdev/CVE-2021-21972 | 1 | 1| 
-| 20211004T01:20:10Z | Resources, scripts, and overviews of the knowledge I collect going through Offensive Security%s macOS Exploit Development course. | https://github.com/e-a-security/macOS-Exploit-Dev-OSMR | 0 | 0| 
-| 20211004T01:03:20Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
-| 20211004T00:41:15Z | A private Da Hood exploit script | https://github.com/iamtryingtofindname/Artemis | 0 | 0| 
-| 20211004T00:38:02Z | Resources, scripts, and overviews of the knowledge I collect going through Offensive Security%s macOS Exploit Development course. | https://github.com/e-a-security/macOS-Exploit-Dev-OSMR- | 0 | 0| 
-| 20211004T00:35:03Z | Resources, scripts, and overviews of the knowledge I collect going through Offensive Security%s macOS Exploit Development course. | https://github.com/e-a-security/macOS-Exploit-Dev | 0 | 0| 
-| 20211004T00:23:17Z | Quickstart for creating a Roblox exploit with the WeAreDevs API | https://github.com/WeAreDevs-Official/Exploit-Template-with-WRDAPI | 18 | 29| 
-| 20211004T00:19:59Z | Collection of Discord hacking tools/fun stuff/exploits that is completely developed using NodeJS. | https://github.com/I2rys/ODiscord | 9 | 5| 
-| 20211003T23:55:20Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10174 | 1715| 
-| 20211003T23:30:58Z | Tool for searching Exploits from Exploit Databases, etc. | https://github.com/vulsio/go-exploitdb | 126 | 37| 
+| 20211004T11:58:19Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10173 | 1716| 
+| 20211004T11:48:00Z | BioCCP.jl exploits the Coupon Collector Problem for sample size determination in combinatorial biotechnology. | https://github.com/kirstvh/BioCCP.jl | 4 | 0| 
+| 20211004T11:42:48Z | Robotics semester project at LASA, EPFL | https://github.com/RaphaelUebersax/Incrementally_Learning_and_Exploiting_Inverse_Dynamics | 0 | 0| 
+| 20211004T11:24:29Z | A series of symupy examples to exploit the symupy package | https://github.com/licit-lab/symupy-examples | 0 | 0| 
+| 20211004T11:15:16Z | Exploitation of Lyrics, Music and Vocals in Multimodal Song Classification Systems | https://github.com/sergiopicascia/thesis | 0 | 0| 
+| 20211004T11:03:00Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
+| 20211004T10:31:06Z | Null | https://github.com/karimmuya/laravel-exploit-tricks | 1 | 0| 
+| 20211004T10:26:53Z | SECMON is a web-based tool for the automation of infosec watching and vulnerability management with a web interface. | https://github.com/Guezone/SECMON | 109 | 25| 
+| 20211004T10:13:21Z | A unique, multithreaded Slow DoS exploit against web servers that use vulnerable versions of thread-based web server software (Apache 1.x, Apache 2.x, httpd, etc.); and is effective against even some mitigation mechanisms such as poorly implemented reverse proxy servers. | https://github.com/SHUR1K-N/GETreqt-Multithreaded-Slow-DoS-Attack | 9 | 0| 
+| 20211004T09:50:33Z | Exploit Code | https://github.com/wjddnjs33/Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211004T01:58:37Z | Light-weight UNIX backdoor | https://github.com/phath0m/JadedWraith | 78 | 20| 
+| 20211004T11:29:36Z | This project aims to understand ethical hacking techniques using python backdoor tool from scratch. The tests and procedures should only be executed on your own machines. If you%re planning to execute pwned-by on someone else%s machine, DO IT ETHICALLY! Ask for permission to conduct your activity with written instructions. Do not investigate someone else%s files without permission. I do not promote any harm to other people. Please use it at your own risk! Author will not be responsible for any damage! This project is for study purposes only. Enjoy hacking! | https://github.com/4stropotato/pwned-by | 2 | 0| 
+| 20211004T06:59:27Z | Light-weight UNIX backdoor | https://github.com/phath0m/JadedWraith | 79 | 21| 
+| 20211004T02:01:50Z | Website Shell BackDoors | https://github.com/7r0j4ncodeing/Web-Shells | 17 | 6| 
 | 20211004T01:52:19Z | A self made CTF tool written under Kali Linux Os, contains one liner backdoors generator for many programs, tools from my repos and other tools that I havent published as a web scrapper for gtfobins. | https://github.com/0bfxgh0st/saf2 | 2 | 1| 
 | 20211003T21:02:16Z | The best backdoor scanner there is. | https://github.com/iK4oS/backdoor.exe | 2 | 4| 
 | 20211003T15:23:24Z | Hanoman is an GUI antivirus engine singature based detection 🐒 | https://github.com/hrtywhy/Hanoman | 15 | 10| 
 | 20211003T15:20:59Z | pybotnet -   A Python Library for building Botnet , Trojan or BackDoor for windows and linux with Telegram control panel  | https://github.com/onionj/pybotnet | 27 | 15| 
 | 20211003T13:51:00Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 259 | 47| 
 | 20211003T12:44:05Z | Null | https://github.com/mr-quixter/ShellBackdoor | 0 | 1| 
-| 20211003T10:34:29Z | Website Shell BackDoors | https://github.com/7r0j4ncodeing/Web-Shells | 16 | 5| 
 | 20211003T03:25:50Z | Backdoor for a project that sucks | https://github.com/MediumNight/Backdoor | 0 | 0| 
-| 20211003T02:25:38Z | contain keylogger , backdoor | https://github.com/Rexbeast2/malware | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
