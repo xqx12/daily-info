@@ -17,6 +17,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211004T01:13:56Z | CVE-2021-29447 | WordPress - Authenticated XXE (CVE-2021-29447) | https://github.com/motikan2010/CVE-2021-29447 | | 
 | 20211004T00:28:18Z | CVE-2021-40444 | Null | https://github.com/H0j3n/CVE-2021-40444 | | 
 | 20211004T00:18:41Z | CVE-2021-22005 | the metasploit script(POC/EXP) about CVE-2021-22005 VMware vCenter Server contains an arbitrary file upload vulnerability | https://github.com/TaroballzChen/CVE-2021-22005-metasploit | | 
 | 20211003T23:11:33Z | CVE-2021-21972 | CVE-2021-21972 – ᴠᴍᴡᴀʀᴇ ᴄʟɪᴇɴᴛ ᴜɴᴀᴜᴛʜᴏʀɪᴢᴇᴅ ᴄᴏᴅᴇ ɪɴᴊᴇᴄᴛɪᴏɴ (ʀᴄᴇ) | https://github.com/oxctdev/CVE-2021-21972 | | 
@@ -26,7 +27,6 @@
 | 20211002T14:44:55Z | CVE-2021-3493 | Null | https://github.com/puckiestyle/CVE-2021-3493 | | 
 | 20211002T10:46:57Z | CVE-2021-41511 | Null | https://github.com/Ni7inSharma/CVE-2021-41511 | | 
 | 20211002T03:16:43Z | CVE-2021-26084 | Null | https://github.com/wdjcy/CVE-2021-26084 | | 
-| 20211002T01:33:31Z | CVE-2021-21569 | PoC for exploiting CVE-2021-21569 : Dell NetWorker, versions 18.x and 19.x contain a Path traversal vulnerability. A NetWorker server user with remote access to NetWorker clients may potentially exploit this vulnerability and gain access to unauthorized information. | https://github.com/AlAIAL90/CVE-2021-21569 | | 
 
 
 # klee on Github 推荐
