@@ -81,6 +81,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211004T12:15:13Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 29 | 11| 
+| 20211004T12:14:48Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6702 | 1383| 
 | 20211004T12:07:07Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3711 | 878| 
 | 20211004T12:04:19Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211004T11:56:19Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 330 | 81| 
@@ -89,8 +91,6 @@
 | 20211004T11:01:37Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
 | 20211004T10:47:30Z | Null | https://github.com/JordanFosu/fuzzy-succotash | 0 | 0| 
 | 20211004T09:40:59Z | Fuzzy finder tool and library | https://github.com/bottlerocketlabs/fuzzy | 0 | 0| 
-| 20211004T09:23:56Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1312 | 234| 
-| 20211004T08:45:02Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 553 | 52| 
 
 
 
