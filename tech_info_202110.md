@@ -104,6 +104,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211004T12:59:19Z | Null | https://github.com/vurosevic/stlf_fuzzy_anfis | 0 | 0| 
 | 20211004T12:58:51Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1313 | 234| 
 | 20211004T12:36:03Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20211004T12:15:13Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 29 | 11| 
@@ -113,7 +114,6 @@
 | 20211004T11:56:19Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 330 | 81| 
 | 20211004T11:35:10Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2077 | 407| 
 | 20211004T11:27:45Z | NSR drone fuzzing project 2021 | https://github.com/daehee87/nsr2021 | 0 | 1| 
-| 20211004T11:01:37Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
 
 
 
