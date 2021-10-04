@@ -40,6 +40,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211004T12:52:57Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 22 | 14| 
 | 20211004T12:34:21Z | Proof-of-concept obfuscation toolkit for C# post-exploitation tools | https://github.com/h4wkst3r/InvisibilityCloak | 53 | 38| 
 | 20211004T12:03:16Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
 | 20211004T12:01:50Z | BioCCP.jl exploits the Coupon Collector Problem for sample size determination in combinatorial biotechnology. | https://github.com/kirstvh/BioCCP.jl | 4 | 0| 
@@ -49,7 +50,6 @@
 | 20211004T11:24:29Z | A series of symupy examples to exploit the symupy package | https://github.com/licit-lab/symupy-examples | 0 | 0| 
 | 20211004T11:15:16Z | Exploitation of Lyrics, Music and Vocals in Multimodal Song Classification Systems | https://github.com/sergiopicascia/thesis | 0 | 0| 
 | 20211004T10:31:06Z | Null | https://github.com/karimmuya/laravel-exploit-tricks | 1 | 0| 
-| 20211004T10:26:53Z | SECMON is a web-based tool for the automation of infosec watching and vulnerability management with a web interface. | https://github.com/Guezone/SECMON | 109 | 25| 
 
 
 # backdoor on Github 推荐
@@ -81,6 +81,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211004T12:58:51Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1313 | 234| 
 | 20211004T12:36:03Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20211004T12:15:13Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 29 | 11| 
 | 20211004T12:14:48Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6702 | 1383| 
@@ -90,7 +91,6 @@
 | 20211004T11:35:10Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2077 | 407| 
 | 20211004T11:27:45Z | NSR drone fuzzing project 2021 | https://github.com/daehee87/nsr2021 | 0 | 1| 
 | 20211004T11:01:37Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
-| 20211004T10:47:30Z | Null | https://github.com/JordanFosu/fuzzy-succotash | 0 | 0| 
 
 
 
