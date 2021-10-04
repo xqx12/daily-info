@@ -53,7 +53,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211004T01:18:48Z | Resources, scripts, and overviews of the knowledge I collect going through Offensive Security%s macOS Exploit Development course. | https://github.com/e-a-security/macOS-Exploit-Dev-OSMR | 0 | 0| 
+| 20211004T01:20:10Z | Resources, scripts, and overviews of the knowledge I collect going through Offensive Security%s macOS Exploit Development course. | https://github.com/e-a-security/macOS-Exploit-Dev-OSMR | 0 | 0| 
 | 20211004T01:03:20Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
 | 20211004T00:41:15Z | A private Da Hood exploit script | https://github.com/iamtryingtofindname/Artemis | 0 | 0| 
 | 20211004T00:38:02Z | Resources, scripts, and overviews of the knowledge I collect going through Offensive Security%s macOS Exploit Development course. | https://github.com/e-a-security/macOS-Exploit-Dev-OSMR- | 0 | 0| 
