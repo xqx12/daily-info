@@ -83,16 +83,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211003T18:52:33Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1896 | 394| 
+| 20211003T14:15:03Z | Symbolic Execution for WebAssembly | https://github.com/romits800/Vivienne_eval | 1 | 0| 
 | 20211003T12:21:47Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 123 | 10| 
 | 20211003T05:17:40Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 164 | 37| 
 | 20211003T05:01:09Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1790 | 507| 
 | 20211002T13:14:09Z | A tool for generating nonlinear numerical invariants for C and Java programs.  DIG uses dynamic analysis to infer invariants over program execution traces and applies symbolic execution to inferred invariants. | https://github.com/unsat/dig | 9 | 4| 
 | 20211002T10:41:48Z | RAUK: Automatic Schedulability Analysis of RTIC Applications Using Symbolic Execution | https://github.com/markhakansson/master-thesis | 5 | 0| 
-| 20211001T17:45:59Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1895 | 394| 
 | 20211001T16:49:37Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 17 | 3| 
 | 20211001T16:10:31Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 159 | 35| 
 | 20211001T11:22:47Z | Symbolic Execution: Foundations, Techniques, Applications and Future Perspectives | https://github.com/rindPHI/se-book-festschrift-rh | 0 | 0| 
-| 20211001T00:09:46Z | A symbolic execution engine for Chisel circuits. | https://github.com/ekiwi/maltese | 0 | 1| 
 
 
 # big4 on Github 推荐
