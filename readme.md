@@ -87,16 +87,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211004T12:59:19Z | Null | https://github.com/vurosevic/stlf_fuzzy_anfis | 0 | 0| 
-| 20211004T12:58:51Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1313 | 234| 
-| 20211004T12:36:03Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
-| 20211004T12:15:13Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 29 | 11| 
-| 20211004T12:14:48Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6702 | 1383| 
-| 20211004T12:07:07Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3711 | 878| 
-| 20211004T12:04:19Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20211004T11:56:19Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 330 | 81| 
-| 20211004T11:35:10Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2077 | 407| 
-| 20211004T11:27:45Z | NSR drone fuzzing project 2021 | https://github.com/daehee87/nsr2021 | 0 | 1| 
+| 20211004T23:26:06Z | A Modular Open-Source Hardware Fuzzing Framework | https://github.com/ekiwi/rtl-fuzz-lab | 4 | 0| 
+| 20211004T23:04:14Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2397 | 145| 
+| 20211004T23:01:26Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20211004T22:50:26Z | This project utilizes a fuzzy inference engine in order to make the decisions for a robot which must navigate from a starting point to a destination point. | https://github.com/cmhart2/CSE454-Fuzzy_Project | 0 | 0| 
+| 20211004T22:35:44Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
+| 20211004T22:01:02Z | Attempts solving tasks from AI Systems course | https://github.com/JustGevorg/FuzzLogic | 0 | 0| 
+| 20211004T21:56:06Z | Null | https://github.com/0xf4b1/bsod-kernel-fuzzing | 0 | 0| 
+| 20211004T21:23:21Z | java coding exercises | https://github.com/jeortizquan/fuzzy-octo-sniffle | 0 | 0| 
+| 20211004T21:12:53Z | Spatial mapping of human kidney by automated structural segmentation and registration across paired IHC, AF, and IMS datasets | https://github.com/codyheiser/fuzzy-lasagna | 0 | 0| 
+| 20211004T21:10:23Z | Null | https://github.com/Ihebhergli22/fuzzy-octo-succotash | 0 | 0| 
 
 
 
