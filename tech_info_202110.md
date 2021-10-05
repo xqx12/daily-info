@@ -53,6 +53,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211005T00:22:08Z | Six months with Cyber Range Poulsbo to develop an educational tool that provided hands-on experience with common cyber security exploits such as buffer overflow, ciphers, and packet capturing. This was developed and deployed on their private server infrastructure fundamentally similar to AWS. Service is currently deployed for CR students. | https://github.com/demarco-cmj/Cyber-Range-Senior-Project | 0 | 0| 
 | 20211005T00:04:10Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 26 | 36| 
 | 20211005T00:03:43Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
 | 20211004T22:53:53Z | Simple Serverless Application with a few weakness to exploit | https://github.com/JustinDPerkins/vulnerable-serverless-application-python | 1 | 0| 
@@ -62,7 +63,6 @@
 | 20211004T21:46:16Z | Exploit to allow loading arbitrary code on the PSX using only a memory card (no game needed) | https://github.com/brad-lin/FreePSXBoot | 271 | 20| 
 | 20211004T21:28:36Z | Tesla Agent— botnet C&C RCE Exploitation | https://github.com/oxctdev/TeslaRCE | 0 | 0| 
 | 20211004T21:17:53Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10174 | 1716| 
-| 20211004T20:53:16Z | An advanced graphical search engine for Exploit-DB | https://github.com/nicolas-carolo/houndsploit | 92 | 17| 
 
 
 # backdoor on Github 推荐
@@ -105,6 +105,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211005T00:22:34Z | Null | https://github.com/Inajara/fuzzy-disco | 0 | 0| 
 | 20211005T00:21:13Z | A collection of fuzzing resources, statistics and writeups | https://github.com/timontan/potato-fuzzing | 0 | 0| 
 | 20211005T00:17:22Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 29 | 11| 
 | 20211005T00:15:54Z | Read-only mirror of %fuzzysim% from r-forge SVN. | https://github.com/r-forge/fuzzysim | 1 | 0| 
@@ -114,7 +115,6 @@
 | 20211004T22:50:26Z | This project utilizes a fuzzy inference engine in order to make the decisions for a robot which must navigate from a starting point to a destination point. | https://github.com/cmhart2/CSE454-Fuzzy_Project | 0 | 0| 
 | 20211004T22:35:44Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20211004T22:01:02Z | Attempts solving tasks from AI Systems course | https://github.com/JustGevorg/FuzzLogic | 0 | 0| 
-| 20211004T21:56:06Z | Null | https://github.com/0xf4b1/bsod-kernel-fuzzing | 0 | 0| 
 
 
 
