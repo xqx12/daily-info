@@ -53,11 +53,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211005T00:49:57Z | A speech recognition system by exploiting frequency characteristics of vowel sounds | https://github.com/weiwu99/speech_recognition | 0 | 0| 
+| 20211005T00:49:41Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4001 | 580| 
 | 20211005T00:49:33Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 27 | 36| 
-| 20211005T00:47:50Z | A speech recognition system by exploiting frequency characteristics of vowel sounds | https://github.com/weiwu99/speech_recognition | 0 | 0| 
 | 20211005T00:47:09Z | A speech recognition system by exploiting frequency characteristics of vowel sounds | https://github.com/weiwu99/speaker_recognition | 0 | 0| 
 | 20211005T00:42:17Z | Six months with Cyber Range Poulsbo to develop an educational tool that provided hands-on experience with common cyber security exploits such as buffer overflow, ciphers, and packet capturing. This was developed and deployed on their private server infrastructure fundamentally similar to AWS. Service is currently deployed for CR students. | https://github.com/demarco-cmj/Cyber-Range-Senior-Project | 0 | 0| 
-| 20211005T00:29:17Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4000 | 580| 
 | 20211005T00:03:43Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
 | 20211004T22:53:53Z | Simple Serverless Application with a few weakness to exploit | https://github.com/JustinDPerkins/vulnerable-serverless-application-python | 1 | 0| 
 | 20211004T22:35:39Z | Exploit Privado | https://github.com/whaomi23/Update-Defender | 0 | 0| 
