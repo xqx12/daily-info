@@ -53,7 +53,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211004T23:22:26Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 26 | 36| 
+| 20211005T00:02:10Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 26 | 36| 
 | 20211004T23:03:25Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
 | 20211004T22:53:53Z | Simple Serverless Application with a few weakness to exploit | https://github.com/JustinDPerkins/vulnerable-serverless-application-python | 1 | 0| 
 | 20211004T22:35:39Z | Exploit Privado | https://github.com/whaomi23/Update-Defender | 0 | 0| 
@@ -83,16 +83,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211004T11:02:10Z | Symbolic execution engine for ABS | https://github.com/Edkamb/crowbar-tool | 0 | 3| 
-| 20211004T10:34:20Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 125 | 10| 
-| 20211004T10:11:09Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 477 | 75| 
-| 20211004T07:04:40Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1897 | 394| 
+| 20211004T23:50:46Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 129 | 10| 
+| 20211004T18:19:56Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1898 | 394| 
+| 20211004T17:26:36Z | Symbolic execution engine for ABS | https://github.com/Edkamb/crowbar-tool | 0 | 3| 
+| 20211004T16:23:19Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 478 | 75| 
+| 20211004T15:46:43Z | A symbolic execution engine for Chisel circuits. | https://github.com/ekiwi/maltese | 0 | 1| 
+| 20211004T14:42:26Z | DSE: a generic dynamic symbolic execution engine | https://github.com/tudo-aqua/dse | 0 | 0| 
 | 20211004T02:43:55Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 7 | 4| 
 | 20211003T14:15:03Z | Symbolic Execution for WebAssembly | https://github.com/romits800/Vivienne_eval | 1 | 0| 
 | 20211003T05:17:40Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 164 | 37| 
-| 20211003T05:01:09Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1790 | 507| 
-| 20211002T13:14:09Z | A tool for generating nonlinear numerical invariants for C and Java programs.  DIG uses dynamic analysis to infer invariants over program execution traces and applies symbolic execution to inferred invariants. | https://github.com/unsat/dig | 9 | 4| 
-| 20211002T10:41:48Z | RAUK: Automatic Schedulability Analysis of RTIC Applications Using Symbolic Execution | https://github.com/markhakansson/master-thesis | 5 | 0| 
+| 20211003T05:01:09Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1790 | 508| 
 
 
 # big4 on Github 推荐

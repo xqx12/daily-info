@@ -42,7 +42,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211004T23:22:26Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 26 | 36| 
 | 20211004T23:03:25Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
 | 20211004T22:53:53Z | Simple Serverless Application with a few weakness to exploit | https://github.com/JustinDPerkins/vulnerable-serverless-application-python | 1 | 0| 
 | 20211004T22:35:39Z | Exploit Privado | https://github.com/whaomi23/Update-Defender | 0 | 0| 
@@ -52,6 +51,7 @@
 | 20211004T21:28:36Z | Tesla Agent— botnet C&C RCE Exploitation | https://github.com/oxctdev/TeslaRCE | 0 | 0| 
 | 20211004T21:17:53Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10174 | 1716| 
 | 20211004T20:53:16Z | An advanced graphical search engine for Exploit-DB | https://github.com/nicolas-carolo/houndsploit | 92 | 17| 
+| 20211004T19:49:38Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
 
 
 # backdoor on Github 推荐
@@ -71,10 +71,12 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211004T11:02:10Z | Symbolic execution engine for ABS | https://github.com/Edkamb/crowbar-tool | 0 | 3| 
-| 20211004T10:34:20Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 125 | 10| 
-| 20211004T10:11:09Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 477 | 75| 
-| 20211004T07:04:40Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1897 | 394| 
+| 20211004T23:50:46Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 129 | 10| 
+| 20211004T18:19:56Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1898 | 394| 
+| 20211004T17:26:36Z | Symbolic execution engine for ABS | https://github.com/Edkamb/crowbar-tool | 0 | 3| 
+| 20211004T16:23:19Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 478 | 75| 
+| 20211004T15:46:43Z | A symbolic execution engine for Chisel circuits. | https://github.com/ekiwi/maltese | 0 | 1| 
+| 20211004T14:42:26Z | DSE: a generic dynamic symbolic execution engine | https://github.com/tudo-aqua/dse | 0 | 0| 
 | 20211004T02:43:55Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 7 | 4| 
 
 
