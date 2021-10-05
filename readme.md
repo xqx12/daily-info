@@ -12,6 +12,9 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20211005 | Starkiller: Starkiller is a Frontend for PowerShell Empire | https://github.com/BC-SECURITY/Starkiller| 
+| 20211005 | 基于频域分析的实时恶意流量检测 | https://mp.weixin.qq.com/s/nAiN-17OYh7begqcUYGJyQ| 
+| 20211005 | 自动化入侵和攻击模拟（BAS）： 降低成本和风险的革命已经来临 | https://mp.weixin.qq.com/s/UQcRr5kiKXf_iZ-_CKn_1Q| 
+| 20211005 | monkey: Infection Monkey - An automated pentest tool | https://github.com/guardicore/monkey| 
 
 
 # CVE Github 推荐
