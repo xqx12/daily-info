@@ -105,6 +105,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211005T00:15:54Z | Read-only mirror of %fuzzysim% from r-forge SVN. | https://github.com/r-forge/fuzzysim | 1 | 0| 
 | 20211005T00:06:15Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 29 | 11| 
 | 20211004T23:26:06Z | A Modular Open-Source Hardware Fuzzing Framework | https://github.com/ekiwi/rtl-fuzz-lab | 4 | 0| 
 | 20211004T23:04:14Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2397 | 145| 
@@ -114,7 +115,6 @@
 | 20211004T22:01:02Z | Attempts solving tasks from AI Systems course | https://github.com/JustGevorg/FuzzLogic | 0 | 0| 
 | 20211004T21:56:06Z | Null | https://github.com/0xf4b1/bsod-kernel-fuzzing | 0 | 0| 
 | 20211004T21:23:21Z | java coding exercises | https://github.com/jeortizquan/fuzzy-octo-sniffle | 0 | 0| 
-| 20211004T21:12:53Z | Spatial mapping of human kidney by automated structural segmentation and registration across paired IHC, AF, and IMS datasets | https://github.com/codyheiser/fuzzy-lasagna | 0 | 0| 
 
 
 
