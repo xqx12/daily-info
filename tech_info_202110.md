@@ -17,10 +17,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211005T00:50:33Z | CVE-2021-22005 | CVE-2021-22005 - VMWare vCenter Server File Upload to RCE | https://github.com/r0ckysec/CVE-2021-22005 | | 
 | 20211004T22:17:11Z | cve-2020-0796 | Null | https://github.com/Opensitoo/cve-2020-0796 | | 
 | 20211004T21:24:43Z | CVE-2021-22005 | the metasploit script(POC/EXP) about CVE-2021-22005 VMware vCenter Server contains an arbitrary file upload vulnerability | https://github.com/TaroballzChen/CVE-2021-22005-metasploit | | 
 | 20211004T19:02:55Z | CVE-2021-39433 | BIQS IT Biqs-drive v1.83 | https://github.com/PinkDraconian/CVE-2021-39433 | | 
-| 20211004T16:55:46Z | CVE-2021-22005 | CVE-2021-22005 - VMWare vCenter Server File Upload to RCE | https://github.com/r0ckysec/CVE-2021-22005 | | 
 | 20211004T14:28:04Z | CVE-2021-40444 | Null | https://github.com/H0j3n/CVE-2021-40444 | | 
 | 20211004T12:45:40Z | CVE-2021-22893 | Proof On Concept — Pulse Secure CVE-2021-22893 | https://github.com/oxctdev/CVE-2021-22893 | | 
 | 20211004T12:45:32Z | CVE-2021-21972 | CVE-2021-21972 – ᴠᴍᴡᴀʀᴇ ᴄʟɪᴇɴᴛ ᴜɴᴀᴜᴛʜᴏʀɪᴢᴇᴅ ᴄᴏᴅᴇ ɪɴᴊᴇᴄᴛɪᴏɴ (ʀᴄᴇ) | https://github.com/oxctdev/CVE-2021-21972 | | 
@@ -53,7 +53,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211005T00:49:57Z | A speech recognition system by exploiting frequency characteristics of vowel sounds | https://github.com/weiwu99/speech_recognition | 0 | 0| 
+| 20211005T00:50:54Z | A speech recognition system by exploiting frequency characteristics of vowel sounds | https://github.com/weiwu99/speech_recognition | 0 | 0| 
 | 20211005T00:49:41Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4001 | 580| 
 | 20211005T00:49:33Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 27 | 36| 
 | 20211005T00:47:09Z | A speech recognition system by exploiting frequency characteristics of vowel sounds | https://github.com/weiwu99/speaker_recognition | 0 | 0| 
