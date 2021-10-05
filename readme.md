@@ -49,8 +49,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211005T12:39:56Z | A multi exploit instagram exploitation framework | https://github.com/BirdSecurity/Instagram-Exploitation-Framework | 5 | 0| 
 | 20211005T12:39:18Z | Mise à jour et exploitation d%un index full text | https://github.com/AlainPre/Cours-Big-Data | 0 | 0| 
-| 20211005T12:36:12Z | A multi exploit instagram exploitation framework | https://github.com/BirdSecurity/Instagram-Exploitation-Framework | 4 | 0| 
 | 20211005T12:07:48Z | A collection of JavaScript Codes I%ve made to enhance the User Experience of Discord and some other Discord related stuff | https://github.com/hxr404/Discord-Console-hacks | 91 | 41| 
 | 20211005T12:02:59Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
 | 20211005T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10175 | 1716| 
