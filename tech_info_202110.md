@@ -68,6 +68,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211005T00:15:21Z | My personal unique wiki for hacking the router firmware used by (Telia)TG799vac Xtream v17.2-MINT delivered from Technicolor  | https://github.com/wuseman/TG799VAC-XTREME-17.2-MINT | 62 | 18| 
 | 20211004T20:43:25Z | 🚪 Simple NodeJS backdoor to run code and commands inside victim computer using RabbitMQ | https://github.com/jlenon7/nodejs-backdoor | 0 | 0| 
 | 20211004T18:18:51Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 101 | 20| 
 | 20211004T16:53:06Z | A self made multi-purpose CTF tool written under Kali Linux Os taking adventage of several programs installed. Contains one liner backdoors generator for many programs/languages, recognition scanners, useful  encoders/decoders with some special features as powershell base64 format, tools from ... [ more info at README.md ] | https://github.com/0bfxgh0st/saf2 | 2 | 1| 
@@ -77,7 +78,6 @@
 | 20211004T11:29:36Z | This project aims to understand ethical hacking techniques using python backdoor tool from scratch. The tests and procedures should only be executed on your own machines. If you%re planning to execute pwned-by on someone else%s machine, DO IT ETHICALLY! Ask for permission to conduct your activity with written instructions. Do not investigate someone else%s files without permission. I do not promote any harm to other people. Please use it at your own risk! Author will not be responsible for any damage! This project is for study purposes only. Enjoy hacking! | https://github.com/4stropotato/pwned-by | 2 | 0| 
 | 20211004T06:59:27Z | Light-weight UNIX backdoor | https://github.com/phath0m/JadedWraith | 79 | 21| 
 | 20211004T02:01:50Z | Website Shell BackDoors | https://github.com/7r0j4ncodeing/Web-Shells | 17 | 6| 
-| 20211003T21:02:16Z | The best backdoor scanner there is. | https://github.com/iK4oS/backdoor.exe | 2 | 4| 
 
 
 # symbolic execution on Github 推荐
