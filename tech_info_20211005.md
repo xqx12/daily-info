@@ -49,6 +49,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211005T12:39:18Z | Mise à jour et exploitation d%un index full text | https://github.com/AlainPre/Cours-Big-Data | 0 | 0| 
 | 20211005T12:36:12Z | A multi exploit instagram exploitation framework | https://github.com/BirdSecurity/Instagram-Exploitation-Framework | 4 | 0| 
 | 20211005T12:07:48Z | A collection of JavaScript Codes I%ve made to enhance the User Experience of Discord and some other Discord related stuff | https://github.com/hxr404/Discord-Console-hacks | 91 | 41| 
 | 20211005T12:02:59Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
@@ -58,7 +59,6 @@
 | 20211005T11:17:26Z | PoC for exploiting CVE-2021-22005 : The vCenter Server contains an arbitrary file upload vulnerability in the Analytics service. A malicious actor with network access to port 443 on vCenter Server may exploit this issue to execute code on vCenter Server by uploading a specially crafted file. | https://github.com/AIPOCAI/CVE-2021-22005 | 0 | 0| 
 | 20211005T11:17:22Z | PoC for exploiting CVE-2021-40965 : A Cross-Site Request Forgery (CSRF) vulnerability exists in TinyFileManager all version up to and including 2.4.6 that allows attackers to upload files and run OS commands by inducing the Administrator user to browse a URL controlled by an attacker. | https://github.com/AIPOCAI/CVE-2021-40965 | 0 | 0| 
 | 20211005T11:17:19Z | PoC for exploiting CVE-2020-14119 : There is command injection in the addMeshNode interface of xqnetwork.lua, which leads to command execution under administrator authority on Xiaomi router AX3600 with rom versionrom< 1.1.12 | https://github.com/AIPOCAI/CVE-2020-14119 | 0 | 0| 
-| 20211005T11:17:15Z | PoC for exploiting CVE-2021-39201 : WordPress is a free and open-source content management system written in PHP and paired with a MySQL or MariaDB database. ### Impact The issue allows an authenticated but low-privileged user (like contributor/author) to execute XSS in the editor. This bypasses the restrictions imposed on users who do not have the permission to post `unfiltered_html`. ### Patches This has been patched in WordPress 5.8, and will be pushed to older versions via minor releases (automatic updates). It%s strongly recommended that you keep auto-updates enabled to receive the fix. ### References https://wordpress.org/news/category/releases/ https://hackerone.com/reports/1142140 ### For more information If you have any questions or comments about this advisory: * Open an issue in [HackerOne](https://hackerone.com/wordpress) | https://github.com/AIPOCAI/CVE-2021-39201 | 0 | 0| 
 
 
 # backdoor on Github 推荐
