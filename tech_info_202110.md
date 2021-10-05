@@ -53,7 +53,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211005T00:47:55Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 27 | 36| 
+| 20211005T00:49:33Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 27 | 36| 
 | 20211005T00:47:50Z | A speech recognition system by exploiting frequency characteristics of vowel sounds | https://github.com/weiwu99/speech_recognition | 0 | 0| 
 | 20211005T00:47:09Z | A speech recognition system by exploiting frequency characteristics of vowel sounds | https://github.com/weiwu99/speaker_recognition | 0 | 0| 
 | 20211005T00:42:17Z | Six months with Cyber Range Poulsbo to develop an educational tool that provided hands-on experience with common cyber security exploits such as buffer overflow, ciphers, and packet capturing. This was developed and deployed on their private server infrastructure fundamentally similar to AWS. Service is currently deployed for CR students. | https://github.com/demarco-cmj/Cyber-Range-Senior-Project | 0 | 0| 
