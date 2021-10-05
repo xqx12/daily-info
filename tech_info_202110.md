@@ -105,6 +105,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211005T01:48:36Z | Null | https://github.com/genaro-cravero/piapc-fuzzy-logic | 0 | 0| 
 | 20211005T01:28:38Z | Simple API parameter & body fuzzer kinda. | https://github.com/I2rys/APBF | 0 | 0| 
 | 20211005T00:30:19Z | A collection of fuzzing resources, statistics and writeups | https://github.com/timontan/potato-fuzzing | 0 | 0| 
 | 20211005T00:24:36Z | Eliminate the blue squares before time runs out! | https://github.com/nataliesmyth/fuzzy-octo-memory | 1 | 0| 
@@ -114,7 +115,6 @@
 | 20211004T23:26:06Z | A Modular Open-Source Hardware Fuzzing Framework | https://github.com/ekiwi/rtl-fuzz-lab | 4 | 0| 
 | 20211004T23:04:14Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2397 | 145| 
 | 20211004T23:01:26Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20211004T22:50:26Z | This project utilizes a fuzzy inference engine in order to make the decisions for a robot which must navigate from a starting point to a destination point. | https://github.com/cmhart2/CSE454-Fuzzy_Project | 0 | 0| 
 
 
 
