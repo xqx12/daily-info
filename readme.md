@@ -49,6 +49,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211005T12:51:45Z | BioCCP.jl exploits the Coupon Collector Problem for sample size determination in combinatorial biotechnology. | https://github.com/kirstvh/BioCCP.jl | 4 | 0| 
 | 20211005T12:42:17Z | Code for our NeurIPS 2021 paper %Exploiting the Intrinsic Neighborhood Structure for Source-free Domain Adaptation% | https://github.com/Albert0147/SFDA_neighbors | 4 | 0| 
 | 20211005T12:39:56Z | A multi exploit instagram exploitation framework | https://github.com/BirdSecurity/Instagram-Exploitation-Framework | 5 | 0| 
 | 20211005T12:39:18Z | Mise à jour et exploitation d%un index full text | https://github.com/AlainPre/Cours-Big-Data | 0 | 0| 
@@ -58,7 +59,6 @@
 | 20211005T11:17:34Z | PoC for exploiting CVE-2021-39204 : Pomerium is an open source identity-aware access proxy. Envoy, which Pomerium is based on, incorrectly handles resetting of HTTP/2 streams with excessive complexity. This can lead to high CPU utilization when a large number of streams are reset. This can result in a DoS condition. Pomerium versions 0.14.8 and 0.15.1 contain an upgraded envoy binary with this vulnerability patched. | https://github.com/AIPOCAI/CVE-2021-39204 | 0 | 0| 
 | 20211005T11:17:30Z | PoC for exploiting CVE-2021-39206 : Pomerium is an open source identity-aware access proxy. Envoy, which Pomerium is based on, contains two authorization related vulnerabilities CVE-2021-32777 and CVE-2021-32779. This may lead to incorrect routing or authorization policy decisions. With specially crafted requests, incorrect authorization or routing decisions may be made by Pomerium. Pomerium v0.14.8 and v0.15.1 contain an upgraded envoy binary with these vulnerabilities patched. This issue can only be triggered when using path prefix based policy. Removing any such policies should provide mitigation. | https://github.com/AIPOCAI/CVE-2021-39206 | 0 | 0| 
 | 20211005T11:17:26Z | PoC for exploiting CVE-2021-22005 : The vCenter Server contains an arbitrary file upload vulnerability in the Analytics service. A malicious actor with network access to port 443 on vCenter Server may exploit this issue to execute code on vCenter Server by uploading a specially crafted file. | https://github.com/AIPOCAI/CVE-2021-22005 | 0 | 0| 
-| 20211005T11:17:22Z | PoC for exploiting CVE-2021-40965 : A Cross-Site Request Forgery (CSRF) vulnerability exists in TinyFileManager all version up to and including 2.4.6 that allows attackers to upload files and run OS commands by inducing the Administrator user to browse a URL controlled by an attacker. | https://github.com/AIPOCAI/CVE-2021-40965 | 0 | 0| 
 
 
 # backdoor on Github 推荐
