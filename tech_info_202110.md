@@ -53,8 +53,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211005T00:27:16Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 26 | 36| 
 | 20211005T00:22:08Z | Six months with Cyber Range Poulsbo to develop an educational tool that provided hands-on experience with common cyber security exploits such as buffer overflow, ciphers, and packet capturing. This was developed and deployed on their private server infrastructure fundamentally similar to AWS. Service is currently deployed for CR students. | https://github.com/demarco-cmj/Cyber-Range-Senior-Project | 0 | 0| 
-| 20211005T00:04:10Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 26 | 36| 
 | 20211005T00:03:43Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
 | 20211004T22:53:53Z | Simple Serverless Application with a few weakness to exploit | https://github.com/JustinDPerkins/vulnerable-serverless-application-python | 1 | 0| 
 | 20211004T22:35:39Z | Exploit Privado | https://github.com/whaomi23/Update-Defender | 0 | 0| 
@@ -105,6 +105,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211005T00:24:36Z | Eliminate the blue squares before time runs out! | https://github.com/nataliesmyth/fuzzy-octo-memory | 1 | 0| 
 | 20211005T00:22:34Z | Null | https://github.com/Inajara/fuzzy-disco | 0 | 0| 
 | 20211005T00:21:13Z | A collection of fuzzing resources, statistics and writeups | https://github.com/timontan/potato-fuzzing | 0 | 0| 
 | 20211005T00:17:22Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 29 | 11| 
@@ -114,7 +115,6 @@
 | 20211004T23:01:26Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211004T22:50:26Z | This project utilizes a fuzzy inference engine in order to make the decisions for a robot which must navigate from a starting point to a destination point. | https://github.com/cmhart2/CSE454-Fuzzy_Project | 0 | 0| 
 | 20211004T22:35:44Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
-| 20211004T22:01:02Z | Attempts solving tasks from AI Systems course | https://github.com/JustGevorg/FuzzLogic | 0 | 0| 
 
 
 
