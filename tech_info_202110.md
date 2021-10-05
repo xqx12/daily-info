@@ -53,6 +53,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211005T00:29:17Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4000 | 580| 
 | 20211005T00:27:16Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 26 | 36| 
 | 20211005T00:22:08Z | Six months with Cyber Range Poulsbo to develop an educational tool that provided hands-on experience with common cyber security exploits such as buffer overflow, ciphers, and packet capturing. This was developed and deployed on their private server infrastructure fundamentally similar to AWS. Service is currently deployed for CR students. | https://github.com/demarco-cmj/Cyber-Range-Senior-Project | 0 | 0| 
 | 20211005T00:03:43Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
@@ -62,7 +63,6 @@
 | 20211004T22:26:12Z | Exploit kits (or exploit packs) are automated programs used by attackers to exploit known vulnerabilities in systems or applications. | https://github.com/Mario-Kart-Felix/Build-exploits-packages | 0 | 0| 
 | 20211004T21:46:16Z | Exploit to allow loading arbitrary code on the PSX using only a memory card (no game needed) | https://github.com/brad-lin/FreePSXBoot | 271 | 20| 
 | 20211004T21:28:36Z | Tesla Agent— botnet C&C RCE Exploitation | https://github.com/oxctdev/TeslaRCE | 0 | 0| 
-| 20211004T21:17:53Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10174 | 1716| 
 
 
 # backdoor on Github 推荐
