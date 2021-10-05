@@ -49,6 +49,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211005T12:42:17Z | Code for our NeurIPS 2021 paper %Exploiting the Intrinsic Neighborhood Structure for Source-free Domain Adaptation% | https://github.com/Albert0147/SFDA_neighbors | 4 | 0| 
 | 20211005T12:39:56Z | A multi exploit instagram exploitation framework | https://github.com/BirdSecurity/Instagram-Exploitation-Framework | 5 | 0| 
 | 20211005T12:39:18Z | Mise à jour et exploitation d%un index full text | https://github.com/AlainPre/Cours-Big-Data | 0 | 0| 
 | 20211005T12:07:48Z | A collection of JavaScript Codes I%ve made to enhance the User Experience of Discord and some other Discord related stuff | https://github.com/hxr404/Discord-Console-hacks | 91 | 41| 
@@ -58,12 +59,12 @@
 | 20211005T11:17:30Z | PoC for exploiting CVE-2021-39206 : Pomerium is an open source identity-aware access proxy. Envoy, which Pomerium is based on, contains two authorization related vulnerabilities CVE-2021-32777 and CVE-2021-32779. This may lead to incorrect routing or authorization policy decisions. With specially crafted requests, incorrect authorization or routing decisions may be made by Pomerium. Pomerium v0.14.8 and v0.15.1 contain an upgraded envoy binary with these vulnerabilities patched. This issue can only be triggered when using path prefix based policy. Removing any such policies should provide mitigation. | https://github.com/AIPOCAI/CVE-2021-39206 | 0 | 0| 
 | 20211005T11:17:26Z | PoC for exploiting CVE-2021-22005 : The vCenter Server contains an arbitrary file upload vulnerability in the Analytics service. A malicious actor with network access to port 443 on vCenter Server may exploit this issue to execute code on vCenter Server by uploading a specially crafted file. | https://github.com/AIPOCAI/CVE-2021-22005 | 0 | 0| 
 | 20211005T11:17:22Z | PoC for exploiting CVE-2021-40965 : A Cross-Site Request Forgery (CSRF) vulnerability exists in TinyFileManager all version up to and including 2.4.6 that allows attackers to upload files and run OS commands by inducing the Administrator user to browse a URL controlled by an attacker. | https://github.com/AIPOCAI/CVE-2021-40965 | 0 | 0| 
-| 20211005T11:17:19Z | PoC for exploiting CVE-2020-14119 : There is command injection in the addMeshNode interface of xqnetwork.lua, which leads to command execution under administrator authority on Xiaomi router AX3600 with rom versionrom< 1.1.12 | https://github.com/AIPOCAI/CVE-2020-14119 | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211005T12:42:41Z | Pico-BackDroid is an Android Reverse Shell Backdoor for CircuitPython on Raspberry Pi Pico. | https://github.com/V0lk3n/Pico-BackDroid | 0 | 0| 
 | 20211005T12:17:05Z | pybotnet -   A Python Library for building Botnet , Trojan or BackDoor for windows and linux with Telegram control panel  | https://github.com/onionj/pybotnet | 30 | 16| 
 | 20211005T10:53:36Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 324 | 59| 
 | 20211005T07:03:18Z | Null | https://github.com/rohitpatidar91981/Basic-Python-Backdoor | 0 | 0| 
