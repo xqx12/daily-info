@@ -15,6 +15,7 @@
 | 20211005 | 基于频域分析的实时恶意流量检测 | https://mp.weixin.qq.com/s/nAiN-17OYh7begqcUYGJyQ| 
 | 20211005 | 自动化入侵和攻击模拟（BAS）： 降低成本和风险的革命已经来临 | https://mp.weixin.qq.com/s/UQcRr5kiKXf_iZ-_CKn_1Q| 
 | 20211005 | monkey: Infection Monkey - An automated pentest tool | https://github.com/guardicore/monkey| 
+| 20211005 | 2021 Gartner安全运营成熟度曲线（Hype Cycle）解读 | https://mp.weixin.qq.com/s/RhTVIsGkIumUB-YfEAv6Jg| 
 | 20211002 | 文件上云 - 对象存储的攻击方式 | https://mp.weixin.qq.com/s/eZ8OAO5ELgUNvVricIStGA| 
 
 
@@ -57,9 +58,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211005T12:07:48Z | A collection of JavaScript Codes I%ve made to enhance the User Experience of Discord and some other Discord related stuff | https://github.com/hxr404/Discord-Console-hacks | 91 | 41| 
 | 20211005T12:02:59Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
 | 20211005T11:57:51Z | A multi exploit instagram exploitation framework | https://github.com/BirdSecurity/Instagram-Exploitation-Framework | 4 | 0| 
-| 20211005T11:51:05Z | A collection of JavaScript Codes I%ve made to enhance the User Experience of Discord and some other Discord related stuff | https://github.com/hxr404/Discord-Console-hacks | 91 | 41| 
 | 20211005T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10175 | 1716| 
 | 20211005T11:17:34Z | PoC for exploiting CVE-2021-39204 : Pomerium is an open source identity-aware access proxy. Envoy, which Pomerium is based on, incorrectly handles resetting of HTTP/2 streams with excessive complexity. This can lead to high CPU utilization when a large number of streams are reset. This can result in a DoS condition. Pomerium versions 0.14.8 and 0.15.1 contain an upgraded envoy binary with this vulnerability patched. | https://github.com/AIPOCAI/CVE-2021-39204 | 0 | 0| 
 | 20211005T11:17:30Z | PoC for exploiting CVE-2021-39206 : Pomerium is an open source identity-aware access proxy. Envoy, which Pomerium is based on, contains two authorization related vulnerabilities CVE-2021-32777 and CVE-2021-32779. This may lead to incorrect routing or authorization policy decisions. With specially crafted requests, incorrect authorization or routing decisions may be made by Pomerium. Pomerium v0.14.8 and v0.15.1 contain an upgraded envoy binary with these vulnerabilities patched. This issue can only be triggered when using path prefix based policy. Removing any such policies should provide mitigation. | https://github.com/AIPOCAI/CVE-2021-39206 | 0 | 0| 
