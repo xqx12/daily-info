@@ -45,6 +45,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211005T12:02:59Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
 | 20211005T11:57:51Z | A multi exploit instagram exploitation framework | https://github.com/BirdSecurity/Instagram-Exploitation-Framework | 4 | 0| 
 | 20211005T11:51:05Z | A collection of JavaScript Codes I%ve made to enhance the User Experience of Discord and some other Discord related stuff | https://github.com/hxr404/Discord-Console-hacks | 91 | 41| 
 | 20211005T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10175 | 1716| 
@@ -54,7 +55,6 @@
 | 20211005T11:17:22Z | PoC for exploiting CVE-2021-40965 : A Cross-Site Request Forgery (CSRF) vulnerability exists in TinyFileManager all version up to and including 2.4.6 that allows attackers to upload files and run OS commands by inducing the Administrator user to browse a URL controlled by an attacker. | https://github.com/AIPOCAI/CVE-2021-40965 | 0 | 0| 
 | 20211005T11:17:19Z | PoC for exploiting CVE-2020-14119 : There is command injection in the addMeshNode interface of xqnetwork.lua, which leads to command execution under administrator authority on Xiaomi router AX3600 with rom versionrom< 1.1.12 | https://github.com/AIPOCAI/CVE-2020-14119 | 0 | 0| 
 | 20211005T11:17:15Z | PoC for exploiting CVE-2021-39201 : WordPress is a free and open-source content management system written in PHP and paired with a MySQL or MariaDB database. ### Impact The issue allows an authenticated but low-privileged user (like contributor/author) to execute XSS in the editor. This bypasses the restrictions imposed on users who do not have the permission to post `unfiltered_html`. ### Patches This has been patched in WordPress 5.8, and will be pushed to older versions via minor releases (automatic updates). It%s strongly recommended that you keep auto-updates enabled to receive the fix. ### References https://wordpress.org/news/category/releases/ https://hackerone.com/reports/1142140 ### For more information If you have any questions or comments about this advisory: * Open an issue in [HackerOne](https://hackerone.com/wordpress) | https://github.com/AIPOCAI/CVE-2021-39201 | 0 | 0| 
-| 20211005T11:17:10Z | PoC for exploiting CVE-2021-40966 : A Stored XSS exists in TinyFileManager All version up to and including 2.4.6 in /tinyfilemanager.php when the server is given a file that contains HTML and javascript in its name. A malicious user can upload a file with a malicious filename containing javascript code and it will run on any user browser when they access the server. | https://github.com/AIPOCAI/CVE-2021-40966 | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -86,12 +86,12 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211005T12:04:17Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211005T11:49:18Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3712 | 878| 
 | 20211005T11:45:53Z | stuffs for fuzzcoin paper | https://github.com/daehee87/fuzzcoin-paper | 0 | 0| 
 | 20211005T11:12:00Z | Fuzz Effect. Vst3 beta. | https://github.com/Kirby01/KFuzz- | 0 | 0| 
 | 20211005T11:11:30Z | Windows NT x64 syscall fuzzer | https://github.com/hfiref0x/NtCall64 | 234 | 81| 
 | 20211005T10:37:26Z | Find the ideal fuzz targets in a Rust codebase | https://github.com/trailofbits/siderophile | 121 | 9| 
-| 20211005T10:36:32Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211005T10:27:57Z | V Fast Fuzzer | https://github.com/cz7047/vff | 0 | 0| 
 | 20211005T10:16:49Z | demo | https://github.com/RadhaPrabeen/fuzzy-spoon | 0 | 0| 
 | 20211005T10:10:20Z | Planning tool | https://github.com/HappyDustbunny/FuzzyFlexx | 1 | 0| 
