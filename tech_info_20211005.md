@@ -90,6 +90,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211005T12:15:12Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 29 | 11| 
 | 20211005T12:04:17Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211005T11:49:18Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3712 | 878| 
 | 20211005T11:45:53Z | stuffs for fuzzcoin paper | https://github.com/daehee87/fuzzcoin-paper | 0 | 0| 
@@ -99,7 +100,6 @@
 | 20211005T10:27:57Z | V Fast Fuzzer | https://github.com/cz7047/vff | 0 | 0| 
 | 20211005T10:16:49Z | demo | https://github.com/RadhaPrabeen/fuzzy-spoon | 0 | 0| 
 | 20211005T10:10:20Z | Planning tool | https://github.com/HappyDustbunny/FuzzyFlexx | 1 | 0| 
-| 20211005T09:50:52Z | Code of fuzzing book | https://github.com/jiniljeil/Fuzzing | 5 | 0| 
 
 
 
