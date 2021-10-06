@@ -30,8 +30,8 @@
 | 20211005T21:10:40Z | CVE-2021-41773 | CVE-2021-41773 | https://github.com/numanturle/CVE-2021-41773 | | 
 | 20211005T21:10:37Z | CVE-2021-41773 | Path traversal in Apache HTTP Server 2.4.49 (CVE-2021-41773)  | https://github.com/knqyf263/CVE-2021-41773 | | 
 | 20211005T20:18:23Z | CVE-2021-1675 | Working PowerShell POC | https://github.com/OppressionBreedsResistance/CVE-2021-1675-PrintNightmare | | 
-| 20211005T19:17:31Z | CVE-2021-41773 | Null | https://github.com/masahiro331/CVE-2021-41773 | | 
 | 20211005T14:47:49Z | CVE-2021-22005 | PoC for exploiting CVE-2021-22005 : The vCenter Server contains an arbitrary file upload vulnerability in the Analytics service. A malicious actor with network access to port 443 on vCenter Server may exploit this issue to execute code on vCenter Server by uploading a specially crafted file. | https://github.com/AKIA27TACKEDYE76PUGU/CVE-2021-22005 | | 
+| 20211005T11:17:34Z | CVE-2021-39204 | PoC for exploiting CVE-2021-39204 : Pomerium is an open source identity-aware access proxy. Envoy, which Pomerium is based on, incorrectly handles resetting of HTTP/2 streams with excessive complexity. This can lead to high CPU utilization when a large number of streams are reset. This can result in a DoS condition. Pomerium versions 0.14.8 and 0.15.1 contain an upgraded envoy binary with this vulnerability patched. | https://github.com/AIPOCAI/CVE-2021-39204 | | 
 
 
 # klee on Github 推荐
