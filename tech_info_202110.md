@@ -23,15 +23,15 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211006T01:59:14Z | CVE-2021-41773 | Null | https://github.com/iilegacyyii/PoC-CVE-2021-41773 | | 
+| 20211006T01:59:08Z | cve-2021-41773 | CVE-2021-41773 Path Traversal vulnerability in Apache 2.4.49. | https://github.com/Vulnmachines/cve-2021-41773 | | 
+| 20211006T01:56:17Z | CVE-2021-41773 | Null | https://github.com/lorddemon/CVE-2021-41773-PoC | | 
 | 20211006T01:50:58Z | CVE-2021-41773 | Null | https://github.com/ajdumanhug/CVE-2021-41773 | | 
 | 20211006T01:29:40Z | CVE-2021-41773 | Null | https://github.com/ZephrFish/CVE-2021-41773-PoC | | 
-| 20211006T01:19:56Z | cve-2021-41773 | CVE-2021-41773 Path Traversal vulnerability in Apache 2.4.49. | https://github.com/Vulnmachines/cve-2021-41773 | | 
 | 20211006T01:16:27Z | CVE-2021-41773 | Null | https://github.com/masahiro331/CVE-2021-41773 | | 
 | 20211006T01:07:17Z | CVE-2021-41773 | Poc.py  | https://github.com/TishcaTpx/POC-CVE-2021-41773 | | 
-| 20211005T23:56:34Z | CVE-2021-41773 | Null | https://github.com/lorddemon/CVE-2021-41773-PoC | | 
 | 20211005T23:36:21Z | CVE-2021-27651 | bypass all stages of the password reset flow | https://github.com/oxctdev/CVE-2021-27651 | | 
 | 20211005T23:18:15Z | CVE-2021-41773 | Exploitation of CVE-2021-41773 a Directory Traversal in Apache 2.4.49. | https://github.com/RyouYoo/CVE-2021-41773 | | 
-| 20211005T22:15:04Z | CVE-2021-41773 | Null | https://github.com/iilegacyyii/PoC-CVE-2021-41773 | | 
 | 20211005T21:10:40Z | CVE-2021-41773 | CVE-2021-41773 | https://github.com/numanturle/CVE-2021-41773 | | 
 
 
