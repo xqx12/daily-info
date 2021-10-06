@@ -21,13 +21,13 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211006T12:16:02Z | CVE-2021-41773 | Null | https://github.com/iilegacyyii/PoC-CVE-2021-41773 | | 
 | 20211006T12:03:04Z | cve-2021-41773 | CVE-2021-41773 Path Traversal vulnerability in Apache 2.4.49. | https://github.com/Vulnmachines/cve-2021-41773 | | 
 | 20211006T11:34:37Z | CVE-2021-1675 | Working PowerShell POC | https://github.com/OppressionBreedsResistance/CVE-2021-1675-PrintNightmare | | 
 | 20211006T11:19:06Z | CVE-2021-41773 | Exploitation of CVE-2021-41773 a Directory Traversal in Apache 2.4.49. | https://github.com/RyouYoo/CVE-2021-41773 | | 
 | 20211006T11:12:56Z | CVE-2021-41773 | CVE-2021-41773 playground | https://github.com/blasty/CVE-2021-41773 | | 
 | 20211006T11:07:42Z | CVE-2021-41773 | Path Traversal vulnerability in Apache 2.4.49 | https://github.com/PentesterGuruji/CVE-2021-41773 | | 
 | 20211006T10:15:56Z | CVE-2021-41773 | Null | https://github.com/ZephrFish/CVE-2021-41773-PoC | | 
-| 20211006T10:06:37Z | CVE-2021-41773 | Null | https://github.com/iilegacyyii/PoC-CVE-2021-41773 | | 
 | 20211006T09:59:25Z | CVE-2021-41773 | Path traversal in Apache HTTP Server 2.4.49 (CVE-2021-41773)  | https://github.com/knqyf263/CVE-2021-41773 | | 
 | 20211006T08:49:14Z | CVE-2021-41773 | CVE-2021-41773 | https://github.com/numanturle/CVE-2021-41773 | | 
 | 20211006T08:20:41Z | CVE-2021-41773 | Null | https://github.com/lsass-exe/CVE-2021-41773 | | 
@@ -79,6 +79,13 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211006T11:29:47Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1900 | 395| 
+| 20211006T11:23:33Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 136 | 10| 
+| 20211006T10:56:01Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 479 | 75| 
+| 20211006T10:19:49Z | Symbolic Execution for WebAssembly | https://github.com/romits800/Vivienne_eval | 1 | 0| 
+| 20211006T10:09:56Z | DSE: a generic dynamic symbolic execution engine | https://github.com/tudo-aqua/dse | 0 | 0| 
+| 20211006T08:23:59Z | Symbolic Execution: Foundations, Techniques, Applications and Future Perspectives | https://github.com/rindPHI/se-book-festschrift-rh | 0 | 0| 
+| 20211006T04:13:49Z | A tool for generating nonlinear numerical invariants for C and Java programs.  DIG uses dynamic analysis to infer invariants over program execution traces and applies symbolic execution to inferred invariants. | https://github.com/unsat/dig | 9 | 4| 
 | 20211006T01:47:04Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 165 | 38| 
 
 
