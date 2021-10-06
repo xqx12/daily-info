@@ -23,7 +23,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211006T01:44:40Z | CVE-2021-41773 | Null | https://github.com/ajdumanhug/CVE-2021-41773 | | 
+| 20211006T01:50:58Z | CVE-2021-41773 | Null | https://github.com/ajdumanhug/CVE-2021-41773 | | 
 | 20211006T01:29:40Z | CVE-2021-41773 | Null | https://github.com/ZephrFish/CVE-2021-41773-PoC | | 
 | 20211006T01:19:56Z | cve-2021-41773 | CVE-2021-41773 Path Traversal vulnerability in Apache 2.4.49. | https://github.com/Vulnmachines/cve-2021-41773 | | 
 | 20211006T01:16:27Z | CVE-2021-41773 | Null | https://github.com/masahiro331/CVE-2021-41773 | | 
@@ -89,6 +89,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211006T01:47:04Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 165 | 38| 
 | 20211005T22:56:58Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 134 | 10| 
 | 20211005T18:15:23Z | A tool for generating nonlinear numerical invariants for C and Java programs.  DIG uses dynamic analysis to infer invariants over program execution traces and applies symbolic execution to inferred invariants. | https://github.com/unsat/dig | 9 | 4| 
 | 20211005T16:37:53Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1789 | 508| 
@@ -98,7 +99,6 @@
 | 20211005T04:09:56Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 31 | 7| 
 | 20211005T03:36:28Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1899 | 395| 
 | 20211005T01:39:15Z | A Ghidra extension that allows you to run Angr symbolic execution using the Pcode from Ghidra. | https://github.com/jdkleuver/PcodeSym | 1 | 0| 
-| 20211004T16:23:19Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 478 | 75| 
 
 
 # big4 on Github 推荐
