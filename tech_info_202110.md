@@ -59,11 +59,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211006T01:03:30Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
 | 20211006T00:45:50Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 236 | 13| 
 | 20211006T00:27:07Z | Null | https://github.com/mateusmesquitalima/Exploit-Roblox-F | 0 | 0| 
 | 20211006T00:12:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10177 | 1717| 
 | 20211006T00:08:01Z | This is a Red Team vs. Blue Team scenario in which 3 other team members and myself played the role of both pentester and SOC analyst. As the Red Team, we attacked a vulnerable VM within our environment, ultimately gaining root access to the machine. As Blue Team, we used Kibana to review logs. We also used the logs to extract hard data and visualizations for our report. Then, we interpreted our log data to suggest mitigation measures for each exploit that we successfully performed. | https://github.com/itscarlosm/Red-vs-Blue-Project | 0 | 0| 
-| 20211006T00:03:32Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
 | 20211005T23:56:58Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 32 | 37| 
 | 20211005T23:42:12Z | Exploit kits (or exploit packs) are automated programs used by attackers to exploit known vulnerabilities in systems or applications. | https://github.com/Mario-Kart-Felix/Build-exploits-packages | 0 | 0| 
 | 20211005T23:18:15Z | Exploitation of CVE-2021-41773 a Directory Traversal in Apache 2.4.49. | https://github.com/RyouYoo/CVE-2021-41773 | 7 | 1| 
@@ -111,9 +111,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211006T01:01:57Z | Null | https://github.com/yasminekat/fuzzy-octo-potato | 0 | 0| 
 | 20211006T00:40:27Z | Null | https://github.com/eureka-sun/fuzzy-umbrella | 1 | 0| 
 | 20211006T00:24:46Z | Null | https://github.com/cycy2233/fuzzy-umbrella | 0 | 0| 
-| 20211006T00:22:50Z | Null | https://github.com/yasminekat/fuzzy-octo-potato | 0 | 0| 
 | 20211006T00:11:36Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4579 | 463| 
 | 20211006T00:10:25Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 29 | 11| 
 | 20211005T23:40:18Z | Fuzzing scripts for VeriWasm | https://github.com/PLSysSec/veriwasm_fuzzing | 0 | 0| 
