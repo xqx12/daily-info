@@ -100,7 +100,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211005T23:57:52Z | Null | https://github.com/yasminekat/fuzzy-octo-potato | 0 | 0| 
 | 20211005T23:40:18Z | Fuzzing scripts for VeriWasm | https://github.com/PLSysSec/veriwasm_fuzzing | 0 | 0| 
 | 20211005T22:34:45Z | Null | https://github.com/Jackson-State-University-MadTigers2021/fuzzy-bassoon | 0 | 0| 
 | 20211005T22:18:44Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 553 | 52| 
@@ -110,6 +109,7 @@
 | 20211005T21:01:30Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211005T20:43:28Z | Config files for my GitHub profile. | https://github.com/fuzzlepanda/fuzzlepanda | 0 | 0| 
 | 20211005T20:12:39Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2398 | 145| 
+| 20211005T20:01:20Z | Null | https://github.com/lzhfromustc/goFuzz | 0 | 0| 
 
 
 
