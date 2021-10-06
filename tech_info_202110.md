@@ -111,6 +111,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211006T00:40:27Z | Null | https://github.com/eureka-sun/fuzzy-umbrella | 1 | 0| 
 | 20211006T00:24:46Z | Null | https://github.com/cycy2233/fuzzy-umbrella | 0 | 0| 
 | 20211006T00:22:50Z | Null | https://github.com/yasminekat/fuzzy-octo-potato | 0 | 0| 
 | 20211006T00:11:36Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4579 | 463| 
@@ -120,7 +121,6 @@
 | 20211005T22:18:44Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 553 | 52| 
 | 20211005T21:59:21Z | Delay and fuzz with a follower | https://github.com/onoma2/TapeoVersio | 0 | 0| 
 | 20211005T21:55:09Z | Test Case Generator Based on Branch Coverage and Fuzzing | https://github.com/WeWatchWall/fast-fuzz | 1 | 0| 
-| 20211005T21:33:04Z | Guitar Pedal | https://github.com/AlSpudnik/The-Fuzz-64 | 0 | 0| 
 
 
 
