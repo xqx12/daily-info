@@ -23,8 +23,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211006T01:44:40Z | CVE-2021-41773 | Null | https://github.com/ajdumanhug/CVE-2021-41773 | | 
 | 20211006T01:29:40Z | CVE-2021-41773 | Null | https://github.com/ZephrFish/CVE-2021-41773-PoC | | 
-| 20211006T01:20:43Z | CVE-2021-41773 | Null | https://github.com/ajdumanhug/CVE-2021-41773 | | 
 | 20211006T01:19:56Z | cve-2021-41773 | CVE-2021-41773 Path Traversal vulnerability in Apache 2.4.49. | https://github.com/Vulnmachines/cve-2021-41773 | | 
 | 20211006T01:16:27Z | CVE-2021-41773 | Null | https://github.com/masahiro331/CVE-2021-41773 | | 
 | 20211006T01:07:17Z | CVE-2021-41773 | Poc.py  | https://github.com/TishcaTpx/POC-CVE-2021-41773 | | 
@@ -53,7 +53,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211003T05:17:40Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 164 | 37| 
+| 20211006T01:47:04Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 165 | 38| 
 
 
 # exploit on Github 推荐
