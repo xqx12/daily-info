@@ -59,6 +59,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211006T00:27:07Z | Null | https://github.com/mateusmesquitalima/Exploit-Roblox-F | 0 | 0| 
 | 20211006T00:12:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10177 | 1717| 
 | 20211006T00:08:01Z | This is a Red Team vs. Blue Team scenario in which 3 other team members and myself played the role of both pentester and SOC analyst. As the Red Team, we attacked a vulnerable VM within our environment, ultimately gaining root access to the machine. As Blue Team, we used Kibana to review logs. We also used the logs to extract hard data and visualizations for our report. Then, we interpreted our log data to suggest mitigation measures for each exploit that we successfully performed. | https://github.com/itscarlosm/Red-vs-Blue-Project | 0 | 0| 
 | 20211006T00:03:32Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
@@ -68,7 +69,6 @@
 | 20211005T21:53:21Z | Simple Serverless Application with a few weakness to exploit | https://github.com/JustinDPerkins/vulnerable-serverless-application-python | 1 | 0| 
 | 20211005T21:41:42Z | The whole collection of Exploits developed by me (Hacker5preme) | https://github.com/Hacker5preme/Exploits | 8 | 2| 
 | 20211005T21:22:20Z | This is a demo which will exploit ssh on a typical linux host. Once ssh access is gained, privilege escalation is used to pwn the host.  | https://github.com/sillihkram/Bruteforcing-SSH | 0 | 0| 
-| 20211005T20:59:20Z | Yet another MS SQL Server exploitation tool | https://github.com/cepxeo/SQLServerEx | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -111,7 +111,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211006T00:20:51Z | Null | https://github.com/yasminekat/fuzzy-octo-potato | 0 | 0| 
+| 20211006T00:24:46Z | Null | https://github.com/cycy2233/fuzzy-umbrella | 0 | 0| 
+| 20211006T00:22:50Z | Null | https://github.com/yasminekat/fuzzy-octo-potato | 0 | 0| 
 | 20211006T00:11:36Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4579 | 463| 
 | 20211006T00:10:25Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 29 | 11| 
 | 20211005T23:40:18Z | Fuzzing scripts for VeriWasm | https://github.com/PLSysSec/veriwasm_fuzzing | 0 | 0| 
@@ -120,7 +121,6 @@
 | 20211005T21:59:21Z | Delay and fuzz with a follower | https://github.com/onoma2/TapeoVersio | 0 | 0| 
 | 20211005T21:55:09Z | Test Case Generator Based on Branch Coverage and Fuzzing | https://github.com/WeWatchWall/fast-fuzz | 1 | 0| 
 | 20211005T21:33:04Z | Guitar Pedal | https://github.com/AlSpudnik/The-Fuzz-64 | 0 | 0| 
-| 20211005T21:01:30Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 
 
 
