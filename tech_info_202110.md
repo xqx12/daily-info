@@ -111,8 +111,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211006T00:09:48Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 29 | 11| 
-| 20211006T00:04:17Z | Null | https://github.com/yasminekat/fuzzy-octo-potato | 0 | 0| 
+| 20211006T00:20:51Z | Null | https://github.com/yasminekat/fuzzy-octo-potato | 0 | 0| 
+| 20211006T00:11:36Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4579 | 463| 
+| 20211006T00:10:25Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 29 | 11| 
 | 20211005T23:40:18Z | Fuzzing scripts for VeriWasm | https://github.com/PLSysSec/veriwasm_fuzzing | 0 | 0| 
 | 20211005T22:34:45Z | Null | https://github.com/Jackson-State-University-MadTigers2021/fuzzy-bassoon | 0 | 0| 
 | 20211005T22:18:44Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 553 | 52| 
@@ -120,7 +121,6 @@
 | 20211005T21:55:09Z | Test Case Generator Based on Branch Coverage and Fuzzing | https://github.com/WeWatchWall/fast-fuzz | 1 | 0| 
 | 20211005T21:33:04Z | Guitar Pedal | https://github.com/AlSpudnik/The-Fuzz-64 | 0 | 0| 
 | 20211005T21:01:30Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20211005T20:43:28Z | Config files for my GitHub profile. | https://github.com/fuzzlepanda/fuzzlepanda | 0 | 0| 
 
 
 
