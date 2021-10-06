@@ -56,13 +56,13 @@
 | 20211005T23:56:58Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 32 | 37| 
 | 20211005T23:42:12Z | Exploit kits (or exploit packs) are automated programs used by attackers to exploit known vulnerabilities in systems or applications. | https://github.com/Mario-Kart-Felix/Build-exploits-packages | 0 | 0| 
 | 20211005T23:18:15Z | Exploitation of CVE-2021-41773 a Directory Traversal in Apache 2.4.49. | https://github.com/RyouYoo/CVE-2021-41773 | 7 | 1| 
-| 20211005T23:03:14Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
 | 20211005T21:53:21Z | Simple Serverless Application with a few weakness to exploit | https://github.com/JustinDPerkins/vulnerable-serverless-application-python | 1 | 0| 
 | 20211005T21:41:42Z | The whole collection of Exploits developed by me (Hacker5preme) | https://github.com/Hacker5preme/Exploits | 8 | 2| 
 | 20211005T21:22:20Z | This is a demo which will exploit ssh on a typical linux host. Once ssh access is gained, privilege escalation is used to pwn the host.  | https://github.com/sillihkram/Bruteforcing-SSH | 0 | 0| 
 | 20211005T20:59:20Z | Yet another MS SQL Server exploitation tool | https://github.com/cepxeo/SQLServerEx | 0 | 0| 
 | 20211005T20:52:32Z | BioCCP.jl exploits the Coupon Collector Problem for sample size determination in combinatorial biotechnology. | https://github.com/kirstvh/BioCCP.jl | 4 | 0| 
 | 20211005T20:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10176 | 1717| 
+| 20211005T20:19:11Z | A post-exploitation kernel module that allows an attacker to edit files with little to no footprint. | https://github.com/mineo333/GhostFops | 0 | 0| 
 
 
 # backdoor on Github 推荐
