@@ -23,10 +23,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211006T01:19:56Z | cve-2021-41773 | CVE-2021-41773 Path Traversal vulnerability in Apache 2.4.49. | https://github.com/Vulnmachines/cve-2021-41773 | | 
 | 20211006T01:16:27Z | CVE-2021-41773 | Null | https://github.com/masahiro331/CVE-2021-41773 | | 
 | 20211006T01:13:54Z | CVE-2021-41773 | Null | https://github.com/ajdumanhug/CVE-2021-41773 | | 
 | 20211006T01:07:17Z | CVE-2021-41773 | Poc.py  | https://github.com/TishcaTpx/POC-CVE-2021-41773 | | 
-| 20211006T01:04:33Z | cve-2021-41773 | CVE-2021-41773 Path Traversal vulnerability in Apache 2.4.49. | https://github.com/Vulnmachines/cve-2021-41773 | | 
 | 20211005T23:56:34Z | CVE-2021-41773 | Null | https://github.com/lorddemon/CVE-2021-41773-PoC | | 
 | 20211005T23:36:21Z | CVE-2021-27651 | bypass all stages of the password reset flow | https://github.com/oxctdev/CVE-2021-27651 | | 
 | 20211005T23:18:15Z | CVE-2021-41773 | Exploitation of CVE-2021-41773 a Directory Traversal in Apache 2.4.49. | https://github.com/RyouYoo/CVE-2021-41773 | | 
@@ -74,7 +74,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211006T01:12:31Z | a simple backdoor service(NOT FINISHED) | https://github.com/ranon-rat/yackdoor | 2 | 0| 
+| 20211006T01:19:11Z | a simple backdoor service(NOT FINISHED) | https://github.com/ranon-rat/yackdoor | 2 | 0| 
 | 20211006T01:04:12Z | because why not? USE ON YOUR OWN SERVER ONLY, DO NOT TRUST THINGS FROM OTHER PLAYERS | https://github.com/Merith-TK/backdoor-mod | 0 | 0| 
 | 20211005T23:31:44Z | pybotnet -   A Python Library for building Botnet , Trojan or BackDoor for windows and linux with Telegram control panel  | https://github.com/onionj/pybotnet | 31 | 16| 
 | 20211005T17:19:56Z | The best backdoor scanner there is. | https://github.com/iK4oS/backdoor.exe | 2 | 4| 
@@ -111,6 +111,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211006T01:21:02Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2398 | 145| 
 | 20211006T01:01:57Z | Null | https://github.com/yasminekat/fuzzy-octo-potato | 0 | 0| 
 | 20211006T00:40:27Z | Null | https://github.com/eureka-sun/fuzzy-umbrella | 1 | 0| 
 | 20211006T00:24:46Z | Null | https://github.com/cycy2233/fuzzy-umbrella | 0 | 0| 
@@ -120,7 +121,6 @@
 | 20211005T22:34:45Z | Null | https://github.com/Jackson-State-University-MadTigers2021/fuzzy-bassoon | 0 | 0| 
 | 20211005T22:18:44Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 553 | 52| 
 | 20211005T21:59:21Z | Delay and fuzz with a follower | https://github.com/onoma2/TapeoVersio | 0 | 0| 
-| 20211005T21:55:09Z | Test Case Generator Based on Branch Coverage and Fuzzing | https://github.com/WeWatchWall/fast-fuzz | 1 | 0| 
 
 
 

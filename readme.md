@@ -110,8 +110,8 @@
 | 20211005T21:33:04Z | Guitar Pedal | https://github.com/AlSpudnik/The-Fuzz-64 | 0 | 0| 
 | 20211005T21:01:30Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211005T20:43:28Z | Config files for my GitHub profile. | https://github.com/fuzzlepanda/fuzzlepanda | 0 | 0| 
-| 20211005T20:12:39Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2398 | 145| 
 | 20211005T20:01:20Z | Null | https://github.com/lzhfromustc/goFuzz | 0 | 0| 
+| 20211005T19:59:51Z | Null | https://github.com/AkisParousis/Fuzzy_Systems | 0 | 0| 
 
 
 
