@@ -23,6 +23,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211006T00:50:34Z | CVE-2021-41773 | Poc.py  | https://github.com/TishcaTpx/POC-CVE-2021-41773 | | 
 | 20211005T23:56:34Z | CVE-2021-41773 | Null | https://github.com/lorddemon/CVE-2021-41773-PoC | | 
 | 20211005T23:36:21Z | CVE-2021-27651 | bypass all stages of the password reset flow | https://github.com/oxctdev/CVE-2021-27651 | | 
 | 20211005T23:18:15Z | CVE-2021-41773 | Exploitation of CVE-2021-41773 a Directory Traversal in Apache 2.4.49. | https://github.com/RyouYoo/CVE-2021-41773 | | 
@@ -32,7 +33,6 @@
 | 20211005T21:10:40Z | CVE-2021-41773 | CVE-2021-41773 | https://github.com/numanturle/CVE-2021-41773 | | 
 | 20211005T21:10:37Z | CVE-2021-41773 | Path traversal in Apache HTTP Server 2.4.49 (CVE-2021-41773)  | https://github.com/knqyf263/CVE-2021-41773 | | 
 | 20211005T20:18:23Z | CVE-2021-1675 | Working PowerShell POC | https://github.com/OppressionBreedsResistance/CVE-2021-1675-PrintNightmare | | 
-| 20211005T19:17:31Z | CVE-2021-41773 | Null | https://github.com/masahiro331/CVE-2021-41773 | | 
 
 
 # klee on Github 推荐
@@ -59,6 +59,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211006T00:45:50Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 236 | 13| 
 | 20211006T00:27:07Z | Null | https://github.com/mateusmesquitalima/Exploit-Roblox-F | 0 | 0| 
 | 20211006T00:12:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10177 | 1717| 
 | 20211006T00:08:01Z | This is a Red Team vs. Blue Team scenario in which 3 other team members and myself played the role of both pentester and SOC analyst. As the Red Team, we attacked a vulnerable VM within our environment, ultimately gaining root access to the machine. As Blue Team, we used Kibana to review logs. We also used the logs to extract hard data and visualizations for our report. Then, we interpreted our log data to suggest mitigation measures for each exploit that we successfully performed. | https://github.com/itscarlosm/Red-vs-Blue-Project | 0 | 0| 
@@ -68,7 +69,6 @@
 | 20211005T23:18:15Z | Exploitation of CVE-2021-41773 a Directory Traversal in Apache 2.4.49. | https://github.com/RyouYoo/CVE-2021-41773 | 7 | 1| 
 | 20211005T21:53:21Z | Simple Serverless Application with a few weakness to exploit | https://github.com/JustinDPerkins/vulnerable-serverless-application-python | 1 | 0| 
 | 20211005T21:41:42Z | The whole collection of Exploits developed by me (Hacker5preme) | https://github.com/Hacker5preme/Exploits | 8 | 2| 
-| 20211005T21:22:20Z | This is a demo which will exploit ssh on a typical linux host. Once ssh access is gained, privilege escalation is used to pwn the host.  | https://github.com/sillihkram/Bruteforcing-SSH | 0 | 0| 
 
 
 # backdoor on Github 推荐
