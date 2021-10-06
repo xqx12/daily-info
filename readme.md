@@ -16,28 +16,32 @@
 | 20211005 | 自动化入侵和攻击模拟（BAS）： 降低成本和风险的革命已经来临 | https://mp.weixin.qq.com/s/UQcRr5kiKXf_iZ-_CKn_1Q| 
 | 20211005 | monkey: Infection Monkey - An automated pentest tool | https://github.com/guardicore/monkey| 
 | 20211005 | 2021 Gartner安全运营成熟度曲线（Hype Cycle）解读 | https://mp.weixin.qq.com/s/RhTVIsGkIumUB-YfEAv6Jg| 
+| 20211005 | SecWiki周刊（第396期) | https://www.sec-wiki.com/weekly/396| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211005T11:17:34Z | CVE-2021-39204 | PoC for exploiting CVE-2021-39204 : Pomerium is an open source identity-aware access proxy. Envoy, which Pomerium is based on, incorrectly handles resetting of HTTP/2 streams with excessive complexity. This can lead to high CPU utilization when a large number of streams are reset. This can result in a DoS condition. Pomerium versions 0.14.8 and 0.15.1 contain an upgraded envoy binary with this vulnerability patched. | https://github.com/AIPOCAI/CVE-2021-39204 | | 
-| 20211005T11:17:30Z | CVE-2021-39206 | PoC for exploiting CVE-2021-39206 : Pomerium is an open source identity-aware access proxy. Envoy, which Pomerium is based on, contains two authorization related vulnerabilities CVE-2021-32777 and CVE-2021-32779. This may lead to incorrect routing or authorization policy decisions. With specially crafted requests, incorrect authorization or routing decisions may be made by Pomerium. Pomerium v0.14.8 and v0.15.1 contain an upgraded envoy binary with these vulnerabilities patched. This issue can only be triggered when using path prefix based policy. Removing any such policies should provide mitigation. | https://github.com/AIPOCAI/CVE-2021-39206 | | 
-| 20211005T11:17:26Z | CVE-2021-22005 | PoC for exploiting CVE-2021-22005 : The vCenter Server contains an arbitrary file upload vulnerability in the Analytics service. A malicious actor with network access to port 443 on vCenter Server may exploit this issue to execute code on vCenter Server by uploading a specially crafted file. | https://github.com/AIPOCAI/CVE-2021-22005 | | 
-| 20211005T11:17:22Z | CVE-2021-40965 | PoC for exploiting CVE-2021-40965 : A Cross-Site Request Forgery (CSRF) vulnerability exists in TinyFileManager all version up to and including 2.4.6 that allows attackers to upload files and run OS commands by inducing the Administrator user to browse a URL controlled by an attacker. | https://github.com/AIPOCAI/CVE-2021-40965 | | 
-| 20211005T11:17:19Z | CVE-2020-14119 | PoC for exploiting CVE-2020-14119 : There is command injection in the addMeshNode interface of xqnetwork.lua, which leads to command execution under administrator authority on Xiaomi router AX3600 with rom versionrom< 1.1.12 | https://github.com/AIPOCAI/CVE-2020-14119 | | 
-| 20211005T11:17:10Z | CVE-2021-40966 | PoC for exploiting CVE-2021-40966 : A Stored XSS exists in TinyFileManager All version up to and including 2.4.6 in /tinyfilemanager.php when the server is given a file that contains HTML and javascript in its name. A malicious user can upload a file with a malicious filename containing javascript code and it will run on any user browser when they access the server. | https://github.com/AIPOCAI/CVE-2021-40966 | | 
-| 20211005T11:17:02Z | CVE-2021-33693 | PoC for exploiting CVE-2021-33693 : SAP Cloud Connector, version - 2.0, allows an authenticated administrator to modify a configuration file to inject malicious codes that could potentially lead to OS command execution. | https://github.com/AIPOCAI/CVE-2021-33693 | | 
-| 20211005T11:16:55Z | CVE-2020-21481 | PoC for exploiting CVE-2020-21481 : An arbitrary file upload vulnerability in RGCMS v1.06 allows attackers to execute arbitrary code via a crafted .txt file which is later changed to a PHP file. | https://github.com/AIPOCAI/CVE-2020-21481 | | 
-| 20211005T11:16:52Z | CVE-2021-24620 | PoC for exploiting CVE-2021-24620 : The WordPress Simple Ecommerce Shopping Cart Plugin- Sell products through Paypal plugin through 2.2.5 does not check for the uploaded Downloadable Digital product file, allowing any file, such as PHP to be uploaded by an administrator. Furthermore, as there is no CSRF in place, attackers could also make a logged admin upload a malicious PHP file, which would lead to RCE | https://github.com/AIPOCAI/CVE-2021-24620 | | 
-| 20211005T11:16:47Z | CVE-2021-39239 | PoC for exploiting CVE-2021-39239 : A vulnerability in XML processing in Apache Jena, in versions up to 4.1.0, may allow an attacker to execute XML External Entities (XXE), including exposing the contents of local files to a remote server. | https://github.com/AIPOCAI/CVE-2021-39239 | | 
+| 20211005T23:56:34Z | CVE-2021-41773 | Null | https://github.com/lorddemon/CVE-2021-41773-PoC | | 
+| 20211005T23:36:21Z | CVE-2021-27651 | bypass all stages of the password reset flow | https://github.com/oxctdev/CVE-2021-27651 | | 
+| 20211005T23:18:15Z | CVE-2021-41773 | Exploitation of CVE-2021-41773 a Directory Traversal in Apache 2.4.49. | https://github.com/RyouYoo/CVE-2021-41773 | | 
+| 20211005T22:15:04Z | CVE-2021-41773 | Null | https://github.com/iilegacyyii/PoC-CVE-2021-41773 | | 
+| 20211005T21:27:25Z | CVE-2021-41773 | Null | https://github.com/ZephrFish/CVE-2021-41773-PoC | | 
+| 20211005T21:10:46Z | cve-2021-41773 | CVE-2021-41773 Path Traversal vulnerability in Apache 2.4.49. | https://github.com/Vulnmachines/cve-2021-41773 | | 
+| 20211005T21:10:40Z | CVE-2021-41773 | CVE-2021-41773 | https://github.com/numanturle/CVE-2021-41773 | | 
+| 20211005T21:10:37Z | CVE-2021-41773 | Path traversal in Apache HTTP Server 2.4.49 (CVE-2021-41773)  | https://github.com/knqyf263/CVE-2021-41773 | | 
+| 20211005T20:18:23Z | CVE-2021-1675 | Working PowerShell POC | https://github.com/OppressionBreedsResistance/CVE-2021-1675-PrintNightmare | | 
+| 20211005T19:17:31Z | CVE-2021-41773 | Null | https://github.com/masahiro331/CVE-2021-41773 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211005T22:58:32Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
+| 20211005T16:37:53Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1789 | 508| 
+| 20211005T16:27:12Z | Config files for my GitHub profile. | https://github.com/byKleex/byKleex | 0 | 0| 
+| 20211005T15:30:38Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2818 | 74| 
 | 20211005T12:16:29Z | Null | https://github.com/giffyonyinye/kleenMyRide | 0 | 0| 
-| 20211005T11:30:39Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2817 | 74| 
 | 20211005T09:22:13Z | Config files for my GitHub profile. | https://github.com/kleeahmetjos/kleeahmetjos | 0 | 0| 
 
 
@@ -49,26 +53,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211005T12:53:47Z | exploits & fingerprints for freaker framework | https://github.com/ARPSyndicate/freakerdb | 2 | 2| 
-| 20211005T12:53:10Z | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | 12 | 4| 
-| 20211005T12:53:04Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 39 | 3| 
-| 20211005T12:52:58Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 22 | 14| 
-| 20211005T12:51:45Z | BioCCP.jl exploits the Coupon Collector Problem for sample size determination in combinatorial biotechnology. | https://github.com/kirstvh/BioCCP.jl | 4 | 0| 
-| 20211005T12:42:17Z | Code for our NeurIPS 2021 paper %Exploiting the Intrinsic Neighborhood Structure for Source-free Domain Adaptation% | https://github.com/Albert0147/SFDA_neighbors | 4 | 0| 
-| 20211005T12:39:56Z | A multi exploit instagram exploitation framework | https://github.com/BirdSecurity/Instagram-Exploitation-Framework | 5 | 0| 
-| 20211005T12:39:18Z | Mise à jour et exploitation d%un index full text | https://github.com/AlainPre/Cours-Big-Data | 0 | 0| 
-| 20211005T12:07:48Z | A collection of JavaScript Codes I%ve made to enhance the User Experience of Discord and some other Discord related stuff | https://github.com/hxr404/Discord-Console-hacks | 91 | 41| 
-| 20211005T12:02:59Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
+| 20211005T23:56:58Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 32 | 37| 
+| 20211005T23:42:12Z | Exploit kits (or exploit packs) are automated programs used by attackers to exploit known vulnerabilities in systems or applications. | https://github.com/Mario-Kart-Felix/Build-exploits-packages | 0 | 0| 
+| 20211005T23:18:15Z | Exploitation of CVE-2021-41773 a Directory Traversal in Apache 2.4.49. | https://github.com/RyouYoo/CVE-2021-41773 | 7 | 1| 
+| 20211005T23:03:14Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
+| 20211005T21:53:21Z | Simple Serverless Application with a few weakness to exploit | https://github.com/JustinDPerkins/vulnerable-serverless-application-python | 1 | 0| 
+| 20211005T21:41:42Z | The whole collection of Exploits developed by me (Hacker5preme) | https://github.com/Hacker5preme/Exploits | 8 | 2| 
+| 20211005T21:22:20Z | This is a demo which will exploit ssh on a typical linux host. Once ssh access is gained, privilege escalation is used to pwn the host.  | https://github.com/sillihkram/Bruteforcing-SSH | 0 | 0| 
+| 20211005T20:59:20Z | Yet another MS SQL Server exploitation tool | https://github.com/cepxeo/SQLServerEx | 0 | 0| 
+| 20211005T20:52:32Z | BioCCP.jl exploits the Coupon Collector Problem for sample size determination in combinatorial biotechnology. | https://github.com/kirstvh/BioCCP.jl | 4 | 0| 
+| 20211005T20:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10176 | 1717| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211005T23:31:44Z | pybotnet -   A Python Library for building Botnet , Trojan or BackDoor for windows and linux with Telegram control panel  | https://github.com/onionj/pybotnet | 31 | 16| 
+| 20211005T18:20:20Z | because why not? USE ON YOUR OWN SERVER ONLY, DO NOT TRUST THINGS FROM OTHER PLAYERS | https://github.com/Merith-TK/backdoor-mod | 0 | 0| 
+| 20211005T17:19:56Z | The best backdoor scanner there is. | https://github.com/iK4oS/backdoor.exe | 2 | 4| 
+| 20211005T15:12:15Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 101 | 20| 
+| 20211005T14:56:40Z | My personal unique wiki for hacking the router firmware used by (Telia)TG799vac Xtream v17.2-MINT delivered from Technicolor  | https://github.com/wuseman/TG799VAC-XTREME-17.2-MINT | 62 | 18| 
+| 20211005T14:01:46Z | This project aims to understand ethical hacking techniques using python backdoor tool from scratch. The tests and procedures should only be executed on your own machines. If you%re planning to execute pwned-by on someone else%s machine, DO IT ETHICALLY! Ask for permission to conduct your activity with written instructions. Do not investigate someone else%s files without permission. I do not promote any harm to other people. Please use it at your own risk! Author will not be responsible for any damage! This project is for study purposes only. Enjoy hacking! | https://github.com/4stropotato/pwned-by | 2 | 0| 
+| 20211005T13:15:02Z | This Android Studio project represents an alternative to automatically embedding Meterpreter in an Android APK through MSFVenom. | https://github.com/Peco602/msfvenom-backdoor-android | 1 | 0| 
+| 20211005T13:04:54Z | Unofficial pytorch implementation of RobNet(Defense-Resistant Backdoor Attacks on DNN) | https://github.com/dhkim2810/RobNet | 0 | 0| 
 | 20211005T12:42:41Z | Pico-BackDroid is an Android Reverse Shell Backdoor for CircuitPython on Raspberry Pi Pico. | https://github.com/V0lk3n/Pico-BackDroid | 0 | 0| 
-| 20211005T12:17:05Z | pybotnet -   A Python Library for building Botnet , Trojan or BackDoor for windows and linux with Telegram control panel  | https://github.com/onionj/pybotnet | 30 | 16| 
 | 20211005T10:53:36Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 324 | 59| 
-| 20211005T07:03:18Z | Null | https://github.com/rohitpatidar91981/Basic-Python-Backdoor | 0 | 0| 
-| 20211005T00:15:21Z | My personal unique wiki for hacking the router firmware used by (Telia)TG799vac Xtream v17.2-MINT delivered from Technicolor  | https://github.com/wuseman/TG799VAC-XTREME-17.2-MINT | 62 | 18| 
 
 
 # symbolic execution on Github 推荐
@@ -91,16 +100,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211005T12:52:02Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20211005T12:22:27Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3712 | 878| 
-| 20211005T12:15:12Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 29 | 11| 
-| 20211005T11:45:53Z | stuffs for fuzzcoin paper | https://github.com/daehee87/fuzzcoin-paper | 0 | 0| 
-| 20211005T11:12:00Z | Fuzz Effect. Vst3 beta. | https://github.com/Kirby01/KFuzz- | 0 | 0| 
-| 20211005T11:11:30Z | Windows NT x64 syscall fuzzer | https://github.com/hfiref0x/NtCall64 | 234 | 81| 
-| 20211005T10:37:26Z | Find the ideal fuzz targets in a Rust codebase | https://github.com/trailofbits/siderophile | 121 | 9| 
-| 20211005T10:27:57Z | V Fast Fuzzer | https://github.com/cz7047/vff | 0 | 0| 
-| 20211005T10:16:49Z | demo | https://github.com/RadhaPrabeen/fuzzy-spoon | 0 | 0| 
-| 20211005T10:10:20Z | Planning tool | https://github.com/HappyDustbunny/FuzzyFlexx | 1 | 0| 
+| 20211005T23:57:52Z | Null | https://github.com/yasminekat/fuzzy-octo-potato | 0 | 0| 
+| 20211005T23:40:18Z | Fuzzing scripts for VeriWasm | https://github.com/PLSysSec/veriwasm_fuzzing | 0 | 0| 
+| 20211005T22:34:45Z | Null | https://github.com/Jackson-State-University-MadTigers2021/fuzzy-bassoon | 0 | 0| 
+| 20211005T22:18:44Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 553 | 52| 
+| 20211005T21:59:21Z | Delay and fuzz with a follower | https://github.com/onoma2/TapeoVersio | 0 | 0| 
+| 20211005T21:55:09Z | Test Case Generator Based on Branch Coverage and Fuzzing | https://github.com/WeWatchWall/fast-fuzz | 1 | 0| 
+| 20211005T21:33:04Z | Guitar Pedal | https://github.com/AlSpudnik/The-Fuzz-64 | 0 | 0| 
+| 20211005T21:01:30Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20211005T20:43:28Z | Config files for my GitHub profile. | https://github.com/fuzzlepanda/fuzzlepanda | 0 | 0| 
+| 20211005T20:12:39Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2398 | 145| 
 
 
 
