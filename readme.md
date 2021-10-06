@@ -27,11 +27,11 @@
 | 20211005T23:18:15Z | CVE-2021-41773 | Exploitation of CVE-2021-41773 a Directory Traversal in Apache 2.4.49. | https://github.com/RyouYoo/CVE-2021-41773 | | 
 | 20211005T22:15:04Z | CVE-2021-41773 | Null | https://github.com/iilegacyyii/PoC-CVE-2021-41773 | | 
 | 20211005T21:27:25Z | CVE-2021-41773 | Null | https://github.com/ZephrFish/CVE-2021-41773-PoC | | 
-| 20211005T21:10:46Z | cve-2021-41773 | CVE-2021-41773 Path Traversal vulnerability in Apache 2.4.49. | https://github.com/Vulnmachines/cve-2021-41773 | | 
 | 20211005T21:10:40Z | CVE-2021-41773 | CVE-2021-41773 | https://github.com/numanturle/CVE-2021-41773 | | 
 | 20211005T21:10:37Z | CVE-2021-41773 | Path traversal in Apache HTTP Server 2.4.49 (CVE-2021-41773)  | https://github.com/knqyf263/CVE-2021-41773 | | 
 | 20211005T20:18:23Z | CVE-2021-1675 | Working PowerShell POC | https://github.com/OppressionBreedsResistance/CVE-2021-1675-PrintNightmare | | 
 | 20211005T19:17:31Z | CVE-2021-41773 | Null | https://github.com/masahiro331/CVE-2021-41773 | | 
+| 20211005T14:47:49Z | CVE-2021-22005 | PoC for exploiting CVE-2021-22005 : The vCenter Server contains an arbitrary file upload vulnerability in the Analytics service. A malicious actor with network access to port 443 on vCenter Server may exploit this issue to execute code on vCenter Server by uploading a specially crafted file. | https://github.com/AKIA27TACKEDYE76PUGU/CVE-2021-22005 | | 
 
 
 # klee on Github 推荐
@@ -69,7 +69,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20211005T23:31:44Z | pybotnet -   A Python Library for building Botnet , Trojan or BackDoor for windows and linux with Telegram control panel  | https://github.com/onionj/pybotnet | 31 | 16| 
-| 20211005T18:20:20Z | because why not? USE ON YOUR OWN SERVER ONLY, DO NOT TRUST THINGS FROM OTHER PLAYERS | https://github.com/Merith-TK/backdoor-mod | 0 | 0| 
 | 20211005T17:19:56Z | The best backdoor scanner there is. | https://github.com/iK4oS/backdoor.exe | 2 | 4| 
 | 20211005T15:12:15Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 101 | 20| 
 | 20211005T14:56:40Z | My personal unique wiki for hacking the router firmware used by (Telia)TG799vac Xtream v17.2-MINT delivered from Technicolor  | https://github.com/wuseman/TG799VAC-XTREME-17.2-MINT | 62 | 18| 
@@ -78,6 +77,7 @@
 | 20211005T13:04:54Z | Unofficial pytorch implementation of RobNet(Defense-Resistant Backdoor Attacks on DNN) | https://github.com/dhkim2810/RobNet | 0 | 0| 
 | 20211005T12:42:41Z | Pico-BackDroid is an Android Reverse Shell Backdoor for CircuitPython on Raspberry Pi Pico. | https://github.com/V0lk3n/Pico-BackDroid | 0 | 0| 
 | 20211005T10:53:36Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 324 | 59| 
+| 20211005T07:03:18Z | Null | https://github.com/rohitpatidar91981/Basic-Python-Backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
