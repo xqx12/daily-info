@@ -74,6 +74,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211006T00:58:34Z | a simple backdoor service(NOT FINISHED) | https://github.com/ranon-rat/yackdoor | 1 | 0| 
 | 20211005T23:31:44Z | pybotnet -   A Python Library for building Botnet , Trojan or BackDoor for windows and linux with Telegram control panel  | https://github.com/onionj/pybotnet | 31 | 16| 
 | 20211005T18:20:20Z | because why not? USE ON YOUR OWN SERVER ONLY, DO NOT TRUST THINGS FROM OTHER PLAYERS | https://github.com/Merith-TK/backdoor-mod | 0 | 0| 
 | 20211005T17:19:56Z | The best backdoor scanner there is. | https://github.com/iK4oS/backdoor.exe | 2 | 4| 
@@ -83,7 +84,6 @@
 | 20211005T13:15:02Z | This Android Studio project represents an alternative to automatically embedding Meterpreter in an Android APK through MSFVenom. | https://github.com/Peco602/msfvenom-backdoor-android | 1 | 0| 
 | 20211005T13:04:54Z | Unofficial pytorch implementation of RobNet(Defense-Resistant Backdoor Attacks on DNN) | https://github.com/dhkim2810/RobNet | 0 | 0| 
 | 20211005T12:42:41Z | Pico-BackDroid is an Android Reverse Shell Backdoor for CircuitPython on Raspberry Pi Pico. | https://github.com/V0lk3n/Pico-BackDroid | 0 | 0| 
-| 20211005T10:53:36Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 324 | 59| 
 
 
 # symbolic execution on Github 推荐
