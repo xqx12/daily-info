@@ -54,7 +54,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20211005T23:56:58Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 32 | 37| 
-| 20211005T23:42:12Z | Exploit kits (or exploit packs) are automated programs used by attackers to exploit known vulnerabilities in systems or applications. | https://github.com/Mario-Kart-Felix/Build-exploits-packages | 0 | 0| 
 | 20211005T23:18:15Z | Exploitation of CVE-2021-41773 a Directory Traversal in Apache 2.4.49. | https://github.com/RyouYoo/CVE-2021-41773 | 7 | 1| 
 | 20211005T21:53:21Z | Simple Serverless Application with a few weakness to exploit | https://github.com/JustinDPerkins/vulnerable-serverless-application-python | 1 | 0| 
 | 20211005T21:41:42Z | The whole collection of Exploits developed by me (Hacker5preme) | https://github.com/Hacker5preme/Exploits | 8 | 2| 
@@ -63,6 +62,7 @@
 | 20211005T20:52:32Z | BioCCP.jl exploits the Coupon Collector Problem for sample size determination in combinatorial biotechnology. | https://github.com/kirstvh/BioCCP.jl | 4 | 0| 
 | 20211005T20:19:11Z | A post-exploitation kernel module that allows an attacker to edit files with little to no footprint. | https://github.com/mineo333/GhostFops | 0 | 0| 
 | 20211005T20:18:32Z | Database Systems - Principles of database design and operation. Relational data model. High-level data modeling representations. SQL database language. Active databases with constraints and triggers. Query optimization with views and indexes. Exploiting database servers within programming languages for web application development. Other topics include transaction processing and recovery, user-defined functions, and data warehousing.  | https://github.com/kingkirpal2000/CSE-111 | 1 | 0| 
+| 20211005T19:46:21Z | Null | https://github.com/JadeGrey/MiscExploits | 0 | 0| 
 
 
 # backdoor on Github 推荐

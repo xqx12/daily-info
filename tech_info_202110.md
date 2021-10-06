@@ -23,7 +23,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211006T01:08:07Z | CVE-2021-41773 | Null | https://github.com/ajdumanhug/CVE-2021-41773 | | 
+| 20211006T01:12:12Z | CVE-2021-41773 | Null | https://github.com/ajdumanhug/CVE-2021-41773 | | 
 | 20211006T01:07:17Z | CVE-2021-41773 | Poc.py  | https://github.com/TishcaTpx/POC-CVE-2021-41773 | | 
 | 20211006T01:04:33Z | cve-2021-41773 | CVE-2021-41773 Path Traversal vulnerability in Apache 2.4.49. | https://github.com/Vulnmachines/cve-2021-41773 | | 
 | 20211005T23:56:34Z | CVE-2021-41773 | Null | https://github.com/lorddemon/CVE-2021-41773-PoC | | 
@@ -59,13 +59,13 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211006T01:12:40Z | Exploit kits (or exploit packs) are automated programs used by attackers to exploit known vulnerabilities in systems or applications. | https://github.com/Mario-Kart-Felix/Build-exploits-packages | 0 | 0| 
 | 20211006T01:03:30Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
 | 20211006T00:45:50Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 236 | 13| 
 | 20211006T00:27:07Z | Null | https://github.com/mateusmesquitalima/Exploit-Roblox-F | 0 | 0| 
 | 20211006T00:12:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10177 | 1717| 
 | 20211006T00:08:01Z | This is a Red Team vs. Blue Team scenario in which 3 other team members and myself played the role of both pentester and SOC analyst. As the Red Team, we attacked a vulnerable VM within our environment, ultimately gaining root access to the machine. As Blue Team, we used Kibana to review logs. We also used the logs to extract hard data and visualizations for our report. Then, we interpreted our log data to suggest mitigation measures for each exploit that we successfully performed. | https://github.com/itscarlosm/Red-vs-Blue-Project | 0 | 0| 
 | 20211005T23:56:58Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 32 | 37| 
-| 20211005T23:42:12Z | Exploit kits (or exploit packs) are automated programs used by attackers to exploit known vulnerabilities in systems or applications. | https://github.com/Mario-Kart-Felix/Build-exploits-packages | 0 | 0| 
 | 20211005T23:18:15Z | Exploitation of CVE-2021-41773 a Directory Traversal in Apache 2.4.49. | https://github.com/RyouYoo/CVE-2021-41773 | 7 | 1| 
 | 20211005T21:53:21Z | Simple Serverless Application with a few weakness to exploit | https://github.com/JustinDPerkins/vulnerable-serverless-application-python | 1 | 0| 
 | 20211005T21:41:42Z | The whole collection of Exploits developed by me (Hacker5preme) | https://github.com/Hacker5preme/Exploits | 8 | 2| 
@@ -74,7 +74,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211006T01:07:11Z | a simple backdoor service(NOT FINISHED) | https://github.com/ranon-rat/yackdoor | 2 | 0| 
+| 20211006T01:12:31Z | a simple backdoor service(NOT FINISHED) | https://github.com/ranon-rat/yackdoor | 2 | 0| 
 | 20211006T01:04:12Z | because why not? USE ON YOUR OWN SERVER ONLY, DO NOT TRUST THINGS FROM OTHER PLAYERS | https://github.com/Merith-TK/backdoor-mod | 0 | 0| 
 | 20211005T23:31:44Z | pybotnet -   A Python Library for building Botnet , Trojan or BackDoor for windows and linux with Telegram control panel  | https://github.com/onionj/pybotnet | 31 | 16| 
 | 20211005T17:19:56Z | The best backdoor scanner there is. | https://github.com/iK4oS/backdoor.exe | 2 | 4| 
