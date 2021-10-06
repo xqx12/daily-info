@@ -103,7 +103,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20211005T23:40:18Z | Fuzzing scripts for VeriWasm | https://github.com/PLSysSec/veriwasm_fuzzing | 0 | 0| 
-| 20211005T22:34:45Z | Null | https://github.com/Jackson-State-University-MadTigers2021/fuzzy-bassoon | 0 | 0| 
 | 20211005T22:18:44Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 553 | 52| 
 | 20211005T21:59:21Z | Delay and fuzz with a follower | https://github.com/onoma2/TapeoVersio | 0 | 0| 
 | 20211005T21:55:09Z | Test Case Generator Based on Branch Coverage and Fuzzing | https://github.com/WeWatchWall/fast-fuzz | 1 | 0| 
@@ -112,6 +111,7 @@
 | 20211005T20:43:28Z | Config files for my GitHub profile. | https://github.com/fuzzlepanda/fuzzlepanda | 0 | 0| 
 | 20211005T20:01:20Z | Null | https://github.com/lzhfromustc/goFuzz | 0 | 0| 
 | 20211005T19:59:51Z | Null | https://github.com/AkisParousis/Fuzzy_Systems | 0 | 0| 
+| 20211005T19:56:25Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6705 | 1384| 
 
 
 
