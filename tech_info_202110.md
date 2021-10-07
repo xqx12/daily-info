@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211007T00:57:18Z | CVE-2021-41773 | CVE-2021-41773 playground | https://github.com/blasty/CVE-2021-41773 | | 
 | 20211007T00:21:18Z | CVE-2021-41773 | Apache HTTPd (2.4.49) – Local File Disclosure (LFI) | https://github.com/oxctdev/CVE-2021-41773 | | 
 | 20211006T23:10:38Z | CVE-2021-41773 | CVE-2021-41773 | https://github.com/creadpag/CVE-2021-41773-POC | | 
 | 20211006T21:21:59Z | CVE-2021-35492 | Denial of Service tool for Wowza Streaming Engine <= 4.8.11+5 - Uncontrolled Resource Consumption (CVE-2021-35492) | https://github.com/N4nj0/CVE-2021-35492 | | 
@@ -33,7 +34,6 @@
 | 20211006T20:14:30Z | CVE-2021-41773 | Null | https://github.com/fnatalucci/CVE-2021-41773-RCE | | 
 | 20211006T20:11:41Z | CVE-2021-26085 | Null | https://github.com/zeroc00I/CVE-2021-26085 | | 
 | 20211006T20:02:25Z | CVE-2021-41773 | Null | https://github.com/lorddemon/CVE-2021-41773-PoC | | 
-| 20211006T19:58:44Z | CVE-2021-41773 | CVE-2021-41773 playground | https://github.com/blasty/CVE-2021-41773 | | 
 | 20211006T19:48:17Z | CVE-2021-41773 | Apache HTTP Server 2.4.49 - Path Traversal & RCE | https://github.com/Ls4ss/CVE-2021-41773 | | 
 | 20211006T19:26:51Z | CVE-2021-41773 | Null | https://github.com/iilegacyyii/PoC-CVE-2021-41773 | | 
 
