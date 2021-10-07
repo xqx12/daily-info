@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211007T01:36:11Z | CVE-2021-41773 | Null | https://github.com/lorddemon/CVE-2021-41773-PoC | | 
 | 20211007T01:26:10Z | CVE-2021-41773 | Null | https://github.com/iilegacyyii/PoC-CVE-2021-41773 | | 
 | 20211007T01:25:42Z | CVE-2021-41773 | CVE-2021-41773 playground | https://github.com/blasty/CVE-2021-41773 | | 
 | 20211007T00:21:18Z | CVE-2021-41773 | Apache HTTPd (2.4.49) – Local File Disclosure (LFI) | https://github.com/oxctdev/CVE-2021-41773 | | 
@@ -34,7 +35,6 @@
 | 20211006T21:04:47Z | CVE-2021-1675 | Working PowerShell POC | https://github.com/OppressionBreedsResistance/CVE-2021-1675-PrintNightmare | | 
 | 20211006T20:14:30Z | CVE-2021-41773 | Null | https://github.com/fnatalucci/CVE-2021-41773-RCE | | 
 | 20211006T20:11:41Z | CVE-2021-26085 | Null | https://github.com/zeroc00I/CVE-2021-26085 | | 
-| 20211006T20:02:25Z | CVE-2021-41773 | Null | https://github.com/lorddemon/CVE-2021-41773-PoC | | 
 | 20211006T19:48:17Z | CVE-2021-41773 | Apache HTTP Server 2.4.49 - Path Traversal & RCE | https://github.com/Ls4ss/CVE-2021-41773 | | 
 
 
@@ -64,16 +64,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211007T01:31:58Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 34 | 40| 
+| 20211007T01:31:48Z | Collection of Exploits | https://github.com/0xAlmighty/Exploits | 0 | 0| 
 | 20211007T01:12:39Z | Exploiting Causal Structure for Transportability in Online, Multi-Agent Environments | https://github.com/axelbrowne/ECS4TOMAE | 0 | 0| 
 | 20211007T01:03:17Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
-| 20211007T00:50:31Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 34 | 40| 
 | 20211007T00:24:09Z | A number of exploits and tools I%ve written for CVEs accredited to Marshall Whittaker/oxagast | https://github.com/oxagast/oxasploits | 6 | 2| 
 | 20211007T00:13:37Z | Collection of Discord hacking tools/fun stuff/exploits that is completely developed using NodeJS. | https://github.com/I2rys/ODiscord | 9 | 6| 
 | 20211006T23:43:33Z | All my exploit scripts  | https://github.com/Ducks-Scripts/exploitScripts | 0 | 0| 
 | 20211006T23:39:20Z | Research and Proof of Concept exploits for ConnMan found by me | https://github.com/merrychap/POC-connman | 1 | 0| 
 | 20211006T23:34:44Z |  :unlock: Vulnerability Research and Proof of Concept exploits for various targets found by me | https://github.com/merrychap/POC-exploits | 9 | 3| 
 | 20211006T23:32:02Z | Learn Binary Exploitation with sample problems. | https://github.com/Adamkadaban/LearnPwn | 1 | 0| 
-| 20211006T22:48:04Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 8338 | 1442| 
 
 
 # backdoor on Github 推荐
