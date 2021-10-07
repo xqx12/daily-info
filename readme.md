@@ -33,11 +33,13 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211007T09:57:04Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2823 | 74| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211007T11:32:18Z | 🎻 Automatic Exploit Generation (AEG) using symbolic execution | https://github.com/aesophor/requiem | 9 | 1| 
 
 
 # exploit on Github 推荐
@@ -58,10 +60,10 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211007T12:53:36Z | A TCP Backdoor made in python | https://github.com/ferreiraklet/Tracey-Backdoor | 5 | 0| 
 | 20211007T12:37:33Z | Null | https://github.com/leo9722/backdoor-c | 0 | 0| 
 | 20211007T12:28:50Z | Null | https://github.com/leo9722/backdoor-py | 0 | 0| 
 | 20211007T11:43:14Z | unlock the advanced menu of Lenovo Yoga Slim 7 BIOS | https://github.com/esno/yoga-bios-unlock | 39 | 5| 
-| 20211007T11:06:51Z | A TCP Backdoor made in python | https://github.com/ferreiraklet/Tracey-Backdoor | 5 | 0| 
 | 20211007T09:11:16Z | backdoor checking system in garry%smod addons | https://github.com/YohSambre/braxscan | 0 | 0| 
 | 20211007T04:29:34Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 325 | 59| 
 | 20211007T03:25:58Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 101 | 20| 
@@ -70,6 +72,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211007T12:07:29Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 159 | 35| 
+| 20211007T11:32:18Z | 🎻 Automatic Exploit Generation (AEG) using symbolic execution | https://github.com/aesophor/requiem | 9 | 1| 
+| 20211007T06:06:09Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 141 | 10| 
 
 
 # big4 on Github 推荐

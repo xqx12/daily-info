@@ -41,11 +41,11 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211006T16:14:16Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2822 | 74| 
+| 20211007T09:57:04Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2823 | 74| 
 | 20211006T10:58:26Z | This font is based on the font Klee One by Fontworks, and the font LXGW WenKai by LXGW for adding Simplified and Traditional Chinese character glyphs. The pinyin characters are added by ToneOZ.com using the open source tool Mengshen, with the IVS heteronyms font concept from the Bopomofo IVS by But Ko. | https://github.com/jeffreyxuan/toneoz-font-pinyin-wenkai | 6 | 0| 
 | 20211006T10:06:18Z | Null | https://github.com/giffyonyinye/kleenMyRide | 0 | 0| 
 | 20211005T22:58:32Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
-| 20211005T16:37:53Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1789 | 508| 
+| 20211005T16:37:53Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1789 | 509| 
 | 20211005T16:27:12Z | Config files for my GitHub profile. | https://github.com/byKleex/byKleex | 0 | 0| 
 | 20211005T09:22:13Z | Config files for my GitHub profile. | https://github.com/kleeahmetjos/kleeahmetjos | 0 | 0| 
 | 20211003T17:08:12Z | Config files for my GitHub profile. | https://github.com/Kleevry/Kleevry | 0 | 0| 
@@ -56,9 +56,9 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211007T11:32:18Z | 🎻 Automatic Exploit Generation (AEG) using symbolic execution | https://github.com/aesophor/requiem | 9 | 1| 
 | 20211006T20:22:04Z | Group%s website code. | https://github.com/s2e-lab/s2e-lab.github.io | 0 | 0| 
-| 20211006T16:52:15Z | 🎻 Automatic Exploit Generation (AEG) using symbolic execution | https://github.com/aesophor/requiem | 9 | 1| 
-| 20211006T01:47:04Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 165 | 38| 
+| 20211006T01:47:04Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 165 | 39| 
 
 
 # exploit on Github 推荐
@@ -79,10 +79,10 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211007T12:53:36Z | A TCP Backdoor made in python | https://github.com/ferreiraklet/Tracey-Backdoor | 5 | 0| 
 | 20211007T12:37:33Z | Null | https://github.com/leo9722/backdoor-c | 0 | 0| 
 | 20211007T12:28:50Z | Null | https://github.com/leo9722/backdoor-py | 0 | 0| 
 | 20211007T11:43:14Z | unlock the advanced menu of Lenovo Yoga Slim 7 BIOS | https://github.com/esno/yoga-bios-unlock | 39 | 5| 
-| 20211007T11:06:51Z | A TCP Backdoor made in python | https://github.com/ferreiraklet/Tracey-Backdoor | 5 | 0| 
 | 20211007T09:11:16Z | backdoor checking system in garry%smod addons | https://github.com/YohSambre/braxscan | 0 | 0| 
 | 20211007T04:29:34Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 325 | 59| 
 | 20211007T03:25:58Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 101 | 20| 
@@ -94,11 +94,11 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211007T12:07:29Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 159 | 35| 
+| 20211007T11:32:18Z | 🎻 Automatic Exploit Generation (AEG) using symbolic execution | https://github.com/aesophor/requiem | 9 | 1| 
+| 20211007T06:06:09Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 141 | 10| 
 | 20211006T23:37:25Z | This demo will show how Symbolic Execution solve the problem. | https://github.com/JeffShao96/Symbolic-NS3 | 1 | 3| 
 | 20211006T20:26:20Z | Symbolica%s open-source symbolic execution engine. | https://github.com/Symbolica/Symbolica | 30 | 2| 
-| 20211006T20:20:59Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 139 | 10| 
-| 20211006T17:10:36Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 159 | 35| 
-| 20211006T16:52:15Z | 🎻 Automatic Exploit Generation (AEG) using symbolic execution | https://github.com/aesophor/requiem | 9 | 1| 
 | 20211006T14:01:23Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 17 | 3| 
 | 20211006T11:29:47Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1900 | 395| 
 | 20211006T10:56:01Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 479 | 75| 
