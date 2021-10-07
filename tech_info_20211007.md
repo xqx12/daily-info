@@ -39,7 +39,6 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211007T11:32:18Z | 🎻 Automatic Exploit Generation (AEG) using symbolic execution | https://github.com/aesophor/requiem | 9 | 1| 
 
 
 # exploit on Github 推荐
@@ -60,6 +59,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211007T12:22:49Z | Null | https://github.com/leo9722/backdoor-py | 0 | 0| 
 | 20211007T11:43:14Z | unlock the advanced menu of Lenovo Yoga Slim 7 BIOS | https://github.com/esno/yoga-bios-unlock | 39 | 5| 
 | 20211007T11:06:51Z | A TCP Backdoor made in python | https://github.com/ferreiraklet/Tracey-Backdoor | 5 | 0| 
 | 20211007T09:11:16Z | backdoor checking system in garry%smod addons | https://github.com/YohSambre/braxscan | 0 | 0| 
@@ -80,14 +80,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211007T01:23:44Z | An API wrapper for fuzzysearch.net | https://github.com/Syfaro/fuzzysearch-rs | 0 | 0| 
-| 20211007T01:17:46Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
-| 20211007T01:14:07Z | BSOD: Binary-only Scalable fuzzing Of device Drivers | https://github.com/0xf4b1/bsod-kernel-fuzzing | 34 | 5| 
-| 20211007T01:08:55Z | Attempts to find security vulnerabilities in NetHack via input Fuzzing | https://github.com/recursion-ninja/Superion-YAML | 1 | 3| 
-| 20211007T00:52:30Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1094 | 123| 
-| 20211007T00:22:35Z | Fuzzy control | https://github.com/kelvincesar/IA_fuzzy_control | 0 | 0| 
-| 20211007T00:07:29Z | Null | https://github.com/twitch-opensource/vapour-multistream-fuzzer | 0 | 0| 
-| 20211007T00:06:01Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 29 | 11| 
+| 20211007T12:25:32Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6708 | 1386| 
+| 20211007T12:21:40Z | Fuzzer Helper | https://github.com/Aif4thah/CShidori | 0 | 0| 
+| 20211007T12:20:06Z | POC文件 | https://github.com/cxlzff/fuzzPOC | 0 | 0| 
+| 20211007T12:01:53Z | Build and Deploy PHP application. Build tool: composer! | https://github.com/skaushikpowershell/fuzzy-telegram | 0 | 0| 
+| 20211007T11:41:13Z | V Fast Fuzzer | https://github.com/cz7047/vff | 0 | 0| 
+| 20211007T11:27:38Z | Null | https://github.com/sarthakjoshi96/Fuzzycontrol_hairdryers | 0 | 0| 
+| 20211007T11:22:33Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 33864 | 17633| 
+| 20211007T11:21:54Z | Null | https://github.com/Hwangwoosam/fuzzing | 5 | 0| 
+| 20211007T11:06:57Z | Simple SQL table fuzzing | https://github.com/PumpkinSeed/sqlfuzz | 134 | 11| 
+| 20211007T10:56:16Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 333 | 82| 
 
 
 
