@@ -29,9 +29,9 @@
 | 20211006T20:11:41Z | CVE-2021-26085 | Null | https://github.com/zeroc00I/CVE-2021-26085 | | 
 | 20211006T20:02:25Z | CVE-2021-41773 | Null | https://github.com/lorddemon/CVE-2021-41773-PoC | | 
 | 20211006T19:48:17Z | CVE-2021-41773 | Apache HTTP Server 2.4.49 - Path Traversal & RCE | https://github.com/Ls4ss/CVE-2021-41773 | | 
-| 20211006T19:26:51Z | CVE-2021-41773 | Null | https://github.com/iilegacyyii/PoC-CVE-2021-41773 | | 
 | 20211006T19:23:32Z | CVE-2021-41773 | Null | https://github.com/ZephrFish/CVE-2021-41773-PoC | | 
 | 20211006T19:18:49Z | CVE-2021-41773 | Null | https://github.com/r00tVen0m/CVE-2021-41773 | | 
+| 20211006T17:43:16Z | CVE-2021-41773 | Path Traversal vulnerability in Apache 2.4.49 | https://github.com/PentesterGuruji/CVE-2021-41773 | | 
 
 
 # klee on Github 推荐
