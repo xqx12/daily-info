@@ -64,7 +64,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211007T00:35:35Z | Exploiting Causal Structure for Transportability in Online, Multi-Agent Environments | https://github.com/axelbrowne/ECS4TOMAE | 0 | 0| 
+| 20211007T00:50:31Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 34 | 40| 
+| 20211007T00:47:51Z | Exploiting Causal Structure for Transportability in Online, Multi-Agent Environments | https://github.com/axelbrowne/ECS4TOMAE | 0 | 0| 
 | 20211007T00:24:09Z | A number of exploits and tools I%ve written for CVEs accredited to Marshall Whittaker/oxagast | https://github.com/oxagast/oxasploits | 6 | 2| 
 | 20211007T00:13:37Z | Collection of Discord hacking tools/fun stuff/exploits that is completely developed using NodeJS. | https://github.com/I2rys/ODiscord | 9 | 6| 
 | 20211007T00:03:07Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
@@ -73,7 +74,6 @@
 | 20211006T23:34:44Z |  :unlock: Vulnerability Research and Proof of Concept exploits for various targets found by me | https://github.com/merrychap/POC-exploits | 9 | 3| 
 | 20211006T23:32:02Z | Learn Binary Exploitation with sample problems. | https://github.com/Adamkadaban/LearnPwn | 1 | 0| 
 | 20211006T22:48:04Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 8338 | 1442| 
-| 20211006T22:28:59Z | Exploits project Hacking Command Center | https://github.com/chacka0101/exploits | 16 | 11| 
 
 
 # backdoor on Github 推荐
@@ -94,7 +94,6 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211006T23:37:25Z | This demo will show how Symbolic Execution solve the problem. | https://github.com/JeffShao96/Symbolic-NS3 | 1 | 3| 
 | 20211006T20:26:20Z | Symbolica%s open-source symbolic execution engine. | https://github.com/Symbolica/Symbolica | 30 | 2| 
 | 20211006T20:20:59Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 139 | 10| 
 | 20211006T17:10:36Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 159 | 35| 
@@ -104,6 +103,7 @@
 | 20211006T10:56:01Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 479 | 75| 
 | 20211006T10:19:49Z | Symbolic Execution for WebAssembly | https://github.com/romits800/Vivienne_eval | 1 | 0| 
 | 20211006T10:09:56Z | DSE: a generic dynamic symbolic execution engine | https://github.com/tudo-aqua/dse | 0 | 0| 
+| 20211006T08:23:59Z | Symbolic Execution: Foundations, Techniques, Applications and Future Perspectives | https://github.com/rindPHI/se-book-festschrift-rh | 0 | 0| 
 
 
 # big4 on Github 推荐

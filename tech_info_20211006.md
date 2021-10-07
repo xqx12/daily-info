@@ -83,7 +83,6 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211006T23:37:25Z | This demo will show how Symbolic Execution solve the problem. | https://github.com/JeffShao96/Symbolic-NS3 | 1 | 3| 
 | 20211006T20:26:20Z | Symbolica%s open-source symbolic execution engine. | https://github.com/Symbolica/Symbolica | 30 | 2| 
 | 20211006T20:20:59Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 139 | 10| 
 | 20211006T17:10:36Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 159 | 35| 
@@ -93,6 +92,7 @@
 | 20211006T10:56:01Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 479 | 75| 
 | 20211006T10:19:49Z | Symbolic Execution for WebAssembly | https://github.com/romits800/Vivienne_eval | 1 | 0| 
 | 20211006T10:09:56Z | DSE: a generic dynamic symbolic execution engine | https://github.com/tudo-aqua/dse | 0 | 0| 
+| 20211006T08:23:59Z | Symbolic Execution: Foundations, Techniques, Applications and Future Perspectives | https://github.com/rindPHI/se-book-festschrift-rh | 0 | 0| 
 
 
 # big4 on Github 推荐
