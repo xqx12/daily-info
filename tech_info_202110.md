@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211007T00:21:18Z | CVE-2021-41773 | Apache HTTPd (2.4.49) – Local File Disclosure (LFI) | https://github.com/oxctdev/CVE-2021-41773 | | 
 | 20211006T23:10:38Z | CVE-2021-41773 | CVE-2021-41773 | https://github.com/creadpag/CVE-2021-41773-POC | | 
 | 20211006T21:21:59Z | CVE-2021-35492 | Denial of Service tool for Wowza Streaming Engine <= 4.8.11+5 - Uncontrolled Resource Consumption (CVE-2021-35492) | https://github.com/N4nj0/CVE-2021-35492 | | 
 | 20211006T21:04:47Z | CVE-2021-1675 | Working PowerShell POC | https://github.com/OppressionBreedsResistance/CVE-2021-1675-PrintNightmare | | 
@@ -35,7 +36,6 @@
 | 20211006T19:58:44Z | CVE-2021-41773 | CVE-2021-41773 playground | https://github.com/blasty/CVE-2021-41773 | | 
 | 20211006T19:48:17Z | CVE-2021-41773 | Apache HTTP Server 2.4.49 - Path Traversal & RCE | https://github.com/Ls4ss/CVE-2021-41773 | | 
 | 20211006T19:26:51Z | CVE-2021-41773 | Null | https://github.com/iilegacyyii/PoC-CVE-2021-41773 | | 
-| 20211006T19:23:32Z | CVE-2021-41773 | Null | https://github.com/ZephrFish/CVE-2021-41773-PoC | | 
 
 
 # klee on Github 推荐
@@ -64,16 +64,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211007T00:25:40Z | Exploiting Causal Structure for Transportability in Online, Multi-Agent Environments | https://github.com/axelbrowne/ECS4TOMAE | 0 | 0| 
+| 20211007T00:24:09Z | A number of exploits and tools I%ve written for CVEs accredited to Marshall Whittaker/oxagast | https://github.com/oxagast/oxasploits | 6 | 2| 
+| 20211007T00:13:37Z | Collection of Discord hacking tools/fun stuff/exploits that is completely developed using NodeJS. | https://github.com/I2rys/ODiscord | 9 | 6| 
 | 20211007T00:03:07Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
 | 20211006T23:43:33Z | All my exploit scripts  | https://github.com/Ducks-Scripts/exploitScripts | 0 | 0| 
 | 20211006T23:39:20Z | Research and Proof of Concept exploits for ConnMan found by me | https://github.com/merrychap/POC-connman | 1 | 0| 
 | 20211006T23:34:44Z |  :unlock: Vulnerability Research and Proof of Concept exploits for various targets found by me | https://github.com/merrychap/POC-exploits | 9 | 3| 
 | 20211006T23:32:02Z | Learn Binary Exploitation with sample problems. | https://github.com/Adamkadaban/LearnPwn | 1 | 0| 
-| 20211006T23:15:53Z | Exploiting Causal Structure for Transportability in Online, Multi-Agent Environments | https://github.com/axelbrowne/ECS4TOMAE | 0 | 0| 
 | 20211006T22:48:04Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 8338 | 1442| 
 | 20211006T22:28:59Z | Exploits project Hacking Command Center | https://github.com/chacka0101/exploits | 16 | 11| 
-| 20211006T22:17:04Z | x64 Windows Exploit Development | https://github.com/0xZ0F/Z0FCourse_ExploitDevelopment | 99 | 24| 
-| 20211006T22:08:33Z | Database Systems - Principles of database design and operation. Relational data model. High-level data modeling representations. SQL database language. Active databases with constraints and triggers. Query optimization with views and indexes. Exploiting database servers within programming languages for web application development. Other topics include transaction processing and recovery, user-defined functions, and data warehousing.  | https://github.com/kingkirpal2000/CSE-111 | 1 | 0| 
 
 
 # backdoor on Github 推荐

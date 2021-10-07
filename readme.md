@@ -57,12 +57,12 @@
 | 20211006T23:39:20Z | Research and Proof of Concept exploits for ConnMan found by me | https://github.com/merrychap/POC-connman | 1 | 0| 
 | 20211006T23:34:44Z |  :unlock: Vulnerability Research and Proof of Concept exploits for various targets found by me | https://github.com/merrychap/POC-exploits | 9 | 3| 
 | 20211006T23:32:02Z | Learn Binary Exploitation with sample problems. | https://github.com/Adamkadaban/LearnPwn | 1 | 0| 
-| 20211006T23:15:53Z | Exploiting Causal Structure for Transportability in Online, Multi-Agent Environments | https://github.com/axelbrowne/ECS4TOMAE | 0 | 0| 
 | 20211006T22:48:04Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 8338 | 1442| 
 | 20211006T22:28:59Z | Exploits project Hacking Command Center | https://github.com/chacka0101/exploits | 16 | 11| 
 | 20211006T22:17:04Z | x64 Windows Exploit Development | https://github.com/0xZ0F/Z0FCourse_ExploitDevelopment | 99 | 24| 
 | 20211006T22:08:33Z | Database Systems - Principles of database design and operation. Relational data model. High-level data modeling representations. SQL database language. Active databases with constraints and triggers. Query optimization with views and indexes. Exploiting database servers within programming languages for web application development. Other topics include transaction processing and recovery, user-defined functions, and data warehousing.  | https://github.com/kingkirpal2000/CSE-111 | 1 | 0| 
 | 20211006T21:47:49Z | Global data transferring in SA:MP, based on bug exploitation | https://github.com/r4nx/broadcaster | 1 | 0| 
+| 20211006T21:23:18Z | Samba 3.0.20 < 3.0.25rc3 - %Username% map script% Command Execution | https://github.com/NPTG24/Exploit-smb-3.0.20 | 1 | 0| 
 
 
 # backdoor on Github 推荐
