@@ -104,7 +104,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20211006T23:46:33Z | Null | https://github.com/lzhfromustc/goFuzz | 0 | 0| 
-| 20211006T23:21:32Z | BSOD: Binary-only Scalable fuzzing Of device Drivers | https://github.com/0xf4b1/bsod-kernel-fuzzing | 33 | 5| 
 | 20211006T22:35:26Z | CS400 xteam | https://github.com/thesonofwil/fuzzy-barnacle-story | 0 | 0| 
 | 20211006T22:27:56Z | Null | https://github.com/twitch-opensource/vapour-fuzzer-service | 0 | 0| 
 | 20211006T22:22:57Z | A differential fuzzer for x86 decoders | https://github.com/trailofbits/mishegos | 155 | 22| 
@@ -113,6 +112,7 @@
 | 20211006T21:52:27Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 249 | 32| 
 | 20211006T21:45:24Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2398 | 144| 
 | 20211006T21:24:34Z | Null | https://github.com/merq312/fuzzy-disco | 0 | 0| 
+| 20211006T21:14:19Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 333 | 82| 
 
 
 

@@ -64,7 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211007T01:54:51Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 34 | 40| 
+| 20211007T01:59:31Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 34 | 40| 
 | 20211007T01:51:34Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 8339 | 1442| 
 | 20211007T01:46:21Z | Collection of Exploits | https://github.com/0xAlmighty/Exploits | 0 | 0| 
 | 20211007T01:12:39Z | Exploiting Causal Structure for Transportability in Online, Multi-Agent Environments | https://github.com/axelbrowne/ECS4TOMAE | 0 | 0| 
@@ -116,16 +116,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211007T00:42:00Z | Attempts to find security vulnerabilities in NetHack via input Fuzzing | https://github.com/recursion-ninja/Superion-YAML | 1 | 3| 
+| 20211007T01:23:44Z | An API wrapper for fuzzysearch.net | https://github.com/Syfaro/fuzzysearch-rs | 0 | 0| 
+| 20211007T01:17:46Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
+| 20211007T01:14:07Z | BSOD: Binary-only Scalable fuzzing Of device Drivers | https://github.com/0xf4b1/bsod-kernel-fuzzing | 34 | 5| 
+| 20211007T01:08:55Z | Attempts to find security vulnerabilities in NetHack via input Fuzzing | https://github.com/recursion-ninja/Superion-YAML | 1 | 3| 
+| 20211007T00:52:30Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1094 | 123| 
 | 20211007T00:22:35Z | Fuzzy control | https://github.com/kelvincesar/IA_fuzzy_control | 0 | 0| 
 | 20211007T00:07:29Z | Null | https://github.com/twitch-opensource/vapour-multistream-fuzzer | 0 | 0| 
 | 20211007T00:06:01Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 29 | 11| 
 | 20211006T23:46:33Z | Null | https://github.com/lzhfromustc/goFuzz | 0 | 0| 
-| 20211006T23:21:32Z | BSOD: Binary-only Scalable fuzzing Of device Drivers | https://github.com/0xf4b1/bsod-kernel-fuzzing | 33 | 5| 
 | 20211006T22:35:26Z | CS400 xteam | https://github.com/thesonofwil/fuzzy-barnacle-story | 0 | 0| 
-| 20211006T22:27:56Z | Null | https://github.com/twitch-opensource/vapour-fuzzer-service | 0 | 0| 
-| 20211006T22:22:57Z | A differential fuzzer for x86 decoders | https://github.com/trailofbits/mishegos | 155 | 22| 
-| 20211006T22:06:21Z | Null | https://github.com/hj-june/fuzzy-journey | 0 | 0| 
 
 
 
