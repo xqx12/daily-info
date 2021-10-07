@@ -16,64 +16,68 @@
 | 20211006 | PATCHSCOUT：一种新的定位安全补丁的方法 | https://mp.weixin.qq.com/s/EMGIqVwkNm9CBNS8lYtNbQ| 
 | 20211006 | Phrack Magazine 70 | http://phrack.org/issues/70/1.html#article| 
 | 20211006 | pwn.college! | https://pwn.college/| 
+| 20211006 | Apple近几年软硬件协同防护技术总结 | https://twd2.me/archives/16101| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211006T12:16:02Z | CVE-2021-41773 | Null | https://github.com/iilegacyyii/PoC-CVE-2021-41773 | | 
-| 20211006T12:03:04Z | cve-2021-41773 | CVE-2021-41773 Path Traversal vulnerability in Apache 2.4.49. | https://github.com/Vulnmachines/cve-2021-41773 | | 
-| 20211006T11:34:37Z | CVE-2021-1675 | Working PowerShell POC | https://github.com/OppressionBreedsResistance/CVE-2021-1675-PrintNightmare | | 
-| 20211006T11:19:06Z | CVE-2021-41773 | Exploitation of CVE-2021-41773 a Directory Traversal in Apache 2.4.49. | https://github.com/RyouYoo/CVE-2021-41773 | | 
-| 20211006T11:12:56Z | CVE-2021-41773 | CVE-2021-41773 playground | https://github.com/blasty/CVE-2021-41773 | | 
-| 20211006T11:07:42Z | CVE-2021-41773 | Path Traversal vulnerability in Apache 2.4.49 | https://github.com/PentesterGuruji/CVE-2021-41773 | | 
-| 20211006T10:15:56Z | CVE-2021-41773 | Null | https://github.com/ZephrFish/CVE-2021-41773-PoC | | 
-| 20211006T09:59:25Z | CVE-2021-41773 | Path traversal in Apache HTTP Server 2.4.49 (CVE-2021-41773)  | https://github.com/knqyf263/CVE-2021-41773 | | 
-| 20211006T08:49:14Z | CVE-2021-41773 | CVE-2021-41773 | https://github.com/numanturle/CVE-2021-41773 | | 
-| 20211006T08:20:41Z | CVE-2021-41773 | Null | https://github.com/lsass-exe/CVE-2021-41773 | | 
+| 20211006T23:10:38Z | CVE-2021-41773 | CVE-2021-41773 | https://github.com/creadpag/CVE-2021-41773-POC | | 
+| 20211006T21:21:59Z | CVE-2021-35492 | Denial of Service tool for Wowza Streaming Engine <= 4.8.11+5 - Uncontrolled Resource Consumption (CVE-2021-35492) | https://github.com/N4nj0/CVE-2021-35492 | | 
+| 20211006T21:04:47Z | CVE-2021-1675 | Working PowerShell POC | https://github.com/OppressionBreedsResistance/CVE-2021-1675-PrintNightmare | | 
+| 20211006T20:14:30Z | CVE-2021-41773 | Null | https://github.com/fnatalucci/CVE-2021-41773-RCE | | 
+| 20211006T20:11:41Z | CVE-2021-26085 | Null | https://github.com/zeroc00I/CVE-2021-26085 | | 
+| 20211006T20:02:25Z | CVE-2021-41773 | Null | https://github.com/lorddemon/CVE-2021-41773-PoC | | 
+| 20211006T19:58:44Z | CVE-2021-41773 | CVE-2021-41773 playground | https://github.com/blasty/CVE-2021-41773 | | 
+| 20211006T19:48:17Z | CVE-2021-41773 | Apache HTTP Server 2.4.49 - Path Traversal & RCE | https://github.com/Ls4ss/CVE-2021-41773 | | 
+| 20211006T19:26:51Z | CVE-2021-41773 | Null | https://github.com/iilegacyyii/PoC-CVE-2021-41773 | | 
+| 20211006T19:23:32Z | CVE-2021-41773 | Null | https://github.com/ZephrFish/CVE-2021-41773-PoC | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211006T16:14:16Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2822 | 74| 
 | 20211006T10:58:26Z | This font is based on the font Klee One by Fontworks, and the font LXGW WenKai by LXGW for adding Simplified and Traditional Chinese character glyphs. The pinyin characters are added by ToneOZ.com using the open source tool Mengshen, with the IVS heteronyms font concept from the Bopomofo IVS by But Ko. | https://github.com/jeffreyxuan/toneoz-font-pinyin-wenkai | 6 | 0| 
 | 20211006T10:06:18Z | Null | https://github.com/giffyonyinye/kleenMyRide | 0 | 0| 
-| 20211006T06:49:18Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2819 | 74| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211006T20:22:04Z | Group%s website code. | https://github.com/s2e-lab/s2e-lab.github.io | 0 | 0| 
+| 20211006T16:52:15Z | 🎻 Automatic Exploit Generation (AEG) using symbolic execution | https://github.com/aesophor/requiem | 9 | 1| 
 | 20211006T01:47:04Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 165 | 38| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211006T12:03:07Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
-| 20211006T11:57:07Z | Static light nginx site to serve vulnerabilities | https://github.com/SirAppSec/exploit-server | 0 | 0| 
-| 20211006T11:51:50Z | login page attack from a variety of websites and devices including facebook, instagram and routers like sky | https://github.com/buffkermitisagod/login_exploit_dev | 0 | 0| 
-| 20211006T11:51:12Z | Null | https://github.com/NotFoundHacker/KaliExploit | 0 | 0| 
-| 20211006T11:43:44Z | A multi exploit instagram exploitation framework | https://github.com/BirdSecurity/Instagram-Exploitation-Framework | 5 | 3| 
-| 20211006T11:39:35Z | BioCCP.jl exploits the Coupon Collector Problem for sample size determination in combinatorial biotechnology. | https://github.com/kirstvh/BioCCP.jl | 4 | 0| 
-| 20211006T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10178 | 1717| 
-| 20211006T11:19:22Z | CLI for exploring/exploiting a DB populated from Discogs.com data | https://github.com/crossjam/discogsdata | 0 | 0| 
-| 20211006T11:19:00Z | This is a simple token generator that use user id to brute fore and proxy to bypass rate limit. For Educational Purposes Only! | https://github.com/tungdo0602/Discord-Token-Generator | 2 | 1| 
-| 20211006T10:39:01Z | This repository contain, some mobile applications (android & iOS) that can be exploited. This repository has been made for learning purpose. | https://github.com/ryirwansyah/dumb-mobile-application | 0 | 0| 
+| 20211006T23:43:33Z | All my exploit scripts  | https://github.com/Ducks-Scripts/exploitScripts | 0 | 0| 
+| 20211006T23:39:20Z | Research and Proof of Concept exploits for ConnMan found by me | https://github.com/merrychap/POC-connman | 1 | 0| 
+| 20211006T23:34:44Z |  :unlock: Vulnerability Research and Proof of Concept exploits for various targets found by me | https://github.com/merrychap/POC-exploits | 9 | 3| 
+| 20211006T23:32:02Z | Learn Binary Exploitation with sample problems. | https://github.com/Adamkadaban/LearnPwn | 1 | 0| 
+| 20211006T23:15:53Z | Exploiting Causal Structure for Transportability in Online, Multi-Agent Environments | https://github.com/axelbrowne/ECS4TOMAE | 0 | 0| 
+| 20211006T22:48:04Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 8338 | 1442| 
+| 20211006T22:28:59Z | Exploits project Hacking Command Center | https://github.com/chacka0101/exploits | 16 | 11| 
+| 20211006T22:17:04Z | x64 Windows Exploit Development | https://github.com/0xZ0F/Z0FCourse_ExploitDevelopment | 99 | 24| 
+| 20211006T22:08:33Z | Database Systems - Principles of database design and operation. Relational data model. High-level data modeling representations. SQL database language. Active databases with constraints and triggers. Query optimization with views and indexes. Exploiting database servers within programming languages for web application development. Other topics include transaction processing and recovery, user-defined functions, and data warehousing.  | https://github.com/kingkirpal2000/CSE-111 | 1 | 0| 
+| 20211006T21:47:49Z | Global data transferring in SA:MP, based on bug exploitation | https://github.com/r4nx/broadcaster | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211006T23:44:08Z | A TCP Backdoor made in python | https://github.com/ferreiraklet/Tracey-Backdoor | 3 | 0| 
+| 20211006T22:56:22Z | This project aims to understand ethical hacking techniques using python backdoor tool from scratch. The tests and procedures should only be executed on your own machines. If you%re planning to execute pwned-by on someone else%s machine, DO IT ETHICALLY! Ask for permission to conduct your activity with written instructions. Do not investigate someone else%s files without permission. I do not promote any harm to other people. Please use it at your own risk! Author will not be responsible for any damage! This project is for study purposes only. Enjoy hacking! | https://github.com/4stropotato/pwned-by | 2 | 0| 
+| 20211006T21:21:24Z | Null | https://github.com/nolascomalave/hc-web-without-backdoor | 0 | 0| 
+| 20211006T19:56:58Z | Null | https://github.com/MikhailNv/BackDoor | 0 | 0| 
+| 20211006T13:28:10Z | Null | https://github.com/backdoorrrr/NTD-backdoor-detection | 0 | 0| 
 | 20211006T10:47:29Z | backdoors! | https://github.com/soysteayamdeee/soysteayamdeee | 0 | 0| 
 | 20211006T08:42:20Z | OWASP ZAP add-on containing the web-backdoors and attack files from FuzzDB | https://github.com/zaproxy/fuzzdb-offensive | 7 | 6| 
 | 20211006T07:16:34Z | Unofficial pytorch implementation of RobNet(Defense-Resistant Backdoor Attacks on DNN) | https://github.com/dhkim2810/RobNet | 0 | 0| 
 | 20211006T07:12:51Z | a simple backdoor service(NOT FINISHED) AND IT WORKS | https://github.com/ranon-rat/yackdoor | 4 | 0| 
 | 20211006T05:05:35Z | pybotnet -   A Python Library for building Botnet , Trojan or BackDoor for windows and linux with Telegram control panel  | https://github.com/onionj/pybotnet | 33 | 16| 
-| 20211006T03:55:42Z | Null | https://github.com/kyukazamiqq/backdoor | 0 | 0| 
-| 20211006T02:36:01Z | because why not? USE ON YOUR OWN SERVER ONLY, DO NOT TRUST THINGS FROM OTHER PLAYERS | https://github.com/Merith-TK/backdoor-mod | 0 | 0| 
-| 20211006T02:34:05Z | Hidden backdoor attack on NLP systems | https://github.com/lishaofeng/NLP_Backdoor | 12 | 1| 
-| 20211006T01:51:15Z | A Hidden and Undetectable Remote Access Tool written in C++ and Server in Python3 | https://github.com/Ryan-AW/Windows-Backdoor | 19 | 6| 
 
 
 # symbolic execution on Github 推荐
@@ -97,16 +101,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211006T12:04:50Z | Null | https://github.com/ak0Mj/fuzzy-giggle | 0 | 1| 
-| 20211006T11:47:12Z | 🔥 Studying The Fuzzing Book : https://www.fuzzingbook.org | https://github.com/KimSeoYe/TheFuzzingBook | 5 | 0| 
-| 20211006T10:57:40Z | Insert in Bash or ZSH a fuzzily found command-line, file or (recent) directory path at the cursor position. | https://github.com/Konfekt/fuzzyfinders.sh | 2 | 0| 
-| 20211006T10:45:52Z | The Official Fuzzy Britches Repository. | https://github.com/ThePapaw/fuzzybritches | 0 | 0| 
-| 20211006T10:41:10Z | Null | https://github.com/amamama/fuzzy-octo-palm-tree | 0 | 0| 
-| 20211006T10:24:30Z | A Fuzzy-NN definition for classical control problems such as cartpole. | https://github.com/cvg25/fuzzy-nn-control | 0 | 0| 
-| 20211006T10:01:52Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20211006T09:53:03Z | Binary, coverage-guided fuzzer for Windows and macOS | https://github.com/googleprojectzero/Jackalope | 643 | 78| 
-| 20211006T09:38:22Z | Null | https://github.com/nhsd-exeter/dos-service-fuzzy-search-api | 1 | 0| 
-| 20211006T09:33:30Z | Planning tool | https://github.com/HappyDustbunny/FuzzyFlexx | 1 | 0| 
+| 20211006T23:46:33Z | Null | https://github.com/lzhfromustc/goFuzz | 0 | 0| 
+| 20211006T23:21:32Z | BSOD: Binary-only Scalable fuzzing Of device Drivers | https://github.com/0xf4b1/bsod-kernel-fuzzing | 33 | 5| 
+| 20211006T22:35:26Z | CS400 xteam | https://github.com/thesonofwil/fuzzy-barnacle-story | 0 | 0| 
+| 20211006T22:27:56Z | Null | https://github.com/twitch-opensource/vapour-fuzzer-service | 0 | 0| 
+| 20211006T22:22:57Z | A differential fuzzer for x86 decoders | https://github.com/trailofbits/mishegos | 155 | 22| 
+| 20211006T22:06:21Z | Null | https://github.com/hj-june/fuzzy-journey | 0 | 0| 
+| 20211006T21:52:30Z | Code for fuzzy monkeys. | https://github.com/fuzzyatelin/fuzzyatelin.github.io | 3 | 11| 
+| 20211006T21:52:27Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 249 | 32| 
+| 20211006T21:45:24Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2398 | 144| 
+| 20211006T21:24:34Z | Null | https://github.com/merq312/fuzzy-disco | 0 | 0| 
 
 
 
