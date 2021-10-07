@@ -116,6 +116,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211007T00:42:00Z | Attempts to find security vulnerabilities in NetHack via input Fuzzing | https://github.com/recursion-ninja/Superion-YAML | 1 | 3| 
 | 20211007T00:22:35Z | Fuzzy control | https://github.com/kelvincesar/IA_fuzzy_control | 0 | 0| 
 | 20211007T00:07:29Z | Null | https://github.com/twitch-opensource/vapour-multistream-fuzzer | 0 | 0| 
 | 20211007T00:06:01Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 29 | 11| 
@@ -125,7 +126,6 @@
 | 20211006T22:27:56Z | Null | https://github.com/twitch-opensource/vapour-fuzzer-service | 0 | 0| 
 | 20211006T22:22:57Z | A differential fuzzer for x86 decoders | https://github.com/trailofbits/mishegos | 155 | 22| 
 | 20211006T22:06:21Z | Null | https://github.com/hj-june/fuzzy-journey | 0 | 0| 
-| 20211006T21:52:30Z | Code for fuzzy monkeys. | https://github.com/fuzzyatelin/fuzzyatelin.github.io | 3 | 11| 
 
 
 
