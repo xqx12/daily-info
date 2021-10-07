@@ -64,7 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211007T00:25:40Z | Exploiting Causal Structure for Transportability in Online, Multi-Agent Environments | https://github.com/axelbrowne/ECS4TOMAE | 0 | 0| 
+| 20211007T00:35:35Z | Exploiting Causal Structure for Transportability in Online, Multi-Agent Environments | https://github.com/axelbrowne/ECS4TOMAE | 0 | 0| 
 | 20211007T00:24:09Z | A number of exploits and tools I%ve written for CVEs accredited to Marshall Whittaker/oxagast | https://github.com/oxagast/oxasploits | 6 | 2| 
 | 20211007T00:13:37Z | Collection of Discord hacking tools/fun stuff/exploits that is completely developed using NodeJS. | https://github.com/I2rys/ODiscord | 9 | 6| 
 | 20211007T00:03:07Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
@@ -79,6 +79,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211007T00:40:14Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 101 | 20| 
 | 20211006T23:44:08Z | A TCP Backdoor made in python | https://github.com/ferreiraklet/Tracey-Backdoor | 3 | 0| 
 | 20211006T22:56:22Z | This project aims to understand ethical hacking techniques using python backdoor tool from scratch. The tests and procedures should only be executed on your own machines. If you%re planning to execute pwned-by on someone else%s machine, DO IT ETHICALLY! Ask for permission to conduct your activity with written instructions. Do not investigate someone else%s files without permission. I do not promote any harm to other people. Please use it at your own risk! Author will not be responsible for any damage! This project is for study purposes only. Enjoy hacking! | https://github.com/4stropotato/pwned-by | 2 | 0| 
 | 20211006T21:21:24Z | Null | https://github.com/nolascomalave/hc-web-without-backdoor | 0 | 0| 
@@ -88,22 +89,21 @@
 | 20211006T08:42:20Z | OWASP ZAP add-on containing the web-backdoors and attack files from FuzzDB | https://github.com/zaproxy/fuzzdb-offensive | 7 | 6| 
 | 20211006T07:16:34Z | Unofficial pytorch implementation of RobNet(Defense-Resistant Backdoor Attacks on DNN) | https://github.com/dhkim2810/RobNet | 0 | 0| 
 | 20211006T07:12:51Z | a simple backdoor service(NOT FINISHED) AND IT WORKS | https://github.com/ranon-rat/yackdoor | 4 | 0| 
-| 20211006T05:05:35Z | pybotnet -   A Python Library for building Botnet , Trojan or BackDoor for windows and linux with Telegram control panel  | https://github.com/onionj/pybotnet | 33 | 16| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211006T23:37:25Z | This demo will show how Symbolic Execution solve the problem. | https://github.com/JeffShao96/Symbolic-NS3 | 1 | 3| 
+| 20211006T20:26:20Z | Symbolica%s open-source symbolic execution engine. | https://github.com/Symbolica/Symbolica | 30 | 2| 
+| 20211006T20:20:59Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 139 | 10| 
+| 20211006T17:10:36Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 159 | 35| 
+| 20211006T16:52:15Z | 🎻 Automatic Exploit Generation (AEG) using symbolic execution | https://github.com/aesophor/requiem | 9 | 1| 
+| 20211006T14:01:23Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 17 | 3| 
 | 20211006T11:29:47Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1900 | 395| 
-| 20211006T11:23:33Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 136 | 10| 
 | 20211006T10:56:01Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 479 | 75| 
 | 20211006T10:19:49Z | Symbolic Execution for WebAssembly | https://github.com/romits800/Vivienne_eval | 1 | 0| 
 | 20211006T10:09:56Z | DSE: a generic dynamic symbolic execution engine | https://github.com/tudo-aqua/dse | 0 | 0| 
-| 20211006T08:23:59Z | Symbolic Execution: Foundations, Techniques, Applications and Future Perspectives | https://github.com/rindPHI/se-book-festschrift-rh | 0 | 0| 
-| 20211006T04:13:49Z | A tool for generating nonlinear numerical invariants for C and Java programs.  DIG uses dynamic analysis to infer invariants over program execution traces and applies symbolic execution to inferred invariants. | https://github.com/unsat/dig | 9 | 4| 
-| 20211006T01:47:04Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 165 | 38| 
-| 20211005T16:37:53Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1789 | 508| 
-| 20211005T13:16:33Z | Symbolic execution engine for ABS | https://github.com/Edkamb/crowbar-tool | 0 | 3| 
 
 
 # big4 on Github 推荐
@@ -116,6 +116,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211007T00:22:35Z | Fuzzy control | https://github.com/kelvincesar/IA_fuzzy_control | 0 | 0| 
+| 20211007T00:07:29Z | Null | https://github.com/twitch-opensource/vapour-multistream-fuzzer | 0 | 0| 
+| 20211007T00:06:01Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 29 | 11| 
 | 20211006T23:46:33Z | Null | https://github.com/lzhfromustc/goFuzz | 0 | 0| 
 | 20211006T23:21:32Z | BSOD: Binary-only Scalable fuzzing Of device Drivers | https://github.com/0xf4b1/bsod-kernel-fuzzing | 33 | 5| 
 | 20211006T22:35:26Z | CS400 xteam | https://github.com/thesonofwil/fuzzy-barnacle-story | 0 | 0| 
@@ -123,9 +126,6 @@
 | 20211006T22:22:57Z | A differential fuzzer for x86 decoders | https://github.com/trailofbits/mishegos | 155 | 22| 
 | 20211006T22:06:21Z | Null | https://github.com/hj-june/fuzzy-journey | 0 | 0| 
 | 20211006T21:52:30Z | Code for fuzzy monkeys. | https://github.com/fuzzyatelin/fuzzyatelin.github.io | 3 | 11| 
-| 20211006T21:52:27Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 249 | 32| 
-| 20211006T21:45:24Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2398 | 144| 
-| 20211006T21:24:34Z | Null | https://github.com/merq312/fuzzy-disco | 0 | 0| 
 
 
 
