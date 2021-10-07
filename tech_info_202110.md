@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211007T12:50:11Z | CVE-2021-41773 | Null | https://github.com/ComdeyOverFlow/CVE-2021-41773 | | 
+| 20211007T12:56:12Z | CVE-2021-41773 | Null | https://github.com/ComdeyOverFlow/CVE-2021-41773 | | 
 | 20211007T11:12:19Z | CVE-2021-41773 | Null | https://github.com/lorddemon/CVE-2021-41773-PoC | | 
 | 20211007T10:27:35Z | CVE-2021-41773 | Apache HTTP Server 2.4.49 - Path Traversal & RCE | https://github.com/Ls4ss/CVE-2021-41773 | | 
 | 20211007T08:52:02Z | cve-2021-3625 | Sample exploits for Zephyr CVE-2021-3625 | https://github.com/szymonh/zephyr_cve-2021-3625 | | 
@@ -64,6 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211007T12:52:59Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 22 | 14| 
 | 20211007T12:45:38Z | BioCCP.jl exploits the Coupon Collector Problem for sample size determination in combinatorial biotechnology. | https://github.com/kirstvh/BioCCP.jl | 4 | 0| 
 | 20211007T12:42:25Z | A python exploit that automatically defaces websites. | https://github.com/daethecat/Auto-Defacer | 0 | 0| 
 | 20211007T12:20:27Z | Combat + Exploit - Xall Client For Anarchy Servers | https://github.com/Leuxarik/XallClient | 0 | 0| 
@@ -73,22 +74,21 @@
 | 20211007T11:37:47Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITION | 2 | 0| 
 | 20211007T11:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10180 | 1718| 
 | 20211007T11:32:18Z | 🎻 Automatic Exploit Generation (AEG) using symbolic execution | https://github.com/aesophor/requiem | 9 | 1| 
-| 20211007T11:11:34Z | A vulnerable machine made for CTF. In this vulnerable machine Dirty COW vulnerability is used. Dirty COW vulnerability is a type of privilege escalation exploit, which essentially means that it can be used to gain root-user access on any Linux-based system. | https://github.com/risacker/Vulnerable_Machine | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211007T12:53:36Z | A TCP Backdoor made in python | https://github.com/ferreiraklet/Tracey-Backdoor | 5 | 0| 
 | 20211007T12:37:33Z | Null | https://github.com/leo9722/backdoor-c | 0 | 0| 
 | 20211007T12:28:50Z | Null | https://github.com/leo9722/backdoor-py | 0 | 0| 
-| 20211007T11:43:14Z | unlock the advanced menu of Lenovo Yoga Slim 7 BIOS | https://github.com/esno/yoga-bios-unlock | 39 | 5| 
 | 20211007T09:11:16Z | backdoor checking system in garry%smod addons | https://github.com/YohSambre/braxscan | 0 | 0| 
-| 20211007T04:29:34Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 325 | 59| 
-| 20211007T03:25:58Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 101 | 20| 
-| 20211006T22:56:22Z | This project aims to understand ethical hacking techniques using python backdoor tool from scratch. The tests and procedures should only be executed on your own machines. If you%re planning to execute pwned-by on someone else%s machine, DO IT ETHICALLY! Ask for permission to conduct your activity with written instructions. Do not investigate someone else%s files without permission. I do not promote any harm to other people. Please use it at your own risk! Author will not be responsible for any damage! This project is for study purposes only. Enjoy hacking! | https://github.com/4stropotato/pwned-by | 2 | 0| 
 | 20211006T21:21:24Z | Null | https://github.com/nolascomalave/hc-web-without-backdoor | 0 | 0| 
+| 20211006T21:20:13Z | A TCP Backdoor made in python | https://github.com/ferreiraklet/Tracey-Backdoor | 2 | 0| 
 | 20211006T19:56:58Z | Null | https://github.com/MikhailNv/BackDoor | 0 | 0| 
+| 20211006T16:28:38Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 325 | 59| 
+| 20211006T15:06:46Z | This project aims to understand ethical hacking techniques using python backdoor tool from scratch. The tests and procedures should only be executed on your own machines. If you%re planning to execute pwned-by on someone else%s machine, DO IT ETHICALLY! Ask for permission to conduct your activity with written instructions. Do not investigate someone else%s files without permission. I do not promote any harm to other people. Please use it at your own risk! Author will not be responsible for any damage! This project is for study purposes only. Enjoy hacking! | https://github.com/4stropotato/pwned-by | 2 | 0| 
+| 20211006T13:28:10Z | Null | https://github.com/backdoorrrr/NTD-backdoor-detection | 0 | 0| 
+| 20211006T10:47:29Z | backdoors! | https://github.com/soysteayamdeee/soysteayamdeee | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
