@@ -43,8 +43,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211008T12:07:42Z | Vous allez, avec l’aide d’une autre personne, réfléchir sur une idée d’application.Trouvez ensemble quelques sujets que vous pourrez exploiter pour votre idée d’application. Bien évidemment, vous pourrez faire une veille rapide pour voir s%il existe déjà des applications similaires. | https://github.com/MrGyo/UX_UI_Prototyper_App_Mobile | 1 | 0| 
 | 20211008T12:03:03Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
-| 20211008T11:58:07Z | Vous allez, avec l’aide d’une autre personne, réfléchir sur une idée d’application.Trouvez ensemble quelques sujets que vous pourrez exploiter pour votre idée d’application. Bien évidemment, vous pourrez faire une veille rapide pour voir s%il existe déjà des applications similaires. | https://github.com/MrGyo/UX_UI_Prototyper_App_Mobile | 1 | 0| 
 | 20211008T11:54:53Z | Exploit with  integrated shodan search | https://github.com/andrea-mattioli/apache-exploit-CVE-2021-42013 | 1 | 1| 
 | 20211008T11:35:17Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10182 | 1718| 
 | 20211008T11:28:37Z | Experimental Go language CSGO exploit. | https://github.com/jamesmoriarty/gohack | 40 | 8| 
