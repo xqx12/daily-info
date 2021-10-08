@@ -26,16 +26,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211007T12:56:12Z | CVE-2021-41773 | Null | https://github.com/ComdeyOverFlow/CVE-2021-41773 | | 
-| 20211007T11:12:19Z | CVE-2021-41773 | Null | https://github.com/lorddemon/CVE-2021-41773-PoC | | 
-| 20211007T10:27:35Z | CVE-2021-41773 | Apache HTTP Server 2.4.49 - Path Traversal & RCE | https://github.com/Ls4ss/CVE-2021-41773 | | 
-| 20211007T08:52:02Z | cve-2021-3625 | Sample exploits for Zephyr CVE-2021-3625 | https://github.com/szymonh/zephyr_cve-2021-3625 | | 
-| 20211007T08:34:59Z | CVE-2021-41773 | CVE-2021-41773 playground | https://github.com/blasty/CVE-2021-41773 | | 
-| 20211007T07:13:30Z | CVE-2021-41773 | Vulnerable docker images for CVE-2021-41773 | https://github.com/BlueTeamSteve/CVE-2021-41773 | | 
-| 20211007T06:55:34Z | cve-2021-41773 | CVE-2021-41773 Path Traversal vulnerability in Apache 2.4.49. | https://github.com/Vulnmachines/cve-2021-41773 | | 
-| 20211007T06:51:17Z | CVE-2021-41773 | CVE-2021-41773 | https://github.com/creadpag/CVE-2021-41773-POC | | 
-| 20211007T02:59:35Z | CVE-2021-41773 | CVE-2021-41773 的复现 | https://github.com/1nhann/CVE-2021-41773 | | 
-| 20211007T01:26:10Z | CVE-2021-41773 | Null | https://github.com/iilegacyyii/PoC-CVE-2021-41773 | | 
+| 20211007T23:44:21Z | cve-2021-41773 | Docker container  lab to play/learn with CVE-2021-41773 | https://github.com/htrgouvea/lab-cve-2021-41773 | | 
+| 20211007T23:16:55Z | CVE-2021-26084 | CVE-2021-26084 - Confluence Server Webwork OGNL injection  | https://github.com/oxctdev/CVE-2021-26084 | | 
+| 20211007T22:58:43Z | cve-2021-3625 | Sample exploits for Zephyr CVE-2021-3625 | https://github.com/szymonh/zephyr_cve-2021-3625 | | 
+| 20211007T21:53:00Z | CVE-2021-41773 | Mass exploitation CVE-2021-41773 and auto detect possible RCE | https://github.com/Sakura-nee/CVE-2021-41773 | | 
+| 20211007T21:38:46Z | CVE-2021-40870 | Aviatrix allows an authenticated user to execute arbitrary code | https://github.com/oxctdev/CVE-2021-40870 | | 
+| 20211007T20:16:18Z | cve-2021-41773 | MASS CVE-2021-41773 | https://github.com/justakazh/mass_cve-2021-41773 | | 
+| 20211007T20:11:02Z | CVE-2021-41773 | CVE-2021-41773 playground | https://github.com/blasty/CVE-2021-41773 | | 
+| 20211007T19:39:12Z | CVE-2021-41773 | Path Traversal vulnerability in Apache 2.4.49 | https://github.com/PentesterGuruji/CVE-2021-41773 | | 
+| 20211007T18:44:07Z | CVE-2021-42013 | Exploit with  integrated shodan search | https://github.com/andrea-mattioli/apache-exploit-CVE-2021-42013 | | 
+| 20211007T17:59:52Z | CVE-2021-41773 | Null | https://github.com/iilegacyyii/PoC-CVE-2021-41773 | | 
 
 
 # klee on Github 推荐
@@ -56,7 +56,8 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211007T11:32:18Z | 🎻 Automatic Exploit Generation (AEG) using symbolic execution | https://github.com/aesophor/requiem | 9 | 1| 
+| 20211007T22:56:26Z | 🎻 Automatic Exploit Generation (AEG) using symbolic execution | https://github.com/aesophor/requiem | 10 | 1| 
+| 20211007T16:36:05Z | Null | https://github.com/yuvalkirstain/s2e-coref | 16 | 6| 
 | 20211006T20:22:04Z | Group%s website code. | https://github.com/s2e-lab/s2e-lab.github.io | 0 | 0| 
 | 20211006T01:47:04Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 165 | 39| 
 
@@ -64,31 +65,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211007T12:52:59Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 22 | 14| 
-| 20211007T12:45:38Z | BioCCP.jl exploits the Coupon Collector Problem for sample size determination in combinatorial biotechnology. | https://github.com/kirstvh/BioCCP.jl | 4 | 0| 
-| 20211007T12:42:25Z | A python exploit that automatically defaces websites. | https://github.com/daethecat/Auto-Defacer | 0 | 0| 
-| 20211007T12:20:27Z | Combat + Exploit - Xall Client For Anarchy Servers | https://github.com/Leuxarik/XallClient | 0 | 0| 
-| 20211007T12:19:53Z | Collection of Discord hacking tools/fun stuff/exploits that is completely developed using NodeJS. | https://github.com/I2rys/ODiscord | 9 | 6| 
-| 20211007T12:03:16Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
-| 20211007T11:59:50Z | Exploit Development CheatSheet. | https://github.com/V0lk3n/OSED-CheatSheet | 0 | 4| 
-| 20211007T11:37:47Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITION | 2 | 0| 
-| 20211007T11:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10180 | 1718| 
-| 20211007T11:32:18Z | 🎻 Automatic Exploit Generation (AEG) using symbolic execution | https://github.com/aesophor/requiem | 9 | 1| 
+| 20211007T23:48:43Z | Null | https://github.com/OHomemParede/Exploits-for-Protostar | 0 | 0| 
+| 20211007T23:36:54Z | A post-exploitation kernel module that allows an attacker to edit files with little to no footprint. | https://github.com/mineo333/GhostFops | 0 | 0| 
+| 20211007T23:33:54Z | Null | https://github.com/kaktus087/exploit | 0 | 0| 
+| 20211007T23:27:44Z | Null | https://github.com/k4zo/my-probably-stolen-lua-exploits | 0 | 0| 
+| 20211007T23:27:38Z | Fun exploit | https://github.com/AlekKras/quick_exploit | 0 | 0| 
+| 20211007T23:27:31Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 8342 | 1442| 
+| 20211007T23:27:26Z | A Roblox exploiting hub, designed for multiple games and a plethora of executors. | https://github.com/ArcusHub/ArcusHub | 0 | 0| 
+| 20211007T23:01:01Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
+| 20211007T22:56:51Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 237 | 13| 
+| 20211007T22:39:39Z | An exploit for Team Fortress 2 | https://github.com/ShouxTech/TF2-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211007T23:05:55Z | a simple backdoor service(NOT FINISHED) AND IT WORKS | https://github.com/ranon-rat/yackdoor | 4 | 0| 
+| 20211007T22:11:47Z | Backdoor em PHP para uso educacional. Upload :heavy_check_mark: Acesse :heavy_check_mark: Seja o root :skull: | https://github.com/faculdade/be-root | 0 | 0| 
+| 20211007T20:32:06Z | Null | https://github.com/AnykeyNL/OCI-Cloudinit-Backdoors | 0 | 0| 
+| 20211007T20:15:19Z | cite from the reading list from THU | https://github.com/keyanUB/backdoor_reading | 0 | 0| 
+| 20211007T19:39:49Z | Null | https://github.com/nolascomalave/hc-web-without-backdoor | 0 | 0| 
+| 20211007T19:29:24Z | The given Python code is for a Reverse-Backdoor, that grants a User, Remote Code Execution access to a target computer. | https://github.com/iamKushGupta/Reverse-Backdoor-with-Listener | 1 | 0| 
+| 20211007T18:07:10Z | Official Implementation of ``Adversarial Unlearning of Backdoors via Implicit Hypergradient%% | https://github.com/YiZeng623/I-BAU_Adversarial_Unlearning_of-Backdoors_via_implicit_Hypergradient | 0 | 0| 
 | 20211007T12:53:36Z | A TCP Backdoor made in python | https://github.com/ferreiraklet/Tracey-Backdoor | 5 | 0| 
 | 20211007T12:37:33Z | Null | https://github.com/leo9722/backdoor-c | 0 | 0| 
 | 20211007T12:28:50Z | Null | https://github.com/leo9722/backdoor-py | 0 | 0| 
-| 20211007T11:43:14Z | unlock the advanced menu of Lenovo Yoga Slim 7 BIOS | https://github.com/esno/yoga-bios-unlock | 39 | 5| 
-| 20211007T09:11:16Z | backdoor checking system in garry%smod addons | https://github.com/YohSambre/braxscan | 0 | 0| 
-| 20211007T04:29:34Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 325 | 59| 
-| 20211007T03:25:58Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 101 | 20| 
-| 20211006T22:56:22Z | This project aims to understand ethical hacking techniques using python backdoor tool from scratch. The tests and procedures should only be executed on your own machines. If you%re planning to execute pwned-by on someone else%s machine, DO IT ETHICALLY! Ask for permission to conduct your activity with written instructions. Do not investigate someone else%s files without permission. I do not promote any harm to other people. Please use it at your own risk! Author will not be responsible for any damage! This project is for study purposes only. Enjoy hacking! | https://github.com/4stropotato/pwned-by | 2 | 0| 
-| 20211006T21:21:24Z | Null | https://github.com/nolascomalave/hc-web-without-backdoor | 0 | 0| 
-| 20211006T19:56:58Z | Null | https://github.com/MikhailNv/BackDoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
