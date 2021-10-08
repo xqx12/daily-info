@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211008T01:44:12Z | CVE-2021-41773 | CVE-2021-41773 的复现 | https://github.com/1nhann/CVE-2021-41773 | | 
 | 20211008T01:33:00Z | CVE-2021-41773 | CVE-2021-41773 playground | https://github.com/blasty/CVE-2021-41773 | | 
 | 20211008T01:32:54Z | cve-2021-41773 | Docker container  lab to play/learn with CVE-2021-41773 | https://github.com/htrgouvea/lab-cve-2021-41773 | | 
 | 20211008T01:20:28Z | CVE-2021-41773 | This a simple poc for Apache/2.4.49 Path Traversal Vulnerability | https://github.com/shellreaper/CVE-2021-41773 | | 
@@ -35,7 +36,6 @@
 | 20211007T22:58:43Z | cve-2021-3625 | Sample exploits for Zephyr CVE-2021-3625 | https://github.com/szymonh/zephyr_cve-2021-3625 | | 
 | 20211007T21:53:00Z | CVE-2021-41773 | Mass exploitation CVE-2021-41773 and auto detect possible RCE | https://github.com/Sakura-nee/CVE-2021-41773 | | 
 | 20211007T21:38:46Z | CVE-2021-40870 | Aviatrix allows an authenticated user to execute arbitrary code | https://github.com/oxctdev/CVE-2021-40870 | | 
-| 20211007T19:39:12Z | CVE-2021-41773 | Path Traversal vulnerability in Apache 2.4.49 | https://github.com/PentesterGuruji/CVE-2021-41773 | | 
 
 
 # klee on Github 推荐
