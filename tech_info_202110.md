@@ -65,7 +65,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211008T00:44:44Z | Challenges at school | https://github.com/kazuminn/exploitEdge | 0 | 0| 
+| 20211008T00:47:34Z | Challenges at school | https://github.com/kazuminn/exploitEdge | 0 | 0| 
 | 20211008T00:32:48Z | A python exploit that automatically defaces websites. | https://github.com/daethecat/Auto-Defacer | 0 | 0| 
 | 20211008T00:30:38Z | Exploit cwpk | https://github.com/SambasOnFire/Sti7111 | 1 | 0| 
 | 20211008T00:29:24Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 38 | 44| 
