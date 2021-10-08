@@ -117,6 +117,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211008T12:10:47Z | fuzz the linux kernel bpf verifier | https://github.com/snorez/ebpf-fuzzer | 21 | 3| 
 | 20211008T12:04:53Z | fuzzing 从入门到进阶，这里收录了经典的 fuzzing 书籍、历年安全顶会上有关 fuzzing 的经典论文、常用的 fuzzing 工具、可以快速入手 fuzzing 工具的博客。 | https://github.com/liyansong2018/fuzzing-tutorial | 17 | 2| 
 | 20211008T12:01:19Z | fuzzer http ( hackingyseguridad.com ) busca ficheros interesantes en un sitio web | https://github.com/hackingyseguridad/fuzzer | 0 | 1| 
 | 20211008T12:00:16Z | A symbolic-model-guided fuzzer for TLS | https://github.com/tlspuffin/tlspuffin | 1 | 0| 
@@ -126,7 +127,6 @@
 | 20211008T11:17:00Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 348 | 28| 
 | 20211008T11:05:42Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211008T11:05:08Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6711 | 1387| 
-| 20211008T10:37:48Z | A fuzzy search for Go structs using the Sørensen–Dice coefficient | https://github.com/elliottcarlson/fuzzydice | 0 | 0| 
 
 
 
