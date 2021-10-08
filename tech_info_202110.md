@@ -65,6 +65,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211008T12:37:01Z | Null | https://github.com/PorryDepTrai/exploit | 0 | 0| 
 | 20211008T12:33:58Z | Code for our NeurIPS 2021 paper %Exploiting the Intrinsic Neighborhood Structure for Source-free Domain Adaptation% | https://github.com/Albert0147/SFDA_neighbors | 6 | 0| 
 | 20211008T12:30:34Z | Null | https://github.com/PorryDepTrai/exploitmain | 0 | 0| 
 | 20211008T12:15:01Z | Exploits and research stuffs | https://github.com/wireghoul/sploit-dev | 49 | 28| 
@@ -74,7 +75,6 @@
 | 20211008T11:35:17Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10182 | 1718| 
 | 20211008T11:28:37Z | Experimental Go language CSGO exploit. | https://github.com/jamesmoriarty/gohack | 40 | 8| 
 | 20211008T11:23:08Z | I take no credit for this, all credit goes to Janrupf#6659 on discord or https://github.com/Janrupf. He created this as a proof of concept after I had commented on the MultiMC discord warning people of the exploit. This is designed to be just a proof of concept so a gui is not available | https://github.com/ItsYoungDaddy/Session-stealing-exploit | 4 | 0| 
-| 20211008T11:05:24Z | macos/ios exploit writeup | https://github.com/houjingyi233/macOS-iOS-system-security | 145 | 19| 
 
 
 # backdoor on Github 推荐
