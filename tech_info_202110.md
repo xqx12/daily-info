@@ -65,6 +65,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211008T00:05:41Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 38 | 44| 
 | 20211008T00:04:14Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
 | 20211007T23:48:43Z | Null | https://github.com/OHomemParede/Exploits-for-Protostar | 0 | 0| 
 | 20211007T23:36:54Z | A post-exploitation kernel module that allows an attacker to edit files with little to no footprint. | https://github.com/mineo333/GhostFops | 0 | 0| 
@@ -74,7 +75,6 @@
 | 20211007T23:27:31Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 8342 | 1442| 
 | 20211007T23:27:26Z | A Roblox exploiting hub, designed for multiple games and a plethora of executors. | https://github.com/ArcusHub/ArcusHub | 0 | 0| 
 | 20211007T22:56:51Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 237 | 13| 
-| 20211007T22:39:39Z | An exploit for Team Fortress 2 | https://github.com/ShouxTech/TF2-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -117,7 +117,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211008T00:05:27Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 29 | 11| 
+| 20211008T00:05:51Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 29 | 11| 
 | 20211007T23:44:35Z | WeightedAFL(WAFL) allows for weighted distribution sampling of byte locations for subsequent fuzzing. | https://github.com/sandialabs/wafl | 0 | 1| 
 | 20211007T23:18:04Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1084 | 82| 
 | 20211007T23:12:51Z | bash script to run from installation media to setup gentoo automagically | https://github.com/fjp321/fuzzy-goggles | 0 | 0| 
