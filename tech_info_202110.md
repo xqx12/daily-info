@@ -26,8 +26,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211008T12:29:46Z | cve-2021-41773 | Docker container  lab to play/learn with CVE-2021-41773 | https://github.com/htrgouvea/lab-cve-2021-41773 | | 
 | 20211008T12:15:53Z | CVE-2021-41773 | A Python script to check if an Apache web server is vulnerable to CVE-2021-41773 | https://github.com/b1tsec/CVE-2021-41773 | | 
-| 20211008T11:56:29Z | cve-2021-41773 | Docker container  lab to play/learn with CVE-2021-41773 | https://github.com/htrgouvea/lab-cve-2021-41773 | | 
 | 20211008T11:54:53Z | CVE-2021-42013 | Exploit with  integrated shodan search | https://github.com/andrea-mattioli/apache-exploit-CVE-2021-42013 | | 
 | 20211008T11:46:20Z | CVE-2021-41773 | Apache 2.4.49 | https://github.com/AssassinUKG/CVE-2021-41773 | | 
 | 20211008T11:18:52Z | cve-2021-41773 | MASS CVE-2021-41773 | https://github.com/justakazh/mass_cve-2021-41773 | | 
@@ -65,6 +65,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211008T12:30:34Z | Null | https://github.com/PorryDepTrai/exploitmain | 0 | 0| 
 | 20211008T12:15:01Z | Exploits and research stuffs | https://github.com/wireghoul/sploit-dev | 49 | 28| 
 | 20211008T12:07:42Z | Vous allez, avec l’aide d’une autre personne, réfléchir sur une idée d’application.Trouvez ensemble quelques sujets que vous pourrez exploiter pour votre idée d’application. Bien évidemment, vous pourrez faire une veille rapide pour voir s%il existe déjà des applications similaires. | https://github.com/MrGyo/UX_UI_Prototyper_App_Mobile | 1 | 0| 
 | 20211008T12:03:03Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
@@ -74,7 +75,6 @@
 | 20211008T11:23:08Z | I take no credit for this, all credit goes to Janrupf#6659 on discord or https://github.com/Janrupf. He created this as a proof of concept after I had commented on the MultiMC discord warning people of the exploit. This is designed to be just a proof of concept so a gui is not available | https://github.com/ItsYoungDaddy/Session-stealing-exploit | 4 | 0| 
 | 20211008T11:05:24Z | macos/ios exploit writeup | https://github.com/houjingyi233/macOS-iOS-system-security | 145 | 19| 
 | 20211008T11:03:25Z | Metasploit-Framework modules (scanner and exploit) for the CVE-2021-41773 and CVE-2021-42013 (Path Traversal in Apache 2.4.49/2.4.50) | https://github.com/Zeop-CyberSec/apache_normalize_path | 1 | 0| 
-| 20211008T10:53:39Z | Study Materials and Tools | https://github.com/rafaelh/exploits | 0 | 1| 
 
 
 # backdoor on Github 推荐
