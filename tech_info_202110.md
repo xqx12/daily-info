@@ -26,16 +26,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211008T01:14:14Z | CVE-2021-41773 | This a simple poc for Apache/2.4.49 Path Traversal Vulnerability | https://github.com/shellreaper/CVE-2021-41773 | | 
-| 20211008T01:13:31Z | CVE-2021-41773 | CVE-2021-41773 playground | https://github.com/blasty/CVE-2021-41773 | | 
-| 20211008T00:52:14Z | cve-2021-41773 | Docker container  lab to play/learn with CVE-2021-41773 | https://github.com/htrgouvea/lab-cve-2021-41773 | | 
+| 20211008T01:33:00Z | CVE-2021-41773 | CVE-2021-41773 playground | https://github.com/blasty/CVE-2021-41773 | | 
+| 20211008T01:32:54Z | cve-2021-41773 | Docker container  lab to play/learn with CVE-2021-41773 | https://github.com/htrgouvea/lab-cve-2021-41773 | | 
+| 20211008T01:20:28Z | CVE-2021-41773 | This a simple poc for Apache/2.4.49 Path Traversal Vulnerability | https://github.com/shellreaper/CVE-2021-41773 | | 
+| 20211008T01:15:42Z | CVE-2021-41773 | Null | https://github.com/LetouRaphael/Poc-CVE-2021-41773 | | 
 | 20211008T00:44:19Z | cve-2021-41773 | MASS CVE-2021-41773 | https://github.com/justakazh/mass_cve-2021-41773 | | 
 | 20211007T23:16:55Z | CVE-2021-26084 | CVE-2021-26084 - Confluence Server Webwork OGNL injection  | https://github.com/oxctdev/CVE-2021-26084 | | 
 | 20211007T22:58:43Z | cve-2021-3625 | Sample exploits for Zephyr CVE-2021-3625 | https://github.com/szymonh/zephyr_cve-2021-3625 | | 
 | 20211007T21:53:00Z | CVE-2021-41773 | Mass exploitation CVE-2021-41773 and auto detect possible RCE | https://github.com/Sakura-nee/CVE-2021-41773 | | 
 | 20211007T21:38:46Z | CVE-2021-40870 | Aviatrix allows an authenticated user to execute arbitrary code | https://github.com/oxctdev/CVE-2021-40870 | | 
 | 20211007T19:39:12Z | CVE-2021-41773 | Path Traversal vulnerability in Apache 2.4.49 | https://github.com/PentesterGuruji/CVE-2021-41773 | | 
-| 20211007T18:44:07Z | CVE-2021-42013 | Exploit with  integrated shodan search | https://github.com/andrea-mattioli/apache-exploit-CVE-2021-42013 | | 
 
 
 # klee on Github 推荐
@@ -65,6 +65,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211008T01:29:52Z | Aqui irei publicar meus futuros exploits :D | https://github.com/FDivisioon/exploits | 0 | 0| 
 | 20211008T01:12:43Z | Exploiting Causal Structure for Transportability in Online, Multi-Agent Environments | https://github.com/axelbrowne/ECS4TOMAE | 0 | 0| 
 | 20211008T01:03:37Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 8343 | 1442| 
 | 20211008T01:03:20Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
@@ -74,19 +75,18 @@
 | 20211008T00:29:24Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 38 | 45| 
 | 20211008T00:19:39Z | Collection of Discord hacking tools/fun stuff/exploits that is completely developed using NodeJS. | https://github.com/I2rys/ODiscord | 9 | 6| 
 | 20211007T23:48:43Z | Null | https://github.com/OHomemParede/Exploits-for-Protostar | 0 | 0| 
-| 20211007T23:36:54Z | A post-exploitation kernel module that allows an attacker to edit files with little to no footprint. | https://github.com/mineo333/GhostFops | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211008T00:57:25Z | a simple backdoor service(NOT FINISHED) AND IT WORKS | https://github.com/ranon-rat/yackdoor | 4 | 0| 
+| 20211008T01:25:47Z | a simple backdoor service(NOT FINISHED) AND IT WORKS | https://github.com/ranon-rat/yackdoor | 4 | 0| 
+| 20211008T01:17:51Z | Official Implementation of ``Adversarial Unlearning of Backdoors via Implicit Hypergradient%% | https://github.com/YiZeng623/I-BAU_Adversarial_Unlearning_of-Backdoors_via_implicit_Hypergradient | 1 | 0| 
 | 20211007T22:11:47Z | Backdoor em PHP para uso educacional. Upload :heavy_check_mark: Acesse :heavy_check_mark: Seja o root :skull: | https://github.com/faculdade/be-root | 0 | 0| 
 | 20211007T20:32:06Z | Null | https://github.com/AnykeyNL/OCI-Cloudinit-Backdoors | 0 | 0| 
 | 20211007T20:15:19Z | cite from the reading list from THU | https://github.com/keyanUB/backdoor_reading | 0 | 0| 
 | 20211007T19:39:49Z | Null | https://github.com/nolascomalave/hc-web-without-backdoor | 0 | 0| 
 | 20211007T19:29:24Z | The given Python code is for a Reverse-Backdoor, that grants a User, Remote Code Execution access to a target computer. | https://github.com/iamKushGupta/Reverse-Backdoor-with-Listener | 1 | 0| 
-| 20211007T18:07:10Z | Official Implementation of ``Adversarial Unlearning of Backdoors via Implicit Hypergradient%% | https://github.com/YiZeng623/I-BAU_Adversarial_Unlearning_of-Backdoors_via_implicit_Hypergradient | 0 | 0| 
 | 20211007T12:53:36Z | A TCP Backdoor made in python | https://github.com/ferreiraklet/Tracey-Backdoor | 5 | 0| 
 | 20211007T12:37:33Z | Null | https://github.com/leo9722/backdoor-c | 0 | 0| 
 | 20211007T12:28:50Z | Null | https://github.com/leo9722/backdoor-py | 0 | 0| 
@@ -95,9 +95,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211008T01:34:33Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 145 | 10| 
 | 20211007T23:40:59Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 31 | 7| 
 | 20211007T22:56:26Z | 🎻 Automatic Exploit Generation (AEG) using symbolic execution | https://github.com/aesophor/requiem | 10 | 1| 
-| 20211007T19:48:35Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 144 | 10| 
 | 20211007T17:08:22Z | A symbolic execution engine for Chisel circuits. | https://github.com/ekiwi/maltese | 0 | 1| 
 | 20211007T13:40:21Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 159 | 35| 
 | 20211006T23:37:25Z | This demo will show how Symbolic Execution solve the problem. | https://github.com/JeffShao96/Symbolic-NS3 | 1 | 3| 
