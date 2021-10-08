@@ -65,6 +65,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211008T00:30:38Z | Exploit cwpk | https://github.com/SambasOnFire/Sti7111 | 1 | 0| 
 | 20211008T00:29:24Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 38 | 44| 
 | 20211008T00:19:39Z | Collection of Discord hacking tools/fun stuff/exploits that is completely developed using NodeJS. | https://github.com/I2rys/ODiscord | 9 | 6| 
 | 20211008T00:04:14Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
@@ -74,7 +75,6 @@
 | 20211007T23:27:44Z | Null | https://github.com/k4zo/my-probably-stolen-lua-exploits | 0 | 0| 
 | 20211007T23:27:38Z | Fun exploit | https://github.com/AlekKras/quick_exploit | 0 | 0| 
 | 20211007T23:27:31Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 8342 | 1442| 
-| 20211007T23:27:26Z | A Roblox exploiting hub, designed for multiple games and a plethora of executors. | https://github.com/ArcusHub/ArcusHub | 0 | 0| 
 
 
 # backdoor on Github 推荐
