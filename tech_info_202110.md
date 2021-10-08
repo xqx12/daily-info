@@ -117,6 +117,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211008T12:50:05Z | Null | https://github.com/p1erhs/fuzzi | 0 | 0| 
 | 20211008T12:47:56Z | A symbolic-model-guided fuzzer for TLS | https://github.com/tlspuffin/tlspuffin | 2 | 0| 
 | 20211008T12:46:34Z | Null | https://github.com/oscarpimentel/fuzzy-tools | 0 | 0| 
 | 20211008T12:44:26Z | Insert in Bash or ZSH a fuzzily found command-line, file or (recent) directory path at the cursor position. | https://github.com/Konfekt/fuzzyfinders.sh | 2 | 0| 
@@ -126,7 +127,6 @@
 | 20211008T12:18:41Z | Null | https://github.com/eureka-sun/fuzzy-umbrella | 1 | 0| 
 | 20211008T12:15:16Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 29 | 11| 
 | 20211008T12:04:53Z | fuzzing 从入门到进阶，这里收录了经典的 fuzzing 书籍、历年安全顶会上有关 fuzzing 的经典论文、常用的 fuzzing 工具、可以快速入手 fuzzing 工具的博客。 | https://github.com/liyansong2018/fuzzing-tutorial | 17 | 2| 
-| 20211008T12:01:19Z | fuzzer http ( hackingyseguridad.com ) busca ficheros interesantes en un sitio web | https://github.com/hackingyseguridad/fuzzer | 0 | 1| 
 
 
 
