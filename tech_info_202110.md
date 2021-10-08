@@ -26,9 +26,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211008T00:58:19Z | CVE-2021-41773 | CVE-2021-41773 playground | https://github.com/blasty/CVE-2021-41773 | | 
 | 20211008T00:52:14Z | cve-2021-41773 | Docker container  lab to play/learn with CVE-2021-41773 | https://github.com/htrgouvea/lab-cve-2021-41773 | | 
 | 20211008T00:44:19Z | cve-2021-41773 | MASS CVE-2021-41773 | https://github.com/justakazh/mass_cve-2021-41773 | | 
-| 20211008T00:39:17Z | CVE-2021-41773 | CVE-2021-41773 playground | https://github.com/blasty/CVE-2021-41773 | | 
 | 20211007T23:16:55Z | CVE-2021-26084 | CVE-2021-26084 - Confluence Server Webwork OGNL injection  | https://github.com/oxctdev/CVE-2021-26084 | | 
 | 20211007T22:58:43Z | cve-2021-3625 | Sample exploits for Zephyr CVE-2021-3625 | https://github.com/szymonh/zephyr_cve-2021-3625 | | 
 | 20211007T21:53:00Z | CVE-2021-41773 | Mass exploitation CVE-2021-41773 and auto detect possible RCE | https://github.com/Sakura-nee/CVE-2021-41773 | | 
@@ -80,7 +80,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211008T00:24:33Z | a simple backdoor service(NOT FINISHED) AND IT WORKS | https://github.com/ranon-rat/yackdoor | 4 | 0| 
+| 20211008T00:57:25Z | a simple backdoor service(NOT FINISHED) AND IT WORKS | https://github.com/ranon-rat/yackdoor | 4 | 0| 
 | 20211007T22:11:47Z | Backdoor em PHP para uso educacional. Upload :heavy_check_mark: Acesse :heavy_check_mark: Seja o root :skull: | https://github.com/faculdade/be-root | 0 | 0| 
 | 20211007T20:32:06Z | Null | https://github.com/AnykeyNL/OCI-Cloudinit-Backdoors | 0 | 0| 
 | 20211007T20:15:19Z | cite from the reading list from THU | https://github.com/keyanUB/backdoor_reading | 0 | 0| 
@@ -117,10 +117,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211008T00:56:50Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1084 | 82| 
 | 20211008T00:14:59Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211008T00:10:01Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 29 | 11| 
 | 20211007T23:44:35Z | WeightedAFL(WAFL) allows for weighted distribution sampling of byte locations for subsequent fuzzing. | https://github.com/sandialabs/wafl | 0 | 1| 
-| 20211007T23:18:04Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1084 | 82| 
 | 20211007T23:12:51Z | bash script to run from installation media to setup gentoo automagically | https://github.com/fjp321/fuzzy-goggles | 0 | 0| 
 | 20211007T22:19:41Z | Null | https://github.com/eureka-sun/fuzzy-umbrella | 1 | 0| 
 | 20211007T22:13:33Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 305 | 39| 
