@@ -26,12 +26,12 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211008T00:13:23Z | cve-2021-41773 | MASS CVE-2021-41773 | https://github.com/justakazh/mass_cve-2021-41773 | | 
 | 20211008T00:08:00Z | cve-2021-41773 | Docker container  lab to play/learn with CVE-2021-41773 | https://github.com/htrgouvea/lab-cve-2021-41773 | | 
 | 20211007T23:16:55Z | CVE-2021-26084 | CVE-2021-26084 - Confluence Server Webwork OGNL injection  | https://github.com/oxctdev/CVE-2021-26084 | | 
 | 20211007T22:58:43Z | cve-2021-3625 | Sample exploits for Zephyr CVE-2021-3625 | https://github.com/szymonh/zephyr_cve-2021-3625 | | 
 | 20211007T21:53:00Z | CVE-2021-41773 | Mass exploitation CVE-2021-41773 and auto detect possible RCE | https://github.com/Sakura-nee/CVE-2021-41773 | | 
 | 20211007T21:38:46Z | CVE-2021-40870 | Aviatrix allows an authenticated user to execute arbitrary code | https://github.com/oxctdev/CVE-2021-40870 | | 
-| 20211007T20:16:18Z | cve-2021-41773 | MASS CVE-2021-41773 | https://github.com/justakazh/mass_cve-2021-41773 | | 
 | 20211007T20:11:02Z | CVE-2021-41773 | CVE-2021-41773 playground | https://github.com/blasty/CVE-2021-41773 | | 
 | 20211007T19:39:12Z | CVE-2021-41773 | Path Traversal vulnerability in Apache 2.4.49 | https://github.com/PentesterGuruji/CVE-2021-41773 | | 
 | 20211007T18:44:07Z | CVE-2021-42013 | Exploit with  integrated shodan search | https://github.com/andrea-mattioli/apache-exploit-CVE-2021-42013 | | 
@@ -117,7 +117,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211008T00:05:51Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 29 | 11| 
+| 20211008T00:10:01Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 29 | 11| 
 | 20211007T23:44:35Z | WeightedAFL(WAFL) allows for weighted distribution sampling of byte locations for subsequent fuzzing. | https://github.com/sandialabs/wafl | 0 | 1| 
 | 20211007T23:18:04Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1084 | 82| 
 | 20211007T23:12:51Z | bash script to run from installation media to setup gentoo automagically | https://github.com/fjp321/fuzzy-goggles | 0 | 0| 
