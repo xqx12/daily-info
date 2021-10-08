@@ -82,9 +82,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211008T12:22:14Z | URL_Sniff is a URL-Fuzzer that uses a chosen word list of relative paths and test them against a chosen addresses. It%s a great way to find hidden directories and files. It also gives you a better understanding of the targets directory structure. | https://github.com/mm-Ax0/URL_Sniff | 0 | 0| 
 | 20211008T12:19:08Z | Fast as Flash Web URL Fuzzing tool written in golang. | https://github.com/souvikinator/gofuzz | 23 | 5| 
 | 20211008T12:18:41Z | Null | https://github.com/eureka-sun/fuzzy-umbrella | 1 | 0| 
-| 20211008T12:16:37Z | URL_Sniff is a URL-Fuzzer that uses a chosen word list of relative paths and test them against a chosen addresses. It%s a great way to find hidden directories and files. It also gives you a better understanding of the targets directory structure. | https://github.com/mm-Ax0/URL_Sniff | 0 | 0| 
 | 20211008T12:15:16Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 29 | 11| 
 | 20211008T12:10:47Z | fuzz the linux kernel bpf verifier | https://github.com/snorez/ebpf-fuzzer | 21 | 3| 
 | 20211008T12:04:53Z | fuzzing 从入门到进阶，这里收录了经典的 fuzzing 书籍、历年安全顶会上有关 fuzzing 的经典论文、常用的 fuzzing 工具、可以快速入手 fuzzing 工具的博客。 | https://github.com/liyansong2018/fuzzing-tutorial | 17 | 2| 
