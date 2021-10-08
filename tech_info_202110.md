@@ -26,10 +26,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211008T01:57:22Z | CVE-2021-41773 | CVE-2021-41773 playground | https://github.com/blasty/CVE-2021-41773 | | 
+| 20211008T02:06:22Z | cve-2021-41773 | Docker container  lab to play/learn with CVE-2021-41773 | https://github.com/htrgouvea/lab-cve-2021-41773 | | 
+| 20211008T02:05:44Z | CVE-2021-41773 | CVE-2021-41773 playground | https://github.com/blasty/CVE-2021-41773 | | 
 | 20211008T01:55:25Z | cve-2021-41773 | Null | https://github.com/mohwahyudi/cve-2021-41773 | | 
 | 20211008T01:44:12Z | CVE-2021-41773 | CVE-2021-41773 的复现 | https://github.com/1nhann/CVE-2021-41773 | | 
-| 20211008T01:32:54Z | cve-2021-41773 | Docker container  lab to play/learn with CVE-2021-41773 | https://github.com/htrgouvea/lab-cve-2021-41773 | | 
 | 20211008T01:20:28Z | CVE-2021-41773 | This a simple poc for Apache/2.4.49 Path Traversal Vulnerability | https://github.com/shellreaper/CVE-2021-41773 | | 
 | 20211008T01:15:42Z | CVE-2021-41773 | Null | https://github.com/LetouRaphael/Poc-CVE-2021-41773 | | 
 | 20211008T00:44:19Z | cve-2021-41773 | MASS CVE-2021-41773 | https://github.com/justakazh/mass_cve-2021-41773 | | 
@@ -65,16 +65,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211008T02:08:52Z | bad robox ui lib | https://github.com/ceat-ceat/ScriptPanelv2 | 0 | 1| 
+| 20211008T02:05:30Z | macos/ios exploit writeup | https://github.com/houjingyi233/macOS-iOS-system-security | 145 | 19| 
+| 20211008T02:03:35Z | Patch for Waterfall to improve performance during attacks and fix memory issues. | https://github.com/2lstudios-mc/FlameCord | 74 | 43| 
+| 20211008T02:03:30Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
 | 20211008T01:54:09Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 39 | 46| 
 | 20211008T01:40:17Z | CMS Detection and Exploitation suite - Scan WordPress, Joomla, Drupal and over 180 other CMSs | https://github.com/Sorrok-Exploit/CMSeeK | 5 | 1| 
 | 20211008T01:29:52Z | Aqui irei publicar meus futuros exploits :D | https://github.com/FDivisioon/exploits | 0 | 0| 
 | 20211008T01:12:43Z | Exploiting Causal Structure for Transportability in Online, Multi-Agent Environments | https://github.com/axelbrowne/ECS4TOMAE | 0 | 0| 
 | 20211008T01:03:37Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 8343 | 1442| 
-| 20211008T01:03:20Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
 | 20211008T00:54:45Z | Challenges at school | https://github.com/kazuminn/exploitEdge | 0 | 0| 
-| 20211008T00:54:31Z | Exploit cwpk | https://github.com/SambasOnFire/Sti7111 | 1 | 0| 
-| 20211008T00:32:48Z | A python exploit that automatically defaces websites. | https://github.com/daethecat/Auto-Defacer | 0 | 0| 
-| 20211008T00:19:39Z | Collection of Discord hacking tools/fun stuff/exploits that is completely developed using NodeJS. | https://github.com/I2rys/ODiscord | 9 | 6| 
 
 
 # backdoor on Github 推荐
