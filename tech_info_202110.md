@@ -65,7 +65,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211008T00:24:48Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 38 | 44| 
+| 20211008T00:28:34Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 38 | 44| 
 | 20211008T00:19:39Z | Collection of Discord hacking tools/fun stuff/exploits that is completely developed using NodeJS. | https://github.com/I2rys/ODiscord | 9 | 6| 
 | 20211008T00:04:14Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
 | 20211007T23:48:43Z | Null | https://github.com/OHomemParede/Exploits-for-Protostar | 0 | 0| 
