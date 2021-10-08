@@ -65,7 +65,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211008T00:06:54Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 38 | 44| 
+| 20211008T00:10:58Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 38 | 44| 
 | 20211008T00:04:14Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
 | 20211007T23:48:43Z | Null | https://github.com/OHomemParede/Exploits-for-Protostar | 0 | 0| 
 | 20211007T23:36:54Z | A post-exploitation kernel module that allows an attacker to edit files with little to no footprint. | https://github.com/mineo333/GhostFops | 0 | 0| 
