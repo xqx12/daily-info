@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211008T12:47:48Z | CVE-2021-41773 | exploit to CVE-2021-41773 | https://github.com/n3k00n3/CVE-2021-41773 | | 
 | 20211008T12:45:52Z | CVE-2021-41773 | Apache 2.4.49 | https://github.com/AssassinUKG/CVE-2021-41773 | | 
 | 20211008T12:29:46Z | cve-2021-41773 | Docker container  lab to play/learn with CVE-2021-41773 | https://github.com/htrgouvea/lab-cve-2021-41773 | | 
 | 20211008T12:15:53Z | CVE-2021-41773 | A Python script to check if an Apache web server is vulnerable to CVE-2021-41773 | https://github.com/b1tsec/CVE-2021-41773 | | 
@@ -35,7 +36,6 @@
 | 20211008T10:42:08Z | CVE-2020-1938 | -H 192.168.1.1-192.168.5.255 | https://github.com/einzbernnn/CVE-2020-1938Scan | | 
 | 20211008T10:26:40Z | CVE-2021-41773 | CVE-2021-41773 | https://github.com/ComdeyOverFlow/CVE-2021-41773 | | 
 | 20211008T09:10:42Z | CVE-2021-41773 | Fast python tool to test apache path traversal CVE-2021-41773 in a List of url  | https://github.com/zeronine9/CVE-2021-41773 | | 
-| 20211008T08:50:05Z | CVE-2021-40870 | Null | https://github.com/0xAgun/CVE-2021-40870 | | 
 
 
 # klee on Github 推荐
