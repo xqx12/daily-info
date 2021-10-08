@@ -61,7 +61,6 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211007T23:05:55Z | a simple backdoor service(NOT FINISHED) AND IT WORKS | https://github.com/ranon-rat/yackdoor | 4 | 0| 
 | 20211007T22:11:47Z | Backdoor em PHP para uso educacional. Upload :heavy_check_mark: Acesse :heavy_check_mark: Seja o root :skull: | https://github.com/faculdade/be-root | 0 | 0| 
 | 20211007T20:32:06Z | Null | https://github.com/AnykeyNL/OCI-Cloudinit-Backdoors | 0 | 0| 
 | 20211007T20:15:19Z | cite from the reading list from THU | https://github.com/keyanUB/backdoor_reading | 0 | 0| 
@@ -71,6 +70,7 @@
 | 20211007T12:53:36Z | A TCP Backdoor made in python | https://github.com/ferreiraklet/Tracey-Backdoor | 5 | 0| 
 | 20211007T12:37:33Z | Null | https://github.com/leo9722/backdoor-c | 0 | 0| 
 | 20211007T12:28:50Z | Null | https://github.com/leo9722/backdoor-py | 0 | 0| 
+| 20211007T11:43:14Z | unlock the advanced menu of Lenovo Yoga Slim 7 BIOS | https://github.com/esno/yoga-bios-unlock | 39 | 5| 
 
 
 # symbolic execution on Github 推荐
