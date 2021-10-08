@@ -65,16 +65,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211008T01:03:37Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 8343 | 1442| 
+| 20211008T01:03:20Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
 | 20211008T00:54:45Z | Challenges at school | https://github.com/kazuminn/exploitEdge | 0 | 0| 
 | 20211008T00:54:31Z | Exploit cwpk | https://github.com/SambasOnFire/Sti7111 | 1 | 0| 
 | 20211008T00:32:48Z | A python exploit that automatically defaces websites. | https://github.com/daethecat/Auto-Defacer | 0 | 0| 
 | 20211008T00:29:24Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 38 | 44| 
 | 20211008T00:19:39Z | Collection of Discord hacking tools/fun stuff/exploits that is completely developed using NodeJS. | https://github.com/I2rys/ODiscord | 9 | 6| 
-| 20211008T00:04:14Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
 | 20211007T23:48:43Z | Null | https://github.com/OHomemParede/Exploits-for-Protostar | 0 | 0| 
 | 20211007T23:36:54Z | A post-exploitation kernel module that allows an attacker to edit files with little to no footprint. | https://github.com/mineo333/GhostFops | 0 | 0| 
 | 20211007T23:33:54Z | Null | https://github.com/kaktus087/exploit | 0 | 0| 
-| 20211007T23:27:44Z | Null | https://github.com/k4zo/my-probably-stolen-lua-exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐

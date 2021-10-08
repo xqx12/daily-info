@@ -51,11 +51,11 @@
 | 20211007T23:33:54Z | Null | https://github.com/kaktus087/exploit | 0 | 0| 
 | 20211007T23:27:44Z | Null | https://github.com/k4zo/my-probably-stolen-lua-exploits | 0 | 0| 
 | 20211007T23:27:38Z | Fun exploit | https://github.com/AlekKras/quick_exploit | 0 | 0| 
-| 20211007T23:27:31Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 8342 | 1442| 
 | 20211007T23:27:26Z | A Roblox exploiting hub, designed for multiple games and a plethora of executors. | https://github.com/ArcusHub/ArcusHub | 0 | 0| 
 | 20211007T22:56:51Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 237 | 13| 
 | 20211007T22:39:39Z | An exploit for Team Fortress 2 | https://github.com/ShouxTech/TF2-Exploit | 0 | 0| 
 | 20211007T22:02:33Z | Learn Binary Exploitation with sample problems. | https://github.com/Adamkadaban/LearnPwn | 1 | 0| 
+| 20211007T21:53:00Z | Mass exploitation CVE-2021-41773 and auto detect possible RCE | https://github.com/Sakura-nee/CVE-2021-41773 | 0 | 0| 
 
 
 # backdoor on Github 推荐
