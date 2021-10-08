@@ -43,6 +43,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211008T12:03:03Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
 | 20211008T11:58:07Z | Vous allez, avec l’aide d’une autre personne, réfléchir sur une idée d’application.Trouvez ensemble quelques sujets que vous pourrez exploiter pour votre idée d’application. Bien évidemment, vous pourrez faire une veille rapide pour voir s%il existe déjà des applications similaires. | https://github.com/MrGyo/UX_UI_Prototyper_App_Mobile | 1 | 0| 
 | 20211008T11:54:53Z | Exploit with  integrated shodan search | https://github.com/andrea-mattioli/apache-exploit-CVE-2021-42013 | 1 | 1| 
 | 20211008T11:35:17Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10182 | 1718| 
@@ -50,7 +51,6 @@
 | 20211008T11:23:08Z | I take no credit for this, all credit goes to Janrupf#6659 on discord or https://github.com/Janrupf. He created this as a proof of concept after I had commented on the MultiMC discord warning people of the exploit. This is designed to be just a proof of concept so a gui is not available | https://github.com/ItsYoungDaddy/Session-stealing-exploit | 4 | 0| 
 | 20211008T11:05:24Z | macos/ios exploit writeup | https://github.com/houjingyi233/macOS-iOS-system-security | 145 | 19| 
 | 20211008T11:03:25Z | Metasploit-Framework modules (scanner and exploit) for the CVE-2021-41773 and CVE-2021-42013 (Path Traversal in Apache 2.4.49/2.4.50) | https://github.com/Zeop-CyberSec/apache_normalize_path | 1 | 0| 
-| 20211008T11:03:10Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
 | 20211008T10:53:39Z | Study Materials and Tools | https://github.com/rafaelh/exploits | 0 | 1| 
 | 20211008T10:11:21Z | Collection of Discord hacking tools/fun stuff/exploits that is completely developed using NodeJS. | https://github.com/I2rys/ODiscord | 9 | 6| 
 
@@ -68,7 +68,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211008T01:34:33Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 145 | 10| 
+| 20211008T10:39:41Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 159 | 36| 
+| 20211008T05:46:48Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 166 | 39| 
+| 20211008T03:23:54Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 145 | 10| 
+| 20211008T01:47:44Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 32 | 8| 
 
 
 # big4 on Github 推荐
