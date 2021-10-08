@@ -43,6 +43,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211008T12:15:01Z | Exploits and research stuffs | https://github.com/wireghoul/sploit-dev | 49 | 28| 
 | 20211008T12:07:42Z | Vous allez, avec l’aide d’une autre personne, réfléchir sur une idée d’application.Trouvez ensemble quelques sujets que vous pourrez exploiter pour votre idée d’application. Bien évidemment, vous pourrez faire une veille rapide pour voir s%il existe déjà des applications similaires. | https://github.com/MrGyo/UX_UI_Prototyper_App_Mobile | 1 | 0| 
 | 20211008T12:03:03Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
 | 20211008T11:54:53Z | Exploit with  integrated shodan search | https://github.com/andrea-mattioli/apache-exploit-CVE-2021-42013 | 1 | 1| 
@@ -52,7 +53,6 @@
 | 20211008T11:05:24Z | macos/ios exploit writeup | https://github.com/houjingyi233/macOS-iOS-system-security | 145 | 19| 
 | 20211008T11:03:25Z | Metasploit-Framework modules (scanner and exploit) for the CVE-2021-41773 and CVE-2021-42013 (Path Traversal in Apache 2.4.49/2.4.50) | https://github.com/Zeop-CyberSec/apache_normalize_path | 1 | 0| 
 | 20211008T10:53:39Z | Study Materials and Tools | https://github.com/rafaelh/exploits | 0 | 1| 
-| 20211008T10:11:21Z | Collection of Discord hacking tools/fun stuff/exploits that is completely developed using NodeJS. | https://github.com/I2rys/ODiscord | 9 | 6| 
 
 
 # backdoor on Github 推荐
@@ -82,6 +82,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211008T12:19:08Z | Fast as Flash Web URL Fuzzing tool written in golang. | https://github.com/souvikinator/gofuzz | 23 | 5| 
+| 20211008T12:18:41Z | Null | https://github.com/eureka-sun/fuzzy-umbrella | 1 | 0| 
 | 20211008T12:16:37Z | URL_Sniff is a URL-Fuzzer that uses a chosen word list of relative paths and test them against a chosen addresses. It%s a great way to find hidden directories and files. It also gives you a better understanding of the targets directory structure. | https://github.com/mm-Ax0/URL_Sniff | 0 | 0| 
 | 20211008T12:15:16Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 29 | 11| 
 | 20211008T12:10:47Z | fuzz the linux kernel bpf verifier | https://github.com/snorez/ebpf-fuzzer | 21 | 3| 
@@ -90,8 +92,6 @@
 | 20211008T12:00:16Z | A symbolic-model-guided fuzzer for TLS | https://github.com/tlspuffin/tlspuffin | 1 | 0| 
 | 20211008T11:58:23Z | polish fuzzy lop - fuzzer for libraries/APIs/* | https://github.com/LogicalTrust/minerva_lib | 24 | 6| 
 | 20211008T11:48:07Z | Planning tool | https://github.com/HappyDustbunny/FuzzyFlexx | 1 | 0| 
-| 20211008T11:26:36Z | Null | https://github.com/MariusVanDerWijden/merge-fuzz | 0 | 0| 
-| 20211008T11:17:00Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 348 | 28| 
 
 
 
