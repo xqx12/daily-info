@@ -26,22 +26,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211008T02:06:22Z | cve-2021-41773 | Docker container  lab to play/learn with CVE-2021-41773 | https://github.com/htrgouvea/lab-cve-2021-41773 | | 
-| 20211008T02:05:44Z | CVE-2021-41773 | CVE-2021-41773 playground | https://github.com/blasty/CVE-2021-41773 | | 
-| 20211008T01:55:25Z | cve-2021-41773 | Null | https://github.com/mohwahyudi/cve-2021-41773 | | 
-| 20211008T01:44:12Z | CVE-2021-41773 | CVE-2021-41773 的复现 | https://github.com/1nhann/CVE-2021-41773 | | 
-| 20211008T01:20:28Z | CVE-2021-41773 | This a simple poc for Apache/2.4.49 Path Traversal Vulnerability | https://github.com/shellreaper/CVE-2021-41773 | | 
-| 20211008T01:15:42Z | CVE-2021-41773 | Null | https://github.com/LetouRaphael/Poc-CVE-2021-41773 | | 
-| 20211008T00:44:19Z | cve-2021-41773 | MASS CVE-2021-41773 | https://github.com/justakazh/mass_cve-2021-41773 | | 
-| 20211007T23:16:55Z | CVE-2021-26084 | CVE-2021-26084 - Confluence Server Webwork OGNL injection  | https://github.com/oxctdev/CVE-2021-26084 | | 
-| 20211007T22:58:43Z | cve-2021-3625 | Sample exploits for Zephyr CVE-2021-3625 | https://github.com/szymonh/zephyr_cve-2021-3625 | | 
-| 20211007T21:53:00Z | CVE-2021-41773 | Mass exploitation CVE-2021-41773 and auto detect possible RCE | https://github.com/Sakura-nee/CVE-2021-41773 | | 
+| 20211008T11:56:29Z | cve-2021-41773 | Docker container  lab to play/learn with CVE-2021-41773 | https://github.com/htrgouvea/lab-cve-2021-41773 | | 
+| 20211008T11:54:53Z | CVE-2021-42013 | Exploit with  integrated shodan search | https://github.com/andrea-mattioli/apache-exploit-CVE-2021-42013 | | 
+| 20211008T11:46:20Z | CVE-2021-41773 | Apache 2.4.49 | https://github.com/AssassinUKG/CVE-2021-41773 | | 
+| 20211008T11:18:52Z | cve-2021-41773 | MASS CVE-2021-41773 | https://github.com/justakazh/mass_cve-2021-41773 | | 
+| 20211008T11:09:09Z | cve-2021-42013 | Apache 2.4.50 Path traversal vulnerability | https://github.com/Vulnmachines/cve-2021-42013 | | 
+| 20211008T10:42:08Z | CVE-2020-1938 | -H 192.168.1.1-192.168.5.255 | https://github.com/einzbernnn/CVE-2020-1938Scan | | 
+| 20211008T10:26:40Z | CVE-2021-41773 | CVE-2021-41773 | https://github.com/ComdeyOverFlow/CVE-2021-41773 | | 
+| 20211008T09:10:42Z | CVE-2021-41773 | Fast python tool to test apache path traversal CVE-2021-41773 in a List of url  | https://github.com/zeronine9/CVE-2021-41773 | | 
+| 20211008T08:50:05Z | CVE-2021-40870 | Null | https://github.com/0xAgun/CVE-2021-40870 | | 
+| 20211008T08:38:15Z | CVE-2021-41773 | A Python script to check if an Apache web server is vulnerable to CVE-2021-41773 | https://github.com/b1tsec/CVE-2021-41773 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211008T01:07:09Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2824 | 74| 
+| 20211008T09:48:53Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2826 | 74| 
 | 20211006T10:58:26Z | This font is based on the font Klee One by Fontworks, and the font LXGW WenKai by LXGW for adding Simplified and Traditional Chinese character glyphs. The pinyin characters are added by ToneOZ.com using the open source tool Mengshen, with the IVS heteronyms font concept from the Bopomofo IVS by But Ko. | https://github.com/jeffreyxuan/toneoz-font-pinyin-wenkai | 6 | 0| 
 | 20211006T10:06:18Z | Null | https://github.com/giffyonyinye/kleenMyRide | 0 | 0| 
 | 20211005T22:58:32Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
@@ -56,40 +56,40 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211007T22:56:26Z | 🎻 Automatic Exploit Generation (AEG) using symbolic execution | https://github.com/aesophor/requiem | 10 | 1| 
+| 20211008T05:46:48Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 166 | 39| 
+| 20211007T22:56:26Z | 🎻 Automatic Exploit Generation (AEG) using symbolic execution | https://github.com/aesophor/requiem | 10 | 2| 
 | 20211007T16:36:05Z | Null | https://github.com/yuvalkirstain/s2e-coref | 16 | 6| 
 | 20211006T20:22:04Z | Group%s website code. | https://github.com/s2e-lab/s2e-lab.github.io | 0 | 0| 
-| 20211006T01:47:04Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 165 | 39| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211008T02:08:52Z | bad robox ui lib | https://github.com/ceat-ceat/ScriptPanelv2 | 0 | 1| 
-| 20211008T02:05:30Z | macos/ios exploit writeup | https://github.com/houjingyi233/macOS-iOS-system-security | 145 | 19| 
-| 20211008T02:03:35Z | Patch for Waterfall to improve performance during attacks and fix memory issues. | https://github.com/2lstudios-mc/FlameCord | 74 | 43| 
-| 20211008T02:03:30Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
-| 20211008T01:54:09Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 39 | 46| 
-| 20211008T01:40:17Z | CMS Detection and Exploitation suite - Scan WordPress, Joomla, Drupal and over 180 other CMSs | https://github.com/Sorrok-Exploit/CMSeeK | 5 | 1| 
-| 20211008T01:29:52Z | Aqui irei publicar meus futuros exploits :D | https://github.com/FDivisioon/exploits | 0 | 0| 
-| 20211008T01:12:43Z | Exploiting Causal Structure for Transportability in Online, Multi-Agent Environments | https://github.com/axelbrowne/ECS4TOMAE | 0 | 0| 
-| 20211008T01:03:37Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 8343 | 1442| 
-| 20211008T00:54:45Z | Challenges at school | https://github.com/kazuminn/exploitEdge | 0 | 0| 
+| 20211008T11:58:07Z | Vous allez, avec l’aide d’une autre personne, réfléchir sur une idée d’application.Trouvez ensemble quelques sujets que vous pourrez exploiter pour votre idée d’application. Bien évidemment, vous pourrez faire une veille rapide pour voir s%il existe déjà des applications similaires. | https://github.com/MrGyo/UX_UI_Prototyper_App_Mobile | 1 | 0| 
+| 20211008T11:54:53Z | Exploit with  integrated shodan search | https://github.com/andrea-mattioli/apache-exploit-CVE-2021-42013 | 1 | 1| 
+| 20211008T11:35:17Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10182 | 1718| 
+| 20211008T11:28:37Z | Experimental Go language CSGO exploit. | https://github.com/jamesmoriarty/gohack | 40 | 8| 
+| 20211008T11:23:08Z | I take no credit for this, all credit goes to Janrupf#6659 on discord or https://github.com/Janrupf. He created this as a proof of concept after I had commented on the MultiMC discord warning people of the exploit. This is designed to be just a proof of concept so a gui is not available | https://github.com/ItsYoungDaddy/Session-stealing-exploit | 4 | 0| 
+| 20211008T11:05:24Z | macos/ios exploit writeup | https://github.com/houjingyi233/macOS-iOS-system-security | 145 | 19| 
+| 20211008T11:03:25Z | Metasploit-Framework modules (scanner and exploit) for the CVE-2021-41773 and CVE-2021-42013 (Path Traversal in Apache 2.4.49/2.4.50) | https://github.com/Zeop-CyberSec/apache_normalize_path | 1 | 0| 
+| 20211008T11:03:10Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
+| 20211008T10:53:39Z | Study Materials and Tools | https://github.com/rafaelh/exploits | 0 | 1| 
+| 20211008T10:11:21Z | Collection of Discord hacking tools/fun stuff/exploits that is completely developed using NodeJS. | https://github.com/I2rys/ODiscord | 9 | 6| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211008T09:21:00Z | A simple yet efficient backdoor in php. Made from scratch by me. | https://github.com/ThatDevCrypt/Backdoor | 0 | 0| 
+| 20211008T04:52:01Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 101 | 20| 
+| 20211008T04:18:29Z | Null | https://github.com/rafa0712/Python-backdoor | 0 | 0| 
+| 20211008T02:51:58Z | Official Implementation of ``Adversarial Unlearning of Backdoors via Implicit Hypergradient%% | https://github.com/YiZeng623/I-BAU_Adversarial_Unlearning_of-Backdoors_via_implicit_Hypergradient | 2 | 0| 
 | 20211008T01:25:47Z | a simple backdoor service(NOT FINISHED) AND IT WORKS | https://github.com/ranon-rat/yackdoor | 4 | 0| 
-| 20211008T01:17:51Z | Official Implementation of ``Adversarial Unlearning of Backdoors via Implicit Hypergradient%% | https://github.com/YiZeng623/I-BAU_Adversarial_Unlearning_of-Backdoors_via_implicit_Hypergradient | 1 | 0| 
 | 20211007T22:11:47Z | Backdoor em PHP para uso educacional. Upload :heavy_check_mark: Acesse :heavy_check_mark: Seja o root :skull: | https://github.com/faculdade/be-root | 0 | 0| 
 | 20211007T20:32:06Z | Null | https://github.com/AnykeyNL/OCI-Cloudinit-Backdoors | 0 | 0| 
 | 20211007T20:15:19Z | cite from the reading list from THU | https://github.com/keyanUB/backdoor_reading | 0 | 0| 
 | 20211007T19:39:49Z | Null | https://github.com/nolascomalave/hc-web-without-backdoor | 0 | 0| 
 | 20211007T19:29:24Z | The given Python code is for a Reverse-Backdoor, that grants a User, Remote Code Execution access to a target computer. | https://github.com/iamKushGupta/Reverse-Backdoor-with-Listener | 1 | 0| 
-| 20211007T12:53:36Z | A TCP Backdoor made in python | https://github.com/ferreiraklet/Tracey-Backdoor | 5 | 0| 
-| 20211007T12:37:33Z | Null | https://github.com/leo9722/backdoor-c | 0 | 0| 
-| 20211007T12:28:50Z | Null | https://github.com/leo9722/backdoor-py | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -117,16 +117,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211008T01:43:57Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1084 | 82| 
-| 20211008T01:39:03Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20211008T01:11:45Z | A examples repository to experiment with fuzzy controllers. | https://github.com/mishrasunny174/FuzzyControllersExamples | 1 | 0| 
-| 20211008T00:10:01Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 29 | 11| 
-| 20211007T23:44:35Z | WeightedAFL(WAFL) allows for weighted distribution sampling of byte locations for subsequent fuzzing. | https://github.com/sandialabs/wafl | 0 | 1| 
-| 20211007T23:12:51Z | bash script to run from installation media to setup gentoo automagically | https://github.com/fjp321/fuzzy-goggles | 0 | 0| 
-| 20211007T22:19:41Z | Null | https://github.com/eureka-sun/fuzzy-umbrella | 1 | 0| 
-| 20211007T22:13:33Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 305 | 39| 
-| 20211007T22:11:08Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1070 | 46| 
-| 20211007T21:34:39Z | A lang-brainscore repository for initial dirty development; select code will be migrated to a lean and clean more permanent repo in the future  | https://github.com/language-brainscore/lang-brainscore-fuzzy-potato | 0 | 0| 
+| 20211008T12:01:19Z | fuzzer http ( hackingyseguridad.com ) busca ficheros interesantes en un sitio web | https://github.com/hackingyseguridad/fuzzer | 0 | 1| 
+| 20211008T12:00:16Z | A symbolic-model-guided fuzzer for TLS | https://github.com/tlspuffin/tlspuffin | 1 | 0| 
+| 20211008T11:58:23Z | polish fuzzy lop - fuzzer for libraries/APIs/* | https://github.com/LogicalTrust/minerva_lib | 24 | 6| 
+| 20211008T11:48:07Z | Planning tool | https://github.com/HappyDustbunny/FuzzyFlexx | 1 | 0| 
+| 20211008T11:26:36Z | Null | https://github.com/MariusVanDerWijden/merge-fuzz | 0 | 0| 
+| 20211008T11:17:00Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 348 | 28| 
+| 20211008T11:05:42Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20211008T11:05:08Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6711 | 1387| 
+| 20211008T10:37:48Z | A fuzzy search for Go structs using the Sørensen–Dice coefficient | https://github.com/elliottcarlson/fuzzydice | 0 | 0| 
+| 20211008T10:36:22Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 336 | 82| 
 
 
 
