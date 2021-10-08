@@ -53,9 +53,9 @@
 | 20211007T23:27:38Z | Fun exploit | https://github.com/AlekKras/quick_exploit | 0 | 0| 
 | 20211007T23:27:31Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 8342 | 1442| 
 | 20211007T23:27:26Z | A Roblox exploiting hub, designed for multiple games and a plethora of executors. | https://github.com/ArcusHub/ArcusHub | 0 | 0| 
-| 20211007T23:01:01Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
 | 20211007T22:56:51Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 237 | 13| 
 | 20211007T22:39:39Z | An exploit for Team Fortress 2 | https://github.com/ShouxTech/TF2-Exploit | 0 | 0| 
+| 20211007T22:02:33Z | Learn Binary Exploitation with sample problems. | https://github.com/Adamkadaban/LearnPwn | 1 | 0| 
 
 
 # backdoor on Github 推荐
@@ -91,16 +91,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211007T12:25:32Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6708 | 1386| 
-| 20211007T12:21:40Z | Fuzzer Helper | https://github.com/Aif4thah/CShidori | 0 | 0| 
-| 20211007T12:20:06Z | POC文件 | https://github.com/cxlzff/fuzzPOC | 0 | 0| 
-| 20211007T12:01:53Z | Build and Deploy PHP application. Build tool: composer! | https://github.com/skaushikpowershell/fuzzy-telegram | 0 | 0| 
-| 20211007T11:41:13Z | V Fast Fuzzer | https://github.com/cz7047/vff | 0 | 0| 
-| 20211007T11:27:38Z | Null | https://github.com/sarthakjoshi96/Fuzzycontrol_hairdryers | 0 | 0| 
-| 20211007T11:22:33Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 33864 | 17633| 
-| 20211007T11:21:54Z | Null | https://github.com/Hwangwoosam/fuzzing | 5 | 0| 
-| 20211007T11:06:57Z | Simple SQL table fuzzing | https://github.com/PumpkinSeed/sqlfuzz | 134 | 11| 
-| 20211007T10:56:16Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 333 | 82| 
+| 20211007T23:44:35Z | WeightedAFL(WAFL) allows for weighted distribution sampling of byte locations for subsequent fuzzing. | https://github.com/sandialabs/wafl | 0 | 1| 
+| 20211007T23:18:04Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1084 | 82| 
+| 20211007T23:12:51Z | bash script to run from installation media to setup gentoo automagically | https://github.com/fjp321/fuzzy-goggles | 0 | 0| 
+| 20211007T22:34:48Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20211007T22:19:41Z | Null | https://github.com/eureka-sun/fuzzy-umbrella | 1 | 0| 
+| 20211007T22:13:33Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 305 | 39| 
+| 20211007T22:11:08Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1070 | 46| 
+| 20211007T21:34:39Z | A lang-brainscore repository for initial dirty development; select code will be migrated to a lean and clean more permanent repo in the future  | https://github.com/language-brainscore/lang-brainscore-fuzzy-potato | 0 | 0| 
+| 20211007T21:24:00Z | Crossing external data with the SF database | https://github.com/rfolmedoa/fuzzy-v-lookup | 0 | 0| 
+| 20211007T21:23:11Z | A examples repository to experiment with fuzzy controllers. | https://github.com/mishrasunny174/FuzzyControllersExamples | 0 | 0| 
 
 
 
