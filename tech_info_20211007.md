@@ -94,13 +94,13 @@
 | 20211007T23:44:35Z | WeightedAFL(WAFL) allows for weighted distribution sampling of byte locations for subsequent fuzzing. | https://github.com/sandialabs/wafl | 0 | 1| 
 | 20211007T23:18:04Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1084 | 82| 
 | 20211007T23:12:51Z | bash script to run from installation media to setup gentoo automagically | https://github.com/fjp321/fuzzy-goggles | 0 | 0| 
-| 20211007T22:34:48Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211007T22:19:41Z | Null | https://github.com/eureka-sun/fuzzy-umbrella | 1 | 0| 
 | 20211007T22:13:33Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 305 | 39| 
 | 20211007T22:11:08Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1070 | 46| 
 | 20211007T21:34:39Z | A lang-brainscore repository for initial dirty development; select code will be migrated to a lean and clean more permanent repo in the future  | https://github.com/language-brainscore/lang-brainscore-fuzzy-potato | 0 | 0| 
 | 20211007T21:24:00Z | Crossing external data with the SF database | https://github.com/rfolmedoa/fuzzy-v-lookup | 0 | 0| 
 | 20211007T21:23:11Z | A examples repository to experiment with fuzzy controllers. | https://github.com/mishrasunny174/FuzzyControllersExamples | 0 | 0| 
+| 20211007T20:47:10Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1095 | 123| 
 
 
 
