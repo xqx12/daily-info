@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211008T00:58:19Z | CVE-2021-41773 | CVE-2021-41773 playground | https://github.com/blasty/CVE-2021-41773 | | 
+| 20211008T01:10:53Z | CVE-2021-41773 | CVE-2021-41773 playground | https://github.com/blasty/CVE-2021-41773 | | 
 | 20211008T00:52:14Z | cve-2021-41773 | Docker container  lab to play/learn with CVE-2021-41773 | https://github.com/htrgouvea/lab-cve-2021-41773 | | 
 | 20211008T00:44:19Z | cve-2021-41773 | MASS CVE-2021-41773 | https://github.com/justakazh/mass_cve-2021-41773 | | 
 | 20211007T23:16:55Z | CVE-2021-26084 | CVE-2021-26084 - Confluence Server Webwork OGNL injection  | https://github.com/oxctdev/CVE-2021-26084 | | 
@@ -41,7 +41,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211007T09:57:04Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2823 | 74| 
+| 20211008T01:07:09Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2824 | 74| 
 | 20211006T10:58:26Z | This font is based on the font Klee One by Fontworks, and the font LXGW WenKai by LXGW for adding Simplified and Traditional Chinese character glyphs. The pinyin characters are added by ToneOZ.com using the open source tool Mengshen, with the IVS heteronyms font concept from the Bopomofo IVS by But Ko. | https://github.com/jeffreyxuan/toneoz-font-pinyin-wenkai | 6 | 0| 
 | 20211006T10:06:18Z | Null | https://github.com/giffyonyinye/kleenMyRide | 0 | 0| 
 | 20211005T22:58:32Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
@@ -65,16 +65,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211008T01:12:43Z | Exploiting Causal Structure for Transportability in Online, Multi-Agent Environments | https://github.com/axelbrowne/ECS4TOMAE | 0 | 0| 
 | 20211008T01:03:37Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 8343 | 1442| 
 | 20211008T01:03:20Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
 | 20211008T00:54:45Z | Challenges at school | https://github.com/kazuminn/exploitEdge | 0 | 0| 
 | 20211008T00:54:31Z | Exploit cwpk | https://github.com/SambasOnFire/Sti7111 | 1 | 0| 
 | 20211008T00:32:48Z | A python exploit that automatically defaces websites. | https://github.com/daethecat/Auto-Defacer | 0 | 0| 
-| 20211008T00:29:24Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 38 | 44| 
+| 20211008T00:29:24Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 38 | 45| 
 | 20211008T00:19:39Z | Collection of Discord hacking tools/fun stuff/exploits that is completely developed using NodeJS. | https://github.com/I2rys/ODiscord | 9 | 6| 
 | 20211007T23:48:43Z | Null | https://github.com/OHomemParede/Exploits-for-Protostar | 0 | 0| 
 | 20211007T23:36:54Z | A post-exploitation kernel module that allows an attacker to edit files with little to no footprint. | https://github.com/mineo333/GhostFops | 0 | 0| 
-| 20211007T23:33:54Z | Null | https://github.com/kaktus087/exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -117,6 +117,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211008T01:11:45Z | A examples repository to experiment with fuzzy controllers. | https://github.com/mishrasunny174/FuzzyControllersExamples | 1 | 0| 
 | 20211008T00:56:50Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1084 | 82| 
 | 20211008T00:14:59Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211008T00:10:01Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 29 | 11| 
@@ -126,7 +127,6 @@
 | 20211007T22:13:33Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 305 | 39| 
 | 20211007T22:11:08Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1070 | 46| 
 | 20211007T21:34:39Z | A lang-brainscore repository for initial dirty development; select code will be migrated to a lean and clean more permanent repo in the future  | https://github.com/language-brainscore/lang-brainscore-fuzzy-potato | 0 | 0| 
-| 20211007T21:24:00Z | Crossing external data with the SF database | https://github.com/rfolmedoa/fuzzy-v-lookup | 0 | 0| 
 
 
 

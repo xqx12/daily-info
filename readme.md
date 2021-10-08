@@ -33,7 +33,6 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211007T09:57:04Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2823 | 74| 
 
 
 # s2e on Github 推荐
@@ -98,9 +97,9 @@
 | 20211007T22:11:08Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1070 | 46| 
 | 20211007T21:34:39Z | A lang-brainscore repository for initial dirty development; select code will be migrated to a lean and clean more permanent repo in the future  | https://github.com/language-brainscore/lang-brainscore-fuzzy-potato | 0 | 0| 
 | 20211007T21:24:00Z | Crossing external data with the SF database | https://github.com/rfolmedoa/fuzzy-v-lookup | 0 | 0| 
-| 20211007T21:23:11Z | A examples repository to experiment with fuzzy controllers. | https://github.com/mishrasunny174/FuzzyControllersExamples | 0 | 0| 
 | 20211007T20:47:10Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1095 | 123| 
 | 20211007T20:20:30Z | The template repository for the Fuzzing 101 course on Learning Lab. | https://github.com/enygma/fuzzing-101-template | 0 | 0| 
+| 20211007T20:10:24Z | Autocomplete Search Project | https://github.com/afleissner2019/fuzzy-match | 0 | 0| 
 
 
 
