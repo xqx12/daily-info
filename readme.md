@@ -16,7 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211008T12:42:55Z | CVE-2021-41773 | Apache 2.4.49 | https://github.com/AssassinUKG/CVE-2021-41773 | | 
+| 20211008T12:45:52Z | CVE-2021-41773 | Apache 2.4.49 | https://github.com/AssassinUKG/CVE-2021-41773 | | 
 | 20211008T12:29:46Z | cve-2021-41773 | Docker container  lab to play/learn with CVE-2021-41773 | https://github.com/htrgouvea/lab-cve-2021-41773 | | 
 | 20211008T12:15:53Z | CVE-2021-41773 | A Python script to check if an Apache web server is vulnerable to CVE-2021-41773 | https://github.com/b1tsec/CVE-2021-41773 | | 
 | 20211008T11:54:53Z | CVE-2021-42013 | Exploit with  integrated shodan search | https://github.com/andrea-mattioli/apache-exploit-CVE-2021-42013 | | 
