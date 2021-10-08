@@ -83,9 +83,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211008T12:53:09Z | Null | https://github.com/oscarpimentel/fuzzy-tools | 0 | 0| 
 | 20211008T12:50:05Z | Null | https://github.com/p1erhs/fuzzi | 0 | 0| 
 | 20211008T12:47:56Z | A symbolic-model-guided fuzzer for TLS | https://github.com/tlspuffin/tlspuffin | 2 | 0| 
-| 20211008T12:46:34Z | Null | https://github.com/oscarpimentel/fuzzy-tools | 0 | 0| 
 | 20211008T12:44:26Z | Insert in Bash or ZSH a fuzzily found command-line, file or (recent) directory path at the cursor position. | https://github.com/Konfekt/fuzzyfinders.sh | 2 | 0| 
 | 20211008T12:27:57Z | fuzz the linux kernel bpf verifier | https://github.com/snorez/ebpf-fuzzer | 21 | 3| 
 | 20211008T12:22:14Z | URL_Sniff is a URL-Fuzzer that uses a chosen word list of relative paths and test them against a chosen addresses. It%s a great way to find hidden directories and files. It also gives you a better understanding of the targets directory structure. | https://github.com/mm-Ax0/URL_Sniff | 0 | 0| 
