@@ -26,8 +26,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211008T01:57:22Z | CVE-2021-41773 | CVE-2021-41773 playground | https://github.com/blasty/CVE-2021-41773 | | 
+| 20211008T01:55:25Z | cve-2021-41773 | Null | https://github.com/mohwahyudi/cve-2021-41773 | | 
 | 20211008T01:44:12Z | CVE-2021-41773 | CVE-2021-41773 的复现 | https://github.com/1nhann/CVE-2021-41773 | | 
-| 20211008T01:33:00Z | CVE-2021-41773 | CVE-2021-41773 playground | https://github.com/blasty/CVE-2021-41773 | | 
 | 20211008T01:32:54Z | cve-2021-41773 | Docker container  lab to play/learn with CVE-2021-41773 | https://github.com/htrgouvea/lab-cve-2021-41773 | | 
 | 20211008T01:20:28Z | CVE-2021-41773 | This a simple poc for Apache/2.4.49 Path Traversal Vulnerability | https://github.com/shellreaper/CVE-2021-41773 | | 
 | 20211008T01:15:42Z | CVE-2021-41773 | Null | https://github.com/LetouRaphael/Poc-CVE-2021-41773 | | 
@@ -35,7 +36,6 @@
 | 20211007T23:16:55Z | CVE-2021-26084 | CVE-2021-26084 - Confluence Server Webwork OGNL injection  | https://github.com/oxctdev/CVE-2021-26084 | | 
 | 20211007T22:58:43Z | cve-2021-3625 | Sample exploits for Zephyr CVE-2021-3625 | https://github.com/szymonh/zephyr_cve-2021-3625 | | 
 | 20211007T21:53:00Z | CVE-2021-41773 | Mass exploitation CVE-2021-41773 and auto detect possible RCE | https://github.com/Sakura-nee/CVE-2021-41773 | | 
-| 20211007T21:38:46Z | CVE-2021-40870 | Aviatrix allows an authenticated user to execute arbitrary code | https://github.com/oxctdev/CVE-2021-40870 | | 
 
 
 # klee on Github 推荐
@@ -65,7 +65,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211008T01:42:26Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 39 | 46| 
+| 20211008T01:54:09Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 39 | 46| 
 | 20211008T01:40:17Z | CMS Detection and Exploitation suite - Scan WordPress, Joomla, Drupal and over 180 other CMSs | https://github.com/Sorrok-Exploit/CMSeeK | 5 | 1| 
 | 20211008T01:29:52Z | Aqui irei publicar meus futuros exploits :D | https://github.com/FDivisioon/exploits | 0 | 0| 
 | 20211008T01:12:43Z | Exploiting Causal Structure for Transportability in Online, Multi-Agent Environments | https://github.com/axelbrowne/ECS4TOMAE | 0 | 0| 
