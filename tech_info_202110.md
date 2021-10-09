@@ -65,7 +65,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211009T00:09:17Z |  Développement d%un simulateur flexible de réseaux de files d%attentes qui produit de la Data exploitable. • Etude de la performance du trafic sur différents horizons temporels. • Etude de la robustesse et la fiabilité des données produites via la réalisation des tests statistiques. • Calcul des métriques de dimensionnement & Elaboration des visuels.  Langage utilisé : Python | https://github.com/HibaBoulhanna/QueingSystem- | 1 | 0| 
+| 20211009T00:15:04Z |  Développement d%un simulateur flexible de réseaux de files d%attentes qui produit de la Data exploitable. • Etude de la performance du trafic sur différents horizons temporels. • Etude de la robustesse et la fiabilité des données produites via la réalisation des tests statistiques. • Calcul des métriques de dimensionnement & Elaboration des visuels.  Langage utilisé : Python | https://github.com/HibaBoulhanna/QueingSystem- | 1 | 0| 
 | 20211009T00:08:48Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4011 | 582| 
 | 20211009T00:03:02Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
 | 20211008T23:50:58Z | Null | https://github.com/IcmpOff/Microsoft-RDP-Remote-Code-Execution-Exploit | 0 | 0| 
@@ -117,6 +117,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211009T00:17:24Z | Null | https://github.com/Jenysbdys/fuzzy-octo-fiesta | 0 | 0| 
 | 20211009T00:14:01Z | Null | https://github.com/googleprojectzero/SockFuzzer | 218 | 26| 
 | 20211009T00:08:33Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 29 | 11| 
 | 20211008T23:46:29Z | Using Fuzzy to solve the Iris dataset | https://github.com/AntonnyMendonca/FuzzyClassification | 0 | 0| 
@@ -126,7 +127,6 @@
 | 20211008T22:52:42Z | Story | https://github.com/tyjohnmartin/fuzzy-waddle-story | 0 | 0| 
 | 20211008T22:42:18Z | Null | https://github.com/gordod26/fuzzy-chainsaw | 0 | 0| 
 | 20211008T22:35:20Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 249 | 32| 
-| 20211008T22:31:04Z | Null | https://github.com/mpgxc/fuzzy-umbrella | 1 | 0| 
 
 
 
