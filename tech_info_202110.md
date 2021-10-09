@@ -65,11 +65,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211009T00:03:02Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
 | 20211009T00:00:35Z |  Développement d%un simulateur flexible de réseaux de files d%attentes qui produit de la Data exploitable. • Etude de la performance du trafic sur différents horizons temporels. • Etude de la robustesse et la fiabilité des données produites via la réalisation des tests statistiques. • Calcul des métriques de dimensionnement & Elaboration des visuels.  Langage utilisé : Python | https://github.com/HibaBoulhanna/QueingSystem- | 1 | 0| 
 | 20211008T23:50:58Z | Null | https://github.com/IcmpOff/Microsoft-RDP-Remote-Code-Execution-Exploit | 0 | 0| 
 | 20211008T23:28:34Z | A post-exploitation kernel module that allows an attacker to edit files with little to no footprint. | https://github.com/mineo333/GhostFops | 1 | 0| 
 | 20211008T23:22:28Z | Exploiting Causal Structure for Transportability in Online, Multi-Agent Environments | https://github.com/axelbrowne/ECS4TOMAE | 0 | 0| 
-| 20211008T23:03:05Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
 | 20211008T22:09:41Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10187 | 1718| 
 | 20211008T22:01:20Z | Null | https://github.com/NotFoundHacker/KaliExploit | 0 | 0| 
 | 20211008T21:14:20Z | Roblox Exploit Scripts for HD Admin. This won%t be of any use to you unless you%re in my Discord server. | https://github.com/arqxi/FamilyHell | 0 | 0| 
@@ -117,16 +117,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211009T00:07:30Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 29 | 11| 
+| 20211009T00:06:00Z | Null | https://github.com/googleprojectzero/SockFuzzer | 218 | 26| 
 | 20211008T23:46:29Z | Using Fuzzy to solve the Iris dataset | https://github.com/AntonnyMendonca/FuzzyClassification | 0 | 0| 
 | 20211008T23:19:50Z | Individual Development Plan | https://github.com/henrinacio/fuzzy-disco | 0 | 0| 
 | 20211008T23:17:57Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1097 | 123| 
 | 20211008T23:04:08Z | Null | https://github.com/ArtieFuzzz/ArtieFuzzz | 0 | 1| 
-| 20211008T23:02:13Z | Null | https://github.com/googleprojectzero/SockFuzzer | 218 | 26| 
 | 20211008T22:52:42Z | Story | https://github.com/tyjohnmartin/fuzzy-waddle-story | 0 | 0| 
 | 20211008T22:42:18Z | Null | https://github.com/gordod26/fuzzy-chainsaw | 0 | 0| 
 | 20211008T22:35:20Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 249 | 32| 
 | 20211008T22:31:04Z | Null | https://github.com/mpgxc/fuzzy-umbrella | 1 | 0| 
-| 20211008T22:25:22Z | Null | https://github.com/AmeliaYeah/dns-host-directory-fuzz | 0 | 0| 
 
 
 

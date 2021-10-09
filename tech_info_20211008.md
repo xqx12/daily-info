@@ -48,13 +48,13 @@
 | 20211008T23:50:58Z | Null | https://github.com/IcmpOff/Microsoft-RDP-Remote-Code-Execution-Exploit | 0 | 0| 
 | 20211008T23:28:34Z | A post-exploitation kernel module that allows an attacker to edit files with little to no footprint. | https://github.com/mineo333/GhostFops | 1 | 0| 
 | 20211008T23:22:28Z | Exploiting Causal Structure for Transportability in Online, Multi-Agent Environments | https://github.com/axelbrowne/ECS4TOMAE | 0 | 0| 
-| 20211008T23:03:05Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
 | 20211008T22:09:41Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10187 | 1718| 
 | 20211008T22:01:20Z | Null | https://github.com/NotFoundHacker/KaliExploit | 0 | 0| 
 | 20211008T21:14:20Z | Roblox Exploit Scripts for HD Admin. This won%t be of any use to you unless you%re in my Discord server. | https://github.com/arqxi/FamilyHell | 0 | 0| 
 | 20211008T19:40:19Z | ＹＵＢＡ　　>Ｔｕｒｋｉｓｈ　Ｈａｃｋｅｒｓ | https://github.com/yuba-0/yuba-whatsapp-exploit | 2 | 1| 
 | 20211008T18:49:28Z | OxitHub is a Roblox Script hub which allows users to exploit in roblox games using premium scripts. | https://github.com/Hue-Commits/OxitHub | 0 | 0| 
 | 20211008T17:51:58Z | Some files for information security exploits | https://github.com/renatus-cartesius/infosec | 0 | 0| 
+| 20211008T17:37:25Z | Exploits Scripts and other tools that are useful during Penetration-Testing or Red Team engagement  | https://github.com/BlackSnufkin/PT-ToolKit | 3 | 5| 
 
 
 # backdoor on Github 推荐
@@ -94,12 +94,12 @@
 | 20211008T23:19:50Z | Individual Development Plan | https://github.com/henrinacio/fuzzy-disco | 0 | 0| 
 | 20211008T23:17:57Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1097 | 123| 
 | 20211008T23:04:08Z | Null | https://github.com/ArtieFuzzz/ArtieFuzzz | 0 | 1| 
-| 20211008T23:02:13Z | Null | https://github.com/googleprojectzero/SockFuzzer | 218 | 26| 
 | 20211008T22:52:42Z | Story | https://github.com/tyjohnmartin/fuzzy-waddle-story | 0 | 0| 
 | 20211008T22:42:18Z | Null | https://github.com/gordod26/fuzzy-chainsaw | 0 | 0| 
 | 20211008T22:35:20Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 249 | 32| 
 | 20211008T22:31:04Z | Null | https://github.com/mpgxc/fuzzy-umbrella | 1 | 0| 
 | 20211008T22:25:22Z | Null | https://github.com/AmeliaYeah/dns-host-directory-fuzz | 0 | 0| 
+| 20211008T22:11:45Z | // Basic JS implementation of a fuzzer that uses all 16-bit unicode characters, aka the Base Multilingual Plane (BMP). It is based on https://www.fuzzingbook.org/html/Fuzzer.html | https://github.com/nataliefyi/fuzzer | 0 | 0| 
 
 
 
