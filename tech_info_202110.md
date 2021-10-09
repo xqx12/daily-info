@@ -26,11 +26,11 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211009T00:17:01Z | cve-2021-41773 | MASS CVE-2021-41773 | https://github.com/justakazh/mass_cve-2021-41773 | | 
 | 20211008T18:52:17Z | CVE-2021-41773 | Fast python tool to test apache path traversal CVE-2021-41773 in a List of url  | https://github.com/zeronine9/CVE-2021-41773 | | 
 | 20211008T18:20:12Z | CVE-2021-41773 | Simple script realizado en bash, para revisión de múltiples hosts para CVE-2021-41773 (Apache) | https://github.com/jheeree/Simple-CVE-2021-41773-checker | | 
 | 20211008T16:32:54Z | CVE-2021-41773 | exploit to CVE-2021-41773 | https://github.com/n3k00n3/CVE-2021-41773 | | 
 | 20211008T16:29:29Z | CVE-2021-41773 | POC | https://github.com/superzerosec/CVE-2021-41773 | | 
-| 20211008T16:03:30Z | cve-2021-41773 | MASS CVE-2021-41773 | https://github.com/justakazh/mass_cve-2021-41773 | | 
 | 20211008T14:13:35Z | CVE-2020-15368 | CVE-2020-15368 | https://github.com/stong/CVE-2020-15368 | | 
 | 20211008T13:47:39Z | cve-2021-41773 | Docker container  lab to play/learn with CVE-2021-41773 | https://github.com/htrgouvea/lab-cve-2021-41773 | | 
 | 20211008T13:45:29Z | CVE-2021-42013 | Exploit with  integrated shodan search | https://github.com/andrea-mattioli/apache-exploit-CVE-2021-42013 | | 

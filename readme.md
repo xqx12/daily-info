@@ -21,12 +21,12 @@
 | 20211008T18:20:12Z | CVE-2021-41773 | Simple script realizado en bash, para revisión de múltiples hosts para CVE-2021-41773 (Apache) | https://github.com/jheeree/Simple-CVE-2021-41773-checker | | 
 | 20211008T16:32:54Z | CVE-2021-41773 | exploit to CVE-2021-41773 | https://github.com/n3k00n3/CVE-2021-41773 | | 
 | 20211008T16:29:29Z | CVE-2021-41773 | POC | https://github.com/superzerosec/CVE-2021-41773 | | 
-| 20211008T16:03:30Z | cve-2021-41773 | MASS CVE-2021-41773 | https://github.com/justakazh/mass_cve-2021-41773 | | 
 | 20211008T14:13:35Z | CVE-2020-15368 | CVE-2020-15368 | https://github.com/stong/CVE-2020-15368 | | 
 | 20211008T13:47:39Z | cve-2021-41773 | Docker container  lab to play/learn with CVE-2021-41773 | https://github.com/htrgouvea/lab-cve-2021-41773 | | 
 | 20211008T13:45:29Z | CVE-2021-42013 | Exploit with  integrated shodan search | https://github.com/andrea-mattioli/apache-exploit-CVE-2021-42013 | | 
 | 20211008T13:17:47Z | CVE-2021-41773 | Apache 2.4.49 | https://github.com/AssassinUKG/CVE-2021-41773 | | 
 | 20211008T13:14:24Z | CVE-2021-27513 | ITSM_Broken_control | https://github.com/ArianeBlow/CVE-2021-27513 | | 
+| 20211008T12:15:53Z | CVE-2021-41773 | A Python script to check if an Apache web server is vulnerable to CVE-2021-41773 | https://github.com/b1tsec/CVE-2021-41773 | | 
 
 
 # klee on Github 推荐
