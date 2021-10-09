@@ -26,15 +26,15 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211009T01:53:09Z | cve-2021-41773 | MASS CVE-2021-41773 | https://github.com/justakazh/mass_cve-2021-41773 | | 
+| 20211009T01:47:27Z | CVE-2021-41773 | Apache 2.4.49 | https://github.com/AssassinUKG/CVE-2021-41773 | | 
 | 20211009T00:46:29Z | CVE-2021-41773 | POC | https://github.com/superzerosec/CVE-2021-41773 | | 
-| 20211009T00:17:01Z | cve-2021-41773 | MASS CVE-2021-41773 | https://github.com/justakazh/mass_cve-2021-41773 | | 
 | 20211008T18:52:17Z | CVE-2021-41773 | Fast python tool to test apache path traversal CVE-2021-41773 in a List of url  | https://github.com/zeronine9/CVE-2021-41773 | | 
 | 20211008T18:20:12Z | CVE-2021-41773 | Simple script realizado en bash, para revisión de múltiples hosts para CVE-2021-41773 (Apache) | https://github.com/jheeree/Simple-CVE-2021-41773-checker | | 
 | 20211008T16:32:54Z | CVE-2021-41773 | exploit to CVE-2021-41773 | https://github.com/n3k00n3/CVE-2021-41773 | | 
 | 20211008T14:13:35Z | CVE-2020-15368 | CVE-2020-15368 | https://github.com/stong/CVE-2020-15368 | | 
 | 20211008T13:47:39Z | cve-2021-41773 | Docker container  lab to play/learn with CVE-2021-41773 | https://github.com/htrgouvea/lab-cve-2021-41773 | | 
 | 20211008T13:45:29Z | CVE-2021-42013 | Exploit with  integrated shodan search | https://github.com/andrea-mattioli/apache-exploit-CVE-2021-42013 | | 
-| 20211008T13:17:47Z | CVE-2021-41773 | Apache 2.4.49 | https://github.com/AssassinUKG/CVE-2021-41773 | | 
 | 20211008T13:14:24Z | CVE-2021-27513 | ITSM_Broken_control | https://github.com/ArianeBlow/CVE-2021-27513 | | 
 
 
@@ -65,16 +65,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211009T01:59:30Z | Exploiting Causal Structure for Transportability in Online, Multi-Agent Environments | https://github.com/axelbrowne/ECS4TOMAE | 0 | 0| 
+| 20211009T01:36:46Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 8344 | 1442| 
 | 20211009T01:33:20Z | A Go library for manipulating Windows processes. | https://github.com/jamesmoriarty/gomem | 17 | 3| 
-| 20211009T01:28:34Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 43 | 53| 
-| 20211009T01:15:29Z | Exploiting Causal Structure for Transportability in Online, Multi-Agent Environments | https://github.com/axelbrowne/ECS4TOMAE | 0 | 0| 
+| 20211009T01:28:34Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 43 | 54| 
 | 20211009T01:03:44Z | Drafts of exploits made for studying and consultation purposes | https://github.com/brerodrigues/exploit_drafts | 0 | 0| 
 | 20211009T01:03:03Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
 | 20211009T00:54:56Z | Theses are my exploits for Protostar challenges. | https://github.com/OHomemParede/Exploits-for-Protostar | 0 | 0| 
 | 20211009T00:15:04Z |  Développement d%un simulateur flexible de réseaux de files d%attentes qui produit de la Data exploitable. • Etude de la performance du trafic sur différents horizons temporels. • Etude de la robustesse et la fiabilité des données produites via la réalisation des tests statistiques. • Calcul des métriques de dimensionnement & Elaboration des visuels.  Langage utilisé : Python | https://github.com/HibaBoulhanna/QueingSystem- | 1 | 0| 
 | 20211009T00:08:48Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4011 | 582| 
 | 20211008T23:50:58Z | Null | https://github.com/IcmpOff/Microsoft-RDP-Remote-Code-Execution-Exploit | 0 | 0| 
-| 20211008T23:28:34Z | A post-exploitation kernel module that allows an attacker to edit files with little to no footprint. | https://github.com/mineo333/GhostFops | 1 | 0| 
 
 
 # backdoor on Github 推荐
@@ -117,8 +117,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211009T01:37:33Z | BP Monitoring that gives Health Advises Using Fuzzy Logic | https://github.com/cristoph143/BP_Fuzzy_Logic_System | 0 | 0| 
 | 20211009T01:30:27Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20211009T00:46:09Z | BP Monitoring that gives Health Advises Using Fuzzy Logic | https://github.com/cristoph143/BP_Fuzzy_Logic_System | 0 | 0| 
 | 20211009T00:40:02Z | Null | https://github.com/dannyskoog/go-fuzzing | 0 | 0| 
 | 20211009T00:17:24Z | Null | https://github.com/Jenysbdys/fuzzy-octo-fiesta | 0 | 0| 
 | 20211009T00:14:01Z | Null | https://github.com/googleprojectzero/SockFuzzer | 218 | 26| 

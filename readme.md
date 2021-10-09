@@ -23,10 +23,10 @@
 | 20211008T14:13:35Z | CVE-2020-15368 | CVE-2020-15368 | https://github.com/stong/CVE-2020-15368 | | 
 | 20211008T13:47:39Z | cve-2021-41773 | Docker container  lab to play/learn with CVE-2021-41773 | https://github.com/htrgouvea/lab-cve-2021-41773 | | 
 | 20211008T13:45:29Z | CVE-2021-42013 | Exploit with  integrated shodan search | https://github.com/andrea-mattioli/apache-exploit-CVE-2021-42013 | | 
-| 20211008T13:17:47Z | CVE-2021-41773 | Apache 2.4.49 | https://github.com/AssassinUKG/CVE-2021-41773 | | 
 | 20211008T13:14:24Z | CVE-2021-27513 | ITSM_Broken_control | https://github.com/ArianeBlow/CVE-2021-27513 | | 
 | 20211008T12:15:53Z | CVE-2021-41773 | A Python script to check if an Apache web server is vulnerable to CVE-2021-41773 | https://github.com/b1tsec/CVE-2021-41773 | | 
 | 20211008T11:09:09Z | cve-2021-42013 | Apache 2.4.50 Path traversal vulnerability | https://github.com/Vulnmachines/cve-2021-42013 | | 
+| 20211008T10:42:08Z | CVE-2020-1938 | -H 192.168.1.1-192.168.5.255 | https://github.com/einzbernnn/CVE-2020-1938Scan | | 
 
 
 # klee on Github 推荐
