@@ -65,6 +65,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211009T00:25:57Z | Null | https://github.com/OHomemParede/Exploits-for-Protostar | 0 | 0| 
 | 20211009T00:15:04Z |  Développement d%un simulateur flexible de réseaux de files d%attentes qui produit de la Data exploitable. • Etude de la performance du trafic sur différents horizons temporels. • Etude de la robustesse et la fiabilité des données produites via la réalisation des tests statistiques. • Calcul des métriques de dimensionnement & Elaboration des visuels.  Langage utilisé : Python | https://github.com/HibaBoulhanna/QueingSystem- | 1 | 0| 
 | 20211009T00:08:48Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4011 | 582| 
 | 20211009T00:03:02Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
@@ -74,7 +75,6 @@
 | 20211008T22:09:41Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10187 | 1718| 
 | 20211008T22:01:20Z | Null | https://github.com/NotFoundHacker/KaliExploit | 0 | 0| 
 | 20211008T21:14:20Z | Roblox Exploit Scripts for HD Admin. This won%t be of any use to you unless you%re in my Discord server. | https://github.com/arqxi/FamilyHell | 0 | 0| 
-| 20211008T19:40:19Z | ＹＵＢＡ　　>Ｔｕｒｋｉｓｈ　Ｈａｃｋｅｒｓ | https://github.com/yuba-0/yuba-whatsapp-exploit | 2 | 1| 
 
 
 # backdoor on Github 推荐
@@ -117,6 +117,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211009T00:27:05Z | Null | https://github.com/dannyskoog/go-fuzzing | 0 | 0| 
 | 20211009T00:17:24Z | Null | https://github.com/Jenysbdys/fuzzy-octo-fiesta | 0 | 0| 
 | 20211009T00:14:01Z | Null | https://github.com/googleprojectzero/SockFuzzer | 218 | 26| 
 | 20211009T00:08:33Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 29 | 11| 
@@ -126,7 +127,6 @@
 | 20211008T23:04:08Z | Null | https://github.com/ArtieFuzzz/ArtieFuzzz | 0 | 1| 
 | 20211008T22:52:42Z | Story | https://github.com/tyjohnmartin/fuzzy-waddle-story | 0 | 0| 
 | 20211008T22:42:18Z | Null | https://github.com/gordod26/fuzzy-chainsaw | 0 | 0| 
-| 20211008T22:35:20Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 249 | 32| 
 
 
 
