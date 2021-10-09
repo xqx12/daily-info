@@ -65,6 +65,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211009T01:28:34Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 43 | 53| 
 | 20211009T01:15:29Z | Exploiting Causal Structure for Transportability in Online, Multi-Agent Environments | https://github.com/axelbrowne/ECS4TOMAE | 0 | 0| 
 | 20211009T01:08:47Z | A Go library for manipulating Windows processes. | https://github.com/jamesmoriarty/gomem | 17 | 3| 
 | 20211009T01:03:44Z | Drafts of exploits made for studying and consultation purposes | https://github.com/brerodrigues/exploit_drafts | 0 | 0| 
@@ -74,7 +75,6 @@
 | 20211009T00:08:48Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4011 | 582| 
 | 20211008T23:50:58Z | Null | https://github.com/IcmpOff/Microsoft-RDP-Remote-Code-Execution-Exploit | 0 | 0| 
 | 20211008T23:28:34Z | A post-exploitation kernel module that allows an attacker to edit files with little to no footprint. | https://github.com/mineo333/GhostFops | 1 | 0| 
-| 20211008T22:09:41Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10187 | 1718| 
 
 
 # backdoor on Github 推荐
