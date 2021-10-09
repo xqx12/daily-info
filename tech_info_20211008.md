@@ -20,13 +20,13 @@
 | 20211008T18:52:17Z | CVE-2021-41773 | Fast python tool to test apache path traversal CVE-2021-41773 in a List of url  | https://github.com/zeronine9/CVE-2021-41773 | | 
 | 20211008T18:20:12Z | CVE-2021-41773 | Simple script realizado en bash, para revisión de múltiples hosts para CVE-2021-41773 (Apache) | https://github.com/jheeree/Simple-CVE-2021-41773-checker | | 
 | 20211008T16:32:54Z | CVE-2021-41773 | exploit to CVE-2021-41773 | https://github.com/n3k00n3/CVE-2021-41773 | | 
-| 20211008T16:29:29Z | CVE-2021-41773 | POC | https://github.com/superzerosec/CVE-2021-41773 | | 
 | 20211008T14:13:35Z | CVE-2020-15368 | CVE-2020-15368 | https://github.com/stong/CVE-2020-15368 | | 
 | 20211008T13:47:39Z | cve-2021-41773 | Docker container  lab to play/learn with CVE-2021-41773 | https://github.com/htrgouvea/lab-cve-2021-41773 | | 
 | 20211008T13:45:29Z | CVE-2021-42013 | Exploit with  integrated shodan search | https://github.com/andrea-mattioli/apache-exploit-CVE-2021-42013 | | 
 | 20211008T13:17:47Z | CVE-2021-41773 | Apache 2.4.49 | https://github.com/AssassinUKG/CVE-2021-41773 | | 
 | 20211008T13:14:24Z | CVE-2021-27513 | ITSM_Broken_control | https://github.com/ArianeBlow/CVE-2021-27513 | | 
 | 20211008T12:15:53Z | CVE-2021-41773 | A Python script to check if an Apache web server is vulnerable to CVE-2021-41773 | https://github.com/b1tsec/CVE-2021-41773 | | 
+| 20211008T11:09:09Z | cve-2021-42013 | Apache 2.4.50 Path traversal vulnerability | https://github.com/Vulnmachines/cve-2021-42013 | | 
 
 
 # klee on Github 推荐
@@ -47,7 +47,6 @@
 | --- | --- | --- | --- | ---| 
 | 20211008T23:50:58Z | Null | https://github.com/IcmpOff/Microsoft-RDP-Remote-Code-Execution-Exploit | 0 | 0| 
 | 20211008T23:28:34Z | A post-exploitation kernel module that allows an attacker to edit files with little to no footprint. | https://github.com/mineo333/GhostFops | 1 | 0| 
-| 20211008T23:22:28Z | Exploiting Causal Structure for Transportability in Online, Multi-Agent Environments | https://github.com/axelbrowne/ECS4TOMAE | 0 | 0| 
 | 20211008T22:09:41Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10187 | 1718| 
 | 20211008T22:01:20Z | Null | https://github.com/NotFoundHacker/KaliExploit | 0 | 0| 
 | 20211008T21:14:20Z | Roblox Exploit Scripts for HD Admin. This won%t be of any use to you unless you%re in my Discord server. | https://github.com/arqxi/FamilyHell | 0 | 0| 
@@ -55,6 +54,7 @@
 | 20211008T18:49:28Z | OxitHub is a Roblox Script hub which allows users to exploit in roblox games using premium scripts. | https://github.com/Hue-Commits/OxitHub | 0 | 0| 
 | 20211008T17:51:58Z | Some files for information security exploits | https://github.com/renatus-cartesius/infosec | 0 | 0| 
 | 20211008T17:37:25Z | Exploits Scripts and other tools that are useful during Penetration-Testing or Red Team engagement  | https://github.com/BlackSnufkin/PT-ToolKit | 3 | 5| 
+| 20211008T17:29:42Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 3990 | 549| 
 
 
 # backdoor on Github 推荐
