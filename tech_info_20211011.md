@@ -64,7 +64,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211011T23:36:12Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 47 | 58| 
 | 20211011T22:47:17Z | Null | https://github.com/rhein055/ArtOfExploitation | 0 | 1| 
 | 20211011T22:35:38Z | automation of Insertion of ssh keys in post exploitation environment | https://github.com/refilzinho/add-ssh-key-post-exploitation | 0 | 0| 
 | 20211011T22:21:37Z | I%m not an exploit dev. Just kicking some tires | https://github.com/DarkCasterX/python-virus | 0 | 0| 
@@ -74,6 +73,7 @@
 | 20211011T21:00:31Z | Null | https://github.com/JadeGrey/MiscExploits | 0 | 0| 
 | 20211011T20:53:21Z | This repo contain builders of cab file, html file, and docx file for CVE-2021-40444 exploit | https://github.com/aslitsecurity/CVE-2021-40444_builders | 160 | 43| 
 | 20211011T20:51:37Z | Patch for Waterfall to improve performance during attacks and fix memory issues. | https://github.com/2lstudios-mc/FlameCord | 77 | 43| 
+| 20211011T20:38:44Z | One Click root Exploit for the machine Horizontall [HackTheBox] | https://github.com/Rajchowdhury420/Horizontall-HTB-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -101,9 +101,9 @@
 | 20211011T17:23:54Z | Compiled Sail ISA snapshots for the Isla symbolic execution tool | https://github.com/rems-project/isla-snapshots | 1 | 0| 
 | 20211011T16:13:22Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 17 | 3| 
 | 20211011T14:11:08Z | 🎻 Automatic Exploit Generation using symbolic execution | https://github.com/aesophor/requiem | 11 | 3| 
-| 20211011T12:35:55Z | A Ghidra extension that allows you to run Angr symbolic execution using the Pcode from Ghidra. | https://github.com/jdkleuver/PcodeSym | 1 | 0| 
 | 20211011T12:30:54Z | Symbolic execution engine for ABS | https://github.com/Edkamb/crowbar-tool | 0 | 3| 
 | 20211011T09:02:11Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 168 | 39| 
+| 20211011T07:31:33Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1788 | 509| 
 
 
 # big4 on Github 推荐
