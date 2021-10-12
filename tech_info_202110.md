@@ -77,6 +77,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211012T01:49:40Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10198 | 1724| 
 | 20211012T01:40:58Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 352 | 52| 
 | 20211012T01:32:16Z | Exploit | https://github.com/yungs8an/GENGAR | 0 | 0| 
 | 20211012T01:29:08Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 47 | 58| 
@@ -86,7 +87,6 @@
 | 20211012T00:16:37Z | Null | https://github.com/NotFoundHacker/KaliExploit | 0 | 0| 
 | 20211011T22:47:17Z | Null | https://github.com/rhein055/ArtOfExploitation | 0 | 1| 
 | 20211011T22:35:38Z | automation of Insertion of ssh keys in post exploitation environment | https://github.com/refilzinho/add-ssh-key-post-exploitation | 0 | 0| 
-| 20211011T22:21:37Z | I%m not an exploit dev. Just kicking some tires | https://github.com/DarkCasterX/python-virus | 0 | 0| 
 
 
 # backdoor on Github 推荐

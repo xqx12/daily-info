@@ -67,13 +67,13 @@
 | 20211011T22:47:17Z | Null | https://github.com/rhein055/ArtOfExploitation | 0 | 1| 
 | 20211011T22:35:38Z | automation of Insertion of ssh keys in post exploitation environment | https://github.com/refilzinho/add-ssh-key-post-exploitation | 0 | 0| 
 | 20211011T22:21:37Z | I%m not an exploit dev. Just kicking some tires | https://github.com/DarkCasterX/python-virus | 0 | 0| 
-| 20211011T22:19:56Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10197 | 1724| 
 | 20211011T21:57:45Z | SECMON is a web-based tool for the automation of infosec watching and vulnerability management with a web interface. | https://github.com/Guezone/SECMON | 109 | 26| 
 | 20211011T21:47:30Z | Cloud C2 Framework, which at the moment offers reconnaissance, enumeration, exploitation, post exploitation on AWS, but still working to allow testing other Cloud Providers and DevOps Components. | https://github.com/gl4ssesbo1/Nebula | 171 | 36| 
 | 20211011T21:00:31Z | Null | https://github.com/JadeGrey/MiscExploits | 0 | 0| 
 | 20211011T20:53:21Z | This repo contain builders of cab file, html file, and docx file for CVE-2021-40444 exploit | https://github.com/aslitsecurity/CVE-2021-40444_builders | 160 | 43| 
 | 20211011T20:51:37Z | Patch for Waterfall to improve performance during attacks and fix memory issues. | https://github.com/2lstudios-mc/FlameCord | 77 | 43| 
 | 20211011T20:38:44Z | One Click root Exploit for the machine Horizontall [HackTheBox] | https://github.com/Rajchowdhury420/Horizontall-HTB-Exploit | 0 | 0| 
+| 20211011T20:36:31Z | One Click root Exploit for the machine Seal of HackTheBox | https://github.com/Rajchowdhury420/Seal-HTB-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
