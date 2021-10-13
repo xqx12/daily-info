@@ -33,9 +33,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211012T23:24:12Z | CVE-2021-37980 | PoC CVE-2021-37980 : Inappropriate implementation in Sandbox (windows only) | https://github.com/ZeusBox/CVE-2021-37980 | | 
 | 20211012T23:05:11Z | CVE-2021-40444 | CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit | https://github.com/klezVirus/CVE-2021-40444 | | 
-| 20211012T19:31:05Z | CVE-2021-34486 | Windows Etw LPE | https://github.com/KaLendsi/CVE-2021-34486 | | 
 | 20211012T16:07:13Z | CVE-2021-22941 | Null | https://github.com/hoavt184/CVE-2021-22941 | | 
 | 20211012T15:02:02Z | cve-2021-41773 | MASS CVE-2021-41773 | https://github.com/justakazh/mass_cve-2021-41773 | | 
 | 20211012T14:14:55Z | CVE-2021-26085 | Atlassian Confluence Server 7.5.1 Pre-Authorization Arbitrary File Read vulnerability (CVE-2021-26085) | https://github.com/ColdFusionX/CVE-2021-26085 | | 
@@ -43,6 +41,8 @@
 | 20211012T12:28:03Z | CVE-2021-29337 | CVE-2021-29337 - Privilege Escalation in MODAPI.sys (MSI Dragon Center) | https://github.com/rjt-gupta/CVE-2021-29337 | | 
 | 20211012T10:55:18Z | CVE-2021-42261 | CVE-2021-42261 | https://github.com/jet-pentest/CVE-2021-42261 | | 
 | 20211012T07:57:24Z | CVE-2021-41773 | Null | https://github.com/iilegacyyii/PoC-CVE-2021-41773 | | 
+| 20211012T05:16:51Z | CVE-2021-26086 | Atlassian Jira Server/Data Center 8.4.0 - Arbitrary File read (CVE-2021-26086) | https://github.com/ColdFusionX/CVE-2021-26086 | | 
+| 20211012T03:41:30Z | CVE-2021-41773 | CVE-2021-41773: Path Traversal Zero-Day in Apache HTTP Server Exploited | https://github.com/twseptian/CVE-2021-41773 | | 
 
 
 # klee on Github 推荐
@@ -68,11 +68,11 @@
 | 20211012T23:06:27Z | Null | https://github.com/god12l/exploit | 0 | 0| 
 | 20211012T23:05:11Z | CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit | https://github.com/klezVirus/CVE-2021-40444 | 459 | 93| 
 | 20211012T22:53:20Z | A collection of more than 140+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 882 | 206| 
-| 20211012T22:26:06Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10202 | 1729| 
 | 20211012T21:33:17Z | Extra goodies for GEF: Open repository for unfiltered contributions to the project. | https://github.com/hugsy/gef-extras | 68 | 27| 
 | 20211012T21:32:34Z | iOS gamed exploit (fixed in 15.0.2) | https://github.com/illusionofchaos/ios-gamed-0day | 389 | 77| 
 | 20211012T20:27:24Z | Useful scripts and commands for post exploitation on Mac OS | https://github.com/dubs3c/MacRecon | 0 | 0| 
 | 20211012T20:17:28Z | This is a plugin for Minecraft that aids in building, as it gives the player creative mode and charges them for each block they place. All exploits are patched as well. | https://github.com/bsalha1/Printer | 2 | 6| 
+| 20211012T19:44:42Z | Exploitation du protocole ARP afin d%obtenir des informations confidentielles en utilisant l%attaque MITM (Man-in-the-middle) | https://github.com/antoinechauvn/mitm-attack | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -106,7 +106,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211012T12:27:22Z | A penetration testing tool for finding file upload bugs (NDSS 2020) | https://github.com/WSP-LAB/FUSE | 179 | 42| 
+| 20211012T21:02:40Z | A penetration testing tool for finding file upload bugs (NDSS 2020) | https://github.com/WSP-LAB/FUSE | 185 | 42| 
 | 20211012T08:00:46Z | Code for the paper %FlowLens: Enabling Efficient Flow Classification for ML-based Network Security Applications% [NDSS %21] | https://github.com/dmbb/FlowLens | 8 | 1| 
 
 
@@ -115,14 +115,14 @@
 | --- | --- | --- | --- | ---| 
 | 20211012T23:38:07Z | Null | https://github.com/kingofzeal/fuzzy-spork | 0 | 0| 
 | 20211012T23:34:14Z | Null | https://github.com/oscarpimentel/fuzzy-torch | 1 | 0| 
-| 20211012T23:27:37Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1102 | 126| 
 | 20211012T23:12:12Z | CS400 xteam | https://github.com/thesonofwil/fuzzy-barnacle-story | 0 | 0| 
-| 20211012T22:35:39Z | BSOD: Binary-only Scalable fuzzing Of device Drivers | https://github.com/0xf4b1/bsod-kernel-fuzzing | 87 | 8| 
 | 20211012T22:35:21Z | Kernel Fuzzer for Xen Project (KF/x) - Hypervisor-based fuzzing using Xen VM forking, VMI & AFL | https://github.com/intel/kernel-fuzzer-for-xen-project | 353 | 53| 
 | 20211012T21:57:57Z | Epub source for the Standard Ebooks edition of Little Fuzzy, by H. Beam Piper | https://github.com/standardebooks/h-beam-piper_little-fuzzy | 1 | 2| 
-| 20211012T21:14:09Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6719 | 1390| 
+| 20211012T21:14:09Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6719 | 1391| 
 | 20211012T21:07:55Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2401 | 145| 
 | 20211012T20:58:40Z | A Java library to determine probability of objects being similar. | https://github.com/intuit/fuzzy-matcher | 110 | 40| 
+| 20211012T20:47:54Z | Null | https://github.com/usama54321/dl-fuzzing | 0 | 0| 
+| 20211012T20:08:36Z | Null | https://github.com/dianelhuillier/FuzzCrum | 0 | 0| 
 
 
 

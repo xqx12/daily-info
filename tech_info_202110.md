@@ -46,9 +46,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211012T23:24:12Z | CVE-2021-37980 | PoC CVE-2021-37980 : Inappropriate implementation in Sandbox (windows only) | https://github.com/ZeusBox/CVE-2021-37980 | | 
+| 20211013T01:51:32Z | CVE-2021-37980 | PoC CVE-2021-37980 : Inappropriate implementation in Sandbox (windows only) | https://github.com/ZeusBox/CVE-2021-37980 | | 
+| 20211013T01:45:47Z | CVE-2021-34486 | Windows Etw LPE | https://github.com/KaLendsi/CVE-2021-34486 | | 
 | 20211012T23:05:11Z | CVE-2021-40444 | CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit | https://github.com/klezVirus/CVE-2021-40444 | | 
-| 20211012T19:31:05Z | CVE-2021-34486 | Windows Etw LPE | https://github.com/KaLendsi/CVE-2021-34486 | | 
 | 20211012T16:07:13Z | CVE-2021-22941 | Null | https://github.com/hoavt184/CVE-2021-22941 | | 
 | 20211012T15:02:02Z | cve-2021-41773 | MASS CVE-2021-41773 | https://github.com/justakazh/mass_cve-2021-41773 | | 
 | 20211012T14:14:55Z | CVE-2021-26085 | Atlassian Confluence Server 7.5.1 Pre-Authorization Arbitrary File Read vulnerability (CVE-2021-26085) | https://github.com/ColdFusionX/CVE-2021-26085 | | 
@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211013T00:29:58Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2835 | 78| 
+| 20211013T01:25:48Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2836 | 78| 
 | 20211012T22:06:45Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
 | 20211012T14:33:19Z | application de mesure énergétique des application métier d%une entreprise - kleegroup - api | https://github.com/CinquinAndy/klee-green-it-app-api | 0 | 0| 
 | 20211012T05:30:15Z | :musical_note: Kleene up your music library | https://github.com/KleeneApp/Kleene-iOS | 7 | 0| 
@@ -85,21 +85,23 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211013T00:30:01Z | Null | https://github.com/rhein055/ArtOfExploitation | 0 | 1| 
-| 20211013T00:03:35Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
-| 20211012T23:14:27Z | The Next-Gen Roblox Exploit Hub | https://github.com/HonestlyDex/DexHub | 1 | 0| 
-| 20211012T23:14:02Z | Extensible framework for analyzing publicly available information about vulnerabilities | https://github.com/leonov-av/vulristics | 41 | 6| 
-| 20211012T23:06:27Z | Null | https://github.com/god12l/exploit | 0 | 0| 
-| 20211012T23:05:11Z | CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit | https://github.com/klezVirus/CVE-2021-40444 | 459 | 93| 
-| 20211012T22:53:20Z | A collection of more than 140+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 882 | 206| 
-| 20211012T22:26:06Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10202 | 1729| 
-| 20211012T21:33:17Z | Extra goodies for GEF: Open repository for unfiltered contributions to the project. | https://github.com/hugsy/gef-extras | 68 | 27| 
-| 20211012T21:32:34Z | iOS gamed exploit (fixed in 15.0.2) | https://github.com/illusionofchaos/ios-gamed-0day | 389 | 77| 
+| 20211013T01:59:19Z | Null | https://github.com/PM2Exploit/PM2Exploit | 0 | 0| 
+| 20211013T01:43:25Z | utility for become fumo scripts | https://github.com/ceat-ceat/BecomeFumoStuff | 0 | 0| 
+| 20211013T01:40:58Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 352 | 52| 
+| 20211013T01:38:26Z | Hello. Many of you may have encountered this error in the inventory sorting and channel switching system, but it is a bug that can also be exploited with a small script. | https://github.com/Iicymnius/Copy-Error-Solution | 0 | 0| 
+| 20211013T01:33:44Z | Unsorted, raw, ugly & probably poorly usable tools for reversing, exploit and pentest | https://github.com/hugsy/stuff | 175 | 54| 
+| 20211013T01:32:32Z | Notes about attacking Jenkins servers | https://github.com/gquere/pwn_jenkins | 1142 | 218| 
+| 20211013T01:28:21Z | Tools and Exploits | https://github.com/abundov/web-exploits | 2 | 0| 
+| 20211013T01:21:25Z | Hello. Many of you may have encountered this error in the inventory sorting and channel switching system, but it is a bug that can also be exploited with a small script. | https://github.com/pageoflicymnius/Copy-Error-Solution | 0 | 0| 
+| 20211013T01:21:09Z | exploit | https://github.com/9host1st/v8 | 0 | 0| 
+| 20211013T01:15:49Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10203 | 1729| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211013T01:05:35Z | Python script to automate netcat backdoors, and works with nmap throughly. | https://github.com/thehackerdude597/Netmap | 0 | 0| 
+| 20211013T00:54:28Z | Python script to automate netcat backdoors, and works with nmap throughly. | https://github.com/thehackerdude597/netmap | 0 | 0| 
 | 20211013T00:17:41Z | This is the repository for paper NEEDLE: Towards Non-invertible Backdoor Attack to Deep Learning Models. | https://github.com/RiraIkuta/NEEDLE | 1 | 0| 
 | 20211012T22:57:54Z | A simple remote tool written in C#.    一个简单的c#远控 | https://github.com/qwqdanchun/DcRat | 390 | 143| 
 | 20211012T20:17:39Z | backdoor checking system in garry%smod addons | https://github.com/YohSambre/braxscan | 0 | 0| 
@@ -108,8 +110,6 @@
 | 20211012T17:50:25Z | This is a Backdoor program for my WHITE project. Though this is a simple thing but can cause huge privacy risks to to victims so please don%t use it for any kind of  malicious  purpose. | https://github.com/arifanzum/white_backdoor | 0 | 0| 
 | 20211012T16:44:59Z | Remote control software | https://github.com/h1zzz/purewater | 0 | 0| 
 | 20211012T15:35:07Z | Uses Apple%s MDM protocol to backdoor a device with a malicious profile. | https://github.com/MythicAgents/orthrus | 27 | 5| 
-| 20211012T14:40:34Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 36 | 27| 
-| 20211012T12:27:16Z | Unofficial pytorch implementation of RobNet(Defense-Resistant Backdoor Attacks on DNN) | https://github.com/dhkim2810/RobNet | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -130,7 +130,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211012T12:27:22Z | A penetration testing tool for finding file upload bugs (NDSS 2020) | https://github.com/WSP-LAB/FUSE | 179 | 42| 
+| 20211012T21:02:40Z | A penetration testing tool for finding file upload bugs (NDSS 2020) | https://github.com/WSP-LAB/FUSE | 185 | 42| 
 | 20211012T08:00:46Z | Code for the paper %FlowLens: Enabling Efficient Flow Classification for ML-based Network Security Applications% [NDSS %21] | https://github.com/dmbb/FlowLens | 8 | 1| 
 | 20211004T19:19:49Z | Code release for our NDSS %18 paper (offline phase). | https://github.com/shitongzhu/Anti-anti-adblocker | 0 | 0| 
 | 20211004T09:47:09Z | Code for NDSS 2021 Paper %Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses Against Federated Learning% | https://github.com/vrt1shjwlkr/NDSS21-Model-Poisoning | 27 | 5| 
@@ -139,16 +139,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211013T00:31:25Z | Null | https://github.com/yasminekat/fuzzy-octo-potato | 0 | 0| 
+| 20211013T01:56:49Z | TUI file explorer based on PowerShell and fzf | https://github.com/shinyanger/fuzzy-explorer | 0 | 0| 
+| 20211013T01:40:03Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1102 | 126| 
+| 20211013T01:36:58Z | BSOD: Binary-only Scalable fuzzing Of device Drivers | https://github.com/0xf4b1/bsod-kernel-fuzzing | 88 | 8| 
+| 20211013T01:31:31Z | Null | https://github.com/tami2293/SUCHAI-FS-Fuzzy-Testing | 0 | 0| 
+| 20211013T01:01:37Z | Null | https://github.com/yasminekat/fuzzy-octo-potato | 0 | 0| 
+| 20211013T01:01:31Z | Null | https://github.com/cycy2233/fuzzy-umbrella | 0 | 0| 
+| 20211013T00:45:02Z | bash script to run from installation media to setup gentoo automagically | https://github.com/fjp321/fuzzy-goggles | 0 | 0| 
+| 20211013T00:41:51Z | collection of helper tools for fuzzing | https://github.com/fuzzah/fuzzaide | 10 | 1| 
+| 20211013T00:36:45Z | Fuzzy matcher, sorter, and conveter for ddc.vim | https://github.com/tani/ddc-fuzzy | 15 | 1| 
 | 20211013T00:08:01Z | Fuzzer for Dolt repositories | https://github.com/dolthub/fuzzer | 2 | 0| 
-| 20211013T00:05:49Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 29 | 11| 
-| 20211012T23:38:07Z | Null | https://github.com/kingofzeal/fuzzy-spork | 0 | 0| 
-| 20211012T23:34:14Z | Null | https://github.com/oscarpimentel/fuzzy-torch | 1 | 0| 
-| 20211012T23:27:37Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1102 | 126| 
-| 20211012T23:12:12Z | CS400 xteam | https://github.com/thesonofwil/fuzzy-barnacle-story | 0 | 0| 
-| 20211012T22:35:39Z | BSOD: Binary-only Scalable fuzzing Of device Drivers | https://github.com/0xf4b1/bsod-kernel-fuzzing | 87 | 8| 
-| 20211012T22:35:21Z | Kernel Fuzzer for Xen Project (KF/x) - Hypervisor-based fuzzing using Xen VM forking, VMI & AFL | https://github.com/intel/kernel-fuzzer-for-xen-project | 353 | 53| 
-| 20211012T21:57:57Z | Epub source for the Standard Ebooks edition of Little Fuzzy, by H. Beam Piper | https://github.com/standardebooks/h-beam-piper_little-fuzzy | 1 | 2| 
 
 
 
