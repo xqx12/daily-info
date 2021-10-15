@@ -27,6 +27,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211015T12:41:11Z | 未知编号 | VERY simple code to check if the browser is compatible or not | https://github.com/Nazky/PS4CVE202130858 | | 
 | 20211015T10:45:52Z | CVE-2021-33766 | ProxyToken (CVE-2021-33766) : An Authentication Bypass in Microsoft Exchange Server POC exploit | https://github.com/bhdresh/CVE-2021-33766 | | 
 | 20211015T09:09:41Z | CVE-2021-36749 | Apache Druid 任意文件读取 | https://github.com/BrucessKING/CVE-2021-36749 | | 
 | 20211015T08:10:42Z | CVE-2020-0041 | Null | https://github.com/koharin/CVE-2020-0041 | | 
