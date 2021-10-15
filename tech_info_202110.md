@@ -85,11 +85,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211015T12:00:42Z | PS4 Jailbreak by Karo and Re Designed by Me For Firmware 672 | https://github.com/Harleythetech/Exploit-6.72 | 0 | 0| 
+| 20211015T12:03:01Z | PS4 Jailbreak by Karo and Re Designed by Me For Firmware 672 | https://github.com/Harleythetech/Exploit-6.72 | 0 | 0| 
+| 20211015T12:03:01Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
 | 20211015T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10214 | 1738| 
 | 20211015T11:30:51Z | Apollo is a post-exploitation tool for managing, enumerating and pivotting on compromised machines. | https://github.com/thecoderstudio/apollo | 5 | 0| 
 | 20211015T11:25:34Z | I studied basic knowledge about hacking. Also, I learned how to find and exploit vulnerabilities in the system by solving hacking problems. | https://github.com/itemgiver/Hacking-Study | 0 | 0| 
-| 20211015T11:02:55Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
 | 20211015T10:53:26Z | CTF中Pwn的快速利用模板（包含awd pwn） | https://github.com/da1sy/FastPwn | 12 | 3| 
 | 20211015T10:52:19Z | Null | https://github.com/PorryDepTrai/exploit | 0 | 0| 
 | 20211015T10:49:34Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 3639 | 1256| 
@@ -108,7 +108,7 @@
 | 20211015T02:44:54Z | Backdoor attacks on a deep neural network-based system for COVID-19 detection from chest X-ray images | https://github.com/YukiM00/Backdoored-COVID-Net | 0 | 0| 
 | 20211014T18:08:18Z | A self made multi-purpose CTF tool written under Kali Linux Os taking adventage of several programs installed. Contains one liner backdoors generator for many programs/languages, recognition scanners, useful  encoders/decoders with some special features as powershell base64 format, tools from ... [ more info at README.md ] | https://github.com/0bfxgh0st/saf2 | 2 | 1| 
 | 20211014T16:32:45Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 6631 | 1669| 
-| 20211014T14:15:36Z | pybotnet -   A Python Library for building Botnet , Trojan or BackDoor for windows and linux with Telegram control panel  | https://github.com/onionj/pybotnet | 34 | 18| 
+| 20211014T14:15:36Z | pybotnet -   A Python Library for building Botnet , Trojan or BackDoor for windows and linux with Telegram control panel  | https://github.com/onionj/pybotnet | 34 | 19| 
 | 20211014T12:57:08Z | Code for the paper %Rethinking Stealthiness of Backdoor Attack against NLP Models% (ACL-IJCNLP 2021) | https://github.com/lancopku/SOS | 5 | 0| 
 
 
@@ -139,16 +139,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211015T01:50:16Z | TUI file explorer based on PowerShell and fzf | https://github.com/shinyanger/fuzzy-explorer | 0 | 0| 
-| 20211015T01:37:00Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20211015T01:18:48Z | This mockup website is meant to be hacked using Fuzzing and Brute Force | https://github.com/NesaByte/BTN-HappyMe- | 0 | 0| 
-| 20211015T00:58:13Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6725 | 1393| 
-| 20211015T00:09:46Z | Null | https://github.com/jinggablue-studio/Fuzzy-Hydroponics | 0 | 0| 
-| 20211015T00:07:59Z | Config files for my GitHub profile. | https://github.com/DuckFuzzy/DuckFuzzy | 0 | 0| 
-| 20211014T23:31:59Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1104 | 126| 
-| 20211014T23:15:03Z | Null | https://github.com/fdegiovanni/fuzzy-logic-phaser | 0 | 0| 
-| 20211014T21:47:37Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3723 | 881| 
-| 20211014T21:09:37Z | Comparing tool variability and numerical variability in fMRI analyses results | https://github.com/ali4006/fuzzy-neurotools | 0 | 1| 
+| 20211015T11:47:14Z | Null | https://github.com/hashes-jmi/HackJMI2-FuzzException | 0 | 0| 
+| 20211015T11:44:34Z | Fuzzy matching algorithm based on Sublime Text%s string search | https://github.com/jcs-elpa/sublime-fuzzy | 0 | 0| 
+| 20211015T11:31:37Z | Null | https://github.com/LogutovEgor/fuzzy_additive_ratio_assessment | 0 | 0| 
+| 20211015T11:30:52Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20211015T10:20:19Z | Fuzzy logic based Allergen protein predictor | https://github.com/brsaran/FuzzyApp | 0 | 0| 
+| 20211015T09:57:29Z | Fuzzer Helper | https://github.com/Aif4thah/CShidori | 0 | 0| 
+| 20211015T09:51:00Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3727 | 882| 
+| 20211015T09:44:21Z | Null | https://github.com/shanesaulnier0/fuzzy-disco | 0 | 0| 
+| 20211015T08:45:59Z | TUI file explorer based on PowerShell and fzf | https://github.com/shinyanger/fuzzy-explorer | 0 | 0| 
+| 20211015T08:41:02Z | Reversed Overtaking Kit -- An HTTP Response fuzzer to find Vulnerabilities in Security Scanners | https://github.com/AvalZ/RevOK | 19 | 3| 
 
 
 
