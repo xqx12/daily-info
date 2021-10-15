@@ -46,38 +46,38 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211014T12:50:53Z | CVE-2021-33766 | ProxyToken (CVE-2021-33766) : An Authentication Bypass in Microsoft Exchange Server POC exploit | https://github.com/bhdresh/CVE-2021-33766 | | 
-| 20211014T12:27:44Z | CVE-2021-37980 | PoC CVE-2021-37980 : Inappropriate implementation in Sandbox (windows only) | https://github.com/ZeusBox/CVE-2021-37980 | | 
-| 20211014T10:57:21Z | CVE-2021-36749 | Apache Druid 任意文件读取 | https://github.com/BrucessKING/CVE-2021-36749 | | 
-| 20211014T10:40:05Z | 未知编号 | VERY simple code to check if the browser is compatible or not | https://github.com/Nazky/PS4CVE202130858 | | 
-| 20211014T10:09:51Z | CVE-2020-16846 | Null | https://github.com/zomy22/CVE-2020-16846-Saltstack-Salt-API | | 
-| 20211014T07:37:40Z | CVE-2021-40444 | CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit | https://github.com/klezVirus/CVE-2021-40444 | | 
-| 20211014T05:26:28Z | 未知编号 | Hi there! Thanks for testing out my first ever Github repository & implementation of an iOS webkit exploit! So you are aware: I did not discover this exploit, and I also did not write most of this. So far, I have started off with modifying existing code to begin to learn how this all works. Let me know how your experience went! | https://github.com/FitTerminator/CVE-202130858 | | 
-| 20211014T04:59:46Z | CVE-2021-41773 |  Apache HTTP Server 2.4.49, 2.4.50 - Path Traversal & RCE | https://github.com/scarmandef/CVE-2021-41773 | | 
-| 20211014T02:40:34Z | CVE-2021-29337 | CVE-2021-29337 - Privilege Escalation in MODAPI.sys (MSI Dragon Center) | https://github.com/rjt-gupta/CVE-2021-29337 | | 
-| 20211013T18:39:00Z | CVE-2021-26086 | Atlassian Jira Server/Data Center 8.4.0 - Arbitrary File read (CVE-2021-26086) | https://github.com/ColdFusionX/CVE-2021-26086 | | 
+| 20211015T00:43:35Z | CVE-2021-33766 | ProxyToken (CVE-2021-33766) : An Authentication Bypass in Microsoft Exchange Server POC exploit | https://github.com/bhdresh/CVE-2021-33766 | | 
+| 20211014T20:45:41Z | 未知编号 | Null | https://github.com/FitTerminator/PS4-CVE-202130858 | | 
+| 20211014T20:39:19Z | CVE-2021-29337 | CVE-2021-29337 - Privilege Escalation in MODAPI.sys (MSI Dragon Center) | https://github.com/rjt-gupta/CVE-2021-29337 | | 
+| 20211014T20:28:47Z | 未知编号 | Hi there! Thanks for testing out my first ever Github repository & implementation of an iOS webkit exploit! So you are aware: I did not discover this exploit, and I also did not write most of this. So far, I have started off with modifying existing code to begin to learn how this all works. Let me know how your experience went! | https://github.com/FitTerminator/iOS-CVE-202130858 | | 
+| 20211014T19:54:15Z | CVE-2021-37980 | PoC CVE-2021-37980 : Inappropriate implementation in Sandbox (windows only) | https://github.com/ZeusBox/CVE-2021-37980 | | 
+| 20211014T18:16:13Z | CVE-2021-42013 | Docker container lab to play/learn with CVE-2021-42013 | https://github.com/twseptian/CVE-2021-42013-Lab | | 
+| 20211014T17:44:22Z | CVE-2021-36749 | Null | https://github.com/dorkerdevil/CVE-2021-36749 | | 
+| 20211014T16:12:17Z | 未知编号 | VERY simple code to check if the browser is compatible or not | https://github.com/Nazky/PS4CVE202130858 | | 
+| 20211014T16:02:06Z | CVE-2021-40444 | CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit | https://github.com/klezVirus/CVE-2021-40444 | | 
+| 20211014T15:58:05Z | CVE-2021-41730 | Null | https://github.com/IBUILI/CVE-2021-41730 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211014T12:49:29Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2840 | 79| 
+| 20211015T00:04:03Z | Null | https://github.com/kleelab/kleelab.github.io | 0 | 0| 
+| 20211014T16:16:07Z | `[@Klee@]*FREE PRIMOGEMS HACK [Genshin Impact Hack 2021] Genshin Impact Free Primogems & Genesis Crystals Hack Codes - FREE PRIMOGEMS GENSHIN IMPACT CODES EASY & SAFE!~*{ 1969 }(wISHES} | https://github.com/lexikiyod/-Klee-FREE-PRIMOGEMS-HACK-Genshin-Impact-Hack-2021-Genshin-Impact-Free-Primogems-Genesis-Cry | 0 | 0| 
+| 20211014T15:35:14Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2843 | 79| 
+| 20211014T14:12:34Z | Null | https://github.com/xyfke/kleeSE | 0 | 0| 
 | 20211014T08:42:14Z | Null | https://github.com/CinquinAndy/klee-green-it-app | 0 | 0| 
-| 20211014T06:45:44Z | Null | https://github.com/kleelab/kleelab.github.io | 0 | 0| 
 | 20211014T05:58:52Z | This font is based on the font Klee One by Fontworks, and the font LXGW WenKai by LXGW for adding Simplified and Traditional Chinese character glyphs. The pinyin characters are added by ToneOZ.com using the open source tool Mengshen, with the IVS heteronyms font concept from the Bopomofo IVS by But Ko. | https://github.com/jeffreyxuan/toneoz-font-pinyin-wenkai | 8 | 0| 
 | 20211013T20:49:51Z | Null | https://github.com/ayazip/klee-error-witness-checker | 0 | 0| 
 | 20211013T20:19:03Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1789 | 509| 
 | 20211013T17:52:53Z | Null | https://github.com/JaimePSantos/ResearchKlee | 0 | 0| 
 | 20211012T22:06:45Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
-| 20211012T14:33:19Z | application de mesure énergétique des application métier d%une entreprise - kleegroup - api | https://github.com/CinquinAndy/klee-green-it-app-api | 0 | 0| 
-| 20211012T05:30:15Z | :musical_note: Kleene up your music library | https://github.com/KleeneApp/Kleene-iOS | 7 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211014T15:59:01Z | 🎻 Automatic Exploit Generation using symbolic execution | https://github.com/aesophor/requiem | 11 | 3| 
 | 20211012T23:50:50Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 171 | 39| 
-| 20211012T06:24:14Z | 🎻 Automatic Exploit Generation using symbolic execution | https://github.com/aesophor/requiem | 11 | 3| 
 | 20211007T16:36:05Z | Null | https://github.com/yuvalkirstain/s2e-coref | 16 | 6| 
 | 20211006T20:22:04Z | Group%s website code. | https://github.com/s2e-lab/s2e-lab.github.io | 0 | 0| 
 
@@ -85,46 +85,46 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211014T12:53:06Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 23 | 14| 
-| 20211014T12:52:24Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 3635 | 1256| 
-| 20211014T12:50:53Z | ProxyToken (CVE-2021-33766) : An Authentication Bypass in Microsoft Exchange Server POC exploit | https://github.com/bhdresh/CVE-2021-33766 | 11 | 7| 
-| 20211014T12:27:03Z | PS4 Jailbreak by Karo and Re Designed by Me For Firmware 672 | https://github.com/Harleythetech/Exploit-6.72 | 0 | 0| 
-| 20211014T12:23:02Z | Null | https://github.com/hacker557/dll-hijacking-exploit-to-open-calc | 0 | 0| 
-| 20211014T12:15:40Z | Null | https://github.com/PeterMxx/ps4_8.xx_exploit | 0 | 0| 
-| 20211014T12:07:00Z | How to create a more stable reverse shell while exploiting a target. | https://github.com/AnanSoli/Stabilizing-a-reverse-shell | 0 | 0| 
-| 20211014T12:03:17Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
-| 20211014T12:02:05Z | A vulnerable machine made for CTF. In this vulnerable machine Dirty COW vulnerability is used. Dirty COW vulnerability is a type of privilege escalation exploit, which essentially means that it can be used to gain root-user access on any Linux-based system. | https://github.com/risacker/Vulnerable_Machine | 0 | 0| 
-| 20211014T11:36:07Z | Exploits | https://github.com/SleepTheGod/Twitter | 0 | 0| 
+| 20211015T01:57:18Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 8368 | 1446| 
+| 20211015T01:40:59Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 352 | 53| 
+| 20211015T01:36:09Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6038 | 1440| 
+| 20211015T01:30:30Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 57 | 82| 
+| 20211015T01:03:03Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
+| 20211014T23:48:38Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10213 | 1736| 
+| 20211014T22:14:10Z | A Blind SQLi Exploit Script for DVWA - Built for Demonstration Purposes | https://github.com/R-s0n/DVWA-Blind-SQLi | 0 | 0| 
+| 20211014T22:06:20Z | Monitor-server-api helps you to collect, historicize and exploit the data from your tests written with pytest and monitored with pytest-monitor. | https://github.com/CFMTech/monitor-server-api | 3 | 0| 
+| 20211014T21:53:05Z | Null | https://github.com/PitchyATree/roblox-exploit-library | 1 | 0| 
+| 20211014T21:46:23Z | Extensible framework for analyzing publicly available information about vulnerabilities | https://github.com/leonov-av/vulristics | 41 | 6| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211014T23:52:23Z | Lite version of my Gatekeeper backdoor for public use. | https://github.com/dievus/MayorSecBackdoor | 22 | 3| 
+| 20211014T19:07:07Z | Python Network Scanner with Backdoor Detection , Google Blacklist Scan and other Nmap resources | https://github.com/xadhrit/d9scan | 16 | 10| 
+| 20211014T18:08:18Z | A self made multi-purpose CTF tool written under Kali Linux Os taking adventage of several programs installed. Contains one liner backdoors generator for many programs/languages, recognition scanners, useful  encoders/decoders with some special features as powershell base64 format, tools from ... [ more info at README.md ] | https://github.com/0bfxgh0st/saf2 | 2 | 1| 
+| 20211014T16:32:45Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 6631 | 1669| 
+| 20211014T14:15:36Z | pybotnet -   A Python Library for building Botnet , Trojan or BackDoor for windows and linux with Telegram control panel  | https://github.com/onionj/pybotnet | 34 | 17| 
+| 20211014T13:44:54Z | Backdoor attacks on a deep neural network-based system for COVID-19 detection from chest X-ray images | https://github.com/YukiM00/Backdoored-COVID-Net | 0 | 0| 
 | 20211014T12:57:08Z | Code for the paper %Rethinking Stealthiness of Backdoor Attack against NLP Models% (ACL-IJCNLP 2021) | https://github.com/lancopku/SOS | 5 | 0| 
-| 20211014T12:55:28Z | Lite version of my Gatekeeper backdoor for public use. | https://github.com/dievus/MayorSecBackdoor | 5 | 1| 
 | 20211014T12:25:44Z | Powershell fork of Monohard by Carlos Ganoza P.  This botnet/backdoor was designed to egress over unecrypted web using very little, but effective obfuscation.  Egress over ICMP and DNS are planned as features.  Lastly, the server code is designed to setup the C2 on a LAMP-esque server.  The default creds are admin/admin. | https://github.com/khr0x40sh/Galvatron | 34 | 22| 
 | 20211014T12:13:23Z | Official implementation of the EMNLP 2021 paper %ONION: A Simple and Effective Defense Against Textual Backdoor Attacks% | https://github.com/thunlp/ONION | 4 | 0| 
 | 20211014T12:04:48Z | e-commerce, Which provides a variety of doors each door/system has its philosophy. | https://github.com/salihcodev/backdoors | 0 | 0| 
-| 20211014T09:22:39Z | This is a backdoor script using python ....... | https://github.com/shubhamkumar-yadav/backdoor | 0 | 0| 
-| 20211014T08:19:54Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 330 | 61| 
-| 20211014T05:22:10Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 6630 | 1670| 
-| 20211014T01:27:51Z | Invisible Backdoor Attack with Sample-Specific Triggers | https://github.com/yuezunli/ISSBA | 7 | 3| 
-| 20211013T21:07:23Z | Ro3b - Advance Banking HTTP Botnet  | https://github.com/mathio3/Ro3b-HTTP-botnet | 22 | 9| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211014T10:16:20Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 17 | 3| 
-| 20211014T09:26:00Z | Symbolic execution engine for ABS | https://github.com/Edkamb/crowbar-tool | 0 | 3| 
+| 20211014T15:59:01Z | 🎻 Automatic Exploit Generation using symbolic execution | https://github.com/aesophor/requiem | 11 | 3| 
+| 20211014T15:21:54Z | Symbolic execution engine for ABS | https://github.com/Edkamb/crowbar-tool | 0 | 3| 
+| 20211014T15:04:39Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 17 | 3| 
+| 20211014T14:36:26Z | A prototype for an interactive symbolic-execution issue report | https://github.com/arseniy-sonar/se-ui-prototype | 0 | 0| 
 | 20211014T04:05:31Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 713 | 97| 
 | 20211013T20:19:03Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1789 | 509| 
 | 20211013T19:50:28Z | Symbolic Execution for WebAssembly | https://github.com/romits800/Vivienne_eval | 1 | 0| 
 | 20211013T18:19:01Z | RAUK: Automatic Schedulability Analysis of RTIC Applications Using Symbolic Execution | https://github.com/markhakansson/master-thesis | 5 | 0| 
 | 20211013T16:49:06Z | Symbolica%s open-source symbolic execution engine. | https://github.com/Symbolica/Symbolica | 30 | 2| 
-| 20211013T16:02:39Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2490 | 367| 
-| 20211013T15:31:39Z | Demonstration of state/list monad as an API for symbolic execution | https://github.com/chklauser/symexec | 0 | 0| 
-| 20211013T09:39:46Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 159 | 36| 
+| 20211013T16:02:39Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2490 | 368| 
 
 
 # big4 on Github 推荐
@@ -139,16 +139,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211014T12:54:38Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6725 | 1392| 
-| 20211014T12:51:38Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20211014T12:41:41Z | Null | https://github.com/storj-antonio/fuzzing_concept | 0 | 0| 
-| 20211014T12:35:28Z | Fuzzer for the .NET toolchains, developed as a project for the 2018 Language-Based Security course at Aarhus University. | https://github.com/jakobbotsch/Fuzzlyn | 213 | 18| 
-| 20211014T12:15:15Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 29 | 11| 
-| 20211014T12:06:53Z | Attempts to find security vulnerabilities in NetHack via input Fuzzing | https://github.com/recursion-ninja/Superion-YAML | 1 | 3| 
-| 20211014T11:58:44Z | StateAFL: A Greybox Fuzzer for Stateful Network Servers | https://github.com/stateafl/stateafl | 4 | 1| 
-| 20211014T11:54:50Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3721 | 881| 
-| 20211014T10:40:24Z | Credax - Fuzzing Tool with Slack Notifications. | https://github.com/notmarshmllow/credax | 9 | 1| 
-| 20211014T10:23:58Z | Null | https://github.com/User-TGK/software-security-fuzzing | 1 | 0| 
+| 20211015T01:50:16Z | TUI file explorer based on PowerShell and fzf | https://github.com/shinyanger/fuzzy-explorer | 0 | 0| 
+| 20211015T01:37:00Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20211015T01:18:48Z | This mockup website is meant to be hacked using Fuzzing and Brute Force | https://github.com/NesaByte/BTN-HappyMe- | 0 | 0| 
+| 20211015T00:58:13Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6725 | 1393| 
+| 20211015T00:09:46Z | Null | https://github.com/jinggablue-studio/Fuzzy-Hydroponics | 0 | 0| 
+| 20211015T00:07:59Z | Config files for my GitHub profile. | https://github.com/DuckFuzzy/DuckFuzzy | 0 | 0| 
+| 20211014T23:31:59Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1104 | 126| 
+| 20211014T23:15:03Z | Null | https://github.com/fdegiovanni/fuzzy-logic-phaser | 0 | 0| 
+| 20211014T21:47:37Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3723 | 881| 
+| 20211014T21:09:37Z | Comparing tool variability and numerical variability in fMRI analyses results | https://github.com/ali4006/fuzzy-neurotools | 0 | 1| 
 
 
 
