@@ -46,31 +46,31 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211015T23:02:27Z | CVE-2021-41773 | The first vulnerability with the CVE identifier CVE-2021-41773 is a path traversal flaw that exists in Apache HTTP Server 2.4.49. | https://github.com/LudovicPatho/CVE-2021-41773 | | 
+| 20211015T19:28:33Z | CVE-2021-41773 | Null | https://github.com/shiomiyan/CVE-2021-41773 | | 
+| 20211015T18:51:45Z | 未知编号 | Null | https://github.com/brydennik69/First-CVE2021 | | 
+| 20211015T18:51:37Z | 未知编号 | Null | https://github.com/FitTerminator/PS4-CVE-202130858 | | 
+| 20211015T18:07:34Z | CVE-2021-37980 | PoC CVE-2021-37980 : Inappropriate implementation in Sandbox (windows only) | https://github.com/ZeusBox/CVE-2021-37980 | | 
+| 20211015T16:08:16Z | CVE-2021-42071 | In Visual Tools DVR VX16 4.2.28.0, an unauthenticated attacker can achieve remote command execution via shell metacharacters in the cgi-bin/slogin/login.py User-Agent HTTP header. | https://github.com/adubaldo/CVE-2021-42071 | | 
+| 20211015T14:07:23Z | CVE-2020-25078 | CVE-2020-25078账号密码信息泄露批量脚本Batch script of D-Link DCS series camera account password information disclosure | https://github.com/chinaYozz/CVE-2020-25078 | | 
+| 20211015T13:01:02Z | CVE-2021-33766 | ProxyToken (CVE-2021-33766) : An Authentication Bypass in Microsoft Exchange Server POC exploit | https://github.com/bhdresh/CVE-2021-33766 | | 
 | 20211015T12:41:11Z | 未知编号 | VERY simple code to check if the browser is compatible or not | https://github.com/Nazky/PS4CVE202130858 | | 
-| 20211015T10:45:52Z | CVE-2021-33766 | ProxyToken (CVE-2021-33766) : An Authentication Bypass in Microsoft Exchange Server POC exploit | https://github.com/bhdresh/CVE-2021-33766 | | 
 | 20211015T09:09:41Z | CVE-2021-36749 | Apache Druid 任意文件读取 | https://github.com/BrucessKING/CVE-2021-36749 | | 
-| 20211015T08:10:42Z | CVE-2020-0041 | Null | https://github.com/koharin/CVE-2020-0041 | | 
-| 20211015T07:22:53Z | CVE-2021-37980 | PoC CVE-2021-37980 : Inappropriate implementation in Sandbox (windows only) | https://github.com/ZeusBox/CVE-2021-37980 | | 
-| 20211015T05:35:33Z | CVE-2020-29254 | TikiWiki 21.2 allows to edit templates without the use of a CSRF protection.  | https://github.com/S1lkys/CVE-2020-29254 | | 
-| 20211014T20:45:41Z | 未知编号 | Null | https://github.com/FitTerminator/PS4-CVE-202130858 | | 
-| 20211014T20:39:19Z | CVE-2021-29337 | CVE-2021-29337 - Privilege Escalation in MODAPI.sys (MSI Dragon Center) | https://github.com/rjt-gupta/CVE-2021-29337 | | 
-| 20211014T20:28:47Z | 未知编号 | Hi there! Thanks for testing out my first ever Github repository & implementation of an iOS webkit exploit! So you are aware: I did not discover this exploit, and I also did not write most of this. So far, I have started off with modifying existing code to begin to learn how this all works. Let me know how your experience went! | https://github.com/FitTerminator/iOS-CVE-202130858 | | 
-| 20211014T18:16:13Z | CVE-2021-42013 | Docker container lab to play/learn with CVE-2021-42013 | https://github.com/twseptian/CVE-2021-42013-Lab | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211015T20:51:32Z | Config files for my GitHub profile. | https://github.com/kleervoyans/kleervoyans | 0 | 0| 
+| 20211015T19:45:47Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2846 | 79| 
+| 20211015T16:28:39Z | Personal Blog | https://github.com/klee1611/klee1611.github.io | 1 | 1| 
+| 20211015T13:28:53Z | Backend application for running static analysis of rust-based programs | https://github.com/LedgerProject/safepkt_backend | 0 | 1| 
 | 20211015T12:10:06Z | Null | https://github.com/CinquinAndy/klee-green-it-app | 0 | 0| 
 | 20211015T11:40:01Z | application de mesure énergétique des application métier d%une entreprise - kleegroup - api | https://github.com/CinquinAndy/klee-green-it-app-api | 0 | 0| 
 | 20211015T10:07:28Z | This font is based on the font Klee One by Fontworks, and the font LXGW WenKai by LXGW for adding Simplified and Traditional Chinese character glyphs. The pinyin characters are added by ToneOZ.com using the open source tool Mengshen, with the IVS heteronyms font concept from the Bopomofo IVS by But Ko. | https://github.com/jeffreyxuan/toneoz-font-pinyin-wenkai | 9 | 0| 
-| 20211015T08:10:18Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2845 | 79| 
 | 20211015T04:04:08Z | Null | https://github.com/kleelab/kleelab.github.io | 0 | 0| 
 | 20211015T02:28:14Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1790 | 509| 
 | 20211014T16:16:07Z | `[@Klee@]*FREE PRIMOGEMS HACK [Genshin Impact Hack 2021] Genshin Impact Free Primogems & Genesis Crystals Hack Codes - FREE PRIMOGEMS GENSHIN IMPACT CODES EASY & SAFE!~*{ 1969 }(wISHES} | https://github.com/lexikiyod/-Klee-FREE-PRIMOGEMS-HACK-Genshin-Impact-Hack-2021-Genshin-Impact-Free-Primogems-Genesis-Cry | 0 | 0| 
-| 20211014T14:12:34Z | Null | https://github.com/xyfke/kleeSE | 0 | 0| 
-| 20211013T20:49:51Z | Null | https://github.com/ayazip/klee-error-witness-checker | 0 | 0| 
-| 20211013T17:52:53Z | Null | https://github.com/JaimePSantos/ResearchKlee | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -100,16 +100,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211015T11:54:59Z | Lite version of my Gatekeeper backdoor for public use. | https://github.com/dievus/MayorSecBackdoor | 24 | 4| 
-| 20211015T10:59:32Z | Python Network Scanner with Backdoor Detection , Google Blacklist Scan and other Nmap resources | https://github.com/xadhrit/d9scan | 17 | 11| 
+| 20211015T20:30:34Z | SAMP Roleplay server files. It%s OUT OF DATE. I wont help or fix anything about this files. It has bugs and backdoors. You can clone systems, textdraws etc. | https://github.com/MetoIsTaken/SAMP-Server-Files-Horizon-Edit | 0 | 0| 
+| 20211015T20:20:38Z | Null | https://github.com/Slizarenlook/Digispark-Keyboard-Backdoor | 1 | 1| 
+| 20211015T18:13:04Z | Lite version of my Gatekeeper backdoor for public use. | https://github.com/dievus/MayorSecBackdoor | 29 | 6| 
+| 20211015T17:17:26Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 36 | 27| 
+| 20211015T15:45:39Z | Null | https://github.com/Wiilldd/backdoor | 0 | 0| 
+| 20211015T14:46:50Z | Network Scanner with Backdoor Detection, other Nmap resources and syn-protection detection | https://github.com/xadhrit/d9scan | 17 | 11| 
+| 20211015T14:01:57Z | pybotnet -   A Python Library for building Botnet , Trojan or BackDoor for windows and linux with Telegram control panel  | https://github.com/onionj/pybotnet | 35 | 19| 
 | 20211015T10:48:45Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 333 | 61| 
 | 20211015T08:55:52Z | Backdoor Attack through Frequency Domain | https://github.com/FTrojanAttack/FTrojan | 0 | 0| 
 | 20211015T04:24:24Z | Remote Access Trojan (RAT) backdoor generator and server project. *Educational purposes only | https://github.com/fordlarman/J0n3sy_Cat | 0 | 1| 
-| 20211015T02:44:54Z | Backdoor attacks on a deep neural network-based system for COVID-19 detection from chest X-ray images | https://github.com/YukiM00/Backdoored-COVID-Net | 0 | 0| 
-| 20211014T18:08:18Z | A self made multi-purpose CTF tool written under Kali Linux Os taking adventage of several programs installed. Contains one liner backdoors generator for many programs/languages, recognition scanners, useful  encoders/decoders with some special features as powershell base64 format, tools from ... [ more info at README.md ] | https://github.com/0bfxgh0st/saf2 | 2 | 1| 
-| 20211014T16:32:45Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 6631 | 1669| 
-| 20211014T14:15:36Z | pybotnet -   A Python Library for building Botnet , Trojan or BackDoor for windows and linux with Telegram control panel  | https://github.com/onionj/pybotnet | 34 | 19| 
-| 20211014T12:57:08Z | Code for the paper %Rethinking Stealthiness of Backdoor Attack against NLP Models% (ACL-IJCNLP 2021) | https://github.com/lancopku/SOS | 5 | 0| 
 
 
 # symbolic execution on Github 推荐
