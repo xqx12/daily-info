@@ -31,21 +31,24 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20211016 | Apache mod_proxy SSRF复现（CVE-2021-40438） | https://mp.weixin.qq.com/s?__biz=MzkwNDI1NDUwMQ==&mid=2247484491&idx=1&sn=c06d81ae3b8b5cc767f8dabf34ee3fa5&chksm=c0888101f7ff0817bc9ae08013a5c1520e27c945525dd7aff2b22a00ed614a35cc6a71b3bbb8&token=497896847&lang=zh_CN#rd| 
+| 20211016 | WatchAD攻防实战 | https://mp.weixin.qq.com/s/v1_AIRwD_SfwnAH218MNaA| 
+| 20211016 | Host碰撞原理及复现（含利用工具） | https://mp.weixin.qq.com/s?__biz=MzkwNDI1NDUwMQ==&mid=2247484371&idx=1&sn=5e402d8416a5aa2b5f830cadf205e84c&chksm=c0888699f7ff0f8ff00da7ad331ac5c4c2485dffb89a41a11f5dea50bccb2fa430024a002983&token=497896847&lang=zh_CN#rd| 
+| 20211016 | 美团APP存在修改账号绑定的手机号漏洞 | https://mp.weixin.qq.com/s?__biz=MzkwNDI1NDUwMQ==&mid=2247484449&idx=1&sn=0d25285634c24790fd367d004c70f367&chksm=c088816bf7ff087d5fd7b478767e5b08edab6b543b93c1a0109b9fc1e5a9668b122d95159b7f&token=497896847&lang=zh_CN#rd| 
 | 20211015 | 深度追踪 Keksec 僵尸网络 | https://mp.weixin.qq.com/s/xDCS2GTAIQOMuM6TFSdyYw| 
 | 20211015 | 侧信道嗅探浏览器历史 | https://mp.weixin.qq.com/s/w2Aa6Wer-WFJQbEkaKWFkg| 
 | 20211014 | [HTB] Luanne Writeup | https://mp.weixin.qq.com/s/GHC0G6ZVTIt_pSYDHTC4pw| 
 | 20211014 | 2021中国网络安全产业分析报告解读 | https://mp.weixin.qq.com/s/YgjVkukxQUTLBG1uRL-kEQ| 
 | 20211014 | Metarget：构建云原生基础设施靶场 | https://github.com/Metarget/metarget| 
 | 20211014 | 通过缓存属性感知特征进行DNS隧道检测 | https://mp.weixin.qq.com/s/hhYmO1Oz2VLsePWJT5wIiQ| 
-| 20211013 | 捕获透明网络钓鱼：分析和检测中间人网络钓鱼工具套件 | https://mp.weixin.qq.com/s/KW15JK8XJKFWRe-FjFMOSA| 
-| 20211012 | 为什么机器学习解决网络安全问题总是失败：脆弱的系统工程 | https://toooold.com/2021/10/11/why_ml_fails_security_frag_cn.html?continueFlag=55bb45962d1070d2fe02f082a54e0d98| 
-| 20211012 | 基于溯源图的APT攻击检测安全顶会论文总结 | https://mp.weixin.qq.com/s/NosFWfRl9Mmqi2_QXUJNpw| 
-| 20211011 | SecWiki周刊（第397期) | https://www.sec-wiki.com/weekly/397| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211016T11:51:42Z | CVE-2021-36749 | Null | https://github.com/dorkerdevil/CVE-2021-36749 | | 
+| 20211016T06:39:50Z | CVE-2021-36749 | Apache Druid 任意文件读取 | https://github.com/BrucessKING/CVE-2021-36749 | | 
+| 20211016T02:10:25Z | CVE-2020-5902 | Null | https://github.com/anonsecteaminc/CVE-2020-5902-Scanner | | 
 | 20211016T01:38:11Z | CVE-2021-41773 | CVE-2021-41773-PoC | https://github.com/anonsecteaminc/CVE-2021-41773-PoC | | 
 | 20211016T01:25:46Z | CVE-2020-11022 | Little thing put together quickly to demonstrate this CVE  | https://github.com/0xAJ2K/CVE-2020-11022-CVE-2020-11023 | | 
 | 20211015T23:02:27Z | CVE-2021-41773 | The first vulnerability with the CVE identifier CVE-2021-41773 is a path traversal flaw that exists in Apache HTTP Server 2.4.49. | https://github.com/LudovicPatho/CVE-2021-41773 | | 
@@ -53,24 +56,21 @@
 | 20211015T18:51:45Z | 未知编号 | Null | https://github.com/brydennik69/First-CVE2021 | | 
 | 20211015T18:51:37Z | 未知编号 | Null | https://github.com/FitTerminator/PS4-CVE-202130858 | | 
 | 20211015T18:07:34Z | CVE-2021-37980 | PoC CVE-2021-37980 : Inappropriate implementation in Sandbox (windows only) | https://github.com/ZeusBox/CVE-2021-37980 | | 
-| 20211015T16:08:16Z | CVE-2021-42071 | In Visual Tools DVR VX16 4.2.28.0, an unauthenticated attacker can achieve remote command execution via shell metacharacters in the cgi-bin/slogin/login.py User-Agent HTTP header. | https://github.com/adubaldo/CVE-2021-42071 | | 
-| 20211015T14:07:23Z | CVE-2020-25078 | CVE-2020-25078账号密码信息泄露批量脚本Batch script of D-Link DCS series camera account password information disclosure | https://github.com/chinaYozz/CVE-2020-25078 | | 
-| 20211015T13:01:02Z | CVE-2021-33766 | ProxyToken (CVE-2021-33766) : An Authentication Bypass in Microsoft Exchange Server POC exploit | https://github.com/bhdresh/CVE-2021-33766 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211016T12:30:45Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2852 | 79| 
+| 20211016T12:01:18Z | Null | https://github.com/nkwemorena/-kleenaJoburg | 0 | 0| 
+| 20211016T10:32:55Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 133 | 37| 
+| 20211016T04:52:49Z | This font is based on the font Klee One by Fontworks, and the font LXGW WenKai by LXGW for adding Simplified and Traditional Chinese character glyphs. The pinyin characters are added by ToneOZ.com using the open source tool Mengshen, with the IVS heteronyms font concept from the Bopomofo IVS by But Ko. | https://github.com/jeffreyxuan/toneoz-font-pinyin-wenkai | 10 | 0| 
 | 20211015T20:51:32Z | Config files for my GitHub profile. | https://github.com/kleervoyans/kleervoyans | 0 | 0| 
-| 20211015T19:45:47Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2846 | 79| 
 | 20211015T16:28:39Z | Personal Blog | https://github.com/klee1611/klee1611.github.io | 1 | 1| 
 | 20211015T13:28:53Z | Backend application for running static analysis of rust-based programs | https://github.com/LedgerProject/safepkt_backend | 0 | 1| 
 | 20211015T12:10:06Z | Null | https://github.com/CinquinAndy/klee-green-it-app | 0 | 0| 
 | 20211015T11:40:01Z | application de mesure énergétique des application métier d%une entreprise - kleegroup - api | https://github.com/CinquinAndy/klee-green-it-app-api | 0 | 0| 
-| 20211015T10:07:28Z | This font is based on the font Klee One by Fontworks, and the font LXGW WenKai by LXGW for adding Simplified and Traditional Chinese character glyphs. The pinyin characters are added by ToneOZ.com using the open source tool Mengshen, with the IVS heteronyms font concept from the Bopomofo IVS by But Ko. | https://github.com/jeffreyxuan/toneoz-font-pinyin-wenkai | 9 | 0| 
 | 20211015T04:04:08Z | Null | https://github.com/kleelab/kleelab.github.io | 0 | 0| 
-| 20211015T02:28:14Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1790 | 509| 
-| 20211014T16:16:07Z | `[@Klee@]*FREE PRIMOGEMS HACK [Genshin Impact Hack 2021] Genshin Impact Free Primogems & Genesis Crystals Hack Codes - FREE PRIMOGEMS GENSHIN IMPACT CODES EASY & SAFE!~*{ 1969 }(wISHES} | https://github.com/lexikiyod/-Klee-FREE-PRIMOGEMS-HACK-Genshin-Impact-Hack-2021-Genshin-Impact-Free-Primogems-Genesis-Cry | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -85,46 +85,46 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211016T01:03:24Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
-| 20211016T00:51:29Z | Exploits made by me | https://github.com/DadashG/exploits | 0 | 0| 
-| 20211016T00:51:29Z | Exploits made by me | https://github.com/nam3lum/exploits | 0 | 0| 
-| 20211015T23:28:28Z | Cloud C2 Framework, which at the moment offers reconnaissance, enumeration, exploitation, post exploitation on AWS, but still working to allow testing other Cloud Providers and DevOps Components. | https://github.com/gl4ssesbo1/Nebula | 171 | 36| 
-| 20211015T22:57:28Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10216 | 1739| 
-| 20211015T22:37:00Z | Roblox %Drop% Exploit! | https://github.com/Drop1Dev/Drop | 0 | 0| 
-| 20211015T22:10:12Z | Clouddefense.ai is an automated web application security testing tool that audits your web applications by checking for vulnerabilities like SQL Injection, Cross site scripting and other exploitable vulnerabilities. | https://github.com/CloudDefenseAI/cd | 13 | 1| 
-| 20211015T22:04:14Z | Database Systems - Principles of database design and operation. Relational data model. High-level data modeling representations. SQL database language. Active databases with constraints and triggers. Query optimization with views and indexes. Exploiting database servers within programming languages for web application development. Other topics include transaction processing and recovery, user-defined functions, and data warehousing.  | https://github.com/kingkirpal2000/CSE-111 | 1 | 0| 
-| 20211015T21:30:09Z | Réserver et gérer les données par le concept du pagination et la mémoire virtuelle | https://github.com/kaoutar993/Simulation-de-gestion-de-la-m-moire-d-un-syst-me-d-exploitation | 0 | 0| 
-| 20211015T20:42:00Z | C2 and Post Exploitation Code | https://github.com/sneakerhax/C2PE | 28 | 4| 
+| 20211016T12:51:24Z | abuses an exploit on ngrok to automatically get you a free RDP | https://github.com/yTax/rdpgrabber | 0 | 0| 
+| 20211016T12:47:38Z | PoCs for attempting various RCE exploits on the Tesla | https://github.com/TeslaBrew/tbrew | 0 | 0| 
+| 20211016T12:26:32Z | Homebrew launcher browser exploit | https://github.com/aesth1/WiiUBrowserExploit | 0 | 0| 
+| 20211016T12:03:06Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
+| 20211016T12:02:29Z | SpringBoot Actuator未授权漏洞检测与利用 | https://github.com/Seals6/Springboot-ActuatorExploit | 0 | 0| 
+| 20211016T11:44:39Z | Exploit the vulnerability to install arbitrary applications in k61v1 without ROOT | https://github.com/MlgmXyysd/k61v1injector | 1 | 0| 
+| 20211016T11:42:38Z | Collection of Discord hacking tools/fun stuff/exploits that is completely made using NodeJS. | https://github.com/I2rys/ODiscord | 11 | 7| 
+| 20211016T11:35:24Z | Null | https://github.com/ctwtruscottwatters/exploit_your_own_code_SEH_VEH_x86_HEAP | 0 | 0| 
+| 20211016T11:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10217 | 1740| 
+| 20211016T11:01:00Z | CTF竞赛权威指南 | https://github.com/firmianay/CTF-All-In-One | 2709 | 550| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211016T12:59:53Z | e-Commercial platform | https://github.com/salihcodev/backdoors | 0 | 0| 
+| 20211016T09:03:10Z | Lite version of my Gatekeeper backdoor for public use. | https://github.com/dievus/MayorSecBackdoor | 33 | 6| 
+| 20211016T07:26:03Z | Code and data of the EMNLP 2021 paper %Mind the Style of Text! Adversarial and Backdoor Attacks Based on Text Style Transfer% | https://github.com/thunlp/StyleAttack | 5 | 0| 
 | 20211016T01:50:01Z | Null | https://github.com/Sonklol/backdoor-fivemsql-discord | 1 | 0| 
 | 20211015T20:30:34Z | SAMP Roleplay server files. It%s OUT OF DATE. I wont help or fix anything about this files. It has bugs and backdoors. You can clone systems, textdraws etc. | https://github.com/MetoIsTaken/SAMP-Server-Files-Horizon-Edit | 0 | 0| 
 | 20211015T20:20:38Z | Null | https://github.com/Slizarenlook/Digispark-Keyboard-Backdoor | 1 | 1| 
-| 20211015T18:13:04Z | Lite version of my Gatekeeper backdoor for public use. | https://github.com/dievus/MayorSecBackdoor | 29 | 6| 
 | 20211015T17:17:26Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 36 | 27| 
 | 20211015T15:45:39Z | Null | https://github.com/Wiilldd/backdoor | 0 | 0| 
 | 20211015T14:46:50Z | Network Scanner with Backdoor Detection, other Nmap resources and syn-protection detection | https://github.com/xadhrit/d9scan | 17 | 11| 
 | 20211015T14:01:57Z | pybotnet -   A Python Library for building Botnet , Trojan or BackDoor for windows and linux with Telegram control panel  | https://github.com/onionj/pybotnet | 35 | 19| 
-| 20211015T10:48:45Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 333 | 61| 
-| 20211015T08:55:52Z | Backdoor Attack through Frequency Domain | https://github.com/FTrojanAttack/FTrojan | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211016T06:01:20Z | An Adaptive Symbolic Execution Method For Detecting Heap Overflow Vulnerability Based On Vulnerability Specification | https://github.com/alikmli/HeapOverFlow-Detection | 0 | 0| 
+| 20211016T01:52:26Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 156 | 10| 
 | 20211015T21:48:59Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 160 | 36| 
 | 20211015T19:52:18Z | This is the repository for Symbolic Execution engine for StateFlow (SESf) models | https://github.com/predragf/sesf | 0 | 0| 
 | 20211015T16:01:19Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 20 | 12| 
 | 20211015T15:49:59Z | Symbolic execution engine for ABS | https://github.com/Edkamb/crowbar-tool | 0 | 3| 
-| 20211015T13:39:57Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 155 | 10| 
 | 20211015T13:03:12Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 17 | 3| 
 | 20211015T11:33:14Z | DSE: a generic dynamic symbolic execution engine | https://github.com/tudo-aqua/dse | 0 | 0| 
 | 20211015T06:35:11Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 714 | 97| 
 | 20211015T02:28:14Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1790 | 509| 
-| 20211015T02:24:52Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 172 | 39| 
 
 
 # big4 on Github 推荐
@@ -139,16 +139,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211016T01:34:32Z | Monorepo for a collection of tools related to compiling Evals into WASM and then a fuzzer to compare different evals | https://github.com/coreyja/battlesnake-wasm-eval-tester | 0 | 0| 
-| 20211015T23:36:02Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
-| 20211015T23:24:16Z | Learn everyday  | https://github.com/Chefintin/fuzzy-memory | 0 | 0| 
-| 20211015T23:18:07Z | Null | https://github.com/Abenezergirma/Fuzzy-Logic-Based_Obstacle-Avoidance | 0 | 0| 
-| 20211015T23:18:03Z | Null | https://github.com/leandrocarboni/fuzzy-octo-eureka | 0 | 0| 
-| 20211015T23:00:51Z | Null | https://github.com/jodiekurnia/fuzzle.me | 0 | 0| 
-| 20211015T22:51:17Z | CS400 xteam | https://github.com/thesonofwil/fuzzy-barnacle-story | 0 | 1| 
-| 20211015T22:46:07Z | Fuzzer in go | https://github.com/taiQui/FuzzmcQueen | 0 | 0| 
-| 20211015T22:30:31Z | A | https://github.com/Jimmy3610/fuzzy--lamp | 0 | 0| 
-| 20211015T22:13:07Z | Python Front End Basics | https://github.com/Radar3759/fuzzy-palm-tree | 0 | 0| 
+| 20211016T12:56:09Z | The Content Fuzzyfyr module for Magento2 fills up empty content fields - and if needed - switches real content with dummy content. This is for development purposes, e.g. save time to prepare test data and matching GDPR restrictions. | https://github.com/hivecommerce/magento2-content-fuzzyfyr | 0 | 1| 
+| 20211016T12:29:47Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 620 | 128| 
+| 20211016T12:15:18Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 29 | 11| 
+| 20211016T11:30:55Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20211016T08:55:27Z | Fuzzy matching for `company-mode%. | https://github.com/jcs-elpa/company-fuzzy | 67 | 6| 
+| 20211016T08:34:53Z | Fuzzy matching algorithm based on Sublime Text%s string search | https://github.com/jcs-elpa/sublime-fuzzy | 0 | 1| 
+| 20211016T07:13:18Z | This code is used to get coordinates (i.e., latitude and longitude) of some places using their fuzzy names from Google Maps. | https://github.com/lyx66/Get-Coordinates-Using-the-Fuzzy-Names-of-Places | 1 | 0| 
+| 20211016T06:36:29Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
+| 20211016T06:12:45Z | Whitepaper on %Fuzzing in the face of Threat Hunting% | https://github.com/maheshmohan1093m/Fuzzing_in_the_face_of_Threat_Hunting | 0 | 0| 
+| 20211016T05:00:02Z | Null | https://github.com/iiifr/vscode-fuzzyfind | 0 | 0| 
 
 
 
