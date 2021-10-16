@@ -46,7 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211016T01:24:52Z | CVE-2020-11022 | Little thing put together quickly to demonstrate this CVE  | https://github.com/0xAJ2K/CVE-2020-11022-CVE-2020-11023 | | 
+| 20211016T01:34:55Z | CVE-2021-41773 | Null | https://github.com/anonsecteaminc/CVE-2021-41773-PoC | | 
+| 20211016T01:25:46Z | CVE-2020-11022 | Little thing put together quickly to demonstrate this CVE  | https://github.com/0xAJ2K/CVE-2020-11022-CVE-2020-11023 | | 
 | 20211015T23:02:27Z | CVE-2021-41773 | The first vulnerability with the CVE identifier CVE-2021-41773 is a path traversal flaw that exists in Apache HTTP Server 2.4.49. | https://github.com/LudovicPatho/CVE-2021-41773 | | 
 | 20211015T19:28:33Z | CVE-2021-41773 | Null | https://github.com/shiomiyan/CVE-2021-41773 | | 
 | 20211015T18:51:45Z | 未知编号 | Null | https://github.com/brydennik69/First-CVE2021 | | 
@@ -55,7 +56,6 @@
 | 20211015T16:08:16Z | CVE-2021-42071 | In Visual Tools DVR VX16 4.2.28.0, an unauthenticated attacker can achieve remote command execution via shell metacharacters in the cgi-bin/slogin/login.py User-Agent HTTP header. | https://github.com/adubaldo/CVE-2021-42071 | | 
 | 20211015T14:07:23Z | CVE-2020-25078 | CVE-2020-25078账号密码信息泄露批量脚本Batch script of D-Link DCS series camera account password information disclosure | https://github.com/chinaYozz/CVE-2020-25078 | | 
 | 20211015T13:01:02Z | CVE-2021-33766 | ProxyToken (CVE-2021-33766) : An Authentication Bypass in Microsoft Exchange Server POC exploit | https://github.com/bhdresh/CVE-2021-33766 | | 
-| 20211015T12:41:11Z | 未知编号 | VERY simple code to check if the browser is compatible or not | https://github.com/Nazky/PS4CVE202130858 | | 
 
 
 # klee on Github 推荐
