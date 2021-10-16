@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211016T00:51:29Z | Exploits made by me | https://github.com/DadashG/exploits | 0 | 0| 
 | 20211016T00:03:10Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
 | 20211015T23:28:28Z | Cloud C2 Framework, which at the moment offers reconnaissance, enumeration, exploitation, post exploitation on AWS, but still working to allow testing other Cloud Providers and DevOps Components. | https://github.com/gl4ssesbo1/Nebula | 171 | 36| 
 | 20211015T22:57:28Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10216 | 1739| 
@@ -94,7 +95,6 @@
 | 20211015T21:30:09Z | Réserver et gérer les données par le concept du pagination et la mémoire virtuelle | https://github.com/kaoutar993/Simulation-de-gestion-de-la-m-moire-d-un-syst-me-d-exploitation | 0 | 0| 
 | 20211015T20:42:00Z | C2 and Post Exploitation Code | https://github.com/sneakerhax/C2PE | 28 | 4| 
 | 20211015T20:18:23Z | Using curl to exploit CVE-2019-11447  | https://github.com/iainr/CuteNewsRCE | 0 | 0| 
-| 20211015T19:23:33Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | 0 | 0| 
 
 
 # backdoor on Github 推荐
