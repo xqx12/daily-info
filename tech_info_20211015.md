@@ -113,16 +113,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211015T12:51:57Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20211015T12:43:24Z | Fuzzy matching algorithm based on Sublime Text%s string search | https://github.com/jcs-elpa/sublime-fuzzy | 0 | 1| 
-| 20211015T12:39:50Z | Fuzzy matching for `company-mode%. | https://github.com/jcs-elpa/company-fuzzy | 67 | 6| 
-| 20211015T12:22:36Z | Fuzzer Helper | https://github.com/Aif4thah/CShidori | 0 | 0| 
-| 20211015T12:18:02Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2104 | 413| 
-| 20211015T12:15:16Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 29 | 11| 
-| 20211015T12:12:29Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3728 | 882| 
-| 20211015T11:47:14Z | Null | https://github.com/hashes-jmi/HackJMI2-FuzzException | 0 | 0| 
-| 20211015T11:31:37Z | Null | https://github.com/LogutovEgor/fuzzy_additive_ratio_assessment | 0 | 0| 
-| 20211015T10:20:19Z | Fuzzy logic based Allergen protein predictor | https://github.com/brsaran/FuzzyApp | 0 | 0| 
+| 20211015T23:36:02Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
+| 20211015T23:24:16Z | Learn everyday  | https://github.com/Chefintin/fuzzy-memory | 0 | 0| 
+| 20211015T23:18:07Z | Null | https://github.com/Abenezergirma/Fuzzy-Logic-Based_Obstacle-Avoidance | 0 | 0| 
+| 20211015T23:18:03Z | Null | https://github.com/leandrocarboni/fuzzy-octo-eureka | 0 | 0| 
+| 20211015T23:00:51Z | Null | https://github.com/jodiekurnia/fuzzle.me | 0 | 0| 
+| 20211015T22:51:17Z | CS400 xteam | https://github.com/thesonofwil/fuzzy-barnacle-story | 0 | 1| 
+| 20211015T22:46:07Z | Fuzzer in go | https://github.com/taiQui/FuzzmcQueen | 0 | 0| 
+| 20211015T22:30:31Z | A | https://github.com/Jimmy3610/fuzzy--lamp | 0 | 0| 
+| 20211015T22:13:07Z | Python Front End Basics | https://github.com/Radar3759/fuzzy-palm-tree | 0 | 0| 
+| 20211015T22:02:01Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 
 
 

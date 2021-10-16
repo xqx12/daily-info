@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211016T01:34:55Z | CVE-2021-41773 | Null | https://github.com/anonsecteaminc/CVE-2021-41773-PoC | | 
+| 20211016T01:38:11Z | CVE-2021-41773 | CVE-2021-41773-PoC | https://github.com/anonsecteaminc/CVE-2021-41773-PoC | | 
 | 20211016T01:25:46Z | CVE-2020-11022 | Little thing put together quickly to demonstrate this CVE  | https://github.com/0xAJ2K/CVE-2020-11022-CVE-2020-11023 | | 
 | 20211015T23:02:27Z | CVE-2021-41773 | The first vulnerability with the CVE identifier CVE-2021-41773 is a path traversal flaw that exists in Apache HTTP Server 2.4.49. | https://github.com/LudovicPatho/CVE-2021-41773 | | 
 | 20211015T19:28:33Z | CVE-2021-41773 | Null | https://github.com/shiomiyan/CVE-2021-41773 | | 
@@ -100,6 +100,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211016T01:50:01Z | Null | https://github.com/Sonklol/backdoor-fivemsql-discord | 1 | 0| 
 | 20211015T20:30:34Z | SAMP Roleplay server files. It%s OUT OF DATE. I wont help or fix anything about this files. It has bugs and backdoors. You can clone systems, textdraws etc. | https://github.com/MetoIsTaken/SAMP-Server-Files-Horizon-Edit | 0 | 0| 
 | 20211015T20:20:38Z | Null | https://github.com/Slizarenlook/Digispark-Keyboard-Backdoor | 1 | 1| 
 | 20211015T18:13:04Z | Lite version of my Gatekeeper backdoor for public use. | https://github.com/dievus/MayorSecBackdoor | 29 | 6| 
@@ -109,7 +110,6 @@
 | 20211015T14:01:57Z | pybotnet -   A Python Library for building Botnet , Trojan or BackDoor for windows and linux with Telegram control panel  | https://github.com/onionj/pybotnet | 35 | 19| 
 | 20211015T10:48:45Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 333 | 61| 
 | 20211015T08:55:52Z | Backdoor Attack through Frequency Domain | https://github.com/FTrojanAttack/FTrojan | 0 | 0| 
-| 20211015T04:24:24Z | Remote Access Trojan (RAT) backdoor generator and server project. *Educational purposes only | https://github.com/fordlarman/J0n3sy_Cat | 0 | 1| 
 
 
 # symbolic execution on Github 推荐
@@ -139,16 +139,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211015T12:51:57Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20211015T12:43:24Z | Fuzzy matching algorithm based on Sublime Text%s string search | https://github.com/jcs-elpa/sublime-fuzzy | 0 | 1| 
-| 20211015T12:39:50Z | Fuzzy matching for `company-mode%. | https://github.com/jcs-elpa/company-fuzzy | 67 | 6| 
-| 20211015T12:22:36Z | Fuzzer Helper | https://github.com/Aif4thah/CShidori | 0 | 0| 
-| 20211015T12:18:02Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2104 | 413| 
-| 20211015T12:15:16Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 29 | 11| 
-| 20211015T12:12:29Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3728 | 882| 
-| 20211015T11:47:14Z | Null | https://github.com/hashes-jmi/HackJMI2-FuzzException | 0 | 0| 
-| 20211015T11:31:37Z | Null | https://github.com/LogutovEgor/fuzzy_additive_ratio_assessment | 0 | 0| 
-| 20211015T10:20:19Z | Fuzzy logic based Allergen protein predictor | https://github.com/brsaran/FuzzyApp | 0 | 0| 
+| 20211016T01:34:32Z | Monorepo for a collection of tools related to compiling Evals into WASM and then a fuzzer to compare different evals | https://github.com/coreyja/battlesnake-wasm-eval-tester | 0 | 0| 
+| 20211015T23:36:02Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
+| 20211015T23:24:16Z | Learn everyday  | https://github.com/Chefintin/fuzzy-memory | 0 | 0| 
+| 20211015T23:18:07Z | Null | https://github.com/Abenezergirma/Fuzzy-Logic-Based_Obstacle-Avoidance | 0 | 0| 
+| 20211015T23:18:03Z | Null | https://github.com/leandrocarboni/fuzzy-octo-eureka | 0 | 0| 
+| 20211015T23:00:51Z | Null | https://github.com/jodiekurnia/fuzzle.me | 0 | 0| 
+| 20211015T22:51:17Z | CS400 xteam | https://github.com/thesonofwil/fuzzy-barnacle-story | 0 | 1| 
+| 20211015T22:46:07Z | Fuzzer in go | https://github.com/taiQui/FuzzmcQueen | 0 | 0| 
+| 20211015T22:30:31Z | A | https://github.com/Jimmy3610/fuzzy--lamp | 0 | 0| 
+| 20211015T22:13:07Z | Python Front End Basics | https://github.com/Radar3759/fuzzy-palm-tree | 0 | 0| 
 
 
 
