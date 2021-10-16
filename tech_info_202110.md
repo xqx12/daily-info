@@ -85,16 +85,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211015T12:58:26Z | Exploit vulnerability | https://github.com/chinaYozz/exploit | 0 | 0| 
-| 20211015T12:57:33Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 80 | 13| 
-| 20211015T12:56:05Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 3638 | 1256| 
-| 20211015T12:53:06Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 23 | 14| 
-| 20211015T12:05:36Z | PS4 Jailbreak by Karo and Re Designed by Me For Firmware 672 | https://github.com/Harleythetech/Exploit-6.72 | 0 | 0| 
-| 20211015T12:03:01Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
-| 20211015T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10214 | 1738| 
-| 20211015T11:30:51Z | Apollo is a post-exploitation tool for managing, enumerating and pivotting on compromised machines. | https://github.com/thecoderstudio/apollo | 5 | 0| 
-| 20211015T11:25:34Z | I studied basic knowledge about hacking. Also, I learned how to find and exploit vulnerabilities in the system by solving hacking problems. | https://github.com/itemgiver/Hacking-Study | 0 | 0| 
-| 20211015T10:53:26Z | CTF中Pwn的快速利用模板（包含awd pwn） | https://github.com/da1sy/FastPwn | 12 | 3| 
+| 20211016T00:03:10Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
+| 20211015T23:28:28Z | Cloud C2 Framework, which at the moment offers reconnaissance, enumeration, exploitation, post exploitation on AWS, but still working to allow testing other Cloud Providers and DevOps Components. | https://github.com/gl4ssesbo1/Nebula | 171 | 36| 
+| 20211015T22:57:28Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10216 | 1739| 
+| 20211015T22:37:00Z | Roblox %Drop% Exploit! | https://github.com/Drop1Dev/Drop | 0 | 0| 
+| 20211015T22:10:12Z | Clouddefense.ai is an automated web application security testing tool that audits your web applications by checking for vulnerabilities like SQL Injection, Cross site scripting and other exploitable vulnerabilities. | https://github.com/CloudDefenseAI/cd | 13 | 1| 
+| 20211015T22:04:14Z | Database Systems - Principles of database design and operation. Relational data model. High-level data modeling representations. SQL database language. Active databases with constraints and triggers. Query optimization with views and indexes. Exploiting database servers within programming languages for web application development. Other topics include transaction processing and recovery, user-defined functions, and data warehousing.  | https://github.com/kingkirpal2000/CSE-111 | 1 | 0| 
+| 20211015T21:30:09Z | Réserver et gérer les données par le concept du pagination et la mémoire virtuelle | https://github.com/kaoutar993/Simulation-de-gestion-de-la-m-moire-d-un-syst-me-d-exploitation | 0 | 0| 
+| 20211015T20:42:00Z | C2 and Post Exploitation Code | https://github.com/sneakerhax/C2PE | 28 | 4| 
+| 20211015T20:18:23Z | Using curl to exploit CVE-2019-11447  | https://github.com/iainr/CuteNewsRCE | 0 | 0| 
+| 20211015T19:23:33Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -115,23 +115,23 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211015T21:48:59Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 160 | 36| 
+| 20211015T19:52:18Z | This is the repository for Symbolic Execution engine for StateFlow (SESf) models | https://github.com/predragf/sesf | 0 | 0| 
+| 20211015T16:01:19Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 20 | 12| 
+| 20211015T15:49:59Z | Symbolic execution engine for ABS | https://github.com/Edkamb/crowbar-tool | 0 | 3| 
+| 20211015T13:39:57Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 155 | 10| 
+| 20211015T13:03:12Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 17 | 3| 
 | 20211015T11:33:14Z | DSE: a generic dynamic symbolic execution engine | https://github.com/tudo-aqua/dse | 0 | 0| 
-| 20211015T10:47:50Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 17 | 3| 
 | 20211015T06:35:11Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 714 | 97| 
-| 20211015T03:16:40Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 155 | 10| 
 | 20211015T02:28:14Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1790 | 509| 
 | 20211015T02:24:52Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 172 | 39| 
-| 20211014T15:59:01Z | 🎻 Automatic Exploit Generation using symbolic execution | https://github.com/aesophor/requiem | 11 | 3| 
-| 20211014T15:21:54Z | Symbolic execution engine for ABS | https://github.com/Edkamb/crowbar-tool | 0 | 3| 
-| 20211014T14:36:26Z | A prototype for an interactive symbolic-execution issue report | https://github.com/arseniy-sonar/se-ui-prototype | 0 | 0| 
-| 20211013T19:50:28Z | Symbolic Execution for WebAssembly | https://github.com/romits800/Vivienne_eval | 1 | 0| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211014T04:07:16Z | Code for the paper %FlowLens: Enabling Efficient Flow Classification for ML-based Network Security Applications% [NDSS %21] | https://github.com/dmbb/FlowLens | 10 | 1| 
-| 20211013T18:26:00Z | A penetration testing tool for finding file upload bugs (NDSS 2020) | https://github.com/WSP-LAB/FUSE | 188 | 43| 
+| 20211015T02:46:50Z | Code for the paper %FlowLens: Enabling Efficient Flow Classification for ML-based Network Security Applications% [NDSS %21] | https://github.com/dmbb/FlowLens | 11 | 1| 
+| 20211013T18:26:00Z | A penetration testing tool for finding file upload bugs (NDSS 2020) | https://github.com/WSP-LAB/FUSE | 188 | 44| 
 | 20211004T19:19:49Z | Code release for our NDSS %18 paper (offline phase). | https://github.com/shitongzhu/Anti-anti-adblocker | 0 | 0| 
 | 20211004T09:47:09Z | Code for NDSS 2021 Paper %Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses Against Federated Learning% | https://github.com/vrt1shjwlkr/NDSS21-Model-Poisoning | 27 | 6| 
 
