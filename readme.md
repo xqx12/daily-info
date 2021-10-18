@@ -28,7 +28,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211018T12:01:58Z | CVE-2021-41773 | Null | https://github.com/vulf/CVE-2021-41773_42013 | | 
+| 20211018T12:52:27Z | CVE-2021-41773 | Lab setup for CVE-2021-41773 (Apache httpd 2.4.49) and CVE-2021-42013 (Apache httpd 2.4.50). | https://github.com/vulf/CVE-2021-41773_42013 | | 
 | 20211018T06:40:48Z | CVE-2021-36260 | CVE-2021-36260 | https://github.com/rabbitsafe/CVE-2021-36260 | | 
 | 20211018T02:42:27Z | CVE-2021-40438 | Null | https://github.com/xiaojiangxl/CVE-2021-40438 | | 
 | 20211018T01:45:20Z | CVE-2021-36749 | Apache Druid 任意文件读取 | https://github.com/BrucessKING/CVE-2021-36749 | | 
@@ -52,16 +52,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211018T12:24:43Z | exploit-db备份 | https://github.com/s7ck-Team/exploit-db | 0 | 0| 
+| 20211018T13:00:02Z | exploit-db备份 | https://github.com/s7ck-Team/exploit-db | 0 | 0| 
+| 20211018T12:57:55Z | A simple terraform exploit lab with vulnerable container from Vulhub + Kali Linux | https://github.com/nericksen/terraform-exploit-lab-example | 0 | 0| 
+| 20211018T12:53:09Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 23 | 14| 
+| 20211018T12:41:55Z | A helpful Java Deserialization exploit framework based on ysoserial | https://github.com/wh1t3p1g/ysomap | 479 | 47| 
+| 20211018T12:40:12Z | My own collection of usual functions that I use during binary exploitation training | https://github.com/mousepad01/python_binary_exploit_utilites | 1 | 0| 
 | 20211018T12:22:06Z | This is the simple bot in discord that resembles lords mobile | https://github.com/Dani-Hacker/EXPLOITER | 0 | 1| 
 | 20211018T12:03:32Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
 | 20211018T11:35:57Z | Null | https://github.com/PorryDepTrai/exploit | 0 | 0| 
 | 20211018T11:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10224 | 1750| 
 | 20211018T11:26:13Z | Robotics semester project at LASA, EPFL | https://github.com/RaphaelUebersax/Incrementally_Learning_and_Exploiting_Inverse_Dynamics | 0 | 0| 
-| 20211018T10:27:46Z | FE++ is the best Roblox anti-exploit to stop filtering enabled vulnerabilities in your game! | https://github.com/ccuser44/FE-Plus-Plus | 3 | 0| 
-| 20211018T10:16:35Z | Exploit For CVE-2019-17662 | https://github.com/rajendrakumaryadav/CVE-2019-17662-Exploit | 0 | 0| 
-| 20211018T10:05:39Z | Collection of web app methodology from initial recon into exploit known vulnerability. Used when conducting Bug Bounty, Penetration Testing, or CTF | https://github.com/naufalan/Web-App-Methodology | 0 | 0| 
-| 20211018T09:57:48Z | Exploit Code | https://github.com/wjddnjs33/Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -92,16 +92,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211018T12:55:48Z | fuzztechnology dot com website | https://github.com/FuzzTechnology/fuzztech-website | 0 | 0| 
+| 20211018T12:52:28Z | V Fast Fuzzer | https://github.com/cz7047/vff | 0 | 0| 
+| 20211018T12:45:48Z | Null | https://github.com/LucasRizzo/fuzzy_trust | 0 | 0| 
+| 20211018T12:35:31Z | fuzzing 从入门到进阶，这里收录了经典的 fuzzing 书籍、历年安全顶会上有关 fuzzing 的经典论文、常用的 fuzzing 工具、可以快速入手 fuzzing 工具的博客。 | https://github.com/liyansong2018/fuzzing-tutorial | 34 | 5| 
+| 20211018T12:27:32Z | Null | https://github.com/thiphuonganh/fuzzy-octo-guacamole | 0 | 0| 
+| 20211018T12:17:43Z | Automated fuzzing framework | https://github.com/fgsect/fexm | 103 | 24| 
 | 20211018T11:51:40Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 621 | 128| 
 | 20211018T11:42:39Z | Fuzzy Watering Control System | https://github.com/fikri221/fuzzy-wcs | 0 | 0| 
 | 20211018T11:36:43Z | Fuzzer Helper | https://github.com/Aif4thah/CShidori | 0 | 0| 
 | 20211018T11:29:06Z | Null | https://github.com/hanseul0801/fuzzy-dollop | 0 | 0| 
-| 20211018T11:09:45Z | Null | https://github.com/SBH-Top-Coder/FUZZ-IEEE-COMPETITION-ON-EXPLAINABLE-ENERGY-PREDICTION | 2 | 0| 
-| 20211018T10:50:22Z | Null | https://github.com/Gt3443/Fuzzer_Project_Clone | 0 | 0| 
-| 20211018T10:48:11Z | Fuzzer for the .NET toolchains, developed as a project for the 2018 Language-Based Security course at Aarhus University. | https://github.com/jakobbotsch/Fuzzlyn | 213 | 18| 
-| 20211018T10:34:45Z | Leetcode solutions. | https://github.com/chaitanyks/fuzzy-disco | 0 | 0| 
-| 20211018T10:32:20Z | Find the ideal fuzz targets in a Rust codebase | https://github.com/trailofbits/siderophile | 121 | 9| 
-| 20211018T09:40:22Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 349 | 28| 
 
 
 
