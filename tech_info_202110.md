@@ -46,6 +46,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211019T01:18:52Z | CVE-2021-21234 | Null | https://github.com/xiaojiangxl/CVE-2021-21234 | | 
+| 20211018T20:57:00Z | CVE-2021-42342 | A small PoC for the recent RCE found in the Goahead Webserver prior to version 5.1.5.  | https://github.com/kimusan/goahead-webserver-pre-5.1.5-RCE-PoC-CVE-2021-42342- | | 
+| 20211018T17:45:24Z | CVE-2021-33044 | Dahua   IPC/VTH/VTO devices auth bypass exploit | https://github.com/dorkerdevil/CVE-2021-33044 | | 
 | 20211018T12:52:27Z | CVE-2021-41773 | Lab setup for CVE-2021-41773 (Apache httpd 2.4.49) and CVE-2021-42013 (Apache httpd 2.4.50). | https://github.com/vulf/CVE-2021-41773_42013 | | 
 | 20211018T06:40:48Z | CVE-2021-36260 | CVE-2021-36260 | https://github.com/rabbitsafe/CVE-2021-36260 | | 
 | 20211018T02:42:27Z | CVE-2021-40438 | Null | https://github.com/xiaojiangxl/CVE-2021-40438 | | 
@@ -53,24 +56,21 @@
 | 20211017T22:02:39Z | CVE-2021-41773 | The first vulnerability with the CVE identifier CVE-2021-41773 is a path traversal flaw that exists in Apache HTTP Server 2.4.49. | https://github.com/LudovicPatho/CVE-2021-41773 | | 
 | 20211017T09:07:40Z | CVE-2021-42013 | Docker container lab to play/learn with CVE-2021-42013 | https://github.com/twseptian/CVE-2021-42013-Docker-Lab | | 
 | 20211017T08:13:10Z | CVE-2021-41773 | Simple honeypot for CVE-2021-41773 vulnerability | https://github.com/lopqto/CVE-2021-41773_Honeypot | | 
-| 20211017T05:34:29Z | CVE-2021-37980 | PoC CVE-2021-37980 : Inappropriate implementation in Sandbox (windows only) | https://github.com/ZeusBox/CVE-2021-37980 | | 
-| 20211017T01:13:50Z | CVE-2021-37678 | TP Seguridad Informática | https://github.com/fran-CICS/ExploitTensorflowCVE-2021-37678 | | 
-| 20211016T22:49:40Z | 未知编号 | VERY simple code to check if the browser is compatible or not | https://github.com/Nazky/PS4CVE202130858 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211019T01:31:12Z | Minecraft Mod. Allows breaking only one half of a double slab block. | https://github.com/ModdingForBlockheads/KleeSlabs | 9 | 3| 
+| 20211018T15:26:54Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2854 | 79| 
 | 20211018T12:21:18Z | Backend application for running static analysis of rust-based programs | https://github.com/LedgerProject/safepkt_backend | 0 | 1| 
 | 20211018T06:32:55Z | SonarQube plugin for analyzing rust-based program with KLEE | https://github.com/thierrymarianne/safepkt-sonar-rust | 0 | 0| 
 | 20211018T04:22:51Z | Null | https://github.com/Hanseltu/klee-n-aeg-final | 0 | 0| 
-| 20211018T01:39:21Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2855 | 79| 
 | 20211018T00:00:19Z | Null | https://github.com/kleelab/kleelab.github.io | 0 | 0| 
 | 20211017T21:33:00Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1791 | 509| 
 | 20211017T18:50:36Z | Config files for my GitHub profile. | https://github.com/Kleeberth/Kleeberth | 0 | 0| 
 | 20211016T12:01:18Z | Null | https://github.com/nkwemorena/-kleenaJoburg | 0 | 0| 
 | 20211016T10:32:55Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 133 | 37| 
-| 20211016T04:52:49Z | This font is based on the font Klee One by Fontworks, and the font LXGW WenKai by LXGW for adding Simplified and Traditional Chinese character glyphs. The pinyin characters are added by ToneOZ.com using the open source tool Mengshen, with the IVS heteronyms font concept from the Bopomofo IVS by But Ko. | https://github.com/jeffreyxuan/toneoz-font-pinyin-wenkai | 10 | 0| 
 
 
 # s2e on Github 推荐
@@ -85,46 +85,46 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211018T13:00:02Z | exploit-db备份 | https://github.com/s7ck-Team/exploit-db | 0 | 0| 
-| 20211018T12:57:55Z | A simple terraform exploit lab with vulnerable container from Vulhub + Kali Linux | https://github.com/nericksen/terraform-exploit-lab-example | 0 | 0| 
-| 20211018T12:53:09Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 23 | 14| 
-| 20211018T12:41:55Z | A helpful Java Deserialization exploit framework based on ysoserial | https://github.com/wh1t3p1g/ysomap | 479 | 47| 
-| 20211018T12:40:12Z | My own collection of usual functions that I use during binary exploitation training | https://github.com/mousepad01/python_binary_exploit_utilites | 1 | 0| 
-| 20211018T12:22:06Z | This is the simple bot in discord that resembles lords mobile | https://github.com/Dani-Hacker/EXPLOITER | 0 | 1| 
-| 20211018T12:03:32Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
-| 20211018T11:35:57Z | Null | https://github.com/PorryDepTrai/exploit | 0 | 0| 
-| 20211018T11:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10224 | 1750| 
-| 20211018T11:26:13Z | Robotics semester project at LASA, EPFL | https://github.com/RaphaelUebersax/Incrementally_Learning_and_Exploiting_Inverse_Dynamics | 0 | 0| 
+| 20211019T01:57:54Z | exploit-db备份 | https://github.com/s7ck-Team/exploit-db | 0 | 0| 
+| 20211019T01:56:51Z | Null | https://github.com/HonestlyDex/DexHubWeb | 0 | 1| 
+| 20211019T01:36:40Z | An ELK server was configured to monitor a virtual network with an attacking machine, and two target machines. After the machines were successfully exploited, Kibana logs were analyzed to show the attacks. | https://github.com/jasonsett/Attack-and-Detect | 0 | 0| 
+| 20211019T01:36:21Z | A repository for learning various heap exploitation techniques. | https://github.com/shellphish/how2heap | 4875 | 951| 
+| 20211019T01:17:16Z | All of my code from exploiting Apex Legends released to the public. | https://github.com/cheatingwitdacode/apex-cheating | 3 | 7| 
+| 20211019T01:03:07Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 32 | 19| 
+| 20211018T22:45:21Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 63 | 104| 
+| 20211018T22:33:18Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10225 | 1750| 
+| 20211018T22:20:23Z | Hash collisions and their exploitations | https://github.com/corkami/collisions | 943 | 83| 
+| 20211018T22:19:15Z | Extensible framework for analyzing publicly available information about vulnerabilities | https://github.com/leonov-av/vulristics | 41 | 6| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211018T12:25:05Z | backdoor | https://github.com/Emilia-ZX/backdoor | 0 | 0| 
+| 20211019T01:47:43Z | 🐀 | https://github.com/ssllllll/LeuxBackdoor-Fake-0.9-Ratted | 16 | 4| 
+| 20211018T23:49:17Z | It isn%t a backdoor | https://github.com/ale444113/ThisIsNotABackdoor | 3 | 0| 
+| 20211018T22:43:00Z | The insane hackerman backdoor. | https://github.com/Bakdooro/Bakdooro | 5 | 2| 
+| 20211018T21:50:24Z | LD_PRELOAD rootkit | https://github.com/mav8557/Father | 29 | 8| 
+| 20211018T21:05:48Z | 🐀 | https://github.com/ssllllll/LeuxBackdoor0.9-Deobf | 16 | 4| 
+| 20211018T20:41:47Z | e-Commercial platform | https://github.com/salihcodev/backdoors | 0 | 0| 
+| 20211018T15:14:55Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 336 | 61| 
+| 20211018T12:25:05Z | backdoor | https://github.com/Emilia-ZX/backdoor | 0 | 1| 
 | 20211018T11:59:32Z | Null | https://github.com/Scorpio-m7/tomcat-backdoor | 1 | 0| 
 | 20211018T11:16:41Z | This project aims to understand ethical hacking techniques using python backdoor tool from scratch. The tests and procedures should only be executed on your own machines. If you%re planning to execute pwned-by on someone else%s machine, DO IT ETHICALLY! Ask for permission to conduct your activity with written instructions. Do not investigate someone else%s files without permission. I do not promote any harm to other people. Please use it at your own risk! Author will not be responsible for any damage! This project is for study purposes only. Enjoy hacking! | https://github.com/4stropotato/pwned-by | 2 | 0| 
-| 20211018T09:02:01Z | The insane hackerman backdoor. | https://github.com/Bakdooro/Bakdooro | 5 | 2| 
-| 20211018T08:17:07Z | Lite version of my Gatekeeper backdoor for public use. | https://github.com/dievus/MayorSecBackdoor | 35 | 7| 
-| 20211018T05:31:45Z | 🐀 | https://github.com/ssllllll/LeuxBackdoor0.9-Deobf | 8 | 2| 
-| 20211018T01:23:09Z | Simple tool to trigger deployment from CI with a web hook | https://github.com/vldc-hq/backdoor | 2 | 1| 
-| 20211017T21:37:34Z | Null | https://github.com/FierzaEriez/Mini-Shell-Backdoor | 1 | 2| 
-| 20211017T21:04:44Z | Lsass NTLM Authentication Backdoor | https://github.com/kindtime/nosferatu | 1 | 0| 
-| 20211017T18:40:34Z | Null | https://github.com/krinsios/Backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211019T01:28:29Z | Testing core Index Coop smart contracts with Dapptools | https://github.com/ncitron/index-coop-symbolic-execution | 0 | 0| 
+| 20211019T01:08:58Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 6 | 9| 
+| 20211019T00:16:31Z | A tool for generating nonlinear numerical invariants for C and Java programs.  DIG uses dynamic analysis to infer invariants over program execution traces and applies symbolic execution to inferred invariants. | https://github.com/unsat/dig | 9 | 4| 
+| 20211018T21:36:36Z | An Adaptive Symbolic Execution Method For Detecting Heap Overflow Vulnerability Based On Vulnerability Specification | https://github.com/alikmli/HeapOverFlow-Detection | 0 | 0| 
+| 20211018T21:10:51Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 160 | 36| 
+| 20211018T15:34:14Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 18 | 4| 
 | 20211018T11:17:53Z | Symbolic execution engine for ABS | https://github.com/Edkamb/crowbar-tool | 0 | 3| 
 | 20211018T11:01:06Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 20 | 12| 
 | 20211018T04:17:23Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 158 | 10| 
 | 20211017T21:33:00Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1791 | 509| 
-| 20211017T21:15:27Z | A tool for generating nonlinear numerical invariants for C and Java programs.  DIG uses dynamic analysis to infer invariants over program execution traces and applies symbolic execution to inferred invariants. | https://github.com/unsat/dig | 9 | 4| 
-| 20211017T16:57:53Z | An Adaptive Symbolic Execution Method For Detecting Heap Overflow Vulnerability Based On Vulnerability Specification | https://github.com/alikmli/HeapOverFlow-Detection | 0 | 0| 
-| 20211017T04:57:57Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1903 | 397| 
-| 20211016T17:08:55Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 172 | 39| 
-| 20211015T21:48:59Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 160 | 36| 
-| 20211015T19:52:18Z | This is the repository for Symbolic Execution engine for StateFlow (SESf) models | https://github.com/predragf/sesf | 0 | 0| 
 
 
 # big4 on Github 推荐
