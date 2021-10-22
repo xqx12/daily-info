@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211022T12:45:11Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 14| 
 | 20211022T12:21:45Z | 项目是根据LandGrey/SpringBootVulExploit清单编写，目的hvv期间快速利用漏洞、降低漏洞利用门槛。 | https://github.com/0x727/SpringBootExploit | 131 | 17| 
 | 20211022T12:06:11Z | 一款用于JNDI注入利用的工具，大量参考/引用了Rogue JNDI项目的代码，支持直接植入内存shell，并集成了常见的bypass 高版本JDK的方式，适用于与自动化工具配合使用。 | https://github.com/0x727/JNDIExploit | 61 | 6| 
 | 20211022T12:03:01Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 33 | 19| 
@@ -97,7 +98,6 @@
 | 20211022T10:10:58Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 3655 | 1261| 
 | 20211022T09:07:11Z | ZoomSounds < 6.05 allowing unauthenticated users to upload an arbitrary file anywhere on the web server. | https://github.com/0xAgun/Arbitrary-File-Upload-ZoomSounds | 0 | 0| 
 | 20211022T09:06:54Z | Agricultural Monitoring exploiting Sentinel 1 and Sentinel 2. SandboxNL contains detailed explanations about the creation and usage of the parcel based Sentinel datasets.  | https://github.com/ManuelHuber-Github/Agricultural-SandboxNL | 0 | 1| 
-| 20211022T08:55:28Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 14| 
 
 
 # backdoor on Github 推荐
@@ -142,16 +142,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211022T12:53:15Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20211022T12:52:08Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2408 | 147| 
+| 20211022T12:34:29Z | Fuzzy Bubbles fonts | https://github.com/googlefonts/fuzzy-bubbles | 0 | 0| 
+| 20211022T12:15:15Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 31 | 12| 
 | 20211022T11:49:25Z | White-box fuzzer for Java bytecode | https://github.com/vorpal-research/kex | 7 | 10| 
 | 20211022T11:17:16Z | Find the ideal fuzz targets in a Rust codebase | https://github.com/trailofbits/siderophile | 120 | 9| 
 | 20211022T11:09:18Z | Null | https://github.com/BhanaviSingh/fuzzy-waffle | 0 | 0| 
-| 20211022T11:01:34Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211022T10:50:06Z | Proof of concept fuzzer using lldbs python API | https://github.com/lateralusd/BuggyLLDBFuzzer | 0 | 0| 
 | 20211022T10:38:27Z | Null | https://github.com/chrishowitt123/fuzzy-match-sql-names | 0 | 0| 
-| 20211022T10:37:25Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 34177 | 17774| 
-| 20211022T10:20:34Z | Gentoo overlay | https://github.com/lferra/fuzzy-potato | 1 | 0| 
-| 20211022T10:11:43Z | TUI file explorer based on PowerShell and fzf | https://github.com/shinyanger/fuzzy-explorer | 2 | 0| 
-| 20211022T08:57:01Z | Null | https://github.com/lq-debuger/k-means-and-fuzzy-c-means | 0 | 0| 
+| 20211022T10:37:25Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 34177 | 17776| 
 
 
 
