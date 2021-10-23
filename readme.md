@@ -62,7 +62,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211022T23:51:57Z | Exploit Development CheatSheet. | https://github.com/V0lk3n/OSED-CheatSheet | 0 | 4| 
 | 20211022T22:48:12Z | Exploit for CVE-2021-40449 - Win32k Elevation of Privilege Vulnerability (LPE) | https://github.com/ly4k/CallbackHell | 130 | 23| 
 | 20211022T22:38:31Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6060 | 1447| 
 | 20211022T22:27:31Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10233 | 1753| 
@@ -72,6 +71,7 @@
 | 20211022T19:14:36Z | Writeup for exploit.education/phoenix | https://github.com/vi11ain/phoenix-writeup | 0 | 0| 
 | 20211022T18:50:13Z | Null | https://github.com/PM2Exploit/PM2Exploit | 1 | 0| 
 | 20211022T18:49:31Z | Null | https://github.com/florayfr1/Vulnerability-Exploitation-Predition | 0 | 0| 
+| 20211022T18:22:43Z | A exploit java, Emdee Five For Life. | https://github.com/VictorJeanJr/EmdeeFiveForLife | 0 | 0| 
 
 
 # backdoor on Github 推荐
