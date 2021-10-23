@@ -142,6 +142,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211023T01:58:43Z | bash script to run from installation media to setup gentoo automagically | https://github.com/fjp321/fuzzy-goggles | 0 | 0| 
 | 20211023T01:30:03Z | Null | https://github.com/mahnung-muster/fuzzy-octo-spork | 0 | 0| 
 | 20211023T01:25:19Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3744 | 885| 
 | 20211023T00:51:57Z | These tests of libdwarf/dwarfdump include old object files, new ones, and many fuzzed object files. These are the definitive tests that things work.. Most people have no reason to run these tests. | https://github.com/davea42/libdwarf-regressiontests | 0 | 0| 
@@ -151,7 +152,6 @@
 | 20211022T23:27:06Z | A repository for top fuzzing works in the literature. | https://github.com/PBearson/Fuzzing_Works | 0 | 0| 
 | 20211022T22:13:00Z | Julia package for fuzzy sets and clustering | https://github.com/tmwatchanan/FuzzySets.jl | 0 | 0| 
 | 20211022T22:08:53Z | Fuzzy string search with a special focus on short strings. | https://github.com/clustermarket/fuzzybear | 0 | 0| 
-| 20211022T21:09:26Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2409 | 147| 
 
 
 
