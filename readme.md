@@ -63,8 +63,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20211022T23:51:57Z | Exploit Development CheatSheet. | https://github.com/V0lk3n/OSED-CheatSheet | 0 | 4| 
-| 20211022T23:18:34Z | A collection of more than 160+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 927 | 217| 
-| 20211022T23:03:02Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 33 | 19| 
 | 20211022T22:48:12Z | Exploit for CVE-2021-40449 - Win32k Elevation of Privilege Vulnerability (LPE) | https://github.com/ly4k/CallbackHell | 130 | 23| 
 | 20211022T22:38:31Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6060 | 1447| 
 | 20211022T22:27:31Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10233 | 1753| 
@@ -72,6 +70,8 @@
 | 20211022T21:34:50Z | HackTheBox Custom Exploits | https://github.com/vvinoth/HTBCustomExploits | 0 | 0| 
 | 20211022T19:20:10Z | OWASP Benchmark is a test suite designed to verify the speed and accuracy of software vulnerability detection tools. A fully runnable web app written in Java, it supports analysis by Static (SAST), Dynamic (DAST), and Runtime (IAST) tools that support Java. The idea is that since it is fully runnable and all the vulnerabilities are actually exploitable, it’s a fair test for any kind of vulnerability detection tool.  For more details on this project, please see the OWASP Benchmark Project home page. | https://github.com/OWASP-Benchmark/BenchmarkJava | 418 | 461| 
 | 20211022T19:14:36Z | Writeup for exploit.education/phoenix | https://github.com/vi11ain/phoenix-writeup | 0 | 0| 
+| 20211022T18:50:13Z | Null | https://github.com/PM2Exploit/PM2Exploit | 1 | 0| 
+| 20211022T18:49:31Z | Null | https://github.com/florayfr1/Vulnerability-Exploitation-Predition | 0 | 0| 
 
 
 # backdoor on Github 推荐
