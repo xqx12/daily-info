@@ -31,6 +31,8 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20211023 | 恶意代码检测(1)恶意代码攻击溯源及恶意样本分析 | https://mp.weixin.qq.com/s/xrNL8waXsTyjU_8A6MlEjA| 
+| 20211023 | 网络空间资产探测关键技术研究 | https://mp.weixin.qq.com/s/95iJLqZN3Ll1a3kcU60dbA| 
 | 20211021 | 基于自动编码器的DNS隧道自动特征学习检测方法 | https://mp.weixin.qq.com/s/TvaB9z-7YJTI7XXYZRGfMg| 
 | 20211020 | KDD Cup 2021 时序异常检测（附 Top1 至 Top7思路视频 ） | https://mp.weixin.qq.com/s/Jf7ckFpP7pqubOBN7OkgTQ| 
 | 20211020 | 一次黑盒加白盒的渗透过程 | https://mp.weixin.qq.com/s/ObpSClAQCNTw2DA6mux2JQ| 
@@ -39,8 +41,6 @@
 | 20211020 | 2021年中国信创产业研究报告（90页全本） | https://mp.weixin.qq.com/s/7-6d_IzuKr-1oFqvBEUBpQ| 
 | 20211020 | ESPecter : 最新发现的 UEFI bootkit | https://paper.seebug.org/1738/| 
 | 20211019 | 关于BGP安全那些事儿 | https://mp.weixin.qq.com/s/rZunI6Uxyks2TbSarsqR8A| 
-| 20211019 | 2021年上半年全球高级持续性威胁（APT）研究报告 | http://pub-shbt.s3.360.cn/cert-public-file/2021%E5%B9%B4%E4%B8%8A%E5%8D%8A%E5%B9%B4%E5%85%A8%E7%90%83%E9%AB%98%E7%BA%A7%E6%8C%81%E7%BB%AD%E6%80%A7%E5%A8%81%E8%83%81%EF%BC%88APT%EF%BC%89%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A-1015.pdf| 
-| 20211019 | 网络流量的自动化分析新方向 | https://mp.weixin.qq.com/s/nCkqGmmVmUcGV1pxhLnFjg| 
 
 
 # CVE Github 推荐
@@ -88,11 +88,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211023T12:08:30Z | Useful scripts to exploit Hack The Box retired machines/challenges | https://github.com/7Rocky/HackTheBox-scripts | 0 | 0| 
+| 20211023T12:08:24Z | A collection of more than 160+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 935 | 218| 
 | 20211023T12:05:02Z | Null | https://github.com/PewPewBoy/for-paid-exploits | 0 | 0| 
 | 20211023T12:03:02Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 33 | 19| 
-| 20211023T12:01:22Z | Useful scripts to exploit Hack The Box retired machines/challenges | https://github.com/7Rocky/HackTheBox-scripts | 0 | 0| 
 | 20211023T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10234 | 1753| 
-| 20211023T11:31:14Z | A collection of more than 160+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 935 | 218| 
 | 20211023T11:07:37Z | My own collection of usual functions that I use during binary exploitation training | https://github.com/mousepad01/python_binary_exploit_utilites | 1 | 0| 
 | 20211023T10:45:59Z | MD5 as it is, can be cracked and suffers from vulnerabilities such as collisions, due to which cases of exploitation have been reported where data has been compromised. The general hashing algorithms use iterations combined with the auxiliary functions to produce a pseudo random digest for the given message. Elliptic Curve Digest is the algorithm proposed in this paper. The ECD algorithm is based on the elliptic curve used in cryptography along with the iterative hash functions. This new approach significantly reduces the chances of finding collisions using traditional attacks by making the computation in-feasible. To mitigate the shortcomings of the previously used hashing functions like low collision resistance, Elliptic Curve Digest (ECD) is suggested, which accepts a message of variable length and gives a 256- bit digest. Hence, the proposed algorithm can be viewed as an amalgamation of the elliptic curve and the iterated hash structure. The Elliptic Curve Digest Algorithm will decrease the probability of collisions of the message digest and in the process rendering the collision attacks less feasible. | https://github.com/KastureeK/Elliptic-Curve-Digest | 0 | 0| 
 | 20211023T10:32:50Z | CAUTION - Malicious files 💀 | https://github.com/Am0rphous/Malware | 19 | 8| 
@@ -118,7 +118,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211023T00:19:17Z | A tool for generating nonlinear numerical invariants for C and Java programs.  DIG uses dynamic analysis to infer invariants over program execution traces and applies symbolic execution to inferred invariants. | https://github.com/unsat/dig | 9 | 4| 
+| 20211023T08:20:36Z | RAUK: Automatic Schedulability Analysis of RTIC Applications Using Symbolic Execution | https://github.com/markhakansson/master-thesis | 5 | 0| 
+| 20211023T03:37:01Z | A tool for generating nonlinear numerical invariants for C and Java programs.  DIG uses dynamic analysis to infer invariants over program execution traces and applies symbolic execution to inferred invariants. | https://github.com/unsat/dig | 9 | 4| 
+| 20211023T01:59:50Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 8 | 4| 
 | 20211022T20:47:03Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 11 | 10| 
 | 20211022T20:33:51Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1793 | 509| 
 | 20211022T19:21:21Z | Symbolic Execution Engine for Boogie | https://github.com/boogie-org/symbooglix | 23 | 4| 
@@ -126,14 +128,12 @@
 | 20211022T13:33:04Z | 🎻 Requiem: Modularized exploit generation using symbolic execution | https://github.com/aesophor/requiem | 11 | 3| 
 | 20211021T22:55:07Z | Symbolic execution of LLVM IR with an engine written in Rust | https://github.com/PLSysSec/haybale | 334 | 16| 
 | 20211021T22:53:14Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1902 | 397| 
-| 20211021T17:02:36Z | A Ghidra extension that allows you to run Angr symbolic execution using the Pcode from Ghidra. | https://github.com/jdkleuver/PcodeSym | 4 | 0| 
-| 20211021T14:39:48Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 161 | 36| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211020T18:16:40Z | A penetration testing tool for finding file upload bugs (NDSS 2020) | https://github.com/WSP-LAB/FUSE | 191 | 44| 
+| 20211023T03:35:22Z | A penetration testing tool for finding file upload bugs (NDSS 2020) | https://github.com/WSP-LAB/FUSE | 192 | 44| 
 | 20211015T02:46:50Z | Code for the paper %FlowLens: Enabling Efficient Flow Classification for ML-based Network Security Applications% [NDSS %21] | https://github.com/dmbb/FlowLens | 11 | 1| 
 | 20211004T19:19:49Z | Code release for our NDSS %18 paper (offline phase). | https://github.com/shitongzhu/Anti-anti-adblocker | 0 | 0| 
 | 20211004T09:47:09Z | Code for NDSS 2021 Paper %Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses Against Federated Learning% | https://github.com/vrt1shjwlkr/NDSS21-Model-Poisoning | 27 | 6| 

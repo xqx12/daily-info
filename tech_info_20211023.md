@@ -11,6 +11,8 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20211023 | 恶意代码检测(1)恶意代码攻击溯源及恶意样本分析 | https://mp.weixin.qq.com/s/xrNL8waXsTyjU_8A6MlEjA| 
+| 20211023 | 网络空间资产探测关键技术研究 | https://mp.weixin.qq.com/s/95iJLqZN3Ll1a3kcU60dbA| 
 
 
 # CVE Github 推荐
@@ -37,11 +39,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211023T12:08:30Z | Useful scripts to exploit Hack The Box retired machines/challenges | https://github.com/7Rocky/HackTheBox-scripts | 0 | 0| 
+| 20211023T12:08:24Z | A collection of more than 160+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 935 | 218| 
 | 20211023T12:05:02Z | Null | https://github.com/PewPewBoy/for-paid-exploits | 0 | 0| 
 | 20211023T12:03:02Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 33 | 19| 
-| 20211023T12:01:22Z | Useful scripts to exploit Hack The Box retired machines/challenges | https://github.com/7Rocky/HackTheBox-scripts | 0 | 0| 
 | 20211023T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10234 | 1753| 
-| 20211023T11:31:14Z | A collection of more than 160+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 935 | 218| 
 | 20211023T11:07:37Z | My own collection of usual functions that I use during binary exploitation training | https://github.com/mousepad01/python_binary_exploit_utilites | 1 | 0| 
 | 20211023T10:45:59Z | MD5 as it is, can be cracked and suffers from vulnerabilities such as collisions, due to which cases of exploitation have been reported where data has been compromised. The general hashing algorithms use iterations combined with the auxiliary functions to produce a pseudo random digest for the given message. Elliptic Curve Digest is the algorithm proposed in this paper. The ECD algorithm is based on the elliptic curve used in cryptography along with the iterative hash functions. This new approach significantly reduces the chances of finding collisions using traditional attacks by making the computation in-feasible. To mitigate the shortcomings of the previously used hashing functions like low collision resistance, Elliptic Curve Digest (ECD) is suggested, which accepts a message of variable length and gives a 256- bit digest. Hence, the proposed algorithm can be viewed as an amalgamation of the elliptic curve and the iterated hash structure. The Elliptic Curve Digest Algorithm will decrease the probability of collisions of the message digest and in the process rendering the collision attacks less feasible. | https://github.com/KastureeK/Elliptic-Curve-Digest | 0 | 0| 
 | 20211023T10:32:50Z | CAUTION - Malicious files 💀 | https://github.com/Am0rphous/Malware | 19 | 8| 
@@ -66,12 +68,15 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211023T00:19:17Z | A tool for generating nonlinear numerical invariants for C and Java programs.  DIG uses dynamic analysis to infer invariants over program execution traces and applies symbolic execution to inferred invariants. | https://github.com/unsat/dig | 9 | 4| 
+| 20211023T08:20:36Z | RAUK: Automatic Schedulability Analysis of RTIC Applications Using Symbolic Execution | https://github.com/markhakansson/master-thesis | 5 | 0| 
+| 20211023T03:37:01Z | A tool for generating nonlinear numerical invariants for C and Java programs.  DIG uses dynamic analysis to infer invariants over program execution traces and applies symbolic execution to inferred invariants. | https://github.com/unsat/dig | 9 | 4| 
+| 20211023T01:59:50Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 8 | 4| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211023T03:35:22Z | A penetration testing tool for finding file upload bugs (NDSS 2020) | https://github.com/WSP-LAB/FUSE | 192 | 44| 
 
 
 # fuzz on Github 推荐
