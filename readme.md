@@ -17,6 +17,8 @@
 | 20211022 | Issue 2213: Windows: IKEEXT AuthIP Unvalidated GSS_ID EoP | https://bugs.chromium.org/p/project-zero/issues/detail?id=2213| 
 | 20211022 | 滥用云平台的 Serverless functions 实现 C2 流量代理 | https://sec.today/pulses/2c55cb7f-084e-4d55-b8fa-f6c7e0018114/| 
 | 20211022 | 滥用云平台的 Serverless functions 实现 C2 流量代理 | http://redteamer.tips/servers-are-overrated-bypassing-corporate-proxies-abusing-serverless-for-fun-and-profit/| 
+| 20211022 | 在野定向攻击所用Windows本地提权漏洞（CVE-2021-40449）复现和分析 . | https://mp-weixin-qq-com.translate.goog/s/AcFS0Yn9SDuYxFnzbBqhkQ?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=nui| 
+| 20211022 | Kernel Karnage – Part 1. | http://blog.nviso.eu/2021/10/21/kernel-karnage-part-1/| 
 
 
 # 安全维基 推荐
@@ -27,7 +29,12 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211022T10:42:59Z | CVE-2021-40449 | windows 10 14393 LPE | https://github.com/KaLendsi/CVE-2021-40449-Exploit | | 
+| 20211022T18:34:16Z | CVE-2021-40449 | windows 10 14393 LPE | https://github.com/KaLendsi/CVE-2021-40449-Exploit | | 
+| 20211022T18:26:20Z | CVE-2021-2471 | PoC for CVE-2021-2471 - XXE in MySQL Connector/J | https://github.com/DrunkenShells/CVE-2021-2471 | | 
+| 20211022T15:36:38Z | CVE-2021-2471 | Null | https://github.com/cckuailong/CVE-2021-2471 | | 
+| 20211022T15:23:59Z | CVE-2021-41773 | Null | https://github.com/BabyTeam1024/CVE-2021-41773 | | 
+| 20211022T14:06:00Z | CVE-2020-9484 | Null | https://github.com/masahiro331/CVE-2020-9484 | | 
+| 20211022T13:56:44Z | CVE-2021-42013 | Null | https://github.com/LayarKacaSiber/CVE-2021-42013 | | 
 | 20211022T07:27:37Z | CVE-2021-41773 | CVE-2021-41773 Docker lab | https://github.com/cloudbyteelias/CVE-2021-41773 | | 
 | 20211022T04:53:46Z | CVE-2021-26084 | Exploit CVE 2021 26084 Confluence | https://github.com/dock0d1/CVE-2021-26084_Confluence | | 
 
@@ -35,6 +42,10 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211022T20:33:51Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1793 | 509| 
+| 20211022T15:38:01Z | Small exercise we built while taking the CSD scrum developer course(Scrum Alliance) | https://github.com/amartine59/csd-kleer | 0 | 0| 
+| 20211022T14:21:41Z | Null | https://github.com/ayazip/witch-klee | 0 | 0| 
+| 20211022T13:42:23Z | Null | https://github.com/Pelenchim/kleer-csd | 0 | 0| 
 | 20211022T09:54:25Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
 | 20211022T09:48:18Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2860 | 79| 
 | 20211022T07:21:04Z | Web application for running static analysis of rust-based programs | https://github.com/LedgerProject/safepkt | 0 | 1| 
@@ -45,27 +56,31 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211022T13:33:04Z | 🎻 Requiem: Modularized exploit generation using symbolic execution | https://github.com/aesophor/requiem | 11 | 3| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211022T12:45:11Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 14| 
-| 20211022T12:21:45Z | 项目是根据LandGrey/SpringBootVulExploit清单编写，目的hvv期间快速利用漏洞、降低漏洞利用门槛。 | https://github.com/0x727/SpringBootExploit | 131 | 17| 
-| 20211022T12:06:11Z | 一款用于JNDI注入利用的工具，大量参考/引用了Rogue JNDI项目的代码，支持直接植入内存shell，并集成了常见的bypass 高版本JDK的方式，适用于与自动化工具配合使用。 | https://github.com/0x727/JNDIExploit | 61 | 6| 
-| 20211022T12:03:01Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 33 | 19| 
-| 20211022T11:55:55Z | Trigger payload directly from URL | https://github.com/DefconAlliance/php-Exploit | 0 | 0| 
-| 20211022T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10231 | 1753| 
-| 20211022T10:59:38Z | Null | https://github.com/NotFoundHacker/KaliExploit | 0 | 0| 
-| 20211022T10:10:58Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 3655 | 1261| 
-| 20211022T09:07:11Z | ZoomSounds < 6.05 allowing unauthenticated users to upload an arbitrary file anywhere on the web server. | https://github.com/0xAgun/Arbitrary-File-Upload-ZoomSounds | 0 | 0| 
-| 20211022T09:06:54Z | Agricultural Monitoring exploiting Sentinel 1 and Sentinel 2. SandboxNL contains detailed explanations about the creation and usage of the parcel based Sentinel datasets.  | https://github.com/ManuelHuber-Github/Agricultural-SandboxNL | 0 | 1| 
+| 20211022T23:51:57Z | Exploit Development CheatSheet. | https://github.com/V0lk3n/OSED-CheatSheet | 0 | 4| 
+| 20211022T23:18:34Z | A collection of more than 160+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 927 | 217| 
+| 20211022T23:03:02Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 33 | 19| 
+| 20211022T22:48:12Z | Exploit for CVE-2021-40449 - Win32k Elevation of Privilege Vulnerability (LPE) | https://github.com/ly4k/CallbackHell | 130 | 23| 
+| 20211022T22:38:31Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6060 | 1447| 
+| 20211022T22:27:31Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10233 | 1753| 
+| 20211022T22:02:27Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 4035 | 560| 
+| 20211022T21:34:50Z | HackTheBox Custom Exploits | https://github.com/vvinoth/HTBCustomExploits | 0 | 0| 
+| 20211022T19:20:10Z | OWASP Benchmark is a test suite designed to verify the speed and accuracy of software vulnerability detection tools. A fully runnable web app written in Java, it supports analysis by Static (SAST), Dynamic (DAST), and Runtime (IAST) tools that support Java. The idea is that since it is fully runnable and all the vulnerabilities are actually exploitable, it’s a fair test for any kind of vulnerability detection tool.  For more details on this project, please see the OWASP Benchmark Project home page. | https://github.com/OWASP-Benchmark/BenchmarkJava | 418 | 461| 
+| 20211022T19:14:36Z | Writeup for exploit.education/phoenix | https://github.com/vi11ain/phoenix-writeup | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211022T12:29:50Z | The insane hackerman backdoor. | https://github.com/Bakdooro/Bakdooro | 7 | 2| 
+| 20211022T23:33:06Z | Simple, but useful forensic tools to inspect the history and provenance of a Docker image. Used to investigate potential backdoors/malware. | https://github.com/InnovativeInventor/docker-forensics | 0 | 0| 
+| 20211022T21:41:59Z | The insane hackerman backdoor. | https://github.com/Bakdooro/Bakdooro | 7 | 2| 
+| 20211022T18:08:10Z | Null | https://github.com/JBXVI/server-backdoor | 0 | 0| 
+| 20211022T16:53:53Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 36 | 28| 
 | 20211022T12:27:25Z | Remote control software, supported Windows/Unix/MacOS/Linux(x86/x64/mips/arm) | https://github.com/h1zzz/purewater | 1 | 0| 
 | 20211022T12:01:27Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 342 | 62| 
 | 20211022T07:45:50Z | This keylogger stores all keystrokes with timestamps in the array and sends them to the server controlled by a hacker via HTTP every 2 hundred milliseconds. This tutorial is a simple example of what you can record with Javascript backdoor. It’s also possible to record mouse movements and clicks and a DOM element and to view the recorded data in live mode. | https://github.com/duongletrieu/Simple-XSS-Keylogger | 1 | 0| 
@@ -87,16 +102,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211022T12:53:15Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20211022T12:52:08Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2408 | 147| 
-| 20211022T12:34:29Z | Fuzzy Bubbles fonts | https://github.com/googlefonts/fuzzy-bubbles | 0 | 0| 
-| 20211022T12:15:15Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 31 | 12| 
-| 20211022T11:49:25Z | White-box fuzzer for Java bytecode | https://github.com/vorpal-research/kex | 7 | 10| 
-| 20211022T11:17:16Z | Find the ideal fuzz targets in a Rust codebase | https://github.com/trailofbits/siderophile | 120 | 9| 
-| 20211022T11:09:18Z | Null | https://github.com/BhanaviSingh/fuzzy-waffle | 0 | 0| 
-| 20211022T10:50:06Z | Proof of concept fuzzer using lldbs python API | https://github.com/lateralusd/BuggyLLDBFuzzer | 0 | 0| 
-| 20211022T10:38:27Z | Null | https://github.com/chrishowitt123/fuzzy-match-sql-names | 0 | 0| 
-| 20211022T10:37:25Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 34177 | 17776| 
+| 20211022T23:27:06Z | A repository for top fuzzing works in the literature. | https://github.com/PBearson/Fuzzing_Works | 0 | 0| 
+| 20211022T22:13:00Z | Julia package for fuzzy sets and clustering | https://github.com/tmwatchanan/FuzzySets.jl | 0 | 0| 
+| 20211022T22:08:53Z | Fuzzy string search with a special focus on short strings. | https://github.com/clustermarket/fuzzybear | 0 | 0| 
+| 20211022T21:09:26Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2409 | 147| 
+| 20211022T20:45:38Z | A fuzzing management tools collection | https://github.com/MozillaSecurity/FuzzManager | 158 | 49| 
+| 20211022T20:42:40Z | 32-bit x86 multiprocessing OS capable of running console or graphical user applications. | https://github.com/scopeInfinity/FuzzyOS | 2 | 1| 
+| 20211022T20:31:06Z | Logical Program....... | https://github.com/Izhar-Nabi/Bizz-Fuzz-Logic-Programs | 0 | 0| 
+| 20211022T20:24:17Z | Individual Development Plan | https://github.com/henrinacio/fuzzy-disco | 0 | 0| 
+| 20211022T20:17:27Z | Generator of random circuits | https://github.com/drom/circt-fuzzer | 1 | 0| 
+| 20211022T20:05:29Z | Fuzzy logic class assigments. | https://github.com/MaSobkowiak/FuzzyLogic | 0 | 0| 
 
 
 
