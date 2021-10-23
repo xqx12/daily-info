@@ -46,31 +46,31 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211023T01:50:36Z | CVE-2021-35215 | SolarWinds Orion Platform ActionPluginBaseView 反序列化RCE | https://github.com/Y4er/CVE-2021-35215 | | 
-| 20211023T01:17:19Z | CVE-2021-40449 | windows 10 14393 LPE | https://github.com/KaLendsi/CVE-2021-40449-Exploit | | 
+| 20211023T11:41:37Z | CVE-2021-35215 | SolarWinds Orion Platform ActionPluginBaseView 反序列化RCE | https://github.com/Y4er/CVE-2021-35215 | | 
+| 20211023T06:58:37Z | CVE-2021-40449 | windows 10 14393 LPE | https://github.com/KaLendsi/CVE-2021-40449-Exploit | | 
+| 20211023T03:01:42Z | 未知编号 | Null | https://github.com/engkikarnando/cvengki.html-2021 | | 
+| 20211023T02:06:42Z | CVE-2021-2471 | Null | https://github.com/cckuailong/CVE-2021-2471 | | 
 | 20211022T18:26:20Z | CVE-2021-2471 | PoC for CVE-2021-2471 - XXE in MySQL Connector/J | https://github.com/DrunkenShells/CVE-2021-2471 | | 
-| 20211022T15:36:38Z | CVE-2021-2471 | Null | https://github.com/cckuailong/CVE-2021-2471 | | 
 | 20211022T15:23:59Z | CVE-2021-41773 | Null | https://github.com/BabyTeam1024/CVE-2021-41773 | | 
 | 20211022T14:06:00Z | CVE-2020-9484 | Null | https://github.com/masahiro331/CVE-2020-9484 | | 
 | 20211022T13:56:44Z | CVE-2021-42013 | Null | https://github.com/LayarKacaSiber/CVE-2021-42013 | | 
 | 20211022T07:27:37Z | CVE-2021-41773 | CVE-2021-41773 Docker lab | https://github.com/cloudbyteelias/CVE-2021-41773 | | 
 | 20211022T04:53:46Z | CVE-2021-26084 | Exploit CVE 2021 26084 Confluence | https://github.com/dock0d1/CVE-2021-26084_Confluence | | 
-| 20211021T11:33:32Z | 未知编号 | For IS713 Project | https://github.com/sinjeanmin/cvedetails_2020 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211023T08:09:46Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2860 | 79| 
+| 20211023T02:26:52Z | External audio preamp board for the RP2A03 | https://github.com/Gumball2415/squeeki-kleen-Audio-FC | 1 | 0| 
 | 20211022T20:33:51Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1793 | 509| 
 | 20211022T15:38:01Z | Small exercise we built while taking the CSD scrum developer course(Scrum Alliance) | https://github.com/amartine59/csd-kleer | 0 | 0| 
 | 20211022T14:21:41Z | Null | https://github.com/ayazip/witch-klee | 0 | 0| 
 | 20211022T13:42:23Z | Null | https://github.com/Pelenchim/kleer-csd | 0 | 0| 
 | 20211022T09:54:25Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
-| 20211022T09:48:18Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2860 | 79| 
 | 20211022T07:21:04Z | Web application for running static analysis of rust-based programs | https://github.com/LedgerProject/safepkt | 0 | 1| 
 | 20211022T07:16:31Z | CLI and HTTP application for running static analysis of rust-based smart contracts | https://github.com/LedgerProject/safepkt_backend | 0 | 1| 
 | 20211022T00:01:48Z | Config files for my GitHub profile. | https://github.com/kleeeeeeeeeee/kleeeeeeeeeee | 0 | 0| 
-| 20211021T20:33:23Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 134 | 37| 
 
 
 # s2e on Github 推荐
@@ -88,31 +88,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211023T01:55:23Z | Exploit Repository For Windows Computers | https://github.com/FurryVile/WindowsExploitGoodies | 0 | 0| 
-| 20211023T01:36:35Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 355 | 53| 
-| 20211023T01:03:19Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 33 | 19| 
-| 20211023T00:52:04Z | A collection of more than 160+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 929 | 217| 
-| 20211023T00:21:00Z | Exploit Development CheatSheet. | https://github.com/V0lk3n/OSED-CheatSheet | 0 | 4| 
-| 20211022T22:48:12Z | Exploit for CVE-2021-40449 - Win32k Elevation of Privilege Vulnerability (LPE) | https://github.com/ly4k/CallbackHell | 130 | 23| 
-| 20211022T22:38:31Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6060 | 1447| 
-| 20211022T22:27:31Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10233 | 1753| 
-| 20211022T22:02:27Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 4035 | 560| 
-| 20211022T21:34:50Z | HackTheBox Custom Exploits | https://github.com/vvinoth/HTBCustomExploits | 0 | 0| 
+| 20211023T12:01:22Z | Useful scripts to exploit Hack The Box retired machines/challenges | https://github.com/7Rocky/HackTheBox-scripts | 0 | 0| 
+| 20211023T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10234 | 1753| 
+| 20211023T11:31:14Z | A collection of more than 160+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 935 | 218| 
+| 20211023T11:07:37Z | My own collection of usual functions that I use during binary exploitation training | https://github.com/mousepad01/python_binary_exploit_utilites | 1 | 0| 
+| 20211023T11:03:22Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 33 | 19| 
+| 20211023T10:45:59Z | MD5 as it is, can be cracked and suffers from vulnerabilities such as collisions, due to which cases of exploitation have been reported where data has been compromised. The general hashing algorithms use iterations combined with the auxiliary functions to produce a pseudo random digest for the given message. Elliptic Curve Digest is the algorithm proposed in this paper. The ECD algorithm is based on the elliptic curve used in cryptography along with the iterative hash functions. This new approach significantly reduces the chances of finding collisions using traditional attacks by making the computation in-feasible. To mitigate the shortcomings of the previously used hashing functions like low collision resistance, Elliptic Curve Digest (ECD) is suggested, which accepts a message of variable length and gives a 256- bit digest. Hence, the proposed algorithm can be viewed as an amalgamation of the elliptic curve and the iterated hash structure. The Elliptic Curve Digest Algorithm will decrease the probability of collisions of the message digest and in the process rendering the collision attacks less feasible. | https://github.com/KastureeK/Elliptic-Curve-Digest | 0 | 0| 
+| 20211023T10:32:50Z | CAUTION - Malicious files 💀 | https://github.com/Am0rphous/Malware | 19 | 8| 
+| 20211023T09:34:36Z | A Paid Roblox Exploit Hub | https://github.com/I2345/FelixHub | 0 | 0| 
+| 20211023T09:17:29Z | Null | https://github.com/PorryDepTrai/exploit | 0 | 0| 
+| 20211023T09:10:32Z | Null | https://github.com/Lucijan2556/Fixed-WeAreDevs-exploit-template | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211023T11:38:35Z | The insane hackerman backdoor. | https://github.com/Bakdooro/Bakdooro | 7 | 2| 
+| 20211023T10:58:00Z | Null | https://github.com/adzjaellon/python_backdoor | 0 | 0| 
+| 20211023T09:17:34Z | Backdoor has been discovered by me in Denver Smart Wifi Camera SHC-150. Backdoor allows attacker to execute commands on OS level. | https://github.com/enty8080/denver-camera-backdoor | 5 | 1| 
+| 20211023T08:30:11Z | This is a repository of code from a capture the flag exercise. I worked in a team to defend and attack in this exercise. Specifically, I authored SqlHandler to implement a session management system. I also authored scripts to enable defense against backdoors. Note: in this activity, https and ssl were disabled. | https://github.com/zabdulre/CTF1 | 0 | 0| 
+| 20211023T07:23:20Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 343 | 62| 
+| 20211023T06:43:23Z | Holds an example backdoor | https://github.com/SpyraxianJ/evil-code | 0 | 0| 
+| 20211023T05:00:28Z | A Potato-themed backdoor developed in C#.  | https://github.com/malwaredetective/spudnet | 0 | 0| 
+| 20211023T04:03:42Z | Null | https://github.com/Fartlicker777/Backdoor-Hacking | 0 | 0| 
+| 20211023T03:44:33Z | Remote control software, supported Windows/Unix/MacOS/Linux(x86/x64/mips/arm) | https://github.com/h1zzz/purewater | 2 | 0| 
 | 20211022T23:33:06Z | Simple, but useful forensic tools to inspect the history and provenance of a Docker image. Used to investigate potential backdoors/malware. | https://github.com/InnovativeInventor/docker-forensics | 0 | 0| 
-| 20211022T21:41:59Z | The insane hackerman backdoor. | https://github.com/Bakdooro/Bakdooro | 7 | 2| 
-| 20211022T18:08:10Z | Null | https://github.com/JBXVI/server-backdoor | 0 | 0| 
-| 20211022T16:53:53Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 36 | 28| 
-| 20211022T12:27:25Z | Remote control software, supported Windows/Unix/MacOS/Linux(x86/x64/mips/arm) | https://github.com/h1zzz/purewater | 1 | 0| 
-| 20211022T12:01:27Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 342 | 62| 
-| 20211022T07:45:50Z | This keylogger stores all keystrokes with timestamps in the array and sends them to the server controlled by a hacker via HTTP every 2 hundred milliseconds. This tutorial is a simple example of what you can record with Javascript backdoor. It’s also possible to record mouse movements and clicks and a DOM element and to view the recorded data in live mode. | https://github.com/duongletrieu/Simple-XSS-Keylogger | 1 | 0| 
-| 20211022T04:36:44Z | This is an implementation demo of the ICLR 2021 paper [Neural Attention Distillation: Erasing Backdoor Triggers from Deep Neural Networks](https://openreview.net/pdf?id=9l0K4OM-oXE) in PyTorch. | https://github.com/bboylyg/NAD | 46 | 8| 
-| 20211022T02:10:51Z | A Potato-themed backdoor developed in C#.  | https://github.com/malwaredetective/spudnet | 0 | 0| 
-| 20211021T20:47:44Z | Si te sirvió dejale una estrella nwn! | https://github.com/Luscius-Dev/Phobos-1.9.0-Compatible-With-LeuxBackdoor | 3 | 1| 
 
 
 # symbolic execution on Github 推荐
