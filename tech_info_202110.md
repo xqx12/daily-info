@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211022T18:34:16Z | CVE-2021-40449 | windows 10 14393 LPE | https://github.com/KaLendsi/CVE-2021-40449-Exploit | | 
+| 20211023T01:17:19Z | CVE-2021-40449 | windows 10 14393 LPE | https://github.com/KaLendsi/CVE-2021-40449-Exploit | | 
 | 20211022T18:26:20Z | CVE-2021-2471 | PoC for CVE-2021-2471 - XXE in MySQL Connector/J | https://github.com/DrunkenShells/CVE-2021-2471 | | 
 | 20211022T15:36:38Z | CVE-2021-2471 | Null | https://github.com/cckuailong/CVE-2021-2471 | | 
 | 20211022T15:23:59Z | CVE-2021-41773 | Null | https://github.com/BabyTeam1024/CVE-2021-41773 | | 
@@ -142,6 +142,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211023T01:30:03Z | Null | https://github.com/mahnung-muster/fuzzy-octo-spork | 0 | 0| 
+| 20211023T01:25:19Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3744 | 885| 
 | 20211023T00:51:57Z | These tests of libdwarf/dwarfdump include old object files, new ones, and many fuzzed object files. These are the definitive tests that things work.. Most people have no reason to run these tests. | https://github.com/davea42/libdwarf-regressiontests | 0 | 0| 
 | 20211023T00:43:30Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 7 | 1| 
 | 20211023T00:31:53Z | Null | https://github.com/solo-studios/kt-fuzzy | 1 | 0| 
@@ -150,8 +152,6 @@
 | 20211022T22:13:00Z | Julia package for fuzzy sets and clustering | https://github.com/tmwatchanan/FuzzySets.jl | 0 | 0| 
 | 20211022T22:08:53Z | Fuzzy string search with a special focus on short strings. | https://github.com/clustermarket/fuzzybear | 0 | 0| 
 | 20211022T21:09:26Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2409 | 147| 
-| 20211022T20:45:38Z | A fuzzing management tools collection | https://github.com/MozillaSecurity/FuzzManager | 158 | 49| 
-| 20211022T20:42:40Z | 32-bit x86 multiprocessing OS capable of running console or graphical user applications. | https://github.com/scopeInfinity/FuzzyOS | 2 | 1| 
 
 
 
