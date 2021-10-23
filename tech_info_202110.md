@@ -142,16 +142,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211023T00:51:57Z | These tests of libdwarf/dwarfdump include old object files, new ones, and many fuzzed object files. These are the definitive tests that things work.. Most people have no reason to run these tests. | https://github.com/davea42/libdwarf-regressiontests | 0 | 0| 
+| 20211023T00:43:30Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 7 | 1| 
+| 20211023T00:31:53Z | Null | https://github.com/solo-studios/kt-fuzzy | 1 | 0| 
 | 20211023T00:14:37Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20211023T00:14:12Z | Null | https://github.com/solo-studios/kt-fuzzy | 1 | 0| 
 | 20211022T23:27:06Z | A repository for top fuzzing works in the literature. | https://github.com/PBearson/Fuzzing_Works | 0 | 0| 
 | 20211022T22:13:00Z | Julia package for fuzzy sets and clustering | https://github.com/tmwatchanan/FuzzySets.jl | 0 | 0| 
 | 20211022T22:08:53Z | Fuzzy string search with a special focus on short strings. | https://github.com/clustermarket/fuzzybear | 0 | 0| 
 | 20211022T21:09:26Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2409 | 147| 
 | 20211022T20:45:38Z | A fuzzing management tools collection | https://github.com/MozillaSecurity/FuzzManager | 158 | 49| 
 | 20211022T20:42:40Z | 32-bit x86 multiprocessing OS capable of running console or graphical user applications. | https://github.com/scopeInfinity/FuzzyOS | 2 | 1| 
-| 20211022T20:31:06Z | Logical Program....... | https://github.com/Izhar-Nabi/Bizz-Fuzz-Logic-Programs | 0 | 0| 
-| 20211022T20:24:17Z | Individual Development Plan | https://github.com/henrinacio/fuzzy-disco | 0 | 0| 
 
 
 
