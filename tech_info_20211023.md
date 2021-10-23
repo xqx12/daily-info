@@ -37,16 +37,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211023T12:05:02Z | Null | https://github.com/PewPewBoy/for-paid-exploits | 0 | 0| 
+| 20211023T12:03:02Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 33 | 19| 
 | 20211023T12:01:22Z | Useful scripts to exploit Hack The Box retired machines/challenges | https://github.com/7Rocky/HackTheBox-scripts | 0 | 0| 
 | 20211023T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10234 | 1753| 
 | 20211023T11:31:14Z | A collection of more than 160+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 935 | 218| 
 | 20211023T11:07:37Z | My own collection of usual functions that I use during binary exploitation training | https://github.com/mousepad01/python_binary_exploit_utilites | 1 | 0| 
-| 20211023T11:03:22Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 33 | 19| 
 | 20211023T10:45:59Z | MD5 as it is, can be cracked and suffers from vulnerabilities such as collisions, due to which cases of exploitation have been reported where data has been compromised. The general hashing algorithms use iterations combined with the auxiliary functions to produce a pseudo random digest for the given message. Elliptic Curve Digest is the algorithm proposed in this paper. The ECD algorithm is based on the elliptic curve used in cryptography along with the iterative hash functions. This new approach significantly reduces the chances of finding collisions using traditional attacks by making the computation in-feasible. To mitigate the shortcomings of the previously used hashing functions like low collision resistance, Elliptic Curve Digest (ECD) is suggested, which accepts a message of variable length and gives a 256- bit digest. Hence, the proposed algorithm can be viewed as an amalgamation of the elliptic curve and the iterated hash structure. The Elliptic Curve Digest Algorithm will decrease the probability of collisions of the message digest and in the process rendering the collision attacks less feasible. | https://github.com/KastureeK/Elliptic-Curve-Digest | 0 | 0| 
 | 20211023T10:32:50Z | CAUTION - Malicious files 💀 | https://github.com/Am0rphous/Malware | 19 | 8| 
 | 20211023T09:34:36Z | A Paid Roblox Exploit Hub | https://github.com/I2345/FelixHub | 0 | 0| 
 | 20211023T09:17:29Z | Null | https://github.com/PorryDepTrai/exploit | 0 | 0| 
-| 20211023T09:10:32Z | Null | https://github.com/Lucijan2556/Fixed-WeAreDevs-exploit-template | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -77,13 +77,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211023T01:58:43Z | bash script to run from installation media to setup gentoo automagically | https://github.com/fjp321/fuzzy-goggles | 0 | 0| 
-| 20211023T01:30:03Z | Null | https://github.com/mahnung-muster/fuzzy-octo-spork | 0 | 0| 
-| 20211023T01:25:19Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3744 | 885| 
-| 20211023T00:51:57Z | These tests of libdwarf/dwarfdump include old object files, new ones, and many fuzzed object files. These are the definitive tests that things work.. Most people have no reason to run these tests. | https://github.com/davea42/libdwarf-regressiontests | 0 | 0| 
-| 20211023T00:43:30Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 7 | 1| 
-| 20211023T00:31:53Z | Null | https://github.com/solo-studios/kt-fuzzy | 1 | 0| 
-| 20211023T00:14:37Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20211023T11:57:49Z | One giant file for danielmiessler/SecLists repository. Useful for leaving web fuzzer on coming back later to analyse results | https://github.com/freitzzz/danielmiessler-seclists-one-giant-file | 0 | 0| 
+| 20211023T11:53:31Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3746 | 885| 
+| 20211023T11:52:34Z | Official Python implementation of IEEE JBHI 2021 paper: %Choquet Integral and Coalition Game-based Ensemble of Deep Learning Models for COVID-19 Screening from Chest X-ray Images% | https://github.com/subhankar01/Covid-Chestxray-lambda-fuzzy | 3 | 4| 
+| 20211023T11:46:05Z | This Repository is for maintaining RegressFuzz settings | https://github.com/hanyoungYoo/RegressFuzzSetting | 0 | 0| 
+| 20211023T10:52:19Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
+| 20211023T10:33:23Z | Null | https://github.com/eteryko/fuzzy-train | 0 | 0| 
+| 20211023T10:02:07Z | Fuzz corpora that shouldn%t *quite* go into Serenity, I think | https://github.com/SerenityOS/serenity-fuzz-corpora | 2 | 3| 
+| 20211023T09:09:05Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
+| 20211023T08:49:18Z | An oh-my-zsh plugin that adds fuzzy search for directories %warped% with WD Zsh plugin | https://github.com/spodin/zsh-fuzzy-wd | 0 | 0| 
+| 20211023T08:01:16Z | The blog contains classic fuzzing books, papers about fuzzing at information security top conferences over the years, commonly used fuzzing tools, and blogs that can quickly learn fuzzing tools. | https://github.com/liyansong2018/fuzzing-tutorial | 37 | 6| 
 
 
 
