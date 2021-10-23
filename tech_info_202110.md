@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211023T01:35:45Z | CVE-2021-35215 | SolarWinds Orion Platform ActionPluginBaseView 反序列化RCE | https://github.com/Y4er/CVE-2021-35215 | | 
 | 20211023T01:17:19Z | CVE-2021-40449 | windows 10 14393 LPE | https://github.com/KaLendsi/CVE-2021-40449-Exploit | | 
 | 20211022T18:26:20Z | CVE-2021-2471 | PoC for CVE-2021-2471 - XXE in MySQL Connector/J | https://github.com/DrunkenShells/CVE-2021-2471 | | 
 | 20211022T15:36:38Z | CVE-2021-2471 | Null | https://github.com/cckuailong/CVE-2021-2471 | | 
@@ -55,7 +56,6 @@
 | 20211022T07:27:37Z | CVE-2021-41773 | CVE-2021-41773 Docker lab | https://github.com/cloudbyteelias/CVE-2021-41773 | | 
 | 20211022T04:53:46Z | CVE-2021-26084 | Exploit CVE 2021 26084 Confluence | https://github.com/dock0d1/CVE-2021-26084_Confluence | | 
 | 20211021T11:33:32Z | 未知编号 | For IS713 Project | https://github.com/sinjeanmin/cvedetails_2020 | | 
-| 20211021T09:46:42Z | CVE-2021-40444 | CVE 2021 40444 Windows Exploit services.dll | https://github.com/kal1gh0st/CVE-2021-40444_CAB_archives | | 
 
 
 # klee on Github 推荐
@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211023T01:36:35Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 355 | 53| 
 | 20211023T01:03:19Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 33 | 19| 
 | 20211023T00:52:04Z | A collection of more than 160+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 929 | 217| 
 | 20211023T00:21:00Z | Exploit Development CheatSheet. | https://github.com/V0lk3n/OSED-CheatSheet | 0 | 4| 
@@ -97,7 +98,6 @@
 | 20211022T22:02:27Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 4035 | 560| 
 | 20211022T21:34:50Z | HackTheBox Custom Exploits | https://github.com/vvinoth/HTBCustomExploits | 0 | 0| 
 | 20211022T19:20:10Z | OWASP Benchmark is a test suite designed to verify the speed and accuracy of software vulnerability detection tools. A fully runnable web app written in Java, it supports analysis by Static (SAST), Dynamic (DAST), and Runtime (IAST) tools that support Java. The idea is that since it is fully runnable and all the vulnerabilities are actually exploitable, it’s a fair test for any kind of vulnerability detection tool.  For more details on this project, please see the OWASP Benchmark Project home page. | https://github.com/OWASP-Benchmark/BenchmarkJava | 418 | 461| 
-| 20211022T19:14:36Z | Writeup for exploit.education/phoenix | https://github.com/vi11ain/phoenix-writeup | 0 | 0| 
 
 
 # backdoor on Github 推荐
