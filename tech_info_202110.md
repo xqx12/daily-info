@@ -88,7 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211023T00:13:54Z | Exploit Development CheatSheet. | https://github.com/V0lk3n/OSED-CheatSheet | 0 | 4| 
+| 20211023T00:21:00Z | Exploit Development CheatSheet. | https://github.com/V0lk3n/OSED-CheatSheet | 0 | 4| 
 | 20211023T00:03:24Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 33 | 19| 
 | 20211023T00:02:51Z | A collection of more than 160+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 928 | 217| 
 | 20211022T22:48:12Z | Exploit for CVE-2021-40449 - Win32k Elevation of Privilege Vulnerability (LPE) | https://github.com/ly4k/CallbackHell | 130 | 23| 
@@ -142,6 +142,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211023T00:14:37Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20211023T00:14:12Z | Null | https://github.com/solo-studios/kt-fuzzy | 1 | 0| 
 | 20211022T23:27:06Z | A repository for top fuzzing works in the literature. | https://github.com/PBearson/Fuzzing_Works | 0 | 0| 
 | 20211022T22:13:00Z | Julia package for fuzzy sets and clustering | https://github.com/tmwatchanan/FuzzySets.jl | 0 | 0| 
 | 20211022T22:08:53Z | Fuzzy string search with a special focus on short strings. | https://github.com/clustermarket/fuzzybear | 0 | 0| 
@@ -150,8 +152,6 @@
 | 20211022T20:42:40Z | 32-bit x86 multiprocessing OS capable of running console or graphical user applications. | https://github.com/scopeInfinity/FuzzyOS | 2 | 1| 
 | 20211022T20:31:06Z | Logical Program....... | https://github.com/Izhar-Nabi/Bizz-Fuzz-Logic-Programs | 0 | 0| 
 | 20211022T20:24:17Z | Individual Development Plan | https://github.com/henrinacio/fuzzy-disco | 0 | 0| 
-| 20211022T20:17:27Z | Generator of random circuits | https://github.com/drom/circt-fuzzer | 1 | 0| 
-| 20211022T20:05:29Z | Fuzzy logic class assigments. | https://github.com/MaSobkowiak/FuzzyLogic | 0 | 0| 
 
 
 
