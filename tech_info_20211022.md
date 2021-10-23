@@ -29,7 +29,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211022T18:34:16Z | CVE-2021-40449 | windows 10 14393 LPE | https://github.com/KaLendsi/CVE-2021-40449-Exploit | | 
 | 20211022T18:26:20Z | CVE-2021-2471 | PoC for CVE-2021-2471 - XXE in MySQL Connector/J | https://github.com/DrunkenShells/CVE-2021-2471 | | 
 | 20211022T15:36:38Z | CVE-2021-2471 | Null | https://github.com/cckuailong/CVE-2021-2471 | | 
 | 20211022T15:23:59Z | CVE-2021-41773 | Null | https://github.com/BabyTeam1024/CVE-2021-41773 | | 
