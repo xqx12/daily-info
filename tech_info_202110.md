@@ -88,16 +88,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211024T01:03:55Z | Programs for exploring disassembling and buffer overflows for Vanderbilt CS 6387 | https://github.com/wutka/exploits_6387 | 0 | 0| 
+| 20211024T01:03:18Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 33 | 19| 
 | 20211024T00:52:15Z | Twitter.com/ClumsyLulz | https://github.com/SleepTheGod/DiscorExploits | 0 | 0| 
 | 20211024T00:51:12Z | Twitter.com/ClumsyLulz | https://github.com/SleepTheGod/DiscorExploitsd- | 0 | 0| 
 | 20211024T00:18:29Z | Infinite Cookies Script for Cookie Clicker | https://github.com/Exunys/Cookie-Clicker-Exploits | 0 | 0| 
-| 20211024T00:03:22Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 33 | 19| 
 | 20211023T23:43:19Z | Null | https://github.com/Eclipse-Incoprerated/eclipse-exploit-example | 0 | 0| 
 | 20211023T23:40:49Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10236 | 1753| 
 | 20211023T23:13:04Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 73 | 129| 
 | 20211023T23:12:37Z | An exploit made for Ninja Legends, tested in Synaspe X. | https://github.com/Glatinis/ninjalegendsgui | 0 | 0| 
 | 20211023T23:09:05Z | Exploit Repository For Windows Computers | https://github.com/FurryVile/WindowsExploitGoodies | 0 | 0| 
-| 20211023T23:03:46Z | Null | https://github.com/zgr2575/exploitv2 | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -118,8 +118,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211024T01:02:34Z | A tool for generating nonlinear numerical invariants for C and Java programs.  DIG uses dynamic analysis to infer invariants over program execution traces and applies symbolic execution to inferred invariants. | https://github.com/unsat/dig | 9 | 4| 
 | 20211023T22:44:14Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 12 | 10| 
-| 20211023T21:08:12Z | A tool for generating nonlinear numerical invariants for C and Java programs.  DIG uses dynamic analysis to infer invariants over program execution traces and applies symbolic execution to inferred invariants. | https://github.com/unsat/dig | 9 | 4| 
 | 20211023T18:05:07Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 9 | 4| 
 | 20211023T08:20:36Z | RAUK: Automatic Schedulability Analysis of RTIC Applications Using Symbolic Execution | https://github.com/markhakansson/master-thesis | 5 | 0| 
 | 20211022T20:33:51Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1793 | 510| 
