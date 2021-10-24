@@ -142,6 +142,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211024T01:07:40Z | Nistagno | https://github.com/Sthathan/fuzzy-octo-disco | 0 | 0| 
 | 20211024T00:14:14Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
 | 20211023T23:28:06Z | bash script to run from installation media to setup gentoo automagically | https://github.com/fjp321/fuzzy-goggles | 0 | 0| 
 | 20211023T21:45:05Z | uwu | https://github.com/fuzziejaxer/Fuzziebot | 0 | 0| 
@@ -151,7 +152,6 @@
 | 20211023T20:35:29Z | A fuzzer that generates random Go programs | https://github.com/ALTree/microsmith | 12 | 0| 
 | 20211023T19:43:14Z | Null | https://github.com/wagnerkaba/fuzzy-rotary-phone | 0 | 0| 
 | 20211023T19:35:33Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6752 | 1400| 
-| 20211023T18:34:47Z | Daftarkan segera jika ingin sukses | https://github.com/Sitirehana/fuzzy-octo-bassoon | 0 | 0| 
 
 
 
