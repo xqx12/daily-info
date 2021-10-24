@@ -53,7 +53,7 @@
 | 20211023T21:21:39Z | Null | https://github.com/fitrailyasa/exploit20 | 0 | 0| 
 | 20211023T20:49:45Z | Roblox exploit | https://github.com/Dnotcashier/Heckersploit | 0 | 0| 
 | 20211023T19:48:23Z | The Internet Observatory (Obsrva) is a vulnerability research project founded by independent security researcher Tyler Butler. Obsrva engages product vendors in coordinated disclosures, publishes vulnerability advisories, and creates proof of concept exploits. | https://github.com/obsrva/obsrva.org | 1 | 0| 
-| 20211023T19:27:54Z | Exploit of 3 different CVE%s in Zyxel NAS 326 | https://github.com/mdulin2/Zyxel_NAS326_Exploit | 2 | 0| 
+| 20211023T19:14:38Z | Roblox Exploit Hub | https://github.com/poopMaster2000/IdKv2Hub | 0 | 0| 
 
 
 # backdoor on Github 推荐
