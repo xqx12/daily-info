@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211024T00:50:10Z | Twitter.com/ClumsyLulz | https://github.com/SleepTheGod/DiscorExploitsd- | 0 | 0| 
 | 20211024T00:18:29Z | Infinite Cookies Script for Cookie Clicker | https://github.com/Exunys/Cookie-Clicker-Exploits | 0 | 0| 
 | 20211024T00:03:22Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 33 | 19| 
 | 20211023T23:43:19Z | Null | https://github.com/Eclipse-Incoprerated/eclipse-exploit-example | 0 | 0| 
@@ -97,7 +98,6 @@
 | 20211023T23:09:05Z | Exploit Repository For Windows Computers | https://github.com/FurryVile/WindowsExploitGoodies | 0 | 0| 
 | 20211023T23:03:46Z | Null | https://github.com/zgr2575/exploitv2 | 0 | 0| 
 | 20211023T22:00:49Z | Programs for exploring disassembling and buffer overflows for Vanderbilt CS 6387 | https://github.com/wutka/exploits_6387 | 0 | 0| 
-| 20211023T21:21:39Z | Null | https://github.com/fitrailyasa/exploit20 | 0 | 0| 
 
 
 # backdoor on Github 推荐
