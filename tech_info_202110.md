@@ -118,6 +118,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211024T01:05:51Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 162 | 36| 
 | 20211024T01:02:34Z | A tool for generating nonlinear numerical invariants for C and Java programs.  DIG uses dynamic analysis to infer invariants over program execution traces and applies symbolic execution to inferred invariants. | https://github.com/unsat/dig | 9 | 4| 
 | 20211023T22:44:14Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 12 | 10| 
 | 20211023T18:05:07Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 9 | 4| 
@@ -127,7 +128,6 @@
 | 20211022T15:21:42Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 18 | 4| 
 | 20211022T13:33:04Z | 🎻 Requiem: Modularized exploit generation using symbolic execution | https://github.com/aesophor/requiem | 11 | 3| 
 | 20211021T22:55:07Z | Symbolic execution of LLVM IR with an engine written in Rust | https://github.com/PLSysSec/haybale | 334 | 16| 
-| 20211021T22:53:14Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1902 | 397| 
 
 
 # big4 on Github 推荐
