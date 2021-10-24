@@ -103,6 +103,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211024T00:35:55Z | A TCP Backdoor made in python | https://github.com/ferreiraklet/Tracey-Backdoor | 5 | 0| 
 | 20211024T00:03:39Z | The insane hackerman backdoor. | https://github.com/Bakdooro/Bakdooro | 7 | 2| 
 | 20211023T21:47:36Z | Null | https://github.com/Fartlicker777/Backdoor-Hacking | 0 | 0| 
 | 20211023T20:16:26Z | Null | https://github.com/JoacyOliveira/backdoor | 0 | 0| 
@@ -112,7 +113,6 @@
 | 20211023T15:40:21Z | Remote control software, supported Windows/Unix/MacOS/Linux(x86/x64/mips/arm) | https://github.com/h1zzz/purewater | 3 | 0| 
 | 20211023T10:58:00Z | Null | https://github.com/adzjaellon/python_backdoor | 0 | 0| 
 | 20211023T09:17:34Z | Backdoor has been discovered by me in Denver Smart Wifi Camera SHC-150. Backdoor allows attacker to execute commands on OS level. | https://github.com/enty8080/denver-camera-backdoor | 5 | 1| 
-| 20211023T08:30:11Z | This is a repository of code from a capture the flag exercise. I worked in a team to defend and attack in this exercise. Specifically, I authored SqlHandler to implement a session management system. I also authored scripts to enable defense against backdoors. Note: in this activity, https and ssl were disabled. | https://github.com/zabdulre/CTF1 | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
