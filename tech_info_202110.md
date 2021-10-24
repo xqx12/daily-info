@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211024T01:41:39Z | K8博客 | https://github.com/k8gege/k8gege.github.io | 18 | 7| 
 | 20211024T01:36:36Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 355 | 54| 
 | 20211024T01:12:44Z | Root shell exploit for several Xiaomi routers: 4A Gigabit, 4A 100M, 4, 4C, 3Gv2, 4Q, miWifi 3C... | https://github.com/acecilia/OpenWRTInvasion | 567 | 119| 
 | 20211024T01:03:55Z | Programs for exploring disassembling and buffer overflows for Vanderbilt CS 6387 | https://github.com/wutka/exploits_6387 | 0 | 0| 
@@ -97,7 +98,6 @@
 | 20211024T00:18:29Z | Infinite Cookies Script for Cookie Clicker | https://github.com/Exunys/Cookie-Clicker-Exploits | 0 | 0| 
 | 20211023T23:43:19Z | Null | https://github.com/Eclipse-Incoprerated/eclipse-exploit-example | 0 | 0| 
 | 20211023T23:40:49Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10236 | 1753| 
-| 20211023T23:13:04Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 73 | 129| 
 
 
 # backdoor on Github 推荐
