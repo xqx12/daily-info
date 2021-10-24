@@ -142,12 +142,12 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211024T00:14:14Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
 | 20211023T23:28:06Z | bash script to run from installation media to setup gentoo automagically | https://github.com/fjp321/fuzzy-goggles | 0 | 0| 
 | 20211023T21:45:05Z | uwu | https://github.com/fuzziejaxer/Fuzziebot | 0 | 0| 
 | 20211023T21:35:27Z | A repository for top fuzzing works in the literature. | https://github.com/PBearson/Fuzzing_Works | 0 | 0| 
 | 20211023T21:13:01Z | Null | https://github.com/oscarpimentel/fuzzy-tools | 0 | 0| 
 | 20211023T21:09:59Z | Webhosting services that allow you to hit localhost are dangerous. This is used to Fuzz the ports for services. Used in Kotarak. | https://github.com/kyle41111/SSRF-Internal-Fuzzer | 0 | 0| 
-| 20211023T20:45:14Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
 | 20211023T20:35:29Z | A fuzzer that generates random Go programs | https://github.com/ALTree/microsmith | 12 | 0| 
 | 20211023T19:43:14Z | Null | https://github.com/wagnerkaba/fuzzy-rotary-phone | 0 | 0| 
 | 20211023T19:35:33Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6752 | 1400| 
