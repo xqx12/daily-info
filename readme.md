@@ -45,7 +45,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20211023T23:43:19Z | Null | https://github.com/Eclipse-Incoprerated/eclipse-exploit-example | 0 | 0| 
-| 20211023T23:40:49Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10236 | 1752| 
+| 20211023T23:40:49Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10236 | 1753| 
 | 20211023T23:13:04Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 73 | 129| 
 | 20211023T23:12:37Z | An exploit made for Ninja Legends, tested in Synaspe X. | https://github.com/Glatinis/ninjalegendsgui | 0 | 0| 
 | 20211023T23:09:05Z | Exploit Repository For Windows Computers | https://github.com/FurryVile/WindowsExploitGoodies | 0 | 0| 
