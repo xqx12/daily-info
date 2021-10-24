@@ -88,7 +88,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211023T23:28:06Z | bash script to run from installation media to setup gentoo automagically | https://github.com/fjp321/fuzzy-goggles | 0 | 0| 
 | 20211023T21:45:05Z | uwu | https://github.com/fuzziejaxer/Fuzziebot | 0 | 0| 
 | 20211023T21:35:27Z | A repository for top fuzzing works in the literature. | https://github.com/PBearson/Fuzzing_Works | 0 | 0| 
 | 20211023T21:13:01Z | Null | https://github.com/oscarpimentel/fuzzy-tools | 0 | 0| 
@@ -98,6 +97,7 @@
 | 20211023T19:35:33Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6752 | 1400| 
 | 20211023T18:34:47Z | Daftarkan segera jika ingin sukses | https://github.com/Sitirehana/fuzzy-octo-bassoon | 0 | 0| 
 | 20211023T17:45:06Z | Null | https://github.com/NS-unina/Rule-Based-Fuzzer | 0 | 0| 
+| 20211023T17:33:34Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1114 | 130| 
 
 
 

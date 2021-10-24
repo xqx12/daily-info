@@ -142,9 +142,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211024T01:21:29Z | bash script to run from installation media to setup gentoo automagically | https://github.com/fjp321/fuzzy-goggles | 0 | 0| 
 | 20211024T01:07:40Z | Nistagno | https://github.com/Sthathan/fuzzy-octo-disco | 0 | 0| 
 | 20211024T00:14:14Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
-| 20211023T23:28:06Z | bash script to run from installation media to setup gentoo automagically | https://github.com/fjp321/fuzzy-goggles | 0 | 0| 
 | 20211023T21:45:05Z | uwu | https://github.com/fuzziejaxer/Fuzziebot | 0 | 0| 
 | 20211023T21:35:27Z | A repository for top fuzzing works in the literature. | https://github.com/PBearson/Fuzzing_Works | 0 | 0| 
 | 20211023T21:13:01Z | Null | https://github.com/oscarpimentel/fuzzy-tools | 0 | 0| 
