@@ -50,7 +50,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211025T12:39:28Z | Gonna share my writeups and resources here | https://github.com/jopraveen/exploit-development | 10 | 6| 
+| 20211025T12:45:13Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 14| 
+| 20211025T12:43:23Z | Gonna share my writeups and resources here | https://github.com/jopraveen/exploit-development | 10 | 6| 
 | 20211025T12:39:19Z | 项目是根据LandGrey/SpringBootVulExploit清单编写，目的hvv期间快速利用漏洞、降低漏洞利用门槛。 | https://github.com/0x727/SpringBootExploit | 320 | 48| 
 | 20211025T12:31:20Z | Exploiting and fixing security vulnerabilities of an old version of E-Class. Project implemented as part of the class YS13 Cyber-Security. | https://github.com/AristiPap/E-Class_PenTesting | 5 | 0| 
 | 20211025T12:03:24Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 33 | 19| 
@@ -59,7 +60,6 @@
 | 20211025T10:14:15Z | Exploit Code | https://github.com/wjddnjs33/Exploit | 0 | 0| 
 | 20211025T10:02:18Z | zimbra nginx lpe exploit | https://github.com/darrenmartyn/zimbra-hinginx | 0 | 0| 
 | 20211025T09:41:45Z | My exploit for CVE-2021-40449, a Windows LPE via a UAF in win32kfull!GreResetDCInternal. | https://github.com/hakivvi/CVE-2021-40449 | 6 | 3| 
-| 20211025T09:15:34Z | Hey! I%m edoardottt! 🏴‍☠️👹 | https://github.com/edoardottt/edoardottt | 0 | 0| 
 
 
 # backdoor on Github 推荐
