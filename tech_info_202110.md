@@ -46,13 +46,13 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211025T12:08:32Z | 未知编号 | For IS713 Project | https://github.com/sinjeanmin/cvedetails_2020 | | 
 | 20211025T11:03:18Z | CVE-2021-35215 | SolarWinds Orion Platform ActionPluginBaseView 反序列化RCE | https://github.com/Y4er/CVE-2021-35215 | | 
 | 20211025T09:41:45Z | CVE-2021-40449 | My exploit for CVE-2021-40449, a Windows LPE via a UAF in win32kfull!GreResetDCInternal. | https://github.com/hakivvi/CVE-2021-40449 | | 
 | 20211025T09:03:06Z | CVE-2021-26084 | Null | https://github.com/Jun-5heng/CVE-2021-26084 | | 
 | 20211025T05:12:34Z | CVE-2021-41773 | A Zeek package which raises notices for Path Traversal/RCE in Apache HTTP Server 2.4.49 (CVE-2021-41773) and 2.4.50 (CVE-2021-42013) | https://github.com/corelight/CVE-2021-41773 | | 
 | 20211024T23:17:28Z | CVE-2021-40444 | Null | https://github.com/TiagoSergio/CVE-2021-40444 | | 
 | 20211024T23:14:14Z | CVE-2021-22005 | Null | https://github.com/TiagoSergio/CVE-2021-22005 | | 
-| 20211024T18:22:24Z | 未知编号 | For IS713 Project | https://github.com/sinjeanmin/cvedetails_2020 | | 
 | 20211024T13:26:16Z | CVE-2021-42013 | PoC CVE-2021-42013 reverse shell Apache 2.4.50 with CGI | https://github.com/TheLastVvV/CVE-2021-42013_Reverse-Shell | | 
 | 20211024T10:36:08Z | cve-2021-41773 | CVE-2021-41773 is a python script that will help in finding Path Traversal or Remote Code Execution vulnerability in Apache 2.4.49 | https://github.com/walnutsecurity/cve-2021-41773 | | 
 | 20211024T10:21:14Z | CVE-2021-40438 | CVE-2021-40438 exploit PoC with Docker setup. | https://github.com/sixpacksecurity/CVE-2021-40438 | | 
@@ -142,6 +142,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211025T12:07:06Z | Null | https://github.com/Hwangwoosam/fuzzing | 5 | 0| 
 | 20211025T12:03:32Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6755 | 1399| 
 | 20211025T12:02:10Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 32 | 12| 
 | 20211025T11:57:53Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 564 | 58| 
@@ -151,7 +152,6 @@
 | 20211025T11:01:41Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211025T11:01:14Z | 32-bit x86 multiprocessing OS capable of running console or graphical user applications. | https://github.com/scopeInfinity/FuzzyOS | 3 | 1| 
 | 20211025T11:00:12Z | OSS-Sydr-Fuzz - OSS-Fuzz fork for hybrid fuzzing (fuzzer+DSE) open source software. | https://github.com/ispras/oss-sydr-fuzz | 3 | 0| 
-| 20211025T10:45:25Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3747 | 887| 
 
 
 
