@@ -50,16 +50,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211025T12:39:28Z | Gonna share my writeups and resources here | https://github.com/jopraveen/exploit-development | 10 | 6| 
+| 20211025T12:39:19Z | 项目是根据LandGrey/SpringBootVulExploit清单编写，目的hvv期间快速利用漏洞、降低漏洞利用门槛。 | https://github.com/0x727/SpringBootExploit | 320 | 48| 
 | 20211025T12:31:20Z | Exploiting and fixing security vulnerabilities of an old version of E-Class. Project implemented as part of the class YS13 Cyber-Security. | https://github.com/AristiPap/E-Class_PenTesting | 5 | 0| 
 | 20211025T12:03:24Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 33 | 19| 
 | 20211025T11:44:00Z | 一款用于JNDI注入利用的工具，大量参考/引用了Rogue JNDI项目的代码，支持直接植入内存shell，并集成了常见的bypass 高版本JDK的方式，适用于与自动化工具配合使用。 | https://github.com/0x727/JNDIExploit | 89 | 16| 
 | 20211025T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10239 | 1754| 
-| 20211025T11:34:08Z | 项目是根据LandGrey/SpringBootVulExploit清单编写，目的hvv期间快速利用漏洞、降低漏洞利用门槛。 | https://github.com/0x727/SpringBootExploit | 319 | 48| 
 | 20211025T10:14:15Z | Exploit Code | https://github.com/wjddnjs33/Exploit | 0 | 0| 
 | 20211025T10:02:18Z | zimbra nginx lpe exploit | https://github.com/darrenmartyn/zimbra-hinginx | 0 | 0| 
 | 20211025T09:41:45Z | My exploit for CVE-2021-40449, a Windows LPE via a UAF in win32kfull!GreResetDCInternal. | https://github.com/hakivvi/CVE-2021-40449 | 6 | 3| 
 | 20211025T09:15:34Z | Hey! I%m edoardottt! 🏴‍☠️👹 | https://github.com/edoardottt/edoardottt | 0 | 0| 
-| 20211025T09:15:22Z | Null | https://github.com/ngovinhhuy/Exploit_old_vuln_apps | 0 | 0| 
 
 
 # backdoor on Github 推荐
