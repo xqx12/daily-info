@@ -50,13 +50,13 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211025T12:49:16Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10239 | 1754| 
 | 20211025T12:45:13Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 14| 
 | 20211025T12:43:23Z | Gonna share my writeups and resources here | https://github.com/jopraveen/exploit-development | 10 | 6| 
 | 20211025T12:39:19Z | 项目是根据LandGrey/SpringBootVulExploit清单编写，目的hvv期间快速利用漏洞、降低漏洞利用门槛。 | https://github.com/0x727/SpringBootExploit | 320 | 48| 
 | 20211025T12:31:20Z | Exploiting and fixing security vulnerabilities of an old version of E-Class. Project implemented as part of the class YS13 Cyber-Security. | https://github.com/AristiPap/E-Class_PenTesting | 5 | 0| 
 | 20211025T12:03:24Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 33 | 19| 
 | 20211025T11:44:00Z | 一款用于JNDI注入利用的工具，大量参考/引用了Rogue JNDI项目的代码，支持直接植入内存shell，并集成了常见的bypass 高版本JDK的方式，适用于与自动化工具配合使用。 | https://github.com/0x727/JNDIExploit | 89 | 16| 
-| 20211025T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10239 | 1754| 
 | 20211025T10:14:15Z | Exploit Code | https://github.com/wjddnjs33/Exploit | 0 | 0| 
 | 20211025T10:02:18Z | zimbra nginx lpe exploit | https://github.com/darrenmartyn/zimbra-hinginx | 0 | 0| 
 | 20211025T09:41:45Z | My exploit for CVE-2021-40449, a Windows LPE via a UAF in win32kfull!GreResetDCInternal. | https://github.com/hakivvi/CVE-2021-40449 | 6 | 3| 
@@ -96,6 +96,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211025T12:50:12Z | A Modular Open-Source Hardware Fuzzing Framework | https://github.com/ekiwi/rtl-fuzz-lab | 9 | 0| 
 | 20211025T12:07:06Z | Null | https://github.com/Hwangwoosam/fuzzing | 5 | 0| 
 | 20211025T12:03:32Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6755 | 1399| 
 | 20211025T12:02:10Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 32 | 12| 
@@ -105,7 +106,6 @@
 | 20211025T11:07:59Z | php fuzz脚本 | https://github.com/0x414a/php_fuzz | 1 | 0| 
 | 20211025T11:01:41Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211025T11:01:14Z | 32-bit x86 multiprocessing OS capable of running console or graphical user applications. | https://github.com/scopeInfinity/FuzzyOS | 3 | 1| 
-| 20211025T11:00:12Z | OSS-Sydr-Fuzz - OSS-Fuzz fork for hybrid fuzzing (fuzzer+DSE) open source software. | https://github.com/ispras/oss-sydr-fuzz | 3 | 0| 
 
 
 
