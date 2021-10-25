@@ -36,7 +36,6 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211024T23:20:24Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2861 | 79| 
 | 20211024T21:54:43Z | Null | https://github.com/ayazip/witch-klee | 0 | 0| 
 | 20211024T11:07:56Z | Minecraft Mod. Allows breaking only one half of a double slab block. | https://github.com/ModdingForBlockheads/KleeSlabs | 9 | 3| 
 

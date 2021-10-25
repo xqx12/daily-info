@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211025T01:30:49Z | CVE-2021-35215 | SolarWinds Orion Platform ActionPluginBaseView 反序列化RCE | https://github.com/Y4er/CVE-2021-35215 | | 
+| 20211025T01:57:34Z | CVE-2021-35215 | SolarWinds Orion Platform ActionPluginBaseView 反序列化RCE | https://github.com/Y4er/CVE-2021-35215 | | 
 | 20211024T23:17:28Z | CVE-2021-40444 | Null | https://github.com/TiagoSergio/CVE-2021-40444 | | 
 | 20211024T23:14:14Z | CVE-2021-22005 | Null | https://github.com/TiagoSergio/CVE-2021-22005 | | 
 | 20211024T18:22:24Z | 未知编号 | For IS713 Project | https://github.com/sinjeanmin/cvedetails_2020 | | 
@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211024T23:20:24Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2861 | 79| 
+| 20211025T01:57:37Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2862 | 79| 
 | 20211024T21:54:43Z | Null | https://github.com/ayazip/witch-klee | 0 | 0| 
 | 20211024T11:07:56Z | Minecraft Mod. Allows breaking only one half of a double slab block. | https://github.com/ModdingForBlockheads/KleeSlabs | 9 | 3| 
 | 20211023T12:43:22Z | External audio preamp board for the RP2A03 | https://github.com/Gumball2415/squeeki-kleen-Audio-FC | 1 | 0| 
