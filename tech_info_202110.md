@@ -142,16 +142,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211024T12:41:30Z | simple fuzzer | https://github.com/akeno0/simple-fuzzer | 0 | 0| 
-| 20211024T11:55:38Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1088 | 47| 
-| 20211024T11:41:39Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
-| 20211024T11:24:14Z | Null | https://github.com/lacko78/fuzzy-engine | 0 | 0| 
-| 20211024T10:57:28Z | 32-bit x86 multiprocessing OS capable of running console or graphical user applications. | https://github.com/scopeInfinity/FuzzyOS | 2 | 1| 
-| 20211024T10:49:17Z | simple fuzzing tool inspired by ffuf  | https://github.com/iamramahibrah/ffufautomation | 0 | 0| 
-| 20211024T10:36:38Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20211024T10:28:12Z | FuzzingStudy | https://github.com/qpalzmm22/FuzzingStudy | 3 | 0| 
-| 20211024T09:54:45Z | Null | https://github.com/Kaustubh6729/Fuzzy-Logic-Digital-Camera | 0 | 0| 
-| 20211024T09:54:33Z | Null | https://github.com/atharva-shirode/Fuzzy-Logic-for-Camera-Inference | 0 | 0| 
+| 20211025T01:44:46Z | bash script to run from installation media to setup gentoo automagically | https://github.com/fjp321/fuzzy-goggles | 0 | 0| 
+| 20211025T01:22:49Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6752 | 1399| 
+| 20211025T01:00:21Z | Let%s mint some NFTs! 🍬💰 | https://github.com/enriikke/fuzzy-eureka-nft | 0 | 0| 
+| 20211025T00:58:15Z | VSCode Extension , My personal utilities which includes useful functions like the Simple Fuzzy Search for text line, or more. | https://github.com/wizenith/BillsFuzzySearch | 0 | 0| 
+| 20211025T00:28:24Z | Null | https://github.com/EFER5/fuzzy-guacamole | 0 | 0| 
+| 20211025T00:20:38Z | Leetcode solutions. | https://github.com/chaitanyks/fuzzy-disco | 0 | 0| 
+| 20211025T00:06:56Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 32 | 12| 
+| 20211024T23:07:02Z | Null | https://github.com/JazG8/fuzzy-umbrella | 0 | 0| 
+| 20211024T22:56:35Z | Fuzzing scripts for VeriWasm | https://github.com/PLSysSec/veriwasm_fuzzing | 0 | 0| 
+| 20211024T22:17:11Z | This project utilizes a fuzzy inference engine in order to make the decisions for a robot which must navigate from a starting point to a destination point. | https://github.com/cmhart2/CSE454-Fuzzy_Project | 0 | 0| 
 
 
 

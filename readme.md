@@ -94,16 +94,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211024T12:41:30Z | simple fuzzer | https://github.com/akeno0/simple-fuzzer | 0 | 0| 
-| 20211024T11:55:38Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1088 | 47| 
-| 20211024T11:41:39Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
-| 20211024T11:24:14Z | Null | https://github.com/lacko78/fuzzy-engine | 0 | 0| 
-| 20211024T10:57:28Z | 32-bit x86 multiprocessing OS capable of running console or graphical user applications. | https://github.com/scopeInfinity/FuzzyOS | 2 | 1| 
-| 20211024T10:49:17Z | simple fuzzing tool inspired by ffuf  | https://github.com/iamramahibrah/ffufautomation | 0 | 0| 
-| 20211024T10:36:38Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20211024T10:28:12Z | FuzzingStudy | https://github.com/qpalzmm22/FuzzingStudy | 3 | 0| 
-| 20211024T09:54:45Z | Null | https://github.com/Kaustubh6729/Fuzzy-Logic-Digital-Camera | 0 | 0| 
-| 20211024T09:54:33Z | Null | https://github.com/atharva-shirode/Fuzzy-Logic-for-Camera-Inference | 0 | 0| 
+| 20211024T23:07:02Z | Null | https://github.com/JazG8/fuzzy-umbrella | 0 | 0| 
+| 20211024T22:56:35Z | Fuzzing scripts for VeriWasm | https://github.com/PLSysSec/veriwasm_fuzzing | 0 | 0| 
+| 20211024T22:17:11Z | This project utilizes a fuzzy inference engine in order to make the decisions for a robot which must navigate from a starting point to a destination point. | https://github.com/cmhart2/CSE454-Fuzzy_Project | 0 | 0| 
+| 20211024T21:32:59Z | Fuzzy-guide | https://github.com/Mmohdsaifu/fuzzy-guide | 0 | 0| 
+| 20211024T21:23:15Z | Policy-Guided Fuzzing for Robotic Vehicles | https://github.com/purseclab/PGFUZZ | 6 | 1| 
+| 20211024T20:57:06Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
+| 20211024T20:21:03Z | A fuzzer targeting the codegen of Intel SIMD intrinsics in C++ compilers | https://github.com/Benjins/avx-codegen-fuzzer | 0 | 0| 
+| 20211024T20:06:55Z | Official Python implementation of IEEE JBHI 2021 paper: %Choquet Integral and Coalition Game-based Ensemble of Deep Learning Models for COVID-19 Screening from Chest X-ray Images% | https://github.com/subhankar01/Covid-Chestxray-lambda-fuzzy | 3 | 4| 
+| 20211024T19:49:06Z | Null | https://github.com/wagnerkaba/fuzzy-rotary-phone | 0 | 0| 
+| 20211024T19:26:30Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3746 | 887| 
 
 
 
