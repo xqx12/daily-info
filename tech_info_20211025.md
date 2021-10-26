@@ -68,8 +68,8 @@
 | 20211025T22:07:17Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | 0 | 0| 
 | 20211025T22:03:38Z | api s%inspirant du 5250/3270 utilisant NIM-LANG exploitation du terminal | https://github.com/AS400JPLPC/nim_termcurs | 4 | 0| 
 | 20211025T21:24:10Z | Exploit Code | https://github.com/wjddnjs33/Exploit | 0 | 0| 
-| 20211025T21:14:37Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 4041 | 559| 
 | 20211025T20:59:51Z | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | 104 | 22| 
+| 20211025T18:35:13Z | XSsploit is a tool to exploit xss and understand their impact in the world-wide-web | https://github.com/evilcater/XSsploit | 1 | 0| 
 
 
 # backdoor on Github 推荐
