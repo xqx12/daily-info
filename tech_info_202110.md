@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211026T12:45:13Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 14| 
 | 20211026T12:18:23Z | Trabajo de fin de grado, esta tool permite al usuario realizar una pequeña auditoria a la hora de escalar privilegios en windows, la herramienta cuenta con un módulo automático, uno manual, y un módulo de búsqueda para encontrar exploits | https://github.com/ErnestoCubo/autoexploit | 0 | 0| 
 | 20211026T12:05:19Z | Multi camera gathering and exploiting tool | https://github.com/M0tHs3C/Argo | 36 | 15| 
 | 20211026T12:03:08Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 33 | 19| 
@@ -97,7 +98,6 @@
 | 20211026T10:58:37Z | Wanli Li and Tieyun Qian: Exploit a Multi-head Reference Graph for Semi-supervised Relation Extraction, IJCNN 2021 | https://github.com/leeworry/MRefG | 1 | 1| 
 | 20211026T10:30:40Z | Null | https://github.com/mrperfect4599/js_exploit | 0 | 0| 
 | 20211026T10:20:25Z | My own collection of usual functions that I use during binary exploitation training | https://github.com/mousepad01/python_binary_exploit_utilites | 1 | 0| 
-| 20211026T09:58:17Z | pMoSS (p-value Model using the Sample Size) is a Python code to model the p-value as an n-dependent function using Monte Carlo cross-validation. Exploits the dependence on the sample size to characterize the differences among groups of large datasets | https://github.com/BIIG-UC3M/pMoSS | 9 | 1| 
 
 
 # backdoor on Github 推荐
@@ -142,7 +142,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211026T12:51:51Z | Null | https://github.com/AnuchaStudent12/Boiled-Egg-Fuzzy-GUI | 0 | 0| 
+| 20211026T12:52:39Z | Null | https://github.com/AnuchaStudent12/Boiled-Egg-Fuzzy-GUI | 0 | 0| 
 | 20211026T12:46:46Z | OpenAPI / Swagger API Fuzzer written in Go | https://github.com/xy3/oapi-fuzzer | 0 | 0| 
 | 20211026T12:26:59Z | 开源、轻量、快速、跨平台 的红队(redteam)外网打点扫描器，功能 端口扫描(port scan) 指纹识别(fingerprint) nday检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | 224 | 29| 
 | 20211026T11:38:41Z | Scalable and fast implementation of the Neuro-Fuzzy algorithm in C++ based on the Self-Organizing Maps library | https://github.com/ashalaginov/Neuro-Fuzzy | 0 | 0| 
