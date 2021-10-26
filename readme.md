@@ -112,13 +112,13 @@
 | 20211025T23:54:25Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 565 | 59| 
 | 20211025T23:41:14Z | bash script to run from installation media to setup gentoo automagically | https://github.com/fjp321/fuzzy-goggles | 0 | 0| 
 | 20211025T23:39:40Z | A fuzzer targeting the codegen of Intel SIMD intrinsics in C++ compilers | https://github.com/Benjins/avx-codegen-fuzzer | 0 | 0| 
-| 20211025T23:32:34Z | Let%s mint some NFTs! 🍬💰 | https://github.com/enriikke/fuzzy-eureka-nft | 0 | 0| 
 | 20211025T23:30:20Z | A repository for top fuzzing works in the literature. | https://github.com/PBearson/Fuzzing_Works | 0 | 0| 
 | 20211025T22:21:16Z | Null | https://github.com/oscarpimentel/fuzzy-tools | 0 | 0| 
 | 20211025T21:16:08Z | Classification based on Fuzzy Logic(C-Means). | https://github.com/zamirmehdi/Fuzzy_C-means | 1 | 0| 
 | 20211025T21:00:36Z | Null | https://github.com/KhazaeiM/Fuzzy_Systems | 0 | 0| 
 | 20211025T20:54:39Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3749 | 887| 
 | 20211025T20:46:04Z | Null | https://github.com/wjddnjs33/Fuzzer-CVE | 0 | 0| 
+| 20211025T20:35:31Z | Tool for measuring string similarities based on Jaccard Similarity scoring | https://github.com/Hillard28/fuzzygram | 0 | 0| 
 
 
 
