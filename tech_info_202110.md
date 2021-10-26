@@ -142,6 +142,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211026T00:59:39Z | A Modular Open-Source Hardware Fuzzing Framework | https://github.com/ekiwi/rtl-fuzz-lab | 11 | 0| 
 | 20211026T00:36:39Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 32 | 12| 
 | 20211026T00:34:06Z | Null | https://github.com/lavitt/fuzzy-dots | 0 | 0| 
 | 20211026T00:23:02Z | bash script to run from installation media to setup gentoo automagically | https://github.com/fjp321/fuzzy-goggles | 0 | 0| 
@@ -151,7 +152,6 @@
 | 20211025T23:39:40Z | A fuzzer targeting the codegen of Intel SIMD intrinsics in C++ compilers | https://github.com/Benjins/avx-codegen-fuzzer | 0 | 0| 
 | 20211025T23:30:20Z | A repository for top fuzzing works in the literature. | https://github.com/PBearson/Fuzzing_Works | 0 | 0| 
 | 20211025T22:21:16Z | Null | https://github.com/oscarpimentel/fuzzy-tools | 0 | 0| 
-| 20211025T21:16:08Z | Classification based on Fuzzy Logic(C-Means). | https://github.com/zamirmehdi/Fuzzy_C-means | 1 | 0| 
 
 
 
