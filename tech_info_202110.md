@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211026T00:48:41Z | cve-2021-20837 | PoC for the CVE-2021-20837 : RCE in MovableType | https://github.com/ghost-nemesis/cve-2021-20837-poc | | 
+| 20211026T01:04:01Z | cve-2021-20837 | PoC for the CVE-2021-20837 : RCE in MovableType | https://github.com/ghost-nemesis/cve-2021-20837-poc | | 
 | 20211025T23:58:20Z | CVE-2020-16846 | Null | https://github.com/zomy22/CVE-2020-16846-Saltstack-Salt-API | | 
 | 20211025T22:17:23Z | CVE-2021-41773 | A automatic scanner to apache 2.4.49 | https://github.com/vida00/Scanner-CVE-2021-41773 | | 
 | 20211025T19:17:27Z | 未知编号 | For IS713 Project | https://github.com/sinjeanmin/cvedetails_2020 | | 
@@ -88,12 +88,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211026T01:03:28Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 33 | 19| 
 | 20211026T00:25:14Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 244 | 13| 
 | 20211026T00:21:11Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 78 | 138| 
 | 20211026T00:10:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10242 | 1755| 
 | 20211026T00:04:12Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 4040 | 559| 
 | 20211026T00:03:47Z | Null | https://github.com/rafaelcaria/exploits | 0 | 0| 
-| 20211026T00:03:16Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 33 | 19| 
 | 20211025T23:49:20Z | Null | https://github.com/rafaelcaria/vulnhub_machines_exploit | 0 | 0| 
 | 20211025T23:46:47Z | Programs for exploring disassembling and buffer overflows for Vanderbilt CS 6387 | https://github.com/wutka/exploits_6387 | 0 | 0| 
 | 20211025T23:17:10Z | Scrape all of the active youtube live videos from the unlisted playlist maintained by youtube. | https://github.com/jonesdaeshon/EXPLOITJUNGLE | 0 | 0| 
