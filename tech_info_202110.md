@@ -142,8 +142,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211026T00:17:04Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 32 | 12| 
 | 20211026T00:08:25Z | Let%s mint some NFTs! 🍬💰 | https://github.com/enriikke/fuzzy-eureka-nft | 0 | 0| 
-| 20211026T00:04:58Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 32 | 12| 
 | 20211026T00:01:40Z | Null | https://github.com/Matheus-Reinert/Fuzzy | 0 | 0| 
 | 20211025T23:54:25Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 565 | 59| 
 | 20211025T23:41:14Z | bash script to run from installation media to setup gentoo automagically | https://github.com/fjp321/fuzzy-goggles | 0 | 0| 
