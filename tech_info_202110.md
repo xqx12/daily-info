@@ -142,7 +142,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211026T12:51:37Z | Null | https://github.com/AnuchaStudent12/Boiled-Egg-Fuzzy-GUI | 0 | 0| 
+| 20211026T12:51:51Z | Null | https://github.com/AnuchaStudent12/Boiled-Egg-Fuzzy-GUI | 0 | 0| 
 | 20211026T12:46:46Z | OpenAPI / Swagger API Fuzzer written in Go | https://github.com/xy3/oapi-fuzzer | 0 | 0| 
 | 20211026T12:26:59Z | 开源、轻量、快速、跨平台 的红队(redteam)外网打点扫描器，功能 端口扫描(port scan) 指纹识别(fingerprint) nday检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | 224 | 29| 
 | 20211026T11:38:41Z | Scalable and fast implementation of the Neuro-Fuzzy algorithm in C++ based on the Self-Organizing Maps library | https://github.com/ashalaginov/Neuro-Fuzzy | 0 | 0| 
