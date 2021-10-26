@@ -60,7 +60,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211025T23:49:28Z | Null | https://github.com/rafaelcaria/exploits | 0 | 0| 
 | 20211025T23:49:20Z | Null | https://github.com/rafaelcaria/vulnhub_machines_exploit | 0 | 0| 
 | 20211025T23:46:47Z | Programs for exploring disassembling and buffer overflows for Vanderbilt CS 6387 | https://github.com/wutka/exploits_6387 | 0 | 0| 
 | 20211025T23:17:10Z | Scrape all of the active youtube live videos from the unlisted playlist maintained by youtube. | https://github.com/jonesdaeshon/EXPLOITJUNGLE | 0 | 0| 
@@ -70,6 +69,7 @@
 | 20211025T22:07:17Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | 0 | 0| 
 | 20211025T22:03:38Z | api s%inspirant du 5250/3270 utilisant NIM-LANG exploitation du terminal | https://github.com/AS400JPLPC/nim_termcurs | 4 | 0| 
 | 20211025T21:24:10Z | Exploit Code | https://github.com/wjddnjs33/Exploit | 0 | 0| 
+| 20211025T21:14:37Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 4041 | 559| 
 
 
 # backdoor on Github 推荐
@@ -90,11 +90,13 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211025T20:10:11Z | Symbolica%s open-source symbolic execution engine. | https://github.com/Symbolica/Symbolica | 39 | 2| 
+| 20211025T18:55:04Z | Verifying constant-time code with symbolic execution | https://github.com/PLSysSec/haybale-pitchfork | 34 | 0| 
+| 20211025T18:47:42Z | Symbolic execution of LLVM IR with an engine written in Rust | https://github.com/PLSysSec/haybale | 334 | 16| 
+| 20211025T16:39:43Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 163 | 36| 
 | 20211025T12:12:06Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 18 | 4| 
 | 20211025T11:14:12Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 13 | 10| 
 | 20211025T09:40:23Z | 🎻 Requiem: Modular exploit generation using symbolic execution | https://github.com/aesophor/requiem | 11 | 3| 
-| 20211025T08:38:31Z | Symbolica%s open-source symbolic execution engine. | https://github.com/Symbolica/Symbolica | 38 | 2| 
-| 20211025T02:58:22Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1903 | 397| 
 | 20211025T01:39:24Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 483 | 77| 
 
 
