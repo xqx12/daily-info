@@ -64,12 +64,12 @@
 | 20211025T23:46:47Z | Programs for exploring disassembling and buffer overflows for Vanderbilt CS 6387 | https://github.com/wutka/exploits_6387 | 0 | 0| 
 | 20211025T23:17:10Z | Scrape all of the active youtube live videos from the unlisted playlist maintained by youtube. | https://github.com/jonesdaeshon/EXPLOITJUNGLE | 0 | 0| 
 | 20211025T23:08:30Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 78 | 138| 
-| 20211025T23:03:21Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 33 | 19| 
 | 20211025T22:50:12Z | The world has not been the same since the outbreak and ending of World War 3 in the same year, 2079, when the “Developing Countries” in Africa and Asia finally rebelled against the exploitation by the western “industrial countries”. A massive launching of nuclear and “space” weapons on the side of the latter not only quenched the rebellion, it also caused considerable and irrevocable damage to the very structure of Universe. | https://github.com/4dmud/mud | 2 | 2| 
 | 20211025T22:07:17Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | 0 | 0| 
 | 20211025T22:03:38Z | api s%inspirant du 5250/3270 utilisant NIM-LANG exploitation du terminal | https://github.com/AS400JPLPC/nim_termcurs | 4 | 0| 
 | 20211025T21:24:10Z | Exploit Code | https://github.com/wjddnjs33/Exploit | 0 | 0| 
 | 20211025T21:14:37Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 4041 | 559| 
+| 20211025T20:59:51Z | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | 104 | 22| 
 
 
 # backdoor on Github 推荐
