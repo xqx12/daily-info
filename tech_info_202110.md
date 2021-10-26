@@ -142,6 +142,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211026T01:31:03Z | Generator of random circuits | https://github.com/drom/circt-fuzzer | 1 | 0| 
 | 20211026T01:27:26Z | TUI file explorer based on PowerShell and fzf | https://github.com/shinyanger/fuzzy-explorer | 2 | 0| 
 | 20211026T01:27:15Z | A repository for top fuzzing works in the literature. | https://github.com/PBearson/Fuzzing_Works | 0 | 0| 
 | 20211026T01:18:27Z | Naive Bayes Classifiers | https://github.com/Jodavid/FuzzyClass | 0 | 0| 
@@ -151,7 +152,6 @@
 | 20211026T00:34:06Z | Null | https://github.com/lavitt/fuzzy-dots | 0 | 0| 
 | 20211026T00:08:25Z | Let%s mint some NFTs! 🍬💰 | https://github.com/enriikke/fuzzy-eureka-nft | 0 | 0| 
 | 20211026T00:01:40Z | Null | https://github.com/Matheus-Reinert/Fuzzy | 0 | 0| 
-| 20211025T23:54:25Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 565 | 59| 
 
 
 
