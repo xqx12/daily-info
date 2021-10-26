@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211026T12:17:06Z | CVE-2020-16846 | Null | https://github.com/zomy22/CVE-2020-16846-Saltstack-Salt-API | | 
+| 20211026T12:21:49Z | CVE-2020-16846 | Null | https://github.com/zomy22/CVE-2020-16846-Saltstack-Salt-API | | 
 | 20211026T11:35:19Z | CVE-2021-26084 | CVE-2021-26084，Atlassian Confluence OGNL注入漏洞 | https://github.com/lleavesl/CVE-2021-26084 | | 
 | 20211026T11:14:33Z | CVE-2021-30573 | Google Chrome Vulnerabilities CVE-2021-30573 | https://github.com/oxctdev/CVE-2021-30573 | | 
 | 20211026T11:09:05Z | 未知编号 | For IS713 Project | https://github.com/sinjeanmin/cvedetails_2020 | | 
