@@ -88,7 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211026T00:14:57Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 244 | 13| 
+| 20211026T00:19:42Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 244 | 13| 
 | 20211026T00:10:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10242 | 1755| 
 | 20211026T00:04:12Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 4040 | 559| 
 | 20211026T00:03:47Z | Null | https://github.com/rafaelcaria/exploits | 0 | 0| 
