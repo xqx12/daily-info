@@ -54,12 +54,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211026T01:21:04Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10243 | 1755| 
-| 20211026T01:03:28Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 33 | 19| 
-| 20211026T00:25:14Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 244 | 13| 
-| 20211026T00:21:11Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 78 | 139| 
-| 20211026T00:04:12Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 4040 | 559| 
-| 20211026T00:03:47Z | Null | https://github.com/rafaelcaria/exploits | 0 | 0| 
+| 20211026T12:00:39Z | Trabajo de fin de grado, esta tool permite al usuario realizar una pequeña auditoria a la hora de escalar privilegios en windows, la herramienta cuenta con un módulo automático, uno manual, y un módulo de búsqueda para encontrar exploits | https://github.com/ErnestoCubo/autoexploit | 0 | 0| 
+| 20211026T11:57:19Z | How to exploit a double free vulnerability in 2021. %Use-After-Free for Dummies% | https://github.com/stong/how-to-exploit-a-double-free | 210 | 11| 
+| 20211026T11:51:36Z | Null | https://github.com/WhitfieBad/MemLeakExploit | 0 | 0| 
+| 20211026T11:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10246 | 1755| 
+| 20211026T11:03:25Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 33 | 19| 
+| 20211026T10:58:37Z | Wanli Li and Tieyun Qian: Exploit a Multi-head Reference Graph for Semi-supervised Relation Extraction, IJCNN 2021 | https://github.com/leeworry/MRefG | 1 | 1| 
+| 20211026T10:30:40Z | Null | https://github.com/mrperfect4599/js_exploit | 0 | 0| 
+| 20211026T10:20:25Z | My own collection of usual functions that I use during binary exploitation training | https://github.com/mousepad01/python_binary_exploit_utilites | 1 | 0| 
+| 20211026T09:58:17Z | pMoSS (p-value Model using the Sample Size) is a Python code to model the p-value as an n-dependent function using Monte Carlo cross-validation. Exploits the dependence on the sample size to characterize the differences among groups of large datasets | https://github.com/BIIG-UC3M/pMoSS | 9 | 1| 
+| 20211026T09:46:31Z | Null | https://github.com/Tarrylim/xss_exploit_code | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -77,12 +81,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211026T07:10:33Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 163 | 36| 
+| 20211026T06:24:19Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 9 | 4| 
+| 20211026T03:28:33Z | Verifying constant-time code with symbolic execution | https://github.com/PLSysSec/haybale-pitchfork | 34 | 0| 
 | 20211026T00:02:18Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1904 | 397| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211026T08:23:58Z | A penetration testing tool for finding file upload bugs (NDSS 2020) | https://github.com/WSP-LAB/FUSE | 196 | 44| 
 
 
 # fuzz on Github 推荐
