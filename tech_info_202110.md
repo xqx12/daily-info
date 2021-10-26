@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211025T18:11:48Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2872 | 79| 
+| 20211026T01:34:31Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2873 | 79| 
 | 20211025T16:48:12Z | This font is based on the font Klee One by Fontworks, and the font LXGW WenKai by LXGW for adding Simplified and Traditional Chinese character glyphs. The pinyin characters are added by ToneOZ.com using the open source tool Mengshen, with the IVS heteronyms font concept from the Bopomofo IVS by But Ko. | https://github.com/jeffreyxuan/toneoz-font-pinyin-wenkai | 11 | 0| 
 | 20211024T21:54:43Z | Null | https://github.com/ayazip/witch-klee | 0 | 0| 
 | 20211024T11:07:56Z | Minecraft Mod. Allows breaking only one half of a double slab block. | https://github.com/ModdingForBlockheads/KleeSlabs | 9 | 3| 
@@ -142,6 +142,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211026T01:48:26Z | Null | https://github.com/miasnguyenx/fuzzy-c-means | 0 | 0| 
+| 20211026T01:43:08Z | Classification based on Fuzzy Logic(C-Means). | https://github.com/zamirmehdi/Fuzzy_C-means | 1 | 0| 
+| 20211026T01:39:43Z | Null | https://github.com/Matheus-Reinert/Fuzzy | 0 | 0| 
 | 20211026T01:31:03Z | Generator of random circuits | https://github.com/drom/circt-fuzzer | 1 | 0| 
 | 20211026T01:27:26Z | TUI file explorer based on PowerShell and fzf | https://github.com/shinyanger/fuzzy-explorer | 2 | 0| 
 | 20211026T01:27:15Z | A repository for top fuzzing works in the literature. | https://github.com/PBearson/Fuzzing_Works | 0 | 0| 
@@ -149,9 +152,6 @@
 | 20211026T01:17:28Z | bash script to run from installation media to setup gentoo automagically | https://github.com/fjp321/fuzzy-goggles | 0 | 0| 
 | 20211026T00:59:39Z | A Modular Open-Source Hardware Fuzzing Framework | https://github.com/ekiwi/rtl-fuzz-lab | 11 | 0| 
 | 20211026T00:36:39Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 32 | 12| 
-| 20211026T00:34:06Z | Null | https://github.com/lavitt/fuzzy-dots | 0 | 0| 
-| 20211026T00:08:25Z | Let%s mint some NFTs! 🍬💰 | https://github.com/enriikke/fuzzy-eureka-nft | 0 | 0| 
-| 20211026T00:01:40Z | Null | https://github.com/Matheus-Reinert/Fuzzy | 0 | 0| 
 
 
 

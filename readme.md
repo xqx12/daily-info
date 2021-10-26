@@ -47,7 +47,6 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211025T18:11:48Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2872 | 79| 
 | 20211025T16:48:12Z | This font is based on the font Klee One by Fontworks, and the font LXGW WenKai by LXGW for adding Simplified and Traditional Chinese character glyphs. The pinyin characters are added by ToneOZ.com using the open source tool Mengshen, with the IVS heteronyms font concept from the Bopomofo IVS by But Ko. | https://github.com/jeffreyxuan/toneoz-font-pinyin-wenkai | 11 | 0| 
 
 
@@ -112,13 +111,13 @@
 | 20211025T23:54:25Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 565 | 59| 
 | 20211025T23:39:40Z | A fuzzer targeting the codegen of Intel SIMD intrinsics in C++ compilers | https://github.com/Benjins/avx-codegen-fuzzer | 0 | 0| 
 | 20211025T22:21:16Z | Null | https://github.com/oscarpimentel/fuzzy-tools | 0 | 0| 
-| 20211025T21:16:08Z | Classification based on Fuzzy Logic(C-Means). | https://github.com/zamirmehdi/Fuzzy_C-means | 1 | 0| 
 | 20211025T21:00:36Z | Null | https://github.com/KhazaeiM/Fuzzy_Systems | 0 | 0| 
 | 20211025T20:54:39Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3749 | 887| 
 | 20211025T20:46:04Z | Null | https://github.com/wjddnjs33/Fuzzer-CVE | 0 | 0| 
 | 20211025T20:35:31Z | Tool for measuring string similarities based on Jaccard Similarity scoring | https://github.com/Hillard28/fuzzygram | 0 | 0| 
 | 20211025T19:47:01Z | In this project, I implemented a supervised fuzzy clustering and I clustered CIFAR 10 dataset. | https://github.com/shaghayegh5ghasemi/supervised_fuzzy_clustering | 0 | 0| 
 | 20211025T19:44:13Z | elfutils master branch clone for oss-fuzz | https://github.com/izzeem/elfutils | 0 | 0| 
+| 20211025T19:32:27Z | Null | https://github.com/wagnerkaba/fuzzy-rotary-phone | 0 | 0| 
 
 
 
