@@ -46,9 +46,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211026T00:34:56Z | cve-2021-20837 | PoC for the CVE-2021-20837 : RCE in MovableType | https://github.com/ghost-nemesis/cve-2021-20837-poc | | 
 | 20211025T23:58:20Z | CVE-2020-16846 | Null | https://github.com/zomy22/CVE-2020-16846-Saltstack-Salt-API | | 
 | 20211025T22:17:23Z | CVE-2021-41773 | A automatic scanner to apache 2.4.49 | https://github.com/vida00/Scanner-CVE-2021-41773 | | 
-| 20211025T21:32:40Z | cve-2021-20837 | PoC for the CVE-2021-20837 : RCE in MovableType | https://github.com/ghost-nemesis/cve-2021-20837-poc | | 
 | 20211025T19:17:27Z | 未知编号 | For IS713 Project | https://github.com/sinjeanmin/cvedetails_2020 | | 
 | 20211025T18:39:13Z | CVE-2021-41773 | Null | https://github.com/MazX0p/CVE-2021-41773 | | 
 | 20211025T18:34:55Z | cve-2021-41773 | CVE-2021-41773 is a python script that will help in finding Path Traversal or Remote Code Execution vulnerability in Apache 2.4.49 | https://github.com/walnutsecurity/cve-2021-41773 | | 
