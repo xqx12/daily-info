@@ -63,13 +63,13 @@
 | 20211025T23:49:20Z | Null | https://github.com/rafaelcaria/vulnhub_machines_exploit | 0 | 0| 
 | 20211025T23:46:47Z | Programs for exploring disassembling and buffer overflows for Vanderbilt CS 6387 | https://github.com/wutka/exploits_6387 | 0 | 0| 
 | 20211025T23:17:10Z | Scrape all of the active youtube live videos from the unlisted playlist maintained by youtube. | https://github.com/jonesdaeshon/EXPLOITJUNGLE | 0 | 0| 
-| 20211025T23:08:30Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 78 | 138| 
 | 20211025T22:50:12Z | The world has not been the same since the outbreak and ending of World War 3 in the same year, 2079, when the “Developing Countries” in Africa and Asia finally rebelled against the exploitation by the western “industrial countries”. A massive launching of nuclear and “space” weapons on the side of the latter not only quenched the rebellion, it also caused considerable and irrevocable damage to the very structure of Universe. | https://github.com/4dmud/mud | 2 | 2| 
 | 20211025T22:07:17Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | 0 | 0| 
 | 20211025T22:03:38Z | api s%inspirant du 5250/3270 utilisant NIM-LANG exploitation du terminal | https://github.com/AS400JPLPC/nim_termcurs | 4 | 0| 
 | 20211025T21:24:10Z | Exploit Code | https://github.com/wjddnjs33/Exploit | 0 | 0| 
 | 20211025T20:59:51Z | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | 104 | 22| 
 | 20211025T18:35:13Z | XSsploit is a tool to exploit xss and understand their impact in the world-wide-web | https://github.com/evilcater/XSsploit | 1 | 0| 
+| 20211025T18:33:01Z | The goal of this project is to embed sesors, using RapidWright framework, into already placed and routed FPGAs in order to monitor power or thermal consumption to help prevent voltage attacks that can be exploited in multi tenant scenarios | https://github.com/benhaj/Customizing-FPGA-Designs-using-RapidWright | 0 | 0| 
 
 
 # backdoor on Github 推荐
