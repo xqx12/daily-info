@@ -88,16 +88,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211026T12:05:19Z | Multi camera gathering and exploiting tool | https://github.com/M0tHs3C/Argo | 36 | 15| 
+| 20211026T12:03:08Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 33 | 19| 
 | 20211026T12:00:39Z | Trabajo de fin de grado, esta tool permite al usuario realizar una pequeña auditoria a la hora de escalar privilegios en windows, la herramienta cuenta con un módulo automático, uno manual, y un módulo de búsqueda para encontrar exploits | https://github.com/ErnestoCubo/autoexploit | 0 | 0| 
 | 20211026T11:57:19Z | How to exploit a double free vulnerability in 2021. %Use-After-Free for Dummies% | https://github.com/stong/how-to-exploit-a-double-free | 210 | 11| 
 | 20211026T11:51:36Z | Null | https://github.com/WhitfieBad/MemLeakExploit | 0 | 0| 
 | 20211026T11:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10246 | 1755| 
-| 20211026T11:03:25Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 33 | 19| 
 | 20211026T10:58:37Z | Wanli Li and Tieyun Qian: Exploit a Multi-head Reference Graph for Semi-supervised Relation Extraction, IJCNN 2021 | https://github.com/leeworry/MRefG | 1 | 1| 
 | 20211026T10:30:40Z | Null | https://github.com/mrperfect4599/js_exploit | 0 | 0| 
 | 20211026T10:20:25Z | My own collection of usual functions that I use during binary exploitation training | https://github.com/mousepad01/python_binary_exploit_utilites | 1 | 0| 
 | 20211026T09:58:17Z | pMoSS (p-value Model using the Sample Size) is a Python code to model the p-value as an n-dependent function using Monte Carlo cross-validation. Exploits the dependence on the sample size to characterize the differences among groups of large datasets | https://github.com/BIIG-UC3M/pMoSS | 9 | 1| 
-| 20211026T09:46:31Z | Null | https://github.com/Tarrylim/xss_exploit_code | 0 | 0| 
 
 
 # backdoor on Github 推荐
