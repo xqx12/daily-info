@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211026T00:14:57Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 244 | 13| 
 | 20211026T00:10:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10242 | 1755| 
 | 20211026T00:04:12Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 4040 | 559| 
 | 20211026T00:03:47Z | Null | https://github.com/rafaelcaria/exploits | 0 | 0| 
@@ -97,7 +98,6 @@
 | 20211025T23:17:10Z | Scrape all of the active youtube live videos from the unlisted playlist maintained by youtube. | https://github.com/jonesdaeshon/EXPLOITJUNGLE | 0 | 0| 
 | 20211025T23:08:30Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 78 | 138| 
 | 20211025T22:50:12Z | The world has not been the same since the outbreak and ending of World War 3 in the same year, 2079, when the “Developing Countries” in Africa and Asia finally rebelled against the exploitation by the western “industrial countries”. A massive launching of nuclear and “space” weapons on the side of the latter not only quenched the rebellion, it also caused considerable and irrevocable damage to the very structure of Universe. | https://github.com/4dmud/mud | 2 | 2| 
-| 20211025T22:07:17Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | 0 | 0| 
 
 
 # backdoor on Github 推荐
