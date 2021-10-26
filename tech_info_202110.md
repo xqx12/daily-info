@@ -54,8 +54,8 @@
 | 20211025T18:34:55Z | cve-2021-41773 | CVE-2021-41773 is a python script that will help in finding Path Traversal or Remote Code Execution vulnerability in Apache 2.4.49 | https://github.com/walnutsecurity/cve-2021-41773 | | 
 | 20211025T18:27:15Z | CVE-2021-30573 | Google Chrome Vulnerabilities CVE-2021-30573 | https://github.com/oxctdev/CVE-2021-30573 | | 
 | 20211025T18:26:57Z | CVE-2021-40449 | My exploit for CVE-2021-40449, a Windows LPE via a UAF in win32kfull!GreResetDCInternal. | https://github.com/hakivvi/CVE-2021-40449 | | 
+| 20211025T15:25:20Z | CVE-2021-35215 | SolarWinds Orion Platform ActionPluginBaseView 反序列化RCE | https://github.com/Y4er/CVE-2021-35215 | | 
 | 20211025T13:51:21Z | CVE-2021-41773 | A Zeek package which raises notices for Path Traversal/RCE in Apache HTTP Server 2.4.49 (CVE-2021-41773) and 2.4.50 (CVE-2021-42013) | https://github.com/corelight/CVE-2021-41773 | | 
-| 20211025T13:22:12Z | CVE-2021-42013 | PoC CVE-2021-42013 reverse shell Apache 2.4.50 with CGI | https://github.com/TheLastVvV/CVE-2021-42013_Reverse-Shell | | 
 
 
 # klee on Github 推荐
