@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211026T12:17:06Z | CVE-2020-16846 | Null | https://github.com/zomy22/CVE-2020-16846-Saltstack-Salt-API | | 
 | 20211026T11:35:19Z | CVE-2021-26084 | CVE-2021-26084，Atlassian Confluence OGNL注入漏洞 | https://github.com/lleavesl/CVE-2021-26084 | | 
 | 20211026T11:14:33Z | CVE-2021-30573 | Google Chrome Vulnerabilities CVE-2021-30573 | https://github.com/oxctdev/CVE-2021-30573 | | 
 | 20211026T11:09:05Z | 未知编号 | For IS713 Project | https://github.com/sinjeanmin/cvedetails_2020 | | 
@@ -54,7 +55,6 @@
 | 20211026T06:51:37Z | CVE-2021-40449 | My exploit for CVE-2021-40449, a Windows LPE via a UAF in win32kfull!GreResetDCInternal. | https://github.com/hakivvi/CVE-2021-40449 | | 
 | 20211026T05:55:38Z | 未知编号 | ReadTeam-CVE-2021 | https://github.com/DD885/ReadTeam-CVE-2021 | | 
 | 20211026T03:31:24Z | cve-2021-20837 | PoC for the CVE-2021-20837 : RCE in MovableType | https://github.com/ghost-nemesis/cve-2021-20837-poc | | 
-| 20211025T23:58:20Z | CVE-2020-16846 | Null | https://github.com/zomy22/CVE-2020-16846-Saltstack-Salt-API | | 
 | 20211025T22:17:23Z | CVE-2021-41773 | A automatic scanner to apache 2.4.49 | https://github.com/vida00/Scanner-CVE-2021-41773 | | 
 
 
