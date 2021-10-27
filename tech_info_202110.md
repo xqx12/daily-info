@@ -142,6 +142,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211027T12:58:22Z | Library and command line utility to do approximate string matching of a source against a bitext index and get matched source and target.  | https://github.com/SYSTRAN/fuzzy-match | 24 | 4| 
 | 20211027T12:55:07Z | Null | https://github.com/fuzzingworkshop/fuzzingworkshop.github.io | 0 | 0| 
 | 20211027T12:52:36Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211027T12:45:10Z | Null | https://github.com/ManimozhiTamilmani/fuzzy-computing-machine | 0 | 0| 
@@ -151,7 +152,6 @@
 | 20211027T12:19:24Z | Black-box fuzzer that fuzzes APIs based on OpenAPI specification. Find bugs for free! | https://github.com/matusf/openapi-fuzzer | 16 | 0| 
 | 20211027T12:15:18Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 32 | 12| 
 | 20211027T12:07:41Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1089 | 48| 
-| 20211027T11:50:12Z | An extensible multi-format black box fuzzer  | https://github.com/Angus-C-git/fuzzy-bear | 2 | 0| 
 
 
 
