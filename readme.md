@@ -68,7 +68,7 @@
 | 20211026T23:42:10Z | Null | https://github.com/benchan777/jinja2-exploitme | 0 | 0| 
 | 20211026T23:41:57Z | Null | https://github.com/brentshierk/Jinja2-ExploitMe | 0 | 0| 
 | 20211026T23:28:50Z | Null | https://github.com/chrismlee26/Jinja2-ExploitMe | 0 | 0| 
-| 20211026T22:53:13Z | A collection of more than 160+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 952 | 224| 
+| 20211026T22:22:44Z | Null | https://github.com/lordbaduk/exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐

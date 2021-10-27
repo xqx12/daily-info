@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211027T00:52:54Z | A collection of more than 160+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 952 | 224| 
 | 20211027T00:23:55Z | An introduction, explanation, and tutorial of various exploits for the heap of current and recent GNU libcs. | https://github.com/bstank/bstank.github.io | 0 | 0| 
 | 20211027T00:12:42Z | Null | https://github.com/bangalia/Jinja2-ExploitMe | 0 | 0| 
 | 20211027T00:08:22Z | Null | https://github.com/shearertzach/Jinja2-ExploitMe | 0 | 0| 
@@ -97,7 +98,6 @@
 | 20211026T23:54:44Z | Null | https://github.com/TheVille415/Jinja2-ExploitMe | 0 | 0| 
 | 20211026T23:51:48Z | Null | https://github.com/RogueNPC/Jinja2-ExploitMe | 0 | 0| 
 | 20211026T23:45:12Z | Null | https://github.com/asood92/Jinja2-ExploitMe | 0 | 0| 
-| 20211026T23:43:43Z | Null | https://github.com/Aetrix27/Jinja2-ExploitMe | 0 | 0| 
 
 
 # backdoor on Github 推荐
