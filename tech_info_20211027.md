@@ -36,7 +36,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211027T01:14:56Z | 🎻 Requiem: Modular exploit generation using symbolic execution | https://github.com/aesophor/requiem | 12 | 3| 
+| 20211027T02:45:45Z | 🎻 Requiem: Modular exploit generation using symbolic execution | https://github.com/aesophor/requiem | 13 | 3| 
 
 
 # exploit on Github 推荐
@@ -71,7 +71,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211027T01:14:56Z | 🎻 Requiem: Modular exploit generation using symbolic execution | https://github.com/aesophor/requiem | 12 | 3| 
+| 20211027T11:06:42Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1795 | 510| 
+| 20211027T10:10:40Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 163 | 36| 
+| 20211027T02:45:45Z | 🎻 Requiem: Modular exploit generation using symbolic execution | https://github.com/aesophor/requiem | 13 | 3| 
+| 20211027T02:18:29Z | A tool for generating nonlinear numerical invariants for C and Java programs.  DIG uses dynamic analysis to infer invariants over program execution traces and applies symbolic execution to inferred invariants. | https://github.com/unsat/dig | 9 | 4| 
 
 
 # big4 on Github 推荐
