@@ -142,8 +142,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211027T01:25:06Z | Let%s mint some NFTs! 🍬💰 | https://github.com/enriikke/fuzzy-eureka-nft | 0 | 0| 
 | 20211027T01:24:32Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6757 | 1402| 
-| 20211027T01:20:46Z | Let%s mint some NFTs! 🍬💰 | https://github.com/enriikke/fuzzy-eureka-nft | 0 | 0| 
 | 20211027T01:19:48Z | Naive Bayes Classifiers | https://github.com/Jodavid/FuzzyClass | 0 | 0| 
 | 20211027T00:55:46Z | Null | https://github.com/yasminekat/fuzzy-octo-potato | 0 | 0| 
 | 20211027T00:40:08Z | Classification based on Fuzzy Logic(C-Means). | https://github.com/arminZolfaghari/CMeans_fuzzy | 1 | 0| 
