@@ -59,7 +59,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211026T23:59:29Z | Null | https://github.com/bangalia/Jinja2-ExploitMe | 0 | 0| 
 | 20211026T23:59:14Z | How to exploit a double free vulnerability in 2021. %Use-After-Free for Dummies% | https://github.com/stong/how-to-exploit-a-double-free | 412 | 23| 
 | 20211026T23:54:44Z | Null | https://github.com/TheVille415/Jinja2-ExploitMe | 0 | 0| 
 | 20211026T23:51:48Z | Null | https://github.com/RogueNPC/Jinja2-ExploitMe | 0 | 0| 
@@ -69,6 +68,7 @@
 | 20211026T23:42:10Z | Null | https://github.com/benchan777/jinja2-exploitme | 0 | 0| 
 | 20211026T23:41:57Z | Null | https://github.com/brentshierk/Jinja2-ExploitMe | 0 | 0| 
 | 20211026T23:28:50Z | Null | https://github.com/chrismlee26/Jinja2-ExploitMe | 0 | 0| 
+| 20211026T22:53:13Z | A collection of more than 160+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 952 | 224| 
 
 
 # backdoor on Github 推荐
