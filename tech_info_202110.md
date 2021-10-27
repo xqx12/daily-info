@@ -142,6 +142,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211027T12:22:17Z | CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 0 | 0| 
 | 20211027T12:19:24Z | Black-box fuzzer that fuzzes APIs based on OpenAPI specification. Find bugs for free! | https://github.com/matusf/openapi-fuzzer | 16 | 0| 
 | 20211027T12:15:18Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 32 | 12| 
 | 20211027T12:07:41Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1089 | 48| 
@@ -151,7 +152,6 @@
 | 20211027T11:19:38Z | Null | https://github.com/ManimozhiTamilmani/fuzzy-computing-machine | 0 | 0| 
 | 20211027T11:19:04Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3754 | 888| 
 | 20211027T11:13:28Z | A Comprehensive Web Fuzzer and Content Discovery Tool | https://github.com/phra/rustbuster | 374 | 50| 
-| 20211027T10:59:47Z | Null | https://github.com/ArtieFuzzz/ArtieFuzzz | 0 | 1| 
 
 
 
