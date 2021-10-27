@@ -142,7 +142,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211027T01:16:57Z | Naive Bayes Classifiers | https://github.com/Jodavid/FuzzyClass | 0 | 0| 
+| 20211027T01:20:46Z | Let%s mint some NFTs! 🍬💰 | https://github.com/enriikke/fuzzy-eureka-nft | 0 | 0| 
+| 20211027T01:19:48Z | Naive Bayes Classifiers | https://github.com/Jodavid/FuzzyClass | 0 | 0| 
 | 20211027T00:55:46Z | Null | https://github.com/yasminekat/fuzzy-octo-potato | 0 | 0| 
 | 20211027T00:40:08Z | Classification based on Fuzzy Logic(C-Means). | https://github.com/arminZolfaghari/CMeans_fuzzy | 1 | 0| 
 | 20211027T00:40:01Z | Null | https://github.com/solo-studios/kt-fuzzy | 1 | 0| 
@@ -151,7 +152,6 @@
 | 20211026T23:38:50Z | Este repositorio contiene el código de una propuesta para llevar a cabo el ataque por correlación y emparejamiento cruzado a el esquema de bóveda difusa.  | https://github.com/Mariuki/CorrelationAttack2FuzzyVault | 0 | 0| 
 | 20211026T23:27:53Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2410 | 148| 
 | 20211026T23:26:27Z | Implementation of a brute force attack to fingerprint based fuzzy vault. The repository also contains some statistics got over a specific fingerprint images dataset.  | https://github.com/Mariuki/AutomatedBruteForceAttack_to_FingerprintFuzzyVault | 0 | 0| 
-| 20211026T23:13:04Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6757 | 1402| 
 
 
 
