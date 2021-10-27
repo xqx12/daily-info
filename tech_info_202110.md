@@ -88,16 +88,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211027T00:23:55Z | An introduction, explanation, and tutorial of various exploits for the heap of current and recent GNU libcs. | https://github.com/bstank/bstank.github.io | 0 | 0| 
 | 20211027T00:12:42Z | Null | https://github.com/bangalia/Jinja2-ExploitMe | 0 | 0| 
 | 20211027T00:08:22Z | Null | https://github.com/shearertzach/Jinja2-ExploitMe | 0 | 0| 
 | 20211027T00:04:06Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 33 | 19| 
-| 20211027T00:03:52Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 79 | 144| 
+| 20211027T00:03:52Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 79 | 145| 
 | 20211026T23:59:14Z | How to exploit a double free vulnerability in 2021. %Use-After-Free for Dummies% | https://github.com/stong/how-to-exploit-a-double-free | 412 | 23| 
 | 20211026T23:54:44Z | Null | https://github.com/TheVille415/Jinja2-ExploitMe | 0 | 0| 
 | 20211026T23:51:48Z | Null | https://github.com/RogueNPC/Jinja2-ExploitMe | 0 | 0| 
 | 20211026T23:45:12Z | Null | https://github.com/asood92/Jinja2-ExploitMe | 0 | 0| 
 | 20211026T23:43:43Z | Null | https://github.com/Aetrix27/Jinja2-ExploitMe | 0 | 0| 
-| 20211026T23:43:37Z | WeAreDevs Exploit API documentation and examples.  | https://github.com/PringleCPP/WRD-API-Docs | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -142,7 +142,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211027T00:26:17Z | Null | https://github.com/lucasedferreira/fan-speed-fuzzy-logic | 0 | 0| 
+| 20211027T00:28:12Z | Null | https://github.com/lucasedferreira/fan-speed-fuzzy-logic | 0 | 0| 
 | 20211027T00:16:59Z | Classification based on Fuzzy Logic(C-Means). | https://github.com/arminZolfaghari/CMeans_fuzzy | 1 | 0| 
 | 20211027T00:03:13Z | Null | https://github.com/solo-studios/kt-fuzzy | 1 | 0| 
 | 20211026T23:56:00Z | Null | https://github.com/yasminekat/fuzzy-octo-potato | 0 | 0| 
