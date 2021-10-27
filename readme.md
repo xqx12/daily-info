@@ -76,7 +76,6 @@
 | --- | --- | --- | --- | ---| 
 | 20211026T23:01:35Z | Null | https://github.com/Fartlicker777/Backdoor-Hacking | 0 | 0| 
 | 20211026T22:43:45Z | This is a roblox studio plugin built to be utility such as detecting backdoors in your game, and be able to remove them. | https://github.com/casualdegenerate/Roblox-Utility | 0 | 0| 
-| 20211026T21:50:09Z | The insane hackerman backdoor. | https://github.com/Bakdooro/Bakdooro | 7 | 2| 
 | 20211026T20:50:41Z | Null | https://github.com/leo9722/backdoor-c | 0 | 1| 
 | 20211026T18:51:15Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1471 | 373| 
 | 20211026T18:12:48Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 104 | 25| 
@@ -84,6 +83,7 @@
 | 20211026T10:26:15Z | Null | https://github.com/csdongxian/ANP_backdoor | 2 | 0| 
 | 20211026T09:05:54Z | Null | https://github.com/THUYimingLi/BackdoorBox | 1 | 0| 
 | 20211026T07:13:41Z | Anti-Backdoor learning (NeurIPS 2021) | https://github.com/bboylyg/ABL | 7 | 0| 
+| 20211026T06:40:41Z | Null | https://github.com/partha051705/Backdoor_Project | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
