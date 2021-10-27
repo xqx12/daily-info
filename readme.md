@@ -111,10 +111,10 @@
 | 20211026T23:11:08Z | Black-box fuzzer that fuzzes APIs based on OpenAPI specification. Find bugs for free! | https://github.com/matusf/openapi-fuzzer | 16 | 0| 
 | 20211026T23:08:02Z | Null | https://github.com/DouglasBgs/LogicaFuzzy | 0 | 0| 
 | 20211026T22:14:32Z | bash script to run from installation media to setup gentoo automagically | https://github.com/fjp321/fuzzy-goggles | 0 | 0| 
-| 20211026T22:02:01Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211026T22:02:01Z | Repository with fuzzing stuffs. | https://github.com/MiloTruck/Fuzzing | 0 | 0| 
 | 20211026T21:26:01Z | Fuzzy string search with a special focus on short strings. | https://github.com/clustermarket/fuzzybear | 0 | 0| 
 | 20211026T21:06:24Z | 🔥 Studying The Fuzzing Book : https://www.fuzzingbook.org | https://github.com/KimSeoYe/TheFuzzingBook | 5 | 1| 
+| 20211026T21:01:13Z | Null | https://github.com/bitjotho/fuzzy-dollop | 0 | 0| 
 
 
 
