@@ -142,6 +142,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211027T01:48:18Z | TUI file explorer based on PowerShell and fzf | https://github.com/shinyanger/fuzzy-explorer | 2 | 0| 
+| 20211027T01:47:58Z | a 802.11 wireless fuzzer | https://github.com/HectorTa1989/802.11-Wireless-Fuzzer | 1 | 0| 
 | 20211027T01:30:58Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211027T01:25:06Z | Let%s mint some NFTs! 🍬💰 | https://github.com/enriikke/fuzzy-eureka-nft | 0 | 0| 
 | 20211027T01:24:32Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6757 | 1402| 
@@ -150,8 +152,6 @@
 | 20211027T00:40:08Z | Classification based on Fuzzy Logic(C-Means). | https://github.com/arminZolfaghari/CMeans_fuzzy | 1 | 0| 
 | 20211027T00:40:01Z | Null | https://github.com/solo-studios/kt-fuzzy | 1 | 0| 
 | 20211027T00:31:45Z | Null | https://github.com/GabrielBack28/fuzzy | 0 | 0| 
-| 20211027T00:28:12Z | Null | https://github.com/lucasedferreira/fan-speed-fuzzy-logic | 0 | 0| 
-| 20211026T23:38:50Z | Este repositorio contiene el código de una propuesta para llevar a cabo el ataque por correlación y emparejamiento cruzado a el esquema de bóveda difusa.  | https://github.com/Mariuki/CorrelationAttack2FuzzyVault | 0 | 0| 
 
 
 
