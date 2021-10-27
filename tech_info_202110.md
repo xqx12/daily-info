@@ -88,7 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211027T01:00:09Z | A Fully undetectable electron application exploit | https://github.com/cpueasy/atomic-loader | 0 | 0| 
+| 20211027T01:02:54Z | A Fully undetectable electron application exploit | https://github.com/cpueasy/atomic-loader | 0 | 0| 
 | 20211027T00:55:28Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 244 | 13| 
 | 20211027T00:55:11Z | A collection of more than 160+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 952 | 224| 
 | 20211027T00:53:42Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | 0 | 0| 
