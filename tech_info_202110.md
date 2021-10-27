@@ -92,7 +92,7 @@
 | 20211027T00:12:42Z | Null | https://github.com/bangalia/Jinja2-ExploitMe | 0 | 0| 
 | 20211027T00:08:22Z | Null | https://github.com/shearertzach/Jinja2-ExploitMe | 0 | 0| 
 | 20211027T00:04:06Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 33 | 19| 
-| 20211027T00:03:52Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 79 | 145| 
+| 20211027T00:03:52Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 79 | 144| 
 | 20211026T23:59:14Z | How to exploit a double free vulnerability in 2021. %Use-After-Free for Dummies% | https://github.com/stong/how-to-exploit-a-double-free | 412 | 23| 
 | 20211026T23:54:44Z | Null | https://github.com/TheVille415/Jinja2-ExploitMe | 0 | 0| 
 | 20211026T23:51:48Z | Null | https://github.com/RogueNPC/Jinja2-ExploitMe | 0 | 0| 
