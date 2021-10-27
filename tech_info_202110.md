@@ -76,7 +76,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211025T09:40:23Z | 🎻 Requiem: Modular exploit generation using symbolic execution | https://github.com/aesophor/requiem | 11 | 3| 
+| 20211027T01:14:56Z | 🎻 Requiem: Modular exploit generation using symbolic execution | https://github.com/aesophor/requiem | 12 | 3| 
 | 20211024T05:01:07Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 174 | 39| 
 | 20211020T18:40:35Z | Null | https://github.com/yuvalkirstain/s2e-coref | 17 | 7| 
 | 20211020T04:35:04Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 76 | 31| 
@@ -142,6 +142,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211027T01:13:23Z | Naive Bayes Classifiers | https://github.com/Jodavid/FuzzyClass | 0 | 0| 
 | 20211027T00:55:46Z | Null | https://github.com/yasminekat/fuzzy-octo-potato | 0 | 0| 
 | 20211027T00:40:08Z | Classification based on Fuzzy Logic(C-Means). | https://github.com/arminZolfaghari/CMeans_fuzzy | 1 | 0| 
 | 20211027T00:40:01Z | Null | https://github.com/solo-studios/kt-fuzzy | 1 | 0| 
@@ -151,7 +152,6 @@
 | 20211026T23:27:53Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2410 | 148| 
 | 20211026T23:26:27Z | Implementation of a brute force attack to fingerprint based fuzzy vault. The repository also contains some statistics got over a specific fingerprint images dataset.  | https://github.com/Mariuki/AutomatedBruteForceAttack_to_FingerprintFuzzyVault | 0 | 0| 
 | 20211026T23:13:04Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6757 | 1402| 
-| 20211026T23:11:08Z | Black-box fuzzer that fuzzes APIs based on OpenAPI specification. Find bugs for free! | https://github.com/matusf/openapi-fuzzer | 16 | 0| 
 
 
 
