@@ -74,7 +74,6 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211026T23:01:35Z | Null | https://github.com/Fartlicker777/Backdoor-Hacking | 0 | 0| 
 | 20211026T22:43:45Z | This is a roblox studio plugin built to be utility such as detecting backdoors in your game, and be able to remove them. | https://github.com/casualdegenerate/Roblox-Utility | 0 | 0| 
 | 20211026T20:50:41Z | Null | https://github.com/leo9722/backdoor-c | 0 | 1| 
 | 20211026T18:51:15Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1471 | 373| 
@@ -84,6 +83,7 @@
 | 20211026T09:05:54Z | Null | https://github.com/THUYimingLi/BackdoorBox | 1 | 0| 
 | 20211026T07:13:41Z | Anti-Backdoor learning (NeurIPS 2021) | https://github.com/bboylyg/ABL | 7 | 0| 
 | 20211026T06:40:41Z | Null | https://github.com/partha051705/Backdoor_Project | 0 | 0| 
+| 20211026T03:00:03Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 344 | 62| 
 
 
 # symbolic execution on Github 推荐
