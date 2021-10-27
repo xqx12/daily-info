@@ -88,8 +88,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211027T00:55:28Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 244 | 13| 
+| 20211027T00:55:11Z | A collection of more than 160+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 952 | 224| 
 | 20211027T00:53:42Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | 0 | 0| 
-| 20211027T00:52:54Z | A collection of more than 160+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 952 | 224| 
 | 20211027T00:23:55Z | An introduction, explanation, and tutorial of various exploits for the heap of current and recent GNU libcs. | https://github.com/bstank/bstank.github.io | 0 | 0| 
 | 20211027T00:12:42Z | Null | https://github.com/bangalia/Jinja2-ExploitMe | 0 | 0| 
 | 20211027T00:08:22Z | Null | https://github.com/shearertzach/Jinja2-ExploitMe | 0 | 0| 
@@ -97,7 +98,6 @@
 | 20211027T00:03:52Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 79 | 144| 
 | 20211026T23:59:14Z | How to exploit a double free vulnerability in 2021. %Use-After-Free for Dummies% | https://github.com/stong/how-to-exploit-a-double-free | 412 | 23| 
 | 20211026T23:54:44Z | Null | https://github.com/TheVille415/Jinja2-ExploitMe | 0 | 0| 
-| 20211026T23:51:48Z | Null | https://github.com/RogueNPC/Jinja2-ExploitMe | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -142,7 +142,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211027T00:54:40Z | Null | https://github.com/yasminekat/fuzzy-octo-potato | 0 | 0| 
+| 20211027T00:55:46Z | Null | https://github.com/yasminekat/fuzzy-octo-potato | 0 | 0| 
 | 20211027T00:40:08Z | Classification based on Fuzzy Logic(C-Means). | https://github.com/arminZolfaghari/CMeans_fuzzy | 1 | 0| 
 | 20211027T00:40:01Z | Null | https://github.com/solo-studios/kt-fuzzy | 1 | 0| 
 | 20211027T00:31:45Z | Null | https://github.com/GabrielBack28/fuzzy | 0 | 0| 
