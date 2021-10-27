@@ -118,6 +118,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211027T01:14:56Z | 🎻 Requiem: Modular exploit generation using symbolic execution | https://github.com/aesophor/requiem | 12 | 3| 
 | 20211026T21:24:03Z | A tool for generating nonlinear numerical invariants for C and Java programs.  DIG uses dynamic analysis to infer invariants over program execution traces and applies symbolic execution to inferred invariants. | https://github.com/unsat/dig | 9 | 4| 
 | 20211026T16:43:22Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1794 | 510| 
 | 20211026T16:10:55Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 163 | 36| 
@@ -127,7 +128,6 @@
 | 20211025T20:10:11Z | Symbolica%s open-source symbolic execution engine. | https://github.com/Symbolica/Symbolica | 39 | 2| 
 | 20211025T18:47:42Z | Symbolic execution of LLVM IR with an engine written in Rust | https://github.com/PLSysSec/haybale | 334 | 16| 
 | 20211025T12:12:06Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 18 | 4| 
-| 20211025T11:14:12Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 13 | 10| 
 
 
 # big4 on Github 推荐
