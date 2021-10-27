@@ -86,6 +86,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211027T12:15:18Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 32 | 12| 
 | 20211027T12:07:41Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1089 | 48| 
 | 20211027T12:06:50Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211027T11:50:12Z | An extensible multi-format black box fuzzer  | https://github.com/Angus-C-git/fuzzy-bear | 2 | 0| 
@@ -95,7 +96,6 @@
 | 20211027T11:13:28Z | A Comprehensive Web Fuzzer and Content Discovery Tool | https://github.com/phra/rustbuster | 374 | 50| 
 | 20211027T10:59:47Z | Null | https://github.com/ArtieFuzzz/ArtieFuzzz | 0 | 1| 
 | 20211027T10:59:40Z | Naive Bayes Classifiers | https://github.com/Jodavid/FuzzyClass | 0 | 0| 
-| 20211027T10:47:24Z | It contains the codes I wrote in the Fuzzy Logic course. | https://github.com/mfadak/FuzzyLogic | 0 | 0| 
 
 
 
