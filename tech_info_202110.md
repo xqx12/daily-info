@@ -88,21 +88,22 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211027T01:43:48Z | A collection of more than 160+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 952 | 224| 
+| 20211027T01:38:35Z | A Fully undetectable electron application exploit | https://github.com/cpueasy/atomic-loader | 3 | 0| 
+| 20211027T01:36:35Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 357 | 54| 
+| 20211027T01:35:38Z | Security and Hacking Tools, Exploits, Proof of Concepts, Shellcodes, Scripts. | https://github.com/nullsecuritynet/tools | 1502 | 482| 
 | 20211027T01:30:14Z | Unofficial PyTorch implementation of %Composing Good Shots by Exploiting Mutual Relations% | https://github.com/bo-zhang-cs/CGS-Pytorch | 0 | 0| 
-| 20211027T01:16:43Z | A Fully undetectable electron application exploit | https://github.com/cpueasy/atomic-loader | 2 | 0| 
 | 20211027T01:03:34Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 33 | 19| 
 | 20211027T00:55:28Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 244 | 13| 
-| 20211027T00:55:11Z | A collection of more than 160+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 952 | 224| 
 | 20211027T00:53:42Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | 0 | 0| 
 | 20211027T00:23:55Z | An introduction, explanation, and tutorial of various exploits for the heap of current and recent GNU libcs. | https://github.com/bstank/bstank.github.io | 0 | 0| 
 | 20211027T00:12:42Z | Null | https://github.com/bangalia/Jinja2-ExploitMe | 0 | 0| 
-| 20211027T00:08:22Z | Null | https://github.com/shearertzach/Jinja2-ExploitMe | 0 | 0| 
-| 20211027T00:03:52Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 79 | 144| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211027T01:37:16Z | Null | https://github.com/THUYimingLi/BackdoorBox | 1 | 0| 
 | 20211027T01:35:22Z | Null | https://github.com/csdongxian/ANP_backdoor | 3 | 0| 
 | 20211027T00:48:40Z | Null | https://github.com/Fartlicker777/Backdoor-Hacking | 0 | 0| 
 | 20211027T00:47:37Z | The insane hackerman backdoor. | https://github.com/Bakdooro/Bakdooro | 8 | 2| 
@@ -111,7 +112,6 @@
 | 20211026T18:51:15Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1471 | 373| 
 | 20211026T18:12:48Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 104 | 25| 
 | 20211026T18:11:58Z | Null | https://github.com/mr-exo/HikvisionBackdoorExploit | 0 | 0| 
-| 20211026T09:05:54Z | Null | https://github.com/THUYimingLi/BackdoorBox | 1 | 0| 
 | 20211026T07:13:41Z | Anti-Backdoor learning (NeurIPS 2021) | https://github.com/bboylyg/ABL | 7 | 0| 
 
 
