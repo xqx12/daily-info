@@ -79,7 +79,6 @@
 | 20211026T18:51:15Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1471 | 373| 
 | 20211026T18:12:48Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 104 | 25| 
 | 20211026T18:11:58Z | Null | https://github.com/mr-exo/HikvisionBackdoorExploit | 0 | 0| 
-| 20211026T10:26:15Z | Null | https://github.com/csdongxian/ANP_backdoor | 2 | 0| 
 | 20211026T09:05:54Z | Null | https://github.com/THUYimingLi/BackdoorBox | 1 | 0| 
 | 20211026T07:13:41Z | Anti-Backdoor learning (NeurIPS 2021) | https://github.com/bboylyg/ABL | 7 | 0| 
 | 20211026T06:40:41Z | Null | https://github.com/partha051705/Backdoor_Project | 0 | 0| 
