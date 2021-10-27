@@ -88,7 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211027T01:43:48Z | A collection of more than 160+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 952 | 224| 
+| 20211027T01:46:13Z | A collection of more than 160+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 952 | 224| 
 | 20211027T01:38:35Z | A Fully undetectable electron application exploit | https://github.com/cpueasy/atomic-loader | 3 | 0| 
 | 20211027T01:36:35Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 357 | 54| 
 | 20211027T01:35:38Z | Security and Hacking Tools, Exploits, Proof of Concepts, Shellcodes, Scripts. | https://github.com/nullsecuritynet/tools | 1502 | 482| 
