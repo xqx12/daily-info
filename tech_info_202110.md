@@ -88,7 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211027T01:11:05Z | A Fully undetectable electron application exploit | https://github.com/cpueasy/atomic-loader | 1 | 0| 
+| 20211027T01:16:43Z | A Fully undetectable electron application exploit | https://github.com/cpueasy/atomic-loader | 2 | 0| 
 | 20211027T01:03:34Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 33 | 19| 
 | 20211027T00:55:28Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 244 | 13| 
 | 20211027T00:55:11Z | A collection of more than 160+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 952 | 224| 
@@ -142,7 +142,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211027T01:13:23Z | Naive Bayes Classifiers | https://github.com/Jodavid/FuzzyClass | 0 | 0| 
+| 20211027T01:16:57Z | Naive Bayes Classifiers | https://github.com/Jodavid/FuzzyClass | 0 | 0| 
 | 20211027T00:55:46Z | Null | https://github.com/yasminekat/fuzzy-octo-potato | 0 | 0| 
 | 20211027T00:40:08Z | Classification based on Fuzzy Logic(C-Means). | https://github.com/arminZolfaghari/CMeans_fuzzy | 1 | 0| 
 | 20211027T00:40:01Z | Null | https://github.com/solo-studios/kt-fuzzy | 1 | 0| 
