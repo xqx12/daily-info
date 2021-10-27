@@ -43,6 +43,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211027T12:47:57Z | Null | https://github.com/zbh888/SecurityExploit | 0 | 0| 
 | 20211027T12:25:57Z | Null | https://github.com/Exh2021108/Exploits-X-Bedwars-Script | 0 | 0| 
 | 20211027T12:24:38Z | Null | https://github.com/p0dalirius/binaryexploitation | 4 | 0| 
 | 20211027T12:03:23Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 33 | 19| 
@@ -52,7 +53,6 @@
 | 20211027T11:06:55Z | The world has not been the same since the outbreak and ending of World War 3 in the same year, 2079, when the “Developing Countries” in Africa and Asia finally rebelled against the exploitation by the western “industrial countries”. A massive launching of nuclear and “space” weapons on the side of the latter not only quenched the rebellion, it also caused considerable and irrevocable damage to the very structure of Universe. | https://github.com/4dmud/mud | 2 | 2| 
 | 20211027T10:50:20Z | A useful reset button for anyone exploiting on r64 | https://github.com/Justtryingtmakecode/true-reset | 0 | 0| 
 | 20211027T10:44:20Z | this bash script is for remote linux and macos hosts hacked! | https://github.com/FabioDefilippo/linuxallenum | 17 | 0| 
-| 20211027T10:38:56Z | A blog where I write about exploiting cafes around Singapore | https://github.com/raniceyue/cafe-exploitation | 0 | 0| 
 
 
 # backdoor on Github 推荐
