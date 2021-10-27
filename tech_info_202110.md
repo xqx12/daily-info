@@ -103,16 +103,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211026T23:01:35Z | Null | https://github.com/Fartlicker777/Backdoor-Hacking | 0 | 0| 
+| 20211026T22:43:45Z | This is a roblox studio plugin built to be utility such as detecting backdoors in your game, and be able to remove them. | https://github.com/casualdegenerate/Roblox-Utility | 0 | 0| 
+| 20211026T21:50:09Z | The insane hackerman backdoor. | https://github.com/Bakdooro/Bakdooro | 7 | 2| 
+| 20211026T20:50:41Z | Null | https://github.com/leo9722/backdoor-c | 0 | 1| 
+| 20211026T18:51:15Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1471 | 373| 
+| 20211026T18:12:48Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 104 | 25| 
+| 20211026T18:11:58Z | Null | https://github.com/mr-exo/HikvisionBackdoorExploit | 0 | 0| 
 | 20211026T10:26:15Z | Null | https://github.com/csdongxian/ANP_backdoor | 2 | 0| 
 | 20211026T09:05:54Z | Null | https://github.com/THUYimingLi/BackdoorBox | 1 | 0| 
 | 20211026T07:13:41Z | Anti-Backdoor learning (NeurIPS 2021) | https://github.com/bboylyg/ABL | 7 | 0| 
-| 20211026T06:40:41Z | Null | https://github.com/partha051705/Backdoor_Project | 0 | 0| 
-| 20211026T04:02:06Z | Null | https://github.com/Fartlicker777/Backdoor-Hacking | 0 | 0| 
-| 20211026T03:00:03Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 344 | 62| 
-| 20211026T00:43:33Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1469 | 373| 
-| 20211025T20:51:56Z | Pico-BackDroid is an Android Reverse Shell Backdoor for CircuitPython on Raspberry Pi Pico. | https://github.com/V0lk3n/Pico-BackDroid | 0 | 1| 
-| 20211025T19:04:51Z | A TCP Backdoor made in python | https://github.com/ferreiraklet/Tracey-Backdoor | 6 | 0| 
-| 20211025T17:45:08Z | This is the repository for paper NEEDLE: Towards Non-invertible Backdoor Attack to Deep Learning Models. | https://github.com/RiraIkuta/NEEDLE | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
