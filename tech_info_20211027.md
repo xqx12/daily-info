@@ -86,16 +86,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211027T12:07:41Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1089 | 48| 
+| 20211027T12:06:50Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211027T11:50:12Z | An extensible multi-format black box fuzzer  | https://github.com/Angus-C-git/fuzzy-bear | 2 | 0| 
 | 20211027T11:32:56Z | Null | https://github.com/LogutovEgor/fuzzy_vikor | 0 | 0| 
 | 20211027T11:19:38Z | Null | https://github.com/ManimozhiTamilmani/fuzzy-computing-machine | 0 | 0| 
 | 20211027T11:19:04Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3754 | 888| 
 | 20211027T11:13:28Z | A Comprehensive Web Fuzzer and Content Discovery Tool | https://github.com/phra/rustbuster | 374 | 50| 
-| 20211027T11:01:37Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211027T10:59:47Z | Null | https://github.com/ArtieFuzzz/ArtieFuzzz | 0 | 1| 
 | 20211027T10:59:40Z | Naive Bayes Classifiers | https://github.com/Jodavid/FuzzyClass | 0 | 0| 
 | 20211027T10:47:24Z | It contains the codes I wrote in the Fuzzy Logic course. | https://github.com/mfadak/FuzzyLogic | 0 | 0| 
-| 20211027T10:30:20Z | Null | https://github.com/OldKrab/FuzzyLogic | 0 | 0| 
 
 
 
