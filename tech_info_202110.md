@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211027T01:00:09Z | A Fully undetectable electron application exploit | https://github.com/cpueasy/atomic-loader | 0 | 0| 
 | 20211027T00:55:28Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 244 | 13| 
 | 20211027T00:55:11Z | A collection of more than 160+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 952 | 224| 
 | 20211027T00:53:42Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | 0 | 0| 
@@ -97,7 +98,6 @@
 | 20211027T00:04:06Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 33 | 19| 
 | 20211027T00:03:52Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 79 | 144| 
 | 20211026T23:59:14Z | How to exploit a double free vulnerability in 2021. %Use-After-Free for Dummies% | https://github.com/stong/how-to-exploit-a-double-free | 412 | 23| 
-| 20211026T23:54:44Z | Null | https://github.com/TheVille415/Jinja2-ExploitMe | 0 | 0| 
 
 
 # backdoor on Github 推荐
