@@ -142,6 +142,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211027T00:26:17Z | Null | https://github.com/lucasedferreira/fan-speed-fuzzy-logic | 0 | 0| 
 | 20211027T00:16:59Z | Classification based on Fuzzy Logic(C-Means). | https://github.com/arminZolfaghari/CMeans_fuzzy | 1 | 0| 
 | 20211027T00:03:13Z | Null | https://github.com/solo-studios/kt-fuzzy | 1 | 0| 
 | 20211026T23:56:00Z | Null | https://github.com/yasminekat/fuzzy-octo-potato | 0 | 0| 
@@ -151,7 +152,6 @@
 | 20211026T23:13:04Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6757 | 1402| 
 | 20211026T23:11:08Z | Black-box fuzzer that fuzzes APIs based on OpenAPI specification. Find bugs for free! | https://github.com/matusf/openapi-fuzzer | 16 | 0| 
 | 20211026T23:08:02Z | Null | https://github.com/DouglasBgs/LogicaFuzzy | 0 | 0| 
-| 20211026T22:14:32Z | bash script to run from installation media to setup gentoo automagically | https://github.com/fjp321/fuzzy-goggles | 0 | 0| 
 
 
 
