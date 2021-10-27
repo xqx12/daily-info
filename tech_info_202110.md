@@ -31,6 +31,8 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20211027 | 利用图注意力网络预测不同安全数据库之间的实体关系 | https://mp.weixin.qq.com/s/fJdzHx0xj_G2zzcVnPVnZg| 
+| 20211027 | 《互联网用户账号名称信息管理规定（征求意见稿）》 | http://www.cac.gov.cn/2021-10/26/c_1636843202454310.htm| 
 | 20211026 | 案例｜轻松绕过你的Nginx（上篇） | https://mp.weixin.qq.com/s/yDIMgXltVLNfslVGg9lt4g| 
 | 20211026 | 一个藏在我们身边的巨型僵尸网络 Pink | https://blog.netlab.360.com/pinkbot/| 
 | 20211026 | Ciphey - 基于人工智能与自然语言处理技术实现的一款自动化密... | https://github.com/Ciphey/Ciphey| 
@@ -39,38 +41,36 @@
 | 20211025 | 漫谈在安全公司做内部安全的体验 | https://mp.weixin.qq.com/s/UnLZE9HwJAc_uYTO5BXGww| 
 | 20211025 | 区块链隐私保护技术解析——之门罗币(monero) | https://mp.weixin.qq.com/s/rVVzAzbKWzPvczHTuyWehg| 
 | 20211024 | 基于全流量权限漏洞检测技术 | https://www.anquanke.com/post/id/256111| 
-| 20211024 | Pin 学习参考手册 | https://mp.weixin.qq.com/s/K4icyU6tmZYMrvgNL_jYDw| 
-| 20211024 | 浅谈React框架的XSS及后利用 | https://mp.weixin.qq.com/s/1AU2TEePckzSWpHyuEGGJQ| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211027T11:39:31Z | CVE-2021-34486 | Null | https://github.com/b1tg/CVE-2021-34486-exp | | 
+| 20211027T11:32:51Z | cve-2021-20837 | PoC for the CVE-2021-20837 : RCE in MovableType | https://github.com/ghost-nemesis/cve-2021-20837-poc | | 
+| 20211027T09:23:13Z | CVE-2021-22005 | Null | https://github.com/Jun-5heng/CVE-2021-22005 | | 
+| 20211027T04:21:06Z | CVE-2021-32789 | WooCommerce exploit | https://github.com/andnorack/CVE-2021-32789 | | 
+| 20211027T02:30:42Z | CVE-2021-26084 | CVE-2021-26084，Atlassian Confluence OGNL注入漏洞 | https://github.com/lleavesl/CVE-2021-26084 | | 
 | 20211026T23:14:12Z | CVE-2021-40449 | My exploit for CVE-2021-40449, a Windows LPE via a UAF in win32kfull!GreResetDCInternal. | https://github.com/hakivvi/CVE-2021-40449 | | 
 | 20211026T21:05:17Z | CVE-2021-41773 | Ce programme permet de détecter une faille RCE sur les serveurs Apache 2.4.49 et Apache 2.4.50 | https://github.com/Balgogan/CVE-2021-41773 | | 
 | 20211026T18:04:45Z | CVE-2021-41773 | Remote Code Execution exploit for Apache servers. Affected versions: Apache 2.4.49, Apache 2.4.50 | https://github.com/mr-exo/CVE-2021-41773 | | 
-| 20211026T17:47:25Z | CVE-2021-26084 | CVE-2021-26084，Atlassian Confluence OGNL注入漏洞 | https://github.com/lleavesl/CVE-2021-26084 | | 
 | 20211026T16:51:50Z | CVE-2021-22204 | Null | https://github.com/AssassinUKG/CVE-2021-22204 | | 
 | 20211026T14:34:26Z | CVE-2021-30573 | Google Chrome Vulnerabilities CVE-2021-30573 | https://github.com/oxctdev/CVE-2021-30573 | | 
-| 20211026T12:21:49Z | CVE-2020-16846 | Null | https://github.com/zomy22/CVE-2020-16846-Saltstack-Salt-API | | 
-| 20211026T11:09:05Z | 未知编号 | For IS713 Project | https://github.com/sinjeanmin/cvedetails_2020 | | 
-| 20211026T09:58:51Z | CVE-2021-37748 | Null | https://github.com/SECFORCE/CVE-2021-37748 | | 
-| 20211026T08:59:07Z | CVE-2021-30573 | Google Chrome Vulnerabilities CVE-2021-30573 allowed a remote attacker to potentially exploit heap corruption | https://github.com/kh4sh3i/CVE-2021-30573 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211027T11:06:42Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1795 | 510| 
+| 20211027T09:09:36Z | Personal Blog | https://github.com/klee1611/klee1611.github.io | 1 | 1| 
+| 20211027T07:03:46Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2879 | 79| 
 | 20211026T19:38:35Z | CLI and HTTP application for running static analysis of rust-based smart contracts | https://github.com/LedgerProject/safepkt_backend | 0 | 1| 
-| 20211026T16:43:22Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1794 | 510| 
 | 20211026T10:37:10Z | HTML/CSS | https://github.com/Amadou90diallo/Kleen | 0 | 0| 
-| 20211026T10:05:35Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2877 | 79| 
 | 20211026T07:56:16Z | This font is based on the font Klee One by Fontworks, and the font LXGW WenKai by LXGW for adding Simplified and Traditional Chinese character glyphs. The pinyin characters are added by ToneOZ.com using the open source tool Mengshen, with the IVS heteronyms font concept from the Bopomofo IVS by But Ko. | https://github.com/jeffreyxuan/toneoz-font-pinyin-wenkai | 12 | 0| 
 | 20211026T03:55:35Z | Config files for my GitHub profile. | https://github.com/kleesfca2016/kleesfca2016 | 0 | 0| 
 | 20211024T21:54:43Z | Null | https://github.com/ayazip/witch-klee | 0 | 0| 
 | 20211024T11:07:56Z | Minecraft Mod. Allows breaking only one half of a double slab block. | https://github.com/ModdingForBlockheads/KleeSlabs | 9 | 3| 
 | 20211023T12:43:22Z | External audio preamp board for the RP2A03 | https://github.com/Gumball2415/squeeki-kleen-Audio-FC | 1 | 0| 
-| 20211022T15:38:01Z | Small exercise we built while taking the CSD scrum developer course(Scrum Alliance) | https://github.com/amartine59/csd-kleer | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -88,31 +88,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211027T01:46:13Z | A collection of more than 160+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 952 | 224| 
-| 20211027T01:38:35Z | A Fully undetectable electron application exploit | https://github.com/cpueasy/atomic-loader | 3 | 0| 
-| 20211027T01:36:35Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 357 | 54| 
-| 20211027T01:35:38Z | Security and Hacking Tools, Exploits, Proof of Concepts, Shellcodes, Scripts. | https://github.com/nullsecuritynet/tools | 1502 | 482| 
-| 20211027T01:30:14Z | Unofficial PyTorch implementation of %Composing Good Shots by Exploiting Mutual Relations% | https://github.com/bo-zhang-cs/CGS-Pytorch | 0 | 0| 
-| 20211027T01:03:34Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 33 | 19| 
-| 20211027T00:55:28Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 244 | 13| 
-| 20211027T00:53:42Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | 0 | 0| 
-| 20211027T00:23:55Z | An introduction, explanation, and tutorial of various exploits for the heap of current and recent GNU libcs. | https://github.com/bstank/bstank.github.io | 0 | 0| 
-| 20211027T00:12:42Z | Null | https://github.com/bangalia/Jinja2-ExploitMe | 0 | 0| 
+| 20211027T11:56:32Z | Cobalt Strike is a powerful threat emulation tool that provides a post-exploitation agent and covert channels ideal for Adversary Simulations and Red Team exercises. With Cobalt Strike, companies can emulate the tactics and techniques of a quiet long-term embedded threat actor in an IT network. Malleable C2 lets you change your network indicators to look like different malware each time. These tools complement Cobalt Strike%s solid social engineering process, its robust collaboration capability, and unique reports designed to aid blue team training. | https://github.com/XRSec/CobaltStrike-Update | 0 | 0| 
+| 20211027T11:50:14Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 3673 | 1266| 
+| 20211027T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10248 | 1757| 
+| 20211027T11:06:55Z | The world has not been the same since the outbreak and ending of World War 3 in the same year, 2079, when the “Developing Countries” in Africa and Asia finally rebelled against the exploitation by the western “industrial countries”. A massive launching of nuclear and “space” weapons on the side of the latter not only quenched the rebellion, it also caused considerable and irrevocable damage to the very structure of Universe. | https://github.com/4dmud/mud | 2 | 2| 
+| 20211027T11:03:03Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 33 | 19| 
+| 20211027T10:50:20Z | A useful reset button for anyone exploiting on r64 | https://github.com/Justtryingtmakecode/true-reset | 0 | 0| 
+| 20211027T10:44:20Z | this bash script is for remote linux and macos hosts hacked! | https://github.com/FabioDefilippo/linuxallenum | 17 | 0| 
+| 20211027T10:38:56Z | A blog where I write about exploiting cafes around Singapore | https://github.com/raniceyue/cafe-exploitation | 0 | 0| 
+| 20211027T10:22:07Z | A exploit that was found. | https://github.com/leakedxd/exploit | 0 | 0| 
+| 20211027T10:15:27Z | This exploit serves to find a login gap from the system administrator to enter the dashboard page.  This attack will usually work on websites that have the kcfinder extension. | https://github.com/SourCode-Z/Findlogin-v.1.5-meowproject- | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211027T01:37:16Z | Null | https://github.com/THUYimingLi/BackdoorBox | 1 | 0| 
+| 20211027T11:44:27Z | The insane hackerman backdoor. | https://github.com/Bakdooro/Bakdooro | 10 | 2| 
+| 20211027T11:06:55Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1472 | 373| 
+| 20211027T10:00:09Z | I created this script to help make it easier for you to directly attack index.php on the website | https://github.com/SourCode-Z/Shell-Backdoor | 0 | 0| 
+| 20211027T07:58:05Z | Null | https://github.com/THUYimingLi/BackdoorBox | 1 | 1| 
+| 20211027T07:39:43Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 345 | 62| 
+| 20211027T06:11:38Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 104 | 25| 
+| 20211027T05:28:14Z | Null | https://github.com/Fartlicker777/Backdoor-Hacking | 0 | 0| 
+| 20211027T04:20:29Z | Anti-Backdoor learning (NeurIPS 2021) | https://github.com/bboylyg/ABL | 7 | 0| 
 | 20211027T01:35:22Z | Null | https://github.com/csdongxian/ANP_backdoor | 3 | 0| 
-| 20211027T00:48:40Z | Null | https://github.com/Fartlicker777/Backdoor-Hacking | 0 | 0| 
-| 20211027T00:47:37Z | The insane hackerman backdoor. | https://github.com/Bakdooro/Bakdooro | 8 | 2| 
 | 20211026T22:43:45Z | This is a roblox studio plugin built to be utility such as detecting backdoors in your game, and be able to remove them. | https://github.com/casualdegenerate/Roblox-Utility | 0 | 0| 
-| 20211026T20:50:41Z | Null | https://github.com/leo9722/backdoor-c | 0 | 1| 
-| 20211026T18:51:15Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1471 | 373| 
-| 20211026T18:12:48Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 104 | 25| 
-| 20211026T18:11:58Z | Null | https://github.com/mr-exo/HikvisionBackdoorExploit | 0 | 0| 
-| 20211026T07:13:41Z | Anti-Backdoor learning (NeurIPS 2021) | https://github.com/bboylyg/ABL | 7 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -142,16 +142,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211027T01:48:18Z | TUI file explorer based on PowerShell and fzf | https://github.com/shinyanger/fuzzy-explorer | 2 | 0| 
-| 20211027T01:47:58Z | a 802.11 wireless fuzzer | https://github.com/HectorTa1989/802.11-Wireless-Fuzzer | 1 | 0| 
-| 20211027T01:30:58Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20211027T01:25:06Z | Let%s mint some NFTs! 🍬💰 | https://github.com/enriikke/fuzzy-eureka-nft | 0 | 0| 
-| 20211027T01:24:32Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6757 | 1402| 
-| 20211027T01:19:48Z | Naive Bayes Classifiers | https://github.com/Jodavid/FuzzyClass | 0 | 0| 
-| 20211027T00:55:46Z | Null | https://github.com/yasminekat/fuzzy-octo-potato | 0 | 0| 
-| 20211027T00:40:08Z | Classification based on Fuzzy Logic(C-Means). | https://github.com/arminZolfaghari/CMeans_fuzzy | 1 | 0| 
-| 20211027T00:40:01Z | Null | https://github.com/solo-studios/kt-fuzzy | 1 | 0| 
-| 20211027T00:31:45Z | Null | https://github.com/GabrielBack28/fuzzy | 0 | 0| 
+| 20211027T11:50:12Z | An extensible multi-format black box fuzzer  | https://github.com/Angus-C-git/fuzzy-bear | 2 | 0| 
+| 20211027T11:32:56Z | Null | https://github.com/LogutovEgor/fuzzy_vikor | 0 | 0| 
+| 20211027T11:19:38Z | Null | https://github.com/ManimozhiTamilmani/fuzzy-computing-machine | 0 | 0| 
+| 20211027T11:19:04Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3754 | 888| 
+| 20211027T11:13:28Z | A Comprehensive Web Fuzzer and Content Discovery Tool | https://github.com/phra/rustbuster | 374 | 50| 
+| 20211027T11:01:37Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20211027T10:59:47Z | Null | https://github.com/ArtieFuzzz/ArtieFuzzz | 0 | 1| 
+| 20211027T10:59:40Z | Naive Bayes Classifiers | https://github.com/Jodavid/FuzzyClass | 0 | 0| 
+| 20211027T10:47:24Z | It contains the codes I wrote in the Fuzzy Logic course. | https://github.com/mfadak/FuzzyLogic | 0 | 0| 
+| 20211027T10:30:20Z | Null | https://github.com/OldKrab/FuzzyLogic | 0 | 0| 
 
 
 
