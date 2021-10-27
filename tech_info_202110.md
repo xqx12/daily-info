@@ -61,6 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211027T12:20:13Z | Null | https://github.com/ayazip/witch-klee | 0 | 0| 
 | 20211027T11:06:42Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1795 | 510| 
 | 20211027T09:09:36Z | Personal Blog | https://github.com/klee1611/klee1611.github.io | 1 | 1| 
 | 20211027T07:03:46Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2879 | 79| 
@@ -68,7 +69,6 @@
 | 20211026T10:37:10Z | HTML/CSS | https://github.com/Amadou90diallo/Kleen | 0 | 0| 
 | 20211026T07:56:16Z | This font is based on the font Klee One by Fontworks, and the font LXGW WenKai by LXGW for adding Simplified and Traditional Chinese character glyphs. The pinyin characters are added by ToneOZ.com using the open source tool Mengshen, with the IVS heteronyms font concept from the Bopomofo IVS by But Ko. | https://github.com/jeffreyxuan/toneoz-font-pinyin-wenkai | 12 | 0| 
 | 20211026T03:55:35Z | Config files for my GitHub profile. | https://github.com/kleesfca2016/kleesfca2016 | 0 | 0| 
-| 20211024T21:54:43Z | Null | https://github.com/ayazip/witch-klee | 0 | 0| 
 | 20211024T11:07:56Z | Minecraft Mod. Allows breaking only one half of a double slab block. | https://github.com/ModdingForBlockheads/KleeSlabs | 9 | 3| 
 | 20211023T12:43:22Z | External audio preamp board for the RP2A03 | https://github.com/Gumball2415/squeeki-kleen-Audio-FC | 1 | 0| 
 
@@ -142,6 +142,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211027T12:19:24Z | Black-box fuzzer that fuzzes APIs based on OpenAPI specification. Find bugs for free! | https://github.com/matusf/openapi-fuzzer | 16 | 0| 
 | 20211027T12:15:18Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 32 | 12| 
 | 20211027T12:07:41Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1089 | 48| 
 | 20211027T12:06:50Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
@@ -151,7 +152,6 @@
 | 20211027T11:19:04Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3754 | 888| 
 | 20211027T11:13:28Z | A Comprehensive Web Fuzzer and Content Discovery Tool | https://github.com/phra/rustbuster | 374 | 50| 
 | 20211027T10:59:47Z | Null | https://github.com/ArtieFuzzz/ArtieFuzzz | 0 | 1| 
-| 20211027T10:59:40Z | Naive Bayes Classifiers | https://github.com/Jodavid/FuzzyClass | 0 | 0| 
 
 
 
