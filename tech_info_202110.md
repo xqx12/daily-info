@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211028T00:38:51Z | Null | https://github.com/xiluna/Jinja2-ExploitMe | 0 | 0| 
 | 20211028T00:35:36Z | How to exploit a double free vulnerability in 2021. %Use-After-Free for Dummies% | https://github.com/stong/how-to-exploit-a-double-free | 645 | 36| 
 | 20211028T00:32:28Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | 0 | 0| 
 | 20211028T00:03:21Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 33 | 19| 
@@ -97,7 +98,6 @@
 | 20211027T23:05:46Z | Programs for exploring disassembling and buffer overflows for Vanderbilt CS 6387 | https://github.com/wutka/exploits_6387 | 0 | 0| 
 | 20211027T23:05:45Z | this is a work-in-progress windows remote access trojan written in python and c++, used for exploiting different attack vectors to deploy a payload | https://github.com/by7ebull3t/darkharvest | 0 | 0| 
 | 20211027T23:04:28Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 245 | 13| 
-| 20211027T22:59:49Z | Fix exploits on anarchy minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 92 | 21| 
 
 
 # backdoor on Github 推荐
