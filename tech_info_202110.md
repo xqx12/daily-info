@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211028T01:51:45Z | Resources for Session Exploit Development 101 for Null Humla | https://github.com/MalavVyas/ExploitDevelopment101 | 0 | 0| 
 | 20211028T01:26:00Z | docker漏洞环境搭建大合集，每个文件夹对应一个漏洞，内含exploit代码，文档均在README.md | https://github.com/warmilk/myVulHub | 0 | 0| 
 | 20211028T01:24:47Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6070 | 1448| 
 | 20211028T01:23:32Z | This is a space where I share some shellcodes that I wrote in ASM x86 and x64 when I was developing exploits for the windows platform | https://github.com/sasaga/SHELLCODES-WINDOWS | 1 | 0| 
@@ -97,7 +98,6 @@
 | 20211028T00:38:51Z | Null | https://github.com/xiluna/Jinja2-ExploitMe | 0 | 0| 
 | 20211028T00:32:28Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | 0 | 0| 
 | 20211028T00:01:15Z | Gigatron program and operating-system level things to exploit a SD card attached to the SPI interface of a RAM & IO expansion board. | https://github.com/lb3361/gigatron-os | 0 | 0| 
-| 20211027T23:43:00Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 80 | 150| 
 
 
 # backdoor on Github 推荐
