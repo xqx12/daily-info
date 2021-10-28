@@ -31,6 +31,8 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20211028 | [HTB] LaCasaDePapel Writeup | http://mp.weixin.qq.com/s?__biz=MzIwOTA4NTg4MA==&mid=2652489819&idx=1&sn=863f6d580ea36e4d929060452fb6a6c8&chksm=8c945c8cbbe3d59a1a041540b0b2b9a8cd20ff62b6eb284a84347322c20140ed89031957472f#rd| 
+| 20211028 | 终极案例｜轻松绕过你的Nginx（下篇） | https://mp.weixin.qq.com/s/34QZSq90Nj5xKjG1yTGvZw| 
 | 20211027 | 利用图注意力网络预测不同安全数据库之间的实体关系 | https://mp.weixin.qq.com/s/fJdzHx0xj_G2zzcVnPVnZg| 
 | 20211027 | 《互联网用户账号名称信息管理规定（征求意见稿）》 | http://www.cac.gov.cn/2021-10/26/c_1636843202454310.htm| 
 | 20211026 | 案例｜轻松绕过你的Nginx（上篇） | https://mp.weixin.qq.com/s/yDIMgXltVLNfslVGg9lt4g| 
@@ -39,23 +41,21 @@
 | 20211025 | SecWiki周刊（第399期) | https://www.sec-wiki.com/weekly/399| 
 | 20211025 | 某mpv播放器因格式化字符串导致远程代码执行漏洞深入分析（CVE... | https://mp.weixin.qq.com/s/2q8kSl6oC7ECXU8OaMwuTw| 
 | 20211025 | 漫谈在安全公司做内部安全的体验 | https://mp.weixin.qq.com/s/UnLZE9HwJAc_uYTO5BXGww| 
-| 20211025 | 区块链隐私保护技术解析——之门罗币(monero) | https://mp.weixin.qq.com/s/rVVzAzbKWzPvczHTuyWehg| 
-| 20211024 | 基于全流量权限漏洞检测技术 | https://www.anquanke.com/post/id/256111| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211028T01:28:51Z | CVE-2021-36260 | CVE-2021-36260 | https://github.com/rabbitsafe/CVE-2021-36260 | | 
-| 20211027T23:47:36Z | 未知编号 | For IS713 Project | https://github.com/sinjeanmin/cvedetails_2020 | | 
-| 20211027T23:29:24Z | CVE-2021-36260 | command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input validation, attacker can exploit the vulnerability to launch a command injection attack by sending some messages with malicious commands. | https://github.com/Aiminsun/CVE-2021-36260 | | 
-| 20211027T20:05:53Z | CVE-2021-41728 | Information about CVE-2021-41728, a reflected XSS in the search function. | https://github.com/Dir0x/CVE-2021-41728 | | 
-| 20211027T14:35:36Z | cve-2021-41773 | cve-2021-41773.py is a python script that will help in finding Path Traversal or Remote Code Execution vulnerability in Apache 2.4.49 | https://github.com/walnutsecurity/cve-2021-41773 | | 
-| 20211027T14:34:41Z | CVE-2021-42013 | cve-2021-42013.py is a python script that will help in finding Path Traversal or Remote Code Execution vulnerability in Apache 2.4.50 | https://github.com/walnutsecurity/CVE-2021-42013 | | 
-| 20211027T11:39:31Z | CVE-2021-34486 | Null | https://github.com/b1tg/CVE-2021-34486-exp | | 
-| 20211027T11:32:51Z | cve-2021-20837 | PoC for the CVE-2021-20837 : RCE in MovableType | https://github.com/ghost-nemesis/cve-2021-20837-poc | | 
-| 20211027T09:23:13Z | CVE-2021-22005 | Null | https://github.com/Jun-5heng/CVE-2021-22005 | | 
-| 20211027T04:21:06Z | CVE-2021-32789 | WooCommerce exploit | https://github.com/andnorack/CVE-2021-32789 | | 
+| 20211028T11:57:34Z | CVE-2021-22205 | Null | https://github.com/mr-r3bot/Gitlab-CVE-2021-22205 | | 
+| 20211028T11:52:56Z | CVE-2021-40438 | Null | https://github.com/BabyTeam1024/CVE-2021-40438 | | 
+| 20211028T11:30:56Z | CVE-2021-22205 | Pocsuite3 For CVE-2021-22205 | https://github.com/RedTeamWing/CVE-2021-22205 | | 
+| 20211028T09:55:38Z | CVE-2021-36260 | command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input validation, attacker can exploit the vulnerability to launch a command injection attack by sending some messages with malicious commands. | https://github.com/Aiminsun/CVE-2021-36260 | | 
+| 20211028T09:08:33Z | cve-2021-42013 | cve-2021-42013.py is a python script that will help in finding Path Traversal or Remote Code Execution vulnerability in Apache 2.4.50 | https://github.com/walnutsecurity/cve-2021-42013 | | 
+| 20211028T07:46:01Z | CVE-2021-36260 | CVE-2021-36260 | https://github.com/rabbitsafe/CVE-2021-36260 | | 
+| 20211028T07:37:03Z | CVE-2020-0668 | Made CVE-2020-0668 exploit work for version < win10 v1903 and version >= win10 v1903 | https://github.com/ycdxsb/CVE-2020-0668 | | 
+| 20211028T07:22:05Z | CVE-2021-31862 | Null | https://github.com/RobertDra/CVE-2021-31862 | | 
+| 20211028T06:33:51Z | CVE-2021-40449 | windows 10 14393 LPE | https://github.com/KaLendsi/CVE-2021-40449-Exploit | | 
+| 20211028T05:48:41Z | CVE-2021-41773 | A Zeek package which raises notices for Path Traversal/RCE in Apache HTTP Server 2.4.49 (CVE-2021-41773) and 2.4.50 (CVE-2021-42013) | https://github.com/corelight/CVE-2021-41773 | | 
 
 
 # klee on Github 推荐
@@ -76,8 +76,8 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211028T00:50:35Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 175 | 39| 
-| 20211027T02:45:45Z | 🎻 Requiem: Modular exploit generation using symbolic execution | https://github.com/aesophor/requiem | 13 | 3| 
+| 20211028T09:54:59Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 176 | 39| 
+| 20211028T09:53:56Z | 🎻 Requiem: Modular exploit generation using symbolic execution | https://github.com/aesophor/requiem | 14 | 3| 
 | 20211020T18:40:35Z | Null | https://github.com/yuvalkirstain/s2e-coref | 17 | 7| 
 | 20211020T04:35:04Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 76 | 31| 
 | 20211019T08:33:26Z | jhirschm | https://github.com/jhirschm/S2E_PhotoinjectorLaserModel | 0 | 0| 
@@ -88,16 +88,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211028T01:51:45Z | Resources for Session Exploit Development 101 for Null Humla | https://github.com/MalavVyas/ExploitDevelopment101 | 0 | 0| 
-| 20211028T01:26:00Z | docker漏洞环境搭建大合集，每个文件夹对应一个漏洞，内含exploit代码，文档均在README.md | https://github.com/warmilk/myVulHub | 0 | 0| 
-| 20211028T01:24:47Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6070 | 1448| 
-| 20211028T01:23:32Z | This is a space where I share some shellcodes that I wrote in ASM x86 and x64 when I was developing exploits for the windows platform | https://github.com/sasaga/SHELLCODES-WINDOWS | 1 | 0| 
-| 20211028T01:03:25Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 33 | 19| 
-| 20211028T01:03:06Z | literally exploiting gg | https://github.com/lunirae/roblox-exploits | 0 | 0| 
-| 20211028T01:01:05Z | How to exploit a double free vulnerability in 2021. %Use-After-Free for Dummies% | https://github.com/stong/how-to-exploit-a-double-free | 650 | 36| 
-| 20211028T00:38:51Z | Null | https://github.com/xiluna/Jinja2-ExploitMe | 0 | 0| 
-| 20211028T00:32:28Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | 0 | 0| 
-| 20211028T00:01:15Z | Gigatron program and operating-system level things to exploit a SD card attached to the SPI interface of a RAM & IO expansion board. | https://github.com/lb3361/gigatron-os | 0 | 0| 
+| 20211028T11:58:59Z | Phishing seeks to extract personal information or access from the end person by coercive communications. This type of interaction is especially efficient, since attackers will also exploit public information to generate convincing emails while impersonating somebody trustworthy—maybe even individuals inside the target company.  The key issue of a well-organized phishing operation is that it is frequently used as a starting step for broader attacks by attackers. Similarly, Infopercept expertly customises each phishing appraisal of the employees of the company and investigates the full potential of a good compromise in unprecedented depth, concluding with a comprehensive social engineering analysis.  Visit Now: https://www.infopercept.com/email-phishing-assessment | https://github.com/digitalinfopercept/Email-Phishing-Assessment | 0 | 0| 
+| 20211028T11:45:47Z | Zero-day and Exploit code of some  applications | https://github.com/mustgundogdu/Research | 2 | 1| 
+| 20211028T11:28:45Z | Cobalt Strike is a powerful threat emulation tool that provides a post-exploitation agent and covert channels ideal for Adversary Simulations and Red Team exercises. With Cobalt Strike, companies can emulate the tactics and techniques of a quiet long-term embedded threat actor in an IT network. Malleable C2 lets you change your network indicators to look like different malware each time. These tools complement Cobalt Strike%s solid social engineering process, its robust collaboration capability, and unique reports designed to aid blue team training. | https://github.com/XRSec/CobaltStrike-Update | 2 | 1| 
+| 20211028T11:03:12Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 33 | 19| 
+| 20211028T10:47:31Z | Geohazards Thematic Exploitation guide | https://github.com/Terradue/doc-tep-geohazards | 9 | 26| 
+| 20211028T09:55:38Z | command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input validation, attacker can exploit the vulnerability to launch a command injection attack by sending some messages with malicious commands. | https://github.com/Aiminsun/CVE-2021-36260 | 11 | 10| 
+| 20211028T07:37:03Z | Made CVE-2020-0668 exploit work for version < win10 v1903 and version >= win10 v1903 | https://github.com/ycdxsb/CVE-2020-0668 | 0 | 1| 
+| 20211028T07:19:53Z | Tool for searching Exploits from Exploit Databases, etc. | https://github.com/vulsio/go-exploitdb | 128 | 38| 
+| 20211028T06:47:22Z | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | 2957 | 653| 
+| 20211028T06:45:16Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 14| 
 
 
 # backdoor on Github 推荐
@@ -142,16 +142,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211028T01:51:23Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 195 | 37| 
-| 20211028T01:50:24Z | Null | https://github.com/LimeEng/magpie-fuzz | 0 | 0| 
-| 20211028T01:45:29Z | This Repository is for maintaining RegressFuzz settings | https://github.com/hanyoungYoo/RegressFuzzSetting | 0 | 0| 
-| 20211028T01:39:16Z | Null | https://github.com/oscarpimentel/fuzzy-tools | 0 | 0| 
-| 20211028T01:08:52Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6759 | 1404| 
-| 20211028T01:08:17Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4589 | 469| 
-| 20211028T00:07:46Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 32 | 12| 
-| 20211028T00:04:39Z | Null | https://github.com/solo-studios/kt-fuzzy | 1 | 0| 
-| 20211027T23:03:05Z | Einfach schön | https://github.com/Antigarantie/Fuzzy-Roboter | 0 | 0| 
-| 20211027T22:35:15Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
+| 20211028T11:48:14Z | Null | https://github.com/Voinduha/fuzzy-broccoli | 0 | 0| 
+| 20211028T11:39:14Z | Null | https://github.com/halloween-ideass/fuzzy-telegram | 0 | 0| 
+| 20211028T11:37:21Z | A few resources for fuzzing | https://github.com/zyingp/fuzzing_resources | 1 | 0| 
+| 20211028T11:19:23Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 311 | 40| 
+| 20211028T11:07:53Z | Null | https://github.com/98210184/Trajectory-Tracking-of-8DOF-Tiltrotor-via-Fuzzy-Sliding-Mode-Control-with-Fuzzy-Identification | 1 | 0| 
+| 20211028T10:24:09Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6759 | 1404| 
+| 20211028T10:19:05Z | Config files for my GitHub profile. | https://github.com/Fuzzybook1324/Fuzzybook1324 | 0 | 0| 
+| 20211028T10:06:07Z | A grammar based feedback Fuzzer | https://github.com/nautilus-fuzz/nautilus | 261 | 33| 
+| 20211028T09:06:54Z | Fuzzy matching algorithm based on Sublime Text%s string search | https://github.com/jcs-elpa/sublime-fuzzy | 0 | 2| 
+| 20211028T08:38:22Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 
 
 
