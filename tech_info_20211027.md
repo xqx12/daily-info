@@ -72,8 +72,8 @@
 | 20211027T14:45:31Z | Quickly create a backdoor on the US Cyber Range Dual Environment | https://github.com/cyber-org/backdoor | 0 | 1| 
 | 20211027T14:22:53Z | This is an implementation demo of the ICLR 2021 paper [Neural Attention Distillation: Erasing Backdoor Triggers from Deep Neural Networks](https://openreview.net/pdf?id=9l0K4OM-oXE) in PyTorch. | https://github.com/bboylyg/NAD | 45 | 8| 
 | 20211027T12:36:51Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 36 | 28| 
-| 20211027T11:44:27Z | The insane hackerman backdoor. | https://github.com/Bakdooro/Bakdooro | 10 | 2| 
 | 20211027T11:06:55Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1472 | 373| 
+| 20211027T10:00:09Z | I created this script to help make it easier for you to directly attack index.php on the website | https://github.com/SourCode-Z/Shell-Backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐

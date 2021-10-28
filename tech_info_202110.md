@@ -103,6 +103,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211028T00:51:57Z | The insane hackerman backdoor. | https://github.com/Bakdooro/Bakdooro | 10 | 2| 
 | 20211028T00:16:56Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 346 | 62| 
 | 20211028T00:10:00Z | Null | https://github.com/Fartlicker777/Backdoor-Hacking | 0 | 0| 
 | 20211027T23:06:08Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 104 | 25| 
@@ -112,7 +113,6 @@
 | 20211027T14:58:23Z | Python-based Backdoor. | https://github.com/Senc3951/Backdoor | 0 | 0| 
 | 20211027T14:45:31Z | Quickly create a backdoor on the US Cyber Range Dual Environment | https://github.com/cyber-org/backdoor | 0 | 1| 
 | 20211027T14:22:53Z | This is an implementation demo of the ICLR 2021 paper [Neural Attention Distillation: Erasing Backdoor Triggers from Deep Neural Networks](https://openreview.net/pdf?id=9l0K4OM-oXE) in PyTorch. | https://github.com/bboylyg/NAD | 45 | 8| 
-| 20211027T12:36:51Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 36 | 28| 
 
 
 # symbolic execution on Github 推荐
