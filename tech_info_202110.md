@@ -46,23 +46,24 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211027T23:47:36Z | 未知编号 | For IS713 Project | https://github.com/sinjeanmin/cvedetails_2020 | | 
+| 20211027T23:29:24Z | CVE-2021-36260 | command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input validation, attacker can exploit the vulnerability to launch a command injection attack by sending some messages with malicious commands. | https://github.com/Aiminsun/CVE-2021-36260 | | 
+| 20211027T20:05:53Z | CVE-2021-41728 | Information about CVE-2021-41728, a reflected XSS in the search function. | https://github.com/Dir0x/CVE-2021-41728 | | 
+| 20211027T19:56:06Z | CVE-2021-36260 | CVE-2021-36260 | https://github.com/rabbitsafe/CVE-2021-36260 | | 
+| 20211027T14:35:36Z | cve-2021-41773 | cve-2021-41773.py is a python script that will help in finding Path Traversal or Remote Code Execution vulnerability in Apache 2.4.49 | https://github.com/walnutsecurity/cve-2021-41773 | | 
+| 20211027T14:34:41Z | CVE-2021-42013 | cve-2021-42013.py is a python script that will help in finding Path Traversal or Remote Code Execution vulnerability in Apache 2.4.50 | https://github.com/walnutsecurity/CVE-2021-42013 | | 
 | 20211027T11:39:31Z | CVE-2021-34486 | Null | https://github.com/b1tg/CVE-2021-34486-exp | | 
 | 20211027T11:32:51Z | cve-2021-20837 | PoC for the CVE-2021-20837 : RCE in MovableType | https://github.com/ghost-nemesis/cve-2021-20837-poc | | 
 | 20211027T09:23:13Z | CVE-2021-22005 | Null | https://github.com/Jun-5heng/CVE-2021-22005 | | 
 | 20211027T04:21:06Z | CVE-2021-32789 | WooCommerce exploit | https://github.com/andnorack/CVE-2021-32789 | | 
-| 20211027T02:30:42Z | CVE-2021-26084 | CVE-2021-26084，Atlassian Confluence OGNL注入漏洞 | https://github.com/lleavesl/CVE-2021-26084 | | 
-| 20211026T23:14:12Z | CVE-2021-40449 | My exploit for CVE-2021-40449, a Windows LPE via a UAF in win32kfull!GreResetDCInternal. | https://github.com/hakivvi/CVE-2021-40449 | | 
-| 20211026T21:05:17Z | CVE-2021-41773 | Ce programme permet de détecter une faille RCE sur les serveurs Apache 2.4.49 et Apache 2.4.50 | https://github.com/Balgogan/CVE-2021-41773 | | 
-| 20211026T18:04:45Z | CVE-2021-41773 | Remote Code Execution exploit for Apache servers. Affected versions: Apache 2.4.49, Apache 2.4.50 | https://github.com/mr-exo/CVE-2021-41773 | | 
-| 20211026T16:51:50Z | CVE-2021-22204 | Null | https://github.com/AssassinUKG/CVE-2021-22204 | | 
-| 20211026T14:34:26Z | CVE-2021-30573 | Google Chrome Vulnerabilities CVE-2021-30573 | https://github.com/oxctdev/CVE-2021-30573 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211027T13:08:25Z | Null | https://github.com/timoodada/klee | 0 | 0| 
 | 20211027T12:20:13Z | Null | https://github.com/ayazip/witch-klee | 0 | 0| 
-| 20211027T11:06:42Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1795 | 510| 
+| 20211027T11:06:42Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1795 | 511| 
 | 20211027T09:09:36Z | Personal Blog | https://github.com/klee1611/klee1611.github.io | 1 | 1| 
 | 20211027T07:03:46Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2879 | 79| 
 | 20211026T19:38:35Z | CLI and HTTP application for running static analysis of rust-based smart contracts | https://github.com/LedgerProject/safepkt_backend | 0 | 1| 
@@ -70,7 +71,6 @@
 | 20211026T07:56:16Z | This font is based on the font Klee One by Fontworks, and the font LXGW WenKai by LXGW for adding Simplified and Traditional Chinese character glyphs. The pinyin characters are added by ToneOZ.com using the open source tool Mengshen, with the IVS heteronyms font concept from the Bopomofo IVS by But Ko. | https://github.com/jeffreyxuan/toneoz-font-pinyin-wenkai | 12 | 0| 
 | 20211026T03:55:35Z | Config files for my GitHub profile. | https://github.com/kleesfca2016/kleesfca2016 | 0 | 0| 
 | 20211024T11:07:56Z | Minecraft Mod. Allows breaking only one half of a double slab block. | https://github.com/ModdingForBlockheads/KleeSlabs | 9 | 3| 
-| 20211023T12:43:22Z | External audio preamp board for the RP2A03 | https://github.com/Gumball2415/squeeki-kleen-Audio-FC | 1 | 0| 
 
 
 # s2e on Github 推荐
@@ -88,31 +88,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211027T12:47:57Z | Null | https://github.com/zbh888/SecurityExploit | 0 | 0| 
-| 20211027T12:25:57Z | Null | https://github.com/Exh2021108/Exploits-X-Bedwars-Script | 0 | 0| 
-| 20211027T12:24:38Z | Null | https://github.com/p0dalirius/binaryexploitation | 4 | 0| 
-| 20211027T12:03:23Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 33 | 19| 
-| 20211027T11:56:32Z | Cobalt Strike is a powerful threat emulation tool that provides a post-exploitation agent and covert channels ideal for Adversary Simulations and Red Team exercises. With Cobalt Strike, companies can emulate the tactics and techniques of a quiet long-term embedded threat actor in an IT network. Malleable C2 lets you change your network indicators to look like different malware each time. These tools complement Cobalt Strike%s solid social engineering process, its robust collaboration capability, and unique reports designed to aid blue team training. | https://github.com/XRSec/CobaltStrike-Update | 0 | 0| 
-| 20211027T11:50:14Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 3673 | 1266| 
-| 20211027T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10248 | 1757| 
-| 20211027T11:06:55Z | The world has not been the same since the outbreak and ending of World War 3 in the same year, 2079, when the “Developing Countries” in Africa and Asia finally rebelled against the exploitation by the western “industrial countries”. A massive launching of nuclear and “space” weapons on the side of the latter not only quenched the rebellion, it also caused considerable and irrevocable damage to the very structure of Universe. | https://github.com/4dmud/mud | 2 | 2| 
-| 20211027T10:50:20Z | A useful reset button for anyone exploiting on r64 | https://github.com/Justtryingtmakecode/true-reset | 0 | 0| 
-| 20211027T10:44:20Z | this bash script is for remote linux and macos hosts hacked! | https://github.com/FabioDefilippo/linuxallenum | 17 | 0| 
+| 20211027T23:56:57Z | How to exploit a double free vulnerability in 2021. %Use-After-Free for Dummies% | https://github.com/stong/how-to-exploit-a-double-free | 642 | 36| 
+| 20211027T23:43:00Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 80 | 150| 
+| 20211027T23:26:25Z | Null | https://github.com/tjonty/exploit | 0 | 0| 
+| 20211027T23:05:46Z | Programs for exploring disassembling and buffer overflows for Vanderbilt CS 6387 | https://github.com/wutka/exploits_6387 | 0 | 0| 
+| 20211027T23:05:45Z | this is a work-in-progress windows remote access trojan written in python and c++, used for exploiting different attack vectors to deploy a payload | https://github.com/by7ebull3t/darkharvest | 0 | 0| 
+| 20211027T23:04:28Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 245 | 13| 
+| 20211027T23:03:05Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 33 | 19| 
+| 20211027T22:59:49Z | Fix exploits on anarchy minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 92 | 21| 
+| 20211027T22:23:45Z | A fast and lightweight non-skidded client to server environment emulator | https://github.com/GRIPPERTV/Green-Server | 0 | 0| 
+| 20211027T22:18:26Z | Null | https://github.com/alexprzt/Roblox-Exploiting | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211027T23:06:08Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 104 | 25| 
+| 20211027T22:39:52Z | another PHP backdoor   | https://github.com/mathio3/BabDoor | 0 | 0| 
+| 20211027T22:23:45Z | A fast and lightweight non-skidded client to server environment emulator | https://github.com/GRIPPERTV/Green-Server | 0 | 0| 
+| 20211027T17:30:12Z | Backdoors Framework for Deep Learning and Federated Learning. A light-weight tool to conduct your research on backdoors. | https://github.com/ebagdasa/backdoors101 | 134 | 31| 
+| 20211027T14:58:23Z | Python-based Backdoor. | https://github.com/Senc3951/Backdoor | 0 | 0| 
+| 20211027T14:45:31Z | Quickly create a backdoor on the US Cyber Range Dual Environment | https://github.com/cyber-org/backdoor | 0 | 1| 
+| 20211027T14:22:53Z | This is an implementation demo of the ICLR 2021 paper [Neural Attention Distillation: Erasing Backdoor Triggers from Deep Neural Networks](https://openreview.net/pdf?id=9l0K4OM-oXE) in PyTorch. | https://github.com/bboylyg/NAD | 45 | 8| 
 | 20211027T12:36:51Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 36 | 28| 
 | 20211027T11:44:27Z | The insane hackerman backdoor. | https://github.com/Bakdooro/Bakdooro | 10 | 2| 
 | 20211027T11:06:55Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1472 | 373| 
-| 20211027T10:00:09Z | I created this script to help make it easier for you to directly attack index.php on the website | https://github.com/SourCode-Z/Shell-Backdoor | 0 | 0| 
-| 20211027T07:58:05Z | Null | https://github.com/THUYimingLi/BackdoorBox | 1 | 1| 
-| 20211027T07:39:43Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 345 | 62| 
-| 20211027T06:11:38Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 104 | 25| 
-| 20211027T05:28:14Z | Null | https://github.com/Fartlicker777/Backdoor-Hacking | 0 | 0| 
-| 20211027T04:20:29Z | Anti-Backdoor learning (NeurIPS 2021) | https://github.com/bboylyg/ABL | 7 | 0| 
-| 20211027T01:35:22Z | Null | https://github.com/csdongxian/ANP_backdoor | 3 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -142,16 +142,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211027T12:58:22Z | Library and command line utility to do approximate string matching of a source against a bitext index and get matched source and target.  | https://github.com/SYSTRAN/fuzzy-match | 24 | 4| 
-| 20211027T12:55:07Z | Null | https://github.com/fuzzingworkshop/fuzzingworkshop.github.io | 0 | 0| 
-| 20211027T12:52:36Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20211027T12:45:10Z | Null | https://github.com/ManimozhiTamilmani/fuzzy-computing-machine | 0 | 0| 
-| 20211027T12:42:40Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3756 | 888| 
-| 20211027T12:35:28Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
-| 20211027T12:24:53Z | CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 1 | 0| 
-| 20211027T12:19:24Z | Black-box fuzzer that fuzzes APIs based on OpenAPI specification. Find bugs for free! | https://github.com/matusf/openapi-fuzzer | 16 | 0| 
-| 20211027T12:15:18Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 32 | 12| 
-| 20211027T12:07:41Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1089 | 48| 
+| 20211027T23:03:05Z | Einfach schön | https://github.com/Antigarantie/Fuzzy-Roboter | 0 | 0| 
+| 20211027T23:01:59Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6758 | 1404| 
+| 20211027T22:35:15Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
+| 20211027T22:06:44Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 311 | 40| 
+| 20211027T22:05:39Z | Config files for my GitHub profile. | https://github.com/RandomlyFuzzy/RandomlyFuzzy | 0 | 0| 
+| 20211027T22:02:03Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20211027T21:56:59Z | File Tree Fuzzer allows you to create a pseudo-random directory hierarchy filled with some number of files. | https://github.com/SUPERCILEX/ftzz | 2 | 0| 
+| 20211027T21:28:48Z | Null | https://github.com/TinchoOlivari/fuzzy-barnacle | 0 | 0| 
+| 20211027T21:12:50Z | JQF + Zest: Coverage-guided semantic fuzzing for Java. | https://github.com/rohanpadhye/JQF | 405 | 61| 
+| 20211027T20:23:16Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
 
 
 
