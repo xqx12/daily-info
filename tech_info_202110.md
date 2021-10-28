@@ -103,6 +103,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211028T00:10:00Z | Null | https://github.com/Fartlicker777/Backdoor-Hacking | 0 | 0| 
 | 20211027T23:06:08Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 104 | 25| 
 | 20211027T22:39:52Z | another PHP backdoor   | https://github.com/mathio3/BabDoor | 0 | 0| 
 | 20211027T22:23:45Z | A fast and lightweight non-skidded client to server environment emulator | https://github.com/GRIPPERTV/Green-Server | 0 | 0| 
@@ -112,7 +113,6 @@
 | 20211027T14:22:53Z | This is an implementation demo of the ICLR 2021 paper [Neural Attention Distillation: Erasing Backdoor Triggers from Deep Neural Networks](https://openreview.net/pdf?id=9l0K4OM-oXE) in PyTorch. | https://github.com/bboylyg/NAD | 45 | 8| 
 | 20211027T12:36:51Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 36 | 28| 
 | 20211027T11:44:27Z | The insane hackerman backdoor. | https://github.com/Bakdooro/Bakdooro | 10 | 2| 
-| 20211027T11:06:55Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1472 | 373| 
 
 
 # symbolic execution on Github 推荐
