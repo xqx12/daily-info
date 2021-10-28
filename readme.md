@@ -97,7 +97,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20211027T23:03:05Z | Einfach schön | https://github.com/Antigarantie/Fuzzy-Roboter | 0 | 0| 
-| 20211027T23:01:59Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6758 | 1404| 
 | 20211027T22:35:15Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20211027T22:06:44Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 311 | 40| 
 | 20211027T22:05:39Z | Config files for my GitHub profile. | https://github.com/RandomlyFuzzy/RandomlyFuzzy | 0 | 0| 
@@ -106,6 +105,7 @@
 | 20211027T21:28:48Z | Null | https://github.com/TinchoOlivari/fuzzy-barnacle | 0 | 0| 
 | 20211027T21:12:50Z | JQF + Zest: Coverage-guided semantic fuzzing for Java. | https://github.com/rohanpadhye/JQF | 405 | 61| 
 | 20211027T20:23:16Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
+| 20211027T20:11:53Z | Null | https://github.com/oscarpimentel/fuzzy-tools | 0 | 0| 
 
 
 
