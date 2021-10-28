@@ -105,7 +105,7 @@
 | 20211027T21:28:48Z | Null | https://github.com/TinchoOlivari/fuzzy-barnacle | 0 | 0| 
 | 20211027T21:12:50Z | JQF + Zest: Coverage-guided semantic fuzzing for Java. | https://github.com/rohanpadhye/JQF | 405 | 61| 
 | 20211027T20:23:16Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
-| 20211027T20:11:53Z | Null | https://github.com/oscarpimentel/fuzzy-tools | 0 | 0| 
+| 20211027T20:11:36Z | Sound and Cost-effective Fuzzing of Stripped Binaries by Incremental and Stochastic Rewriting | https://github.com/ZhangZhuoSJTU/StochFuzz | 105 | 3| 
 
 
 
