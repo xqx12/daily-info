@@ -88,7 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211028T00:03:44Z | How to exploit a double free vulnerability in 2021. %Use-After-Free for Dummies% | https://github.com/stong/how-to-exploit-a-double-free | 643 | 36| 
+| 20211028T00:17:49Z | How to exploit a double free vulnerability in 2021. %Use-After-Free for Dummies% | https://github.com/stong/how-to-exploit-a-double-free | 644 | 36| 
 | 20211028T00:03:21Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 33 | 19| 
 | 20211028T00:01:15Z | Gigatron program and operating-system level things to exploit a SD card attached to the SPI interface of a RAM & IO expansion board. | https://github.com/lb3361/gigatron-os | 0 | 0| 
 | 20211027T23:43:00Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 80 | 150| 
