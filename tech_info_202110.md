@@ -88,14 +88,14 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211028T00:03:44Z | How to exploit a double free vulnerability in 2021. %Use-After-Free for Dummies% | https://github.com/stong/how-to-exploit-a-double-free | 643 | 36| 
+| 20211028T00:03:21Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 33 | 19| 
 | 20211028T00:01:15Z | Gigatron program and operating-system level things to exploit a SD card attached to the SPI interface of a RAM & IO expansion board. | https://github.com/lb3361/gigatron-os | 0 | 0| 
-| 20211027T23:56:57Z | How to exploit a double free vulnerability in 2021. %Use-After-Free for Dummies% | https://github.com/stong/how-to-exploit-a-double-free | 642 | 36| 
 | 20211027T23:43:00Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 80 | 150| 
 | 20211027T23:26:25Z | Null | https://github.com/tjonty/exploit | 0 | 0| 
 | 20211027T23:05:46Z | Programs for exploring disassembling and buffer overflows for Vanderbilt CS 6387 | https://github.com/wutka/exploits_6387 | 0 | 0| 
 | 20211027T23:05:45Z | this is a work-in-progress windows remote access trojan written in python and c++, used for exploiting different attack vectors to deploy a payload | https://github.com/by7ebull3t/darkharvest | 0 | 0| 
 | 20211027T23:04:28Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 245 | 13| 
-| 20211027T23:03:05Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 33 | 19| 
 | 20211027T22:59:49Z | Fix exploits on anarchy minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 92 | 21| 
 | 20211027T22:23:45Z | A fast and lightweight non-skidded client to server environment emulator | https://github.com/GRIPPERTV/Green-Server | 0 | 0| 
 
@@ -118,16 +118,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211027T11:06:42Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1795 | 510| 
-| 20211027T10:10:40Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 163 | 36| 
+| 20211027T22:05:57Z | Symbolica%s open-source symbolic execution engine. | https://github.com/Symbolica/Symbolica | 39 | 2| 
+| 20211027T16:39:51Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 163 | 36| 
+| 20211027T16:15:23Z | A tool for generating nonlinear numerical invariants for C and Java programs.  DIG uses dynamic analysis to infer invariants over program execution traces and applies symbolic execution to inferred invariants. | https://github.com/unsat/dig | 9 | 4| 
+| 20211027T14:47:21Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 18 | 4| 
+| 20211027T11:06:42Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1795 | 511| 
 | 20211027T02:45:45Z | 🎻 Requiem: Modular exploit generation using symbolic execution | https://github.com/aesophor/requiem | 13 | 3| 
-| 20211027T02:18:29Z | A tool for generating nonlinear numerical invariants for C and Java programs.  DIG uses dynamic analysis to infer invariants over program execution traces and applies symbolic execution to inferred invariants. | https://github.com/unsat/dig | 9 | 4| 
 | 20211026T06:24:19Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 9 | 4| 
 | 20211026T03:28:33Z | Verifying constant-time code with symbolic execution | https://github.com/PLSysSec/haybale-pitchfork | 34 | 0| 
 | 20211026T00:02:18Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1904 | 397| 
-| 20211025T20:10:11Z | Symbolica%s open-source symbolic execution engine. | https://github.com/Symbolica/Symbolica | 39 | 2| 
 | 20211025T18:47:42Z | Symbolic execution of LLVM IR with an engine written in Rust | https://github.com/PLSysSec/haybale | 334 | 16| 
-| 20211025T12:12:06Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 18 | 4| 
 
 
 # big4 on Github 推荐

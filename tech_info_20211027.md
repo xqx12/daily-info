@@ -49,16 +49,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211027T23:56:57Z | How to exploit a double free vulnerability in 2021. %Use-After-Free for Dummies% | https://github.com/stong/how-to-exploit-a-double-free | 642 | 36| 
 | 20211027T23:43:00Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 80 | 150| 
 | 20211027T23:26:25Z | Null | https://github.com/tjonty/exploit | 0 | 0| 
 | 20211027T23:05:46Z | Programs for exploring disassembling and buffer overflows for Vanderbilt CS 6387 | https://github.com/wutka/exploits_6387 | 0 | 0| 
 | 20211027T23:05:45Z | this is a work-in-progress windows remote access trojan written in python and c++, used for exploiting different attack vectors to deploy a payload | https://github.com/by7ebull3t/darkharvest | 0 | 0| 
 | 20211027T23:04:28Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 245 | 13| 
-| 20211027T23:03:05Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 33 | 19| 
 | 20211027T22:59:49Z | Fix exploits on anarchy minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 92 | 21| 
 | 20211027T22:23:45Z | A fast and lightweight non-skidded client to server environment emulator | https://github.com/GRIPPERTV/Green-Server | 0 | 0| 
 | 20211027T22:18:26Z | Null | https://github.com/alexprzt/Roblox-Exploiting | 0 | 0| 
+| 20211027T22:11:33Z | Project 01- Softare Security, Eval Function Exploit | https://github.com/Alegarciy/SS-P1_Py_Exploit | 0 | 0| 
+| 20211027T21:56:20Z | The world has not been the same since the outbreak and ending of World War 3 in the same year, 2079, when the “Developing Countries” in Africa and Asia finally rebelled against the exploitation by the western “industrial countries”. A massive launching of nuclear and “space” weapons on the side of the latter not only quenched the rebellion, it also caused considerable and irrevocable damage to the very structure of Universe. | https://github.com/4dmud/mud | 2 | 3| 
 
 
 # backdoor on Github 推荐
@@ -79,10 +79,12 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211027T11:06:42Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1795 | 510| 
-| 20211027T10:10:40Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 163 | 36| 
+| 20211027T22:05:57Z | Symbolica%s open-source symbolic execution engine. | https://github.com/Symbolica/Symbolica | 39 | 2| 
+| 20211027T16:39:51Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 163 | 36| 
+| 20211027T16:15:23Z | A tool for generating nonlinear numerical invariants for C and Java programs.  DIG uses dynamic analysis to infer invariants over program execution traces and applies symbolic execution to inferred invariants. | https://github.com/unsat/dig | 9 | 4| 
+| 20211027T14:47:21Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 18 | 4| 
+| 20211027T11:06:42Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1795 | 511| 
 | 20211027T02:45:45Z | 🎻 Requiem: Modular exploit generation using symbolic execution | https://github.com/aesophor/requiem | 13 | 3| 
-| 20211027T02:18:29Z | A tool for generating nonlinear numerical invariants for C and Java programs.  DIG uses dynamic analysis to infer invariants over program execution traces and applies symbolic execution to inferred invariants. | https://github.com/unsat/dig | 9 | 4| 
 
 
 # big4 on Github 推荐
