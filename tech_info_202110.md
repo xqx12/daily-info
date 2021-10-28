@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211028T12:48:12Z | CVE-2021-22205 | Null | https://github.com/mr-r3bot/Gitlab-CVE-2021-22205 | | 
+| 20211028T12:52:12Z | CVE-2021-22205 | Null | https://github.com/mr-r3bot/Gitlab-CVE-2021-22205 | | 
 | 20211028T11:52:56Z | CVE-2021-40438 | Null | https://github.com/BabyTeam1024/CVE-2021-40438 | | 
 | 20211028T11:30:56Z | CVE-2021-22205 | Pocsuite3 For CVE-2021-22205 | https://github.com/RedTeamWing/CVE-2021-22205 | | 
 | 20211028T09:55:38Z | CVE-2021-36260 | command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input validation, attacker can exploit the vulnerability to launch a command injection attack by sending some messages with malicious commands. | https://github.com/Aiminsun/CVE-2021-36260 | | 
@@ -142,6 +142,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211028T12:52:23Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211028T12:31:52Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6759 | 1404| 
 | 20211028T11:48:14Z | Null | https://github.com/Voinduha/fuzzy-broccoli | 0 | 0| 
 | 20211028T11:39:14Z | Null | https://github.com/halloween-ideass/fuzzy-telegram | 0 | 0| 
@@ -151,7 +152,6 @@
 | 20211028T10:19:05Z | Config files for my GitHub profile. | https://github.com/Fuzzybook1324/Fuzzybook1324 | 0 | 0| 
 | 20211028T10:06:07Z | A grammar based feedback Fuzzer | https://github.com/nautilus-fuzz/nautilus | 261 | 33| 
 | 20211028T09:06:54Z | Fuzzy matching algorithm based on Sublime Text%s string search | https://github.com/jcs-elpa/sublime-fuzzy | 0 | 2| 
-| 20211028T08:38:22Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 
 
 
