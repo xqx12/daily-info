@@ -45,16 +45,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211028T12:04:21Z | This is plugin for 1.17 Spigot/Bukkit Minecraft%s servers. This plugin fixes BowExploit(BowBomb) that found recently. Meteor Client developers released their fix, but the problem is that it fixes vanills arrow mechanics. Together I with https://github.com/l1tecorejz we made a plugin that fixes the exploit and doesn%t %kill% vanilla arrow mechanics. Also made it possible to customize messages for warns/kick. | https://github.com/ArtikhackDeveloper/BowExploitFixer | 0 | 0| 
+| 20211028T12:03:47Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 33 | 19| 
 | 20211028T11:58:59Z | Phishing seeks to extract personal information or access from the end person by coercive communications. This type of interaction is especially efficient, since attackers will also exploit public information to generate convincing emails while impersonating somebody trustworthy—maybe even individuals inside the target company.  The key issue of a well-organized phishing operation is that it is frequently used as a starting step for broader attacks by attackers. Similarly, Infopercept expertly customises each phishing appraisal of the employees of the company and investigates the full potential of a good compromise in unprecedented depth, concluding with a comprehensive social engineering analysis.  Visit Now: https://www.infopercept.com/email-phishing-assessment | https://github.com/digitalinfopercept/Email-Phishing-Assessment | 0 | 0| 
 | 20211028T11:45:47Z | Zero-day and Exploit code of some  applications | https://github.com/mustgundogdu/Research | 2 | 1| 
 | 20211028T11:28:45Z | Cobalt Strike is a powerful threat emulation tool that provides a post-exploitation agent and covert channels ideal for Adversary Simulations and Red Team exercises. With Cobalt Strike, companies can emulate the tactics and techniques of a quiet long-term embedded threat actor in an IT network. Malleable C2 lets you change your network indicators to look like different malware each time. These tools complement Cobalt Strike%s solid social engineering process, its robust collaboration capability, and unique reports designed to aid blue team training. | https://github.com/XRSec/CobaltStrike-Update | 2 | 1| 
-| 20211028T11:03:12Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 33 | 19| 
 | 20211028T10:47:31Z | Geohazards Thematic Exploitation guide | https://github.com/Terradue/doc-tep-geohazards | 9 | 26| 
 | 20211028T09:55:38Z | command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input validation, attacker can exploit the vulnerability to launch a command injection attack by sending some messages with malicious commands. | https://github.com/Aiminsun/CVE-2021-36260 | 11 | 10| 
 | 20211028T07:37:03Z | Made CVE-2020-0668 exploit work for version < win10 v1903 and version >= win10 v1903 | https://github.com/ycdxsb/CVE-2020-0668 | 0 | 1| 
 | 20211028T07:19:53Z | Tool for searching Exploits from Exploit Databases, etc. | https://github.com/vulsio/go-exploitdb | 128 | 38| 
 | 20211028T06:47:22Z | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | 2957 | 653| 
-| 20211028T06:45:16Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 14| 
 
 
 # backdoor on Github 推荐
