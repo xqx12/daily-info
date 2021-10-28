@@ -118,6 +118,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211028T00:50:24Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 484 | 77| 
 | 20211028T00:28:46Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 9 | 4| 
 | 20211027T22:05:57Z | Symbolica%s open-source symbolic execution engine. | https://github.com/Symbolica/Symbolica | 39 | 2| 
 | 20211027T16:39:51Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 163 | 36| 
@@ -127,7 +128,6 @@
 | 20211027T02:45:45Z | 🎻 Requiem: Modular exploit generation using symbolic execution | https://github.com/aesophor/requiem | 13 | 3| 
 | 20211026T03:28:33Z | Verifying constant-time code with symbolic execution | https://github.com/PLSysSec/haybale-pitchfork | 34 | 0| 
 | 20211026T00:02:18Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1904 | 397| 
-| 20211025T18:47:42Z | Symbolic execution of LLVM IR with an engine written in Rust | https://github.com/PLSysSec/haybale | 334 | 16| 
 
 
 # big4 on Github 推荐
