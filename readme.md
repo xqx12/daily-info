@@ -21,13 +21,13 @@
 | 20211027T23:47:36Z | 未知编号 | For IS713 Project | https://github.com/sinjeanmin/cvedetails_2020 | | 
 | 20211027T23:29:24Z | CVE-2021-36260 | command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input validation, attacker can exploit the vulnerability to launch a command injection attack by sending some messages with malicious commands. | https://github.com/Aiminsun/CVE-2021-36260 | | 
 | 20211027T20:05:53Z | CVE-2021-41728 | Information about CVE-2021-41728, a reflected XSS in the search function. | https://github.com/Dir0x/CVE-2021-41728 | | 
-| 20211027T19:56:06Z | CVE-2021-36260 | CVE-2021-36260 | https://github.com/rabbitsafe/CVE-2021-36260 | | 
 | 20211027T14:35:36Z | cve-2021-41773 | cve-2021-41773.py is a python script that will help in finding Path Traversal or Remote Code Execution vulnerability in Apache 2.4.49 | https://github.com/walnutsecurity/cve-2021-41773 | | 
 | 20211027T14:34:41Z | CVE-2021-42013 | cve-2021-42013.py is a python script that will help in finding Path Traversal or Remote Code Execution vulnerability in Apache 2.4.50 | https://github.com/walnutsecurity/CVE-2021-42013 | | 
 | 20211027T11:39:31Z | CVE-2021-34486 | Null | https://github.com/b1tg/CVE-2021-34486-exp | | 
 | 20211027T11:32:51Z | cve-2021-20837 | PoC for the CVE-2021-20837 : RCE in MovableType | https://github.com/ghost-nemesis/cve-2021-20837-poc | | 
 | 20211027T09:23:13Z | CVE-2021-22005 | Null | https://github.com/Jun-5heng/CVE-2021-22005 | | 
 | 20211027T04:21:06Z | CVE-2021-32789 | WooCommerce exploit | https://github.com/andnorack/CVE-2021-32789 | | 
+| 20211027T02:30:42Z | CVE-2021-26084 | CVE-2021-26084，Atlassian Confluence OGNL注入漏洞 | https://github.com/lleavesl/CVE-2021-26084 | | 
 
 
 # klee on Github 推荐
