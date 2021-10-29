@@ -88,7 +88,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211029T12:47:57Z | After many requests, our team created a new Silent DOC Exploit for Microsoft Office. The purpose of this exploit is to silently infect victims upon opening the document. Furthermore, this exploit will convert an .EXE to .DOC or .XLS without any detection’s from antivirus. In addition, we guarantee the exploit is FUD for the entirety of your subscription. Furthermore, this is a private exploit by our team of 0Day Developers. Our method is completely new and we guarantee success with all subscriptions.  Using this exploit alongside one of our great Botnets will be very effective. | https://github.com/attakercyebr/exploit-doc-product-box | 0 | 0| 
+| 20211029T12:50:15Z | After many requests, our team created a new Silent DOC Exploit for Microsoft Office. The purpose of this exploit is to silently infect victims upon opening the document. Furthermore, this exploit will convert an .EXE to .DOC or .XLS without any detection’s from antivirus. In addition, we guarantee the exploit is FUD for the entirety of your subscription. Furthermore, this is a private exploit by our team of 0Day Developers. Our method is completely new and we guarantee success with all subscriptions.  Using this exploit alongside one of our great Botnets will be very effective. | https://github.com/attakercyebr/exploit-doc-product-box | 0 | 0| 
+| 20211029T12:49:36Z | Exploit tool for mail-masta plugin 1.0 for WordPress Local File Inclusion (LFI) vulnerability in count_of_send.php and csvexport.php. | https://github.com/p0dalirius/CVE-2016-10956_mail_masta | 0 | 0| 
 | 20211029T12:45:16Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 14| 
 | 20211029T12:44:00Z | How to exploit a double free vulnerability in 2021. %Use After Free for Dummies% | https://github.com/stong/how-to-exploit-a-double-free | 830 | 41| 
 | 20211029T12:40:38Z | A collection of more than 160+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 955 | 225| 
@@ -97,7 +98,6 @@
 | 20211029T12:00:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10259 | 1759| 
 | 20211029T11:51:14Z | Null | https://github.com/Anon-Exploiter/Anon-Exploiter | 2 | 4| 
 | 20211029T11:01:32Z | This is the official repository of the paper %Exploiting the Nature of Repetitive Actions fortheir Effective and Efficient Recognition%. We provide guidelines to generate the datasets that are used in this work, as well as any important documentation regarding the aspects of the proposed Human Activity Recognition (HAR) pipeline. | https://github.com/Bouclas/Repetitive-Action-Recognition | 0 | 0| 
-| 20211029T10:41:49Z | Collection of Discord hacking tools/fun stuff/exploits that is completely made using NodeJS. | https://github.com/I2rys/ODiscord | 14 | 9| 
 
 
 # backdoor on Github 推荐
