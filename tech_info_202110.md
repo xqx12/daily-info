@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211029T01:23:01Z | A collection of more than 160+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 954 | 225| 
 | 20211029T01:20:48Z | A PoC exploit written in Python to demonstrate the impact of an SQL Injection attack within the open-source web application “Online Motorcycle (Bike) Rental System 1.0” | https://github.com/DoctorZorka/-Online-Motorcycle-Bike-Rental-System-1.0---Blind-Time-Based-SQL-Injection-Unauthenticated- | 0 | 0| 
 | 20211029T01:12:32Z | Exploit of CVE-2017-7529 | https://github.com/rajesh457/CVE-2017-7529 | 0 | 0| 
 | 20211029T01:03:22Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 33 | 19| 
@@ -97,7 +98,6 @@
 | 20211029T00:15:30Z | Null | https://github.com/ArdXxX/New-World-Fast-Attack-Exploit | 0 | 0| 
 | 20211029T00:13:29Z | Null | https://github.com/Sergiorq1/Jinja2-ExploitMe | 0 | 0| 
 | 20211028T22:58:00Z | Null | https://github.com/chrismlee26/Jinja2-ExploitMe | 0 | 0| 
-| 20211028T22:39:10Z | Exploit kits (or exploit packs) are automated programs used by attackers to exploit known vulnerabilities in systems or applications. | https://github.com/Mario-Kart-Felix/Build-exploits-packages | 0 | 0| 
 
 
 # backdoor on Github 推荐
