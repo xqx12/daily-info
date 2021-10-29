@@ -16,10 +16,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211029T12:01:13Z | CVE-2021-22205 | Pocsuite3 For CVE-2021-22205 | https://github.com/RedTeamWing/CVE-2021-22205 | | 
 | 20211029T11:52:13Z | CVE-2021-22205 | CVE-2021-22205 Unauthorized RCE | https://github.com/r0eXpeR/CVE-2021-22205 | | 
 | 20211029T11:48:55Z | CVE-2021-36260 | command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input validation, attacker can exploit the vulnerability to launch a command injection attack by sending some messages with malicious commands. | https://github.com/Aiminsun/CVE-2021-36260 | | 
 | 20211029T11:25:32Z | 未知编号 | For IS713 Project | https://github.com/sinjeanmin/cvedetails_2020 | | 
-| 20211029T10:21:32Z | CVE-2021-22205 | Pocsuite3 For CVE-2021-22205 | https://github.com/RedTeamWing/CVE-2021-22205 | | 
 | 20211029T10:05:13Z | CVE-2021-22205 | Gitlab CE/EE RCE 未授权远程代码执行漏洞 POC && EXP CVE-2021-22205 | https://github.com/antx-code/CVE-2021-22205 | | 
 | 20211029T10:04:44Z | CVE-2021-22205 | CVE-2021-22205& GitLab CE/EE RCE | https://github.com/Al1ex/CVE-2021-22205 | | 
 | 20211029T09:21:17Z | CVE-2020-0668 | Make CVE-2020-0668 exploit work for version < win10 v1903 and version >= win10 v1903 | https://github.com/ycdxsb/CVE-2020-0668 | | 
@@ -31,6 +31,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211029T12:02:11Z | Web application for running static analysis of rust-based programs | https://github.com/LedgerProject/safepkt | 0 | 1| 
 | 20211029T11:48:01Z | CLI and HTTP application for running static analysis of rust-based smart contracts | https://github.com/LedgerProject/safepkt_backend | 0 | 1| 
 | 20211029T09:25:34Z | Kleedkamers DNK | https://github.com/krikkemd/kleedkamers | 0 | 0| 
 | 20211029T08:42:32Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 219 | 36| 
@@ -55,9 +56,9 @@
 | 20211029T11:03:00Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 34 | 19| 
 | 20211029T11:01:32Z | This is the official repository of the paper %Exploiting the Nature of Repetitive Actions fortheir Effective and Efficient Recognition%. We provide guidelines to generate the datasets that are used in this work, as well as any important documentation regarding the aspects of the proposed Human Activity Recognition (HAR) pipeline. | https://github.com/Bouclas/Repetitive-Action-Recognition | 0 | 0| 
 | 20211029T10:41:49Z | Collection of Discord hacking tools/fun stuff/exploits that is completely made using NodeJS. | https://github.com/I2rys/ODiscord | 14 | 9| 
+| 20211029T10:39:14Z | Allows jailbreak on ios devices using the new Fugu14 Exploit | https://github.com/VestigeNet/VSEC-JAILBREAK-IOS-14.5.1 | 0 | 0| 
 | 20211029T10:03:01Z | Projet système exploitation P18M groupe 1 (Arnaud/Vincent/Frederic/Claude) | https://github.com/Claudio4813/Reveil_berry | 0 | 0| 
 | 20211029T09:16:04Z | macos/ios exploit writeup | https://github.com/houjingyi233/macOS-iOS-system-security | 154 | 21| 
-| 20211029T08:55:33Z | how detect CVE-2020-2551 poc exploit python Weblogic RCE with IIOP | https://github.com/hktalent/CVE-2020-2551 | 161 | 37| 
 
 
 # backdoor on Github 推荐
@@ -78,12 +79,14 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211029T02:27:21Z | Symbolica%s open-source symbolic execution engine. | https://github.com/Symbolica/Symbolica | 40 | 2| 
 | 20211029T00:00:37Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 162 | 10| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211029T03:01:45Z | Code for the paper %FlowLens: Enabling Efficient Flow Classification for ML-based Network Security Applications% [NDSS %21] | https://github.com/dmbb/FlowLens | 12 | 1| 
 
 
 # fuzz on Github 推荐
