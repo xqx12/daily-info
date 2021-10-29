@@ -49,11 +49,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211029T12:03:07Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 34 | 19| 
 | 20211029T12:00:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10259 | 1759| 
 | 20211029T11:51:14Z | Null | https://github.com/Anon-Exploiter/Anon-Exploiter | 2 | 4| 
 | 20211029T11:27:29Z | How to exploit a double free vulnerability in 2021. %Use After Free for Dummies% | https://github.com/stong/how-to-exploit-a-double-free | 829 | 41| 
 | 20211029T11:08:25Z | A collection of more than 160+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 955 | 225| 
-| 20211029T11:03:00Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 34 | 19| 
 | 20211029T11:01:32Z | This is the official repository of the paper %Exploiting the Nature of Repetitive Actions fortheir Effective and Efficient Recognition%. We provide guidelines to generate the datasets that are used in this work, as well as any important documentation regarding the aspects of the proposed Human Activity Recognition (HAR) pipeline. | https://github.com/Bouclas/Repetitive-Action-Recognition | 0 | 0| 
 | 20211029T10:41:49Z | Collection of Discord hacking tools/fun stuff/exploits that is completely made using NodeJS. | https://github.com/I2rys/ODiscord | 14 | 9| 
 | 20211029T10:39:14Z | Allows jailbreak on ios devices using the new Fugu14 Exploit | https://github.com/VestigeNet/VSEC-JAILBREAK-IOS-14.5.1 | 0 | 0| 
