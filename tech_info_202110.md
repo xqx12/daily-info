@@ -142,6 +142,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211029T01:57:18Z | api request fuzz tool | https://github.com/shishangx/api-request-fuzz | 1 | 0| 
 | 20211029T01:54:44Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20211029T01:52:19Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2413 | 148| 
 | 20211029T01:49:48Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4590 | 469| 
@@ -151,7 +152,6 @@
 | 20211029T00:23:26Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1090 | 48| 
 | 20211029T00:20:58Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3758 | 888| 
 | 20211028T23:50:11Z | A lang-brainscore repository for initial dirty development; select code will be migrated to a lean and clean more permanent repo in the future  | https://github.com/language-brainscore/lang-brainscore-fuzzy-potato | 0 | 0| 
-| 20211028T23:46:32Z | Collected fuzzing payloads from different resources  | https://github.com/osamahamad/FUZZING | 10 | 5| 
 
 
 
