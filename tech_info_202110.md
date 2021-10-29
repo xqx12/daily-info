@@ -88,10 +88,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211029T01:53:30Z | A collection of more than 160+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 955 | 225| 
 | 20211029T01:47:17Z | Exploit of CVE-2017-7529 | https://github.com/rajesh457/CVE-2017-7529 | 0 | 0| 
 | 20211029T01:39:34Z | Exploit Code | https://github.com/wjddnjs33/Exploit | 0 | 0| 
 | 20211029T01:36:35Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 357 | 54| 
-| 20211029T01:26:34Z | A collection of more than 160+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 954 | 225| 
 | 20211029T01:20:48Z | A PoC exploit written in Python to demonstrate the impact of an SQL Injection attack within the open-source web application “Online Motorcycle (Bike) Rental System 1.0” | https://github.com/DoctorZorka/-Online-Motorcycle-Bike-Rental-System-1.0---Blind-Time-Based-SQL-Injection-Unauthenticated- | 0 | 0| 
 | 20211029T01:03:22Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 33 | 19| 
 | 20211029T00:52:56Z | Roblox Exploit Detection script | https://github.com/WeeblyDoodOfficial/rbx-exp-dtc | 0 | 0| 
@@ -103,6 +103,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211029T01:53:57Z | Null | https://github.com/H1d3r/aspnetMvcBackdoor | 0 | 0| 
 | 20211029T01:07:24Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 104 | 25| 
 | 20211029T00:23:02Z | Panamahack2021 talk: PHP 8.1.0-dev backdoor | https://github.com/hftamayo/panamahack2021 | 0 | 0| 
 | 20211029T00:13:53Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1474 | 373| 
@@ -112,7 +113,6 @@
 | 20211028T08:45:52Z | My personal unique wiki for hacking the router firmware used by (Telia)TG799vac Xtream v17.2-MINT delivered from Technicolor  | https://github.com/wuseman/TG799VAC-XTREME-17.2-MINT | 63 | 18| 
 | 20211028T08:35:20Z | WaNet - Imperceptible Warping-based Backdoor Attack (ICLR 2021) | https://github.com/VinAIResearch/Warping-based_Backdoor_Attack-release | 21 | 7| 
 | 20211028T05:38:58Z | Null | https://github.com/Fartlicker777/Backdoor-Hacking | 0 | 0| 
-| 20211028T04:18:58Z | Null | https://github.com/kyukazamiqq/backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -142,6 +142,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211029T01:54:44Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
+| 20211029T01:52:19Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2413 | 148| 
 | 20211029T01:49:48Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4590 | 469| 
 | 20211029T01:17:30Z | Null | https://github.com/DEDasgupta/FuzzyAssetAllocation | 0 | 0| 
 | 20211029T00:49:01Z | Examples to stand up demo infrastructure | https://github.com/mikelaramie/fuzzy-bassoon | 0 | 1| 
@@ -150,8 +152,6 @@
 | 20211029T00:20:58Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3758 | 888| 
 | 20211028T23:50:11Z | A lang-brainscore repository for initial dirty development; select code will be migrated to a lean and clean more permanent repo in the future  | https://github.com/language-brainscore/lang-brainscore-fuzzy-potato | 0 | 0| 
 | 20211028T23:46:32Z | Collected fuzzing payloads from different resources  | https://github.com/osamahamad/FUZZING | 10 | 5| 
-| 20211028T23:30:36Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 168 | 14| 
-| 20211028T23:00:57Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6763 | 1406| 
 
 
 

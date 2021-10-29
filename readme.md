@@ -104,9 +104,9 @@
 | 20211028T22:52:25Z | fzgo is a prototype of %make fuzzing a first class citizen% in the go command. Supports rich signatures & generating fuzz functions. | https://github.com/thepudds/fzgo | 104 | 3| 
 | 20211028T22:44:32Z | Gentoo overlay | https://github.com/lferra/fuzzy-potato | 1 | 0| 
 | 20211028T21:15:13Z | Repository for setting up an architecture independent fuzzer based on AFL in an instance of the QEmu codebase. | https://github.com/aerosec/jetset_fuzzer | 0 | 0| 
-| 20211028T21:13:38Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2412 | 148| 
 | 20211028T21:01:35Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211028T20:19:15Z | Null | https://github.com/PaulPextra/fuzzy-disco | 0 | 0| 
+| 20211028T20:14:50Z | Tool for measuring string similarities based on Jaccard Similarity scoring | https://github.com/Hillard28/fuzzygram | 0 | 0| 
 
 
 
