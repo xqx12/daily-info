@@ -88,7 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211029T00:16:53Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 83 | 160| 
+| 20211029T00:17:49Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 83 | 160| 
 | 20211029T00:15:30Z | Null | https://github.com/ArdXxX/New-World-Fast-Attack-Exploit | 0 | 0| 
 | 20211029T00:13:29Z | Null | https://github.com/Sergiorq1/Jinja2-ExploitMe | 0 | 0| 
 | 20211029T00:03:28Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 33 | 19| 
@@ -142,7 +142,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211029T00:10:06Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 32 | 12| 
+| 20211029T00:20:11Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 32 | 12| 
 | 20211028T23:50:11Z | A lang-brainscore repository for initial dirty development; select code will be migrated to a lean and clean more permanent repo in the future  | https://github.com/language-brainscore/lang-brainscore-fuzzy-potato | 0 | 0| 
 | 20211028T23:46:32Z | Collected fuzzing payloads from different resources  | https://github.com/osamahamad/FUZZING | 10 | 5| 
 | 20211028T23:30:36Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 168 | 14| 
