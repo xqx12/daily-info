@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211029T00:47:27Z | CVE-2021-22205 | Null | https://github.com/mr-r3bot/Gitlab-CVE-2021-22205 | | 
+| 20211029T01:32:15Z | CVE-2021-22205 | Null | https://github.com/mr-r3bot/Gitlab-CVE-2021-22205 | | 
 | 20211029T00:45:43Z | CVE-2021-22205 | Pocsuite3 For CVE-2021-22205 | https://github.com/RedTeamWing/CVE-2021-22205 | | 
 | 20211029T00:43:49Z | CVE-2021-22205 | CVE-2021-22205 Unauthorized RCE | https://github.com/r0eXpeR/CVE-2021-22205 | | 
 | 20211029T00:30:19Z | CVE-2021-36260 | command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input validation, attacker can exploit the vulnerability to launch a command injection attack by sending some messages with malicious commands. | https://github.com/Aiminsun/CVE-2021-36260 | | 
