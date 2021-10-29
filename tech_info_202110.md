@@ -88,7 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211029T01:23:01Z | A collection of more than 160+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 954 | 225| 
+| 20211029T01:26:34Z | A collection of more than 160+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 954 | 225| 
 | 20211029T01:20:48Z | A PoC exploit written in Python to demonstrate the impact of an SQL Injection attack within the open-source web application “Online Motorcycle (Bike) Rental System 1.0” | https://github.com/DoctorZorka/-Online-Motorcycle-Bike-Rental-System-1.0---Blind-Time-Based-SQL-Injection-Unauthenticated- | 0 | 0| 
 | 20211029T01:12:32Z | Exploit of CVE-2017-7529 | https://github.com/rajesh457/CVE-2017-7529 | 0 | 0| 
 | 20211029T01:03:22Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 33 | 19| 
