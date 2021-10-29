@@ -88,7 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211029T01:09:41Z | Exploit of CVE-2017-7529 | https://github.com/rajesh457/CVE-2017-7529 | 0 | 0| 
+| 20211029T01:12:32Z | Exploit of CVE-2017-7529 | https://github.com/rajesh457/CVE-2017-7529 | 0 | 0| 
 | 20211029T01:03:22Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 33 | 19| 
 | 20211029T00:52:56Z | Roblox Exploit Detection script | https://github.com/WeeblyDoodOfficial/rbx-exp-dtc | 0 | 0| 
 | 20211029T00:45:15Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 14| 
