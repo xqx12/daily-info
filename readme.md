@@ -49,16 +49,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211028T12:54:17Z | rewrites of existing exploits | https://github.com/Waveyyyy/exploit_rewrites | 0 | 0| 
-| 20211028T12:45:15Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 14| 
-| 20211028T12:04:21Z | This is plugin for 1.17 Spigot/Bukkit Minecraft%s servers. This plugin fixes BowExploit(BowBomb) that found recently. Meteor Client developers released their fix, but the problem is that it fixes vanills arrow mechanics. Together I with https://github.com/l1tecorejz we made a plugin that fixes the exploit and doesn%t %kill% vanilla arrow mechanics. Also made it possible to customize messages for warns/kick. | https://github.com/ArtikhackDeveloper/BowExploitFixer | 0 | 0| 
-| 20211028T12:03:47Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 33 | 19| 
-| 20211028T11:58:59Z | Phishing seeks to extract personal information or access from the end person by coercive communications. This type of interaction is especially efficient, since attackers will also exploit public information to generate convincing emails while impersonating somebody trustworthy—maybe even individuals inside the target company.  The key issue of a well-organized phishing operation is that it is frequently used as a starting step for broader attacks by attackers. Similarly, Infopercept expertly customises each phishing appraisal of the employees of the company and investigates the full potential of a good compromise in unprecedented depth, concluding with a comprehensive social engineering analysis.  Visit Now: https://www.infopercept.com/email-phishing-assessment | https://github.com/digitalinfopercept/Email-Phishing-Assessment | 0 | 0| 
-| 20211028T11:45:47Z | Zero-day and Exploit code of some  applications | https://github.com/mustgundogdu/Research | 2 | 1| 
-| 20211028T11:28:45Z | Cobalt Strike is a powerful threat emulation tool that provides a post-exploitation agent and covert channels ideal for Adversary Simulations and Red Team exercises. With Cobalt Strike, companies can emulate the tactics and techniques of a quiet long-term embedded threat actor in an IT network. Malleable C2 lets you change your network indicators to look like different malware each time. These tools complement Cobalt Strike%s solid social engineering process, its robust collaboration capability, and unique reports designed to aid blue team training. | https://github.com/XRSec/CobaltStrike-Update | 2 | 1| 
-| 20211028T10:47:31Z | Geohazards Thematic Exploitation guide | https://github.com/Terradue/doc-tep-geohazards | 9 | 26| 
-| 20211028T09:55:38Z | command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input validation, attacker can exploit the vulnerability to launch a command injection attack by sending some messages with malicious commands. | https://github.com/Aiminsun/CVE-2021-36260 | 11 | 10| 
-| 20211028T07:37:03Z | Made CVE-2020-0668 exploit work for version < win10 v1903 and version >= win10 v1903 | https://github.com/ycdxsb/CVE-2020-0668 | 0 | 1| 
+| 20211028T23:03:10Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 33 | 19| 
+| 20211028T22:58:00Z | Null | https://github.com/chrismlee26/Jinja2-ExploitMe | 0 | 0| 
+| 20211028T22:54:21Z | Null | https://github.com/Sergiorq1/Jinja2-ExploitMe | 0 | 0| 
+| 20211028T22:39:10Z | Exploit kits (or exploit packs) are automated programs used by attackers to exploit known vulnerabilities in systems or applications. | https://github.com/Mario-Kart-Felix/Build-exploits-packages | 0 | 0| 
+| 20211028T22:31:39Z | omg stupid script kiddie go lick a shower drain | https://github.com/RectangularObject/boblox | 0 | 0| 
+| 20211028T22:06:48Z | Comands, Theory and Definitions that can be applied to information gathering, password cracking and system exploits.  | https://github.com/panchis7u7/Ethical_Hacking | 0 | 0| 
+| 20211028T22:05:01Z |  :unlock: Vulnerability Research and Proof of Concept exploits for various targets found by me | https://github.com/merrychap/POC-exploits | 9 | 3| 
+| 20211028T21:38:28Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | 0 | 0| 
+| 20211028T20:55:53Z | Null | https://github.com/WhitfieBad/MemLeakExploit | 0 | 0| 
+| 20211028T20:40:57Z | The use of adaptive optics scanning laser ophthalmoscopy (AOSLO) to probe color perception at the individual cone level has become increasingly of interest in the vision science community. Such experiments are enabled by having individual subjects% cone classification map which is inferred through a separate cone classification process. Thus, there is need for fast, accurate, and accessible cone classification algorithms. For our project, we propose a densitometry method for estimating cone types using an AOSLO and an algorithm for optical feedback which exploits differences in cone absorption spectra. We hope that this project will improve on or complement the state-of-the-art densitometry cone classification methods.  | https://github.com/cshewmake2/cone-classification | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -97,16 +97,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211028T12:53:41Z | Null | https://github.com/halloween-ideass/fuzzy-telegram | 0 | 0| 
-| 20211028T12:52:23Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20211028T12:31:52Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6759 | 1404| 
-| 20211028T11:48:14Z | Null | https://github.com/Voinduha/fuzzy-broccoli | 0 | 0| 
-| 20211028T11:37:21Z | A few resources for fuzzing | https://github.com/zyingp/fuzzing_resources | 1 | 0| 
-| 20211028T11:19:23Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 311 | 40| 
-| 20211028T11:07:53Z | Null | https://github.com/98210184/Trajectory-Tracking-of-8DOF-Tiltrotor-via-Fuzzy-Sliding-Mode-Control-with-Fuzzy-Identification | 1 | 0| 
-| 20211028T10:19:05Z | Config files for my GitHub profile. | https://github.com/Fuzzybook1324/Fuzzybook1324 | 0 | 0| 
-| 20211028T10:06:07Z | A grammar based feedback Fuzzer | https://github.com/nautilus-fuzz/nautilus | 261 | 33| 
-| 20211028T09:06:54Z | Fuzzy matching algorithm based on Sublime Text%s string search | https://github.com/jcs-elpa/sublime-fuzzy | 0 | 2| 
+| 20211028T23:50:11Z | A lang-brainscore repository for initial dirty development; select code will be migrated to a lean and clean more permanent repo in the future  | https://github.com/language-brainscore/lang-brainscore-fuzzy-potato | 0 | 0| 
+| 20211028T23:46:32Z | Collected fuzzing payloads from different resources  | https://github.com/osamahamad/FUZZING | 10 | 5| 
+| 20211028T23:30:36Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 168 | 14| 
+| 20211028T23:00:57Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6763 | 1406| 
+| 20211028T22:52:25Z | fzgo is a prototype of %make fuzzing a first class citizen% in the go command. Supports rich signatures & generating fuzz functions. | https://github.com/thepudds/fzgo | 104 | 3| 
+| 20211028T22:44:32Z | Gentoo overlay | https://github.com/lferra/fuzzy-potato | 1 | 0| 
+| 20211028T21:15:13Z | Repository for setting up an architecture independent fuzzer based on AFL in an instance of the QEmu codebase. | https://github.com/aerosec/jetset_fuzzer | 0 | 0| 
+| 20211028T21:13:38Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2412 | 148| 
+| 20211028T21:01:35Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20211028T20:19:15Z | Null | https://github.com/PaulPextra/fuzzy-disco | 0 | 0| 
 
 
 
