@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211029T12:43:30Z | After many requests, our team created a new Silent DOC Exploit for Microsoft Office. The purpose of this exploit is to silently infect victims upon opening the document. Furthermore, this exploit will convert an .EXE to .DOC or .XLS without any detection’s from antivirus. In addition, we guarantee the exploit is FUD for the entirety of your subscription. Furthermore, this is a private exploit by our team of 0Day Developers. Our method is completely new and we guarantee success with all subscriptions.  Using this exploit alongside one of our great Botnets will be very effective. | https://github.com/attakercyebr/exploit-doc-product-box | 0 | 0| 
 | 20211029T12:40:38Z | A collection of more than 160+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 955 | 225| 
 | 20211029T12:08:08Z | The world has not been the same since the outbreak and ending of World War 3 in the same year, 2079, when the “Developing Countries” in Africa and Asia finally rebelled against the exploitation by the western “industrial countries”. A massive launching of nuclear and “space” weapons on the side of the latter not only quenched the rebellion, it also caused considerable and irrevocable damage to the very structure of Universe. | https://github.com/4dmud/mud | 2 | 3| 
 | 20211029T12:03:07Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 34 | 19| 
@@ -97,7 +98,6 @@
 | 20211029T11:01:32Z | This is the official repository of the paper %Exploiting the Nature of Repetitive Actions fortheir Effective and Efficient Recognition%. We provide guidelines to generate the datasets that are used in this work, as well as any important documentation regarding the aspects of the proposed Human Activity Recognition (HAR) pipeline. | https://github.com/Bouclas/Repetitive-Action-Recognition | 0 | 0| 
 | 20211029T10:41:49Z | Collection of Discord hacking tools/fun stuff/exploits that is completely made using NodeJS. | https://github.com/I2rys/ODiscord | 14 | 9| 
 | 20211029T10:39:14Z | Allows jailbreak on ios devices using the new Fugu14 Exploit | https://github.com/VestigeNet/VSEC-JAILBREAK-IOS-14.5.1 | 0 | 0| 
-| 20211029T10:03:01Z | Projet système exploitation P18M groupe 1 (Arnaud/Vincent/Frederic/Claude) | https://github.com/Claudio4813/Reveil_berry | 0 | 0| 
 
 
 # backdoor on Github 推荐
