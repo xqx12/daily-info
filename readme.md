@@ -64,7 +64,6 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211028T23:59:14Z | Panamahack2021 talk: PHP 8.1.0-dev backdoor | https://github.com/hftamayo/panamahack2021 | 0 | 0| 
 | 20211028T21:45:19Z | A TCP Backdoor made in python | https://github.com/ferreiraklet/Tracey-Backdoor | 6 | 0| 
 | 20211028T20:00:40Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 105 | 25| 
 | 20211028T12:50:33Z | Null | https://github.com/csdongxian/ANP_backdoor | 4 | 0| 
@@ -74,6 +73,7 @@
 | 20211028T05:38:58Z | Null | https://github.com/Fartlicker777/Backdoor-Hacking | 0 | 0| 
 | 20211028T04:18:58Z | Null | https://github.com/kyukazamiqq/backdoor | 0 | 0| 
 | 20211028T02:44:09Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 346 | 62| 
+| 20211028T01:06:10Z | Codebase for my Level 4 University Project: Static Analysis of Executable Code to Detect Backdoors on IoT Devices | https://github.com/sophieboyle/Static-IoT-Backdoor-Detection | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
