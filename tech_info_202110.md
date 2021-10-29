@@ -88,7 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211029T00:52:11Z | Roblox Exploit Detection script | https://github.com/WeeblyDoodOfficial/rbx-exp-dtc | 0 | 0| 
+| 20211029T00:52:56Z | Roblox Exploit Detection script | https://github.com/WeeblyDoodOfficial/rbx-exp-dtc | 0 | 0| 
 | 20211029T00:45:15Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 14| 
 | 20211029T00:17:49Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 83 | 160| 
 | 20211029T00:15:30Z | Null | https://github.com/ArdXxX/New-World-Fast-Attack-Exploit | 0 | 0| 
