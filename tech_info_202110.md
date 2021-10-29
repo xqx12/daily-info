@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211029T00:52:11Z | Roblox Exploit Detection script | https://github.com/WeeblyDoodOfficial/rbx-exp-dtc | 0 | 0| 
 | 20211029T00:45:15Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 14| 
 | 20211029T00:17:49Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 83 | 160| 
 | 20211029T00:15:30Z | Null | https://github.com/ArdXxX/New-World-Fast-Attack-Exploit | 0 | 0| 
@@ -97,7 +98,6 @@
 | 20211028T22:39:10Z | Exploit kits (or exploit packs) are automated programs used by attackers to exploit known vulnerabilities in systems or applications. | https://github.com/Mario-Kart-Felix/Build-exploits-packages | 0 | 0| 
 | 20211028T22:31:39Z | omg stupid script kiddie go lick a shower drain | https://github.com/RectangularObject/boblox | 0 | 0| 
 | 20211028T22:06:48Z | Comands, Theory and Definitions that can be applied to information gathering, password cracking and system exploits.  | https://github.com/panchis7u7/Ethical_Hacking | 0 | 0| 
-| 20211028T22:05:01Z |  :unlock: Vulnerability Research and Proof of Concept exploits for various targets found by me | https://github.com/merrychap/POC-exploits | 9 | 3| 
 
 
 # backdoor on Github 推荐
