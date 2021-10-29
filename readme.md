@@ -16,8 +16,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211029T12:28:20Z | CVE-2021-22205 | CVE-2021-22205 Unauthorized RCE | https://github.com/r0eXpeR/CVE-2021-22205 | | 
 | 20211029T12:01:13Z | CVE-2021-22205 | Pocsuite3 For CVE-2021-22205 | https://github.com/RedTeamWing/CVE-2021-22205 | | 
-| 20211029T11:52:13Z | CVE-2021-22205 | CVE-2021-22205 Unauthorized RCE | https://github.com/r0eXpeR/CVE-2021-22205 | | 
 | 20211029T11:48:55Z | CVE-2021-36260 | command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input validation, attacker can exploit the vulnerability to launch a command injection attack by sending some messages with malicious commands. | https://github.com/Aiminsun/CVE-2021-36260 | | 
 | 20211029T11:25:32Z | 未知编号 | For IS713 Project | https://github.com/sinjeanmin/cvedetails_2020 | | 
 | 20211029T10:05:13Z | CVE-2021-22205 | Gitlab CE/EE RCE 未授权远程代码执行漏洞 POC && EXP CVE-2021-22205 | https://github.com/antx-code/CVE-2021-22205 | | 
