@@ -142,6 +142,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211029T00:08:29Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 32 | 12| 
 | 20211028T23:50:11Z | A lang-brainscore repository for initial dirty development; select code will be migrated to a lean and clean more permanent repo in the future  | https://github.com/language-brainscore/lang-brainscore-fuzzy-potato | 0 | 0| 
 | 20211028T23:46:32Z | Collected fuzzing payloads from different resources  | https://github.com/osamahamad/FUZZING | 10 | 5| 
 | 20211028T23:30:36Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 168 | 14| 
@@ -151,7 +152,6 @@
 | 20211028T21:15:13Z | Repository for setting up an architecture independent fuzzer based on AFL in an instance of the QEmu codebase. | https://github.com/aerosec/jetset_fuzzer | 0 | 0| 
 | 20211028T21:13:38Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2412 | 148| 
 | 20211028T21:01:35Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20211028T20:19:15Z | Null | https://github.com/PaulPextra/fuzzy-disco | 0 | 0| 
 
 
 
