@@ -65,7 +65,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20211028T21:45:19Z | A TCP Backdoor made in python | https://github.com/ferreiraklet/Tracey-Backdoor | 6 | 0| 
-| 20211028T20:00:40Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 105 | 25| 
 | 20211028T12:50:33Z | Null | https://github.com/csdongxian/ANP_backdoor | 4 | 0| 
 | 20211028T12:24:51Z | Null | https://github.com/T3rr8us-P4nk/shell-backdoor | 0 | 0| 
 | 20211028T08:45:52Z | My personal unique wiki for hacking the router firmware used by (Telia)TG799vac Xtream v17.2-MINT delivered from Technicolor  | https://github.com/wuseman/TG799VAC-XTREME-17.2-MINT | 63 | 18| 
@@ -74,6 +73,7 @@
 | 20211028T04:18:58Z | Null | https://github.com/kyukazamiqq/backdoor | 0 | 0| 
 | 20211028T02:44:09Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 346 | 62| 
 | 20211028T01:06:10Z | Codebase for my Level 4 University Project: Static Analysis of Executable Code to Detect Backdoors on IoT Devices | https://github.com/sophieboyle/Static-IoT-Backdoor-Detection | 0 | 0| 
+| 20211028T00:51:57Z | The insane hackerman backdoor. | https://github.com/Bakdooro/Bakdooro | 10 | 2| 
 
 
 # symbolic execution on Github 推荐

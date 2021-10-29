@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211029T01:08:23Z | Exploit of CVE-2017-7529 | https://github.com/rajesh457/CVE-2017-7529 | 0 | 0| 
 | 20211029T01:03:22Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 33 | 19| 
 | 20211029T00:52:56Z | Roblox Exploit Detection script | https://github.com/WeeblyDoodOfficial/rbx-exp-dtc | 0 | 0| 
 | 20211029T00:45:15Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 14| 
@@ -97,16 +98,15 @@
 | 20211028T22:58:00Z | Null | https://github.com/chrismlee26/Jinja2-ExploitMe | 0 | 0| 
 | 20211028T22:39:10Z | Exploit kits (or exploit packs) are automated programs used by attackers to exploit known vulnerabilities in systems or applications. | https://github.com/Mario-Kart-Felix/Build-exploits-packages | 0 | 0| 
 | 20211028T22:31:39Z | omg stupid script kiddie go lick a shower drain | https://github.com/RectangularObject/boblox | 0 | 0| 
-| 20211028T22:06:48Z | Comands, Theory and Definitions that can be applied to information gathering, password cracking and system exploits.  | https://github.com/panchis7u7/Ethical_Hacking | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211029T01:07:24Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 104 | 25| 
 | 20211029T00:23:02Z | Panamahack2021 talk: PHP 8.1.0-dev backdoor | https://github.com/hftamayo/panamahack2021 | 0 | 0| 
 | 20211029T00:13:53Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1474 | 373| 
 | 20211028T21:45:19Z | A TCP Backdoor made in python | https://github.com/ferreiraklet/Tracey-Backdoor | 6 | 0| 
-| 20211028T20:00:40Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 105 | 25| 
 | 20211028T12:50:33Z | Null | https://github.com/csdongxian/ANP_backdoor | 4 | 0| 
 | 20211028T12:24:51Z | Null | https://github.com/T3rr8us-P4nk/shell-backdoor | 0 | 0| 
 | 20211028T08:45:52Z | My personal unique wiki for hacking the router firmware used by (Telia)TG799vac Xtream v17.2-MINT delivered from Technicolor  | https://github.com/wuseman/TG799VAC-XTREME-17.2-MINT | 63 | 18| 
