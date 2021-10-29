@@ -19,7 +19,6 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20211028T23:43:00Z | 未知编号 | For IS713 Project | https://github.com/sinjeanmin/cvedetails_2020 | | 
-| 20211028T20:33:51Z | CVE-2021-22205 | Null | https://github.com/mr-r3bot/Gitlab-CVE-2021-22205 | | 
 | 20211028T15:42:36Z | CVE-2021-40444 | An attempt to reproduce Microsoft MSHTML Remote Code Execution (RCE) Vulnerability and using Metasploit Framework. | https://github.com/0xK4gura/CVE-2021-40444-POC | | 
 | 20211028T14:50:07Z | CVE-2021-36260 | CVE-2021-36260 | https://github.com/rabbitsafe/CVE-2021-36260 | | 
 | 20211028T14:32:34Z | CVE-2021-2394 | POC of CVE-2021-2394 | https://github.com/lz2y/CVE-2021-2394 | | 
@@ -28,6 +27,7 @@
 | 20211028T07:37:03Z | CVE-2020-0668 | Made CVE-2020-0668 exploit work for version < win10 v1903 and version >= win10 v1903 | https://github.com/ycdxsb/CVE-2020-0668 | | 
 | 20211028T07:22:05Z | CVE-2021-31862 | Null | https://github.com/RobertDra/CVE-2021-31862 | | 
 | 20211028T06:33:51Z | CVE-2021-40449 | windows 10 14393 LPE | https://github.com/KaLendsi/CVE-2021-40449-Exploit | | 
+| 20211028T05:48:41Z | CVE-2021-41773 | A Zeek package which raises notices for Path Traversal/RCE in Apache HTTP Server 2.4.49 (CVE-2021-41773) and 2.4.50 (CVE-2021-42013) | https://github.com/corelight/CVE-2021-41773 | | 
 
 
 # klee on Github 推荐
