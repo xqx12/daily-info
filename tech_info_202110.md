@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211029T00:00:14Z | CVE-2021-36260 | command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input validation, attacker can exploit the vulnerability to launch a command injection attack by sending some messages with malicious commands. | https://github.com/Aiminsun/CVE-2021-36260 | | 
+| 20211029T00:12:18Z | CVE-2021-36260 | command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input validation, attacker can exploit the vulnerability to launch a command injection attack by sending some messages with malicious commands. | https://github.com/Aiminsun/CVE-2021-36260 | | 
 | 20211028T23:43:00Z | 未知编号 | For IS713 Project | https://github.com/sinjeanmin/cvedetails_2020 | | 
 | 20211028T23:22:59Z | CVE-2021-22205 | CVE-2021-22205 Unauthorized RCE | https://github.com/r0eXpeR/CVE-2021-22205 | | 
 | 20211028T21:36:23Z | CVE-2021-22205 | Pocsuite3 For CVE-2021-22205 | https://github.com/RedTeamWing/CVE-2021-22205 | | 
