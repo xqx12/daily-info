@@ -49,7 +49,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211028T23:03:10Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 33 | 19| 
 | 20211028T22:58:00Z | Null | https://github.com/chrismlee26/Jinja2-ExploitMe | 0 | 0| 
 | 20211028T22:54:21Z | Null | https://github.com/Sergiorq1/Jinja2-ExploitMe | 0 | 0| 
 | 20211028T22:39:10Z | Exploit kits (or exploit packs) are automated programs used by attackers to exploit known vulnerabilities in systems or applications. | https://github.com/Mario-Kart-Felix/Build-exploits-packages | 0 | 0| 
@@ -59,6 +58,7 @@
 | 20211028T21:38:28Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | 0 | 0| 
 | 20211028T20:55:53Z | Null | https://github.com/WhitfieBad/MemLeakExploit | 0 | 0| 
 | 20211028T20:40:57Z | The use of adaptive optics scanning laser ophthalmoscopy (AOSLO) to probe color perception at the individual cone level has become increasingly of interest in the vision science community. Such experiments are enabled by having individual subjects% cone classification map which is inferred through a separate cone classification process. Thus, there is need for fast, accurate, and accessible cone classification algorithms. For our project, we propose a densitometry method for estimating cone types using an AOSLO and an algorithm for optical feedback which exploits differences in cone absorption spectra. We hope that this project will improve on or complement the state-of-the-art densitometry cone classification methods.  | https://github.com/cshewmake2/cone-classification | 0 | 0| 
+| 20211028T20:40:41Z | Null | https://github.com/WhitfieBad/LearningExploiting | 0 | 0| 
 
 
 # backdoor on Github 推荐
