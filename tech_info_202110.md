@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211029T12:08:08Z | The world has not been the same since the outbreak and ending of World War 3 in the same year, 2079, when the “Developing Countries” in Africa and Asia finally rebelled against the exploitation by the western “industrial countries”. A massive launching of nuclear and “space” weapons on the side of the latter not only quenched the rebellion, it also caused considerable and irrevocable damage to the very structure of Universe. | https://github.com/4dmud/mud | 2 | 3| 
 | 20211029T12:03:07Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 34 | 19| 
 | 20211029T12:00:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10259 | 1759| 
 | 20211029T11:51:14Z | Null | https://github.com/Anon-Exploiter/Anon-Exploiter | 2 | 4| 
@@ -97,7 +98,6 @@
 | 20211029T10:41:49Z | Collection of Discord hacking tools/fun stuff/exploits that is completely made using NodeJS. | https://github.com/I2rys/ODiscord | 14 | 9| 
 | 20211029T10:39:14Z | Allows jailbreak on ios devices using the new Fugu14 Exploit | https://github.com/VestigeNet/VSEC-JAILBREAK-IOS-14.5.1 | 0 | 0| 
 | 20211029T10:03:01Z | Projet système exploitation P18M groupe 1 (Arnaud/Vincent/Frederic/Claude) | https://github.com/Claudio4813/Reveil_berry | 0 | 0| 
-| 20211029T09:16:04Z | macos/ios exploit writeup | https://github.com/houjingyi233/macOS-iOS-system-security | 154 | 21| 
 
 
 # backdoor on Github 推荐
