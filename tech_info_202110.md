@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211029T01:47:39Z | CVE-2021-22205 | Null | https://github.com/mr-r3bot/Gitlab-CVE-2021-22205 | | 
+| 20211029T01:49:07Z | CVE-2021-22205 | Null | https://github.com/mr-r3bot/Gitlab-CVE-2021-22205 | | 
 | 20211029T01:40:03Z | CVE-2020-0668 | Make CVE-2020-0668 exploit work for version < win10 v1903 and version >= win10 v1903 | https://github.com/ycdxsb/CVE-2020-0668 | | 
 | 20211029T01:36:11Z | CVE-2021-22205 | Pocsuite3 For CVE-2021-22205 | https://github.com/RedTeamWing/CVE-2021-22205 | | 
 | 20211029T01:35:47Z | CVE-2021-22205 | CVE-2021-22205 Unauthorized RCE | https://github.com/r0eXpeR/CVE-2021-22205 | | 
@@ -142,6 +142,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211029T01:49:48Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4590 | 469| 
 | 20211029T01:17:30Z | Null | https://github.com/DEDasgupta/FuzzyAssetAllocation | 0 | 0| 
 | 20211029T00:49:01Z | Examples to stand up demo infrastructure | https://github.com/mikelaramie/fuzzy-bassoon | 0 | 1| 
 | 20211029T00:39:44Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 32 | 12| 
@@ -151,7 +152,6 @@
 | 20211028T23:46:32Z | Collected fuzzing payloads from different resources  | https://github.com/osamahamad/FUZZING | 10 | 5| 
 | 20211028T23:30:36Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 168 | 14| 
 | 20211028T23:00:57Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6763 | 1406| 
-| 20211028T22:52:25Z | fzgo is a prototype of %make fuzzing a first class citizen% in the go command. Supports rich signatures & generating fuzz functions. | https://github.com/thepudds/fzgo | 104 | 3| 
 
 
 
