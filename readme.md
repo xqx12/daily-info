@@ -50,7 +50,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20211028T22:58:00Z | Null | https://github.com/chrismlee26/Jinja2-ExploitMe | 0 | 0| 
-| 20211028T22:54:21Z | Null | https://github.com/Sergiorq1/Jinja2-ExploitMe | 0 | 0| 
 | 20211028T22:39:10Z | Exploit kits (or exploit packs) are automated programs used by attackers to exploit known vulnerabilities in systems or applications. | https://github.com/Mario-Kart-Felix/Build-exploits-packages | 0 | 0| 
 | 20211028T22:31:39Z | omg stupid script kiddie go lick a shower drain | https://github.com/RectangularObject/boblox | 0 | 0| 
 | 20211028T22:06:48Z | Comands, Theory and Definitions that can be applied to information gathering, password cracking and system exploits.  | https://github.com/panchis7u7/Ethical_Hacking | 0 | 0| 
@@ -59,13 +58,13 @@
 | 20211028T20:55:53Z | Null | https://github.com/WhitfieBad/MemLeakExploit | 0 | 0| 
 | 20211028T20:40:57Z | The use of adaptive optics scanning laser ophthalmoscopy (AOSLO) to probe color perception at the individual cone level has become increasingly of interest in the vision science community. Such experiments are enabled by having individual subjects% cone classification map which is inferred through a separate cone classification process. Thus, there is need for fast, accurate, and accessible cone classification algorithms. For our project, we propose a densitometry method for estimating cone types using an AOSLO and an algorithm for optical feedback which exploits differences in cone absorption spectra. We hope that this project will improve on or complement the state-of-the-art densitometry cone classification methods.  | https://github.com/cshewmake2/cone-classification | 0 | 0| 
 | 20211028T20:40:41Z | Null | https://github.com/WhitfieBad/LearningExploiting | 0 | 0| 
+| 20211028T20:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10254 | 1760| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20211028T23:59:14Z | Panamahack2021 talk: PHP 8.1.0-dev backdoor | https://github.com/hftamayo/panamahack2021 | 0 | 0| 
-| 20211028T23:49:03Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1473 | 373| 
 | 20211028T21:45:19Z | A TCP Backdoor made in python | https://github.com/ferreiraklet/Tracey-Backdoor | 6 | 0| 
 | 20211028T20:00:40Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 105 | 25| 
 | 20211028T12:50:33Z | Null | https://github.com/csdongxian/ANP_backdoor | 4 | 0| 
@@ -74,6 +73,7 @@
 | 20211028T08:35:20Z | WaNet - Imperceptible Warping-based Backdoor Attack (ICLR 2021) | https://github.com/VinAIResearch/Warping-based_Backdoor_Attack-release | 21 | 7| 
 | 20211028T05:38:58Z | Null | https://github.com/Fartlicker777/Backdoor-Hacking | 0 | 0| 
 | 20211028T04:18:58Z | Null | https://github.com/kyukazamiqq/backdoor | 0 | 0| 
+| 20211028T02:44:09Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 346 | 62| 
 
 
 # symbolic execution on Github 推荐
