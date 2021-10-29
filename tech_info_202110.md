@@ -46,8 +46,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211029T01:40:34Z | CVE-2021-22205 | Null | https://github.com/mr-r3bot/Gitlab-CVE-2021-22205 | | 
+| 20211029T01:40:03Z | CVE-2020-0668 | Make CVE-2020-0668 exploit work for version < win10 v1903 and version >= win10 v1903 | https://github.com/ycdxsb/CVE-2020-0668 | | 
 | 20211029T01:36:11Z | CVE-2021-22205 | Pocsuite3 For CVE-2021-22205 | https://github.com/RedTeamWing/CVE-2021-22205 | | 
-| 20211029T01:36:05Z | CVE-2021-22205 | Null | https://github.com/mr-r3bot/Gitlab-CVE-2021-22205 | | 
 | 20211029T01:35:47Z | CVE-2021-22205 | CVE-2021-22205 Unauthorized RCE | https://github.com/r0eXpeR/CVE-2021-22205 | | 
 | 20211029T00:30:19Z | CVE-2021-36260 | command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input validation, attacker can exploit the vulnerability to launch a command injection attack by sending some messages with malicious commands. | https://github.com/Aiminsun/CVE-2021-36260 | | 
 | 20211028T23:43:00Z | 未知编号 | For IS713 Project | https://github.com/sinjeanmin/cvedetails_2020 | | 
@@ -55,7 +56,6 @@
 | 20211028T14:50:07Z | CVE-2021-36260 | CVE-2021-36260 | https://github.com/rabbitsafe/CVE-2021-36260 | | 
 | 20211028T14:32:34Z | CVE-2021-2394 | POC of CVE-2021-2394 | https://github.com/lz2y/CVE-2021-2394 | | 
 | 20211028T11:52:56Z | CVE-2021-40438 | Null | https://github.com/BabyTeam1024/CVE-2021-40438 | | 
-| 20211028T09:08:33Z | cve-2021-42013 | cve-2021-42013.py is a python script that will help in finding Path Traversal or Remote Code Execution vulnerability in Apache 2.4.50 | https://github.com/walnutsecurity/cve-2021-42013 | | 
 
 
 # klee on Github 推荐
