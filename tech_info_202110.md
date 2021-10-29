@@ -142,6 +142,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211029T00:23:26Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1090 | 48| 
+| 20211029T00:20:58Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3758 | 888| 
 | 20211029T00:20:11Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 32 | 12| 
 | 20211028T23:50:11Z | A lang-brainscore repository for initial dirty development; select code will be migrated to a lean and clean more permanent repo in the future  | https://github.com/language-brainscore/lang-brainscore-fuzzy-potato | 0 | 0| 
 | 20211028T23:46:32Z | Collected fuzzing payloads from different resources  | https://github.com/osamahamad/FUZZING | 10 | 5| 
@@ -150,8 +152,6 @@
 | 20211028T22:52:25Z | fzgo is a prototype of %make fuzzing a first class citizen% in the go command. Supports rich signatures & generating fuzz functions. | https://github.com/thepudds/fzgo | 104 | 3| 
 | 20211028T22:44:32Z | Gentoo overlay | https://github.com/lferra/fuzzy-potato | 1 | 0| 
 | 20211028T21:15:13Z | Repository for setting up an architecture independent fuzzer based on AFL in an instance of the QEmu codebase. | https://github.com/aerosec/jetset_fuzzer | 0 | 0| 
-| 20211028T21:13:38Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2412 | 148| 
-| 20211028T21:01:35Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 
 
 
