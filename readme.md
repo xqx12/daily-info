@@ -67,6 +67,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211030T06:56:27Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 18 | 4| 
+| 20211030T03:27:23Z | A tool for generating nonlinear numerical invariants for C and Java programs.  DIG uses dynamic analysis to infer invariants over program execution traces and applies symbolic execution to inferred invariants. | https://github.com/unsat/dig | 9 | 4| 
 
 
 # big4 on Github 推荐
