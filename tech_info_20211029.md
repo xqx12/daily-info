@@ -51,7 +51,6 @@
 | --- | --- | --- | --- | ---| 
 | 20211029T23:29:57Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10261 | 1759| 
 | 20211029T23:29:36Z | An asynchronous, collaborative post-exploitation agent powered by Python and .NET%s DLR | https://github.com/byt3bl33d3r/SILENTTRINITY | 1726 | 362| 
-| 20211029T22:49:14Z | jolokia-exploitation-toolkit | https://github.com/laluka/jolokia-exploitation-toolkit | 8 | 0| 
 | 20211029T22:43:21Z | Local file inclusion discovery and exploitation tool | https://github.com/hansmach1ne/lfimap | 4 | 0| 
 | 20211029T22:04:13Z | PlayStation®4 exploit hosts | https://github.com/LuanTeles/Hosts | 0 | 0| 
 | 20211029T21:20:48Z | Database Systems - Principles of database design and operation. Relational data model. High-level data modeling representations. SQL database language. Active databases with constraints and triggers. Query optimization with views and indexes. Exploiting database servers within programming languages for web application development. Other topics include transaction processing and recovery, user-defined functions, and data warehousing.  | https://github.com/kingkirpal2000/CSE-111 | 1 | 0| 
@@ -59,6 +58,7 @@
 | 20211029T20:22:03Z | 7.5x Host Exploit, July 21th,2021 Release (add post-exploit cleanup spray) | https://github.com/Night-King-Host/75XV3b7 | 0 | 4| 
 | 20211029T20:21:22Z | 7.5X Host Exploit - Jun 03,2021 Exploit (Imitate legit network traffic before exploit) | https://github.com/Night-King-Host/75XV3b6 | 0 | 0| 
 | 20211029T20:20:46Z | 7.5x FW Exploit (Exploit Date: May 27th, 2021) | https://github.com/Night-King-Host/75XV3b5 | 0 | 0| 
+| 20211029T20:18:39Z | 7.5X Exploit FW (May 2nd, 2021) Exploit | https://github.com/Night-King-Host/75XV3b3 | 0 | 0| 
 
 
 # backdoor on Github 推荐
