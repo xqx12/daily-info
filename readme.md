@@ -39,12 +39,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211030T12:13:45Z | Ladon for Cobalt Strike, Large Network Penetration Scanner, vulnerability / exploit / detection / MS17010 / password/brute-force/psexec/atexec/sshexec/webshell/smbexec/netcat/osscan/netscan/struts2Poc/weblogicExp | https://github.com/k8gege/Aggressor | 343 | 79| 
 | 20211030T12:07:25Z | K8博客 | https://github.com/k8gege/k8gege.github.io | 18 | 7| 
 | 20211030T12:04:14Z | Null | https://github.com/BenKabongo25/ExplorationExploitation | 0 | 0| 
 | 20211030T12:03:24Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 34 | 19| 
 | 20211030T12:03:13Z | Haimgard is an environment for writing, testing and using exploit code. | https://github.com/onuratakan/Haimgard | 0 | 0| 
 | 20211030T11:46:57Z | Null | https://github.com/joeengo/exploiting | 0 | 0| 
-| 20211030T11:46:44Z | Ladon for Cobalt Strike, Large Network Penetration Scanner, vulnerability / exploit / detection / MS17010 / password/brute-force/psexec/atexec/sshexec/webshell/smbexec/netcat/osscan/netscan/struts2Poc/weblogicExp | https://github.com/k8gege/Aggressor | 344 | 79| 
 | 20211030T11:41:37Z | Gigatron program and operating-system level things to exploit a SD card attached to the SPI interface of a RAM & IO expansion board. | https://github.com/lb3361/gigatron-os | 0 | 0| 
 | 20211030T11:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10264 | 1760| 
 | 20211030T11:05:43Z | Projet système exploitation P18M groupe 1 (Arnaud/Vincent/Frederic/Claude) | https://github.com/Claudio4813/Reveil_berry | 0 | 0| 
@@ -79,6 +79,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211030T12:15:16Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 32 | 12| 
 | 20211030T11:51:41Z | Planning tool | https://github.com/HappyDustbunny/FuzzyFlexx | 1 | 0| 
 | 20211030T11:44:43Z | Null | https://github.com/Bariq09/Penentuan-Kerawanan-Longsor-Metode-Fuzzy-Logic | 0 | 0| 
 | 20211030T11:35:16Z | Null | https://github.com/rhaymisonbetini/logica-fuzzy-python | 0 | 0| 
@@ -88,7 +89,6 @@
 | 20211030T10:21:08Z | Mondlandung mithilfe von Fuzzy-Logik | https://github.com/tpoerschke/FuzzyMoonLanding | 0 | 0| 
 | 20211030T09:45:15Z | A small python project building note taking app using flask | https://github.com/datumcoder/fuzzy-telegram | 0 | 0| 
 | 20211030T08:56:51Z | Null | https://github.com/PossiblePack/FuzzyLogic | 0 | 0| 
-| 20211030T08:37:46Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 
 
 
