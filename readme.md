@@ -54,12 +54,12 @@
 | 20211029T23:29:36Z | An asynchronous, collaborative post-exploitation agent powered by Python and .NET%s DLR | https://github.com/byt3bl33d3r/SILENTTRINITY | 1726 | 362| 
 | 20211029T22:49:14Z | jolokia-exploitation-toolkit | https://github.com/laluka/jolokia-exploitation-toolkit | 8 | 0| 
 | 20211029T22:43:21Z | Local file inclusion discovery and exploitation tool | https://github.com/hansmach1ne/lfimap | 4 | 0| 
-| 20211029T22:22:54Z | Gigatron program and operating-system level things to exploit a SD card attached to the SPI interface of a RAM & IO expansion board. | https://github.com/lb3361/gigatron-os | 0 | 0| 
 | 20211029T22:04:13Z | PlayStation®4 exploit hosts | https://github.com/LuanTeles/Hosts | 0 | 0| 
 | 20211029T21:20:48Z | Database Systems - Principles of database design and operation. Relational data model. High-level data modeling representations. SQL database language. Active databases with constraints and triggers. Query optimization with views and indexes. Exploiting database servers within programming languages for web application development. Other topics include transaction processing and recovery, user-defined functions, and data warehousing.  | https://github.com/kingkirpal2000/CSE-111 | 1 | 0| 
 | 20211029T20:26:24Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITION | 2 | 0| 
 | 20211029T20:22:03Z | 7.5x Host Exploit, July 21th,2021 Release (add post-exploit cleanup spray) | https://github.com/Night-King-Host/75XV3b7 | 0 | 4| 
 | 20211029T20:21:22Z | 7.5X Host Exploit - Jun 03,2021 Exploit (Imitate legit network traffic before exploit) | https://github.com/Night-King-Host/75XV3b6 | 0 | 0| 
+| 20211029T20:20:46Z | 7.5x FW Exploit (Exploit Date: May 27th, 2021) | https://github.com/Night-King-Host/75XV3b5 | 0 | 0| 
 
 
 # backdoor on Github 推荐
