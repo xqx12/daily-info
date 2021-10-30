@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211030T01:11:48Z | A Python script for taking advantage of the GM:S OGG Sample Rate Exploit, allowing OGG files to be played back at the same pitch regardless of the game%s attempts to change it. | https://github.com/OceanBagel/GMS-OGG-Sample-Rate-Exploit-Converter | 0 | 0| 
 | 20211030T01:03:22Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 34 | 19| 
 | 20211030T00:55:11Z | jolokia-exploitation-toolkit | https://github.com/laluka/jolokia-exploitation-toolkit | 9 | 0| 
 | 20211030T00:45:17Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 14| 
@@ -97,12 +98,12 @@
 | 20211029T22:43:21Z | Local file inclusion discovery and exploitation tool | https://github.com/hansmach1ne/lfimap | 4 | 0| 
 | 20211029T22:04:13Z | PlayStation®4 exploit hosts | https://github.com/LuanTeles/Hosts | 0 | 0| 
 | 20211029T21:20:48Z | Database Systems - Principles of database design and operation. Relational data model. High-level data modeling representations. SQL database language. Active databases with constraints and triggers. Query optimization with views and indexes. Exploiting database servers within programming languages for web application development. Other topics include transaction processing and recovery, user-defined functions, and data warehousing.  | https://github.com/kingkirpal2000/CSE-111 | 1 | 0| 
-| 20211029T20:26:24Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITION | 2 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211030T01:13:31Z | Database of backdoor passwords used by Malware, uncovered by the Malvuln project. | https://github.com/malvuln/viruscreds | 0 | 0| 
 | 20211030T00:25:24Z | Simple win32 backdoor consisting of a client and a server. | https://github.com/Mewgood/win32-sockets-backdoor | 0 | 0| 
 | 20211029T19:31:57Z | The code of AAAI-21 paper %Defending against Backdoors in Federated Learning with Robust Learning Rate%. | https://github.com/TinfoilHat0/Defending-Against-Backdoors-with-Robust-Learning-Rate | 2 | 2| 
 | 20211029T18:24:22Z | Panamahack2021 talk: PHP 8.1.0-dev backdoor | https://github.com/hftamayo/panamahack2021 | 0 | 0| 
@@ -112,7 +113,6 @@
 | 20211029T11:14:23Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 36 | 28| 
 | 20211029T10:05:34Z | Null | https://github.com/QTPah/Backdoor | 0 | 0| 
 | 20211029T07:45:30Z | Null | https://github.com/luciusluo/sv_backdoor | 0 | 0| 
-| 20211029T05:18:21Z | Allowing server admins to backdoor their own server! | https://github.com/awesomemoder316/DiscordBackdoorBot | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
