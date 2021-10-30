@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211030T01:36:33Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 357 | 54| 
 | 20211030T01:29:36Z | A Python script for taking advantage of the GM:S OGG Sample Rate Exploit, allowing OGG files to be played back at the same pitch regardless of the game%s attempts to change it. | https://github.com/OceanBagel/GMS-OGG-Sample-Rate-Exploit-Converter | 0 | 0| 
 | 20211030T01:03:22Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 34 | 19| 
 | 20211030T00:55:11Z | jolokia-exploitation-toolkit | https://github.com/laluka/jolokia-exploitation-toolkit | 9 | 0| 
@@ -97,7 +98,6 @@
 | 20211029T23:29:36Z | An asynchronous, collaborative post-exploitation agent powered by Python and .NET%s DLR | https://github.com/byt3bl33d3r/SILENTTRINITY | 1726 | 362| 
 | 20211029T22:43:21Z | Local file inclusion discovery and exploitation tool | https://github.com/hansmach1ne/lfimap | 4 | 0| 
 | 20211029T22:04:13Z | PlayStation®4 exploit hosts | https://github.com/LuanTeles/Hosts | 0 | 0| 
-| 20211029T21:20:48Z | Database Systems - Principles of database design and operation. Relational data model. High-level data modeling representations. SQL database language. Active databases with constraints and triggers. Query optimization with views and indexes. Exploiting database servers within programming languages for web application development. Other topics include transaction processing and recovery, user-defined functions, and data warehousing.  | https://github.com/kingkirpal2000/CSE-111 | 1 | 0| 
 
 
 # backdoor on Github 推荐
