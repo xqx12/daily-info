@@ -46,9 +46,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211030T12:44:01Z | CVE-2021-20837 | XMLRPC  - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | | 
 | 20211030T12:01:38Z | CVE-2021-22205 | PoC in single line bash | https://github.com/findneo/GitLab-preauth-RCE_CVE-2021-22205 | | 
 | 20211030T09:33:50Z | CVE-2021-22205 | CVE-2021-22205& GitLab CE/EE RCE | https://github.com/Al1ex/CVE-2021-22205 | | 
-| 20211030T09:24:32Z | CVE-2021-20837 | XMLRPC  - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | | 
 | 20211030T08:52:27Z | CVE-2021-22205 | CVE-2021-22205 移除了对djvumake & djvulibre的依赖，可在win平台使用 | https://github.com/whwlsfb/CVE-2021-22205 | | 
 | 20211030T08:17:59Z | 未知编号 | For IS713 Project | https://github.com/sinjeanmin/cvedetails_2020 | | 
 | 20211030T05:44:27Z | CVE-2020-2551 | how detect CVE-2020-2551 poc exploit python Weblogic RCE with IIOP | https://github.com/hktalent/CVE-2020-2551 | | 
