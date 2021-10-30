@@ -39,9 +39,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211030T12:27:06Z | HackTheBox Custom Exploits | https://github.com/vvinoth/HTBCustomExploits | 0 | 0| 
+| 20211030T12:30:20Z | Cobalt Strike is a commercial, full-featured, remote access tool that bills itself as %adversary simulation software designed to execute targeted attacks and emulate the post-exploitation actions of advanced threat actors%. Cobalt Strike’s interactive post-exploit capabilities cover the full range of ATT&CK tactics, all executed within a single, integrated system. | https://github.com/trewisscotch/CobaltStr4.4 | 0 | 0| 
+| 20211030T12:29:30Z | HackTheBox Custom Exploits | https://github.com/vvinoth/HTBCustomExploits | 0 | 0| 
 | 20211030T12:25:37Z | K8博客 | https://github.com/k8gege/k8gege.github.io | 18 | 7| 
-| 20211030T12:23:58Z | Cobalt Strike is a commercial, full-featured, remote access tool that bills itself as %adversary simulation software designed to execute targeted attacks and emulate the post-exploitation actions of advanced threat actors%. Cobalt Strike’s interactive post-exploit capabilities cover the full range of ATT&CK tactics, all executed within a single, integrated system. | https://github.com/trewisscotch/CobaltStr4.4 | 0 | 0| 
 | 20211030T12:19:59Z | 大型内网渗透扫描器&Cobalt Strike，Ladon8.9内置120个模块，包含信息收集/存活主机/端口扫描/服务识别/密码爆破/漏洞检测/漏洞利用。漏洞检测含MS17010/SMBGhost/Weblogic/ActiveMQ/Tomcat/Struts2，密码口令爆破(Mysql/Oracle/MSSQL)/FTP/SSH(Linux)/VNC/Windows(IPC/WMI/SMB/Netbios/LDAP/SmbHash/WmiHash/Winrm),远程执行命令(smbexec/wmiexe/psexec/atexec/sshexec/webshell),降权提权Runas、GetSystem，Poc/Exploit,支持Cobalt Strike 3.X-4.0 | https://github.com/k8gege/Ladon | 2816 | 666| 
 | 20211030T12:17:01Z | Ladon for Cobalt Strike & Cracked Download,Large Network Penetration Scanner, vulnerability / exploit / detection / MS17010 / password/brute-force/psexec/atexec/sshexec/webshell/smbexec/netcat/osscan/netscan/struts2Poc/weblogicExp | https://github.com/k8gege/Aggressor | 343 | 79| 
 | 20211030T12:04:14Z | Null | https://github.com/BenKabongo25/ExplorationExploitation | 0 | 0| 
