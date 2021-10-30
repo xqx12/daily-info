@@ -142,6 +142,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211030T00:48:31Z | Fuzzy Bubbles fonts | https://github.com/googlefonts/fuzzy-bubbles | 0 | 0| 
 | 20211030T00:06:42Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 32 | 12| 
 | 20211030T00:01:59Z | Null | https://github.com/DEDasgupta/FuzzyAssetAllocation | 0 | 0| 
 | 20211029T23:56:28Z | A Software Package for Fuzzing Autonomous Driving Systems in Simulators | https://github.com/AIasd/ADFuzz | 0 | 0| 
@@ -151,7 +152,6 @@
 | 20211029T20:58:56Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2413 | 148| 
 | 20211029T20:50:09Z | Emulation based snapshot fuzzer | https://github.com/jaoeul/gingersnap | 0 | 0| 
 | 20211029T20:36:59Z | Config files for my GitHub profile. | https://github.com/fuzzlex/fuzzlex | 0 | 0| 
-| 20211029T20:20:15Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6770 | 1407| 
 
 
 
