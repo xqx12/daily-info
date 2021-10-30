@@ -88,7 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211030T01:27:49Z | A Python script for taking advantage of the GM:S OGG Sample Rate Exploit, allowing OGG files to be played back at the same pitch regardless of the game%s attempts to change it. | https://github.com/OceanBagel/GMS-OGG-Sample-Rate-Exploit-Converter | 0 | 0| 
+| 20211030T01:29:36Z | A Python script for taking advantage of the GM:S OGG Sample Rate Exploit, allowing OGG files to be played back at the same pitch regardless of the game%s attempts to change it. | https://github.com/OceanBagel/GMS-OGG-Sample-Rate-Exploit-Converter | 0 | 0| 
 | 20211030T01:03:22Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 34 | 19| 
 | 20211030T00:55:11Z | jolokia-exploitation-toolkit | https://github.com/laluka/jolokia-exploitation-toolkit | 9 | 0| 
 | 20211030T00:45:17Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 14| 
