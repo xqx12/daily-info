@@ -79,6 +79,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211030T12:44:41Z | Simple Programming Language is a simple, easy syntax-based, loosely-typed programming language meant to help new programmers to get comfortable with building logic rather than fuzzing over confusing syntax.  | https://github.com/Vilayat-Ali/simple-programming-language | 0 | 0| 
 | 20211030T12:15:16Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 32 | 12| 
 | 20211030T11:51:41Z | Planning tool | https://github.com/HappyDustbunny/FuzzyFlexx | 1 | 0| 
 | 20211030T11:44:43Z | Null | https://github.com/Bariq09/Penentuan-Kerawanan-Longsor-Metode-Fuzzy-Logic | 0 | 0| 
@@ -88,7 +89,6 @@
 | 20211030T10:23:47Z | This code is used to get coordinates (i.e., latitude and longitude) of some places using their fuzzy names from Google Maps. | https://github.com/lyx66/Get-Coordinates-Using-the-Fuzzy-Names-of-Places | 1 | 0| 
 | 20211030T10:21:08Z | Mondlandung mithilfe von Fuzzy-Logik | https://github.com/tpoerschke/FuzzyMoonLanding | 0 | 0| 
 | 20211030T09:45:15Z | A small python project building note taking app using flask | https://github.com/datumcoder/fuzzy-telegram | 0 | 0| 
-| 20211030T08:56:51Z | Null | https://github.com/PossiblePack/FuzzyLogic | 0 | 0| 
 
 
 
