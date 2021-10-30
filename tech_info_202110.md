@@ -142,6 +142,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211030T00:06:42Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 32 | 12| 
 | 20211030T00:01:59Z | Null | https://github.com/DEDasgupta/FuzzyAssetAllocation | 0 | 0| 
 | 20211029T23:56:28Z | A Software Package for Fuzzing Autonomous Driving Systems in Simulators | https://github.com/AIasd/ADFuzz | 0 | 0| 
 | 20211029T23:19:31Z | Mondlandung mithilfe von Fuzzy-Logik | https://github.com/tpoerschke/FuzzyMoonLanding | 0 | 0| 
@@ -151,7 +152,6 @@
 | 20211029T20:50:09Z | Emulation based snapshot fuzzer | https://github.com/jaoeul/gingersnap | 0 | 0| 
 | 20211029T20:36:59Z | Config files for my GitHub profile. | https://github.com/fuzzlex/fuzzlex | 0 | 0| 
 | 20211029T20:20:15Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6770 | 1407| 
-| 20211029T19:42:41Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2366 | 472| 
 
 
 
