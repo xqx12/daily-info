@@ -103,6 +103,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211030T00:10:32Z | Simple win32 backdoor consisting of a client and a server. | https://github.com/Mewgood/win32-sockets-backdoor | 0 | 0| 
 | 20211029T19:31:57Z | The code of AAAI-21 paper %Defending against Backdoors in Federated Learning with Robust Learning Rate%. | https://github.com/TinfoilHat0/Defending-Against-Backdoors-with-Robust-Learning-Rate | 2 | 2| 
 | 20211029T18:24:22Z | Panamahack2021 talk: PHP 8.1.0-dev backdoor | https://github.com/hftamayo/panamahack2021 | 0 | 0| 
 | 20211029T17:12:13Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1478 | 373| 
@@ -112,7 +113,6 @@
 | 20211029T10:05:34Z | Null | https://github.com/QTPah/Backdoor | 0 | 0| 
 | 20211029T07:45:30Z | Null | https://github.com/luciusluo/sv_backdoor | 0 | 0| 
 | 20211029T05:18:21Z | Allowing server admins to backdoor their own server! | https://github.com/awesomemoder316/DiscordBackdoorBot | 1 | 0| 
-| 20211029T03:38:03Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 346 | 62| 
 
 
 # symbolic execution on Github 推荐
