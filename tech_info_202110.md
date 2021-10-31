@@ -89,10 +89,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211031T01:11:58Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 90 | 185| 
 | 20211031T01:03:08Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 34 | 19| 
 | 20211031T00:46:48Z | simple roblox exploit made in C# by me, i made this to practice my C# coding | https://github.com/Foxxive/FoxSploit | 0 | 0| 
 | 20211031T00:44:56Z | type in the object name and it will print out the location of any object with the name, every parents to reach it, useful if your exploit doesnt support dex or you used remotespy and struggle to find out where is the parameter object that was passed, this is old so the code is not very clean. | https://github.com/restarrt/location-finder | 0 | 0| 
-| 20211031T00:23:18Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 89 | 185| 
 | 20211030T23:47:35Z | My Roblox Exploit | https://github.com/holdwyd/Hold | 0 | 0| 
 | 20211030T22:56:07Z | Utilizing an individual company sales dataset to exploit my experience in feature engineering, data transformation, and machine learning deployment. | https://github.com/nickdemiceli/Target-Audience-Random-Forest | 0 | 0| 
 | 20211030T22:42:05Z | Null | https://github.com/vexybtw/PlutoExploit | 0 | 0| 
