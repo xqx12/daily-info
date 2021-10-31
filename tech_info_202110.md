@@ -143,6 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211031T12:50:16Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211031T12:43:37Z | A groovy/java tabular Data (from CSV,SQL,JSON) processing library that supports fuzzy column matching,tranformations/merging/querying | https://github.com/kayr/fuzzy-csv | 11 | 6| 
 | 20211031T12:36:11Z | Simple Programming Language is a simple, easy syntax-based, loosely-typed programming language meant to help new programmers to get comfortable with building logic rather than fuzzing over confusing syntax.  | https://github.com/Vilayat-Ali/simple-programming-language | 0 | 0| 
 | 20211031T12:36:08Z | Web Fuzzer Helper | https://github.com/Aif4thah/CShidori | 0 | 0| 
@@ -151,7 +152,6 @@
 | 20211031T11:54:02Z | Fuzzy based segmentation of remotely sensed images using an Adaptive Neuro Fuzzy Inference System (ANFIS). | https://github.com/andmon97/FuzzyRemoteSensingSegmentation | 9 | 0| 
 | 20211031T10:47:24Z | FuzzerNetwork | https://github.com/patriotsec/fuzzer | 0 | 0| 
 | 20211031T10:13:44Z | Fuzzing the Rust crypto library orion with honggfuzz-rs | https://github.com/orion-rs/orion-fuzz | 1 | 1| 
-| 20211031T09:34:30Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211031T09:16:23Z | Planning tool | https://github.com/HappyDustbunny/FuzzyFlexx | 1 | 0| 
 
 
