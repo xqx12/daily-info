@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211031T01:37:10Z | CVE-2021-20837 | have a test | https://github.com/ohnonoyesyes/CVE-2021-20837 | | 
 | 20211030T22:06:59Z | CVE-2021-37678 | TP Seguridad Informática UTN FRBA 2021 | https://github.com/fran-CICS/ExploitTensorflowCVE-2021-37678 | | 
 | 20211030T19:29:06Z | CVE-2020-15368 | CVE-2020-15368, aka "How to exploit a vulnerable driver" | https://github.com/stong/CVE-2020-15368 | | 
 | 20211030T18:25:11Z | CVE-2021-20837 | XMLRPC  - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | | 
@@ -55,7 +56,6 @@
 | 20211030T08:52:27Z | CVE-2021-22205 | CVE-2021-22205 移除了对djvumake & djvulibre的依赖，可在win平台使用 | https://github.com/whwlsfb/CVE-2021-22205 | | 
 | 20211030T08:17:59Z | 未知编号 | For IS713 Project | https://github.com/sinjeanmin/cvedetails_2020 | | 
 | 20211030T05:44:27Z | CVE-2020-2551 | how detect CVE-2020-2551 poc exploit python Weblogic RCE with IIOP | https://github.com/hktalent/CVE-2020-2551 | | 
-| 20211029T22:32:30Z | CVE-2021-41646 | Remote Code Execution (RCE) vulnerability exists in Sourcecodester Online Reviewer System 1.0 by uploading a maliciously crafted PHP file that bypasses the image upload filters.. | https://github.com/hax3xploit/CVE-2021-41646 | | 
 
 
 # klee on Github 推荐
@@ -89,6 +89,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211031T01:36:24Z | Null | https://github.com/ZakaryaRabaty/exploit99 | 0 | 0| 
+| 20211031T01:35:53Z | Null | https://github.com/ZakaryaRabaty/exploit | 0 | 0| 
 | 20211031T01:33:51Z | The Framework made for red teamers. This framework has a custom Listener module along side a obfuscated payload generator far better and metasploits when it comes to AV Evasion. Soon to be implimenting exploits and auxilary modules aswell If you have any questions or concearns you can reach out to me via discord at ~Kibi~#0001 | https://github.com/K1B0R/K1B0R-Framework | 0 | 0| 
 | 20211031T01:11:58Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 90 | 185| 
 | 20211031T01:03:08Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 34 | 19| 
@@ -97,8 +99,6 @@
 | 20211030T23:47:35Z | My Roblox Exploit | https://github.com/holdwyd/Hold | 0 | 0| 
 | 20211030T22:56:07Z | Utilizing an individual company sales dataset to exploit my experience in feature engineering, data transformation, and machine learning deployment. | https://github.com/nickdemiceli/Target-Audience-Random-Forest | 0 | 0| 
 | 20211030T22:42:05Z | Null | https://github.com/vexybtw/PlutoExploit | 0 | 0| 
-| 20211030T22:13:15Z | Небольшой плагин для исправления некоторых багов. | https://github.com/Imptovskii/ExploitFixer | 2 | 0| 
-| 20211030T22:06:59Z | TP Seguridad Informática UTN FRBA 2021 | https://github.com/fran-CICS/ExploitTensorflowCVE-2021-37678 | 2 | 0| 
 
 
 # backdoor on Github 推荐
