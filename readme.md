@@ -46,7 +46,6 @@
 | --- | --- | --- | --- | ---| 
 | 20211030T23:47:35Z | My Roblox Exploit | https://github.com/holdwyd/Hold | 0 | 0| 
 | 20211030T23:36:22Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 89 | 184| 
-| 20211030T23:03:04Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 34 | 19| 
 | 20211030T22:56:07Z | Utilizing an individual company sales dataset to exploit my experience in feature engineering, data transformation, and machine learning deployment. | https://github.com/nickdemiceli/Target-Audience-Random-Forest | 0 | 0| 
 | 20211030T22:42:05Z | Null | https://github.com/vexybtw/PlutoExploit | 0 | 0| 
 | 20211030T22:13:15Z | Небольшой плагин для исправления некоторых багов. | https://github.com/Imptovskii/ExploitFixer | 2 | 0| 
@@ -54,6 +53,7 @@
 | 20211030T22:05:54Z | A python cli that ik sucks and looks cringy its just easier than before | https://github.com/Ted6828/MySchoolExploits | 0 | 0| 
 | 20211030T22:05:42Z | The first thing every penetration tester performs getting into a controller domain subnet is to brute force discovery of users which is called a Kerbrute attack. There are plenty of articles about that type of exploitation but in every source an author uses a preset dictionary for his purposes which is no so perfectly related to the real life. I tried to fill this gap by creating a universal working dictionary for Kerbrute attack in the Russian AD. | https://github.com/IvanGlinkin/Dics-for-Russian-AD | 0 | 0| 
 | 20211030T20:57:49Z | HatVenom is a HatSploit native powerful payload generation and shellcode injection tool that provides support for common platforms and architectures. | https://github.com/EntySec/HatVenom | 55 | 19| 
+| 20211030T20:39:14Z | Database Systems - Principles of database design and operation. Relational data model. High-level data modeling representations. SQL database language. Active databases with constraints and triggers. Query optimization with views and indexes. Exploiting database servers within programming languages for web application development. Other topics include transaction processing and recovery, user-defined functions, and data warehousing.  | https://github.com/kingkirpal2000/CSE-111 | 1 | 0| 
 
 
 # backdoor on Github 推荐
