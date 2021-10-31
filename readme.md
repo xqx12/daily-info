@@ -97,8 +97,8 @@
 | 20211030T22:16:07Z | Tool for measuring string similarities based on Jaccard Similarity scoring | https://github.com/Hillard28/fuzzygram | 0 | 0| 
 | 20211030T22:09:32Z | Null | https://github.com/lzhfromustc/goFuzz | 0 | 0| 
 | 20211030T22:05:06Z | Null | https://github.com/vrthra/KaitaiFuzz | 0 | 0| 
-| 20211030T22:01:54Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211030T22:01:25Z | A repository for top fuzzing works in the literature. | https://github.com/PBearson/Fuzzing_Works | 1 | 0| 
+| 20211030T21:46:52Z | Null | https://github.com/cycy2233/fuzzy-umbrella | 0 | 0| 
 
 
 

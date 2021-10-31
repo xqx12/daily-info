@@ -143,6 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211031T00:16:02Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211030T23:58:14Z | Highly experimental parser that calculates the way a pattern best matches a text, and how closely it matches the text, rather than calculates a binary match or parse error. | https://github.com/SamRoberts/fuzzy | 0 | 0| 
 | 20211030T23:43:44Z | Fuzzinator Random Testing Framework | https://github.com/renatahodovan/fuzzinator | 178 | 38| 
 | 20211030T23:42:13Z | One giant file for danielmiessler/SecLists repository. Useful for leaving web fuzzer on coming back later to analyse results | https://github.com/freitzzz/danielmiessler-seclists-one-giant-file | 0 | 0| 
@@ -151,7 +152,6 @@
 | 20211030T22:16:07Z | Tool for measuring string similarities based on Jaccard Similarity scoring | https://github.com/Hillard28/fuzzygram | 0 | 0| 
 | 20211030T22:09:32Z | Null | https://github.com/lzhfromustc/goFuzz | 0 | 0| 
 | 20211030T22:05:06Z | Null | https://github.com/vrthra/KaitaiFuzz | 0 | 0| 
-| 20211030T22:01:54Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211030T22:01:25Z | A repository for top fuzzing works in the literature. | https://github.com/PBearson/Fuzzing_Works | 1 | 0| 
 
 
