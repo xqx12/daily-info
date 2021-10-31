@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211031T01:29:20Z | The Framework made for red teamers. This framework has a custom Listener module along side a obfuscated payload generator far better and metasploits when it comes to AV Evasion. Soon to be implimenting exploits and auxilary modules aswell If you have any questions or concearns you can reach out to me via discord at ~Kibi~#0001 | https://github.com/K1B0R/K1B0R-Framework | 0 | 0| 
 | 20211031T01:11:58Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 90 | 185| 
 | 20211031T01:03:08Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 34 | 19| 
 | 20211031T00:46:48Z | simple roblox exploit made in C# by me, i made this to practice my C# coding | https://github.com/Foxxive/FoxSploit | 0 | 0| 
@@ -98,7 +99,6 @@
 | 20211030T22:42:05Z | Null | https://github.com/vexybtw/PlutoExploit | 0 | 0| 
 | 20211030T22:13:15Z | Небольшой плагин для исправления некоторых багов. | https://github.com/Imptovskii/ExploitFixer | 2 | 0| 
 | 20211030T22:06:59Z | TP Seguridad Informática UTN FRBA 2021 | https://github.com/fran-CICS/ExploitTensorflowCVE-2021-37678 | 2 | 0| 
-| 20211030T22:05:54Z | A python cli that ik sucks and looks cringy its just easier than before | https://github.com/Ted6828/MySchoolExploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
