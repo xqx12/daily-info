@@ -76,6 +76,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211031T12:36:11Z | Simple Programming Language is a simple, easy syntax-based, loosely-typed programming language meant to help new programmers to get comfortable with building logic rather than fuzzing over confusing syntax.  | https://github.com/Vilayat-Ali/simple-programming-language | 0 | 0| 
+| 20211031T12:36:08Z | Web Fuzzer Helper | https://github.com/Aif4thah/CShidori | 0 | 0| 
 | 20211031T12:28:18Z | Null | https://github.com/kabolat/AutoFuzzifier | 0 | 0| 
 | 20211031T11:54:59Z | An extensible multi-format black box fuzzer  | https://github.com/Angus-C-git/fuzzy-bear | 2 | 0| 
 | 20211031T11:54:02Z | Fuzzy based segmentation of remotely sensed images using an Adaptive Neuro Fuzzy Inference System (ANFIS). | https://github.com/andmon97/FuzzyRemoteSensingSegmentation | 9 | 0| 
@@ -84,8 +86,6 @@
 | 20211031T09:34:30Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211031T09:16:23Z | Planning tool | https://github.com/HappyDustbunny/FuzzyFlexx | 1 | 0| 
 | 20211031T09:08:32Z | Fuzzing tool for the 14th institute | https://github.com/Radon10043/fuzzing-tool-14 | 0 | 2| 
-| 20211031T08:07:44Z | Null | https://github.com/polymorphicengine/Semi-Fuzzy-Quantifiers | 0 | 0| 
-| 20211031T07:38:09Z | Learning how to code | https://github.com/sanjapm/fuzzy-code | 0 | 0| 
 
 
 
