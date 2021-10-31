@@ -143,6 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211031T01:28:22Z | Null | https://github.com/Rageye/fuzzy-guide | 0 | 0| 
 | 20211031T01:15:25Z | Penerapan sederhana logika fuzzy dalam bahasa pemrograman | https://github.com/alifirhas/Fuzzy-Basic | 0 | 0| 
 | 20211031T00:19:37Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2135 | 418| 
 | 20211031T00:16:02Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
@@ -152,7 +153,6 @@
 | 20211030T23:32:02Z | Configurations written for Fuzzinator | https://github.com/renatahodovan/fuzzinator-configs | 8 | 4| 
 | 20211030T22:25:39Z | Null | https://github.com/oscarpimentel/fuzzy-tools | 0 | 0| 
 | 20211030T22:16:07Z | Tool for measuring string similarities based on Jaccard Similarity scoring | https://github.com/Hillard28/fuzzygram | 0 | 0| 
-| 20211030T22:09:32Z | Null | https://github.com/lzhfromustc/goFuzz | 0 | 0| 
 
 
 
