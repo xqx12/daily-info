@@ -54,6 +54,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211031T12:21:11Z | An easy way to create a backdoor and have access to every WP site you made. | https://github.com/ccadevs/BackdoorUserWordPress | 0 | 0| 
 | 20211031T11:24:29Z | Neo est un tool / outil pour crée des backdoor sur Windows et Linux pour Windows et Linux. Développer en python3.9 et arrive dans un mois en Perl (pour les puristes) | https://github.com/Psyquoquack/Neo | 0 | 0| 
 | 20211031T09:10:38Z | The best backdoor scanner there is. | https://github.com/iK4oS/backdoor.exe | 2 | 4| 
 | 20211031T09:00:18Z | backdoors! | https://github.com/soysteayamdeee/soysteayamdeee | 0 | 0| 
