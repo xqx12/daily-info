@@ -143,7 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211031T01:03:33Z | Penerapan sederhana logika fuzzy dalam bahasa pemrograman | https://github.com/alifirhas/Fuzzy-Basic | 0 | 0| 
+| 20211031T01:15:25Z | Penerapan sederhana logika fuzzy dalam bahasa pemrograman | https://github.com/alifirhas/Fuzzy-Basic | 0 | 0| 
 | 20211031T00:19:37Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2135 | 418| 
 | 20211031T00:16:02Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211030T23:58:14Z | Highly experimental parser that calculates the way a pattern best matches a text, and how closely it matches the text, rather than calculates a binary match or parse error. | https://github.com/SamRoberts/fuzzy | 0 | 0| 
