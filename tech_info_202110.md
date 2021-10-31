@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211031T12:16:45Z | Android RAT with web panel and undetectable App | https://github.com/Th30neAnd0nly/Ohm | 75 | 31| 
 | 20211031T12:02:58Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 34 | 19| 
 | 20211031T11:44:43Z | A updated linora source with special exploits, always be updated to latest update | https://github.com/RealNotSimcraftlol/Fortnite-Bulletp-Internal-Cheat | 2 | 0| 
 | 20211031T11:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10266 | 1760| 
@@ -98,7 +99,6 @@
 | 20211031T10:03:13Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITION | 2 | 0| 
 | 20211031T09:51:48Z | PS4 Jailbreak by Karo and Re Designed by Me For Firmware 672 | https://github.com/Harleythetech/Exploit-6.72 | 0 | 0| 
 | 20211031T09:36:55Z | Hey! I%m edoardottt! 🏴‍☠️👹 | https://github.com/edoardottt/edoardottt | 0 | 0| 
-| 20211031T09:34:14Z | Config files for my GitHub profile. | https://github.com/ZachAProfessionalExploiter/ZachAProfessionalExploiter | 0 | 0| 
 
 
 # backdoor on Github 推荐
