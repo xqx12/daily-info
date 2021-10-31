@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211031T00:37:48Z | roblox exploit i made to practice C# | https://github.com/Foxxive/FoxSploit | 0 | 0| 
 | 20211031T00:23:18Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 89 | 185| 
 | 20211031T00:03:12Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 34 | 19| 
 | 20211030T23:47:35Z | My Roblox Exploit | https://github.com/holdwyd/Hold | 0 | 0| 
@@ -98,7 +99,6 @@
 | 20211030T22:06:59Z | TP Seguridad Informática UTN FRBA 2021 | https://github.com/fran-CICS/ExploitTensorflowCVE-2021-37678 | 2 | 0| 
 | 20211030T22:05:54Z | A python cli that ik sucks and looks cringy its just easier than before | https://github.com/Ted6828/MySchoolExploits | 0 | 0| 
 | 20211030T22:05:42Z | The first thing every penetration tester performs getting into a controller domain subnet is to brute force discovery of users which is called a Kerbrute attack. There are plenty of articles about that type of exploitation but in every source an author uses a preset dictionary for his purposes which is no so perfectly related to the real life. I tried to fill this gap by creating a universal working dictionary for Kerbrute attack in the Russian AD. | https://github.com/IvanGlinkin/Dics-for-Russian-AD | 0 | 0| 
-| 20211030T20:57:49Z | HatVenom is a HatSploit native powerful payload generation and shellcode injection tool that provides support for common platforms and architectures. | https://github.com/EntySec/HatVenom | 55 | 19| 
 
 
 # backdoor on Github 推荐
