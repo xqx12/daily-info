@@ -104,6 +104,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211031T00:37:16Z | A TCP Backdoor made in python | https://github.com/ferreiraklet/Tracey-Backdoor | 7 | 0| 
 | 20211030T23:04:54Z | Codebase for my Level 4 University Project: Static Analysis of Executable Code to Detect Backdoors on IoT Devices | https://github.com/sophieboyle/Static-IoT-Backdoor-Detection | 0 | 0| 
 | 20211030T21:48:40Z | The best backdoor scanner there is. | https://github.com/iK4oS/backdoor.exe | 2 | 4| 
 | 20211030T20:55:02Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 357 | 155| 
@@ -112,7 +113,6 @@
 | 20211030T18:01:34Z | Cyber Security | https://github.com/pulkitkhandelwal29/Backdoor-Malware | 0 | 0| 
 | 20211030T17:25:27Z | A self made multi-purpose CTF tool written under Kali Linux Os taking adventage of several programs pre-installed. Contains one liner backdoors generator for many programs/languages, recognition scanners, useful  encoders/decoders with some special features as powershell base64 format, tools from ... [ more info at README.md ] | https://github.com/0bfxgh0st/saf2 | 2 | 1| 
 | 20211030T16:49:42Z | Null | https://github.com/csdongxian/ANP_backdoor | 5 | 0| 
-| 20211030T16:45:03Z | A TCP Backdoor made in python | https://github.com/ferreiraklet/Tracey-Backdoor | 6 | 0| 
 | 20211030T15:13:40Z | Neo est un tool / outil pour crée des backdoor sur Windows et Linux pour Windows et Linux. Développer en python3.9 et arrive dans un mois en Perl (pour les puristes) | https://github.com/Psyquoquack/Neo | 0 | 0| 
 
 
