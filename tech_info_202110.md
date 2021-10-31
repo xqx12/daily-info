@@ -46,21 +46,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211030T12:44:01Z | CVE-2021-20837 | XMLRPC  - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | | 
+| 20211030T22:06:59Z | CVE-2021-37678 | TP Seguridad Informática UTN FRBA 2021 | https://github.com/fran-CICS/ExploitTensorflowCVE-2021-37678 | | 
+| 20211030T19:29:06Z | CVE-2020-15368 | CVE-2020-15368, aka "How to exploit a vulnerable driver" | https://github.com/stong/CVE-2020-15368 | | 
+| 20211030T18:25:11Z | CVE-2021-20837 | XMLRPC  - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | | 
+| 20211030T17:30:17Z | CVE-2020-0668 | Null | https://github.com/bypazs/CVE-2020-0668 | | 
 | 20211030T12:01:38Z | CVE-2021-22205 | PoC in single line bash | https://github.com/findneo/GitLab-preauth-RCE_CVE-2021-22205 | | 
 | 20211030T09:33:50Z | CVE-2021-22205 | CVE-2021-22205& GitLab CE/EE RCE | https://github.com/Al1ex/CVE-2021-22205 | | 
 | 20211030T08:52:27Z | CVE-2021-22205 | CVE-2021-22205 移除了对djvumake & djvulibre的依赖，可在win平台使用 | https://github.com/whwlsfb/CVE-2021-22205 | | 
 | 20211030T08:17:59Z | 未知编号 | For IS713 Project | https://github.com/sinjeanmin/cvedetails_2020 | | 
 | 20211030T05:44:27Z | CVE-2020-2551 | how detect CVE-2020-2551 poc exploit python Weblogic RCE with IIOP | https://github.com/hktalent/CVE-2020-2551 | | 
 | 20211029T22:32:30Z | CVE-2021-41646 | Remote Code Execution (RCE) vulnerability exists in Sourcecodester Online Reviewer System 1.0 by uploading a maliciously crafted PHP file that bypasses the image upload filters.. | https://github.com/hax3xploit/CVE-2021-41646 | | 
-| 20211029T22:31:02Z | CVE-2021-41645 | Remote Code Execution (RCE) vulnerability exists in Sourcecodester Budget and Expense Tracker System 1.0 that allows a remote malicious user to inject arbitrary code via the image upload field.  | https://github.com/hax3xploit/CVE-2021-41645 | | 
-| 20211029T22:29:17Z | CVE-2021-41644 | Remote Code Exection (RCE) vulnerability exists in Sourcecodester Online Food Ordering System 2.0 via a maliciously crafted PHP file that bypasses the image upload filters. | https://github.com/hax3xploit/CVE-2021-41644 | | 
-| 20211029T22:27:10Z | CVE-2021-41643 | Remote Code Execution (RCE) vulnerability exists in Sourcecodester Church Management System 1.0 via the image upload field. | https://github.com/hax3xploit/CVE-2021-41643 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211030T22:01:52Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1798 | 513| 
 | 20211030T07:45:47Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
 | 20211029T15:26:18Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 220 | 36| 
 | 20211029T15:19:01Z | Das Identitäts- und Accessmanagement für WebExpress-Anwendungen. | https://github.com/ReneSchwarzer/Kleene.IAM | 0 | 0| 
@@ -70,14 +71,13 @@
 | 20211029T07:14:54Z | Null | https://github.com/klee669/klee669.github.io | 0 | 0| 
 | 20211029T03:19:05Z | Null | https://github.com/kleemeo/kleemeo.github.io | 0 | 0| 
 | 20211028T18:26:07Z | An opiniated Next TypeScript powered starter which include Klee, emotion / styled-system, framer motion, jest and Cypress | https://github.com/Liinkiing/next-ts-klee-starter | 0 | 0| 
-| 20211028T18:01:47Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 14 | 1| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211030T14:26:50Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 178 | 39| 
 | 20211030T06:39:11Z | Web only managment interface from cli, using requests | https://github.com/kisst/s2e | 0 | 0| 
-| 20211029T03:49:44Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 177 | 39| 
 | 20211028T09:53:56Z | 🎻 Requiem: Modular exploit generation using symbolic execution | https://github.com/aesophor/requiem | 14 | 3| 
 | 20211020T18:40:35Z | Null | https://github.com/yuvalkirstain/s2e-coref | 17 | 7| 
 | 20211020T04:35:04Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 76 | 31| 
@@ -89,31 +89,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211030T12:40:32Z | Cobalt Strike is a commercial, full-featured, remote access tool that bills itself as %adversary simulation software designed to execute targeted attacks and emulate the post-exploitation actions of advanced threat actors%. Cobalt Strike’s interactive post-exploit capabilities cover the full range of ATT&CK tactics, all executed within a single, integrated system. | https://github.com/trewisscotch/CobaltStr4.4 | 1 | 0| 
-| 20211030T12:37:44Z | K8博客 | https://github.com/k8gege/k8gege.github.io | 18 | 7| 
-| 20211030T12:36:35Z | K8工具合集(内网渗透/提权工具/远程溢出/漏洞利用/扫描工具/密码破解/免杀工具/Exploit/APT/0day/Shellcode/Payload/priviledge/BypassUAC/OverFlow/WebShell/PenTest) Web GetShell Exploit(Struts2/Zimbra/Weblogic/Tomcat/Apache/Jboss/DotNetNuke/zabbix) | https://github.com/k8gege/K8tools | 4043 | 1831| 
-| 20211030T12:36:21Z | HackTheBox Custom Exploits | https://github.com/vvinoth/HTBCustomExploits | 0 | 0| 
-| 20211030T12:19:59Z | 大型内网渗透扫描器&Cobalt Strike，Ladon8.9内置120个模块，包含信息收集/存活主机/端口扫描/服务识别/密码爆破/漏洞检测/漏洞利用。漏洞检测含MS17010/SMBGhost/Weblogic/ActiveMQ/Tomcat/Struts2，密码口令爆破(Mysql/Oracle/MSSQL)/FTP/SSH(Linux)/VNC/Windows(IPC/WMI/SMB/Netbios/LDAP/SmbHash/WmiHash/Winrm),远程执行命令(smbexec/wmiexe/psexec/atexec/sshexec/webshell),降权提权Runas、GetSystem，Poc/Exploit,支持Cobalt Strike 3.X-4.0 | https://github.com/k8gege/Ladon | 2816 | 666| 
-| 20211030T12:17:01Z | Ladon for Cobalt Strike & Cracked Download,Large Network Penetration Scanner, vulnerability / exploit / detection / MS17010 / password/brute-force/psexec/atexec/sshexec/webshell/smbexec/netcat/osscan/netscan/struts2Poc/weblogicExp | https://github.com/k8gege/Aggressor | 343 | 79| 
-| 20211030T12:04:14Z | Null | https://github.com/BenKabongo25/ExplorationExploitation | 0 | 0| 
-| 20211030T12:03:24Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 34 | 19| 
-| 20211030T12:03:13Z | Haimgard is an environment for writing, testing and using exploit code. | https://github.com/onuratakan/Haimgard | 0 | 0| 
-| 20211030T11:46:57Z | Null | https://github.com/joeengo/exploiting | 0 | 0| 
+| 20211030T23:47:35Z | My Roblox Exploit | https://github.com/holdwyd/Hold | 0 | 0| 
+| 20211030T23:36:22Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 89 | 184| 
+| 20211030T23:03:04Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 34 | 19| 
+| 20211030T22:56:07Z | Utilizing an individual company sales dataset to exploit my experience in feature engineering, data transformation, and machine learning deployment. | https://github.com/nickdemiceli/Target-Audience-Random-Forest | 0 | 0| 
+| 20211030T22:42:05Z | Null | https://github.com/vexybtw/PlutoExploit | 0 | 0| 
+| 20211030T22:13:15Z | Небольшой плагин для исправления некоторых багов. | https://github.com/Imptovskii/ExploitFixer | 2 | 0| 
+| 20211030T22:06:59Z | TP Seguridad Informática UTN FRBA 2021 | https://github.com/fran-CICS/ExploitTensorflowCVE-2021-37678 | 2 | 0| 
+| 20211030T22:05:54Z | A python cli that ik sucks and looks cringy its just easier than before | https://github.com/Ted6828/MySchoolExploits | 0 | 0| 
+| 20211030T22:05:42Z | The first thing every penetration tester performs getting into a controller domain subnet is to brute force discovery of users which is called a Kerbrute attack. There are plenty of articles about that type of exploitation but in every source an author uses a preset dictionary for his purposes which is no so perfectly related to the real life. I tried to fill this gap by creating a universal working dictionary for Kerbrute attack in the Russian AD. | https://github.com/IvanGlinkin/Dics-for-Russian-AD | 0 | 0| 
+| 20211030T20:57:49Z | HatVenom is a HatSploit native powerful payload generation and shellcode injection tool that provides support for common platforms and architectures. | https://github.com/EntySec/HatVenom | 55 | 19| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211030T09:31:20Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 356 | 154| 
-| 20211030T08:52:52Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 347 | 62| 
-| 20211030T08:14:44Z | a simple backdoor for learning how malware RAT works, not for attacking real stuffs, this backdoor faciltiated with a listener and can initiated in CMD interface, | https://github.com/stormdotcom/backdoor-working | 0 | 0| 
-| 20211030T06:38:21Z | Into backdoor with node and express! | https://github.com/dasgupta002/web-node-advanced | 1 | 0| 
-| 20211030T06:25:29Z | Null | https://github.com/THUYimingLi/BackdoorBox | 1 | 1| 
-| 20211030T04:53:45Z | Null | https://github.com/csdongxian/ANP_backdoor | 5 | 0| 
-| 20211030T01:13:31Z | Database of backdoor passwords used by Malware, uncovered by the Malvuln project. | https://github.com/malvuln/viruscreds | 0 | 0| 
-| 20211030T00:25:24Z | Simple win32 backdoor consisting of a client and a server. | https://github.com/Mewgood/win32-sockets-backdoor | 0 | 0| 
-| 20211029T19:31:57Z | The code of AAAI-21 paper %Defending against Backdoors in Federated Learning with Robust Learning Rate%. | https://github.com/TinfoilHat0/Defending-Against-Backdoors-with-Robust-Learning-Rate | 2 | 2| 
-| 20211029T18:24:22Z | Panamahack2021 talk: PHP 8.1.0-dev backdoor | https://github.com/hftamayo/panamahack2021 | 0 | 0| 
+| 20211030T23:04:54Z | Codebase for my Level 4 University Project: Static Analysis of Executable Code to Detect Backdoors on IoT Devices | https://github.com/sophieboyle/Static-IoT-Backdoor-Detection | 0 | 0| 
+| 20211030T21:48:40Z | The best backdoor scanner there is. | https://github.com/iK4oS/backdoor.exe | 2 | 4| 
+| 20211030T20:55:02Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 357 | 155| 
+| 20211030T20:30:15Z | Python script to automate netcat backdoors, and works with nmap throughly. | https://github.com/thehackerdude597/Netmap | 0 | 0| 
+| 20211030T18:21:54Z | Null | https://github.com/Fartlicker777/Backdoor-Hacking | 0 | 0| 
+| 20211030T18:01:34Z | Cyber Security | https://github.com/pulkitkhandelwal29/Backdoor-Malware | 0 | 0| 
+| 20211030T17:25:27Z | A self made multi-purpose CTF tool written under Kali Linux Os taking adventage of several programs pre-installed. Contains one liner backdoors generator for many programs/languages, recognition scanners, useful  encoders/decoders with some special features as powershell base64 format, tools from ... [ more info at README.md ] | https://github.com/0bfxgh0st/saf2 | 2 | 1| 
+| 20211030T16:49:42Z | Null | https://github.com/csdongxian/ANP_backdoor | 5 | 0| 
+| 20211030T16:45:03Z | A TCP Backdoor made in python | https://github.com/ferreiraklet/Tracey-Backdoor | 6 | 0| 
+| 20211030T15:13:40Z | Neo est un tool / outil pour crée des backdoor sur Windows et Linux pour Windows et Linux. Développer en python3.9 et arrive dans un mois en Perl (pour les puristes) | https://github.com/Psyquoquack/Neo | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -143,16 +143,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211030T12:44:41Z | Simple Programming Language is a simple, easy syntax-based, loosely-typed programming language meant to help new programmers to get comfortable with building logic rather than fuzzing over confusing syntax.  | https://github.com/Vilayat-Ali/simple-programming-language | 0 | 0| 
-| 20211030T12:15:16Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 32 | 12| 
-| 20211030T11:51:41Z | Planning tool | https://github.com/HappyDustbunny/FuzzyFlexx | 1 | 0| 
-| 20211030T11:44:43Z | Null | https://github.com/Bariq09/Penentuan-Kerawanan-Longsor-Metode-Fuzzy-Logic | 0 | 0| 
-| 20211030T11:35:16Z | Null | https://github.com/rhaymisonbetini/logica-fuzzy-python | 0 | 0| 
-| 20211030T11:06:54Z | Leetcode solutions. | https://github.com/chaitanyks/fuzzy-disco | 0 | 0| 
-| 20211030T10:57:48Z | Additional peach fuzzer mutators | https://github.com/MGitea/Peachy | 0 | 0| 
-| 20211030T10:23:47Z | This code is used to get coordinates (i.e., latitude and longitude) of some places using their fuzzy names from Google Maps. | https://github.com/lyx66/Get-Coordinates-Using-the-Fuzzy-Names-of-Places | 1 | 0| 
-| 20211030T10:21:08Z | Mondlandung mithilfe von Fuzzy-Logik | https://github.com/tpoerschke/FuzzyMoonLanding | 0 | 0| 
-| 20211030T09:45:15Z | A small python project building note taking app using flask | https://github.com/datumcoder/fuzzy-telegram | 0 | 0| 
+| 20211030T23:58:14Z | Highly experimental parser that calculates the way a pattern best matches a text, and how closely it matches the text, rather than calculates a binary match or parse error. | https://github.com/SamRoberts/fuzzy | 0 | 0| 
+| 20211030T23:43:44Z | Fuzzinator Random Testing Framework | https://github.com/renatahodovan/fuzzinator | 178 | 38| 
+| 20211030T23:42:13Z | One giant file for danielmiessler/SecLists repository. Useful for leaving web fuzzer on coming back later to analyse results | https://github.com/freitzzz/danielmiessler-seclists-one-giant-file | 0 | 0| 
+| 20211030T23:32:02Z | Configurations written for Fuzzinator | https://github.com/renatahodovan/fuzzinator-configs | 8 | 4| 
+| 20211030T22:25:39Z | Null | https://github.com/oscarpimentel/fuzzy-tools | 0 | 0| 
+| 20211030T22:16:07Z | Tool for measuring string similarities based on Jaccard Similarity scoring | https://github.com/Hillard28/fuzzygram | 0 | 0| 
+| 20211030T22:09:32Z | Null | https://github.com/lzhfromustc/goFuzz | 0 | 0| 
+| 20211030T22:05:06Z | Null | https://github.com/vrthra/KaitaiFuzz | 0 | 0| 
+| 20211030T22:01:54Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20211030T22:01:25Z | A repository for top fuzzing works in the literature. | https://github.com/PBearson/Fuzzing_Works | 1 | 0| 
 
 
 
