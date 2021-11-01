@@ -88,7 +88,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20211031T22:36:45Z | A Software Package for Fuzzing Autonomous Driving Systems in Simulators | https://github.com/AIasd/ADFuzz | 0 | 0| 
-| 20211031T22:01:31Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211031T21:33:47Z | Null | https://github.com/wagnerkaba/fuzzy-rotary-phone | 0 | 0| 
 | 20211031T21:09:52Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6773 | 1408| 
 | 20211031T20:59:08Z | Mondlandung mithilfe von Fuzzy-Logik | https://github.com/tpoerschke/FuzzyMoonLanding | 1 | 0| 
@@ -97,6 +96,7 @@
 | 20211031T18:46:19Z | A groovy/java tabular Data (from CSV,SQL,JSON) processing library that supports fuzzy column matching,tranformations/merging/querying | https://github.com/kayr/fuzzy-csv | 11 | 6| 
 | 20211031T18:30:31Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 195 | 37| 
 | 20211031T18:24:34Z | Config files for my GitHub profile. | https://github.com/FuzzYan/FuzzYan | 0 | 0| 
+| 20211031T18:15:22Z | Null | https://github.com/phuocpro1969/app_fuzzy_handwriting_recognition | 0 | 0| 
 
 
 
