@@ -110,6 +110,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211101T12:27:14Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2414 | 148| 
 | 20211101T12:15:14Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 33 | 12| 
 | 20211101T12:13:20Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 1051 | 180| 
 | 20211101T12:04:30Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
@@ -119,7 +120,6 @@
 | 20211101T11:13:13Z | Null | https://github.com/Ftuuveye/fuzzy-octo-succotash | 0 | 0| 
 | 20211101T11:01:52Z | Null | https://github.com/nhsd-exeter/dos-service-fuzzy-search-api | 1 | 0| 
 | 20211101T10:40:37Z | Some code and simulations for my bachelor thesis | https://github.com/susie-ku/fuzzy_time_series | 0 | 0| 
-| 20211101T10:40:19Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 710 | 142| 
 
 
 
