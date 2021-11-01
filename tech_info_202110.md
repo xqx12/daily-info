@@ -92,13 +92,13 @@
 | 20211031T22:56:33Z | Null | https://github.com/tyuo392/exploits | 0 | 0| 
 | 20211031T22:56:24Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10270 | 1760| 
 | 20211031T22:40:00Z | KDMapper is a simple tool that exploits iqvw64e.sys Intel driver to manually map non-signed drivers in memory | https://github.com/TheCruZ/kdmapper | 448 | 156| 
-| 20211031T22:34:46Z | A scanner/exploitation tool written in GO, which leverages client-side Prototype Pollution to XSS by exploiting known gadgets. | https://github.com/kleiton0x00/ppmap | 225 | 28| 
 | 20211031T21:53:05Z | Null | https://github.com/alexprzt/Roblox-Exploiting | 0 | 0| 
 | 20211031T21:36:07Z | After many requests, our team created a new Silent DOC Exploit for Microsoft Office. The purpose of this exploit is to silently infect victims upon opening the document. Furthermore, this exploit will convert an .EXE to .DOC or .XLS without any detection’s from antivirus. In addition, we guarantee the exploit is FUD for the entirety of your subs… | https://github.com/attakercyebr/Exploit-doc | 2 | 1| 
 | 20211031T21:20:04Z | KRNL | https://github.com/BennyProduction/Free-Exploit--KRNL | 0 | 0| 
 | 20211031T20:58:00Z | Null | https://github.com/WhitfieBad/LearningExploiting | 0 | 0| 
 | 20211031T20:47:37Z | Null | https://github.com/Youheng-Lue/art-exploit | 0 | 0| 
 | 20211031T20:44:02Z | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | 106 | 22| 
+| 20211031T20:04:31Z | Repository with python scripts to help in exploiting x86 stack-based buffer overflows. | https://github.com/ArchCWithClasses/VanillaX86BufferOverflow | 0 | 0| 
 
 
 # backdoor on Github 推荐
