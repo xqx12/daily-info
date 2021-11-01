@@ -110,7 +110,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211101T12:07:08Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 1051 | 180| 
+| 20211101T12:13:20Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 1051 | 180| 
 | 20211101T12:04:30Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211101T11:47:22Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2370 | 472| 
 | 20211101T11:40:50Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6774 | 1408| 
