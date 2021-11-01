@@ -89,7 +89,6 @@
 | --- | --- | --- | --- | ---| 
 | 20211031T22:36:45Z | A Software Package for Fuzzing Autonomous Driving Systems in Simulators | https://github.com/AIasd/ADFuzz | 0 | 0| 
 | 20211031T21:33:47Z | Null | https://github.com/wagnerkaba/fuzzy-rotary-phone | 0 | 0| 
-| 20211031T21:09:52Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6773 | 1408| 
 | 20211031T20:59:08Z | Mondlandung mithilfe von Fuzzy-Logik | https://github.com/tpoerschke/FuzzyMoonLanding | 1 | 0| 
 | 20211031T20:12:41Z | Coverage Progression Plots Demonstrating the Effect of Grammar Transformation on Fuzzing | https://github.com/mark-schuegraf/fuzzing-with-grammar-variants-results | 0 | 0| 
 | 20211031T19:34:43Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
@@ -97,6 +96,7 @@
 | 20211031T18:30:31Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 195 | 37| 
 | 20211031T18:24:34Z | Config files for my GitHub profile. | https://github.com/FuzzYan/FuzzYan | 0 | 0| 
 | 20211031T18:15:22Z | Null | https://github.com/phuocpro1969/app_fuzzy_handwriting_recognition | 0 | 0| 
+| 20211031T17:19:19Z | 🔍 Web search in 3 steps with fuzzy selection based on CSV files. | https://github.com/yellowsoar/alfred_web_search_with_fuzzy_list | 2 | 0| 
 
 
 
