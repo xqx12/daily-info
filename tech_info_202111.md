@@ -110,6 +110,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211101T12:07:08Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 1051 | 180| 
 | 20211101T12:04:30Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211101T11:47:22Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2370 | 472| 
 | 20211101T11:40:50Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6774 | 1408| 
@@ -119,7 +120,6 @@
 | 20211101T10:40:37Z | Some code and simulations for my bachelor thesis | https://github.com/susie-ku/fuzzy_time_series | 0 | 0| 
 | 20211101T10:40:19Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 710 | 142| 
 | 20211101T10:29:56Z | 开源、轻量、快速、跨平台 的红队(redteam)外网打点扫描器，功能 端口扫描(port scan) 指纹识别(fingerprint) nday检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | 237 | 32| 
-| 20211101T10:23:29Z | CC paper on compiler fuzzing | https://github.com/agroce/cc2022 | 0 | 0| 
 
 
 
