@@ -40,7 +40,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211101T12:54:21Z | CVE-2021-31862 | Null | https://github.com/RobertDra/CVE-2021-31862 | | 
+| 20211101T12:56:14Z | CVE-2021-31862 | Null | https://github.com/RobertDra/CVE-2021-31862 | | 
 | 20211101T10:50:14Z | CVE-2021-28079 | POC Jamovi <=1.6.18 is affected by a cross-site scripting (XSS) vulnerability. The column-name is vulnerable to XSS in the ElectronJS Framework. An attacker can make a .omv (Jamovi) document containing a payload. When opened by victim, the payload is triggered. | https://github.com/g33xter/CVE-2021-28079 | | 
 | 20211101T09:08:54Z | CVE-2021-20837 | XMLRPC  - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | | 
 | 20211101T09:06:27Z | CVE-2021-30573 | Google Chrome Vulnerabilities CVE-2021-30573 | https://github.com/oxctdev/CVE-2021-30573 | | 
