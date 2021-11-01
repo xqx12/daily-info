@@ -67,7 +67,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211101T12:54:27Z | Null | https://github.com/Athis-Offsec/Exploits-I-Made | 0 | 0| 
+| 20211101T12:56:35Z | Null | https://github.com/Athis-Offsec/Exploits-I-Made | 0 | 0| 
 | 20211101T12:45:19Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 14| 
 | 20211101T12:03:07Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 34 | 19| 
 | 20211101T11:45:11Z | Null | https://github.com/Youheng-Lue/art-exploit | 0 | 0| 
