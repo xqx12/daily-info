@@ -66,12 +66,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211101T12:03:07Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 34 | 19| 
 | 20211101T11:45:11Z | Null | https://github.com/Youheng-Lue/art-exploit | 0 | 0| 
 | 20211101T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10270 | 1761| 
 | 20211101T11:33:03Z | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily. | https://github.com/cdk-team/CDK | 1809 | 282| 
 | 20211101T11:31:12Z | K8博客 | https://github.com/k8gege/k8gege.github.io | 18 | 7| 
 | 20211101T11:17:13Z | Null | https://github.com/DracoFAAD/exploit-lib-roblox | 0 | 0| 
-| 20211101T11:03:11Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 34 | 19| 
 | 20211101T10:01:04Z | Null | https://github.com/Henrinnes/exploiting-securing-Docker-and-kubernetes | 0 | 0| 
 | 20211101T09:31:47Z | A high-performance general-purpose MRF MAP solver, heavily exploiting SIMD instructions. | https://github.com/dthuerck/mapmap_cpu | 66 | 33| 
 | 20211101T08:49:50Z | A reverse shell is a shell session established on a connection that is initiated from a remote machine, not from the local host. Attackers who successfully exploit a remote command execution vulnerability can use a reverse shell to obtain an interactive shell session on the target machine and continue their execution. | https://github.com/punyaslokdutta/Reverse-Shell-scripts | 0 | 0| 
