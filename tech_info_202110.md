@@ -48,7 +48,6 @@
 | --- | --- | --- | --- | ---| 
 | 20211031T21:47:53Z | CVE-2021-30573 | Google Chrome Vulnerabilities CVE-2021-30573 | https://github.com/oxctdev/CVE-2021-30573 | | 
 | 20211031T19:36:43Z | CVE-2021-20837 | XMLRPC  - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | | 
-| 20211031T15:40:36Z | CVE-2021-22205 | CVE-2021-22205 RCE  | https://github.com/c0okB/CVE-2021-22205 | | 
 | 20211031T15:29:24Z | CVE-2021-1675 | Null | https://github.com/puckiestyle/CVE-2021-1675 | | 
 | 20211031T09:03:17Z | CVE-2021-28079 | POC Jamovi <=1.6.18 is affected by a cross-site scripting (XSS) vulnerability. The column-name is vulnerable to XSS in the ElectronJS Framework. An attacker can make a .omv (Jamovi) document containing a payload. When opened by victim, the payload is triggered. | https://github.com/g33xter/CVE-2021-28079 | | 
 | 20211031T08:15:03Z | CVE-2021-40444 | An attempt to reproduce Microsoft MSHTML Remote Code Execution (RCE) Vulnerability and using Metasploit Framework. | https://github.com/0xK4gura/CVE-2021-40444-POC | | 
@@ -56,6 +55,7 @@
 | 20211031T01:37:10Z | CVE-2021-20837 | have a test | https://github.com/ohnonoyesyes/CVE-2021-20837 | | 
 | 20211030T22:06:59Z | CVE-2021-37678 | TP Seguridad Informática UTN FRBA 2021 | https://github.com/fran-CICS/ExploitTensorflowCVE-2021-37678 | | 
 | 20211030T19:29:06Z | CVE-2020-15368 | CVE-2020-15368, aka "How to exploit a vulnerable driver" | https://github.com/stong/CVE-2020-15368 | | 
+| 20211030T17:30:17Z | CVE-2020-0668 | Null | https://github.com/bypazs/CVE-2020-0668 | | 
 
 
 # klee on Github 推荐

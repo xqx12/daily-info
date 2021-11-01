@@ -18,7 +18,6 @@
 | --- | --- | --- | --- | ---| 
 | 20211031T21:47:53Z | CVE-2021-30573 | Google Chrome Vulnerabilities CVE-2021-30573 | https://github.com/oxctdev/CVE-2021-30573 | | 
 | 20211031T19:36:43Z | CVE-2021-20837 | XMLRPC  - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | | 
-| 20211031T15:40:36Z | CVE-2021-22205 | CVE-2021-22205 RCE  | https://github.com/c0okB/CVE-2021-22205 | | 
 | 20211031T15:29:24Z | CVE-2021-1675 | Null | https://github.com/puckiestyle/CVE-2021-1675 | | 
 | 20211031T09:03:17Z | CVE-2021-28079 | POC Jamovi <=1.6.18 is affected by a cross-site scripting (XSS) vulnerability. The column-name is vulnerable to XSS in the ElectronJS Framework. An attacker can make a .omv (Jamovi) document containing a payload. When opened by victim, the payload is triggered. | https://github.com/g33xter/CVE-2021-28079 | | 
 | 20211031T08:15:03Z | CVE-2021-40444 | An attempt to reproduce Microsoft MSHTML Remote Code Execution (RCE) Vulnerability and using Metasploit Framework. | https://github.com/0xK4gura/CVE-2021-40444-POC | | 
