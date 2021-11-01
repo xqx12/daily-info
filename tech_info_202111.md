@@ -40,6 +40,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211101T12:54:21Z | CVE-2021-31862 | Null | https://github.com/RobertDra/CVE-2021-31862 | | 
 | 20211101T10:50:14Z | CVE-2021-28079 | POC Jamovi <=1.6.18 is affected by a cross-site scripting (XSS) vulnerability. The column-name is vulnerable to XSS in the ElectronJS Framework. An attacker can make a .omv (Jamovi) document containing a payload. When opened by victim, the payload is triggered. | https://github.com/g33xter/CVE-2021-28079 | | 
 | 20211101T09:08:54Z | CVE-2021-20837 | XMLRPC  - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | | 
 | 20211101T09:06:27Z | CVE-2021-30573 | Google Chrome Vulnerabilities CVE-2021-30573 | https://github.com/oxctdev/CVE-2021-30573 | | 
@@ -49,7 +50,6 @@
 | 20211101T07:30:19Z | CVE-2021-22205 | CVE-2021-22205-getshell | https://github.com/shang159/CVE-2021-22205-getshell | | 
 | 20211101T07:25:48Z | CVE-2021-22205 | CVE-2021-22205 RCE  | https://github.com/c0okB/CVE-2021-22205 | | 
 | 20211101T05:47:29Z | CVE-2021-22205 | Null | https://github.com/AkBanner/CVE-2021-22205 | | 
-| 20211101T04:29:03Z | CVE-2021-22214 | Gitlab CI Lint API未授权 SSRF漏洞 CVE-2021-22214 | https://github.com/antx-code/CVE-2021-22214 | | 
 
 
 # klee on Github 推荐
@@ -67,7 +67,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211101T12:47:50Z | Null | https://github.com/Athis-Offsec/Exploits-I-Made | 0 | 0| 
+| 20211101T12:54:27Z | Null | https://github.com/Athis-Offsec/Exploits-I-Made | 0 | 0| 
 | 20211101T12:45:19Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 14| 
 | 20211101T12:03:07Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 34 | 19| 
 | 20211101T11:45:11Z | Null | https://github.com/Youheng-Lue/art-exploit | 0 | 0| 
