@@ -97,6 +97,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211102T12:39:06Z | ADA Task to create, essentially, an %angry birds%-esque rip off | https://github.com/YuviSingh2002/ADA-Fuzzyball | 0 | 0| 
 | 20211102T12:27:04Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6777 | 1408| 
 | 20211102T12:15:26Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 218 | 16| 
 | 20211102T12:07:20Z | Null | https://github.com/AdaLogics/go-fuzz-headers | 14 | 1| 
@@ -106,7 +107,6 @@
 | 20211102T11:23:07Z | Null | https://github.com/polymorphicengine/Semi-Fuzzy-Quantifiers | 0 | 0| 
 | 20211102T11:17:40Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 624 | 129| 
 | 20211102T11:07:37Z | Null | https://github.com/vrthra/KHackFuzz | 0 | 0| 
-| 20211102T10:44:51Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
 
 
 
