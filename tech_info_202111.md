@@ -127,6 +127,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211102T12:15:26Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 218 | 16| 
 | 20211102T12:07:20Z | Null | https://github.com/AdaLogics/go-fuzz-headers | 14 | 1| 
 | 20211102T12:05:23Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211102T12:03:56Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 571 | 60| 
@@ -136,7 +137,6 @@
 | 20211102T11:17:40Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 624 | 129| 
 | 20211102T11:07:37Z | Null | https://github.com/vrthra/KHackFuzz | 0 | 0| 
 | 20211102T10:44:51Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
-| 20211102T10:37:52Z | CC paper on compiler fuzzing | https://github.com/agroce/cc2022 | 0 | 0| 
 
 
 
