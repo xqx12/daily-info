@@ -77,7 +77,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211102T12:27:20Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10275 | 1763| 
+| 20211102T12:34:37Z | A high-performance general-purpose MRF MAP solver, heavily exploiting SIMD instructions. | https://github.com/dthuerck/mapmap_cpu | 66 | 33| 
+| 20211102T12:33:21Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10274 | 1763| 
 | 20211102T12:15:05Z | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | 0 | 0| 
 | 20211102T12:03:13Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 34 | 19| 
 | 20211102T11:54:50Z | Null | https://github.com/m3hr44n/Simple-CTF-Exploit | 1 | 0| 
@@ -86,7 +87,6 @@
 | 20211102T10:59:46Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 81 | 13| 
 | 20211102T10:21:08Z | Небольшой плагин для исправления некоторых багов. | https://github.com/Imptovskii/ExploitFixer | 2 | 0| 
 | 20211102T09:29:16Z | Collection of Discord hacking tools/fun stuff/exploits that is completely made using NodeJS. | https://github.com/I2rys/ODiscord | 19 | 9| 
-| 20211102T09:22:15Z | This is plugin for 1.17 Spigot/Bukkit Minecraft%s servers. This plugin fixes BowExploit(BowBomb) that found recently. Meteor Client developers released their fix, but the problem is that it fixes vanills arrow mechanics. Together I with https://github.com/l1tecorejz we made a plugin that fixes the exploit and doesn%t %kill% vanilla arrow mechanics. Also made it possible to customize messages for warns/kick. | https://github.com/CrystalCL/BowExploitFixer | 5 | 1| 
 
 
 # backdoor on Github 推荐
