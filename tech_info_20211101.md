@@ -121,13 +121,13 @@
 | 20211101T23:29:31Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2414 | 148| 
 | 20211101T23:05:11Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 624 | 129| 
 | 20211101T22:22:39Z | Emulation based snapshot fuzzer | https://github.com/jaoeul/gingersnap | 0 | 0| 
-| 20211101T22:01:38Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211101T21:57:16Z | An example of fuzzing Zig code with AFL++ | https://github.com/squeek502/zig-fuzzing-example | 3 | 0| 
 | 20211101T21:03:20Z | Tool for measuring string similarities based on Jaccard Similarity scoring | https://github.com/Hillard28/fuzzygram | 0 | 0| 
 | 20211101T20:31:46Z | Share what you are struggling with anonymously | https://github.com/ivanwang123/fuzzy-thoughts | 0 | 0| 
 | 20211101T20:18:45Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2142 | 419| 
 | 20211101T20:12:25Z | Null | https://github.com/madolk07088/fuzzy-barnacle | 0 | 0| 
 | 20211101T20:04:12Z | Null | https://github.com/parham-yz/Fuzzy-controller-for-parking-car | 0 | 0| 
+| 20211101T19:54:55Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 194 | 37| 
 
 
 
