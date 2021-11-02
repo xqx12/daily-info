@@ -23,6 +23,8 @@
 | 20211101 | iOS 语音控制组件 UAF 漏洞分析（CVE-2021-30902） | https://blog.zecops.com/research/use-after-free-in-voice-control-cve-2021-30902/| 
 | 20211101 | 针对巴以地区长达三年的攻击活动揭露 | https://blogs.360.cn/post/Three_years_of_attacks_on_Israel_and_Palestine_are_revealed.html| 
 | 20211101 | 某mpv播放器因格式化字符串导致远程代码执行漏洞深入分析（CVE-2021-30145） | http://blog.topsec.com.cn/%e6%9f%90mpv%e6%92%ad%e6%94%be%e5%99%a8%e5%9b%a0%e6%a0%bc%e5%bc%8f%e5%8c%96%e5%ad%97%e7%ac%a6%e4%b8%b2%e5%af%bc%e8%87%b4%e8%bf%9c%e7%a8%8b%e4%bb%a3%e7%a0%81%e6%89%a7%e8%a1%8c%e6%bc%8f%e6%b4%9e/| 
+| 20211101 | Docker PHP裸文件本地包含综述 . | http://tttang.com/archive/1312/| 
+| 20211101 | TTY 到底是什么？ | http://www.kawabangga.com/posts/4515| 
 
 
 # 安全维基 推荐
@@ -35,26 +37,30 @@
 | 20211101 | 基于语义的下游内核中补丁的存在性测试 | https://mp.weixin.qq.com/s/4rVWVseMr3UT65sOBMjiqQ| 
 | 20211101 | 一文彻底搞懂Spark | https://mp.weixin.qq.com/s/Uc-EaqL4Q9HchOH3JNQ53A| 
 | 20211101 | TrustCom会议小记 | /news/29757| 
+| 20211101 | SecWiki周刊（第400期) | https://www.sec-wiki.com/weekly/400| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211101T19:36:44Z | CVE-2020-0796 | Remote Code Execution POC for CVE-2020-0796 | https://github.com/oxctdev/CVE-2020-0796 | | 
+| 20211101T19:13:21Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | | 
+| 20211101T17:27:14Z | CVE-2021-20837 | XMLRPC  - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | | 
+| 20211101T17:13:53Z | CVE-2021-42574 | Null | https://github.com/hffaust/CVE-2021-42574_and_CVE-2021-42694 | | 
+| 20211101T14:38:03Z | CVE-2021-20837 | MovableType XMLRPC  - RCE | https://github.com/Cosemz/CVE-2021-20837 | | 
+| 20211101T13:15:12Z | CVE-2021-42574 | Null | https://github.com/shiomiyan/CVE-2021-42574 | | 
 | 20211101T12:56:14Z | CVE-2021-31862 | Null | https://github.com/RobertDra/CVE-2021-31862 | | 
 | 20211101T10:50:14Z | CVE-2021-28079 | POC Jamovi <=1.6.18 is affected by a cross-site scripting (XSS) vulnerability. The column-name is vulnerable to XSS in the ElectronJS Framework. An attacker can make a .omv (Jamovi) document containing a payload. When opened by victim, the payload is triggered. | https://github.com/g33xter/CVE-2021-28079 | | 
-| 20211101T09:08:54Z | CVE-2021-20837 | XMLRPC  - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | | 
 | 20211101T09:06:27Z | CVE-2021-30573 | Google Chrome Vulnerabilities CVE-2021-30573 | https://github.com/oxctdev/CVE-2021-30573 | | 
 | 20211101T08:30:25Z | CVE-2021-22205 | PoC in single line bash | https://github.com/findneo/GitLab-preauth-RCE_CVE-2021-22205 | | 
-| 20211101T08:03:25Z | CVE-2021-22205 | CVE-2021-22205未授权漏洞批量检测 | https://github.com/Seals6/CVE-2021-22205 | | 
-| 20211101T07:41:53Z | 未知编号 | Null | https://github.com/Qclover/Gitlab_RCE_CVE_2021_2205 | | 
-| 20211101T07:30:19Z | CVE-2021-22205 | CVE-2021-22205-getshell | https://github.com/shang159/CVE-2021-22205-getshell | | 
-| 20211101T07:25:48Z | CVE-2021-22205 | CVE-2021-22205 RCE  | https://github.com/c0okB/CVE-2021-22205 | | 
-| 20211101T05:47:29Z | CVE-2021-22205 | Null | https://github.com/AkBanner/CVE-2021-22205 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211101T21:47:14Z | Null | https://github.com/abionkennie/BlogKleenomics | 0 | 0| 
+| 20211101T15:03:51Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 14 | 1| 
+| 20211101T13:01:29Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 219 | 36| 
 | 20211101T12:47:07Z | Null | https://github.com/ayazip/witch-klee | 0 | 0| 
 | 20211101T10:55:32Z | Personal Blog | https://github.com/klee1611/klee1611.github.io | 1 | 1| 
 
@@ -67,21 +73,22 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211101T12:56:35Z | Null | https://github.com/Athis-Offsec/Exploits-I-Made | 0 | 0| 
-| 20211101T12:45:19Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 14| 
-| 20211101T12:03:07Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 34 | 19| 
-| 20211101T11:45:11Z | Null | https://github.com/Youheng-Lue/art-exploit | 0 | 0| 
-| 20211101T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10270 | 1761| 
-| 20211101T11:33:03Z | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily. | https://github.com/cdk-team/CDK | 1809 | 282| 
-| 20211101T11:31:12Z | K8博客 | https://github.com/k8gege/k8gege.github.io | 18 | 7| 
-| 20211101T11:17:13Z | Null | https://github.com/DracoFAAD/exploit-lib-roblox | 0 | 0| 
-| 20211101T10:01:04Z | Null | https://github.com/Henrinnes/exploiting-securing-Docker-and-kubernetes | 0 | 0| 
-| 20211101T09:31:47Z | A high-performance general-purpose MRF MAP solver, heavily exploiting SIMD instructions. | https://github.com/dthuerck/mapmap_cpu | 66 | 33| 
+| 20211101T23:41:04Z | Exploit Development CheatSheet. | https://github.com/V0lk3n/OSED-CheatSheet | 0 | 4| 
+| 20211101T23:25:16Z | Vulnerabilities, security advisories, exploit codes and proof-of-concept codes. | https://github.com/zeroscience/advisory | 5 | 4| 
+| 20211101T23:09:21Z | Null | https://github.com/joeengo/exploiting | 0 | 0| 
+| 20211101T23:03:01Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 34 | 19| 
+| 20211101T22:35:21Z | Null | https://github.com/abrandec/solidity-security-exploits | 0 | 0| 
+| 20211101T22:29:16Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10273 | 1763| 
+| 20211101T22:26:52Z | A collection of links related to Linux kernel security and exploitation | https://github.com/xairy/linux-kernel-exploitation | 3736 | 797| 
+| 20211101T22:12:28Z | a defi exploit | https://github.com/snoowl26/didactic-guacamole | 0 | 0| 
+| 20211101T21:31:06Z | The world has not been the same since the outbreak and ending of World War 3 in the same year, 2079, when the “Developing Countries” in Africa and Asia finally rebelled against the exploitation by the western “industrial countries”. A massive launching of nuclear and “space” weapons on the side of the latter not only quenched the rebellion, it also caused considerable and irrevocable damage to the very structure of Universe. | https://github.com/4dmud/mud | 2 | 3| 
+| 20211101T21:23:27Z | Null | https://github.com/ZakaryaIT/Mass-Exploit3r-main | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211101T13:57:53Z | a simple backdoor for learning how malware RAT works, not for attacking real stuffs, this backdoor faciltiated with a listener and can initiated in CMD interface, | https://github.com/stormdotcom/backdoor-working | 0 | 0| 
 | 20211101T10:58:26Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 6659 | 1678| 
 | 20211101T09:53:30Z | Python-based Backdoor. | https://github.com/Senc3951/Backdoor | 0 | 0| 
 | 20211101T09:10:36Z | Cyber Security | https://github.com/pulkitkhandelwal29/Backdoor-Malware | 0 | 0| 
@@ -111,16 +118,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211101T12:29:44Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6774 | 1408| 
-| 20211101T12:27:14Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2414 | 148| 
-| 20211101T12:15:14Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 33 | 12| 
-| 20211101T12:13:20Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 1051 | 180| 
-| 20211101T12:04:30Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20211101T11:47:22Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2370 | 472| 
-| 20211101T11:20:10Z | Null | https://github.com/abmahnung-mieter/fuzzy-octo | 0 | 0| 
-| 20211101T11:13:13Z | Null | https://github.com/Ftuuveye/fuzzy-octo-succotash | 0 | 0| 
-| 20211101T11:01:52Z | Null | https://github.com/nhsd-exeter/dos-service-fuzzy-search-api | 1 | 0| 
-| 20211101T10:40:37Z | Some code and simulations for my bachelor thesis | https://github.com/susie-ku/fuzzy_time_series | 0 | 0| 
+| 20211101T23:29:31Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2414 | 148| 
+| 20211101T23:05:11Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 624 | 129| 
+| 20211101T22:22:39Z | Emulation based snapshot fuzzer | https://github.com/jaoeul/gingersnap | 0 | 0| 
+| 20211101T22:01:38Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20211101T21:57:16Z | An example of fuzzing Zig code with AFL++ | https://github.com/squeek502/zig-fuzzing-example | 3 | 0| 
+| 20211101T21:45:23Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6775 | 1408| 
+| 20211101T21:03:20Z | Tool for measuring string similarities based on Jaccard Similarity scoring | https://github.com/Hillard28/fuzzygram | 0 | 0| 
+| 20211101T20:31:46Z | Share what you are struggling with anonymously | https://github.com/ivanwang123/fuzzy-thoughts | 0 | 0| 
+| 20211101T20:27:08Z | A lang-brainscore repository for initial dirty development; select code will be migrated to a lean and clean more permanent repo in the future  | https://github.com/language-brainscore/lang-brainscore-fuzzy-potato | 0 | 0| 
+| 20211101T20:18:45Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2142 | 419| 
 
 
 
