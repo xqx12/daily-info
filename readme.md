@@ -76,13 +76,13 @@
 | 20211101T23:25:16Z | Vulnerabilities, security advisories, exploit codes and proof-of-concept codes. | https://github.com/zeroscience/advisory | 5 | 4| 
 | 20211101T23:09:21Z | Null | https://github.com/joeengo/exploiting | 0 | 0| 
 | 20211101T22:35:21Z | Null | https://github.com/abrandec/solidity-security-exploits | 0 | 0| 
-| 20211101T22:29:16Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10273 | 1763| 
 | 20211101T22:26:52Z | A collection of links related to Linux kernel security and exploitation | https://github.com/xairy/linux-kernel-exploitation | 3736 | 797| 
 | 20211101T22:12:28Z | a defi exploit | https://github.com/snoowl26/didactic-guacamole | 0 | 0| 
 | 20211101T21:31:06Z | The world has not been the same since the outbreak and ending of World War 3 in the same year, 2079, when the “Developing Countries” in Africa and Asia finally rebelled against the exploitation by the western “industrial countries”. A massive launching of nuclear and “space” weapons on the side of the latter not only quenched the rebellion, it also caused considerable and irrevocable damage to the very structure of Universe. | https://github.com/4dmud/mud | 2 | 3| 
 | 20211101T21:23:27Z | Null | https://github.com/ZakaryaIT/Mass-Exploit3r-main | 0 | 0| 
 | 20211101T20:39:01Z | Robotics semester project at LASA, EPFL | https://github.com/RaphaelUebersax/Incrementally_Learning_and_Exploiting_Inverse_Dynamics | 0 | 0| 
 | 20211101T20:33:50Z | Cluster And Predict exploits and vulnerabilities using Machine Learning | https://github.com/sruthishiva/CyberSecurityAnalysis | 0 | 0| 
+| 20211101T20:24:34Z | Null | https://github.com/f0ns1/-Exploiting-BufferOverflow | 0 | 0| 
 
 
 # backdoor on Github 推荐
