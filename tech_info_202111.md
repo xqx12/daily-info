@@ -6,6 +6,15 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20211102 | How to exploit a double free vulnerability in 2021 | https://github.com/stong/how-to-exploit-a-double-free| 
+| 20211102 | Agent 007: Pre-Auth Takeover of Build Pipelines in GoCD | https://blog.sonarsource.com/gocd-pre-auth-pipeline-takeover/| 
+| 20211102 | 海康威视网络摄像头 RCE 漏洞分析 (CVE-2021-36260) | https://watchfulip.github.io/2021/09/18/Hikvision-IP-Camera-Unauthenticated-RCE.html| 
+| 20211102 | Solarmarker 恶意软件的分析报告 | https://www.prodaft.com/m/reports/Solarmarker_TLPWHITEv2.pdf| 
+| 20211102 | 软件交换机 FreeSWITCH 多个漏洞的分析 | https://www.rtcsec.com/article/killing-bugs-one-vulnerability-report-at-a-time/| 
+| 20211102 | Grandstream HT801 电话适配器 RCE 漏洞分析 | http://www.secforce.com/blog/exploiting-grandstream-ht801-ata-cve-2021-37748-cve-2021-37915/| 
+| 20211102 | From Zero to Domain Admin - 一起利用 Zerologon 漏洞攻击域控的实际攻击事件的分析 | https://thedfirreport.com/2021/11/01/from-zero-to-domain-admin/| 
+| 20211102 | MalAPI.io - 一个收集恶意软件不同运行阶段所使用的 API 的网站 | https://malapi.io| 
+| 20211102 | Google 发起为期 3 个月的 Linux Kernel 提权漏洞奖励计划 | https://security.googleblog.com/2021/11/trick-treat-paying-leets-and-sweets-for.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+GoogleOnlineSecurityBlog+%28Google+Online+Security+Blog%29| 
 | 20211101 | 海康威视WebServer的命令注入漏洞 | https://www.exploit-db.com/exploits/50441?utm_source=dlvr.it&utm_medium=twitter| 
 | 20211101 | 微软发现了macOS上的一个绕过SIP的漏洞，命名为Shrootless | https://thehackernews.com/2021/10/new-shrootless-bug-could-let-attackers.html| 
 | 20211101 | 更新版的windows驱动分析工具 | https://voidsec.com/driver-buddy-reloaded/| 
@@ -17,19 +26,12 @@
 | 20211101 | EMBArk - 固件安全扫描器 EMBA 的容器化服务 | https://github.com/e-m-b-a/embark| 
 | 20211101 | 实时中文语音克隆——开源项目MockingBird体验 | https://sec.today/pulses/9a728cd2-3254-4acc-bfe6-ba1a10db0a3a/| 
 | 20211101 | iOS 语音控制组件 UAF 漏洞分析（CVE-2021-30902） | https://sec.today/pulses/430bb87b-e02c-451f-ad5d-70cf10933b40/| 
-| 20211101 | 针对巴以地区长达三年的攻击活动揭露 | https://sec.today/pulses/e044e132-340a-465c-ae2c-053d56884760/| 
-| 20211101 | 某mpv播放器因格式化字符串导致远程代码执行漏洞深入分析（CVE-2021-30145） | https://sec.today/pulses/2e5a734d-a1b8-4b63-a4ae-f571d1d98819/| 
-| 20211101 | 实时中文语音克隆——开源项目MockingBird体验 | https://security.tencent.com/index.php/blog/msg/204| 
-| 20211101 | iOS 语音控制组件 UAF 漏洞分析（CVE-2021-30902） | https://blog.zecops.com/research/use-after-free-in-voice-control-cve-2021-30902/| 
-| 20211101 | 针对巴以地区长达三年的攻击活动揭露 | https://blogs.360.cn/post/Three_years_of_attacks_on_Israel_and_Palestine_are_revealed.html| 
-| 20211101 | 某mpv播放器因格式化字符串导致远程代码执行漏洞深入分析（CVE-2021-30145） | http://blog.topsec.com.cn/%e6%9f%90mpv%e6%92%ad%e6%94%be%e5%99%a8%e5%9b%a0%e6%a0%bc%e5%bc%8f%e5%8c%96%e5%ad%97%e7%ac%a6%e4%b8%b2%e5%af%bc%e8%87%b4%e8%bf%9c%e7%a8%8b%e4%bb%a3%e7%a0%81%e6%89%a7%e8%a1%8c%e6%bc%8f%e6%b4%9e/| 
-| 20211101 | Docker PHP裸文件本地包含综述 . | http://tttang.com/archive/1312/| 
-| 20211101 | TTY 到底是什么？ | http://www.kawabangga.com/posts/4515| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20211102 | 解释与改进安全应用场景下的深度异常检测方法 | https://mp.weixin.qq.com/s/U5HYIFLjO3ikkMgHyjsUpQ| 
 | 20211101 | 航空产业已成境外情报机构重点网络攻击目标 | https://mp.weixin.qq.com/s/ANDLQBHTzB2uiS54xxyuZw| 
 | 20211101 | 2021年网络安全领域四大顶会中国学者发表论文88篇（附目录） | https://mp.weixin.qq.com/s/igXuvxBdVZpM9fkAxnkJ5g| 
 | 20211101 | 破解版密钥相同，部分CobaltStrike加密流量可解 | https://mp.weixin.qq.com/s/AcIFSjyqn9gzyRkyx3sRIQ| 
@@ -43,21 +45,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211102T10:04:45Z | CVE-2021-42574 | Null | https://github.com/hffaust/CVE-2021-42574_and_CVE-2021-42694 | | 
+| 20211102T09:28:06Z | CVE-2020-1938 | -H 192.168.1.1-192.168.5.255 | https://github.com/einzbernnn/CVE-2020-1938Scan | | 
+| 20211102T09:10:19Z | CVE-2021-20837 | MovableType XMLRPC  - RCE | https://github.com/Cosemz/CVE-2021-20837 | | 
+| 20211102T06:05:43Z | CVE-2021-31862 | Null | https://github.com/RobertDra/CVE-2021-31862 | | 
+| 20211102T04:21:41Z | 未知编号 | Null | https://github.com/Qclover/Gitlab_RCE_CVE_2021_22205 | | 
+| 20211102T03:41:21Z | CVE-2021-42327 | WIP kernel exploit for minor bug i found in amd gpu driver | https://github.com/docfate111/CVE-2021-42327 | | 
+| 20211102T02:47:29Z | CVE-2021-42574 | Null | https://github.com/shiomiyan/CVE-2021-42574 | | 
 | 20211102T01:56:37Z | CVE-2021-22214 | Gitlab CI Lint API未授权 SSRF漏洞 CVE-2021-22214 | https://github.com/antx-code/CVE-2021-22214 | | 
 | 20211102T01:56:04Z | CVE-2021-22205 | CVE-2021-22205未授权漏洞批量检测 | https://github.com/Seals6/CVE-2021-22205 | | 
 | 20211101T19:36:44Z | CVE-2020-0796 | Remote Code Execution POC for CVE-2020-0796 | https://github.com/oxctdev/CVE-2020-0796 | | 
-| 20211101T19:13:21Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | | 
-| 20211101T17:27:14Z | CVE-2021-20837 | XMLRPC  - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | | 
-| 20211101T17:13:53Z | CVE-2021-42574 | Null | https://github.com/hffaust/CVE-2021-42574_and_CVE-2021-42694 | | 
-| 20211101T14:38:03Z | CVE-2021-20837 | MovableType XMLRPC  - RCE | https://github.com/Cosemz/CVE-2021-20837 | | 
-| 20211101T13:15:12Z | CVE-2021-42574 | Null | https://github.com/shiomiyan/CVE-2021-42574 | | 
-| 20211101T12:56:14Z | CVE-2021-31862 | Null | https://github.com/RobertDra/CVE-2021-31862 | | 
-| 20211101T10:50:14Z | CVE-2021-28079 | POC Jamovi <=1.6.18 is affected by a cross-site scripting (XSS) vulnerability. The column-name is vulnerable to XSS in the ElectronJS Framework. An attacker can make a .omv (Jamovi) document containing a payload. When opened by victim, the payload is triggered. | https://github.com/g33xter/CVE-2021-28079 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211102T11:07:02Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1799 | 514| 
 | 20211101T21:47:14Z | Null | https://github.com/abionkennie/BlogKleenomics | 0 | 0| 
 | 20211101T15:03:51Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 14 | 1| 
 | 20211101T13:01:29Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 219 | 36| 
@@ -68,21 +71,22 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211102T12:00:22Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 179 | 39| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211102T01:56:20Z | Exploit Development CheatSheet. | https://github.com/V0lk3n/OSED-CheatSheet | 0 | 4| 
-| 20211102T01:50:48Z | Some fortnite exploits always updating from android1337 | https://github.com/Stoneless1337/Fortnite-exploits-always-updating | 0 | 0| 
-| 20211102T01:50:20Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10272 | 1763| 
-| 20211102T01:44:47Z | 7.5x Sleirsgoevy exploit | https://github.com/chronoss09/sleirsgoevy755 | 0 | 0| 
-| 20211102T01:36:28Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 357 | 54| 
-| 20211102T01:03:24Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 34 | 19| 
-| 20211102T01:02:56Z | The code for the TickShift exploit | https://github.com/HausemasterIssue/TickShift | 1 | 0| 
-| 20211102T00:45:19Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 14| 
-| 20211102T00:38:45Z | Drafts of exploits made for studying and consultation purposes | https://github.com/brerodrigues/exploit_drafts | 0 | 0| 
-| 20211101T23:25:16Z | Vulnerabilities, security advisories, exploit codes and proof-of-concept codes. | https://github.com/zeroscience/advisory | 5 | 4| 
+| 20211102T11:54:50Z | Null | https://github.com/m3hr44n/Simple-CTF-Exploit | 1 | 0| 
+| 20211102T11:46:16Z | Null | https://github.com/Athis-Offsec/Exploits-I-Made | 0 | 0| 
+| 20211102T11:38:47Z | [IEEE FG 2021] Official implementation: Exploiting Emotional Dependencies with Graph Convolutional Networks for Facial Expression Recognition | https://github.com/PanosAntoniadis/emotion-gcn | 4 | 0| 
+| 20211102T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10274 | 1763| 
+| 20211102T11:28:08Z | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | 0 | 0| 
+| 20211102T11:03:11Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 34 | 19| 
+| 20211102T10:59:46Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 81 | 13| 
+| 20211102T10:21:08Z | Небольшой плагин для исправления некоторых багов. | https://github.com/Imptovskii/ExploitFixer | 2 | 0| 
+| 20211102T09:29:16Z | Collection of Discord hacking tools/fun stuff/exploits that is completely made using NodeJS. | https://github.com/I2rys/ODiscord | 19 | 9| 
+| 20211102T09:22:15Z | This is plugin for 1.17 Spigot/Bukkit Minecraft%s servers. This plugin fixes BowExploit(BowBomb) that found recently. Meteor Client developers released their fix, but the problem is that it fixes vanills arrow mechanics. Together I with https://github.com/l1tecorejz we made a plugin that fixes the exploit and doesn%t %kill% vanilla arrow mechanics. Also made it possible to customize messages for warns/kick. | https://github.com/CrystalCL/BowExploitFixer | 5 | 1| 
 
 
 # backdoor on Github 推荐
@@ -121,16 +125,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211102T01:57:43Z | Null | https://github.com/ChairmanYSL/fuzzy_pid | 0 | 0| 
-| 20211102T01:34:58Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20211102T01:28:20Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6775 | 1408| 
-| 20211102T01:19:41Z | Null | https://github.com/RVShershnev/Decerns.Fuzziness | 0 | 0| 
-| 20211102T00:50:33Z | A lang-brainscore repository for initial dirty development; select code will be migrated to a lean and clean more permanent repo in the future  | https://github.com/language-brainscore/lang-brainscore-fuzzy-potato | 0 | 0| 
-| 20211102T00:37:57Z | Null | https://github.com/Purdue-ECE-461/Fuzzing-Assignment | 0 | 0| 
-| 20211101T23:29:31Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2414 | 148| 
-| 20211101T23:05:11Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 624 | 129| 
-| 20211101T22:22:39Z | Emulation based snapshot fuzzer | https://github.com/jaoeul/gingersnap | 0 | 0| 
-| 20211101T21:57:16Z | An example of fuzzing Zig code with AFL++ | https://github.com/squeek502/zig-fuzzing-example | 3 | 0| 
+| 20211102T12:01:52Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6776 | 1408| 
+| 20211102T11:38:56Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 7 | 1| 
+| 20211102T11:23:07Z | Null | https://github.com/polymorphicengine/Semi-Fuzzy-Quantifiers | 0 | 0| 
+| 20211102T11:17:40Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 624 | 129| 
+| 20211102T11:07:37Z | Null | https://github.com/vrthra/KHackFuzz | 0 | 0| 
+| 20211102T10:44:51Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
+| 20211102T10:37:52Z | CC paper on compiler fuzzing | https://github.com/agroce/cc2022 | 0 | 0| 
+| 20211102T10:11:56Z | Web Fuzzer Helper | https://github.com/Aif4thah/CShidori | 0 | 0| 
+| 20211102T09:39:03Z | 开源、轻量、快速、跨平台 的红队(redteam)外网打点扫描器，功能 端口扫描(port scan) 指纹识别(fingerprint) nday检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | 242 | 33| 
+| 20211102T09:35:40Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 
 
 
