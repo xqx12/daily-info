@@ -52,7 +52,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211102T12:57:05Z | Null | https://github.com/YASOMASO/exploitation.github.io | 0 | 0| 
+| 20211102T12:58:52Z | Null | https://github.com/YASOMASO/exploitation.github.io | 0 | 0| 
 | 20211102T12:56:38Z | Null | https://github.com/E-Team-Sec/ExploitDepository | 0 | 0| 
 | 20211102T12:55:34Z | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | 0 | 0| 
 | 20211102T12:49:09Z | Cloud C2 Framework, which at the moment offers reconnaissance, enumeration, exploitation, post exploitation on AWS, but still working to allow testing other Cloud Providers and DevOps Components. | https://github.com/gl4ssesbo1/Nebula | 179 | 37| 
@@ -97,8 +97,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211102T12:59:14Z | Null | https://github.com/sumairruhani2/Ada-Fuzzball-Slam | 0 | 0| 
 | 20211102T12:49:55Z | Null | https://github.com/KisanthSivakumar/Project-Fuzzball | 0 | 1| 
-| 20211102T12:45:24Z | ADA Task to create, essentially, an %angry birds%-esque rip off | https://github.com/YuviSingh2002/ADA-Fuzzyball | 0 | 0| 
+| 20211102T12:45:24Z | ADA Task to create, essentially, an %angry birds%-esque rip off | https://github.com/YuviSingh2002/ADA-Fuzzyball | 0 | 1| 
 | 20211102T12:27:04Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6777 | 1408| 
 | 20211102T12:15:26Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 218 | 16| 
 | 20211102T12:07:20Z | Null | https://github.com/AdaLogics/go-fuzz-headers | 14 | 1| 
@@ -106,7 +107,6 @@
 | 20211102T12:03:56Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 571 | 60| 
 | 20211102T11:38:56Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 7 | 1| 
 | 20211102T11:23:07Z | Null | https://github.com/polymorphicengine/Semi-Fuzzy-Quantifiers | 0 | 0| 
-| 20211102T11:17:40Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 624 | 129| 
 
 
 
