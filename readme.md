@@ -102,7 +102,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20211101T20:17:31Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 18 | 4| 
-| 20211101T15:50:20Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 164 | 10| 
 | 20211101T13:54:06Z | Symbolic execution of LLVM IR with an engine written in Rust | https://github.com/PLSysSec/haybale | 336 | 17| 
 | 20211101T13:09:31Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1910 | 400| 
 | 20211101T11:49:09Z | Angora is a mutation-based fuzzer.  The main goal of Angora is to increase branch coverage by solving path constraints without symbolic execution.  | https://github.com/AngoraFuzzer/Angora | 719 | 135| 

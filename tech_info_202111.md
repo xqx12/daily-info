@@ -73,6 +73,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211102T01:18:12Z | 7.5x Sleirsgoevy exploit | https://github.com/chronoss09/sleirsgoevy755 | 0 | 0| 
 | 20211102T01:07:52Z | Exploit Development CheatSheet. | https://github.com/V0lk3n/OSED-CheatSheet | 0 | 4| 
 | 20211102T01:03:24Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 34 | 19| 
 | 20211102T01:02:56Z | The code for the TickShift exploit | https://github.com/HausemasterIssue/TickShift | 1 | 0| 
@@ -82,7 +83,6 @@
 | 20211101T23:09:21Z | Null | https://github.com/joeengo/exploiting | 0 | 0| 
 | 20211101T22:35:21Z | Null | https://github.com/abrandec/solidity-security-exploits | 0 | 0| 
 | 20211101T22:29:16Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10273 | 1763| 
-| 20211101T22:26:52Z | A collection of links related to Linux kernel security and exploitation | https://github.com/xairy/linux-kernel-exploitation | 3736 | 797| 
 
 
 # backdoor on Github 推荐
@@ -102,8 +102,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211102T01:18:18Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 164 | 10| 
 | 20211101T20:17:31Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 18 | 4| 
-| 20211101T15:50:20Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 164 | 10| 
 | 20211101T13:54:06Z | Symbolic execution of LLVM IR with an engine written in Rust | https://github.com/PLSysSec/haybale | 336 | 17| 
 | 20211101T13:09:31Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1910 | 400| 
 | 20211101T11:49:09Z | Angora is a mutation-based fuzzer.  The main goal of Angora is to increase branch coverage by solving path constraints without symbolic execution.  | https://github.com/AngoraFuzzer/Angora | 719 | 135| 
