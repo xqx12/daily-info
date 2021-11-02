@@ -43,6 +43,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211102T01:56:37Z | CVE-2021-22214 | Gitlab CI Lint API未授权 SSRF漏洞 CVE-2021-22214 | https://github.com/antx-code/CVE-2021-22214 | | 
 | 20211102T01:56:04Z | CVE-2021-22205 | CVE-2021-22205未授权漏洞批量检测 | https://github.com/Seals6/CVE-2021-22205 | | 
 | 20211101T19:36:44Z | CVE-2020-0796 | Remote Code Execution POC for CVE-2020-0796 | https://github.com/oxctdev/CVE-2020-0796 | | 
 | 20211101T19:13:21Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | | 
@@ -52,7 +53,6 @@
 | 20211101T13:15:12Z | CVE-2021-42574 | Null | https://github.com/shiomiyan/CVE-2021-42574 | | 
 | 20211101T12:56:14Z | CVE-2021-31862 | Null | https://github.com/RobertDra/CVE-2021-31862 | | 
 | 20211101T10:50:14Z | CVE-2021-28079 | POC Jamovi <=1.6.18 is affected by a cross-site scripting (XSS) vulnerability. The column-name is vulnerable to XSS in the ElectronJS Framework. An attacker can make a .omv (Jamovi) document containing a payload. When opened by victim, the payload is triggered. | https://github.com/g33xter/CVE-2021-28079 | | 
-| 20211101T09:06:27Z | CVE-2021-30573 | Google Chrome Vulnerabilities CVE-2021-30573 | https://github.com/oxctdev/CVE-2021-30573 | | 
 
 
 # klee on Github 推荐
@@ -121,6 +121,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211102T01:57:43Z | Null | https://github.com/ChairmanYSL/fuzzy_pid | 0 | 0| 
 | 20211102T01:34:58Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211102T01:28:20Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6775 | 1408| 
 | 20211102T01:19:41Z | Null | https://github.com/RVShershnev/Decerns.Fuzziness | 0 | 0| 
@@ -130,7 +131,6 @@
 | 20211101T23:05:11Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 624 | 129| 
 | 20211101T22:22:39Z | Emulation based snapshot fuzzer | https://github.com/jaoeul/gingersnap | 0 | 0| 
 | 20211101T21:57:16Z | An example of fuzzing Zig code with AFL++ | https://github.com/squeek502/zig-fuzzing-example | 3 | 0| 
-| 20211101T21:03:20Z | Tool for measuring string similarities based on Jaccard Similarity scoring | https://github.com/Hillard28/fuzzygram | 0 | 0| 
 
 
 
