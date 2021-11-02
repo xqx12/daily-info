@@ -120,6 +120,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211102T00:37:57Z | Null | https://github.com/Purdue-ECE-461/Fuzzing-Assignment | 0 | 0| 
 | 20211101T23:29:31Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2414 | 148| 
 | 20211101T23:05:11Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 624 | 129| 
 | 20211101T22:22:39Z | Emulation based snapshot fuzzer | https://github.com/jaoeul/gingersnap | 0 | 0| 
@@ -129,7 +130,6 @@
 | 20211101T21:03:20Z | Tool for measuring string similarities based on Jaccard Similarity scoring | https://github.com/Hillard28/fuzzygram | 0 | 0| 
 | 20211101T20:31:46Z | Share what you are struggling with anonymously | https://github.com/ivanwang123/fuzzy-thoughts | 0 | 0| 
 | 20211101T20:27:08Z | A lang-brainscore repository for initial dirty development; select code will be migrated to a lean and clean more permanent repo in the future  | https://github.com/language-brainscore/lang-brainscore-fuzzy-potato | 0 | 0| 
-| 20211101T20:18:45Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2142 | 419| 
 
 
 
