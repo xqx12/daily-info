@@ -97,6 +97,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211102T12:07:20Z | Null | https://github.com/AdaLogics/go-fuzz-headers | 14 | 1| 
 | 20211102T12:05:23Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211102T12:03:56Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 571 | 60| 
 | 20211102T12:01:52Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6776 | 1408| 
@@ -106,7 +107,6 @@
 | 20211102T11:07:37Z | Null | https://github.com/vrthra/KHackFuzz | 0 | 0| 
 | 20211102T10:44:51Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
 | 20211102T10:37:52Z | CC paper on compiler fuzzing | https://github.com/agroce/cc2022 | 0 | 0| 
-| 20211102T10:11:56Z | Web Fuzzer Helper | https://github.com/Aif4thah/CShidori | 0 | 0| 
 
 
 
