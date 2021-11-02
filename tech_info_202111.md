@@ -127,7 +127,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211102T12:39:06Z | ADA Task to create, essentially, an %angry birds%-esque rip off | https://github.com/YuviSingh2002/ADA-Fuzzyball | 0 | 0| 
+| 20211102T12:45:24Z | ADA Task to create, essentially, an %angry birds%-esque rip off | https://github.com/YuviSingh2002/ADA-Fuzzyball | 0 | 0| 
 | 20211102T12:27:04Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6777 | 1408| 
 | 20211102T12:15:26Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 218 | 16| 
 | 20211102T12:07:20Z | Null | https://github.com/AdaLogics/go-fuzz-headers | 14 | 1| 
