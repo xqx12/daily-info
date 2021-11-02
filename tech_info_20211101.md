@@ -73,7 +73,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211101T23:41:04Z | Exploit Development CheatSheet. | https://github.com/V0lk3n/OSED-CheatSheet | 0 | 4| 
 | 20211101T23:25:16Z | Vulnerabilities, security advisories, exploit codes and proof-of-concept codes. | https://github.com/zeroscience/advisory | 5 | 4| 
 | 20211101T23:09:21Z | Null | https://github.com/joeengo/exploiting | 0 | 0| 
 | 20211101T22:35:21Z | Null | https://github.com/abrandec/solidity-security-exploits | 0 | 0| 
@@ -83,6 +82,7 @@
 | 20211101T21:31:06Z | The world has not been the same since the outbreak and ending of World War 3 in the same year, 2079, when the “Developing Countries” in Africa and Asia finally rebelled against the exploitation by the western “industrial countries”. A massive launching of nuclear and “space” weapons on the side of the latter not only quenched the rebellion, it also caused considerable and irrevocable damage to the very structure of Universe. | https://github.com/4dmud/mud | 2 | 3| 
 | 20211101T21:23:27Z | Null | https://github.com/ZakaryaIT/Mass-Exploit3r-main | 0 | 0| 
 | 20211101T20:39:01Z | Robotics semester project at LASA, EPFL | https://github.com/RaphaelUebersax/Incrementally_Learning_and_Exploiting_Inverse_Dynamics | 0 | 0| 
+| 20211101T20:33:50Z | Cluster And Predict exploits and vulnerabilities using Machine Learning | https://github.com/sruthishiva/CyberSecurityAnalysis | 0 | 0| 
 
 
 # backdoor on Github 推荐
