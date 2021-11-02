@@ -73,6 +73,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211102T00:45:19Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 14| 
 | 20211102T00:43:20Z | The code for the TickShift exploit | https://github.com/HausemasterIssue/TickShift | 0 | 0| 
 | 20211102T00:41:45Z | Exploit Development CheatSheet. | https://github.com/V0lk3n/OSED-CheatSheet | 0 | 4| 
 | 20211102T00:38:45Z | Drafts of exploits made for studying and consultation purposes | https://github.com/brerodrigues/exploit_drafts | 0 | 0| 
@@ -82,7 +83,6 @@
 | 20211101T22:35:21Z | Null | https://github.com/abrandec/solidity-security-exploits | 0 | 0| 
 | 20211101T22:29:16Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10273 | 1763| 
 | 20211101T22:26:52Z | A collection of links related to Linux kernel security and exploitation | https://github.com/xairy/linux-kernel-exploitation | 3736 | 797| 
-| 20211101T22:12:28Z | a defi exploit | https://github.com/snoowl26/didactic-guacamole | 0 | 0| 
 
 
 # backdoor on Github 推荐
