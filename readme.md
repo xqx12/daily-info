@@ -97,6 +97,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211102T12:05:23Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211102T12:03:56Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 571 | 60| 
 | 20211102T12:01:52Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6776 | 1408| 
 | 20211102T11:38:56Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 7 | 1| 
@@ -106,7 +107,6 @@
 | 20211102T10:44:51Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
 | 20211102T10:37:52Z | CC paper on compiler fuzzing | https://github.com/agroce/cc2022 | 0 | 0| 
 | 20211102T10:11:56Z | Web Fuzzer Helper | https://github.com/Aif4thah/CShidori | 0 | 0| 
-| 20211102T09:39:03Z | 开源、轻量、快速、跨平台 的红队(redteam)外网打点扫描器，功能 端口扫描(port scan) 指纹识别(fingerprint) nday检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | 242 | 33| 
 
 
 
