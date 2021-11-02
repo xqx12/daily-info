@@ -77,12 +77,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211102T12:03:13Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 34 | 19| 
 | 20211102T11:54:50Z | Null | https://github.com/m3hr44n/Simple-CTF-Exploit | 1 | 0| 
 | 20211102T11:46:16Z | Null | https://github.com/Athis-Offsec/Exploits-I-Made | 0 | 0| 
 | 20211102T11:38:47Z | [IEEE FG 2021] Official implementation: Exploiting Emotional Dependencies with Graph Convolutional Networks for Facial Expression Recognition | https://github.com/PanosAntoniadis/emotion-gcn | 4 | 0| 
 | 20211102T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10274 | 1763| 
 | 20211102T11:28:08Z | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | 0 | 0| 
-| 20211102T11:03:11Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 34 | 19| 
 | 20211102T10:59:46Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 81 | 13| 
 | 20211102T10:21:08Z | Небольшой плагин для исправления некоторых багов. | https://github.com/Imptovskii/ExploitFixer | 2 | 0| 
 | 20211102T09:29:16Z | Collection of Discord hacking tools/fun stuff/exploits that is completely made using NodeJS. | https://github.com/I2rys/ODiscord | 19 | 9| 
@@ -127,6 +127,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211102T12:03:56Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 571 | 60| 
 | 20211102T12:01:52Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6776 | 1408| 
 | 20211102T11:38:56Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 7 | 1| 
 | 20211102T11:23:07Z | Null | https://github.com/polymorphicengine/Semi-Fuzzy-Quantifiers | 0 | 0| 
@@ -136,7 +137,6 @@
 | 20211102T10:37:52Z | CC paper on compiler fuzzing | https://github.com/agroce/cc2022 | 0 | 0| 
 | 20211102T10:11:56Z | Web Fuzzer Helper | https://github.com/Aif4thah/CShidori | 0 | 0| 
 | 20211102T09:39:03Z | 开源、轻量、快速、跨平台 的红队(redteam)外网打点扫描器，功能 端口扫描(port scan) 指纹识别(fingerprint) nday检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | 242 | 33| 
-| 20211102T09:35:40Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 
 
 
