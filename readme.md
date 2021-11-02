@@ -67,6 +67,13 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211102T10:33:07Z | Null | https://github.com/mr-quixter/ShellBackdoor | 0 | 1| 
+| 20211102T10:03:42Z | Neo est un tool / outil pour crée des backdoor sur Windows et Linux pour Windows et Linux. Développer en python3.9 et arrive dans un mois en Perl (pour les puristes) | https://github.com/Psyquoquack/Neo | 0 | 0| 
+| 20211102T10:01:47Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 6663 | 1678| 
+| 20211102T09:19:46Z | Unofficial pytorch implementation of RobNet(Defense-Resistant Backdoor Attacks on DNN) | https://github.com/dhkim2810/RobNet | 0 | 0| 
+| 20211102T04:19:41Z | a simple backdoor for learning how malware RAT works, not for attacking real stuffs, this backdoor faciltiated with a listener and can initiated in CMD interface, | https://github.com/stormdotcom/backdoor-working | 0 | 0| 
+| 20211102T04:19:33Z | Keeping it simple - PHP backdoors. | https://github.com/F-Masood/php-backdoors | 0 | 0| 
+| 20211102T02:37:17Z | Null | https://github.com/csdongxian/ANP_backdoor | 5 | 0| 
 | 20211102T01:49:15Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1480 | 373| 
 | 20211102T01:14:51Z | Null | https://github.com/Fartlicker777/Backdoor-Hacking | 0 | 0| 
 
@@ -74,7 +81,12 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211102T01:47:38Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 164 | 10| 
+| 20211102T12:00:22Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 179 | 39| 
+| 20211102T11:07:02Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1799 | 514| 
+| 20211102T09:11:08Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 166 | 10| 
+| 20211102T09:08:22Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1911 | 400| 
+| 20211102T04:09:13Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 9 | 4| 
+| 20211102T03:29:14Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 485 | 77| 
 
 
 # big4 on Github 推荐
