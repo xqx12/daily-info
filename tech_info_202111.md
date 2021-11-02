@@ -77,12 +77,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211102T12:15:05Z | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | 0 | 0| 
 | 20211102T12:03:13Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 34 | 19| 
 | 20211102T11:54:50Z | Null | https://github.com/m3hr44n/Simple-CTF-Exploit | 1 | 0| 
 | 20211102T11:46:16Z | Null | https://github.com/Athis-Offsec/Exploits-I-Made | 0 | 0| 
 | 20211102T11:38:47Z | [IEEE FG 2021] Official implementation: Exploiting Emotional Dependencies with Graph Convolutional Networks for Facial Expression Recognition | https://github.com/PanosAntoniadis/emotion-gcn | 4 | 0| 
 | 20211102T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10274 | 1763| 
-| 20211102T11:28:08Z | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | 0 | 0| 
 | 20211102T10:59:46Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 81 | 13| 
 | 20211102T10:21:08Z | Небольшой плагин для исправления некоторых багов. | https://github.com/Imptovskii/ExploitFixer | 2 | 0| 
 | 20211102T09:29:16Z | Collection of Discord hacking tools/fun stuff/exploits that is completely made using NodeJS. | https://github.com/I2rys/ODiscord | 19 | 9| 
