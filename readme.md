@@ -93,7 +93,6 @@
 | 20211101T09:53:30Z | Python-based Backdoor. | https://github.com/Senc3951/Backdoor | 0 | 0| 
 | 20211101T09:10:36Z | Cyber Security | https://github.com/pulkitkhandelwal29/Backdoor-Malware | 0 | 0| 
 | 20211101T07:33:01Z | Remote control software, supported Windows/Unix/MacOS/Linux(x86/x64/mips/arm) | https://github.com/h1zzz/purewater | 5 | 0| 
-| 20211101T05:24:06Z | Null | https://github.com/Fartlicker777/Backdoor-Hacking | 0 | 0| 
 | 20211101T05:14:59Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 347 | 62| 
 | 20211101T03:29:46Z | Null | https://github.com/THUYimingLi/BackdoorBox | 1 | 1| 
 | 20211101T01:06:07Z | Null | https://github.com/HarrialX/GraphBackdoor | 14 | 2| 
