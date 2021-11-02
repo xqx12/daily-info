@@ -43,6 +43,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211102T01:56:04Z | CVE-2021-22205 | CVE-2021-22205未授权漏洞批量检测 | https://github.com/Seals6/CVE-2021-22205 | | 
 | 20211101T19:36:44Z | CVE-2020-0796 | Remote Code Execution POC for CVE-2020-0796 | https://github.com/oxctdev/CVE-2020-0796 | | 
 | 20211101T19:13:21Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | | 
 | 20211101T17:27:14Z | CVE-2021-20837 | XMLRPC  - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | | 
@@ -52,7 +53,6 @@
 | 20211101T12:56:14Z | CVE-2021-31862 | Null | https://github.com/RobertDra/CVE-2021-31862 | | 
 | 20211101T10:50:14Z | CVE-2021-28079 | POC Jamovi <=1.6.18 is affected by a cross-site scripting (XSS) vulnerability. The column-name is vulnerable to XSS in the ElectronJS Framework. An attacker can make a .omv (Jamovi) document containing a payload. When opened by victim, the payload is triggered. | https://github.com/g33xter/CVE-2021-28079 | | 
 | 20211101T09:06:27Z | CVE-2021-30573 | Google Chrome Vulnerabilities CVE-2021-30573 | https://github.com/oxctdev/CVE-2021-30573 | | 
-| 20211101T08:30:25Z | CVE-2021-22205 | PoC in single line bash | https://github.com/findneo/GitLab-preauth-RCE_CVE-2021-22205 | | 
 
 
 # klee on Github 推荐
@@ -73,11 +73,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211102T01:56:20Z | Exploit Development CheatSheet. | https://github.com/V0lk3n/OSED-CheatSheet | 0 | 4| 
 | 20211102T01:50:48Z | Some fortnite exploits always updating from android1337 | https://github.com/Stoneless1337/Fortnite-exploits-always-updating | 0 | 0| 
 | 20211102T01:50:20Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10272 | 1763| 
 | 20211102T01:44:47Z | 7.5x Sleirsgoevy exploit | https://github.com/chronoss09/sleirsgoevy755 | 0 | 0| 
 | 20211102T01:36:28Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 357 | 54| 
-| 20211102T01:07:52Z | Exploit Development CheatSheet. | https://github.com/V0lk3n/OSED-CheatSheet | 0 | 4| 
 | 20211102T01:03:24Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 34 | 19| 
 | 20211102T01:02:56Z | The code for the TickShift exploit | https://github.com/HausemasterIssue/TickShift | 1 | 0| 
 | 20211102T00:45:19Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 14| 
