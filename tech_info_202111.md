@@ -73,10 +73,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211102T00:03:48Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 34 | 19| 
 | 20211101T23:41:04Z | Exploit Development CheatSheet. | https://github.com/V0lk3n/OSED-CheatSheet | 0 | 4| 
 | 20211101T23:25:16Z | Vulnerabilities, security advisories, exploit codes and proof-of-concept codes. | https://github.com/zeroscience/advisory | 5 | 4| 
 | 20211101T23:09:21Z | Null | https://github.com/joeengo/exploiting | 0 | 0| 
-| 20211101T23:03:01Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 34 | 19| 
 | 20211101T22:35:21Z | Null | https://github.com/abrandec/solidity-security-exploits | 0 | 0| 
 | 20211101T22:29:16Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10273 | 1763| 
 | 20211101T22:26:52Z | A collection of links related to Linux kernel security and exploitation | https://github.com/xairy/linux-kernel-exploitation | 3736 | 797| 
