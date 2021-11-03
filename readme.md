@@ -15,6 +15,7 @@
 | 20211102 | From Zero to Domain Admin - 一起利用 Zerologon 漏洞攻击域控的实际攻击事件的分析 | https://thedfirreport.com/2021/11/01/from-zero-to-domain-admin/| 
 | 20211102 | MalAPI.io - 一个收集恶意软件不同运行阶段所使用的 API 的网站 | https://malapi.io| 
 | 20211102 | Google 发起为期 3 个月的 Linux Kernel 提权漏洞奖励计划 | https://security.googleblog.com/2021/11/trick-treat-paying-leets-and-sweets-for.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+GoogleOnlineSecurityBlog+%28Google+Online+Security+Blog%29| 
+| 20211102 | APT-C-59（芜琼洞）组织2021年攻击行动揭秘 . | https://mp.weixin.qq.com/s/WBpML3BTxFPHmBgyunmEEA| 
 
 
 # 安全维基 推荐
@@ -26,21 +27,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211102T23:44:44Z | CVE-2021-42574 | Generate malicious files using recently published bidi-attack (CVE-2021-42574) | https://github.com/js-on/CVE-2021-42574 | | 
+| 20211102T20:40:20Z | CVE-2021-42694 | Generate malicious files using recently published homoglyphic-attack (CVE-2021-42694) | https://github.com/js-on/CVE-2021-42694 | | 
+| 20211102T19:44:23Z | 未知编号 | For IS713 Project | https://github.com/sinjeanmin/cvedetails_2020 | | 
+| 20211102T18:53:38Z | CVE-2021-20837 | XMLRPC  - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | | 
+| 20211102T17:23:00Z | CVE-2021-22205 | CVE-2021-22205未授权漏洞批量检测 | https://github.com/Seals6/CVE-2021-22205 | | 
+| 20211102T15:50:51Z | 未知编号 | Null | https://github.com/josebarahona1895/cvenlinea2021 | | 
+| 20211102T15:36:59Z | CVE-2021-22205 | CVE-2021-22205-getshell | https://github.com/shang159/CVE-2021-22205-getshell | | 
+| 20211102T14:45:27Z | CVE-2021-22205 | Null | https://github.com/mr-r3bot/Gitlab-CVE-2021-22205 | | 
 | 20211102T10:04:45Z | CVE-2021-42574 | Null | https://github.com/hffaust/CVE-2021-42574_and_CVE-2021-42694 | | 
 | 20211102T09:28:06Z | CVE-2020-1938 | -H 192.168.1.1-192.168.5.255 | https://github.com/einzbernnn/CVE-2020-1938Scan | | 
-| 20211102T09:10:19Z | CVE-2021-20837 | MovableType XMLRPC  - RCE | https://github.com/Cosemz/CVE-2021-20837 | | 
-| 20211102T06:05:43Z | CVE-2021-31862 | Null | https://github.com/RobertDra/CVE-2021-31862 | | 
-| 20211102T04:21:41Z | 未知编号 | Null | https://github.com/Qclover/Gitlab_RCE_CVE_2021_22205 | | 
-| 20211102T03:41:21Z | CVE-2021-42327 | WIP kernel exploit for minor bug i found in amd gpu driver | https://github.com/docfate111/CVE-2021-42327 | | 
-| 20211102T02:47:29Z | CVE-2021-42574 | Null | https://github.com/shiomiyan/CVE-2021-42574 | | 
-| 20211102T01:56:37Z | CVE-2021-22214 | Gitlab CI Lint API未授权 SSRF漏洞 CVE-2021-22214 | https://github.com/antx-code/CVE-2021-22214 | | 
-| 20211102T01:56:04Z | CVE-2021-22205 | CVE-2021-22205未授权漏洞批量检测 | https://github.com/Seals6/CVE-2021-22205 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211102T11:07:02Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1799 | 514| 
+| 20211102T15:53:20Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1800 | 514| 
 
 
 # s2e on Github 推荐
@@ -52,30 +54,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211102T12:58:52Z | Null | https://github.com/YASOMASO/exploitation.github.io | 0 | 0| 
-| 20211102T12:56:38Z | Null | https://github.com/E-Team-Sec/ExploitDepository | 0 | 0| 
-| 20211102T12:55:34Z | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | 0 | 0| 
-| 20211102T12:49:09Z | Cloud C2 Framework, which at the moment offers reconnaissance, enumeration, exploitation, post exploitation on AWS, but still working to allow testing other Cloud Providers and DevOps Components. | https://github.com/gl4ssesbo1/Nebula | 179 | 37| 
-| 20211102T12:45:19Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 14| 
-| 20211102T12:44:19Z | A Roblox cheat mostly made by an artificial intelligence (GitHub Copilot). | https://github.com/shartware-rbx/shartware | 0 | 1| 
-| 20211102T12:34:37Z | A high-performance general-purpose MRF MAP solver, heavily exploiting SIMD instructions. | https://github.com/dthuerck/mapmap_cpu | 66 | 33| 
-| 20211102T12:33:21Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10274 | 1763| 
-| 20211102T12:03:13Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 34 | 19| 
-| 20211102T11:54:50Z | Null | https://github.com/m3hr44n/Simple-CTF-Exploit | 1 | 0| 
+| 20211102T23:03:16Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 34 | 19| 
+| 20211102T23:01:06Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITION | 2 | 0| 
+| 20211102T22:53:40Z | Some fortnite exploits always updating from android1337 | https://github.com/Stoneless1337/Fortnite-exploits-always-updating | 2 | 0| 
+| 20211102T22:53:39Z | Some fortnite exploits (INTERNAL) always updating from android1337 (Also start the repository and ill give u fucking ud uworld :hot:) | https://github.com/Stoneless1337/Fortnite-Exploits-Always-Updating-Internal- | 1 | 0| 
+| 20211102T22:15:49Z | Herramienta para usar The Browser Exploitation Framework fuera de LAN, con diferentes opciones para hacking | https://github.com/tony23x/beef-for-cerberus | 3 | 1| 
+| 20211102T22:10:19Z | Null | https://github.com/zYan666/Demon-Exploit | 0 | 0| 
+| 20211102T22:05:29Z | A collection of write ups on how I solved each exploit challenge on Exploit Education | https://github.com/dyllan500/Exploit-Education-Write-Up | 0 | 0| 
+| 20211102T22:00:23Z | The main objective of this project is to help common people exploit the online services by means of an all-round COVID-19 care solution easily and effectively in this era of digital revolution. | https://github.com/theritwikkundu/Covicare | 0 | 0| 
+| 20211102T21:26:59Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10277 | 1763| 
+| 20211102T21:04:38Z | Null | https://github.com/pwn4all/exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211102T23:29:03Z | Lite version of my Gatekeeper backdoor for public use. | https://github.com/dievus/MayorSecBackdoor | 41 | 7| 
+| 20211102T19:23:09Z | My personal unique wiki for hacking the router firmware used by (Telia)TG799vac Xtream v17.2-MINT delivered from Technicolor  | https://github.com/wuseman/TG799VAC-XTREME-17.2-MINT | 64 | 18| 
+| 20211102T17:47:11Z | Official implementation of the paper %Backdoor Attacks on Self-Supervised Learning%. | https://github.com/UMBCvision/SSL-Backdoor | 13 | 3| 
+| 20211102T17:03:19Z | Null | https://github.com/DanilMinni/backdoor_691 | 0 | 1| 
+| 20211102T15:42:26Z | Unofficial pytorch implementation of RobNet(Defense-Resistant Backdoor Attacks on DNN) | https://github.com/dhkim2810/RobNet | 0 | 0| 
+| 20211102T14:27:28Z | Examples of how to use backdoors in appium using espresso driver | https://github.com/rajdeepv/appium_backdoors | 3 | 2| 
 | 20211102T10:33:07Z | Null | https://github.com/mr-quixter/ShellBackdoor | 0 | 1| 
 | 20211102T10:03:42Z | Neo est un tool / outil pour crée des backdoor sur Windows et Linux pour Windows et Linux. Développer en python3.9 et arrive dans un mois en Perl (pour les puristes) | https://github.com/Psyquoquack/Neo | 0 | 0| 
 | 20211102T10:01:47Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 6663 | 1678| 
-| 20211102T09:19:46Z | Unofficial pytorch implementation of RobNet(Defense-Resistant Backdoor Attacks on DNN) | https://github.com/dhkim2810/RobNet | 0 | 0| 
 | 20211102T04:19:41Z | a simple backdoor for learning how malware RAT works, not for attacking real stuffs, this backdoor faciltiated with a listener and can initiated in CMD interface, | https://github.com/stormdotcom/backdoor-working | 0 | 0| 
-| 20211102T04:19:33Z | Keeping it simple - PHP backdoors. | https://github.com/F-Masood/php-backdoors | 0 | 0| 
-| 20211102T02:37:17Z | Null | https://github.com/csdongxian/ANP_backdoor | 5 | 0| 
-| 20211102T01:49:15Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1480 | 373| 
-| 20211102T01:14:51Z | Null | https://github.com/Fartlicker777/Backdoor-Hacking | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -97,16 +100,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211102T12:59:14Z | Null | https://github.com/sumairruhani2/Ada-Fuzzball-Slam | 0 | 0| 
-| 20211102T12:49:55Z | Null | https://github.com/KisanthSivakumar/Project-Fuzzball | 0 | 1| 
-| 20211102T12:45:24Z | ADA Task to create, essentially, an %angry birds%-esque rip off | https://github.com/YuviSingh2002/ADA-Fuzzyball | 0 | 1| 
-| 20211102T12:27:04Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6777 | 1408| 
-| 20211102T12:15:26Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 218 | 16| 
-| 20211102T12:07:20Z | Null | https://github.com/AdaLogics/go-fuzz-headers | 14 | 1| 
-| 20211102T12:05:23Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20211102T12:03:56Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 571 | 60| 
-| 20211102T11:38:56Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 7 | 1| 
-| 20211102T11:23:07Z | Null | https://github.com/polymorphicengine/Semi-Fuzzy-Quantifiers | 0 | 0| 
+| 20211102T23:49:01Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 252 | 31| 
+| 20211102T23:22:26Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2416 | 148| 
+| 20211102T23:09:45Z | A lang-brainscore repository for initial dirty development; select code will be migrated to a lean and clean more permanent repo in the future  | https://github.com/language-brainscore/lang-brainscore-fuzzy-potato | 0 | 0| 
+| 20211102T22:58:41Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6778 | 1409| 
+| 20211102T22:43:36Z | CC paper on compiler fuzzing | https://github.com/agroce/cc2022 | 0 | 0| 
+| 20211102T22:10:53Z | A differential fuzzer for x86 decoders | https://github.com/trailofbits/mishegos | 156 | 22| 
+| 20211102T22:01:57Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20211102T21:24:09Z | fuzzying fuzzer  | https://github.com/githubfoam/fuzzing-githubactions | 0 | 0| 
+| 20211102T21:02:59Z | Fuzzy Bubbles fonts | https://github.com/googlefonts/fuzzy-bubbles | 0 | 0| 
+| 20211102T20:53:12Z | goal: generate some traces and send them over OpenTelemetry | https://github.com/jessitron/fuzzy-otel | 0 | 0| 
 
 
 
