@@ -81,16 +81,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211103T12:12:31Z | Numerical examples from %Greedy inference with structure-exploiting lazy maps% | https://github.com/michael-c-brennan/lazymaps | 0 | 1| 
+| 20211103T12:10:03Z | A blog where I write about exploiting cafes around Singapore | https://github.com/raniceyue/cafe-exploitation | 0 | 0| 
 | 20211103T12:03:11Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 34 | 19| 
 | 20211103T12:02:34Z | Collection of resources for learning pentesting, exploit development, obfuscation & much more. | https://github.com/nop-tech/learning-resources | 1 | 0| 
 | 20211103T11:55:32Z | WITHCulture is a service that provides access to digital cultural heritage items from different repositories and offers a number of added-value services for the creative reuse and intelligent exploitation of that content. | https://github.com/ails-lab/with | 0 | 2| 
-| 20211103T11:42:28Z | A blog where I write about exploiting cafes around Singapore | https://github.com/raniceyue/cafe-exploitation | 0 | 0| 
 | 20211103T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10279 | 1764| 
 | 20211103T11:26:19Z | Exploration-Exploitation using MAB | https://github.com/aegoe/MAB | 0 | 1| 
 | 20211103T10:19:50Z | A Series of Baseband & LMP Exploits against Bluetooth Classic Controllers | https://github.com/Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks | 6 | 0| 
 | 20211103T09:09:50Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 6577 | 1817| 
 | 20211103T08:49:32Z | Null | https://github.com/IxZZZ/Lab_SecureCoding_ExploitSystem | 0 | 0| 
-| 20211103T08:38:54Z | Exploiting dummy codes in Elliptic Curve Cryptography implementations | https://github.com/orangecertcc/ecdummy | 0 | 0| 
 
 
 # backdoor on Github 推荐
