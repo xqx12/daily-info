@@ -26,9 +26,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211103T12:02:46Z | 未知编号 | redoing cve_2020 repository | https://github.com/sinjeanmin/cvedetails_2020_final | | 
 | 20211103T11:51:44Z | CVE-2021-34429 | POC for CVE-2021-34429 | https://github.com/ColdFusionX/CVE-2021-34429 | | 
 | 20211103T11:42:54Z | CVE-2020-14181 | PoC for CVE-2020-14181 - Jira User Enumeration via /ViewUserHover.jspa | https://github.com/nksf7/CVE-2020-14181 | | 
-| 20211103T11:17:05Z | 未知编号 | redoing cve_2020 repository | https://github.com/sinjeanmin/cvedetails_2020_final | | 
 | 20211103T10:02:31Z | CVE-2021-41773 | Null | https://github.com/iilegacyyii/PoC-CVE-2021-41773 | | 
 | 20211103T09:55:51Z | CVE-2021-22205 | Null | https://github.com/mr-r3bot/Gitlab-CVE-2021-22205 | | 
 | 20211103T09:12:40Z | CVE-2021-36260 | the metasploit script(POC) about CVE-2021-36260  | https://github.com/TaroballzChen/CVE-2021-36260-metasploit | | 
@@ -70,7 +70,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211103T11:57:58Z | ./kumasia php backdoor | https://github.com/mugi789/kumasia | 0 | 0| 
+| 20211103T12:02:39Z | ./kumasia php backdoor | https://github.com/mugi789/kumasia | 0 | 0| 
 | 20211103T11:14:14Z | A really complete python backdoor and handler | https://github.com/P3rs3ph0ne/Pheonix | 0 | 0| 
 | 20211103T09:50:06Z | Null | https://github.com/kyukazamiqq/backdoor | 0 | 0| 
 | 20211103T09:17:43Z | Lite version of my Gatekeeper backdoor for public use. | https://github.com/dievus/MayorSecBackdoor | 43 | 7| 
@@ -85,6 +85,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211103T11:13:26Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1801 | 514| 
+| 20211103T08:39:50Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 163 | 36| 
+| 20211103T06:09:08Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 9 | 4| 
+| 20211103T03:22:57Z | 🎻 Requiem: Modular exploit generation using symbolic execution | https://github.com/aesophor/requiem | 14 | 3| 
 
 
 # big4 on Github 推荐
