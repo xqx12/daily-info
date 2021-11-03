@@ -54,7 +54,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211102T23:03:16Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 34 | 19| 
 | 20211102T23:01:06Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITION | 2 | 0| 
 | 20211102T22:53:40Z | Some fortnite exploits always updating from android1337 | https://github.com/Stoneless1337/Fortnite-exploits-always-updating | 2 | 0| 
 | 20211102T22:53:39Z | Some fortnite exploits (INTERNAL) always updating from android1337 (Also start the repository and ill give u fucking ud uworld :hot:) | https://github.com/Stoneless1337/Fortnite-Exploits-Always-Updating-Internal- | 1 | 0| 
@@ -64,6 +63,7 @@
 | 20211102T22:00:23Z | The main objective of this project is to help common people exploit the online services by means of an all-round COVID-19 care solution easily and effectively in this era of digital revolution. | https://github.com/theritwikkundu/Covicare | 0 | 0| 
 | 20211102T21:26:59Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10277 | 1763| 
 | 20211102T21:04:38Z | Null | https://github.com/pwn4all/exploit | 0 | 0| 
+| 20211102T21:01:33Z | Exploits for some pwn challenges on windows and linux .  | https://github.com/HadiMed/pwn | 0 | 0| 
 
 
 # backdoor on Github 推荐

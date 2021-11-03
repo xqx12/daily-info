@@ -77,7 +77,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211102T23:03:16Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 34 | 19| 
+| 20211103T00:03:32Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 34 | 19| 
 | 20211102T23:01:06Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITION | 2 | 0| 
 | 20211102T22:53:40Z | Some fortnite exploits always updating from android1337 | https://github.com/Stoneless1337/Fortnite-exploits-always-updating | 2 | 0| 
 | 20211102T22:53:39Z | Some fortnite exploits (INTERNAL) always updating from android1337 (Also start the repository and ill give u fucking ud uworld :hot:) | https://github.com/Stoneless1337/Fortnite-Exploits-Always-Updating-Internal- | 1 | 0| 
