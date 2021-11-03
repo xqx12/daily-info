@@ -77,8 +77,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211103T00:11:52Z | Exploit Development CheatSheet. | https://github.com/V0lk3n/OSED-CheatSheet | 0 | 4| 
-| 20211103T00:11:33Z | Trenchcoat is an interactive security brainstorming guide website that helps software engineers brainstorm things attackers might try to do to exploit a software system and ways to defend against them. | https://github.com/pmalmsten/tension-wrench | 0 | 0| 
+| 20211103T00:12:59Z | Exploit Development CheatSheet. | https://github.com/V0lk3n/OSED-CheatSheet | 0 | 4| 
+| 20211103T00:12:07Z | Tension Wrench is an interactive security brainstorming guide website that helps software engineers brainstorm things attackers might try to do to exploit a software system and ways to defend against them. | https://github.com/pmalmsten/tension-wrench | 0 | 0| 
 | 20211103T00:03:32Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 34 | 19| 
 | 20211102T23:01:06Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITION | 2 | 0| 
 | 20211102T22:53:40Z | Some fortnite exploits always updating from android1337 | https://github.com/Stoneless1337/Fortnite-exploits-always-updating | 2 | 0| 
