@@ -77,6 +77,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211103T01:49:54Z | Null | https://github.com/E-Team-Sec/ExploitDepository | 0 | 0| 
 | 20211103T01:37:14Z | tripex is the best roblox exploit | https://github.com/coolp972/tripex | 0 | 0| 
 | 20211103T01:03:14Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 34 | 19| 
 | 20211103T00:45:20Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 14| 
@@ -86,7 +87,6 @@
 | 20211103T00:12:59Z | Exploit Development CheatSheet. | https://github.com/V0lk3n/OSED-CheatSheet | 0 | 4| 
 | 20211102T23:01:06Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITION | 2 | 0| 
 | 20211102T22:53:40Z | Some fortnite exploits always updating from android1337 | https://github.com/Stoneless1337/Fortnite-exploits-always-updating | 2 | 0| 
-| 20211102T22:53:39Z | Some fortnite exploits (INTERNAL) always updating from android1337 (Also start the repository and ill give u fucking ud uworld :hot:) | https://github.com/Stoneless1337/Fortnite-Exploits-Always-Updating-Internal- | 1 | 0| 
 
 
 # backdoor on Github 推荐
