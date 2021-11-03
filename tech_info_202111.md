@@ -77,7 +77,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211103T00:29:23Z | Tension Wrench is an interactive security brainstorming guide website that helps software engineers brainstorm things attackers might try to do to exploit a software system and ways to defend against them. | https://github.com/pmalmsten/tension-wrench | 0 | 0| 
+| 20211103T00:31:41Z | Tension Wrench is an interactive security brainstorming guide website that helps software engineers brainstorm things attackers might try to do to exploit a software system and ways to defend against them. | https://github.com/pmalmsten/tension-wrench | 0 | 0| 
 | 20211103T00:23:49Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10278 | 1763| 
 | 20211103T00:23:35Z | A collection of write ups on how I solved each exploit challenge on Exploit Education | https://github.com/dyllan500/Exploit-Education-Write-Up | 0 | 0| 
 | 20211103T00:12:59Z | Exploit Development CheatSheet. | https://github.com/V0lk3n/OSED-CheatSheet | 0 | 4| 
