@@ -34,9 +34,9 @@
 | 20211102T17:23:00Z | CVE-2021-22205 | CVE-2021-22205未授权漏洞批量检测 | https://github.com/Seals6/CVE-2021-22205 | | 
 | 20211102T15:50:51Z | 未知编号 | Null | https://github.com/josebarahona1895/cvenlinea2021 | | 
 | 20211102T15:36:59Z | CVE-2021-22205 | CVE-2021-22205-getshell | https://github.com/shang159/CVE-2021-22205-getshell | | 
-| 20211102T14:45:27Z | CVE-2021-22205 | Null | https://github.com/mr-r3bot/Gitlab-CVE-2021-22205 | | 
 | 20211102T10:04:45Z | CVE-2021-42574 | Null | https://github.com/hffaust/CVE-2021-42574_and_CVE-2021-42694 | | 
 | 20211102T09:28:06Z | CVE-2020-1938 | -H 192.168.1.1-192.168.5.255 | https://github.com/einzbernnn/CVE-2020-1938Scan | | 
+| 20211102T09:10:19Z | CVE-2021-20837 | MovableType XMLRPC  - RCE | https://github.com/Cosemz/CVE-2021-20837 | | 
 
 
 # klee on Github 推荐
@@ -84,8 +84,12 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211102T20:18:46Z | A tool for generating nonlinear numerical invariants for C and Java programs.  DIG uses dynamic analysis to infer invariants over program execution traces and applies symbolic execution to inferred invariants. | https://github.com/unsat/dig | 9 | 4| 
+| 20211102T18:07:06Z | Symbolic execution engine for ABS | https://github.com/Edkamb/crowbar-tool | 0 | 3| 
+| 20211102T15:53:20Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1800 | 514| 
+| 20211102T15:44:23Z | Symbolic Execution for WebAssembly | https://github.com/romits800/Vivienne_eval | 1 | 0| 
+| 20211102T13:04:42Z | Symbolic executor for the Move programming language. | https://github.com/fEst1ck/move-symbolic-execution | 0 | 0| 
 | 20211102T12:00:22Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 179 | 39| 
-| 20211102T11:07:02Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1799 | 514| 
 | 20211102T09:11:08Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 166 | 10| 
 | 20211102T09:08:22Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1911 | 400| 
 | 20211102T04:09:13Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 9 | 4| 
