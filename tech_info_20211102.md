@@ -30,13 +30,13 @@
 | 20211102T23:44:44Z | CVE-2021-42574 | Generate malicious files using recently published bidi-attack (CVE-2021-42574) | https://github.com/js-on/CVE-2021-42574 | | 
 | 20211102T19:44:23Z | 未知编号 | For IS713 Project | https://github.com/sinjeanmin/cvedetails_2020 | | 
 | 20211102T18:53:38Z | CVE-2021-20837 | XMLRPC  - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | | 
-| 20211102T17:23:00Z | CVE-2021-22205 | CVE-2021-22205未授权漏洞批量检测 | https://github.com/Seals6/CVE-2021-22205 | | 
 | 20211102T15:50:51Z | 未知编号 | Null | https://github.com/josebarahona1895/cvenlinea2021 | | 
 | 20211102T15:36:59Z | CVE-2021-22205 | CVE-2021-22205-getshell | https://github.com/shang159/CVE-2021-22205-getshell | | 
 | 20211102T10:04:45Z | CVE-2021-42574 | Null | https://github.com/hffaust/CVE-2021-42574_and_CVE-2021-42694 | | 
 | 20211102T09:28:06Z | CVE-2020-1938 | -H 192.168.1.1-192.168.5.255 | https://github.com/einzbernnn/CVE-2020-1938Scan | | 
 | 20211102T09:10:19Z | CVE-2021-20837 | MovableType XMLRPC  - RCE | https://github.com/Cosemz/CVE-2021-20837 | | 
 | 20211102T06:05:43Z | CVE-2021-31862 | Null | https://github.com/RobertDra/CVE-2021-31862 | | 
+| 20211102T04:21:41Z | 未知编号 | Null | https://github.com/Qclover/Gitlab_RCE_CVE_2021_22205 | | 
 
 
 # klee on Github 推荐
