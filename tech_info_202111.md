@@ -127,6 +127,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211103T00:06:49Z | Null | https://github.com/oscarpimentel/fuzzy-tools | 0 | 0| 
 | 20211102T23:49:01Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 252 | 31| 
 | 20211102T23:22:26Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2416 | 148| 
 | 20211102T23:09:45Z | A lang-brainscore repository for initial dirty development; select code will be migrated to a lean and clean more permanent repo in the future  | https://github.com/language-brainscore/lang-brainscore-fuzzy-potato | 0 | 0| 
@@ -136,7 +137,6 @@
 | 20211102T22:01:57Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211102T21:24:09Z | fuzzying fuzzer  | https://github.com/githubfoam/fuzzing-githubactions | 0 | 0| 
 | 20211102T21:02:59Z | Fuzzy Bubbles fonts | https://github.com/googlefonts/fuzzy-bubbles | 0 | 0| 
-| 20211102T20:53:12Z | goal: generate some traces and send them over OpenTelemetry | https://github.com/jessitron/fuzzy-otel | 0 | 0| 
 
 
 
