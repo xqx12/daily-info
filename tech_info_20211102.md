@@ -110,10 +110,10 @@
 | 20211102T22:58:41Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6778 | 1409| 
 | 20211102T22:43:36Z | CC paper on compiler fuzzing | https://github.com/agroce/cc2022 | 0 | 0| 
 | 20211102T22:10:53Z | A differential fuzzer for x86 decoders | https://github.com/trailofbits/mishegos | 156 | 22| 
-| 20211102T22:01:57Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211102T21:24:09Z | fuzzying fuzzer  | https://github.com/githubfoam/fuzzing-githubactions | 0 | 0| 
 | 20211102T21:02:59Z | Fuzzy Bubbles fonts | https://github.com/googlefonts/fuzzy-bubbles | 0 | 0| 
 | 20211102T20:53:12Z | goal: generate some traces and send them over OpenTelemetry | https://github.com/jessitron/fuzzy-otel | 0 | 0| 
+| 20211102T20:14:33Z | Null | https://github.com/mike-ada/Ada-Fuzzball-Slam-Interaction-V2 | 0 | 0| 
 
 
 
