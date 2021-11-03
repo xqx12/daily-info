@@ -127,6 +127,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211103T01:10:47Z | TUI file explorer based on PowerShell and fzf | https://github.com/shinyanger/fuzzy-explorer | 2 | 0| 
 | 20211103T00:26:18Z | Leetcode solutions. | https://github.com/chaitanyks/fuzzy-disco | 0 | 0| 
 | 20211103T00:20:39Z | Read-only mirror of %fuzzysim% from r-forge SVN. | https://github.com/r-forge/fuzzysim | 1 | 0| 
 | 20211103T00:06:49Z | Null | https://github.com/oscarpimentel/fuzzy-tools | 0 | 0| 
@@ -136,7 +137,6 @@
 | 20211102T22:58:41Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6778 | 1409| 
 | 20211102T22:43:36Z | CC paper on compiler fuzzing | https://github.com/agroce/cc2022 | 0 | 0| 
 | 20211102T22:10:53Z | A differential fuzzer for x86 decoders | https://github.com/trailofbits/mishegos | 156 | 22| 
-| 20211102T22:01:57Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 
 
 
