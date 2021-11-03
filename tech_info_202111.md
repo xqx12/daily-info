@@ -77,6 +77,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211103T00:23:49Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10278 | 1763| 
+| 20211103T00:23:35Z | A collection of write ups on how I solved each exploit challenge on Exploit Education | https://github.com/dyllan500/Exploit-Education-Write-Up | 0 | 0| 
 | 20211103T00:20:13Z | Tension Wrench is an interactive security brainstorming guide website that helps software engineers brainstorm things attackers might try to do to exploit a software system and ways to defend against them. | https://github.com/pmalmsten/tension-wrench | 0 | 0| 
 | 20211103T00:12:59Z | Exploit Development CheatSheet. | https://github.com/V0lk3n/OSED-CheatSheet | 0 | 4| 
 | 20211103T00:03:32Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 34 | 19| 
@@ -85,8 +87,6 @@
 | 20211102T22:53:39Z | Some fortnite exploits (INTERNAL) always updating from android1337 (Also start the repository and ill give u fucking ud uworld :hot:) | https://github.com/Stoneless1337/Fortnite-Exploits-Always-Updating-Internal- | 1 | 0| 
 | 20211102T22:15:49Z | Herramienta para usar The Browser Exploitation Framework fuera de LAN, con diferentes opciones para hacking | https://github.com/tony23x/beef-for-cerberus | 3 | 1| 
 | 20211102T22:10:19Z | Null | https://github.com/zYan666/Demon-Exploit | 0 | 0| 
-| 20211102T22:05:29Z | A collection of write ups on how I solved each exploit challenge on Exploit Education | https://github.com/dyllan500/Exploit-Education-Write-Up | 0 | 0| 
-| 20211102T22:00:23Z | The main objective of this project is to help common people exploit the online services by means of an all-round COVID-19 care solution easily and effectively in this era of digital revolution. | https://github.com/theritwikkundu/Covicare | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -127,6 +127,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211103T00:20:39Z | Read-only mirror of %fuzzysim% from r-forge SVN. | https://github.com/r-forge/fuzzysim | 1 | 0| 
 | 20211103T00:06:49Z | Null | https://github.com/oscarpimentel/fuzzy-tools | 0 | 0| 
 | 20211102T23:49:01Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 252 | 31| 
 | 20211102T23:22:26Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2416 | 148| 
@@ -136,7 +137,6 @@
 | 20211102T22:10:53Z | A differential fuzzer for x86 decoders | https://github.com/trailofbits/mishegos | 156 | 22| 
 | 20211102T22:01:57Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211102T21:24:09Z | fuzzying fuzzer  | https://github.com/githubfoam/fuzzing-githubactions | 0 | 0| 
-| 20211102T21:02:59Z | Fuzzy Bubbles fonts | https://github.com/googlefonts/fuzzy-bubbles | 0 | 0| 
 
 
 

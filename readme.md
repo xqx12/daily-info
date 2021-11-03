@@ -59,11 +59,11 @@
 | 20211102T22:53:39Z | Some fortnite exploits (INTERNAL) always updating from android1337 (Also start the repository and ill give u fucking ud uworld :hot:) | https://github.com/Stoneless1337/Fortnite-Exploits-Always-Updating-Internal- | 1 | 0| 
 | 20211102T22:15:49Z | Herramienta para usar The Browser Exploitation Framework fuera de LAN, con diferentes opciones para hacking | https://github.com/tony23x/beef-for-cerberus | 3 | 1| 
 | 20211102T22:10:19Z | Null | https://github.com/zYan666/Demon-Exploit | 0 | 0| 
-| 20211102T22:05:29Z | A collection of write ups on how I solved each exploit challenge on Exploit Education | https://github.com/dyllan500/Exploit-Education-Write-Up | 0 | 0| 
 | 20211102T22:00:23Z | The main objective of this project is to help common people exploit the online services by means of an all-round COVID-19 care solution easily and effectively in this era of digital revolution. | https://github.com/theritwikkundu/Covicare | 0 | 0| 
-| 20211102T21:26:59Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10277 | 1763| 
 | 20211102T21:04:38Z | Null | https://github.com/pwn4all/exploit | 0 | 0| 
 | 20211102T21:01:33Z | Exploits for some pwn challenges on windows and linux .  | https://github.com/HadiMed/pwn | 0 | 0| 
+| 20211102T20:39:28Z | Evaluating the security (exploiting and fixing vulnerabilities) of Open eClass 2.3 (University of Athens) platform.  | https://github.com/mansstiv/eClass-Penetration-Testing | 0 | 0| 
+| 20211102T20:28:38Z | Press Q to quit | https://github.com/Luigit12/coordinate-exploit-cool-mann-txt-generator | 0 | 0| 
 
 
 # backdoor on Github 推荐
