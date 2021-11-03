@@ -100,6 +100,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211103T12:53:29Z | BlueHatIL 2020 - Staying # and Bringing Covert Injection Tradecraft to .NET | https://github.com/aeigokuithur0/FuzzySecurity | 0 | 0| 
 | 20211103T12:51:59Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211103T12:12:14Z | Mondlandung mithilfe von Fuzzy-Logik | https://github.com/tpoerschke/FuzzyMoonLanding | 1 | 0| 
 | 20211103T11:55:45Z | project to test and experiment with go fuzzing | https://github.com/pete911/fuzz-test | 0 | 0| 
@@ -109,7 +110,6 @@
 | 20211103T11:37:18Z | A serverless (AWS based) document generator based on templates | https://github.com/tomazfb/fuzzy-doodle | 0 | 0| 
 | 20211103T11:02:51Z | ADA Task to create, essentially, an %angry birds%-esque rip off | https://github.com/moezahidhabib/ADA-Fuzzyball | 0 | 0| 
 | 20211103T10:56:10Z | Null | https://github.com/scopion/fuzz-db-own | 0 | 0| 
-| 20211103T10:55:00Z | The necessary data pertinent to the recommendation system is provided here. All the necessary information is delineated in Dataset.docx. | https://github.com/ssakash6611/Intelligent-Fuzzy-AHP-and-VIKOR-based-Personalized-Product-Recommendation-System | 0 | 0| 
 
 
 
