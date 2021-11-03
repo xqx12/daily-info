@@ -45,9 +45,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211103T01:32:56Z | CVE-2021-42694 | Generate malicious files using recently published homoglyphic-attack (CVE-2021-42694) | https://github.com/js-on/CVE-2021-42694 | | 
 | 20211103T00:01:25Z | CVE-2021-22205 | Null | https://github.com/mr-r3bot/Gitlab-CVE-2021-22205 | | 
 | 20211102T23:44:44Z | CVE-2021-42574 | Generate malicious files using recently published bidi-attack (CVE-2021-42574) | https://github.com/js-on/CVE-2021-42574 | | 
-| 20211102T20:40:20Z | CVE-2021-42694 | Generate malicious files using recently published homoglyphic-attack (CVE-2021-42694) | https://github.com/js-on/CVE-2021-42694 | | 
 | 20211102T19:44:23Z | 未知编号 | For IS713 Project | https://github.com/sinjeanmin/cvedetails_2020 | | 
 | 20211102T18:53:38Z | CVE-2021-20837 | XMLRPC  - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | | 
 | 20211102T17:23:00Z | CVE-2021-22205 | CVE-2021-22205未授权漏洞批量检测 | https://github.com/Seals6/CVE-2021-22205 | | 
