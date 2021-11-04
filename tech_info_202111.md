@@ -75,14 +75,15 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211104T01:03:30Z | Null | https://github.com/yuvalkirstain/s2e-coref | 18 | 7| 
 | 20211103T14:00:55Z | 🎻 Requiem: Modular exploit generation using symbolic execution | https://github.com/aesophor/requiem | 14 | 3| 
-| 20211103T08:54:56Z | Null | https://github.com/yuvalkirstain/s2e-coref | 17 | 7| 
 | 20211102T12:00:22Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 179 | 39| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211104T01:03:09Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211104T01:02:40Z | Project 01- Softare Security, Eval Function Exploit | https://github.com/Alegarciy/SS-P1_Py_Exploit | 0 | 0| 
 | 20211104T00:45:20Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 14| 
 | 20211104T00:41:05Z | Null | https://github.com/sepehrdaddev/packetstorm-exploits | 19 | 9| 
@@ -90,7 +91,6 @@
 | 20211104T00:11:37Z | lxd privilege escalation exploit | https://github.com/0bfxgh0st/lxd-privesc-exploit | 2 | 1| 
 | 20211104T00:05:13Z | Script PoC that exploits the Tentacles upload functionality of OctoBot trading bot and which leads to an arbitrary code execution. | https://github.com/Nwqda/Sashimi-Evil-OctoBot-Tentacle | 0 | 0| 
 | 20211104T00:04:58Z | Tools for exploiting ARIA standard products | https://github.com/aria-tools/ARIA-tools | 46 | 23| 
-| 20211104T00:04:37Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211103T23:26:06Z | Official PyTorch implementation of %Puzzle Mix: Exploiting Saliency and Local Statistics for Optimal Mixup% (ICML%20) | https://github.com/snu-mllab/PuzzleMix | 97 | 11| 
 | 20211103T22:54:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10283 | 1765| 
 

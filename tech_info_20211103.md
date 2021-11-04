@@ -66,7 +66,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20211103T14:00:55Z | 🎻 Requiem: Modular exploit generation using symbolic execution | https://github.com/aesophor/requiem | 14 | 3| 
-| 20211103T08:54:56Z | Null | https://github.com/yuvalkirstain/s2e-coref | 17 | 7| 
 
 
 # exploit on Github 推荐
