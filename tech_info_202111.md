@@ -83,8 +83,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211104T12:14:26Z | Null | https://github.com/pwn4all/exploit | 0 | 0| 
 | 20211104T12:03:29Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
-| 20211104T11:52:18Z | Null | https://github.com/pwn4all/exploit | 0 | 0| 
 | 20211104T11:51:43Z | Null | https://github.com/Jongtek-23/Notes---Linux-Exploitation---Remote-Exploitation | 0 | 0| 
 | 20211104T11:49:09Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 610 tools, that you can use for Hacking. | https://github.com/can-you-teach-me/Hacking-Tools-Pack | 2 | 0| 
 | 20211104T11:48:17Z | Git Scraping project for CISA Known Exploited Vulnerability Catalog | https://github.com/JosephTLucas/CISA_KNOWN_EXPLOITED_VULNERABILITIES_CATALOG | 1 | 1| 
