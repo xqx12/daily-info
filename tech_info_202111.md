@@ -133,6 +133,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211104T01:48:15Z | Fuzz language model that used chatbot | https://github.com/ksjr7-crongcrong/chatbot_fuzzer | 0 | 0| 
 | 20211104T01:12:09Z | Anything about kernel security.  CTF kernel pwn, kernel exploit, kernel fuzz and kernel defense paper, kernel debugging technique, kernel CVE debug. | https://github.com/bsauce/kernel-security-learning | 265 | 37| 
 | 20211104T01:08:06Z | Simple fuzzing tool designed for multi-threaded operation and for testing execution time.  | https://github.com/amitjain-3/twoFuzzingLong | 0 | 0| 
 | 20211104T00:41:49Z | Null | https://github.com/oscarpimentel/fuzzy-tools | 0 | 0| 
@@ -142,7 +143,6 @@
 | 20211103T22:12:00Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6782 | 1409| 
 | 20211103T21:32:52Z | Crossing data with Python | https://github.com/rfolmedoa/fuzzy-v-lookup | 0 | 0| 
 | 20211103T21:22:09Z | Config files for my GitHub profile. | https://github.com/fuzzyl0gic4/fuzzyl0gic4 | 0 | 0| 
-| 20211103T21:12:28Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 710 | 142| 
 
 
 
