@@ -31,38 +31,38 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
-| 20211103 | VulnHub-[DC-1-7]-系列通关手册 | https://www.sec-in.com/article/1126| 
-| 20211103 | 从开放目录到 GitHub 投毒 | https://mp.weixin.qq.com/s/HNdcwa5x3mTuxEPg2wmdMQ| 
-| 20211103 | KCon 2021 部分 PPT 发布 | https://paper.seebug.org/1748/| 
-| 20211103 | KCon 2021 部分 PPT 发布 | /news/29765| 
-| 20211102 | 解释与改进安全应用场景下的深度异常检测方法 | https://mp.weixin.qq.com/s/U5HYIFLjO3ikkMgHyjsUpQ| 
-| 20211101 | 航空产业已成境外情报机构重点网络攻击目标 | https://mp.weixin.qq.com/s/ANDLQBHTzB2uiS54xxyuZw| 
-| 20211101 | 2021年网络安全领域四大顶会中国学者发表论文88篇（附目录） | https://mp.weixin.qq.com/s/igXuvxBdVZpM9fkAxnkJ5g| 
-| 20211101 | 破解版密钥相同，部分CobaltStrike加密流量可解 | https://mp.weixin.qq.com/s/AcIFSjyqn9gzyRkyx3sRIQ| 
-| 20211101 | TrustCom会议小记 | https://mp.weixin.qq.com/s/itQMU8HwacjfMsI9cFF6VA| 
-| 20211101 | 基于语义的下游内核中补丁的存在性测试 | https://mp.weixin.qq.com/s/4rVWVseMr3UT65sOBMjiqQ| 
+| 20211104 | 如何通过进程内存提取密钥解密Cobalt Strike流量 | https://mp.weixin.qq.com/s/MwGmwMfiWumPfyNZcWYpLw| 
+| 20211104 | 从Java反序列化漏洞题看CodeQL数据流 | https://www.anquanke.com/post/id/256967| 
+| 20211104 | 浅谈无需修改注册表抓取明文密码 | https://www.anquanke.com/post/id/255226| 
+| 20211104 | JavaWeb 内存马一周目通关攻略 | https://su18.org/post/memory-shell/| 
+| 20211104 | JavaWeb 内存马二周目通关攻略 | https://tttang.com/archive/1313/| 
+| 20211104 | Docker PHP裸文件本地包含综述 | https://tttang.com/archive/1312/| 
+| 20211104 | 从广东省强网杯——girlfriend中看realloc的艺术 | https://www.anquanke.com/post/id/256793| 
+| 20211104 | 劫持 Golang 编译 | https://paper.seebug.org/1749/| 
+| 20211104 | 渗透测试-一次从黑盒转向白盒 | https://websecuritys.cn/archives/Blog-Ac-1.html| 
+| 20211104 | CodeQL with CVE-2021-2471 | http://m0d9.me/2021/11/01/CodeQL-CVE-2021-2471/| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211104T01:55:40Z | CVE-2021-34429 | POC for CVE-2021-34429 | https://github.com/ColdFusionX/CVE-2021-34429 | | 
-| 20211103T23:05:54Z | 未知编号 | redoing cve_2020 repository | https://github.com/sinjeanmin/cvedetails_2020_final | | 
-| 20211103T21:50:39Z | CVE-2021-42662 | CVE-2021-42662 - Stored Cross-Site Scripting vulnerability in the Online event booking and reservation system.  | https://github.com/TheHackingRabbi/CVE-2021-42662 | | 
-| 20211103T20:46:24Z | CVE-2021-26294 | Directory Traversal in Afterlogic webmail aurora and pro | https://github.com/dorkerdevil/CVE-2021-26294 | | 
-| 20211103T18:32:34Z | CVE-2021-42694 | Generate malicious files using recently published homoglyphic-attack (CVE-2021-42694) | https://github.com/js-on/CVE-2021-42694 | | 
-| 20211103T17:57:33Z | CVE-2021-43141 | Information about CVE-2021-43141, a reflected XSS in the plan_application section. | https://github.com/Dir0x/CVE-2021-43141 | | 
-| 20211103T17:49:30Z | CVE-2021-43140 | SQL injection vulnerability in login exists in Sourcecodester Simple Subscription Website. | https://github.com/Dir0x/CVE-2021-43140 | | 
-| 20211103T17:41:44Z | CVE-2021-42013 | Exploit Apache 2.4.50(CVE-2021-42013) | https://github.com/robotsense1337/CVE-2021-42013 | | 
-| 20211103T17:07:38Z | CVE-2021-20837 | XMLRPC  - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | | 
-| 20211103T15:50:17Z | cve-2020-0022 | cve-2020-0022 | https://github.com/devdanqtuan/poc-for-cve-2020-0022 | | 
+| 20211104T12:00:21Z | 未知编号 | redoing cve_2020 repository | https://github.com/sinjeanmin/cvedetails_2020_final | | 
+| 20211104T11:12:24Z | CVE-2021-34429 | POC for CVE-2021-34429 - Eclipse Jetty 11.0.5 Sensitive File Disclosure | https://github.com/ColdFusionX/CVE-2021-34429 | | 
+| 20211104T10:59:03Z | CVE-2021-26294 | Directory Traversal in Afterlogic webmail aurora and pro | https://github.com/dorkerdevil/CVE-2021-26294 | | 
+| 20211104T10:48:25Z | CVE-2021-40539 | Exploitation code for CVE-2021-40539 | https://github.com/synacktiv/CVE-2021-40539 | | 
+| 20211104T09:01:59Z | CVE-2021-22205 | CVE-2021-22205& GitLab CE/EE RCE | https://github.com/devdanqtuan/CVE-2021-22205 | | 
+| 20211104T04:51:19Z | CVE-2021-42662 | CVE-2021-42662 - Stored Cross-Site Scripting vulnerability in the Online event booking and reservation system.  | https://github.com/TheHackingRabbi/CVE-2021-42662 | | 
+| 20211104T04:51:03Z | CVE-2021-43141 | Information about CVE-2021-43141, a reflected XSS in the plan_application section. | https://github.com/Dir0x/CVE-2021-43141 | | 
+| 20211104T04:50:20Z | CVE-2021-42013 | Exploit Apache 2.4.50(CVE-2021-42013) | https://github.com/robotsense1337/CVE-2021-42013 | | 
+| 20211104T04:25:48Z | CVE-2021-42327 | WIP kernel exploit for minor bug i found in amd gpu driver | https://github.com/docfate111/CVE-2021-42327 | | 
+| 20211104T02:50:31Z | CVE-2021-42694 | Generate malicious files using recently published homoglyphic-attack (CVE-2021-42694) | https://github.com/js-on/CVE-2021-42694 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211104T05:57:40Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1807 | 514| 
 | 20211103T23:16:39Z | Null | https://github.com/klee669/klee669.github.io | 0 | 0| 
-| 20211103T22:14:35Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1805 | 514| 
 | 20211103T18:36:46Z | Null | https://github.com/ayazip/witch-klee | 0 | 0| 
 | 20211103T12:25:13Z | Dynamic and symbolic taint analysis for multi-thread programs | https://github.com/xdzhang-xjtu/kleem | 0 | 0| 
 | 20211103T07:22:08Z | Null | https://github.com/Hanseltu/klee-n-aeg-final | 0 | 0| 
@@ -83,26 +83,26 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211104T01:52:39Z | 一个花里胡哨的Exploit运行框架 | https://github.com/E-Team-Sec/ExploitDepository | 0 | 0| 
-| 20211104T01:36:31Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 357 | 55| 
-| 20211104T01:36:05Z | practicing writing full chain exploits | https://github.com/whoismissing/full-chain-practice | 0 | 0| 
-| 20211104T01:31:01Z | The use of adaptive optics scanning laser ophthalmoscopy (AOSLO) to probe color perception at the individual cone level has become increasingly of interest in the vision science community. Such experiments are enabled by having individual subjects% cone classification map which is inferred through a separate cone classification process. Thus, there is need for fast, accurate, and accessible cone classification algorithms. For our project, we propose a densitometry method for estimating cone types using an AOSLO and an algorithm for optical feedback which exploits differences in cone absorption spectra. We hope that this project will improve on or complement the state-of-the-art densitometry cone classification methods.  | https://github.com/cshewmake2/cone-classification | 0 | 0| 
-| 20211104T01:19:31Z | Coffee + Exploiting | https://github.com/HonestlyDex/CaffieneHub | 0 | 0| 
-| 20211104T01:12:09Z | Anything about kernel security.  CTF kernel pwn, kernel exploit, kernel fuzz and kernel defense paper, kernel debugging technique, kernel CVE debug. | https://github.com/bsauce/kernel-security-learning | 265 | 37| 
-| 20211104T01:03:09Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
-| 20211104T01:02:40Z | Project 01- Softare Security, Eval Function Exploit | https://github.com/Alegarciy/SS-P1_Py_Exploit | 0 | 0| 
-| 20211104T00:45:20Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 14| 
-| 20211104T00:41:05Z | Null | https://github.com/sepehrdaddev/packetstorm-exploits | 19 | 9| 
+| 20211104T11:52:18Z | Null | https://github.com/pwn4all/exploit | 0 | 0| 
+| 20211104T11:51:43Z | Null | https://github.com/Jongtek-23/Notes---Linux-Exploitation---Remote-Exploitation | 0 | 0| 
+| 20211104T11:49:09Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 610 tools, that you can use for Hacking. | https://github.com/can-you-teach-me/Hacking-Tools-Pack | 2 | 0| 
+| 20211104T11:48:17Z | Git Scraping project for CISA Known Exploited Vulnerability Catalog | https://github.com/JosephTLucas/CISA_KNOWN_EXPLOITED_VULNERABILITIES_CATALOG | 1 | 1| 
+| 20211104T11:41:01Z | A massive documentation about binary protections, exploitation techniques, and computer architecture concepts. | https://github.com/p0dalirius/binaryexploitation | 7 | 0| 
+| 20211104T11:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10284 | 1766| 
+| 20211104T11:28:13Z | A series of symupy examples to exploit the symupy package | https://github.com/licit-lab/symupy-examples | 0 | 0| 
+| 20211104T11:16:26Z | The world has not been the same since the outbreak and ending of World War 3 in the same year, 2079, when the “Developing Countries” in Africa and Asia finally rebelled against the exploitation by the western “industrial countries”. A massive launching of nuclear and “space” weapons on the side of the latter not only quenched the rebellion, it also caused considerable and irrevocable damage to the very structure of Universe. | https://github.com/4dmud/mud | 4 | 4| 
+| 20211104T11:03:03Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
+| 20211104T11:01:23Z | 📈 A visualization of MetricQ data exploiting the advantages of the HTA db backend  | https://github.com/metricq/metricq-webview | 0 | 1| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211104T07:01:08Z | Lite version of my Gatekeeper backdoor for public use. | https://github.com/dievus/MayorSecBackdoor | 45 | 7| 
 | 20211104T00:32:36Z | The insane hackerman backdoor. | https://github.com/Bakdooro/Bakdooro | 10 | 2| 
 | 20211103T23:46:41Z | Database of backdoor passwords used by Malware, uncovered by the Malvuln project. | https://github.com/malvuln/viruscreds | 7 | 2| 
 | 20211103T21:53:39Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 36 | 28| 
 | 20211103T19:48:26Z | Null | https://github.com/mr-quixter/ShellBackdoor | 0 | 1| 
-| 20211103T19:14:48Z | Lite version of my Gatekeeper backdoor for public use. | https://github.com/dievus/MayorSecBackdoor | 44 | 7| 
 | 20211103T18:27:33Z | Code and data of the EMNLP 2021 paper %Mind the Style of Text! Adversarial and Backdoor Attacks Based on Text Style Transfer% | https://github.com/thunlp/StyleAttack | 8 | 0| 
 | 20211103T18:12:36Z | Official implementation of the EMNLP 2021 paper %ONION: A Simple and Effective Defense Against Textual Backdoor Attacks% | https://github.com/thunlp/ONION | 4 | 0| 
 | 20211103T17:14:33Z | Neo est un tool / outil pour crée des backdoor sur Windows et Linux pour Windows et Linux. Développer en python3.9 et arrive dans un mois en Perl (pour les puristes) | https://github.com/Psyquoquack/Neo | 0 | 0| 
