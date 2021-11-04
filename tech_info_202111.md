@@ -83,12 +83,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211104T00:20:47Z | Project 01- Softare Security, Eval Function Exploit | https://github.com/Alegarciy/SS-P1_Py_Exploit | 0 | 0| 
 | 20211104T00:11:37Z | lxd privilege escalation exploit | https://github.com/0bfxgh0st/lxd-privesc-exploit | 2 | 1| 
 | 20211104T00:05:13Z | Script PoC that exploits the Tentacles upload functionality of OctoBot trading bot and which leads to an arbitrary code execution. | https://github.com/Nwqda/Sashimi-Evil-OctoBot-Tentacle | 0 | 0| 
 | 20211104T00:04:58Z | Tools for exploiting ARIA standard products | https://github.com/aria-tools/ARIA-tools | 46 | 23| 
 | 20211104T00:04:37Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211103T23:26:06Z | Official PyTorch implementation of %Puzzle Mix: Exploiting Saliency and Local Statistics for Optimal Mixup% (ICML%20) | https://github.com/snu-mllab/PuzzleMix | 97 | 11| 
-| 20211103T23:04:38Z | Project 01- Softare Security, Eval Function Exploit | https://github.com/Alegarciy/SS-P1_Py_Exploit | 0 | 0| 
 | 20211103T22:54:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10283 | 1765| 
 | 20211103T22:38:08Z | C2 and Post Exploitation Code | https://github.com/sneakerhax/C2PE | 27 | 4| 
 | 20211103T21:13:07Z | Robotics semester project at LASA, EPFL | https://github.com/RaphaelUebersax/Incrementally_Learning_and_Exploiting_Inverse_Dynamics | 0 | 0| 

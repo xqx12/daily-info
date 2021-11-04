@@ -73,7 +73,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20211103T23:26:06Z | Official PyTorch implementation of %Puzzle Mix: Exploiting Saliency and Local Statistics for Optimal Mixup% (ICML%20) | https://github.com/snu-mllab/PuzzleMix | 97 | 11| 
-| 20211103T23:04:38Z | Project 01- Softare Security, Eval Function Exploit | https://github.com/Alegarciy/SS-P1_Py_Exploit | 0 | 0| 
 | 20211103T22:54:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10283 | 1765| 
 | 20211103T22:38:08Z | C2 and Post Exploitation Code | https://github.com/sneakerhax/C2PE | 27 | 4| 
 | 20211103T21:13:07Z | Robotics semester project at LASA, EPFL | https://github.com/RaphaelUebersax/Incrementally_Learning_and_Exploiting_Inverse_Dynamics | 0 | 0| 
@@ -82,6 +81,7 @@
 | 20211103T20:25:42Z | It is a simple tool to exploit local file include . vulnerabilities | https://github.com/Adel-kaka-dz/CVE-2006-3392 | 0 | 0| 
 | 20211103T20:25:22Z | Depreciated WIP Jailbreak using the Cicuta Virosa exploit | https://github.com/Vyper-Dev/p0tion | 2 | 0| 
 | 20211103T20:24:21Z | a roblox exploit made on c# | https://github.com/alexplaygithub/CharaSploit-3.1 | 0 | 0| 
+| 20211103T19:47:33Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 8452 | 1454| 
 
 
 # backdoor on Github 推荐
