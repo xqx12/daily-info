@@ -83,10 +83,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211104T01:02:40Z | Project 01- Softare Security, Eval Function Exploit | https://github.com/Alegarciy/SS-P1_Py_Exploit | 0 | 0| 
 | 20211104T00:45:20Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 14| 
 | 20211104T00:41:05Z | Null | https://github.com/sepehrdaddev/packetstorm-exploits | 19 | 9| 
 | 20211104T00:24:11Z | C2 and Post Exploitation Code | https://github.com/sneakerhax/C2PE | 28 | 4| 
-| 20211104T00:20:47Z | Project 01- Softare Security, Eval Function Exploit | https://github.com/Alegarciy/SS-P1_Py_Exploit | 0 | 0| 
 | 20211104T00:11:37Z | lxd privilege escalation exploit | https://github.com/0bfxgh0st/lxd-privesc-exploit | 2 | 1| 
 | 20211104T00:05:13Z | Script PoC that exploits the Tentacles upload functionality of OctoBot trading bot and which leads to an arbitrary code execution. | https://github.com/Nwqda/Sashimi-Evil-OctoBot-Tentacle | 0 | 0| 
 | 20211104T00:04:58Z | Tools for exploiting ARIA standard products | https://github.com/aria-tools/ARIA-tools | 46 | 23| 
