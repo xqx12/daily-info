@@ -133,7 +133,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211104T00:30:54Z | Null | https://github.com/oscarpimentel/fuzzy-tools | 0 | 0| 
+| 20211104T00:41:49Z | Null | https://github.com/oscarpimentel/fuzzy-tools | 0 | 0| 
 | 20211104T00:06:28Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20211103T23:59:38Z | Null | https://github.com/fuzzcorp/fuzzgoat | 0 | 0| 
 | 20211103T23:31:44Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
