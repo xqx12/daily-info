@@ -83,6 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211104T01:19:31Z | Coffee + Exploiting | https://github.com/HonestlyDex/CaffieneHub | 0 | 0| 
 | 20211104T01:12:09Z | Anything about kernel security.  CTF kernel pwn, kernel exploit, kernel fuzz and kernel defense paper, kernel debugging technique, kernel CVE debug. | https://github.com/bsauce/kernel-security-learning | 265 | 37| 
 | 20211104T01:03:09Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211104T01:02:40Z | Project 01- Softare Security, Eval Function Exploit | https://github.com/Alegarciy/SS-P1_Py_Exploit | 0 | 0| 
@@ -92,7 +93,6 @@
 | 20211104T00:11:37Z | lxd privilege escalation exploit | https://github.com/0bfxgh0st/lxd-privesc-exploit | 2 | 1| 
 | 20211104T00:05:13Z | Script PoC that exploits the Tentacles upload functionality of OctoBot trading bot and which leads to an arbitrary code execution. | https://github.com/Nwqda/Sashimi-Evil-OctoBot-Tentacle | 0 | 0| 
 | 20211104T00:04:58Z | Tools for exploiting ARIA standard products | https://github.com/aria-tools/ARIA-tools | 46 | 23| 
-| 20211103T23:26:06Z | Official PyTorch implementation of %Puzzle Mix: Exploiting Saliency and Local Statistics for Optimal Mixup% (ICML%20) | https://github.com/snu-mllab/PuzzleMix | 97 | 11| 
 
 
 # backdoor on Github 推荐
