@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211104T12:08:32Z | 未知编号 | redoing cve_2020 repository | https://github.com/sinjeanmin/cvedetails_2020_final | | 
+| 20211104T12:09:33Z | 未知编号 | redoing cve_2020 repository | https://github.com/sinjeanmin/cvedetails_2020_final | | 
 | 20211104T11:12:24Z | CVE-2021-34429 | POC for CVE-2021-34429 - Eclipse Jetty 11.0.5 Sensitive File Disclosure | https://github.com/ColdFusionX/CVE-2021-34429 | | 
 | 20211104T10:59:03Z | CVE-2021-26294 | Directory Traversal in Afterlogic webmail aurora and pro | https://github.com/dorkerdevil/CVE-2021-26294 | | 
 | 20211104T10:48:25Z | CVE-2021-40539 | Exploitation code for CVE-2021-40539 | https://github.com/synacktiv/CVE-2021-40539 | | 
@@ -91,7 +91,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211104T12:09:38Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 625 | 132| 
+| 20211104T12:11:35Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 625 | 132| 
 | 20211104T12:02:21Z | Fuzzy matching for `company-mode%. | https://github.com/jcs-elpa/company-fuzzy | 70 | 6| 
 | 20211104T12:00:56Z | CC paper on compiler fuzzing | https://github.com/agroce/cc2022 | 0 | 0| 
 | 20211104T11:55:56Z | Null | https://github.com/fuzzingworkshop/fuzzingworkshop.github.io | 0 | 0| 
