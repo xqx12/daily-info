@@ -69,7 +69,6 @@
 | --- | --- | --- | --- | ---| 
 | 20211103T23:26:06Z | Official PyTorch implementation of %Puzzle Mix: Exploiting Saliency and Local Statistics for Optimal Mixup% (ICML%20) | https://github.com/snu-mllab/PuzzleMix | 97 | 11| 
 | 20211103T23:04:38Z | Project 01- Softare Security, Eval Function Exploit | https://github.com/Alegarciy/SS-P1_Py_Exploit | 0 | 0| 
-| 20211103T23:03:15Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211103T22:54:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10283 | 1765| 
 | 20211103T22:38:08Z | C2 and Post Exploitation Code | https://github.com/sneakerhax/C2PE | 27 | 4| 
 | 20211103T21:13:07Z | Robotics semester project at LASA, EPFL | https://github.com/RaphaelUebersax/Incrementally_Learning_and_Exploiting_Inverse_Dynamics | 0 | 0| 
@@ -77,6 +76,7 @@
 | 20211103T20:48:30Z | Git Scraping project for CISA Known Exploited Vulnerability Catalog | https://github.com/JosephTLucas/CISA_KNOWN_EXPLOITED_VULNERABILITIES_CATALOG | 1 | 1| 
 | 20211103T20:25:42Z | It is a simple tool to exploit local file include . vulnerabilities | https://github.com/Adel-kaka-dz/CVE-2006-3392 | 0 | 0| 
 | 20211103T20:25:22Z | Depreciated WIP Jailbreak using the Cicuta Virosa exploit | https://github.com/Vyper-Dev/p0tion | 2 | 0| 
+| 20211103T20:24:21Z | a roblox exploit made on c# | https://github.com/alexplaygithub/CharaSploit-3.1 | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -97,10 +97,13 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211103T12:39:34Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1803 | 514| 
-| 20211103T08:39:50Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 163 | 36| 
+| 20211103T22:17:36Z | Symbolica%s open-source symbolic execution engine. | https://github.com/Symbolica/Symbolica | 42 | 2| 
+| 20211103T22:14:35Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1805 | 514| 
+| 20211103T18:39:46Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 163 | 36| 
+| 20211103T17:44:13Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1913 | 401| 
+| 20211103T14:15:13Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 18 | 4| 
+| 20211103T14:00:55Z | 🎻 Requiem: Modular exploit generation using symbolic execution | https://github.com/aesophor/requiem | 14 | 3| 
 | 20211103T06:09:08Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 9 | 4| 
-| 20211103T03:22:57Z | 🎻 Requiem: Modular exploit generation using symbolic execution | https://github.com/aesophor/requiem | 14 | 3| 
 
 
 # big4 on Github 推荐
