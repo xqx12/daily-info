@@ -98,6 +98,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211104T00:32:36Z | The insane hackerman backdoor. | https://github.com/Bakdooro/Bakdooro | 10 | 2| 
 | 20211103T23:46:41Z | Database of backdoor passwords used by Malware, uncovered by the Malvuln project. | https://github.com/malvuln/viruscreds | 7 | 2| 
 | 20211103T21:53:39Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 36 | 28| 
 | 20211103T19:48:26Z | Null | https://github.com/mr-quixter/ShellBackdoor | 0 | 1| 
@@ -107,7 +108,6 @@
 | 20211103T17:14:33Z | Neo est un tool / outil pour crée des backdoor sur Windows et Linux pour Windows et Linux. Développer en python3.9 et arrive dans un mois en Perl (pour les puristes) | https://github.com/Psyquoquack/Neo | 0 | 0| 
 | 20211103T12:02:39Z | ./kumasia php backdoor | https://github.com/mugi789/kumasia | 0 | 0| 
 | 20211103T11:14:14Z | A really complete python backdoor and handler | https://github.com/P3rs3ph0ne/Pheonix | 0 | 0| 
-| 20211103T09:50:06Z | Null | https://github.com/kyukazamiqq/backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
