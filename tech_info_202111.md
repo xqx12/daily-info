@@ -21,11 +21,11 @@
 | 20211103 | KCon 2021 部分 PPT 发布. | https://paper.seebug.org/1748/| 
 | 20211103 | Android 获取进程的 backtrace 信息. | http://www.usmacd.com/2021/11/03/backtrace_in_android/| 
 | 20211103 | Linux kernel eBPF type confusion 漏洞(CVE-2021-34866) 复现。 | http://blog.hexrabbit.io/2021/11/03/CVE-2021-34866-writeup/| 
-| 20211102 | How to exploit a double free vulnerability in 2021 | https://github.com/stong/how-to-exploit-a-double-free| 
-| 20211102 | Agent 007: Pre-Auth Takeover of Build Pipelines in GoCD | https://blog.sonarsource.com/gocd-pre-auth-pipeline-takeover/| 
-| 20211102 | 海康威视网络摄像头 RCE 漏洞分析 (CVE-2021-36260) | https://watchfulip.github.io/2021/09/18/Hikvision-IP-Camera-Unauthenticated-RCE.html| 
-| 20211102 | Solarmarker 恶意软件的分析报告 | https://www.prodaft.com/m/reports/Solarmarker_TLPWHITEv2.pdf| 
-| 20211102 | 软件交换机 FreeSWITCH 多个漏洞的分析 | https://www.rtcsec.com/article/killing-bugs-one-vulnerability-report-at-a-time/| 
+| 20211103 | Implementation of the key recovery attack against GEA-1 keys (Eurocrypt 2021) | https://github.com/airbus-seclab/GEA1_break| 
+| 20211103 | 客户体验管理软件 Sitecore Experience Platform Pre-Auth RCE | https://blog.assetnote.io/2021/11/02/sitecore-rce/| 
+| 20211103 | A Technical Analysis of CVE-2021-30864: Bypassing App Sandbox Restrictions | https://perception-point.io/a-technical-analysis-of-cve-2021-30864-bypassing-app-sandbox-restrictions/| 
+| 20211103 | 利用静态代码分析工具（SAST）的漏洞实现 RCE | https://medium.com/cider-sec/malicious-code-analysis-abusing-sast-mis-configurations-to-hack-ci-systems-13d5c1b37ffe| 
+| 20211103 | V8 Webassembly 一个比较老的 CVE-2017-15399 漏洞的分析 | http://blog.haboob.sa/blog/chrome-exploitation-an-old-but-good-case-study| 
 
 
 # 安全维基 推荐
@@ -83,6 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211104T00:07:13Z | lxd privilege escalation exploit | https://github.com/0bfxgh0st/lxd-privesc-exploit | 2 | 1| 
 | 20211104T00:05:13Z | Script PoC that exploits the Tentacles upload functionality of OctoBot trading bot and which leads to an arbitrary code execution. | https://github.com/Nwqda/Sashimi-Evil-OctoBot-Tentacle | 0 | 0| 
 | 20211104T00:04:58Z | Tools for exploiting ARIA standard products | https://github.com/aria-tools/ARIA-tools | 46 | 23| 
 | 20211104T00:04:37Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
@@ -92,7 +93,6 @@
 | 20211103T22:38:08Z | C2 and Post Exploitation Code | https://github.com/sneakerhax/C2PE | 27 | 4| 
 | 20211103T21:13:07Z | Robotics semester project at LASA, EPFL | https://github.com/RaphaelUebersax/Incrementally_Learning_and_Exploiting_Inverse_Dynamics | 0 | 0| 
 | 20211103T21:03:54Z | Hacking - The Art of Exploitation book code | https://github.com/formidablae/Hacking_The_Art_of_Exploitation | 0 | 0| 
-| 20211103T20:48:30Z | Git Scraping project for CISA Known Exploited Vulnerability Catalog | https://github.com/JosephTLucas/CISA_KNOWN_EXPLOITED_VULNERABILITIES_CATALOG | 1 | 1| 
 
 
 # backdoor on Github 推荐

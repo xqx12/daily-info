@@ -21,6 +21,11 @@
 | 20211103 | KCon 2021 部分 PPT 发布. | https://paper.seebug.org/1748/| 
 | 20211103 | Android 获取进程的 backtrace 信息. | http://www.usmacd.com/2021/11/03/backtrace_in_android/| 
 | 20211103 | Linux kernel eBPF type confusion 漏洞(CVE-2021-34866) 复现。 | http://blog.hexrabbit.io/2021/11/03/CVE-2021-34866-writeup/| 
+| 20211103 | Implementation of the key recovery attack against GEA-1 keys (Eurocrypt 2021) | https://github.com/airbus-seclab/GEA1_break| 
+| 20211103 | 客户体验管理软件 Sitecore Experience Platform Pre-Auth RCE | https://blog.assetnote.io/2021/11/02/sitecore-rce/| 
+| 20211103 | A Technical Analysis of CVE-2021-30864: Bypassing App Sandbox Restrictions | https://perception-point.io/a-technical-analysis-of-cve-2021-30864-bypassing-app-sandbox-restrictions/| 
+| 20211103 | 利用静态代码分析工具（SAST）的漏洞实现 RCE | https://medium.com/cider-sec/malicious-code-analysis-abusing-sast-mis-configurations-to-hack-ci-systems-13d5c1b37ffe| 
+| 20211103 | V8 Webassembly 一个比较老的 CVE-2017-15399 漏洞的分析 | http://blog.haboob.sa/blog/chrome-exploitation-an-old-but-good-case-study| 
 
 
 # 安全维基 推荐
