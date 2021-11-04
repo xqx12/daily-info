@@ -91,12 +91,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211104T01:57:25Z | Null | https://github.com/abalon1210/CAFCA---Context-Aware-Fuzzy-Clustering-for-Analyzing-Interaction-Failures | 0 | 0| 
-| 20211104T01:48:15Z | Fuzz language model that used chatbot | https://github.com/ksjr7-crongcrong/chatbot_fuzzer | 0 | 0| 
-| 20211104T01:12:09Z | Anything about kernel security.  CTF kernel pwn, kernel exploit, kernel fuzz and kernel defense paper, kernel debugging technique, kernel CVE debug. | https://github.com/bsauce/kernel-security-learning | 265 | 37| 
-| 20211104T01:08:06Z | Simple fuzzing tool designed for multi-threaded operation and for testing execution time.  | https://github.com/amitjain-3/twoFuzzingLong | 0 | 0| 
-| 20211104T00:41:49Z | Null | https://github.com/oscarpimentel/fuzzy-tools | 0 | 0| 
-| 20211104T00:06:28Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
+| 20211104T12:09:38Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 625 | 132| 
+| 20211104T12:02:21Z | Fuzzy matching for `company-mode%. | https://github.com/jcs-elpa/company-fuzzy | 70 | 6| 
+| 20211104T12:00:56Z | CC paper on compiler fuzzing | https://github.com/agroce/cc2022 | 0 | 0| 
+| 20211104T11:55:56Z | Null | https://github.com/fuzzingworkshop/fuzzingworkshop.github.io | 0 | 0| 
+| 20211104T11:51:51Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6784 | 1410| 
+| 20211104T11:41:48Z | Null | https://github.com/nhsd-exeter/dos-service-fuzzy-search-api | 1 | 0| 
+| 20211104T11:28:43Z | With this project, I want to make a blending between Persevere and taPCT. The idea is to find bugs in large amounts of concurrent threading instruction. For that we will first try and identify with this tool some known bugs from emac versions that were not yet corrected. We first model the system call as a set of events and then apply the taPCT algorithm. Later on, we can use fuzzing to give larger system call sequences to our probabilistic scheduling algorithm.  | https://github.com/Ricagraca/taPPCT | 0 | 0| 
+| 20211104T11:26:48Z | Null | https://github.com/chrishowitt123/SQL_fuzzy_match_rev | 0 | 0| 
+| 20211104T11:20:12Z | Shadeless is a set of tools for easier web hacking by logging web traffic, auto endpoints discovery, auto API fuzzer (you have to write your own signature of course) | https://github.com/phvietan/shadeless | 0 | 0| 
+| 20211104T11:14:05Z | Null | https://github.com/tzachar/cmp-fuzzy-buffer | 15 | 0| 
 
 
 
