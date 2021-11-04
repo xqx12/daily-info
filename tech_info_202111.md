@@ -83,7 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211104T12:19:50Z | A massive documentation about binary protections, exploitation techniques, and computer architecture concepts. | https://github.com/p0dalirius/binaryexploitation | 7 | 0| 
+| 20211104T12:25:13Z | A massive documentation about binary protections, exploitation techniques, and computer architecture concepts. | https://github.com/p0dalirius/binaryexploitation | 7 | 0| 
 | 20211104T12:14:26Z | Null | https://github.com/pwn4all/exploit | 0 | 0| 
 | 20211104T12:03:29Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211104T11:51:43Z | Null | https://github.com/Jongtek-23/Notes---Linux-Exploitation---Remote-Exploitation | 0 | 0| 
