@@ -83,6 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211104T01:12:09Z | Anything about kernel security.  CTF kernel pwn, kernel exploit, kernel fuzz and kernel defense paper, kernel debugging technique, kernel CVE debug. | https://github.com/bsauce/kernel-security-learning | 265 | 37| 
 | 20211104T01:03:09Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211104T01:02:40Z | Project 01- Softare Security, Eval Function Exploit | https://github.com/Alegarciy/SS-P1_Py_Exploit | 0 | 0| 
 | 20211104T00:45:20Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 14| 
@@ -92,7 +93,6 @@
 | 20211104T00:05:13Z | Script PoC that exploits the Tentacles upload functionality of OctoBot trading bot and which leads to an arbitrary code execution. | https://github.com/Nwqda/Sashimi-Evil-OctoBot-Tentacle | 0 | 0| 
 | 20211104T00:04:58Z | Tools for exploiting ARIA standard products | https://github.com/aria-tools/ARIA-tools | 46 | 23| 
 | 20211103T23:26:06Z | Official PyTorch implementation of %Puzzle Mix: Exploiting Saliency and Local Statistics for Optimal Mixup% (ICML%20) | https://github.com/snu-mllab/PuzzleMix | 97 | 11| 
-| 20211103T22:54:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10283 | 1765| 
 
 
 # backdoor on Github 推荐
@@ -133,6 +133,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211104T01:12:09Z | Anything about kernel security.  CTF kernel pwn, kernel exploit, kernel fuzz and kernel defense paper, kernel debugging technique, kernel CVE debug. | https://github.com/bsauce/kernel-security-learning | 265 | 37| 
 | 20211104T01:08:06Z | Simple fuzzing tool designed for multi-threaded operation and for testing execution time.  | https://github.com/amitjain-3/twoFuzzingLong | 0 | 0| 
 | 20211104T00:41:49Z | Null | https://github.com/oscarpimentel/fuzzy-tools | 0 | 0| 
 | 20211104T00:06:28Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
@@ -142,7 +143,6 @@
 | 20211103T21:32:52Z | Crossing data with Python | https://github.com/rfolmedoa/fuzzy-v-lookup | 0 | 0| 
 | 20211103T21:22:09Z | Config files for my GitHub profile. | https://github.com/fuzzyl0gic4/fuzzyl0gic4 | 0 | 0| 
 | 20211103T21:12:28Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 710 | 142| 
-| 20211103T21:12:12Z | Tool for measuring string similarities based on Jaccard Similarity scoring | https://github.com/Hillard28/fuzzygram | 0 | 0| 
 
 
 
