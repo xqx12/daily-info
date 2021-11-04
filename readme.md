@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211104T12:05:43Z | 未知编号 | redoing cve_2020 repository | https://github.com/sinjeanmin/cvedetails_2020_final | | 
+| 20211104T12:08:32Z | 未知编号 | redoing cve_2020 repository | https://github.com/sinjeanmin/cvedetails_2020_final | | 
 | 20211104T11:12:24Z | CVE-2021-34429 | POC for CVE-2021-34429 - Eclipse Jetty 11.0.5 Sensitive File Disclosure | https://github.com/ColdFusionX/CVE-2021-34429 | | 
 | 20211104T10:59:03Z | CVE-2021-26294 | Directory Traversal in Afterlogic webmail aurora and pro | https://github.com/dorkerdevil/CVE-2021-26294 | | 
 | 20211104T10:48:25Z | CVE-2021-40539 | Exploitation code for CVE-2021-40539 | https://github.com/synacktiv/CVE-2021-40539 | | 
