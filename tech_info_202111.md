@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211104T01:55:40Z | CVE-2021-34429 | POC for CVE-2021-34429 | https://github.com/ColdFusionX/CVE-2021-34429 | | 
 | 20211103T23:05:54Z | 未知编号 | redoing cve_2020 repository | https://github.com/sinjeanmin/cvedetails_2020_final | | 
 | 20211103T21:50:39Z | CVE-2021-42662 | CVE-2021-42662 - Stored Cross-Site Scripting vulnerability in the Online event booking and reservation system.  | https://github.com/TheHackingRabbi/CVE-2021-42662 | | 
 | 20211103T20:46:24Z | CVE-2021-26294 | Directory Traversal in Afterlogic webmail aurora and pro | https://github.com/dorkerdevil/CVE-2021-26294 | | 
@@ -55,7 +56,6 @@
 | 20211103T17:41:44Z | CVE-2021-42013 | Exploit Apache 2.4.50(CVE-2021-42013) | https://github.com/robotsense1337/CVE-2021-42013 | | 
 | 20211103T17:07:38Z | CVE-2021-20837 | XMLRPC  - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | | 
 | 20211103T15:50:17Z | cve-2020-0022 | cve-2020-0022 | https://github.com/devdanqtuan/poc-for-cve-2020-0022 | | 
-| 20211103T15:48:10Z | CVE-2021-42327 | WIP kernel exploit for minor bug i found in amd gpu driver | https://github.com/docfate111/CVE-2021-42327 | | 
 
 
 # klee on Github 推荐
