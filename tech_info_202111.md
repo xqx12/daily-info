@@ -83,6 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211104T01:31:01Z | The use of adaptive optics scanning laser ophthalmoscopy (AOSLO) to probe color perception at the individual cone level has become increasingly of interest in the vision science community. Such experiments are enabled by having individual subjects% cone classification map which is inferred through a separate cone classification process. Thus, there is need for fast, accurate, and accessible cone classification algorithms. For our project, we propose a densitometry method for estimating cone types using an AOSLO and an algorithm for optical feedback which exploits differences in cone absorption spectra. We hope that this project will improve on or complement the state-of-the-art densitometry cone classification methods.  | https://github.com/cshewmake2/cone-classification | 0 | 0| 
 | 20211104T01:19:31Z | Coffee + Exploiting | https://github.com/HonestlyDex/CaffieneHub | 0 | 0| 
 | 20211104T01:12:09Z | Anything about kernel security.  CTF kernel pwn, kernel exploit, kernel fuzz and kernel defense paper, kernel debugging technique, kernel CVE debug. | https://github.com/bsauce/kernel-security-learning | 265 | 37| 
 | 20211104T01:03:09Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
@@ -92,7 +93,6 @@
 | 20211104T00:24:11Z | C2 and Post Exploitation Code | https://github.com/sneakerhax/C2PE | 28 | 4| 
 | 20211104T00:11:37Z | lxd privilege escalation exploit | https://github.com/0bfxgh0st/lxd-privesc-exploit | 2 | 1| 
 | 20211104T00:05:13Z | Script PoC that exploits the Tentacles upload functionality of OctoBot trading bot and which leads to an arbitrary code execution. | https://github.com/Nwqda/Sashimi-Evil-OctoBot-Tentacle | 0 | 0| 
-| 20211104T00:04:58Z | Tools for exploiting ARIA standard products | https://github.com/aria-tools/ARIA-tools | 46 | 23| 
 
 
 # backdoor on Github 推荐
