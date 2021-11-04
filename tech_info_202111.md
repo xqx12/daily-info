@@ -83,6 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211104T13:20:51Z | Null | https://github.com/fernandooliveira7/Exploit-de-Buffer-Overflow | 0 | 0| 
 | 20211104T13:03:01Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211104T13:02:10Z | The code for the TickShift exploit | https://github.com/HausemasterIssue/TickShift | 8 | 5| 
 | 20211104T12:56:06Z | Query the CISA RSS feed for information on newly identified vulnerabilities being exploited. | https://github.com/mrippey/CisaGovRSSFeedParser | 0 | 0| 
@@ -92,7 +93,6 @@
 | 20211104T12:35:24Z | Null | https://github.com/pwn4all/exploit | 0 | 0| 
 | 20211104T11:51:43Z | Null | https://github.com/Jongtek-23/Notes---Linux-Exploitation---Remote-Exploitation | 0 | 0| 
 | 20211104T11:49:09Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 610 tools, that you can use for Hacking. | https://github.com/can-you-teach-me/Hacking-Tools-Pack | 2 | 0| 
-| 20211104T11:48:17Z | Git Scraping project for CISA Known Exploited Vulnerability Catalog | https://github.com/JosephTLucas/CISA_KNOWN_EXPLOITED_VULNERABILITIES_CATALOG | 1 | 1| 
 
 
 # backdoor on Github 推荐
@@ -134,6 +134,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211104T13:18:32Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
+| 20211104T13:18:08Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 226 | 18| 
 | 20211104T12:57:06Z | Null | https://github.com/solimand/fuzz-opcua-test | 0 | 0| 
 | 20211104T12:56:29Z | Null | https://github.com/chrishowitt123/SQL_fuzzy_match_rev | 0 | 0| 
 | 20211104T12:35:19Z | Its a Fuzzer | https://github.com/ResearchAdvancingFuzzing/gtfo | 1 | 0| 
@@ -142,8 +144,6 @@
 | 20211104T12:02:21Z | Fuzzy matching for `company-mode%. | https://github.com/jcs-elpa/company-fuzzy | 70 | 6| 
 | 20211104T12:00:56Z | CC paper on compiler fuzzing | https://github.com/agroce/cc2022 | 0 | 0| 
 | 20211104T11:55:56Z | Null | https://github.com/fuzzingworkshop/fuzzingworkshop.github.io | 0 | 0| 
-| 20211104T11:51:51Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6784 | 1410| 
-| 20211104T11:41:48Z | Null | https://github.com/nhsd-exeter/dos-service-fuzzy-search-api | 1 | 0| 
 
 
 
