@@ -31,31 +31,31 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20211105 | 天府杯华硕会战的围剿与反围剿 | https://mp.weixin.qq.com/s/k1ouK1Gyxpped0ZK4H4h7g| 
+| 20211105 | TCTF/0CTF 2021-FINAL 两道 kernel pwn 题解 | https://www.anquanke.com/post/id/258146| 
+| 20211105 | Apache安全——挂钩分析 | https://www.anquanke.com/post/id/257539| 
+| 20211105 | 4G/LTE 移动通信系统中对隐私和可用性的实际攻击 | https://www.anquanke.com/post/id/257679| 
+| 20211105 | 第四届“强网”拟态防御国际精英挑战赛web的wp | https://www.anquanke.com/post/id/256992| 
+| 20211105 | 知识图谱问答技术实践与探索 | https://tech.meituan.com/2021/11/03/knowledge-based-question-answering-in-meituan.html| 
+| 20211105 | 基于优化搜索的API序列推荐 | https://mp.weixin.qq.com/s/jbR2nfIGcAjRS-dceTag8Q| 
+| 20211105 | Top100密码学经典论文大盘点 | https://mp.weixin.qq.com/s/iZ7X9bC4yRutkYWiCxuApQ| 
 | 20211104 | 如何通过进程内存提取密钥解密Cobalt Strike流量 | https://mp.weixin.qq.com/s/MwGmwMfiWumPfyNZcWYpLw| 
 | 20211104 | 从Java反序列化漏洞题看CodeQL数据流 | https://www.anquanke.com/post/id/256967| 
-| 20211104 | 浅谈无需修改注册表抓取明文密码 | https://www.anquanke.com/post/id/255226| 
-| 20211104 | JavaWeb 内存马一周目通关攻略 | https://su18.org/post/memory-shell/| 
-| 20211104 | JavaWeb 内存马二周目通关攻略 | https://tttang.com/archive/1313/| 
-| 20211104 | Docker PHP裸文件本地包含综述 | https://tttang.com/archive/1312/| 
-| 20211104 | 从广东省强网杯——girlfriend中看realloc的艺术 | https://www.anquanke.com/post/id/256793| 
-| 20211104 | 劫持 Golang 编译 | https://paper.seebug.org/1749/| 
-| 20211104 | 渗透测试-一次从黑盒转向白盒 | https://websecuritys.cn/archives/Blog-Ac-1.html| 
-| 20211104 | CodeQL with CVE-2021-2471 | http://m0d9.me/2021/11/01/CodeQL-CVE-2021-2471/| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211105T02:02:48Z | CVE-2021-22205 | CVE-2021-22205未授权漏洞批量检测与利用工具 | https://github.com/Seals6/CVE-2021-22205 | | 
-| 20211105T01:39:45Z | CVE-2021-41773 | Some docker images to play with CVE-2021-41773 and CVE-2021-42013 | https://github.com/Hydragyrum/CVE-2021-41773-Playground | | 
-| 20211104T23:49:47Z | CVE-2021-42694 | Generate malicious files using recently published homoglyphic-attack (CVE-2021-42694) | https://github.com/js-on/CVE-2021-42694 | | 
-| 20211104T23:47:59Z | CVE-2021-22205 | Gitlab CE/EE RCE 未授权远程代码执行漏洞 POC && EXP CVE-2021-22205 | https://github.com/antx-code/CVE-2021-22205 | | 
-| 20211104T23:47:29Z | CVE-2021-22214 | Gitlab CI Lint API未授权 SSRF漏洞 CVE-2021-22214 | https://github.com/antx-code/CVE-2021-22214 | | 
-| 20211104T23:47:22Z | CVE-2021-31166 | Windows HTTP协议栈远程代码执行漏洞 CVE-2021-31166 | https://github.com/antx-code/CVE-2021-31166 | | 
-| 20211104T23:40:57Z | CVE-2021-34429 | POC for CVE-2021-34429 - Eclipse Jetty 11.0.5 Sensitive File Disclosure | https://github.com/ColdFusionX/CVE-2021-34429 | | 
-| 20211104T22:26:12Z | CVE-2021-40539 | Exploitation code for CVE-2021-40539 | https://github.com/synacktiv/CVE-2021-40539 | | 
-| 20211104T20:18:03Z | CVE-2021-42327 | WIP kernel exploit for minor bug i found in amd gpu driver | https://github.com/docfate111/CVE-2021-42327 | | 
-| 20211104T18:17:58Z | CVE-2021-26294 | Directory Traversal in Afterlogic webmail aurora and pro | https://github.com/dorkerdevil/CVE-2021-26294 | | 
+| 20211105T10:53:32Z | CVE-2021-42663 | CVE-2021-42663 - HTML Injection vulnerability in the Online event booking and reservation system.  | https://github.com/TheHackingRabbi/CVE-2021-42663 | | 
+| 20211105T10:51:44Z | CVE-2021-42667 | CVE-2021-42667 - SQL Injection vulnerability in the Online event booking and reservation system. | https://github.com/TheHackingRabbi/CVE-2021-42667 | | 
+| 20211105T10:51:07Z | CVE-2021-42662 | CVE-2021-42662 - Stored Cross-Site Scripting vulnerability in the Online event booking and reservation system.  | https://github.com/TheHackingRabbi/CVE-2021-42662 | | 
+| 20211105T10:48:51Z | CVE-2021-42671 | CVE-2021-42671 - Broken access control vulnerability in the Engineers online portal system.  | https://github.com/TheHackingRabbi/CVE-2021-42671 | | 
+| 20211105T10:48:07Z | CVE-2021-42670 | CVE-2021-42670 - SQL Injection vulnerability in the Engineers online portal system.  | https://github.com/TheHackingRabbi/CVE-2021-42670 | | 
+| 20211105T10:47:25Z | CVE-2021-42669 | CVE-2021-42669 - Remote code execution via unrestricted file upload vulnerability in the Engineers online portal system. | https://github.com/TheHackingRabbi/CVE-2021-42669 | | 
+| 20211105T10:46:57Z | CVE-2021-42668 | CVE-2021-42668 - SQL Injection vulnerability in the Engineers online portal system.  | https://github.com/TheHackingRabbi/CVE-2021-42668 | | 
+| 20211105T09:42:16Z | CVE-2021-38001 | Null | https://github.com/Peterpan0927/TFC-Chrome-v8-bug-CVE-2021-38001-poc | | 
+| 20211105T06:54:12Z | CVE-2021-40449 | My exploit for CVE-2021-40449, a Windows LPE via a UAF in win32kfull!GreResetDCInternal. | https://github.com/hakivvi/CVE-2021-40449 | | 
+| 20211105T06:09:35Z | CVE-2021-26294 | Directory Traversal in Afterlogic webmail aurora and pro | https://github.com/dorkerdevil/CVE-2021-26294 | | 
 
 
 # klee on Github 推荐
@@ -84,16 +84,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211105T02:11:36Z | C++ ImGui Roblox exploit base powered by WeAreDevs API - https://wearedevs.net/exploits/ | https://github.com/ShootFirstAskQuestionsLater/ImGui_ExploitBase | 0 | 0| 
-| 20211105T02:06:55Z | Drafts of exploits made for studying and consultation purposes | https://github.com/brerodrigues/exploit_drafts | 0 | 0| 
-| 20211105T02:03:43Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6100 | 1457| 
-| 20211105T02:03:25Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
-| 20211105T00:45:21Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 14| 
-| 20211105T00:39:20Z | Null | https://github.com/HonestlyDex/CaffieneHubWeb | 0 | 0| 
-| 20211105T00:06:00Z | Null | https://github.com/tjonty/exploit | 0 | 0| 
-| 20211104T23:51:27Z | Null | https://github.com/pwn4all/exploit | 0 | 0| 
-| 20211104T23:47:27Z | Null | https://github.com/kingbiagio/exploit | 0 | 0| 
-| 20211104T23:41:08Z | Null | https://github.com/JohnSV18/Jinja2-ExploitMe | 0 | 0| 
+| 20211105T12:01:10Z | My Chrome and Safari exploit code + write-up repo | https://github.com/vngkv123/aSiagaming | 409 | 94| 
+| 20211105T11:35:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10287 | 1766| 
+| 20211105T11:03:09Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
+| 20211105T09:56:41Z | Null | https://github.com/kingbiagio/exploit | 0 | 0| 
+| 20211105T09:19:11Z | Find out who is pretending to be offline | https://github.com/oSumAtrIX/dinkleberg | 5 | 0| 
+| 20211105T09:05:38Z | Null | https://github.com/hihiben/exploit_simulation_template | 0 | 0| 
+| 20211105T08:29:59Z | Null | https://github.com/pwn4all/exploit | 0 | 0| 
+| 20211105T07:54:40Z | HSploit - Open Source | https://github.com/jnajwhdanbiwduanwdioayuhbou2qgybroq/HSploit | 0 | 0| 
+| 20211105T07:41:56Z | macos/ios exploit writeup | https://github.com/houjingyi233/macOS-iOS-system-security | 158 | 21| 
+| 20211105T07:37:16Z | 0x00scan is an automated vulnerability scanner | https://github.com/0x0021h/0x00scan | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -135,16 +135,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211105T01:59:47Z | Null | https://github.com/MatiasLGonzalez/fuzzyedgedetection | 2 | 0| 
-| 20211105T01:59:46Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2420 | 148| 
-| 20211105T01:56:31Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
-| 20211105T01:31:34Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6785 | 1411| 
-| 20211105T01:26:31Z | Null | https://github.com/gordod26/fuzzy-chainsaw | 0 | 0| 
-| 20211105T01:14:10Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 34466 | 17901| 
-| 20211105T00:54:05Z | A fork of AFL for fuzzing Windows binaries | https://github.com/googleprojectzero/winafl | 1793 | 449| 
-| 20211105T00:52:52Z | Null | https://github.com/oscarpimentel/fuzzy-tools | 0 | 0| 
-| 20211105T00:41:32Z | Here you%ll find some of my Fuzzy Logic college stuff | https://github.com/Marceeaax/FuzzyLogic | 0 | 0| 
-| 20211105T00:41:31Z | Null | https://github.com/usama54321/dl-fuzzing | 0 | 0| 
+| 20211105T12:02:11Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 33 | 12| 
+| 20211105T12:01:06Z | Fuzzy string matching, grouping, and evaluation.  | https://github.com/MaartenGr/PolyFuzz | 398 | 37| 
+| 20211105T11:59:33Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 34475 | 17902| 
+| 20211105T11:31:35Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 574 | 62| 
+| 20211105T11:22:04Z | [EE7207] Code for fuzzy systems mini project. | https://github.com/Pamphlett/Fuzzy-systems-mini-project | 0 | 0| 
+| 20211105T11:00:59Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 195 | 38| 
+| 20211105T10:35:37Z | CC paper on compiler fuzzing | https://github.com/agroce/cc2022 | 0 | 0| 
+| 20211105T10:33:30Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 228 | 18| 
+| 20211105T10:30:28Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 7 | 1| 
+| 20211105T10:28:48Z | Disclaimer: Use with caution | https://github.com/Ogbanga/fuzzy-meme | 0 | 0| 
 
 
 
