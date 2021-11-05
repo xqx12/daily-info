@@ -6,6 +6,8 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20211104 | 天府杯华硕会战的围剿与反围剿的方略. | http://paper.seebug.org/1751/| 
+| 20211104 | IP 生存时间 (TTL) 与跳数限制基础知识介绍。 | https://packetpushers.net/ip-time-to-live-and-hop-limit-basics/| 
 | 20211103 | GitLab Unauthenticated Remote Code Execution CVE-2021-22205 Exploited in the Wild | https://www.rapid7.com/blog/post/2021/11/01/gitlab-unauthenticated-remote-code-execution-cve-2021-22205-exploited-in-the-wild/| 
 | 20211103 | 构建模拟器，研究三星手机 S-Boot 的漏洞 | https://github.com/astarasikov/slides_github/blob/main/2021/ZeroNightsX/Exploring_The_Galaxy_ZN2021%20with%20ZN%20Template%20PPTX.pdf| 
 | 20211103 | oxidebpf - 用于管理 Berkeley Packet Filter (BPF) 程序的工具 | http://redcanary.com/blog/oxidebpf/| 
@@ -24,8 +26,6 @@
 | 20211103 | Implementation of the key recovery attack against GEA-1 keys (Eurocrypt 2021) | https://github.com/airbus-seclab/GEA1_break| 
 | 20211103 | 客户体验管理软件 Sitecore Experience Platform Pre-Auth RCE | https://blog.assetnote.io/2021/11/02/sitecore-rce/| 
 | 20211103 | A Technical Analysis of CVE-2021-30864: Bypassing App Sandbox Restrictions | https://perception-point.io/a-technical-analysis-of-cve-2021-30864-bypassing-app-sandbox-restrictions/| 
-| 20211103 | 利用静态代码分析工具（SAST）的漏洞实现 RCE | https://medium.com/cider-sec/malicious-code-analysis-abusing-sast-mis-configurations-to-hack-ci-systems-13d5c1b37ffe| 
-| 20211103 | V8 Webassembly 一个比较老的 CVE-2017-15399 漏洞的分析 | http://blog.haboob.sa/blog/chrome-exploitation-an-old-but-good-case-study| 
 
 
 # 安全维基 推荐
@@ -46,22 +46,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211104T12:50:00Z | CVE-2021-22205 | CVE-2021-22205未授权漏洞批量检测与利用工具 | https://github.com/Seals6/CVE-2021-22205 | | 
-| 20211104T12:29:35Z | 未知编号 | redoing cve_2020 repository | https://github.com/sinjeanmin/cvedetails_2020_final | | 
-| 20211104T11:12:24Z | CVE-2021-34429 | POC for CVE-2021-34429 - Eclipse Jetty 11.0.5 Sensitive File Disclosure | https://github.com/ColdFusionX/CVE-2021-34429 | | 
-| 20211104T10:59:03Z | CVE-2021-26294 | Directory Traversal in Afterlogic webmail aurora and pro | https://github.com/dorkerdevil/CVE-2021-26294 | | 
-| 20211104T10:48:25Z | CVE-2021-40539 | Exploitation code for CVE-2021-40539 | https://github.com/synacktiv/CVE-2021-40539 | | 
-| 20211104T09:01:59Z | CVE-2021-22205 | CVE-2021-22205& GitLab CE/EE RCE | https://github.com/devdanqtuan/CVE-2021-22205 | | 
-| 20211104T04:51:19Z | CVE-2021-42662 | CVE-2021-42662 - Stored Cross-Site Scripting vulnerability in the Online event booking and reservation system.  | https://github.com/TheHackingRabbi/CVE-2021-42662 | | 
-| 20211104T04:51:03Z | CVE-2021-43141 | Information about CVE-2021-43141, a reflected XSS in the plan_application section. | https://github.com/Dir0x/CVE-2021-43141 | | 
-| 20211104T04:50:20Z | CVE-2021-42013 | Exploit Apache 2.4.50(CVE-2021-42013) | https://github.com/robotsense1337/CVE-2021-42013 | | 
-| 20211104T04:25:48Z | CVE-2021-42327 | WIP kernel exploit for minor bug i found in amd gpu driver | https://github.com/docfate111/CVE-2021-42327 | | 
+| 20211104T23:49:47Z | CVE-2021-42694 | Generate malicious files using recently published homoglyphic-attack (CVE-2021-42694) | https://github.com/js-on/CVE-2021-42694 | | 
+| 20211104T23:47:59Z | CVE-2021-22205 | Gitlab CE/EE RCE 未授权远程代码执行漏洞 POC && EXP CVE-2021-22205 | https://github.com/antx-code/CVE-2021-22205 | | 
+| 20211104T23:47:29Z | CVE-2021-22214 | Gitlab CI Lint API未授权 SSRF漏洞 CVE-2021-22214 | https://github.com/antx-code/CVE-2021-22214 | | 
+| 20211104T23:47:22Z | CVE-2021-31166 | Windows HTTP协议栈远程代码执行漏洞 CVE-2021-31166 | https://github.com/antx-code/CVE-2021-31166 | | 
+| 20211104T23:40:57Z | CVE-2021-34429 | POC for CVE-2021-34429 - Eclipse Jetty 11.0.5 Sensitive File Disclosure | https://github.com/ColdFusionX/CVE-2021-34429 | | 
+| 20211104T23:39:42Z | CVE-2021-41773 | Some docker images to play with CVE-2021-41773 and CVE-2021-42013 | https://github.com/Hydragyrum/CVE-2021-41773-Playground | | 
+| 20211104T22:26:12Z | CVE-2021-40539 | Exploitation code for CVE-2021-40539 | https://github.com/synacktiv/CVE-2021-40539 | | 
+| 20211104T20:18:03Z | CVE-2021-42327 | WIP kernel exploit for minor bug i found in amd gpu driver | https://github.com/docfate111/CVE-2021-42327 | | 
+| 20211104T18:17:58Z | CVE-2021-26294 | Directory Traversal in Afterlogic webmail aurora and pro | https://github.com/dorkerdevil/CVE-2021-26294 | | 
+| 20211104T14:39:48Z | CVE-2021-22204 | Modification of gitlab exploit anything under 13.10 | https://github.com/ph-arm/CVE-2021-22204-Gitlab | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211104T05:57:40Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1807 | 514| 
+| 20211104T21:30:15Z | Minecraft Mod. Allows breaking only one half of a double slab block. | https://github.com/ModdingForBlockheads/KleeSlabs | 9 | 3| 
+| 20211104T15:24:03Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1808 | 514| 
 | 20211103T23:16:39Z | Null | https://github.com/klee669/klee669.github.io | 0 | 0| 
 | 20211103T18:36:46Z | Null | https://github.com/ayazip/witch-klee | 0 | 0| 
 | 20211103T12:25:13Z | Dynamic and symbolic taint analysis for multi-thread programs | https://github.com/xdzhang-xjtu/kleem | 0 | 0| 
@@ -83,31 +84,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211104T13:20:51Z | Null | https://github.com/fernandooliveira7/Exploit-de-Buffer-Overflow | 0 | 0| 
-| 20211104T13:03:01Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
-| 20211104T13:02:10Z | The code for the TickShift exploit | https://github.com/HausemasterIssue/TickShift | 8 | 5| 
-| 20211104T12:56:06Z | Query the CISA RSS feed for information on newly identified vulnerabilities being exploited. | https://github.com/mrippey/CisaGovRSSFeedParser | 0 | 0| 
-| 20211104T12:47:17Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10285 | 1766| 
-| 20211104T12:45:21Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 14| 
-| 20211104T12:37:48Z | A massive documentation about binary protections, exploitation techniques, and computer architecture concepts. | https://github.com/p0dalirius/binaryexploitation | 7 | 0| 
-| 20211104T12:35:24Z | Null | https://github.com/pwn4all/exploit | 0 | 0| 
-| 20211104T11:51:43Z | Null | https://github.com/Jongtek-23/Notes---Linux-Exploitation---Remote-Exploitation | 0 | 0| 
-| 20211104T11:49:09Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 610 tools, that you can use for Hacking. | https://github.com/can-you-teach-me/Hacking-Tools-Pack | 2 | 0| 
+| 20211104T23:51:27Z | Null | https://github.com/pwn4all/exploit | 0 | 0| 
+| 20211104T23:47:27Z | Null | https://github.com/kingbiagio/exploit | 0 | 0| 
+| 20211104T23:41:08Z | Null | https://github.com/JohnSV18/Jinja2-ExploitMe | 0 | 0| 
+| 20211104T23:24:29Z | Null | https://github.com/chrisaddessi/Linux-Exploitation | 0 | 0| 
+| 20211104T23:03:15Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
+| 20211104T22:18:46Z | Educational web application demonstrating techniques of binary exploitation (Front-end) | https://github.com/Pen-Test3rs/binary_exploits_frontend | 0 | 0| 
+| 20211104T21:52:26Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10286 | 1766| 
+| 20211104T21:29:49Z | Windows Exploit Development | https://github.com/myhackingblog/WED | 0 | 0| 
+| 20211104T21:17:39Z | Writeups on my TryHackMe adventures! | https://github.com/Sma-Das/TryHackMe | 9 | 0| 
+| 20211104T21:05:18Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211104T23:59:21Z | Null | https://github.com/Fartlicker777/Backdoor-Hacking | 0 | 0| 
+| 20211104T22:55:49Z | Null | https://github.com/zephr1213/Pyro-Backdoor-Whitelist | 0 | 0| 
+| 20211104T22:10:14Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 36 | 28| 
+| 20211104T21:44:03Z | The insane hackerman backdoor. | https://github.com/Bakdooro/Bakdooro | 10 | 2| 
+| 20211104T19:57:07Z | Null | https://github.com/N17R0-HACKERS/backdoor | 0 | 0| 
+| 20211104T17:33:40Z | A self made multi-purpose CTF tool written under Kali Linux Os taking adventage of several programs pre-installed. Contains one liner backdoors generator for many programs/languages, recognition scanners, useful  encoders/decoders with some special features as powershell base64 format, tools from ... [ more info at README.md ] | https://github.com/0bfxgh0st/saf2 | 2 | 1| 
+| 20211104T13:52:06Z | Website Shell BackDoors | https://github.com/7r0j4ncodeing/Web-Shells | 22 | 6| 
 | 20211104T07:01:08Z | Lite version of my Gatekeeper backdoor for public use. | https://github.com/dievus/MayorSecBackdoor | 45 | 7| 
-| 20211104T00:32:36Z | The insane hackerman backdoor. | https://github.com/Bakdooro/Bakdooro | 10 | 2| 
 | 20211103T23:46:41Z | Database of backdoor passwords used by Malware, uncovered by the Malvuln project. | https://github.com/malvuln/viruscreds | 7 | 2| 
-| 20211103T21:53:39Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 36 | 28| 
 | 20211103T19:48:26Z | Null | https://github.com/mr-quixter/ShellBackdoor | 0 | 1| 
-| 20211103T18:27:33Z | Code and data of the EMNLP 2021 paper %Mind the Style of Text! Adversarial and Backdoor Attacks Based on Text Style Transfer% | https://github.com/thunlp/StyleAttack | 8 | 0| 
-| 20211103T18:12:36Z | Official implementation of the EMNLP 2021 paper %ONION: A Simple and Effective Defense Against Textual Backdoor Attacks% | https://github.com/thunlp/ONION | 4 | 0| 
-| 20211103T17:14:33Z | Neo est un tool / outil pour crée des backdoor sur Windows et Linux pour Windows et Linux. Développer en python3.9 et arrive dans un mois en Perl (pour les puristes) | https://github.com/Psyquoquack/Neo | 0 | 0| 
-| 20211103T12:02:39Z | ./kumasia php backdoor | https://github.com/mugi789/kumasia | 0 | 0| 
-| 20211103T11:14:14Z | A really complete python backdoor and handler | https://github.com/P3rs3ph0ne/Pheonix | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -134,16 +135,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211104T13:18:32Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
-| 20211104T13:18:08Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 226 | 18| 
-| 20211104T12:57:06Z | Null | https://github.com/solimand/fuzz-opcua-test | 0 | 0| 
-| 20211104T12:56:29Z | Null | https://github.com/chrishowitt123/SQL_fuzzy_match_rev | 0 | 0| 
-| 20211104T12:35:19Z | Its a Fuzzer | https://github.com/ResearchAdvancingFuzzing/gtfo | 1 | 0| 
-| 20211104T12:20:22Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 195 | 38| 
-| 20211104T12:11:35Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 625 | 132| 
-| 20211104T12:02:21Z | Fuzzy matching for `company-mode%. | https://github.com/jcs-elpa/company-fuzzy | 70 | 6| 
-| 20211104T12:00:56Z | CC paper on compiler fuzzing | https://github.com/agroce/cc2022 | 0 | 0| 
-| 20211104T11:55:56Z | Null | https://github.com/fuzzingworkshop/fuzzingworkshop.github.io | 0 | 0| 
+| 20211104T23:48:22Z | Fuzzing test for TINET | https://github.com/toppers/TINETFuzzer | 0 | 0| 
+| 20211104T23:37:09Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 100 | 27| 
+| 20211104T23:25:59Z | These tests of libdwarf/dwarfdump include old object files, new ones, and many fuzzed object files. These are the definitive tests that things work.. Most people have no reason to run these tests. | https://github.com/davea42/libdwarf-regressiontests | 0 | 0| 
+| 20211104T23:25:58Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 7 | 0| 
+| 20211104T23:13:51Z | Null | https://github.com/oscarpimentel/fuzzy-tools | 0 | 0| 
+| 20211104T23:07:53Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 34465 | 17899| 
+| 20211104T22:21:15Z | Null | https://github.com/nisaChampagne/fuzzy-couscous | 0 | 0| 
+| 20211104T22:03:10Z | Just some things | https://github.com/Lyncht98/FuzzyMatching-BrandNames | 0 | 0| 
+| 20211104T22:02:04Z | Code for fuzzy monkeys. | https://github.com/fuzzyatelin/fuzzyatelin.github.io | 3 | 11| 
+| 20211104T22:01:04Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6784 | 1411| 
 
 
 
