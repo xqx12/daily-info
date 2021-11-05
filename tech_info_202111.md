@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211105T02:02:48Z | CVE-2021-22205 | CVE-2021-22205未授权漏洞批量检测与利用工具 | https://github.com/Seals6/CVE-2021-22205 | | 
+| 20211105T01:39:45Z | CVE-2021-41773 | Some docker images to play with CVE-2021-41773 and CVE-2021-42013 | https://github.com/Hydragyrum/CVE-2021-41773-Playground | | 
 | 20211104T23:49:47Z | CVE-2021-42694 | Generate malicious files using recently published homoglyphic-attack (CVE-2021-42694) | https://github.com/js-on/CVE-2021-42694 | | 
 | 20211104T23:47:59Z | CVE-2021-22205 | Gitlab CE/EE RCE 未授权远程代码执行漏洞 POC && EXP CVE-2021-22205 | https://github.com/antx-code/CVE-2021-22205 | | 
 | 20211104T23:47:29Z | CVE-2021-22214 | Gitlab CI Lint API未授权 SSRF漏洞 CVE-2021-22214 | https://github.com/antx-code/CVE-2021-22214 | | 
 | 20211104T23:47:22Z | CVE-2021-31166 | Windows HTTP协议栈远程代码执行漏洞 CVE-2021-31166 | https://github.com/antx-code/CVE-2021-31166 | | 
 | 20211104T23:40:57Z | CVE-2021-34429 | POC for CVE-2021-34429 - Eclipse Jetty 11.0.5 Sensitive File Disclosure | https://github.com/ColdFusionX/CVE-2021-34429 | | 
-| 20211104T23:39:42Z | CVE-2021-41773 | Some docker images to play with CVE-2021-41773 and CVE-2021-42013 | https://github.com/Hydragyrum/CVE-2021-41773-Playground | | 
 | 20211104T22:26:12Z | CVE-2021-40539 | Exploitation code for CVE-2021-40539 | https://github.com/synacktiv/CVE-2021-40539 | | 
 | 20211104T20:18:03Z | CVE-2021-42327 | WIP kernel exploit for minor bug i found in amd gpu driver | https://github.com/docfate111/CVE-2021-42327 | | 
 | 20211104T18:17:58Z | CVE-2021-26294 | Directory Traversal in Afterlogic webmail aurora and pro | https://github.com/dorkerdevil/CVE-2021-26294 | | 
-| 20211104T14:39:48Z | CVE-2021-22204 | Modification of gitlab exploit anything under 13.10 | https://github.com/ph-arm/CVE-2021-22204-Gitlab | | 
 
 
 # klee on Github 推荐
@@ -99,9 +99,9 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211105T01:14:15Z | Null | https://github.com/zephr1213/Pyro-Backdoor-Whitelist | 0 | 0| 
 | 20211105T00:08:47Z | Official Implementation of ``Adversarial Unlearning of Backdoors via Implicit Hypergradient%% | https://github.com/YiZeng623/I-BAU_Adversarial_Unlearning_of-Backdoors_via_implicit_Hypergradient | 4 | 0| 
 | 20211104T23:59:21Z | Null | https://github.com/Fartlicker777/Backdoor-Hacking | 0 | 0| 
-| 20211104T22:55:49Z | Null | https://github.com/zephr1213/Pyro-Backdoor-Whitelist | 0 | 0| 
 | 20211104T22:10:14Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 36 | 28| 
 | 20211104T21:44:03Z | The insane hackerman backdoor. | https://github.com/Bakdooro/Bakdooro | 10 | 2| 
 | 20211104T19:57:07Z | Null | https://github.com/N17R0-HACKERS/backdoor | 0 | 0| 
@@ -135,16 +135,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211105T01:14:10Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 34466 | 17899| 
+| 20211105T01:59:47Z | Null | https://github.com/MatiasLGonzalez/fuzzyedgedetection | 2 | 0| 
+| 20211105T01:59:46Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2420 | 148| 
+| 20211105T01:56:31Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
+| 20211105T01:31:34Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6785 | 1411| 
+| 20211105T01:26:31Z | Null | https://github.com/gordod26/fuzzy-chainsaw | 0 | 0| 
+| 20211105T01:14:10Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 34466 | 17901| 
 | 20211105T00:54:05Z | A fork of AFL for fuzzing Windows binaries | https://github.com/googleprojectzero/winafl | 1793 | 449| 
 | 20211105T00:52:52Z | Null | https://github.com/oscarpimentel/fuzzy-tools | 0 | 0| 
 | 20211105T00:41:32Z | Here you%ll find some of my Fuzzy Logic college stuff | https://github.com/Marceeaax/FuzzyLogic | 0 | 0| 
 | 20211105T00:41:31Z | Null | https://github.com/usama54321/dl-fuzzing | 0 | 0| 
-| 20211105T00:40:22Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 7 | 0| 
-| 20211105T00:31:40Z | Null | https://github.com/Pauloalvito/fuzzy-octo-engine | 0 | 0| 
-| 20211105T00:26:20Z | Null | https://github.com/MatiasLGonzalez/fuzzyedgedetection | 2 | 0| 
-| 20211105T00:13:26Z | Linux Kernel Snapshot Fuzzer using KVM | https://github.com/SmoothHacker/LateRegistration | 0 | 0| 
-| 20211104T23:48:22Z | Fuzzing test for TINET | https://github.com/toppers/TINETFuzzer | 0 | 0| 
 
 
 

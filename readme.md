@@ -33,11 +33,11 @@
 | 20211104T23:47:29Z | CVE-2021-22214 | Gitlab CI Lint API未授权 SSRF漏洞 CVE-2021-22214 | https://github.com/antx-code/CVE-2021-22214 | | 
 | 20211104T23:47:22Z | CVE-2021-31166 | Windows HTTP协议栈远程代码执行漏洞 CVE-2021-31166 | https://github.com/antx-code/CVE-2021-31166 | | 
 | 20211104T23:40:57Z | CVE-2021-34429 | POC for CVE-2021-34429 - Eclipse Jetty 11.0.5 Sensitive File Disclosure | https://github.com/ColdFusionX/CVE-2021-34429 | | 
-| 20211104T23:39:42Z | CVE-2021-41773 | Some docker images to play with CVE-2021-41773 and CVE-2021-42013 | https://github.com/Hydragyrum/CVE-2021-41773-Playground | | 
 | 20211104T22:26:12Z | CVE-2021-40539 | Exploitation code for CVE-2021-40539 | https://github.com/synacktiv/CVE-2021-40539 | | 
 | 20211104T20:18:03Z | CVE-2021-42327 | WIP kernel exploit for minor bug i found in amd gpu driver | https://github.com/docfate111/CVE-2021-42327 | | 
 | 20211104T18:17:58Z | CVE-2021-26294 | Directory Traversal in Afterlogic webmail aurora and pro | https://github.com/dorkerdevil/CVE-2021-26294 | | 
 | 20211104T14:39:48Z | CVE-2021-22204 | Modification of gitlab exploit anything under 13.10 | https://github.com/ph-arm/CVE-2021-22204-Gitlab | | 
+| 20211104T12:29:35Z | 未知编号 | redoing cve_2020 repository | https://github.com/sinjeanmin/cvedetails_2020_final | | 
 
 
 # klee on Github 推荐
@@ -72,7 +72,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20211104T23:59:21Z | Null | https://github.com/Fartlicker777/Backdoor-Hacking | 0 | 0| 
-| 20211104T22:55:49Z | Null | https://github.com/zephr1213/Pyro-Backdoor-Whitelist | 0 | 0| 
 | 20211104T22:10:14Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 36 | 28| 
 | 20211104T21:44:03Z | The insane hackerman backdoor. | https://github.com/Bakdooro/Bakdooro | 10 | 2| 
 | 20211104T19:57:07Z | Null | https://github.com/N17R0-HACKERS/backdoor | 0 | 0| 
@@ -110,10 +109,10 @@
 | 20211104T22:21:15Z | Null | https://github.com/nisaChampagne/fuzzy-couscous | 0 | 0| 
 | 20211104T22:03:10Z | Just some things | https://github.com/Lyncht98/FuzzyMatching-BrandNames | 0 | 0| 
 | 20211104T22:02:04Z | Code for fuzzy monkeys. | https://github.com/fuzzyatelin/fuzzyatelin.github.io | 3 | 11| 
-| 20211104T22:01:04Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6784 | 1411| 
 | 20211104T21:21:24Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1094 | 48| 
 | 20211104T21:06:43Z | Null | https://github.com/kallistoteles/fuzzy_navigation | 0 | 0| 
 | 20211104T21:01:45Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20211104T20:59:01Z | hypervisor fuzzing | https://github.com/githubfoam/hypervisor-fuzzing-githubactions | 0 | 0| 
 
 
 
