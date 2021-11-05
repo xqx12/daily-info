@@ -84,11 +84,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211105T00:03:50Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211104T23:51:27Z | Null | https://github.com/pwn4all/exploit | 0 | 0| 
 | 20211104T23:47:27Z | Null | https://github.com/kingbiagio/exploit | 0 | 0| 
 | 20211104T23:41:08Z | Null | https://github.com/JohnSV18/Jinja2-ExploitMe | 0 | 0| 
 | 20211104T23:24:29Z | Null | https://github.com/chrisaddessi/Linux-Exploitation | 0 | 0| 
-| 20211104T23:03:15Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211104T22:18:46Z | Educational web application demonstrating techniques of binary exploitation (Front-end) | https://github.com/Pen-Test3rs/binary_exploits_frontend | 0 | 0| 
 | 20211104T21:52:26Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10286 | 1766| 
 | 20211104T21:29:49Z | Windows Exploit Development | https://github.com/myhackingblog/WED | 0 | 0| 
