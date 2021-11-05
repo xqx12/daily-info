@@ -135,6 +135,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211105T01:14:10Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 34466 | 17899| 
 | 20211105T00:54:05Z | A fork of AFL for fuzzing Windows binaries | https://github.com/googleprojectzero/winafl | 1793 | 449| 
 | 20211105T00:52:52Z | Null | https://github.com/oscarpimentel/fuzzy-tools | 0 | 0| 
 | 20211105T00:41:32Z | Here you%ll find some of my Fuzzy Logic college stuff | https://github.com/Marceeaax/FuzzyLogic | 0 | 0| 
@@ -144,7 +145,6 @@
 | 20211105T00:26:20Z | Null | https://github.com/MatiasLGonzalez/fuzzyedgedetection | 2 | 0| 
 | 20211105T00:13:26Z | Linux Kernel Snapshot Fuzzer using KVM | https://github.com/SmoothHacker/LateRegistration | 0 | 0| 
 | 20211104T23:48:22Z | Fuzzing test for TINET | https://github.com/toppers/TINETFuzzer | 0 | 0| 
-| 20211104T23:37:09Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 100 | 27| 
 
 
 
