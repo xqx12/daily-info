@@ -135,6 +135,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211105T00:26:20Z | Null | https://github.com/MatiasLGonzalez/fuzzyedgedetection | 2 | 0| 
 | 20211105T00:13:26Z | Linux Kernel Snapshot Fuzzer using KVM | https://github.com/SmoothHacker/LateRegistration | 0 | 0| 
 | 20211104T23:48:22Z | Fuzzing test for TINET | https://github.com/toppers/TINETFuzzer | 0 | 0| 
 | 20211104T23:37:09Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 100 | 27| 
@@ -144,7 +145,6 @@
 | 20211104T23:07:53Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 34465 | 17899| 
 | 20211104T22:21:15Z | Null | https://github.com/nisaChampagne/fuzzy-couscous | 0 | 0| 
 | 20211104T22:03:10Z | Just some things | https://github.com/Lyncht98/FuzzyMatching-BrandNames | 0 | 0| 
-| 20211104T22:02:04Z | Code for fuzzy monkeys. | https://github.com/fuzzyatelin/fuzzyatelin.github.io | 3 | 11| 
 
 
 
