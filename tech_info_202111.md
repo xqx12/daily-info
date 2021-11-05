@@ -135,9 +135,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211105T00:41:32Z | Here you%ll find some of my Fuzzy Logic college stuff | https://github.com/Marceeaax/FuzzyLogic | 0 | 0| 
+| 20211105T00:41:31Z | Null | https://github.com/usama54321/dl-fuzzing | 0 | 0| 
 | 20211105T00:40:22Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 7 | 0| 
-| 20211105T00:40:20Z | Here you%ll find some of my Fuzzy Logic college stuff | https://github.com/Marceeaax/FuzzyLogic | 0 | 0| 
-| 20211105T00:37:47Z | Null | https://github.com/usama54321/dl-fuzzing | 0 | 0| 
 | 20211105T00:31:40Z | Null | https://github.com/Pauloalvito/fuzzy-octo-engine | 0 | 0| 
 | 20211105T00:26:20Z | Null | https://github.com/MatiasLGonzalez/fuzzyedgedetection | 2 | 0| 
 | 20211105T00:13:26Z | Linux Kernel Snapshot Fuzzer using KVM | https://github.com/SmoothHacker/LateRegistration | 0 | 0| 
