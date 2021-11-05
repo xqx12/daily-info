@@ -49,9 +49,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211105T12:01:10Z | My Chrome and Safari exploit code + write-up repo | https://github.com/vngkv123/aSiagaming | 409 | 94| 
+| 20211105T12:03:22Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
+| 20211105T12:02:38Z | My Chrome and Safari exploit code + write-up repo | https://github.com/vngkv123/aSiagaming | 410 | 94| 
 | 20211105T11:35:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10287 | 1766| 
-| 20211105T11:03:09Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211105T09:56:41Z | Null | https://github.com/kingbiagio/exploit | 0 | 0| 
 | 20211105T09:19:11Z | Find out who is pretending to be offline | https://github.com/oSumAtrIX/dinkleberg | 5 | 0| 
 | 20211105T09:05:38Z | Null | https://github.com/hihiben/exploit_simulation_template | 0 | 0| 
@@ -64,9 +64,14 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211105T11:07:08Z | Unofficial pytorch implementation of RobNet(Defense-Resistant Backdoor Attacks on DNN) | https://github.com/dhkim2810/RobNet | 0 | 0| 
+| 20211105T10:59:11Z | A simple script in cobalt strike to keep your backdoor%s permisson | https://github.com/Haru1ca/Go-Keep | 0 | 0| 
+| 20211105T09:51:18Z | Remote control software, supported Windows/Unix/MacOS/Linux(x86/x64/mips/arm) | https://github.com/h1zzz/purewater | 5 | 0| 
+| 20211105T09:16:34Z | Official Implementation of ``Adversarial Unlearning of Backdoors via Implicit Hypergradient%% | https://github.com/YiZeng623/I-BAU_Adversarial_Unlearning_of-Backdoors_via_implicit_Hypergradient | 5 | 0| 
+| 20211105T09:03:30Z | Shell Backdoor Fron Noilesha | https://github.com/Noilesha/Noiesha-Backdoor | 0 | 1| 
+| 20211105T06:57:21Z | A simple script for running a backdoor in Android forever | https://github.com/badboy-sft/android_persistent_script | 0 | 0| 
 | 20211105T02:10:49Z | A simple remote tool written in C#.    一个简单的c#远控 | https://github.com/qwqdanchun/DcRat | 413 | 152| 
 | 20211105T01:14:15Z | Null | https://github.com/zephr1213/Pyro-Backdoor-Whitelist | 0 | 0| 
-| 20211105T00:08:47Z | Official Implementation of ``Adversarial Unlearning of Backdoors via Implicit Hypergradient%% | https://github.com/YiZeng623/I-BAU_Adversarial_Unlearning_of-Backdoors_via_implicit_Hypergradient | 4 | 0| 
 
 
 # symbolic execution on Github 推荐
