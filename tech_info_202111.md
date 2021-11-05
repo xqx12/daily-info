@@ -135,6 +135,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211105T00:13:26Z | Linux Kernel Snapshot Fuzzer using KVM | https://github.com/SmoothHacker/LateRegistration | 0 | 0| 
 | 20211104T23:48:22Z | Fuzzing test for TINET | https://github.com/toppers/TINETFuzzer | 0 | 0| 
 | 20211104T23:37:09Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 100 | 27| 
 | 20211104T23:25:59Z | These tests of libdwarf/dwarfdump include old object files, new ones, and many fuzzed object files. These are the definitive tests that things work.. Most people have no reason to run these tests. | https://github.com/davea42/libdwarf-regressiontests | 0 | 0| 
@@ -144,7 +145,6 @@
 | 20211104T22:21:15Z | Null | https://github.com/nisaChampagne/fuzzy-couscous | 0 | 0| 
 | 20211104T22:03:10Z | Just some things | https://github.com/Lyncht98/FuzzyMatching-BrandNames | 0 | 0| 
 | 20211104T22:02:04Z | Code for fuzzy monkeys. | https://github.com/fuzzyatelin/fuzzyatelin.github.io | 3 | 11| 
-| 20211104T22:01:04Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6784 | 1411| 
 
 
 
