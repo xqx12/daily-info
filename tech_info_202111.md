@@ -99,6 +99,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211105T13:02:07Z | Simple console based Windows key-logger created in C++ | https://github.com/sam-astro/CPP-Key-Logger | 1 | 0| 
 | 20211105T12:53:03Z | noob attempt at writing backdoor scripts | https://github.com/Kushalr3ddy/backdoor | 0 | 0| 
 | 20211105T12:12:23Z | Null | https://github.com/THUYimingLi/BackdoorBox | 2 | 1| 
 | 20211105T11:07:08Z | Unofficial pytorch implementation of RobNet(Defense-Resistant Backdoor Attacks on DNN) | https://github.com/dhkim2810/RobNet | 0 | 0| 
@@ -108,7 +109,6 @@
 | 20211105T09:03:30Z | Shell Backdoor Fron Noilesha | https://github.com/Noilesha/Noiesha-Backdoor | 0 | 1| 
 | 20211105T06:57:21Z | A simple script for running a backdoor in Android forever | https://github.com/badboy-sft/android_persistent_script | 0 | 0| 
 | 20211105T02:10:49Z | A simple remote tool written in C#.    一个简单的c#远控 | https://github.com/qwqdanchun/DcRat | 413 | 152| 
-| 20211105T01:14:15Z | Null | https://github.com/zephr1213/Pyro-Backdoor-Whitelist | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
