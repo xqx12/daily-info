@@ -99,6 +99,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211105T00:08:47Z | Official Implementation of ``Adversarial Unlearning of Backdoors via Implicit Hypergradient%% | https://github.com/YiZeng623/I-BAU_Adversarial_Unlearning_of-Backdoors_via_implicit_Hypergradient | 4 | 0| 
 | 20211104T23:59:21Z | Null | https://github.com/Fartlicker777/Backdoor-Hacking | 0 | 0| 
 | 20211104T22:55:49Z | Null | https://github.com/zephr1213/Pyro-Backdoor-Whitelist | 0 | 0| 
 | 20211104T22:10:14Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 36 | 28| 
@@ -108,7 +109,6 @@
 | 20211104T13:52:06Z | Website Shell BackDoors | https://github.com/7r0j4ncodeing/Web-Shells | 22 | 6| 
 | 20211104T07:01:08Z | Lite version of my Gatekeeper backdoor for public use. | https://github.com/dievus/MayorSecBackdoor | 45 | 7| 
 | 20211103T23:46:41Z | Database of backdoor passwords used by Malware, uncovered by the Malvuln project. | https://github.com/malvuln/viruscreds | 7 | 2| 
-| 20211103T19:48:26Z | Null | https://github.com/mr-quixter/ShellBackdoor | 0 | 1| 
 
 
 # symbolic execution on Github 推荐
