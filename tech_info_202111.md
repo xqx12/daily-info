@@ -114,16 +114,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211104T05:57:40Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1807 | 514| 
+| 20211104T21:10:32Z | Symbolic execution of LLVM IR with an engine written in Rust | https://github.com/PLSysSec/haybale | 336 | 17| 
+| 20211104T20:45:40Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1913 | 401| 
+| 20211104T16:27:07Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2512 | 372| 
+| 20211104T15:24:03Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1808 | 514| 
+| 20211104T15:10:34Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 163 | 36| 
 | 20211104T05:36:23Z | Angora is a mutation-based fuzzer.  The main goal of Angora is to increase branch coverage by solving path constraints without symbolic execution.  | https://github.com/AngoraFuzzer/Angora | 720 | 135| 
 | 20211104T03:53:15Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 167 | 10| 
 | 20211104T03:35:08Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 10 | 4| 
 | 20211104T03:18:28Z | A tool for generating nonlinear numerical invariants for C and Java programs.  DIG uses dynamic analysis to infer invariants over program execution traces and applies symbolic execution to inferred invariants. | https://github.com/unsat/dig | 9 | 4| 
 | 20211103T22:17:36Z | Symbolica%s open-source symbolic execution engine. | https://github.com/Symbolica/Symbolica | 42 | 2| 
-| 20211103T18:39:46Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 163 | 36| 
-| 20211103T17:44:13Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1913 | 401| 
-| 20211103T14:15:13Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 18 | 4| 
-| 20211103T14:00:55Z | 🎻 Requiem: Modular exploit generation using symbolic execution | https://github.com/aesophor/requiem | 14 | 3| 
 
 
 # big4 on Github 推荐
