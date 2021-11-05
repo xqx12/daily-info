@@ -84,7 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211105T00:23:30Z | Null | https://github.com/HonestlyDex/CaffieneHubWeb | 0 | 0| 
+| 20211105T00:30:28Z | Null | https://github.com/HonestlyDex/CaffieneHubWeb | 0 | 0| 
 | 20211105T00:06:00Z | Null | https://github.com/tjonty/exploit | 0 | 0| 
 | 20211105T00:03:50Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211104T23:51:27Z | Null | https://github.com/pwn4all/exploit | 0 | 0| 
