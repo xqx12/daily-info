@@ -84,21 +84,22 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211105T01:03:19Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
+| 20211105T02:11:36Z | C++ ImGui Roblox exploit base powered by WeAreDevs API - https://wearedevs.net/exploits/ | https://github.com/ShootFirstAskQuestionsLater/ImGui_ExploitBase | 0 | 0| 
+| 20211105T02:06:55Z | Drafts of exploits made for studying and consultation purposes | https://github.com/brerodrigues/exploit_drafts | 0 | 0| 
+| 20211105T02:03:43Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6100 | 1457| 
+| 20211105T02:03:25Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211105T00:45:21Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 14| 
 | 20211105T00:39:20Z | Null | https://github.com/HonestlyDex/CaffieneHubWeb | 0 | 0| 
 | 20211105T00:06:00Z | Null | https://github.com/tjonty/exploit | 0 | 0| 
 | 20211104T23:51:27Z | Null | https://github.com/pwn4all/exploit | 0 | 0| 
 | 20211104T23:47:27Z | Null | https://github.com/kingbiagio/exploit | 0 | 0| 
 | 20211104T23:41:08Z | Null | https://github.com/JohnSV18/Jinja2-ExploitMe | 0 | 0| 
-| 20211104T23:24:29Z | Null | https://github.com/chrisaddessi/Linux-Exploitation | 0 | 0| 
-| 20211104T22:18:46Z | Educational web application demonstrating techniques of binary exploitation (Front-end) | https://github.com/Pen-Test3rs/binary_exploits_frontend | 0 | 0| 
-| 20211104T21:52:26Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10286 | 1766| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211105T02:10:49Z | A simple remote tool written in C#.    一个简单的c#远控 | https://github.com/qwqdanchun/DcRat | 413 | 152| 
 | 20211105T01:14:15Z | Null | https://github.com/zephr1213/Pyro-Backdoor-Whitelist | 0 | 0| 
 | 20211105T00:08:47Z | Official Implementation of ``Adversarial Unlearning of Backdoors via Implicit Hypergradient%% | https://github.com/YiZeng623/I-BAU_Adversarial_Unlearning_of-Backdoors_via_implicit_Hypergradient | 4 | 0| 
 | 20211104T23:59:21Z | Null | https://github.com/Fartlicker777/Backdoor-Hacking | 0 | 0| 
@@ -108,7 +109,6 @@
 | 20211104T17:33:40Z | A self made multi-purpose CTF tool written under Kali Linux Os taking adventage of several programs pre-installed. Contains one liner backdoors generator for many programs/languages, recognition scanners, useful  encoders/decoders with some special features as powershell base64 format, tools from ... [ more info at README.md ] | https://github.com/0bfxgh0st/saf2 | 2 | 1| 
 | 20211104T13:52:06Z | Website Shell BackDoors | https://github.com/7r0j4ncodeing/Web-Shells | 22 | 6| 
 | 20211104T07:01:08Z | Lite version of my Gatekeeper backdoor for public use. | https://github.com/dievus/MayorSecBackdoor | 45 | 7| 
-| 20211103T23:46:41Z | Database of backdoor passwords used by Malware, uncovered by the Malvuln project. | https://github.com/malvuln/viruscreds | 7 | 2| 
 
 
 # symbolic execution on Github 推荐
