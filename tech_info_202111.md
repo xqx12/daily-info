@@ -135,6 +135,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211105T00:54:05Z | A fork of AFL for fuzzing Windows binaries | https://github.com/googleprojectzero/winafl | 1793 | 449| 
+| 20211105T00:52:52Z | Null | https://github.com/oscarpimentel/fuzzy-tools | 0 | 0| 
 | 20211105T00:41:32Z | Here you%ll find some of my Fuzzy Logic college stuff | https://github.com/Marceeaax/FuzzyLogic | 0 | 0| 
 | 20211105T00:41:31Z | Null | https://github.com/usama54321/dl-fuzzing | 0 | 0| 
 | 20211105T00:40:22Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 7 | 0| 
@@ -143,8 +145,6 @@
 | 20211105T00:13:26Z | Linux Kernel Snapshot Fuzzer using KVM | https://github.com/SmoothHacker/LateRegistration | 0 | 0| 
 | 20211104T23:48:22Z | Fuzzing test for TINET | https://github.com/toppers/TINETFuzzer | 0 | 0| 
 | 20211104T23:37:09Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 100 | 27| 
-| 20211104T23:25:59Z | These tests of libdwarf/dwarfdump include old object files, new ones, and many fuzzed object files. These are the definitive tests that things work.. Most people have no reason to run these tests. | https://github.com/davea42/libdwarf-regressiontests | 0 | 0| 
-| 20211104T23:13:51Z | Null | https://github.com/oscarpimentel/fuzzy-tools | 0 | 0| 
 
 
 
