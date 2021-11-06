@@ -135,6 +135,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211106T00:15:19Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 311 | 41| 
 | 20211106T00:14:09Z | Null | https://github.com/fingers53/FuzzyMatchingRepo | 0 | 0| 
 | 20211106T00:13:10Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6788 | 1411| 
 | 20211105T23:42:56Z | Find hidden directories on websites | https://github.com/Kerago/Web-Fuzzer | 0 | 0| 
@@ -144,7 +145,6 @@
 | 20211105T23:24:40Z | Null | https://github.com/R4V88/NAI-Fuzzylogic | 0 | 0| 
 | 20211105T22:34:58Z | Null | https://github.com/oscarpimentel/fuzzy-tools | 0 | 0| 
 | 20211105T22:19:26Z | A serverless (AWS based) document generator based on templates | https://github.com/tomazfb/fuzzy-doodle | 0 | 0| 
-| 20211105T21:46:25Z | ex | https://github.com/Aleksgav/rust_fuzz_buzz | 0 | 0| 
 
 
 
