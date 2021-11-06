@@ -135,6 +135,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211106T00:09:53Z | Null | https://github.com/fingers53/FuzzyMatchingRepo | 0 | 0| 
 | 20211105T23:42:56Z | Find hidden directories on websites | https://github.com/Kerago/Web-Fuzzer | 0 | 0| 
 | 20211105T23:41:57Z | Find subdomains on a host | https://github.com/Kerago/Subdomain-Fuzzer | 0 | 0| 
 | 20211105T23:35:31Z | Fall 2021 CSE 454 Project 1 | https://github.com/rchen63/Fuzzy-logic-Project | 0 | 0| 
@@ -144,7 +145,6 @@
 | 20211105T22:19:26Z | A serverless (AWS based) document generator based on templates | https://github.com/tomazfb/fuzzy-doodle | 0 | 0| 
 | 20211105T21:46:25Z | ex | https://github.com/Aleksgav/rust_fuzz_buzz | 0 | 0| 
 | 20211105T21:26:40Z | 🤖 Repeat tests. Repeat tests. Repeat tests. | https://github.com/ehmicky/test-each | 94 | 2| 
-| 20211105T21:17:56Z | A fuzzer that generates random Go programs | https://github.com/ALTree/microsmith | 12 | 0| 
 
 
 
