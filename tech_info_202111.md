@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211106T00:45:22Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 14| 
 | 20211106T00:43:09Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10290 | 1767| 
 | 20211106T00:36:48Z | A private Da Hood exploit script | https://github.com/iamtryingtofindname/Artemis | 1 | 1| 
 | 20211106T00:29:11Z | Find out who is pretending to be offline | https://github.com/oSumAtrIX/dinkleberg | 5 | 0| 
@@ -93,7 +94,6 @@
 | 20211106T00:04:05Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211106T00:02:42Z | Null | https://github.com/pwn4all/exploit | 0 | 0| 
 | 20211105T23:13:54Z | Null | https://github.com/Youheng-Lue/art-exploit | 0 | 0| 
-| 20211105T23:10:55Z | Oracle WebCenter Sites Vulnerability Scanner | https://github.com/Leovalcante/wcs_scanner | 1 | 0| 
 
 
 # backdoor on Github 推荐
