@@ -84,7 +84,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20211105T19:04:33Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 180 | 39| 
-| 20211105T16:57:03Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2513 | 372| 
 | 20211105T16:07:18Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 18 | 4| 
 | 20211105T13:24:44Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1807 | 515| 
 | 20211105T13:10:29Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 163 | 36| 
