@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211106T11:28:10Z | CVE-2021-38001 | Null | https://github.com/Peterpan0927/TFC-Chrome-v8-bug-CVE-2021-38001-poc | | 
+| 20211106T12:24:56Z | CVE-2021-38001 | Null | https://github.com/Peterpan0927/TFC-Chrome-v8-bug-CVE-2021-38001-poc | | 
 | 20211106T10:41:41Z | CVE-2021-22205 | CVE-2021-22205未授权漏洞批量检测与利用工具 | https://github.com/Seals6/CVE-2021-22205 | | 
 | 20211106T02:59:16Z | CVE-2021-37678 | TP Seguridad Informática UTN FRBA 2021 | https://github.com/fran-CICS/ExploitTensorflowCVE-2021-37678 | | 
 | 20211106T00:18:40Z | CVE-2021-42327 | WIP kernel exploit for minor bug i found in amd gpu driver | https://github.com/docfate111/CVE-2021-42327 | | 
@@ -84,7 +84,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211106T12:05:19Z | A Series of Baseband & LMP Exploits against Bluetooth Classic Controllers | https://github.com/Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks | 59 | 12| 
+| 20211106T12:46:36Z | A Series of Baseband & LMP Exploits against Bluetooth Classic Controllers | https://github.com/Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks | 60 | 12| 
+| 20211106T12:44:41Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 6585 | 1818| 
 | 20211106T12:05:11Z | Wii archive containing WADs including official, unofficial and system IOS/menu, Exploits, Homebrew Apps, DevKit, and more. | https://github.com/ForwarderFactory/wii | 3 | 0| 
 | 20211106T12:03:20Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211106T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10292 | 1769| 
@@ -93,7 +94,6 @@
 | 20211106T10:17:33Z | Genkidama offers distributed and optimized system of Machine Learning using the unexploited computational power in traditional tech business contexts (exploiting latent CPUs coming from laptops of non-tech members of companies). It does so using Websocket protocols and two type of nodes making up the system: Orchestrator Nodes and Computational Nodes, where the first one orchestrates and load-balances the tasks to be fed to the Computational Nodes (which are going to work on it in background, leaving untouched the UX of the other company members) | https://github.com/niko047/Genkidama | 0 | 0| 
 | 20211106T09:09:34Z | Exploit development library | https://github.com/horosora/pwnkit | 0 | 0| 
 | 20211106T06:45:22Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 14| 
-| 20211106T06:42:00Z | Detects if there are exploits present on a system. | https://github.com/WeeblyDoodOfficial/roblox-exploit-checker | 0 | 0| 
 
 
 # backdoor on Github 推荐
