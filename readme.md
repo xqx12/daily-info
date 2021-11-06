@@ -38,7 +38,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211106T12:46:36Z | A Series of Baseband & LMP Exploits against Bluetooth Classic Controllers | https://github.com/Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks | 60 | 12| 
+| 20211106T12:53:27Z | A Series of Baseband & LMP Exploits against Bluetooth Classic Controllers | https://github.com/Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks | 61 | 12| 
 | 20211106T12:44:41Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 6585 | 1818| 
 | 20211106T12:05:11Z | Wii archive containing WADs including official, unofficial and system IOS/menu, Exploits, Homebrew Apps, DevKit, and more. | https://github.com/ForwarderFactory/wii | 3 | 0| 
 | 20211106T12:03:20Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
@@ -80,16 +80,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211106T13:00:45Z | Effect Pedal For Bass and Electric Guitar | https://github.com/efforal/Guitar-Fuzz-Pedal | 0 | 0| 
+| 20211106T12:57:21Z | Simulation of K-Means algorithm using fuzzy concept | https://github.com/mahdivahedi/Fuzzy_C-means_clustering | 0 | 0| 
+| 20211106T12:39:23Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 574 | 62| 
+| 20211106T12:28:31Z | Null | https://github.com/LukaszReinke/FuzzyLogic | 0 | 0| 
 | 20211106T12:13:11Z | A collection of user-space Linux kernel specific guided fuzzers based on LKL | https://github.com/atrosinenko/kbdysch | 56 | 7| 
 | 20211106T12:02:08Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 33 | 12| 
 | 20211106T11:53:37Z | OWASP ZAP add-on containing the web-backdoors and attack files from FuzzDB | https://github.com/zaproxy/fuzzdb-offensive | 7 | 6| 
 | 20211106T11:33:48Z | Fuzzy logic implementation for watering plants | https://github.com/ChristoferWindow/NAI-FuzzyLogic-WateringPlants | 0 | 0| 
 | 20211106T10:40:40Z | Null | https://github.com/raffasuyarni/fuzzy-succotash | 0 | 0| 
 | 20211106T10:38:01Z | ignite nodejs concepts todos api | https://github.com/vwnd/fuzzy-succotash | 0 | 0| 
-| 20211106T10:36:41Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20211106T10:34:50Z | Null | https://github.com/bryanlimkt/copyright-fuzzy-matching | 0 | 0| 
-| 20211106T09:49:15Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2156 | 422| 
-| 20211106T09:32:40Z | Null | https://github.com/mihett05/fuzzy-voting-app | 0 | 0| 
 
 
 
