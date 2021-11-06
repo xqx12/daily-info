@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211106T02:59:16Z | CVE-2021-37678 | TP Seguridad Informática UTN FRBA 2021 | https://github.com/fran-CICS/ExploitTensorflowCVE-2021-37678 | | 
 | 20211106T02:39:12Z | CVE-2021-38001 | Null | https://github.com/Peterpan0927/TFC-Chrome-v8-bug-CVE-2021-38001-poc | | 
 | 20211106T00:18:40Z | CVE-2021-42327 | WIP kernel exploit for minor bug i found in amd gpu driver | https://github.com/docfate111/CVE-2021-42327 | | 
 | 20211105T21:36:14Z | CVE-2021-20837 | XMLRPC  - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | | 
@@ -55,7 +56,6 @@
 | 20211105T17:05:31Z | CVE-2021-22205 | Exploit for GitLab CVE-2021-22205 Unauthenticated Remote Code Execution | https://github.com/runsel/GitLab-CVE-2021-22205- | | 
 | 20211105T16:30:25Z | cve-2021-22205 | Null | https://github.com/hh-hunter/cve-2021-22205 | | 
 | 20211105T13:26:04Z | CVE-2021-22205 | CVE-2021-22205未授权漏洞批量检测与利用工具 | https://github.com/Seals6/CVE-2021-22205 | | 
-| 20211105T10:53:32Z | CVE-2021-42663 | CVE-2021-42663 - HTML Injection vulnerability in the Online event booking and reservation system.  | https://github.com/TheHackingRabbi/CVE-2021-42663 | | 
 
 
 # klee on Github 推荐
@@ -84,16 +84,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211106T03:03:00Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
+| 20211106T02:59:16Z | TP Seguridad Informática UTN FRBA 2021 | https://github.com/fran-CICS/ExploitTensorflowCVE-2021-37678 | 2 | 0| 
+| 20211106T02:58:35Z | Null | https://github.com/pwn4all/exploit | 0 | 0| 
 | 20211106T02:48:24Z | 一个花里胡哨的Exploit运行框架 | https://github.com/E-Team-Sec/ExploitDepository | 0 | 0| 
 | 20211106T02:34:49Z | Query the CISA RSS feed for information on newly identified vulnerabilities being exploited. | https://github.com/mrippey/CisaGovRSSFeedParser | 0 | 0| 
 | 20211106T02:03:32Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10291 | 1768| 
-| 20211106T02:03:10Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211106T01:15:24Z | Zuthaka is an open source application designed to assist red-teaming efforts, by simplifying the task of managing different APTs and other post-exploitation tools.  | https://github.com/pucarasec/zuthaka | 129 | 16| 
 | 20211106T00:45:22Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 14| 
 | 20211106T00:36:48Z | A private Da Hood exploit script | https://github.com/iamtryingtofindname/Artemis | 1 | 1| 
 | 20211106T00:29:11Z | Find out who is pretending to be offline | https://github.com/oSumAtrIX/dinkleberg | 5 | 0| 
-| 20211106T00:18:40Z | WIP kernel exploit for minor bug i found in amd gpu driver | https://github.com/docfate111/CVE-2021-42327 | 0 | 0| 
-| 20211106T00:13:10Z | A collection of write ups on how I solved each exploit challenge on Exploit Education | https://github.com/dyllan500/Exploit-Education-Write-Up | 0 | 0| 
 
 
 # backdoor on Github 推荐
