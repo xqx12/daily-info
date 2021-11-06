@@ -24,7 +24,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211105T23:50:07Z | CVE-2021-42327 | WIP kernel exploit for minor bug i found in amd gpu driver | https://github.com/docfate111/CVE-2021-42327 | | 
 | 20211105T21:36:14Z | CVE-2021-20837 | XMLRPC  - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | | 
 | 20211105T21:05:01Z | CVE-2021-33026 | Pickle Serialization Remote Code Execution - Memcached Poisoning | https://github.com/CarlosG13/CVE-2021-33026 | | 
 | 20211105T20:46:06Z | CVE-2021-42694 | Generate malicious files using recently published homoglyphic-attack (CVE-2021-42694) | https://github.com/js-on/CVE-2021-42694 | | 
@@ -34,6 +33,7 @@
 | 20211105T13:26:04Z | CVE-2021-22205 | CVE-2021-22205未授权漏洞批量检测与利用工具 | https://github.com/Seals6/CVE-2021-22205 | | 
 | 20211105T10:53:32Z | CVE-2021-42663 | CVE-2021-42663 - HTML Injection vulnerability in the Online event booking and reservation system.  | https://github.com/TheHackingRabbi/CVE-2021-42663 | | 
 | 20211105T10:51:44Z | CVE-2021-42667 | CVE-2021-42667 - SQL Injection vulnerability in the Online event booking and reservation system. | https://github.com/TheHackingRabbi/CVE-2021-42667 | | 
+| 20211105T10:51:07Z | CVE-2021-42662 | CVE-2021-42662 - Stored Cross-Site Scripting vulnerability in the Online event booking and reservation system.  | https://github.com/TheHackingRabbi/CVE-2021-42662 | | 
 
 
 # klee on Github 推荐
