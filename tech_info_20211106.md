@@ -80,7 +80,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211106T13:10:26Z | Null | https://github.com/bryanlimkt/copyright-fuzzy-matching | 0 | 0| 
+| 20211106T13:14:17Z | Null | https://github.com/bryanlimkt/copyright-fuzzy-matching | 0 | 0| 
 | 20211106T13:03:16Z | Effect Pedal For Bass and Electric Guitar | https://github.com/efforal/Guitar-Fuzz-Pedal | 0 | 0| 
 | 20211106T12:57:21Z | Simulation of K-Means algorithm using fuzzy concept | https://github.com/mahdivahedi/Fuzzy_C-means_clustering | 0 | 0| 
 | 20211106T12:39:23Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 574 | 62| 
