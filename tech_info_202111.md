@@ -84,6 +84,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211106T00:02:42Z | Null | https://github.com/pwn4all/exploit | 0 | 0| 
+| 20211106T00:01:52Z | Null | https://github.com/Anatik572/trust_bw_exploit | 2 | 1| 
 | 20211105T23:50:07Z | WIP kernel exploit for minor bug i found in amd gpu driver | https://github.com/docfate111/CVE-2021-42327 | 0 | 0| 
 | 20211105T23:30:02Z | A collection of write ups on how I solved each exploit challenge on Exploit Education | https://github.com/dyllan500/Exploit-Education-Write-Up | 0 | 0| 
 | 20211105T23:13:54Z | Null | https://github.com/Youheng-Lue/art-exploit | 0 | 0| 
@@ -92,8 +94,6 @@
 | 20211105T23:03:04Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211105T22:50:13Z | My mentor tells me about his journey of OSCP and one python script that helps him alot . The script is about enumerate the target services with NMAP then get exploits of each enumerated service from searchsploit . The whole process done by few lines of Bash script.     | https://github.com/System-CTL/Get-Exploits | 0 | 0| 
 | 20211105T22:44:53Z | Null | https://github.com/SnyckTryx/Pirate-Exploits | 0 | 0| 
-| 20211105T22:10:19Z | HSploit - Open Source | https://github.com/jnajwhdanbiwduanwdioayuhbou2qgybroq/HSploit | 0 | 0| 
-| 20211105T22:03:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10289 | 1767| 
 
 
 # backdoor on Github 推荐
@@ -114,16 +114,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211105T19:04:33Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 180 | 39| 
+| 20211105T16:57:03Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2513 | 372| 
+| 20211105T16:07:18Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 18 | 4| 
+| 20211105T13:24:44Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1807 | 515| 
 | 20211105T13:10:29Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 163 | 36| 
 | 20211105T09:27:26Z | Angora is a mutation-based fuzzer.  The main goal of Angora is to increase branch coverage by solving path constraints without symbolic execution.  | https://github.com/AngoraFuzzer/Angora | 722 | 135| 
 | 20211105T09:01:40Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1914 | 401| 
 | 20211105T06:55:54Z | A tool for generating nonlinear numerical invariants for C and Java programs.  DIG uses dynamic analysis to infer invariants over program execution traces and applies symbolic execution to inferred invariants. | https://github.com/unsat/dig | 9 | 4| 
 | 20211104T21:10:32Z | Symbolic execution of LLVM IR with an engine written in Rust | https://github.com/PLSysSec/haybale | 336 | 17| 
-| 20211104T16:27:07Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2512 | 372| 
-| 20211104T15:24:03Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1808 | 514| 
 | 20211104T03:53:15Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 167 | 10| 
-| 20211104T03:35:08Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 10 | 4| 
-| 20211103T22:17:36Z | Symbolica%s open-source symbolic execution engine. | https://github.com/Symbolica/Symbolica | 42 | 2| 
 
 
 # big4 on Github 推荐

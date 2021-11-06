@@ -83,6 +83,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211105T19:04:33Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 180 | 39| 
+| 20211105T16:57:03Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2513 | 372| 
+| 20211105T16:07:18Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 18 | 4| 
+| 20211105T13:24:44Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1807 | 515| 
 | 20211105T13:10:29Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 163 | 36| 
 | 20211105T09:27:26Z | Angora is a mutation-based fuzzer.  The main goal of Angora is to increase branch coverage by solving path constraints without symbolic execution.  | https://github.com/AngoraFuzzer/Angora | 722 | 135| 
 | 20211105T09:01:40Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1914 | 401| 
