@@ -58,11 +58,11 @@
 | 20211105T23:13:54Z | Null | https://github.com/Youheng-Lue/art-exploit | 0 | 0| 
 | 20211105T23:10:55Z | Oracle WebCenter Sites Vulnerability Scanner | https://github.com/Leovalcante/wcs_scanner | 1 | 0| 
 | 20211105T23:06:09Z | Collection of Discord hacking tools/fun stuff/exploits that is completely made using NodeJS. | https://github.com/I2rys/ODiscord | 26 | 9| 
-| 20211105T23:03:04Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211105T22:50:13Z | My mentor tells me about his journey of OSCP and one python script that helps him alot . The script is about enumerate the target services with NMAP then get exploits of each enumerated service from searchsploit . The whole process done by few lines of Bash script.     | https://github.com/System-CTL/Get-Exploits | 0 | 0| 
 | 20211105T22:44:53Z | Null | https://github.com/SnyckTryx/Pirate-Exploits | 0 | 0| 
 | 20211105T22:10:19Z | HSploit - Open Source | https://github.com/jnajwhdanbiwduanwdioayuhbou2qgybroq/HSploit | 0 | 0| 
 | 20211105T22:03:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10289 | 1767| 
+| 20211105T21:28:31Z | OSINT, Threat Hunting, Network and Web Recon, Discovery, Enumeration, Vulnerability Mapping, Exploitation, Reporting | https://github.com/aryanguenthner/365 | 9 | 4| 
 
 
 # backdoor on Github 推荐

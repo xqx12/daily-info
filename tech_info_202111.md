@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211106T00:04:05Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211106T00:02:42Z | Null | https://github.com/pwn4all/exploit | 0 | 0| 
 | 20211106T00:01:52Z | Null | https://github.com/Anatik572/trust_bw_exploit | 2 | 1| 
 | 20211105T23:50:07Z | WIP kernel exploit for minor bug i found in amd gpu driver | https://github.com/docfate111/CVE-2021-42327 | 0 | 0| 
@@ -91,7 +92,6 @@
 | 20211105T23:13:54Z | Null | https://github.com/Youheng-Lue/art-exploit | 0 | 0| 
 | 20211105T23:10:55Z | Oracle WebCenter Sites Vulnerability Scanner | https://github.com/Leovalcante/wcs_scanner | 1 | 0| 
 | 20211105T23:06:09Z | Collection of Discord hacking tools/fun stuff/exploits that is completely made using NodeJS. | https://github.com/I2rys/ODiscord | 26 | 9| 
-| 20211105T23:03:04Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211105T22:50:13Z | My mentor tells me about his journey of OSCP and one python script that helps him alot . The script is about enumerate the target services with NMAP then get exploits of each enumerated service from searchsploit . The whole process done by few lines of Bash script.     | https://github.com/System-CTL/Get-Exploits | 0 | 0| 
 | 20211105T22:44:53Z | Null | https://github.com/SnyckTryx/Pirate-Exploits | 0 | 0| 
 
