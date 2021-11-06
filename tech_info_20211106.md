@@ -38,10 +38,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211106T13:03:04Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211106T12:53:27Z | A Series of Baseband & LMP Exploits against Bluetooth Classic Controllers | https://github.com/Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks | 61 | 12| 
 | 20211106T12:44:41Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 6585 | 1818| 
 | 20211106T12:05:11Z | Wii archive containing WADs including official, unofficial and system IOS/menu, Exploits, Homebrew Apps, DevKit, and more. | https://github.com/ForwarderFactory/wii | 3 | 0| 
-| 20211106T12:03:20Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211106T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10292 | 1769| 
 | 20211106T11:29:35Z | Collection of resources to learn pentesting, exploit development, obfuscation & much more. | https://github.com/nop-tech/learning-resources | 3 | 0| 
 | 20211106T11:22:53Z | Fully Featured Nintendo DS Loader for Ghidra | https://github.com/pedro-javierf/NTRGhidra | 74 | 7| 
@@ -80,7 +80,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211106T13:00:45Z | Effect Pedal For Bass and Electric Guitar | https://github.com/efforal/Guitar-Fuzz-Pedal | 0 | 0| 
+| 20211106T13:10:26Z | Null | https://github.com/bryanlimkt/copyright-fuzzy-matching | 0 | 0| 
+| 20211106T13:03:16Z | Effect Pedal For Bass and Electric Guitar | https://github.com/efforal/Guitar-Fuzz-Pedal | 0 | 0| 
 | 20211106T12:57:21Z | Simulation of K-Means algorithm using fuzzy concept | https://github.com/mahdivahedi/Fuzzy_C-means_clustering | 0 | 0| 
 | 20211106T12:39:23Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 574 | 62| 
 | 20211106T12:28:31Z | Null | https://github.com/LukaszReinke/FuzzyLogic | 0 | 0| 
@@ -89,7 +90,6 @@
 | 20211106T11:53:37Z | OWASP ZAP add-on containing the web-backdoors and attack files from FuzzDB | https://github.com/zaproxy/fuzzdb-offensive | 7 | 6| 
 | 20211106T11:33:48Z | Fuzzy logic implementation for watering plants | https://github.com/ChristoferWindow/NAI-FuzzyLogic-WateringPlants | 0 | 0| 
 | 20211106T10:40:40Z | Null | https://github.com/raffasuyarni/fuzzy-succotash | 0 | 0| 
-| 20211106T10:38:01Z | ignite nodejs concepts todos api | https://github.com/vwnd/fuzzy-succotash | 0 | 0| 
 
 
 
