@@ -46,69 +46,69 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211105T12:27:52Z | CVE-2021-20837 | XMLRPC  - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | | 
+| 20211105T23:50:07Z | CVE-2021-42327 | WIP kernel exploit for minor bug i found in amd gpu driver | https://github.com/docfate111/CVE-2021-42327 | | 
+| 20211105T21:36:14Z | CVE-2021-20837 | XMLRPC  - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | | 
+| 20211105T21:05:01Z | CVE-2021-33026 | Pickle Serialization Remote Code Execution - Memcached Poisoning | https://github.com/CarlosG13/CVE-2021-33026 | | 
+| 20211105T20:46:06Z | CVE-2021-42694 | Generate malicious files using recently published homoglyphic-attack (CVE-2021-42694) | https://github.com/js-on/CVE-2021-42694 | | 
+| 20211105T20:43:08Z | CVE-2021-42574 | Generate malicious files using recently published bidi-attack (CVE-2021-42574) | https://github.com/js-on/CVE-2021-42574 | | 
+| 20211105T17:05:31Z | CVE-2021-22205 | Exploit for GitLab CVE-2021-22205 Unauthenticated Remote Code Execution | https://github.com/runsel/GitLab-CVE-2021-22205- | | 
+| 20211105T16:30:25Z | cve-2021-22205 | Null | https://github.com/hh-hunter/cve-2021-22205 | | 
+| 20211105T13:26:04Z | CVE-2021-22205 | CVE-2021-22205未授权漏洞批量检测与利用工具 | https://github.com/Seals6/CVE-2021-22205 | | 
 | 20211105T10:53:32Z | CVE-2021-42663 | CVE-2021-42663 - HTML Injection vulnerability in the Online event booking and reservation system.  | https://github.com/TheHackingRabbi/CVE-2021-42663 | | 
 | 20211105T10:51:44Z | CVE-2021-42667 | CVE-2021-42667 - SQL Injection vulnerability in the Online event booking and reservation system. | https://github.com/TheHackingRabbi/CVE-2021-42667 | | 
-| 20211105T10:51:07Z | CVE-2021-42662 | CVE-2021-42662 - Stored Cross-Site Scripting vulnerability in the Online event booking and reservation system.  | https://github.com/TheHackingRabbi/CVE-2021-42662 | | 
-| 20211105T10:48:51Z | CVE-2021-42671 | CVE-2021-42671 - Broken access control vulnerability in the Engineers online portal system.  | https://github.com/TheHackingRabbi/CVE-2021-42671 | | 
-| 20211105T10:48:07Z | CVE-2021-42670 | CVE-2021-42670 - SQL Injection vulnerability in the Engineers online portal system.  | https://github.com/TheHackingRabbi/CVE-2021-42670 | | 
-| 20211105T10:47:25Z | CVE-2021-42669 | CVE-2021-42669 - Remote code execution via unrestricted file upload vulnerability in the Engineers online portal system. | https://github.com/TheHackingRabbi/CVE-2021-42669 | | 
-| 20211105T10:46:57Z | CVE-2021-42668 | CVE-2021-42668 - SQL Injection vulnerability in the Engineers online portal system.  | https://github.com/TheHackingRabbi/CVE-2021-42668 | | 
-| 20211105T09:42:16Z | CVE-2021-38001 | Null | https://github.com/Peterpan0927/TFC-Chrome-v8-bug-CVE-2021-38001-poc | | 
-| 20211105T06:54:12Z | CVE-2021-40449 | My exploit for CVE-2021-40449, a Windows LPE via a UAF in win32kfull!GreResetDCInternal. | https://github.com/hakivvi/CVE-2021-40449 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211105T19:00:04Z | kleeboard is attacking kleeboard in typescript | https://github.com/keyboard2543/kleeboard-is-attacking-keyboard | 0 | 0| 
+| 20211105T15:15:17Z | Some of the files that were modified to work with KLEE | https://github.com/Shikhar8990/pChop_subset | 0 | 0| 
+| 20211105T13:24:44Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1807 | 515| 
 | 20211104T21:30:15Z | Minecraft Mod. Allows breaking only one half of a double slab block. | https://github.com/ModdingForBlockheads/KleeSlabs | 9 | 3| 
-| 20211104T15:24:03Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1808 | 514| 
 | 20211103T23:16:39Z | Null | https://github.com/klee669/klee669.github.io | 0 | 0| 
 | 20211103T18:36:46Z | Null | https://github.com/ayazip/witch-klee | 0 | 0| 
 | 20211103T12:25:13Z | Dynamic and symbolic taint analysis for multi-thread programs | https://github.com/xdzhang-xjtu/kleem | 0 | 0| 
 | 20211103T07:22:08Z | Null | https://github.com/Hanseltu/klee-n-aeg-final | 0 | 0| 
 | 20211101T21:47:14Z | Null | https://github.com/abionkennie/BlogKleenomics | 0 | 0| 
 | 20211101T15:03:51Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 14 | 1| 
-| 20211101T13:01:29Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 219 | 36| 
-| 20211101T10:55:32Z | Personal Blog | https://github.com/klee1611/klee1611.github.io | 1 | 1| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211105T19:04:33Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 180 | 39| 
 | 20211104T01:03:30Z | Null | https://github.com/yuvalkirstain/s2e-coref | 18 | 7| 
 | 20211103T14:00:55Z | 🎻 Requiem: Modular exploit generation using symbolic execution | https://github.com/aesophor/requiem | 14 | 3| 
-| 20211102T12:00:22Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 179 | 39| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211105T13:04:29Z | Null | https://github.com/fuchslenny/exploits | 0 | 0| 
-| 20211105T13:03:02Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
-| 20211105T12:47:08Z | Une exploitation de WikiData pour reconstruire les relations entre les établissements de l%ESR. | https://github.com/cpesr/wikidataESR | 1 | 1| 
-| 20211105T12:45:21Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 14| 
-| 20211105T12:27:55Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 3704 | 1280| 
-| 20211105T12:19:57Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10288 | 1767| 
-| 20211105T12:09:26Z | Null | https://github.com/zYan666/Demon-Exploit | 0 | 0| 
-| 20211105T12:02:38Z | My Chrome and Safari exploit code + write-up repo | https://github.com/vngkv123/aSiagaming | 410 | 94| 
-| 20211105T09:56:41Z | Null | https://github.com/kingbiagio/exploit | 0 | 0| 
-| 20211105T09:19:11Z | Find out who is pretending to be offline | https://github.com/oSumAtrIX/dinkleberg | 5 | 0| 
+| 20211105T23:50:07Z | WIP kernel exploit for minor bug i found in amd gpu driver | https://github.com/docfate111/CVE-2021-42327 | 0 | 0| 
+| 20211105T23:30:02Z | A collection of write ups on how I solved each exploit challenge on Exploit Education | https://github.com/dyllan500/Exploit-Education-Write-Up | 0 | 0| 
+| 20211105T23:13:54Z | Null | https://github.com/Youheng-Lue/art-exploit | 0 | 0| 
+| 20211105T23:10:55Z | Oracle WebCenter Sites Vulnerability Scanner | https://github.com/Leovalcante/wcs_scanner | 1 | 0| 
+| 20211105T23:06:09Z | Collection of Discord hacking tools/fun stuff/exploits that is completely made using NodeJS. | https://github.com/I2rys/ODiscord | 26 | 9| 
+| 20211105T23:03:04Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
+| 20211105T22:50:13Z | My mentor tells me about his journey of OSCP and one python script that helps him alot . The script is about enumerate the target services with NMAP then get exploits of each enumerated service from searchsploit . The whole process done by few lines of Bash script.     | https://github.com/System-CTL/Get-Exploits | 0 | 0| 
+| 20211105T22:44:53Z | Null | https://github.com/SnyckTryx/Pirate-Exploits | 0 | 0| 
+| 20211105T22:10:19Z | HSploit - Open Source | https://github.com/jnajwhdanbiwduanwdioayuhbou2qgybroq/HSploit | 0 | 0| 
+| 20211105T22:03:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10289 | 1767| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211105T20:03:36Z | The insane hackerman backdoor. | https://github.com/Bakdooro/Bakdooro | 10 | 2| 
+| 20211105T18:38:33Z | Remote control software, supported Windows/Unix/MacOS/Linux(x86/x64/mips/arm) | https://github.com/h1zzz/purewater | 5 | 0| 
+| 20211105T18:00:49Z | pybotnet -   A Python Library for building Botnet , Trojan or BackDoor for windows and linux with Telegram control panel  | https://github.com/onionj/pybotnet | 38 | 19| 
+| 20211105T17:57:14Z | Null | https://github.com/csdongxian/ANP_backdoor | 6 | 0| 
+| 20211105T17:51:22Z | A self made multi-purpose CTF tool written under Kali Linux Os taking adventage of several programs pre-installed. Contains one liner backdoors generator for many programs/languages, recognition scanners, useful  encoders/decoders with some special features as powershell base64 format, tools from ... [ more info at README.md ] | https://github.com/0bfxgh0st/saf2 | 2 | 1| 
+| 20211105T16:46:54Z | ./kumasia backdoor | https://github.com/mugi789/kumasia | 0 | 0| 
+| 20211105T16:21:21Z | A Python backdoor for spying on Windows machines | https://github.com/JoaoAJMatos/VINC | 4 | 0| 
+| 20211105T14:29:58Z | Python-based Backdoor. | https://github.com/Senc3951/Backdoor | 0 | 1| 
 | 20211105T13:02:07Z | Simple console based Windows key-logger created in C++ | https://github.com/sam-astro/CPP-Key-Logger | 1 | 0| 
 | 20211105T12:53:03Z | noob attempt at writing backdoor scripts | https://github.com/Kushalr3ddy/backdoor | 0 | 0| 
-| 20211105T12:12:23Z | Null | https://github.com/THUYimingLi/BackdoorBox | 2 | 1| 
-| 20211105T11:07:08Z | Unofficial pytorch implementation of RobNet(Defense-Resistant Backdoor Attacks on DNN) | https://github.com/dhkim2810/RobNet | 0 | 0| 
-| 20211105T10:59:11Z | A simple script in cobalt strike to keep your backdoor%s permisson | https://github.com/Haru1ca/Go-Keep | 0 | 0| 
-| 20211105T09:51:18Z | Remote control software, supported Windows/Unix/MacOS/Linux(x86/x64/mips/arm) | https://github.com/h1zzz/purewater | 5 | 0| 
-| 20211105T09:16:34Z | Official Implementation of ``Adversarial Unlearning of Backdoors via Implicit Hypergradient%% | https://github.com/YiZeng623/I-BAU_Adversarial_Unlearning_of-Backdoors_via_implicit_Hypergradient | 5 | 0| 
-| 20211105T09:03:30Z | Shell Backdoor Fron Noilesha | https://github.com/Noilesha/Noiesha-Backdoor | 0 | 1| 
-| 20211105T06:57:21Z | A simple script for running a backdoor in Android forever | https://github.com/badboy-sft/android_persistent_script | 0 | 0| 
-| 20211105T02:10:49Z | A simple remote tool written in C#.    一个简单的c#远控 | https://github.com/qwqdanchun/DcRat | 413 | 152| 
 
 
 # symbolic execution on Github 推荐
@@ -135,16 +135,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211105T13:00:51Z | Null | https://github.com/iii-i/zlib-fuzz | 2 | 0| 
-| 20211105T12:49:01Z | CC paper on compiler fuzzing | https://github.com/agroce/cc2022 | 0 | 0| 
-| 20211105T12:46:24Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 574 | 62| 
-| 20211105T12:41:29Z | A serverless (AWS based) document generator based on templates | https://github.com/tomazfb/fuzzy-doodle | 0 | 0| 
-| 20211105T12:14:01Z | Artifacts for Smartian, a grey-box fuzzer for Ethereum smart contracts. | https://github.com/SoftSec-KAIST/Smartian-Artifact | 0 | 0| 
-| 20211105T12:11:17Z | Enhancing Smart Contract Fuzzing with Static and Dynamic Analyses | https://github.com/SoftSec-KAIST/Smartian | 9 | 0| 
-| 20211105T12:02:11Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 33 | 12| 
-| 20211105T12:01:06Z | Fuzzy string matching, grouping, and evaluation.  | https://github.com/MaartenGr/PolyFuzz | 398 | 37| 
-| 20211105T11:59:33Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 34475 | 17902| 
-| 20211105T11:22:04Z | [EE7207] Code for fuzzy systems mini project. | https://github.com/Pamphlett/Fuzzy-systems-mini-project | 0 | 0| 
+| 20211105T23:42:56Z | Find hidden directories on websites | https://github.com/Kerago/Web-Fuzzer | 0 | 0| 
+| 20211105T23:41:57Z | Find subdomains on a host | https://github.com/Kerago/Subdomain-Fuzzer | 0 | 0| 
+| 20211105T23:35:31Z | Fall 2021 CSE 454 Project 1 | https://github.com/rchen63/Fuzzy-logic-Project | 0 | 0| 
+| 20211105T23:29:12Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2422 | 149| 
+| 20211105T23:24:40Z | Null | https://github.com/R4V88/NAI-Fuzzylogic | 0 | 0| 
+| 20211105T22:34:58Z | Null | https://github.com/oscarpimentel/fuzzy-tools | 0 | 0| 
+| 20211105T22:19:26Z | A serverless (AWS based) document generator based on templates | https://github.com/tomazfb/fuzzy-doodle | 0 | 0| 
+| 20211105T21:46:25Z | ex | https://github.com/Aleksgav/rust_fuzz_buzz | 0 | 0| 
+| 20211105T21:26:40Z | 🤖 Repeat tests. Repeat tests. Repeat tests. | https://github.com/ehmicky/test-each | 94 | 2| 
+| 20211105T21:17:56Z | A fuzzer that generates random Go programs | https://github.com/ALTree/microsmith | 12 | 0| 
 
 
 
