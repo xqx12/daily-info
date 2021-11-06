@@ -38,12 +38,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211106T12:05:19Z | A Series of Baseband & LMP Exploits against Bluetooth Classic Controllers | https://github.com/Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks | 59 | 12| 
+| 20211106T12:05:11Z | Wii archive containing WADs including official, unofficial and system IOS/menu, Exploits, Homebrew Apps, DevKit, and more. | https://github.com/ForwarderFactory/wii | 3 | 0| 
 | 20211106T12:03:20Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
-| 20211106T11:52:32Z | Wii archive containing WADs including official, unofficial and system IOS/menu, Exploits, Homebrew Apps, DevKit, and more. | https://github.com/ForwarderFactory/wii | 3 | 0| 
 | 20211106T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10292 | 1769| 
 | 20211106T11:29:35Z | Collection of resources to learn pentesting, exploit development, obfuscation & much more. | https://github.com/nop-tech/learning-resources | 3 | 0| 
 | 20211106T11:22:53Z | Fully Featured Nintendo DS Loader for Ghidra | https://github.com/pedro-javierf/NTRGhidra | 74 | 7| 
-| 20211106T10:47:40Z | A Series of Baseband & LMP Exploits against Bluetooth Classic Controllers | https://github.com/Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks | 58 | 11| 
 | 20211106T10:17:33Z | Genkidama offers distributed and optimized system of Machine Learning using the unexploited computational power in traditional tech business contexts (exploiting latent CPUs coming from laptops of non-tech members of companies). It does so using Websocket protocols and two type of nodes making up the system: Orchestrator Nodes and Computational Nodes, where the first one orchestrates and load-balances the tasks to be fed to the Computational Nodes (which are going to work on it in background, leaving untouched the UX of the other company members) | https://github.com/niko047/Genkidama | 0 | 0| 
 | 20211106T09:09:34Z | Exploit development library | https://github.com/horosora/pwnkit | 0 | 0| 
 | 20211106T06:45:22Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 14| 
