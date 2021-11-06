@@ -84,6 +84,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211106T00:43:09Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10290 | 1767| 
+| 20211106T00:36:48Z | A private Da Hood exploit script | https://github.com/iamtryingtofindname/Artemis | 1 | 1| 
 | 20211106T00:29:11Z | Find out who is pretending to be offline | https://github.com/oSumAtrIX/dinkleberg | 5 | 0| 
 | 20211106T00:18:40Z | WIP kernel exploit for minor bug i found in amd gpu driver | https://github.com/docfate111/CVE-2021-42327 | 0 | 0| 
 | 20211106T00:13:10Z | A collection of write ups on how I solved each exploit challenge on Exploit Education | https://github.com/dyllan500/Exploit-Education-Write-Up | 0 | 0| 
@@ -92,8 +94,6 @@
 | 20211106T00:02:42Z | Null | https://github.com/pwn4all/exploit | 0 | 0| 
 | 20211105T23:13:54Z | Null | https://github.com/Youheng-Lue/art-exploit | 0 | 0| 
 | 20211105T23:10:55Z | Oracle WebCenter Sites Vulnerability Scanner | https://github.com/Leovalcante/wcs_scanner | 1 | 0| 
-| 20211105T23:06:09Z | Collection of Discord hacking tools/fun stuff/exploits that is completely made using NodeJS. | https://github.com/I2rys/ODiscord | 26 | 9| 
-| 20211105T22:50:13Z | My mentor tells me about his journey of OSCP and one python script that helps him alot . The script is about enumerate the target services with NMAP then get exploits of each enumerated service from searchsploit . The whole process done by few lines of Bash script.     | https://github.com/System-CTL/Get-Exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
