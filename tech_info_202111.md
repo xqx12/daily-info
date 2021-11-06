@@ -99,6 +99,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211106T01:07:03Z | Codebase for my Level 4 University Project: Static Analysis of Executable Code to Detect Backdoors on IoT Devices | https://github.com/sophieboyle/Static-IoT-Backdoor-Detection | 0 | 0| 
 | 20211105T20:03:36Z | The insane hackerman backdoor. | https://github.com/Bakdooro/Bakdooro | 10 | 2| 
 | 20211105T18:38:33Z | Remote control software, supported Windows/Unix/MacOS/Linux(x86/x64/mips/arm) | https://github.com/h1zzz/purewater | 5 | 0| 
 | 20211105T18:00:49Z | pybotnet -   A Python Library for building Botnet , Trojan or BackDoor for windows and linux with Telegram control panel  | https://github.com/onionj/pybotnet | 38 | 19| 
@@ -108,7 +109,6 @@
 | 20211105T16:21:21Z | A Python backdoor for spying on Windows machines | https://github.com/JoaoAJMatos/VINC | 4 | 0| 
 | 20211105T14:29:58Z | Python-based Backdoor. | https://github.com/Senc3951/Backdoor | 0 | 1| 
 | 20211105T13:02:07Z | Simple console based Windows key-logger created in C++ | https://github.com/sam-astro/CPP-Key-Logger | 1 | 0| 
-| 20211105T12:53:03Z | noob attempt at writing backdoor scripts | https://github.com/Kushalr3ddy/backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
