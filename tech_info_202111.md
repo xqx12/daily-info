@@ -84,11 +84,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211106T00:13:10Z | A collection of write ups on how I solved each exploit challenge on Exploit Education | https://github.com/dyllan500/Exploit-Education-Write-Up | 0 | 0| 
 | 20211106T00:07:09Z | Null | https://github.com/Anatik572/trust_bw_exploit | 2 | 0| 
 | 20211106T00:04:05Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211106T00:02:42Z | Null | https://github.com/pwn4all/exploit | 0 | 0| 
 | 20211105T23:50:07Z | WIP kernel exploit for minor bug i found in amd gpu driver | https://github.com/docfate111/CVE-2021-42327 | 0 | 0| 
-| 20211105T23:30:02Z | A collection of write ups on how I solved each exploit challenge on Exploit Education | https://github.com/dyllan500/Exploit-Education-Write-Up | 0 | 0| 
 | 20211105T23:13:54Z | Null | https://github.com/Youheng-Lue/art-exploit | 0 | 0| 
 | 20211105T23:10:55Z | Oracle WebCenter Sites Vulnerability Scanner | https://github.com/Leovalcante/wcs_scanner | 1 | 0| 
 | 20211105T23:06:09Z | Collection of Discord hacking tools/fun stuff/exploits that is completely made using NodeJS. | https://github.com/I2rys/ODiscord | 26 | 9| 
@@ -135,7 +135,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211106T00:10:57Z | Null | https://github.com/fingers53/FuzzyMatchingRepo | 0 | 0| 
+| 20211106T00:14:09Z | Null | https://github.com/fingers53/FuzzyMatchingRepo | 0 | 0| 
+| 20211106T00:13:10Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6788 | 1411| 
 | 20211105T23:42:56Z | Find hidden directories on websites | https://github.com/Kerago/Web-Fuzzer | 0 | 0| 
 | 20211105T23:41:57Z | Find subdomains on a host | https://github.com/Kerago/Subdomain-Fuzzer | 0 | 0| 
 | 20211105T23:35:31Z | Fall 2021 CSE 454 Project 1 | https://github.com/rchen63/Fuzzy-logic-Project | 0 | 0| 
@@ -144,7 +145,6 @@
 | 20211105T22:34:58Z | Null | https://github.com/oscarpimentel/fuzzy-tools | 0 | 0| 
 | 20211105T22:19:26Z | A serverless (AWS based) document generator based on templates | https://github.com/tomazfb/fuzzy-doodle | 0 | 0| 
 | 20211105T21:46:25Z | ex | https://github.com/Aleksgav/rust_fuzz_buzz | 0 | 0| 
-| 20211105T21:26:40Z | 🤖 Repeat tests. Repeat tests. Repeat tests. | https://github.com/ehmicky/test-each | 94 | 2| 
 
 
 
