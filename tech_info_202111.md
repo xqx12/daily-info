@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211106T02:31:09Z | CVE-2021-38001 | Null | https://github.com/Peterpan0927/TFC-Chrome-v8-bug-CVE-2021-38001-poc | | 
+| 20211106T02:39:12Z | CVE-2021-38001 | Null | https://github.com/Peterpan0927/TFC-Chrome-v8-bug-CVE-2021-38001-poc | | 
 | 20211106T00:18:40Z | CVE-2021-42327 | WIP kernel exploit for minor bug i found in amd gpu driver | https://github.com/docfate111/CVE-2021-42327 | | 
 | 20211105T21:36:14Z | CVE-2021-20837 | XMLRPC  - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | | 
 | 20211105T21:05:01Z | CVE-2021-33026 | Pickle Serialization Remote Code Execution - Memcached Poisoning | https://github.com/CarlosG13/CVE-2021-33026 | | 
@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211106T02:48:24Z | 一个花里胡哨的Exploit运行框架 | https://github.com/E-Team-Sec/ExploitDepository | 0 | 0| 
 | 20211106T02:34:49Z | Query the CISA RSS feed for information on newly identified vulnerabilities being exploited. | https://github.com/mrippey/CisaGovRSSFeedParser | 0 | 0| 
 | 20211106T02:03:32Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10291 | 1768| 
 | 20211106T02:03:10Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
@@ -93,7 +94,6 @@
 | 20211106T00:29:11Z | Find out who is pretending to be offline | https://github.com/oSumAtrIX/dinkleberg | 5 | 0| 
 | 20211106T00:18:40Z | WIP kernel exploit for minor bug i found in amd gpu driver | https://github.com/docfate111/CVE-2021-42327 | 0 | 0| 
 | 20211106T00:13:10Z | A collection of write ups on how I solved each exploit challenge on Exploit Education | https://github.com/dyllan500/Exploit-Education-Write-Up | 0 | 0| 
-| 20211106T00:07:09Z | Null | https://github.com/Anatik572/trust_bw_exploit | 2 | 0| 
 
 
 # backdoor on Github 推荐
@@ -135,6 +135,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211106T02:45:08Z | Null | https://github.com/bryanlimkt/copyright-fuzzy-matching | 0 | 0| 
 | 20211106T02:29:50Z | Null | https://github.com/rmdputrax666/fuzzy-goggles | 0 | 0| 
 | 20211106T02:25:43Z | Null | https://github.com/efassor/fuzzy-waddle | 0 | 0| 
 | 20211106T01:21:56Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 574 | 62| 
@@ -144,7 +145,6 @@
 | 20211105T23:42:56Z | Find hidden directories on websites | https://github.com/Kerago/Web-Fuzzer | 0 | 0| 
 | 20211105T23:41:57Z | Find subdomains on a host | https://github.com/Kerago/Subdomain-Fuzzer | 0 | 0| 
 | 20211105T23:35:31Z | Fall 2021 CSE 454 Project 1 | https://github.com/rchen63/Fuzzy-logic-Project | 0 | 0| 
-| 20211105T23:29:12Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2422 | 149| 
 
 
 
