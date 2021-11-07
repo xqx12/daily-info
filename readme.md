@@ -91,7 +91,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211106T23:53:05Z | A Software Package for Fuzzing Autonomous Driving Systems in Simulators | https://github.com/AIasd/ADFuzz | 0 | 0| 
 | 20211106T23:51:03Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6790 | 1411| 
 | 20211106T23:34:28Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20211106T23:15:46Z | fuzz and property testing front-end for Rust | https://github.com/camshaft/bolero | 20 | 2| 
@@ -101,6 +100,7 @@
 | 20211106T21:48:20Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1097 | 48| 
 | 20211106T21:32:29Z | The MATLAB code for the research paper titled %Multi-Class Fuzzily Weighted Adaptive Boosting-based Self-Organising Fuzzy Inference Ensemble Systems for Classification%. | https://github.com/Gu-X/Multi-Class-Fuzzily-Weighted-Adaptive-Boosting-based-Self-Organising-Fuzzy-Inference-Ensemble-System | 0 | 0| 
 | 20211106T21:30:00Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 575 | 62| 
+| 20211106T21:29:52Z | The MATLAB code for the research paper titled %Multi-Layer Ensemble Evolving Fuzzy Inference System%. | https://github.com/Gu-X/Multi-Layer-Ensemble-Evolving-Fuzzy-Inference-System | 1 | 0| 
 
 
 

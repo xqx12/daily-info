@@ -136,10 +136,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211107T01:12:02Z | A Software Package for Fuzzing Autonomous Driving Systems in Simulators | https://github.com/AIasd/ADFuzz | 0 | 0| 
 | 20211107T00:20:33Z | Null | https://github.com/epi052/fuzzing-101-solutions | 1 | 0| 
 | 20211107T00:09:37Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 33 | 12| 
 | 20211107T00:09:29Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2157 | 423| 
-| 20211106T23:53:05Z | A Software Package for Fuzzing Autonomous Driving Systems in Simulators | https://github.com/AIasd/ADFuzz | 0 | 0| 
 | 20211106T23:51:03Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6790 | 1411| 
 | 20211106T23:34:28Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20211106T23:15:46Z | fuzz and property testing front-end for Rust | https://github.com/camshaft/bolero | 20 | 2| 
