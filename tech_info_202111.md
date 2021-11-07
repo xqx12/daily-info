@@ -100,7 +100,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211107T13:11:59Z | Null | https://github.com/zephr1213/Pyro-Backdoor-Whitelist | 0 | 0| 
+| 20211107T13:20:43Z | Null | https://github.com/zephr1213/Pyro-Backdoor-Whitelist | 0 | 0| 
 | 20211107T10:53:35Z | Python exploit for vsftpd 2.3.4 - Backdoor Command Execution | https://github.com/padsalatushal/CVE-2011-2523 | 1 | 0| 
 | 20211107T10:47:56Z | Create a fully undetectable backdoor with simple steps. | https://github.com/3ct0s/fud-backdoor | 0 | 0| 
 | 20211107T09:55:25Z | Null | https://github.com/118fz/Backdoor | 1 | 0| 
