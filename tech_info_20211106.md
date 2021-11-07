@@ -48,7 +48,6 @@
 | --- | --- | --- | --- | ---| 
 | 20211106T23:27:56Z | Exploit developers | https://github.com/NemsploitsTM/Nem-AtKn-SPloits_TM | 0 | 0| 
 | 20211106T23:12:47Z | [EMNLP 2021] Improving and Simplifying Pattern Exploiting Training | https://github.com/rrmenon10/ADAPET | 78 | 3| 
-| 20211106T23:03:02Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211106T23:01:38Z | simple C vulnerable windows program for practicing and learning windows exploitation.  | https://github.com/hamza07-w/vuln-windows-application | 0 | 0| 
 | 20211106T22:41:48Z | The code for the TickShift exploit | https://github.com/HausemasterIssue/TickShift | 13 | 6| 
 | 20211106T22:35:28Z | Null | https://github.com/Youheng-Lue/art-exploit | 0 | 0| 
@@ -56,6 +55,7 @@
 | 20211106T21:42:20Z | Network Exploitation Scanner, among other things | https://github.com/raging-loon/nxs | 0 | 0| 
 | 20211106T21:37:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10295 | 1770| 
 | 20211106T20:38:57Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 99 | 229| 
+| 20211106T20:17:59Z | Null | https://github.com/BarniDaShowcaserr/Exploiter-Community | 0 | 0| 
 
 
 # backdoor on Github 推荐
