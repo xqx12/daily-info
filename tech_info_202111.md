@@ -46,9 +46,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211107T01:36:14Z | CVE-2021-42327 | WIP kernel exploit for minor bug i found in amd gpu driver | https://github.com/docfate111/CVE-2021-42327 | | 
-| 20211106T20:48:33Z | CVE-2021-22205 | CVE-2021-22205& GitLab CE/EE RCE | https://github.com/Al1ex/CVE-2021-22205 | | 
-| 20211106T18:35:46Z | CVE-2021-20837 | XMLRPC  - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | | 
+| 20211107T12:47:06Z | CVE-2021-22205 | CVE-2021-22205& GitLab CE/EE RCE | https://github.com/Al1ex/CVE-2021-22205 | | 
+| 20211107T10:53:15Z | CVE-2021-20837 | XMLRPC  - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | | 
+| 20211107T04:05:10Z | CVE-2021-42327 | WIP kernel exploit for minor bug i found in amd gpu driver | https://github.com/docfate111/CVE-2021-42327 | | 
 | 20211106T17:49:42Z | CVE-2021-42671 | CVE-2021-42671 - Broken access control vulnerability in the Engineers online portal system.  | https://github.com/TheHackingRabbi/CVE-2021-42671 | | 
 | 20211106T17:49:03Z | CVE-2021-42670 | CVE-2021-42670 - SQL Injection vulnerability in the Engineers online portal system.  | https://github.com/TheHackingRabbi/CVE-2021-42670 | | 
 | 20211106T17:48:05Z | CVE-2021-42669 | CVE-2021-42669 - Remote code execution via unrestricted file upload vulnerability in the Engineers online portal system. | https://github.com/TheHackingRabbi/CVE-2021-42669 | | 
@@ -61,6 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211107T05:51:08Z | Spring 2021 Geography 817 work folder  | https://github.com/klee12/klee12.github.io | 0 | 0| 
 | 20211106T17:36:35Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2918 | 83| 
 | 20211106T17:08:57Z | Config files for my GitHub profile. | https://github.com/MaxKleem/MaxKleem | 0 | 0| 
 | 20211106T11:44:39Z | Personal Blog | https://github.com/klee1611/klee1611.github.io | 1 | 1| 
@@ -70,46 +71,45 @@
 | 20211104T21:30:15Z | Minecraft Mod. Allows breaking only one half of a double slab block. | https://github.com/ModdingForBlockheads/KleeSlabs | 9 | 3| 
 | 20211103T23:16:39Z | Null | https://github.com/klee669/klee669.github.io | 0 | 0| 
 | 20211103T18:36:46Z | Null | https://github.com/ayazip/witch-klee | 0 | 0| 
-| 20211103T12:25:13Z | Dynamic and symbolic taint analysis for multi-thread programs | https://github.com/xdzhang-xjtu/kleem | 0 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211107T11:30:08Z | 🎻 Requiem: Modular exploit generation using symbolic execution | https://github.com/aesophor/requiem | 14 | 3| 
+| 20211107T11:25:46Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 180 | 39| 
 | 20211106T22:25:31Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 76 | 31| 
-| 20211105T19:04:33Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 180 | 39| 
 | 20211104T01:03:30Z | Null | https://github.com/yuvalkirstain/s2e-coref | 18 | 7| 
-| 20211103T14:00:55Z | 🎻 Requiem: Modular exploit generation using symbolic execution | https://github.com/aesophor/requiem | 14 | 3| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211107T01:56:59Z | an ios zero day exploit | https://github.com/eblair2/ios0day-poc | 0 | 0| 
-| 20211107T01:56:20Z | Tension Wrench is an interactive security brainstorming guide website that helps software engineers brainstorm things attackers might try to do to exploit a software system and ways to defend against them. | https://github.com/pmalmsten/tension-wrench | 0 | 0| 
-| 20211107T01:51:16Z | a webkit exploit on ios 12 | https://github.com/eblair2/webkitexploit-poc | 0 | 0| 
-| 20211107T01:36:14Z | WIP kernel exploit for minor bug i found in amd gpu driver | https://github.com/docfate111/CVE-2021-42327 | 0 | 0| 
-| 20211107T01:13:41Z | [Roblox] Downtown RP ESP (Gun Crates, Printers) -- genta | https://github.com/subn0de/Roblox_Exploits | 0 | 0| 
-| 20211107T01:12:06Z | Null | https://github.com/HonestlyDex/DexHubWeb | 0 | 1| 
-| 20211107T01:03:16Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
-| 20211107T00:48:55Z | The Next-Gen Roblox Exploit Hub | https://github.com/HonestlyDex/DexHub | 1 | 0| 
-| 20211106T23:27:56Z | Exploit developers | https://github.com/NemsploitsTM/Nem-AtKn-SPloits_TM | 0 | 0| 
-| 20211106T23:12:47Z | [EMNLP 2021] Improving and Simplifying Pattern Exploiting Training | https://github.com/rrmenon10/ADAPET | 78 | 3| 
+| 20211107T12:55:51Z | HEVD | https://github.com/ReJimp/Kernel_Exploit | 2 | 0| 
+| 20211107T12:43:01Z | Null | https://github.com/VisualKitten1/exploits | 0 | 0| 
+| 20211107T12:41:36Z | Null | https://github.com/pwn4all/exploit | 0 | 0| 
+| 20211107T12:33:49Z | Null | https://github.com/TheForster/iForsterExploit | 0 | 0| 
+| 20211107T12:28:51Z | Null | https://github.com/YTZirex/Zirexium-Exploit | 0 | 0| 
+| 20211107T12:26:24Z | Discord Exploits I%ve gathered over the years, No longer maintained. | https://github.com/Cu3t0m/discord_exploits | 0 | 0| 
+| 20211107T12:06:31Z | collection of all exploits I own. | https://github.com/gxthbxy/Exploits | 0 | 0| 
+| 20211107T12:03:14Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
+| 20211107T11:53:39Z | Firmware patcher for Xiaomi routers | https://github.com/openwrt-xiaomi/xmir-patcher | 2 | 0| 
+| 20211107T11:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10294 | 1770| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211107T10:53:35Z | Python exploit for vsftpd 2.3.4 - Backdoor Command Execution | https://github.com/padsalatushal/CVE-2011-2523 | 1 | 0| 
+| 20211107T10:47:56Z | Create a fully undetectable backdoor with simple steps. | https://github.com/3ct0s/fud-backdoor | 0 | 0| 
+| 20211107T09:55:25Z | Null | https://github.com/118fz/Backdoor | 1 | 0| 
+| 20211107T09:48:37Z | Remote control software, supported Windows/Unix/MacOS/Linux(x86/x64/mips/arm) | https://github.com/h1zzz/purewater | 5 | 0| 
+| 20211107T09:11:30Z | A python reverse shell backdoor generator alongside a TCP listener. | https://github.com/kknownymouss/Python-Backdoor-Generator | 0 | 0| 
 | 20211107T01:52:26Z | Null | https://github.com/zephr1213/Pyro-Backdoor-Whitelist | 0 | 0| 
 | 20211106T23:24:35Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 47 | 15| 
-| 20211106T22:51:00Z | A python backdoor generator alongside a TCP listener. | https://github.com/kknownymouss/Python-Backdoor-Generator | 0 | 0| 
 | 20211106T22:41:38Z | Null | https://github.com/samuelventura/nerves_backdoor | 0 | 0| 
 | 20211106T21:32:42Z | Null | https://github.com/Fartlicker777/Backdoor-Hacking | 0 | 0| 
 | 20211106T17:35:32Z | Null | https://github.com/DanilMinni/backdoor_691 | 0 | 1| 
-| 20211106T14:00:21Z | OWASP ZAP add-on containing the web-backdoors and attack files from FuzzDB | https://github.com/zaproxy/fuzzdb-offensive | 7 | 6| 
-| 20211106T11:40:11Z | Null | https://github.com/yashgola99/Reverse-Backdoor | 0 | 0| 
-| 20211106T09:52:56Z | Create a fully undetectable backdoor with simple steps. | https://github.com/3ct0s/fud-backdoor | 0 | 0| 
-| 20211106T06:49:26Z | Null | https://github.com/fgmed/backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -136,16 +136,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211107T01:51:04Z | This mockup website is meant to be hacked using Fuzzing and Brute Force | https://github.com/NesaByte/BTN-HappyMe- | 0 | 1| 
-| 20211107T01:12:02Z | A Software Package for Fuzzing Autonomous Driving Systems in Simulators | https://github.com/AIasd/ADFuzz | 0 | 0| 
-| 20211107T00:20:33Z | Null | https://github.com/epi052/fuzzing-101-solutions | 1 | 0| 
-| 20211107T00:09:37Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 33 | 12| 
-| 20211107T00:09:29Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2157 | 423| 
-| 20211106T23:51:03Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6790 | 1411| 
-| 20211106T23:34:28Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
-| 20211106T23:15:46Z | fuzz and property testing front-end for Rust | https://github.com/camshaft/bolero | 20 | 2| 
-| 20211106T23:04:26Z | https://github.com/wcventure/FuzzingPaper | https://github.com/mishmashclone/wcventure-FuzzingPaper | 6 | 1| 
-| 20211106T22:50:09Z | Config files for my GitHub profile. | https://github.com/Fuzzeadnan/Fuzzeadnan | 0 | 0| 
+| 20211107T12:50:06Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20211107T12:47:49Z | Companion repository to the Fuzzing101 with LibAFL series of blog posts. | https://github.com/epi052/fuzzing-101-solutions | 1 | 0| 
+| 20211107T12:45:05Z | Null | https://github.com/Sibi-ROS-coder/ideal-wafflez-fuzzy | 0 | 0| 
+| 20211107T12:39:33Z | Null | https://github.com/mihett05/fuzzy-voting-app | 0 | 0| 
+| 20211107T12:20:53Z | Corpus for Genji | https://github.com/genjidb/go-fuzz-corpus | 1 | 1| 
+| 20211107T12:13:23Z | Take the current implementation and turning a microservice architecture | https://github.com/ccesarrod/FuzzyMicrosrvices | 0 | 0| 
+| 20211107T11:54:16Z | Qarminer is fuzzer which automatically test Godot and its modules | https://github.com/qarmin/Qarminer | 5 | 1| 
+| 20211107T10:44:58Z | Null | https://github.com/Brian0147/fuzzy-octo-meme | 0 | 0| 
+| 20211107T10:09:44Z | They are modules that process signals with fuzzy mathematics | https://github.com/symbolicLOGIC-labs/VCV-Rack-Fuzzy-Logic-Modules | 0 | 0| 
+| 20211107T10:08:51Z | You input the rules to process the signals with fuzzy logic | https://github.com/symbolicLOGIC-labs/VCV-Rack-Fuzzy-Logic-Processor | 0 | 0| 
 
 
 
