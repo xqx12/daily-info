@@ -63,6 +63,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211107T11:30:08Z | 🎻 Requiem: Modular exploit generation using symbolic execution | https://github.com/aesophor/requiem | 14 | 3| 
+| 20211107T11:25:46Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 180 | 39| 
+| 20211107T09:27:50Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 168 | 10| 
+| 20211107T09:21:21Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2516 | 374| 
 
 
 # big4 on Github 推荐
