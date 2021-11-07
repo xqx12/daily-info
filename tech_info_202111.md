@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211107T01:36:14Z | CVE-2021-42327 | WIP kernel exploit for minor bug i found in amd gpu driver | https://github.com/docfate111/CVE-2021-42327 | | 
 | 20211106T20:48:33Z | CVE-2021-22205 | CVE-2021-22205& GitLab CE/EE RCE | https://github.com/Al1ex/CVE-2021-22205 | | 
 | 20211106T18:35:46Z | CVE-2021-20837 | XMLRPC  - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | | 
 | 20211106T17:49:42Z | CVE-2021-42671 | CVE-2021-42671 - Broken access control vulnerability in the Engineers online portal system.  | https://github.com/TheHackingRabbi/CVE-2021-42671 | | 
@@ -55,7 +56,6 @@
 | 20211106T17:46:36Z | CVE-2021-42667 | CVE-2021-42667 - SQL Injection vulnerability in the Online event booking and reservation system. | https://github.com/TheHackingRabbi/CVE-2021-42667 | | 
 | 20211106T17:45:39Z | CVE-2021-42666 | CVE-2021-42666 - SQL Injection vulnerability in the Engineers online portal system.  | https://github.com/TheHackingRabbi/CVE-2021-42666 | | 
 | 20211106T17:44:14Z | CVE-2021-42665 | CVE-2021-42665 - SQL Injection authentication bypass vulnerability in the Engineers online portal system.  | https://github.com/TheHackingRabbi/CVE-2021-42665 | | 
-| 20211106T17:43:07Z | CVE-2021-42664 |  CVE-2021-42664 - Stored Cross-Site Scripting vulnerability in the Engineers online portal system. | https://github.com/TheHackingRabbi/CVE-2021-42664 | | 
 
 
 # klee on Github 推荐
@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211107T01:36:14Z | WIP kernel exploit for minor bug i found in amd gpu driver | https://github.com/docfate111/CVE-2021-42327 | 0 | 0| 
 | 20211107T01:13:41Z | [Roblox] Downtown RP ESP (Gun Crates, Printers) -- genta | https://github.com/subn0de/Roblox_Exploits | 0 | 0| 
 | 20211107T01:12:06Z | Null | https://github.com/HonestlyDex/DexHubWeb | 0 | 1| 
 | 20211107T01:03:16Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
@@ -94,7 +95,6 @@
 | 20211106T23:01:38Z | simple C vulnerable windows program for practicing and learning windows exploitation.  | https://github.com/hamza07-w/vuln-windows-application | 0 | 0| 
 | 20211106T22:41:48Z | The code for the TickShift exploit | https://github.com/HausemasterIssue/TickShift | 13 | 6| 
 | 20211106T22:35:28Z | Null | https://github.com/Youheng-Lue/art-exploit | 0 | 0| 
-| 20211106T22:28:26Z | A simulation Hearthstone, written in Python 3.8 and exploiting Panda3D, an open-source game engine. | https://github.com/AlarmClockCrusher/PythonHearthstone | 1 | 0| 
 
 
 # backdoor on Github 推荐
