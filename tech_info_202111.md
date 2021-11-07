@@ -100,12 +100,12 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211107T13:11:59Z | Null | https://github.com/zephr1213/Pyro-Backdoor-Whitelist | 0 | 0| 
 | 20211107T10:53:35Z | Python exploit for vsftpd 2.3.4 - Backdoor Command Execution | https://github.com/padsalatushal/CVE-2011-2523 | 1 | 0| 
 | 20211107T10:47:56Z | Create a fully undetectable backdoor with simple steps. | https://github.com/3ct0s/fud-backdoor | 0 | 0| 
 | 20211107T09:55:25Z | Null | https://github.com/118fz/Backdoor | 1 | 0| 
 | 20211107T09:48:37Z | Remote control software, supported Windows/Unix/MacOS/Linux(x86/x64/mips/arm) | https://github.com/h1zzz/purewater | 5 | 0| 
 | 20211107T09:11:30Z | A python reverse shell backdoor generator alongside a TCP listener. | https://github.com/kknownymouss/Python-Backdoor-Generator | 0 | 0| 
-| 20211107T01:52:26Z | Null | https://github.com/zephr1213/Pyro-Backdoor-Whitelist | 0 | 0| 
 | 20211106T23:24:35Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 47 | 15| 
 | 20211106T22:41:38Z | Null | https://github.com/samuelventura/nerves_backdoor | 0 | 0| 
 | 20211106T21:32:42Z | Null | https://github.com/Fartlicker777/Backdoor-Hacking | 0 | 0| 
@@ -136,8 +136,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211107T13:10:04Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211107T13:01:25Z | Udemy RPG tutorial | https://github.com/Arairn/fuzzy-carnival | 0 | 0| 
-| 20211107T12:50:06Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211107T12:47:49Z | Companion repository to the Fuzzing101 with LibAFL series of blog posts. | https://github.com/epi052/fuzzing-101-solutions | 1 | 0| 
 | 20211107T12:45:05Z | Null | https://github.com/Sibi-ROS-coder/ideal-wafflez-fuzzy | 0 | 0| 
 | 20211107T12:39:33Z | Null | https://github.com/mihett05/fuzzy-voting-app | 0 | 0| 
