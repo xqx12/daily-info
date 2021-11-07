@@ -46,22 +46,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211106T13:20:56Z | CVE-2021-22205 | CVE-2021-22205& GitLab CE/EE RCE | https://github.com/Al1ex/CVE-2021-22205 | | 
-| 20211106T12:24:56Z | CVE-2021-38001 | Null | https://github.com/Peterpan0927/TFC-Chrome-v8-bug-CVE-2021-38001-poc | | 
-| 20211106T10:41:41Z | CVE-2021-22205 | CVE-2021-22205未授权漏洞批量检测与利用工具 | https://github.com/Seals6/CVE-2021-22205 | | 
-| 20211106T02:59:16Z | CVE-2021-37678 | TP Seguridad Informática UTN FRBA 2021 | https://github.com/fran-CICS/ExploitTensorflowCVE-2021-37678 | | 
-| 20211106T00:18:40Z | CVE-2021-42327 | WIP kernel exploit for minor bug i found in amd gpu driver | https://github.com/docfate111/CVE-2021-42327 | | 
-| 20211105T21:36:14Z | CVE-2021-20837 | XMLRPC  - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | | 
-| 20211105T21:05:01Z | CVE-2021-33026 | Pickle Serialization Remote Code Execution - Memcached Poisoning | https://github.com/CarlosG13/CVE-2021-33026 | | 
-| 20211105T20:46:06Z | CVE-2021-42694 | Generate malicious files using recently published homoglyphic-attack (CVE-2021-42694) | https://github.com/js-on/CVE-2021-42694 | | 
-| 20211105T20:43:08Z | CVE-2021-42574 | Generate malicious files using recently published bidi-attack (CVE-2021-42574) | https://github.com/js-on/CVE-2021-42574 | | 
-| 20211105T17:05:31Z | CVE-2021-22205 | Exploit for GitLab CVE-2021-22205 Unauthenticated Remote Code Execution | https://github.com/runsel/GitLab-CVE-2021-22205- | | 
+| 20211106T20:48:33Z | CVE-2021-22205 | CVE-2021-22205& GitLab CE/EE RCE | https://github.com/Al1ex/CVE-2021-22205 | | 
+| 20211106T18:35:46Z | CVE-2021-20837 | XMLRPC  - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | | 
+| 20211106T17:49:42Z | CVE-2021-42671 | CVE-2021-42671 - Broken access control vulnerability in the Engineers online portal system.  | https://github.com/TheHackingRabbi/CVE-2021-42671 | | 
+| 20211106T17:49:03Z | CVE-2021-42670 | CVE-2021-42670 - SQL Injection vulnerability in the Engineers online portal system.  | https://github.com/TheHackingRabbi/CVE-2021-42670 | | 
+| 20211106T17:48:05Z | CVE-2021-42669 | CVE-2021-42669 - Remote code execution via unrestricted file upload vulnerability in the Engineers online portal system. | https://github.com/TheHackingRabbi/CVE-2021-42669 | | 
+| 20211106T17:47:22Z | CVE-2021-42668 | CVE-2021-42668 - SQL Injection vulnerability in the Engineers online portal system.  | https://github.com/TheHackingRabbi/CVE-2021-42668 | | 
+| 20211106T17:46:36Z | CVE-2021-42667 | CVE-2021-42667 - SQL Injection vulnerability in the Online event booking and reservation system. | https://github.com/TheHackingRabbi/CVE-2021-42667 | | 
+| 20211106T17:45:39Z | CVE-2021-42666 | CVE-2021-42666 - SQL Injection vulnerability in the Engineers online portal system.  | https://github.com/TheHackingRabbi/CVE-2021-42666 | | 
+| 20211106T17:44:14Z | CVE-2021-42665 | CVE-2021-42665 - SQL Injection authentication bypass vulnerability in the Engineers online portal system.  | https://github.com/TheHackingRabbi/CVE-2021-42665 | | 
+| 20211106T17:43:07Z | CVE-2021-42664 |  CVE-2021-42664 - Stored Cross-Site Scripting vulnerability in the Engineers online portal system. | https://github.com/TheHackingRabbi/CVE-2021-42664 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211106T12:01:49Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2917 | 83| 
+| 20211106T17:36:35Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2918 | 83| 
+| 20211106T17:08:57Z | Config files for my GitHub profile. | https://github.com/MaxKleem/MaxKleem | 0 | 0| 
 | 20211106T11:44:39Z | Personal Blog | https://github.com/klee1611/klee1611.github.io | 1 | 1| 
 | 20211106T05:20:33Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1808 | 515| 
 | 20211105T19:00:04Z | kleeboard is attacking kleeboard in typescript | https://github.com/keyboard2543/kleeboard-is-attacking-keyboard | 0 | 0| 
@@ -70,12 +71,12 @@
 | 20211103T23:16:39Z | Null | https://github.com/klee669/klee669.github.io | 0 | 0| 
 | 20211103T18:36:46Z | Null | https://github.com/ayazip/witch-klee | 0 | 0| 
 | 20211103T12:25:13Z | Dynamic and symbolic taint analysis for multi-thread programs | https://github.com/xdzhang-xjtu/kleem | 0 | 0| 
-| 20211103T07:22:08Z | Null | https://github.com/Hanseltu/klee-n-aeg-final | 0 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211106T22:25:31Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 76 | 31| 
 | 20211105T19:04:33Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 180 | 39| 
 | 20211104T01:03:30Z | Null | https://github.com/yuvalkirstain/s2e-coref | 18 | 7| 
 | 20211103T14:00:55Z | 🎻 Requiem: Modular exploit generation using symbolic execution | https://github.com/aesophor/requiem | 14 | 3| 
@@ -84,31 +85,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211106T13:50:41Z | practicing writing full chain exploits | https://github.com/whoismissing/full-chain-practice | 0 | 0| 
-| 20211106T13:33:14Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 6586 | 1819| 
-| 20211106T13:26:35Z | Morgecx Exploit | https://github.com/DaFAKEOrREAL/MorgecxExploit | 0 | 0| 
-| 20211106T13:24:21Z | My notes for Linux x86 exploit development of the exercises in protostar from exploit education | https://github.com/sidchn/Protostar-Exploit-Development-Exercise | 0 | 0| 
-| 20211106T13:21:37Z | Null | https://github.com/jtalamini/Exploits | 0 | 0| 
-| 20211106T13:03:04Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
-| 20211106T12:53:27Z | A Series of Baseband & LMP Exploits against Bluetooth Classic Controllers | https://github.com/Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks | 61 | 12| 
-| 20211106T12:05:11Z | Wii archive containing WADs including official, unofficial and system IOS/menu, Exploits, Homebrew Apps, DevKit, and more. | https://github.com/ForwarderFactory/wii | 3 | 0| 
-| 20211106T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10292 | 1769| 
-| 20211106T11:29:35Z | Collection of resources to learn pentesting, exploit development, obfuscation & much more. | https://github.com/nop-tech/learning-resources | 3 | 0| 
+| 20211106T23:27:56Z | Exploit developers | https://github.com/NemsploitsTM/Nem-AtKn-SPloits_TM | 0 | 0| 
+| 20211106T23:12:47Z | [EMNLP 2021] Improving and Simplifying Pattern Exploiting Training | https://github.com/rrmenon10/ADAPET | 78 | 3| 
+| 20211106T23:03:02Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
+| 20211106T23:01:38Z | simple C vulnerable windows program for practicing and learning windows exploitation.  | https://github.com/hamza07-w/vuln-windows-application | 0 | 0| 
+| 20211106T22:41:48Z | The code for the TickShift exploit | https://github.com/HausemasterIssue/TickShift | 13 | 6| 
+| 20211106T22:35:28Z | Null | https://github.com/Youheng-Lue/art-exploit | 0 | 0| 
+| 20211106T22:28:26Z | A simulation Hearthstone, written in Python 3.8 and exploiting Panda3D, an open-source game engine. | https://github.com/AlarmClockCrusher/PythonHearthstone | 1 | 0| 
+| 20211106T21:42:20Z | Network Exploitation Scanner, among other things | https://github.com/raging-loon/nxs | 0 | 0| 
+| 20211106T21:37:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10295 | 1770| 
+| 20211106T20:38:57Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 99 | 229| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211106T11:53:37Z | OWASP ZAP add-on containing the web-backdoors and attack files from FuzzDB | https://github.com/zaproxy/fuzzdb-offensive | 7 | 6| 
+| 20211106T23:24:35Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 47 | 15| 
+| 20211106T22:51:00Z | A python backdoor generator alongside a TCP listener. | https://github.com/kknownymouss/Python-Backdoor-Generator | 0 | 0| 
+| 20211106T22:41:38Z | Null | https://github.com/samuelventura/nerves_backdoor | 0 | 0| 
+| 20211106T21:32:42Z | Null | https://github.com/Fartlicker777/Backdoor-Hacking | 0 | 0| 
+| 20211106T17:35:32Z | Null | https://github.com/DanilMinni/backdoor_691 | 0 | 1| 
+| 20211106T14:00:21Z | OWASP ZAP add-on containing the web-backdoors and attack files from FuzzDB | https://github.com/zaproxy/fuzzdb-offensive | 7 | 6| 
 | 20211106T11:40:11Z | Null | https://github.com/yashgola99/Reverse-Backdoor | 0 | 0| 
 | 20211106T09:52:56Z | Create a fully undetectable backdoor with simple steps. | https://github.com/3ct0s/fud-backdoor | 0 | 0| 
 | 20211106T06:49:26Z | Null | https://github.com/fgmed/backdoor | 0 | 0| 
 | 20211106T06:25:55Z | Unofficial pytorch implementation of RobNet(Defense-Resistant Backdoor Attacks on DNN) | https://github.com/dhkim2810/RobNet | 0 | 0| 
-| 20211106T03:46:44Z | Database of backdoor passwords used by Malware, uncovered by the Malvuln project. | https://github.com/malvuln/viruscreds | 7 | 2| 
-| 20211106T03:31:35Z | Null | https://github.com/ninjabuster/Backdoor | 0 | 0| 
-| 20211106T01:43:44Z | Codebase for my Level 4 University Project: Static Analysis of Executable Code to Detect Backdoors on IoT Devices | https://github.com/sophieboyle/Static-IoT-Backdoor-Detection | 0 | 0| 
-| 20211105T20:03:36Z | The insane hackerman backdoor. | https://github.com/Bakdooro/Bakdooro | 10 | 2| 
-| 20211105T18:38:33Z | Remote control software, supported Windows/Unix/MacOS/Linux(x86/x64/mips/arm) | https://github.com/h1zzz/purewater | 5 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -135,16 +136,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211106T13:39:39Z | Null | https://github.com/Bariq09/Penentuan-Kerawanan-Longsor-Metode-Fuzzy-Logic | 0 | 0| 
-| 20211106T13:34:22Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20211106T13:33:52Z | Null | https://github.com/raffasuyarni/fuzzy-succotash | 0 | 0| 
-| 20211106T13:24:17Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6790 | 1411| 
-| 20211106T13:14:17Z | Null | https://github.com/bryanlimkt/copyright-fuzzy-matching | 0 | 0| 
-| 20211106T13:03:16Z | Effect Pedal For Bass and Electric Guitar | https://github.com/efforal/Guitar-Fuzz-Pedal | 0 | 0| 
-| 20211106T12:57:21Z | Simulation of K-Means algorithm using fuzzy concept | https://github.com/mahdivahedi/Fuzzy_C-means_clustering | 0 | 0| 
-| 20211106T12:39:23Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 574 | 62| 
-| 20211106T12:28:31Z | Null | https://github.com/LukaszReinke/FuzzyLogic | 0 | 0| 
-| 20211106T12:13:11Z | A collection of user-space Linux kernel specific guided fuzzers based on LKL | https://github.com/atrosinenko/kbdysch | 56 | 7| 
+| 20211106T23:53:05Z | A Software Package for Fuzzing Autonomous Driving Systems in Simulators | https://github.com/AIasd/ADFuzz | 0 | 0| 
+| 20211106T23:51:03Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6790 | 1411| 
+| 20211106T23:34:28Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
+| 20211106T23:15:46Z | fuzz and property testing front-end for Rust | https://github.com/camshaft/bolero | 20 | 2| 
+| 20211106T23:04:26Z | https://github.com/wcventure/FuzzingPaper | https://github.com/mishmashclone/wcventure-FuzzingPaper | 6 | 1| 
+| 20211106T22:50:09Z | Config files for my GitHub profile. | https://github.com/Fuzzeadnan/Fuzzeadnan | 0 | 0| 
+| 20211106T22:33:58Z | This mockup website is meant to be hacked using Fuzzing and Brute Force | https://github.com/NesaByte/BTN-HappyMe- | 0 | 1| 
+| 20211106T21:48:20Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1097 | 48| 
+| 20211106T21:44:35Z | Null | https://github.com/epi052/fuzzing-101-solutions | 0 | 0| 
+| 20211106T21:32:29Z | The MATLAB code for the research paper titled %Multi-Class Fuzzily Weighted Adaptive Boosting-based Self-Organising Fuzzy Inference Ensemble Systems for Classification%. | https://github.com/Gu-X/Multi-Class-Fuzzily-Weighted-Adaptive-Boosting-based-Self-Organising-Fuzzy-Inference-Ensemble-System | 0 | 0| 
 
 
 
