@@ -136,6 +136,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211107T13:01:25Z | Udemy RPG tutorial | https://github.com/Arairn/fuzzy-carnival | 0 | 0| 
 | 20211107T12:50:06Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211107T12:47:49Z | Companion repository to the Fuzzing101 with LibAFL series of blog posts. | https://github.com/epi052/fuzzing-101-solutions | 1 | 0| 
 | 20211107T12:45:05Z | Null | https://github.com/Sibi-ROS-coder/ideal-wafflez-fuzzy | 0 | 0| 
@@ -145,7 +146,6 @@
 | 20211107T11:54:16Z | Qarminer is fuzzer which automatically test Godot and its modules | https://github.com/qarmin/Qarminer | 5 | 1| 
 | 20211107T10:44:58Z | Null | https://github.com/Brian0147/fuzzy-octo-meme | 0 | 0| 
 | 20211107T10:09:44Z | They are modules that process signals with fuzzy mathematics | https://github.com/symbolicLOGIC-labs/VCV-Rack-Fuzzy-Logic-Modules | 0 | 0| 
-| 20211107T10:08:51Z | You input the rules to process the signals with fuzzy logic | https://github.com/symbolicLOGIC-labs/VCV-Rack-Fuzzy-Logic-Processor | 0 | 0| 
 
 
 
