@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211107T01:51:16Z | a webkit exploit on ios 12 | https://github.com/eblair2/webkitexploit-poc | 0 | 0| 
 | 20211107T01:36:14Z | WIP kernel exploit for minor bug i found in amd gpu driver | https://github.com/docfate111/CVE-2021-42327 | 0 | 0| 
 | 20211107T01:13:41Z | [Roblox] Downtown RP ESP (Gun Crates, Printers) -- genta | https://github.com/subn0de/Roblox_Exploits | 0 | 0| 
 | 20211107T01:12:06Z | Null | https://github.com/HonestlyDex/DexHubWeb | 0 | 1| 
@@ -94,12 +95,12 @@
 | 20211106T23:12:47Z | [EMNLP 2021] Improving and Simplifying Pattern Exploiting Training | https://github.com/rrmenon10/ADAPET | 78 | 3| 
 | 20211106T23:01:38Z | simple C vulnerable windows program for practicing and learning windows exploitation.  | https://github.com/hamza07-w/vuln-windows-application | 0 | 0| 
 | 20211106T22:41:48Z | The code for the TickShift exploit | https://github.com/HausemasterIssue/TickShift | 13 | 6| 
-| 20211106T22:35:28Z | Null | https://github.com/Youheng-Lue/art-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211107T01:52:26Z | Null | https://github.com/zephr1213/Pyro-Backdoor-Whitelist | 0 | 0| 
 | 20211106T23:24:35Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 47 | 15| 
 | 20211106T22:51:00Z | A python backdoor generator alongside a TCP listener. | https://github.com/kknownymouss/Python-Backdoor-Generator | 0 | 0| 
 | 20211106T22:41:38Z | Null | https://github.com/samuelventura/nerves_backdoor | 0 | 0| 
@@ -109,7 +110,6 @@
 | 20211106T11:40:11Z | Null | https://github.com/yashgola99/Reverse-Backdoor | 0 | 0| 
 | 20211106T09:52:56Z | Create a fully undetectable backdoor with simple steps. | https://github.com/3ct0s/fud-backdoor | 0 | 0| 
 | 20211106T06:49:26Z | Null | https://github.com/fgmed/backdoor | 0 | 0| 
-| 20211106T06:25:55Z | Unofficial pytorch implementation of RobNet(Defense-Resistant Backdoor Attacks on DNN) | https://github.com/dhkim2810/RobNet | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -136,6 +136,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211107T01:51:04Z | This mockup website is meant to be hacked using Fuzzing and Brute Force | https://github.com/NesaByte/BTN-HappyMe- | 0 | 1| 
 | 20211107T01:12:02Z | A Software Package for Fuzzing Autonomous Driving Systems in Simulators | https://github.com/AIasd/ADFuzz | 0 | 0| 
 | 20211107T00:20:33Z | Null | https://github.com/epi052/fuzzing-101-solutions | 1 | 0| 
 | 20211107T00:09:37Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 33 | 12| 
@@ -145,7 +146,6 @@
 | 20211106T23:15:46Z | fuzz and property testing front-end for Rust | https://github.com/camshaft/bolero | 20 | 2| 
 | 20211106T23:04:26Z | https://github.com/wcventure/FuzzingPaper | https://github.com/mishmashclone/wcventure-FuzzingPaper | 6 | 1| 
 | 20211106T22:50:09Z | Config files for my GitHub profile. | https://github.com/Fuzzeadnan/Fuzzeadnan | 0 | 0| 
-| 20211106T22:33:58Z | This mockup website is meant to be hacked using Fuzzing and Brute Force | https://github.com/NesaByte/BTN-HappyMe- | 0 | 1| 
 
 
 
