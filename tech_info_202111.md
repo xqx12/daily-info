@@ -94,7 +94,7 @@
 | 20211106T22:28:26Z | A simulation Hearthstone, written in Python 3.8 and exploiting Panda3D, an open-source game engine. | https://github.com/AlarmClockCrusher/PythonHearthstone | 1 | 0| 
 | 20211106T21:42:20Z | Network Exploitation Scanner, among other things | https://github.com/raging-loon/nxs | 0 | 0| 
 | 20211106T21:37:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10295 | 1770| 
-| 20211106T20:38:57Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 99 | 229| 
+| 20211106T20:38:57Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 99 | 230| 
 
 
 # backdoor on Github 推荐
