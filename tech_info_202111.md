@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211107T01:56:59Z | an ios zero day exploit | https://github.com/eblair2/ios0day-poc | 0 | 0| 
 | 20211107T01:56:20Z | Tension Wrench is an interactive security brainstorming guide website that helps software engineers brainstorm things attackers might try to do to exploit a software system and ways to defend against them. | https://github.com/pmalmsten/tension-wrench | 0 | 0| 
 | 20211107T01:51:16Z | a webkit exploit on ios 12 | https://github.com/eblair2/webkitexploit-poc | 0 | 0| 
 | 20211107T01:36:14Z | WIP kernel exploit for minor bug i found in amd gpu driver | https://github.com/docfate111/CVE-2021-42327 | 0 | 0| 
@@ -94,7 +95,6 @@
 | 20211107T00:48:55Z | The Next-Gen Roblox Exploit Hub | https://github.com/HonestlyDex/DexHub | 1 | 0| 
 | 20211106T23:27:56Z | Exploit developers | https://github.com/NemsploitsTM/Nem-AtKn-SPloits_TM | 0 | 0| 
 | 20211106T23:12:47Z | [EMNLP 2021] Improving and Simplifying Pattern Exploiting Training | https://github.com/rrmenon10/ADAPET | 78 | 3| 
-| 20211106T23:01:38Z | simple C vulnerable windows program for practicing and learning windows exploitation.  | https://github.com/hamza07-w/vuln-windows-application | 0 | 0| 
 
 
 # backdoor on Github 推荐
