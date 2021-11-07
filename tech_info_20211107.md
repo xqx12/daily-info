@@ -37,6 +37,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211107T13:51:59Z | Trabajo de fin de grado, esta tool permite al usuario realizar una pequeña auditoria a la hora de escalar privilegios en windows, la herramienta cuenta con un módulo automático, uno manual, y un módulo de búsqueda para encontrar exploits | https://github.com/ErnestoCubo/autoexploit | 1 | 0| 
 | 20211107T13:36:55Z | Discord Exploits I%ve gathered over the years, No longer maintained. | https://github.com/Cu3t0m/discord_exploits | 0 | 0| 
 | 20211107T13:18:12Z | Null | https://github.com/VisualKitten1/exploits | 0 | 0| 
 | 20211107T13:13:17Z | Null | https://github.com/CartySlackware/Exploit_Test | 0 | 0| 
@@ -46,7 +47,6 @@
 | 20211107T12:41:36Z | Null | https://github.com/pwn4all/exploit | 0 | 0| 
 | 20211107T12:33:49Z | Null | https://github.com/TheForster/iForsterExploit | 0 | 0| 
 | 20211107T12:28:51Z | Null | https://github.com/YTZirex/Zirexium-Exploit | 0 | 0| 
-| 20211107T12:06:31Z | collection of all exploits I own. | https://github.com/gxthbxy/Exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
