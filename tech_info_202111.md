@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211108T13:44:30Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 3713 | 1284| 
 | 20211108T13:38:19Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10301 | 1770| 
 | 20211108T13:35:10Z | Project to optimize the exploitation transition phase in AFLGo | https://github.com/goodtaeeun/AFLGOPT | 0 | 0| 
 | 20211108T13:21:26Z | Null | https://github.com/Tarrylim/xss_exploit_code | 0 | 0| 
@@ -92,7 +93,6 @@
 | 20211108T12:57:39Z | K8博客 | https://github.com/k8gege/k8gege.github.io | 20 | 7| 
 | 20211108T12:45:36Z | Instagram Auto Exploit Tool && Bypass Two Step Verification | https://github.com/jxroot/iux | 0 | 0| 
 | 20211108T12:45:23Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 14| 
-| 20211108T12:24:54Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 3712 | 1284| 
 | 20211108T12:20:59Z | Will leak the waypoint tp exploit here, because everyone has it and no one cares. Will leak it after school. | https://github.com/Hymerine/Fortnite-WaypointTP-Leak | 1 | 0| 
 | 20211108T12:04:29Z | Risk Assessment project to find how likely is a particular vulnerability to be exploited from security perspective. | https://github.com/Shiv-Kumar-Yadav9/Risk-Assessment | 0 | 0| 
 
@@ -100,6 +100,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211108T13:43:07Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1491 | 373| 
 | 20211108T12:32:06Z | Python-based Backdoor. | https://github.com/Senc3951/Backdoor | 0 | 1| 
 | 20211108T12:14:58Z | Null | https://github.com/yashgola99/Reverse-Backdoor | 0 | 0| 
 | 20211108T10:46:37Z | A collection of python written hacking tools consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester credential harvester, keylogger, download&execute, ransomware and reverse_backdoor. | https://github.com/dmdhrumilmistry/pyhtools | 31 | 9| 
@@ -109,7 +110,6 @@
 | 20211108T07:24:21Z | Null | https://github.com/DanilMinni/backdoor_691 | 0 | 1| 
 | 20211108T03:55:52Z | Null | https://github.com/samuelventura/nerves_backdoor | 0 | 0| 
 | 20211108T01:49:02Z | Advanced Backdoor created in python | https://github.com/GA00AV/Reverse-Backdoor | 0 | 0| 
-| 20211107T22:05:25Z | A papermc plugin that allows code execution without any permissions on the server for selected users. | https://github.com/TheSaltyBoys/backdoor-v4 | 5 | 3| 
 
 
 # symbolic execution on Github 推荐
