@@ -85,10 +85,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211108T01:03:19Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211108T00:11:13Z | The world has not been the same since the outbreak and ending of World War 3 in the same year, 2079, when the “Developing Countries” in Africa and Asia finally rebelled against the exploitation by the western “industrial countries”. A massive launching of nuclear and “space” weapons on the side of the latter not only quenched the rebellion, it also caused considerable and irrevocable damage to the very structure of Universe. | https://github.com/4dmud/mud | 4 | 4| 
 | 20211108T00:06:29Z | Multiple hacks that breaks the game | https://github.com/Harry-P-Ness/blooket-hack- | 0 | 0| 
 | 20211108T00:05:46Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10296 | 1771| 
-| 20211108T00:04:18Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211107T23:32:17Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6120 | 1458| 
 | 20211107T23:31:55Z | Une exploitation de WikiData pour reconstruire les relations entre les établissements de l%ESR. | https://github.com/cpesr/wikidataESR | 2 | 1| 
 | 20211107T23:25:31Z | Null | https://github.com/Evil-coder66/HTA-Exploit-Builder | 5 | 7| 
