@@ -136,10 +136,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211108T02:19:02Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211108T02:01:22Z | Recording my learning process of %the fuzzing book% | https://github.com/Tendencyox/Learning_the_Fuzzing_Book_Tutorial | 0 | 0| 
 | 20211108T01:53:56Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 580 | 62| 
 | 20211108T01:51:53Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2163 | 425| 
-| 20211108T01:31:43Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211108T01:18:13Z | Mayhem training and tutorial | https://github.com/dbrumley/fuzzing-cloudshell-tutorial | 0 | 0| 
 | 20211108T00:23:33Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6792 | 1412| 
 | 20211108T00:08:40Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 33 | 12| 
