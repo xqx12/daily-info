@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211108T01:04:40Z | Exploit->Laravel  | https://github.com/118fz/Exploit-Laravel | 0 | 0| 
 | 20211108T01:03:19Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211108T00:11:13Z | The world has not been the same since the outbreak and ending of World War 3 in the same year, 2079, when the “Developing Countries” in Africa and Asia finally rebelled against the exploitation by the western “industrial countries”. A massive launching of nuclear and “space” weapons on the side of the latter not only quenched the rebellion, it also caused considerable and irrevocable damage to the very structure of Universe. | https://github.com/4dmud/mud | 4 | 4| 
 | 20211108T00:06:29Z | Multiple hacks that breaks the game | https://github.com/Harry-P-Ness/blooket-hack- | 0 | 0| 
@@ -94,7 +95,6 @@
 | 20211107T23:25:31Z | Null | https://github.com/Evil-coder66/HTA-Exploit-Builder | 5 | 7| 
 | 20211107T23:20:09Z | Collection  of Capture the Flag Write-Ups: Exploit Dev, Reverse Engineering, Pentesting | https://github.com/francobel/CTF-Writeups | 1 | 0| 
 | 20211107T23:14:12Z | Null | https://github.com/Calvindd2f/exploits | 0 | 0| 
-| 20211107T23:05:45Z | A powerful ROBLOX exploit GUI. (WIP) | https://github.com/vinqo/scripthub | 0 | 0| 
 
 
 # backdoor on Github 推荐
