@@ -85,7 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211108T13:19:53Z | Null | https://github.com/Tarrylim/xss_exploit_code | 0 | 0| 
+| 20211108T13:21:26Z | Null | https://github.com/Tarrylim/xss_exploit_code | 0 | 0| 
 | 20211108T13:03:13Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211108T12:57:39Z | K8博客 | https://github.com/k8gege/k8gege.github.io | 20 | 7| 
 | 20211108T12:45:36Z | Instagram Auto Exploit Tool && Bypass Two Step Verification | https://github.com/jxroot/iux | 0 | 0| 
