@@ -29,7 +29,6 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211107T23:47:22Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2919 | 83| 
 | 20211107T05:51:08Z | Spring 2021 Geography 817 work folder  | https://github.com/klee12/klee12.github.io | 0 | 0| 
 
 
@@ -90,7 +89,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20211107T23:49:20Z | A serverless (AWS based) document generator based on templates | https://github.com/tomazfb/fuzzy-doodle | 0 | 0| 
-| 20211107T23:28:30Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2162 | 425| 
 | 20211107T23:24:03Z | This mockup website is meant to be hacked using Fuzzing and Brute Force | https://github.com/NesaByte/BTN-HappyMe- | 0 | 1| 
 | 20211107T22:48:16Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 628 | 131| 
 | 20211107T22:25:48Z | Fuzz language model that used chatbot | https://github.com/ksjr7-crongcrong/chatbot_fuzzer | 0 | 1| 
@@ -99,6 +97,7 @@
 | 20211107T20:27:09Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
 | 20211107T20:19:19Z | Fuzzy finder for every AWS component | https://github.com/AndreZiviani/aws-fuzzy | 9 | 2| 
 | 20211107T20:09:59Z | Null | https://github.com/suyanianinda/fuzzy-waddle | 0 | 0| 
+| 20211107T19:44:54Z | A simple argument fuzzer written in python3. | https://github.com/RandomVersion/hexfuzzer | 0 | 0| 
 
 
 
