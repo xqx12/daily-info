@@ -136,16 +136,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211108T13:13:33Z | Fuzz language model that used chatbot | https://github.com/ksjr7-crongcrong/chatbot_fuzzer | 0 | 1| 
+| 20211108T13:10:18Z | Naive Bayes Classifiers | https://github.com/Jodavid/FuzzyClass | 0 | 0| 
+| 20211108T13:10:13Z | fuzztechnology dot com website | https://github.com/FuzzTechnology/fuzztech-website | 0 | 0| 
 | 20211108T13:06:03Z | Null | https://github.com/arkazelinda/fuzzy-octo-broccoli | 0 | 0| 
-| 20211108T13:05:33Z | fuzztechnology dot com website | https://github.com/FuzzTechnology/fuzztech-website | 0 | 0| 
 | 20211108T12:52:12Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211108T12:35:53Z | Null | https://github.com/PedroSGui/Transito_AC_Fuzzy | 0 | 0| 
-| 20211108T12:31:25Z | Fuzz language model that used chatbot | https://github.com/ksjr7-crongcrong/chatbot_fuzzer | 0 | 1| 
 | 20211108T12:02:08Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 34 | 12| 
 | 20211108T12:00:33Z | Null | https://github.com/polymorphicengine/Semi-Fuzzy-Quantifiers | 0 | 0| 
 | 20211108T11:59:17Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 629 | 131| 
 | 20211108T11:52:40Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3773 | 888| 
-| 20211108T11:49:46Z | Null | https://github.com/rangan2510/fuzzy-atrous-conv | 0 | 0| 
 
 
 
