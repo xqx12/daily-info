@@ -45,13 +45,13 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211108T13:03:13Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211108T12:57:39Z | K8博客 | https://github.com/k8gege/k8gege.github.io | 20 | 7| 
 | 20211108T12:45:36Z | Instagram Auto Exploit Tool && Bypass Two Step Verification | https://github.com/jxroot/iux | 0 | 0| 
 | 20211108T12:45:23Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 14| 
 | 20211108T12:24:54Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 3712 | 1284| 
 | 20211108T12:20:59Z | Will leak the waypoint tp exploit here, because everyone has it and no one cares. Will leak it after school. | https://github.com/Hymerine/Fortnite-WaypointTP-Leak | 1 | 0| 
 | 20211108T12:04:29Z | Risk Assessment project to find how likely is a particular vulnerability to be exploited from security perspective. | https://github.com/Shiv-Kumar-Yadav9/Risk-Assessment | 0 | 0| 
-| 20211108T12:03:33Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211108T11:56:13Z | The popular GENIE Generator product is used by nearly all accelerator neutrino experiments and it plays a key role in the exploitation of neutrino data. The Generator implements a modern software framework and it includes state-of-the-art physics modules. It captures the latest results of the GENIE global analysis of neutrino scattering data and includes several tunes that were produced using the proprietary Comparisons and Tuning products. The GENIE physics model is universal and comprehensive:  It handles all neutrinos and targets, and all processes relevant from MeV to PeV energy scales. The Generator includes several tools (flux drivers, detector geometry navigators, specialized event generation apps, event reweighting engines) to simulate complex experimental setups in full detail and to support generator-related analysis tasks.  | https://github.com/GENIE-MC/Generator | 25 | 55| 
 | 20211108T11:35:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10300 | 1770| 
 | 20211108T11:31:03Z | CAUTION - Malicious files 💀 | https://github.com/Am0rphous/Malware | 19 | 8| 
@@ -89,15 +89,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211108T02:49:20Z | Config files for my GitHub profile. | https://github.com/fuzzy8p/fuzzy8p | 0 | 0| 
-| 20211108T02:43:23Z | Artifacts for Smartian, a grey-box fuzzer for Ethereum smart contracts. | https://github.com/SoftSec-KAIST/Smartian-Artifact | 2 | 0| 
-| 20211108T02:20:28Z | Mayhem training and tutorial | https://github.com/dbrumley/fuzzing-cloudshell-tutorial | 0 | 0| 
-| 20211108T02:19:02Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20211108T02:01:22Z | Recording my learning process of %the fuzzing book% | https://github.com/Tendencyox/Learning_the_Fuzzing_Book_Tutorial | 0 | 0| 
-| 20211108T01:53:56Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 580 | 62| 
-| 20211108T01:51:53Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2163 | 425| 
-| 20211108T00:23:33Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6792 | 1412| 
-| 20211108T00:08:40Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 33 | 12| 
+| 20211108T12:59:30Z | Null | https://github.com/arkazelinda/fuzzy-octo-broccoli | 0 | 0| 
+| 20211108T12:52:12Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20211108T12:35:53Z | Null | https://github.com/PedroSGui/Transito_AC_Fuzzy | 0 | 0| 
+| 20211108T12:31:25Z | Fuzz language model that used chatbot | https://github.com/ksjr7-crongcrong/chatbot_fuzzer | 0 | 1| 
+| 20211108T12:02:08Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 34 | 12| 
+| 20211108T12:00:33Z | Null | https://github.com/polymorphicengine/Semi-Fuzzy-Quantifiers | 0 | 0| 
+| 20211108T11:59:17Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 629 | 131| 
+| 20211108T11:52:40Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3773 | 888| 
+| 20211108T11:49:46Z | Null | https://github.com/rangan2510/fuzzy-atrous-conv | 0 | 0| 
+| 20211108T11:44:05Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6791 | 1412| 
 
 
 
