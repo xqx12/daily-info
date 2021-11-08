@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211108T01:36:42Z | CVE-2021-1732 | Null | https://github.com/BeneficialCode/CVE-2021-1732 | | 
 | 20211107T22:12:46Z | CVE-2021-40449 | Exploit for CVE-2021-40449 | https://github.com/Kristal-g/CVE-2021-40449_poc | | 
 | 20211107T21:35:35Z | CVE-2021-20837 | XMLRPC  - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | | 
 | 20211107T20:37:58Z | CVE-2021-42327 |  kernel exploit for minor bug i found in amd gpu driver | https://github.com/docfate111/CVE-2021-42327 | | 
@@ -55,7 +56,6 @@
 | 20211106T17:48:05Z | CVE-2021-42669 | CVE-2021-42669 - Remote code execution via unrestricted file upload vulnerability in the Engineers online portal system. | https://github.com/TheHackingRabbi/CVE-2021-42669 | | 
 | 20211106T17:47:22Z | CVE-2021-42668 | CVE-2021-42668 - SQL Injection vulnerability in the Engineers online portal system.  | https://github.com/TheHackingRabbi/CVE-2021-42668 | | 
 | 20211106T17:46:36Z | CVE-2021-42667 | CVE-2021-42667 - SQL Injection vulnerability in the Online event booking and reservation system. | https://github.com/TheHackingRabbi/CVE-2021-42667 | | 
-| 20211106T17:45:39Z | CVE-2021-42666 | CVE-2021-42666 - SQL Injection vulnerability in the Engineers online portal system.  | https://github.com/TheHackingRabbi/CVE-2021-42666 | | 
 
 
 # klee on Github 推荐
@@ -136,6 +136,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211108T01:31:43Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211108T01:18:13Z | Mayhem training and tutorial | https://github.com/dbrumley/fuzzing-cloudshell-tutorial | 0 | 0| 
 | 20211108T00:23:33Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6792 | 1412| 
 | 20211108T00:08:40Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 33 | 12| 
@@ -145,7 +146,6 @@
 | 20211107T22:48:16Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 628 | 131| 
 | 20211107T22:25:48Z | Fuzz language model that used chatbot | https://github.com/ksjr7-crongcrong/chatbot_fuzzer | 0 | 1| 
 | 20211107T21:48:44Z | A Software Package for Fuzzing Autonomous Driving Systems in Simulators | https://github.com/AIasd/ADFuzz | 0 | 0| 
-| 20211107T21:06:27Z | Fuzzy Join needed to update the Sales Data from the company I work in, in this case with hypothetical data. | https://github.com/ViniciusARZ/Fuzzy-Join-w-algorithms | 0 | 0| 
 
 
 
