@@ -10,6 +10,11 @@
 | 20211107 | 基于 Windows Event Log 检测 APT 攻击的 APT-Hunter 更新 2.0 版本 | https://shells.systems/apt-hunter-v2-0-more-than-200-use-cases-and-new-features/| 
 | 20211107 | NPM官方仓库遭遇coa等恶意包投毒攻击 | https://security.tencent.com/index.php/blog/msg/207| 
 | 20211107 | Fortinet 对 Snake Keylogger 恶意软件新变种的分析 | https://www.fortinet.com/blog/threat-research/deep-dive-into-a-fresh-variant-of-snake-keylogger-malware?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+fortinet%2Fblog%2Fthreat-research+%28Fortinet+Threat+Research+Blog%29| 
+| 20211107 | RSA attack tool (mainly for ctf) - retreive private key from weak public key and/or uncipher data | https://github.com/Ganapati/RsaCtfTool| 
+| 20211107 | Fuzzing101 with LibAFL | https://epi052.gitlab.io/notes-to-self/blog/2021-11-01-fuzzing-101-with-libafl/| 
+| 20211107 | Chrome 浏览器架构以及调试环境搭建 | http://seal9055.com/blog/?p=chrome_browser_architecture&d=browser| 
+| 20211107 | iOS 恶意软件静默监视用户，手机右上角没有红点提示 | https://blog.zecops.com/research/how-ios-malware-can-spy-on-users-silently/| 
+| 20211107 | VB2021 会议的 PPT 及视频公开了 | https://vblocalhost.com/conference/| 
 
 
 # 安全维基 推荐

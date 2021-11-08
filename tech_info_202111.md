@@ -10,6 +10,11 @@
 | 20211107 | 基于 Windows Event Log 检测 APT 攻击的 APT-Hunter 更新 2.0 版本 | https://shells.systems/apt-hunter-v2-0-more-than-200-use-cases-and-new-features/| 
 | 20211107 | NPM官方仓库遭遇coa等恶意包投毒攻击 | https://security.tencent.com/index.php/blog/msg/207| 
 | 20211107 | Fortinet 对 Snake Keylogger 恶意软件新变种的分析 | https://www.fortinet.com/blog/threat-research/deep-dive-into-a-fresh-variant-of-snake-keylogger-malware?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+fortinet%2Fblog%2Fthreat-research+%28Fortinet+Threat+Research+Blog%29| 
+| 20211107 | RSA attack tool (mainly for ctf) - retreive private key from weak public key and/or uncipher data | https://github.com/Ganapati/RsaCtfTool| 
+| 20211107 | Fuzzing101 with LibAFL | https://epi052.gitlab.io/notes-to-self/blog/2021-11-01-fuzzing-101-with-libafl/| 
+| 20211107 | Chrome 浏览器架构以及调试环境搭建 | http://seal9055.com/blog/?p=chrome_browser_architecture&d=browser| 
+| 20211107 | iOS 恶意软件静默监视用户，手机右上角没有红点提示 | https://blog.zecops.com/research/how-ios-malware-can-spy-on-users-silently/| 
+| 20211107 | VB2021 会议的 PPT 及视频公开了 | https://vblocalhost.com/conference/| 
 | 20211104 | 天府杯华硕会战的围剿与反围剿的方略. | http://paper.seebug.org/1751/| 
 | 20211104 | IP 生存时间 (TTL) 与跳数限制基础知识介绍。 | https://packetpushers.net/ip-time-to-live-and-hop-limit-basics/| 
 | 20211103 | GitLab Unauthenticated Remote Code Execution CVE-2021-22205 Exploited in the Wild | https://www.rapid7.com/blog/post/2021/11/01/gitlab-unauthenticated-remote-code-execution-cve-2021-22205-exploited-in-the-wild/| 
@@ -21,11 +26,6 @@
 | 20211103 | 研究员 ztz 在 KCon 会议的演讲 PPT “顶级域接管指南” | https://mega.nz/file/h00RXQRQ#xnrVZMZ4sKLEt_uOH4AjEHplNfRinnZHGWB31lfp1WY| 
 | 20211103 | 检测 CONTI 勒索软件所使用的 CobaltStrike 横向渗透方法 | https://www.unh4ck.com/detection-engineering-and-threat-hunting/lateral-movement/detecting-conti-cobaltstrike-lateral-movement-techniques-part-2| 
 | 20211103 | DCOM abuse and lateral movement with Cobalt Strike | https://www.pentestpartners.com/security-blog/dcom-abuse-and-lateral-movement-with-cobalt-strike/| 
-| 20211103 | 通过 eBPF 实现对 Linux 内核的灵活扩展 | http://rk700.github.io/2021/10/11/ebpf-introduction/| 
-| 20211103 | 劫持 Golang 编译测试. | http://paper.seebug.org/1749/| 
-| 20211103 | JavaWeb 内存马二周目通关攻略. | https://tttang.com/archive/1313/| 
-| 20211103 | KCon 2021 部分 PPT 发布. | https://paper.seebug.org/1748/| 
-| 20211103 | Android 获取进程的 backtrace 信息. | http://www.usmacd.com/2021/11/03/backtrace_in_android/| 
 
 
 # 安全维基 推荐
