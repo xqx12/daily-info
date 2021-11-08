@@ -115,6 +115,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211108T13:15:20Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1915 | 401| 
 | 20211108T10:23:23Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2520 | 374| 
 | 20211108T09:47:29Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 15 | 11| 
 | 20211108T08:58:24Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1810 | 517| 
@@ -124,7 +125,6 @@
 | 20211107T15:29:59Z | 👓 Yet another binary vulnerbilities checker. An automated vulnerability scanner for ELF based on symbolic execution. | https://github.com/dev2ero/BinV | 19 | 5| 
 | 20211107T11:30:08Z | 🎻 Requiem: Modular exploit generation using symbolic execution | https://github.com/aesophor/requiem | 14 | 3| 
 | 20211107T09:27:50Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 168 | 10| 
-| 20211106T08:52:42Z | RAUK: Automatic Schedulability Analysis of RTIC Applications Using Symbolic Execution | https://github.com/markhakansson/master-thesis | 5 | 0| 
 
 
 # big4 on Github 推荐
