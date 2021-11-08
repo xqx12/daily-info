@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211108T02:01:05Z | Project 01- Softare Security, Eval Function Exploit | https://github.com/Alegarciy/SS-P1_Py_Exploit | 0 | 0| 
 | 20211108T01:48:05Z | Null | https://github.com/GANG123gg/exploit | 0 | 0| 
 | 20211108T01:06:55Z | Exploit->Laravel  | https://github.com/118fz/Exploit-Laravel | 0 | 0| 
 | 20211108T01:03:19Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
@@ -94,7 +95,6 @@
 | 20211107T23:32:17Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6120 | 1458| 
 | 20211107T23:31:55Z | Une exploitation de WikiData pour reconstruire les relations entre les établissements de l%ESR. | https://github.com/cpesr/wikidataESR | 2 | 1| 
 | 20211107T23:25:31Z | Null | https://github.com/Evil-coder66/HTA-Exploit-Builder | 5 | 7| 
-| 20211107T23:20:09Z | Collection  of Capture the Flag Write-Ups: Exploit Dev, Reverse Engineering, Pentesting | https://github.com/francobel/CTF-Writeups | 1 | 0| 
 
 
 # backdoor on Github 推荐
@@ -136,7 +136,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211108T02:00:11Z | Recording my learning process of %the fuzzing book% | https://github.com/Tendencyox/Learning_the_Fuzzing_Book_Tutorial | 0 | 0| 
+| 20211108T02:01:22Z | Recording my learning process of %the fuzzing book% | https://github.com/Tendencyox/Learning_the_Fuzzing_Book_Tutorial | 0 | 0| 
 | 20211108T01:53:56Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 580 | 62| 
 | 20211108T01:51:53Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2163 | 425| 
 | 20211108T01:31:43Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
