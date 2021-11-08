@@ -6,6 +6,10 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20211107 | Linux 内核 TIPC 模块堆溢出漏洞，该漏洞可通过网络远程触发（CVE-2021-43267） | https://www.sentinelone.com/labs/tipc-remote-linux-kernel-heap-overflow-allows-arbitrary-code-execution/| 
+| 20211107 | 基于 Windows Event Log 检测 APT 攻击的 APT-Hunter 更新 2.0 版本 | https://shells.systems/apt-hunter-v2-0-more-than-200-use-cases-and-new-features/| 
+| 20211107 | NPM官方仓库遭遇coa等恶意包投毒攻击 | https://security.tencent.com/index.php/blog/msg/207| 
+| 20211107 | Fortinet 对 Snake Keylogger 恶意软件新变种的分析 | https://www.fortinet.com/blog/threat-research/deep-dive-into-a-fresh-variant-of-snake-keylogger-malware?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+fortinet%2Fblog%2Fthreat-research+%28Fortinet+Threat+Research+Blog%29| 
 
 
 # 安全维基 推荐

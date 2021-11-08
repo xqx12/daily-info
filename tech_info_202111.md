@@ -6,6 +6,10 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20211107 | Linux 内核 TIPC 模块堆溢出漏洞，该漏洞可通过网络远程触发（CVE-2021-43267） | https://www.sentinelone.com/labs/tipc-remote-linux-kernel-heap-overflow-allows-arbitrary-code-execution/| 
+| 20211107 | 基于 Windows Event Log 检测 APT 攻击的 APT-Hunter 更新 2.0 版本 | https://shells.systems/apt-hunter-v2-0-more-than-200-use-cases-and-new-features/| 
+| 20211107 | NPM官方仓库遭遇coa等恶意包投毒攻击 | https://security.tencent.com/index.php/blog/msg/207| 
+| 20211107 | Fortinet 对 Snake Keylogger 恶意软件新变种的分析 | https://www.fortinet.com/blog/threat-research/deep-dive-into-a-fresh-variant-of-snake-keylogger-malware?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+fortinet%2Fblog%2Fthreat-research+%28Fortinet+Threat+Research+Blog%29| 
 | 20211104 | 天府杯华硕会战的围剿与反围剿的方略. | http://paper.seebug.org/1751/| 
 | 20211104 | IP 生存时间 (TTL) 与跳数限制基础知识介绍。 | https://packetpushers.net/ip-time-to-live-and-hop-limit-basics/| 
 | 20211103 | GitLab Unauthenticated Remote Code Execution CVE-2021-22205 Exploited in the Wild | https://www.rapid7.com/blog/post/2021/11/01/gitlab-unauthenticated-remote-code-execution-cve-2021-22205-exploited-in-the-wild/| 
@@ -22,10 +26,6 @@
 | 20211103 | JavaWeb 内存马二周目通关攻略. | https://tttang.com/archive/1313/| 
 | 20211103 | KCon 2021 部分 PPT 发布. | https://paper.seebug.org/1748/| 
 | 20211103 | Android 获取进程的 backtrace 信息. | http://www.usmacd.com/2021/11/03/backtrace_in_android/| 
-| 20211103 | Linux kernel eBPF type confusion 漏洞(CVE-2021-34866) 复现。 | http://blog.hexrabbit.io/2021/11/03/CVE-2021-34866-writeup/| 
-| 20211103 | Implementation of the key recovery attack against GEA-1 keys (Eurocrypt 2021) | https://github.com/airbus-seclab/GEA1_break| 
-| 20211103 | 客户体验管理软件 Sitecore Experience Platform Pre-Auth RCE | https://blog.assetnote.io/2021/11/02/sitecore-rce/| 
-| 20211103 | A Technical Analysis of CVE-2021-30864: Bypassing App Sandbox Restrictions | https://perception-point.io/a-technical-analysis-of-cve-2021-30864-bypassing-app-sandbox-restrictions/| 
 
 
 # 安全维基 推荐
