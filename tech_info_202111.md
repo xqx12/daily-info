@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211108T13:38:19Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10301 | 1770| 
 | 20211108T13:35:10Z | Project to optimize the exploitation transition phase in AFLGo | https://github.com/goodtaeeun/AFLGOPT | 0 | 0| 
 | 20211108T13:21:26Z | Null | https://github.com/Tarrylim/xss_exploit_code | 0 | 0| 
 | 20211108T13:03:13Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
@@ -94,7 +95,6 @@
 | 20211108T12:24:54Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 3712 | 1284| 
 | 20211108T12:20:59Z | Will leak the waypoint tp exploit here, because everyone has it and no one cares. Will leak it after school. | https://github.com/Hymerine/Fortnite-WaypointTP-Leak | 1 | 0| 
 | 20211108T12:04:29Z | Risk Assessment project to find how likely is a particular vulnerability to be exploited from security perspective. | https://github.com/Shiv-Kumar-Yadav9/Risk-Assessment | 0 | 0| 
-| 20211108T11:56:13Z | The popular GENIE Generator product is used by nearly all accelerator neutrino experiments and it plays a key role in the exploitation of neutrino data. The Generator implements a modern software framework and it includes state-of-the-art physics modules. It captures the latest results of the GENIE global analysis of neutrino scattering data and includes several tunes that were produced using the proprietary Comparisons and Tuning products. The GENIE physics model is universal and comprehensive:  It handles all neutrinos and targets, and all processes relevant from MeV to PeV energy scales. The Generator includes several tools (flux drivers, detector geometry navigators, specialized event generation apps, event reweighting engines) to simulate complex experimental setups in full detail and to support generator-related analysis tasks.  | https://github.com/GENIE-MC/Generator | 25 | 55| 
 
 
 # backdoor on Github 推荐
