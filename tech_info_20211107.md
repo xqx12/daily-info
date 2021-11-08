@@ -89,12 +89,12 @@
 | 20211107T23:28:30Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2162 | 425| 
 | 20211107T23:24:03Z | This mockup website is meant to be hacked using Fuzzing and Brute Force | https://github.com/NesaByte/BTN-HappyMe- | 0 | 1| 
 | 20211107T22:48:16Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 628 | 131| 
-| 20211107T22:31:50Z | Mayhem training and tutorial | https://github.com/dbrumley/fuzzing-cloudshell-tutorial | 0 | 0| 
 | 20211107T22:25:48Z | Fuzz language model that used chatbot | https://github.com/ksjr7-crongcrong/chatbot_fuzzer | 0 | 1| 
 | 20211107T21:48:44Z | A Software Package for Fuzzing Autonomous Driving Systems in Simulators | https://github.com/AIasd/ADFuzz | 0 | 0| 
 | 20211107T21:06:27Z | Fuzzy Join needed to update the Sales Data from the company I work in, in this case with hypothetical data. | https://github.com/ViniciusARZ/Fuzzy-Join-w-algorithms | 0 | 0| 
 | 20211107T20:27:09Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
 | 20211107T20:19:19Z | Fuzzy finder for every AWS component | https://github.com/AndreZiviani/aws-fuzzy | 9 | 2| 
+| 20211107T20:09:59Z | Null | https://github.com/suyanianinda/fuzzy-waddle | 0 | 0| 
 
 
 

@@ -136,13 +136,13 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211108T01:18:13Z | Mayhem training and tutorial | https://github.com/dbrumley/fuzzing-cloudshell-tutorial | 0 | 0| 
 | 20211108T00:23:33Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6792 | 1412| 
 | 20211108T00:08:40Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 33 | 12| 
 | 20211107T23:49:20Z | A serverless (AWS based) document generator based on templates | https://github.com/tomazfb/fuzzy-doodle | 0 | 0| 
 | 20211107T23:28:30Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2162 | 425| 
 | 20211107T23:24:03Z | This mockup website is meant to be hacked using Fuzzing and Brute Force | https://github.com/NesaByte/BTN-HappyMe- | 0 | 1| 
 | 20211107T22:48:16Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 628 | 131| 
-| 20211107T22:31:50Z | Mayhem training and tutorial | https://github.com/dbrumley/fuzzing-cloudshell-tutorial | 0 | 0| 
 | 20211107T22:25:48Z | Fuzz language model that used chatbot | https://github.com/ksjr7-crongcrong/chatbot_fuzzer | 0 | 1| 
 | 20211107T21:48:44Z | A Software Package for Fuzzing Autonomous Driving Systems in Simulators | https://github.com/AIasd/ADFuzz | 0 | 0| 
 | 20211107T21:06:27Z | Fuzzy Join needed to update the Sales Data from the company I work in, in this case with hypothetical data. | https://github.com/ViniciusARZ/Fuzzy-Join-w-algorithms | 0 | 0| 
