@@ -136,6 +136,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211108T02:43:23Z | Artifacts for Smartian, a grey-box fuzzer for Ethereum smart contracts. | https://github.com/SoftSec-KAIST/Smartian-Artifact | 2 | 0| 
 | 20211108T02:20:28Z | Mayhem training and tutorial | https://github.com/dbrumley/fuzzing-cloudshell-tutorial | 0 | 0| 
 | 20211108T02:19:02Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211108T02:01:22Z | Recording my learning process of %the fuzzing book% | https://github.com/Tendencyox/Learning_the_Fuzzing_Book_Tutorial | 0 | 0| 
@@ -145,7 +146,6 @@
 | 20211108T00:08:40Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 33 | 12| 
 | 20211107T23:49:20Z | A serverless (AWS based) document generator based on templates | https://github.com/tomazfb/fuzzy-doodle | 0 | 0| 
 | 20211107T23:24:03Z | This mockup website is meant to be hacked using Fuzzing and Brute Force | https://github.com/NesaByte/BTN-HappyMe- | 0 | 1| 
-| 20211107T22:48:16Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 628 | 131| 
 
 
 
