@@ -85,7 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211108T02:52:08Z | Null | https://github.com/Yang9999999/Shiro-exploit | 0 | 0| 
+| 20211108T02:55:47Z | Null | https://github.com/Yang9999999/Shiro-exploit | 0 | 0| 
 | 20211108T02:29:12Z | Null | https://github.com/0x1CA3/GoAhead-IPCAM-XSS-and-RCE | 0 | 0| 
 | 20211108T02:06:54Z | Project 01- Softare Security, Eval Function Exploit | https://github.com/Alegarciy/SS-P1_Py_Exploit | 0 | 0| 
 | 20211108T02:03:17Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
