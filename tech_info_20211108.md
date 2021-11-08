@@ -19,6 +19,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211108T13:23:52Z | CVE-2021-43361 | Null | https://github.com/bartutku/CVE-2021-43361 | | 
 | 20211108T12:36:30Z | CVE-2021-40449 | Exploit for CVE-2021-40449 | https://github.com/Kristal-g/CVE-2021-40449_poc | | 
 | 20211108T12:00:24Z | CVE-2021-40346 | HAProxy CVE-2021-40346 | https://github.com/Vulnmachines/HAProxy_CVE-2021-40346 | | 
 | 20211108T11:17:15Z | CVE-2021-42327 |  kernel exploit for minor bug i found in amd gpu driver | https://github.com/docfate111/CVE-2021-42327 | | 
@@ -90,6 +91,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211108T13:17:43Z | Using FCM algorithm to cluster points on a 2D plane | https://github.com/matinaghaei/Fuzzy-C-means-Clustering | 1 | 0| 
 | 20211108T13:13:33Z | Fuzz language model that used chatbot | https://github.com/ksjr7-crongcrong/chatbot_fuzzer | 0 | 1| 
 | 20211108T13:10:18Z | Naive Bayes Classifiers | https://github.com/Jodavid/FuzzyClass | 0 | 0| 
 | 20211108T13:10:13Z | fuzztechnology dot com website | https://github.com/FuzzTechnology/fuzztech-website | 0 | 0| 
@@ -99,7 +101,6 @@
 | 20211108T12:02:08Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 34 | 12| 
 | 20211108T12:00:33Z | Null | https://github.com/polymorphicengine/Semi-Fuzzy-Quantifiers | 0 | 0| 
 | 20211108T11:59:17Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 629 | 131| 
-| 20211108T11:52:40Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3773 | 888| 
 
 
 
