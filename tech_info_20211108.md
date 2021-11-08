@@ -92,9 +92,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211108T13:40:27Z | Naive Bayes Classifiers | https://github.com/Jodavid/FuzzyClass | 0 | 0| 
 | 20211108T13:17:43Z | Using FCM algorithm to cluster points on a 2D plane | https://github.com/matinaghaei/Fuzzy-C-means-Clustering | 1 | 0| 
 | 20211108T13:13:33Z | Fuzz language model that used chatbot | https://github.com/ksjr7-crongcrong/chatbot_fuzzer | 0 | 1| 
-| 20211108T13:10:18Z | Naive Bayes Classifiers | https://github.com/Jodavid/FuzzyClass | 0 | 0| 
 | 20211108T13:10:13Z | fuzztechnology dot com website | https://github.com/FuzzTechnology/fuzztech-website | 0 | 0| 
 | 20211108T13:06:03Z | Null | https://github.com/arkazelinda/fuzzy-octo-broccoli | 0 | 0| 
 | 20211108T12:52:12Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
