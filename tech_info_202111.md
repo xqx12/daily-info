@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211108T02:52:08Z | Null | https://github.com/Yang9999999/Shiro-exploit | 0 | 0| 
 | 20211108T02:29:12Z | Null | https://github.com/0x1CA3/GoAhead-IPCAM-XSS-and-RCE | 0 | 0| 
 | 20211108T02:06:54Z | Project 01- Softare Security, Eval Function Exploit | https://github.com/Alegarciy/SS-P1_Py_Exploit | 0 | 0| 
 | 20211108T02:03:17Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
@@ -94,7 +95,6 @@
 | 20211108T00:06:29Z | Multiple hacks that breaks the game | https://github.com/Harry-P-Ness/blooket-hack- | 0 | 0| 
 | 20211108T00:05:46Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10296 | 1771| 
 | 20211107T23:32:17Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6120 | 1458| 
-| 20211107T23:31:55Z | Une exploitation de WikiData pour reconstruire les relations entre les établissements de l%ESR. | https://github.com/cpesr/wikidataESR | 2 | 1| 
 
 
 # backdoor on Github 推荐
