@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211109T00:38:33Z | CVE-2021-40449 | Exploit for CVE-2021-40449 | https://github.com/Kristal-g/CVE-2021-40449_poc | | 
+| 20211109T01:04:13Z | CVE-2021-40449 | Exploit for CVE-2021-40449 | https://github.com/Kristal-g/CVE-2021-40449_poc | | 
 | 20211108T20:30:42Z | CVE-2021-30657 | A sample POC for CVE-2021-30657 affecting MacOS | https://github.com/shubham0d/CVE-2021-30657 | | 
 | 20211108T19:17:12Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | | 
 | 20211108T17:22:26Z | CVE-2021-40346 | HAProxy CVE-2021-40346 | https://github.com/Vulnmachines/HAProxy_CVE-2021-40346 | | 
@@ -61,8 +61,8 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211109T01:08:01Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2923 | 83| 
 | 20211108T19:35:57Z | Spring 2021 Geography 817 work folder  | https://github.com/klee12/klee12.github.io | 0 | 0| 
-| 20211108T19:29:22Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2922 | 83| 
 | 20211108T18:16:58Z | Research paper On The Termination of Borrow Checking for Rust and a web application, CLI application and VSCode extension for running static analysis of rust-based smart contracts with a ready-to-be-verified project example. | https://github.com/LedgerProject/safepkt | 0 | 1| 
 | 20211108T08:58:24Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1810 | 517| 
 | 20211108T00:10:19Z | An opiniated Next TypeScript powered starter which include Klee, emotion / styled-system, framer motion, jest and Cypress | https://github.com/Liinkiing/next-ts-klee-starter | 0 | 0| 
@@ -115,16 +115,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211108T21:41:02Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2521 | 374| 
+| 20211108T18:40:21Z | Symbolica%s open-source symbolic execution engine. | https://github.com/Symbolica/Symbolica | 42 | 2| 
+| 20211108T17:26:07Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 668 | 67| 
+| 20211108T14:50:41Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 503 | 77| 
 | 20211108T13:15:20Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1915 | 401| 
-| 20211108T10:23:23Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2520 | 374| 
 | 20211108T09:47:29Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 15 | 11| 
 | 20211108T08:58:24Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1810 | 517| 
 | 20211108T08:20:22Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 181 | 39| 
 | 20211108T06:26:55Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 10 | 4| 
 | 20211107T23:44:05Z | Null | https://github.com/jhln/SymbolicExecution | 0 | 0| 
-| 20211107T15:29:59Z | 👓 Yet another binary vulnerbilities checker. An automated vulnerability scanner for ELF based on symbolic execution. | https://github.com/dev2ero/BinV | 19 | 5| 
-| 20211107T11:30:08Z | 🎻 Requiem: Modular exploit generation using symbolic execution | https://github.com/aesophor/requiem | 14 | 3| 
-| 20211107T09:27:50Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 168 | 10| 
 
 
 # big4 on Github 推荐
