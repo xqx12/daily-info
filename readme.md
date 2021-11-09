@@ -100,16 +100,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211109T13:10:02Z | Null | https://github.com/mahimayadav24/fuzzy-telegram.github.io | 0 | 0| 
+| 20211109T13:08:15Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 229 | 19| 
 | 20211109T13:05:49Z | Fuzzy based segmentation of remotely sensed images using an Adaptive Neuro Fuzzy Inference System (ANFIS). | https://github.com/andmon97/FuzzyRemoteSensingSegmentation | 9 | 0| 
 | 20211109T12:57:34Z | Null | https://github.com/Jaime2041/fuzzy-octo-train | 0 | 0| 
-| 20211109T12:54:55Z | Null | https://github.com/mahimayadav24/fuzzy-telegram.github.io | 0 | 0| 
 | 20211109T12:49:28Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6792 | 1412| 
 | 20211109T12:37:28Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20211109T12:29:56Z | The Content Fuzzyfyr module for Magento2 fills up empty content fields - and if needed - switches real content with dummy content. This is for development purposes, e.g. save time to prepare test data and matching GDPR restrictions. | https://github.com/hivecommerce/magento2-content-fuzzyfyr | 3 | 1| 
 | 20211109T12:29:00Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 197 | 38| 
 | 20211109T12:22:31Z | Null | https://github.com/slashsec-edu/fuzz-target | 0 | 0| 
 | 20211109T12:20:02Z | Null | https://github.com/rafibu/fuzzy | 0 | 0| 
-| 20211109T12:08:56Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3772 | 888| 
 
 
 
