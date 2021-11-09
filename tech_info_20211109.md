@@ -37,6 +37,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211109T13:04:26Z | Research paper On The Termination of Borrow Checking for Rust and a web application, CLI application and VSCode extension for running static analysis of rust-based smart contracts with a ready-to-be-verified project example. | https://github.com/LedgerProject/safepkt | 0 | 1| 
 | 20211109T12:17:04Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
 | 20211109T11:31:24Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2930 | 83| 
 | 20211109T11:23:05Z | Dynamic and symbolic taint analysis for multi-thread programs | https://github.com/xdzhang-xjtu/kleem | 0 | 0| 
@@ -45,6 +46,8 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211109T08:54:49Z | Null | https://github.com/marcelocodigos/S2Encontro-Presencial-2 | 0 | 0| 
+| 20211109T07:11:02Z | 🎻 Requiem: Modular exploit generation using symbolic execution | https://github.com/aesophor/requiem | 15 | 3| 
 
 
 # exploit on Github 推荐
@@ -95,6 +98,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211109T13:05:49Z | Fuzzy based segmentation of remotely sensed images using an Adaptive Neuro Fuzzy Inference System (ANFIS). | https://github.com/andmon97/FuzzyRemoteSensingSegmentation | 9 | 0| 
 | 20211109T12:57:34Z | Null | https://github.com/Jaime2041/fuzzy-octo-train | 0 | 0| 
 | 20211109T12:54:55Z | Null | https://github.com/mahimayadav24/fuzzy-telegram.github.io | 0 | 0| 
 | 20211109T12:49:28Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6792 | 1412| 
@@ -104,7 +108,6 @@
 | 20211109T12:22:31Z | Null | https://github.com/slashsec-edu/fuzz-target | 0 | 0| 
 | 20211109T12:20:02Z | Null | https://github.com/rafibu/fuzzy | 0 | 0| 
 | 20211109T12:08:56Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3772 | 888| 
-| 20211109T11:48:59Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 590 | 62| 
 
 
 
