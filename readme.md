@@ -21,6 +21,7 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20211109 | 个保法生效后，各大平台“个人信息副本”的申请获取实践 | https://mp.weixin.qq.com/s/fsSHkumgON9DZe1awFTQ0g| 
+| 20211109 | 软件供应链来源攻击分析报告 | https://mp.weixin.qq.com/s/aEU2E3Xt0-9tJ4TPpjAGkQ| 
 
 
 # CVE Github 推荐
@@ -55,6 +56,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211109T13:17:42Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 254 | 14| 
 | 20211109T13:03:02Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211109T12:55:19Z | Null | https://github.com/Athis-Offsec/Exploits-I-Developed | 0 | 0| 
 | 20211109T12:48:49Z | Null | https://github.com/pwn4all/exploit | 0 | 0| 
@@ -64,7 +66,6 @@
 | 20211109T11:51:44Z | Null | https://github.com/rakanbakir/ps4-exploit-host-docker | 0 | 0| 
 | 20211109T11:42:51Z | Contains the offensive (exploit and auxiliary) modules for the CVE-2021-40444. | https://github.com/Zeop-CyberSec/word_mshtml | 0 | 0| 
 | 20211109T11:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10301 | 1770| 
-| 20211109T11:35:09Z | Une exploitation de WikiData pour reconstruire les relations entre les établissements de l%ESR. | https://github.com/cpesr/wikidataESR | 2 | 1| 
 
 
 # backdoor on Github 推荐
