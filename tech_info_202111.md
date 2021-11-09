@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211109T02:16:18Z | CVE-2021-43267 | trusty poc Provide it to legitimate people | https://github.com/DarkSprings/CVE-2021-43267-POC | | 
+| 20211109T02:20:04Z | CVE-2021-43267 | trusty poc Provide it to legitimate people | https://github.com/DarkSprings/CVE-2021-43267-POC | | 
 | 20211109T02:05:09Z | CVE-2021-40449 | Exploit for CVE-2021-40449 | https://github.com/Kristal-g/CVE-2021-40449_poc | | 
 | 20211108T20:30:42Z | CVE-2021-30657 | A sample POC for CVE-2021-30657 affecting MacOS | https://github.com/shubham0d/CVE-2021-30657 | | 
 | 20211108T19:17:12Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | | 
