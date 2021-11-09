@@ -85,7 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211109T01:41:10Z | A Series of Baseband & LMP Exploits against Bluetooth Classic Controllers | https://github.com/Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks | 91 | 17| 
+| 20211109T01:54:47Z | A Series of Baseband & LMP Exploits against Bluetooth Classic Controllers | https://github.com/Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks | 91 | 17| 
 | 20211109T01:41:03Z | An exploit written for my old school%s website :) | https://github.com/kn1pnc/etelg-ph | 0 | 0| 
 | 20211109T01:36:45Z | A collection of links related to Linux kernel security and exploitation | https://github.com/xairy/linux-kernel-exploitation | 3743 | 797| 
 | 20211109T01:36:33Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 357 | 55| 
