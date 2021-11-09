@@ -25,8 +25,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211109T13:01:23Z | CVE-2021-40449 | Exploit for CVE-2021-40449 | https://github.com/Kristal-g/CVE-2021-40449_poc | | 
 | 20211109T11:59:55Z | CVE-2021-20837 | XMLRPC  - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | | 
-| 20211109T11:28:34Z | CVE-2021-40449 | Exploit for CVE-2021-40449 | https://github.com/Kristal-g/CVE-2021-40449_poc | | 
 | 20211109T11:15:22Z | CVE-2021-40539 | Exploitation code for CVE-2021-40539 | https://github.com/synacktiv/CVE-2021-40539 | | 
 | 20211109T08:11:46Z | CVE-2021-30657 | A sample POC for CVE-2021-30657 affecting MacOS | https://github.com/shubham0d/CVE-2021-30657 | | 
 | 20211109T07:54:51Z | CVE-2021-36808 | A local attacker could bypass the app password using a race condition in Sophos Secure Workspace for Android before version 9.7.3115. | https://github.com/ctuIhu/CVE-2021-36808 | | 
@@ -50,12 +50,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211109T13:03:02Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211109T12:55:19Z | Null | https://github.com/Athis-Offsec/Exploits-I-Developed | 0 | 0| 
 | 20211109T12:48:49Z | Null | https://github.com/pwn4all/exploit | 0 | 0| 
 | 20211109T12:45:25Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 14| 
 | 20211109T12:34:33Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 3717 | 1285| 
 | 20211109T12:31:56Z | My own collection of usual functions that I use during binary exploitation training | https://github.com/mousepad01/python_binary_exploit_utilites | 1 | 0| 
-| 20211109T12:03:57Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211109T11:51:44Z | Null | https://github.com/rakanbakir/ps4-exploit-host-docker | 0 | 0| 
 | 20211109T11:42:51Z | Contains the offensive (exploit and auxiliary) modules for the CVE-2021-40444. | https://github.com/Zeop-CyberSec/word_mshtml | 0 | 0| 
 | 20211109T11:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10301 | 1770| 
@@ -77,6 +77,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211109T10:57:28Z | Symbolica%s open-source symbolic execution engine. | https://github.com/Symbolica/Symbolica | 43 | 2| 
+| 20211109T10:39:51Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 163 | 37| 
+| 20211109T07:46:16Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 10 | 4| 
+| 20211109T07:11:02Z | 🎻 Requiem: Modular exploit generation using symbolic execution | https://github.com/aesophor/requiem | 15 | 3| 
 | 20211109T01:39:00Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 168 | 10| 
 | 20211109T01:22:51Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2522 | 374| 
 
@@ -84,22 +88,23 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211109T01:56:43Z | NDSでシェーダーのようなものを動かす | https://github.com/NidoKota/NDSShader | 0 | 0| 
+| 20211109T11:18:49Z | A penetration testing tool for finding file upload bugs (NDSS 2020) | https://github.com/WSP-LAB/FUSE | 198 | 44| 
+| 20211109T03:13:16Z | NDSでシェーダーのようなものを動かす | https://github.com/NidoKota/NDSShader | 0 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211109T02:30:10Z | Mayhem training and tutorial | https://github.com/dbrumley/fuzzing-cloudshell-tutorial | 1 | 0| 
-| 20211109T02:26:54Z | Null | https://github.com/lindasuyono/fuzzy-octo-goggles | 0 | 0| 
-| 20211109T02:22:38Z | Yet another fuzzing tool | https://github.com/jdukes/electric_wizard | 0 | 0| 
-| 20211109T02:02:15Z | Digital and Fuzzy operations of neural networks | https://github.com/controlLOGIC-labs/VCV-Rack-Digital-and-Fuzzy-Logic-Gates | 0 | 0| 
-| 20211109T01:47:04Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4591 | 470| 
-| 20211109T01:31:47Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20211109T01:28:05Z | Mayhem fuzzme templates for programming languages and fuzzers that you love! | https://github.com/ForAllSecure/fuzzme | 3 | 0| 
-| 20211109T01:09:18Z | web fuzzing tool | https://github.com/taise-hub/tfuzz | 0 | 0| 
-| 20211109T00:55:07Z | Null | https://github.com/makanankoe/fuzzy-pancake | 0 | 0| 
-| 20211109T00:14:06Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 34 | 12| 
+| 20211109T12:57:34Z | Null | https://github.com/Jaime2041/fuzzy-octo-train | 0 | 0| 
+| 20211109T12:54:55Z | Null | https://github.com/mahimayadav24/fuzzy-telegram.github.io | 0 | 0| 
+| 20211109T12:49:28Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6792 | 1412| 
+| 20211109T12:37:28Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
+| 20211109T12:29:56Z | The Content Fuzzyfyr module for Magento2 fills up empty content fields - and if needed - switches real content with dummy content. This is for development purposes, e.g. save time to prepare test data and matching GDPR restrictions. | https://github.com/hivecommerce/magento2-content-fuzzyfyr | 3 | 1| 
+| 20211109T12:29:00Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 197 | 38| 
+| 20211109T12:22:31Z | Null | https://github.com/slashsec-edu/fuzz-target | 0 | 0| 
+| 20211109T12:20:02Z | Null | https://github.com/rafibu/fuzzy | 0 | 0| 
+| 20211109T12:08:56Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3772 | 888| 
+| 20211109T11:48:59Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 590 | 62| 
 
 
 
