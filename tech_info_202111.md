@@ -31,6 +31,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20211109 | 个保法生效后，各大平台“个人信息副本”的申请获取实践 | https://mp.weixin.qq.com/s/fsSHkumgON9DZe1awFTQ0g| 
 | 20211108 | SecWiki周刊（第401期) | https://www.sec-wiki.com/weekly/401| 
 | 20211108 | 基于告警关联的一种多阶段攻击检测方法 | https://mp.weixin.qq.com/s/YzBvYN60iSVp8Ofeo2UwUg| 
 | 20211108 | APT活动中的Windows系统本地提权漏洞及技术分析 | https://mp.weixin.qq.com/s/6mT0O9eur5-VEs0rbV0-mg| 
@@ -40,7 +41,6 @@
 | 20211105 | Apache安全——挂钩分析 | https://www.anquanke.com/post/id/257539| 
 | 20211105 | 4G/LTE 移动通信系统中对隐私和可用性的实际攻击 | https://www.anquanke.com/post/id/257679| 
 | 20211105 | 第四届“强网”拟态防御国际精英挑战赛web的wp | https://www.anquanke.com/post/id/256992| 
-| 20211105 | 知识图谱问答技术实践与探索 | https://tech.meituan.com/2021/11/03/knowledge-based-question-answering-in-meituan.html| 
 
 
 # CVE Github 推荐
