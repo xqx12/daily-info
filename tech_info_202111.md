@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211109T02:16:18Z | CVE-2021-43267 | trusty poc Provide it to legitimate people | https://github.com/DarkSprings/CVE-2021-43267-POC | | 
 | 20211109T02:05:09Z | CVE-2021-40449 | Exploit for CVE-2021-40449 | https://github.com/Kristal-g/CVE-2021-40449_poc | | 
 | 20211108T20:30:42Z | CVE-2021-30657 | A sample POC for CVE-2021-30657 affecting MacOS | https://github.com/shubham0d/CVE-2021-30657 | | 
 | 20211108T19:17:12Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | | 
@@ -55,7 +56,6 @@
 | 20211108T08:15:19Z | CVE-2021-22205 | CVE-2021-22205& GitLab CE/EE RCE | https://github.com/Al1ex/CVE-2021-22205 | | 
 | 20211108T02:07:53Z | CVE-2021-20837 | XMLRPC  - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | | 
 | 20211108T01:36:42Z | CVE-2021-1732 | Null | https://github.com/BeneficialCode/CVE-2021-1732 | | 
-| 20211106T17:49:42Z | CVE-2021-42671 | CVE-2021-42671 - Broken access control vulnerability in the Engineers online portal system.  | https://github.com/TheHackingRabbi/CVE-2021-42671 | | 
 
 
 # klee on Github 推荐
@@ -136,6 +136,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211109T02:02:15Z | Digital and Fuzzy operations of neural networks | https://github.com/controlLOGIC-labs/VCV-Rack-Digital-and-Fuzzy-Logic-Gates | 0 | 0| 
+| 20211109T01:47:04Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4591 | 470| 
 | 20211109T01:33:20Z | Mayhem training and tutorial | https://github.com/dbrumley/fuzzing-cloudshell-tutorial | 1 | 0| 
 | 20211109T01:31:47Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211109T01:28:05Z | Mayhem fuzzme templates for programming languages and fuzzers that you love! | https://github.com/ForAllSecure/fuzzme | 3 | 0| 
@@ -144,8 +146,6 @@
 | 20211109T00:14:06Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 34 | 12| 
 | 20211108T23:12:24Z | Code for fuzzy monkeys. | https://github.com/fuzzyatelin/fuzzyatelin.github.io | 3 | 11| 
 | 20211108T22:46:25Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6792 | 1412| 
-| 20211108T22:35:00Z | Null | https://github.com/lindasuyono/fuzzy-octo-goggles | 0 | 0| 
-| 20211108T22:31:42Z | Null | https://github.com/vurosevic/stlf_fuzzy_anfis | 0 | 0| 
 
 
 
