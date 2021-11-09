@@ -46,14 +46,14 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211109T13:01:23Z | CVE-2021-40449 | Exploit for CVE-2021-40449 | https://github.com/Kristal-g/CVE-2021-40449_poc | | 
+| 20211109T13:29:40Z | CVE-2021-40449 | Exploit for CVE-2021-40449 | https://github.com/Kristal-g/CVE-2021-40449_poc | | 
+| 20211109T13:21:39Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | | 
 | 20211109T11:59:55Z | CVE-2021-20837 | XMLRPC  - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | | 
 | 20211109T11:15:22Z | CVE-2021-40539 | Exploitation code for CVE-2021-40539 | https://github.com/synacktiv/CVE-2021-40539 | | 
 | 20211109T08:11:46Z | CVE-2021-30657 | A sample POC for CVE-2021-30657 affecting MacOS | https://github.com/shubham0d/CVE-2021-30657 | | 
 | 20211109T07:54:51Z | CVE-2021-36808 | A local attacker could bypass the app password using a race condition in Sophos Secure Workspace for Android before version 9.7.3115. | https://github.com/ctuIhu/CVE-2021-36808 | | 
 | 20211109T06:19:45Z | cve-2021-41773 | Proof-of-Concept for CVE-2021-41773 | https://github.com/ahmad4fifz/docker-cve-2021-41773 | | 
 | 20211109T03:26:22Z | CVE-2021-43267 | trusty poc Provide it to legitimate people | https://github.com/DarkSprings/CVE-2021-43267-POC | | 
-| 20211108T19:17:12Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | | 
 | 20211108T17:22:26Z | CVE-2021-40346 | HAProxy CVE-2021-40346 | https://github.com/Vulnmachines/HAProxy_CVE-2021-40346 | | 
 | 20211108T15:07:19Z | CVE-2021-42327 |  kernel exploit for minor bug i found in amd gpu driver | https://github.com/docfate111/CVE-2021-42327 | | 
 
@@ -86,6 +86,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211109T13:59:39Z | Null | https://github.com/Robinx0/exploits | 0 | 0| 
+| 20211109T13:54:37Z | An exploit written for my old school%s website :) | https://github.com/kn1pnc/etelg-ph | 0 | 0| 
+| 20211109T13:47:28Z | Script written in Python to detect and exploit the ICSA-17-124-01 vulnerability, also known as Hikvision Camera Backdoor.  | https://github.com/fracergu/HIKSCript | 0 | 0| 
 | 20211109T13:17:42Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 254 | 14| 
 | 20211109T13:03:02Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211109T12:55:19Z | Null | https://github.com/Athis-Offsec/Exploits-I-Developed | 0 | 0| 
@@ -93,14 +96,12 @@
 | 20211109T12:45:25Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 14| 
 | 20211109T12:34:33Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 3717 | 1285| 
 | 20211109T12:31:56Z | My own collection of usual functions that I use during binary exploitation training | https://github.com/mousepad01/python_binary_exploit_utilites | 1 | 0| 
-| 20211109T11:51:44Z | Null | https://github.com/rakanbakir/ps4-exploit-host-docker | 0 | 0| 
-| 20211109T11:42:51Z | Contains the offensive (exploit and auxiliary) modules for the CVE-2021-40444. | https://github.com/Zeop-CyberSec/word_mshtml | 0 | 0| 
-| 20211109T11:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10301 | 1770| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211109T13:47:28Z | Script written in Python to detect and exploit the ICSA-17-124-01 vulnerability, also known as Hikvision Camera Backdoor.  | https://github.com/fracergu/HIKSCript | 0 | 0| 
 | 20211109T13:18:09Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 355 | 63| 
 | 20211109T11:44:43Z | Null | https://github.com/henil0604/backdoor-boiler | 0 | 0| 
 | 20211109T11:17:09Z | A papermc plugin that allows code execution without any permissions on the server for selected users. | https://github.com/TheSaltyBoys/backdoor-v4 | 5 | 3| 
@@ -110,7 +111,6 @@
 | 20211109T00:46:43Z | Codebase for my Level 4 University Project: Static Analysis of Executable Code to Detect Backdoors on IoT Devices | https://github.com/sophieboyle/Static-IoT-Backdoor-Detection | 0 | 0| 
 | 20211109T00:14:17Z | My personal unique wiki for hacking the router firmware used by (Telia)TG799vac Xtream v17.2-MINT delivered from Technicolor  | https://github.com/wuseman/TG799VAC-XTREME-17.2-MINT | 65 | 18| 
 | 20211108T23:49:39Z | Lite version of my Gatekeeper backdoor for public use. | https://github.com/dievus/MayorSecBackdoor | 46 | 8| 
-| 20211108T19:52:51Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1492 | 373| 
 
 
 # symbolic execution on Github 推荐
@@ -138,6 +138,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211109T13:29:16Z | This repository contains the source code related to the conference paper Bias Quantification for Protected Features in Pattern Classification Problems published at the 25th Iberoamerican Congress on Pattern Recognition in March 2021. | https://github.com/LisaKouts/Fuzzy-rough-Uncertainty-Bias | 0 | 0| 
 | 20211109T13:10:02Z | Null | https://github.com/mahimayadav24/fuzzy-telegram.github.io | 0 | 0| 
 | 20211109T13:08:15Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 229 | 19| 
 | 20211109T13:05:49Z | Fuzzy based segmentation of remotely sensed images using an Adaptive Neuro Fuzzy Inference System (ANFIS). | https://github.com/andmon97/FuzzyRemoteSensingSegmentation | 9 | 0| 
@@ -147,7 +148,6 @@
 | 20211109T12:29:56Z | The Content Fuzzyfyr module for Magento2 fills up empty content fields - and if needed - switches real content with dummy content. This is for development purposes, e.g. save time to prepare test data and matching GDPR restrictions. | https://github.com/hivecommerce/magento2-content-fuzzyfyr | 3 | 1| 
 | 20211109T12:29:00Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 197 | 38| 
 | 20211109T12:22:31Z | Null | https://github.com/slashsec-edu/fuzz-target | 0 | 0| 
-| 20211109T12:20:02Z | Null | https://github.com/rafibu/fuzzy | 0 | 0| 
 
 
 
