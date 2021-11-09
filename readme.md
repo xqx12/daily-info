@@ -71,6 +71,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211109T13:18:09Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 355 | 63| 
 | 20211109T11:44:43Z | Null | https://github.com/henil0604/backdoor-boiler | 0 | 0| 
 | 20211109T11:17:09Z | A papermc plugin that allows code execution without any permissions on the server for selected users. | https://github.com/TheSaltyBoys/backdoor-v4 | 5 | 3| 
 | 20211109T11:07:46Z | Null | https://github.com/samuelventura/nerves_backdoor | 0 | 0| 

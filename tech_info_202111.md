@@ -101,6 +101,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211109T13:18:09Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 355 | 63| 
 | 20211109T11:44:43Z | Null | https://github.com/henil0604/backdoor-boiler | 0 | 0| 
 | 20211109T11:17:09Z | A papermc plugin that allows code execution without any permissions on the server for selected users. | https://github.com/TheSaltyBoys/backdoor-v4 | 5 | 3| 
 | 20211109T11:07:46Z | Null | https://github.com/samuelventura/nerves_backdoor | 0 | 0| 
@@ -110,7 +111,6 @@
 | 20211109T00:14:17Z | My personal unique wiki for hacking the router firmware used by (Telia)TG799vac Xtream v17.2-MINT delivered from Technicolor  | https://github.com/wuseman/TG799VAC-XTREME-17.2-MINT | 65 | 18| 
 | 20211108T23:49:39Z | Lite version of my Gatekeeper backdoor for public use. | https://github.com/dievus/MayorSecBackdoor | 46 | 8| 
 | 20211108T19:52:51Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1492 | 373| 
-| 20211108T19:44:03Z | Null | https://github.com/Keplerqq/Backdoored-Client | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
