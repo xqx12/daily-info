@@ -85,16 +85,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211109T02:03:02Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
+| 20211109T02:01:14Z | Null | https://github.com/Parribesh/codepath_wpExploitLab | 0 | 0| 
 | 20211109T01:54:47Z | A Series of Baseband & LMP Exploits against Bluetooth Classic Controllers | https://github.com/Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks | 91 | 17| 
 | 20211109T01:41:03Z | An exploit written for my old school%s website :) | https://github.com/kn1pnc/etelg-ph | 0 | 0| 
 | 20211109T01:36:45Z | A collection of links related to Linux kernel security and exploitation | https://github.com/xairy/linux-kernel-exploitation | 3743 | 797| 
 | 20211109T01:36:33Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 357 | 55| 
 | 20211109T01:15:34Z | Null | https://github.com/prince-aloha/nft-rarity-exploitation | 0 | 0| 
-| 20211109T01:03:14Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211109T01:00:06Z | Multiple hacks that breaks the game | https://github.com/Harry-P-Ness/blooket-hack- | 0 | 0| 
 | 20211109T00:45:25Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 14| 
 | 20211109T00:30:07Z | A collection of write ups on how I solved each exploit challenge on Exploit Education | https://github.com/dyllan500/Exploit-Education-Write-Up | 0 | 0| 
-| 20211109T00:09:07Z | Null | https://github.com/hamza07-w/Exploit-Development | 0 | 0| 
 
 
 # backdoor on Github 推荐
