@@ -136,6 +136,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211109T01:21:02Z | Mayhem training and tutorial | https://github.com/dbrumley/fuzzing-cloudshell-tutorial | 1 | 0| 
 | 20211109T01:09:18Z | web fuzzing tool | https://github.com/taise-hub/tfuzz | 0 | 0| 
 | 20211109T00:58:56Z | Mayhem fuzzme templates for programming languages and fuzzers that you love! | https://github.com/ForAllSecure/fuzzme | 3 | 0| 
 | 20211109T00:55:07Z | Null | https://github.com/makanankoe/fuzzy-pancake | 0 | 0| 
@@ -145,7 +146,6 @@
 | 20211108T22:46:25Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6792 | 1412| 
 | 20211108T22:35:00Z | Null | https://github.com/lindasuyono/fuzzy-octo-goggles | 0 | 0| 
 | 20211108T22:31:42Z | Null | https://github.com/vurosevic/stlf_fuzzy_anfis | 0 | 0| 
-| 20211108T22:09:50Z | Comparing tool variability and numerical variability in fMRI analyses results | https://github.com/big-data-lab-team/fuzzy-neurotools | 0 | 1| 
 
 
 
