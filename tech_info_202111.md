@@ -85,6 +85,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211109T01:36:45Z | A collection of links related to Linux kernel security and exploitation | https://github.com/xairy/linux-kernel-exploitation | 3743 | 797| 
+| 20211109T01:36:33Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 357 | 55| 
+| 20211109T01:35:49Z | Um exploit escrito para o site da minha antiga escola :) | https://github.com/kn1pnc/etelg-ph | 0 | 0| 
 | 20211109T01:15:34Z | Null | https://github.com/prince-aloha/nft-rarity-exploitation | 0 | 0| 
 | 20211109T01:03:14Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211109T01:00:06Z | Multiple hacks that breaks the game | https://github.com/Harry-P-Ness/blooket-hack- | 0 | 0| 
@@ -92,9 +95,6 @@
 | 20211109T00:30:07Z | A collection of write ups on how I solved each exploit challenge on Exploit Education | https://github.com/dyllan500/Exploit-Education-Write-Up | 0 | 0| 
 | 20211109T00:09:07Z | Null | https://github.com/hamza07-w/Exploit-Development | 0 | 0| 
 | 20211108T23:35:41Z | Pentester%s toolbox | https://github.com/binarytrails/prober | 5 | 2| 
-| 20211108T23:32:33Z | BSC LOAN EXPLOIT | https://github.com/bcsexploiter/bscexploitloan | 0 | 0| 
-| 20211108T23:25:40Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 101 | 236| 
-| 20211108T23:18:10Z | Project Elemental Is An Educational Malware, Designed To Help Find Windows Exploits / Vulnerabilities And Get Them Disclosed Safely. | https://github.com/MabelYT/ProjectElemental | 0 | 0| 
 
 
 # backdoor on Github 推荐

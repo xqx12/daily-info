@@ -55,11 +55,11 @@
 | 20211108T23:25:40Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 101 | 236| 
 | 20211108T23:18:10Z | Project Elemental Is An Educational Malware, Designed To Help Find Windows Exploits / Vulnerabilities And Get Them Disclosed Safely. | https://github.com/MabelYT/ProjectElemental | 0 | 0| 
 | 20211108T23:07:20Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6124 | 1458| 
-| 20211108T23:02:07Z | A collection of links related to Linux kernel security and exploitation | https://github.com/xairy/linux-kernel-exploitation | 3743 | 797| 
 | 20211108T22:58:04Z | Code for the paper: %SimPLE: Similar Pseudo Label Exploitation for Semi-Supervised Classification% | https://github.com/zijian-hu/SimPLE | 23 | 0| 
 | 20211108T22:25:55Z | This is a repo for the coding done for CTFs / exploits. The writeups are here: https://github.com/dillonwu-97/csec_writeups | https://github.com/dillonwu-97/csec-code | 0 | 0| 
 | 20211108T22:25:36Z | Null | https://github.com/Youheng-Lue/art-exploit | 0 | 0| 
 | 20211108T22:21:52Z | Null | https://github.com/joeengo/exploiting | 0 | 0| 
+| 20211108T22:21:35Z | Arsenal Exploit Hub | https://github.com/QV-ZL/IMPERIAL-X-Arsenal | 0 | 0| 
 
 
 # backdoor on Github 推荐
