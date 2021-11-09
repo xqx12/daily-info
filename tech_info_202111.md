@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211109T01:04:13Z | CVE-2021-40449 | Exploit for CVE-2021-40449 | https://github.com/Kristal-g/CVE-2021-40449_poc | | 
+| 20211109T01:14:41Z | CVE-2021-40449 | Exploit for CVE-2021-40449 | https://github.com/Kristal-g/CVE-2021-40449_poc | | 
 | 20211108T20:30:42Z | CVE-2021-30657 | A sample POC for CVE-2021-30657 affecting MacOS | https://github.com/shubham0d/CVE-2021-30657 | | 
 | 20211108T19:17:12Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | | 
 | 20211108T17:22:26Z | CVE-2021-40346 | HAProxy CVE-2021-40346 | https://github.com/Vulnmachines/HAProxy_CVE-2021-40346 | | 
@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211109T01:15:34Z | Null | https://github.com/prince-aloha/nft-rarity-exploitation | 0 | 0| 
 | 20211109T01:03:14Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211109T01:00:06Z | Multiple hacks that breaks the game | https://github.com/Harry-P-Ness/blooket-hack- | 0 | 0| 
 | 20211109T00:45:25Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 14| 
@@ -94,7 +95,6 @@
 | 20211108T23:32:33Z | BSC LOAN EXPLOIT | https://github.com/bcsexploiter/bscexploitloan | 0 | 0| 
 | 20211108T23:25:40Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 101 | 236| 
 | 20211108T23:18:10Z | Project Elemental Is An Educational Malware, Designed To Help Find Windows Exploits / Vulnerabilities And Get Them Disclosed Safely. | https://github.com/MabelYT/ProjectElemental | 0 | 0| 
-| 20211108T23:07:20Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6124 | 1458| 
 
 
 # backdoor on Github 推荐
@@ -136,16 +136,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211108T13:50:45Z | Null | https://github.com/tezedge/tezedge-fuzzing | 2 | 0| 
-| 20211108T13:49:27Z | Fuzzy logic and regression used to model a car%s brakes. | https://github.com/flaasantos/Fuzzy-regression | 0 | 0| 
-| 20211108T13:40:27Z | Naive Bayes Classifiers | https://github.com/Jodavid/FuzzyClass | 0 | 0| 
-| 20211108T13:17:43Z | Using FCM algorithm to cluster points on a 2D plane | https://github.com/matinaghaei/Fuzzy-C-means-Clustering | 1 | 0| 
-| 20211108T13:13:33Z | Fuzz language model that used chatbot | https://github.com/ksjr7-crongcrong/chatbot_fuzzer | 0 | 1| 
-| 20211108T13:10:13Z | fuzztechnology dot com website | https://github.com/FuzzTechnology/fuzztech-website | 0 | 0| 
-| 20211108T13:06:03Z | Null | https://github.com/arkazelinda/fuzzy-octo-broccoli | 0 | 0| 
-| 20211108T12:52:12Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20211108T12:35:53Z | Null | https://github.com/PedroSGui/Transito_AC_Fuzzy | 0 | 0| 
-| 20211108T12:02:08Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 34 | 12| 
+| 20211109T01:09:18Z | web fuzzing tool | https://github.com/taise-hub/tfuzz | 0 | 0| 
+| 20211109T00:58:56Z | Mayhem fuzzme templates for programming languages and fuzzers that you love! | https://github.com/ForAllSecure/fuzzme | 3 | 0| 
+| 20211109T00:55:07Z | Null | https://github.com/makanankoe/fuzzy-pancake | 0 | 0| 
+| 20211109T00:14:06Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 34 | 12| 
+| 20211108T23:12:24Z | Code for fuzzy monkeys. | https://github.com/fuzzyatelin/fuzzyatelin.github.io | 3 | 11| 
+| 20211108T23:02:14Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20211108T22:46:25Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6792 | 1412| 
+| 20211108T22:35:00Z | Null | https://github.com/lindasuyono/fuzzy-octo-goggles | 0 | 0| 
+| 20211108T22:31:42Z | Null | https://github.com/vurosevic/stlf_fuzzy_anfis | 0 | 0| 
+| 20211108T22:09:50Z | Comparing tool variability and numerical variability in fMRI analyses results | https://github.com/big-data-lab-team/fuzzy-neurotools | 0 | 1| 
 
 
 

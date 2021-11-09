@@ -99,16 +99,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211108T13:50:45Z | Null | https://github.com/tezedge/tezedge-fuzzing | 2 | 0| 
-| 20211108T13:49:27Z | Fuzzy logic and regression used to model a car%s brakes. | https://github.com/flaasantos/Fuzzy-regression | 0 | 0| 
-| 20211108T13:40:27Z | Naive Bayes Classifiers | https://github.com/Jodavid/FuzzyClass | 0 | 0| 
-| 20211108T13:17:43Z | Using FCM algorithm to cluster points on a 2D plane | https://github.com/matinaghaei/Fuzzy-C-means-Clustering | 1 | 0| 
-| 20211108T13:13:33Z | Fuzz language model that used chatbot | https://github.com/ksjr7-crongcrong/chatbot_fuzzer | 0 | 1| 
-| 20211108T13:10:13Z | fuzztechnology dot com website | https://github.com/FuzzTechnology/fuzztech-website | 0 | 0| 
-| 20211108T13:06:03Z | Null | https://github.com/arkazelinda/fuzzy-octo-broccoli | 0 | 0| 
-| 20211108T12:52:12Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20211108T12:35:53Z | Null | https://github.com/PedroSGui/Transito_AC_Fuzzy | 0 | 0| 
-| 20211108T12:02:08Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 34 | 12| 
+| 20211108T23:12:24Z | Code for fuzzy monkeys. | https://github.com/fuzzyatelin/fuzzyatelin.github.io | 3 | 11| 
+| 20211108T23:02:14Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20211108T22:46:25Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6792 | 1412| 
+| 20211108T22:35:00Z | Null | https://github.com/lindasuyono/fuzzy-octo-goggles | 0 | 0| 
+| 20211108T22:31:42Z | Null | https://github.com/vurosevic/stlf_fuzzy_anfis | 0 | 0| 
+| 20211108T22:09:50Z | Comparing tool variability and numerical variability in fMRI analyses results | https://github.com/big-data-lab-team/fuzzy-neurotools | 0 | 1| 
+| 20211108T21:29:10Z | Research Advancing Fuzzing | https://github.com/ResearchAdvancingFuzzing/raf | 1 | 1| 
+| 20211108T21:26:47Z | A fuzzing management tools collection | https://github.com/MozillaSecurity/FuzzManager | 159 | 49| 
+| 20211108T21:25:47Z | Its a Fuzzer | https://github.com/ResearchAdvancingFuzzing/gtfo | 1 | 0| 
+| 20211108T20:59:52Z | An int array generator for automated fuzzer testing written in Rust | https://github.com/EanNewton/Rust-Array-Fuzzer | 0 | 0| 
 
 
 
