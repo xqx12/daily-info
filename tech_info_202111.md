@@ -115,7 +115,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211108T21:41:02Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2521 | 374| 
+| 20211109T01:22:51Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2522 | 374| 
 | 20211108T18:40:21Z | Symbolica%s open-source symbolic execution engine. | https://github.com/Symbolica/Symbolica | 42 | 2| 
 | 20211108T17:26:07Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 668 | 67| 
 | 20211108T14:50:41Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 503 | 77| 
