@@ -123,7 +123,7 @@
 | 20211109T07:46:16Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 10 | 4| 
 | 20211109T07:11:02Z | 🎻 Requiem: Modular exploit generation using symbolic execution | https://github.com/aesophor/requiem | 15 | 3| 
 | 20211109T01:39:00Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 168 | 10| 
-| 20211109T01:22:51Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2522 | 374| 
+| 20211109T01:22:51Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2522 | 375| 
 | 20211108T17:26:07Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 668 | 67| 
 | 20211108T14:50:41Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 503 | 77| 
 
