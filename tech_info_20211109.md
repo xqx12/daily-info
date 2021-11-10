@@ -15,6 +15,8 @@
 | 20211109 | SentinelOne 团队总结了一份 macOS 平台的恶意软件列表 | https://www.icloud.com/numbers/0x_OYW8KGP9dKYUV2PvXqdJNQ#SentinelOne_macOS| 
 | 20211109 | Joern - 基于代码属性图实现跨语言代码分析的平台，支持对源码、中间字节码、二进制文件的分析 | https://github.com/joernio/joern| 
 | 20211109 | APT 活动中的 Windows 系统本地提权漏洞及技术分析 | https://mp.weixin.qq.com/s/6mT0O9eur5-VEs0rbV0-mg| 
+| 20211109 | 深入研究 Snake Keylogger 的新变种恶意软件溯源. | https://paper.seebug.org/1752/| 
+| 20211109 | 主流供应商的一些攻击性漏洞汇总 . | https://github.com/r0eXpeR/supplier| 
 
 
 # 安全维基 推荐
@@ -27,11 +29,12 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211109T13:29:40Z | CVE-2021-40449 | Exploit for CVE-2021-40449 | https://github.com/Kristal-g/CVE-2021-40449_poc | | 
+| 20211109T23:06:09Z | CVE-2021-21985 | VMWARE VCENTER SERVER VIRTUAL SAN HEALTH CHECK PLUG-IN RCE (CVE-2021-21985)  | https://github.com/sknux/CVE-2021-21985_PoC | | 
+| 20211109T19:09:52Z | CVE-2021-22205 | Null | https://github.com/faisalfs10x/GitLab-CVE-2021-22205-scanner | | 
+| 20211109T17:42:25Z | CVE-2021-30657 | A sample POC for CVE-2021-30657 affecting MacOS | https://github.com/shubham0d/CVE-2021-30657 | | 
+| 20211109T15:50:17Z | CVE-2021-40346 | HAProxy CVE-2021-40346 | https://github.com/Vulnmachines/HAProxy_CVE-2021-40346 | | 
 | 20211109T13:21:39Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | | 
 | 20211109T11:59:55Z | CVE-2021-20837 | XMLRPC  - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | | 
-| 20211109T11:15:22Z | CVE-2021-40539 | Exploitation code for CVE-2021-40539 | https://github.com/synacktiv/CVE-2021-40539 | | 
-| 20211109T08:11:46Z | CVE-2021-30657 | A sample POC for CVE-2021-30657 affecting MacOS | https://github.com/shubham0d/CVE-2021-30657 | | 
 | 20211109T07:54:51Z | CVE-2021-36808 | A local attacker could bypass the app password using a race condition in Sophos Secure Workspace for Android before version 9.7.3115. | https://github.com/ctuIhu/CVE-2021-36808 | | 
 | 20211109T06:19:45Z | cve-2021-41773 | Proof-of-Concept for CVE-2021-41773 | https://github.com/ahmad4fifz/docker-cve-2021-41773 | | 
 | 20211109T03:26:22Z | CVE-2021-43267 | trusty poc Provide it to legitimate people | https://github.com/DarkSprings/CVE-2021-43267-POC | | 
@@ -40,9 +43,11 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211109T13:04:26Z | Research paper On The Termination of Borrow Checking for Rust and a web application, CLI application and VSCode extension for running static analysis of rust-based smart contracts with a ready-to-be-verified project example. | https://github.com/LedgerProject/safepkt | 0 | 1| 
-| 20211109T12:17:04Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
-| 20211109T11:31:24Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2930 | 83| 
+| 20211109T22:45:48Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 219 | 36| 
+| 20211109T16:44:49Z | Research paper On The Termination of Borrow Checking for Rust and a web application, CLI application and VSCode extension for running static analysis of rust-based smart contracts with a ready-to-be-verified project example. | https://github.com/LedgerProject/safepkt | 0 | 1| 
+| 20211109T15:05:39Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
+| 20211109T14:28:20Z | Spring 2021 Geography 817 work folder  | https://github.com/klee12/klee12.github.io | 0 | 0| 
+| 20211109T14:08:06Z | Null | https://github.com/ayazip/witch-klee | 0 | 0| 
 | 20211109T11:23:05Z | Dynamic and symbolic taint analysis for multi-thread programs | https://github.com/xdzhang-xjtu/kleem | 0 | 0| 
 
 
@@ -57,30 +62,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211109T13:59:39Z | Null | https://github.com/Robinx0/exploits | 0 | 0| 
-| 20211109T13:54:37Z | An exploit written for my old school%s website :) | https://github.com/kn1pnc/etelg-ph | 0 | 0| 
-| 20211109T13:47:28Z | Script written in Python to detect and exploit the ICSA-17-124-01 vulnerability, also known as Hikvision Camera Backdoor.  | https://github.com/fracergu/HIKSCript | 0 | 0| 
-| 20211109T13:17:42Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 254 | 14| 
-| 20211109T13:03:02Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
-| 20211109T12:55:19Z | Null | https://github.com/Athis-Offsec/Exploits-I-Developed | 0 | 0| 
-| 20211109T12:48:49Z | Null | https://github.com/pwn4all/exploit | 0 | 0| 
-| 20211109T12:45:25Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 14| 
-| 20211109T12:34:33Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 3717 | 1285| 
-| 20211109T12:31:56Z | My own collection of usual functions that I use during binary exploitation training | https://github.com/mousepad01/python_binary_exploit_utilites | 1 | 0| 
+| 20211109T23:26:50Z | [Roblox] Downtown RP ESP (Gun Crates, Printers) -- genta | https://github.com/subn0de/Roblox_Exploits | 0 | 0| 
+| 20211109T23:20:39Z | Null | https://github.com/Youheng-Lue/art-exploit | 0 | 0| 
+| 20211109T22:55:07Z | Null | https://github.com/merissab44/Jinja2-ExploitMe | 0 | 0| 
+| 20211109T22:48:54Z | [NeurIPS 2021] Source code for the paper %Qu-ANTI-zation: Exploiting Neural Network Quantization for Achieving Adversarial Outcomes% | https://github.com/Secure-AI-Systems-Group/Qu-ANTI-zation | 2 | 0| 
+| 20211109T22:23:35Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10308 | 1770| 
+| 20211109T22:06:05Z | A repo which will help a beginner to learn and exploit the vulnerabilities. | https://github.com/tomsey0/bug-bounty-duo | 0 | 0| 
+| 20211109T22:02:32Z | A collection of Windows, Website and Wifi pentesting scripts and exploits. | https://github.com/sobri3195/Pegabox | 10 | 13| 
+| 20211109T22:02:02Z | Null | https://github.com/Pen-Test3rs/binary_exploits_tasks_public | 0 | 0| 
+| 20211109T21:46:35Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 104 | 241| 
+| 20211109T21:10:39Z | Drafts of exploits made for studying and consultation purposes | https://github.com/brerodrigues/exploit_drafts | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211109T23:56:32Z | Using docker as a backdoor | https://github.com/zachtay1021/dockerBackdoor | 0 | 0| 
+| 20211109T23:56:15Z | python3 backdoor  | https://github.com/trevalkov/backdoor | 0 | 0| 
+| 20211109T23:02:11Z | Null | https://github.com/samuelventura/nerves_backdoor | 0 | 0| 
+| 20211109T19:56:25Z | https://www.whonix.org/wiki/Verifiable_Builds - for better security. Makes finding backdoors easier. | https://github.com/Whonix/whonix-initializer | 2 | 3| 
+| 20211109T18:49:55Z | The best backdoor scanner there is. | https://github.com/iK4oS/backdoor.exe | 2 | 4| 
+| 20211109T16:49:33Z | Null | https://github.com/henil0604/backdoor-boiler | 0 | 0| 
 | 20211109T13:47:28Z | Script written in Python to detect and exploit the ICSA-17-124-01 vulnerability, also known as Hikvision Camera Backdoor.  | https://github.com/fracergu/HIKSCript | 0 | 0| 
 | 20211109T13:18:09Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 355 | 63| 
-| 20211109T11:44:43Z | Null | https://github.com/henil0604/backdoor-boiler | 0 | 0| 
 | 20211109T11:17:09Z | A papermc plugin that allows code execution without any permissions on the server for selected users. | https://github.com/TheSaltyBoys/backdoor-v4 | 5 | 3| 
-| 20211109T11:07:46Z | Null | https://github.com/samuelventura/nerves_backdoor | 0 | 0| 
 | 20211109T08:56:16Z | Antivirus evasion project  | https://github.com/Ch0pin/AVIator | 609 | 173| 
-| 20211109T05:51:29Z | Remote control software, supported Windows/Unix/MacOS/Linux(x86/x64/mips/arm) | https://github.com/h1zzz/purewater | 5 | 0| 
-| 20211109T00:46:43Z | Codebase for my Level 4 University Project: Static Analysis of Executable Code to Detect Backdoors on IoT Devices | https://github.com/sophieboyle/Static-IoT-Backdoor-Detection | 0 | 0| 
-| 20211109T00:14:17Z | My personal unique wiki for hacking the router firmware used by (Telia)TG799vac Xtream v17.2-MINT delivered from Technicolor  | https://github.com/wuseman/TG799VAC-XTREME-17.2-MINT | 65 | 18| 
 
 
 # symbolic execution on Github 推荐
