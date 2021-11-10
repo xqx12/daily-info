@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211110T01:45:16Z | CVE-2021-40449 | Exploit for CVE-2021-40449 | https://github.com/Kristal-g/CVE-2021-40449_poc | | 
+| 20211110T02:00:52Z | CVE-2021-40449 | Exploit for CVE-2021-40449 | https://github.com/Kristal-g/CVE-2021-40449_poc | | 
 | 20211110T00:25:13Z | CVE-2021-40539 | Exploitation code for CVE-2021-40539 | https://github.com/synacktiv/CVE-2021-40539 | | 
 | 20211109T23:06:09Z | CVE-2021-21985 | VMWARE VCENTER SERVER VIRTUAL SAN HEALTH CHECK PLUG-IN RCE (CVE-2021-21985)  | https://github.com/sknux/CVE-2021-21985_PoC | | 
 | 20211109T19:09:52Z | CVE-2021-22205 | Null | https://github.com/faisalfs10x/GitLab-CVE-2021-22205-scanner | | 
@@ -86,16 +86,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211110T01:53:14Z | 7.5x Sleirsgoevy exploit | https://github.com/chronoss09/sleirsgoevy755 | 0 | 0| 
+| 20211110T02:07:31Z | 7.5x Sleirsgoevy exploit | https://github.com/chronoss09/sleirsgoevy755 | 0 | 0| 
+| 20211110T02:05:50Z | Null | https://github.com/HonestlyDex/DexHubWeb | 0 | 1| 
+| 20211110T02:03:09Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211110T01:46:47Z | Project to optimize the exploitation transition phase in AFLGo | https://github.com/goodtaeeun/FuzzFrame | 0 | 0| 
 | 20211110T01:22:17Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 107 | 243| 
-| 20211110T01:03:23Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211110T01:01:25Z | Null | https://github.com/hamza07-w/Exploit-Development | 1 | 0| 
 | 20211110T00:45:24Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 14| 
 | 20211110T00:21:12Z | Null | https://github.com/pwn4all/exploit | 0 | 0| 
 | 20211110T00:00:47Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6130 | 1458| 
 | 20211109T23:26:50Z | [Roblox] Downtown RP ESP (Gun Crates, Printers) -- genta | https://github.com/subn0de/Roblox_Exploits | 0 | 0| 
-| 20211109T23:20:39Z | Null | https://github.com/Youheng-Lue/art-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -138,16 +138,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211110T02:06:29Z | Simple fuzzing tool designed for multi-threaded operation and for testing execution time.  | https://github.com/amitjain-3/twoFuzzingLong | 0 | 0| 
+| 20211110T02:03:55Z | Null | https://github.com/luigiacc/LancaGranadaFuzzy | 0 | 0| 
+| 20211110T01:57:53Z | CoreSight Decoder for Fuzzing  | https://github.com/RICSecLab/coresight-decoder | 0 | 0| 
+| 20211110T01:57:49Z | Hardware-Assisted Process Tracer for Fuzzing on ARM64 Linux | https://github.com/RICSecLab/coresight-trace | 0 | 0| 
 | 20211110T01:46:47Z | Project to optimize the exploitation transition phase in AFLGo | https://github.com/goodtaeeun/FuzzFrame | 0 | 0| 
 | 20211110T01:45:43Z | Null | https://github.com/cycy2233/fuzzy-umbrella | 0 | 0| 
 | 20211110T01:40:31Z | Este es un fuzzer que nació con la idea de crear un programa en Python3 que enviará múltiples peticiones HTTP en paralelo. El proyecto lleva 4 horas de código, lo cual no es nada y en más, sólo lo he probado en local, así que aún hay mucho por hacer. Veamos qué tan lejos lo podemos llevar... | https://github.com/sha-16/fuzzer-16 | 0 | 0| 
 | 20211110T01:05:08Z | Null | https://github.com/ChrisHayes1/Fuzz-Testing-GUIs-Cross-Platform | 0 | 0| 
 | 20211110T00:24:08Z | Null | https://github.com/thecoocko/fuzzy_mathematics | 0 | 0| 
 | 20211110T00:08:32Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 35 | 12| 
-| 20211109T23:42:49Z | x5 Team Project Proposal | https://github.com/chance400/fuzzy-winner | 0 | 1| 
-| 20211109T23:21:28Z | A Software Package for Fuzzing Autonomous Driving Systems in Simulators | https://github.com/AIasd/ADFuzz | 0 | 0| 
-| 20211109T22:32:45Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2172 | 426| 
-| 20211109T22:31:45Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6794 | 1414| 
 
 
 
