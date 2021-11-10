@@ -86,7 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211110T01:14:11Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 105 | 241| 
+| 20211110T01:22:17Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 107 | 242| 
 | 20211110T01:03:23Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211110T01:01:25Z | Null | https://github.com/hamza07-w/Exploit-Development | 1 | 0| 
 | 20211110T00:45:24Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 14| 
@@ -116,7 +116,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211109T10:57:28Z | Symbolica%s open-source symbolic execution engine. | https://github.com/Symbolica/Symbolica | 43 | 2| 
+| 20211109T17:08:36Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 18 | 4| 
+| 20211109T17:01:16Z | Symbolica%s open-source symbolic execution engine. | https://github.com/Symbolica/Symbolica | 43 | 2| 
+| 20211109T14:54:05Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 22 | 12| 
 | 20211109T10:39:51Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 163 | 37| 
 | 20211109T07:46:16Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 10 | 4| 
 | 20211109T07:11:02Z | 🎻 Requiem: Modular exploit generation using symbolic execution | https://github.com/aesophor/requiem | 15 | 3| 
@@ -124,8 +126,6 @@
 | 20211109T01:22:51Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2522 | 374| 
 | 20211108T17:26:07Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 668 | 67| 
 | 20211108T14:50:41Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 503 | 77| 
-| 20211108T13:15:20Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1915 | 401| 
-| 20211108T09:47:29Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 15 | 11| 
 
 
 # big4 on Github 推荐
