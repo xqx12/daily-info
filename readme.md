@@ -79,7 +79,6 @@
 | --- | --- | --- | --- | ---| 
 | 20211109T23:56:32Z | Using docker as a backdoor | https://github.com/zachtay1021/dockerBackdoor | 0 | 0| 
 | 20211109T23:56:15Z | python3 backdoor  | https://github.com/trevalkov/backdoor | 0 | 0| 
-| 20211109T23:02:11Z | Null | https://github.com/samuelventura/nerves_backdoor | 0 | 0| 
 | 20211109T19:56:25Z | https://www.whonix.org/wiki/Verifiable_Builds - for better security. Makes finding backdoors easier. | https://github.com/Whonix/whonix-initializer | 2 | 3| 
 | 20211109T18:49:55Z | The best backdoor scanner there is. | https://github.com/iK4oS/backdoor.exe | 2 | 4| 
 | 20211109T16:49:33Z | Null | https://github.com/henil0604/backdoor-boiler | 0 | 0| 
@@ -87,6 +86,7 @@
 | 20211109T13:18:09Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 355 | 63| 
 | 20211109T11:17:09Z | A papermc plugin that allows code execution without any permissions on the server for selected users. | https://github.com/TheSaltyBoys/backdoor-v4 | 5 | 3| 
 | 20211109T08:56:16Z | Antivirus evasion project  | https://github.com/Ch0pin/AVIator | 609 | 173| 
+| 20211109T05:51:29Z | Remote control software, supported Windows/Unix/MacOS/Linux(x86/x64/mips/arm) | https://github.com/h1zzz/purewater | 5 | 0| 
 
 
 # symbolic execution on Github 推荐

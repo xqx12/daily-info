@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211110T00:56:18Z | CVE-2021-40449 | Exploit for CVE-2021-40449 | https://github.com/Kristal-g/CVE-2021-40449_poc | | 
+| 20211110T01:45:16Z | CVE-2021-40449 | Exploit for CVE-2021-40449 | https://github.com/Kristal-g/CVE-2021-40449_poc | | 
 | 20211110T00:25:13Z | CVE-2021-40539 | Exploitation code for CVE-2021-40539 | https://github.com/synacktiv/CVE-2021-40539 | | 
 | 20211109T23:06:09Z | CVE-2021-21985 | VMWARE VCENTER SERVER VIRTUAL SAN HEALTH CHECK PLUG-IN RCE (CVE-2021-21985)  | https://github.com/sknux/CVE-2021-21985_PoC | | 
 | 20211109T19:09:52Z | CVE-2021-22205 | Null | https://github.com/faisalfs10x/GitLab-CVE-2021-22205-scanner | | 
@@ -86,7 +86,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211110T01:22:17Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 107 | 242| 
+| 20211110T01:53:14Z | 7.5x Sleirsgoevy exploit | https://github.com/chronoss09/sleirsgoevy755 | 0 | 0| 
+| 20211110T01:46:47Z | Project to optimize the exploitation transition phase in AFLGo | https://github.com/goodtaeeun/FuzzFrame | 0 | 0| 
+| 20211110T01:22:17Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 107 | 243| 
 | 20211110T01:03:23Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211110T01:01:25Z | Null | https://github.com/hamza07-w/Exploit-Development | 1 | 0| 
 | 20211110T00:45:24Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 14| 
@@ -94,23 +96,21 @@
 | 20211110T00:00:47Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6130 | 1458| 
 | 20211109T23:26:50Z | [Roblox] Downtown RP ESP (Gun Crates, Printers) -- genta | https://github.com/subn0de/Roblox_Exploits | 0 | 0| 
 | 20211109T23:20:39Z | Null | https://github.com/Youheng-Lue/art-exploit | 0 | 0| 
-| 20211109T22:55:07Z | Null | https://github.com/merissab44/Jinja2-ExploitMe | 0 | 0| 
-| 20211109T22:48:54Z | [NeurIPS 2021] Source code for the paper %Qu-ANTI-zation: Exploiting Neural Network Quantization for Achieving Adversarial Outcomes% | https://github.com/Secure-AI-Systems-Group/Qu-ANTI-zation | 2 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211110T01:54:04Z | Null | https://github.com/zephr1213/Pyro-Backdoor-Whitelist | 0 | 0| 
+| 20211110T01:39:28Z | Null | https://github.com/samuelventura/nerves_backdoor | 0 | 0| 
 | 20211109T23:56:32Z | Using docker as a backdoor | https://github.com/zachtay1021/dockerBackdoor | 0 | 0| 
 | 20211109T23:56:15Z | python3 backdoor  | https://github.com/trevalkov/backdoor | 0 | 0| 
-| 20211109T23:02:11Z | Null | https://github.com/samuelventura/nerves_backdoor | 0 | 0| 
 | 20211109T19:56:25Z | https://www.whonix.org/wiki/Verifiable_Builds - for better security. Makes finding backdoors easier. | https://github.com/Whonix/whonix-initializer | 2 | 3| 
 | 20211109T18:49:55Z | The best backdoor scanner there is. | https://github.com/iK4oS/backdoor.exe | 2 | 4| 
 | 20211109T16:49:33Z | Null | https://github.com/henil0604/backdoor-boiler | 0 | 0| 
 | 20211109T13:47:28Z | Script written in Python to detect and exploit the ICSA-17-124-01 vulnerability, also known as Hikvision Camera Backdoor.  | https://github.com/fracergu/HIKSCript | 0 | 0| 
 | 20211109T13:18:09Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 355 | 63| 
 | 20211109T11:17:09Z | A papermc plugin that allows code execution without any permissions on the server for selected users. | https://github.com/TheSaltyBoys/backdoor-v4 | 5 | 3| 
-| 20211109T08:56:16Z | Antivirus evasion project  | https://github.com/Ch0pin/AVIator | 609 | 173| 
 
 
 # symbolic execution on Github 推荐
@@ -138,7 +138,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211110T01:15:45Z | Este es un fuzzer que nació con la idea de crear un programa en Python3 que enviará múltiples peticiones HTTP en paralelo. El proyecto lleva 4 horas de código, lo cual no es nada y en más, sólo lo he probado en local, así que aún hay mucho por hacer. Veamos qué tan lejos lo podemos llevar... | https://github.com/sha-16/fuzzer-16 | 0 | 0| 
+| 20211110T01:46:47Z | Project to optimize the exploitation transition phase in AFLGo | https://github.com/goodtaeeun/FuzzFrame | 0 | 0| 
+| 20211110T01:45:43Z | Null | https://github.com/cycy2233/fuzzy-umbrella | 0 | 0| 
+| 20211110T01:40:31Z | Este es un fuzzer que nació con la idea de crear un programa en Python3 que enviará múltiples peticiones HTTP en paralelo. El proyecto lleva 4 horas de código, lo cual no es nada y en más, sólo lo he probado en local, así que aún hay mucho por hacer. Veamos qué tan lejos lo podemos llevar... | https://github.com/sha-16/fuzzer-16 | 0 | 0| 
 | 20211110T01:05:08Z | Null | https://github.com/ChrisHayes1/Fuzz-Testing-GUIs-Cross-Platform | 0 | 0| 
 | 20211110T00:24:08Z | Null | https://github.com/thecoocko/fuzzy_mathematics | 0 | 0| 
 | 20211110T00:08:32Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 35 | 12| 
@@ -146,8 +148,6 @@
 | 20211109T23:21:28Z | A Software Package for Fuzzing Autonomous Driving Systems in Simulators | https://github.com/AIasd/ADFuzz | 0 | 0| 
 | 20211109T22:32:45Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2172 | 426| 
 | 20211109T22:31:45Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6794 | 1414| 
-| 20211109T22:21:44Z | A lang-brainscore repository for initial dirty development; select code will be migrated to a lean and clean more permanent repo in the future  | https://github.com/language-brainscore/lang-brainscore-fuzzy-potato | 0 | 0| 
-| 20211109T22:20:57Z | Null | https://github.com/rubenhensen/fuzz-openttd | 0 | 0| 
 
 
 
