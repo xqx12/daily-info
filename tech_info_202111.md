@@ -46,7 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211110T13:47:10Z | CVE-2021-22205 | Null | https://github.com/faisalfs10x/GitLab-CVE-2021-22205-scanner | | 
+| 20211110T13:57:58Z | cve-2021-22205 | Null | https://github.com/ahmad4fifz/docker-cve-2021-22205 | | 
+| 20211110T13:57:56Z | CVE-2021-22205 | Null | https://github.com/faisalfs10x/GitLab-CVE-2021-22205-scanner | | 
 | 20211110T13:40:08Z | CVE-2021-88888 | 2222222 | https://github.com/RichardKabuto/CVE-2021-88888 | | 
 | 20211110T12:28:44Z | CVE-2021-40449 | Exploit for CVE-2021-40449 | https://github.com/Kristal-g/CVE-2021-40449_poc | | 
 | 20211110T11:58:53Z | CVE-2021-9876 | 1111111 | https://github.com/RichardKabuto/CVE-2021-9876 | | 
@@ -55,7 +56,6 @@
 | 20211110T04:07:44Z | CVE-2021-20837 | XMLRPC  - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | | 
 | 20211110T02:27:00Z | CVE-2021-30657 | A sample POC for CVE-2021-30657 affecting MacOS | https://github.com/shubham0d/CVE-2021-30657 | | 
 | 20211109T23:06:09Z | CVE-2021-21985 | VMWARE VCENTER SERVER VIRTUAL SAN HEALTH CHECK PLUG-IN RCE (CVE-2021-21985)  | https://github.com/sknux/CVE-2021-21985_PoC | | 
-| 20211109T15:50:17Z | CVE-2021-40346 | HAProxy CVE-2021-40346 | https://github.com/Vulnmachines/HAProxy_CVE-2021-40346 | | 
 
 
 # klee on Github 推荐
@@ -86,7 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211110T13:47:46Z | K8博客 | https://github.com/k8gege/k8gege.github.io | 20 | 7| 
+| 20211110T13:57:24Z | K8博客 | https://github.com/k8gege/k8gege.github.io | 20 | 7| 
 | 20211110T13:42:24Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10310 | 1770| 
 | 20211110T13:30:53Z | OMQHUB is my own Roblox Exploiting hub, a pretty simple one but an powerful one. | https://github.com/NotMxth/OMQHUB | 1 | 1| 
 | 20211110T13:26:30Z | Null | https://github.com/NotFoundHacker/Roblox-Exploits | 0 | 0| 
@@ -138,6 +138,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211110T13:54:40Z | Fuzzy logic control of a switched reluctance motor, implementation in jupyter notebook Python. | https://github.com/ParasKumarGupta/Fuzzy-logic-control-of-a-switched-reluctance-motor | 1 | 0| 
 | 20211110T13:33:27Z | White-box fuzzer for Java bytecode | https://github.com/vorpal-research/kex | 7 | 10| 
 | 20211110T13:28:56Z | Null | https://github.com/claroty/busybox-fuzzing | 12 | 0| 
 | 20211110T13:27:58Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6796 | 1414| 
@@ -147,7 +148,6 @@
 | 20211110T13:24:18Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2175 | 427| 
 | 20211110T13:17:08Z | Null | https://github.com/rangan2510/fuzzy-atrous-conv | 0 | 0| 
 | 20211110T13:15:34Z | Wind energy has gained an increasing worldwide interest due to the continuous increase in fuel cost and the need to have a clean source of energy. The main objective of most of the wind energy systems is to extract the maximum power available in the wind stream. However, the wind regime varies continuously and thus the system controllers should be updated to follow these variations. This paper is intended to apply fuzzy logic control techniques to overcome the effect of the wind speed variations on the parameters of the wind turbines and their controllers | https://github.com/navinkryadav/wind-energy-fuzzy-control | 0 | 0| 
-| 20211110T13:13:59Z | Web Fuzzer Helper | https://github.com/Aif4thah/CShidori | 0 | 0| 
 
 
 
