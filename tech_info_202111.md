@@ -138,6 +138,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211110T02:11:06Z | A Software Package for Fuzzing Autonomous Driving Systems in Simulators | https://github.com/AIasd/ADFuzz | 0 | 0| 
 | 20211110T02:06:29Z | Simple fuzzing tool designed for multi-threaded operation and for testing execution time.  | https://github.com/amitjain-3/twoFuzzingLong | 0 | 0| 
 | 20211110T02:03:55Z | Null | https://github.com/luigiacc/LancaGranadaFuzzy | 0 | 0| 
 | 20211110T01:57:53Z | CoreSight Decoder for Fuzzing  | https://github.com/RICSecLab/coresight-decoder | 0 | 0| 
@@ -147,7 +148,6 @@
 | 20211110T01:40:31Z | Este es un fuzzer que nació con la idea de crear un programa en Python3 que enviará múltiples peticiones HTTP en paralelo. El proyecto lleva 4 horas de código, lo cual no es nada y en más, sólo lo he probado en local, así que aún hay mucho por hacer. Veamos qué tan lejos lo podemos llevar... | https://github.com/sha-16/fuzzer-16 | 0 | 0| 
 | 20211110T01:05:08Z | Null | https://github.com/ChrisHayes1/Fuzz-Testing-GUIs-Cross-Platform | 0 | 0| 
 | 20211110T00:24:08Z | Null | https://github.com/thecoocko/fuzzy_mathematics | 0 | 0| 
-| 20211110T00:08:32Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 35 | 12| 
 
 
 
