@@ -101,6 +101,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211110T02:45:07Z | Lite version of my Gatekeeper backdoor for public use. | https://github.com/dievus/MayorSecBackdoor | 47 | 8| 
 | 20211110T01:54:04Z | Null | https://github.com/zephr1213/Pyro-Backdoor-Whitelist | 0 | 0| 
 | 20211110T01:39:28Z | Null | https://github.com/samuelventura/nerves_backdoor | 0 | 0| 
 | 20211109T23:56:32Z | Using docker as a backdoor | https://github.com/zachtay1021/dockerBackdoor | 0 | 0| 
@@ -110,7 +111,6 @@
 | 20211109T16:49:33Z | Null | https://github.com/henil0604/backdoor-boiler | 0 | 0| 
 | 20211109T13:47:28Z | Script written in Python to detect and exploit the ICSA-17-124-01 vulnerability, also known as Hikvision Camera Backdoor.  | https://github.com/fracergu/HIKSCript | 0 | 0| 
 | 20211109T13:18:09Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 355 | 63| 
-| 20211109T11:17:09Z | A papermc plugin that allows code execution without any permissions on the server for selected users. | https://github.com/TheSaltyBoys/backdoor-v4 | 5 | 3| 
 
 
 # symbolic execution on Github 推荐
@@ -138,16 +138,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211110T02:47:22Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6795 | 1414| 
+| 20211110T02:45:13Z | Hardware-Assisted Process Tracer for Fuzzing on ARM64 Linux | https://github.com/RICSecLab/coresight-trace | 0 | 0| 
 | 20211110T02:33:31Z | A Software Package for Fuzzing Autonomous Driving Systems in Simulators | https://github.com/AIasd/ADFuzz | 0 | 0| 
 | 20211110T02:06:29Z | Simple fuzzing tool designed for multi-threaded operation and for testing execution time.  | https://github.com/amitjain-3/twoFuzzingLong | 0 | 0| 
 | 20211110T02:03:55Z | Null | https://github.com/luigiacc/LancaGranadaFuzzy | 0 | 0| 
 | 20211110T01:57:53Z | CoreSight Decoder for Fuzzing  | https://github.com/RICSecLab/coresight-decoder | 0 | 0| 
-| 20211110T01:57:49Z | Hardware-Assisted Process Tracer for Fuzzing on ARM64 Linux | https://github.com/RICSecLab/coresight-trace | 0 | 0| 
 | 20211110T01:46:47Z | Project to optimize the exploitation transition phase in AFLGo | https://github.com/goodtaeeun/FuzzFrame | 0 | 0| 
 | 20211110T01:45:43Z | Null | https://github.com/cycy2233/fuzzy-umbrella | 0 | 0| 
 | 20211110T01:40:31Z | Este es un fuzzer que nació con la idea de crear un programa en Python3 que enviará múltiples peticiones HTTP en paralelo. El proyecto lleva 4 horas de código, lo cual no es nada y en más, sólo lo he probado en local, así que aún hay mucho por hacer. Veamos qué tan lejos lo podemos llevar... | https://github.com/sha-16/fuzzer-16 | 0 | 0| 
 | 20211110T01:05:08Z | Null | https://github.com/ChrisHayes1/Fuzz-Testing-GUIs-Cross-Platform | 0 | 0| 
-| 20211110T00:24:08Z | Null | https://github.com/thecoocko/fuzzy_mathematics | 0 | 0| 
 
 
 

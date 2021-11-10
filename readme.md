@@ -113,7 +113,6 @@
 | --- | --- | --- | --- | ---| 
 | 20211109T23:42:49Z | x5 Team Project Proposal | https://github.com/chance400/fuzzy-winner | 0 | 1| 
 | 20211109T22:32:45Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2172 | 426| 
-| 20211109T22:31:45Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6794 | 1414| 
 | 20211109T22:21:44Z | A lang-brainscore repository for initial dirty development; select code will be migrated to a lean and clean more permanent repo in the future  | https://github.com/language-brainscore/lang-brainscore-fuzzy-potato | 0 | 0| 
 | 20211109T22:20:57Z | Null | https://github.com/rubenhensen/fuzz-openttd | 0 | 0| 
 | 20211109T22:11:30Z | A fork and successor of the Sulley Fuzzing Framework | https://github.com/jtpereyda/boofuzz | 1353 | 266| 
@@ -121,6 +120,7 @@
 | 20211109T21:15:06Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
 | 20211109T20:53:22Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1153 | 136| 
 | 20211109T20:49:02Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4593 | 470| 
+| 20211109T20:27:40Z | Null | https://github.com/yasminekat/fuzzy-octo-potato | 0 | 0| 
 
 
 
