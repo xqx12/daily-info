@@ -86,16 +86,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211110T01:14:11Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 105 | 241| 
+| 20211110T01:03:23Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
+| 20211110T01:01:25Z | Null | https://github.com/hamza07-w/Exploit-Development | 1 | 0| 
 | 20211110T00:45:24Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 14| 
 | 20211110T00:21:12Z | Null | https://github.com/pwn4all/exploit | 0 | 0| 
-| 20211110T00:04:08Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211110T00:00:47Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6130 | 1458| 
 | 20211109T23:26:50Z | [Roblox] Downtown RP ESP (Gun Crates, Printers) -- genta | https://github.com/subn0de/Roblox_Exploits | 0 | 0| 
 | 20211109T23:20:39Z | Null | https://github.com/Youheng-Lue/art-exploit | 0 | 0| 
 | 20211109T22:55:07Z | Null | https://github.com/merissab44/Jinja2-ExploitMe | 0 | 0| 
 | 20211109T22:48:54Z | [NeurIPS 2021] Source code for the paper %Qu-ANTI-zation: Exploiting Neural Network Quantization for Achieving Adversarial Outcomes% | https://github.com/Secure-AI-Systems-Group/Qu-ANTI-zation | 2 | 0| 
-| 20211109T22:23:35Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10308 | 1770| 
-| 20211109T22:06:05Z | A repo which will help a beginner to learn and exploit the vulnerabilities. | https://github.com/tomsey0/bug-bounty-duo | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -138,16 +138,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211109T13:29:16Z | This repository contains the source code related to the conference paper Bias Quantification for Protected Features in Pattern Classification Problems published at the 25th Iberoamerican Congress on Pattern Recognition in March 2021. | https://github.com/LisaKouts/Fuzzy-rough-Uncertainty-Bias | 0 | 0| 
-| 20211109T13:10:02Z | Null | https://github.com/mahimayadav24/fuzzy-telegram.github.io | 0 | 0| 
-| 20211109T13:08:15Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 229 | 19| 
-| 20211109T13:05:49Z | Fuzzy based segmentation of remotely sensed images using an Adaptive Neuro Fuzzy Inference System (ANFIS). | https://github.com/andmon97/FuzzyRemoteSensingSegmentation | 9 | 0| 
-| 20211109T12:57:34Z | Null | https://github.com/Jaime2041/fuzzy-octo-train | 0 | 0| 
-| 20211109T12:49:28Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6792 | 1412| 
-| 20211109T12:37:28Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
-| 20211109T12:29:56Z | The Content Fuzzyfyr module for Magento2 fills up empty content fields - and if needed - switches real content with dummy content. This is for development purposes, e.g. save time to prepare test data and matching GDPR restrictions. | https://github.com/hivecommerce/magento2-content-fuzzyfyr | 3 | 1| 
-| 20211109T12:29:00Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 197 | 38| 
-| 20211109T12:22:31Z | Null | https://github.com/slashsec-edu/fuzz-target | 0 | 0| 
+| 20211110T01:15:45Z | Este es un fuzzer que nació con la idea de crear un programa en Python3 que enviará múltiples peticiones HTTP en paralelo. El proyecto lleva 4 horas de código, lo cual no es nada y en más, sólo lo he probado en local, así que aún hay mucho por hacer. Veamos qué tan lejos lo podemos llevar... | https://github.com/sha-16/fuzzer-16 | 0 | 0| 
+| 20211110T01:05:08Z | Null | https://github.com/ChrisHayes1/Fuzz-Testing-GUIs-Cross-Platform | 0 | 0| 
+| 20211110T00:24:08Z | Null | https://github.com/thecoocko/fuzzy_mathematics | 0 | 0| 
+| 20211110T00:08:32Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 35 | 12| 
+| 20211109T23:42:49Z | x5 Team Project Proposal | https://github.com/chance400/fuzzy-winner | 0 | 1| 
+| 20211109T23:21:28Z | A Software Package for Fuzzing Autonomous Driving Systems in Simulators | https://github.com/AIasd/ADFuzz | 0 | 0| 
+| 20211109T22:32:45Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2172 | 426| 
+| 20211109T22:31:45Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6794 | 1414| 
+| 20211109T22:21:44Z | A lang-brainscore repository for initial dirty development; select code will be migrated to a lean and clean more permanent repo in the future  | https://github.com/language-brainscore/lang-brainscore-fuzzy-potato | 0 | 0| 
+| 20211109T22:20:57Z | Null | https://github.com/rubenhensen/fuzz-openttd | 0 | 0| 
 
 
 

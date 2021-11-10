@@ -70,8 +70,8 @@
 | 20211109T22:06:05Z | A repo which will help a beginner to learn and exploit the vulnerabilities. | https://github.com/tomsey0/bug-bounty-duo | 0 | 0| 
 | 20211109T22:02:32Z | A collection of Windows, Website and Wifi pentesting scripts and exploits. | https://github.com/sobri3195/Pegabox | 10 | 13| 
 | 20211109T22:02:02Z | Null | https://github.com/Pen-Test3rs/binary_exploits_tasks_public | 0 | 0| 
-| 20211109T21:46:35Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 104 | 241| 
 | 20211109T21:10:39Z | Drafts of exploits made for studying and consultation purposes | https://github.com/brerodrigues/exploit_drafts | 0 | 0| 
+| 20211109T21:01:06Z | Random Exploits | https://github.com/w4fz5uck5/3XPL01t5 | 18 | 13| 
 
 
 # backdoor on Github 推荐
@@ -110,16 +110,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211109T13:29:16Z | This repository contains the source code related to the conference paper Bias Quantification for Protected Features in Pattern Classification Problems published at the 25th Iberoamerican Congress on Pattern Recognition in March 2021. | https://github.com/LisaKouts/Fuzzy-rough-Uncertainty-Bias | 0 | 0| 
-| 20211109T13:10:02Z | Null | https://github.com/mahimayadav24/fuzzy-telegram.github.io | 0 | 0| 
-| 20211109T13:08:15Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 229 | 19| 
-| 20211109T13:05:49Z | Fuzzy based segmentation of remotely sensed images using an Adaptive Neuro Fuzzy Inference System (ANFIS). | https://github.com/andmon97/FuzzyRemoteSensingSegmentation | 9 | 0| 
-| 20211109T12:57:34Z | Null | https://github.com/Jaime2041/fuzzy-octo-train | 0 | 0| 
-| 20211109T12:49:28Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6792 | 1412| 
-| 20211109T12:37:28Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
-| 20211109T12:29:56Z | The Content Fuzzyfyr module for Magento2 fills up empty content fields - and if needed - switches real content with dummy content. This is for development purposes, e.g. save time to prepare test data and matching GDPR restrictions. | https://github.com/hivecommerce/magento2-content-fuzzyfyr | 3 | 1| 
-| 20211109T12:29:00Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 197 | 38| 
-| 20211109T12:22:31Z | Null | https://github.com/slashsec-edu/fuzz-target | 0 | 0| 
+| 20211109T23:42:49Z | x5 Team Project Proposal | https://github.com/chance400/fuzzy-winner | 0 | 1| 
+| 20211109T23:21:28Z | A Software Package for Fuzzing Autonomous Driving Systems in Simulators | https://github.com/AIasd/ADFuzz | 0 | 0| 
+| 20211109T22:32:45Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2172 | 426| 
+| 20211109T22:31:45Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6794 | 1414| 
+| 20211109T22:21:44Z | A lang-brainscore repository for initial dirty development; select code will be migrated to a lean and clean more permanent repo in the future  | https://github.com/language-brainscore/lang-brainscore-fuzzy-potato | 0 | 0| 
+| 20211109T22:20:57Z | Null | https://github.com/rubenhensen/fuzz-openttd | 0 | 0| 
+| 20211109T22:11:30Z | A fork and successor of the Sulley Fuzzing Framework | https://github.com/jtpereyda/boofuzz | 1353 | 266| 
+| 20211109T21:48:55Z | A repository for top fuzzing works in the literature. | https://github.com/PBearson/Fuzzing_Works | 1 | 0| 
+| 20211109T21:15:06Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
+| 20211109T20:53:22Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1153 | 136| 
 
 
 
