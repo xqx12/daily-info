@@ -34,12 +34,12 @@
 | 20211110T21:14:27Z | CVE-2021-22205 | Null | https://github.com/faisalfs10x/GitLab-CVE-2021-22205-scanner | | 
 | 20211110T19:56:41Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | | 
 | 20211110T19:04:44Z | CVE-2021-30657 | A sample POC for CVE-2021-30657 affecting MacOS | https://github.com/shubham0d/CVE-2021-30657 | | 
-| 20211110T18:09:35Z | CVE-2021-42292 | A Zeek package to detect CVE-2021-42292, a Microsoft Excel local privilege escalation exploit. | https://github.com/corelight/CVE-2021-42292 | | 
 | 20211110T17:20:01Z | cve-2021-22205 | Null | https://github.com/ahmad4fifz/docker-cve-2021-22205 | | 
 | 20211110T16:32:47Z | CVE-2022-0001 | NB | https://github.com/RichardKabuto/CVE-2022-0001 | | 
 | 20211110T15:25:31Z | 未知编号 | redoing cve_2020 repository | https://github.com/sinjeanmin/cvedetails_2020_final | | 
 | 20211110T13:40:08Z | CVE-2021-88888 | 2222222 | https://github.com/RichardKabuto/CVE-2021-88888 | | 
 | 20211110T11:58:53Z | CVE-2021-9876 | 1111111 | https://github.com/RichardKabuto/CVE-2021-9876 | | 
+| 20211110T11:55:25Z | CVE-2021-99999 | Null | https://github.com/RichardKabuto/CVE-2021-99999 | | 
 
 
 # klee on Github 推荐
@@ -96,9 +96,11 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211110T10:55:17Z | A Ghidra extension that allows you to run Angr symbolic execution using the Pcode from Ghidra. | https://github.com/jdkleuver/PcodeSym | 4 | 0| 
+| 20211110T23:22:51Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2525 | 375| 
+| 20211110T23:05:07Z | A Ghidra extension that allows you to run Angr symbolic execution using the Pcode from Ghidra. | https://github.com/jdkleuver/PcodeSym | 4 | 0| 
+| 20211110T18:05:05Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1812 | 517| 
+| 20211110T15:55:21Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1916 | 401| 
 | 20211110T10:37:30Z | Symbolica%s open-source symbolic execution engine. | https://github.com/Symbolica/Symbolica | 43 | 2| 
-| 20211110T06:44:03Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2524 | 375| 
 | 20211110T04:02:52Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 10 | 4| 
 
 
@@ -113,14 +115,14 @@
 | --- | --- | --- | --- | ---| 
 | 20211110T23:50:22Z | Null | https://github.com/hashue/gh-fuzzyclone | 15 | 5| 
 | 20211110T23:34:15Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20211110T23:33:32Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6797 | 1416| 
+| 20211110T23:33:32Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6797 | 1417| 
 | 20211110T23:18:27Z | uwu | https://github.com/fuzziejaxer/Fuzziebot | 0 | 0| 
 | 20211110T22:34:48Z | An investigation of three fuzzers: American Fuzzy Lop++ (AFL), Honggfuzz, and Radamsa | https://github.com/hark130/hardy-remix | 0 | 0| 
 | 20211110T22:08:28Z | Black-box fuzzer that fuzzes APIs based on OpenAPI specification. Find bugs for free! | https://github.com/matusf/openapi-fuzzer | 17 | 0| 
 | 20211110T21:44:51Z | ClusterFuzzLite - Simple continuous fuzzing that runs in CI. | https://github.com/google/clusterfuzzlite | 3 | 4| 
-| 20211110T21:42:53Z | bash script to run from installation media to setup gentoo automagically | https://github.com/fjp321/fuzzy-goggles | 0 | 0| 
-| 20211110T21:40:07Z | Este es un fuzzer que me he creado en Bash; es medianamente rápido y preciso... Les invito a probarlo! | https://github.com/sha-16/FuzSH | 0 | 0| 
 | 20211110T21:31:34Z | Este es un fuzzer que nació con la idea de crear un programa en Python3 que enviara peticiones a servidores web de una forma un tanto más rápida. El proyecto lleva 8 horas de código aprox, lo cual no es nada, así que aún hay mucho por hacer... | https://github.com/sha-16/Fuzzer-16 | 0 | 0| 
+| 20211110T21:21:24Z | Null | https://github.com/ChrisHayes1/Fuzz-Testing-GUIs-Cross-Platform | 0 | 0| 
+| 20211110T20:58:50Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 7 | 0| 
 
 
 
