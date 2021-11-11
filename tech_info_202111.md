@@ -86,16 +86,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211111T03:08:40Z | https://exploit-poc.com | https://github.com/hktalent/exploit-poc | 1 | 0| 
+| 20211111T03:03:14Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
+| 20211111T03:02:46Z | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | 111 | 23| 
 | 20211111T02:43:27Z | [Roblox] Downtown RP ESP (Gun Crates, Printers) -- genta | https://github.com/subn0de/Roblox_Exploits | 0 | 0| 
 | 20211111T02:23:25Z | A simple yet powerful Lua-C script executor. | https://github.com/l3lch33ts/LE-C | 0 | 0| 
-| 20211111T02:03:10Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211111T01:55:54Z | McTrade is a bot exploiting Binance API, open source! built in python ! | https://github.com/nerap/McTrade | 3 | 0| 
 | 20211111T01:49:37Z | Null | https://github.com/PorryDepTrai/exploit | 0 | 0| 
 | 20211111T01:22:27Z | A Zeek package to detect CVE-2021-42292, a Microsoft Excel local privilege escalation exploit. | https://github.com/corelight/CVE-2021-42292 | 0 | 1| 
 | 20211111T01:17:53Z | A collection of write ups on how I solved each exploit challenge on Exploit Education | https://github.com/dyllan500/Exploit-Education-Write-Up | 0 | 0| 
 | 20211111T01:03:10Z | Null | https://github.com/exploitact/exploitnews | 0 | 0| 
-| 20211111T00:45:26Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 14| 
-| 20211111T00:31:40Z | Null | https://github.com/maplekaiser/exploitnews | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -138,16 +138,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211111T02:16:20Z | Null | https://github.com/aarontanx/fuzzy_matching | 0 | 0| 
+| 20211111T03:02:22Z | Null | https://github.com/LKeynes/fuzzy_logic_engine | 1 | 0| 
+| 20211111T02:56:46Z | Null | https://github.com/tatosjb/vscode-fuzzy-search | 10 | 6| 
+| 20211111T02:45:23Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
+| 20211111T02:42:15Z | Null | https://github.com/aarontanx/fuzzy_matching | 0 | 0| 
+| 20211111T02:40:25Z | Simple fuzzing tool designed for multi-threaded operation and for testing execution time.  | https://github.com/amitjain-3/twoFuzzingLong | 0 | 0| 
+| 20211111T02:40:09Z | Leetcode solutions. | https://github.com/chaitanyks/fuzzy-disco | 0 | 0| 
+| 20211111T02:19:23Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211111T01:57:37Z | flinging fuzzers for fun | https://github.com/dancwpark/f4 | 0 | 0| 
 | 20211111T01:26:40Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 592 | 62| 
 | 20211111T01:24:46Z | Un fuzzer escrito en Bash medianamente rápido y preciso... Les invito a probarlo! | https://github.com/sha-16/FuzSH | 0 | 0| 
-| 20211111T01:21:27Z | bash script to run from installation media to setup gentoo automagically | https://github.com/fjp321/fuzzy-goggles | 0 | 0| 
-| 20211111T00:57:59Z | Null | https://github.com/antonio-morales/Fuzzing101 | 635 | 58| 
-| 20211111T00:10:18Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 35 | 12| 
-| 20211110T23:50:22Z | Null | https://github.com/hashue/gh-fuzzyclone | 15 | 5| 
-| 20211110T23:34:15Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20211110T23:33:32Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6797 | 1417| 
 
 
 

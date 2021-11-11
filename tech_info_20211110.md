@@ -123,7 +123,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20211110T23:50:22Z | Null | https://github.com/hashue/gh-fuzzyclone | 15 | 5| 
-| 20211110T23:34:15Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211110T23:33:32Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6797 | 1417| 
 | 20211110T23:18:27Z | uwu | https://github.com/fuzziejaxer/Fuzziebot | 0 | 0| 
 | 20211110T22:34:48Z | An investigation of three fuzzers: American Fuzzy Lop++ (AFL), Honggfuzz, and Radamsa | https://github.com/hark130/hardy-remix | 0 | 0| 
@@ -132,6 +131,7 @@
 | 20211110T21:31:34Z | Este es un fuzzer que nació con la idea de crear un programa en Python3 que enviara peticiones a servidores web de una forma un tanto más rápida. El proyecto lleva 8 horas de código aprox, lo cual no es nada, así que aún hay mucho por hacer... | https://github.com/sha-16/Fuzzer-16 | 0 | 0| 
 | 20211110T21:21:24Z | Null | https://github.com/ChrisHayes1/Fuzz-Testing-GUIs-Cross-Platform | 0 | 0| 
 | 20211110T20:58:50Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 7 | 0| 
+| 20211110T20:44:01Z | Null | https://github.com/Peshraw1/fuzzy-goggles | 0 | 0| 
 
 
 
