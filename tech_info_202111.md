@@ -31,6 +31,8 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20211111 | Android应用攻与防 | https://mp.weixin.qq.com/s/qH6ksA03UcuwQgPHaNuBUg| 
+| 20211111 | 美国DARPA主导的智能化情报分析系列项目概览 | https://mp.weixin.qq.com/s/SERw3ORYBjwxOKcpNZBEGg| 
 | 20211110 | SaTC：一种全新的物联网设备漏洞自动化挖掘方法 | https://mp.weixin.qq.com/s/HAmL9rB8zmEsF-o906gCIg| 
 | 20211110 | 网络安全技术人员如何避开内卷 | https://mp.weixin.qq.com/s/cXV1-YSqngXp332qopEZSw| 
 | 20211110 | 有限样本下的暗网指纹识别 | https://mp.weixin.qq.com/s/OqfJA0d0JGRCjsnX2400Kw| 
@@ -39,38 +41,36 @@
 | 20211108 | SecWiki周刊（第401期) | https://www.sec-wiki.com/weekly/401| 
 | 20211108 | 基于告警关联的一种多阶段攻击检测方法 | https://mp.weixin.qq.com/s/YzBvYN60iSVp8Ofeo2UwUg| 
 | 20211108 | APT活动中的Windows系统本地提权漏洞及技术分析 | https://mp.weixin.qq.com/s/6mT0O9eur5-VEs0rbV0-mg| 
-| 20211108 | 面安服的一道笔试题 | https://www.sec-in.com/article/1038| 
-| 20211105 | 天府杯华硕会战的围剿与反围剿 | https://mp.weixin.qq.com/s/k1ouK1Gyxpped0ZK4H4h7g| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211111T01:22:27Z | CVE-2021-42292 | A Zeek package to detect CVE-2021-42292, a Microsoft Excel local privilege escalation exploit. | https://github.com/corelight/CVE-2021-42292 | | 
+| 20211111T12:40:55Z | CVE-2021-40449 | Exploit for CVE-2021-40449 | https://github.com/Kristal-g/CVE-2021-40449_poc | | 
+| 20211111T12:32:37Z | CVE-2021-42327 |  kernel exploit for minor bug i found in amd gpu driver | https://github.com/docfate111/CVE-2021-42327 | | 
+| 20211111T11:16:06Z | cve-2021-22205 | Null | https://github.com/ahmad4fifz/docker-cve-2021-22205 | | 
+| 20211111T10:34:53Z | CVE-2021-22205 | GitLab CE/EE Preauth RCE using ExifTool | https://github.com/inspiringz/CVE-2021-22205 | | 
+| 20211111T07:18:14Z | CVE-2021-22205 | Null | https://github.com/faisalfs10x/GitLab-CVE-2021-22205-scanner | | 
+| 20211111T06:24:06Z | CVE-2021-111199 | 1111111111111111111 | https://github.com/RichardKabuto/CVE-2021-111199 | | 
+| 20211111T04:48:25Z | CVE-2021-42292 | A Zeek package to detect CVE-2021-42292, a Microsoft Excel local privilege escalation exploit. | https://github.com/corelight/CVE-2021-42292 | | 
+| 20211111T03:51:16Z | CVE-2021-21985 | VMWARE VCENTER SERVER VIRTUAL SAN HEALTH CHECK PLUG-IN RCE (CVE-2021-21985)  | https://github.com/sknux/CVE-2021-21985_PoC | | 
 | 20211111T00:48:39Z | CVE-2021-41773 | Ce programme permet de détecter une faille RCE sur les serveurs Apache 2.4.49 et Apache 2.4.50 | https://github.com/Balgogan/CVE-2021-41773 | | 
-| 20211111T00:42:17Z | CVE-2021-40449 | Exploit for CVE-2021-40449 | https://github.com/Kristal-g/CVE-2021-40449_poc | | 
 | 20211110T22:36:54Z | CVE-2021-40539 | Exploitation code for CVE-2021-40539 | https://github.com/synacktiv/CVE-2021-40539 | | 
-| 20211110T21:14:27Z | CVE-2021-22205 | Null | https://github.com/faisalfs10x/GitLab-CVE-2021-22205-scanner | | 
-| 20211110T19:56:41Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | | 
-| 20211110T19:04:44Z | CVE-2021-30657 | A sample POC for CVE-2021-30657 affecting MacOS | https://github.com/shubham0d/CVE-2021-30657 | | 
-| 20211110T17:20:01Z | cve-2021-22205 | Null | https://github.com/ahmad4fifz/docker-cve-2021-22205 | | 
-| 20211110T16:32:47Z | CVE-2022-0001 | NB | https://github.com/RichardKabuto/CVE-2022-0001 | | 
-| 20211110T15:25:31Z | 未知编号 | redoing cve_2020 repository | https://github.com/sinjeanmin/cvedetails_2020_final | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211110T22:58:24Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2934 | 83| 
+| 20211111T11:37:35Z | Symbolic Liveness Analysis of real-world software building upon KLEE to detect liveness violations (e.g. infinite loop bugs) | https://github.com/COMSYS/SymbolicLivenessAnalysis | 11 | 0| 
+| 20211111T10:57:18Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2935 | 83| 
+| 20211111T07:54:34Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1813 | 517| 
 | 20211110T21:38:07Z | Null | https://github.com/timoodada/klee | 0 | 0| 
-| 20211110T18:05:05Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1812 | 517| 
 | 20211110T17:38:54Z | Null | https://github.com/ayazip/witch-klee | 0 | 0| 
 | 20211110T14:55:18Z | TracerX Symbolic Virtual Machine | https://github.com/tracer-x/TracerX | 15 | 9| 
 | 20211110T14:31:24Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 14 | 44| 
 | 20211110T13:50:09Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 219 | 36| 
 | 20211110T10:25:21Z | Minecraft Mod. Allows breaking only one half of a double slab block. | https://github.com/ModdingForBlockheads/KleeSlabs | 10 | 3| 
 | 20211110T09:54:49Z | Null | https://github.com/AlyonaAg/klee | 0 | 0| 
-| 20211110T08:44:06Z | Research paper On The Termination of Borrow Checking for Rust and a web application, CLI application and VSCode extension for running static analysis of rust-based smart contracts with a ready-to-be-verified project example. | https://github.com/LedgerProject/safepkt | 0 | 1| 
 
 
 # s2e on Github 推荐
@@ -86,31 +86,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211111T03:08:40Z | https://exploit-poc.com | https://github.com/hktalent/exploit-poc | 1 | 0| 
-| 20211111T03:03:14Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
-| 20211111T03:02:46Z | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | 111 | 23| 
-| 20211111T02:43:27Z | [Roblox] Downtown RP ESP (Gun Crates, Printers) -- genta | https://github.com/subn0de/Roblox_Exploits | 0 | 0| 
-| 20211111T02:23:25Z | A simple yet powerful Lua-C script executor. | https://github.com/l3lch33ts/LE-C | 0 | 0| 
-| 20211111T01:55:54Z | McTrade is a bot exploiting Binance API, open source! built in python ! | https://github.com/nerap/McTrade | 3 | 0| 
-| 20211111T01:49:37Z | Null | https://github.com/PorryDepTrai/exploit | 0 | 0| 
-| 20211111T01:22:27Z | A Zeek package to detect CVE-2021-42292, a Microsoft Excel local privilege escalation exploit. | https://github.com/corelight/CVE-2021-42292 | 0 | 1| 
-| 20211111T01:17:53Z | A collection of write ups on how I solved each exploit challenge on Exploit Education | https://github.com/dyllan500/Exploit-Education-Write-Up | 0 | 0| 
-| 20211111T01:03:10Z | Null | https://github.com/exploitact/exploitnews | 0 | 0| 
+| 20211111T12:46:58Z | collection of all exploits I own. | https://github.com/gxthbxy/Exploits | 0 | 0| 
+| 20211111T12:45:26Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 14| 
+| 20211111T12:36:47Z | A Roblox UI Library you can use for your scripts, both roblox studio and exploits are supported. | https://github.com/WhoIsDanix/Andronema | 1 | 0| 
+| 20211111T12:36:45Z | Null | https://github.com/Athis-Offsec/Exploits-I-Developed | 0 | 0| 
+| 20211111T12:21:10Z | A simple yet powerful Lua-C script executor. | https://github.com/l3lch33ts/LE-C | 0 | 0| 
+| 20211111T12:20:04Z | This repository will feature my scripts, research and documentation on Pokémon engines, glitches and exploits. | https://github.com/RETIREglitch/Pokemon-Research | 6 | 3| 
+| 20211111T12:14:35Z | Official repository for ChairWare, a powerful script/exploit hub for Roblox! | https://github.com/MiloHaxx/ChairWare | 0 | 0| 
+| 20211111T12:14:03Z | Null | https://github.com/dracoanguis/Systeme-Exploitation | 0 | 0| 
+| 20211111T12:08:40Z | Null | https://github.com/koharin/kernel_exploit | 0 | 0| 
+| 20211111T12:04:31Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211111T12:42:29Z | ./kumasia php simple backdoor | https://github.com/mugi789/kumasia | 11 | 4| 
+| 20211111T11:12:15Z | Null | https://github.com/BrasilianoDev/BackDoor | 0 | 0| 
+| 20211111T09:08:02Z | phpstudy后门多线程批量检测脚本 | https://github.com/einzbernnn/PhpstudyBackdoor | 2 | 0| 
+| 20211111T08:24:46Z | Null | https://github.com/Allen-piexl/CatchBackdoor | 0 | 0| 
+| 20211111T08:24:24Z | Null | https://github.com/Allen-piexl/CatchBackdoor2 | 0 | 0| 
+| 20211111T05:49:52Z | Actually run a given promise or mock its outcome based on a given input value | https://github.com/johanfive/backdoor | 1 | 0| 
+| 20211111T04:13:50Z | Database of backdoor passwords used by Malware, uncovered by the Malvuln project. | https://github.com/malvuln/viruscreds | 8 | 2| 
 | 20211111T00:26:21Z | Unofficial pytorch implementation of RobNet(Defense-Resistant Backdoor Attacks on DNN) | https://github.com/dhkim2810/RobNet | 0 | 0| 
 | 20211110T23:39:24Z | Script written in Python to detect and exploit the ICSA-17-124-01 vulnerability, also known as Hikvision Camera Backdoor.  | https://github.com/fracergu/HIKSCript | 0 | 0| 
 | 20211110T16:02:26Z | Remote control software, supported Windows/Unix/MacOS/Linux(x86/x64/mips/arm) | https://github.com/h1zzz/purewater | 5 | 0| 
-| 20211110T13:15:44Z | This is a python backdoor. This is for educational purposes only. | https://github.com/TKLinux966/B4cKD00R | 0 | 1| 
-| 20211110T12:44:08Z | RemoteEvent%s & RemoteFunction%s Backdoor Scanner. Feel free to visit now. | https://github.com/jaackkiscool/Frickin-SS-Scanner-v1.1 | 3 | 0| 
-| 20211110T06:18:06Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 355 | 63| 
-| 20211110T05:09:27Z | Using docker as a backdoor | https://github.com/zachtay1021/dockerBackdoor | 0 | 0| 
-| 20211110T04:41:50Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1493 | 372| 
-| 20211110T02:45:07Z | Lite version of my Gatekeeper backdoor for public use. | https://github.com/dievus/MayorSecBackdoor | 47 | 8| 
-| 20211110T01:54:04Z | Null | https://github.com/zephr1213/Pyro-Backdoor-Whitelist | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -138,16 +138,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211111T03:02:22Z | Null | https://github.com/LKeynes/fuzzy_logic_engine | 1 | 0| 
-| 20211111T02:56:46Z | Null | https://github.com/tatosjb/vscode-fuzzy-search | 10 | 6| 
-| 20211111T02:45:23Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
-| 20211111T02:42:15Z | Null | https://github.com/aarontanx/fuzzy_matching | 0 | 0| 
-| 20211111T02:40:25Z | Simple fuzzing tool designed for multi-threaded operation and for testing execution time.  | https://github.com/amitjain-3/twoFuzzingLong | 0 | 0| 
-| 20211111T02:40:09Z | Leetcode solutions. | https://github.com/chaitanyks/fuzzy-disco | 0 | 0| 
-| 20211111T02:19:23Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20211111T01:57:37Z | flinging fuzzers for fun | https://github.com/dancwpark/f4 | 0 | 0| 
-| 20211111T01:26:40Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 592 | 62| 
-| 20211111T01:24:46Z | Un fuzzer escrito en Bash medianamente rápido y preciso... Les invito a probarlo! | https://github.com/sha-16/FuzSH | 0 | 0| 
+| 20211111T13:01:13Z | Null | https://github.com/jinjinhanyu/Indoor-Pedestrian-Navigation-Path-Planning-with-Fuzzy-Destination | 0 | 0| 
+| 20211111T12:52:46Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2425 | 150| 
+| 20211111T12:35:45Z | Null | https://github.com/tzachar/cmp-fuzzy-buffer | 19 | 0| 
+| 20211111T11:58:57Z | Null | https://github.com/bityob/toka-fuzzing-websites | 0 | 0| 
+| 20211111T11:41:38Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2185 | 428| 
+| 20211111T10:52:19Z | Null | https://github.com/navinprem/fuzzy-tele | 0 | 0| 
+| 20211111T10:47:34Z | CC paper on compiler fuzzing | https://github.com/agroce/cc2022 | 0 | 0| 
+| 20211111T10:39:14Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 234 | 19| 
+| 20211111T10:33:49Z | Black-box fuzzer that fuzzes APIs based on OpenAPI specification. Find bugs for free! | https://github.com/matusf/openapi-fuzzer | 17 | 0| 
+| 20211111T10:28:20Z | Null | https://github.com/mehdikuchi/FuzzyNN | 0 | 0| 
 
 
 
