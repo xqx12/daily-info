@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211111T13:28:22Z | Null | https://github.com/NotFoundHacker/Roblox-Exploits | 0 | 0| 
 | 20211111T13:24:04Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10312 | 1774| 
 | 20211111T13:16:45Z | Collection Of Discord Hacking Tools / Fun Stuff / Exploits That Is Completely Made Using Python. | https://github.com/PndaBoi/Venom | 2 | 0| 
 | 20211111T13:10:46Z | Null | https://github.com/Pen-Test3rs/binary_exploits_tasks_public | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20211111T12:45:26Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 14| 
 | 20211111T12:36:47Z | A Roblox UI Library you can use for your scripts, both roblox studio and exploits are supported. | https://github.com/WhoIsDanix/Andronema | 1 | 0| 
 | 20211111T12:36:45Z | Null | https://github.com/Athis-Offsec/Exploits-I-Developed | 0 | 0| 
-| 20211111T12:21:10Z | A simple yet powerful Lua-C script executor. | https://github.com/l3lch33ts/LE-C | 0 | 0| 
 
 
 # backdoor on Github 推荐
