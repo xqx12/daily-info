@@ -18,8 +18,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211111T13:13:47Z | CVE-2021-40449 | Exploit for CVE-2021-40449 | https://github.com/Kristal-g/CVE-2021-40449_poc | | 
 | 20211111T13:01:29Z | CVE-2021-22205 | GitLab CE/EE Preauth RCE using ExifTool | https://github.com/inspiringz/CVE-2021-22205 | | 
-| 20211111T12:40:55Z | CVE-2021-40449 | Exploit for CVE-2021-40449 | https://github.com/Kristal-g/CVE-2021-40449_poc | | 
 | 20211111T12:32:37Z | CVE-2021-42327 |  kernel exploit for minor bug i found in amd gpu driver | https://github.com/docfate111/CVE-2021-42327 | | 
 | 20211111T11:16:06Z | cve-2021-22205 | Null | https://github.com/ahmad4fifz/docker-cve-2021-22205 | | 
 | 20211111T07:18:14Z | CVE-2021-22205 | Null | https://github.com/faisalfs10x/GitLab-CVE-2021-22205-scanner | | 
