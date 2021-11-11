@@ -46,31 +46,31 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211110T13:57:58Z | cve-2021-22205 | Null | https://github.com/ahmad4fifz/docker-cve-2021-22205 | | 
-| 20211110T13:57:56Z | CVE-2021-22205 | Null | https://github.com/faisalfs10x/GitLab-CVE-2021-22205-scanner | | 
-| 20211110T13:40:08Z | CVE-2021-88888 | 2222222 | https://github.com/RichardKabuto/CVE-2021-88888 | | 
-| 20211110T12:28:44Z | CVE-2021-40449 | Exploit for CVE-2021-40449 | https://github.com/Kristal-g/CVE-2021-40449_poc | | 
-| 20211110T11:58:53Z | CVE-2021-9876 | 1111111 | https://github.com/RichardKabuto/CVE-2021-9876 | | 
-| 20211110T11:55:25Z | CVE-2021-99999 | Null | https://github.com/RichardKabuto/CVE-2021-99999 | | 
-| 20211110T11:46:01Z | CVE-2021-40539 | Exploitation code for CVE-2021-40539 | https://github.com/synacktiv/CVE-2021-40539 | | 
-| 20211110T04:07:44Z | CVE-2021-20837 | XMLRPC  - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | | 
-| 20211110T02:27:00Z | CVE-2021-30657 | A sample POC for CVE-2021-30657 affecting MacOS | https://github.com/shubham0d/CVE-2021-30657 | | 
-| 20211109T23:06:09Z | CVE-2021-21985 | VMWARE VCENTER SERVER VIRTUAL SAN HEALTH CHECK PLUG-IN RCE (CVE-2021-21985)  | https://github.com/sknux/CVE-2021-21985_PoC | | 
+| 20211111T00:48:39Z | CVE-2021-41773 | Ce programme permet de détecter une faille RCE sur les serveurs Apache 2.4.49 et Apache 2.4.50 | https://github.com/Balgogan/CVE-2021-41773 | | 
+| 20211111T00:42:17Z | CVE-2021-40449 | Exploit for CVE-2021-40449 | https://github.com/Kristal-g/CVE-2021-40449_poc | | 
+| 20211110T22:36:54Z | CVE-2021-40539 | Exploitation code for CVE-2021-40539 | https://github.com/synacktiv/CVE-2021-40539 | | 
+| 20211110T21:14:27Z | CVE-2021-22205 | Null | https://github.com/faisalfs10x/GitLab-CVE-2021-22205-scanner | | 
+| 20211110T19:56:41Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | | 
+| 20211110T19:04:44Z | CVE-2021-30657 | A sample POC for CVE-2021-30657 affecting MacOS | https://github.com/shubham0d/CVE-2021-30657 | | 
+| 20211110T18:09:35Z | CVE-2021-42292 | A Zeek package to detect CVE-2021-42292, a Microsoft Excel local privilege escalation exploit. | https://github.com/corelight/CVE-2021-42292 | | 
+| 20211110T17:20:01Z | cve-2021-22205 | Null | https://github.com/ahmad4fifz/docker-cve-2021-22205 | | 
+| 20211110T16:32:47Z | CVE-2022-0001 | NB | https://github.com/RichardKabuto/CVE-2022-0001 | | 
+| 20211110T15:25:31Z | 未知编号 | redoing cve_2020 repository | https://github.com/sinjeanmin/cvedetails_2020_final | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211110T22:58:24Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2934 | 83| 
+| 20211110T21:38:07Z | Null | https://github.com/timoodada/klee | 0 | 0| 
+| 20211110T18:05:05Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1812 | 517| 
+| 20211110T17:38:54Z | Null | https://github.com/ayazip/witch-klee | 0 | 0| 
+| 20211110T14:55:18Z | TracerX Symbolic Virtual Machine | https://github.com/tracer-x/TracerX | 15 | 9| 
+| 20211110T14:31:24Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 14 | 44| 
 | 20211110T13:50:09Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 219 | 36| 
-| 20211110T13:36:16Z | Null | https://github.com/timoodada/klee | 0 | 0| 
-| 20211110T11:13:25Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2933 | 83| 
 | 20211110T10:25:21Z | Minecraft Mod. Allows breaking only one half of a double slab block. | https://github.com/ModdingForBlockheads/KleeSlabs | 10 | 3| 
 | 20211110T09:54:49Z | Null | https://github.com/AlyonaAg/klee | 0 | 0| 
 | 20211110T08:44:06Z | Research paper On The Termination of Borrow Checking for Rust and a web application, CLI application and VSCode extension for running static analysis of rust-based smart contracts with a ready-to-be-verified project example. | https://github.com/LedgerProject/safepkt | 0 | 1| 
-| 20211110T03:47:20Z | Spring 2021 Geography 817 work folder  | https://github.com/klee12/klee12.github.io | 0 | 0| 
-| 20211109T15:05:39Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
-| 20211109T14:08:06Z | Null | https://github.com/ayazip/witch-klee | 0 | 0| 
-| 20211109T11:23:05Z | Dynamic and symbolic taint analysis for multi-thread programs | https://github.com/xdzhang-xjtu/kleem | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -86,21 +86,24 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211110T13:57:24Z | K8博客 | https://github.com/k8gege/k8gege.github.io | 20 | 7| 
-| 20211110T13:42:24Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10310 | 1770| 
-| 20211110T13:30:53Z | OMQHUB is my own Roblox Exploiting hub, a pretty simple one but an powerful one. | https://github.com/NotMxth/OMQHUB | 1 | 1| 
-| 20211110T13:26:30Z | Null | https://github.com/NotFoundHacker/Roblox-Exploits | 0 | 0| 
-| 20211110T13:25:52Z | MiiWAD is a new Exploit for the wii create by me | https://github.com/WiiTeo/MiiWAD | 0 | 0| 
-| 20211110T13:21:00Z | Info for exploiting vulnerabilities | https://github.com/Amitale/Penetration-Testing-Notes | 0 | 0| 
-| 20211110T13:08:57Z | HEVD | https://github.com/ReJimp/Kernel_Exploit | 2 | 0| 
-| 20211110T13:03:23Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
-| 20211110T12:46:18Z | My own collection of usual functions that I use during binary exploitation training | https://github.com/mousepad01/python_binary_exploit_utilites | 1 | 0| 
-| 20211110T12:45:27Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 14| 
+| 20211111T01:03:17Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
+| 20211111T01:03:10Z | Null | https://github.com/exploitact/exploitnews | 0 | 0| 
+| 20211111T00:45:26Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 14| 
+| 20211111T00:31:40Z | Null | https://github.com/maplekaiser/exploitnews | 0 | 0| 
+| 20211111T00:06:11Z | 7.5x Sleirsgoevy exploit | https://github.com/chronoss09/sleirsgoevy755 | 0 | 0| 
+| 20211110T23:42:33Z | waterloggd hub | https://github.com/waterloggd/crim-exploit | 0 | 0| 
+| 20211110T23:41:23Z | Null | https://github.com/hamza07-w/Exploit-Development | 1 | 0| 
+| 20211110T23:39:24Z | Script written in Python to detect and exploit the ICSA-17-124-01 vulnerability, also known as Hikvision Camera Backdoor.  | https://github.com/fracergu/HIKSCript | 0 | 0| 
+| 20211110T23:33:43Z | Null | https://github.com/Youheng-Lue/art-exploit | 0 | 0| 
+| 20211110T23:25:06Z | Demonstration of an Exploitation of an Android device using payload injected APK | https://github.com/PasinduBandaraa/Android-Device-Exploitation | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211111T00:26:21Z | Unofficial pytorch implementation of RobNet(Defense-Resistant Backdoor Attacks on DNN) | https://github.com/dhkim2810/RobNet | 0 | 0| 
+| 20211110T23:39:24Z | Script written in Python to detect and exploit the ICSA-17-124-01 vulnerability, also known as Hikvision Camera Backdoor.  | https://github.com/fracergu/HIKSCript | 0 | 0| 
+| 20211110T16:02:26Z | Remote control software, supported Windows/Unix/MacOS/Linux(x86/x64/mips/arm) | https://github.com/h1zzz/purewater | 5 | 0| 
 | 20211110T13:15:44Z | This is a python backdoor. This is for educational purposes only. | https://github.com/TKLinux966/B4cKD00R | 0 | 1| 
 | 20211110T12:44:08Z | RemoteEvent%s & RemoteFunction%s Backdoor Scanner. Feel free to visit now. | https://github.com/jaackkiscool/Frickin-SS-Scanner-v1.1 | 3 | 0| 
 | 20211110T06:18:06Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 355 | 63| 
@@ -108,9 +111,6 @@
 | 20211110T04:41:50Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1493 | 372| 
 | 20211110T02:45:07Z | Lite version of my Gatekeeper backdoor for public use. | https://github.com/dievus/MayorSecBackdoor | 47 | 8| 
 | 20211110T01:54:04Z | Null | https://github.com/zephr1213/Pyro-Backdoor-Whitelist | 0 | 0| 
-| 20211110T01:39:28Z | Null | https://github.com/samuelventura/nerves_backdoor | 0 | 0| 
-| 20211109T23:56:15Z | python3 backdoor  | https://github.com/trevalkov/backdoor | 0 | 0| 
-| 20211109T19:56:25Z | https://www.whonix.org/wiki/Verifiable_Builds - for better security. Makes finding backdoors easier. | https://github.com/Whonix/whonix-initializer | 2 | 3| 
 
 
 # symbolic execution on Github 推荐
@@ -131,23 +131,23 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211110T15:15:44Z | NDSでシェーダーのようなものを動かす | https://github.com/NidoKota/NDSShader | 0 | 0| 
 | 20211109T11:18:49Z | A penetration testing tool for finding file upload bugs (NDSS 2020) | https://github.com/WSP-LAB/FUSE | 198 | 44| 
-| 20211109T03:13:16Z | NDSでシェーダーのようなものを動かす | https://github.com/NidoKota/NDSShader | 0 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211110T13:54:40Z | Fuzzy logic control of a switched reluctance motor, implementation in jupyter notebook Python. | https://github.com/ParasKumarGupta/Fuzzy-logic-control-of-a-switched-reluctance-motor | 1 | 0| 
-| 20211110T13:33:27Z | White-box fuzzer for Java bytecode | https://github.com/vorpal-research/kex | 7 | 10| 
-| 20211110T13:28:56Z | Null | https://github.com/claroty/busybox-fuzzing | 12 | 0| 
-| 20211110T13:27:58Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6796 | 1414| 
-| 20211110T13:27:43Z | With this project, I want to make a blending between Persevere and taPCT. The idea is to find bugs in large amounts of concurrent threading instruction. For that we will first try and identify with this tool some known bugs from emac versions that were not yet corrected. We first model the system call as a set of events and then apply the taPCT algorithm. Later on, we can use fuzzing to give larger system call sequences to our probabilistic scheduling algorithm.  | https://github.com/Ricagraca/taPPCT | 0 | 0| 
-| 20211110T13:27:10Z | CC paper on compiler fuzzing | https://github.com/agroce/cc2022 | 0 | 0| 
-| 20211110T13:26:19Z | A grammar based feedback Fuzzer | https://github.com/nautilus-fuzz/nautilus | 271 | 35| 
-| 20211110T13:24:18Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2175 | 427| 
-| 20211110T13:17:08Z | Null | https://github.com/rangan2510/fuzzy-atrous-conv | 0 | 0| 
-| 20211110T13:15:34Z | Wind energy has gained an increasing worldwide interest due to the continuous increase in fuel cost and the need to have a clean source of energy. The main objective of most of the wind energy systems is to extract the maximum power available in the wind stream. However, the wind regime varies continuously and thus the system controllers should be updated to follow these variations. This paper is intended to apply fuzzy logic control techniques to overcome the effect of the wind speed variations on the parameters of the wind turbines and their controllers | https://github.com/navinkryadav/wind-energy-fuzzy-control | 0 | 0| 
+| 20211111T00:57:59Z | Null | https://github.com/antonio-morales/Fuzzing101 | 635 | 58| 
+| 20211111T00:49:50Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 592 | 62| 
+| 20211111T00:10:18Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 35 | 12| 
+| 20211110T23:50:22Z | Null | https://github.com/hashue/gh-fuzzyclone | 15 | 5| 
+| 20211110T23:34:15Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20211110T23:33:32Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6797 | 1416| 
+| 20211110T23:18:27Z | uwu | https://github.com/fuzziejaxer/Fuzziebot | 0 | 0| 
+| 20211110T22:34:48Z | An investigation of three fuzzers: American Fuzzy Lop++ (AFL), Honggfuzz, and Radamsa | https://github.com/hark130/hardy-remix | 0 | 0| 
+| 20211110T22:08:28Z | Black-box fuzzer that fuzzes APIs based on OpenAPI specification. Find bugs for free! | https://github.com/matusf/openapi-fuzzer | 17 | 0| 
+| 20211110T21:44:51Z | ClusterFuzzLite - Simple continuous fuzzing that runs in CI. | https://github.com/google/clusterfuzzlite | 3 | 4| 
 
 
 
