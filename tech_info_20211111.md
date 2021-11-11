@@ -88,16 +88,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211111T13:51:02Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2426 | 150| 
+| 20211111T13:50:36Z | Null | https://github.com/tatosjb/vscode-fuzzy-search | 10 | 6| 
 | 20211111T13:40:04Z | Config files for my GitHub profile. | https://github.com/fuzzlex/fuzzlex | 0 | 0| 
 | 20211111T13:09:23Z | Null | https://github.com/bityob/toka-fuzzing-websites | 0 | 0| 
 | 20211111T13:01:13Z | Null | https://github.com/jinjinhanyu/Indoor-Pedestrian-Navigation-Path-Planning-with-Fuzzy-Destination | 0 | 0| 
-| 20211111T12:52:46Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2425 | 150| 
 | 20211111T12:35:45Z | Null | https://github.com/tzachar/cmp-fuzzy-buffer | 19 | 0| 
 | 20211111T11:41:38Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2185 | 428| 
 | 20211111T10:52:19Z | Null | https://github.com/navinprem/fuzzy-tele | 0 | 0| 
 | 20211111T10:47:34Z | CC paper on compiler fuzzing | https://github.com/agroce/cc2022 | 0 | 0| 
 | 20211111T10:39:14Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 234 | 19| 
-| 20211111T10:33:49Z | Black-box fuzzer that fuzzes APIs based on OpenAPI specification. Find bugs for free! | https://github.com/matusf/openapi-fuzzer | 17 | 0| 
 
 
 
