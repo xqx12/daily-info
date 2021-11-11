@@ -138,6 +138,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211111T13:58:16Z | プロフィー | https://github.com/fuzz88/fuzz88 | 0 | 0| 
 | 20211111T13:51:02Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2426 | 150| 
 | 20211111T13:50:36Z | Null | https://github.com/tatosjb/vscode-fuzzy-search | 10 | 6| 
 | 20211111T13:40:04Z | Config files for my GitHub profile. | https://github.com/fuzzlex/fuzzlex | 0 | 0| 
@@ -147,7 +148,6 @@
 | 20211111T11:41:38Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2185 | 428| 
 | 20211111T10:52:19Z | Null | https://github.com/navinprem/fuzzy-tele | 0 | 0| 
 | 20211111T10:47:34Z | CC paper on compiler fuzzing | https://github.com/agroce/cc2022 | 0 | 0| 
-| 20211111T10:39:14Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 234 | 19| 
 
 
 
