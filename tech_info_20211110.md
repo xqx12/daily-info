@@ -17,6 +17,15 @@
 | 20211110 | All your tracing are belong to BPF | http://blog.trailofbits.com/2021/11/09/all-your-tracing-are-belong-to-bpf/| 
 | 20211110 | 从 mimikatz 看 Windows DPAPI 数据解密. | https://paper.seebug.org/1755/| 
 | 20211110 | 浅谈JSP Webshell进阶免杀. | https://tttang.com/archive/1315/| 
+| 20211110 | Palo Alto Networks GlobalProtect VPN Unauthenticated RCE 漏洞分析（CVE-2021-3064） | http://www.randori.com/blog/cve-2021-3064/?i=2| 
+| 20211110 | V8 脚本引擎 Trace-based garbage collector - Oilpan 的介绍 | https://v8.dev/blog/oilpan-library| 
+| 20211110 | 安全软件 Cylance 被发现多个本地提权漏洞 | https://www.pentestpartners.com/security-blog/pun-free-cylance-vulnerability-fixed/| 
+| 20211110 | PhoneSpy Android 间谍 App 监控韩国用户的消息、图片等各类隐私信息 | http://blog.zimperium.com/phonespy-the-app-based-cyberattack-snooping-south-korean-citizens/| 
+| 20211110 | osquery 发布 5.0 版本，支持在 macOS 平台基于 EndpointSecurity 框架收集事件日志 | http://blog.trailofbits.com/2021/11/10/announcing-osquery-5-now-with-endpointsecurity-on-macos/| 
+| 20211110 | 据 ESET 报道，朝鲜 APT 组织利用带后门的 IDA Pro 7.5 攻击安全研究人员 | https://mp.weixin.qq.com/s/PGHxVr-RPB8fiMTD35oh1w| 
+| 20211110 | 攻击 ETW，逃避 EDR 软件的检测 | https://i.blackhat.com/EU-21/Wednesday/EU-21-Teodorescu-Veni-No-Vidi-No-Vici-Attacks-On-ETW-Blind-EDRs.pdf| 
+| 20211110 | Azure Cosmos DB 内部敏感信息泄漏漏洞分析 | http://www.wiz.io/blog/chaosdb-explained-azures-cosmos-db-vulnerability-walkthrough| 
+| 20211110 | Practical HTTP Header Smuggling: Sneaking Past Reverse Proxies to Attack AWS and Beyond | http://www.intruder.io/research/practical-http-header-smuggling| 
 
 
 # 安全维基 推荐

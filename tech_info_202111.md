@@ -17,15 +17,15 @@
 | 20211110 | All your tracing are belong to BPF | http://blog.trailofbits.com/2021/11/09/all-your-tracing-are-belong-to-bpf/| 
 | 20211110 | 从 mimikatz 看 Windows DPAPI 数据解密. | https://paper.seebug.org/1755/| 
 | 20211110 | 浅谈JSP Webshell进阶免杀. | https://tttang.com/archive/1315/| 
-| 20211109 | Finding and Fixing DOM-based XSS with Static Analysis | http://blog.mozilla.org/attack-and-defense/2021/11/03/finding-and-fixing-dom-based-xss-with-static-analysis/| 
-| 20211109 | 利用物理层的 BLE 信号追踪用户 | http://cseweb.ucsd.edu/~schulman/docs/oakland22-bletracking.pdf| 
-| 20211109 | ManageEngine ADSelfService Plus 密码管理软件认证绕过漏洞的利用 | http://www.synacktiv.com/publications/how-to-exploit-cve-2021-40539-on-manageengine-adselfservice-plus.html| 
-| 20211109 | Detectify 团队通过大规模收集 SSL 证书中的信息发现，证书中的公开信息本身也会泄露一些企业的敏感信息 | https://labs.detectify.com/2021/11/05/how-ssl-certificates-are-leaking-sensitive-information/| 
-| 20211109 | Driftwood - 一款用于判断泄露的 Private Key 是否是 TLS 证书私钥、SSH 私钥等敏感信息的工具 | http://trufflesecurity.com/blog/driftwood| 
-| 20211109 | win32k CVE-2021-40449 UAF 漏洞的利用 | https://kristal-g.github.io/2021/11/05/CVE-2021-40449_POC.html| 
-| 20211109 | SentinelOne 团队总结了一份 macOS 平台的恶意软件列表 | https://www.icloud.com/numbers/0x_OYW8KGP9dKYUV2PvXqdJNQ#SentinelOne_macOS| 
-| 20211109 | Joern - 基于代码属性图实现跨语言代码分析的平台，支持对源码、中间字节码、二进制文件的分析 | https://github.com/joernio/joern| 
-| 20211109 | APT 活动中的 Windows 系统本地提权漏洞及技术分析 | https://mp.weixin.qq.com/s/6mT0O9eur5-VEs0rbV0-mg| 
+| 20211110 | Palo Alto Networks GlobalProtect VPN Unauthenticated RCE 漏洞分析（CVE-2021-3064） | http://www.randori.com/blog/cve-2021-3064/?i=2| 
+| 20211110 | V8 脚本引擎 Trace-based garbage collector - Oilpan 的介绍 | https://v8.dev/blog/oilpan-library| 
+| 20211110 | 安全软件 Cylance 被发现多个本地提权漏洞 | https://www.pentestpartners.com/security-blog/pun-free-cylance-vulnerability-fixed/| 
+| 20211110 | PhoneSpy Android 间谍 App 监控韩国用户的消息、图片等各类隐私信息 | http://blog.zimperium.com/phonespy-the-app-based-cyberattack-snooping-south-korean-citizens/| 
+| 20211110 | osquery 发布 5.0 版本，支持在 macOS 平台基于 EndpointSecurity 框架收集事件日志 | http://blog.trailofbits.com/2021/11/10/announcing-osquery-5-now-with-endpointsecurity-on-macos/| 
+| 20211110 | 据 ESET 报道，朝鲜 APT 组织利用带后门的 IDA Pro 7.5 攻击安全研究人员 | https://mp.weixin.qq.com/s/PGHxVr-RPB8fiMTD35oh1w| 
+| 20211110 | 攻击 ETW，逃避 EDR 软件的检测 | https://i.blackhat.com/EU-21/Wednesday/EU-21-Teodorescu-Veni-No-Vidi-No-Vici-Attacks-On-ETW-Blind-EDRs.pdf| 
+| 20211110 | Azure Cosmos DB 内部敏感信息泄漏漏洞分析 | http://www.wiz.io/blog/chaosdb-explained-azures-cosmos-db-vulnerability-walkthrough| 
+| 20211110 | Practical HTTP Header Smuggling: Sneaking Past Reverse Proxies to Attack AWS and Beyond | http://www.intruder.io/research/practical-http-header-smuggling| 
 
 
 # 安全维基 推荐
@@ -46,13 +46,13 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211111T01:22:27Z | CVE-2021-42292 | A Zeek package to detect CVE-2021-42292, a Microsoft Excel local privilege escalation exploit. | https://github.com/corelight/CVE-2021-42292 | | 
 | 20211111T00:48:39Z | CVE-2021-41773 | Ce programme permet de détecter une faille RCE sur les serveurs Apache 2.4.49 et Apache 2.4.50 | https://github.com/Balgogan/CVE-2021-41773 | | 
 | 20211111T00:42:17Z | CVE-2021-40449 | Exploit for CVE-2021-40449 | https://github.com/Kristal-g/CVE-2021-40449_poc | | 
 | 20211110T22:36:54Z | CVE-2021-40539 | Exploitation code for CVE-2021-40539 | https://github.com/synacktiv/CVE-2021-40539 | | 
 | 20211110T21:14:27Z | CVE-2021-22205 | Null | https://github.com/faisalfs10x/GitLab-CVE-2021-22205-scanner | | 
 | 20211110T19:56:41Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | | 
 | 20211110T19:04:44Z | CVE-2021-30657 | A sample POC for CVE-2021-30657 affecting MacOS | https://github.com/shubham0d/CVE-2021-30657 | | 
-| 20211110T18:09:35Z | CVE-2021-42292 | A Zeek package to detect CVE-2021-42292, a Microsoft Excel local privilege escalation exploit. | https://github.com/corelight/CVE-2021-42292 | | 
 | 20211110T17:20:01Z | cve-2021-22205 | Null | https://github.com/ahmad4fifz/docker-cve-2021-22205 | | 
 | 20211110T16:32:47Z | CVE-2022-0001 | NB | https://github.com/RichardKabuto/CVE-2022-0001 | | 
 | 20211110T15:25:31Z | 未知编号 | redoing cve_2020 repository | https://github.com/sinjeanmin/cvedetails_2020_final | | 
@@ -86,16 +86,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211111T01:55:54Z | McTrade is a bot exploiting Binance API, open source! built in python ! | https://github.com/nerap/McTrade | 3 | 0| 
+| 20211111T01:49:37Z | Null | https://github.com/PorryDepTrai/exploit | 0 | 0| 
+| 20211111T01:37:03Z | A simple yet powerful Lua-C script executor. | https://github.com/l3lch33ts/LE-C | 0 | 0| 
+| 20211111T01:22:27Z | A Zeek package to detect CVE-2021-42292, a Microsoft Excel local privilege escalation exploit. | https://github.com/corelight/CVE-2021-42292 | 0 | 0| 
+| 20211111T01:17:53Z | A collection of write ups on how I solved each exploit challenge on Exploit Education | https://github.com/dyllan500/Exploit-Education-Write-Up | 0 | 0| 
 | 20211111T01:03:17Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211111T01:03:10Z | Null | https://github.com/exploitact/exploitnews | 0 | 0| 
 | 20211111T00:45:26Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 14| 
 | 20211111T00:31:40Z | Null | https://github.com/maplekaiser/exploitnews | 0 | 0| 
 | 20211111T00:06:11Z | 7.5x Sleirsgoevy exploit | https://github.com/chronoss09/sleirsgoevy755 | 0 | 0| 
-| 20211110T23:42:33Z | waterloggd hub | https://github.com/waterloggd/crim-exploit | 0 | 0| 
-| 20211110T23:41:23Z | Null | https://github.com/hamza07-w/Exploit-Development | 1 | 0| 
-| 20211110T23:39:24Z | Script written in Python to detect and exploit the ICSA-17-124-01 vulnerability, also known as Hikvision Camera Backdoor.  | https://github.com/fracergu/HIKSCript | 0 | 0| 
-| 20211110T23:33:43Z | Null | https://github.com/Youheng-Lue/art-exploit | 0 | 0| 
-| 20211110T23:25:06Z | Demonstration of an Exploitation of an Android device using payload injected APK | https://github.com/PasinduBandaraa/Android-Device-Exploitation | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -116,16 +116,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211110T10:55:17Z | A Ghidra extension that allows you to run Angr symbolic execution using the Pcode from Ghidra. | https://github.com/jdkleuver/PcodeSym | 4 | 0| 
+| 20211110T23:22:51Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2525 | 375| 
+| 20211110T23:05:07Z | A Ghidra extension that allows you to run Angr symbolic execution using the Pcode from Ghidra. | https://github.com/jdkleuver/PcodeSym | 4 | 0| 
+| 20211110T18:05:05Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1812 | 517| 
+| 20211110T15:55:21Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1916 | 401| 
 | 20211110T10:37:30Z | Symbolica%s open-source symbolic execution engine. | https://github.com/Symbolica/Symbolica | 43 | 2| 
-| 20211110T06:44:03Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2524 | 375| 
 | 20211110T04:02:52Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 10 | 4| 
 | 20211109T17:08:36Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 18 | 4| 
 | 20211109T14:54:05Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 22 | 12| 
 | 20211109T10:39:51Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 163 | 37| 
 | 20211109T07:11:02Z | 🎻 Requiem: Modular exploit generation using symbolic execution | https://github.com/aesophor/requiem | 15 | 3| 
-| 20211109T01:39:00Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 168 | 10| 
-| 20211108T17:26:07Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 668 | 67| 
 
 
 # big4 on Github 推荐
@@ -138,16 +138,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211111T01:26:40Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 592 | 62| 
+| 20211111T01:24:46Z | Un fuzzer escrito en Bash medianamente rápido y preciso... Les invito a probarlo! | https://github.com/sha-16/FuzSH | 0 | 0| 
+| 20211111T01:21:27Z | bash script to run from installation media to setup gentoo automagically | https://github.com/fjp321/fuzzy-goggles | 0 | 0| 
 | 20211111T00:57:59Z | Null | https://github.com/antonio-morales/Fuzzing101 | 635 | 58| 
-| 20211111T00:49:50Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 592 | 62| 
 | 20211111T00:10:18Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 35 | 12| 
 | 20211110T23:50:22Z | Null | https://github.com/hashue/gh-fuzzyclone | 15 | 5| 
 | 20211110T23:34:15Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20211110T23:33:32Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6797 | 1416| 
+| 20211110T23:33:32Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6797 | 1417| 
 | 20211110T23:18:27Z | uwu | https://github.com/fuzziejaxer/Fuzziebot | 0 | 0| 
 | 20211110T22:34:48Z | An investigation of three fuzzers: American Fuzzy Lop++ (AFL), Honggfuzz, and Radamsa | https://github.com/hark130/hardy-remix | 0 | 0| 
-| 20211110T22:08:28Z | Black-box fuzzer that fuzzes APIs based on OpenAPI specification. Find bugs for free! | https://github.com/matusf/openapi-fuzzer | 17 | 0| 
-| 20211110T21:44:51Z | ClusterFuzzLite - Simple continuous fuzzing that runs in CI. | https://github.com/google/clusterfuzzlite | 3 | 4| 
 
 
 
