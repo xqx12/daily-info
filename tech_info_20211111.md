@@ -39,7 +39,6 @@
 | 20211111T16:56:20Z | Null | https://github.com/timoodada/klee | 0 | 0| 
 | 20211111T16:55:39Z | Scala library for generating and manipulation of images treated as a point => color function. | https://github.com/skac112/klee | 0 | 0| 
 | 20211111T11:37:35Z | Symbolic Liveness Analysis of real-world software building upon KLEE to detect liveness violations (e.g. infinite loop bugs) | https://github.com/COMSYS/SymbolicLivenessAnalysis | 11 | 0| 
-| 20211111T10:57:18Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2935 | 83| 
 
 
 # s2e on Github 推荐
