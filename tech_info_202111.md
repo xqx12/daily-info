@@ -46,9 +46,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211112T01:01:48Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | | 
 | 20211112T00:15:50Z | CVE-2021-22205 | GitLab CE/EE Preauth RCE using ExifTool | https://github.com/inspiringz/CVE-2021-22205 | | 
 | 20211112T00:05:10Z | CVE-2021-41773 | This is a simple POC for Apache/2.4.49 Path Traversal Vulnerability | https://github.com/shellreaper/CVE-2021-41773 | | 
-| 20211111T16:46:00Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | | 
 | 20211111T15:38:38Z | CVE-2021-20837 | XMLRPC  - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | | 
 | 20211111T13:41:48Z | CVE-2021-40539 | Exploitation code for CVE-2021-40539 | https://github.com/synacktiv/CVE-2021-40539 | | 
 | 20211111T13:39:11Z | cve-2021-22205 | Null | https://github.com/ahmad4fifz/docker-cve-2021-22205 | | 
@@ -116,16 +116,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211111T07:54:34Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1813 | 517| 
+| 20211112T00:47:10Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1816 | 518| 
+| 20211111T23:55:57Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 172 | 10| 
+| 20211111T22:30:34Z | A tool for generating nonlinear numerical invariants for C and Java programs.  DIG uses dynamic analysis to infer invariants over program execution traces and applies symbolic execution to inferred invariants. | https://github.com/unsat/dig | 9 | 4| 
+| 20211111T18:48:30Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2526 | 375| 
 | 20211111T05:55:46Z | A Ghidra extension that allows you to run Angr symbolic execution using the Pcode from Ghidra. | https://github.com/jdkleuver/PcodeSym | 4 | 0| 
-| 20211111T05:08:14Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 168 | 10| 
-| 20211110T23:22:51Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2525 | 375| 
 | 20211110T15:55:21Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1916 | 401| 
 | 20211110T10:37:30Z | Symbolica%s open-source symbolic execution engine. | https://github.com/Symbolica/Symbolica | 43 | 2| 
 | 20211110T04:02:52Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 10 | 4| 
 | 20211109T17:08:36Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 18 | 4| 
 | 20211109T14:54:05Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 22 | 12| 
-| 20211109T10:39:51Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 163 | 37| 
 
 
 # big4 on Github 推荐

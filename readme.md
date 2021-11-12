@@ -20,7 +20,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211111T16:46:00Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | | 
 | 20211111T15:38:38Z | CVE-2021-20837 | XMLRPC  - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | | 
 | 20211111T13:41:48Z | CVE-2021-40539 | Exploitation code for CVE-2021-40539 | https://github.com/synacktiv/CVE-2021-40539 | | 
 | 20211111T13:39:11Z | cve-2021-22205 | Null | https://github.com/ahmad4fifz/docker-cve-2021-22205 | | 
@@ -30,6 +29,7 @@
 | 20211111T06:24:06Z | CVE-2021-111199 | 1111111111111111111 | https://github.com/RichardKabuto/CVE-2021-111199 | | 
 | 20211111T04:48:25Z | CVE-2021-42292 | A Zeek package to detect CVE-2021-42292, a Microsoft Excel local privilege escalation exploit. | https://github.com/corelight/CVE-2021-42292 | | 
 | 20211111T03:51:16Z | CVE-2021-21985 | VMWARE VCENTER SERVER VIRTUAL SAN HEALTH CHECK PLUG-IN RCE (CVE-2021-21985)  | https://github.com/sknux/CVE-2021-21985_PoC | | 
+| 20211111T00:48:39Z | CVE-2021-41773 | Ce programme permet de détecter une faille RCE sur les serveurs Apache 2.4.49 et Apache 2.4.50 | https://github.com/Balgogan/CVE-2021-41773 | | 
 
 
 # klee on Github 推荐
@@ -80,9 +80,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211111T07:54:34Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1813 | 517| 
+| 20211111T23:55:57Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 172 | 10| 
+| 20211111T22:30:34Z | A tool for generating nonlinear numerical invariants for C and Java programs.  DIG uses dynamic analysis to infer invariants over program execution traces and applies symbolic execution to inferred invariants. | https://github.com/unsat/dig | 9 | 4| 
+| 20211111T18:48:30Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2526 | 375| 
 | 20211111T05:55:46Z | A Ghidra extension that allows you to run Angr symbolic execution using the Pcode from Ghidra. | https://github.com/jdkleuver/PcodeSym | 4 | 0| 
-| 20211111T05:08:14Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 168 | 10| 
 
 
 # big4 on Github 推荐
