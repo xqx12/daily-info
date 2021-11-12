@@ -50,7 +50,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211111T23:43:18Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | 0 | 0| 
 | 20211111T23:29:00Z | Codes for WACVW paper %Small or Far Away? Exploiting Deep Super-Resolution and Altitude Data forReal-World Aerial Animal Surveillance% | https://github.com/Mowen111/SALT | 0 | 0| 
 | 20211111T22:55:17Z | Null | https://github.com/hamza07-w/Exploit-Development | 2 | 0| 
 | 20211111T22:49:13Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 114 | 258| 
@@ -60,6 +59,7 @@
 | 20211111T21:19:08Z | Exploit for CVE-2021-40449 - Win32k Elevation of Privilege Vulnerability (LPE) | https://github.com/ly4k/CallbackHell | 319 | 73| 
 | 20211111T21:15:13Z | Pwny is an advanced payload for iPhoneOS designed for portability, embeddability, and low resource utilization. | https://github.com/EntySec/Pwny | 1 | 0| 
 | 20211111T20:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10313 | 1773| 
+| 20211111T19:55:20Z | Null | https://github.com/Calvindd2f/exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐

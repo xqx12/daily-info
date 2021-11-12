@@ -86,9 +86,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211112T01:08:17Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | 0 | 0| 
 | 20211112T01:03:29Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211112T00:20:03Z | Collection of Discord hacking tools/fun stuff/exploits that is completely made using NodeJS. | https://github.com/I2rys/ODiscord | 29 | 10| 
-| 20211111T23:43:18Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | 0 | 0| 
 | 20211111T23:29:00Z | Codes for WACVW paper %Small or Far Away? Exploiting Deep Super-Resolution and Altitude Data forReal-World Aerial Animal Surveillance% | https://github.com/Mowen111/SALT | 0 | 0| 
 | 20211111T22:55:17Z | Null | https://github.com/hamza07-w/Exploit-Development | 2 | 0| 
 | 20211111T22:49:13Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 114 | 258| 
