@@ -86,9 +86,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211112T02:40:46Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 8481 | 1461| 
 | 20211112T02:03:09Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211112T01:36:37Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 357 | 56| 
-| 20211112T01:34:44Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 8480 | 1461| 
 | 20211112T01:22:41Z | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | 1524 | 523| 
 | 20211112T01:08:17Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | 0 | 0| 
 | 20211112T00:20:03Z | Collection of Discord hacking tools/fun stuff/exploits that is completely made using NodeJS. | https://github.com/I2rys/ODiscord | 29 | 10| 
