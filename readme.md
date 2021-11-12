@@ -70,12 +70,22 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211112T02:47:04Z | phpstudy后门多线程批量检测脚本 | https://github.com/einzbernnn/PhpstudyBackdoor | 2 | 0| 
+| 20211112T12:55:55Z | Remote control software, supported Windows/Unix/MacOS/Linux(x86/x64/mips/arm) | https://github.com/h1zzz/purewater | 5 | 0| 
+| 20211112T12:03:06Z | Create a fully undetectable backdoor with simple steps. | https://github.com/3ct0s/fud-backdoor | 4 | 1| 
+| 20211112T12:01:07Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 109 | 25| 
+| 20211112T11:54:34Z | Null | https://github.com/forceki/ssh-backdoor | 0 | 0| 
+| 20211112T11:47:46Z | The insane hackerman backdoor. | https://github.com/Bakdooro/Bakdooro | 10 | 2| 
+| 20211112T10:15:06Z | Create Your Invisible BackDoor On The Victim%s WordPress Installation | https://github.com/FreeLesio/WordPress-Silent-Backdoor | 1 | 1| 
+| 20211112T08:37:04Z | phpstudy后门多线程批量检测脚本 | https://github.com/einzbernnn/PhpstudyBackdoor | 2 | 0| 
+| 20211112T07:01:59Z | Antivirus evasion project  | https://github.com/Ch0pin/AVIator | 610 | 173| 
+| 20211112T06:06:36Z | Null | https://github.com/henil0604/backdoor-boiler | 0 | 0| 
+| 20211112T05:22:28Z | Allowing server admins to backdoor their own server! | https://github.com/awesomemoder316/DiscordBackdoorBot | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211112T11:58:40Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 173 | 10| 
 | 20211112T02:42:14Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 504 | 77| 
 | 20211112T00:47:10Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1816 | 518| 
 

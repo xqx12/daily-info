@@ -102,24 +102,24 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211112T02:47:04Z | phpstudy后门多线程批量检测脚本 | https://github.com/einzbernnn/PhpstudyBackdoor | 2 | 0| 
-| 20211111T23:31:10Z | ./kumasia php simple backdoor | https://github.com/mugi789/kumasia | 12 | 4| 
-| 20211111T21:15:13Z | Pwny is an advanced payload for iPhoneOS designed for portability, embeddability, and low resource utilization. | https://github.com/EntySec/Pwny | 1 | 0| 
-| 20211111T21:12:57Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 107 | 25| 
-| 20211111T19:49:33Z | pybotnet -   A Python Library for building Botnet , Trojan or BackDoor for windows and linux with Telegram control panel  | https://github.com/onionj/pybotnet | 39 | 21| 
-| 20211111T16:26:01Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 356 | 63| 
-| 20211111T11:12:15Z | Null | https://github.com/BrasilianoDev/BackDoor | 0 | 0| 
-| 20211111T08:24:46Z | Null | https://github.com/Allen-piexl/CatchBackdoor | 0 | 0| 
-| 20211111T08:24:24Z | Null | https://github.com/Allen-piexl/CatchBackdoor2 | 0 | 0| 
-| 20211111T05:49:52Z | Actually run a given promise or mock its outcome based on a given input value | https://github.com/johanfive/backdoor | 1 | 0| 
+| 20211112T12:55:55Z | Remote control software, supported Windows/Unix/MacOS/Linux(x86/x64/mips/arm) | https://github.com/h1zzz/purewater | 5 | 0| 
+| 20211112T12:03:06Z | Create a fully undetectable backdoor with simple steps. | https://github.com/3ct0s/fud-backdoor | 4 | 1| 
+| 20211112T12:01:07Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 109 | 25| 
+| 20211112T11:54:34Z | Null | https://github.com/forceki/ssh-backdoor | 0 | 0| 
+| 20211112T11:47:46Z | The insane hackerman backdoor. | https://github.com/Bakdooro/Bakdooro | 10 | 2| 
+| 20211112T10:15:06Z | Create Your Invisible BackDoor On The Victim%s WordPress Installation | https://github.com/FreeLesio/WordPress-Silent-Backdoor | 1 | 1| 
+| 20211112T08:37:04Z | phpstudy后门多线程批量检测脚本 | https://github.com/einzbernnn/PhpstudyBackdoor | 2 | 0| 
+| 20211112T07:01:59Z | Antivirus evasion project  | https://github.com/Ch0pin/AVIator | 610 | 173| 
+| 20211112T06:06:36Z | Null | https://github.com/henil0604/backdoor-boiler | 0 | 0| 
+| 20211112T05:22:28Z | Allowing server admins to backdoor their own server! | https://github.com/awesomemoder316/DiscordBackdoorBot | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211112T11:58:40Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 173 | 10| 
 | 20211112T02:42:14Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 504 | 77| 
 | 20211112T00:47:10Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1816 | 518| 
-| 20211111T23:55:57Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 172 | 10| 
 | 20211111T22:30:34Z | A tool for generating nonlinear numerical invariants for C and Java programs.  DIG uses dynamic analysis to infer invariants over program execution traces and applies symbolic execution to inferred invariants. | https://github.com/unsat/dig | 9 | 4| 
 | 20211111T18:48:30Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2526 | 375| 
 | 20211111T05:55:46Z | A Ghidra extension that allows you to run Angr symbolic execution using the Pcode from Ghidra. | https://github.com/jdkleuver/PcodeSym | 4 | 0| 
