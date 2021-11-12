@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211112T02:23:07Z | CVE-2021-38666 | Null | https://github.com/DarkSprings/CVE-2021-38666-poc | | 
+| 20211112T02:33:02Z | CVE-2021-38666 | Null | https://github.com/DarkSprings/CVE-2021-38666-poc | | 
 | 20211112T01:59:54Z | CVE-2021-22205 | GitLab CE/EE Preauth RCE using ExifTool | https://github.com/inspiringz/CVE-2021-22205 | | 
 | 20211112T01:01:48Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | | 
 | 20211112T00:05:10Z | CVE-2021-41773 | This is a simple POC for Apache/2.4.49 Path Traversal Vulnerability | https://github.com/shellreaper/CVE-2021-41773 | | 
@@ -138,6 +138,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211112T02:32:33Z | x5 Team Project Proposal | https://github.com/chance400/fuzzy-winner | 0 | 1| 
 | 20211112T02:19:49Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211112T02:18:20Z | ClusterFuzzLite - Simple continuous fuzzing that runs in CI. | https://github.com/google/clusterfuzzlite | 35 | 7| 
 | 20211112T01:46:30Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2431 | 150| 
@@ -147,7 +148,6 @@
 | 20211112T00:43:15Z | Null | https://github.com/mcansh/fuzzy-journey | 0 | 0| 
 | 20211112T00:38:32Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6800 | 1418| 
 | 20211111T23:48:21Z | Udemy AppExpert con React Native 2021 | https://github.com/miguelvelarde/fuzzy-store | 0 | 0| 
-| 20211111T22:56:40Z | Implementation of a fuzzy system in Matlab | https://github.com/msusz/fuzzy_system | 0 | 0| 
 
 
 
