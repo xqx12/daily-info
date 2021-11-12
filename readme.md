@@ -95,7 +95,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20211111T23:48:21Z | Udemy AppExpert con React Native 2021 | https://github.com/miguelvelarde/fuzzy-store | 0 | 0| 
-| 20211111T23:34:45Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211111T22:56:40Z | Implementation of a fuzzy system in Matlab | https://github.com/msusz/fuzzy_system | 0 | 0| 
 | 20211111T22:53:24Z | Null | https://github.com/Egobekeeh/fuzzy | 0 | 0| 
 | 20211111T22:49:54Z | Human Assisted Fuzzing | https://github.com/crowlc3/HAF | 0 | 0| 
@@ -104,6 +103,7 @@
 | 20211111T22:04:36Z | Null | https://github.com/tatosjb/vscode-fuzzy-search | 10 | 6| 
 | 20211111T20:26:35Z | User Web Site | https://github.com/fuzzyklein/fuzzyklein.github.io | 0 | 0| 
 | 20211111T19:45:27Z | Comparing tool variability and numerical variability in fMRI analyses results | https://github.com/big-data-lab-team/fuzzy-neurotools | 0 | 1| 
+| 20211111T19:39:22Z | Fuzzy Join needed to update the Sales Data from the company I work in, in this case with hypothetical data. | https://github.com/ViniciusARZ/Fuzzy-Join-w-algorithms | 0 | 0| 
 
 
 

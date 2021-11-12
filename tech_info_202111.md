@@ -138,7 +138,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211112T02:01:16Z | ClusterFuzzLite - Simple continuous fuzzing that runs in CI. | https://github.com/google/clusterfuzzlite | 33 | 7| 
+| 20211112T02:19:49Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20211112T02:18:20Z | ClusterFuzzLite - Simple continuous fuzzing that runs in CI. | https://github.com/google/clusterfuzzlite | 35 | 7| 
 | 20211112T01:46:30Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2431 | 150| 
 | 20211112T01:45:19Z | bash script to run from installation media to setup gentoo automagically | https://github.com/fjp321/fuzzy-goggles | 0 | 0| 
 | 20211112T01:35:24Z | ForAllSecure API Fuzzer demonstration using swagger-petstore | https://github.com/ForAllSecure/api-fuzzer-swagger-petstore-demo | 0 | 0| 
@@ -146,7 +147,6 @@
 | 20211112T00:43:15Z | Null | https://github.com/mcansh/fuzzy-journey | 0 | 0| 
 | 20211112T00:38:32Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6800 | 1418| 
 | 20211111T23:48:21Z | Udemy AppExpert con React Native 2021 | https://github.com/miguelvelarde/fuzzy-store | 0 | 0| 
-| 20211111T23:34:45Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211111T22:56:40Z | Implementation of a fuzzy system in Matlab | https://github.com/msusz/fuzzy_system | 0 | 0| 
 
 
