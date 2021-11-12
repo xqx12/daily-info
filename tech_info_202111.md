@@ -6,6 +6,15 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20211112 | All about bug bounty | https://github.com/daffainfo/AllAboutBugBounty| 
+| 20211112 | Lost in the Loader - 不同环境 Windows Loader 处理 PE 文件格式的差异分析 | https://i.blackhat.com/EU-21/Wednesday/EU-21-Nisi-Lost-In-The-Loader.pdf| 
+| 20211112 | Lazarus RAT 远控工具 - FALLCHILL 的分析报告 | https://lifars.com/wp-content/uploads/2021/09/Lazarus.pdf| 
+| 20211112 | The Kerberos Key List Attack: The return of the Read Only Domain Controllers | https://www.secureauth.com/blog/the-kerberos-key-list-attack-the-return-of-the-read-only-domain-controllers/| 
+| 20211112 | 利用 EDR 软件 Hook API 时对函数重入问题的处理问题实现逃逸检测 | http://www.deepinstinct.com/blog/evading-antivirus-detection-with-inline-hooks| 
+| 20211112 | Goole TAG 团队发现有攻击者利用 macOS XNU 内核提权漏洞发起水坑攻击 | https://blog.google/threat-analysis-group/analyzing-watering-hole-campaign-using-macos-exploits/| 
+| 20211112 | Fuzzing Image Parsing in Windows, Part Three: RAW and HEIF | https://www.mandiant.com/resources/fuzzing-image-parsing-three| 
+| 20211112 | Google 开源了一套 Fuzz 框架 - ClusterFuzzLite，支持在 CI 工作流中引入 Fuzz | https://security.googleblog.com/2021/11/clusterfuzzlite-continuous-fuzzing-for.html| 
+| 20211112 | 红队中易被攻击的一些重点系统漏洞整理 | https://github.com/r0eXpeR/redteam_vul| 
 | 20211111 | 记一次Log4j失败的Gadget挖掘记录. | https://tttang.com/archive/1314/| 
 | 20211111 | McAfees研究人员发现最新“Squirrelwaffle“恶意软件威胁并对进行分析. | https://www.mcafee.com/blogs/other-blogs/mcafee-labs/the-newest-malicious-actor-squirrelwaffle-malicious-doc/| 
 | 20211110 | Google Gsuite 超级管理员账户接管漏洞的分析 | https://secreltyhiddenwriteups.blogspot.com/2021/11/becoming-super-admin-in-someone-elses.html| 
@@ -17,15 +26,6 @@
 | 20211110 | 软件供应链来源攻击分析报告 | https://mp.weixin.qq.com/s/aEU2E3Xt0-9tJ4TPpjAGkQ| 
 | 20211110 | 用 JavaScript 写一个不容易被发现的后门 | http://certitude.consulting/blog/en/invisible-backdoor/| 
 | 20211110 | All your tracing are belong to BPF | http://blog.trailofbits.com/2021/11/09/all-your-tracing-are-belong-to-bpf/| 
-| 20211110 | 从 mimikatz 看 Windows DPAPI 数据解密. | https://paper.seebug.org/1755/| 
-| 20211110 | 浅谈JSP Webshell进阶免杀. | https://tttang.com/archive/1315/| 
-| 20211110 | Palo Alto Networks GlobalProtect VPN Unauthenticated RCE 漏洞分析（CVE-2021-3064） | http://www.randori.com/blog/cve-2021-3064/?i=2| 
-| 20211110 | V8 脚本引擎 Trace-based garbage collector - Oilpan 的介绍 | https://v8.dev/blog/oilpan-library| 
-| 20211110 | 安全软件 Cylance 被发现多个本地提权漏洞 | https://www.pentestpartners.com/security-blog/pun-free-cylance-vulnerability-fixed/| 
-| 20211110 | PhoneSpy Android 间谍 App 监控韩国用户的消息、图片等各类隐私信息 | http://blog.zimperium.com/phonespy-the-app-based-cyberattack-snooping-south-korean-citizens/| 
-| 20211110 | osquery 发布 5.0 版本，支持在 macOS 平台基于 EndpointSecurity 框架收集事件日志 | http://blog.trailofbits.com/2021/11/10/announcing-osquery-5-now-with-endpointsecurity-on-macos/| 
-| 20211110 | 据 ESET 报道，朝鲜 APT 组织利用带后门的 IDA Pro 7.5 攻击安全研究人员 | https://mp.weixin.qq.com/s/PGHxVr-RPB8fiMTD35oh1w| 
-| 20211110 | 攻击 ETW，逃避 EDR 软件的检测 | https://i.blackhat.com/EU-21/Wednesday/EU-21-Teodorescu-Veni-No-Vidi-No-Vici-Attacks-On-ETW-Blind-EDRs.pdf| 
 
 
 # 安全维基 推荐
@@ -46,22 +46,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211112T02:54:40Z | CVE-2021-22205 | GitLab CE/EE Preauth RCE using ExifTool | https://github.com/inspiringz/CVE-2021-22205 | | 
-| 20211112T02:33:02Z | CVE-2021-38666 | Null | https://github.com/DarkSprings/CVE-2021-38666-poc | | 
+| 20211112T12:22:09Z | CVE-2021-41773 | Ce programme permet de détecter une faille RCE sur les serveurs Apache 2.4.49 et Apache 2.4.50 | https://github.com/Balgogan/CVE-2021-41773 | | 
+| 20211112T11:53:03Z | cve-2021-40449 | Null | https://github.com/CppXL/cve-2021-40449-poc | | 
+| 20211112T11:51:38Z | CVE-2021-22205 | GitLab CE/EE Preauth RCE using ExifTool | https://github.com/inspiringz/CVE-2021-22205 | | 
+| 20211112T11:41:35Z | 未知编号 | redoing cve_2020 repository | https://github.com/sinjeanmin/cvedetails_2020_final | | 
+| 20211112T10:08:15Z | CVE-2021-40539 | Exploitation code for CVE-2021-40539 | https://github.com/synacktiv/CVE-2021-40539 | | 
+| 20211112T08:27:41Z | CVE-2021-30657 | A sample POC for CVE-2021-30657 affecting MacOS | https://github.com/shubham0d/CVE-2021-30657 | | 
+| 20211112T08:15:50Z | CVE-2021-38666 | Null | https://github.com/DarkSprings/CVE-2021-38666-poc | | 
+| 20211112T07:40:11Z | CVE-2021-22205 | Null | https://github.com/faisalfs10x/GitLab-CVE-2021-22205-scanner | | 
+| 20211112T05:47:46Z | CVE-2021-42292 | A Zeek package to detect CVE-2021-42292, a Microsoft Excel local privilege escalation exploit. | https://github.com/corelight/CVE-2021-42292 | | 
 | 20211112T01:01:48Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | | 
-| 20211112T00:05:10Z | CVE-2021-41773 | This is a simple POC for Apache/2.4.49 Path Traversal Vulnerability | https://github.com/shellreaper/CVE-2021-41773 | | 
-| 20211111T15:38:38Z | CVE-2021-20837 | XMLRPC  - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | | 
-| 20211111T13:41:48Z | CVE-2021-40539 | Exploitation code for CVE-2021-40539 | https://github.com/synacktiv/CVE-2021-40539 | | 
-| 20211111T13:39:11Z | cve-2021-22205 | Null | https://github.com/ahmad4fifz/docker-cve-2021-22205 | | 
-| 20211111T13:13:47Z | CVE-2021-40449 | Exploit for CVE-2021-40449 | https://github.com/Kristal-g/CVE-2021-40449_poc | | 
-| 20211111T12:32:37Z | CVE-2021-42327 |  kernel exploit for minor bug i found in amd gpu driver | https://github.com/docfate111/CVE-2021-42327 | | 
-| 20211111T07:18:14Z | CVE-2021-22205 | Null | https://github.com/faisalfs10x/GitLab-CVE-2021-22205-scanner | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211112T02:06:00Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2936 | 83| 
+| 20211112T10:43:15Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2937 | 83| 
+| 20211112T03:12:22Z | :musical_note: Kleene up your music library | https://github.com/KleeneApp/Kleene-iOS | 7 | 0| 
 | 20211112T00:47:10Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1816 | 518| 
 | 20211111T17:58:49Z | Spring 2021 Geography 817 work folder  | https://github.com/klee12/klee12.github.io | 0 | 0| 
 | 20211111T16:56:20Z | Null | https://github.com/timoodada/klee | 0 | 0| 
@@ -70,13 +71,13 @@
 | 20211110T17:38:54Z | Null | https://github.com/ayazip/witch-klee | 0 | 0| 
 | 20211110T14:55:18Z | TracerX Symbolic Virtual Machine | https://github.com/tracer-x/TracerX | 15 | 9| 
 | 20211110T14:31:24Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 14 | 44| 
-| 20211110T13:50:09Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 219 | 36| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211112T01:16:27Z | Null | https://github.com/marcelocodigos/S2Encontro-Presencial-2 | 0 | 0| 
+| 20211112T08:17:38Z | this branch is a solution to dma emulator | https://github.com/IoTS-P/s2e | 0 | 0| 
+| 20211112T05:18:21Z | Null | https://github.com/marcelocodigos/S2Encontro-Presencial-2 | 0 | 0| 
 | 20211110T12:34:04Z | Null | https://github.com/yuvalkirstain/s2e-coref | 20 | 7| 
 | 20211109T07:11:02Z | 🎻 Requiem: Modular exploit generation using symbolic execution | https://github.com/aesophor/requiem | 15 | 3| 
 | 20211108T08:20:22Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 181 | 39| 
@@ -86,16 +87,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211112T02:40:46Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 8481 | 1461| 
-| 20211112T02:03:09Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
-| 20211112T01:36:37Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 357 | 56| 
-| 20211112T01:22:41Z | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | 1524 | 523| 
-| 20211112T01:08:17Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | 0 | 0| 
-| 20211112T00:20:03Z | Collection of Discord hacking tools/fun stuff/exploits that is completely made using NodeJS. | https://github.com/I2rys/ODiscord | 29 | 10| 
-| 20211111T23:29:00Z | Codes for WACVW paper %Small or Far Away? Exploiting Deep Super-Resolution and Altitude Data forReal-World Aerial Animal Surveillance% | https://github.com/Mowen111/SALT | 0 | 0| 
-| 20211111T22:55:17Z | Null | https://github.com/hamza07-w/Exploit-Development | 2 | 0| 
-| 20211111T22:49:13Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 114 | 259| 
-| 20211111T22:39:42Z | Null | https://github.com/Youheng-Lue/art-exploit | 0 | 0| 
+| 20211112T13:00:23Z | Daily scraper (and mebbe more in the future) for CISA%s Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | 1 | 0| 
+| 20211112T12:51:07Z | InfluxDB CVE-2019-20933 vulnerability exploit | https://github.com/LorenzoTullini/InfluxDB-Exploit-CVE-2019-20933 | 12 | 7| 
+| 20211112T12:45:27Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 14| 
+| 20211112T12:34:24Z | Yuri-Exploiter is an open source Game Exploiter and other cool stuff like dll-injector, script-hub, roblox-exploiter and more stuff in the next update | https://github.com/Rask-yo/Yuri-Exploiter | 0 | 0| 
+| 20211112T12:16:26Z | Null | https://github.com/Athis-Offsec/Exploits-I-Developed | 0 | 0| 
+| 20211112T12:07:52Z | This Buffer Overflow Toolkit works through FTP, SMTP, POP, HTTP protocols as well file outputs for playlists exploiting customized variables/commands. Payloads can be generated through MSFVENOM or you can use your own ASM files. | https://github.com/danieljs777/fastoverflowtk | 13 | 5| 
+| 20211112T12:03:34Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
+| 20211112T11:58:49Z | Official repository for ChairWare, a powerful script/exploit hub for Roblox! | https://github.com/MiloHaxx/ChairWare | 0 | 0| 
+| 20211112T11:54:13Z | A helpful Java Deserialization exploit framework based on ysoserial | https://github.com/wh1t3p1g/ysomap | 497 | 48| 
+| 20211112T11:53:32Z | CVenom is a C++ Library For Malware Development And Exploit Development, Network Attacks And raw Packet Builder For Penetration Testing | https://github.com/Mahmoud7Osman/CVenom | 0 | 0| 
 
 
 # backdoor on Github 推荐
