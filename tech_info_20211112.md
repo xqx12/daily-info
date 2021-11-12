@@ -55,7 +55,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211112T13:03:15Z | Official repository for ChairWare, a powerful script/exploit hub for Roblox! | https://github.com/MiloHaxx/ChairWare | 0 | 0| 
+| 20211112T13:10:21Z | Official repository for ChairWare, a powerful script/exploit hub for Roblox! | https://github.com/MiloHaxx/ChairWare | 0 | 0| 
 | 20211112T13:03:01Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211112T13:02:44Z | InfluxDB CVE-2019-20933 vulnerability exploit | https://github.com/LorenzoTullini/InfluxDB-Exploit-CVE-2019-20933 | 12 | 7| 
 | 20211112T13:00:23Z | Daily scraper (and mebbe more in the future) for CISA%s Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | 1 | 0| 
