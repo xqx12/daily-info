@@ -76,7 +76,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211112T00:55:31Z | Null | https://github.com/marcelocodigos/S2Encontro-Presencial-2 | 0 | 0| 
+| 20211112T01:04:17Z | Null | https://github.com/marcelocodigos/S2Encontro-Presencial-2 | 0 | 0| 
 | 20211110T12:34:04Z | Null | https://github.com/yuvalkirstain/s2e-coref | 20 | 7| 
 | 20211109T07:11:02Z | 🎻 Requiem: Modular exploit generation using symbolic execution | https://github.com/aesophor/requiem | 15 | 3| 
 | 20211108T08:20:22Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 181 | 39| 
@@ -86,8 +86,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211112T01:03:29Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211112T00:20:03Z | Collection of Discord hacking tools/fun stuff/exploits that is completely made using NodeJS. | https://github.com/I2rys/ODiscord | 29 | 10| 
-| 20211112T00:04:01Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211111T23:43:18Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | 0 | 0| 
 | 20211111T23:29:00Z | Codes for WACVW paper %Small or Far Away? Exploiting Deep Super-Resolution and Altitude Data forReal-World Aerial Animal Surveillance% | https://github.com/Mowen111/SALT | 0 | 0| 
 | 20211111T22:55:17Z | Null | https://github.com/hamza07-w/Exploit-Development | 2 | 0| 
@@ -138,10 +138,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211112T01:01:54Z | ClusterFuzzLite - Simple continuous fuzzing that runs in CI. | https://github.com/google/clusterfuzzlite | 29 | 6| 
 | 20211112T00:43:15Z | Null | https://github.com/mcansh/fuzzy-journey | 0 | 0| 
 | 20211112T00:38:32Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6800 | 1418| 
 | 20211112T00:35:11Z | bash script to run from installation media to setup gentoo automagically | https://github.com/fjp321/fuzzy-goggles | 0 | 0| 
-| 20211112T00:31:33Z | ClusterFuzzLite - Simple continuous fuzzing that runs in CI. | https://github.com/google/clusterfuzzlite | 28 | 6| 
 | 20211111T23:48:21Z | Udemy AppExpert con React Native 2021 | https://github.com/miguelvelarde/fuzzy-store | 0 | 0| 
 | 20211111T23:34:45Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211111T22:56:40Z | Implementation of a fuzzy system in Matlab | https://github.com/msusz/fuzzy_system | 0 | 0| 
