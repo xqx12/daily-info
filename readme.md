@@ -70,7 +70,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211112T12:55:55Z | Remote control software, supported Windows/Unix/MacOS/Linux(x86/x64/mips/arm) | https://github.com/h1zzz/purewater | 5 | 0| 
+| 20211112T13:06:02Z | Remote control software, supported Windows/Unix/MacOS/Linux(x86/x64/mips/arm) | https://github.com/h1zzz/purewater | 5 | 0| 
 | 20211112T12:03:06Z | Create a fully undetectable backdoor with simple steps. | https://github.com/3ct0s/fud-backdoor | 4 | 1| 
 | 20211112T12:01:07Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 109 | 25| 
 | 20211112T11:54:34Z | Null | https://github.com/forceki/ssh-backdoor | 0 | 0| 
