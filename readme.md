@@ -55,14 +55,14 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211112T13:03:15Z | Official repository for ChairWare, a powerful script/exploit hub for Roblox! | https://github.com/MiloHaxx/ChairWare | 0 | 0| 
+| 20211112T13:03:01Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
+| 20211112T13:02:44Z | InfluxDB CVE-2019-20933 vulnerability exploit | https://github.com/LorenzoTullini/InfluxDB-Exploit-CVE-2019-20933 | 12 | 7| 
 | 20211112T13:00:23Z | Daily scraper (and mebbe more in the future) for CISA%s Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | 1 | 0| 
-| 20211112T12:51:07Z | InfluxDB CVE-2019-20933 vulnerability exploit | https://github.com/LorenzoTullini/InfluxDB-Exploit-CVE-2019-20933 | 12 | 7| 
 | 20211112T12:45:27Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 14| 
 | 20211112T12:34:24Z | Yuri-Exploiter is an open source Game Exploiter and other cool stuff like dll-injector, script-hub, roblox-exploiter and more stuff in the next update | https://github.com/Rask-yo/Yuri-Exploiter | 0 | 0| 
 | 20211112T12:16:26Z | Null | https://github.com/Athis-Offsec/Exploits-I-Developed | 0 | 0| 
 | 20211112T12:07:52Z | This Buffer Overflow Toolkit works through FTP, SMTP, POP, HTTP protocols as well file outputs for playlists exploiting customized variables/commands. Payloads can be generated through MSFVENOM or you can use your own ASM files. | https://github.com/danieljs777/fastoverflowtk | 13 | 5| 
-| 20211112T12:03:34Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
-| 20211112T11:58:49Z | Official repository for ChairWare, a powerful script/exploit hub for Roblox! | https://github.com/MiloHaxx/ChairWare | 0 | 0| 
 | 20211112T11:54:13Z | A helpful Java Deserialization exploit framework based on ysoserial | https://github.com/wh1t3p1g/ysomap | 497 | 48| 
 | 20211112T11:53:32Z | CVenom is a C++ Library For Malware Development And Exploit Development, Network Attacks And raw Packet Builder For Penetration Testing | https://github.com/Mahmoud7Osman/CVenom | 0 | 0| 
 
@@ -99,16 +99,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211112T02:58:17Z | Config files for my GitHub profile. | https://github.com/SmolFuzzyBagle/SmolFuzzyBagle | 0 | 0| 
-| 20211112T02:32:33Z | x5 Team Project Proposal | https://github.com/chance400/fuzzy-winner | 0 | 1| 
-| 20211112T02:19:49Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20211112T02:18:20Z | ClusterFuzzLite - Simple continuous fuzzing that runs in CI. | https://github.com/google/clusterfuzzlite | 35 | 7| 
-| 20211112T01:46:30Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2431 | 150| 
-| 20211112T01:45:19Z | bash script to run from installation media to setup gentoo automagically | https://github.com/fjp321/fuzzy-goggles | 0 | 0| 
-| 20211112T01:35:24Z | ForAllSecure API Fuzzer demonstration using swagger-petstore | https://github.com/ForAllSecure/api-fuzzer-swagger-petstore-demo | 0 | 0| 
-| 20211112T01:27:35Z | Null | https://github.com/JMCampbell2021/fuzzy-octo-sniffle | 0 | 0| 
-| 20211112T00:43:15Z | Null | https://github.com/mcansh/fuzzy-journey | 0 | 0| 
-| 20211112T00:38:32Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6800 | 1418| 
+| 20211112T13:03:26Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6806 | 1419| 
+| 20211112T12:52:40Z | Software used at work %Use of search techniques to define efficient inference models for classification problems with a high number of fuzzy rules% | https://github.com/Raul-PerezR/Inference-Recursive-Classification-FuzzyRules | 0 | 0| 
+| 20211112T12:44:08Z | Fuzzing test for TINET | https://github.com/toppers/TINETFuzzer | 0 | 0| 
+| 20211112T11:50:18Z | Null | https://github.com/bityob/toka-fuzzing-websites | 0 | 0| 
+| 20211112T11:11:33Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 9 | 1| 
+| 20211112T11:07:03Z | A curated list of fuzzing resources ( Books, courses - free and paid, videos, tools, tutorials and vulnerable applications to practice on ) for learning Fuzzing and initial phases of Exploit Development like root cause analysis. | https://github.com/secfigo/Awesome-Fuzzing | 3815 | 735| 
+| 20211112T11:05:50Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2193 | 431| 
+| 20211112T11:03:23Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4603 | 472| 
+| 20211112T10:55:03Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 592 | 62| 
+| 20211112T10:37:27Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 
 
 
