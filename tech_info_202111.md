@@ -31,6 +31,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20211112 | 浅谈JSP Webshell进阶免杀 | https://tttang.com/archive/1315/| 
 | 20211111 | Android应用攻与防 | https://mp.weixin.qq.com/s/qH6ksA03UcuwQgPHaNuBUg| 
 | 20211111 | 美国DARPA主导的智能化情报分析系列项目概览 | https://mp.weixin.qq.com/s/SERw3ORYBjwxOKcpNZBEGg| 
 | 20211110 | SaTC：一种全新的物联网设备漏洞自动化挖掘方法 | https://mp.weixin.qq.com/s/HAmL9rB8zmEsF-o906gCIg| 
@@ -40,7 +41,6 @@
 | 20211109 | 软件供应链来源攻击分析报告 | https://mp.weixin.qq.com/s/aEU2E3Xt0-9tJ4TPpjAGkQ| 
 | 20211108 | SecWiki周刊（第401期) | https://www.sec-wiki.com/weekly/401| 
 | 20211108 | 基于告警关联的一种多阶段攻击检测方法 | https://mp.weixin.qq.com/s/YzBvYN60iSVp8Ofeo2UwUg| 
-| 20211108 | APT活动中的Windows系统本地提权漏洞及技术分析 | https://mp.weixin.qq.com/s/6mT0O9eur5-VEs0rbV0-mg| 
 
 
 # CVE Github 推荐
@@ -87,10 +87,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211112T13:45:32Z | Daily scraper (and mebbe more in the future) for CISA%s Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | 2 | 0| 
 | 20211112T13:10:21Z | Official repository for ChairWare, a powerful script/exploit hub for Roblox! | https://github.com/MiloHaxx/ChairWare | 0 | 0| 
 | 20211112T13:03:01Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211112T13:02:44Z | InfluxDB CVE-2019-20933 vulnerability exploit | https://github.com/LorenzoTullini/InfluxDB-Exploit-CVE-2019-20933 | 12 | 7| 
-| 20211112T13:00:23Z | Daily scraper (and mebbe more in the future) for CISA%s Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | 1 | 0| 
 | 20211112T12:45:27Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 14| 
 | 20211112T12:34:24Z | Yuri-Exploiter is an open source Game Exploiter and other cool stuff like dll-injector, script-hub, roblox-exploiter and more stuff in the next update | https://github.com/Rask-yo/Yuri-Exploiter | 0 | 0| 
 | 20211112T12:16:26Z | Null | https://github.com/Athis-Offsec/Exploits-I-Developed | 0 | 0| 
