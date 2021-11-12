@@ -70,10 +70,10 @@
 | 20211111T19:49:33Z | pybotnet -   A Python Library for building Botnet , Trojan or BackDoor for windows and linux with Telegram control panel  | https://github.com/onionj/pybotnet | 39 | 21| 
 | 20211111T16:26:01Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 356 | 63| 
 | 20211111T11:12:15Z | Null | https://github.com/BrasilianoDev/BackDoor | 0 | 0| 
-| 20211111T09:08:02Z | phpstudy后门多线程批量检测脚本 | https://github.com/einzbernnn/PhpstudyBackdoor | 2 | 0| 
 | 20211111T08:24:46Z | Null | https://github.com/Allen-piexl/CatchBackdoor | 0 | 0| 
 | 20211111T08:24:24Z | Null | https://github.com/Allen-piexl/CatchBackdoor2 | 0 | 0| 
 | 20211111T05:49:52Z | Actually run a given promise or mock its outcome based on a given input value | https://github.com/johanfive/backdoor | 1 | 0| 
+| 20211111T04:13:50Z | Database of backdoor passwords used by Malware, uncovered by the Malvuln project. | https://github.com/malvuln/viruscreds | 8 | 2| 
 
 
 # symbolic execution on Github 推荐
