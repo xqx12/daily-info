@@ -99,6 +99,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211112T13:25:46Z | Null | https://github.com/lomninera/fuzzy-memory | 0 | 0| 
+| 20211112T13:22:39Z | Fuzzy matcher, sorter, and conveter for ddc.vim | https://github.com/tani/ddc-fuzzy | 21 | 1| 
 | 20211112T13:16:31Z | KVM virtualization based fuzzing | https://github.com/MattGorko/Tartiflette | 34 | 2| 
 | 20211112T13:03:26Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6806 | 1419| 
 | 20211112T12:52:40Z | Software used at work %Use of search techniques to define efficient inference models for classification problems with a high number of fuzzy rules% | https://github.com/Raul-PerezR/Inference-Recursive-Classification-FuzzyRules | 0 | 0| 
@@ -107,8 +109,6 @@
 | 20211112T11:11:33Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 9 | 1| 
 | 20211112T11:07:03Z | A curated list of fuzzing resources ( Books, courses - free and paid, videos, tools, tutorials and vulnerable applications to practice on ) for learning Fuzzing and initial phases of Exploit Development like root cause analysis. | https://github.com/secfigo/Awesome-Fuzzing | 3815 | 735| 
 | 20211112T11:05:50Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2193 | 431| 
-| 20211112T11:03:23Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4603 | 472| 
-| 20211112T10:55:03Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 592 | 62| 
 
 
 
