@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211112T01:34:44Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 8480 | 1461| 
 | 20211112T01:22:41Z | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | 1524 | 522| 
 | 20211112T01:08:17Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | 0 | 0| 
 | 20211112T01:03:29Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
@@ -95,7 +96,6 @@
 | 20211111T22:49:13Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 114 | 258| 
 | 20211111T22:39:42Z | Null | https://github.com/Youheng-Lue/art-exploit | 0 | 0| 
 | 20211111T21:59:52Z | Programs, tools, information, and exploits for TI z80 calculators. No longer supported. | https://github.com/parrotgeek1/TI-z80 | 4 | 3| 
-| 20211111T21:20:34Z | Clouddefense.ai is an automated web application security testing tool that audits your web applications by checking for vulnerabilities like SQL Injection, Cross site scripting and other exploitable vulnerabilities. | https://github.com/CloudDefenseAI/cd | 15 | 1| 
 
 
 # backdoor on Github 推荐
@@ -138,7 +138,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211112T01:33:54Z | ForAllSecure API Fuzzer demonstration using swagger-petstore | https://github.com/ForAllSecure/api-fuzzer-swagger-petstore-demo | 0 | 0| 
+| 20211112T01:35:24Z | ForAllSecure API Fuzzer demonstration using swagger-petstore | https://github.com/ForAllSecure/api-fuzzer-swagger-petstore-demo | 0 | 0| 
 | 20211112T01:32:54Z | ClusterFuzzLite - Simple continuous fuzzing that runs in CI. | https://github.com/google/clusterfuzzlite | 32 | 6| 
 | 20211112T01:29:33Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2430 | 150| 
 | 20211112T01:27:35Z | Null | https://github.com/JMCampbell2021/fuzzy-octo-sniffle | 0 | 0| 
