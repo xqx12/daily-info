@@ -101,8 +101,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211112T13:52:05Z | KVM virtualization based fuzzing | https://github.com/MattGorko/Tartiflette | 36 | 2| 
+| 20211112T13:50:58Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 592 | 62| 
 | 20211112T13:40:31Z | VSCode Extension , My personal utilities which includes useful functions like the Simple Fuzzy Search for text line, or more. | https://github.com/wizenith/BillsFuzzySearch | 0 | 0| 
-| 20211112T13:37:36Z | KVM virtualization based fuzzing | https://github.com/MattGorko/Tartiflette | 35 | 2| 
 | 20211112T13:25:46Z | Null | https://github.com/lomninera/fuzzy-memory | 0 | 0| 
 | 20211112T13:22:39Z | Fuzzy matcher, sorter, and conveter for ddc.vim | https://github.com/tani/ddc-fuzzy | 21 | 1| 
 | 20211112T13:03:26Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6806 | 1419| 
@@ -110,7 +111,6 @@
 | 20211112T12:44:08Z | Fuzzing test for TINET | https://github.com/toppers/TINETFuzzer | 0 | 0| 
 | 20211112T11:50:18Z | Null | https://github.com/bityob/toka-fuzzing-websites | 0 | 0| 
 | 20211112T11:11:33Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 9 | 1| 
-| 20211112T11:07:03Z | A curated list of fuzzing resources ( Books, courses - free and paid, videos, tools, tutorials and vulnerable applications to practice on ) for learning Fuzzing and initial phases of Exploit Development like root cause analysis. | https://github.com/secfigo/Awesome-Fuzzing | 3815 | 735| 
 
 
 
