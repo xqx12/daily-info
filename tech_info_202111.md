@@ -102,7 +102,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211112T13:15:16Z | Remote control software, supported Windows/Unix/MacOS/Linux(x86/x64/mips/arm) | https://github.com/h1zzz/purewater | 5 | 0| 
+| 20211112T13:57:52Z | Remote control software, supported Windows/Unix/MacOS/Linux(x86/x64/mips/arm) | https://github.com/h1zzz/purewater | 5 | 0| 
 | 20211112T12:03:06Z | Create a fully undetectable backdoor with simple steps. | https://github.com/3ct0s/fud-backdoor | 4 | 1| 
 | 20211112T12:01:07Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 109 | 25| 
 | 20211112T11:54:34Z | Null | https://github.com/forceki/ssh-backdoor | 0 | 0| 
@@ -139,16 +139,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211112T13:58:10Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6807 | 1419| 
+| 20211112T13:57:15Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 592 | 62| 
+| 20211112T13:57:10Z | Fuzzing for Crystal programming language | https://github.com/oprypin/crystal-fuzzing | 4 | 0| 
+| 20211112T13:56:44Z | Null | https://github.com/schemathesis/web-api-fuzzing-project | 5 | 0| 
+| 20211112T13:55:50Z | Fuzzy finder tool and library | https://github.com/bottlerocketlabs/fuzzy | 0 | 0| 
 | 20211112T13:52:05Z | KVM virtualization based fuzzing | https://github.com/MattGorko/Tartiflette | 36 | 2| 
-| 20211112T13:50:58Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 592 | 62| 
 | 20211112T13:40:31Z | VSCode Extension , My personal utilities which includes useful functions like the Simple Fuzzy Search for text line, or more. | https://github.com/wizenith/BillsFuzzySearch | 0 | 0| 
 | 20211112T13:25:46Z | Null | https://github.com/lomninera/fuzzy-memory | 0 | 0| 
 | 20211112T13:22:39Z | Fuzzy matcher, sorter, and conveter for ddc.vim | https://github.com/tani/ddc-fuzzy | 21 | 1| 
-| 20211112T13:03:26Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6806 | 1419| 
 | 20211112T12:52:40Z | Software used at work %Use of search techniques to define efficient inference models for classification problems with a high number of fuzzy rules% | https://github.com/Raul-PerezR/Inference-Recursive-Classification-FuzzyRules | 0 | 0| 
-| 20211112T12:44:08Z | Fuzzing test for TINET | https://github.com/toppers/TINETFuzzer | 0 | 0| 
-| 20211112T11:50:18Z | Null | https://github.com/bityob/toka-fuzzing-websites | 0 | 0| 
-| 20211112T11:11:33Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 9 | 1| 
 
 
 
