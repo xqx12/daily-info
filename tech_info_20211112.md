@@ -25,8 +25,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211112T13:26:52Z | cve-2021-40449 | Null | https://github.com/CppXL/cve-2021-40449-poc | | 
 | 20211112T12:22:09Z | CVE-2021-41773 | Ce programme permet de détecter une faille RCE sur les serveurs Apache 2.4.49 et Apache 2.4.50 | https://github.com/Balgogan/CVE-2021-41773 | | 
-| 20211112T11:53:03Z | cve-2021-40449 | Null | https://github.com/CppXL/cve-2021-40449-poc | | 
 | 20211112T11:51:38Z | CVE-2021-22205 | GitLab CE/EE Preauth RCE using ExifTool | https://github.com/inspiringz/CVE-2021-22205 | | 
 | 20211112T11:41:35Z | 未知编号 | redoing cve_2020 repository | https://github.com/sinjeanmin/cvedetails_2020_final | | 
 | 20211112T10:08:15Z | CVE-2021-40539 | Exploitation code for CVE-2021-40539 | https://github.com/synacktiv/CVE-2021-40539 | | 
