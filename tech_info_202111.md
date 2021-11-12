@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211112T01:22:41Z | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | 1524 | 522| 
 | 20211112T01:08:17Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | 0 | 0| 
 | 20211112T01:03:29Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211112T00:20:03Z | Collection of Discord hacking tools/fun stuff/exploits that is completely made using NodeJS. | https://github.com/I2rys/ODiscord | 29 | 10| 
@@ -95,7 +96,6 @@
 | 20211111T22:39:42Z | Null | https://github.com/Youheng-Lue/art-exploit | 0 | 0| 
 | 20211111T21:59:52Z | Programs, tools, information, and exploits for TI z80 calculators. No longer supported. | https://github.com/parrotgeek1/TI-z80 | 4 | 3| 
 | 20211111T21:20:34Z | Clouddefense.ai is an automated web application security testing tool that audits your web applications by checking for vulnerabilities like SQL Injection, Cross site scripting and other exploitable vulnerabilities. | https://github.com/CloudDefenseAI/cd | 15 | 1| 
-| 20211111T21:19:08Z | Exploit for CVE-2021-40449 - Win32k Elevation of Privilege Vulnerability (LPE) | https://github.com/ly4k/CallbackHell | 319 | 73| 
 
 
 # backdoor on Github 推荐
