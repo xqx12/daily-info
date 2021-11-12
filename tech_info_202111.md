@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211112T01:36:37Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 357 | 55| 
 | 20211112T01:34:44Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 8480 | 1461| 
 | 20211112T01:22:41Z | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | 1524 | 522| 
 | 20211112T01:08:17Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20211111T22:55:17Z | Null | https://github.com/hamza07-w/Exploit-Development | 2 | 0| 
 | 20211111T22:49:13Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 114 | 258| 
 | 20211111T22:39:42Z | Null | https://github.com/Youheng-Lue/art-exploit | 0 | 0| 
-| 20211111T21:59:52Z | Programs, tools, information, and exploits for TI z80 calculators. No longer supported. | https://github.com/parrotgeek1/TI-z80 | 4 | 3| 
 
 
 # backdoor on Github 推荐
