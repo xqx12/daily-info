@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211112T02:21:27Z | CVE-2021-38666 | Null | https://github.com/DarkSprings/CVE-2021-38666-poc | | 
 | 20211112T01:59:54Z | CVE-2021-22205 | GitLab CE/EE Preauth RCE using ExifTool | https://github.com/inspiringz/CVE-2021-22205 | | 
 | 20211112T01:01:48Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | | 
 | 20211112T00:05:10Z | CVE-2021-41773 | This is a simple POC for Apache/2.4.49 Path Traversal Vulnerability | https://github.com/shellreaper/CVE-2021-41773 | | 
@@ -55,7 +56,6 @@
 | 20211111T13:13:47Z | CVE-2021-40449 | Exploit for CVE-2021-40449 | https://github.com/Kristal-g/CVE-2021-40449_poc | | 
 | 20211111T12:32:37Z | CVE-2021-42327 |  kernel exploit for minor bug i found in amd gpu driver | https://github.com/docfate111/CVE-2021-42327 | | 
 | 20211111T07:18:14Z | CVE-2021-22205 | Null | https://github.com/faisalfs10x/GitLab-CVE-2021-22205-scanner | | 
-| 20211111T06:24:06Z | CVE-2021-111199 | 1111111111111111111 | https://github.com/RichardKabuto/CVE-2021-111199 | | 
 
 
 # klee on Github 推荐
