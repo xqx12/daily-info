@@ -138,10 +138,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211112T02:01:16Z | ClusterFuzzLite - Simple continuous fuzzing that runs in CI. | https://github.com/google/clusterfuzzlite | 33 | 7| 
 | 20211112T01:46:30Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2431 | 150| 
 | 20211112T01:45:19Z | bash script to run from installation media to setup gentoo automagically | https://github.com/fjp321/fuzzy-goggles | 0 | 0| 
 | 20211112T01:35:24Z | ForAllSecure API Fuzzer demonstration using swagger-petstore | https://github.com/ForAllSecure/api-fuzzer-swagger-petstore-demo | 0 | 0| 
-| 20211112T01:32:54Z | ClusterFuzzLite - Simple continuous fuzzing that runs in CI. | https://github.com/google/clusterfuzzlite | 32 | 7| 
 | 20211112T01:27:35Z | Null | https://github.com/JMCampbell2021/fuzzy-octo-sniffle | 0 | 0| 
 | 20211112T00:43:15Z | Null | https://github.com/mcansh/fuzzy-journey | 0 | 0| 
 | 20211112T00:38:32Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6800 | 1418| 
