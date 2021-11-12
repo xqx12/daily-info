@@ -138,6 +138,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211112T01:27:35Z | Null | https://github.com/JMCampbell2021/fuzzy-octo-sniffle | 0 | 0| 
 | 20211112T01:24:51Z | bash script to run from installation media to setup gentoo automagically | https://github.com/fjp321/fuzzy-goggles | 0 | 0| 
 | 20211112T01:13:02Z | ClusterFuzzLite - Simple continuous fuzzing that runs in CI. | https://github.com/google/clusterfuzzlite | 30 | 6| 
 | 20211112T00:43:15Z | Null | https://github.com/mcansh/fuzzy-journey | 0 | 0| 
@@ -147,7 +148,6 @@
 | 20211111T22:56:40Z | Implementation of a fuzzy system in Matlab | https://github.com/msusz/fuzzy_system | 0 | 0| 
 | 20211111T22:56:01Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2429 | 150| 
 | 20211111T22:53:24Z | Null | https://github.com/Egobekeeh/fuzzy | 0 | 0| 
-| 20211111T22:49:54Z | Human Assisted Fuzzing | https://github.com/crowlc3/HAF | 0 | 0| 
 
 
 
