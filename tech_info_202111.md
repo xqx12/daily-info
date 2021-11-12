@@ -138,7 +138,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211112T01:01:54Z | ClusterFuzzLite - Simple continuous fuzzing that runs in CI. | https://github.com/google/clusterfuzzlite | 29 | 6| 
+| 20211112T01:13:02Z | ClusterFuzzLite - Simple continuous fuzzing that runs in CI. | https://github.com/google/clusterfuzzlite | 30 | 6| 
 | 20211112T00:43:15Z | Null | https://github.com/mcansh/fuzzy-journey | 0 | 0| 
 | 20211112T00:38:32Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6800 | 1418| 
 | 20211112T00:35:11Z | bash script to run from installation media to setup gentoo automagically | https://github.com/fjp321/fuzzy-goggles | 0 | 0| 
