@@ -87,7 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211113T02:13:17Z | Vulnerability Exploitation Code Collection Repository | https://github.com/0x0021h/expbox | 0 | 0| 
+| 20211113T02:22:36Z | Vulnerability Exploitation Code Collection Repository | https://github.com/0x0021h/expbox | 0 | 0| 
 | 20211113T02:03:31Z | Random lua things for roblox exploiting lolye | https://github.com/DontAltF4/RandomProjects | 0 | 0| 
 | 20211113T02:03:13Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211113T01:48:49Z | The best exploitation tool for SSL VPN 0day vulnerabilities. | https://github.com/shelld3v/PwnVPN | 64 | 17| 
