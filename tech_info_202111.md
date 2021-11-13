@@ -87,13 +87,13 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211113T12:56:57Z | Hacking windows 7 using kali linux via freefloat ftp server | https://github.com/zac4sick/WIndows-7-Exploitation | 0 | 0| 
+| 20211113T13:03:01Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
+| 20211113T13:02:42Z | Hacking windows 7 using kali linux via freefloat ftp server | https://github.com/zac4sick/WIndows-7-Exploitation | 0 | 0| 
 | 20211113T12:48:58Z | My collection of BOF exploit scripts for learning binaries | https://github.com/nop-tech/Buffer-Overflows | 0 | 0| 
 | 20211113T12:48:21Z | Zerologon Exploiter I used on Cobalt Strike | https://github.com/CPO-EH/SharpZeroLogon | 2 | 3| 
 | 20211113T12:45:28Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 14| 
 | 20211113T12:40:10Z | A plugin to fix exploits and remove illegal items for anarchy servers | https://github.com/Winds-Studio/Surf | 0 | 0| 
 | 20211113T12:36:27Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4089 | 590| 
-| 20211113T12:03:24Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211113T11:35:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10315 | 1773| 
 | 20211113T11:11:20Z | Webkit Exploit for ps4 9.00 by Sleirsgoevy  | https://github.com/PeterMxx/Ps4-9.00-Webkit-Exploit- | 0 | 0| 
 | 20211113T10:55:03Z | Pwny is an advanced payload for iPhoneOS designed for portability, embeddability, and low resource utilization. | https://github.com/EntySec/Pwny | 2 | 0| 
