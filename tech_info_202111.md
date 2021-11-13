@@ -87,7 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211113T13:34:25Z | Just repository for my exploit | https://github.com/Zears14/SV-Rework-Exploit | 1 | 0| 
+| 20211113T13:34:46Z | Just repository for my exploit | https://github.com/Zears14/SV-Rework-Exploit | 1 | 0| 
 | 20211113T13:03:01Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211113T13:02:42Z | Hacking windows 7 using kali linux via freefloat ftp server | https://github.com/zac4sick/WIndows-7-Exploitation | 0 | 0| 
 | 20211113T12:48:58Z | My collection of BOF exploit scripts for learning binaries | https://github.com/nop-tech/Buffer-Overflows | 0 | 0| 
