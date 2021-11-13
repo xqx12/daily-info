@@ -102,6 +102,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211113T01:16:06Z | Website Shell BackDoors | https://github.com/7r0j4ncodeing/Web-Shells | 23 | 6| 
 | 20211113T00:57:55Z | The Code of Treasures takes place during the 15th century in three different regions which is El Minya, Erbil, Kermanshah. The player will go through a journey to discover more about corruption and backdoor deals between government and thugs during the Feudalism era. The player will have the opportunity to discover more about the silk road and the highwaymen who threaten the convoys on the road. The player will have the opportunity to wear the commoner shoes and feel their pains and listen to their hopes and dreams. The player will go through a journey to discover that nothing different between being evil and being good but the choices we take in our paths. | https://github.com/HussainGhonem/TheCodeofTreasures | 1 | 0| 
 | 20211112T23:14:19Z | Pwny is an advanced payload for iPhoneOS designed for portability, embeddability, and low resource utilization. | https://github.com/EntySec/Pwny | 2 | 0| 
 | 20211112T21:33:16Z | A script that can backdoor any server using TShock server! | https://github.com/COMDARR/EasyBackdoor | 0 | 0| 
@@ -111,7 +112,6 @@
 | 20211112T12:03:06Z | Create a fully undetectable backdoor with simple steps. | https://github.com/3ct0s/fud-backdoor | 4 | 1| 
 | 20211112T12:01:07Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 109 | 25| 
 | 20211112T11:54:34Z | Null | https://github.com/forceki/ssh-backdoor | 0 | 0| 
-| 20211112T11:47:46Z | The insane hackerman backdoor. | https://github.com/Bakdooro/Bakdooro | 10 | 2| 
 
 
 # symbolic execution on Github 推荐
