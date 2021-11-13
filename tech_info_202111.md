@@ -7,6 +7,7 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20211113 | BPF 性能工具推荐书籍。 | https://www.brendangregg.com/bpf-performance-tools-book.html| 
+| 20211113 | 奇虎 360 的 Netlab 安全团队的研究人员发现名为“Abcbot”针对Linux系统威胁的新型僵尸网络恶意软件。 | https://thehackernews.com/2021/11/abcbot-new-evolving-wormable-botnet.html| 
 | 20211112 | All about bug bounty | https://github.com/daffainfo/AllAboutBugBounty| 
 | 20211112 | Lost in the Loader - 不同环境 Windows Loader 处理 PE 文件格式的差异分析 | https://i.blackhat.com/EU-21/Wednesday/EU-21-Nisi-Lost-In-The-Loader.pdf| 
 | 20211112 | Lazarus RAT 远控工具 - FALLCHILL 的分析报告 | https://lifars.com/wp-content/uploads/2021/09/Lazarus.pdf| 
@@ -25,7 +26,6 @@
 | 20211110 | Thick Client Penetration Testing Methodology | https://www.cyberark.com/resources/threat-research-blog/thick-client-penetration-testing-methodology| 
 | 20211110 | 嵌入式 Linux 的瑞士军刀 BusyBox 被发现 14 个漏洞 | https://jfrog.com/blog/unboxing-busybox-14-new-vulnerabilities-uncovered-by-claroty-and-jfrog/| 
 | 20211110 | 软件供应链来源攻击分析报告 | https://mp.weixin.qq.com/s/aEU2E3Xt0-9tJ4TPpjAGkQ| 
-| 20211110 | 用 JavaScript 写一个不容易被发现的后门 | http://certitude.consulting/blog/en/invisible-backdoor/| 
 
 
 # 安全维基 推荐

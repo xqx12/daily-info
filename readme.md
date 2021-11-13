@@ -7,6 +7,7 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20211113 | BPF 性能工具推荐书籍。 | https://www.brendangregg.com/bpf-performance-tools-book.html| 
+| 20211113 | 奇虎 360 的 Netlab 安全团队的研究人员发现名为“Abcbot”针对Linux系统威胁的新型僵尸网络恶意软件。 | https://thehackernews.com/2021/11/abcbot-new-evolving-wormable-botnet.html| 
 
 
 # 安全维基 推荐
