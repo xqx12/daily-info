@@ -140,13 +140,13 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211113T13:10:13Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211113T12:41:41Z | jnp1-2021 fuzzy projekt 3 | https://github.com/eerio/fuzzy | 0 | 0| 
 | 20211113T12:23:34Z | Null | https://github.com/gungnir479/fuzzJIT | 0 | 0| 
 | 20211113T12:01:56Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 36 | 12| 
 | 20211113T11:56:01Z | Simple fuzzy logic library implemented in Rust language. | https://github.com/SeriousRedCat/fuzzy-rust | 0 | 0| 
 | 20211113T11:51:45Z | DOM fuzzer | https://github.com/mevid93/domzzer | 0 | 0| 
 | 20211113T11:47:41Z | Fuzz language model that used chatbot | https://github.com/ksjr7-crongcrong/chatbot_fuzzer | 0 | 1| 
-| 20211113T11:30:57Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211113T10:37:38Z | Wordlists for fuzzing | https://github.com/secoats/cereal_fuzzlists | 0 | 0| 
 | 20211113T09:57:45Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1103 | 48| 
 | 20211113T09:35:08Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6808 | 1420| 
