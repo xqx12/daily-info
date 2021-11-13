@@ -31,11 +31,11 @@
 | 20211112T16:00:51Z | CVE-2021-22205 | GitLab CE/EE Preauth RCE using ExifTool | https://github.com/inspiringz/CVE-2021-22205 | | 
 | 20211112T14:06:00Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | | 
 | 20211112T13:28:36Z | cve-2021-40449 | Null | https://github.com/CppXL/cve-2021-40449-poc | | 
+| 20211112T13:01:51Z | CVE-2021-42327 |  kernel exploit for minor bug i found in amd gpu driver | https://github.com/docfate111/CVE-2021-42327 | | 
 | 20211112T12:22:09Z | CVE-2021-41773 | Ce programme permet de détecter une faille RCE sur les serveurs Apache 2.4.49 et Apache 2.4.50 | https://github.com/Balgogan/CVE-2021-41773 | | 
 | 20211112T11:41:35Z | 未知编号 | redoing cve_2020 repository | https://github.com/sinjeanmin/cvedetails_2020_final | | 
 | 20211112T08:27:41Z | CVE-2021-30657 | A sample POC for CVE-2021-30657 affecting MacOS | https://github.com/shubham0d/CVE-2021-30657 | | 
 | 20211112T08:15:50Z | CVE-2021-38666 | Null | https://github.com/DarkSprings/CVE-2021-38666-poc | | 
-| 20211112T07:40:11Z | CVE-2021-22205 | Null | https://github.com/faisalfs10x/GitLab-CVE-2021-22205-scanner | | 
 
 
 # klee on Github 推荐
@@ -59,7 +59,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20211112T23:58:19Z | Random Exploits | https://github.com/w4fz5uck5/3XPL01t5 | 21 | 14| 
-| 20211112T23:46:16Z | Random lua things for roblox exploiting lolye | https://github.com/DontAltF4/RandomProjects | 0 | 0| 
 | 20211112T23:42:34Z | Testing game exploits! | https://github.com/N5l/Lunar-X | 0 | 0| 
 | 20211112T23:07:16Z | Null | https://github.com/darbysauter/ip5c_kern_exploit | 0 | 0| 
 | 20211112T23:00:29Z | Domain Engineer or Domaineer is Semi-Auto Bot to gaining data from domains | https://github.com/c0del1ar/Domaineer | 5 | 4| 
@@ -68,6 +67,7 @@
 | 20211112T21:50:22Z | Null | https://github.com/f0ns1/-Exploiting-BufferOverflow | 0 | 0| 
 | 20211112T21:48:54Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | 0 | 0| 
 | 20211112T21:47:25Z | - Game for Game Off Jam 2021 | https://github.com/Samferos/Exploit | 0 | 0| 
+| 20211112T21:41:15Z | The Next-Gen Roblox Exploit Hub | https://github.com/HonestlyDex/DexHub | 1 | 0| 
 
 
 # backdoor on Github 推荐

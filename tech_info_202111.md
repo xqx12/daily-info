@@ -51,11 +51,11 @@
 | 20211112T16:00:51Z | CVE-2021-22205 | GitLab CE/EE Preauth RCE using ExifTool | https://github.com/inspiringz/CVE-2021-22205 | | 
 | 20211112T14:06:00Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | | 
 | 20211112T13:28:36Z | cve-2021-40449 | Null | https://github.com/CppXL/cve-2021-40449-poc | | 
+| 20211112T13:01:51Z | CVE-2021-42327 |  kernel exploit for minor bug i found in amd gpu driver | https://github.com/docfate111/CVE-2021-42327 | | 
 | 20211112T12:22:09Z | CVE-2021-41773 | Ce programme permet de détecter une faille RCE sur les serveurs Apache 2.4.49 et Apache 2.4.50 | https://github.com/Balgogan/CVE-2021-41773 | | 
 | 20211112T11:41:35Z | 未知编号 | redoing cve_2020 repository | https://github.com/sinjeanmin/cvedetails_2020_final | | 
 | 20211112T08:27:41Z | CVE-2021-30657 | A sample POC for CVE-2021-30657 affecting MacOS | https://github.com/shubham0d/CVE-2021-30657 | | 
 | 20211112T08:15:50Z | CVE-2021-38666 | Null | https://github.com/DarkSprings/CVE-2021-38666-poc | | 
-| 20211112T07:40:11Z | CVE-2021-22205 | Null | https://github.com/faisalfs10x/GitLab-CVE-2021-22205-scanner | | 
 
 
 # klee on Github 推荐
@@ -87,16 +87,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211113T02:06:24Z | Vulnerability Exploitation Code Collection Repository | https://github.com/0x0021h/expbox | 0 | 0| 
+| 20211113T02:03:31Z | Random lua things for roblox exploiting lolye | https://github.com/DontAltF4/RandomProjects | 0 | 0| 
+| 20211113T02:03:13Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211113T01:48:49Z | The best exploitation tool for SSL VPN 0day vulnerabilities. | https://github.com/shelld3v/PwnVPN | 64 | 17| 
-| 20211113T01:03:17Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211113T00:57:04Z | Exploit | https://github.com/zehadkhan/Seeker_Ngrok | 0 | 0| 
 | 20211113T00:45:28Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 14| 
 | 20211113T00:39:00Z | A peer 2 peer approach to increase price stability and to reduce price manipulation by exploiting non-fundamentals-based volatility | https://github.com/distributed-ledger-technology/vofarm-centralized-variant-as-template | 0 | 0| 
 | 20211112T23:58:19Z | Random Exploits | https://github.com/w4fz5uck5/3XPL01t5 | 21 | 14| 
-| 20211112T23:46:16Z | Random lua things for roblox exploiting lolye | https://github.com/DontAltF4/RandomProjects | 0 | 0| 
 | 20211112T23:42:34Z | Testing game exploits! | https://github.com/N5l/Lunar-X | 0 | 0| 
 | 20211112T23:07:16Z | Null | https://github.com/darbysauter/ip5c_kern_exploit | 0 | 0| 
-| 20211112T23:00:29Z | Domain Engineer or Domaineer is Semi-Auto Bot to gaining data from domains | https://github.com/c0del1ar/Domaineer | 5 | 4| 
 
 
 # backdoor on Github 推荐
@@ -139,6 +139,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211113T01:53:40Z | Epub source for the Standard Ebooks edition of Little Fuzzy, by H. Beam Piper | https://github.com/standardebooks/h-beam-piper_little-fuzzy | 1 | 2| 
 | 20211113T00:01:46Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2436 | 150| 
 | 20211112T23:32:44Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211112T23:17:27Z | Null | https://github.com/Mohamedsoliman828/Gender-Prediction-using-Word-Sound-with-Fuzzy | 0 | 0| 
@@ -148,7 +149,6 @@
 | 20211112T21:24:19Z | Research Advancing Fuzzing | https://github.com/ResearchAdvancingFuzzing/raf | 1 | 1| 
 | 20211112T21:12:57Z | Null | https://github.com/mcansh/fuzzy-journey | 0 | 2| 
 | 20211112T21:02:57Z | Fuzzy based segmentation of remotely sensed images using an Adaptive Neuro Fuzzy Inference System (ANFIS). | https://github.com/andmon97/FuzzyRemoteSensingSegmentation | 9 | 0| 
-| 20211112T20:03:57Z | Comparing tool variability and numerical variability in fMRI analyses results | https://github.com/big-data-lab-team/fuzzy-neurotools | 0 | 1| 
 
 
 
