@@ -139,6 +139,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211113T02:44:02Z | A tool that automatically creates fuzzing harnesses based on a library | https://github.com/parikhakshat/autoharness | 241 | 21| 
 | 20211113T01:53:40Z | Epub source for the Standard Ebooks edition of Little Fuzzy, by H. Beam Piper | https://github.com/standardebooks/h-beam-piper_little-fuzzy | 1 | 2| 
 | 20211113T00:01:46Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2436 | 150| 
 | 20211112T23:32:44Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
@@ -148,7 +149,6 @@
 | 20211112T21:49:11Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2385 | 474| 
 | 20211112T21:24:19Z | Research Advancing Fuzzing | https://github.com/ResearchAdvancingFuzzing/raf | 1 | 1| 
 | 20211112T21:12:57Z | Null | https://github.com/mcansh/fuzzy-journey | 0 | 2| 
-| 20211112T21:02:57Z | Fuzzy based segmentation of remotely sensed images using an Adaptive Neuro Fuzzy Inference System (ANFIS). | https://github.com/andmon97/FuzzyRemoteSensingSegmentation | 9 | 0| 
 
 
 
