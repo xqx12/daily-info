@@ -6,6 +6,7 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20211113 | BPF 性能工具推荐书籍。 | https://www.brendangregg.com/bpf-performance-tools-book.html| 
 | 20211112 | All about bug bounty | https://github.com/daffainfo/AllAboutBugBounty| 
 | 20211112 | Lost in the Loader - 不同环境 Windows Loader 处理 PE 文件格式的差异分析 | https://i.blackhat.com/EU-21/Wednesday/EU-21-Nisi-Lost-In-The-Loader.pdf| 
 | 20211112 | Lazarus RAT 远控工具 - FALLCHILL 的分析报告 | https://lifars.com/wp-content/uploads/2021/09/Lazarus.pdf| 
@@ -25,7 +26,6 @@
 | 20211110 | 嵌入式 Linux 的瑞士军刀 BusyBox 被发现 14 个漏洞 | https://jfrog.com/blog/unboxing-busybox-14-new-vulnerabilities-uncovered-by-claroty-and-jfrog/| 
 | 20211110 | 软件供应链来源攻击分析报告 | https://mp.weixin.qq.com/s/aEU2E3Xt0-9tJ4TPpjAGkQ| 
 | 20211110 | 用 JavaScript 写一个不容易被发现的后门 | http://certitude.consulting/blog/en/invisible-backdoor/| 
-| 20211110 | All your tracing are belong to BPF | http://blog.trailofbits.com/2021/11/09/all-your-tracing-are-belong-to-bpf/| 
 
 
 # 安全维基 推荐
@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211113T13:27:19Z | Just repository for my exploit | https://github.com/Zears14/SV-Rework-Exploit | 1 | 0| 
 | 20211113T13:03:01Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211113T13:02:42Z | Hacking windows 7 using kali linux via freefloat ftp server | https://github.com/zac4sick/WIndows-7-Exploitation | 0 | 0| 
 | 20211113T12:48:58Z | My collection of BOF exploit scripts for learning binaries | https://github.com/nop-tech/Buffer-Overflows | 0 | 0| 
@@ -96,7 +97,6 @@
 | 20211113T12:36:27Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4089 | 590| 
 | 20211113T11:35:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10315 | 1773| 
 | 20211113T11:11:20Z | Webkit Exploit for ps4 9.00 by Sleirsgoevy  | https://github.com/PeterMxx/Ps4-9.00-Webkit-Exploit- | 0 | 0| 
-| 20211113T10:55:03Z | Pwny is an advanced payload for iPhoneOS designed for portability, embeddability, and low resource utilization. | https://github.com/EntySec/Pwny | 2 | 0| 
 
 
 # backdoor on Github 推荐
