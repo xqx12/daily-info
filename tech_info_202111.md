@@ -46,10 +46,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211113T03:55:41Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | | 
 | 20211112T19:14:59Z | CVE-2021-40539 | Exploitation code for CVE-2021-40539 | https://github.com/synacktiv/CVE-2021-40539 | | 
 | 20211112T17:16:07Z | CVE-2021-20837 | XMLRPC  - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | | 
 | 20211112T16:00:51Z | CVE-2021-22205 | GitLab CE/EE Preauth RCE using ExifTool | https://github.com/inspiringz/CVE-2021-22205 | | 
-| 20211112T14:06:00Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | | 
 | 20211112T13:28:36Z | cve-2021-40449 | Null | https://github.com/CppXL/cve-2021-40449-poc | | 
 | 20211112T13:01:51Z | CVE-2021-42327 |  kernel exploit for minor bug i found in amd gpu driver | https://github.com/docfate111/CVE-2021-42327 | | 
 | 20211112T12:22:09Z | CVE-2021-41773 | Ce programme permet de détecter une faille RCE sur les serveurs Apache 2.4.49 et Apache 2.4.50 | https://github.com/Balgogan/CVE-2021-41773 | | 
@@ -61,7 +61,8 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211113T00:44:24Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2940 | 83| 
+| 20211113T09:23:12Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2942 | 84| 
+| 20211113T06:43:19Z | for atcoder | https://github.com/kashee337/klee_atcoder | 0 | 0| 
 | 20211112T20:47:24Z | Research paper On The Termination of Borrow Checking for Rust and a web application, CLI application and VSCode extension for running static analysis of rust-based smart contracts with a ready-to-be-verified project example. | https://github.com/LedgerProject/safepkt | 0 | 1| 
 | 20211112T19:46:03Z | CLI and HTTP application for running static analysis of rust-based smart contracts | https://github.com/LedgerProject/safepkt_backend | 0 | 1| 
 | 20211112T13:37:34Z | Null | https://github.com/timoodada/klee | 0 | 0| 
@@ -70,7 +71,6 @@
 | 20211111T17:58:49Z | Spring 2021 Geography 817 work folder  | https://github.com/klee12/klee12.github.io | 0 | 0| 
 | 20211111T16:55:39Z | Scala library for generating and manipulation of images treated as a point => color function. | https://github.com/skac112/klee | 0 | 0| 
 | 20211111T11:37:35Z | Symbolic Liveness Analysis of real-world software building upon KLEE to detect liveness violations (e.g. infinite loop bugs) | https://github.com/COMSYS/SymbolicLivenessAnalysis | 11 | 0| 
-| 20211110T17:38:54Z | Null | https://github.com/ayazip/witch-klee | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -87,31 +87,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211113T02:22:36Z | Vulnerability Exploitation Code Collection Repository | https://github.com/0x0021h/expbox | 0 | 0| 
-| 20211113T02:03:31Z | Random lua things for roblox exploiting lolye | https://github.com/DontAltF4/RandomProjects | 0 | 0| 
-| 20211113T02:03:13Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
-| 20211113T01:48:49Z | The best exploitation tool for SSL VPN 0day vulnerabilities. | https://github.com/shelld3v/PwnVPN | 64 | 17| 
-| 20211113T00:57:04Z | Exploit | https://github.com/zehadkhan/Seeker_Ngrok | 0 | 0| 
-| 20211113T00:45:28Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 14| 
-| 20211113T00:39:00Z | A peer 2 peer approach to increase price stability and to reduce price manipulation by exploiting non-fundamentals-based volatility | https://github.com/distributed-ledger-technology/vofarm-centralized-variant-as-template | 0 | 0| 
-| 20211112T23:58:19Z | Random Exploits | https://github.com/w4fz5uck5/3XPL01t5 | 21 | 14| 
-| 20211112T23:42:34Z | Testing game exploits! | https://github.com/N5l/Lunar-X | 0 | 0| 
-| 20211112T23:07:16Z | Null | https://github.com/darbysauter/ip5c_kern_exploit | 0 | 0| 
+| 20211113T12:56:57Z | Hacking windows 7 using kali linux via freefloat ftp server | https://github.com/zac4sick/WIndows-7-Exploitation | 0 | 0| 
+| 20211113T12:48:58Z | My collection of BOF exploit scripts for learning binaries | https://github.com/nop-tech/Buffer-Overflows | 0 | 0| 
+| 20211113T12:48:21Z | Zerologon Exploiter I used on Cobalt Strike | https://github.com/CPO-EH/SharpZeroLogon | 2 | 3| 
+| 20211113T12:45:28Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 14| 
+| 20211113T12:40:10Z | A plugin to fix exploits and remove illegal items for anarchy servers | https://github.com/Winds-Studio/Surf | 0 | 0| 
+| 20211113T12:36:27Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4089 | 590| 
+| 20211113T12:03:24Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
+| 20211113T11:35:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10315 | 1773| 
+| 20211113T11:11:20Z | Webkit Exploit for ps4 9.00 by Sleirsgoevy  | https://github.com/PeterMxx/Ps4-9.00-Webkit-Exploit- | 0 | 0| 
+| 20211113T10:55:03Z | Pwny is an advanced payload for iPhoneOS designed for portability, embeddability, and low resource utilization. | https://github.com/EntySec/Pwny | 2 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211113T10:55:03Z | Pwny is an advanced payload for iPhoneOS designed for portability, embeddability, and low resource utilization. | https://github.com/EntySec/Pwny | 2 | 0| 
+| 20211113T10:31:36Z | Null | https://github.com/alok2520/Coding_Backdoor | 0 | 0| 
+| 20211113T07:09:01Z | Null | https://github.com/Fartlicker777/Backdoor-Hacking | 0 | 0| 
+| 20211113T04:39:04Z | Coswasm Escrow Backdoor | https://github.com/xtbl/cw-escrow-backdoor | 0 | 0| 
+| 20211113T04:32:36Z | A script that can backdoor any server using TShock server! | https://github.com/COMDARR/EasyBackdoor | 1 | 0| 
 | 20211113T01:16:06Z | Website Shell BackDoors | https://github.com/7r0j4ncodeing/Web-Shells | 23 | 6| 
 | 20211113T00:57:55Z | The Code of Treasures takes place during the 15th century in three different regions which is El Minya, Erbil, Kermanshah. The player will go through a journey to discover more about corruption and backdoor deals between government and thugs during the Feudalism era. The player will have the opportunity to discover more about the silk road and the highwaymen who threaten the convoys on the road. The player will have the opportunity to wear the commoner shoes and feel their pains and listen to their hopes and dreams. The player will go through a journey to discover that nothing different between being evil and being good but the choices we take in our paths. | https://github.com/HussainGhonem/TheCodeofTreasures | 1 | 0| 
-| 20211112T23:14:19Z | Pwny is an advanced payload for iPhoneOS designed for portability, embeddability, and low resource utilization. | https://github.com/EntySec/Pwny | 2 | 0| 
-| 20211112T21:33:16Z | A script that can backdoor any server using TShock server! | https://github.com/COMDARR/EasyBackdoor | 0 | 0| 
 | 20211112T16:11:48Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 36 | 28| 
 | 20211112T15:36:18Z | python3 backdoor  | https://github.com/trevalkov/backdoor | 0 | 0| 
 | 20211112T13:57:52Z | Remote control software, supported Windows/Unix/MacOS/Linux(x86/x64/mips/arm) | https://github.com/h1zzz/purewater | 5 | 0| 
-| 20211112T12:03:06Z | Create a fully undetectable backdoor with simple steps. | https://github.com/3ct0s/fud-backdoor | 4 | 1| 
-| 20211112T12:01:07Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 109 | 25| 
-| 20211112T11:54:34Z | Null | https://github.com/forceki/ssh-backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -139,16 +139,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211113T02:44:02Z | A tool that automatically creates fuzzing harnesses based on a library | https://github.com/parikhakshat/autoharness | 241 | 21| 
-| 20211113T01:53:40Z | Epub source for the Standard Ebooks edition of Little Fuzzy, by H. Beam Piper | https://github.com/standardebooks/h-beam-piper_little-fuzzy | 1 | 2| 
-| 20211113T00:01:46Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2436 | 150| 
-| 20211112T23:32:44Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20211112T23:17:27Z | Null | https://github.com/Mohamedsoliman828/Gender-Prediction-using-Word-Sound-with-Fuzzy | 0 | 0| 
-| 20211112T22:10:59Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6807 | 1420| 
-| 20211112T22:01:33Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3774 | 889| 
-| 20211112T21:49:11Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2385 | 474| 
-| 20211112T21:24:19Z | Research Advancing Fuzzing | https://github.com/ResearchAdvancingFuzzing/raf | 1 | 1| 
-| 20211112T21:12:57Z | Null | https://github.com/mcansh/fuzzy-journey | 0 | 2| 
+| 20211113T12:41:41Z | jnp1-2021 fuzzy projekt 3 | https://github.com/eerio/fuzzy | 0 | 0| 
+| 20211113T12:23:34Z | Null | https://github.com/gungnir479/fuzzJIT | 0 | 0| 
+| 20211113T12:01:56Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 36 | 12| 
+| 20211113T11:56:01Z | Simple fuzzy logic library implemented in Rust language. | https://github.com/SeriousRedCat/fuzzy-rust | 0 | 0| 
+| 20211113T11:51:45Z | DOM fuzzer | https://github.com/mevid93/domzzer | 0 | 0| 
+| 20211113T11:47:41Z | Fuzz language model that used chatbot | https://github.com/ksjr7-crongcrong/chatbot_fuzzer | 0 | 1| 
+| 20211113T11:30:57Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20211113T10:37:38Z | Wordlists for fuzzing | https://github.com/secoats/cereal_fuzzlists | 0 | 0| 
+| 20211113T09:57:45Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1103 | 48| 
+| 20211113T09:35:08Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6808 | 1420| 
 
 
 
