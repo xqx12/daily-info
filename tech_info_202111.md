@@ -46,31 +46,31 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211112T19:14:59Z | CVE-2021-40539 | Exploitation code for CVE-2021-40539 | https://github.com/synacktiv/CVE-2021-40539 | | 
+| 20211112T17:16:07Z | CVE-2021-20837 | XMLRPC  - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | | 
+| 20211112T16:00:51Z | CVE-2021-22205 | GitLab CE/EE Preauth RCE using ExifTool | https://github.com/inspiringz/CVE-2021-22205 | | 
+| 20211112T14:06:00Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | | 
 | 20211112T13:28:36Z | cve-2021-40449 | Null | https://github.com/CppXL/cve-2021-40449-poc | | 
 | 20211112T12:22:09Z | CVE-2021-41773 | Ce programme permet de détecter une faille RCE sur les serveurs Apache 2.4.49 et Apache 2.4.50 | https://github.com/Balgogan/CVE-2021-41773 | | 
-| 20211112T11:51:38Z | CVE-2021-22205 | GitLab CE/EE Preauth RCE using ExifTool | https://github.com/inspiringz/CVE-2021-22205 | | 
 | 20211112T11:41:35Z | 未知编号 | redoing cve_2020 repository | https://github.com/sinjeanmin/cvedetails_2020_final | | 
-| 20211112T10:08:15Z | CVE-2021-40539 | Exploitation code for CVE-2021-40539 | https://github.com/synacktiv/CVE-2021-40539 | | 
 | 20211112T08:27:41Z | CVE-2021-30657 | A sample POC for CVE-2021-30657 affecting MacOS | https://github.com/shubham0d/CVE-2021-30657 | | 
 | 20211112T08:15:50Z | CVE-2021-38666 | Null | https://github.com/DarkSprings/CVE-2021-38666-poc | | 
 | 20211112T07:40:11Z | CVE-2021-22205 | Null | https://github.com/faisalfs10x/GitLab-CVE-2021-22205-scanner | | 
-| 20211112T05:47:46Z | CVE-2021-42292 | A Zeek package to detect CVE-2021-42292, a Microsoft Excel local privilege escalation exploit. | https://github.com/corelight/CVE-2021-42292 | | 
-| 20211112T01:01:48Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211113T00:44:24Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2940 | 83| 
+| 20211112T20:47:24Z | Research paper On The Termination of Borrow Checking for Rust and a web application, CLI application and VSCode extension for running static analysis of rust-based smart contracts with a ready-to-be-verified project example. | https://github.com/LedgerProject/safepkt | 0 | 1| 
+| 20211112T19:46:03Z | CLI and HTTP application for running static analysis of rust-based smart contracts | https://github.com/LedgerProject/safepkt_backend | 0 | 1| 
 | 20211112T13:37:34Z | Null | https://github.com/timoodada/klee | 0 | 0| 
-| 20211112T10:43:15Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2937 | 83| 
 | 20211112T03:12:22Z | :musical_note: Kleene up your music library | https://github.com/KleeneApp/Kleene-iOS | 7 | 0| 
-| 20211112T00:47:10Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1816 | 518| 
+| 20211112T00:47:10Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1816 | 517| 
 | 20211111T17:58:49Z | Spring 2021 Geography 817 work folder  | https://github.com/klee12/klee12.github.io | 0 | 0| 
 | 20211111T16:55:39Z | Scala library for generating and manipulation of images treated as a point => color function. | https://github.com/skac112/klee | 0 | 0| 
 | 20211111T11:37:35Z | Symbolic Liveness Analysis of real-world software building upon KLEE to detect liveness violations (e.g. infinite loop bugs) | https://github.com/COMSYS/SymbolicLivenessAnalysis | 11 | 0| 
 | 20211110T17:38:54Z | Null | https://github.com/ayazip/witch-klee | 0 | 0| 
-| 20211110T14:55:18Z | TracerX Symbolic Virtual Machine | https://github.com/tracer-x/TracerX | 15 | 9| 
-| 20211110T14:31:24Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 14 | 44| 
 
 
 # s2e on Github 推荐
@@ -87,31 +87,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211112T13:45:32Z | Daily scraper (and mebbe more in the future) for CISA%s Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | 2 | 0| 
-| 20211112T13:10:21Z | Official repository for ChairWare, a powerful script/exploit hub for Roblox! | https://github.com/MiloHaxx/ChairWare | 0 | 0| 
-| 20211112T13:03:01Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
-| 20211112T13:02:44Z | InfluxDB CVE-2019-20933 vulnerability exploit | https://github.com/LorenzoTullini/InfluxDB-Exploit-CVE-2019-20933 | 12 | 7| 
-| 20211112T12:45:27Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 14| 
-| 20211112T12:34:24Z | Yuri-Exploiter is an open source Game Exploiter and other cool stuff like dll-injector, script-hub, roblox-exploiter and more stuff in the next update | https://github.com/Rask-yo/Yuri-Exploiter | 0 | 0| 
-| 20211112T12:16:26Z | Null | https://github.com/Athis-Offsec/Exploits-I-Developed | 0 | 0| 
-| 20211112T12:07:52Z | This Buffer Overflow Toolkit works through FTP, SMTP, POP, HTTP protocols as well file outputs for playlists exploiting customized variables/commands. Payloads can be generated through MSFVENOM or you can use your own ASM files. | https://github.com/danieljs777/fastoverflowtk | 13 | 5| 
-| 20211112T11:54:13Z | A helpful Java Deserialization exploit framework based on ysoserial | https://github.com/wh1t3p1g/ysomap | 497 | 48| 
-| 20211112T11:53:32Z | CVenom is a C++ Library For Malware Development And Exploit Development, Network Attacks And raw Packet Builder For Penetration Testing | https://github.com/Mahmoud7Osman/CVenom | 0 | 0| 
+| 20211113T00:57:04Z | Exploit | https://github.com/zehadkhan/Seeker_Ngrok | 0 | 0| 
+| 20211113T00:45:28Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 14| 
+| 20211113T00:39:00Z | A peer 2 peer approach to increase price stability and to reduce price manipulation by exploiting non-fundamentals-based volatility | https://github.com/distributed-ledger-technology/vofarm-centralized-variant-as-template | 0 | 0| 
+| 20211113T00:03:35Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
+| 20211112T23:58:19Z | Random Exploits | https://github.com/w4fz5uck5/3XPL01t5 | 21 | 14| 
+| 20211112T23:46:16Z | Random lua things for roblox exploiting lolye | https://github.com/DontAltF4/RandomProjects | 0 | 0| 
+| 20211112T23:42:34Z | Testing game exploits! | https://github.com/N5l/Lunar-X | 0 | 0| 
+| 20211112T23:07:16Z | Null | https://github.com/darbysauter/ip5c_kern_exploit | 0 | 0| 
+| 20211112T23:00:29Z | Domain Engineer or Domaineer is Semi-Auto Bot to gaining data from domains | https://github.com/c0del1ar/Domaineer | 5 | 4| 
+| 20211112T22:16:51Z | LFITester is a Python3 program that automates the detection and exploitation of Local File Inclusion (LFI) attacks on a server. | https://github.com/kostas-pa/LFITester | 21 | 4| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211113T00:57:55Z | The Code of Treasures takes place during the 15th century in three different regions which is El Minya, Erbil, Kermanshah. The player will go through a journey to discover more about corruption and backdoor deals between government and thugs during the Feudalism era. The player will have the opportunity to discover more about the silk road and the highwaymen who threaten the convoys on the road. The player will have the opportunity to wear the commoner shoes and feel their pains and listen to their hopes and dreams. The player will go through a journey to discover that nothing different between being evil and being good but the choices we take in our paths. | https://github.com/HussainGhonem/TheCodeofTreasures | 1 | 0| 
+| 20211112T23:14:19Z | Pwny is an advanced payload for iPhoneOS designed for portability, embeddability, and low resource utilization. | https://github.com/EntySec/Pwny | 2 | 0| 
+| 20211112T21:33:16Z | A script that can backdoor any server using TShock server! | https://github.com/COMDARR/EasyBackdoor | 0 | 0| 
+| 20211112T16:11:48Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 36 | 28| 
+| 20211112T15:36:18Z | python3 backdoor  | https://github.com/trevalkov/backdoor | 0 | 0| 
 | 20211112T13:57:52Z | Remote control software, supported Windows/Unix/MacOS/Linux(x86/x64/mips/arm) | https://github.com/h1zzz/purewater | 5 | 0| 
 | 20211112T12:03:06Z | Create a fully undetectable backdoor with simple steps. | https://github.com/3ct0s/fud-backdoor | 4 | 1| 
 | 20211112T12:01:07Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 109 | 25| 
 | 20211112T11:54:34Z | Null | https://github.com/forceki/ssh-backdoor | 0 | 0| 
 | 20211112T11:47:46Z | The insane hackerman backdoor. | https://github.com/Bakdooro/Bakdooro | 10 | 2| 
-| 20211112T10:15:06Z | Create Your Invisible BackDoor On The Victim%s WordPress Installation | https://github.com/FreeLesio/WordPress-Silent-Backdoor | 1 | 1| 
-| 20211112T08:37:04Z | phpstudy后门多线程批量检测脚本 | https://github.com/einzbernnn/PhpstudyBackdoor | 2 | 0| 
-| 20211112T07:01:59Z | Antivirus evasion project  | https://github.com/Ch0pin/AVIator | 610 | 173| 
-| 20211112T06:06:36Z | Null | https://github.com/henil0604/backdoor-boiler | 0 | 0| 
-| 20211112T05:22:28Z | Allowing server admins to backdoor their own server! | https://github.com/awesomemoder316/DiscordBackdoorBot | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -139,16 +139,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211112T13:58:10Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6807 | 1419| 
-| 20211112T13:57:15Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 592 | 62| 
-| 20211112T13:57:10Z | Fuzzing for Crystal programming language | https://github.com/oprypin/crystal-fuzzing | 4 | 0| 
-| 20211112T13:56:44Z | Null | https://github.com/schemathesis/web-api-fuzzing-project | 5 | 0| 
-| 20211112T13:55:50Z | Fuzzy finder tool and library | https://github.com/bottlerocketlabs/fuzzy | 0 | 0| 
-| 20211112T13:52:05Z | KVM virtualization based fuzzing | https://github.com/MattGorko/Tartiflette | 36 | 2| 
-| 20211112T13:40:31Z | VSCode Extension , My personal utilities which includes useful functions like the Simple Fuzzy Search for text line, or more. | https://github.com/wizenith/BillsFuzzySearch | 0 | 0| 
-| 20211112T13:25:46Z | Null | https://github.com/lomninera/fuzzy-memory | 0 | 0| 
-| 20211112T13:22:39Z | Fuzzy matcher, sorter, and conveter for ddc.vim | https://github.com/tani/ddc-fuzzy | 21 | 1| 
-| 20211112T12:52:40Z | Software used at work %Use of search techniques to define efficient inference models for classification problems with a high number of fuzzy rules% | https://github.com/Raul-PerezR/Inference-Recursive-Classification-FuzzyRules | 0 | 0| 
+| 20211113T00:01:46Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2436 | 150| 
+| 20211112T23:32:44Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20211112T23:17:27Z | Null | https://github.com/Mohamedsoliman828/Gender-Prediction-using-Word-Sound-with-Fuzzy | 0 | 0| 
+| 20211112T22:10:59Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6807 | 1420| 
+| 20211112T22:01:33Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3774 | 889| 
+| 20211112T21:49:11Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2385 | 474| 
+| 20211112T21:24:19Z | Research Advancing Fuzzing | https://github.com/ResearchAdvancingFuzzing/raf | 1 | 1| 
+| 20211112T21:12:57Z | Null | https://github.com/mcansh/fuzzy-journey | 0 | 2| 
+| 20211112T21:02:57Z | Fuzzy based segmentation of remotely sensed images using an Adaptive Neuro Fuzzy Inference System (ANFIS). | https://github.com/andmon97/FuzzyRemoteSensingSegmentation | 9 | 0| 
+| 20211112T20:03:57Z | Comparing tool variability and numerical variability in fMRI analyses results | https://github.com/big-data-lab-team/fuzzy-neurotools | 0 | 1| 
 
 
 
