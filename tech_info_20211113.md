@@ -37,7 +37,7 @@
 | 20211113T13:03:01Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211113T13:02:42Z | Hacking windows 7 using kali linux via freefloat ftp server | https://github.com/zac4sick/WIndows-7-Exploitation | 0 | 0| 
 | 20211113T12:48:58Z | My collection of BOF exploit scripts for learning binaries | https://github.com/nop-tech/Buffer-Overflows | 0 | 0| 
-| 20211113T12:48:21Z | Zerologon Exploiter I used on Cobalt Strike | https://github.com/CPO-EH/SharpZeroLogon | 2 | 3| 
+| 20211113T12:48:21Z | Zerologon Exploiter I used on Cobalt Strike | https://github.com/CPO-EH/SharpZeroLogon | 2 | 4| 
 | 20211113T12:45:28Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 14| 
 | 20211113T12:40:10Z | A plugin to fix exploits and remove illegal items for anarchy servers | https://github.com/Winds-Studio/Surf | 0 | 0| 
 | 20211113T12:36:27Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4089 | 590| 
