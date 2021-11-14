@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211114T02:11:06Z | CVE-2021-41773 | Null | https://github.com/kubota/POC-CVE-2021-41773 | | 
+| 20211114T02:11:42Z | CVE-2021-41773 | Null | https://github.com/kubota/POC-CVE-2021-41773 | | 
 | 20211113T20:43:06Z | CVE-2020-24030 | Null | https://github.com/redteambrasil/CVE-2020-24030 | | 
 | 20211113T20:40:16Z | CVE-2020-24029 | Null | https://github.com/redteambrasil/CVE-2020-24029 | | 
 | 20211113T20:38:34Z | CVE-2020-24028 | Null | https://github.com/redteambrasil/CVE-2020-24028 | | 
