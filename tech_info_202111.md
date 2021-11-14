@@ -87,7 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211114T13:05:42Z | Malicious program or malware is an intentionally written program to indulge in various malicious activities, ranging from user’s information stealing to cyber-espionage. The behavioral dynamism exposed by the malware is dependent on various factors such as, nature of the attack, sophisticated technology and the rapid increase in exploitable vulnerabilities. Malware attacks also increased along with the rapid growth in the use of digital devices and the internet. The exponential increase in the creation of new malware in the last five years, made malware detection as a challenging research issue. Problem Statement Malware is one of the top most obstructions for expansion and growth of digital acceptance among the users. Both enterprises and common users are struggling to get protected from the malware in cyberspace, which emphasizes the importance of developing efficient methods of malware detection. Malware detection is the technique for identifying malware in the end devices or networks. | https://github.com/197R1A0520/malware-detection-project | 0 | 0| 
+| 20211114T13:08:24Z | Malicious program or malware is an intentionally written program to indulge in various malicious activities, ranging from user’s information stealing to cyber-espionage. The behavioral dynamism exposed by the malware is dependent on various factors such as, nature of the attack, sophisticated technology and the rapid increase in exploitable vulnerabilities. Malware attacks also increased along with the rapid growth in the use of digital devices and the internet. The exponential increase in the creation of new malware in the last five years, made malware detection as a challenging research issue. Problem Statement Malware is one of the top most obstructions for expansion and growth of digital acceptance among the users. Both enterprises and common users are struggling to get protected from the malware in cyberspace, which emphasizes the importance of developing efficient methods of malware detection. Malware detection is the technique for identifying malware in the end devices or networks. | https://github.com/197R1A0520/malware-detection-project | 0 | 0| 
 | 20211114T13:02:58Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211114T12:28:33Z | This repository will feature my scripts, research and documentation on Pokémon engines, glitches and exploits. | https://github.com/RETIREglitch/Pokemon-Research | 6 | 3| 
 | 20211114T12:06:32Z | LFITester is a Python3 program that automates the detection and exploitation of Local File Inclusion (LFI) attacks on a server. | https://github.com/kostas-pa/LFITester | 21 | 4| 
@@ -132,9 +132,9 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211114T09:28:31Z | A penetration testing tool for finding file upload bugs (NDSS 2020) | https://github.com/WSP-LAB/FUSE | 200 | 44| 
 | 20211113T05:19:12Z | Artifact for Harpo at NDSS2022 | https://github.com/bitzj2015/Harpo-NDSS22 | 0 | 0| 
 | 20211112T02:44:49Z | NDSでシェーダーのようなものを動かす | https://github.com/NidoKota/NDSShader | 0 | 0| 
-| 20211111T05:53:27Z | A penetration testing tool for finding file upload bugs (NDSS 2020) | https://github.com/WSP-LAB/FUSE | 199 | 44| 
 
 
 # fuzz on Github 推荐
