@@ -87,7 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211114T01:04:43Z | A tool for [(semi-){un-(tethered jailbreak)}] of iOS 10.3.x 32-bit devices with checkm8 BootROM exploit.   | https://github.com/dora2-iOS/p0insettia | 0 | 0| 
+| 20211114T01:10:21Z | A tool for [(semi-){un-(tethered jailbreak)}] of iOS 10.3.x 32-bit devices with checkm8 BootROM exploit.   | https://github.com/dora2-iOS/p0insettia | 0 | 0| 
 | 20211114T01:03:19Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211114T00:39:04Z | Null | https://github.com/dracoanguis/Systeme-Exploitation | 0 | 0| 
 | 20211114T00:20:48Z | Random lua things for roblox exploiting lolye | https://github.com/DontAltF4/RandomProjects | 0 | 0| 
@@ -140,8 +140,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211114T01:10:59Z | Null | https://github.com/rahmatdarmawan4/FuzzyLogic | 0 | 0| 
 | 20211114T01:06:49Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 718 | 143| 
-| 20211114T01:04:33Z | Null | https://github.com/rahmatdarmawan4/FuzzyLogic | 0 | 0| 
 | 20211114T00:21:23Z | Null | https://github.com/FuzzyCatDogShreyas/FuzzyCatDogShreyas.github.io | 0 | 0| 
 | 20211114T00:10:37Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 36 | 12| 
 | 20211113T23:06:44Z | https://github.com/wcventure/FuzzingPaper | https://github.com/mishmashclone/wcventure-FuzzingPaper | 6 | 1| 
