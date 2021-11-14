@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211114T02:03:47Z | CVE-2021-41773 | Null | https://github.com/kubota/POC-CVE-2021-41773 | | 
+| 20211114T02:06:35Z | CVE-2021-41773 | Null | https://github.com/kubota/POC-CVE-2021-41773 | | 
 | 20211113T20:43:06Z | CVE-2020-24030 | Null | https://github.com/redteambrasil/CVE-2020-24030 | | 
 | 20211113T20:40:16Z | CVE-2020-24029 | Null | https://github.com/redteambrasil/CVE-2020-24029 | | 
 | 20211113T20:38:34Z | CVE-2020-24028 | Null | https://github.com/redteambrasil/CVE-2020-24028 | | 
@@ -140,7 +140,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211114T02:00:43Z | Null | https://github.com/hashirkk07/fuzzRepo0 | 0 | 0| 
+| 20211114T02:05:02Z | Null | https://github.com/hashirkk07/fuzzRepo0 | 0 | 0| 
 | 20211114T01:23:00Z | Null | https://github.com/rahmatdarmawan4/FuzzyLogic | 0 | 0| 
 | 20211114T01:06:49Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 718 | 143| 
 | 20211114T00:21:23Z | Null | https://github.com/FuzzyCatDogShreyas/FuzzyCatDogShreyas.github.io | 0 | 0| 
