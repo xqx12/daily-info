@@ -45,7 +45,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211114T13:52:28Z | Trustzone Exploit that allows running code in secure mode on Surface RT (Tegra 3) with the help of Yahallo (by imbushuo) | https://github.com/Open-Surface-RT/UEFIPrivilegeEscalationPkg | 1 | 0| 
+| 20211114T13:58:39Z | Null | https://github.com/Youheng-Lue/art-exploit | 0 | 0| 
+| 20211114T13:52:28Z | Trustzone Exploit that allows running code in secure mode on Surface RT (Tegra 3) with the help of Yahallo (by imbushuo) | https://github.com/Open-Surface-RT/UEFIPrivilegeEscalationPkg | 1 | 1| 
 | 20211114T13:47:07Z | Malicious program or malware is an intentionally written program to indulge in various malicious activities, ranging from user’s information stealing to cyber-espionage. The behavioral dynamism exposed by the malware is dependent on various factors such as, nature of the attack, sophisticated technology and the rapid increase in exploitable vulnerabilities. Malware attacks also increased along with the rapid growth in the use of digital devices and the internet. The exponential increase in the creation of new malware in the last five years, made malware detection as a challenging research issue. Problem Statement Malware is one of the top most obstructions for expansion and growth of digital acceptance among the users. Both enterprises and common users are struggling to get protected from the malware in cyberspace, which emphasizes the importance of developing efficient methods of malware detection. Malware detection is the technique for identifying malware in the end devices or networks. | https://github.com/197R1A0520/malware-detection-project | 0 | 0| 
 | 20211114T13:44:38Z | A peer 2 peer approach to increase price stability and to reduce price manipulation by exploiting non-fundamentals-based volatility | https://github.com/distributed-ledger-technology/vofarm-deno-part | 0 | 0| 
 | 20211114T13:44:33Z | Exploit for each ports | https://github.com/dtix-dev/archlinux-exploits | 0 | 0| 
@@ -54,7 +55,6 @@
 | 20211114T13:28:29Z | CTF writeups and exploits | https://github.com/verso1/writeups | 0 | 0| 
 | 20211114T13:14:57Z | Null | https://github.com/f0ns1/-Exploiting-BufferOverflow | 0 | 0| 
 | 20211114T13:02:58Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
-| 20211114T12:28:33Z | This repository will feature my scripts, research and documentation on Pokémon engines, glitches and exploits. | https://github.com/RETIREglitch/Pokemon-Research | 6 | 3| 
 
 
 # backdoor on Github 推荐
