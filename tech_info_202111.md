@@ -140,6 +140,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211114T01:06:49Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 718 | 143| 
 | 20211114T01:04:33Z | Null | https://github.com/rahmatdarmawan4/FuzzyLogic | 0 | 0| 
 | 20211114T00:21:23Z | Null | https://github.com/FuzzyCatDogShreyas/FuzzyCatDogShreyas.github.io | 0 | 0| 
 | 20211114T00:10:37Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 36 | 12| 
@@ -148,7 +149,6 @@
 | 20211113T22:34:47Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211113T21:31:06Z | Simple fuzzy logic library implemented in Rust language. | https://github.com/SeriousRedCat/fuzzy-rust | 0 | 0| 
 | 20211113T21:11:21Z | Open Source Discord bot | https://github.com/AdventureCo/TypeFuzz | 0 | 0| 
-| 20211113T20:15:51Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 717 | 143| 
 | 20211113T20:09:10Z | Data Science Capstone | https://github.com/CrayolaRainbow/fuzzy-bassoon | 0 | 0| 
 
 

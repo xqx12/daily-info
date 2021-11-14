@@ -93,11 +93,11 @@
 | 20211113T22:34:47Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211113T21:31:06Z | Simple fuzzy logic library implemented in Rust language. | https://github.com/SeriousRedCat/fuzzy-rust | 0 | 0| 
 | 20211113T21:11:21Z | Open Source Discord bot | https://github.com/AdventureCo/TypeFuzz | 0 | 0| 
-| 20211113T20:15:51Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 717 | 143| 
 | 20211113T20:09:10Z | Data Science Capstone | https://github.com/CrayolaRainbow/fuzzy-bassoon | 0 | 0| 
 | 20211113T19:57:56Z | Implementasi logika Fuzzy Sugeno untuk penilaian restoran berdasarkan pelayanan dan makanan | https://github.com/wahyurahmaniar/Fuzzy_Sugeno | 0 | 0| 
 | 20211113T19:38:40Z | Common formulas that you may have learned way back when but forgot. | https://github.com/jaewhicha/fuzzy-formulas | 0 | 0| 
 | 20211113T19:32:19Z | Fastapi POC | https://github.com/aztoatl/fuzzy-computing-machine | 0 | 0| 
+| 20211113T19:20:54Z | DOM fuzzer | https://github.com/mevid93/domzzer | 0 | 0| 
 
 
 
