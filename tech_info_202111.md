@@ -87,13 +87,13 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211114T02:29:35Z | A full fledged exploitation framework written in pure python3. | https://github.com/MrSharkSpamBot/GlidingSword | 8 | 2| 
 | 20211114T02:03:01Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211114T01:35:13Z | Just repository for my exploit | https://github.com/Zears14/SV-Rework-Exploit | 1 | 0| 
 | 20211114T01:32:59Z | A tool for [(semi-){un-(tethered jailbreak)}] of iOS 10.3.x 32-bit devices with checkm8 BootROM exploit.   | https://github.com/dora2-iOS/p0insettia | 0 | 0| 
 | 20211114T01:21:17Z | Random lua things for roblox exploiting lolye | https://github.com/DontAltF4/RandomProjects | 0 | 0| 
 | 20211114T00:39:04Z | Null | https://github.com/dracoanguis/Systeme-Exploitation | 0 | 0| 
 | 20211113T23:49:46Z | A peer 2 peer approach to increase price stability and to reduce price manipulation by exploiting non-fundamentals-based volatility | https://github.com/distributed-ledger-technology/vofarm-deno-part | 0 | 0| 
-| 20211113T23:37:00Z | A full fledged exploitation framework written in pure python3. | https://github.com/MrSharkSpamBot/GlidingSword | 8 | 2| 
 | 20211113T23:33:06Z | Une exploitation de WikiData pour reconstruire les relations entre les établissements de l%ESR. | https://github.com/cpesr/wikidataESR | 2 | 1| 
 | 20211113T23:09:29Z | Null | https://github.com/pwn4all/exploit | 0 | 0| 
 | 20211113T23:02:20Z | stuff | https://github.com/Havenviex/Exploiting-Shitz | 0 | 0| 

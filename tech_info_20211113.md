@@ -45,7 +45,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20211113T23:49:46Z | A peer 2 peer approach to increase price stability and to reduce price manipulation by exploiting non-fundamentals-based volatility | https://github.com/distributed-ledger-technology/vofarm-deno-part | 0 | 0| 
-| 20211113T23:37:00Z | A full fledged exploitation framework written in pure python3. | https://github.com/MrSharkSpamBot/GlidingSword | 8 | 2| 
 | 20211113T23:33:06Z | Une exploitation de WikiData pour reconstruire les relations entre les établissements de l%ESR. | https://github.com/cpesr/wikidataESR | 2 | 1| 
 | 20211113T23:09:29Z | Null | https://github.com/pwn4all/exploit | 0 | 0| 
 | 20211113T23:02:20Z | stuff | https://github.com/Havenviex/Exploiting-Shitz | 0 | 0| 
@@ -54,6 +53,7 @@
 | 20211113T22:49:36Z | Null | https://github.com/EXtremeExploit/EXtremeExploit.github.io | 0 | 0| 
 | 20211113T22:47:05Z | Null | https://github.com/exploitact/exploitnews | 0 | 0| 
 | 20211113T22:40:44Z | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | 118 | 275| 
+| 20211113T22:09:08Z | Find out who pretends to be offline on discord | https://github.com/oSumAtrIX/dinkleberg | 6 | 0| 
 
 
 # backdoor on Github 推荐
