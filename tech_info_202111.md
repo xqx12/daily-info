@@ -31,38 +31,39 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20211114 | 学习和使用知识图谱需要知道的一些事情 | https://zhuanlan.zhihu.com/p/433073550| 
+| 20211114 | CTF OSINT题型解题技巧分享 | https://www.anquanke.com/post/id/258632| 
+| 20211114 | 攻击推理-如何利用威胁情报报告生成可用攻击子图 | http://blog.nsfocus.net/ioc-cti/| 
+| 20211114 | 深入理解Java代码审计 | https://github.com/0e0w/HackJava| 
 | 20211113 | 为什么机器学习解决网络安全问题总是失败：不合理的评估指标 | https://toooold.com/2021/11/13/why_ml_fails_security_evaluation_cn.html| 
 | 20211112 | 浅谈JSP Webshell进阶免杀 | https://tttang.com/archive/1315/| 
 | 20211111 | Android应用攻与防 | https://mp.weixin.qq.com/s/qH6ksA03UcuwQgPHaNuBUg| 
 | 20211111 | 美国DARPA主导的智能化情报分析系列项目概览 | https://mp.weixin.qq.com/s/SERw3ORYBjwxOKcpNZBEGg| 
 | 20211110 | SaTC：一种全新的物联网设备漏洞自动化挖掘方法 | https://mp.weixin.qq.com/s/HAmL9rB8zmEsF-o906gCIg| 
 | 20211110 | 网络安全技术人员如何避开内卷 | https://mp.weixin.qq.com/s/cXV1-YSqngXp332qopEZSw| 
-| 20211110 | 有限样本下的暗网指纹识别 | https://mp.weixin.qq.com/s/OqfJA0d0JGRCjsnX2400Kw| 
-| 20211109 | 个保法生效后，各大平台“个人信息副本”的申请获取实践 | https://mp.weixin.qq.com/s/fsSHkumgON9DZe1awFTQ0g| 
-| 20211109 | 软件供应链来源攻击分析报告 | https://mp.weixin.qq.com/s/aEU2E3Xt0-9tJ4TPpjAGkQ| 
-| 20211108 | SecWiki周刊（第401期) | https://www.sec-wiki.com/weekly/401| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211114T09:14:59Z | CVE-2021-41351 | CVE-2021-41351-poc | https://github.com/JaneMandy/CVE-2021-41351-POC | | 
+| 20211114T08:44:18Z | CVE-2021-42013 | Null | https://github.com/simon242/CVE-2021-42013 | | 
+| 20211114T07:57:11Z | CVE-2021-40539 | Exploitation code for CVE-2021-40539 | https://github.com/synacktiv/CVE-2021-40539 | | 
 | 20211114T03:04:26Z | CVE-2021-41773 | Null | https://github.com/kubota/POC-CVE-2021-41773 | | 
 | 20211113T20:43:06Z | CVE-2020-24030 | Null | https://github.com/redteambrasil/CVE-2020-24030 | | 
 | 20211113T20:40:16Z | CVE-2020-24029 | Null | https://github.com/redteambrasil/CVE-2020-24029 | | 
 | 20211113T20:38:34Z | CVE-2020-24028 | Null | https://github.com/redteambrasil/CVE-2020-24028 | | 
 | 20211113T19:02:48Z | CVE-2021-20837 | XMLRPC  - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | | 
 | 20211113T16:26:07Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | | 
-| 20211112T19:14:59Z | CVE-2021-40539 | Exploitation code for CVE-2021-40539 | https://github.com/synacktiv/CVE-2021-40539 | | 
 | 20211112T16:00:51Z | CVE-2021-22205 | GitLab CE/EE Preauth RCE using ExifTool | https://github.com/inspiringz/CVE-2021-22205 | | 
-| 20211112T13:28:36Z | cve-2021-40449 | Null | https://github.com/CppXL/cve-2021-40449-poc | | 
-| 20211112T13:01:51Z | CVE-2021-42327 |  kernel exploit for minor bug i found in amd gpu driver | https://github.com/docfate111/CVE-2021-42327 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211114T12:59:18Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
+| 20211114T04:44:33Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2943 | 84| 
 | 20211114T00:55:18Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1818 | 517| 
-| 20211113T20:04:56Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2942 | 84| 
 | 20211113T19:16:42Z | Spring 2021 Geography 817 work folder  | https://github.com/klee12/klee12.github.io | 0 | 0| 
 | 20211113T18:55:33Z | Personal Blog | https://github.com/klee1611/klee1611.github.io | 1 | 1| 
 | 20211113T06:43:19Z | for atcoder | https://github.com/kashee337/klee_atcoder | 0 | 0| 
@@ -70,38 +71,40 @@
 | 20211112T19:46:03Z | CLI and HTTP application for running static analysis of rust-based smart contracts | https://github.com/LedgerProject/safepkt_backend | 0 | 1| 
 | 20211112T13:37:34Z | Null | https://github.com/timoodada/klee | 0 | 0| 
 | 20211112T03:12:22Z | :musical_note: Kleene up your music library | https://github.com/KleeneApp/Kleene-iOS | 7 | 0| 
-| 20211111T16:55:39Z | Scala library for generating and manipulation of images treated as a point => color function. | https://github.com/skac112/klee | 0 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211114T06:07:19Z | 🎻 Requiem: Modular exploit generation using symbolic execution | https://github.com/aesophor/requiem | 15 | 3| 
+| 20211114T04:51:28Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 182 | 39| 
 | 20211112T08:17:38Z | this branch is a solution to dma emulator | https://github.com/IoTS-P/s2e | 0 | 0| 
 | 20211112T05:18:21Z | Null | https://github.com/marcelocodigos/S2Encontro-Presencial-2 | 0 | 0| 
 | 20211110T12:34:04Z | Null | https://github.com/yuvalkirstain/s2e-coref | 20 | 7| 
-| 20211109T07:11:02Z | 🎻 Requiem: Modular exploit generation using symbolic execution | https://github.com/aesophor/requiem | 15 | 3| 
-| 20211108T08:20:22Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 181 | 39| 
 | 20211106T22:25:31Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 76 | 31| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211114T03:03:19Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
-| 20211114T02:43:48Z | A full fledged exploitation framework written in pure python3. | https://github.com/MrSharkSpamBot/GlidingSword | 8 | 2| 
-| 20211114T02:34:45Z | Open-Sourced exploit for Apocalypse Rising 2 | https://github.com/DominusTrax/DualpointDetached | 0 | 0| 
-| 20211114T01:35:13Z | Just repository for my exploit | https://github.com/Zears14/SV-Rework-Exploit | 1 | 0| 
-| 20211114T01:32:59Z | A tool for [(semi-){un-(tethered jailbreak)}] of iOS 10.3.x 32-bit devices with checkm8 BootROM exploit.   | https://github.com/dora2-iOS/p0insettia | 0 | 0| 
-| 20211114T01:21:17Z | Random lua things for roblox exploiting lolye | https://github.com/DontAltF4/RandomProjects | 0 | 0| 
-| 20211114T00:39:04Z | Null | https://github.com/dracoanguis/Systeme-Exploitation | 0 | 0| 
-| 20211113T23:49:46Z | A peer 2 peer approach to increase price stability and to reduce price manipulation by exploiting non-fundamentals-based volatility | https://github.com/distributed-ledger-technology/vofarm-deno-part | 0 | 0| 
-| 20211113T23:33:06Z | Une exploitation de WikiData pour reconstruire les relations entre les établissements de l%ESR. | https://github.com/cpesr/wikidataESR | 2 | 1| 
-| 20211113T23:09:29Z | Null | https://github.com/pwn4all/exploit | 0 | 0| 
+| 20211114T12:28:33Z | This repository will feature my scripts, research and documentation on Pokémon engines, glitches and exploits. | https://github.com/RETIREglitch/Pokemon-Research | 6 | 3| 
+| 20211114T12:20:56Z | Malicious program or malware is an intentionally written program to indulge in various malicious activities, ranging from user’s information stealing to cyber-espionage. The behavioral dynamism exposed by the malware is dependent on various factors such as, nature of the attack, sophisticated technology and the rapid increase in exploitable vulnerabilities. Malware attacks also increased along with the rapid growth in the use of digital devices and the internet. The exponential increase in the creation of new malware in the last five years, made malware detection as a challenging research issue. Problem Statement Malware is one of the top most obstructions for expansion and growth of digital acceptance among the users. Both enterprises and common users are struggling to get protected from the malware in cyberspace, which emphasizes the importance of developing efficient methods of malware detection. Malware detection is the technique for identifying malware in the end devices or networks. | https://github.com/197R1A0520/malware-detection-project | 0 | 0| 
+| 20211114T12:06:32Z | LFITester is a Python3 program that automates the detection and exploitation of Local File Inclusion (LFI) attacks on a server. | https://github.com/kostas-pa/LFITester | 21 | 4| 
+| 20211114T12:03:17Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
+| 20211114T11:50:58Z | A thorough library database to assist with binary exploitation tasks. | https://github.com/0xb0bb/karkinos | 180 | 15| 
+| 20211114T11:41:29Z | Python exploit for the vsftpd 2.3.4 | https://github.com/Hellsender01/vsftpd_2.3.4_Exploit | 2 | 2| 
+| 20211114T11:36:43Z | Trabajo de fin de grado, esta tool permite al usuario realizar una pequeña auditoria a la hora de escalar privilegios en windows, la herramienta cuenta con un módulo automático, uno manual, y un módulo de búsqueda para encontrar exploits | https://github.com/ErnestoCubo/autoexploit | 1 | 1| 
+| 20211114T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10317 | 1773| 
+| 20211114T11:19:16Z | The Best Paid Roblox Exploit. | https://github.com/P-DennyGamingYT/PDennSploit-Pro | 0 | 0| 
+| 20211114T11:09:46Z | Blinder is a tool that will help you simplify the exploitation of blind SQL injection | https://github.com/Mogenn/Blinder | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211114T09:58:04Z | Hidden backdoor attack on NLP systems | https://github.com/lishaofeng/NLP_Backdoor | 23 | 6| 
+| 20211114T09:40:22Z | Null | https://github.com/THUYimingLi/BackdoorBox | 2 | 1| 
+| 20211114T07:50:12Z | The code for: Detecting Backdoors in Black-box Neural Networks via Adversarial Extreme Value Analysis | https://github.com/aeva-backdoor-deteciton/Aeva-Blackbox-Backdoor-Detection | 2 | 0| 
 | 20211113T23:07:51Z | The insane hackerman backdoor. | https://github.com/Bakdooro/Bakdooro | 10 | 2| 
 | 20211113T22:56:57Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 49 | 15| 
 | 20211113T18:39:32Z | Pwny is an advanced payload for iPhoneOS designed for portability, embeddability, and low resource utilization. | https://github.com/EntySec/Pwny | 3 | 0| 
@@ -109,9 +112,6 @@
 | 20211113T17:24:57Z | A self made multi-purpose CTF tool written under Kali Linux Os taking adventage of several programs pre-installed. Contains one liner backdoors generator for many programs/languages, recognition scanners, useful  encoders/decoders with some special features as powershell base64 format, tools from ... [ more info at README.md ] | https://github.com/0bfxgh0st/saf2 | 2 | 1| 
 | 20211113T15:56:06Z | This is a Backdoor virus created in python which will access shell from windows computer. | https://github.com/KeerthananPs/Backdoor-Python | 0 | 0| 
 | 20211113T15:26:43Z | unlock the advanced menu of Lenovo Yoga Slim 7 BIOS | https://github.com/esno/yoga-bios-unlock | 46 | 5| 
-| 20211113T10:31:36Z | Null | https://github.com/alok2520/Coding_Backdoor | 0 | 0| 
-| 20211113T07:09:01Z | Null | https://github.com/Fartlicker777/Backdoor-Hacking | 0 | 0| 
-| 20211113T04:39:04Z | Coswasm Escrow Backdoor | https://github.com/xtbl/cw-escrow-backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -140,16 +140,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211114T02:05:02Z | Null | https://github.com/hashirkk07/fuzzRepo0 | 0 | 0| 
-| 20211114T01:23:00Z | Null | https://github.com/rahmatdarmawan4/FuzzyLogic | 0 | 0| 
-| 20211114T01:06:49Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 718 | 143| 
-| 20211114T00:21:23Z | Null | https://github.com/FuzzyCatDogShreyas/FuzzyCatDogShreyas.github.io | 0 | 0| 
-| 20211114T00:10:37Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 36 | 12| 
-| 20211113T23:06:44Z | https://github.com/wcventure/FuzzingPaper | https://github.com/mishmashclone/wcventure-FuzzingPaper | 6 | 1| 
-| 20211113T22:37:45Z | Null | https://github.com/vurosevic/stlf_fuzzy_anfis | 0 | 0| 
-| 20211113T22:34:47Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20211113T21:31:06Z | Simple fuzzy logic library implemented in Rust language. | https://github.com/SeriousRedCat/fuzzy-rust | 0 | 0| 
-| 20211113T21:11:21Z | Open Source Discord bot | https://github.com/AdventureCo/TypeFuzz | 0 | 0| 
+| 20211114T12:58:50Z | Automatic Repair of Java Code with Timing Side-Channel Vulnerabilities | https://github.com/RuiDTLima/DifFuzzAR | 1 | 1| 
+| 20211114T12:50:17Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20211114T12:39:25Z | Null | https://github.com/kresnotre/fuzzy-octo-palm-tree | 0 | 0| 
+| 20211114T12:33:41Z | Null | https://github.com/elakiya04/Fuzzy-logics-python-implementation | 0 | 0| 
+| 20211114T12:01:10Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6811 | 1421| 
+| 20211114T11:28:33Z | a profile-based fuzzing framework for Bluetooth protocols | https://github.com/skensita/BTFuzzer | 0 | 0| 
+| 20211114T11:23:08Z | It is a mathematical logic. I only use it to make Fuzzy Distortion circuits. | https://github.com/controlLOGIC-labs/Fuzzy-Logic | 0 | 0| 
+| 20211114T11:01:28Z | jnp1-2021 fuzzy projekt 3 | https://github.com/eerio/fuzzy | 0 | 0| 
+| 20211114T09:42:00Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 594 | 62| 
+| 20211114T09:23:21Z | Null | https://github.com/jaden0719/fuzzy-octo-palm-tree | 0 | 0| 
 
 
 
