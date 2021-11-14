@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211114T02:02:48Z | CVE-2021-41773 | Null | https://github.com/kubota/POC-CVE-2021-41773 | | 
 | 20211113T20:43:06Z | CVE-2020-24030 | Null | https://github.com/redteambrasil/CVE-2020-24030 | | 
 | 20211113T20:40:16Z | CVE-2020-24029 | Null | https://github.com/redteambrasil/CVE-2020-24029 | | 
 | 20211113T20:38:34Z | CVE-2020-24028 | Null | https://github.com/redteambrasil/CVE-2020-24028 | | 
@@ -55,7 +56,6 @@
 | 20211112T16:00:51Z | CVE-2021-22205 | GitLab CE/EE Preauth RCE using ExifTool | https://github.com/inspiringz/CVE-2021-22205 | | 
 | 20211112T13:28:36Z | cve-2021-40449 | Null | https://github.com/CppXL/cve-2021-40449-poc | | 
 | 20211112T13:01:51Z | CVE-2021-42327 |  kernel exploit for minor bug i found in amd gpu driver | https://github.com/docfate111/CVE-2021-42327 | | 
-| 20211112T12:22:09Z | CVE-2021-41773 | Ce programme permet de détecter une faille RCE sur les serveurs Apache 2.4.49 et Apache 2.4.50 | https://github.com/Balgogan/CVE-2021-41773 | | 
 
 
 # klee on Github 推荐
@@ -87,10 +87,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211114T02:03:01Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211114T01:35:13Z | Just repository for my exploit | https://github.com/Zears14/SV-Rework-Exploit | 1 | 0| 
 | 20211114T01:32:59Z | A tool for [(semi-){un-(tethered jailbreak)}] of iOS 10.3.x 32-bit devices with checkm8 BootROM exploit.   | https://github.com/dora2-iOS/p0insettia | 0 | 0| 
 | 20211114T01:21:17Z | Random lua things for roblox exploiting lolye | https://github.com/DontAltF4/RandomProjects | 0 | 0| 
-| 20211114T01:03:19Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211114T00:39:04Z | Null | https://github.com/dracoanguis/Systeme-Exploitation | 0 | 0| 
 | 20211113T23:49:46Z | A peer 2 peer approach to increase price stability and to reduce price manipulation by exploiting non-fundamentals-based volatility | https://github.com/distributed-ledger-technology/vofarm-deno-part | 0 | 0| 
 | 20211113T23:37:00Z | A full fledged exploitation framework written in pure python3. | https://github.com/MrSharkSpamBot/GlidingSword | 8 | 2| 
@@ -140,6 +140,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211114T02:00:43Z | Null | https://github.com/hashirkk07/fuzzRepo0 | 0 | 0| 
 | 20211114T01:23:00Z | Null | https://github.com/rahmatdarmawan4/FuzzyLogic | 0 | 0| 
 | 20211114T01:06:49Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 718 | 143| 
 | 20211114T00:21:23Z | Null | https://github.com/FuzzyCatDogShreyas/FuzzyCatDogShreyas.github.io | 0 | 0| 
@@ -149,7 +150,6 @@
 | 20211113T22:34:47Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211113T21:31:06Z | Simple fuzzy logic library implemented in Rust language. | https://github.com/SeriousRedCat/fuzzy-rust | 0 | 0| 
 | 20211113T21:11:21Z | Open Source Discord bot | https://github.com/AdventureCo/TypeFuzz | 0 | 0| 
-| 20211113T20:09:10Z | Data Science Capstone | https://github.com/CrayolaRainbow/fuzzy-bassoon | 0 | 0| 
 
 
 
