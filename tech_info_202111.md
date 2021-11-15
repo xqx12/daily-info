@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211115T01:06:26Z | CVE-2021-43616 | Repo demonstrating CVE-2021-43616 / https://github.com/npm/cli/issues/2701 | https://github.com/icatalina/CVE-2021-43616 | | 
 | 20211114T15:59:41Z | CVE-2021-22205 | GitLab CE/EE Preauth RCE using ExifTool | https://github.com/inspiringz/CVE-2021-22205 | | 
 | 20211114T14:59:00Z | CVE-2021-42013 | Null | https://github.com/xMohamed0/CVE-2021-42013-ApacheRCE | | 
 | 20211114T14:55:20Z | CVE-2021-41773 | Null | https://github.com/xMohamed0/CVE-2021-41773 | | 
@@ -55,7 +56,6 @@
 | 20211114T14:09:52Z | CVE-2020-7699 | 针对 CVE-2020-7699 的复现，软件安全原理课程大作业 | https://github.com/hemaoqi-Tom/CVE-2020-7699_reproduce | | 
 | 20211114T09:14:59Z | CVE-2021-41351 | CVE-2021-41351-poc | https://github.com/JaneMandy/CVE-2021-41351-POC | | 
 | 20211114T08:44:18Z | CVE-2021-42013 | Null | https://github.com/simon242/CVE-2021-42013 | | 
-| 20211114T07:57:11Z | CVE-2021-40539 | Exploitation code for CVE-2021-40539 | https://github.com/synacktiv/CVE-2021-40539 | | 
 
 
 # klee on Github 推荐
