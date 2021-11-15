@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211115T02:14:53Z | cve-2021-22205 | Null | https://github.com/ahmad4fifz/docker-cve-2021-22205 | | 
 | 20211115T02:11:31Z | CVE-2021-22205 | GitLab CE/EE Preauth RCE using ExifTool | https://github.com/inspiringz/CVE-2021-22205 | | 
 | 20211115T01:06:26Z | CVE-2021-43616 | Repo demonstrating CVE-2021-43616 / https://github.com/npm/cli/issues/2701 | https://github.com/icatalina/CVE-2021-43616 | | 
 | 20211114T14:59:00Z | CVE-2021-42013 | Null | https://github.com/xMohamed0/CVE-2021-42013-ApacheRCE | | 
@@ -55,7 +56,6 @@
 | 20211114T14:23:25Z | CVE-2021-32724 | Dummy github repo for CVE-2021-32724 vulnerability exploit testing | https://github.com/MaximeSchlegel/AMUM2-CVE-2021-32724-Target | | 
 | 20211114T14:09:52Z | CVE-2020-7699 | 针对 CVE-2020-7699 的复现，软件安全原理课程大作业 | https://github.com/hemaoqi-Tom/CVE-2020-7699_reproduce | | 
 | 20211114T09:14:59Z | CVE-2021-41351 | CVE-2021-41351-poc | https://github.com/JaneMandy/CVE-2021-41351-POC | | 
-| 20211114T08:44:18Z | CVE-2021-42013 | Null | https://github.com/simon242/CVE-2021-42013 | | 
 
 
 # klee on Github 推荐
@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211115T02:13:36Z | Null | https://github.com/VpnisSpoofed/PS4ExploitHost.github.io | 0 | 0| 
 | 20211115T02:03:15Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211115T00:31:02Z | Extensible framework for analyzing publicly available information about vulnerabilities | https://github.com/leonov-av/vulristics | 41 | 6| 
 | 20211114T23:52:18Z | ra1ncloud exploit for iOS 12.0 - 15.2 (DB2) - effective on A12 to A15, potentially exploitable on M1 and M1 Pro/Max - FOR INTERNAL USE ONLY | https://github.com/unc0vrd/ra1ncloud | 0 | 0| 
@@ -97,13 +98,12 @@
 | 20211114T22:20:08Z | A peer 2 peer approach to increase price stability and to reduce price manipulation by exploiting non-fundamentals-based volatility | https://github.com/distributed-ledger-technology/vofarm-deno-part | 0 | 0| 
 | 20211114T22:14:24Z | Une exploitation de WikiData pour reconstruire les relations entre les établissements de l%ESR. | https://github.com/cpesr/wikidataESR | 2 | 1| 
 | 20211114T22:09:55Z | Null | https://github.com/Pen-Test3rs/binary_exploits_tasks_public | 0 | 0| 
-| 20211114T22:09:27Z | The world has not been the same since the outbreak and ending of World War 3 in the same year, 2079, when the “Developing Countries” in Africa and Asia finally rebelled against the exploitation by the western “industrial countries”. A massive launching of nuclear and “space” weapons on the side of the latter not only quenched the rebellion, it also caused considerable and irrevocable damage to the very structure of Universe. | https://github.com/4dmud/mud | 4 | 4| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211115T02:10:40Z | Backdoor en fase de desarrollo | https://github.com/est0800/Backdoor | 0 | 0| 
+| 20211115T02:13:48Z | Backdoor en fase de desarrollo | https://github.com/est0800/Backdoor | 0 | 0| 
 | 20211115T01:10:26Z | Null | https://github.com/PiterIvano/BackDoor | 0 | 0| 
 | 20211115T00:41:10Z | Hidden backdoor attack on NLP systems | https://github.com/lishaofeng/NLP_Backdoor | 24 | 6| 
 | 20211114T21:12:13Z | The code for: Detecting Backdoors in Black-box Neural Networks via Adversarial Extreme Value Analysis | https://github.com/aeva-backdoor-deteciton/Aeva-Blackbox-Backdoor-Detection | 2 | 0| 
@@ -141,9 +141,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211115T02:13:54Z | Closed-Loop Fuzzy Energy Regulation in Patients With Hypercortisolism via Inhibitory and Excitatory Intermittent Actuation | https://github.com/computational-medicine-lab/Closed-Loop-Fuzzy-Energy-Regulation-Frontiers | 0 | 0| 
+| 20211115T02:13:45Z | Null | https://github.com/BrunoRaphaell/ICA-fuzzy | 0 | 0| 
 | 20211115T02:11:08Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6813 | 1421| 
-| 20211115T02:08:55Z | Closed-Loop Fuzzy Energy Regulation in Patients With Hypercortisolism via Inhibitory and Excitatory Intermittent Actuation | https://github.com/computational-medicine-lab/Closed-Loop-Fuzzy-Energy-Regulation-Frontiers | 0 | 0| 
-| 20211115T02:08:30Z | Null | https://github.com/BrunoRaphaell/ICA-fuzzy | 0 | 0| 
 | 20211115T01:58:26Z | Null | https://github.com/BrunoRaphaell/ICA-Fuzzy | 0 | 0| 
 | 20211115T01:37:57Z | Companion repository to the Fuzzing101 with LibAFL series of blog posts. | https://github.com/epi052/fuzzing-101-solutions | 15 | 3| 
 | 20211115T01:18:31Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
