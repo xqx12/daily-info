@@ -141,6 +141,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211115T02:55:04Z | Null | https://github.com/fauzigalih/Laravel-FuzzyLogic | 0 | 0| 
 | 20211115T02:53:04Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2201 | 431| 
 | 20211115T02:52:38Z | Null | https://github.com/benmccart/fuzzy_cpp | 0 | 0| 
 | 20211115T02:39:58Z | Null | https://github.com/f7deat/fuzzy | 0 | 0| 
@@ -150,7 +151,6 @@
 | 20211115T02:11:08Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6813 | 1421| 
 | 20211115T01:58:26Z | Null | https://github.com/BrunoRaphaell/ICA-Fuzzy | 0 | 0| 
 | 20211115T01:37:57Z | Companion repository to the Fuzzing101 with LibAFL series of blog posts. | https://github.com/epi052/fuzzing-101-solutions | 15 | 3| 
-| 20211115T01:18:31Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 
 
 

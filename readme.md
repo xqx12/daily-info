@@ -109,7 +109,6 @@
 | --- | --- | --- | --- | ---| 
 | 20211114T23:54:07Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4611 | 472| 
 | 20211114T23:33:57Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20211114T23:31:08Z | Null | https://github.com/fauzigalih/Laravel-FuzzyLogic | 0 | 0| 
 | 20211114T23:29:40Z | Null | https://github.com/nyx-fuzz/spec-fuzzer | 0 | 1| 
 | 20211114T23:23:43Z | Null | https://github.com/rafibu/fuzzy | 0 | 0| 
 | 20211114T23:14:45Z | Supplemental materials and reproduction code for Dey and Alvarez (2021): The 2020 Presidential Election: Using Machine Learning to Understand Why Trump Lost. | https://github.com/sreemanti-dey/fuzzy_forests_2020_election | 0 | 0| 
@@ -117,6 +116,7 @@
 | 20211114T21:11:05Z | Fuzz language model that used chatbot | https://github.com/ksjr7-crongcrong/chatbot_fuzzer | 0 | 1| 
 | 20211114T21:00:41Z | Null | https://github.com/bityob/toka-fuzzing-websites | 0 | 0| 
 | 20211114T20:59:52Z | jnp1-2021 fuzzy projekt 3 | https://github.com/eerio/fuzzy | 0 | 0| 
+| 20211114T20:59:49Z | Fuzz testing harness for Geometrize, a library for geometrizing images into geometric primitives | https://github.com/Tw1ddle/geometrize-lib-fuzzing | 1 | 1| 
 
 
 
