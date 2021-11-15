@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211115T02:26:05Z | cve-2021-22205 | Null | https://github.com/ahmad4fifz/docker-cve-2021-22205 | | 
 | 20211115T02:23:37Z | CVE-2021-22205 | GitLab CE/EE Preauth RCE using ExifTool | https://github.com/inspiringz/CVE-2021-22205 | | 
-| 20211115T02:14:53Z | cve-2021-22205 | Null | https://github.com/ahmad4fifz/docker-cve-2021-22205 | | 
 | 20211115T01:06:26Z | CVE-2021-43616 | Repo demonstrating CVE-2021-43616 / https://github.com/npm/cli/issues/2701 | https://github.com/icatalina/CVE-2021-43616 | | 
 | 20211114T14:59:00Z | CVE-2021-42013 | Null | https://github.com/xMohamed0/CVE-2021-42013-ApacheRCE | | 
 | 20211114T14:55:20Z | CVE-2021-41773 | Null | https://github.com/xMohamed0/CVE-2021-41773 | | 
