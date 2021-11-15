@@ -83,6 +83,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211115T13:20:40Z | Null | https://github.com/idylicaro/Fuzzy-Logic-Exercise | 0 | 0| 
 | 20211115T13:15:58Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 596 | 62| 
 | 20211115T13:05:29Z | A patched QEMU that exposes an interface for LibAFL-based fuzzers | https://github.com/AFLplusplus/qemu-libafl-bridge | 19 | 2| 
 | 20211115T12:57:16Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 360 | 30| 
@@ -92,7 +93,6 @@
 | 20211115T12:08:51Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 830 | 125| 
 | 20211115T12:04:46Z | jnp1-2021 fuzzy projekt 3 | https://github.com/eerio/fuzzy | 0 | 0| 
 | 20211115T11:57:53Z | Classify data in ms sql server using fuzzy wuzzy. | https://github.com/kentw832/fuzzy-data-classifier | 0 | 0| 
-| 20211115T11:48:37Z | A little toy to make your neural-fuzzy signals | https://github.com/controlLOGIC-labs/Neural-Fuzzy-Signal-Processing-Kit | 0 | 0| 
 
 
 
