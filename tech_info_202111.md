@@ -142,6 +142,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211115T14:11:18Z | Null | https://github.com/PaulPextra/fuzzy-disco | 0 | 0| 
+| 20211115T14:09:26Z | Tests for Fuzzy Numbers task for JNP at University of Warsaw | https://github.com/tudny/JNP-FuzzyTests | 0 | 0| 
 | 20211115T14:02:06Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211115T13:57:09Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2437 | 150| 
 | 20211115T13:44:12Z | A fuzzy inference system created entirely in MATLAB that could serve as an assisting software to help a Volleyball%s coach determine the best players for their team. | https://github.com/lukaszpszonak/FuzzyInferenceSystem_VolleyballCoachAssistantSystem | 0 | 0| 
@@ -149,9 +151,7 @@
 | 20211115T13:15:58Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 596 | 62| 
 | 20211115T13:05:29Z | A patched QEMU that exposes an interface for LibAFL-based fuzzers | https://github.com/AFLplusplus/qemu-libafl-bridge | 19 | 2| 
 | 20211115T12:57:16Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 360 | 30| 
-| 20211115T12:48:36Z | Tests for Fuzzy Numbers task for JNP at University of Warsaw | https://github.com/tudny/JNP-FuzzyTests | 0 | 0| 
 | 20211115T12:41:26Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2204 | 431| 
-| 20211115T12:08:51Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 830 | 125| 
 
 
 
