@@ -108,7 +108,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20211114T23:55:34Z | Tools to Deal with Fuzzy Numbers in R | https://github.com/gagolews/FuzzyNumbers | 9 | 4| 
-| 20211114T23:54:53Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6812 | 1421| 
 | 20211114T23:54:07Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4611 | 472| 
 | 20211114T23:33:57Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211114T23:31:08Z | Null | https://github.com/fauzigalih/Laravel-FuzzyLogic | 0 | 0| 
@@ -117,6 +116,7 @@
 | 20211114T23:14:45Z | Supplemental materials and reproduction code for Dey and Alvarez (2021): The 2020 Presidential Election: Using Machine Learning to Understand Why Trump Lost. | https://github.com/sreemanti-dey/fuzzy_forests_2020_election | 0 | 0| 
 | 20211114T22:54:26Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
 | 20211114T21:11:05Z | Fuzz language model that used chatbot | https://github.com/ksjr7-crongcrong/chatbot_fuzzer | 0 | 1| 
+| 20211114T21:00:41Z | Null | https://github.com/bityob/toka-fuzzing-websites | 0 | 0| 
 
 
 

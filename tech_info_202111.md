@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211115T02:03:29Z | CVE-2021-22205 | GitLab CE/EE Preauth RCE using ExifTool | https://github.com/inspiringz/CVE-2021-22205 | | 
+| 20211115T02:09:29Z | CVE-2021-22205 | GitLab CE/EE Preauth RCE using ExifTool | https://github.com/inspiringz/CVE-2021-22205 | | 
 | 20211115T01:06:26Z | CVE-2021-43616 | Repo demonstrating CVE-2021-43616 / https://github.com/npm/cli/issues/2701 | https://github.com/icatalina/CVE-2021-43616 | | 
 | 20211114T14:59:00Z | CVE-2021-42013 | Null | https://github.com/xMohamed0/CVE-2021-42013-ApacheRCE | | 
 | 20211114T14:55:20Z | CVE-2021-41773 | Null | https://github.com/xMohamed0/CVE-2021-41773 | | 
@@ -141,6 +141,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211115T02:11:08Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6813 | 1421| 
 | 20211115T02:08:55Z | Closed-Loop Fuzzy Energy Regulation in Patients With Hypercortisolism via Inhibitory and Excitatory Intermittent Actuation | https://github.com/computational-medicine-lab/Closed-Loop-Fuzzy-Energy-Regulation-Frontiers | 0 | 0| 
 | 20211115T02:08:30Z | Null | https://github.com/BrunoRaphaell/ICA-fuzzy | 0 | 0| 
 | 20211115T01:58:26Z | Null | https://github.com/BrunoRaphaell/ICA-Fuzzy | 0 | 0| 
@@ -150,7 +151,6 @@
 | 20211115T01:02:28Z | Fuzzing test for TINET | https://github.com/toppers/TINETFuzzer | 0 | 0| 
 | 20211115T00:59:54Z | Fastapi POC | https://github.com/aztoatl/fuzzy-computing-machine | 0 | 0| 
 | 20211115T00:53:51Z | Null | https://github.com/benmccart/fuzzy_cpp | 0 | 0| 
-| 20211115T00:10:55Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 36 | 12| 
 
 
 
