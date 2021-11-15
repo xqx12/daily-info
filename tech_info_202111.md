@@ -141,10 +141,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211115T01:14:09Z | Null | https://github.com/MrZMN/FuzzyKey | 0 | 0| 
 | 20211115T01:02:28Z | Fuzzing test for TINET | https://github.com/toppers/TINETFuzzer | 0 | 0| 
 | 20211115T00:59:54Z | Fastapi POC | https://github.com/aztoatl/fuzzy-computing-machine | 0 | 0| 
 | 20211115T00:53:51Z | Null | https://github.com/benmccart/fuzzy_cpp | 0 | 0| 
-| 20211115T00:26:14Z | Null | https://github.com/MrZMN/FuzzyKey | 0 | 0| 
 | 20211115T00:10:55Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 36 | 12| 
 | 20211114T23:55:34Z | Tools to Deal with Fuzzy Numbers in R | https://github.com/gagolews/FuzzyNumbers | 9 | 4| 
 | 20211114T23:54:53Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6812 | 1421| 
