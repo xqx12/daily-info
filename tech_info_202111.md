@@ -141,6 +141,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211115T01:58:26Z | Null | https://github.com/BrunoRaphaell/ICA-Fuzzy | 0 | 0| 
 | 20211115T01:37:57Z | Companion repository to the Fuzzing101 with LibAFL series of blog posts. | https://github.com/epi052/fuzzing-101-solutions | 15 | 3| 
 | 20211115T01:18:31Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20211115T01:17:19Z | Null | https://github.com/MrZMN/FuzzyKey | 0 | 0| 
@@ -150,7 +151,6 @@
 | 20211115T00:10:55Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 36 | 12| 
 | 20211114T23:55:34Z | Tools to Deal with Fuzzy Numbers in R | https://github.com/gagolews/FuzzyNumbers | 9 | 4| 
 | 20211114T23:54:53Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6812 | 1421| 
-| 20211114T23:54:07Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4611 | 472| 
 
 
 
