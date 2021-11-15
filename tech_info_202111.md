@@ -142,7 +142,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211115T13:29:37Z | A fuzzy inference system created entirely in MATLAB that could serve as an assisting software to help a Volleyball%s coach determine the best players for their team. | https://github.com/lukaszpszonak/FuzzyInferenceSystem_VolleyballCoachAssistantSystem | 0 | 0| 
+| 20211115T13:44:12Z | A fuzzy inference system created entirely in MATLAB that could serve as an assisting software to help a Volleyball%s coach determine the best players for their team. | https://github.com/lukaszpszonak/FuzzyInferenceSystem_VolleyballCoachAssistantSystem | 0 | 0| 
 | 20211115T13:20:40Z | Null | https://github.com/idylicaro/Fuzzy-Logic-Exercise | 0 | 0| 
 | 20211115T13:15:58Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 596 | 62| 
 | 20211115T13:05:29Z | A patched QEMU that exposes an interface for LibAFL-based fuzzers | https://github.com/AFLplusplus/qemu-libafl-bridge | 19 | 2| 
