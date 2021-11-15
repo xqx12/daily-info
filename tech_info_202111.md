@@ -88,8 +88,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211115T01:03:24Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211115T00:31:02Z | Extensible framework for analyzing publicly available information about vulnerabilities | https://github.com/leonov-av/vulristics | 41 | 6| 
-| 20211115T00:04:09Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211114T23:52:18Z | ra1ncloud exploit for iOS 12.0 - 15.2 (DB2) - effective on A12 to A15, potentially exploitable on M1 and M1 Pro/Max - FOR INTERNAL USE ONLY | https://github.com/unc0vrd/ra1ncloud | 0 | 0| 
 | 20211114T23:36:50Z | Pod of scripts for random stuff exploiting different things different technology.  | https://github.com/NiteR1d3r/ScriptsAndGoodies | 0 | 0| 
 | 20211114T23:24:46Z | A theory of an exploit to get Minecraft for 1€ for 3 Months | https://github.com/CITIZENSIXTYNINE/Minecraft-for-1-dollar | 0 | 0| 
@@ -141,9 +141,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211115T01:02:28Z | Fuzzing test for TINET | https://github.com/toppers/TINETFuzzer | 0 | 0| 
 | 20211115T00:59:54Z | Fastapi POC | https://github.com/aztoatl/fuzzy-computing-machine | 0 | 0| 
 | 20211115T00:53:51Z | Null | https://github.com/benmccart/fuzzy_cpp | 0 | 0| 
-| 20211115T00:44:37Z | Fuzzing test for TINET | https://github.com/toppers/TINETFuzzer | 0 | 0| 
 | 20211115T00:26:14Z | Null | https://github.com/MrZMN/FuzzyKey | 0 | 0| 
 | 20211115T00:10:55Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 36 | 12| 
 | 20211114T23:55:34Z | Tools to Deal with Fuzzy Numbers in R | https://github.com/gagolews/FuzzyNumbers | 9 | 4| 
