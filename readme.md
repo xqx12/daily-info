@@ -45,6 +45,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211115T13:40:13Z | Firmware patcher for Xiaomi routers | https://github.com/openwrt-xiaomi/xmir-patcher | 3 | 0| 
 | 20211115T13:33:47Z | CTFs and solutions for Linux binary exploitation. | https://github.com/MaherAzzouzi/LinuxExploitation | 56 | 18| 
 | 20211115T13:28:31Z | Null | https://github.com/pwn4all/exploit | 0 | 0| 
 | 20211115T13:15:11Z | Projet système exploitation P18M groupe 1 (Arnaud/Vincent/Frederic/Claude) | https://github.com/Claudio4813/Reveil_berry | 0 | 0| 
@@ -54,7 +55,6 @@
 | 20211115T12:57:43Z | Roblox Exploit Scripts by simulatorwinner#5864 | https://github.com/simulatorwinner/scripts | 0 | 0| 
 | 20211115T12:52:26Z | Simple exploits and hacks | https://github.com/Jonathan2000s/Hack_Web | 1 | 0| 
 | 20211115T12:45:29Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 14| 
-| 20211115T12:21:43Z | The Best Paid Roblox Exploit. | https://github.com/P-DennyGamingYT/PDennSploit-Pro | 0 | 0| 
 
 
 # backdoor on Github 推荐
