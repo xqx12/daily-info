@@ -45,7 +45,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211115T13:26:47Z | Null | https://github.com/pwn4all/exploit | 0 | 0| 
+| 20211115T13:33:47Z | CTFs and solutions for Linux binary exploitation. | https://github.com/MaherAzzouzi/LinuxExploitation | 56 | 18| 
+| 20211115T13:28:31Z | Null | https://github.com/pwn4all/exploit | 0 | 0| 
 | 20211115T13:15:11Z | Projet système exploitation P18M groupe 1 (Arnaud/Vincent/Frederic/Claude) | https://github.com/Claudio4813/Reveil_berry | 0 | 0| 
 | 20211115T13:13:51Z | CAUTION - Malicious files 💀 | https://github.com/Am0rphous/Malware | 19 | 8| 
 | 20211115T13:12:04Z | My proof-of-concept exploits for the Linux kernel | https://github.com/xairy/kernel-exploits | 1224 | 376| 
@@ -54,12 +55,12 @@
 | 20211115T12:52:26Z | Simple exploits and hacks | https://github.com/Jonathan2000s/Hack_Web | 1 | 0| 
 | 20211115T12:45:29Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 14| 
 | 20211115T12:21:43Z | The Best Paid Roblox Exploit. | https://github.com/P-DennyGamingYT/PDennSploit-Pro | 0 | 0| 
-| 20211115T12:19:52Z | LFITester is a Python3 program that automates the detection and exploitation of Local File Inclusion (LFI) attacks on a server. | https://github.com/kostas-pa/LFITester | 21 | 4| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211115T13:33:31Z | Null | https://github.com/bityob/invisible-backdoor | 0 | 0| 
 | 20211115T11:55:48Z | Backdoor en fase de desarrollo | https://github.com/est0800/Backdoor | 0 | 0| 
 | 20211115T09:57:24Z | Un backdoor/troyano para discord y chrome, con interfaz web. | https://github.com/Arturo0x90/bambu | 0 | 0| 
 | 20211115T09:23:18Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 50 | 15| 
