@@ -7,6 +7,14 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20211114 | macOS/iOS 安全方向的漏洞分析文章整理 | https://github.com/houjingyi233/macOS-iOS-system-security| 
+| 20211114 | Fuzzware: Using Precise MMIO Modeling for Effective Firmware Fuzzing（Paper） | http://www.usenix.org/conference/usenixsecurity22/presentation/scharnowski| 
+| 20211114 | Fuzzing Microsofts RDP Client using Virtual Channels: Overview & Methodology | https://thalium.github.io/blog/posts/fuzzing-microsoft-rdp-client-using-virtual-channels/| 
+| 20211114 | Pwn2Own 2021 比赛 Alisa Esage 所使用的 Parallels Desktop 漏洞的分析 | http://zerodayengineering.com/projects/slides/ZDE2021_AdvancedSimplePwn2Own2021.pdf| 
+| 20211114 | 国家网信办发布关于《网络数据安全管理条例（征求意见稿）》公开征求意见的通知 | https://news.sina.com.cn/gov/2021-11-15/doc-iktzscyy5579466.shtml| 
+| 20211114 | 移动安全对抗之 App 加固 | https://github.com/su-vikas/Presentations/blob/main/Sincon2021.MobileAppHardeningRE.pdf| 
+| 20211114 | The Art of Exploiting UAF by Ret2bpf in Android Kernel | https://i.blackhat.com/EU-21/Wednesday/EU-21-Jin-The-Art-of-Exploiting-UAF-by-Ret2bpf-in-Android-Kernel.pdf| 
+| 20211114 | 文件类型识别工具 | https://github.com/horsicq/Detect-It-Easy| 
+| 20211114 | Exploiting CSP in Webkit to Break Authentication & Authorization | https://threatnix.io/blog/exploiting-csp-in-webkit-to-break-authentication-authorization/| 
 | 20211113 | BPF 性能工具推荐书籍。 | https://www.brendangregg.com/bpf-performance-tools-book.html| 
 | 20211113 | 奇虎 360 的 Netlab 安全团队的研究人员发现名为“Abcbot”针对Linux系统威胁的新型僵尸网络恶意软件。 | https://thehackernews.com/2021/11/abcbot-new-evolving-wormable-botnet.html| 
 | 20211113 | 探索顶级域安全性研究. | https://unit42.paloaltonetworks.com/top-level-domains-cybercrime/| 
@@ -18,14 +26,6 @@
 | 20211112 | Goole TAG 团队发现有攻击者利用 macOS XNU 内核提权漏洞发起水坑攻击 | https://blog.google/threat-analysis-group/analyzing-watering-hole-campaign-using-macos-exploits/| 
 | 20211112 | Fuzzing Image Parsing in Windows, Part Three: RAW and HEIF | https://www.mandiant.com/resources/fuzzing-image-parsing-three| 
 | 20211112 | Google 开源了一套 Fuzz 框架 - ClusterFuzzLite，支持在 CI 工作流中引入 Fuzz | https://security.googleblog.com/2021/11/clusterfuzzlite-continuous-fuzzing-for.html| 
-| 20211112 | 红队中易被攻击的一些重点系统漏洞整理 | https://github.com/r0eXpeR/redteam_vul| 
-| 20211111 | 记一次Log4j失败的Gadget挖掘记录. | https://tttang.com/archive/1314/| 
-| 20211111 | McAfees研究人员发现最新“Squirrelwaffle“恶意软件威胁并对进行分析. | https://www.mcafee.com/blogs/other-blogs/mcafee-labs/the-newest-malicious-actor-squirrelwaffle-malicious-doc/| 
-| 20211110 | Google Gsuite 超级管理员账户接管漏洞的分析 | https://secreltyhiddenwriteups.blogspot.com/2021/11/becoming-super-admin-in-someone-elses.html| 
-| 20211110 | CookieMonster - 用于自动化篡改 Cookie 挖掘漏洞的工具 | https://github.com/iangcarroll/cookiemonster/| 
-| 20211110 | RPC Firewall - 一款检测 Windows RPC 漏洞利用攻击的工具 | https://github.com/zeronetworks/rpcfirewall| 
-| 20211110 | 信息安全相关的有些资料链接 | https://github.com/stong/infosec-resources| 
-| 20211110 | Thick Client Penetration Testing Methodology | https://www.cyberark.com/resources/threat-research-blog/thick-client-penetration-testing-methodology| 
 
 
 # 安全维基 推荐

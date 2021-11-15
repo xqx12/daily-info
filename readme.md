@@ -7,6 +7,14 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20211114 | macOS/iOS 安全方向的漏洞分析文章整理 | https://github.com/houjingyi233/macOS-iOS-system-security| 
+| 20211114 | Fuzzware: Using Precise MMIO Modeling for Effective Firmware Fuzzing（Paper） | http://www.usenix.org/conference/usenixsecurity22/presentation/scharnowski| 
+| 20211114 | Fuzzing Microsofts RDP Client using Virtual Channels: Overview & Methodology | https://thalium.github.io/blog/posts/fuzzing-microsoft-rdp-client-using-virtual-channels/| 
+| 20211114 | Pwn2Own 2021 比赛 Alisa Esage 所使用的 Parallels Desktop 漏洞的分析 | http://zerodayengineering.com/projects/slides/ZDE2021_AdvancedSimplePwn2Own2021.pdf| 
+| 20211114 | 国家网信办发布关于《网络数据安全管理条例（征求意见稿）》公开征求意见的通知 | https://news.sina.com.cn/gov/2021-11-15/doc-iktzscyy5579466.shtml| 
+| 20211114 | 移动安全对抗之 App 加固 | https://github.com/su-vikas/Presentations/blob/main/Sincon2021.MobileAppHardeningRE.pdf| 
+| 20211114 | The Art of Exploiting UAF by Ret2bpf in Android Kernel | https://i.blackhat.com/EU-21/Wednesday/EU-21-Jin-The-Art-of-Exploiting-UAF-by-Ret2bpf-in-Android-Kernel.pdf| 
+| 20211114 | 文件类型识别工具 | https://github.com/horsicq/Detect-It-Easy| 
+| 20211114 | Exploiting CSP in Webkit to Break Authentication & Authorization | https://threatnix.io/blog/exploiting-csp-in-webkit-to-break-authentication-authorization/| 
 
 
 # 安全维基 推荐
