@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211115T02:26:05Z | cve-2021-22205 | Null | https://github.com/ahmad4fifz/docker-cve-2021-22205 | | 
+| 20211115T03:05:44Z | cve-2021-22205 | Null | https://github.com/ahmad4fifz/docker-cve-2021-22205 | | 
 | 20211115T02:23:37Z | CVE-2021-22205 | GitLab CE/EE Preauth RCE using ExifTool | https://github.com/inspiringz/CVE-2021-22205 | | 
 | 20211115T01:06:26Z | CVE-2021-43616 | Repo demonstrating CVE-2021-43616 / https://github.com/npm/cli/issues/2701 | https://github.com/icatalina/CVE-2021-43616 | | 
 | 20211114T14:59:00Z | CVE-2021-42013 | Null | https://github.com/xMohamed0/CVE-2021-42013-ApacheRCE | | 
@@ -88,12 +88,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211115T03:03:14Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211115T02:59:22Z | Null | https://github.com/VpnisSpoofed/Exploit.github.io | 0 | 0| 
 | 20211115T02:53:01Z | Solidity exploits and defenses for more secure smart contract development | https://github.com/devon-n/Smart_contract_security | 0 | 0| 
 | 20211115T02:45:27Z | [Roblox] Downtown RP ESP (Gun Crates, Printers) -- genta | https://github.com/subn0de/Roblox_Exploits | 0 | 0| 
 | 20211115T02:19:19Z | iblessing is an iOS security exploiting toolkit, it mainly includes application information gathering, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining. | https://github.com/Soulghost/iblessing | 425 | 63| 
 | 20211115T02:13:36Z | Null | https://github.com/VpnisSpoofed/PS4ExploitHost.github.io | 0 | 0| 
-| 20211115T02:03:15Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211115T00:31:02Z | Extensible framework for analyzing publicly available information about vulnerabilities | https://github.com/leonov-av/vulristics | 41 | 6| 
 | 20211114T23:52:18Z | ra1ncloud exploit for iOS 12.0 - 15.2 (DB2) - effective on A12 to A15, potentially exploitable on M1 and M1 Pro/Max - FOR INTERNAL USE ONLY | https://github.com/unc0vrd/ra1ncloud | 0 | 0| 
 | 20211114T23:36:50Z | Pod of scripts for random stuff exploiting different things different technology.  | https://github.com/NiteR1d3r/ScriptsAndGoodies | 0 | 0| 
