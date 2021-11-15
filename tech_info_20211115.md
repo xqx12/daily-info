@@ -84,6 +84,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211115T13:29:37Z | A fuzzy inference system created entirely in MATLAB that could serve as an assisting software to help a Volleyball%s coach determine the best players for their team. | https://github.com/lukaszpszonak/FuzzyInferenceSystem_VolleyballCoachAssistantSystem | 0 | 0| 
 | 20211115T13:20:40Z | Null | https://github.com/idylicaro/Fuzzy-Logic-Exercise | 0 | 0| 
 | 20211115T13:15:58Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 596 | 62| 
 | 20211115T13:05:29Z | A patched QEMU that exposes an interface for LibAFL-based fuzzers | https://github.com/AFLplusplus/qemu-libafl-bridge | 19 | 2| 
@@ -93,7 +94,6 @@
 | 20211115T12:41:26Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2204 | 431| 
 | 20211115T12:08:51Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 830 | 125| 
 | 20211115T12:04:46Z | jnp1-2021 fuzzy projekt 3 | https://github.com/eerio/fuzzy | 0 | 0| 
-| 20211115T11:57:53Z | Classify data in ms sql server using fuzzy wuzzy. | https://github.com/kentw832/fuzzy-data-classifier | 0 | 0| 
 
 
 
