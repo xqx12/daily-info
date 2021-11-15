@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211115T02:59:22Z | Null | https://github.com/VpnisSpoofed/Exploit.github.io | 0 | 0| 
 | 20211115T02:53:01Z | Solidity exploits and defenses for more secure smart contract development | https://github.com/devon-n/Smart_contract_security | 0 | 0| 
 | 20211115T02:45:27Z | [Roblox] Downtown RP ESP (Gun Crates, Printers) -- genta | https://github.com/subn0de/Roblox_Exploits | 0 | 0| 
 | 20211115T02:19:19Z | iblessing is an iOS security exploiting toolkit, it mainly includes application information gathering, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining. | https://github.com/Soulghost/iblessing | 425 | 63| 
@@ -97,7 +98,6 @@
 | 20211114T23:52:18Z | ra1ncloud exploit for iOS 12.0 - 15.2 (DB2) - effective on A12 to A15, potentially exploitable on M1 and M1 Pro/Max - FOR INTERNAL USE ONLY | https://github.com/unc0vrd/ra1ncloud | 0 | 0| 
 | 20211114T23:36:50Z | Pod of scripts for random stuff exploiting different things different technology.  | https://github.com/NiteR1d3r/ScriptsAndGoodies | 0 | 0| 
 | 20211114T23:24:46Z | A theory of an exploit to get Minecraft for 1€ for 3 Months | https://github.com/CITIZENSIXTYNINE/Minecraft-for-1-dollar | 0 | 0| 
-| 20211114T23:10:32Z | HatVenom is a HatSploit native powerful payload generation and shellcode injection tool that provides support for common platforms and architectures. | https://github.com/EntySec/HatVenom | 58 | 19| 
 
 
 # backdoor on Github 推荐
