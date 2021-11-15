@@ -88,7 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211115T02:51:56Z | Solidity exploits and defenses for more secure smart contract development | https://github.com/devon-n/Smart_contract_security | 0 | 0| 
+| 20211115T02:53:01Z | Solidity exploits and defenses for more secure smart contract development | https://github.com/devon-n/Smart_contract_security | 0 | 0| 
 | 20211115T02:45:27Z | [Roblox] Downtown RP ESP (Gun Crates, Printers) -- genta | https://github.com/subn0de/Roblox_Exploits | 0 | 0| 
 | 20211115T02:19:19Z | iblessing is an iOS security exploiting toolkit, it mainly includes application information gathering, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining. | https://github.com/Soulghost/iblessing | 425 | 63| 
 | 20211115T02:13:36Z | Null | https://github.com/VpnisSpoofed/PS4ExploitHost.github.io | 0 | 0| 
