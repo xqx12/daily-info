@@ -15,6 +15,7 @@
 | 20211114 | The Art of Exploiting UAF by Ret2bpf in Android Kernel | https://i.blackhat.com/EU-21/Wednesday/EU-21-Jin-The-Art-of-Exploiting-UAF-by-Ret2bpf-in-Android-Kernel.pdf| 
 | 20211114 | 文件类型识别工具 | https://github.com/horsicq/Detect-It-Easy| 
 | 20211114 | Exploiting CSP in Webkit to Break Authentication & Authorization | https://threatnix.io/blog/exploiting-csp-in-webkit-to-break-authentication-authorization/| 
+| 20211114 | GitOops - 滥用 CI/CD pipelines 检测 GitHub organizations 横向渗透 | https://github.com/ovotech/gitoops| 
 
 
 # 安全维基 推荐
@@ -30,7 +31,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211114T15:59:41Z | CVE-2021-22205 | GitLab CE/EE Preauth RCE using ExifTool | https://github.com/inspiringz/CVE-2021-22205 | | 
 | 20211114T14:59:00Z | CVE-2021-42013 | Null | https://github.com/xMohamed0/CVE-2021-42013-ApacheRCE | | 
 | 20211114T14:55:20Z | CVE-2021-41773 | Null | https://github.com/xMohamed0/CVE-2021-41773 | | 
 | 20211114T14:54:42Z | CVE-2020-5504 | Null | https://github.com/xMohamed0/CVE-2020-5504-phpMyAdmin | | 
@@ -40,6 +40,7 @@
 | 20211114T09:14:59Z | CVE-2021-41351 | CVE-2021-41351-poc | https://github.com/JaneMandy/CVE-2021-41351-POC | | 
 | 20211114T08:44:18Z | CVE-2021-42013 | Null | https://github.com/simon242/CVE-2021-42013 | | 
 | 20211114T07:57:11Z | CVE-2021-40539 | Exploitation code for CVE-2021-40539 | https://github.com/synacktiv/CVE-2021-40539 | | 
+| 20211114T03:04:26Z | CVE-2021-41773 | Null | https://github.com/kubota/POC-CVE-2021-41773 | | 
 
 
 # klee on Github 推荐

@@ -15,6 +15,7 @@
 | 20211114 | The Art of Exploiting UAF by Ret2bpf in Android Kernel | https://i.blackhat.com/EU-21/Wednesday/EU-21-Jin-The-Art-of-Exploiting-UAF-by-Ret2bpf-in-Android-Kernel.pdf| 
 | 20211114 | 文件类型识别工具 | https://github.com/horsicq/Detect-It-Easy| 
 | 20211114 | Exploiting CSP in Webkit to Break Authentication & Authorization | https://threatnix.io/blog/exploiting-csp-in-webkit-to-break-authentication-authorization/| 
+| 20211114 | GitOops - 滥用 CI/CD pipelines 检测 GitHub organizations 横向渗透 | https://github.com/ovotech/gitoops| 
 | 20211113 | BPF 性能工具推荐书籍。 | https://www.brendangregg.com/bpf-performance-tools-book.html| 
 | 20211113 | 奇虎 360 的 Netlab 安全团队的研究人员发现名为“Abcbot”针对Linux系统威胁的新型僵尸网络恶意软件。 | https://thehackernews.com/2021/11/abcbot-new-evolving-wormable-botnet.html| 
 | 20211113 | 探索顶级域安全性研究. | https://unit42.paloaltonetworks.com/top-level-domains-cybercrime/| 
@@ -25,7 +26,6 @@
 | 20211112 | 利用 EDR 软件 Hook API 时对函数重入问题的处理问题实现逃逸检测 | http://www.deepinstinct.com/blog/evading-antivirus-detection-with-inline-hooks| 
 | 20211112 | Goole TAG 团队发现有攻击者利用 macOS XNU 内核提权漏洞发起水坑攻击 | https://blog.google/threat-analysis-group/analyzing-watering-hole-campaign-using-macos-exploits/| 
 | 20211112 | Fuzzing Image Parsing in Windows, Part Three: RAW and HEIF | https://www.mandiant.com/resources/fuzzing-image-parsing-three| 
-| 20211112 | Google 开源了一套 Fuzz 框架 - ClusterFuzzLite，支持在 CI 工作流中引入 Fuzz | https://security.googleblog.com/2021/11/clusterfuzzlite-continuous-fuzzing-for.html| 
 
 
 # 安全维基 推荐
@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211115T02:03:29Z | CVE-2021-22205 | GitLab CE/EE Preauth RCE using ExifTool | https://github.com/inspiringz/CVE-2021-22205 | | 
 | 20211115T01:06:26Z | CVE-2021-43616 | Repo demonstrating CVE-2021-43616 / https://github.com/npm/cli/issues/2701 | https://github.com/icatalina/CVE-2021-43616 | | 
-| 20211114T15:59:41Z | CVE-2021-22205 | GitLab CE/EE Preauth RCE using ExifTool | https://github.com/inspiringz/CVE-2021-22205 | | 
 | 20211114T14:59:00Z | CVE-2021-42013 | Null | https://github.com/xMohamed0/CVE-2021-42013-ApacheRCE | | 
 | 20211114T14:55:20Z | CVE-2021-41773 | Null | https://github.com/xMohamed0/CVE-2021-41773 | | 
 | 20211114T14:54:42Z | CVE-2020-5504 | Null | https://github.com/xMohamed0/CVE-2020-5504-phpMyAdmin | | 
@@ -88,7 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211115T01:03:24Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
+| 20211115T02:03:15Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211115T00:31:02Z | Extensible framework for analyzing publicly available information about vulnerabilities | https://github.com/leonov-av/vulristics | 41 | 6| 
 | 20211114T23:52:18Z | ra1ncloud exploit for iOS 12.0 - 15.2 (DB2) - effective on A12 to A15, potentially exploitable on M1 and M1 Pro/Max - FOR INTERNAL USE ONLY | https://github.com/unc0vrd/ra1ncloud | 0 | 0| 
 | 20211114T23:36:50Z | Pod of scripts for random stuff exploiting different things different technology.  | https://github.com/NiteR1d3r/ScriptsAndGoodies | 0 | 0| 
