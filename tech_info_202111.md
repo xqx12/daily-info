@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211115T02:45:27Z | [Roblox] Downtown RP ESP (Gun Crates, Printers) -- genta | https://github.com/subn0de/Roblox_Exploits | 0 | 0| 
 | 20211115T02:19:19Z | iblessing is an iOS security exploiting toolkit, it mainly includes application information gathering, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining. | https://github.com/Soulghost/iblessing | 425 | 63| 
 | 20211115T02:13:36Z | Null | https://github.com/VpnisSpoofed/PS4ExploitHost.github.io | 0 | 0| 
 | 20211115T02:03:15Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
@@ -97,7 +98,6 @@
 | 20211114T23:24:46Z | A theory of an exploit to get Minecraft for 1€ for 3 Months | https://github.com/CITIZENSIXTYNINE/Minecraft-for-1-dollar | 0 | 0| 
 | 20211114T23:10:32Z | HatVenom is a HatSploit native powerful payload generation and shellcode injection tool that provides support for common platforms and architectures. | https://github.com/EntySec/HatVenom | 58 | 19| 
 | 20211114T22:20:08Z | A peer 2 peer approach to increase price stability and to reduce price manipulation by exploiting non-fundamentals-based volatility | https://github.com/distributed-ledger-technology/vofarm-deno-part | 0 | 0| 
-| 20211114T22:14:24Z | Une exploitation de WikiData pour reconstruire les relations entre les établissements de l%ESR. | https://github.com/cpesr/wikidataESR | 2 | 1| 
 
 
 # backdoor on Github 推荐
