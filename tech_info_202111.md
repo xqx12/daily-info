@@ -141,7 +141,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211115T01:14:09Z | Null | https://github.com/MrZMN/FuzzyKey | 0 | 0| 
+| 20211115T01:18:31Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
+| 20211115T01:17:19Z | Null | https://github.com/MrZMN/FuzzyKey | 0 | 0| 
 | 20211115T01:02:28Z | Fuzzing test for TINET | https://github.com/toppers/TINETFuzzer | 0 | 0| 
 | 20211115T00:59:54Z | Fastapi POC | https://github.com/aztoatl/fuzzy-computing-machine | 0 | 0| 
 | 20211115T00:53:51Z | Null | https://github.com/benmccart/fuzzy_cpp | 0 | 0| 
@@ -150,7 +151,6 @@
 | 20211114T23:54:53Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6812 | 1421| 
 | 20211114T23:54:07Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4611 | 472| 
 | 20211114T23:33:57Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20211114T23:31:08Z | Null | https://github.com/fauzigalih/Laravel-FuzzyLogic | 0 | 0| 
 
 
 
