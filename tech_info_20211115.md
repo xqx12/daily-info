@@ -70,6 +70,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211115T09:42:14Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 183 | 39| 
+| 20211115T07:41:51Z | Simple Symbolic Execution with Neural Networks in case of Magic-byte prediction | https://github.com/yhytoto12/neuro-sym | 0 | 0| 
+| 20211115T03:55:05Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2535 | 375| 
 
 
 # big4 on Github 推荐
@@ -80,6 +83,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211115T13:05:29Z | A patched QEMU that exposes an interface for LibAFL-based fuzzers | https://github.com/AFLplusplus/qemu-libafl-bridge | 19 | 2| 
 | 20211115T12:57:16Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 360 | 30| 
 | 20211115T12:53:03Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211115T12:48:36Z | Tests for Fuzzy Numbers task for JNP at University of Warsaw | https://github.com/tudny/JNP-FuzzyTests | 0 | 0| 
@@ -89,7 +93,6 @@
 | 20211115T11:57:53Z | Classify data in ms sql server using fuzzy wuzzy. | https://github.com/kentw832/fuzzy-data-classifier | 0 | 0| 
 | 20211115T11:48:37Z | A little toy to make your neural-fuzzy signals | https://github.com/controlLOGIC-labs/Neural-Fuzzy-Signal-Processing-Kit | 0 | 0| 
 | 20211115T11:42:32Z | Null | https://github.com/yuchunju/art-works-fuzz | 0 | 0| 
-| 20211115T11:16:33Z | FuzzPEG: A Context-Free Random Program Generator | https://github.com/FAU-Inf2/FuzzPEG | 0 | 0| 
 
 
 
