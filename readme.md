@@ -107,7 +107,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211114T23:55:34Z | Tools to Deal with Fuzzy Numbers in R | https://github.com/gagolews/FuzzyNumbers | 9 | 4| 
 | 20211114T23:54:07Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4611 | 472| 
 | 20211114T23:33:57Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211114T23:31:08Z | Null | https://github.com/fauzigalih/Laravel-FuzzyLogic | 0 | 0| 
@@ -117,6 +116,7 @@
 | 20211114T22:54:26Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
 | 20211114T21:11:05Z | Fuzz language model that used chatbot | https://github.com/ksjr7-crongcrong/chatbot_fuzzer | 0 | 1| 
 | 20211114T21:00:41Z | Null | https://github.com/bityob/toka-fuzzing-websites | 0 | 0| 
+| 20211114T20:59:52Z | jnp1-2021 fuzzy projekt 3 | https://github.com/eerio/fuzzy | 0 | 0| 
 
 
 
