@@ -141,6 +141,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211115T02:43:57Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2200 | 431| 
 | 20211115T02:39:58Z | Null | https://github.com/f7deat/fuzzy | 0 | 0| 
 | 20211115T02:33:38Z | Closed-Loop Fuzzy Energy Regulation in Patients With Hypercortisolism via Inhibitory and Excitatory Intermittent Actuation | https://github.com/computational-medicine-lab/Closed-Loop-Fuzzy-Energy-Regulation-Frontiers | 0 | 0| 
 | 20211115T02:15:33Z | Tools to Deal with Fuzzy Numbers in R | https://github.com/gagolews/FuzzyNumbers | 9 | 4| 
@@ -150,7 +151,6 @@
 | 20211115T01:37:57Z | Companion repository to the Fuzzing101 with LibAFL series of blog posts. | https://github.com/epi052/fuzzing-101-solutions | 15 | 3| 
 | 20211115T01:18:31Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20211115T01:17:19Z | Null | https://github.com/MrZMN/FuzzyKey | 0 | 0| 
-| 20211115T01:02:28Z | Fuzzing test for TINET | https://github.com/toppers/TINETFuzzer | 0 | 0| 
 
 
 
