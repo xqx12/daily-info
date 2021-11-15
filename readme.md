@@ -6,6 +6,7 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20211115 | 浅谈利用codeql进行java代码审计分析（1） | https://tttang.com/archive/1322/| 
 
 
 # 安全维基 推荐
@@ -29,7 +30,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211115T12:16:05Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2946 | 84| 
+| 20211115T14:37:45Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2948 | 84| 
 | 20211115T10:30:13Z | Null | https://github.com/timoodada/klee | 0 | 0| 
 | 20211115T09:35:01Z | Personal Blog | https://github.com/klee1611/klee1611.github.io | 1 | 1| 
 
@@ -45,6 +46,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211115T14:42:15Z | Haimgard is an environment for writing, testing and using exploit code. | https://github.com/onuratakan/Haimgard | 0 | 0| 
+| 20211115T14:37:46Z | User interface for the IRAP Exploit machine | https://github.com/WilfriedMercier/ExploitGUI | 0 | 1| 
 | 20211115T14:03:41Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211115T13:55:33Z | Firmware patcher for Xiaomi routers | https://github.com/openwrt-xiaomi/xmir-patcher | 3 | 0| 
 | 20211115T13:55:00Z | Detect common exploits | https://github.com/StarTux/Exploits | 1 | 0| 
@@ -53,8 +56,6 @@
 | 20211115T13:33:47Z | CTFs and solutions for Linux binary exploitation. | https://github.com/MaherAzzouzi/LinuxExploitation | 56 | 18| 
 | 20211115T13:28:31Z | Null | https://github.com/pwn4all/exploit | 0 | 0| 
 | 20211115T13:13:51Z | CAUTION - Malicious files 💀 | https://github.com/Am0rphous/Malware | 19 | 8| 
-| 20211115T13:12:04Z | My proof-of-concept exploits for the Linux kernel | https://github.com/xairy/kernel-exploits | 1224 | 376| 
-| 20211115T12:57:43Z | Roblox Exploit Scripts by simulatorwinner#5864 | https://github.com/simulatorwinner/scripts | 0 | 0| 
 
 
 # backdoor on Github 推荐
