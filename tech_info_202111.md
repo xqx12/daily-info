@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211115T02:51:56Z | Solidity exploits and defenses for more secure smart contract development | https://github.com/devon-n/Smart_contract_security | 0 | 0| 
 | 20211115T02:45:27Z | [Roblox] Downtown RP ESP (Gun Crates, Printers) -- genta | https://github.com/subn0de/Roblox_Exploits | 0 | 0| 
 | 20211115T02:19:19Z | iblessing is an iOS security exploiting toolkit, it mainly includes application information gathering, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining. | https://github.com/Soulghost/iblessing | 425 | 63| 
 | 20211115T02:13:36Z | Null | https://github.com/VpnisSpoofed/PS4ExploitHost.github.io | 0 | 0| 
@@ -97,7 +98,6 @@
 | 20211114T23:36:50Z | Pod of scripts for random stuff exploiting different things different technology.  | https://github.com/NiteR1d3r/ScriptsAndGoodies | 0 | 0| 
 | 20211114T23:24:46Z | A theory of an exploit to get Minecraft for 1€ for 3 Months | https://github.com/CITIZENSIXTYNINE/Minecraft-for-1-dollar | 0 | 0| 
 | 20211114T23:10:32Z | HatVenom is a HatSploit native powerful payload generation and shellcode injection tool that provides support for common platforms and architectures. | https://github.com/EntySec/HatVenom | 58 | 19| 
-| 20211114T22:20:08Z | A peer 2 peer approach to increase price stability and to reduce price manipulation by exploiting non-fundamentals-based volatility | https://github.com/distributed-ledger-technology/vofarm-deno-part | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -141,7 +141,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211115T02:43:57Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2200 | 431| 
+| 20211115T02:53:04Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2201 | 431| 
+| 20211115T02:52:38Z | Null | https://github.com/benmccart/fuzzy_cpp | 0 | 0| 
 | 20211115T02:39:58Z | Null | https://github.com/f7deat/fuzzy | 0 | 0| 
 | 20211115T02:33:38Z | Closed-Loop Fuzzy Energy Regulation in Patients With Hypercortisolism via Inhibitory and Excitatory Intermittent Actuation | https://github.com/computational-medicine-lab/Closed-Loop-Fuzzy-Energy-Regulation-Frontiers | 0 | 0| 
 | 20211115T02:15:33Z | Tools to Deal with Fuzzy Numbers in R | https://github.com/gagolews/FuzzyNumbers | 9 | 4| 
@@ -150,7 +151,6 @@
 | 20211115T01:58:26Z | Null | https://github.com/BrunoRaphaell/ICA-Fuzzy | 0 | 0| 
 | 20211115T01:37:57Z | Companion repository to the Fuzzing101 with LibAFL series of blog posts. | https://github.com/epi052/fuzzing-101-solutions | 15 | 3| 
 | 20211115T01:18:31Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
-| 20211115T01:17:19Z | Null | https://github.com/MrZMN/FuzzyKey | 0 | 0| 
 
 
 
