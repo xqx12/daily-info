@@ -89,16 +89,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211115T13:15:11Z | Projet système exploitation P18M groupe 1 (Arnaud/Vincent/Frederic/Claude) | https://github.com/Claudio4813/Reveil_berry | 0 | 0| 
+| 20211115T13:13:51Z | CAUTION - Malicious files 💀 | https://github.com/Am0rphous/Malware | 19 | 8| 
+| 20211115T13:12:04Z | My proof-of-concept exploits for the Linux kernel | https://github.com/xairy/kernel-exploits | 1224 | 376| 
 | 20211115T13:03:31Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211115T12:57:43Z | Roblox Exploit Scripts by simulatorwinner#5864 | https://github.com/simulatorwinner/scripts | 0 | 0| 
 | 20211115T12:52:26Z | Simple exploits and hacks | https://github.com/Jonathan2000s/Hack_Web | 1 | 0| 
-| 20211115T12:51:45Z | CAUTION - Malicious files 💀 | https://github.com/Am0rphous/Malware | 19 | 8| 
 | 20211115T12:45:29Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 14| 
 | 20211115T12:21:43Z | The Best Paid Roblox Exploit. | https://github.com/P-DennyGamingYT/PDennSploit-Pro | 0 | 0| 
 | 20211115T12:19:52Z | LFITester is a Python3 program that automates the detection and exploitation of Local File Inclusion (LFI) attacks on a server. | https://github.com/kostas-pa/LFITester | 21 | 4| 
 | 20211115T12:17:06Z | Exploit?Nope:Yes | https://github.com/meafs/AchillesHeel | 0 | 0| 
-| 20211115T12:07:13Z | Projet système exploitation P18M groupe 1 (Arnaud/Vincent/Frederic/Claude) | https://github.com/Claudio4813/Reveil_berry | 0 | 0| 
-| 20211115T11:46:17Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 8489 | 1462| 
 
 
 # backdoor on Github 推荐
@@ -142,7 +142,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211115T13:11:00Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 595 | 62| 
+| 20211115T13:15:58Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 596 | 62| 
 | 20211115T13:05:29Z | A patched QEMU that exposes an interface for LibAFL-based fuzzers | https://github.com/AFLplusplus/qemu-libafl-bridge | 19 | 2| 
 | 20211115T12:57:16Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 360 | 30| 
 | 20211115T12:53:03Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
