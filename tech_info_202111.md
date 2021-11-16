@@ -89,9 +89,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211116T01:18:17Z | CTF writeups and exploits | https://github.com/verso1/writeups | 0 | 0| 
 | 20211116T01:03:06Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211116T00:48:32Z | [Roblox] Downtown RP ESP (Gun Crates, Printers) -- genta | https://github.com/subn0de/Roblox_Exploits | 0 | 0| 
-| 20211116T00:47:03Z | CTF writeups and exploits | https://github.com/verso1/writeups | 0 | 0| 
 | 20211116T00:22:01Z | This made by Mrbacongaming | https://github.com/MrBacongaming/LexPloit-Exploit | 0 | 0| 
 | 20211115T23:54:36Z | Build a local copy of Known Exploited Vulnerabilities Catalog by CISA. Server mode for easy querying.  | https://github.com/MaineK00n/go-kev | 1 | 0| 
 | 20211115T23:29:03Z | Null | https://github.com/pwn4all/exploit | 0 | 0| 
