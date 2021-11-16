@@ -142,8 +142,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211116T01:27:25Z | A Haskell implementation of Fuzzy Identity Based Encryption modified to work over asymmetric bilinear pairing | https://github.com/octeep/fuzzyibe | 0 | 0| 
 | 20211116T01:15:56Z | A Software Package for Fuzzing Autonomous Driving Systems in Simulators | https://github.com/AIasd/ADFuzz | 0 | 0| 
-| 20211116T01:11:33Z | Null | https://github.com/octeep/fuzzyibe | 0 | 0| 
 | 20211116T01:02:55Z | Dev aprendendo | https://github.com/Clarafagundes/colher-fuzzy | 0 | 0| 
 | 20211116T00:59:09Z | Null | https://github.com/cpuu/Kernel-Fuzzing-Papers | 0 | 0| 
 | 20211116T00:36:45Z | Null | https://github.com/olvrti/fuzzyenigma | 0 | 0| 
