@@ -142,16 +142,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211116T02:37:03Z | Fuzz language model that used chatbot | https://github.com/ksjr7-crongcrong/chatbot_fuzzer | 0 | 1| 
-| 20211116T02:12:02Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6818 | 1421| 
-| 20211116T01:27:25Z | A Haskell implementation of Fuzzy Identity Based Encryption modified to work over asymmetric bilinear pairing | https://github.com/octeep/fuzzyibe | 0 | 0| 
-| 20211116T01:15:56Z | A Software Package for Fuzzing Autonomous Driving Systems in Simulators | https://github.com/AIasd/ADFuzz | 0 | 0| 
-| 20211116T01:02:55Z | Dev aprendendo | https://github.com/Clarafagundes/colher-fuzzy | 0 | 0| 
-| 20211116T00:59:09Z | Null | https://github.com/cpuu/Kernel-Fuzzing-Papers | 0 | 0| 
-| 20211116T00:36:45Z | Null | https://github.com/olvrti/fuzzyenigma | 0 | 0| 
-| 20211115T23:25:30Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2438 | 150| 
-| 20211115T22:37:54Z | An investigation of three fuzzers: American Fuzzy Lop++ (AFL), Honggfuzz, and Radamsa | https://github.com/hark130/hardy-remix | 0 | 0| 
-| 20211115T22:35:46Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20211116T12:53:32Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 596 | 62| 
+| 20211116T12:52:17Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20211116T12:50:07Z | Black-box fuzzer that fuzzes APIs based on OpenAPI specification. Find bugs for free! | https://github.com/matusf/openapi-fuzzer | 217 | 2| 
+| 20211116T12:36:09Z | Null | https://github.com/honorke/FUZZ | 0 | 0| 
+| 20211116T12:28:27Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1170 | 136| 
+| 20211116T12:21:53Z | With this project, I want to make a blending between Persevere and taPCT. The idea is to find bugs in large amounts of concurrent threading instruction. For that we will first try and identify with this tool some known bugs from emac versions that were not yet corrected. We first model the system call as a set of events and then apply the taPCT algorithm. Later on, we can use fuzzing to give larger system call sequences to our probabilistic scheduling algorithm.  | https://github.com/Ricagraca/taPPCT | 0 | 0| 
+| 20211116T12:02:16Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 36 | 12| 
+| 20211116T11:57:43Z | OSS-Sydr-Fuzz - OSS-Fuzz fork for hybrid fuzzing (fuzzer+DSE) open source software. | https://github.com/ispras/oss-sydr-fuzz | 5 | 1| 
+| 20211116T10:52:44Z | Fuzzing test for TINET | https://github.com/toppers/TINETFuzzer | 0 | 0| 
+| 20211116T10:38:31Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3780 | 890| 
 
 
 
