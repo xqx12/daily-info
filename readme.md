@@ -63,6 +63,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211116T13:11:23Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 51 | 15| 
 | 20211116T12:20:59Z | Website Shell BackDoors | https://github.com/7r0j4ncodeing/Web-Shells | 23 | 6| 
 | 20211116T09:43:23Z | Using Github Action to build, 100% Safety. No any backdoor. | https://github.com/huangguiniab/lwjgl-backports | 0 | 0| 
 | 20211116T09:02:09Z | Unofficial pytorch implementation of RobNet(Defense-Resistant Backdoor Attacks on DNN) | https://github.com/dhkim2810/RobNet | 0 | 0| 
@@ -72,7 +73,6 @@
 | 20211116T04:51:30Z | High School project that utilizes python machine learning algorithm to find malicious backdoor programs on a Linux system | https://github.com/MizuBon/mlDoora | 0 | 0| 
 | 20211116T02:42:10Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 361 | 63| 
 | 20211116T01:34:47Z | Codebase for my Level 4 University Project: Static Analysis of Executable Code to Detect Backdoors on IoT Devices | https://github.com/sophieboyle/Static-IoT-Backdoor-Detection | 0 | 0| 
-| 20211116T00:23:14Z | Backdoor en fase de desarrollo | https://github.com/est0800/Backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -91,6 +91,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211116T13:15:02Z | methods construction membership function of fuzzy sets | https://github.com/Lucky2Bomb/app-fuzzy-sets | 0 | 0| 
 | 20211116T13:08:49Z | Black-box fuzzer that fuzzes APIs based on OpenAPI specification. Find bugs for free! | https://github.com/matusf/openapi-fuzzer | 218 | 2| 
 | 20211116T12:53:32Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 596 | 62| 
 | 20211116T12:52:17Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
@@ -100,7 +101,6 @@
 | 20211116T12:02:16Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 36 | 12| 
 | 20211116T11:57:43Z | OSS-Sydr-Fuzz - OSS-Fuzz fork for hybrid fuzzing (fuzzer+DSE) open source software. | https://github.com/ispras/oss-sydr-fuzz | 5 | 1| 
 | 20211116T10:52:44Z | Fuzzing test for TINET | https://github.com/toppers/TINETFuzzer | 0 | 0| 
-| 20211116T10:38:31Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3780 | 890| 
 
 
 
