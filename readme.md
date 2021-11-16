@@ -89,7 +89,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20211115T23:25:30Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2438 | 150| 
-| 20211115T23:24:52Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6817 | 1421| 
 | 20211115T22:37:54Z | An investigation of three fuzzers: American Fuzzy Lop++ (AFL), Honggfuzz, and Radamsa | https://github.com/hark130/hardy-remix | 0 | 0| 
 | 20211115T22:35:46Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211115T21:49:41Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 7 | 0| 
@@ -98,6 +97,7 @@
 | 20211115T20:13:32Z | Structured Kernel Ioctl Driver Fuzzer | https://github.com/luke-goddard/skid | 2 | 0| 
 | 20211115T20:09:05Z | Null | https://github.com/slashsec-edu/fuzz-target | 0 | 0| 
 | 20211115T19:57:50Z | Prints the current time in a more casual way (the %ten past six%-style). | https://github.com/kamwitsta/fuzzytime | 3 | 0| 
+| 20211115T19:48:27Z | A website domain fuzzer written in python 3.8.x | https://github.com/DuckyPL/Pydirbuster | 0 | 0| 
 
 
 

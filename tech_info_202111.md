@@ -142,13 +142,13 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211116T02:12:02Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6818 | 1421| 
 | 20211116T01:27:25Z | A Haskell implementation of Fuzzy Identity Based Encryption modified to work over asymmetric bilinear pairing | https://github.com/octeep/fuzzyibe | 0 | 0| 
 | 20211116T01:15:56Z | A Software Package for Fuzzing Autonomous Driving Systems in Simulators | https://github.com/AIasd/ADFuzz | 0 | 0| 
 | 20211116T01:02:55Z | Dev aprendendo | https://github.com/Clarafagundes/colher-fuzzy | 0 | 0| 
 | 20211116T00:59:09Z | Null | https://github.com/cpuu/Kernel-Fuzzing-Papers | 0 | 0| 
 | 20211116T00:36:45Z | Null | https://github.com/olvrti/fuzzyenigma | 0 | 0| 
 | 20211115T23:25:30Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2438 | 150| 
-| 20211115T23:24:52Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6817 | 1421| 
 | 20211115T22:37:54Z | An investigation of three fuzzers: American Fuzzy Lop++ (AFL), Honggfuzz, and Radamsa | https://github.com/hark130/hardy-remix | 0 | 0| 
 | 20211115T22:35:46Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211115T21:49:41Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 7 | 0| 
