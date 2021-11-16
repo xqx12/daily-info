@@ -89,7 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211116T13:35:51Z | Null | https://github.com/Keyvanhardani/Wordpress-Plugin-Smart-Product-Review-Exploit | 0 | 0| 
+| 20211116T13:36:51Z | Null | https://github.com/Keyvanhardani/Wordpress-Plugin-Smart-Product-Review-Exploit | 0 | 0| 
 | 20211116T13:17:03Z | The audio-video synchronization of MKV Container Format is exploited to achieve data hiding, where the hidden data can be utilized for various management purposes, including hyper-linking, annotation, and authentication | https://github.com/maximzaika/Data-Hiding-in-MKV-Container-Format | 0 | 0| 
 | 20211116T13:03:17Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211116T12:48:12Z | Jackson old vulneurability reprodicuing code. Just used for studing the deserialization vulneurability | https://github.com/puthusseri/JacksonDeserializationExploit | 0 | 0| 
