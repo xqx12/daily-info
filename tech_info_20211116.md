@@ -48,6 +48,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211116T13:33:10Z | Null | https://github.com/Keyvanhardani/Wordpress-Plugin-Smart-Product-Review-Exploit | 0 | 0| 
 | 20211116T13:17:03Z | The audio-video synchronization of MKV Container Format is exploited to achieve data hiding, where the hidden data can be utilized for various management purposes, including hyper-linking, annotation, and authentication | https://github.com/maximzaika/Data-Hiding-in-MKV-Container-Format | 0 | 0| 
 | 20211116T13:03:17Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211116T12:48:12Z | Jackson old vulneurability reprodicuing code. Just used for studing the deserialization vulneurability | https://github.com/puthusseri/JacksonDeserializationExploit | 0 | 0| 
@@ -57,7 +58,6 @@
 | 20211116T11:49:57Z | Examples of Binary Exploitations - Buffer Overflow, Return-Oriented Programming and Format String | https://github.com/pikulet/mem-attacks-example | 2 | 1| 
 | 20211116T11:48:35Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 87 | 13| 
 | 20211116T11:36:46Z | Firmware patcher for Xiaomi routers | https://github.com/openwrt-xiaomi/xmir-patcher | 3 | 0| 
-| 20211116T11:35:16Z | Detect common exploits | https://github.com/StarTux/Exploits | 1 | 0| 
 
 
 # backdoor on Github 推荐
@@ -93,9 +93,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211116T13:33:47Z | Black-box fuzzer that fuzzes APIs based on OpenAPI specification. Find bugs for free! | https://github.com/matusf/openapi-fuzzer | 219 | 2| 
 | 20211116T13:25:33Z | Companion repository to the Fuzzing101 with LibAFL series of blog posts. | https://github.com/epi052/fuzzing-101-solutions | 16 | 3| 
 | 20211116T13:15:02Z | methods construction membership function of fuzzy sets | https://github.com/Lucky2Bomb/app-fuzzy-sets | 0 | 0| 
-| 20211116T13:08:49Z | Black-box fuzzer that fuzzes APIs based on OpenAPI specification. Find bugs for free! | https://github.com/matusf/openapi-fuzzer | 218 | 2| 
 | 20211116T12:53:32Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 596 | 62| 
 | 20211116T12:52:17Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211116T12:36:09Z | Null | https://github.com/honorke/FUZZ | 0 | 0| 
