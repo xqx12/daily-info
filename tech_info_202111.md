@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211116T01:50:35Z | CVE-2021-22205 | GitLab CE/EE Preauth RCE using ExifTool | https://github.com/inspiringz/CVE-2021-22205 | | 
+| 20211116T01:57:15Z | CVE-2021-22205 | GitLab CE/EE Preauth RCE using ExifTool | https://github.com/inspiringz/CVE-2021-22205 | | 
 | 20211115T11:10:36Z | CVE-2021-20837 | XMLRPC  - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | | 
 | 20211115T09:17:59Z | CVE-2020-2883 | POC for CVE-2020-2883 | https://github.com/Qynklee/POC_CVE-2020-2883 | | 
 | 20211115T09:16:28Z | CVE-2020-2555 | poc for CVE-2020-2555 | https://github.com/Qynklee/POC_CVE-2020-2555 | | 
