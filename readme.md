@@ -94,8 +94,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211116T13:44:20Z | Black-box fuzzer that fuzzes APIs based on OpenAPI specification. Find bugs for free! | https://github.com/matusf/openapi-fuzzer | 220 | 2| 
 | 20211116T13:36:26Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20211116T13:33:47Z | Black-box fuzzer that fuzzes APIs based on OpenAPI specification. Find bugs for free! | https://github.com/matusf/openapi-fuzzer | 219 | 2| 
 | 20211116T13:25:33Z | Companion repository to the Fuzzing101 with LibAFL series of blog posts. | https://github.com/epi052/fuzzing-101-solutions | 16 | 3| 
 | 20211116T13:15:02Z | methods construction membership function of fuzzy sets | https://github.com/Lucky2Bomb/app-fuzzy-sets | 0 | 0| 
 | 20211116T12:53:32Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 596 | 62| 
