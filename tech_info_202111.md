@@ -89,7 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211116T13:47:45Z | Null | https://github.com/Calvindd2f/exploits | 0 | 0| 
+| 20211116T13:49:39Z | Null | https://github.com/Calvindd2f/exploits | 0 | 0| 
 | 20211116T13:44:30Z | for exploiting vulns in roblox games | https://github.com/ghostapustaja/legionhub | 0 | 0| 
 | 20211116T13:36:51Z | Null | https://github.com/Keyvanhardani/Wordpress-Plugin-Smart-Product-Review-Exploit | 0 | 0| 
 | 20211116T13:17:03Z | The audio-video synchronization of MKV Container Format is exploited to achieve data hiding, where the hidden data can be utilized for various management purposes, including hyper-linking, annotation, and authentication | https://github.com/maximzaika/Data-Hiding-in-MKV-Container-Format | 0 | 0| 
