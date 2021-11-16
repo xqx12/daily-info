@@ -104,6 +104,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211116T13:52:58Z | Shell script framework to get access to the lowest level assembly of an application | https://github.com/sambhavsaxena/cyberbogisnullified | 0 | 0| 
 | 20211116T13:11:23Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 51 | 15| 
 | 20211116T12:20:59Z | Website Shell BackDoors | https://github.com/7r0j4ncodeing/Web-Shells | 23 | 6| 
 | 20211116T09:43:23Z | Using Github Action to build, 100% Safety. No any backdoor. | https://github.com/huangguiniab/lwjgl-backports | 0 | 0| 
@@ -113,7 +114,6 @@
 | 20211116T05:28:48Z | Allowing server admins to backdoor their own server! | https://github.com/awesomemoder316/DiscordBackdoorBot | 1 | 0| 
 | 20211116T04:51:30Z | High School project that utilizes python machine learning algorithm to find malicious backdoor programs on a Linux system | https://github.com/MizuBon/mlDoora | 0 | 0| 
 | 20211116T02:42:10Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 361 | 63| 
-| 20211116T01:34:47Z | Codebase for my Level 4 University Project: Static Analysis of Executable Code to Detect Backdoors on IoT Devices | https://github.com/sophieboyle/Static-IoT-Backdoor-Detection | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
