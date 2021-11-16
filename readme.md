@@ -24,7 +24,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211116T11:16:28Z | CVE-2020-0787 | CVE-2020-0787的简单回显 | https://github.com/yanghaoi/CVE-2020-0787 | | 
+| 20211116T13:39:06Z | CVE-2020-0787 | CVE-2020-0787的简单回显 | https://github.com/yanghaoi/CVE-2020-0787 | | 
 | 20211116T09:08:28Z | CVE-2021-22205 | GitLab CE/EE Preauth RCE using ExifTool | https://github.com/inspiringz/CVE-2021-22205 | | 
 | 20211116T04:19:42Z | CVE-2021-20837 | XMLRPC  - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | | 
 
