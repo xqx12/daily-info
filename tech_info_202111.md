@@ -142,16 +142,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211115T14:11:18Z | Null | https://github.com/PaulPextra/fuzzy-disco | 0 | 0| 
-| 20211115T14:09:26Z | Tests for Fuzzy Numbers task for JNP at University of Warsaw | https://github.com/tudny/JNP-FuzzyTests | 0 | 0| 
-| 20211115T14:02:06Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20211115T13:57:09Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2437 | 150| 
-| 20211115T13:44:12Z | A fuzzy inference system created entirely in MATLAB that could serve as an assisting software to help a Volleyball%s coach determine the best players for their team. | https://github.com/lukaszpszonak/FuzzyInferenceSystem_VolleyballCoachAssistantSystem | 0 | 0| 
-| 20211115T13:20:40Z | Null | https://github.com/idylicaro/Fuzzy-Logic-Exercise | 0 | 0| 
-| 20211115T13:15:58Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 596 | 62| 
-| 20211115T13:05:29Z | A patched QEMU that exposes an interface for LibAFL-based fuzzers | https://github.com/AFLplusplus/qemu-libafl-bridge | 19 | 2| 
-| 20211115T12:57:16Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 360 | 30| 
-| 20211115T12:41:26Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2204 | 431| 
+| 20211116T01:02:55Z | Dev aprendendo | https://github.com/Clarafagundes/colher-fuzzy | 0 | 0| 
+| 20211116T00:59:09Z | Null | https://github.com/cpuu/Kernel-Fuzzing-Papers | 0 | 0| 
+| 20211116T00:55:57Z | A Software Package for Fuzzing Autonomous Driving Systems in Simulators | https://github.com/AIasd/ADFuzz | 0 | 0| 
+| 20211116T00:36:45Z | Null | https://github.com/olvrti/fuzzyenigma | 0 | 0| 
+| 20211115T23:25:30Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2438 | 150| 
+| 20211115T23:24:52Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6817 | 1421| 
+| 20211115T22:37:54Z | An investigation of three fuzzers: American Fuzzy Lop++ (AFL), Honggfuzz, and Radamsa | https://github.com/hark130/hardy-remix | 0 | 0| 
+| 20211115T22:35:46Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20211115T21:49:41Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 7 | 0| 
+| 20211115T21:48:47Z | Null | https://github.com/kallistoteles/fuzzy_navigation | 0 | 0| 
 
 
 
