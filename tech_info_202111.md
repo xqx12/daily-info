@@ -104,6 +104,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211116T02:42:10Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 361 | 63| 
 | 20211116T01:34:47Z | Codebase for my Level 4 University Project: Static Analysis of Executable Code to Detect Backdoors on IoT Devices | https://github.com/sophieboyle/Static-IoT-Backdoor-Detection | 0 | 0| 
 | 20211116T00:23:14Z | Backdoor en fase de desarrollo | https://github.com/est0800/Backdoor | 0 | 0| 
 | 20211115T21:55:21Z | Lite version of my Gatekeeper backdoor for public use. | https://github.com/dievus/GatekeeperLite | 49 | 8| 
@@ -113,7 +114,6 @@
 | 20211115T09:23:18Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 50 | 15| 
 | 20211115T05:12:38Z | Hidden backdoor attack on NLP systems | https://github.com/lishaofeng/NLP_Backdoor | 25 | 6| 
 | 20211115T01:10:26Z | Null | https://github.com/PiterIvano/BackDoor | 0 | 0| 
-| 20211114T21:12:13Z | The code for: Detecting Backdoors in Black-box Neural Networks via Adversarial Extreme Value Analysis | https://github.com/aeva-backdoor-deteciton/Aeva-Blackbox-Backdoor-Detection | 2 | 0| 
 
 
 # symbolic execution on Github 推荐
