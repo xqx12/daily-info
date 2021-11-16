@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211116T02:26:33Z | framework scan web. Team MSEC | https://github.com/asdcxsd/MTA-Exploit-Framework | 0 | 0| 
 | 20211116T02:18:14Z | Class project for EECS583: Advanced Compilers: Evolutionary Optimization of Compiler Flag Selection by Learning and Exploiting Flags Interactions.  | https://github.com/batuhanakcay/evo-optim-flags | 0 | 0| 
 | 20211116T02:03:32Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211116T01:50:20Z | I developed all DVWA exploit of the Low security level in bash and python . I will upload the others level as soon as possible | https://github.com/AHLASaad/DVWA_Exploit_Development | 0 | 0| 
@@ -98,7 +99,6 @@
 | 20211116T00:48:32Z | [Roblox] Downtown RP ESP (Gun Crates, Printers) -- genta | https://github.com/subn0de/Roblox_Exploits | 0 | 0| 
 | 20211116T00:22:01Z | This made by Mrbacongaming | https://github.com/MrBacongaming/LexPloit-Exploit | 0 | 0| 
 | 20211115T23:54:36Z | Build a local copy of Known Exploited Vulnerabilities Catalog by CISA. Server mode for easy querying.  | https://github.com/MaineK00n/go-kev | 1 | 0| 
-| 20211115T23:29:03Z | Null | https://github.com/pwn4all/exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
