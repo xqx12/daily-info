@@ -142,6 +142,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211116T01:11:33Z | Null | https://github.com/octeep/fuzzyibe | 0 | 0| 
 | 20211116T01:02:55Z | Dev aprendendo | https://github.com/Clarafagundes/colher-fuzzy | 0 | 0| 
 | 20211116T00:59:09Z | Null | https://github.com/cpuu/Kernel-Fuzzing-Papers | 0 | 0| 
 | 20211116T00:55:57Z | A Software Package for Fuzzing Autonomous Driving Systems in Simulators | https://github.com/AIasd/ADFuzz | 0 | 0| 
@@ -151,7 +152,6 @@
 | 20211115T22:37:54Z | An investigation of three fuzzers: American Fuzzy Lop++ (AFL), Honggfuzz, and Radamsa | https://github.com/hark130/hardy-remix | 0 | 0| 
 | 20211115T22:35:46Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211115T21:49:41Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 7 | 0| 
-| 20211115T21:48:47Z | Null | https://github.com/kallistoteles/fuzzy_navigation | 0 | 0| 
 
 
 
