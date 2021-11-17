@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211117T02:39:06Z | cve-2020-35314 | cve-2020-35314,一个带phpcode的zip文件 | https://github.com/ybdegit2020/cve-2020-35314-wonderplugin | | 
 | 20211116T20:42:27Z | CVE-2021-41773 | Null | https://github.com/kubota/POC-CVE-2021-41773 | | 
 | 20211116T17:40:09Z | CVE-2021-21551 | arbitrary kernel read/write in dbutil_2_3.sys, Proof of Concept Local Privilege Escalation to nt authority/system | https://github.com/mathisvickie/CVE-2021-21551 | | 
 | 20211116T17:30:51Z | cve-2020-28653 | Null | https://github.com/intrigueio/cve-2020-28653-poc | | 
@@ -55,7 +56,6 @@
 | 20211115T09:17:59Z | CVE-2020-2883 | POC for CVE-2020-2883 | https://github.com/Qynklee/POC_CVE-2020-2883 | | 
 | 20211115T09:16:28Z | CVE-2020-2555 | poc for CVE-2020-2555 | https://github.com/Qynklee/POC_CVE-2020-2555 | | 
 | 20211115T05:40:13Z | CVE-2021-43616 | Repo demonstrating CVE-2021-43616 / https://github.com/npm/cli/issues/2701 | https://github.com/icatalina/CVE-2021-43616 | | 
-| 20211115T03:05:44Z | cve-2021-22205 | Null | https://github.com/ahmad4fifz/docker-cve-2021-22205 | | 
 
 
 # klee on Github 推荐
@@ -105,6 +105,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211117T02:39:19Z | Lite version of my Gatekeeper backdoor for public use. | https://github.com/dievus/GatekeeperLite | 52 | 8| 
 | 20211117T00:43:39Z | Backdoor en fase de desarrollo | https://github.com/est0800/Backdoor | 0 | 0| 
 | 20211117T00:40:39Z | Codebase for my Level 4 University Project: Static Analysis of Executable Code to Detect Backdoors on IoT Devices | https://github.com/sophieboyle/Static-IoT-Backdoor-Detection | 0 | 0| 
 | 20211116T17:30:35Z | A really complete python backdoor and handler | https://github.com/P3rs3ph0ne/Pheonix | 0 | 0| 
@@ -114,7 +115,6 @@
 | 20211116T12:20:59Z | Website Shell BackDoors | https://github.com/7r0j4ncodeing/Web-Shells | 23 | 6| 
 | 20211116T09:43:23Z | Using Github Action to build, 100% Safety. No any backdoor. | https://github.com/huangguiniab/lwjgl-backports | 0 | 0| 
 | 20211116T09:02:09Z | Unofficial pytorch implementation of RobNet(Defense-Resistant Backdoor Attacks on DNN) | https://github.com/dhkim2810/RobNet | 0 | 0| 
-| 20211116T08:09:15Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1497 | 372| 
 
 
 # symbolic execution on Github 推荐
