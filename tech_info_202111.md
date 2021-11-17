@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211117T02:48:15Z | Roblox Exploit Scripts by simulatorwinner#5864 | https://github.com/simulatorwinner/scripts | 0 | 0| 
 | 20211117T02:30:10Z | Multiple game utilities to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 126 | 301| 
 | 20211117T02:17:24Z | fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | 0 | 0| 
 | 20211117T02:03:28Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
@@ -99,7 +100,6 @@
 | 20211117T01:22:59Z | Exploit do 3DS que acessa o nds-bootstrap do firmware DSi | https://github.com/Nintendo-Homebrew/Seedminer | 0 | 0| 
 | 20211116T23:23:35Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 103 | 37| 
 | 20211116T23:06:20Z | [Roblox] Downtown RP ESP (Gun Crates, Printers) -- genta | https://github.com/subn0de/Roblox_Exploits | 0 | 0| 
-| 20211116T22:58:19Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 8495 | 1463| 
 
 
 # backdoor on Github 推荐
@@ -143,12 +143,12 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211117T02:47:48Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6820 | 1422| 
 | 20211117T02:40:11Z | fuzzing101 笔记 | https://github.com/xxg1413/fuzzing-101-solutions | 0 | 0| 
 | 20211117T02:25:49Z | Null | https://github.com/DannyyJohnston/fuzzy-invention | 0 | 0| 
 | 20211117T02:20:33Z | Next-gen Rowhammer fuzzer that uses non-uniform, frequency-based patterns. | https://github.com/comsec-group/blacksmith | 78 | 5| 
 | 20211117T02:16:15Z | Automate all tasks that could be automated in penetration testing and bug hunting from recon to fuzzing you can take a look at used tools | https://github.com/omarhashem123/reconcaner-framework | 0 | 0| 
 | 20211117T01:18:26Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
-| 20211117T01:13:18Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6820 | 1422| 
 | 20211117T00:53:41Z | Null | https://github.com/coder6711/fuzzy-octo-telegram | 0 | 0| 
 | 20211117T00:34:29Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2439 | 149| 
 | 20211117T00:08:36Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 36 | 12| 
