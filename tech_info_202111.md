@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211117T02:00:25Z | Multiple game utilities to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 125 | 300| 
 | 20211117T01:50:47Z | A collection of write ups on how I solved each exploit challenge on Exploit Education | https://github.com/dyllan500/Exploit-Education-Write-Up | 0 | 0| 
 | 20211117T01:45:14Z | A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization. | https://github.com/frohoff/ysoserial | 4658 | 1328| 
 | 20211117T01:36:43Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 359 | 55| 
@@ -99,7 +100,6 @@
 | 20211116T23:06:20Z | [Roblox] Downtown RP ESP (Gun Crates, Printers) -- genta | https://github.com/subn0de/Roblox_Exploits | 0 | 0| 
 | 20211116T22:58:19Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 8495 | 1463| 
 | 20211116T22:55:17Z | Projet système exploitation P18M groupe 1 (Arnaud/Vincent/Frederic/Claude) | https://github.com/Claudio4813/Reveil_berry | 0 | 0| 
-| 20211116T22:55:07Z | Null | https://github.com/EtienneWarneck/m8-post-exploitation-windowsvm | 0 | 0| 
 
 
 # backdoor on Github 推荐
