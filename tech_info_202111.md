@@ -120,6 +120,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211117T13:18:56Z | Symbolica%s open-source symbolic execution engine. | https://github.com/Symbolica/Symbolica | 42 | 2| 
 | 20211117T13:14:07Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2536 | 375| 
 | 20211117T09:56:28Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1820 | 520| 
 | 20211117T05:55:58Z | Angora is a mutation-based fuzzer.  The main goal of Angora is to increase branch coverage by solving path constraints without symbolic execution.  | https://github.com/AngoraFuzzer/Angora | 725 | 135| 
@@ -129,7 +130,6 @@
 | 20211116T13:52:29Z | A tool for generating nonlinear numerical invariants for C and Java programs.  DIG uses dynamic analysis to infer invariants over program execution traces and applies symbolic execution to inferred invariants. | https://github.com/unsat/dig | 9 | 4| 
 | 20211116T13:39:56Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 165 | 37| 
 | 20211116T09:57:58Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 183 | 39| 
-| 20211116T04:45:20Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 10 | 4| 
 
 
 # big4 on Github 推荐

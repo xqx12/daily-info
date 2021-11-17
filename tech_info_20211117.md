@@ -80,6 +80,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211117T13:18:56Z | Symbolica%s open-source symbolic execution engine. | https://github.com/Symbolica/Symbolica | 42 | 2| 
 | 20211117T13:14:07Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2536 | 375| 
 | 20211117T09:56:28Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1820 | 520| 
 | 20211117T05:55:58Z | Angora is a mutation-based fuzzer.  The main goal of Angora is to increase branch coverage by solving path constraints without symbolic execution.  | https://github.com/AngoraFuzzer/Angora | 725 | 135| 
