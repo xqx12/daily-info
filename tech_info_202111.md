@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211117T01:36:43Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 359 | 55| 
 | 20211117T01:22:59Z | Exploit do 3DS que acessa o nds-bootstrap do firmware DSi | https://github.com/Nintendo-Homebrew/Seedminer | 0 | 0| 
 | 20211117T01:20:43Z | A collection of write ups on how I solved each exploit challenge on Exploit Education | https://github.com/dyllan500/Exploit-Education-Write-Up | 0 | 0| 
 | 20211117T01:03:11Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
@@ -99,7 +100,6 @@
 | 20211116T22:58:19Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 8495 | 1463| 
 | 20211116T22:55:17Z | Projet système exploitation P18M groupe 1 (Arnaud/Vincent/Frederic/Claude) | https://github.com/Claudio4813/Reveil_berry | 0 | 0| 
 | 20211116T22:55:07Z | Null | https://github.com/EtienneWarneck/m8-post-exploitation-windowsvm | 0 | 0| 
-| 20211116T22:39:46Z | neo Tool is great one in binary exploitation topic. instead of doing several missions by many tools and windows, you can now automate this in one tool in one session.. Enjoy it | https://github.com/hamza07-w/neo-bof | 1 | 0| 
 
 
 # backdoor on Github 推荐
