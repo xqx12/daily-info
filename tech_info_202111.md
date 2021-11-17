@@ -6,6 +6,16 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20211117 | 编译 AFL++ 时包含 QEMU 支持以便在 Android 设备上直接 Fuzz Android 二进制 | https://alephsecurity.com/2021/11/16/fuzzing-qemu-android/| 
+| 20211117 | TensorFlow 存在一处参数处理不当导致代码注入漏洞 | https://jfrog.com/blog/tensorflow-python-code-injection-more-eval-woes/| 
+| 20211117 | Detecting a Container Escape with Cilium and eBPF | http://isovalent.com/blog/post/2021-11-container-escape| 
+| 20211117 | 2020 年夏天，阿布扎比伊朗使馆网站被注入水坑攻击脚本 | https://www.welivesecurity.com/2021/11/16/strategic-web-compromises-middle-east-pinch-candiru/| 
+| 20211117 | SLUB overflow CVE-2021-42327 | https://docfate111.github.io/blog/securityresearch/2021/11/08/SLUBoverflow.html| 
+| 20211117 | 利用 Python Selenium 绕过 Google 的 reCaptcha V3 的验证码 | https://medium.com/analytics-vidhya/how-to-bypass-recaptcha-v3-with-selenium-python-7e71c1b680fc| 
+| 20211117 | Intel CPU 被发现新漏洞，物理接触情况下可以给 CPU 芯片安装恶意固件，影响 Bitlocker、DRM 相关保护 | https://arstechnica.com/gadgets/2021/11/intel-releases-patch-for-high-severity-bug-that-exposes-a-cpus-master-key/| 
+| 20211117 | Open-source LMS Chamilo 和 Moodle 被发现多个漏洞 | https://starlabs.sg/blog/2021/11/diving-into-open-source-lms-codebases/| 
+| 20211117 | 容器实现背后的 Linux Namespaces 进程隔离技术分析 | http://blog.quarkslab.com/digging-into-linux-namespaces-part-1.html| 
+| 20211117 | 攻击者利用 Domain Fronting 技术重定向缅甸政府网站流量 | https://sec.today/pulses/c1d7c8ac-6032-4c22-9b14-acb04621d149/| 
 | 20211116 | Checkpoint 对 MosesStaff 组织定向攻击以色列公司的分析 | http://research.checkpoint.com/2021/mosesstaff-targeting-israeli-companies/| 
 | 20211116 | POC2021 – Pwning the Windows 10 Kernel with NFTS and WNF | http://research.nccgroup.com/2021/11/15/poc2021-pwning-the-windows-10-kernel-with-nfts-and-wnf-slides/| 
 | 20211116 | T-Reqs: A grammar-based HTTP Fuzzer | https://github.com/bahruzjabiyev/t-reqs-http-fuzzer| 
@@ -16,21 +26,13 @@
 | 20211116 | 有团队研究发现，31% 的 PC-DDR4 内存仍然存在 Rowhammer 漏洞 | https://comsec.ethz.ch/research/dram/blacksmith/| 
 | 20211116 | Fuzzing101 with LibAFL - Part I.V: Speed Improvements to Part I . | https://epi052.gitlab.io/notes-to-self/blog/2021-11-07-fuzzing-101-with-libafl-part-1.5/| 
 | 20211115 | 浅谈利用codeql进行java代码审计分析（1） | https://tttang.com/archive/1322/| 
-| 20211114 | macOS/iOS 安全方向的漏洞分析文章整理 | https://github.com/houjingyi233/macOS-iOS-system-security| 
-| 20211114 | Fuzzware: Using Precise MMIO Modeling for Effective Firmware Fuzzing（Paper） | http://www.usenix.org/conference/usenixsecurity22/presentation/scharnowski| 
-| 20211114 | Fuzzing Microsofts RDP Client using Virtual Channels: Overview & Methodology | https://thalium.github.io/blog/posts/fuzzing-microsoft-rdp-client-using-virtual-channels/| 
-| 20211114 | Pwn2Own 2021 比赛 Alisa Esage 所使用的 Parallels Desktop 漏洞的分析 | http://zerodayengineering.com/projects/slides/ZDE2021_AdvancedSimplePwn2Own2021.pdf| 
-| 20211114 | 国家网信办发布关于《网络数据安全管理条例（征求意见稿）》公开征求意见的通知 | https://news.sina.com.cn/gov/2021-11-15/doc-iktzscyy5579466.shtml| 
-| 20211114 | 移动安全对抗之 App 加固 | https://github.com/su-vikas/Presentations/blob/main/Sincon2021.MobileAppHardeningRE.pdf| 
-| 20211114 | The Art of Exploiting UAF by Ret2bpf in Android Kernel | https://i.blackhat.com/EU-21/Wednesday/EU-21-Jin-The-Art-of-Exploiting-UAF-by-Ret2bpf-in-Android-Kernel.pdf| 
-| 20211114 | 文件类型识别工具 | https://github.com/horsicq/Detect-It-Easy| 
-| 20211114 | Exploiting CSP in Webkit to Break Authentication & Authorization | https://threatnix.io/blog/exploiting-csp-in-webkit-to-break-authentication-authorization/| 
-| 20211114 | GitOops - 滥用 CI/CD pipelines 检测 GitHub organizations 横向渗透 | https://github.com/ovotech/gitoops| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20211117 | 三个开源 C&C 框架的流量检测 | https://mp.weixin.qq.com/s/aRTiWvy93tKMy6tseBOxzw| 
+| 20211117 | 行为测绘应用实战 一网打尽 Trickbot C2 | https://mp.weixin.qq.com/s/cCXt6FUEYGd6s9cg5VFN0Q| 
 | 20211116 | Vulnhub-vulncms | https://www.sec-in.com/article/1116| 
 | 20211116 | 一份硬核(hardcore)计算机科学CS自学计划 | https://github.com/spring2go/cs_study_plan| 
 | 20211115 | 如何利用 r2diaphora 判断样本相似性 | https://mp.weixin.qq.com/s/IRPhscsoFe7_O-LrpBSIww| 
@@ -39,37 +41,35 @@
 | 20211114 | 学习和使用知识图谱需要知道的一些事情 | https://zhuanlan.zhihu.com/p/433073550| 
 | 20211114 | CTF OSINT题型解题技巧分享 | https://www.anquanke.com/post/id/258632| 
 | 20211114 | 攻击推理-如何利用威胁情报报告生成可用攻击子图 | http://blog.nsfocus.net/ioc-cti/| 
-| 20211114 | 深入理解Java代码审计 | https://github.com/0e0w/HackJava| 
-| 20211114 | 基于攻击路径图的网络攻击路径预测方法 | https://mp.weixin.qq.com/s/6rj-MLSGpCki54KYNA1Qlg| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211117T12:46:40Z | CVE-2021-525 | D-Link credentials decryption tool poc | https://github.com/full-disclosure/FDEU-CVE-2021-525A | | 
+| 20211117T11:53:41Z | CVE-2021-37580 | Null | https://github.com/rabbitsafe/CVE-2021-37580 | | 
+| 20211117T11:37:31Z | CVE-2020-0787 | CVE-2020-0787的简单回显 | https://github.com/yanghaoi/CVE-2020-0787 | | 
 | 20211117T02:45:28Z | cve-2020-35314 | cve-2020-35314,一个带phpcode的zip文件 | https://github.com/ybdegit2020/cve-2020-35314-wonderplugin | | 
 | 20211116T20:42:27Z | CVE-2021-41773 | Null | https://github.com/kubota/POC-CVE-2021-41773 | | 
 | 20211116T17:40:09Z | CVE-2021-21551 | arbitrary kernel read/write in dbutil_2_3.sys, Proof of Concept Local Privilege Escalation to nt authority/system | https://github.com/mathisvickie/CVE-2021-21551 | | 
 | 20211116T17:30:51Z | cve-2020-28653 | Null | https://github.com/intrigueio/cve-2020-28653-poc | | 
-| 20211116T13:39:06Z | CVE-2020-0787 | CVE-2020-0787的简单回显 | https://github.com/yanghaoi/CVE-2020-0787 | | 
 | 20211116T09:08:28Z | CVE-2021-22205 | GitLab CE/EE Preauth RCE using ExifTool | https://github.com/inspiringz/CVE-2021-22205 | | 
 | 20211116T04:19:42Z | CVE-2021-20837 | XMLRPC  - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | | 
 | 20211115T09:17:59Z | CVE-2020-2883 | POC for CVE-2020-2883 | https://github.com/Qynklee/POC_CVE-2020-2883 | | 
-| 20211115T09:16:28Z | CVE-2020-2555 | poc for CVE-2020-2555 | https://github.com/Qynklee/POC_CVE-2020-2555 | | 
-| 20211115T05:40:13Z | CVE-2021-43616 | Repo demonstrating CVE-2021-43616 / https://github.com/npm/cli/issues/2701 | https://github.com/icatalina/CVE-2021-43616 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211116T20:18:12Z | CLI and HTTP application for running static analysis of rust-based smart contracts | https://github.com/LedgerProject/safepkt_backend | 0 | 1| 
+| 20211117T11:12:19Z | Personal Blog | https://github.com/klee1611/klee1611.github.io | 1 | 1| 
+| 20211117T09:56:28Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1820 | 520| 
+| 20211117T09:39:54Z | Research paper On The Termination of Borrow Checking for Rust and a web application, CLI application and VSCode extension for running static analysis of rust-based smart contracts with a ready-to-be-verified project example. | https://github.com/LedgerProject/safepkt | 0 | 1| 
+| 20211117T09:08:43Z | CLI and HTTP application for running static analysis of rust-based smart contracts | https://github.com/LedgerProject/safepkt_backend | 0 | 1| 
+| 20211117T06:43:50Z | Spring 2021 Geography 817 work folder  | https://github.com/klee12/klee12.github.io | 0 | 0| 
 | 20211116T20:12:41Z | Minecraft Mod. Allows breaking only one half of a double slab block. | https://github.com/ModdingForBlockheads/KleeSlabs | 10 | 3| 
-| 20211116T20:09:18Z | Research paper On The Termination of Borrow Checking for Rust and a web application, CLI application and VSCode extension for running static analysis of rust-based smart contracts with a ready-to-be-verified project example. | https://github.com/LedgerProject/safepkt | 0 | 1| 
 | 20211116T19:06:46Z | Null | https://github.com/timoodada/klee | 0 | 0| 
-| 20211116T16:14:16Z | Spring 2021 Geography 817 work folder  | https://github.com/klee12/klee12.github.io | 0 | 0| 
 | 20211116T04:46:02Z | SafePKT Flavor of RVT (a collection of tools/libraries to support both static and dynamic verification of Rust programs.) | https://github.com/LedgerProject/safepkt_rust-verification-tools | 0 | 0| 
-| 20211115T16:36:33Z | Personal Blog | https://github.com/klee1611/klee1611.github.io | 1 | 1| 
 | 20211115T14:37:45Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 2948 | 84| 
-| 20211114T16:57:01Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1819 | 520| 
 | 20211114T13:23:31Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
 
 
@@ -90,31 +90,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211117T02:48:15Z | Roblox Exploit Scripts by simulatorwinner#5864 | https://github.com/simulatorwinner/scripts | 0 | 0| 
-| 20211117T02:30:10Z | Multiple game utilities to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 126 | 301| 
-| 20211117T02:17:24Z | fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | 0 | 0| 
-| 20211117T02:03:28Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
-| 20211117T01:50:47Z | A collection of write ups on how I solved each exploit challenge on Exploit Education | https://github.com/dyllan500/Exploit-Education-Write-Up | 0 | 0| 
-| 20211117T01:45:14Z | A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization. | https://github.com/frohoff/ysoserial | 4658 | 1328| 
-| 20211117T01:36:43Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 359 | 55| 
-| 20211117T01:22:59Z | Exploit do 3DS que acessa o nds-bootstrap do firmware DSi | https://github.com/Nintendo-Homebrew/Seedminer | 0 | 0| 
-| 20211116T23:23:35Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 103 | 37| 
-| 20211116T23:06:20Z | [Roblox] Downtown RP ESP (Gun Crates, Printers) -- genta | https://github.com/subn0de/Roblox_Exploits | 0 | 0| 
+| 20211117T12:57:56Z | Exploiting BERT for End-to-End Aspect-based Sentiment Analysis (W-NUT@EMNLP 2019) | https://github.com/lixin4ever/BERT-E2E-ABSA | 251 | 65| 
+| 20211117T12:54:14Z | Android RAT with web panel and undetectable App | https://github.com/Th30neAnd0nly/Ohm | 81 | 35| 
+| 20211117T12:45:32Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 14| 
+| 20211117T12:17:56Z | To-Do | https://github.com/Lescovar420/SABA-EXPLOIT-FPSE | 0 | 0| 
+| 20211117T12:11:10Z | 42 , Security project, 15 levels to discover securities exploits | https://github.com/thallard/snow-crash | 0 | 0| 
+| 20211117T12:02:58Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
+| 20211117T11:42:27Z | Null | https://github.com/gustavorobertux/patch_exploit_ssh | 0 | 0| 
+| 20211117T11:40:40Z | [Roblox] Downtown RP ESP (Gun Crates, Printers) -- genta | https://github.com/subn0de/Roblox_Exploits | 0 | 0| 
+| 20211117T11:35:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10326 | 1776| 
+| 20211117T10:45:41Z | CVenom is a C++ Header-Only Library For Malware And Exploits Development | https://github.com/Mahmoud7Osman/CVenom | 5 | 3| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211117T02:59:00Z | Null | https://github.com/Defragi686/Suid-Backdoor | 0 | 0| 
+| 20211117T12:46:33Z | Null | https://github.com/shipxu123/Backdoor_NAS | 0 | 0| 
+| 20211117T08:00:51Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1498 | 372| 
+| 20211117T03:26:21Z | Null | https://github.com/Defragi686/Suid-Backdoor | 0 | 0| 
+| 20211117T03:25:11Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 361 | 63| 
 | 20211117T02:39:19Z | Lite version of my Gatekeeper backdoor for public use. | https://github.com/dievus/GatekeeperLite | 52 | 8| 
 | 20211117T00:43:39Z | Backdoor en fase de desarrollo | https://github.com/est0800/Backdoor | 0 | 0| 
 | 20211117T00:40:39Z | Codebase for my Level 4 University Project: Static Analysis of Executable Code to Detect Backdoors on IoT Devices | https://github.com/sophieboyle/Static-IoT-Backdoor-Detection | 0 | 0| 
 | 20211116T17:30:35Z | A really complete python backdoor and handler | https://github.com/P3rs3ph0ne/Pheonix | 0 | 0| 
 | 20211116T17:12:37Z | A self made multi-purpose CTF tool written under Kali Linux Os taking adventage of several programs pre-installed. Contains one liner backdoors generator for many programs/languages, recognition scanners, useful  encoders/decoders with some special features as powershell base64 format, tools from ... [ more info at README.md ] | https://github.com/0bfxgh0st/saf2 | 2 | 1| 
 | 20211116T13:52:58Z | Shell script framework to get access to the lowest level assembly of an application | https://github.com/sambhavsaxena/cyberbogisnullified | 0 | 0| 
-| 20211116T13:11:23Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 51 | 15| 
-| 20211116T12:20:59Z | Website Shell BackDoors | https://github.com/7r0j4ncodeing/Web-Shells | 23 | 6| 
-| 20211116T09:43:23Z | Using Github Action to build, 100% Safety. No any backdoor. | https://github.com/huangguiniab/lwjgl-backports | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -143,16 +143,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211117T02:47:48Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6820 | 1422| 
-| 20211117T02:40:11Z | fuzzing101 笔记 | https://github.com/xxg1413/fuzzing-101-solutions | 0 | 0| 
-| 20211117T02:25:49Z | Null | https://github.com/DannyyJohnston/fuzzy-invention | 0 | 0| 
-| 20211117T02:20:33Z | Next-gen Rowhammer fuzzer that uses non-uniform, frequency-based patterns. | https://github.com/comsec-group/blacksmith | 78 | 5| 
-| 20211117T02:16:15Z | Automate all tasks that could be automated in penetration testing and bug hunting from recon to fuzzing you can take a look at used tools | https://github.com/omarhashem123/reconcaner-framework | 0 | 0| 
-| 20211117T01:18:26Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
-| 20211117T00:53:41Z | Null | https://github.com/coder6711/fuzzy-octo-telegram | 0 | 0| 
-| 20211117T00:34:29Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2439 | 149| 
-| 20211117T00:08:36Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 36 | 12| 
-| 20211116T23:55:27Z | Black-box fuzzer that fuzzes APIs based on OpenAPI specification. Find bugs for free! | https://github.com/matusf/openapi-fuzzer | 245 | 3| 
+| 20211117T12:52:18Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20211117T12:44:33Z | Fuzzy Calculating of Human Brain’s Weight Using Depth Sensors | https://github.com/SeyedMuhammadHosseinMousavi/Fuzzy-Calculating-of-Human-Brain-s-Weight-Using-Depth-Sensors | 0 | 0| 
+| 20211117T12:38:34Z | tired of typing afl-fuzz? try bun! | https://github.com/ocurrent/bun | 47 | 8| 
+| 20211117T12:22:44Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 34702 | 18055| 
+| 20211117T12:11:18Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1331 | 236| 
+| 20211117T12:08:15Z | This is a ToDo application | https://github.com/Thendo18/fuzzy-umbrella | 0 | 0| 
+| 20211117T12:02:03Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 36 | 12| 
+| 20211117T11:51:42Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 596 | 61| 
+| 20211117T11:46:51Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6824 | 1423| 
+| 20211117T10:34:59Z | The program was created to carry out the forecasting process by combining 2 methods, namely the weighted fuzzy time series method with the determination of the interval based on the average | https://github.com/fakhrimn25/Weighted-Fuzzy-Time-Series-Kurs-Rupiah-Terhadap-Dollars | 1 | 0| 
 
 
 
