@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211117T02:39:06Z | cve-2020-35314 | cve-2020-35314,一个带phpcode的zip文件 | https://github.com/ybdegit2020/cve-2020-35314-wonderplugin | | 
+| 20211117T02:45:28Z | cve-2020-35314 | cve-2020-35314,一个带phpcode的zip文件 | https://github.com/ybdegit2020/cve-2020-35314-wonderplugin | | 
 | 20211116T20:42:27Z | CVE-2021-41773 | Null | https://github.com/kubota/POC-CVE-2021-41773 | | 
 | 20211116T17:40:09Z | CVE-2021-21551 | arbitrary kernel read/write in dbutil_2_3.sys, Proof of Concept Local Privilege Escalation to nt authority/system | https://github.com/mathisvickie/CVE-2021-21551 | | 
 | 20211116T17:30:51Z | cve-2020-28653 | Null | https://github.com/intrigueio/cve-2020-28653-poc | | 
