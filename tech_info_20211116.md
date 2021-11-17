@@ -14,16 +14,22 @@
 | 20211116 | LOTS Project - 主域名或子域内容可控的网站列表 | https://lots-project.com/?s=09| 
 | 20211116 | 利用 Exchange ProxyShell 漏洞实现域级别的勒索软件感染的实际案例分析 | https://thedfirreport.com/2021/11/15/exchange-exploit-leads-to-domain-wide-ransomware/| 
 | 20211116 | 有团队研究发现，31% 的 PC-DDR4 内存仍然存在 Rowhammer 漏洞 | https://comsec.ethz.ch/research/dram/blacksmith/| 
+| 20211116 | Fuzzing101 with LibAFL - Part I.V: Speed Improvements to Part I . | https://epi052.gitlab.io/notes-to-self/blog/2021-11-07-fuzzing-101-with-libafl-part-1.5/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20211116 | Vulnhub-vulncms | https://www.sec-in.com/article/1116| 
+| 20211116 | 一份硬核(hardcore)计算机科学CS自学计划 | https://github.com/spring2go/cs_study_plan| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211116T20:42:27Z | CVE-2021-41773 | Null | https://github.com/kubota/POC-CVE-2021-41773 | | 
+| 20211116T17:40:09Z | CVE-2021-21551 | arbitrary kernel read/write in dbutil_2_3.sys, Proof of Concept Local Privilege Escalation to nt authority/system | https://github.com/mathisvickie/CVE-2021-21551 | | 
+| 20211116T17:30:51Z | cve-2020-28653 | Null | https://github.com/intrigueio/cve-2020-28653-poc | | 
 | 20211116T13:39:06Z | CVE-2020-0787 | CVE-2020-0787的简单回显 | https://github.com/yanghaoi/CVE-2020-0787 | | 
 | 20211116T09:08:28Z | CVE-2021-22205 | GitLab CE/EE Preauth RCE using ExifTool | https://github.com/inspiringz/CVE-2021-22205 | | 
 | 20211116T04:19:42Z | CVE-2021-20837 | XMLRPC  - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | | 
@@ -32,15 +38,19 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211116T12:54:25Z | Null | https://github.com/timoodada/klee | 0 | 0| 
-| 20211116T11:44:57Z | CLI and HTTP application for running static analysis of rust-based smart contracts | https://github.com/LedgerProject/safepkt_backend | 0 | 1| 
-| 20211116T06:20:01Z | Research paper On The Termination of Borrow Checking for Rust and a web application, CLI application and VSCode extension for running static analysis of rust-based smart contracts with a ready-to-be-verified project example. | https://github.com/LedgerProject/safepkt | 0 | 1| 
+| 20211116T20:18:12Z | CLI and HTTP application for running static analysis of rust-based smart contracts | https://github.com/LedgerProject/safepkt_backend | 0 | 1| 
+| 20211116T20:12:41Z | Minecraft Mod. Allows breaking only one half of a double slab block. | https://github.com/ModdingForBlockheads/KleeSlabs | 10 | 3| 
+| 20211116T20:09:18Z | Research paper On The Termination of Borrow Checking for Rust and a web application, CLI application and VSCode extension for running static analysis of rust-based smart contracts with a ready-to-be-verified project example. | https://github.com/LedgerProject/safepkt | 0 | 1| 
+| 20211116T19:06:46Z | Null | https://github.com/timoodada/klee | 0 | 0| 
+| 20211116T16:14:16Z | Spring 2021 Geography 817 work folder  | https://github.com/klee12/klee12.github.io | 0 | 0| 
 | 20211116T04:46:02Z | SafePKT Flavor of RVT (a collection of tools/libraries to support both static and dynamic verification of Rust programs.) | https://github.com/LedgerProject/safepkt_rust-verification-tools | 0 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211116T20:55:05Z | jhirschm | https://github.com/jhirschm/S2E_PhotoinjectorLaserModel | 0 | 0| 
+| 20211116T16:22:06Z | 🎻 Requiem: Modular exploit generation using symbolic execution | https://github.com/aesophor/requiem | 15 | 3| 
 | 20211116T09:57:58Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 183 | 39| 
 | 20211116T09:52:52Z | Null | https://github.com/t0ry003/BAC-2009-S2E5 | 0 | 0| 
 
@@ -48,21 +58,23 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211116T13:49:39Z | Null | https://github.com/Calvindd2f/exploits | 0 | 0| 
-| 20211116T13:44:30Z | for exploiting vulns in roblox games | https://github.com/ghostapustaja/legionhub | 0 | 0| 
-| 20211116T13:36:51Z | Null | https://github.com/Keyvanhardani/Wordpress-Plugin-Smart-Product-Review-Exploit | 0 | 0| 
-| 20211116T13:17:03Z | The audio-video synchronization of MKV Container Format is exploited to achieve data hiding, where the hidden data can be utilized for various management purposes, including hyper-linking, annotation, and authentication | https://github.com/maximzaika/Data-Hiding-in-MKV-Container-Format | 0 | 0| 
-| 20211116T13:03:17Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
-| 20211116T12:48:12Z | Jackson old vulneurability reprodicuing code. Just used for studing the deserialization vulneurability | https://github.com/puthusseri/JacksonDeserializationExploit | 0 | 0| 
-| 20211116T12:45:31Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 14| 
-| 20211116T12:16:45Z | Exploit IPFire 2.19 | https://github.com/Gabriel-Lima232/IPFire-2.19-Auth-RCE | 0 | 0| 
-| 20211116T11:59:45Z | kerberos exploitation framework | https://github.com/maladi17/kerbersploit | 0 | 0| 
-| 20211116T11:49:57Z | Examples of Binary Exploitations - Buffer Overflow, Return-Oriented Programming and Format String | https://github.com/pikulet/mem-attacks-example | 2 | 1| 
+| 20211116T23:23:35Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 103 | 37| 
+| 20211116T23:06:20Z | [Roblox] Downtown RP ESP (Gun Crates, Printers) -- genta | https://github.com/subn0de/Roblox_Exploits | 0 | 0| 
+| 20211116T22:58:19Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 8495 | 1463| 
+| 20211116T22:55:17Z | Projet système exploitation P18M groupe 1 (Arnaud/Vincent/Frederic/Claude) | https://github.com/Claudio4813/Reveil_berry | 0 | 0| 
+| 20211116T22:55:07Z | Null | https://github.com/EtienneWarneck/m8-post-exploitation-windowsvm | 0 | 0| 
+| 20211116T22:39:46Z | neo Tool is great one in binary exploitation topic. instead of doing several missions by many tools and windows, you can now automate this in one tool in one session.. Enjoy it | https://github.com/hamza07-w/neo-bof | 1 | 0| 
+| 20211116T22:34:27Z | Driver Exploitation with HEVD (HackSys Extreme Vulnerable Driver) | https://github.com/edcod3/hevd-drivexp | 0 | 0| 
+| 20211116T22:13:22Z | A small update to zCatch that has some extended kick/ban exploit features and faster capability to use range bans. Detects some known clients based on flags. Codebase is literally crap, as I use this to learn some C++. Have fun | https://github.com/jxsl13/zcatchPlus | 3 | 3| 
+| 20211116T22:00:40Z | Null | https://github.com/reewardius/brainpain-exploit | 0 | 0| 
+| 20211116T21:21:13Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 4104 | 565| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211116T17:30:35Z | A really complete python backdoor and handler | https://github.com/P3rs3ph0ne/Pheonix | 0 | 0| 
+| 20211116T17:12:37Z | A self made multi-purpose CTF tool written under Kali Linux Os taking adventage of several programs pre-installed. Contains one liner backdoors generator for many programs/languages, recognition scanners, useful  encoders/decoders with some special features as powershell base64 format, tools from ... [ more info at README.md ] | https://github.com/0bfxgh0st/saf2 | 2 | 1| 
 | 20211116T13:52:58Z | Shell script framework to get access to the lowest level assembly of an application | https://github.com/sambhavsaxena/cyberbogisnullified | 0 | 0| 
 | 20211116T13:11:23Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 51 | 15| 
 | 20211116T12:20:59Z | Website Shell BackDoors | https://github.com/7r0j4ncodeing/Web-Shells | 23 | 6| 
@@ -71,8 +83,6 @@
 | 20211116T08:09:15Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1497 | 372| 
 | 20211116T07:41:11Z | Lite version of my Gatekeeper backdoor for public use. | https://github.com/dievus/GatekeeperLite | 51 | 8| 
 | 20211116T05:28:48Z | Allowing server admins to backdoor their own server! | https://github.com/awesomemoder316/DiscordBackdoorBot | 1 | 0| 
-| 20211116T04:51:30Z | High School project that utilizes python machine learning algorithm to find malicious backdoor programs on a Linux system | https://github.com/MizuBon/mlDoora | 0 | 0| 
-| 20211116T02:42:10Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 361 | 63| 
 
 
 # symbolic execution on Github 推荐
@@ -94,16 +104,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211116T13:53:12Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 634 | 131| 
-| 20211116T13:44:20Z | Black-box fuzzer that fuzzes APIs based on OpenAPI specification. Find bugs for free! | https://github.com/matusf/openapi-fuzzer | 220 | 2| 
-| 20211116T13:36:26Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20211116T13:25:33Z | Companion repository to the Fuzzing101 with LibAFL series of blog posts. | https://github.com/epi052/fuzzing-101-solutions | 16 | 3| 
-| 20211116T13:15:02Z | methods construction membership function of fuzzy sets | https://github.com/Lucky2Bomb/app-fuzzy-sets | 0 | 0| 
-| 20211116T12:53:32Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 596 | 62| 
-| 20211116T12:36:09Z | Null | https://github.com/honorke/FUZZ | 0 | 0| 
-| 20211116T12:28:27Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1170 | 136| 
-| 20211116T12:21:53Z | With this project, I want to make a blending between Persevere and taPCT. The idea is to find bugs in large amounts of concurrent threading instruction. For that we will first try and identify with this tool some known bugs from emac versions that were not yet corrected. We first model the system call as a set of events and then apply the taPCT algorithm. Later on, we can use fuzzing to give larger system call sequences to our probabilistic scheduling algorithm.  | https://github.com/Ricagraca/taPPCT | 0 | 0| 
-| 20211116T12:02:16Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 36 | 12| 
+| 20211116T23:55:27Z | Black-box fuzzer that fuzzes APIs based on OpenAPI specification. Find bugs for free! | https://github.com/matusf/openapi-fuzzer | 245 | 3| 
+| 20211116T23:12:45Z | An investigation of three fuzzers: American Fuzzy Lop++ (AFL), Honggfuzz, and Radamsa | https://github.com/hark130/hardy-remix | 0 | 0| 
+| 20211116T22:40:59Z | A dart port of the popular fuzzywuzzy package | https://github.com/SphericalKat/dart-fuzzywuzzy | 17 | 2| 
+| 20211116T22:35:16Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20211116T22:27:54Z | Simple fuzzy logic library implemented in Rust language. | https://github.com/SeriousRedCat/fuzzy-rust | 0 | 0| 
+| 20211116T22:17:42Z | A Haskell implementation of Fuzzy Identity Based Encryption modified to work over asymmetric bilinear pairing | https://github.com/octeep/fuzzyibe | 0 | 0| 
+| 20211116T21:36:13Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
+| 20211116T20:29:08Z | Takagi Sugeno Kang fuzzu model + FCM clustering  | https://github.com/nikimax/Fuzzu_Models_TSK | 0 | 0| 
+| 20211116T19:44:54Z | Null | https://github.com/malinaerlinda/fuzzy-engine | 0 | 0| 
+| 20211116T19:21:00Z | Closed-Loop Fuzzy Energy Regulation in Patients With Hypercortisolism via Inhibitory and Excitatory Intermittent Actuation | https://github.com/computational-medicine-lab/Closed-Loop-Fuzzy-Energy-Regulation-Frontiers | 0 | 0| 
 
 
 
