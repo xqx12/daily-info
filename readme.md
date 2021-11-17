@@ -97,8 +97,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211117T13:34:52Z | Shitty flappy bird implemented on a fried potato for the course Computer Organization and Components IS1500 | https://github.com/johanlam/fuzzy-potato | 1 | 0| 
 | 20211117T13:34:25Z | Null | https://github.com/polymorphicengine/Semi-Fuzzy-Quantifiers | 0 | 0| 
-| 20211117T13:29:57Z | Shitty flappy bird implemented on a fried potato for the course Computer Organization and Components IS1500 | https://github.com/johanlam/fuzzy-potato | 1 | 0| 
 | 20211117T13:12:47Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6823 | 1423| 
 | 20211117T13:10:49Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3782 | 892| 
 | 20211117T12:52:18Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
