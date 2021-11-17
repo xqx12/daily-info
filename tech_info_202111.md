@@ -105,6 +105,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211117T02:59:00Z | Null | https://github.com/Defragi686/Suid-Backdoor | 0 | 0| 
 | 20211117T02:39:19Z | Lite version of my Gatekeeper backdoor for public use. | https://github.com/dievus/GatekeeperLite | 52 | 8| 
 | 20211117T00:43:39Z | Backdoor en fase de desarrollo | https://github.com/est0800/Backdoor | 0 | 0| 
 | 20211117T00:40:39Z | Codebase for my Level 4 University Project: Static Analysis of Executable Code to Detect Backdoors on IoT Devices | https://github.com/sophieboyle/Static-IoT-Backdoor-Detection | 0 | 0| 
@@ -114,7 +115,6 @@
 | 20211116T13:11:23Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 51 | 15| 
 | 20211116T12:20:59Z | Website Shell BackDoors | https://github.com/7r0j4ncodeing/Web-Shells | 23 | 6| 
 | 20211116T09:43:23Z | Using Github Action to build, 100% Safety. No any backdoor. | https://github.com/huangguiniab/lwjgl-backports | 0 | 0| 
-| 20211116T09:02:09Z | Unofficial pytorch implementation of RobNet(Defense-Resistant Backdoor Attacks on DNN) | https://github.com/dhkim2810/RobNet | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
