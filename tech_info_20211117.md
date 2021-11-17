@@ -93,6 +93,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211117T13:10:49Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3782 | 892| 
 | 20211117T12:52:18Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211117T12:44:33Z | Fuzzy Calculating of Human Brain’s Weight Using Depth Sensors | https://github.com/SeyedMuhammadHosseinMousavi/Fuzzy-Calculating-of-Human-Brain-s-Weight-Using-Depth-Sensors | 0 | 0| 
 | 20211117T12:38:34Z | tired of typing afl-fuzz? try bun! | https://github.com/ocurrent/bun | 47 | 8| 
@@ -102,7 +103,6 @@
 | 20211117T12:02:03Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 36 | 12| 
 | 20211117T11:51:42Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 596 | 61| 
 | 20211117T11:46:51Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6824 | 1423| 
-| 20211117T10:34:59Z | The program was created to carry out the forecasting process by combining 2 methods, namely the weighted fuzzy time series method with the determination of the interval based on the average | https://github.com/fakhrimn25/Weighted-Fuzzy-Time-Series-Kurs-Rupiah-Terhadap-Dollars | 1 | 0| 
 
 
 
