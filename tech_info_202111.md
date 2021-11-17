@@ -90,9 +90,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211117T02:21:36Z | Multiple game utilities to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 125 | 301| 
 | 20211117T02:17:24Z | fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | 0 | 0| 
 | 20211117T02:03:28Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
-| 20211117T02:00:25Z | Multiple game utilities to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 125 | 301| 
 | 20211117T01:50:47Z | A collection of write ups on how I solved each exploit challenge on Exploit Education | https://github.com/dyllan500/Exploit-Education-Write-Up | 0 | 0| 
 | 20211117T01:45:14Z | A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization. | https://github.com/frohoff/ysoserial | 4658 | 1328| 
 | 20211117T01:36:43Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 359 | 55| 
@@ -143,8 +143,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211117T02:21:39Z | fuzzing101 笔记 | https://github.com/xxg1413/fuzzing-101-solutions | 0 | 0| 
+| 20211117T02:20:33Z | Next-gen Rowhammer fuzzer that uses non-uniform, frequency-based patterns. | https://github.com/comsec-group/blacksmith | 78 | 5| 
 | 20211117T02:16:15Z | Automate all tasks that could be automated in penetration testing and bug hunting from recon to fuzzing you can take a look at used tools | https://github.com/omarhashem123/reconcaner-framework | 0 | 0| 
-| 20211117T01:25:51Z | Next-gen Rowhammer fuzzer that uses non-uniform, frequency-based patterns. | https://github.com/comsec-group/blacksmith | 77 | 5| 
 | 20211117T01:18:26Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20211117T01:13:18Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6820 | 1422| 
 | 20211117T00:53:41Z | Null | https://github.com/coder6711/fuzzy-octo-telegram | 0 | 0| 
@@ -152,7 +153,6 @@
 | 20211117T00:08:36Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 36 | 12| 
 | 20211116T23:55:27Z | Black-box fuzzer that fuzzes APIs based on OpenAPI specification. Find bugs for free! | https://github.com/matusf/openapi-fuzzer | 245 | 3| 
 | 20211116T23:12:45Z | An investigation of three fuzzers: American Fuzzy Lop++ (AFL), Honggfuzz, and Radamsa | https://github.com/hark130/hardy-remix | 0 | 0| 
-| 20211116T22:40:59Z | A dart port of the popular fuzzywuzzy package | https://github.com/SphericalKat/dart-fuzzywuzzy | 17 | 2| 
 
 
 
