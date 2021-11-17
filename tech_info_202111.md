@@ -90,7 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211117T02:21:36Z | Multiple game utilities to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 125 | 301| 
+| 20211117T02:22:13Z | Multiple game utilities to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 125 | 301| 
 | 20211117T02:17:24Z | fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | 0 | 0| 
 | 20211117T02:03:28Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211117T01:50:47Z | A collection of write ups on how I solved each exploit challenge on Exploit Education | https://github.com/dyllan500/Exploit-Education-Write-Up | 0 | 0| 
