@@ -120,10 +120,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211117T13:14:07Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2536 | 375| 
 | 20211117T09:56:28Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1820 | 520| 
 | 20211117T05:55:58Z | Angora is a mutation-based fuzzer.  The main goal of Angora is to increase branch coverage by solving path constraints without symbolic execution.  | https://github.com/AngoraFuzzer/Angora | 725 | 135| 
 | 20211117T02:32:50Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1920 | 401| 
-| 20211116T17:57:45Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2537 | 375| 
 | 20211116T16:22:06Z | 🎻 Requiem: Modular exploit generation using symbolic execution | https://github.com/aesophor/requiem | 15 | 3| 
 | 20211116T14:20:44Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 506 | 77| 
 | 20211116T13:52:29Z | A tool for generating nonlinear numerical invariants for C and Java programs.  DIG uses dynamic analysis to infer invariants over program execution traces and applies symbolic execution to inferred invariants. | https://github.com/unsat/dig | 9 | 4| 
