@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211117T13:39:37Z | CVE-2021-37580 | CVE-2021-37580的poc | https://github.com/fengwenhua/CVE-2021-37580 | | 
+| 20211117T13:41:57Z | CVE-2021-37580 | CVE-2021-37580的poc | https://github.com/fengwenhua/CVE-2021-37580 | | 
 | 20211117T12:46:40Z | CVE-2021-525 | D-Link credentials decryption tool poc | https://github.com/full-disclosure/FDEU-CVE-2021-525A | | 
 | 20211117T11:53:41Z | CVE-2021-37580 | Null | https://github.com/rabbitsafe/CVE-2021-37580 | | 
 | 20211117T11:37:31Z | CVE-2020-0787 | CVE-2020-0787的简单回显 | https://github.com/yanghaoi/CVE-2020-0787 | | 
