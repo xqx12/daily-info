@@ -17,6 +17,8 @@
 | 20211117 | 容器实现背后的 Linux Namespaces 进程隔离技术分析 | http://blog.quarkslab.com/digging-into-linux-namespaces-part-1.html| 
 | 20211117 | 攻击者利用 Domain Fronting 技术重定向缅甸政府网站流量 | https://sec.today/pulses/c1d7c8ac-6032-4c22-9b14-acb04621d149/| 
 | 20211117 | 攻击者利用 Domain Fronting 技术重定向缅甸政府网站流量 | https://blog.talosintelligence.com/2021/11/attackers-use-domain-fronting-technique.html| 
+| 20211117 | 【行为测绘应用实战】使用 ZoomEye 一网打尽 Trickbot C2 | https://paper.seebug.org/1759/| 
+| 20211117 | AhnLab 安全应急响应中心近期披露Lazarus Group 的 NukeSped 恶意软件分析报告. | http://asec.ahnlab.com/en/28597/| 
 
 
 # 安全维基 推荐
@@ -55,6 +57,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211117T13:57:45Z | A simple Dockerfile to build an image starting from the latest official one of Kali Linux and including some useful tools. | https://github.com/tsumarios/Kali-Linux-Dockerfile | 11 | 6| 
 | 20211117T13:50:06Z | Given the increasing complexities of today’s network environments, more and more hosts are becoming vulnerable to attacks and hence it is important to look at systematic, efficient and automated approaches for Intrusion Detection. Network Security is to protect computer network against hacking, misuse, unauthorized changes to the system and securing a computer network infrastructure. Network attack is the intrusion or threat can be defined as any deliberate action that attempts unauthorized access, information manipulation, or rendering the system unstable by exploiting the existing vulnerabilities in the system. Intrusion Detection system (IDS) / Intrusion Prevention System (IPS) has become a prerequisite in computer networks. IDS/IPS is a device or software application that monitors network or system activities for malicious activities. These type of IDS/IPS used in the network is known as Network based IDS/IPS. The goal of a Network Intrusion Detection System (NIDS) is to alert a system administrator each time an intruder tries to penetrate the network. A misuse NIDS defines attacks via a table of malicious signatures: if an ongoing activity matches a signature in the table, an alarm is raised. Thousands of organizations depend upon such systems because they are simple to understand, enable administrators to customize the signature database, and provide concrete information about the events that have occurred. In this project we compared the use of various machine learning techniques, to the use of various deep learning techniques for detecting intrusions in networks. We utilized various supervised machine learning techniques and deep learning techniques to train and build multiple classification models that can classify attack type of network traffic versus normal type of network traffic. We compared the test accuracies of these multiple classification models to identify the best model for performing network intrusion detection. We concluded that using a combination of Autoencoder for feature selection, followed by fully connected deep learning model for classification gave better accuracy compared to using machine learning models. | https://github.com/Sayan0104/NDS-using-Deep-Learning | 0 | 0| 
 | 20211117T13:42:39Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10327 | 1776| 
 | 20211117T13:18:55Z | exploiter des données avec pandas et les dataframes | https://github.com/Trifel-guy/twitch_tp | 0 | 0| 
@@ -64,7 +67,6 @@
 | 20211117T13:02:57Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211117T12:57:56Z | Exploiting BERT for End-to-End Aspect-based Sentiment Analysis (W-NUT@EMNLP 2019) | https://github.com/lixin4ever/BERT-E2E-ABSA | 251 | 65| 
 | 20211117T12:54:14Z | Android RAT with web panel and undetectable App | https://github.com/Th30neAnd0nly/Ohm | 81 | 35| 
-| 20211117T12:45:32Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 14| 
 
 
 # backdoor on Github 推荐
