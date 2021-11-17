@@ -143,6 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211117T01:13:18Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6820 | 1422| 
 | 20211117T00:53:41Z | Null | https://github.com/coder6711/fuzzy-octo-telegram | 0 | 0| 
 | 20211117T00:34:29Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2439 | 149| 
 | 20211117T00:33:16Z | Next-gen Rowhammer fuzzer that uses non-uniform, frequency-based patterns. | https://github.com/comsec-group/blacksmith | 75 | 5| 
@@ -152,7 +153,6 @@
 | 20211116T22:40:59Z | A dart port of the popular fuzzywuzzy package | https://github.com/SphericalKat/dart-fuzzywuzzy | 17 | 2| 
 | 20211116T22:35:16Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211116T22:27:54Z | Simple fuzzy logic library implemented in Rust language. | https://github.com/SeriousRedCat/fuzzy-rust | 0 | 0| 
-| 20211116T22:17:42Z | A Haskell implementation of Fuzzy Identity Based Encryption modified to work over asymmetric bilinear pairing | https://github.com/octeep/fuzzyibe | 0 | 0| 
 
 
 
