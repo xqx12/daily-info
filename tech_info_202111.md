@@ -16,6 +16,7 @@
 | 20211117 | Open-source LMS Chamilo 和 Moodle 被发现多个漏洞 | https://starlabs.sg/blog/2021/11/diving-into-open-source-lms-codebases/| 
 | 20211117 | 容器实现背后的 Linux Namespaces 进程隔离技术分析 | http://blog.quarkslab.com/digging-into-linux-namespaces-part-1.html| 
 | 20211117 | 攻击者利用 Domain Fronting 技术重定向缅甸政府网站流量 | https://sec.today/pulses/c1d7c8ac-6032-4c22-9b14-acb04621d149/| 
+| 20211117 | 攻击者利用 Domain Fronting 技术重定向缅甸政府网站流量 | https://blog.talosintelligence.com/2021/11/attackers-use-domain-fronting-technique.html| 
 | 20211116 | Checkpoint 对 MosesStaff 组织定向攻击以色列公司的分析 | http://research.checkpoint.com/2021/mosesstaff-targeting-israeli-companies/| 
 | 20211116 | POC2021 – Pwning the Windows 10 Kernel with NFTS and WNF | http://research.nccgroup.com/2021/11/15/poc2021-pwning-the-windows-10-kernel-with-nfts-and-wnf-slides/| 
 | 20211116 | T-Reqs: A grammar-based HTTP Fuzzer | https://github.com/bahruzjabiyev/t-reqs-http-fuzzer| 
@@ -25,7 +26,6 @@
 | 20211116 | 利用 Exchange ProxyShell 漏洞实现域级别的勒索软件感染的实际案例分析 | https://thedfirreport.com/2021/11/15/exchange-exploit-leads-to-domain-wide-ransomware/| 
 | 20211116 | 有团队研究发现，31% 的 PC-DDR4 内存仍然存在 Rowhammer 漏洞 | https://comsec.ethz.ch/research/dram/blacksmith/| 
 | 20211116 | Fuzzing101 with LibAFL - Part I.V: Speed Improvements to Part I . | https://epi052.gitlab.io/notes-to-self/blog/2021-11-07-fuzzing-101-with-libafl-part-1.5/| 
-| 20211115 | 浅谈利用codeql进行java代码审计分析（1） | https://tttang.com/archive/1322/| 
 
 
 # 安全维基 推荐
@@ -120,16 +120,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211117T09:56:28Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1820 | 520| 
+| 20211117T05:55:58Z | Angora is a mutation-based fuzzer.  The main goal of Angora is to increase branch coverage by solving path constraints without symbolic execution.  | https://github.com/AngoraFuzzer/Angora | 725 | 135| 
 | 20211117T02:32:50Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1920 | 401| 
 | 20211116T17:57:45Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2537 | 375| 
 | 20211116T16:22:06Z | 🎻 Requiem: Modular exploit generation using symbolic execution | https://github.com/aesophor/requiem | 15 | 3| 
 | 20211116T14:20:44Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 506 | 77| 
 | 20211116T13:52:29Z | A tool for generating nonlinear numerical invariants for C and Java programs.  DIG uses dynamic analysis to infer invariants over program execution traces and applies symbolic execution to inferred invariants. | https://github.com/unsat/dig | 9 | 4| 
 | 20211116T13:39:56Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 165 | 37| 
-| 20211116T13:24:49Z | Angora is a mutation-based fuzzer.  The main goal of Angora is to increase branch coverage by solving path constraints without symbolic execution.  | https://github.com/AngoraFuzzer/Angora | 725 | 135| 
 | 20211116T09:57:58Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 183 | 39| 
 | 20211116T04:45:20Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 10 | 4| 
-| 20211115T07:41:51Z | Simple Symbolic Execution with Neural Networks in case of Magic-byte prediction | https://github.com/yhytoto12/neuro-sym | 0 | 0| 
 
 
 # big4 on Github 推荐

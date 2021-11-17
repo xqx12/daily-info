@@ -16,6 +16,7 @@
 | 20211117 | Open-source LMS Chamilo 和 Moodle 被发现多个漏洞 | https://starlabs.sg/blog/2021/11/diving-into-open-source-lms-codebases/| 
 | 20211117 | 容器实现背后的 Linux Namespaces 进程隔离技术分析 | http://blog.quarkslab.com/digging-into-linux-namespaces-part-1.html| 
 | 20211117 | 攻击者利用 Domain Fronting 技术重定向缅甸政府网站流量 | https://sec.today/pulses/c1d7c8ac-6032-4c22-9b14-acb04621d149/| 
+| 20211117 | 攻击者利用 Domain Fronting 技术重定向缅甸政府网站流量 | https://blog.talosintelligence.com/2021/11/attackers-use-domain-fronting-technique.html| 
 
 
 # 安全维基 推荐
@@ -79,6 +80,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211117T09:56:28Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1820 | 520| 
+| 20211117T05:55:58Z | Angora is a mutation-based fuzzer.  The main goal of Angora is to increase branch coverage by solving path constraints without symbolic execution.  | https://github.com/AngoraFuzzer/Angora | 725 | 135| 
 | 20211117T02:32:50Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1920 | 401| 
 
 
