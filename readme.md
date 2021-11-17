@@ -53,6 +53,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211117T13:18:55Z | exploiter des données avec pandas et les dataframes | https://github.com/Trifel-guy/twitch_tp | 0 | 0| 
 | 20211117T13:15:16Z | To-Do | https://github.com/Lescovar420/SABA-EXPLOIT-FPSE | 0 | 0| 
 | 20211117T13:14:29Z | Null | https://github.com/gustavorobertux/patch_exploit_ssh | 0 | 0| 
 | 20211117T13:02:59Z | Robotics semester project at LASA, EPFL | https://github.com/RaphaelUebersax/Incrementally_Learning_and_Exploiting_Inverse_Dynamics | 0 | 0| 
@@ -62,7 +63,6 @@
 | 20211117T12:45:32Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 14| 
 | 20211117T12:11:10Z | 42 , Security project, 15 levels to discover securities exploits | https://github.com/thallard/snow-crash | 0 | 0| 
 | 20211117T11:40:40Z | [Roblox] Downtown RP ESP (Gun Crates, Printers) -- genta | https://github.com/subn0de/Roblox_Exploits | 0 | 0| 
-| 20211117T11:35:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10326 | 1776| 
 
 
 # backdoor on Github 推荐
