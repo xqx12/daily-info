@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211117T13:27:50Z | CVE-2021-37580 | CVE-2021-37580的poc | https://github.com/fengwenhua/CVE-2021-37580 | | 
+| 20211117T13:29:19Z | CVE-2021-37580 | CVE-2021-37580的poc | https://github.com/fengwenhua/CVE-2021-37580 | | 
 | 20211117T12:46:40Z | CVE-2021-525 | D-Link credentials decryption tool poc | https://github.com/full-disclosure/FDEU-CVE-2021-525A | | 
 | 20211117T11:53:41Z | CVE-2021-37580 | Null | https://github.com/rabbitsafe/CVE-2021-37580 | | 
 | 20211117T11:37:31Z | CVE-2020-0787 | CVE-2020-0787的简单回显 | https://github.com/yanghaoi/CVE-2020-0787 | | 
@@ -143,7 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211117T13:25:54Z | Shitty flappy bird implemented on a fried potato for the course Computer Organization and Components IS1500 | https://github.com/johanlam/fuzzy-potato | 1 | 0| 
+| 20211117T13:29:57Z | Shitty flappy bird implemented on a fried potato for the course Computer Organization and Components IS1500 | https://github.com/johanlam/fuzzy-potato | 1 | 0| 
 | 20211117T13:12:47Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6823 | 1423| 
 | 20211117T13:10:49Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3782 | 892| 
 | 20211117T12:52:18Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
