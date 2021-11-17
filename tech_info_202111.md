@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211117T13:26:53Z | CVE-2021-37580 | CVE-2021-37580的poc | https://github.com/fengwenhua/CVE-2021-37580 | | 
 | 20211117T12:46:40Z | CVE-2021-525 | D-Link credentials decryption tool poc | https://github.com/full-disclosure/FDEU-CVE-2021-525A | | 
 | 20211117T11:53:41Z | CVE-2021-37580 | Null | https://github.com/rabbitsafe/CVE-2021-37580 | | 
 | 20211117T11:37:31Z | CVE-2020-0787 | CVE-2020-0787的简单回显 | https://github.com/yanghaoi/CVE-2020-0787 | | 
@@ -55,7 +56,6 @@
 | 20211116T17:30:51Z | cve-2020-28653 | Null | https://github.com/intrigueio/cve-2020-28653-poc | | 
 | 20211116T09:08:28Z | CVE-2021-22205 | GitLab CE/EE Preauth RCE using ExifTool | https://github.com/inspiringz/CVE-2021-22205 | | 
 | 20211116T04:19:42Z | CVE-2021-20837 | XMLRPC  - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | | 
-| 20211115T09:17:59Z | CVE-2020-2883 | POC for CVE-2020-2883 | https://github.com/Qynklee/POC_CVE-2020-2883 | | 
 
 
 # klee on Github 推荐
