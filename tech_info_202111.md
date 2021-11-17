@@ -90,16 +90,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211117T13:14:29Z | Null | https://github.com/gustavorobertux/patch_exploit_ssh | 0 | 0| 
+| 20211117T13:02:59Z | Robotics semester project at LASA, EPFL | https://github.com/RaphaelUebersax/Incrementally_Learning_and_Exploiting_Inverse_Dynamics | 0 | 0| 
+| 20211117T13:02:57Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211117T12:57:56Z | Exploiting BERT for End-to-End Aspect-based Sentiment Analysis (W-NUT@EMNLP 2019) | https://github.com/lixin4ever/BERT-E2E-ABSA | 251 | 65| 
 | 20211117T12:54:14Z | Android RAT with web panel and undetectable App | https://github.com/Th30neAnd0nly/Ohm | 81 | 35| 
 | 20211117T12:45:32Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 14| 
 | 20211117T12:17:56Z | To-Do | https://github.com/Lescovar420/SABA-EXPLOIT-FPSE | 0 | 0| 
 | 20211117T12:11:10Z | 42 , Security project, 15 levels to discover securities exploits | https://github.com/thallard/snow-crash | 0 | 0| 
-| 20211117T12:02:58Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
-| 20211117T11:42:27Z | Null | https://github.com/gustavorobertux/patch_exploit_ssh | 0 | 0| 
 | 20211117T11:40:40Z | [Roblox] Downtown RP ESP (Gun Crates, Printers) -- genta | https://github.com/subn0de/Roblox_Exploits | 0 | 0| 
 | 20211117T11:35:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10326 | 1776| 
-| 20211117T10:45:41Z | CVenom is a C++ Header-Only Library For Malware And Exploits Development | https://github.com/Mahmoud7Osman/CVenom | 5 | 3| 
 
 
 # backdoor on Github 推荐
@@ -149,7 +149,7 @@
 | 20211117T12:52:18Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211117T12:44:33Z | Fuzzy Calculating of Human Brain’s Weight Using Depth Sensors | https://github.com/SeyedMuhammadHosseinMousavi/Fuzzy-Calculating-of-Human-Brain-s-Weight-Using-Depth-Sensors | 0 | 0| 
 | 20211117T12:38:34Z | tired of typing afl-fuzz? try bun! | https://github.com/ocurrent/bun | 47 | 8| 
-| 20211117T12:22:44Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 34702 | 18055| 
+| 20211117T12:22:44Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 34702 | 18054| 
 | 20211117T12:11:18Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1331 | 236| 
 | 20211117T12:08:15Z | This is a ToDo application | https://github.com/Thendo18/fuzzy-umbrella | 0 | 0| 
 | 20211117T12:02:03Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 36 | 12| 
