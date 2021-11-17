@@ -143,6 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211117T02:25:02Z | Null | https://github.com/DannyyJohnston/fuzzy-invention | 0 | 0| 
 | 20211117T02:21:39Z | fuzzing101 笔记 | https://github.com/xxg1413/fuzzing-101-solutions | 0 | 0| 
 | 20211117T02:20:33Z | Next-gen Rowhammer fuzzer that uses non-uniform, frequency-based patterns. | https://github.com/comsec-group/blacksmith | 78 | 5| 
 | 20211117T02:16:15Z | Automate all tasks that could be automated in penetration testing and bug hunting from recon to fuzzing you can take a look at used tools | https://github.com/omarhashem123/reconcaner-framework | 0 | 0| 
@@ -152,7 +153,6 @@
 | 20211117T00:34:29Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2439 | 149| 
 | 20211117T00:08:36Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 36 | 12| 
 | 20211116T23:55:27Z | Black-box fuzzer that fuzzes APIs based on OpenAPI specification. Find bugs for free! | https://github.com/matusf/openapi-fuzzer | 245 | 3| 
-| 20211116T23:12:45Z | An investigation of three fuzzers: American Fuzzy Lop++ (AFL), Honggfuzz, and Radamsa | https://github.com/hark130/hardy-remix | 0 | 0| 
 
 
 
