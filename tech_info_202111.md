@@ -143,16 +143,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211117T01:18:26Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
+| 20211117T01:15:24Z | Next-gen Rowhammer fuzzer that uses non-uniform, frequency-based patterns. | https://github.com/comsec-group/blacksmith | 76 | 5| 
 | 20211117T01:13:18Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6820 | 1422| 
 | 20211117T00:53:41Z | Null | https://github.com/coder6711/fuzzy-octo-telegram | 0 | 0| 
 | 20211117T00:34:29Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2439 | 149| 
-| 20211117T00:33:16Z | Next-gen Rowhammer fuzzer that uses non-uniform, frequency-based patterns. | https://github.com/comsec-group/blacksmith | 75 | 5| 
 | 20211117T00:08:36Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 36 | 12| 
 | 20211116T23:55:27Z | Black-box fuzzer that fuzzes APIs based on OpenAPI specification. Find bugs for free! | https://github.com/matusf/openapi-fuzzer | 245 | 3| 
 | 20211116T23:12:45Z | An investigation of three fuzzers: American Fuzzy Lop++ (AFL), Honggfuzz, and Radamsa | https://github.com/hark130/hardy-remix | 0 | 0| 
 | 20211116T22:40:59Z | A dart port of the popular fuzzywuzzy package | https://github.com/SphericalKat/dart-fuzzywuzzy | 17 | 2| 
 | 20211116T22:35:16Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20211116T22:27:54Z | Simple fuzzy logic library implemented in Rust language. | https://github.com/SeriousRedCat/fuzzy-rust | 0 | 0| 
 
 
 

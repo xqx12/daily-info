@@ -113,10 +113,10 @@
 | 20211116T22:35:16Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211116T22:27:54Z | Simple fuzzy logic library implemented in Rust language. | https://github.com/SeriousRedCat/fuzzy-rust | 0 | 0| 
 | 20211116T22:17:42Z | A Haskell implementation of Fuzzy Identity Based Encryption modified to work over asymmetric bilinear pairing | https://github.com/octeep/fuzzyibe | 0 | 0| 
-| 20211116T21:36:13Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20211116T20:29:08Z | Takagi Sugeno Kang fuzzu model + FCM clustering  | https://github.com/nikimax/Fuzzu_Models_TSK | 0 | 0| 
 | 20211116T19:44:54Z | Null | https://github.com/malinaerlinda/fuzzy-engine | 0 | 0| 
 | 20211116T19:21:00Z | Closed-Loop Fuzzy Energy Regulation in Patients With Hypercortisolism via Inhibitory and Excitatory Intermittent Actuation | https://github.com/computational-medicine-lab/Closed-Loop-Fuzzy-Energy-Regulation-Frontiers | 0 | 0| 
+| 20211116T19:15:44Z | Comparing tool variability and numerical variability in fMRI analyses results | https://github.com/big-data-lab-team/fuzzy-neurotools | 0 | 1| 
 
 
 
