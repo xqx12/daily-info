@@ -90,10 +90,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211118T13:03:07Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211118T12:54:45Z | Null | https://github.com/R-Laurent/TP1_Systeme_exploitation | 0 | 0| 
 | 20211118T12:45:32Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 14| 
 | 20211118T12:16:36Z | some hacking tools that I wrote | https://github.com/Alekseyyy/InfoSec | 1 | 3| 
-| 20211118T12:03:35Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211118T11:58:41Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10331 | 1776| 
 | 20211118T11:18:13Z | User interface for the IRAP Exploit machine | https://github.com/WilfriedMercier/ExploitGUI | 0 | 1| 
 | 20211118T11:07:57Z | PoC - Exploit Delivery via Steganography and Polyglots, CVE-2014-0282 | https://github.com/Charmve/PyStegosploit | 9 | 4| 
@@ -135,7 +135,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211114T09:28:31Z | A penetration testing tool for finding file upload bugs (NDSS 2020) | https://github.com/WSP-LAB/FUSE | 200 | 44| 
+| 20211118T09:32:57Z | A penetration testing tool for finding file upload bugs (NDSS 2020) | https://github.com/WSP-LAB/FUSE | 199 | 44| 
 | 20211113T05:19:12Z | Artifact for Harpo at NDSS2022 | https://github.com/bitzj2015/Harpo-NDSS22 | 0 | 0| 
 | 20211112T02:44:49Z | NDSでシェーダーのようなものを動かす | https://github.com/NidoKota/NDSShader | 0 | 0| 
 
