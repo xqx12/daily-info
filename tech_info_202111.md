@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211118T02:12:00Z | Multiple game utilities to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 127 | 314| 
 | 20211118T02:05:52Z | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | 6856 | 1649| 
 | 20211118T02:03:03Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211118T01:21:08Z | ROBLOX XSS (1 click) vulnerability exploit | https://github.com/veiyolol/xss-vulnerability | 0 | 0| 
@@ -99,7 +100,6 @@
 | 20211117T22:53:11Z | Exploit kits (or exploit packs) are automated programs used by attackers to exploit known vulnerabilities in systems or applications. | https://github.com/Mario-Kart-Felix/Build-exploits-packages | 0 | 0| 
 | 20211117T22:40:19Z | Exploits nested.parallel and nested.optimize to tune neuronal cell models | https://github.com/neurosutras/optimize_cells | 1 | 1| 
 | 20211117T22:10:06Z | A tool for [(semi-){un-(tethered jailbreak)}] of iOS 10.3.x 32-bit devices with checkm8 BootROM exploit.   | https://github.com/dora2-iOS/p0insettia | 7 | 0| 
-| 20211117T22:03:39Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 261 | 14| 
 
 
 # backdoor on Github 推荐
