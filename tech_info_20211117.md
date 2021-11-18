@@ -110,11 +110,11 @@
 | 20211117T23:00:48Z | Null | https://github.com/fillif3/fuzzy-MPC | 0 | 0| 
 | 20211117T22:53:47Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2210 | 433| 
 | 20211117T22:43:40Z | Null | https://github.com/ChrisHayes1/Fuzz-Testing-GUIs-Cross-Platform | 0 | 0| 
-| 20211117T22:01:51Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211117T21:36:12Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 595 | 61| 
 | 20211117T21:31:47Z | A fork and successor of the Sulley Fuzzing Framework | https://github.com/jtpereyda/boofuzz | 1381 | 268| 
 | 20211117T21:30:41Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 254 | 31| 
 | 20211117T21:11:24Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
+| 20211117T21:06:45Z | fuzzy fusion finder | https://github.com/stjude/fuzzion2 | 0 | 0| 
 
 
 

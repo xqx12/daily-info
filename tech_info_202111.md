@@ -143,6 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211118T02:19:10Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211118T01:20:17Z | Null | https://github.com/abalon1210/CAFCA---Context-Aware-Fuzzy-Clustering-for-Analyzing-Interaction-Failures | 0 | 0| 
 | 20211118T01:08:09Z | Null | https://github.com/coder6711/fuzzy-garbanzo | 0 | 0| 
 | 20211118T00:50:18Z | Null | https://github.com/TitamSeptian/makanan-fuzzy | 0 | 0| 
@@ -151,7 +152,6 @@
 | 20211117T23:00:48Z | Null | https://github.com/fillif3/fuzzy-MPC | 0 | 0| 
 | 20211117T22:53:47Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2210 | 433| 
 | 20211117T22:43:40Z | Null | https://github.com/ChrisHayes1/Fuzz-Testing-GUIs-Cross-Platform | 0 | 0| 
-| 20211117T22:01:51Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211117T21:36:12Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 595 | 61| 
 
 
