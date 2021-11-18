@@ -19,6 +19,8 @@
 | 20211117 | 攻击者利用 Domain Fronting 技术重定向缅甸政府网站流量 | https://blog.talosintelligence.com/2021/11/attackers-use-domain-fronting-technique.html| 
 | 20211117 | 【行为测绘应用实战】使用 ZoomEye 一网打尽 Trickbot C2 | https://paper.seebug.org/1759/| 
 | 20211117 | AhnLab 安全应急响应中心近期披露Lazarus Group 的 NukeSped 恶意软件分析报告. | http://asec.ahnlab.com/en/28597/| 
+| 20211117 | Exploit the Fuzz – Exploiting Vulnerabilities in 5G Core Networks | http://research.nccgroup.com/2021/11/16/exploit-the-fuzz-exploiting-vulnerabilities-in-5g-core-networks/| 
+| 20211117 | 黑盒到灰盒再到PWN - 分析某智慧课堂平板 | https://tttang.com/archive/1327/| 
 
 
 # 安全维基 推荐
@@ -31,9 +33,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211117T13:44:00Z | CVE-2021-37580 | CVE-2021-37580的poc | https://github.com/fengwenhua/CVE-2021-37580 | | 
-| 20211117T12:46:40Z | CVE-2021-525 | D-Link credentials decryption tool poc | https://github.com/full-disclosure/FDEU-CVE-2021-525A | | 
-| 20211117T11:53:41Z | CVE-2021-37580 | Null | https://github.com/rabbitsafe/CVE-2021-37580 | | 
+| 20211117T18:52:14Z | CVE-2021-525 | D-Link credentials decryption tool poc | https://github.com/full-disclosure/FDEU-CVE-2021-525A | | 
+| 20211117T16:42:53Z | CVE-2021-37580 | Null | https://github.com/rabbitsafe/CVE-2021-37580 | | 
+| 20211117T15:43:54Z | CVE-2021-37580 | CVE-2021-37580的poc | https://github.com/fengwenhua/CVE-2021-37580 | | 
 | 20211117T11:37:31Z | CVE-2020-0787 | CVE-2020-0787的简单回显 | https://github.com/yanghaoi/CVE-2020-0787 | | 
 | 20211117T02:45:28Z | cve-2020-35314 | cve-2020-35314,一个带phpcode的zip文件 | https://github.com/ybdegit2020/cve-2020-35314-wonderplugin | | 
 
@@ -41,12 +43,13 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211117T13:35:28Z | Null | https://github.com/timoodada/klee | 0 | 0| 
+| 20211117T22:40:07Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 219 | 36| 
+| 20211117T19:36:59Z | Spring 2021 Geography 817 work folder  | https://github.com/klee12/klee12.github.io | 0 | 0| 
+| 20211117T17:44:28Z | Null | https://github.com/timoodada/klee | 0 | 0| 
+| 20211117T17:43:56Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1820 | 521| 
 | 20211117T11:12:19Z | Personal Blog | https://github.com/klee1611/klee1611.github.io | 1 | 1| 
-| 20211117T09:56:28Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1820 | 520| 
 | 20211117T09:39:54Z | Research paper On The Termination of Borrow Checking for Rust and a web application, CLI application and VSCode extension for running static analysis of rust-based smart contracts with a ready-to-be-verified project example. | https://github.com/LedgerProject/safepkt | 0 | 1| 
 | 20211117T09:08:43Z | CLI and HTTP application for running static analysis of rust-based smart contracts | https://github.com/LedgerProject/safepkt_backend | 0 | 1| 
-| 20211117T06:43:50Z | Spring 2021 Geography 817 work folder  | https://github.com/klee12/klee12.github.io | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -57,28 +60,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211117T13:57:45Z | A simple Dockerfile to build an image starting from the latest official one of Kali Linux and including some useful tools. | https://github.com/tsumarios/Kali-Linux-Dockerfile | 11 | 6| 
-| 20211117T13:50:06Z | Given the increasing complexities of today’s network environments, more and more hosts are becoming vulnerable to attacks and hence it is important to look at systematic, efficient and automated approaches for Intrusion Detection. Network Security is to protect computer network against hacking, misuse, unauthorized changes to the system and securing a computer network infrastructure. Network attack is the intrusion or threat can be defined as any deliberate action that attempts unauthorized access, information manipulation, or rendering the system unstable by exploiting the existing vulnerabilities in the system. Intrusion Detection system (IDS) / Intrusion Prevention System (IPS) has become a prerequisite in computer networks. IDS/IPS is a device or software application that monitors network or system activities for malicious activities. These type of IDS/IPS used in the network is known as Network based IDS/IPS. The goal of a Network Intrusion Detection System (NIDS) is to alert a system administrator each time an intruder tries to penetrate the network. A misuse NIDS defines attacks via a table of malicious signatures: if an ongoing activity matches a signature in the table, an alarm is raised. Thousands of organizations depend upon such systems because they are simple to understand, enable administrators to customize the signature database, and provide concrete information about the events that have occurred. In this project we compared the use of various machine learning techniques, to the use of various deep learning techniques for detecting intrusions in networks. We utilized various supervised machine learning techniques and deep learning techniques to train and build multiple classification models that can classify attack type of network traffic versus normal type of network traffic. We compared the test accuracies of these multiple classification models to identify the best model for performing network intrusion detection. We concluded that using a combination of Autoencoder for feature selection, followed by fully connected deep learning model for classification gave better accuracy compared to using machine learning models. | https://github.com/Sayan0104/NDS-using-Deep-Learning | 0 | 0| 
-| 20211117T13:42:39Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10327 | 1776| 
-| 20211117T13:18:55Z | exploiter des données avec pandas et les dataframes | https://github.com/Trifel-guy/twitch_tp | 0 | 0| 
-| 20211117T13:15:16Z | To-Do | https://github.com/Lescovar420/SABA-EXPLOIT-FPSE | 0 | 0| 
-| 20211117T13:14:29Z | Null | https://github.com/gustavorobertux/patch_exploit_ssh | 0 | 0| 
-| 20211117T13:02:59Z | Robotics semester project at LASA, EPFL | https://github.com/RaphaelUebersax/Incrementally_Learning_and_Exploiting_Inverse_Dynamics | 0 | 0| 
-| 20211117T13:02:57Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
-| 20211117T12:57:56Z | Exploiting BERT for End-to-End Aspect-based Sentiment Analysis (W-NUT@EMNLP 2019) | https://github.com/lixin4ever/BERT-E2E-ABSA | 251 | 65| 
-| 20211117T12:54:14Z | Android RAT with web panel and undetectable App | https://github.com/Th30neAnd0nly/Ohm | 81 | 35| 
+| 20211117T22:53:11Z | Exploit kits (or exploit packs) are automated programs used by attackers to exploit known vulnerabilities in systems or applications. | https://github.com/Mario-Kart-Felix/Build-exploits-packages | 0 | 0| 
+| 20211117T22:40:19Z | Exploits nested.parallel and nested.optimize to tune neuronal cell models | https://github.com/neurosutras/optimize_cells | 1 | 1| 
+| 20211117T22:10:06Z | A tool for [(semi-){un-(tethered jailbreak)}] of iOS 10.3.x 32-bit devices with checkm8 BootROM exploit.   | https://github.com/dora2-iOS/p0insettia | 7 | 0| 
+| 20211117T22:03:39Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 261 | 14| 
+| 20211117T21:52:01Z | Legion is an open source, easy-to-use, super-extensible and semi-automated network penetration testing tool that aids in discovery, reconnaissance and exploitation of information systems. | https://github.com/GoVanguard/legion | 660 | 125| 
+| 20211117T21:46:44Z | AD Enum is a pentesting tool that allows to find misconfiguration through the the protocol LDAP and exploit some of those weaknesses with kerberos. | https://github.com/SecuProject/ADenum | 37 | 16| 
+| 20211117T21:43:46Z | Projet système exploitation P18M groupe 1 (Arnaud/Vincent/Frederic/Claude) | https://github.com/Claudio4813/Reveil_berry | 0 | 1| 
+| 20211117T21:31:24Z | Everest, A Next-Gen Roblox Exploitation Toolkit. | https://github.com/Th3Tr1ckst3r/Everest | 3 | 1| 
+| 20211117T20:53:29Z | Exploitation and reporting practice on simulated vulnerable labs, CTFs, etc. | https://github.com/VallesG/Pentest-Practice | 0 | 0| 
+| 20211117T20:48:38Z | Git Scraping project for CISA Known Exploited Vulnerability Catalog | https://github.com/JosephTLucas/CISA_KNOWN_EXPLOITED_VULNERABILITIES_CATALOG | 1 | 1| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211117T21:04:45Z | Remote Admin Tool (Trojan) based on TypeScript and Golang. | https://github.com/zarkones/damn-simple-rat | 1 | 0| 
+| 20211117T20:55:32Z | RemoteEvent%s & RemoteFunction%s Backdoor Scanner. Feel free to visit now. | https://github.com/jaackkiscool/Frickin-Serverside-Scanner-v1.1 | 3 | 0| 
+| 20211117T19:22:16Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1497 | 372| 
+| 20211117T16:37:29Z | A self made multi-purpose CTF tool written under Kali Linux Os taking adventage of several programs pre-installed. Contains one liner backdoors generator for many programs/languages, recognition scanners, useful  encoders/decoders with some special features as powershell base64 format, tools from ... [ more info at README.md ] | https://github.com/0bfxgh0st/saf2 | 2 | 1| 
+| 20211117T16:06:27Z | An experimental anti-virus detected remote backdoor for LL practice. | https://github.com/GAntonacci95/remote_backdoor | 0 | 0| 
+| 20211117T14:14:02Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 361 | 63| 
 | 20211117T12:46:33Z | Null | https://github.com/shipxu123/Backdoor_NAS | 0 | 0| 
-| 20211117T08:00:51Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1498 | 372| 
 | 20211117T03:26:21Z | Null | https://github.com/Defragi686/Suid-Backdoor | 0 | 0| 
-| 20211117T03:25:11Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 361 | 63| 
 | 20211117T02:39:19Z | Lite version of my Gatekeeper backdoor for public use. | https://github.com/dievus/GatekeeperLite | 52 | 8| 
 | 20211117T00:43:39Z | Backdoor en fase de desarrollo | https://github.com/est0800/Backdoor | 0 | 0| 
-| 20211117T00:40:39Z | Codebase for my Level 4 University Project: Static Analysis of Executable Code to Detect Backdoors on IoT Devices | https://github.com/sophieboyle/Static-IoT-Backdoor-Detection | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -99,16 +105,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211117T13:51:08Z | Null | https://github.com/eduardobritosan/fuzzyLogicDam | 0 | 0| 
-| 20211117T13:34:52Z | Shitty flappy bird implemented on a fried potato for the course Computer Organization and Components IS1500 | https://github.com/johanlam/fuzzy-potato | 1 | 0| 
-| 20211117T13:34:25Z | Null | https://github.com/polymorphicengine/Semi-Fuzzy-Quantifiers | 0 | 0| 
-| 20211117T13:12:47Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6823 | 1423| 
-| 20211117T13:10:49Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3782 | 892| 
-| 20211117T12:52:18Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20211117T12:44:33Z | Fuzzy Calculating of Human Brain’s Weight Using Depth Sensors | https://github.com/SeyedMuhammadHosseinMousavi/Fuzzy-Calculating-of-Human-Brain-s-Weight-Using-Depth-Sensors | 0 | 0| 
-| 20211117T12:38:34Z | tired of typing afl-fuzz? try bun! | https://github.com/ocurrent/bun | 47 | 8| 
-| 20211117T12:22:44Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 34702 | 18054| 
-| 20211117T12:11:18Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1331 | 236| 
+| 20211117T23:38:56Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6826 | 1423| 
+| 20211117T23:14:16Z | Null | https://github.com/rafibu/fuzzy | 0 | 0| 
+| 20211117T23:00:48Z | Null | https://github.com/fillif3/fuzzy-MPC | 0 | 0| 
+| 20211117T22:53:47Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2210 | 433| 
+| 20211117T22:43:40Z | Null | https://github.com/ChrisHayes1/Fuzz-Testing-GUIs-Cross-Platform | 0 | 0| 
+| 20211117T22:01:51Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20211117T21:36:12Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 595 | 61| 
+| 20211117T21:31:47Z | A fork and successor of the Sulley Fuzzing Framework | https://github.com/jtpereyda/boofuzz | 1381 | 268| 
+| 20211117T21:30:41Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 254 | 31| 
+| 20211117T21:11:24Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
 
 
 
