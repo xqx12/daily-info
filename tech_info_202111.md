@@ -143,6 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211118T13:48:17Z | ovAFLow: Detecting Memory Corruption Bugs with Fuzzing-based Taint Inference | https://github.com/zhanggenex/ovAFLow | 3 | 0| 
 | 20211118T13:45:23Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3785 | 893| 
 | 20211118T13:38:39Z | Null | https://github.com/flruee/FuzzingSeminar | 1 | 0| 
 | 20211118T13:37:20Z | 基于已有域名FUZZ实现相似域名挖掘-NovaSec | https://github.com/winezer0/SimilarDomainCollect | 6 | 2| 
@@ -152,7 +153,6 @@
 | 20211118T13:07:04Z | FuzzPEG: A Context-Free Random Program Generator | https://github.com/FAU-Inf2/FuzzPEG | 0 | 0| 
 | 20211118T13:05:50Z | A differential fuzzer for x86 decoders | https://github.com/trailofbits/mishegos | 158 | 23| 
 | 20211118T12:52:55Z | Null | https://github.com/antonio-morales/Fuzzing101 | 686 | 66| 
-| 20211118T12:28:01Z | Generates Elm types, JSON decoders, JSON encoders and fuzz tests from JSON schema specifications | https://github.com/dragonwasrobot/json-schema-to-elm | 70 | 7| 
 
 
 
