@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211118T13:33:56Z | Laravel PHPUNIT Rce Auto Exploit & Retrieving information in .env (such as SMTP, AWS, TWILIO,  SSH, NEXMO, PERFECTMONEY, and other.) | https://github.com/404rgr/Laravel_Exploit | 14 | 8| 
 | 20211118T13:31:00Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10332 | 1776| 
 | 20211118T13:20:01Z | some hacking tools that I wrote | https://github.com/Alekseyyy/InfoSec | 1 | 3| 
 | 20211118T13:18:42Z | Une exploitation de WikiData pour reconstruire les relations entre les établissements de l%ESR. | https://github.com/cpesr/wikidataESR | 4 | 1| 
@@ -99,7 +100,6 @@
 | 20211118T11:18:13Z | User interface for the IRAP Exploit machine | https://github.com/WilfriedMercier/ExploitGUI | 0 | 1| 
 | 20211118T11:07:57Z | PoC - Exploit Delivery via Steganography and Polyglots, CVE-2014-0282 | https://github.com/Charmve/PyStegosploit | 9 | 4| 
 | 20211118T10:46:32Z | Small crash client base for retarded(german) people who steal other people%s code. | https://github.com/narumii/Niko | 21 | 1| 
-| 20211118T10:43:23Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 87 | 13| 
 
 
 # backdoor on Github 推荐
@@ -143,7 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211118T13:33:12Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6827 | 1423| 
+| 20211118T13:33:12Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6827 | 1424| 
 | 20211118T13:32:37Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3784 | 893| 
 | 20211118T13:27:27Z | Null | https://github.com/flruee/FuzzingSeminar | 1 | 0| 
 | 20211118T13:19:26Z | OSS-Sydr-Fuzz - OSS-Fuzz fork for hybrid fuzzing (fuzzer+DSE) open source software. | https://github.com/ispras/oss-sydr-fuzz | 5 | 1| 
