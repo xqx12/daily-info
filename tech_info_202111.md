@@ -143,6 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211118T01:08:09Z | Null | https://github.com/coder6711/fuzzy-garbanzo | 0 | 0| 
 | 20211118T00:50:18Z | Null | https://github.com/TitamSeptian/makanan-fuzzy | 0 | 0| 
 | 20211117T23:38:56Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6826 | 1423| 
 | 20211117T23:14:16Z | Null | https://github.com/rafibu/fuzzy | 0 | 0| 
@@ -152,7 +153,6 @@
 | 20211117T22:01:51Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211117T21:36:12Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 595 | 61| 
 | 20211117T21:31:47Z | A fork and successor of the Sulley Fuzzing Framework | https://github.com/jtpereyda/boofuzz | 1381 | 268| 
-| 20211117T21:30:41Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 254 | 31| 
 
 
 
