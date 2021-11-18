@@ -46,16 +46,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211118T13:20:01Z | some hacking tools that I wrote | https://github.com/Alekseyyy/InfoSec | 1 | 3| 
+| 20211118T13:18:42Z | Une exploitation de WikiData pour reconstruire les relations entre les établissements de l%ESR. | https://github.com/cpesr/wikidataESR | 4 | 1| 
 | 20211118T13:03:07Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211118T12:54:45Z | Null | https://github.com/R-Laurent/TP1_Systeme_exploitation | 0 | 0| 
 | 20211118T12:45:32Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 14| 
-| 20211118T12:16:36Z | some hacking tools that I wrote | https://github.com/Alekseyyy/InfoSec | 1 | 3| 
 | 20211118T11:58:41Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10331 | 1776| 
 | 20211118T11:18:13Z | User interface for the IRAP Exploit machine | https://github.com/WilfriedMercier/ExploitGUI | 0 | 1| 
 | 20211118T11:07:57Z | PoC - Exploit Delivery via Steganography and Polyglots, CVE-2014-0282 | https://github.com/Charmve/PyStegosploit | 9 | 4| 
 | 20211118T10:46:32Z | Small crash client base for retarded(german) people who steal other people%s code. | https://github.com/narumii/Niko | 21 | 1| 
 | 20211118T10:43:23Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 87 | 13| 
-| 20211118T10:28:45Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 2617 | 398| 
 
 
 # backdoor on Github 推荐
@@ -90,7 +90,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211118T13:17:06Z | OSS-Sydr-Fuzz - OSS-Fuzz fork for hybrid fuzzing (fuzzer+DSE) open source software. | https://github.com/ispras/oss-sydr-fuzz | 5 | 1| 
+| 20211118T13:19:26Z | OSS-Sydr-Fuzz - OSS-Fuzz fork for hybrid fuzzing (fuzzer+DSE) open source software. | https://github.com/ispras/oss-sydr-fuzz | 5 | 1| 
 | 20211118T13:12:47Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20211118T13:07:04Z | FuzzPEG: A Context-Free Random Program Generator | https://github.com/FAU-Inf2/FuzzPEG | 0 | 0| 
 | 20211118T13:05:50Z | A differential fuzzer for x86 decoders | https://github.com/trailofbits/mishegos | 158 | 23| 
