@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211118T02:28:04Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | 0 | 0| 
 | 20211118T02:27:04Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10329 | 1776| 
 | 20211118T02:12:00Z | Multiple game utilities to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 127 | 314| 
 | 20211118T02:05:52Z | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | 6856 | 1649| 
@@ -99,7 +100,6 @@
 | 20211118T00:45:33Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 14| 
 | 20211118T00:42:55Z | Null | https://github.com/Eyeofthequeen/TP_sys_exploitation | 0 | 0| 
 | 20211117T22:53:11Z | Exploit kits (or exploit packs) are automated programs used by attackers to exploit known vulnerabilities in systems or applications. | https://github.com/Mario-Kart-Felix/Build-exploits-packages | 0 | 0| 
-| 20211117T22:40:19Z | Exploits nested.parallel and nested.optimize to tune neuronal cell models | https://github.com/neurosutras/optimize_cells | 1 | 1| 
 
 
 # backdoor on Github 推荐
