@@ -89,6 +89,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211118T13:07:04Z | FuzzPEG: A Context-Free Random Program Generator | https://github.com/FAU-Inf2/FuzzPEG | 0 | 0| 
+| 20211118T13:05:50Z | A differential fuzzer for x86 decoders | https://github.com/trailofbits/mishegos | 158 | 23| 
+| 20211118T13:01:50Z | OSS-Sydr-Fuzz - OSS-Fuzz fork for hybrid fuzzing (fuzzer+DSE) open source software. | https://github.com/ispras/oss-sydr-fuzz | 5 | 1| 
 | 20211118T12:53:16Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3784 | 893| 
 | 20211118T12:52:55Z | Null | https://github.com/antonio-morales/Fuzzing101 | 686 | 65| 
 | 20211118T12:34:39Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
@@ -96,9 +99,6 @@
 | 20211118T12:23:37Z | This project was the final project of my fuzzy control university course. This project is a library that trains a TSK fuzzy interface system (fis) from scratch in MATLAB and not using the MATLAB fis tools. | https://github.com/kiankhaneghahi/Training-a-TSK-fuzzy-interface-system-from-scratch-in-MATLAB | 0 | 0| 
 | 20211118T12:21:48Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 360 | 30| 
 | 20211118T11:55:26Z | Null | https://github.com/Babydirt/fuzzy-rotary-phone | 0 | 0| 
-| 20211118T11:48:46Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 634 | 131| 
-| 20211118T11:48:34Z | Null | https://github.com/gungnir479/fuzzJIT | 0 | 0| 
-| 20211118T11:48:25Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 596 | 61| 
 
 
 
