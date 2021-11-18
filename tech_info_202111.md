@@ -105,6 +105,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211118T02:39:52Z | This keylogger stores all keystrokes with timestamps in the array and sends them to the server controlled by a hacker via HTTP every 2 hundred milliseconds. This tutorial is a simple example of what you can record with Javascript backdoor. It’s also possible to record mouse movements and clicks and a DOM element and to view the recorded data in live mode. | https://github.com/duongletrieu/Simple-XSS-Keylogger | 1 | 0| 
 | 20211118T01:20:57Z | Using Github Action to build, 100% Safety. No any backdoor. | https://github.com/huangguiniab/lwjgl-backports | 1 | 0| 
 | 20211118T01:19:54Z | Null | https://github.com/samuelventura/nerves_backdoor | 0 | 0| 
 | 20211117T21:04:45Z | Remote Admin Tool (Trojan) based on TypeScript and Golang. | https://github.com/zarkones/damn-simple-rat | 1 | 0| 
@@ -114,7 +115,6 @@
 | 20211117T16:06:27Z | An experimental anti-virus detected remote backdoor for LL practice. | https://github.com/GAntonacci95/remote_backdoor | 0 | 0| 
 | 20211117T14:14:02Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 361 | 63| 
 | 20211117T12:46:33Z | Null | https://github.com/shipxu123/Backdoor_NAS | 0 | 0| 
-| 20211117T03:26:21Z | Null | https://github.com/Defragi686/Suid-Backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
