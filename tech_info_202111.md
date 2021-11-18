@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211118T01:16:23Z | CVE-2021-37580 | Null | https://github.com/rabbitsafe/CVE-2021-37580 | | 
+| 20211118T01:17:17Z | CVE-2021-37580 | Null | https://github.com/rabbitsafe/CVE-2021-37580 | | 
 | 20211117T18:52:14Z | CVE-2021-525 | D-Link credentials decryption tool poc | https://github.com/full-disclosure/FDEU-CVE-2021-525A | | 
 | 20211117T15:43:54Z | CVE-2021-37580 | CVE-2021-37580的poc | https://github.com/fengwenhua/CVE-2021-37580 | | 
 | 20211117T11:37:31Z | CVE-2020-0787 | CVE-2020-0787的简单回显 | https://github.com/yanghaoi/CVE-2020-0787 | | 
@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211118T01:18:00Z | ROBLOX XSS (1 click) vulnerability exploit | https://github.com/veiyolol/xss-vulnerability | 0 | 0| 
 | 20211118T01:05:00Z | A collection of write ups on how I solved each exploit challenge on Exploit Education | https://github.com/dyllan500/Exploit-Education-Write-Up | 0 | 0| 
 | 20211118T01:03:27Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211118T00:45:33Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 14| 
@@ -99,12 +100,12 @@
 | 20211117T22:10:06Z | A tool for [(semi-){un-(tethered jailbreak)}] of iOS 10.3.x 32-bit devices with checkm8 BootROM exploit.   | https://github.com/dora2-iOS/p0insettia | 7 | 0| 
 | 20211117T22:03:39Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 261 | 14| 
 | 20211117T21:52:01Z | Legion is an open source, easy-to-use, super-extensible and semi-automated network penetration testing tool that aids in discovery, reconnaissance and exploitation of information systems. | https://github.com/GoVanguard/legion | 660 | 125| 
-| 20211117T21:46:44Z | AD Enum is a pentesting tool that allows to find misconfiguration through the the protocol LDAP and exploit some of those weaknesses with kerberos. | https://github.com/SecuProject/ADenum | 37 | 16| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211118T01:19:54Z | Null | https://github.com/samuelventura/nerves_backdoor | 0 | 0| 
 | 20211118T00:44:54Z | Using Github Action to build, 100% Safety. No any backdoor. | https://github.com/huangguiniab/lwjgl-backports | 1 | 0| 
 | 20211117T21:04:45Z | Remote Admin Tool (Trojan) based on TypeScript and Golang. | https://github.com/zarkones/damn-simple-rat | 1 | 0| 
 | 20211117T20:55:32Z | RemoteEvent%s & RemoteFunction%s Backdoor Scanner. Feel free to visit now. | https://github.com/jaackkiscool/Frickin-Serverside-Scanner-v1.1 | 3 | 0| 
@@ -114,7 +115,6 @@
 | 20211117T14:14:02Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 361 | 63| 
 | 20211117T12:46:33Z | Null | https://github.com/shipxu123/Backdoor_NAS | 0 | 0| 
 | 20211117T03:26:21Z | Null | https://github.com/Defragi686/Suid-Backdoor | 0 | 0| 
-| 20211117T02:39:19Z | Lite version of my Gatekeeper backdoor for public use. | https://github.com/dievus/GatekeeperLite | 52 | 8| 
 
 
 # symbolic execution on Github 推荐
@@ -143,6 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211118T01:20:17Z | Null | https://github.com/abalon1210/CAFCA---Context-Aware-Fuzzy-Clustering-for-Analyzing-Interaction-Failures | 0 | 0| 
 | 20211118T01:08:09Z | Null | https://github.com/coder6711/fuzzy-garbanzo | 0 | 0| 
 | 20211118T00:50:18Z | Null | https://github.com/TitamSeptian/makanan-fuzzy | 0 | 0| 
 | 20211117T23:38:56Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6826 | 1423| 
@@ -152,7 +153,6 @@
 | 20211117T22:43:40Z | Null | https://github.com/ChrisHayes1/Fuzz-Testing-GUIs-Cross-Platform | 0 | 0| 
 | 20211117T22:01:51Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211117T21:36:12Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 595 | 61| 
-| 20211117T21:31:47Z | A fork and successor of the Sulley Fuzzing Framework | https://github.com/jtpereyda/boofuzz | 1381 | 268| 
 
 
 
