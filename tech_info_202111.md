@@ -90,7 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211118T01:18:00Z | ROBLOX XSS (1 click) vulnerability exploit | https://github.com/veiyolol/xss-vulnerability | 0 | 0| 
+| 20211118T01:20:26Z | ROBLOX XSS (1 click) vulnerability exploit | https://github.com/veiyolol/xss-vulnerability | 0 | 0| 
 | 20211118T01:05:00Z | A collection of write ups on how I solved each exploit challenge on Exploit Education | https://github.com/dyllan500/Exploit-Education-Write-Up | 0 | 0| 
 | 20211118T01:03:27Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211118T00:45:33Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 14| 
