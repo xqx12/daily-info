@@ -143,7 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211119T02:44:00Z | FuzzyTabBar 套件的演示範例 | https://github.com/ling-zhan/FuzzyTabBarDemo | 0 | 0| 
+| 20211119T02:44:29Z | FuzzyTabBar 套件的演示範例 | https://github.com/ling-zhan/FuzzyTabBarDemo | 0 | 0| 
 | 20211119T02:42:28Z | 一個 SwiftUI TabBar 套件(模糊效果) | https://github.com/ling-zhan/FuzzyTabBar | 0 | 0| 
 | 20211119T02:40:55Z | Null | https://github.com/Fuddies/fuzzy-octo-memory | 0 | 0| 
 | 20211119T02:35:32Z | An application of Expert system using Fuzzy Logic | https://github.com/JulviantoM/Sistem_Pakar-Fuzzy_Logic | 0 | 0| 
