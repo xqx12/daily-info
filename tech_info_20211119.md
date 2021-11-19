@@ -98,6 +98,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211119T13:29:49Z | Trabalho Logica Fuzzy PUC RIO | https://github.com/fecmarinho/logica-fuzzy | 0 | 0| 
 | 20211119T13:21:40Z | Yet another web fuzzer | https://github.com/FooBallZ/yafuzz | 0 | 0| 
 | 20211119T13:11:09Z | Null | https://github.com/truzz-fuzz/truzz-fuzz | 0 | 0| 
 | 20211119T13:00:39Z | Null | https://github.com/polymorphicengine/Semi-Fuzzy-Quantifiers | 0 | 0| 
@@ -107,7 +108,6 @@
 | 20211119T12:21:37Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 202 | 38| 
 | 20211119T12:06:29Z | jnp1-2021 fuzzy projekt 3 | https://github.com/eerio/fuzzy | 0 | 0| 
 | 20211119T12:05:03Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20211119T12:02:16Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 36 | 12| 
 
 
 
