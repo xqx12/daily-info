@@ -90,12 +90,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211119T02:03:17Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211119T01:32:29Z | A Simple Exploit Fixer plugin that aims to fix most lag machines  | https://github.com/KRYMZ0N/SimpleExploitFixer | 1 | 0| 
 | 20211119T01:21:27Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 105 | 20| 
 | 20211119T01:17:16Z | Large-Scale Memory Error Exploits in IoT | https://github.com/sridhar-research-lab/MEDDoS | 0 | 0| 
 | 20211119T01:06:31Z | CTF writeups and exploits | https://github.com/verso1/writeups | 0 | 0| 
 | 20211119T01:06:25Z | 🎻 Requiem: Modular exploit generation using symbolic execution | https://github.com/aesophor/requiem | 15 | 3| 
-| 20211119T01:03:09Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211119T01:02:20Z | Large-Scale Memory Error Exploits in IoT | https://github.com/sridhar-research-lab/MEDDDoS | 0 | 0| 
 | 20211119T00:45:32Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 14| 
 | 20211119T00:44:38Z | A collection of more than 160+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 991 | 234| 
@@ -143,8 +143,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211119T02:01:00Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2216 | 433| 
 | 20211119T01:22:43Z | A Haskell implementation of Fuzzy Identity Based Encryption modified to work over asymmetric bilinear pairing | https://github.com/octeep/fuzzyibe | 0 | 0| 
-| 20211119T01:10:41Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2215 | 433| 
 | 20211119T01:01:07Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2440 | 149| 
 | 20211119T00:57:32Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 723 | 146| 
 | 20211119T00:26:26Z | Null | https://github.com/fuboat/utils-for-fuzz | 0 | 0| 
