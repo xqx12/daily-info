@@ -143,6 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211119T02:45:55Z | Fuzz language model that used chatbot | https://github.com/ksjr7-crongcrong/chatbot_fuzzer | 0 | 1| 
 | 20211119T02:44:29Z | FuzzyTabBar 套件的演示範例 | https://github.com/ling-zhan/FuzzyTabBarDemo | 0 | 0| 
 | 20211119T02:42:28Z | 一個 SwiftUI TabBar 套件(模糊效果) | https://github.com/ling-zhan/FuzzyTabBar | 0 | 0| 
 | 20211119T02:40:55Z | Null | https://github.com/Fuddies/fuzzy-octo-memory | 0 | 0| 
@@ -152,7 +153,6 @@
 | 20211119T02:01:00Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2216 | 433| 
 | 20211119T01:22:43Z | A Haskell implementation of Fuzzy Identity Based Encryption modified to work over asymmetric bilinear pairing | https://github.com/octeep/fuzzyibe | 0 | 0| 
 | 20211119T00:57:32Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 723 | 146| 
-| 20211119T00:26:26Z | Null | https://github.com/fuboat/utils-for-fuzz | 0 | 0| 
 
 
 
