@@ -143,7 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211119T13:09:53Z | Null | https://github.com/truzz-fuzz/truzz-fuzz | 0 | 0| 
+| 20211119T13:11:09Z | Null | https://github.com/truzz-fuzz/truzz-fuzz | 0 | 0| 
 | 20211119T13:00:39Z | Null | https://github.com/polymorphicengine/Semi-Fuzzy-Quantifiers | 0 | 0| 
 | 20211119T12:50:14Z | White-box fuzzer for Java bytecode | https://github.com/vorpal-research/kex | 7 | 10| 
 | 20211119T12:49:07Z | GH repo for the docker fuzz container that contains all necessary tools to get started with binary fuzzing and debugging | https://github.com/0xricksanchez/docker_fuzz | 4 | 0| 
