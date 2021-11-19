@@ -143,11 +143,11 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211119T13:12:06Z | Yet another web fuzzer | https://github.com/FooBallZ/yafuzz | 0 | 0| 
 | 20211119T13:11:09Z | Null | https://github.com/truzz-fuzz/truzz-fuzz | 0 | 0| 
 | 20211119T13:00:39Z | Null | https://github.com/polymorphicengine/Semi-Fuzzy-Quantifiers | 0 | 0| 
 | 20211119T12:50:14Z | White-box fuzzer for Java bytecode | https://github.com/vorpal-research/kex | 7 | 10| 
 | 20211119T12:49:07Z | GH repo for the docker fuzz container that contains all necessary tools to get started with binary fuzzing and debugging | https://github.com/0xricksanchez/docker_fuzz | 4 | 0| 
-| 20211119T12:41:45Z | Yet another web fuzzer | https://github.com/FooBallZ/yafuzz | 0 | 0| 
 | 20211119T12:40:53Z | Code to implement Fuzzy Matching (index and retrieval) using Java Lucene | https://github.com/jmcrego/FuzzyMatchingWithLucene | 0 | 0| 
 | 20211119T12:21:37Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 202 | 38| 
 | 20211119T12:06:29Z | jnp1-2021 fuzzy projekt 3 | https://github.com/eerio/fuzzy | 0 | 0| 
