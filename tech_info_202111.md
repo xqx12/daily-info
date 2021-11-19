@@ -76,9 +76,9 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211119T01:03:07Z | 🎻 Requiem: Modular exploit generation using symbolic execution | https://github.com/aesophor/requiem | 15 | 3| 
 | 20211118T21:14:02Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 182 | 39| 
 | 20211116T20:55:05Z | jhirschm | https://github.com/jhirschm/S2E_PhotoinjectorLaserModel | 0 | 0| 
-| 20211116T16:22:06Z | 🎻 Requiem: Modular exploit generation using symbolic execution | https://github.com/aesophor/requiem | 15 | 3| 
 | 20211116T09:52:52Z | Null | https://github.com/t0ry003/BAC-2009-S2E5 | 0 | 0| 
 | 20211115T03:18:45Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 77 | 31| 
 | 20211114T20:18:26Z | Null | https://github.com/fttatar/malicious_call_seq_anaysis_using_s2e | 0 | 0| 
@@ -90,6 +90,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211119T01:03:28Z | Large-Scale Memory Error Exploits in IoT | https://github.com/sridhar-research-lab/MEDDoS | 0 | 0| 
+| 20211119T01:03:09Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
+| 20211119T01:03:07Z | 🎻 Requiem: Modular exploit generation using symbolic execution | https://github.com/aesophor/requiem | 15 | 3| 
 | 20211119T01:02:20Z | Large-Scale Memory Error Exploits in IoT | https://github.com/sridhar-research-lab/MEDDDoS | 0 | 0| 
 | 20211119T00:45:32Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 14| 
 | 20211119T00:44:38Z | A collection of more than 160+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 991 | 234| 
@@ -97,9 +100,6 @@
 | 20211119T00:29:31Z | Null | https://github.com/WhitfieBad/LearningExploiting | 0 | 0| 
 | 20211119T00:16:44Z | This powershell script has got to run in remote hacked windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 12 | 3| 
 | 20211119T00:08:25Z | This bash scripts will help you to hack remote hosts. You can choose and run one of them. | https://github.com/FabioDefilippo/linuxallremote | 30 | 5| 
-| 20211119T00:03:43Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
-| 20211118T23:57:33Z | Exploit para Apache Struts v2 (RCE) | https://github.com/andre3llo/apachestruts | 0 | 0| 
-| 20211118T23:23:35Z | Bluetooth Exploitation Framework | https://github.com/chimerafoundation/befw | 0 | 0| 
 
 
 # backdoor on Github 推荐
