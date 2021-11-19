@@ -53,6 +53,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211119T13:03:02Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211119T12:46:56Z | Firmware patcher for Xiaomi routers | https://github.com/openwrt-xiaomi/xmir-patcher | 3 | 0| 
 | 20211119T12:46:52Z | This is an implementation of DBA from %Faster and more accurate classification of time series by exploiting a novel dynamic time warping averaging algorithm% paper | https://github.com/zabdallah/DBA-Python | 1 | 0| 
 | 20211119T12:45:32Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 14| 
@@ -61,7 +62,6 @@
 | 20211119T12:18:01Z | StandIn is a small .NET35/45 AD post-exploitation toolkit | https://github.com/FuzzySecurity/StandIn | 274 | 64| 
 | 20211119T12:13:52Z | Commodity Injection Signatures, Malicious Inputs, XSS, HTTP Header Injection, XXE, RCE, Javascript, XSLT | https://github.com/xsscx/Commodity-Injection-Signatures | 288 | 108| 
 | 20211119T12:07:06Z | Shows how to use Spark for distributed processing on the PROBA-V Mission Exploitation Platform. | https://github.com/VITObelgium/python-spark-quickstart | 0 | 0| 
-| 20211119T12:03:46Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211119T11:59:47Z | Resources and articles I need to take a look at. Mostly about malware/exploit development and analysis. | https://github.com/Cerbersec/notes | 1 | 2| 
 
 
@@ -77,8 +77,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211119T01:09:59Z | Semantic interpretation the ARM Specification Language using symbolic execution  | https://github.com/GaloisInc/asl-translator | 2 | 0| 
-| 20211119T01:06:25Z | 🎻 Requiem: Modular exploit generation using symbolic execution | https://github.com/aesophor/requiem | 15 | 3| 
+| 20211119T11:36:43Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 164 | 37| 
+| 20211119T11:06:34Z | A symbolic execution engine which works on a subset of RISC-V (compiled from a subset of C). | https://github.com/aabyaneh/ase_engine | 1 | 0| 
+| 20211119T10:23:36Z | FuSeBMC is a White-Box Fuzzer that combines FUzzing with Symbolic Execution via Bounded Model Checking to verify intricate properties in real-world C programs. | https://github.com/kaled-alshmrany/FuSeBMC | 19 | 2| 
+| 20211119T07:37:29Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 184 | 39| 
+| 20211119T07:03:29Z | 🎻 Requiem: Modular exploit generation using symbolic execution | https://github.com/aesophor/requiem | 15 | 3| 
+| 20211119T06:52:51Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 0 | 0| 
+| 20211119T06:51:20Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1922 | 402| 
+| 20211119T05:27:45Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 10 | 4| 
+| 20211119T04:16:39Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2545 | 379| 
+| 20211119T03:31:17Z | Angora is a mutation-based fuzzer.  The main goal of Angora is to increase branch coverage by solving path constraints without symbolic execution.  | https://github.com/AngoraFuzzer/Angora | 726 | 135| 
 
 
 # big4 on Github 推荐
