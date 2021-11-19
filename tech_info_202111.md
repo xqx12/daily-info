@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211119T01:21:27Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 105 | 20| 
 | 20211119T01:17:16Z | Large-Scale Memory Error Exploits in IoT | https://github.com/sridhar-research-lab/MEDDoS | 0 | 0| 
 | 20211119T01:06:31Z | CTF writeups and exploits | https://github.com/verso1/writeups | 0 | 0| 
 | 20211119T01:06:25Z | 🎻 Requiem: Modular exploit generation using symbolic execution | https://github.com/aesophor/requiem | 15 | 3| 
@@ -99,7 +100,6 @@
 | 20211119T00:44:38Z | A collection of more than 160+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 991 | 234| 
 | 20211119T00:29:31Z | Null | https://github.com/WhitfieBad/LearningExploiting | 0 | 0| 
 | 20211119T00:16:44Z | This powershell script has got to run in remote hacked windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 12 | 3| 
-| 20211119T00:08:25Z | This bash scripts will help you to hack remote hosts. You can choose and run one of them. | https://github.com/FabioDefilippo/linuxallremote | 30 | 5| 
 
 
 # backdoor on Github 推荐
@@ -143,7 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211119T01:18:29Z | A Haskell implementation of Fuzzy Identity Based Encryption modified to work over asymmetric bilinear pairing | https://github.com/octeep/fuzzyibe | 0 | 0| 
+| 20211119T01:22:43Z | A Haskell implementation of Fuzzy Identity Based Encryption modified to work over asymmetric bilinear pairing | https://github.com/octeep/fuzzyibe | 0 | 0| 
 | 20211119T01:10:41Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2215 | 433| 
 | 20211119T01:01:07Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2440 | 149| 
 | 20211119T00:57:32Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 723 | 146| 
