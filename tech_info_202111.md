@@ -61,9 +61,9 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211119T13:42:24Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1824 | 521| 
 | 20211119T10:49:27Z | Null | https://github.com/timoodada/klee | 0 | 0| 
 | 20211119T09:44:19Z | Null | https://github.com/AlyonaAg/klee | 0 | 0| 
-| 20211119T04:17:04Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1823 | 521| 
 | 20211119T02:31:01Z | Config files for my GitHub profile. | https://github.com/kleear77/kleear77 | 0 | 0| 
 | 20211117T22:40:07Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 219 | 36| 
 | 20211117T19:36:59Z | Spring 2021 Geography 817 work folder  | https://github.com/klee12/klee12.github.io | 0 | 0| 
@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211119T13:42:03Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10337 | 1778| 
 | 20211119T13:03:02Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211119T12:46:56Z | Firmware patcher for Xiaomi routers | https://github.com/openwrt-xiaomi/xmir-patcher | 3 | 0| 
 | 20211119T12:46:52Z | This is an implementation of DBA from %Faster and more accurate classification of time series by exploiting a novel dynamic time warping averaging algorithm% paper | https://github.com/zabdallah/DBA-Python | 1 | 0| 
@@ -99,7 +100,6 @@
 | 20211119T12:18:01Z | StandIn is a small .NET35/45 AD post-exploitation toolkit | https://github.com/FuzzySecurity/StandIn | 274 | 64| 
 | 20211119T12:13:52Z | Commodity Injection Signatures, Malicious Inputs, XSS, HTTP Header Injection, XXE, RCE, Javascript, XSLT | https://github.com/xsscx/Commodity-Injection-Signatures | 288 | 108| 
 | 20211119T12:07:06Z | Shows how to use Spark for distributed processing on the PROBA-V Mission Exploitation Platform. | https://github.com/VITObelgium/python-spark-quickstart | 0 | 0| 
-| 20211119T11:59:47Z | Resources and articles I need to take a look at. Mostly about malware/exploit development and analysis. | https://github.com/Cerbersec/notes | 1 | 2| 
 
 
 # backdoor on Github 推荐
