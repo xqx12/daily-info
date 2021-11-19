@@ -105,6 +105,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211119T01:55:17Z | Hide a process,port,self under Linux using the ld_preload | https://github.com/veo/vbackdoor | 26 | 10| 
 | 20211119T00:48:54Z | Null | https://github.com/samuelventura/nerves_backdoor | 0 | 0| 
 | 20211118T21:58:18Z | This project consist in create a bind between two machines and take total control like a shadow. | https://github.com/giovannyortegon/BackdoorApp | 0 | 1| 
 | 20211118T21:28:28Z | An Intermediate level backdoor that utilizes HTTP/TCP sockets, light Caesar cypher encryption & more. | https://github.com/0xvpr/Vipers-Public-Backdoor-1 | 3 | 0| 
@@ -114,7 +115,6 @@
 | 20211118T14:45:10Z | Very poor BackDoor script. Because script is very old. Use for Ethnical purpose. | https://github.com/FreeHackingCode/EthnicalHacking-BackDoor-Discord | 0 | 0| 
 | 20211118T14:39:48Z | xiaomi-router-4a-backdoor-go | https://github.com/wrysunny/xiaomi-router-4a-backdoor-go | 0 | 0| 
 | 20211118T13:13:24Z | RemoteEvent%s & RemoteFunction%s Backdoor Scanner. Feel free to visit now. | https://github.com/jaackkiscool/Frickin-Serverside-Scanner-v1.1 | 3 | 0| 
-| 20211118T10:40:59Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 36 | 28| 
 
 
 # symbolic execution on Github 推荐
