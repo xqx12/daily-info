@@ -6,6 +6,13 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20211119 | 研究发现从 LCP bus Sniffer 得到的 TPM key 可以用于从 BitLocker 保护的设备中读写数据 | https://blog.scrt.ch/2021/11/15/tpm-sniffing/| 
+| 20211119 | FBI 发布告警称，FatPipe 路由器 VPN 被 APT 组织用于发起 APT 攻击 | https://threatpost.com/fbi-fatpipe-vpn-zero-day-exploited-apt/176453/| 
+| 20211119 | 勒索软件 Conti 的深度分析报告 | https://www.prodaft.com/resource/detail/conti-ransomware-group-depth-analysis| 
+| 20211119 | Paper “Debloating Address Sanitizer”，研究如何优化 ASan 的性能 | http://www.usenix.org/system/files/sec22summer_zhang-yuchen.pdf| 
+| 20211119 | 2230 - Linux: UAF read: SO_PEERCRED and SO_PEERGROUPS race with listen() (and connect()) - project-zero | https://bugs.chromium.org/p/project-zero/issues/detail?id=2230| 
+| 20211119 | 利用协议分析工具 IO Ninja 分析 NPFS | https://www.zerodayinitiative.com/blog/2021/11/17/mindshare-using-io-ninja-to-analyze-npfs| 
+| 20211119 | 白名单之殇：Specter僵尸网络滥用ClouDNS服务，github.com无辜躺枪 | https://blog.netlab.360.com/specter-domain-whitelist-abuse/| 
 | 20211118 | ART - 用于机器学习安全性的 Python 库，帮助开发者评估机器学习模型 | http://github.com/Trusted-AI/adversarial-robustness-toolbox| 
 | 20211118 | 暗网出现攻击 SS7 七号信令实现劫持和跟踪的服务 | https://sosintel.co.uk/an-investigation-into-ss7-exploitation-services-on-the-dark-web/| 
 | 20211118 | 自动化地分析 Windows 系统的缺失的补丁及对应的漏洞情况 | http://bitsadm.in/blog/windows-security-updates-for-hackers| 
@@ -19,65 +26,58 @@
 | 20211117 | Detecting a Container Escape with Cilium and eBPF | http://isovalent.com/blog/post/2021-11-container-escape| 
 | 20211117 | 2020 年夏天，阿布扎比伊朗使馆网站被注入水坑攻击脚本 | https://www.welivesecurity.com/2021/11/16/strategic-web-compromises-middle-east-pinch-candiru/| 
 | 20211117 | SLUB overflow CVE-2021-42327 | https://docfate111.github.io/blog/securityresearch/2021/11/08/SLUBoverflow.html| 
-| 20211117 | 利用 Python Selenium 绕过 Google 的 reCaptcha V3 的验证码 | https://medium.com/analytics-vidhya/how-to-bypass-recaptcha-v3-with-selenium-python-7e71c1b680fc| 
-| 20211117 | Intel CPU 被发现新漏洞，物理接触情况下可以给 CPU 芯片安装恶意固件，影响 Bitlocker、DRM 相关保护 | https://arstechnica.com/gadgets/2021/11/intel-releases-patch-for-high-severity-bug-that-exposes-a-cpus-master-key/| 
-| 20211117 | Open-source LMS Chamilo 和 Moodle 被发现多个漏洞 | https://starlabs.sg/blog/2021/11/diving-into-open-source-lms-codebases/| 
-| 20211117 | 容器实现背后的 Linux Namespaces 进程隔离技术分析 | http://blog.quarkslab.com/digging-into-linux-namespaces-part-1.html| 
-| 20211117 | 攻击者利用 Domain Fronting 技术重定向缅甸政府网站流量 | https://sec.today/pulses/c1d7c8ac-6032-4c22-9b14-acb04621d149/| 
-| 20211117 | 攻击者利用 Domain Fronting 技术重定向缅甸政府网站流量 | https://blog.talosintelligence.com/2021/11/attackers-use-domain-fronting-technique.html| 
-| 20211117 | 【行为测绘应用实战】使用 ZoomEye 一网打尽 Trickbot C2 | https://paper.seebug.org/1759/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20211119 | spider-flow: 新一代图形化爬虫平台 | https://github.com/ssssssss-team/spider-flow| 
+| 20211119 | Devign:基于GNN的源代码漏洞检测 | https://zhuanlan.zhihu.com/p/433608077| 
+| 20211119 | 虚拟货币挖矿检测与防御 | https://security.tencent.com/index.php/blog/msg/208| 
+| 20211119 | 谁在篡改我的可信根证书仓库？ | https://mp.weixin.qq.com/s/Vb1lIyuVR27hWk8Jh98_Sw| 
 | 20211118 | 如何打造一个网络扫描分析平台 - Part II | https://mp.weixin.qq.com/s/91U8tAItrhD1CrlmD7ovMQ| 
 | 20211118 | BlackWidow：监控暗网中的网络安全信息 | https://mp.weixin.qq.com/s/zE_nzkmlGDwRW9xQ2uv_dQ| 
 | 20211117 | 三个开源 C&C 框架的流量检测 | https://mp.weixin.qq.com/s/aRTiWvy93tKMy6tseBOxzw| 
 | 20211117 | 行为测绘应用实战 一网打尽 Trickbot C2 | https://mp.weixin.qq.com/s/cCXt6FUEYGd6s9cg5VFN0Q| 
 | 20211116 | Vulnhub-vulncms | https://www.sec-in.com/article/1116| 
 | 20211116 | 一份硬核(hardcore)计算机科学CS自学计划 | https://github.com/spring2go/cs_study_plan| 
-| 20211115 | 如何利用 r2diaphora 判断样本相似性 | https://mp.weixin.qq.com/s/IRPhscsoFe7_O-LrpBSIww| 
-| 20211115 | SecWiki周刊（第402期) | https://www.sec-wiki.com/weekly/402| 
-| 20211115 | API安全生命周期 | https://mp.weixin.qq.com/s/HKsc2EajaZTLPSnX2GqeKg| 
-| 20211114 | 学习和使用知识图谱需要知道的一些事情 | https://zhuanlan.zhihu.com/p/433073550| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211118T22:38:19Z | CVE-2021-37580 | CVE-2021-37580的poc | https://github.com/fengwenhua/CVE-2021-37580 | | 
+| 20211119T11:14:37Z | CVE-2021-37580 | Null | https://github.com/ZororoZ/CVE-2021-37580 | | 
+| 20211119T09:47:57Z | CVE-2021-37580 | CVE-2021-37580的poc | https://github.com/fengwenhua/CVE-2021-37580 | | 
+| 20211119T09:03:16Z | CVE-2021-37580 | CVE-2021-37580 | https://github.com/Liang2580/CVE-2021-37580 | | 
+| 20211119T06:54:08Z | CVE-2021-37580 | A vulnerability scanner that detects CVE-2021-37580 vulnerabilities. | https://github.com/Osyanina/westone-CVE-2021-37580-scanner | | 
+| 20211119T05:41:38Z | CVE-2021-43617 | CVE-2021-43617 bypass CRF | https://github.com/kombat1/CVE-2021-43617 | | 
 | 20211118T17:05:16Z | CVE-2021-20837 | XMLRPC  - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | | 
 | 20211118T10:36:03Z | CVE-2021-26411 | Null | https://github.com/KAB8345/CVE-2021-26411 | | 
 | 20211118T07:59:49Z | CVE-2020-0787 | CVE-2020-0787的简单回显 | https://github.com/yanghaoi/CVE-2020-0787 | | 
 | 20211118T04:41:46Z | CVE-2021-37580 | Null | https://github.com/rabbitsafe/CVE-2021-37580 | | 
 | 20211118T02:01:12Z | CVE-2021-525 | D-Link credentials decryption tool poc | https://github.com/full-disclosure/FDEU-CVE-2021-525A | | 
-| 20211117T02:45:28Z | cve-2020-35314 | cve-2020-35314,一个带phpcode的zip文件 | https://github.com/ybdegit2020/cve-2020-35314-wonderplugin | | 
-| 20211116T20:42:27Z | CVE-2021-41773 | Null | https://github.com/kubota/POC-CVE-2021-41773 | | 
-| 20211116T17:40:09Z | CVE-2021-21551 | arbitrary kernel read/write in dbutil_2_3.sys, Proof of Concept Local Privilege Escalation to nt authority/system | https://github.com/mathisvickie/CVE-2021-21551 | | 
-| 20211116T17:30:51Z | cve-2020-28653 | Null | https://github.com/intrigueio/cve-2020-28653-poc | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211119T10:49:27Z | Null | https://github.com/timoodada/klee | 0 | 0| 
+| 20211119T09:44:19Z | Null | https://github.com/AlyonaAg/klee | 0 | 0| 
+| 20211119T04:17:04Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1823 | 521| 
 | 20211119T02:31:01Z | Config files for my GitHub profile. | https://github.com/kleear77/kleear77 | 0 | 0| 
-| 20211118T19:47:29Z | Null | https://github.com/timoodada/klee | 0 | 0| 
-| 20211118T08:25:05Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1821 | 521| 
 | 20211117T22:40:07Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 219 | 36| 
 | 20211117T19:36:59Z | Spring 2021 Geography 817 work folder  | https://github.com/klee12/klee12.github.io | 0 | 0| 
 | 20211117T11:12:19Z | Personal Blog | https://github.com/klee1611/klee1611.github.io | 1 | 1| 
 | 20211117T09:39:54Z | Research paper On The Termination of Borrow Checking for Rust and a web application, CLI application and VSCode extension for running static analysis of rust-based smart contracts with a ready-to-be-verified project example. | https://github.com/LedgerProject/safepkt | 0 | 1| 
 | 20211117T09:08:43Z | CLI and HTTP application for running static analysis of rust-based smart contracts | https://github.com/LedgerProject/safepkt_backend | 0 | 1| 
 | 20211116T20:12:41Z | Minecraft Mod. Allows breaking only one half of a double slab block. | https://github.com/ModdingForBlockheads/KleeSlabs | 10 | 3| 
-| 20211116T04:46:02Z | SafePKT Flavor of RVT (a collection of tools/libraries to support both static and dynamic verification of Rust programs.) | https://github.com/LedgerProject/safepkt_rust-verification-tools | 0 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211119T01:06:25Z | 🎻 Requiem: Modular exploit generation using symbolic execution | https://github.com/aesophor/requiem | 15 | 3| 
-| 20211118T21:14:02Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 182 | 39| 
+| 20211119T07:37:29Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 184 | 39| 
+| 20211119T07:03:29Z | 🎻 Requiem: Modular exploit generation using symbolic execution | https://github.com/aesophor/requiem | 15 | 3| 
 | 20211116T20:55:05Z | jhirschm | https://github.com/jhirschm/S2E_PhotoinjectorLaserModel | 0 | 0| 
 | 20211116T09:52:52Z | Null | https://github.com/t0ry003/BAC-2009-S2E5 | 0 | 0| 
 | 20211115T03:18:45Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 77 | 31| 
@@ -90,31 +90,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211119T02:41:40Z | Vulnerability Exploitation Code Collection Repository | https://github.com/0x0021h/expbox | 20 | 4| 
-| 20211119T02:03:17Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
-| 20211119T01:32:29Z | A Simple Exploit Fixer plugin that aims to fix most lag machines  | https://github.com/KRYMZ0N/SimpleExploitFixer | 1 | 0| 
-| 20211119T01:21:27Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 105 | 20| 
-| 20211119T01:17:16Z | Large-Scale Memory Error Exploits in IoT | https://github.com/sridhar-research-lab/MEDDoS | 0 | 0| 
-| 20211119T01:06:31Z | CTF writeups and exploits | https://github.com/verso1/writeups | 0 | 0| 
-| 20211119T01:06:25Z | 🎻 Requiem: Modular exploit generation using symbolic execution | https://github.com/aesophor/requiem | 15 | 3| 
-| 20211119T01:02:20Z | Large-Scale Memory Error Exploits in IoT | https://github.com/sridhar-research-lab/MEDDDoS | 0 | 0| 
-| 20211119T00:45:32Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 14| 
-| 20211119T00:44:38Z | A collection of more than 160+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 991 | 234| 
+| 20211119T12:46:56Z | Firmware patcher for Xiaomi routers | https://github.com/openwrt-xiaomi/xmir-patcher | 3 | 0| 
+| 20211119T12:46:52Z | This is an implementation of DBA from %Faster and more accurate classification of time series by exploiting a novel dynamic time warping averaging algorithm% paper | https://github.com/zabdallah/DBA-Python | 1 | 0| 
+| 20211119T12:45:32Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 14| 
+| 20211119T12:40:09Z | Roblox Exploit Scripts by simulatorwinner#5864 | https://github.com/simulatorwinner/scripts | 0 | 0| 
+| 20211119T12:21:40Z | Official code for the paper %Revise-Net: Exploiting Reverse Attention Mechanism For Salient Object Detection% | https://github.com/yashkarbhari/Revise-Net | 0 | 0| 
+| 20211119T12:18:01Z | StandIn is a small .NET35/45 AD post-exploitation toolkit | https://github.com/FuzzySecurity/StandIn | 274 | 64| 
+| 20211119T12:13:52Z | Commodity Injection Signatures, Malicious Inputs, XSS, HTTP Header Injection, XXE, RCE, Javascript, XSLT | https://github.com/xsscx/Commodity-Injection-Signatures | 288 | 108| 
+| 20211119T12:07:06Z | Shows how to use Spark for distributed processing on the PROBA-V Mission Exploitation Platform. | https://github.com/VITObelgium/python-spark-quickstart | 0 | 0| 
+| 20211119T12:03:46Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
+| 20211119T11:59:47Z | Resources and articles I need to take a look at. Mostly about malware/exploit development and analysis. | https://github.com/Cerbersec/notes | 1 | 2| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211119T12:05:27Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 360 | 63| 
+| 20211119T09:41:58Z | Generate php code for reverse shell backdoor | https://github.com/Ajaytekam/rshell | 1 | 0| 
+| 20211119T05:18:02Z | Null | https://github.com/samuelventura/nerves_backdoor | 0 | 0| 
 | 20211119T01:55:17Z | Hide a process,port,self under Linux using the ld_preload | https://github.com/veo/vbackdoor | 26 | 10| 
-| 20211119T00:48:54Z | Null | https://github.com/samuelventura/nerves_backdoor | 0 | 0| 
 | 20211118T21:58:18Z | This project consist in create a bind between two machines and take total control like a shadow. | https://github.com/giovannyortegon/BackdoorApp | 0 | 1| 
 | 20211118T21:28:28Z | An Intermediate level backdoor that utilizes HTTP/TCP sockets, light Caesar cypher encryption & more. | https://github.com/0xvpr/Vipers-Public-Backdoor-1 | 3 | 0| 
 | 20211118T20:57:51Z | Remote Admin Tool (Trojan) based on TypeScript and Golang. | https://github.com/zarkones/damn-simple-rat | 1 | 0| 
 | 20211118T16:09:29Z | A self made multi-purpose CTF tool written under Kali Linux Os taking adventage of several programs pre-installed. Contains one liner backdoors generator for many programs/languages, recognition scanners, useful  encoders/decoders with some special features as powershell base64 format, tools from ... [ more info at README.md ] | https://github.com/0bfxgh0st/saf2 | 2 | 1| 
 | 20211118T15:15:58Z | Download all files on victim pc and screenshot your pc screen. Have a fun and Funny Hacking | https://github.com/FreeHackingCode/BackDoor-Discord | 1 | 0| 
 | 20211118T14:45:10Z | Very poor BackDoor script. Because script is very old. Use for Ethnical purpose. | https://github.com/FreeHackingCode/EthnicalHacking-BackDoor-Discord | 0 | 0| 
-| 20211118T14:39:48Z | xiaomi-router-4a-backdoor-go | https://github.com/wrysunny/xiaomi-router-4a-backdoor-go | 0 | 0| 
-| 20211118T13:13:24Z | RemoteEvent%s & RemoteFunction%s Backdoor Scanner. Feel free to visit now. | https://github.com/jaackkiscool/Frickin-Serverside-Scanner-v1.1 | 3 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -143,16 +143,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211119T02:59:26Z | Null | https://github.com/dpcairns/fuzzy-bunny-organizer | 0 | 0| 
-| 20211119T02:54:16Z | 一個 SwiftUI TabBar 套件(模糊效果) | https://github.com/ling-zhan/FuzzyTabBar | 0 | 0| 
-| 20211119T02:53:01Z | An application of Expert system using Fuzzy Logic | https://github.com/JulviantoM/Sistem_Pakar-Fuzzy_Logic | 0 | 0| 
-| 20211119T02:48:42Z | Config files for my GitHub profile. | https://github.com/FuZzCourage/FuZzCourage | 0 | 0| 
-| 20211119T02:45:55Z | Fuzz language model that used chatbot | https://github.com/ksjr7-crongcrong/chatbot_fuzzer | 0 | 1| 
-| 20211119T02:44:29Z | FuzzyTabBar 套件的演示範例 | https://github.com/ling-zhan/FuzzyTabBarDemo | 0 | 0| 
-| 20211119T02:40:55Z | Null | https://github.com/Fuddies/fuzzy-octo-memory | 0 | 0| 
-| 20211119T02:35:02Z | A collection of resources about fuzzing test. | https://github.com/coffezhou/fuzzing | 2 | 1| 
-| 20211119T02:31:03Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2441 | 149| 
-| 20211119T02:01:00Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2216 | 433| 
+| 20211119T13:00:39Z | Null | https://github.com/polymorphicengine/Semi-Fuzzy-Quantifiers | 0 | 0| 
+| 20211119T12:50:14Z | White-box fuzzer for Java bytecode | https://github.com/vorpal-research/kex | 7 | 10| 
+| 20211119T12:49:07Z | GH repo for the docker fuzz container that contains all necessary tools to get started with binary fuzzing and debugging | https://github.com/0xricksanchez/docker_fuzz | 4 | 0| 
+| 20211119T12:41:45Z | Yet another web fuzzer | https://github.com/FooBallZ/yafuzz | 0 | 0| 
+| 20211119T12:40:53Z | Code to implement Fuzzy Matching (index and retrieval) using Java Lucene | https://github.com/jmcrego/FuzzyMatchingWithLucene | 0 | 0| 
+| 20211119T12:21:37Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 202 | 38| 
+| 20211119T12:06:29Z | jnp1-2021 fuzzy projekt 3 | https://github.com/eerio/fuzzy | 0 | 0| 
+| 20211119T12:05:03Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20211119T12:02:16Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 36 | 12| 
+| 20211119T11:45:35Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 9 | 1| 
 
 
 
