@@ -22,13 +22,14 @@
 | 20211119 | Devign:基于GNN的源代码漏洞检测 | https://zhuanlan.zhihu.com/p/433608077| 
 | 20211119 | 虚拟货币挖矿检测与防御 | https://security.tencent.com/index.php/blog/msg/208| 
 | 20211119 | 谁在篡改我的可信根证书仓库？ | https://mp.weixin.qq.com/s/Vb1lIyuVR27hWk8Jh98_Sw| 
+| 20211119 | 学习K8S中常见的21种攻击方式 | https://mp.weixin.qq.com/s/QVPW7qpuIs-qZ52kPt1_HA| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211119T13:15:25Z | CVE-2021-37580 | CVE-2021-37580的poc | https://github.com/fengwenhua/CVE-2021-37580 | | 
 | 20211119T11:14:37Z | CVE-2021-37580 | Null | https://github.com/ZororoZ/CVE-2021-37580 | | 
-| 20211119T09:47:57Z | CVE-2021-37580 | CVE-2021-37580的poc | https://github.com/fengwenhua/CVE-2021-37580 | | 
 | 20211119T09:03:16Z | CVE-2021-37580 | CVE-2021-37580 | https://github.com/Liang2580/CVE-2021-37580 | | 
 | 20211119T06:54:08Z | CVE-2021-37580 | A vulnerability scanner that detects CVE-2021-37580 vulnerabilities. | https://github.com/Osyanina/westone-CVE-2021-37580-scanner | | 
 | 20211119T05:41:38Z | CVE-2021-43617 | CVE-2021-43617 bypass CRF | https://github.com/kombat1/CVE-2021-43617 | | 
