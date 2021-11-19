@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211119T02:20:37Z | Vulnerability Exploitation Code Collection Repository | https://github.com/0x0021h/expbox | 19 | 3| 
 | 20211119T02:03:17Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211119T01:32:29Z | A Simple Exploit Fixer plugin that aims to fix most lag machines  | https://github.com/KRYMZ0N/SimpleExploitFixer | 1 | 0| 
 | 20211119T01:21:27Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 105 | 20| 
@@ -99,7 +100,6 @@
 | 20211119T01:02:20Z | Large-Scale Memory Error Exploits in IoT | https://github.com/sridhar-research-lab/MEDDDoS | 0 | 0| 
 | 20211119T00:45:32Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 14| 
 | 20211119T00:44:38Z | A collection of more than 160+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 991 | 234| 
-| 20211119T00:29:31Z | Null | https://github.com/WhitfieBad/LearningExploiting | 0 | 0| 
 
 
 # backdoor on Github 推荐
