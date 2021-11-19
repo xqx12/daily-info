@@ -143,7 +143,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211119T02:32:59Z | An application of Expert system using Fuzzy Logic | https://github.com/JulviantoM/Sistem_Pakar-Fuzzy_Logic | 0 | 0| 
+| 20211119T02:35:32Z | An application of Expert system using Fuzzy Logic | https://github.com/JulviantoM/Sistem_Pakar-Fuzzy_Logic | 0 | 0| 
+| 20211119T02:35:02Z | A collection of resources about fuzzing test. | https://github.com/coffezhou/fuzzing | 2 | 1| 
 | 20211119T02:32:52Z | Null | https://github.com/Fuddies/fuzzy-octo-memory | 0 | 0| 
 | 20211119T02:31:03Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2441 | 149| 
 | 20211119T02:01:00Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2216 | 433| 
@@ -152,7 +153,6 @@
 | 20211119T00:26:26Z | Null | https://github.com/fuboat/utils-for-fuzz | 0 | 0| 
 | 20211119T00:12:13Z | 3d-print website test | https://github.com/kasuke5/fuzzy-waddle | 0 | 0| 
 | 20211119T00:12:08Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 36 | 12| 
-| 20211119T00:08:09Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 
 
 
