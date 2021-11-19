@@ -90,9 +90,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211119T01:17:16Z | Large-Scale Memory Error Exploits in IoT | https://github.com/sridhar-research-lab/MEDDoS | 0 | 0| 
 | 20211119T01:06:31Z | CTF writeups and exploits | https://github.com/verso1/writeups | 0 | 0| 
 | 20211119T01:06:25Z | 🎻 Requiem: Modular exploit generation using symbolic execution | https://github.com/aesophor/requiem | 15 | 3| 
-| 20211119T01:03:28Z | Large-Scale Memory Error Exploits in IoT | https://github.com/sridhar-research-lab/MEDDoS | 0 | 0| 
 | 20211119T01:03:09Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211119T01:02:20Z | Large-Scale Memory Error Exploits in IoT | https://github.com/sridhar-research-lab/MEDDDoS | 0 | 0| 
 | 20211119T00:45:32Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 14| 
@@ -143,6 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211119T01:18:29Z | A Haskell implementation of Fuzzy Identity Based Encryption modified to work over asymmetric bilinear pairing | https://github.com/octeep/fuzzyibe | 0 | 0| 
 | 20211119T01:10:41Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2215 | 433| 
 | 20211119T01:01:07Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2440 | 149| 
 | 20211119T00:57:32Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 723 | 146| 
@@ -152,7 +153,6 @@
 | 20211119T00:08:09Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20211118T23:58:49Z | Data Agnostic library which allows to extend the default KSQL language with fuzzy operations. | https://github.com/bartfish/FuzzyKSQL | 0 | 0| 
 | 20211118T23:56:37Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6828 | 1425| 
-| 20211118T23:54:18Z | Null | https://github.com/Aishu203100/fuzzy-system | 0 | 0| 
 
 
 
