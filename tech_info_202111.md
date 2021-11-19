@@ -12,6 +12,8 @@
 | 20211118 | CredManifest - 因为错误配置，Azure Automation Account “Run as” 凭据信息明文存储在 Azure Active Directory | http://www.netspi.com/blog/technical/cloud-penetration-testing/azure-cloud-vulnerability-credmanifest/| 
 | 20211118 | MUI - 为符号执行库 Manticore 提供可视化功能 | http://blog.trailofbits.com/2021/11/17/mui-visualizing-symbolic-execution-with-manticore-and-binary-ninja/| 
 | 20211118 | Cobalt Strike 混淆流量解密系列文章 Part 4 | http://blog.nviso.eu/2021/11/17/cobalt-strike-decrypting-obfuscated-traffic-part-4/| 
+| 20211118 | 虚拟货币挖矿检测与防御 | https://security.tencent.com/index.php/blog/msg/208| 
+| 20211118 | 深入理解系统内核安全教程. | http://pwn.college/modules/kernel| 
 | 20211117 | 编译 AFL++ 时包含 QEMU 支持以便在 Android 设备上直接 Fuzz Android 二进制 | https://alephsecurity.com/2021/11/16/fuzzing-qemu-android/| 
 | 20211117 | TensorFlow 存在一处参数处理不当导致代码注入漏洞 | https://jfrog.com/blog/tensorflow-python-code-injection-more-eval-woes/| 
 | 20211117 | Detecting a Container Escape with Cilium and eBPF | http://isovalent.com/blog/post/2021-11-container-escape| 
@@ -24,8 +26,6 @@
 | 20211117 | 攻击者利用 Domain Fronting 技术重定向缅甸政府网站流量 | https://sec.today/pulses/c1d7c8ac-6032-4c22-9b14-acb04621d149/| 
 | 20211117 | 攻击者利用 Domain Fronting 技术重定向缅甸政府网站流量 | https://blog.talosintelligence.com/2021/11/attackers-use-domain-fronting-technique.html| 
 | 20211117 | 【行为测绘应用实战】使用 ZoomEye 一网打尽 Trickbot C2 | https://paper.seebug.org/1759/| 
-| 20211117 | AhnLab 安全应急响应中心近期披露Lazarus Group 的 NukeSped 恶意软件分析报告. | http://asec.ahnlab.com/en/28597/| 
-| 20211117 | Exploit the Fuzz – Exploiting Vulnerabilities in 5G Core Networks | http://research.nccgroup.com/2021/11/16/exploit-the-fuzz-exploiting-vulnerabilities-in-5g-core-networks/| 
 
 
 # 安全维基 推荐
@@ -46,8 +46,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211118T22:38:19Z | CVE-2021-37580 | CVE-2021-37580的poc | https://github.com/fengwenhua/CVE-2021-37580 | | 
+| 20211118T17:05:16Z | CVE-2021-20837 | XMLRPC  - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | | 
 | 20211118T10:36:03Z | CVE-2021-26411 | Null | https://github.com/KAB8345/CVE-2021-26411 | | 
-| 20211118T09:36:54Z | CVE-2021-37580 | CVE-2021-37580的poc | https://github.com/fengwenhua/CVE-2021-37580 | | 
 | 20211118T07:59:49Z | CVE-2020-0787 | CVE-2020-0787的简单回显 | https://github.com/yanghaoi/CVE-2020-0787 | | 
 | 20211118T04:41:46Z | CVE-2021-37580 | Null | https://github.com/rabbitsafe/CVE-2021-37580 | | 
 | 20211118T02:01:12Z | CVE-2021-525 | D-Link credentials decryption tool poc | https://github.com/full-disclosure/FDEU-CVE-2021-525A | | 
@@ -55,13 +56,12 @@
 | 20211116T20:42:27Z | CVE-2021-41773 | Null | https://github.com/kubota/POC-CVE-2021-41773 | | 
 | 20211116T17:40:09Z | CVE-2021-21551 | arbitrary kernel read/write in dbutil_2_3.sys, Proof of Concept Local Privilege Escalation to nt authority/system | https://github.com/mathisvickie/CVE-2021-21551 | | 
 | 20211116T17:30:51Z | cve-2020-28653 | Null | https://github.com/intrigueio/cve-2020-28653-poc | | 
-| 20211116T09:08:28Z | CVE-2021-22205 | GitLab CE/EE Preauth RCE using ExifTool | https://github.com/inspiringz/CVE-2021-22205 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211118T13:26:09Z | Null | https://github.com/timoodada/klee | 0 | 0| 
+| 20211118T19:47:29Z | Null | https://github.com/timoodada/klee | 0 | 0| 
 | 20211118T08:25:05Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1821 | 521| 
 | 20211117T22:40:07Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 219 | 36| 
 | 20211117T19:36:59Z | Spring 2021 Geography 817 work folder  | https://github.com/klee12/klee12.github.io | 0 | 0| 
@@ -76,7 +76,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211118T12:21:42Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 182 | 39| 
+| 20211118T21:14:02Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 182 | 39| 
 | 20211116T20:55:05Z | jhirschm | https://github.com/jhirschm/S2E_PhotoinjectorLaserModel | 0 | 0| 
 | 20211116T16:22:06Z | 🎻 Requiem: Modular exploit generation using symbolic execution | https://github.com/aesophor/requiem | 15 | 3| 
 | 20211116T09:52:52Z | Null | https://github.com/t0ry003/BAC-2009-S2E5 | 0 | 0| 
@@ -90,31 +90,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211118T13:52:02Z | A wrapper to stream information from Twitters% Full-Archive Search Endpoint. To exploit this library, one must have approved academic research access. | https://github.com/dapivei/tweetple | 0 | 0| 
-| 20211118T13:51:41Z | Une exploitation de WikiData pour reconstruire les relations entre les établissements de l%ESR. | https://github.com/cpesr/wikidataESR | 5 | 1| 
-| 20211118T13:33:56Z | Laravel PHPUNIT Rce Auto Exploit & Retrieving information in .env (such as SMTP, AWS, TWILIO,  SSH, NEXMO, PERFECTMONEY, and other.) | https://github.com/404rgr/Laravel_Exploit | 14 | 8| 
-| 20211118T13:31:00Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10332 | 1776| 
-| 20211118T13:20:01Z | some hacking tools that I wrote | https://github.com/Alekseyyy/InfoSec | 1 | 3| 
-| 20211118T13:03:07Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
-| 20211118T12:54:45Z | Null | https://github.com/R-Laurent/TP1_Systeme_exploitation | 0 | 0| 
-| 20211118T12:45:32Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 14| 
-| 20211118T11:18:13Z | User interface for the IRAP Exploit machine | https://github.com/WilfriedMercier/ExploitGUI | 0 | 1| 
-| 20211118T11:07:57Z | PoC - Exploit Delivery via Steganography and Polyglots, CVE-2014-0282 | https://github.com/Charmve/PyStegosploit | 9 | 4| 
+| 20211119T00:45:32Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 14| 
+| 20211119T00:44:38Z | A collection of more than 160+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 991 | 234| 
+| 20211119T00:39:47Z | CTF writeups and exploits | https://github.com/verso1/writeups | 0 | 0| 
+| 20211119T00:29:31Z | Null | https://github.com/WhitfieBad/LearningExploiting | 0 | 0| 
+| 20211119T00:16:44Z | This powershell script has got to run in remote hacked windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 12 | 3| 
+| 20211119T00:08:25Z | This bash scripts will help you to hack remote hosts. You can choose and run one of them. | https://github.com/FabioDefilippo/linuxallremote | 30 | 5| 
+| 20211119T00:03:43Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
+| 20211118T23:57:33Z | Exploit para Apache Struts v2 (RCE) | https://github.com/andre3llo/apachestruts | 0 | 0| 
+| 20211118T23:23:35Z | Bluetooth Exploitation Framework | https://github.com/chimerafoundation/befw | 0 | 0| 
+| 20211118T22:47:13Z | Driver Exploitation with HEVD (HackSys Extreme Vulnerable Driver) | https://github.com/edcod3/hevd-drivexp | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211119T00:48:54Z | Null | https://github.com/samuelventura/nerves_backdoor | 0 | 0| 
+| 20211118T21:58:18Z | This project consist in create a bind between two machines and take total control like a shadow. | https://github.com/giovannyortegon/BackdoorApp | 0 | 1| 
+| 20211118T21:28:28Z | An Intermediate level backdoor that utilizes HTTP/TCP sockets, light Caesar cypher encryption & more. | https://github.com/0xvpr/Vipers-Public-Backdoor-1 | 3 | 0| 
+| 20211118T20:57:51Z | Remote Admin Tool (Trojan) based on TypeScript and Golang. | https://github.com/zarkones/damn-simple-rat | 1 | 0| 
+| 20211118T16:09:29Z | A self made multi-purpose CTF tool written under Kali Linux Os taking adventage of several programs pre-installed. Contains one liner backdoors generator for many programs/languages, recognition scanners, useful  encoders/decoders with some special features as powershell base64 format, tools from ... [ more info at README.md ] | https://github.com/0bfxgh0st/saf2 | 2 | 1| 
+| 20211118T15:15:58Z | Download all files on victim pc and screenshot your pc screen. Have a fun and Funny Hacking | https://github.com/FreeHackingCode/BackDoor-Discord | 1 | 0| 
+| 20211118T14:45:10Z | Very poor BackDoor script. Because script is very old. Use for Ethnical purpose. | https://github.com/FreeHackingCode/EthnicalHacking-BackDoor-Discord | 0 | 0| 
+| 20211118T14:39:48Z | xiaomi-router-4a-backdoor-go | https://github.com/wrysunny/xiaomi-router-4a-backdoor-go | 0 | 0| 
 | 20211118T13:13:24Z | RemoteEvent%s & RemoteFunction%s Backdoor Scanner. Feel free to visit now. | https://github.com/jaackkiscool/Frickin-Serverside-Scanner-v1.1 | 3 | 0| 
 | 20211118T10:40:59Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 36 | 28| 
-| 20211118T06:17:19Z | Null | https://github.com/samuelventura/nerves_backdoor | 0 | 0| 
-| 20211118T03:38:51Z | Hide a process,port,self under Linux using the ld_preload | https://github.com/veo/vbackdoor | 27 | 10| 
-| 20211118T02:58:37Z | Using Github Action to build, 100% Safety. No any backdoor. | https://github.com/huangguiniab/lwjgl-backports | 1 | 0| 
-| 20211118T02:39:52Z | This keylogger stores all keystrokes with timestamps in the array and sends them to the server controlled by a hacker via HTTP every 2 hundred milliseconds. This tutorial is a simple example of what you can record with Javascript backdoor. It’s also possible to record mouse movements and clicks and a DOM element and to view the recorded data in live mode. | https://github.com/duongletrieu/Simple-XSS-Keylogger | 1 | 0| 
-| 20211117T21:04:45Z | Remote Admin Tool (Trojan) based on TypeScript and Golang. | https://github.com/zarkones/damn-simple-rat | 1 | 0| 
-| 20211117T19:22:16Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1497 | 372| 
-| 20211117T16:37:29Z | A self made multi-purpose CTF tool written under Kali Linux Os taking adventage of several programs pre-installed. Contains one liner backdoors generator for many programs/languages, recognition scanners, useful  encoders/decoders with some special features as powershell base64 format, tools from ... [ more info at README.md ] | https://github.com/0bfxgh0st/saf2 | 2 | 1| 
-| 20211117T16:06:27Z | An experimental anti-virus detected remote backdoor for LL practice. | https://github.com/GAntonacci95/remote_backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -143,16 +143,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211118T13:58:12Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 201 | 38| 
-| 20211118T13:48:17Z | ovAFLow: Detecting Memory Corruption Bugs with Fuzzing-based Taint Inference | https://github.com/zhanggenex/ovAFLow | 3 | 0| 
-| 20211118T13:45:23Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3785 | 893| 
-| 20211118T13:38:39Z | Null | https://github.com/flruee/FuzzingSeminar | 1 | 0| 
-| 20211118T13:37:20Z | 基于已有域名FUZZ实现相似域名挖掘-NovaSec | https://github.com/winezer0/SimilarDomainCollect | 6 | 2| 
-| 20211118T13:33:12Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6827 | 1424| 
-| 20211118T13:19:26Z | OSS-Sydr-Fuzz - OSS-Fuzz fork for hybrid fuzzing (fuzzer+DSE) open source software. | https://github.com/ispras/oss-sydr-fuzz | 5 | 1| 
-| 20211118T13:12:47Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
-| 20211118T13:07:04Z | FuzzPEG: A Context-Free Random Program Generator | https://github.com/FAU-Inf2/FuzzPEG | 0 | 0| 
-| 20211118T13:05:50Z | A differential fuzzer for x86 decoders | https://github.com/trailofbits/mishegos | 158 | 23| 
+| 20211119T01:01:07Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2440 | 149| 
+| 20211119T00:57:32Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 723 | 146| 
+| 20211119T00:26:26Z | Null | https://github.com/fuboat/utils-for-fuzz | 0 | 0| 
+| 20211119T00:12:13Z | 3d-print website test | https://github.com/kasuke5/fuzzy-waddle | 0 | 0| 
+| 20211119T00:12:08Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 36 | 12| 
+| 20211119T00:08:09Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
+| 20211118T23:58:49Z | Data Agnostic library which allows to extend the default KSQL language with fuzzy operations. | https://github.com/bartfish/FuzzyKSQL | 0 | 0| 
+| 20211118T23:56:37Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6828 | 1425| 
+| 20211118T23:54:18Z | Null | https://github.com/Aishu203100/fuzzy-system | 0 | 0| 
+| 20211118T23:45:40Z | Null | https://github.com/peertosir/fuzzy-robot | 0 | 0| 
 
 
 

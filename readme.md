@@ -12,6 +12,8 @@
 | 20211118 | CredManifest - 因为错误配置，Azure Automation Account “Run as” 凭据信息明文存储在 Azure Active Directory | http://www.netspi.com/blog/technical/cloud-penetration-testing/azure-cloud-vulnerability-credmanifest/| 
 | 20211118 | MUI - 为符号执行库 Manticore 提供可视化功能 | http://blog.trailofbits.com/2021/11/17/mui-visualizing-symbolic-execution-with-manticore-and-binary-ninja/| 
 | 20211118 | Cobalt Strike 混淆流量解密系列文章 Part 4 | http://blog.nviso.eu/2021/11/17/cobalt-strike-decrypting-obfuscated-traffic-part-4/| 
+| 20211118 | 虚拟货币挖矿检测与防御 | https://security.tencent.com/index.php/blog/msg/208| 
+| 20211118 | 深入理解系统内核安全教程. | http://pwn.college/modules/kernel| 
 
 
 # 安全维基 推荐
@@ -24,8 +26,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211118T22:38:19Z | CVE-2021-37580 | CVE-2021-37580的poc | https://github.com/fengwenhua/CVE-2021-37580 | | 
+| 20211118T17:05:16Z | CVE-2021-20837 | XMLRPC  - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | | 
 | 20211118T10:36:03Z | CVE-2021-26411 | Null | https://github.com/KAB8345/CVE-2021-26411 | | 
-| 20211118T09:36:54Z | CVE-2021-37580 | CVE-2021-37580的poc | https://github.com/fengwenhua/CVE-2021-37580 | | 
 | 20211118T07:59:49Z | CVE-2020-0787 | CVE-2020-0787的简单回显 | https://github.com/yanghaoi/CVE-2020-0787 | | 
 | 20211118T04:41:46Z | CVE-2021-37580 | Null | https://github.com/rabbitsafe/CVE-2021-37580 | | 
 | 20211118T02:01:12Z | CVE-2021-525 | D-Link credentials decryption tool poc | https://github.com/full-disclosure/FDEU-CVE-2021-525A | | 
@@ -34,40 +37,44 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211118T13:26:09Z | Null | https://github.com/timoodada/klee | 0 | 0| 
+| 20211118T19:47:29Z | Null | https://github.com/timoodada/klee | 0 | 0| 
 | 20211118T08:25:05Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1821 | 521| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211118T12:21:42Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 182 | 39| 
+| 20211118T21:14:02Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 182 | 39| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211118T13:52:02Z | A wrapper to stream information from Twitters% Full-Archive Search Endpoint. To exploit this library, one must have approved academic research access. | https://github.com/dapivei/tweetple | 0 | 0| 
-| 20211118T13:51:41Z | Une exploitation de WikiData pour reconstruire les relations entre les établissements de l%ESR. | https://github.com/cpesr/wikidataESR | 5 | 1| 
-| 20211118T13:33:56Z | Laravel PHPUNIT Rce Auto Exploit & Retrieving information in .env (such as SMTP, AWS, TWILIO,  SSH, NEXMO, PERFECTMONEY, and other.) | https://github.com/404rgr/Laravel_Exploit | 14 | 8| 
-| 20211118T13:31:00Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10332 | 1776| 
-| 20211118T13:20:01Z | some hacking tools that I wrote | https://github.com/Alekseyyy/InfoSec | 1 | 3| 
-| 20211118T13:03:07Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
-| 20211118T12:54:45Z | Null | https://github.com/R-Laurent/TP1_Systeme_exploitation | 0 | 0| 
-| 20211118T12:45:32Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 14| 
-| 20211118T11:18:13Z | User interface for the IRAP Exploit machine | https://github.com/WilfriedMercier/ExploitGUI | 0 | 1| 
-| 20211118T11:07:57Z | PoC - Exploit Delivery via Steganography and Polyglots, CVE-2014-0282 | https://github.com/Charmve/PyStegosploit | 9 | 4| 
+| 20211118T23:57:33Z | Exploit para Apache Struts v2 (RCE) | https://github.com/andre3llo/apachestruts | 0 | 0| 
+| 20211118T23:23:35Z | Bluetooth Exploitation Framework | https://github.com/chimerafoundation/befw | 0 | 0| 
+| 20211118T22:47:13Z | Driver Exploitation with HEVD (HackSys Extreme Vulnerable Driver) | https://github.com/edcod3/hevd-drivexp | 0 | 0| 
+| 20211118T22:33:04Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITION | 2 | 0| 
+| 20211118T22:26:55Z | Exploits publically accessible APIs from bloomberg.com for simple financial data | https://github.com/embryologit/bloomberg-api-py | 0 | 0| 
+| 20211118T22:23:31Z | A wrapper to stream information from Twitter%s Full-Archive Search Endpoint. To exploit this library, one must have approved academic research access. | https://github.com/dapivei/tweetple | 1 | 0| 
+| 20211118T22:22:29Z | Exploit kits (or exploit packs) are automated programs used by attackers to exploit known vulnerabilities in systems or applications. | https://github.com/Mario-Kart-Felix/Build-exploits-packages | 0 | 0| 
+| 20211118T21:52:44Z | Haimgard is an environment for writing, testing and using exploit code. | https://github.com/onuratakan/Haimgard | 1 | 0| 
+| 20211118T21:52:11Z | Exploit gui for roblox code | https://github.com/iamluke1/EXPLOIT-GUI-ROBLOX | 0 | 0| 
+| 20211118T21:05:30Z | SECMON is a web-based tool for the automation of infosec watching and vulnerability management with a web interface. | https://github.com/Guezone/SECMON | 121 | 29| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211118T21:58:18Z | This project consist in create a bind between two machines and take total control like a shadow. | https://github.com/giovannyortegon/BackdoorApp | 0 | 1| 
+| 20211118T21:28:28Z | An Intermediate level backdoor that utilizes HTTP/TCP sockets, light Caesar cypher encryption & more. | https://github.com/0xvpr/Vipers-Public-Backdoor-1 | 3 | 0| 
+| 20211118T20:57:51Z | Remote Admin Tool (Trojan) based on TypeScript and Golang. | https://github.com/zarkones/damn-simple-rat | 1 | 0| 
+| 20211118T16:09:29Z | A self made multi-purpose CTF tool written under Kali Linux Os taking adventage of several programs pre-installed. Contains one liner backdoors generator for many programs/languages, recognition scanners, useful  encoders/decoders with some special features as powershell base64 format, tools from ... [ more info at README.md ] | https://github.com/0bfxgh0st/saf2 | 2 | 1| 
+| 20211118T15:15:58Z | Download all files on victim pc and screenshot your pc screen. Have a fun and Funny Hacking | https://github.com/FreeHackingCode/BackDoor-Discord | 1 | 0| 
+| 20211118T14:45:10Z | Very poor BackDoor script. Because script is very old. Use for Ethnical purpose. | https://github.com/FreeHackingCode/EthnicalHacking-BackDoor-Discord | 0 | 0| 
+| 20211118T14:39:48Z | xiaomi-router-4a-backdoor-go | https://github.com/wrysunny/xiaomi-router-4a-backdoor-go | 0 | 0| 
 | 20211118T13:13:24Z | RemoteEvent%s & RemoteFunction%s Backdoor Scanner. Feel free to visit now. | https://github.com/jaackkiscool/Frickin-Serverside-Scanner-v1.1 | 3 | 0| 
 | 20211118T10:40:59Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 36 | 28| 
-| 20211118T06:17:19Z | Null | https://github.com/samuelventura/nerves_backdoor | 0 | 0| 
 | 20211118T03:38:51Z | Hide a process,port,self under Linux using the ld_preload | https://github.com/veo/vbackdoor | 27 | 10| 
-| 20211118T02:58:37Z | Using Github Action to build, 100% Safety. No any backdoor. | https://github.com/huangguiniab/lwjgl-backports | 1 | 0| 
-| 20211118T02:39:52Z | This keylogger stores all keystrokes with timestamps in the array and sends them to the server controlled by a hacker via HTTP every 2 hundred milliseconds. This tutorial is a simple example of what you can record with Javascript backdoor. It’s also possible to record mouse movements and clicks and a DOM element and to view the recorded data in live mode. | https://github.com/duongletrieu/Simple-XSS-Keylogger | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -91,16 +98,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211118T13:58:12Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 201 | 38| 
-| 20211118T13:48:17Z | ovAFLow: Detecting Memory Corruption Bugs with Fuzzing-based Taint Inference | https://github.com/zhanggenex/ovAFLow | 3 | 0| 
-| 20211118T13:45:23Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3785 | 893| 
-| 20211118T13:38:39Z | Null | https://github.com/flruee/FuzzingSeminar | 1 | 0| 
-| 20211118T13:37:20Z | 基于已有域名FUZZ实现相似域名挖掘-NovaSec | https://github.com/winezer0/SimilarDomainCollect | 6 | 2| 
-| 20211118T13:33:12Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6827 | 1424| 
-| 20211118T13:19:26Z | OSS-Sydr-Fuzz - OSS-Fuzz fork for hybrid fuzzing (fuzzer+DSE) open source software. | https://github.com/ispras/oss-sydr-fuzz | 5 | 1| 
-| 20211118T13:12:47Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
-| 20211118T13:07:04Z | FuzzPEG: A Context-Free Random Program Generator | https://github.com/FAU-Inf2/FuzzPEG | 0 | 0| 
-| 20211118T13:05:50Z | A differential fuzzer for x86 decoders | https://github.com/trailofbits/mishegos | 158 | 23| 
+| 20211118T23:58:49Z | Data Agnostic library which allows to extend the default KSQL language with fuzzy operations. | https://github.com/bartfish/FuzzyKSQL | 0 | 0| 
+| 20211118T23:56:37Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6828 | 1425| 
+| 20211118T23:54:18Z | Null | https://github.com/Aishu203100/fuzzy-system | 0 | 0| 
+| 20211118T23:45:40Z | Null | https://github.com/peertosir/fuzzy-robot | 0 | 0| 
+| 20211118T23:26:57Z | An investigation of three fuzzers: American Fuzzy Lop++ (AFL), Honggfuzz, and Radamsa | https://github.com/hark130/hardy-remix | 0 | 0| 
+| 20211118T22:59:52Z | Asynchronous fuzzy finder in vim9script | https://github.com/kohnish/vim9-fuzzy | 0 | 0| 
+| 20211118T22:35:47Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20211118T22:35:17Z | A lang-brainscore repository for initial dirty development; select code will be migrated to a lean and clean more permanent repo in the future  | https://github.com/language-brainscore/lang-brainscore-fuzzy-potato | 0 | 0| 
+| 20211118T22:34:08Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 362 | 30| 
+| 20211118T22:07:44Z | This is a ToDo application | https://github.com/Thendo18/fuzzy-umbrella | 0 | 0| 
 
 
 
