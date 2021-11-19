@@ -143,6 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211119T01:10:41Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2215 | 433| 
 | 20211119T01:01:07Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2440 | 149| 
 | 20211119T00:57:32Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 723 | 146| 
 | 20211119T00:26:26Z | Null | https://github.com/fuboat/utils-for-fuzz | 0 | 0| 
@@ -152,7 +153,6 @@
 | 20211118T23:58:49Z | Data Agnostic library which allows to extend the default KSQL language with fuzzy operations. | https://github.com/bartfish/FuzzyKSQL | 0 | 0| 
 | 20211118T23:56:37Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6828 | 1425| 
 | 20211118T23:54:18Z | Null | https://github.com/Aishu203100/fuzzy-system | 0 | 0| 
-| 20211118T23:45:40Z | Null | https://github.com/peertosir/fuzzy-robot | 0 | 0| 
 
 
 
