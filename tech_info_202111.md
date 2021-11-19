@@ -143,7 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211119T02:58:41Z | Null | https://github.com/dpcairns/fuzzy-bunny-organizer | 0 | 0| 
+| 20211119T02:59:26Z | Null | https://github.com/dpcairns/fuzzy-bunny-organizer | 0 | 0| 
 | 20211119T02:54:16Z | 一個 SwiftUI TabBar 套件(模糊效果) | https://github.com/ling-zhan/FuzzyTabBar | 0 | 0| 
 | 20211119T02:53:01Z | An application of Expert system using Fuzzy Logic | https://github.com/JulviantoM/Sistem_Pakar-Fuzzy_Logic | 0 | 0| 
 | 20211119T02:48:42Z | Config files for my GitHub profile. | https://github.com/FuZzCourage/FuZzCourage | 0 | 0| 
