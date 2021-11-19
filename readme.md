@@ -99,9 +99,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211119T13:41:28Z | Trabalho Logica Fuzzy PUC RIO | https://github.com/fecmarinho/logica-fuzzy | 0 | 0| 
 | 20211119T13:38:10Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 596 | 61| 
 | 20211119T13:37:14Z | A patched QEMU that exposes an interface for LibAFL-based fuzzers | https://github.com/AFLplusplus/qemu-libafl-bridge | 19 | 2| 
-| 20211119T13:31:37Z | Trabalho Logica Fuzzy PUC RIO | https://github.com/fecmarinho/logica-fuzzy | 0 | 0| 
 | 20211119T13:21:40Z | Yet another web fuzzer | https://github.com/FooBallZ/yafuzz | 0 | 0| 
 | 20211119T13:11:09Z | Null | https://github.com/truzz-fuzz/truzz-fuzz | 0 | 0| 
 | 20211119T13:00:39Z | Null | https://github.com/polymorphicengine/Semi-Fuzzy-Quantifiers | 0 | 0| 
