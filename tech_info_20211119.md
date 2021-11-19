@@ -99,6 +99,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211119T14:00:18Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3787 | 893| 
+| 20211119T13:52:43Z | Репозиторий для лаб | https://github.com/XoneKone/FuzzyLab | 0 | 0| 
 | 20211119T13:45:54Z | Trabalho Logica Fuzzy PUC RIO | https://github.com/fecmarinho/logica-fuzzy | 0 | 0| 
 | 20211119T13:44:36Z | Binary, coverage-guided fuzzer for Windows and macOS | https://github.com/googleprojectzero/Jackalope | 658 | 81| 
 | 20211119T13:38:10Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 596 | 61| 
@@ -107,8 +109,6 @@
 | 20211119T13:11:09Z | Null | https://github.com/truzz-fuzz/truzz-fuzz | 0 | 0| 
 | 20211119T13:00:39Z | Null | https://github.com/polymorphicengine/Semi-Fuzzy-Quantifiers | 0 | 0| 
 | 20211119T12:50:14Z | White-box fuzzer for Java bytecode | https://github.com/vorpal-research/kex | 7 | 10| 
-| 20211119T12:49:07Z | GH repo for the docker fuzz container that contains all necessary tools to get started with binary fuzzing and debugging | https://github.com/0xricksanchez/docker_fuzz | 4 | 0| 
-| 20211119T12:40:53Z | Code to implement Fuzzy Matching (index and retrieval) using Java Lucene | https://github.com/jmcrego/FuzzyMatchingWithLucene | 0 | 0| 
 
 
 
