@@ -105,6 +105,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211119T13:36:59Z | Remote control software, supported Windows/Unix/MacOS/Linux(x86/x64/mips/arm) | https://github.com/h1zzz/purewater | 5 | 0| 
 | 20211119T12:05:27Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 360 | 63| 
 | 20211119T09:41:58Z | Generate php code for reverse shell backdoor | https://github.com/Ajaytekam/rshell | 1 | 0| 
 | 20211119T05:18:02Z | Null | https://github.com/samuelventura/nerves_backdoor | 0 | 0| 
@@ -114,7 +115,6 @@
 | 20211118T20:57:51Z | Remote Admin Tool (Trojan) based on TypeScript and Golang. | https://github.com/zarkones/damn-simple-rat | 1 | 0| 
 | 20211118T16:09:29Z | A self made multi-purpose CTF tool written under Kali Linux Os taking adventage of several programs pre-installed. Contains one liner backdoors generator for many programs/languages, recognition scanners, useful  encoders/decoders with some special features as powershell base64 format, tools from ... [ more info at README.md ] | https://github.com/0bfxgh0st/saf2 | 2 | 1| 
 | 20211118T15:15:58Z | Download all files on victim pc and screenshot your pc screen. Have a fun and Funny Hacking | https://github.com/FreeHackingCode/BackDoor-Discord | 1 | 0| 
-| 20211118T14:45:10Z | Very poor BackDoor script. Because script is very old. Use for Ethnical purpose. | https://github.com/FreeHackingCode/EthnicalHacking-BackDoor-Discord | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -143,6 +143,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211119T13:38:10Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 596 | 61| 
+| 20211119T13:37:14Z | A patched QEMU that exposes an interface for LibAFL-based fuzzers | https://github.com/AFLplusplus/qemu-libafl-bridge | 19 | 2| 
 | 20211119T13:31:37Z | Trabalho Logica Fuzzy PUC RIO | https://github.com/fecmarinho/logica-fuzzy | 0 | 0| 
 | 20211119T13:21:40Z | Yet another web fuzzer | https://github.com/FooBallZ/yafuzz | 0 | 0| 
 | 20211119T13:11:09Z | Null | https://github.com/truzz-fuzz/truzz-fuzz | 0 | 0| 
@@ -151,8 +153,6 @@
 | 20211119T12:49:07Z | GH repo for the docker fuzz container that contains all necessary tools to get started with binary fuzzing and debugging | https://github.com/0xricksanchez/docker_fuzz | 4 | 0| 
 | 20211119T12:40:53Z | Code to implement Fuzzy Matching (index and retrieval) using Java Lucene | https://github.com/jmcrego/FuzzyMatchingWithLucene | 0 | 0| 
 | 20211119T12:21:37Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 202 | 38| 
-| 20211119T12:06:29Z | jnp1-2021 fuzzy projekt 3 | https://github.com/eerio/fuzzy | 0 | 0| 
-| 20211119T12:05:03Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 
 
 
