@@ -143,9 +143,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211119T02:31:03Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2441 | 149| 
 | 20211119T02:01:00Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2216 | 433| 
 | 20211119T01:22:43Z | A Haskell implementation of Fuzzy Identity Based Encryption modified to work over asymmetric bilinear pairing | https://github.com/octeep/fuzzyibe | 0 | 0| 
-| 20211119T01:01:07Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2440 | 149| 
 | 20211119T00:57:32Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 723 | 146| 
 | 20211119T00:26:26Z | Null | https://github.com/fuboat/utils-for-fuzz | 0 | 0| 
 | 20211119T00:12:13Z | 3d-print website test | https://github.com/kasuke5/fuzzy-waddle | 0 | 0| 
