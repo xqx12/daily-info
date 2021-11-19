@@ -90,7 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211119T02:20:37Z | Vulnerability Exploitation Code Collection Repository | https://github.com/0x0021h/expbox | 19 | 3| 
+| 20211119T02:22:30Z | Vulnerability Exploitation Code Collection Repository | https://github.com/0x0021h/expbox | 19 | 3| 
 | 20211119T02:03:17Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211119T01:32:29Z | A Simple Exploit Fixer plugin that aims to fix most lag machines  | https://github.com/KRYMZ0N/SimpleExploitFixer | 1 | 0| 
 | 20211119T01:21:27Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 105 | 20| 
