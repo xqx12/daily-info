@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211119T01:02:20Z | Large-Scale Memory Error Exploits in IoT | https://github.com/sridhar-research-lab/MEDDDoS | 0 | 0| 
 | 20211119T00:45:32Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 14| 
 | 20211119T00:44:38Z | A collection of more than 160+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 991 | 234| 
 | 20211119T00:39:47Z | CTF writeups and exploits | https://github.com/verso1/writeups | 0 | 0| 
@@ -99,7 +100,6 @@
 | 20211119T00:03:43Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211118T23:57:33Z | Exploit para Apache Struts v2 (RCE) | https://github.com/andre3llo/apachestruts | 0 | 0| 
 | 20211118T23:23:35Z | Bluetooth Exploitation Framework | https://github.com/chimerafoundation/befw | 0 | 0| 
-| 20211118T22:47:13Z | Driver Exploitation with HEVD (HackSys Extreme Vulnerable Driver) | https://github.com/edcod3/hevd-drivexp | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -120,16 +120,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211118T23:58:54Z | Semantic interpretation the ARM Specification Language using symbolic execution  | https://github.com/GaloisInc/asl-translator | 2 | 0| 
+| 20211118T21:14:02Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 182 | 39| 
+| 20211118T20:45:51Z | Symbolica%s open-source symbolic execution engine. | https://github.com/Symbolica/Symbolica | 43 | 2| 
 | 20211118T12:30:04Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2544 | 378| 
 | 20211118T12:21:49Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 172 | 10| 
-| 20211118T12:21:42Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 182 | 39| 
 | 20211118T10:55:40Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 0 | 0| 
 | 20211118T10:54:08Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1921 | 401| 
 | 20211118T09:23:23Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 668 | 67| 
 | 20211118T08:25:05Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1821 | 521| 
 | 20211117T23:05:55Z | A Ghidra extension that allows you to run Angr symbolic execution using the Pcode from Ghidra. | https://github.com/jdkleuver/PcodeSym | 5 | 0| 
-| 20211117T20:01:44Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 164 | 37| 
-| 20211117T14:43:02Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 18 | 5| 
 
 
 # big4 on Github 推荐
