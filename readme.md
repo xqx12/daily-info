@@ -71,16 +71,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211120T13:37:50Z | Null | https://github.com/mehdikuchi/FuzzyNN | 0 | 0| 
+| 20211120T13:36:45Z | Official Python implementation of IEEE JBHI 2021 paper: %Choquet Integral and Coalition Game-based Ensemble of Deep Learning Models for COVID-19 Screening from Chest X-ray Images% | https://github.com/subhankar01/Covid-Chestxray-lambda-fuzzy | 3 | 4| 
+| 20211120T13:36:28Z | Asynchronous fuzzy finder in vim9script | https://github.com/kohnish/vim9-fuzzy | 0 | 0| 
 | 20211120T13:34:49Z | Null | https://github.com/timacpp/fuzzy-numbers | 0 | 0| 
-| 20211120T13:29:51Z | Official Python implementation of IEEE JBHI 2021 paper: %Choquet Integral and Coalition Game-based Ensemble of Deep Learning Models for COVID-19 Screening from Chest X-ray Images% | https://github.com/subhankar01/Covid-Chestxray-lambda-fuzzy | 3 | 4| 
 | 20211120T12:55:02Z | Tests for Fuzzy Numbers task for JNP at University of Warsaw | https://github.com/tudny/JNP-FuzzyTests | 0 | 0| 
-| 20211120T12:50:08Z | Asynchronous fuzzy finder in vim9script | https://github.com/kohnish/vim9-fuzzy | 0 | 0| 
 | 20211120T12:10:33Z | jnp1-2021 fuzzy projekt 3 | https://github.com/eerio/fuzzy | 0 | 0| 
 | 20211120T11:23:09Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6831 | 1425| 
 | 20211120T11:13:29Z | Null | https://github.com/yrameshra0/fuzzy-doner | 0 | 0| 
 | 20211120T10:34:10Z | Introduce Fuzzy Systems and Artifical Intelligance  | https://github.com/Kaveh8/FuzzySystemsIntro | 0 | 0| 
 | 20211120T10:24:31Z | Fuzz corpus for Kos interpreter | https://github.com/kos-lang/fuzz-corpus | 0 | 0| 
-| 20211120T10:05:40Z | Null | https://github.com/Ausietin/fuzzy-octo-succotash | 0 | 0| 
 
 
 
