@@ -143,6 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211120T02:27:01Z | Fuzzer for headers in ccsds space packet protocol | https://github.com/rek7/starpwn | 0 | 0| 
 | 20211120T02:24:08Z | Null | https://github.com/NickJolly/fuzzy-funicular | 0 | 0| 
 | 20211120T02:23:17Z | Null | https://github.com/tomandjerryshow/washing-machine-fuzzy-controller- | 0 | 0| 
 | 20211120T02:14:36Z | Leetcode solutions. | https://github.com/chaitanyks/fuzzy-disco | 0 | 0| 
@@ -152,7 +153,6 @@
 | 20211120T00:17:25Z | gRPC Go course | https://github.com/hsmtkk/fuzzy-eureka | 0 | 0| 
 | 20211120T00:08:27Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20211119T23:52:25Z | Supplemental materials and reproduction code for Dey and Alvarez (2021): The 2020 Presidential Election: Using Machine Learning to Understand Why Trump Lost. | https://github.com/sreemanti-dey/fuzzy_forests_2020_election | 0 | 0| 
-| 20211119T23:51:28Z | Collected fuzzing payloads from different resources  | https://github.com/osamahamad/FUZZING | 10 | 5| 
 
 
 
