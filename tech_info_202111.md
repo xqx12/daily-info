@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211120T13:33:44Z | Useful scripts to exploit Hack The Box retired machines/challenges | https://github.com/7Rocky/HackTheBox-scripts | 0 | 0| 
 | 20211120T13:30:43Z | 42 , Security project, 15 levels to discover securities exploits | https://github.com/thallard/snow-crash | 0 | 0| 
 | 20211120T13:29:17Z | Firmware patcher for Xiaomi routers | https://github.com/openwrt-xiaomi/xmir-patcher | 3 | 0| 
 | 20211120T13:28:08Z | A blog where I write about exploiting cafes around Singapore | https://github.com/raniceyue/cafe-exploitation | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20211120T12:49:00Z | https://exploit-poc.com | https://github.com/hktalent/exploit-poc | 2 | 1| 
 | 20211120T12:41:23Z | Python exploit for the vsftpd 2.3.4 | https://github.com/Hellsender01/vsftpd_2.3.4_Exploit | 2 | 2| 
 | 20211120T11:55:33Z | Roblox Exploit Scripts by simulatorwinner#5864 | https://github.com/simulatorwinner/scripts | 0 | 0| 
-| 20211120T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10339 | 1779| 
 
 
 # backdoor on Github 推荐
