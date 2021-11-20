@@ -91,12 +91,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211120T13:57:56Z | 42 , Security project, 15 levels to discover securities exploits | https://github.com/thallard/snow-crash | 0 | 0| 
 | 20211120T13:51:46Z | Exploitation des données expérimentales du TP perte de charge linéaire | https://github.com/CCayssiols/TP04_PT_perte_charge | 0 | 0| 
 | 20211120T13:50:10Z | Anything about kernel security.  CTF kernel pwn, kernel exploit, kernel fuzz and kernel defense paper, kernel debugging technique, kernel CVE debug. | https://github.com/bsauce/kernel-security-learning | 276 | 38| 
 | 20211120T13:45:35Z | Null | https://github.com/Xin666-exploit/Xin666-exploit.github.io | 0 | 0| 
 | 20211120T13:44:16Z | Haimgard is an environment for writing, testing and using exploit code. | https://github.com/onuratakan/Haimgard | 1 | 0| 
 | 20211120T13:33:44Z | Useful scripts to exploit Hack The Box retired machines/challenges | https://github.com/7Rocky/HackTheBox-scripts | 0 | 0| 
-| 20211120T13:30:43Z | 42 , Security project, 15 levels to discover securities exploits | https://github.com/thallard/snow-crash | 0 | 0| 
 | 20211120T13:29:17Z | Firmware patcher for Xiaomi routers | https://github.com/openwrt-xiaomi/xmir-patcher | 3 | 0| 
 | 20211120T13:28:08Z | A blog where I write about exploiting cafes around Singapore | https://github.com/raniceyue/cafe-exploitation | 0 | 0| 
 | 20211120T13:03:24Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
