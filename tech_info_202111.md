@@ -105,6 +105,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211120T01:37:37Z | python3 backdoor  | https://github.com/trevalkov/rootkit | 0 | 0| 
 | 20211120T01:13:48Z | Unofficial pytorch implementation of RobNet(Defense-Resistant Backdoor Attacks on DNN) | https://github.com/dhkim2810/RobNet | 0 | 0| 
 | 20211119T22:00:06Z | Backdoor Hibernater | https://github.com/TDteach/BACH | 0 | 0| 
 | 20211119T19:57:25Z | Remote control software, supported Windows/Unix/MacOS/Linux(x86/x64/mips/arm) | https://github.com/h1zzz/purewater | 5 | 0| 
@@ -114,7 +115,6 @@
 | 20211119T01:55:17Z | Hide a process,port,self under Linux using the ld_preload | https://github.com/veo/vbackdoor | 26 | 10| 
 | 20211118T21:58:18Z | This project consist in create a bind between two machines and take total control like a shadow. | https://github.com/giovannyortegon/BackdoorApp | 0 | 1| 
 | 20211118T21:28:28Z | An Intermediate level backdoor that utilizes HTTP/TCP sockets, light Caesar cypher encryption & more. | https://github.com/0xvpr/Vipers-Public-Backdoor-1 | 3 | 0| 
-| 20211118T20:57:51Z | Remote Admin Tool (Trojan) based on TypeScript and Golang. | https://github.com/zarkones/damn-simple-rat | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
