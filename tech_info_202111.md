@@ -143,7 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211120T02:04:12Z | Null | https://github.com/lauracline/Nicknames-and-Fuzzy-Matching | 0 | 0| 
+| 20211120T02:05:31Z | Null | https://github.com/lauracline/Nicknames-and-Fuzzy-Matching | 0 | 0| 
 | 20211120T01:40:32Z | Null | https://github.com/FanciesFancyRats/fuzzy-guide | 0 | 0| 
 | 20211120T01:30:29Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211120T00:17:25Z | gRPC Go course | https://github.com/hsmtkk/fuzzy-eureka | 0 | 0| 
