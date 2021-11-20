@@ -91,6 +91,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211120T13:29:17Z | Firmware patcher for Xiaomi routers | https://github.com/openwrt-xiaomi/xmir-patcher | 3 | 0| 
+| 20211120T13:28:08Z | A blog where I write about exploiting cafes around Singapore | https://github.com/raniceyue/cafe-exploitation | 0 | 0| 
 | 20211120T13:03:24Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211120T13:00:05Z | Null | https://github.com/dracoanguis/Systeme-Exploitation | 0 | 0| 
 | 20211120T12:59:08Z | Null | https://github.com/Xin666-exploit/Xin666-exploit.github.io | 0 | 0| 
@@ -99,8 +101,6 @@
 | 20211120T11:55:33Z | Roblox Exploit Scripts by simulatorwinner#5864 | https://github.com/simulatorwinner/scripts | 0 | 0| 
 | 20211120T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10339 | 1779| 
 | 20211120T11:25:18Z | Haimgard is an environment for writing, testing and using exploit code. | https://github.com/onuratakan/Haimgard | 1 | 0| 
-| 20211120T11:21:36Z | A small update to zCatch that has some extended kick/ban exploit features and faster capability to use range bans. Detects some known clients based on flags. Codebase is literally crap, as I use this to learn some C++. Have fun | https://github.com/jxsl13/zcatchPlus | 3 | 4| 
-| 20211120T10:51:22Z | 42 , Security project, 15 levels to discover securities exploits | https://github.com/thallard/snow-crash | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -144,7 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211120T13:26:03Z | Official Python implementation of IEEE JBHI 2021 paper: %Choquet Integral and Coalition Game-based Ensemble of Deep Learning Models for COVID-19 Screening from Chest X-ray Images% | https://github.com/subhankar01/Covid-Chestxray-lambda-fuzzy | 3 | 4| 
+| 20211120T13:29:51Z | Official Python implementation of IEEE JBHI 2021 paper: %Choquet Integral and Coalition Game-based Ensemble of Deep Learning Models for COVID-19 Screening from Chest X-ray Images% | https://github.com/subhankar01/Covid-Chestxray-lambda-fuzzy | 3 | 4| 
 | 20211120T12:55:02Z | Tests for Fuzzy Numbers task for JNP at University of Warsaw | https://github.com/tudny/JNP-FuzzyTests | 0 | 0| 
 | 20211120T12:50:08Z | Asynchronous fuzzy finder in vim9script | https://github.com/kohnish/vim9-fuzzy | 0 | 0| 
 | 20211120T12:10:33Z | jnp1-2021 fuzzy projekt 3 | https://github.com/eerio/fuzzy | 0 | 0| 
