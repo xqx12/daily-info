@@ -105,7 +105,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211120T01:37:37Z | python3 backdoor  | https://github.com/trevalkov/rootkit | 0 | 0| 
+| 20211120T01:40:30Z | python3 backdoor  | https://github.com/trevalkov/rootkit | 0 | 0| 
 | 20211120T01:13:48Z | Unofficial pytorch implementation of RobNet(Defense-Resistant Backdoor Attacks on DNN) | https://github.com/dhkim2810/RobNet | 0 | 0| 
 | 20211119T22:00:06Z | Backdoor Hibernater | https://github.com/TDteach/BACH | 0 | 0| 
 | 20211119T19:57:25Z | Remote control software, supported Windows/Unix/MacOS/Linux(x86/x64/mips/arm) | https://github.com/h1zzz/purewater | 5 | 0| 
@@ -143,7 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211120T01:38:24Z | Null | https://github.com/FanciesFancyRats/fuzzy-guide | 0 | 0| 
+| 20211120T01:40:32Z | Null | https://github.com/FanciesFancyRats/fuzzy-guide | 0 | 0| 
 | 20211120T01:30:29Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211120T00:17:25Z | gRPC Go course | https://github.com/hsmtkk/fuzzy-eureka | 0 | 0| 
 | 20211120T00:08:27Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
