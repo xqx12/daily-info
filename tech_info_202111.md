@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211120T13:51:46Z | Exploitation des données expérimentales du TP perte de charge linéaire | https://github.com/CCayssiols/TP04_PT_perte_charge | 0 | 0| 
 | 20211120T13:50:10Z | Anything about kernel security.  CTF kernel pwn, kernel exploit, kernel fuzz and kernel defense paper, kernel debugging technique, kernel CVE debug. | https://github.com/bsauce/kernel-security-learning | 276 | 38| 
 | 20211120T13:45:35Z | Null | https://github.com/Xin666-exploit/Xin666-exploit.github.io | 0 | 0| 
 | 20211120T13:44:16Z | Haimgard is an environment for writing, testing and using exploit code. | https://github.com/onuratakan/Haimgard | 1 | 0| 
@@ -100,7 +101,6 @@
 | 20211120T13:28:08Z | A blog where I write about exploiting cafes around Singapore | https://github.com/raniceyue/cafe-exploitation | 0 | 0| 
 | 20211120T13:03:24Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211120T13:00:05Z | Null | https://github.com/dracoanguis/Systeme-Exploitation | 0 | 0| 
-| 20211120T12:49:00Z | https://exploit-poc.com | https://github.com/hktalent/exploit-poc | 2 | 1| 
 
 
 # backdoor on Github 推荐
