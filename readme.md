@@ -50,7 +50,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211120T13:41:38Z | backdoor sourcepawn | https://github.com/stapitop/backdoor | 0 | 0| 
+| 20211120T13:43:45Z | backdoor sourcepawn | https://github.com/stapitop/backdoor | 0 | 0| 
 | 20211120T11:47:51Z | Simple reverse shell for remote control of devices | https://github.com/michaljaz/simple-reverse-shell | 0 | 0| 
 | 20211120T03:52:47Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 361 | 63| 
 | 20211120T02:49:35Z | python3 backdoor  | https://github.com/trevalkov/rootkit | 0 | 0| 
@@ -72,6 +72,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211120T13:44:00Z | Null | https://github.com/tzachar/cmp-fuzzy-buffer | 22 | 0| 
 | 20211120T13:39:40Z | Null | https://github.com/toy-soldier/fuzzy-enigma | 0 | 0| 
 | 20211120T13:37:50Z | Null | https://github.com/mehdikuchi/FuzzyNN | 0 | 0| 
 | 20211120T13:36:45Z | Official Python implementation of IEEE JBHI 2021 paper: %Choquet Integral and Coalition Game-based Ensemble of Deep Learning Models for COVID-19 Screening from Chest X-ray Images% | https://github.com/subhankar01/Covid-Chestxray-lambda-fuzzy | 3 | 4| 
@@ -81,7 +82,6 @@
 | 20211120T12:10:33Z | jnp1-2021 fuzzy projekt 3 | https://github.com/eerio/fuzzy | 0 | 0| 
 | 20211120T11:23:09Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6831 | 1425| 
 | 20211120T11:13:29Z | Null | https://github.com/yrameshra0/fuzzy-doner | 0 | 0| 
-| 20211120T10:34:10Z | Introduce Fuzzy Systems and Artifical Intelligance  | https://github.com/Kaveh8/FuzzySystemsIntro | 0 | 0| 
 
 
 
