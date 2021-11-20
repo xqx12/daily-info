@@ -144,6 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211120T13:50:10Z | Anything about kernel security.  CTF kernel pwn, kernel exploit, kernel fuzz and kernel defense paper, kernel debugging technique, kernel CVE debug. | https://github.com/bsauce/kernel-security-learning | 276 | 38| 
 | 20211120T13:44:00Z | Null | https://github.com/tzachar/cmp-fuzzy-buffer | 22 | 0| 
 | 20211120T13:39:40Z | Null | https://github.com/toy-soldier/fuzzy-enigma | 0 | 0| 
 | 20211120T13:37:50Z | Null | https://github.com/mehdikuchi/FuzzyNN | 0 | 0| 
@@ -153,7 +154,6 @@
 | 20211120T12:55:02Z | Tests for Fuzzy Numbers task for JNP at University of Warsaw | https://github.com/tudny/JNP-FuzzyTests | 0 | 0| 
 | 20211120T12:10:33Z | jnp1-2021 fuzzy projekt 3 | https://github.com/eerio/fuzzy | 0 | 0| 
 | 20211120T11:23:09Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6831 | 1425| 
-| 20211120T11:13:29Z | Null | https://github.com/yrameshra0/fuzzy-doner | 0 | 0| 
 
 
 
