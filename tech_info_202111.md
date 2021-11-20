@@ -143,6 +143,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211120T02:24:08Z | Null | https://github.com/NickJolly/fuzzy-funicular | 0 | 0| 
+| 20211120T02:23:17Z | Null | https://github.com/tomandjerryshow/washing-machine-fuzzy-controller- | 0 | 0| 
 | 20211120T02:14:36Z | Leetcode solutions. | https://github.com/chaitanyks/fuzzy-disco | 0 | 0| 
 | 20211120T02:05:31Z | Null | https://github.com/lauracline/Nicknames-and-Fuzzy-Matching | 0 | 0| 
 | 20211120T01:40:32Z | Null | https://github.com/FanciesFancyRats/fuzzy-guide | 0 | 0| 
@@ -151,8 +153,6 @@
 | 20211120T00:08:27Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20211119T23:52:25Z | Supplemental materials and reproduction code for Dey and Alvarez (2021): The 2020 Presidential Election: Using Machine Learning to Understand Why Trump Lost. | https://github.com/sreemanti-dey/fuzzy_forests_2020_election | 0 | 0| 
 | 20211119T23:51:28Z | Collected fuzzing payloads from different resources  | https://github.com/osamahamad/FUZZING | 10 | 5| 
-| 20211119T23:40:17Z | Null | https://github.com/thecoocko/fuzzy_mathematics | 0 | 0| 
-| 20211119T23:08:29Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3788 | 892| 
 
 
 
