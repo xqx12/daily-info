@@ -110,11 +110,11 @@
 | 20211119T23:40:17Z | Null | https://github.com/thecoocko/fuzzy_mathematics | 0 | 0| 
 | 20211119T23:08:29Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3788 | 892| 
 | 20211119T23:05:17Z | Null | https://github.com/peertosir/fuzzy-robot | 0 | 0| 
-| 20211119T23:02:00Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211119T22:36:26Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
 | 20211119T22:34:29Z | Kernel Fuzzer for Xen Project (KF/x) - Hypervisor-based fuzzing using Xen VM forking, VMI & AFL | https://github.com/intel/kernel-fuzzer-for-xen-project | 379 | 55| 
 | 20211119T21:13:24Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 723 | 145| 
 | 20211119T20:53:50Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1331 | 236| 
+| 20211119T20:17:01Z | jnp1-2021 fuzzy projekt 3 | https://github.com/eerio/fuzzy | 0 | 0| 
 
 
 
