@@ -91,16 +91,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211120T13:45:35Z | Null | https://github.com/Xin666-exploit/Xin666-exploit.github.io | 0 | 0| 
+| 20211120T13:44:16Z | Haimgard is an environment for writing, testing and using exploit code. | https://github.com/onuratakan/Haimgard | 1 | 0| 
 | 20211120T13:33:44Z | Useful scripts to exploit Hack The Box retired machines/challenges | https://github.com/7Rocky/HackTheBox-scripts | 0 | 0| 
 | 20211120T13:30:43Z | 42 , Security project, 15 levels to discover securities exploits | https://github.com/thallard/snow-crash | 0 | 0| 
 | 20211120T13:29:17Z | Firmware patcher for Xiaomi routers | https://github.com/openwrt-xiaomi/xmir-patcher | 3 | 0| 
 | 20211120T13:28:08Z | A blog where I write about exploiting cafes around Singapore | https://github.com/raniceyue/cafe-exploitation | 0 | 0| 
 | 20211120T13:03:24Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211120T13:00:05Z | Null | https://github.com/dracoanguis/Systeme-Exploitation | 0 | 0| 
-| 20211120T12:59:08Z | Null | https://github.com/Xin666-exploit/Xin666-exploit.github.io | 0 | 0| 
 | 20211120T12:49:00Z | https://exploit-poc.com | https://github.com/hktalent/exploit-poc | 2 | 1| 
 | 20211120T12:41:23Z | Python exploit for the vsftpd 2.3.4 | https://github.com/Hellsender01/vsftpd_2.3.4_Exploit | 2 | 2| 
-| 20211120T11:55:33Z | Roblox Exploit Scripts by simulatorwinner#5864 | https://github.com/simulatorwinner/scripts | 0 | 0| 
 
 
 # backdoor on Github 推荐
