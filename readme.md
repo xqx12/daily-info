@@ -60,7 +60,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20211119T23:58:54Z | Certifications: CompTIA CySA+ (verification code: GKYCNPRFWKFQQF3R)  ● Graduate of the University of San Diego Cyber Bootcamp, San Diego, CA in July 2021. Instructed by Fullstack Academy, Certificate in Cyber Security  ● Udemy CompTIA CySA+ Course: Certification no: UC-4b3857c-Odc8-4cbc-952b-a19b28fe83c8  ● Proficient: Kali Linux, HTML3, Windows ● Knowledgeable: Splunk, Nessus, SNORT, Python 3, Networking Fundamentals, Metasploit, Wireshark, Netcat, NMAP, Dirbuster, Nikto, Virtual Machines, John, iptables, penetration testing, SIEM tools, Microsoft Windows 2019 server, network fundamentals | https://github.com/SpartanMike/Technical-Capabilities | 0 | 0| 
-| 20211119T23:48:56Z | Codes from Hacking: The Art of Exploitation book. By Jon Erickson. | https://github.com/edupazzz/Hacking-The-Art-of-Exploitation-Book | 0 | 0| 
 | 20211119T23:29:49Z | Null | https://github.com/Leokuy/exploit | 0 | 0| 
 | 20211119T21:49:07Z | Haimgard is an environment for writing, testing and using exploit code. | https://github.com/onuratakan/Haimgard | 1 | 0| 
 | 20211119T21:08:05Z | An advanced graphical search engine for Exploit-DB | https://github.com/nicolas-carolo/houndsploit | 92 | 17| 
@@ -69,6 +68,7 @@
 | 20211119T20:11:29Z | Simple Dos/DDoS exploit of cookie and connection requests for SA:MP application  Vulnerability work on samp servers 0.3.7 | https://github.com/Edresson/SA-MP-DOS-Exploit | 5 | 23| 
 | 20211119T19:57:04Z | Pentester%s toolbox | https://github.com/binarytrails/prober | 5 | 2| 
 | 20211119T19:21:46Z | Python script exploits sqli to load UDF to obtain RCE via PostgreSQL Large Objets | https://github.com/m4udSec/PostgreSQL_W_LargeObjectsUDF | 0 | 0| 
+| 20211119T18:56:26Z | Official repository for ChairWare, a powerful script/exploit hub for Roblox! | https://github.com/MiloHaxx/ChairWare | 0 | 0| 
 
 
 # backdoor on Github 推荐

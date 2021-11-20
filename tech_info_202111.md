@@ -90,11 +90,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211120T01:16:51Z | Codes from Hacking: The Art of Exploitation book. By Jon Erickson. | https://github.com/edupazzz/Hacking-The-Art-of-Exploitation-Book | 0 | 0| 
 | 20211120T01:03:38Z | Null | https://github.com/hackboyMcHack/free-gems-exploit-guild-wars-2-arenanet | 0 | 0| 
 | 20211120T01:03:21Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211120T00:45:33Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 14| 
 | 20211119T23:58:54Z | Certifications: CompTIA CySA+ (verification code: GKYCNPRFWKFQQF3R)  ● Graduate of the University of San Diego Cyber Bootcamp, San Diego, CA in July 2021. Instructed by Fullstack Academy, Certificate in Cyber Security  ● Udemy CompTIA CySA+ Course: Certification no: UC-4b3857c-Odc8-4cbc-952b-a19b28fe83c8  ● Proficient: Kali Linux, HTML3, Windows ● Knowledgeable: Splunk, Nessus, SNORT, Python 3, Networking Fundamentals, Metasploit, Wireshark, Netcat, NMAP, Dirbuster, Nikto, Virtual Machines, John, iptables, penetration testing, SIEM tools, Microsoft Windows 2019 server, network fundamentals | https://github.com/SpartanMike/Technical-Capabilities | 0 | 0| 
-| 20211119T23:48:56Z | Codes from Hacking: The Art of Exploitation book. By Jon Erickson. | https://github.com/edupazzz/Hacking-The-Art-of-Exploitation-Book | 0 | 0| 
 | 20211119T23:29:49Z | Null | https://github.com/Leokuy/exploit | 0 | 0| 
 | 20211119T21:49:07Z | Haimgard is an environment for writing, testing and using exploit code. | https://github.com/onuratakan/Haimgard | 1 | 0| 
 | 20211119T21:08:05Z | An advanced graphical search engine for Exploit-DB | https://github.com/nicolas-carolo/houndsploit | 92 | 17| 
