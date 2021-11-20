@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211120T02:11:57Z | More Stable Offline Exploit version of PS4 6.72 Jailbreak. | https://github.com/SHALINI5365uq/DarkModderVC3 | 0 | 0| 
 | 20211120T02:03:08Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211120T01:43:49Z | Null | https://github.com/hackboyMcHack/free-gems-exploit-guild-wars-2-arenanet | 0 | 0| 
 | 20211120T01:16:51Z | Codes from Hacking: The Art of Exploitation book. By Jon Erickson. | https://github.com/edupazzz/Hacking-The-Art-of-Exploitation-Book | 0 | 0| 
@@ -99,7 +100,6 @@
 | 20211119T21:49:07Z | Haimgard is an environment for writing, testing and using exploit code. | https://github.com/onuratakan/Haimgard | 1 | 0| 
 | 20211119T21:08:05Z | An advanced graphical search engine for Exploit-DB | https://github.com/nicolas-carolo/houndsploit | 92 | 17| 
 | 20211119T20:49:16Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10339 | 1779| 
-| 20211119T20:13:29Z | An exploit for Chrome OS to utilize the custom name servers feature to interrupt mass management systems | https://github.com/vezzl/Enterprise-DNS-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
