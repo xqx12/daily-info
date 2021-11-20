@@ -143,6 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211120T02:14:36Z | Leetcode solutions. | https://github.com/chaitanyks/fuzzy-disco | 0 | 0| 
 | 20211120T02:05:31Z | Null | https://github.com/lauracline/Nicknames-and-Fuzzy-Matching | 0 | 0| 
 | 20211120T01:40:32Z | Null | https://github.com/FanciesFancyRats/fuzzy-guide | 0 | 0| 
 | 20211120T01:30:29Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
@@ -152,7 +153,6 @@
 | 20211119T23:51:28Z | Collected fuzzing payloads from different resources  | https://github.com/osamahamad/FUZZING | 10 | 5| 
 | 20211119T23:40:17Z | Null | https://github.com/thecoocko/fuzzy_mathematics | 0 | 0| 
 | 20211119T23:08:29Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3788 | 892| 
-| 20211119T23:05:17Z | Null | https://github.com/peertosir/fuzzy-robot | 0 | 0| 
 
 
 
