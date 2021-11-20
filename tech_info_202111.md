@@ -31,6 +31,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20211120 | SOC分析师对安全警报的看法 | https://mp.weixin.qq.com/s/cRoj5RFADd4Arap4vI_VTg| 
 | 20211119 | spider-flow: 新一代图形化爬虫平台 | https://github.com/ssssssss-team/spider-flow| 
 | 20211119 | Devign:基于GNN的源代码漏洞检测 | https://zhuanlan.zhihu.com/p/433608077| 
 | 20211119 | 虚拟货币挖矿检测与防御 | https://security.tencent.com/index.php/blog/msg/208| 
@@ -40,16 +41,15 @@
 | 20211118 | BlackWidow：监控暗网中的网络安全信息 | https://mp.weixin.qq.com/s/zE_nzkmlGDwRW9xQ2uv_dQ| 
 | 20211117 | 三个开源 C&C 框架的流量检测 | https://mp.weixin.qq.com/s/aRTiWvy93tKMy6tseBOxzw| 
 | 20211117 | 行为测绘应用实战 一网打尽 Trickbot C2 | https://mp.weixin.qq.com/s/cCXt6FUEYGd6s9cg5VFN0Q| 
-| 20211116 | Vulnhub-vulncms | https://www.sec-in.com/article/1116| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211120T03:25:51Z | CVE-2021-37580 | CVE-2021-37580 | https://github.com/Liang2580/CVE-2021-37580 | | 
 | 20211119T16:16:58Z | CVE-2021-20837 | XMLRPC  - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | | 
 | 20211119T15:37:01Z | CVE-2021-37580 | Null | https://github.com/ZororoZ/CVE-2021-37580 | | 
 | 20211119T15:23:18Z | CVE-2021-37580 |  Apache ShenYu 管理员认证绕过   | https://github.com/Wing-song/CVE-2021-37580 | | 
-| 20211119T15:09:13Z | CVE-2021-37580 | CVE-2021-37580 | https://github.com/Liang2580/CVE-2021-37580 | | 
 | 20211119T13:15:25Z | CVE-2021-37580 | CVE-2021-37580的poc | https://github.com/fengwenhua/CVE-2021-37580 | | 
 | 20211119T06:54:08Z | CVE-2021-37580 | A vulnerability scanner that detects CVE-2021-37580 vulnerabilities. | https://github.com/Osyanina/westone-CVE-2021-37580-scanner | | 
 | 20211119T05:41:38Z | CVE-2021-43617 | CVE-2021-43617 bypass CRF | https://github.com/kombat1/CVE-2021-43617 | | 
@@ -61,8 +61,8 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211120T11:34:42Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1824 | 521| 
 | 20211119T15:35:39Z | Null | https://github.com/ayazip/witch-klee | 0 | 0| 
-| 20211119T13:42:24Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1824 | 521| 
 | 20211119T10:49:27Z | Null | https://github.com/timoodada/klee | 0 | 0| 
 | 20211119T09:44:19Z | Null | https://github.com/AlyonaAg/klee | 0 | 0| 
 | 20211119T02:31:01Z | Config files for my GitHub profile. | https://github.com/kleear77/kleear77 | 0 | 0| 
@@ -76,6 +76,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211120T05:53:34Z | Null | https://github.com/FISHzj/S2EB | 0 | 0| 
 | 20211119T07:37:29Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 184 | 39| 
 | 20211119T07:03:29Z | 🎻 Requiem: Modular exploit generation using symbolic execution | https://github.com/aesophor/requiem | 15 | 3| 
 | 20211116T20:55:05Z | jhirschm | https://github.com/jhirschm/S2E_PhotoinjectorLaserModel | 0 | 0| 
@@ -90,31 +91,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211120T02:11:57Z | More Stable Offline Exploit version of PS4 6.72 Jailbreak. | https://github.com/SHALINI5365uq/DarkModderVC3 | 0 | 0| 
-| 20211120T02:03:08Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
-| 20211120T01:43:49Z | Null | https://github.com/hackboyMcHack/free-gems-exploit-guild-wars-2-arenanet | 0 | 0| 
-| 20211120T01:16:51Z | Codes from Hacking: The Art of Exploitation book. By Jon Erickson. | https://github.com/edupazzz/Hacking-The-Art-of-Exploitation-Book | 0 | 0| 
-| 20211120T00:45:33Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 14| 
-| 20211119T23:58:54Z | Certifications: CompTIA CySA+ (verification code: GKYCNPRFWKFQQF3R)  ● Graduate of the University of San Diego Cyber Bootcamp, San Diego, CA in July 2021. Instructed by Fullstack Academy, Certificate in Cyber Security  ● Udemy CompTIA CySA+ Course: Certification no: UC-4b3857c-Odc8-4cbc-952b-a19b28fe83c8  ● Proficient: Kali Linux, HTML3, Windows ● Knowledgeable: Splunk, Nessus, SNORT, Python 3, Networking Fundamentals, Metasploit, Wireshark, Netcat, NMAP, Dirbuster, Nikto, Virtual Machines, John, iptables, penetration testing, SIEM tools, Microsoft Windows 2019 server, network fundamentals | https://github.com/SpartanMike/Technical-Capabilities | 0 | 0| 
-| 20211119T23:29:49Z | Null | https://github.com/Leokuy/exploit | 0 | 0| 
-| 20211119T21:49:07Z | Haimgard is an environment for writing, testing and using exploit code. | https://github.com/onuratakan/Haimgard | 1 | 0| 
-| 20211119T21:08:05Z | An advanced graphical search engine for Exploit-DB | https://github.com/nicolas-carolo/houndsploit | 92 | 17| 
-| 20211119T20:49:16Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10339 | 1779| 
+| 20211120T13:00:05Z | Null | https://github.com/dracoanguis/Systeme-Exploitation | 0 | 0| 
+| 20211120T12:59:08Z | Null | https://github.com/Xin666-exploit/Xin666-exploit.github.io | 0 | 0| 
+| 20211120T12:49:00Z | https://exploit-poc.com | https://github.com/hktalent/exploit-poc | 2 | 1| 
+| 20211120T12:41:23Z | Python exploit for the vsftpd 2.3.4 | https://github.com/Hellsender01/vsftpd_2.3.4_Exploit | 2 | 2| 
+| 20211120T12:03:40Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
+| 20211120T11:55:33Z | Roblox Exploit Scripts by simulatorwinner#5864 | https://github.com/simulatorwinner/scripts | 0 | 0| 
+| 20211120T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10339 | 1779| 
+| 20211120T11:25:18Z | Haimgard is an environment for writing, testing and using exploit code. | https://github.com/onuratakan/Haimgard | 1 | 0| 
+| 20211120T11:21:36Z | A small update to zCatch that has some extended kick/ban exploit features and faster capability to use range bans. Detects some known clients based on flags. Codebase is literally crap, as I use this to learn some C++. Have fun | https://github.com/jxsl13/zcatchPlus | 3 | 4| 
+| 20211120T10:51:22Z | 42 , Security project, 15 levels to discover securities exploits | https://github.com/thallard/snow-crash | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211120T11:47:51Z | Simple reverse shell for remote control of devices | https://github.com/michaljaz/simple-reverse-shell | 0 | 0| 
+| 20211120T03:52:47Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 361 | 63| 
 | 20211120T02:49:35Z | python3 backdoor  | https://github.com/trevalkov/rootkit | 0 | 0| 
 | 20211120T01:13:48Z | Unofficial pytorch implementation of RobNet(Defense-Resistant Backdoor Attacks on DNN) | https://github.com/dhkim2810/RobNet | 0 | 0| 
 | 20211119T22:00:06Z | Backdoor Hibernater | https://github.com/TDteach/BACH | 0 | 0| 
 | 20211119T19:57:25Z | Remote control software, supported Windows/Unix/MacOS/Linux(x86/x64/mips/arm) | https://github.com/h1zzz/purewater | 5 | 0| 
-| 20211119T12:05:27Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 360 | 63| 
 | 20211119T09:41:58Z | Generate php code for reverse shell backdoor | https://github.com/Ajaytekam/rshell | 1 | 0| 
 | 20211119T05:18:02Z | Null | https://github.com/samuelventura/nerves_backdoor | 0 | 0| 
 | 20211119T01:55:17Z | Hide a process,port,self under Linux using the ld_preload | https://github.com/veo/vbackdoor | 26 | 10| 
 | 20211118T21:58:18Z | This project consist in create a bind between two machines and take total control like a shadow. | https://github.com/giovannyortegon/BackdoorApp | 0 | 1| 
-| 20211118T21:28:28Z | An Intermediate level backdoor that utilizes HTTP/TCP sockets, light Caesar cypher encryption & more. | https://github.com/0xvpr/Vipers-Public-Backdoor-1 | 3 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -143,16 +144,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211120T02:55:39Z | Null | https://github.com/lauracline/Nicknames-and-Fuzzy-Matching | 0 | 0| 
-| 20211120T02:55:23Z | Null | https://github.com/tomandjerryshow/washing-machine-fuzzy-controller- | 0 | 0| 
-| 20211120T02:27:01Z | Fuzzer for headers in ccsds space packet protocol | https://github.com/rek7/starpwn | 0 | 0| 
-| 20211120T02:24:08Z | Null | https://github.com/NickJolly/fuzzy-funicular | 0 | 0| 
-| 20211120T02:14:36Z | Leetcode solutions. | https://github.com/chaitanyks/fuzzy-disco | 0 | 0| 
-| 20211120T01:40:32Z | Null | https://github.com/FanciesFancyRats/fuzzy-guide | 0 | 0| 
-| 20211120T01:30:29Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20211120T00:17:25Z | gRPC Go course | https://github.com/hsmtkk/fuzzy-eureka | 0 | 0| 
-| 20211120T00:08:27Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
-| 20211119T23:52:25Z | Supplemental materials and reproduction code for Dey and Alvarez (2021): The 2020 Presidential Election: Using Machine Learning to Understand Why Trump Lost. | https://github.com/sreemanti-dey/fuzzy_forests_2020_election | 0 | 0| 
+| 20211120T12:55:02Z | Tests for Fuzzy Numbers task for JNP at University of Warsaw | https://github.com/tudny/JNP-FuzzyTests | 0 | 0| 
+| 20211120T12:50:08Z | Asynchronous fuzzy finder in vim9script | https://github.com/kohnish/vim9-fuzzy | 0 | 0| 
+| 20211120T12:10:33Z | jnp1-2021 fuzzy projekt 3 | https://github.com/eerio/fuzzy | 0 | 0| 
+| 20211120T11:23:09Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6831 | 1425| 
+| 20211120T11:13:29Z | Null | https://github.com/yrameshra0/fuzzy-doner | 0 | 0| 
+| 20211120T10:34:10Z | Introduce Fuzzy Systems and Artifical Intelligance  | https://github.com/Kaveh8/FuzzySystemsIntro | 0 | 0| 
+| 20211120T10:24:31Z | Fuzz corpus for Kos interpreter | https://github.com/kos-lang/fuzz-corpus | 0 | 0| 
+| 20211120T10:05:40Z | Null | https://github.com/Ausietin/fuzzy-octo-succotash | 0 | 0| 
+| 20211120T08:29:39Z | Learning how to code | https://github.com/sanjapm/fuzzy-code | 0 | 0| 
+| 20211120T07:29:13Z | Репозиторий для лаб | https://github.com/XoneKone/FuzzyLab | 0 | 0| 
 
 
 
