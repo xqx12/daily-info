@@ -82,7 +82,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211120T23:36:02Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20211120T23:18:46Z | Code to implement Fuzzy Matching (index and retrieval) using Java Lucene | https://github.com/jmcrego/FuzzyMatchingWithLucene | 0 | 0| 
 | 20211120T23:15:25Z | This is a ToDo application | https://github.com/Thendo18/fuzzy-umbrella | 0 | 0| 
 | 20211120T23:06:42Z | https://github.com/wcventure/FuzzingPaper | https://github.com/mishmashclone/wcventure-FuzzingPaper | 6 | 1| 
@@ -92,6 +91,7 @@
 | 20211120T21:27:28Z | Companion repository to the Fuzzing101 with LibAFL series of blog posts. | https://github.com/epi052/fuzzing-101-solutions | 29 | 4| 
 | 20211120T21:11:17Z | Null | https://github.com/johnLeavell/fuzzy-sniffle | 0 | 0| 
 | 20211120T20:30:53Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6836 | 1426| 
+| 20211120T20:29:39Z | Null | https://github.com/tuminahsebul/fuzzy-waddle | 0 | 0| 
 
 
 
