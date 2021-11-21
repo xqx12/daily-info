@@ -68,6 +68,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211121T10:33:05Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2552 | 378| 
+| 20211121T10:19:29Z | 🎻 Requiem: Modular exploit generation using symbolic execution | https://github.com/aesophor/requiem | 15 | 3| 
 | 20211121T02:47:36Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 14 | 11| 
 
 
