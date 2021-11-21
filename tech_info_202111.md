@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211121T01:13:29Z | Vulnerability Exploitation Code Collection Repository | https://github.com/0x0021h/expbox | 33 | 7| 
 | 20211121T01:04:53Z | Exploit Huawei ONT device, only support r019. You need to compile kernel module getshell.ko for r018 or r017 by yourself. | https://github.com/0neday/Exploit-HS8545M-ONT | 8 | 8| 
 | 20211121T01:03:22Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211121T00:52:03Z | Multiple game utilities to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 139 | 351| 
@@ -100,7 +101,6 @@
 | 20211120T22:55:42Z | A tool for [(semi-){un-(tethered jailbreak)}] of iOS 10.3.x 32-bit devices with checkm8 BootROM exploit.   | https://github.com/dora2-iOS/p0insettia | 10 | 0| 
 | 20211120T21:53:38Z | Null | https://github.com/joeengo/exploiting | 0 | 0| 
 | 20211120T21:39:49Z | Null | https://github.com/rx4666ghost/Silent-DOC-Exploit-2018 | 0 | 0| 
-| 20211120T21:30:40Z | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | 6859 | 1652| 
 
 
 # backdoor on Github 推荐
