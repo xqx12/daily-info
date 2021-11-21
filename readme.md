@@ -46,7 +46,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211121T13:17:46Z | Written exploits by me | https://github.com/kryptohaker/exploits | 0 | 0| 
+| 20211121T13:19:39Z | D(HE)ater is a security tool can perform DoS attack by enforcing the DHE  key exchange. | https://github.com/Balasys/dheater | 74 | 6| 
+| 20211121T13:19:09Z | Written exploits by me | https://github.com/kryptohaker/exploits | 0 | 0| 
 | 20211121T13:04:39Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10345 | 1779| 
 | 20211121T13:03:03Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211121T12:21:20Z | DebugSploit Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. DebugSploit Framework gives you the power and convenience of remote Android device administration. | https://github.com/G00Dway/DebugSploit | 1 | 0| 
@@ -55,7 +56,6 @@
 | 20211121T10:55:45Z | This bash scripts will help you to hack remote hosts. You can choose and run one of them. | https://github.com/FabioDefilippo/linuxallremote | 29 | 5| 
 | 20211121T10:37:28Z | [Roblox] Downtown RP ESP (Gun Crates, Printers) -- genta | https://github.com/subn0de/Roblox_Exploits | 0 | 0| 
 | 20211121T10:35:15Z | Exploit Code | https://github.com/wjddnjs33/Exploit | 0 | 0| 
-| 20211121T10:21:40Z | Roblox Exploit Scripts by simulatorwinner#5864 | https://github.com/simulatorwinner/scripts | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -81,6 +81,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211121T13:18:29Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2219 | 435| 
 | 20211121T13:03:56Z | Null | https://github.com/toy-soldier/fuzzy-enigma | 0 | 0| 
 | 20211121T12:41:21Z | The Art, Science, and Engineering of Fuzzing: A Survey | https://github.com/SoftSec-KAIST/Fuzzing-Survey | 133 | 21| 
 | 20211121T12:23:12Z | Null | https://github.com/sunarnowendarto/fuzzy-lamp | 0 | 0| 
@@ -90,7 +91,6 @@
 | 20211121T11:46:37Z | Tests for Fuzzy Numbers task for JNP at University of Warsaw | https://github.com/tudny/JNP-FuzzyTests | 0 | 0| 
 | 20211121T11:44:02Z | Null | https://github.com/NicolasCIBULKA/MasterIISC_IA_FuzzyLogic | 0 | 0| 
 | 20211121T11:19:06Z | Modeling and Diagnosis of Typhoid Fever Using a Fuzzy Logic Controlled Inference System | https://github.com/sshandilya1550/Fuzzy-logic-for-Typhoid-Diagnosis | 0 | 0| 
-| 20211121T09:59:48Z | Null | https://github.com/gqbgw4740/fuzzy-octo-carnival | 0 | 0| 
 
 
 
