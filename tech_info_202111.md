@@ -91,7 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211121T01:27:14Z | Multiple game utilities to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 139 | 352| 
+| 20211121T01:27:14Z | Multiple game utilities to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 139 | 351| 
 | 20211121T01:13:29Z | Vulnerability Exploitation Code Collection Repository | https://github.com/0x0021h/expbox | 33 | 7| 
 | 20211121T01:04:53Z | Exploit Huawei ONT device, only support r019. You need to compile kernel module getshell.ko for r018 or r017 by yourself. | https://github.com/0neday/Exploit-HS8545M-ONT | 8 | 8| 
 | 20211121T01:03:22Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
