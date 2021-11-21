@@ -144,6 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211121T02:51:02Z | Canadian Furious Beaver is a tool for monitoring IRP handler in Windows drivers, and facilitating the process of analyzing, replaying and fuzzing Windows drivers for vulnerabilities | https://github.com/hugsy/CFB | 180 | 43| 
 | 20211121T02:48:52Z | Simple fuzzing tool designed for multi-threaded operation and for testing execution time.  | https://github.com/amitjain-3/twoFuzzingLong | 0 | 0| 
 | 20211121T02:41:26Z | Hardware-Assisted Process Tracer for Fuzzing on ARM64 Linux | https://github.com/RICSecLab/coresight-trace | 1 | 1| 
 | 20211121T01:56:52Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
@@ -153,7 +154,6 @@
 | 20211121T01:01:59Z | Academic papers and articles that I read related to web hacking, fuzzing, etc. / 阅读过的Web安全方向、模糊测试方向的一些论文与阅读笔记 | https://github.com/LyleMi/papers | 231 | 17| 
 | 20211121T00:55:43Z | Proyecto para la clase de Inteligencia Artificial de la facultad de informática que utiliza conceptos de lógica difusa para diagnosticar varios tipos de cáncer basándose en los síntomas | https://github.com/Kingarturs/fuzzy-based-diagnoser | 0 | 0| 
 | 20211121T00:51:27Z | Easy to use and powerful fuzzy string matching, port of fuzzywuzzy. | https://github.com/nol13/fuzzball.js | 415 | 32| 
-| 20211121T00:10:34Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 36 | 11| 
 
 
 
