@@ -91,16 +91,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211121T02:08:41Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 579 | 118| 
+| 20211121T02:03:11Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211121T01:50:48Z | To-Do | https://github.com/Lescovar420/SABA-EXPLOIT-FPSE | 0 | 1| 
 | 20211121T01:27:14Z | Multiple game utilities to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 139 | 351| 
 | 20211121T01:13:29Z | Vulnerability Exploitation Code Collection Repository | https://github.com/0x0021h/expbox | 33 | 7| 
 | 20211121T01:04:53Z | Exploit Huawei ONT device, only support r019. You need to compile kernel module getshell.ko for r018 or r017 by yourself. | https://github.com/0neday/Exploit-HS8545M-ONT | 8 | 8| 
-| 20211121T01:03:22Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211120T23:32:01Z | A collection of write ups on how I solved each exploit challenge on Exploit Education | https://github.com/dyllan500/Exploit-Education-Write-Up | 0 | 0| 
 | 20211120T23:23:36Z | Hash collisions and their exploitations | https://github.com/corkami/collisions | 971 | 86| 
 | 20211120T22:55:42Z | A tool for [(semi-){un-(tethered jailbreak)}] of iOS 10.3.x 32-bit devices with checkm8 BootROM exploit.   | https://github.com/dora2-iOS/p0insettia | 10 | 0| 
 | 20211120T21:53:38Z | Null | https://github.com/joeengo/exploiting | 0 | 0| 
-| 20211120T21:39:49Z | Null | https://github.com/rx4666ghost/Silent-DOC-Exploit-2018 | 0 | 0| 
 
 
 # backdoor on Github 推荐
