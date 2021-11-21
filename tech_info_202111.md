@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211121T02:28:48Z | A (bad) C++17 pwn library for Windows & Linux | https://github.com/hugsy/pwn-- | 39 | 3| 
 | 20211121T02:08:41Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 579 | 118| 
 | 20211121T02:03:11Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211121T01:50:48Z | To-Do | https://github.com/Lescovar420/SABA-EXPLOIT-FPSE | 0 | 1| 
@@ -100,7 +101,6 @@
 | 20211120T23:32:01Z | A collection of write ups on how I solved each exploit challenge on Exploit Education | https://github.com/dyllan500/Exploit-Education-Write-Up | 0 | 0| 
 | 20211120T23:23:36Z | Hash collisions and their exploitations | https://github.com/corkami/collisions | 971 | 86| 
 | 20211120T22:55:42Z | A tool for [(semi-){un-(tethered jailbreak)}] of iOS 10.3.x 32-bit devices with checkm8 BootROM exploit.   | https://github.com/dora2-iOS/p0insettia | 10 | 0| 
-| 20211120T21:53:38Z | Null | https://github.com/joeengo/exploiting | 0 | 0| 
 
 
 # backdoor on Github 推荐
