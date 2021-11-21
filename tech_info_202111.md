@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211121T13:41:06Z | Exploits for CTF%s and Web based pentesting challenges | https://github.com/reg1reg1/Web-Security-Writeups | 2 | 1| 
 | 20211121T13:24:34Z | Trabajo de fin de grado, esta tool permite al usuario realizar una pequeña auditoria a la hora de escalar privilegios en windows, la herramienta cuenta con un módulo automático, uno manual, y un módulo de búsqueda para encontrar exploits | https://github.com/ErnestoCubo/autoexploit | 1 | 0| 
 | 20211121T13:19:39Z | D(HE)ater is a security tool can perform DoS attack by enforcing the DHE  key exchange. | https://github.com/Balasys/dheater | 74 | 6| 
 | 20211121T13:19:09Z | Written exploits by me | https://github.com/kryptohaker/exploits | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20211121T11:35:10Z | To-Do | https://github.com/Lescovar420/SABA-EXPLOIT-FPSE | 0 | 1| 
 | 20211121T11:01:49Z | A roblox exploit using easyexploits pretty basic and low tear but it%s made in a few hours | https://github.com/MondoBurger966/Redsploit-V2.3 | 0 | 0| 
 | 20211121T10:55:45Z | This bash scripts will help you to hack remote hosts. You can choose and run one of them. | https://github.com/FabioDefilippo/linuxallremote | 29 | 5| 
-| 20211121T10:37:28Z | [Roblox] Downtown RP ESP (Gun Crates, Printers) -- genta | https://github.com/subn0de/Roblox_Exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
