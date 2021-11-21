@@ -46,9 +46,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211121T13:03:03Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211121T12:23:02Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10344 | 1779| 
 | 20211121T12:21:20Z | DebugSploit Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. DebugSploit Framework gives you the power and convenience of remote Android device administration. | https://github.com/G00Dway/DebugSploit | 1 | 0| 
-| 20211121T12:03:31Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211121T11:35:10Z | To-Do | https://github.com/Lescovar420/SABA-EXPLOIT-FPSE | 0 | 1| 
 | 20211121T11:01:49Z | A roblox exploit using easyexploits pretty basic and low tear but it%s made in a few hours | https://github.com/MondoBurger966/Redsploit-V2.3 | 0 | 0| 
 | 20211121T10:55:45Z | This bash scripts will help you to hack remote hosts. You can choose and run one of them. | https://github.com/FabioDefilippo/linuxallremote | 29 | 5| 
