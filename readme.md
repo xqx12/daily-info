@@ -39,7 +39,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211120T23:48:05Z | To-Do | https://github.com/Lescovar420/SABA-EXPLOIT-FPSE | 0 | 1| 
 | 20211120T23:32:01Z | A collection of write ups on how I solved each exploit challenge on Exploit Education | https://github.com/dyllan500/Exploit-Education-Write-Up | 0 | 0| 
 | 20211120T23:23:36Z | Hash collisions and their exploitations | https://github.com/corkami/collisions | 971 | 86| 
 | 20211120T22:55:42Z | A tool for [(semi-){un-(tethered jailbreak)}] of iOS 10.3.x 32-bit devices with checkm8 BootROM exploit.   | https://github.com/dora2-iOS/p0insettia | 10 | 0| 
@@ -49,6 +48,7 @@
 | 20211120T21:19:05Z | Null | https://github.com/rx4666ghost/0Day-Link-Exploit-2019 | 0 | 0| 
 | 20211120T21:03:51Z | Haimgard is an environment for writing, testing and using exploit code. | https://github.com/onuratakan/Haimgard | 1 | 0| 
 | 20211120T21:02:49Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10341 | 1779| 
+| 20211120T20:24:09Z | Drafts of exploits made for studying and consultation purposes | https://github.com/brerodrigues/exploit_drafts | 0 | 0| 
 
 
 # backdoor on Github 推荐
