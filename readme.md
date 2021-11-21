@@ -41,7 +41,6 @@
 | --- | --- | --- | --- | ---| 
 | 20211120T23:32:01Z | A collection of write ups on how I solved each exploit challenge on Exploit Education | https://github.com/dyllan500/Exploit-Education-Write-Up | 0 | 0| 
 | 20211120T23:23:36Z | Hash collisions and their exploitations | https://github.com/corkami/collisions | 971 | 86| 
-| 20211120T22:55:42Z | A tool for [(semi-){un-(tethered jailbreak)}] of iOS 10.3.x 32-bit devices with checkm8 BootROM exploit.   | https://github.com/dora2-iOS/p0insettia | 10 | 0| 
 | 20211120T21:53:38Z | Null | https://github.com/joeengo/exploiting | 0 | 0| 
 | 20211120T21:39:49Z | Null | https://github.com/rx4666ghost/Silent-DOC-Exploit-2018 | 0 | 0| 
 | 20211120T21:30:40Z | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | 6859 | 1652| 
@@ -49,6 +48,7 @@
 | 20211120T21:03:51Z | Haimgard is an environment for writing, testing and using exploit code. | https://github.com/onuratakan/Haimgard | 1 | 0| 
 | 20211120T21:02:49Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10341 | 1779| 
 | 20211120T20:24:09Z | Drafts of exploits made for studying and consultation purposes | https://github.com/brerodrigues/exploit_drafts | 0 | 0| 
+| 20211120T19:54:57Z | bwaha | https://github.com/JLC-Dev/Exploiting | 0 | 0| 
 
 
 # backdoor on Github 推荐
