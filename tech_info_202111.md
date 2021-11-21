@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211121T13:50:17Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 3752 | 1297| 
 | 20211121T13:47:16Z | Exploits for CTF%s and Web based pentesting challenges | https://github.com/reg1reg1/Web-Security-Writeups | 2 | 1| 
 | 20211121T13:24:34Z | Trabajo de fin de grado, esta tool permite al usuario realizar una pequeña auditoria a la hora de escalar privilegios en windows, la herramienta cuenta con un módulo automático, uno manual, y un módulo de búsqueda para encontrar exploits | https://github.com/ErnestoCubo/autoexploit | 1 | 0| 
 | 20211121T13:19:39Z | D(HE)ater is a security tool can perform DoS attack by enforcing the DHE  key exchange. | https://github.com/Balasys/dheater | 74 | 6| 
@@ -100,7 +101,6 @@
 | 20211121T12:21:20Z | DebugSploit Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. DebugSploit Framework gives you the power and convenience of remote Android device administration. | https://github.com/G00Dway/DebugSploit | 1 | 0| 
 | 20211121T11:35:10Z | To-Do | https://github.com/Lescovar420/SABA-EXPLOIT-FPSE | 0 | 1| 
 | 20211121T11:01:49Z | A roblox exploit using easyexploits pretty basic and low tear but it%s made in a few hours | https://github.com/MondoBurger966/Redsploit-V2.3 | 0 | 0| 
-| 20211121T10:55:45Z | This bash scripts will help you to hack remote hosts. You can choose and run one of them. | https://github.com/FabioDefilippo/linuxallremote | 29 | 5| 
 
 
 # backdoor on Github 推荐
