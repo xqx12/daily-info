@@ -91,7 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211121T00:57:55Z | Exploit Huawei ONT device, only support r019. You need to compile kernel module getshell.ko for r018 or r017 by yourself. | https://github.com/0neday/Exploit-HS8545M-ONT | 8 | 8| 
+| 20211121T01:02:30Z | Exploit Huawei ONT device, only support r019. You need to compile kernel module getshell.ko for r018 or r017 by yourself. | https://github.com/0neday/Exploit-HS8545M-ONT | 8 | 8| 
 | 20211121T00:52:03Z | Multiple game utilities to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 139 | 351| 
 | 20211121T00:03:27Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211120T23:48:05Z | To-Do | https://github.com/Lescovar420/SABA-EXPLOIT-FPSE | 0 | 1| 
@@ -121,8 +121,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211120T22:55:33Z | Angora is a mutation-based fuzzer.  The main goal of Angora is to increase branch coverage by solving path constraints without symbolic execution.  | https://github.com/AngoraFuzzer/Angora | 727 | 135| 
+| 20211120T19:28:51Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2549 | 379| 
 | 20211120T11:34:42Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1824 | 521| 
-| 20211120T01:44:11Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2546 | 379| 
 | 20211119T18:27:11Z | A symbolic execution engine which works on a subset of RISC-V (compiled from a subset of C). | https://github.com/aabyaneh/ase_engine | 1 | 0| 
 | 20211119T18:20:16Z | A symbolic execution engine which works on a subset of RISC-V (compiled from a subset of C). | https://github.com/aabyaneh/ase_artifact | 0 | 0| 
 | 20211119T18:15:50Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 0 | 0| 
@@ -130,7 +131,6 @@
 | 20211119T10:23:36Z | FuSeBMC is a White-Box Fuzzer that combines FUzzing with Symbolic Execution via Bounded Model Checking to verify intricate properties in real-world C programs. | https://github.com/kaled-alshmrany/FuSeBMC | 19 | 2| 
 | 20211119T07:37:29Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 184 | 39| 
 | 20211119T07:03:29Z | 🎻 Requiem: Modular exploit generation using symbolic execution | https://github.com/aesophor/requiem | 15 | 3| 
-| 20211119T06:51:20Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1922 | 402| 
 
 
 # big4 on Github 推荐

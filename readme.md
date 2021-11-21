@@ -69,8 +69,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211120T22:55:33Z | Angora is a mutation-based fuzzer.  The main goal of Angora is to increase branch coverage by solving path constraints without symbolic execution.  | https://github.com/AngoraFuzzer/Angora | 727 | 135| 
+| 20211120T19:28:51Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2549 | 379| 
 | 20211120T11:34:42Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1824 | 521| 
-| 20211120T01:44:11Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2546 | 379| 
 
 
 # big4 on Github 推荐
