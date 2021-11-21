@@ -121,6 +121,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211121T02:47:36Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 14 | 11| 
 | 20211120T22:55:33Z | Angora is a mutation-based fuzzer.  The main goal of Angora is to increase branch coverage by solving path constraints without symbolic execution.  | https://github.com/AngoraFuzzer/Angora | 727 | 135| 
 | 20211120T19:28:51Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2549 | 379| 
 | 20211120T11:34:42Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1824 | 521| 
@@ -130,7 +131,6 @@
 | 20211119T18:02:23Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 164 | 37| 
 | 20211119T10:23:36Z | FuSeBMC is a White-Box Fuzzer that combines FUzzing with Symbolic Execution via Bounded Model Checking to verify intricate properties in real-world C programs. | https://github.com/kaled-alshmrany/FuSeBMC | 19 | 2| 
 | 20211119T07:37:29Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 184 | 39| 
-| 20211119T07:03:29Z | 🎻 Requiem: Modular exploit generation using symbolic execution | https://github.com/aesophor/requiem | 15 | 3| 
 
 
 # big4 on Github 推荐
