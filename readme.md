@@ -46,7 +46,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211121T13:44:01Z | Exploits for CTF%s and Web based pentesting challenges | https://github.com/reg1reg1/Web-Security-Writeups | 2 | 1| 
+| 20211121T13:47:16Z | Exploits for CTF%s and Web based pentesting challenges | https://github.com/reg1reg1/Web-Security-Writeups | 2 | 1| 
 | 20211121T13:24:34Z | Trabajo de fin de grado, esta tool permite al usuario realizar una pequeña auditoria a la hora de escalar privilegios en windows, la herramienta cuenta con un módulo automático, uno manual, y un módulo de búsqueda para encontrar exploits | https://github.com/ErnestoCubo/autoexploit | 1 | 0| 
 | 20211121T13:19:39Z | D(HE)ater is a security tool can perform DoS attack by enforcing the DHE  key exchange. | https://github.com/Balasys/dheater | 74 | 6| 
 | 20211121T13:19:09Z | Written exploits by me | https://github.com/kryptohaker/exploits | 0 | 0| 
