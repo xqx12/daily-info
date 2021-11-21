@@ -144,7 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211121T01:46:11Z | T-Reqs: A grammar-based HTTP Fuzzer | https://github.com/bahruzjabiyev/t-reqs-http-fuzzer | 49 | 6| 
+| 20211121T01:46:55Z | T-Reqs: A grammar-based HTTP Fuzzer | https://github.com/bahruzjabiyev/t-reqs-http-fuzzer | 49 | 6| 
 | 20211121T01:34:40Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211121T01:02:04Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 363 | 85| 
 | 20211121T01:01:59Z | Academic papers and articles that I read related to web hacking, fuzzing, etc. / 阅读过的Web安全方向、模糊测试方向的一些论文与阅读笔记 | https://github.com/LyleMi/papers | 231 | 17| 
