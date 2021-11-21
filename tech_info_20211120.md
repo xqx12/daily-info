@@ -6,6 +6,7 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20211120 | Developing GDB Extension for Heap Exploitation. | https://www.youtube.com/watch?v=tzUrYsQRHfs| 
 
 
 # 安全维基 推荐
@@ -17,12 +18,15 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211120T14:23:26Z | CVE-2021-43616 | Repo demonstrating CVE-2021-43616 / https://github.com/npm/cli/issues/2701 | https://github.com/icatalina/CVE-2021-43616 | | 
 | 20211120T03:25:51Z | CVE-2021-37580 | CVE-2021-37580 | https://github.com/Liang2580/CVE-2021-37580 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211120T23:21:21Z | Null | https://github.com/timoodada/klee | 0 | 0| 
+| 20211120T20:04:56Z | Null | https://github.com/soundreactor/projectKleee02 | 0 | 0| 
 | 20211120T11:34:42Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1824 | 521| 
 
 
@@ -35,26 +39,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211120T13:57:56Z | 42 , Security project, 15 levels to discover securities exploits | https://github.com/thallard/snow-crash | 0 | 0| 
-| 20211120T13:51:46Z | Exploitation des données expérimentales du TP perte de charge linéaire | https://github.com/CCayssiols/TP04_PT_perte_charge | 0 | 0| 
-| 20211120T13:50:10Z | Anything about kernel security.  CTF kernel pwn, kernel exploit, kernel fuzz and kernel defense paper, kernel debugging technique, kernel CVE debug. | https://github.com/bsauce/kernel-security-learning | 276 | 38| 
-| 20211120T13:45:35Z | Null | https://github.com/Xin666-exploit/Xin666-exploit.github.io | 0 | 0| 
-| 20211120T13:44:16Z | Haimgard is an environment for writing, testing and using exploit code. | https://github.com/onuratakan/Haimgard | 1 | 0| 
-| 20211120T13:33:44Z | Useful scripts to exploit Hack The Box retired machines/challenges | https://github.com/7Rocky/HackTheBox-scripts | 0 | 0| 
-| 20211120T13:29:17Z | Firmware patcher for Xiaomi routers | https://github.com/openwrt-xiaomi/xmir-patcher | 3 | 0| 
-| 20211120T13:28:08Z | A blog where I write about exploiting cafes around Singapore | https://github.com/raniceyue/cafe-exploitation | 0 | 0| 
-| 20211120T13:03:24Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
-| 20211120T13:00:05Z | Null | https://github.com/dracoanguis/Systeme-Exploitation | 0 | 0| 
+| 20211120T23:48:05Z | To-Do | https://github.com/Lescovar420/SABA-EXPLOIT-FPSE | 0 | 1| 
+| 20211120T23:32:01Z | A collection of write ups on how I solved each exploit challenge on Exploit Education | https://github.com/dyllan500/Exploit-Education-Write-Up | 0 | 0| 
+| 20211120T23:23:36Z | Hash collisions and their exploitations | https://github.com/corkami/collisions | 971 | 86| 
+| 20211120T22:55:42Z | A tool for [(semi-){un-(tethered jailbreak)}] of iOS 10.3.x 32-bit devices with checkm8 BootROM exploit.   | https://github.com/dora2-iOS/p0insettia | 10 | 0| 
+| 20211120T21:53:38Z | Null | https://github.com/joeengo/exploiting | 0 | 0| 
+| 20211120T21:39:49Z | Null | https://github.com/rx4666ghost/Silent-DOC-Exploit-2018 | 0 | 0| 
+| 20211120T21:30:40Z | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | 6859 | 1652| 
+| 20211120T21:19:05Z | Null | https://github.com/rx4666ghost/0Day-Link-Exploit-2019 | 0 | 0| 
+| 20211120T21:03:51Z | Haimgard is an environment for writing, testing and using exploit code. | https://github.com/onuratakan/Haimgard | 1 | 0| 
+| 20211120T21:02:49Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10341 | 1779| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211120T22:07:37Z | Actually run a given promise or mock its outcome based on a given input value | https://github.com/johanfive/backdoor | 1 | 0| 
+| 20211120T20:16:08Z | Null | https://github.com/samuelventura/nerves_backdoor | 0 | 0| 
+| 20211120T18:35:40Z | A really complete python backdoor and handler | https://github.com/P3rs3ph0ne/Pheonix | 0 | 0| 
+| 20211120T17:35:26Z | Remote Access Trojan (RAT) | https://github.com/zarkones/damn-simple-rat | 1 | 0| 
+| 20211120T16:49:40Z | Backdoor en python  | https://github.com/JuanSebastian07/yp.roodkcabST0707 | 0 | 0| 
+| 20211120T16:39:38Z | Simple reverse shell for remote control of devices | https://github.com/michaljaz/reverse-backdoor | 0 | 0| 
+| 20211120T16:32:30Z | Anti backdoor plugin, Listen event and auto scan have hightest admin permission player and banned it (If you wang use it, Remove our name and add yourself name in config.yml.) Design for CMI plugin, maybe support Essentials too.... | https://github.com/Ghost-chu/RemovePermission | 0 | 0| 
+| 20211120T16:11:19Z | Backdoor Hibernater | https://github.com/TDteach/BACH | 0 | 0| 
+| 20211120T14:41:18Z | Null | https://github.com/compromyse/SimpleBackdoor | 0 | 0| 
 | 20211120T13:43:45Z | backdoor sourcepawn | https://github.com/stapitop/backdoor | 0 | 0| 
-| 20211120T11:47:51Z | Simple reverse shell for remote control of devices | https://github.com/michaljaz/simple-reverse-shell | 0 | 0| 
-| 20211120T03:52:47Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 361 | 63| 
-| 20211120T02:49:35Z | python3 backdoor  | https://github.com/trevalkov/rootkit | 0 | 0| 
-| 20211120T01:13:48Z | Unofficial pytorch implementation of RobNet(Defense-Resistant Backdoor Attacks on DNN) | https://github.com/dhkim2810/RobNet | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -72,16 +81,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211120T13:50:10Z | Anything about kernel security.  CTF kernel pwn, kernel exploit, kernel fuzz and kernel defense paper, kernel debugging technique, kernel CVE debug. | https://github.com/bsauce/kernel-security-learning | 276 | 38| 
-| 20211120T13:44:00Z | Null | https://github.com/tzachar/cmp-fuzzy-buffer | 22 | 0| 
-| 20211120T13:39:40Z | Null | https://github.com/toy-soldier/fuzzy-enigma | 0 | 0| 
-| 20211120T13:37:50Z | Null | https://github.com/mehdikuchi/FuzzyNN | 0 | 0| 
-| 20211120T13:36:45Z | Official Python implementation of IEEE JBHI 2021 paper: %Choquet Integral and Coalition Game-based Ensemble of Deep Learning Models for COVID-19 Screening from Chest X-ray Images% | https://github.com/subhankar01/Covid-Chestxray-lambda-fuzzy | 3 | 4| 
-| 20211120T13:36:28Z | Asynchronous fuzzy finder in vim9script | https://github.com/kohnish/vim9-fuzzy | 0 | 0| 
-| 20211120T13:34:49Z | Null | https://github.com/timacpp/fuzzy-numbers | 0 | 0| 
-| 20211120T12:55:02Z | Tests for Fuzzy Numbers task for JNP at University of Warsaw | https://github.com/tudny/JNP-FuzzyTests | 0 | 0| 
-| 20211120T12:10:33Z | jnp1-2021 fuzzy projekt 3 | https://github.com/eerio/fuzzy | 0 | 0| 
-| 20211120T11:23:09Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6831 | 1425| 
+| 20211120T23:36:02Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
+| 20211120T23:18:46Z | Code to implement Fuzzy Matching (index and retrieval) using Java Lucene | https://github.com/jmcrego/FuzzyMatchingWithLucene | 0 | 0| 
+| 20211120T23:15:25Z | This is a ToDo application | https://github.com/Thendo18/fuzzy-umbrella | 0 | 0| 
+| 20211120T23:06:42Z | https://github.com/wcventure/FuzzingPaper | https://github.com/mishmashclone/wcventure-FuzzingPaper | 6 | 1| 
+| 20211120T23:01:49Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
+| 20211120T22:31:11Z | jnp1-2021 fuzzy projekt 3 | https://github.com/eerio/fuzzy | 0 | 0| 
+| 20211120T21:46:31Z | Sublime Text Plugin that allows for file navigation via the quick panel taking advantage of Sublime%s fuzzy searching. | https://github.com/facelessuser/FuzzyFileNav | 67 | 14| 
+| 20211120T21:27:28Z | Companion repository to the Fuzzing101 with LibAFL series of blog posts. | https://github.com/epi052/fuzzing-101-solutions | 29 | 4| 
+| 20211120T21:11:17Z | Null | https://github.com/johnLeavell/fuzzy-sniffle | 0 | 0| 
+| 20211120T20:30:53Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6836 | 1426| 
 
 
 
