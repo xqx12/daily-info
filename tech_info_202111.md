@@ -144,6 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211121T01:34:40Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211121T01:02:04Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 363 | 85| 
 | 20211121T01:01:59Z | Academic papers and articles that I read related to web hacking, fuzzing, etc. / 阅读过的Web安全方向、模糊测试方向的一些论文与阅读笔记 | https://github.com/LyleMi/papers | 231 | 17| 
 | 20211121T00:55:43Z | Proyecto para la clase de Inteligencia Artificial de la facultad de informática que utiliza conceptos de lógica difusa para diagnosticar varios tipos de cáncer basándose en los síntomas | https://github.com/Kingarturs/fuzzy-based-diagnoser | 0 | 0| 
@@ -153,7 +154,6 @@
 | 20211120T23:36:02Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20211120T23:18:46Z | Code to implement Fuzzy Matching (index and retrieval) using Java Lucene | https://github.com/jmcrego/FuzzyMatchingWithLucene | 0 | 0| 
 | 20211120T23:15:25Z | This is a ToDo application | https://github.com/Thendo18/fuzzy-umbrella | 0 | 0| 
-| 20211120T23:06:42Z | https://github.com/wcventure/FuzzingPaper | https://github.com/mishmashclone/wcventure-FuzzingPaper | 6 | 1| 
 
 
 
