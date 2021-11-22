@@ -144,6 +144,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211122T13:50:29Z | Null | https://github.com/erlinasuhadi61/fuzzy-octo-broccoli | 0 | 0| 
+| 20211122T13:50:27Z | This Repository is for maintaining RegressFuzz settings | https://github.com/hanyoungYoo/RegressFuzzSetting | 0 | 0| 
 | 20211122T13:37:31Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211122T13:37:01Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6838 | 1432| 
 | 20211122T13:08:52Z | 一个通过提取 fuzz crash 触发的调用堆栈 hash， 来动态分类的小工具 | https://github.com/Kiprey/CrashUniquer | 2 | 0| 
@@ -152,8 +154,6 @@
 | 20211122T12:20:53Z | experimental fuzzer for distributed deep learning systems | https://github.com/debugevent90901/DDLFuzz | 0 | 0| 
 | 20211122T12:13:03Z | Code to implement Fuzzy Matching (index and retrieval) using Java Lucene | https://github.com/jmcrego/FuzzyMatchingWithLucene | 0 | 0| 
 | 20211122T12:02:05Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 36 | 11| 
-| 20211122T12:00:03Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 248 | 21| 
-| 20211122T10:53:49Z | A fork of AFL for fuzzing Windows binaries | https://github.com/googleprojectzero/winafl | 1805 | 453| 
 
 
 
