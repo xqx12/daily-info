@@ -91,11 +91,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211122T02:03:30Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
+| 20211122T02:03:00Z | exploit in go | https://github.com/adeljck/goexploit | 0 | 0| 
 | 20211122T01:47:24Z | rust noob tried write exploit code with rust lang | https://github.com/Ki11i0n4ir3/CVE-2021-21315 | 0 | 0| 
 | 20211122T01:45:48Z | Hash collisions and their exploitations | https://github.com/corkami/collisions | 982 | 86| 
-| 20211122T01:12:37Z | exploit in go | https://github.com/adeljck/goexploit | 0 | 0| 
 | 20211122T01:05:51Z | A collection of write ups on how I solved each exploit challenge on Exploit Education | https://github.com/dyllan500/Exploit-Education-Write-Up | 0 | 0| 
-| 20211122T01:03:18Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211122T01:03:17Z | Null | https://github.com/tjonty/exploit | 0 | 0| 
 | 20211122T00:45:55Z | Misc scripts. | https://github.com/Aka-Andrew/Exploiting | 0 | 0| 
 | 20211122T00:10:31Z | Null | https://github.com/Leokuy/exploit | 0 | 0| 
@@ -144,6 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211122T02:03:29Z | Null | https://github.com/PhilipSwain/FuzzyBee | 0 | 0| 
 | 20211122T01:42:49Z | Null | https://github.com/brotherweekkim/fuzzy-engine | 0 | 0| 
 | 20211122T01:19:20Z | Proyecto para la clase de Inteligencia Artificial de la facultad de informática que utiliza conceptos de lógica difusa para diagnosticar varios tipos de cáncer basándose en los síntomas | https://github.com/Kingarturs/fuzzy-based-diagnoser | 0 | 1| 
 | 20211122T00:36:00Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 10 | 1| 
@@ -153,7 +154,6 @@
 | 20211121T23:34:41Z | Asynchronous fuzzy finder in vim9script | https://github.com/kohnish/vim9-fuzzy | 0 | 0| 
 | 20211121T22:40:19Z | Null | https://github.com/NorfairKing/cursor-fuzzy-time | 2 | 0| 
 | 20211121T22:33:52Z | Implementação de um sistema avaliador de filmes utilizando Lógica Fuzzy | https://github.com/MateusFirmino/movie-critic-fuzzy-logic | 0 | 0| 
-| 20211121T22:33:16Z | Implementação de um sistema avaliador de filmes utilizando Lógica Fuzzy | https://github.com/da0hn/movie-critic-fuzzy-logic | 0 | 0| 
 
 
 
