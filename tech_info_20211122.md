@@ -55,7 +55,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211122T13:30:03Z | Writeups/exploit code for CTFs I%ve done | https://github.com/6cyril/ctf-writeups | 0 | 0| 
+| 20211122T13:33:44Z | Writeups/exploit code for CTFs I%ve done | https://github.com/6cyril/ctf-writeups | 0 | 0| 
 | 20211122T13:22:30Z | A helpful Java Deserialization exploit framework. | https://github.com/wh1t3p1g/ysomap | 504 | 49| 
 | 20211122T13:22:11Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 3756 | 1298| 
 | 20211122T13:03:34Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
