@@ -94,6 +94,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211122T13:04:59Z | 一个通过提取 fuzz crash 触发的调用堆栈 hash， 来动态分类的小工具 | https://github.com/Kiprey/CrashUniquer | 2 | 0| 
 | 20211122T12:53:48Z | Null | https://github.com/fillif3/fuzzy-MPC | 0 | 0| 
 | 20211122T12:43:23Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3790 | 892| 
 | 20211122T12:20:53Z | experimental fuzzer for distributed deep learning systems | https://github.com/debugevent90901/DDLFuzz | 0 | 0| 
@@ -103,7 +104,6 @@
 | 20211122T12:00:03Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 248 | 21| 
 | 20211122T10:53:49Z | A fork of AFL for fuzzing Windows binaries | https://github.com/googleprojectzero/winafl | 1805 | 453| 
 | 20211122T10:46:38Z | web application | https://github.com/mary20205090/fuzzy-barnacle | 0 | 0| 
-| 20211122T10:29:06Z | Null | https://github.com/gungnir479/fuzzJIT | 0 | 0| 
 
 
 
