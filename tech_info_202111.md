@@ -144,7 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211122T00:56:39Z | Proyecto para la clase de Inteligencia Artificial de la facultad de informática que utiliza conceptos de lógica difusa para diagnosticar varios tipos de cáncer basándose en los síntomas | https://github.com/Kingarturs/fuzzy-based-diagnoser | 0 | 1| 
+| 20211122T01:19:20Z | Proyecto para la clase de Inteligencia Artificial de la facultad de informática que utiliza conceptos de lógica difusa para diagnosticar varios tipos de cáncer basándose en los síntomas | https://github.com/Kingarturs/fuzzy-based-diagnoser | 0 | 1| 
 | 20211122T00:36:00Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 10 | 1| 
 | 20211122T00:16:01Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211122T00:05:05Z | Fuzz testing harness for Geometrize, a library for geometrizing images into geometric primitives | https://github.com/Tw1ddle/geometrize-lib-fuzzing | 1 | 1| 
