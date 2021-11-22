@@ -46,10 +46,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211122T01:47:24Z | CVE-2021-21315 | rust noob tried write exploit code with rust lang | https://github.com/Ki11i0n4ir3/CVE-2021-21315 | | 
+| 20211122T01:46:51Z | cve-2021-22053 | Spring Cloud Netflix Hystrix Dashboard template resolution vulnerability CVE-2021-22053 | https://github.com/SecCoder-Security-Lab/spring-cloud-netflix-hystrix-dashboard-cve-2021-22053 | | 
 | 20211122T00:57:35Z | CVE-2021-36749 | CVE-2021-36749     Docker      漏洞复现 | https://github.com/zwlsix/apache_druid_CVE-2021-36749 | | 
-| 20211122T00:53:02Z | cve-2021-22053 | Spring Cloud Netflix Hystrix Dashboard template resolution vulnerability CVE-2021-22053 | https://github.com/SecCoder-Security-Lab/spring-cloud-netflix-hystrix-dashboard-cve-2021-22053 | | 
 | 20211122T00:08:22Z | CVE-2021-37580 | CVE-2021-37580的poc | https://github.com/fengwenhua/CVE-2021-37580 | | 
-| 20211121T22:03:58Z | CVE-2021-21315 | I try write it with rust-lang | https://github.com/Ki11i0n4ir3/CVE-2021-21315 | | 
 | 20211121T17:35:49Z | CVE-2021-41277 | Null | https://github.com/tahtaciburak/CVE-2021-41277 | | 
 | 20211121T12:27:19Z | CVE-2021-41277 | Metabase信息泄露漏洞批量扫描 | https://github.com/Seals6/CVE-2021-41277 | | 
 | 20211121T05:18:18Z | 未知编号 | Null | https://github.com/ypl6/cve-demo-2020-8287 | | 
@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211122T01:47:24Z | rust noob tried write exploit code with rust lang | https://github.com/Ki11i0n4ir3/CVE-2021-21315 | 0 | 0| 
 | 20211122T01:45:48Z | Hash collisions and their exploitations | https://github.com/corkami/collisions | 982 | 86| 
 | 20211122T01:12:37Z | exploit in go | https://github.com/adeljck/goexploit | 0 | 0| 
 | 20211122T01:05:51Z | A collection of write ups on how I solved each exploit challenge on Exploit Education | https://github.com/dyllan500/Exploit-Education-Write-Up | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20211122T00:10:31Z | Null | https://github.com/Leokuy/exploit | 0 | 0| 
 | 20211122T00:01:30Z | [Roblox] Downtown RP ESP (Gun Crates, Printers) -- genta | https://github.com/subn0de/Roblox_Exploits | 0 | 0| 
 | 20211121T23:51:13Z | Null | https://github.com/xptea/Exploit | 0 | 0| 
-| 20211121T23:36:27Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10345 | 1781| 
 
 
 # backdoor on Github 推荐

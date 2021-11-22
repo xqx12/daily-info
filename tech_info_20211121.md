@@ -21,7 +21,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211121T22:03:58Z | CVE-2021-21315 | I try write it with rust-lang | https://github.com/Ki11i0n4ir3/CVE-2021-21315 | | 
 | 20211121T17:35:49Z | CVE-2021-41277 | Null | https://github.com/tahtaciburak/CVE-2021-41277 | | 
 | 20211121T12:27:19Z | CVE-2021-41277 | Metabase信息泄露漏洞批量扫描 | https://github.com/Seals6/CVE-2021-41277 | | 
 | 20211121T05:18:18Z | 未知编号 | Null | https://github.com/ypl6/cve-demo-2020-8287 | | 
