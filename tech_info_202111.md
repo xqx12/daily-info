@@ -91,7 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211122T01:10:43Z | exploit in go | https://github.com/adeljck/goexploit | 0 | 0| 
+| 20211122T01:12:37Z | exploit in go | https://github.com/adeljck/goexploit | 0 | 0| 
 | 20211122T01:05:51Z | A collection of write ups on how I solved each exploit challenge on Exploit Education | https://github.com/dyllan500/Exploit-Education-Write-Up | 0 | 0| 
 | 20211122T01:03:18Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211122T01:03:17Z | Null | https://github.com/tjonty/exploit | 0 | 0| 
