@@ -91,16 +91,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211121T13:54:22Z | Roblox Exploit Scripts by simulatorwinner#5864 | https://github.com/simulatorwinner/scripts | 0 | 0| 
-| 20211121T13:53:10Z | To-Do | https://github.com/Lescovar420/SABA-EXPLOIT-FPSE | 0 | 1| 
-| 20211121T13:52:04Z | Vulnerability Exploitation Code Collection Repository | https://github.com/0x0021h/expbox | 48 | 10| 
-| 20211121T13:50:17Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 3752 | 1297| 
-| 20211121T13:47:16Z | Exploits for CTF%s and Web based pentesting challenges | https://github.com/reg1reg1/Web-Security-Writeups | 2 | 1| 
-| 20211121T13:24:34Z | Trabajo de fin de grado, esta tool permite al usuario realizar una pequeña auditoria a la hora de escalar privilegios en windows, la herramienta cuenta con un módulo automático, uno manual, y un módulo de búsqueda para encontrar exploits | https://github.com/ErnestoCubo/autoexploit | 1 | 0| 
-| 20211121T13:19:39Z | D(HE)ater is a security tool can perform DoS attack by enforcing the DHE  key exchange. | https://github.com/Balasys/dheater | 74 | 6| 
-| 20211121T13:19:09Z | Written exploits by me | https://github.com/kryptohaker/exploits | 0 | 0| 
-| 20211121T13:04:39Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10345 | 1778| 
-| 20211121T13:03:03Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
+| 20211122T00:45:55Z | Misc scripts. | https://github.com/Aka-Andrew/Exploiting | 0 | 0| 
+| 20211122T00:10:31Z | Null | https://github.com/Leokuy/exploit | 0 | 0| 
+| 20211122T00:04:11Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
+| 20211122T00:01:30Z | [Roblox] Downtown RP ESP (Gun Crates, Printers) -- genta | https://github.com/subn0de/Roblox_Exploits | 0 | 0| 
+| 20211121T23:51:13Z | Null | https://github.com/xptea/Exploit | 0 | 0| 
+| 20211121T23:36:27Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10345 | 1781| 
+| 20211121T23:10:32Z | bwaha | https://github.com/JLC-Dev/Exploiting | 0 | 0| 
+| 20211121T23:05:02Z | A Roblox exploiting library that looks like nodejs. | https://github.com/Mlemix/roblox.ls | 0 | 0| 
+| 20211121T22:54:30Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 8507 | 1466| 
+| 20211121T22:35:20Z | 42 , Exploit binary executables (type elf) | https://github.com/thallard/rainfall | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -121,8 +121,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211121T10:33:05Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2552 | 378| 
-| 20211121T10:19:29Z | 🎻 Requiem: Modular exploit generation using symbolic execution | https://github.com/aesophor/requiem | 15 | 3| 
+| 20211121T22:50:56Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2555 | 378| 
+| 20211121T21:59:17Z | Symbolic executor for the Move programming language. | https://github.com/fEst1ck/move-symbolic-execution | 0 | 0| 
+| 20211121T16:59:03Z | 🎻 Requiem: Modular exploit generation using symbolic execution | https://github.com/aesophor/requiem | 15 | 3| 
 | 20211121T02:47:36Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 14 | 11| 
 | 20211120T22:55:33Z | Angora is a mutation-based fuzzer.  The main goal of Angora is to increase branch coverage by solving path constraints without symbolic execution.  | https://github.com/AngoraFuzzer/Angora | 727 | 135| 
 | 20211120T11:34:42Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1824 | 521| 
@@ -130,7 +131,6 @@
 | 20211119T18:20:16Z | A symbolic execution engine which works on a subset of RISC-V (compiled from a subset of C). | https://github.com/aabyaneh/ase_artifact | 0 | 0| 
 | 20211119T18:15:50Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 0 | 0| 
 | 20211119T18:02:23Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 164 | 37| 
-| 20211119T10:23:36Z | FuSeBMC is a White-Box Fuzzer that combines FUzzing with Symbolic Execution via Bounded Model Checking to verify intricate properties in real-world C programs. | https://github.com/kaled-alshmrany/FuSeBMC | 19 | 2| 
 
 
 # big4 on Github 推荐

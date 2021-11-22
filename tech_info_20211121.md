@@ -44,16 +44,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211121T13:54:22Z | Roblox Exploit Scripts by simulatorwinner#5864 | https://github.com/simulatorwinner/scripts | 0 | 0| 
-| 20211121T13:53:10Z | To-Do | https://github.com/Lescovar420/SABA-EXPLOIT-FPSE | 0 | 1| 
-| 20211121T13:52:04Z | Vulnerability Exploitation Code Collection Repository | https://github.com/0x0021h/expbox | 48 | 10| 
-| 20211121T13:50:17Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 3752 | 1297| 
-| 20211121T13:47:16Z | Exploits for CTF%s and Web based pentesting challenges | https://github.com/reg1reg1/Web-Security-Writeups | 2 | 1| 
-| 20211121T13:24:34Z | Trabajo de fin de grado, esta tool permite al usuario realizar una pequeña auditoria a la hora de escalar privilegios en windows, la herramienta cuenta con un módulo automático, uno manual, y un módulo de búsqueda para encontrar exploits | https://github.com/ErnestoCubo/autoexploit | 1 | 0| 
-| 20211121T13:19:39Z | D(HE)ater is a security tool can perform DoS attack by enforcing the DHE  key exchange. | https://github.com/Balasys/dheater | 74 | 6| 
-| 20211121T13:19:09Z | Written exploits by me | https://github.com/kryptohaker/exploits | 0 | 0| 
-| 20211121T13:04:39Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10345 | 1778| 
-| 20211121T13:03:03Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
+| 20211121T23:51:13Z | Null | https://github.com/xptea/Exploit | 0 | 0| 
+| 20211121T23:36:27Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10345 | 1781| 
+| 20211121T23:10:32Z | bwaha | https://github.com/JLC-Dev/Exploiting | 0 | 0| 
+| 20211121T23:05:02Z | A Roblox exploiting library that looks like nodejs. | https://github.com/Mlemix/roblox.ls | 0 | 0| 
+| 20211121T22:54:30Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 8507 | 1466| 
+| 20211121T22:35:20Z | 42 , Exploit binary executables (type elf) | https://github.com/thallard/rainfall | 0 | 0| 
+| 20211121T22:28:59Z | Multiple game utilities to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 141 | 353| 
+| 20211121T22:16:48Z | This powershell script has got to run in remote hacked windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 12 | 3| 
+| 20211121T22:04:24Z | BOF-Roaster is an automated buffer overflow exploit machine which is begin written with Python 3. On first release it was able to successfully break many of the most well-known buffer overflow example executables.  | https://github.com/Caglankaan/BOF-Roaster | 2 | 0| 
+| 20211121T21:21:24Z | A roblox exploit using easyexploits pretty basic and low tear but it%s made in a few hours | https://github.com/MondoBurger966/Redsploit-V2.3 | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -71,8 +71,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211121T10:33:05Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2552 | 378| 
-| 20211121T10:19:29Z | 🎻 Requiem: Modular exploit generation using symbolic execution | https://github.com/aesophor/requiem | 15 | 3| 
+| 20211121T22:50:56Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2555 | 378| 
+| 20211121T21:59:17Z | Symbolic executor for the Move programming language. | https://github.com/fEst1ck/move-symbolic-execution | 0 | 0| 
+| 20211121T16:59:03Z | 🎻 Requiem: Modular exploit generation using symbolic execution | https://github.com/aesophor/requiem | 15 | 3| 
 | 20211121T02:47:36Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 14 | 11| 
 
 
