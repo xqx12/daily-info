@@ -55,16 +55,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211122T13:08:57Z | Writeups/exploit code for CTFs I%ve done | https://github.com/6cyril/ctf-writeups | 0 | 0| 
+| 20211122T13:03:34Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211122T12:45:36Z | Null | https://github.com/Xin666-exploit/Xin666-exploit.github.io | 0 | 0| 
 | 20211122T12:45:35Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 14| 
 | 20211122T12:42:12Z | Null | https://github.com/MathieuLsr/SystemExploit | 0 | 0| 
 | 20211122T12:27:22Z | Roblox Exploit made by segation. | https://github.com/skill-cheats/exploit | 0 | 0| 
 | 20211122T12:09:50Z | The popular GENIE Generator product is used by nearly all accelerator neutrino experiments and it plays a key role in the exploitation of neutrino data. The Generator implements a modern software framework and it includes state-of-the-art physics modules. It captures the latest results of the GENIE global analysis of neutrino scattering data and includes several tunes that were produced using the proprietary Comparisons and Tuning products. The GENIE physics model is universal and comprehensive:  It handles all neutrinos and targets, and all processes relevant from MeV to PeV energy scales. The Generator includes several tools (flux drivers, detector geometry navigators, specialized event generation apps, event reweighting engines) to simulate complex experimental setups in full detail and to support generator-related analysis tasks.  | https://github.com/GENIE-MC/Generator | 25 | 56| 
 | 20211122T12:08:19Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 236 | 73| 
-| 20211122T12:04:04Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211122T11:57:15Z | Traditional vulnerability research methods often require security researchers to have  professional knowledge and rich practical experience, which is less versatile and has limited efficiency. At present, the application of Machine learning and natural language processing technologies can  intelligently process vulnerabilities. This Project will be based on Detection, Recognition and Analysis  of various vulnerabilities and threats present in Websites or Web Applications so as to pre-emptively  defend against the exploitation of applications, software, or networks. This can be achieved by utilizing  various Machine Learning techniques and algorithms for training of the model with the help of data  collected regarding various vulnerabilities present in web applications, deployment and testing of the  model in order to find certain patterns, dependencies or associations in the dataset. | https://github.com/Sanjana998/WebVulnerabilityAnalysis | 0 | 1| 
 | 20211122T11:50:47Z | Roblox Exploit Scripts by simulatorwinner#5864 | https://github.com/simulatorwinner/scripts | 0 | 0| 
-| 20211122T11:49:21Z | Null | https://github.com/hackboyMcHack/free-gems-exploit-guild-wars-2-arenanet | 0 | 0| 
 
 
 # backdoor on Github 推荐
