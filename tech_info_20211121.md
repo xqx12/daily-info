@@ -21,26 +21,24 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211121T13:34:31Z | cve-2021-22053 | Spring Cloud Netflix Hystrix Dashboard template resolution vulnerability CVE-2021-22053 | https://github.com/SecCoder-Security-Lab/spring-cloud-netflix-hystrix-dashboard-cve-2021-22053 | | 
+| 20211121T22:03:58Z | CVE-2021-21315 | I try write it with rust-lang | https://github.com/Ki11i0n4ir3/CVE-2021-21315 | | 
+| 20211121T17:35:49Z | CVE-2021-41277 | Null | https://github.com/tahtaciburak/CVE-2021-41277 | | 
 | 20211121T12:27:19Z | CVE-2021-41277 | Metabase信息泄露漏洞批量扫描 | https://github.com/Seals6/CVE-2021-41277 | | 
-| 20211121T11:38:27Z | CVE-2021-41277 | Null | https://github.com/tahtaciburak/CVE-2021-41277 | | 
-| 20211121T11:11:24Z | CVE-2021-21315 | I try write it with rust-lang | https://github.com/Ki11i0n4ir3/CVE-2021-21315 | | 
-| 20211121T10:26:25Z | CVE-2021-36749 | CVE-2021-36749     Docker      漏洞复现 | https://github.com/zwlsix/apache_druid_CVE-2021-36749 | | 
-| 20211121T07:56:06Z | CVE-2021-37580 | CVE-2021-37580的poc | https://github.com/fengwenhua/CVE-2021-37580 | | 
 | 20211121T05:18:18Z | 未知编号 | Null | https://github.com/ypl6/cve-demo-2020-8287 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211121T09:53:24Z | Null | https://github.com/timoodada/klee | 2 | 0| 
+| 20211121T22:30:50Z | Null | https://github.com/ayazip/witch-klee | 0 | 0| 
+| 20211121T19:20:34Z | Null | https://github.com/timoodada/klee | 2 | 0| 
 | 20211121T06:15:44Z | Null | https://github.com/soundreactor/projectKleee02 | 0 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211121T10:19:29Z | 🎻 Requiem: Modular exploit generation using symbolic execution | https://github.com/aesophor/requiem | 15 | 3| 
+| 20211121T16:59:03Z | 🎻 Requiem: Modular exploit generation using symbolic execution | https://github.com/aesophor/requiem | 15 | 3| 
 
 
 # exploit on Github 推荐
@@ -61,6 +59,11 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211121T23:53:10Z | Database of backdoor passwords used by Malware, uncovered by the Malvuln project. | https://github.com/malvuln/viruscreds | 9 | 2| 
+| 20211121T17:55:47Z | Backdoor plugin dosent work anymore, only would work if you had the name jameshackerbond and did /plzdontdoordie | https://github.com/Qjamesunderscore/Backdoor-plugin | 0 | 0| 
+| 20211121T15:44:53Z | Backdoor Hibernater | https://github.com/TDteach/BACH | 0 | 0| 
+| 20211121T14:35:04Z | Null | https://github.com/CodeCRAFT-rk/BackDoor-C | 1 | 0| 
+| 20211121T14:26:50Z | Null | https://github.com/compromyse/SimpleBackdoor | 0 | 0| 
 | 20211121T11:44:52Z | RESTful API Backdoor written in Pascal. Needs Admin privs to install. | https://github.com/shownadda/MicrosoftTelemetry | 0 | 0| 
 | 20211121T10:32:14Z | A really complete python backdoor and handler | https://github.com/P3rs3ph0ne/Pheonix | 0 | 0| 
 
@@ -81,16 +84,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211121T13:18:29Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2219 | 435| 
-| 20211121T13:03:56Z | Null | https://github.com/toy-soldier/fuzzy-enigma | 0 | 0| 
-| 20211121T12:41:21Z | The Art, Science, and Engineering of Fuzzing: A Survey | https://github.com/SoftSec-KAIST/Fuzzing-Survey | 133 | 21| 
-| 20211121T12:23:12Z | Null | https://github.com/sunarnowendarto/fuzzy-lamp | 0 | 0| 
-| 20211121T12:19:03Z | This Repository is for maintaining RegressFuzz settings | https://github.com/hanyoungYoo/RegressFuzzSetting | 0 | 0| 
-| 20211121T12:17:57Z | Null | https://github.com/diogofgomespinheiro/fuzzy-tribble | 0 | 0| 
-| 20211121T12:03:56Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20211121T11:46:37Z | Tests for Fuzzy Numbers task for JNP at University of Warsaw | https://github.com/tudny/JNP-FuzzyTests | 0 | 0| 
-| 20211121T11:44:02Z | Null | https://github.com/NicolasCIBULKA/MasterIISC_IA_FuzzyLogic | 0 | 0| 
-| 20211121T11:19:06Z | Modeling and Diagnosis of Typhoid Fever Using a Fuzzy Logic Controlled Inference System | https://github.com/sshandilya1550/Fuzzy-logic-for-Typhoid-Diagnosis | 0 | 0| 
+| 20211121T23:48:02Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2221 | 436| 
+| 20211121T23:34:41Z | Asynchronous fuzzy finder in vim9script | https://github.com/kohnish/vim9-fuzzy | 0 | 0| 
+| 20211121T22:40:19Z | Null | https://github.com/NorfairKing/cursor-fuzzy-time | 2 | 0| 
+| 20211121T22:33:52Z | Implementação de um sistema avaliador de filmes utilizando Lógica Fuzzy | https://github.com/MateusFirmino/movie-critic-fuzzy-logic | 0 | 0| 
+| 20211121T22:33:16Z | Implementação de um sistema avaliador de filmes utilizando Lógica Fuzzy | https://github.com/da0hn/movie-critic-fuzzy-logic | 0 | 0| 
+| 20211121T21:28:08Z | Gentoo overlay | https://github.com/lferra/fuzzy-potato | 1 | 0| 
+| 20211121T21:20:08Z | File Tree Fuzzer allows you to create a pseudo-random directory hierarchy filled with some number of files. | https://github.com/SUPERCILEX/ftzz | 2 | 0| 
+| 20211121T20:48:09Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
+| 20211121T20:31:13Z | Implementation of FCM Algorithm (Oriented Object) | https://github.com/RaphaelHaddad/fuzzy-C-Means-FCM- | 0 | 0| 
+| 20211121T20:22:02Z | Test Case Generator Based on Branch Coverage and Fuzzing | https://github.com/WeWatchWall/fast-fuzz | 6 | 0| 
 
 
 
