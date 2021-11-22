@@ -27,6 +27,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211122T13:29:20Z | CVE-2021-40444 | Null | https://github.com/Alexcot25051999/CVE-2021-40444 | | 
 | 20211122T12:50:17Z | CVE-2021-41277 | MetaBase 任意文件读取漏洞 fofa批量poc | https://github.com/kap1ush0n/CVE-2021-41277 | | 
 | 20211122T12:45:23Z | CVE-2021-3156 | Null | https://github.com/musergi/CVE-2021-3156 | | 
 | 20211122T12:38:26Z | CVE-2021-43617 | CVE-2021-43617 bypass CRF | https://github.com/kombat1/CVE-2021-43617 | | 
@@ -36,7 +37,6 @@
 | 20211122T10:36:55Z | CVE-2021-37580 | CVE-2021-37580的poc | https://github.com/fengwenhua/CVE-2021-37580 | | 
 | 20211122T08:31:17Z | CVE-2021-34473 | 对Exchange Proxyshell 做了二次修改，精确的拆分、实现辅助性安全测试。 | https://github.com/je6k/CVE-2021-34473-Exchange-ProxyShell | | 
 | 20211122T06:52:39Z | CVE-2021-41277 | Null | https://github.com/tahtaciburak/CVE-2021-41277 | | 
-| 20211122T05:38:01Z | CVE-2021-21315 | rust noob tried write exploit code with rust lang | https://github.com/Ki11i0n4ir3/CVE-2021-21315 | | 
 
 
 # klee on Github 推荐
