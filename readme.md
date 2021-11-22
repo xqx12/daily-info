@@ -55,6 +55,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211122T13:50:59Z | Null | https://github.com/aesophor/requiem | 15 | 3| 
 | 20211122T13:44:00Z | Writeups/exploit code for CTFs I%ve done | https://github.com/6cyril/ctf-writeups | 0 | 0| 
 | 20211122T13:39:54Z | Official repository for ChairWare, a powerful script/exploit hub for Roblox! | https://github.com/MiloHaxx/ChairWare | 0 | 0| 
 | 20211122T13:22:30Z | A helpful Java Deserialization exploit framework. | https://github.com/wh1t3p1g/ysomap | 504 | 49| 
@@ -64,7 +65,6 @@
 | 20211122T12:45:35Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 14| 
 | 20211122T12:42:12Z | Null | https://github.com/MathieuLsr/SystemExploit | 0 | 0| 
 | 20211122T12:27:22Z | Roblox Exploit made by segation. | https://github.com/skill-cheats/exploit | 0 | 0| 
-| 20211122T12:09:50Z | The popular GENIE Generator product is used by nearly all accelerator neutrino experiments and it plays a key role in the exploitation of neutrino data. The Generator implements a modern software framework and it includes state-of-the-art physics modules. It captures the latest results of the GENIE global analysis of neutrino scattering data and includes several tunes that were produced using the proprietary Comparisons and Tuning products. The GENIE physics model is universal and comprehensive:  It handles all neutrinos and targets, and all processes relevant from MeV to PeV energy scales. The Generator includes several tools (flux drivers, detector geometry navigators, specialized event generation apps, event reweighting engines) to simulate complex experimental setups in full detail and to support generator-related analysis tasks.  | https://github.com/GENIE-MC/Generator | 25 | 56| 
 
 
 # backdoor on Github 推荐
