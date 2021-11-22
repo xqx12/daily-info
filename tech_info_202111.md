@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211122T02:55:04Z | cve-2021-41277 |  Metabase 任意文件读取 | https://github.com/Henry4E36/Metabase-cve-2021-41277 | | 
+| 20211122T02:55:29Z | cve-2021-41277 |  Metabase 任意文件读取 | https://github.com/Henry4E36/Metabase-cve-2021-41277 | | 
 | 20211122T02:48:37Z | cve-2021-22053 | Spring Cloud Netflix Hystrix Dashboard template resolution vulnerability CVE-2021-22053 | https://github.com/SecCoder-Security-Lab/spring-cloud-netflix-hystrix-dashboard-cve-2021-22053 | | 
 | 20211122T02:24:46Z | CVE-2021-41277 | Null | https://github.com/tahtaciburak/CVE-2021-41277 | | 
 | 20211122T02:17:01Z | CVE-2021-37580 | CVE-2021-37580的poc | https://github.com/fengwenhua/CVE-2021-37580 | | 
