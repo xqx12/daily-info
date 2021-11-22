@@ -46,11 +46,11 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211122T02:24:46Z | CVE-2021-41277 | Null | https://github.com/tahtaciburak/CVE-2021-41277 | | 
 | 20211122T02:20:56Z | cve-2021-22053 | Spring Cloud Netflix Hystrix Dashboard template resolution vulnerability CVE-2021-22053 | https://github.com/SecCoder-Security-Lab/spring-cloud-netflix-hystrix-dashboard-cve-2021-22053 | | 
 | 20211122T02:17:01Z | CVE-2021-37580 | CVE-2021-37580的poc | https://github.com/fengwenhua/CVE-2021-37580 | | 
 | 20211122T02:08:06Z | CVE-2021-21315 | rust noob tried write exploit code with rust lang | https://github.com/Ki11i0n4ir3/CVE-2021-21315 | | 
 | 20211122T00:57:35Z | CVE-2021-36749 | CVE-2021-36749     Docker      漏洞复现 | https://github.com/zwlsix/apache_druid_CVE-2021-36749 | | 
-| 20211121T17:35:49Z | CVE-2021-41277 | Null | https://github.com/tahtaciburak/CVE-2021-41277 | | 
 | 20211121T12:27:19Z | CVE-2021-41277 | Metabase信息泄露漏洞批量扫描 | https://github.com/Seals6/CVE-2021-41277 | | 
 | 20211121T05:18:18Z | 未知编号 | Null | https://github.com/ypl6/cve-demo-2020-8287 | | 
 | 20211120T14:23:26Z | CVE-2021-43616 | Repo demonstrating CVE-2021-43616 / https://github.com/npm/cli/issues/2701 | https://github.com/icatalina/CVE-2021-43616 | | 
