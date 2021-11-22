@@ -106,6 +106,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211122T13:03:02Z | Null | https://github.com/chandokaman7/Backdoor-Malware | 0 | 0| 
 | 20211122T12:30:26Z | Bill Cipher is a Python3 Tkinter Application that creates Python remote backdoors, while giving you the option to convert it to an exe. The program also configures a .py server file that works with the backdoor | https://github.com/DM-ai2/Bill-Cipher | 1 | 0| 
 | 20211122T10:57:15Z | Unofficial pytorch implementation of RobNet(Defense-Resistant Backdoor Attacks on DNN) | https://github.com/dhkim2810/RobNet | 0 | 0| 
 | 20211122T10:29:12Z | Config files for my GitHub profile. | https://github.com/backdoor62/backdoor62 | 0 | 0| 
@@ -115,22 +116,21 @@
 | 20211121T17:55:47Z | Backdoor plugin dosent work anymore, only would work if you had the name jameshackerbond and did /plzdontdoordie | https://github.com/Qjamesunderscore/Backdoor-plugin | 0 | 0| 
 | 20211121T15:44:53Z | Backdoor Hibernater | https://github.com/TDteach/BACH | 0 | 0| 
 | 20211121T14:35:04Z | Null | https://github.com/CodeCRAFT-rk/BackDoor-C | 1 | 0| 
-| 20211121T14:26:50Z | Null | https://github.com/compromyse/SimpleBackdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211121T22:50:56Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2555 | 378| 
+| 20211122T11:28:17Z | 🎻 Requiem: Modular exploit generation using symbolic execution | https://github.com/aesophor/requiem | 15 | 3| 
+| 20211122T09:13:01Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2556 | 378| 
+| 20211122T09:09:07Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1923 | 402| 
 | 20211121T21:59:17Z | Symbolic executor for the Move programming language. | https://github.com/fEst1ck/move-symbolic-execution | 0 | 0| 
-| 20211121T16:59:03Z | 🎻 Requiem: Modular exploit generation using symbolic execution | https://github.com/aesophor/requiem | 15 | 3| 
 | 20211121T02:47:36Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 14 | 11| 
 | 20211120T22:55:33Z | Angora is a mutation-based fuzzer.  The main goal of Angora is to increase branch coverage by solving path constraints without symbolic execution.  | https://github.com/AngoraFuzzer/Angora | 727 | 135| 
 | 20211120T11:34:42Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1824 | 521| 
 | 20211119T18:27:11Z | A symbolic execution engine which works on a subset of RISC-V (compiled from a subset of C). | https://github.com/aabyaneh/ase_engine | 1 | 0| 
 | 20211119T18:20:16Z | A symbolic execution engine which works on a subset of RISC-V (compiled from a subset of C). | https://github.com/aabyaneh/ase_artifact | 0 | 0| 
 | 20211119T18:15:50Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 0 | 0| 
-| 20211119T18:02:23Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 164 | 37| 
 
 
 # big4 on Github 推荐
