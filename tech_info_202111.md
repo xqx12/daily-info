@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211122T01:10:43Z | exploit in go | https://github.com/adeljck/goexploit | 0 | 0| 
 | 20211122T01:05:51Z | A collection of write ups on how I solved each exploit challenge on Exploit Education | https://github.com/dyllan500/Exploit-Education-Write-Up | 0 | 0| 
 | 20211122T01:03:18Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211122T01:03:17Z | Null | https://github.com/tjonty/exploit | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20211121T23:51:13Z | Null | https://github.com/xptea/Exploit | 0 | 0| 
 | 20211121T23:36:27Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10345 | 1781| 
 | 20211121T23:10:32Z | bwaha | https://github.com/JLC-Dev/Exploiting | 0 | 0| 
-| 20211121T23:05:02Z | A Roblox exploiting library that looks like nodejs. | https://github.com/Mlemix/roblox.ls | 0 | 0| 
 
 
 # backdoor on Github 推荐
