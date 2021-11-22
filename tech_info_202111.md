@@ -144,6 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211122T01:42:49Z | Null | https://github.com/brotherweekkim/fuzzy-engine | 0 | 0| 
 | 20211122T01:19:20Z | Proyecto para la clase de Inteligencia Artificial de la facultad de informática que utiliza conceptos de lógica difusa para diagnosticar varios tipos de cáncer basándose en los síntomas | https://github.com/Kingarturs/fuzzy-based-diagnoser | 0 | 1| 
 | 20211122T00:36:00Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 10 | 1| 
 | 20211122T00:16:01Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
@@ -153,7 +154,6 @@
 | 20211121T22:40:19Z | Null | https://github.com/NorfairKing/cursor-fuzzy-time | 2 | 0| 
 | 20211121T22:33:52Z | Implementação de um sistema avaliador de filmes utilizando Lógica Fuzzy | https://github.com/MateusFirmino/movie-critic-fuzzy-logic | 0 | 0| 
 | 20211121T22:33:16Z | Implementação de um sistema avaliador de filmes utilizando Lógica Fuzzy | https://github.com/da0hn/movie-critic-fuzzy-logic | 0 | 0| 
-| 20211121T21:28:08Z | Gentoo overlay | https://github.com/lferra/fuzzy-potato | 1 | 0| 
 
 
 
