@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211122T02:08:06Z | CVE-2021-21315 | rust noob tried write exploit code with rust lang | https://github.com/Ki11i0n4ir3/CVE-2021-21315 | | 
 | 20211122T02:05:31Z | CVE-2021-37580 | CVE-2021-37580的poc | https://github.com/fengwenhua/CVE-2021-37580 | | 
-| 20211122T01:47:24Z | CVE-2021-21315 | rust noob tried write exploit code with rust lang | https://github.com/Ki11i0n4ir3/CVE-2021-21315 | | 
 | 20211122T01:46:51Z | cve-2021-22053 | Spring Cloud Netflix Hystrix Dashboard template resolution vulnerability CVE-2021-22053 | https://github.com/SecCoder-Security-Lab/spring-cloud-netflix-hystrix-dashboard-cve-2021-22053 | | 
 | 20211122T00:57:35Z | CVE-2021-36749 | CVE-2021-36749     Docker      漏洞复现 | https://github.com/zwlsix/apache_druid_CVE-2021-36749 | | 
 | 20211121T17:35:49Z | CVE-2021-41277 | Null | https://github.com/tahtaciburak/CVE-2021-41277 | | 
@@ -91,9 +91,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211122T02:08:06Z | rust noob tried write exploit code with rust lang | https://github.com/Ki11i0n4ir3/CVE-2021-21315 | 0 | 0| 
 | 20211122T02:03:30Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211122T02:03:00Z | exploit in go | https://github.com/adeljck/goexploit | 0 | 0| 
-| 20211122T01:47:24Z | rust noob tried write exploit code with rust lang | https://github.com/Ki11i0n4ir3/CVE-2021-21315 | 0 | 0| 
 | 20211122T01:45:48Z | Hash collisions and their exploitations | https://github.com/corkami/collisions | 982 | 86| 
 | 20211122T01:05:51Z | A collection of write ups on how I solved each exploit challenge on Exploit Education | https://github.com/dyllan500/Exploit-Education-Write-Up | 0 | 0| 
 | 20211122T01:03:17Z | Null | https://github.com/tjonty/exploit | 0 | 0| 
@@ -144,6 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211122T02:10:37Z | QSYM: A Practical Concolic Execution Engine Tailored for Hybrid Fuzzing | https://github.com/sslab-gatech/qsym | 501 | 103| 
 | 20211122T02:03:29Z | Null | https://github.com/PhilipSwain/FuzzyBee | 0 | 0| 
 | 20211122T01:42:49Z | Null | https://github.com/brotherweekkim/fuzzy-engine | 0 | 0| 
 | 20211122T01:19:20Z | Proyecto para la clase de Inteligencia Artificial de la facultad de informática que utiliza conceptos de lógica difusa para diagnosticar varios tipos de cáncer basándose en los síntomas | https://github.com/Kingarturs/fuzzy-based-diagnoser | 0 | 1| 
@@ -153,7 +154,6 @@
 | 20211121T23:48:02Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2221 | 436| 
 | 20211121T23:34:41Z | Asynchronous fuzzy finder in vim9script | https://github.com/kohnish/vim9-fuzzy | 0 | 0| 
 | 20211121T22:40:19Z | Null | https://github.com/NorfairKing/cursor-fuzzy-time | 2 | 0| 
-| 20211121T22:33:52Z | Implementação de um sistema avaliador de filmes utilizando Lógica Fuzzy | https://github.com/MateusFirmino/movie-critic-fuzzy-logic | 0 | 0| 
 
 
 
