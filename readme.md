@@ -94,6 +94,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211122T13:55:29Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 362 | 30| 
 | 20211122T13:50:29Z | Null | https://github.com/erlinasuhadi61/fuzzy-octo-broccoli | 0 | 0| 
 | 20211122T13:50:27Z | This Repository is for maintaining RegressFuzz settings | https://github.com/hanyoungYoo/RegressFuzzSetting | 0 | 0| 
 | 20211122T13:37:31Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
@@ -103,7 +104,6 @@
 | 20211122T12:43:23Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3790 | 892| 
 | 20211122T12:20:53Z | experimental fuzzer for distributed deep learning systems | https://github.com/debugevent90901/DDLFuzz | 0 | 0| 
 | 20211122T12:13:03Z | Code to implement Fuzzy Matching (index and retrieval) using Java Lucene | https://github.com/jmcrego/FuzzyMatchingWithLucene | 0 | 0| 
-| 20211122T12:02:05Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 36 | 11| 
 
 
 
