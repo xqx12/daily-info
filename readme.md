@@ -97,7 +97,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211123T12:58:05Z | Null | https://github.com/demecode/fuzzy-octo-potato-lottery-eth | 0 | 0| 
+| 20211123T13:12:58Z | Null | https://github.com/demecode/fuzzy-octo-potato-lottery-eth | 0 | 0| 
 | 20211123T12:52:18Z | web fuzzing && bug hunter | https://github.com/zer0yu/BugBounty | 11 | 5| 
 | 20211123T12:32:30Z | Null | https://github.com/tandotbt/fuzzynetflix | 0 | 0| 
 | 20211123T12:32:29Z | Rotina implementada em python para o controle de velocidade de um motor DC brushless (BLDC) usando fuzzy logic. O sistema de controle substitui a utilização do acelerador manual para variar a velocidade do motor. O código simula o controle usando fuzzy logic e usando o sistema PID | https://github.com/Luisf3-moreira/Controlador-Fuzzy-de-velocidade- | 0 | 0| 
