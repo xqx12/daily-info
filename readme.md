@@ -55,24 +55,35 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211123T02:58:48Z | Null | https://github.com/iBLISSLabs/Exploit-WordPress-Library-File-Manager-Plugin-Version-5.2.2 | 0 | 0| 
-| 20211123T02:53:02Z | Exploit for ES Filemanager . | https://github.com/Kilo-411/es-filemanager-Exploit | 1 | 0| 
-| 20211123T02:49:21Z | Null | https://github.com/Footsiefat/Discord-Token-Stealer-Exploit | 0 | 0| 
-| 20211123T02:03:07Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
-| 20211123T01:36:48Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 358 | 55| 
-| 20211123T00:54:52Z | exploit in go | https://github.com/adeljck/goexploit | 0 | 0| 
-| 20211123T00:45:35Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 14| 
+| 20211123T13:03:24Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
+| 20211123T12:51:16Z | Trabajo de fin de grado, esta tool permite al usuario realizar una pequeña auditoria a la hora de escalar privilegios en windows, la herramienta cuenta con un módulo automático, uno manual, y un módulo de búsqueda para encontrar exploits | https://github.com/ErnestoCubo/autoexploit | 1 | 0| 
+| 20211123T12:43:08Z | Vulnerability Exploitation Code Collection Repository | https://github.com/0x0021h/expbox | 109 | 20| 
+| 20211123T12:33:59Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10356 | 1784| 
+| 20211123T12:11:56Z | This is an official implementation for %Exploiting Temporal Contexts with Strided Transformer for 3D Human Pose Estimation%.  | https://github.com/Vegetebird/StridedTransformer-Pose3D | 6 | 4| 
+| 20211123T12:05:32Z | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | 0 | 0| 
+| 20211123T12:04:20Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 236 | 73| 
+| 20211123T12:00:13Z | Exploiting BufferOverflow vulnerability on the given piece of code | https://github.com/ishanExtreme/CTF_BufferOverflow | 0 | 0| 
+| 20211123T11:50:59Z | Firmware patcher for Xiaomi routers | https://github.com/openwrt-xiaomi/xmir-patcher | 3 | 0| 
+| 20211123T11:43:16Z | The popular GENIE Generator product is used by nearly all accelerator neutrino experiments and it plays a key role in the exploitation of neutrino data. The Generator implements a modern software framework and it includes state-of-the-art physics modules. It captures the latest results of the GENIE global analysis of neutrino scattering data and includes several tunes that were produced using the proprietary Comparisons and Tuning products. The GENIE physics model is universal and comprehensive:  It handles all neutrinos and targets, and all processes relevant from MeV to PeV energy scales. The Generator includes several tools (flux drivers, detector geometry navigators, specialized event generation apps, event reweighting engines) to simulate complex experimental setups in full detail and to support generator-related analysis tasks.  | https://github.com/GENIE-MC/Generator | 25 | 56| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211123T12:34:33Z | A backdoor manager written in python. | https://github.com/gsvprharsha/backdoor-handler | 0 | 0| 
+| 20211123T12:27:31Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 365 | 64| 
+| 20211123T05:07:59Z | Null | https://github.com/Ramirez1001/backdoor | 0 | 0| 
+| 20211123T04:45:48Z | Unofficial pytorch implementation of RobNet(Defense-Resistant Backdoor Attacks on DNN) | https://github.com/dhkim2810/RobNet | 0 | 0| 
+| 20211123T03:15:17Z | Remote control software, supported Windows/Unix/MacOS/Linux(x86/x64/mips/arm) | https://github.com/h1zzz/purewater | 5 | 0| 
 | 20211123T01:04:29Z | Backdoor en fase de desarrollo | https://github.com/est0800/Backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211123T09:14:50Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2557 | 378| 
+| 20211123T07:04:35Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 10 | 4| 
+| 20211123T04:19:05Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 172 | 10| 
 | 20211123T02:24:57Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 185 | 39| 
 
 
