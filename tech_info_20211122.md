@@ -45,7 +45,12 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211122T13:04:23Z | Null | https://github.com/timoodada/klee | 2 | 0| 
+| 20211122T18:13:03Z | Null | https://github.com/timoodada/klee | 2 | 0| 
+| 20211122T16:54:42Z | Config files for my GitHub profile. | https://github.com/kleean4/kleean4 | 0 | 0| 
+| 20211122T16:10:07Z | Personal Blog | https://github.com/klee1611/klee1611.github.io | 1 | 1| 
+| 20211122T15:11:22Z | Research paper On The Termination of Borrow Checking for Rust and a web application, CLI application and VSCode extension for running static analysis of rust-based smart contracts with a ready-to-be-verified project example. | https://github.com/LedgerProject/safepkt | 0 | 1| 
+| 20211122T14:22:02Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1825 | 521| 
+| 20211122T14:09:36Z | Symbolic Liveness Analysis of real-world software building upon KLEE to detect liveness violations (e.g. infinite loop bugs) | https://github.com/COMSYS/SymbolicLivenessAnalysis | 12 | 0| 
 | 20211122T11:07:27Z | Null | https://github.com/ayazip/witch-klee | 0 | 0| 
 
 
@@ -58,16 +63,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211122T13:50:59Z | Null | https://github.com/aesophor/requiem | 15 | 3| 
-| 20211122T13:44:00Z | Writeups/exploit code for CTFs I%ve done | https://github.com/6cyril/ctf-writeups | 0 | 0| 
-| 20211122T13:39:54Z | Official repository for ChairWare, a powerful script/exploit hub for Roblox! | https://github.com/MiloHaxx/ChairWare | 0 | 0| 
-| 20211122T13:22:30Z | A helpful Java Deserialization exploit framework. | https://github.com/wh1t3p1g/ysomap | 504 | 49| 
-| 20211122T13:22:11Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 3756 | 1298| 
-| 20211122T13:03:34Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
-| 20211122T12:45:36Z | Null | https://github.com/Xin666-exploit/Xin666-exploit.github.io | 0 | 0| 
-| 20211122T12:45:35Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 14| 
-| 20211122T12:42:12Z | Null | https://github.com/MathieuLsr/SystemExploit | 0 | 0| 
-| 20211122T12:27:22Z | Roblox Exploit made by segation. | https://github.com/skill-cheats/exploit | 0 | 0| 
+| 20211122T23:39:51Z | The Next-Gen Roblox Exploit Hub | https://github.com/HonestlyDex/DexHub | 1 | 0| 
+| 20211122T23:30:44Z | Null | https://github.com/hackboyMcHack/free-gems-exploit-guild-wars-2-arenanet | 0 | 0| 
+| 20211122T23:12:36Z | simple program for exploit metabase | https://github.com/z3n70/CVE-2021-41277 | 0 | 1| 
+| 20211122T22:27:51Z | Null | https://github.com/iBLISSLabs/Exploit-WordPress-Library-File-Manager-Plugin-Version-5.2.2 | 0 | 0| 
+| 20211122T22:01:07Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 236 | 73| 
+| 20211122T21:53:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10354 | 1784| 
+| 20211122T21:07:54Z | Null | https://github.com/jwardsmith/Active-Directory-Exploitation | 4 | 2| 
+| 20211122T20:54:18Z | Hash collisions and their exploitations | https://github.com/corkami/collisions | 986 | 87| 
+| 20211122T20:17:53Z | 42 , Exploit binary executables (type elf) | https://github.com/thallard/rainfall | 0 | 0| 
+| 20211122T20:11:59Z | Space Exploitation for Stellaris | https://github.com/draconas1/stellaris-space-exploitation | 0 | 0| 
 
 
 # backdoor on Github 推荐
