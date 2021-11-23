@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211123T02:27:48Z | CVE-2021-42321 | Microsoft Exchange Server Poc | https://github.com/DarkSprings/CVE-2021-42321 | | 
+| 20211123T02:31:40Z | CVE-2021-42321 | Microsoft Exchange Server Poc | https://github.com/DarkSprings/CVE-2021-42321 | | 
 | 20211122T23:12:36Z | CVE-2021-41277 | simple program for exploit metabase | https://github.com/z3n70/CVE-2021-41277 | | 
 | 20211122T20:48:08Z | CVE-2021-40531 | A demo of exploiting CVE-2021-40531, a vulnerability in Sketch. | https://github.com/jonpalmisc/CVE-2021-40531 | | 
 | 20211122T20:24:35Z | CVE-2021-43557 | PoC for CVE-2021-43557 | https://github.com/xvnpw/k8s-CVE-2021-43557-poc | | 
