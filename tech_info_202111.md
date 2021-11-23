@@ -144,8 +144,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211123T02:24:49Z | For Computational Intelligence course project 2: fuzzy logic system (mamdani) | https://github.com/royaljsanders/fuzzytreesclassifier | 0 | 0| 
 | 20211123T02:00:41Z | Null | https://github.com/swalker123/fuzzy-rotary-phone | 0 | 0| 
-| 20211123T01:52:06Z | For Computational Intelligence course project 2: fuzzy logic system (mamdani) | https://github.com/royaljsanders/fuzzytreesclassifier | 0 | 0| 
 | 20211123T01:11:03Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4632 | 471| 
 | 20211123T00:09:53Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 36 | 11| 
 | 20211122T23:39:57Z | Null | https://github.com/ghhwer/Fuzzy-Engine | 0 | 0| 
