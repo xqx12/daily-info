@@ -66,13 +66,13 @@
 | 20211122T23:39:51Z | The Next-Gen Roblox Exploit Hub | https://github.com/HonestlyDex/DexHub | 1 | 0| 
 | 20211122T23:30:44Z | Null | https://github.com/hackboyMcHack/free-gems-exploit-guild-wars-2-arenanet | 0 | 0| 
 | 20211122T23:12:36Z | simple program for exploit metabase | https://github.com/z3n70/CVE-2021-41277 | 0 | 1| 
-| 20211122T22:27:51Z | Null | https://github.com/iBLISSLabs/Exploit-WordPress-Library-File-Manager-Plugin-Version-5.2.2 | 0 | 0| 
 | 20211122T22:01:07Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 236 | 73| 
 | 20211122T21:53:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10354 | 1784| 
 | 20211122T21:07:54Z | Null | https://github.com/jwardsmith/Active-Directory-Exploitation | 4 | 2| 
 | 20211122T20:54:18Z | Hash collisions and their exploitations | https://github.com/corkami/collisions | 986 | 87| 
 | 20211122T20:17:53Z | 42 , Exploit binary executables (type elf) | https://github.com/thallard/rainfall | 0 | 0| 
 | 20211122T20:11:59Z | Space Exploitation for Stellaris | https://github.com/draconas1/stellaris-space-exploitation | 0 | 0| 
+| 20211122T19:56:53Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 264 | 16| 
 
 
 # backdoor on Github 推荐
