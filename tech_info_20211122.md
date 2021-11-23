@@ -115,9 +115,9 @@
 | 20211122T23:11:23Z | Null | https://github.com/alchemycodelab/buggy-js-fuzzy-bunny-organizer | 0 | 0| 
 | 20211122T23:09:25Z | Its a Fuzzer | https://github.com/ResearchAdvancingFuzzing/gtfo | 1 | 0| 
 | 20211122T23:05:22Z | Proyecto para la clase de Inteligencia Artificial de la facultad de informática que utiliza conceptos de lógica difusa para diagnosticar varios tipos de cáncer basándose en los síntomas | https://github.com/Kingarturs/fuzzy-based-diagnoser | 0 | 1| 
-| 20211122T22:27:36Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2222 | 436| 
 | 20211122T22:12:39Z | Null | https://github.com/alchemycodelab/half-baked-js-fuzzy-bunny-organizer | 0 | 0| 
 | 20211122T22:07:22Z | This is a ToDo application | https://github.com/Thendo18/fuzzy-umbrella | 0 | 0| 
+| 20211122T22:06:08Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2442 | 149| 
 
 
 

@@ -91,7 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211123T02:26:00Z | Exploit for ES Filemanager . | https://github.com/Kilo-411/es-filemanager-Exploit | 1 | 0| 
+| 20211123T02:30:58Z | Exploit for ES Filemanager . | https://github.com/Kilo-411/es-filemanager-Exploit | 1 | 0| 
 | 20211123T02:03:07Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211123T01:36:48Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 358 | 55| 
 | 20211123T00:54:52Z | exploit in go | https://github.com/adeljck/goexploit | 0 | 0| 
@@ -144,6 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211123T02:31:35Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2223 | 436| 
 | 20211123T02:24:49Z | For Computational Intelligence course project 2: fuzzy logic system (mamdani) | https://github.com/royaljsanders/fuzzytreesclassifier | 0 | 0| 
 | 20211123T02:00:41Z | Null | https://github.com/swalker123/fuzzy-rotary-phone | 0 | 0| 
 | 20211123T01:11:03Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4632 | 471| 
@@ -153,7 +154,6 @@
 | 20211122T23:35:52Z | Null | https://github.com/Miten99/fuzzy-octo-dollop | 0 | 0| 
 | 20211122T23:30:22Z | Here to live better | https://github.com/Tirique/fuzzy-invention | 0 | 0| 
 | 20211122T23:11:23Z | Null | https://github.com/alchemycodelab/buggy-js-fuzzy-bunny-organizer | 0 | 0| 
-| 20211122T23:09:25Z | Its a Fuzzer | https://github.com/ResearchAdvancingFuzzing/gtfo | 1 | 0| 
 
 
 
