@@ -91,7 +91,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211123T02:36:20Z | Exploit for ES Filemanager . | https://github.com/Kilo-411/es-filemanager-Exploit | 1 | 0| 
+| 20211123T02:47:22Z | Null | https://github.com/Footsiefat/Discord-Token-Stealer-Exploit | 0 | 0| 
+| 20211123T02:46:49Z | Exploit for ES Filemanager . | https://github.com/Kilo-411/es-filemanager-Exploit | 1 | 0| 
 | 20211123T02:03:07Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211123T01:36:48Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 358 | 55| 
 | 20211123T00:54:52Z | exploit in go | https://github.com/adeljck/goexploit | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20211122T23:30:44Z | Null | https://github.com/hackboyMcHack/free-gems-exploit-guild-wars-2-arenanet | 0 | 0| 
 | 20211122T23:12:36Z | simple program for exploit metabase | https://github.com/z3n70/CVE-2021-41277 | 0 | 1| 
 | 20211122T22:27:51Z | Null | https://github.com/iBLISSLabs/Exploit-WordPress-Library-File-Manager-Plugin-Version-5.2.2 | 0 | 0| 
-| 20211122T22:01:07Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 236 | 73| 
 
 
 # backdoor on Github 推荐
