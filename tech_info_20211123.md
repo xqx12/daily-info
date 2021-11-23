@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211123T13:53:52Z | CVE-2020-14065 | Icewarp Mail Server 12.3.0.1 unlimited_file_upload | https://github.com/pinpinsec/CVE-2020-14065 | | 
+| 20211123T13:58:17Z | CVE-2020-14065 | Icewarp Mail Server 12.3.0.1 unlimited_file_upload | https://github.com/pinpinsec/CVE-2020-14065 | | 
 | 20211123T13:51:53Z | CVE-2020-14064 | Icewarp Mail Server 12.3.0.1 incorrect_access_control | https://github.com/pinpinsec/CVE-2020-14064 | | 
 | 20211123T11:56:53Z | CVE-2021-42321 | Microsoft Exchange Server Poc | https://github.com/DarkSprings/CVE-2021-42321 | | 
 | 20211123T11:53:21Z | CVE-2021-34473 | 对Exchange Proxyshell 做了二次修改，精确的拆分、实现辅助性安全测试。 | https://github.com/je6k/CVE-2021-34473-Exchange-ProxyShell | | 
