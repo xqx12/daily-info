@@ -14,6 +14,8 @@
 | 20211122 | Exploiting OAuth: Journey to Account Takeover | https://blog.dixitaditya.com/2021/11/19/account-takeover-chain.html| 
 | 20211122 | MultiPotato - 一个改进版的 Potato，可以使用自己的漏洞作为 SYSTEM Auth Trigger | https://github.com/S3cur3Th1sSh1t/MultiPotato| 
 | 20211122 | dumpulator - 模拟执行 minidump 中代码的工具 | https://github.com/mrexodia/dumpulator| 
+| 20211122 | Black Hat Europe 2021 议题解读: Wi-Fi Mesh中的安全攻击面. | https://paper.seebug.org/1762/| 
+| 20211122 | 针对unicode Bidirectional text（双向文本）安全研究介绍. | https://tttang.com/archive/1339/| 
 
 
 # 安全维基 推荐
@@ -22,21 +24,22 @@
 | 20211122 | SecWiki周刊（第403期) | https://www.sec-wiki.com/weekly/403| 
 | 20211122 | 详解数据治理和数据分类分级 | https://mp.weixin.qq.com/s/EeUrNvd1-pFO1_ybMHKcpw| 
 | 20211122 | 浅谈企业级供应链投毒应急安全能力建设 | https://mp.weixin.qq.com/s/JAODc20qG5iRKVJmgGPYRw| 
+| 20211122 | 网络安全工具的价值观 | https://mp.weixin.qq.com/s/XeHjTScWLZ5lPIJFGUokEg| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211122T23:12:36Z | CVE-2021-41277 | simple program for exploit metabase | https://github.com/z3n70/CVE-2021-41277 | | 
+| 20211122T20:48:08Z | CVE-2021-40531 | A demo of exploiting CVE-2021-40531, a vulnerability in Sketch. | https://github.com/jonpalmisc/CVE-2021-40531 | | 
+| 20211122T20:24:35Z | CVE-2021-43557 | PoC for CVE-2021-43557 | https://github.com/xvnpw/k8s-CVE-2021-43557-poc | | 
+| 20211122T18:29:19Z | CVE-2021-22053 |  CVE-2021-22053: Spring Cloud Netflix Hystrix Dashboard template resolution vulnerability | https://github.com/Vulnmachines/CVE-2021-22053 | | 
+| 20211122T17:31:46Z | CVE-2021-3156 | Null | https://github.com/musergi/CVE-2021-3156 | | 
+| 20211122T15:58:42Z | cve-2021-22053 | Spring Cloud Netflix Hystrix Dashboard template resolution vulnerability CVE-2021-22053 | https://github.com/SecCoder-Security-Lab/spring-cloud-netflix-hystrix-dashboard-cve-2021-22053 | | 
 | 20211122T13:41:39Z | CVE-2021-40444 | Null | https://github.com/Alexcot25051999/CVE-2021-40444 | | 
 | 20211122T12:50:17Z | CVE-2021-41277 | MetaBase 任意文件读取漏洞 fofa批量poc | https://github.com/kap1ush0n/CVE-2021-41277 | | 
-| 20211122T12:45:23Z | CVE-2021-3156 | Null | https://github.com/musergi/CVE-2021-3156 | | 
 | 20211122T12:38:26Z | CVE-2021-43617 | CVE-2021-43617 bypass CRF | https://github.com/kombat1/CVE-2021-43617 | | 
 | 20211122T11:42:35Z | CVE-2021-41277 | Metabase任意文件读取漏洞批量扫描工具 | https://github.com/Seals6/CVE-2021-41277 | | 
-| 20211122T11:19:54Z | CVE-2021-26411 | Null | https://github.com/KAB8345/CVE-2021-26411 | | 
-| 20211122T11:01:15Z | cve-2021-22053 | Spring Cloud Netflix Hystrix Dashboard template resolution vulnerability CVE-2021-22053 | https://github.com/SecCoder-Security-Lab/spring-cloud-netflix-hystrix-dashboard-cve-2021-22053 | | 
-| 20211122T10:36:55Z | CVE-2021-37580 | CVE-2021-37580的poc | https://github.com/fengwenhua/CVE-2021-37580 | | 
-| 20211122T08:31:17Z | CVE-2021-34473 | 对Exchange Proxyshell 做了二次修改，精确的拆分、实现辅助性安全测试。 | https://github.com/je6k/CVE-2021-34473-Exchange-ProxyShell | | 
-| 20211122T06:52:39Z | CVE-2021-41277 | Null | https://github.com/tahtaciburak/CVE-2021-41277 | | 
 
 
 # klee on Github 推荐
@@ -70,20 +73,26 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211122T22:04:19Z | Null | https://github.com/Fartlicker777/Backdoor-Hacking | 0 | 0| 
+| 20211122T20:51:37Z | Null | https://github.com/slitjit/backdoor | 0 | 0| 
+| 20211122T20:41:22Z | Null | https://github.com/zephr1213/Pyro-Backdoor-Whitelist | 0 | 0| 
+| 20211122T19:50:46Z | Remote Access Trojan (RAT) | https://github.com/zarkones/damn-simple-rat | 1 | 0| 
+| 20211122T17:15:22Z | Simple reverse shell for remote control of devices | https://github.com/michaljaz/reverse-backdoor | 0 | 0| 
+| 20211122T16:59:15Z | Remote control software, supported Windows/Unix/MacOS/Linux(x86/x64/mips/arm) | https://github.com/h1zzz/purewater | 5 | 0| 
+| 20211122T16:58:08Z | An experimental anti-virus-detected remote backdoor for LL practice. | https://github.com/GAntonacci95/remote_backdoor | 0 | 0| 
 | 20211122T13:03:28Z | Null | https://github.com/chandokaman7/Backdoor-Malware | 0 | 0| 
 | 20211122T12:30:26Z | Bill Cipher is a Python3 Tkinter Application that creates Python remote backdoors, while giving you the option to convert it to an exe. The program also configures a .py server file that works with the backdoor | https://github.com/DM-ai2/Bill-Cipher | 1 | 0| 
 | 20211122T10:57:15Z | Unofficial pytorch implementation of RobNet(Defense-Resistant Backdoor Attacks on DNN) | https://github.com/dhkim2810/RobNet | 0 | 0| 
-| 20211122T10:29:12Z | Config files for my GitHub profile. | https://github.com/backdoor62/backdoor62 | 0 | 0| 
-| 20211122T05:46:49Z | Null | https://github.com/Ramirez1001/backdoor | 0 | 0| 
-| 20211122T01:40:54Z | Null | https://github.com/PiterIvano/BackDoor | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211122T20:56:59Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2555 | 378| 
+| 20211122T16:35:52Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1924 | 402| 
+| 20211122T15:14:28Z | QEMU VM with generic KVM extensions for symbolic execution | https://github.com/S2E/qemu | 19 | 9| 
+| 20211122T14:22:02Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1825 | 521| 
 | 20211122T11:28:17Z | 🎻 Requiem: Modular exploit generation using symbolic execution | https://github.com/aesophor/requiem | 15 | 3| 
-| 20211122T09:13:01Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2556 | 378| 
-| 20211122T09:09:07Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1923 | 402| 
 
 
 # big4 on Github 推荐
@@ -94,16 +103,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211122T13:55:29Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 362 | 30| 
-| 20211122T13:50:29Z | Null | https://github.com/erlinasuhadi61/fuzzy-octo-broccoli | 0 | 0| 
-| 20211122T13:50:27Z | This Repository is for maintaining RegressFuzz settings | https://github.com/hanyoungYoo/RegressFuzzSetting | 0 | 0| 
-| 20211122T13:37:31Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20211122T13:37:01Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6838 | 1432| 
-| 20211122T13:08:52Z | 一个通过提取 fuzz crash 触发的调用堆栈 hash， 来动态分类的小工具 | https://github.com/Kiprey/CrashUniquer | 2 | 0| 
-| 20211122T12:53:48Z | Null | https://github.com/fillif3/fuzzy-MPC | 0 | 0| 
-| 20211122T12:43:23Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3790 | 892| 
-| 20211122T12:20:53Z | experimental fuzzer for distributed deep learning systems | https://github.com/debugevent90901/DDLFuzz | 0 | 0| 
-| 20211122T12:13:03Z | Code to implement Fuzzy Matching (index and retrieval) using Java Lucene | https://github.com/jmcrego/FuzzyMatchingWithLucene | 0 | 0| 
+| 20211122T23:39:57Z | Null | https://github.com/ghhwer/Fuzzy-Engine | 0 | 0| 
+| 20211122T23:39:40Z | Code to implement Fuzzy Matching (index and retrieval) using Java Lucene | https://github.com/jmcrego/FuzzyMatchingWithLucene | 0 | 0| 
+| 20211122T23:35:52Z | Null | https://github.com/Miten99/fuzzy-octo-dollop | 0 | 0| 
+| 20211122T23:30:22Z | Here to live better | https://github.com/Tirique/fuzzy-invention | 0 | 0| 
+| 20211122T23:11:23Z | Null | https://github.com/alchemycodelab/buggy-js-fuzzy-bunny-organizer | 0 | 0| 
+| 20211122T23:09:25Z | Its a Fuzzer | https://github.com/ResearchAdvancingFuzzing/gtfo | 1 | 0| 
+| 20211122T23:05:22Z | Proyecto para la clase de Inteligencia Artificial de la facultad de informática que utiliza conceptos de lógica difusa para diagnosticar varios tipos de cáncer basándose en los síntomas | https://github.com/Kingarturs/fuzzy-based-diagnoser | 0 | 1| 
+| 20211122T22:27:36Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2222 | 436| 
+| 20211122T22:12:39Z | Null | https://github.com/alchemycodelab/half-baked-js-fuzzy-bunny-organizer | 0 | 0| 
+| 20211122T22:07:22Z | This is a ToDo application | https://github.com/Thendo18/fuzzy-umbrella | 0 | 0| 
 
 
 
