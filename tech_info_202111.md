@@ -144,6 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211123T01:11:03Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4632 | 471| 
 | 20211123T00:09:53Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 36 | 11| 
 | 20211122T23:39:57Z | Null | https://github.com/ghhwer/Fuzzy-Engine | 0 | 0| 
 | 20211122T23:39:40Z | Code to implement Fuzzy Matching (index and retrieval) using Java Lucene | https://github.com/jmcrego/FuzzyMatchingWithLucene | 0 | 0| 
@@ -153,7 +154,6 @@
 | 20211122T23:09:25Z | Its a Fuzzer | https://github.com/ResearchAdvancingFuzzing/gtfo | 1 | 0| 
 | 20211122T23:05:22Z | Proyecto para la clase de Inteligencia Artificial de la facultad de informática que utiliza conceptos de lógica difusa para diagnosticar varios tipos de cáncer basándose en los síntomas | https://github.com/Kingarturs/fuzzy-based-diagnoser | 0 | 1| 
 | 20211122T22:27:36Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2222 | 436| 
-| 20211122T22:12:39Z | Null | https://github.com/alchemycodelab/half-baked-js-fuzzy-bunny-organizer | 0 | 0| 
 
 
 
