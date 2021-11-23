@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211123T02:27:48Z | CVE-2021-42321 | Microsoft Exchange Server Poc | https://github.com/DarkSprings/CVE-2021-42321 | | 
 | 20211122T23:12:36Z | CVE-2021-41277 | simple program for exploit metabase | https://github.com/z3n70/CVE-2021-41277 | | 
 | 20211122T20:48:08Z | CVE-2021-40531 | A demo of exploiting CVE-2021-40531, a vulnerability in Sketch. | https://github.com/jonpalmisc/CVE-2021-40531 | | 
 | 20211122T20:24:35Z | CVE-2021-43557 | PoC for CVE-2021-43557 | https://github.com/xvnpw/k8s-CVE-2021-43557-poc | | 
@@ -55,7 +56,6 @@
 | 20211122T13:41:39Z | CVE-2021-40444 | Null | https://github.com/Alexcot25051999/CVE-2021-40444 | | 
 | 20211122T12:50:17Z | CVE-2021-41277 | MetaBase 任意文件读取漏洞 fofa批量poc | https://github.com/kap1ush0n/CVE-2021-41277 | | 
 | 20211122T12:38:26Z | CVE-2021-43617 | CVE-2021-43617 bypass CRF | https://github.com/kombat1/CVE-2021-43617 | | 
-| 20211122T11:42:35Z | CVE-2021-41277 | Metabase任意文件读取漏洞批量扫描工具 | https://github.com/Seals6/CVE-2021-41277 | | 
 
 
 # klee on Github 推荐
