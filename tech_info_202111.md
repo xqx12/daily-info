@@ -91,8 +91,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211123T13:35:55Z | Null | https://github.com/xxycfhb/pku_exploit_files | 3 | 1| 
-| 20211123T13:30:54Z | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | 0 | 0| 
+| 20211123T13:39:58Z | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | 0 | 0| 
+| 20211123T13:39:15Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 3764 | 1301| 
+| 20211123T13:38:57Z | Null | https://github.com/xxycfhb/pku_exploit_files | 3 | 1| 
 | 20211123T13:15:59Z | Notes about attacking Jenkins servers | https://github.com/gquere/pwn_jenkins | 1181 | 222| 
 | 20211123T13:03:24Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211123T12:51:16Z | Trabajo de fin de grado, esta tool permite al usuario realizar una pequeña auditoria a la hora de escalar privilegios en windows, la herramienta cuenta con un módulo automático, uno manual, y un módulo de búsqueda para encontrar exploits | https://github.com/ErnestoCubo/autoexploit | 1 | 0| 
@@ -100,14 +101,13 @@
 | 20211123T12:33:59Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10356 | 1784| 
 | 20211123T12:11:56Z | This is an official implementation for %Exploiting Temporal Contexts with Strided Transformer for 3D Human Pose Estimation%.  | https://github.com/Vegetebird/StridedTransformer-Pose3D | 6 | 4| 
 | 20211123T12:05:32Z | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | 0 | 0| 
-| 20211123T12:04:20Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 236 | 73| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211123T13:39:51Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 366 | 64| 
 | 20211123T12:34:33Z | A backdoor manager written in python. | https://github.com/gsvprharsha/backdoor-handler | 0 | 0| 
-| 20211123T12:27:31Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 365 | 64| 
 | 20211123T05:07:59Z | Null | https://github.com/Ramirez1001/backdoor | 0 | 0| 
 | 20211123T04:45:48Z | Unofficial pytorch implementation of RobNet(Defense-Resistant Backdoor Attacks on DNN) | https://github.com/dhkim2810/RobNet | 0 | 0| 
 | 20211123T03:15:17Z | Remote control software, supported Windows/Unix/MacOS/Linux(x86/x64/mips/arm) | https://github.com/h1zzz/purewater | 5 | 0| 
@@ -146,6 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211123T13:40:26Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20211123T13:12:58Z | Null | https://github.com/demecode/fuzzy-octo-potato-lottery-eth | 0 | 0| 
 | 20211123T12:52:18Z | web fuzzing && bug hunter | https://github.com/zer0yu/BugBounty | 11 | 5| 
 | 20211123T12:32:30Z | Null | https://github.com/tandotbt/fuzzynetflix | 0 | 0| 
@@ -155,7 +156,6 @@
 | 20211123T12:09:01Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 638 | 131| 
 | 20211123T12:05:03Z | A fork of AFL for fuzzing Windows binaries | https://github.com/googleprojectzero/winafl | 1807 | 454| 
 | 20211123T12:01:57Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 36 | 11| 
-| 20211123T11:31:30Z | Qarminer is fuzzer which automatically test Godot and its modules | https://github.com/qarmin/Qarminer | 5 | 1| 
 
 
 
