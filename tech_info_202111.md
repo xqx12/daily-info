@@ -6,6 +6,15 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20211123 | 研究员 Man Yue Mo 对 Qualcomm NPU 内核驱动 UAF 漏洞的分析 | http://github.co/30BIuuO| 
+| 20211123 | How to fuzz the Linux kernel | http://hackmag.com/security/linux-fuzzing/| 
+| 20211123 | Windows 平台 PPID 欺骗问题测试 | http://captmeelo.com/redteam/maldev/2021/11/22/picky-ppid-spoofing.html| 
+| 20211123 | 从恶意软件收集项目 MALWAREbazaar 的数据看 UNIX 平台的恶意软件 | http://github.com/CiscoCXSecurity/presentations/blob/master/The%20UNIX%20malware%20landscape%20-%20Reviewing%20the%20goods%20at%20MALWAREbazaar%20v5.pdf| 
+| 20211123 | 微软开源了一个反向代理工具 | https://github.com/microsoft/reverse-proxy| 
+| 20211123 | 基于 Windows Event Logs 写的一个日志搜索与威胁发现工具 | https://github.com/countercept/chainsaw| 
+| 20211123 | Issue 2222: KVM: SVM: out-of-bounds read/write in sev_es_string_io | https://bugs.chromium.org/p/project-zero/issues/detail?id=2222| 
+| 20211123 | Cisco Talos 对 Azure Sphere 的漏洞研究报告 | https://blog.talosintelligence.com/2021/11/a-review-of-azure-sphere.html| 
+| 20211123 | 数据保护管理软件 CommVault 的 RCE 漏洞分析 | https://srcincite.io/blog/2021/11/22/unlocking-the-vault.html| 
 | 20211122 | 研究员 Hardik Shah 整理的 Fuzzing 方向的视频 | https://www.youtube.com/c/MrHardik05| 
 | 20211122 | 微软 John Lambert 关于防御的一份 “Defender’s Mindset” | https://medium.com/@johnlatwc/defenders-mindset-319854d10aaa| 
 | 20211122 | Ghidra2cpg - From Graph Queries to Vulnerabilities in Binary Code | https://drive.google.com/file/d/17ynkuHgpz56RAr7HRAoyHgvdLI223nGU/view| 
@@ -17,20 +26,12 @@
 | 20211122 | Black Hat Europe 2021 议题解读: Wi-Fi Mesh中的安全攻击面. | https://paper.seebug.org/1762/| 
 | 20211122 | 针对unicode Bidirectional text（双向文本）安全研究介绍. | https://tttang.com/archive/1339/| 
 | 20211120 | Developing GDB Extension for Heap Exploitation. | https://www.youtube.com/watch?v=tzUrYsQRHfs| 
-| 20211119 | 研究发现从 LCP bus Sniffer 得到的 TPM key 可以用于从 BitLocker 保护的设备中读写数据 | https://blog.scrt.ch/2021/11/15/tpm-sniffing/| 
-| 20211119 | FBI 发布告警称，FatPipe 路由器 VPN 被 APT 组织用于发起 APT 攻击 | https://threatpost.com/fbi-fatpipe-vpn-zero-day-exploited-apt/176453/| 
-| 20211119 | 勒索软件 Conti 的深度分析报告 | https://www.prodaft.com/resource/detail/conti-ransomware-group-depth-analysis| 
-| 20211119 | Paper “Debloating Address Sanitizer”，研究如何优化 ASan 的性能 | http://www.usenix.org/system/files/sec22summer_zhang-yuchen.pdf| 
-| 20211119 | 2230 - Linux: UAF read: SO_PEERCRED and SO_PEERGROUPS race with listen() (and connect()) - project-zero | https://bugs.chromium.org/p/project-zero/issues/detail?id=2230| 
-| 20211119 | 利用协议分析工具 IO Ninja 分析 NPFS | https://www.zerodayinitiative.com/blog/2021/11/17/mindshare-using-io-ninja-to-analyze-npfs| 
-| 20211119 | 白名单之殇：Specter僵尸网络滥用ClouDNS服务，github.com无辜躺枪 | https://blog.netlab.360.com/specter-domain-whitelist-abuse/| 
-| 20211119 | CTF中的java题目总结. | https://tttang.com/archive/1331/| 
-| 20211119 | CCleanerGhost软件供应链安全事件. | https://weiyiling.cn/one/ccleanerghost_review| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20211123 | 二进制代码相似分析综述 | https://mp.weixin.qq.com/s/GiDcQSYywSiRwlXY5N0e3g| 
 | 20211122 | SecWiki周刊（第403期) | https://www.sec-wiki.com/weekly/403| 
 | 20211122 | 详解数据治理和数据分类分级 | https://mp.weixin.qq.com/s/EeUrNvd1-pFO1_ybMHKcpw| 
 | 20211122 | 浅谈企业级供应链投毒应急安全能力建设 | https://mp.weixin.qq.com/s/JAODc20qG5iRKVJmgGPYRw| 
@@ -40,27 +41,28 @@
 | 20211121 | ICICS 2021 论文录用列表 | https://mp.weixin.qq.com/s/LAkQWPh8QT1vUN8PXdDOYw| 
 | 20211121 | 从网安龙头视角解读“十四五”规划结构 | https://mp.weixin.qq.com/s/R42H1JbzF71TeirCWpitpg| 
 | 20211121 | ICICS 2021 论文录用列表 | /news/29822| 
-| 20211120 | SOC分析师对安全警报的看法 | https://mp.weixin.qq.com/s/cRoj5RFADd4Arap4vI_VTg| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211123T02:35:52Z | CVE-2021-42321 | Microsoft Exchange Server Poc | https://github.com/DarkSprings/CVE-2021-42321 | | 
-| 20211122T23:12:36Z | CVE-2021-41277 | simple program for exploit metabase | https://github.com/z3n70/CVE-2021-41277 | | 
-| 20211122T20:48:08Z | CVE-2021-40531 | A demo of exploiting CVE-2021-40531, a vulnerability in Sketch. | https://github.com/jonpalmisc/CVE-2021-40531 | | 
-| 20211122T20:24:35Z | CVE-2021-43557 | PoC for CVE-2021-43557 | https://github.com/xvnpw/k8s-CVE-2021-43557-poc | | 
-| 20211122T18:29:19Z | CVE-2021-22053 |  CVE-2021-22053: Spring Cloud Netflix Hystrix Dashboard template resolution vulnerability | https://github.com/Vulnmachines/CVE-2021-22053 | | 
-| 20211122T17:31:46Z | CVE-2021-3156 | Null | https://github.com/musergi/CVE-2021-3156 | | 
-| 20211122T15:58:42Z | cve-2021-22053 | Spring Cloud Netflix Hystrix Dashboard template resolution vulnerability CVE-2021-22053 | https://github.com/SecCoder-Security-Lab/spring-cloud-netflix-hystrix-dashboard-cve-2021-22053 | | 
-| 20211122T13:41:39Z | CVE-2021-40444 | Null | https://github.com/Alexcot25051999/CVE-2021-40444 | | 
-| 20211122T12:50:17Z | CVE-2021-41277 | MetaBase 任意文件读取漏洞 fofa批量poc | https://github.com/kap1ush0n/CVE-2021-41277 | | 
-| 20211122T12:38:26Z | CVE-2021-43617 | CVE-2021-43617 bypass CRF | https://github.com/kombat1/CVE-2021-43617 | | 
+| 20211123T11:56:53Z | CVE-2021-42321 | Microsoft Exchange Server Poc | https://github.com/DarkSprings/CVE-2021-42321 | | 
+| 20211123T11:53:21Z | CVE-2021-34473 | 对Exchange Proxyshell 做了二次修改，精确的拆分、实现辅助性安全测试。 | https://github.com/je6k/CVE-2021-34473-Exchange-ProxyShell | | 
+| 20211123T09:46:10Z | CVE-2021-43557 | PoC for CVE-2021-43557 | https://github.com/xvnpw/k8s-CVE-2021-43557-poc | | 
+| 20211123T08:05:29Z | cve-2021-22053 | Spring Cloud Netflix Hystrix Dashboard template resolution vulnerability CVE-2021-22053 | https://github.com/SecCoder-Security-Lab/spring-cloud-netflix-hystrix-dashboard-cve-2021-22053 | | 
+| 20211123T07:52:31Z | CVE-2020-0787 | CVE-2020-0787的简单回显 | https://github.com/yanghaoi/CVE-2020-0787 | | 
+| 20211123T07:26:05Z | CVE-2021-36260 | CVE-2021-36260 | https://github.com/rabbitsafe/CVE-2021-36260 | | 
+| 20211123T07:22:21Z | CVE-2021-3129 | CVE-2021-3129-Laravel Debug mode 远程代码执行漏洞 | https://github.com/simonlee-hello/CVE-2021-3129 | | 
+| 20211123T06:24:57Z | CVE-2021-41277 | plugin made for LeakiX | https://github.com/kaizensecurity/CVE-2021-41277 | | 
+| 20211123T05:12:49Z | CVE-2021-40531 | A demo of exploiting CVE-2021-40531, a vulnerability in Sketch. | https://github.com/jonpalmisc/CVE-2021-40531 | | 
+| 20211123T03:23:14Z | CVE-2021-41277 | simple program for exploit metabase | https://github.com/z3n70/CVE-2021-41277 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211123T08:26:24Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 14 | 44| 
+| 20211123T08:10:19Z | Config files for my GitHub profile. | https://github.com/kleeJH/kleeJH | 0 | 0| 
 | 20211123T02:34:15Z | Null | https://github.com/Mq0509/YoRPG_Kleemex | 0 | 0| 
 | 20211122T18:13:03Z | Null | https://github.com/timoodada/klee | 2 | 0| 
 | 20211122T16:54:42Z | Config files for my GitHub profile. | https://github.com/kleean4/kleean4 | 0 | 0| 
@@ -69,8 +71,6 @@
 | 20211122T14:22:02Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1825 | 521| 
 | 20211122T14:09:36Z | Symbolic Liveness Analysis of real-world software building upon KLEE to detect liveness violations (e.g. infinite loop bugs) | https://github.com/COMSYS/SymbolicLivenessAnalysis | 12 | 0| 
 | 20211122T11:07:27Z | Null | https://github.com/ayazip/witch-klee | 0 | 0| 
-| 20211121T06:15:44Z | Null | https://github.com/soundreactor/projectKleee02 | 0 | 0| 
-| 20211119T09:44:19Z | Null | https://github.com/AlyonaAg/klee | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -136,6 +136,8 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211123T12:54:25Z | Original implementation of FlowPrint as in the NDSS %20 paper | https://github.com/Thijsvanede/FlowPrint | 59 | 21| 
+| 20211123T12:51:11Z | NDSS API Client | https://github.com/keenetic/cloud-api-python-client | 0 | 0| 
 | 20211118T09:32:57Z | A penetration testing tool for finding file upload bugs (NDSS 2020) | https://github.com/WSP-LAB/FUSE | 199 | 44| 
 | 20211113T05:19:12Z | Artifact for Harpo at NDSS2022 | https://github.com/bitzj2015/Harpo-NDSS22 | 0 | 0| 
 | 20211112T02:44:49Z | NDSでシェーダーのようなものを動かす | https://github.com/NidoKota/NDSShader | 0 | 0| 
@@ -144,16 +146,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211123T02:31:35Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2223 | 436| 
-| 20211123T02:24:49Z | For Computational Intelligence course project 2: fuzzy logic system (mamdani) | https://github.com/royaljsanders/fuzzytreesclassifier | 0 | 0| 
-| 20211123T02:00:41Z | Null | https://github.com/swalker123/fuzzy-rotary-phone | 0 | 0| 
-| 20211123T01:11:03Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4632 | 471| 
-| 20211123T00:09:53Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 36 | 11| 
-| 20211122T23:39:57Z | Null | https://github.com/ghhwer/Fuzzy-Engine | 0 | 0| 
-| 20211122T23:39:40Z | Code to implement Fuzzy Matching (index and retrieval) using Java Lucene | https://github.com/jmcrego/FuzzyMatchingWithLucene | 0 | 0| 
-| 20211122T23:35:52Z | Null | https://github.com/Miten99/fuzzy-octo-dollop | 0 | 0| 
-| 20211122T23:30:22Z | Here to live better | https://github.com/Tirique/fuzzy-invention | 0 | 0| 
-| 20211122T23:11:23Z | Null | https://github.com/alchemycodelab/buggy-js-fuzzy-bunny-organizer | 0 | 0| 
+| 20211123T12:58:05Z | Null | https://github.com/demecode/fuzzy-octo-potato-lottery-eth | 0 | 0| 
+| 20211123T12:52:18Z | web fuzzing && bug hunter | https://github.com/zer0yu/BugBounty | 11 | 5| 
+| 20211123T12:32:30Z | Null | https://github.com/tandotbt/fuzzynetflix | 0 | 0| 
+| 20211123T12:32:29Z | Rotina implementada em python para o controle de velocidade de um motor DC brushless (BLDC) usando fuzzy logic. O sistema de controle substitui a utilização do acelerador manual para variar a velocidade do motor. O código simula o controle usando fuzzy logic e usando o sistema PID | https://github.com/Luisf3-moreira/Controlador-Fuzzy-de-velocidade- | 0 | 0| 
+| 20211123T12:20:34Z | Null | https://github.com/marlansulono/fuzzy-eureka | 0 | 0| 
+| 20211123T12:19:26Z | GH repo for the docker fuzz container that contains all necessary tools to get started with binary fuzzing and debugging | https://github.com/0xricksanchez/docker_fuzz | 4 | 0| 
+| 20211123T12:09:01Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 638 | 131| 
+| 20211123T12:05:03Z | A fork of AFL for fuzzing Windows binaries | https://github.com/googleprojectzero/winafl | 1807 | 454| 
+| 20211123T12:01:57Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 36 | 11| 
+| 20211123T11:31:30Z | Qarminer is fuzzer which automatically test Godot and its modules | https://github.com/qarmin/Qarminer | 5 | 1| 
 
 
 
