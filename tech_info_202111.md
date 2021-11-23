@@ -144,6 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211123T02:00:41Z | Null | https://github.com/swalker123/fuzzy-rotary-phone | 0 | 0| 
 | 20211123T01:52:06Z | For Computational Intelligence course project 2: fuzzy logic system (mamdani) | https://github.com/royaljsanders/fuzzytreesclassifier | 0 | 0| 
 | 20211123T01:11:03Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4632 | 471| 
 | 20211123T00:09:53Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 36 | 11| 
@@ -153,7 +154,6 @@
 | 20211122T23:30:22Z | Here to live better | https://github.com/Tirique/fuzzy-invention | 0 | 0| 
 | 20211122T23:11:23Z | Null | https://github.com/alchemycodelab/buggy-js-fuzzy-bunny-organizer | 0 | 0| 
 | 20211122T23:09:25Z | Its a Fuzzer | https://github.com/ResearchAdvancingFuzzing/gtfo | 1 | 0| 
-| 20211122T23:05:22Z | Proyecto para la clase de Inteligencia Artificial de la facultad de informática que utiliza conceptos de lógica difusa para diagnosticar varios tipos de cáncer basándose en los síntomas | https://github.com/Kingarturs/fuzzy-based-diagnoser | 0 | 1| 
 
 
 
