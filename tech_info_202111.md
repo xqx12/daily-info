@@ -91,7 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211124T13:14:40Z | exploit list | https://github.com/jm0x0/exploits | 0 | 0| 
+| 20211124T13:15:58Z | exploit list | https://github.com/jm0x0/exploits | 0 | 0| 
 | 20211124T13:13:47Z | Roblox Exploit Scripts by simulatorwinner#5864 | https://github.com/simulatorwinner/scripts | 0 | 0| 
 | 20211124T13:03:16Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211124T12:59:09Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 3772 | 1302| 
@@ -146,6 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211124T13:17:17Z | Null | https://github.com/anirban-nath/fuzzy-c-means-ml-iiti | 0 | 0| 
 | 20211124T13:12:21Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211124T13:11:10Z | Null | https://github.com/sumarnoasintas/fuzzy-invention | 0 | 0| 
 | 20211124T13:06:35Z | web application | https://github.com/mary20205090/fuzzy-barnacle | 0 | 0| 
@@ -155,7 +156,6 @@
 | 20211124T12:38:24Z | Null | https://github.com/tandotbt/fuzzynetflix | 0 | 0| 
 | 20211124T12:35:54Z | White-box fuzzer for Java bytecode | https://github.com/vorpal-research/kex | 7 | 10| 
 | 20211124T12:17:08Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2229 | 436| 
-| 20211124T12:04:58Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 34859 | 18167| 
 
 
 
