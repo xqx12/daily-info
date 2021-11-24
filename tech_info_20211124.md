@@ -55,6 +55,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211124T13:03:16Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211124T13:00:03Z | exploit list | https://github.com/jm0x0/exploits | 0 | 0| 
 | 20211124T12:59:09Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 3772 | 1302| 
 | 20211124T12:46:17Z | https://exploit-poc.com | https://github.com/hktalent/exploit-poc | 2 | 1| 
@@ -62,7 +63,6 @@
 | 20211124T12:43:35Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10359 | 1784| 
 | 20211124T12:41:20Z | Roblox Exploit Scripts by simulatorwinner#5864 | https://github.com/simulatorwinner/scripts | 0 | 0| 
 | 20211124T12:06:31Z | To-Do | https://github.com/Lescovar420/SABA-EXPLOIT-FPSE | 0 | 1| 
-| 20211124T12:04:10Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211124T11:51:04Z | Trabajo de fin de grado, esta tool permite al usuario realizar una pequeña auditoria a la hora de escalar privilegios en windows, la herramienta cuenta con un módulo automático, uno manual, y un módulo de búsqueda para encontrar exploits | https://github.com/ErnestoCubo/autoexploit | 1 | 0| 
 | 20211124T11:36:23Z | Exploit for EfsPotato(MS-EFSR EfsRpcOpenFileRaw with SeImpersonatePrivilege local privalege escalation vulnerability). | https://github.com/zcgonvh/EfsPotato | 375 | 68| 
 
@@ -100,16 +100,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211124T03:00:02Z | Buggy JSON parser | https://github.com/fuzzbuzz/fuzzgoat | 0 | 0| 
-| 20211124T02:54:55Z | TUI file explorer based on PowerShell and fzf | https://github.com/shinyanger/fuzzy-explorer | 2 | 0| 
-| 20211124T02:45:10Z | Null | https://github.com/tandotbt/fuzzynetflix | 0 | 0| 
-| 20211124T02:44:42Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 724 | 145| 
-| 20211124T02:43:47Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6845 | 1432| 
-| 20211124T02:34:30Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 35 | 12| 
-| 20211124T02:24:11Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 105 | 27| 
-| 20211124T02:19:18Z | 一个通过提取 fuzz crash 触发的调用堆栈 hash， 来动态分类的小工具 | https://github.com/Kiprey/CrashUniquer | 2 | 0| 
-| 20211124T01:49:06Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2226 | 436| 
-| 20211124T01:27:26Z | A lang-brainscore repository for initial dirty development; select code will be migrated to a lean and clean more permanent repo in the future  | https://github.com/language-brainscore/lang-brainscore-fuzzy-potato | 0 | 0| 
+| 20211124T12:58:25Z | CSV dataset results from LABVIEW Dashboard | https://github.com/IsabelMendezG/PHQ9_FuzzyLogicResults | 0 | 0| 
+| 20211124T12:49:51Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6849 | 1432| 
+| 20211124T12:44:58Z | Binary, coverage-guided fuzzer for Windows and macOS | https://github.com/googleprojectzero/Jackalope | 660 | 82| 
+| 20211124T12:38:24Z | Null | https://github.com/tandotbt/fuzzynetflix | 0 | 0| 
+| 20211124T12:35:54Z | White-box fuzzer for Java bytecode | https://github.com/vorpal-research/kex | 7 | 10| 
+| 20211124T12:17:08Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2229 | 436| 
+| 20211124T12:06:38Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20211124T12:04:58Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 34859 | 18167| 
+| 20211124T12:03:20Z | Null | https://github.com/WillySanych/fuzzy-sets_Homework_2 | 0 | 0| 
+| 20211124T11:16:57Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3793 | 894| 
 
 
 
