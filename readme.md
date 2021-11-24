@@ -53,22 +53,24 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211123T02:24:57Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 185 | 39| 
+| 20211123T23:24:18Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 78 | 31| 
+| 20211123T23:06:40Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 185 | 39| 
+| 20211123T15:33:38Z | Null | https://github.com/yuvalkirstain/s2e-coref | 21 | 8| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211123T13:53:12Z | Notes about attacking Jenkins servers | https://github.com/gquere/pwn_jenkins | 1181 | 222| 
-| 20211123T13:48:54Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 3764 | 1301| 
-| 20211123T13:39:58Z | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | 0 | 0| 
-| 20211123T13:38:57Z | Null | https://github.com/xxycfhb/pku_exploit_files | 3 | 1| 
-| 20211123T13:03:24Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
-| 20211123T12:51:16Z | Trabajo de fin de grado, esta tool permite al usuario realizar una pequeña auditoria a la hora de escalar privilegios en windows, la herramienta cuenta con un módulo automático, uno manual, y un módulo de búsqueda para encontrar exploits | https://github.com/ErnestoCubo/autoexploit | 1 | 0| 
-| 20211123T12:43:08Z | Vulnerability Exploitation Code Collection Repository | https://github.com/0x0021h/expbox | 109 | 20| 
-| 20211123T12:33:59Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10356 | 1784| 
-| 20211123T12:11:56Z | This is an official implementation for %Exploiting Temporal Contexts with Strided Transformer for 3D Human Pose Estimation%.  | https://github.com/Vegetebird/StridedTransformer-Pose3D | 6 | 4| 
-| 20211123T12:05:32Z | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | 0 | 0| 
+| 20211123T23:48:11Z | Helps with bof exploiting on OSCP | https://github.com/josh-vr/Exploiter | 0 | 0| 
+| 20211123T23:37:01Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 237 | 74| 
+| 20211123T23:07:37Z | We propose Deep Kronecker Neural Network, which is a general framework for neural networks with adaptive activation functions. In particular we proposed Rowdy activation functions that inject sinusoidal fluctuations thereby allows the optimizer to exploit more and train the network faster. Various test cases ranging from function approximation, inferring the PDE solution, and the standard deep learning benchmarks like MNIST, CIFAR-10, CIFAR-100, SVHN etc are solved to show the efficacy of the proposed activation functions. | https://github.com/AmeyaJagtap/Rowdy_Activation_Functions | 0 | 0| 
+| 20211123T22:10:36Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 265 | 16| 
+| 20211123T21:53:15Z | A tool for [(semi-){un-(tethered jailbreak)}] of iOS 10.3.x 32-bit devices with checkm8 BootROM exploit.   | https://github.com/dora2-iOS/p0insettia | 13 | 0| 
+| 20211123T21:02:26Z | This is an old privileges escalation exploit for KAV 5.0.227, 5.0.228 and 5.0.335 for Windows 2000 | https://github.com/ti-bone/kav-privileges-escalation-exploit | 0 | 0| 
+| 20211123T20:41:38Z | A number of exploits and tools I%ve written for CVEs accredited to Marshall Whittaker/oxagast | https://github.com/oxagast/oxasploits | 6 | 2| 
+| 20211123T20:39:07Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10358 | 1785| 
+| 20211123T18:46:57Z | *Well documented* scripts exploiting some useful UNIX utilities. | https://github.com/chhajedji/scripts | 6 | 0| 
+| 20211123T18:41:49Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4117 | 592| 
 
 
 # backdoor on Github 推荐

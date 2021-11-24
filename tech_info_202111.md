@@ -76,31 +76,31 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211123T02:24:57Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 185 | 39| 
+| 20211123T23:24:18Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 78 | 31| 
+| 20211123T23:06:40Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 185 | 39| 
+| 20211123T15:33:38Z | Null | https://github.com/yuvalkirstain/s2e-coref | 21 | 8| 
 | 20211122T13:50:59Z | Null | https://github.com/aesophor/requiem | 15 | 3| 
 | 20211120T05:53:34Z | Null | https://github.com/FISHzj/S2EB | 0 | 0| 
 | 20211116T20:55:05Z | jhirschm | https://github.com/jhirschm/S2E_PhotoinjectorLaserModel | 0 | 0| 
 | 20211116T09:52:52Z | Null | https://github.com/t0ry003/BAC-2009-S2E5 | 0 | 0| 
-| 20211115T03:18:45Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 77 | 31| 
 | 20211114T20:18:26Z | Null | https://github.com/fttatar/malicious_call_seq_anaysis_using_s2e | 0 | 0| 
 | 20211112T08:17:38Z | this branch is a solution to dma emulator | https://github.com/IoTS-P/s2e | 0 | 0| 
 | 20211112T05:18:21Z | Null | https://github.com/marcelocodigos/S2Encontro-Presencial-2 | 0 | 0| 
-| 20211110T12:34:04Z | Null | https://github.com/yuvalkirstain/s2e-coref | 20 | 7| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211123T13:53:12Z | Notes about attacking Jenkins servers | https://github.com/gquere/pwn_jenkins | 1181 | 222| 
-| 20211123T13:48:54Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 3764 | 1301| 
-| 20211123T13:39:58Z | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | 0 | 0| 
-| 20211123T13:38:57Z | Null | https://github.com/xxycfhb/pku_exploit_files | 3 | 1| 
-| 20211123T13:03:24Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
-| 20211123T12:51:16Z | Trabajo de fin de grado, esta tool permite al usuario realizar una pequeña auditoria a la hora de escalar privilegios en windows, la herramienta cuenta con un módulo automático, uno manual, y un módulo de búsqueda para encontrar exploits | https://github.com/ErnestoCubo/autoexploit | 1 | 0| 
-| 20211123T12:43:08Z | Vulnerability Exploitation Code Collection Repository | https://github.com/0x0021h/expbox | 109 | 20| 
-| 20211123T12:33:59Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10356 | 1784| 
-| 20211123T12:11:56Z | This is an official implementation for %Exploiting Temporal Contexts with Strided Transformer for 3D Human Pose Estimation%.  | https://github.com/Vegetebird/StridedTransformer-Pose3D | 6 | 4| 
-| 20211123T12:05:32Z | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | 0 | 0| 
+| 20211124T00:47:03Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 5866 | 1852| 
+| 20211124T00:45:36Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 14| 
+| 20211124T00:24:00Z | Catch users faking their offline status on discord | https://github.com/oSumAtrIX/dinkleberg | 7 | 0| 
+| 20211124T00:22:49Z | Null | https://github.com/Xin666-exploit/Xin666-exploit.github.io | 0 | 0| 
+| 20211124T00:17:01Z | Null | https://github.com/Footsiefat/Discord-Token-Stealer-Exploit | 1 | 0| 
+| 20211124T00:10:02Z | Hash collisions and their exploitations | https://github.com/corkami/collisions | 991 | 87| 
+| 20211124T00:05:39Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
+| 20211123T23:48:11Z | Helps with bof exploiting on OSCP | https://github.com/josh-vr/Exploiter | 0 | 0| 
+| 20211123T23:37:01Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 237 | 74| 
+| 20211123T23:07:37Z | We propose Deep Kronecker Neural Network, which is a general framework for neural networks with adaptive activation functions. In particular we proposed Rowdy activation functions that inject sinusoidal fluctuations thereby allows the optimizer to exploit more and train the network faster. Various test cases ranging from function approximation, inferring the PDE solution, and the standard deep learning benchmarks like MNIST, CIFAR-10, CIFAR-100, SVHN etc are solved to show the efficacy of the proposed activation functions. | https://github.com/AmeyaJagtap/Rowdy_Activation_Functions | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -136,10 +136,10 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211124T00:05:20Z | Artifact for Harpo at NDSS2022 | https://github.com/bitzj2015/Harpo-NDSS22 | 1 | 0| 
 | 20211123T12:54:25Z | Original implementation of FlowPrint as in the NDSS %20 paper | https://github.com/Thijsvanede/FlowPrint | 59 | 21| 
 | 20211123T12:51:11Z | NDSS API Client | https://github.com/keenetic/cloud-api-python-client | 0 | 0| 
 | 20211118T09:32:57Z | A penetration testing tool for finding file upload bugs (NDSS 2020) | https://github.com/WSP-LAB/FUSE | 199 | 44| 
-| 20211113T05:19:12Z | Artifact for Harpo at NDSS2022 | https://github.com/bitzj2015/Harpo-NDSS22 | 0 | 0| 
 | 20211112T02:44:49Z | NDSでシェーダーのようなものを動かす | https://github.com/NidoKota/NDSShader | 0 | 0| 
 
 
