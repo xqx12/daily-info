@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211124T02:38:14Z | CVE-2021-41277 | Metabase任意文件读取漏洞批量扫描工具 | https://github.com/Seals6/CVE-2021-41277 | | 
 | 20211124T02:29:16Z | CVE-2021-34473 | 对Exchange Proxyshell 做了二次修改，精确的拆分、实现辅助性安全测试。 | https://github.com/je6k/CVE-2021-34473-Exchange-ProxyShell | | 
 | 20211124T01:25:49Z | CVE-2021-42321 | Microsoft Exchange Server Poc | https://github.com/DarkSprings/CVE-2021-42321 | | 
 | 20211124T00:51:46Z | CVE-2021-43557 | PoC for CVE-2021-43557 | https://github.com/xvnpw/k8s-CVE-2021-43557-poc | | 
@@ -55,7 +56,6 @@
 | 20211123T14:06:50Z | CVE-2020-14066 | Icewarp Mail Server 12.3.0.1 insecure_permissions | https://github.com/pinpinsec/CVE-2020-14066 | | 
 | 20211123T14:01:05Z | CVE-2020-14064 | Icewarp Mail Server 12.3.0.1 incorrect_access_control | https://github.com/pinpinsec/CVE-2020-14064 | | 
 | 20211123T14:00:12Z | CVE-2020-14065 | Icewarp Mail Server 12.3.0.1 unlimited_file_upload | https://github.com/pinpinsec/CVE-2020-14065 | | 
-| 20211123T08:05:29Z | cve-2021-22053 | Spring Cloud Netflix Hystrix Dashboard template resolution vulnerability CVE-2021-22053 | https://github.com/SecCoder-Security-Lab/spring-cloud-netflix-hystrix-dashboard-cve-2021-22053 | | 
 
 
 # klee on Github 推荐
