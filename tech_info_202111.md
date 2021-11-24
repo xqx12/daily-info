@@ -91,6 +91,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211124T01:35:17Z | Writeups/exploit code for CTFs I%ve done | https://github.com/6cyril/ctf-writeups | 0 | 0| 
+| 20211124T01:28:49Z | Null | https://github.com/koharin/kernel_exploit | 0 | 0| 
 | 20211124T01:21:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10359 | 1785| 
 | 20211124T01:14:06Z | Collection of Discord hacking tools/fun stuff/exploits that is completely made using NodeJS. | https://github.com/I2rys/ODiscord | 33 | 13| 
 | 20211124T01:10:28Z | This book on heap exploitation is a guide to understanding the internals of glibc%s heap and various attacks possible on the heap structure.  | https://github.com/DhavalKapil/heap-exploitation | 1099 | 119| 
@@ -99,8 +101,6 @@
 | 20211124T00:45:36Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 14| 
 | 20211124T00:24:00Z | Catch users faking their offline status on discord | https://github.com/oSumAtrIX/dinkleberg | 7 | 0| 
 | 20211124T00:22:49Z | Null | https://github.com/Xin666-exploit/Xin666-exploit.github.io | 0 | 0| 
-| 20211124T00:17:01Z | Null | https://github.com/Footsiefat/Discord-Token-Stealer-Exploit | 1 | 0| 
-| 20211124T00:10:02Z | Hash collisions and their exploitations | https://github.com/corkami/collisions | 991 | 87| 
 
 
 # backdoor on Github 推荐
