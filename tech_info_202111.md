@@ -146,6 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211124T13:06:35Z | web application | https://github.com/mary20205090/fuzzy-barnacle | 0 | 0| 
 | 20211124T12:58:25Z | CSV dataset results from LABVIEW Dashboard | https://github.com/IsabelMendezG/PHQ9_FuzzyLogicResults | 0 | 0| 
 | 20211124T12:49:51Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6849 | 1432| 
 | 20211124T12:44:58Z | Binary, coverage-guided fuzzer for Windows and macOS | https://github.com/googleprojectzero/Jackalope | 660 | 82| 
@@ -155,7 +156,6 @@
 | 20211124T12:06:38Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211124T12:04:58Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 34859 | 18167| 
 | 20211124T12:03:20Z | Null | https://github.com/WillySanych/fuzzy-sets_Homework_2 | 0 | 0| 
-| 20211124T11:16:57Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3793 | 894| 
 
 
 
