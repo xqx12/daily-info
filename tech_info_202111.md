@@ -91,7 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211124T01:51:30Z | Web exploitation workshop  | https://github.com/IEEE-MSB-CS/web-exploitation-21V1 | 0 | 0| 
+| 20211124T01:54:21Z | Web exploitation workshop  | https://github.com/IEEE-MSB-CS/web-exploitation-21V1 | 0 | 0| 
 | 20211124T01:45:31Z | Writeups/exploit code for CTFs I%ve done | https://github.com/6cyril/ctf-writeups | 0 | 0| 
 | 20211124T01:28:49Z | Null | https://github.com/koharin/kernel_exploit | 0 | 0| 
 | 20211124T01:21:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10359 | 1785| 
@@ -146,8 +146,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211124T01:54:55Z | Null | https://github.com/tandotbt/fuzzynetflix | 0 | 0| 
+| 20211124T01:52:46Z | 一个通过提取 fuzz crash 触发的调用堆栈 hash， 来动态分类的小工具 | https://github.com/Kiprey/CrashUniquer | 2 | 0| 
 | 20211124T01:49:06Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2226 | 436| 
-| 20211124T01:41:08Z | 一个通过提取 fuzz crash 触发的调用堆栈 hash， 来动态分类的小工具 | https://github.com/Kiprey/CrashUniquer | 2 | 0| 
 | 20211124T01:27:26Z | A lang-brainscore repository for initial dirty development; select code will be migrated to a lean and clean more permanent repo in the future  | https://github.com/language-brainscore/lang-brainscore-fuzzy-potato | 0 | 0| 
 | 20211124T01:24:19Z | Null | https://github.com/yasminekat/fuzzy-octo-potato | 0 | 0| 
 | 20211124T00:56:13Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 35 | 12| 
@@ -155,7 +156,6 @@
 | 20211124T00:49:50Z | Null | https://github.com/ghhwer/Fuzzy-Engine | 1 | 0| 
 | 20211124T00:23:49Z | Fuzzing Wordlists | https://github.com/kiswarday/KWordlists | 0 | 0| 
 | 20211124T00:15:40Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20211124T00:11:08Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 723 | 145| 
 
 
 
