@@ -91,13 +91,13 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211124T01:03:27Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211124T00:47:03Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 5866 | 1852| 
 | 20211124T00:45:36Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 14| 
 | 20211124T00:24:00Z | Catch users faking their offline status on discord | https://github.com/oSumAtrIX/dinkleberg | 7 | 0| 
 | 20211124T00:22:49Z | Null | https://github.com/Xin666-exploit/Xin666-exploit.github.io | 0 | 0| 
 | 20211124T00:17:01Z | Null | https://github.com/Footsiefat/Discord-Token-Stealer-Exploit | 1 | 0| 
 | 20211124T00:10:02Z | Hash collisions and their exploitations | https://github.com/corkami/collisions | 991 | 87| 
-| 20211124T00:05:39Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211123T23:48:11Z | Helps with bof exploiting on OSCP | https://github.com/josh-vr/Exploiter | 0 | 0| 
 | 20211123T23:37:01Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 237 | 74| 
 | 20211123T23:07:37Z | We propose Deep Kronecker Neural Network, which is a general framework for neural networks with adaptive activation functions. In particular we proposed Rowdy activation functions that inject sinusoidal fluctuations thereby allows the optimizer to exploit more and train the network faster. Various test cases ranging from function approximation, inferring the PDE solution, and the standard deep learning benchmarks like MNIST, CIFAR-10, CIFAR-100, SVHN etc are solved to show the efficacy of the proposed activation functions. | https://github.com/AmeyaJagtap/Rowdy_Activation_Functions | 0 | 0| 
