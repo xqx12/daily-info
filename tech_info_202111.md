@@ -146,6 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211124T02:24:11Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 105 | 27| 
 | 20211124T02:19:18Z | 一个通过提取 fuzz crash 触发的调用堆栈 hash， 来动态分类的小工具 | https://github.com/Kiprey/CrashUniquer | 2 | 0| 
 | 20211124T02:04:50Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 35 | 12| 
 | 20211124T01:54:55Z | Null | https://github.com/tandotbt/fuzzynetflix | 0 | 0| 
@@ -155,7 +156,6 @@
 | 20211124T00:50:42Z | gRPC Go course | https://github.com/hsmtkk/fuzzy-eureka | 0 | 0| 
 | 20211124T00:49:50Z | Null | https://github.com/ghhwer/Fuzzy-Engine | 1 | 0| 
 | 20211124T00:23:49Z | Fuzzing Wordlists | https://github.com/kiswarday/KWordlists | 0 | 0| 
-| 20211124T00:15:40Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 
 
 
