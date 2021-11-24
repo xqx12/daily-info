@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211124T02:55:37Z | CTF竞赛权威指南 | https://github.com/firmianay/CTF-All-In-One | 2770 | 556| 
 | 20211124T02:50:58Z | Open Source Projects that helps exploit Intel SGX technology | https://github.com/Maxul/Awesome-SGX-Open-Source | 100 | 17| 
 | 20211124T02:39:42Z | Web exploitation workshop  | https://github.com/IEEE-MSB-CS/web-exploitation-21V1 | 0 | 0| 
 | 20211124T02:28:07Z | Writeups/exploit code for CTFs I%ve done | https://github.com/6cyril/ctf-writeups | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20211124T01:14:06Z | Collection of Discord hacking tools/fun stuff/exploits that is completely made using NodeJS. | https://github.com/I2rys/ODiscord | 33 | 13| 
 | 20211124T01:10:28Z | This book on heap exploitation is a guide to understanding the internals of glibc%s heap and various attacks possible on the heap structure.  | https://github.com/DhavalKapil/heap-exploitation | 1099 | 119| 
 | 20211124T00:47:03Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 5866 | 1852| 
-| 20211124T00:45:36Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 14| 
 
 
 # backdoor on Github 推荐
