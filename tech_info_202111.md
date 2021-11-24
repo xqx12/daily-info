@@ -146,8 +146,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211124T03:00:02Z | Buggy JSON parser | https://github.com/fuzzbuzz/fuzzgoat | 0 | 0| 
 | 20211124T02:54:55Z | TUI file explorer based on PowerShell and fzf | https://github.com/shinyanger/fuzzy-explorer | 2 | 0| 
-| 20211124T02:54:51Z | Buggy JSON parser | https://github.com/fuzzbuzz/fuzzgoat | 0 | 0| 
 | 20211124T02:45:10Z | Null | https://github.com/tandotbt/fuzzynetflix | 0 | 0| 
 | 20211124T02:44:42Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 724 | 145| 
 | 20211124T02:43:47Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6845 | 1432| 
