@@ -146,6 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211124T01:49:06Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2226 | 436| 
 | 20211124T01:41:08Z | 一个通过提取 fuzz crash 触发的调用堆栈 hash， 来动态分类的小工具 | https://github.com/Kiprey/CrashUniquer | 2 | 0| 
 | 20211124T01:27:26Z | A lang-brainscore repository for initial dirty development; select code will be migrated to a lean and clean more permanent repo in the future  | https://github.com/language-brainscore/lang-brainscore-fuzzy-potato | 0 | 0| 
 | 20211124T01:24:19Z | Null | https://github.com/yasminekat/fuzzy-octo-potato | 0 | 0| 
@@ -155,7 +156,6 @@
 | 20211124T00:23:49Z | Fuzzing Wordlists | https://github.com/kiswarday/KWordlists | 0 | 0| 
 | 20211124T00:15:40Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211124T00:11:08Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 723 | 145| 
-| 20211124T00:10:16Z | Null | https://github.com/Zaynthecoder/fuzzy-octo-eurekap104milmmofsbdcspacmfdwsotmlpcdbsmdjhcombigwuapach | 0 | 0| 
 
 
 
