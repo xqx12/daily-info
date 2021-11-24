@@ -91,7 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211124T01:46:13Z | Web exploitation workshop  | https://github.com/IEEE-MSB-CS/web-exploitation-21V1 | 0 | 0| 
+| 20211124T01:51:30Z | Web exploitation workshop  | https://github.com/IEEE-MSB-CS/web-exploitation-21V1 | 0 | 0| 
 | 20211124T01:45:31Z | Writeups/exploit code for CTFs I%ve done | https://github.com/6cyril/ctf-writeups | 0 | 0| 
 | 20211124T01:28:49Z | Null | https://github.com/koharin/kernel_exploit | 0 | 0| 
 | 20211124T01:21:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10359 | 1785| 
