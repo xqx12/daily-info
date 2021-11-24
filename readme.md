@@ -110,7 +110,6 @@
 | --- | --- | --- | --- | ---| 
 | 20211123T23:28:05Z | a simplified means to CRUD ephemeral user-scoped EC2 instances | https://github.com/rstudio/fuzzbucket | 3 | 1| 
 | 20211123T23:15:51Z | This handler uses Fuzzy Logic (skfuzzy lib) to classify a Mobile Operator depending on input params. See more in:  http://www.classificadoroperadoras.com.br | https://github.com/VictorAndrade4/tcc-fuzzy-handler | 0 | 0| 
-| 20211123T23:01:14Z | A lang-brainscore repository for initial dirty development; select code will be migrated to a lean and clean more permanent repo in the future  | https://github.com/language-brainscore/lang-brainscore-fuzzy-potato | 0 | 0| 
 | 20211123T22:54:14Z | Null | https://github.com/polymorphicengine/Semi-Fuzzy-Quantifiers | 0 | 0| 
 | 20211123T22:30:04Z | My pedalboards | https://github.com/thecatalinstan/pedalboards | 0 | 0| 
 | 20211123T22:26:17Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 638 | 132| 
@@ -118,6 +117,7 @@
 | 20211123T21:13:14Z | Null | https://github.com/alchemycodelab/half-baked-js-fuzzy-bunny-organizer | 0 | 0| 
 | 20211123T21:07:54Z | An example of visualizing fuzzy logic in Python | https://github.com/HoneyChuck/FuzzyLogicExample | 0 | 0| 
 | 20211123T21:07:07Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 312 | 41| 
+| 20211123T20:04:55Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 254 | 31| 
 
 
 
