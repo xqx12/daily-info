@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211124T13:41:09Z | A write-up describing the discovery and exploitation of a vulnerability I found on fun-dare | https://github.com/tikene/fun-dare-vulnerability-write-up | 0 | 0| 
 | 20211124T13:23:31Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 3772 | 1302| 
 | 20211124T13:19:42Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 57 | 13| 
 | 20211124T13:19:36Z | exploit list | https://github.com/jm0x0/exploits | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20211124T12:45:36Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 14| 
 | 20211124T12:43:35Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10359 | 1784| 
 | 20211124T12:06:31Z | To-Do | https://github.com/Lescovar420/SABA-EXPLOIT-FPSE | 0 | 1| 
-| 20211124T11:51:04Z | Trabajo de fin de grado, esta tool permite al usuario realizar una pequeña auditoria a la hora de escalar privilegios en windows, la herramienta cuenta con un módulo automático, uno manual, y un módulo de búsqueda para encontrar exploits | https://github.com/ErnestoCubo/autoexploit | 1 | 0| 
 
 
 # backdoor on Github 推荐
@@ -146,9 +146,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211124T13:42:11Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 34860 | 18167| 
 | 20211124T13:36:02Z | My pedalboards | https://github.com/thecatalinstan/pedalboards | 0 | 0| 
 | 20211124T13:34:53Z | With this project, I want to make a blending between Persevere and taPCT. The idea is to find bugs in large amounts of concurrent threading instruction. For that we will first try and identify with this tool some known bugs from emac versions that were not yet corrected. We first model the system call as a set of events and then apply the taPCT algorithm. Later on, we can use fuzzing to give larger system call sequences to our probabilistic scheduling algorithm.  | https://github.com/Ricagraca/taPPCT | 0 | 0| 
-| 20211124T13:30:16Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 34860 | 18167| 
 | 20211124T13:20:48Z | this is my website | https://github.com/attilavajdaxyz/fuzzy-octo-spoon | 0 | 0| 
 | 20211124T13:17:17Z | Null | https://github.com/anirban-nath/fuzzy-c-means-ml-iiti | 0 | 0| 
 | 20211124T13:12:21Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
