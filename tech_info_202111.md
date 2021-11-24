@@ -91,8 +91,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211124T13:15:58Z | exploit list | https://github.com/jm0x0/exploits | 0 | 0| 
-| 20211124T13:13:47Z | Roblox Exploit Scripts by simulatorwinner#5864 | https://github.com/simulatorwinner/scripts | 0 | 0| 
+| 20211124T13:19:42Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 57 | 13| 
+| 20211124T13:19:36Z | exploit list | https://github.com/jm0x0/exploits | 0 | 0| 
+| 20211124T13:19:29Z | Roblox Exploit Scripts by simulatorwinner#5864 | https://github.com/simulatorwinner/scripts | 0 | 0| 
 | 20211124T13:03:16Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211124T12:59:09Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 3772 | 1302| 
 | 20211124T12:46:17Z | https://exploit-poc.com | https://github.com/hktalent/exploit-poc | 2 | 1| 
@@ -100,7 +101,6 @@
 | 20211124T12:43:35Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10359 | 1784| 
 | 20211124T12:06:31Z | To-Do | https://github.com/Lescovar420/SABA-EXPLOIT-FPSE | 0 | 1| 
 | 20211124T11:51:04Z | Trabajo de fin de grado, esta tool permite al usuario realizar una pequeña auditoria a la hora de escalar privilegios en windows, la herramienta cuenta con un módulo automático, uno manual, y un módulo de búsqueda para encontrar exploits | https://github.com/ErnestoCubo/autoexploit | 1 | 0| 
-| 20211124T11:36:23Z | Exploit for EfsPotato(MS-EFSR EfsRpcOpenFileRaw with SeImpersonatePrivilege local privalege escalation vulnerability). | https://github.com/zcgonvh/EfsPotato | 375 | 68| 
 
 
 # backdoor on Github 推荐
@@ -146,6 +146,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211124T13:20:48Z | this is my website | https://github.com/attilavajdaxyz/fuzzy-octo-spoon | 0 | 0| 
+| 20211124T13:17:48Z | With this project, I want to make a blending between Persevere and taPCT. The idea is to find bugs in large amounts of concurrent threading instruction. For that we will first try and identify with this tool some known bugs from emac versions that were not yet corrected. We first model the system call as a set of events and then apply the taPCT algorithm. Later on, we can use fuzzing to give larger system call sequences to our probabilistic scheduling algorithm.  | https://github.com/Ricagraca/taPPCT | 0 | 0| 
 | 20211124T13:17:17Z | Null | https://github.com/anirban-nath/fuzzy-c-means-ml-iiti | 0 | 0| 
 | 20211124T13:12:21Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211124T13:11:10Z | Null | https://github.com/sumarnoasintas/fuzzy-invention | 0 | 0| 
@@ -154,8 +156,6 @@
 | 20211124T12:49:51Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6849 | 1432| 
 | 20211124T12:44:58Z | Binary, coverage-guided fuzzer for Windows and macOS | https://github.com/googleprojectzero/Jackalope | 660 | 82| 
 | 20211124T12:38:24Z | Null | https://github.com/tandotbt/fuzzynetflix | 0 | 0| 
-| 20211124T12:35:54Z | White-box fuzzer for Java bytecode | https://github.com/vorpal-research/kex | 7 | 10| 
-| 20211124T12:17:08Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2229 | 436| 
 
 
 
