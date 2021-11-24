@@ -27,11 +27,11 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211124T13:04:33Z | CVE-2021-40531 | A demo of exploiting CVE-2021-40531, a vulnerability in Sketch. | https://github.com/jonpalmisc/CVE-2021-40531 | | 
 | 20211124T12:57:48Z | CVE-2021-41773 | Null | https://github.com/iilegacyyii/PoC-CVE-2021-41773 | | 
 | 20211124T12:50:06Z | CVE-2021-42321 | Microsoft Exchange Server Poc | https://github.com/DarkSprings/CVE-2021-42321 | | 
 | 20211124T10:28:51Z | CVE-2021-43557 | PoC for CVE-2021-43557 | https://github.com/xvnpw/k8s-CVE-2021-43557-poc | | 
 | 20211124T09:19:43Z | CVE-2021-34473 | 对Exchange Proxyshell 做了二次修改，精确的拆分、实现辅助性安全测试。 | https://github.com/je6k/CVE-2021-34473-Exchange-ProxyShell | | 
-| 20211124T08:05:05Z | CVE-2021-40531 | A demo of exploiting CVE-2021-40531, a vulnerability in Sketch. | https://github.com/jonpalmisc/CVE-2021-40531 | | 
 | 20211124T06:02:34Z | CVE-2021-41277 | Metabase GeoJSON map local file inclusion | https://github.com/TheLastVvV/CVE-2021-41277 | | 
 | 20211124T05:40:03Z | cve-2021-41773 | Proof-of-Concept for CVE-2021-41773 | https://github.com/ahmad4fifz/docker-cve-2021-41773 | | 
 | 20211124T02:38:14Z | CVE-2021-41277 | Metabase任意文件读取漏洞批量扫描工具 | https://github.com/Seals6/CVE-2021-41277 | | 
