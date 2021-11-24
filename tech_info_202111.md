@@ -146,7 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211124T01:02:53Z | Null | https://github.com/yasminekat/fuzzy-octo-potato | 0 | 0| 
+| 20211124T01:24:19Z | Null | https://github.com/yasminekat/fuzzy-octo-potato | 0 | 0| 
 | 20211124T00:56:13Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 35 | 12| 
 | 20211124T00:50:42Z | gRPC Go course | https://github.com/hsmtkk/fuzzy-eureka | 0 | 0| 
 | 20211124T00:49:50Z | Null | https://github.com/ghhwer/Fuzzy-Engine | 1 | 0| 
