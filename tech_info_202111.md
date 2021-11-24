@@ -6,6 +6,13 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20211124 | Android 反汇编工具 jadx 更新 1.3.0 版本 | https://github.com/skylot/jadx/releases/tag/v1.3.0| 
+| 20211124 | Abusing Windows Server Update Services (WSUS) to Enable NTLM Relaying Attacks | https://www.gosecure.net/blog/2021/11/22/gosecure-investigates-abusing-windows-server-update-services-wsus-to-enable-ntlm-relaying-attacks/| 
+| 20211124 | Full key extraction of NVIDIA™ TSEC | https://gist.github.com/plutooo/733318dbb57166d203c10d12f6c24e06/| 
+| 20211124 | 通过设置 uchg flag 限制恶意软件对 /Library/LaunchDaemons 等路径的修改 | https://antman1p-30185.medium.com/defeating-malicious-launch-persistence-156e2b40fc67| 
+| 20211124 | Pwn2Own 比赛使用的 VirtualBox NAT 网卡模拟组件的漏洞的分析 | https://www.sentinelone.com/labs/gsoh-no-hunting-for-vulnerabilities-in-virtualbox-network-offloads/| 
+| 20211124 | Sentinelone 总结的 macOS 系统企业安全指南 | https://www.sentinelone.com/wp-content/uploads/2021/11/The-Complete-Guide-to-Understanding-Apple-Mac-Security-for-Enterprise.pdf| 
+| 20211124 | API 网关 Apache APISIX request_uri 路径穿越漏洞分析（CVE-2021-43557） | https://xvnpw.github.io/posts/cve_2021_43557_apache_apisix_path_traversal_in_request_uri_variable/| 
 | 20211123 | 研究员 Man Yue Mo 对 Qualcomm NPU 内核驱动 UAF 漏洞的分析 | http://github.co/30BIuuO| 
 | 20211123 | How to fuzz the Linux kernel | http://hackmag.com/security/linux-fuzzing/| 
 | 20211123 | Windows 平台 PPID 欺骗问题测试 | http://captmeelo.com/redteam/maldev/2021/11/22/picky-ppid-spoofing.html| 
@@ -19,51 +26,44 @@
 | 20211122 | 研究员 Hardik Shah 整理的 Fuzzing 方向的视频 | https://www.youtube.com/c/MrHardik05| 
 | 20211122 | 微软 John Lambert 关于防御的一份 “Defender’s Mindset” | https://medium.com/@johnlatwc/defenders-mindset-319854d10aaa| 
 | 20211122 | Ghidra2cpg - From Graph Queries to Vulnerabilities in Binary Code | https://drive.google.com/file/d/17ynkuHgpz56RAr7HRAoyHgvdLI223nGU/view| 
-| 20211122 | Python 代码中容易出现命令注入的 cases 以及缓解措施 | https://semgrep.dev/docs/cheat-sheets/python-command-injection/| 
-| 20211122 | Windows Installer 本地提权漏洞 PoC | https://github.com/klinix5/InstallerFileTakeOver| 
-| 20211122 | Exploiting OAuth: Journey to Account Takeover | https://blog.dixitaditya.com/2021/11/19/account-takeover-chain.html| 
-| 20211122 | MultiPotato - 一个改进版的 Potato，可以使用自己的漏洞作为 SYSTEM Auth Trigger | https://github.com/S3cur3Th1sSh1t/MultiPotato| 
-| 20211122 | dumpulator - 模拟执行 minidump 中代码的工具 | https://github.com/mrexodia/dumpulator| 
-| 20211122 | Black Hat Europe 2021 议题解读: Wi-Fi Mesh中的安全攻击面. | https://paper.seebug.org/1762/| 
-| 20211122 | 针对unicode Bidirectional text（双向文本）安全研究介绍. | https://tttang.com/archive/1339/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20211124 | 基于主被动测量的 IoT 安全情报 | https://mp.weixin.qq.com/s/Xt3wAWKa5ge0ODK0sfP_lQ| 
+| 20211124 | Apache APISIX uri-blocker 场景绕过之一：$request_uri | https://github.com/CHYbeta/OddProxyDemo/tree/master/apisix/demo1| 
+| 20211124 | 反序列化小子捕获器-反制ysoserial | https://mp.weixin.qq.com/s/Ww_IxNLXI0KWZYERGwu3bg| 
+| 20211124 | 我的OSCP之旅回顾与分享 | http://mp.weixin.qq.com/s?__biz=MzIwOTA4NTg4MA==&mid=2652489835&idx=1&sn=bf3ce9667c4b1949d54930d0047f796b&chksm=8c945cbcbbe3d5aa9f4b2c164d1c0c2d33e9458bcc579b407b386b88f295c10fbe25a84859f8#rd| 
 | 20211123 | 二进制代码相似分析综述 | https://mp.weixin.qq.com/s/GiDcQSYywSiRwlXY5N0e3g| 
 | 20211123 | shellcode免杀初探 | https://mp.weixin.qq.com/s/5BVxYS7HR0ndRQbSB49eBQ| 
 | 20211123 | Starlink 终端固件的提取和分析 | https://mp.weixin.qq.com/s/aMWE6ekKiXWqCsbChirEPQ| 
 | 20211122 | SecWiki周刊（第403期) | https://www.sec-wiki.com/weekly/403| 
 | 20211122 | 详解数据治理和数据分类分级 | https://mp.weixin.qq.com/s/EeUrNvd1-pFO1_ybMHKcpw| 
 | 20211122 | 浅谈企业级供应链投毒应急安全能力建设 | https://mp.weixin.qq.com/s/JAODc20qG5iRKVJmgGPYRw| 
-| 20211122 | 网络安全工具的价值观 | https://mp.weixin.qq.com/s/XeHjTScWLZ5lPIJFGUokEg| 
-| 20211121 | 利用统计方式检测beacon通信 | https://mp.weixin.qq.com/s/-oImqjZyYDiODYWg98xWZw| 
-| 20211121 | 研究面向嵌入式设备固件自动化漏洞挖掘 | https://mp.weixin.qq.com/s/zHiBVe-1hVM-llC7S2ws4w| 
-| 20211121 | ICICS 2021 论文录用列表 | https://mp.weixin.qq.com/s/LAkQWPh8QT1vUN8PXdDOYw| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211124T12:57:48Z | CVE-2021-41773 | Null | https://github.com/iilegacyyii/PoC-CVE-2021-41773 | | 
+| 20211124T12:50:06Z | CVE-2021-42321 | Microsoft Exchange Server Poc | https://github.com/DarkSprings/CVE-2021-42321 | | 
+| 20211124T10:28:51Z | CVE-2021-43557 | PoC for CVE-2021-43557 | https://github.com/xvnpw/k8s-CVE-2021-43557-poc | | 
+| 20211124T09:19:43Z | CVE-2021-34473 | 对Exchange Proxyshell 做了二次修改，精确的拆分、实现辅助性安全测试。 | https://github.com/je6k/CVE-2021-34473-Exchange-ProxyShell | | 
+| 20211124T08:05:05Z | CVE-2021-40531 | A demo of exploiting CVE-2021-40531, a vulnerability in Sketch. | https://github.com/jonpalmisc/CVE-2021-40531 | | 
+| 20211124T06:02:34Z | CVE-2021-41277 | Metabase GeoJSON map local file inclusion | https://github.com/TheLastVvV/CVE-2021-41277 | | 
+| 20211124T05:40:03Z | cve-2021-41773 | Proof-of-Concept for CVE-2021-41773 | https://github.com/ahmad4fifz/docker-cve-2021-41773 | | 
 | 20211124T02:38:14Z | CVE-2021-41277 | Metabase任意文件读取漏洞批量扫描工具 | https://github.com/Seals6/CVE-2021-41277 | | 
-| 20211124T02:29:16Z | CVE-2021-34473 | 对Exchange Proxyshell 做了二次修改，精确的拆分、实现辅助性安全测试。 | https://github.com/je6k/CVE-2021-34473-Exchange-ProxyShell | | 
-| 20211124T01:25:49Z | CVE-2021-42321 | Microsoft Exchange Server Poc | https://github.com/DarkSprings/CVE-2021-42321 | | 
-| 20211124T00:51:46Z | CVE-2021-43557 | PoC for CVE-2021-43557 | https://github.com/xvnpw/k8s-CVE-2021-43557-poc | | 
 | 20211123T19:36:34Z | CVE-2021-40154 | POC to test the BootROM vulnerability found in LPC55S69 and K82 Series  | https://github.com/Xen1thLabs-AE/CVE-2021-40154 | | 
 | 20211123T18:07:05Z | CVE-2021-41277 | Null | https://github.com/Vulnmachines/Metabase_CVE-2021-41277 | | 
-| 20211123T15:03:52Z | CVE-2021-41277 | plugin made for LeakiX | https://github.com/kaizensecurity/CVE-2021-41277 | | 
-| 20211123T14:06:50Z | CVE-2020-14066 | Icewarp Mail Server 12.3.0.1 insecure_permissions | https://github.com/pinpinsec/CVE-2020-14066 | | 
-| 20211123T14:01:05Z | CVE-2020-14064 | Icewarp Mail Server 12.3.0.1 incorrect_access_control | https://github.com/pinpinsec/CVE-2020-14064 | | 
-| 20211123T14:00:12Z | CVE-2020-14065 | Icewarp Mail Server 12.3.0.1 unlimited_file_upload | https://github.com/pinpinsec/CVE-2020-14065 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211124T02:51:46Z | Null | https://github.com/Mq0509/YoRPG_Kleemex | 0 | 0| 
-| 20211124T00:05:08Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1826 | 522| 
-| 20211123T13:30:12Z | Null | https://github.com/timoodada/klee | 2 | 0| 
+| 20211124T12:20:42Z | Null | https://github.com/timoodada/klee | 2 | 0| 
+| 20211124T11:48:32Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1827 | 522| 
+| 20211124T04:13:35Z | Null | https://github.com/Mq0509/YoRPG_Kleemex | 0 | 0| 
 | 20211123T08:26:24Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 14 | 44| 
 | 20211123T08:10:19Z | Config files for my GitHub profile. | https://github.com/kleeJH/kleeJH | 0 | 0| 
 | 20211122T16:54:42Z | Config files for my GitHub profile. | https://github.com/kleean4/kleean4 | 0 | 0| 
@@ -76,9 +76,9 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211124T11:25:44Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 186 | 39| 
 | 20211124T02:41:29Z | this branch is a solution to dma emulator | https://github.com/IoTS-P/s2e | 0 | 0| 
 | 20211123T23:24:18Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 78 | 31| 
-| 20211123T23:06:40Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 185 | 39| 
 | 20211123T15:33:38Z | Null | https://github.com/yuvalkirstain/s2e-coref | 21 | 8| 
 | 20211122T13:50:59Z | Null | https://github.com/aesophor/requiem | 15 | 3| 
 | 20211120T05:53:34Z | Null | https://github.com/FISHzj/S2EB | 0 | 0| 
@@ -91,42 +91,42 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211124T02:55:37Z | CTF竞赛权威指南 | https://github.com/firmianay/CTF-All-In-One | 2770 | 556| 
-| 20211124T02:50:58Z | Open Source Projects that helps exploit Intel SGX technology | https://github.com/Maxul/Awesome-SGX-Open-Source | 100 | 17| 
-| 20211124T02:39:42Z | Web exploitation workshop  | https://github.com/IEEE-MSB-CS/web-exploitation-21V1 | 0 | 0| 
-| 20211124T02:28:07Z | Writeups/exploit code for CTFs I%ve done | https://github.com/6cyril/ctf-writeups | 0 | 0| 
-| 20211124T02:03:14Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
-| 20211124T01:28:49Z | Null | https://github.com/koharin/kernel_exploit | 0 | 0| 
-| 20211124T01:21:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10359 | 1784| 
-| 20211124T01:14:06Z | Collection of Discord hacking tools/fun stuff/exploits that is completely made using NodeJS. | https://github.com/I2rys/ODiscord | 33 | 13| 
-| 20211124T01:10:28Z | This book on heap exploitation is a guide to understanding the internals of glibc%s heap and various attacks possible on the heap structure.  | https://github.com/DhavalKapil/heap-exploitation | 1099 | 119| 
-| 20211124T00:47:03Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 5866 | 1852| 
+| 20211124T13:00:03Z | exploit list | https://github.com/jm0x0/exploits | 0 | 0| 
+| 20211124T12:59:09Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 3772 | 1302| 
+| 20211124T12:46:17Z | https://exploit-poc.com | https://github.com/hktalent/exploit-poc | 2 | 1| 
+| 20211124T12:45:36Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 14| 
+| 20211124T12:43:35Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10359 | 1784| 
+| 20211124T12:41:20Z | Roblox Exploit Scripts by simulatorwinner#5864 | https://github.com/simulatorwinner/scripts | 0 | 0| 
+| 20211124T12:06:31Z | To-Do | https://github.com/Lescovar420/SABA-EXPLOIT-FPSE | 0 | 1| 
+| 20211124T12:04:10Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
+| 20211124T11:51:04Z | Trabajo de fin de grado, esta tool permite al usuario realizar una pequeña auditoria a la hora de escalar privilegios en windows, la herramienta cuenta con un módulo automático, uno manual, y un módulo de búsqueda para encontrar exploits | https://github.com/ErnestoCubo/autoexploit | 1 | 0| 
+| 20211124T11:36:23Z | Exploit for EfsPotato(MS-EFSR EfsRpcOpenFileRaw with SeImpersonatePrivilege local privalege escalation vulnerability). | https://github.com/zcgonvh/EfsPotato | 375 | 68| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211124T10:32:08Z | backdoor bypass for windows 10/11 | https://github.com/cypherKID/backdoor | 0 | 0| 
+| 20211124T10:18:19Z | backdoored ECDSA signatures yum! | https://github.com/oreparaz/backdoor-ecdsa | 1 | 0| 
+| 20211124T09:19:21Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 36 | 28| 
+| 20211124T08:41:53Z |  Access ADB On Browsers (: | https://github.com/jxroot/adbwebkit | 58 | 13| 
+| 20211124T08:20:17Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 5867 | 1853| 
+| 20211124T08:01:52Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 367 | 65| 
 | 20211124T02:29:02Z | Null | https://github.com/zephr1213/Pyro-Backdoor-Whitelist | 0 | 0| 
-| 20211124T00:47:03Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 5866 | 1852| 
 | 20211124T00:11:43Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 51 | 15| 
 | 20211123T21:42:08Z | Null | https://github.com/samuelventura/nerves_backdoor | 0 | 0| 
 | 20211123T19:19:35Z | A TCP Backdoor made in python | https://github.com/ferreiraklet/Tracey-Backdoor | 8 | 0| 
-| 20211123T16:57:41Z | Null | https://github.com/alok2520/Coding_Backdoor | 0 | 0| 
-| 20211123T15:51:40Z | Null | https://github.com/CodeCRAFT-rk/BackDoor-C | 1 | 0| 
-| 20211123T13:39:51Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 366 | 64| 
-| 20211123T12:34:33Z | A backdoor manager written in python. | https://github.com/gsvprharsha/backdoor-handler | 0 | 0| 
-| 20211123T05:07:59Z | Null | https://github.com/Ramirez1001/backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211124T00:05:08Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1826 | 522| 
-| 20211123T23:06:40Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 185 | 39| 
-| 20211123T21:14:12Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2558 | 378| 
-| 20211123T18:03:08Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 173 | 10| 
+| 20211124T11:48:32Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1827 | 522| 
+| 20211124T11:25:44Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 186 | 39| 
+| 20211124T10:38:14Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 10 | 4| 
+| 20211124T07:45:10Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2560 | 379| 
+| 20211124T05:37:34Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 173 | 10| 
 | 20211123T15:07:10Z | Symbolic executor for the Move programming language. | https://github.com/fEst1ck/move-symbolic-execution | 0 | 0| 
-| 20211123T07:04:35Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 10 | 4| 
 | 20211122T16:35:52Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1924 | 402| 
 | 20211122T15:14:28Z | QEMU VM with generic KVM extensions for symbolic execution | https://github.com/S2E/qemu | 19 | 9| 
 | 20211122T11:28:17Z | 🎻 Requiem: Modular exploit generation using symbolic execution | https://github.com/aesophor/requiem | 15 | 3| 
@@ -136,9 +136,9 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211124T07:55:42Z | NDSS API Client | https://github.com/keenetic/cloud-api-python-client | 0 | 0| 
 | 20211124T00:05:20Z | Artifact for Harpo at NDSS2022 | https://github.com/bitzj2015/Harpo-NDSS22 | 1 | 0| 
 | 20211123T12:54:25Z | Original implementation of FlowPrint as in the NDSS %20 paper | https://github.com/Thijsvanede/FlowPrint | 59 | 21| 
-| 20211123T12:51:11Z | NDSS API Client | https://github.com/keenetic/cloud-api-python-client | 0 | 0| 
 | 20211118T09:32:57Z | A penetration testing tool for finding file upload bugs (NDSS 2020) | https://github.com/WSP-LAB/FUSE | 199 | 44| 
 | 20211112T02:44:49Z | NDSでシェーダーのようなものを動かす | https://github.com/NidoKota/NDSShader | 0 | 0| 
 
