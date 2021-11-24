@@ -68,9 +68,9 @@
 | 20211123T21:53:15Z | A tool for [(semi-){un-(tethered jailbreak)}] of iOS 10.3.x 32-bit devices with checkm8 BootROM exploit.   | https://github.com/dora2-iOS/p0insettia | 13 | 0| 
 | 20211123T21:02:26Z | This is an old privileges escalation exploit for KAV 5.0.227, 5.0.228 and 5.0.335 for Windows 2000 | https://github.com/ti-bone/kav-privileges-escalation-exploit | 0 | 0| 
 | 20211123T20:41:38Z | A number of exploits and tools I%ve written for CVEs accredited to Marshall Whittaker/oxagast | https://github.com/oxagast/oxasploits | 6 | 2| 
-| 20211123T20:39:07Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10358 | 1785| 
 | 20211123T18:46:57Z | *Well documented* scripts exploiting some useful UNIX utilities. | https://github.com/chhajedji/scripts | 6 | 0| 
 | 20211123T18:41:49Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4117 | 592| 
+| 20211123T18:10:14Z | Daily scraper (and mebbe more in the future) for CISA%s Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | 4 | 0| 
 
 
 # backdoor on Github 推荐

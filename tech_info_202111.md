@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211124T00:52:51Z | CVE-2021-42321 | Microsoft Exchange Server Poc | https://github.com/DarkSprings/CVE-2021-42321 | | 
+| 20211124T01:25:49Z | CVE-2021-42321 | Microsoft Exchange Server Poc | https://github.com/DarkSprings/CVE-2021-42321 | | 
 | 20211124T00:51:46Z | CVE-2021-43557 | PoC for CVE-2021-43557 | https://github.com/xvnpw/k8s-CVE-2021-43557-poc | | 
 | 20211123T19:36:34Z | CVE-2021-40154 | POC to test the BootROM vulnerability found in LPC55S69 and K82 Series  | https://github.com/Xen1thLabs-AE/CVE-2021-40154 | | 
 | 20211123T18:07:05Z | CVE-2021-41277 | Null | https://github.com/Vulnmachines/Metabase_CVE-2021-41277 | | 
@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211124T01:21:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10359 | 1785| 
 | 20211124T01:14:06Z | Collection of Discord hacking tools/fun stuff/exploits that is completely made using NodeJS. | https://github.com/I2rys/ODiscord | 33 | 13| 
 | 20211124T01:10:28Z | This book on heap exploitation is a guide to understanding the internals of glibc%s heap and various attacks possible on the heap structure.  | https://github.com/DhavalKapil/heap-exploitation | 1099 | 119| 
 | 20211124T01:03:27Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
@@ -100,7 +101,6 @@
 | 20211124T00:22:49Z | Null | https://github.com/Xin666-exploit/Xin666-exploit.github.io | 0 | 0| 
 | 20211124T00:17:01Z | Null | https://github.com/Footsiefat/Discord-Token-Stealer-Exploit | 1 | 0| 
 | 20211124T00:10:02Z | Hash collisions and their exploitations | https://github.com/corkami/collisions | 991 | 87| 
-| 20211123T23:48:11Z | Helps with bof exploiting on OSCP | https://github.com/josh-vr/Exploiter | 0 | 0| 
 
 
 # backdoor on Github 推荐
