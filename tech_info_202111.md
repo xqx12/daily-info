@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211124T13:43:49Z | HEVD | https://github.com/ReJimp/Kernel_Exploit | 2 | 0| 
 | 20211124T13:41:09Z | A write-up describing the discovery and exploitation of a vulnerability I found on fun-dare | https://github.com/tikene/fun-dare-vulnerability-write-up | 0 | 0| 
 | 20211124T13:23:31Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 3772 | 1302| 
 | 20211124T13:19:42Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 57 | 13| 
@@ -100,7 +101,6 @@
 | 20211124T12:46:17Z | https://exploit-poc.com | https://github.com/hktalent/exploit-poc | 2 | 1| 
 | 20211124T12:45:36Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 14| 
 | 20211124T12:43:35Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10359 | 1784| 
-| 20211124T12:06:31Z | To-Do | https://github.com/Lescovar420/SABA-EXPLOIT-FPSE | 0 | 1| 
 
 
 # backdoor on Github 推荐
