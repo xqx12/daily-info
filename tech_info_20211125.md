@@ -31,7 +31,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211125T12:49:27Z | CVE-2021-22205 | A CVE-2021-22205 Gitlab RCE POC written in Golang | https://github.com/pizza-power/Golang-CVE-2021-22205-POC | | 
+| 20211125T13:16:47Z | CVE-2021-22205 | A CVE-2021-22205 Gitlab RCE POC written in Golang | https://github.com/pizza-power/Golang-CVE-2021-22205-POC | | 
 | 20211125T11:23:35Z | CVE-2021-21972 | CVE-2021-21972 Exploit | https://github.com/NS-Sp4ce/CVE-2021-21972 | | 
 | 20211125T09:56:14Z | CVE-2021-22205 | CVE-2021-22205 on Docker | https://github.com/ahmad4fifz/CVE-2021-22205 | | 
 | 20211125T09:55:28Z | CVE-2021-42013 | CVE-2021-41773 on Docker | https://github.com/ahmad4fifz/CVE-2021-42013 | | 
@@ -56,6 +56,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211125T13:17:29Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1382 | 652| 
 | 20211125T13:03:10Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211125T13:02:30Z | Null | https://github.com/niklas-truesec/NewtonSoftDeserializationExploit | 0 | 0| 
 | 20211125T12:47:06Z | HEVD | https://github.com/ReJimp/Kernel_Exploit | 2 | 0| 
@@ -65,12 +66,12 @@
 | 20211125T12:07:17Z | Vulnerabilities found along the way | https://github.com/hansmach1ne/MyExploits | 0 | 0| 
 | 20211125T12:04:17Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 243 | 77| 
 | 20211125T11:50:24Z | Tool able to check the security level of a router. Check if the router is vulnerable to DNS rebinding and if there are any known CVEs or exploits. | https://github.com/peace27-96/Router-Vulnerability-Scan-Tool | 0 | 0| 
-| 20211125T11:23:35Z | CVE-2021-21972 Exploit | https://github.com/NS-Sp4ce/CVE-2021-21972 | 310 | 118| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211125T13:17:29Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1382 | 652| 
 | 20211125T08:56:36Z | Null | https://github.com/eigaditya/backdoor | 0 | 0| 
 | 20211125T07:57:03Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 5871 | 1854| 
 | 20211125T07:22:39Z | Null | https://github.com/IHA-arch/python-backdoor | 0 | 0| 
