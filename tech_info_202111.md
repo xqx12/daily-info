@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211125T13:44:45Z | Linux kernel exploit techniques. | https://github.com/anvbis/linux-kernel-exp | 0 | 0| 
 | 20211125T13:41:54Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1382 | 652| 
 | 20211125T13:37:23Z | Powershell module for exploiting AD vulnerabilities. | https://github.com/dfirdeferred/AD-Exploit-Module | 0 | 0| 
 | 20211125T13:24:05Z | Null | https://github.com/niklas-truesec/NewtonSoftDeserializationExploit | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20211125T12:38:17Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10365 | 1786| 
 | 20211125T12:23:41Z | Exploits the Wii U%s bluetooth stack to gain IOSU kernel access via bluetooth. | https://github.com/GaryOderNichts/bluubomb | 66 | 1| 
 | 20211125T12:07:17Z | Vulnerabilities found along the way | https://github.com/hansmach1ne/MyExploits | 0 | 0| 
-| 20211125T12:04:17Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 243 | 77| 
 
 
 # backdoor on Github 推荐
