@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211125T13:16:47Z | CVE-2021-22205 | A CVE-2021-22205 Gitlab RCE POC written in Golang | https://github.com/pizza-power/Golang-CVE-2021-22205-POC | | 
+| 20211125T13:18:35Z | CVE-2021-22205 | A CVE-2021-22205 Gitlab RCE POC written in Golang | https://github.com/pizza-power/Golang-CVE-2021-22205-POC | | 
 | 20211125T11:23:35Z | CVE-2021-21972 | CVE-2021-21972 Exploit | https://github.com/NS-Sp4ce/CVE-2021-21972 | | 
 | 20211125T09:56:14Z | CVE-2021-22205 | CVE-2021-22205 on Docker | https://github.com/ahmad4fifz/CVE-2021-22205 | | 
 | 20211125T09:55:28Z | CVE-2021-42013 | CVE-2021-41773 on Docker | https://github.com/ahmad4fifz/CVE-2021-42013 | | 
@@ -146,6 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211125T13:21:20Z | Null | https://github.com/protsaenko/myFuzz | 0 | 0| 
 | 20211125T13:02:08Z | Null | https://github.com/ChenZiHong-Gavin/graph-based-fuzz-test-for-dl-inference-engine | 0 | 0| 
 | 20211125T12:28:13Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 1084 | 194| 
 | 20211125T12:24:26Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6852 | 1432| 
@@ -155,7 +156,6 @@
 | 20211125T11:14:44Z | this is my website | https://github.com/attilavajdaxyz/fuzzy-octo-spoon | 0 | 0| 
 | 20211125T11:07:45Z | Belajar push ke git v.2 | https://github.com/dediduank/CekFuzzy | 0 | 0| 
 | 20211125T10:59:11Z | With this project, I want to make a blending between Persevere and taPCT. The idea is to find bugs in large amounts of concurrent threading instruction. For that we will first try and identify with this tool some known bugs from emac versions that were not yet corrected. We first model the system call as a set of events and then apply the taPCT algorithm. Later on, we can use fuzzing to give larger system call sequences to our probabilistic scheduling algorithm.  | https://github.com/Ricagraca/taPPCT | 0 | 0| 
-| 20211125T10:58:18Z | Null | https://github.com/gungnir479/fuzzJIT | 0 | 0| 
 
 
 
