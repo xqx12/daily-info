@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211125T13:02:30Z | Null | https://github.com/niklas-truesec/NewtonSoftDeserializationExploit | 0 | 0| 
 | 20211125T12:47:06Z | HEVD | https://github.com/ReJimp/Kernel_Exploit | 2 | 0| 
 | 20211125T12:45:38Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 15| 
 | 20211125T12:38:17Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10365 | 1786| 
@@ -100,7 +101,6 @@
 | 20211125T12:03:48Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211125T11:50:24Z | Tool able to check the security level of a router. Check if the router is vulnerable to DNS rebinding and if there are any known CVEs or exploits. | https://github.com/peace27-96/Router-Vulnerability-Scan-Tool | 0 | 0| 
 | 20211125T11:23:35Z | CVE-2021-21972 Exploit | https://github.com/NS-Sp4ce/CVE-2021-21972 | 310 | 118| 
-| 20211125T10:44:44Z | Exploit that uses javascript to spam the console on any chrome based browser causing a large amount CPU usage | https://github.com/ericsophsec/ChromeCPUAbuser | 0 | 0| 
 
 
 # backdoor on Github 推荐
