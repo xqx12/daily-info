@@ -112,7 +112,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20211124T23:46:39Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2442 | 149| 
-| 20211124T23:34:25Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211124T23:24:22Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6849 | 1432| 
 | 20211124T22:59:50Z | Null | https://github.com/miwisniewsk/Triangular-Fuzzy-Numbers | 0 | 0| 
 | 20211124T22:14:09Z | A simple C++ Fuzzer | https://github.com/20urc3/MonkeyKong | 0 | 0| 
@@ -121,6 +120,7 @@
 | 20211124T21:03:00Z | A fork and successor of the Sulley Fuzzing Framework | https://github.com/jtpereyda/boofuzz | 1389 | 269| 
 | 20211124T20:19:24Z | Fuzzing the Rust crypto library orion with honggfuzz-rs | https://github.com/orion-rs/orion-fuzz | 1 | 1| 
 | 20211124T20:17:52Z | Null | https://github.com/mishagarkusha/fuzzy-bassoon | 0 | 0| 
+| 20211124T20:07:51Z | Null | https://github.com/indarsukarman/fuzzy-octo-train | 0 | 0| 
 
 
 

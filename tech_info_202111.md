@@ -146,6 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211125T02:20:52Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211125T00:52:21Z | Null | https://github.com/rafibu/fuzzy | 0 | 0| 
 | 20211125T00:48:55Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 105 | 27| 
 | 20211125T00:47:12Z | These tests of libdwarf/dwarfdump include old object files, new ones, and many fuzzed object files. These are the definitive tests that things work.. Most people have no reason to run these tests. | https://github.com/davea42/libdwarf-regressiontests | 0 | 0| 
@@ -153,7 +154,6 @@
 | 20211125T00:27:14Z | Null | https://github.com/alchemycodelab/half-baked-js-fuzzy-bunny-organizer | 0 | 0| 
 | 20211125T00:18:02Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 1 | 0| 
 | 20211124T23:46:39Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2442 | 149| 
-| 20211124T23:34:25Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211124T23:24:22Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6849 | 1432| 
 | 20211124T22:59:50Z | Null | https://github.com/miwisniewsk/Triangular-Fuzzy-Numbers | 0 | 0| 
 
