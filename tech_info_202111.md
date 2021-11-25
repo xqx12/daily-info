@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211125T13:37:23Z | Powershell module for exploiting AD vulnerabilities. | https://github.com/dfirdeferred/AD-Exploit-Module | 0 | 0| 
 | 20211125T13:33:14Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1382 | 652| 
 | 20211125T13:24:05Z | Null | https://github.com/niklas-truesec/NewtonSoftDeserializationExploit | 0 | 0| 
 | 20211125T13:03:10Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
@@ -100,7 +101,6 @@
 | 20211125T12:23:41Z | Exploits the Wii U%s bluetooth stack to gain IOSU kernel access via bluetooth. | https://github.com/GaryOderNichts/bluubomb | 66 | 1| 
 | 20211125T12:07:17Z | Vulnerabilities found along the way | https://github.com/hansmach1ne/MyExploits | 0 | 0| 
 | 20211125T12:04:17Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 243 | 77| 
-| 20211125T11:50:24Z | Tool able to check the security level of a router. Check if the router is vulnerable to DNS rebinding and if there are any known CVEs or exploits. | https://github.com/peace27-96/Router-Vulnerability-Scan-Tool | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -121,9 +121,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211125T13:37:32Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2562 | 379| 
 | 20211125T13:31:33Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1828 | 522| 
 | 20211125T12:58:00Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 174 | 10| 
-| 20211125T11:59:35Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2561 | 379| 
 | 20211125T09:04:01Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1926 | 402| 
 | 20211125T08:13:18Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 18 | 5| 
 | 20211125T07:57:18Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 10 | 4| 
