@@ -91,11 +91,13 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211125T08:08:07Z | NDSS API Client | https://github.com/keenetic/cloud-api-python-client | 0 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211125T13:02:08Z | Null | https://github.com/ChenZiHong-Gavin/graph-based-fuzz-test-for-dl-inference-engine | 0 | 0| 
 | 20211125T12:28:13Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 1084 | 194| 
 | 20211125T12:24:26Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6852 | 1432| 
 | 20211125T12:08:46Z | Modular, structure-aware, and feedback-driven fuzzing engine for Rust functions | https://github.com/loiclec/fuzzcheck-rs | 297 | 9| 
@@ -103,7 +105,6 @@
 | 20211125T11:59:45Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2232 | 436| 
 | 20211125T11:14:44Z | this is my website | https://github.com/attilavajdaxyz/fuzzy-octo-spoon | 0 | 0| 
 | 20211125T11:07:45Z | Belajar push ke git v.2 | https://github.com/dediduank/CekFuzzy | 0 | 0| 
-| 20211125T11:04:53Z | Null | https://github.com/ChenZiHong-Gavin/graph-based-fuzz-test-for-dl-inference-engine | 0 | 0| 
 | 20211125T10:59:11Z | With this project, I want to make a blending between Persevere and taPCT. The idea is to find bugs in large amounts of concurrent threading instruction. For that we will first try and identify with this tool some known bugs from emac versions that were not yet corrected. We first model the system call as a set of events and then apply the taPCT algorithm. Later on, we can use fuzzing to give larger system call sequences to our probabilistic scheduling algorithm.  | https://github.com/Ricagraca/taPPCT | 0 | 0| 
 | 20211125T10:58:18Z | Null | https://github.com/gungnir479/fuzzJIT | 0 | 0| 
 
