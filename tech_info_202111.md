@@ -106,7 +106,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211124T23:04:08Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1382 | 651| 
+| 20211124T23:04:08Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1382 | 652| 
 | 20211124T19:33:47Z | Python AV Evasion Tools | https://github.com/G1ft3dC0d3/MsfMania | 262 | 58| 
 | 20211124T17:45:34Z | Keeping it simple - PHP backdoors. | https://github.com/F-Masood/php-backdoors | 0 | 0| 
 | 20211124T16:57:48Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 5869 | 1853| 
@@ -146,6 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211125T02:56:13Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 10 | 1| 
 | 20211125T02:39:59Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 1 | 0| 
 | 20211125T02:38:52Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 254 | 31| 
 | 20211125T02:37:38Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4635 | 471| 
@@ -155,7 +156,6 @@
 | 20211125T00:47:12Z | These tests of libdwarf/dwarfdump include old object files, new ones, and many fuzzed object files. These are the definitive tests that things work.. Most people have no reason to run these tests. | https://github.com/davea42/libdwarf-regressiontests | 0 | 0| 
 | 20211125T00:32:42Z | Null | https://github.com/ksiminski/neuro-fuzzy-library | 2 | 1| 
 | 20211125T00:27:14Z | Null | https://github.com/alchemycodelab/half-baked-js-fuzzy-bunny-organizer | 0 | 0| 
-| 20211124T23:46:39Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2442 | 149| 
 
 
 

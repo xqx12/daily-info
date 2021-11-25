@@ -62,7 +62,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20211124T23:08:38Z | Fast-As-F*ck web-based Padding Oracle attack python script that uses multithreading and other means to greatly increase decoding speed. | https://github.com/cybensis/faf-padding-oracle | 0 | 0| 
-| 20211124T23:04:08Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1382 | 651| 
+| 20211124T23:04:08Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1382 | 652| 
 | 20211124T22:33:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10362 | 1786| 
 | 20211124T22:09:53Z | Vulnerabilities found along the way | https://github.com/hansmach1ne/MyExploits | 0 | 0| 
 | 20211124T21:46:08Z | Genkidama offers distributed and optimized system of Machine Learning using the unexploited computational power in traditional tech business contexts (exploiting latent CPUs coming from laptops of non-tech members of companies). It does so using Websocket protocols and two type of nodes making up the system: Orchestrator Nodes and Computational Nodes, where the first one orchestrates and load-balances the tasks to be fed to the Computational Nodes (which are going to work on it in background, leaving untouched the UX of the other company members) | https://github.com/niko047/Genkidama | 1 | 0| 
@@ -76,7 +76,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211124T23:04:08Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1382 | 651| 
+| 20211124T23:04:08Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1382 | 652| 
 | 20211124T19:33:47Z | Python AV Evasion Tools | https://github.com/G1ft3dC0d3/MsfMania | 262 | 58| 
 | 20211124T17:45:34Z | Keeping it simple - PHP backdoors. | https://github.com/F-Masood/php-backdoors | 0 | 0| 
 | 20211124T16:57:48Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 5869 | 1853| 
