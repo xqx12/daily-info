@@ -56,9 +56,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211125T13:24:05Z | Null | https://github.com/niklas-truesec/NewtonSoftDeserializationExploit | 0 | 0| 
 | 20211125T13:17:29Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1382 | 652| 
 | 20211125T13:03:10Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
-| 20211125T13:02:30Z | Null | https://github.com/niklas-truesec/NewtonSoftDeserializationExploit | 0 | 0| 
 | 20211125T12:47:06Z | HEVD | https://github.com/ReJimp/Kernel_Exploit | 2 | 0| 
 | 20211125T12:45:38Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 15| 
 | 20211125T12:38:17Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10365 | 1786| 
@@ -98,10 +98,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211125T13:21:20Z | Null | https://github.com/protsaenko/myFuzz | 0 | 0| 
+| 20211125T13:23:08Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6852 | 1432| 
+| 20211125T13:21:42Z | Null | https://github.com/protsaenko/myFuzz | 0 | 0| 
 | 20211125T13:02:08Z | Null | https://github.com/ChenZiHong-Gavin/graph-based-fuzz-test-for-dl-inference-engine | 0 | 0| 
 | 20211125T12:28:13Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 1084 | 194| 
-| 20211125T12:24:26Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6852 | 1432| 
 | 20211125T12:08:46Z | Modular, structure-aware, and feedback-driven fuzzing engine for Rust functions | https://github.com/loiclec/fuzzcheck-rs | 297 | 9| 
 | 20211125T12:02:12Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 35 | 12| 
 | 20211125T11:59:45Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2232 | 435| 
