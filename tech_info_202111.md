@@ -6,6 +6,17 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20211125 | Using CVE-2021-40531 for RCE with Sketch | https://jonpalmisc.com/2021/11/22/cve-2021-40531| 
+| 20211125 | Brida - 用于 Burp Suite 与 Frida 协作的 Bridge | https://github.com/federicodotta/Brida| 
+| 20211125 | Hunting for Persistence in Linux (Part 1): Auditd, Sysmon, Osquery, and Webshells | https://pberba.github.io/security/2021/11/22/linux-threat-hunting-for-persistence-sysmon-auditd-webshell/| 
+| 20211125 | Linux TIPC 堆溢出漏洞（CVE-2021-43267）的利用 | http://haxx.in/posts/pwning-tipc/| 
+| 20211125 | 网络钓鱼攻击中的诱饵设计案例 | https://inquest.net/blog/2021/11/23/graphical-lures-age-cybercrime| 
+| 20211125 | 反序列化小子捕获器-反制 ysoserial | https://mp.weixin.qq.com/s/Ww_IxNLXI0KWZYERGwu3bg| 
+| 20211125 | F-Secure Labs 对金融信息交换协议（FIX）的分析 | http://labs.f-secure.com/blog/a-bit-of-a-fixer-upper-playing-with-the-fix-tcp-protocol/| 
+| 20211125 | 金融 Web 应用常见的安全漏洞分析报告 | https://soroush.secproject.com/downloadable/common_security_issues_in_financially_oriented_apps_v2.0.pdf| 
+| 20211125 | How to Detect Azure Active Directory Backdoors: Identity Federation | https://www.inversecos.com/2021/11/how-to-detect-azure-active-directory.html| 
+| 20211125 | Dharma - 基于语法文件生成 Fuzz 测试样本的工具 | https://sec.today/pulses/fb6ae116-16ea-4628-8e22-d43d0bafef9e/| 
+| 20211125 | Dharma - 基于语法文件生成 Fuzz 测试样本的工具 | http://blog.haboob.sa/blog/introduction-to-dharma-part-1| 
 | 20211124 | Android 反汇编工具 jadx 更新 1.3.0 版本 | https://github.com/skylot/jadx/releases/tag/v1.3.0| 
 | 20211124 | Abusing Windows Server Update Services (WSUS) to Enable NTLM Relaying Attacks | https://www.gosecure.net/blog/2021/11/22/gosecure-investigates-abusing-windows-server-update-services-wsus-to-enable-ntlm-relaying-attacks/| 
 | 20211124 | Full key extraction of NVIDIA™ TSEC | https://gist.github.com/plutooo/733318dbb57166d203c10d12f6c24e06/| 
@@ -15,47 +26,36 @@
 | 20211124 | API 网关 Apache APISIX request_uri 路径穿越漏洞分析（CVE-2021-43557） | https://xvnpw.github.io/posts/cve_2021_43557_apache_apisix_path_traversal_in_request_uri_variable/| 
 | 20211123 | 研究员 Man Yue Mo 对 Qualcomm NPU 内核驱动 UAF 漏洞的分析 | http://github.co/30BIuuO| 
 | 20211123 | How to fuzz the Linux kernel | http://hackmag.com/security/linux-fuzzing/| 
-| 20211123 | Windows 平台 PPID 欺骗问题测试 | http://captmeelo.com/redteam/maldev/2021/11/22/picky-ppid-spoofing.html| 
-| 20211123 | 从恶意软件收集项目 MALWAREbazaar 的数据看 UNIX 平台的恶意软件 | http://github.com/CiscoCXSecurity/presentations/blob/master/The%20UNIX%20malware%20landscape%20-%20Reviewing%20the%20goods%20at%20MALWAREbazaar%20v5.pdf| 
-| 20211123 | 微软开源了一个反向代理工具 | https://github.com/microsoft/reverse-proxy| 
-| 20211123 | 基于 Windows Event Logs 写的一个日志搜索与威胁发现工具 | https://github.com/countercept/chainsaw| 
-| 20211123 | Issue 2222: KVM: SVM: out-of-bounds read/write in sev_es_string_io | https://bugs.chromium.org/p/project-zero/issues/detail?id=2222| 
-| 20211123 | Cisco Talos 对 Azure Sphere 的漏洞研究报告 | https://blog.talosintelligence.com/2021/11/a-review-of-azure-sphere.html| 
-| 20211123 | 数据保护管理软件 CommVault 的 RCE 漏洞分析 | https://srcincite.io/blog/2021/11/22/unlocking-the-vault.html| 
-| 20211123 | Qiling and Friends 3 - Learn how to pwn EFI. | https://www.youtube.com/watch?v=BOFG5GzdM4k| 
-| 20211122 | 研究员 Hardik Shah 整理的 Fuzzing 方向的视频 | https://www.youtube.com/c/MrHardik05| 
-| 20211122 | 微软 John Lambert 关于防御的一份 “Defender’s Mindset” | https://medium.com/@johnlatwc/defenders-mindset-319854d10aaa| 
-| 20211122 | Ghidra2cpg - From Graph Queries to Vulnerabilities in Binary Code | https://drive.google.com/file/d/17ynkuHgpz56RAr7HRAoyHgvdLI223nGU/view| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20211125 | 现代化系统中的侧信道(side channel)攻击与防御 | https://www.bilibili.com/video/BV16q4y1B7gt| 
+| 20211125 | Mining JavaScript Zero-day Vulnerabilities via Object Prop... | https://www.bilibili.com/video/BV1xL411M7wz| 
+| 20211125 | 西湖论剑gghdl题解 | http://blog.bluesadi.cn/2021/11/24/%E8%A5%BF%E6%B9%96%E8%AE%BA%E5%89%91gghdl%E9%A2%98%E8%A7%A3/| 
+| 20211125 | GSE协议封装解析 | https://www.minhal.me/2021/11/19/GSE/| 
 | 20211124 | 基于主被动测量的 IoT 安全情报 | https://mp.weixin.qq.com/s/Xt3wAWKa5ge0ODK0sfP_lQ| 
 | 20211124 | Apache APISIX uri-blocker 场景绕过之一：$request_uri | https://github.com/CHYbeta/OddProxyDemo/tree/master/apisix/demo1| 
 | 20211124 | 反序列化小子捕获器-反制ysoserial | https://mp.weixin.qq.com/s/Ww_IxNLXI0KWZYERGwu3bg| 
 | 20211124 | 我的OSCP之旅回顾与分享 | http://mp.weixin.qq.com/s?__biz=MzIwOTA4NTg4MA==&mid=2652489835&idx=1&sn=bf3ce9667c4b1949d54930d0047f796b&chksm=8c945cbcbbe3d5aa9f4b2c164d1c0c2d33e9458bcc579b407b386b88f295c10fbe25a84859f8#rd| 
 | 20211123 | 二进制代码相似分析综述 | https://mp.weixin.qq.com/s/GiDcQSYywSiRwlXY5N0e3g| 
 | 20211123 | shellcode免杀初探 | https://mp.weixin.qq.com/s/5BVxYS7HR0ndRQbSB49eBQ| 
-| 20211123 | Starlink 终端固件的提取和分析 | https://mp.weixin.qq.com/s/aMWE6ekKiXWqCsbChirEPQ| 
-| 20211122 | SecWiki周刊（第403期) | https://www.sec-wiki.com/weekly/403| 
-| 20211122 | 详解数据治理和数据分类分级 | https://mp.weixin.qq.com/s/EeUrNvd1-pFO1_ybMHKcpw| 
-| 20211122 | 浅谈企业级供应链投毒应急安全能力建设 | https://mp.weixin.qq.com/s/JAODc20qG5iRKVJmgGPYRw| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211125T01:50:18Z | CVE-2021-44217 | Null | https://github.com/Hyperkopite/CVE-2021-44217 | | 
-| 20211124T23:50:48Z | CVE-2021-41277 | Null | https://github.com/Vulnmachines/Metabase_CVE-2021-41277 | | 
-| 20211124T19:49:07Z | CVE-2021-41277 | plugin made for LeakiX | https://github.com/kaizensecurity/CVE-2021-41277 | | 
-| 20211124T17:22:05Z | CVE-2021-3129 | CVE-2021-3129-Laravel Debug mode 远程代码执行漏洞 | https://github.com/simonlee-hello/CVE-2021-3129 | | 
-| 20211124T17:20:41Z | CVE-2021-42321 | Microsoft Exchange Server Poc | https://github.com/DarkSprings/CVE-2021-42321 | | 
-| 20211124T13:53:09Z | CVE-2021-41773 | Null | https://github.com/iilegacyyii/PoC-CVE-2021-41773 | | 
-| 20211124T13:04:33Z | CVE-2021-40531 | A demo of exploiting CVE-2021-40531, a vulnerability in Sketch. | https://github.com/jonpalmisc/CVE-2021-40531 | | 
-| 20211124T10:28:51Z | CVE-2021-43557 | PoC for CVE-2021-43557 | https://github.com/xvnpw/k8s-CVE-2021-43557-poc | | 
-| 20211124T09:19:43Z | CVE-2021-34473 | 对Exchange Proxyshell 做了二次修改，精确的拆分、实现辅助性安全测试。 | https://github.com/je6k/CVE-2021-34473-Exchange-ProxyShell | | 
-| 20211124T06:02:34Z | CVE-2021-41277 | Metabase GeoJSON map local file inclusion | https://github.com/TheLastVvV/CVE-2021-41277 | | 
+| 20211125T12:49:27Z | CVE-2021-22205 | A CVE-2021-22205 Gitlab RCE POC written in Golang | https://github.com/pizza-power/Golang-CVE-2021-22205-POC | | 
+| 20211125T11:23:35Z | CVE-2021-21972 | CVE-2021-21972 Exploit | https://github.com/NS-Sp4ce/CVE-2021-21972 | | 
+| 20211125T09:56:14Z | CVE-2021-22205 | CVE-2021-22205 on Docker | https://github.com/ahmad4fifz/CVE-2021-22205 | | 
+| 20211125T09:55:28Z | CVE-2021-42013 | CVE-2021-41773 on Docker | https://github.com/ahmad4fifz/CVE-2021-42013 | | 
+| 20211125T09:54:45Z | CVE-2021-41773 | CVE-2021-41773 on Docker | https://github.com/ahmad4fifz/CVE-2021-41773 | | 
+| 20211125T09:32:49Z | cve-2021-42013 | cve-2021-42013.py is a python script that will help in finding Path Traversal or Remote Code Execution vulnerability in Apache 2.4.50 | https://github.com/walnutsecurity/cve-2021-42013 | | 
+| 20211125T09:32:45Z | cve-2021-41773 | cve-2021-41773.py is a python script that will help in finding Path Traversal or Remote Code Execution vulnerability in Apache 2.4.49 | https://github.com/walnutsecurity/cve-2021-41773 | | 
+| 20211125T06:14:26Z | CVE-2021-24086 | Null | https://github.com/lisinan988/CVE-2021-24086-exp | | 
+| 20211125T05:14:01Z | CVE-2020-0796 | Null | https://github.com/lisinan988/CVE-2020-0796-exp | | 
+| 20211125T05:13:19Z | CVE-2021-40444 | Null | https://github.com/lisinan988/CVE-2021-40444-exp | | 
 
 
 # klee on Github 推荐
@@ -91,46 +91,46 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211125T02:57:26Z | This is the 1x1x1x1 script gui remake for roblox hackers/exploiters. | https://github.com/NotYourSamuel/1xScriptRoblox | 0 | 0| 
-| 20211125T02:41:32Z | Buffer overflow exploit that spawns root shell | https://github.com/olivamadrigal/buffer_overflow_exploit | 0 | 0| 
-| 20211125T02:30:52Z | Null | https://github.com/Namtv2312/Exploit-Tutorial | 0 | 0| 
-| 20211125T02:03:30Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
-| 20211125T01:36:49Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 358 | 55| 
-| 20211125T01:00:38Z | [Roblox] Downtown RP ESP (Gun Crates, Printers) -- genta | https://github.com/subn0de/Roblox_Exploits | 0 | 0| 
-| 20211125T00:50:50Z | The Next-Gen Roblox Exploit Hub | https://github.com/HonestlyDex/DexHub | 1 | 0| 
-| 20211125T00:45:37Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 15| 
-| 20211125T00:35:22Z | A write up of a byte flip zero day vulnerability and exploit | https://github.com/9xN/xerobyte | 0 | 0| 
-| 20211125T00:35:12Z | Null | https://github.com/tjonty/exploit | 0 | 0| 
+| 20211125T12:47:06Z | HEVD | https://github.com/ReJimp/Kernel_Exploit | 2 | 0| 
+| 20211125T12:45:38Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 15| 
+| 20211125T12:38:17Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10365 | 1786| 
+| 20211125T12:23:41Z | Exploits the Wii U%s bluetooth stack to gain IOSU kernel access via bluetooth. | https://github.com/GaryOderNichts/bluubomb | 66 | 1| 
+| 20211125T12:07:17Z | Vulnerabilities found along the way | https://github.com/hansmach1ne/MyExploits | 0 | 0| 
+| 20211125T12:04:17Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 243 | 77| 
+| 20211125T12:03:48Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
+| 20211125T11:50:24Z | Tool able to check the security level of a router. Check if the router is vulnerable to DNS rebinding and if there are any known CVEs or exploits. | https://github.com/peace27-96/Router-Vulnerability-Scan-Tool | 0 | 0| 
+| 20211125T11:23:35Z | CVE-2021-21972 Exploit | https://github.com/NS-Sp4ce/CVE-2021-21972 | 310 | 118| 
+| 20211125T10:44:44Z | Exploit that uses javascript to spam the console on any chrome based browser causing a large amount CPU usage | https://github.com/ericsophsec/ChromeCPUAbuser | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211125T08:56:36Z | Null | https://github.com/eigaditya/backdoor | 0 | 0| 
+| 20211125T07:57:03Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 5871 | 1854| 
+| 20211125T07:22:39Z | Null | https://github.com/IHA-arch/python-backdoor | 0 | 0| 
+| 20211125T06:35:42Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 367 | 65| 
+| 20211125T05:52:06Z | Backdoor Hibernater | https://github.com/TDteach/BACH | 0 | 0| 
 | 20211124T23:04:08Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1382 | 652| 
 | 20211124T19:33:47Z | Python AV Evasion Tools | https://github.com/G1ft3dC0d3/MsfMania | 262 | 58| 
 | 20211124T17:45:34Z | Keeping it simple - PHP backdoors. | https://github.com/F-Masood/php-backdoors | 0 | 0| 
-| 20211124T16:57:48Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 5869 | 1853| 
 | 20211124T16:46:43Z | A TCP Backdoor made in python | https://github.com/ferreiraklet/Tracey-Backdoor | 9 | 0| 
 | 20211124T14:53:00Z | badcat is a tool I%ve made to learn `rust` and analyze anonymous backdoors | https://github.com/yanmarques/badcat | 0 | 0| 
-| 20211124T14:26:08Z | Config files for my GitHub profile. | https://github.com/Ghee196/Backdoor-Scanner | 1 | 0| 
-| 20211124T10:32:08Z | backdoor bypass for windows 10/11 | https://github.com/cypherKID/backdoor | 0 | 0| 
-| 20211124T10:18:19Z | backdoored ECDSA signatures yum! | https://github.com/oreparaz/backdoor-ecdsa | 1 | 0| 
-| 20211124T09:19:21Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 36 | 28| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211125T02:01:18Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1925 | 402| 
+| 20211125T12:58:00Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 174 | 10| 
+| 20211125T11:59:35Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2561 | 379| 
+| 20211125T09:04:01Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1926 | 402| 
+| 20211125T08:13:18Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 18 | 5| 
+| 20211125T07:57:18Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 10 | 4| 
 | 20211124T18:05:56Z | Binsec/Rel is an extension of Binsec that implements relational symbolic execution for constant-time verification and secret-erasure at binary-level. | https://github.com/binsec/Rel | 24 | 1| 
 | 20211124T16:30:58Z | Symbolic executor for the Move programming language. | https://github.com/fEst1ck/move-symbolic-execution | 0 | 0| 
 | 20211124T13:17:32Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 187 | 39| 
 | 20211124T13:10:31Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 164 | 37| 
 | 20211124T11:48:32Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1827 | 522| 
-| 20211124T10:38:14Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 10 | 4| 
-| 20211124T07:45:10Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2560 | 379| 
-| 20211124T05:37:34Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 173 | 10| 
-| 20211122T15:14:28Z | QEMU VM with generic KVM extensions for symbolic execution | https://github.com/S2E/qemu | 19 | 9| 
 
 
 # big4 on Github 推荐
@@ -146,16 +146,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211125T02:56:13Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 10 | 1| 
-| 20211125T02:39:59Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 1 | 0| 
-| 20211125T02:38:52Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 254 | 31| 
-| 20211125T02:37:38Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4635 | 471| 
-| 20211125T02:20:52Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20211125T00:52:21Z | Null | https://github.com/rafibu/fuzzy | 0 | 0| 
-| 20211125T00:48:55Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 105 | 27| 
-| 20211125T00:47:12Z | These tests of libdwarf/dwarfdump include old object files, new ones, and many fuzzed object files. These are the definitive tests that things work.. Most people have no reason to run these tests. | https://github.com/davea42/libdwarf-regressiontests | 0 | 0| 
-| 20211125T00:32:42Z | Null | https://github.com/ksiminski/neuro-fuzzy-library | 2 | 1| 
-| 20211125T00:27:14Z | Null | https://github.com/alchemycodelab/half-baked-js-fuzzy-bunny-organizer | 0 | 0| 
+| 20211125T12:28:13Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 1084 | 194| 
+| 20211125T12:24:26Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6852 | 1432| 
+| 20211125T12:08:46Z | Modular, structure-aware, and feedback-driven fuzzing engine for Rust functions | https://github.com/loiclec/fuzzcheck-rs | 297 | 9| 
+| 20211125T12:02:12Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 35 | 12| 
+| 20211125T11:59:45Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2232 | 436| 
+| 20211125T11:14:44Z | this is my website | https://github.com/attilavajdaxyz/fuzzy-octo-spoon | 0 | 0| 
+| 20211125T11:07:45Z | Belajar push ke git v.2 | https://github.com/dediduank/CekFuzzy | 0 | 0| 
+| 20211125T11:04:53Z | Null | https://github.com/ChenZiHong-Gavin/graph-based-fuzz-test-for-dl-inference-engine | 0 | 0| 
+| 20211125T10:59:11Z | With this project, I want to make a blending between Persevere and taPCT. The idea is to find bugs in large amounts of concurrent threading instruction. For that we will first try and identify with this tool some known bugs from emac versions that were not yet corrected. We first model the system call as a set of events and then apply the taPCT algorithm. Later on, we can use fuzzing to give larger system call sequences to our probabilistic scheduling algorithm.  | https://github.com/Ricagraca/taPPCT | 0 | 0| 
+| 20211125T10:58:18Z | Null | https://github.com/gungnir479/fuzzJIT | 0 | 0| 
 
 
 
