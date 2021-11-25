@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211125T01:36:49Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 358 | 55| 
 | 20211125T01:03:28Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211125T01:00:38Z | [Roblox] Downtown RP ESP (Gun Crates, Printers) -- genta | https://github.com/subn0de/Roblox_Exploits | 0 | 0| 
 | 20211125T00:50:50Z | The Next-Gen Roblox Exploit Hub | https://github.com/HonestlyDex/DexHub | 1 | 0| 
@@ -100,7 +101,6 @@
 | 20211125T00:17:49Z | Collection of Discord hacking tools/fun stuff/exploits that is completely made using NodeJS. | https://github.com/I2rys/ODiscord | 33 | 14| 
 | 20211125T00:15:07Z | Useful scripts to exploit Hack The Box retired machines/challenges | https://github.com/7Rocky/HackTheBox-scripts | 0 | 0| 
 | 20211125T00:06:48Z | This bash scripts will help you to hack remote hosts. You can choose and run one of them. | https://github.com/FabioDefilippo/linuxallremote | 30 | 5| 
-| 20211124T23:08:38Z | Fast-As-F*ck web-based Padding Oracle attack python script that uses multithreading and other means to greatly increase decoding speed. | https://github.com/cybensis/faf-padding-oracle | 0 | 0| 
 
 
 # backdoor on Github 推荐
