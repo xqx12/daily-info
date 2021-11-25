@@ -74,7 +74,7 @@
 | 20211125T08:56:36Z | Null | https://github.com/eigaditya/backdoor | 0 | 0| 
 | 20211125T07:57:03Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 5871 | 1854| 
 | 20211125T07:22:39Z | Null | https://github.com/IHA-arch/python-backdoor | 0 | 0| 
-| 20211125T06:35:42Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 367 | 65| 
+| 20211125T06:35:42Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 367 | 64| 
 | 20211125T05:52:06Z | Backdoor Hibernater | https://github.com/TDteach/BACH | 0 | 0| 
 
 
