@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211125T01:25:01Z | CVE-2021-44217 | Null | https://github.com/Hyperkopite/CVE-2021-44217 | | 
 | 20211124T23:50:48Z | CVE-2021-41277 | Null | https://github.com/Vulnmachines/Metabase_CVE-2021-41277 | | 
 | 20211124T19:49:07Z | CVE-2021-41277 | plugin made for LeakiX | https://github.com/kaizensecurity/CVE-2021-41277 | | 
 | 20211124T17:22:05Z | CVE-2021-3129 | CVE-2021-3129-Laravel Debug mode 远程代码执行漏洞 | https://github.com/simonlee-hello/CVE-2021-3129 | | 
@@ -55,7 +56,6 @@
 | 20211124T10:28:51Z | CVE-2021-43557 | PoC for CVE-2021-43557 | https://github.com/xvnpw/k8s-CVE-2021-43557-poc | | 
 | 20211124T09:19:43Z | CVE-2021-34473 | 对Exchange Proxyshell 做了二次修改，精确的拆分、实现辅助性安全测试。 | https://github.com/je6k/CVE-2021-34473-Exchange-ProxyShell | | 
 | 20211124T06:02:34Z | CVE-2021-41277 | Metabase GeoJSON map local file inclusion | https://github.com/TheLastVvV/CVE-2021-41277 | | 
-| 20211124T05:40:03Z | cve-2021-41773 | Proof-of-Concept for CVE-2021-41773 | https://github.com/ahmad4fifz/docker-cve-2021-41773 | | 
 
 
 # klee on Github 推荐
