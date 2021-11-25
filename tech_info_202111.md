@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211125T02:41:32Z | Buffer overflow exploit that spawns root shell | https://github.com/olivamadrigal/buffer_overflow_exploit | 0 | 0| 
 | 20211125T02:30:52Z | Null | https://github.com/Namtv2312/Exploit-Tutorial | 0 | 0| 
 | 20211125T02:03:30Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211125T01:36:49Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 358 | 55| 
@@ -100,7 +101,6 @@
 | 20211125T00:35:22Z | A write up of a byte flip zero day vulnerability and exploit | https://github.com/9xN/xerobyte | 0 | 0| 
 | 20211125T00:35:12Z | Null | https://github.com/tjonty/exploit | 0 | 0| 
 | 20211125T00:17:49Z | Collection of Discord hacking tools/fun stuff/exploits that is completely made using NodeJS. | https://github.com/I2rys/ODiscord | 33 | 14| 
-| 20211125T00:15:07Z | Useful scripts to exploit Hack The Box retired machines/challenges | https://github.com/7Rocky/HackTheBox-scripts | 0 | 0| 
 
 
 # backdoor on Github 推荐
