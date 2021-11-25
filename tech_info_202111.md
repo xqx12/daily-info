@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211125T01:25:01Z | CVE-2021-44217 | Null | https://github.com/Hyperkopite/CVE-2021-44217 | | 
+| 20211125T01:50:18Z | CVE-2021-44217 | Null | https://github.com/Hyperkopite/CVE-2021-44217 | | 
 | 20211124T23:50:48Z | CVE-2021-41277 | Null | https://github.com/Vulnmachines/Metabase_CVE-2021-41277 | | 
 | 20211124T19:49:07Z | CVE-2021-41277 | plugin made for LeakiX | https://github.com/kaizensecurity/CVE-2021-41277 | | 
 | 20211124T17:22:05Z | CVE-2021-3129 | CVE-2021-3129-Laravel Debug mode 远程代码执行漏洞 | https://github.com/simonlee-hello/CVE-2021-3129 | | 
