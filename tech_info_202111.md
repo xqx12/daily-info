@@ -46,41 +46,41 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211124T23:50:48Z | CVE-2021-41277 | Null | https://github.com/Vulnmachines/Metabase_CVE-2021-41277 | | 
+| 20211124T19:49:07Z | CVE-2021-41277 | plugin made for LeakiX | https://github.com/kaizensecurity/CVE-2021-41277 | | 
+| 20211124T17:22:05Z | CVE-2021-3129 | CVE-2021-3129-Laravel Debug mode 远程代码执行漏洞 | https://github.com/simonlee-hello/CVE-2021-3129 | | 
+| 20211124T17:20:41Z | CVE-2021-42321 | Microsoft Exchange Server Poc | https://github.com/DarkSprings/CVE-2021-42321 | | 
 | 20211124T13:53:09Z | CVE-2021-41773 | Null | https://github.com/iilegacyyii/PoC-CVE-2021-41773 | | 
 | 20211124T13:04:33Z | CVE-2021-40531 | A demo of exploiting CVE-2021-40531, a vulnerability in Sketch. | https://github.com/jonpalmisc/CVE-2021-40531 | | 
-| 20211124T12:50:06Z | CVE-2021-42321 | Microsoft Exchange Server Poc | https://github.com/DarkSprings/CVE-2021-42321 | | 
 | 20211124T10:28:51Z | CVE-2021-43557 | PoC for CVE-2021-43557 | https://github.com/xvnpw/k8s-CVE-2021-43557-poc | | 
 | 20211124T09:19:43Z | CVE-2021-34473 | 对Exchange Proxyshell 做了二次修改，精确的拆分、实现辅助性安全测试。 | https://github.com/je6k/CVE-2021-34473-Exchange-ProxyShell | | 
 | 20211124T06:02:34Z | CVE-2021-41277 | Metabase GeoJSON map local file inclusion | https://github.com/TheLastVvV/CVE-2021-41277 | | 
 | 20211124T05:40:03Z | cve-2021-41773 | Proof-of-Concept for CVE-2021-41773 | https://github.com/ahmad4fifz/docker-cve-2021-41773 | | 
-| 20211124T02:38:14Z | CVE-2021-41277 | Metabase任意文件读取漏洞批量扫描工具 | https://github.com/Seals6/CVE-2021-41277 | | 
-| 20211123T19:36:34Z | CVE-2021-40154 | POC to test the BootROM vulnerability found in LPC55S69 and K82 Series  | https://github.com/Xen1thLabs-AE/CVE-2021-40154 | | 
-| 20211123T18:07:05Z | CVE-2021-41277 | Null | https://github.com/Vulnmachines/Metabase_CVE-2021-41277 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211124T12:20:42Z | Null | https://github.com/timoodada/klee | 2 | 0| 
+| 20211124T22:03:00Z | Null | https://github.com/Mq0509/YoRPG_Kleemex | 0 | 0| 
+| 20211124T16:41:12Z | Research paper On The Termination of Borrow Checking for Rust and a web application, CLI application and VSCode extension for running static analysis of rust-based smart contracts with a ready-to-be-verified project example. | https://github.com/LedgerProject/safepkt | 0 | 1| 
+| 20211124T16:20:20Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 219 | 36| 
+| 20211124T16:12:51Z | Null | https://github.com/timoodada/klee | 2 | 0| 
+| 20211124T15:54:03Z | CLI and HTTP application for running static analysis of rust-based smart contracts | https://github.com/LedgerProject/safepkt_backend | 0 | 1| 
 | 20211124T11:48:32Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1827 | 522| 
-| 20211124T04:13:35Z | Null | https://github.com/Mq0509/YoRPG_Kleemex | 0 | 0| 
 | 20211123T08:26:24Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 14 | 44| 
 | 20211123T08:10:19Z | Config files for my GitHub profile. | https://github.com/kleeJH/kleeJH | 0 | 0| 
 | 20211122T16:54:42Z | Config files for my GitHub profile. | https://github.com/kleean4/kleean4 | 0 | 0| 
 | 20211122T16:10:07Z | Personal Blog | https://github.com/klee1611/klee1611.github.io | 1 | 1| 
-| 20211122T15:11:22Z | Research paper On The Termination of Borrow Checking for Rust and a web application, CLI application and VSCode extension for running static analysis of rust-based smart contracts with a ready-to-be-verified project example. | https://github.com/LedgerProject/safepkt | 0 | 1| 
-| 20211122T14:09:36Z | Symbolic Liveness Analysis of real-world software building upon KLEE to detect liveness violations (e.g. infinite loop bugs) | https://github.com/COMSYS/SymbolicLivenessAnalysis | 12 | 0| 
-| 20211122T11:07:27Z | Null | https://github.com/ayazip/witch-klee | 0 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211124T17:25:32Z | Null | https://github.com/aesophor/requiem | 15 | 3| 
 | 20211124T13:17:32Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 187 | 39| 
 | 20211124T02:41:29Z | this branch is a solution to dma emulator | https://github.com/IoTS-P/s2e | 0 | 0| 
 | 20211123T23:24:18Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 78 | 31| 
 | 20211123T15:33:38Z | Null | https://github.com/yuvalkirstain/s2e-coref | 21 | 8| 
-| 20211122T13:50:59Z | Null | https://github.com/aesophor/requiem | 15 | 3| 
 | 20211120T05:53:34Z | Null | https://github.com/FISHzj/S2EB | 0 | 0| 
 | 20211116T20:55:05Z | jhirschm | https://github.com/jhirschm/S2E_PhotoinjectorLaserModel | 0 | 0| 
 | 20211116T09:52:52Z | Null | https://github.com/t0ry003/BAC-2009-S2E5 | 0 | 0| 
@@ -91,31 +91,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211124T13:55:54Z | A red team tool to exploit mobile devices | https://github.com/matthewng1996/Mobile-Metasploit | 0 | 0| 
-| 20211124T13:43:49Z | HEVD | https://github.com/ReJimp/Kernel_Exploit | 2 | 0| 
-| 20211124T13:41:09Z | A write-up describing the discovery and exploitation of a vulnerability I found on fun-dare | https://github.com/tikene/fun-dare-vulnerability-write-up | 0 | 0| 
-| 20211124T13:23:31Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 3772 | 1302| 
-| 20211124T13:19:42Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 57 | 13| 
-| 20211124T13:19:36Z | exploit list | https://github.com/jm0x0/exploits | 0 | 0| 
-| 20211124T13:19:29Z | Roblox Exploit Scripts by simulatorwinner#5864 | https://github.com/simulatorwinner/scripts | 0 | 0| 
-| 20211124T13:03:16Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
-| 20211124T12:46:17Z | https://exploit-poc.com | https://github.com/hktalent/exploit-poc | 2 | 1| 
-| 20211124T12:45:36Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 15| 
+| 20211125T01:00:38Z | [Roblox] Downtown RP ESP (Gun Crates, Printers) -- genta | https://github.com/subn0de/Roblox_Exploits | 0 | 0| 
+| 20211125T00:50:50Z | The Next-Gen Roblox Exploit Hub | https://github.com/HonestlyDex/DexHub | 1 | 0| 
+| 20211125T00:45:37Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 15| 
+| 20211125T00:35:22Z | A write up of a byte flip zero day vulnerability and exploit | https://github.com/9xN/xerobyte | 0 | 0| 
+| 20211125T00:35:12Z | Null | https://github.com/tjonty/exploit | 0 | 0| 
+| 20211125T00:17:49Z | Collection of Discord hacking tools/fun stuff/exploits that is completely made using NodeJS. | https://github.com/I2rys/ODiscord | 33 | 14| 
+| 20211125T00:15:07Z | Useful scripts to exploit Hack The Box retired machines/challenges | https://github.com/7Rocky/HackTheBox-scripts | 0 | 0| 
+| 20211125T00:06:48Z | This bash scripts will help you to hack remote hosts. You can choose and run one of them. | https://github.com/FabioDefilippo/linuxallremote | 30 | 5| 
+| 20211125T00:05:30Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
+| 20211124T23:08:38Z | Fast-As-F*ck web-based Padding Oracle attack python script that uses multithreading and other means to greatly increase decoding speed. | https://github.com/cybensis/faf-padding-oracle | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211124T23:04:08Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1382 | 651| 
+| 20211124T19:33:47Z | Python AV Evasion Tools | https://github.com/G1ft3dC0d3/MsfMania | 262 | 58| 
+| 20211124T17:45:34Z | Keeping it simple - PHP backdoors. | https://github.com/F-Masood/php-backdoors | 0 | 0| 
+| 20211124T16:57:48Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 5869 | 1853| 
+| 20211124T16:46:43Z | A TCP Backdoor made in python | https://github.com/ferreiraklet/Tracey-Backdoor | 9 | 0| 
+| 20211124T14:53:00Z | badcat is a tool I%ve made to learn `rust` and analyze anonymous backdoors | https://github.com/yanmarques/badcat | 0 | 0| 
+| 20211124T14:26:08Z | Config files for my GitHub profile. | https://github.com/Ghee196/Backdoor-Scanner | 1 | 0| 
 | 20211124T10:32:08Z | backdoor bypass for windows 10/11 | https://github.com/cypherKID/backdoor | 0 | 0| 
 | 20211124T10:18:19Z | backdoored ECDSA signatures yum! | https://github.com/oreparaz/backdoor-ecdsa | 1 | 0| 
 | 20211124T09:19:21Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 36 | 28| 
-| 20211124T08:41:53Z |  Access ADB On Browsers (: | https://github.com/jxroot/adbwebkit | 58 | 13| 
-| 20211124T08:20:17Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 5867 | 1853| 
-| 20211124T08:01:52Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 367 | 65| 
-| 20211124T02:29:02Z | Null | https://github.com/zephr1213/Pyro-Backdoor-Whitelist | 0 | 0| 
-| 20211124T00:11:43Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 51 | 15| 
-| 20211123T21:42:08Z | Null | https://github.com/samuelventura/nerves_backdoor | 0 | 0| 
-| 20211123T19:19:35Z | A TCP Backdoor made in python | https://github.com/ferreiraklet/Tracey-Backdoor | 8 | 0| 
 
 
 # symbolic execution on Github 推荐
