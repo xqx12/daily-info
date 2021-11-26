@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211126T01:29:58Z | CVE-2020-0133 | Null | https://github.com/Nivaskumark/CVE-2020-0133-packages_apps_Settings | | 
+| 20211126T01:32:26Z | CVE-2020-0133 | Null | https://github.com/Nivaskumark/CVE-2020-0133-packages_apps_Settings | | 
 | 20211126T01:29:39Z | CVE-2020-0133 | Null | https://github.com/Nivaskumark/CVE-2020-0133-packages_apps_Sett | | 
 | 20211125T21:12:51Z | CVE-2021-41277 | PoC for CVE-2021-41277 | https://github.com/tahtaciburak/CVE-2021-41277 | | 
 | 20211125T21:11:16Z | CVE-2021-21972 | CVE-2021-21972 Exploit | https://github.com/NS-Sp4ce/CVE-2021-21972 | | 
