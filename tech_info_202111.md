@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211126T01:52:03Z | CVE-2021-43267 | Local PoC exploit for CVE-2021-43267 (Linux TIPC) | https://github.com/ohnonoyesyes/CVE-2021-43267 | | 
 | 20211126T01:32:26Z | CVE-2020-0133 | Null | https://github.com/Nivaskumark/CVE-2020-0133-packages_apps_Settings | | 
 | 20211126T01:29:39Z | CVE-2020-0133 | Null | https://github.com/Nivaskumark/CVE-2020-0133-packages_apps_Sett | | 
 | 20211125T21:12:51Z | CVE-2021-41277 | PoC for CVE-2021-41277 | https://github.com/tahtaciburak/CVE-2021-41277 | | 
@@ -55,7 +56,6 @@
 | 20211125T16:16:59Z | CVE-2020-0074 | Null | https://github.com/Nivaskumark/CVE-2020-0074-frameworks_base_old | | 
 | 20211125T16:02:17Z | CVE-2020-0097 | Null | https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base_after | | 
 | 20211125T15:47:04Z | CVE-2020-0097 | Null | https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base_before | | 
-| 20211125T15:17:47Z | CVE-2020-0114 | Null | https://github.com/Nivaskumark/CVE-2020-0114-frameworks_base | | 
 
 
 # klee on Github 推荐
@@ -146,7 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211126T01:47:09Z | 模糊测试脚本 | https://github.com/lunaqueen/fuzzing | 0 | 0| 
+| 20211126T01:51:06Z | 模糊测试脚本 | https://github.com/lunaqueen/fuzzing | 0 | 0| 
 | 20211126T01:44:13Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 312 | 41| 
 | 20211126T01:30:57Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211126T00:12:44Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 1 | 2| 
