@@ -91,16 +91,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211126T02:03:37Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
+| 20211126T02:03:03Z | Multi FW Support Exploit Host For PS4. | https://github.com/Harleythetech/MultiFW-RD-PS4 | 0 | 0| 
 | 20211126T01:54:49Z | Local PoC exploit for CVE-2021-43267 (Linux TIPC) | https://github.com/ohnonoyesyes/CVE-2021-43267 | 0 | 0| 
 | 20211126T01:30:23Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6166 | 1462| 
 | 20211126T01:16:56Z | Buffer overflow exploit that spawns root shell | https://github.com/olivamadrigal/buffer_overflow_exploit | 0 | 0| 
 | 20211126T01:08:32Z | To-Do | https://github.com/Lescovar420/SABA-EXPLOIT-FPSE | 0 | 1| 
-| 20211126T01:03:58Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211126T01:01:53Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 245 | 77| 
 | 20211126T00:21:14Z | HEVD | https://github.com/ReJimp/Kernel_Exploit | 2 | 0| 
 | 20211125T23:34:01Z | 7.5x Sleirsgoevy exploit | https://github.com/chronoss09/sleirsgoevy755 | 0 | 0| 
 | 20211125T23:08:13Z | a roblox exploit hub. | https://github.com/merdachu/Kick-hub | 0 | 0| 
-| 20211125T22:47:52Z | Detect deauthentication frames using an ESP8266 | https://github.com/SpacehuhnTech/DeauthDetector | 461 | 154| 
 
 
 # backdoor on Github 推荐
@@ -146,7 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211126T02:02:09Z | 模糊测试脚本 | https://github.com/lunaqueen/fuzzing | 0 | 0| 
+| 20211126T02:04:25Z | 模糊测试脚本 | https://github.com/lunaqueen/fuzzing | 0 | 0| 
 | 20211126T01:56:59Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 254 | 31| 
 | 20211126T01:44:13Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 312 | 41| 
 | 20211126T01:30:57Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
