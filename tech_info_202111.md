@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211126T02:11:46Z | How to use ipwndfu in iPhone 6 (not checkra1n)?. For exploit an iPhone 6 that has iOS 10 | https://github.com/CtG1thub/How-to-use-ipwndfu-in-iPhone-6-not-checkra1n- | 0 | 0| 
 | 20211126T02:08:44Z | Multi FW Support Exploit Host For PS4. | https://github.com/Harleythetech/MultiFW-RD-PS4 | 0 | 0| 
 | 20211126T02:03:37Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211126T01:54:49Z | Local PoC exploit for CVE-2021-43267 (Linux TIPC) | https://github.com/ohnonoyesyes/CVE-2021-43267 | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20211126T01:01:53Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 245 | 77| 
 | 20211126T00:21:14Z | HEVD | https://github.com/ReJimp/Kernel_Exploit | 2 | 0| 
 | 20211125T23:34:01Z | 7.5x Sleirsgoevy exploit | https://github.com/chronoss09/sleirsgoevy755 | 0 | 0| 
-| 20211125T23:08:13Z | a roblox exploit hub. | https://github.com/merdachu/Kick-hub | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -146,7 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211126T02:04:25Z | 模糊测试脚本 | https://github.com/lunaqueen/fuzzing | 0 | 0| 
+| 20211126T02:12:47Z | 模糊测试脚本 | https://github.com/lunaqueen/fuzzing | 0 | 0| 
 | 20211126T01:56:59Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 254 | 31| 
 | 20211126T01:44:13Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 312 | 41| 
 | 20211126T01:30:57Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
