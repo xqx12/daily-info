@@ -146,6 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211126T01:39:40Z | 模糊测试脚本 | https://github.com/lunaqueen/fuzzing | 0 | 0| 
 | 20211126T01:30:57Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211126T00:12:44Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 1 | 2| 
 | 20211126T00:11:11Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 35 | 13| 
@@ -155,7 +156,6 @@
 | 20211125T21:03:39Z | Collection of zone file stanzas containing dodgy HTTPS RR values, to help with fuzz testing ECH | https://github.com/sftcd/echdnsfuzz | 0 | 0| 
 | 20211125T20:49:21Z | лабы по нечеткой логике | https://github.com/danilden1/mag_fuzzy | 0 | 0| 
 | 20211125T20:40:40Z | 🤖 Repeat tests. Repeat tests. Repeat tests. | https://github.com/ehmicky/test-each | 96 | 2| 
-| 20211125T20:27:36Z | Null | https://github.com/Shoa29/fuzzy-logic-cross-coupling-control-system | 0 | 0| 
 
 
 
