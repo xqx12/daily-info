@@ -81,7 +81,6 @@
 | 20211125T20:36:49Z | Simple remote administration tool | https://github.com/Monst3red/Backdoor | 0 | 2| 
 | 20211125T20:13:28Z | RemoteEvent%s & RemoteFunction%s Backdoor Scanner. Feel free to visit now. | https://github.com/jaackkiscool/Frickin-Serverside-Scanner-v1.2 | 3 | 0| 
 | 20211125T17:38:35Z | badcat is a tool I%ve made to learn `rust` and analyze anonymous backdoors | https://github.com/yanmarques/badcat | 0 | 0| 
-| 20211125T16:59:28Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 5871 | 1854| 
 | 20211125T08:56:36Z | Null | https://github.com/eigaditya/backdoor | 0 | 0| 
 | 20211125T07:22:39Z | Null | https://github.com/IHA-arch/python-backdoor | 0 | 0| 
 | 20211125T06:35:42Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 367 | 64| 
