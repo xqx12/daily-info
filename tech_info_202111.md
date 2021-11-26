@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211126T13:06:09Z | CVE-2020-0114 | Null | https://github.com/Nivaskumark/CVE-2020-0114-frameworks_base | | 
+| 20211126T13:06:23Z | CVE-2020-0114 | Null | https://github.com/Nivaskumark/CVE-2020-0114-frameworks_base | | 
 | 20211126T12:58:16Z | CVE-2020-0114 | Null | https://github.com/Nivaskumark/-CVE-2020-0114-frameworks_base | | 
 | 20211126T12:57:28Z | CVE-2020-0114 | Null | https://github.com/Nivaskumark/CVE-2020-0114-frameworks_basegbdgb | | 
 | 20211126T12:36:25Z | CVE-2020-0796 | Null | https://github.com/lisinan988/CVE-2020-0796-exp | | 
