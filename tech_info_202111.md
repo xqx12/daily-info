@@ -6,6 +6,15 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20211126 | Symbolic - 一款 Rust 语言写的调用栈符号生成工具 | https://github.com/getsentry/symbolic| 
+| 20211126 | 多个安全细分方向的资料整理 | https://github.com/firmianay/security-paper| 
+| 20211126 | Wazuh - 一款面向入侵检测、日志分析、文件监控等功能的开源安全平台 | https://github.com/wazuh/wazuh| 
+| 20211126 | Windows 域名解析保护机制深度分析 | https://mp.weixin.qq.com/s/MBWv5I-5DNoOrmEGP4kR0A| 
+| 20211126 | Learning Containers From The Bottom Up | http://iximiuz.com/en/posts/container-learning-path/| 
+| 20211126 | Avaddon 勒索软件分析 | https://atos.net/en/lp/securitydive/avaddon-ransomware-analysis| 
+| 20211126 | 基于 Unicorn Engine 模拟器代码执行漏洞的 CTF 赛题 | https://github.com/jwang-a/CTF/tree/master/MyChallenges/Pwn/Unicorns_Aisle| 
+| 20211126 | MediaTek audio DSP 被发现漏洞，可被用于 Android App 本地提权 | http://research.checkpoint.com/2021/looking-for-vulnerabilities-in-mediatek-audio-dsp/| 
+| 20211126 | TP-LINK TL-WR840N Ping 功能处理存在命令行注入漏洞 | https://k4m1ll0.com/cve-2021-41653.html| 
 | 20211125 | Using CVE-2021-40531 for RCE with Sketch | https://jonpalmisc.com/2021/11/22/cve-2021-40531| 
 | 20211125 | Brida - 用于 Burp Suite 与 Frida 协作的 Bridge | https://github.com/federicodotta/Brida| 
 | 20211125 | Hunting for Persistence in Linux (Part 1): Auditd, Sysmon, Osquery, and Webshells | https://pberba.github.io/security/2021/11/22/linux-threat-hunting-for-persistence-sysmon-auditd-webshell/| 
@@ -17,50 +26,43 @@
 | 20211125 | How to Detect Azure Active Directory Backdoors: Identity Federation | https://www.inversecos.com/2021/11/how-to-detect-azure-active-directory.html| 
 | 20211125 | Dharma - 基于语法文件生成 Fuzz 测试样本的工具 | https://sec.today/pulses/fb6ae116-16ea-4628-8e22-d43d0bafef9e/| 
 | 20211125 | Dharma - 基于语法文件生成 Fuzz 测试样本的工具 | http://blog.haboob.sa/blog/introduction-to-dharma-part-1| 
-| 20211125 | 浅析_IO_FILE攻击研究. | https://tttang.com/archive/1345/| 
-| 20211124 | Android 反汇编工具 jadx 更新 1.3.0 版本 | https://github.com/skylot/jadx/releases/tag/v1.3.0| 
-| 20211124 | Abusing Windows Server Update Services (WSUS) to Enable NTLM Relaying Attacks | https://www.gosecure.net/blog/2021/11/22/gosecure-investigates-abusing-windows-server-update-services-wsus-to-enable-ntlm-relaying-attacks/| 
-| 20211124 | Full key extraction of NVIDIA™ TSEC | https://gist.github.com/plutooo/733318dbb57166d203c10d12f6c24e06/| 
-| 20211124 | 通过设置 uchg flag 限制恶意软件对 /Library/LaunchDaemons 等路径的修改 | https://antman1p-30185.medium.com/defeating-malicious-launch-persistence-156e2b40fc67| 
-| 20211124 | Pwn2Own 比赛使用的 VirtualBox NAT 网卡模拟组件的漏洞的分析 | https://www.sentinelone.com/labs/gsoh-no-hunting-for-vulnerabilities-in-virtualbox-network-offloads/| 
-| 20211124 | Sentinelone 总结的 macOS 系统企业安全指南 | https://www.sentinelone.com/wp-content/uploads/2021/11/The-Complete-Guide-to-Understanding-Apple-Mac-Security-for-Enterprise.pdf| 
-| 20211124 | API 网关 Apache APISIX request_uri 路径穿越漏洞分析（CVE-2021-43557） | https://xvnpw.github.io/posts/cve_2021_43557_apache_apisix_path_traversal_in_request_uri_variable/| 
-| 20211123 | 研究员 Man Yue Mo 对 Qualcomm NPU 内核驱动 UAF 漏洞的分析 | http://github.co/30BIuuO| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20211126 | 从美军的先期研发看网络安全技术的发展 | https://mp.weixin.qq.com/s/a9fmnJOSSuLXfWdAFtGjDA| 
+| 20211126 | SiliFuzz：从软件角度发现处理器电路缺陷 | https://mp.weixin.qq.com/s/QPYTxin66lwCxZEphCOTew| 
+| 20211126 | AI系列（一）：换个思路检测隐蔽C2 | https://mp.weixin.qq.com/s/JsvxtiRg8fEq51iTgGfPwQ| 
+| 20211126 | 严苛Web对抗环境下的Webshell | https://mp.weixin.qq.com/s/lOBXzPk-m_th0yNSHGRxUA| 
+| 20211126 | 《Instructions for PhD Students》：Dimitris给PhD学生的忠告 | https://zhuanlan.zhihu.com/p/400248999| 
+| 20211126 | Automatic Feature Learning for Predicting Vulnerable Softw... | https://zhuanlan.zhihu.com/p/435957686| 
 | 20211125 | 现代化系统中的侧信道(side channel)攻击与防御 | https://www.bilibili.com/video/BV16q4y1B7gt| 
 | 20211125 | Mining JavaScript Zero-day Vulnerabilities via Object Prop... | https://www.bilibili.com/video/BV1xL411M7wz| 
 | 20211125 | 西湖论剑gghdl题解 | http://blog.bluesadi.cn/2021/11/24/%E8%A5%BF%E6%B9%96%E8%AE%BA%E5%89%91gghdl%E9%A2%98%E8%A7%A3/| 
 | 20211125 | GSE协议封装解析 | https://www.minhal.me/2021/11/19/GSE/| 
-| 20211124 | 基于主被动测量的 IoT 安全情报 | https://mp.weixin.qq.com/s/Xt3wAWKa5ge0ODK0sfP_lQ| 
-| 20211124 | Apache APISIX uri-blocker 场景绕过之一：$request_uri | https://github.com/CHYbeta/OddProxyDemo/tree/master/apisix/demo1| 
-| 20211124 | 反序列化小子捕获器-反制ysoserial | https://mp.weixin.qq.com/s/Ww_IxNLXI0KWZYERGwu3bg| 
-| 20211124 | 我的OSCP之旅回顾与分享 | http://mp.weixin.qq.com/s?__biz=MzIwOTA4NTg4MA==&mid=2652489835&idx=1&sn=bf3ce9667c4b1949d54930d0047f796b&chksm=8c945cbcbbe3d5aa9f4b2c164d1c0c2d33e9458bcc579b407b386b88f295c10fbe25a84859f8#rd| 
-| 20211123 | 二进制代码相似分析综述 | https://mp.weixin.qq.com/s/GiDcQSYywSiRwlXY5N0e3g| 
-| 20211123 | shellcode免杀初探 | https://mp.weixin.qq.com/s/5BVxYS7HR0ndRQbSB49eBQ| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211126T01:54:49Z | CVE-2021-43267 | Local PoC exploit for CVE-2021-43267 (Linux TIPC) | https://github.com/ohnonoyesyes/CVE-2021-43267 | | 
-| 20211126T01:32:26Z | CVE-2020-0133 | Null | https://github.com/Nivaskumark/CVE-2020-0133-packages_apps_Settings | | 
-| 20211126T01:29:39Z | CVE-2020-0133 | Null | https://github.com/Nivaskumark/CVE-2020-0133-packages_apps_Sett | | 
-| 20211125T21:12:51Z | CVE-2021-41277 | PoC for CVE-2021-41277 | https://github.com/tahtaciburak/CVE-2021-41277 | | 
-| 20211125T21:11:16Z | CVE-2021-21972 | CVE-2021-21972 Exploit | https://github.com/NS-Sp4ce/CVE-2021-21972 | | 
-| 20211125T21:00:23Z | CVE-2021-22205 | A CVE-2021-22205 Gitlab RCE POC written in Golang | https://github.com/pizza-power/Golang-CVE-2021-22205-POC | | 
-| 20211125T16:26:54Z | CVE-2020-0074 | Null | https://github.com/Nivaskumark/CVE-2020-0074-frameworks_base | | 
-| 20211125T16:16:59Z | CVE-2020-0074 | Null | https://github.com/Nivaskumark/CVE-2020-0074-frameworks_base_old | | 
-| 20211125T16:02:17Z | CVE-2020-0097 | Null | https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base_after | | 
-| 20211125T15:47:04Z | CVE-2020-0097 | Null | https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base_before | | 
+| 20211126T12:58:16Z | CVE-2020-0114 | Null | https://github.com/Nivaskumark/-CVE-2020-0114-frameworks_base | | 
+| 20211126T12:57:28Z | CVE-2020-0114 | Null | https://github.com/Nivaskumark/CVE-2020-0114-frameworks_basegbdgb | | 
+| 20211126T12:36:25Z | CVE-2020-0796 | Null | https://github.com/lisinan988/CVE-2020-0796-exp | | 
+| 20211126T10:23:16Z | CVE-2021-40865 | CVE-2021-40865 | https://github.com/hktalent/CVE-2021-40865 | | 
+| 20211126T07:43:16Z | CVE-2020-0097 | Null | https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base | | 
+| 20211126T07:22:48Z | CVE-2021-43267 | Local PoC exploit for CVE-2021-43267 (Linux TIPC) | https://github.com/ohnonoyesyes/CVE-2021-43267 | | 
+| 20211126T07:17:09Z | CVE-2020-0114 | Null | https://github.com/Nivaskumark/CVE-2020-0114-frameworks | | 
+| 20211126T07:06:56Z | CVE-2020-0114 | Null | https://github.com/Nivaskumark/CVE-2020-0114-frameworks_base11 | | 
+| 20211126T05:18:05Z | CVE-2021-41773 | CVE-2021-41773 Test Page & Exploit Code | https://github.com/jhye0n/CVE-2021-41773 | | 
+| 20211126T03:36:35Z | CVE-2020-0133 | Null | https://github.com/Nivaskumark/CVE-2020-0133-packages_apps_Settings | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211126T12:23:55Z | klee+nme for user space aeg | https://github.com/jqhong/klee-nme-aeg | 1 | 0| 
+| 20211126T07:41:02Z | Null | https://github.com/wpkong/KleeAdventure | 0 | 0| 
 | 20211125T13:31:33Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1828 | 522| 
 | 20211124T22:03:00Z | Null | https://github.com/Mq0509/YoRPG_Kleemex | 0 | 0| 
 | 20211124T16:41:12Z | Research paper On The Termination of Borrow Checking for Rust and a web application, CLI application and VSCode extension for running static analysis of rust-based smart contracts with a ready-to-be-verified project example. | https://github.com/LedgerProject/safepkt | 0 | 1| 
@@ -69,8 +71,6 @@
 | 20211124T15:54:03Z | CLI and HTTP application for running static analysis of rust-based smart contracts | https://github.com/LedgerProject/safepkt_backend | 0 | 1| 
 | 20211123T08:26:24Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 14 | 44| 
 | 20211123T08:10:19Z | Config files for my GitHub profile. | https://github.com/kleeJH/kleeJH | 0 | 0| 
-| 20211122T16:54:42Z | Config files for my GitHub profile. | https://github.com/kleean4/kleean4 | 0 | 0| 
-| 20211122T16:10:07Z | Personal Blog | https://github.com/klee1611/klee1611.github.io | 1 | 1| 
 
 
 # s2e on Github 推荐
@@ -91,31 +91,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211126T02:47:43Z | Multi FW Support Exploit Host For PS4. | https://github.com/Harleythetech/MultiFW-RD-PS4 | 0 | 0| 
-| 20211126T02:46:36Z | iblessing is an iOS security exploiting toolkit, it mainly includes application information gathering, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining. | https://github.com/Soulghost/iblessing | 425 | 64| 
-| 20211126T02:11:46Z | How to use ipwndfu in iPhone 6 (not checkra1n)?. For exploit an iPhone 6 that has iOS 10 | https://github.com/CtG1thub/How-to-use-ipwndfu-in-iPhone-6-not-checkra1n- | 0 | 0| 
-| 20211126T02:03:37Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
-| 20211126T01:54:49Z | Local PoC exploit for CVE-2021-43267 (Linux TIPC) | https://github.com/ohnonoyesyes/CVE-2021-43267 | 0 | 0| 
-| 20211126T01:30:23Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6166 | 1462| 
-| 20211126T01:16:56Z | Buffer overflow exploit that spawns root shell | https://github.com/olivamadrigal/buffer_overflow_exploit | 0 | 0| 
-| 20211126T01:08:32Z | To-Do | https://github.com/Lescovar420/SABA-EXPLOIT-FPSE | 0 | 1| 
-| 20211126T01:01:53Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 245 | 77| 
-| 20211126T00:21:14Z | HEVD | https://github.com/ReJimp/Kernel_Exploit | 2 | 0| 
+| 20211126T12:45:39Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 15| 
+| 20211126T12:27:44Z | Null | https://github.com/SirdsH/ExploitingAtoms | 0 | 0| 
+| 20211126T12:15:01Z | Classification feature selection approach based on deap framework Genetic Algorithm exploiting sklearn ml models as fitness function. | https://github.com/rfloc95/GASelection_sklearn | 0 | 0| 
+| 20211126T12:05:47Z | Automatic Return Oriented Programming exploit generator | https://github.com/JDBryan/ROPSlap | 0 | 0| 
+| 20211126T12:04:17Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
+| 20211126T12:03:39Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 247 | 77| 
+| 20211126T11:59:35Z | Women occupy almost half the globe. But their survival has always been Women are the subject of exploitation inside and outside the home say whether on roads, trains, cabs, schools etc.The level of security can be increased more by safety robot, which can track the area , and ensure she has completed journey without any problems, this will not only make them safe but their parents, kids or husbands will also feel stress free. | https://github.com/sonalipangavhane99/Design-and-Implementation-of-Patrolling-Robot-for-Women-Safety | 0 | 0| 
+| 20211126T11:56:27Z | Config files for my GitHub profile. | https://github.com/exploit40/exploit40 | 0 | 0| 
+| 20211126T11:56:22Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10365 | 1786| 
+| 20211126T11:55:55Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 8516 | 1467| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211126T02:51:19Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1384 | 653| 
-| 20211126T02:34:01Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 5872 | 1854| 
+| 20211126T11:26:33Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 5874 | 1856| 
+| 20211126T10:19:24Z | Get Backdoor access to a windows pc | https://github.com/emilpro2008/Backdoor-Virus | 0 | 0| 
+| 20211126T10:18:00Z | Remote control software, supported Windows/Unix/MacOS/Linux(x86/x64/mips/arm) | https://github.com/h1zzz/purewater | 5 | 0| 
+| 20211126T09:08:47Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 368 | 64| 
+| 20211126T02:51:19Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1384 | 654| 
 | 20211126T01:21:48Z | Null | https://github.com/samuelventura/nerves_backdoor | 0 | 0| 
 | 20211125T20:58:04Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 52 | 15| 
 | 20211125T20:36:49Z | Simple remote administration tool | https://github.com/Monst3red/Backdoor | 0 | 2| 
 | 20211125T20:13:28Z | RemoteEvent%s & RemoteFunction%s Backdoor Scanner. Feel free to visit now. | https://github.com/jaackkiscool/Frickin-Serverside-Scanner-v1.2 | 3 | 0| 
 | 20211125T17:38:35Z | badcat is a tool I%ve made to learn `rust` and analyze anonymous backdoors | https://github.com/yanmarques/badcat | 0 | 0| 
-| 20211125T08:56:36Z | Null | https://github.com/eigaditya/backdoor | 0 | 0| 
-| 20211125T07:22:39Z | Null | https://github.com/IHA-arch/python-backdoor | 0 | 0| 
-| 20211125T06:35:42Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 367 | 64| 
 
 
 # symbolic execution on Github 推荐
@@ -146,16 +146,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211126T02:58:17Z | Leetcode solutions. | https://github.com/chaitanyks/fuzzy-disco | 0 | 0| 
-| 20211126T02:46:37Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20211126T02:39:33Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6854 | 1432| 
-| 20211126T02:13:43Z | 模糊测试脚本 | https://github.com/lunaqueen/fuzzing | 0 | 0| 
-| 20211126T01:56:59Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 254 | 31| 
-| 20211126T01:44:13Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 312 | 41| 
-| 20211126T00:12:44Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 1 | 2| 
-| 20211126T00:11:11Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 35 | 13| 
-| 20211125T22:40:55Z | Esse repositório é onde irei colocar meu código mais simples, maioria foi feito durante o curso técnico, mas alguns, foram feitos para treinar mesmo! :) | https://github.com/Guiermis/fuzzy-waddle | 0 | 0| 
-| 20211125T22:10:46Z | Code to implement Fuzzy Matching (index and retrieval) using Java Lucene | https://github.com/jmcrego/FuzzyMatchingWithLucene | 0 | 0| 
+| 20211126T13:00:20Z | Null | https://github.com/amol-17/Fuzzy-logic-cross-coupling-controller | 0 | 0| 
+| 20211126T12:49:06Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 34899 | 18190| 
+| 20211126T12:44:48Z | Null | https://github.com/agittm/fuzzy_sugeno_test | 0 | 0| 
+| 20211126T12:40:08Z | Null | https://github.com/gungnir479/fuzzJIT | 0 | 0| 
+| 20211126T12:15:23Z | Null | https://github.com/rafibu/fuzzy | 0 | 0| 
+| 20211126T12:02:02Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 35 | 13| 
+| 20211126T11:56:42Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2233 | 435| 
+| 20211126T11:40:20Z | 模糊测试脚本 | https://github.com/lunaqueen/fuzzing | 0 | 0| 
+| 20211126T11:38:27Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 251 | 22| 
+| 20211126T11:26:17Z | Null | https://github.com/elakiya04/Fuzzy-logics-python-implementation | 0 | 0| 
 
 
 
