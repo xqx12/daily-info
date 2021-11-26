@@ -91,7 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211126T01:52:03Z | Local PoC exploit for CVE-2021-43267 (Linux TIPC) | https://github.com/ohnonoyesyes/CVE-2021-43267 | 0 | 0| 
+| 20211126T01:54:23Z | Local PoC exploit for CVE-2021-43267 (Linux TIPC) | https://github.com/ohnonoyesyes/CVE-2021-43267 | 0 | 0| 
 | 20211126T01:30:23Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6166 | 1462| 
 | 20211126T01:16:56Z | Buffer overflow exploit that spawns root shell | https://github.com/olivamadrigal/buffer_overflow_exploit | 0 | 0| 
 | 20211126T01:08:32Z | To-Do | https://github.com/Lescovar420/SABA-EXPLOIT-FPSE | 0 | 1| 
