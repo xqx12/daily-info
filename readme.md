@@ -69,8 +69,8 @@
 | 20211125T22:37:15Z | A cheat sheet that contains common enumeration and attack methods for Windows Active Directory. | https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet | 2325 | 564| 
 | 20211125T21:53:32Z | A fast solution for recognising text from images from various languages using Tesseract and translating the text to english. exploiting the pre-trained models from Transformers. | https://github.com/eltzi/ocr_to_translation_demo | 0 | 0| 
 | 20211125T21:52:25Z | Driver Exploitation with HEVD (HackSys Extreme Vulnerable Driver) | https://github.com/edcod3/hevd-drivexp | 0 | 0| 
-| 20211125T21:17:08Z | Buffer overflow exploit that spawns root shell | https://github.com/olivamadrigal/buffer_overflow_exploit | 0 | 0| 
 | 20211125T20:59:38Z | An anti-exploit attempt for Fabric | https://github.com/samolego/GolfIV | 28 | 5| 
+| 20211125T20:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10366 | 1786| 
 
 
 # backdoor on Github 推荐
