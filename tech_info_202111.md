@@ -136,17 +136,18 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211126T08:48:27Z | Easier Way For Get PDF Of Papers On NDSS Website | https://github.com/tbbatbb/NDSS_Downloader | 0 | 0| 
 | 20211125T08:08:07Z | NDSS API Client | https://github.com/keenetic/cloud-api-python-client | 0 | 0| 
 | 20211124T00:05:20Z | Artifact for Harpo at NDSS2022 | https://github.com/bitzj2015/Harpo-NDSS22 | 1 | 0| 
 | 20211123T12:54:25Z | Original implementation of FlowPrint as in the NDSS %20 paper | https://github.com/Thijsvanede/FlowPrint | 59 | 21| 
-| 20211118T09:32:57Z | A penetration testing tool for finding file upload bugs (NDSS 2020) | https://github.com/WSP-LAB/FUSE | 199 | 44| 
+| 20211118T09:32:57Z | A penetration testing tool for finding file upload bugs (NDSS 2020) | https://github.com/WSP-LAB/FUSE | 199 | 45| 
 | 20211112T02:44:49Z | NDSでシェーダーのようなものを動かす | https://github.com/NidoKota/NDSShader | 0 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211126T13:00:20Z | Null | https://github.com/amol-17/Fuzzy-logic-cross-coupling-controller | 0 | 0| 
+| 20211126T13:04:24Z | Contour machine on Fuzzy Logic cross coupling paper | https://github.com/amol-17/Fuzzy-logic-cross-coupling-controller | 0 | 0| 
 | 20211126T12:49:06Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 34899 | 18190| 
 | 20211126T12:44:48Z | Null | https://github.com/agittm/fuzzy_sugeno_test | 0 | 0| 
 | 20211126T12:40:08Z | Null | https://github.com/gungnir479/fuzzJIT | 0 | 0| 

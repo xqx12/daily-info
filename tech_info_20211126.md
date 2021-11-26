@@ -91,12 +91,13 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211126T08:48:27Z | Easier Way For Get PDF Of Papers On NDSS Website | https://github.com/tbbatbb/NDSS_Downloader | 0 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211126T13:00:20Z | Null | https://github.com/amol-17/Fuzzy-logic-cross-coupling-controller | 0 | 0| 
+| 20211126T13:04:24Z | Contour machine on Fuzzy Logic cross coupling paper | https://github.com/amol-17/Fuzzy-logic-cross-coupling-controller | 0 | 0| 
 | 20211126T12:49:06Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 34899 | 18190| 
 | 20211126T12:44:48Z | Null | https://github.com/agittm/fuzzy_sugeno_test | 0 | 0| 
 | 20211126T12:40:08Z | Null | https://github.com/gungnir479/fuzzJIT | 0 | 0| 
