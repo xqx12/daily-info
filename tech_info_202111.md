@@ -91,7 +91,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211126T00:57:52Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 244 | 77| 
+| 20211126T01:01:53Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 245 | 77| 
+| 20211126T01:01:03Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6165 | 1462| 
 | 20211126T00:21:14Z | HEVD | https://github.com/ReJimp/Kernel_Exploit | 2 | 0| 
 | 20211126T00:04:10Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211125T23:34:01Z | 7.5x Sleirsgoevy exploit | https://github.com/chronoss09/sleirsgoevy755 | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20211125T22:44:48Z | This bash scripts will help you to hack remote hosts. You can choose and run one of them. | https://github.com/FabioDefilippo/linuxallremote | 30 | 5| 
 | 20211125T22:42:51Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 266 | 16| 
 | 20211125T22:37:15Z | A cheat sheet that contains common enumeration and attack methods for Windows Active Directory. | https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet | 2325 | 564| 
-| 20211125T21:53:32Z | A fast solution for recognising text from images from various languages using Tesseract and translating the text to english. exploiting the pre-trained models from Transformers. | https://github.com/eltzi/ocr_to_translation_demo | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -121,6 +121,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211125T16:43:35Z | An example of how we used manticore for symbolic execution on klade solidity smart contracts  | https://github.com/AlbertSu123/Manticore | 0 | 0| 
 | 20211125T13:37:32Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2562 | 379| 
 | 20211125T13:31:33Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1828 | 522| 
 | 20211125T12:58:00Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 174 | 10| 
@@ -130,7 +131,6 @@
 | 20211124T18:05:56Z | Binsec/Rel is an extension of Binsec that implements relational symbolic execution for constant-time verification and secret-erasure at binary-level. | https://github.com/binsec/Rel | 24 | 1| 
 | 20211124T16:30:58Z | Symbolic executor for the Move programming language. | https://github.com/fEst1ck/move-symbolic-execution | 0 | 0| 
 | 20211124T13:17:32Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 187 | 39| 
-| 20211124T13:10:31Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 164 | 37| 
 
 
 # big4 on Github 推荐

@@ -91,6 +91,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211125T16:43:35Z | An example of how we used manticore for symbolic execution on klade solidity smart contracts  | https://github.com/AlbertSu123/Manticore | 0 | 0| 
 | 20211125T13:37:32Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2562 | 379| 
 | 20211125T13:31:33Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1828 | 522| 
 | 20211125T12:58:00Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 174 | 10| 
