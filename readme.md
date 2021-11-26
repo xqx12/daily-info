@@ -109,7 +109,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211125T22:52:01Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 312 | 41| 
 | 20211125T22:40:55Z | Esse repositório é onde irei colocar meu código mais simples, maioria foi feito durante o curso técnico, mas alguns, foram feitos para treinar mesmo! :) | https://github.com/Guiermis/fuzzy-waddle | 0 | 0| 
 | 20211125T22:10:46Z | Code to implement Fuzzy Matching (index and retrieval) using Java Lucene | https://github.com/jmcrego/FuzzyMatchingWithLucene | 0 | 0| 
 | 20211125T21:03:39Z | Collection of zone file stanzas containing dodgy HTTPS RR values, to help with fuzz testing ECH | https://github.com/sftcd/echdnsfuzz | 0 | 0| 
@@ -119,6 +118,7 @@
 | 20211125T19:19:02Z | Asynchronous fuzzy finder in vim9script | https://github.com/kohnish/vim9-fuzzy | 0 | 0| 
 | 20211125T18:58:12Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2442 | 149| 
 | 20211125T18:18:16Z | With this project, I want to make a blending between Persevere and taPCT. The idea is to find bugs in large amounts of concurrent threading instruction. For that we will first try and identify with this tool some known bugs from emac versions that were not yet corrected. We first model the system call as a set of events and then apply the taPCT algorithm. Later on, we can use fuzzing to give larger system call sequences to our probabilistic scheduling algorithm.  | https://github.com/Ricagraca/taPPCT | 0 | 0| 
+| 20211125T18:15:43Z | Yocto layer for fuzzing Wind River Linux kernel with google-syzkaller | https://github.com/ovpanait/meta-syzkaller-wrl | 1 | 1| 
 
 
 
