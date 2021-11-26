@@ -146,11 +146,11 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211126T02:46:37Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211126T02:39:33Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6854 | 1432| 
 | 20211126T02:13:43Z | 模糊测试脚本 | https://github.com/lunaqueen/fuzzing | 0 | 0| 
 | 20211126T01:56:59Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 254 | 31| 
 | 20211126T01:44:13Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 312 | 41| 
-| 20211126T01:30:57Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211126T00:12:44Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 1 | 2| 
 | 20211126T00:11:11Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 35 | 13| 
 | 20211125T22:40:55Z | Esse repositório é onde irei colocar meu código mais simples, maioria foi feito durante o curso técnico, mas alguns, foram feitos para treinar mesmo! :) | https://github.com/Guiermis/fuzzy-waddle | 0 | 0| 
