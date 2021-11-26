@@ -146,6 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211126T02:58:17Z | Leetcode solutions. | https://github.com/chaitanyks/fuzzy-disco | 0 | 0| 
 | 20211126T02:46:37Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211126T02:39:33Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6854 | 1432| 
 | 20211126T02:13:43Z | 模糊测试脚本 | https://github.com/lunaqueen/fuzzing | 0 | 0| 
@@ -155,7 +156,6 @@
 | 20211126T00:11:11Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 35 | 13| 
 | 20211125T22:40:55Z | Esse repositório é onde irei colocar meu código mais simples, maioria foi feito durante o curso técnico, mas alguns, foram feitos para treinar mesmo! :) | https://github.com/Guiermis/fuzzy-waddle | 0 | 0| 
 | 20211125T22:10:46Z | Code to implement Fuzzy Matching (index and retrieval) using Java Lucene | https://github.com/jmcrego/FuzzyMatchingWithLucene | 0 | 0| 
-| 20211125T21:03:39Z | Collection of zone file stanzas containing dodgy HTTPS RR values, to help with fuzz testing ECH | https://github.com/sftcd/echdnsfuzz | 0 | 0| 
 
 
 
