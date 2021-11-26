@@ -31,6 +31,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211126T13:05:17Z | CVE-2020-0114 | Null | https://github.com/Nivaskumark/CVE-2020-0114-frameworks_base | | 
 | 20211126T12:58:16Z | CVE-2020-0114 | Null | https://github.com/Nivaskumark/-CVE-2020-0114-frameworks_base | | 
 | 20211126T12:57:28Z | CVE-2020-0114 | Null | https://github.com/Nivaskumark/CVE-2020-0114-frameworks_basegbdgb | | 
 | 20211126T12:36:25Z | CVE-2020-0796 | Null | https://github.com/lisinan988/CVE-2020-0796-exp | | 
@@ -40,7 +41,6 @@
 | 20211126T07:17:09Z | CVE-2020-0114 | Null | https://github.com/Nivaskumark/CVE-2020-0114-frameworks | | 
 | 20211126T07:06:56Z | CVE-2020-0114 | Null | https://github.com/Nivaskumark/CVE-2020-0114-frameworks_base11 | | 
 | 20211126T05:18:05Z | CVE-2021-41773 | CVE-2021-41773 Test Page & Exploit Code | https://github.com/jhye0n/CVE-2021-41773 | | 
-| 20211126T03:36:35Z | CVE-2020-0133 | Null | https://github.com/Nivaskumark/CVE-2020-0133-packages_apps_Settings | | 
 
 
 # klee on Github 推荐
