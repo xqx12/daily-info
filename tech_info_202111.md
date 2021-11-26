@@ -91,10 +91,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211126T01:03:58Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211126T01:01:53Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 245 | 77| 
 | 20211126T01:01:03Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6165 | 1462| 
 | 20211126T00:21:14Z | HEVD | https://github.com/ReJimp/Kernel_Exploit | 2 | 0| 
-| 20211126T00:04:10Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211125T23:34:01Z | 7.5x Sleirsgoevy exploit | https://github.com/chronoss09/sleirsgoevy755 | 0 | 0| 
 | 20211125T23:08:13Z | a roblox exploit hub. | https://github.com/merdachu/Kick-hub | 0 | 0| 
 | 20211125T22:47:52Z | Detect deauthentication frames using an ESP8266 | https://github.com/SpacehuhnTech/DeauthDetector | 461 | 154| 
@@ -106,7 +106,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211126T00:35:00Z | Null | https://github.com/samuelventura/nerves_backdoor | 0 | 0| 
+| 20211126T01:03:20Z | Null | https://github.com/samuelventura/nerves_backdoor | 0 | 0| 
 | 20211125T21:50:26Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1383 | 653| 
 | 20211125T20:58:04Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 52 | 15| 
 | 20211125T20:36:49Z | Simple remote administration tool | https://github.com/Monst3red/Backdoor | 0 | 2| 
