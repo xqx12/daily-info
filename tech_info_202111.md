@@ -91,7 +91,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211126T02:33:44Z | Multi FW Support Exploit Host For PS4. | https://github.com/Harleythetech/MultiFW-RD-PS4 | 0 | 0| 
+| 20211126T02:47:43Z | Multi FW Support Exploit Host For PS4. | https://github.com/Harleythetech/MultiFW-RD-PS4 | 0 | 0| 
+| 20211126T02:46:36Z | iblessing is an iOS security exploiting toolkit, it mainly includes application information gathering, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining. | https://github.com/Soulghost/iblessing | 425 | 64| 
 | 20211126T02:11:46Z | How to use ipwndfu in iPhone 6 (not checkra1n)?. For exploit an iPhone 6 that has iOS 10 | https://github.com/CtG1thub/How-to-use-ipwndfu-in-iPhone-6-not-checkra1n- | 0 | 0| 
 | 20211126T02:03:37Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211126T01:54:49Z | Local PoC exploit for CVE-2021-43267 (Linux TIPC) | https://github.com/ohnonoyesyes/CVE-2021-43267 | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20211126T01:08:32Z | To-Do | https://github.com/Lescovar420/SABA-EXPLOIT-FPSE | 0 | 1| 
 | 20211126T01:01:53Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 245 | 77| 
 | 20211126T00:21:14Z | HEVD | https://github.com/ReJimp/Kernel_Exploit | 2 | 0| 
-| 20211125T23:34:01Z | 7.5x Sleirsgoevy exploit | https://github.com/chronoss09/sleirsgoevy755 | 0 | 0| 
 
 
 # backdoor on Github 推荐
