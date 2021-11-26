@@ -98,8 +98,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211126T13:33:04Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 34901 | 18190| 
 | 20211126T13:24:51Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1334 | 237| 
-| 20211126T13:22:51Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 34900 | 18190| 
 | 20211126T13:04:24Z | Contour machine on Fuzzy Logic cross coupling paper | https://github.com/amol-17/Fuzzy-logic-cross-coupling-controller | 0 | 0| 
 | 20211126T12:44:48Z | Null | https://github.com/agittm/fuzzy_sugeno_test | 0 | 0| 
 | 20211126T12:40:08Z | Null | https://github.com/gungnir479/fuzzJIT | 0 | 0| 
