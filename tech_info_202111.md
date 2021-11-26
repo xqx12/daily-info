@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211126T13:25:58Z | To-Do | https://github.com/Lescovar420/SABA-EXPLOIT-FPSE | 0 | 1| 
 | 20211126T13:21:25Z | HEVD | https://github.com/ReJimp/Kernel_Exploit | 2 | 0| 
 | 20211126T13:15:48Z | Exploitation Framework for Embedded Devices | https://github.com/threat9/routersploit | 9818 | 2110| 
 | 20211126T13:05:07Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 3782 | 1304| 
@@ -100,17 +101,16 @@
 | 20211126T12:15:01Z | Classification feature selection approach based on deap framework Genetic Algorithm exploiting sklearn ml models as fitness function. | https://github.com/rfloc95/GASelection_sklearn | 0 | 0| 
 | 20211126T12:05:47Z | Automatic Return Oriented Programming exploit generator | https://github.com/JDBryan/ROPSlap | 0 | 0| 
 | 20211126T12:03:39Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 247 | 77| 
-| 20211126T11:59:35Z | Women occupy almost half the globe. But their survival has always been Women are the subject of exploitation inside and outside the home say whether on roads, trains, cabs, schools etc.The level of security can be increased more by safety robot, which can track the area , and ensure she has completed journey without any problems, this will not only make them safe but their parents, kids or husbands will also feel stress free. | https://github.com/sonalipangavhane99/Design-and-Implementation-of-Patrolling-Robot-for-Women-Safety | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211126T13:28:35Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1384 | 654| 
 | 20211126T13:18:12Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 5875 | 1856| 
 | 20211126T10:19:24Z | Get Backdoor access to a windows pc | https://github.com/emilpro2008/Backdoor-Virus | 0 | 0| 
 | 20211126T10:18:00Z | Remote control software, supported Windows/Unix/MacOS/Linux(x86/x64/mips/arm) | https://github.com/h1zzz/purewater | 5 | 0| 
 | 20211126T09:08:47Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 368 | 64| 
-| 20211126T02:51:19Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1384 | 654| 
 | 20211126T01:21:48Z | Null | https://github.com/samuelventura/nerves_backdoor | 0 | 0| 
 | 20211125T20:58:04Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 52 | 15| 
 | 20211125T20:36:49Z | Simple remote administration tool | https://github.com/Monst3red/Backdoor | 0 | 2| 
