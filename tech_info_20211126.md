@@ -99,13 +99,13 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211126T13:58:29Z | Null | https://github.com/gungnir479/fuzzJIT | 0 | 0| 
 | 20211126T13:55:17Z | Python-based code for estimation of highway bottleneck probability using speed transition matrices.  | https://github.com/tisljaricleo/fuzzy-highway-bottleneck-python | 1 | 0| 
 | 20211126T13:51:42Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6857 | 1433| 
 | 20211126T13:33:04Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 34901 | 18190| 
 | 20211126T13:24:51Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1334 | 237| 
 | 20211126T13:04:24Z | Contour machine on Fuzzy Logic cross coupling paper | https://github.com/amol-17/Fuzzy-logic-cross-coupling-controller | 0 | 0| 
 | 20211126T12:44:48Z | Null | https://github.com/agittm/fuzzy_sugeno_test | 0 | 0| 
-| 20211126T12:40:08Z | Null | https://github.com/gungnir479/fuzzJIT | 0 | 0| 
 | 20211126T12:15:23Z | Null | https://github.com/rafibu/fuzzy | 0 | 0| 
 | 20211126T12:02:02Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 35 | 13| 
 | 20211126T11:56:42Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2233 | 435| 
