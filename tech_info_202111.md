@@ -146,7 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211126T01:44:15Z | 模糊测试脚本 | https://github.com/lunaqueen/fuzzing | 0 | 0| 
+| 20211126T01:47:09Z | 模糊测试脚本 | https://github.com/lunaqueen/fuzzing | 0 | 0| 
 | 20211126T01:44:13Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 312 | 41| 
 | 20211126T01:30:57Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211126T00:12:44Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 1 | 2| 
