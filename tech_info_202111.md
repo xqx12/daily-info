@@ -91,7 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211126T02:32:04Z | Multi FW Support Exploit Host For PS4. | https://github.com/Harleythetech/MultiFW-RD-PS4 | 0 | 0| 
+| 20211126T02:33:44Z | Multi FW Support Exploit Host For PS4. | https://github.com/Harleythetech/MultiFW-RD-PS4 | 0 | 0| 
 | 20211126T02:11:46Z | How to use ipwndfu in iPhone 6 (not checkra1n)?. For exploit an iPhone 6 that has iOS 10 | https://github.com/CtG1thub/How-to-use-ipwndfu-in-iPhone-6-not-checkra1n- | 0 | 0| 
 | 20211126T02:03:37Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211126T01:54:49Z | Local PoC exploit for CVE-2021-43267 (Linux TIPC) | https://github.com/ohnonoyesyes/CVE-2021-43267 | 0 | 0| 
