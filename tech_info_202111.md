@@ -17,6 +17,7 @@
 | 20211125 | How to Detect Azure Active Directory Backdoors: Identity Federation | https://www.inversecos.com/2021/11/how-to-detect-azure-active-directory.html| 
 | 20211125 | Dharma - 基于语法文件生成 Fuzz 测试样本的工具 | https://sec.today/pulses/fb6ae116-16ea-4628-8e22-d43d0bafef9e/| 
 | 20211125 | Dharma - 基于语法文件生成 Fuzz 测试样本的工具 | http://blog.haboob.sa/blog/introduction-to-dharma-part-1| 
+| 20211125 | 浅析_IO_FILE攻击研究. | https://tttang.com/archive/1345/| 
 | 20211124 | Android 反汇编工具 jadx 更新 1.3.0 版本 | https://github.com/skylot/jadx/releases/tag/v1.3.0| 
 | 20211124 | Abusing Windows Server Update Services (WSUS) to Enable NTLM Relaying Attacks | https://www.gosecure.net/blog/2021/11/22/gosecure-investigates-abusing-windows-server-update-services-wsus-to-enable-ntlm-relaying-attacks/| 
 | 20211124 | Full key extraction of NVIDIA™ TSEC | https://gist.github.com/plutooo/733318dbb57166d203c10d12f6c24e06/| 
@@ -25,7 +26,6 @@
 | 20211124 | Sentinelone 总结的 macOS 系统企业安全指南 | https://www.sentinelone.com/wp-content/uploads/2021/11/The-Complete-Guide-to-Understanding-Apple-Mac-Security-for-Enterprise.pdf| 
 | 20211124 | API 网关 Apache APISIX request_uri 路径穿越漏洞分析（CVE-2021-43557） | https://xvnpw.github.io/posts/cve_2021_43557_apache_apisix_path_traversal_in_request_uri_variable/| 
 | 20211123 | 研究员 Man Yue Mo 对 Qualcomm NPU 内核驱动 UAF 漏洞的分析 | http://github.co/30BIuuO| 
-| 20211123 | How to fuzz the Linux kernel | http://hackmag.com/security/linux-fuzzing/| 
 
 
 # 安全维基 推荐
@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211125T13:18:35Z | CVE-2021-22205 | A CVE-2021-22205 Gitlab RCE POC written in Golang | https://github.com/pizza-power/Golang-CVE-2021-22205-POC | | 
-| 20211125T11:23:35Z | CVE-2021-21972 | CVE-2021-21972 Exploit | https://github.com/NS-Sp4ce/CVE-2021-21972 | | 
-| 20211125T09:56:14Z | CVE-2021-22205 | CVE-2021-22205 on Docker | https://github.com/ahmad4fifz/CVE-2021-22205 | | 
-| 20211125T09:55:28Z | CVE-2021-42013 | CVE-2021-41773 on Docker | https://github.com/ahmad4fifz/CVE-2021-42013 | | 
-| 20211125T09:54:45Z | CVE-2021-41773 | CVE-2021-41773 on Docker | https://github.com/ahmad4fifz/CVE-2021-41773 | | 
-| 20211125T09:32:49Z | cve-2021-42013 | cve-2021-42013.py is a python script that will help in finding Path Traversal or Remote Code Execution vulnerability in Apache 2.4.50 | https://github.com/walnutsecurity/cve-2021-42013 | | 
-| 20211125T09:32:45Z | cve-2021-41773 | cve-2021-41773.py is a python script that will help in finding Path Traversal or Remote Code Execution vulnerability in Apache 2.4.49 | https://github.com/walnutsecurity/cve-2021-41773 | | 
-| 20211125T06:14:26Z | CVE-2021-24086 | Null | https://github.com/lisinan988/CVE-2021-24086-exp | | 
-| 20211125T05:14:01Z | CVE-2020-0796 | Null | https://github.com/lisinan988/CVE-2020-0796-exp | | 
-| 20211125T05:13:19Z | CVE-2021-40444 | Null | https://github.com/lisinan988/CVE-2021-40444-exp | | 
+| 20211125T21:12:51Z | CVE-2021-41277 | PoC for CVE-2021-41277 | https://github.com/tahtaciburak/CVE-2021-41277 | | 
+| 20211125T21:11:16Z | CVE-2021-21972 | CVE-2021-21972 Exploit | https://github.com/NS-Sp4ce/CVE-2021-21972 | | 
+| 20211125T21:00:23Z | CVE-2021-22205 | A CVE-2021-22205 Gitlab RCE POC written in Golang | https://github.com/pizza-power/Golang-CVE-2021-22205-POC | | 
+| 20211125T16:26:54Z | CVE-2020-0074 | Null | https://github.com/Nivaskumark/CVE-2020-0074-frameworks_base | | 
+| 20211125T16:16:59Z | CVE-2020-0074 | Null | https://github.com/Nivaskumark/CVE-2020-0074-frameworks_base_old | | 
+| 20211125T16:02:17Z | CVE-2020-0097 | Null | https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base_after | | 
+| 20211125T15:47:04Z | CVE-2020-0097 | Null | https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base_before | | 
+| 20211125T15:17:47Z | CVE-2020-0114 | Null | https://github.com/Nivaskumark/CVE-2020-0114-frameworks_base | | 
+| 20211125T15:13:07Z | CVE-2020-0114 | Null | https://github.com/Nivaskumark/_beforeCVE-2020-0114-frameworks_base | | 
+| 20211125T15:00:12Z | CVE-2020-0133 | Null | https://github.com/Nivaskumark/CVE-2020-0133-packages_apps_Settings | | 
 
 
 # klee on Github 推荐
@@ -76,46 +76,46 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211124T17:25:32Z | Null | https://github.com/aesophor/requiem | 15 | 3| 
+| 20211125T20:19:07Z | Null | https://github.com/s2e-lab/s2e-lab.github.io | 0 | 0| 
+| 20211125T18:13:04Z | Null | https://github.com/aesophor/requiem | 15 | 3| 
+| 20211125T17:19:47Z | Null | https://github.com/yuvalkirstain/s2e-coref | 23 | 8| 
 | 20211124T13:17:32Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 187 | 39| 
 | 20211124T02:41:29Z | this branch is a solution to dma emulator | https://github.com/IoTS-P/s2e | 0 | 0| 
 | 20211123T23:24:18Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 78 | 31| 
-| 20211123T15:33:38Z | Null | https://github.com/yuvalkirstain/s2e-coref | 21 | 8| 
 | 20211120T05:53:34Z | Null | https://github.com/FISHzj/S2EB | 0 | 0| 
 | 20211116T20:55:05Z | jhirschm | https://github.com/jhirschm/S2E_PhotoinjectorLaserModel | 0 | 0| 
 | 20211116T09:52:52Z | Null | https://github.com/t0ry003/BAC-2009-S2E5 | 0 | 0| 
 | 20211114T20:18:26Z | Null | https://github.com/fttatar/malicious_call_seq_anaysis_using_s2e | 0 | 0| 
-| 20211112T05:18:21Z | Null | https://github.com/marcelocodigos/S2Encontro-Presencial-2 | 0 | 0| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211125T13:48:50Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1382 | 652| 
-| 20211125T13:48:07Z | Linux kernel exploit techniques. | https://github.com/anvbis/linux-kernel-exp | 0 | 0| 
-| 20211125T13:37:23Z | Powershell module for exploiting AD vulnerabilities. | https://github.com/dfirdeferred/AD-Exploit-Module | 0 | 0| 
-| 20211125T13:24:05Z | Null | https://github.com/niklas-truesec/NewtonSoftDeserializationExploit | 0 | 0| 
-| 20211125T13:03:10Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
-| 20211125T12:47:06Z | HEVD | https://github.com/ReJimp/Kernel_Exploit | 2 | 0| 
-| 20211125T12:45:38Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 15| 
-| 20211125T12:38:17Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10365 | 1786| 
-| 20211125T12:23:41Z | Exploits the Wii U%s bluetooth stack to gain IOSU kernel access via bluetooth. | https://github.com/GaryOderNichts/bluubomb | 66 | 1| 
-| 20211125T12:07:17Z | Vulnerabilities found along the way | https://github.com/hansmach1ne/MyExploits | 0 | 0| 
+| 20211126T00:57:52Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 244 | 77| 
+| 20211126T00:21:14Z | HEVD | https://github.com/ReJimp/Kernel_Exploit | 2 | 0| 
+| 20211126T00:04:10Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
+| 20211125T23:34:01Z | 7.5x Sleirsgoevy exploit | https://github.com/chronoss09/sleirsgoevy755 | 0 | 0| 
+| 20211125T23:08:13Z | a roblox exploit hub. | https://github.com/merdachu/Kick-hub | 0 | 0| 
+| 20211125T22:47:52Z | Detect deauthentication frames using an ESP8266 | https://github.com/SpacehuhnTech/DeauthDetector | 461 | 154| 
+| 20211125T22:44:48Z | This bash scripts will help you to hack remote hosts. You can choose and run one of them. | https://github.com/FabioDefilippo/linuxallremote | 30 | 5| 
+| 20211125T22:42:51Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 266 | 16| 
+| 20211125T22:37:15Z | A cheat sheet that contains common enumeration and attack methods for Windows Active Directory. | https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet | 2325 | 564| 
+| 20211125T21:53:32Z | A fast solution for recognising text from images from various languages using Tesseract and translating the text to english. exploiting the pre-trained models from Transformers. | https://github.com/eltzi/ocr_to_translation_demo | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211125T13:53:40Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 5872 | 1854| 
-| 20211125T13:48:50Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1382 | 652| 
+| 20211126T00:35:00Z | Null | https://github.com/samuelventura/nerves_backdoor | 0 | 0| 
+| 20211125T21:50:26Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1383 | 653| 
+| 20211125T20:58:04Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 52 | 15| 
+| 20211125T20:36:49Z | Simple remote administration tool | https://github.com/Monst3red/Backdoor | 0 | 2| 
+| 20211125T20:13:28Z | RemoteEvent%s & RemoteFunction%s Backdoor Scanner. Feel free to visit now. | https://github.com/jaackkiscool/Frickin-Serverside-Scanner-v1.2 | 3 | 0| 
+| 20211125T17:38:35Z | badcat is a tool I%ve made to learn `rust` and analyze anonymous backdoors | https://github.com/yanmarques/badcat | 0 | 0| 
+| 20211125T16:59:28Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 5871 | 1854| 
 | 20211125T08:56:36Z | Null | https://github.com/eigaditya/backdoor | 0 | 0| 
 | 20211125T07:22:39Z | Null | https://github.com/IHA-arch/python-backdoor | 0 | 0| 
 | 20211125T06:35:42Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 367 | 64| 
-| 20211125T05:52:06Z | Backdoor Hibernater | https://github.com/TDteach/BACH | 0 | 0| 
-| 20211124T19:33:47Z | Python AV Evasion Tools | https://github.com/G1ft3dC0d3/MsfMania | 262 | 58| 
-| 20211124T17:45:34Z | Keeping it simple - PHP backdoors. | https://github.com/F-Masood/php-backdoors | 0 | 0| 
-| 20211124T16:46:43Z | A TCP Backdoor made in python | https://github.com/ferreiraklet/Tracey-Backdoor | 9 | 0| 
-| 20211124T14:53:00Z | badcat is a tool I%ve made to learn `rust` and analyze anonymous backdoors | https://github.com/yanmarques/badcat | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -146,16 +146,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211125T13:51:20Z | Null | https://github.com/thanksgivingnewyork/fuzzy-waddle | 0 | 0| 
-| 20211125T13:47:14Z | Null | https://github.com/antonio-morales/Fuzzing101 | 705 | 68| 
-| 20211125T13:44:46Z | With this project, I want to make a blending between Persevere and taPCT. The idea is to find bugs in large amounts of concurrent threading instruction. For that we will first try and identify with this tool some known bugs from emac versions that were not yet corrected. We first model the system call as a set of events and then apply the taPCT algorithm. Later on, we can use fuzzing to give larger system call sequences to our probabilistic scheduling algorithm.  | https://github.com/Ricagraca/taPPCT | 0 | 0| 
-| 20211125T13:39:57Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6852 | 1432| 
-| 20211125T13:21:42Z | Null | https://github.com/protsaenko/myFuzz | 0 | 0| 
-| 20211125T13:02:08Z | Null | https://github.com/ChenZiHong-Gavin/graph-based-fuzz-test-for-dl-inference-engine | 0 | 0| 
-| 20211125T12:28:13Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 1084 | 194| 
-| 20211125T12:08:46Z | Modular, structure-aware, and feedback-driven fuzzing engine for Rust functions | https://github.com/loiclec/fuzzcheck-rs | 297 | 9| 
-| 20211125T12:02:12Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 35 | 12| 
-| 20211125T11:59:45Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2232 | 435| 
+| 20211126T00:12:44Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 1 | 2| 
+| 20211126T00:11:11Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 35 | 13| 
+| 20211125T22:52:01Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 312 | 41| 
+| 20211125T22:40:55Z | Esse repositório é onde irei colocar meu código mais simples, maioria foi feito durante o curso técnico, mas alguns, foram feitos para treinar mesmo! :) | https://github.com/Guiermis/fuzzy-waddle | 0 | 0| 
+| 20211125T22:35:16Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20211125T22:10:46Z | Code to implement Fuzzy Matching (index and retrieval) using Java Lucene | https://github.com/jmcrego/FuzzyMatchingWithLucene | 0 | 0| 
+| 20211125T21:03:39Z | Collection of zone file stanzas containing dodgy HTTPS RR values, to help with fuzz testing ECH | https://github.com/sftcd/echdnsfuzz | 0 | 0| 
+| 20211125T20:49:21Z | лабы по нечеткой логике | https://github.com/danilden1/mag_fuzzy | 0 | 0| 
+| 20211125T20:40:40Z | 🤖 Repeat tests. Repeat tests. Repeat tests. | https://github.com/ehmicky/test-each | 96 | 2| 
+| 20211125T20:27:36Z | Null | https://github.com/Shoa29/fuzzy-logic-cross-coupling-control-system | 0 | 0| 
 
 
 
