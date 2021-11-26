@@ -41,7 +41,7 @@
 | 20211125T15:47:04Z | CVE-2020-0097 | Null | https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base_before | | 
 | 20211125T15:17:47Z | CVE-2020-0114 | Null | https://github.com/Nivaskumark/CVE-2020-0114-frameworks_base | | 
 | 20211125T15:13:07Z | CVE-2020-0114 | Null | https://github.com/Nivaskumark/_beforeCVE-2020-0114-frameworks_base | | 
-| 20211125T15:00:12Z | CVE-2020-0133 | Null | https://github.com/Nivaskumark/CVE-2020-0133-packages_apps_Settings | | 
+| 20211125T14:48:51Z | CVE-2020-0133 | Null | https://github.com/Nivaskumark/CVE-2020-0133-packages_apps_Settings_nopatch | | 
 
 
 # klee on Github 推荐

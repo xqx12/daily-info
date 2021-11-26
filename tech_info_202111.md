@@ -46,6 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211126T01:29:58Z | CVE-2020-0133 | Null | https://github.com/Nivaskumark/CVE-2020-0133-packages_apps_Settings | | 
+| 20211126T01:29:39Z | CVE-2020-0133 | Null | https://github.com/Nivaskumark/CVE-2020-0133-packages_apps_Sett | | 
 | 20211125T21:12:51Z | CVE-2021-41277 | PoC for CVE-2021-41277 | https://github.com/tahtaciburak/CVE-2021-41277 | | 
 | 20211125T21:11:16Z | CVE-2021-21972 | CVE-2021-21972 Exploit | https://github.com/NS-Sp4ce/CVE-2021-21972 | | 
 | 20211125T21:00:23Z | CVE-2021-22205 | A CVE-2021-22205 Gitlab RCE POC written in Golang | https://github.com/pizza-power/Golang-CVE-2021-22205-POC | | 
@@ -54,8 +56,6 @@
 | 20211125T16:02:17Z | CVE-2020-0097 | Null | https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base_after | | 
 | 20211125T15:47:04Z | CVE-2020-0097 | Null | https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base_before | | 
 | 20211125T15:17:47Z | CVE-2020-0114 | Null | https://github.com/Nivaskumark/CVE-2020-0114-frameworks_base | | 
-| 20211125T15:13:07Z | CVE-2020-0114 | Null | https://github.com/Nivaskumark/_beforeCVE-2020-0114-frameworks_base | | 
-| 20211125T15:00:12Z | CVE-2020-0133 | Null | https://github.com/Nivaskumark/CVE-2020-0133-packages_apps_Settings | | 
 
 
 # klee on Github 推荐
