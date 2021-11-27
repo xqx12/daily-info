@@ -64,12 +64,12 @@
 | 20211126T23:22:10Z | An exploit and demonstration on how to exploit a Client Side Stored XSS vulnerability in https://anonstress.com. | https://github.com/0x1CA3/AnonStress-Server-Side-Stored-XSS-Exploit | 3 | 0| 
 | 20211126T23:10:15Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 254 | 11| 
 | 20211126T23:07:23Z | Null | https://github.com/joeengo/exploiting | 0 | 0| 
-| 20211126T23:02:42Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 248 | 77| 
 | 20211126T23:02:25Z | Written exploits by me | https://github.com/kryptohaker/exploits | 0 | 0| 
 | 20211126T22:43:43Z | Rage allows you to execute any file in a Microsoft Office document. | https://github.com/billythegoat356/Rage | 37 | 2| 
 | 20211126T22:36:25Z | Automatic Return Oriented Programming exploit generator | https://github.com/JDBryan/ROPSlap | 0 | 0| 
 | 20211126T22:30:49Z | Sourcemod plugin for No More Room in Hell that fixes an exploit allowing players to use chainsaws without consuming fuel. | https://github.com/dysphie/nmrih-infinite-fuel-fix | 0 | 0| 
 | 20211126T21:43:02Z | Tool able to check the security level of a router. Check if the router is vulnerable to DNS rebinding and if there are any known CVEs or exploits. | https://github.com/peace27-96/Router-Vulnerability-Scan-Tool | 0 | 0| 
+| 20211126T21:41:13Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 1913 | 299| 
 
 
 # backdoor on Github 推荐
