@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211127T01:27:12Z | CVE-2021-24084 | Windows MDM LPE | https://github.com/ohnonoyesyes/CVE-2021-24084 | | 
 | 20211127T01:03:14Z | CVE-2021-20837 | Unauthenticated RCE In MovableType | https://github.com/ohnonoyesyes/CVE-2021-20837 | | 
-| 20211127T00:38:36Z | CVE-2021-24084 | Windows MDM LPE | https://github.com/ohnonoyesyes/CVE-2021-24084 | | 
 | 20211126T21:38:08Z | CVE-2021-21042 | Null | https://github.com/r1l4-i3pur1l4/CVE-2021-21042 | | 
 | 20211126T20:24:14Z | CVE-2021-27651 | Pega Infinity Password Reset | https://github.com/Vulnmachines/CVE-2021-27651 | | 
 | 20211126T20:23:33Z | cve-2021-42013 | Apache 2.4.50 Path traversal vulnerability | https://github.com/Vulnmachines/cve-2021-42013 | | 
@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211127T01:26:31Z | a roblox exploit hub. | https://github.com/merdachu/Kick-hub | 0 | 0| 
 | 20211127T01:11:40Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 249 | 77| 
 | 20211127T01:03:14Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211127T01:02:32Z | [Roblox] Downtown RP ESP (Gun Crates, Printers) -- genta | https://github.com/subn0de/Roblox_Exploits | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20211126T23:22:10Z | An exploit and demonstration on how to exploit a Client Side Stored XSS vulnerability in https://anonstress.com. | https://github.com/0x1CA3/AnonStress-Server-Side-Stored-XSS-Exploit | 3 | 0| 
 | 20211126T23:10:15Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 254 | 11| 
 | 20211126T23:07:23Z | Null | https://github.com/joeengo/exploiting | 0 | 0| 
-| 20211126T23:02:25Z | Written exploits by me | https://github.com/kryptohaker/exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
