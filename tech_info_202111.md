@@ -148,8 +148,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211127T01:56:56Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2238 | 437| 
 | 20211127T01:53:04Z | Collection of zone file stanzas containing dodgy HTTPS RR values, to help with fuzz testing ECH | https://github.com/sftcd/echdnsfuzz | 0 | 0| 
-| 20211127T01:35:41Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2237 | 437| 
 | 20211127T00:35:08Z | Simple fuzzing tool designed for multi-threaded operation and for testing execution time.  | https://github.com/amitjain-3/twoFuzzingLong | 0 | 0| 
 | 20211126T23:58:53Z | Fast fuzzy search utility | https://github.com/EthanRutherford/fast-fuzzy | 34 | 4| 
 | 20211126T23:53:39Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 11 | 1| 
