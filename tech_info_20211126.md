@@ -107,7 +107,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211126T23:58:53Z | Fast fuzzy search utility | https://github.com/EthanRutherford/fast-fuzzy | 34 | 4| 
 | 20211126T23:53:39Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 11 | 1| 
 | 20211126T23:34:08Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211126T23:11:45Z | gRPC Go course | https://github.com/hsmtkk/fuzzy-eureka | 0 | 0| 
@@ -117,6 +116,7 @@
 | 20211126T22:26:21Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6860 | 1434| 
 | 20211126T22:17:54Z | bash script to run from installation media to setup gentoo automagically | https://github.com/fjp321/fuzzy-goggles | 0 | 0| 
 | 20211126T21:56:15Z | Null | https://github.com/runitup81/fuzzy-garbanzo | 0 | 0| 
+| 20211126T21:53:11Z | :books: Test data for fuzzing | https://github.com/neomutt/corpus-address | 1 | 0| 
 
 
 
