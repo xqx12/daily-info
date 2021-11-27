@@ -148,8 +148,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211127T02:34:49Z | A fuzz-testing tool which simulate hacker attack to find potential vulnerabilities of a xampp hosted server. | https://github.com/ENCI123/fuzzer | 0 | 0| 
-| 20211127T02:30:47Z | Collection of zone file stanzas containing dodgy HTTPS RR values, to help with fuzz testing ECH | https://github.com/sftcd/echdnsfuzz | 0 | 0| 
+| 20211127T02:38:39Z | A fuzz-testing tool which simulate hacker attack to find potential vulnerabilities of a xampp hosted server. | https://github.com/ENCI123/fuzzer | 0 | 0| 
+| 20211127T02:38:13Z | Collection of zone file stanzas containing dodgy HTTPS RR values, to help with fuzz testing ECH | https://github.com/sftcd/echdnsfuzz | 0 | 0| 
 | 20211127T02:22:35Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2240 | 437| 
 | 20211127T02:16:10Z | Fast fuzzy search utility | https://github.com/EthanRutherford/fast-fuzzy | 34 | 4| 
 | 20211127T00:35:08Z | Simple fuzzing tool designed for multi-threaded operation and for testing execution time.  | https://github.com/amitjain-3/twoFuzzingLong | 0 | 0| 
