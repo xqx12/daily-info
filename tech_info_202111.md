@@ -148,6 +148,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211127T13:09:40Z | testing fresh2o app | https://github.com/Asphandyar/fuzzy-waffle | 0 | 0| 
 | 20211127T13:03:20Z | :books: Test data for fuzzing | https://github.com/neomutt/corpus-address | 1 | 0| 
 | 20211127T12:55:13Z | Null | https://github.com/gungnir479/fuzzJIT | 0 | 0| 
 | 20211127T12:44:57Z | Null | https://github.com/sabbir-ahmed16/neural-and-fuzzy-sessional | 0 | 0| 
@@ -157,7 +158,6 @@
 | 20211127T12:02:06Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 35 | 13| 
 | 20211127T10:52:21Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 1 | 2| 
 | 20211127T10:37:56Z | Fuzzing with the generated argument | https://github.com/a4865g/WuLearn-fuzz | 6 | 1| 
-| 20211127T09:34:53Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 
 
 
