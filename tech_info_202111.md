@@ -148,13 +148,13 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211127T13:03:20Z | :books: Test data for fuzzing | https://github.com/neomutt/corpus-address | 1 | 0| 
 | 20211127T12:55:13Z | Null | https://github.com/gungnir479/fuzzJIT | 0 | 0| 
 | 20211127T12:44:57Z | Null | https://github.com/sabbir-ahmed16/neural-and-fuzzy-sessional | 0 | 0| 
 | 20211127T12:32:19Z | Null | https://github.com/driztea/furr_fuzz2 | 0 | 0| 
 | 20211127T12:25:50Z | Null | https://github.com/adiratnaa/Program-Fuzzy | 0 | 0| 
 | 20211127T12:15:38Z | Custom assertion to check whether a JSON string fuzzily matches a pattern for JVM languages. | https://github.com/orangain/json-fuzzy-match | 2 | 0| 
 | 20211127T12:02:06Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 35 | 13| 
-| 20211127T11:37:23Z | :books: Test data for fuzzing | https://github.com/neomutt/corpus-address | 1 | 0| 
 | 20211127T10:52:21Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 1 | 2| 
 | 20211127T10:37:56Z | Fuzzing with the generated argument | https://github.com/a4865g/WuLearn-fuzz | 6 | 1| 
 | 20211127T09:34:53Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
