@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211127T13:15:17Z | The purpose of this script is to automate the web enumeration process and search for exploits | https://github.com/V1n1v131r4/webdiscover | 82 | 12| 
 | 20211127T13:14:40Z | To-Do | https://github.com/Lescovar420/SABA-EXPLOIT-FPSE | 0 | 1| 
 | 20211127T13:03:17Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211127T12:58:11Z | Codes from Hacking: The Art of Exploitation book. By Jon Erickson. | https://github.com/edupazzz/Hacking-The-Art-of-Exploitation-Book | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20211127T12:39:04Z | Collection Of Discord Hacking Tools / Fun Stuff / Exploits That Is Completely Made Using Python. | https://github.com/PndaBoi/Venom | 2 | 2| 
 | 20211127T12:34:50Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 103 | 37| 
 | 20211127T12:15:18Z | Firmware patcher for Xiaomi routers | https://github.com/openwrt-xiaomi/xmir-patcher | 4 | 0| 
-| 20211127T12:04:44Z | This exploit allows you to hide messages inside other messages ( Like links ) | https://github.com/MattOverthrow/MessageMasker | 3 | 0| 
 
 
 # backdoor on Github 推荐
