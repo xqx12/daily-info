@@ -91,6 +91,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211127T01:54:20Z | com media exploiter  | https://github.com/elv1n4/elv1n4-com-media-exploiter | 0 | 0| 
+| 20211127T01:52:56Z | com media exploiter | https://github.com/elv1n4/elvina | 0 | 0| 
 | 20211127T01:42:01Z | a roblox exploit hub. | https://github.com/merdachu/Kick-hub | 0 | 0| 
 | 20211127T01:36:48Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 359 | 55| 
 | 20211127T01:32:07Z | Useful scripts to exploit Hack The Box retired machines/challenges | https://github.com/7Rocky/HackTheBox-scripts | 0 | 0| 
@@ -99,8 +101,6 @@
 | 20211127T01:02:32Z | [Roblox] Downtown RP ESP (Gun Crates, Printers) -- genta | https://github.com/subn0de/Roblox_Exploits | 0 | 0| 
 | 20211127T00:45:38Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 15| 
 | 20211127T00:13:54Z | Exploit kits (or exploit packs) are automated programs used by attackers to exploit known vulnerabilities in systems or applications. | https://github.com/Mario-Kart-Felix/Build-exploits-packages | 0 | 0| 
-| 20211126T23:24:06Z | A new API that can power WPF and Winform Roblox Exploits for free and no built in key system (Key System Built in means : a API has a key system built into the code like KrnlAPI or Oxygen U API) | https://github.com/ausu-u/FurkAPI | 1 | 0| 
-| 20211126T23:22:10Z | An exploit and demonstration on how to exploit a Client Side Stored XSS vulnerability in https://anonstress.com. | https://github.com/0x1CA3/AnonStress-Server-Side-Stored-XSS-Exploit | 3 | 0| 
 
 
 # backdoor on Github 推荐
