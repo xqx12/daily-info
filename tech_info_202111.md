@@ -91,7 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211127T01:54:20Z | com media exploiter  | https://github.com/elv1n4/elv1n4-com-media-exploiter | 0 | 0| 
+| 20211127T01:56:44Z | com media exploiter  | https://github.com/elv1n4/elv1n4-com-media-exploiter | 0 | 0| 
 | 20211127T01:52:56Z | com media exploiter | https://github.com/elv1n4/elvina | 0 | 0| 
 | 20211127T01:42:01Z | a roblox exploit hub. | https://github.com/merdachu/Kick-hub | 0 | 0| 
 | 20211127T01:36:48Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 359 | 55| 
