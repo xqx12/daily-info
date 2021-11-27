@@ -91,16 +91,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211127T13:41:52Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 103 | 37| 
+| 20211127T13:56:20Z | Malicious program or malware is an intentionally written program to indulge in various malicious activities, ranging from user’s information stealing to cyber-espionage. The behavioral dynamism exposed by the malware is dependent on various factors such as, nature of the attack, sophisticated technology and the rapid increase in exploitable vulnerabilities. Malware attacks also increased along with the rapid growth in the use of digital devices and the internet. The exponential increase in the creation of new malware in the last five years, made malware detection as a challenging research issue. Problem Statement Malware is one of the top most obstructions for expansion and growth of digital acceptance among the users. Both enterprises and common users are struggling to get protected from the malware in cyberspace, which emphasizes the importance of developing efficient methods of malware detection. Malware detection is the technique for identifying malware in the end devices or networks. | https://github.com/197R1A0520/malware-detection-project | 0 | 0| 
+| 20211127T13:55:05Z | To-Do | https://github.com/Lescovar420/SABA-EXPLOIT-FPSE | 0 | 1| 
+| 20211127T13:53:30Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 103 | 37| 
 | 20211127T13:41:36Z | proxylogon, proxyshell, proxyoracle full chain exploit tool | https://github.com/FDlucifer/Proxy-Attackchain | 1 | 0| 
 | 20211127T13:33:33Z | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | 21 | 3| 
 | 20211127T13:15:17Z | The purpose of this script is to automate the web enumeration process and search for exploits | https://github.com/V1n1v131r4/webdiscover | 82 | 12| 
-| 20211127T13:14:40Z | To-Do | https://github.com/Lescovar420/SABA-EXPLOIT-FPSE | 0 | 1| 
 | 20211127T13:03:17Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211127T12:58:11Z | Codes from Hacking: The Art of Exploitation book. By Jon Erickson. | https://github.com/edupazzz/Hacking-The-Art-of-Exploitation-Book | 0 | 0| 
 | 20211127T12:50:56Z | Null | https://github.com/joeengo/exploiting | 0 | 0| 
 | 20211127T12:45:38Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 15| 
-| 20211127T12:41:38Z | CTFs and solutions for Linux binary exploitation. | https://github.com/MaherAzzouzi/LinuxExploitation | 60 | 18| 
 
 
 # backdoor on Github 推荐
