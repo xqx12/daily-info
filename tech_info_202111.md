@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211127T01:03:14Z | CVE-2021-20837 | Unauthenticated RCE In MovableType | https://github.com/ohnonoyesyes/CVE-2021-20837 | | 
 | 20211127T00:38:36Z | CVE-2021-24084 | Windows MDM LPE | https://github.com/ohnonoyesyes/CVE-2021-24084 | | 
 | 20211126T21:38:08Z | CVE-2021-21042 | Null | https://github.com/r1l4-i3pur1l4/CVE-2021-21042 | | 
 | 20211126T20:24:14Z | CVE-2021-27651 | Pega Infinity Password Reset | https://github.com/Vulnmachines/CVE-2021-27651 | | 
@@ -55,7 +56,6 @@
 | 20211126T20:20:41Z | CVE-2021-41277 | Null | https://github.com/Vulnmachines/Metabase_CVE-2021-41277 | | 
 | 20211126T18:51:26Z | CVE-2021-43267 | Local PoC exploit for CVE-2021-43267 (Linux TIPC) | https://github.com/ohnonoyesyes/CVE-2021-43267 | | 
 | 20211126T18:12:45Z | CVE-2020-7247 | Proof of concept for CVE-2020-7247 for educational purposes. | https://github.com/SimonSchoeni/CVE-2020-7247-POC | | 
-| 20211126T13:06:23Z | CVE-2020-0114 | Null | https://github.com/Nivaskumark/CVE-2020-0114-frameworks_base | | 
 
 
 # klee on Github 推荐
@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211127T01:02:32Z | [Roblox] Downtown RP ESP (Gun Crates, Printers) -- genta | https://github.com/subn0de/Roblox_Exploits | 0 | 0| 
 | 20211127T00:45:38Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 15| 
 | 20211127T00:13:54Z | Exploit kits (or exploit packs) are automated programs used by attackers to exploit known vulnerabilities in systems or applications. | https://github.com/Mario-Kart-Felix/Build-exploits-packages | 0 | 0| 
 | 20211127T00:03:56Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
@@ -100,7 +101,6 @@
 | 20211126T23:07:23Z | Null | https://github.com/joeengo/exploiting | 0 | 0| 
 | 20211126T23:02:42Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 248 | 77| 
 | 20211126T23:02:25Z | Written exploits by me | https://github.com/kryptohaker/exploits | 0 | 0| 
-| 20211126T22:43:43Z | Rage allows you to execute any file in a Microsoft Office document. | https://github.com/billythegoat356/Rage | 37 | 2| 
 
 
 # backdoor on Github 推荐
@@ -121,16 +121,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211126T23:53:24Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2564 | 380| 
+| 20211126T22:01:12Z | Angora is a mutation-based fuzzer.  The main goal of Angora is to increase branch coverage by solving path constraints without symbolic execution.  | https://github.com/AngoraFuzzer/Angora | 729 | 135| 
+| 20211126T16:05:04Z | 自动化测试工具复现Test_Generation3 | https://github.com/pwh-sir/Symbolic-Execution-Based-on-ASM | 0 | 0| 
+| 20211126T14:46:25Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1829 | 522| 
 | 20211126T13:40:25Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 18 | 5| 
-| 20211126T09:21:26Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2563 | 380| 
-| 20211126T07:01:50Z | Angora is a mutation-based fuzzer.  The main goal of Angora is to increase branch coverage by solving path constraints without symbolic execution.  | https://github.com/AngoraFuzzer/Angora | 728 | 135| 
 | 20211125T16:43:35Z | An example of how we used manticore for symbolic execution on klade solidity smart contracts  | https://github.com/AlbertSu123/Manticore | 0 | 0| 
-| 20211125T13:31:33Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1828 | 522| 
 | 20211125T12:58:00Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 174 | 10| 
 | 20211125T09:04:01Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1926 | 402| 
 | 20211125T07:57:18Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 10 | 4| 
 | 20211124T18:05:56Z | Binsec/Rel is an extension of Binsec that implements relational symbolic execution for constant-time verification and secret-erasure at binary-level. | https://github.com/binsec/Rel | 24 | 1| 
-| 20211124T16:30:58Z | Symbolic executor for the Move programming language. | https://github.com/fEst1ck/move-symbolic-execution | 0 | 0| 
 
 
 # big4 on Github 推荐
