@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211127T08:32:22Z | CVE-2021-43267 | Local PoC exploit for CVE-2021-43267 (Linux TIPC) | https://github.com/ohnonoyesyes/CVE-2021-43267 | | 
 | 20211127T01:27:12Z | CVE-2021-24084 | Windows MDM LPE | https://github.com/ohnonoyesyes/CVE-2021-24084 | | 
 | 20211127T01:03:14Z | CVE-2021-20837 | Unauthenticated RCE In MovableType | https://github.com/ohnonoyesyes/CVE-2021-20837 | | 
 | 20211126T21:38:08Z | CVE-2021-21042 | Null | https://github.com/r1l4-i3pur1l4/CVE-2021-21042 | | 
@@ -54,16 +55,15 @@
 | 20211126T20:23:14Z | cve-2021-41773 | CVE-2021-41773 Path Traversal vulnerability in Apache 2.4.49. | https://github.com/Vulnmachines/cve-2021-41773 | | 
 | 20211126T20:22:57Z | CVE-2021-21975 | VMWare-CVE-2021-21975 SSRF vulnerability | https://github.com/Vulnmachines/VMWare-CVE-2021-21975 | | 
 | 20211126T20:20:41Z | CVE-2021-41277 | Null | https://github.com/Vulnmachines/Metabase_CVE-2021-41277 | | 
-| 20211126T18:51:26Z | CVE-2021-43267 | Local PoC exploit for CVE-2021-43267 (Linux TIPC) | https://github.com/ohnonoyesyes/CVE-2021-43267 | | 
 | 20211126T18:12:45Z | CVE-2020-7247 | Proof of concept for CVE-2020-7247 for educational purposes. | https://github.com/SimonSchoeni/CVE-2020-7247-POC | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211127T06:49:31Z | klee+nme for user space aeg | https://github.com/jqhong/klee-nme-aeg | 1 | 0| 
 | 20211126T22:37:29Z | Null | https://github.com/Mq0509/YoRPG_Kleemex | 0 | 0| 
 | 20211126T14:46:25Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1829 | 522| 
-| 20211126T12:23:55Z | klee+nme for user space aeg | https://github.com/jqhong/klee-nme-aeg | 1 | 0| 
 | 20211126T07:41:02Z | Null | https://github.com/wpkong/KleeAdventure | 0 | 0| 
 | 20211124T16:41:12Z | Research paper On The Termination of Borrow Checking for Rust and a web application, CLI application and VSCode extension for running static analysis of rust-based smart contracts with a ready-to-be-verified project example. | https://github.com/LedgerProject/safepkt | 0 | 1| 
 | 20211124T16:20:20Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 219 | 36| 
@@ -76,8 +76,8 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211127T07:17:14Z | Null | https://github.com/aesophor/requiem | 15 | 3| 
 | 20211125T20:19:07Z | Null | https://github.com/s2e-lab/s2e-lab.github.io | 0 | 0| 
-| 20211125T18:13:04Z | Null | https://github.com/aesophor/requiem | 15 | 3| 
 | 20211125T17:19:47Z | Null | https://github.com/yuvalkirstain/s2e-coref | 23 | 8| 
 | 20211124T13:17:32Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 187 | 39| 
 | 20211124T02:41:29Z | this branch is a solution to dma emulator | https://github.com/IoTS-P/s2e | 0 | 0| 
@@ -91,31 +91,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211127T02:09:41Z | [Roblox] Downtown RP ESP (Gun Crates, Printers) -- genta | https://github.com/subn0de/Roblox_Exploits | 0 | 0| 
-| 20211127T02:07:15Z | a roblox exploit hub. | https://github.com/merdachu/Kick-hub | 0 | 0| 
-| 20211127T02:03:25Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
-| 20211127T01:56:44Z | com media exploiter  | https://github.com/elv1n4/elv1n4-com-media-exploiter | 0 | 0| 
-| 20211127T01:52:56Z | com media exploiter | https://github.com/elv1n4/elvina | 0 | 0| 
-| 20211127T01:36:48Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 359 | 55| 
-| 20211127T01:32:07Z | Useful scripts to exploit Hack The Box retired machines/challenges | https://github.com/7Rocky/HackTheBox-scripts | 0 | 0| 
-| 20211127T01:11:40Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 249 | 77| 
-| 20211127T00:45:38Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 15| 
-| 20211127T00:13:54Z | Exploit kits (or exploit packs) are automated programs used by attackers to exploit known vulnerabilities in systems or applications. | https://github.com/Mario-Kart-Felix/Build-exploits-packages | 0 | 0| 
+| 20211127T12:58:11Z | Codes from Hacking: The Art of Exploitation book. By Jon Erickson. | https://github.com/edupazzz/Hacking-The-Art-of-Exploitation-Book | 0 | 0| 
+| 20211127T12:57:16Z | To-Do | https://github.com/Lescovar420/SABA-EXPLOIT-FPSE | 0 | 1| 
+| 20211127T12:50:56Z | Null | https://github.com/joeengo/exploiting | 0 | 0| 
+| 20211127T12:45:38Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 15| 
+| 20211127T12:41:38Z | CTFs and solutions for Linux binary exploitation. | https://github.com/MaherAzzouzi/LinuxExploitation | 60 | 18| 
+| 20211127T12:39:04Z | Collection Of Discord Hacking Tools / Fun Stuff / Exploits That Is Completely Made Using Python. | https://github.com/PndaBoi/Venom | 2 | 2| 
+| 20211127T12:34:50Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 103 | 37| 
+| 20211127T12:15:18Z | Firmware patcher for Xiaomi routers | https://github.com/openwrt-xiaomi/xmir-patcher | 4 | 0| 
+| 20211127T12:04:44Z | This exploit allows you to hide messages inside other messages ( Like links ) | https://github.com/MattOverthrow/MessageMasker | 3 | 0| 
+| 20211127T12:04:03Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211127T12:34:45Z | RemoteEvent%s & RemoteFunction%s Backdoor Scanner. Feel free to visit now. | https://github.com/jaackkiscool/Frickin-Serverside-Scanner-v1.2 | 3 | 0| 
+| 20211127T12:20:23Z | Remote Access Trojan (RAT) | https://github.com/zarkones/damn-simple-rat | 2 | 0| 
+| 20211127T12:06:07Z | The insane hackerman backdoor. | https://github.com/Bakdooro/Bakdooro | 10 | 2| 
+| 20211127T07:15:08Z | A quick script to spot the usage of Unicode Bidi (bidirectional) characters that could lead to an Invisible Backdoor | https://github.com/cybersecsi/invisible-backdoor-detector | 6 | 0| 
+| 20211127T06:20:22Z | Python AV Evasion Tools | https://github.com/G1ft3dC0d3/MsfMania | 265 | 58| 
+| 20211127T03:14:54Z | Code for paper %FIBA: Frequency-Injection based Backdoor Attack in Medical Image Analysis% | https://github.com/HazardFY/FIBA | 0 | 0| 
 | 20211126T23:25:26Z | Neural Architecture Backdoor | https://github.com/alps-lab/nab | 0 | 0| 
-| 20211126T21:12:22Z | Python AV Evasion Tools | https://github.com/G1ft3dC0d3/MsfMania | 264 | 58| 
-| 20211126T18:09:48Z | A quick script to spot the usage of Unicode Bidi (bidirectional) characters that could lead to an Invisible Backdoor | https://github.com/cybersecsi/invisible-backdoor-detector | 5 | 0| 
 | 20211126T16:56:50Z | Backdoor Hibernater | https://github.com/TDteach/BACH | 0 | 0| 
 | 20211126T15:16:31Z | badcat is a tool I%ve made to learn `rust` and analyze anonymous backdoors | https://github.com/yanmarques/badcat | 0 | 0| 
 | 20211126T13:28:35Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1384 | 654| 
-| 20211126T13:18:12Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 5875 | 1856| 
-| 20211126T10:19:24Z | Get Backdoor access to a windows pc | https://github.com/emilpro2008/Backdoor-Virus | 0 | 0| 
-| 20211126T10:18:00Z | Remote control software, supported Windows/Unix/MacOS/Linux(x86/x64/mips/arm) | https://github.com/h1zzz/purewater | 5 | 0| 
-| 20211126T09:08:47Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 368 | 64| 
 
 
 # symbolic execution on Github 推荐
@@ -148,16 +148,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211127T02:50:11Z | Config files for my GitHub profile. | https://github.com/Fuzzypants27/Fuzzypants27 | 0 | 0| 
-| 20211127T02:38:39Z | A fuzz-testing tool which simulate hacker attack to find potential vulnerabilities of a xampp hosted server. | https://github.com/ENCI123/fuzzer | 0 | 0| 
-| 20211127T02:38:13Z | Collection of zone file stanzas containing dodgy HTTPS RR values, to help with fuzz testing ECH | https://github.com/sftcd/echdnsfuzz | 0 | 0| 
-| 20211127T02:22:35Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2240 | 437| 
-| 20211127T02:16:10Z | Fast fuzzy search utility | https://github.com/EthanRutherford/fast-fuzzy | 34 | 4| 
-| 20211127T00:35:08Z | Simple fuzzing tool designed for multi-threaded operation and for testing execution time.  | https://github.com/amitjain-3/twoFuzzingLong | 0 | 0| 
-| 20211126T23:53:39Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 11 | 1| 
-| 20211126T23:34:08Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20211126T23:11:45Z | gRPC Go course | https://github.com/hsmtkk/fuzzy-eureka | 0 | 0| 
-| 20211126T22:49:56Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 374 | 87| 
+| 20211127T12:55:13Z | Null | https://github.com/gungnir479/fuzzJIT | 0 | 0| 
+| 20211127T12:44:57Z | Null | https://github.com/sabbir-ahmed16/neural-and-fuzzy-sessional | 0 | 0| 
+| 20211127T12:32:19Z | Null | https://github.com/driztea/furr_fuzz2 | 0 | 0| 
+| 20211127T12:25:50Z | Null | https://github.com/adiratnaa/Program-Fuzzy | 0 | 0| 
+| 20211127T12:15:38Z | Custom assertion to check whether a JSON string fuzzily matches a pattern for JVM languages. | https://github.com/orangain/json-fuzzy-match | 2 | 0| 
+| 20211127T12:02:06Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 35 | 13| 
+| 20211127T11:37:23Z | :books: Test data for fuzzing | https://github.com/neomutt/corpus-address | 1 | 0| 
+| 20211127T10:52:21Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 1 | 2| 
+| 20211127T10:37:56Z | Fuzzing with the generated argument | https://github.com/a4865g/WuLearn-fuzz | 6 | 1| 
+| 20211127T09:34:53Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 
 
 
