@@ -91,6 +91,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211127T01:36:48Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 359 | 55| 
+| 20211127T01:32:07Z | Useful scripts to exploit Hack The Box retired machines/challenges | https://github.com/7Rocky/HackTheBox-scripts | 0 | 0| 
 | 20211127T01:26:31Z | a roblox exploit hub. | https://github.com/merdachu/Kick-hub | 0 | 0| 
 | 20211127T01:11:40Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 249 | 77| 
 | 20211127T01:03:14Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
@@ -99,8 +101,6 @@
 | 20211127T00:13:54Z | Exploit kits (or exploit packs) are automated programs used by attackers to exploit known vulnerabilities in systems or applications. | https://github.com/Mario-Kart-Felix/Build-exploits-packages | 0 | 0| 
 | 20211126T23:24:06Z | A new API that can power WPF and Winform Roblox Exploits for free and no built in key system (Key System Built in means : a API has a key system built into the code like KrnlAPI or Oxygen U API) | https://github.com/ausu-u/FurkAPI | 1 | 0| 
 | 20211126T23:22:10Z | An exploit and demonstration on how to exploit a Client Side Stored XSS vulnerability in https://anonstress.com. | https://github.com/0x1CA3/AnonStress-Server-Side-Stored-XSS-Exploit | 3 | 0| 
-| 20211126T23:10:15Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 254 | 11| 
-| 20211126T23:07:23Z | Null | https://github.com/joeengo/exploiting | 0 | 0| 
 
 
 # backdoor on Github 推荐
