@@ -31,21 +31,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211126T21:38:08Z | CVE-2021-21042 | Null | https://github.com/r1l4-i3pur1l4/CVE-2021-21042 | | 
+| 20211126T20:24:14Z | CVE-2021-27651 | Pega Infinity Password Reset | https://github.com/Vulnmachines/CVE-2021-27651 | | 
+| 20211126T20:23:33Z | cve-2021-42013 | Apache 2.4.50 Path traversal vulnerability | https://github.com/Vulnmachines/cve-2021-42013 | | 
+| 20211126T20:23:14Z | cve-2021-41773 | CVE-2021-41773 Path Traversal vulnerability in Apache 2.4.49. | https://github.com/Vulnmachines/cve-2021-41773 | | 
+| 20211126T20:22:57Z | CVE-2021-21975 | VMWare-CVE-2021-21975 SSRF vulnerability | https://github.com/Vulnmachines/VMWare-CVE-2021-21975 | | 
+| 20211126T20:20:41Z | CVE-2021-41277 | Null | https://github.com/Vulnmachines/Metabase_CVE-2021-41277 | | 
+| 20211126T18:51:26Z | CVE-2021-43267 | Local PoC exploit for CVE-2021-43267 (Linux TIPC) | https://github.com/ohnonoyesyes/CVE-2021-43267 | | 
+| 20211126T18:12:45Z | CVE-2020-7247 | Proof of concept for CVE-2020-7247 for educational purposes. | https://github.com/SimonSchoeni/CVE-2020-7247-POC | | 
 | 20211126T13:06:23Z | CVE-2020-0114 | Null | https://github.com/Nivaskumark/CVE-2020-0114-frameworks_base | | 
 | 20211126T12:58:16Z | CVE-2020-0114 | Null | https://github.com/Nivaskumark/-CVE-2020-0114-frameworks_base | | 
-| 20211126T12:57:28Z | CVE-2020-0114 | Null | https://github.com/Nivaskumark/CVE-2020-0114-frameworks_basegbdgb | | 
-| 20211126T12:36:25Z | CVE-2020-0796 | Null | https://github.com/lisinan988/CVE-2020-0796-exp | | 
-| 20211126T10:23:16Z | CVE-2021-40865 | CVE-2021-40865 | https://github.com/hktalent/CVE-2021-40865 | | 
-| 20211126T07:43:16Z | CVE-2020-0097 | Null | https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base | | 
-| 20211126T07:22:48Z | CVE-2021-43267 | Local PoC exploit for CVE-2021-43267 (Linux TIPC) | https://github.com/ohnonoyesyes/CVE-2021-43267 | | 
-| 20211126T07:17:09Z | CVE-2020-0114 | Null | https://github.com/Nivaskumark/CVE-2020-0114-frameworks | | 
-| 20211126T07:06:56Z | CVE-2020-0114 | Null | https://github.com/Nivaskumark/CVE-2020-0114-frameworks_base11 | | 
-| 20211126T05:18:05Z | CVE-2021-41773 | CVE-2021-41773 Test Page & Exploit Code | https://github.com/jhye0n/CVE-2021-41773 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211126T22:37:29Z | Null | https://github.com/Mq0509/YoRPG_Kleemex | 0 | 0| 
+| 20211126T14:46:25Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1829 | 522| 
 | 20211126T12:23:55Z | klee+nme for user space aeg | https://github.com/jqhong/klee-nme-aeg | 1 | 0| 
 | 20211126T07:41:02Z | Null | https://github.com/wpkong/KleeAdventure | 0 | 0| 
 
@@ -58,27 +60,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211126T13:25:58Z | To-Do | https://github.com/Lescovar420/SABA-EXPLOIT-FPSE | 0 | 1| 
-| 20211126T13:21:25Z | HEVD | https://github.com/ReJimp/Kernel_Exploit | 2 | 0| 
-| 20211126T13:15:48Z | Exploitation Framework for Embedded Devices | https://github.com/threat9/routersploit | 9818 | 2110| 
-| 20211126T13:05:07Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 3782 | 1304| 
-| 20211126T13:03:34Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
-| 20211126T12:45:39Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 15| 
-| 20211126T12:27:44Z | Null | https://github.com/SirdsH/ExploitingAtoms | 0 | 0| 
-| 20211126T12:15:01Z | Classification feature selection approach based on deap framework Genetic Algorithm exploiting sklearn ml models as fitness function. | https://github.com/rfloc95/GASelection_sklearn | 0 | 0| 
-| 20211126T12:05:47Z | Automatic Return Oriented Programming exploit generator | https://github.com/JDBryan/ROPSlap | 0 | 0| 
-| 20211126T12:03:39Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 247 | 77| 
+| 20211126T23:24:06Z | A new API that can power WPF and Winform Roblox Exploits for free and no built in key system (Key System Built in means : a API has a key system built into the code like KrnlAPI or Oxygen U API) | https://github.com/ausu-u/FurkAPI | 1 | 0| 
+| 20211126T23:22:10Z | An exploit and demonstration on how to exploit a Client Side Stored XSS vulnerability in https://anonstress.com. | https://github.com/0x1CA3/AnonStress-Server-Side-Stored-XSS-Exploit | 3 | 0| 
+| 20211126T23:10:15Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 254 | 11| 
+| 20211126T23:07:23Z | Null | https://github.com/joeengo/exploiting | 0 | 0| 
+| 20211126T23:02:42Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 248 | 77| 
+| 20211126T23:02:25Z | Written exploits by me | https://github.com/kryptohaker/exploits | 0 | 0| 
+| 20211126T22:43:43Z | Rage allows you to execute any file in a Microsoft Office document. | https://github.com/billythegoat356/Rage | 37 | 2| 
+| 20211126T22:36:25Z | Automatic Return Oriented Programming exploit generator | https://github.com/JDBryan/ROPSlap | 0 | 0| 
+| 20211126T22:30:49Z | Sourcemod plugin for No More Room in Hell that fixes an exploit allowing players to use chainsaws without consuming fuel. | https://github.com/dysphie/nmrih-infinite-fuel-fix | 0 | 0| 
+| 20211126T21:43:02Z | Tool able to check the security level of a router. Check if the router is vulnerable to DNS rebinding and if there are any known CVEs or exploits. | https://github.com/peace27-96/Router-Vulnerability-Scan-Tool | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211126T23:25:26Z | Neural Architecture Backdoor | https://github.com/alps-lab/nab | 0 | 0| 
+| 20211126T21:12:22Z | Python AV Evasion Tools | https://github.com/G1ft3dC0d3/MsfMania | 264 | 58| 
+| 20211126T18:09:48Z | A quick script to spot the usage of Unicode Bidi (bidirectional) characters that could lead to an Invisible Backdoor | https://github.com/cybersecsi/invisible-backdoor-detector | 5 | 0| 
+| 20211126T16:56:50Z | Backdoor Hibernater | https://github.com/TDteach/BACH | 0 | 0| 
+| 20211126T15:16:31Z | badcat is a tool I%ve made to learn `rust` and analyze anonymous backdoors | https://github.com/yanmarques/badcat | 0 | 0| 
 | 20211126T13:28:35Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1384 | 654| 
 | 20211126T13:18:12Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 5875 | 1856| 
 | 20211126T10:19:24Z | Get Backdoor access to a windows pc | https://github.com/emilpro2008/Backdoor-Virus | 0 | 0| 
 | 20211126T10:18:00Z | Remote control software, supported Windows/Unix/MacOS/Linux(x86/x64/mips/arm) | https://github.com/h1zzz/purewater | 5 | 0| 
 | 20211126T09:08:47Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 368 | 64| 
-| 20211126T01:21:48Z | Null | https://github.com/samuelventura/nerves_backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -99,16 +105,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211126T13:58:29Z | Null | https://github.com/gungnir479/fuzzJIT | 0 | 0| 
-| 20211126T13:55:17Z | Python-based code for estimation of highway bottleneck probability using speed transition matrices.  | https://github.com/tisljaricleo/fuzzy-highway-bottleneck-python | 1 | 0| 
-| 20211126T13:51:42Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6857 | 1433| 
-| 20211126T13:33:04Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 34901 | 18190| 
-| 20211126T13:24:51Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1334 | 237| 
-| 20211126T13:04:24Z | Contour machine on Fuzzy Logic cross coupling paper | https://github.com/amol-17/Fuzzy-logic-cross-coupling-controller | 0 | 0| 
-| 20211126T12:44:48Z | Null | https://github.com/agittm/fuzzy_sugeno_test | 0 | 0| 
-| 20211126T12:15:23Z | Null | https://github.com/rafibu/fuzzy | 0 | 0| 
-| 20211126T12:02:02Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 35 | 13| 
-| 20211126T11:56:42Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2233 | 435| 
+| 20211126T23:58:53Z | Fast fuzzy search utility | https://github.com/EthanRutherford/fast-fuzzy | 34 | 4| 
+| 20211126T23:53:39Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 11 | 1| 
+| 20211126T23:34:08Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20211126T23:11:45Z | gRPC Go course | https://github.com/hsmtkk/fuzzy-eureka | 0 | 0| 
+| 20211126T22:49:56Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 374 | 87| 
+| 20211126T22:36:19Z | HMI interface for raspberry pi, made in python used to run a thermal and a pneumatic controller, with data storage and graphics. | https://github.com/Richardshm/Interface_fuzzy_controller_RPi | 0 | 0| 
+| 20211126T22:35:17Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
+| 20211126T22:26:21Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6860 | 1434| 
+| 20211126T22:24:50Z | Collection of zone file stanzas containing dodgy HTTPS RR values, to help with fuzz testing ECH | https://github.com/sftcd/echdnsfuzz | 0 | 0| 
+| 20211126T22:17:54Z | bash script to run from installation media to setup gentoo automagically | https://github.com/fjp321/fuzzy-goggles | 0 | 0| 
 
 
 
