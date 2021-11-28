@@ -90,8 +90,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211128T14:12:32Z | cherry-pick zad | https://github.com/Dawid-Kwasowski/fuzzy-octo-funicular | 0 | 0| 
 | 20211128T13:56:28Z | Asynchronous fuzzy finder in vim9script | https://github.com/kohnish/vim9-fuzzy | 0 | 0| 
-| 20211128T13:41:28Z | cherry-pick zad | https://github.com/Dawid-Kwasowski/fuzzy-octo-funicular | 0 | 0| 
 | 20211128T13:37:53Z | I’m Very Athletic and fit and keep my body looking good  | https://github.com/JustinWayne1203/fuzzy-tribble | 0 | 0| 
 | 20211128T13:12:46Z | MediaTek Fuzzing Workshop in HITCON 2021 | https://github.com/yuawn/MediaTek-Fuzzing-Workshop | 30 | 9| 
 | 20211128T13:11:04Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 252 | 22| 
