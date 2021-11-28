@@ -45,13 +45,13 @@
 | 20211127T23:49:46Z | Null | https://github.com/jwardsmith/Active-Directory-Exploitation | 4 | 2| 
 | 20211127T23:30:52Z | Extensible framework for analyzing publicly available information about vulnerabilities | https://github.com/leonov-av/vulristics | 41 | 6| 
 | 20211127T23:13:43Z | Exploit Related Stuff | https://github.com/opskepp/ERS | 0 | 0| 
-| 20211127T23:07:34Z | Roblox exploiting scripts. | https://github.com/TotoAJ/ROBLOX-Scripts | 1 | 0| 
 | 20211127T23:01:48Z | Phantom is a Roblox NoKey system open-source exploit that has DLL choice and is easy to use (turn off your antivirus(still in development)) | https://github.com/lewdhak/Phantom | 0 | 0| 
 | 20211127T22:06:43Z | Amateras - DHCP Starvation attack exploitation tool | https://github.com/yasserjanah/Amateras | 0 | 0| 
 | 20211127T19:18:17Z | CRAX++: software CRash analysis for Automatic eXploit generation | https://github.com/aesophor/CRAXplusplus | 15 | 3| 
 | 20211127T19:12:11Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 254 | 11| 
 | 20211127T19:01:49Z | WTF?!DOINB RYZE ][L9 GANG LEADER][ ! IS  BACK ! HOWLINGABYSS WADBÅT HACK 英雄联盟 NEW RUNESይሮጣልANCIENT RUNEGANDALF 魔法 9K LP MACRO GOD ARAM-WARRIOR MODE與男孩 GULAG TELEPORTATION JUTSU ፕራይONን 黃金種植HARVEST ENEMY SOUL FOR EMPEROR VL15T4R?ጥፋት ይመጣል OPGG HACK double cs bug？？？英雄联盟 400CS [ACTUALLY 200]\ FPX Doinb (23 yo M(not a rapist)) abuses new wadbot feature on stream (!!!) - 2X CS with China hacks & farm exploit + still undetecte in china) DOINB RYZE HACK 400 CS 14-DAY SUSPENSION HACKK EXPLOIT L9 TECHNOLOGY ይመጣል HACK ?!? GANDALF RANK 1 TURBO 暨上地毯大脑妈妈他妈的 !!WTF!!(what the fuk)DOINB 매크로{NEW} NUNU FAKER中路MID 2 TOP GANK HACK骇客MW2 EXIT MAP RIOT SHIELD GLITCH JUMP?! OUT OF MAP SNOWBALLEXPLOIT사라지다 KILL ENEMY ((INVISIBLE))=UNDETECTED IN SOUTH-WESTERN TIMBUKTU [[Patch 10.16/() 99.9% LOOPHOLE WTF TRIUMPHANT RYZE HACK? INFINITE RP RAREST SKINS? DOINB LEAGUE OF LEGENDS 英雄聯盟糟透了??? DOINB COMEBACK 返回 UNDETECTED IN EUW [[WORKING PATCH 9.15!]] FAST ORBWALK HACK广播INSTA SPELLCAST GLITCH RACIST DOINB HACK？英雄联盟 | https://github.com/divinityMaker/semester-exam | 0 | 0| 
 | 20211127T18:15:45Z | Null | https://github.com/PM2Exploit/PM2Exploit | 1 | 0| 
+| 20211127T18:10:10Z | Daily scraper (and mebbe more in the future) for CISA%s Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | 4 | 0| 
 
 
 # backdoor on Github 推荐
