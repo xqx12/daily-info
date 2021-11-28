@@ -31,21 +31,22 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20211128 | PT632电信“老猫”分析 | https://www.anquanke.com/post/id/259503| 
+| 20211128 | 2021年“绿盟杯”重庆市大学生信息安全竞赛-WP | https://www.anquanke.com/post/id/256976| 
+| 20211128 | 蓝队反制后的自动化信息收集 | https://www.anquanke.com/post/id/259358| 
+| 20211128 | ysomap : Java反序列化利用框架 | https://paper.seebug.org/1766/| 
+| 20211128 | 2021第四届强网拟态防御积分赛工控pwn eserver WP | https://www.anquanke.com/post/id/259594| 
+| 20211128 | 自删除技术详解 | https://www.anquanke.com/post/id/259050| 
+| 20211128 | 使用 ProxyShell 和 ProxyLogon 劫持邮件链 | https://paper.seebug.org/1764/| 
+| 20211128 | 关于多步骤攻击预测方法的调研概要 | https://mp.weixin.qq.com/s/ADOeqhYcjKfJlkVhkUAFaw| 
+| 20211128 | 数据安全保护和治理的新方法 | https://mp.weixin.qq.com/s/rTz8HVyGJE0x2UbVjiy8jw| 
 | 20211127 | 反向探测互联网扫描器 | https://blog.xlab.app/p/d44cc35d/| 
-| 20211126 | 从美军的先期研发看网络安全技术的发展 | https://mp.weixin.qq.com/s/a9fmnJOSSuLXfWdAFtGjDA| 
-| 20211126 | SiliFuzz：从软件角度发现处理器电路缺陷 | https://mp.weixin.qq.com/s/QPYTxin66lwCxZEphCOTew| 
-| 20211126 | AI系列（一）：换个思路检测隐蔽C2 | https://mp.weixin.qq.com/s/JsvxtiRg8fEq51iTgGfPwQ| 
-| 20211126 | 严苛Web对抗环境下的Webshell | https://mp.weixin.qq.com/s/lOBXzPk-m_th0yNSHGRxUA| 
-| 20211126 | 《Instructions for PhD Students》：Dimitris给PhD学生的忠告 | https://zhuanlan.zhihu.com/p/400248999| 
-| 20211126 | Automatic Feature Learning for Predicting Vulnerable Softw... | https://zhuanlan.zhihu.com/p/435957686| 
-| 20211125 | 现代化系统中的侧信道(side channel)攻击与防御 | https://www.bilibili.com/video/BV16q4y1B7gt| 
-| 20211125 | Mining JavaScript Zero-day Vulnerabilities via Object Prop... | https://www.bilibili.com/video/BV1xL411M7wz| 
-| 20211125 | 西湖论剑gghdl题解 | http://blog.bluesadi.cn/2021/11/24/%E8%A5%BF%E6%B9%96%E8%AE%BA%E5%89%91gghdl%E9%A2%98%E8%A7%A3/| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211128T09:22:54Z | cve-2021-42013 | Apache 2.4.50 Path traversal vulnerability | https://github.com/Vulnmachines/cve-2021-42013 | | 
 | 20211128T01:16:53Z | CVE-2021-41653 | TP-Link TL-WR840N EU v5 Remote Code Execution | https://github.com/ohnonoyesyes/CVE-2021-41653 | | 
 | 20211128T01:12:42Z | CVE-2021-43267 | Local PoC exploit for CVE-2021-43267 (Linux TIPC) | https://github.com/ohnonoyesyes/CVE-2021-43267 | | 
 | 20211128T01:12:22Z | CVE-2021-21224 | ARM64 PoC for CVE-2021-21224 | https://github.com/ohnonoyesyes/CVE-2021-21224 | | 
@@ -53,7 +54,6 @@
 | 20211127T01:27:12Z | CVE-2021-24084 | Windows MDM LPE | https://github.com/ohnonoyesyes/CVE-2021-24084 | | 
 | 20211127T01:03:14Z | CVE-2021-20837 | Unauthenticated RCE In MovableType | https://github.com/ohnonoyesyes/CVE-2021-20837 | | 
 | 20211126T20:24:14Z | CVE-2021-27651 | Pega Infinity Password Reset | https://github.com/Vulnmachines/CVE-2021-27651 | | 
-| 20211126T20:23:33Z | cve-2021-42013 | Apache 2.4.50 Path traversal vulnerability | https://github.com/Vulnmachines/cve-2021-42013 | | 
 | 20211126T20:23:14Z | cve-2021-41773 | CVE-2021-41773 Path Traversal vulnerability in Apache 2.4.49. | https://github.com/Vulnmachines/cve-2021-41773 | | 
 | 20211126T20:22:57Z | CVE-2021-21975 | VMWare-CVE-2021-21975 SSRF vulnerability | https://github.com/Vulnmachines/VMWare-CVE-2021-21975 | | 
 
@@ -76,9 +76,9 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211127T19:18:17Z | CRAX++: software CRash analysis for Automatic eXploit generation | https://github.com/aesophor/CRAXplusplus | 15 | 3| 
+| 20211128T04:48:18Z | CRAX++: software CRash analysis for Automatic eXploit generation | https://github.com/aesophor/CRAXplusplus | 15 | 3| 
+| 20211128T03:07:26Z | Null | https://github.com/s2e-lab/s2e-lab.github.io | 0 | 0| 
 | 20211127T07:17:14Z | Null | https://github.com/aesophor/requiem | 15 | 3| 
-| 20211125T20:19:07Z | Null | https://github.com/s2e-lab/s2e-lab.github.io | 0 | 0| 
 | 20211125T17:19:47Z | Null | https://github.com/yuvalkirstain/s2e-coref | 23 | 8| 
 | 20211124T13:17:32Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 187 | 39| 
 | 20211124T02:41:29Z | this branch is a solution to dma emulator | https://github.com/IoTS-P/s2e | 0 | 0| 
@@ -91,31 +91,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211128T02:32:37Z | Null | https://github.com/jwardsmith/Active-Directory-Exploitation | 4 | 2| 
-| 20211128T02:12:30Z | Useful scripts to exploit Hack The Box retired machines/challenges | https://github.com/7Rocky/HackTheBox-scripts | 0 | 0| 
-| 20211128T02:03:05Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
-| 20211128T01:52:39Z | This is a fixed version of CMD-X with working queue_on_teleport | https://github.com/RealSiesgo/Cmdx_BugFixes_On_Non_Syn_exploits | 0 | 0| 
-| 20211128T01:51:02Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10368 | 1785| 
-| 20211128T01:19:55Z | Null | https://github.com/dannyallover/Exploit-C | 0 | 0| 
-| 20211128T01:12:42Z | Local PoC exploit for CVE-2021-43267 (Linux TIPC) | https://github.com/ohnonoyesyes/CVE-2021-43267 | 9 | 2| 
-| 20211128T01:10:12Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 4136 | 567| 
-| 20211128T01:05:14Z | Roblox exploiting scripts. | https://github.com/TotoAJ/ROBLOX-Scripts | 1 | 0| 
-| 20211128T01:03:58Z | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | 1532 | 524| 
+| 20211128T12:41:08Z | Vulnerability Exploitation Code Collection Repository | https://github.com/0x0021h/expbox | 199 | 35| 
+| 20211128T12:08:55Z | This is a fixed version of CMD-X with working queue_on_teleport | https://github.com/RealSiesgo/Cmdx_BugFixes_On_Non_Syn_exploits | 0 | 0| 
+| 20211128T12:04:35Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 251 | 77| 
+| 20211128T12:03:30Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
+| 20211128T12:03:07Z | Null | https://github.com/YigitKral1/EXPLOITSCRIPTS | 0 | 0| 
+| 20211128T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10369 | 1785| 
+| 20211128T11:15:23Z | Roblox Exploit Scripts by simulatorwinner#5864 | https://github.com/simulatorwinner/scripts | 0 | 0| 
+| 20211128T10:56:28Z | Simple Python tool that opens a reverse shell by exploiting the theme editor in WordPress | https://github.com/nisforrnicholas/WordPress-Theme-Editor-Exploit | 0 | 0| 
+| 20211128T10:50:16Z | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | 2994 | 661| 
+| 20211128T10:01:40Z | CTFs and solutions for Linux binary exploitation. | https://github.com/MaherAzzouzi/LinuxExploitation | 63 | 19| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211128T10:16:39Z | Null | https://github.com/alok2520/Coding_Backdoor | 0 | 0| 
+| 20211128T08:08:16Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 381 | 161| 
 | 20211128T00:38:13Z | Codebase for my Level 4 University Project: Static Analysis of Executable Code to Detect Backdoors on IoT Devices | https://github.com/sophieboyle/Symbolic-Execution-for-ARM-Backdoor-Detection | 0 | 0| 
 | 20211128T00:17:35Z | Null | https://github.com/Quadrifolo/Backdoor | 0 | 0| 
 | 20211128T00:14:28Z | Some malware samples or suspicious files I found and their reports. | https://github.com/CYB3RMX/MalwareAnalysis101 | 24 | 3| 
 | 20211127T23:45:00Z | Simple win32 backdoor consisting of a client and a server. | https://github.com/Mewgood/win32-sockets-backdoor | 0 | 0| 
 | 20211127T17:35:46Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 53 | 15| 
-| 20211127T17:31:16Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 380 | 161| 
 | 20211127T17:30:23Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1385 | 655| 
 | 20211127T12:34:45Z | RemoteEvent%s & RemoteFunction%s Backdoor Scanner. Feel free to visit now. | https://github.com/jaackkiscool/Frickin-Serverside-Scanner-v1.2 | 3 | 0| 
 | 20211127T12:20:23Z | Remote Access Trojan (RAT) | https://github.com/zarkones/damn-simple-rat | 2 | 0| 
-| 20211127T12:06:07Z | The insane hackerman backdoor. | https://github.com/Bakdooro/Bakdooro | 10 | 2| 
 
 
 # symbolic execution on Github 推荐
@@ -148,16 +148,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211128T02:47:28Z | Null | https://github.com/adiratnaa/Program-Fuzzy | 0 | 0| 
-| 20211128T02:42:33Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2444 | 149| 
-| 20211128T01:52:21Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6862 | 1436| 
-| 20211128T01:42:15Z | gRPC Go course | https://github.com/hsmtkk/fuzzy-eureka | 0 | 0| 
-| 20211128T01:32:18Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20211128T01:12:53Z | Gentoo overlay | https://github.com/lferra/fuzzy-potato | 1 | 0| 
-| 20211128T01:09:59Z | Fuzzer for headers in ccsds space packet protocol | https://github.com/rek7/starpwn | 0 | 0| 
-| 20211127T23:26:21Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 1 | 2| 
-| 20211127T23:24:16Z | Coverage-guided grammar aware fuzzer that uses grammar automatons | https://github.com/HexHive/Gramatron | 27 | 1| 
-| 20211127T23:06:34Z | https://github.com/wcventure/FuzzingPaper | https://github.com/mishmashclone/wcventure-FuzzingPaper | 6 | 1| 
+| 20211128T12:52:12Z | cherry-pick zad | https://github.com/Dawid-Kwasowski/fuzzy-octo-funicular | 0 | 0| 
+| 20211128T12:39:24Z | Asynchronous fuzzy finder in vim9script | https://github.com/kohnish/vim9-fuzzy | 0 | 0| 
+| 20211128T12:36:50Z | A CTF fuzz powerd by protobuf. | https://github.com/Kiprey/protobuf_ctf_fuzz | 4 | 0| 
+| 20211128T12:12:41Z | Null | https://github.com/Bariq09/Penentuan-Kerawanan-Longsor-Metode-Fuzzy-Logic | 0 | 0| 
+| 20211128T12:08:41Z | Mediatek Fuzzing Workshop in HITCON 2021 | https://github.com/yuawn/Mediatek-Fuzzing-Workshop | 30 | 9| 
+| 20211128T11:26:03Z | Academic papers and articles that I read related to web hacking, fuzzing, etc. / 阅读过的Web安全方向、模糊测试方向的一些论文与阅读笔记 | https://github.com/LyleMi/papers | 231 | 18| 
+| 20211128T10:55:50Z | 僕の卒業論文 | https://github.com/yoshiyoshiharu/oblique-fuzzy-vector-mrp | 0 | 0| 
+| 20211128T10:32:51Z | Calculating how much two strings are similar to each other by analysing the number of common and uncommon characters in the two strings.  | https://github.com/AbdullahSaquib/fuzzy_compare | 0 | 0| 
+| 20211128T10:12:42Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 252 | 22| 
+| 20211128T10:03:30Z | Null | https://github.com/yogawar52/Fuzzy | 0 | 0| 
 
 
 
