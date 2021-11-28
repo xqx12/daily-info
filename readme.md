@@ -90,13 +90,13 @@
 | 20211127T23:26:21Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 1 | 2| 
 | 20211127T23:24:16Z | Coverage-guided grammar aware fuzzer that uses grammar automatons | https://github.com/HexHive/Gramatron | 27 | 1| 
 | 20211127T23:06:34Z | https://github.com/wcventure/FuzzingPaper | https://github.com/mishmashclone/wcventure-FuzzingPaper | 6 | 1| 
-| 20211127T22:05:25Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6861 | 1436| 
 | 20211127T20:25:08Z | Null | https://github.com/sumarnoasintas/fuzzy-invention | 0 | 0| 
 | 20211127T20:23:05Z | Mondlandung mithilfe von Fuzzy-Logik | https://github.com/tpoerschke/FuzzyMoonLanding | 1 | 0| 
 | 20211127T20:07:50Z | Null | https://github.com/kiringiyarto/fuzzy-fortnight | 0 | 0| 
 | 20211127T19:37:32Z | With this project, I want to make a blending between Persevere and taPCT. The idea is to find bugs in large amounts of concurrent threading instruction. For that we will first try and identify with this tool some known bugs from emac versions that were not yet corrected. We first model the system call as a set of events and then apply the taPCT algorithm. Later on, we can use fuzzing to give larger system call sequences to our probabilistic scheduling algorithm.  | https://github.com/Ricagraca/taPPCT | 0 | 0| 
 | 20211127T19:10:10Z | Asynchronous fuzzy finder in vim9script | https://github.com/kohnish/vim9-fuzzy | 0 | 0| 
 | 20211127T19:04:21Z | Null | https://github.com/mmaarriioo2002/fuzzy-guide | 0 | 0| 
+| 20211127T18:06:15Z | Reminder, Information gain, Fuzzy c clustering problem calculator using JavaScript | https://github.com/sakib-75/fuzzy-c-problem | 0 | 0| 
 
 
 
