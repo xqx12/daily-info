@@ -148,7 +148,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211128T01:34:59Z | gRPC Go course | https://github.com/hsmtkk/fuzzy-eureka | 0 | 0| 
+| 20211128T01:42:15Z | gRPC Go course | https://github.com/hsmtkk/fuzzy-eureka | 0 | 0| 
 | 20211128T01:32:18Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211128T01:12:53Z | Gentoo overlay | https://github.com/lferra/fuzzy-potato | 1 | 0| 
 | 20211128T01:09:59Z | Fuzzer for headers in ccsds space packet protocol | https://github.com/rek7/starpwn | 0 | 0| 
