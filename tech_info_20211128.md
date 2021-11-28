@@ -49,6 +49,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211128T14:23:38Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10370 | 1785| 
 | 20211128T14:18:23Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 251 | 77| 
 | 20211128T14:03:13Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211128T13:27:52Z | Null | https://github.com/lorenzodimarzio/crypto-exploiter | 0 | 0| 
@@ -57,7 +58,6 @@
 | 20211128T12:41:08Z | Vulnerability Exploitation Code Collection Repository | https://github.com/0x0021h/expbox | 199 | 35| 
 | 20211128T12:08:55Z | This is a fixed version of CMD-X with working queue_on_teleport | https://github.com/RealSiesgo/Cmdx_BugFixes_On_Non_Syn_exploits | 0 | 0| 
 | 20211128T12:03:07Z | Null | https://github.com/YigitKral1/EXPLOITSCRIPTS | 0 | 0| 
-| 20211128T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10369 | 1785| 
 | 20211128T10:56:28Z | Simple Python tool that opens a reverse shell by exploiting the theme editor in WordPress | https://github.com/nisforrnicholas/WordPress-Theme-Editor-Exploit | 0 | 0| 
 
 
@@ -90,16 +90,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211128T14:27:46Z | Null | https://github.com/nobunagasutras/fuzzy-octo-spoon | 0 | 0| 
+| 20211128T14:24:56Z | MediaTek Fuzzing Workshop in HITCON 2021 | https://github.com/yuawn/MediaTek-Fuzzing-Workshop | 31 | 9| 
 | 20211128T14:12:32Z | cherry-pick zad | https://github.com/Dawid-Kwasowski/fuzzy-octo-funicular | 0 | 0| 
 | 20211128T13:56:28Z | Asynchronous fuzzy finder in vim9script | https://github.com/kohnish/vim9-fuzzy | 0 | 0| 
 | 20211128T13:37:53Z | I’m Very Athletic and fit and keep my body looking good  | https://github.com/JustinWayne1203/fuzzy-tribble | 0 | 0| 
-| 20211128T13:12:46Z | MediaTek Fuzzing Workshop in HITCON 2021 | https://github.com/yuawn/MediaTek-Fuzzing-Workshop | 30 | 9| 
 | 20211128T13:11:04Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 252 | 22| 
 | 20211128T13:03:32Z | Config files for my GitHub profile. | https://github.com/fuzzylogic-for/fuzzylogic-for | 0 | 0| 
 | 20211128T12:36:50Z | A CTF fuzz powerd by protobuf. | https://github.com/Kiprey/protobuf_ctf_fuzz | 4 | 0| 
 | 20211128T12:12:41Z | Null | https://github.com/Bariq09/Penentuan-Kerawanan-Longsor-Metode-Fuzzy-Logic | 0 | 0| 
 | 20211128T12:08:41Z | Mediatek Fuzzing Workshop in HITCON 2021 | https://github.com/yuawn/Mediatek-Fuzzing-Workshop | 30 | 9| 
-| 20211128T11:26:03Z | Academic papers and articles that I read related to web hacking, fuzzing, etc. / 阅读过的Web安全方向、模糊测试方向的一些论文与阅读笔记 | https://github.com/LyleMi/papers | 231 | 18| 
 
 
 
