@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211128T01:10:57Z | CVE-2021-21224 | ARM64 PoC for CVE-2021-21224 | https://github.com/ohnonoyesyes/CVE-2021-21224 | | 
 | 20211128T00:55:53Z | CVE-2021-43267 | Local PoC exploit for CVE-2021-43267 (Linux TIPC) | https://github.com/ohnonoyesyes/CVE-2021-43267 | | 
 | 20211127T15:09:05Z | CVE-2021-21042 | Null | https://github.com/r1l4-i3pur1l4/CVE-2021-21042 | | 
 | 20211127T01:27:12Z | CVE-2021-24084 | Windows MDM LPE | https://github.com/ohnonoyesyes/CVE-2021-24084 | | 
@@ -55,7 +56,6 @@
 | 20211126T20:23:14Z | cve-2021-41773 | CVE-2021-41773 Path Traversal vulnerability in Apache 2.4.49. | https://github.com/Vulnmachines/cve-2021-41773 | | 
 | 20211126T20:22:57Z | CVE-2021-21975 | VMWare-CVE-2021-21975 SSRF vulnerability | https://github.com/Vulnmachines/VMWare-CVE-2021-21975 | | 
 | 20211126T20:20:41Z | CVE-2021-41277 | Null | https://github.com/Vulnmachines/Metabase_CVE-2021-41277 | | 
-| 20211126T18:12:45Z | CVE-2020-7247 | Proof of concept for CVE-2020-7247 for educational purposes. | https://github.com/SimonSchoeni/CVE-2020-7247-POC | | 
 
 
 # klee on Github 推荐
@@ -148,8 +148,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211128T00:58:33Z | gRPC Go course | https://github.com/hsmtkk/fuzzy-eureka | 0 | 0| 
-| 20211127T23:54:53Z | Fuzzer for headers in ccsds space packet protocol | https://github.com/rek7/starpwn | 0 | 0| 
+| 20211128T01:09:59Z | Fuzzer for headers in ccsds space packet protocol | https://github.com/rek7/starpwn | 0 | 0| 
+| 20211128T01:05:13Z | gRPC Go course | https://github.com/hsmtkk/fuzzy-eureka | 0 | 0| 
 | 20211127T23:26:21Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 1 | 2| 
 | 20211127T23:24:16Z | Coverage-guided grammar aware fuzzer that uses grammar automatons | https://github.com/HexHive/Gramatron | 27 | 1| 
 | 20211127T23:06:34Z | https://github.com/wcventure/FuzzingPaper | https://github.com/mishmashclone/wcventure-FuzzingPaper | 6 | 1| 
