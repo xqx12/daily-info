@@ -112,7 +112,7 @@
 | 20211127T23:45:00Z | Simple win32 backdoor consisting of a client and a server. | https://github.com/Mewgood/win32-sockets-backdoor | 0 | 0| 
 | 20211127T17:35:46Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 53 | 15| 
 | 20211127T17:31:16Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 380 | 161| 
-| 20211127T17:30:23Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1385 | 654| 
+| 20211127T17:30:23Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1385 | 655| 
 | 20211127T12:34:45Z | RemoteEvent%s & RemoteFunction%s Backdoor Scanner. Feel free to visit now. | https://github.com/jaackkiscool/Frickin-Serverside-Scanner-v1.2 | 3 | 0| 
 | 20211127T12:20:23Z | Remote Access Trojan (RAT) | https://github.com/zarkones/damn-simple-rat | 2 | 0| 
 | 20211127T12:06:07Z | The insane hackerman backdoor. | https://github.com/Bakdooro/Bakdooro | 10 | 2| 
