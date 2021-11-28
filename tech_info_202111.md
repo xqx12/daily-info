@@ -148,7 +148,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211128T02:39:13Z | Null | https://github.com/adiratnaa/Program-Fuzzy | 0 | 0| 
+| 20211128T02:45:17Z | Null | https://github.com/adiratnaa/Program-Fuzzy | 0 | 0| 
+| 20211128T02:42:33Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2444 | 149| 
 | 20211128T01:52:21Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6862 | 1436| 
 | 20211128T01:42:15Z | gRPC Go course | https://github.com/hsmtkk/fuzzy-eureka | 0 | 0| 
 | 20211128T01:32:18Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
@@ -157,7 +158,6 @@
 | 20211127T23:26:21Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 1 | 2| 
 | 20211127T23:24:16Z | Coverage-guided grammar aware fuzzer that uses grammar automatons | https://github.com/HexHive/Gramatron | 27 | 1| 
 | 20211127T23:06:34Z | https://github.com/wcventure/FuzzingPaper | https://github.com/mishmashclone/wcventure-FuzzingPaper | 6 | 1| 
-| 20211127T20:25:08Z | Null | https://github.com/sumarnoasintas/fuzzy-invention | 0 | 0| 
 
 
 
