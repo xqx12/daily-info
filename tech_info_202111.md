@@ -91,13 +91,13 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211128T01:19:55Z | Null | https://github.com/dannyallover/Exploit-C | 0 | 0| 
 | 20211128T01:12:42Z | Local PoC exploit for CVE-2021-43267 (Linux TIPC) | https://github.com/ohnonoyesyes/CVE-2021-43267 | 9 | 2| 
 | 20211128T01:10:12Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 4136 | 567| 
 | 20211128T01:05:14Z | Roblox exploiting scripts. | https://github.com/TotoAJ/ROBLOX-Scripts | 1 | 0| 
 | 20211128T01:03:58Z | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | 1532 | 524| 
 | 20211128T01:03:25Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211128T01:02:39Z | This is a fixed version of CMD-X with working queue_on_teleport | https://github.com/RealSiesgo/Cmdx_BugFixes_On_Non_Syn_exploits | 0 | 0| 
-| 20211128T00:55:27Z | Null | https://github.com/dannyallover/Exploit-C | 0 | 0| 
 | 20211128T00:31:08Z | This agent detects when an attacker could trigger a selfdestruct of a UUPS implementation contract, leaving a proxy contract permanently broken. | https://github.com/VVlovsky/UUPSUpgradeable-Exploit-Agent | 0 | 0| 
 | 20211128T00:30:15Z | Useful scripts to exploit Hack The Box retired machines/challenges | https://github.com/7Rocky/HackTheBox-scripts | 0 | 0| 
 | 20211128T00:19:23Z | Null | https://github.com/tjonty/exploit | 0 | 0| 
@@ -148,9 +148,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211128T01:20:38Z | gRPC Go course | https://github.com/hsmtkk/fuzzy-eureka | 0 | 0| 
 | 20211128T01:12:53Z | Gentoo overlay | https://github.com/lferra/fuzzy-potato | 1 | 0| 
 | 20211128T01:09:59Z | Fuzzer for headers in ccsds space packet protocol | https://github.com/rek7/starpwn | 0 | 0| 
-| 20211128T01:05:13Z | gRPC Go course | https://github.com/hsmtkk/fuzzy-eureka | 0 | 0| 
 | 20211127T23:26:21Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 1 | 2| 
 | 20211127T23:24:16Z | Coverage-guided grammar aware fuzzer that uses grammar automatons | https://github.com/HexHive/Gramatron | 27 | 1| 
 | 20211127T23:06:34Z | https://github.com/wcventure/FuzzingPaper | https://github.com/mishmashclone/wcventure-FuzzingPaper | 6 | 1| 
