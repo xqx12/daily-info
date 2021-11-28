@@ -72,6 +72,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211127T23:24:29Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1926 | 402| 
+| 20211127T16:30:58Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2565 | 380| 
+| 20211127T14:22:20Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1828 | 522| 
 | 20211127T12:11:15Z | 自动化测试工具复现Test_Generation3 | https://github.com/pwh-sir/Symbolic-Execution-Based-on-ASM | 0 | 0| 
 | 20211127T07:04:10Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 175 | 10| 
 
