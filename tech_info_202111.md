@@ -61,16 +61,16 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211128T12:37:48Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1829 | 522| 
+| 20211128T08:01:33Z | Null | https://github.com/rounakmodgil/KleenSecurityctfpublic | 0 | 0| 
 | 20211127T23:36:23Z | Null | https://github.com/soundreactor/projectKleee02 | 0 | 0| 
 | 20211127T23:03:27Z | Spring 2021 Geography 817 work folder  | https://github.com/klee12/klee12.github.io | 0 | 0| 
 | 20211127T21:17:49Z | modern regular expression syntax everywhere with a painless upgrade path | https://github.com/SonOfLilit/kleenexp | 28 | 3| 
-| 20211127T14:22:20Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1828 | 522| 
 | 20211127T06:49:31Z | klee+nme for user space aeg | https://github.com/jqhong/klee-nme-aeg | 1 | 0| 
 | 20211126T22:37:29Z | Null | https://github.com/Mq0509/YoRPG_Kleemex | 0 | 0| 
 | 20211126T07:41:02Z | Null | https://github.com/wpkong/KleeAdventure | 0 | 0| 
 | 20211124T16:41:12Z | Research paper On The Termination of Borrow Checking for Rust and a web application, CLI application and VSCode extension for running static analysis of rust-based smart contracts with a ready-to-be-verified project example. | https://github.com/LedgerProject/safepkt | 0 | 1| 
 | 20211124T16:20:20Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 219 | 36| 
-| 20211124T16:12:51Z | Null | https://github.com/timoodada/klee | 2 | 0| 
 
 
 # s2e on Github 推荐
@@ -91,10 +91,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211128T13:03:18Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211128T12:41:08Z | Vulnerability Exploitation Code Collection Repository | https://github.com/0x0021h/expbox | 199 | 35| 
 | 20211128T12:08:55Z | This is a fixed version of CMD-X with working queue_on_teleport | https://github.com/RealSiesgo/Cmdx_BugFixes_On_Non_Syn_exploits | 0 | 0| 
 | 20211128T12:04:35Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 251 | 77| 
-| 20211128T12:03:30Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211128T12:03:07Z | Null | https://github.com/YigitKral1/EXPLOITSCRIPTS | 0 | 0| 
 | 20211128T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10369 | 1785| 
 | 20211128T11:15:23Z | Roblox Exploit Scripts by simulatorwinner#5864 | https://github.com/simulatorwinner/scripts | 0 | 0| 
@@ -148,6 +148,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211128T13:03:44Z | Mediatek Fuzzing Workshop in HITCON 2021 | https://github.com/yuawn/MediaTek-Fuzzing-Workshop | 30 | 9| 
+| 20211128T13:03:32Z | Config files for my GitHub profile. | https://github.com/fuzzylogic-for/fuzzylogic-for | 0 | 0| 
 | 20211128T12:52:12Z | cherry-pick zad | https://github.com/Dawid-Kwasowski/fuzzy-octo-funicular | 0 | 0| 
 | 20211128T12:39:24Z | Asynchronous fuzzy finder in vim9script | https://github.com/kohnish/vim9-fuzzy | 0 | 0| 
 | 20211128T12:36:50Z | A CTF fuzz powerd by protobuf. | https://github.com/Kiprey/protobuf_ctf_fuzz | 4 | 0| 
@@ -156,8 +158,6 @@
 | 20211128T11:26:03Z | Academic papers and articles that I read related to web hacking, fuzzing, etc. / 阅读过的Web安全方向、模糊测试方向的一些论文与阅读笔记 | https://github.com/LyleMi/papers | 231 | 18| 
 | 20211128T10:55:50Z | 僕の卒業論文 | https://github.com/yoshiyoshiharu/oblique-fuzzy-vector-mrp | 0 | 0| 
 | 20211128T10:32:51Z | Calculating how much two strings are similar to each other by analysing the number of common and uncommon characters in the two strings.  | https://github.com/AbdullahSaquib/fuzzy_compare | 0 | 0| 
-| 20211128T10:12:42Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 252 | 22| 
-| 20211128T10:03:30Z | Null | https://github.com/yogawar52/Fuzzy | 0 | 0| 
 
 
 
