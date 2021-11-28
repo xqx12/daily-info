@@ -148,7 +148,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211128T02:45:17Z | Null | https://github.com/adiratnaa/Program-Fuzzy | 0 | 0| 
+| 20211128T02:47:28Z | Null | https://github.com/adiratnaa/Program-Fuzzy | 0 | 0| 
 | 20211128T02:42:33Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2444 | 149| 
 | 20211128T01:52:21Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6862 | 1436| 
 | 20211128T01:42:15Z | gRPC Go course | https://github.com/hsmtkk/fuzzy-eureka | 0 | 0| 
