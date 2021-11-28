@@ -106,7 +106,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211128T13:38:33Z | CS747 Project | https://github.com/chpark0714/Trojan_backdoor | 0 | 0| 
+| 20211128T13:43:34Z | Trojan_backdoor | https://github.com/chpark0714/Trojan_backdoor | 0 | 0| 
 | 20211128T10:16:39Z | Null | https://github.com/alok2520/Coding_Backdoor | 0 | 0| 
 | 20211128T08:08:16Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 381 | 161| 
 | 20211128T00:38:13Z | Codebase for my Level 4 University Project: Static Analysis of Executable Code to Detect Backdoors on IoT Devices | https://github.com/sophieboyle/Symbolic-Execution-for-ARM-Backdoor-Detection | 0 | 0| 
@@ -149,12 +149,12 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211128T13:43:29Z | Asynchronous fuzzy finder in vim9script | https://github.com/kohnish/vim9-fuzzy | 0 | 0| 
 | 20211128T13:41:28Z | cherry-pick zad | https://github.com/Dawid-Kwasowski/fuzzy-octo-funicular | 0 | 0| 
 | 20211128T13:37:53Z | I’m Very Athletic and fit and keep my body looking good  | https://github.com/JustinWayne1203/fuzzy-tribble | 0 | 0| 
 | 20211128T13:12:46Z | MediaTek Fuzzing Workshop in HITCON 2021 | https://github.com/yuawn/MediaTek-Fuzzing-Workshop | 30 | 9| 
 | 20211128T13:11:04Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 252 | 22| 
 | 20211128T13:03:32Z | Config files for my GitHub profile. | https://github.com/fuzzylogic-for/fuzzylogic-for | 0 | 0| 
-| 20211128T12:39:24Z | Asynchronous fuzzy finder in vim9script | https://github.com/kohnish/vim9-fuzzy | 0 | 0| 
 | 20211128T12:36:50Z | A CTF fuzz powerd by protobuf. | https://github.com/Kiprey/protobuf_ctf_fuzz | 4 | 0| 
 | 20211128T12:12:41Z | Null | https://github.com/Bariq09/Penentuan-Kerawanan-Longsor-Metode-Fuzzy-Logic | 0 | 0| 
 | 20211128T12:08:41Z | Mediatek Fuzzing Workshop in HITCON 2021 | https://github.com/yuawn/Mediatek-Fuzzing-Workshop | 30 | 9| 
