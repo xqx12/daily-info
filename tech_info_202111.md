@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211129T01:05:41Z | A Roblox exploiting library that looks like nodejs. | https://github.com/Mlemix/roblox.ls | 0 | 0| 
 | 20211129T01:03:14Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211129T01:01:12Z | Python library for interacting with in-memory C structures using data mined from binary DWARF debug info. | https://github.com/josconno/moria | 0 | 0| 
 | 20211129T00:56:02Z | An exploit and demonstration on how to exploit a Client Side Stored XSS vulnerability in https://anonstress.com. | https://github.com/0x1CA3/AnonStress-Stored-XSS-Exploit | 3 | 0| 
@@ -100,7 +101,6 @@
 | 20211129T00:17:16Z | Writeup for exploit.education/phoenix | https://github.com/vi11ain/phoenix-writeup | 0 | 0| 
 | 20211128T23:54:22Z | HEVD | https://github.com/ReJimp/Kernel_Exploit | 2 | 0| 
 | 20211128T23:49:58Z | Null | https://github.com/GitHubCollection/jsherman212-iomfb-exploit | 0 | 0| 
-| 20211128T23:46:24Z | Whasssup yall got into coding and exploits about a year ago took the next step and coded up some heat for yall. A bunch of fortnite exploits on this one anywhere to aimbot to flying. I think yall would like this one a bunch sincerly  the 12 year old codester. | https://github.com/yojoshu/cmdbuildpro | 0 | 0| 
 
 
 # backdoor on Github 推荐
