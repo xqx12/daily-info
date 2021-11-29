@@ -91,7 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211129T01:16:14Z | Exploit for CVE-2021-30807 | https://github.com/jsherman212/iomfb-exploit | 11 | 1| 
+| 20211129T01:16:14Z | Exploit for CVE-2021-30807 | https://github.com/jsherman212/iomfb-exploit | 11 | 2| 
 | 20211129T01:09:24Z | A Roblox exploiting library that looks like nodejs. | https://github.com/Mlemix/roblox.ls | 0 | 0| 
 | 20211129T01:03:14Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211129T01:01:12Z | Python library for interacting with in-memory C structures using data mined from binary DWARF debug info. | https://github.com/josconno/moria | 0 | 0| 
