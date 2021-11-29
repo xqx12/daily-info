@@ -93,7 +93,6 @@
 | --- | --- | --- | --- | ---| 
 | 20211128T23:24:54Z | Null | https://github.com/Oleg-martsenie/fuzzy-goggles | 0 | 0| 
 | 20211128T23:02:01Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20211128T22:56:02Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6866 | 1436| 
 | 20211128T22:48:26Z | rstr is a helper module for easily generating random strings of various types. It could be useful for fuzz testing, generating dummy data, or other applications. | https://github.com/leapfrogonline/rstr | 32 | 4| 
 | 20211128T22:38:10Z | Null | https://github.com/oscarpimentel/fuzzy-tools | 0 | 0| 
 | 20211128T22:09:51Z | React / To Do Tracker | https://github.com/Alekususenpai/fuzzy-broccoli | 0 | 0| 
@@ -101,6 +100,7 @@
 | 20211128T20:56:40Z | Code for the project in AGH (IWISE) | https://github.com/MatWich/FuzzyLogic | 0 | 0| 
 | 20211128T20:52:05Z | Null | https://github.com/quatros96/fuzzy-pendulum | 0 | 0| 
 | 20211128T20:35:48Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
+| 20211128T19:26:58Z | Null | https://github.com/ductnn/fuzzysearch | 0 | 0| 
 
 
 
