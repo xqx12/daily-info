@@ -55,6 +55,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211129T14:12:51Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 3792 | 1310| 
 | 20211129T14:07:02Z | Rodan Exploitation Framework | https://github.com/Etisalat-Egypt/Rodan | 0 | 0| 
 | 20211129T14:04:48Z | HEVD | https://github.com/ReJimp/Kernel_Exploit | 2 | 0| 
 | 20211129T14:03:43Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
@@ -64,7 +65,6 @@
 | 20211129T13:18:15Z | Trabajo de fin de grado, esta tool permite al usuario realizar una pequeña auditoria a la hora de escalar privilegios en windows, la herramienta cuenta con un módulo automático, uno manual, y un módulo de búsqueda para encontrar exploits | https://github.com/ErnestoCubo/autoexploit | 1 | 0| 
 | 20211129T12:45:40Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 15| 
 | 20211129T12:11:16Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 251 | 77| 
-| 20211129T12:02:26Z | Null | https://github.com/Franco7Scala/exploiting_gradient | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -95,6 +95,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211129T14:20:41Z | A GoLang fuzzy string matcher | https://github.com/mjarkk/fuzzy-matcher | 0 | 0| 
+| 20211129T14:19:11Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3801 | 896| 
 | 20211129T14:16:23Z | Naive Bayes Classifiers | https://github.com/Jodavid/FuzzyClass | 0 | 0| 
 | 20211129T13:51:44Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2257 | 444| 
 | 20211129T13:51:04Z | Null | https://github.com/snibh/fuzzy-goggles | 0 | 0| 
@@ -103,8 +105,6 @@
 | 20211129T13:40:24Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 853 | 131| 
 | 20211129T13:37:24Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211129T13:29:03Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 608 | 64| 
-| 20211129T13:25:18Z | A GoLang fuzzy string matcher | https://github.com/mjarkk/fuzzy-matcher | 0 | 0| 
-| 20211129T13:23:37Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 313 | 42| 
 
 
 
