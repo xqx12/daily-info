@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211129T02:26:19Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 110 | 21| 
 | 20211129T02:21:21Z | Exploit for CVE-2021-30807 | https://github.com/jsherman212/iomfb-exploit | 15 | 5| 
 | 20211129T02:18:04Z | fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | 0 | 0| 
 | 20211129T02:06:55Z | WTF?!DOINB RYZE ][L9 GANG LEADER][ ! IS  BACK ! HOWLINGABYSS WADBÅT HACK 英雄联盟 NEW RUNESይሮጣልANCIENT RUNEGANDALF 魔法 9K LP MACRO GOD ARAM-WARRIOR MODE與男孩 GULAG TELEPORTATION JUTSU ፕራይONን 黃金種植HARVEST ENEMY SOUL FOR EMPEROR VL15T4R?ጥፋት ይመጣል OPGG HACK double cs bug？？？英雄联盟 400CS [ACTUALLY 200]\ FPX Doinb (23 yo M(not a rapist)) abuses new wadbot feature on stream (!!!) - 2X CS with China hacks & farm exploit + still undetecte in china) DOINB RYZE HACK 400 CS 14-DAY SUSPENSION HACKK EXPLOIT L9 TECHNOLOGY ይመጣል HACK ?!? GANDALF RANK 1 TURBO 暨上地毯大脑妈妈他妈的 !!WTF!!(what the fuk)DOINB 매크로{NEW} NUNU FAKER中路MID 2 TOP GANK HACK骇客MW2 EXIT MAP RIOT SHIELD GLITCH JUMP?! OUT OF MAP SNOWBALLEXPLOIT사라지다 KILL ENEMY ((INVISIBLE))=UNDETECTED IN SOUTH-WESTERN TIMBUKTU [[Patch 10.16/() 99.9% LOOPHOLE WTF TRIUMPHANT RYZE HACK? INFINITE RP RAREST SKINS? DOINB LEAGUE OF LEGENDS 英雄聯盟糟透了??? DOINB COMEBACK 返回 UNDETECTED IN EUW [[WORKING PATCH 9.15!]] FAST ORBWALK HACK广播INSTA SPELLCAST GLITCH RACIST DOINB HACK？英雄联盟 | https://github.com/divinityMaker/semester-exam | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20211129T01:09:24Z | A Roblox exploiting library that looks like nodejs. | https://github.com/Mlemix/roblox.ls | 0 | 0| 
 | 20211129T01:01:12Z | Python library for interacting with in-memory C structures using data mined from binary DWARF debug info. | https://github.com/josconno/moria | 0 | 0| 
 | 20211129T00:56:02Z | An exploit and demonstration on how to exploit a Client Side Stored XSS vulnerability in https://anonstress.com. | https://github.com/0x1CA3/AnonStress-Stored-XSS-Exploit | 3 | 0| 
-| 20211129T00:51:03Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 8524 | 1469| 
 
 
 # backdoor on Github 推荐

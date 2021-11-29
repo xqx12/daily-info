@@ -52,13 +52,13 @@
 | 20211128T23:54:22Z | HEVD | https://github.com/ReJimp/Kernel_Exploit | 2 | 0| 
 | 20211128T23:49:58Z | Null | https://github.com/GitHubCollection/jsherman212-iomfb-exploit | 0 | 0| 
 | 20211128T23:46:24Z | Whasssup yall got into coding and exploits about a year ago took the next step and coded up some heat for yall. A bunch of fortnite exploits on this one anywhere to aimbot to flying. I think yall would like this one a bunch sincerly  the 12 year old codester. | https://github.com/yojoshu/cmdbuildpro | 0 | 0| 
-| 20211128T23:13:51Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 110 | 21| 
 | 20211128T22:37:48Z | A collection of links related to Linux kernel security and exploitation | https://github.com/xairy/linux-kernel-exploitation | 3825 | 808| 
 | 20211128T22:00:39Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10371 | 1787| 
 | 20211128T21:58:06Z | Null | https://github.com/darbysauter/ip5c_kern_exploit | 0 | 0| 
 | 20211128T20:56:42Z | a roblox exploit hub. | https://github.com/merdachu/Kick-hub | 0 | 0| 
 | 20211128T20:53:47Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 254 | 11| 
 | 20211128T20:03:36Z | Programs for exploring disassembling and buffer overflows for Vanderbilt CS 6387 | https://github.com/wutka/exploits_6387 | 0 | 0| 
+| 20211128T19:57:27Z | This is a roblox exploiter for ofc Roblox | https://github.com/WTSTiNy/roblox-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
