@@ -55,16 +55,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211129T13:11:16Z | Trabajo de fin de grado, esta tool permite al usuario realizar una pequeña auditoria a la hora de escalar privilegios en windows, la herramienta cuenta con un módulo automático, uno manual, y un módulo de búsqueda para encontrar exploits | https://github.com/ErnestoCubo/autoexploit | 1 | 0| 
-| 20211129T13:09:24Z | Simultaneously search CVEs and exploits across multiple cybersecurity data sources.  | https://github.com/djjoa/exploit-searcher | 0 | 0| 
+| 20211129T14:02:00Z | Automatic Return Oriented Programming exploit generator | https://github.com/JDBryan/ROPSlap | 0 | 0| 
+| 20211129T13:50:45Z | Exploit for CVE-2021-30807 | https://github.com/jsherman212/iomfb-exploit | 39 | 8| 
+| 20211129T13:35:36Z | Simultaneously search CVEs and exploits across multiple cybersecurity data sources.  | https://github.com/djjoa/exploit-searcher | 0 | 0| 
+| 20211129T13:18:15Z | Trabajo de fin de grado, esta tool permite al usuario realizar una pequeña auditoria a la hora de escalar privilegios en windows, la herramienta cuenta con un módulo automático, uno manual, y un módulo de búsqueda para encontrar exploits | https://github.com/ErnestoCubo/autoexploit | 1 | 0| 
 | 20211129T13:03:01Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211129T12:45:40Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 15| 
 | 20211129T12:11:16Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 251 | 77| 
 | 20211129T12:02:26Z | Null | https://github.com/Franco7Scala/exploiting_gradient | 0 | 0| 
 | 20211129T11:42:17Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10372 | 1787| 
 | 20211129T11:27:14Z | Null | https://github.com/darbysauter/ip5c_kern_exploit | 0 | 0| 
-| 20211129T10:51:13Z | Exploiting Python PIL Module Command Execution Vulnerability | https://github.com/neargle/PIL-RCE-By-GhostButt | 53 | 14| 
-| 20211129T10:50:50Z | proxylogon, proxyshell, proxyoracle full chain exploit tool | https://github.com/FDlucifer/Proxy-Attackchain | 6 | 1| 
 
 
 # backdoor on Github 推荐
@@ -95,16 +95,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211129T13:02:09Z | Null | https://github.com/Clearymk/TypeScriptFuzzer | 0 | 0| 
-| 20211129T12:52:55Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20211129T12:40:21Z | This Repository is for maintaining RegressFuzz settings | https://github.com/hanyoungYoo/RegressFuzzSetting | 0 | 0| 
-| 20211129T12:13:51Z | CATS is a REST APIs fuzzer and negative testing tool for OpenAPI endpoints. CATS automatically  generates, runs and reports tests with minimum configuration and no coding effort. Tests are self-healing and does not require maintenance. | https://github.com/Endava/cats | 465 | 20| 
-| 20211129T12:07:05Z | Null | https://github.com/Abhi13-s/fuzzy-logic | 0 | 0| 
-| 20211129T12:04:25Z | Null | https://github.com/Abhi13-s/Task-fuzzy-logicc | 0 | 0| 
-| 20211129T11:41:02Z | Reminder, Information gain, Fuzzy c clustering problem calculator using JavaScript | https://github.com/sakib-75/fuzzy-c-problem | 0 | 0| 
-| 20211129T11:27:05Z | Null | https://github.com/nhsd-exeter/dos-service-fuzzy-search-api | 1 | 0| 
-| 20211129T11:22:23Z | Null | https://github.com/stoyky/fuzzing_assignment | 0 | 0| 
-| 20211129T11:08:25Z | Null | https://github.com/mrcolab/fuzzy-octo-enigma | 0 | 0| 
+| 20211129T13:51:44Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2257 | 444| 
+| 20211129T13:51:04Z | Null | https://github.com/snibh/fuzzy-goggles | 0 | 0| 
+| 20211129T13:47:53Z | With this project, I want to make a blending between Persevere and taPCT. The idea is to find bugs in large amounts of concurrent threading instruction. For that we will first try and identify with this tool some known bugs from emac versions that were not yet corrected. We first model the system call as a set of events and then apply the taPCT algorithm. Later on, we can use fuzzing to give larger system call sequences to our probabilistic scheduling algorithm.  | https://github.com/Ricagraca/taPPCT | 0 | 0| 
+| 20211129T13:41:44Z | A dart port of the popular fuzzywuzzy package | https://github.com/SphericalKat/dart-fuzzywuzzy | 17 | 2| 
+| 20211129T13:40:24Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 853 | 131| 
+| 20211129T13:37:24Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20211129T13:29:03Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 608 | 64| 
+| 20211129T13:25:18Z | A GoLang fuzzy string matcher | https://github.com/mjarkk/fuzzy-matcher | 0 | 0| 
+| 20211129T13:23:37Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 313 | 42| 
+| 20211129T13:16:19Z | Null | https://github.com/kymAndri/fuzzy-computing-machine | 0 | 0| 
 
 
 
