@@ -149,6 +149,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211129T02:47:15Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20211129T02:44:56Z | Null | https://github.com/ChrisHayes1/Fuzz-Testing-GUIs-Cross-Platform | 0 | 0| 
 | 20211129T02:22:48Z | Aplicacion de Nextjs donde se pondra en practica la integracion continua y deployment continuo con GithubActions | https://github.com/katchvidal/fuzzy-waddle | 0 | 0| 
 | 20211129T02:16:41Z | This Repository is for maintaining RegressFuzz settings | https://github.com/hanyoungYoo/RegressFuzzSetting | 0 | 0| 
 | 20211129T02:10:41Z | Null | https://github.com/Mortal-Coder/fuzzyrobot.github.io | 0 | 0| 
@@ -157,8 +159,6 @@
 | 20211129T01:39:18Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6866 | 1436| 
 | 20211129T01:08:21Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2252 | 443| 
 | 20211129T01:04:38Z | Null | https://github.com/llahz/fuzzy-enigma | 0 | 0| 
-| 20211129T00:55:06Z | Project App - 로그인, Rest Api 완성 | https://github.com/songmik/FuzzBuzz | 0 | 0| 
-| 20211129T00:33:46Z | Simple fuzzing tool designed for multi-threaded operation and for testing execution time.  | https://github.com/amitjain-3/twoFuzzingLong | 0 | 0| 
 
 
 
