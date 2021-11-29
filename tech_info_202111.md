@@ -149,6 +149,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211129T02:10:41Z | Null | https://github.com/Mortal-Coder/fuzzyrobot.github.io | 0 | 0| 
 | 20211129T02:07:05Z | fzf-like fuzzy-finder as a Go library | https://github.com/ktr0731/go-fuzzyfinder | 250 | 25| 
 | 20211129T02:06:14Z | BambooFuzz: An IoT Firmware Vulnerability Mining System based on Static and Dynamic Analysis | https://github.com/jackfromeast/BambooFuzz | 3 | 0| 
 | 20211129T01:39:18Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6866 | 1436| 
@@ -158,7 +159,6 @@
 | 20211129T00:55:06Z | Project App - 로그인, Rest Api 완성 | https://github.com/songmik/FuzzBuzz | 0 | 0| 
 | 20211129T00:33:46Z | Simple fuzzing tool designed for multi-threaded operation and for testing execution time.  | https://github.com/amitjain-3/twoFuzzingLong | 0 | 0| 
 | 20211128T23:24:54Z | Null | https://github.com/Oleg-martsenie/fuzzy-goggles | 0 | 0| 
-| 20211128T23:02:01Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 
 
 
