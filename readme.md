@@ -54,13 +54,13 @@
 | 20211128T23:54:22Z | HEVD | https://github.com/ReJimp/Kernel_Exploit | 2 | 0| 
 | 20211128T23:49:58Z | Null | https://github.com/GitHubCollection/jsherman212-iomfb-exploit | 0 | 0| 
 | 20211128T23:46:24Z | Whasssup yall got into coding and exploits about a year ago took the next step and coded up some heat for yall. A bunch of fortnite exploits on this one anywhere to aimbot to flying. I think yall would like this one a bunch sincerly  the 12 year old codester. | https://github.com/yojoshu/cmdbuildpro | 0 | 0| 
-| 20211128T23:14:01Z | Python library for interacting with in-memory C structures using data mined from binary DWARF debug info. | https://github.com/josconno/moria | 0 | 0| 
 | 20211128T23:13:51Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 110 | 21| 
 | 20211128T22:37:48Z | A collection of links related to Linux kernel security and exploitation | https://github.com/xairy/linux-kernel-exploitation | 3825 | 808| 
 | 20211128T22:00:39Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10371 | 1787| 
 | 20211128T21:58:06Z | Null | https://github.com/darbysauter/ip5c_kern_exploit | 0 | 0| 
 | 20211128T20:56:42Z | a roblox exploit hub. | https://github.com/merdachu/Kick-hub | 0 | 0| 
 | 20211128T20:53:47Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 254 | 11| 
+| 20211128T20:03:36Z | Programs for exploring disassembling and buffer overflows for Vanderbilt CS 6387 | https://github.com/wutka/exploits_6387 | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -77,8 +77,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211128T12:37:48Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1829 | 522| 
-| 20211128T10:44:18Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2566 | 380| 
+| 20211128T23:33:27Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1831 | 522| 
+| 20211128T19:35:29Z | A symbolic execution engine for x86-32 that allows starting execution from a concrete execution%s core dump. | https://github.com/nmosier/symex | 0 | 0| 
+| 20211128T17:04:43Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2567 | 380| 
 | 20211128T06:09:33Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 10 | 4| 
 | 20211128T00:38:13Z | Codebase for my Level 4 University Project: Static Analysis of Executable Code to Detect Backdoors on IoT Devices | https://github.com/sophieboyle/Symbolic-Execution-for-ARM-Backdoor-Detection | 0 | 0| 
 

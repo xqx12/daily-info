@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211129T01:01:12Z | Python library for interacting with in-memory C structures using data mined from binary DWARF debug info. | https://github.com/josconno/moria | 0 | 0| 
 | 20211129T00:56:02Z | An exploit and demonstration on how to exploit a Client Side Stored XSS vulnerability in https://anonstress.com. | https://github.com/0x1CA3/AnonStress-Stored-XSS-Exploit | 3 | 0| 
 | 20211129T00:51:03Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 8524 | 1469| 
 | 20211129T00:41:34Z | Exploit for CVE-2021-30807 | https://github.com/jsherman212/iomfb-exploit | 9 | 1| 
@@ -100,7 +101,6 @@
 | 20211128T23:54:22Z | HEVD | https://github.com/ReJimp/Kernel_Exploit | 2 | 0| 
 | 20211128T23:49:58Z | Null | https://github.com/GitHubCollection/jsherman212-iomfb-exploit | 0 | 0| 
 | 20211128T23:46:24Z | Whasssup yall got into coding and exploits about a year ago took the next step and coded up some heat for yall. A bunch of fortnite exploits on this one anywhere to aimbot to flying. I think yall would like this one a bunch sincerly  the 12 year old codester. | https://github.com/yojoshu/cmdbuildpro | 0 | 0| 
-| 20211128T23:14:01Z | Python library for interacting with in-memory C structures using data mined from binary DWARF debug info. | https://github.com/josconno/moria | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -121,8 +121,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211128T12:37:48Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1829 | 522| 
-| 20211128T10:44:18Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2566 | 380| 
+| 20211128T23:33:27Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1831 | 522| 
+| 20211128T19:35:29Z | A symbolic execution engine for x86-32 that allows starting execution from a concrete execution%s core dump. | https://github.com/nmosier/symex | 0 | 0| 
+| 20211128T17:04:43Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2567 | 380| 
 | 20211128T06:09:33Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 10 | 4| 
 | 20211128T00:38:13Z | Codebase for my Level 4 University Project: Static Analysis of Executable Code to Detect Backdoors on IoT Devices | https://github.com/sophieboyle/Symbolic-Execution-for-ARM-Backdoor-Detection | 0 | 0| 
 | 20211127T23:24:29Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1926 | 402| 
@@ -130,7 +131,6 @@
 | 20211127T07:04:10Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 175 | 10| 
 | 20211126T22:01:12Z | Angora is a mutation-based fuzzer.  The main goal of Angora is to increase branch coverage by solving path constraints without symbolic execution.  | https://github.com/AngoraFuzzer/Angora | 729 | 135| 
 | 20211126T13:40:25Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 18 | 5| 
-| 20211125T16:43:35Z | An example of how we used manticore for symbolic execution on klade solidity smart contracts  | https://github.com/AlbertSu123/Manticore | 0 | 0| 
 
 
 # big4 on Github 推荐
