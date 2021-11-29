@@ -29,7 +29,6 @@
 | 20211128T23:43:31Z | CVE-2021-40865 | CVE-2021-40865 | https://github.com/hktalent/CVE-2021-40865 | | 
 | 20211128T09:22:54Z | cve-2021-42013 | Apache 2.4.50 Path traversal vulnerability | https://github.com/Vulnmachines/cve-2021-42013 | | 
 | 20211128T01:16:53Z | CVE-2021-41653 | TP-Link TL-WR840N EU v5 Remote Code Execution | https://github.com/ohnonoyesyes/CVE-2021-41653 | | 
-| 20211128T01:12:42Z | CVE-2021-43267 | Local PoC exploit for CVE-2021-43267 (Linux TIPC) | https://github.com/ohnonoyesyes/CVE-2021-43267 | | 
 | 20211128T01:12:22Z | CVE-2021-21224 | ARM64 PoC for CVE-2021-21224 | https://github.com/ohnonoyesyes/CVE-2021-21224 | | 
 
 
