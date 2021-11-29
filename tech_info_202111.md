@@ -91,13 +91,13 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211129T01:03:14Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211129T01:01:12Z | Python library for interacting with in-memory C structures using data mined from binary DWARF debug info. | https://github.com/josconno/moria | 0 | 0| 
 | 20211129T00:56:02Z | An exploit and demonstration on how to exploit a Client Side Stored XSS vulnerability in https://anonstress.com. | https://github.com/0x1CA3/AnonStress-Stored-XSS-Exploit | 3 | 0| 
 | 20211129T00:51:03Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 8524 | 1469| 
 | 20211129T00:41:34Z | Exploit for CVE-2021-30807 | https://github.com/jsherman212/iomfb-exploit | 9 | 1| 
 | 20211129T00:31:15Z | Extensible framework for analyzing publicly available information about vulnerabilities | https://github.com/leonov-av/vulristics | 41 | 6| 
 | 20211129T00:17:16Z | Writeup for exploit.education/phoenix | https://github.com/vi11ain/phoenix-writeup | 0 | 0| 
-| 20211129T00:03:27Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211128T23:54:22Z | HEVD | https://github.com/ReJimp/Kernel_Exploit | 2 | 0| 
 | 20211128T23:49:58Z | Null | https://github.com/GitHubCollection/jsherman212-iomfb-exploit | 0 | 0| 
 | 20211128T23:46:24Z | Whasssup yall got into coding and exploits about a year ago took the next step and coded up some heat for yall. A bunch of fortnite exploits on this one anywhere to aimbot to flying. I think yall would like this one a bunch sincerly  the 12 year old codester. | https://github.com/yojoshu/cmdbuildpro | 0 | 0| 
@@ -149,6 +149,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211129T01:04:38Z | Null | https://github.com/llahz/fuzzy-enigma | 0 | 0| 
 | 20211129T00:55:29Z | Aplicacion de Nextjs donde se pondra en practica la integracion continua y deployment continuo con GithubActions | https://github.com/katchvidal/fuzzy-waddle | 0 | 0| 
 | 20211129T00:55:06Z | Project App - 로그인, Rest Api 완성 | https://github.com/songmik/FuzzBuzz | 0 | 0| 
 | 20211129T00:33:46Z | Simple fuzzing tool designed for multi-threaded operation and for testing execution time.  | https://github.com/amitjain-3/twoFuzzingLong | 0 | 0| 
@@ -158,7 +159,6 @@
 | 20211128T22:48:26Z | rstr is a helper module for easily generating random strings of various types. It could be useful for fuzz testing, generating dummy data, or other applications. | https://github.com/leapfrogonline/rstr | 32 | 4| 
 | 20211128T22:38:10Z | Null | https://github.com/oscarpimentel/fuzzy-tools | 0 | 0| 
 | 20211128T22:09:51Z | React / To Do Tracker | https://github.com/Alekususenpai/fuzzy-broccoli | 0 | 0| 
-| 20211128T21:08:51Z | Null | https://github.com/bhnatkowska/FuzzyLogicInstanceAlignment | 0 | 0| 
 
 
 
