@@ -55,16 +55,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211129T13:11:16Z | Trabajo de fin de grado, esta tool permite al usuario realizar una pequeña auditoria a la hora de escalar privilegios en windows, la herramienta cuenta con un módulo automático, uno manual, y un módulo de búsqueda para encontrar exploits | https://github.com/ErnestoCubo/autoexploit | 1 | 0| 
+| 20211129T13:09:24Z | Simultaneously search CVEs and exploits across multiple cybersecurity data sources.  | https://github.com/djjoa/exploit-searcher | 0 | 0| 
 | 20211129T13:03:01Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211129T12:45:40Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 15| 
-| 20211129T12:43:55Z | Simultaneously search CVEs and exploits across multiple cybersecurity data sources.  | https://github.com/djjoa/exploit-searcher | 0 | 0| 
 | 20211129T12:11:16Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 251 | 77| 
 | 20211129T12:02:26Z | Null | https://github.com/Franco7Scala/exploiting_gradient | 0 | 0| 
 | 20211129T11:42:17Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10372 | 1787| 
 | 20211129T11:27:14Z | Null | https://github.com/darbysauter/ip5c_kern_exploit | 0 | 0| 
 | 20211129T10:51:13Z | Exploiting Python PIL Module Command Execution Vulnerability | https://github.com/neargle/PIL-RCE-By-GhostButt | 53 | 14| 
 | 20211129T10:50:50Z | proxylogon, proxyshell, proxyoracle full chain exploit tool | https://github.com/FDlucifer/Proxy-Attackchain | 6 | 1| 
-| 20211129T10:43:23Z | To-Do | https://github.com/Lescovar420/SABA-EXPLOIT-FPSE | 0 | 1| 
 
 
 # backdoor on Github 推荐
