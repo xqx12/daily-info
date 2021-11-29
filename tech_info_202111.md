@@ -6,6 +6,16 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20211129 | UEFI virtual machine firmware hardening through snapshots and attack surface reduction | https://arxiv.org/abs/2111.10167| 
+| 20211129 | Linux 平台的无文件落地、内存执行二级制文件的 Loader | https://github.com/liamg/memit| 
+| 20211129 | Git Repo 泄露漏洞 | https://iosentrix.com/blog/git-source-code-disclosure-vulnerability/| 
+| 20211129 | Chrome 浏览器沙箱逃逸类型漏洞的整理 | https://github.com/allpaca/chrome-sbx-db| 
+| 20211129 | Goblin - 一款适用于红蓝对抗中的仿真钓鱼系统 | https://github.com/xiecat/goblin| 
+| 20211129 | JPCERT 公开的 Lazarus APT 组织的研究报告和分析工具 | https://github.com/JPCERTCC/Lazarus-research| 
+| 20211129 | 朝鲜 Zinc APT 组织冒充三星招聘人员攻击韩国安全公司研究员 | http://securityaffairs.co/wordpress/125071/apt/north-korea-zinc-targets-security-firms.html?utm_source=feedly&utm_medium=rss&utm_campaign=north-korea-zinc-targets-security-firms| 
+| 20211129 | 用于分析 Golang 二进制的 IDA Python 脚本 | https://github.com/SentineLabs/AlphaGolang| 
+| 20211129 | 利用 CSS 与 SVG Font 向外渗透数据 | https://mksben.l0.cm/2021/11/css-exfiltration-svg-font.html| 
+| 20211129 | IOMFB OOB 漏洞（CVE-2021-30807）在 iOS <=14.7 版本的利用 | https://sec.today/pulses/a1e6acc8-0487-4f65-80a3-9ce7e30d809e/| 
 | 20211126 | Symbolic - 一款 Rust 语言写的调用栈符号生成工具 | https://github.com/getsentry/symbolic| 
 | 20211126 | 多个安全细分方向的资料整理 | https://github.com/firmianay/security-paper| 
 | 20211126 | Wazuh - 一款面向入侵检测、日志分析、文件监控等功能的开源安全平台 | https://github.com/wazuh/wazuh| 
@@ -16,21 +26,13 @@
 | 20211126 | MediaTek audio DSP 被发现漏洞，可被用于 Android App 本地提权 | http://research.checkpoint.com/2021/looking-for-vulnerabilities-in-mediatek-audio-dsp/| 
 | 20211126 | TP-LINK TL-WR840N Ping 功能处理存在命令行注入漏洞 | https://k4m1ll0.com/cve-2021-41653.html| 
 | 20211125 | Using CVE-2021-40531 for RCE with Sketch | https://jonpalmisc.com/2021/11/22/cve-2021-40531| 
-| 20211125 | Brida - 用于 Burp Suite 与 Frida 协作的 Bridge | https://github.com/federicodotta/Brida| 
-| 20211125 | Hunting for Persistence in Linux (Part 1): Auditd, Sysmon, Osquery, and Webshells | https://pberba.github.io/security/2021/11/22/linux-threat-hunting-for-persistence-sysmon-auditd-webshell/| 
-| 20211125 | Linux TIPC 堆溢出漏洞（CVE-2021-43267）的利用 | http://haxx.in/posts/pwning-tipc/| 
-| 20211125 | 网络钓鱼攻击中的诱饵设计案例 | https://inquest.net/blog/2021/11/23/graphical-lures-age-cybercrime| 
-| 20211125 | 反序列化小子捕获器-反制 ysoserial | https://mp.weixin.qq.com/s/Ww_IxNLXI0KWZYERGwu3bg| 
-| 20211125 | F-Secure Labs 对金融信息交换协议（FIX）的分析 | http://labs.f-secure.com/blog/a-bit-of-a-fixer-upper-playing-with-the-fix-tcp-protocol/| 
-| 20211125 | 金融 Web 应用常见的安全漏洞分析报告 | https://soroush.secproject.com/downloadable/common_security_issues_in_financially_oriented_apps_v2.0.pdf| 
-| 20211125 | How to Detect Azure Active Directory Backdoors: Identity Federation | https://www.inversecos.com/2021/11/how-to-detect-azure-active-directory.html| 
-| 20211125 | Dharma - 基于语法文件生成 Fuzz 测试样本的工具 | https://sec.today/pulses/fb6ae116-16ea-4628-8e22-d43d0bafef9e/| 
-| 20211125 | Dharma - 基于语法文件生成 Fuzz 测试样本的工具 | http://blog.haboob.sa/blog/introduction-to-dharma-part-1| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20211129 | 记一次完成的钓鱼实战 | https://www.sec-in.com/article/1135| 
+| 20211129 | SecWiki周刊（第404期) | https://www.sec-wiki.com/weekly/404| 
 | 20211128 | PT632电信“老猫”分析 | https://www.anquanke.com/post/id/259503| 
 | 20211128 | 2021年“绿盟杯”重庆市大学生信息安全竞赛-WP | https://www.anquanke.com/post/id/256976| 
 | 20211128 | 蓝队反制后的自动化信息收集 | https://www.anquanke.com/post/id/259358| 
@@ -39,23 +41,21 @@
 | 20211128 | 自删除技术详解 | https://www.anquanke.com/post/id/259050| 
 | 20211128 | 使用 ProxyShell 和 ProxyLogon 劫持邮件链 | https://paper.seebug.org/1764/| 
 | 20211128 | 关于多步骤攻击预测方法的调研概要 | https://mp.weixin.qq.com/s/ADOeqhYcjKfJlkVhkUAFaw| 
-| 20211128 | 数据安全保护和治理的新方法 | https://mp.weixin.qq.com/s/rTz8HVyGJE0x2UbVjiy8jw| 
-| 20211128 | FOSS软件中漏洞的生命周期 | https://mp.weixin.qq.com/s/XTJf0wdUQFOGypHofjsscQ| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211129T03:12:16Z | CVE-2020-0097 | Null | https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base | | 
-| 20211129T03:11:58Z | CVE-2020-0097 | Null | https://github.com/Nivaskumark/CVE-2020-0097-frameworks_ba | | 
-| 20211129T03:09:04Z | CVE-2021-43267 | Local PoC exploit for CVE-2021-43267 (Linux TIPC) | https://github.com/ohnonoyesyes/CVE-2021-43267 | | 
-| 20211129T02:58:19Z | CVE-2020-0114 | Null | https://github.com/Nivaskumark/CVE-2020-0114-frameworks_base | | 
-| 20211129T02:24:08Z | CVE-2020-0114 | Null | https://github.com/Nivaskumark/CVE-2020-0114-frameworks_base_before | | 
-| 20211129T02:21:48Z | CVE-2021-22205 | CVE-2021-22205 RCE  | https://github.com/c0okB/CVE-2021-22205 | | 
-| 20211129T02:05:52Z | CVE-2021-40865 | CVE-2021-40865 | https://github.com/hktalent/CVE-2021-40865 | | 
-| 20211129T01:36:41Z | CVE-2020-0114 | Null | https://github.com/Nivaskumark/CVE-2020-0114-frameworks_basety | | 
-| 20211128T09:22:54Z | cve-2021-42013 | Apache 2.4.50 Path traversal vulnerability | https://github.com/Vulnmachines/cve-2021-42013 | | 
-| 20211128T01:16:53Z | CVE-2021-41653 | TP-Link TL-WR840N EU v5 Remote Code Execution | https://github.com/ohnonoyesyes/CVE-2021-41653 | | 
+| 20211129T11:40:47Z | CVE-2021-24084 | Windows MDM LPE | https://github.com/ohnonoyesyes/CVE-2021-24084 | | 
+| 20211129T11:40:02Z | CVE-2021-20837 | XMLRPC  - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | | 
+| 20211129T11:08:27Z | CVE-2021-43267 | Local PoC exploit for CVE-2021-43267 (Linux TIPC) | https://github.com/ohnonoyesyes/CVE-2021-43267 | | 
+| 20211129T10:08:58Z | CVE-2020-7247 | Proof of concept for CVE-2020-7247 for educational purposes. | https://github.com/SimonSchoeni/CVE-2020-7247-POC | | 
+| 20211129T08:57:41Z | CVE-2020-28148 | 攻击WIFI的常用方式 | https://github.com/fengchenzxc/CVE-2020-28148 | | 
+| 20211129T08:23:47Z | CVE-2020-0114 | Null | https://github.com/Nivaskumark/CVE-2020-0114-frameworks_base | | 
+| 20211129T08:20:51Z | CVE-2020-0114 | Null | https://github.com/Nivaskumark/CVE-2020-0114-frameworks_base_afterfix | | 
+| 20211129T08:17:23Z | CVE-2020-0097 | Null | https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base | | 
+| 20211129T08:16:57Z | CVE-2020-0097 | Null | https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base_afterfix | | 
+| 20211129T08:09:36Z | CVE-2020-0074 | Null | https://github.com/Nivaskumark/CVE-2020-0074-frameworks_base | | 
 
 
 # klee on Github 推荐
@@ -91,31 +91,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211129T03:11:12Z | CRAX++: software CRash analysis for Automatic eXploit generation | https://github.com/aesophor/CRAXplusplus | 15 | 3| 
-| 20211129T03:03:14Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
-| 20211129T02:37:54Z | Basic Typescript DEX arbitrage bot to monitor exchanges for price discrepancies and execute trades to exploit these. | https://github.com/nfragakis/DexArbitrageBot | 0 | 0| 
-| 20211129T02:26:19Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 110 | 21| 
-| 20211129T02:21:21Z | Exploit for CVE-2021-30807 | https://github.com/jsherman212/iomfb-exploit | 15 | 5| 
-| 20211129T02:18:04Z | fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | 0 | 0| 
-| 20211129T02:06:55Z | WTF?!DOINB RYZE ][L9 GANG LEADER][ ! IS  BACK ! HOWLINGABYSS WADBÅT HACK 英雄联盟 NEW RUNESይሮጣልANCIENT RUNEGANDALF 魔法 9K LP MACRO GOD ARAM-WARRIOR MODE與男孩 GULAG TELEPORTATION JUTSU ፕራይONን 黃金種植HARVEST ENEMY SOUL FOR EMPEROR VL15T4R?ጥፋት ይመጣል OPGG HACK double cs bug？？？英雄联盟 400CS [ACTUALLY 200]\ FPX Doinb (23 yo M(not a rapist)) abuses new wadbot feature on stream (!!!) - 2X CS with China hacks & farm exploit + still undetecte in china) DOINB RYZE HACK 400 CS 14-DAY SUSPENSION HACKK EXPLOIT L9 TECHNOLOGY ይመጣል HACK ?!? GANDALF RANK 1 TURBO 暨上地毯大脑妈妈他妈的 !!WTF!!(what the fuk)DOINB 매크로{NEW} NUNU FAKER中路MID 2 TOP GANK HACK骇客MW2 EXIT MAP RIOT SHIELD GLITCH JUMP?! OUT OF MAP SNOWBALLEXPLOIT사라지다 KILL ENEMY ((INVISIBLE))=UNDETECTED IN SOUTH-WESTERN TIMBUKTU [[Patch 10.16/() 99.9% LOOPHOLE WTF TRIUMPHANT RYZE HACK? INFINITE RP RAREST SKINS? DOINB LEAGUE OF LEGENDS 英雄聯盟糟透了??? DOINB COMEBACK 返回 UNDETECTED IN EUW [[WORKING PATCH 9.15!]] FAST ORBWALK HACK广播INSTA SPELLCAST GLITCH RACIST DOINB HACK？英雄联盟 | https://github.com/divinityMaker/semester-exam | 0 | 0| 
-| 20211129T01:57:49Z | Null | https://github.com/hackerAlice/hacking-the-art-of-exploitation | 0 | 0| 
-| 20211129T01:42:57Z | An exploit for an XSS and RCE vulnerability in the GoAhead webserver for embedded devices. | https://github.com/0x1CA3/GoAhead-IPCAM-XSS-and-RCE | 3 | 0| 
-| 20211129T01:09:24Z | A Roblox exploiting library that looks like nodejs. | https://github.com/Mlemix/roblox.ls | 0 | 0| 
+| 20211129T12:45:40Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 15| 
+| 20211129T12:43:55Z | Simultaneously search CVEs and exploits across multiple cybersecurity data sources.  | https://github.com/djjoa/exploit-searcher | 0 | 0| 
+| 20211129T12:11:16Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 251 | 77| 
+| 20211129T12:04:11Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
+| 20211129T12:02:26Z | Null | https://github.com/Franco7Scala/exploiting_gradient | 0 | 0| 
+| 20211129T11:42:17Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10372 | 1787| 
+| 20211129T11:27:14Z | Null | https://github.com/darbysauter/ip5c_kern_exploit | 0 | 0| 
+| 20211129T10:51:13Z | Exploiting Python PIL Module Command Execution Vulnerability | https://github.com/neargle/PIL-RCE-By-GhostButt | 53 | 14| 
+| 20211129T10:50:50Z | proxylogon, proxyshell, proxyoracle full chain exploit tool | https://github.com/FDlucifer/Proxy-Attackchain | 6 | 1| 
+| 20211129T10:43:23Z | To-Do | https://github.com/Lescovar420/SABA-EXPLOIT-FPSE | 0 | 1| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211129T12:51:16Z | Simple reverse shell for remote control of devices | https://github.com/michaljaz/reverse-backdoor | 0 | 0| 
+| 20211129T12:28:41Z | Code for %Biometric Backdoors: A Poisoning Attack Against Unsupervised Template Updating% | https://github.com/ssloxford/biometric-backdoors | 9 | 1| 
+| 20211129T10:08:32Z | A quick script to spot the usage of Unicode Bidi (bidirectional) characters that could lead to an Invisible Backdoor | https://github.com/cybersecsi/invisible-backdoor-detector | 6 | 0| 
+| 20211129T08:34:18Z | Unofficial pytorch implementation of RobNet(Defense-Resistant Backdoor Attacks on DNN) | https://github.com/dhkim2810/RobNet | 0 | 0| 
+| 20211129T06:04:08Z | Trojan_backdoor | https://github.com/chpark0714/Trojan_backdoor | 0 | 0| 
+| 20211129T06:02:00Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 382 | 161| 
 | 20211129T00:25:13Z | Some malware samples or suspicious files I found and their reports. | https://github.com/CYB3RMX/MalwareAnalysis101 | 25 | 3| 
 | 20211128T23:44:25Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 117 | 28| 
-| 20211128T13:43:34Z | Trojan_backdoor | https://github.com/chpark0714/Trojan_backdoor | 0 | 0| 
 | 20211128T10:16:39Z | Null | https://github.com/alok2520/Coding_Backdoor | 0 | 0| 
-| 20211128T08:08:16Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 381 | 161| 
 | 20211128T00:38:13Z | Codebase for my Level 4 University Project: Static Analysis of Executable Code to Detect Backdoors on IoT Devices | https://github.com/sophieboyle/Symbolic-Execution-for-ARM-Backdoor-Detection | 0 | 0| 
-| 20211128T00:17:35Z | Null | https://github.com/Quadrifolo/Backdoor | 0 | 0| 
-| 20211127T23:45:00Z | Simple win32 backdoor consisting of a client and a server. | https://github.com/Mewgood/win32-sockets-backdoor | 0 | 0| 
-| 20211127T17:35:46Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 53 | 15| 
-| 20211127T17:30:23Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1385 | 655| 
 
 
 # symbolic execution on Github 推荐
@@ -149,16 +149,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211129T03:10:25Z | Simple fuzzing tool designed for multi-threaded operation and for testing execution time.  | https://github.com/amitjain-3/twoFuzzingLong | 0 | 0| 
-| 20211129T03:03:41Z | Bazel Starlark extensions for defining fuzz tests in Bazel projects | https://github.com/bazelbuild/rules_fuzzing | 42 | 10| 
-| 20211129T03:00:30Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4635 | 471| 
-| 20211129T02:56:46Z | This Repository is for maintaining RegressFuzz settings | https://github.com/hanyoungYoo/RegressFuzzSetting | 0 | 0| 
-| 20211129T02:47:15Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20211129T02:44:56Z | Null | https://github.com/ChrisHayes1/Fuzz-Testing-GUIs-Cross-Platform | 0 | 0| 
-| 20211129T02:22:48Z | Aplicacion de Nextjs donde se pondra en practica la integracion continua y deployment continuo con GithubActions | https://github.com/katchvidal/fuzzy-waddle | 0 | 0| 
-| 20211129T02:10:41Z | Null | https://github.com/Mortal-Coder/fuzzyrobot.github.io | 0 | 0| 
-| 20211129T02:07:05Z | fzf-like fuzzy-finder as a Go library | https://github.com/ktr0731/go-fuzzyfinder | 250 | 25| 
-| 20211129T02:06:14Z | BambooFuzz: An IoT Firmware Vulnerability Mining System based on Static and Dynamic Analysis | https://github.com/jackfromeast/BambooFuzz | 3 | 0| 
+| 20211129T13:02:09Z | Null | https://github.com/Clearymk/TypeScriptFuzzer | 0 | 0| 
+| 20211129T12:52:55Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20211129T12:40:21Z | This Repository is for maintaining RegressFuzz settings | https://github.com/hanyoungYoo/RegressFuzzSetting | 0 | 0| 
+| 20211129T12:13:51Z | CATS is a REST APIs fuzzer and negative testing tool for OpenAPI endpoints. CATS automatically  generates, runs and reports tests with minimum configuration and no coding effort. Tests are self-healing and does not require maintenance. | https://github.com/Endava/cats | 465 | 20| 
+| 20211129T12:07:05Z | Null | https://github.com/Abhi13-s/fuzzy-logic | 0 | 0| 
+| 20211129T12:04:25Z | Null | https://github.com/Abhi13-s/Task-fuzzy-logicc | 0 | 0| 
+| 20211129T11:41:02Z | Reminder, Information gain, Fuzzy c clustering problem calculator using JavaScript | https://github.com/sakib-75/fuzzy-c-problem | 0 | 0| 
+| 20211129T11:27:05Z | Null | https://github.com/nhsd-exeter/dos-service-fuzzy-search-api | 1 | 0| 
+| 20211129T11:22:23Z | Null | https://github.com/stoyky/fuzzing_assignment | 0 | 0| 
+| 20211129T11:08:25Z | Null | https://github.com/mrcolab/fuzzy-octo-enigma | 0 | 0| 
 
 
 
