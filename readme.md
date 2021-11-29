@@ -95,6 +95,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211129T14:16:23Z | Naive Bayes Classifiers | https://github.com/Jodavid/FuzzyClass | 0 | 0| 
 | 20211129T13:51:44Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2257 | 444| 
 | 20211129T13:51:04Z | Null | https://github.com/snibh/fuzzy-goggles | 0 | 0| 
 | 20211129T13:47:53Z | With this project, I want to make a blending between Persevere and taPCT. The idea is to find bugs in large amounts of concurrent threading instruction. For that we will first try and identify with this tool some known bugs from emac versions that were not yet corrected. We first model the system call as a set of events and then apply the taPCT algorithm. Later on, we can use fuzzing to give larger system call sequences to our probabilistic scheduling algorithm.  | https://github.com/Ricagraca/taPPCT | 0 | 0| 
@@ -104,7 +105,6 @@
 | 20211129T13:29:03Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 608 | 64| 
 | 20211129T13:25:18Z | A GoLang fuzzy string matcher | https://github.com/mjarkk/fuzzy-matcher | 0 | 0| 
 | 20211129T13:23:37Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 313 | 42| 
-| 20211129T13:16:19Z | Null | https://github.com/kymAndri/fuzzy-computing-machine | 0 | 0| 
 
 
 
