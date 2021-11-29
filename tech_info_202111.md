@@ -149,8 +149,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211129T01:12:46Z | Aplicacion de Nextjs donde se pondra en practica la integracion continua y deployment continuo con GithubActions | https://github.com/katchvidal/fuzzy-waddle | 0 | 0| 
+| 20211129T01:08:21Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2252 | 443| 
 | 20211129T01:04:38Z | Null | https://github.com/llahz/fuzzy-enigma | 0 | 0| 
-| 20211129T00:55:29Z | Aplicacion de Nextjs donde se pondra en practica la integracion continua y deployment continuo con GithubActions | https://github.com/katchvidal/fuzzy-waddle | 0 | 0| 
 | 20211129T00:55:06Z | Project App - 로그인, Rest Api 완성 | https://github.com/songmik/FuzzBuzz | 0 | 0| 
 | 20211129T00:33:46Z | Simple fuzzing tool designed for multi-threaded operation and for testing execution time.  | https://github.com/amitjain-3/twoFuzzingLong | 0 | 0| 
 | 20211128T23:24:54Z | Null | https://github.com/Oleg-martsenie/fuzzy-goggles | 0 | 0| 
@@ -158,7 +159,6 @@
 | 20211128T22:56:02Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6866 | 1436| 
 | 20211128T22:48:26Z | rstr is a helper module for easily generating random strings of various types. It could be useful for fuzz testing, generating dummy data, or other applications. | https://github.com/leapfrogonline/rstr | 32 | 4| 
 | 20211128T22:38:10Z | Null | https://github.com/oscarpimentel/fuzzy-tools | 0 | 0| 
-| 20211128T22:09:51Z | React / To Do Tracker | https://github.com/Alekususenpai/fuzzy-broccoli | 0 | 0| 
 
 
 
