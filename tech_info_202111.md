@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211129T02:04:01Z | CVE-2020-0114 | Null | https://github.com/Nivaskumark/CVE-2020-0114-frameworks_base | | 
 | 20211129T01:58:12Z | CVE-2021-22205 | CVE-2021-22205 RCE  | https://github.com/c0okB/CVE-2021-22205 | | 
-| 20211129T01:37:12Z | CVE-2020-0114 | Null | https://github.com/Nivaskumark/CVE-2020-0114-frameworks_base | | 
 | 20211129T01:36:41Z | CVE-2020-0114 | Null | https://github.com/Nivaskumark/CVE-2020-0114-frameworks_basety | | 
 | 20211129T01:15:09Z | CVE-2021-40865 | CVE-2021-40865 | https://github.com/hktalent/CVE-2021-40865 | | 
 | 20211129T01:13:09Z | CVE-2021-43267 | Local PoC exploit for CVE-2021-43267 (Linux TIPC) | https://github.com/ohnonoyesyes/CVE-2021-43267 | | 
