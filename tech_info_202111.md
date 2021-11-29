@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211129T03:12:16Z | CVE-2020-0097 | Null | https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base | | 
+| 20211129T03:11:58Z | CVE-2020-0097 | Null | https://github.com/Nivaskumark/CVE-2020-0097-frameworks_ba | | 
+| 20211129T03:09:04Z | CVE-2021-43267 | Local PoC exploit for CVE-2021-43267 (Linux TIPC) | https://github.com/ohnonoyesyes/CVE-2021-43267 | | 
 | 20211129T02:58:19Z | CVE-2020-0114 | Null | https://github.com/Nivaskumark/CVE-2020-0114-frameworks_base | | 
 | 20211129T02:24:08Z | CVE-2020-0114 | Null | https://github.com/Nivaskumark/CVE-2020-0114-frameworks_base_before | | 
 | 20211129T02:21:48Z | CVE-2021-22205 | CVE-2021-22205 RCE  | https://github.com/c0okB/CVE-2021-22205 | | 
-| 20211129T02:08:53Z | CVE-2021-43267 | Local PoC exploit for CVE-2021-43267 (Linux TIPC) | https://github.com/ohnonoyesyes/CVE-2021-43267 | | 
 | 20211129T02:05:52Z | CVE-2021-40865 | CVE-2021-40865 | https://github.com/hktalent/CVE-2021-40865 | | 
 | 20211129T01:36:41Z | CVE-2020-0114 | Null | https://github.com/Nivaskumark/CVE-2020-0114-frameworks_basety | | 
 | 20211128T09:22:54Z | cve-2021-42013 | Apache 2.4.50 Path traversal vulnerability | https://github.com/Vulnmachines/cve-2021-42013 | | 
 | 20211128T01:16:53Z | CVE-2021-41653 | TP-Link TL-WR840N EU v5 Remote Code Execution | https://github.com/ohnonoyesyes/CVE-2021-41653 | | 
-| 20211128T01:12:22Z | CVE-2021-21224 | ARM64 PoC for CVE-2021-21224 | https://github.com/ohnonoyesyes/CVE-2021-21224 | | 
-| 20211127T15:09:05Z | CVE-2021-21042 | Null | https://github.com/r1l4-i3pur1l4/CVE-2021-21042 | | 
 
 
 # klee on Github 推荐
@@ -76,7 +76,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211128T16:33:01Z | CRAX++: software CRash analysis for Automatic eXploit generation | https://github.com/aesophor/CRAXplusplus | 15 | 3| 
+| 20211129T03:11:12Z | CRAX++: software CRash analysis for Automatic eXploit generation | https://github.com/aesophor/CRAXplusplus | 15 | 3| 
 | 20211128T03:07:26Z | Null | https://github.com/s2e-lab/s2e-lab.github.io | 0 | 0| 
 | 20211127T07:17:14Z | Null | https://github.com/aesophor/requiem | 15 | 3| 
 | 20211125T17:19:47Z | Null | https://github.com/yuvalkirstain/s2e-coref | 23 | 8| 
@@ -91,16 +91,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211129T03:11:12Z | CRAX++: software CRash analysis for Automatic eXploit generation | https://github.com/aesophor/CRAXplusplus | 15 | 3| 
+| 20211129T03:03:14Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211129T02:37:54Z | Basic Typescript DEX arbitrage bot to monitor exchanges for price discrepancies and execute trades to exploit these. | https://github.com/nfragakis/DexArbitrageBot | 0 | 0| 
 | 20211129T02:26:19Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 110 | 21| 
 | 20211129T02:21:21Z | Exploit for CVE-2021-30807 | https://github.com/jsherman212/iomfb-exploit | 15 | 5| 
 | 20211129T02:18:04Z | fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | 0 | 0| 
 | 20211129T02:06:55Z | WTF?!DOINB RYZE ][L9 GANG LEADER][ ! IS  BACK ! HOWLINGABYSS WADBÅT HACK 英雄联盟 NEW RUNESይሮጣልANCIENT RUNEGANDALF 魔法 9K LP MACRO GOD ARAM-WARRIOR MODE與男孩 GULAG TELEPORTATION JUTSU ፕራይONን 黃金種植HARVEST ENEMY SOUL FOR EMPEROR VL15T4R?ጥፋት ይመጣል OPGG HACK double cs bug？？？英雄联盟 400CS [ACTUALLY 200]\ FPX Doinb (23 yo M(not a rapist)) abuses new wadbot feature on stream (!!!) - 2X CS with China hacks & farm exploit + still undetecte in china) DOINB RYZE HACK 400 CS 14-DAY SUSPENSION HACKK EXPLOIT L9 TECHNOLOGY ይመጣል HACK ?!? GANDALF RANK 1 TURBO 暨上地毯大脑妈妈他妈的 !!WTF!!(what the fuk)DOINB 매크로{NEW} NUNU FAKER中路MID 2 TOP GANK HACK骇客MW2 EXIT MAP RIOT SHIELD GLITCH JUMP?! OUT OF MAP SNOWBALLEXPLOIT사라지다 KILL ENEMY ((INVISIBLE))=UNDETECTED IN SOUTH-WESTERN TIMBUKTU [[Patch 10.16/() 99.9% LOOPHOLE WTF TRIUMPHANT RYZE HACK? INFINITE RP RAREST SKINS? DOINB LEAGUE OF LEGENDS 英雄聯盟糟透了??? DOINB COMEBACK 返回 UNDETECTED IN EUW [[WORKING PATCH 9.15!]] FAST ORBWALK HACK广播INSTA SPELLCAST GLITCH RACIST DOINB HACK？英雄联盟 | https://github.com/divinityMaker/semester-exam | 0 | 0| 
-| 20211129T02:03:06Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211129T01:57:49Z | Null | https://github.com/hackerAlice/hacking-the-art-of-exploitation | 0 | 0| 
 | 20211129T01:42:57Z | An exploit for an XSS and RCE vulnerability in the GoAhead webserver for embedded devices. | https://github.com/0x1CA3/GoAhead-IPCAM-XSS-and-RCE | 3 | 0| 
 | 20211129T01:09:24Z | A Roblox exploiting library that looks like nodejs. | https://github.com/Mlemix/roblox.ls | 0 | 0| 
-| 20211129T01:01:12Z | Python library for interacting with in-memory C structures using data mined from binary DWARF debug info. | https://github.com/josconno/moria | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -149,6 +149,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211129T03:10:25Z | Simple fuzzing tool designed for multi-threaded operation and for testing execution time.  | https://github.com/amitjain-3/twoFuzzingLong | 0 | 0| 
+| 20211129T03:03:41Z | Bazel Starlark extensions for defining fuzz tests in Bazel projects | https://github.com/bazelbuild/rules_fuzzing | 42 | 10| 
 | 20211129T03:00:30Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4635 | 471| 
 | 20211129T02:56:46Z | This Repository is for maintaining RegressFuzz settings | https://github.com/hanyoungYoo/RegressFuzzSetting | 0 | 0| 
 | 20211129T02:47:15Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
@@ -157,8 +159,6 @@
 | 20211129T02:10:41Z | Null | https://github.com/Mortal-Coder/fuzzyrobot.github.io | 0 | 0| 
 | 20211129T02:07:05Z | fzf-like fuzzy-finder as a Go library | https://github.com/ktr0731/go-fuzzyfinder | 250 | 25| 
 | 20211129T02:06:14Z | BambooFuzz: An IoT Firmware Vulnerability Mining System based on Static and Dynamic Analysis | https://github.com/jackfromeast/BambooFuzz | 3 | 0| 
-| 20211129T01:39:18Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6866 | 1436| 
-| 20211129T01:08:21Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2252 | 443| 
 
 
 
