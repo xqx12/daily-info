@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211128T23:43:31Z | CVE-2021-40865 | CVE-2021-40865 | https://github.com/hktalent/CVE-2021-40865 | | 
 | 20211128T09:22:54Z | cve-2021-42013 | Apache 2.4.50 Path traversal vulnerability | https://github.com/Vulnmachines/cve-2021-42013 | | 
 | 20211128T01:16:53Z | CVE-2021-41653 | TP-Link TL-WR840N EU v5 Remote Code Execution | https://github.com/ohnonoyesyes/CVE-2021-41653 | | 
 | 20211128T01:12:42Z | CVE-2021-43267 | Local PoC exploit for CVE-2021-43267 (Linux TIPC) | https://github.com/ohnonoyesyes/CVE-2021-43267 | | 
@@ -35,41 +36,42 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211128T12:37:48Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1829 | 522| 
+| 20211128T23:33:27Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1831 | 522| 
+| 20211128T23:03:40Z | Null | https://github.com/Mq0509/YoRPG_Kleemex | 0 | 0| 
 | 20211128T08:01:33Z | Null | https://github.com/rounakmodgil/KleenSecurityctfpublic | 0 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211128T13:14:26Z | CRAX++: software CRash analysis for Automatic eXploit generation | https://github.com/aesophor/CRAXplusplus | 15 | 3| 
+| 20211128T16:33:01Z | CRAX++: software CRash analysis for Automatic eXploit generation | https://github.com/aesophor/CRAXplusplus | 15 | 3| 
 | 20211128T03:07:26Z | Null | https://github.com/s2e-lab/s2e-lab.github.io | 0 | 0| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211128T14:23:38Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10370 | 1785| 
-| 20211128T14:18:23Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 251 | 77| 
-| 20211128T14:03:13Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
-| 20211128T13:27:52Z | Null | https://github.com/lorenzodimarzio/crypto-exploiter | 0 | 0| 
-| 20211128T13:24:52Z | Roblox Exploit Scripts by simulatorwinner#5864 | https://github.com/simulatorwinner/scripts | 0 | 0| 
-| 20211128T13:14:26Z | CRAX++: software CRash analysis for Automatic eXploit generation | https://github.com/aesophor/CRAXplusplus | 15 | 3| 
-| 20211128T12:41:08Z | Vulnerability Exploitation Code Collection Repository | https://github.com/0x0021h/expbox | 199 | 35| 
-| 20211128T12:08:55Z | This is a fixed version of CMD-X with working queue_on_teleport | https://github.com/RealSiesgo/Cmdx_BugFixes_On_Non_Syn_exploits | 0 | 0| 
-| 20211128T12:03:07Z | Null | https://github.com/YigitKral1/EXPLOITSCRIPTS | 0 | 0| 
-| 20211128T10:56:28Z | Simple Python tool that opens a reverse shell by exploiting the theme editor in WordPress | https://github.com/nisforrnicholas/WordPress-Theme-Editor-Exploit | 0 | 0| 
+| 20211128T23:54:22Z | HEVD | https://github.com/ReJimp/Kernel_Exploit | 2 | 0| 
+| 20211128T23:49:58Z | Null | https://github.com/GitHubCollection/jsherman212-iomfb-exploit | 0 | 0| 
+| 20211128T23:46:24Z | Whasssup yall got into coding and exploits about a year ago took the next step and coded up some heat for yall. A bunch of fortnite exploits on this one anywhere to aimbot to flying. I think yall would like this one a bunch sincerly  the 12 year old codester. | https://github.com/yojoshu/cmdbuildpro | 0 | 0| 
+| 20211128T23:14:01Z | Python library for interacting with in-memory C structures using data mined from binary DWARF debug info. | https://github.com/josconno/moria | 0 | 0| 
+| 20211128T23:13:51Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 110 | 21| 
+| 20211128T22:37:48Z | A collection of links related to Linux kernel security and exploitation | https://github.com/xairy/linux-kernel-exploitation | 3825 | 808| 
+| 20211128T22:00:39Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10371 | 1787| 
+| 20211128T21:58:06Z | Null | https://github.com/darbysauter/ip5c_kern_exploit | 0 | 0| 
+| 20211128T20:56:42Z | a roblox exploit hub. | https://github.com/merdachu/Kick-hub | 0 | 0| 
+| 20211128T20:53:47Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 254 | 11| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211128T23:44:25Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 117 | 28| 
 | 20211128T13:43:34Z | Trojan_backdoor | https://github.com/chpark0714/Trojan_backdoor | 0 | 0| 
 | 20211128T10:16:39Z | Null | https://github.com/alok2520/Coding_Backdoor | 0 | 0| 
 | 20211128T08:08:16Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 381 | 161| 
 | 20211128T00:38:13Z | Codebase for my Level 4 University Project: Static Analysis of Executable Code to Detect Backdoors on IoT Devices | https://github.com/sophieboyle/Symbolic-Execution-for-ARM-Backdoor-Detection | 0 | 0| 
 | 20211128T00:17:35Z | Null | https://github.com/Quadrifolo/Backdoor | 0 | 0| 
-| 20211128T00:14:28Z | Some malware samples or suspicious files I found and their reports. | https://github.com/CYB3RMX/MalwareAnalysis101 | 24 | 3| 
 
 
 # symbolic execution on Github 推荐
@@ -90,16 +92,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211128T14:27:46Z | Null | https://github.com/nobunagasutras/fuzzy-octo-spoon | 0 | 0| 
-| 20211128T14:24:56Z | MediaTek Fuzzing Workshop in HITCON 2021 | https://github.com/yuawn/MediaTek-Fuzzing-Workshop | 31 | 9| 
-| 20211128T14:12:32Z | cherry-pick zad | https://github.com/Dawid-Kwasowski/fuzzy-octo-funicular | 0 | 0| 
-| 20211128T13:56:28Z | Asynchronous fuzzy finder in vim9script | https://github.com/kohnish/vim9-fuzzy | 0 | 0| 
-| 20211128T13:37:53Z | I’m Very Athletic and fit and keep my body looking good  | https://github.com/JustinWayne1203/fuzzy-tribble | 0 | 0| 
-| 20211128T13:11:04Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 252 | 22| 
-| 20211128T13:03:32Z | Config files for my GitHub profile. | https://github.com/fuzzylogic-for/fuzzylogic-for | 0 | 0| 
-| 20211128T12:36:50Z | A CTF fuzz powerd by protobuf. | https://github.com/Kiprey/protobuf_ctf_fuzz | 4 | 0| 
-| 20211128T12:12:41Z | Null | https://github.com/Bariq09/Penentuan-Kerawanan-Longsor-Metode-Fuzzy-Logic | 0 | 0| 
-| 20211128T12:08:41Z | Mediatek Fuzzing Workshop in HITCON 2021 | https://github.com/yuawn/Mediatek-Fuzzing-Workshop | 30 | 9| 
+| 20211128T23:24:54Z | Null | https://github.com/Oleg-martsenie/fuzzy-goggles | 0 | 0| 
+| 20211128T23:02:01Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20211128T22:56:02Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6866 | 1436| 
+| 20211128T22:48:26Z | rstr is a helper module for easily generating random strings of various types. It could be useful for fuzz testing, generating dummy data, or other applications. | https://github.com/leapfrogonline/rstr | 32 | 4| 
+| 20211128T22:38:10Z | Null | https://github.com/oscarpimentel/fuzzy-tools | 0 | 0| 
+| 20211128T22:09:51Z | React / To Do Tracker | https://github.com/Alekususenpai/fuzzy-broccoli | 0 | 0| 
+| 20211128T21:08:51Z | Null | https://github.com/bhnatkowska/FuzzyLogicInstanceAlignment | 0 | 0| 
+| 20211128T20:56:40Z | Code for the project in AGH (IWISE) | https://github.com/MatWich/FuzzyLogic | 0 | 0| 
+| 20211128T20:52:05Z | Null | https://github.com/quatros96/fuzzy-pendulum | 0 | 0| 
+| 20211128T20:35:48Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 
 
 
