@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211129T14:24:16Z | Model to simulate forest exploitation in Mato Grosso | https://github.com/pedro-andrade-inpe/forestExploitation | 0 | 0| 
 | 20211129T14:12:51Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 3792 | 1310| 
 | 20211129T14:07:02Z | Rodan Exploitation Framework | https://github.com/Etisalat-Egypt/Rodan | 0 | 0| 
 | 20211129T14:04:48Z | HEVD | https://github.com/ReJimp/Kernel_Exploit | 2 | 0| 
@@ -100,7 +101,6 @@
 | 20211129T13:35:36Z | Simultaneously search CVEs and exploits across multiple cybersecurity data sources.  | https://github.com/djjoa/exploit-searcher | 0 | 0| 
 | 20211129T13:18:15Z | Trabajo de fin de grado, esta tool permite al usuario realizar una pequeña auditoria a la hora de escalar privilegios en windows, la herramienta cuenta con un módulo automático, uno manual, y un módulo de búsqueda para encontrar exploits | https://github.com/ErnestoCubo/autoexploit | 1 | 0| 
 | 20211129T12:45:40Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 15| 
-| 20211129T12:11:16Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 251 | 77| 
 
 
 # backdoor on Github 推荐
@@ -149,8 +149,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211129T14:20:41Z | A GoLang fuzzy string matcher | https://github.com/mjarkk/fuzzy-matcher | 0 | 0| 
-| 20211129T14:19:11Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3801 | 896| 
+| 20211129T14:25:49Z | A GoLang fuzzy string matcher | https://github.com/mjarkk/fuzzy-matcher | 0 | 0| 
+| 20211129T14:25:08Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3802 | 896| 
 | 20211129T14:16:23Z | Naive Bayes Classifiers | https://github.com/Jodavid/FuzzyClass | 0 | 0| 
 | 20211129T13:51:44Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2257 | 444| 
 | 20211129T13:51:04Z | Null | https://github.com/snibh/fuzzy-goggles | 0 | 0| 
