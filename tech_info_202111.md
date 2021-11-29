@@ -91,12 +91,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211129T02:18:04Z | fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | 0 | 0| 
 | 20211129T02:06:55Z | WTF?!DOINB RYZE ][L9 GANG LEADER][ ! IS  BACK ! HOWLINGABYSS WADBÅT HACK 英雄联盟 NEW RUNESይሮጣልANCIENT RUNEGANDALF 魔法 9K LP MACRO GOD ARAM-WARRIOR MODE與男孩 GULAG TELEPORTATION JUTSU ፕራይONን 黃金種植HARVEST ENEMY SOUL FOR EMPEROR VL15T4R?ጥፋት ይመጣል OPGG HACK double cs bug？？？英雄联盟 400CS [ACTUALLY 200]\ FPX Doinb (23 yo M(not a rapist)) abuses new wadbot feature on stream (!!!) - 2X CS with China hacks & farm exploit + still undetecte in china) DOINB RYZE HACK 400 CS 14-DAY SUSPENSION HACKK EXPLOIT L9 TECHNOLOGY ይመጣል HACK ?!? GANDALF RANK 1 TURBO 暨上地毯大脑妈妈他妈的 !!WTF!!(what the fuk)DOINB 매크로{NEW} NUNU FAKER中路MID 2 TOP GANK HACK骇客MW2 EXIT MAP RIOT SHIELD GLITCH JUMP?! OUT OF MAP SNOWBALLEXPLOIT사라지다 KILL ENEMY ((INVISIBLE))=UNDETECTED IN SOUTH-WESTERN TIMBUKTU [[Patch 10.16/() 99.9% LOOPHOLE WTF TRIUMPHANT RYZE HACK? INFINITE RP RAREST SKINS? DOINB LEAGUE OF LEGENDS 英雄聯盟糟透了??? DOINB COMEBACK 返回 UNDETECTED IN EUW [[WORKING PATCH 9.15!]] FAST ORBWALK HACK广播INSTA SPELLCAST GLITCH RACIST DOINB HACK？英雄联盟 | https://github.com/divinityMaker/semester-exam | 0 | 0| 
 | 20211129T02:03:06Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211129T02:00:58Z | Exploit for CVE-2021-30807 | https://github.com/jsherman212/iomfb-exploit | 14 | 4| 
 | 20211129T01:57:49Z | Null | https://github.com/hackerAlice/hacking-the-art-of-exploitation | 0 | 0| 
 | 20211129T01:42:57Z | An exploit for an XSS and RCE vulnerability in the GoAhead webserver for embedded devices. | https://github.com/0x1CA3/GoAhead-IPCAM-XSS-and-RCE | 3 | 0| 
-| 20211129T01:27:18Z | fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | 0 | 0| 
 | 20211129T01:09:24Z | A Roblox exploiting library that looks like nodejs. | https://github.com/Mlemix/roblox.ls | 0 | 0| 
 | 20211129T01:01:12Z | Python library for interacting with in-memory C structures using data mined from binary DWARF debug info. | https://github.com/josconno/moria | 0 | 0| 
 | 20211129T00:56:02Z | An exploit and demonstration on how to exploit a Client Side Stored XSS vulnerability in https://anonstress.com. | https://github.com/0x1CA3/AnonStress-Stored-XSS-Exploit | 3 | 0| 
@@ -149,16 +149,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211129T02:18:13Z | Aplicacion de Nextjs donde se pondra en practica la integracion continua y deployment continuo con GithubActions | https://github.com/katchvidal/fuzzy-waddle | 0 | 0| 
+| 20211129T02:16:41Z | This Repository is for maintaining RegressFuzz settings | https://github.com/hanyoungYoo/RegressFuzzSetting | 0 | 0| 
 | 20211129T02:10:41Z | Null | https://github.com/Mortal-Coder/fuzzyrobot.github.io | 0 | 0| 
 | 20211129T02:07:05Z | fzf-like fuzzy-finder as a Go library | https://github.com/ktr0731/go-fuzzyfinder | 250 | 25| 
 | 20211129T02:06:14Z | BambooFuzz: An IoT Firmware Vulnerability Mining System based on Static and Dynamic Analysis | https://github.com/jackfromeast/BambooFuzz | 3 | 0| 
 | 20211129T01:39:18Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6866 | 1436| 
-| 20211129T01:21:35Z | Aplicacion de Nextjs donde se pondra en practica la integracion continua y deployment continuo con GithubActions | https://github.com/katchvidal/fuzzy-waddle | 0 | 0| 
 | 20211129T01:08:21Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2252 | 443| 
 | 20211129T01:04:38Z | Null | https://github.com/llahz/fuzzy-enigma | 0 | 0| 
 | 20211129T00:55:06Z | Project App - 로그인, Rest Api 완성 | https://github.com/songmik/FuzzBuzz | 0 | 0| 
 | 20211129T00:33:46Z | Simple fuzzing tool designed for multi-threaded operation and for testing execution time.  | https://github.com/amitjain-3/twoFuzzingLong | 0 | 0| 
-| 20211128T23:24:54Z | Null | https://github.com/Oleg-martsenie/fuzzy-goggles | 0 | 0| 
 
 
 
