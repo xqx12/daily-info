@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211130T02:35:33Z | Null | https://github.com/aitorcastel/exploitdev_talk2021_cesarmanrique | 0 | 0| 
 | 20211130T02:23:50Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 4140 | 568| 
 | 20211130T02:20:09Z | SlyDe.Fi: an entertaining prediction overconfidence exploiting re-distributive mechanism that uses pool-together-like yield farming. Also mints pretty graphs as NFTs. | https://github.com/parseb/blockchain-developer-bootcamp-final-project | 0 | 0| 
 | 20211130T02:11:15Z | Null | https://github.com/BizzyPythonBear/Roblox-Exploits | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20211130T01:44:15Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 358 | 55| 
 | 20211130T01:43:25Z | A hub of useful scripts for the 2020 edition of the Booga Booga game on Roblox. Useful for combating hostile exploiters. | https://github.com/thienlongtran/booga-booga-hub | 0 | 0| 
 | 20211130T01:07:22Z | Null | https://github.com/rlyhurt/Memcrashed-DDoS-Exploit | 0 | 0| 
-| 20211130T00:56:19Z | Exploit https://www.roblox.com/games/8136378913/AntiExpTest | https://github.com/SynapsUsr/AntiExpTest | 0 | 0| 
 
 
 # backdoor on Github 推荐
