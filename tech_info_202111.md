@@ -91,6 +91,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211130T13:49:17Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/darksnake33/Hacking-Tools-Pack | 0 | 0| 
+| 20211130T13:47:52Z | Nmap script that searches for probable vulnerabilities based on services discovered in open ports.  | https://github.com/scmanjarrez/CVEScannerV2 | 5 | 2| 
 | 20211130T13:38:57Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 3796 | 1313| 
 | 20211130T13:35:40Z | Null | https://github.com/NotFoundHacker/Roblox-Exploits | 0 | 0| 
 | 20211130T13:30:00Z | Automatic Return Oriented Programming exploit generator | https://github.com/JDBryan/ROPSlap | 0 | 0| 
@@ -99,8 +101,6 @@
 | 20211130T12:56:36Z | Run MS17-010 modified exploit to get reverse nc connection | https://github.com/crazywifi/MS-17-010_Reverse_Connection_nc | 3 | 1| 
 | 20211130T12:53:26Z | fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | 0 | 0| 
 | 20211130T12:47:10Z | Exploit the vulnerability to install arbitrary applications in k61v1 without ROOT | https://github.com/MlgmXyysd/F21ProInjector | 7 | 1| 
-| 20211130T12:45:41Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 15| 
-| 20211130T12:44:54Z | Rodan Exploitation Framework | https://github.com/Etisalat-Egypt/Rodan | 7 | 4| 
 
 
 # backdoor on Github 推荐
