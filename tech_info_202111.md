@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211130T13:38:57Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 3796 | 1313| 
 | 20211130T13:35:40Z | Null | https://github.com/NotFoundHacker/Roblox-Exploits | 0 | 0| 
 | 20211130T13:30:00Z | Automatic Return Oriented Programming exploit generator | https://github.com/JDBryan/ROPSlap | 0 | 0| 
 | 20211130T13:11:54Z | Model to simulate forest exploitation in Mato Grosso | https://github.com/pedro-andrade-inpe/forestExploitation | 0 | 1| 
@@ -100,7 +101,6 @@
 | 20211130T12:47:10Z | Exploit the vulnerability to install arbitrary applications in k61v1 without ROOT | https://github.com/MlgmXyysd/F21ProInjector | 7 | 1| 
 | 20211130T12:45:41Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 15| 
 | 20211130T12:44:54Z | Rodan Exploitation Framework | https://github.com/Etisalat-Egypt/Rodan | 7 | 4| 
-| 20211130T12:42:14Z | Official code for the paper %Revise-Net: Exploiting Reverse Attention Mechanism For Salient Object Detection% | https://github.com/yashkarbhari/Revise-Net | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -149,6 +149,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211130T13:38:04Z | CC paper on compiler fuzzing | https://github.com/agroce/cc2022 | 2 | 0| 
 | 20211130T13:22:24Z | Null | https://github.com/Gowtham2493/Fuzzysearch | 0 | 0| 
 | 20211130T13:14:03Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6870 | 1437| 
 | 20211130T13:13:06Z | Null | https://github.com/nanangsuyato/fuzzy-doodle | 0 | 0| 
@@ -158,7 +159,6 @@
 | 20211130T12:15:13Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 35 | 12| 
 | 20211130T12:12:47Z | Yet another web fuzzer | https://github.com/FooBallZ/yafuzz | 1 | 1| 
 | 20211130T12:10:30Z | Null | https://github.com/gungnir479/fuzzJIT | 0 | 0| 
-| 20211130T12:06:30Z | Null | https://github.com/polymorphicengine/Semi-Fuzzy-Quantifiers | 0 | 0| 
 
 
 
