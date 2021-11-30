@@ -89,7 +89,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211130T13:02:18Z | Null | https://github.com/Gowtham2493/Fuzzysearch | 0 | 0| 
+| 20211130T13:06:56Z | Null | https://github.com/Gowtham2493/Fuzzysearch | 0 | 0| 
+| 20211130T13:05:04Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6870 | 1437| 
 | 20211130T12:58:03Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
 | 20211130T12:57:26Z | Reminder, Information gain, Fuzzy c clustering problem calculator using JavaScript | https://github.com/sakib-75/fuzzy-c-problem | 0 | 0| 
 | 20211130T12:15:23Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 363 | 31| 
@@ -98,7 +99,6 @@
 | 20211130T12:10:30Z | Null | https://github.com/gungnir479/fuzzJIT | 0 | 0| 
 | 20211130T12:06:30Z | Null | https://github.com/polymorphicengine/Semi-Fuzzy-Quantifiers | 0 | 0| 
 | 20211130T12:04:38Z | Rust struct for approximated human-readable fraction representation.. | https://github.com/p4ymak/fuzzy_fraction | 0 | 0| 
-| 20211130T12:00:11Z | Config files for my GitHub profile. | https://github.com/FuZzZz97/FuZzZz97 | 0 | 0| 
 
 
 
