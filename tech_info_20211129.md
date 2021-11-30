@@ -103,7 +103,6 @@
 | --- | --- | --- | --- | ---| 
 | 20211129T23:57:10Z | Null | https://github.com/dreadthief125/fuzzy-tribble | 0 | 0| 
 | 20211129T23:08:19Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
-| 20211129T23:01:37Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2444 | 149| 
 | 20211129T22:45:12Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 2 | 2| 
 | 20211129T22:23:28Z | Aplicacion de Nextjs donde se pondra en practica la integracion continua y deployment continuo con GithubActions | https://github.com/katchvidal/fuzzy-waddle | 0 | 0| 
 | 20211129T22:02:18Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
@@ -111,6 +110,7 @@
 | 20211129T20:58:06Z | This is a ToDo application | https://github.com/Thendo18/fuzzy-umbrella | 0 | 0| 
 | 20211129T20:26:15Z | Reminder, Information gain, Fuzzy c clustering problem calculator using JavaScript | https://github.com/sakib-75/fuzzy-c-problem | 0 | 0| 
 | 20211129T20:20:44Z | Rust struct for approximated human-readable fraction representation.. | https://github.com/p4ymak/fuzzy_fraction | 0 | 0| 
+| 20211129T20:02:27Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6869 | 1437| 
 
 
 
