@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211130T01:36:52Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 359 | 55| 
 | 20211130T01:07:46Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211130T01:07:22Z | Null | https://github.com/rlyhurt/Memcrashed-DDoS-Exploit | 0 | 0| 
 | 20211130T00:56:19Z | Exploit https://www.roblox.com/games/8136378913/AntiExpTest | https://github.com/SynapsUsr/AntiExpTest | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20211130T00:29:47Z | Trabajo de fin de grado, esta tool permite al usuario realizar una pequeña auditoria a la hora de escalar privilegios en windows, la herramienta cuenta con un módulo automático, uno manual, y un módulo de búsqueda para encontrar exploits | https://github.com/ErnestoCubo/autoexploit | 1 | 0| 
 | 20211129T23:43:09Z | Class project for EECS583: Advanced Compilers: Evolutionary Optimization of Compiler Flag Selection by Learning and Exploiting Flags Interactions.  | https://github.com/batuhanakcay/evo-optim-flags | 0 | 0| 
 | 20211129T23:08:00Z | Extensible framework for analyzing publicly available information about vulnerabilities | https://github.com/leonov-av/vulristics | 41 | 6| 
-| 20211129T22:42:36Z | Basic Typescript DEX arbitrage bot to monitor exchanges for price discrepancies and execute trades to exploit these. | https://github.com/nfragakis/DexArbitrageBot | 0 | 0| 
 
 
 # backdoor on Github 推荐
