@@ -149,6 +149,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211130T02:46:37Z | Learning how to code | https://github.com/sanjapm/fuzzy-code | 0 | 0| 
 | 20211130T02:26:42Z | 僕の卒業論文 | https://github.com/yoshiyoshiharu/oblique-fuzzy-vector-mrp | 0 | 0| 
 | 20211130T02:25:28Z | Instructor guided project where I create a simple drag and drop functionality in JavaScript | https://github.com/beautyTruth/fuzzy-doodle | 0 | 0| 
 | 20211130T01:53:20Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2258 | 444| 
@@ -158,7 +159,6 @@
 | 20211130T00:38:43Z | Nama : Risti Auliah Utami | https://github.com/RistiLitami/Deteksi-Status-Gizi-Balita-Berdasarkan-indeks-Antropometri-Menggunakan-Logika-Fuzzy-Metode-Tsukamoto | 0 | 0| 
 | 20211130T00:16:19Z | This handler uses Fuzzy Logic (skfuzzy lib) to classify a Mobile Operator depending on input params. See more in:  http://www.classificadoroperadoras.com.br | https://github.com/VictorAndrade4/tcc-fuzzy-handler | 0 | 0| 
 | 20211130T00:08:46Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 35 | 13| 
-| 20211130T00:05:06Z | Nothing is ever too hard to learn. As a girl from a non-science nor coding background, I will try to walk you through the journey of becoming a quant, step by step and fuzz-free! | https://github.com/loisisar/SoYouWantToBeAQuant | 0 | 0| 
 
 
 
