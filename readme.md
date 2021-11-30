@@ -24,21 +24,23 @@
 | --- | --- | ---| 
 | 20211129 | 记一次完成的钓鱼实战 | https://www.sec-in.com/article/1135| 
 | 20211129 | SecWiki周刊（第404期) | https://www.sec-wiki.com/weekly/404| 
+| 20211129 | 为什么机器学习解决网络安全问题总是失败：机器学习不是万能灵... | https://toooold.com/2021/11/28/why_ml_fails_security_ml_is_not_everything_cn.html| 
+| 20211129 | 基于半结构化百科的电影KG构建、查询与推理实践记录 | https://mp.weixin.qq.com/s/9bc8b-VtlW0seKgloLEvRQ| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211129T17:50:13Z | CVE-2020-7247 | Proof of concept for CVE-2020-7247 for educational purposes. | https://github.com/SimonSchoeni/CVE-2020-7247-POC | | 
+| 20211129T16:33:41Z | 未知编号 | Script in python detecting malious office document | https://github.com/YxZi5/Detection-CVE_2021_40444 | | 
 | 20211129T14:09:29Z | CVE-2020-7247 | Shell code for CVE-2020-7247-POC | https://github.com/SimonSchoeni/SimonSchoeniCVE20207247.github.io | | 
 | 20211129T11:40:47Z | CVE-2021-24084 | Windows MDM LPE | https://github.com/ohnonoyesyes/CVE-2021-24084 | | 
 | 20211129T11:40:02Z | CVE-2021-20837 | XMLRPC  - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | | 
 | 20211129T11:08:27Z | CVE-2021-43267 | Local PoC exploit for CVE-2021-43267 (Linux TIPC) | https://github.com/ohnonoyesyes/CVE-2021-43267 | | 
-| 20211129T10:08:58Z | CVE-2020-7247 | Proof of concept for CVE-2020-7247 for educational purposes. | https://github.com/SimonSchoeni/CVE-2020-7247-POC | | 
 | 20211129T08:57:41Z | CVE-2020-28148 | 攻击WIFI的常用方式 | https://github.com/fengchenzxc/CVE-2020-28148 | | 
 | 20211129T08:23:47Z | CVE-2020-0114 | Null | https://github.com/Nivaskumark/CVE-2020-0114-frameworks_base | | 
 | 20211129T08:20:51Z | CVE-2020-0114 | Null | https://github.com/Nivaskumark/CVE-2020-0114-frameworks_base_afterfix | | 
 | 20211129T08:17:23Z | CVE-2020-0097 | Null | https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base | | 
-| 20211129T08:16:57Z | CVE-2020-0097 | Null | https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base_afterfix | | 
 
 
 # klee on Github 推荐
@@ -55,28 +57,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211129T14:24:16Z | Model to simulate forest exploitation in Mato Grosso | https://github.com/pedro-andrade-inpe/forestExploitation | 0 | 0| 
-| 20211129T14:12:51Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 3792 | 1310| 
-| 20211129T14:07:02Z | Rodan Exploitation Framework | https://github.com/Etisalat-Egypt/Rodan | 0 | 0| 
-| 20211129T14:04:48Z | HEVD | https://github.com/ReJimp/Kernel_Exploit | 2 | 0| 
-| 20211129T14:03:43Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
-| 20211129T14:02:00Z | Automatic Return Oriented Programming exploit generator | https://github.com/JDBryan/ROPSlap | 0 | 0| 
-| 20211129T13:50:45Z | Exploit for CVE-2021-30807 | https://github.com/jsherman212/iomfb-exploit | 39 | 8| 
-| 20211129T13:35:36Z | Simultaneously search CVEs and exploits across multiple cybersecurity data sources.  | https://github.com/djjoa/exploit-searcher | 0 | 0| 
-| 20211129T13:18:15Z | Trabajo de fin de grado, esta tool permite al usuario realizar una pequeña auditoria a la hora de escalar privilegios en windows, la herramienta cuenta con un módulo automático, uno manual, y un módulo de búsqueda para encontrar exploits | https://github.com/ErnestoCubo/autoexploit | 1 | 0| 
-| 20211129T12:45:40Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 15| 
+| 20211129T23:43:09Z | Class project for EECS583: Advanced Compilers: Evolutionary Optimization of Compiler Flag Selection by Learning and Exploiting Flags Interactions.  | https://github.com/batuhanakcay/evo-optim-flags | 0 | 0| 
+| 20211129T23:08:00Z | Extensible framework for analyzing publicly available information about vulnerabilities | https://github.com/leonov-av/vulristics | 41 | 6| 
+| 20211129T22:42:36Z | Basic Typescript DEX arbitrage bot to monitor exchanges for price discrepancies and execute trades to exploit these. | https://github.com/nfragakis/DexArbitrageBot | 0 | 0| 
+| 20211129T22:40:38Z | Multiple game utilities to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 152 | 395| 
+| 20211129T22:18:38Z | StandIn is a small .NET35/45 AD post-exploitation toolkit | https://github.com/FuzzySecurity/StandIn | 285 | 66| 
+| 20211129T21:51:51Z | A hub of useful scripts for the 2020 edition of the Booga Booga game on Roblox. Useful for combating hostile exploiters. | https://github.com/thienlongtran/booga-booga-hub | 0 | 0| 
+| 20211129T21:22:01Z | Null | https://github.com/R-Laurent/TP1_Systeme_exploitation | 0 | 0| 
+| 20211129T21:00:22Z | This is a chrome extension that removes the psychological exploit that is Reddit Karma | https://github.com/BeckTimothy/reddit-volition | 0 | 0| 
+| 20211129T20:55:51Z | ＹＵＢＡ　　>Ｔｕｒｋｉｓｈ　Ｈａｃｋｅｒｓ | https://github.com/yuba-0/yuba-whatsapp-exploit | 1 | 0| 
+| 20211129T20:53:40Z | Post-Exploitation methods inside any extension, Presented @DEFCON29: %Extension-Land exploits and rootkits in your browser extensions%.  | https://github.com/barakolo/Maltensions | 7 | 1| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211129T12:51:16Z | Simple reverse shell for remote control of devices | https://github.com/michaljaz/reverse-backdoor | 0 | 0| 
+| 20211129T21:36:46Z | Allowing server admins to backdoor their own server! | https://github.com/awesomemoder316/DiscordBackdoorBot | 1 | 0| 
+| 20211129T19:20:08Z | Backdoor Hibernater | https://github.com/TDteach/BACH | 0 | 0| 
+| 20211129T18:58:13Z | Remote Access Trojan (RAT) | https://github.com/zarkones/damn-simple-rat | 2 | 0| 
+| 20211129T18:37:24Z | pybotnet -   A Python Library for building Botnet , Trojan or BackDoor for windows and linux with Telegram control panel  | https://github.com/onionj/pybotnet | 44 | 23| 
+| 20211129T17:47:57Z | Simple reverse shell for remote control of devices | https://github.com/michaljaz/reverse-backdoor | 0 | 0| 
+| 20211129T16:29:27Z | Anomaly Localization in Model Gradients Under Backdoor Attacks Against Federated Learning | https://github.com/ArcelikAcikKaynak/Federated_Learning | 0 | 0| 
+| 20211129T16:23:02Z | A fast and lightweight non-skidded client to server environment emulator | https://github.com/GRIPPERTV/Green-Server | 0 | 0| 
+| 20211129T16:15:45Z | A quick script to spot the usage of Unicode Bidi (bidirectional) characters that could lead to an Invisible Backdoor | https://github.com/cybersecsi/invisible-backdoor-detector | 7 | 0| 
+| 20211129T15:20:35Z | Python Backdoor | https://github.com/Akh4th/PyDoor | 0 | 0| 
 | 20211129T12:28:41Z | Code for %Biometric Backdoors: A Poisoning Attack Against Unsupervised Template Updating% | https://github.com/ssloxford/biometric-backdoors | 9 | 1| 
-| 20211129T10:08:32Z | A quick script to spot the usage of Unicode Bidi (bidirectional) characters that could lead to an Invisible Backdoor | https://github.com/cybersecsi/invisible-backdoor-detector | 6 | 0| 
-| 20211129T08:34:18Z | Unofficial pytorch implementation of RobNet(Defense-Resistant Backdoor Attacks on DNN) | https://github.com/dhkim2810/RobNet | 0 | 0| 
-| 20211129T06:04:08Z | Trojan_backdoor | https://github.com/chpark0714/Trojan_backdoor | 0 | 0| 
-| 20211129T06:02:00Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 382 | 161| 
-| 20211129T00:25:13Z | Some malware samples or suspicious files I found and their reports. | https://github.com/CYB3RMX/MalwareAnalysis101 | 25 | 3| 
 
 
 # symbolic execution on Github 推荐
@@ -95,16 +100,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211129T14:25:49Z | A GoLang fuzzy string matcher | https://github.com/mjarkk/fuzzy-matcher | 0 | 0| 
-| 20211129T14:25:08Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3802 | 896| 
-| 20211129T14:16:23Z | Naive Bayes Classifiers | https://github.com/Jodavid/FuzzyClass | 0 | 0| 
-| 20211129T13:51:44Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2257 | 444| 
-| 20211129T13:51:04Z | Null | https://github.com/snibh/fuzzy-goggles | 0 | 0| 
-| 20211129T13:47:53Z | With this project, I want to make a blending between Persevere and taPCT. The idea is to find bugs in large amounts of concurrent threading instruction. For that we will first try and identify with this tool some known bugs from emac versions that were not yet corrected. We first model the system call as a set of events and then apply the taPCT algorithm. Later on, we can use fuzzing to give larger system call sequences to our probabilistic scheduling algorithm.  | https://github.com/Ricagraca/taPPCT | 0 | 0| 
-| 20211129T13:41:44Z | A dart port of the popular fuzzywuzzy package | https://github.com/SphericalKat/dart-fuzzywuzzy | 17 | 2| 
-| 20211129T13:40:24Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 853 | 131| 
-| 20211129T13:37:24Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20211129T13:29:03Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 608 | 64| 
+| 20211129T23:57:10Z | Null | https://github.com/dreadthief125/fuzzy-tribble | 0 | 0| 
+| 20211129T23:08:19Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
+| 20211129T23:01:37Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2444 | 149| 
+| 20211129T22:45:12Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 2 | 2| 
+| 20211129T22:23:28Z | Aplicacion de Nextjs donde se pondra en practica la integracion continua y deployment continuo con GithubActions | https://github.com/katchvidal/fuzzy-waddle | 0 | 0| 
+| 20211129T22:02:18Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20211129T21:18:53Z | HMI interface for raspberry pi, made in python used to run a thermal and a pneumatic controller, with data storage and graphics. | https://github.com/Richardshm/Interface_fuzzy_controller_RPi | 0 | 0| 
+| 20211129T20:58:06Z | This is a ToDo application | https://github.com/Thendo18/fuzzy-umbrella | 0 | 0| 
+| 20211129T20:26:15Z | Reminder, Information gain, Fuzzy c clustering problem calculator using JavaScript | https://github.com/sakib-75/fuzzy-c-problem | 0 | 0| 
+| 20211129T20:20:44Z | Rust struct for approximated human-readable fraction representation.. | https://github.com/p4ymak/fuzzy_fraction | 0 | 0| 
 
 
 

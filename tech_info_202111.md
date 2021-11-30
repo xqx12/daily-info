@@ -33,29 +33,29 @@
 | --- | --- | ---| 
 | 20211129 | 记一次完成的钓鱼实战 | https://www.sec-in.com/article/1135| 
 | 20211129 | SecWiki周刊（第404期) | https://www.sec-wiki.com/weekly/404| 
+| 20211129 | 为什么机器学习解决网络安全问题总是失败：机器学习不是万能灵... | https://toooold.com/2021/11/28/why_ml_fails_security_ml_is_not_everything_cn.html| 
+| 20211129 | 基于半结构化百科的电影KG构建、查询与推理实践记录 | https://mp.weixin.qq.com/s/9bc8b-VtlW0seKgloLEvRQ| 
 | 20211128 | PT632电信“老猫”分析 | https://www.anquanke.com/post/id/259503| 
 | 20211128 | 2021年“绿盟杯”重庆市大学生信息安全竞赛-WP | https://www.anquanke.com/post/id/256976| 
 | 20211128 | 蓝队反制后的自动化信息收集 | https://www.anquanke.com/post/id/259358| 
 | 20211128 | ysomap : Java反序列化利用框架 | https://paper.seebug.org/1766/| 
 | 20211128 | 2021第四届强网拟态防御积分赛工控pwn eserver WP | https://www.anquanke.com/post/id/259594| 
 | 20211128 | 自删除技术详解 | https://www.anquanke.com/post/id/259050| 
-| 20211128 | 使用 ProxyShell 和 ProxyLogon 劫持邮件链 | https://paper.seebug.org/1764/| 
-| 20211128 | 关于多步骤攻击预测方法的调研概要 | https://mp.weixin.qq.com/s/ADOeqhYcjKfJlkVhkUAFaw| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211129T17:50:13Z | CVE-2020-7247 | Proof of concept for CVE-2020-7247 for educational purposes. | https://github.com/SimonSchoeni/CVE-2020-7247-POC | | 
+| 20211129T16:33:41Z | 未知编号 | Script in python detecting malious office document | https://github.com/YxZi5/Detection-CVE_2021_40444 | | 
 | 20211129T14:09:29Z | CVE-2020-7247 | Shell code for CVE-2020-7247-POC | https://github.com/SimonSchoeni/SimonSchoeniCVE20207247.github.io | | 
 | 20211129T11:40:47Z | CVE-2021-24084 | Windows MDM LPE | https://github.com/ohnonoyesyes/CVE-2021-24084 | | 
 | 20211129T11:40:02Z | CVE-2021-20837 | XMLRPC  - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | | 
 | 20211129T11:08:27Z | CVE-2021-43267 | Local PoC exploit for CVE-2021-43267 (Linux TIPC) | https://github.com/ohnonoyesyes/CVE-2021-43267 | | 
-| 20211129T10:08:58Z | CVE-2020-7247 | Proof of concept for CVE-2020-7247 for educational purposes. | https://github.com/SimonSchoeni/CVE-2020-7247-POC | | 
 | 20211129T08:57:41Z | CVE-2020-28148 | 攻击WIFI的常用方式 | https://github.com/fengchenzxc/CVE-2020-28148 | | 
 | 20211129T08:23:47Z | CVE-2020-0114 | Null | https://github.com/Nivaskumark/CVE-2020-0114-frameworks_base | | 
 | 20211129T08:20:51Z | CVE-2020-0114 | Null | https://github.com/Nivaskumark/CVE-2020-0114-frameworks_base_afterfix | | 
 | 20211129T08:17:23Z | CVE-2020-0097 | Null | https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base | | 
-| 20211129T08:16:57Z | CVE-2020-0097 | Null | https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base_afterfix | | 
 
 
 # klee on Github 推荐
@@ -91,31 +91,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211129T14:24:16Z | Model to simulate forest exploitation in Mato Grosso | https://github.com/pedro-andrade-inpe/forestExploitation | 0 | 0| 
-| 20211129T14:12:51Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 3792 | 1310| 
-| 20211129T14:07:02Z | Rodan Exploitation Framework | https://github.com/Etisalat-Egypt/Rodan | 0 | 0| 
-| 20211129T14:04:48Z | HEVD | https://github.com/ReJimp/Kernel_Exploit | 2 | 0| 
-| 20211129T14:03:43Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
-| 20211129T14:02:00Z | Automatic Return Oriented Programming exploit generator | https://github.com/JDBryan/ROPSlap | 0 | 0| 
-| 20211129T13:50:45Z | Exploit for CVE-2021-30807 | https://github.com/jsherman212/iomfb-exploit | 39 | 8| 
-| 20211129T13:35:36Z | Simultaneously search CVEs and exploits across multiple cybersecurity data sources.  | https://github.com/djjoa/exploit-searcher | 0 | 0| 
-| 20211129T13:18:15Z | Trabajo de fin de grado, esta tool permite al usuario realizar una pequeña auditoria a la hora de escalar privilegios en windows, la herramienta cuenta con un módulo automático, uno manual, y un módulo de búsqueda para encontrar exploits | https://github.com/ErnestoCubo/autoexploit | 1 | 0| 
-| 20211129T12:45:40Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 15| 
+| 20211130T00:56:19Z | Exploit https://www.roblox.com/games/8136378913/AntiExpTest | https://github.com/SynapsUsr/AntiExpTest | 0 | 0| 
+| 20211130T00:45:41Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 15| 
+| 20211130T00:39:27Z | iReady is awful. It%s the worst education tool anyone could ever use. This program is designed to skip through iReady lessons/quizzes/time requirements or whatever. | https://github.com/cupiditys/iReady-Overload | 10 | 13| 
+| 20211130T00:39:00Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 4138 | 568| 
+| 20211130T00:29:47Z | Trabajo de fin de grado, esta tool permite al usuario realizar una pequeña auditoria a la hora de escalar privilegios en windows, la herramienta cuenta con un módulo automático, uno manual, y un módulo de búsqueda para encontrar exploits | https://github.com/ErnestoCubo/autoexploit | 1 | 0| 
+| 20211130T00:05:10Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
+| 20211129T23:43:09Z | Class project for EECS583: Advanced Compilers: Evolutionary Optimization of Compiler Flag Selection by Learning and Exploiting Flags Interactions.  | https://github.com/batuhanakcay/evo-optim-flags | 0 | 0| 
+| 20211129T23:08:00Z | Extensible framework for analyzing publicly available information about vulnerabilities | https://github.com/leonov-av/vulristics | 41 | 6| 
+| 20211129T22:42:36Z | Basic Typescript DEX arbitrage bot to monitor exchanges for price discrepancies and execute trades to exploit these. | https://github.com/nfragakis/DexArbitrageBot | 0 | 0| 
+| 20211129T22:40:38Z | Multiple game utilities to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 152 | 395| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211129T12:51:16Z | Simple reverse shell for remote control of devices | https://github.com/michaljaz/reverse-backdoor | 0 | 0| 
+| 20211129T21:36:46Z | Allowing server admins to backdoor their own server! | https://github.com/awesomemoder316/DiscordBackdoorBot | 1 | 0| 
+| 20211129T19:20:08Z | Backdoor Hibernater | https://github.com/TDteach/BACH | 0 | 0| 
+| 20211129T18:58:13Z | Remote Access Trojan (RAT) | https://github.com/zarkones/damn-simple-rat | 2 | 0| 
+| 20211129T18:37:24Z | pybotnet -   A Python Library for building Botnet , Trojan or BackDoor for windows and linux with Telegram control panel  | https://github.com/onionj/pybotnet | 44 | 23| 
+| 20211129T17:47:57Z | Simple reverse shell for remote control of devices | https://github.com/michaljaz/reverse-backdoor | 0 | 0| 
+| 20211129T16:29:27Z | Anomaly Localization in Model Gradients Under Backdoor Attacks Against Federated Learning | https://github.com/ArcelikAcikKaynak/Federated_Learning | 0 | 0| 
+| 20211129T16:23:02Z | A fast and lightweight non-skidded client to server environment emulator | https://github.com/GRIPPERTV/Green-Server | 0 | 0| 
+| 20211129T16:15:45Z | A quick script to spot the usage of Unicode Bidi (bidirectional) characters that could lead to an Invisible Backdoor | https://github.com/cybersecsi/invisible-backdoor-detector | 7 | 0| 
+| 20211129T15:20:35Z | Python Backdoor | https://github.com/Akh4th/PyDoor | 0 | 0| 
 | 20211129T12:28:41Z | Code for %Biometric Backdoors: A Poisoning Attack Against Unsupervised Template Updating% | https://github.com/ssloxford/biometric-backdoors | 9 | 1| 
-| 20211129T10:08:32Z | A quick script to spot the usage of Unicode Bidi (bidirectional) characters that could lead to an Invisible Backdoor | https://github.com/cybersecsi/invisible-backdoor-detector | 6 | 0| 
-| 20211129T08:34:18Z | Unofficial pytorch implementation of RobNet(Defense-Resistant Backdoor Attacks on DNN) | https://github.com/dhkim2810/RobNet | 0 | 0| 
-| 20211129T06:04:08Z | Trojan_backdoor | https://github.com/chpark0714/Trojan_backdoor | 0 | 0| 
-| 20211129T06:02:00Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 382 | 161| 
-| 20211129T00:25:13Z | Some malware samples or suspicious files I found and their reports. | https://github.com/CYB3RMX/MalwareAnalysis101 | 25 | 3| 
-| 20211128T23:44:25Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 117 | 28| 
-| 20211128T10:16:39Z | Null | https://github.com/alok2520/Coding_Backdoor | 0 | 0| 
-| 20211128T00:38:13Z | Codebase for my Level 4 University Project: Static Analysis of Executable Code to Detect Backdoors on IoT Devices | https://github.com/sophieboyle/Symbolic-Execution-for-ARM-Backdoor-Detection | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -149,16 +149,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211129T14:25:49Z | A GoLang fuzzy string matcher | https://github.com/mjarkk/fuzzy-matcher | 0 | 0| 
-| 20211129T14:25:08Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3802 | 896| 
-| 20211129T14:16:23Z | Naive Bayes Classifiers | https://github.com/Jodavid/FuzzyClass | 0 | 0| 
-| 20211129T13:51:44Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2257 | 444| 
-| 20211129T13:51:04Z | Null | https://github.com/snibh/fuzzy-goggles | 0 | 0| 
-| 20211129T13:47:53Z | With this project, I want to make a blending between Persevere and taPCT. The idea is to find bugs in large amounts of concurrent threading instruction. For that we will first try and identify with this tool some known bugs from emac versions that were not yet corrected. We first model the system call as a set of events and then apply the taPCT algorithm. Later on, we can use fuzzing to give larger system call sequences to our probabilistic scheduling algorithm.  | https://github.com/Ricagraca/taPPCT | 0 | 0| 
-| 20211129T13:41:44Z | A dart port of the popular fuzzywuzzy package | https://github.com/SphericalKat/dart-fuzzywuzzy | 17 | 2| 
-| 20211129T13:40:24Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 853 | 131| 
-| 20211129T13:37:24Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20211129T13:29:03Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 608 | 64| 
+| 20211130T00:41:10Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 204 | 38| 
+| 20211130T00:38:43Z | Nama : Risti Auliah Utami | https://github.com/RistiLitami/Deteksi-Status-Gizi-Balita-Berdasarkan-indeks-Antropometri-Menggunakan-Logika-Fuzzy-Metode-Tsukamoto | 0 | 0| 
+| 20211130T00:19:19Z | Simple fuzzing tool designed for multi-threaded operation and for testing execution time.  | https://github.com/amitjain-3/twoFuzzingLong | 0 | 0| 
+| 20211130T00:16:19Z | This handler uses Fuzzy Logic (skfuzzy lib) to classify a Mobile Operator depending on input params. See more in:  http://www.classificadoroperadoras.com.br | https://github.com/VictorAndrade4/tcc-fuzzy-handler | 0 | 0| 
+| 20211130T00:08:46Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 35 | 13| 
+| 20211130T00:05:06Z | Nothing is ever too hard to learn. As a girl from a non-science nor coding background, I will try to walk you through the journey of becoming a quant, step by step and fuzz-free! | https://github.com/loisisar/SoYouWantToBeAQuant | 0 | 0| 
+| 20211129T23:57:10Z | Null | https://github.com/dreadthief125/fuzzy-tribble | 0 | 0| 
+| 20211129T23:08:19Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
+| 20211129T23:01:37Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2444 | 149| 
+| 20211129T22:45:12Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 2 | 2| 
 
 
 
