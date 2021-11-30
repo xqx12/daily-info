@@ -61,12 +61,12 @@
 | 20211129T23:08:00Z | Extensible framework for analyzing publicly available information about vulnerabilities | https://github.com/leonov-av/vulristics | 41 | 6| 
 | 20211129T22:42:36Z | Basic Typescript DEX arbitrage bot to monitor exchanges for price discrepancies and execute trades to exploit these. | https://github.com/nfragakis/DexArbitrageBot | 0 | 0| 
 | 20211129T22:40:38Z | Multiple game utilities to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 152 | 396| 
-| 20211129T22:18:38Z | StandIn is a small .NET35/45 AD post-exploitation toolkit | https://github.com/FuzzySecurity/StandIn | 285 | 66| 
 | 20211129T21:51:51Z | A hub of useful scripts for the 2020 edition of the Booga Booga game on Roblox. Useful for combating hostile exploiters. | https://github.com/thienlongtran/booga-booga-hub | 0 | 0| 
 | 20211129T21:22:01Z | Null | https://github.com/R-Laurent/TP1_Systeme_exploitation | 0 | 0| 
 | 20211129T21:00:22Z | This is a chrome extension that removes the psychological exploit that is Reddit Karma | https://github.com/BeckTimothy/reddit-volition | 0 | 0| 
 | 20211129T20:55:51Z | ＹＵＢＡ　　>Ｔｕｒｋｉｓｈ　Ｈａｃｋｅｒｓ | https://github.com/yuba-0/yuba-whatsapp-exploit | 1 | 0| 
 | 20211129T20:53:40Z | Post-Exploitation methods inside any extension, Presented @DEFCON29: %Extension-Land exploits and rootkits in your browser extensions%.  | https://github.com/barakolo/Maltensions | 7 | 1| 
+| 20211129T20:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10377 | 1790| 
 
 
 # backdoor on Github 推荐
