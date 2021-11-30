@@ -95,7 +95,7 @@
 | 20211130T02:44:29Z | Roblox exploiting scripts. | https://github.com/TotoAJ/ROBLOX-Scripts | 1 | 0| 
 | 20211130T02:35:33Z | Null | https://github.com/aitorcastel/exploitdev_talk2021_cesarmanrique | 0 | 0| 
 | 20211130T02:23:50Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 4140 | 568| 
-| 20211130T02:20:09Z | SlyDe.Fi: an entertaining prediction overconfidence exploiting re-distributive mechanism that uses pool-together-like yield farming. Also mints pretty graphs as NFTs. | https://github.com/parseb/blockchain-developer-bootcamp-final-project | 0 | 0| 
+| 20211130T02:20:09Z | SlyDe.Fi: an entertaining prediction overconfidence exploiting re-distributive mechanism that uses pool-together-like yield farming. Also mints pretty graphs as NFTs. | https://github.com/parseb/blockchain-developer-bootcamp-final-project | 0 | 1| 
 | 20211130T02:11:15Z | Null | https://github.com/BizzyPythonBear/Roblox-Exploits | 0 | 0| 
 | 20211130T02:05:12Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211130T01:59:35Z | Programs for exploring disassembling and buffer overflows for Vanderbilt CS 6387 | https://github.com/wutka/exploits_6387 | 0 | 0| 
