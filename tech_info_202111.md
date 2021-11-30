@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211130T02:52:58Z | A Roblox exploiting library that looks like nodejs. | https://github.com/Mlemix/roblox.ls | 0 | 0| 
 | 20211130T02:44:29Z | Roblox exploiting scripts. | https://github.com/TotoAJ/ROBLOX-Scripts | 1 | 0| 
 | 20211130T02:35:33Z | Null | https://github.com/aitorcastel/exploitdev_talk2021_cesarmanrique | 0 | 0| 
 | 20211130T02:23:50Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 4140 | 568| 
@@ -100,7 +101,6 @@
 | 20211130T01:59:35Z | Programs for exploring disassembling and buffer overflows for Vanderbilt CS 6387 | https://github.com/wutka/exploits_6387 | 0 | 0| 
 | 20211130T01:48:23Z | StandIn is a small .NET35/45 AD post-exploitation toolkit | https://github.com/FuzzySecurity/StandIn | 288 | 66| 
 | 20211130T01:44:15Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 358 | 55| 
-| 20211130T01:43:25Z | A hub of useful scripts for the 2020 edition of the Booga Booga game on Roblox. Useful for combating hostile exploiters. | https://github.com/thienlongtran/booga-booga-hub | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -149,12 +149,12 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211130T02:51:36Z | Simple fuzzing tool designed for multi-threaded operation and for testing execution time.  | https://github.com/amitjain-3/twoFuzzingLong | 0 | 0| 
 | 20211130T02:46:37Z | Learning how to code | https://github.com/sanjapm/fuzzy-code | 0 | 0| 
 | 20211130T02:26:42Z | 僕の卒業論文 | https://github.com/yoshiyoshiharu/oblique-fuzzy-vector-mrp | 0 | 0| 
 | 20211130T02:25:28Z | Instructor guided project where I create a simple drag and drop functionality in JavaScript | https://github.com/beautyTruth/fuzzy-doodle | 0 | 0| 
 | 20211130T01:53:20Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2258 | 444| 
 | 20211130T01:18:44Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2444 | 149| 
-| 20211130T01:07:54Z | Simple fuzzing tool designed for multi-threaded operation and for testing execution time.  | https://github.com/amitjain-3/twoFuzzingLong | 0 | 0| 
 | 20211130T00:41:10Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 204 | 38| 
 | 20211130T00:38:43Z | Nama : Risti Auliah Utami | https://github.com/RistiLitami/Deteksi-Status-Gizi-Balita-Berdasarkan-indeks-Antropometri-Menggunakan-Logika-Fuzzy-Metode-Tsukamoto | 0 | 0| 
 | 20211130T00:16:19Z | This handler uses Fuzzy Logic (skfuzzy lib) to classify a Mobile Operator depending on input params. See more in:  http://www.classificadoroperadoras.com.br | https://github.com/VictorAndrade4/tcc-fuzzy-handler | 0 | 0| 
