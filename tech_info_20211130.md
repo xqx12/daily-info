@@ -47,6 +47,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211130T13:30:00Z | Automatic Return Oriented Programming exploit generator | https://github.com/JDBryan/ROPSlap | 0 | 0| 
 | 20211130T13:11:54Z | Model to simulate forest exploitation in Mato Grosso | https://github.com/pedro-andrade-inpe/forestExploitation | 0 | 1| 
 | 20211130T13:03:21Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211130T12:56:36Z | Run MS17-010 modified exploit to get reverse nc connection | https://github.com/crazywifi/MS-17-010_Reverse_Connection_nc | 3 | 1| 
@@ -56,7 +57,6 @@
 | 20211130T12:44:54Z | Rodan Exploitation Framework | https://github.com/Etisalat-Egypt/Rodan | 7 | 4| 
 | 20211130T12:42:14Z | Official code for the paper %Revise-Net: Exploiting Reverse Attention Mechanism For Salient Object Detection% | https://github.com/yashkarbhari/Revise-Net | 0 | 0| 
 | 20211130T12:11:43Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 251 | 78| 
-| 20211130T11:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10378 | 1790| 
 
 
 # backdoor on Github 推荐
