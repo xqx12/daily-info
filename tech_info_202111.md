@@ -6,6 +6,15 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20211130 | Linux 平台的漏洞 PoC、Writeup 收集 | https://github.com/mudongliang/LinuxFlaw| 
+| 20211130 | 从恶意软件中提取基本块和函数特征用于识别和检测的工具 | https://github.com/c3rb3ru5d3d53c/binlex| 
+| 20211130 | owfuzz - WiFi protocol fuzzing tool using openwifi | https://github.com/alipay/Owfuzz| 
+| 20211130 | 日本松下发表声明称本月 11 号发生网络攻击，攻击者已经访问了其文件服务器的数据 | https://www.bleepingcomputer.com/news/security/panasonic-discloses-data-breach-after-network-hack/| 
+| 20211130 | 开源分布式爬虫管理系统 Gerapy 被发现任意命令执行漏洞 | https://securitylab.github.com/advisories/GHSL-2021-076-gerapy/| 
+| 20211130 | What does APT Activity Look Like on macOS | https://themittenmac.com/what-does-apt-activity-look-like-on-macos/?utm_source=rss&utm_medium=rss&utm_campaign=what-does-apt-activity-look-like-on-macos| 
+| 20211130 | 有研究发现，过去 4 个月中，有攻击者通过 Google Play 分发恶意软件感染超过 30 万设备 | https://www.threatfabric.com/blogs/deceive-the-heavens-to-cross-the-sea.html| 
+| 20211130 | Go 二进制程序的逆向分析 | http://www.blackstormsecurity.com/docs/BHACK_2021_ALEXANDREBORGES.pdf| 
+| 20211130 | Linux 与 XNU 的 KPTI 实现解读 | http://paper.seebug.org/1770/| 
 | 20211129 | UEFI virtual machine firmware hardening through snapshots and attack surface reduction | https://arxiv.org/abs/2111.10167| 
 | 20211129 | Linux 平台的无文件落地、内存执行二级制文件的 Loader | https://github.com/liamg/memit| 
 | 20211129 | Git Repo 泄露漏洞 | https://iosentrix.com/blog/git-source-code-disclosure-vulnerability/| 
@@ -17,15 +26,6 @@
 | 20211129 | 利用 CSS 与 SVG Font 向外渗透数据 | https://mksben.l0.cm/2021/11/css-exfiltration-svg-font.html| 
 | 20211129 | IOMFB OOB 漏洞（CVE-2021-30807）在 iOS <=14.7 版本的利用 | https://sec.today/pulses/a1e6acc8-0487-4f65-80a3-9ce7e30d809e/| 
 | 20211129 | IOMFB OOB 漏洞（CVE-2021-30807）在 iOS <=14.7 版本的利用 | https://jsherman212.github.io/2021/11/28/popping_ios14_with_iomfb.html| 
-| 20211126 | Symbolic - 一款 Rust 语言写的调用栈符号生成工具 | https://github.com/getsentry/symbolic| 
-| 20211126 | 多个安全细分方向的资料整理 | https://github.com/firmianay/security-paper| 
-| 20211126 | Wazuh - 一款面向入侵检测、日志分析、文件监控等功能的开源安全平台 | https://github.com/wazuh/wazuh| 
-| 20211126 | Windows 域名解析保护机制深度分析 | https://mp.weixin.qq.com/s/MBWv5I-5DNoOrmEGP4kR0A| 
-| 20211126 | Learning Containers From The Bottom Up | http://iximiuz.com/en/posts/container-learning-path/| 
-| 20211126 | Avaddon 勒索软件分析 | https://atos.net/en/lp/securitydive/avaddon-ransomware-analysis| 
-| 20211126 | 基于 Unicorn Engine 模拟器代码执行漏洞的 CTF 赛题 | https://github.com/jwang-a/CTF/tree/master/MyChallenges/Pwn/Unicorns_Aisle| 
-| 20211126 | MediaTek audio DSP 被发现漏洞，可被用于 Android App 本地提权 | http://research.checkpoint.com/2021/looking-for-vulnerabilities-in-mediatek-audio-dsp/| 
-| 20211126 | TP-LINK TL-WR840N Ping 功能处理存在命令行注入漏洞 | https://k4m1ll0.com/cve-2021-41653.html| 
 
 
 # 安全维基 推荐
@@ -46,21 +46,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211130T02:11:20Z | CVE-2021-24084 | Windows MDM LPE | https://github.com/ohnonoyesyes/CVE-2021-24084 | | 
+| 20211130T11:03:55Z | CVE-2020-7247 | Proof of concept for CVE-2020-7247 for educational purposes. | https://github.com/SimonSchoeni/CVE-2020-7247-POC | | 
+| 20211130T08:20:59Z | CVE-2021-43778 |  CVE-2021-43778 poc | https://github.com/AK-blank/CVE-2021-43778 | | 
+| 20211130T06:13:11Z | CVE-2021-40438 | Sigma-Rule-for-CVE-2021-40438-Attack-Attemp | https://github.com/pisut4152/Sigma-Rule-for-CVE-2021-40438-exploitation-attempt | | 
+| 20211130T05:11:04Z | CVE-2021-24084 | Windows MDM LPE | https://github.com/ohnonoyesyes/CVE-2021-24084 | | 
 | 20211130T01:56:17Z | CVE-2021-21224 | ARM64 PoC for CVE-2021-21224 | https://github.com/ohnonoyesyes/CVE-2021-21224 | | 
-| 20211129T17:50:13Z | CVE-2020-7247 | Proof of concept for CVE-2020-7247 for educational purposes. | https://github.com/SimonSchoeni/CVE-2020-7247-POC | | 
 | 20211129T16:33:41Z | 未知编号 | Script in python detecting malious office document | https://github.com/YxZi5/Detection-CVE_2021_40444 | | 
 | 20211129T14:09:29Z | CVE-2020-7247 | Shell code for CVE-2020-7247-POC | https://github.com/SimonSchoeni/SimonSchoeniCVE20207247.github.io | | 
 | 20211129T11:40:02Z | CVE-2021-20837 | XMLRPC  - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | | 
 | 20211129T11:08:27Z | CVE-2021-43267 | Local PoC exploit for CVE-2021-43267 (Linux TIPC) | https://github.com/ohnonoyesyes/CVE-2021-43267 | | 
 | 20211129T08:57:41Z | CVE-2020-28148 | 攻击WIFI的常用方式 | https://github.com/fengchenzxc/CVE-2020-28148 | | 
-| 20211129T08:23:47Z | CVE-2020-0114 | Null | https://github.com/Nivaskumark/CVE-2020-0114-frameworks_base | | 
-| 20211129T08:20:51Z | CVE-2020-0114 | Null | https://github.com/Nivaskumark/CVE-2020-0114-frameworks_base_afterfix | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211130T10:40:36Z | Null | https://github.com/coffee100percnt/KleeDiscordBomber | 5 | 0| 
 | 20211128T23:33:27Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1831 | 522| 
 | 20211128T23:03:40Z | Null | https://github.com/Mq0509/YoRPG_Kleemex | 0 | 0| 
 | 20211128T08:01:33Z | Null | https://github.com/rounakmodgil/KleenSecurityctfpublic | 0 | 0| 
@@ -70,12 +71,12 @@
 | 20211127T06:49:31Z | klee+nme for user space aeg | https://github.com/jqhong/klee-nme-aeg | 1 | 0| 
 | 20211126T07:41:02Z | Null | https://github.com/wpkong/KleeAdventure | 0 | 0| 
 | 20211124T16:41:12Z | Research paper On The Termination of Borrow Checking for Rust and a web application, CLI application and VSCode extension for running static analysis of rust-based smart contracts with a ready-to-be-verified project example. | https://github.com/LedgerProject/safepkt | 0 | 1| 
-| 20211124T16:20:20Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 219 | 36| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211130T10:05:28Z | Config files for my GitHub profile. | https://github.com/s2Erjs/s2Erjs | 0 | 0| 
 | 20211129T03:33:30Z | CRAX++: software CRash analysis for Automatic eXploit generation | https://github.com/aesophor/CRAXplusplus | 15 | 3| 
 | 20211128T03:07:26Z | Null | https://github.com/s2e-lab/s2e-lab.github.io | 0 | 0| 
 | 20211127T07:17:14Z | Null | https://github.com/aesophor/requiem | 15 | 3| 
@@ -85,22 +86,21 @@
 | 20211123T23:24:18Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 78 | 31| 
 | 20211120T05:53:34Z | Null | https://github.com/FISHzj/S2EB | 0 | 0| 
 | 20211116T20:55:05Z | jhirschm | https://github.com/jhirschm/S2E_PhotoinjectorLaserModel | 0 | 0| 
-| 20211116T09:52:52Z | Null | https://github.com/t0ry003/BAC-2009-S2E5 | 0 | 0| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211130T02:52:58Z | A Roblox exploiting library that looks like nodejs. | https://github.com/Mlemix/roblox.ls | 0 | 0| 
-| 20211130T02:44:29Z | Roblox exploiting scripts. | https://github.com/TotoAJ/ROBLOX-Scripts | 1 | 0| 
-| 20211130T02:35:33Z | Null | https://github.com/aitorcastel/exploitdev_talk2021_cesarmanrique | 0 | 0| 
-| 20211130T02:23:50Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 4140 | 568| 
-| 20211130T02:20:09Z | SlyDe.Fi: an entertaining prediction overconfidence exploiting re-distributive mechanism that uses pool-together-like yield farming. Also mints pretty graphs as NFTs. | https://github.com/parseb/blockchain-developer-bootcamp-final-project | 0 | 1| 
-| 20211130T02:11:15Z | Null | https://github.com/BizzyPythonBear/Roblox-Exploits | 0 | 0| 
-| 20211130T02:05:12Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
-| 20211130T01:59:35Z | Programs for exploring disassembling and buffer overflows for Vanderbilt CS 6387 | https://github.com/wutka/exploits_6387 | 0 | 0| 
-| 20211130T01:48:23Z | StandIn is a small .NET35/45 AD post-exploitation toolkit | https://github.com/FuzzySecurity/StandIn | 288 | 66| 
-| 20211130T01:44:15Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 358 | 55| 
+| 20211130T12:56:36Z | Run MS17-010 modified exploit to get reverse nc connection | https://github.com/crazywifi/MS-17-010_Reverse_Connection_nc | 3 | 1| 
+| 20211130T12:53:26Z | fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | 0 | 0| 
+| 20211130T12:47:10Z | Exploit the vulnerability to install arbitrary applications in k61v1 without ROOT | https://github.com/MlgmXyysd/F21ProInjector | 7 | 1| 
+| 20211130T12:45:41Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 15| 
+| 20211130T12:44:54Z | Rodan Exploitation Framework | https://github.com/Etisalat-Egypt/Rodan | 7 | 4| 
+| 20211130T12:42:14Z | Official code for the paper %Revise-Net: Exploiting Reverse Attention Mechanism For Salient Object Detection% | https://github.com/yashkarbhari/Revise-Net | 0 | 0| 
+| 20211130T12:11:43Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 251 | 78| 
+| 20211130T12:03:55Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
+| 20211130T11:46:25Z | Model to simulate forest exploitation in Mato Grosso | https://github.com/pedro-andrade-inpe/forestExploitation | 0 | 1| 
+| 20211130T11:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10378 | 1790| 
 
 
 # backdoor on Github 推荐
@@ -149,16 +149,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211130T02:51:36Z | Simple fuzzing tool designed for multi-threaded operation and for testing execution time.  | https://github.com/amitjain-3/twoFuzzingLong | 0 | 0| 
-| 20211130T02:46:37Z | Learning how to code | https://github.com/sanjapm/fuzzy-code | 0 | 0| 
-| 20211130T02:26:42Z | 僕の卒業論文 | https://github.com/yoshiyoshiharu/oblique-fuzzy-vector-mrp | 0 | 0| 
-| 20211130T02:25:28Z | Instructor guided project where I create a simple drag and drop functionality in JavaScript | https://github.com/beautyTruth/fuzzy-doodle | 0 | 0| 
-| 20211130T01:53:20Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2258 | 444| 
-| 20211130T01:18:44Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2444 | 149| 
-| 20211130T00:41:10Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 204 | 38| 
-| 20211130T00:38:43Z | Nama : Risti Auliah Utami | https://github.com/RistiLitami/Deteksi-Status-Gizi-Balita-Berdasarkan-indeks-Antropometri-Menggunakan-Logika-Fuzzy-Metode-Tsukamoto | 0 | 0| 
-| 20211130T00:16:19Z | This handler uses Fuzzy Logic (skfuzzy lib) to classify a Mobile Operator depending on input params. See more in:  http://www.classificadoroperadoras.com.br | https://github.com/VictorAndrade4/tcc-fuzzy-handler | 0 | 0| 
-| 20211130T00:08:46Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 35 | 13| 
+| 20211130T12:58:03Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
+| 20211130T12:57:26Z | Reminder, Information gain, Fuzzy c clustering problem calculator using JavaScript | https://github.com/sakib-75/fuzzy-c-problem | 0 | 0| 
+| 20211130T12:46:44Z | Null | https://github.com/Gowtham2493/Fuzzysearch | 0 | 0| 
+| 20211130T12:15:23Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 363 | 31| 
+| 20211130T12:15:13Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 35 | 12| 
+| 20211130T12:12:47Z | Yet another web fuzzer | https://github.com/FooBallZ/yafuzz | 1 | 1| 
+| 20211130T12:10:30Z | Null | https://github.com/gungnir479/fuzzJIT | 0 | 0| 
+| 20211130T12:06:30Z | Null | https://github.com/polymorphicengine/Semi-Fuzzy-Quantifiers | 0 | 0| 
+| 20211130T12:04:38Z | Rust struct for approximated human-readable fraction representation.. | https://github.com/p4ymak/fuzzy_fraction | 0 | 0| 
+| 20211130T12:00:11Z | Config files for my GitHub profile. | https://github.com/FuZzZz97/FuZzZz97 | 0 | 0| 
 
 
 
