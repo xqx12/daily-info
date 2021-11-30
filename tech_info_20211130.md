@@ -48,7 +48,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211130T13:54:51Z | Vulnerabilities found along the way | https://github.com/hansmach1ne/MyExploits | 0 | 0| 
+| 20211130T13:58:21Z | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores. Around 𝟏,𝟓𝟔𝟎 tools, that you can use for Hacking. | https://github.com/darksnake33/GH-Hacking-Tools-Kit | 0 | 0| 
+| 20211130T13:57:59Z | Vulnerabilities found along the way | https://github.com/hansmach1ne/MyExploits | 0 | 0| 
 | 20211130T13:54:10Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/darksnake33/Hacking-Tools-Pack | 0 | 0| 
 | 20211130T13:47:52Z | Nmap script that searches for probable vulnerabilities based on services discovered in open ports.  | https://github.com/scmanjarrez/CVEScannerV2 | 5 | 2| 
 | 20211130T13:38:57Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 3796 | 1313| 
@@ -57,7 +58,6 @@
 | 20211130T13:11:54Z | Model to simulate forest exploitation in Mato Grosso | https://github.com/pedro-andrade-inpe/forestExploitation | 0 | 1| 
 | 20211130T13:03:21Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211130T12:56:36Z | Run MS17-010 modified exploit to get reverse nc connection | https://github.com/crazywifi/MS-17-010_Reverse_Connection_nc | 3 | 1| 
-| 20211130T12:53:26Z | fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | 0 | 0| 
 
 
 # backdoor on Github 推荐
