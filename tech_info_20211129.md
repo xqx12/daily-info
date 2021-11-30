@@ -34,13 +34,13 @@
 | 20211129T17:50:13Z | CVE-2020-7247 | Proof of concept for CVE-2020-7247 for educational purposes. | https://github.com/SimonSchoeni/CVE-2020-7247-POC | | 
 | 20211129T16:33:41Z | 未知编号 | Script in python detecting malious office document | https://github.com/YxZi5/Detection-CVE_2021_40444 | | 
 | 20211129T14:09:29Z | CVE-2020-7247 | Shell code for CVE-2020-7247-POC | https://github.com/SimonSchoeni/SimonSchoeniCVE20207247.github.io | | 
-| 20211129T11:40:47Z | CVE-2021-24084 | Windows MDM LPE | https://github.com/ohnonoyesyes/CVE-2021-24084 | | 
 | 20211129T11:40:02Z | CVE-2021-20837 | XMLRPC  - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | | 
 | 20211129T11:08:27Z | CVE-2021-43267 | Local PoC exploit for CVE-2021-43267 (Linux TIPC) | https://github.com/ohnonoyesyes/CVE-2021-43267 | | 
 | 20211129T08:57:41Z | CVE-2020-28148 | 攻击WIFI的常用方式 | https://github.com/fengchenzxc/CVE-2020-28148 | | 
 | 20211129T08:23:47Z | CVE-2020-0114 | Null | https://github.com/Nivaskumark/CVE-2020-0114-frameworks_base | | 
 | 20211129T08:20:51Z | CVE-2020-0114 | Null | https://github.com/Nivaskumark/CVE-2020-0114-frameworks_base_afterfix | | 
 | 20211129T08:17:23Z | CVE-2020-0097 | Null | https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base | | 
+| 20211129T08:16:57Z | CVE-2020-0097 | Null | https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base_afterfix | | 
 
 
 # klee on Github 推荐
