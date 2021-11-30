@@ -47,6 +47,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211130T13:03:21Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211130T12:56:36Z | Run MS17-010 modified exploit to get reverse nc connection | https://github.com/crazywifi/MS-17-010_Reverse_Connection_nc | 3 | 1| 
 | 20211130T12:53:26Z | fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | 0 | 0| 
 | 20211130T12:47:10Z | Exploit the vulnerability to install arbitrary applications in k61v1 without ROOT | https://github.com/MlgmXyysd/F21ProInjector | 7 | 1| 
@@ -54,7 +55,6 @@
 | 20211130T12:44:54Z | Rodan Exploitation Framework | https://github.com/Etisalat-Egypt/Rodan | 7 | 4| 
 | 20211130T12:42:14Z | Official code for the paper %Revise-Net: Exploiting Reverse Attention Mechanism For Salient Object Detection% | https://github.com/yashkarbhari/Revise-Net | 0 | 0| 
 | 20211130T12:11:43Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 251 | 78| 
-| 20211130T12:03:55Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211130T11:46:25Z | Model to simulate forest exploitation in Mato Grosso | https://github.com/pedro-andrade-inpe/forestExploitation | 0 | 1| 
 | 20211130T11:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10378 | 1790| 
 
@@ -62,9 +62,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211130T02:43:48Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 371 | 64| 
-| 20211130T02:21:39Z | Statically-linked ssh server with reverse shell functionality for CTFs and such | https://github.com/Fahrj/reverse-ssh | 421 | 53| 
-| 20211130T02:20:59Z | Null | https://github.com/User-Alpine/BackDoor-Only-for-Education-purpose- | 0 | 0| 
+| 20211130T12:55:45Z | Null | https://github.com/defaultcrypter/backdoor-python-CodeSimple-hacking | 1 | 0| 
+| 20211130T11:38:56Z | creating an undetectable backdoor | https://github.com/HarshithaReddy23/Backdoor-and-keylogger | 0 | 0| 
+| 20211130T09:29:22Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 36 | 28| 
+| 20211130T09:11:33Z | A quick script to spot the usage of Unicode Bidi (bidirectional) characters that could lead to an Invisible Backdoor | https://github.com/cybersecsi/invisible-backdoor-detector | 8 | 0| 
+| 20211130T08:37:41Z | Simple reverse shell for remote control of devices | https://github.com/michaljaz/reverse-backdoor | 0 | 0| 
+| 20211130T07:38:42Z | pwn++ - a bad C++17 pwn library for Windows & Linux | https://github.com/hugsy/pwn-- | 50 | 3| 
+| 20211130T05:10:00Z | Anomaly Localization in Model Gradients Under Backdoor Attacks Against Federated Learning | https://github.com/ArcelikAcikKaynak/Federated_Learning | 0 | 0| 
+| 20211130T04:56:17Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 117 | 28| 
+| 20211130T03:54:28Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 372 | 65| 
+| 20211130T03:34:33Z | Null | https://github.com/THUYimingLi/BackdoorBox | 2 | 1| 
 
 
 # symbolic execution on Github 推荐
@@ -82,9 +89,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211130T13:02:18Z | Null | https://github.com/Gowtham2493/Fuzzysearch | 0 | 0| 
 | 20211130T12:58:03Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
 | 20211130T12:57:26Z | Reminder, Information gain, Fuzzy c clustering problem calculator using JavaScript | https://github.com/sakib-75/fuzzy-c-problem | 0 | 0| 
-| 20211130T12:46:44Z | Null | https://github.com/Gowtham2493/Fuzzysearch | 0 | 0| 
 | 20211130T12:15:23Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 363 | 31| 
 | 20211130T12:15:13Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 35 | 12| 
 | 20211130T12:12:47Z | Yet another web fuzzer | https://github.com/FooBallZ/yafuzz | 1 | 1| 
