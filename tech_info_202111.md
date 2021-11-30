@@ -149,9 +149,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211130T01:07:54Z | Simple fuzzing tool designed for multi-threaded operation and for testing execution time.  | https://github.com/amitjain-3/twoFuzzingLong | 0 | 0| 
 | 20211130T00:41:10Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 204 | 38| 
 | 20211130T00:38:43Z | Nama : Risti Auliah Utami | https://github.com/RistiLitami/Deteksi-Status-Gizi-Balita-Berdasarkan-indeks-Antropometri-Menggunakan-Logika-Fuzzy-Metode-Tsukamoto | 0 | 0| 
-| 20211130T00:19:19Z | Simple fuzzing tool designed for multi-threaded operation and for testing execution time.  | https://github.com/amitjain-3/twoFuzzingLong | 0 | 0| 
 | 20211130T00:16:19Z | This handler uses Fuzzy Logic (skfuzzy lib) to classify a Mobile Operator depending on input params. See more in:  http://www.classificadoroperadoras.com.br | https://github.com/VictorAndrade4/tcc-fuzzy-handler | 0 | 0| 
 | 20211130T00:08:46Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 35 | 13| 
 | 20211130T00:05:06Z | Nothing is ever too hard to learn. As a girl from a non-science nor coding background, I will try to walk you through the journey of becoming a quant, step by step and fuzz-free! | https://github.com/loisisar/SoYouWantToBeAQuant | 0 | 0| 
