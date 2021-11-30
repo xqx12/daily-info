@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211130T02:44:29Z | Roblox exploiting scripts. | https://github.com/TotoAJ/ROBLOX-Scripts | 1 | 0| 
 | 20211130T02:35:33Z | Null | https://github.com/aitorcastel/exploitdev_talk2021_cesarmanrique | 0 | 0| 
 | 20211130T02:23:50Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 4140 | 568| 
 | 20211130T02:20:09Z | SlyDe.Fi: an entertaining prediction overconfidence exploiting re-distributive mechanism that uses pool-together-like yield farming. Also mints pretty graphs as NFTs. | https://github.com/parseb/blockchain-developer-bootcamp-final-project | 0 | 0| 
@@ -100,12 +101,12 @@
 | 20211130T01:48:23Z | StandIn is a small .NET35/45 AD post-exploitation toolkit | https://github.com/FuzzySecurity/StandIn | 288 | 66| 
 | 20211130T01:44:15Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 358 | 55| 
 | 20211130T01:43:25Z | A hub of useful scripts for the 2020 edition of the Booga Booga game on Roblox. Useful for combating hostile exploiters. | https://github.com/thienlongtran/booga-booga-hub | 0 | 0| 
-| 20211130T01:07:22Z | Null | https://github.com/rlyhurt/Memcrashed-DDoS-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211130T02:43:48Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 371 | 64| 
 | 20211130T02:21:39Z | Statically-linked ssh server with reverse shell functionality for CTFs and such | https://github.com/Fahrj/reverse-ssh | 421 | 53| 
 | 20211130T02:20:59Z | Null | https://github.com/User-Alpine/BackDoor-Only-for-Education-purpose- | 0 | 0| 
 | 20211129T21:36:46Z | Allowing server admins to backdoor their own server! | https://github.com/awesomemoder316/DiscordBackdoorBot | 1 | 0| 
@@ -115,7 +116,6 @@
 | 20211129T17:47:57Z | Simple reverse shell for remote control of devices | https://github.com/michaljaz/reverse-backdoor | 0 | 0| 
 | 20211129T16:29:27Z | Anomaly Localization in Model Gradients Under Backdoor Attacks Against Federated Learning | https://github.com/ArcelikAcikKaynak/Federated_Learning | 0 | 0| 
 | 20211129T16:23:02Z | A fast and lightweight non-skidded client to server environment emulator | https://github.com/GRIPPERTV/Green-Server | 0 | 0| 
-| 20211129T16:15:45Z | A quick script to spot the usage of Unicode Bidi (bidirectional) characters that could lead to an Invisible Backdoor | https://github.com/cybersecsi/invisible-backdoor-detector | 7 | 0| 
 
 
 # symbolic execution on Github 推荐
