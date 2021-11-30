@@ -91,16 +91,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211130T01:07:46Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
+| 20211130T01:07:22Z | Null | https://github.com/rlyhurt/Memcrashed-DDoS-Exploit | 0 | 0| 
 | 20211130T00:56:19Z | Exploit https://www.roblox.com/games/8136378913/AntiExpTest | https://github.com/SynapsUsr/AntiExpTest | 0 | 0| 
 | 20211130T00:45:41Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 15| 
 | 20211130T00:39:27Z | iReady is awful. It%s the worst education tool anyone could ever use. This program is designed to skip through iReady lessons/quizzes/time requirements or whatever. | https://github.com/cupiditys/iReady-Overload | 10 | 13| 
 | 20211130T00:39:00Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 4138 | 568| 
 | 20211130T00:29:47Z | Trabajo de fin de grado, esta tool permite al usuario realizar una pequeña auditoria a la hora de escalar privilegios en windows, la herramienta cuenta con un módulo automático, uno manual, y un módulo de búsqueda para encontrar exploits | https://github.com/ErnestoCubo/autoexploit | 1 | 0| 
-| 20211130T00:05:10Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211129T23:43:09Z | Class project for EECS583: Advanced Compilers: Evolutionary Optimization of Compiler Flag Selection by Learning and Exploiting Flags Interactions.  | https://github.com/batuhanakcay/evo-optim-flags | 0 | 0| 
 | 20211129T23:08:00Z | Extensible framework for analyzing publicly available information about vulnerabilities | https://github.com/leonov-av/vulristics | 41 | 6| 
 | 20211129T22:42:36Z | Basic Typescript DEX arbitrage bot to monitor exchanges for price discrepancies and execute trades to exploit these. | https://github.com/nfragakis/DexArbitrageBot | 0 | 0| 
-| 20211129T22:40:38Z | Multiple game utilities to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 152 | 395| 
 
 
 # backdoor on Github 推荐
