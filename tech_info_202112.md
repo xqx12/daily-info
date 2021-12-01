@@ -52,6 +52,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211201T13:11:00Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 103 | 37| 
 | 20211201T13:03:02Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211201T13:00:49Z | ssti exploit | https://github.com/saifbhh1987/ssti | 0 | 0| 
 | 20211201T12:48:18Z | Attack surface management is an attacker perspective about how the attacker may see the organizational assets to be vulnerable and to be exploited by the attacker. | https://github.com/Operation-Falcon/Attacksurfacemanagement | 0 | 0| 
@@ -61,7 +62,6 @@
 | 20211201T12:10:28Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 252 | 78| 
 | 20211201T12:01:13Z | Advisories, proof of concept files and exploits that have been made public by @pedrib. | https://github.com/pedrib/PoC | 460 | 116| 
 | 20211201T11:25:40Z | proxylogon, proxyshell, proxyoracle full chain exploit tool | https://github.com/FDlucifer/Proxy-Attackchain | 10 | 1| 
-| 20211201T10:57:31Z | Small forum website for practicing basic web exploits. | https://github.com/jib1337/websandbox | 0 | 2| 
 
 
 # backdoor on Github 推荐
