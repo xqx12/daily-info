@@ -71,7 +71,7 @@
 | 20211201T11:08:17Z | Python Backdoor Detection Model Based on Combined Features | https://github.com/das-lab/PBDT | 0 | 1| 
 | 20211201T09:28:20Z | new working python reverse shell persistent backdoor | https://github.com/stevesanchez29/NW | 0 | 0| 
 | 20211201T08:26:35Z | Statically-linked ssh server with reverse shell functionality for CTFs and such | https://github.com/Fahrj/reverse-ssh | 421 | 52| 
-| 20211201T08:11:29Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 376 | 65| 
+| 20211201T08:11:29Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 376 | 66| 
 | 20211201T06:15:21Z | Into backdoor with node and express! | https://github.com/dasgupta002/web-node-advanced | 1 | 0| 
 | 20211201T04:26:46Z | Null | https://github.com/naiyeleo/PICCOLO_backdoor_detection | 0 | 0| 
 | 20211201T01:50:18Z | pwn++ - a (bad) C++17 pwn library for Windows & Linux | https://github.com/hugsy/pwn-- | 52 | 3| 
