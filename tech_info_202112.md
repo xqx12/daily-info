@@ -54,6 +54,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211201T13:43:07Z | proxylogon, proxyshell, proxyoracle and proxytoken full chain exploit tool | https://github.com/FDlucifer/Proxy-Attackchain | 10 | 1| 
 | 20211201T13:37:05Z | You need to run all_together.py and follow the instructions on the readme below. This Tool allows you to use various discord exploits for educational use. | https://github.com/FuckingToasters/discord-group-spammer | 9 | 7| 
 | 20211201T13:35:47Z | Advisories, proof of concept files and exploits that have been made public by @pedrib. | https://github.com/pedrib/PoC | 460 | 116| 
 | 20211201T13:35:05Z | Attack surface management is an attacker perspective about how the attacker may see the organizational assets to be vulnerable and to be exploited by the attacker.  | https://github.com/Operation-Falcon/AttackSurfaceManagement-DOCS | 0 | 0| 
@@ -63,7 +64,6 @@
 | 20211201T13:00:49Z | ssti exploit | https://github.com/saifbhh1987/ssti | 0 | 0| 
 | 20211201T12:48:18Z | Attack surface management is an attacker perspective about how the attacker may see the organizational assets to be vulnerable and to be exploited by the attacker. | https://github.com/Operation-Falcon/Attacksurfacemanagement | 0 | 0| 
 | 20211201T12:45:42Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 15| 
-| 20211201T12:45:40Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10381 | 1791| 
 
 
 # backdoor on Github 推荐
@@ -96,6 +96,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211201T13:44:28Z | Python tool for enumerating directories and for fuzzing | https://github.com/confusedHatHacker/dirEnum | 1 | 0| 
 | 20211201T13:31:20Z | This Repository is for maintaining RegressFuzz settings | https://github.com/hanyoungYoo/RegressFuzzSetting | 0 | 0| 
 | 20211201T13:02:01Z | A groovy/java tabular Data (from CSV,SQL,JSON) processing library that supports fuzzy column matching,tranformations/merging/querying | https://github.com/kayr/fuzzy-csv | 12 | 6| 
 | 20211201T12:44:31Z | Just another repository | https://github.com/Monib21/fuzzy-spork | 0 | 0| 
@@ -105,7 +106,6 @@
 | 20211201T12:27:43Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 610 | 64| 
 | 20211201T12:22:39Z | fuzzyblog | https://github.com/johnnywww/fuzzyblog | 0 | 0| 
 | 20211201T12:19:27Z | Null | https://github.com/Potat0000/AutoFuzzer | 1 | 0| 
-| 20211201T12:16:33Z | MATLAB code that helps to solve Fuzzy Logic Operation problems in Artificial Intelligence. | https://github.com/antonblaise/fuzzy-logic-operations | 0 | 0| 
 
 
 
