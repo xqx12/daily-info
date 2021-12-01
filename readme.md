@@ -53,7 +53,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211130T23:48:24Z | Multiple game utilities to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 156 | 412| 
 | 20211130T22:49:39Z | A collection of write ups on how I solved each exploit challenge on Exploit Education | https://github.com/dyllan500/Exploit-Education-Write-Up | 0 | 0| 
 | 20211130T22:37:08Z | Gex is an iOS 14.7 jailbreak using CVE-2021-30807 IOMFB exploit | https://github.com/30440r/gex | 0 | 0| 
 | 20211130T22:26:36Z | a userfaultfd library for CTF so you don%t have to copy/paste so much code to exploit race conditions | https://github.com/Arinerron/libuserfaultfd | 0 | 0| 
@@ -63,6 +62,7 @@
 | 20211130T21:16:29Z | Exploiting could get you banned, use at your own risk. | https://github.com/19dullarfortnitecard/SoundSpaceGUI | 0 | 0| 
 | 20211130T21:10:28Z | C++ GUI for TegraRcmSmash (Fusée Gelée exploit for Nintendo Switch) | https://github.com/eliboa/TegraRcmGUI | 1159 | 96| 
 | 20211130T21:06:33Z | Extensible framework for analyzing publicly available information about vulnerabilities | https://github.com/leonov-av/vulristics | 41 | 6| 
+| 20211130T20:51:38Z | Exploit developers | https://github.com/NemsploitsTM/Nem-AtKn-SPloits_TM | 0 | 0| 
 
 
 # backdoor on Github 推荐
