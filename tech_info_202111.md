@@ -62,7 +62,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20211130T22:53:32Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 219 | 36| 
-| 20211130T13:36:20Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1832 | 523| 
 | 20211130T10:40:36Z | Null | https://github.com/coffee100percnt/KleeDiscordBomber | 5 | 0| 
 | 20211128T23:03:40Z | Null | https://github.com/Mq0509/YoRPG_Kleemex | 0 | 0| 
 | 20211128T08:01:33Z | Null | https://github.com/rounakmodgil/KleenSecurityctfpublic | 0 | 0| 
@@ -71,6 +70,7 @@
 | 20211127T21:17:49Z | modern regular expression syntax everywhere with a painless upgrade path | https://github.com/SonOfLilit/kleenexp | 28 | 3| 
 | 20211127T06:49:31Z | klee+nme for user space aeg | https://github.com/jqhong/klee-nme-aeg | 1 | 0| 
 | 20211126T07:41:02Z | Null | https://github.com/wpkong/KleeAdventure | 0 | 0| 
+| 20211124T16:41:12Z | Research paper On The Termination of Borrow Checking for Rust and a web application, CLI application and VSCode extension for running static analysis of rust-based smart contracts with a ready-to-be-verified project example. | https://github.com/LedgerProject/safepkt | 0 | 1| 
 
 
 # s2e on Github 推荐

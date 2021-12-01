@@ -39,7 +39,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20211130T22:53:32Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 219 | 36| 
-| 20211130T13:36:20Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1832 | 523| 
 | 20211130T10:40:36Z | Null | https://github.com/coffee100percnt/KleeDiscordBomber | 5 | 0| 
 
 
