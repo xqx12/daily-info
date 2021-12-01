@@ -34,6 +34,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211201T13:51:49Z | CVE-2021-3156 | Null | https://github.com/musergi/CVE-2021-3156 | | 
 | 20211201T08:25:40Z | CVE-2021-21224 | ARM64 PoC for CVE-2021-21224 | https://github.com/ohnonoyesyes/CVE-2021-21224 | | 
 | 20211201T08:20:45Z | CVE-2021-43267 | Local PoC exploit for CVE-2021-43267 (Linux TIPC) | https://github.com/ohnonoyesyes/CVE-2021-43267 | | 
 | 20211201T02:08:01Z | CVE-2021-24084 | Windows MDM LPE | https://github.com/ohnonoyesyes/CVE-2021-24084 | | 
@@ -96,6 +97,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211201T13:53:49Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 204 | 38| 
 | 20211201T13:44:28Z | Python tool for enumerating directories and for fuzzing | https://github.com/confusedHatHacker/dirEnum | 1 | 0| 
 | 20211201T13:31:20Z | This Repository is for maintaining RegressFuzz settings | https://github.com/hanyoungYoo/RegressFuzzSetting | 0 | 0| 
 | 20211201T13:02:01Z | A groovy/java tabular Data (from CSV,SQL,JSON) processing library that supports fuzzy column matching,tranformations/merging/querying | https://github.com/kayr/fuzzy-csv | 12 | 6| 
@@ -105,7 +107,6 @@
 | 20211201T12:31:46Z | Null | https://github.com/Anqlem/tthk_fuzzbuzz | 0 | 0| 
 | 20211201T12:27:43Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 610 | 64| 
 | 20211201T12:22:39Z | fuzzyblog | https://github.com/johnnywww/fuzzyblog | 0 | 0| 
-| 20211201T12:19:27Z | Null | https://github.com/Potat0000/AutoFuzzer | 1 | 0| 
 
 
 
