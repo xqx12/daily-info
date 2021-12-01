@@ -94,6 +94,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211201T13:02:01Z | A groovy/java tabular Data (from CSV,SQL,JSON) processing library that supports fuzzy column matching,tranformations/merging/querying | https://github.com/kayr/fuzzy-csv | 12 | 6| 
 | 20211201T12:44:31Z | Just another repository | https://github.com/Monib21/fuzzy-spork | 0 | 0| 
 | 20211201T12:40:06Z | learn and practise audio video coding stuff | https://github.com/HWilliamgo/fuzzy-video-drill | 0 | 0| 
 | 20211201T12:35:59Z | Null | https://github.com/MariusVanDerWijden/tx-fuzz | 2 | 0| 
@@ -103,7 +104,6 @@
 | 20211201T12:22:39Z | fuzzyblog | https://github.com/johnnywww/fuzzyblog | 0 | 0| 
 | 20211201T12:19:27Z | Null | https://github.com/Potat0000/AutoFuzzer | 1 | 0| 
 | 20211201T12:16:33Z | MATLAB code that helps to solve Fuzzy Logic Operation problems in Artificial Intelligence. | https://github.com/antonblaise/fuzzy-logic-operations | 0 | 0| 
-| 20211201T12:02:10Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 35 | 12| 
 
 
 
