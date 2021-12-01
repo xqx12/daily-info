@@ -94,11 +94,11 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211201T13:31:20Z | This Repository is for maintaining RegressFuzz settings | https://github.com/hanyoungYoo/RegressFuzzSetting | 0 | 0| 
 | 20211201T13:02:01Z | A groovy/java tabular Data (from CSV,SQL,JSON) processing library that supports fuzzy column matching,tranformations/merging/querying | https://github.com/kayr/fuzzy-csv | 12 | 6| 
 | 20211201T12:44:31Z | Just another repository | https://github.com/Monib21/fuzzy-spork | 0 | 0| 
 | 20211201T12:40:06Z | learn and practise audio video coding stuff | https://github.com/HWilliamgo/fuzzy-video-drill | 0 | 0| 
 | 20211201T12:35:59Z | Null | https://github.com/MariusVanDerWijden/tx-fuzz | 2 | 0| 
-| 20211201T12:32:41Z | This Repository is for maintaining RegressFuzz settings | https://github.com/hanyoungYoo/RegressFuzzSetting | 0 | 0| 
 | 20211201T12:31:46Z | Null | https://github.com/Anqlem/tthk_fuzzbuzz | 0 | 0| 
 | 20211201T12:27:43Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 610 | 64| 
 | 20211201T12:22:39Z | fuzzyblog | https://github.com/johnnywww/fuzzyblog | 0 | 0| 
