@@ -53,7 +53,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211130T23:48:24Z | Multiple game utilities to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 156 | 411| 
+| 20211130T23:48:24Z | Multiple game utilities to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 156 | 412| 
 | 20211130T23:23:47Z | Buffer Overflow para SLmail5.5 32 bits | https://github.com/luijait/SLmail5.5-Exploit-BoF | 3 | 0| 
 | 20211130T22:49:39Z | A collection of write ups on how I solved each exploit challenge on Exploit Education | https://github.com/dyllan500/Exploit-Education-Write-Up | 0 | 0| 
 | 20211130T22:37:08Z | Gex is an iOS 14.7 jailbreak using CVE-2021-30807 IOMFB exploit | https://github.com/30440r/gex | 0 | 0| 
