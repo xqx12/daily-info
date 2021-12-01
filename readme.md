@@ -70,7 +70,6 @@
 | --- | --- | --- | --- | ---| 
 | 20211130T21:24:53Z | We find most existing triggers of backdoor attacks in deep learning contain severe artifacts in the frequency domain. This Repo. explores how we can use these artifacts to develop stronger backdoor defenses and attacks. | https://github.com/YiZeng623/frequency-backdoor | 9 | 0| 
 | 20211130T19:44:23Z | Small surveillance backdoor for Windows. | https://github.com/ZMathias/kodiak | 0 | 0| 
-| 20211130T16:49:29Z | pwn++ - a (bad) C++17 pwn library for Windows & Linux | https://github.com/hugsy/pwn-- | 51 | 3| 
 | 20211130T16:43:23Z | Codebase for my Level 4 University Project: Static Analysis of Executable Code to Detect Backdoors on IoT Devices | https://github.com/sophieboyle/Symbolic-Execution-for-ARM-Backdoor-Detection | 0 | 0| 
 | 20211130T16:19:38Z | Null | https://github.com/Bcoderx6/backdoor-apk | 0 | 0| 
 | 20211130T15:34:50Z | Null | https://github.com/leileigan/clean_label_textual_backdoor_attack | 0 | 0| 
@@ -78,6 +77,7 @@
 | 20211130T13:16:05Z | Python Backdoor Detection Model Based on Combined Features | https://github.com/das-lab/PBDT | 0 | 1| 
 | 20211130T12:55:45Z | Null | https://github.com/defaultcrypter/backdoor-python-CodeSimple-hacking | 1 | 0| 
 | 20211130T11:38:56Z | creating an undetectable backdoor | https://github.com/HarshithaReddy23/Backdoor-and-keylogger | 0 | 0| 
+| 20211130T09:29:22Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 36 | 28| 
 
 
 # symbolic execution on Github 推荐
