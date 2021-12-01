@@ -152,13 +152,13 @@
 | 20211130T23:03:15Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6870 | 1437| 
 | 20211130T22:59:35Z | Use Jazzer to perform fuzzy testing of Apache POI | https://github.com/centic9/poi-fuzz | 1 | 0| 
 | 20211130T21:59:06Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
-| 20211130T21:51:11Z | ☸A stateful GraphQL fuzzer | https://github.com/omar2535/GraphQLer | 1 | 0| 
 | 20211130T21:47:47Z | Null | https://github.com/obada22/FuzzyLogic | 0 | 0| 
 | 20211130T21:46:13Z | Gentoo overlay | https://github.com/lferra/fuzzy-potato | 1 | 0| 
 | 20211130T21:36:36Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20211130T21:28:16Z | fuzzing rnix-parser using https://rust-fuzz.github.io/book/afl/tutorial.html | https://github.com/efx/rnix-fuzz-target | 0 | 0| 
 | 20211130T21:19:42Z | Asynchronous fuzzy finder in vim9script | https://github.com/kohnish/vim9-fuzzy | 0 | 0| 
 | 20211130T20:42:13Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2444 | 150| 
+| 20211130T20:07:58Z | Null | https://github.com/wagnerkaba/fuzzy-rotary-phone | 0 | 0| 
 
 
 
