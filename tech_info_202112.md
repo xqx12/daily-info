@@ -54,10 +54,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211201T13:50:37Z | Attack surface management is an attacker perspective about how the attacker may see the organizational assets to be vulnerable and to be exploited by the attacker.  | https://github.com/Operation-Falcon/AttackSurfaceManagement-DOCS | 0 | 0| 
 | 20211201T13:43:07Z | proxylogon, proxyshell, proxyoracle and proxytoken full chain exploit tool | https://github.com/FDlucifer/Proxy-Attackchain | 10 | 1| 
 | 20211201T13:37:05Z | You need to run all_together.py and follow the instructions on the readme below. This Tool allows you to use various discord exploits for educational use. | https://github.com/FuckingToasters/discord-group-spammer | 9 | 7| 
 | 20211201T13:35:47Z | Advisories, proof of concept files and exploits that have been made public by @pedrib. | https://github.com/pedrib/PoC | 460 | 116| 
-| 20211201T13:35:05Z | Attack surface management is an attacker perspective about how the attacker may see the organizational assets to be vulnerable and to be exploited by the attacker.  | https://github.com/Operation-Falcon/AttackSurfaceManagement-DOCS | 0 | 0| 
 | 20211201T13:24:10Z | Official code for the paper %Revise-Net: Exploiting Reverse Attention Mechanism For Salient Object Detection% | https://github.com/yashkarbhari/Revise-Net | 0 | 0| 
 | 20211201T13:11:00Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 103 | 37| 
 | 20211201T13:03:02Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
