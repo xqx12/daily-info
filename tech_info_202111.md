@@ -15,6 +15,10 @@
 | 20211130 | 有研究发现，过去 4 个月中，有攻击者通过 Google Play 分发恶意软件感染超过 30 万设备 | https://www.threatfabric.com/blogs/deceive-the-heavens-to-cross-the-sea.html| 
 | 20211130 | Go 二进制程序的逆向分析 | http://www.blackstormsecurity.com/docs/BHACK_2021_ALEXANDREBORGES.pdf| 
 | 20211130 | Linux 与 XNU 的 KPTI 实现解读 | http://paper.seebug.org/1770/| 
+| 20211130 | New Sony patent: Spoofing CPUID For Backwards Compatibility . | https://www.neogaf.com/threads/new-sony-patent-spoofing-cpuid-for-backwards-compatibility-filed-by-mark-cerny.1624987/| 
+| 20211130 | PetitPotam - 对 AD CS 证书服务进行 NTLM 中继攻击演示视频. | https://www.youtube.com/watch?v=YEMjGp7kEbc| 
+| 20211130 | 针对安卓 APT 间谍软件 GnatSpy 分析. | http://paper.seebug.org/1771/| 
+| 20211130 | 企业级苹果Mac用户安全防御指南（译文）. | http://tttang.com/archive/1350/| 
 | 20211129 | UEFI virtual machine firmware hardening through snapshots and attack surface reduction | https://arxiv.org/abs/2111.10167| 
 | 20211129 | Linux 平台的无文件落地、内存执行二级制文件的 Loader | https://github.com/liamg/memit| 
 | 20211129 | Git Repo 泄露漏洞 | https://iosentrix.com/blog/git-source-code-disclosure-vulnerability/| 
@@ -22,10 +26,6 @@
 | 20211129 | Goblin - 一款适用于红蓝对抗中的仿真钓鱼系统 | https://github.com/xiecat/goblin| 
 | 20211129 | JPCERT 公开的 Lazarus APT 组织的研究报告和分析工具 | https://github.com/JPCERTCC/Lazarus-research| 
 | 20211129 | 朝鲜 Zinc APT 组织冒充三星招聘人员攻击韩国安全公司研究员 | http://securityaffairs.co/wordpress/125071/apt/north-korea-zinc-targets-security-firms.html?utm_source=feedly&utm_medium=rss&utm_campaign=north-korea-zinc-targets-security-firms| 
-| 20211129 | 用于分析 Golang 二进制的 IDA Python 脚本 | https://github.com/SentineLabs/AlphaGolang| 
-| 20211129 | 利用 CSS 与 SVG Font 向外渗透数据 | https://mksben.l0.cm/2021/11/css-exfiltration-svg-font.html| 
-| 20211129 | IOMFB OOB 漏洞（CVE-2021-30807）在 iOS <=14.7 版本的利用 | https://sec.today/pulses/a1e6acc8-0487-4f65-80a3-9ce7e30d809e/| 
-| 20211129 | IOMFB OOB 漏洞（CVE-2021-30807）在 iOS <=14.7 版本的利用 | https://jsherman212.github.io/2021/11/28/popping_ios14_with_iomfb.html| 
 
 
 # 安全维基 推荐
@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211130T23:41:08Z | CVE-2021-43778 |  CVE-2021-43778 poc | https://github.com/AK-blank/CVE-2021-43778 | | 
 | 20211130T11:03:55Z | CVE-2020-7247 | Proof of concept for CVE-2020-7247 for educational purposes. | https://github.com/SimonSchoeni/CVE-2020-7247-POC | | 
-| 20211130T08:20:59Z | CVE-2021-43778 |  CVE-2021-43778 poc | https://github.com/AK-blank/CVE-2021-43778 | | 
 | 20211130T06:13:11Z | CVE-2021-40438 | Sigma-Rule-for-CVE-2021-40438-Attack-Attemp | https://github.com/pisut4152/Sigma-Rule-for-CVE-2021-40438-exploitation-attempt | | 
 | 20211130T05:11:04Z | CVE-2021-24084 | Windows MDM LPE | https://github.com/ohnonoyesyes/CVE-2021-24084 | | 
 | 20211130T01:56:17Z | CVE-2021-21224 | ARM64 PoC for CVE-2021-21224 | https://github.com/ohnonoyesyes/CVE-2021-21224 | | 
@@ -61,7 +61,8 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211130T13:36:20Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1832 | 522| 
+| 20211130T22:53:32Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 219 | 36| 
+| 20211130T13:36:20Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1832 | 523| 
 | 20211130T10:40:36Z | Null | https://github.com/coffee100percnt/KleeDiscordBomber | 5 | 0| 
 | 20211128T23:03:40Z | Null | https://github.com/Mq0509/YoRPG_Kleemex | 0 | 0| 
 | 20211128T08:01:33Z | Null | https://github.com/rounakmodgil/KleenSecurityctfpublic | 0 | 0| 
@@ -70,7 +71,6 @@
 | 20211127T21:17:49Z | modern regular expression syntax everywhere with a painless upgrade path | https://github.com/SonOfLilit/kleenexp | 28 | 3| 
 | 20211127T06:49:31Z | klee+nme for user space aeg | https://github.com/jqhong/klee-nme-aeg | 1 | 0| 
 | 20211126T07:41:02Z | Null | https://github.com/wpkong/KleeAdventure | 0 | 0| 
-| 20211124T16:41:12Z | Research paper On The Termination of Borrow Checking for Rust and a web application, CLI application and VSCode extension for running static analysis of rust-based smart contracts with a ready-to-be-verified project example. | https://github.com/LedgerProject/safepkt | 0 | 1| 
 
 
 # s2e on Github 推荐
@@ -91,31 +91,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211130T13:58:21Z | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores. Around 𝟏,𝟓𝟔𝟎 tools, that you can use for Hacking. | https://github.com/darksnake33/GH-Hacking-Tools-Kit | 0 | 0| 
-| 20211130T13:57:59Z | Vulnerabilities found along the way | https://github.com/hansmach1ne/MyExploits | 0 | 0| 
-| 20211130T13:54:10Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/darksnake33/Hacking-Tools-Pack | 0 | 0| 
-| 20211130T13:47:52Z | Nmap script that searches for probable vulnerabilities based on services discovered in open ports.  | https://github.com/scmanjarrez/CVEScannerV2 | 5 | 2| 
-| 20211130T13:38:57Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 3796 | 1313| 
-| 20211130T13:35:40Z | Null | https://github.com/NotFoundHacker/Roblox-Exploits | 0 | 0| 
-| 20211130T13:30:00Z | Automatic Return Oriented Programming exploit generator | https://github.com/JDBryan/ROPSlap | 0 | 0| 
-| 20211130T13:11:54Z | Model to simulate forest exploitation in Mato Grosso | https://github.com/pedro-andrade-inpe/forestExploitation | 0 | 1| 
-| 20211130T13:03:21Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
-| 20211130T12:56:36Z | Run MS17-010 modified exploit to get reverse nc connection | https://github.com/crazywifi/MS-17-010_Reverse_Connection_nc | 3 | 1| 
+| 20211130T23:48:24Z | Multiple game utilities to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 156 | 410| 
+| 20211130T23:23:47Z | Buffer Overflow para SLmail5.5 32 bits | https://github.com/luijait/SLmail5.5-Exploit-BoF | 3 | 0| 
+| 20211130T22:49:39Z | A collection of write ups on how I solved each exploit challenge on Exploit Education | https://github.com/dyllan500/Exploit-Education-Write-Up | 0 | 0| 
+| 20211130T22:37:08Z | Gex is an iOS 14.7 jailbreak using CVE-2021-30807 IOMFB exploit | https://github.com/30440r/gex | 0 | 0| 
+| 20211130T22:26:36Z | a userfaultfd library for CTF so you don%t have to copy/paste so much code to exploit race conditions | https://github.com/Arinerron/libuserfaultfd | 0 | 0| 
+| 20211130T21:55:40Z | Exploit che sfrutta una vulnerabilità presente all%interno del codice sorgente del server vsftpd 2.3.4 | https://github.com/galfiery/vsftpd-2.3.4-exploit | 0 | 0| 
+| 20211130T21:51:31Z | Finding a median of an incoming stream of data is relatively simple if you can store all the values in the memory/storage. However, if we are imposed with memory/storage constraints, finding an exact solution is difficult. If the data has some characteristics we can exploit and develop efficient specialized solutions. For example if the stream type is integral, we can find an approximate solution if we can leverage lessons from counting sort and probability density function. This code is an attempt to do the same | https://github.com/kambani/RunningMedian | 0 | 0| 
+| 20211130T21:17:04Z | Exploiting could get you banned, use at your own risk. | https://github.com/19dullarfortnitecard/DogPieceGUI | 0 | 0| 
+| 20211130T21:16:29Z | Exploiting could get you banned, use at your own risk. | https://github.com/19dullarfortnitecard/SoundSpaceGUI | 0 | 0| 
+| 20211130T21:10:28Z | C++ GUI for TegraRcmSmash (Fusée Gelée exploit for Nintendo Switch) | https://github.com/eliboa/TegraRcmGUI | 1159 | 96| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211130T13:40:43Z | pwn++ - a bad C++17 pwn library for Windows & Linux | https://github.com/hugsy/pwn-- | 51 | 3| 
+| 20211130T21:24:53Z | We find most existing triggers of backdoor attacks in deep learning contain severe artifacts in the frequency domain. This Repo. explores how we can use these artifacts to develop stronger backdoor defenses and attacks. | https://github.com/YiZeng623/frequency-backdoor | 9 | 0| 
+| 20211130T19:44:23Z | Small surveillance backdoor for Windows. | https://github.com/ZMathias/kodiak | 0 | 0| 
+| 20211130T16:49:29Z | pwn++ - a (bad) C++17 pwn library for Windows & Linux | https://github.com/hugsy/pwn-- | 51 | 3| 
+| 20211130T16:43:23Z | Codebase for my Level 4 University Project: Static Analysis of Executable Code to Detect Backdoors on IoT Devices | https://github.com/sophieboyle/Symbolic-Execution-for-ARM-Backdoor-Detection | 0 | 0| 
+| 20211130T16:19:38Z | Null | https://github.com/Bcoderx6/backdoor-apk | 0 | 0| 
+| 20211130T15:34:50Z | Null | https://github.com/leileigan/clean_label_textual_backdoor_attack | 0 | 0| 
+| 20211130T14:09:24Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 373 | 65| 
 | 20211130T13:16:05Z | Python Backdoor Detection Model Based on Combined Features | https://github.com/das-lab/PBDT | 0 | 1| 
 | 20211130T12:55:45Z | Null | https://github.com/defaultcrypter/backdoor-python-CodeSimple-hacking | 1 | 0| 
 | 20211130T11:38:56Z | creating an undetectable backdoor | https://github.com/HarshithaReddy23/Backdoor-and-keylogger | 0 | 0| 
-| 20211130T09:29:22Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 36 | 28| 
-| 20211130T09:11:33Z | A quick script to spot the usage of Unicode Bidi (bidirectional) characters that could lead to an Invisible Backdoor | https://github.com/cybersecsi/invisible-backdoor-detector | 8 | 0| 
-| 20211130T08:37:41Z | Simple reverse shell for remote control of devices | https://github.com/michaljaz/reverse-backdoor | 0 | 0| 
-| 20211130T05:10:00Z | Anomaly Localization in Model Gradients Under Backdoor Attacks Against Federated Learning | https://github.com/ArcelikAcikKaynak/Federated_Learning | 0 | 0| 
-| 20211130T04:56:17Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 117 | 28| 
-| 20211130T03:54:28Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 372 | 65| 
 
 
 # symbolic execution on Github 推荐
@@ -149,16 +149,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211130T13:54:36Z | MATLAB code for the paper titled %An Explainable Semi-Supervised Self-Organizing Fuzzy Inference System for Streaming Data Classification%. | https://github.com/Gu-X/Semi-Supervised-Self-Organizing-Fuzzy-Inference-System | 0 | 1| 
-| 20211130T13:38:04Z | CC paper on compiler fuzzing | https://github.com/agroce/cc2022 | 2 | 0| 
-| 20211130T13:22:24Z | Null | https://github.com/Gowtham2493/Fuzzysearch | 0 | 0| 
-| 20211130T13:14:03Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6870 | 1437| 
-| 20211130T13:13:06Z | Null | https://github.com/nanangsuyato/fuzzy-doodle | 0 | 0| 
-| 20211130T12:58:03Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
-| 20211130T12:57:26Z | Reminder, Information gain, Fuzzy c clustering problem calculator using JavaScript | https://github.com/sakib-75/fuzzy-c-problem | 0 | 0| 
-| 20211130T12:15:23Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 363 | 31| 
-| 20211130T12:15:13Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 35 | 12| 
-| 20211130T12:12:47Z | Yet another web fuzzer | https://github.com/FooBallZ/yafuzz | 1 | 1| 
+| 20211130T23:03:15Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6870 | 1437| 
+| 20211130T22:59:35Z | Use Jazzer to perform fuzzy testing of Apache POI | https://github.com/centic9/poi-fuzz | 1 | 0| 
+| 20211130T21:59:06Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
+| 20211130T21:51:11Z | ☸A stateful GraphQL fuzzer | https://github.com/omar2535/GraphQLer | 1 | 0| 
+| 20211130T21:47:47Z | Null | https://github.com/obada22/FuzzyLogic | 0 | 0| 
+| 20211130T21:46:13Z | Gentoo overlay | https://github.com/lferra/fuzzy-potato | 1 | 0| 
+| 20211130T21:36:36Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
+| 20211130T21:28:16Z | fuzzing rnix-parser using https://rust-fuzz.github.io/book/afl/tutorial.html | https://github.com/efx/rnix-fuzz-target | 0 | 0| 
+| 20211130T21:19:42Z | Asynchronous fuzzy finder in vim9script | https://github.com/kohnish/vim9-fuzzy | 0 | 0| 
+| 20211130T20:42:13Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2444 | 150| 
 
 
 
