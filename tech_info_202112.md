@@ -54,6 +54,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211201T13:37:05Z | You need to run all_together.py and follow the instructions on the readme below. This Tool allows you to use various discord exploits for educational use. | https://github.com/FuckingToasters/discord-group-spammer | 9 | 7| 
 | 20211201T13:35:47Z | Advisories, proof of concept files and exploits that have been made public by @pedrib. | https://github.com/pedrib/PoC | 460 | 116| 
 | 20211201T13:35:05Z | Attack surface management is an attacker perspective about how the attacker may see the organizational assets to be vulnerable and to be exploited by the attacker.  | https://github.com/Operation-Falcon/AttackSurfaceManagement-DOCS | 0 | 0| 
 | 20211201T13:24:10Z | Official code for the paper %Revise-Net: Exploiting Reverse Attention Mechanism For Salient Object Detection% | https://github.com/yashkarbhari/Revise-Net | 0 | 0| 
@@ -63,7 +64,6 @@
 | 20211201T12:48:18Z | Attack surface management is an attacker perspective about how the attacker may see the organizational assets to be vulnerable and to be exploited by the attacker. | https://github.com/Operation-Falcon/Attacksurfacemanagement | 0 | 0| 
 | 20211201T12:45:42Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 15| 
 | 20211201T12:45:40Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10381 | 1791| 
-| 20211201T12:35:19Z | Some files for information security exploits | https://github.com/renatus-cartesius/infosec | 0 | 0| 
 
 
 # backdoor on Github 推荐
