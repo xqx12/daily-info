@@ -56,6 +56,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211202T01:36:49Z | Exploit para MiniShare1.4.1 | https://github.com/luijait/Minishare-1.4.1BoF | 0 | 0| 
 | 20211202T01:27:35Z | Model to simulate forest exploitation in Mato Grosso | https://github.com/pedro-andrade-inpe/forestExploitation | 1 | 1| 
 | 20211202T01:13:21Z | Class project for EECS583: Advanced Compilers: Evolutionary Optimization of Compiler Flag Selection by Learning and Exploiting Flags Interactions.  | https://github.com/batuhanakcay/evo-optim-flags | 0 | 0| 
 | 20211202T01:03:19Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
@@ -65,12 +66,12 @@
 | 20211201T21:37:21Z | A collection of write ups on how I solved each exploit challenge on Exploit Education | https://github.com/dyllan500/Exploit-Education-Write-Up | 0 | 0| 
 | 20211201T21:29:55Z | fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | 0 | 0| 
 | 20211201T21:07:22Z | TryHackMe CTFs writeups, notes, dratfs, scrabbles, files and solutions. | https://github.com/edoardottt/tryhackme-ctf | 39 | 17| 
-| 20211201T20:41:32Z | HatVenom is a HatSploit native powerful payload generation and shellcode injection tool that provides support for common platforms and architectures. | https://github.com/EntySec/HatVenom | 60 | 18| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211202T01:35:16Z | badcat is a tool I%ve made to learn `rust` and analyze anonymous backdoors | https://github.com/yanmarques/badcat | 0 | 0| 
 | 20211202T01:23:52Z | A plug to write faster acceptance tests by skipping the sign-in process. This feature is inspired by Clearance’s backdoor. | https://github.com/ueberauth/guardian_backdoor | 25 | 5| 
 | 20211202T01:01:00Z | Null | https://github.com/MSaul113/Backdoor1.py | 0 | 0| 
 | 20211202T00:51:32Z | Null | https://github.com/MSaul113/Backdoor.pyy | 0 | 0| 
@@ -80,7 +81,6 @@
 | 20211201T17:36:03Z | pwn++ - a (bad) C++17 pwn library for Windows & Linux | https://github.com/hugsy/pwn-- | 53 | 3| 
 | 20211201T16:17:48Z | Null | https://github.com/leileigan/clean_label_textual_backdoor_attack | 2 | 0| 
 | 20211201T11:08:17Z | Python Backdoor Detection Model Based on Combined Features | https://github.com/das-lab/PBDT | 0 | 1| 
-| 20211201T09:28:20Z | new working python reverse shell persistent backdoor | https://github.com/stevesanchez29/NW | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
