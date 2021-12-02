@@ -16,6 +16,7 @@
 | 20211202 | Google Chrome Blink setBaseAndExtent use after free vulnerability | https://talosintelligence.com/vulnerability_reports/TALOS-2021-1352| 
 | 20211202 | VMware vCenter 7.0.2.00100 版本任意文件读、SSRF、XSS 漏洞 | https://github.com/l0ggg/VMware_vCenter| 
 | 20211202 | Dragon CTF 2021 - CRC Recursive Challenge. | http://affine.group/writeup/2021-11-DragonCTF-CRC-recursive-hard| 
+| 20211202 | Serverless 扫描技术研究及应用. | https://paper.seebug.org/1776/| 
 | 20211201 | 研究员发现 Intel(R) Atom CPU Bug | https://grsecurity.net/watch_your_stepping_atoms_breaking_apart| 
 | 20211201 | Printing-Shellz - 惠普多功能打印机的安全研究报告 | http://labs.f-secure.com/assets/BlogFiles/Printing-Shellz.pdf| 
 | 20211201 | IT 管理软件 Jamf Pro SSRF 漏洞分析 | https://blog.assetnote.io/2021/11/30/jamf-ssrf/| 
@@ -70,8 +71,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211202T13:48:13Z | Learning exploration and exploitation policies in meta-reinforcement learning for robot control problems. (work in progress) | https://github.com/peterdavidfagan/robo-dream | 0 | 0| 
 | 20211202T13:44:06Z | You need to run all_together.py and follow the instructions on the readme below. This Tool allows you to use various discord exploits for educational use. | https://github.com/FuckingToasters/discord-group-spammer | 10 | 8| 
-| 20211202T13:42:48Z | Learning exploration and exploitation policies in meta-reinforcement learning for robot control problems. (work in progress) | https://github.com/peterdavidfagan/robo-dream | 0 | 0| 
 | 20211202T13:36:27Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 170 | 443| 
 | 20211202T13:03:24Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211202T12:56:02Z | Open Source Projects that helps exploit Intel SGX technology | https://github.com/Maxul/Awesome-SGX-Open-Source | 101 | 17| 
