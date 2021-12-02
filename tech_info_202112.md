@@ -120,10 +120,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211202T13:08:21Z | experimental fuzzer for distributed deep learning systems | https://github.com/debugevent90901/DDLFuzz | 0 | 0| 
 | 20211202T12:55:40Z | Null | https://github.com/sarniwidodo/fuzzy-eureka | 0 | 0| 
 | 20211202T12:38:16Z | Null | https://github.com/Himanshung056/fuzzy-octo-waddle | 0 | 0| 
 | 20211202T11:46:04Z | Null | https://github.com/bhnatkowska/FuzzyLogicInstanceAlignment | 0 | 0| 
-| 20211202T11:42:28Z | experimental fuzzer for distributed deep learning systems | https://github.com/debugevent90901/DDLFuzz | 0 | 0| 
 | 20211202T11:41:12Z | Null | https://github.com/Ariel2400/Fuzzer | 0 | 0| 
 | 20211202T11:37:24Z | Leetcode solutions. | https://github.com/chaitanyks/fuzzy-disco | 0 | 0| 
 | 20211202T11:31:03Z | Null | https://github.com/BBKing49/Multi-view-TSK-fuzzy-system | 3 | 1| 
