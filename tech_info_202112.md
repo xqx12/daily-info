@@ -71,13 +71,13 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211202T13:56:58Z | Rodan Exploitation Framework | https://github.com/Etisalat-Egypt/Rodan | 36 | 10| 
 | 20211202T13:53:25Z | A Series of Baseband & LMP Exploits against Bluetooth Classic Controllers | https://github.com/Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks | 161 | 33| 
 | 20211202T13:48:13Z | Learning exploration and exploitation policies in meta-reinforcement learning for robot control problems. (work in progress) | https://github.com/peterdavidfagan/robo-dream | 0 | 0| 
 | 20211202T13:44:06Z | You need to run all_together.py and follow the instructions on the readme below. This Tool allows you to use various discord exploits for educational use. | https://github.com/FuckingToasters/discord-group-spammer | 10 | 8| 
 | 20211202T13:36:27Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 170 | 443| 
 | 20211202T13:03:24Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211202T12:56:02Z | Open Source Projects that helps exploit Intel SGX technology | https://github.com/Maxul/Awesome-SGX-Open-Source | 101 | 17| 
-| 20211202T12:51:42Z | Rodan Exploitation Framework | https://github.com/Etisalat-Egypt/Rodan | 35 | 10| 
 | 20211202T12:45:42Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 15| 
 | 20211202T12:45:39Z | Simple binary to make exploitation of insecure NFS systems easier from Linux host | https://github.com/the-p0p/setMe | 1 | 0| 
 | 20211202T12:44:30Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 3800 | 1316| 
@@ -122,6 +122,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211202T13:56:51Z | A one-line script that creates a list of words based on the mutating radamsa fuzzer | https://github.com/Tr1ad0s/Radamsa_wordlist | 0 | 0| 
 | 20211202T13:49:41Z | Penyelesaian masalah sederhana menggunakan Fuzzy C-Means Phyton | https://github.com/adycahyono007/FuzzyC-means | 0 | 0| 
 | 20211202T13:46:50Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 205 | 38| 
 | 20211202T13:38:47Z | Null | https://github.com/yrameshra0/fuzzy-doner | 0 | 0| 
@@ -131,7 +132,6 @@
 | 20211202T13:18:42Z | A fuzzer that generates random Go programs | https://github.com/ALTree/microsmith | 14 | 0| 
 | 20211202T13:18:21Z | Binary, coverage-guided fuzzer for Windows and macOS | https://github.com/googleprojectzero/Jackalope | 663 | 82| 
 | 20211202T13:14:50Z | Un bot de empresa b santex | https://github.com/NicolasSabba/fuzzy-fiesta-b | 0 | 0| 
-| 20211202T13:13:04Z | Null | https://github.com/nhsd-exeter/dos-service-fuzzy-search-api | 1 | 0| 
 
 
 
