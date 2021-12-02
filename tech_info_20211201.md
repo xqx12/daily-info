@@ -72,7 +72,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20211201T22:45:09Z | Codebase for my Level 4 University Project: Static Analysis of Executable Code to Detect Backdoors on IoT Devices | https://github.com/sophieboyle/Symbolic-Execution-for-ARM-Backdoor-Detection | 0 | 0| 
-| 20211201T21:21:39Z | This is the servertool to the backdoor.  | https://github.com/MSaul113/Backdoor.py | 0 | 0| 
 | 20211201T17:55:53Z | Statically-linked ssh server with reverse shell functionality for CTFs and such | https://github.com/Fahrj/reverse-ssh | 421 | 52| 
 | 20211201T17:36:03Z | pwn++ - a (bad) C++17 pwn library for Windows & Linux | https://github.com/hugsy/pwn-- | 53 | 3| 
 | 20211201T16:17:48Z | Null | https://github.com/leileigan/clean_label_textual_backdoor_attack | 2 | 0| 
@@ -81,6 +80,7 @@
 | 20211201T08:11:29Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 376 | 66| 
 | 20211201T06:15:21Z | Into backdoor with node and express! | https://github.com/dasgupta002/web-node-advanced | 1 | 0| 
 | 20211201T04:26:46Z | Null | https://github.com/naiyeleo/PICCOLO_backdoor_detection | 0 | 0| 
+| 20211201T00:26:14Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 52 | 16| 
 
 
 # symbolic execution on Github 推荐
