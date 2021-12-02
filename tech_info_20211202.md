@@ -45,16 +45,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211202T02:58:31Z | Some of my experiments related to Linux kernel development and exploitation, written for fun and educational purposes. | https://github.com/mebeim/linux-kernel-experiments | 0 | 0| 
-| 20211202T02:50:59Z | Global bypass for shitty anti cheats supports: Synapse, Scripware, Krnl (I think), and other exploits that has newcclousure, hookfuc, and suppoerts metatable hooking. | https://github.com/Who-Is-E/Adeva-Global-AcBypass | 0 | 0| 
-| 20211202T02:23:29Z | Class project for EECS583: Advanced Compilers: Evolutionary Optimization of Compiler Flag Selection by Learning and Exploiting Flags Interactions.  | https://github.com/batuhanakcay/evo-optim-flags | 0 | 0| 
-| 20211202T02:03:38Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
-| 20211202T01:59:24Z | Repo to maintain Microsoft Cloud exploitation stuff. | https://github.com/ar0dd/LaListaDeMCA | 1 | 0| 
-| 20211202T01:44:07Z | Exploit para MiniShare1.4.1 | https://github.com/luijait/Minishare-1.4.1BoF_Exploit | 2 | 0| 
-| 20211202T01:42:15Z | Exploit para MiniShare1.4.1 | https://github.com/luijait/Minishare-1.4.1BoF | 1 | 0| 
-| 20211202T01:27:35Z | Model to simulate forest exploitation in Mato Grosso | https://github.com/pedro-andrade-inpe/forestExploitation | 1 | 1| 
-| 20211202T00:45:42Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 15| 
-| 20211202T00:06:41Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 161 | 435| 
+| 20211202T12:56:02Z | Open Source Projects that helps exploit Intel SGX technology | https://github.com/Maxul/Awesome-SGX-Open-Source | 101 | 17| 
+| 20211202T12:51:42Z | Rodan Exploitation Framework | https://github.com/Etisalat-Egypt/Rodan | 35 | 10| 
+| 20211202T12:45:42Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 15| 
+| 20211202T12:45:39Z | Simple binary to make exploitation of insecure NFS systems easier from Linux host | https://github.com/the-p0p/setMe | 1 | 0| 
+| 20211202T12:44:30Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 3800 | 1316| 
+| 20211202T12:40:32Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 255 | 78| 
+| 20211202T12:26:37Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 168 | 441| 
+| 20211202T12:04:13Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
+| 20211202T11:35:56Z | StandIn is a small .NET35/45 AD post-exploitation toolkit | https://github.com/FuzzySecurity/StandIn | 306 | 73| 
+| 20211202T11:35:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10381 | 1790| 
 
 
 # backdoor on Github 推荐
@@ -75,12 +75,17 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211202T07:55:33Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 10 | 4| 
+| 20211202T06:55:44Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1836 | 523| 
+| 20211202T06:00:37Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2574 | 380| 
+| 20211202T05:11:11Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 181 | 10| 
 | 20211202T02:41:40Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 0 | 0| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211202T07:57:27Z | Downloader for NDSS Symposium 2021 | https://github.com/qianfei11/Downloader_for_NDSS_Symposium_2021 | 0 | 0| 
 
 
 # fuzz on Github 推荐
