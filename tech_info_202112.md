@@ -15,6 +15,7 @@
 | 20211202 | Project Zero Tavis Ormandy 在 Mozilla NSS 加密库中发现一个内存破坏漏洞 | https://googleprojectzero.blogspot.com/2021/12/this-shouldnt-have-happened.html| 
 | 20211202 | Google Chrome Blink setBaseAndExtent use after free vulnerability | https://talosintelligence.com/vulnerability_reports/TALOS-2021-1352| 
 | 20211202 | VMware vCenter 7.0.2.00100 版本任意文件读、SSRF、XSS 漏洞 | https://github.com/l0ggg/VMware_vCenter| 
+| 20211202 | Dragon CTF 2021 - CRC Recursive Challenge. | http://affine.group/writeup/2021-11-DragonCTF-CRC-recursive-hard| 
 | 20211201 | 研究员发现 Intel(R) Atom CPU Bug | https://grsecurity.net/watch_your_stepping_atoms_breaking_apart| 
 | 20211201 | Printing-Shellz - 惠普多功能打印机的安全研究报告 | http://labs.f-secure.com/assets/BlogFiles/Printing-Shellz.pdf| 
 | 20211201 | IT 管理软件 Jamf Pro SSRF 漏洞分析 | https://blog.assetnote.io/2021/11/30/jamf-ssrf/| 

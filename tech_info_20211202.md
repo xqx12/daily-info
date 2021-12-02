@@ -15,6 +15,7 @@
 | 20211202 | Project Zero Tavis Ormandy 在 Mozilla NSS 加密库中发现一个内存破坏漏洞 | https://googleprojectzero.blogspot.com/2021/12/this-shouldnt-have-happened.html| 
 | 20211202 | Google Chrome Blink setBaseAndExtent use after free vulnerability | https://talosintelligence.com/vulnerability_reports/TALOS-2021-1352| 
 | 20211202 | VMware vCenter 7.0.2.00100 版本任意文件读、SSRF、XSS 漏洞 | https://github.com/l0ggg/VMware_vCenter| 
+| 20211202 | Dragon CTF 2021 - CRC Recursive Challenge. | http://affine.group/writeup/2021-11-DragonCTF-CRC-recursive-hard| 
 
 
 # 安全维基 推荐
