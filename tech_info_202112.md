@@ -56,6 +56,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211202T01:59:24Z | Repo to maintain Microsoft Cloud exploitation stuff. | https://github.com/ar0dd/LaListaDeMCA | 1 | 0| 
 | 20211202T01:44:25Z | Global bypass for shitty anti cheats supports: Synapse, Scripware, Krnl (I think), and other exploits that has newcclousure, hookfuc, and suppoerts metatable hooking. | https://github.com/Who-Is-E/Adeva-Global-AcBypass | 0 | 0| 
 | 20211202T01:44:07Z | Exploit para MiniShare1.4.1 | https://github.com/luijait/Minishare-1.4.1BoF_Exploit | 2 | 0| 
 | 20211202T01:42:15Z | Exploit para MiniShare1.4.1 | https://github.com/luijait/Minishare-1.4.1BoF | 1 | 0| 
@@ -65,7 +66,6 @@
 | 20211202T00:45:42Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 15| 
 | 20211202T00:06:41Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 161 | 435| 
 | 20211201T21:37:21Z | A collection of write ups on how I solved each exploit challenge on Exploit Education | https://github.com/dyllan500/Exploit-Education-Write-Up | 0 | 0| 
-| 20211201T21:29:55Z | fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | 0 | 0| 
 
 
 # backdoor on Github 推荐
