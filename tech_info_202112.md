@@ -105,6 +105,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211202T01:58:27Z | Null | https://github.com/skipfish-h1-2/fuzzy-winner | 0 | 0| 
 | 20211202T01:41:07Z | Fuzzing utility for userspace applications | https://github.com/amit2129/Fuzzomatt | 0 | 0| 
 | 20211202T01:22:12Z | Null | https://github.com/alchemycodelab/half-baked-web-01-fuzzy-bunny-organizer | 0 | 0| 
 | 20211202T01:17:26Z | Null | https://github.com/ichlasuning/projectFuzzy | 0 | 0| 
@@ -114,7 +115,6 @@
 | 20211202T00:08:50Z | Null | https://github.com/Nexuscompute/fuzzy-couscous | 0 | 0| 
 | 20211201T23:42:03Z | Null | https://github.com/crajkumar73/Fuzzify-a-Decision-Tree | 0 | 0| 
 | 20211201T23:36:28Z | :books: Test data for fuzzing | https://github.com/neomutt/corpus-address | 1 | 0| 
-| 20211201T23:30:22Z | Comparing tool variability and numerical variability in fMRI analyses results | https://github.com/big-data-lab-team/fuzzy-neurotools | 0 | 1| 
 
 
 
