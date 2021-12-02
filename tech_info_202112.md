@@ -71,6 +71,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211202T01:23:52Z | A plug to write faster acceptance tests by skipping the sign-in process. This feature is inspired by Clearance’s backdoor. | https://github.com/ueberauth/guardian_backdoor | 25 | 5| 
 | 20211202T01:01:00Z | Null | https://github.com/MSaul113/Backdoor1.py | 0 | 0| 
 | 20211202T00:51:32Z | Null | https://github.com/MSaul113/Backdoor.pyy | 0 | 0| 
 | 20211201T22:45:09Z | Codebase for my Level 4 University Project: Static Analysis of Executable Code to Detect Backdoors on IoT Devices | https://github.com/sophieboyle/Symbolic-Execution-for-ARM-Backdoor-Detection | 0 | 0| 
@@ -80,7 +81,6 @@
 | 20211201T16:17:48Z | Null | https://github.com/leileigan/clean_label_textual_backdoor_attack | 2 | 0| 
 | 20211201T11:08:17Z | Python Backdoor Detection Model Based on Combined Features | https://github.com/das-lab/PBDT | 0 | 1| 
 | 20211201T09:28:20Z | new working python reverse shell persistent backdoor | https://github.com/stevesanchez29/NW | 0 | 0| 
-| 20211201T08:11:29Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 376 | 66| 
 
 
 # symbolic execution on Github 推荐
