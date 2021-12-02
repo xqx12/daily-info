@@ -62,7 +62,7 @@
 | 20211201T21:07:22Z | TryHackMe CTFs writeups, notes, dratfs, scrabbles, files and solutions. | https://github.com/edoardottt/tryhackme-ctf | 39 | 17| 
 | 20211201T20:41:32Z | HatVenom is a HatSploit native powerful payload generation and shellcode injection tool that provides support for common platforms and architectures. | https://github.com/EntySec/HatVenom | 60 | 18| 
 | 20211201T20:40:03Z | Null | https://github.com/AtlasDrilon/Exploit | 0 | 0| 
-| 20211201T20:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10381 | 1791| 
+| 20211201T20:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10381 | 1790| 
 | 20211201T20:15:39Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 103 | 37| 
 | 20211201T20:10:21Z | Null | https://github.com/TAPESH-TEAM/Exploit-Telegram-Desktop-2.9.2-Denial-of-Service-PoC | 0 | 0| 
 | 20211201T19:28:39Z | A quick demonstration of the path traversal exploit for the Software by Design (SBD) course. | https://github.com/cassis163/sbd-path-traversal-demo | 0 | 0| 
