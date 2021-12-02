@@ -91,16 +91,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211202T13:23:10Z | Use Jazzer to perform fuzzy testing of Apache POI | https://github.com/centic9/poi-fuzz | 1 | 0| 
+| 20211202T13:22:42Z | Generic plugin based web application security fuzzing for anomalies by Slándáil Research Limited | https://github.com/maK-/scanomaly | 11 | 3| 
 | 20211202T13:18:42Z | A fuzzer that generates random Go programs | https://github.com/ALTree/microsmith | 14 | 0| 
 | 20211202T13:18:21Z | Binary, coverage-guided fuzzer for Windows and macOS | https://github.com/googleprojectzero/Jackalope | 663 | 82| 
-| 20211202T13:17:23Z | Generic plugin based web application security fuzzing for anomalies by Slándáil Research Limited | https://github.com/maK-/scanomaly | 11 | 3| 
 | 20211202T13:14:50Z | Un bot de empresa b santex | https://github.com/NicolasSabba/fuzzy-fiesta-b | 0 | 0| 
 | 20211202T13:13:04Z | Null | https://github.com/nhsd-exeter/dos-service-fuzzy-search-api | 1 | 0| 
 | 20211202T13:08:21Z | experimental fuzzer for distributed deep learning systems | https://github.com/debugevent90901/DDLFuzz | 0 | 0| 
 | 20211202T12:55:40Z | Null | https://github.com/sarniwidodo/fuzzy-eureka | 0 | 0| 
 | 20211202T12:38:16Z | Null | https://github.com/Himanshung056/fuzzy-octo-waddle | 0 | 0| 
 | 20211202T11:46:04Z | Null | https://github.com/bhnatkowska/FuzzyLogicInstanceAlignment | 0 | 0| 
-| 20211202T11:41:12Z | Null | https://github.com/Ariel2400/Fuzzer | 0 | 0| 
 
 
 
