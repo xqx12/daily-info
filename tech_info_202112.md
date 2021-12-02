@@ -105,10 +105,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211202T02:43:20Z | Null | https://github.com/abalon1210/CAFCA---Context-Aware-Fuzzy-Clustering-for-Analyzing-Interaction-Failures | 0 | 0| 
 | 20211202T02:26:27Z | Framework to build fuzzy inference systems | https://github.com/Raul-Navarro/fuzzy-framework | 0 | 0| 
 | 20211202T02:18:19Z | Advent of code 2021 | https://github.com/bAngerman/fuzzy-octo-lamp | 0 | 0| 
 | 20211202T02:10:10Z | This Repository is for maintaining RegressFuzz settings | https://github.com/hanyoungYoo/RegressFuzzSetting | 0 | 0| 
-| 20211202T02:05:06Z | Null | https://github.com/abalon1210/CAFCA---Context-Aware-Fuzzy-Clustering-for-Analyzing-Interaction-Failures | 0 | 0| 
 | 20211202T01:59:01Z | Null | https://github.com/skipfish-h1-2/fuzzy-winner | 0 | 0| 
 | 20211202T01:41:07Z | Fuzzing utility for userspace applications | https://github.com/amit2129/Fuzzomatt | 0 | 0| 
 | 20211202T01:22:12Z | Null | https://github.com/alchemycodelab/half-baked-web-01-fuzzy-bunny-organizer | 0 | 0| 
