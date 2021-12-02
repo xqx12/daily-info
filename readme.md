@@ -56,7 +56,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211201T23:32:28Z | Global bypass for shitty anti cheats supports: Synapse, Scripware, Krnl (I think), and other exploits that has newcclousure, hookfuc, and suppoerts metatable hooking. | https://github.com/Who-Is-E/Adeva-Global-AcBypass | 0 | 0| 
 | 20211201T21:37:21Z | A collection of write ups on how I solved each exploit challenge on Exploit Education | https://github.com/dyllan500/Exploit-Education-Write-Up | 0 | 0| 
 | 20211201T21:29:55Z | fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | 0 | 0| 
 | 20211201T21:07:22Z | TryHackMe CTFs writeups, notes, dratfs, scrabbles, files and solutions. | https://github.com/edoardottt/tryhackme-ctf | 39 | 17| 
@@ -66,6 +65,7 @@
 | 20211201T20:15:39Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 103 | 37| 
 | 20211201T20:10:21Z | Null | https://github.com/TAPESH-TEAM/Exploit-Telegram-Desktop-2.9.2-Denial-of-Service-PoC | 0 | 0| 
 | 20211201T19:28:39Z | A quick demonstration of the path traversal exploit for the Software by Design (SBD) course. | https://github.com/cassis163/sbd-path-traversal-demo | 0 | 0| 
+| 20211201T18:54:47Z | With the help of this tool, we can be informed about exploits | https://github.com/mehrad-ghasemzadeh/Exploit-News | 0 | 0| 
 
 
 # backdoor on Github 推荐
