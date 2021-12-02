@@ -86,9 +86,15 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211201T22:45:09Z | Codebase for my Level 4 University Project: Static Analysis of Executable Code to Detect Backdoors on IoT Devices | https://github.com/sophieboyle/Symbolic-Execution-for-ARM-Backdoor-Detection | 0 | 0| 
+| 20211201T21:47:40Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 18 | 5| 
+| 20211201T21:26:44Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2574 | 380| 
+| 20211201T16:50:45Z | A tool for generating nonlinear numerical invariants for C and Java programs.  DIG uses dynamic analysis to infer invariants over program execution traces and applies symbolic execution to inferred invariants. | https://github.com/unsat/dig | 9 | 5| 
+| 20211201T16:20:34Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1928 | 402| 
+| 20211201T16:05:23Z | Symbolica%s open-source symbolic execution engine. | https://github.com/Symbolica/Symbolica | 44 | 2| 
+| 20211201T15:14:57Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 22 | 12| 
 | 20211201T11:54:53Z | Symbolic Execution for WebAssembly | https://github.com/romits800/Vivienne_eval | 1 | 0| 
 | 20211201T11:14:20Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1835 | 523| 
-| 20211201T02:36:52Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2573 | 380| 
 
 
 # big4 on Github 推荐
