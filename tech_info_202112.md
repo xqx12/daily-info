@@ -69,7 +69,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211202T13:31:55Z | Learning exploration and exploitation policies in meta-reinforcement learning for robot control problems. (work in progress) | https://github.com/peterdavidfagan/robo-dream | 0 | 0| 
+| 20211202T13:34:51Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 169 | 442| 
+| 20211202T13:33:50Z | Learning exploration and exploitation policies in meta-reinforcement learning for robot control problems. (work in progress) | https://github.com/peterdavidfagan/robo-dream | 0 | 0| 
 | 20211202T13:03:24Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211202T12:56:02Z | Open Source Projects that helps exploit Intel SGX technology | https://github.com/Maxul/Awesome-SGX-Open-Source | 101 | 17| 
 | 20211202T12:51:42Z | Rodan Exploitation Framework | https://github.com/Etisalat-Egypt/Rodan | 35 | 10| 
@@ -77,13 +78,13 @@
 | 20211202T12:45:39Z | Simple binary to make exploitation of insecure NFS systems easier from Linux host | https://github.com/the-p0p/setMe | 1 | 0| 
 | 20211202T12:44:30Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 3800 | 1316| 
 | 20211202T12:40:32Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 255 | 78| 
-| 20211202T12:26:37Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 168 | 442| 
 | 20211202T11:35:56Z | StandIn is a small .NET35/45 AD post-exploitation toolkit | https://github.com/FuzzySecurity/StandIn | 306 | 73| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211202T13:34:35Z | A bash script for checking common open %backdoor% ports | https://github.com/g30rgyth3d4rk/dashboardyports | 0 | 0| 
 | 20211202T12:55:56Z | Remote control software, supported Windows/Unix/MacOS/Linux(x86/x64/mips/arm) | https://github.com/h1zzz/purewater | 5 | 0| 
 | 20211202T10:28:57Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 377 | 66| 
 | 20211202T09:14:48Z | MC-Scan is an inspector that inspects Minecraft plugins and searches for backdoors. | https://github.com/d3v0l/MC-Scan | 0 | 0| 
@@ -93,7 +94,6 @@
 | 20211202T03:53:09Z | Python Backdoor Detection Model Based on Combined Features | https://github.com/das-lab/PBDT | 1 | 1| 
 | 20211202T02:15:22Z | This is the servertool to the backdoor.  | https://github.com/MSaul113/Backdoor.py | 0 | 0| 
 | 20211202T01:44:26Z | A plug to write faster acceptance tests by skipping the sign-in process. This feature is inspired by Clearance’s backdoor. | https://github.com/ueberauth/guardian_backdoor | 25 | 5| 
-| 20211202T01:35:16Z | badcat is a tool I%ve made to learn `rust` and analyze anonymous backdoors | https://github.com/yanmarques/badcat | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
