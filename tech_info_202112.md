@@ -122,6 +122,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211202T13:49:41Z | Penyelesaian masalah sederhana menggunakan Fuzzy C-Means Phyton | https://github.com/adycahyono007/FuzzyC-means | 0 | 0| 
 | 20211202T13:46:50Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 205 | 38| 
 | 20211202T13:38:47Z | Null | https://github.com/yrameshra0/fuzzy-doner | 0 | 0| 
 | 20211202T13:29:05Z | Null | https://github.com/Lambda-Logan/fuzzy_lang_name_search | 0 | 0| 
@@ -131,7 +132,6 @@
 | 20211202T13:18:21Z | Binary, coverage-guided fuzzer for Windows and macOS | https://github.com/googleprojectzero/Jackalope | 663 | 82| 
 | 20211202T13:14:50Z | Un bot de empresa b santex | https://github.com/NicolasSabba/fuzzy-fiesta-b | 0 | 0| 
 | 20211202T13:13:04Z | Null | https://github.com/nhsd-exeter/dos-service-fuzzy-search-api | 1 | 0| 
-| 20211202T13:08:21Z | experimental fuzzer for distributed deep learning systems | https://github.com/debugevent90901/DDLFuzz | 0 | 0| 
 
 
 
