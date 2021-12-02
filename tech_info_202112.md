@@ -43,6 +43,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211201T19:37:37Z | modern regular expression syntax everywhere with a painless upgrade path | https://github.com/SonOfLilit/kleenexp | 29 | 3| 
 | 20211201T11:14:20Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1835 | 523| 
 | 20211201T04:30:14Z | Null | https://github.com/anaskautsar7/Klee-bot | 0 | 0| 
 
@@ -55,30 +56,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211201T13:50:37Z | Attack surface management is an attacker perspective about how the attacker may see the organizational assets to be vulnerable and to be exploited by the attacker.  | https://github.com/Operation-Falcon/AttackSurfaceManagement-DOCS | 0 | 0| 
-| 20211201T13:43:07Z | proxylogon, proxyshell, proxyoracle and proxytoken full chain exploit tool | https://github.com/FDlucifer/Proxy-Attackchain | 10 | 1| 
-| 20211201T13:37:05Z | You need to run all_together.py and follow the instructions on the readme below. This Tool allows you to use various discord exploits for educational use. | https://github.com/FuckingToasters/discord-group-spammer | 9 | 7| 
-| 20211201T13:35:47Z | Advisories, proof of concept files and exploits that have been made public by @pedrib. | https://github.com/pedrib/PoC | 460 | 116| 
-| 20211201T13:24:10Z | Official code for the paper %Revise-Net: Exploiting Reverse Attention Mechanism For Salient Object Detection% | https://github.com/yashkarbhari/Revise-Net | 0 | 0| 
-| 20211201T13:11:00Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 103 | 37| 
-| 20211201T13:03:02Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
-| 20211201T13:00:49Z | ssti exploit | https://github.com/saifbhh1987/ssti | 0 | 0| 
-| 20211201T12:48:18Z | Attack surface management is an attacker perspective about how the attacker may see the organizational assets to be vulnerable and to be exploited by the attacker. | https://github.com/Operation-Falcon/Attacksurfacemanagement | 0 | 0| 
-| 20211201T12:45:42Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 15| 
+| 20211202T00:45:42Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 15| 
+| 20211202T00:21:26Z | Class project for EECS583: Advanced Compilers: Evolutionary Optimization of Compiler Flag Selection by Learning and Exploiting Flags Interactions.  | https://github.com/batuhanakcay/evo-optim-flags | 0 | 0| 
+| 20211202T00:06:41Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 161 | 435| 
+| 20211202T00:04:20Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
+| 20211201T23:32:28Z | Global bypass for shitty anti cheats supports: Synapse, Scripware, Krnl (I think), and other exploits that has newcclousure, hookfuc, and suppoerts metatable hooking. | https://github.com/Who-Is-E/Adeva-Global-AcBypass | 0 | 0| 
+| 20211201T21:37:21Z | A collection of write ups on how I solved each exploit challenge on Exploit Education | https://github.com/dyllan500/Exploit-Education-Write-Up | 0 | 0| 
+| 20211201T21:29:55Z | fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | 0 | 0| 
+| 20211201T21:07:22Z | TryHackMe CTFs writeups, notes, dratfs, scrabbles, files and solutions. | https://github.com/edoardottt/tryhackme-ctf | 39 | 17| 
+| 20211201T20:41:32Z | HatVenom is a HatSploit native powerful payload generation and shellcode injection tool that provides support for common platforms and architectures. | https://github.com/EntySec/HatVenom | 60 | 18| 
+| 20211201T20:40:03Z | Null | https://github.com/AtlasDrilon/Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211201T12:27:20Z | Null | https://github.com/leileigan/clean_label_textual_backdoor_attack | 0 | 0| 
+| 20211202T01:01:00Z | Null | https://github.com/MSaul113/Backdoor1.py | 0 | 0| 
+| 20211202T00:51:32Z | Null | https://github.com/MSaul113/Backdoor.pyy | 0 | 0| 
+| 20211201T22:45:09Z | Codebase for my Level 4 University Project: Static Analysis of Executable Code to Detect Backdoors on IoT Devices | https://github.com/sophieboyle/Symbolic-Execution-for-ARM-Backdoor-Detection | 0 | 0| 
+| 20211201T21:21:39Z | This is the servertool to the backdoor.  | https://github.com/MSaul113/Backdoor.py | 0 | 0| 
+| 20211201T17:55:53Z | Statically-linked ssh server with reverse shell functionality for CTFs and such | https://github.com/Fahrj/reverse-ssh | 421 | 52| 
+| 20211201T17:36:03Z | pwn++ - a (bad) C++17 pwn library for Windows & Linux | https://github.com/hugsy/pwn-- | 53 | 3| 
+| 20211201T16:17:48Z | Null | https://github.com/leileigan/clean_label_textual_backdoor_attack | 2 | 0| 
 | 20211201T11:08:17Z | Python Backdoor Detection Model Based on Combined Features | https://github.com/das-lab/PBDT | 0 | 1| 
 | 20211201T09:28:20Z | new working python reverse shell persistent backdoor | https://github.com/stevesanchez29/NW | 0 | 0| 
-| 20211201T08:26:35Z | Statically-linked ssh server with reverse shell functionality for CTFs and such | https://github.com/Fahrj/reverse-ssh | 421 | 52| 
 | 20211201T08:11:29Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 376 | 66| 
-| 20211201T06:15:21Z | Into backdoor with node and express! | https://github.com/dasgupta002/web-node-advanced | 1 | 0| 
-| 20211201T04:26:46Z | Null | https://github.com/naiyeleo/PICCOLO_backdoor_detection | 0 | 0| 
-| 20211201T01:50:18Z | pwn++ - a (bad) C++17 pwn library for Windows & Linux | https://github.com/hugsy/pwn-- | 52 | 3| 
-| 20211201T00:26:14Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 52 | 16| 
 
 
 # symbolic execution on Github 推荐
@@ -97,16 +99,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211201T13:53:49Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 204 | 38| 
-| 20211201T13:44:28Z | Python tool for enumerating directories and for fuzzing | https://github.com/confusedHatHacker/dirEnum | 1 | 0| 
-| 20211201T13:31:20Z | This Repository is for maintaining RegressFuzz settings | https://github.com/hanyoungYoo/RegressFuzzSetting | 0 | 0| 
-| 20211201T13:02:01Z | A groovy/java tabular Data (from CSV,SQL,JSON) processing library that supports fuzzy column matching,tranformations/merging/querying | https://github.com/kayr/fuzzy-csv | 12 | 6| 
-| 20211201T12:44:31Z | Just another repository | https://github.com/Monib21/fuzzy-spork | 0 | 0| 
-| 20211201T12:40:06Z | learn and practise audio video coding stuff | https://github.com/HWilliamgo/fuzzy-video-drill | 0 | 0| 
-| 20211201T12:35:59Z | Null | https://github.com/MariusVanDerWijden/tx-fuzz | 2 | 0| 
-| 20211201T12:31:46Z | Null | https://github.com/Anqlem/tthk_fuzzbuzz | 0 | 0| 
-| 20211201T12:27:43Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 610 | 64| 
-| 20211201T12:22:39Z | fuzzyblog | https://github.com/johnnywww/fuzzyblog | 0 | 0| 
+| 20211202T00:44:30Z | Null | https://github.com/alchemycodelab/batteries-included-web-01-fuzzy-bunny-organizer | 0 | 0| 
+| 20211202T00:31:32Z | Null | https://github.com/sba6/SlowFuzzMods | 1 | 0| 
+| 20211202T00:24:09Z | wave Hi, I’m @Tranvanlap95 eyes I’m interested in ... seedling I’m currently Drai is an ERC20 token representing a claim on Rai. It can be freely converted to and from Rai: the amount of Rai claimed by one Drai is proportional to the current redemption price of Rai, such that 1 Drai is pegged to $1 USD. To make this work, Drai balances are dynamic, and therefore Drai cannot be safely used in many DeFi protocols. This is implemented by having all internal accounting done in units of Rai, and converted to Drai only as needed, e.g. when calling balanceOf(user). Apart from the standard ERC20 functionality, the Drai contract includes a few other helper methods:  ERC-2612 permit for approvals by signature balanceOfRai(usr) to return how many Rai a given user%s Drai balance can claim totalSupplyRai() to return how many Rai are held by the contract allowanceRai(owner, spender) to return how many of the owner%s Drai the spender can spend, denominated in Rai pull to transfer Drai from another address to your address push as an alias for transfer move as an alias for transferFrom Development This contract is built using dapptools, and follows the standard dapptools procedure for building and testing. Tests related to the dollar-peg functionality are fuzzed.  To compile:  $ make all To run the tests:  $ make test Integration If you are an app or wallet integrating Drai, make sure you take the following considerations into account.  Dynamic Balances 0xe4e834fc6808181668501E89a85F1cC40ad941d9 Drai is like a rebasing token in that is has dynamic balances. Therefore Drai should not be used with any applications or protocols that cache a token balance in their own storage—such as Uniswap—as these balances will quickly become inaccurate as the Rai redemption price changes.  Please consider carefully whether or not the app you want to use with Drai supports tokens with dynamic balances.  Accurate Drai Balances Rai%s OracleRelayer does not expose a view method to query the current redemption price. Therefore, the Drai contract reads and caches this data on each state-changing action. This means that showing a user their Drai balance using Drai.balanceOf(user) will likely show a balance that is slightly out of date (unless someone interacted with the Drai contract very recently).  To show the most up tp date Drai balance, your app or wallet should read the last stored _redemptionPrice, redemptionRate, and redemptionPriceUpdateTime from the OracleRelayer contract, then compute the %current% redemption price by executing the logic in OracleRelayer.redemptionPrice().  However, the _redemptionPrice is an internal variable, so there is no public getter method for it. Instead you must read it by querying storage slot 4 of the OracleRelayer contract. You can do this with ethers% getStorageAt method:  // Assuming you have an ethers provider instance called provider const oracleRelayerAddr = %%;0xe4e834fc6808181668501E89a85F1cC40ad941d9 const lastRedemptionPrice = await provider.getStorageAt(oracleRelayerAddr, 4); Alternatively, you can do this with seth using seth storage 4  Maximum Drai Balances Internally, the Drai contract stores everything denominated in Rai, and Rai balances and allowances are used for all internal accounting. As a result, many methods convert Rai values to Drai before converting them.  The conversion from Rai to Drai requires multiplying by the current redemption price, which is on the order of 10 ** 27 (currently about 3 * 10 ** 27 at the time of this writing). This means there is a chance of overflow for users who have more than (2^256-1) / (3 * 10^27) / 1e18 Rai. This is extremely unlikely to happen, and it can be worked around in the rare case it does happen. The main purpose of noting this here is because it affects fuzz testing, to avoid overflow failureslearning ...  revolving_hearts I’m looking to collaborate on ... mailbox How to reach me ... | https://github.com/Tranvanlap95/stefanionescu-drai | 0 | 0| 
+| 20211202T00:08:50Z | Null | https://github.com/Nexuscompute/fuzzy-couscous | 0 | 0| 
+| 20211201T23:42:03Z | Null | https://github.com/crajkumar73/Fuzzify-a-Decision-Tree | 0 | 0| 
+| 20211201T23:36:28Z | :books: Test data for fuzzing | https://github.com/neomutt/corpus-address | 1 | 0| 
+| 20211201T23:30:22Z | Comparing tool variability and numerical variability in fMRI analyses results | https://github.com/big-data-lab-team/fuzzy-neurotools | 0 | 1| 
+| 20211201T23:12:57Z | Finds the thickness of a surface in a point cloud | https://github.com/jackjgo/cloud_fuzz | 0 | 0| 
+| 20211201T23:01:50Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20211201T23:01:08Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6874 | 1437| 
 
 
 
