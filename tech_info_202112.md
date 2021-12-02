@@ -105,7 +105,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211202T01:58:27Z | Null | https://github.com/skipfish-h1-2/fuzzy-winner | 0 | 0| 
+| 20211202T01:59:01Z | Null | https://github.com/skipfish-h1-2/fuzzy-winner | 0 | 0| 
 | 20211202T01:41:07Z | Fuzzing utility for userspace applications | https://github.com/amit2129/Fuzzomatt | 0 | 0| 
 | 20211202T01:22:12Z | Null | https://github.com/alchemycodelab/half-baked-web-01-fuzzy-bunny-organizer | 0 | 0| 
 | 20211202T01:17:26Z | Null | https://github.com/ichlasuning/projectFuzzy | 0 | 0| 
