@@ -105,6 +105,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211202T01:22:12Z | Null | https://github.com/alchemycodelab/half-baked-web-01-fuzzy-bunny-organizer | 0 | 0| 
 | 20211202T01:17:26Z | Null | https://github.com/ichlasuning/projectFuzzy | 0 | 0| 
 | 20211202T00:44:30Z | Null | https://github.com/alchemycodelab/batteries-included-web-01-fuzzy-bunny-organizer | 0 | 0| 
 | 20211202T00:31:32Z | Null | https://github.com/sba6/SlowFuzzMods | 1 | 0| 
@@ -114,7 +115,6 @@
 | 20211201T23:36:28Z | :books: Test data for fuzzing | https://github.com/neomutt/corpus-address | 1 | 0| 
 | 20211201T23:30:22Z | Comparing tool variability and numerical variability in fMRI analyses results | https://github.com/big-data-lab-team/fuzzy-neurotools | 0 | 1| 
 | 20211201T23:12:57Z | Finds the thickness of a surface in a point cloud | https://github.com/jackjgo/cloud_fuzz | 0 | 0| 
-| 20211201T23:01:50Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 
 
 
