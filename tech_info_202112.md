@@ -74,11 +74,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211203T02:44:59Z | a simple gui for exploitdb | https://github.com/a756379684/exploitdb-gui | 1 | 0| 
+| 20211203T02:42:48Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 209 | 458| 
 | 20211203T02:38:55Z | The secondary exploitation of AUTOCAD to calculate area of houses | https://github.com/zhangtianlong-git/Area-calculation-using-CAD | 0 | 0| 
-| 20211203T02:35:51Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 208 | 458| 
 | 20211203T02:32:44Z | Local file inclusion discovery and exploitation tool | https://github.com/hansmach1ne/lfimap | 5 | 0| 
 | 20211203T02:03:44Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
-| 20211203T01:28:44Z | a simple gui for exploitdb | https://github.com/a756379684/exploitdb-gui | 0 | 0| 
 | 20211203T01:24:46Z | Null | https://github.com/tjonty/exploit | 0 | 0| 
 | 20211203T01:16:35Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6182 | 1463| 
 | 20211203T00:51:22Z | fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | 0 | 0| 
@@ -125,7 +125,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211203T02:42:06Z | Python fuzzing script  | https://github.com/Mohammad-Sarker/Mutational-Fuzzer | 0 | 0| 
+| 20211203T02:43:47Z | Using fuzzy c-means to analyze customer personality data | https://github.com/amandalucasp/fuzzy-customer-analysis | 0 | 0| 
+| 20211203T02:42:55Z | Python fuzzing script  | https://github.com/Mohammad-Sarker/Mutational-Fuzzer | 0 | 0| 
 | 20211203T02:33:32Z | fortnite fortnite | https://github.com/JosephJvB/fuzzy-fortnight2 | 0 | 0| 
 | 20211203T02:26:46Z | Null | https://github.com/Dorkitty/fuzzy-umbrella | 0 | 0| 
 | 20211203T02:23:32Z | Null | https://github.com/brotherweekkim/fuzzy-engine | 0 | 0| 
@@ -134,7 +135,6 @@
 | 20211203T01:55:46Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2444 | 150| 
 | 20211203T01:50:45Z | Null | https://github.com/AdaLogics/fuzz-introspector | 4 | 0| 
 | 20211203T01:38:49Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4640 | 474| 
-| 20211203T01:24:58Z | Somewhere to stick functions for googledocs | https://github.com/daidsonq4/fuzzysteve | 0 | 0| 
 
 
 
