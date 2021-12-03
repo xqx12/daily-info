@@ -97,12 +97,12 @@
 | 20211202T23:00:23Z | Null | https://github.com/emacsattic/fuzz | 0 | 0| 
 | 20211202T22:56:03Z | Asynchronous fuzzy finder in vim9script | https://github.com/kohnish/vim9-fuzzy | 0 | 0| 
 | 20211202T22:43:19Z | Null | https://github.com/oscarpimentel/fuzzy-tools | 0 | 0| 
-| 20211202T22:42:29Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2265 | 443| 
 | 20211202T22:41:04Z | A lang-brainscore repository for initial dirty development; select code will be migrated to a lean and clean more permanent repo in the future  | https://github.com/language-brainscore/lang-brainscore-fuzzy-potato | 0 | 0| 
 | 20211202T22:26:45Z | Takagi Sugeno Kang fuzzu model + FCM clustering  | https://github.com/nikimax/Fuzzu_Models_TSK | 0 | 0| 
-| 20211202T21:45:22Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4640 | 474| 
 | 20211202T21:42:52Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2444 | 150| 
 | 20211202T21:30:26Z | Stay cool mining and get free token, i hope i can get big $ for this mount | https://github.com/Andhika219o/fuzzy-couscous | 0 | 0| 
+| 20211202T21:30:07Z | Framework to build fuzzy inference systems | https://github.com/Raul-Navarro/fuzzy-framework | 0 | 0| 
+| 20211202T21:07:46Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 
 
 
