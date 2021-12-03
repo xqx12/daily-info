@@ -103,6 +103,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211203T14:00:06Z | Null | https://github.com/agoloveichuk/FuzzerLib | 0 | 0| 
 | 20211203T13:56:51Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 3 | 2| 
 | 20211203T13:49:38Z | This project has been created by Code Intelligence to allow you to learn and explore fuzzing for various use cases and technologies. | https://github.com/ci-fuzz/Use-Case-Playground | 0 | 7| 
 | 20211203T13:41:54Z | Project Fuzzy Logic dari mata kuliah Sistem Cerdas 🧠 | https://github.com/bydzen/fuzzy-logic-sc | 1 | 0| 
@@ -112,7 +113,6 @@
 | 20211203T12:02:54Z | Null | https://github.com/AdaLogics/fuzz-introspector | 9 | 1| 
 | 20211203T12:02:19Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 35 | 12| 
 | 20211203T11:39:49Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 12 | 1| 
-| 20211203T11:32:09Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3822 | 897| 
 
 
 
