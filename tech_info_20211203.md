@@ -33,6 +33,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211203T14:08:30Z | CVE-2021-42008 | CVE-2021-42008: Exploiting A 16-Year-Old Vulnerability In The Linux 6pack Driver | https://github.com/0xdevil/CVE-2021-42008 | | 
 | 20211203T13:19:29Z | CVE-2021-42008 | Exploiting A 16-Year-Old Vulnerability In The Linux 6pack Driver | https://github.com/numanturle/CVE-2021-42008 | | 
 | 20211203T12:58:17Z | cve-2020-0688 | cve-2020-0688 | https://github.com/Ridter/cve-2020-0688 | | 
 | 20211203T12:09:46Z | CVE-2021-32724 | Null | https://github.com/MaximeSchlegel/CVE-2021-32724-Target | | 
@@ -42,7 +43,6 @@
 | 20211203T03:56:31Z | CVE-2020-14321 | Python script to exploit CVE-2020-14321 - Moodle 3.9 - Course enrollments allowed privilege escalation from teacher role into manager role to RCE. | https://github.com/lanzt/CVE-2020-14321 | | 
 | 20211203T00:25:24Z | CVE-2021-42325 | CVE-2021-42325  POC | https://github.com/AK-blank/CVE-2021-42325- | | 
 | 20211203T00:25:23Z | CVE-2021-3156 | Null | https://github.com/musergi/CVE-2021-3156 | | 
-| 20211203T00:25:20Z | CVE-2021-43778 |  CVE-2021-43778 poc | https://github.com/AK-blank/CVE-2021-43778 | | 
 
 
 # klee on Github 推荐
@@ -62,6 +62,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211203T14:09:42Z | Exploiting tifffile in parallel to write ImageJ compatible tiffs with good compression. | https://github.com/wimpomp/tiffwrite | 0 | 0| 
+| 20211203T14:08:30Z | CVE-2021-42008: Exploiting A 16-Year-Old Vulnerability In The Linux 6pack Driver | https://github.com/0xdevil/CVE-2021-42008 | 0 | 0| 
+| 20211203T14:04:48Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 227 | 462| 
 | 20211203T14:03:41Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211203T14:01:08Z | Python tool for exploiting CVE-2021-35616  | https://github.com/Ofirhamam/OracleOTM | 0 | 0| 
 | 20211203T13:46:07Z | Learning exploration and exploitation policies in meta-reinforcement learning for robot control problems. (work in progress) | https://github.com/peterdavidfagan/robo-dream | 0 | 0| 
@@ -69,9 +72,6 @@
 | 20211203T13:19:29Z | Exploiting A 16-Year-Old Vulnerability In The Linux 6pack Driver | https://github.com/numanturle/CVE-2021-42008 | 0 | 0| 
 | 20211203T13:15:28Z | Null | https://github.com/DevKitteny/exploits | 0 | 0| 
 | 20211203T13:06:39Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITION | 2 | 0| 
-| 20211203T12:45:44Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 15| 
-| 20211203T12:44:39Z | Shellcode construction using heap exploitation attack on the reminders program | https://github.com/Vito-Swift/Reminders-Heap-Exploit | 1 | 0| 
-| 20211203T12:44:07Z | Ghostscript Exploits | https://github.com/nsonaniya2010/testing | 0 | 1| 
 
 
 # backdoor on Github 推荐
