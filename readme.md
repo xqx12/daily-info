@@ -62,16 +62,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211203T14:03:41Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
+| 20211203T14:01:08Z | Python tool for exploiting CVE-2021-35616  | https://github.com/Ofirhamam/OracleOTM | 0 | 0| 
 | 20211203T13:46:07Z | Learning exploration and exploitation policies in meta-reinforcement learning for robot control problems. (work in progress) | https://github.com/peterdavidfagan/robo-dream | 0 | 0| 
 | 20211203T13:23:04Z | D(HE)ater is a proof of concept implementation of the D(HE)at  attack (CVE-2002-20001) through which denial-of-service can be performed by enforcing the DHE  key exchange. | https://github.com/Balasys/dheater | 76 | 8| 
 | 20211203T13:19:29Z | Exploiting A 16-Year-Old Vulnerability In The Linux 6pack Driver | https://github.com/numanturle/CVE-2021-42008 | 0 | 0| 
 | 20211203T13:15:28Z | Null | https://github.com/DevKitteny/exploits | 0 | 0| 
 | 20211203T13:06:39Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITION | 2 | 0| 
-| 20211203T13:03:09Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211203T12:45:44Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 15| 
 | 20211203T12:44:39Z | Shellcode construction using heap exploitation attack on the reminders program | https://github.com/Vito-Swift/Reminders-Heap-Exploit | 1 | 0| 
 | 20211203T12:44:07Z | Ghostscript Exploits | https://github.com/nsonaniya2010/testing | 0 | 1| 
-| 20211203T12:21:44Z | a python3 version of the exploit written for CVE-2014-6287. Useful for completing the %Steel Mountain% room on TryHackMe.com without the use of metasploit. | https://github.com/Mr-Intern/thm_steelmountain_CVE-2014-6287 | 0 | 0| 
 
 
 # backdoor on Github 推荐
