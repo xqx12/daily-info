@@ -74,7 +74,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211203T01:44:26Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 206 | 456| 
+| 20211203T01:46:31Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 207 | 456| 
 | 20211203T01:28:44Z | a simple gui for exploitdb | https://github.com/a756379684/exploitdb-gui | 0 | 0| 
 | 20211203T01:24:46Z | Null | https://github.com/tjonty/exploit | 0 | 0| 
 | 20211203T01:16:35Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6182 | 1463| 
@@ -125,6 +125,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211203T01:47:19Z | Null | https://github.com/Dorkitty/fuzzy-umbrella | 0 | 0| 
 | 20211203T01:38:49Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4640 | 474| 
 | 20211203T01:33:08Z | Null | https://github.com/Mohammad-Sarker/Mutational-Fuzzer | 0 | 0| 
 | 20211203T01:24:58Z | Somewhere to stick functions for googledocs | https://github.com/daidsonq4/fuzzysteve | 0 | 0| 
@@ -134,7 +135,6 @@
 | 20211203T00:13:11Z | Null | https://github.com/AdaLogics/fuzz-introspector | 3 | 0| 
 | 20211202T23:23:30Z | Null | https://github.com/sayutiandara/fuzzy-funicular | 0 | 0| 
 | 20211202T23:00:23Z | Null | https://github.com/emacsattic/fuzz | 0 | 0| 
-| 20211202T22:56:03Z | Asynchronous fuzzy finder in vim9script | https://github.com/kohnish/vim9-fuzzy | 0 | 0| 
 
 
 
