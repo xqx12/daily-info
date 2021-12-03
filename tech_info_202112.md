@@ -74,6 +74,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211203T01:28:44Z | a simple gui for exploitdb | https://github.com/a756379684/exploitdb-gui | 0 | 0| 
 | 20211203T01:26:18Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 205 | 456| 
 | 20211203T01:24:46Z | Null | https://github.com/tjonty/exploit | 0 | 0| 
 | 20211203T01:16:35Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6182 | 1463| 
@@ -83,7 +84,6 @@
 | 20211203T00:35:10Z | SpatialLOB is designed for stock price prediction by exploiting spatial properties of the Limit Order books | https://github.com/PraAnj/SpatialLOB-Learning-spatial-properties-of-Limit-Order-Book | 0 | 0| 
 | 20211203T00:13:24Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10380 | 1790| 
 | 20211203T00:04:55Z | Null | https://github.com/chryskar/karakasis2020exploiting | 0 | 0| 
-| 20211203T00:02:49Z | All of my (no longer maintained) scripts and patched exploits for Nitro Type. | https://github.com/Ray-Adams/NitroType-Archive | 4 | 3| 
 
 
 # backdoor on Github 推荐
