@@ -45,7 +45,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211203T00:25:25Z | CVE-2021-21086 | Null | https://github.com/infobyte/Exploit-CVE-2021-21086 | | 
+| 20211203T01:05:08Z | CVE-2021-21086 | Null | https://github.com/infobyte/Exploit-CVE-2021-21086 | | 
 | 20211203T00:25:24Z | CVE-2021-42325 | CVE-2021-42325  POC | https://github.com/AK-blank/CVE-2021-42325- | | 
 | 20211203T00:25:23Z | CVE-2021-3156 | Null | https://github.com/musergi/CVE-2021-3156 | | 
 | 20211203T00:25:20Z | CVE-2021-43778 |  CVE-2021-43778 poc | https://github.com/AK-blank/CVE-2021-43778 | | 
@@ -125,16 +125,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211202T13:56:51Z | A one-line script that creates a list of words based on the mutating radamsa fuzzer | https://github.com/Tr1ad0s/Radamsa_wordlist | 0 | 0| 
-| 20211202T13:49:41Z | Penyelesaian masalah sederhana menggunakan Fuzzy C-Means Phyton | https://github.com/adycahyono007/FuzzyC-means | 0 | 0| 
-| 20211202T13:46:50Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 205 | 38| 
-| 20211202T13:38:47Z | Null | https://github.com/yrameshra0/fuzzy-doner | 0 | 0| 
-| 20211202T13:29:05Z | Null | https://github.com/Lambda-Logan/fuzzy_lang_name_search | 0 | 0| 
-| 20211202T13:23:10Z | Use Jazzer to perform fuzzy testing of Apache POI | https://github.com/centic9/poi-fuzz | 1 | 0| 
-| 20211202T13:22:42Z | Generic plugin based web application security fuzzing for anomalies by Slándáil Research Limited | https://github.com/maK-/scanomaly | 11 | 3| 
-| 20211202T13:18:42Z | A fuzzer that generates random Go programs | https://github.com/ALTree/microsmith | 14 | 0| 
-| 20211202T13:18:21Z | Binary, coverage-guided fuzzer for Windows and macOS | https://github.com/googleprojectzero/Jackalope | 663 | 82| 
-| 20211202T13:14:50Z | Un bot de empresa b santex | https://github.com/NicolasSabba/fuzzy-fiesta-b | 0 | 0| 
+| 20211203T00:48:13Z | Null | https://github.com/Mohammad-Sarker/Mutational-Fuzzer | 0 | 0| 
+| 20211203T00:22:06Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6877 | 1439| 
+| 20211203T00:18:33Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 35 | 12| 
+| 20211203T00:13:11Z | Null | https://github.com/AdaLogics/fuzz-introspector | 3 | 0| 
+| 20211202T23:23:30Z | Null | https://github.com/sayutiandara/fuzzy-funicular | 0 | 0| 
+| 20211202T23:00:23Z | Null | https://github.com/emacsattic/fuzz | 0 | 0| 
+| 20211202T22:56:03Z | Asynchronous fuzzy finder in vim9script | https://github.com/kohnish/vim9-fuzzy | 0 | 0| 
+| 20211202T22:43:19Z | Null | https://github.com/oscarpimentel/fuzzy-tools | 0 | 0| 
+| 20211202T22:42:29Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2265 | 443| 
+| 20211202T22:41:04Z | A lang-brainscore repository for initial dirty development; select code will be migrated to a lean and clean more permanent repo in the future  | https://github.com/language-brainscore/lang-brainscore-fuzzy-potato | 0 | 0| 
 
 
 

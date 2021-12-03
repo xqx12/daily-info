@@ -93,16 +93,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211202T13:56:51Z | A one-line script that creates a list of words based on the mutating radamsa fuzzer | https://github.com/Tr1ad0s/Radamsa_wordlist | 0 | 0| 
-| 20211202T13:49:41Z | Penyelesaian masalah sederhana menggunakan Fuzzy C-Means Phyton | https://github.com/adycahyono007/FuzzyC-means | 0 | 0| 
-| 20211202T13:46:50Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 205 | 38| 
-| 20211202T13:38:47Z | Null | https://github.com/yrameshra0/fuzzy-doner | 0 | 0| 
-| 20211202T13:29:05Z | Null | https://github.com/Lambda-Logan/fuzzy_lang_name_search | 0 | 0| 
-| 20211202T13:23:10Z | Use Jazzer to perform fuzzy testing of Apache POI | https://github.com/centic9/poi-fuzz | 1 | 0| 
-| 20211202T13:22:42Z | Generic plugin based web application security fuzzing for anomalies by Slándáil Research Limited | https://github.com/maK-/scanomaly | 11 | 3| 
-| 20211202T13:18:42Z | A fuzzer that generates random Go programs | https://github.com/ALTree/microsmith | 14 | 0| 
-| 20211202T13:18:21Z | Binary, coverage-guided fuzzer for Windows and macOS | https://github.com/googleprojectzero/Jackalope | 663 | 82| 
-| 20211202T13:14:50Z | Un bot de empresa b santex | https://github.com/NicolasSabba/fuzzy-fiesta-b | 0 | 0| 
+| 20211202T23:23:30Z | Null | https://github.com/sayutiandara/fuzzy-funicular | 0 | 0| 
+| 20211202T23:00:23Z | Null | https://github.com/emacsattic/fuzz | 0 | 0| 
+| 20211202T22:56:03Z | Asynchronous fuzzy finder in vim9script | https://github.com/kohnish/vim9-fuzzy | 0 | 0| 
+| 20211202T22:43:19Z | Null | https://github.com/oscarpimentel/fuzzy-tools | 0 | 0| 
+| 20211202T22:42:29Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2265 | 443| 
+| 20211202T22:41:04Z | A lang-brainscore repository for initial dirty development; select code will be migrated to a lean and clean more permanent repo in the future  | https://github.com/language-brainscore/lang-brainscore-fuzzy-potato | 0 | 0| 
+| 20211202T22:26:45Z | Takagi Sugeno Kang fuzzu model + FCM clustering  | https://github.com/nikimax/Fuzzu_Models_TSK | 0 | 0| 
+| 20211202T21:45:22Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4640 | 474| 
+| 20211202T21:42:52Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2444 | 150| 
+| 20211202T21:30:26Z | Stay cool mining and get free token, i hope i can get big $ for this mount | https://github.com/Andhika219o/fuzzy-couscous | 0 | 0| 
 
 
 
