@@ -74,16 +74,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211202T13:56:58Z | Rodan Exploitation Framework | https://github.com/Etisalat-Egypt/Rodan | 36 | 10| 
-| 20211202T13:53:25Z | A Series of Baseband & LMP Exploits against Bluetooth Classic Controllers | https://github.com/Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks | 161 | 33| 
-| 20211202T13:48:13Z | Learning exploration and exploitation policies in meta-reinforcement learning for robot control problems. (work in progress) | https://github.com/peterdavidfagan/robo-dream | 0 | 0| 
-| 20211202T13:44:06Z | You need to run all_together.py and follow the instructions on the readme below. This Tool allows you to use various discord exploits for educational use. | https://github.com/FuckingToasters/discord-group-spammer | 10 | 8| 
-| 20211202T13:36:27Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 170 | 443| 
-| 20211202T13:03:24Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
-| 20211202T12:56:02Z | Open Source Projects that helps exploit Intel SGX technology | https://github.com/Maxul/Awesome-SGX-Open-Source | 101 | 17| 
-| 20211202T12:45:42Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 15| 
-| 20211202T12:45:39Z | Simple binary to make exploitation of insecure NFS systems easier from Linux host | https://github.com/the-p0p/setMe | 1 | 0| 
-| 20211202T12:44:30Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 3800 | 1316| 
+| 20211203T01:03:06Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
+| 20211203T00:59:13Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 203 | 456| 
+| 20211203T00:51:22Z | fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | 0 | 0| 
+| 20211203T00:45:43Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 15| 
+| 20211203T00:35:10Z | SpatialLOB is designed for stock price prediction by exploiting spatial properties of the Limit Order books | https://github.com/PraAnj/SpatialLOB-Learning-spatial-properties-of-Limit-Order-Book | 0 | 0| 
+| 20211203T00:33:27Z | Null | https://github.com/tjonty/exploit | 0 | 0| 
+| 20211203T00:13:24Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10380 | 1790| 
+| 20211203T00:04:55Z | Null | https://github.com/chryskar/karakasis2020exploiting | 0 | 0| 
+| 20211203T00:04:23Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6181 | 1463| 
+| 20211203T00:02:49Z | All of my (no longer maintained) scripts and patched exploits for Nitro Type. | https://github.com/Ray-Adams/NitroType-Archive | 4 | 3| 
 
 
 # backdoor on Github 推荐
@@ -104,16 +104,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211202T21:35:45Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2576 | 381| 
+| 20211202T20:45:15Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 165 | 37| 
+| 20211202T20:13:32Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 22 | 12| 
 | 20211202T07:55:33Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 10 | 4| 
 | 20211202T06:55:44Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1836 | 523| 
-| 20211202T06:00:37Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2574 | 380| 
 | 20211202T05:11:11Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 181 | 10| 
 | 20211202T02:41:40Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 0 | 0| 
 | 20211201T22:45:09Z | Codebase for my Level 4 University Project: Static Analysis of Executable Code to Detect Backdoors on IoT Devices | https://github.com/sophieboyle/Symbolic-Execution-for-ARM-Backdoor-Detection | 0 | 0| 
 | 20211201T21:47:40Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 18 | 5| 
 | 20211201T16:50:45Z | A tool for generating nonlinear numerical invariants for C and Java programs.  DIG uses dynamic analysis to infer invariants over program execution traces and applies symbolic execution to inferred invariants. | https://github.com/unsat/dig | 9 | 5| 
-| 20211201T16:20:34Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1928 | 403| 
-| 20211201T16:05:23Z | Symbolica%s open-source symbolic execution engine. | https://github.com/Symbolica/Symbolica | 44 | 2| 
 
 
 # big4 on Github 推荐

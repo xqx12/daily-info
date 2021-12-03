@@ -45,16 +45,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211202T13:56:58Z | Rodan Exploitation Framework | https://github.com/Etisalat-Egypt/Rodan | 36 | 10| 
-| 20211202T13:53:25Z | A Series of Baseband & LMP Exploits against Bluetooth Classic Controllers | https://github.com/Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks | 161 | 33| 
-| 20211202T13:48:13Z | Learning exploration and exploitation policies in meta-reinforcement learning for robot control problems. (work in progress) | https://github.com/peterdavidfagan/robo-dream | 0 | 0| 
-| 20211202T13:44:06Z | You need to run all_together.py and follow the instructions on the readme below. This Tool allows you to use various discord exploits for educational use. | https://github.com/FuckingToasters/discord-group-spammer | 10 | 8| 
-| 20211202T13:36:27Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 170 | 443| 
-| 20211202T13:03:24Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
-| 20211202T12:56:02Z | Open Source Projects that helps exploit Intel SGX technology | https://github.com/Maxul/Awesome-SGX-Open-Source | 101 | 17| 
-| 20211202T12:45:42Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 15| 
-| 20211202T12:45:39Z | Simple binary to make exploitation of insecure NFS systems easier from Linux host | https://github.com/the-p0p/setMe | 1 | 0| 
-| 20211202T12:44:30Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 3800 | 1316| 
+| 20211202T23:50:06Z | The LFI exploitation tool | https://github.com/th3f0r3ign3r/Slifer | 1 | 0| 
+| 20211202T23:35:26Z | Golang based RPC client to communicate with Metasploit | https://github.com/hupe1980/gomsf | 1 | 0| 
+| 20211202T23:28:42Z | Class project for EECS583: Advanced Compilers: Evolutionary Optimization of Compiler Flag Selection by Learning and Exploiting Flags Interactions.  | https://github.com/batuhanakcay/evo-optim-flags | 0 | 0| 
+| 20211202T23:07:32Z | Exploitation Framework for Embedded Devices | https://github.com/threat9/routersploit | 9837 | 2112| 
+| 20211202T23:04:54Z | Null | https://github.com/Banaanae/exploits | 0 | 0| 
+| 20211202T22:46:47Z | iReady is awful. It%s the worst education tool anyone could ever use. This program is designed to skip through iReady lessons/quizzes/time requirements or whatever. | https://github.com/cupiditys/iReady-Overload | 17 | 14| 
+| 20211202T22:39:51Z | [Roblox] Downtown RP ESP (Gun Crates, Printers) -- genta | https://github.com/subn0de/Roblox_Exploits | 0 | 0| 
+| 20211202T21:54:45Z | Cuddly-Waddle is a not-so-hidden project revolving around Roblox Exploiting! | https://github.com/RobloxArchiver/cuddly-waddle | 0 | 0| 
+| 20211202T20:15:06Z | Model to simulate forest exploitation in Mato Grosso | https://github.com/pedro-andrade-inpe/forestExploitation | 1 | 1| 
+| 20211202T19:24:01Z | XSsploit is a tool to exploit xss and understand their impact in the world-wide-web | https://github.com/evilcater/XSsploit | 1 | 0| 
 
 
 # backdoor on Github 推荐
@@ -75,9 +75,11 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211202T21:35:45Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2576 | 381| 
+| 20211202T20:45:15Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 165 | 37| 
+| 20211202T20:13:32Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 22 | 12| 
 | 20211202T07:55:33Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 10 | 4| 
 | 20211202T06:55:44Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1836 | 523| 
-| 20211202T06:00:37Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2574 | 380| 
 | 20211202T05:11:11Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 181 | 10| 
 | 20211202T02:41:40Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 0 | 0| 
 
