@@ -52,9 +52,9 @@
 | 20211203T00:25:02Z | CVE-2021-40438 | Sigma-Rule-for-CVE-2021-40438-Attack-Attemp | https://github.com/pisut4152/Sigma-Rule-for-CVE-2021-40438-exploitation-attempt | | 
 | 20211203T00:25:01Z | 未知编号 | Script in python detecting malious office document | https://github.com/YxZi5/Detection-CVE_2021_40444 | | 
 | 20211203T00:25:00Z | CVE-2021-20837 | XMLRPC  - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | | 
+| 20211203T00:24:49Z | CVE-2021-21042 | Null | https://github.com/r1l4-i3pur1l4/CVE-2021-21042 | | 
+| 20211203T00:24:48Z | CVE-2021-21224 | ARM64 PoC for CVE-2021-21224 | https://github.com/ohnonoyesyes/CVE-2021-21224 | | 
 | 20211203T00:24:47Z | CVE-2021-43267 | Local PoC exploit for CVE-2021-43267 (Linux TIPC) | https://github.com/ohnonoyesyes/CVE-2021-43267 | | 
-| 20211203T00:24:46Z | CVE-2021-41653 | TP-Link TL-WR840N EU v5 Remote Code Execution | https://github.com/ohnonoyesyes/CVE-2021-41653 | | 
-| 20211203T00:24:44Z | CVE-2021-22205 | CVE-2021-22205 RCE  | https://github.com/c0okB/CVE-2021-22205 | | 
 
 
 # klee on Github 推荐
