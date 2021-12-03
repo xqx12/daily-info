@@ -74,7 +74,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211203T02:04:20Z | The secondary exploitation of AUTOCAD to calculate area of houses | https://github.com/zhangtianlong-git/Area-calculation-using-CAD | 0 | 0| 
+| 20211203T02:20:54Z | The secondary exploitation of AUTOCAD to calculate area of houses | https://github.com/zhangtianlong-git/Area-calculation-using-CAD | 0 | 0| 
 | 20211203T02:03:44Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211203T01:46:31Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 207 | 458| 
 | 20211203T01:28:44Z | a simple gui for exploitdb | https://github.com/a756379684/exploitdb-gui | 0 | 0| 
@@ -125,13 +125,13 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211203T02:21:55Z | Null | https://github.com/Dorkitty/fuzzy-umbrella | 0 | 0| 
 | 20211203T02:15:08Z | Null | https://github.com/Mohammad-Sarker/Mutational-Fuzzer | 0 | 0| 
 | 20211203T02:10:34Z | fuzzyblog | https://github.com/johnnywww/fuzzyblog | 0 | 0| 
 | 20211203T02:00:45Z | Null | https://github.com/brotherweekkim/fuzzy-engine | 0 | 0| 
 | 20211203T01:59:31Z | fortnight fortnight we like fortnight | https://github.com/JosephJvB/fuzzy-fortnight | 0 | 0| 
 | 20211203T01:55:46Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2444 | 150| 
 | 20211203T01:50:45Z | Null | https://github.com/AdaLogics/fuzz-introspector | 4 | 0| 
-| 20211203T01:47:19Z | Null | https://github.com/Dorkitty/fuzzy-umbrella | 0 | 0| 
 | 20211203T01:38:49Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4640 | 474| 
 | 20211203T01:24:58Z | Somewhere to stick functions for googledocs | https://github.com/daidsonq4/fuzzysteve | 0 | 0| 
 | 20211203T01:08:16Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2266 | 443| 
