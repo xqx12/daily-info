@@ -98,10 +98,10 @@
 | 20211202T22:43:19Z | Null | https://github.com/oscarpimentel/fuzzy-tools | 0 | 0| 
 | 20211202T22:41:04Z | A lang-brainscore repository for initial dirty development; select code will be migrated to a lean and clean more permanent repo in the future  | https://github.com/language-brainscore/lang-brainscore-fuzzy-potato | 0 | 0| 
 | 20211202T22:26:45Z | Takagi Sugeno Kang fuzzu model + FCM clustering  | https://github.com/nikimax/Fuzzu_Models_TSK | 0 | 0| 
-| 20211202T21:42:52Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2444 | 150| 
 | 20211202T21:30:26Z | Stay cool mining and get free token, i hope i can get big $ for this mount | https://github.com/Andhika219o/fuzzy-couscous | 0 | 0| 
 | 20211202T21:30:07Z | Framework to build fuzzy inference systems | https://github.com/Raul-Navarro/fuzzy-framework | 0 | 0| 
 | 20211202T21:07:46Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
+| 20211202T20:38:15Z | Comparing tool variability and numerical variability in fMRI analyses results | https://github.com/big-data-lab-team/fuzzy-neurotools | 0 | 1| 
 
 
 
