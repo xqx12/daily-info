@@ -74,6 +74,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211203T01:16:35Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6182 | 1463| 
 | 20211203T01:03:06Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211203T00:59:13Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 203 | 456| 
 | 20211203T00:51:22Z | fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | 0 | 0| 
@@ -82,7 +83,6 @@
 | 20211203T00:33:27Z | Null | https://github.com/tjonty/exploit | 0 | 0| 
 | 20211203T00:13:24Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10380 | 1790| 
 | 20211203T00:04:55Z | Null | https://github.com/chryskar/karakasis2020exploiting | 0 | 0| 
-| 20211203T00:04:23Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6181 | 1463| 
 | 20211203T00:02:49Z | All of my (no longer maintained) scripts and patched exploits for Nitro Type. | https://github.com/Ray-Adams/NitroType-Archive | 4 | 3| 
 
 
