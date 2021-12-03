@@ -6,6 +6,13 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20211203 | Check Point 对数月前伊朗发生的以短信为入口窃取敏感信息为目的的攻击活动的分析 | http://research.checkpoint.com/2021/smishing-botnets-going-viral-in-iran/| 
+| 20211203 | Encryption Does Not Equal Invisibility – Detecting Anomalous TLS Certificates with the Half-Space-Trees Algorithm | http://research.nccgroup.com/2021/12/02/encryption-does-not-equal-invisibility-detecting-anomalous-tls-certificates-with-the-half-space-trees-algorithm/| 
+| 20211203 | 源码分析与二进制逆向结合挖掘漏洞（Paper） | http://www.s3.eurecom.fr/docs/asiaccs22_mantovani.pdf| 
+| 20211203 | Kubernetes 被发现一个条件竞争漏洞，成功利用可在容器内绕过文件系统挂载安全边界，访问 Host 文件系统 | https://security.googleblog.com/2021/12/exploring-container-security-storage.html| 
+| 20211203 | IronKey USB 存储设备的安全分析 Paper | https://arxiv.org/pdf/2110.14090.pdf| 
+| 20211203 | 利用 radare2 分析 UEFI 固件的工具 | https://github.com/binarly-io/uefi_r2| 
+| 20211203 | How to Backdoor Azure Applications and Abuse Service Principals | https://www.inversecos.com/2021/10/how-to-backdoor-azure-applications-and.html| 
 | 20211202 | pip-audit - 用于扫描 Python 环境依赖库是否涉及已知漏洞的工具 | https://github.com/trailofbits/pip-audit| 
 | 20211202 | Exploiting Vulnerabilities in a TLD Registrar to Takeover Tether, Google, and Amazon | http://palisade.consulting/blog/tld-hacking| 
 | 20211202 | Tracking a P2P network related to TA505 | http://research.nccgroup.com/2021/12/01/tracking-a-p2p-network-related-with-ta505/| 
@@ -19,86 +26,82 @@
 | 20211202 | Serverless 扫描技术研究及应用. | https://paper.seebug.org/1776/| 
 | 20211201 | 研究员发现 Intel(R) Atom CPU Bug | https://grsecurity.net/watch_your_stepping_atoms_breaking_apart| 
 | 20211201 | Printing-Shellz - 惠普多功能打印机的安全研究报告 | http://labs.f-secure.com/assets/BlogFiles/Printing-Shellz.pdf| 
-| 20211201 | IT 管理软件 Jamf Pro SSRF 漏洞分析 | https://blog.assetnote.io/2021/11/30/jamf-ssrf/| 
-| 20211201 | CVE-2021-21234 Spring Boot Actuator Logview Directory Traversal | https://pyn3rd.github.io/2021/10/25/CVE-2021-21234-Spring-Boot-Actuator-Logview-Directory-Traversal/| 
-| 20211201 | Arbitrary package tampering in Deno registry + Code Injection in encoding/yaml | https://blog.ryotak.me/post/deno-registry-tampering-with-arbitrary-packages-en/| 
-| 20211201 | Apache Storm 漏洞分析 | http://noahblog.360.cn/apache-storm-vulnerability-analysis/| 
-| 20211201 | xray 终极反制实践 | http://koalr.me/posts/core-concept-of-yarx/| 
-| 20211201 | CVE-2021-22205 GitLab RCE 之未授权访问深入分析(一) | http://blog.topsec.com.cn/cve-2021-22205-gitlab-rce%e4%b9%8b%e6%9c%aa%e6%8e%88%e6%9d%83%e8%ae%bf%e9%97%ae%e6%b7%b1%e5%85%a5%e5%88%86%e6%9e%90%e4%b8%80/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
-| 20211201 | 通过反编译和机器学习检测恶意样本代码重用 | https://mp.weixin.qq.com/s/9ptODSm-CiyZcXASaPybug| 
-| 20211201 | ​causal-learn：基于Python的因果发现算法平台 | https://mp.weixin.qq.com/s/a-UBil7WYmxb6FQx0TAJbw| 
-| 20211201 | 模式识别，从初级感知到高级认知 | https://posts.careerengine.us/p/61a0a70487c0de3490d379b7| 
-| 20211201 | 信息搜集和密码利用的思路 | https://mp.weixin.qq.com/s/HbnXhaN0QdlqTW7f__NFHA| 
-| 20211201 | 关于金融科技安全的认识与思考 | https://mp.weixin.qq.com/s/n63l4LOiViv5p9I2ELI2gg| 
-| 20211201 | 首次解读地下钱庄 | https://mp.weixin.qq.com/s/-JrUb49rnegnGzPMElSUFg| 
-| 20211201 | 5G专网安全风险与技术方案 | https://mp.weixin.qq.com/s/6K3RQtjzAvtyYNkavuHuaw| 
-| 20211201 | 十四五”软件和信息技术服务业发展规划 | https://mp.weixin.qq.com/s/6nJ7tpo5qu8zVI8nYDQAnA| 
-| 20211201 | 攻击者利用微软MSHTML漏洞窃取谷歌和instagram凭证信息 | https://mp.weixin.qq.com/s/9rDDLeYcohGdTEewpfy6Iw| 
-| 20211201 | 从BeaconEye说起，围绕CS内存特征的检测与规避 | https://mp.weixin.qq.com/s/m1qOrRBrLAuRYu-eJQ_oOg| 
+| 20211203 | DotNet内存马-HttpListener | https://mp.weixin.qq.com/s/zsPPkhCZ8mhiFZ8sAohw6w| 
+| 20211203 | Apache Storm 漏洞分析 | http://noahblog.360.cn/apache-storm-vulnerability-analysis/| 
+| 20211203 | 威胁狩猎的最佳实践 | https://www.anquanke.com/post/id/260494| 
+| 20211203 | Linux 与 XNU 的 KPTI 实现解读 | https://paper.seebug.org/1770/| 
+| 20211203 | 安卓 APT 间谍软件 GnatSpy 分析 | https://paper.seebug.org/1771/| 
+| 20211203 | CVE-2021-22205 GitLab RCE之未授权访问深入分析(一) | http://blog.topsec.com.cn/cve-2021-22205-gitlab-rce%e4%b9%8b%e6%9c%aa%e6%8e%88%e6%9d%83%e8%ae%bf%e9%97%ae%e6%b7%b1%e5%85%a5%e5%88%86%e6%9e%90%e4%b8%80/| 
+| 20211203 | 域前置溯源方法思考 | https://www.anquanke.com/post/id/260888| 
+| 20211203 | xray 终极反制实践 | https://koalr.me/posts/core-concept-of-yarx/| 
+| 20211203 | Serverless 扫描技术研究及应用 | https://paper.seebug.org/1776/| 
+| 20211203 | 协议Fuzz工具整合 | https://mp.weixin.qq.com/s/N8JDSZB9AVcOuZ260asQQg| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211203T02:57:25Z | CVE-2021-21980 | A vulnerability scanner that detects CVE-2021-21980 vulnerabilities. | https://github.com/Osyanina/westone-CVE-2021-21980-scanner | | 
-| 20211203T02:41:36Z | CVE-2021-21086 | Null | https://github.com/infobyte/Exploit-CVE-2021-21086 | | 
-| 20211203T01:51:29Z | cve-2020-0688 | cve-2020-0688 | https://github.com/Ridter/cve-2020-0688 | | 
+| 20211203T12:58:17Z | cve-2020-0688 | cve-2020-0688 | https://github.com/Ridter/cve-2020-0688 | | 
+| 20211203T12:09:46Z | CVE-2021-32724 | Null | https://github.com/MaximeSchlegel/CVE-2021-32724-Target | | 
+| 20211203T07:54:32Z | CVE-2021-37832 | CVE 2021-37832 poc | https://github.com/AK-blank/CVE-2021-37832 | | 
+| 20211203T07:39:00Z | CVE-2021-21086 | Null | https://github.com/infobyte/Exploit-CVE-2021-21086 | | 
+| 20211203T05:14:33Z | CVE-2021-21980 | A vulnerability scanner that detects CVE-2021-21980 vulnerabilities. | https://github.com/Osyanina/westone-CVE-2021-21980-scanner | | 
+| 20211203T03:56:31Z | CVE-2020-14321 | Python script to exploit CVE-2020-14321 - Moodle 3.9 - Course enrollments allowed privilege escalation from teacher role into manager role to RCE. | https://github.com/lanzt/CVE-2020-14321 | | 
 | 20211203T00:25:24Z | CVE-2021-42325 | CVE-2021-42325  POC | https://github.com/AK-blank/CVE-2021-42325- | | 
 | 20211203T00:25:23Z | CVE-2021-3156 | Null | https://github.com/musergi/CVE-2021-3156 | | 
 | 20211203T00:25:20Z | CVE-2021-43778 |  CVE-2021-43778 poc | https://github.com/AK-blank/CVE-2021-43778 | | 
 | 20211203T00:25:02Z | CVE-2021-40438 | Sigma-Rule-for-CVE-2021-40438-Attack-Attemp | https://github.com/pisut4152/Sigma-Rule-for-CVE-2021-40438-exploitation-attempt | | 
-| 20211203T00:25:01Z | 未知编号 | Script in python detecting malious office document | https://github.com/YxZi5/Detection-CVE_2021_40444 | | 
-| 20211203T00:25:00Z | CVE-2021-20837 | XMLRPC  - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | | 
-| 20211203T00:24:49Z | CVE-2021-21042 | Null | https://github.com/r1l4-i3pur1l4/CVE-2021-21042 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211203T10:05:31Z | Null | https://github.com/anaskautsar7/Klee-chan | 0 | 0| 
+| 20211203T06:03:58Z | Null | https://github.com/anaskautsar7/Klee-bot | 0 | 0| 
 | 20211202T06:55:44Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1836 | 523| 
 | 20211201T19:37:37Z | modern regular expression syntax everywhere with a painless upgrade path | https://github.com/SonOfLilit/kleenexp | 29 | 3| 
-| 20211201T04:30:14Z | Null | https://github.com/anaskautsar7/Klee-bot | 0 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211203T08:35:07Z | CRAX++: software CRash analysis for Automatic eXploit generation | https://github.com/aesophor/CRAXplusplus | 15 | 3| 
 | 20211202T14:39:02Z | Null | https://github.com/s2e-lab/s2e-lab.github.io | 0 | 0| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211203T02:48:41Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 209 | 458| 
-| 20211203T02:44:59Z | a simple gui for exploitdb | https://github.com/a756379684/exploitdb-gui | 1 | 0| 
-| 20211203T02:38:55Z | The secondary exploitation of AUTOCAD to calculate area of houses | https://github.com/zhangtianlong-git/Area-calculation-using-CAD | 0 | 0| 
-| 20211203T02:32:44Z | Local file inclusion discovery and exploitation tool | https://github.com/hansmach1ne/lfimap | 5 | 0| 
-| 20211203T02:03:44Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
-| 20211203T01:24:46Z | Null | https://github.com/tjonty/exploit | 0 | 0| 
-| 20211203T01:16:35Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6182 | 1463| 
-| 20211203T00:51:22Z | fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | 0 | 0| 
-| 20211203T00:45:43Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 15| 
-| 20211203T00:35:10Z | SpatialLOB is designed for stock price prediction by exploiting spatial properties of the Limit Order books | https://github.com/PraAnj/SpatialLOB-Learning-spatial-properties-of-Limit-Order-Book | 0 | 0| 
+| 20211203T12:45:44Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 15| 
+| 20211203T12:44:56Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITION | 2 | 0| 
+| 20211203T12:44:39Z | Shellcode construction using heap exploitation attack on the reminders program | https://github.com/Vito-Swift/Reminders-Heap-Exploit | 1 | 0| 
+| 20211203T12:44:07Z | Ghostscript Exploits | https://github.com/nsonaniya2010/testing | 0 | 1| 
+| 20211203T12:21:44Z | a python3 version of the exploit written for CVE-2014-6287. Useful for completing the %Steel Mountain% room on TryHackMe.com without the use of metasploit. | https://github.com/Mr-Intern/thm_steelmountain_CVE-2014-6287 | 0 | 0| 
+| 20211203T12:20:51Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 255 | 78| 
+| 20211203T12:13:23Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10384 | 1791| 
+| 20211203T12:12:50Z | Null | https://github.com/DevKitteny/exploits | 0 | 0| 
+| 20211203T12:03:49Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
+| 20211203T11:50:25Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 4152 | 568| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211203T01:27:33Z | Experimental and sneaky backdoor patch for OpenSSH Portable.  | https://github.com/Psmths/openssh-backdoor | 0 | 0| 
+| 20211203T09:03:31Z | Unofficial pytorch implementation of RobNet(Defense-Resistant Backdoor Attacks on DNN) | https://github.com/dhkim2810/RobNet | 0 | 0| 
+| 20211203T07:31:48Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 378 | 66| 
+| 20211203T07:11:45Z | High School project that utilizes python machine learning algorithm to find malicious backdoor programs on a Linux system | https://github.com/MizuBon/mlDoora | 0 | 0| 
+| 20211203T06:21:01Z | Database of backdoor passwords used by Malware, uncovered by the Malvuln project. | https://github.com/malvuln/viruscreds | 9 | 2| 
+| 20211203T03:02:54Z | Experimental and sneaky backdoor patch for OpenSSH Portable.  | https://github.com/Psmths/openssh-backdoor | 0 | 0| 
 | 20211202T23:58:12Z | Null | https://github.com/samuelventura/nerves_backdoor | 0 | 0| 
 | 20211202T19:27:09Z | badcat is a tool I%ve made to learn `rust` and analyze anonymous backdoors | https://github.com/yanmarques/badcat | 0 | 0| 
 | 20211202T14:28:10Z | A bash script for checking common open %backdoor% ports | https://github.com/g30rgyth3d4rk/dashboardyports | 0 | 0| 
-| 20211202T14:27:52Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 378 | 66| 
 | 20211202T12:55:56Z | Remote control software, supported Windows/Unix/MacOS/Linux(x86/x64/mips/arm) | https://github.com/h1zzz/purewater | 5 | 0| 
 | 20211202T09:14:48Z | MC-Scan is an inspector that inspects Minecraft plugins and searches for backdoors. | https://github.com/d3v0l/MC-Scan | 0 | 0| 
-| 20211202T08:55:07Z | My personal unique wiki for hacking the router firmware used by (Telia)TG799vac Xtream v17.2-MINT delivered from Technicolor  | https://github.com/wuseman/TG799VAC-XTREME-17.2-MINT | 64 | 18| 
-| 20211202T07:35:10Z | Null | https://github.com/KirillMonster/BackDoor-virus | 0 | 0| 
-| 20211202T07:03:47Z | A simple remote tool written in C#.    一个简单的c#远控 | https://github.com/qwqdanchun/DcRat | 441 | 160| 
 
 
 # symbolic execution on Github 推荐
@@ -125,16 +128,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211203T02:52:05Z | fuzzyblog | https://github.com/johnnywww/fuzzyblog | 0 | 0| 
-| 20211203T02:50:29Z | Null | https://github.com/Potat0000/AutoFuzzer | 1 | 0| 
-| 20211203T02:43:47Z | Using fuzzy c-means to analyze customer personality data | https://github.com/amandalucasp/fuzzy-customer-analysis | 0 | 0| 
-| 20211203T02:42:55Z | Python fuzzing script  | https://github.com/Mohammad-Sarker/Mutational-Fuzzer | 0 | 0| 
-| 20211203T02:33:32Z | fortnite fortnite | https://github.com/JosephJvB/fuzzy-fortnight2 | 0 | 0| 
-| 20211203T02:26:46Z | Null | https://github.com/Dorkitty/fuzzy-umbrella | 0 | 0| 
-| 20211203T02:23:32Z | Null | https://github.com/brotherweekkim/fuzzy-engine | 0 | 0| 
-| 20211203T01:59:31Z | fortnight fortnight we like fortnight | https://github.com/JosephJvB/fuzzy-fortnight | 0 | 0| 
-| 20211203T01:55:46Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2444 | 150| 
-| 20211203T01:50:45Z | Null | https://github.com/AdaLogics/fuzz-introspector | 4 | 0| 
+| 20211203T12:09:29Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 205 | 38| 
+| 20211203T12:07:25Z | With this project, I want to make a blending between Persevere and taPCT. The idea is to find bugs in large amounts of concurrent threading instruction. For that we will first try and identify with this tool some known bugs from emac versions that were not yet corrected. We first model the system call as a set of events and then apply the taPCT algorithm. Later on, we can use fuzzing to give larger system call sequences to our probabilistic scheduling algorithm.  | https://github.com/Ricagraca/taPPCT | 0 | 0| 
+| 20211203T12:02:54Z | Null | https://github.com/AdaLogics/fuzz-introspector | 9 | 1| 
+| 20211203T12:02:19Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 35 | 12| 
+| 20211203T11:39:49Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 12 | 1| 
+| 20211203T11:32:09Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3822 | 897| 
+| 20211203T11:30:54Z | Null | https://github.com/peter8rabit/covering-fuzzy | 0 | 0| 
+| 20211203T11:25:18Z | Find all keywords for your subdomain or folder search | https://github.com/Proviesec/nlp-website-string-miner-for-fuzzing | 1 | 0| 
+| 20211203T11:17:50Z | Null | https://github.com/luhutsusilowati/fuzzy-parakeet | 0 | 0| 
+| 20211203T11:04:19Z | This project has been created by Code Intelligence to allow you to learn and explore fuzzing for various use cases and technologies. | https://github.com/ci-fuzz/Use-Case-Playground | 0 | 7| 
 
 
 
