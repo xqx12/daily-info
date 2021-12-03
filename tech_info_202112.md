@@ -74,6 +74,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211203T02:04:20Z | The secondary exploitation of AUTOCAD to calculate area of houses | https://github.com/zhangtianlong-git/Area-calculation-using-CAD | 0 | 0| 
 | 20211203T02:03:44Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211203T01:46:31Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 207 | 456| 
 | 20211203T01:28:44Z | a simple gui for exploitdb | https://github.com/a756379684/exploitdb-gui | 0 | 0| 
@@ -83,7 +84,6 @@
 | 20211203T00:45:43Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 15| 
 | 20211203T00:35:10Z | SpatialLOB is designed for stock price prediction by exploiting spatial properties of the Limit Order books | https://github.com/PraAnj/SpatialLOB-Learning-spatial-properties-of-Limit-Order-Book | 0 | 0| 
 | 20211203T00:13:24Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10380 | 1790| 
-| 20211203T00:04:55Z | Null | https://github.com/chryskar/karakasis2020exploiting | 0 | 0| 
 
 
 # backdoor on Github 推荐
