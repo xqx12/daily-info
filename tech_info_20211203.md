@@ -61,6 +61,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211203T13:46:07Z | Learning exploration and exploitation policies in meta-reinforcement learning for robot control problems. (work in progress) | https://github.com/peterdavidfagan/robo-dream | 0 | 0| 
 | 20211203T13:23:04Z | D(HE)ater is a proof of concept implementation of the D(HE)at  attack (CVE-2002-20001) through which denial-of-service can be performed by enforcing the DHE  key exchange. | https://github.com/Balasys/dheater | 76 | 8| 
 | 20211203T13:19:29Z | Exploiting A 16-Year-Old Vulnerability In The Linux 6pack Driver | https://github.com/numanturle/CVE-2021-42008 | 0 | 0| 
 | 20211203T13:15:28Z | Null | https://github.com/DevKitteny/exploits | 0 | 0| 
@@ -70,7 +71,6 @@
 | 20211203T12:44:39Z | Shellcode construction using heap exploitation attack on the reminders program | https://github.com/Vito-Swift/Reminders-Heap-Exploit | 1 | 0| 
 | 20211203T12:44:07Z | Ghostscript Exploits | https://github.com/nsonaniya2010/testing | 0 | 1| 
 | 20211203T12:21:44Z | a python3 version of the exploit written for CVE-2014-6287. Useful for completing the %Steel Mountain% room on TryHackMe.com without the use of metasploit. | https://github.com/Mr-Intern/thm_steelmountain_CVE-2014-6287 | 0 | 0| 
-| 20211203T12:20:51Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 255 | 78| 
 
 
 # backdoor on Github 推荐
@@ -101,6 +101,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211203T13:44:28Z | This project has been created by Code Intelligence to allow you to learn and explore fuzzing for various use cases and technologies. | https://github.com/ci-fuzz/Use-Case-Playground | 0 | 7| 
 | 20211203T13:41:54Z | Project Fuzzy Logic dari mata kuliah Sistem Cerdas 🧠 | https://github.com/bydzen/fuzzy-logic-sc | 1 | 0| 
 | 20211203T13:38:31Z | Null | https://github.com/lijiaying/fuzz | 0 | 0| 
 | 20211203T12:09:29Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 205 | 38| 
@@ -110,7 +111,6 @@
 | 20211203T11:39:49Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 12 | 1| 
 | 20211203T11:32:09Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3822 | 897| 
 | 20211203T11:30:54Z | Null | https://github.com/peter8rabit/covering-fuzzy | 0 | 0| 
-| 20211203T11:25:18Z | Find all keywords for your subdomain or folder search | https://github.com/Proviesec/nlp-website-string-miner-for-fuzzing | 1 | 0| 
 
 
 
