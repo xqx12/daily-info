@@ -125,6 +125,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211203T02:15:08Z | Null | https://github.com/Mohammad-Sarker/Mutational-Fuzzer | 0 | 0| 
 | 20211203T02:10:34Z | fuzzyblog | https://github.com/johnnywww/fuzzyblog | 0 | 0| 
 | 20211203T02:00:45Z | Null | https://github.com/brotherweekkim/fuzzy-engine | 0 | 0| 
 | 20211203T01:59:31Z | fortnight fortnight we like fortnight | https://github.com/JosephJvB/fuzzy-fortnight | 0 | 0| 
@@ -132,7 +133,6 @@
 | 20211203T01:50:45Z | Null | https://github.com/AdaLogics/fuzz-introspector | 4 | 0| 
 | 20211203T01:47:19Z | Null | https://github.com/Dorkitty/fuzzy-umbrella | 0 | 0| 
 | 20211203T01:38:49Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4640 | 474| 
-| 20211203T01:33:08Z | Null | https://github.com/Mohammad-Sarker/Mutational-Fuzzer | 0 | 0| 
 | 20211203T01:24:58Z | Somewhere to stick functions for googledocs | https://github.com/daidsonq4/fuzzysteve | 0 | 0| 
 | 20211203T01:08:16Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2266 | 443| 
 
