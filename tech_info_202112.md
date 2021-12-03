@@ -74,6 +74,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211203T02:27:31Z | Local file inclusion discovery and exploitation tool | https://github.com/hansmach1ne/lfimap | 5 | 0| 
 | 20211203T02:20:54Z | The secondary exploitation of AUTOCAD to calculate area of houses | https://github.com/zhangtianlong-git/Area-calculation-using-CAD | 0 | 0| 
 | 20211203T02:03:44Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211203T01:46:31Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 207 | 458| 
@@ -83,7 +84,6 @@
 | 20211203T00:51:22Z | fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | 0 | 0| 
 | 20211203T00:45:43Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 15| 
 | 20211203T00:35:10Z | SpatialLOB is designed for stock price prediction by exploiting spatial properties of the Limit Order books | https://github.com/PraAnj/SpatialLOB-Learning-spatial-properties-of-Limit-Order-Book | 0 | 0| 
-| 20211203T00:13:24Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10380 | 1790| 
 
 
 # backdoor on Github 推荐
