@@ -76,7 +76,7 @@
 | --- | --- | --- | --- | ---| 
 | 20211203T02:04:20Z | The secondary exploitation of AUTOCAD to calculate area of houses | https://github.com/zhangtianlong-git/Area-calculation-using-CAD | 0 | 0| 
 | 20211203T02:03:44Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
-| 20211203T01:46:31Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 207 | 456| 
+| 20211203T01:46:31Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 207 | 458| 
 | 20211203T01:28:44Z | a simple gui for exploitdb | https://github.com/a756379684/exploitdb-gui | 0 | 0| 
 | 20211203T01:24:46Z | Null | https://github.com/tjonty/exploit | 0 | 0| 
 | 20211203T01:16:35Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6182 | 1463| 
