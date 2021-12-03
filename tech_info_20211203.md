@@ -101,6 +101,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211203T13:41:54Z | Project Fuzzy Logic dari mata kuliah Sistem Cerdas 🧠 | https://github.com/bydzen/fuzzy-logic-sc | 1 | 0| 
+| 20211203T13:38:31Z | Null | https://github.com/lijiaying/fuzz | 0 | 0| 
 | 20211203T12:09:29Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 205 | 38| 
 | 20211203T12:07:25Z | With this project, I want to make a blending between Persevere and taPCT. The idea is to find bugs in large amounts of concurrent threading instruction. For that we will first try and identify with this tool some known bugs from emac versions that were not yet corrected. We first model the system call as a set of events and then apply the taPCT algorithm. Later on, we can use fuzzing to give larger system call sequences to our probabilistic scheduling algorithm.  | https://github.com/Ricagraca/taPPCT | 0 | 0| 
 | 20211203T12:02:54Z | Null | https://github.com/AdaLogics/fuzz-introspector | 9 | 1| 
@@ -109,8 +111,6 @@
 | 20211203T11:32:09Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3822 | 897| 
 | 20211203T11:30:54Z | Null | https://github.com/peter8rabit/covering-fuzzy | 0 | 0| 
 | 20211203T11:25:18Z | Find all keywords for your subdomain or folder search | https://github.com/Proviesec/nlp-website-string-miner-for-fuzzing | 1 | 0| 
-| 20211203T11:17:50Z | Null | https://github.com/luhutsusilowati/fuzzy-parakeet | 0 | 0| 
-| 20211203T11:04:19Z | This project has been created by Code Intelligence to allow you to learn and explore fuzzing for various use cases and technologies. | https://github.com/ci-fuzz/Use-Case-Playground | 0 | 7| 
 
 
 
