@@ -125,16 +125,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211203T02:52:05Z | fuzzyblog | https://github.com/johnnywww/fuzzyblog | 0 | 0| 
+| 20211203T02:50:29Z | Null | https://github.com/Potat0000/AutoFuzzer | 1 | 0| 
 | 20211203T02:43:47Z | Using fuzzy c-means to analyze customer personality data | https://github.com/amandalucasp/fuzzy-customer-analysis | 0 | 0| 
 | 20211203T02:42:55Z | Python fuzzing script  | https://github.com/Mohammad-Sarker/Mutational-Fuzzer | 0 | 0| 
 | 20211203T02:33:32Z | fortnite fortnite | https://github.com/JosephJvB/fuzzy-fortnight2 | 0 | 0| 
 | 20211203T02:26:46Z | Null | https://github.com/Dorkitty/fuzzy-umbrella | 0 | 0| 
 | 20211203T02:23:32Z | Null | https://github.com/brotherweekkim/fuzzy-engine | 0 | 0| 
-| 20211203T02:10:34Z | fuzzyblog | https://github.com/johnnywww/fuzzyblog | 0 | 0| 
 | 20211203T01:59:31Z | fortnight fortnight we like fortnight | https://github.com/JosephJvB/fuzzy-fortnight | 0 | 0| 
 | 20211203T01:55:46Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2444 | 150| 
 | 20211203T01:50:45Z | Null | https://github.com/AdaLogics/fuzz-introspector | 4 | 0| 
-| 20211203T01:38:49Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4640 | 474| 
 
 
 
