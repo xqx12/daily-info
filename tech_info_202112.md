@@ -45,7 +45,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211203T02:31:35Z | CVE-2021-21980 | A vulnerability scanner that detects CVE-2021-21980 vulnerabilities. | https://github.com/Osyanina/westone-CVE-2021-21980-scanner | | 
+| 20211203T02:32:21Z | CVE-2021-21980 | A vulnerability scanner that detects CVE-2021-21980 vulnerabilities. | https://github.com/Osyanina/westone-CVE-2021-21980-scanner | | 
 | 20211203T02:30:22Z | CVE-2021-21086 | Null | https://github.com/infobyte/Exploit-CVE-2021-21086 | | 
 | 20211203T01:51:29Z | cve-2020-0688 | cve-2020-0688 | https://github.com/Ridter/cve-2020-0688 | | 
 | 20211203T00:25:24Z | CVE-2021-42325 | CVE-2021-42325  POC | https://github.com/AK-blank/CVE-2021-42325- | | 
@@ -125,8 +125,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211203T02:26:46Z | Null | https://github.com/Dorkitty/fuzzy-umbrella | 0 | 0| 
 | 20211203T02:23:32Z | Null | https://github.com/brotherweekkim/fuzzy-engine | 0 | 0| 
-| 20211203T02:21:55Z | Null | https://github.com/Dorkitty/fuzzy-umbrella | 0 | 0| 
 | 20211203T02:15:08Z | Null | https://github.com/Mohammad-Sarker/Mutational-Fuzzer | 0 | 0| 
 | 20211203T02:10:34Z | fuzzyblog | https://github.com/johnnywww/fuzzyblog | 0 | 0| 
 | 20211203T01:59:31Z | fortnight fortnight we like fortnight | https://github.com/JosephJvB/fuzzy-fortnight | 0 | 0| 
