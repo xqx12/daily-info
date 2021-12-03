@@ -45,14 +45,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211202T09:42:43Z | CVE-2021-41653 | TP-Link TL-WR840N EU v5 Remote Code Execution | https://github.com/ohnonoyesyes/CVE-2021-41653 | | 
-| 20211202T07:58:49Z | CVE-2021-22205 | CVE-2021-22205 RCE  | https://github.com/c0okB/CVE-2021-22205 | | 
-| 20211202T06:58:19Z | CVE-2021-42325 | CVE-2021-42325  POC | https://github.com/AK-blank/CVE-2021-42325- | | 
-| 20211202T03:02:48Z | cve-2020-0688 | cve-2020-0688 | https://github.com/Ridter/cve-2020-0688 | | 
-| 20211201T13:51:49Z | CVE-2021-3156 | Null | https://github.com/musergi/CVE-2021-3156 | | 
-| 20211201T08:25:40Z | CVE-2021-21224 | ARM64 PoC for CVE-2021-21224 | https://github.com/ohnonoyesyes/CVE-2021-21224 | | 
-| 20211201T08:20:45Z | CVE-2021-43267 | Local PoC exploit for CVE-2021-43267 (Linux TIPC) | https://github.com/ohnonoyesyes/CVE-2021-43267 | | 
-| 20211201T02:08:01Z | CVE-2021-24084 | Windows MDM LPE | https://github.com/ohnonoyesyes/CVE-2021-24084 | | 
+| 20211203T00:25:25Z | CVE-2021-21086 | Null | https://github.com/infobyte/Exploit-CVE-2021-21086 | | 
+| 20211203T00:25:24Z | CVE-2021-42325 | CVE-2021-42325  POC | https://github.com/AK-blank/CVE-2021-42325- | | 
+| 20211203T00:25:23Z | CVE-2021-3156 | Null | https://github.com/musergi/CVE-2021-3156 | | 
+| 20211203T00:25:20Z | CVE-2021-43778 |  CVE-2021-43778 poc | https://github.com/AK-blank/CVE-2021-43778 | | 
+| 20211203T00:25:02Z | CVE-2021-40438 | Sigma-Rule-for-CVE-2021-40438-Attack-Attemp | https://github.com/pisut4152/Sigma-Rule-for-CVE-2021-40438-exploitation-attempt | | 
+| 20211203T00:25:01Z | 未知编号 | Script in python detecting malious office document | https://github.com/YxZi5/Detection-CVE_2021_40444 | | 
+| 20211203T00:25:00Z | CVE-2021-20837 | XMLRPC  - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | | 
+| 20211203T00:24:47Z | CVE-2021-43267 | Local PoC exploit for CVE-2021-43267 (Linux TIPC) | https://github.com/ohnonoyesyes/CVE-2021-43267 | | 
+| 20211203T00:24:46Z | CVE-2021-41653 | TP-Link TL-WR840N EU v5 Remote Code Execution | https://github.com/ohnonoyesyes/CVE-2021-41653 | | 
+| 20211203T00:24:44Z | CVE-2021-22205 | CVE-2021-22205 RCE  | https://github.com/c0okB/CVE-2021-22205 | | 
 
 
 # klee on Github 推荐
@@ -66,6 +68,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211202T14:39:02Z | Null | https://github.com/s2e-lab/s2e-lab.github.io | 0 | 0| 
 
 
 # exploit on Github 推荐
@@ -86,16 +89,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211202T13:36:53Z | A bash script for checking common open %backdoor% ports | https://github.com/g30rgyth3d4rk/dashboardyports | 0 | 0| 
+| 20211203T00:53:58Z | Experimental and sneaky backdoor patch for OpenSSH Portable.  | https://github.com/Psmths/openssh-backdoor | 0 | 0| 
+| 20211202T23:58:12Z | Null | https://github.com/samuelventura/nerves_backdoor | 0 | 0| 
+| 20211202T19:27:09Z | badcat is a tool I%ve made to learn `rust` and analyze anonymous backdoors | https://github.com/yanmarques/badcat | 0 | 0| 
+| 20211202T14:28:10Z | A bash script for checking common open %backdoor% ports | https://github.com/g30rgyth3d4rk/dashboardyports | 0 | 0| 
+| 20211202T14:27:52Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 378 | 66| 
 | 20211202T12:55:56Z | Remote control software, supported Windows/Unix/MacOS/Linux(x86/x64/mips/arm) | https://github.com/h1zzz/purewater | 5 | 0| 
-| 20211202T10:28:57Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 377 | 66| 
 | 20211202T09:14:48Z | MC-Scan is an inspector that inspects Minecraft plugins and searches for backdoors. | https://github.com/d3v0l/MC-Scan | 0 | 0| 
 | 20211202T08:55:07Z | My personal unique wiki for hacking the router firmware used by (Telia)TG799vac Xtream v17.2-MINT delivered from Technicolor  | https://github.com/wuseman/TG799VAC-XTREME-17.2-MINT | 64 | 18| 
 | 20211202T07:35:10Z | Null | https://github.com/KirillMonster/BackDoor-virus | 0 | 0| 
 | 20211202T07:03:47Z | A simple remote tool written in C#.    一个简单的c#远控 | https://github.com/qwqdanchun/DcRat | 441 | 160| 
-| 20211202T03:53:09Z | Python Backdoor Detection Model Based on Combined Features | https://github.com/das-lab/PBDT | 1 | 1| 
-| 20211202T02:15:22Z | This is the servertool to the backdoor.  | https://github.com/MSaul113/Backdoor.py | 0 | 0| 
-| 20211202T01:44:26Z | A plug to write faster acceptance tests by skipping the sign-in process. This feature is inspired by Clearance’s backdoor. | https://github.com/ueberauth/guardian_backdoor | 25 | 5| 
 
 
 # symbolic execution on Github 推荐
