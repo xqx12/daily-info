@@ -74,13 +74,13 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211203T01:24:46Z | Null | https://github.com/tjonty/exploit | 0 | 0| 
 | 20211203T01:23:14Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 204 | 456| 
 | 20211203T01:16:35Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6182 | 1463| 
 | 20211203T01:03:06Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211203T00:51:22Z | fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | 0 | 0| 
 | 20211203T00:45:43Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 15| 
 | 20211203T00:35:10Z | SpatialLOB is designed for stock price prediction by exploiting spatial properties of the Limit Order books | https://github.com/PraAnj/SpatialLOB-Learning-spatial-properties-of-Limit-Order-Book | 0 | 0| 
-| 20211203T00:33:27Z | Null | https://github.com/tjonty/exploit | 0 | 0| 
 | 20211203T00:13:24Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10380 | 1790| 
 | 20211203T00:04:55Z | Null | https://github.com/chryskar/karakasis2020exploiting | 0 | 0| 
 | 20211203T00:02:49Z | All of my (no longer maintained) scripts and patched exploits for Nitro Type. | https://github.com/Ray-Adams/NitroType-Archive | 4 | 3| 
@@ -125,7 +125,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211203T01:22:55Z | Somewhere to stick functions for googledocs | https://github.com/daidsonq4/fuzzysteve | 0 | 0| 
+| 20211203T01:24:58Z | Somewhere to stick functions for googledocs | https://github.com/daidsonq4/fuzzysteve | 0 | 0| 
 | 20211203T01:19:57Z | Null | https://github.com/Mohammad-Sarker/Mutational-Fuzzer | 0 | 0| 
 | 20211203T01:08:27Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4640 | 474| 
 | 20211203T01:08:16Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2266 | 443| 
