@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211203T13:19:29Z | CVE-2021-42008 | Exploiting A 16-Year-Old Vulnerability In The Linux 6pack Driver | https://github.com/numanturle/CVE-2021-42008 | | 
 | 20211203T12:58:17Z | cve-2020-0688 | cve-2020-0688 | https://github.com/Ridter/cve-2020-0688 | | 
 | 20211203T12:09:46Z | CVE-2021-32724 | Null | https://github.com/MaximeSchlegel/CVE-2021-32724-Target | | 
 | 20211203T07:54:32Z | CVE-2021-37832 | CVE 2021-37832 poc | https://github.com/AK-blank/CVE-2021-37832 | | 
@@ -55,7 +56,6 @@
 | 20211203T00:25:24Z | CVE-2021-42325 | CVE-2021-42325  POC | https://github.com/AK-blank/CVE-2021-42325- | | 
 | 20211203T00:25:23Z | CVE-2021-3156 | Null | https://github.com/musergi/CVE-2021-3156 | | 
 | 20211203T00:25:20Z | CVE-2021-43778 |  CVE-2021-43778 poc | https://github.com/AK-blank/CVE-2021-43778 | | 
-| 20211203T00:25:02Z | CVE-2021-40438 | Sigma-Rule-for-CVE-2021-40438-Attack-Attemp | https://github.com/pisut4152/Sigma-Rule-for-CVE-2021-40438-exploitation-attempt | | 
 
 
 # klee on Github 推荐
@@ -77,16 +77,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211203T13:23:04Z | D(HE)ater is a proof of concept implementation of the D(HE)at  attack (CVE-2002-20001) through which denial-of-service can be performed by enforcing the DHE  key exchange. | https://github.com/Balasys/dheater | 76 | 8| 
+| 20211203T13:19:29Z | Exploiting A 16-Year-Old Vulnerability In The Linux 6pack Driver | https://github.com/numanturle/CVE-2021-42008 | 0 | 0| 
+| 20211203T13:15:28Z | Null | https://github.com/DevKitteny/exploits | 0 | 0| 
+| 20211203T13:06:39Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITION | 2 | 0| 
 | 20211203T13:03:09Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211203T12:45:44Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 15| 
-| 20211203T12:44:56Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITION | 2 | 0| 
 | 20211203T12:44:39Z | Shellcode construction using heap exploitation attack on the reminders program | https://github.com/Vito-Swift/Reminders-Heap-Exploit | 1 | 0| 
 | 20211203T12:44:07Z | Ghostscript Exploits | https://github.com/nsonaniya2010/testing | 0 | 1| 
 | 20211203T12:21:44Z | a python3 version of the exploit written for CVE-2014-6287. Useful for completing the %Steel Mountain% room on TryHackMe.com without the use of metasploit. | https://github.com/Mr-Intern/thm_steelmountain_CVE-2014-6287 | 0 | 0| 
 | 20211203T12:20:51Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 255 | 78| 
-| 20211203T12:13:23Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10384 | 1791| 
-| 20211203T12:12:50Z | Null | https://github.com/DevKitteny/exploits | 0 | 0| 
-| 20211203T11:50:25Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 4152 | 568| 
 
 
 # backdoor on Github 推荐
