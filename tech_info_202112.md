@@ -33,6 +33,7 @@
 | --- | --- | ---| 
 | 20211204 | 从研究工控设备到发现供应链威胁 | https://mp.weixin.qq.com/s/-ihOJFNP5OaTy6BNr2uxrA| 
 | 20211204 | 数据中心智能安全运营体系建设探索与实践 | https://mp.weixin.qq.com/s/omM1xphG_ie9GDjsu34s3w| 
+| 20211204 | 基于多模态学习的视觉实体链接 | https://mp.weixin.qq.com/s/wX4g3o7vdz2NJ18TKIUkqA| 
 | 20211203 | DotNet内存马-HttpListener | https://mp.weixin.qq.com/s/zsPPkhCZ8mhiFZ8sAohw6w| 
 | 20211203 | Apache Storm 漏洞分析 | http://noahblog.360.cn/apache-storm-vulnerability-analysis/| 
 | 20211203 | 威胁狩猎的最佳实践 | https://www.anquanke.com/post/id/260494| 
@@ -40,7 +41,6 @@
 | 20211203 | 安卓 APT 间谍软件 GnatSpy 分析 | https://paper.seebug.org/1771/| 
 | 20211203 | CVE-2021-22205 GitLab RCE之未授权访问深入分析(一) | http://blog.topsec.com.cn/cve-2021-22205-gitlab-rce%e4%b9%8b%e6%9c%aa%e6%8e%88%e6%9d%83%e8%ae%bf%e9%97%ae%e6%b7%b1%e5%85%a5%e5%88%86%e6%9e%90%e4%b8%80/| 
 | 20211203 | 域前置溯源方法思考 | https://www.anquanke.com/post/id/260888| 
-| 20211203 | xray 终极反制实践 | https://koalr.me/posts/core-concept-of-yarx/| 
 
 
 # CVE Github 推荐
@@ -78,6 +78,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211204T13:05:26Z | VMware vCenter earlier v(7.0.2.00100) unauthorized arbitrary file read  | https://github.com/dorkerdevil/vcenter_fileread_exploit | 0 | 0| 
 | 20211204T13:03:08Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211204T12:45:44Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 15| 
 | 20211204T12:35:18Z | Pentest important small exploitation scripts  | https://github.com/cyberjatin/mynotes | 1 | 0| 
@@ -87,7 +88,6 @@
 | 20211204T12:00:47Z | Exploits Scripts and other tools that are useful during Penetration-Testing or Red Team engagement  | https://github.com/BlackSnufkin/PT-ToolKit | 12 | 6| 
 | 20211204T11:37:15Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 6664 | 1834| 
 | 20211204T11:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10389 | 1792| 
-| 20211204T10:19:51Z | Rodan Exploitation Framework | https://github.com/Etisalat-Egypt/Rodan | 46 | 12| 
 
 
 # backdoor on Github 推荐
@@ -130,7 +130,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211204T12:45:19Z | Tool to Generate a Fuzzy Real Estate Development Model upon a Site | https://github.com/irawinder/FuzzyBuilder | 2 | 0| 
+| 20211204T13:05:27Z | Tool to Generate a Fuzzy Real Estate Development Model upon a Site | https://github.com/irawinder/FuzzyBuilder | 2 | 0| 
 | 20211204T12:15:17Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 35 | 12| 
 | 20211204T11:54:38Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
 | 20211204T11:03:35Z | Insert in Bash or ZSH a fuzzily found command-line, file or (recent) directory path at the cursor position. | https://github.com/Konfekt/fuzzyfinders.sh | 2 | 0| 
