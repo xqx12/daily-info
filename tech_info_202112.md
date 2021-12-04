@@ -31,6 +31,8 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20211204 | 从研究工控设备到发现供应链威胁 | https://mp.weixin.qq.com/s/-ihOJFNP5OaTy6BNr2uxrA| 
+| 20211204 | 数据中心智能安全运营体系建设探索与实践 | https://mp.weixin.qq.com/s/omM1xphG_ie9GDjsu34s3w| 
 | 20211203 | DotNet内存马-HttpListener | https://mp.weixin.qq.com/s/zsPPkhCZ8mhiFZ8sAohw6w| 
 | 20211203 | Apache Storm 漏洞分析 | http://noahblog.360.cn/apache-storm-vulnerability-analysis/| 
 | 20211203 | 威胁狩猎的最佳实践 | https://www.anquanke.com/post/id/260494| 
@@ -39,14 +41,13 @@
 | 20211203 | CVE-2021-22205 GitLab RCE之未授权访问深入分析(一) | http://blog.topsec.com.cn/cve-2021-22205-gitlab-rce%e4%b9%8b%e6%9c%aa%e6%8e%88%e6%9d%83%e8%ae%bf%e9%97%ae%e6%b7%b1%e5%85%a5%e5%88%86%e6%9e%90%e4%b8%80/| 
 | 20211203 | 域前置溯源方法思考 | https://www.anquanke.com/post/id/260888| 
 | 20211203 | xray 终极反制实践 | https://koalr.me/posts/core-concept-of-yarx/| 
-| 20211203 | Serverless 扫描技术研究及应用 | https://paper.seebug.org/1776/| 
-| 20211203 | 协议Fuzz工具整合 | https://mp.weixin.qq.com/s/N8JDSZB9AVcOuZ260asQQg| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211204T02:59:14Z | CVE-2021-42008 | CVE-2021-42008: Exploiting A 16-Year-Old Vulnerability In The Linux 6pack Driver | https://github.com/0xdevil/CVE-2021-42008 | | 
+| 20211204T09:29:19Z | CVE-2021-21086 | Null | https://github.com/infobyte/Exploit-CVE-2021-21086 | | 
+| 20211204T07:23:18Z | CVE-2021-42008 | CVE-2021-42008: Exploiting A 16-Year-Old Vulnerability In The Linux 6pack Driver | https://github.com/0xdevil/CVE-2021-42008 | | 
 | 20211203T22:09:34Z | CVE-2021-26084 | Confluence Server Webwork OGNL injection | https://github.com/h3v0x/CVE-2021-26084_Confluence | | 
 | 20211203T14:48:22Z | CVE-2021-26814 | Null | https://github.com/paolorabbito/Internet-Security-Project---CVE-2021-26814 | | 
 | 20211203T14:34:22Z | CVE-2021-3156 | CVE-2021-3156: Sudo heap overflow exploit for Debian 10 | https://github.com/0xdevil/CVE-2021-3156 | | 
@@ -54,14 +55,13 @@
 | 20211203T12:58:17Z | cve-2020-0688 | cve-2020-0688 | https://github.com/Ridter/cve-2020-0688 | | 
 | 20211203T12:09:46Z | CVE-2021-32724 | Null | https://github.com/MaximeSchlegel/CVE-2021-32724-Target | | 
 | 20211203T07:54:32Z | CVE-2021-37832 | CVE 2021-37832 poc | https://github.com/AK-blank/CVE-2021-37832 | | 
-| 20211203T07:39:00Z | CVE-2021-21086 | Null | https://github.com/infobyte/Exploit-CVE-2021-21086 | | 
 | 20211203T05:14:33Z | CVE-2021-21980 | A vulnerability scanner that detects CVE-2021-21980 vulnerabilities. | https://github.com/Osyanina/westone-CVE-2021-21980-scanner | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211203T13:48:13Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1837 | 523| 
+| 20211204T05:41:52Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1839 | 523| 
 | 20211203T10:05:31Z | Null | https://github.com/anaskautsar7/Klee-chan | 0 | 0| 
 | 20211203T06:03:58Z | Null | https://github.com/anaskautsar7/Klee-bot | 0 | 0| 
 | 20211201T19:37:37Z | modern regular expression syntax everywhere with a painless upgrade path | https://github.com/SonOfLilit/kleenexp | 29 | 3| 
@@ -77,31 +77,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211204T03:10:34Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 254 | 478| 
-| 20211204T03:03:13Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
-| 20211204T03:02:03Z | Python library for interacting with in-memory C structures using data mined from binary DWARF debug info. | https://github.com/josconno/moria | 0 | 0| 
-| 20211204T01:32:27Z | Windows LPE 0-day | https://github.com/jbaines-r7/shakeitoff | 3 | 0| 
-| 20211204T00:45:43Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 15| 
-| 20211204T00:42:44Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10388 | 1792| 
-| 20211204T00:38:46Z | This repository include attack types to exploit vulnerabilities in modern browsers. Most of the attacks targeted Google Chrome. It is fully educational purposes. | https://github.com/ermantatar/browsers-autofill-inference-attacks | 0 | 0| 
-| 20211203T23:48:25Z | Fix minecraft common exploits 1.8-1.18 | https://github.com/Orianawoo/Lifepatch | 0 | 0| 
-| 20211203T23:12:36Z | # Race Upload Exploit | https://github.com/jamarir/RaceUploadExploit | 0 | 0| 
-| 20211203T23:10:34Z | Learn Binary Exploitation with sample problems. | https://github.com/Adamkadaban/LearnPwn | 1 | 0| 
+| 20211204T12:45:44Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 15| 
+| 20211204T12:35:18Z | Pentest important small exploitation scripts  | https://github.com/cyberjatin/mynotes | 1 | 0| 
+| 20211204T12:21:38Z | Null | https://github.com/jonaslyk/exploitkitpub | 0 | 0| 
+| 20211204T12:15:51Z | Post Exploitation Tool | https://github.com/d1v1s38z3r0/wallita | 0 | 0| 
+| 20211204T12:14:41Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 255 | 78| 
+| 20211204T12:03:39Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
+| 20211204T12:00:47Z | Exploits Scripts and other tools that are useful during Penetration-Testing or Red Team engagement  | https://github.com/BlackSnufkin/PT-ToolKit | 12 | 6| 
+| 20211204T11:37:15Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 6664 | 1834| 
+| 20211204T11:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10389 | 1792| 
+| 20211204T10:19:51Z | Rodan Exploitation Framework | https://github.com/Etisalat-Egypt/Rodan | 46 | 12| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211204T12:43:18Z | Remote Access Trojan (RAT) | https://github.com/zarkones/damn-simple-rat | 2 | 0| 
+| 20211204T09:19:52Z | During the exploitation phase of a pen test or ethical hacking engagement, you will ultimately need to try to cause code to run on target system computers. Whether accomplished by phishing emails, delivering a payload through an exploit, or social engineering, running code on target computers is part of most penetration tests. That means that you will need to be able to bypass antivirus software or other host-based protection for successful exploitation. The most effective way to avoid antivirus detection on your target%s computers is to create your own customized backdoor. Here is a simple way to evade anti-virus software when creating backdoors! | https://github.com/RoseSecurity/Anti-Virus-Evading-Payloads | 26 | 4| 
+| 20211204T05:24:16Z | Null | https://github.com/mr-quixter/ShellBackdoor | 0 | 1| 
+| 20211204T04:35:42Z | Persistent & Undetectable Malware Backdoor | https://github.com/raunvk/stealthware-backdoor | 18 | 11| 
 | 20211204T02:46:17Z | Codebase for my Level 4 University Project: Static Analysis of Executable Code to Detect Backdoors on IoT Devices | https://github.com/sophieboyle/Symbolic-Execution-for-ARM-Backdoor-Detection | 0 | 0| 
 | 20211204T01:32:06Z | My personal unique wiki for hacking the router firmware used by (Telia)TG799vac Xtream v17.2-MINT delivered from Technicolor  | https://github.com/wuseman/TG799VAC-XTREME-17.2-MINT | 65 | 18| 
 | 20211203T23:28:14Z | Statically-linked ssh server with reverse shell functionality for CTFs and such | https://github.com/Fahrj/reverse-ssh | 423 | 53| 
-| 20211203T22:24:49Z | During the exploitation phase of a pen test or ethical hacking engagement, you will ultimately need to try to cause code to run on target system computers. Whether accomplished by phishing emails, delivering a payload through an exploit, or social engineering, running code on target computers is part of most penetration tests. That means that you will need to be able to bypass antivirus software or other host-based protection for successful exploitation. The most effective way to avoid antivirus detection on your target%s computers is to create your own customized backdoor. Here is a simple way to evade anti-virus software when creating backdoors! | https://github.com/RoseSecurity/Anti-Virus-Evading-Payloads | 24 | 4| 
 | 20211203T21:56:13Z | Experimental and sneaky backdoor patch for OpenSSH Portable.  | https://github.com/Psmths/openssh-backdoor | 0 | 0| 
 | 20211203T17:29:46Z | Null | https://github.com/samuelventura/nerves_backdoor | 0 | 0| 
 | 20211203T15:47:00Z | The project is to design a backdoor detector for BadNets trained on the YouTube Face dataset. | https://github.com/381352903/ML_cyber_project | 1 | 0| 
-| 20211203T09:03:31Z | Unofficial pytorch implementation of RobNet(Defense-Resistant Backdoor Attacks on DNN) | https://github.com/dhkim2810/RobNet | 0 | 0| 
-| 20211203T07:31:48Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 378 | 66| 
-| 20211203T07:11:45Z | High School project that utilizes python machine learning algorithm to find malicious backdoor programs on a Linux system | https://github.com/MizuBon/mlDoora | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -129,16 +129,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211204T01:41:58Z | Fuzzing tool to validate .NET code generation | https://github.com/kunalspathak/Antigen | 1 | 0| 
-| 20211204T01:01:50Z | Attempts to find security vulnerabilities in NetHack via input Fuzzing | https://github.com/recursion-ninja/Superion-YAML | 1 | 3| 
-| 20211204T00:39:53Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1189 | 136| 
-| 20211204T00:37:04Z | fortnight fortnight we like fortnight | https://github.com/JosephJvB/fuzzy-fortnight | 0 | 0| 
-| 20211204T00:36:30Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 613 | 66| 
-| 20211204T00:34:03Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 35 | 12| 
-| 20211204T00:19:59Z | Simple fuzzing tool designed for multi-threaded operation and for testing execution time.  | https://github.com/amitjain-3/twoFuzzingLong | 0 | 0| 
-| 20211204T00:12:04Z | Null | https://github.com/Joseph-Morris/Fuzzy-Match | 0 | 0| 
-| 20211203T23:52:13Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2443 | 150| 
-| 20211203T23:15:48Z | fortnite fortnite | https://github.com/JosephJvB/fuzzy-fortnight2 | 0 | 0| 
+| 20211204T12:45:19Z | Tool to Generate a Fuzzy Real Estate Development Model upon a Site | https://github.com/irawinder/FuzzyBuilder | 2 | 0| 
+| 20211204T12:15:17Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 35 | 12| 
+| 20211204T11:54:38Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
+| 20211204T11:03:35Z | Insert in Bash or ZSH a fuzzily found command-line, file or (recent) directory path at the cursor position. | https://github.com/Konfekt/fuzzyfinders.sh | 2 | 0| 
+| 20211204T11:00:54Z | Null | https://github.com/revansantosono/fuzzy-octo-robot | 0 | 0| 
+| 20211204T10:54:17Z | Null | https://github.com/tsbaki/fuzzing_strings | 0 | 0| 
+| 20211204T10:37:40Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20211204T09:55:56Z | RGB TO CMYK & CMYK TO RGB & HEX TO RGB/CMYK | https://github.com/Arutorando/FuzzyColor | 0 | 0| 
+| 20211204T09:36:08Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
+| 20211204T09:00:31Z | Config files for my GitHub profile. | https://github.com/fuzzythelegend/fuzzythelegend | 0 | 0| 
 
 
 
