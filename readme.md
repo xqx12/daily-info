@@ -45,7 +45,7 @@
 | 20211204T13:03:08Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211204T12:45:44Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 15| 
 | 20211204T12:35:18Z | Pentest important small exploitation scripts  | https://github.com/cyberjatin/mynotes | 1 | 0| 
-| 20211204T12:21:38Z | Null | https://github.com/jonaslyk/exploitkitpub | 0 | 0| 
+| 20211204T12:21:38Z | Null | https://github.com/jonaslyk/exploitkitpub | 0 | 1| 
 | 20211204T12:15:51Z | Post Exploitation Tool | https://github.com/d1v1s38z3r0/wallita | 0 | 0| 
 | 20211204T12:14:41Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 255 | 78| 
 
