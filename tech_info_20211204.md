@@ -38,7 +38,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211204T13:11:07Z | VMware vCenter earlier v(7.0.2.00100) unauthorized arbitrary file read  | https://github.com/dorkerdevil/vcenter_fileread_exploit | 0 | 0| 
+| 20211204T13:13:48Z | VMware vCenter earlier v(7.0.2.00100) unauthorized arbitrary file read  | https://github.com/dorkerdevil/vcenter_fileread_exploit | 0 | 0| 
 | 20211204T13:08:18Z | Domain Engineer or Domaineer is Semi-Auto Bot to gaining data from domains | https://github.com/c0del1ar/Domaineer | 5 | 4| 
 | 20211204T13:03:08Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211204T12:45:44Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 15| 
@@ -77,6 +77,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211204T13:13:20Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211204T13:09:03Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 316 | 43| 
 | 20211204T13:05:27Z | Tool to Generate a Fuzzy Real Estate Development Model upon a Site | https://github.com/irawinder/FuzzyBuilder | 2 | 0| 
 | 20211204T12:15:17Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 35 | 12| 
@@ -84,7 +85,6 @@
 | 20211204T11:03:35Z | Insert in Bash or ZSH a fuzzily found command-line, file or (recent) directory path at the cursor position. | https://github.com/Konfekt/fuzzyfinders.sh | 2 | 0| 
 | 20211204T11:00:54Z | Null | https://github.com/revansantosono/fuzzy-octo-robot | 0 | 0| 
 | 20211204T10:54:17Z | Null | https://github.com/tsbaki/fuzzing_strings | 0 | 0| 
-| 20211204T10:37:40Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211204T09:55:56Z | RGB TO CMYK & CMYK TO RGB & HEX TO RGB/CMYK | https://github.com/Arutorando/FuzzyColor | 0 | 0| 
 | 20211204T09:36:08Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 
