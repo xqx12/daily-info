@@ -31,17 +31,18 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211204T12:56:05Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 188 | 39| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211204T13:03:08Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211204T12:45:44Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 15| 
 | 20211204T12:35:18Z | Pentest important small exploitation scripts  | https://github.com/cyberjatin/mynotes | 1 | 0| 
 | 20211204T12:21:38Z | Null | https://github.com/jonaslyk/exploitkitpub | 0 | 0| 
 | 20211204T12:15:51Z | Post Exploitation Tool | https://github.com/d1v1s38z3r0/wallita | 0 | 0| 
 | 20211204T12:14:41Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 255 | 78| 
-| 20211204T12:03:39Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211204T12:00:47Z | Exploits Scripts and other tools that are useful during Penetration-Testing or Red Team engagement  | https://github.com/BlackSnufkin/PT-ToolKit | 12 | 6| 
 | 20211204T11:37:15Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 6664 | 1834| 
 | 20211204T11:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10389 | 1792| 
