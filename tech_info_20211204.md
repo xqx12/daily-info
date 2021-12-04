@@ -38,7 +38,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211204T14:10:00Z | Null | https://github.com/Halvosa/binary_exploitation | 0 | 0| 
+| 20211204T14:12:27Z | Prevents survivors self healing and reviving players at the same time. | https://github.com/SilvDev/Heal_Revive_Exploit_Bug_Fix | 0 | 0| 
+| 20211204T14:11:55Z | Null | https://github.com/Halvosa/binary_exploitation | 0 | 0| 
 | 20211204T14:07:44Z | Null | https://github.com/jonaslyk/exploitkitpub | 1 | 1| 
 | 20211204T14:03:11Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211204T13:24:07Z | Rodan Exploitation Framework | https://github.com/Etisalat-Egypt/Rodan | 47 | 12| 
@@ -47,7 +48,6 @@
 | 20211204T13:08:18Z | Domain Engineer or Domaineer is Semi-Auto Bot to gaining data from domains | https://github.com/c0del1ar/Domaineer | 5 | 4| 
 | 20211204T12:45:44Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 15| 
 | 20211204T12:35:18Z | Pentest important small exploitation scripts  | https://github.com/cyberjatin/mynotes | 1 | 0| 
-| 20211204T12:15:51Z | Post Exploitation Tool | https://github.com/d1v1s38z3r0/wallita | 0 | 0| 
 
 
 # backdoor on Github 推荐
