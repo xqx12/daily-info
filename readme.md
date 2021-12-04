@@ -33,7 +33,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211203T22:45:30Z | CVE-2021-42008 | CVE-2021-42008: Exploiting A 16-Year-Old Vulnerability In The Linux 6pack Driver | https://github.com/0xdevil/CVE-2021-42008 | | 
 | 20211203T22:09:34Z | CVE-2021-26084 | Confluence Server Webwork OGNL injection | https://github.com/h3v0x/CVE-2021-26084_Confluence | | 
 | 20211203T14:48:22Z | CVE-2021-26814 | Null | https://github.com/paolorabbito/Internet-Security-Project---CVE-2021-26814 | | 
 | 20211203T14:34:22Z | CVE-2021-3156 | CVE-2021-3156: Sudo heap overflow exploit for Debian 10 | https://github.com/0xdevil/CVE-2021-3156 | | 
@@ -43,6 +42,7 @@
 | 20211203T07:54:32Z | CVE-2021-37832 | CVE 2021-37832 poc | https://github.com/AK-blank/CVE-2021-37832 | | 
 | 20211203T07:39:00Z | CVE-2021-21086 | Null | https://github.com/infobyte/Exploit-CVE-2021-21086 | | 
 | 20211203T05:14:33Z | CVE-2021-21980 | A vulnerability scanner that detects CVE-2021-21980 vulnerabilities. | https://github.com/Osyanina/westone-CVE-2021-21980-scanner | | 
+| 20211203T03:56:31Z | CVE-2020-14321 | Python script to exploit CVE-2020-14321 - Moodle 3.9 - Course enrollments allowed privilege escalation from teacher role into manager role to RCE. | https://github.com/lanzt/CVE-2020-14321 | | 
 
 
 # klee on Github 推荐

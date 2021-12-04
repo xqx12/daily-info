@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211203T22:45:30Z | CVE-2021-42008 | CVE-2021-42008: Exploiting A 16-Year-Old Vulnerability In The Linux 6pack Driver | https://github.com/0xdevil/CVE-2021-42008 | | 
+| 20211204T01:53:20Z | CVE-2021-42008 | CVE-2021-42008: Exploiting A 16-Year-Old Vulnerability In The Linux 6pack Driver | https://github.com/0xdevil/CVE-2021-42008 | | 
 | 20211203T22:09:34Z | CVE-2021-26084 | Confluence Server Webwork OGNL injection | https://github.com/h3v0x/CVE-2021-26084_Confluence | | 
 | 20211203T14:48:22Z | CVE-2021-26814 | Null | https://github.com/paolorabbito/Internet-Security-Project---CVE-2021-26814 | | 
 | 20211203T14:34:22Z | CVE-2021-3156 | CVE-2021-3156: Sudo heap overflow exploit for Debian 10 | https://github.com/0xdevil/CVE-2021-3156 | | 
