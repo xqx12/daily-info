@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211203T14:08:30Z | CVE-2021-42008 | CVE-2021-42008: Exploiting A 16-Year-Old Vulnerability In The Linux 6pack Driver | https://github.com/0xdevil/CVE-2021-42008 | | 
+| 20211203T22:45:30Z | CVE-2021-42008 | CVE-2021-42008: Exploiting A 16-Year-Old Vulnerability In The Linux 6pack Driver | https://github.com/0xdevil/CVE-2021-42008 | | 
+| 20211203T22:09:34Z | CVE-2021-26084 | Confluence Server Webwork OGNL injection | https://github.com/h3v0x/CVE-2021-26084_Confluence | | 
+| 20211203T14:48:22Z | CVE-2021-26814 | Null | https://github.com/paolorabbito/Internet-Security-Project---CVE-2021-26814 | | 
+| 20211203T14:34:22Z | CVE-2021-3156 | CVE-2021-3156: Sudo heap overflow exploit for Debian 10 | https://github.com/0xdevil/CVE-2021-3156 | | 
 | 20211203T13:19:29Z | CVE-2021-42008 | Exploiting A 16-Year-Old Vulnerability In The Linux 6pack Driver | https://github.com/numanturle/CVE-2021-42008 | | 
 | 20211203T12:58:17Z | cve-2020-0688 | cve-2020-0688 | https://github.com/Ridter/cve-2020-0688 | | 
 | 20211203T12:09:46Z | CVE-2021-32724 | Null | https://github.com/MaximeSchlegel/CVE-2021-32724-Target | | 
 | 20211203T07:54:32Z | CVE-2021-37832 | CVE 2021-37832 poc | https://github.com/AK-blank/CVE-2021-37832 | | 
 | 20211203T07:39:00Z | CVE-2021-21086 | Null | https://github.com/infobyte/Exploit-CVE-2021-21086 | | 
 | 20211203T05:14:33Z | CVE-2021-21980 | A vulnerability scanner that detects CVE-2021-21980 vulnerabilities. | https://github.com/Osyanina/westone-CVE-2021-21980-scanner | | 
-| 20211203T03:56:31Z | CVE-2020-14321 | Python script to exploit CVE-2020-14321 - Moodle 3.9 - Course enrollments allowed privilege escalation from teacher role into manager role to RCE. | https://github.com/lanzt/CVE-2020-14321 | | 
-| 20211203T00:25:24Z | CVE-2021-42325 | CVE-2021-42325  POC | https://github.com/AK-blank/CVE-2021-42325- | | 
-| 20211203T00:25:23Z | CVE-2021-3156 | Null | https://github.com/musergi/CVE-2021-3156 | | 
 
 
 # klee on Github 推荐
@@ -77,31 +77,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211203T14:09:42Z | Exploiting tifffile in parallel to write ImageJ compatible tiffs with good compression. | https://github.com/wimpomp/tiffwrite | 0 | 0| 
-| 20211203T14:08:30Z | CVE-2021-42008: Exploiting A 16-Year-Old Vulnerability In The Linux 6pack Driver | https://github.com/0xdevil/CVE-2021-42008 | 0 | 0| 
-| 20211203T14:04:48Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 227 | 462| 
-| 20211203T14:03:41Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
-| 20211203T14:01:08Z | Python tool for exploiting CVE-2021-35616  | https://github.com/Ofirhamam/OracleOTM | 0 | 0| 
-| 20211203T13:46:07Z | Learning exploration and exploitation policies in meta-reinforcement learning for robot control problems. (work in progress) | https://github.com/peterdavidfagan/robo-dream | 0 | 0| 
-| 20211203T13:23:04Z | D(HE)ater is a proof of concept implementation of the D(HE)at  attack (CVE-2002-20001) through which denial-of-service can be performed by enforcing the DHE  key exchange. | https://github.com/Balasys/dheater | 76 | 8| 
-| 20211203T13:19:29Z | Exploiting A 16-Year-Old Vulnerability In The Linux 6pack Driver | https://github.com/numanturle/CVE-2021-42008 | 0 | 0| 
-| 20211203T13:15:28Z | Null | https://github.com/DevKitteny/exploits | 0 | 0| 
-| 20211203T13:06:39Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITION | 2 | 0| 
+| 20211204T00:45:43Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 15| 
+| 20211204T00:42:44Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10388 | 1792| 
+| 20211204T00:38:46Z | This repository include attack types to exploit vulnerabilities in modern browsers. Most of the attacks targeted Google Chrome. It is fully educational purposes. | https://github.com/ermantatar/browsers-autofill-inference-attacks | 0 | 0| 
+| 20211204T00:24:06Z | Windows LPE 0-day | https://github.com/jbaines-r7/shakeitoff | 2 | 0| 
+| 20211204T00:03:37Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
+| 20211203T23:48:25Z | Fix minecraft common exploits 1.8-1.18 | https://github.com/Orianawoo/Lifepatch | 0 | 0| 
+| 20211203T23:12:36Z | # Race Upload Exploit | https://github.com/jamarir/RaceUploadExploit | 0 | 0| 
+| 20211203T23:10:34Z | Learn Binary Exploitation with sample problems. | https://github.com/Adamkadaban/LearnPwn | 1 | 0| 
+| 20211203T22:39:32Z | com media mass exploit | https://github.com/elvinac0de/new_com_media_exploiter | 0 | 0| 
+| 20211203T22:37:12Z | com  media mass exploit | https://github.com/elvinac0de/com_media_exploiter | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211203T23:28:14Z | Statically-linked ssh server with reverse shell functionality for CTFs and such | https://github.com/Fahrj/reverse-ssh | 423 | 53| 
+| 20211203T22:24:49Z | During the exploitation phase of a pen test or ethical hacking engagement, you will ultimately need to try to cause code to run on target system computers. Whether accomplished by phishing emails, delivering a payload through an exploit, or social engineering, running code on target computers is part of most penetration tests. That means that you will need to be able to bypass antivirus software or other host-based protection for successful exploitation. The most effective way to avoid antivirus detection on your target%s computers is to create your own customized backdoor. Here is a simple way to evade anti-virus software when creating backdoors! | https://github.com/RoseSecurity/Anti-Virus-Evading-Payloads | 24 | 4| 
+| 20211203T21:56:13Z | Experimental and sneaky backdoor patch for OpenSSH Portable.  | https://github.com/Psmths/openssh-backdoor | 0 | 0| 
+| 20211203T17:29:46Z | Null | https://github.com/samuelventura/nerves_backdoor | 0 | 0| 
+| 20211203T15:47:00Z | The project is to design a backdoor detector for BadNets trained on the YouTube Face dataset. | https://github.com/381352903/ML_cyber_project | 1 | 0| 
 | 20211203T13:34:59Z | My personal unique wiki for hacking the router firmware used by (Telia)TG799vac Xtream v17.2-MINT delivered from Technicolor  | https://github.com/wuseman/TG799VAC-XTREME-17.2-MINT | 65 | 18| 
 | 20211203T09:03:31Z | Unofficial pytorch implementation of RobNet(Defense-Resistant Backdoor Attacks on DNN) | https://github.com/dhkim2810/RobNet | 0 | 0| 
 | 20211203T07:31:48Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 378 | 66| 
 | 20211203T07:11:45Z | High School project that utilizes python machine learning algorithm to find malicious backdoor programs on a Linux system | https://github.com/MizuBon/mlDoora | 0 | 0| 
 | 20211203T06:21:01Z | Database of backdoor passwords used by Malware, uncovered by the Malvuln project. | https://github.com/malvuln/viruscreds | 9 | 2| 
-| 20211203T03:02:54Z | Experimental and sneaky backdoor patch for OpenSSH Portable.  | https://github.com/Psmths/openssh-backdoor | 0 | 0| 
-| 20211202T23:58:12Z | Null | https://github.com/samuelventura/nerves_backdoor | 0 | 0| 
-| 20211202T19:27:09Z | badcat is a tool I%ve made to learn `rust` and analyze anonymous backdoors | https://github.com/yanmarques/badcat | 0 | 0| 
-| 20211202T14:28:10Z | A bash script for checking common open %backdoor% ports | https://github.com/g30rgyth3d4rk/dashboardyports | 0 | 0| 
-| 20211202T12:55:56Z | Remote control software, supported Windows/Unix/MacOS/Linux(x86/x64/mips/arm) | https://github.com/h1zzz/purewater | 5 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -129,16 +129,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211203T14:00:06Z | Null | https://github.com/agoloveichuk/FuzzerLib | 0 | 0| 
-| 20211203T13:56:51Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 3 | 2| 
-| 20211203T13:49:38Z | This project has been created by Code Intelligence to allow you to learn and explore fuzzing for various use cases and technologies. | https://github.com/ci-fuzz/Use-Case-Playground | 0 | 7| 
-| 20211203T13:41:54Z | Project Fuzzy Logic dari mata kuliah Sistem Cerdas 🧠 | https://github.com/bydzen/fuzzy-logic-sc | 1 | 0| 
-| 20211203T13:38:31Z | Null | https://github.com/lijiaying/fuzz | 0 | 0| 
-| 20211203T12:09:29Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 205 | 38| 
-| 20211203T12:07:25Z | With this project, I want to make a blending between Persevere and taPCT. The idea is to find bugs in large amounts of concurrent threading instruction. For that we will first try and identify with this tool some known bugs from emac versions that were not yet corrected. We first model the system call as a set of events and then apply the taPCT algorithm. Later on, we can use fuzzing to give larger system call sequences to our probabilistic scheduling algorithm.  | https://github.com/Ricagraca/taPPCT | 0 | 0| 
-| 20211203T12:02:54Z | Null | https://github.com/AdaLogics/fuzz-introspector | 9 | 1| 
-| 20211203T12:02:19Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 35 | 12| 
-| 20211203T11:39:49Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 12 | 1| 
+| 20211204T01:01:50Z | Attempts to find security vulnerabilities in NetHack via input Fuzzing | https://github.com/recursion-ninja/Superion-YAML | 1 | 3| 
+| 20211204T00:39:53Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1189 | 136| 
+| 20211204T00:37:04Z | fortnight fortnight we like fortnight | https://github.com/JosephJvB/fuzzy-fortnight | 0 | 0| 
+| 20211204T00:36:30Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 613 | 66| 
+| 20211204T00:34:03Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 35 | 12| 
+| 20211204T00:19:59Z | Simple fuzzing tool designed for multi-threaded operation and for testing execution time.  | https://github.com/amitjain-3/twoFuzzingLong | 0 | 0| 
+| 20211204T00:17:21Z | Fuzzing tool to validate .NET code generation | https://github.com/kunalspathak/Antigen | 0 | 0| 
+| 20211204T00:12:04Z | Null | https://github.com/Joseph-Morris/Fuzzy-Match | 0 | 0| 
+| 20211203T23:52:13Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2443 | 150| 
+| 20211203T23:15:48Z | fortnite fortnite | https://github.com/JosephJvB/fuzzy-fortnight2 | 0 | 0| 
 
 
 
