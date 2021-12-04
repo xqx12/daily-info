@@ -38,6 +38,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211204T13:24:07Z | Rodan Exploitation Framework | https://github.com/Etisalat-Egypt/Rodan | 47 | 12| 
+| 20211204T13:20:30Z | Trabajo de fin de grado, esta tool permite al usuario realizar una pequeña auditoria a la hora de escalar privilegios en windows, la herramienta cuenta con un módulo automático, uno manual, y un módulo de búsqueda para encontrar exploits | https://github.com/ErnestoCubo/autoexploit | 1 | 0| 
 | 20211204T13:14:37Z | VMware vCenter earlier v(7.0.2.00100) unauthorized arbitrary file read  | https://github.com/dorkerdevil/vcenter_fileread_exploit | 0 | 0| 
 | 20211204T13:08:18Z | Domain Engineer or Domaineer is Semi-Auto Bot to gaining data from domains | https://github.com/c0del1ar/Domaineer | 5 | 4| 
 | 20211204T13:03:08Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
@@ -46,8 +48,6 @@
 | 20211204T12:21:38Z | Null | https://github.com/jonaslyk/exploitkitpub | 0 | 0| 
 | 20211204T12:15:51Z | Post Exploitation Tool | https://github.com/d1v1s38z3r0/wallita | 0 | 0| 
 | 20211204T12:14:41Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 255 | 78| 
-| 20211204T12:00:47Z | Exploits Scripts and other tools that are useful during Penetration-Testing or Red Team engagement  | https://github.com/BlackSnufkin/PT-ToolKit | 12 | 6| 
-| 20211204T11:37:15Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 6664 | 1834| 
 
 
 # backdoor on Github 推荐
