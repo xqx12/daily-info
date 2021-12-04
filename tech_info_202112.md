@@ -77,11 +77,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211204T01:03:12Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211204T00:45:43Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 15| 
 | 20211204T00:42:44Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10388 | 1792| 
 | 20211204T00:38:46Z | This repository include attack types to exploit vulnerabilities in modern browsers. Most of the attacks targeted Google Chrome. It is fully educational purposes. | https://github.com/ermantatar/browsers-autofill-inference-attacks | 0 | 0| 
 | 20211204T00:24:06Z | Windows LPE 0-day | https://github.com/jbaines-r7/shakeitoff | 2 | 0| 
-| 20211204T00:03:37Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211203T23:48:25Z | Fix minecraft common exploits 1.8-1.18 | https://github.com/Orianawoo/Lifepatch | 0 | 0| 
 | 20211203T23:12:36Z | # Race Upload Exploit | https://github.com/jamarir/RaceUploadExploit | 0 | 0| 
 | 20211203T23:10:34Z | Learn Binary Exploitation with sample problems. | https://github.com/Adamkadaban/LearnPwn | 1 | 0| 
@@ -92,12 +92,12 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211204T01:05:00Z | My personal unique wiki for hacking the router firmware used by (Telia)TG799vac Xtream v17.2-MINT delivered from Technicolor  | https://github.com/wuseman/TG799VAC-XTREME-17.2-MINT | 65 | 18| 
 | 20211203T23:28:14Z | Statically-linked ssh server with reverse shell functionality for CTFs and such | https://github.com/Fahrj/reverse-ssh | 423 | 53| 
 | 20211203T22:24:49Z | During the exploitation phase of a pen test or ethical hacking engagement, you will ultimately need to try to cause code to run on target system computers. Whether accomplished by phishing emails, delivering a payload through an exploit, or social engineering, running code on target computers is part of most penetration tests. That means that you will need to be able to bypass antivirus software or other host-based protection for successful exploitation. The most effective way to avoid antivirus detection on your target%s computers is to create your own customized backdoor. Here is a simple way to evade anti-virus software when creating backdoors! | https://github.com/RoseSecurity/Anti-Virus-Evading-Payloads | 24 | 4| 
 | 20211203T21:56:13Z | Experimental and sneaky backdoor patch for OpenSSH Portable.  | https://github.com/Psmths/openssh-backdoor | 0 | 0| 
 | 20211203T17:29:46Z | Null | https://github.com/samuelventura/nerves_backdoor | 0 | 0| 
 | 20211203T15:47:00Z | The project is to design a backdoor detector for BadNets trained on the YouTube Face dataset. | https://github.com/381352903/ML_cyber_project | 1 | 0| 
-| 20211203T13:34:59Z | My personal unique wiki for hacking the router firmware used by (Telia)TG799vac Xtream v17.2-MINT delivered from Technicolor  | https://github.com/wuseman/TG799VAC-XTREME-17.2-MINT | 65 | 18| 
 | 20211203T09:03:31Z | Unofficial pytorch implementation of RobNet(Defense-Resistant Backdoor Attacks on DNN) | https://github.com/dhkim2810/RobNet | 0 | 0| 
 | 20211203T07:31:48Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 378 | 66| 
 | 20211203T07:11:45Z | High School project that utilizes python machine learning algorithm to find malicious backdoor programs on a Linux system | https://github.com/MizuBon/mlDoora | 0 | 0| 

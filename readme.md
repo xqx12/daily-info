@@ -82,7 +82,6 @@
 | 20211203T21:56:13Z | Experimental and sneaky backdoor patch for OpenSSH Portable.  | https://github.com/Psmths/openssh-backdoor | 0 | 0| 
 | 20211203T17:29:46Z | Null | https://github.com/samuelventura/nerves_backdoor | 0 | 0| 
 | 20211203T15:47:00Z | The project is to design a backdoor detector for BadNets trained on the YouTube Face dataset. | https://github.com/381352903/ML_cyber_project | 1 | 0| 
-| 20211203T13:34:59Z | My personal unique wiki for hacking the router firmware used by (Telia)TG799vac Xtream v17.2-MINT delivered from Technicolor  | https://github.com/wuseman/TG799VAC-XTREME-17.2-MINT | 65 | 18| 
 | 20211203T09:03:31Z | Unofficial pytorch implementation of RobNet(Defense-Resistant Backdoor Attacks on DNN) | https://github.com/dhkim2810/RobNet | 0 | 0| 
 | 20211203T07:31:48Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 378 | 66| 
 | 20211203T07:11:45Z | High School project that utilizes python machine learning algorithm to find malicious backdoor programs on a Linux system | https://github.com/MizuBon/mlDoora | 0 | 0| 
