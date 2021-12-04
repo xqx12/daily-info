@@ -38,16 +38,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211204T14:10:00Z | Null | https://github.com/Halvosa/binary_exploitation | 0 | 0| 
+| 20211204T14:07:44Z | Null | https://github.com/jonaslyk/exploitkitpub | 1 | 1| 
+| 20211204T14:03:11Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211204T13:24:07Z | Rodan Exploitation Framework | https://github.com/Etisalat-Egypt/Rodan | 47 | 12| 
 | 20211204T13:20:30Z | Trabajo de fin de grado, esta tool permite al usuario realizar una pequeña auditoria a la hora de escalar privilegios en windows, la herramienta cuenta con un módulo automático, uno manual, y un módulo de búsqueda para encontrar exploits | https://github.com/ErnestoCubo/autoexploit | 1 | 0| 
 | 20211204T13:14:37Z | VMware vCenter earlier v(7.0.2.00100) unauthorized arbitrary file read  | https://github.com/dorkerdevil/vcenter_fileread_exploit | 0 | 0| 
 | 20211204T13:08:18Z | Domain Engineer or Domaineer is Semi-Auto Bot to gaining data from domains | https://github.com/c0del1ar/Domaineer | 5 | 4| 
-| 20211204T13:03:08Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211204T12:45:44Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 15| 
 | 20211204T12:35:18Z | Pentest important small exploitation scripts  | https://github.com/cyberjatin/mynotes | 1 | 0| 
-| 20211204T12:21:38Z | Null | https://github.com/jonaslyk/exploitkitpub | 0 | 1| 
 | 20211204T12:15:51Z | Post Exploitation Tool | https://github.com/d1v1s38z3r0/wallita | 0 | 0| 
-| 20211204T12:14:41Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 255 | 78| 
 
 
 # backdoor on Github 推荐
@@ -77,7 +77,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211204T14:00:16Z | A project for P ELEC 1 sub @ CTU Main  | https://github.com/CodePhilanthropist/fuzzy-doodle | 0 | 0| 
+| 20211204T14:05:14Z | A project for P ELEC 1 sub @ CTU Main  | https://github.com/CodePhilanthropist/fuzzy-doodle | 0 | 0| 
 | 20211204T13:42:36Z | No Desc For this Moment | https://github.com/FuzzeIO/fuzze.io | 0 | 0| 
 | 20211204T13:33:44Z | The fuzzy octo is good | https://github.com/Chard212/fuzzy-octo-barnacle | 0 | 0| 
 | 20211204T13:25:03Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 316 | 43| 
