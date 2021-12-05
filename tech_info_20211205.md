@@ -41,13 +41,13 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211205T13:03:55Z | Haimgard is an environment for writing, testing and using exploit code. | https://github.com/onuratakan/Haimgard | 1 | 0| 
+| 20211205T13:03:02Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211205T12:53:49Z | Roblox Exploit Hub | https://github.com/GelatekWasTaken/Project-Cat | 0 | 0| 
-| 20211205T12:49:37Z | Haimgard is an environment for writing, testing and using exploit code. | https://github.com/onuratakan/Haimgard | 1 | 0| 
 | 20211205T12:44:03Z | Vulnerability Exploitation Code Collection Repository | https://github.com/0x0021h/expbox | 226 | 40| 
 | 20211205T12:37:15Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4142 | 594| 
 | 20211205T12:19:12Z | Null | https://github.com/Halvosa/binary_exploitation | 0 | 0| 
 | 20211205T12:13:17Z | aerux exploitation framework | https://github.com/Harikeshav-R/aeruxploit | 0 | 0| 
-| 20211205T12:03:16Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211205T11:36:08Z | A collection of JavaScript Codes I%ve made to enhance the User Experience of Discord and some other Discord related stuff | https://github.com/hxr404/Discord-Console-hacks | 127 | 49| 
 | 20211205T11:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10394 | 1793| 
 | 20211205T11:10:02Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITION | 2 | 0| 
@@ -80,6 +80,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211205T13:02:57Z | Null | https://github.com/kalanakt/fuzzy-waffle | 0 | 0| 
+| 20211205T13:01:48Z | My pedalboards | https://github.com/thecatalinstan/pedalboards | 0 | 0| 
 | 20211205T12:49:53Z | Python tool for enumerating directories and for fuzzing | https://github.com/confusedHatHacker/dirEnum | 2 | 0| 
 | 20211205T11:53:52Z | A fuzzer for based UNIX chads | https://github.com/7047payloads/fzz | 0 | 0| 
 | 20211205T11:30:59Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
@@ -88,8 +90,6 @@
 | 20211205T11:12:04Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 615 | 66| 
 | 20211205T10:51:15Z | Null | https://github.com/yrameshra0/fuzzy-doner | 0 | 0| 
 | 20211205T10:48:43Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6880 | 1441| 
-| 20211205T10:47:25Z | Null | https://github.com/kalanakt/fuzzy-waffle | 0 | 0| 
-| 20211205T10:37:50Z | Null | https://github.com/rafibu/fuzzy | 0 | 0| 
 
 
 
