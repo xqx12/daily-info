@@ -132,6 +132,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211205T02:13:15Z | An open-source software package for fuzzing autonomous driving systems in high-fidelity simulators | https://github.com/AIasd/ADFuzz | 0 | 1| 
 | 20211205T01:22:19Z | Null | https://github.com/LeAnnaGraham/fuzzy-eureka | 0 | 0| 
 | 20211205T01:13:39Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2271 | 443| 
 | 20211205T00:05:56Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 35 | 12| 
@@ -141,7 +142,6 @@
 | 20211204T23:26:51Z | A fuzzer that generates random Go programs | https://github.com/ALTree/microsmith | 14 | 0| 
 | 20211204T23:06:34Z | https://github.com/wcventure/FuzzingPaper | https://github.com/mishmashclone/wcventure-FuzzingPaper | 6 | 1| 
 | 20211204T22:55:55Z | Null | https://github.com/andrew-j-millward/SlowerFuzz | 0 | 0| 
-| 20211204T21:47:47Z | CATS is a REST APIs fuzzer and negative testing tool for OpenAPI endpoints. CATS automatically  generates, runs and reports tests with minimum configuration and no coding effort. Tests are self-healing and does not require maintenance. | https://github.com/Endava/cats | 468 | 20| 
 
 
 
