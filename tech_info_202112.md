@@ -79,6 +79,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211205T01:58:19Z | discord vc exploit to lightly lag vcs | https://github.com/Tescoo/discord-vc-lag-exploit | 8 | 1| 
 | 20211205T01:47:10Z | Roblox Exploit Hub | https://github.com/GelatekWasTaken/Project-Cat | 0 | 0| 
 | 20211205T01:45:30Z | Null | https://github.com/bryyx/Blacklist-Exploit | 0 | 0| 
 | 20211205T01:31:14Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 259 | 487| 
@@ -88,7 +89,6 @@
 | 20211205T00:31:15Z | A hub of useful scripts for the 2020 edition of the Booga Booga game on Roblox. Useful for combating hostile exploiters. | https://github.com/thienlongtran/booga-booga-hub | 0 | 0| 
 | 20211205T00:19:58Z | Tornado is a human-in-the-loop machine learning framework that helps you exploit your unlabelled data to train models through a simple and easy to use web interface. | https://github.com/slrbl/human-in-the-loop-machine-learning-tool-tornado | 21 | 8| 
 | 20211205T00:10:23Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10392 | 1793| 
-| 20211205T00:06:45Z | Exploits Scripts and other tools that are useful during Penetration-Testing or Red Team engagement  | https://github.com/BlackSnufkin/PT-ToolKit | 12 | 6| 
 
 
 # backdoor on Github 推荐
