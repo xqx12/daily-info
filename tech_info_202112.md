@@ -79,6 +79,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211205T01:45:10Z | Null | https://github.com/bryyx/Blacklist-Exploit | 0 | 0| 
 | 20211205T01:41:50Z | Roblox Exploit Hub | https://github.com/GelatekWasTaken/Project-Cat | 0 | 0| 
 | 20211205T01:31:14Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 259 | 487| 
 | 20211205T01:03:21Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
@@ -88,7 +89,6 @@
 | 20211205T00:19:58Z | Tornado is a human-in-the-loop machine learning framework that helps you exploit your unlabelled data to train models through a simple and easy to use web interface. | https://github.com/slrbl/human-in-the-loop-machine-learning-tool-tornado | 21 | 8| 
 | 20211205T00:10:23Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10392 | 1793| 
 | 20211205T00:06:45Z | Exploits Scripts and other tools that are useful during Penetration-Testing or Red Team engagement  | https://github.com/BlackSnufkin/PT-ToolKit | 12 | 6| 
-| 20211204T23:49:09Z | The Framework made for red teamers. This framework has a custom Listener module along side a obfuscated payload generator far better and metasploits when it comes to AV Evasion. Soon to be implimenting exploits and auxilary modules aswell If you have any questions or concearns you can reach out to me via discord at ~Kibi~#0001 | https://github.com/K1B0R/K1B0R-Framework | 0 | 0| 
 
 
 # backdoor on Github 推荐
