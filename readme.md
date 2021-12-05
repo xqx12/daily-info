@@ -19,13 +19,15 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211204T13:09:45Z | CVE-2021-42008 | CVE-2021-42008: Exploiting A 16-Year-Old Vulnerability In The Linux 6pack Driver | https://github.com/0xdevil/CVE-2021-42008 | | 
+| 20211204T21:11:44Z | CVE-2021-38314 |  Unauthenticated Sensitive Information Disclosure (CVE-2021–38314). | https://github.com/oxctdev/CVE-2021-38314 | | 
+| 20211204T16:34:55Z | CVE-2021-42008 | CVE-2021-42008: Exploiting A 16-Year-Old Vulnerability In The Linux 6pack Driver | https://github.com/0xdevil/CVE-2021-42008 | | 
 | 20211204T09:29:19Z | CVE-2021-21086 | Null | https://github.com/infobyte/Exploit-CVE-2021-21086 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211204T21:30:11Z | Minecraft Mod. Allows breaking only one half of a double slab block. | https://github.com/ModdingForBlockheads/KleeSlabs | 10 | 3| 
 | 20211204T05:41:52Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1839 | 523| 
 
 
@@ -38,27 +40,29 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211204T14:12:27Z | Prevents survivors self healing and reviving players at the same time. | https://github.com/SilvDev/Heal_Revive_Exploit_Bug_Fix | 0 | 0| 
-| 20211204T14:11:55Z | Null | https://github.com/Halvosa/binary_exploitation | 0 | 0| 
-| 20211204T14:07:44Z | Null | https://github.com/jonaslyk/exploitkitpub | 1 | 1| 
-| 20211204T14:03:11Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
-| 20211204T13:24:07Z | Rodan Exploitation Framework | https://github.com/Etisalat-Egypt/Rodan | 47 | 12| 
-| 20211204T13:20:30Z | Trabajo de fin de grado, esta tool permite al usuario realizar una pequeña auditoria a la hora de escalar privilegios en windows, la herramienta cuenta con un módulo automático, uno manual, y un módulo de búsqueda para encontrar exploits | https://github.com/ErnestoCubo/autoexploit | 1 | 0| 
-| 20211204T13:14:37Z | VMware vCenter earlier v(7.0.2.00100) unauthorized arbitrary file read  | https://github.com/dorkerdevil/vcenter_fileread_exploit | 0 | 0| 
-| 20211204T13:08:18Z | Domain Engineer or Domaineer is Semi-Auto Bot to gaining data from domains | https://github.com/c0del1ar/Domaineer | 5 | 4| 
-| 20211204T12:45:44Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 15| 
-| 20211204T12:35:18Z | Pentest important small exploitation scripts  | https://github.com/cyberjatin/mynotes | 1 | 0| 
+| 20211204T23:49:09Z | The Framework made for red teamers. This framework has a custom Listener module along side a obfuscated payload generator far better and metasploits when it comes to AV Evasion. Soon to be implimenting exploits and auxilary modules aswell If you have any questions or concearns you can reach out to me via discord at ~Kibi~#0001 | https://github.com/K1B0R/K1B0R-Framework | 0 | 0| 
+| 20211204T23:42:00Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4141 | 593| 
+| 20211204T23:14:34Z | Null | https://github.com/PM2Exploit/PM2Exploit | 1 | 0| 
+| 20211204T22:55:08Z | Null | https://github.com/chryskar/karakasis2020exploiting | 0 | 0| 
+| 20211204T22:39:48Z | Haimgard is an environment for writing, testing and using exploit code. | https://github.com/onuratakan/Haimgard | 1 | 0| 
+| 20211204T22:28:55Z | PHP-Fusion Exploit. | https://github.com/not-jlcl/PHP-Fusion-Exploit | 0 | 0| 
+| 20211204T22:16:47Z | Null | https://github.com/Rig-Wizards-Exploit/Rigwizards-exploit | 0 | 0| 
+| 20211204T22:14:24Z | A Roblox exploiting library that looks like nodejs. | https://github.com/Mlemix/roblox.ls | 0 | 0| 
+| 20211204T22:14:13Z | Null | https://github.com/Halvosa/binary_exploitation | 0 | 0| 
+| 20211204T20:53:31Z | Useful scripts to exploit Hack The Box retired machines/challenges | https://github.com/7Rocky/HackTheBox-scripts | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211204T23:06:56Z | My personal unique wiki for hacking the router firmware used by (Telia)TG799vac Xtream v17.2-MINT delivered from Technicolor  | https://github.com/wuseman/TG799VAC-XTREME-17.2-MINT | 65 | 18| 
+| 20211204T20:15:42Z | Python-based Backdoor. | https://github.com/Senc3951/Backdoor | 0 | 1| 
+| 20211204T16:41:05Z | The insane hackerman backdoor. | https://github.com/Bakdooro/Bakdooro | 10 | 2| 
 | 20211204T12:43:18Z | Remote Access Trojan (RAT) | https://github.com/zarkones/damn-simple-rat | 2 | 0| 
 | 20211204T09:19:52Z | During the exploitation phase of a pen test or ethical hacking engagement, you will ultimately need to try to cause code to run on target system computers. Whether accomplished by phishing emails, delivering a payload through an exploit, or social engineering, running code on target computers is part of most penetration tests. That means that you will need to be able to bypass antivirus software or other host-based protection for successful exploitation. The most effective way to avoid antivirus detection on your target%s computers is to create your own customized backdoor. Here is a simple way to evade anti-virus software when creating backdoors! | https://github.com/RoseSecurity/Anti-Virus-Evading-Payloads | 26 | 4| 
 | 20211204T05:24:16Z | Null | https://github.com/mr-quixter/ShellBackdoor | 0 | 1| 
 | 20211204T04:35:42Z | Persistent & Undetectable Malware Backdoor | https://github.com/raunvk/stealthware-backdoor | 18 | 11| 
 | 20211204T02:46:17Z | Codebase for my Level 4 University Project: Static Analysis of Executable Code to Detect Backdoors on IoT Devices | https://github.com/sophieboyle/Symbolic-Execution-for-ARM-Backdoor-Detection | 0 | 0| 
-| 20211204T01:32:06Z | My personal unique wiki for hacking the router firmware used by (Telia)TG799vac Xtream v17.2-MINT delivered from Technicolor  | https://github.com/wuseman/TG799VAC-XTREME-17.2-MINT | 65 | 18| 
 
 
 # symbolic execution on Github 推荐
@@ -77,16 +81,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211204T14:05:14Z | A project for P ELEC 1 sub @ CTU Main  | https://github.com/CodePhilanthropist/fuzzy-doodle | 0 | 0| 
-| 20211204T13:42:36Z | No Desc For this Moment | https://github.com/FuzzeIO/fuzze.io | 0 | 0| 
-| 20211204T13:33:44Z | The fuzzy octo is good | https://github.com/Chard212/fuzzy-octo-barnacle | 0 | 0| 
-| 20211204T13:25:03Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 316 | 43| 
-| 20211204T13:21:15Z | Tool to Generate a Fuzzy Real Estate Development Model upon a Site | https://github.com/irawinder/FuzzyBuilder | 2 | 0| 
-| 20211204T13:13:20Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20211204T12:15:17Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 35 | 12| 
-| 20211204T11:54:38Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
-| 20211204T11:03:35Z | Insert in Bash or ZSH a fuzzily found command-line, file or (recent) directory path at the cursor position. | https://github.com/Konfekt/fuzzyfinders.sh | 2 | 0| 
-| 20211204T11:00:54Z | Null | https://github.com/revansantosono/fuzzy-octo-robot | 0 | 0| 
+| 20211204T23:52:05Z | Implementation of fuzzy logic to evaluate student performance, fuzzy logic is base oppose to computer language which is either 0 or 1, fuzzy logic tends to give partial truth in a human language. Tags, SOFT SET, FUZZY SET etc | https://github.com/Solomon198/Fuzzy-Logic-Nextjs | 0 | 0| 
+| 20211204T23:35:59Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
+| 20211204T23:28:22Z | Null | https://github.com/sba6/SlowFuzzMods | 1 | 0| 
+| 20211204T23:26:51Z | A fuzzer that generates random Go programs | https://github.com/ALTree/microsmith | 14 | 0| 
+| 20211204T23:06:34Z | https://github.com/wcventure/FuzzingPaper | https://github.com/mishmashclone/wcventure-FuzzingPaper | 6 | 1| 
+| 20211204T22:55:55Z | Null | https://github.com/andrew-j-millward/SlowerFuzz | 0 | 0| 
+| 20211204T21:47:47Z | CATS is a REST APIs fuzzer and negative testing tool for OpenAPI endpoints. CATS automatically  generates, runs and reports tests with minimum configuration and no coding effort. Tests are self-healing and does not require maintenance. | https://github.com/Endava/cats | 468 | 20| 
+| 20211204T21:38:03Z | Asynchronous fuzzy finder in vim9script | https://github.com/kohnish/vim9-fuzzy | 0 | 0| 
+| 20211204T21:33:57Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20211204T20:18:55Z | Leetcode solutions. | https://github.com/chaitanyks/fuzzy-disco | 0 | 0| 
 
 
 
