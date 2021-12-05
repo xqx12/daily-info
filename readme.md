@@ -41,7 +41,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211205T13:27:21Z | Haimgard is an environment for writing, testing and using exploit code. | https://github.com/onuratakan/Haimgard | 1 | 0| 
+| 20211205T13:28:55Z | Haimgard is an environment for writing, testing and using exploit code. | https://github.com/onuratakan/Haimgard | 1 | 0| 
 | 20211205T13:14:51Z | Roblox Exploit Hub | https://github.com/GelatekWasTaken/Project-Cat | 0 | 0| 
 | 20211205T13:03:02Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211205T12:44:03Z | Vulnerability Exploitation Code Collection Repository | https://github.com/0x0021h/expbox | 226 | 40| 
@@ -81,7 +81,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211205T13:28:57Z | Asynchronous fuzzy finder in vim9script | https://github.com/kohnish/vim9-fuzzy | 0 | 0| 
+| 20211205T13:30:39Z | Asynchronous fuzzy finder in vim9script | https://github.com/kohnish/vim9-fuzzy | 0 | 0| 
 | 20211205T13:22:04Z | Takagi Sugeno Kang fuzzu model + FCM clustering  | https://github.com/nikimax/Fuzzu_Models_TSK | 0 | 0| 
 | 20211205T13:11:39Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211205T13:02:57Z | Null | https://github.com/kalanakt/fuzzy-waffle | 0 | 0| 
