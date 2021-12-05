@@ -96,6 +96,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211205T13:08:21Z | backdoor-apk is a shell script that simplifies the process of adding a backdoor to any Android APK file. Users of this shell script should have working knowledge of Linux, Bash, Metasploit, Apktool, the Android SDK, smali, etc. This shell script is provided as-is without warranty of any kind and is intended for educational purposes only. | https://github.com/dana-at-cp/backdoor-apk | 1761 | 669| 
 | 20211205T12:38:39Z | Null | https://github.com/defaultcrypter/backdoor-python-CodeSimple-hacking | 1 | 0| 
 | 20211205T10:56:06Z | Poweshell backdoor metasploit  | https://github.com/crypt0n-root/powershell-backdoor | 0 | 0| 
 | 20211205T07:50:39Z | During the exploitation phase of a pen test or ethical hacking engagement, you will ultimately need to try to cause code to run on target system computers. Whether accomplished by phishing emails, delivering a payload through an exploit, or social engineering, running code on target computers is part of most penetration tests. That means that you will need to be able to bypass antivirus software or other host-based protection for successful exploitation. The most effective way to avoid antivirus detection on your target%s computers is to create your own customized backdoor. Here is a simple way to evade anti-virus software when creating backdoors! | https://github.com/RoseSecurity/Anti-Virus-Evading-Payloads | 28 | 4| 
@@ -105,7 +106,6 @@
 | 20211204T20:15:42Z | Python-based Backdoor. | https://github.com/Senc3951/Backdoor | 0 | 1| 
 | 20211204T16:41:05Z | The insane hackerman backdoor. | https://github.com/Bakdooro/Bakdooro | 10 | 2| 
 | 20211204T12:43:18Z | Remote Access Trojan (RAT) | https://github.com/zarkones/damn-simple-rat | 2 | 0| 
-| 20211204T05:24:16Z | Null | https://github.com/mr-quixter/ShellBackdoor | 0 | 1| 
 
 
 # symbolic execution on Github 推荐
