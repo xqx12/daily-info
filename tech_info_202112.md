@@ -31,6 +31,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20211205 | 利用轻量级权限系统遏制恶意NPM软件包更新 | https://mp.weixin.qq.com/s/XTbY3plfEpuPhYc7KQdnaA| 
 | 20211204 | 从研究工控设备到发现供应链威胁 | https://mp.weixin.qq.com/s/-ihOJFNP5OaTy6BNr2uxrA| 
 | 20211204 | 数据中心智能安全运营体系建设探索与实践 | https://mp.weixin.qq.com/s/omM1xphG_ie9GDjsu34s3w| 
 | 20211204 | 基于多模态学习的视觉实体链接 | https://mp.weixin.qq.com/s/wX4g3o7vdz2NJ18TKIUkqA| 
@@ -40,27 +41,28 @@
 | 20211203 | Linux 与 XNU 的 KPTI 实现解读 | https://paper.seebug.org/1770/| 
 | 20211203 | 安卓 APT 间谍软件 GnatSpy 分析 | https://paper.seebug.org/1771/| 
 | 20211203 | CVE-2021-22205 GitLab RCE之未授权访问深入分析(一) | http://blog.topsec.com.cn/cve-2021-22205-gitlab-rce%e4%b9%8b%e6%9c%aa%e6%8e%88%e6%9d%83%e8%ae%bf%e9%97%ae%e6%b7%b1%e5%85%a5%e5%88%86%e6%9e%90%e4%b8%80/| 
-| 20211203 | 域前置溯源方法思考 | https://www.anquanke.com/post/id/260888| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211204T21:11:44Z | CVE-2021-38314 |  Unauthenticated Sensitive Information Disclosure (CVE-2021–38314). | https://github.com/oxctdev/CVE-2021-38314 | | 
-| 20211204T16:34:55Z | CVE-2021-42008 | CVE-2021-42008: Exploiting A 16-Year-Old Vulnerability In The Linux 6pack Driver | https://github.com/0xdevil/CVE-2021-42008 | | 
+| 20211205T10:17:13Z | CVE-2021-42008 | CVE-2021-42008: Exploiting A 16-Year-Old Vulnerability In The Linux 6pack Driver | https://github.com/0xdevil/CVE-2021-42008 | | 
+| 20211205T06:19:25Z | CVE-2021-21980 | A vulnerability scanner that detects CVE-2021-21980 vulnerabilities. | https://github.com/Osyanina/westone-CVE-2021-21980-scanner | | 
+| 20211205T06:19:08Z | CVE-2021-37832 | CVE 2021-37832 poc | https://github.com/AK-blank/CVE-2021-37832 | | 
+| 20211205T06:18:59Z | CVE-2021-42008 | Exploiting A 16-Year-Old Vulnerability In The Linux 6pack Driver | https://github.com/numanturle/CVE-2021-42008 | | 
+| 20211205T06:18:21Z | CVE-2021-3156 | CVE-2021-3156: Sudo heap overflow exploit for Debian 10 | https://github.com/0xdevil/CVE-2021-3156 | | 
+| 20211205T06:17:37Z | CVE-2021-38314 |  Unauthenticated Sensitive Information Disclosure (CVE-2021–38314). | https://github.com/oxctdev/CVE-2021-38314 | | 
+| 20211205T05:45:02Z | CVE-2021-41081 | N-DAY VULNERABILITY RESEARCH (FROM PATCH TO EXPLOIT ANALYSIS OF CVE-2021-41081) | https://github.com/sudaiv/CVE-2021-41081 | | 
 | 20211204T09:29:19Z | CVE-2021-21086 | Null | https://github.com/infobyte/Exploit-CVE-2021-21086 | | 
 | 20211203T22:09:34Z | CVE-2021-26084 | Confluence Server Webwork OGNL injection | https://github.com/h3v0x/CVE-2021-26084_Confluence | | 
 | 20211203T14:48:22Z | CVE-2021-26814 | Null | https://github.com/paolorabbito/Internet-Security-Project---CVE-2021-26814 | | 
-| 20211203T14:34:22Z | CVE-2021-3156 | CVE-2021-3156: Sudo heap overflow exploit for Debian 10 | https://github.com/0xdevil/CVE-2021-3156 | | 
-| 20211203T13:19:29Z | CVE-2021-42008 | Exploiting A 16-Year-Old Vulnerability In The Linux 6pack Driver | https://github.com/numanturle/CVE-2021-42008 | | 
-| 20211203T12:58:17Z | cve-2020-0688 | cve-2020-0688 | https://github.com/Ridter/cve-2020-0688 | | 
-| 20211203T12:09:46Z | CVE-2021-32724 | Null | https://github.com/MaximeSchlegel/CVE-2021-32724-Target | | 
-| 20211203T07:54:32Z | CVE-2021-37832 | CVE 2021-37832 poc | https://github.com/AK-blank/CVE-2021-37832 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211205T12:04:47Z | Null | https://github.com/kleefi/kleefi.github.io | 0 | 0| 
+| 20211205T06:54:09Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
 | 20211204T21:30:11Z | Minecraft Mod. Allows breaking only one half of a double slab block. | https://github.com/ModdingForBlockheads/KleeSlabs | 10 | 3| 
 | 20211204T05:41:52Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1839 | 523| 
 | 20211203T10:05:31Z | Null | https://github.com/anaskautsar7/Klee-chan | 0 | 0| 
@@ -79,31 +81,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211205T03:03:11Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
-| 20211205T02:17:25Z | discord vc exploit to lightly lag vcs | https://github.com/Tescoo/discord-vc-lag-exploit | 8 | 1| 
-| 20211205T02:12:00Z | Buffer Overflow para SLmail5.5 32 bits | https://github.com/luijait/SLmail5.5-Exploit-BoF | 14 | 0| 
-| 20211205T02:10:07Z | Roblox Exploit Hub | https://github.com/GelatekWasTaken/Project-Cat | 0 | 0| 
-| 20211205T01:45:30Z | Null | https://github.com/bryyx/Blacklist-Exploit | 0 | 0| 
-| 20211205T01:31:14Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 259 | 486| 
-| 20211205T00:51:51Z | Random lua things for roblox exploiting lolye | https://github.com/DontAltF4/RandomProjects | 0 | 0| 
-| 20211205T00:48:29Z | iReady is awful. It%s the worst education tool anyone could ever use. This program is designed to skip through iReady lessons/quizzes/time requirements or whatever. | https://github.com/cupiditys/iReady-Overload | 20 | 15| 
-| 20211205T00:31:15Z | A hub of useful scripts for the 2020 edition of the Booga Booga game on Roblox. Useful for combating hostile exploiters. | https://github.com/thienlongtran/booga-booga-hub | 0 | 0| 
-| 20211205T00:19:58Z | Tornado is a human-in-the-loop machine learning framework that helps you exploit your unlabelled data to train models through a simple and easy to use web interface. | https://github.com/slrbl/human-in-the-loop-machine-learning-tool-tornado | 21 | 8| 
+| 20211205T12:53:49Z | Roblox Exploit Hub | https://github.com/GelatekWasTaken/Project-Cat | 0 | 0| 
+| 20211205T12:49:37Z | Haimgard is an environment for writing, testing and using exploit code. | https://github.com/onuratakan/Haimgard | 1 | 0| 
+| 20211205T12:44:03Z | Vulnerability Exploitation Code Collection Repository | https://github.com/0x0021h/expbox | 226 | 40| 
+| 20211205T12:37:15Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4142 | 594| 
+| 20211205T12:19:12Z | Null | https://github.com/Halvosa/binary_exploitation | 0 | 0| 
+| 20211205T12:13:17Z | aerux exploitation framework | https://github.com/Harikeshav-R/aeruxploit | 0 | 0| 
+| 20211205T12:03:16Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
+| 20211205T11:36:08Z | A collection of JavaScript Codes I%ve made to enhance the User Experience of Discord and some other Discord related stuff | https://github.com/hxr404/Discord-Console-hacks | 127 | 49| 
+| 20211205T11:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10394 | 1793| 
+| 20211205T11:10:02Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITION | 2 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211205T12:38:39Z | Null | https://github.com/defaultcrypter/backdoor-python-CodeSimple-hacking | 1 | 0| 
+| 20211205T10:56:06Z | Poweshell backdoor metasploit  | https://github.com/crypt0n-root/powershell-backdoor | 0 | 0| 
+| 20211205T07:50:39Z | During the exploitation phase of a pen test or ethical hacking engagement, you will ultimately need to try to cause code to run on target system computers. Whether accomplished by phishing emails, delivering a payload through an exploit, or social engineering, running code on target computers is part of most penetration tests. That means that you will need to be able to bypass antivirus software or other host-based protection for successful exploitation. The most effective way to avoid antivirus detection on your target%s computers is to create your own customized backdoor. Here is a simple way to evade anti-virus software when creating backdoors! | https://github.com/RoseSecurity/Anti-Virus-Evading-Payloads | 28 | 4| 
+| 20211205T07:20:29Z | Null | https://github.com/PiterIvano/BackDoor | 1 | 0| 
 | 20211205T03:18:56Z | My personal unique wiki for hacking the router firmware used by (Telia)TG799vac Xtream v17.2-MINT delivered from Technicolor  | https://github.com/wuseman/TG799VAC-XTREME-17.2-MINT | 65 | 18| 
 | 20211205T01:03:59Z | Null | https://github.com/samuelventura/nerves_backdoor | 0 | 0| 
 | 20211204T20:15:42Z | Python-based Backdoor. | https://github.com/Senc3951/Backdoor | 0 | 1| 
 | 20211204T16:41:05Z | The insane hackerman backdoor. | https://github.com/Bakdooro/Bakdooro | 10 | 2| 
 | 20211204T12:43:18Z | Remote Access Trojan (RAT) | https://github.com/zarkones/damn-simple-rat | 2 | 0| 
-| 20211204T09:19:52Z | During the exploitation phase of a pen test or ethical hacking engagement, you will ultimately need to try to cause code to run on target system computers. Whether accomplished by phishing emails, delivering a payload through an exploit, or social engineering, running code on target computers is part of most penetration tests. That means that you will need to be able to bypass antivirus software or other host-based protection for successful exploitation. The most effective way to avoid antivirus detection on your target%s computers is to create your own customized backdoor. Here is a simple way to evade anti-virus software when creating backdoors! | https://github.com/RoseSecurity/Anti-Virus-Evading-Payloads | 26 | 4| 
 | 20211204T05:24:16Z | Null | https://github.com/mr-quixter/ShellBackdoor | 0 | 1| 
-| 20211204T04:35:42Z | Persistent & Undetectable Malware Backdoor | https://github.com/raunvk/stealthware-backdoor | 18 | 11| 
-| 20211204T02:46:17Z | Codebase for my Level 4 University Project: Static Analysis of Executable Code to Detect Backdoors on IoT Devices | https://github.com/sophieboyle/Symbolic-Execution-for-ARM-Backdoor-Detection | 0 | 0| 
-| 20211203T23:28:14Z | Statically-linked ssh server with reverse shell functionality for CTFs and such | https://github.com/Fahrj/reverse-ssh | 423 | 53| 
 
 
 # symbolic execution on Github 推荐
@@ -132,16 +134,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211205T02:13:15Z | An open-source software package for fuzzing autonomous driving systems in high-fidelity simulators | https://github.com/AIasd/ADFuzz | 0 | 1| 
-| 20211205T01:22:19Z | Null | https://github.com/LeAnnaGraham/fuzzy-eureka | 0 | 0| 
-| 20211205T01:13:39Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2271 | 443| 
-| 20211205T00:05:56Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 35 | 12| 
-| 20211204T23:52:05Z | Implementation of fuzzy logic to evaluate student performance, fuzzy logic is base oppose to computer language which is either 0 or 1, fuzzy logic tends to give partial truth in a human language. Tags, SOFT SET, FUZZY SET etc | https://github.com/Solomon198/Fuzzy-Logic-Nextjs | 0 | 0| 
-| 20211204T23:35:59Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
-| 20211204T23:28:22Z | Null | https://github.com/sba6/SlowFuzzMods | 1 | 0| 
-| 20211204T23:26:51Z | A fuzzer that generates random Go programs | https://github.com/ALTree/microsmith | 14 | 0| 
-| 20211204T23:06:34Z | https://github.com/wcventure/FuzzingPaper | https://github.com/mishmashclone/wcventure-FuzzingPaper | 6 | 1| 
-| 20211204T22:55:55Z | Null | https://github.com/andrew-j-millward/SlowerFuzz | 0 | 0| 
+| 20211205T12:49:53Z | Python tool for enumerating directories and for fuzzing | https://github.com/confusedHatHacker/dirEnum | 2 | 0| 
+| 20211205T11:53:52Z | A fuzzer for based UNIX chads | https://github.com/7047payloads/fzz | 0 | 0| 
+| 20211205T11:30:59Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20211205T11:27:53Z | Null | https://github.com/gungnir479/fuzzJIT | 0 | 0| 
+| 20211205T11:15:02Z | Asynchronous fuzzy finder in vim9script | https://github.com/kohnish/vim9-fuzzy | 0 | 0| 
+| 20211205T11:12:04Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 615 | 66| 
+| 20211205T10:51:15Z | Null | https://github.com/yrameshra0/fuzzy-doner | 0 | 0| 
+| 20211205T10:48:43Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6880 | 1441| 
+| 20211205T10:47:25Z | Null | https://github.com/kalanakt/fuzzy-waffle | 0 | 0| 
+| 20211205T10:37:50Z | Null | https://github.com/rafibu/fuzzy | 0 | 0| 
 
 
 
