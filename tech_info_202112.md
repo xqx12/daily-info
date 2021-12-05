@@ -79,11 +79,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211205T02:01:01Z | discord vc exploit to lightly lag vcs | https://github.com/Tescoo/discord-vc-lag-exploit | 8 | 1| 
+| 20211205T02:03:44Z | discord vc exploit to lightly lag vcs | https://github.com/Tescoo/discord-vc-lag-exploit | 8 | 1| 
+| 20211205T02:03:12Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211205T01:47:10Z | Roblox Exploit Hub | https://github.com/GelatekWasTaken/Project-Cat | 0 | 0| 
 | 20211205T01:45:30Z | Null | https://github.com/bryyx/Blacklist-Exploit | 0 | 0| 
 | 20211205T01:31:14Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 259 | 487| 
-| 20211205T01:03:21Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211205T00:51:51Z | Random lua things for roblox exploiting lolye | https://github.com/DontAltF4/RandomProjects | 0 | 0| 
 | 20211205T00:48:29Z | iReady is awful. It%s the worst education tool anyone could ever use. This program is designed to skip through iReady lessons/quizzes/time requirements or whatever. | https://github.com/cupiditys/iReady-Overload | 20 | 15| 
 | 20211205T00:31:15Z | A hub of useful scripts for the 2020 edition of the Booga Booga game on Roblox. Useful for combating hostile exploiters. | https://github.com/thienlongtran/booga-booga-hub | 0 | 0| 
