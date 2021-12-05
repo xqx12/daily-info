@@ -41,8 +41,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211205T13:10:52Z | Roblox Exploit Hub | https://github.com/GelatekWasTaken/Project-Cat | 0 | 0| 
-| 20211205T13:03:55Z | Haimgard is an environment for writing, testing and using exploit code. | https://github.com/onuratakan/Haimgard | 1 | 0| 
+| 20211205T13:14:51Z | Roblox Exploit Hub | https://github.com/GelatekWasTaken/Project-Cat | 0 | 0| 
+| 20211205T13:14:27Z | Haimgard is an environment for writing, testing and using exploit code. | https://github.com/onuratakan/Haimgard | 1 | 0| 
 | 20211205T13:03:02Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211205T12:44:03Z | Vulnerability Exploitation Code Collection Repository | https://github.com/0x0021h/expbox | 226 | 40| 
 | 20211205T12:37:15Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4142 | 594| 
