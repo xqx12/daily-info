@@ -41,7 +41,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211205T13:10:06Z | Roblox Exploit Hub | https://github.com/GelatekWasTaken/Project-Cat | 0 | 0| 
+| 20211205T13:10:52Z | Roblox Exploit Hub | https://github.com/GelatekWasTaken/Project-Cat | 0 | 0| 
 | 20211205T13:03:55Z | Haimgard is an environment for writing, testing and using exploit code. | https://github.com/onuratakan/Haimgard | 1 | 0| 
 | 20211205T13:03:02Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
 | 20211205T12:44:03Z | Vulnerability Exploitation Code Collection Repository | https://github.com/0x0021h/expbox | 226 | 40| 
@@ -81,12 +81,12 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211205T13:11:39Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211205T13:10:59Z | Asynchronous fuzzy finder in vim9script | https://github.com/kohnish/vim9-fuzzy | 0 | 0| 
 | 20211205T13:02:57Z | Null | https://github.com/kalanakt/fuzzy-waffle | 0 | 0| 
 | 20211205T13:01:48Z | My pedalboards | https://github.com/thecatalinstan/pedalboards | 0 | 0| 
 | 20211205T12:49:53Z | Python tool for enumerating directories and for fuzzing | https://github.com/confusedHatHacker/dirEnum | 2 | 0| 
 | 20211205T11:53:52Z | A fuzzer for based UNIX chads | https://github.com/7047payloads/fzz | 0 | 0| 
-| 20211205T11:30:59Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211205T11:27:53Z | Null | https://github.com/gungnir479/fuzzJIT | 0 | 0| 
 | 20211205T11:12:04Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 615 | 66| 
 | 20211205T10:51:15Z | Null | https://github.com/yrameshra0/fuzzy-doner | 0 | 0| 
