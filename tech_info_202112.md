@@ -79,7 +79,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211205T01:58:19Z | discord vc exploit to lightly lag vcs | https://github.com/Tescoo/discord-vc-lag-exploit | 8 | 1| 
+| 20211205T02:01:01Z | discord vc exploit to lightly lag vcs | https://github.com/Tescoo/discord-vc-lag-exploit | 8 | 1| 
 | 20211205T01:47:10Z | Roblox Exploit Hub | https://github.com/GelatekWasTaken/Project-Cat | 0 | 0| 
 | 20211205T01:45:30Z | Null | https://github.com/bryyx/Blacklist-Exploit | 0 | 0| 
 | 20211205T01:31:14Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 259 | 487| 
