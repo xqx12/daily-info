@@ -137,6 +137,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211206T01:19:21Z | Null | https://github.com/brotherweekkim/fuzzy-engine | 0 | 0| 
 | 20211206T00:59:12Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 620 | 66| 
 | 20211206T00:48:27Z | Python fuzzing script  | https://github.com/Mohammad-Sarker/Mutational-Fuzzer | 0 | 0| 
 | 20211206T00:39:45Z | A random program generator for fuzzing WGSL | https://github.com/hasali19/WGSLsmith | 0 | 0| 
@@ -146,7 +147,6 @@
 | 20211206T00:07:23Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 35 | 12| 
 | 20211205T23:19:31Z | Null | https://github.com/ys-zhang/filter-fuzz | 0 | 0| 
 | 20211205T22:47:10Z | Scholar homework in %temas selectos de sistemas% by Saturnino Job Morales Escobar | https://github.com/ulisesSan/fuzzy-cmeans-algorithm-android | 0 | 0| 
-| 20211205T22:46:01Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6880 | 1441| 
 
 
 
