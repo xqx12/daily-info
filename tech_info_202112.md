@@ -138,6 +138,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211206T13:08:48Z | Null | https://github.com/ef43tergerg/fuzzy-parakeet | 0 | 0| 
 | 20211206T12:57:51Z | Null | https://github.com/f-atwi/fuzzy-neural-interactive-agent | 1 | 0| 
 | 20211206T12:52:58Z | This repository contains the source code related to the conference paper Bias Quantification for Protected Features in Pattern Classification Problems published at the 25th Iberoamerican Congress on Pattern Recognition in March 2021. | https://github.com/LisaKouts/fuzzy-rough-Uncertainty-Bias | 0 | 0| 
 | 20211206T12:48:45Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 624 | 66| 
@@ -147,7 +148,6 @@
 | 20211206T11:41:32Z | Null | https://github.com/tingjinting/fuzzy-pancake.github.io | 0 | 0| 
 | 20211206T11:14:44Z | Null | https://github.com/Abdelrahmankhalil540/Fuzzy-C-Means- | 0 | 0| 
 | 20211206T11:09:16Z | Prototype of the paper %APICraft: Fuzz Driver Generation for Closed-source SDK Libraries%. | https://github.com/occia/apicraft | 1 | 0| 
-| 20211206T10:37:27Z | This study aims to design a safe distance detection system as a warning when the minibus will park by using ultrasonic sensors to detect objects in the vicinity that are reached and using a microcontroller as the brain of the control system process so that it can be used to build electronic systems. | https://github.com/bydzen/safetyParking_fuzzy_hcsr04_ino | 0 | 0| 
 
 
 
