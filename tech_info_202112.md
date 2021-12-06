@@ -138,8 +138,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211206T14:00:28Z | Python tool for enumerating directories and for fuzzing | https://github.com/confusedHatHacker/dirHunter | 2 | 0| 
 | 20211206T13:56:33Z | Null | https://github.com/gungnir479/fuzzJIT | 0 | 0| 
-| 20211206T13:56:21Z | Python tool for enumerating directories and for fuzzing | https://github.com/confusedHatHacker/dirHunter | 2 | 0| 
 | 20211206T13:55:25Z | Python tool for enumerating directories and for fuzzing | https://github.com/confusedHatHacker/dirCrack | 2 | 0| 
 | 20211206T13:46:26Z | Null | https://github.com/shoobiedoo/Fuzzy-Logic-Breast-Cancer-the-Classification | 0 | 0| 
 | 20211206T13:44:24Z | Find all keywords for your subdomain or folder search | https://github.com/Proviesec/nlp-website-string-miner-for-fuzzing | 1 | 0| 
