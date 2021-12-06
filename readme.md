@@ -94,8 +94,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211206T13:55:25Z | Python tool for enumerating directories and for fuzzing | https://github.com/confusedHatHacker/dirCrack | 2 | 0| 
 | 20211206T13:46:26Z | Null | https://github.com/shoobiedoo/Fuzzy-Logic-Breast-Cancer-the-Classification | 0 | 0| 
-| 20211206T13:46:13Z | Python tool for enumerating directories and for fuzzing | https://github.com/confusedHatHacker/dirCrack | 2 | 0| 
 | 20211206T13:44:24Z | Find all keywords for your subdomain or folder search | https://github.com/Proviesec/nlp-website-string-miner-for-fuzzing | 1 | 0| 
 | 20211206T13:29:42Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3825 | 899| 
 | 20211206T13:27:38Z | Null | https://github.com/aset4ferhger/fuzzy-parakeet | 0 | 0| 
