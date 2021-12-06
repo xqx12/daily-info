@@ -138,7 +138,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211206T13:19:16Z | Null | https://github.com/ef43tergerg/fuzzy-parakeet | 0 | 0| 
+| 20211206T13:24:40Z | Null | https://github.com/ef43tergerg/fuzzy-parakeet | 0 | 0| 
 | 20211206T13:13:28Z | Null | https://github.com/aset4ferhger/fuzzy-parakeet | 0 | 0| 
 | 20211206T12:57:51Z | Null | https://github.com/f-atwi/fuzzy-neural-interactive-agent | 1 | 0| 
 | 20211206T12:52:58Z | This repository contains the source code related to the conference paper Bias Quantification for Protected Features in Pattern Classification Problems published at the 25th Iberoamerican Congress on Pattern Recognition in March 2021. | https://github.com/LisaKouts/fuzzy-rough-Uncertainty-Bias | 0 | 0| 
