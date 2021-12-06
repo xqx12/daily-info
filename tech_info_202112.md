@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211206T01:19:36Z | The Framework made for red teamers. This framework has a custom Listener module along side a obfuscated payload generator far better and metasploits when it comes to AV Evasion. Soon to be implimenting exploits and auxilary modules aswell If you have any questions or concearns you can reach out to me via discord at ~Kibi~#0001 | https://github.com/K1B0R/K1B0R-Framework | 1 | 0| 
 | 20211206T01:10:43Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10398 | 1793| 
 | 20211206T01:05:52Z | Null | https://github.com/bangalia/Jinja2-ExploitMe | 0 | 0| 
 | 20211206T01:03:28Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 20| 
@@ -93,7 +94,6 @@
 | 20211205T22:33:09Z | 👁️ Tool for Data Extraction and Web Requests. | https://github.com/vLeeH/httpmapper | 15 | 4| 
 | 20211205T22:11:43Z | Vulnerabilities found along the way | https://github.com/hansmach1ne/MyExploits | 1 | 0| 
 | 20211205T22:05:58Z | Exploit to get backdoor through vsftpd | https://github.com/luijait/Vsftpd-2.3.4-Exploit | 3 | 0| 
-| 20211205T21:46:41Z | Tool able to check the security level of a router. Check if the router is vulnerable to DNS rebinding and if there are any known CVEs or exploits. | https://github.com/peace27-96/Router-Vulnerability-Scan-Tool | 0 | 0| 
 
 
 # backdoor on Github 推荐
