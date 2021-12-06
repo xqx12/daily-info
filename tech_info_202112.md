@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211206T01:28:40Z | Null | https://github.com/vitor-fernandes/exploits | 2 | 0| 
 | 20211206T01:23:23Z | aerux exploitation framework | https://github.com/Harikeshav-R/aeruxploit | 1 | 0| 
 | 20211206T01:19:36Z | The Framework made for red teamers. This framework has a custom Listener module along side a obfuscated payload generator far better and metasploits when it comes to AV Evasion. Soon to be implimenting exploits and auxilary modules aswell If you have any questions or concearns you can reach out to me via discord at ~Kibi~#0001 | https://github.com/K1B0R/K1B0R-Framework | 1 | 0| 
 | 20211206T01:10:43Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10398 | 1793| 
@@ -93,7 +94,6 @@
 | 20211205T23:39:26Z | An approach to open sourcing end point detection and response, working with analysts and SOC members to develop a community to prevent abuse of computer networks and system exploitation. | https://github.com/oakgreyfig/layer8 | 0 | 0| 
 | 20211205T22:40:41Z | Null | https://github.com/Halvosa/binary_exploitation | 0 | 0| 
 | 20211205T22:33:09Z | 👁️ Tool for Data Extraction and Web Requests. | https://github.com/vLeeH/httpmapper | 15 | 4| 
-| 20211205T22:11:43Z | Vulnerabilities found along the way | https://github.com/hansmach1ne/MyExploits | 1 | 0| 
 
 
 # backdoor on Github 推荐
@@ -137,6 +137,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211206T01:28:37Z | Null | https://github.com/antoniopenizollo/logica-fuzzy | 0 | 0| 
 | 20211206T01:19:21Z | Null | https://github.com/brotherweekkim/fuzzy-engine | 0 | 0| 
 | 20211206T00:59:12Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 620 | 66| 
 | 20211206T00:48:27Z | Python fuzzing script  | https://github.com/Mohammad-Sarker/Mutational-Fuzzer | 0 | 0| 
@@ -146,7 +147,6 @@
 | 20211206T00:22:18Z | Aplicacion de Nextjs donde se pondra en practica la integracion continua y deployment continuo con GithubActions | https://github.com/katchvidal/fuzzy-waddle | 0 | 0| 
 | 20211206T00:07:23Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 35 | 12| 
 | 20211205T23:19:31Z | Null | https://github.com/ys-zhang/filter-fuzz | 0 | 0| 
-| 20211205T22:47:10Z | Scholar homework in %temas selectos de sistemas% by Saturnino Job Morales Escobar | https://github.com/ulisesSan/fuzzy-cmeans-algorithm-android | 0 | 0| 
 
 
 
