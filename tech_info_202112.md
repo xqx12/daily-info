@@ -84,7 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211206T02:11:58Z | Null | https://github.com/smurtau/Testing-and-Exploiting-Eyeballer | 0 | 0| 
+| 20211206T02:15:31Z | Null | https://github.com/smurtau/Testing-and-Exploiting-Eyeballer | 0 | 0| 
 | 20211206T02:07:21Z | Exploit to get backdoor through vsftpd | https://github.com/luijait/Vsftpd-2.3.4-Exploit | 4 | 0| 
 | 20211206T02:03:14Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 20| 
 | 20211206T02:01:42Z | Exploiting Reimagined | https://github.com/P-DennyGamingYT/PDennSploit-Pro | 0 | 0| 
