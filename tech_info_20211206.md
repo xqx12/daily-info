@@ -52,7 +52,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211206T13:14:20Z | With the latest Badger exploit let%s talk about Metamask approval hygiene | https://github.com/puf17640/metamask-approval-hygiene | 0 | 0| 
+| 20211206T13:33:23Z | With the latest Badger exploit let%s talk about Metamask approval hygiene | https://github.com/puf17640/metamask-approval-hygiene | 0 | 0| 
 | 20211206T13:03:28Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 20| 
 | 20211206T12:50:56Z | X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter | https://github.com/Moham3dRiahi/XAttacker | 1048 | 454| 
 | 20211206T12:45:46Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 15| 
@@ -94,7 +94,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211206T13:30:31Z | Python tool for enumerating directories and for fuzzing | https://github.com/confusedHatHacker/dirCrack | 2 | 0| 
+| 20211206T13:32:55Z | Python tool for enumerating directories and for fuzzing | https://github.com/confusedHatHacker/dirCrack | 2 | 0| 
 | 20211206T13:29:42Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3825 | 899| 
 | 20211206T13:27:38Z | Null | https://github.com/aset4ferhger/fuzzy-parakeet | 0 | 0| 
 | 20211206T13:24:40Z | Null | https://github.com/ef43tergerg/fuzzy-parakeet | 0 | 0| 
