@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211206T02:03:14Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 20| 
 | 20211206T02:01:42Z | Exploiting Reimagined | https://github.com/P-DennyGamingYT/PDennSploit-Pro | 0 | 0| 
 | 20211206T01:59:06Z | Null | https://github.com/smurtau/Testing-and-Exploiting-Eyeballer | 0 | 0| 
 | 20211206T01:41:56Z | aerux exploitation framework | https://github.com/Harikeshav-R/aeruxploit | 1 | 0| 
@@ -91,7 +92,6 @@
 | 20211206T01:28:40Z | Null | https://github.com/vitor-fernandes/exploits | 2 | 0| 
 | 20211206T01:10:43Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10398 | 1793| 
 | 20211206T01:05:52Z | Null | https://github.com/bangalia/Jinja2-ExploitMe | 0 | 0| 
-| 20211206T01:03:28Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 20| 
 | 20211206T00:19:40Z | HiveMind Metasploit Exploit | https://github.com/fzcooper/hm_ms_exploit | 0 | 0| 
 | 20211205T23:39:26Z | An approach to open sourcing end point detection and response, working with analysts and SOC members to develop a community to prevent abuse of computer networks and system exploitation. | https://github.com/oakgreyfig/layer8 | 0 | 0| 
 
