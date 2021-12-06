@@ -138,7 +138,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211206T13:28:30Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3825 | 899| 
+| 20211206T13:30:31Z | Python tool for enumerating directories and for fuzzing | https://github.com/confusedHatHacker/dirCrack | 2 | 0| 
+| 20211206T13:29:42Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3825 | 899| 
 | 20211206T13:27:38Z | Null | https://github.com/aset4ferhger/fuzzy-parakeet | 0 | 0| 
 | 20211206T13:24:40Z | Null | https://github.com/ef43tergerg/fuzzy-parakeet | 0 | 0| 
 | 20211206T12:57:51Z | Null | https://github.com/f-atwi/fuzzy-neural-interactive-agent | 1 | 0| 
@@ -147,7 +148,6 @@
 | 20211206T12:35:59Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20211206T12:22:46Z | Null | https://github.com/miasnguyenx/fuzzy-c-means | 0 | 0| 
 | 20211206T11:53:02Z | Null | https://github.com/nhsd-exeter/dos-service-fuzzy-search-api | 1 | 0| 
-| 20211206T11:41:32Z | Null | https://github.com/tingjinting/fuzzy-pancake.github.io | 0 | 0| 
 
 
 
