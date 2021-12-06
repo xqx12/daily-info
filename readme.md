@@ -52,7 +52,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211206T13:33:23Z | With the latest Badger exploit let%s talk about Metamask approval hygiene | https://github.com/puf17640/metamask-approval-hygiene | 0 | 0| 
+| 20211206T13:37:08Z | With the latest Badger exploit let%s talk about Metamask approval hygiene | https://github.com/puf17640/metamask-approval-hygiene | 0 | 0| 
 | 20211206T13:03:28Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 20| 
 | 20211206T12:50:56Z | X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter | https://github.com/Moham3dRiahi/XAttacker | 1048 | 454| 
 | 20211206T12:45:46Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 15| 
