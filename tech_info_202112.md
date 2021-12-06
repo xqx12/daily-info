@@ -138,8 +138,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211206T13:28:30Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3825 | 899| 
+| 20211206T13:27:38Z | Null | https://github.com/aset4ferhger/fuzzy-parakeet | 0 | 0| 
 | 20211206T13:24:40Z | Null | https://github.com/ef43tergerg/fuzzy-parakeet | 0 | 0| 
-| 20211206T13:13:28Z | Null | https://github.com/aset4ferhger/fuzzy-parakeet | 0 | 0| 
 | 20211206T12:57:51Z | Null | https://github.com/f-atwi/fuzzy-neural-interactive-agent | 1 | 0| 
 | 20211206T12:52:58Z | This repository contains the source code related to the conference paper Bias Quantification for Protected Features in Pattern Classification Problems published at the 25th Iberoamerican Congress on Pattern Recognition in March 2021. | https://github.com/LisaKouts/fuzzy-rough-Uncertainty-Bias | 0 | 0| 
 | 20211206T12:48:45Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 624 | 66| 
@@ -147,7 +148,6 @@
 | 20211206T12:22:46Z | Null | https://github.com/miasnguyenx/fuzzy-c-means | 0 | 0| 
 | 20211206T11:53:02Z | Null | https://github.com/nhsd-exeter/dos-service-fuzzy-search-api | 1 | 0| 
 | 20211206T11:41:32Z | Null | https://github.com/tingjinting/fuzzy-pancake.github.io | 0 | 0| 
-| 20211206T11:14:44Z | Null | https://github.com/Abdelrahmankhalil540/Fuzzy-C-Means- | 0 | 0| 
 
 
 
