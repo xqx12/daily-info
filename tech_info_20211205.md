@@ -6,6 +6,7 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20211205 | Pandas Tutor visualizes how your Python code transforms dataframes. | https://pandastutor.com/| 
 
 
 # 安全维基 推荐
@@ -17,20 +18,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211205T10:17:13Z | CVE-2021-42008 | CVE-2021-42008: Exploiting A 16-Year-Old Vulnerability In The Linux 6pack Driver | https://github.com/0xdevil/CVE-2021-42008 | | 
+| 20211205T19:02:21Z | CVE-2021-41081 | N-DAY VULNERABILITY RESEARCH (FROM PATCH TO EXPLOIT ANALYSIS OF CVE-2021-41081) | https://github.com/sudaiv/CVE-2021-41081 | | 
+| 20211205T16:33:37Z | CVE-2021-42008 | CVE-2021-42008: Exploiting A 16-Year-Old Vulnerability In The Linux 6pack Driver | https://github.com/0xdevil/CVE-2021-42008 | | 
 | 20211205T06:19:25Z | CVE-2021-21980 | A vulnerability scanner that detects CVE-2021-21980 vulnerabilities. | https://github.com/Osyanina/westone-CVE-2021-21980-scanner | | 
 | 20211205T06:19:08Z | CVE-2021-37832 | CVE 2021-37832 poc | https://github.com/AK-blank/CVE-2021-37832 | | 
 | 20211205T06:18:59Z | CVE-2021-42008 | Exploiting A 16-Year-Old Vulnerability In The Linux 6pack Driver | https://github.com/numanturle/CVE-2021-42008 | | 
 | 20211205T06:18:21Z | CVE-2021-3156 | CVE-2021-3156: Sudo heap overflow exploit for Debian 10 | https://github.com/0xdevil/CVE-2021-3156 | | 
 | 20211205T06:17:37Z | CVE-2021-38314 |  Unauthenticated Sensitive Information Disclosure (CVE-2021–38314). | https://github.com/oxctdev/CVE-2021-38314 | | 
-| 20211205T05:45:02Z | CVE-2021-41081 | N-DAY VULNERABILITY RESEARCH (FROM PATCH TO EXPLOIT ANALYSIS OF CVE-2021-41081) | https://github.com/sudaiv/CVE-2021-41081 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211205T23:50:31Z | Null | https://github.com/ayazip/witch-klee | 0 | 0| 
+| 20211205T16:18:08Z | Scala library for generating and manipulation of images treated as a point => color function. | https://github.com/skac112/klee | 0 | 0| 
+| 20211205T15:20:28Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
 | 20211205T12:04:47Z | Null | https://github.com/kleefi/kleefi.github.io | 0 | 0| 
-| 20211205T06:54:09Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -41,16 +44,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211205T13:58:14Z | Haimgard is an environment for writing, testing and using exploit code. | https://github.com/onuratakan/Haimgard | 1 | 0| 
-| 20211205T13:31:16Z | Mutli-API ROBLOX exploit. | https://github.com/Shade-Productions/Utility | 0 | 0| 
-| 20211205T13:14:51Z | Roblox Exploit Hub | https://github.com/GelatekWasTaken/Project-Cat | 0 | 0| 
-| 20211205T13:03:02Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 19| 
-| 20211205T12:44:03Z | Vulnerability Exploitation Code Collection Repository | https://github.com/0x0021h/expbox | 226 | 40| 
-| 20211205T12:37:15Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4142 | 594| 
-| 20211205T12:19:12Z | Null | https://github.com/Halvosa/binary_exploitation | 0 | 0| 
-| 20211205T12:13:17Z | aerux exploitation framework | https://github.com/Harikeshav-R/aeruxploit | 0 | 0| 
-| 20211205T11:36:08Z | A collection of JavaScript Codes I%ve made to enhance the User Experience of Discord and some other Discord related stuff | https://github.com/hxr404/Discord-Console-hacks | 127 | 49| 
-| 20211205T11:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10394 | 1793| 
+| 20211205T23:39:26Z | An approach to open sourcing end point detection and response, working with analysts and SOC members to develop a community to prevent abuse of computer networks and system exploitation. | https://github.com/oakgreyfig/layer8 | 0 | 0| 
+| 20211205T22:40:41Z | Null | https://github.com/Halvosa/binary_exploitation | 0 | 0| 
+| 20211205T22:33:09Z | 👁️ Tool for Data Extraction and Web Requests. | https://github.com/vLeeH/httpmapper | 15 | 4| 
+| 20211205T22:11:43Z | Vulnerabilities found along the way | https://github.com/hansmach1ne/MyExploits | 1 | 0| 
+| 20211205T22:05:58Z | Exploit to get backdoor through vsftpd | https://github.com/luijait/Vsftpd-2.3.4-Exploit | 3 | 0| 
+| 20211205T21:46:41Z | Tool able to check the security level of a router. Check if the router is vulnerable to DNS rebinding and if there are any known CVEs or exploits. | https://github.com/peace27-96/Router-Vulnerability-Scan-Tool | 0 | 0| 
+| 20211205T21:35:45Z | HatVenom is a HatSploit native powerful payload generation and shellcode injection tool that provides support for common platforms and architectures. | https://github.com/EntySec/HatVenom | 60 | 18| 
+| 20211205T21:19:27Z | Null | https://github.com/MathieuLsr/SystemExploit | 0 | 0| 
+| 20211205T21:15:17Z | Roblox Exploit Hub | https://github.com/GelatekWasTaken/Project-Cat | 0 | 0| 
+| 20211205T21:05:59Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10399 | 1793| 
 
 
 # backdoor on Github 推荐
@@ -82,16 +85,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211205T13:30:39Z | Asynchronous fuzzy finder in vim9script | https://github.com/kohnish/vim9-fuzzy | 0 | 0| 
-| 20211205T13:22:04Z | Takagi Sugeno Kang fuzzu model + FCM clustering  | https://github.com/nikimax/Fuzzu_Models_TSK | 0 | 0| 
-| 20211205T13:11:39Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20211205T13:02:57Z | Null | https://github.com/kalanakt/fuzzy-waffle | 0 | 0| 
-| 20211205T13:01:48Z | My pedalboards | https://github.com/thecatalinstan/pedalboards | 0 | 0| 
-| 20211205T12:49:53Z | Python tool for enumerating directories and for fuzzing | https://github.com/confusedHatHacker/dirEnum | 2 | 0| 
-| 20211205T11:53:52Z | A fuzzer for based UNIX chads | https://github.com/7047payloads/fzz | 0 | 0| 
-| 20211205T11:27:53Z | Null | https://github.com/gungnir479/fuzzJIT | 0 | 0| 
-| 20211205T11:12:04Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 615 | 66| 
-| 20211205T10:51:15Z | Null | https://github.com/yrameshra0/fuzzy-doner | 0 | 0| 
+| 20211205T23:19:31Z | Null | https://github.com/ys-zhang/filter-fuzz | 0 | 0| 
+| 20211205T22:47:10Z | Scholar homework in %temas selectos de sistemas% by Saturnino Job Morales Escobar | https://github.com/ulisesSan/fuzzy-cmeans-algorithm-android | 0 | 0| 
+| 20211205T22:46:01Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6880 | 1441| 
+| 20211205T22:18:14Z | Attempts to find security vulnerabilities in NetHack via input Fuzzing | https://github.com/recursion-ninja/Superion-YAML | 1 | 3| 
+| 20211205T22:16:37Z | bash script to run from installation media to setup gentoo automagically | https://github.com/fjp321/fuzzy-goggles | 0 | 0| 
+| 20211205T22:04:20Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
+| 20211205T21:44:41Z | Null | https://github.com/andrew-j-millward/SlowerFuzz | 0 | 0| 
+| 20211205T21:44:22Z | Null | https://github.com/sba6/SlowFuzzMods | 1 | 0| 
+| 20211205T21:42:20Z | CATS is a REST APIs fuzzer and negative testing tool for OpenAPI endpoints. CATS automatically  generates, runs and reports tests with minimum configuration and no coding effort. Tests are self-healing and does not require maintenance. | https://github.com/Endava/cats | 468 | 20| 
+| 20211205T20:19:29Z | With this project, I want to make a blending between Persevere and taPCT. The idea is to find bugs in large amounts of concurrent threading instruction. For that we will first try and identify with this tool some known bugs from emac versions that were not yet corrected. We first model the system call as a set of events and then apply the taPCT algorithm. Later on, we can use fuzzing to give larger system call sequences to our probabilistic scheduling algorithm.  | https://github.com/Ricagraca/taPPCT | 0 | 0| 
 
 
 
