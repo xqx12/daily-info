@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211206T01:05:52Z | Null | https://github.com/bangalia/Jinja2-ExploitMe | 0 | 0| 
 | 20211206T01:03:28Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 20| 
 | 20211206T00:19:40Z | HiveMind Metasploit Exploit | https://github.com/fzcooper/hm_ms_exploit | 0 | 0| 
 | 20211205T23:39:26Z | An approach to open sourcing end point detection and response, working with analysts and SOC members to develop a community to prevent abuse of computer networks and system exploitation. | https://github.com/oakgreyfig/layer8 | 0 | 0| 
@@ -93,7 +94,6 @@
 | 20211205T22:05:58Z | Exploit to get backdoor through vsftpd | https://github.com/luijait/Vsftpd-2.3.4-Exploit | 3 | 0| 
 | 20211205T21:46:41Z | Tool able to check the security level of a router. Check if the router is vulnerable to DNS rebinding and if there are any known CVEs or exploits. | https://github.com/peace27-96/Router-Vulnerability-Scan-Tool | 0 | 0| 
 | 20211205T21:35:45Z | HatVenom is a HatSploit native powerful payload generation and shellcode injection tool that provides support for common platforms and architectures. | https://github.com/EntySec/HatVenom | 60 | 18| 
-| 20211205T21:19:27Z | Null | https://github.com/MathieuLsr/SystemExploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
