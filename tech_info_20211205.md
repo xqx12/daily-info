@@ -48,12 +48,12 @@
 | 20211205T22:40:41Z | Null | https://github.com/Halvosa/binary_exploitation | 0 | 0| 
 | 20211205T22:33:09Z | 👁️ Tool for Data Extraction and Web Requests. | https://github.com/vLeeH/httpmapper | 15 | 4| 
 | 20211205T22:11:43Z | Vulnerabilities found along the way | https://github.com/hansmach1ne/MyExploits | 1 | 0| 
-| 20211205T22:05:58Z | Exploit to get backdoor through vsftpd | https://github.com/luijait/Vsftpd-2.3.4-Exploit | 3 | 0| 
 | 20211205T21:46:41Z | Tool able to check the security level of a router. Check if the router is vulnerable to DNS rebinding and if there are any known CVEs or exploits. | https://github.com/peace27-96/Router-Vulnerability-Scan-Tool | 0 | 0| 
 | 20211205T21:35:45Z | HatVenom is a HatSploit native powerful payload generation and shellcode injection tool that provides support for common platforms and architectures. | https://github.com/EntySec/HatVenom | 60 | 18| 
 | 20211205T21:19:27Z | Null | https://github.com/MathieuLsr/SystemExploit | 0 | 0| 
 | 20211205T21:15:17Z | Roblox Exploit Hub | https://github.com/GelatekWasTaken/Project-Cat | 0 | 0| 
 | 20211205T20:49:48Z | A Roblox exploiting library that looks like nodejs. | https://github.com/Mlemix/roblox.ls | 0 | 0| 
+| 20211205T20:46:09Z | One Click root Exploit for Unobtainium Machine [HackTheBox] | https://github.com/Rajchowdhury420/Unobtainium-HTB-Exploit | 1 | 0| 
 
 
 # backdoor on Github 推荐
@@ -61,7 +61,6 @@
 | --- | --- | --- | --- | ---| 
 | 20211205T23:34:58Z | Statically-linked ssh server with reverse shell functionality for CTFs and such | https://github.com/Fahrj/reverse-ssh | 425 | 53| 
 | 20211205T22:24:30Z | During the exploitation phase of a pen test or ethical hacking engagement, you will ultimately need to try to cause code to run on target system computers. Whether accomplished by phishing emails, delivering a payload through an exploit, or social engineering, running code on target computers is part of most penetration tests. That means that you will need to be able to bypass antivirus software or other host-based protection for successful exploitation. The most effective way to avoid antivirus detection on your target%s computers is to create your own customized backdoor. Here is a simple way to evade anti-virus software when creating backdoors! | https://github.com/RoseSecurity/Anti-Virus-Evading-Payloads | 32 | 4| 
-| 20211205T22:05:58Z | Exploit to get backdoor through vsftpd | https://github.com/luijait/Vsftpd-2.3.4-Exploit | 3 | 0| 
 | 20211205T14:50:01Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 378 | 66| 
 | 20211205T13:54:50Z | Use it for research purposes ONLY, the use of this code is your responsibility | https://github.com/GiulioKund/bACKdoor | 0 | 0| 
 | 20211205T13:08:21Z | backdoor-apk is a shell script that simplifies the process of adding a backdoor to any Android APK file. Users of this shell script should have working knowledge of Linux, Bash, Metasploit, Apktool, the Android SDK, smali, etc. This shell script is provided as-is without warranty of any kind and is intended for educational purposes only. | https://github.com/dana-at-cp/backdoor-apk | 1761 | 669| 
@@ -69,6 +68,7 @@
 | 20211205T10:56:06Z | Poweshell backdoor metasploit  | https://github.com/crypt0n-root/powershell-backdoor | 0 | 0| 
 | 20211205T07:20:29Z | Null | https://github.com/PiterIvano/BackDoor | 1 | 0| 
 | 20211205T03:18:56Z | My personal unique wiki for hacking the router firmware used by (Telia)TG799vac Xtream v17.2-MINT delivered from Technicolor  | https://github.com/wuseman/TG799VAC-XTREME-17.2-MINT | 65 | 18| 
+| 20211205T01:03:59Z | Null | https://github.com/samuelventura/nerves_backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐

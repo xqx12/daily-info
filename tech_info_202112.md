@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211206T02:07:21Z | Exploit to get backdoor through vsftpd | https://github.com/luijait/Vsftpd-2.3.4-Exploit | 4 | 0| 
 | 20211206T02:03:14Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 20| 
 | 20211206T02:01:42Z | Exploiting Reimagined | https://github.com/P-DennyGamingYT/PDennSploit-Pro | 0 | 0| 
 | 20211206T01:59:06Z | Null | https://github.com/smurtau/Testing-and-Exploiting-Eyeballer | 0 | 0| 
@@ -93,15 +94,14 @@
 | 20211206T01:10:43Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10398 | 1793| 
 | 20211206T01:05:52Z | Null | https://github.com/bangalia/Jinja2-ExploitMe | 0 | 0| 
 | 20211206T00:19:40Z | HiveMind Metasploit Exploit | https://github.com/fzcooper/hm_ms_exploit | 0 | 0| 
-| 20211205T23:39:26Z | An approach to open sourcing end point detection and response, working with analysts and SOC members to develop a community to prevent abuse of computer networks and system exploitation. | https://github.com/oakgreyfig/layer8 | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211206T02:07:21Z | Exploit to get backdoor through vsftpd | https://github.com/luijait/Vsftpd-2.3.4-Exploit | 4 | 0| 
 | 20211205T23:34:58Z | Statically-linked ssh server with reverse shell functionality for CTFs and such | https://github.com/Fahrj/reverse-ssh | 425 | 53| 
 | 20211205T22:24:30Z | During the exploitation phase of a pen test or ethical hacking engagement, you will ultimately need to try to cause code to run on target system computers. Whether accomplished by phishing emails, delivering a payload through an exploit, or social engineering, running code on target computers is part of most penetration tests. That means that you will need to be able to bypass antivirus software or other host-based protection for successful exploitation. The most effective way to avoid antivirus detection on your target%s computers is to create your own customized backdoor. Here is a simple way to evade anti-virus software when creating backdoors! | https://github.com/RoseSecurity/Anti-Virus-Evading-Payloads | 32 | 4| 
-| 20211205T22:05:58Z | Exploit to get backdoor through vsftpd | https://github.com/luijait/Vsftpd-2.3.4-Exploit | 3 | 0| 
 | 20211205T14:50:01Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 378 | 66| 
 | 20211205T13:54:50Z | Use it for research purposes ONLY, the use of this code is your responsibility | https://github.com/GiulioKund/bACKdoor | 0 | 0| 
 | 20211205T13:08:21Z | backdoor-apk is a shell script that simplifies the process of adding a backdoor to any Android APK file. Users of this shell script should have working knowledge of Linux, Bash, Metasploit, Apktool, the Android SDK, smali, etc. This shell script is provided as-is without warranty of any kind and is intended for educational purposes only. | https://github.com/dana-at-cp/backdoor-apk | 1761 | 669| 
@@ -137,6 +137,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211206T02:05:55Z | Aplicacion de Nextjs donde se pondra en practica la integracion continua y deployment continuo con GithubActions | https://github.com/katchvidal/fuzzy-waddle | 0 | 0| 
 | 20211206T01:42:23Z | Null | https://github.com/brotherweekkim/fuzzy-engine | 0 | 0| 
 | 20211206T01:35:52Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211206T01:28:37Z | Null | https://github.com/antoniopenizollo/logica-fuzzy | 0 | 0| 
@@ -145,7 +146,6 @@
 | 20211206T00:39:45Z | A random program generator for fuzzing WGSL | https://github.com/hasali19/WGSLsmith | 0 | 0| 
 | 20211206T00:38:55Z | Null | https://github.com/fuzzydragon/fuzzydragon.github.io | 0 | 0| 
 | 20211206T00:28:33Z | Null | https://github.com/autofuzz2020/AutoFuzz | 0 | 1| 
-| 20211206T00:22:18Z | Aplicacion de Nextjs donde se pondra en practica la integracion continua y deployment continuo con GithubActions | https://github.com/katchvidal/fuzzy-waddle | 0 | 0| 
 | 20211206T00:07:23Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 35 | 12| 
 
 
