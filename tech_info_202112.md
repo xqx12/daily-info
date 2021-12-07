@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211207T01:28:46Z | HiveMind Metasploit Exploit | https://github.com/fzcooper/hm_ms_exploit | 0 | 0| 
 | 20211207T01:12:25Z | reverse shell execution exploit of CVE 22204 | https://github.com/Asaad27/CVE-2021-22204-RSE | 0 | 0| 
 | 20211207T01:03:36Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 256 | 78| 
 | 20211207T01:03:09Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 20| 
@@ -94,7 +95,6 @@
 | 20211207T00:18:55Z | Model to simulate forest exploitation in Mato Grosso | https://github.com/pedro-andrade-inpe/forestExploitation | 1 | 1| 
 | 20211207T00:00:03Z | A Rust post-exploit framework with a built-in module system :-) | https://github.com/saifsuleman/hacksploit | 0 | 0| 
 | 20211206T23:42:39Z | Null | https://github.com/Calpico-Drink/AntiExploit | 0 | 0| 
-| 20211206T23:16:06Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10409 | 1796| 
 
 
 # backdoor on Github 推荐
