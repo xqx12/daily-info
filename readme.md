@@ -89,6 +89,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211207T13:10:33Z | Null | https://github.com/Potat0000/AutoFuzzer | 1 | 0| 
 | 20211207T12:57:05Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211207T12:24:35Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6884 | 1442| 
 | 20211207T12:24:17Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
@@ -98,7 +99,6 @@
 | 20211207T11:42:13Z | fuzzer http ( hackingyseguridad.com ) busca ficheros interesantes en un sitio web | https://github.com/hackingyseguridad/fuzzer | 0 | 1| 
 | 20211207T11:35:17Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2276 | 443| 
 | 20211207T11:25:38Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 731 | 145| 
-| 20211207T11:09:16Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 
 
 
