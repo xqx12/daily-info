@@ -91,8 +91,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211207T13:51:45Z | A program in Python to fuzz a webpage which produces a YAML file for Kubernetes. | https://github.com/BigWheaties/octopusFuzzer | 0 | 0| 
 | 20211207T13:42:34Z | Leetcode solutions. | https://github.com/chaitanyks/fuzzy-disco | 0 | 0| 
-| 20211207T13:39:58Z | A program in Python to fuzz a webpage which produces a YAML file for Kubernetes. | https://github.com/BigWheaties/octopusFuzzer | 0 | 0| 
 | 20211207T13:31:08Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2277 | 443| 
 | 20211207T13:25:39Z | fuzzer http ( hackingyseguridad.com ) busca ficheros interesantes en un sitio web | https://github.com/hackingyseguridad/fuzzer | 0 | 1| 
 | 20211207T13:15:52Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
