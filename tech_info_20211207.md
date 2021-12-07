@@ -22,6 +22,7 @@
 | --- | --- | ---| 
 | 20211207 | 利用DoH技术加密传输的DNS隧道流量检测分析 | https://mp.weixin.qq.com/s/TY17e0hpW0b9n4eQtcvaeg| 
 | 20211207 | 邮件安全的27年漫漫路 | https://mp.weixin.qq.com/s/U5r7fzsGgjD5IZIh3LIcWA| 
+| 20211207 | JSPKiller: 基于污点分析的JSP Webshell检测工具 | https://github.com/EmYiQing/JSPKiller| 
 
 
 # CVE Github 推荐

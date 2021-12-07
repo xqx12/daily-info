@@ -33,6 +33,7 @@
 | --- | --- | ---| 
 | 20211207 | 利用DoH技术加密传输的DNS隧道流量检测分析 | https://mp.weixin.qq.com/s/TY17e0hpW0b9n4eQtcvaeg| 
 | 20211207 | 邮件安全的27年漫漫路 | https://mp.weixin.qq.com/s/U5r7fzsGgjD5IZIh3LIcWA| 
+| 20211207 | JSPKiller: 基于污点分析的JSP Webshell检测工具 | https://github.com/EmYiQing/JSPKiller| 
 | 20211206 | [HTB] Nest Writeup | http://mp.weixin.qq.com/s?__biz=MzIwOTA4NTg4MA==&mid=2652489909&idx=1&sn=812588b0d62ad59621bee6ac76f74dea&chksm=8c945c62bbe3d57476b0e05e98a4473cb6cea91e329a5bd3e462646a4539bd13341391615ec6#rd| 
 | 20211206 | 解析服务提供商对非授权域名解析情况的评估 | https://mp.weixin.qq.com/s/v5kcg9XZGb8DwtpNgHXRCQ| 
 | 20211206 | 安全运营项目的工作方法 | https://mp.weixin.qq.com/s/UkOHsg5I6v8JJrsKucEewA| 
@@ -40,7 +41,6 @@
 | 20211206 | 浅谈Web登录认证类漏洞 | https://blog.csdn.net/chest_/article/details/103941792| 
 | 20211206 | 网络科技犯罪典型案例 | https://mp.weixin.qq.com/s/GSod_Mbebfc5tIyNN7uusg| 
 | 20211206 | SecWiki周刊（第405期) | https://www.sec-wiki.com/weekly/405| 
-| 20211205 | 利用轻量级权限系统遏制恶意NPM软件包更新 | https://mp.weixin.qq.com/s/XTbY3plfEpuPhYc7KQdnaA| 
 
 
 # CVE Github 推荐
