@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211207T01:44:16Z | Null | https://github.com/hyp3ri0n-ng/driver-exploitation-workbook | 0 | 0| 
 | 20211207T01:28:46Z | HiveMind Metasploit Exploit | https://github.com/fzcooper/hm_ms_exploit | 0 | 0| 
 | 20211207T01:12:25Z | reverse shell execution exploit of CVE 22204 | https://github.com/Asaad27/CVE-2021-22204-RSE | 0 | 0| 
 | 20211207T01:03:36Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 256 | 78| 
@@ -94,7 +95,6 @@
 | 20211207T00:20:18Z | Null | https://github.com/smurtau/Testing-and-Exploiting-Eyeballer | 0 | 1| 
 | 20211207T00:18:55Z | Model to simulate forest exploitation in Mato Grosso | https://github.com/pedro-andrade-inpe/forestExploitation | 1 | 1| 
 | 20211207T00:00:03Z | A Rust post-exploit framework with a built-in module system :-) | https://github.com/saifsuleman/hacksploit | 0 | 0| 
-| 20211206T23:42:39Z | Null | https://github.com/Calpico-Drink/AntiExploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -138,6 +138,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211207T01:42:19Z | Null | https://github.com/ys-zhang/filter-fuzz | 0 | 0| 
 | 20211207T01:39:53Z | Mutational %dumb fuzzer% in python | https://github.com/0jakeschmidt/dumbFuzzer | 0 | 0| 
 | 20211207T01:38:32Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211207T01:35:20Z | Fuzzy ARTMAP-based TAR system | https://github.com/CharlesPDX/fuzzy-art-tar | 0 | 0| 
@@ -147,7 +148,6 @@
 | 20211207T00:12:07Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1221 | 137| 
 | 20211207T00:09:20Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 35 | 12| 
 | 20211207T00:08:51Z | A little data cleaning | https://github.com/fortunateowl/fuzzy-couscous | 0 | 0| 
-| 20211206T23:18:51Z | Null | https://github.com/justgr0w/PyFuzzer | 0 | 0| 
 
 
 
