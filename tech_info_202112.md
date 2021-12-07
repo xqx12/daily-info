@@ -85,7 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211207T02:54:49Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 262 | 501| 
+| 20211207T02:55:13Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 262 | 501| 
 | 20211207T02:29:36Z | Shellcode construction exploiting heap unlink | https://github.com/Vito-Swift/Reminders-Heap-Exploit | 1 | 0| 
 | 20211207T02:22:48Z | vcenter AMF object deserialization exploit  | https://github.com/dorkerdevil/LongTail-AMF | 0 | 0| 
 | 20211207T02:03:25Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 20| 
@@ -115,10 +115,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211207T02:52:22Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2581 | 381| 
 | 20211206T21:30:15Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1844 | 523| 
 | 20211206T16:14:23Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 18 | 5| 
 | 20211206T11:10:32Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 165 | 37| 
-| 20211206T09:21:01Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2580 | 381| 
 | 20211206T09:10:59Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 182 | 10| 
 | 20211206T08:22:15Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 189 | 39| 
 | 20211205T21:06:31Z | Symbolica%s open-source symbolic execution engine. | https://github.com/Symbolica/Symbolica | 45 | 2| 
