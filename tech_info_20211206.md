@@ -70,7 +70,7 @@
 | 20211206T20:37:52Z | TryHackMe CTFs writeups, notes, dratfs, scrabbles, files and solutions. | https://github.com/edoardottt/tryhackme-ctf | 39 | 18| 
 | 20211206T20:14:42Z | Null | https://github.com/tjonty/exploit | 0 | 0| 
 | 20211206T20:08:07Z | Null | https://github.com/Pen-Test3rs/binary_exploits_tasks_public | 0 | 0| 
-| 20211206T19:40:26Z | vcenter AMF object deserialization exploit  | https://github.com/dorkerdevil/LongTail-AMF | 0 | 0| 
+| 20211206T18:45:09Z | An anti-exploit attempt for Fabric | https://github.com/samolego/GolfIV | 29 | 5| 
 
 
 # backdoor on Github 推荐
