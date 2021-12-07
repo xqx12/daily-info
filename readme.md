@@ -108,12 +108,12 @@
 | 20211206T23:17:44Z | Null | https://github.com/L1ryk/fuzzy-guacamole | 0 | 0| 
 | 20211206T23:16:34Z | Null | https://github.com/L1ryk/fuzzy-couscous | 0 | 0| 
 | 20211206T23:02:34Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2445 | 150| 
-| 20211206T23:02:26Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211206T22:43:17Z | Attempts to find security vulnerabilities in NetHack via input Fuzzing | https://github.com/recursion-ninja/Superion-YAML | 1 | 3| 
 | 20211206T22:13:38Z | An open-source software package for fuzzing autonomous driving systems in high-fidelity simulators | https://github.com/AIasd/ADFuzz | 0 | 1| 
 | 20211206T21:59:22Z | A random program generator for fuzzing WGSL | https://github.com/hasali19/WGSLsmith | 0 | 0| 
 | 20211206T21:45:57Z | Null | https://github.com/kris1402/Fuzzy | 0 | 0| 
 | 20211206T21:39:09Z | CATS is a REST APIs fuzzer and negative testing tool for OpenAPI endpoints. CATS automatically  generates, runs and reports tests with minimum configuration and no coding effort. Tests are self-healing and does not require maintenance. | https://github.com/Endava/cats | 469 | 20| 
+| 20211206T21:23:16Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6883 | 1441| 
 
 
 
