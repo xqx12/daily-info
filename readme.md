@@ -62,7 +62,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20211206T23:42:39Z | Null | https://github.com/Calpico-Drink/AntiExploit | 0 | 0| 
-| 20211206T23:18:39Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 256 | 78| 
 | 20211206T23:16:06Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10409 | 1796| 
 | 20211206T23:06:22Z | Discord SelfBot & Exploit Injector | https://github.com/RooverPY/RooverCord | 1 | 1| 
 | 20211206T21:48:51Z | LFITester is a Python3 program that automates the detection and exploitation of Local File Inclusion (LFI) attacks on a server. | https://github.com/kostas-pa/LFITester | 25 | 4| 
@@ -71,6 +70,7 @@
 | 20211206T21:10:39Z | The whole collection of Exploits developed by me (Hacker5preme) | https://github.com/Hacker5preme/Exploits | 9 | 2| 
 | 20211206T20:37:52Z | TryHackMe CTFs writeups, notes, dratfs, scrabbles, files and solutions. | https://github.com/edoardottt/tryhackme-ctf | 39 | 18| 
 | 20211206T20:14:42Z | Null | https://github.com/tjonty/exploit | 0 | 0| 
+| 20211206T20:08:07Z | Null | https://github.com/Pen-Test3rs/binary_exploits_tasks_public | 0 | 0| 
 
 
 # backdoor on Github 推荐
