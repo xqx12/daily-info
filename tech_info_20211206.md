@@ -104,7 +104,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211206T23:36:47Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20211206T23:18:51Z | Null | https://github.com/justgr0w/PyFuzzer | 0 | 0| 
 | 20211206T23:17:44Z | Null | https://github.com/L1ryk/fuzzy-guacamole | 0 | 0| 
 | 20211206T23:16:34Z | Null | https://github.com/L1ryk/fuzzy-couscous | 0 | 0| 
@@ -114,6 +113,7 @@
 | 20211206T22:13:38Z | An open-source software package for fuzzing autonomous driving systems in high-fidelity simulators | https://github.com/AIasd/ADFuzz | 0 | 1| 
 | 20211206T21:59:22Z | A random program generator for fuzzing WGSL | https://github.com/hasali19/WGSLsmith | 0 | 0| 
 | 20211206T21:45:57Z | Null | https://github.com/kris1402/Fuzzy | 0 | 0| 
+| 20211206T21:39:09Z | CATS is a REST APIs fuzzer and negative testing tool for OpenAPI endpoints. CATS automatically  generates, runs and reports tests with minimum configuration and no coding effort. Tests are self-healing and does not require maintenance. | https://github.com/Endava/cats | 469 | 20| 
 
 
 

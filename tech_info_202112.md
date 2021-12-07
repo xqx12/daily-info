@@ -138,12 +138,12 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211207T01:19:56Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20211207T01:17:49Z | Null | https://github.com/sba6/SlowFuzzMods | 1 | 0| 
 | 20211207T00:59:41Z | Comparing tool variability and numerical variability in fMRI analyses results | https://github.com/big-data-lab-team/fuzzy-neurotools | 0 | 1| 
 | 20211207T00:12:07Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1221 | 137| 
 | 20211207T00:09:20Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 35 | 12| 
 | 20211207T00:08:51Z | A little data cleaning | https://github.com/fortunateowl/fuzzy-couscous | 0 | 0| 
-| 20211206T23:36:47Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20211206T23:18:51Z | Null | https://github.com/justgr0w/PyFuzzer | 0 | 0| 
 | 20211206T23:17:44Z | Null | https://github.com/L1ryk/fuzzy-guacamole | 0 | 0| 
 | 20211206T23:16:34Z | Null | https://github.com/L1ryk/fuzzy-couscous | 0 | 0| 
