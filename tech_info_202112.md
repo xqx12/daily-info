@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211207T01:55:44Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10410 | 1796| 
 | 20211207T01:44:16Z | Null | https://github.com/hyp3ri0n-ng/driver-exploitation-workbook | 0 | 0| 
 | 20211207T01:28:46Z | HiveMind Metasploit Exploit | https://github.com/fzcooper/hm_ms_exploit | 0 | 0| 
 | 20211207T01:12:25Z | reverse shell execution exploit of CVE 22204 | https://github.com/Asaad27/CVE-2021-22204-RSE | 0 | 0| 
@@ -94,7 +95,6 @@
 | 20211207T00:45:47Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 15| 
 | 20211207T00:20:18Z | Null | https://github.com/smurtau/Testing-and-Exploiting-Eyeballer | 0 | 1| 
 | 20211207T00:18:55Z | Model to simulate forest exploitation in Mato Grosso | https://github.com/pedro-andrade-inpe/forestExploitation | 1 | 1| 
-| 20211207T00:00:03Z | A Rust post-exploit framework with a built-in module system :-) | https://github.com/saifsuleman/hacksploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -138,11 +138,11 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211207T01:58:00Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20211207T01:42:19Z | Null | https://github.com/ys-zhang/filter-fuzz | 0 | 0| 
 | 20211207T01:39:53Z | Mutational %dumb fuzzer% in python | https://github.com/0jakeschmidt/dumbFuzzer | 0 | 0| 
 | 20211207T01:38:32Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211207T01:35:20Z | Fuzzy ARTMAP-based TAR system | https://github.com/CharlesPDX/fuzzy-art-tar | 0 | 0| 
-| 20211207T01:19:56Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20211207T01:17:49Z | Null | https://github.com/sba6/SlowFuzzMods | 1 | 0| 
 | 20211207T00:59:41Z | Comparing tool variability and numerical variability in fMRI analyses results | https://github.com/big-data-lab-team/fuzzy-neurotools | 0 | 1| 
 | 20211207T00:12:07Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1221 | 137| 
