@@ -100,9 +100,9 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211207T02:52:30Z | Null | https://github.com/leileigan/clean_label_textual_backdoor_attack | 3 | 0| 
 | 20211206T16:21:43Z | backdoor-apk is a shell script that simplifies the process of adding a backdoor to any Android APK file. Users of this shell script should have working knowledge of Linux, Bash, Metasploit, Apktool, the Android SDK, smali, etc. This shell script is provided as-is without warranty of any kind and is intended for educational purposes only. | https://github.com/dana-at-cp/backdoor-apk | 1761 | 668| 
 | 20211206T14:17:22Z | During the exploitation phase of a pen test or ethical hacking engagement, you will ultimately need to try to cause code to run on target system computers. Whether accomplished by phishing emails, delivering a payload through an exploit, or social engineering, running code on target computers is part of most penetration tests. That means that you will need to be able to bypass antivirus software or other host-based protection for successful exploitation. The most effective way to avoid antivirus detection on your target%s computers is to create your own customized backdoor. Here is a simple way to evade anti-virus software when creating backdoors! | https://github.com/RoseSecurity/Anti-Virus-Evading-Payloads | 36 | 5| 
-| 20211206T09:33:48Z | Null | https://github.com/leileigan/clean_label_textual_backdoor_attack | 3 | 0| 
 | 20211206T08:57:46Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 379 | 66| 
 | 20211206T04:13:05Z | Null | https://github.com/mr-quixter/ShellBackdoor | 0 | 1| 
 | 20211206T02:07:21Z | Exploit to get backdoor through vsftpd | https://github.com/luijait/Vsftpd-2.3.4-Exploit | 4 | 0| 
