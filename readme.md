@@ -87,7 +87,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211206T11:48:27Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1842 | 523| 
+| 20211206T21:30:15Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1844 | 523| 
+| 20211206T16:14:23Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 18 | 5| 
 | 20211206T11:10:32Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 165 | 37| 
 | 20211206T09:21:01Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2580 | 381| 
 | 20211206T09:10:59Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 182 | 10| 
