@@ -138,6 +138,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211207T01:35:20Z | Fuzzy ARTMAP-based TAR system | https://github.com/CharlesPDX/fuzzy-art-tar | 0 | 0| 
 | 20211207T01:19:56Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20211207T01:17:49Z | Null | https://github.com/sba6/SlowFuzzMods | 1 | 0| 
 | 20211207T00:59:41Z | Comparing tool variability and numerical variability in fMRI analyses results | https://github.com/big-data-lab-team/fuzzy-neurotools | 0 | 1| 
@@ -147,7 +148,6 @@
 | 20211206T23:18:51Z | Null | https://github.com/justgr0w/PyFuzzer | 0 | 0| 
 | 20211206T23:17:44Z | Null | https://github.com/L1ryk/fuzzy-guacamole | 0 | 0| 
 | 20211206T23:16:34Z | Null | https://github.com/L1ryk/fuzzy-couscous | 0 | 0| 
-| 20211206T23:02:34Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2445 | 150| 
 
 
 
