@@ -138,8 +138,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211207T01:39:53Z | Mutational %dumb fuzzer% in python | https://github.com/0jakeschmidt/dumbFuzzer | 0 | 0| 
 | 20211207T01:38:32Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20211207T01:38:07Z | Mutational %dumb fuzzer% in python | https://github.com/0jakeschmidt/dumbFuzzer | 0 | 0| 
 | 20211207T01:35:20Z | Fuzzy ARTMAP-based TAR system | https://github.com/CharlesPDX/fuzzy-art-tar | 0 | 0| 
 | 20211207T01:19:56Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20211207T01:17:49Z | Null | https://github.com/sba6/SlowFuzzMods | 1 | 0| 
