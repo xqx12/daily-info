@@ -14,6 +14,7 @@
 | 20211206 | 开源交换机 FreeSWITCH 的扫描和漏洞利用工具 | https://github.com/0xInfection/PewSWITCH| 
 | 20211206 | 云服务提供商（AWS，GCP，Azure）的历史安全漏洞整理 | https://github.com/SummitRoute/csp_security_mistakes| 
 | 20211206 | 慢雾安全团队整理的区块链安全知识库 | https://github.com/slowmist/Knowledge-Base| 
+| 20211206 | Get shells with JET, the Jolokia Exploitation Toolkit. | http://thinkloveshare.com/hacking/shells_with_jolokia_exploitation_toolkit/| 
 | 20211205 | Pandas Tutor visualizes how your Python code transforms dataframes. | https://pandastutor.com/| 
 | 20211203 | Check Point 对数月前伊朗发生的以短信为入口窃取敏感信息为目的的攻击活动的分析 | http://research.checkpoint.com/2021/smishing-botnets-going-viral-in-iran/| 
 | 20211203 | Encryption Does Not Equal Invisibility – Detecting Anomalous TLS Certificates with the Half-Space-Trees Algorithm | http://research.nccgroup.com/2021/12/02/encryption-does-not-equal-invisibility-detecting-anomalous-tls-certificates-with-the-half-space-trees-algorithm/| 
@@ -25,7 +26,6 @@
 | 20211202 | pip-audit - 用于扫描 Python 环境依赖库是否涉及已知漏洞的工具 | https://github.com/trailofbits/pip-audit| 
 | 20211202 | Exploiting Vulnerabilities in a TLD Registrar to Takeover Tether, Google, and Amazon | http://palisade.consulting/blog/tld-hacking| 
 | 20211202 | Tracking a P2P network related to TA505 | http://research.nccgroup.com/2021/12/01/tracking-a-p2p-network-related-with-ta505/| 
-| 20211202 | Azure Privilege Escalation via Azure API Permissions Abuse | https://posts.specterops.io/azure-privilege-escalation-via-azure-api-permissions-abuse-74aee1006f48?gi=b390bd1f5258| 
 
 
 # 安全维基 推荐
@@ -37,30 +37,32 @@
 | 20211206 | 知识图谱视角下的威胁评估 | https://mp.weixin.qq.com/s/VDU0z5XNM3CmEIU6sC6jrA| 
 | 20211206 | 浅谈Web登录认证类漏洞 | https://blog.csdn.net/chest_/article/details/103941792| 
 | 20211206 | 网络科技犯罪典型案例 | https://mp.weixin.qq.com/s/GSod_Mbebfc5tIyNN7uusg| 
+| 20211206 | SecWiki周刊（第405期) | https://www.sec-wiki.com/weekly/405| 
 | 20211205 | 利用轻量级权限系统遏制恶意NPM软件包更新 | https://mp.weixin.qq.com/s/XTbY3plfEpuPhYc7KQdnaA| 
 | 20211204 | 从研究工控设备到发现供应链威胁 | https://mp.weixin.qq.com/s/-ihOJFNP5OaTy6BNr2uxrA| 
 | 20211204 | 数据中心智能安全运营体系建设探索与实践 | https://mp.weixin.qq.com/s/omM1xphG_ie9GDjsu34s3w| 
-| 20211204 | 基于多模态学习的视觉实体链接 | https://mp.weixin.qq.com/s/wX4g3o7vdz2NJ18TKIUkqA| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211207T00:18:55Z | CVE-2021-22204 | reverse shell execution exploit of CVE 22204 | https://github.com/Asaad27/CVE-2021-22204-RSE | | 
+| 20211206T19:41:08Z | CVE-2021-41277 | Null | https://github.com/Vulnmachines/Metabase_CVE-2021-41277 | | 
+| 20211206T19:12:26Z | cve-2021-41773 | CVE-2021-41773 Path Traversal vulnerability in Apache 2.4.49. | https://github.com/Vulnmachines/cve-2021-41773 | | 
+| 20211206T19:04:07Z | CVE-2021-27651 | Pega Infinity Password Reset | https://github.com/Vulnmachines/CVE-2021-27651 | | 
+| 20211206T15:09:02Z | CVE-2021-3156 | CVE-2021-3156: Sudo heap overflow exploit for Debian 10 | https://github.com/0xdevil/CVE-2021-3156 | | 
+| 20211206T15:04:38Z | CVE-2021-42008 | Exploiting A 16-Year-Old Vulnerability In The Linux 6pack Driver | https://github.com/numanturle/CVE-2021-42008 | | 
+| 20211206T15:03:16Z | CVE-2021-42008 | CVE-2021-42008: Exploiting A 16-Year-Old Vulnerability In The Linux 6pack Driver | https://github.com/0xdevil/CVE-2021-42008 | | 
 | 20211206T13:06:28Z | CVE-2021-41277 | Null | https://github.com/zer0yu/CVE-2021-41277 | | 
 | 20211206T12:21:07Z | CVE-2021-43469 | CVE-2021-43469 | https://github.com/badboycxcc/CVE-2021-43469 | | 
 | 20211206T12:19:51Z | CVE-2021-43471 | CVE-2021-43471 | https://github.com/cxaqhq/CVE-2021-43471 | | 
-| 20211206T05:28:43Z | CVE-2021-42008 | CVE-2021-42008: Exploiting A 16-Year-Old Vulnerability In The Linux 6pack Driver | https://github.com/0xdevil/CVE-2021-42008 | | 
-| 20211205T19:02:21Z | CVE-2021-41081 | N-DAY VULNERABILITY RESEARCH (FROM PATCH TO EXPLOIT ANALYSIS OF CVE-2021-41081) | https://github.com/sudaiv/CVE-2021-41081 | | 
-| 20211205T06:19:25Z | CVE-2021-21980 | A vulnerability scanner that detects CVE-2021-21980 vulnerabilities. | https://github.com/Osyanina/westone-CVE-2021-21980-scanner | | 
-| 20211205T06:19:08Z | CVE-2021-37832 | CVE 2021-37832 poc | https://github.com/AK-blank/CVE-2021-37832 | | 
-| 20211205T06:18:59Z | CVE-2021-42008 | Exploiting A 16-Year-Old Vulnerability In The Linux 6pack Driver | https://github.com/numanturle/CVE-2021-42008 | | 
-| 20211205T06:18:21Z | CVE-2021-3156 | CVE-2021-3156: Sudo heap overflow exploit for Debian 10 | https://github.com/0xdevil/CVE-2021-3156 | | 
-| 20211205T06:17:37Z | CVE-2021-38314 |  Unauthenticated Sensitive Information Disclosure (CVE-2021–38314). | https://github.com/oxctdev/CVE-2021-38314 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211206T23:19:51Z | A small demo to improve documentation | https://github.com/Fernando-Adauto/kleeen-infusion-demo | 0 | 0| 
+| 20211206T19:29:27Z | A unique discord bot with capabilities of making life easier! | https://github.com/BraveCake/Klee-Project---Discord-Bot | 0 | 0| 
 | 20211206T12:33:16Z | Null | https://github.com/thierry-tct/KLEE-SEMu | 3 | 2| 
 | 20211205T23:50:31Z | Null | https://github.com/ayazip/witch-klee | 0 | 0| 
 | 20211205T16:18:08Z | Scala library for generating and manipulation of images treated as a point => color function. | https://github.com/skac112/klee | 0 | 0| 
@@ -69,8 +71,6 @@
 | 20211204T21:30:11Z | Minecraft Mod. Allows breaking only one half of a double slab block. | https://github.com/ModdingForBlockheads/KleeSlabs | 10 | 3| 
 | 20211204T05:41:52Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1839 | 523| 
 | 20211203T10:05:31Z | Null | https://github.com/anaskautsar7/Klee-chan | 0 | 0| 
-| 20211203T06:03:58Z | Null | https://github.com/anaskautsar7/Klee-bot | 0 | 0| 
-| 20211201T19:37:37Z | modern regular expression syntax everywhere with a painless upgrade path | https://github.com/SonOfLilit/kleenexp | 29 | 3| 
 
 
 # s2e on Github 推荐
@@ -85,23 +85,23 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211206T13:56:53Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4144 | 595| 
-| 20211206T13:44:13Z | With the latest Badger exploit let%s talk about Metamask approval hygiene | https://github.com/puf17640/metamask-approval-hygiene | 0 | 0| 
-| 20211206T13:43:58Z | Statically Compiled Binaries for Post Exploitation Activities  | https://github.com/robhughes72/compiled_tools | 0 | 0| 
-| 20211206T13:03:28Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 20| 
-| 20211206T12:50:56Z | X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter | https://github.com/Moham3dRiahi/XAttacker | 1048 | 454| 
-| 20211206T12:45:46Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 15| 
-| 20211206T12:45:07Z | fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | 0 | 0| 
-| 20211206T12:43:33Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 261 | 495| 
-| 20211206T12:38:24Z | Drafts of exploits made for studying and consultation purposes | https://github.com/brerodrigues/exploit_drafts | 0 | 0| 
-| 20211206T12:11:50Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 256 | 78| 
+| 20211207T00:52:53Z | * READ THE README FOR INFO!! * Incoming Tags- z score statistics,find mean median mode statistics in ms excel,variance,standard deviation,linear regression,data processing,confidence  intervals,average value,probability theory,binomial distribution,matrix,random numbers,error propagation,t statistics analysis,hypothesis testing,theorem,chi square,time series,data collection,sampling,p value,scatterplots,statistics lectures,statistics tutorials,business mathematics statistics,share stock market statistics in calculator,business analytics,GTA,continuous frequency distribution,statistics mathematics in real life,modal class,n is even,n is odd,median mean of series of numbers,math help,Sujoy Krishna Das,n+1/2 element,measurement of variation,measurement of central tendency,range of numbers,interquartile range,casio fx991,casio fx82,casio fx570,casio fx115es,casio 9860,casio 9750,casio 83gt,TI BAII+ financial,casio piano,casio calculator tricks and hacks,how to cheat in exam and not get caught,grouped interval data,equation of triangle rectangle curve parabola hyperbola,graph theory,operation research(OR),numerical methods,decision making,pie chart,bar graph,computer data analysis,histogram,statistics formula,matlab tutorial,find arithmetic mean geometric mean,find population standard deviation,find sample standard deviation,how to use a graphic calculator,pre algebra,pre calculus,absolute deviation,TI Nspire,TI 84 TI83 calculator tutorial,texas instruments calculator,grouped data,set theory,IIT JEE,AIEEE,GCSE,CAT,MAT,SAT,GMAT,MBBS,JELET,JEXPO,VOCLET,Indiastudychannel,IAS,IPS,IFS,GATE,B-Tech,M-Tech,AMIE,MBA,BBA,BCA,MCA,XAT,TOEFL,CBSE,ICSE,HS,WBUT,SSC,IUPAC,Narendra Modi,Sachin Tendulkar Farewell Speech,Dhoom 3,Arvind Kejriwal,maths revision,how to score good marks in exams,how to pass math exams easily,JEE 12th physics chemistry maths PCM,JEE maths shortcut techniques,quadratic equations,competition exams tips and ticks,competition maths,govt job,JEE KOTA,college math,mean value theorem,L hospital rule,tech guru awaaz,derivation,cryptography,iphone 5 fingerprint hack,crash course,CCNA,converting fractions,solve word problem,cipher,game theory,GDP,how to earn money online on youtube,demand curve,computer science,prime factorization,LCM & GCF,gauss elimination,vector,complex numbers,number systems,vector algebra,logarithm,trigonometry,organic chemistry,electrical math problem,eigen value eigen vectors,runge kutta,gauss jordan,simpson 1/3 3/8 trapezoidal rule,solved problem example,newton raphson,interpolation,integration,differentiation,regula falsi,programming,algorithm,gauss seidal,gauss jacobi,taylor series,iteration,binary arithmetic,logic gates,matrix inverse,determinant of matrix,matrix calculator program,sex in ranchi,sex in kolkata,vogel approximation VAM optimization problem,North west NWCR,Matrix minima,Modi method,assignment problem,transportation problem,simplex,k map,boolean algebra,android,casio FC 200v 100v financial,management mathematics tutorials,net present value NPV,time value of money TVM,internal rate of return IRR Bond price,present value PV and future value FV of annuity casio,simple interest SI & compound interest CI casio,break even point,amortization calculation,HP 10b financial calculator,banking and money,income tax e filing,economics,finance,profit & loss,yield of investment bond,Sharp EL 735S,cash flow casio,re finance,insurance and financial planning,investment appraisal,shortcut keys,depreciation,discounting | https://github.com/xploitspeeds/Bookmarklet-Hacks-For-School | 7 | 13| 
+| 20211207T00:45:47Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 15| 
+| 20211207T00:20:18Z | Null | https://github.com/smurtau/Testing-and-Exploiting-Eyeballer | 0 | 1| 
+| 20211207T00:18:55Z | reverse shell execution exploit of CVE 22204 | https://github.com/Asaad27/CVE-2021-22204-RSE | 0 | 0| 
+| 20211207T00:18:55Z | Model to simulate forest exploitation in Mato Grosso | https://github.com/pedro-andrade-inpe/forestExploitation | 1 | 1| 
+| 20211207T00:03:41Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 20| 
+| 20211207T00:00:03Z | A Rust post-exploit framework with a built-in module system :-) | https://github.com/saifsuleman/hacksploit | 0 | 0| 
+| 20211206T23:42:39Z | Null | https://github.com/Calpico-Drink/AntiExploit | 0 | 0| 
+| 20211206T23:18:39Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 256 | 78| 
+| 20211206T23:16:06Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10409 | 1796| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211206T12:57:04Z | During the exploitation phase of a pen test or ethical hacking engagement, you will ultimately need to try to cause code to run on target system computers. Whether accomplished by phishing emails, delivering a payload through an exploit, or social engineering, running code on target computers is part of most penetration tests. That means that you will need to be able to bypass antivirus software or other host-based protection for successful exploitation. The most effective way to avoid antivirus detection on your target%s computers is to create your own customized backdoor. Here is a simple way to evade anti-virus software when creating backdoors! | https://github.com/RoseSecurity/Anti-Virus-Evading-Payloads | 35 | 5| 
-| 20211206T11:29:29Z | backdoor-apk is a shell script that simplifies the process of adding a backdoor to any Android APK file. Users of this shell script should have working knowledge of Linux, Bash, Metasploit, Apktool, the Android SDK, smali, etc. This shell script is provided as-is without warranty of any kind and is intended for educational purposes only. | https://github.com/dana-at-cp/backdoor-apk | 1762 | 668| 
+| 20211206T16:21:43Z | backdoor-apk is a shell script that simplifies the process of adding a backdoor to any Android APK file. Users of this shell script should have working knowledge of Linux, Bash, Metasploit, Apktool, the Android SDK, smali, etc. This shell script is provided as-is without warranty of any kind and is intended for educational purposes only. | https://github.com/dana-at-cp/backdoor-apk | 1761 | 668| 
+| 20211206T14:17:22Z | During the exploitation phase of a pen test or ethical hacking engagement, you will ultimately need to try to cause code to run on target system computers. Whether accomplished by phishing emails, delivering a payload through an exploit, or social engineering, running code on target computers is part of most penetration tests. That means that you will need to be able to bypass antivirus software or other host-based protection for successful exploitation. The most effective way to avoid antivirus detection on your target%s computers is to create your own customized backdoor. Here is a simple way to evade anti-virus software when creating backdoors! | https://github.com/RoseSecurity/Anti-Virus-Evading-Payloads | 36 | 5| 
 | 20211206T09:33:48Z | Null | https://github.com/leileigan/clean_label_textual_backdoor_attack | 3 | 0| 
 | 20211206T08:57:46Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 379 | 66| 
 | 20211206T04:13:05Z | Null | https://github.com/mr-quixter/ShellBackdoor | 0 | 1| 
@@ -138,16 +138,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211206T14:00:28Z | Python tool for enumerating directories and for fuzzing | https://github.com/confusedHatHacker/dirHunter | 2 | 0| 
-| 20211206T13:56:33Z | Null | https://github.com/gungnir479/fuzzJIT | 0 | 0| 
-| 20211206T13:55:25Z | Python tool for enumerating directories and for fuzzing | https://github.com/confusedHatHacker/dirCrack | 2 | 0| 
-| 20211206T13:46:26Z | Null | https://github.com/shoobiedoo/Fuzzy-Logic-Breast-Cancer-the-Classification | 0 | 0| 
-| 20211206T13:44:24Z | Find all keywords for your subdomain or folder search | https://github.com/Proviesec/nlp-website-string-miner-for-fuzzing | 1 | 0| 
-| 20211206T13:29:42Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3825 | 899| 
-| 20211206T13:27:38Z | Null | https://github.com/aset4ferhger/fuzzy-parakeet | 0 | 0| 
-| 20211206T13:24:40Z | Null | https://github.com/ef43tergerg/fuzzy-parakeet | 0 | 0| 
-| 20211206T12:57:51Z | Null | https://github.com/f-atwi/fuzzy-neural-interactive-agent | 1 | 0| 
-| 20211206T12:52:58Z | This repository contains the source code related to the conference paper Bias Quantification for Protected Features in Pattern Classification Problems published at the 25th Iberoamerican Congress on Pattern Recognition in March 2021. | https://github.com/LisaKouts/fuzzy-rough-Uncertainty-Bias | 0 | 0| 
+| 20211207T00:59:41Z | Comparing tool variability and numerical variability in fMRI analyses results | https://github.com/big-data-lab-team/fuzzy-neurotools | 0 | 1| 
+| 20211207T00:58:54Z | Null | https://github.com/sba6/SlowFuzzMods | 1 | 0| 
+| 20211207T00:12:07Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1221 | 137| 
+| 20211207T00:09:20Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 35 | 12| 
+| 20211207T00:08:51Z | A little data cleaning | https://github.com/fortunateowl/fuzzy-couscous | 0 | 0| 
+| 20211206T23:36:47Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
+| 20211206T23:18:51Z | Null | https://github.com/justgr0w/PyFuzzer | 0 | 0| 
+| 20211206T23:17:44Z | Null | https://github.com/L1ryk/fuzzy-guacamole | 0 | 0| 
+| 20211206T23:16:34Z | Null | https://github.com/L1ryk/fuzzy-couscous | 0 | 0| 
+| 20211206T23:02:34Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2445 | 150| 
 
 
 
