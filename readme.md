@@ -90,6 +90,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211207T13:25:39Z | fuzzer http ( hackingyseguridad.com ) busca ficheros interesantes en un sitio web | https://github.com/hackingyseguridad/fuzzer | 0 | 1| 
 | 20211207T13:15:52Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20211207T13:13:43Z | A program in Python to fuzz a webpage which produces a YAML file for Kubernetes. | https://github.com/BigWheaties/octopusFuzzer | 0 | 0| 
 | 20211207T13:10:33Z | Null | https://github.com/Potat0000/AutoFuzzer | 1 | 0| 
@@ -99,7 +100,6 @@
 | 20211207T12:06:03Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 370 | 34| 
 | 20211207T12:03:53Z | Null | https://github.com/figabhes/fuzzy-palm-tree | 0 | 0| 
 | 20211207T11:54:01Z | Modeling and Diagnosis of Typhoid Fever using Fuzzy Logic Inference System | https://github.com/Swapnil-Vaish/Fuzzy-Typhoid-Fever-Diagnosis | 0 | 0| 
-| 20211207T11:42:13Z | fuzzer http ( hackingyseguridad.com ) busca ficheros interesantes en un sitio web | https://github.com/hackingyseguridad/fuzzer | 0 | 1| 
 
 
 
