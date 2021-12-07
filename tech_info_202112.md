@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211207T02:10:47Z | CVE-2021-20837 | XMLRPC  - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | | 
 | 20211207T01:12:25Z | CVE-2021-22204 | reverse shell execution exploit of CVE 22204 | https://github.com/Asaad27/CVE-2021-22204-RSE | | 
 | 20211206T19:41:08Z | CVE-2021-41277 | Null | https://github.com/Vulnmachines/Metabase_CVE-2021-41277 | | 
 | 20211206T19:12:26Z | cve-2021-41773 | CVE-2021-41773 Path Traversal vulnerability in Apache 2.4.49. | https://github.com/Vulnmachines/cve-2021-41773 | | 
@@ -55,7 +56,6 @@
 | 20211206T15:03:16Z | CVE-2021-42008 | CVE-2021-42008: Exploiting A 16-Year-Old Vulnerability In The Linux 6pack Driver | https://github.com/0xdevil/CVE-2021-42008 | | 
 | 20211206T13:06:28Z | CVE-2021-41277 | Null | https://github.com/zer0yu/CVE-2021-41277 | | 
 | 20211206T12:21:07Z | CVE-2021-43469 | CVE-2021-43469 | https://github.com/badboycxcc/CVE-2021-43469 | | 
-| 20211206T12:19:51Z | CVE-2021-43471 | CVE-2021-43471 | https://github.com/cxaqhq/CVE-2021-43471 | | 
 
 
 # klee on Github 推荐
