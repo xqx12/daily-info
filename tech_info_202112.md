@@ -85,7 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211208T01:07:19Z | A Red vs Blue report in which a Vulnerable machine was exploited and explained from a Pen Testing report, and after a Defensive side showing mitigations and ways to fix the security flaws found | https://github.com/Nicholas-Menanno/FinalProject | 0 | 0| 
+| 20211208T01:10:15Z | A Red vs Blue report in which a Vulnerable machine was exploited and explained from a Pen Testing report, and after a Defensive side showing mitigations and ways to fix the security flaws found | https://github.com/Nicholas-Menanno/FinalProject | 0 | 0| 
 | 20211208T01:06:10Z | Null | https://github.com/smurtau/Testing-and-Exploiting-Eyeballer | 0 | 1| 
 | 20211208T01:03:35Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 20| 
 | 20211208T01:01:06Z | Roblox exploits list with safe percentage & more information about them. | https://github.com/I2rys/REL | 1 | 0| 
@@ -138,8 +138,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211208T01:10:48Z | python scripts to run fuzzer. | https://github.com/firefoxxpyang/run_fuzzer_scripts | 0 | 0| 
 | 20211208T01:03:56Z | Null | https://github.com/LJ-Jiahe/fuzzy_measure_fusion | 0 | 0| 
-| 20211208T00:37:03Z | python scripts to run fuzzer. | https://github.com/firefoxxpyang/run_fuzzer_scripts | 0 | 0| 
 | 20211208T00:35:48Z | Null | https://github.com/justgr0w/PyFuzzer | 1 | 0| 
 | 20211208T00:02:27Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6886 | 1442| 
 | 20211207T23:32:41Z | Collected fuzzing payloads from different resources  | https://github.com/osamahamad/FUZZING | 10 | 5| 
