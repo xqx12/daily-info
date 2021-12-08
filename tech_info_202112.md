@@ -138,6 +138,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211208T02:56:03Z | Null | https://github.com/RajuRanjanSingh/Early-self-diagnosis-of-dengue-symptoms-using-fuzzy-logic | 0 | 0| 
 | 20211208T02:36:22Z | Python mutational fuzzing script  | https://github.com/Mohammad-Sarker/Mutational-Fuzzer | 0 | 0| 
 | 20211208T02:27:24Z | An implementation of eFLL in Toit. | https://github.com/davidg238/fuzzy_logic | 0 | 0| 
 | 20211208T02:08:44Z | CATS is a REST APIs fuzzer and negative testing tool for OpenAPI endpoints. CATS automatically  generates, runs and reports tests with minimum configuration and no coding effort. Tests are self-healing and does not require maintenance. | https://github.com/Endava/cats | 471 | 20| 
@@ -147,7 +148,6 @@
 | 20211208T01:10:48Z | python scripts to run fuzzer. | https://github.com/firefoxxpyang/run_fuzzer_scripts | 0 | 0| 
 | 20211208T01:03:56Z | Null | https://github.com/LJ-Jiahe/fuzzy_measure_fusion | 0 | 0| 
 | 20211208T00:35:48Z | Null | https://github.com/justgr0w/PyFuzzer | 1 | 0| 
-| 20211208T00:02:27Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6886 | 1442| 
 
 
 
