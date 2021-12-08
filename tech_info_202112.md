@@ -46,13 +46,13 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211208T02:37:05Z | CVE-2021-43798 | CVE-2021-43798:Grafana 任意文件读取漏洞 | https://github.com/Mr-xn/CVE-2021-43798 | | 
+| 20211208T02:51:46Z | CVE-2021-43798 | CVE-2021-43798:Grafana 任意文件读取漏洞 | https://github.com/Mr-xn/CVE-2021-43798 | | 
+| 20211208T02:50:20Z | CVE-2021-43798 | Null | https://github.com/tangxiaofeng7/CVE-2021-43798-Grafana-File-Read | | 
 | 20211208T02:34:11Z | CVE-2021-43798 | grafana-fileread-0day-poc | https://github.com/Yang-Zhongshan/grafana-fileread-0day-poc-CVE-2021-43798 | | 
 | 20211208T02:25:39Z | CVE-2021-43798 | Grafana Arbitrary File Reading Vulnerability | https://github.com/zer0yu/CVE-2021-43798 | | 
 | 20211208T02:06:44Z | CVE-2021-34045 | druid未授权访问批量扫描poc | https://github.com/MzzdToT/CVE-2021-34045 | | 
 | 20211208T01:59:44Z | CVE-2021-43798 | CVE-2021-43798 - Grafana 8.x Path Traversal (Pre-Auth) | https://github.com/taythebot/CVE-2021-43798 | | 
 | 20211208T01:41:01Z | CVE-2021-43799 | Python Exploit Code  | https://github.com/scopion/CVE-2021-43799 | | 
-| 20211208T01:33:45Z | CVE-2021-43798 | Null | https://github.com/tangxiaofeng7/CVE-2021-43798-Grafana-File-Read | | 
 | 20211208T01:21:34Z | CVE-2021-43798 | Python Exploit Code  | https://github.com/darkerego/CVE-2021-43798 | | 
 | 20211207T21:54:02Z | CVE-2021-22204 | reverse shell execution exploit of CVE 22204 | https://github.com/Asaad27/CVE-2021-22204-RSE | | 
 | 20211207T16:21:22Z | cve-2021-38314 | Null | https://github.com/phrantom/cve-2021-38314 | | 
@@ -85,7 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211208T02:39:37Z | Network vulnerability exploitation library | https://github.com/sairson/NetworkExpLibrary | 12 | 3| 
+| 20211208T02:42:08Z | Network vulnerability exploitation library | https://github.com/sairson/NetworkExpLibrary | 12 | 3| 
 | 20211208T02:33:58Z | Null | https://github.com/Eyeofthequeen/TP_sys_exploitation | 0 | 0| 
 | 20211208T02:29:55Z | Null | https://github.com/smurtau/Testing-and-Exploiting-Eyeballer | 0 | 1| 
 | 20211208T02:25:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10416 | 1797| 
