@@ -138,6 +138,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211208T01:03:56Z | Null | https://github.com/LJ-Jiahe/fuzzy_measure_fusion | 0 | 0| 
 | 20211208T00:37:03Z | python scripts to run fuzzer. | https://github.com/firefoxxpyang/run_fuzzer_scripts | 0 | 0| 
 | 20211208T00:35:48Z | Null | https://github.com/justgr0w/PyFuzzer | 1 | 0| 
 | 20211208T00:02:27Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6886 | 1442| 
@@ -147,7 +148,6 @@
 | 20211207T22:27:51Z | Finds the thickness of a surface in a point cloud | https://github.com/jackjgo/cloud_fuzz | 0 | 0| 
 | 20211207T22:26:21Z | Null | https://github.com/SketchNI/fuzzy-eureka | 0 | 0| 
 | 20211207T22:13:09Z | Comparing tool variability and numerical variability in fMRI analyses results | https://github.com/big-data-lab-team/fuzzy-neurotools | 0 | 3| 
-| 20211207T22:09:46Z | a fuzzy and very fast search for language names with typos | https://github.com/Lambda-Logan/fuzzy_lang_search | 0 | 0| 
 
 
 
