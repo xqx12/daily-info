@@ -138,6 +138,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211208T01:42:26Z | 僕の卒業論文 | https://github.com/yoshiyoshiharu/oblique-fuzzy-vector-mrp | 0 | 0| 
 | 20211208T01:36:49Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211208T01:14:03Z | Null | https://github.com/ys-zhang/filter-fuzz | 0 | 0| 
 | 20211208T01:10:48Z | python scripts to run fuzzer. | https://github.com/firefoxxpyang/run_fuzzer_scripts | 0 | 0| 
@@ -147,7 +148,6 @@
 | 20211207T23:32:41Z | Collected fuzzing payloads from different resources  | https://github.com/osamahamad/FUZZING | 10 | 5| 
 | 20211207T23:10:28Z | Implementations of fuzzy inference systems for improving the extraction process of chia cake extract | https://github.com/accarniel/fuzzy-chia | 0 | 1| 
 | 20211207T22:27:51Z | Finds the thickness of a surface in a point cloud | https://github.com/jackjgo/cloud_fuzz | 0 | 0| 
-| 20211207T22:26:21Z | Null | https://github.com/SketchNI/fuzzy-eureka | 0 | 0| 
 
 
 
