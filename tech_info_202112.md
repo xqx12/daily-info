@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211208T13:17:42Z | CVE-2021-32724 | Null | https://github.com/MaximeSchlegel/CVE-2021-32724-Target | | 
 | 20211208T13:13:02Z | CVE-2021-43798 | Grafana Unauthorized arbitrary file reading vulnerability | https://github.com/jas502n/Grafana-CVE-2021-43798 | | 
 | 20211208T13:12:17Z | CVE-2021-43798 | CVE-2021-43798:Grafana 任意文件读取漏洞 | https://github.com/Mr-xn/CVE-2021-43798 | | 
 | 20211208T11:39:34Z | CVE-2021-43798 | Null | https://github.com/tangxiaofeng7/CVE-2021-43798-Grafana-File-Read | | 
@@ -55,7 +56,6 @@
 | 20211208T07:47:34Z | CVE-2021-43798 | CVE-2021-43798 - Grafana 8.x Path Traversal (Pre-Auth) | https://github.com/taythebot/CVE-2021-43798 | | 
 | 20211208T07:38:45Z | CVE-2021-43798 | grafana CVE-2021-43798任意文件读取漏洞POC，采用多插件轮训检测的方法，允许指定单URL和从文件中读取URL | https://github.com/j-jasson/CVE-2021-43798-grafana_fileread | | 
 | 20211208T07:30:04Z | CVE-2021-43798 | Grafana File-Read Vuln | https://github.com/JiuBanSec/Grafana-CVE-2021-43798 | | 
-| 20211208T07:16:27Z | CVE-2021-43798 | CVE-2021-43798-Grafana任意文件读取漏洞 | https://github.com/lfz97/CVE-2021-43798-Grafana-File-Read | | 
 
 
 # klee on Github 推荐
@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211208T13:16:54Z | This repo explains in details about buffer overflow exploit development for windows executable. | https://github.com/cris-m/Buffer-Overflow-Exploit-Development | 0 | 0| 
 | 20211208T13:15:04Z | Exploit script for CVE-2021-27211 | https://github.com/b4shfire/stegcrack | 4 | 2| 
 | 20211208T13:12:04Z | This repo explains in details about buffer overflow exploit development for windows executable. | https://github.com/cris-m/buffer_overflow_exploit_development | 0 | 0| 
 | 20211208T13:08:11Z | Exploit grafana Pre-Auth LFI | https://github.com/Gabriel-Lima232/Grafana-LFI-8.x | 0 | 0| 
@@ -94,7 +95,6 @@
 | 20211208T12:36:43Z | Rodan Exploitation Framework | https://github.com/Etisalat-Egypt/Rodan | 54 | 16| 
 | 20211208T12:20:17Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 256 | 78| 
 | 20211208T12:17:56Z | A parallel CNN architecture - Discriminative-Global- Local Network (DGLN) to exploit both the discriminative structural information at global scope and the discriminative human-introduced local infomration at local level for improvement of re-id task with frozen learning technique. | https://github.com/OatmealLiu/DGLN-model-for-Person-Re-ID-with-frozen-learning | 0 | 0| 
-| 20211208T12:10:17Z | fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | 0 | 0| 
 
 
 # backdoor on Github 推荐
