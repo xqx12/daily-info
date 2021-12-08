@@ -37,7 +37,6 @@
 | --- | --- | --- | --- | ---| 
 | 20211207T21:54:02Z | CVE-2021-22204 | reverse shell execution exploit of CVE 22204 | https://github.com/Asaad27/CVE-2021-22204-RSE | | 
 | 20211207T16:21:22Z | cve-2021-38314 | Null | https://github.com/phrantom/cve-2021-38314 | | 
-| 20211207T15:50:32Z | CVE-2021-34045 | druid未授权访问批量扫描poc | https://github.com/MzzdToT/CVE-2021-34045 | | 
 | 20211207T15:25:56Z | CVE-2021-26084 | Confluence Server Webwork OGNL injection | https://github.com/h3v0x/CVE-2021-26084_Confluence | | 
 | 20211207T14:42:04Z | CVE-2021-41277 | Null | https://github.com/zer0yu/CVE-2021-41277 | | 
 | 20211207T12:48:46Z | cve-2021-41773 | CVE-2021-41773 Path Traversal vulnerability in Apache 2.4.49. | https://github.com/Vulnmachines/cve-2021-41773 | | 
