@@ -60,6 +60,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211208T13:28:22Z | Use SQL to instantly query host, DNS and exploit information using Shodan. Open source CLI. No DB required. | https://github.com/turbot/steampipe-plugin-shodan | 19 | 2| 
 | 20211208T13:27:13Z | Haimgard is an environment for writing, testing and using exploit code. | https://github.com/onuratakan/Haimgard | 1 | 0| 
 | 20211208T13:22:11Z | This repo explains in details about buffer overflow exploit development for windows executable. | https://github.com/cris-m/Buffer-Overflow-Exploit-Development | 2 | 0| 
 | 20211208T13:15:04Z | Exploit script for CVE-2021-27211 | https://github.com/b4shfire/stegcrack | 4 | 2| 
@@ -69,7 +70,6 @@
 | 20211208T12:45:47Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 15| 
 | 20211208T12:45:30Z | DDOS Archive  by RootSec (Scanners, BotNets (Mirai and QBot Premium & Normal and more), Exploits, Methods, Sniffers) | https://github.com/R00tS3c/DDOS-RootSec | 120 | 78| 
 | 20211208T12:36:43Z | Rodan Exploitation Framework | https://github.com/Etisalat-Egypt/Rodan | 54 | 16| 
-| 20211208T12:20:17Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 256 | 78| 
 
 
 # backdoor on Github 推荐
