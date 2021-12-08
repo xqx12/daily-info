@@ -98,6 +98,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211208T13:02:49Z | Tool to Generate a Fuzzy Real Estate Development Model upon a Site | https://github.com/irawinder/FuzzyBuilder | 2 | 0| 
 | 20211208T12:47:14Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 4 | 2| 
 | 20211208T12:31:42Z | White-box fuzzer for Java bytecode | https://github.com/vorpal-research/kex | 7 | 10| 
 | 20211208T12:31:28Z | Null | https://github.com/sheunl/Fuzzy-App | 0 | 0| 
@@ -107,7 +108,6 @@
 | 20211208T12:07:40Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20211208T12:06:11Z | Null | https://github.com/finchFuzzy/FinchFuzzy.github.io | 0 | 0| 
 | 20211208T11:53:31Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 317 | 43| 
-| 20211208T11:50:14Z | Null | https://github.com/liuyiyuya/fuzzy-waddle | 0 | 0| 
 
 
 
