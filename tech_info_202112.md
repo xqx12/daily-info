@@ -46,10 +46,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211208T02:25:39Z | CVE-2021-43798 | Grafana Arbitrary File Reading Vulnerability | https://github.com/zer0yu/CVE-2021-43798 | | 
 | 20211208T02:18:46Z | CVE-2021-43798 | CVE-2021-43798:Grafana 任意文件读取漏洞 | https://github.com/Mr-xn/CVE-2021-43798 | | 
 | 20211208T02:06:44Z | CVE-2021-34045 | druid未授权访问批量扫描poc | https://github.com/MzzdToT/CVE-2021-34045 | | 
 | 20211208T01:59:44Z | CVE-2021-43798 | CVE-2021-43798 - Grafana 8.x Path Traversal (Pre-Auth) | https://github.com/taythebot/CVE-2021-43798 | | 
-| 20211208T01:57:00Z | CVE-2021-43798 | Grafana Arbitrary File Reading Vulnerability | https://github.com/zer0yu/CVE-2021-43798 | | 
 | 20211208T01:41:01Z | CVE-2021-43799 | Python Exploit Code  | https://github.com/scopion/CVE-2021-43799 | | 
 | 20211208T01:33:45Z | CVE-2021-43798 | Null | https://github.com/tangxiaofeng7/CVE-2021-43798-Grafana-File-Read | | 
 | 20211208T01:21:34Z | CVE-2021-43798 | Python Exploit Code  | https://github.com/darkerego/CVE-2021-43798 | | 
@@ -138,6 +138,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211208T02:27:24Z | An implementation of eFLL in Toit. | https://github.com/davidg238/fuzzy_logic | 0 | 0| 
 | 20211208T02:08:44Z | CATS is a REST APIs fuzzer and negative testing tool for OpenAPI endpoints. CATS automatically  generates, runs and reports tests with minimum configuration and no coding effort. Tests are self-healing and does not require maintenance. | https://github.com/Endava/cats | 471 | 20| 
 | 20211208T01:42:26Z | 僕の卒業論文 | https://github.com/yoshiyoshiharu/oblique-fuzzy-vector-mrp | 0 | 0| 
 | 20211208T01:36:49Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
@@ -147,7 +148,6 @@
 | 20211208T00:35:48Z | Null | https://github.com/justgr0w/PyFuzzer | 1 | 0| 
 | 20211208T00:02:27Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6886 | 1442| 
 | 20211207T23:32:41Z | Collected fuzzing payloads from different resources  | https://github.com/osamahamad/FUZZING | 10 | 5| 
-| 20211207T23:10:28Z | Implementations of fuzzy inference systems for improving the extraction process of chia cake extract | https://github.com/accarniel/fuzzy-chia | 0 | 1| 
 
 
 
