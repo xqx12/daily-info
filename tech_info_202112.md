@@ -17,6 +17,8 @@
 | 20211208 | Stealthily Creating Processes via Abusing Undocumented COM Helppane Libraries | https://github.com/vxunderground/VXUG-Papers/tree/main/Stealthily%20Creating%20Processes| 
 | 20211208 | Pwn2Own Vancouver 2021 比赛中 V8 漏洞的分析和利用 | https://sec.today/pulses/4bff6770-0070-4343-bca2-0a1fbc568507/| 
 | 20211208 | 后量子加密实现的现状 | https://sec.today/pulses/5ba3d0e8-d37f-4fc0-a7b4-c64f1b96cd09/| 
+| 20211208 | Pwn2Own Vancouver 2021 比赛中 V8 漏洞的分析和利用 | https://www.zerodayinitiative.com/blog/2021/12/6/two-birds-with-one-stone-an-introduction-to-v8-and-jit-exploitation| 
+| 20211208 | 后量子加密实现的现状 | http://blog.quarkslab.com/status-of-post-quantum-cryptography-implementation.html| 
 | 20211207 | 有研究员基于 Virtualization.framework 实现虚拟化执行 iBoot | https://github.com/NyanSatan/Virtual-iBoot-Fun| 
 | 20211207 | 20+ Ways To Bypass Your Macos Privacy Mechanisms | https://www.slideshare.net/wojdwo/20-ways-to-bypass-your-macos-privacy-mechanisms-250791887| 
 | 20211207 | RESTler - 微软开源了一个 Stateful REST API Fuzzer | https://github.com/microsoft/restler-fuzzer| 
@@ -24,8 +26,6 @@
 | 20211207 | Moobot Botnet 利用海康威视的漏洞攻击用户 | https://www.fortinet.com/blog/threat-research/mirai-based-botnet-moobot-targets-hikvision-vulnerability| 
 | 20211207 | Firefox 95 将启用 RLBox Sandbox 技术，使用 WebAssembly 隔离危险代码 | http://hacks.mozilla.org/2021/12/webassembly-and-back-again-fine-grained-sandboxing-in-firefox-95/| 
 | 20211207 | Android 12 应用启动流程分析 | http://evilpan.com/2021/12/05/apk-startup/| 
-| 20211207 | iOS 函数指针保护机制 PAC 实现详解 | https://paper.seebug.org/1777/| 
-| 20211207 | 解析服务提供商对非授权域名解析情况的评估 | https://blog.netlab.360.com/analysis-of-popular-domain-names-by-non-authorized-resolvers/| 
 
 
 # 安全维基 推荐
@@ -100,16 +100,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211208T12:49:54Z | The best Python Backdoor👌 | https://github.com/S12cybersecurity/Backdoor | 1 | 0| 
+| 20211208T11:04:27Z | Null | https://github.com/Scorpio-m7/tomcat-backdoor | 3 | 1| 
+| 20211208T09:18:46Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 383 | 66| 
+| 20211208T06:13:26Z | Null | https://github.com/candralksn/backdoorshell | 0 | 0| 
+| 20211208T04:30:11Z | Experimental and sneaky backdoor patch for OpenSSH Portable.  | https://github.com/Psmths/openssh-backdoor | 0 | 0| 
 | 20211207T23:52:31Z | The project is to design a backdoor detector for BadNets trained on the YouTube Face dataset. | https://github.com/381352903/ML_cyber_project | 1 | 0| 
 | 20211207T20:17:54Z | badcat is a tool I%ve made to learn `rust` and analyze anonymous backdoors | https://github.com/yanmarques/badcat | 1 | 0| 
 | 20211207T20:06:05Z | Statically-linked ssh server with reverse shell functionality for CTFs and such | https://github.com/Fahrj/reverse-ssh | 428 | 54| 
 | 20211207T17:26:49Z | Ro3b - Advance Banking HTTP Botnet  | https://github.com/mathio3/Ro3b-HTTP-botnet | 26 | 9| 
 | 20211207T14:42:13Z | Simple reverse backdoor utility, that uses sockets to communicate. | https://github.com/nickson8/reverse_backdoor | 1 | 0| 
-| 20211207T13:51:45Z | During the exploitation phase of a pen test or ethical hacking engagement, you will ultimately need to try to cause code to run on target system computers. Whether accomplished by phishing emails, delivering a payload through an exploit, or social engineering, running code on target computers is part of most penetration tests. That means that you will need to be able to bypass antivirus software or other host-based protection for successful exploitation. The most effective way to avoid antivirus detection on your target%s computers is to create your own customized backdoor. Here is a simple way to evade anti-virus software when creating backdoors! | https://github.com/RoseSecurity/Anti-Virus-Evading-Payloads | 38 | 6| 
-| 20211207T09:57:37Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 381 | 66| 
-| 20211207T03:25:24Z | Null | https://github.com/leileigan/clean_label_textual_backdoor_attack | 3 | 0| 
-| 20211206T16:21:43Z | backdoor-apk is a shell script that simplifies the process of adding a backdoor to any Android APK file. Users of this shell script should have working knowledge of Linux, Bash, Metasploit, Apktool, the Android SDK, smali, etc. This shell script is provided as-is without warranty of any kind and is intended for educational purposes only. | https://github.com/dana-at-cp/backdoor-apk | 1761 | 668| 
-| 20211206T04:13:05Z | Null | https://github.com/mr-quixter/ShellBackdoor | 0 | 1| 
 
 
 # symbolic execution on Github 推荐

@@ -17,6 +17,8 @@
 | 20211208 | Stealthily Creating Processes via Abusing Undocumented COM Helppane Libraries | https://github.com/vxunderground/VXUG-Papers/tree/main/Stealthily%20Creating%20Processes| 
 | 20211208 | Pwn2Own Vancouver 2021 比赛中 V8 漏洞的分析和利用 | https://sec.today/pulses/4bff6770-0070-4343-bca2-0a1fbc568507/| 
 | 20211208 | 后量子加密实现的现状 | https://sec.today/pulses/5ba3d0e8-d37f-4fc0-a7b4-c64f1b96cd09/| 
+| 20211208 | Pwn2Own Vancouver 2021 比赛中 V8 漏洞的分析和利用 | https://www.zerodayinitiative.com/blog/2021/12/6/two-birds-with-one-stone-an-introduction-to-v8-and-jit-exploitation| 
+| 20211208 | 后量子加密实现的现状 | http://blog.quarkslab.com/status-of-post-quantum-cryptography-implementation.html| 
 
 
 # 安全维基 推荐
@@ -73,6 +75,11 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211208T12:49:54Z | The best Python Backdoor👌 | https://github.com/S12cybersecurity/Backdoor | 1 | 0| 
+| 20211208T11:04:27Z | Null | https://github.com/Scorpio-m7/tomcat-backdoor | 3 | 1| 
+| 20211208T09:18:46Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 383 | 66| 
+| 20211208T06:13:26Z | Null | https://github.com/candralksn/backdoorshell | 0 | 0| 
+| 20211208T04:30:11Z | Experimental and sneaky backdoor patch for OpenSSH Portable.  | https://github.com/Psmths/openssh-backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
