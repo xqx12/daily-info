@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211208T13:08:11Z | Exploit grafana Pre-Auth LFI | https://github.com/Gabriel-Lima232/Grafana-LFI-8.x | 0 | 0| 
 | 20211208T13:03:12Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 36 | 20| 
 | 20211208T12:45:47Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 15| 
 | 20211208T12:45:30Z | DDOS Archive  by RootSec (Scanners, BotNets (Mirai and QBot Premium & Normal and more), Exploits, Methods, Sniffers) | https://github.com/R00tS3c/DDOS-RootSec | 120 | 78| 
@@ -94,7 +95,6 @@
 | 20211208T12:10:17Z | fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | 0 | 0| 
 | 20211208T11:49:40Z | Test | https://github.com/YTEntity303/PS4-Exploit | 0 | 0| 
 | 20211208T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10418 | 1796| 
-| 20211208T11:30:41Z | remotely exploits services and files | https://github.com/koshtony/remote-xploiter | 0 | 0| 
 
 
 # backdoor on Github 推荐
