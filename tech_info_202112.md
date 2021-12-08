@@ -6,6 +6,17 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20211208 | 因担心安全问题，美国副总统贺锦丽不使用蓝牙耳机 | https://www.politico.com/newsletters/west-wing-playbook/2021/12/06/kamala-harris-is-bluetooth-phobic-495343| 
+| 20211208 | Google 对 Glupteba 攻击行动的分析 | https://blog.google/threat-analysis-group/disrupting-glupteba-operation/| 
+| 20211208 | EDRSandBlast - EDR bypass through Kernel callbacks removal | https://github.com/wavestone-cdt/EdrSandblast| 
+| 20211208 | 用于枚举 Windows 系统 Pipe 的工具 | https://github.com/xforcered/xPipe| 
+| 20211208 | Mandiant 对 FIN13 APT 组织的分析报告 | https://www.mandiant.com/resources/fin13-cybercriminal-mexico| 
+| 20211208 | Windows 10 RCE: The exploit is in the link | http://positive.security/blog/ms-officecmd-rce| 
+| 20211208 | USB Over Ethernet - 有研究团队在 Eltima SDK 中发现严重漏洞，影响多款云厂商产品 | https://www.sentinelone.com/labs/usb-over-ethernet-multiple-privilege-escalation-vulnerabilities-in-aws-and-other-major-cloud-services/| 
+| 20211208 | 用于实现汽车 ECU 诊断功能的工具 | https://github.com/rnd-ash/ecu_diagnostics| 
+| 20211208 | Stealthily Creating Processes via Abusing Undocumented COM Helppane Libraries | https://github.com/vxunderground/VXUG-Papers/tree/main/Stealthily%20Creating%20Processes| 
+| 20211208 | Pwn2Own Vancouver 2021 比赛中 V8 漏洞的分析和利用 | https://sec.today/pulses/4bff6770-0070-4343-bca2-0a1fbc568507/| 
+| 20211208 | 后量子加密实现的现状 | https://sec.today/pulses/5ba3d0e8-d37f-4fc0-a7b4-c64f1b96cd09/| 
 | 20211207 | 有研究员基于 Virtualization.framework 实现虚拟化执行 iBoot | https://github.com/NyanSatan/Virtual-iBoot-Fun| 
 | 20211207 | 20+ Ways To Bypass Your Macos Privacy Mechanisms | https://www.slideshare.net/wojdwo/20-ways-to-bypass-your-macos-privacy-mechanisms-250791887| 
 | 20211207 | RESTler - 微软开源了一个 Stateful REST API Fuzzer | https://github.com/microsoft/restler-fuzzer| 
@@ -15,22 +26,13 @@
 | 20211207 | Android 12 应用启动流程分析 | http://evilpan.com/2021/12/05/apk-startup/| 
 | 20211207 | iOS 函数指针保护机制 PAC 实现详解 | https://paper.seebug.org/1777/| 
 | 20211207 | 解析服务提供商对非授权域名解析情况的评估 | https://blog.netlab.360.com/analysis-of-popular-domain-names-by-non-authorized-resolvers/| 
-| 20211207 | 加密后门的木马分析. | https://tttang.com/archive/1342/| 
-| 20211207 | 对M1逆向工程会议演讲视频. | https://www.youtube.com/watch?v=espRmO41Bg4&feature=youtu.be| 
-| 20211207 | Hack Different: Pwning iOS 14 with Generation Z Bug. | https://www.youtube.com/watch?v=fLXc5PJdtp0&feature=youtu.be| 
-| 20211206 | SSRF vulnerability in AppSheet - Google VRP | https://nechudav.blogspot.com/2021/12/ssrf-vulnerability-in-appsheet-google.html| 
-| 20211206 | 加密货币交易平台 Bitmart 被黑，被盗 1.96 亿美元 | https://www.cnbc.com/2021/12/05/hackers-take-196-million-from-crypto-exchange-bitmart-in-large-breach.html| 
-| 20211206 | Linux 6pack 驱动 Slab 越界写漏洞分析（CVE-2021-42008） | http://syst3mfailure.io/sixpack-slab-out-of-bounds| 
-| 20211206 | Windows Remote Desktop Client RCE 漏洞分析（CVE-2021-34535） | https://www.synack.com/blog/this-microsoft-windows-rce-vulnerability-gives-an-attacker-complete-control/| 
-| 20211206 | 一款将日常使用的命令行工具输出 JSON 化的工具 | https://github.com/kellyjonbrazil/jc| 
-| 20211206 | 开源交换机 FreeSWITCH 的扫描和漏洞利用工具 | https://github.com/0xInfection/PewSWITCH| 
-| 20211206 | 云服务提供商（AWS，GCP，Azure）的历史安全漏洞整理 | https://github.com/SummitRoute/csp_security_mistakes| 
-| 20211206 | 慢雾安全团队整理的区块链安全知识库 | https://github.com/slowmist/Knowledge-Base| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20211208 | Digvuln Tricks之JS泄露全到后台越权 | https://www.sec-in.com/article/1134| 
+| 20211208 | 僵尸网络是如何应对执法行动的？ | https://mp.weixin.qq.com/s/okOIk2Ery3FdvtHIGtjr_Q| 
 | 20211207 | 利用DoH技术加密传输的DNS隧道流量检测分析 | https://mp.weixin.qq.com/s/TY17e0hpW0b9n4eQtcvaeg| 
 | 20211207 | 邮件安全的27年漫漫路 | https://mp.weixin.qq.com/s/U5r7fzsGgjD5IZIh3LIcWA| 
 | 20211207 | JSPKiller: 基于污点分析的JSP Webshell检测工具 | https://github.com/EmYiQing/JSPKiller| 
@@ -39,28 +41,27 @@
 | 20211207 | 如何使用Yakit进行流量劫持 | https://mp.weixin.qq.com/s/9vVRTehwAhkSLM65JaKiQA| 
 | 20211207 | 基于模糊加权随机森林算法的恶意软件检测 | https://mp.weixin.qq.com/s/ytvN73RMv4b9NtSs0vqqPg| 
 | 20211206 | [HTB] Nest Writeup | http://mp.weixin.qq.com/s?__biz=MzIwOTA4NTg4MA==&mid=2652489909&idx=1&sn=812588b0d62ad59621bee6ac76f74dea&chksm=8c945c62bbe3d57476b0e05e98a4473cb6cea91e329a5bd3e462646a4539bd13341391615ec6#rd| 
-| 20211206 | 解析服务提供商对非授权域名解析情况的评估 | https://mp.weixin.qq.com/s/v5kcg9XZGb8DwtpNgHXRCQ| 
-| 20211206 | 安全运营项目的工作方法 | https://mp.weixin.qq.com/s/UkOHsg5I6v8JJrsKucEewA| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211208T02:55:21Z | CVE-2021-43798 | Null | https://github.com/tangxiaofeng7/CVE-2021-43798-Grafana-File-Read | | 
-| 20211208T02:51:46Z | CVE-2021-43798 | CVE-2021-43798:Grafana 任意文件读取漏洞 | https://github.com/Mr-xn/CVE-2021-43798 | | 
-| 20211208T02:34:11Z | CVE-2021-43798 | grafana-fileread-0day-poc | https://github.com/Yang-Zhongshan/grafana-fileread-0day-poc-CVE-2021-43798 | | 
-| 20211208T02:25:39Z | CVE-2021-43798 | Grafana Arbitrary File Reading Vulnerability | https://github.com/zer0yu/CVE-2021-43798 | | 
-| 20211208T02:06:44Z | CVE-2021-34045 | druid未授权访问批量扫描poc | https://github.com/MzzdToT/CVE-2021-34045 | | 
-| 20211208T01:59:44Z | CVE-2021-43798 | CVE-2021-43798 - Grafana 8.x Path Traversal (Pre-Auth) | https://github.com/taythebot/CVE-2021-43798 | | 
-| 20211208T01:41:01Z | CVE-2021-43799 | Python Exploit Code  | https://github.com/scopion/CVE-2021-43799 | | 
-| 20211208T01:21:34Z | CVE-2021-43798 | Python Exploit Code  | https://github.com/darkerego/CVE-2021-43798 | | 
-| 20211207T21:54:02Z | CVE-2021-22204 | reverse shell execution exploit of CVE 22204 | https://github.com/Asaad27/CVE-2021-22204-RSE | | 
-| 20211207T16:21:22Z | cve-2021-38314 | Null | https://github.com/phrantom/cve-2021-38314 | | 
+| 20211208T12:48:30Z | CVE-2021-43798 | Grafana Unauthorized arbitrary file reading vulnerability | https://github.com/jas502n/Grafana-CVE-2021-43798 | | 
+| 20211208T11:39:34Z | CVE-2021-43798 | Null | https://github.com/tangxiaofeng7/CVE-2021-43798-Grafana-File-Read | | 
+| 20211208T10:35:31Z | CVE-2021-43798 | Grafana Arbitrary File Reading Vulnerability | https://github.com/zer0yu/CVE-2021-43798 | | 
+| 20211208T10:35:01Z | CVE-2021-43798 | CVE-2021-43798:Grafana 任意文件读取漏洞 | https://github.com/Mr-xn/CVE-2021-43798 | | 
+| 20211208T10:31:57Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | | 
+| 20211208T09:19:26Z | CVE-2021-43469 | CVE-2021-43469 | https://github.com/badboycxcc/CVE-2021-43469 | | 
+| 20211208T07:47:34Z | CVE-2021-43798 | CVE-2021-43798 - Grafana 8.x Path Traversal (Pre-Auth) | https://github.com/taythebot/CVE-2021-43798 | | 
+| 20211208T07:38:45Z | CVE-2021-43798 | grafana CVE-2021-43798任意文件读取漏洞POC，采用多插件轮训检测的方法，允许指定单URL和从文件中读取URL | https://github.com/j-jasson/CVE-2021-43798-grafana_fileread | | 
+| 20211208T07:30:04Z | CVE-2021-43798 | Grafana File-Read Vuln | https://github.com/JiuBanSec/Grafana-CVE-2021-43798 | | 
+| 20211208T07:16:27Z | CVE-2021-43798 | CVE-2021-43798-Grafana任意文件读取漏洞 | https://github.com/lfz97/CVE-2021-43798-Grafana-File-Read | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211208T07:54:25Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 219 | 36| 
 | 20211208T02:59:01Z | Spring 2021 Geography 817 work folder  | https://github.com/klee12/klee12.github.io | 0 | 0| 
 | 20211208T02:23:56Z | modern regular expression syntax everywhere with a painless upgrade path | https://github.com/SonOfLilit/kleenexp | 30 | 3| 
 | 20211207T17:25:10Z | 程序员哥哥，你是来找可莉玩的吗？可莉语音包，适用于 vscode-rainbow-fart 拓展。 | https://github.com/Ran-ying/Klee-rainbow-fart | 12 | 1| 
@@ -70,13 +71,12 @@
 | 20211207T02:07:46Z | KLEE support llvm-9.0.0 | https://github.com/YizhuoZhai/yzklee | 0 | 0| 
 | 20211206T23:19:51Z | A small demo to improve documentation | https://github.com/Fernando-Adauto/kleeen-infusion-demo | 0 | 0| 
 | 20211206T19:29:27Z | A unique discord bot with capabilities of making life easier! | https://github.com/BraveCake/Klee-Project---Discord-Bot | 0 | 0| 
-| 20211206T12:33:16Z | Null | https://github.com/thierry-tct/KLEE-SEMu | 3 | 2| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211208T02:53:13Z | CRAX++: software CRash analysis for Automatic eXploit generation | https://github.com/aesophor/CRAXplusplus | 16 | 3| 
+| 20211208T03:49:15Z | CRAX++: software CRash analysis for Automatic eXploit generation | https://github.com/aesophor/CRAXplusplus | 18 | 3| 
 | 20211207T15:25:17Z | Null | https://github.com/yuvalkirstain/s2e-coref | 25 | 9| 
 | 20211206T08:22:15Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 189 | 39| 
 | 20211202T14:39:02Z | Null | https://github.com/s2e-lab/s2e-lab.github.io | 0 | 0| 
@@ -138,16 +138,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211208T02:59:59Z | This Repository is for maintaining RegressFuzz settings | https://github.com/hanyoungYoo/RegressFuzzSetting | 0 | 0| 
-| 20211208T02:56:03Z | Null | https://github.com/RajuRanjanSingh/Early-self-diagnosis-of-dengue-symptoms-using-fuzzy-logic | 0 | 0| 
-| 20211208T02:36:22Z | Python mutational fuzzing script  | https://github.com/Mohammad-Sarker/Mutational-Fuzzer | 0 | 0| 
-| 20211208T02:27:24Z | An implementation of eFLL in Toit. | https://github.com/davidg238/fuzzy_logic | 0 | 0| 
-| 20211208T02:08:44Z | CATS is a REST APIs fuzzer and negative testing tool for OpenAPI endpoints. CATS automatically  generates, runs and reports tests with minimum configuration and no coding effort. Tests are self-healing and does not require maintenance. | https://github.com/Endava/cats | 471 | 20| 
-| 20211208T01:42:26Z | 僕の卒業論文 | https://github.com/yoshiyoshiharu/oblique-fuzzy-vector-mrp | 0 | 0| 
-| 20211208T01:36:49Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20211208T01:14:03Z | Null | https://github.com/ys-zhang/filter-fuzz | 0 | 0| 
-| 20211208T01:10:48Z | python scripts to run fuzzer. | https://github.com/firefoxxpyang/run_fuzzer_scripts | 0 | 0| 
-| 20211208T01:03:56Z | Null | https://github.com/LJ-Jiahe/fuzzy_measure_fusion | 0 | 0| 
+| 20211208T12:47:14Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 4 | 2| 
+| 20211208T12:31:42Z | White-box fuzzer for Java bytecode | https://github.com/vorpal-research/kex | 7 | 10| 
+| 20211208T12:31:28Z | Null | https://github.com/sheunl/Fuzzy-App | 0 | 0| 
+| 20211208T12:15:38Z | Null | https://github.com/Potat0000/AutoFuzzer | 1 | 0| 
+| 20211208T12:11:52Z | Null | https://github.com/TitamSeptian/makanan-fuzzy | 0 | 0| 
+| 20211208T12:10:18Z | Binary, coverage-guided fuzzer for Windows and macOS | https://github.com/googleprojectzero/Jackalope | 667 | 82| 
+| 20211208T12:07:40Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
+| 20211208T12:06:11Z | Null | https://github.com/finchFuzzy/FinchFuzzy.github.io | 0 | 0| 
+| 20211208T11:53:31Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 317 | 43| 
+| 20211208T11:50:14Z | Null | https://github.com/liuyiyuya/fuzzy-waddle | 0 | 0| 
 
 
 
