@@ -31,10 +31,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211208T13:12:17Z | CVE-2021-43798 | CVE-2021-43798:Grafana 任意文件读取漏洞 | https://github.com/Mr-xn/CVE-2021-43798 | | 
 | 20211208T12:48:30Z | CVE-2021-43798 | Grafana Unauthorized arbitrary file reading vulnerability | https://github.com/jas502n/Grafana-CVE-2021-43798 | | 
 | 20211208T11:39:34Z | CVE-2021-43798 | Null | https://github.com/tangxiaofeng7/CVE-2021-43798-Grafana-File-Read | | 
 | 20211208T10:35:31Z | CVE-2021-43798 | Grafana Arbitrary File Reading Vulnerability | https://github.com/zer0yu/CVE-2021-43798 | | 
-| 20211208T10:35:01Z | CVE-2021-43798 | CVE-2021-43798:Grafana 任意文件读取漏洞 | https://github.com/Mr-xn/CVE-2021-43798 | | 
 | 20211208T10:31:57Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | | 
 | 20211208T09:19:26Z | CVE-2021-43469 | CVE-2021-43469 | https://github.com/badboycxcc/CVE-2021-43469 | | 
 | 20211208T07:47:34Z | CVE-2021-43798 | CVE-2021-43798 - Grafana 8.x Path Traversal (Pre-Auth) | https://github.com/taythebot/CVE-2021-43798 | | 
@@ -60,6 +60,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211208T13:12:04Z | This repo explains in details about buffer overflow exploit development for windows executable. | https://github.com/cris-m/buffer_overflow_exploit_development | 0 | 0| 
 | 20211208T13:08:11Z | Exploit grafana Pre-Auth LFI | https://github.com/Gabriel-Lima232/Grafana-LFI-8.x | 0 | 0| 
 | 20211208T13:03:12Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 36 | 20| 
 | 20211208T12:45:47Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 15| 
@@ -69,7 +70,6 @@
 | 20211208T12:17:56Z | A parallel CNN architecture - Discriminative-Global- Local Network (DGLN) to exploit both the discriminative structural information at global scope and the discriminative human-introduced local infomration at local level for improvement of re-id task with frozen learning technique. | https://github.com/OatmealLiu/DGLN-model-for-Person-Re-ID-with-frozen-learning | 0 | 0| 
 | 20211208T12:10:17Z | fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | 0 | 0| 
 | 20211208T11:49:40Z | Test | https://github.com/YTEntity303/PS4-Exploit | 0 | 0| 
-| 20211208T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10418 | 1796| 
 
 
 # backdoor on Github 推荐
