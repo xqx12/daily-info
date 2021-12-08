@@ -46,10 +46,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211208T01:21:34Z | CVE-2021-43798 | Python Exploit Code  | https://github.com/darkerego/CVE-2021-43798 | | 
 | 20211208T01:02:57Z | CVE-2021-43798 | CVE-2021-43798:Grafana 任意文件读取漏洞 | https://github.com/Mr-xn/CVE-2021-43798 | | 
 | 20211208T00:55:16Z | CVE-2021-43798 | Null | https://github.com/tangxiaofeng7/CVE-2021-43798-Grafana-File-Read | | 
 | 20211208T00:52:51Z | CVE-2021-43798 | Grafana Arbitrary File Reading Vulnerability | https://github.com/zer0yu/CVE-2021-43798 | | 
-| 20211208T00:46:59Z | CVE-2021-43798 | Python Exploit Code  | https://github.com/darkerego/CVE-2021-43798 | | 
 | 20211207T21:54:02Z | CVE-2021-22204 | reverse shell execution exploit of CVE 22204 | https://github.com/Asaad27/CVE-2021-22204-RSE | | 
 | 20211207T18:09:23Z | CVE-2021-43798 | CVE-2021-43798 - Grafana 8.x Path Traversal (Pre-Auth) | https://github.com/taythebot/CVE-2021-43798 | | 
 | 20211207T16:21:22Z | cve-2021-38314 | Null | https://github.com/phrantom/cve-2021-38314 | | 
@@ -85,14 +85,14 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211208T01:21:34Z | Python Exploit Code  | https://github.com/darkerego/CVE-2021-43798 | 2 | 1| 
+| 20211208T01:21:32Z | A Red vs Blue report in which a Vulnerable machine was exploited and explained from a Pen Testing report, and after a Defensive side showing mitigations and ways to fix the security flaws found | https://github.com/Nicholas-Menanno/FinalProject | 0 | 0| 
 | 20211208T01:20:07Z | Null | https://github.com/Eyeofthequeen/TP_sys_exploitation | 0 | 0| 
 | 20211208T01:19:42Z | Null | https://github.com/saaramar/exploit_pwn_chgs_ubuntu_21.10 | 1 | 0| 
-| 20211208T01:19:29Z | A Red vs Blue report in which a Vulnerable machine was exploited and explained from a Pen Testing report, and after a Defensive side showing mitigations and ways to fix the security flaws found | https://github.com/Nicholas-Menanno/FinalProject | 0 | 0| 
 | 20211208T01:06:10Z | Null | https://github.com/smurtau/Testing-and-Exploiting-Eyeballer | 0 | 1| 
 | 20211208T01:03:35Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 20| 
 | 20211208T01:01:06Z | Roblox exploits list with safe percentage & more information about them. | https://github.com/I2rys/REL | 1 | 0| 
 | 20211208T00:57:38Z | This is my exploit template to my 2021 yt tutorial  | https://github.com/RealChronics/Exploit-Template | 0 | 0| 
-| 20211208T00:46:59Z | Python Exploit Code  | https://github.com/darkerego/CVE-2021-43798 | 1 | 1| 
 | 20211208T00:45:47Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 15| 
 | 20211208T00:36:30Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 269 | 520| 
 
