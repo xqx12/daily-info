@@ -85,16 +85,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211208T02:42:08Z | Network vulnerability exploitation library | https://github.com/sairson/NetworkExpLibrary | 12 | 3| 
-| 20211208T02:33:58Z | Null | https://github.com/Eyeofthequeen/TP_sys_exploitation | 0 | 0| 
-| 20211208T02:29:55Z | Null | https://github.com/smurtau/Testing-and-Exploiting-Eyeballer | 0 | 1| 
-| 20211208T02:25:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10416 | 1797| 
-| 20211208T02:03:14Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 20| 
-| 20211208T01:41:01Z | Python Exploit Code  | https://github.com/scopion/CVE-2021-43799 | 1 | 1| 
-| 20211208T01:29:36Z | A Red vs Blue report in which a Vulnerable machine was exploited and explained from a Pen Testing report, and after a Defensive side showing mitigations and ways to fix the security flaws found | https://github.com/Nicholas-Menanno/FinalProject | 0 | 0| 
-| 20211208T01:24:34Z | This is my exploit template to my 2021 yt tutorial  | https://github.com/RealChronics/Exploit-Template | 0 | 0| 
-| 20211208T01:21:34Z | Python Exploit Code  | https://github.com/darkerego/CVE-2021-43798 | 2 | 1| 
-| 20211208T01:19:42Z | Null | https://github.com/saaramar/exploit_pwn_chgs_ubuntu_21.10 | 1 | 0| 
+| 20211208T13:03:12Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 36 | 20| 
+| 20211208T12:45:47Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 15| 
+| 20211208T12:45:30Z | DDOS Archive  by RootSec (Scanners, BotNets (Mirai and QBot Premium & Normal and more), Exploits, Methods, Sniffers) | https://github.com/R00tS3c/DDOS-RootSec | 120 | 78| 
+| 20211208T12:36:43Z | Rodan Exploitation Framework | https://github.com/Etisalat-Egypt/Rodan | 54 | 16| 
+| 20211208T12:20:17Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 256 | 78| 
+| 20211208T12:17:56Z | A parallel CNN architecture - Discriminative-Global- Local Network (DGLN) to exploit both the discriminative structural information at global scope and the discriminative human-introduced local infomration at local level for improvement of re-id task with frozen learning technique. | https://github.com/OatmealLiu/DGLN-model-for-Person-Re-ID-with-frozen-learning | 0 | 0| 
+| 20211208T12:10:17Z | fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | 0 | 0| 
+| 20211208T11:49:40Z | Test | https://github.com/YTEntity303/PS4-Exploit | 0 | 0| 
+| 20211208T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10418 | 1796| 
+| 20211208T11:30:41Z | remotely exploits services and files | https://github.com/koshtony/remote-xploiter | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -115,6 +115,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211208T12:35:58Z | An Adaptive Symbolic Execution Method For Detecting Heap Overflow Vulnerability Based On Vulnerability Specification | https://github.com/alikmli/HeapOverFlow-Detection | 0 | 0| 
+| 20211208T05:56:28Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 10 | 5| 
 | 20211208T01:43:03Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2583 | 381| 
 | 20211207T20:42:13Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 16 | 12| 
 | 20211207T19:34:06Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 18 | 5| 
@@ -123,8 +125,6 @@
 | 20211207T09:21:37Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 22 | 12| 
 | 20211206T11:10:32Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 165 | 37| 
 | 20211206T09:10:59Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 182 | 10| 
-| 20211206T08:22:15Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 189 | 39| 
-| 20211204T22:48:05Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 10 | 5| 
 
 
 # big4 on Github 推荐
