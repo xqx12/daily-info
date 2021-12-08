@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211208T02:55:21Z | CVE-2021-43798 | Null | https://github.com/tangxiaofeng7/CVE-2021-43798-Grafana-File-Read | | 
 | 20211208T02:51:46Z | CVE-2021-43798 | CVE-2021-43798:Grafana 任意文件读取漏洞 | https://github.com/Mr-xn/CVE-2021-43798 | | 
-| 20211208T02:50:20Z | CVE-2021-43798 | Null | https://github.com/tangxiaofeng7/CVE-2021-43798-Grafana-File-Read | | 
 | 20211208T02:34:11Z | CVE-2021-43798 | grafana-fileread-0day-poc | https://github.com/Yang-Zhongshan/grafana-fileread-0day-poc-CVE-2021-43798 | | 
 | 20211208T02:25:39Z | CVE-2021-43798 | Grafana Arbitrary File Reading Vulnerability | https://github.com/zer0yu/CVE-2021-43798 | | 
 | 20211208T02:06:44Z | CVE-2021-34045 | druid未授权访问批量扫描poc | https://github.com/MzzdToT/CVE-2021-34045 | | 
