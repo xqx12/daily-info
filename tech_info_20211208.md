@@ -31,8 +31,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211208T13:18:37Z | CVE-2021-43798 | Grafana Unauthorized arbitrary file reading vulnerability | https://github.com/jas502n/Grafana-CVE-2021-43798 | | 
 | 20211208T13:17:42Z | CVE-2021-32724 | Null | https://github.com/MaximeSchlegel/CVE-2021-32724-Target | | 
-| 20211208T13:13:02Z | CVE-2021-43798 | Grafana Unauthorized arbitrary file reading vulnerability | https://github.com/jas502n/Grafana-CVE-2021-43798 | | 
 | 20211208T13:12:17Z | CVE-2021-43798 | CVE-2021-43798:Grafana 任意文件读取漏洞 | https://github.com/Mr-xn/CVE-2021-43798 | | 
 | 20211208T11:39:34Z | CVE-2021-43798 | Null | https://github.com/tangxiaofeng7/CVE-2021-43798-Grafana-File-Read | | 
 | 20211208T10:35:31Z | CVE-2021-43798 | Grafana Arbitrary File Reading Vulnerability | https://github.com/zer0yu/CVE-2021-43798 | | 
@@ -98,6 +98,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211208T13:20:02Z | Null | https://github.com/wendell1224/Fuzz-Auth-For-Burp | 0 | 0| 
+| 20211208T13:18:42Z | Null | https://github.com/Anonymoussra/fuzzy-fornight | 0 | 0| 
 | 20211208T13:14:04Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211208T13:02:49Z | Tool to Generate a Fuzzy Real Estate Development Model upon a Site | https://github.com/irawinder/FuzzyBuilder | 2 | 0| 
 | 20211208T12:47:14Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 4 | 2| 
@@ -106,8 +108,6 @@
 | 20211208T12:15:38Z | Null | https://github.com/Potat0000/AutoFuzzer | 1 | 0| 
 | 20211208T12:11:52Z | Null | https://github.com/TitamSeptian/makanan-fuzzy | 0 | 0| 
 | 20211208T12:10:18Z | Binary, coverage-guided fuzzer for Windows and macOS | https://github.com/googleprojectzero/Jackalope | 667 | 82| 
-| 20211208T12:07:40Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
-| 20211208T12:06:11Z | Null | https://github.com/finchFuzzy/FinchFuzzy.github.io | 0 | 0| 
 
 
 
