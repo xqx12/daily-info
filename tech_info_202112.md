@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211208T02:29:55Z | Null | https://github.com/smurtau/Testing-and-Exploiting-Eyeballer | 0 | 1| 
 | 20211208T02:25:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10416 | 1797| 
 | 20211208T02:03:14Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 20| 
 | 20211208T01:41:01Z | Python Exploit Code  | https://github.com/scopion/CVE-2021-43799 | 1 | 1| 
@@ -93,7 +94,6 @@
 | 20211208T01:21:34Z | Python Exploit Code  | https://github.com/darkerego/CVE-2021-43798 | 2 | 1| 
 | 20211208T01:20:07Z | Null | https://github.com/Eyeofthequeen/TP_sys_exploitation | 0 | 0| 
 | 20211208T01:19:42Z | Null | https://github.com/saaramar/exploit_pwn_chgs_ubuntu_21.10 | 1 | 0| 
-| 20211208T01:06:10Z | Null | https://github.com/smurtau/Testing-and-Exploiting-Eyeballer | 0 | 1| 
 | 20211208T01:01:06Z | Roblox exploits list with safe percentage & more information about them. | https://github.com/I2rys/REL | 1 | 0| 
 
 
