@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211208T13:48:23Z | Exploit grafana Pre-Auth LFI | https://github.com/Gabriel-Lima232/Grafana-LFI-8.x | 0 | 0| 
 | 20211208T13:34:18Z | Geohazards Thematic Exploitation guide | https://github.com/Terradue/doc-tep-geohazards | 9 | 27| 
 | 20211208T13:33:51Z | Exploiting different standard temporal structures seen in time series processes | https://github.com/doke93/Modeling-Time-Series-using-ARIMA-model | 0 | 0| 
 | 20211208T13:29:53Z | This repo explains in details about buffer overflow exploit development for windows executable. | https://github.com/cris-m/Buffer-Overflow-Exploit-Development | 2 | 0| 
@@ -92,7 +93,6 @@
 | 20211208T13:27:13Z | Haimgard is an environment for writing, testing and using exploit code. | https://github.com/onuratakan/Haimgard | 1 | 0| 
 | 20211208T13:15:04Z | Exploit script for CVE-2021-27211 | https://github.com/b4shfire/stegcrack | 4 | 2| 
 | 20211208T13:12:04Z | This repo explains in details about buffer overflow exploit development for windows executable. | https://github.com/cris-m/buffer_overflow_exploit_development | 0 | 0| 
-| 20211208T13:08:11Z | Exploit grafana Pre-Auth LFI | https://github.com/Gabriel-Lima232/Grafana-LFI-8.x | 0 | 0| 
 | 20211208T13:03:12Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 36 | 20| 
 | 20211208T12:45:47Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 15| 
 
