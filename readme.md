@@ -98,6 +98,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211208T13:29:43Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 640 | 133| 
 | 20211208T13:20:02Z | Null | https://github.com/wendell1224/Fuzz-Auth-For-Burp | 0 | 0| 
 | 20211208T13:18:42Z | Null | https://github.com/Anonymoussra/fuzzy-fornight | 0 | 0| 
 | 20211208T13:14:04Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
@@ -107,7 +108,6 @@
 | 20211208T12:31:28Z | Null | https://github.com/sheunl/Fuzzy-App | 0 | 0| 
 | 20211208T12:15:38Z | Null | https://github.com/Potat0000/AutoFuzzer | 1 | 0| 
 | 20211208T12:11:52Z | Null | https://github.com/TitamSeptian/makanan-fuzzy | 0 | 0| 
-| 20211208T12:10:18Z | Binary, coverage-guided fuzzer for Windows and macOS | https://github.com/googleprojectzero/Jackalope | 667 | 82| 
 
 
 
