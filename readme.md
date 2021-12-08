@@ -51,7 +51,6 @@
 | 20211207T16:22:10Z | Witch-KLEE - A KLEE-based error witness checker | https://github.com/ayazip/witch-klee | 0 | 0| 
 | 20211207T16:19:31Z | Null | https://github.com/coffee100percnt/KleeDiscordBomber | 5 | 0| 
 | 20211207T09:39:53Z | Null | https://github.com/ka11i0/d7020e_klee | 0 | 0| 
-| 20211207T09:28:48Z | modern regular expression syntax everywhere with a painless upgrade path | https://github.com/SonOfLilit/kleenexp | 30 | 3| 
 | 20211207T02:07:46Z | KLEE support llvm-9.0.0 | https://github.com/YizhuoZhai/yzklee | 0 | 0| 
 
 

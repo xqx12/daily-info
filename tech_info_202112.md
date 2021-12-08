@@ -61,11 +61,11 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211208T02:23:56Z | modern regular expression syntax everywhere with a painless upgrade path | https://github.com/SonOfLilit/kleenexp | 30 | 3| 
 | 20211207T17:25:10Z | 程序员哥哥，你是来找可莉玩的吗？可莉语音包，适用于 vscode-rainbow-fart 拓展。 | https://github.com/Ran-ying/Klee-rainbow-fart | 12 | 1| 
 | 20211207T16:22:10Z | Witch-KLEE - A KLEE-based error witness checker | https://github.com/ayazip/witch-klee | 0 | 0| 
 | 20211207T16:19:31Z | Null | https://github.com/coffee100percnt/KleeDiscordBomber | 5 | 0| 
 | 20211207T09:39:53Z | Null | https://github.com/ka11i0/d7020e_klee | 0 | 0| 
-| 20211207T09:28:48Z | modern regular expression syntax everywhere with a painless upgrade path | https://github.com/SonOfLilit/kleenexp | 30 | 3| 
 | 20211207T02:07:46Z | KLEE support llvm-9.0.0 | https://github.com/YizhuoZhai/yzklee | 0 | 0| 
 | 20211206T23:19:51Z | A small demo to improve documentation | https://github.com/Fernando-Adauto/kleeen-infusion-demo | 0 | 0| 
 | 20211206T19:29:27Z | A unique discord bot with capabilities of making life easier! | https://github.com/BraveCake/Klee-Project---Discord-Bot | 0 | 0| 
@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211208T02:25:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10416 | 1797| 
 | 20211208T02:03:14Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 20| 
 | 20211208T01:41:01Z | Python Exploit Code  | https://github.com/scopion/CVE-2021-43799 | 1 | 1| 
 | 20211208T01:29:36Z | A Red vs Blue report in which a Vulnerable machine was exploited and explained from a Pen Testing report, and after a Defensive side showing mitigations and ways to fix the security flaws found | https://github.com/Nicholas-Menanno/FinalProject | 0 | 0| 
@@ -94,7 +95,6 @@
 | 20211208T01:19:42Z | Null | https://github.com/saaramar/exploit_pwn_chgs_ubuntu_21.10 | 1 | 0| 
 | 20211208T01:06:10Z | Null | https://github.com/smurtau/Testing-and-Exploiting-Eyeballer | 0 | 1| 
 | 20211208T01:01:06Z | Roblox exploits list with safe percentage & more information about them. | https://github.com/I2rys/REL | 1 | 0| 
-| 20211208T00:45:47Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 15| 
 
 
 # backdoor on Github 推荐
