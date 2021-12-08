@@ -57,7 +57,6 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211207T17:42:28Z | CRAX++: software CRash analysis for Automatic eXploit generation | https://github.com/aesophor/CRAXplusplus | 15 | 3| 
 | 20211207T15:25:17Z | Null | https://github.com/yuvalkirstain/s2e-coref | 25 | 9| 
 
 
