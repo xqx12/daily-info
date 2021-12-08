@@ -85,8 +85,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211208T01:41:01Z | Python Exploit Code  | https://github.com/scopion/CVE-2021-43799 | 1 | 1| 
 | 20211208T01:29:36Z | A Red vs Blue report in which a Vulnerable machine was exploited and explained from a Pen Testing report, and after a Defensive side showing mitigations and ways to fix the security flaws found | https://github.com/Nicholas-Menanno/FinalProject | 0 | 0| 
-| 20211208T01:28:06Z | Python Exploit Code  | https://github.com/scopion/CVE-2021-43799 | 0 | 0| 
 | 20211208T01:24:34Z | This is my exploit template to my 2021 yt tutorial  | https://github.com/RealChronics/Exploit-Template | 0 | 0| 
 | 20211208T01:21:34Z | Python Exploit Code  | https://github.com/darkerego/CVE-2021-43798 | 2 | 1| 
 | 20211208T01:20:07Z | Null | https://github.com/Eyeofthequeen/TP_sys_exploitation | 0 | 0| 
