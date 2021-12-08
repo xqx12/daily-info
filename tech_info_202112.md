@@ -85,7 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211208T13:16:54Z | This repo explains in details about buffer overflow exploit development for windows executable. | https://github.com/cris-m/Buffer-Overflow-Exploit-Development | 0 | 0| 
+| 20211208T13:22:11Z | This repo explains in details about buffer overflow exploit development for windows executable. | https://github.com/cris-m/Buffer-Overflow-Exploit-Development | 2 | 0| 
 | 20211208T13:15:04Z | Exploit script for CVE-2021-27211 | https://github.com/b4shfire/stegcrack | 4 | 2| 
 | 20211208T13:12:04Z | This repo explains in details about buffer overflow exploit development for windows executable. | https://github.com/cris-m/buffer_overflow_exploit_development | 0 | 0| 
 | 20211208T13:08:11Z | Exploit grafana Pre-Auth LFI | https://github.com/Gabriel-Lima232/Grafana-LFI-8.x | 0 | 0| 
