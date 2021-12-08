@@ -113,7 +113,6 @@
 | --- | --- | --- | --- | ---| 
 | 20211207T23:32:41Z | Collected fuzzing payloads from different resources  | https://github.com/osamahamad/FUZZING | 10 | 5| 
 | 20211207T23:10:28Z | Implementations of fuzzy inference systems for improving the extraction process of chia cake extract | https://github.com/accarniel/fuzzy-chia | 0 | 1| 
-| 20211207T22:36:58Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211207T22:27:51Z | Finds the thickness of a surface in a point cloud | https://github.com/jackjgo/cloud_fuzz | 0 | 0| 
 | 20211207T22:26:21Z | Null | https://github.com/SketchNI/fuzzy-eureka | 0 | 0| 
 | 20211207T22:13:09Z | Comparing tool variability and numerical variability in fMRI analyses results | https://github.com/big-data-lab-team/fuzzy-neurotools | 0 | 3| 
@@ -121,6 +120,7 @@
 | 20211207T22:03:01Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 7 | 0| 
 | 20211207T22:02:11Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
 | 20211207T21:51:11Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 731 | 145| 
+| 20211207T21:44:01Z | Null | https://github.com/f-atwi/fuzzy-neural-interactive-agent | 1 | 0| 
 
 
 

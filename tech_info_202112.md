@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211208T01:36:42Z | CVE-2021-43798 | Grafana Arbitrary File Reading Vulnerability | https://github.com/zer0yu/CVE-2021-43798 | | 
+| 20211208T01:38:09Z | CVE-2021-43798 | Grafana Arbitrary File Reading Vulnerability | https://github.com/zer0yu/CVE-2021-43798 | | 
 | 20211208T01:33:45Z | CVE-2021-43798 | Null | https://github.com/tangxiaofeng7/CVE-2021-43798-Grafana-File-Read | | 
 | 20211208T01:28:06Z | CVE-2021-43799 | Python Exploit Code  | https://github.com/scopion/CVE-2021-43799 | | 
 | 20211208T01:21:34Z | CVE-2021-43798 | Python Exploit Code  | https://github.com/darkerego/CVE-2021-43798 | | 
@@ -138,6 +138,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211208T01:36:49Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211208T01:14:03Z | Null | https://github.com/ys-zhang/filter-fuzz | 0 | 0| 
 | 20211208T01:10:48Z | python scripts to run fuzzer. | https://github.com/firefoxxpyang/run_fuzzer_scripts | 0 | 0| 
 | 20211208T01:03:56Z | Null | https://github.com/LJ-Jiahe/fuzzy_measure_fusion | 0 | 0| 
@@ -145,7 +146,6 @@
 | 20211208T00:02:27Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6886 | 1442| 
 | 20211207T23:32:41Z | Collected fuzzing payloads from different resources  | https://github.com/osamahamad/FUZZING | 10 | 5| 
 | 20211207T23:10:28Z | Implementations of fuzzy inference systems for improving the extraction process of chia cake extract | https://github.com/accarniel/fuzzy-chia | 0 | 1| 
-| 20211207T22:36:58Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211207T22:27:51Z | Finds the thickness of a surface in a point cloud | https://github.com/jackjgo/cloud_fuzz | 0 | 0| 
 | 20211207T22:26:21Z | Null | https://github.com/SketchNI/fuzzy-eureka | 0 | 0| 
 
