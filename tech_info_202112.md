@@ -46,10 +46,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211208T01:33:45Z | CVE-2021-43798 | Null | https://github.com/tangxiaofeng7/CVE-2021-43798-Grafana-File-Read | | 
 | 20211208T01:28:06Z | CVE-2021-43799 | Python Exploit Code  | https://github.com/scopion/CVE-2021-43799 | | 
 | 20211208T01:21:34Z | CVE-2021-43798 | Python Exploit Code  | https://github.com/darkerego/CVE-2021-43798 | | 
 | 20211208T01:02:57Z | CVE-2021-43798 | CVE-2021-43798:Grafana 任意文件读取漏洞 | https://github.com/Mr-xn/CVE-2021-43798 | | 
-| 20211208T00:55:16Z | CVE-2021-43798 | Null | https://github.com/tangxiaofeng7/CVE-2021-43798-Grafana-File-Read | | 
 | 20211208T00:52:51Z | CVE-2021-43798 | Grafana Arbitrary File Reading Vulnerability | https://github.com/zer0yu/CVE-2021-43798 | | 
 | 20211207T21:54:02Z | CVE-2021-22204 | reverse shell execution exploit of CVE 22204 | https://github.com/Asaad27/CVE-2021-22204-RSE | | 
 | 20211207T18:09:23Z | CVE-2021-43798 | CVE-2021-43798 - Grafana 8.x Path Traversal (Pre-Auth) | https://github.com/taythebot/CVE-2021-43798 | | 
