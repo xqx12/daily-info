@@ -15,6 +15,9 @@
 | 20211207 | Android 12 应用启动流程分析 | http://evilpan.com/2021/12/05/apk-startup/| 
 | 20211207 | iOS 函数指针保护机制 PAC 实现详解 | https://paper.seebug.org/1777/| 
 | 20211207 | 解析服务提供商对非授权域名解析情况的评估 | https://blog.netlab.360.com/analysis-of-popular-domain-names-by-non-authorized-resolvers/| 
+| 20211207 | 加密后门的木马分析. | https://tttang.com/archive/1342/| 
+| 20211207 | 对M1逆向工程会议演讲视频. | https://www.youtube.com/watch?v=espRmO41Bg4&feature=youtu.be| 
+| 20211207 | Hack Different: Pwning iOS 14 with Generation Z Bug. | https://www.youtube.com/watch?v=fLXc5PJdtp0&feature=youtu.be| 
 
 
 # 安全维基 推荐
@@ -23,17 +26,22 @@
 | 20211207 | 利用DoH技术加密传输的DNS隧道流量检测分析 | https://mp.weixin.qq.com/s/TY17e0hpW0b9n4eQtcvaeg| 
 | 20211207 | 邮件安全的27年漫漫路 | https://mp.weixin.qq.com/s/U5r7fzsGgjD5IZIh3LIcWA| 
 | 20211207 | JSPKiller: 基于污点分析的JSP Webshell检测工具 | https://github.com/EmYiQing/JSPKiller| 
+| 20211207 | 反向探测互联网扫描器 | https://mp.weixin.qq.com/s/Cha_hTGOh-GGVkaZRdFujw| 
+| 20211207 | API经济下的安全变局 | https://mp.weixin.qq.com/s/oXHcoLE5WkEer24mz7BqUg| 
+| 20211207 | 如何使用Yakit进行流量劫持 | https://mp.weixin.qq.com/s/9vVRTehwAhkSLM65JaKiQA| 
+| 20211207 | 基于模糊加权随机森林算法的恶意软件检测 | https://mp.weixin.qq.com/s/ytvN73RMv4b9NtSs0vqqPg| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211207T13:45:08Z | CVE-2021-43798 | Null | https://github.com/tangxiaofeng7/CVE-2021-43798-Grafana-File-Read | | 
-| 20211207T13:44:35Z | CVE-2021-43798 | CVE-2021-43798:Grafana 任意文件读取漏洞 | https://github.com/Mr-xn/CVE-2021-43798 | | 
+| 20211207T21:54:02Z | CVE-2021-22204 | reverse shell execution exploit of CVE 22204 | https://github.com/Asaad27/CVE-2021-22204-RSE | | 
+| 20211207T18:09:23Z | CVE-2021-43798 | CVE-2021-43798 - Grafana 8.x Path Traversal (Pre-Auth) | https://github.com/taythebot/CVE-2021-43798 | | 
+| 20211207T16:21:22Z | cve-2021-38314 | Null | https://github.com/phrantom/cve-2021-38314 | | 
+| 20211207T15:50:32Z | CVE-2021-34045 | druid未授权访问批量扫描poc | https://github.com/MzzdToT/CVE-2021-34045 | | 
+| 20211207T15:25:56Z | CVE-2021-26084 | Confluence Server Webwork OGNL injection | https://github.com/h3v0x/CVE-2021-26084_Confluence | | 
+| 20211207T14:42:04Z | CVE-2021-41277 | Null | https://github.com/zer0yu/CVE-2021-41277 | | 
 | 20211207T12:48:46Z | cve-2021-41773 | CVE-2021-41773 Path Traversal vulnerability in Apache 2.4.49. | https://github.com/Vulnmachines/cve-2021-41773 | | 
-| 20211207T12:16:11Z | CVE-2021-22204 | reverse shell execution exploit of CVE 22204 | https://github.com/Asaad27/CVE-2021-22204-RSE | | 
-| 20211207T07:02:15Z | CVE-2021-34045 | druid未授权访问批量扫描poc | https://github.com/MzzdToT/CVE-2021-34045 | | 
-| 20211207T06:24:04Z | CVE-2021-26084 | Confluence Server Webwork OGNL injection | https://github.com/h3v0x/CVE-2021-26084_Confluence | | 
 | 20211207T06:13:39Z | CVE-2021-20837 | XMLRPC  - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | | 
 | 20211207T03:33:59Z | CVE-2020-0668 | Make CVE-2020-0668 exploit work for version < win10 v1903 and version >= win10 v1903 | https://github.com/ycdxsb/CVE-2020-0668 | | 
 
@@ -41,6 +49,9 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211207T17:25:10Z | 程序员哥哥，你是来找可莉玩的吗？可莉语音包，适用于 vscode-rainbow-fart 拓展。 | https://github.com/Ran-ying/Klee-rainbow-fart | 12 | 1| 
+| 20211207T16:22:10Z | Witch-KLEE - A KLEE-based error witness checker | https://github.com/ayazip/witch-klee | 0 | 0| 
+| 20211207T16:19:31Z | Null | https://github.com/coffee100percnt/KleeDiscordBomber | 5 | 0| 
 | 20211207T09:39:53Z | Null | https://github.com/ka11i0/d7020e_klee | 0 | 0| 
 | 20211207T09:28:48Z | modern regular expression syntax everywhere with a painless upgrade path | https://github.com/SonOfLilit/kleenexp | 30 | 3| 
 | 20211207T02:07:46Z | KLEE support llvm-9.0.0 | https://github.com/YizhuoZhai/yzklee | 0 | 0| 
@@ -49,28 +60,32 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211207T17:42:28Z | CRAX++: software CRash analysis for Automatic eXploit generation | https://github.com/aesophor/CRAXplusplus | 15 | 3| 
+| 20211207T15:25:17Z | Null | https://github.com/yuvalkirstain/s2e-coref | 25 | 9| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211207T13:52:43Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10413 | 1796| 
-| 20211207T13:49:06Z | Haimgard is an environment for writing, testing and using exploit code. | https://github.com/onuratakan/Haimgard | 1 | 0| 
-| 20211207T13:03:23Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 20| 
-| 20211207T12:59:50Z | This is the simple bot in discord that resembles lords mobile  | https://github.com/Dani-Hacker/EXPLOITER | 3 | 2| 
-| 20211207T12:45:47Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 15| 
-| 20211207T12:35:21Z | Script to quickly exploit lxd/lxc priveleged image  | https://github.com/kimusan/lxd-exploiter | 2 | 1| 
-| 20211207T12:16:11Z | reverse shell execution exploit of CVE 22204 | https://github.com/Asaad27/CVE-2021-22204-RSE | 0 | 0| 
-| 20211207T12:14:10Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 256 | 78| 
-| 20211207T11:34:41Z | Nothing suspicious :) dont peek. | https://github.com/SudoVictor/bluetoothd-exploit | 0 | 0| 
-| 20211207T11:32:08Z | Original link: https://github.com/mzet-/linux-exploit-suggester/blob/master/linux-exploit-suggester.sh | https://github.com/zputty/Linux-Exploit-Suggester | 0 | 0| 
+| 20211207T23:51:26Z | Null | https://github.com/Calpico-Drink/AntiExploit | 0 | 0| 
+| 20211207T23:51:14Z | Legal roblox exploit | https://github.com/marilza567/Legal | 0 | 0| 
+| 20211207T23:46:14Z | Drafts of exploits made for studying and consultation purposes | https://github.com/brerodrigues/exploit_drafts | 0 | 0| 
+| 20211207T23:39:07Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4153 | 596| 
+| 20211207T23:13:36Z | I concluded this report with a imersive and very hand-on assesement  where I was able to use the tactics and tools available as a Red team player giving me a better understading of how data exploitation happens and on the Blue side once the vulnerability have been identifiedvia SIEM, I was aware of the same malicious tactics, techniques and procedures in order to build response strategies around them. | https://github.com/wevertonribeiroferreira/Red-vs-Blue-Project | 1 | 0| 
+| 20211207T23:00:23Z | Spectre exploitation for computer architecture class | https://github.com/cjg91/spectre | 0 | 0| 
+| 20211207T22:54:54Z | A hub of useful scripts for the 2020 edition of the Booga Booga game. Useful for combating hostile exploiters. | https://github.com/thienlongtran/booga-booga-hub | 0 | 0| 
+| 20211207T21:54:02Z | reverse shell execution exploit of CVE 22204 | https://github.com/Asaad27/CVE-2021-22204-RSE | 0 | 0| 
+| 20211207T21:36:29Z | Haimgard is an environment for writing, testing and using exploit code. | https://github.com/onuratakan/Haimgard | 1 | 0| 
+| 20211207T21:34:56Z | DDOS Archive  by RootSec (Scanners, BotNets (Mirai and QBot Premium & Normal and more), Exploits, Methods, Sniffers) | https://github.com/R00tS3c/DDOS-RootSec | 119 | 78| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211207T20:17:54Z | badcat is a tool I%ve made to learn `rust` and analyze anonymous backdoors | https://github.com/yanmarques/badcat | 1 | 0| 
+| 20211207T20:06:05Z | Statically-linked ssh server with reverse shell functionality for CTFs and such | https://github.com/Fahrj/reverse-ssh | 428 | 54| 
+| 20211207T14:42:13Z | Simple reverse backdoor utility, that uses sockets to communicate. | https://github.com/nickson8/reverse_backdoor | 1 | 0| 
 | 20211207T13:51:45Z | During the exploitation phase of a pen test or ethical hacking engagement, you will ultimately need to try to cause code to run on target system computers. Whether accomplished by phishing emails, delivering a payload through an exploit, or social engineering, running code on target computers is part of most penetration tests. That means that you will need to be able to bypass antivirus software or other host-based protection for successful exploitation. The most effective way to avoid antivirus detection on your target%s computers is to create your own customized backdoor. Here is a simple way to evade anti-virus software when creating backdoors! | https://github.com/RoseSecurity/Anti-Virus-Evading-Payloads | 38 | 6| 
-| 20211207T13:12:47Z | Null | https://github.com/nickson8/reverse_backdoor | 0 | 0| 
 | 20211207T09:57:37Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 381 | 66| 
 | 20211207T03:25:24Z | Null | https://github.com/leileigan/clean_label_textual_backdoor_attack | 3 | 0| 
 
@@ -91,16 +106,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211207T13:51:45Z | A program in Python to fuzz a webpage which produces a YAML file for Kubernetes. | https://github.com/BigWheaties/octopusFuzzer | 0 | 0| 
-| 20211207T13:42:34Z | Leetcode solutions. | https://github.com/chaitanyks/fuzzy-disco | 0 | 0| 
-| 20211207T13:31:08Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2277 | 443| 
-| 20211207T13:25:39Z | fuzzer http ( hackingyseguridad.com ) busca ficheros interesantes en un sitio web | https://github.com/hackingyseguridad/fuzzer | 0 | 1| 
-| 20211207T13:15:52Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
-| 20211207T13:10:33Z | Null | https://github.com/Potat0000/AutoFuzzer | 1 | 0| 
-| 20211207T12:57:05Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20211207T12:24:35Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6884 | 1442| 
-| 20211207T12:24:17Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
-| 20211207T12:06:03Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 370 | 34| 
+| 20211207T23:32:41Z | Collected fuzzing payloads from different resources  | https://github.com/osamahamad/FUZZING | 10 | 5| 
+| 20211207T23:10:28Z | Implementations of fuzzy inference systems for improving the extraction process of chia cake extract | https://github.com/accarniel/fuzzy-chia | 0 | 1| 
+| 20211207T22:36:58Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20211207T22:27:51Z | Finds the thickness of a surface in a point cloud | https://github.com/jackjgo/cloud_fuzz | 0 | 0| 
+| 20211207T22:26:21Z | Null | https://github.com/SketchNI/fuzzy-eureka | 0 | 0| 
+| 20211207T22:13:09Z | Comparing tool variability and numerical variability in fMRI analyses results | https://github.com/big-data-lab-team/fuzzy-neurotools | 0 | 3| 
+| 20211207T22:09:46Z | a fuzzy and very fast search for language names with typos | https://github.com/Lambda-Logan/fuzzy_lang_search | 0 | 0| 
+| 20211207T22:03:01Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 7 | 0| 
+| 20211207T22:02:11Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
+| 20211207T21:51:11Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 731 | 145| 
 
 
 
