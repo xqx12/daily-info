@@ -33,7 +33,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211208T13:48:26Z | CVE-2021-43798 | Grafana Unauthorized arbitrary file reading vulnerability | https://github.com/jas502n/Grafana-CVE-2021-43798 | | 
+| 20211208T13:54:10Z | CVE-2021-43798 | Grafana Unauthorized arbitrary file reading vulnerability | https://github.com/jas502n/Grafana-CVE-2021-43798 | | 
 | 20211208T13:30:14Z | CVE-2021-32724 | Null | https://github.com/MaximeSchlegel/CVE-2021-32724-Target | | 
 | 20211208T13:12:17Z | CVE-2021-43798 | CVE-2021-43798:Grafana 任意文件读取漏洞 | https://github.com/Mr-xn/CVE-2021-43798 | | 
 | 20211208T11:39:34Z | CVE-2021-43798 | Null | https://github.com/tangxiaofeng7/CVE-2021-43798-Grafana-File-Read | | 
@@ -100,6 +100,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211208T13:52:08Z | Null | https://github.com/rinnaayunda/fuzzy-goggles | 0 | 0| 
 | 20211208T13:50:18Z | a fuzzy and very fast search for language names with typos | https://github.com/Lambda-Logan/fuzzy_lang_search | 0 | 0| 
 | 20211208T13:47:32Z | Null | https://github.com/sheunl/Fuzzy-App | 0 | 0| 
 | 20211208T13:40:46Z | Tool to Generate a Fuzzy Real Estate Development Model upon a Site | https://github.com/irawinder/FuzzyBuilder | 2 | 0| 
@@ -109,7 +110,6 @@
 | 20211208T13:18:42Z | Null | https://github.com/Anonymoussra/fuzzy-fornight | 0 | 0| 
 | 20211208T13:14:04Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211208T12:47:14Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 4 | 2| 
-| 20211208T12:31:42Z | White-box fuzzer for Java bytecode | https://github.com/vorpal-research/kex | 7 | 10| 
 
 
 
