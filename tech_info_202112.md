@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211208T02:38:50Z | Network vulnerability exploitation library | https://github.com/sairson/NetworkExpLibrary | 12 | 3| 
 | 20211208T02:33:58Z | Null | https://github.com/Eyeofthequeen/TP_sys_exploitation | 0 | 0| 
 | 20211208T02:29:55Z | Null | https://github.com/smurtau/Testing-and-Exploiting-Eyeballer | 0 | 1| 
 | 20211208T02:25:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10416 | 1797| 
@@ -94,7 +95,6 @@
 | 20211208T01:24:34Z | This is my exploit template to my 2021 yt tutorial  | https://github.com/RealChronics/Exploit-Template | 0 | 0| 
 | 20211208T01:21:34Z | Python Exploit Code  | https://github.com/darkerego/CVE-2021-43798 | 2 | 1| 
 | 20211208T01:19:42Z | Null | https://github.com/saaramar/exploit_pwn_chgs_ubuntu_21.10 | 1 | 0| 
-| 20211208T01:01:06Z | Roblox exploits list with safe percentage & more information about them. | https://github.com/I2rys/REL | 1 | 0| 
 
 
 # backdoor on Github 推荐
