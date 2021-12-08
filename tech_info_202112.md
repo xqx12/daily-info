@@ -85,6 +85,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211208T01:28:06Z | Python Exploit Code  | https://github.com/scopion/CVE-2021-43799 | 0 | 0| 
+| 20211208T01:24:34Z | This is my exploit template to my 2021 yt tutorial  | https://github.com/RealChronics/Exploit-Template | 0 | 0| 
 | 20211208T01:21:34Z | Python Exploit Code  | https://github.com/darkerego/CVE-2021-43798 | 2 | 1| 
 | 20211208T01:21:32Z | A Red vs Blue report in which a Vulnerable machine was exploited and explained from a Pen Testing report, and after a Defensive side showing mitigations and ways to fix the security flaws found | https://github.com/Nicholas-Menanno/FinalProject | 0 | 0| 
 | 20211208T01:20:07Z | Null | https://github.com/Eyeofthequeen/TP_sys_exploitation | 0 | 0| 
@@ -92,9 +94,7 @@
 | 20211208T01:06:10Z | Null | https://github.com/smurtau/Testing-and-Exploiting-Eyeballer | 0 | 1| 
 | 20211208T01:03:35Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 35 | 20| 
 | 20211208T01:01:06Z | Roblox exploits list with safe percentage & more information about them. | https://github.com/I2rys/REL | 1 | 0| 
-| 20211208T00:57:38Z | This is my exploit template to my 2021 yt tutorial  | https://github.com/RealChronics/Exploit-Template | 0 | 0| 
 | 20211208T00:45:47Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 15| 
-| 20211208T00:36:30Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 269 | 520| 
 
 
 # backdoor on Github 推荐
