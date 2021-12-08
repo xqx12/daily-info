@@ -33,14 +33,14 @@
 | --- | --- | ---| 
 | 20211208 | Digvuln Tricks之JS泄露全到后台越权 | https://www.sec-in.com/article/1134| 
 | 20211208 | 僵尸网络是如何应对执法行动的？ | https://mp.weixin.qq.com/s/okOIk2Ery3FdvtHIGtjr_Q| 
+| 20211208 | 基于POI和查询似然的微博用户地理位置推演 | https://mp.weixin.qq.com/s/OtlCMVceCi5syVOaG5Fpzg| 
+| 20211208 | 加密后门的木马分析 | https://tttang.com/archive/1342/| 
 | 20211207 | 利用DoH技术加密传输的DNS隧道流量检测分析 | https://mp.weixin.qq.com/s/TY17e0hpW0b9n4eQtcvaeg| 
 | 20211207 | 邮件安全的27年漫漫路 | https://mp.weixin.qq.com/s/U5r7fzsGgjD5IZIh3LIcWA| 
 | 20211207 | JSPKiller: 基于污点分析的JSP Webshell检测工具 | https://github.com/EmYiQing/JSPKiller| 
 | 20211207 | 反向探测互联网扫描器 | https://mp.weixin.qq.com/s/Cha_hTGOh-GGVkaZRdFujw| 
 | 20211207 | API经济下的安全变局 | https://mp.weixin.qq.com/s/oXHcoLE5WkEer24mz7BqUg| 
 | 20211207 | 如何使用Yakit进行流量劫持 | https://mp.weixin.qq.com/s/9vVRTehwAhkSLM65JaKiQA| 
-| 20211207 | 基于模糊加权随机森林算法的恶意软件检测 | https://mp.weixin.qq.com/s/ytvN73RMv4b9NtSs0vqqPg| 
-| 20211206 | [HTB] Nest Writeup | http://mp.weixin.qq.com/s?__biz=MzIwOTA4NTg4MA==&mid=2652489909&idx=1&sn=812588b0d62ad59621bee6ac76f74dea&chksm=8c945c62bbe3d57476b0e05e98a4473cb6cea91e329a5bd3e462646a4539bd13341391615ec6#rd| 
 
 
 # CVE Github 推荐

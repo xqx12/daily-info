@@ -26,6 +26,8 @@
 | --- | --- | ---| 
 | 20211208 | Digvuln Tricks之JS泄露全到后台越权 | https://www.sec-in.com/article/1134| 
 | 20211208 | 僵尸网络是如何应对执法行动的？ | https://mp.weixin.qq.com/s/okOIk2Ery3FdvtHIGtjr_Q| 
+| 20211208 | 基于POI和查询似然的微博用户地理位置推演 | https://mp.weixin.qq.com/s/OtlCMVceCi5syVOaG5Fpzg| 
+| 20211208 | 加密后门的木马分析 | https://tttang.com/archive/1342/| 
 
 
 # CVE Github 推荐
