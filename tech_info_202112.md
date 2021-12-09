@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211209T02:42:08Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4155 | 596| 
 | 20211209T02:40:10Z | Null | https://github.com/RoadLuck/exploits-tryhackme | 0 | 0| 
 | 20211209T02:39:26Z | iReady is awful. It%s the worst education tool anyone could ever use. This program is designed to skip through iReady lessons/quizzes/time requirements or whatever. | https://github.com/cupiditys/iReady-Overload | 22 | 16| 
 | 20211209T02:28:10Z | A Roblox exploiting library that looks like nodejs. | https://github.com/Mlemix/roblox.ls | 0 | 0| 
@@ -93,7 +94,6 @@
 | 20211209T00:59:52Z | HiveMind Metasploit Exploit | https://github.com/fzcooper/hm_ms_exploit | 0 | 0| 
 | 20211209T00:53:44Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 280 | 534| 
 | 20211209T00:45:48Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 16| 
-| 20211209T00:43:13Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4154 | 596| 
 | 20211209T00:14:11Z | This repository showcases several use-cases of the Flashbots relayer service to avoid getting exploited by sniper bots on the Ethereum network. | https://github.com/schepal/flashbots_playground | 0 | 0| 
 
 
