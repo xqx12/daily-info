@@ -86,7 +86,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211209T13:34:30Z | Null | https://github.com/MaksimOzery/fuzzerSmartSoft | 0 | 0| 
+| 20211209T13:36:02Z | Null | https://github.com/MaksimOzery/fuzzerSmartSoft | 0 | 0| 
 | 20211209T13:31:17Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3828 | 901| 
 | 20211209T13:28:23Z | Null | https://github.com/kalanakt/fuzzy-waffle | 0 | 0| 
 | 20211209T13:21:57Z | fuzzer | https://github.com/reusee/fz | 1 | 1| 
