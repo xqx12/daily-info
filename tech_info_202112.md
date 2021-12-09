@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211209T01:13:27Z | CVE-2021-43798 | Grafana Unauthorized arbitrary file reading vulnerability | https://github.com/jas502n/Grafana-CVE-2021-43798 | | 
+| 20211209T01:20:55Z | CVE-2021-43798 | Grafana Unauthorized arbitrary file reading vulnerability | https://github.com/jas502n/Grafana-CVE-2021-43798 | | 
 | 20211208T22:42:26Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | | 
 | 20211208T21:52:39Z | CVE-2021-38759 | CVE-2021-38759 public Exploit | https://github.com/joanbono/CVE-2021-38759 | | 
 | 20211208T21:43:19Z | CVE-2021-44077 | Proof of Concept Exploit for ManageEngine ServiceDesk Plus CVE-2021-44077 | https://github.com/horizon3ai/CVE-2021-44077 | | 
