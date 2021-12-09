@@ -138,6 +138,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211209T13:37:49Z | Null | https://github.com/hibist/fuzz-Buzz | 0 | 0| 
 | 20211209T13:36:02Z | Null | https://github.com/MaksimOzery/fuzzerSmartSoft | 0 | 0| 
 | 20211209T13:31:17Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3828 | 901| 
 | 20211209T13:28:23Z | Null | https://github.com/kalanakt/fuzzy-waffle | 0 | 0| 
@@ -147,7 +148,6 @@
 | 20211209T12:56:19Z | Null | https://github.com/gungnir479/fuzzJIT | 0 | 0| 
 | 20211209T12:56:05Z | Null | https://github.com/guidovranken/fuzzing-corpora-directory | 16 | 2| 
 | 20211209T12:55:24Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 629 | 67| 
-| 20211209T12:48:33Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 207 | 39| 
 
 
 
