@@ -138,6 +138,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211209T01:51:55Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6889 | 1440| 
 | 20211209T01:48:22Z | This study aims to design a safe distance detection system as a warning when the minibus will park by using ultrasonic sensors to detect objects in the vicinity that are reached and using a microcontroller as the brain of the control system process so that it can be used to build electronic systems. | https://github.com/bydzen/hcsr04-fuzzy | 0 | 0| 
 | 20211209T01:44:45Z | Null | https://github.com/markbennett95/dual-fuzz | 0 | 0| 
 | 20211209T01:37:45Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4646 | 475| 
@@ -147,7 +148,6 @@
 | 20211209T01:13:12Z | Null | https://github.com/Fuzzwah/simhub-dash-fuzzwah-v2 | 2 | 1| 
 | 20211209T01:04:47Z | Attempts to find security vulnerabilities in NetHack via input Fuzzing | https://github.com/recursion-ninja/Superion-YAML | 1 | 3| 
 | 20211209T00:58:14Z | 僕の卒業論文 | https://github.com/yoshiyoshiharu/oblique-fuzzy-vector-mrp | 0 | 0| 
-| 20211209T00:41:16Z | hoijoijo | https://github.com/mrisdal/fuzzy-robot | 0 | 0| 
 
 
 
