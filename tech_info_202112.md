@@ -138,6 +138,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211209T01:37:45Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4646 | 475| 
+| 20211209T01:35:36Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211209T01:18:33Z | An open-source software package for fuzzing autonomous driving systems in high-fidelity simulators | https://github.com/AIasd/ADFuzz | 0 | 1| 
 | 20211209T01:15:44Z | ☸A stateful GraphQL fuzzer (in development) | https://github.com/omar2535/GraphQLer | 7 | 0| 
 | 20211209T01:13:12Z | Null | https://github.com/Fuzzwah/simhub-dash-fuzzwah-v2 | 2 | 1| 
@@ -146,8 +148,6 @@
 | 20211209T00:58:14Z | 僕の卒業論文 | https://github.com/yoshiyoshiharu/oblique-fuzzy-vector-mrp | 0 | 0| 
 | 20211209T00:41:16Z | hoijoijo | https://github.com/mrisdal/fuzzy-robot | 0 | 0| 
 | 20211208T23:35:56Z | Null | https://github.com/crajkumar73/FuzzyLogicModels | 0 | 0| 
-| 20211208T23:02:04Z | Null | https://github.com/elbiazo/fuzzing_book_solution | 0 | 0| 
-| 20211208T22:47:49Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
 
 
 

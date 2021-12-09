@@ -114,11 +114,11 @@
 | 20211208T22:47:49Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
 | 20211208T22:42:35Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 4 | 2| 
 | 20211208T22:38:25Z | Null | https://github.com/justgr0w/PyFuzzer | 2 | 0| 
-| 20211208T22:36:34Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211208T22:35:35Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 378 | 92| 
 | 20211208T22:08:01Z | Python mutational fuzzing script  | https://github.com/Mohammad-Sarker/Mutational-Fuzzer | 0 | 0| 
 | 20211208T21:58:59Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 7 | 0| 
 | 20211208T21:53:41Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
+| 20211208T21:46:44Z | kitty-rescue-fuzzy-memories | https://github.com/gabriel-fonseca-repo/kitty-rescue-fuzzy-memories | 0 | 0| 
 
 
 
