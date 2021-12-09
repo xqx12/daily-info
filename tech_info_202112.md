@@ -115,6 +115,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211209T13:54:00Z | Binsec/Rel is an extension of Binsec that implements relational symbolic execution for constant-time verification and secret-erasure at binary-level. | https://github.com/binsec/Rel | 24 | 1| 
 | 20211209T10:07:39Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 18 | 12| 
 | 20211209T08:08:24Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2585 | 381| 
 | 20211209T02:46:27Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 190 | 39| 
@@ -124,7 +125,6 @@
 | 20211208T12:35:58Z | An Adaptive Symbolic Execution Method For Detecting Heap Overflow Vulnerability Based On Vulnerability Specification | https://github.com/alikmli/HeapOverFlow-Detection | 0 | 0| 
 | 20211208T05:56:28Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 10 | 5| 
 | 20211207T11:05:05Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1844 | 523| 
-| 20211207T09:21:37Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 22 | 13| 
 
 
 # big4 on Github 推荐
