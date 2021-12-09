@@ -16,7 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211209T13:21:07Z | CVE-2021-43798 | Grafana Unauthorized arbitrary file reading vulnerability | https://github.com/jas502n/Grafana-CVE-2021-43798 | | 
+| 20211209T13:26:59Z | CVE-2021-43798 | Grafana Unauthorized arbitrary file reading vulnerability | https://github.com/jas502n/Grafana-CVE-2021-43798 | | 
 | 20211209T12:59:21Z | CVE-2021-26102 | PoC of FortiWAN auth bypass (https://www.fortiguard.com/psirt/FG-IR-21-048) | https://github.com/SleepyCofe/CVE-2021-26102 | | 
 | 20211209T12:57:58Z | CVE-2021-38759 | CVE-2021-38759 public Exploit | https://github.com/joanbono/CVE-2021-38759 | | 
 | 20211209T12:34:45Z | CVE-2021-43798 | Null | https://github.com/julesbozouklian/CVE-2021-43798 | | 
