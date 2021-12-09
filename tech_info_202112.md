@@ -138,6 +138,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211209T02:51:49Z | Grafana任意文件读取，增加了49个插件进行Fuzz，同时进行db文件读取。 | https://github.com/Henry4E36/Grafana-Read-File | 0 | 0| 
 | 20211209T02:47:41Z | Code for fuzzy monkeys. | https://github.com/fuzzyatelin/fuzzyatelin.github.io | 3 | 12| 
 | 20211209T02:32:55Z | Null | https://github.com/ernisabita/fuzzy-octo-fiesta | 0 | 0| 
 | 20211209T02:24:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6890 | 1440| 
@@ -147,7 +148,6 @@
 | 20211209T01:48:22Z | This study aims to design a safe distance detection system as a warning when the minibus will park by using ultrasonic sensors to detect objects in the vicinity that are reached and using a microcontroller as the brain of the control system process so that it can be used to build electronic systems. | https://github.com/bydzen/hcsr04-fuzzy | 0 | 0| 
 | 20211209T01:37:45Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4646 | 474| 
 | 20211209T01:35:36Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20211209T01:18:33Z | An open-source software package for fuzzing autonomous driving systems in high-fidelity simulators | https://github.com/AIasd/ADFuzz | 0 | 1| 
 
 
 
