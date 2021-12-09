@@ -138,7 +138,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211209T01:05:10Z | Null | https://github.com/markbennett95/dual-fuzz | 0 | 0| 
+| 20211209T01:10:33Z | Null | https://github.com/markbennett95/dual-fuzz | 0 | 0| 
 | 20211209T01:04:47Z | Attempts to find security vulnerabilities in NetHack via input Fuzzing | https://github.com/recursion-ninja/Superion-YAML | 1 | 3| 
 | 20211209T00:58:14Z | 僕の卒業論文 | https://github.com/yoshiyoshiharu/oblique-fuzzy-vector-mrp | 0 | 0| 
 | 20211209T00:41:16Z | hoijoijo | https://github.com/mrisdal/fuzzy-robot | 0 | 0| 
