@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211209T13:38:10Z | exploitation of galaxy wearable%s data | https://github.com/MarcBresson/Galaxy-wearable-data | 0 | 0| 
 | 20211209T13:13:56Z | Automatic Return Oriented Programming exploit generator | https://github.com/JDBryan/ROPSlap | 1 | 0| 
 | 20211209T13:03:21Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 37 | 20| 
 | 20211209T13:02:40Z | In the LNG market, arbitrage can be defined as a strategy of diverting a physical cargo from one market to another which offers a higher price. Price differentials can occur between regional markets due to different pricing structures and imbalances between supply and demand which allows traders to exploit and capitalize on. In this example, we look at the key variable costs to determine if the arbitrage window to Asia is open or if it is more profitable to ship a cargo from the United States to Asia than to Europe | https://github.com/Refinitiv-API-Samples/Article.EikonAPI.Python.LNG.arbitrage | 0 | 0| 
@@ -94,7 +95,6 @@
 | 20211209T12:00:35Z | The popular GENIE Generator product is used by nearly all accelerator neutrino experiments and it plays a key role in the exploitation of neutrino data. The Generator implements a modern software framework and it includes state-of-the-art physics modules. It captures the latest results of the GENIE global analysis of neutrino scattering data and includes several tunes that were produced using the proprietary Comparisons and Tuning products. The GENIE physics model is universal and comprehensive:  It handles all neutrinos and targets, and all processes relevant from MeV to PeV energy scales. The Generator includes several tools (flux drivers, detector geometry navigators, specialized event generation apps, event reweighting engines) to simulate complex experimental setups in full detail and to support generator-related analysis tasks.  | https://github.com/GENIE-MC/Generator | 25 | 56| 
 | 20211209T11:59:46Z | The whole collection of Exploits developed by me (Hacker5preme) | https://github.com/Hacker5preme/Exploits | 10 | 2| 
 | 20211209T11:55:17Z | Vulnerability Exploitation Code Collection Repository | https://github.com/0x0021h/expbox | 232 | 42| 
-| 20211209T11:50:47Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10426 | 1795| 
 
 
 # backdoor on Github 推荐
