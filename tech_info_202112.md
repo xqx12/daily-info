@@ -24,8 +24,8 @@
 | 20211208 | 开源网络管理平台 Grafana 任意文件读漏洞分析（CVE-2021-43798） | https://github.com/jas502n/Grafana-CVE-2021-43798| 
 | 20211208 | Pwn2Own 比赛 Ubuntu Desktop 本地提权漏洞分析报告 | https://flatt.tech/reports/210401_pwn2own/| 
 | 20211208 | Emotet botnet 在消失 10 个月之后又开始借助 Trickbot 复活了 | http://research.checkpoint.com/2021/when-old-friends-meet-again-why-emotet-chose-trickbot-for-rebirth/| 
-| 20211207 | 有研究员基于 Virtualization.framework 实现虚拟化执行 iBoot | https://github.com/NyanSatan/Virtual-iBoot-Fun| 
-| 20211207 | 20+ Ways To Bypass Your Macos Privacy Mechanisms | https://www.slideshare.net/wojdwo/20-ways-to-bypass-your-macos-privacy-mechanisms-250791887| 
+| 20211208 | Malicious npm Packages Are After Your Discord Tokens – 17 New Packages Disclosed | https://jfrog.com/blog/malicious-npm-packages-are-after-your-discord-tokens-17-new-packages-disclosed/| 
+| 20211208 | 利用 Half-Space-Trees 算法检测异常 TLS 证书 | http://blog.fox-it.com/2021/12/07/encryption-does-not-equal-invisibility-detecting-anomalous-tls-certificates-with-the-half-space-trees-algorithm/| 
 
 
 # 安全维基 推荐
@@ -85,7 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211209T02:33:33Z | iReady is awful. It%s the worst education tool anyone could ever use. This program is designed to skip through iReady lessons/quizzes/time requirements or whatever. | https://github.com/cupiditys/iReady-Overload | 22 | 16| 
+| 20211209T02:34:09Z | iReady is awful. It%s the worst education tool anyone could ever use. This program is designed to skip through iReady lessons/quizzes/time requirements or whatever. | https://github.com/cupiditys/iReady-Overload | 22 | 16| 
 | 20211209T02:33:10Z | Null | https://github.com/RoadLuck/exploits-tryhackme | 0 | 0| 
 | 20211209T02:28:10Z | A Roblox exploiting library that looks like nodejs. | https://github.com/Mlemix/roblox.ls | 0 | 0| 
 | 20211209T02:03:39Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 36 | 20| 

@@ -24,6 +24,8 @@
 | 20211208 | 开源网络管理平台 Grafana 任意文件读漏洞分析（CVE-2021-43798） | https://github.com/jas502n/Grafana-CVE-2021-43798| 
 | 20211208 | Pwn2Own 比赛 Ubuntu Desktop 本地提权漏洞分析报告 | https://flatt.tech/reports/210401_pwn2own/| 
 | 20211208 | Emotet botnet 在消失 10 个月之后又开始借助 Trickbot 复活了 | http://research.checkpoint.com/2021/when-old-friends-meet-again-why-emotet-chose-trickbot-for-rebirth/| 
+| 20211208 | Malicious npm Packages Are After Your Discord Tokens – 17 New Packages Disclosed | https://jfrog.com/blog/malicious-npm-packages-are-after-your-discord-tokens-17-new-packages-disclosed/| 
+| 20211208 | 利用 Half-Space-Trees 算法检测异常 TLS 证书 | http://blog.fox-it.com/2021/12/07/encryption-does-not-equal-invisibility-detecting-anomalous-tls-certificates-with-the-half-space-trees-algorithm/| 
 
 
 # 安全维基 推荐
