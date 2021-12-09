@@ -87,6 +87,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211209T13:58:36Z | A random program generator for fuzzing WGSL | https://github.com/hasali19/WGSLsmith | 0 | 0| 
 | 20211209T13:56:04Z | Null | https://github.com/Clearymk/TypeScriptFuzzer | 0 | 0| 
 | 20211209T13:37:49Z | Null | https://github.com/hibist/fuzz-Buzz | 0 | 0| 
 | 20211209T13:36:02Z | Null | https://github.com/MaksimOzery/fuzzerSmartSoft | 0 | 0| 
@@ -96,7 +97,6 @@
 | 20211209T12:58:19Z | Null | https://github.com/kabolat/AutoFuzzifier | 0 | 0| 
 | 20211209T12:57:59Z | Null | https://github.com/sandiatmaja/fuzzy-fiesta | 0 | 0| 
 | 20211209T12:56:19Z | Null | https://github.com/gungnir479/fuzzJIT | 0 | 0| 
-| 20211209T12:56:05Z | Null | https://github.com/guidovranken/fuzzing-corpora-directory | 16 | 2| 
 
 
 
