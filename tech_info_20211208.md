@@ -48,8 +48,8 @@
 | 20211208T14:35:14Z | CVE-2021-43798 | Grafanav8.*版本任意文件读取漏洞poc&exp，该漏洞目前为0day漏洞，未授权的攻击者利用该漏洞，能够获取服务器敏感文件。 | https://github.com/asaotomo/CVE-2021-43798-Grafana-Exp | | 
 | 20211208T14:18:23Z | CVE-2021-43798 | Null | https://github.com/s1gh/CVE-2021-43798 | | 
 | 20211208T13:12:17Z | CVE-2021-43798 | CVE-2021-43798:Grafana 任意文件读取漏洞 | https://github.com/Mr-xn/CVE-2021-43798 | | 
-| 20211208T11:39:34Z | CVE-2021-43798 | Null | https://github.com/tangxiaofeng7/CVE-2021-43798-Grafana-File-Read | | 
 | 20211208T10:35:31Z | CVE-2021-43798 | Grafana Arbitrary File Reading Vulnerability | https://github.com/zer0yu/CVE-2021-43798 | | 
+| 20211208T09:19:26Z | CVE-2021-43469 | CVE-2021-43469 | https://github.com/badboycxcc/CVE-2021-43469 | | 
 
 
 # klee on Github 推荐
