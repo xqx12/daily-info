@@ -19,6 +19,11 @@
 | 20211208 | 后量子加密实现的现状 | https://sec.today/pulses/5ba3d0e8-d37f-4fc0-a7b4-c64f1b96cd09/| 
 | 20211208 | Pwn2Own Vancouver 2021 比赛中 V8 漏洞的分析和利用 | https://www.zerodayinitiative.com/blog/2021/12/6/two-birds-with-one-stone-an-introduction-to-v8-and-jit-exploitation| 
 | 20211208 | 后量子加密实现的现状 | http://blog.quarkslab.com/status-of-post-quantum-cryptography-implementation.html| 
+| 20211208 | HICON CTF 一道 Linux 内核 new IPS Syscall 赛题的 writeup | https://kileak.github.io/ctf/2021/vulncon-ips/| 
+| 20211208 | The hidden side of Seclogon part 2: Abusing leaked handles to dump LSASS memory | https://splintercod3.blogspot.com/p/the-hidden-side-of-seclogon-part-2.html| 
+| 20211208 | 开源网络管理平台 Grafana 任意文件读漏洞分析（CVE-2021-43798） | https://github.com/jas502n/Grafana-CVE-2021-43798| 
+| 20211208 | Pwn2Own 比赛 Ubuntu Desktop 本地提权漏洞分析报告 | https://flatt.tech/reports/210401_pwn2own/| 
+| 20211208 | Emotet botnet 在消失 10 个月之后又开始借助 Trickbot 复活了 | http://research.checkpoint.com/2021/when-old-friends-meet-again-why-emotet-chose-trickbot-for-rebirth/| 
 
 
 # 安全维基 推荐

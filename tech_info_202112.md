@@ -19,13 +19,13 @@
 | 20211208 | 后量子加密实现的现状 | https://sec.today/pulses/5ba3d0e8-d37f-4fc0-a7b4-c64f1b96cd09/| 
 | 20211208 | Pwn2Own Vancouver 2021 比赛中 V8 漏洞的分析和利用 | https://www.zerodayinitiative.com/blog/2021/12/6/two-birds-with-one-stone-an-introduction-to-v8-and-jit-exploitation| 
 | 20211208 | 后量子加密实现的现状 | http://blog.quarkslab.com/status-of-post-quantum-cryptography-implementation.html| 
+| 20211208 | HICON CTF 一道 Linux 内核 new IPS Syscall 赛题的 writeup | https://kileak.github.io/ctf/2021/vulncon-ips/| 
+| 20211208 | The hidden side of Seclogon part 2: Abusing leaked handles to dump LSASS memory | https://splintercod3.blogspot.com/p/the-hidden-side-of-seclogon-part-2.html| 
+| 20211208 | 开源网络管理平台 Grafana 任意文件读漏洞分析（CVE-2021-43798） | https://github.com/jas502n/Grafana-CVE-2021-43798| 
+| 20211208 | Pwn2Own 比赛 Ubuntu Desktop 本地提权漏洞分析报告 | https://flatt.tech/reports/210401_pwn2own/| 
+| 20211208 | Emotet botnet 在消失 10 个月之后又开始借助 Trickbot 复活了 | http://research.checkpoint.com/2021/when-old-friends-meet-again-why-emotet-chose-trickbot-for-rebirth/| 
 | 20211207 | 有研究员基于 Virtualization.framework 实现虚拟化执行 iBoot | https://github.com/NyanSatan/Virtual-iBoot-Fun| 
 | 20211207 | 20+ Ways To Bypass Your Macos Privacy Mechanisms | https://www.slideshare.net/wojdwo/20-ways-to-bypass-your-macos-privacy-mechanisms-250791887| 
-| 20211207 | RESTler - 微软开源了一个 Stateful REST API Fuzzer | https://github.com/microsoft/restler-fuzzer| 
-| 20211207 | Issue 2241: runc/libcontainer: insecure handling of bind mount sources | https://bugs.chromium.org/p/project-zero/issues/detail?id=2241| 
-| 20211207 | Moobot Botnet 利用海康威视的漏洞攻击用户 | https://www.fortinet.com/blog/threat-research/mirai-based-botnet-moobot-targets-hikvision-vulnerability| 
-| 20211207 | Firefox 95 将启用 RLBox Sandbox 技术，使用 WebAssembly 隔离危险代码 | http://hacks.mozilla.org/2021/12/webassembly-and-back-again-fine-grained-sandboxing-in-firefox-95/| 
-| 20211207 | Android 12 应用启动流程分析 | http://evilpan.com/2021/12/05/apk-startup/| 
 
 
 # 安全维基 推荐
@@ -100,7 +100,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211209T02:22:05Z | LD_PRELOAD rootkit | https://github.com/mav8557/Father | 45 | 8| 
+| 20211209T02:24:21Z | LD_PRELOAD rootkit | https://github.com/mav8557/Father | 45 | 8| 
 | 20211209T00:55:14Z | The insane hackerman backdoor. | https://github.com/Bakdooro/Bakdooro | 10 | 2| 
 | 20211208T18:19:45Z | Poweshell backdoor metasploit  | https://github.com/crypt0n-root/powershell-backdoor | 0 | 0| 
 | 20211208T18:13:27Z | Python-Backdoor | https://github.com/s120000/Python-Backdoor | 0 | 0| 
