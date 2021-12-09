@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211209T02:46:31Z | CVE-2021-43798 | grafana CVE-2021-43798任意文件读取漏洞POC，采用多插件轮训检测的方法，允许指定单URL和从文件中读取URL | https://github.com/j-jasson/CVE-2021-43798-grafana_fileread | | 
 | 20211209T02:41:30Z | CVE-2021-43798 | Null | https://github.com/tangxiaofeng7/CVE-2021-43798-Grafana-File-Read | | 
 | 20211209T02:38:46Z | CVE-2021-43798 | Grafana Unauthorized arbitrary file reading vulnerability | https://github.com/jas502n/Grafana-CVE-2021-43798 | | 
 | 20211209T02:13:12Z | CVE-2021-43798 | CVE-2021-43798-Grafana任意文件读取漏洞 | https://github.com/lfz97/CVE-2021-43798-Grafana-File-Read | | 
@@ -55,7 +56,6 @@
 | 20211208T21:43:19Z | CVE-2021-44077 | Proof of Concept Exploit for ManageEngine ServiceDesk Plus CVE-2021-44077 | https://github.com/horizon3ai/CVE-2021-44077 | | 
 | 20211208T18:24:25Z | CVE-2021-22204 | reverse shell execution exploit of CVE 22204 | https://github.com/Asaad27/CVE-2021-22204-RSE | | 
 | 20211208T16:08:05Z | CVE-2021-32724 | Null | https://github.com/MaximeSchlegel/CVE-2021-32724-Target | | 
-| 20211208T14:35:14Z | CVE-2021-43798 | Grafanav8.*版本任意文件读取漏洞poc&exp，该漏洞目前为0day漏洞，未授权的攻击者利用该漏洞，能够获取服务器敏感文件。 | https://github.com/asaotomo/CVE-2021-43798-Grafana-Exp | | 
 
 
 # klee on Github 推荐
