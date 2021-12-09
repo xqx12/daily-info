@@ -46,9 +46,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211209T02:21:53Z | CVE-2021-43798 | Grafana Unauthorized arbitrary file reading vulnerability | https://github.com/jas502n/Grafana-CVE-2021-43798 | | 
 | 20211209T02:13:12Z | CVE-2021-43798 | CVE-2021-43798-Grafana任意文件读取漏洞 | https://github.com/lfz97/CVE-2021-43798-Grafana-File-Read | | 
 | 20211209T01:36:44Z | CVE-2021-34045 | druid未授权访问批量扫描poc | https://github.com/MzzdToT/CVE-2021-34045 | | 
-| 20211209T01:20:55Z | CVE-2021-43798 | Grafana Unauthorized arbitrary file reading vulnerability | https://github.com/jas502n/Grafana-CVE-2021-43798 | | 
 | 20211208T22:42:26Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | | 
 | 20211208T21:52:39Z | CVE-2021-38759 | CVE-2021-38759 public Exploit | https://github.com/joanbono/CVE-2021-38759 | | 
 | 20211208T21:43:19Z | CVE-2021-44077 | Proof of Concept Exploit for ManageEngine ServiceDesk Plus CVE-2021-44077 | https://github.com/horizon3ai/CVE-2021-44077 | | 
@@ -100,6 +100,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211209T02:22:05Z | LD_PRELOAD rootkit | https://github.com/mav8557/Father | 45 | 8| 
 | 20211209T00:55:14Z | The insane hackerman backdoor. | https://github.com/Bakdooro/Bakdooro | 10 | 2| 
 | 20211208T18:19:45Z | Poweshell backdoor metasploit  | https://github.com/crypt0n-root/powershell-backdoor | 0 | 0| 
 | 20211208T18:13:27Z | Python-Backdoor | https://github.com/s120000/Python-Backdoor | 0 | 0| 
@@ -109,7 +110,6 @@
 | 20211208T15:25:22Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 36 | 28| 
 | 20211208T11:04:27Z | Null | https://github.com/Scorpio-m7/tomcat-backdoor | 3 | 1| 
 | 20211208T09:18:46Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 383 | 66| 
-| 20211208T06:13:26Z | Null | https://github.com/candralksn/backdoorshell | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -138,6 +138,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211209T02:21:34Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20211209T02:17:04Z | Null | https://github.com/guidovranken/fuzzing-corpora-directory | 14 | 2| 
 | 20211209T02:16:50Z | Null | https://github.com/markbennett95/dual-fuzz | 0 | 0| 
 | 20211209T01:55:26Z | Code for fuzzy monkeys. | https://github.com/fuzzyatelin/fuzzyatelin.github.io | 3 | 12| 
@@ -147,7 +148,6 @@
 | 20211209T01:35:36Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211209T01:18:33Z | An open-source software package for fuzzing autonomous driving systems in high-fidelity simulators | https://github.com/AIasd/ADFuzz | 0 | 1| 
 | 20211209T01:15:44Z | ☸A stateful GraphQL fuzzer (in development) | https://github.com/omar2535/GraphQLer | 7 | 0| 
-| 20211209T01:13:12Z | Null | https://github.com/Fuzzwah/simhub-dash-fuzzwah-v2 | 2 | 1| 
 
 
 
