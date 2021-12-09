@@ -85,8 +85,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211209T01:47:12Z | A Roblox exploiting library that looks like nodejs. | https://github.com/Mlemix/roblox.ls | 0 | 0| 
 | 20211209T01:25:50Z | For Exploits | https://github.com/daa16kxMc2x21/Ragdoll-Engine-UI | 0 | 0| 
-| 20211209T01:15:34Z | A Roblox exploiting library that looks like nodejs. | https://github.com/Mlemix/roblox.ls | 0 | 0| 
 | 20211209T01:03:26Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 36 | 20| 
 | 20211209T00:59:52Z | HiveMind Metasploit Exploit | https://github.com/fzcooper/hm_ms_exploit | 0 | 0| 
 | 20211209T00:53:44Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 280 | 532| 
@@ -138,6 +138,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211209T01:48:22Z | This study aims to design a safe distance detection system as a warning when the minibus will park by using ultrasonic sensors to detect objects in the vicinity that are reached and using a microcontroller as the brain of the control system process so that it can be used to build electronic systems. | https://github.com/bydzen/hcsr04-fuzzy | 0 | 0| 
 | 20211209T01:44:45Z | Null | https://github.com/markbennett95/dual-fuzz | 0 | 0| 
 | 20211209T01:37:45Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4646 | 475| 
 | 20211209T01:35:36Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
@@ -147,7 +148,6 @@
 | 20211209T01:04:47Z | Attempts to find security vulnerabilities in NetHack via input Fuzzing | https://github.com/recursion-ninja/Superion-YAML | 1 | 3| 
 | 20211209T00:58:14Z | 僕の卒業論文 | https://github.com/yoshiyoshiharu/oblique-fuzzy-vector-mrp | 0 | 0| 
 | 20211209T00:41:16Z | hoijoijo | https://github.com/mrisdal/fuzzy-robot | 0 | 0| 
-| 20211208T23:35:56Z | Null | https://github.com/crajkumar73/FuzzyLogicModels | 0 | 0| 
 
 
 
