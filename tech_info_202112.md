@@ -85,6 +85,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211209T02:33:33Z | iReady is awful. It%s the worst education tool anyone could ever use. This program is designed to skip through iReady lessons/quizzes/time requirements or whatever. | https://github.com/cupiditys/iReady-Overload | 22 | 16| 
+| 20211209T02:33:10Z | Null | https://github.com/RoadLuck/exploits-tryhackme | 0 | 0| 
 | 20211209T02:28:10Z | A Roblox exploiting library that looks like nodejs. | https://github.com/Mlemix/roblox.ls | 0 | 0| 
 | 20211209T02:03:39Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 36 | 20| 
 | 20211209T01:25:50Z | For Exploits | https://github.com/daa16kxMc2x21/Ragdoll-Engine-UI | 0 | 0| 
@@ -93,8 +95,6 @@
 | 20211209T00:45:48Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 16| 
 | 20211209T00:43:13Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4154 | 596| 
 | 20211209T00:14:11Z | This repository showcases several use-cases of the Flashbots relayer service to avoid getting exploited by sniper bots on the Ethereum network. | https://github.com/schepal/flashbots_playground | 0 | 0| 
-| 20211208T23:51:51Z | A Ruby micro-framework for writing and running exploit payloads | https://github.com/ronin-rb/ronin-payloads | 1 | 0| 
-| 20211208T23:39:59Z | Random Exploits | https://github.com/w4fz5uck5/3XPL01t5 | 24 | 14| 
 
 
 # backdoor on Github 推荐
@@ -138,6 +138,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211209T02:32:55Z | Null | https://github.com/ernisabita/fuzzy-octo-fiesta | 0 | 0| 
 | 20211209T02:24:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6890 | 1440| 
 | 20211209T02:21:34Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20211209T02:17:04Z | Null | https://github.com/guidovranken/fuzzing-corpora-directory | 14 | 2| 
@@ -147,7 +148,6 @@
 | 20211209T01:37:45Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4646 | 475| 
 | 20211209T01:35:36Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211209T01:18:33Z | An open-source software package for fuzzing autonomous driving systems in high-fidelity simulators | https://github.com/AIasd/ADFuzz | 0 | 1| 
-| 20211209T01:15:44Z | ☸A stateful GraphQL fuzzer (in development) | https://github.com/omar2535/GraphQLer | 7 | 0| 
 
 
 
