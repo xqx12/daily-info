@@ -138,7 +138,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211209T01:14:58Z | ☸A stateful GraphQL fuzzer (in development) | https://github.com/omar2535/GraphQLer | 7 | 0| 
+| 20211209T01:15:44Z | ☸A stateful GraphQL fuzzer (in development) | https://github.com/omar2535/GraphQLer | 7 | 0| 
 | 20211209T01:13:12Z | Null | https://github.com/Fuzzwah/simhub-dash-fuzzwah-v2 | 2 | 1| 
 | 20211209T01:10:33Z | Null | https://github.com/markbennett95/dual-fuzz | 0 | 0| 
 | 20211209T01:04:47Z | Attempts to find security vulnerabilities in NetHack via input Fuzzing | https://github.com/recursion-ninja/Superion-YAML | 1 | 3| 
