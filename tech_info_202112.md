@@ -138,7 +138,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211209T02:56:31Z | Grafana任意文件读取，增加了49个插件进行Fuzz，同时进行db文件读取。 | https://github.com/Henry4E36/Grafana-Read-File | 0 | 0| 
+| 20211209T02:57:38Z | Grafana任意文件读取，增加了49个插件进行Fuzz，同时进行db文件读取。 | https://github.com/Henry4E36/Grafana-Read-File | 0 | 0| 
 | 20211209T02:47:41Z | Code for fuzzy monkeys. | https://github.com/fuzzyatelin/fuzzyatelin.github.io | 3 | 12| 
 | 20211209T02:32:55Z | Null | https://github.com/ernisabita/fuzzy-octo-fiesta | 0 | 0| 
 | 20211209T02:24:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6890 | 1440| 
