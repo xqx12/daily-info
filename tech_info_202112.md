@@ -138,6 +138,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211209T13:21:57Z | fuzzer | https://github.com/reusee/fz | 1 | 1| 
 | 20211209T13:11:24Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3828 | 901| 
 | 20211209T12:58:19Z | Null | https://github.com/kabolat/AutoFuzzifier | 0 | 0| 
 | 20211209T12:57:59Z | Null | https://github.com/sandiatmaja/fuzzy-fiesta | 0 | 0| 
@@ -147,7 +148,6 @@
 | 20211209T12:48:33Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 207 | 39| 
 | 20211209T12:34:14Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 4 | 2| 
 | 20211209T12:16:16Z | Null | https://github.com/polymorphicengine/Semi-Fuzzy-Quantifiers | 0 | 0| 
-| 20211209T12:15:18Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 36 | 12| 
 
 
 
