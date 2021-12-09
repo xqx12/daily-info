@@ -44,7 +44,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211209T12:58:52Z | In the LNG market, arbitrage can be defined as a strategy of diverting a physical cargo from one market to another which offers a higher price. Price differentials can occur between regional markets due to different pricing structures and imbalances between supply and demand which allows traders to exploit and capitalize on. In this example, we look at the key variable costs to determine if the arbitrage window to Asia is open or if it is more profitable to ship a cargo from the United States to Asia than to Europe | https://github.com/Refinitiv-API-Samples/Article.EikonAPI.Python.LNG.arbitrage | 0 | 0| 
+| 20211209T13:02:40Z | In the LNG market, arbitrage can be defined as a strategy of diverting a physical cargo from one market to another which offers a higher price. Price differentials can occur between regional markets due to different pricing structures and imbalances between supply and demand which allows traders to exploit and capitalize on. In this example, we look at the key variable costs to determine if the arbitrage window to Asia is open or if it is more profitable to ship a cargo from the United States to Asia than to Europe | https://github.com/Refinitiv-API-Samples/Article.EikonAPI.Python.LNG.arbitrage | 0 | 0| 
 | 20211209T12:57:38Z | In the LNG market, arbitrage can be defined as a strategy of diverting a physical cargo from one market to another which offers a higher price. Price differentials can occur between regional markets due to different pricing structures and imbalances between supply and demand which allows traders to exploit and capitalize on. In this example, we look at the key variable costs to determine if the arbitrage window to Asia is open or if it is more profitable to ship a cargo from the United States to Asia than to Europe | https://github.com/rsamasiri/Article.EikonAPI.Python.LNG.arbitrage | 0 | 0| 
 | 20211209T12:48:21Z | Automatic Return Oriented Programming exploit generator | https://github.com/JDBryan/ROPSlap | 1 | 0| 
 | 20211209T12:45:48Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 16| 
@@ -59,6 +59,12 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211209T12:06:14Z | Code for the paper %Rethinking Stealthiness of Backdoor Attack against NLP Models% (ACL-IJCNLP 2021) | https://github.com/lancopku/SOS | 6 | 1| 
+| 20211209T11:32:02Z | The best Python Backdoor👌 | https://github.com/S12cybersecurity/Backdoor | 4 | 0| 
+| 20211209T11:11:57Z | An advanced 1.8.8 spigot backdoor. | https://github.com/IncognitoSquad/CelestialBackdoor | 2 | 0| 
+| 20211209T10:10:33Z | Null | https://github.com/rriiaad/Backdoor | 0 | 0| 
+| 20211209T07:24:26Z | Antivirus evasion project  | https://github.com/Ch0pin/AVIator | 618 | 174| 
+| 20211209T06:35:31Z | Null | https://github.com/Scorpio-m7/tomcat-backdoor | 4 | 1| 
 | 20211209T02:24:21Z | LD_PRELOAD rootkit | https://github.com/mav8557/Father | 45 | 8| 
 | 20211209T00:55:14Z | The insane hackerman backdoor. | https://github.com/Bakdooro/Bakdooro | 10 | 2| 
 
@@ -66,6 +72,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211209T10:07:39Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 18 | 12| 
+| 20211209T08:08:24Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2585 | 381| 
 | 20211209T02:46:27Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 190 | 39| 
 | 20211209T01:45:11Z | Monster is a symbolic execution engine for 64-bit RISC-U code | https://github.com/cksystemsgroup/monster | 6 | 3| 
 
