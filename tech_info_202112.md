@@ -138,9 +138,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211209T13:11:24Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3828 | 901| 
 | 20211209T12:58:19Z | Null | https://github.com/kabolat/AutoFuzzifier | 0 | 0| 
 | 20211209T12:57:59Z | Null | https://github.com/sandiatmaja/fuzzy-fiesta | 0 | 0| 
-| 20211209T12:56:25Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3827 | 901| 
 | 20211209T12:56:19Z | Null | https://github.com/gungnir479/fuzzJIT | 0 | 0| 
 | 20211209T12:56:05Z | Null | https://github.com/guidovranken/fuzzing-corpora-directory | 16 | 2| 
 | 20211209T12:55:24Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 629 | 67| 
