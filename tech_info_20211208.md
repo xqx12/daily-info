@@ -93,7 +93,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20211208T23:41:53Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 18 | 5| 
-| 20211208T23:06:05Z | Monster is a symbolic execution engine for 64-bit RISC-U code | https://github.com/cksystemsgroup/monster | 6 | 3| 
 | 20211208T22:27:33Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2584 | 381| 
 | 20211208T17:22:13Z | Symbolica%s open-source symbolic execution engine. | https://github.com/Symbolica/Symbolica | 45 | 2| 
 | 20211208T16:56:16Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 17 | 12| 
