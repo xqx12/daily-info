@@ -46,21 +46,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211209T12:59:21Z | CVE-2021-26102 | PoC of FortiWAN auth bypass (https://www.fortiguard.com/psirt/FG-IR-21-048) | https://github.com/SleepyCofe/CVE-2021-26102 | | 
+| 20211209T12:57:58Z | CVE-2021-38759 | CVE-2021-38759 public Exploit | https://github.com/joanbono/CVE-2021-38759 | | 
+| 20211209T12:34:45Z | CVE-2021-43798 | Null | https://github.com/julesbozouklian/CVE-2021-43798 | | 
+| 20211209T12:05:45Z | CVE-2021-27928 | CVE-2021-27928-POC | https://github.com/shamo0/CVE-2021-27928-POC | | 
+| 20211209T11:43:13Z | CVE-2021-43798 | CVE-2021-43798Exp多线程批量验证脚本 | https://github.com/fanygit/Grafana-CVE-2021-43798Exp | | 
+| 20211209T11:36:08Z | CVE-2021-43798 | Grafana Unauthorized arbitrary file reading vulnerability | https://github.com/jas502n/Grafana-CVE-2021-43798 | | 
+| 20211209T11:11:26Z | CVE-2021-43798 | Simple program for exploit grafana | https://github.com/z3n70/CVE-2021-43798 | | 
+| 20211209T09:58:19Z | CVE-2021-43798 | Grafana-POC任意文件读取漏洞(CVE-2021-43798) | https://github.com/culprits/Grafana_POC-CVE-2021-43798 | | 
+| 20211209T09:34:20Z | CVE-2021-44077 | Proof of Concept Exploit for ManageEngine ServiceDesk Plus CVE-2021-44077 | https://github.com/horizon3ai/CVE-2021-44077 | | 
 | 20211209T02:55:43Z | CVE-2021-43798 | grafana CVE-2021-43798任意文件读取漏洞POC，采用多插件轮训检测的方法，允许指定单URL和从文件中读取URL | https://github.com/j-jasson/CVE-2021-43798-grafana_fileread | | 
-| 20211209T02:54:25Z | CVE-2021-43798 | Grafana Unauthorized arbitrary file reading vulnerability | https://github.com/jas502n/Grafana-CVE-2021-43798 | | 
-| 20211209T02:41:30Z | CVE-2021-43798 | Null | https://github.com/tangxiaofeng7/CVE-2021-43798-Grafana-File-Read | | 
-| 20211209T02:13:12Z | CVE-2021-43798 | CVE-2021-43798-Grafana任意文件读取漏洞 | https://github.com/lfz97/CVE-2021-43798-Grafana-File-Read | | 
-| 20211209T01:36:44Z | CVE-2021-34045 | druid未授权访问批量扫描poc | https://github.com/MzzdToT/CVE-2021-34045 | | 
-| 20211208T22:42:26Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | | 
-| 20211208T21:52:39Z | CVE-2021-38759 | CVE-2021-38759 public Exploit | https://github.com/joanbono/CVE-2021-38759 | | 
-| 20211208T21:43:19Z | CVE-2021-44077 | Proof of Concept Exploit for ManageEngine ServiceDesk Plus CVE-2021-44077 | https://github.com/horizon3ai/CVE-2021-44077 | | 
-| 20211208T18:24:25Z | CVE-2021-22204 | reverse shell execution exploit of CVE 22204 | https://github.com/Asaad27/CVE-2021-22204-RSE | | 
-| 20211208T16:08:05Z | CVE-2021-32724 | Null | https://github.com/MaximeSchlegel/CVE-2021-32724-Target | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211209T08:19:23Z | Null | https://github.com/dlapierre/kleewhoorksnantes | 0 | 0| 
 | 20211208T16:33:49Z | A small demo to improve documentation | https://github.com/Fernando-Adauto/kleeen-infusion-demo | 0 | 0| 
 | 20211208T07:54:25Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 219 | 36| 
 | 20211208T02:59:01Z | Spring 2021 Geography 817 work folder  | https://github.com/klee12/klee12.github.io | 0 | 0| 
@@ -70,14 +71,13 @@
 | 20211207T16:19:31Z | Null | https://github.com/coffee100percnt/KleeDiscordBomber | 5 | 0| 
 | 20211207T09:39:53Z | Null | https://github.com/ka11i0/d7020e_klee | 0 | 0| 
 | 20211207T02:07:46Z | KLEE support llvm-9.0.0 | https://github.com/YizhuoZhai/yzklee | 0 | 0| 
-| 20211206T19:29:27Z | A unique discord bot with capabilities of making life easier! | https://github.com/BraveCake/Klee-Project---Discord-Bot | 0 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211209T09:28:21Z | CRAX++: software CRash analysis for Automatic eXploit generation | https://github.com/aesophor/CRAXplusplus | 21 | 3| 
 | 20211209T02:46:27Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 190 | 39| 
-| 20211208T03:49:15Z | CRAX++: software CRash analysis for Automatic eXploit generation | https://github.com/aesophor/CRAXplusplus | 18 | 3| 
 | 20211207T15:25:17Z | Null | https://github.com/yuvalkirstain/s2e-coref | 25 | 9| 
 | 20211202T14:39:02Z | Null | https://github.com/s2e-lab/s2e-lab.github.io | 0 | 0| 
 
@@ -85,16 +85,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211209T02:54:30Z | A Roblox exploiting library that looks like nodejs. | https://github.com/Mlemix/roblox.ls | 0 | 0| 
-| 20211209T02:47:18Z | Null | https://github.com/RoadLuck/exploits-tryhackme | 0 | 0| 
-| 20211209T02:42:08Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4155 | 596| 
-| 20211209T02:39:26Z | iReady is awful. It%s the worst education tool anyone could ever use. This program is designed to skip through iReady lessons/quizzes/time requirements or whatever. | https://github.com/cupiditys/iReady-Overload | 22 | 16| 
-| 20211209T02:03:39Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 36 | 20| 
-| 20211209T01:25:50Z | For Exploits | https://github.com/daa16kxMc2x21/Ragdoll-Engine-UI | 0 | 0| 
-| 20211209T00:59:52Z | HiveMind Metasploit Exploit | https://github.com/fzcooper/hm_ms_exploit | 0 | 0| 
-| 20211209T00:53:44Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 280 | 534| 
-| 20211209T00:45:48Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 16| 
-| 20211209T00:14:11Z | This repository showcases several use-cases of the Flashbots relayer service to avoid getting exploited by sniper bots on the Ethereum network. | https://github.com/schepal/flashbots_playground | 0 | 0| 
+| 20211209T12:58:52Z | In the LNG market, arbitrage can be defined as a strategy of diverting a physical cargo from one market to another which offers a higher price. Price differentials can occur between regional markets due to different pricing structures and imbalances between supply and demand which allows traders to exploit and capitalize on. In this example, we look at the key variable costs to determine if the arbitrage window to Asia is open or if it is more profitable to ship a cargo from the United States to Asia than to Europe | https://github.com/Refinitiv-API-Samples/Article.EikonAPI.Python.LNG.arbitrage | 0 | 0| 
+| 20211209T12:57:38Z | In the LNG market, arbitrage can be defined as a strategy of diverting a physical cargo from one market to another which offers a higher price. Price differentials can occur between regional markets due to different pricing structures and imbalances between supply and demand which allows traders to exploit and capitalize on. In this example, we look at the key variable costs to determine if the arbitrage window to Asia is open or if it is more profitable to ship a cargo from the United States to Asia than to Europe | https://github.com/rsamasiri/Article.EikonAPI.Python.LNG.arbitrage | 0 | 0| 
+| 20211209T12:48:21Z | Automatic Return Oriented Programming exploit generator | https://github.com/JDBryan/ROPSlap | 1 | 0| 
+| 20211209T12:45:48Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 16| 
+| 20211209T12:42:31Z | Null | https://github.com/g4b1t2/exploitdb_downloads_dorks | 0 | 0| 
+| 20211209T12:04:21Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 37 | 20| 
+| 20211209T12:00:35Z | The popular GENIE Generator product is used by nearly all accelerator neutrino experiments and it plays a key role in the exploitation of neutrino data. The Generator implements a modern software framework and it includes state-of-the-art physics modules. It captures the latest results of the GENIE global analysis of neutrino scattering data and includes several tunes that were produced using the proprietary Comparisons and Tuning products. The GENIE physics model is universal and comprehensive:  It handles all neutrinos and targets, and all processes relevant from MeV to PeV energy scales. The Generator includes several tools (flux drivers, detector geometry navigators, specialized event generation apps, event reweighting engines) to simulate complex experimental setups in full detail and to support generator-related analysis tasks.  | https://github.com/GENIE-MC/Generator | 25 | 56| 
+| 20211209T11:59:46Z | The whole collection of Exploits developed by me (Hacker5preme) | https://github.com/Hacker5preme/Exploits | 10 | 2| 
+| 20211209T11:55:17Z | Vulnerability Exploitation Code Collection Repository | https://github.com/0x0021h/expbox | 232 | 42| 
+| 20211209T11:50:47Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10426 | 1795| 
 
 
 # backdoor on Github 推荐
@@ -138,16 +138,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211209T02:58:18Z | Grafana任意文件读取，增加了49个插件进行Fuzz，同时进行db文件读取。 | https://github.com/Henry4E36/Grafana-Read-File | 0 | 0| 
-| 20211209T02:47:41Z | Code for fuzzy monkeys. | https://github.com/fuzzyatelin/fuzzyatelin.github.io | 3 | 12| 
-| 20211209T02:32:55Z | Null | https://github.com/ernisabita/fuzzy-octo-fiesta | 0 | 0| 
-| 20211209T02:24:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6890 | 1440| 
-| 20211209T02:21:34Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
-| 20211209T02:17:04Z | Null | https://github.com/guidovranken/fuzzing-corpora-directory | 14 | 2| 
-| 20211209T02:16:50Z | Null | https://github.com/markbennett95/dual-fuzz | 0 | 0| 
-| 20211209T01:48:22Z | This study aims to design a safe distance detection system as a warning when the minibus will park by using ultrasonic sensors to detect objects in the vicinity that are reached and using a microcontroller as the brain of the control system process so that it can be used to build electronic systems. | https://github.com/bydzen/hcsr04-fuzzy | 0 | 0| 
-| 20211209T01:37:45Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4646 | 474| 
-| 20211209T01:35:36Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20211209T12:58:19Z | Null | https://github.com/kabolat/AutoFuzzifier | 0 | 0| 
+| 20211209T12:57:59Z | Null | https://github.com/sandiatmaja/fuzzy-fiesta | 0 | 0| 
+| 20211209T12:56:25Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3827 | 901| 
+| 20211209T12:56:19Z | Null | https://github.com/gungnir479/fuzzJIT | 0 | 0| 
+| 20211209T12:56:05Z | Null | https://github.com/guidovranken/fuzzing-corpora-directory | 16 | 2| 
+| 20211209T12:55:24Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 629 | 67| 
+| 20211209T12:48:33Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 207 | 39| 
+| 20211209T12:34:14Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 4 | 2| 
+| 20211209T12:16:16Z | Null | https://github.com/polymorphicengine/Semi-Fuzzy-Quantifiers | 0 | 0| 
+| 20211209T12:15:18Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 36 | 12| 
 
 
 
