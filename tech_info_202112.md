@@ -100,6 +100,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211210T01:38:12Z | Checks Minecraft logs to see if the jndi:ldap appears. | https://github.com/MyUsernamee/MinecraftBackdoorDetector | 0 | 0| 
 | 20211210T00:31:02Z | Null | https://github.com/samuelventura/nerves_backdoor | 0 | 0| 
 | 20211209T23:05:41Z | LD_PRELOAD rootkit | https://github.com/mav8557/Father | 47 | 8| 
 | 20211209T21:36:35Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 116 | 28| 
@@ -109,7 +110,6 @@
 | 20211209T11:32:02Z | The best Python Backdoor👌 | https://github.com/S12cybersecurity/Backdoor | 4 | 0| 
 | 20211209T11:11:57Z | An advanced 1.8.8 spigot backdoor. | https://github.com/IncognitoSquad/CelestialBackdoor | 2 | 0| 
 | 20211209T10:10:33Z | Null | https://github.com/rriiaad/Backdoor | 0 | 0| 
-| 20211209T07:24:26Z | Antivirus evasion project  | https://github.com/Ch0pin/AVIator | 618 | 174| 
 
 
 # symbolic execution on Github 推荐
