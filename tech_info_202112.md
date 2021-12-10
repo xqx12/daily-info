@@ -85,10 +85,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211210T01:11:39Z | Fixes the log4j exploit from being sent to Minecraft clients. | https://github.com/FrankHeijden/Log4jFix | 0 | 0| 
+| 20211210T01:31:35Z | A simple plugin that prevents the Log4J exploit that allows for RCE, IP-Logging and server crashing | https://github.com/notrhys/Log-4J-Exploit-Fix | 4 | 2| 
+| 20211210T01:30:24Z | Fixes the log4j exploit from being sent to Minecraft clients. | https://github.com/FrankHeijden/Log4jFix | 0 | 1| 
 | 20211210T01:07:23Z | Collection of Discord hacking tools/fun stuff/exploits that is completely made using NodeJS. | https://github.com/lhthanhdat/Discord | 0 | 0| 
 | 20211210T01:03:27Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 37 | 20| 
-| 20211210T00:58:18Z | A simple plugin that prevents the Log4J exploit that allows for RCE, IP-Logging and server crashing | https://github.com/notrhys/Log-4J-Exploit-Fix | 2 | 1| 
 | 20211210T00:54:30Z | A spigot based plugin dedicated to fixing glitches and exploits that have made it into final Minecraft releases. | https://github.com/dniym/IllegalStack | 67 | 22| 
 | 20211210T00:45:49Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 16| 
 | 20211210T00:37:08Z | Patch for Waterfall to improve performance during attacks and fix memory issues. | https://github.com/2lstudios-mc/FlameCord | 89 | 46| 
