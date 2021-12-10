@@ -6,6 +6,8 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20211209 | 利用 ZoomEye 追踪Bitter APT团队恶意软件分析视频. | https://www.youtube.com/watch?v=dS6Pmpv40QQ&feature=youtu.be| 
+| 20211209 | DLL劫持快速挖掘入门教程. | https://tttang.com/archive/1365/| 
 
 
 # 安全维基 推荐
@@ -16,57 +18,60 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211209T13:58:34Z | CVE-2021-44077 | Proof of Concept Exploit for ManageEngine ServiceDesk Plus CVE-2021-44077 | https://github.com/horizon3ai/CVE-2021-44077 | | 
-| 20211209T13:49:44Z | CVE-2021-21972 | CVE-2021-21972 Exploit | https://github.com/NS-Sp4ce/CVE-2021-21972 | | 
-| 20211209T13:26:59Z | CVE-2021-43798 | Grafana Unauthorized arbitrary file reading vulnerability | https://github.com/jas502n/Grafana-CVE-2021-43798 | | 
+| 20211209T23:11:07Z | CVE-2021-43798 | Grafana Unauthorized arbitrary file reading vulnerability | https://github.com/jas502n/Grafana-CVE-2021-43798 | | 
+| 20211209T21:50:07Z | CVE-2021-44077 | Proof of Concept Exploit for ManageEngine ServiceDesk Plus CVE-2021-44077 | https://github.com/horizon3ai/CVE-2021-44077 | | 
+| 20211209T20:02:39Z | CVE-2021-21972 | CVE-2021-21972 Exploit | https://github.com/NS-Sp4ce/CVE-2021-21972 | | 
+| 20211209T16:21:36Z | CVE-2021-43798 | Simple program for exploit grafana | https://github.com/z3n70/CVE-2021-43798 | | 
+| 20211209T14:16:44Z | CVE-2021-43798 | Null | https://github.com/s1gh/CVE-2021-43798 | | 
 | 20211209T12:59:21Z | CVE-2021-26102 | PoC of FortiWAN auth bypass (https://www.fortiguard.com/psirt/FG-IR-21-048) | https://github.com/SleepyCofe/CVE-2021-26102 | | 
 | 20211209T12:57:58Z | CVE-2021-38759 | CVE-2021-38759 public Exploit | https://github.com/joanbono/CVE-2021-38759 | | 
 | 20211209T12:34:45Z | CVE-2021-43798 | Null | https://github.com/julesbozouklian/CVE-2021-43798 | | 
 | 20211209T12:05:45Z | CVE-2021-27928 | CVE-2021-27928-POC | https://github.com/shamo0/CVE-2021-27928-POC | | 
 | 20211209T11:43:13Z | CVE-2021-43798 | CVE-2021-43798Exp多线程批量验证脚本 | https://github.com/fanygit/Grafana-CVE-2021-43798Exp | | 
-| 20211209T11:11:26Z | CVE-2021-43798 | Simple program for exploit grafana | https://github.com/z3n70/CVE-2021-43798 | | 
-| 20211209T09:58:19Z | CVE-2021-43798 | Grafana-POC任意文件读取漏洞(CVE-2021-43798) | https://github.com/culprits/Grafana_POC-CVE-2021-43798 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211209T08:19:23Z | Null | https://github.com/dlapierre/kleewhoorksnantes | 0 | 0| 
+| 20211209T22:22:33Z | Minecraft Mod. Allows breaking only one half of a double slab block. | https://github.com/ModdingForBlockheads/KleeSlabs | 10 | 3| 
+| 20211209T20:00:40Z | Null | https://github.com/dlapierre/kleewhoorksnantes | 0 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211209T09:28:21Z | CRAX++: software CRash analysis for Automatic eXploit generation | https://github.com/aesophor/CRAXplusplus | 21 | 3| 
+| 20211209T17:11:50Z | CRAX++: software CRash analysis for Automatic eXploit generation | https://github.com/aesophor/CRAXplusplus | 22 | 3| 
 | 20211209T02:46:27Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 190 | 39| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211209T13:49:44Z | CVE-2021-21972 Exploit | https://github.com/NS-Sp4ce/CVE-2021-21972 | 322 | 123| 
-| 20211209T13:48:34Z | Null | https://github.com/g4b1t2/exploitdb_downloads_dorks | 0 | 0| 
-| 20211209T13:38:10Z | exploitation of galaxy wearable%s data | https://github.com/MarcBresson/Galaxy-wearable-data | 0 | 0| 
-| 20211209T13:13:56Z | Automatic Return Oriented Programming exploit generator | https://github.com/JDBryan/ROPSlap | 1 | 0| 
-| 20211209T13:03:21Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 37 | 20| 
-| 20211209T13:02:40Z | In the LNG market, arbitrage can be defined as a strategy of diverting a physical cargo from one market to another which offers a higher price. Price differentials can occur between regional markets due to different pricing structures and imbalances between supply and demand which allows traders to exploit and capitalize on. In this example, we look at the key variable costs to determine if the arbitrage window to Asia is open or if it is more profitable to ship a cargo from the United States to Asia than to Europe | https://github.com/Refinitiv-API-Samples/Article.EikonAPI.Python.LNG.arbitrage | 0 | 0| 
-| 20211209T12:57:38Z | In the LNG market, arbitrage can be defined as a strategy of diverting a physical cargo from one market to another which offers a higher price. Price differentials can occur between regional markets due to different pricing structures and imbalances between supply and demand which allows traders to exploit and capitalize on. In this example, we look at the key variable costs to determine if the arbitrage window to Asia is open or if it is more profitable to ship a cargo from the United States to Asia than to Europe | https://github.com/rsamasiri/Article.EikonAPI.Python.LNG.arbitrage | 0 | 0| 
-| 20211209T12:45:48Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 16| 
-| 20211209T12:00:35Z | The popular GENIE Generator product is used by nearly all accelerator neutrino experiments and it plays a key role in the exploitation of neutrino data. The Generator implements a modern software framework and it includes state-of-the-art physics modules. It captures the latest results of the GENIE global analysis of neutrino scattering data and includes several tunes that were produced using the proprietary Comparisons and Tuning products. The GENIE physics model is universal and comprehensive:  It handles all neutrinos and targets, and all processes relevant from MeV to PeV energy scales. The Generator includes several tools (flux drivers, detector geometry navigators, specialized event generation apps, event reweighting engines) to simulate complex experimental setups in full detail and to support generator-related analysis tasks.  | https://github.com/GENIE-MC/Generator | 25 | 56| 
-| 20211209T11:59:46Z | The whole collection of Exploits developed by me (Hacker5preme) | https://github.com/Hacker5preme/Exploits | 10 | 2| 
+| 20211209T23:47:26Z | Exploit iDRAC 7 & 8 firmware  <  2.52.52.52 | https://github.com/mgargiullo/cve-2018-1207 | 0 | 0| 
+| 20211209T23:32:13Z | Random Exploits | https://github.com/w4fz5uck5/3XPL01t5 | 25 | 15| 
+| 20211209T23:30:04Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 286 | 566| 
+| 20211209T23:12:44Z | This repository showcases several use-cases of the Flashbots relayer service to avoid getting exploited by sniper bots on the Ethereum network. | https://github.com/schepal/flashbots_playground | 1 | 0| 
+| 20211209T23:03:50Z | Useful scripts to automate recon and exploitation | https://github.com/cyberpenguin1123/my_scripts | 0 | 0| 
+| 20211209T22:46:40Z | This repository contains a script that will search for exploits based on CVE codes extracted from automated scans (such as Nessus) | https://github.com/VictorDamasio/exploit-searcher | 0 | 0| 
+| 20211209T22:38:14Z | aaaaaaaaaaaaaa | https://github.com/BeyYT/Exploit_Checker | 0 | 0| 
+| 20211209T21:59:56Z | AD Enum is a pentesting tool that allows to find misconfiguration through the the protocol LDAP and exploit some of those weaknesses with kerberos. | https://github.com/SecuProject/ADenum | 59 | 18| 
+| 20211209T21:47:00Z | A little tool to automate ip cam hacking with kcore exploit and variant  | https://github.com/nnieddu/cam_hack_script | 0 | 0| 
+| 20211209T21:05:41Z | Using curl to exploit CVE-2019-11447  | https://github.com/iainr/CuteNewsRCE | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211209T23:05:41Z | LD_PRELOAD rootkit | https://github.com/mav8557/Father | 47 | 8| 
+| 20211209T21:36:35Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 116 | 28| 
+| 20211209T20:26:38Z | Script written in Python to detect and exploit the ICSA-17-124-01 vulnerability, also known as Hikvision Camera Backdoor.  | https://github.com/fracergu/HIKSCript | 0 | 1| 
+| 20211209T18:47:41Z | High School project that utilizes python machine learning algorithm to find malicious backdoor programs on a Linux system | https://github.com/MizuBon/mlDoora | 0 | 0| 
 | 20211209T12:06:14Z | Code for the paper %Rethinking Stealthiness of Backdoor Attack against NLP Models% (ACL-IJCNLP 2021) | https://github.com/lancopku/SOS | 6 | 1| 
 | 20211209T11:32:02Z | The best Python Backdoor👌 | https://github.com/S12cybersecurity/Backdoor | 4 | 0| 
 | 20211209T11:11:57Z | An advanced 1.8.8 spigot backdoor. | https://github.com/IncognitoSquad/CelestialBackdoor | 2 | 0| 
 | 20211209T10:10:33Z | Null | https://github.com/rriiaad/Backdoor | 0 | 0| 
 | 20211209T07:24:26Z | Antivirus evasion project  | https://github.com/Ch0pin/AVIator | 618 | 174| 
 | 20211209T06:35:31Z | Null | https://github.com/Scorpio-m7/tomcat-backdoor | 4 | 1| 
-| 20211209T02:24:21Z | LD_PRELOAD rootkit | https://github.com/mav8557/Father | 45 | 8| 
-| 20211209T00:55:14Z | The insane hackerman backdoor. | https://github.com/Bakdooro/Bakdooro | 10 | 2| 
 
 
 # symbolic execution on Github 推荐
@@ -87,16 +92,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211209T13:58:36Z | A random program generator for fuzzing WGSL | https://github.com/hasali19/WGSLsmith | 0 | 0| 
-| 20211209T13:56:04Z | Null | https://github.com/Clearymk/TypeScriptFuzzer | 0 | 0| 
-| 20211209T13:37:49Z | Null | https://github.com/hibist/fuzz-Buzz | 0 | 0| 
-| 20211209T13:36:02Z | Null | https://github.com/MaksimOzery/fuzzerSmartSoft | 0 | 0| 
-| 20211209T13:31:17Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3828 | 901| 
-| 20211209T13:28:23Z | Null | https://github.com/kalanakt/fuzzy-waffle | 0 | 0| 
-| 20211209T13:21:57Z | fuzzer | https://github.com/reusee/fz | 1 | 1| 
-| 20211209T12:58:19Z | Null | https://github.com/kabolat/AutoFuzzifier | 0 | 0| 
-| 20211209T12:57:59Z | Null | https://github.com/sandiatmaja/fuzzy-fiesta | 0 | 0| 
-| 20211209T12:56:19Z | Null | https://github.com/gungnir479/fuzzJIT | 0 | 0| 
+| 20211209T23:52:34Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 12 | 1| 
+| 20211209T23:52:14Z | Fuzz testing harness for Geometrize, a library for geometrizing images into geometric primitives | https://github.com/Tw1ddle/geometrize-lib-fuzzing | 1 | 1| 
+| 20211209T23:43:06Z | Null | https://github.com/supiyatparnilem/fuzzy-spork | 0 | 0| 
+| 20211209T23:27:20Z | this is my website | https://github.com/attilavajdaxyz/fuzzy-octo-spoon | 0 | 0| 
+| 20211209T23:05:08Z | Null | https://github.com/ernisabita/fuzzy-octo-fiesta | 0 | 0| 
+| 20211209T22:39:00Z | open tool to benchmark fuzzers | https://github.com/Ananas-Saft/Pineapple-fuzzer-benchmarking-tool | 0 | 0| 
+| 20211209T22:28:08Z | JavaScript class for on-line approximate string matching (for use with auto-complete) | https://github.com/stollcri/fuzziac.js | 5 | 0| 
+| 20211209T22:22:58Z | fortnight fortnight we like fortnight | https://github.com/JosephJvB/fuzzy-fortnight | 0 | 0| 
+| 20211209T22:14:14Z | JQF + Zest: Coverage-guided semantic fuzzing for Java. | https://github.com/rohanpadhye/JQF | 419 | 66| 
+| 20211209T21:53:10Z | Attempts to find security vulnerabilities in NetHack via input Fuzzing | https://github.com/recursion-ninja/Superion-YAML | 1 | 3| 
 
 
 
