@@ -52,6 +52,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211210T13:58:27Z | Don%t use this maliciously, this is for testing | https://github.com/fizztune/log4j-exploit-example | 1 | 0| 
+| 20211210T13:58:07Z | Hyperledger Fabric based Exploit Secure E-Voting System. | https://github.com/faiyazkhan024/hlf-ses | 0 | 0| 
 | 20211210T13:55:15Z | Log4j-RCE (CVE-2021-44228) | https://github.com/HyCraftHD/Log4J-RCE-Proof-Of-Concept | 6 | 2| 
 | 20211210T13:52:22Z | Exploit to dump ipmi hashes | https://github.com/c0rnf13ld/ipmiPwner | 0 | 0| 
 | 20211210T13:45:58Z | A list of fun things to do with DarkRP addons | https://github.com/OverlordAkise/darkrp-exploits | 4 | 0| 
@@ -60,8 +62,6 @@
 | 20211210T13:40:12Z | A simple plugin that prevents the Log4J exploit that allows for RCE, IP-Logging and server crashing | https://github.com/notrhys/Log-4J-Exploit-Fix | 28 | 20| 
 | 20211210T13:37:58Z | A little Python-Code that erans money for ya | https://github.com/FuckingToasters/MoneyMakingExploit | 1 | 1| 
 | 20211210T13:37:52Z | Null | https://github.com/BenPali/Offensive-Security-and-Exploitation | 0 | 0| 
-| 20211210T13:19:33Z | Null | https://github.com/fabiodimauro/exploit | 0 | 0| 
-| 20211210T13:03:02Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 37 | 20| 
 
 
 # backdoor on Github 推荐
