@@ -138,6 +138,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211210T13:29:38Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
 | 20211210T13:27:13Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6893 | 1442| 
 | 20211210T12:50:21Z | Null | https://github.com/MaksimOzery/fuzzerSmartSoft | 0 | 0| 
 | 20211210T12:39:01Z | Null | https://github.com/nishikantparmariam/Mamdani-Fuzzy-Logic-App | 0 | 0| 
@@ -147,7 +148,6 @@
 | 20211210T12:02:21Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 37 | 12| 
 | 20211210T11:38:40Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 4 | 2| 
 | 20211210T11:20:53Z | I made these little web pages with the help of Web Dev Simplified on YouTube.  | https://github.com/Iron-P/fuzzy-deci-memory | 0 | 0| 
-| 20211210T11:19:42Z | Binary, coverage-guided fuzzer for Windows and macOS | https://github.com/googleprojectzero/Jackalope | 667 | 82| 
 
 
 
