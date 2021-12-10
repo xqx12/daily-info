@@ -138,6 +138,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211210T01:28:01Z | python scripts to run fuzzer. | https://github.com/firefoxxpyang/run_fuzzer_scripts | 0 | 0| 
 | 20211210T01:25:21Z | On my fuzzy way: My CVEs, fuzzers, bugs and documentations... etc.   1 Fuzzy Way, 0x50 0x4B. | https://github.com/cemonatk/onefuzzyway | 1 | 0| 
 | 20211210T00:49:04Z | Null | https://github.com/mickeymars17/fuzzy-chainsaw | 0 | 0| 
 | 20211210T00:23:54Z | ☸A stateful GraphQL fuzzer (in development) | https://github.com/omar2535/GraphQLer | 8 | 2| 
@@ -147,7 +148,6 @@
 | 20211210T00:10:51Z | Null | https://github.com/theripper93/fuzzy-foundry | 1 | 0| 
 | 20211210T00:08:39Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 36 | 12| 
 | 20211210T00:03:32Z | A fork and successor of the Sulley Fuzzing Framework | https://github.com/jtpereyda/boofuzz | 1407 | 273| 
-| 20211209T23:52:34Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 12 | 1| 
 
 
 
