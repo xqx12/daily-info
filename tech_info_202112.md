@@ -100,6 +100,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211210T02:47:57Z | dunno i feel really sick and don%t know what to do so ill just work on this until i sleep | https://github.com/mynameiswillporter/udp_backdoor | 0 | 0| 
 | 20211210T02:13:18Z | The insane hackerman backdoor. | https://github.com/Bakdooro/Bakdooro | 10 | 2| 
 | 20211210T01:48:31Z | Checks Minecraft logs to see if the string jndi:ldap appears. | https://github.com/MyUsernamee/MinecraftBackdoorDetector | 0 | 1| 
 | 20211210T00:31:02Z | Null | https://github.com/samuelventura/nerves_backdoor | 0 | 0| 
@@ -109,7 +110,6 @@
 | 20211209T18:47:41Z | High School project that utilizes python machine learning algorithm to find malicious backdoor programs on a Linux system | https://github.com/MizuBon/mlDoora | 0 | 0| 
 | 20211209T12:06:14Z | Code for the paper %Rethinking Stealthiness of Backdoor Attack against NLP Models% (ACL-IJCNLP 2021) | https://github.com/lancopku/SOS | 6 | 1| 
 | 20211209T11:32:02Z | The best Python Backdoor👌 | https://github.com/S12cybersecurity/Backdoor | 4 | 0| 
-| 20211209T11:11:57Z | An advanced 1.8.8 spigot backdoor. | https://github.com/IncognitoSquad/CelestialBackdoor | 2 | 0| 
 
 
 # symbolic execution on Github 推荐
