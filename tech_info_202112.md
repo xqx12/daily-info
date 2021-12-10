@@ -138,6 +138,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211210T01:56:45Z | Null | https://github.com/cahyowendarto/fuzzy-octo-robot | 0 | 0| 
 | 20211210T01:54:56Z | fortnite fortnite | https://github.com/JosephJvB/fuzzy-fortnight2 | 0 | 0| 
 | 20211210T01:54:44Z | fortnight fortnight we like fortnight | https://github.com/JosephJvB/fuzzy-fortnight | 0 | 0| 
 | 20211210T01:41:49Z | Null | https://github.com/supiyatparnilem/fuzzy-spork | 0 | 0| 
@@ -147,7 +148,6 @@
 | 20211210T00:49:04Z | Null | https://github.com/mickeymars17/fuzzy-chainsaw | 0 | 0| 
 | 20211210T00:23:54Z | ☸A stateful GraphQL fuzzer (in development) | https://github.com/omar2535/GraphQLer | 8 | 2| 
 | 20211210T00:22:17Z | Null | https://github.com/nyx-fuzz/spec-fuzzer | 14 | 4| 
-| 20211210T00:20:53Z | Null | https://github.com/Ezequiel-Menneck/fuzzy-guacamole | 0 | 0| 
 
 
 
