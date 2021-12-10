@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211210T01:53:32Z | CVE-2021-43798 | Grafana-POC任意文件读取漏洞(CVE-2021-43798) | https://github.com/culprits/Grafana_POC-CVE-2021-43798 | | 
 | 20211210T01:20:20Z | CVE-2021-43798 | Grafana Unauthorized arbitrary file reading vulnerability | https://github.com/jas502n/Grafana-CVE-2021-43798 | | 
 | 20211209T21:50:07Z | CVE-2021-44077 | Proof of Concept Exploit for ManageEngine ServiceDesk Plus CVE-2021-44077 | https://github.com/horizon3ai/CVE-2021-44077 | | 
 | 20211209T20:02:39Z | CVE-2021-21972 | CVE-2021-21972 Exploit | https://github.com/NS-Sp4ce/CVE-2021-21972 | | 
@@ -55,7 +56,6 @@
 | 20211209T12:57:58Z | CVE-2021-38759 | CVE-2021-38759 public Exploit | https://github.com/joanbono/CVE-2021-38759 | | 
 | 20211209T12:34:45Z | CVE-2021-43798 | Null | https://github.com/julesbozouklian/CVE-2021-43798 | | 
 | 20211209T12:05:45Z | CVE-2021-27928 | CVE-2021-27928-POC | https://github.com/shamo0/CVE-2021-27928-POC | | 
-| 20211209T11:43:13Z | CVE-2021-43798 | CVE-2021-43798Exp多线程批量验证脚本 | https://github.com/fanygit/Grafana-CVE-2021-43798Exp | | 
 
 
 # klee on Github 推荐
@@ -138,6 +138,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211210T01:54:56Z | fortnite fortnite | https://github.com/JosephJvB/fuzzy-fortnight2 | 0 | 0| 
+| 20211210T01:54:44Z | fortnight fortnight we like fortnight | https://github.com/JosephJvB/fuzzy-fortnight | 0 | 0| 
 | 20211210T01:41:49Z | Null | https://github.com/supiyatparnilem/fuzzy-spork | 0 | 0| 
 | 20211210T01:35:37Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211210T01:28:01Z | python scripts to run fuzzer. | https://github.com/firefoxxpyang/run_fuzzer_scripts | 0 | 0| 
@@ -146,8 +148,6 @@
 | 20211210T00:23:54Z | ☸A stateful GraphQL fuzzer (in development) | https://github.com/omar2535/GraphQLer | 8 | 2| 
 | 20211210T00:22:17Z | Null | https://github.com/nyx-fuzz/spec-fuzzer | 14 | 4| 
 | 20211210T00:20:53Z | Null | https://github.com/Ezequiel-Menneck/fuzzy-guacamole | 0 | 0| 
-| 20211210T00:13:19Z | Null | https://github.com/psyeatos/Fuzzy | 0 | 0| 
-| 20211210T00:10:51Z | Null | https://github.com/theripper93/fuzzy-foundry | 1 | 0| 
 
 
 

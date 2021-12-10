@@ -27,7 +27,7 @@
 | 20211209T12:34:45Z | CVE-2021-43798 | Null | https://github.com/julesbozouklian/CVE-2021-43798 | | 
 | 20211209T12:05:45Z | CVE-2021-27928 | CVE-2021-27928-POC | https://github.com/shamo0/CVE-2021-27928-POC | | 
 | 20211209T11:43:13Z | CVE-2021-43798 | CVE-2021-43798Exp多线程批量验证脚本 | https://github.com/fanygit/Grafana-CVE-2021-43798Exp | | 
-| 20211209T09:58:19Z | CVE-2021-43798 | Grafana-POC任意文件读取漏洞(CVE-2021-43798) | https://github.com/culprits/Grafana_POC-CVE-2021-43798 | | 
+| 20211209T02:55:43Z | CVE-2021-43798 | grafana CVE-2021-43798任意文件读取漏洞POC，采用多插件轮训检测的方法，允许指定单URL和从文件中读取URL | https://github.com/j-jasson/CVE-2021-43798-grafana_fileread | | 
 
 
 # klee on Github 推荐
@@ -48,7 +48,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20211209T23:32:13Z | Random Exploits | https://github.com/w4fz5uck5/3XPL01t5 | 25 | 15| 
-| 20211209T23:30:04Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 286 | 568| 
+| 20211209T23:30:04Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 286 | 569| 
 | 20211209T23:12:44Z | This repository showcases several use-cases of the Flashbots relayer service to avoid getting exploited by sniper bots on the Ethereum network. | https://github.com/schepal/flashbots_playground | 1 | 0| 
 | 20211209T23:03:50Z | Useful scripts to automate recon and exploitation | https://github.com/cyberpenguin1123/my_scripts | 0 | 0| 
 | 20211209T22:46:40Z | This repository contains a script that will search for exploits based on CVE codes extracted from automated scans (such as Nessus) | https://github.com/VictorDamasio/exploit-searcher | 0 | 0| 
@@ -100,10 +100,10 @@
 | 20211209T23:05:08Z | Null | https://github.com/ernisabita/fuzzy-octo-fiesta | 0 | 0| 
 | 20211209T22:39:00Z | open tool to benchmark fuzzers | https://github.com/Ananas-Saft/Pineapple-fuzzer-benchmarking-tool | 0 | 0| 
 | 20211209T22:28:08Z | JavaScript class for on-line approximate string matching (for use with auto-complete) | https://github.com/stollcri/fuzziac.js | 5 | 0| 
-| 20211209T22:22:58Z | fortnight fortnight we like fortnight | https://github.com/JosephJvB/fuzzy-fortnight | 0 | 0| 
 | 20211209T22:14:14Z | JQF + Zest: Coverage-guided semantic fuzzing for Java. | https://github.com/rohanpadhye/JQF | 419 | 66| 
 | 20211209T21:53:10Z | Attempts to find security vulnerabilities in NetHack via input Fuzzing | https://github.com/recursion-ninja/Superion-YAML | 1 | 3| 
 | 20211209T21:35:39Z | Null | https://github.com/akanksha-bansal/competency-fuzzy-logic | 0 | 0| 
+| 20211209T21:12:45Z | A lang-brainscore repository for initial dirty development; select code will be migrated to a lean and clean more permanent repo in the future  | https://github.com/language-brainscore/lang-brainscore-fuzzy-potato | 0 | 0| 
 
 
 
