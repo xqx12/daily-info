@@ -46,10 +46,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211210T02:09:56Z | CVE-2021-21972 | CVE-2021-21972 Exploit | https://github.com/NS-Sp4ce/CVE-2021-21972 | | 
 | 20211210T01:53:32Z | CVE-2021-43798 | Grafana-POC任意文件读取漏洞(CVE-2021-43798) | https://github.com/culprits/Grafana_POC-CVE-2021-43798 | | 
 | 20211210T01:20:20Z | CVE-2021-43798 | Grafana Unauthorized arbitrary file reading vulnerability | https://github.com/jas502n/Grafana-CVE-2021-43798 | | 
 | 20211209T21:50:07Z | CVE-2021-44077 | Proof of Concept Exploit for ManageEngine ServiceDesk Plus CVE-2021-44077 | https://github.com/horizon3ai/CVE-2021-44077 | | 
-| 20211209T20:02:39Z | CVE-2021-21972 | CVE-2021-21972 Exploit | https://github.com/NS-Sp4ce/CVE-2021-21972 | | 
 | 20211209T16:21:36Z | CVE-2021-43798 | Simple program for exploit grafana | https://github.com/z3n70/CVE-2021-43798 | | 
 | 20211209T14:16:44Z | CVE-2021-43798 | Null | https://github.com/s1gh/CVE-2021-43798 | | 
 | 20211209T12:59:21Z | CVE-2021-26102 | PoC of FortiWAN auth bypass (https://www.fortiguard.com/psirt/FG-IR-21-048) | https://github.com/SleepyCofe/CVE-2021-26102 | | 

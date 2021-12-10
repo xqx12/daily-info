@@ -19,7 +19,6 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20211209T21:50:07Z | CVE-2021-44077 | Proof of Concept Exploit for ManageEngine ServiceDesk Plus CVE-2021-44077 | https://github.com/horizon3ai/CVE-2021-44077 | | 
-| 20211209T20:02:39Z | CVE-2021-21972 | CVE-2021-21972 Exploit | https://github.com/NS-Sp4ce/CVE-2021-21972 | | 
 | 20211209T16:21:36Z | CVE-2021-43798 | Simple program for exploit grafana | https://github.com/z3n70/CVE-2021-43798 | | 
 | 20211209T14:16:44Z | CVE-2021-43798 | Null | https://github.com/s1gh/CVE-2021-43798 | | 
 | 20211209T12:59:21Z | CVE-2021-26102 | PoC of FortiWAN auth bypass (https://www.fortiguard.com/psirt/FG-IR-21-048) | https://github.com/SleepyCofe/CVE-2021-26102 | | 
@@ -28,6 +27,7 @@
 | 20211209T12:05:45Z | CVE-2021-27928 | CVE-2021-27928-POC | https://github.com/shamo0/CVE-2021-27928-POC | | 
 | 20211209T11:43:13Z | CVE-2021-43798 | CVE-2021-43798Exp多线程批量验证脚本 | https://github.com/fanygit/Grafana-CVE-2021-43798Exp | | 
 | 20211209T02:55:43Z | CVE-2021-43798 | grafana CVE-2021-43798任意文件读取漏洞POC，采用多插件轮训检测的方法，允许指定单URL和从文件中读取URL | https://github.com/j-jasson/CVE-2021-43798-grafana_fileread | | 
+| 20211209T02:41:30Z | CVE-2021-43798 | Null | https://github.com/tangxiaofeng7/CVE-2021-43798-Grafana-File-Read | | 
 
 
 # klee on Github 推荐
