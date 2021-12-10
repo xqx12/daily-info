@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211210T01:03:27Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 37 | 20| 
 | 20211210T01:00:54Z | Collection of Discord hacking tools/fun stuff/exploits that is completely made using NodeJS. | https://github.com/lhthanhdat/Discord | 0 | 0| 
 | 20211210T00:58:18Z | A simple plugin that prevents the Log4J exploit that allows for RCE, IP-Logging and server crashing | https://github.com/notrhys/Log-4J-Exploit-Fix | 2 | 1| 
 | 20211210T00:54:30Z | A spigot based plugin dedicated to fixing glitches and exploits that have made it into final Minecraft releases. | https://github.com/dniym/IllegalStack | 67 | 22| 
@@ -94,7 +95,6 @@
 | 20211210T00:22:43Z | Aplication for exploiting and preventing SQL injection attacks that access sensitive data | https://github.com/joseaugustoneto/vulnerabilitySamples | 0 | 0| 
 | 20211210T00:20:19Z | BEW2.3 Web Security | https://github.com/chrismlee26/Jinja2-ExploitMe | 0 | 0| 
 | 20211210T00:14:19Z | stuff | https://github.com/Havenviex/Exploiting-Shitz | 0 | 0| 
-| 20211210T00:04:13Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 37 | 20| 
 
 
 # backdoor on Github 推荐
