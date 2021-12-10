@@ -85,7 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211210T02:55:01Z | Minecraft exploit allowing remote code execution via Minecraft chat | https://github.com/Gopro336/PSA-MINERCRAFT-RCE-EXPLOIT | 2 | 0| 
+| 20211210T02:57:25Z | Minecraft exploit allowing remote code execution via Minecraft chat | https://github.com/Gopro336/PSA-MINERCRAFT-RCE-EXPLOIT | 4 | 0| 
 | 20211210T02:50:30Z | Fixes the log4j exploit from being sent to Minecraft clients. | https://github.com/FrankHeijden/Log4jFix | 2 | 2| 
 | 20211210T02:46:49Z | A simple plugin that prevents the Log4J exploit that allows for RCE, IP-Logging and server crashing | https://github.com/notrhys/Log-4J-Exploit-Fix | 10 | 8| 
 | 20211210T02:39:07Z | Misc scripts. | https://github.com/Aka-Andrew/Exploiting | 0 | 0| 
