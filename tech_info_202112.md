@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211210T02:39:07Z | Misc scripts. | https://github.com/Aka-Andrew/Exploiting | 0 | 0| 
 | 20211210T02:13:48Z | Random Exploits | https://github.com/w4fz5uck5/3XPL01t5 | 26 | 16| 
 | 20211210T02:13:06Z | A simple plugin that prevents the Log4J exploit that allows for RCE, IP-Logging and server crashing | https://github.com/notrhys/Log-4J-Exploit-Fix | 8 | 8| 
 | 20211210T02:09:29Z | Null | https://github.com/koharin/kernel_exploit | 0 | 0| 
@@ -94,7 +95,6 @@
 | 20211210T01:43:32Z | Exploit iDRAC 7 & 8 firmware  <  2.52.52.52 | https://github.com/mgargiullo/cve-2018-1207 | 0 | 0| 
 | 20211210T01:36:55Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 360 | 54| 
 | 20211210T01:07:23Z | Collection of Discord hacking tools/fun stuff/exploits that is completely made using NodeJS. | https://github.com/lhthanhdat/Discord | 0 | 0| 
-| 20211210T00:54:30Z | A spigot based plugin dedicated to fixing glitches and exploits that have made it into final Minecraft releases. | https://github.com/dniym/IllegalStack | 67 | 22| 
 
 
 # backdoor on Github 推荐
