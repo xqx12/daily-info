@@ -49,7 +49,7 @@
 | --- | --- | --- | --- | ---| 
 | 20211209T23:47:26Z | Exploit iDRAC 7 & 8 firmware  <  2.52.52.52 | https://github.com/mgargiullo/cve-2018-1207 | 0 | 0| 
 | 20211209T23:32:13Z | Random Exploits | https://github.com/w4fz5uck5/3XPL01t5 | 25 | 15| 
-| 20211209T23:30:04Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 286 | 567| 
+| 20211209T23:30:04Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 286 | 568| 
 | 20211209T23:12:44Z | This repository showcases several use-cases of the Flashbots relayer service to avoid getting exploited by sniper bots on the Ethereum network. | https://github.com/schepal/flashbots_playground | 1 | 0| 
 | 20211209T23:03:50Z | Useful scripts to automate recon and exploitation | https://github.com/cyberpenguin1123/my_scripts | 0 | 0| 
 | 20211209T22:46:40Z | This repository contains a script that will search for exploits based on CVE codes extracted from automated scans (such as Nessus) | https://github.com/VictorDamasio/exploit-searcher | 0 | 0| 
