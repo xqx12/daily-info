@@ -85,21 +85,22 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211210T02:13:48Z | Random Exploits | https://github.com/w4fz5uck5/3XPL01t5 | 26 | 16| 
+| 20211210T02:13:06Z | A simple plugin that prevents the Log4J exploit that allows for RCE, IP-Logging and server crashing | https://github.com/notrhys/Log-4J-Exploit-Fix | 8 | 7| 
 | 20211210T02:09:29Z | Null | https://github.com/koharin/kernel_exploit | 0 | 0| 
 | 20211210T02:04:05Z | A tool used to watch for exploits updating from the start of the application. Useful for people sitting around waiting for an exploit to update. | https://github.com/Babyhamsta/Exploit-Update-Watcher | 0 | 0| 
 | 20211210T02:03:05Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 37 | 20| 
-| 20211210T01:58:39Z | A simple plugin that prevents the Log4J exploit that allows for RCE, IP-Logging and server crashing | https://github.com/notrhys/Log-4J-Exploit-Fix | 7 | 7| 
 | 20211210T01:46:59Z | Fixes the log4j exploit from being sent to Minecraft clients. | https://github.com/FrankHeijden/Log4jFix | 1 | 2| 
 | 20211210T01:43:32Z | Exploit iDRAC 7 & 8 firmware  <  2.52.52.52 | https://github.com/mgargiullo/cve-2018-1207 | 0 | 0| 
 | 20211210T01:36:55Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 360 | 54| 
 | 20211210T01:07:23Z | Collection of Discord hacking tools/fun stuff/exploits that is completely made using NodeJS. | https://github.com/lhthanhdat/Discord | 0 | 0| 
 | 20211210T00:54:30Z | A spigot based plugin dedicated to fixing glitches and exploits that have made it into final Minecraft releases. | https://github.com/dniym/IllegalStack | 67 | 22| 
-| 20211210T00:45:49Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 16| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211210T02:13:18Z | The insane hackerman backdoor. | https://github.com/Bakdooro/Bakdooro | 10 | 2| 
 | 20211210T01:48:31Z | Checks Minecraft logs to see if the string jndi:ldap appears. | https://github.com/MyUsernamee/MinecraftBackdoorDetector | 0 | 1| 
 | 20211210T00:31:02Z | Null | https://github.com/samuelventura/nerves_backdoor | 0 | 0| 
 | 20211209T23:05:41Z | LD_PRELOAD rootkit | https://github.com/mav8557/Father | 47 | 8| 
@@ -109,7 +110,6 @@
 | 20211209T12:06:14Z | Code for the paper %Rethinking Stealthiness of Backdoor Attack against NLP Models% (ACL-IJCNLP 2021) | https://github.com/lancopku/SOS | 6 | 1| 
 | 20211209T11:32:02Z | The best Python Backdoor👌 | https://github.com/S12cybersecurity/Backdoor | 4 | 0| 
 | 20211209T11:11:57Z | An advanced 1.8.8 spigot backdoor. | https://github.com/IncognitoSquad/CelestialBackdoor | 2 | 0| 
-| 20211209T10:10:33Z | Null | https://github.com/rriiaad/Backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐

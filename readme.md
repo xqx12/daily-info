@@ -47,7 +47,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211209T23:32:13Z | Random Exploits | https://github.com/w4fz5uck5/3XPL01t5 | 25 | 15| 
 | 20211209T23:30:04Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 286 | 569| 
 | 20211209T23:12:44Z | This repository showcases several use-cases of the Flashbots relayer service to avoid getting exploited by sniper bots on the Ethereum network. | https://github.com/schepal/flashbots_playground | 1 | 0| 
 | 20211209T23:03:50Z | Useful scripts to automate recon and exploitation | https://github.com/cyberpenguin1123/my_scripts | 0 | 0| 
@@ -57,6 +56,7 @@
 | 20211209T21:47:00Z | A little tool to automate ip cam hacking with kcore exploit and variant  | https://github.com/nnieddu/cam_hack_script | 0 | 0| 
 | 20211209T21:05:41Z | Using curl to exploit CVE-2019-11447  | https://github.com/iainr/CuteNewsRCE | 0 | 0| 
 | 20211209T13:49:44Z | CVE-2021-21972 Exploit | https://github.com/NS-Sp4ce/CVE-2021-21972 | 322 | 123| 
+| 20211209T13:48:34Z | Null | https://github.com/g4b1t2/exploitdb_downloads_dorks | 0 | 0| 
 
 
 # backdoor on Github 推荐
