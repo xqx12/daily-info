@@ -85,13 +85,13 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211210T01:59:25Z | A tool used to watch for exploits updating from the start of the application. Useful for people sitting around waiting for an exploit to update. | https://github.com/Babyhamsta/Exploit-Update-Watcher | 0 | 0| 
+| 20211210T02:04:05Z | A tool used to watch for exploits updating from the start of the application. Useful for people sitting around waiting for an exploit to update. | https://github.com/Babyhamsta/Exploit-Update-Watcher | 0 | 0| 
+| 20211210T02:03:05Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 37 | 20| 
 | 20211210T01:58:39Z | A simple plugin that prevents the Log4J exploit that allows for RCE, IP-Logging and server crashing | https://github.com/notrhys/Log-4J-Exploit-Fix | 7 | 6| 
 | 20211210T01:46:59Z | Fixes the log4j exploit from being sent to Minecraft clients. | https://github.com/FrankHeijden/Log4jFix | 1 | 2| 
 | 20211210T01:43:32Z | Exploit iDRAC 7 & 8 firmware  <  2.52.52.52 | https://github.com/mgargiullo/cve-2018-1207 | 0 | 0| 
 | 20211210T01:36:55Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 360 | 54| 
 | 20211210T01:07:23Z | Collection of Discord hacking tools/fun stuff/exploits that is completely made using NodeJS. | https://github.com/lhthanhdat/Discord | 0 | 0| 
-| 20211210T01:03:27Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 37 | 20| 
 | 20211210T00:54:30Z | A spigot based plugin dedicated to fixing glitches and exploits that have made it into final Minecraft releases. | https://github.com/dniym/IllegalStack | 67 | 22| 
 | 20211210T00:45:49Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 16| 
 | 20211210T00:37:08Z | Patch for Waterfall to improve performance during attacks and fix memory issues. | https://github.com/2lstudios-mc/FlameCord | 89 | 46| 
@@ -138,6 +138,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211210T02:04:01Z | Advent of code 2021 | https://github.com/bAngerman/fuzzy-octo-lamp | 0 | 0| 
 | 20211210T01:56:45Z | Null | https://github.com/cahyowendarto/fuzzy-octo-robot | 0 | 0| 
 | 20211210T01:54:56Z | fortnite fortnite | https://github.com/JosephJvB/fuzzy-fortnight2 | 0 | 0| 
 | 20211210T01:54:44Z | fortnight fortnight we like fortnight | https://github.com/JosephJvB/fuzzy-fortnight | 0 | 0| 
@@ -147,7 +148,6 @@
 | 20211210T01:25:21Z | On my fuzzy way: My CVEs, fuzzers, bugs and documentations... etc.   1 Fuzzy Way, 0x50 0x4B. | https://github.com/cemonatk/onefuzzyway | 1 | 0| 
 | 20211210T00:49:04Z | Null | https://github.com/mickeymars17/fuzzy-chainsaw | 0 | 0| 
 | 20211210T00:23:54Z | ☸A stateful GraphQL fuzzer (in development) | https://github.com/omar2535/GraphQLer | 8 | 2| 
-| 20211210T00:22:17Z | Null | https://github.com/nyx-fuzz/spec-fuzzer | 14 | 4| 
 
 
 
