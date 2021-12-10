@@ -100,7 +100,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211210T01:38:12Z | Checks Minecraft logs to see if the jndi:ldap appears. | https://github.com/MyUsernamee/MinecraftBackdoorDetector | 0 | 0| 
+| 20211210T01:39:13Z | Checks Minecraft logs to see if the jndi:ldap appears. | https://github.com/MyUsernamee/MinecraftBackdoorDetector | 0 | 0| 
 | 20211210T00:31:02Z | Null | https://github.com/samuelventura/nerves_backdoor | 0 | 0| 
 | 20211209T23:05:41Z | LD_PRELOAD rootkit | https://github.com/mav8557/Father | 47 | 8| 
 | 20211209T21:36:35Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 116 | 28| 
@@ -138,6 +138,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211210T01:35:37Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211210T01:28:01Z | python scripts to run fuzzer. | https://github.com/firefoxxpyang/run_fuzzer_scripts | 0 | 0| 
 | 20211210T01:25:21Z | On my fuzzy way: My CVEs, fuzzers, bugs and documentations... etc.   1 Fuzzy Way, 0x50 0x4B. | https://github.com/cemonatk/onefuzzyway | 1 | 0| 
 | 20211210T00:49:04Z | Null | https://github.com/mickeymars17/fuzzy-chainsaw | 0 | 0| 
@@ -147,7 +148,6 @@
 | 20211210T00:13:19Z | Null | https://github.com/psyeatos/Fuzzy | 0 | 0| 
 | 20211210T00:10:51Z | Null | https://github.com/theripper93/fuzzy-foundry | 1 | 0| 
 | 20211210T00:08:39Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 36 | 12| 
-| 20211210T00:03:32Z | A fork and successor of the Sulley Fuzzing Framework | https://github.com/jtpereyda/boofuzz | 1407 | 273| 
 
 
 
