@@ -52,8 +52,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211210T13:17:03Z | A simple plugin that prevents the Log4J exploit that allows for RCE, IP-Logging and server crashing | https://github.com/notrhys/Log-4J-Exploit-Fix | 27 | 19| 
 | 20211210T13:03:02Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 37 | 20| 
-| 20211210T12:59:48Z | A simple plugin that prevents the Log4J exploit that allows for RCE, IP-Logging and server crashing | https://github.com/notrhys/Log-4J-Exploit-Fix | 26 | 19| 
 | 20211210T12:56:47Z | Null | https://github.com/darkspand/Log4j-Exploit-Fix | 0 | 0| 
 | 20211210T12:50:30Z | Final year Collage project %Hyperledger Fabric  Based Exploit Secure E-Voting System%. For collage or other organizational level Elections Management. | https://github.com/faiyazkhan024/hlf-ses | 0 | 0| 
 | 20211210T12:45:48Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 16| 
