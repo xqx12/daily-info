@@ -86,7 +86,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20211210T02:13:48Z | Random Exploits | https://github.com/w4fz5uck5/3XPL01t5 | 26 | 16| 
-| 20211210T02:13:06Z | A simple plugin that prevents the Log4J exploit that allows for RCE, IP-Logging and server crashing | https://github.com/notrhys/Log-4J-Exploit-Fix | 8 | 7| 
+| 20211210T02:13:06Z | A simple plugin that prevents the Log4J exploit that allows for RCE, IP-Logging and server crashing | https://github.com/notrhys/Log-4J-Exploit-Fix | 8 | 8| 
 | 20211210T02:09:29Z | Null | https://github.com/koharin/kernel_exploit | 0 | 0| 
 | 20211210T02:04:05Z | A tool used to watch for exploits updating from the start of the application. Useful for people sitting around waiting for an exploit to update. | https://github.com/Babyhamsta/Exploit-Update-Watcher | 0 | 0| 
 | 20211210T02:03:05Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 37 | 20| 
@@ -138,6 +138,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211210T02:20:44Z | fuzzer | https://github.com/reusee/fz | 1 | 1| 
 | 20211210T02:04:01Z | Advent of code 2021 | https://github.com/bAngerman/fuzzy-octo-lamp | 0 | 0| 
 | 20211210T01:56:45Z | Null | https://github.com/cahyowendarto/fuzzy-octo-robot | 0 | 0| 
 | 20211210T01:54:56Z | fortnite fortnite | https://github.com/JosephJvB/fuzzy-fortnight2 | 0 | 0| 
@@ -147,7 +148,6 @@
 | 20211210T01:28:01Z | python scripts to run fuzzer. | https://github.com/firefoxxpyang/run_fuzzer_scripts | 0 | 0| 
 | 20211210T01:25:21Z | On my fuzzy way: My CVEs, fuzzers, bugs and documentations... etc.   1 Fuzzy Way, 0x50 0x4B. | https://github.com/cemonatk/onefuzzyway | 1 | 0| 
 | 20211210T00:49:04Z | Null | https://github.com/mickeymars17/fuzzy-chainsaw | 0 | 0| 
-| 20211210T00:23:54Z | ☸A stateful GraphQL fuzzer (in development) | https://github.com/omar2535/GraphQLer | 8 | 2| 
 
 
 
