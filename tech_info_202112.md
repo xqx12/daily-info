@@ -85,8 +85,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211210T01:41:48Z | A simple plugin that prevents the Log4J exploit that allows for RCE, IP-Logging and server crashing | https://github.com/notrhys/Log-4J-Exploit-Fix | 4 | 2| 
+| 20211210T01:38:31Z | Exploit iDRAC 7 & 8 firmware  <  2.52.52.52 | https://github.com/mgargiullo/cve-2018-1207 | 0 | 0| 
 | 20211210T01:36:55Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 360 | 54| 
-| 20211210T01:31:35Z | A simple plugin that prevents the Log4J exploit that allows for RCE, IP-Logging and server crashing | https://github.com/notrhys/Log-4J-Exploit-Fix | 4 | 2| 
 | 20211210T01:30:24Z | Fixes the log4j exploit from being sent to Minecraft clients. | https://github.com/FrankHeijden/Log4jFix | 0 | 1| 
 | 20211210T01:07:23Z | Collection of Discord hacking tools/fun stuff/exploits that is completely made using NodeJS. | https://github.com/lhthanhdat/Discord | 0 | 0| 
 | 20211210T01:03:27Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 37 | 20| 
@@ -94,13 +95,12 @@
 | 20211210T00:45:49Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 16| 
 | 20211210T00:37:08Z | Patch for Waterfall to improve performance during attacks and fix memory issues. | https://github.com/2lstudios-mc/FlameCord | 89 | 46| 
 | 20211210T00:35:27Z | Roblox exploits list with safe percentage & more information about them. | https://github.com/I2rys/REL | 2 | 0| 
-| 20211210T00:22:43Z | Aplication for exploiting and preventing SQL injection attacks that access sensitive data | https://github.com/joseaugustoneto/vulnerabilitySamples | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211210T01:39:13Z | Checks Minecraft logs to see if the jndi:ldap appears. | https://github.com/MyUsernamee/MinecraftBackdoorDetector | 0 | 0| 
+| 20211210T01:41:22Z | Checks Minecraft logs to see if the jndi:ldap appears. | https://github.com/MyUsernamee/MinecraftBackdoorDetector | 0 | 0| 
 | 20211210T00:31:02Z | Null | https://github.com/samuelventura/nerves_backdoor | 0 | 0| 
 | 20211209T23:05:41Z | LD_PRELOAD rootkit | https://github.com/mav8557/Father | 47 | 8| 
 | 20211209T21:36:35Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 116 | 28| 
@@ -138,6 +138,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211210T01:41:49Z | Null | https://github.com/supiyatparnilem/fuzzy-spork | 0 | 0| 
 | 20211210T01:35:37Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211210T01:28:01Z | python scripts to run fuzzer. | https://github.com/firefoxxpyang/run_fuzzer_scripts | 0 | 0| 
 | 20211210T01:25:21Z | On my fuzzy way: My CVEs, fuzzers, bugs and documentations... etc.   1 Fuzzy Way, 0x50 0x4B. | https://github.com/cemonatk/onefuzzyway | 1 | 0| 
@@ -147,7 +148,6 @@
 | 20211210T00:20:53Z | Null | https://github.com/Ezequiel-Menneck/fuzzy-guacamole | 0 | 0| 
 | 20211210T00:13:19Z | Null | https://github.com/psyeatos/Fuzzy | 0 | 0| 
 | 20211210T00:10:51Z | Null | https://github.com/theripper93/fuzzy-foundry | 1 | 0| 
-| 20211210T00:08:39Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 36 | 12| 
 
 
 

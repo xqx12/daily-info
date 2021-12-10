@@ -47,7 +47,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211209T23:47:26Z | Exploit iDRAC 7 & 8 firmware  <  2.52.52.52 | https://github.com/mgargiullo/cve-2018-1207 | 0 | 0| 
 | 20211209T23:32:13Z | Random Exploits | https://github.com/w4fz5uck5/3XPL01t5 | 25 | 15| 
 | 20211209T23:30:04Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 286 | 568| 
 | 20211209T23:12:44Z | This repository showcases several use-cases of the Flashbots relayer service to avoid getting exploited by sniper bots on the Ethereum network. | https://github.com/schepal/flashbots_playground | 1 | 0| 
@@ -57,6 +56,7 @@
 | 20211209T21:59:56Z | AD Enum is a pentesting tool that allows to find misconfiguration through the the protocol LDAP and exploit some of those weaknesses with kerberos. | https://github.com/SecuProject/ADenum | 59 | 18| 
 | 20211209T21:47:00Z | A little tool to automate ip cam hacking with kcore exploit and variant  | https://github.com/nnieddu/cam_hack_script | 0 | 0| 
 | 20211209T21:05:41Z | Using curl to exploit CVE-2019-11447  | https://github.com/iainr/CuteNewsRCE | 0 | 0| 
+| 20211209T13:49:44Z | CVE-2021-21972 Exploit | https://github.com/NS-Sp4ce/CVE-2021-21972 | 322 | 123| 
 
 
 # backdoor on Github 推荐
@@ -96,7 +96,6 @@
 | --- | --- | --- | --- | ---| 
 | 20211209T23:52:34Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 12 | 1| 
 | 20211209T23:52:14Z | Fuzz testing harness for Geometrize, a library for geometrizing images into geometric primitives | https://github.com/Tw1ddle/geometrize-lib-fuzzing | 1 | 1| 
-| 20211209T23:43:06Z | Null | https://github.com/supiyatparnilem/fuzzy-spork | 0 | 0| 
 | 20211209T23:27:20Z | this is my website | https://github.com/attilavajdaxyz/fuzzy-octo-spoon | 0 | 0| 
 | 20211209T23:05:08Z | Null | https://github.com/ernisabita/fuzzy-octo-fiesta | 0 | 0| 
 | 20211209T22:39:00Z | open tool to benchmark fuzzers | https://github.com/Ananas-Saft/Pineapple-fuzzer-benchmarking-tool | 0 | 0| 
@@ -104,6 +103,7 @@
 | 20211209T22:22:58Z | fortnight fortnight we like fortnight | https://github.com/JosephJvB/fuzzy-fortnight | 0 | 0| 
 | 20211209T22:14:14Z | JQF + Zest: Coverage-guided semantic fuzzing for Java. | https://github.com/rohanpadhye/JQF | 419 | 66| 
 | 20211209T21:53:10Z | Attempts to find security vulnerabilities in NetHack via input Fuzzing | https://github.com/recursion-ninja/Superion-YAML | 1 | 3| 
+| 20211209T21:35:39Z | Null | https://github.com/akanksha-bansal/competency-fuzzy-logic | 0 | 0| 
 
 
 
