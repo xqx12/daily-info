@@ -49,7 +49,7 @@
 | --- | --- | --- | --- | ---| 
 | 20211209T23:47:26Z | Exploit iDRAC 7 & 8 firmware  <  2.52.52.52 | https://github.com/mgargiullo/cve-2018-1207 | 0 | 0| 
 | 20211209T23:32:13Z | Random Exploits | https://github.com/w4fz5uck5/3XPL01t5 | 25 | 15| 
-| 20211209T23:30:04Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 286 | 566| 
+| 20211209T23:30:04Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 286 | 567| 
 | 20211209T23:12:44Z | This repository showcases several use-cases of the Flashbots relayer service to avoid getting exploited by sniper bots on the Ethereum network. | https://github.com/schepal/flashbots_playground | 1 | 0| 
 | 20211209T23:03:50Z | Useful scripts to automate recon and exploitation | https://github.com/cyberpenguin1123/my_scripts | 0 | 0| 
 | 20211209T22:46:40Z | This repository contains a script that will search for exploits based on CVE codes extracted from automated scans (such as Nessus) | https://github.com/VictorDamasio/exploit-searcher | 0 | 0| 
@@ -77,11 +77,13 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211209T13:54:00Z | Binsec/Rel is an extension of Binsec that implements relational symbolic execution for constant-time verification and secret-erasure at binary-level. | https://github.com/binsec/Rel | 24 | 1| 
+| 20211209T23:56:06Z | Symbolica%s open-source symbolic execution engine. | https://github.com/Symbolica/Symbolica | 45 | 3| 
+| 20211209T20:44:12Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 184 | 10| 
+| 20211209T18:07:55Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2589 | 381| 
+| 20211209T18:00:47Z | Binsec/Rel is an extension of Binsec that implements relational symbolic execution for constant-time verification and secret-erasure at binary-level. | https://github.com/binsec/Rel | 24 | 1| 
+| 20211209T14:58:29Z | Monster is a symbolic execution engine for 64-bit RISC-U code | https://github.com/cksystemsgroup/monster | 6 | 3| 
 | 20211209T10:07:39Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 18 | 12| 
-| 20211209T08:08:24Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2585 | 381| 
 | 20211209T02:46:27Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 190 | 39| 
-| 20211209T01:45:11Z | Monster is a symbolic execution engine for 64-bit RISC-U code | https://github.com/cksystemsgroup/monster | 6 | 3| 
 
 
 # big4 on Github 推荐
