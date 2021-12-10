@@ -85,8 +85,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211210T01:51:05Z | A tool that uses exploit%s APIs to watch and see if they update while the application is open. Fully open sourced coded in .NET Core 3.1 (C#) | https://github.com/Babyhamsta/Exploit-Update-Watcher | 0 | 0| 
 | 20211210T01:48:59Z | A simple plugin that prevents the Log4J exploit that allows for RCE, IP-Logging and server crashing | https://github.com/notrhys/Log-4J-Exploit-Fix | 6 | 3| 
-| 20211210T01:48:44Z | A tool that uses exploit%s APIs to watch and see if they update while the application is open. Fully open sourced coded in .NET Core 3.1 (C#) | https://github.com/Babyhamsta/Exploit-Update-Watcher | 0 | 0| 
 | 20211210T01:46:59Z | Fixes the log4j exploit from being sent to Minecraft clients. | https://github.com/FrankHeijden/Log4jFix | 1 | 2| 
 | 20211210T01:43:32Z | Exploit iDRAC 7 & 8 firmware  <  2.52.52.52 | https://github.com/mgargiullo/cve-2018-1207 | 0 | 0| 
 | 20211210T01:36:55Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 360 | 54| 
@@ -100,7 +100,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211210T01:41:22Z | Checks Minecraft logs to see if the jndi:ldap appears. | https://github.com/MyUsernamee/MinecraftBackdoorDetector | 0 | 0| 
+| 20211210T01:48:31Z | Checks Minecraft logs to see if the string jndi:ldap appears. | https://github.com/MyUsernamee/MinecraftBackdoorDetector | 0 | 1| 
 | 20211210T00:31:02Z | Null | https://github.com/samuelventura/nerves_backdoor | 0 | 0| 
 | 20211209T23:05:41Z | LD_PRELOAD rootkit | https://github.com/mav8557/Father | 47 | 8| 
 | 20211209T21:36:35Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 116 | 28| 
