@@ -52,16 +52,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211210T13:24:47Z | Exploit to dump ipmi hashes | https://github.com/c0rnf13ld/ipmiPwner | 0 | 0| 
-| 20211210T13:23:25Z | Checks your Minecraft logs folder to see if you%ve been infected by the exploit! | https://github.com/Koupah/MC-Log4J-Exploit-Checker | 0 | 0| 
+| 20211210T13:39:05Z | Exploit to dump ipmi hashes | https://github.com/c0rnf13ld/ipmiPwner | 0 | 0| 
+| 20211210T13:37:58Z | A little Python-Code that erans money for ya | https://github.com/FuckingToasters/MoneyMakingExploit | 1 | 1| 
+| 20211210T13:37:52Z | Null | https://github.com/BenPali/Offensive-Security-and-Exploitation | 0 | 0| 
+| 20211210T13:35:36Z | Fixes the log4j exploit from being sent to Minecraft clients. | https://github.com/FrankHeijden/Log4jFix | 23 | 5| 
+| 20211210T13:33:51Z | Checks your Minecraft logs folder to see if you%ve been infected by the exploit! | https://github.com/Koupah/MC-Log4J-Exploit-Checker | 0 | 0| 
+| 20211210T13:32:51Z | Log4j-RCE (CVE-2021-44228) | https://github.com/HyCraftHD/Log4J-RCE-Proof-Of-Concept | 5 | 2| 
+| 20211210T13:29:12Z | A simple plugin that prevents the Log4J exploit that allows for RCE, IP-Logging and server crashing | https://github.com/notrhys/Log-4J-Exploit-Fix | 28 | 20| 
 | 20211210T13:19:33Z | Null | https://github.com/fabiodimauro/exploit | 0 | 0| 
-| 20211210T13:17:03Z | A simple plugin that prevents the Log4J exploit that allows for RCE, IP-Logging and server crashing | https://github.com/notrhys/Log-4J-Exploit-Fix | 27 | 19| 
 | 20211210T13:03:02Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 37 | 20| 
 | 20211210T12:56:47Z | Null | https://github.com/darkspand/Log4j-Exploit-Fix | 0 | 0| 
-| 20211210T12:50:30Z | Final year Collage project %Hyperledger Fabric  Based Exploit Secure E-Voting System%. For collage or other organizational level Elections Management. | https://github.com/faiyazkhan024/hlf-ses | 0 | 0| 
-| 20211210T12:45:48Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 16| 
-| 20211210T12:44:34Z | Standalone Minecraft 1.8.9 Mod for fix Log4J RCE. | https://github.com/UnlegitMC/ExploitFix | 1 | 0| 
-| 20211210T12:42:53Z | Don%t use this maliciously, this is for testing | https://github.com/fizztune/log4j-exploit-example | 0 | 0| 
 
 
 # backdoor on Github 推荐
