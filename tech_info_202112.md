@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211211T13:05:11Z | Exploiting the Log4Shell exploit in java | https://github.com/Oskar2601/Log4Shell-Exploiting-Minecraft | 0 | 0| 
 | 20211211T13:03:05Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 37 | 20| 
 | 20211211T12:55:40Z | Log4Shell Zero-Day Exploit Proof of Concept | https://github.com/o7-Fire/Log4Shell | 0 | 0| 
 | 20211211T12:55:18Z | Discord bot based ROBLOX exploit. | https://github.com/Shade-Productions/RoCord | 0 | 0| 
@@ -94,7 +95,6 @@
 | 20211211T12:34:46Z | Our VMAgent is a platform for exploiting Reinforcement Learning (RL) on Virtual Machine (VM) scheduling tasks. | https://github.com/mail-ecnu/VMAgent | 0 | 0| 
 | 20211211T12:27:43Z | FADEE: Faster Adaptation for Decoupled Exploration and Exploitation | https://github.com/sergiogcharles/fadee | 0 | 0| 
 | 20211211T12:22:57Z | Codes from Hacking: The Art of Exploitation book. By Jon Erickson. | https://github.com/edupazzz/Hacking-The-Art-of-Exploitation-Book | 0 | 0| 
-| 20211211T12:21:31Z | LFI Scanner + Exploiter | https://github.com/s120000/lfi.paradise | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -130,7 +130,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211210T07:04:02Z | A penetration testing tool for finding file upload bugs (NDSS 2020) | https://github.com/WSP-LAB/FUSE | 202 | 45| 
+| 20211211T06:37:35Z | A penetration testing tool for finding file upload bugs (NDSS 2020) | https://github.com/WSP-LAB/FUSE | 203 | 45| 
 | 20211203T05:22:50Z | Paper Downloader for NDSS Symposium 2021. | https://github.com/qianfei11/Paper_Downloader_for_NDSS_Symposium_2021 | 0 | 0| 
 | 20211202T07:57:27Z | Downloader for NDSS Symposium 2021 | https://github.com/qianfei11/Downloader_for_NDSS_Symposium_2021 | 0 | 0| 
 
