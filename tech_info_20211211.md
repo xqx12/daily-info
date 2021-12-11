@@ -45,7 +45,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211211T13:30:27Z | Null | https://github.com/joeengo/exploit-update-checker-py | 0 | 0| 
+| 20211211T13:31:05Z | Null | https://github.com/joeengo/exploit-update-checker-py | 0 | 0| 
 | 20211211T13:24:08Z | Discord bot based ROBLOX exploit. | https://github.com/Shade-Productions/RoCord | 0 | 0| 
 | 20211211T13:15:54Z | Exploiting the Log4Shell exploit in java | https://github.com/Oskar2601/Log4Shell-Exploiting-Minecraft | 0 | 0| 
 | 20211211T13:13:25Z | Miss the Target: an exploit & ctf platform or something idk | https://github.com/chengongpp/mtt | 0 | 0| 
