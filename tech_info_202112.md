@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211211T01:27:27Z | Roblox Exploit and Cheats here!  | https://github.com/FoRuxGaming/RobloxCheats | 0 | 1| 
 | 20211211T01:03:38Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 37 | 20| 
 | 20211211T01:02:37Z | Minecraft Honeypot for Log4j exploit. CVE-2021-44228 Log4Shell LogJam | https://github.com/Adikso/minecraft-log4j-honeypot | 2 | 0| 
 | 20211211T00:58:30Z | 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - A trick to bypass words blocking patches | https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words | 2 | 0| 
@@ -94,7 +95,6 @@
 | 20211211T00:45:05Z | Fixes the log4j exploit from being sent to Minecraft clients. | https://github.com/FrankHeijden/Log4jFix | 29 | 7| 
 | 20211211T00:38:44Z | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | 39 | 7| 
 | 20211211T00:26:33Z | Checks Minecraft, MultiMC, Lunar and Badlion logs folder to see if you%ve been affected by the exploit! | https://github.com/Koupah/MC-Log4J-Exploit-Checker | 1 | 0| 
-| 20211211T00:17:15Z | Log4Shell RCE exploit using a gadget class. Not dependent on an old JDK version to work. | https://github.com/drahosj/log4shell_poc | 0 | 0| 
 
 
 # backdoor on Github 推荐
