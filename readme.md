@@ -16,8 +16,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211211T13:02:13Z | CVE-2021-44228 | Apache Log4j 远程代码执行 | https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce | | 
 | 20211211T12:58:19Z | CVE-2021-44228 | List of company advisories log4j | https://github.com/leetxyz/CVE-2021-44228-Advisories | | 
-| 20211211T12:58:05Z | CVE-2021-44228 | Apache Log4j 远程代码执行 | https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce | | 
 | 20211211T12:57:31Z | CVE-2021-44228 | Null | https://github.com/greymd/CVE-2021-44228 | | 
 | 20211211T12:56:34Z | CVE-2021-44228 | Vulnerability scanner for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211211T12:47:52Z | CVE-2021-44228 | 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - A trick to bypass words blocking patches | https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words | | 
@@ -68,6 +68,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211211T12:46:41Z | Monster is a symbolic execution engine for 64-bit RISC-U code | https://github.com/cksystemsgroup/monster | 7 | 3| 
+| 20211211T08:16:41Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2588 | 381| 
+| 20211211T07:27:56Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 19 | 12| 
 | 20211211T02:52:33Z | A tool for incremental symbolic execution | https://github.com/FenseTool/fense | 0 | 0| 
 
 
