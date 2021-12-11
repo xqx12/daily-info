@@ -138,6 +138,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211211T13:48:35Z | Null | https://github.com/araafario/Fuzzy_Conveyor_MegaWifi | 0 | 0| 
 | 20211211T13:13:35Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 4 | 2| 
 | 20211211T13:11:12Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211211T12:36:10Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
@@ -147,7 +148,6 @@
 | 20211211T12:01:01Z | Fuzzy Approach to LDA topic modeling | https://github.com/VahidHeidari/TopicModelingFuzzy | 0 | 0| 
 | 20211211T11:57:24Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6896 | 1444| 
 | 20211211T10:54:46Z | Null | https://github.com/ArtieFuzzz/ArtieFuzzz | 0 | 1| 
-| 20211211T10:42:03Z | The solar-powered smart-flowerpot project with the ESP32 micro-controller unit. (Temperature, Humidity, Illuminance (Lux), Soil Moisture, Soil Salinity, Battery Voltage) | https://github.com/happybono/FuzzyPotato | 1 | 0| 
 
 
 
