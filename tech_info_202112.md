@@ -61,6 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211211T01:37:04Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
 | 20211211T00:01:12Z | modern regular expression syntax everywhere with a painless upgrade path | https://github.com/SonOfLilit/kleenexp | 30 | 3| 
 | 20211210T21:11:02Z | Null | https://github.com/dlapierre/kleewhoorksnantes | 0 | 0| 
 | 20211210T18:19:42Z | Null | https://github.com/xinrachel30/AL_KLEEMEX | 0 | 0| 
@@ -70,7 +71,6 @@
 | 20211208T02:59:01Z | Spring 2021 Geography 817 work folder  | https://github.com/klee12/klee12.github.io | 0 | 0| 
 | 20211207T17:25:10Z | 程序员哥哥，你是来找可莉玩的吗？可莉语音包，适用于 vscode-rainbow-fart 拓展。 | https://github.com/Ran-ying/Klee-rainbow-fart | 12 | 1| 
 | 20211207T16:22:10Z | Witch-KLEE - A KLEE-based error witness checker | https://github.com/ayazip/witch-klee | 0 | 0| 
-| 20211207T16:19:31Z | Null | https://github.com/coffee100percnt/KleeDiscordBomber | 5 | 0| 
 
 
 # s2e on Github 推荐
@@ -85,6 +85,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211211T01:36:55Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 360 | 54| 
+| 20211211T01:36:12Z | JNDI Exploit docker-based server for exploiting #log4shell | https://github.com/naryal2580/jandis | 0 | 0| 
 | 20211211T01:35:50Z | Herramienta para usar The Browser Exploitation Framework fuera de LAN, con diferentes opciones para hacking | https://github.com/tony23x/beef-for-cerberus | 3 | 1| 
 | 20211211T01:35:12Z | Checks Minecraft, MultiMC, Lunar and Badlion logs folder to see if you%ve been affected by the exploit! | https://github.com/Koupah/MC-Log4J-Exploit-Checker | 1 | 0| 
 | 20211211T01:27:27Z | Roblox Exploit and Cheats here!  | https://github.com/FoRuxGaming/RobloxCheats | 0 | 1| 
@@ -93,8 +95,6 @@
 | 20211211T00:58:30Z | 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - A trick to bypass words blocking patches | https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words | 2 | 0| 
 | 20211211T00:56:26Z | Minecraft exploit allowing remote code execution via Minecraft chat | https://github.com/Gopro336/PSA-MINERCRAFT-RCE-EXPLOIT | 20 | 7| 
 | 20211211T00:47:43Z | Log4j-RCE (CVE-2021-44228) Proof of Concept with additional information | https://github.com/HyCraftHD/Log4J-RCE-Proof-Of-Concept | 20 | 3| 
-| 20211211T00:45:50Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 16| 
-| 20211211T00:45:05Z | Fixes the log4j exploit from being sent to Minecraft clients. | https://github.com/FrankHeijden/Log4jFix | 29 | 7| 
 
 
 # backdoor on Github 推荐
