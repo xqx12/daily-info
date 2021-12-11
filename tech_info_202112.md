@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211211T01:11:19Z | CVE-2021-44228 | Null | https://github.com/racoon-rac/CVE-2021-44228 | | 
 | 20211211T01:05:01Z | CVE-2021-44228 | Null | https://github.com/greymd/CVE-2021-44228 | | 
 | 20211211T00:58:30Z | CVE-2021-44228 | 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - A trick to bypass words blocking patches | https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words | | 
 | 20211211T00:55:25Z | CVE-2021-44228 | Hashes for vulnerable LOG4J versions | https://github.com/mubix/CVE-2021-44228-Log4Shell-Hashes | | 
@@ -55,7 +56,6 @@
 | 20211210T22:35:56Z | CVE-2021-44228 | RCE POC | https://github.com/KosmX/CVE-2021-44228-example | | 
 | 20211210T22:33:45Z | CVE-2021-44228 | list of ips pulled from greynoise for this | https://github.com/seamus-dev/CVE-2021-44228 | | 
 | 20211210T21:26:03Z | CVE-2021-44228 | Remote Code Injection In Log4j | https://github.com/jas502n/Log4j2-CVE-2021-44228 | | 
-| 20211210T19:55:16Z | CVE-2021-44228 | Null | https://github.com/wheez-y/CVE-2021-44228-kusto | | 
 
 
 # klee on Github 推荐
