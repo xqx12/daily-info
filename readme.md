@@ -25,21 +25,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211210T23:47:17Z | cve-2021-44228 | Buildpack providing a workaround for CVE-2021-44228 (Log4j RCE exploit) | https://github.com/alexandreroman/cve-2021-44228-workaround-buildpack | | 
+| 20211210T23:30:35Z | CVE-2021-44228 | CVE-2021-44228 DFIR Notes | https://github.com/Azeemering/CVE-2021-44228-DFIR-Notes | | 
+| 20211210T22:35:56Z | CVE-2021-44228 | RCE POC | https://github.com/KosmX/CVE-2021-44228-example | | 
+| 20211210T22:33:45Z | CVE-2021-44228 | list of ips pulled from greynoise for this | https://github.com/seamus-dev/CVE-2021-44228 | | 
+| 20211210T21:26:03Z | CVE-2021-44228 | Remote Code Injection In Log4j | https://github.com/jas502n/Log4j2-CVE-2021-44228 | | 
+| 20211210T19:55:16Z | CVE-2021-44228 | Null | https://github.com/wheez-y/CVE-2021-44228-kusto | | 
+| 20211210T19:43:39Z | CVE-2021-44228 | wasihaker | https://github.com/racisz/CVE-2021-44228-test | | 
+| 20211210T18:30:07Z | CVE-2021-44228 | Null | https://github.com/sohtsuka/CVE-2021-44228-PoC | | 
+| 20211210T16:25:20Z | CVE-2021-44228 | Patch Pulsar Docker images with Log4J 2.15.0 update to mitigate CVE-2021-44228 | https://github.com/lhotari/pulsar-docker-images-patch-CVE-2021-44228 | | 
 | 20211210T13:48:40Z | CVE-2021-43798 | Grafana Unauthorized arbitrary file reading vulnerability | https://github.com/jas502n/Grafana-CVE-2021-43798 | | 
-| 20211210T13:19:15Z | CVE-2021-44228 | Remote Code Injection In Log4j | https://github.com/jas502n/Log4j2-CVE-2021-44228 | | 
-| 20211210T13:06:16Z | CVE-2021-44077 | Proof of Concept Exploit for ManageEngine ServiceDesk Plus CVE-2021-44077 | https://github.com/horizon3ai/CVE-2021-44077 | | 
-| 20211210T12:39:27Z | CVE-2021-44228 | A small server for verifing if a given java program is succeptibel to CVE-2021-44228 | https://github.com/zlepper/CVE-2021-44228-Test-Server | | 
-| 20211210T07:55:00Z | CVE-2021-22205 | CVE-2021-22205 on Docker | https://github.com/ahmad4fifz/CVE-2021-22205 | | 
-| 20211210T07:54:04Z | CVE-2021-44228 | Remote Code Injection In Log4j | https://github.com/y35uishere/Log4j2-CVE-2021-44228 | | 
-| 20211210T07:18:17Z | CVE-2021-21972 | CVE-2021-21972 Exploit | https://github.com/NS-Sp4ce/CVE-2021-21972 | | 
-| 20211210T07:07:27Z | CVE-2021-44228 | Apache Log4j 2   a remote code execution vulnerability via the ldap JNDI parser. | https://github.com/dbgee/CVE-2021-44228 | | 
-| 20211210T04:54:18Z | CVE-2021-43798 | CVE-2021-43798Exp多线程批量验证脚本 | https://github.com/fanygit/Grafana-CVE-2021-43798Exp | | 
-| 20211210T02:51:45Z | CVE-2021-43798 | Grafana-POC任意文件读取漏洞(CVE-2021-43798) | https://github.com/culprits/Grafana_POC-CVE-2021-43798 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211210T21:11:02Z | Null | https://github.com/dlapierre/kleewhoorksnantes | 0 | 0| 
+| 20211210T18:19:42Z | Null | https://github.com/xinrachel30/AL_KLEEMEX | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -52,22 +54,26 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211210T23:47:17Z | Buildpack providing a workaround for CVE-2021-44228 (Log4j RCE exploit) | https://github.com/alexandreroman/cve-2021-44228-workaround-buildpack | 0 | 0| 
+| 20211210T23:46:32Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 114 | 24| 
+| 20211210T23:29:29Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 256 | 78| 
+| 20211210T23:28:35Z | Fixes the Log4J RCE | https://github.com/notrhys/Log4J-Exploit-Fixer | 4 | 2| 
+| 20211210T23:22:23Z | Git Scraping project for CISA Known Exploited Vulnerability Catalog | https://github.com/JosephTLucas/CISA_KNOWN_EXPLOITED_VULNERABILITIES_CATALOG | 1 | 1| 
+| 20211210T23:07:45Z | A new API that can power WPF and Winform Roblox Exploits for free and no built in key system (Key System Built in means : a API has a key system built into the code like KrnlAPI or Oxygen U API) | https://github.com/ausu-u/FurkAPI | 1 | 0| 
+| 20211210T22:54:40Z | Mitigations (AWS WAF, Lambda@Edge/CloudFront Functions) to implement on AWS to attempt to prevent log4j exploitation. | https://github.com/OllieJC/aws-log4j-mitigations | 0 | 0| 
+| 20211210T22:44:19Z | Random Exploits | https://github.com/w4fz5uck5/3XPL01t5 | 26 | 16| 
+| 20211210T22:42:30Z | Null | https://github.com/HP888/mc-rce-exploit-fix | 7 | 0| 
 | 20211210T13:58:27Z | Don%t use this maliciously, this is for testing | https://github.com/fizztune/log4j-exploit-example | 1 | 0| 
-| 20211210T13:58:07Z | Hyperledger Fabric based Exploit Secure E-Voting System. | https://github.com/faiyazkhan024/hlf-ses | 0 | 0| 
-| 20211210T13:55:15Z | Log4j-RCE (CVE-2021-44228) | https://github.com/HyCraftHD/Log4J-RCE-Proof-Of-Concept | 6 | 2| 
-| 20211210T13:52:22Z | Exploit to dump ipmi hashes | https://github.com/c0rnf13ld/ipmiPwner | 0 | 0| 
-| 20211210T13:45:58Z | A list of fun things to do with DarkRP addons | https://github.com/OverlordAkise/darkrp-exploits | 4 | 0| 
-| 20211210T13:43:18Z | Checks your Minecraft logs folder to see if you%ve been infected by the exploit! | https://github.com/Koupah/MC-Log4J-Exploit-Checker | 0 | 0| 
-| 20211210T13:41:35Z | Fixes the log4j exploit from being sent to Minecraft clients. | https://github.com/FrankHeijden/Log4jFix | 24 | 5| 
-| 20211210T13:40:12Z | A simple plugin that prevents the Log4J exploit that allows for RCE, IP-Logging and server crashing | https://github.com/notrhys/Log-4J-Exploit-Fix | 28 | 20| 
-| 20211210T13:37:58Z | A little Python-Code that erans money for ya | https://github.com/FuckingToasters/MoneyMakingExploit | 1 | 1| 
-| 20211210T13:37:52Z | Null | https://github.com/BenPali/Offensive-Security-and-Exploitation | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211210T11:01:18Z | Prime backdooring procedure to allow fast factorization of semiprimes | https://github.com/cryptolu/primes-backdoor | 1 | 0| 
+| 20211210T20:48:32Z | A very basic C backdoor i created.  | https://github.com/TFox42/BCBackdoor | 0 | 0| 
+| 20211210T19:57:51Z | Poweshell backdoor metasploit  | https://github.com/crypt0n-root/powershell-backdoor | 0 | 0| 
+| 20211210T19:52:15Z | Source code implementation for paper: Backdoor Learning Curves: Explaining Backdoor Poisoning Beyond Influence Functions | https://github.com/Cinofix/BackdoorLearningCurves | 0 | 0| 
+| 20211210T15:08:54Z | Prime backdooring procedure to allow fast factorization of semiprimes | https://github.com/cryptolu/primes-backdoor | 2 | 0| 
+| 20211210T14:38:19Z | Simple reverse backdoor utility, that uses sockets to communicate. | https://github.com/nickson8/reverse_backdoor | 1 | 0| 
 | 20211210T06:12:51Z | UDP backdoor for executing commands on a host written in python. Commands are AES encrypted for transit. | https://github.com/mynameiswillporter/udp_backdoor | 0 | 0| 
 | 20211210T02:13:18Z | The insane hackerman backdoor. | https://github.com/Bakdooro/Bakdooro | 10 | 2| 
 | 20211210T01:48:31Z | Checks Minecraft logs to see if the string jndi:ldap appears. | https://github.com/MyUsernamee/MinecraftBackdoorDetector | 0 | 1| 
@@ -94,16 +100,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211210T13:52:27Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 630 | 67| 
-| 20211210T13:29:38Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
-| 20211210T13:27:13Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6893 | 1442| 
-| 20211210T12:50:21Z | Null | https://github.com/MaksimOzery/fuzzerSmartSoft | 0 | 0| 
-| 20211210T12:39:01Z | Null | https://github.com/nishikantparmariam/Mamdani-Fuzzy-Logic-App | 0 | 0| 
-| 20211210T12:38:27Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3834 | 901| 
-| 20211210T12:29:49Z | A fork of AFL for fuzzing Windows binaries | https://github.com/googleprojectzero/winafl | 1820 | 455| 
-| 20211210T12:25:41Z | Null | https://github.com/AleksanderZawisza/Fuzzy-Boat | 0 | 0| 
-| 20211210T12:02:21Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 37 | 12| 
-| 20211210T11:38:40Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 4 | 2| 
+| 20211210T23:46:08Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 7 | 0| 
+| 20211210T23:32:39Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2298 | 444| 
+| 20211210T23:04:42Z | Fuzzing Practice | https://github.com/elbiazo/fuzzing_like_caveman_solution | 0 | 0| 
+| 20211210T22:55:15Z | Wallet | https://github.com/Calvinsweeny/fuzzy-goggles | 0 | 0| 
+| 20211210T22:47:54Z | Null | https://github.com/CharlesPDX/fuzzy-art-tar | 0 | 0| 
+| 20211210T22:43:08Z | Null | https://github.com/MaksimOzery/fuzzerSmartSoft | 0 | 0| 
+| 20211210T22:36:00Z | A fork and successor of the Sulley Fuzzing Framework | https://github.com/jtpereyda/boofuzz | 1407 | 273| 
+| 20211210T22:32:49Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2445 | 150| 
+| 20211210T22:26:27Z | Fuzz testing harness for Geometrize, a library for geometrizing images into geometric primitives | https://github.com/Tw1ddle/geometrize-lib-fuzzing | 1 | 1| 
+| 20211210T22:03:23Z | A site that allows you to reverse image search millions of furry images in under a second | https://github.com/Syfaro/fuzzysearch | 20 | 3| 
 
 
 

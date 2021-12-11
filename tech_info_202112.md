@@ -46,31 +46,31 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211210T13:48:40Z | CVE-2021-43798 | Grafana Unauthorized arbitrary file reading vulnerability | https://github.com/jas502n/Grafana-CVE-2021-43798 | | 
-| 20211210T13:19:15Z | CVE-2021-44228 | Remote Code Injection In Log4j | https://github.com/jas502n/Log4j2-CVE-2021-44228 | | 
-| 20211210T13:06:16Z | CVE-2021-44077 | Proof of Concept Exploit for ManageEngine ServiceDesk Plus CVE-2021-44077 | https://github.com/horizon3ai/CVE-2021-44077 | | 
-| 20211210T12:39:27Z | CVE-2021-44228 | A small server for verifing if a given java program is succeptibel to CVE-2021-44228 | https://github.com/zlepper/CVE-2021-44228-Test-Server | | 
-| 20211210T07:55:00Z | CVE-2021-22205 | CVE-2021-22205 on Docker | https://github.com/ahmad4fifz/CVE-2021-22205 | | 
-| 20211210T07:54:04Z | CVE-2021-44228 | Remote Code Injection In Log4j | https://github.com/y35uishere/Log4j2-CVE-2021-44228 | | 
-| 20211210T07:18:17Z | CVE-2021-21972 | CVE-2021-21972 Exploit | https://github.com/NS-Sp4ce/CVE-2021-21972 | | 
-| 20211210T07:07:27Z | CVE-2021-44228 | Apache Log4j 2   a remote code execution vulnerability via the ldap JNDI parser. | https://github.com/dbgee/CVE-2021-44228 | | 
-| 20211210T04:54:18Z | CVE-2021-43798 | CVE-2021-43798Exp多线程批量验证脚本 | https://github.com/fanygit/Grafana-CVE-2021-43798Exp | | 
-| 20211210T02:51:45Z | CVE-2021-43798 | Grafana-POC任意文件读取漏洞(CVE-2021-43798) | https://github.com/culprits/Grafana_POC-CVE-2021-43798 | | 
+| 20211211T01:01:20Z | CVE-2021-44228 | Null | https://github.com/greymd/CVE-2021-44228 | | 
+| 20211211T00:58:30Z | CVE-2021-44228 | 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - A trick to bypass words blocking patches | https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words | | 
+| 20211211T00:55:25Z | CVE-2021-44228 | Hashes for vulnerable LOG4J versions | https://github.com/mubix/CVE-2021-44228-Log4Shell-Hashes | | 
+| 20211211T00:07:52Z | CVE-2021-44228 | log4shell sample application (CVE-2021-44228) | https://github.com/StandB/CVE-2021-44228-poc | | 
+| 20211210T23:47:17Z | cve-2021-44228 | Buildpack providing a workaround for CVE-2021-44228 (Log4j RCE exploit) | https://github.com/alexandreroman/cve-2021-44228-workaround-buildpack | | 
+| 20211210T23:30:35Z | CVE-2021-44228 | CVE-2021-44228 DFIR Notes | https://github.com/Azeemering/CVE-2021-44228-DFIR-Notes | | 
+| 20211210T22:35:56Z | CVE-2021-44228 | RCE POC | https://github.com/KosmX/CVE-2021-44228-example | | 
+| 20211210T22:33:45Z | CVE-2021-44228 | list of ips pulled from greynoise for this | https://github.com/seamus-dev/CVE-2021-44228 | | 
+| 20211210T21:26:03Z | CVE-2021-44228 | Remote Code Injection In Log4j | https://github.com/jas502n/Log4j2-CVE-2021-44228 | | 
+| 20211210T19:55:16Z | CVE-2021-44228 | Null | https://github.com/wheez-y/CVE-2021-44228-kusto | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211211T00:01:12Z | modern regular expression syntax everywhere with a painless upgrade path | https://github.com/SonOfLilit/kleenexp | 30 | 3| 
+| 20211210T21:11:02Z | Null | https://github.com/dlapierre/kleewhoorksnantes | 0 | 0| 
+| 20211210T18:19:42Z | Null | https://github.com/xinrachel30/AL_KLEEMEX | 0 | 0| 
 | 20211209T22:22:33Z | Minecraft Mod. Allows breaking only one half of a double slab block. | https://github.com/ModdingForBlockheads/KleeSlabs | 10 | 3| 
-| 20211209T20:00:40Z | Null | https://github.com/dlapierre/kleewhoorksnantes | 0 | 0| 
 | 20211208T16:33:49Z | A small demo to improve documentation | https://github.com/Fernando-Adauto/kleeen-infusion-demo | 0 | 0| 
 | 20211208T07:54:25Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 219 | 36| 
 | 20211208T02:59:01Z | Spring 2021 Geography 817 work folder  | https://github.com/klee12/klee12.github.io | 0 | 0| 
-| 20211208T02:23:56Z | modern regular expression syntax everywhere with a painless upgrade path | https://github.com/SonOfLilit/kleenexp | 30 | 3| 
 | 20211207T17:25:10Z | 程序员哥哥，你是来找可莉玩的吗？可莉语音包，适用于 vscode-rainbow-fart 拓展。 | https://github.com/Ran-ying/Klee-rainbow-fart | 12 | 1| 
 | 20211207T16:22:10Z | Witch-KLEE - A KLEE-based error witness checker | https://github.com/ayazip/witch-klee | 0 | 0| 
 | 20211207T16:19:31Z | Null | https://github.com/coffee100percnt/KleeDiscordBomber | 5 | 0| 
-| 20211207T09:39:53Z | Null | https://github.com/ka11i0/d7020e_klee | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -85,31 +85,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211210T13:58:27Z | Don%t use this maliciously, this is for testing | https://github.com/fizztune/log4j-exploit-example | 1 | 0| 
-| 20211210T13:58:07Z | Hyperledger Fabric based Exploit Secure E-Voting System. | https://github.com/faiyazkhan024/hlf-ses | 0 | 0| 
-| 20211210T13:55:15Z | Log4j-RCE (CVE-2021-44228) | https://github.com/HyCraftHD/Log4J-RCE-Proof-Of-Concept | 6 | 2| 
-| 20211210T13:52:22Z | Exploit to dump ipmi hashes | https://github.com/c0rnf13ld/ipmiPwner | 0 | 0| 
-| 20211210T13:45:58Z | A list of fun things to do with DarkRP addons | https://github.com/OverlordAkise/darkrp-exploits | 4 | 0| 
-| 20211210T13:43:18Z | Checks your Minecraft logs folder to see if you%ve been infected by the exploit! | https://github.com/Koupah/MC-Log4J-Exploit-Checker | 0 | 0| 
-| 20211210T13:41:35Z | Fixes the log4j exploit from being sent to Minecraft clients. | https://github.com/FrankHeijden/Log4jFix | 24 | 5| 
-| 20211210T13:40:12Z | A simple plugin that prevents the Log4J exploit that allows for RCE, IP-Logging and server crashing | https://github.com/notrhys/Log-4J-Exploit-Fix | 28 | 20| 
-| 20211210T13:37:58Z | A little Python-Code that erans money for ya | https://github.com/FuckingToasters/MoneyMakingExploit | 1 | 1| 
-| 20211210T13:37:52Z | Null | https://github.com/BenPali/Offensive-Security-and-Exploitation | 0 | 0| 
+| 20211211T00:58:30Z | 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - A trick to bypass words blocking patches | https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words | 2 | 0| 
+| 20211211T00:57:13Z | Minecraft Honeypot for Log4j exploit. CVE-2021-44228 Log4Shell LogJam | https://github.com/Adikso/minecraft-log4j-honeypot | 2 | 0| 
+| 20211211T00:56:26Z | Minecraft exploit allowing remote code execution via Minecraft chat | https://github.com/Gopro336/PSA-MINERCRAFT-RCE-EXPLOIT | 20 | 7| 
+| 20211211T00:47:43Z | Log4j-RCE (CVE-2021-44228) Proof of Concept with additional information | https://github.com/HyCraftHD/Log4J-RCE-Proof-Of-Concept | 20 | 3| 
+| 20211211T00:45:50Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 16| 
+| 20211211T00:45:05Z | Fixes the log4j exploit from being sent to Minecraft clients. | https://github.com/FrankHeijden/Log4jFix | 29 | 7| 
+| 20211211T00:38:44Z | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | 39 | 7| 
+| 20211211T00:26:33Z | Checks Minecraft, MultiMC, Lunar and Badlion logs folder to see if you%ve been affected by the exploit! | https://github.com/Koupah/MC-Log4J-Exploit-Checker | 1 | 0| 
+| 20211211T00:17:15Z | Log4Shell RCE exploit using a gadget class. Not dependent on an old JDK version to work. | https://github.com/drahosj/log4shell_poc | 0 | 0| 
+| 20211211T00:14:03Z | The Next-Gen Roblox Exploit Hub | https://github.com/HonestlyDex/DexHub | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211210T11:01:18Z | Prime backdooring procedure to allow fast factorization of semiprimes | https://github.com/cryptolu/primes-backdoor | 1 | 0| 
+| 20211210T20:48:32Z | A very basic C backdoor i created.  | https://github.com/TFox42/BCBackdoor | 0 | 0| 
+| 20211210T19:57:51Z | Poweshell backdoor metasploit  | https://github.com/crypt0n-root/powershell-backdoor | 0 | 0| 
+| 20211210T19:52:15Z | Source code implementation for paper: Backdoor Learning Curves: Explaining Backdoor Poisoning Beyond Influence Functions | https://github.com/Cinofix/BackdoorLearningCurves | 0 | 0| 
+| 20211210T15:08:54Z | Prime backdooring procedure to allow fast factorization of semiprimes | https://github.com/cryptolu/primes-backdoor | 2 | 0| 
+| 20211210T14:38:19Z | Simple reverse backdoor utility, that uses sockets to communicate. | https://github.com/nickson8/reverse_backdoor | 1 | 0| 
 | 20211210T06:12:51Z | UDP backdoor for executing commands on a host written in python. Commands are AES encrypted for transit. | https://github.com/mynameiswillporter/udp_backdoor | 0 | 0| 
 | 20211210T02:13:18Z | The insane hackerman backdoor. | https://github.com/Bakdooro/Bakdooro | 10 | 2| 
 | 20211210T01:48:31Z | Checks Minecraft logs to see if the string jndi:ldap appears. | https://github.com/MyUsernamee/MinecraftBackdoorDetector | 0 | 1| 
 | 20211210T00:31:02Z | Null | https://github.com/samuelventura/nerves_backdoor | 0 | 0| 
 | 20211209T23:05:41Z | LD_PRELOAD rootkit | https://github.com/mav8557/Father | 47 | 8| 
-| 20211209T21:36:35Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 116 | 28| 
-| 20211209T20:26:38Z | Script written in Python to detect and exploit the ICSA-17-124-01 vulnerability, also known as Hikvision Camera Backdoor.  | https://github.com/fracergu/HIKSCript | 0 | 1| 
-| 20211209T18:47:41Z | High School project that utilizes python machine learning algorithm to find malicious backdoor programs on a Linux system | https://github.com/MizuBon/mlDoora | 0 | 0| 
-| 20211209T12:06:14Z | Code for the paper %Rethinking Stealthiness of Backdoor Attack against NLP Models% (ACL-IJCNLP 2021) | https://github.com/lancopku/SOS | 6 | 1| 
 
 
 # symbolic execution on Github 推荐
@@ -138,16 +138,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211210T13:52:27Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 630 | 67| 
-| 20211210T13:29:38Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
-| 20211210T13:27:13Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6893 | 1442| 
-| 20211210T12:50:21Z | Null | https://github.com/MaksimOzery/fuzzerSmartSoft | 0 | 0| 
-| 20211210T12:39:01Z | Null | https://github.com/nishikantparmariam/Mamdani-Fuzzy-Logic-App | 0 | 0| 
-| 20211210T12:38:27Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3834 | 901| 
-| 20211210T12:29:49Z | A fork of AFL for fuzzing Windows binaries | https://github.com/googleprojectzero/winafl | 1820 | 455| 
-| 20211210T12:25:41Z | Null | https://github.com/AleksanderZawisza/Fuzzy-Boat | 0 | 0| 
-| 20211210T12:02:21Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 37 | 12| 
-| 20211210T11:38:40Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 4 | 2| 
+| 20211211T00:59:36Z | ☸A stateful GraphQL fuzzer (in development) | https://github.com/omar2535/GraphQLer | 8 | 2| 
+| 20211211T00:52:21Z | Репозиторий для лаб | https://github.com/XoneKone/FuzzyLab | 0 | 0| 
+| 20211211T00:30:03Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6896 | 1442| 
+| 20211211T00:28:35Z | Null | https://github.com/theripper93/fuzzy-foundry | 1 | 1| 
+| 20211211T00:15:22Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20211211T00:10:04Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 37 | 12| 
+| 20211210T23:46:08Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 7 | 0| 
+| 20211210T23:32:39Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2298 | 444| 
+| 20211210T23:04:42Z | Fuzzing Practice | https://github.com/elbiazo/fuzzing_like_caveman_solution | 0 | 0| 
+| 20211210T22:55:15Z | Wallet | https://github.com/Calvinsweeny/fuzzy-goggles | 0 | 0| 
 
 
 
