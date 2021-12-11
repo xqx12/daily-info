@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211211T02:39:30Z | Log4j-RCE (CVE-2021-44228) Proof of Concept with additional information | https://github.com/HyCraftHD/Log4J-RCE-Proof-Of-Concept | 21 | 4| 
 | 20211211T02:37:10Z | JNDI Exploit docker-based server for exploiting #log4shell | https://github.com/naryal2580/jandis | 0 | 0| 
 | 20211211T02:03:32Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 37 | 20| 
 | 20211211T01:47:47Z | Minecraft Honeypot for Log4j exploit. CVE-2021-44228 Log4Shell LogJam | https://github.com/Adikso/minecraft-log4j-honeypot | 4 | 0| 
@@ -94,7 +95,6 @@
 | 20211211T01:27:27Z | Roblox Exploit and Cheats here!  | https://github.com/FoRuxGaming/RobloxCheats | 0 | 1| 
 | 20211211T00:58:30Z | 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - A trick to bypass words blocking patches | https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words | 2 | 0| 
 | 20211211T00:56:26Z | Minecraft exploit allowing remote code execution via Minecraft chat | https://github.com/Gopro336/PSA-MINERCRAFT-RCE-EXPLOIT | 20 | 7| 
-| 20211211T00:47:43Z | Log4j-RCE (CVE-2021-44228) Proof of Concept with additional information | https://github.com/HyCraftHD/Log4J-RCE-Proof-Of-Concept | 20 | 3| 
 
 
 # backdoor on Github 推荐
