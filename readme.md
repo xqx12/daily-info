@@ -29,12 +29,12 @@
 | 20211210T23:30:35Z | CVE-2021-44228 | CVE-2021-44228 DFIR Notes | https://github.com/Azeemering/CVE-2021-44228-DFIR-Notes | | 
 | 20211210T22:35:56Z | CVE-2021-44228 | RCE POC | https://github.com/KosmX/CVE-2021-44228-example | | 
 | 20211210T22:33:45Z | CVE-2021-44228 | list of ips pulled from greynoise for this | https://github.com/seamus-dev/CVE-2021-44228 | | 
-| 20211210T21:26:03Z | CVE-2021-44228 | Remote Code Injection In Log4j | https://github.com/jas502n/Log4j2-CVE-2021-44228 | | 
 | 20211210T19:55:16Z | CVE-2021-44228 | Null | https://github.com/wheez-y/CVE-2021-44228-kusto | | 
 | 20211210T19:43:39Z | CVE-2021-44228 | wasihaker | https://github.com/racisz/CVE-2021-44228-test | | 
 | 20211210T18:30:07Z | CVE-2021-44228 | Null | https://github.com/sohtsuka/CVE-2021-44228-PoC | | 
 | 20211210T16:25:20Z | CVE-2021-44228 | Patch Pulsar Docker images with Log4J 2.15.0 update to mitigate CVE-2021-44228 | https://github.com/lhotari/pulsar-docker-images-patch-CVE-2021-44228 | | 
 | 20211210T13:48:40Z | CVE-2021-43798 | Grafana Unauthorized arbitrary file reading vulnerability | https://github.com/jas502n/Grafana-CVE-2021-43798 | | 
+| 20211210T13:06:16Z | CVE-2021-44077 | Proof of Concept Exploit for ManageEngine ServiceDesk Plus CVE-2021-44077 | https://github.com/horizon3ai/CVE-2021-44077 | | 
 
 
 # klee on Github 推荐

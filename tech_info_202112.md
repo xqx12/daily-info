@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211211T02:50:22Z | CVE-2021-44228 | Remote Code Injection In Log4j | https://github.com/jas502n/Log4j2-CVE-2021-44228 | | 
+| 20211211T02:48:36Z | CVE-2021-44228 | 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - A trick to bypass words blocking patches | https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words | | 
 | 20211211T02:34:16Z | CVE-2021-44228 | Null | https://github.com/greymd/CVE-2021-44228 | | 
 | 20211211T02:03:17Z | CVE-2021-44228 | Hashes for vulnerable LOG4J versions | https://github.com/mubix/CVE-2021-44228-Log4Shell-Hashes | | 
 | 20211211T01:11:19Z | CVE-2021-44228 | Null | https://github.com/racoon-rac/CVE-2021-44228 | | 
-| 20211211T00:58:30Z | CVE-2021-44228 | 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - A trick to bypass words blocking patches | https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words | | 
 | 20211211T00:07:52Z | CVE-2021-44228 | log4shell sample application (CVE-2021-44228) | https://github.com/StandB/CVE-2021-44228-poc | | 
 | 20211210T23:47:17Z | cve-2021-44228 | Buildpack providing a workaround for CVE-2021-44228 (Log4j RCE exploit) | https://github.com/alexandreroman/cve-2021-44228-workaround-buildpack | | 
 | 20211210T23:30:35Z | CVE-2021-44228 | CVE-2021-44228 DFIR Notes | https://github.com/Azeemering/CVE-2021-44228-DFIR-Notes | | 
 | 20211210T22:35:56Z | CVE-2021-44228 | RCE POC | https://github.com/KosmX/CVE-2021-44228-example | | 
 | 20211210T22:33:45Z | CVE-2021-44228 | list of ips pulled from greynoise for this | https://github.com/seamus-dev/CVE-2021-44228 | | 
-| 20211210T21:26:03Z | CVE-2021-44228 | Remote Code Injection In Log4j | https://github.com/jas502n/Log4j2-CVE-2021-44228 | | 
 
 
 # klee on Github 推荐
@@ -115,6 +115,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211211T02:50:32Z | A tool for incremental symbolic execution | https://github.com/FenseTool/fense | 0 | 0| 
 | 20211210T22:18:28Z | Semantic interpretation the ARM Specification Language using symbolic execution  | https://github.com/GaloisInc/asl-translator | 3 | 0| 
 | 20211210T18:58:41Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 185 | 10| 
 | 20211210T16:40:34Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1930 | 403| 
@@ -124,7 +125,6 @@
 | 20211210T03:38:17Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 191 | 39| 
 | 20211209T23:56:06Z | Symbolica%s open-source symbolic execution engine. | https://github.com/Symbolica/Symbolica | 45 | 3| 
 | 20211209T18:07:55Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2589 | 381| 
-| 20211209T14:58:29Z | Monster is a symbolic execution engine for 64-bit RISC-U code | https://github.com/cksystemsgroup/monster | 6 | 3| 
 
 
 # big4 on Github 推荐
@@ -138,8 +138,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211211T02:49:58Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211211T02:47:33Z | Null | https://github.com/theripper93/fuzzy-foundry | 1 | 1| 
-| 20211211T02:24:02Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211211T01:49:13Z | ☸A stateful GraphQL fuzzer (in development) | https://github.com/omar2535/GraphQLer | 8 | 2| 
 | 20211211T00:52:21Z | Репозиторий для лаб | https://github.com/XoneKone/FuzzyLab | 0 | 0| 
 | 20211211T00:30:03Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6896 | 1442| 
