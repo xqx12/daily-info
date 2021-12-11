@@ -138,7 +138,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211211T00:59:36Z | ☸A stateful GraphQL fuzzer (in development) | https://github.com/omar2535/GraphQLer | 8 | 2| 
+| 20211211T01:49:13Z | ☸A stateful GraphQL fuzzer (in development) | https://github.com/omar2535/GraphQLer | 8 | 2| 
 | 20211211T00:52:21Z | Репозиторий для лаб | https://github.com/XoneKone/FuzzyLab | 0 | 0| 
 | 20211211T00:30:03Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6896 | 1442| 
 | 20211211T00:28:35Z | Null | https://github.com/theripper93/fuzzy-foundry | 1 | 1| 
