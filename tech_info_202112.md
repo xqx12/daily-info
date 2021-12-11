@@ -46,10 +46,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211211T02:55:03Z | CVE-2021-44228 | Hashes for vulnerable LOG4J versions | https://github.com/mubix/CVE-2021-44228-Log4Shell-Hashes | | 
 | 20211211T02:50:22Z | CVE-2021-44228 | Remote Code Injection In Log4j | https://github.com/jas502n/Log4j2-CVE-2021-44228 | | 
 | 20211211T02:48:36Z | CVE-2021-44228 | 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - A trick to bypass words blocking patches | https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words | | 
 | 20211211T02:34:16Z | CVE-2021-44228 | Null | https://github.com/greymd/CVE-2021-44228 | | 
-| 20211211T02:03:17Z | CVE-2021-44228 | Hashes for vulnerable LOG4J versions | https://github.com/mubix/CVE-2021-44228-Log4Shell-Hashes | | 
 | 20211211T01:11:19Z | CVE-2021-44228 | Null | https://github.com/racoon-rac/CVE-2021-44228 | | 
 | 20211211T00:07:52Z | CVE-2021-44228 | log4shell sample application (CVE-2021-44228) | https://github.com/StandB/CVE-2021-44228-poc | | 
 | 20211210T23:47:17Z | cve-2021-44228 | Buildpack providing a workaround for CVE-2021-44228 (Log4j RCE exploit) | https://github.com/alexandreroman/cve-2021-44228-workaround-buildpack | | 
@@ -138,6 +138,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211211T02:54:32Z | An open-source software package for fuzzing autonomous driving systems in high-fidelity simulators | https://github.com/AIasd/ADFuzz | 0 | 1| 
 | 20211211T02:49:58Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211211T02:47:33Z | Null | https://github.com/theripper93/fuzzy-foundry | 1 | 1| 
 | 20211211T01:49:13Z | ☸A stateful GraphQL fuzzer (in development) | https://github.com/omar2535/GraphQLer | 8 | 2| 
@@ -147,7 +148,6 @@
 | 20211210T23:46:08Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 7 | 0| 
 | 20211210T23:32:39Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2298 | 444| 
 | 20211210T23:04:42Z | Fuzzing Practice | https://github.com/elbiazo/fuzzing_like_caveman_solution | 0 | 0| 
-| 20211210T22:55:15Z | Wallet | https://github.com/Calvinsweeny/fuzzy-goggles | 0 | 0| 
 
 
 
