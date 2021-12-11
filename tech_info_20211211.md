@@ -16,7 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211211T13:41:53Z | CVE-2021-44228 | Apache Log4j 远程代码执行 | https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce | | 
+| 20211211T13:44:12Z | CVE-2021-44228 | Apache Log4j 远程代码执行 | https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce | | 
 | 20211211T13:33:21Z | CVE-2021-44228 | Vulnerability scanner for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211211T13:24:15Z | CVE-2021-44228 | List of company advisories log4j | https://github.com/leetxyz/CVE-2021-44228-Advisories | | 
 | 20211211T13:11:39Z | CVE-2021-44228 | 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - A trick to bypass words blocking patches | https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words | | 
@@ -45,7 +45,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211211T13:39:55Z | Discord bot based ROBLOX exploit. | https://github.com/Shade-Productions/RoCord | 0 | 0| 
+| 20211211T13:44:14Z | PS4 FW7.55 Exploit Menu with .js and .bin Payload Loader. All important payloads are included!  | https://github.com/Storm21CH/PS4-FW7.55-Exploit-Menu | 0 | 0| 
+| 20211211T13:41:04Z | Discord bot based ROBLOX exploit. | https://github.com/Shade-Productions/RoCord | 0 | 0| 
 | 20211211T13:39:20Z | Null | https://github.com/joeengo/exploit-update-checker-py | 0 | 0| 
 | 20211211T13:15:54Z | Exploiting the Log4Shell exploit in java | https://github.com/Oskar2601/Log4Shell-Exploiting-Minecraft | 0 | 0| 
 | 20211211T13:13:25Z | Miss the Target: an exploit & ctf platform or something idk | https://github.com/chengongpp/mtt | 0 | 0| 
@@ -54,7 +55,6 @@
 | 20211211T13:03:05Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 37 | 20| 
 | 20211211T12:55:40Z | Log4Shell Zero-Day Exploit Proof of Concept | https://github.com/o7-Fire/Log4Shell | 0 | 0| 
 | 20211211T12:54:43Z | RootMyTV is a user-friendly exploit for rooting/jailbreaking LG webOS smart TVs. | https://github.com/RootMyTV/RootMyTV.github.io | 166 | 7| 
-| 20211211T12:50:11Z | A peer 2 peer approach to increase price stability and to reduce price manipulation by exploiting non-fundamentals-based volatility | https://github.com/distributed-ledger-technology/vofarm-deno-part | 0 | 0| 
 
 
 # backdoor on Github 推荐
