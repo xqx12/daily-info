@@ -85,7 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211211T01:45:28Z | Minecraft Honeypot for Log4j exploit. CVE-2021-44228 Log4Shell LogJam | https://github.com/Adikso/minecraft-log4j-honeypot | 3 | 0| 
+| 20211211T01:47:47Z | Minecraft Honeypot for Log4j exploit. CVE-2021-44228 Log4Shell LogJam | https://github.com/Adikso/minecraft-log4j-honeypot | 4 | 0| 
 | 20211211T01:39:20Z | Checks Minecraft, MultiMC, Lunar and Badlion logs folder to see if you%ve been affected by the exploit! | https://github.com/Koupah/MC-Log4J-Exploit-Checker | 1 | 0| 
 | 20211211T01:37:53Z | JNDI Exploit docker-based server for exploiting #log4shell | https://github.com/naryal2580/jandis | 0 | 0| 
 | 20211211T01:36:55Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 360 | 54| 
