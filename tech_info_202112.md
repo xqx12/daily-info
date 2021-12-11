@@ -46,10 +46,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211211T13:14:23Z | CVE-2021-44228 | Apache Log4j 远程代码执行 | https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce | | 
 | 20211211T13:11:39Z | CVE-2021-44228 | 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - A trick to bypass words blocking patches | https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words | | 
 | 20211211T13:11:22Z | CVE-2021-44228 | List of company advisories log4j | https://github.com/leetxyz/CVE-2021-44228-Advisories | | 
 | 20211211T13:07:58Z | CVE-2021-44228 | Null | https://github.com/vorburger/Log4j_CVE-2021-44228 | | 
-| 20211211T13:07:44Z | CVE-2021-44228 | Apache Log4j 远程代码执行 | https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce | | 
 | 20211211T12:57:31Z | CVE-2021-44228 | Null | https://github.com/greymd/CVE-2021-44228 | | 
 | 20211211T12:56:34Z | CVE-2021-44228 | Vulnerability scanner for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211211T12:10:58Z | CVE-2021-44228 | RCE POC | https://github.com/KosmX/CVE-2021-44228-example | | 
@@ -85,10 +85,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211211T13:14:36Z | Exploiting the Log4Shell exploit in java | https://github.com/Oskar2601/Log4Shell-Exploiting-Minecraft | 0 | 0| 
 | 20211211T13:13:25Z | Miss the Target: an exploit & ctf platform or something idk | https://github.com/chengongpp/mtt | 0 | 0| 
 | 20211211T13:11:39Z | 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - A trick to bypass words blocking patches | https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words | 29 | 8| 
 | 20211211T13:11:15Z | Null | https://github.com/julio-cfa/PoC-IPFire-2.19-OINKCODE-Remote-Code-Execution-EXPLOIT | 0 | 0| 
-| 20211211T13:05:11Z | Exploiting the Log4Shell exploit in java | https://github.com/Oskar2601/Log4Shell-Exploiting-Minecraft | 0 | 0| 
 | 20211211T13:03:05Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 37 | 20| 
 | 20211211T12:55:40Z | Log4Shell Zero-Day Exploit Proof of Concept | https://github.com/o7-Fire/Log4Shell | 0 | 0| 
 | 20211211T12:55:18Z | Discord bot based ROBLOX exploit. | https://github.com/Shade-Productions/RoCord | 0 | 0| 
