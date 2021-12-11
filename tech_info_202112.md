@@ -46,12 +46,12 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211211T13:31:24Z | CVE-2021-44228 | Vulnerability scanner for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211211T13:26:41Z | CVE-2021-44228 | Apache Log4j 远程代码执行 | https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce | | 
 | 20211211T13:24:15Z | CVE-2021-44228 | List of company advisories log4j | https://github.com/leetxyz/CVE-2021-44228-Advisories | | 
 | 20211211T13:11:39Z | CVE-2021-44228 | 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - A trick to bypass words blocking patches | https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words | | 
 | 20211211T13:07:58Z | CVE-2021-44228 | Null | https://github.com/vorburger/Log4j_CVE-2021-44228 | | 
 | 20211211T12:57:31Z | CVE-2021-44228 | Null | https://github.com/greymd/CVE-2021-44228 | | 
-| 20211211T12:56:34Z | CVE-2021-44228 | Vulnerability scanner for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211211T12:10:58Z | CVE-2021-44228 | RCE POC | https://github.com/KosmX/CVE-2021-44228-example | | 
 | 20211211T10:40:34Z | CVE-2021-44228 | Patch Pulsar Docker images with Log4J 2.15.0 update to mitigate CVE-2021-44228 | https://github.com/lhotari/pulsar-docker-images-patch-CVE-2021-44228 | | 
 | 20211211T10:39:40Z | CVE-2021-44228 | CVE-2021-44228 DFIR Notes | https://github.com/Azeemering/CVE-2021-44228-DFIR-Notes | | 
@@ -85,7 +85,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211211T13:18:27Z | Discord bot based ROBLOX exploit. | https://github.com/Shade-Productions/RoCord | 0 | 0| 
+| 20211211T13:30:27Z | Null | https://github.com/joeengo/exploit-update-checker-py | 0 | 0| 
+| 20211211T13:24:08Z | Discord bot based ROBLOX exploit. | https://github.com/Shade-Productions/RoCord | 0 | 0| 
 | 20211211T13:15:54Z | Exploiting the Log4Shell exploit in java | https://github.com/Oskar2601/Log4Shell-Exploiting-Minecraft | 0 | 0| 
 | 20211211T13:13:25Z | Miss the Target: an exploit & ctf platform or something idk | https://github.com/chengongpp/mtt | 0 | 0| 
 | 20211211T13:11:39Z | 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - A trick to bypass words blocking patches | https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words | 29 | 8| 
@@ -94,7 +95,6 @@
 | 20211211T12:55:40Z | Log4Shell Zero-Day Exploit Proof of Concept | https://github.com/o7-Fire/Log4Shell | 0 | 0| 
 | 20211211T12:54:43Z | RootMyTV is a user-friendly exploit for rooting/jailbreaking LG webOS smart TVs. | https://github.com/RootMyTV/RootMyTV.github.io | 166 | 7| 
 | 20211211T12:50:11Z | A peer 2 peer approach to increase price stability and to reduce price manipulation by exploiting non-fundamentals-based volatility | https://github.com/distributed-ledger-technology/vofarm-deno-part | 0 | 0| 
-| 20211211T12:34:46Z | Our VMAgent is a platform for exploiting Reinforcement Learning (RL) on Virtual Machine (VM) scheduling tasks. | https://github.com/mail-ecnu/VMAgent | 0 | 0| 
 
 
 # backdoor on Github 推荐
