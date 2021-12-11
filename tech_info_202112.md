@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211211T01:01:20Z | CVE-2021-44228 | Null | https://github.com/greymd/CVE-2021-44228 | | 
+| 20211211T01:05:01Z | CVE-2021-44228 | Null | https://github.com/greymd/CVE-2021-44228 | | 
 | 20211211T00:58:30Z | CVE-2021-44228 | 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - A trick to bypass words blocking patches | https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words | | 
 | 20211211T00:55:25Z | CVE-2021-44228 | Hashes for vulnerable LOG4J versions | https://github.com/mubix/CVE-2021-44228-Log4Shell-Hashes | | 
 | 20211211T00:07:52Z | CVE-2021-44228 | log4shell sample application (CVE-2021-44228) | https://github.com/StandB/CVE-2021-44228-poc | | 
