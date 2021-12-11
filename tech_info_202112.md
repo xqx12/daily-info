@@ -85,7 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211211T02:45:39Z | A short demo of CVE-2021-44228 | https://github.com/phoswald/sample-ldap-exploit | 0 | 0| 
+| 20211211T02:46:21Z | A short demo of CVE-2021-44228 | https://github.com/phoswald/sample-ldap-exploit | 0 | 0| 
 | 20211211T02:39:30Z | Log4j-RCE (CVE-2021-44228) Proof of Concept with additional information | https://github.com/HyCraftHD/Log4J-RCE-Proof-Of-Concept | 21 | 3| 
 | 20211211T02:37:10Z | JNDI Exploit docker-based server for exploiting #log4shell | https://github.com/naryal2580/jandis | 0 | 0| 
 | 20211211T02:03:32Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 37 | 20| 
@@ -138,7 +138,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211211T02:33:42Z | Null | https://github.com/theripper93/fuzzy-foundry | 1 | 1| 
+| 20211211T02:47:33Z | Null | https://github.com/theripper93/fuzzy-foundry | 1 | 1| 
 | 20211211T02:24:02Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211211T01:49:13Z | ☸A stateful GraphQL fuzzer (in development) | https://github.com/omar2535/GraphQLer | 8 | 2| 
 | 20211211T00:52:21Z | Репозиторий для лаб | https://github.com/XoneKone/FuzzyLab | 0 | 0| 
