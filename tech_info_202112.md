@@ -138,11 +138,11 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211211T02:33:42Z | Null | https://github.com/theripper93/fuzzy-foundry | 1 | 1| 
 | 20211211T02:24:02Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211211T01:49:13Z | ☸A stateful GraphQL fuzzer (in development) | https://github.com/omar2535/GraphQLer | 8 | 2| 
 | 20211211T00:52:21Z | Репозиторий для лаб | https://github.com/XoneKone/FuzzyLab | 0 | 0| 
 | 20211211T00:30:03Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6896 | 1442| 
-| 20211211T00:28:35Z | Null | https://github.com/theripper93/fuzzy-foundry | 1 | 1| 
 | 20211211T00:10:04Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 37 | 12| 
 | 20211210T23:46:08Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 7 | 0| 
 | 20211210T23:32:39Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2298 | 444| 
