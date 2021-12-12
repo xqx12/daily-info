@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211212T01:22:13Z | DDOS Archive  by RootSec (Scanners, BotNets (Mirai and QBot Premium & Normal and more), Exploits, Methods, Sniffers) | https://github.com/R00tS3c/DDOS-RootSec | 122 | 78| 
 | 20211212T01:15:16Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 112 | 7| 
 | 20211212T01:03:18Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 37 | 20| 
 | 20211212T00:58:36Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 293 | 616| 
@@ -94,7 +95,6 @@
 | 20211211T23:28:34Z | This repository will feature my scripts, research and documentation on Pokémon engines, glitches and exploits. | https://github.com/RETIREglitch/Pokemon-Research | 11 | 5| 
 | 20211211T23:26:51Z | Null | https://github.com/saaramar/exploit_pwn_chgs_ubuntu_21.10 | 4 | 0| 
 | 20211211T23:25:45Z | Null | https://github.com/jwardsmith/Active-Directory-Exploitation | 4 | 2| 
-| 20211211T23:14:36Z | Ansible playbook example to detect Log4Shell exploitation attempts | https://github.com/r0mdau/ansible-log4shell-detector | 0 | 0| 
 
 
 # backdoor on Github 推荐
