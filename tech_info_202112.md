@@ -85,7 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211212T02:55:16Z | Null | https://github.com/Dmitriy-area51/Exploit | 3 | 0| 
+| 20211212T02:57:03Z | Null | https://github.com/Dmitriy-area51/Exploit | 3 | 0| 
 | 20211212T02:54:23Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 122 | 8| 
 | 20211212T02:14:36Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 4173 | 571| 
 | 20211212T02:03:04Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 37 | 20| 
