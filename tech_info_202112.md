@@ -85,8 +85,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211212T13:05:39Z | Checks Minecraft, MultiMC, Lunar and Badlion logs folder to see if you%ve been affected by the exploit! | https://github.com/Koupah/MC-Log4J-Exploit-Checker | 11 | 0| 
+| 20211212T13:05:12Z | CVE-2021-42287/CVE-2021-42278 Scanner & Exploiter. | https://github.com/cube0x0/noPac | 314 | 65| 
 | 20211212T13:04:02Z | Abuse Log4J CVE-2021-44228 to patch CVE-2021-44228 in vulnerable Minecraft game sessions to prevent exploitation in the session :)  | https://github.com/0-x-2-2/CVE-2021-44228 | 5 | 0| 
-| 20211212T13:03:55Z | CVE-2021-42287/CVE-2021-42278 Scanner & Exploiter. | https://github.com/cube0x0/noPac | 314 | 65| 
 | 20211212T13:03:01Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 37 | 20| 
 | 20211212T12:58:43Z | Null | https://github.com/joeengo/exploit-update-checker-py | 0 | 0| 
 | 20211212T12:55:35Z | Sample log4j shell exploit | https://github.com/kali-dass/CVE-2021-44228-log4Shell | 0 | 0| 
@@ -94,7 +95,6 @@
 | 20211212T12:38:16Z | Null | https://github.com/Jonathan-Elias/Exploits | 0 | 0| 
 | 20211212T12:28:52Z | catch log4j exploits in the wild? maybe if we%re lucky... . | https://github.com/entropyQueen/log4j_catcher | 9 | 2| 
 | 20211212T12:25:16Z | Exploits for some pwn challenges on windows and linux .  | https://github.com/HadiMed/pwn | 0 | 0| 
-| 20211212T12:10:34Z | A peer 2 peer approach to increase price stability and to reduce price manipulation by exploiting non-fundamentals-based volatility | https://github.com/distributed-ledger-technology/vofarm-deno-part | 0 | 0| 
 
 
 # backdoor on Github 推荐
