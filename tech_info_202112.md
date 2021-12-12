@@ -85,7 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211212T01:08:16Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 110 | 7| 
+| 20211212T01:13:28Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 111 | 7| 
 | 20211212T01:03:18Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 37 | 20| 
 | 20211212T00:58:36Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 293 | 616| 
 | 20211212T00:54:26Z | SECMON is a web-based tool for the automation of infosec watching and vulnerability management with a web interface. | https://github.com/Guezone/SECMON | 123 | 29| 
