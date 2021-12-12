@@ -20,12 +20,12 @@
 | 20211211T22:16:52Z | CVE-2021-44228 | This enforces signatures for CVE-2021-44228 across all policies on a BIG-IP ASM device | https://github.com/irgoncalves/f5-waf-enforce-sig-CVE-2021-44228 | | 
 | 20211211T21:28:19Z | CVE-2021-44228 | List of company advisories log4j | https://github.com/leetxyz/CVE-2021-44228-Advisories | | 
 | 20211211T20:28:25Z | CVE-2021-44228 | Null | https://github.com/chilliwebs/CVE-2021-44228_Example | | 
-| 20211211T18:28:19Z | CVE-2021-44228 | Remote Code Injection In Log4j | https://github.com/jas502n/Log4j2-CVE-2021-44228 | | 
 | 20211211T18:21:06Z | CVE-2021-44228 | Public IoCs about log4j CVE-2021-44228 | https://github.com/Sh0ckFR/log4j-CVE-2021-44228-Public-IoCs | | 
 | 20211211T17:02:11Z | CVE-2021-44228 | Null | https://github.com/vorburger/Log4j_CVE-2021-44228 | | 
 | 20211211T16:44:51Z | cve-2021-44228 | A Terraform to deploy vulnerable app and a JDNIExploit to work with CVE-2021-44228 | https://github.com/Mormoroth/log4j-vulnerable-app-cve-2021-44228-terraform | | 
 | 20211211T16:36:12Z | CVE-2021-43798 | Null | https://github.com/LongWayHomie/CVE-2021-43798 | | 
 | 20211211T15:34:54Z | CVE-2021-44228 | RCE POC | https://github.com/KosmX/CVE-2021-44228-example | | 
+| 20211211T12:57:31Z | CVE-2021-44228 | Null | https://github.com/greymd/CVE-2021-44228 | | 
 
 
 # klee on Github 推荐

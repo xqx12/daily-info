@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211212T01:45:05Z | CVE-2021-44228 | Remote Code Injection In Log4j | https://github.com/jas502n/Log4j2-CVE-2021-44228 | | 
 | 20211212T01:39:37Z | CVE-2021-44228 | Apache Log4j 远程代码执行 | https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce | | 
 | 20211212T01:36:05Z | CVE-2021-44228 | 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - A trick to bypass words blocking patches | https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words | | 
 | 20211212T00:51:58Z | CVE-2021-44228 | Detections for CVE-2021-44228 inside of nested binaries | https://github.com/darkarnium/CVE-2021-44228 | | 
@@ -54,7 +55,6 @@
 | 20211211T22:16:52Z | CVE-2021-44228 | This enforces signatures for CVE-2021-44228 across all policies on a BIG-IP ASM device | https://github.com/irgoncalves/f5-waf-enforce-sig-CVE-2021-44228 | | 
 | 20211211T21:28:19Z | CVE-2021-44228 | List of company advisories log4j | https://github.com/leetxyz/CVE-2021-44228-Advisories | | 
 | 20211211T20:28:25Z | CVE-2021-44228 | Null | https://github.com/chilliwebs/CVE-2021-44228_Example | | 
-| 20211211T18:28:19Z | CVE-2021-44228 | Remote Code Injection In Log4j | https://github.com/jas502n/Log4j2-CVE-2021-44228 | | 
 | 20211211T18:21:06Z | CVE-2021-44228 | Public IoCs about log4j CVE-2021-44228 | https://github.com/Sh0ckFR/log4j-CVE-2021-44228-Public-IoCs | | 
 
 
