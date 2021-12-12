@@ -138,12 +138,12 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211212T13:35:32Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211212T13:31:55Z | Null | https://github.com/OmniaFares/Project_Formation_Using_FuzzyLogic | 0 | 0| 
 | 20211212T13:23:12Z | 批量检测log4j漏洞，主要还是批量fuzzz 头 | https://github.com/test502git/log4j-fuzz-head-poc | 56 | 21| 
 | 20211212T13:19:19Z | AFLTeam Collaborative Parallel Fuzzing | https://github.com/MelbourneFuzzingHub/aflteam | 11 | 2| 
 | 20211212T13:18:13Z | Qemu Fuzzer.针对Qemu模拟设备的模糊测试工具,主要思路是Host生成种子Data,然后传递给Guest中转程序,由中转程序访问MMIO,以达到和模拟设备的交互,不同于qtest自带的fuzzer. | https://github.com/lcatro/qemu-fuzzer | 2 | 0| 
 | 20211212T13:15:05Z | Null | https://github.com/AleksanderZawisza/Fuzzy-Boat | 0 | 0| 
-| 20211212T13:11:01Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211212T12:39:51Z | Leetcode solutions. | https://github.com/chaitanyks/fuzzy-disco | 1 | 0| 
 | 20211212T12:17:04Z | Null | https://github.com/rpatton88/fuzzy-octo-carnival | 0 | 0| 
 | 20211212T12:15:16Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 37 | 12| 
