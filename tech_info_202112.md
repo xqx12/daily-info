@@ -46,10 +46,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211212T00:54:17Z | CVE-2021-44228 | Apache Log4j 远程代码执行 | https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce | | 
+| 20211212T01:14:57Z | CVE-2021-44228 | Apache Log4j 远程代码执行 | https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce | | 
+| 20211212T01:14:49Z | CVE-2021-44228 | 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - A trick to bypass words blocking patches | https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words | | 
 | 20211212T00:51:58Z | CVE-2021-44228 | Detections for CVE-2021-44228 inside of nested binaries | https://github.com/darkarnium/CVE-2021-44228 | | 
 | 20211212T00:41:18Z | CVE-2021-44228 | Vulnerability scanner for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
-| 20211212T00:41:02Z | CVE-2021-44228 | 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - A trick to bypass words blocking patches | https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words | | 
 | 20211211T22:48:22Z | CVE-2021-43798 | Null | https://github.com/tangxiaofeng7/CVE-2021-43798-Grafana-File-Read | | 
 | 20211211T22:16:52Z | CVE-2021-44228 | This enforces signatures for CVE-2021-44228 across all policies on a BIG-IP ASM device | https://github.com/irgoncalves/f5-waf-enforce-sig-CVE-2021-44228 | | 
 | 20211211T21:28:19Z | CVE-2021-44228 | List of company advisories log4j | https://github.com/leetxyz/CVE-2021-44228-Advisories | | 
@@ -85,7 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211212T01:13:28Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 111 | 7| 
+| 20211212T01:15:16Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 112 | 7| 
 | 20211212T01:03:18Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 37 | 20| 
 | 20211212T00:58:36Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 293 | 616| 
 | 20211212T00:54:26Z | SECMON is a web-based tool for the automation of infosec watching and vulnerability management with a web interface. | https://github.com/Guezone/SECMON | 123 | 29| 
