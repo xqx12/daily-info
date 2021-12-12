@@ -85,8 +85,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211212T13:08:46Z | CVE-2021-42287/CVE-2021-42278 Scanner & Exploiter. | https://github.com/cube0x0/noPac | 316 | 65| 
 | 20211212T13:05:39Z | Checks Minecraft, MultiMC, Lunar and Badlion logs folder to see if you%ve been affected by the exploit! | https://github.com/Koupah/MC-Log4J-Exploit-Checker | 11 | 0| 
-| 20211212T13:05:12Z | CVE-2021-42287/CVE-2021-42278 Scanner & Exploiter. | https://github.com/cube0x0/noPac | 314 | 65| 
 | 20211212T13:04:02Z | Abuse Log4J CVE-2021-44228 to patch CVE-2021-44228 in vulnerable Minecraft game sessions to prevent exploitation in the session :)  | https://github.com/0-x-2-2/CVE-2021-44228 | 5 | 0| 
 | 20211212T13:03:01Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 37 | 20| 
 | 20211212T12:58:43Z | Null | https://github.com/joeengo/exploit-update-checker-py | 0 | 0| 
