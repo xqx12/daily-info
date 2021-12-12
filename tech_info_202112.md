@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211212T13:59:38Z | cve-2021-44228 | Null | https://github.com/lohanichaten/log4j-cve-2021-44228 | | 
+| 20211212T14:03:46Z | cve-2021-44228 | Null | https://github.com/lohanichaten/log4j-cve-2021-44228 | | 
 | 20211212T13:58:57Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211212T13:51:43Z | CVE-2021-44228 | Remote Code Injection In Log4j | https://github.com/jas502n/Log4j2-CVE-2021-44228 | | 
 | 20211212T13:25:30Z | CVE-2021-44228 | Null | https://github.com/pravin-pp/log4j2-CVE-2021-44228 | | 
@@ -85,7 +85,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211212T14:02:31Z | A peer 2 peer approach to increase price stability and to reduce price manipulation by exploiting non-fundamentals-based volatility | https://github.com/distributed-ledger-technology/vofarm-deno-part | 0 | 0| 
+| 20211212T14:05:56Z | A peer 2 peer approach to increase price stability and to reduce price manipulation by exploiting non-fundamentals-based volatility | https://github.com/distributed-ledger-technology/vofarm-deno-part | 0 | 0| 
+| 20211212T14:03:02Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 37 | 20| 
 | 20211212T13:53:36Z | Slightly automated bufferoverflow exploitation script made to be easy during OSCP | https://github.com/the-robot/autobuf | 0 | 0| 
 | 20211212T13:52:26Z | Null | https://github.com/joeengo/exploit-update-checker-py | 0 | 0| 
 | 20211212T13:46:32Z | 😎 Exploiting utility for Roblox. | https://github.com/catboy08/comet | 0 | 0| 
@@ -94,7 +95,6 @@
 | 20211212T13:39:06Z | DDOS Archive  by RootSec (Scanners, BotNets (Mirai and QBot Premium & Normal and more), Exploits, Methods, Sniffers) | https://github.com/R00tS3c/DDOS-RootSec | 122 | 78| 
 | 20211212T13:28:32Z | Null | https://github.com/NotOnTop/Exploits_Public | 0 | 0| 
 | 20211212T13:25:50Z | Checks Minecraft, MultiMC, Lunar and Badlion logs folder to see if you%ve been affected by the exploit! | https://github.com/Koupah/MC-Log4J-Exploit-Checker | 11 | 0| 
-| 20211212T13:23:12Z | Sample log4j shell exploit | https://github.com/kali-dass/CVE-2021-44228-log4Shell | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -138,9 +138,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211212T14:05:28Z | Null | https://github.com/AleksanderZawisza/Fuzzy-Boat | 0 | 0| 
 | 20211212T14:03:06Z | AFLTeam Collaborative Parallel Fuzzing | https://github.com/MelbourneFuzzingHub/aflteam | 12 | 2| 
-| 20211212T14:00:33Z | 批量检测log4j漏洞，主要还是批量fuzzz 头 | https://github.com/test502git/log4j-fuzz-head-poc | 57 | 21| 
-| 20211212T13:57:42Z | Null | https://github.com/AleksanderZawisza/Fuzzy-Boat | 0 | 0| 
+| 20211212T14:00:33Z | 批量检测log4j漏洞，主要还是批量fuzzz 头 | https://github.com/test502git/log4j-fuzz-head-poc | 57 | 22| 
 | 20211212T13:47:24Z | 开源、轻量、快速、跨平台 的红队(redteam)外网打点扫描器，功能 端口扫描(port scan) 指纹识别(fingerprint) nday检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | 339 | 45| 
 | 20211212T13:35:32Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211212T13:31:55Z | Null | https://github.com/OmniaFares/Project_Formation_Using_FuzzyLogic | 0 | 0| 
