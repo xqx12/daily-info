@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211212T13:36:57Z | Standalone detector/mitigator for the Log4J JNDI exploit, with configurable options for console logging, player messaging, and command execution on detection. | https://github.com/SuperslowJelly/JNDIDetector | 0 | 0| 
 | 20211212T13:36:05Z | 😎 Exploiting utility for Roblox. | https://github.com/catboy08/comet | 0 | 0| 
 | 20211212T13:29:12Z | Slightly automated bufferoverflow exploitation script made to be easy during OSCP | https://github.com/the-robot/autobuf | 0 | 0| 
 | 20211212T13:28:32Z | Null | https://github.com/NotOnTop/Exploits_Public | 0 | 0| 
@@ -94,7 +95,6 @@
 | 20211212T13:23:12Z | Sample log4j shell exploit | https://github.com/kali-dass/CVE-2021-44228-log4Shell | 0 | 0| 
 | 20211212T13:22:49Z | IP addresses exploiting recent log4j2 vulnerability CVE-2021-44228  | https://github.com/Malwar3Ninja/Exploitation-of-Log4j2-CVE-2021-44228 | 0 | 0| 
 | 20211212T13:18:56Z | Roblox Exploit Scripts by simulatorwinner#5864 | https://github.com/simulatorwinner/scripts | 1 | 0| 
-| 20211212T13:10:10Z | CVE-2021-42287/CVE-2021-42278 Scanner & Exploiter. | https://github.com/cube0x0/noPac | 317 | 66| 
 
 
 # backdoor on Github 推荐
