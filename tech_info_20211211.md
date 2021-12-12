@@ -79,7 +79,6 @@
 | 20211211T12:46:41Z | Monster is a symbolic execution engine for 64-bit RISC-U code | https://github.com/cksystemsgroup/monster | 7 | 3| 
 | 20211211T08:16:41Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2588 | 381| 
 | 20211211T07:27:56Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 19 | 12| 
-| 20211211T02:52:33Z | A tool for incremental symbolic execution | https://github.com/FenseTool/fense | 0 | 0| 
 
 
 # big4 on Github 推荐
