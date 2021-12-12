@@ -26,16 +26,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211212T14:06:44Z | CVE-2021-44228 | On December 5, 2021, Apache identified a vulnerability (later identified as CVE-2021-44228) in their widely used Log4j logging service. The vulnerability, also known as Log4shell, enables attackers to gain full control of affected servers by allowing unauthenticated remote code execution if the user is running an application utilizing the Java logging library. Log4j is heavily integrated into a broad set of devops frameworks, enterprise IT systems, and vendor software and cloud products. | https://github.com/sud0x00/log4j---CVE-2021-44228 | | 
+| 20211212T14:06:13Z | CVE-2021-44228 | Remote Code Injection In Log4j | https://github.com/jas502n/Log4j2-CVE-2021-44228 | | 
 | 20211212T14:03:46Z | cve-2021-44228 | Null | https://github.com/lohanichaten/log4j-cve-2021-44228 | | 
 | 20211212T13:58:57Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
-| 20211212T13:51:43Z | CVE-2021-44228 | Remote Code Injection In Log4j | https://github.com/jas502n/Log4j2-CVE-2021-44228 | | 
 | 20211212T13:25:30Z | CVE-2021-44228 | Null | https://github.com/pravin-pp/log4j2-CVE-2021-44228 | | 
 | 20211212T13:23:12Z | CVE-2021-44228 | Sample log4j shell exploit | https://github.com/kali-dass/CVE-2021-44228-log4Shell | | 
 | 20211212T13:22:49Z | CVE-2021-44228 | IP addresses exploiting recent log4j2 vulnerability CVE-2021-44228  | https://github.com/Malwar3Ninja/Exploitation-of-Log4j2-CVE-2021-44228 | | 
 | 20211212T13:04:02Z | CVE-2021-44228 | Abuse Log4J CVE-2021-44228 to patch CVE-2021-44228 in vulnerable Minecraft game sessions to prevent exploitation in the session :)  | https://github.com/0-x-2-2/CVE-2021-44228 | | 
 | 20211212T13:00:40Z | CVE-2021-44228 | CVE-2021-44228 DFIR Notes | https://github.com/Azeemering/CVE-2021-44228-DFIR-Notes | | 
 | 20211212T12:17:41Z | CVE-2021-20837 | XMLRPC  - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | | 
-| 20211212T11:35:58Z | CVE-2021-44228 | An awesome curated list of repos for CVE-2021-44228.     ``Apache Log4j 2`` | https://github.com/RrUZi/Awesome-CVE-2021-44228 | | 
 
 
 # klee on Github 推荐
@@ -55,9 +55,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211212T14:07:14Z | Slightly automated bufferoverflow exploitation script made to be used during OSCP | https://github.com/the-robot/autobuf | 0 | 0| 
 | 20211212T14:05:56Z | A peer 2 peer approach to increase price stability and to reduce price manipulation by exploiting non-fundamentals-based volatility | https://github.com/distributed-ledger-technology/vofarm-deno-part | 0 | 0| 
 | 20211212T14:03:02Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 37 | 20| 
-| 20211212T13:53:36Z | Slightly automated bufferoverflow exploitation script made to be easy during OSCP | https://github.com/the-robot/autobuf | 0 | 0| 
 | 20211212T13:52:26Z | Null | https://github.com/joeengo/exploit-update-checker-py | 0 | 0| 
 | 20211212T13:46:32Z | 😎 Exploiting utility for Roblox. | https://github.com/catboy08/comet | 0 | 0| 
 | 20211212T13:45:10Z | Standalone Sponge 7 plugin to act as a detector/mitigator for the Log4J JNDI exploit, with configurable options for console logging, player messaging, and command execution on detection. | https://github.com/SuperslowJelly/JNDIDetector | 0 | 0| 
@@ -96,7 +96,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211212T14:05:28Z | Null | https://github.com/AleksanderZawisza/Fuzzy-Boat | 0 | 0| 
+| 20211212T14:07:20Z | Null | https://github.com/AleksanderZawisza/Fuzzy-Boat | 0 | 0| 
 | 20211212T14:03:06Z | AFLTeam Collaborative Parallel Fuzzing | https://github.com/MelbourneFuzzingHub/aflteam | 12 | 2| 
 | 20211212T14:00:33Z | 批量检测log4j漏洞，主要还是批量fuzzz 头 | https://github.com/test502git/log4j-fuzz-head-poc | 57 | 22| 
 | 20211212T13:47:24Z | 开源、轻量、快速、跨平台 的红队(redteam)外网打点扫描器，功能 端口扫描(port scan) 指纹识别(fingerprint) nday检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | 339 | 45| 
