@@ -85,7 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211212T01:30:00Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 113 | 7| 
+| 20211212T01:31:44Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 114 | 7| 
 | 20211212T01:22:13Z | DDOS Archive  by RootSec (Scanners, BotNets (Mirai and QBot Premium & Normal and more), Exploits, Methods, Sniffers) | https://github.com/R00tS3c/DDOS-RootSec | 122 | 78| 
 | 20211212T01:03:18Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 37 | 20| 
 | 20211212T00:58:36Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 293 | 616| 
