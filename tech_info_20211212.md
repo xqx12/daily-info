@@ -26,8 +26,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211212T14:14:40Z | CVE-2021-44228 | Remote Code Injection In Log4j | https://github.com/jas502n/Log4j2-CVE-2021-44228 | | 
+| 20211212T14:08:35Z | CVE-2021-44228 | On December 5, 2021, Apache identified a vulnerability (later identified as CVE-2021-44228) in their widely used Log4j logging service. The vulnerability, also known as Log4shell, enables attackers to gain full control of affected servers by allowing unauthenticated remote code execution if the user is running an application utilizing the Java logging library. Log4j is heavily integrated into a broad set of devops frameworks, enterprise IT systems, and vendor software and cloud products. | https://github.com/sud0x00/log4j-CVE-2021-44228 | | 
 | 20211212T14:06:44Z | CVE-2021-44228 | On December 5, 2021, Apache identified a vulnerability (later identified as CVE-2021-44228) in their widely used Log4j logging service. The vulnerability, also known as Log4shell, enables attackers to gain full control of affected servers by allowing unauthenticated remote code execution if the user is running an application utilizing the Java logging library. Log4j is heavily integrated into a broad set of devops frameworks, enterprise IT systems, and vendor software and cloud products. | https://github.com/sud0x00/log4j---CVE-2021-44228 | | 
-| 20211212T14:06:13Z | CVE-2021-44228 | Remote Code Injection In Log4j | https://github.com/jas502n/Log4j2-CVE-2021-44228 | | 
 | 20211212T14:03:46Z | cve-2021-44228 | Null | https://github.com/lohanichaten/log4j-cve-2021-44228 | | 
 | 20211212T13:58:57Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211212T13:25:30Z | CVE-2021-44228 | Null | https://github.com/pravin-pp/log4j2-CVE-2021-44228 | | 
@@ -35,7 +36,6 @@
 | 20211212T13:22:49Z | CVE-2021-44228 | IP addresses exploiting recent log4j2 vulnerability CVE-2021-44228  | https://github.com/Malwar3Ninja/Exploitation-of-Log4j2-CVE-2021-44228 | | 
 | 20211212T13:04:02Z | CVE-2021-44228 | Abuse Log4J CVE-2021-44228 to patch CVE-2021-44228 in vulnerable Minecraft game sessions to prevent exploitation in the session :)  | https://github.com/0-x-2-2/CVE-2021-44228 | | 
 | 20211212T13:00:40Z | CVE-2021-44228 | CVE-2021-44228 DFIR Notes | https://github.com/Azeemering/CVE-2021-44228-DFIR-Notes | | 
-| 20211212T12:17:41Z | CVE-2021-20837 | XMLRPC  - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | | 
 
 
 # klee on Github 推荐
@@ -55,16 +55,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211212T14:15:33Z | 😎 Exploiting utility for Roblox. | https://github.com/catboy08/comet | 0 | 0| 
+| 20211212T14:12:46Z | Checks Minecraft, MultiMC, Lunar and Badlion logs folder to see if you%ve been affected by the exploit! | https://github.com/Koupah/MC-Log4J-Exploit-Checker | 11 | 0| 
 | 20211212T14:07:14Z | Slightly automated bufferoverflow exploitation script made to be used during OSCP | https://github.com/the-robot/autobuf | 0 | 0| 
 | 20211212T14:05:56Z | A peer 2 peer approach to increase price stability and to reduce price manipulation by exploiting non-fundamentals-based volatility | https://github.com/distributed-ledger-technology/vofarm-deno-part | 0 | 0| 
 | 20211212T14:03:02Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 37 | 20| 
 | 20211212T13:52:26Z | Null | https://github.com/joeengo/exploit-update-checker-py | 0 | 0| 
-| 20211212T13:46:32Z | 😎 Exploiting utility for Roblox. | https://github.com/catboy08/comet | 0 | 0| 
 | 20211212T13:45:10Z | Standalone Sponge 7 plugin to act as a detector/mitigator for the Log4J JNDI exploit, with configurable options for console logging, player messaging, and command execution on detection. | https://github.com/SuperslowJelly/JNDIDetector | 0 | 0| 
 | 20211212T13:44:25Z | Null | https://github.com/proflamyt/BinaryExploitation | 0 | 0| 
 | 20211212T13:39:06Z | DDOS Archive  by RootSec (Scanners, BotNets (Mirai and QBot Premium & Normal and more), Exploits, Methods, Sniffers) | https://github.com/R00tS3c/DDOS-RootSec | 122 | 78| 
 | 20211212T13:28:32Z | Null | https://github.com/NotOnTop/Exploits_Public | 0 | 0| 
-| 20211212T13:25:50Z | Checks Minecraft, MultiMC, Lunar and Badlion logs folder to see if you%ve been affected by the exploit! | https://github.com/Koupah/MC-Log4J-Exploit-Checker | 11 | 0| 
 
 
 # backdoor on Github 推荐
@@ -96,6 +96,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211212T14:08:24Z | a fuzzy and very fast search for language names with typos | https://github.com/Lambda-Logan/fuzzy_lang_search | 0 | 0| 
 | 20211212T14:07:20Z | Null | https://github.com/AleksanderZawisza/Fuzzy-Boat | 0 | 0| 
 | 20211212T14:03:06Z | AFLTeam Collaborative Parallel Fuzzing | https://github.com/MelbourneFuzzingHub/aflteam | 12 | 2| 
 | 20211212T14:00:33Z | 批量检测log4j漏洞，主要还是批量fuzzz 头 | https://github.com/test502git/log4j-fuzz-head-poc | 57 | 22| 
@@ -105,7 +106,6 @@
 | 20211212T13:18:13Z | Qemu Fuzzer.针对Qemu模拟设备的模糊测试工具,主要思路是Host生成种子Data,然后传递给Guest中转程序,由中转程序访问MMIO,以达到和模拟设备的交互,不同于qtest自带的fuzzer. | https://github.com/lcatro/qemu-fuzzer | 2 | 0| 
 | 20211212T12:39:51Z | Leetcode solutions. | https://github.com/chaitanyks/fuzzy-disco | 1 | 0| 
 | 20211212T12:17:04Z | Null | https://github.com/rpatton88/fuzzy-octo-carnival | 0 | 0| 
-| 20211212T12:15:16Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 37 | 12| 
 
 
 
