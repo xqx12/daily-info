@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211212T13:59:38Z | cve-2021-44228 | Null | https://github.com/lohanichaten/log4j-cve-2021-44228 | | 
+| 20211212T13:58:57Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
+| 20211212T13:51:43Z | CVE-2021-44228 | Remote Code Injection In Log4j | https://github.com/jas502n/Log4j2-CVE-2021-44228 | | 
 | 20211212T13:25:30Z | CVE-2021-44228 | Null | https://github.com/pravin-pp/log4j2-CVE-2021-44228 | | 
 | 20211212T13:23:12Z | CVE-2021-44228 | Sample log4j shell exploit | https://github.com/kali-dass/CVE-2021-44228-log4Shell | | 
 | 20211212T13:22:49Z | CVE-2021-44228 | IP addresses exploiting recent log4j2 vulnerability CVE-2021-44228  | https://github.com/Malwar3Ninja/Exploitation-of-Log4j2-CVE-2021-44228 | | 
-| 20211212T13:16:04Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
-| 20211212T13:10:30Z | CVE-2021-44228 | Remote Code Injection In Log4j | https://github.com/jas502n/Log4j2-CVE-2021-44228 | | 
 | 20211212T13:04:02Z | CVE-2021-44228 | Abuse Log4J CVE-2021-44228 to patch CVE-2021-44228 in vulnerable Minecraft game sessions to prevent exploitation in the session :)  | https://github.com/0-x-2-2/CVE-2021-44228 | | 
 | 20211212T13:00:40Z | CVE-2021-44228 | CVE-2021-44228 DFIR Notes | https://github.com/Azeemering/CVE-2021-44228-DFIR-Notes | | 
 | 20211212T12:17:41Z | CVE-2021-20837 | XMLRPC  - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | | 
 | 20211212T11:35:58Z | CVE-2021-44228 | An awesome curated list of repos for CVE-2021-44228.     ``Apache Log4j 2`` | https://github.com/RrUZi/Awesome-CVE-2021-44228 | | 
-| 20211212T11:34:53Z | cve-2021-44228 | CVE-2021-44228 Minecraft PoC | https://github.com/myyxl/cve-2021-44228-minecraft-poc | | 
 
 
 # klee on Github 推荐
@@ -85,16 +85,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211212T13:36:57Z | Standalone detector/mitigator for the Log4J JNDI exploit, with configurable options for console logging, player messaging, and command execution on detection. | https://github.com/SuperslowJelly/JNDIDetector | 0 | 0| 
-| 20211212T13:36:05Z | 😎 Exploiting utility for Roblox. | https://github.com/catboy08/comet | 0 | 0| 
-| 20211212T13:29:12Z | Slightly automated bufferoverflow exploitation script made to be easy during OSCP | https://github.com/the-robot/autobuf | 0 | 0| 
+| 20211212T14:02:31Z | A peer 2 peer approach to increase price stability and to reduce price manipulation by exploiting non-fundamentals-based volatility | https://github.com/distributed-ledger-technology/vofarm-deno-part | 0 | 0| 
+| 20211212T13:53:36Z | Slightly automated bufferoverflow exploitation script made to be easy during OSCP | https://github.com/the-robot/autobuf | 0 | 0| 
+| 20211212T13:52:26Z | Null | https://github.com/joeengo/exploit-update-checker-py | 0 | 0| 
+| 20211212T13:46:32Z | 😎 Exploiting utility for Roblox. | https://github.com/catboy08/comet | 0 | 0| 
+| 20211212T13:45:10Z | Standalone Sponge 7 plugin to act as a detector/mitigator for the Log4J JNDI exploit, with configurable options for console logging, player messaging, and command execution on detection. | https://github.com/SuperslowJelly/JNDIDetector | 0 | 0| 
+| 20211212T13:44:25Z | Null | https://github.com/proflamyt/BinaryExploitation | 0 | 0| 
+| 20211212T13:39:06Z | DDOS Archive  by RootSec (Scanners, BotNets (Mirai and QBot Premium & Normal and more), Exploits, Methods, Sniffers) | https://github.com/R00tS3c/DDOS-RootSec | 122 | 78| 
 | 20211212T13:28:32Z | Null | https://github.com/NotOnTop/Exploits_Public | 0 | 0| 
-| 20211212T13:28:05Z | A peer 2 peer approach to increase price stability and to reduce price manipulation by exploiting non-fundamentals-based volatility | https://github.com/distributed-ledger-technology/vofarm-deno-part | 0 | 0| 
 | 20211212T13:25:50Z | Checks Minecraft, MultiMC, Lunar and Badlion logs folder to see if you%ve been affected by the exploit! | https://github.com/Koupah/MC-Log4J-Exploit-Checker | 11 | 0| 
-| 20211212T13:25:18Z | Null | https://github.com/joeengo/exploit-update-checker-py | 0 | 0| 
 | 20211212T13:23:12Z | Sample log4j shell exploit | https://github.com/kali-dass/CVE-2021-44228-log4Shell | 0 | 0| 
-| 20211212T13:22:49Z | IP addresses exploiting recent log4j2 vulnerability CVE-2021-44228  | https://github.com/Malwar3Ninja/Exploitation-of-Log4j2-CVE-2021-44228 | 0 | 0| 
-| 20211212T13:18:56Z | Roblox Exploit Scripts by simulatorwinner#5864 | https://github.com/simulatorwinner/scripts | 1 | 0| 
 
 
 # backdoor on Github 推荐
@@ -138,16 +138,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211212T14:03:06Z | AFLTeam Collaborative Parallel Fuzzing | https://github.com/MelbourneFuzzingHub/aflteam | 12 | 2| 
+| 20211212T14:00:33Z | 批量检测log4j漏洞，主要还是批量fuzzz 头 | https://github.com/test502git/log4j-fuzz-head-poc | 57 | 21| 
+| 20211212T13:57:42Z | Null | https://github.com/AleksanderZawisza/Fuzzy-Boat | 0 | 0| 
+| 20211212T13:47:24Z | 开源、轻量、快速、跨平台 的红队(redteam)外网打点扫描器，功能 端口扫描(port scan) 指纹识别(fingerprint) nday检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | 339 | 45| 
 | 20211212T13:35:32Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211212T13:31:55Z | Null | https://github.com/OmniaFares/Project_Formation_Using_FuzzyLogic | 0 | 0| 
-| 20211212T13:23:12Z | 批量检测log4j漏洞，主要还是批量fuzzz 头 | https://github.com/test502git/log4j-fuzz-head-poc | 56 | 21| 
-| 20211212T13:19:19Z | AFLTeam Collaborative Parallel Fuzzing | https://github.com/MelbourneFuzzingHub/aflteam | 11 | 2| 
 | 20211212T13:18:13Z | Qemu Fuzzer.针对Qemu模拟设备的模糊测试工具,主要思路是Host生成种子Data,然后传递给Guest中转程序,由中转程序访问MMIO,以达到和模拟设备的交互,不同于qtest自带的fuzzer. | https://github.com/lcatro/qemu-fuzzer | 2 | 0| 
-| 20211212T13:15:05Z | Null | https://github.com/AleksanderZawisza/Fuzzy-Boat | 0 | 0| 
 | 20211212T12:39:51Z | Leetcode solutions. | https://github.com/chaitanyks/fuzzy-disco | 1 | 0| 
 | 20211212T12:17:04Z | Null | https://github.com/rpatton88/fuzzy-octo-carnival | 0 | 0| 
 | 20211212T12:15:16Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 37 | 12| 
-| 20211212T11:36:12Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 
 
 
