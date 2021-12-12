@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211212T02:55:10Z | CVE-2021-44228 | Null | https://github.com/RedDrip7/Log4Shell_related_attacks_IOCs_CVE-2021-44228 | | 
 | 20211212T02:52:23Z | CVE-2021-44228 | Apache Log4j 远程代码执行 | https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce | | 
 | 20211212T02:46:07Z | CVE-2021-44228 | 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - A trick to bypass words blocking patches | https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words | | 
 | 20211212T02:07:37Z | CVE-2021-44228 | Remote Code Injection In Log4j | https://github.com/jas502n/Log4j2-CVE-2021-44228 | | 
@@ -55,7 +56,6 @@
 | 20211211T22:16:52Z | CVE-2021-44228 | This enforces signatures for CVE-2021-44228 across all policies on a BIG-IP ASM device | https://github.com/irgoncalves/f5-waf-enforce-sig-CVE-2021-44228 | | 
 | 20211211T21:28:19Z | CVE-2021-44228 | List of company advisories log4j | https://github.com/leetxyz/CVE-2021-44228-Advisories | | 
 | 20211211T20:28:25Z | CVE-2021-44228 | Null | https://github.com/chilliwebs/CVE-2021-44228_Example | | 
-| 20211211T18:21:06Z | CVE-2021-44228 | Public IoCs about log4j CVE-2021-44228 | https://github.com/Sh0ckFR/log4j-CVE-2021-44228-Public-IoCs | | 
 
 
 # klee on Github 推荐
@@ -85,8 +85,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211212T02:47:36Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 120 | 8| 
-| 20211212T02:46:15Z | Null | https://github.com/Dmitriy-area51/Exploit | 3 | 0| 
+| 20211212T02:55:16Z | Null | https://github.com/Dmitriy-area51/Exploit | 3 | 0| 
+| 20211212T02:54:23Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 122 | 8| 
 | 20211212T02:14:36Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 4173 | 571| 
 | 20211212T02:03:04Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 37 | 20| 
 | 20211212T01:34:47Z | Network vulnerability exploitation library | https://github.com/sairson/NetworkExpLibrary | 13 | 4| 
