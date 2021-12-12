@@ -26,12 +26,12 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211212T13:06:30Z | CVE-2021-44228 | Remote Code Injection In Log4j | https://github.com/jas502n/Log4j2-CVE-2021-44228 | | 
 | 20211212T13:04:02Z | CVE-2021-44228 | Abuse Log4J CVE-2021-44228 to patch CVE-2021-44228 in vulnerable Minecraft game sessions to prevent exploitation in the session :)  | https://github.com/0-x-2-2/CVE-2021-44228 | | 
 | 20211212T13:03:40Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211212T13:00:40Z | CVE-2021-44228 | CVE-2021-44228 DFIR Notes | https://github.com/Azeemering/CVE-2021-44228-DFIR-Notes | | 
 | 20211212T13:00:38Z | CVE-2021-44228 | Null | https://github.com/pravin-pp/log4j2-CVE-2021-44228 | | 
 | 20211212T12:55:35Z | CVE-2021-44228 | Sample log4j shell exploit | https://github.com/kali-dass/CVE-2021-44228-log4Shell | | 
-| 20211212T12:46:37Z | CVE-2021-44228 | Remote Code Injection In Log4j | https://github.com/jas502n/Log4j2-CVE-2021-44228 | | 
 | 20211212T12:17:41Z | CVE-2021-20837 | XMLRPC  - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | | 
 | 20211212T11:35:58Z | CVE-2021-44228 | An awesome curated list of repos for CVE-2021-44228.     ``Apache Log4j 2`` | https://github.com/RrUZi/Awesome-CVE-2021-44228 | | 
 | 20211212T11:34:53Z | cve-2021-44228 | CVE-2021-44228 Minecraft PoC | https://github.com/myyxl/cve-2021-44228-minecraft-poc | | 
