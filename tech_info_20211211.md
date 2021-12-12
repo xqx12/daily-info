@@ -75,6 +75,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211211T18:40:27Z | Synthesizing black boxed library functions via symbolic execution and component based synthesis. | https://github.com/pokhym/binCynth | 0 | 0| 
 | 20211211T12:46:41Z | Monster is a symbolic execution engine for 64-bit RISC-U code | https://github.com/cksystemsgroup/monster | 7 | 3| 
 | 20211211T08:16:41Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2588 | 381| 
 | 20211211T07:27:56Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 19 | 12| 

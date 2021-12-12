@@ -85,8 +85,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211212T01:01:52Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 109 | 7| 
 | 20211212T00:58:36Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 293 | 616| 
-| 20211212T00:57:13Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 108 | 7| 
 | 20211212T00:54:26Z | SECMON is a web-based tool for the automation of infosec watching and vulnerability management with a web interface. | https://github.com/Guezone/SECMON | 123 | 29| 
 | 20211212T00:06:00Z | Codes from Hacking: The Art of Exploitation book. By Jon Erickson. | https://github.com/edupazzz/Hacking-The-Art-of-Exploitation-Book | 0 | 0| 
 | 20211212T00:03:50Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 37 | 20| 
@@ -115,6 +115,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211211T18:40:27Z | Synthesizing black boxed library functions via symbolic execution and component based synthesis. | https://github.com/pokhym/binCynth | 0 | 0| 
 | 20211211T12:46:41Z | Monster is a symbolic execution engine for 64-bit RISC-U code | https://github.com/cksystemsgroup/monster | 7 | 3| 
 | 20211211T08:16:41Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2588 | 381| 
 | 20211211T07:27:56Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 19 | 12| 
@@ -124,7 +125,6 @@
 | 20211210T16:40:34Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1930 | 403| 
 | 20211210T11:39:45Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 165 | 37| 
 | 20211210T10:41:18Z | Binsec/Rel is an extension of Binsec that implements relational symbolic execution for constant-time verification and secret-erasure at binary-level. | https://github.com/binsec/Rel | 25 | 1| 
-| 20211210T07:17:14Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 10 | 5| 
 
 
 # big4 on Github 推荐
