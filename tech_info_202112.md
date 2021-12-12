@@ -85,7 +85,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211212T13:08:46Z | CVE-2021-42287/CVE-2021-42278 Scanner & Exploiter. | https://github.com/cube0x0/noPac | 316 | 65| 
+| 20211212T13:09:55Z | Exploits for some pwn challenges on windows and linux .  | https://github.com/HadiMed/pwn | 0 | 0| 
+| 20211212T13:09:42Z | CVE-2021-42287/CVE-2021-42278 Scanner & Exploiter. | https://github.com/cube0x0/noPac | 316 | 66| 
 | 20211212T13:05:39Z | Checks Minecraft, MultiMC, Lunar and Badlion logs folder to see if you%ve been affected by the exploit! | https://github.com/Koupah/MC-Log4J-Exploit-Checker | 11 | 0| 
 | 20211212T13:04:02Z | Abuse Log4J CVE-2021-44228 to patch CVE-2021-44228 in vulnerable Minecraft game sessions to prevent exploitation in the session :)  | https://github.com/0-x-2-2/CVE-2021-44228 | 5 | 0| 
 | 20211212T13:03:01Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 37 | 20| 
@@ -94,7 +95,6 @@
 | 20211212T12:51:33Z | Slightly automated bufferoverflow exploitation script made to be easy during OSCP | https://github.com/the-robot/autobuf | 0 | 0| 
 | 20211212T12:38:16Z | Null | https://github.com/Jonathan-Elias/Exploits | 0 | 0| 
 | 20211212T12:28:52Z | catch log4j exploits in the wild? maybe if we%re lucky... . | https://github.com/entropyQueen/log4j_catcher | 9 | 2| 
-| 20211212T12:25:16Z | Exploits for some pwn challenges on windows and linux .  | https://github.com/HadiMed/pwn | 0 | 0| 
 
 
 # backdoor on Github 推荐
