@@ -138,6 +138,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211212T02:32:03Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2299 | 446| 
 | 20211212T01:20:33Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
 | 20211212T00:21:10Z | wtf is a distributed, code-coverage guided, customizable, cross-platform snapshot-based fuzzer designed for attacking user and / or kernel-mode targets running on Microsoft Windows. | https://github.com/0vercl0k/wtf | 751 | 54| 
 | 20211212T00:16:58Z | Fuzzy Clock in Rust | https://github.com/fuzzy-mode/fuzzy-clock-rust | 2 | 0| 
@@ -147,7 +148,6 @@
 | 20211211T22:47:04Z | Null | https://github.com/rafibu/fuzzy | 0 | 0| 
 | 20211211T22:38:16Z | Null | https://github.com/AleksanderZawisza/Fuzzy-Boat | 0 | 0| 
 | 20211211T22:33:49Z | Asynchronous fuzzy finder in vim9script | https://github.com/kohnish/vim9-fuzzy | 0 | 0| 
-| 20211211T22:29:35Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 7 | 0| 
 
 
 
