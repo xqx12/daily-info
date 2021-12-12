@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211212T01:39:21Z | CVE-2021-44228 | Apache Log4j 远程代码执行 | https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce | | 
+| 20211212T01:39:37Z | CVE-2021-44228 | Apache Log4j 远程代码执行 | https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce | | 
 | 20211212T01:36:05Z | CVE-2021-44228 | 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - A trick to bypass words blocking patches | https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words | | 
 | 20211212T00:51:58Z | CVE-2021-44228 | Detections for CVE-2021-44228 inside of nested binaries | https://github.com/darkarnium/CVE-2021-44228 | | 
 | 20211212T00:41:18Z | CVE-2021-44228 | Vulnerability scanner for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
@@ -85,16 +85,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211212T01:31:44Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 114 | 7| 
+| 20211212T01:34:47Z | Network vulnerability exploitation library | https://github.com/sairson/NetworkExpLibrary | 13 | 4| 
+| 20211212T01:34:29Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 294 | 617| 
+| 20211212T01:34:23Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 115 | 8| 
 | 20211212T01:22:13Z | DDOS Archive  by RootSec (Scanners, BotNets (Mirai and QBot Premium & Normal and more), Exploits, Methods, Sniffers) | https://github.com/R00tS3c/DDOS-RootSec | 122 | 78| 
 | 20211212T01:03:18Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 37 | 20| 
-| 20211212T00:58:36Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 293 | 616| 
 | 20211212T00:54:26Z | SECMON is a web-based tool for the automation of infosec watching and vulnerability management with a web interface. | https://github.com/Guezone/SECMON | 123 | 29| 
 | 20211212T00:06:00Z | Codes from Hacking: The Art of Exploitation book. By Jon Erickson. | https://github.com/edupazzz/Hacking-The-Art-of-Exploitation-Book | 0 | 0| 
 | 20211211T23:48:20Z | Checks Minecraft, MultiMC, Lunar and Badlion logs folder to see if you%ve been affected by the exploit! | https://github.com/Koupah/MC-Log4J-Exploit-Checker | 9 | 0| 
 | 20211211T23:28:34Z | This repository will feature my scripts, research and documentation on Pokémon engines, glitches and exploits. | https://github.com/RETIREglitch/Pokemon-Research | 11 | 5| 
 | 20211211T23:26:51Z | Null | https://github.com/saaramar/exploit_pwn_chgs_ubuntu_21.10 | 4 | 0| 
-| 20211211T23:25:45Z | Null | https://github.com/jwardsmith/Active-Directory-Exploitation | 4 | 2| 
 
 
 # backdoor on Github 推荐
