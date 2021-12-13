@@ -29,15 +29,15 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211213T14:09:22Z | CVE-2021-44228 | Null | https://github.com/LutziGoz/Log4Shell_Exploitation-Execution__CVE-2021-44228 | | 
+| 20211213T14:07:49Z | CVE-2021-44228 | Mass Check Vulnerable Log4j CVE-2021-44228 | https://github.com/justakazh/Log4j-CVE-2021-44228 | | 
+| 20211213T14:06:06Z | cve-2021-44228 | Log4j CVE-2021-44228 examples: Remote Code Execution (through LDAP, RMI, ...), Forced DNS queries, ... | https://github.com/manuel-alvarez-alvarez/log4j-cve-2021-44228 | | 
+| 20211213T14:05:05Z | CVE-2021-44228 | CVE-2021-44228 (Log4Shell) Proof of Concept | https://github.com/sunnyvale-it/CVE-2021-44228-PoC | | 
 | 20211213T14:01:35Z | CVE-2021-44228 | Detections for CVE-2021-44228 inside of nested binaries | https://github.com/darkarnium/CVE-2021-44228 | | 
-| 20211213T14:01:06Z | cve-2021-44228 | Log4j CVE-2021-44228 (Remote Code Execution sample) | https://github.com/manuel-alvarez-alvarez/log4j-cve-2021-44228 | | 
-| 20211213T14:00:25Z | CVE-2021-44228 | Null | https://github.com/LutziGoz/Log4Shell_Exploitation-Execution__CVE-2021-44228 | | 
 | 20211213T13:56:39Z | CVE-2021-44228 | Null | https://github.com/0xsyr0/CVE-2021-44228-log4j-log4shell-Security-Research-Summary | | 
 | 20211213T13:53:39Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
-| 20211213T13:50:16Z | CVE-2021-44228 | CVE-2021-44228 (Log4Shell) Proof of Concept | https://github.com/sunnyvale-it/CVE-2021-44228-PoC | | 
 | 20211213T13:46:36Z | CVE-2021-44228 | CVE-2021-44228 DFIR Notes | https://github.com/Azeemering/CVE-2021-44228-DFIR-Notes | | 
 | 20211213T13:45:18Z | cve-2021-44228 | This tool creates a custom signature set on F5 WAF and apply to policies in blocking mode | https://github.com/irgoncalves/f5-waf-quick-patch-cve-2021-44228 | | 
-| 20211213T13:42:23Z | CVE-2021-44228 | Mass Check Vulnerable Log4j CVE-2021-44228 | https://github.com/justakazh/Log4j-CVE-2021-44228 | | 
 | 20211213T13:40:32Z | CVE-2021-44228 | Null | https://github.com/zsolt-halo/CVE-2021-44228-Spring-Boot-Test-Service | | 
 
 
@@ -57,21 +57,22 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211213T14:01:24Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 324 | 45| 
+| 20211213T14:09:22Z | Null | https://github.com/LutziGoz/Log4Shell_Exploitation-Execution__CVE-2021-44228 | 1 | 0| 
+| 20211213T14:07:39Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 325 | 46| 
+| 20211213T14:05:09Z | Exploiting CVE-2021-42278 and CVE-2021-42287 to impersonate DA from standard domain user  | https://github.com/Ridter/noPac | 25 | 5| 
+| 20211213T14:04:40Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 37 | 20| 
 | 20211213T14:00:46Z | PasteBin Sebagai C&C Kondisi ini adalah step post-exploitation. Asumsi agent sudah terpasang di host. Buatlah script python dan taruh di git.   Lakukan Host Reconnaissance pada agent. Kumpulkan info mengenai Hostname, User yang login, dan Current Privileges   Upload informasi yang di dapat ke pastebin dengan sebelumnya di encode Base64. | https://github.com/doridoryan/Tugas-GLS-Host-Recon_PasteBin_2301851282_Kevin-Doryan-Govindo | 0 | 0| 
-| 20211213T14:00:25Z | Null | https://github.com/LutziGoz/Log4Shell_Exploitation-Execution__CVE-2021-44228 | 1 | 0| 
-| 20211213T13:54:16Z | Exploiting CVE-2021-42278 and CVE-2021-42287 to impersonate DA from standard domain user  | https://github.com/Ridter/noPac | 24 | 5| 
 | 20211213T13:52:15Z | Bukkit plugin that fixes log4j exploit and keep your player client safe! | https://github.com/jiongjionger/EastLandLog4jFixer | 0 | 0| 
 | 20211213T13:44:09Z | Null | https://github.com/LutziGoz/Log4Shell_Exploitation-Execution | 1 | 0| 
 | 20211213T13:39:04Z | Scanner for Log4j RCE CVE-2021-44228 | https://github.com/thecyberneh/Log4j-RCE-Exploiter | 0 | 1| 
 | 20211213T13:26:57Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 3835 | 1327| 
 | 20211213T13:25:22Z | Multi FW Support Exploit Host For PS4. | https://github.com/Harleythetech/MultiFW-RD-PS4 | 0 | 0| 
-| 20211213T13:05:09Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 37 | 20| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211213T14:10:39Z | A Simple Way To Create Metasploit Backdoor By N4XSEC2K11 | https://github.com/cyberghost-security/msfpayload | 0 | 0| 
 | 20211213T13:05:15Z | backdoor de acesso remoto (em desenvolvimento) | https://github.com/mednic/bckdoor | 0 | 0| 
 | 20211213T09:56:24Z | Null | https://github.com/Scorpio-m7/tomcat-backdoor | 5 | 1| 
 | 20211213T06:39:25Z | Test your understanding of the backdoor path criterion | https://github.com/CBDRH/shinyPaths | 0 | 0| 
@@ -95,6 +96,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211213T14:09:14Z | GitHub Action to run Echidna, the Ethereum smart contract fuzzer | https://github.com/elopez/echidna-action | 0 | 0| 
+| 20211213T14:07:21Z | Null | https://github.com/Clearymk/TypeScriptFuzzer | 0 | 1| 
 | 20211213T13:51:34Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
 | 20211213T13:43:19Z | Null | https://github.com/Manimani06/fuzzy-octo-engine | 0 | 0| 
 | 20211213T13:40:21Z | Null | https://github.com/f-atwi/fuzzy-neural-interactive-agent | 1 | 0| 
@@ -103,8 +106,6 @@
 | 20211213T13:14:54Z | Null | https://github.com/BOB4Drone/4D-Fuzzer | 0 | 0| 
 | 20211213T13:07:49Z | SADO Fuzzy Expert System | https://github.com/khunamir/sado-fuzzy | 0 | 0| 
 | 20211213T13:07:31Z | FuzzyGreenhouse is project for my master thesis on Faculty of Mathematics, University in Belgrade. FuzzyGreenhouse will implement fuzzy logic on process automation in greenhouse. | https://github.com/bozzano101/FuzzyGreenhouse | 0 | 0| 
-| 20211213T13:01:02Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 371 | 34| 
-| 20211213T12:57:22Z | Null | https://github.com/Clearymk/TypeScriptFuzzer | 0 | 1| 
 
 
 
