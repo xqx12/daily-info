@@ -85,7 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211213T01:39:53Z | Rapidly scan filesystems for .jars potentially vulnerable to Log4Shell (CVE-2021-44228) or %that Log4j JNDI exploit% by inspecting the class paths inside the .jar. | https://github.com/1lann/log4shelldetect | 12 | 0| 
+| 20211213T01:45:23Z | Rapidly scan filesystems for .jars potentially vulnerable to Log4Shell (CVE-2021-44228) or %that Log4j JNDI exploit% by inspecting the class paths inside the .jar. | https://github.com/1lann/log4shelldetect | 12 | 0| 
 | 20211213T01:38:44Z | Null | https://github.com/morphuslabs/get-log4j-exploit-payload | 0 | 0| 
 | 20211213T01:32:33Z | The Dependency Confusion vulnerability scanner and autoexploitation tool to help identifying and mitigating supply chain attacks | https://github.com/Xh4H/Loki | 3 | 0| 
 | 20211213T01:07:36Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 249 | 25| 
@@ -93,7 +93,7 @@
 | 20211213T00:54:25Z | Log4j RCE - (CVE-2021-44228) | https://github.com/momos1337/Log4j-RCE | 1 | 0| 
 | 20211213T00:48:32Z | proof of concept, why x11/xorg destroys almost entirely the purpose of sudo in linux  | https://github.com/H-A-L-I-S/x11-sudo-exploit | 0 | 0| 
 | 20211213T00:37:25Z | Merlin is a cross-platform post-exploitation HTTP/2 Command & Control  server and agent written in golang. | https://github.com/Ne0nd0g/merlin | 3512 | 574| 
-| 20211213T00:30:07Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 294 | 625| 
+| 20211213T00:30:07Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 294 | 626| 
 | 20211213T00:07:24Z | Minecraft Honeypot for Log4j exploit. CVE-2021-44228 Log4Shell LogJam | https://github.com/Adikso/minecraft-log4j-honeypot | 20 | 6| 
 
 
