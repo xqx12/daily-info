@@ -46,13 +46,13 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211213T14:09:22Z | CVE-2021-44228 | Null | https://github.com/LutziGoz/Log4Shell_Exploitation-Execution__CVE-2021-44228 | | 
+| 20211213T14:12:47Z | CVE-2021-44228 | Null | https://github.com/LutziGoz/Log4Shell_Exploitation-Execution__CVE-2021-44228 | | 
+| 20211213T14:12:02Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211213T14:07:49Z | CVE-2021-44228 | Mass Check Vulnerable Log4j CVE-2021-44228 | https://github.com/justakazh/Log4j-CVE-2021-44228 | | 
 | 20211213T14:06:06Z | cve-2021-44228 | Log4j CVE-2021-44228 examples: Remote Code Execution (through LDAP, RMI, ...), Forced DNS queries, ... | https://github.com/manuel-alvarez-alvarez/log4j-cve-2021-44228 | | 
 | 20211213T14:05:05Z | CVE-2021-44228 | CVE-2021-44228 (Log4Shell) Proof of Concept | https://github.com/sunnyvale-it/CVE-2021-44228-PoC | | 
 | 20211213T14:01:35Z | CVE-2021-44228 | Detections for CVE-2021-44228 inside of nested binaries | https://github.com/darkarnium/CVE-2021-44228 | | 
 | 20211213T13:56:39Z | CVE-2021-44228 | Null | https://github.com/0xsyr0/CVE-2021-44228-log4j-log4shell-Security-Research-Summary | | 
-| 20211213T13:53:39Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211213T13:46:36Z | CVE-2021-44228 | CVE-2021-44228 DFIR Notes | https://github.com/Azeemering/CVE-2021-44228-DFIR-Notes | | 
 | 20211213T13:45:18Z | cve-2021-44228 | This tool creates a custom signature set on F5 WAF and apply to policies in blocking mode | https://github.com/irgoncalves/f5-waf-quick-patch-cve-2021-44228 | | 
 | 20211213T13:40:32Z | CVE-2021-44228 | Null | https://github.com/zsolt-halo/CVE-2021-44228-Spring-Boot-Test-Service | | 
@@ -85,7 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211213T14:09:22Z | Null | https://github.com/LutziGoz/Log4Shell_Exploitation-Execution__CVE-2021-44228 | 1 | 0| 
+| 20211213T14:12:47Z | Null | https://github.com/LutziGoz/Log4Shell_Exploitation-Execution__CVE-2021-44228 | 1 | 0| 
 | 20211213T14:07:39Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 325 | 46| 
 | 20211213T14:05:09Z | Exploiting CVE-2021-42278 and CVE-2021-42287 to impersonate DA from standard domain user  | https://github.com/Ridter/noPac | 25 | 5| 
 | 20211213T14:04:40Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 37 | 20| 
