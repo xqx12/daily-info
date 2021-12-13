@@ -102,7 +102,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211212T23:55:19Z | Report draft for https://fuzzingworkshop.github.io/ | https://github.com/agroce/fuzzing22report | 0 | 0| 
 | 20211212T23:38:50Z | An API wrapper for fuzzysearch.net | https://github.com/Syfaro/fuzzysearch-rs | 0 | 0| 
 | 20211212T23:28:15Z | Null | https://github.com/joseffaghihi/Causal-fuzzy-CEVAE | 1 | 0| 
 | 20211212T23:16:53Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
@@ -112,6 +111,7 @@
 | 20211212T22:46:44Z | Null | https://github.com/quatros96/fuzzy-pendulum | 0 | 0| 
 | 20211212T22:07:32Z | Null | https://github.com/AleksanderZawisza/Fuzzy-Boat | 0 | 0| 
 | 20211212T21:45:09Z | Generic plugin based web application security fuzzing for anomalies by Slándáil Research Limited | https://github.com/maK-/scanomaly | 11 | 3| 
+| 20211212T21:24:34Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6898 | 1445| 
 
 
 
