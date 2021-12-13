@@ -28,6 +28,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211213T13:25:19Z | CVE-2021-44228 | Mass recognition tool for CVE-2021-44228 | https://github.com/VNYui/CVE-2021-44228 | | 
 | 20211213T13:24:47Z | CVE-2021-44228 | Null | https://github.com/zsolt-halo/CVE-2021-44228-Spring-Boot-Test-Service | | 
 | 20211213T13:08:03Z | cve-2021-44228 | Log4j CVE-2021-44228 (Re lte+CE sample) | https://github.com/manuel-alvarez-alvarez/log4j-cve-2021-44228 | | 
 | 20211213T13:07:35Z | CVE-2021-44228 | CVE-2021-44228 on Podman | https://github.com/ahmad4fifz/CVE-2021-44228-podman | | 
@@ -37,7 +38,6 @@
 | 20211213T12:07:07Z | CVE-2021-44228 | Null | https://github.com/helsecert/CVE-2021-44228 | | 
 | 20211213T11:55:27Z | CVE-2021-44228 | Null | https://github.com/0xsyr0/CVE-2021-44228-log4j-log4shell-Security-Research-Summary | | 
 | 20211213T11:43:48Z | CVE-2021-43798 | Grafana File-Read Vuln | https://github.com/JiuBanSec/Grafana-CVE-2021-43798 | | 
-| 20211213T11:35:53Z | CVE-2021-43798 | Grafana任意文件读取 | https://github.com/Awrrays/Grafana-CVE-2021-43798 | | 
 
 
 # klee on Github 推荐
@@ -56,16 +56,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211213T13:28:03Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 320 | 44| 
+| 20211213T13:26:57Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 3835 | 1327| 
+| 20211213T13:25:22Z | Multi FW Support Exploit Host For PS4. | https://github.com/Harleythetech/MultiFW-RD-PS4 | 0 | 0| 
 | 20211213T13:22:45Z | Bukkit plugin that fixes log4j exploit and keep your player client safe! | https://github.com/jiongjionger/EastLandLog4jFixer | 0 | 0| 
-| 20211213T13:21:22Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 319 | 44| 
-| 20211213T13:18:27Z | Multi FW Support Exploit Host For PS4. | https://github.com/Harleythetech/MultiFW-RD-PS4 | 0 | 0| 
 | 20211213T13:05:09Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 37 | 20| 
 | 20211213T13:03:07Z | A peer 2 peer approach to increase price stability and to reduce price manipulation by exploiting non-fundamentals-based volatility | https://github.com/distributed-ledger-technology/vofarm-deno-part | 0 | 0| 
 | 20211213T12:57:46Z | This is a proof-of-concept exploit for Log4j RCE Unauthenticated (CVE-2021-44228). | https://github.com/pedrohavay/exploit-CVE-2021-44228 | 5 | 0| 
 | 20211213T12:54:20Z | Null | https://github.com/morphuslabs/get-log4j-exploit-payload | 2 | 0| 
 | 20211213T12:45:51Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 16| 
 | 20211213T12:36:50Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 256 | 78| 
-| 20211213T12:28:10Z | Drafts of exploits made for studying and consultation purposes | https://github.com/brerodrigues/exploit_drafts | 0 | 0| 
 
 
 # backdoor on Github 推荐
