@@ -17,6 +17,7 @@
 | 20211213 | Antivirus evasion by user mode unhooking on Windows 10 | http://rp.os3.nl/2020-2021/p68/report.pdf| 
 | 20211213 | log4j2 JNDI 注入漏洞的复现和分析 | https://sec.today/pulses/237ee519-ac43-4541-88b5-8ce43f7602a9/| 
 | 20211213 | log4j2 JNDI 注入漏洞的复现和分析 | https://lorexxar.cn/2021/12/10/log4j2-jndi/| 
+| 20211213 | Windows 10 RCE：exp 就在链接中. | https://paper.seebug.org/1784/| 
 | 20211210 | Active Directory Exploitation Cheat Sheet | https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet| 
 | 20211210 | Apache Log4j 远程代码执行漏洞 PoC 已在 GitHub 公开 | https://github.com/tangxiaofeng7/apache-log4j-poc| 
 | 20211210 | Why IoT Security Matters | http://research.nccgroup.com/2021/12/09/why-iot-security-matters/| 
@@ -25,7 +26,6 @@
 | 20211210 | Java 日志框架 Apache Log4j2 被发现高危 RCE 漏洞 | https://mp.weixin.qq.com/s/AuBchaUvFw2pisVw6rNX5A| 
 | 20211210 | Microsoft Excel CVE-2021-28449 漏洞分析，该漏洞可以被攻击者利用生成一份微软签名的恶意钓鱼文档，从而加载任意代码 | http://outflank.nl/blog/2021/12/09/a-phishing-document-signed-by-microsoft/| 
 | 20211210 | StrongPity 攻击组织在 Notepad++ 安装包中嵌入恶意代码 | https://blog.minerva-labs.com/a-new-strongpity-variant-hides-behind-notepad-installation?utm_source=reddit| 
-| 20211210 | Pwn2Own Vancouver 2021 比赛中 Chrome CVE-2021-21220 漏洞的分析 Part 2 | https://www.zerodayinitiative.com/blog/2021/12/8/understanding-the-root-cause-of-cve-2021-21220-a-chrome-bug-from-pwn2own-2021| 
 
 
 # 安全维基 推荐
@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211213T13:25:19Z | CVE-2021-44228 | Mass recognition tool for CVE-2021-44228 | https://github.com/VNYui/CVE-2021-44228 | | 
+| 20211213T13:31:26Z | CVE-2021-44228 | Mass recognition tool for CVE-2021-44228 | https://github.com/VNYui/CVE-2021-44228 | | 
+| 20211213T13:31:00Z | CVE-2021-44228 | Mass Check Vulnerable Log4j CVE-2021-44228 | https://github.com/justakazh/Log4j-CVE-2021-44228 | | 
+| 20211213T13:30:03Z | CVE-2021-44228 | CVE-2021-44228 (Log4Shell) Proof of Concept | https://github.com/sunnyvale-it/CVE-2021-44228-PoC | | 
+| 20211213T13:29:39Z | CVE-2021-44228 | CVE-2021-44228 on Podman | https://github.com/ahmad4fifz/CVE-2021-44228-podman | | 
+| 20211213T13:28:31Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
+| 20211213T13:28:26Z | CVE-2021-44228 | Null | https://github.com/flxhaas/Scan-CVE-2021-44228 | | 
 | 20211213T13:24:47Z | CVE-2021-44228 | Null | https://github.com/zsolt-halo/CVE-2021-44228-Spring-Boot-Test-Service | | 
 | 20211213T13:08:03Z | cve-2021-44228 | Log4j CVE-2021-44228 (Re lte+CE sample) | https://github.com/manuel-alvarez-alvarez/log4j-cve-2021-44228 | | 
-| 20211213T13:07:35Z | CVE-2021-44228 | CVE-2021-44228 on Podman | https://github.com/ahmad4fifz/CVE-2021-44228-podman | | 
-| 20211213T12:59:52Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211213T12:57:46Z | CVE-2021-44228 | This is a proof-of-concept exploit for Log4j RCE Unauthenticated (CVE-2021-44228). | https://github.com/pedrohavay/exploit-CVE-2021-44228 | | 
 | 20211213T12:49:13Z | CVE-2021-44228 | Null | https://github.com/RedDrip7/Log4Shell_CVE-2021-44228_related_attacks_IOCs | | 
-| 20211213T12:07:07Z | CVE-2021-44228 | Null | https://github.com/helsecert/CVE-2021-44228 | | 
-| 20211213T11:55:27Z | CVE-2021-44228 | Null | https://github.com/0xsyr0/CVE-2021-44228-log4j-log4shell-Security-Research-Summary | | 
-| 20211213T11:43:48Z | CVE-2021-43798 | Grafana File-Read Vuln | https://github.com/JiuBanSec/Grafana-CVE-2021-43798 | | 
 
 
 # klee on Github 推荐
@@ -138,6 +138,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211213T13:32:51Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6898 | 1445| 
 | 20211213T13:21:01Z | Null | https://github.com/EmmaOkoh53/fuzzy-tribble | 0 | 0| 
 | 20211213T13:14:54Z | Null | https://github.com/BOB4Drone/4D-Fuzzer | 0 | 0| 
 | 20211213T13:07:49Z | SADO Fuzzy Expert System | https://github.com/khunamir/sado-fuzzy | 0 | 0| 
@@ -147,7 +148,6 @@
 | 20211213T12:57:22Z | Null | https://github.com/Clearymk/TypeScriptFuzzer | 0 | 1| 
 | 20211213T12:56:17Z | Null | https://github.com/TitamSeptian/makanan-fuzzy | 0 | 0| 
 | 20211213T12:40:01Z | Null | https://github.com/f-atwi/fuzzy-neural-interactive-agent | 1 | 0| 
-| 20211213T12:31:22Z | Null | https://github.com/polymorphicengine/Semi-Fuzzy-Quantifiers | 0 | 0| 
 
 
 
