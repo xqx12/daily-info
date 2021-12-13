@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211213T01:32:33Z | The Dependency Confusion vulnerability scanner and autoexploitation tool to help identifying and mitigating supply chain attacks | https://github.com/Xh4H/Loki | 3 | 0| 
 | 20211213T01:09:25Z | Null | https://github.com/morphuslabs/get-log4j-exploit-payload | 0 | 0| 
 | 20211213T01:07:36Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 249 | 25| 
 | 20211213T01:03:41Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 37 | 20| 
@@ -94,7 +95,6 @@
 | 20211213T00:30:07Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 294 | 625| 
 | 20211213T00:07:24Z | Minecraft Honeypot for Log4j exploit. CVE-2021-44228 Log4Shell LogJam | https://github.com/Adikso/minecraft-log4j-honeypot | 20 | 6| 
 | 20211212T23:49:03Z | pythonic pure python RCE exploit for CVE-2021-44228 log4shell | https://github.com/dotPY-hax/log4py | 0 | 0| 
-| 20211212T23:42:08Z | Test locally an exploit for Log4J2%s CVE-2021-44228 (Log4Shell) | https://github.com/sunnyvale-it/CVE-2021-44228-PoC | 0 | 0| 
 
 
 # backdoor on Github 推荐
