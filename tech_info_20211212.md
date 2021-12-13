@@ -62,10 +62,10 @@
 | 20211212T23:32:26Z | Null | https://github.com/NotOnTop/Exploits_Public | 0 | 0| 
 | 20211212T23:17:43Z | Herramienta para usar The Browser Exploitation Framework fuera de LAN, con diferentes opciones para hacking | https://github.com/tony23x/beef-for-cerberus | 3 | 1| 
 | 20211212T23:11:28Z | A list of fun things to do with DarkRP addons | https://github.com/OverlordAkise/darkrp-exploits | 5 | 1| 
-| 20211212T23:08:55Z | Null | https://github.com/morphuslabs/get-log4j-exploit-payload | 0 | 0| 
 | 20211212T23:04:09Z | Codes from Hacking: The Art of Exploitation book. By Jon Erickson. | https://github.com/edupazzz/Hacking-The-Art-of-Exploitation-Book | 0 | 0| 
 | 20211212T22:52:51Z | Store all exploit-db.com/google-hacking-database results then scrape google for every exploit-db query. Stores the Google results and IP information. (and eventually WHOIS) | https://github.com/frame-of-reference/ghdb | 0 | 0| 
 | 20211212T22:40:06Z | This project explores and models the game Flipcup defined by 3 parameters: number of checkpoints, rate of player 1, and rate of player 2. It investigates the probability of winning and the expected time of a game using several different methods which exploit the power of simulation and utilize Markov Chains to model the game. The final product both computes and visualizes chances of winning and expected time.  | https://github.com/Rjuhl/flipcup | 0 | 0| 
+| 20211212T22:38:58Z | catch log4j exploits in the wild? maybe if we%re lucky... . | https://github.com/entropyQueen/log4j_catcher | 9 | 2| 
 
 
 # backdoor on Github 推荐
