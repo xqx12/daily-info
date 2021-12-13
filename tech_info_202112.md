@@ -46,8 +46,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211213T02:06:40Z | CVE-2021-44228 | Apache Log4j 远程代码执行 | https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce | | 
+| 20211213T02:06:00Z | CVE-2021-44228 | Remote Code Injection In Log4j | https://github.com/jas502n/Log4j2-CVE-2021-44228 | | 
 | 20211213T02:05:36Z | CVE-2021-44228 | 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - A trick to bypass words blocking patches | https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words | | 
-| 20211213T02:04:36Z | CVE-2021-44228 | Remote Code Injection In Log4j | https://github.com/jas502n/Log4j2-CVE-2021-44228 | | 
 | 20211213T02:03:53Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211213T02:01:12Z | cve-2021-44228 | Null | https://github.com/qingtengyun/cve-2021-44228-qingteng-patch | | 
 | 20211213T01:56:34Z | CVE-2021-44228 | Abuse Log4J CVE-2021-44228 to patch CVE-2021-44228 in vulnerable Minecraft game sessions to prevent exploitation in the session :)  | https://github.com/0-x-2-2/CVE-2021-44228 | | 
@@ -55,7 +56,6 @@
 | 20211213T00:23:01Z | cve-2021-44228 | Some files for red team/blue team investigations into CVE-2021-44228 | https://github.com/kimobu/cve-2021-44228 | | 
 | 20211213T00:09:37Z | CVE-2021-44228 | Null | https://github.com/maxant/log4j2-CVE-2021-44228 | | 
 | 20211213T00:06:08Z | CVE-2021-44228 | Null | https://github.com/DiCanio/CVE-2021-44228-docker-example | | 
-| 20211213T00:01:22Z | cve-2021-44228 | Null | https://github.com/uint0/cve-2021-44228-helpers | | 
 
 
 # klee on Github 推荐
