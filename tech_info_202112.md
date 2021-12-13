@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211213T02:25:41Z | CVE-2021-44228 | Apache Log4j 远程代码执行 | https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce | | 
+| 20211213T02:27:57Z | CVE-2021-44228 | Apache Log4j 远程代码执行 | https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce | | 
 | 20211213T02:24:24Z | CVE-2021-44228 | 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - A trick to bypass words blocking patches | https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words | | 
 | 20211213T02:22:20Z | CVE-2021-44228 | This is a proof-of-concept exploit for Log4j RCE Unauthenticated (CVE-2021-44228). | https://github.com/pedrohavay/exploit-CVE-2021-44228 | | 
 | 20211213T02:14:42Z | CVE-2021-44228 | Remote Code Injection In Log4j | https://github.com/jas502n/Log4j2-CVE-2021-44228 | | 
@@ -85,9 +85,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211213T02:29:01Z | proof of concept, why x11/xorg destroys almost entirely the purpose of sudo in linux  | https://github.com/H-A-L-I-S/x11-sudo-exploit | 0 | 0| 
 | 20211213T02:22:57Z | Python library for interacting with in-memory C structures using data mined from binary DWARF debug info. | https://github.com/josconno/moria | 0 | 0| 
 | 20211213T02:22:20Z | This is a proof-of-concept exploit for Log4j RCE Unauthenticated (CVE-2021-44228). | https://github.com/pedrohavay/exploit-CVE-2021-44228 | 0 | 0| 
-| 20211213T02:18:25Z | proof of concept, why x11/xorg destroys almost entirely the purpose of sudo in linux  | https://github.com/H-A-L-I-S/x11-sudo-exploit | 0 | 0| 
 | 20211213T02:17:42Z | Merlin is a cross-platform post-exploitation HTTP/2 Command & Control  server and agent written in golang. | https://github.com/Ne0nd0g/merlin | 3513 | 574| 
 | 20211213T02:14:26Z | Exploiting could get you banned, use at your own risk. | https://github.com/19dullarfortnitecard/SoundSpaceGUI | 0 | 0| 
 | 20211213T02:14:03Z | 项目是根据LandGrey/SpringBootVulExploit清单编写，目的hvv期间快速利用漏洞、降低漏洞利用门槛。 | https://github.com/0x727/SpringBootExploit | 649 | 122| 
