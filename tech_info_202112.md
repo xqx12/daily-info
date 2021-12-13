@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211213T13:56:43Z | CVE-2021-44228 | Null | https://github.com/LutziGoz/Log4Shell_Exploitation-Execution__CVE-2021-44228 | | 
+| 20211213T13:59:13Z | CVE-2021-44228 | Null | https://github.com/LutziGoz/Log4Shell_Exploitation-Execution__CVE-2021-44228 | | 
 | 20211213T13:56:39Z | CVE-2021-44228 | Null | https://github.com/0xsyr0/CVE-2021-44228-log4j-log4shell-Security-Research-Summary | | 
 | 20211213T13:53:39Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211213T13:50:16Z | CVE-2021-44228 | CVE-2021-44228 (Log4Shell) Proof of Concept | https://github.com/sunnyvale-it/CVE-2021-44228-PoC | | 
