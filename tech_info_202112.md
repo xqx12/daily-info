@@ -85,8 +85,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211213T01:39:53Z | Rapidly scan filesystems for .jars potentially vulnerable to Log4Shell (CVE-2021-44228) or %that Log4j JNDI exploit% by inspecting the class paths inside the .jar. | https://github.com/1lann/log4shelldetect | 12 | 0| 
 | 20211213T01:38:44Z | Null | https://github.com/morphuslabs/get-log4j-exploit-payload | 0 | 0| 
-| 20211213T01:36:51Z | Rapidly scan filesystems for .jars potentially vulnerable to Log4Shell (CVE-2021-44228) or %that Log4j JNDI exploit% by inspecting the class paths inside the .jar. | https://github.com/1lann/log4shelldetect | 12 | 0| 
 | 20211213T01:32:33Z | The Dependency Confusion vulnerability scanner and autoexploitation tool to help identifying and mitigating supply chain attacks | https://github.com/Xh4H/Loki | 3 | 0| 
 | 20211213T01:07:36Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 249 | 25| 
 | 20211213T01:03:41Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 37 | 20| 
