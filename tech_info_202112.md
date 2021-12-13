@@ -16,6 +16,7 @@
 | 20211213 | Exploit samAccountName spoofing with Kerberos（CVE-2021-42278，CVE-2021-42287） | http://cloudbrothers.info/en/exploit-kerberos-samaccountname-spoofing/| 
 | 20211213 | Antivirus evasion by user mode unhooking on Windows 10 | http://rp.os3.nl/2020-2021/p68/report.pdf| 
 | 20211213 | log4j2 JNDI 注入漏洞的复现和分析 | https://sec.today/pulses/237ee519-ac43-4541-88b5-8ce43f7602a9/| 
+| 20211213 | log4j2 JNDI 注入漏洞的复现和分析 | https://lorexxar.cn/2021/12/10/log4j2-jndi/| 
 | 20211210 | Active Directory Exploitation Cheat Sheet | https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet| 
 | 20211210 | Apache Log4j 远程代码执行漏洞 PoC 已在 GitHub 公开 | https://github.com/tangxiaofeng7/apache-log4j-poc| 
 | 20211210 | Why IoT Security Matters | http://research.nccgroup.com/2021/12/09/why-iot-security-matters/| 
@@ -25,7 +26,6 @@
 | 20211210 | Microsoft Excel CVE-2021-28449 漏洞分析，该漏洞可以被攻击者利用生成一份微软签名的恶意钓鱼文档，从而加载任意代码 | http://outflank.nl/blog/2021/12/09/a-phishing-document-signed-by-microsoft/| 
 | 20211210 | StrongPity 攻击组织在 Notepad++ 安装包中嵌入恶意代码 | https://blog.minerva-labs.com/a-new-strongpity-variant-hides-behind-notepad-installation?utm_source=reddit| 
 | 20211210 | Pwn2Own Vancouver 2021 比赛中 Chrome CVE-2021-21220 漏洞的分析 Part 2 | https://www.zerodayinitiative.com/blog/2021/12/8/understanding-the-root-cause-of-cve-2021-21220-a-chrome-bug-from-pwn2own-2021| 
-| 20211209 | 利用 ZoomEye 追踪Bitter APT团队恶意软件分析视频. | https://www.youtube.com/watch?v=dS6Pmpv40QQ&feature=youtu.be| 
 
 
 # 安全维基 推荐
@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211213T13:03:07Z | A peer 2 peer approach to increase price stability and to reduce price manipulation by exploiting non-fundamentals-based volatility | https://github.com/distributed-ledger-technology/vofarm-deno-part | 0 | 0| 
 | 20211213T12:57:46Z | This is a proof-of-concept exploit for Log4j RCE Unauthenticated (CVE-2021-44228). | https://github.com/pedrohavay/exploit-CVE-2021-44228 | 5 | 0| 
 | 20211213T12:54:20Z | Null | https://github.com/morphuslabs/get-log4j-exploit-payload | 2 | 0| 
 | 20211213T12:53:13Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 313 | 43| 
@@ -94,13 +95,12 @@
 | 20211213T12:25:11Z | Python tools, to facilitate the exploitation of servers. | https://github.com/Maarckz/PyTools | 0 | 0| 
 | 20211213T12:23:38Z | shitty wrd exploit but undetected | https://github.com/void0yt/Ether_v1 | 0 | 0| 
 | 20211213T12:21:06Z | Exploiting CVE-2021-42278 and CVE-2021-42287 to impersonate DA from standard domain user  | https://github.com/Ridter/noPac | 22 | 4| 
-| 20211213T12:07:23Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 37 | 20| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211213T13:01:14Z | backdoor de acesso remoto (em desenvolvimento) | https://github.com/mednic/bckdoor | 0 | 0| 
+| 20211213T13:03:03Z | backdoor de acesso remoto (em desenvolvimento) | https://github.com/mednic/bckdoor | 0 | 0| 
 | 20211213T09:56:24Z | Null | https://github.com/Scorpio-m7/tomcat-backdoor | 5 | 1| 
 | 20211213T06:39:25Z | Test your understanding of the backdoor path criterion | https://github.com/CBDRH/shinyPaths | 0 | 0| 
 | 20211213T04:16:04Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 394 | 169| 
