@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211213T13:22:45Z | Bukkit plugin that fixes log4j exploit and keep your player client safe! | https://github.com/jiongjionger/EastLandLog4jFixer | 0 | 0| 
 | 20211213T13:21:22Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 319 | 44| 
 | 20211213T13:18:27Z | Multi FW Support Exploit Host For PS4. | https://github.com/Harleythetech/MultiFW-RD-PS4 | 0 | 0| 
 | 20211213T13:05:09Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 37 | 20| 
@@ -94,7 +95,6 @@
 | 20211213T12:45:51Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 16| 
 | 20211213T12:36:50Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 256 | 78| 
 | 20211213T12:28:10Z | Drafts of exploits made for studying and consultation purposes | https://github.com/brerodrigues/exploit_drafts | 0 | 0| 
-| 20211213T12:25:11Z | Python tools, to facilitate the exploitation of servers. | https://github.com/Maarckz/PyTools | 0 | 0| 
 
 
 # backdoor on Github 推荐
