@@ -46,10 +46,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211213T02:48:11Z | CVE-2021-44228 | Apache Log4j 远程代码执行 | https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce | | 
+| 20211213T02:55:34Z | CVE-2021-44228 | Apache Log4j 远程代码执行 | https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce | | 
+| 20211213T02:55:15Z | CVE-2021-44228 | This is a proof-of-concept exploit for Log4j RCE Unauthenticated (CVE-2021-44228). | https://github.com/pedrohavay/exploit-CVE-2021-44228 | | 
 | 20211213T02:46:07Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211213T02:42:11Z | CVE-2021-44228 | Remote Code Injection In Log4j | https://github.com/jas502n/Log4j2-CVE-2021-44228 | | 
-| 20211213T02:41:52Z | CVE-2021-44228 | This is a proof-of-concept exploit for Log4j RCE Unauthenticated (CVE-2021-44228). | https://github.com/pedrohavay/exploit-CVE-2021-44228 | | 
 | 20211213T02:39:51Z | CVE-2021-44228 | 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - A trick to bypass words blocking patches | https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words | | 
 | 20211213T02:38:17Z | CVE-2021-44228 | Checking for vulnerability CVE-2021-44228. | https://github.com/greymd/CVE-2021-44228 | | 
 | 20211213T02:01:12Z | cve-2021-44228 | Null | https://github.com/qingtengyun/cve-2021-44228-qingteng-patch | | 
@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211213T02:53:27Z | Ansible role to detect Log4Shell exploitation attempts  | https://github.com/r0mdau/ansible-role-log4shell-detector | 8 | 0| 
 | 20211213T02:45:28Z | proof of concept, why x11/xorg destroys almost entirely the purpose of sudo in linux  | https://github.com/H-A-L-I-S/x11-sudo-exploit | 0 | 0| 
 | 20211213T02:45:19Z | Null | https://github.com/morphuslabs/get-log4j-exploit-payload | 0 | 0| 
 | 20211213T02:43:47Z | A small Minecraft server to help players detect vulnerability to the Log4Shell exploit 🐚 | https://github.com/ejm/log4check | 0 | 0| 
@@ -94,7 +95,6 @@
 | 20211213T02:14:26Z | Exploiting could get you banned, use at your own risk. | https://github.com/19dullarfortnitecard/SoundSpaceGUI | 0 | 0| 
 | 20211213T02:14:03Z | 项目是根据LandGrey/SpringBootVulExploit清单编写，目的hvv期间快速利用漏洞、降低漏洞利用门槛。 | https://github.com/0x727/SpringBootExploit | 649 | 122| 
 | 20211213T02:05:31Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 37 | 20| 
-| 20211213T01:56:22Z | iReady is awful. It%s the worst education tool anyone could ever use. This program is designed to skip through iReady lessons/quizzes/time requirements or whatever. | https://github.com/cupiditys/iReady-Overload | 22 | 17| 
 
 
 # backdoor on Github 推荐
