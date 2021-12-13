@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211213T13:59:13Z | CVE-2021-44228 | Null | https://github.com/LutziGoz/Log4Shell_Exploitation-Execution__CVE-2021-44228 | | 
+| 20211213T14:01:35Z | CVE-2021-44228 | Detections for CVE-2021-44228 inside of nested binaries | https://github.com/darkarnium/CVE-2021-44228 | | 
+| 20211213T14:01:06Z | cve-2021-44228 | Log4j CVE-2021-44228 (Remote Code Execution sample) | https://github.com/manuel-alvarez-alvarez/log4j-cve-2021-44228 | | 
+| 20211213T14:00:25Z | CVE-2021-44228 | Null | https://github.com/LutziGoz/Log4Shell_Exploitation-Execution__CVE-2021-44228 | | 
 | 20211213T13:56:39Z | CVE-2021-44228 | Null | https://github.com/0xsyr0/CVE-2021-44228-log4j-log4shell-Security-Research-Summary | | 
 | 20211213T13:53:39Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211213T13:50:16Z | CVE-2021-44228 | CVE-2021-44228 (Log4Shell) Proof of Concept | https://github.com/sunnyvale-it/CVE-2021-44228-PoC | | 
 | 20211213T13:46:36Z | CVE-2021-44228 | CVE-2021-44228 DFIR Notes | https://github.com/Azeemering/CVE-2021-44228-DFIR-Notes | | 
 | 20211213T13:45:18Z | cve-2021-44228 | This tool creates a custom signature set on F5 WAF and apply to policies in blocking mode | https://github.com/irgoncalves/f5-waf-quick-patch-cve-2021-44228 | | 
 | 20211213T13:42:23Z | CVE-2021-44228 | Mass Check Vulnerable Log4j CVE-2021-44228 | https://github.com/justakazh/Log4j-CVE-2021-44228 | | 
-| 20211213T13:42:12Z | CVE-2021-44228 | Detections for CVE-2021-44228 inside of nested binaries | https://github.com/darkarnium/CVE-2021-44228 | | 
 | 20211213T13:40:32Z | CVE-2021-44228 | Null | https://github.com/zsolt-halo/CVE-2021-44228-Spring-Boot-Test-Service | | 
-| 20211213T13:39:10Z | CVE-2021-44228 | CVE-2021-44228 on Podman | https://github.com/ahmad4fifz/CVE-2021-44228-podman | | 
 
 
 # klee on Github 推荐
@@ -85,8 +85,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211213T13:55:47Z | Null | https://github.com/LutziGoz/Log4Shell_Exploitation-Execution__CVE-2021-44228 | 1 | 0| 
-| 20211213T13:55:08Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 322 | 45| 
+| 20211213T14:01:24Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 324 | 45| 
+| 20211213T14:00:46Z | PasteBin Sebagai C&C Kondisi ini adalah step post-exploitation. Asumsi agent sudah terpasang di host. Buatlah script python dan taruh di git.   Lakukan Host Reconnaissance pada agent. Kumpulkan info mengenai Hostname, User yang login, dan Current Privileges   Upload informasi yang di dapat ke pastebin dengan sebelumnya di encode Base64. | https://github.com/doridoryan/Tugas-GLS-Host-Recon_PasteBin_2301851282_Kevin-Doryan-Govindo | 0 | 0| 
+| 20211213T14:00:25Z | Null | https://github.com/LutziGoz/Log4Shell_Exploitation-Execution__CVE-2021-44228 | 1 | 0| 
 | 20211213T13:54:16Z | Exploiting CVE-2021-42278 and CVE-2021-42287 to impersonate DA from standard domain user  | https://github.com/Ridter/noPac | 24 | 5| 
 | 20211213T13:52:15Z | Bukkit plugin that fixes log4j exploit and keep your player client safe! | https://github.com/jiongjionger/EastLandLog4jFixer | 0 | 0| 
 | 20211213T13:44:09Z | Null | https://github.com/LutziGoz/Log4Shell_Exploitation-Execution | 1 | 0| 
@@ -94,7 +95,6 @@
 | 20211213T13:26:57Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 3835 | 1327| 
 | 20211213T13:25:22Z | Multi FW Support Exploit Host For PS4. | https://github.com/Harleythetech/MultiFW-RD-PS4 | 0 | 0| 
 | 20211213T13:05:09Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 37 | 20| 
-| 20211213T13:03:07Z | A peer 2 peer approach to increase price stability and to reduce price manipulation by exploiting non-fundamentals-based volatility | https://github.com/distributed-ledger-technology/vofarm-deno-part | 0 | 0| 
 
 
 # backdoor on Github 推荐
