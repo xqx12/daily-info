@@ -85,7 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211213T13:19:14Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 318 | 43| 
+| 20211213T13:21:22Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 319 | 44| 
 | 20211213T13:18:27Z | Multi FW Support Exploit Host For PS4. | https://github.com/Harleythetech/MultiFW-RD-PS4 | 0 | 0| 
 | 20211213T13:05:09Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 37 | 20| 
 | 20211213T13:03:07Z | A peer 2 peer approach to increase price stability and to reduce price manipulation by exploiting non-fundamentals-based volatility | https://github.com/distributed-ledger-technology/vofarm-deno-part | 0 | 0| 
