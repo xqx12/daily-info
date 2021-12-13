@@ -138,6 +138,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211213T02:51:25Z | Leetcode solutions. | https://github.com/chaitanyks/fuzzy-disco | 1 | 0| 
+| 20211213T02:50:16Z | An open-source software package for fuzzing autonomous driving systems in high-fidelity simulators | https://github.com/AIasd/ADFuzz | 0 | 1| 
 | 20211213T01:49:22Z | Report draft for https://fuzzingworkshop.github.io/ | https://github.com/agroce/fuzzing22report | 0 | 0| 
 | 20211213T01:01:52Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 318 | 44| 
 | 20211213T01:00:16Z | Fuzzing concurrent Go programs | https://github.com/system-pclub/GFuzz | 2 | 1| 
@@ -146,8 +148,6 @@
 | 20211212T23:38:50Z | An API wrapper for fuzzysearch.net | https://github.com/Syfaro/fuzzysearch-rs | 0 | 0| 
 | 20211212T23:28:15Z | Null | https://github.com/joseffaghihi/Causal-fuzzy-CEVAE | 1 | 0| 
 | 20211212T23:16:53Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
-| 20211212T23:15:04Z | A site that allows you to reverse image search millions of furry images in under a second | https://github.com/Syfaro/fuzzysearch | 21 | 3| 
-| 20211212T23:00:24Z | A little data cleaning | https://github.com/fortunateowl/fuzzy-couscous | 0 | 0| 
 
 
 
