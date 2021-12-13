@@ -138,6 +138,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211213T02:59:33Z | fuzzy search the emoji 🥰 | https://github.com/JiangWeixian/fuzzy-emoji | 2 | 0| 
 | 20211213T02:54:22Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4646 | 475| 
 | 20211213T02:51:25Z | Leetcode solutions. | https://github.com/chaitanyks/fuzzy-disco | 1 | 0| 
 | 20211213T02:50:16Z | An open-source software package for fuzzing autonomous driving systems in high-fidelity simulators | https://github.com/AIasd/ADFuzz | 0 | 1| 
@@ -147,7 +148,6 @@
 | 20211213T00:15:11Z | Null | https://github.com/mohflo/cs108-project-network-fuzzing | 0 | 0| 
 | 20211213T00:08:44Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 37 | 12| 
 | 20211212T23:38:50Z | An API wrapper for fuzzysearch.net | https://github.com/Syfaro/fuzzysearch-rs | 0 | 0| 
-| 20211212T23:28:15Z | Null | https://github.com/joseffaghihi/Causal-fuzzy-CEVAE | 1 | 0| 
 
 
 
