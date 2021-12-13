@@ -85,22 +85,22 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211213T13:05:09Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 37 | 20| 
+| 20211213T13:03:26Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 314 | 43| 
 | 20211213T13:03:07Z | A peer 2 peer approach to increase price stability and to reduce price manipulation by exploiting non-fundamentals-based volatility | https://github.com/distributed-ledger-technology/vofarm-deno-part | 0 | 0| 
 | 20211213T12:57:46Z | This is a proof-of-concept exploit for Log4j RCE Unauthenticated (CVE-2021-44228). | https://github.com/pedrohavay/exploit-CVE-2021-44228 | 5 | 0| 
 | 20211213T12:54:20Z | Null | https://github.com/morphuslabs/get-log4j-exploit-payload | 2 | 0| 
-| 20211213T12:53:13Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 313 | 43| 
 | 20211213T12:45:51Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 16| 
 | 20211213T12:36:50Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 256 | 78| 
 | 20211213T12:28:10Z | Drafts of exploits made for studying and consultation purposes | https://github.com/brerodrigues/exploit_drafts | 0 | 0| 
 | 20211213T12:25:11Z | Python tools, to facilitate the exploitation of servers. | https://github.com/Maarckz/PyTools | 0 | 0| 
 | 20211213T12:23:38Z | shitty wrd exploit but undetected | https://github.com/void0yt/Ether_v1 | 0 | 0| 
-| 20211213T12:21:06Z | Exploiting CVE-2021-42278 and CVE-2021-42287 to impersonate DA from standard domain user  | https://github.com/Ridter/noPac | 22 | 4| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211213T13:03:03Z | backdoor de acesso remoto (em desenvolvimento) | https://github.com/mednic/bckdoor | 0 | 0| 
+| 20211213T13:05:15Z | backdoor de acesso remoto (em desenvolvimento) | https://github.com/mednic/bckdoor | 0 | 0| 
 | 20211213T09:56:24Z | Null | https://github.com/Scorpio-m7/tomcat-backdoor | 5 | 1| 
 | 20211213T06:39:25Z | Test your understanding of the backdoor path criterion | https://github.com/CBDRH/shinyPaths | 0 | 0| 
 | 20211213T04:16:04Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 394 | 169| 
