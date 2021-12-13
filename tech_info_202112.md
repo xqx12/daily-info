@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211213T01:36:03Z | cve-2021-44228 | example application vulnerable to cve-2021-44228 | https://github.com/bdeetz/cve-2021-44228-example | | 
 | 20211213T01:23:08Z | CVE-2021-44228 | Abuse Log4J CVE-2021-44228 to patch CVE-2021-44228 in vulnerable Minecraft game sessions to prevent exploitation in the session :)  | https://github.com/0-x-2-2/CVE-2021-44228 | | 
 | 20211213T01:22:36Z | CVE-2021-44228 | 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - A trick to bypass words blocking patches | https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words | | 
 | 20211213T00:48:23Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
@@ -55,7 +56,6 @@
 | 20211213T00:06:08Z | CVE-2021-44228 | Null | https://github.com/DiCanio/CVE-2021-44228-docker-example | | 
 | 20211213T00:01:22Z | cve-2021-44228 | Null | https://github.com/uint0/cve-2021-44228-helpers | | 
 | 20211212T22:36:04Z | CVE-2021-44228 | Log4J (CVE-2021-44228) Exploit with Remote Command Execution (RCE) | https://github.com/corneacristian/Log4J-CVE-2021-44228-RCE | | 
-| 20211212T22:32:01Z | CVE-2021-43936 | Null | https://github.com/LongWayHomie/CVE-2021-43936 | | 
 
 
 # klee on Github 推荐
@@ -85,9 +85,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211213T01:35:35Z | Scans files for .jars potentially vulnerable to Log4Shell (CVE-2021-44228) or %that Log4j JNDI exploit% by inspecting the class paths inside the .jar. | https://github.com/1lann/log4shelldetect | 12 | 0| 
+| 20211213T01:38:44Z | Null | https://github.com/morphuslabs/get-log4j-exploit-payload | 0 | 0| 
+| 20211213T01:36:51Z | Rapidly scan filesystems for .jars potentially vulnerable to Log4Shell (CVE-2021-44228) or %that Log4j JNDI exploit% by inspecting the class paths inside the .jar. | https://github.com/1lann/log4shelldetect | 12 | 0| 
 | 20211213T01:32:33Z | The Dependency Confusion vulnerability scanner and autoexploitation tool to help identifying and mitigating supply chain attacks | https://github.com/Xh4H/Loki | 3 | 0| 
-| 20211213T01:09:25Z | Null | https://github.com/morphuslabs/get-log4j-exploit-payload | 0 | 0| 
 | 20211213T01:07:36Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 249 | 25| 
 | 20211213T01:03:41Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 37 | 20| 
 | 20211213T00:54:25Z | Log4j RCE - (CVE-2021-44228) | https://github.com/momos1337/Log4j-RCE | 1 | 0| 
