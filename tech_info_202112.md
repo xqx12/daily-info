@@ -85,7 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211213T13:11:10Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 315 | 43| 
+| 20211213T13:15:48Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 317 | 43| 
 | 20211213T13:09:37Z | Multi FW Support Exploit Host For PS4. | https://github.com/Harleythetech/MultiFW-RD-PS4 | 0 | 0| 
 | 20211213T13:05:09Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 37 | 20| 
 | 20211213T13:03:07Z | A peer 2 peer approach to increase price stability and to reduce price manipulation by exploiting non-fundamentals-based volatility | https://github.com/distributed-ledger-technology/vofarm-deno-part | 0 | 0| 
@@ -115,8 +115,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211213T12:28:05Z | Monster is a symbolic execution engine for 64-bit RISC-U code | https://github.com/cksystemsgroup/monster | 7 | 3| 
 | 20211213T01:28:26Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 10 | 5| 
-| 20211212T20:44:08Z | Monster is a symbolic execution engine for 64-bit RISC-U code | https://github.com/cksystemsgroup/monster | 7 | 3| 
 | 20211212T16:43:53Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1930 | 402| 
 | 20211212T16:10:33Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 165 | 37| 
 | 20211212T14:12:04Z | 自动化测试工具复现Test_Generation3 | https://github.com/pwh-sir/Symbolic-Execution-Based-on-ASM | 0 | 0| 
@@ -124,7 +124,7 @@
 | 20211212T02:03:04Z | A tool for incremental symbolic execution | https://github.com/FenseTool/fense | 0 | 0| 
 | 20211211T18:40:27Z | Synthesizing black boxed library functions via symbolic execution and component based synthesis. | https://github.com/pokhym/binCynth | 0 | 0| 
 | 20211211T08:16:41Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2588 | 381| 
-| 20211211T07:27:56Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 19 | 12| 
+| 20211211T07:27:56Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 19 | 13| 
 
 
 # big4 on Github 推荐
@@ -138,6 +138,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211213T13:14:54Z | Null | https://github.com/BOB4Drone/4D-Fuzzer | 0 | 0| 
 | 20211213T13:07:49Z | SADO Fuzzy Expert System | https://github.com/khunamir/sado-fuzzy | 0 | 0| 
 | 20211213T13:07:31Z | FuzzyGreenhouse is project for my master thesis on Faculty of Mathematics, University in Belgrade. FuzzyGreenhouse will implement fuzzy logic on process automation in greenhouse. | https://github.com/bozzano101/FuzzyGreenhouse | 0 | 0| 
 | 20211213T13:01:02Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 371 | 34| 
@@ -146,7 +147,6 @@
 | 20211213T12:56:17Z | Null | https://github.com/TitamSeptian/makanan-fuzzy | 0 | 0| 
 | 20211213T12:40:01Z | Null | https://github.com/f-atwi/fuzzy-neural-interactive-agent | 1 | 0| 
 | 20211213T12:31:22Z | Null | https://github.com/polymorphicengine/Semi-Fuzzy-Quantifiers | 0 | 0| 
-| 20211213T12:22:45Z | Null | https://github.com/BOB4Drone/4D-Fuzzer | 0 | 0| 
 | 20211213T12:15:22Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 4 | 2| 
 
 

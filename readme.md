@@ -56,7 +56,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211213T13:11:10Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 315 | 43| 
+| 20211213T13:15:48Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 317 | 43| 
 | 20211213T13:09:37Z | Multi FW Support Exploit Host For PS4. | https://github.com/Harleythetech/MultiFW-RD-PS4 | 0 | 0| 
 | 20211213T13:05:09Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 37 | 20| 
 | 20211213T13:03:07Z | A peer 2 peer approach to increase price stability and to reduce price manipulation by exploiting non-fundamentals-based volatility | https://github.com/distributed-ledger-technology/vofarm-deno-part | 0 | 0| 
@@ -82,6 +82,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211213T12:28:05Z | Monster is a symbolic execution engine for 64-bit RISC-U code | https://github.com/cksystemsgroup/monster | 7 | 3| 
 | 20211213T01:28:26Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 10 | 5| 
 
 
@@ -93,6 +94,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211213T13:14:54Z | Null | https://github.com/BOB4Drone/4D-Fuzzer | 0 | 0| 
 | 20211213T13:07:49Z | SADO Fuzzy Expert System | https://github.com/khunamir/sado-fuzzy | 0 | 0| 
 | 20211213T13:07:31Z | FuzzyGreenhouse is project for my master thesis on Faculty of Mathematics, University in Belgrade. FuzzyGreenhouse will implement fuzzy logic on process automation in greenhouse. | https://github.com/bozzano101/FuzzyGreenhouse | 0 | 0| 
 | 20211213T13:01:02Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 371 | 34| 
@@ -101,7 +103,6 @@
 | 20211213T12:56:17Z | Null | https://github.com/TitamSeptian/makanan-fuzzy | 0 | 0| 
 | 20211213T12:40:01Z | Null | https://github.com/f-atwi/fuzzy-neural-interactive-agent | 1 | 0| 
 | 20211213T12:31:22Z | Null | https://github.com/polymorphicengine/Semi-Fuzzy-Quantifiers | 0 | 0| 
-| 20211213T12:22:45Z | Null | https://github.com/BOB4Drone/4D-Fuzzer | 0 | 0| 
 | 20211213T12:15:22Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 4 | 2| 
 
 
