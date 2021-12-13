@@ -33,9 +33,9 @@
 | 20211212T20:58:04Z | CVE-2021-44228 | Null | https://github.com/Panyaprach/Proof-CVE-2021-44228 | | 
 | 20211212T20:05:55Z | CVE-2021-44228 | IP addresses exploiting recent log4j2 vulnerability CVE-2021-44228  | https://github.com/Malwar3Ninja/Exploitation-of-Log4j2-CVE-2021-44228 | | 
 | 20211212T18:03:46Z | CVE-2021-26084 | confluence远程代码执行RCE / Code By:Jun_sheng | https://github.com/Jun-5heng/CVE-2021-26084 | | 
-| 20211212T18:01:45Z | CVE-2021-44228 | Checking for vulnerability CVE-2021-44228. | https://github.com/greymd/CVE-2021-44228 | | 
 | 20211212T17:58:16Z | CVE-2021-44228 | Spring Boot Log4j - CVE-2021-44228 Docker Lab  | https://github.com/twseptian/Spring-Boot-Log4j-CVE-2021-44228-Docker-Lab | | 
 | 20211212T17:52:28Z | CVE-2021-36749 | Apache Druid LoadData 任意文件读取漏洞 / Code By:Jun_sheng | https://github.com/Jun-5heng/CVE-2021-36749 | | 
+| 20211212T16:20:03Z | cve-2021-44228 | Null | https://github.com/qingtengyun/cve-2021-44228-qingteng-online-patch | | 
 
 
 # klee on Github 推荐
