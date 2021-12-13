@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211213T13:08:03Z | cve-2021-44228 | Log4j CVE-2021-44228 (Re lte+CE sample) | https://github.com/manuel-alvarez-alvarez/log4j-cve-2021-44228 | | 
+| 20211213T13:07:35Z | CVE-2021-44228 | CVE-2021-44228 on Podman | https://github.com/ahmad4fifz/CVE-2021-44228-podman | | 
+| 20211213T13:05:30Z | CVE-2021-44228 | Null | https://github.com/zsolt-halo/CVE-2021-44228-Spring-Boot-Test-Service | | 
 | 20211213T12:59:52Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211213T12:57:46Z | CVE-2021-44228 | This is a proof-of-concept exploit for Log4j RCE Unauthenticated (CVE-2021-44228). | https://github.com/pedrohavay/exploit-CVE-2021-44228 | | 
 | 20211213T12:49:13Z | CVE-2021-44228 | Null | https://github.com/RedDrip7/Log4Shell_CVE-2021-44228_related_attacks_IOCs | | 
-| 20211213T12:32:36Z | CVE-2021-44228 | CVE-2021-44228 on Podman | https://github.com/ahmad4fifz/CVE-2021-44228-podman | | 
 | 20211213T12:07:07Z | CVE-2021-44228 | Null | https://github.com/helsecert/CVE-2021-44228 | | 
 | 20211213T11:55:27Z | CVE-2021-44228 | Null | https://github.com/0xsyr0/CVE-2021-44228-log4j-log4shell-Security-Research-Summary | | 
 | 20211213T11:43:48Z | CVE-2021-43798 | Grafana File-Read Vuln | https://github.com/JiuBanSec/Grafana-CVE-2021-43798 | | 
 | 20211213T11:35:53Z | CVE-2021-43798 | Grafana任意文件读取 | https://github.com/Awrrays/Grafana-CVE-2021-43798 | | 
-| 20211213T11:28:18Z | cve-2021-44228 | Null | https://github.com/qingtengyun/cve-2021-44228-qingteng-online-patch | | 
-| 20211213T11:18:55Z | CVE-2021-44827 | A PoC for CVE-2021-44827 - authenticated remote code execution in Tp-link Archer C20i | https://github.com/full-disclosure/CVE-2021-44827 | | 
 
 
 # klee on Github 推荐
@@ -138,6 +138,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211213T13:07:49Z | SADO Fuzzy Expert System | https://github.com/khunamir/sado-fuzzy | 0 | 0| 
+| 20211213T13:07:31Z | FuzzyGreenhouse is project for my master thesis on Faculty of Mathematics, University in Belgrade. FuzzyGreenhouse will implement fuzzy logic on process automation in greenhouse. | https://github.com/bozzano101/FuzzyGreenhouse | 0 | 0| 
 | 20211213T13:01:02Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 371 | 34| 
 | 20211213T13:00:30Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
 | 20211213T12:57:22Z | Null | https://github.com/Clearymk/TypeScriptFuzzer | 0 | 0| 
@@ -146,8 +148,6 @@
 | 20211213T12:31:22Z | Null | https://github.com/polymorphicengine/Semi-Fuzzy-Quantifiers | 0 | 0| 
 | 20211213T12:22:45Z | Null | https://github.com/BOB4Drone/4D-Fuzzer | 0 | 0| 
 | 20211213T12:15:22Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 4 | 2| 
-| 20211213T12:13:19Z | Report draft for https://fuzzingworkshop.github.io/ | https://github.com/agroce/fuzzing22report | 0 | 0| 
-| 20211213T12:02:37Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3837 | 902| 
 
 
 
