@@ -26,7 +26,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211212T23:16:02Z | CVE-2021-44228 | Abuse Log4J CVE-2021-44228 to patch CVE-2021-44228 in vulnerable Minecraft game sessions to prevent exploitation in the session :)  | https://github.com/0-x-2-2/CVE-2021-44228 | | 
 | 20211212T22:36:04Z | CVE-2021-44228 | Log4J (CVE-2021-44228) Exploit with Remote Command Execution (RCE) | https://github.com/corneacristian/Log4J-CVE-2021-44228-RCE | | 
 | 20211212T22:32:01Z | CVE-2021-43936 | Null | https://github.com/LongWayHomie/CVE-2021-43936 | | 
 | 20211212T21:49:42Z | cve-2021-44228 | Mitigate against log4j vulnerability | https://github.com/palominoinc/cve-2021-44228-log4j-mitigation | | 
@@ -36,6 +35,7 @@
 | 20211212T18:03:46Z | CVE-2021-26084 | confluence远程代码执行RCE / Code By:Jun_sheng | https://github.com/Jun-5heng/CVE-2021-26084 | | 
 | 20211212T18:01:45Z | CVE-2021-44228 | Checking for vulnerability CVE-2021-44228. | https://github.com/greymd/CVE-2021-44228 | | 
 | 20211212T17:58:16Z | CVE-2021-44228 | Spring Boot Log4j - CVE-2021-44228 Docker Lab  | https://github.com/twseptian/Spring-Boot-Log4j-CVE-2021-44228-Docker-Lab | | 
+| 20211212T17:52:28Z | CVE-2021-36749 | Apache Druid LoadData 任意文件读取漏洞 / Code By:Jun_sheng | https://github.com/Jun-5heng/CVE-2021-36749 | | 
 
 
 # klee on Github 推荐
