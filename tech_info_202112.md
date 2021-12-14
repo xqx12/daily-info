@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211214T01:15:07Z | Multi FW Support Exploit Host For PS4. | https://github.com/Harleythetech/MultiFW-RD-PS4 | 0 | 0| 
 | 20211214T01:12:11Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 373 | 60| 
 | 20211214T01:11:25Z | Null | https://github.com/LutziGoz/Log4Shell_Exploitation-Vulnerabiliy__CVE-2021-44228 | 1 | 0| 
 | 20211214T01:09:43Z | Null | https://github.com/Spard2/ps4exploit | 0 | 0| 
@@ -94,7 +95,6 @@
 | 20211214T00:55:25Z | proxylogon, proxyshell, proxyoracle and proxytoken full chain exploit tool | https://github.com/FDlucifer/Proxy-Attackchain | 76 | 20| 
 | 20211214T00:54:50Z | See https://github.com/christophetd/log4shell-vulnerable-app | https://github.com/ripper2hl/Example-jndiExploit- | 0 | 0| 
 | 20211214T00:45:51Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 16| 
-| 20211214T00:32:42Z | Multi FW Support Exploit Host For PS4. | https://github.com/Harleythetech/MultiFW-RD-PS4 | 0 | 0| 
 
 
 # backdoor on Github 推荐
