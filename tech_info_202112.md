@@ -85,12 +85,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211214T01:01:39Z | JNDI注入测试工具（A tool which generates JNDI links can start several servers to exploit JNDI Injection vulnerability,like Jackson,Fastjson,etc） | https://github.com/welk1n/JNDI-Injection-Exploit | 1334 | 373| 
 | 20211214T00:59:46Z | Null | https://github.com/shellazra/exploit | 0 | 0| 
 | 20211214T00:55:25Z | proxylogon, proxyshell, proxyoracle and proxytoken full chain exploit tool | https://github.com/FDlucifer/Proxy-Attackchain | 76 | 20| 
 | 20211214T00:54:50Z | See https://github.com/christophetd/log4shell-vulnerable-app | https://github.com/ripper2hl/Example-jndiExploit- | 0 | 0| 
 | 20211214T00:54:40Z | Null | https://github.com/Spard2/ps4exploit | 0 | 0| 
 | 20211214T00:54:08Z | Null | https://github.com/LutziGoz/Log4Shell_Exploitation-Vulnerabiliy__CVE-2021-44228 | 1 | 0| 
-| 20211214T00:52:56Z | JNDI注入测试工具（A tool which generates JNDI links can start several servers to exploit JNDI Injection vulnerability,like Jackson,Fastjson,etc） | https://github.com/welk1n/JNDI-Injection-Exploit | 1333 | 373| 
 | 20211214T00:50:25Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 372 | 60| 
 | 20211214T00:45:51Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 16| 
 | 20211214T00:32:42Z | Multi FW Support Exploit Host For PS4. | https://github.com/Harleythetech/MultiFW-RD-PS4 | 0 | 0| 
@@ -115,7 +115,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211213T12:28:05Z | Monster is a symbolic execution engine for 64-bit RISC-U code | https://github.com/cksystemsgroup/monster | 7 | 3| 
+| 20211213T22:00:17Z | History of symbolic execution (as well as SAT/SMT solving, fuzzing, and taint data tracking) | https://github.com/enzet/symbolic-execution | 409 | 57| 
+| 20211213T18:54:56Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2589 | 381| 
+| 20211213T18:41:24Z | Monster is a symbolic execution engine for 64-bit RISC-U code | https://github.com/cksystemsgroup/monster | 7 | 3| 
 | 20211213T01:28:26Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 10 | 5| 
 | 20211212T16:43:53Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1930 | 402| 
 | 20211212T16:10:33Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 165 | 37| 
@@ -123,8 +125,6 @@
 | 20211212T02:15:47Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 190 | 39| 
 | 20211212T02:03:04Z | A tool for incremental symbolic execution | https://github.com/FenseTool/fense | 0 | 0| 
 | 20211211T18:40:27Z | Synthesizing black boxed library functions via symbolic execution and component based synthesis. | https://github.com/pokhym/binCynth | 0 | 0| 
-| 20211211T08:16:41Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2588 | 381| 
-| 20211211T07:27:56Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 19 | 13| 
 
 
 # big4 on Github 推荐
