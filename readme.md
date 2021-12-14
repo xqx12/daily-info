@@ -24,26 +24,30 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20211213 | 从一例挖矿木马看 Log4Shell 的在野传播 | https://mp.weixin.qq.com/s/OoARMaeACnogFrEWMNw01A| 
+| 20211213 | SecWiki周刊（第406期) | https://www.sec-wiki.com/weekly/406| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211213T14:12:47Z | CVE-2021-44228 | Null | https://github.com/LutziGoz/Log4Shell_Exploitation-Execution__CVE-2021-44228 | | 
-| 20211213T14:12:02Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
-| 20211213T14:07:49Z | CVE-2021-44228 | Mass Check Vulnerable Log4j CVE-2021-44228 | https://github.com/justakazh/Log4j-CVE-2021-44228 | | 
-| 20211213T14:06:06Z | cve-2021-44228 | Log4j CVE-2021-44228 examples: Remote Code Execution (through LDAP, RMI, ...), Forced DNS queries, ... | https://github.com/manuel-alvarez-alvarez/log4j-cve-2021-44228 | | 
-| 20211213T14:05:05Z | CVE-2021-44228 | CVE-2021-44228 (Log4Shell) Proof of Concept | https://github.com/sunnyvale-it/CVE-2021-44228-PoC | | 
-| 20211213T14:01:35Z | CVE-2021-44228 | Detections for CVE-2021-44228 inside of nested binaries | https://github.com/darkarnium/CVE-2021-44228 | | 
-| 20211213T13:56:39Z | CVE-2021-44228 | Null | https://github.com/0xsyr0/CVE-2021-44228-log4j-log4shell-Security-Research-Summary | | 
-| 20211213T13:46:36Z | CVE-2021-44228 | CVE-2021-44228 DFIR Notes | https://github.com/Azeemering/CVE-2021-44228-DFIR-Notes | | 
-| 20211213T13:45:18Z | cve-2021-44228 | This tool creates a custom signature set on F5 WAF and apply to policies in blocking mode | https://github.com/irgoncalves/f5-waf-quick-patch-cve-2021-44228 | | 
-| 20211213T13:40:32Z | CVE-2021-44228 | Null | https://github.com/zsolt-halo/CVE-2021-44228-Spring-Boot-Test-Service | | 
+| 20211213T23:38:08Z | 未知编号 | NGINX njs based request inspection configuration for IOCs of Log4Shell vulnerability | https://github.com/tippexs/nginx-njs-waf-cve2021-44228 | | 
+| 20211213T22:53:54Z | CVE-2021-44228 | CVE-2021-44228 (Log4Shell) Proof of Concept | https://github.com/sunnyvale-it/CVE-2021-44228-PoC | | 
+| 20211213T22:41:05Z | CVE-2021-44228 | Test for log4j vulnerability across your external footprint | https://github.com/ssstonebraker/log4j_CVE-2021-44228_tester | | 
+| 20211213T22:39:05Z | CVE-2021-44228 | list of ips pulled from greynoise for this | https://github.com/seamus-dev/CVE-2021-44228 | | 
+| 20211213T21:58:01Z | cve-2021-44228 | GitHub CodeQL Action to scan for CVE-2021–44228 | https://github.com/benarculus/cve-2021-44228-code-scan | | 
+| 20211213T21:41:42Z | CVE-2021-44228 | Apply class remove process from ear/war/jar/zip archive, see https://logging.apache.org/log4j/2.x/ | https://github.com/AlexandreHeroux/Fix-CVE-2021-44228 | | 
+| 20211213T21:21:56Z | CVE-2021-44228 | Just a personal proof of concept of CVE-2021-44228 on log4j2 | https://github.com/snatalius/log4j2-CVE-2021-44228-poc-local | | 
+| 20211213T21:16:00Z | CVE-2021-44228 | Spring Boot Log4j - CVE-2021-44228 Docker Lab  | https://github.com/twseptian/Spring-Boot-Log4j-CVE-2021-44228-Docker-Lab | | 
+| 20211213T20:57:17Z | cve-2021-44228 | This tool creates a custom signature set on F5 WAF and apply to policies in blocking mode | https://github.com/irgoncalves/f5-waf-quick-patch-cve-2021-44228 | | 
+| 20211213T20:56:54Z | CVE-2021-44228 | Null | https://github.com/tica506/Siem-queries-for-CVE-2021-44228 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211213T23:18:01Z | Null | https://github.com/anaskautsar7/Klee-chan | 0 | 0| 
+| 20211213T21:59:50Z | Null | https://github.com/xinrachel30/AL_KLEEMEX | 0 | 0| 
+| 20211213T19:40:25Z | Null | https://github.com/dlapierre/kleewhoorksnantes | 0 | 0| 
 | 20211213T10:39:49Z | Witch-KLEE - A KLEE-based error witness checker | https://github.com/ayazip/witch-klee | 0 | 0| 
 | 20211213T10:05:32Z | Config files for my GitHub profile. | https://github.com/24klee/24klee | 0 | 0| 
 | 20211213T07:41:15Z | Null | https://github.com/Chiyukichan/klee_file | 0 | 0| 
@@ -57,28 +61,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211213T23:59:13Z | code to upload files for ctf exploitation etc.... | https://github.com/harsh1tweb/htmluploader | 0 | 0| 
+| 20211213T23:55:28Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 256 | 78| 
+| 20211213T23:49:20Z | Kali linux exploit tools guide repository. | https://github.com/Logic-01001010/KaliGuide | 1 | 0| 
+| 20211213T23:34:29Z | Codes from Hacking: The Art of Exploitation book. By Jon Erickson. | https://github.com/edupazzz/Hacking-The-Art-of-Exploitation-Book | 0 | 0| 
+| 20211213T23:15:03Z | Null | https://github.com/BenPali/Offensive-Security-and-Exploitation | 0 | 0| 
+| 20211213T23:11:50Z | Python3 script for scanning CVE-2021-44228 (Log4shell) vulnerable machines. | https://github.com/lfama/log4j_checker | 1 | 0| 
+| 20211213T23:02:35Z | 😎 Exploiting utility for Roblox. | https://github.com/catboy08/comet | 2 | 0| 
+| 20211213T22:53:08Z | Explores the possible exploitations of logging into someone else%s discord account via qr code. | https://github.com/FlyN-Nick/DiscordQRCodeScam | 1 | 0| 
+| 20211213T22:51:16Z | This is a GUI application of the Contract Automata Toolkit,  exploiting the contract automata library to put contract automata at work | https://github.com/davidebasile/ContractAutomataApp | 0 | 0| 
 | 20211213T14:14:51Z | Null | https://github.com/LutziGoz/Log4Shell_Exploitation-Execution__CVE-2021-44228 | 1 | 0| 
-| 20211213T14:07:39Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 325 | 46| 
-| 20211213T14:05:09Z | Exploiting CVE-2021-42278 and CVE-2021-42287 to impersonate DA from standard domain user  | https://github.com/Ridter/noPac | 25 | 5| 
-| 20211213T14:04:40Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 37 | 20| 
-| 20211213T14:00:46Z | PasteBin Sebagai C&C Kondisi ini adalah step post-exploitation. Asumsi agent sudah terpasang di host. Buatlah script python dan taruh di git.   Lakukan Host Reconnaissance pada agent. Kumpulkan info mengenai Hostname, User yang login, dan Current Privileges   Upload informasi yang di dapat ke pastebin dengan sebelumnya di encode Base64. | https://github.com/doridoryan/Tugas-GLS-Host-Recon_PasteBin_2301851282_Kevin-Doryan-Govindo | 0 | 0| 
-| 20211213T13:52:15Z | Bukkit plugin that fixes log4j exploit and keep your player client safe! | https://github.com/jiongjionger/EastLandLog4jFixer | 0 | 0| 
-| 20211213T13:44:09Z | Null | https://github.com/LutziGoz/Log4Shell_Exploitation-Execution | 1 | 0| 
-| 20211213T13:39:04Z | Scanner for Log4j RCE CVE-2021-44228 | https://github.com/thecyberneh/Log4j-RCE-Exploiter | 0 | 1| 
-| 20211213T13:26:57Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 3835 | 1327| 
-| 20211213T13:25:22Z | Multi FW Support Exploit Host For PS4. | https://github.com/Harleythetech/MultiFW-RD-PS4 | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211213T14:10:39Z | A Simple Way To Create Metasploit Backdoor By N4XSEC2K11 | https://github.com/cyberghost-security/msfpayload | 0 | 0| 
-| 20211213T13:05:15Z | backdoor de acesso remoto (em desenvolvimento) | https://github.com/mednic/bckdoor | 0 | 0| 
-| 20211213T09:56:24Z | Null | https://github.com/Scorpio-m7/tomcat-backdoor | 5 | 1| 
-| 20211213T06:39:25Z | Test your understanding of the backdoor path criterion | https://github.com/CBDRH/shinyPaths | 0 | 0| 
-| 20211213T04:16:04Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 394 | 169| 
-| 20211213T04:15:08Z | um so it work on vehicle susprensinon test | https://github.com/mininoobiksl/backdoor.exe-with-suspression-text-delete-remote | 0 | 0| 
-| 20211213T03:08:20Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 389 | 66| 
+| 20211213T23:52:12Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 395 | 169| 
+| 20211213T22:57:49Z | Null | https://github.com/defaultcrypter/backdoor-python-CodeSimple-hacking | 1 | 0| 
+| 20211213T21:47:25Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 53 | 16| 
+| 20211213T21:38:05Z | Statically-linked ssh server with reverse shell functionality for CTFs and such | https://github.com/Fahrj/reverse-ssh | 430 | 54| 
+| 20211213T19:44:16Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 116 | 29| 
+| 20211213T19:08:03Z | Python-Backdoor | https://github.com/s120000/Python-Backdoor | 0 | 0| 
+| 20211213T16:22:54Z | Design a backdoor detector for BadNets | https://github.com/tianhao22/backdoor-detector | 0 | 0| 
+| 20211213T15:34:39Z | um so it work on vehicle susprensinon test | https://github.com/mininoobiksl/backdoor.exe-with-suspression-text-delete-remote | 0 | 0| 
+| 20211213T15:17:10Z | Null | https://github.com/mininoobiksl/backdoor | 0 | 0| 
+| 20211213T15:05:43Z | Simple puerta trasera con netcat ( hackingyseguridad.com ) | https://github.com/hackingyseguridad/puertatrasera | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -96,16 +103,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211213T14:09:14Z | GitHub Action to run Echidna, the Ethereum smart contract fuzzer | https://github.com/elopez/echidna-action | 0 | 0| 
-| 20211213T14:07:21Z | Null | https://github.com/Clearymk/TypeScriptFuzzer | 0 | 1| 
-| 20211213T13:51:34Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
-| 20211213T13:43:19Z | Null | https://github.com/Manimani06/fuzzy-octo-engine | 0 | 0| 
-| 20211213T13:40:21Z | Null | https://github.com/f-atwi/fuzzy-neural-interactive-agent | 1 | 0| 
-| 20211213T13:32:51Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6898 | 1446| 
-| 20211213T13:21:01Z | Null | https://github.com/EmmaOkoh53/fuzzy-tribble | 0 | 0| 
-| 20211213T13:14:54Z | Null | https://github.com/BOB4Drone/4D-Fuzzer | 0 | 0| 
-| 20211213T13:07:49Z | SADO Fuzzy Expert System | https://github.com/khunamir/sado-fuzzy | 0 | 0| 
-| 20211213T13:07:31Z | FuzzyGreenhouse is project for my master thesis on Faculty of Mathematics, University in Belgrade. FuzzyGreenhouse will implement fuzzy logic on process automation in greenhouse. | https://github.com/bozzano101/FuzzyGreenhouse | 0 | 0| 
+| 20211213T23:38:27Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
+| 20211213T23:25:29Z | Asynchronous fuzzy finder in vim9script | https://github.com/kohnish/vim9-fuzzy | 0 | 0| 
+| 20211213T23:05:40Z | Null | https://github.com/Phalorin/fuzzy-octo-spoon | 0 | 0| 
+| 20211213T23:03:15Z | Bot which suggests movies according to a users taste | https://github.com/rafibu/fuzzy | 0 | 0| 
+| 20211213T22:28:26Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1125 | 49| 
+| 20211213T22:18:32Z | Null | https://github.com/OmniaFares/Project_Formation_Using_FuzzyLogic | 0 | 0| 
+| 20211213T22:11:01Z | Null | https://github.com/theripper93/fuzzy-foundry | 1 | 1| 
+| 20211213T22:00:17Z | History of symbolic execution (as well as SAT/SMT solving, fuzzing, and taint data tracking) | https://github.com/enzet/symbolic-execution | 409 | 57| 
+| 20211213T21:58:27Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2304 | 448| 
+| 20211213T21:56:32Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 318 | 44| 
 
 
 
