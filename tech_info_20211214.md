@@ -97,16 +97,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211214T02:34:20Z | Leetcode solutions. | https://github.com/chaitanyks/fuzzy-disco | 1 | 0| 
-| 20211214T02:25:36Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20211214T01:58:47Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 208 | 39| 
-| 20211214T01:50:52Z | History of symbolic execution (as well as SAT/SMT solving, fuzzing, and taint data tracking) | https://github.com/enzet/symbolic-execution | 410 | 57| 
-| 20211214T01:34:16Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 39 | 12| 
-| 20211214T01:33:55Z | icp-fuzz | https://github.com/ytMuCheng/IPC-FUZZ-Connection-test | 0 | 0| 
-| 20211214T01:33:11Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2446 | 150| 
-| 20211214T00:57:11Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 12 | 1| 
-| 20211214T00:50:49Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4646 | 475| 
-| 20211214T00:42:57Z | Null | https://github.com/finchFuzzy/FinchFuzzy.github.io | 0 | 0| 
+| 20211214T12:45:57Z | Log4j2 jndi injection fuzz tool | https://github.com/zhzyker/logmap | 21 | 9| 
+| 20211214T12:44:39Z | Bot which suggests movies according to a users taste | https://github.com/rafibu/fuzzy | 0 | 0| 
+| 20211214T12:33:21Z | A differential fuzzer for x86 decoders | https://github.com/trailofbits/mishegos | 161 | 23| 
+| 20211214T12:24:19Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6899 | 1446| 
+| 20211214T12:22:36Z | Null | https://github.com/django/django-fuzzers | 2 | 1| 
+| 20211214T12:06:48Z | A fuzzy logic based traffic light controller using scikit-fuzzy  sumo. | https://github.com/Yinkash100/fuzzy_traffic_controller | 0 | 0| 
+| 20211214T12:02:00Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 39 | 12| 
+| 20211214T11:32:37Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3838 | 903| 
+| 20211214T11:22:16Z | Fuzzing test for TINET | https://github.com/toppers/TINETFuzzer | 0 | 0| 
+| 20211214T11:00:30Z | Null | https://github.com/dewi-layr27/fuzzy-sugeno | 0 | 0| 
 
 
 
