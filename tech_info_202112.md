@@ -6,6 +6,15 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20211214 | gVisor - Application Kernel for Containers，Google 为容器应用开发的一套内核层，限制容器内应用的内核访问能力 | https://github.com/google/gvisor| 
+| 20211214 | Codeql 学习笔记以及相关资料整理 | https://github.com/safe6Sec/CodeqlNote| 
+| 20211214 | 有研究员发布 PS4 9.00 Kernel Exploit | https://github.com/ChendoChap/pOOBs4| 
+| 20211214 | Log4j RCE 漏洞的缓解方案 | https://www.govcert.ch/blog/zero-day-exploit-targeting-popular-java-library-log4j/| 
+| 20211214 | Ubuntu accountsservice UAF 漏洞的分析和利用(CVE-2021-3939) | https://securitylab.github.com/research/ubuntu-accountsservice-CVE-2021-3939/| 
+| 20211214 | 渗透测试中 Active Directory 环境的探测技巧 | https://aidenpearce369.github.io/offsec/redteam-enumeration/| 
+| 20211214 | log4shell CVE-2021-44228 漏洞分析、利用 Payloads 以及攻击检测规则 | https://musana.net/2021/12/13/log4shell-Quick-Guide/| 
+| 20211214 | Apple 发布 macOS Monterey 12.1，macOS Big Sur 11.6.2，iOS 15.2 版本，包含多个补丁更新，其中包括玄武实验室报告的多个漏洞。 Big Sur：https://support.apple.com/zh-cn/HT212979 iOS： https://support.apple.com/zh-cn/HT212976 | https://support.apple.com/en-us/HT212978| 
+| 20211214 | 已有 10 个家族的恶意样本利用 Log4shell 漏洞传播 | https://blog.netlab.360.com/yi-jing-you-xxxge-jia-zu-de-botnetli-yong-log4shelllou-dong-chuan-bo-wei-da-bu-ding-de-gan-jin-liao/| 
 | 20211213 | 使用 Apache Log4j RCE 漏洞发起攻击的源 IP 收集（IOC） | https://github.com/RedDrip7/Log4Shell_CVE-2021-44228_related_attacks_IOCs| 
 | 20211213 | SAPP - Facebook 开发的用于处理静态代码分析工具 Pysa 分析结果的工具 | https://github.com/facebook/sapp| 
 | 20211213 | 针对 Qemu 模拟设备的 Fuzzer | https://github.com/lcatro/qemu-fuzzer| 
@@ -17,15 +26,6 @@
 | 20211213 | Antivirus evasion by user mode unhooking on Windows 10 | http://rp.os3.nl/2020-2021/p68/report.pdf| 
 | 20211213 | log4j2 JNDI 注入漏洞的复现和分析 | https://sec.today/pulses/237ee519-ac43-4541-88b5-8ce43f7602a9/| 
 | 20211213 | log4j2 JNDI 注入漏洞的复现和分析 | https://lorexxar.cn/2021/12/10/log4j2-jndi/| 
-| 20211213 | Windows 10 RCE：exp 就在链接中. | https://paper.seebug.org/1784/| 
-| 20211210 | Active Directory Exploitation Cheat Sheet | https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet| 
-| 20211210 | Apache Log4j 远程代码执行漏洞 PoC 已在 GitHub 公开 | https://github.com/tangxiaofeng7/apache-log4j-poc| 
-| 20211210 | Why IoT Security Matters | http://research.nccgroup.com/2021/12/09/why-iot-security-matters/| 
-| 20211210 | Finding Secret RDP Registry Keys Using IDA Free | https://blog.devolutions.net/2021/12/finding-secret-rdp-registry-keys-using-ida-free/| 
-| 20211210 | 微软温哥华网站因 DS_STORE 文件暴露泄露 WordPress 密钥等敏感信息 | http://cybernews.com/security/microsoft-vancouver-leaking-website-credentials-via-overlooked-ds-store-file/| 
-| 20211210 | Java 日志框架 Apache Log4j2 被发现高危 RCE 漏洞 | https://mp.weixin.qq.com/s/AuBchaUvFw2pisVw6rNX5A| 
-| 20211210 | Microsoft Excel CVE-2021-28449 漏洞分析，该漏洞可以被攻击者利用生成一份微软签名的恶意钓鱼文档，从而加载任意代码 | http://outflank.nl/blog/2021/12/09/a-phishing-document-signed-by-microsoft/| 
-| 20211210 | StrongPity 攻击组织在 Notepad++ 安装包中嵌入恶意代码 | https://blog.minerva-labs.com/a-new-strongpity-variant-hides-behind-notepad-installation?utm_source=reddit| 
 
 
 # 安全维基 推荐
@@ -46,21 +46,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211214T03:04:22Z | CVE-2021-44228 | Apache Log4j 远程代码执行 | https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce | | 
-| 20211214T02:55:18Z | cve-2021-44228 | Sample docker-compose setup to show how this exploit works | https://github.com/alpacamybags118/log4j-cve-2021-44228-sample | | 
-| 20211214T02:55:13Z | CVE-2021-44228 | Log4Shell Docker Env | https://github.com/ycdxsb/Log4Shell-CVE-2021-44228-ENV | | 
-| 20211214T02:54:44Z | CVE-2021-44228 | Null | https://github.com/RedDrip7/Log4Shell_CVE-2021-44228_related_attacks_IOCs | | 
-| 20211214T02:53:49Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
-| 20211214T02:31:23Z | CVE-2021-44228 | Null | https://github.com/LutziGoz/Log4Shell_Exploitation-Vulnerabiliy__CVE-2021-44228 | | 
-| 20211214T02:30:50Z | CVE-2021-44228 | Detections for CVE-2021-44228 inside of nested binaries | https://github.com/darkarnium/CVE-2021-44228 | | 
-| 20211214T02:16:19Z | CVE-2021-44228 | Remote Code Injection In Log4j | https://github.com/jas502n/Log4j2-CVE-2021-44228 | | 
-| 20211214T01:40:19Z | CVE-2021-44228 | Professional Service scripts to aid in the identification of affected Java applications in TeamServer | https://github.com/Contrast-Security-OSS/CVE-2021-44228 | | 
-| 20211214T01:06:33Z | CVE-2021-44228 | OpenIOC rules to facilitate hunting for indicators of compromise | https://github.com/fireeye/CVE-2021-44228 | | 
+| 20211214T12:57:33Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
+| 20211214T12:50:13Z | cve-2021-44228 | Null | https://github.com/didoatanasov/cve-2021-44228 | | 
+| 20211214T12:49:59Z | CVE-2021-44228 | Null | https://github.com/rwincey/CVE-2021-44228-Log4j-Payloads | | 
+| 20211214T12:46:13Z | CVE-2021-44228 | Remote Code Injection In Log4j | https://github.com/jas502n/Log4j2-CVE-2021-44228 | | 
+| 20211214T12:21:48Z | CVE-2021-44228 | Null | https://github.com/0xsyr0/CVE-2021-44228-log4j-log4shell-Security-Research-Summary | | 
+| 20211214T12:15:18Z | CVE-2021-44228 | CVE-2021-44228 DFIR Notes | https://github.com/Azeemering/CVE-2021-44228-DFIR-Notes | | 
+| 20211214T12:06:57Z | cve-2021-44228 | Log4j CVE-2021-44228 examples: Remote Code Execution (through LDAP, RMI, ...), Forced DNS queries, ... | https://github.com/manuel-alvarez-alvarez/log4j-cve-2021-44228 | | 
+| 20211214T11:08:19Z | CVE-2021-44228 | Null | https://github.com/RedDrip7/Log4Shell_CVE-2021-44228_related_attacks_IOCs | | 
+| 20211214T10:46:58Z | CVE-2021-44228 | Log4J CVE-2021-44228 : Mitigation Cheat Sheet | https://github.com/thedevappsecguy/Log4J-CVE-2021-44228-Mitigation-Cheat-Sheet | | 
+| 20211214T10:37:30Z | CVE-2021-44228 | RCE POC | https://github.com/KosmX/CVE-2021-44228-example | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211214T03:09:59Z | Config files for my GitHub profile. | https://github.com/Klee666/Klee666 | 0 | 0| 
 | 20211214T01:46:51Z | Null | https://github.com/xinrachel30/AL_KLEEMEX | 0 | 0| 
 | 20211213T23:18:01Z | Null | https://github.com/anaskautsar7/Klee-chan | 0 | 0| 
 | 20211213T19:40:25Z | Null | https://github.com/dlapierre/kleewhoorksnantes | 0 | 0| 
@@ -70,14 +71,13 @@
 | 20211211T08:51:24Z | 程序员哥哥，你是来找可莉玩的吗？可莉语音包，适用于 vscode-rainbow-fart 拓展。 | https://github.com/Ran-ying/Klee-rainbow-fart | 13 | 1| 
 | 20211211T01:37:04Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
 | 20211211T00:01:12Z | modern regular expression syntax everywhere with a painless upgrade path | https://github.com/SonOfLilit/kleenexp | 30 | 3| 
-| 20211209T22:22:33Z | Minecraft Mod. Allows breaking only one half of a double slab block. | https://github.com/ModdingForBlockheads/KleeSlabs | 10 | 3| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20211212T14:32:33Z | CRAX++: software CRash analysis for Automatic eXploit generation | https://github.com/aesophor/CRAXplusplus | 26 | 3| 
-| 20211212T02:15:47Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 190 | 39| 
+| 20211212T02:15:47Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 190 | 40| 
 | 20211207T15:25:17Z | Null | https://github.com/yuvalkirstain/s2e-coref | 25 | 9| 
 | 20211202T14:39:02Z | Null | https://github.com/s2e-lab/s2e-lab.github.io | 0 | 0| 
 
@@ -85,44 +85,44 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211214T03:08:00Z | PS4 9.00FW Exploit Host By Leeful | https://github.com/KameleonReloaded/leeful900 | 0 | 0| 
-| 20211214T03:06:08Z | Null | https://github.com/Spard2/ps4exploit | 0 | 0| 
-| 20211214T03:03:35Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 37 | 20| 
-| 20211214T03:00:56Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 378 | 60| 
-| 20211214T02:55:18Z | Sample docker-compose setup to show how this exploit works | https://github.com/alpacamybags118/log4j-cve-2021-44228-sample | 0 | 0| 
-| 20211214T02:50:00Z | JNDI注入测试工具（A tool which generates JNDI links can start several servers to exploit JNDI Injection vulnerability,like Jackson,Fastjson,etc） | https://github.com/welk1n/JNDI-Injection-Exploit | 1345 | 381| 
-| 20211214T02:40:09Z | proxylogon, proxyshell, proxyoracle and proxytoken full chain exploit tool | https://github.com/FDlucifer/Proxy-Attackchain | 78 | 20| 
-| 20211214T02:31:23Z | Null | https://github.com/LutziGoz/Log4Shell_Exploitation-Vulnerabiliy__CVE-2021-44228 | 1 | 0| 
-| 20211214T02:31:05Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 302 | 661| 
-| 20211214T02:15:23Z | My Exploits | https://github.com/w41l3r/Exploits | 0 | 0| 
+| 20211214T12:59:11Z | BookingXML offers a high-end Airline GDS Software with an easy-to-use interface and a robust architecture that allows increased efficiency, reduced cost, and increased sales in a lesser period. Our Airline Reservation System is integrated with the direct channel management and global distribution system (GDS). With our Airline Booking Engine, the end-user will be able to view the booking details along with other information such as fare, rules, baggage limits and more. We have links with leading suppliers of GDS, XML and APIs such as Amadeus, Yatra, Expedia, Travel Fusion and Mystifly. Many of the reservation systems have only a few distribution channels, but all of us have. And coupled with the 3rd party XML API integration, you will be able to reach plenty of customers. With so many additional functionalities, our Flight Booking Engine helps customer’s book international and domestic flights from any location and offers better inventory, prices, and other information to travel agents as well. At BookingXML, we deliver the most complete and efficient Airline GDS solutions to optimize the benefits for suppliers and travelers. You%ll get the best results for your service search using the GDS API Integration Solution on your travel website. With Airline GDS technologies, you will have access to several key features such as reservations, inventory management, passenger profiling, and PNR generation. Get quick access to a reliable and interactive booking solution and manage your business as never before. BookingXML will help you leverage our Airline GDS services to enhance your business scope, bring new customers and provide opportunities for up-selling and cross-selling. In short, you can start using custom travel technology tools to exploit the online platform more effectively. Being a leading travel technology solution provider, BookingXML API is offering a robust system to connected travel associates. Our API solution helps them to gain access to the vast content of airline service providers all over the world. We are a proficient travel software company that specializes in API/XML integration with GDS like Amadeus, Travelport and Sabre to allow your users a diverse range of travel outputs with 24/7 presence, details, tariffs, laws, and policies. We have a proven record of integrating GDS systems for airline bookings with B2B, B2C, and B2B2C options along with the admin module. Our GDS Integration Service will help your travel company to book thousands of airlines online. Whether you have signed up for Sabre, Amadeus, Galileo, Travelport, and Worldspan, we offer our clients the best solutions when it comes to XML/API integration. Know more at: https://www.bookingxml.com/airline-gds.php | https://github.com/nickb4924/Airline-GDS | 0 | 0| 
+| 20211214T12:56:56Z | Store all exploit-db.com/google-hacking-database results then scrape google for every exploit-db query. Stores the Google results and IP information. (and eventually WHOIS) | https://github.com/frame-of-reference/ghdb | 0 | 0| 
+| 20211214T12:54:47Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 429 | 68| 
+| 20211214T12:54:40Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10441 | 1797| 
+| 20211214T12:51:59Z | A simple but effective fix for the Log4Shell exploit. | https://github.com/zVengine/Log4ShellFix | 1 | 0| 
+| 20211214T12:51:58Z | Details : CVE-2021-44228 | https://github.com/34zY/JNDI-Exploit-1.2-log4shell | 0 | 0| 
+| 20211214T12:45:53Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 16| 
+| 20211214T12:44:08Z | 😎 Exploiting utility for Roblox. | https://github.com/catboy08/comet | 2 | 0| 
+| 20211214T12:36:37Z | Exploiting open data to assess accessibility of transportation in Paris region | https://github.com/SofianeKal/Accessibility-IDF | 1 | 0| 
+| 20211214T12:22:04Z | Null | https://github.com/Aviral18/log4j2-exploit-detect | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211214T12:29:54Z | Statically-linked ssh server with reverse shell functionality for CTFs and such | https://github.com/Fahrj/reverse-ssh | 438 | 54| 
+| 20211214T10:51:36Z | Null | https://github.com/MikeTeddyOmondi/c_backdoor | 0 | 0| 
+| 20211214T09:47:17Z | Null | https://github.com/Scorpio-m7/tomcat-backdoor | 7 | 1| 
+| 20211214T09:34:10Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 117 | 29| 
+| 20211214T06:53:58Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 390 | 67| 
+| 20211214T03:42:28Z | Null | https://github.com/jrbeduardo/trojano_backdoor | 0 | 0| 
+| 20211214T03:33:39Z | Null | https://github.com/thryec/backdoor | 1 | 0| 
+| 20211214T03:25:43Z | The project is to design a backdoor detector for BadNets trained on the YouTube Face dataset. | https://github.com/381352903/ML_cyber_project | 1 | 0| 
 | 20211214T02:13:24Z | A Simple Way To Create Metasploit Backdoor By N4XSEC2K11 | https://github.com/cyberghost-security/msfpayload | 0 | 0| 
 | 20211214T01:59:05Z | Backdoor Hibernater | https://github.com/TDteach/SEAM | 0 | 0| 
-| 20211214T01:35:19Z | Null | https://github.com/samuelventura/nerves_backdoor | 0 | 0| 
-| 20211213T23:52:12Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 395 | 169| 
-| 20211213T22:57:49Z | Null | https://github.com/defaultcrypter/backdoor-python-CodeSimple-hacking | 1 | 0| 
-| 20211213T21:47:25Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 53 | 16| 
-| 20211213T21:38:05Z | Statically-linked ssh server with reverse shell functionality for CTFs and such | https://github.com/Fahrj/reverse-ssh | 430 | 54| 
-| 20211213T19:44:16Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 116 | 29| 
-| 20211213T19:08:03Z | Python-Backdoor | https://github.com/s120000/Python-Backdoor | 0 | 0| 
-| 20211213T16:22:54Z | Design a backdoor detector for BadNets | https://github.com/tianhao22/backdoor-detector | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211214T12:56:30Z | Monster is a symbolic execution engine for 64-bit RISC-U code | https://github.com/cksystemsgroup/monster | 7 | 3| 
+| 20211214T07:27:13Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2589 | 381| 
+| 20211214T06:50:01Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 11 | 5| 
 | 20211214T01:50:52Z | History of symbolic execution (as well as SAT/SMT solving, fuzzing, and taint data tracking) | https://github.com/enzet/symbolic-execution | 410 | 57| 
-| 20211213T18:54:56Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2589 | 381| 
-| 20211213T18:41:24Z | Monster is a symbolic execution engine for 64-bit RISC-U code | https://github.com/cksystemsgroup/monster | 7 | 3| 
-| 20211213T01:28:26Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 10 | 5| 
 | 20211212T16:43:53Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1930 | 402| 
 | 20211212T16:10:33Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 165 | 37| 
 | 20211212T14:12:04Z | 自动化测试工具复现Test_Generation3 | https://github.com/pwh-sir/Symbolic-Execution-Based-on-ASM | 0 | 0| 
-| 20211212T02:15:47Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 190 | 39| 
+| 20211212T02:15:47Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 190 | 40| 
 | 20211212T02:03:04Z | A tool for incremental symbolic execution | https://github.com/FenseTool/fense | 0 | 0| 
 | 20211211T18:40:27Z | Synthesizing black boxed library functions via symbolic execution and component based synthesis. | https://github.com/pokhym/binCynth | 0 | 0| 
 
