@@ -139,6 +139,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211214T13:21:01Z | Null | https://github.com/wagnerkaba/fuzzy-rotary-phone | 0 | 0| 
 | 20211214T13:19:48Z | Shitty flappy bird implemented on a fried potato for the course Computer Organization and Components IS1500 | https://github.com/johanlam/fuzzy-potato | 1 | 0| 
 | 20211214T13:14:43Z | Alphalog 更快、更安全。支持完全匿名 产品(fuzz.red) | https://github.com/AlphabugX/Alphalog | 0 | 0| 
 | 20211214T13:10:47Z | With this tool, projects can be compiled easily for fuzzing with AFL or for static code analysis with tools like CBMC. One-line-scan hooks into the compilation process and wraps calls to the compiler with other compilers. Besides the compilation wrappers, one-line-scan ships with basic analysis jobs, that allow to analyze a project right after compilation with the following tools: AFL, cppcheck, CBMC, Fortify. | https://github.com/awslabs/one-line-scan | 15 | 6| 
@@ -148,7 +149,6 @@
 | 20211214T12:33:21Z | A differential fuzzer for x86 decoders | https://github.com/trailofbits/mishegos | 161 | 23| 
 | 20211214T12:24:19Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6899 | 1446| 
 | 20211214T12:22:36Z | Null | https://github.com/django/django-fuzzers | 2 | 1| 
-| 20211214T12:06:48Z | A fuzzy logic based traffic light controller using scikit-fuzzy  sumo. | https://github.com/Yinkash100/fuzzy_traffic_controller | 0 | 0| 
 
 
 
