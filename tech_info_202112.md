@@ -138,6 +138,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211214T02:25:36Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211214T01:58:47Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 208 | 39| 
 | 20211214T01:50:52Z | History of symbolic execution (as well as SAT/SMT solving, fuzzing, and taint data tracking) | https://github.com/enzet/symbolic-execution | 410 | 57| 
 | 20211214T01:34:16Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 39 | 12| 
@@ -147,7 +148,6 @@
 | 20211214T00:50:49Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4646 | 475| 
 | 20211214T00:42:57Z | Null | https://github.com/finchFuzzy/FinchFuzzy.github.io | 0 | 0| 
 | 20211214T00:37:58Z | Kernel Fuzzer for Xen Project (KF/x) - Hypervisor-based fuzzing using Xen VM forking, VMI & AFL | https://github.com/intel/kernel-fuzzer-for-xen-project | 379 | 55| 
-| 20211214T00:34:48Z | Null | https://github.com/quatros96/fuzzy-pendulum | 0 | 0| 
 
 
 
