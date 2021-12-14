@@ -100,6 +100,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211214T13:17:49Z | Null | https://github.com/thryec/backdoor | 1 | 0| 
 | 20211214T13:11:48Z | Null | https://github.com/JorikSchillemans/Botnet-Backdoor-Keylogger | 0 | 0| 
 | 20211214T13:01:32Z | Statically-linked ssh server with reverse shell functionality for CTFs and such | https://github.com/Fahrj/reverse-ssh | 439 | 54| 
 | 20211214T10:51:36Z | Null | https://github.com/MikeTeddyOmondi/c_backdoor | 0 | 0| 
@@ -107,7 +108,6 @@
 | 20211214T09:34:10Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 117 | 29| 
 | 20211214T06:53:58Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 390 | 67| 
 | 20211214T03:42:28Z | Null | https://github.com/jrbeduardo/trojano_backdoor | 0 | 0| 
-| 20211214T03:33:39Z | Null | https://github.com/thryec/backdoor | 1 | 0| 
 | 20211214T03:25:43Z | The project is to design a backdoor detector for BadNets trained on the YouTube Face dataset. | https://github.com/381352903/ML_cyber_project | 1 | 0| 
 | 20211214T02:13:24Z | A Simple Way To Create Metasploit Backdoor By N4XSEC2K11 | https://github.com/cyberghost-security/msfpayload | 0 | 0| 
 
