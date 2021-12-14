@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211214T13:25:54Z | CVE-2021-44228 | Remote Code Injection In Log4j | https://github.com/jas502n/Log4j2-CVE-2021-44228 | | 
 | 20211214T13:24:59Z | CVE-2021-44228 | Null | https://github.com/rwincey/CVE-2021-44228-Log4j-Payloads | | 
-| 20211214T13:24:46Z | CVE-2021-44228 | Remote Code Injection In Log4j | https://github.com/jas502n/Log4j2-CVE-2021-44228 | | 
 | 20211214T13:14:21Z | cve-2021-44228 | Null | https://github.com/didoatanasov/cve-2021-44228 | | 
 | 20211214T13:13:27Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211214T12:21:48Z | CVE-2021-44228 | Null | https://github.com/0xsyr0/CVE-2021-44228-log4j-log4shell-Security-Research-Summary | | 
@@ -85,7 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211214T13:23:40Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 434 | 69| 
+| 20211214T13:25:26Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 435 | 69| 
 | 20211214T13:22:57Z | 😎 Exploiting utility for Roblox. | https://github.com/catboy08/comet | 2 | 0| 
 | 20211214T13:16:19Z | A training course of ethereum | https://github.com/MachineLearningMike/ExploitMe | 0 | 0| 
 | 20211214T13:03:02Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 37 | 20| 
