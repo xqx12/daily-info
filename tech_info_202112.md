@@ -139,6 +139,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211214T13:41:24Z | Log4j2 jndi injection fuzz tool | https://github.com/zhzyker/logmap | 23 | 9| 
 | 20211214T13:33:37Z | Null | https://github.com/Clearymk/TypeScriptFuzzer | 0 | 1| 
 | 20211214T13:27:29Z | Sequence-Oriented DBMS Fuzzing | https://github.com/Lego2021/LEGO | 1 | 0| 
 | 20211214T13:21:01Z | Null | https://github.com/wagnerkaba/fuzzy-rotary-phone | 0 | 0| 
@@ -146,7 +147,6 @@
 | 20211214T13:14:43Z | Alphalog 更快、更安全。支持完全匿名 产品(fuzz.red) | https://github.com/AlphabugX/Alphalog | 0 | 0| 
 | 20211214T13:10:47Z | With this tool, projects can be compiled easily for fuzzing with AFL or for static code analysis with tools like CBMC. One-line-scan hooks into the compilation process and wraps calls to the compiler with other compilers. Besides the compilation wrappers, one-line-scan ships with basic analysis jobs, that allow to analyze a project right after compilation with the following tools: AFL, cppcheck, CBMC, Fortify. | https://github.com/awslabs/one-line-scan | 15 | 6| 
 | 20211214T13:09:25Z | Quality assurance testing for the curl project | https://github.com/curl/curl-fuzzer | 37 | 19| 
-| 20211214T13:08:41Z | Log4j2 jndi injection fuzz tool | https://github.com/zhzyker/logmap | 22 | 9| 
 | 20211214T12:44:39Z | Bot which suggests movies according to a users taste | https://github.com/rafibu/fuzzy | 0 | 0| 
 | 20211214T12:33:21Z | A differential fuzzer for x86 decoders | https://github.com/trailofbits/mishegos | 161 | 23| 
 
