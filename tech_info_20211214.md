@@ -53,7 +53,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20211214T13:53:19Z | 😎 Exploiting utility for Roblox. | https://github.com/catboy08/comet | 2 | 0| 
-| 20211214T13:52:55Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 437 | 69| 
+| 20211214T13:52:55Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 437 | 70| 
 | 20211214T13:45:10Z | Null | https://github.com/DongHongcheng/LSTM_exploitation | 0 | 0| 
 | 20211214T13:43:38Z | Minecraft Honeypot for Log4j exploit. CVE-2021-44228 Log4Shell LogJam | https://github.com/Adikso/minecraft-log4j-honeypot | 39 | 11| 
 | 20211214T13:16:19Z | A training course of ethereum | https://github.com/MachineLearningMike/ExploitMe | 0 | 0| 
