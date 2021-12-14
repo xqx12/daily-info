@@ -100,7 +100,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211214T13:07:22Z | Null | https://github.com/JorikSchillemans/Botnet-Backdoor-Keylogger | 0 | 0| 
+| 20211214T13:11:48Z | Null | https://github.com/JorikSchillemans/Botnet-Backdoor-Keylogger | 0 | 0| 
 | 20211214T13:01:32Z | Statically-linked ssh server with reverse shell functionality for CTFs and such | https://github.com/Fahrj/reverse-ssh | 439 | 54| 
 | 20211214T10:51:36Z | Null | https://github.com/MikeTeddyOmondi/c_backdoor | 0 | 0| 
 | 20211214T09:47:17Z | Null | https://github.com/Scorpio-m7/tomcat-backdoor | 7 | 1| 
@@ -139,6 +139,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211214T13:11:55Z | Alphalog 更快、更安全。支持完全匿名 产品(fuzz.red) | https://github.com/AlphabugX/Alphalog | 0 | 0| 
 | 20211214T13:10:47Z | With this tool, projects can be compiled easily for fuzzing with AFL or for static code analysis with tools like CBMC. One-line-scan hooks into the compilation process and wraps calls to the compiler with other compilers. Besides the compilation wrappers, one-line-scan ships with basic analysis jobs, that allow to analyze a project right after compilation with the following tools: AFL, cppcheck, CBMC, Fortify. | https://github.com/awslabs/one-line-scan | 15 | 6| 
 | 20211214T13:09:25Z | Quality assurance testing for the curl project | https://github.com/curl/curl-fuzzer | 37 | 19| 
 | 20211214T13:08:41Z | Log4j2 jndi injection fuzz tool | https://github.com/zhzyker/logmap | 22 | 9| 
@@ -148,7 +149,6 @@
 | 20211214T12:22:36Z | Null | https://github.com/django/django-fuzzers | 2 | 1| 
 | 20211214T12:06:48Z | A fuzzy logic based traffic light controller using scikit-fuzzy  sumo. | https://github.com/Yinkash100/fuzzy_traffic_controller | 0 | 0| 
 | 20211214T12:02:00Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 39 | 12| 
-| 20211214T11:32:37Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3838 | 903| 
 
 
 
