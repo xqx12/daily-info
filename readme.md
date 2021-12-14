@@ -97,6 +97,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211214T13:23:13Z | Sequence-Oriented DBMS Fuzzing | https://github.com/Lego2021/LEGO | 1 | 0| 
 | 20211214T13:21:01Z | Null | https://github.com/wagnerkaba/fuzzy-rotary-phone | 0 | 0| 
 | 20211214T13:19:48Z | Shitty flappy bird implemented on a fried potato for the course Computer Organization and Components IS1500 | https://github.com/johanlam/fuzzy-potato | 1 | 0| 
 | 20211214T13:14:43Z | Alphalog 更快、更安全。支持完全匿名 产品(fuzz.red) | https://github.com/AlphabugX/Alphalog | 0 | 0| 
@@ -106,7 +107,6 @@
 | 20211214T12:44:39Z | Bot which suggests movies according to a users taste | https://github.com/rafibu/fuzzy | 0 | 0| 
 | 20211214T12:33:21Z | A differential fuzzer for x86 decoders | https://github.com/trailofbits/mishegos | 161 | 23| 
 | 20211214T12:24:19Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6899 | 1446| 
-| 20211214T12:22:36Z | Null | https://github.com/django/django-fuzzers | 2 | 1| 
 
 
 
