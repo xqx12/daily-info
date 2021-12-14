@@ -111,9 +111,9 @@
 | 20211213T22:28:26Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1125 | 49| 
 | 20211213T22:18:32Z | Null | https://github.com/OmniaFares/Project_Formation_Using_FuzzyLogic | 0 | 0| 
 | 20211213T22:11:01Z | Null | https://github.com/theripper93/fuzzy-foundry | 1 | 1| 
-| 20211213T22:00:17Z | History of symbolic execution (as well as SAT/SMT solving, fuzzing, and taint data tracking) | https://github.com/enzet/symbolic-execution | 409 | 57| 
 | 20211213T21:58:27Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2304 | 448| 
 | 20211213T21:56:32Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 318 | 44| 
+| 20211213T21:45:10Z | Null | https://github.com/wagnerkaba/fuzzy-rotary-phone | 0 | 0| 
 
 
 
