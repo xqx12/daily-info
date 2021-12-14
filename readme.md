@@ -67,7 +67,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211214T12:29:54Z | Statically-linked ssh server with reverse shell functionality for CTFs and such | https://github.com/Fahrj/reverse-ssh | 438 | 54| 
+| 20211214T13:01:32Z | Statically-linked ssh server with reverse shell functionality for CTFs and such | https://github.com/Fahrj/reverse-ssh | 439 | 54| 
 | 20211214T10:51:36Z | Null | https://github.com/MikeTeddyOmondi/c_backdoor | 0 | 0| 
 | 20211214T09:47:17Z | Null | https://github.com/Scorpio-m7/tomcat-backdoor | 7 | 1| 
 | 20211214T09:34:10Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 117 | 29| 
@@ -91,6 +91,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211214T10:37:21Z | Code for NDSS 2021 Paper %Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses Against Federated Learning% | https://github.com/vrt1shjwlkr/NDSS21-Model-Poisoning | 30 | 7| 
 
 
 # fuzz on Github 推荐
