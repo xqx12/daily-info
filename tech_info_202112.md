@@ -46,10 +46,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211214T13:10:09Z | CVE-2021-44228 | Remote Code Injection In Log4j | https://github.com/jas502n/Log4j2-CVE-2021-44228 | | 
 | 20211214T13:08:11Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211214T12:50:13Z | cve-2021-44228 | Null | https://github.com/didoatanasov/cve-2021-44228 | | 
 | 20211214T12:49:59Z | CVE-2021-44228 | Null | https://github.com/rwincey/CVE-2021-44228-Log4j-Payloads | | 
-| 20211214T12:46:13Z | CVE-2021-44228 | Remote Code Injection In Log4j | https://github.com/jas502n/Log4j2-CVE-2021-44228 | | 
 | 20211214T12:21:48Z | CVE-2021-44228 | Null | https://github.com/0xsyr0/CVE-2021-44228-log4j-log4shell-Security-Research-Summary | | 
 | 20211214T12:15:18Z | CVE-2021-44228 | CVE-2021-44228 DFIR Notes | https://github.com/Azeemering/CVE-2021-44228-DFIR-Notes | | 
 | 20211214T12:06:57Z | cve-2021-44228 | Log4j CVE-2021-44228 examples: Remote Code Execution (through LDAP, RMI, ...), Forced DNS queries, ... | https://github.com/manuel-alvarez-alvarez/log4j-cve-2021-44228 | | 
@@ -85,16 +85,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211214T13:09:08Z | 😎 Exploiting utility for Roblox. | https://github.com/catboy08/comet | 2 | 0| 
+| 20211214T13:08:20Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 430 | 68| 
 | 20211214T13:03:32Z | A training course of ethereum | https://github.com/MachineLearningMike/ExploitMe | 0 | 0| 
 | 20211214T13:03:02Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 37 | 20| 
 | 20211214T12:59:11Z | BookingXML offers a high-end Airline GDS Software with an easy-to-use interface and a robust architecture that allows increased efficiency, reduced cost, and increased sales in a lesser period. Our Airline Reservation System is integrated with the direct channel management and global distribution system (GDS). With our Airline Booking Engine, the end-user will be able to view the booking details along with other information such as fare, rules, baggage limits and more. We have links with leading suppliers of GDS, XML and APIs such as Amadeus, Yatra, Expedia, Travel Fusion and Mystifly. Many of the reservation systems have only a few distribution channels, but all of us have. And coupled with the 3rd party XML API integration, you will be able to reach plenty of customers. With so many additional functionalities, our Flight Booking Engine helps customer’s book international and domestic flights from any location and offers better inventory, prices, and other information to travel agents as well. At BookingXML, we deliver the most complete and efficient Airline GDS solutions to optimize the benefits for suppliers and travelers. You%ll get the best results for your service search using the GDS API Integration Solution on your travel website. With Airline GDS technologies, you will have access to several key features such as reservations, inventory management, passenger profiling, and PNR generation. Get quick access to a reliable and interactive booking solution and manage your business as never before. BookingXML will help you leverage our Airline GDS services to enhance your business scope, bring new customers and provide opportunities for up-selling and cross-selling. In short, you can start using custom travel technology tools to exploit the online platform more effectively. Being a leading travel technology solution provider, BookingXML API is offering a robust system to connected travel associates. Our API solution helps them to gain access to the vast content of airline service providers all over the world. We are a proficient travel software company that specializes in API/XML integration with GDS like Amadeus, Travelport and Sabre to allow your users a diverse range of travel outputs with 24/7 presence, details, tariffs, laws, and policies. We have a proven record of integrating GDS systems for airline bookings with B2B, B2C, and B2B2C options along with the admin module. Our GDS Integration Service will help your travel company to book thousands of airlines online. Whether you have signed up for Sabre, Amadeus, Galileo, Travelport, and Worldspan, we offer our clients the best solutions when it comes to XML/API integration. Know more at: https://www.bookingxml.com/airline-gds.php | https://github.com/nickb4924/Airline-GDS | 0 | 0| 
 | 20211214T12:56:56Z | Store all exploit-db.com/google-hacking-database results then scrape google for every exploit-db query. Stores the Google results and IP information. (and eventually WHOIS) | https://github.com/frame-of-reference/ghdb | 0 | 0| 
-| 20211214T12:54:47Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 429 | 68| 
 | 20211214T12:54:40Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10441 | 1797| 
 | 20211214T12:51:59Z | A simple but effective fix for the Log4Shell exploit. | https://github.com/zVengine/Log4ShellFix | 1 | 0| 
 | 20211214T12:51:58Z | Details : CVE-2021-44228 | https://github.com/34zY/JNDI-Exploit-1.2-log4shell | 0 | 0| 
 | 20211214T12:45:53Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 16| 
-| 20211214T12:44:08Z | 😎 Exploiting utility for Roblox. | https://github.com/catboy08/comet | 2 | 0| 
 
 
 # backdoor on Github 推荐
@@ -139,7 +139,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211214T12:45:57Z | Log4j2 jndi injection fuzz tool | https://github.com/zhzyker/logmap | 21 | 9| 
+| 20211214T13:10:47Z | With this tool, projects can be compiled easily for fuzzing with AFL or for static code analysis with tools like CBMC. One-line-scan hooks into the compilation process and wraps calls to the compiler with other compilers. Besides the compilation wrappers, one-line-scan ships with basic analysis jobs, that allow to analyze a project right after compilation with the following tools: AFL, cppcheck, CBMC, Fortify. | https://github.com/awslabs/one-line-scan | 15 | 6| 
+| 20211214T13:09:25Z | Quality assurance testing for the curl project | https://github.com/curl/curl-fuzzer | 37 | 19| 
+| 20211214T13:08:41Z | Log4j2 jndi injection fuzz tool | https://github.com/zhzyker/logmap | 22 | 9| 
 | 20211214T12:44:39Z | Bot which suggests movies according to a users taste | https://github.com/rafibu/fuzzy | 0 | 0| 
 | 20211214T12:33:21Z | A differential fuzzer for x86 decoders | https://github.com/trailofbits/mishegos | 161 | 23| 
 | 20211214T12:24:19Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6899 | 1446| 
@@ -147,8 +149,6 @@
 | 20211214T12:06:48Z | A fuzzy logic based traffic light controller using scikit-fuzzy  sumo. | https://github.com/Yinkash100/fuzzy_traffic_controller | 0 | 0| 
 | 20211214T12:02:00Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 39 | 12| 
 | 20211214T11:32:37Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3838 | 903| 
-| 20211214T11:22:16Z | Fuzzing test for TINET | https://github.com/toppers/TINETFuzzer | 0 | 0| 
-| 20211214T11:00:30Z | Null | https://github.com/dewi-layr27/fuzzy-sugeno | 0 | 0| 
 
 
 
