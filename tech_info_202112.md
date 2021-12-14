@@ -85,7 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211214T01:57:37Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 374 | 59| 
+| 20211214T01:57:37Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 374 | 60| 
 | 20211214T01:56:54Z | JNDI注入测试工具（A tool which generates JNDI links can start several servers to exploit JNDI Injection vulnerability,like Jackson,Fastjson,etc） | https://github.com/welk1n/JNDI-Injection-Exploit | 1339 | 377| 
 | 20211214T01:50:37Z | proxylogon, proxyshell, proxyoracle and proxytoken full chain exploit tool | https://github.com/FDlucifer/Proxy-Attackchain | 77 | 20| 
 | 20211214T01:44:51Z | Null | https://github.com/LutziGoz/Log4Shell_Exploitation-Vulnerabiliy__CVE-2021-44228 | 1 | 0| 
@@ -100,6 +100,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211214T01:59:05Z | Backdoor Hibernater | https://github.com/TDteach/SEAM | 0 | 0| 
 | 20211214T01:35:19Z | Null | https://github.com/samuelventura/nerves_backdoor | 0 | 0| 
 | 20211213T23:52:12Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 395 | 169| 
 | 20211213T22:57:49Z | Null | https://github.com/defaultcrypter/backdoor-python-CodeSimple-hacking | 1 | 0| 
@@ -109,7 +110,6 @@
 | 20211213T19:08:03Z | Python-Backdoor | https://github.com/s120000/Python-Backdoor | 0 | 0| 
 | 20211213T16:22:54Z | Design a backdoor detector for BadNets | https://github.com/tianhao22/backdoor-detector | 0 | 0| 
 | 20211213T15:34:39Z | um so it work on vehicle susprensinon test | https://github.com/mininoobiksl/backdoor.exe-with-suspression-text-delete-remote | 0 | 0| 
-| 20211213T15:17:10Z | Null | https://github.com/mininoobiksl/backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
