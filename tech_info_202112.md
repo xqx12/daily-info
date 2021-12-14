@@ -138,6 +138,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211214T01:21:43Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2445 | 150| 
 | 20211214T00:57:11Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 12 | 1| 
 | 20211214T00:50:49Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4646 | 475| 
 | 20211214T00:43:26Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 38 | 12| 
@@ -147,7 +148,6 @@
 | 20211214T00:26:51Z | Null | https://github.com/El-Potato-Slayer/fuzzy-goggles | 0 | 0| 
 | 20211214T00:11:07Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 4 | 2| 
 | 20211214T00:03:49Z | WIP fuzzing btrfs with LKL | https://github.com/docfate111/badfsfuzzer | 0 | 0| 
-| 20211213T23:38:27Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 
 
 
