@@ -85,8 +85,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211214T01:42:36Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 374 | 59| 
-| 20211214T01:41:12Z | Null | https://github.com/LutziGoz/Log4Shell_Exploitation-Vulnerabiliy__CVE-2021-44228 | 1 | 0| 
+| 20211214T01:44:57Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 375 | 59| 
+| 20211214T01:44:51Z | Null | https://github.com/LutziGoz/Log4Shell_Exploitation-Vulnerabiliy__CVE-2021-44228 | 1 | 0| 
 | 20211214T01:33:18Z | Network vulnerability exploitation library | https://github.com/sairson/NetworkExpLibrary | 13 | 4| 
 | 20211214T01:28:17Z | JNDI注入测试工具（A tool which generates JNDI links can start several servers to exploit JNDI Injection vulnerability,like Jackson,Fastjson,etc） | https://github.com/welk1n/JNDI-Injection-Exploit | 1337 | 376| 
 | 20211214T01:19:02Z | Null | https://github.com/Spard2/ps4exploit | 0 | 0| 
