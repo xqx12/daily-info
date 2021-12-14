@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211214T02:37:17Z | CVE-2021-44228 | Apache Log4j 远程代码执行 | https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce | | 
 | 20211214T02:35:30Z | CVE-2021-44228 | Null | https://github.com/RedDrip7/Log4Shell_CVE-2021-44228_related_attacks_IOCs | | 
-| 20211214T02:35:22Z | CVE-2021-44228 | Apache Log4j 远程代码执行 | https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce | | 
 | 20211214T02:31:23Z | CVE-2021-44228 | Null | https://github.com/LutziGoz/Log4Shell_Exploitation-Vulnerabiliy__CVE-2021-44228 | | 
 | 20211214T02:30:50Z | CVE-2021-44228 | Detections for CVE-2021-44228 inside of nested binaries | https://github.com/darkarnium/CVE-2021-44228 | | 
 | 20211214T02:21:02Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
@@ -85,12 +85,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211214T02:37:08Z | JNDI注入测试工具（A tool which generates JNDI links can start several servers to exploit JNDI Injection vulnerability,like Jackson,Fastjson,etc） | https://github.com/welk1n/JNDI-Injection-Exploit | 1343 | 378| 
+| 20211214T02:36:40Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 376 | 60| 
 | 20211214T02:31:23Z | Null | https://github.com/LutziGoz/Log4Shell_Exploitation-Vulnerabiliy__CVE-2021-44228 | 1 | 0| 
 | 20211214T02:31:05Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 302 | 660| 
 | 20211214T02:15:23Z | My Exploits | https://github.com/w41l3r/Exploits | 0 | 0| 
-| 20211214T02:14:23Z | JNDI注入测试工具（A tool which generates JNDI links can start several servers to exploit JNDI Injection vulnerability,like Jackson,Fastjson,etc） | https://github.com/welk1n/JNDI-Injection-Exploit | 1342 | 378| 
 | 20211214T02:12:13Z | Null | https://github.com/NotOnTop/Exploits_Public | 0 | 0| 
-| 20211214T02:10:42Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 375 | 60| 
 | 20211214T02:09:24Z | 漏洞利用收集 | https://github.com/MiracleLau/exploits | 1 | 0| 
 | 20211214T02:09:17Z | Roblox Exploit Scripts by simulatorwinner#5864 | https://github.com/simulatorwinner/scripts | 1 | 0| 
 | 20211214T02:03:32Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 37 | 20| 
