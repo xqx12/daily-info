@@ -15,6 +15,8 @@
 | 20211214 | log4shell CVE-2021-44228 漏洞分析、利用 Payloads 以及攻击检测规则 | https://musana.net/2021/12/13/log4shell-Quick-Guide/| 
 | 20211214 | Apple 发布 macOS Monterey 12.1，macOS Big Sur 11.6.2，iOS 15.2 版本，包含多个补丁更新，其中包括玄武实验室报告的多个漏洞。 Big Sur：https://support.apple.com/zh-cn/HT212979 iOS： https://support.apple.com/zh-cn/HT212976 | https://support.apple.com/en-us/HT212978| 
 | 20211214 | 已有 10 个家族的恶意样本利用 Log4shell 漏洞传播 | https://blog.netlab.360.com/yi-jing-you-xxxge-jia-zu-de-botnetli-yong-log4shelllou-dong-chuan-bo-wei-da-bu-ding-de-gan-jin-liao/| 
+| 20211214 | 内存级别攻防利器--UnSafe 的各种利用姿势. | https://paper.seebug.org/1785/| 
+| 20211214 | How hackers pollute your code. | https://www.youtube.com/watch?v=XS_UMqQalLI&feature=youtu.be| 
 
 
 # 安全维基 推荐
@@ -25,6 +27,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211214T13:57:29Z | cve-2021-44228 | GitHub CodeQL Action to scan for CVE-2021–44228 | https://github.com/benarculus/detecting-cve-2021-44228 | | 
 | 20211214T13:56:50Z | CVE-2021-44228 | CVE-2021-44228 on Podman | https://github.com/ahmad4fifz/CVE-2021-44228-podman | | 
 | 20211214T13:56:02Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211214T13:44:57Z | CVE-2021-44228 | Remote Code Injection In Log4j | https://github.com/jas502n/Log4j2-CVE-2021-44228 | | 
@@ -34,7 +37,6 @@
 | 20211214T12:15:18Z | CVE-2021-44228 | CVE-2021-44228 DFIR Notes | https://github.com/Azeemering/CVE-2021-44228-DFIR-Notes | | 
 | 20211214T12:06:57Z | cve-2021-44228 | Log4j CVE-2021-44228 examples: Remote Code Execution (through LDAP, RMI, ...), Forced DNS queries, ... | https://github.com/manuel-alvarez-alvarez/log4j-cve-2021-44228 | | 
 | 20211214T11:08:19Z | CVE-2021-44228 | Null | https://github.com/RedDrip7/Log4Shell_CVE-2021-44228_related_attacks_IOCs | | 
-| 20211214T10:46:58Z | CVE-2021-44228 | Log4J CVE-2021-44228 : Mitigation Cheat Sheet | https://github.com/thedevappsecguy/Log4J-CVE-2021-44228-Mitigation-Cheat-Sheet | | 
 
 
 # klee on Github 推荐
@@ -52,6 +54,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211214T13:59:13Z | Null | https://github.com/nicolagatta/Binary-Exploitation- | 1 | 0| 
 | 20211214T13:53:19Z | 😎 Exploiting utility for Roblox. | https://github.com/catboy08/comet | 2 | 0| 
 | 20211214T13:52:55Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 437 | 70| 
 | 20211214T13:45:10Z | Null | https://github.com/DongHongcheng/LSTM_exploitation | 0 | 0| 
@@ -61,7 +64,6 @@
 | 20211214T12:59:11Z | BookingXML offers a high-end Airline GDS Software with an easy-to-use interface and a robust architecture that allows increased efficiency, reduced cost, and increased sales in a lesser period. Our Airline Reservation System is integrated with the direct channel management and global distribution system (GDS). With our Airline Booking Engine, the end-user will be able to view the booking details along with other information such as fare, rules, baggage limits and more. We have links with leading suppliers of GDS, XML and APIs such as Amadeus, Yatra, Expedia, Travel Fusion and Mystifly. Many of the reservation systems have only a few distribution channels, but all of us have. And coupled with the 3rd party XML API integration, you will be able to reach plenty of customers. With so many additional functionalities, our Flight Booking Engine helps customer’s book international and domestic flights from any location and offers better inventory, prices, and other information to travel agents as well. At BookingXML, we deliver the most complete and efficient Airline GDS solutions to optimize the benefits for suppliers and travelers. You%ll get the best results for your service search using the GDS API Integration Solution on your travel website. With Airline GDS technologies, you will have access to several key features such as reservations, inventory management, passenger profiling, and PNR generation. Get quick access to a reliable and interactive booking solution and manage your business as never before. BookingXML will help you leverage our Airline GDS services to enhance your business scope, bring new customers and provide opportunities for up-selling and cross-selling. In short, you can start using custom travel technology tools to exploit the online platform more effectively. Being a leading travel technology solution provider, BookingXML API is offering a robust system to connected travel associates. Our API solution helps them to gain access to the vast content of airline service providers all over the world. We are a proficient travel software company that specializes in API/XML integration with GDS like Amadeus, Travelport and Sabre to allow your users a diverse range of travel outputs with 24/7 presence, details, tariffs, laws, and policies. We have a proven record of integrating GDS systems for airline bookings with B2B, B2C, and B2B2C options along with the admin module. Our GDS Integration Service will help your travel company to book thousands of airlines online. Whether you have signed up for Sabre, Amadeus, Galileo, Travelport, and Worldspan, we offer our clients the best solutions when it comes to XML/API integration. Know more at: https://www.bookingxml.com/airline-gds.php | https://github.com/nickb4924/Airline-GDS | 0 | 0| 
 | 20211214T12:56:56Z | Store all exploit-db.com/google-hacking-database results then scrape google for every exploit-db query. Stores the Google results and IP information. (and eventually WHOIS) | https://github.com/frame-of-reference/ghdb | 0 | 0| 
 | 20211214T12:54:40Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10441 | 1797| 
-| 20211214T12:51:59Z | A simple but effective fix for the Log4Shell exploit. | https://github.com/zVengine/Log4ShellFix | 1 | 0| 
 
 
 # backdoor on Github 推荐
