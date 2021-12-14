@@ -46,9 +46,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211214T02:34:28Z | CVE-2021-44228 | Apache Log4j 远程代码执行 | https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce | | 
 | 20211214T02:31:23Z | CVE-2021-44228 | Null | https://github.com/LutziGoz/Log4Shell_Exploitation-Vulnerabiliy__CVE-2021-44228 | | 
 | 20211214T02:30:50Z | CVE-2021-44228 | Detections for CVE-2021-44228 inside of nested binaries | https://github.com/darkarnium/CVE-2021-44228 | | 
-| 20211214T02:21:27Z | CVE-2021-44228 | Apache Log4j 远程代码执行 | https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce | | 
 | 20211214T02:21:02Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211214T02:16:19Z | CVE-2021-44228 | Remote Code Injection In Log4j | https://github.com/jas502n/Log4j2-CVE-2021-44228 | | 
 | 20211214T02:14:38Z | CVE-2021-44228 | Null | https://github.com/RedDrip7/Log4Shell_CVE-2021-44228_related_attacks_IOCs | | 
@@ -138,6 +138,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211214T02:34:20Z | Leetcode solutions. | https://github.com/chaitanyks/fuzzy-disco | 1 | 0| 
 | 20211214T02:25:36Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211214T01:58:47Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 208 | 39| 
 | 20211214T01:50:52Z | History of symbolic execution (as well as SAT/SMT solving, fuzzing, and taint data tracking) | https://github.com/enzet/symbolic-execution | 410 | 57| 
@@ -147,7 +148,6 @@
 | 20211214T00:57:11Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 12 | 1| 
 | 20211214T00:50:49Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4646 | 475| 
 | 20211214T00:42:57Z | Null | https://github.com/finchFuzzy/FinchFuzzy.github.io | 0 | 0| 
-| 20211214T00:37:58Z | Kernel Fuzzer for Xen Project (KF/x) - Hypervisor-based fuzzing using Xen VM forking, VMI & AFL | https://github.com/intel/kernel-fuzzer-for-xen-project | 379 | 55| 
 
 
 
