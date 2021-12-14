@@ -86,7 +86,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20211214T02:15:23Z | My Exploits | https://github.com/w41l3r/Exploits | 0 | 0| 
-| 20211214T02:14:23Z | JNDI注入测试工具（A tool which generates JNDI links can start several servers to exploit JNDI Injection vulnerability,like Jackson,Fastjson,etc） | https://github.com/welk1n/JNDI-Injection-Exploit | 1342 | 377| 
+| 20211214T02:14:23Z | JNDI注入测试工具（A tool which generates JNDI links can start several servers to exploit JNDI Injection vulnerability,like Jackson,Fastjson,etc） | https://github.com/welk1n/JNDI-Injection-Exploit | 1342 | 378| 
 | 20211214T02:12:13Z | Null | https://github.com/NotOnTop/Exploits_Public | 0 | 0| 
 | 20211214T02:10:42Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 375 | 60| 
 | 20211214T02:09:24Z | 漏洞利用收集 | https://github.com/MiracleLau/exploits | 1 | 0| 
