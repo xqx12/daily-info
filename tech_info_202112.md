@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211214T01:20:33Z | CVE-2021-44228 | Apache Log4j 远程代码执行 | https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce | | 
 | 20211214T01:11:25Z | CVE-2021-44228 | Null | https://github.com/LutziGoz/Log4Shell_Exploitation-Vulnerabiliy__CVE-2021-44228 | | 
-| 20211214T01:10:56Z | CVE-2021-44228 | Apache Log4j 远程代码执行 | https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce | | 
 | 20211214T01:06:33Z | CVE-2021-44228 | OpenIOC rules to facilitate hunting for indicators of compromise | https://github.com/fireeye/CVE-2021-44228 | | 
 | 20211214T00:54:55Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211214T00:06:25Z | CVE-2021-44228 | Professional Service scripts to aid in the identification of affected Java applications in TeamServer | https://github.com/Contrast-Security-OSS/CVE-2021-44228 | | 
@@ -85,12 +85,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211214T01:15:07Z | Multi FW Support Exploit Host For PS4. | https://github.com/Harleythetech/MultiFW-RD-PS4 | 0 | 0| 
+| 20211214T01:19:02Z | Null | https://github.com/Spard2/ps4exploit | 0 | 0| 
+| 20211214T01:18:55Z | Multi FW Support Exploit Host For PS4. | https://github.com/Harleythetech/MultiFW-RD-PS4 | 0 | 0| 
+| 20211214T01:16:47Z | JNDI注入测试工具（A tool which generates JNDI links can start several servers to exploit JNDI Injection vulnerability,like Jackson,Fastjson,etc） | https://github.com/welk1n/JNDI-Injection-Exploit | 1335 | 374| 
 | 20211214T01:12:11Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 373 | 60| 
 | 20211214T01:11:25Z | Null | https://github.com/LutziGoz/Log4Shell_Exploitation-Vulnerabiliy__CVE-2021-44228 | 1 | 0| 
-| 20211214T01:09:43Z | Null | https://github.com/Spard2/ps4exploit | 0 | 0| 
 | 20211214T01:03:44Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 37 | 20| 
-| 20211214T01:01:39Z | JNDI注入测试工具（A tool which generates JNDI links can start several servers to exploit JNDI Injection vulnerability,like Jackson,Fastjson,etc） | https://github.com/welk1n/JNDI-Injection-Exploit | 1334 | 373| 
 | 20211214T00:59:46Z | Null | https://github.com/shellazra/exploit | 0 | 0| 
 | 20211214T00:55:25Z | proxylogon, proxyshell, proxyoracle and proxytoken full chain exploit tool | https://github.com/FDlucifer/Proxy-Attackchain | 76 | 20| 
 | 20211214T00:54:50Z | See https://github.com/christophetd/log4shell-vulnerable-app | https://github.com/ripper2hl/Example-jndiExploit- | 0 | 0| 
