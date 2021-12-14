@@ -25,7 +25,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211214T13:41:27Z | CVE-2021-44228 | Remote Code Injection In Log4j | https://github.com/jas502n/Log4j2-CVE-2021-44228 | | 
+| 20211214T13:44:13Z | CVE-2021-44228 | Remote Code Injection In Log4j | https://github.com/jas502n/Log4j2-CVE-2021-44228 | | 
 | 20211214T13:34:07Z | cve-2021-44228 | Null | https://github.com/didoatanasov/cve-2021-44228 | | 
 | 20211214T13:33:18Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211214T13:24:59Z | CVE-2021-44228 | Null | https://github.com/rwincey/CVE-2021-44228-Log4j-Payloads | | 
@@ -52,6 +52,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211214T13:43:38Z | Minecraft Honeypot for Log4j exploit. CVE-2021-44228 Log4Shell LogJam | https://github.com/Adikso/minecraft-log4j-honeypot | 39 | 11| 
 | 20211214T13:42:33Z | Null | https://github.com/DongHongcheng/LSTM_exploitation | 0 | 0| 
 | 20211214T13:41:15Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 436 | 69| 
 | 20211214T13:35:10Z | 😎 Exploiting utility for Roblox. | https://github.com/catboy08/comet | 2 | 0| 
@@ -61,7 +62,6 @@
 | 20211214T12:56:56Z | Store all exploit-db.com/google-hacking-database results then scrape google for every exploit-db query. Stores the Google results and IP information. (and eventually WHOIS) | https://github.com/frame-of-reference/ghdb | 0 | 0| 
 | 20211214T12:54:40Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10441 | 1797| 
 | 20211214T12:51:59Z | A simple but effective fix for the Log4Shell exploit. | https://github.com/zVengine/Log4ShellFix | 1 | 0| 
-| 20211214T12:51:58Z | Details : CVE-2021-44228 | https://github.com/34zY/JNDI-Exploit-1.2-log4shell | 0 | 0| 
 
 
 # backdoor on Github 推荐
