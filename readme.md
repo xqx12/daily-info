@@ -97,7 +97,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211214T13:41:24Z | Log4j2 jndi injection fuzz tool | https://github.com/zhzyker/logmap | 23 | 9| 
+| 20211214T13:47:18Z | Log4j2 jndi injection fuzz tool | https://github.com/zhzyker/logmap | 25 | 9| 
 | 20211214T13:33:37Z | Null | https://github.com/Clearymk/TypeScriptFuzzer | 0 | 1| 
 | 20211214T13:27:29Z | Sequence-Oriented DBMS Fuzzing | https://github.com/Lego2021/LEGO | 1 | 0| 
 | 20211214T13:21:01Z | Null | https://github.com/wagnerkaba/fuzzy-rotary-phone | 0 | 0| 
