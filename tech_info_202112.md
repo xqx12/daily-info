@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211214T02:14:38Z | CVE-2021-44228 | Null | https://github.com/RedDrip7/Log4Shell_CVE-2021-44228_related_attacks_IOCs | | 
 | 20211214T02:14:30Z | CVE-2021-44228 | Apache Log4j 远程代码执行 | https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce | | 
 | 20211214T02:14:01Z | CVE-2021-44228 | Remote Code Injection In Log4j | https://github.com/jas502n/Log4j2-CVE-2021-44228 | | 
 | 20211214T02:12:54Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
@@ -55,7 +56,6 @@
 | 20211213T23:38:08Z | 未知编号 | NGINX njs based request inspection configuration for IOCs of Log4Shell vulnerability | https://github.com/tippexs/nginx-njs-waf-cve2021-44228 | | 
 | 20211213T22:53:54Z | CVE-2021-44228 | CVE-2021-44228 (Log4Shell) Proof of Concept | https://github.com/sunnyvale-it/CVE-2021-44228-PoC | | 
 | 20211213T22:41:05Z | CVE-2021-44228 | Test for log4j vulnerability across your external footprint | https://github.com/ssstonebraker/log4j_CVE-2021-44228_tester | | 
-| 20211213T22:39:05Z | CVE-2021-44228 | list of ips pulled from greynoise for this | https://github.com/seamus-dev/CVE-2021-44228 | | 
 
 
 # klee on Github 推荐
