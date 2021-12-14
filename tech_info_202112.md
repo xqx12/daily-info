@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211214T01:53:48Z | CVE-2021-44228 | Apache Log4j 远程代码执行 | https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce | | 
+| 20211214T01:55:38Z | CVE-2021-44228 | Apache Log4j 远程代码执行 | https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce | | 
 | 20211214T01:44:51Z | CVE-2021-44228 | Null | https://github.com/LutziGoz/Log4Shell_Exploitation-Vulnerabiliy__CVE-2021-44228 | | 
 | 20211214T01:40:19Z | CVE-2021-44228 | Professional Service scripts to aid in the identification of affected Java applications in TeamServer | https://github.com/Contrast-Security-OSS/CVE-2021-44228 | | 
 | 20211214T01:27:24Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
@@ -85,8 +85,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211214T01:56:54Z | JNDI注入测试工具（A tool which generates JNDI links can start several servers to exploit JNDI Injection vulnerability,like Jackson,Fastjson,etc） | https://github.com/welk1n/JNDI-Injection-Exploit | 1339 | 377| 
 | 20211214T01:50:37Z | proxylogon, proxyshell, proxyoracle and proxytoken full chain exploit tool | https://github.com/FDlucifer/Proxy-Attackchain | 77 | 20| 
-| 20211214T01:46:43Z | JNDI注入测试工具（A tool which generates JNDI links can start several servers to exploit JNDI Injection vulnerability,like Jackson,Fastjson,etc） | https://github.com/welk1n/JNDI-Injection-Exploit | 1338 | 377| 
 | 20211214T01:44:57Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 375 | 59| 
 | 20211214T01:44:51Z | Null | https://github.com/LutziGoz/Log4Shell_Exploitation-Vulnerabiliy__CVE-2021-44228 | 1 | 0| 
 | 20211214T01:33:18Z | Network vulnerability exploitation library | https://github.com/sairson/NetworkExpLibrary | 13 | 4| 
