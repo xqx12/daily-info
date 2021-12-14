@@ -85,7 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211214T02:48:48Z | JNDI注入测试工具（A tool which generates JNDI links can start several servers to exploit JNDI Injection vulnerability,like Jackson,Fastjson,etc） | https://github.com/welk1n/JNDI-Injection-Exploit | 1344 | 380| 
+| 20211214T02:50:00Z | JNDI注入测试工具（A tool which generates JNDI links can start several servers to exploit JNDI Injection vulnerability,like Jackson,Fastjson,etc） | https://github.com/welk1n/JNDI-Injection-Exploit | 1345 | 380| 
 | 20211214T02:40:09Z | proxylogon, proxyshell, proxyoracle and proxytoken full chain exploit tool | https://github.com/FDlucifer/Proxy-Attackchain | 78 | 20| 
 | 20211214T02:36:40Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 376 | 60| 
 | 20211214T02:31:23Z | Null | https://github.com/LutziGoz/Log4Shell_Exploitation-Vulnerabiliy__CVE-2021-44228 | 1 | 0| 
