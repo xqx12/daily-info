@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211215T01:08:17Z | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | 120 | 23| 
 | 20211215T01:03:25Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 37 | 20| 
 | 20211215T01:03:13Z | Codes from Hacking: The Art of Exploitation book. By Jon Erickson. | https://github.com/edupazzz/Hacking-The-Art-of-Exploitation-Book | 0 | 0| 
 | 20211215T00:57:31Z | Null | https://github.com/lucdoeburn/ArtOfExploitation | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20211215T00:03:13Z | Python3 script for scanning CVE-2021-44228 (Log4shell) vulnerable machines. | https://github.com/lfama/log4j_checker | 2 | 0| 
 | 20211214T23:48:54Z | As the Red Team, you will attack a vulnerable VM within your environment, ultimately gaining root access to the machine. As Blue Team, you will use Kibana to review logs taken during their Day 1 engagement. You%ll use the logs to extract hard data and visualizations for an assessment report. The log data will be interpreted in order to suggest mitigation measures for each successful exploit. | https://github.com/jmarcbaker/Red-vs-Blue-Team-Project-II | 0 | 0| 
 | 20211214T23:38:31Z | Collection of Discord hacking tools/fun stuff/exploits that is completely made using NodeJS. | https://github.com/I2rys/ODiscord | 37 | 17| 
-| 20211214T23:31:04Z | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | 120 | 23| 
 | 20211214T23:17:58Z |  pOOBs4 PS4 exploit for v9.0 + automatic golden hen | https://github.com/mc-17/pspack-flask | 1 | 0| 
 
 
@@ -141,7 +141,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211215T01:06:29Z | ☸A stateful GraphQL fuzzer (in development) | https://github.com/omar2535/GraphQLer | 12 | 2| 
+| 20211215T01:07:37Z | ☸A stateful GraphQL fuzzer (in development) | https://github.com/omar2535/GraphQLer | 12 | 2| 
 | 20211215T00:26:16Z | We%ll be using HTML, CSS and JavaScript for the frontend. Nothing to install in specific. Open your text-editor and start coding a beautiful front-end. | https://github.com/sai-tilak/Fuzzy-URL-s | 0 | 0| 
 | 20211215T00:24:56Z | A conda-smithy repository for fuzzymatcher. | https://github.com/conda-forge/fuzzymatcher-feedstock | 0 | 0| 
 | 20211215T00:16:56Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
