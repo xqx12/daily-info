@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211215T13:35:35Z | Null | https://github.com/Kirill89/log4shell-vulnerable-server-exploit | 0 | 0| 
 | 20211215T13:34:07Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 543 | 88| 
 | 20211215T13:16:56Z | Info for exploiting vulnerabilities | https://github.com/Amitale/Penetration-Testing-Notes | 0 | 0| 
 | 20211215T13:03:07Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 37 | 20| 
@@ -97,7 +98,6 @@
 | 20211215T12:34:53Z | A utility that looks for log4j2 JNDI vulnerabilities in your jar files and fixes them | https://github.com/tox1cozZ/log4j2-jndi-exploit-patcher | 3 | 0| 
 | 20211215T12:34:51Z | Rodan Exploitation Framework | https://github.com/Etisalat-Egypt/Rodan | 61 | 19| 
 | 20211215T12:23:29Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 258 | 78| 
-| 20211215T12:10:32Z | Hot-patch CVE-2021-44228 by exploiting the vulnerability itself. | https://github.com/qingtengyun/cve-2021-44228-qingteng-online-patch | 21 | 2| 
 
 
 # backdoor on Github 推荐
@@ -142,6 +142,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211215T13:35:32Z | Bot which suggests movies according to a users taste | https://github.com/rafibu/fuzzy | 0 | 0| 
 | 20211215T13:33:06Z | Null | https://github.com/polymorphicengine/Semi-Fuzzy-Quantifiers | 0 | 0| 
 | 20211215T13:25:14Z | Null | https://github.com/ys-zhang/filter-fuzz | 0 | 0| 
 | 20211215T13:12:04Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 377 | 35| 
@@ -151,7 +152,6 @@
 | 20211215T11:30:38Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 634 | 67| 
 | 20211215T11:27:10Z | Learning how to code | https://github.com/sanjapm/fuzzy-code | 0 | 0| 
 | 20211215T11:15:54Z | Just some code | https://github.com/PriyanshSingh167/fuzzy-disco | 0 | 0| 
-| 20211215T11:15:39Z | A conda-smithy repository for fuzzywuzzy. | https://github.com/conda-forge/fuzzywuzzy-feedstock | 1 | 7| 
 
 
 
