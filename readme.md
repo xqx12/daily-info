@@ -27,6 +27,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211215T13:35:09Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
 | 20211215T13:30:53Z | CVE-2021-44228 | CVE-2021-44228 on Docker & Podman | https://github.com/ahmad4fifz/CVE-2021-44228 | | 
 | 20211215T13:29:25Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211215T13:27:49Z | CVE-2021-44228 | Apache Log4j 远程代码执行 | https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce | | 
@@ -36,7 +37,6 @@
 | 20211215T12:08:22Z | CVE-2021-44228 | Log4j2 CVE-2021-44228 revshell | https://github.com/faisalfs10x/Log4j2-CVE-2021-44228-revshell | | 
 | 20211215T11:36:20Z | CVE-2021-44228 | Null | https://github.com/Junhyunny/log4j-vulnerability-CVE-2021-44228 | | 
 | 20211215T11:23:41Z | CVE-2021-44228 | Null | https://github.com/ab0x90/CVE-2021-44228_PoC | | 
-| 20211215T11:15:25Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/jyotisahu98/logpresso-CVE-2021-44228-Scanner | | 
 
 
 # klee on Github 推荐
@@ -58,8 +58,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211215T13:34:07Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 543 | 88| 
 | 20211215T13:16:56Z | Info for exploiting vulnerabilities | https://github.com/Amitale/Penetration-Testing-Notes | 0 | 0| 
-| 20211215T13:12:59Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 542 | 88| 
 | 20211215T13:03:07Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 37 | 20| 
 | 20211215T13:02:25Z | This project is exploit for some docker containers with vulnerability code: CVE-2020-35191  | https://github.com/megadimenex/hidocker | 0 | 0| 
 | 20211215T13:02:14Z | Escape From Tarkov API (Unofficial) The purpose of this API is to bring together different data that could be exploitable. Works by scrapping. | https://github.com/FoobarIT/EscapeFromTarkov-API | 0 | 0| 
@@ -105,9 +105,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211215T13:33:06Z | Null | https://github.com/polymorphicengine/Semi-Fuzzy-Quantifiers | 0 | 0| 
 | 20211215T13:25:14Z | Null | https://github.com/ys-zhang/filter-fuzz | 0 | 0| 
 | 20211215T13:12:04Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 377 | 35| 
-| 20211215T13:08:27Z | Null | https://github.com/polymorphicengine/Semi-Fuzzy-Quantifiers | 0 | 0| 
 | 20211215T12:14:00Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 12 | 2| 
 | 20211215T12:00:07Z | Null | https://github.com/django/django-fuzzers | 2 | 1| 
 | 20211215T11:39:17Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
