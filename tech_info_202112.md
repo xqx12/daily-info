@@ -46,9 +46,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211215T01:25:10Z | CVE-2021-44228 | Apache Log4j 远程代码执行 | https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce | | 
 | 20211215T01:22:19Z | CVE-2021-44228 | Remote Code Injection In Log4j | https://github.com/jas502n/Log4j2-CVE-2021-44228 | | 
 | 20211215T01:19:00Z | cve-2021-21315 | Null | https://github.com/eR072391/cve-2021-21315 | | 
-| 20211215T01:13:16Z | CVE-2021-44228 | Apache Log4j 远程代码执行 | https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce | | 
 | 20211215T01:05:53Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
 | 20211215T00:30:22Z | CVE-2021-44228 | CVE-2021-44228 Response Scripts | https://github.com/0xThiebaut/CVE-2021-44228 | | 
 | 20211215T00:06:00Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
@@ -87,12 +87,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211215T01:22:41Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 491 | 77| 
 | 20211215T01:11:12Z | Codes from Hacking: The Art of Exploitation book. By Jon Erickson. | https://github.com/edupazzz/Hacking-The-Art-of-Exploitation-Book | 0 | 0| 
 | 20211215T01:08:17Z | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | 120 | 23| 
 | 20211215T01:03:25Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 37 | 20| 
 | 20211215T00:57:31Z | Null | https://github.com/lucdoeburn/ArtOfExploitation | 0 | 0| 
 | 20211215T00:45:53Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 16| 
-| 20211215T00:23:04Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 490 | 77| 
 | 20211215T00:03:13Z | Python3 script for scanning CVE-2021-44228 (Log4shell) vulnerable machines. | https://github.com/lfama/log4j_checker | 2 | 0| 
 | 20211214T23:48:54Z | As the Red Team, you will attack a vulnerable VM within your environment, ultimately gaining root access to the machine. As Blue Team, you will use Kibana to review logs taken during their Day 1 engagement. You%ll use the logs to extract hard data and visualizations for an assessment report. The log data will be interpreted in order to suggest mitigation measures for each successful exploit. | https://github.com/jmarcbaker/Red-vs-Blue-Team-Project-II | 0 | 0| 
 | 20211214T23:38:31Z | Collection of Discord hacking tools/fun stuff/exploits that is completely made using NodeJS. | https://github.com/I2rys/ODiscord | 37 | 17| 
@@ -141,7 +141,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211215T01:22:32Z | FuSeBMC is a White-Box Fuzzer that combines FUzzing with Symbolic Execution via Bounded Model Checking to verify intricate properties in real-world C programs. | https://github.com/kaled-alshmrany/FuSeBMC | 20 | 2| 
+| 20211215T01:24:38Z | FuSeBMC is a White-Box Fuzzer that combines FUzzing with Symbolic Execution via Bounded Model Checking to verify intricate properties in real-world C programs. | https://github.com/kaled-alshmrany/FuSeBMC | 20 | 2| 
 | 20211215T01:07:37Z | ☸A stateful GraphQL fuzzer (in development) | https://github.com/omar2535/GraphQLer | 12 | 2| 
 | 20211215T00:26:16Z | We%ll be using HTML, CSS and JavaScript for the frontend. Nothing to install in specific. Open your text-editor and start coding a beautiful front-end. | https://github.com/sai-tilak/Fuzzy-URL-s | 0 | 0| 
 | 20211215T00:24:56Z | A conda-smithy repository for fuzzymatcher. | https://github.com/conda-forge/fuzzymatcher-feedstock | 0 | 0| 
