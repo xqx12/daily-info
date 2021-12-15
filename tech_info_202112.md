@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211215T02:31:14Z | CVE-2021-44228 | Aims to find JndiLookup.class in nearly any directory or zip, jar, ear, war file, even deeply nested. | https://github.com/jeremyrsellars/CVE-2021-44228_scanner | | 
 | 20211215T02:29:23Z | CVE-2021-44228 | Remote Code Injection In Log4j | https://github.com/jas502n/Log4j2-CVE-2021-44228 | | 
 | 20211215T02:17:58Z | CVE-2021-44228 | Apache Log4j 远程代码执行 | https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce | | 
 | 20211215T02:16:54Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
@@ -55,7 +56,6 @@
 | 20211215T01:05:53Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
 | 20211215T00:30:22Z | CVE-2021-44228 | CVE-2021-44228 Response Scripts | https://github.com/0xThiebaut/CVE-2021-44228 | | 
 | 20211214T23:44:03Z | CVE-2021-44228 | Null | https://github.com/ab0x90/CVE-2021-44228_PoC | | 
-| 20211214T22:55:10Z | CVE-2021-44228 | Generate CVE-2021-44228 commands to test servers with ease! | https://github.com/csduncan9/Log4j-CVE-2021-44228-command-generator | | 
 
 
 # klee on Github 推荐
