@@ -60,7 +60,6 @@
 | --- | --- | --- | --- | ---| 
 | 20211214T23:48:54Z | As the Red Team, you will attack a vulnerable VM within your environment, ultimately gaining root access to the machine. As Blue Team, you will use Kibana to review logs taken during their Day 1 engagement. You%ll use the logs to extract hard data and visualizations for an assessment report. The log data will be interpreted in order to suggest mitigation measures for each successful exploit. | https://github.com/jmarcbaker/Red-vs-Blue-Team-Project-II | 0 | 0| 
 | 20211214T23:38:31Z | Collection of Discord hacking tools/fun stuff/exploits that is completely made using NodeJS. | https://github.com/I2rys/ODiscord | 37 | 17| 
-| 20211214T23:17:58Z |  pOOBs4 PS4 exploit for v9.0 + automatic golden hen | https://github.com/mc-17/pspack-flask | 1 | 0| 
 | 20211214T22:57:31Z | Null | https://github.com/brentshierk/exploit | 0 | 0| 
 | 20211214T22:48:57Z | catch log4j exploits in the wild? maybe if we%re lucky... . | https://github.com/entropyQueen/log4j_catcher | 14 | 2| 
 | 20211214T22:47:25Z | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | 1 | 0| 
@@ -68,6 +67,7 @@
 | 20211214T21:43:05Z | Selection of ways to remove JndiLookup in now obsolete Minecraft versions, or versions that still have log4j < 2.10 and is unable to use `-Dlog4j2.formatMsgNoLookups=true` | https://github.com/LoliKingdom/NukeJndiLookupFromLog4j | 10 | 1| 
 | 20211214T21:28:19Z | EternalBlue suite remade in C/C++ which includes: MS17-010 Exploit, EternalBlue vulnerability detector, DoublePulsar detector and DoublePulsar Shellcode & DLL uploader | https://github.com/bhassani/EternalBlueC | 378 | 100| 
 | 20211214T21:21:14Z | Static compiled version of Yara for Linux x86-64, without any library dependency, and the rules to detect Log4Shell exploitation attempts. Very usefull in case yara is not installed on the system. | https://github.com/ChriSanders22/Log4Shell-detector | 1 | 0| 
+| 20211214T21:14:13Z | Null | https://github.com/Hassen-Chtara/Binary-Exploitation-101 | 0 | 0| 
 
 
 # backdoor on Github 推荐
