@@ -141,6 +141,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211215T02:40:30Z | Null | https://github.com/brucevanhorn2/fuzzy-journey | 0 | 0| 
+| 20211215T02:40:29Z | Null | https://github.com/Blaker817/fuzzy | 0 | 0| 
+| 20211215T02:40:19Z | Easy to use and powerful fuzzy string matching, port of fuzzywuzzy. | https://github.com/nol13/fuzzball.js | 417 | 33| 
 | 20211215T02:18:30Z | ☸A stateful GraphQL fuzzer (in development) | https://github.com/omar2535/GraphQLer | 12 | 2| 
 | 20211215T02:05:12Z | Alphalog 更快、更安全。支持完全匿名 产品(fuzz.red) | https://github.com/AlphabugX/Alphalog | 1 | 0| 
 | 20211215T01:48:34Z | Basic python fuzzing script  | https://github.com/Mohammad-Sarker/Fuzzer | 0 | 0| 
@@ -148,9 +151,6 @@
 | 20211215T01:36:26Z | Sequence-Oriented DBMS Fuzzing | https://github.com/Lego2021/LEGO | 1 | 0| 
 | 20211215T01:30:16Z | TUI file explorer based on PowerShell and fzf | https://github.com/shinyanger/fuzzy-explorer | 2 | 0| 
 | 20211215T01:24:38Z | FuSeBMC is a White-Box Fuzzer that combines FUzzing with Symbolic Execution via Bounded Model Checking to verify intricate properties in real-world C programs. | https://github.com/kaled-alshmrany/FuSeBMC | 20 | 2| 
-| 20211215T00:26:16Z | We%ll be using HTML, CSS and JavaScript for the frontend. Nothing to install in specific. Open your text-editor and start coding a beautiful front-end. | https://github.com/sai-tilak/Fuzzy-URL-s | 0 | 0| 
-| 20211215T00:24:56Z | A conda-smithy repository for fuzzymatcher. | https://github.com/conda-forge/fuzzymatcher-feedstock | 0 | 0| 
-| 20211215T00:16:56Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 
 
 
