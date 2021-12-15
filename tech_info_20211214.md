@@ -36,9 +36,9 @@
 | 20211214T20:04:48Z | CVE-2021-44228 | vulnerability POC | https://github.com/KosmX/CVE-2021-44228-example | | 
 | 20211214T19:46:55Z | CVE-2021-44228 | Null | https://github.com/faisalfs10x/Log4j2-CVE-2021-44228-revshell | | 
 | 20211214T19:46:05Z | cve-2021-44228 | Some files for red team/blue team investigations into CVE-2021-44228 | https://github.com/kimobu/cve-2021-44228 | | 
-| 20211214T18:13:48Z | CVE-2021-44228 | Apply class remove process from ear/war/jar/zip archive, see https://logging.apache.org/log4j/2.x/ | https://github.com/AlexandreHeroux/Fix-CVE-2021-44228 | | 
 | 20211214T18:03:52Z | CVE-2021-44228 | CVE-2021-44228 | https://github.com/ShaneKingBlog/org.shaneking.demo.cve.y2021.s44228 | | 
 | 20211214T17:58:15Z | CVE-2021-44228 | Null | https://github.com/municipalparkingservices/CVE-2021-44228-Scanner | | 
+| 20211214T17:09:35Z | CVE-2021-43798 | Grafana8.x 任意文件读取 | https://github.com/Ryze-T/CVE-2021-43798 | | 
 
 
 # klee on Github 推荐

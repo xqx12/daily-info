@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211215T01:53:10Z | CVE-2021-44228 | Apply class remove process from ear/war/jar/zip archive, see https://logging.apache.org/log4j/2.x/ | https://github.com/AlexandreHeroux/Fix-CVE-2021-44228 | | 
 | 20211215T01:49:53Z | CVE-2021-44228 | Apache Log4j 远程代码执行 | https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce | | 
 | 20211215T01:22:19Z | CVE-2021-44228 | Remote Code Injection In Log4j | https://github.com/jas502n/Log4j2-CVE-2021-44228 | | 
 | 20211215T01:19:00Z | cve-2021-21315 | Null | https://github.com/eR072391/cve-2021-21315 | | 
@@ -55,7 +56,6 @@
 | 20211214T23:44:03Z | CVE-2021-44228 | Null | https://github.com/ab0x90/CVE-2021-44228_PoC | | 
 | 20211214T22:55:10Z | CVE-2021-44228 | Generate CVE-2021-44228 commands to test servers with ease! | https://github.com/csduncan9/Log4j-CVE-2021-44228-command-generator | | 
 | 20211214T22:47:25Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
-| 20211214T21:03:07Z | CVE-2021-44228 | Test for log4j vulnerability across your external footprint | https://github.com/ssstonebraker/log4j_CVE-2021-44228_tester | | 
 
 
 # klee on Github 推荐
@@ -102,7 +102,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211215T01:43:36Z | Design a backdoor detector for BadNets | https://github.com/tianhao22/backdoor-detector | 0 | 0| 
+| 20211215T01:52:33Z | Design a backdoor detector for BadNets | https://github.com/tianhao22/backdoor-detector | 0 | 0| 
 | 20211215T00:19:11Z | Null | https://github.com/codehz/bashrc-backdoor | 5 | 1| 
 | 20211215T00:08:46Z | backdoor de acesso remoto (em desenvolvimento) | https://github.com/mednic/bckdoor | 0 | 0| 
 | 20211215T00:01:23Z | Statically-linked ssh server with reverse shell functionality for CTFs and such | https://github.com/Fahrj/reverse-ssh | 455 | 57| 
@@ -141,6 +141,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211215T01:53:15Z | Alphalog 更快、更安全。支持完全匿名 产品(fuzz.red) | https://github.com/AlphabugX/Alphalog | 1 | 0| 
+| 20211215T01:48:34Z | Basic python fuzzing script  | https://github.com/Mohammad-Sarker/Fuzzer | 0 | 0| 
 | 20211215T01:43:27Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1318 | 141| 
 | 20211215T01:36:26Z | Sequence-Oriented DBMS Fuzzing | https://github.com/Lego2021/LEGO | 1 | 0| 
 | 20211215T01:30:16Z | TUI file explorer based on PowerShell and fzf | https://github.com/shinyanger/fuzzy-explorer | 2 | 0| 
@@ -149,8 +151,6 @@
 | 20211215T00:26:16Z | We%ll be using HTML, CSS and JavaScript for the frontend. Nothing to install in specific. Open your text-editor and start coding a beautiful front-end. | https://github.com/sai-tilak/Fuzzy-URL-s | 0 | 0| 
 | 20211215T00:24:56Z | A conda-smithy repository for fuzzymatcher. | https://github.com/conda-forge/fuzzymatcher-feedstock | 0 | 0| 
 | 20211215T00:16:56Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20211215T00:10:36Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 39 | 12| 
-| 20211215T00:10:07Z | Null | https://github.com/joseffaghihi/Causal-fuzzy-CEVAE | 1 | 0| 
 
 
 
