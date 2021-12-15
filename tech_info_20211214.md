@@ -75,7 +75,6 @@
 | --- | --- | --- | --- | ---| 
 | 20211214T20:41:19Z | Null | https://github.com/ezequielsoler/invisible-backdoor | 0 | 0| 
 | 20211214T18:17:42Z | High School project that utilizes python machine learning algorithm to find malicious backdoor programs on a Linux system | https://github.com/MizuBon/mlDoora | 0 | 0| 
-| 20211214T17:49:07Z | Design a backdoor detector for BadNets | https://github.com/tianhao22/backdoor-detector | 0 | 0| 
 | 20211214T16:25:01Z | Null | https://github.com/jrbeduardo/trojano_backdoor | 0 | 0| 
 | 20211214T15:16:34Z | Python-Backdoor | https://github.com/s120000/Python-Backdoor | 1 | 0| 
 | 20211214T13:30:45Z | Null | https://github.com/JorikSchillemans/Botnet-Backdoor-Keylogger | 0 | 0| 
@@ -83,6 +82,7 @@
 | 20211214T10:51:36Z | Null | https://github.com/MikeTeddyOmondi/c_backdoor | 0 | 0| 
 | 20211214T09:47:17Z | Null | https://github.com/Scorpio-m7/tomcat-backdoor | 7 | 1| 
 | 20211214T09:34:10Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 117 | 29| 
+| 20211214T06:53:58Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 390 | 67| 
 
 
 # symbolic execution on Github 推荐

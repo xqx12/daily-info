@@ -87,8 +87,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211215T01:44:42Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 495 | 77| 
 | 20211215T01:35:22Z |  pOOBs4 PS4 exploit for v9.0 + automatic golden hen | https://github.com/mc-17/pspack-flask | 2 | 0| 
-| 20211215T01:31:06Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 493 | 77| 
 | 20211215T01:11:12Z | Codes from Hacking: The Art of Exploitation book. By Jon Erickson. | https://github.com/edupazzz/Hacking-The-Art-of-Exploitation-Book | 0 | 0| 
 | 20211215T01:08:17Z | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | 120 | 23| 
 | 20211215T01:03:25Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 37 | 20| 
@@ -102,12 +102,12 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211215T01:43:36Z | Design a backdoor detector for BadNets | https://github.com/tianhao22/backdoor-detector | 0 | 0| 
 | 20211215T00:19:11Z | Null | https://github.com/codehz/bashrc-backdoor | 5 | 1| 
 | 20211215T00:08:46Z | backdoor de acesso remoto (em desenvolvimento) | https://github.com/mednic/bckdoor | 0 | 0| 
 | 20211215T00:01:23Z | Statically-linked ssh server with reverse shell functionality for CTFs and such | https://github.com/Fahrj/reverse-ssh | 455 | 57| 
 | 20211214T20:41:19Z | Null | https://github.com/ezequielsoler/invisible-backdoor | 0 | 0| 
 | 20211214T18:17:42Z | High School project that utilizes python machine learning algorithm to find malicious backdoor programs on a Linux system | https://github.com/MizuBon/mlDoora | 0 | 0| 
-| 20211214T17:49:07Z | Design a backdoor detector for BadNets | https://github.com/tianhao22/backdoor-detector | 0 | 0| 
 | 20211214T16:25:01Z | Null | https://github.com/jrbeduardo/trojano_backdoor | 0 | 0| 
 | 20211214T15:16:34Z | Python-Backdoor | https://github.com/s120000/Python-Backdoor | 1 | 0| 
 | 20211214T13:30:45Z | Null | https://github.com/JorikSchillemans/Botnet-Backdoor-Keylogger | 0 | 0| 
