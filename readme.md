@@ -82,7 +82,7 @@
 | 20211214T10:51:36Z | Null | https://github.com/MikeTeddyOmondi/c_backdoor | 0 | 0| 
 | 20211214T09:47:17Z | Null | https://github.com/Scorpio-m7/tomcat-backdoor | 7 | 1| 
 | 20211214T09:34:10Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 117 | 29| 
-| 20211214T06:53:58Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 390 | 67| 
+| 20211214T03:25:43Z | The project is to design a backdoor detector for BadNets trained on the YouTube Face dataset. | https://github.com/381352903/ML_cyber_project | 1 | 0| 
 
 
 # symbolic execution on Github 推荐

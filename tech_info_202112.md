@@ -102,8 +102,9 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211215T02:21:55Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 391 | 67| 
 | 20211215T01:52:33Z | Design a backdoor detector for BadNets | https://github.com/tianhao22/backdoor-detector | 0 | 0| 
-| 20211215T00:19:11Z | Null | https://github.com/codehz/bashrc-backdoor | 5 | 1| 
+| 20211215T00:19:11Z | Null | https://github.com/codehz/bashrc-backdoor | 5 | 2| 
 | 20211215T00:08:46Z | backdoor de acesso remoto (em desenvolvimento) | https://github.com/mednic/bckdoor | 0 | 0| 
 | 20211215T00:01:23Z | Statically-linked ssh server with reverse shell functionality for CTFs and such | https://github.com/Fahrj/reverse-ssh | 455 | 57| 
 | 20211214T20:41:19Z | Null | https://github.com/ezequielsoler/invisible-backdoor | 0 | 0| 
@@ -111,7 +112,6 @@
 | 20211214T16:25:01Z | Null | https://github.com/jrbeduardo/trojano_backdoor | 0 | 0| 
 | 20211214T15:16:34Z | Python-Backdoor | https://github.com/s120000/Python-Backdoor | 1 | 0| 
 | 20211214T13:30:45Z | Null | https://github.com/JorikSchillemans/Botnet-Backdoor-Keylogger | 0 | 0| 
-| 20211214T13:17:49Z | Null | https://github.com/thryec/backdoor | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
