@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211215T01:30:30Z | CVE-2021-44228 | Apache Log4j 远程代码执行 | https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce | | 
+| 20211215T01:41:26Z | CVE-2021-44228 | Apache Log4j 远程代码执行 | https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce | | 
 | 20211215T01:22:19Z | CVE-2021-44228 | Remote Code Injection In Log4j | https://github.com/jas502n/Log4j2-CVE-2021-44228 | | 
 | 20211215T01:19:00Z | cve-2021-21315 | Null | https://github.com/eR072391/cve-2021-21315 | | 
 | 20211215T01:05:53Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
@@ -117,7 +117,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211215T01:30:33Z | Symbolic Execution & Verification Framework | https://github.com/gprechter/youverify | 1 | 0| 
+| 20211215T01:38:38Z | Symbolic Execution & Verification Framework | https://github.com/gprechter/youverify | 1 | 0| 
 | 20211215T01:24:38Z | FuSeBMC is a White-Box Fuzzer that combines FUzzing with Symbolic Execution via Bounded Model Checking to verify intricate properties in real-world C programs. | https://github.com/kaled-alshmrany/FuSeBMC | 20 | 2| 
 | 20211214T21:33:45Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1931 | 402| 
 | 20211214T20:26:48Z | Symbolica%s open-source symbolic execution engine. | https://github.com/Symbolica/Symbolica | 46 | 3| 
@@ -141,6 +141,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211215T01:43:27Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1318 | 141| 
 | 20211215T01:36:26Z | Sequence-Oriented DBMS Fuzzing | https://github.com/Lego2021/LEGO | 1 | 0| 
 | 20211215T01:30:16Z | TUI file explorer based on PowerShell and fzf | https://github.com/shinyanger/fuzzy-explorer | 2 | 0| 
 | 20211215T01:24:38Z | FuSeBMC is a White-Box Fuzzer that combines FUzzing with Symbolic Execution via Bounded Model Checking to verify intricate properties in real-world C programs. | https://github.com/kaled-alshmrany/FuSeBMC | 20 | 2| 
@@ -150,7 +151,6 @@
 | 20211215T00:16:56Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211215T00:10:36Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 39 | 12| 
 | 20211215T00:10:07Z | Null | https://github.com/joseffaghihi/Causal-fuzzy-CEVAE | 1 | 0| 
-| 20211214T23:56:16Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4646 | 475| 
 
 
 
