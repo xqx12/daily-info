@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211215T02:56:43Z | CVE-2021-44228 | Apache Log4j 远程代码执行 | https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce | | 
+| 20211215T02:56:12Z | cve-2021-44228 | Null | https://github.com/qingtengyun/cve-2021-44228-qingteng-online-patch | | 
 | 20211215T02:53:56Z | CVE-2021-43798 | Grafana8.x 任意文件读取 | https://github.com/Ryze-T/CVE-2021-43798 | | 
 | 20211215T02:52:43Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
-| 20211215T02:45:33Z | CVE-2021-44228 | Apache Log4j 远程代码执行 | https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce | | 
 | 20211215T02:42:03Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211215T02:31:36Z | CVE-2021-44228 | Aims to find JndiLookup.class in nearly any directory or zip, jar, ear, war file, even deeply nested. | https://github.com/jeremyrsellars/CVE-2021-44228_scanner | | 
 | 20211215T02:29:23Z | CVE-2021-44228 | Remote Code Injection In Log4j | https://github.com/jas502n/Log4j2-CVE-2021-44228 | | 
 | 20211215T02:04:16Z | CVE-2021-44228 | Test for log4j vulnerability across your external footprint | https://github.com/ssstonebraker/log4j_CVE-2021-44228_tester | | 
 | 20211215T02:02:53Z | CVE-2021-44228 | Apply class remove process from ear/war/jar/zip archive, see https://logging.apache.org/log4j/2.x/ | https://github.com/AlexandreHeroux/Fix-CVE-2021-44228 | | 
 | 20211215T01:19:00Z | cve-2021-21315 | Null | https://github.com/eR072391/cve-2021-21315 | | 
-| 20211215T00:30:22Z | CVE-2021-44228 | CVE-2021-44228 Response Scripts | https://github.com/0xThiebaut/CVE-2021-44228 | | 
 
 
 # klee on Github 推荐
@@ -102,11 +102,11 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211215T02:56:39Z | Statically-linked ssh server with reverse shell functionality for CTFs and such | https://github.com/Fahrj/reverse-ssh | 456 | 57| 
 | 20211215T02:52:13Z | Null | https://github.com/codehz/bashrc-backdoor | 7 | 2| 
 | 20211215T02:33:04Z | Design a backdoor detector for BadNets | https://github.com/tianhao22/backdoor-detector | 0 | 0| 
 | 20211215T02:21:55Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 391 | 67| 
 | 20211215T00:08:46Z | backdoor de acesso remoto (em desenvolvimento) | https://github.com/mednic/bckdoor | 0 | 0| 
-| 20211215T00:01:23Z | Statically-linked ssh server with reverse shell functionality for CTFs and such | https://github.com/Fahrj/reverse-ssh | 455 | 57| 
 | 20211214T20:41:19Z | Null | https://github.com/ezequielsoler/invisible-backdoor | 0 | 0| 
 | 20211214T18:17:42Z | High School project that utilizes python machine learning algorithm to find malicious backdoor programs on a Linux system | https://github.com/MizuBon/mlDoora | 0 | 0| 
 | 20211214T16:25:01Z | Null | https://github.com/jrbeduardo/trojano_backdoor | 0 | 0| 
