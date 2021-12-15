@@ -34,11 +34,11 @@
 | 20211214T22:47:25Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
 | 20211214T21:03:07Z | CVE-2021-44228 | Test for log4j vulnerability across your external footprint | https://github.com/ssstonebraker/log4j_CVE-2021-44228_tester | | 
 | 20211214T20:04:48Z | CVE-2021-44228 | vulnerability POC | https://github.com/KosmX/CVE-2021-44228-example | | 
-| 20211214T19:57:13Z | CVE-2021-44228 | Remote Code Injection In Log4j | https://github.com/jas502n/Log4j2-CVE-2021-44228 | | 
 | 20211214T19:46:55Z | CVE-2021-44228 | Null | https://github.com/faisalfs10x/Log4j2-CVE-2021-44228-revshell | | 
 | 20211214T19:46:05Z | cve-2021-44228 | Some files for red team/blue team investigations into CVE-2021-44228 | https://github.com/kimobu/cve-2021-44228 | | 
 | 20211214T18:13:48Z | CVE-2021-44228 | Apply class remove process from ear/war/jar/zip archive, see https://logging.apache.org/log4j/2.x/ | https://github.com/AlexandreHeroux/Fix-CVE-2021-44228 | | 
 | 20211214T18:03:52Z | CVE-2021-44228 | CVE-2021-44228 | https://github.com/ShaneKingBlog/org.shaneking.demo.cve.y2021.s44228 | | 
+| 20211214T17:58:15Z | CVE-2021-44228 | Null | https://github.com/municipalparkingservices/CVE-2021-44228-Scanner | | 
 
 
 # klee on Github 推荐
