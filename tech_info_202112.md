@@ -17,6 +17,7 @@
 | 20211214 | 已有 10 个家族的恶意样本利用 Log4shell 漏洞传播 | https://blog.netlab.360.com/yi-jing-you-xxxge-jia-zu-de-botnetli-yong-log4shelllou-dong-chuan-bo-wei-da-bu-ding-de-gan-jin-liao/| 
 | 20211214 | 内存级别攻防利器--UnSafe 的各种利用姿势. | https://paper.seebug.org/1785/| 
 | 20211214 | How hackers pollute your code. | https://www.youtube.com/watch?v=XS_UMqQalLI&feature=youtu.be| 
+| 20211214 | Apache Log4j2 Jndi RCE 高危漏洞分析与防御建议. | https://paper.seebug.org/1787/| 
 | 20211213 | 使用 Apache Log4j RCE 漏洞发起攻击的源 IP 收集（IOC） | https://github.com/RedDrip7/Log4Shell_CVE-2021-44228_related_attacks_IOCs| 
 | 20211213 | SAPP - Facebook 开发的用于处理静态代码分析工具 Pysa 分析结果的工具 | https://github.com/facebook/sapp| 
 | 20211213 | 针对 Qemu 模拟设备的 Fuzzer | https://github.com/lcatro/qemu-fuzzer| 
@@ -25,12 +26,12 @@
 | 20211213 | Burp Suite ActiveScan++ 插件也支持扫描 log4j 漏洞了 | https://github.com/PortSwigger/active-scan-plus-plus/blob/master/activeScan++.py| 
 | 20211213 | Log4j2 RCE Passive Scanner plugin for BurpSuite | https://github.com/whwlsfb/Log4j2Scan| 
 | 20211213 | Exploit samAccountName spoofing with Kerberos（CVE-2021-42278，CVE-2021-42287） | http://cloudbrothers.info/en/exploit-kerberos-samaccountname-spoofing/| 
-| 20211213 | Antivirus evasion by user mode unhooking on Windows 10 | http://rp.os3.nl/2020-2021/p68/report.pdf| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20211214 | 浅谈被动式IAST产品与技术实现 | https://tttang.com/archive/1375/| 
 | 20211213 | 从一例挖矿木马看 Log4Shell 的在野传播 | https://mp.weixin.qq.com/s/OoARMaeACnogFrEWMNw01A| 
 | 20211213 | SecWiki周刊（第406期) | https://www.sec-wiki.com/weekly/406| 
 | 20211212 | 利用zotero与dblp批量收集论文 | https://moxiaoxi.info/papers/2020/10/18/Papers/| 
@@ -40,22 +41,21 @@
 | 20211212 | log4j2 JNDI注入漏洞速通 | https://lorexxar.cn/2021/12/10/log4j2-jndi/| 
 | 20211212 | 对电子邮件伪造攻击的大规模分析 | https://moxiaoxi.info/emailspoofing/2021/08/18/emailspoofing/| 
 | 20211212 | log4j 漏洞一些特殊的利用方式 | https://mp.weixin.qq.com/s/vAE89A5wKrc-YnvTr0qaNg| 
-| 20211212 | Security_Scan: 组件安全基线扫描工具 | https://www.freebuf.com/sectool/306967.html| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211214T13:57:29Z | cve-2021-44228 | GitHub CodeQL Action to scan for CVE-2021–44228 | https://github.com/benarculus/detecting-cve-2021-44228 | | 
-| 20211214T13:56:50Z | CVE-2021-44228 | CVE-2021-44228 on Podman | https://github.com/ahmad4fifz/CVE-2021-44228-podman | | 
-| 20211214T13:56:02Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
-| 20211214T13:44:57Z | CVE-2021-44228 | Remote Code Injection In Log4j | https://github.com/jas502n/Log4j2-CVE-2021-44228 | | 
-| 20211214T13:34:07Z | cve-2021-44228 | Null | https://github.com/didoatanasov/cve-2021-44228 | | 
-| 20211214T13:24:59Z | CVE-2021-44228 | Null | https://github.com/rwincey/CVE-2021-44228-Log4j-Payloads | | 
-| 20211214T12:21:48Z | CVE-2021-44228 | Null | https://github.com/0xsyr0/CVE-2021-44228-log4j-log4shell-Security-Research-Summary | | 
-| 20211214T12:15:18Z | CVE-2021-44228 | CVE-2021-44228 DFIR Notes | https://github.com/Azeemering/CVE-2021-44228-DFIR-Notes | | 
-| 20211214T12:06:57Z | cve-2021-44228 | Log4j CVE-2021-44228 examples: Remote Code Execution (through LDAP, RMI, ...), Forced DNS queries, ... | https://github.com/manuel-alvarez-alvarez/log4j-cve-2021-44228 | | 
-| 20211214T11:08:19Z | CVE-2021-44228 | Null | https://github.com/RedDrip7/Log4Shell_CVE-2021-44228_related_attacks_IOCs | | 
+| 20211215T00:30:22Z | CVE-2021-44228 | CVE-2021-44228 Response Scripts | https://github.com/0xThiebaut/CVE-2021-44228 | | 
+| 20211215T00:17:21Z | CVE-2021-44228 | Apache Log4j 远程代码执行 | https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce | | 
+| 20211215T00:06:00Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
+| 20211214T23:44:03Z | CVE-2021-44228 | Null | https://github.com/ab0x90/CVE-2021-44228_PoC | | 
+| 20211214T23:43:25Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
+| 20211214T22:55:10Z | CVE-2021-44228 | Generate CVE-2021-44228 commands to test servers with ease! | https://github.com/csduncan9/Log4j-CVE-2021-44228-command-generator | | 
+| 20211214T22:47:25Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
+| 20211214T21:03:07Z | CVE-2021-44228 | Test for log4j vulnerability across your external footprint | https://github.com/ssstonebraker/log4j_CVE-2021-44228_tester | | 
+| 20211214T20:04:48Z | CVE-2021-44228 | vulnerability POC | https://github.com/KosmX/CVE-2021-44228-example | | 
+| 20211214T19:57:13Z | CVE-2021-44228 | Remote Code Injection In Log4j | https://github.com/jas502n/Log4j2-CVE-2021-44228 | | 
 
 
 # klee on Github 推荐
@@ -76,6 +76,8 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211214T17:51:04Z | Null | https://github.com/s2escogg/s2escogg.github.io | 0 | 0| 
+| 20211214T17:43:51Z | Null | https://github.com/s2escogg/s2escotgg.github.io | 0 | 0| 
 | 20211212T14:32:33Z | CRAX++: software CRash analysis for Automatic eXploit generation | https://github.com/aesophor/CRAXplusplus | 26 | 3| 
 | 20211212T02:15:47Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 190 | 40| 
 | 20211207T15:25:17Z | Null | https://github.com/yuvalkirstain/s2e-coref | 25 | 9| 
@@ -85,16 +87,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211214T13:59:13Z | Null | https://github.com/nicolagatta/Binary-Exploitation- | 1 | 0| 
-| 20211214T13:53:19Z | 😎 Exploiting utility for Roblox. | https://github.com/catboy08/comet | 2 | 0| 
-| 20211214T13:52:55Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 437 | 70| 
-| 20211214T13:45:10Z | Null | https://github.com/DongHongcheng/LSTM_exploitation | 0 | 0| 
-| 20211214T13:43:38Z | Minecraft Honeypot for Log4j exploit. CVE-2021-44228 Log4Shell LogJam | https://github.com/Adikso/minecraft-log4j-honeypot | 39 | 11| 
-| 20211214T13:16:19Z | A training course of ethereum | https://github.com/MachineLearningMike/ExploitMe | 0 | 0| 
-| 20211214T13:03:02Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 37 | 20| 
-| 20211214T12:59:11Z | BookingXML offers a high-end Airline GDS Software with an easy-to-use interface and a robust architecture that allows increased efficiency, reduced cost, and increased sales in a lesser period. Our Airline Reservation System is integrated with the direct channel management and global distribution system (GDS). With our Airline Booking Engine, the end-user will be able to view the booking details along with other information such as fare, rules, baggage limits and more. We have links with leading suppliers of GDS, XML and APIs such as Amadeus, Yatra, Expedia, Travel Fusion and Mystifly. Many of the reservation systems have only a few distribution channels, but all of us have. And coupled with the 3rd party XML API integration, you will be able to reach plenty of customers. With so many additional functionalities, our Flight Booking Engine helps customer’s book international and domestic flights from any location and offers better inventory, prices, and other information to travel agents as well. At BookingXML, we deliver the most complete and efficient Airline GDS solutions to optimize the benefits for suppliers and travelers. You%ll get the best results for your service search using the GDS API Integration Solution on your travel website. With Airline GDS technologies, you will have access to several key features such as reservations, inventory management, passenger profiling, and PNR generation. Get quick access to a reliable and interactive booking solution and manage your business as never before. BookingXML will help you leverage our Airline GDS services to enhance your business scope, bring new customers and provide opportunities for up-selling and cross-selling. In short, you can start using custom travel technology tools to exploit the online platform more effectively. Being a leading travel technology solution provider, BookingXML API is offering a robust system to connected travel associates. Our API solution helps them to gain access to the vast content of airline service providers all over the world. We are a proficient travel software company that specializes in API/XML integration with GDS like Amadeus, Travelport and Sabre to allow your users a diverse range of travel outputs with 24/7 presence, details, tariffs, laws, and policies. We have a proven record of integrating GDS systems for airline bookings with B2B, B2C, and B2B2C options along with the admin module. Our GDS Integration Service will help your travel company to book thousands of airlines online. Whether you have signed up for Sabre, Amadeus, Galileo, Travelport, and Worldspan, we offer our clients the best solutions when it comes to XML/API integration. Know more at: https://www.bookingxml.com/airline-gds.php | https://github.com/nickb4924/Airline-GDS | 0 | 0| 
-| 20211214T12:56:56Z | Store all exploit-db.com/google-hacking-database results then scrape google for every exploit-db query. Stores the Google results and IP information. (and eventually WHOIS) | https://github.com/frame-of-reference/ghdb | 0 | 0| 
-| 20211214T12:54:40Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10441 | 1797| 
+| 20211215T00:57:31Z | Null | https://github.com/lucdoeburn/ArtOfExploitation | 0 | 0| 
+| 20211215T00:45:53Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 16| 
+| 20211215T00:23:04Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 490 | 77| 
+| 20211215T00:04:33Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 37 | 20| 
+| 20211215T00:03:13Z | Python3 script for scanning CVE-2021-44228 (Log4shell) vulnerable machines. | https://github.com/lfama/log4j_checker | 2 | 0| 
+| 20211214T23:48:54Z | As the Red Team, you will attack a vulnerable VM within your environment, ultimately gaining root access to the machine. As Blue Team, you will use Kibana to review logs taken during their Day 1 engagement. You%ll use the logs to extract hard data and visualizations for an assessment report. The log data will be interpreted in order to suggest mitigation measures for each successful exploit. | https://github.com/jmarcbaker/Red-vs-Blue-Team-Project-II | 0 | 0| 
+| 20211214T23:38:31Z | Collection of Discord hacking tools/fun stuff/exploits that is completely made using NodeJS. | https://github.com/I2rys/ODiscord | 37 | 17| 
+| 20211214T23:31:04Z | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | 120 | 23| 
+| 20211214T23:17:58Z |  pOOBs4 PS4 exploit for v9.0 + automatic golden hen | https://github.com/mc-17/pspack-flask | 1 | 0| 
+| 20211214T22:57:31Z | Null | https://github.com/brentshierk/exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -139,16 +141,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211214T13:47:18Z | Log4j2 jndi injection fuzz tool | https://github.com/zhzyker/logmap | 25 | 9| 
-| 20211214T13:33:37Z | Null | https://github.com/Clearymk/TypeScriptFuzzer | 0 | 1| 
-| 20211214T13:27:29Z | Sequence-Oriented DBMS Fuzzing | https://github.com/Lego2021/LEGO | 1 | 0| 
-| 20211214T13:21:01Z | Null | https://github.com/wagnerkaba/fuzzy-rotary-phone | 0 | 0| 
-| 20211214T13:19:48Z | Shitty flappy bird implemented on a fried potato for the course Computer Organization and Components IS1500 | https://github.com/johanlam/fuzzy-potato | 1 | 0| 
-| 20211214T13:14:43Z | Alphalog 更快、更安全。支持完全匿名 产品(fuzz.red) | https://github.com/AlphabugX/Alphalog | 0 | 0| 
-| 20211214T13:10:47Z | With this tool, projects can be compiled easily for fuzzing with AFL or for static code analysis with tools like CBMC. One-line-scan hooks into the compilation process and wraps calls to the compiler with other compilers. Besides the compilation wrappers, one-line-scan ships with basic analysis jobs, that allow to analyze a project right after compilation with the following tools: AFL, cppcheck, CBMC, Fortify. | https://github.com/awslabs/one-line-scan | 15 | 6| 
-| 20211214T13:09:25Z | Quality assurance testing for the curl project | https://github.com/curl/curl-fuzzer | 37 | 19| 
-| 20211214T12:44:39Z | Bot which suggests movies according to a users taste | https://github.com/rafibu/fuzzy | 0 | 0| 
-| 20211214T12:33:21Z | A differential fuzzer for x86 decoders | https://github.com/trailofbits/mishegos | 161 | 23| 
+| 20211215T00:26:16Z | We%ll be using HTML, CSS and JavaScript for the frontend. Nothing to install in specific. Open your text-editor and start coding a beautiful front-end. | https://github.com/sai-tilak/Fuzzy-URL-s | 0 | 0| 
+| 20211215T00:24:56Z | A conda-smithy repository for fuzzymatcher. | https://github.com/conda-forge/fuzzymatcher-feedstock | 0 | 0| 
+| 20211215T00:16:56Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20211215T00:10:36Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 39 | 12| 
+| 20211215T00:10:07Z | Null | https://github.com/joseffaghihi/Causal-fuzzy-CEVAE | 1 | 0| 
+| 20211214T23:56:16Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4646 | 475| 
+| 20211214T23:44:26Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2446 | 150| 
+| 20211214T23:39:53Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
+| 20211214T23:39:44Z | Null | https://github.com/SERZDZEKSON/fuzzy-spork | 0 | 0| 
+| 20211214T23:09:43Z | Asynchronous fuzzy finder in vim9script | https://github.com/kohnish/vim9-fuzzy | 0 | 0| 
 
 
 
