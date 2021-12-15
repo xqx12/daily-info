@@ -87,31 +87,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211215T01:03:25Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 37 | 20| 
+| 20211215T01:03:13Z | Codes from Hacking: The Art of Exploitation book. By Jon Erickson. | https://github.com/edupazzz/Hacking-The-Art-of-Exploitation-Book | 0 | 0| 
 | 20211215T00:57:31Z | Null | https://github.com/lucdoeburn/ArtOfExploitation | 0 | 0| 
 | 20211215T00:45:53Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 16| 
 | 20211215T00:23:04Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 490 | 77| 
-| 20211215T00:04:33Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 37 | 20| 
 | 20211215T00:03:13Z | Python3 script for scanning CVE-2021-44228 (Log4shell) vulnerable machines. | https://github.com/lfama/log4j_checker | 2 | 0| 
 | 20211214T23:48:54Z | As the Red Team, you will attack a vulnerable VM within your environment, ultimately gaining root access to the machine. As Blue Team, you will use Kibana to review logs taken during their Day 1 engagement. You%ll use the logs to extract hard data and visualizations for an assessment report. The log data will be interpreted in order to suggest mitigation measures for each successful exploit. | https://github.com/jmarcbaker/Red-vs-Blue-Team-Project-II | 0 | 0| 
 | 20211214T23:38:31Z | Collection of Discord hacking tools/fun stuff/exploits that is completely made using NodeJS. | https://github.com/I2rys/ODiscord | 37 | 17| 
 | 20211214T23:31:04Z | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | 120 | 23| 
 | 20211214T23:17:58Z |  pOOBs4 PS4 exploit for v9.0 + automatic golden hen | https://github.com/mc-17/pspack-flask | 1 | 0| 
-| 20211214T22:57:31Z | Null | https://github.com/brentshierk/exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211215T00:19:11Z | Null | https://github.com/codehz/bashrc-backdoor | 5 | 1| 
+| 20211215T00:08:46Z | backdoor de acesso remoto (em desenvolvimento) | https://github.com/mednic/bckdoor | 0 | 0| 
+| 20211215T00:01:23Z | Statically-linked ssh server with reverse shell functionality for CTFs and such | https://github.com/Fahrj/reverse-ssh | 455 | 57| 
+| 20211214T20:41:19Z | Null | https://github.com/ezequielsoler/invisible-backdoor | 0 | 0| 
+| 20211214T18:17:42Z | High School project that utilizes python machine learning algorithm to find malicious backdoor programs on a Linux system | https://github.com/MizuBon/mlDoora | 0 | 0| 
+| 20211214T17:49:07Z | Design a backdoor detector for BadNets | https://github.com/tianhao22/backdoor-detector | 0 | 0| 
+| 20211214T16:25:01Z | Null | https://github.com/jrbeduardo/trojano_backdoor | 0 | 0| 
+| 20211214T15:16:34Z | Python-Backdoor | https://github.com/s120000/Python-Backdoor | 1 | 0| 
 | 20211214T13:30:45Z | Null | https://github.com/JorikSchillemans/Botnet-Backdoor-Keylogger | 0 | 0| 
 | 20211214T13:17:49Z | Null | https://github.com/thryec/backdoor | 1 | 0| 
-| 20211214T13:01:32Z | Statically-linked ssh server with reverse shell functionality for CTFs and such | https://github.com/Fahrj/reverse-ssh | 439 | 54| 
-| 20211214T10:51:36Z | Null | https://github.com/MikeTeddyOmondi/c_backdoor | 0 | 0| 
-| 20211214T09:47:17Z | Null | https://github.com/Scorpio-m7/tomcat-backdoor | 7 | 1| 
-| 20211214T09:34:10Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 117 | 29| 
-| 20211214T06:53:58Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 390 | 67| 
-| 20211214T03:42:28Z | Null | https://github.com/jrbeduardo/trojano_backdoor | 0 | 0| 
-| 20211214T03:25:43Z | The project is to design a backdoor detector for BadNets trained on the YouTube Face dataset. | https://github.com/381352903/ML_cyber_project | 1 | 0| 
-| 20211214T02:13:24Z | A Simple Way To Create Metasploit Backdoor By N4XSEC2K11 | https://github.com/cyberghost-security/msfpayload | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
