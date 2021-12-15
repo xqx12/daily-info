@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211215T01:15:56Z | cve-2021-21315 | Null | https://github.com/eR072391/cve-2021-21315 | | 
 | 20211215T01:13:16Z | CVE-2021-44228 | Apache Log4j 远程代码执行 | https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce | | 
 | 20211215T01:05:53Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
 | 20211215T00:30:22Z | CVE-2021-44228 | CVE-2021-44228 Response Scripts | https://github.com/0xThiebaut/CVE-2021-44228 | | 
@@ -55,7 +56,6 @@
 | 20211214T22:47:25Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
 | 20211214T21:03:07Z | CVE-2021-44228 | Test for log4j vulnerability across your external footprint | https://github.com/ssstonebraker/log4j_CVE-2021-44228_tester | | 
 | 20211214T20:04:48Z | CVE-2021-44228 | vulnerability POC | https://github.com/KosmX/CVE-2021-44228-example | | 
-| 20211214T19:57:13Z | CVE-2021-44228 | Remote Code Injection In Log4j | https://github.com/jas502n/Log4j2-CVE-2021-44228 | | 
 
 
 # klee on Github 推荐
