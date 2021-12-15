@@ -87,12 +87,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211215T02:10:30Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 496 | 77| 
 | 20211215T02:05:20Z | Easy Log2Shell exploitation | https://github.com/Meeds122/Log2Pwn | 0 | 0| 
 | 20211215T02:03:29Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 37 | 20| 
 | 20211215T02:03:13Z | PS4 WebKit exploit on 9.00 - Forked from sleirsgoevy | https://github.com/oldventura/ps4_webkit | 0 | 0| 
 | 20211215T02:01:05Z | The %Surely Unsecured Candy Receiving Operational Silly Exploit%. A button built into a marshmallow that randomly orders candy from my Amazon account. | https://github.com/thechincheachilla/S.U.C.R.O.S.E | 0 | 0| 
 | 20211215T01:56:40Z | Null | https://github.com/RoadLuck/exploits-tryhackme | 0 | 0| 
-| 20211215T01:44:42Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 495 | 77| 
 | 20211215T01:35:22Z |  pOOBs4 PS4 exploit for v9.0 + automatic golden hen | https://github.com/mc-17/pspack-flask | 2 | 1| 
 | 20211215T01:11:12Z | Codes from Hacking: The Art of Exploitation book. By Jon Erickson. | https://github.com/edupazzz/Hacking-The-Art-of-Exploitation-Book | 0 | 0| 
 | 20211215T01:08:17Z | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | 120 | 23| 
