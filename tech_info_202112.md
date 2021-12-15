@@ -46,9 +46,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211215T13:42:28Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211215T13:40:54Z | CVE-2021-44228 | CVE-2021-44228 on Docker & Podman | https://github.com/ahmad4fifz/CVE-2021-44228 | | 
 | 20211215T13:35:09Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
-| 20211215T13:29:25Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211215T13:27:49Z | CVE-2021-44228 | Apache Log4j 远程代码执行 | https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce | | 
 | 20211215T12:53:12Z | CVE-2021-44228 | Known IoCs for log4j framework vulnerability  | https://github.com/guardicode/CVE-2021-44228_IoCs | | 
 | 20211215T12:45:10Z | CVE-2021-44228 | Null | https://github.com/b-abderrahmane/CVE-2021-44228-playground | | 
@@ -142,6 +142,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211215T13:43:22Z | Null | https://github.com/vivaana111/fuzzy-system | 0 | 0| 
+| 20211215T13:41:48Z | A fuzzing tool for email sender spoofing attack. 👻 | https://github.com/mo-xiaoxi/ESpoofing | 115 | 14| 
 | 20211215T13:39:42Z | Leetcode solutions. | https://github.com/chaitanyks/fuzzy-disco | 1 | 0| 
 | 20211215T13:35:32Z | Bot which suggests movies according to a users taste | https://github.com/rafibu/fuzzy | 0 | 0| 
 | 20211215T13:33:06Z | Null | https://github.com/polymorphicengine/Semi-Fuzzy-Quantifiers | 0 | 0| 
@@ -150,8 +152,6 @@
 | 20211215T12:14:00Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 12 | 2| 
 | 20211215T12:00:07Z | Null | https://github.com/django/django-fuzzers | 2 | 1| 
 | 20211215T11:39:17Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
-| 20211215T11:30:38Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 634 | 67| 
-| 20211215T11:27:10Z | Learning how to code | https://github.com/sanjapm/fuzzy-code | 0 | 0| 
 
 
 
