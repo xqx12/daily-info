@@ -61,6 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211215T01:11:53Z | Null | https://github.com/HallettLab/klee-stability | 0 | 0| 
 | 20211214T03:09:59Z | Config files for my GitHub profile. | https://github.com/Klee666/Klee666 | 0 | 0| 
 | 20211214T01:46:51Z | Null | https://github.com/xinrachel30/AL_KLEEMEX | 0 | 0| 
 | 20211213T23:18:01Z | Null | https://github.com/anaskautsar7/Klee-chan | 0 | 0| 
@@ -70,7 +71,6 @@
 | 20211213T07:41:15Z | Null | https://github.com/Chiyukichan/klee_file | 0 | 0| 
 | 20211211T08:51:24Z | 程序员哥哥，你是来找可莉玩的吗？可莉语音包，适用于 vscode-rainbow-fart 拓展。 | https://github.com/Ran-ying/Klee-rainbow-fart | 13 | 1| 
 | 20211211T01:37:04Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
-| 20211211T00:01:12Z | modern regular expression syntax everywhere with a painless upgrade path | https://github.com/SonOfLilit/kleenexp | 30 | 3| 
 
 
 # s2e on Github 推荐
