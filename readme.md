@@ -27,6 +27,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211215T13:21:58Z | CVE-2021-44228 | CVE-2021-44228 on Docker & Podman | https://github.com/ahmad4fifz/CVE-2021-44228 | | 
 | 20211215T13:20:44Z | CVE-2021-44228 | Apache Log4j 远程代码执行 | https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce | | 
 | 20211215T13:18:38Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211215T12:53:12Z | CVE-2021-44228 | Known IoCs for log4j framework vulnerability  | https://github.com/guardicode/CVE-2021-44228_IoCs | | 
@@ -36,7 +37,6 @@
 | 20211215T11:36:20Z | CVE-2021-44228 | Null | https://github.com/Junhyunny/log4j-vulnerability-CVE-2021-44228 | | 
 | 20211215T11:23:41Z | CVE-2021-44228 | Null | https://github.com/ab0x90/CVE-2021-44228_PoC | | 
 | 20211215T11:15:25Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/jyotisahu98/logpresso-CVE-2021-44228-Scanner | | 
-| 20211215T10:49:59Z | cve-2021-44228 | Log4j CVE-2021-44228 examples: Remote Code Execution (through LDAP, RMI, ...), Forced DNS queries, ... | https://github.com/manuel-alvarez-alvarez/log4j-cve-2021-44228 | | 
 
 
 # klee on Github 推荐
