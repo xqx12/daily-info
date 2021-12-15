@@ -88,10 +88,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211215T12:56:37Z | Escape From Tarkov API (Unofficial) The purpose of this API is to bring together different data that could be exploitable. Works by scrapping. | https://github.com/FoobarIT/EscapeFromTarkov-API | 0 | 0| 
+| 20211215T13:02:25Z | This project is exploit for some docker containers with vulnerability code: CVE-2020-35191  | https://github.com/megadimenex/hidocker | 0 | 0| 
+| 20211215T13:02:14Z | Escape From Tarkov API (Unofficial) The purpose of this API is to bring together different data that could be exploitable. Works by scrapping. | https://github.com/FoobarIT/EscapeFromTarkov-API | 0 | 0| 
 | 20211215T12:50:02Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 541 | 87| 
 | 20211215T12:45:53Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 16| 
-| 20211215T12:42:55Z | This project is exploit for some docker containers with vulnerability code: CVE-2020-35191  | https://github.com/megadimenex/hidocker | 0 | 0| 
 | 20211215T12:34:53Z | A utility that looks for log4j2 JNDI vulnerabilities in your jar files and fixes them | https://github.com/tox1cozZ/log4j2-jndi-exploit-patcher | 3 | 0| 
 | 20211215T12:34:51Z | Rodan Exploitation Framework | https://github.com/Etisalat-Egypt/Rodan | 61 | 19| 
 | 20211215T12:23:29Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 258 | 78| 
@@ -118,16 +118,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211215T12:04:36Z | Monster is a symbolic execution engine for 64-bit RISC-U code | https://github.com/cksystemsgroup/monster | 7 | 3| 
+| 20211215T11:10:45Z | A tool for incremental symbolic execution | https://github.com/FenseTool/fense | 0 | 0| 
+| 20211215T10:48:26Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 190 | 40| 
+| 20211215T09:14:19Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 21 | 13| 
+| 20211215T05:48:17Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 11 | 5| 
 | 20211215T02:19:09Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 185 | 10| 
 | 20211215T02:03:55Z | Symbolic Execution & Verification Framework | https://github.com/gprechter/youverify | 1 | 0| 
 | 20211215T01:24:38Z | FuSeBMC is a White-Box Fuzzer that combines FUzzing with Symbolic Execution via Bounded Model Checking to verify intricate properties in real-world C programs. | https://github.com/kaled-alshmrany/FuSeBMC | 20 | 2| 
 | 20211214T21:33:45Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1931 | 402| 
 | 20211214T20:26:48Z | Symbolica%s open-source symbolic execution engine. | https://github.com/Symbolica/Symbolica | 46 | 3| 
-| 20211214T18:36:46Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2590 | 381| 
-| 20211214T17:27:37Z | Symbolic execution engine for ABS | https://github.com/Edkamb/crowbar-tool | 0 | 3| 
-| 20211214T15:39:47Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 165 | 37| 
-| 20211214T15:14:23Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 20 | 13| 
-| 20211214T12:56:30Z | Monster is a symbolic execution engine for 64-bit RISC-U code | https://github.com/cksystemsgroup/monster | 7 | 3| 
 
 
 # big4 on Github 推荐
