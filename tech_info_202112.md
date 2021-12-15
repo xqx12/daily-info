@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211215T13:03:07Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 37 | 20| 
 | 20211215T13:02:25Z | This project is exploit for some docker containers with vulnerability code: CVE-2020-35191  | https://github.com/megadimenex/hidocker | 0 | 0| 
 | 20211215T13:02:14Z | Escape From Tarkov API (Unofficial) The purpose of this API is to bring together different data that could be exploitable. Works by scrapping. | https://github.com/FoobarIT/EscapeFromTarkov-API | 0 | 0| 
 | 20211215T12:50:02Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 541 | 87| 
@@ -96,7 +97,6 @@
 | 20211215T12:34:51Z | Rodan Exploitation Framework | https://github.com/Etisalat-Egypt/Rodan | 61 | 19| 
 | 20211215T12:23:29Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 258 | 78| 
 | 20211215T12:10:32Z | Hot-patch CVE-2021-44228 by exploiting the vulnerability itself. | https://github.com/qingtengyun/cve-2021-44228-qingteng-online-patch | 21 | 2| 
-| 20211215T12:04:46Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 37 | 20| 
 | 20211215T11:17:44Z | Exploiting CVE-2021-42278 and CVE-2021-42287 to impersonate DA from standard domain user  | https://github.com/Ridter/noPac | 87 | 13| 
 
 
@@ -142,16 +142,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211215T02:59:19Z | Log4j2 jndi injection fuzz tool (CVE-2021-44228) | https://github.com/zhzyker/logmap | 64 | 17| 
-| 20211215T02:58:39Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 634 | 67| 
-| 20211215T02:58:06Z | An XSS fuzzer capable of detecting runtime XSS vulnerabilities. | https://github.com/mf-dom/dom-eternal | 2 | 0| 
-| 20211215T02:53:58Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2307 | 449| 
-| 20211215T02:48:06Z | Null | https://github.com/romitasenjani/fuzzy-octo-funicular | 0 | 0| 
-| 20211215T02:40:30Z | Null | https://github.com/brucevanhorn2/fuzzy-journey | 0 | 0| 
-| 20211215T02:40:29Z | Null | https://github.com/Blaker817/fuzzy | 0 | 0| 
-| 20211215T02:40:19Z | Easy to use and powerful fuzzy string matching, port of fuzzywuzzy. | https://github.com/nol13/fuzzball.js | 417 | 33| 
-| 20211215T02:18:30Z | ☸A stateful GraphQL fuzzer (in development) | https://github.com/omar2535/GraphQLer | 12 | 2| 
-| 20211215T02:05:12Z | Alphalog 更快、更安全。支持完全匿名 产品(fuzz.red) | https://github.com/AlphabugX/Alphalog | 1 | 0| 
+| 20211215T13:00:18Z | Null | https://github.com/polymorphicengine/Semi-Fuzzy-Quantifiers | 0 | 0| 
+| 20211215T12:14:00Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 12 | 2| 
+| 20211215T12:00:07Z | Null | https://github.com/django/django-fuzzers | 2 | 1| 
+| 20211215T11:41:03Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 376 | 35| 
+| 20211215T11:39:17Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
+| 20211215T11:30:38Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 634 | 67| 
+| 20211215T11:27:10Z | Learning how to code | https://github.com/sanjapm/fuzzy-code | 0 | 0| 
+| 20211215T11:15:54Z | Just some code | https://github.com/PriyanshSingh167/fuzzy-disco | 0 | 0| 
+| 20211215T11:15:39Z | A conda-smithy repository for fuzzywuzzy. | https://github.com/conda-forge/fuzzywuzzy-feedstock | 1 | 7| 
+| 20211215T11:15:38Z | A conda-smithy repository for fuzzy-rough-learn. | https://github.com/conda-forge/fuzzy-rough-learn-feedstock | 0 | 1| 
 
 
 
