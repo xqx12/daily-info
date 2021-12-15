@@ -27,7 +27,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211215T13:14:58Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
+| 20211215T13:18:38Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211215T13:12:50Z | CVE-2021-44228 | Apache Log4j 远程代码执行 | https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce | | 
 | 20211215T12:53:12Z | CVE-2021-44228 | Known IoCs for log4j framework vulnerability  | https://github.com/guardicode/CVE-2021-44228_IoCs | | 
 | 20211215T12:45:10Z | CVE-2021-44228 | Null | https://github.com/b-abderrahmane/CVE-2021-44228-playground | | 
@@ -58,16 +58,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211215T13:16:56Z | Info for exploiting vulnerabilities | https://github.com/Amitale/Penetration-Testing-Notes | 0 | 0| 
+| 20211215T13:12:59Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 542 | 88| 
 | 20211215T13:03:07Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 37 | 20| 
 | 20211215T13:02:25Z | This project is exploit for some docker containers with vulnerability code: CVE-2020-35191  | https://github.com/megadimenex/hidocker | 0 | 0| 
 | 20211215T13:02:14Z | Escape From Tarkov API (Unofficial) The purpose of this API is to bring together different data that could be exploitable. Works by scrapping. | https://github.com/FoobarIT/EscapeFromTarkov-API | 0 | 0| 
-| 20211215T12:50:02Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 541 | 88| 
 | 20211215T12:45:53Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 16| 
 | 20211215T12:34:53Z | A utility that looks for log4j2 JNDI vulnerabilities in your jar files and fixes them | https://github.com/tox1cozZ/log4j2-jndi-exploit-patcher | 3 | 0| 
 | 20211215T12:34:51Z | Rodan Exploitation Framework | https://github.com/Etisalat-Egypt/Rodan | 61 | 19| 
 | 20211215T12:23:29Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 258 | 78| 
 | 20211215T12:10:32Z | Hot-patch CVE-2021-44228 by exploiting the vulnerability itself. | https://github.com/qingtengyun/cve-2021-44228-qingteng-online-patch | 21 | 2| 
-| 20211215T11:17:44Z | Exploiting CVE-2021-42278 and CVE-2021-42287 to impersonate DA from standard domain user  | https://github.com/Ridter/noPac | 87 | 13| 
 
 
 # backdoor on Github 推荐
