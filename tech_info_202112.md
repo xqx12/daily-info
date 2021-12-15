@@ -87,8 +87,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211215T02:48:25Z | Null | https://github.com/RoadLuck/exploits-tryhackme | 0 | 0| 
-| 20211215T02:46:48Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 498 | 77| 
+| 20211215T02:50:39Z | Null | https://github.com/RoadLuck/exploits-tryhackme | 0 | 0| 
+| 20211215T02:46:48Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 498 | 78| 
 | 20211215T02:26:53Z | AAAI2022: SmartIdx: Reducing Communication Cost in Federated Learning by Exploiting the CNNs Structures | https://github.com/wudonglei99/smartidx | 0 | 0| 
 | 20211215T02:22:37Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 305 | 687| 
 | 20211215T02:05:20Z | Easy Log2Shell exploitation | https://github.com/Meeds122/Log2Pwn | 0 | 0| 
