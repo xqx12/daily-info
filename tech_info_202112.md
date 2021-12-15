@@ -87,10 +87,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211215T02:48:25Z | Null | https://github.com/RoadLuck/exploits-tryhackme | 0 | 0| 
 | 20211215T02:46:48Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 498 | 77| 
-| 20211215T02:46:21Z | Null | https://github.com/RoadLuck/exploits-tryhackme | 0 | 0| 
 | 20211215T02:26:53Z | AAAI2022: SmartIdx: Reducing Communication Cost in Federated Learning by Exploiting the CNNs Structures | https://github.com/wudonglei99/smartidx | 0 | 0| 
-| 20211215T02:22:37Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 305 | 686| 
+| 20211215T02:22:37Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 305 | 687| 
 | 20211215T02:05:20Z | Easy Log2Shell exploitation | https://github.com/Meeds122/Log2Pwn | 0 | 0| 
 | 20211215T02:03:29Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 37 | 20| 
 | 20211215T02:03:13Z | PS4 WebKit exploit on 9.00 - Forked from sleirsgoevy | https://github.com/oldventura/ps4_webkit | 0 | 0| 
@@ -141,6 +141,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211215T02:48:06Z | Null | https://github.com/romitasenjani/fuzzy-octo-funicular | 0 | 0| 
 | 20211215T02:40:30Z | Null | https://github.com/brucevanhorn2/fuzzy-journey | 0 | 0| 
 | 20211215T02:40:29Z | Null | https://github.com/Blaker817/fuzzy | 0 | 0| 
 | 20211215T02:40:19Z | Easy to use and powerful fuzzy string matching, port of fuzzywuzzy. | https://github.com/nol13/fuzzball.js | 417 | 33| 
@@ -150,7 +151,6 @@
 | 20211215T01:43:27Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1318 | 141| 
 | 20211215T01:36:26Z | Sequence-Oriented DBMS Fuzzing | https://github.com/Lego2021/LEGO | 1 | 0| 
 | 20211215T01:30:16Z | TUI file explorer based on PowerShell and fzf | https://github.com/shinyanger/fuzzy-explorer | 2 | 0| 
-| 20211215T01:24:38Z | FuSeBMC is a White-Box Fuzzer that combines FUzzing with Symbolic Execution via Bounded Model Checking to verify intricate properties in real-world C programs. | https://github.com/kaled-alshmrany/FuSeBMC | 20 | 2| 
 
 
 
