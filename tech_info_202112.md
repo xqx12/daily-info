@@ -141,6 +141,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211215T02:59:19Z | Log4j2 jndi injection fuzz tool (CVE-2021-44228) | https://github.com/zhzyker/logmap | 64 | 17| 
+| 20211215T02:58:39Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 634 | 67| 
+| 20211215T02:58:06Z | An XSS fuzzer capable of detecting runtime XSS vulnerabilities. | https://github.com/mf-dom/dom-eternal | 2 | 0| 
 | 20211215T02:53:58Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2307 | 449| 
 | 20211215T02:48:06Z | Null | https://github.com/romitasenjani/fuzzy-octo-funicular | 0 | 0| 
 | 20211215T02:40:30Z | Null | https://github.com/brucevanhorn2/fuzzy-journey | 0 | 0| 
@@ -148,9 +151,6 @@
 | 20211215T02:40:19Z | Easy to use and powerful fuzzy string matching, port of fuzzywuzzy. | https://github.com/nol13/fuzzball.js | 417 | 33| 
 | 20211215T02:18:30Z | ☸A stateful GraphQL fuzzer (in development) | https://github.com/omar2535/GraphQLer | 12 | 2| 
 | 20211215T02:05:12Z | Alphalog 更快、更安全。支持完全匿名 产品(fuzz.red) | https://github.com/AlphabugX/Alphalog | 1 | 0| 
-| 20211215T01:48:34Z | Basic python fuzzing script  | https://github.com/Mohammad-Sarker/Fuzzer | 0 | 0| 
-| 20211215T01:43:27Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1318 | 141| 
-| 20211215T01:36:26Z | Sequence-Oriented DBMS Fuzzing | https://github.com/Lego2021/LEGO | 1 | 0| 
 
 
 
