@@ -30,7 +30,6 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20211214T23:44:03Z | CVE-2021-44228 | Null | https://github.com/ab0x90/CVE-2021-44228_PoC | | 
-| 20211214T23:43:25Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
 | 20211214T22:55:10Z | CVE-2021-44228 | Generate CVE-2021-44228 commands to test servers with ease! | https://github.com/csduncan9/Log4j-CVE-2021-44228-command-generator | | 
 | 20211214T22:47:25Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
 | 20211214T21:03:07Z | CVE-2021-44228 | Test for log4j vulnerability across your external footprint | https://github.com/ssstonebraker/log4j_CVE-2021-44228_tester | | 
@@ -39,6 +38,7 @@
 | 20211214T19:46:55Z | CVE-2021-44228 | Null | https://github.com/faisalfs10x/Log4j2-CVE-2021-44228-revshell | | 
 | 20211214T19:46:05Z | cve-2021-44228 | Some files for red team/blue team investigations into CVE-2021-44228 | https://github.com/kimobu/cve-2021-44228 | | 
 | 20211214T18:13:48Z | CVE-2021-44228 | Apply class remove process from ear/war/jar/zip archive, see https://logging.apache.org/log4j/2.x/ | https://github.com/AlexandreHeroux/Fix-CVE-2021-44228 | | 
+| 20211214T18:03:52Z | CVE-2021-44228 | CVE-2021-44228 | https://github.com/ShaneKingBlog/org.shaneking.demo.cve.y2021.s44228 | | 
 
 
 # klee on Github 推荐
