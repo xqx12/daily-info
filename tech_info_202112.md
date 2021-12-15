@@ -46,9 +46,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211215T13:27:49Z | CVE-2021-44228 | Apache Log4j 远程代码执行 | https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce | | 
+| 20211215T13:27:17Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211215T13:21:58Z | CVE-2021-44228 | CVE-2021-44228 on Docker & Podman | https://github.com/ahmad4fifz/CVE-2021-44228 | | 
-| 20211215T13:20:44Z | CVE-2021-44228 | Apache Log4j 远程代码执行 | https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce | | 
-| 20211215T13:18:38Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211215T12:53:12Z | CVE-2021-44228 | Known IoCs for log4j framework vulnerability  | https://github.com/guardicode/CVE-2021-44228_IoCs | | 
 | 20211215T12:45:10Z | CVE-2021-44228 | Null | https://github.com/b-abderrahmane/CVE-2021-44228-playground | | 
 | 20211215T12:10:32Z | cve-2021-44228 | Hot-patch CVE-2021-44228 by exploiting the vulnerability itself. | https://github.com/qingtengyun/cve-2021-44228-qingteng-online-patch | | 
@@ -142,6 +142,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211215T13:25:14Z | Null | https://github.com/ys-zhang/filter-fuzz | 0 | 0| 
 | 20211215T13:12:04Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 377 | 35| 
 | 20211215T13:08:27Z | Null | https://github.com/polymorphicengine/Semi-Fuzzy-Quantifiers | 0 | 0| 
 | 20211215T12:14:00Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 12 | 2| 
@@ -151,7 +152,6 @@
 | 20211215T11:27:10Z | Learning how to code | https://github.com/sanjapm/fuzzy-code | 0 | 0| 
 | 20211215T11:15:54Z | Just some code | https://github.com/PriyanshSingh167/fuzzy-disco | 0 | 0| 
 | 20211215T11:15:39Z | A conda-smithy repository for fuzzywuzzy. | https://github.com/conda-forge/fuzzywuzzy-feedstock | 1 | 7| 
-| 20211215T11:15:38Z | A conda-smithy repository for fuzzy-rough-learn. | https://github.com/conda-forge/fuzzy-rough-learn-feedstock | 0 | 1| 
 
 
 
