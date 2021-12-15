@@ -6,6 +6,15 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20211215 | OWASP 发起的一个 “Top 10 Proactive Controls” 项目，用于帮助开发者开发过程中了解防御技术 | http://github.co/3Ewvm9A| 
+| 20211215 | Remote Deserialization Bug in Microsofts RDP Client through Smart Card Extension (CVE-2021-38666) | https://thalium.github.io/blog/posts/deserialization-bug-through-rdp-smart-card-extension/| 
+| 20211215 | 有研究员为前两天爆出的 CVE-2021-42278 (Active Directory Privilege Escalation)漏洞写的 Python 版本 PoC | https://github.com/ly4k/Pachine| 
+| 20211215 | 微软发布 12 月份 Windows 补丁更新 | https://msrc.microsoft.com/update-guide/releaseNote/2021-Dec| 
+| 20211215 | Android App Hacking Workshop，Google 公开的 Android App 安全研究样例 APK 和 PPT | https://bughunters.google.com/learn/presentations/5783688075542528| 
+| 20211215 | Why is Exposing the Docker Socket a Really Bad Idea | http://blog.quarkslab.com/why-is-exposing-the-docker-socket-a-really-bad-idea.html| 
+| 20211215 | 过去半年中，疑似伊朗 Seedworm 组织发起针对中东和亚洲电信运营商的定向攻击 | https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/espionage-campaign-telecoms-asia-middle-east| 
+| 20211215 | JNDI 注入漏洞的前世今生 | http://evilpan.com/2021/12/13/jndi-injection/| 
+| 20211215 | 卡巴斯基在对可疑二进制样本分析中发现了一个用于窃取用户密钥的 IIS module | https://securelist.com/owowa-credential-stealer-and-remote-access/105219/| 
 | 20211214 | gVisor - Application Kernel for Containers，Google 为容器应用开发的一套内核层，限制容器内应用的内核访问能力 | https://github.com/google/gvisor| 
 | 20211214 | Codeql 学习笔记以及相关资料整理 | https://github.com/safe6Sec/CodeqlNote| 
 | 20211214 | 有研究员发布 PS4 9.00 Kernel Exploit | https://github.com/ChendoChap/pOOBs4| 
@@ -17,20 +26,13 @@
 | 20211214 | 已有 10 个家族的恶意样本利用 Log4shell 漏洞传播 | https://blog.netlab.360.com/yi-jing-you-xxxge-jia-zu-de-botnetli-yong-log4shelllou-dong-chuan-bo-wei-da-bu-ding-de-gan-jin-liao/| 
 | 20211214 | 内存级别攻防利器--UnSafe 的各种利用姿势. | https://paper.seebug.org/1785/| 
 | 20211214 | How hackers pollute your code. | https://www.youtube.com/watch?v=XS_UMqQalLI&feature=youtu.be| 
-| 20211214 | Apache Log4j2 Jndi RCE 高危漏洞分析与防御建议. | https://paper.seebug.org/1787/| 
-| 20211213 | 使用 Apache Log4j RCE 漏洞发起攻击的源 IP 收集（IOC） | https://github.com/RedDrip7/Log4Shell_CVE-2021-44228_related_attacks_IOCs| 
-| 20211213 | SAPP - Facebook 开发的用于处理静态代码分析工具 Pysa 分析结果的工具 | https://github.com/facebook/sapp| 
-| 20211213 | 针对 Qemu 模拟设备的 Fuzzer | https://github.com/lcatro/qemu-fuzzer| 
-| 20211213 | Apache Log4j RCE（CVE-2021-44228）Exploit | https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce| 
-| 20211213 | 域控管理员提权漏洞（CVE-2021-42287/CVE-2021-42278） Scanner & Exploiter | https://github.com/cube0x0/noPac| 
-| 20211213 | Burp Suite ActiveScan++ 插件也支持扫描 log4j 漏洞了 | https://github.com/PortSwigger/active-scan-plus-plus/blob/master/activeScan++.py| 
-| 20211213 | Log4j2 RCE Passive Scanner plugin for BurpSuite | https://github.com/whwlsfb/Log4j2Scan| 
-| 20211213 | Exploit samAccountName spoofing with Kerberos（CVE-2021-42278，CVE-2021-42287） | http://cloudbrothers.info/en/exploit-kerberos-samaccountname-spoofing/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20211215 | 《软件分析》完整版课程视频 | https://space.bilibili.com/2919428/channel/detail?cid=106434&ctype=0| 
+| 20211215 | 从Log4shell事件看资产风险运营工程化的困局与盲点 | https://zhuanlan.zhihu.com/p/445372045| 
 | 20211214 | 浅谈被动式IAST产品与技术实现 | https://tttang.com/archive/1375/| 
 | 20211213 | 从一例挖矿木马看 Log4Shell 的在野传播 | https://mp.weixin.qq.com/s/OoARMaeACnogFrEWMNw01A| 
 | 20211213 | SecWiki周刊（第406期) | https://www.sec-wiki.com/weekly/406| 
@@ -39,47 +41,46 @@
 | 20211212 | Unraid篇：docker私有部署服务推荐 | https://le4f.net/unraid-docker-apps/| 
 | 20211212 | N1CTF2021 Jerry WP | https://www.anquanke.com/post/id/260633| 
 | 20211212 | log4j2 JNDI注入漏洞速通 | https://lorexxar.cn/2021/12/10/log4j2-jndi/| 
-| 20211212 | 对电子邮件伪造攻击的大规模分析 | https://moxiaoxi.info/emailspoofing/2021/08/18/emailspoofing/| 
-| 20211212 | log4j 漏洞一些特殊的利用方式 | https://mp.weixin.qq.com/s/vAE89A5wKrc-YnvTr0qaNg| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211215T02:56:43Z | CVE-2021-44228 | Apache Log4j 远程代码执行 | https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce | | 
-| 20211215T02:56:12Z | cve-2021-44228 | Null | https://github.com/qingtengyun/cve-2021-44228-qingteng-online-patch | | 
-| 20211215T02:53:56Z | CVE-2021-43798 | Grafana8.x 任意文件读取 | https://github.com/Ryze-T/CVE-2021-43798 | | 
-| 20211215T02:52:43Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
-| 20211215T02:42:03Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
-| 20211215T02:31:36Z | CVE-2021-44228 | Aims to find JndiLookup.class in nearly any directory or zip, jar, ear, war file, even deeply nested. | https://github.com/jeremyrsellars/CVE-2021-44228_scanner | | 
-| 20211215T02:29:23Z | CVE-2021-44228 | Remote Code Injection In Log4j | https://github.com/jas502n/Log4j2-CVE-2021-44228 | | 
-| 20211215T02:04:16Z | CVE-2021-44228 | Test for log4j vulnerability across your external footprint | https://github.com/ssstonebraker/log4j_CVE-2021-44228_tester | | 
-| 20211215T02:02:53Z | CVE-2021-44228 | Apply class remove process from ear/war/jar/zip archive, see https://logging.apache.org/log4j/2.x/ | https://github.com/AlexandreHeroux/Fix-CVE-2021-44228 | | 
-| 20211215T01:19:00Z | cve-2021-21315 | Null | https://github.com/eR072391/cve-2021-21315 | | 
+| 20211215T12:53:12Z | CVE-2021-44228 | Known IoCs for log4j framework vulnerability  | https://github.com/guardicode/CVE-2021-44228_IoCs | | 
+| 20211215T12:49:58Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
+| 20211215T12:49:10Z | CVE-2021-44228 | Apache Log4j 远程代码执行 | https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce | | 
+| 20211215T12:45:10Z | CVE-2021-44228 | Null | https://github.com/b-abderrahmane/CVE-2021-44228-playground | | 
+| 20211215T12:10:32Z | cve-2021-44228 | Hot-patch CVE-2021-44228 by exploiting the vulnerability itself. | https://github.com/qingtengyun/cve-2021-44228-qingteng-online-patch | | 
+| 20211215T12:08:22Z | CVE-2021-44228 | Log4j2 CVE-2021-44228 revshell | https://github.com/faisalfs10x/Log4j2-CVE-2021-44228-revshell | | 
+| 20211215T11:36:20Z | CVE-2021-44228 | Null | https://github.com/Junhyunny/log4j-vulnerability-CVE-2021-44228 | | 
+| 20211215T11:23:41Z | CVE-2021-44228 | Null | https://github.com/ab0x90/CVE-2021-44228_PoC | | 
+| 20211215T11:15:25Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/jyotisahu98/logpresso-CVE-2021-44228-Scanner | | 
+| 20211215T10:49:59Z | cve-2021-44228 | Log4j CVE-2021-44228 examples: Remote Code Execution (through LDAP, RMI, ...), Forced DNS queries, ... | https://github.com/manuel-alvarez-alvarez/log4j-cve-2021-44228 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211215T10:37:13Z | Null | https://github.com/anaskautsar7/Klee-chan | 0 | 0| 
+| 20211215T09:35:22Z | modern regular expression syntax everywhere with a painless upgrade path | https://github.com/SonOfLilit/kleenexp | 31 | 4| 
 | 20211215T01:11:53Z | Null | https://github.com/HallettLab/klee-stability | 0 | 0| 
 | 20211214T03:09:59Z | Config files for my GitHub profile. | https://github.com/Klee666/Klee666 | 0 | 0| 
 | 20211214T01:46:51Z | Null | https://github.com/xinrachel30/AL_KLEEMEX | 0 | 0| 
-| 20211213T23:18:01Z | Null | https://github.com/anaskautsar7/Klee-chan | 0 | 0| 
 | 20211213T19:40:25Z | Null | https://github.com/dlapierre/kleewhoorksnantes | 0 | 0| 
 | 20211213T10:39:49Z | Witch-KLEE - A KLEE-based error witness checker | https://github.com/ayazip/witch-klee | 0 | 0| 
 | 20211213T10:05:32Z | Config files for my GitHub profile. | https://github.com/24klee/24klee | 0 | 0| 
 | 20211213T07:41:15Z | Null | https://github.com/Chiyukichan/klee_file | 0 | 0| 
 | 20211211T08:51:24Z | 程序员哥哥，你是来找可莉玩的吗？可莉语音包，适用于 vscode-rainbow-fart 拓展。 | https://github.com/Ran-ying/Klee-rainbow-fart | 13 | 1| 
-| 20211211T01:37:04Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211215T10:49:42Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 78 | 33| 
+| 20211215T10:48:26Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 190 | 40| 
+| 20211215T10:02:12Z | CRAX++: software CRash analysis for Automatic eXploit generation | https://github.com/aesophor/CRAXplusplus | 26 | 3| 
 | 20211214T17:51:04Z | Null | https://github.com/s2escogg/s2escogg.github.io | 0 | 0| 
 | 20211214T17:43:51Z | Null | https://github.com/s2escogg/s2escotgg.github.io | 0 | 0| 
-| 20211212T14:32:33Z | CRAX++: software CRash analysis for Automatic eXploit generation | https://github.com/aesophor/CRAXplusplus | 26 | 3| 
-| 20211212T02:15:47Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 190 | 40| 
 | 20211207T15:25:17Z | Null | https://github.com/yuvalkirstain/s2e-coref | 25 | 9| 
 | 20211202T14:39:02Z | Null | https://github.com/s2e-lab/s2e-lab.github.io | 0 | 0| 
 
@@ -87,31 +88,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211215T02:54:43Z | Null | https://github.com/RoadLuck/exploits-tryhackme | 0 | 0| 
-| 20211215T02:46:48Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 498 | 78| 
-| 20211215T02:26:53Z | AAAI2022: SmartIdx: Reducing Communication Cost in Federated Learning by Exploiting the CNNs Structures | https://github.com/wudonglei99/smartidx | 0 | 0| 
-| 20211215T02:22:37Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 305 | 687| 
-| 20211215T02:05:20Z | Easy Log2Shell exploitation | https://github.com/Meeds122/Log2Pwn | 0 | 0| 
-| 20211215T02:03:29Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 37 | 20| 
-| 20211215T02:03:13Z | PS4 WebKit exploit on 9.00 - Forked from sleirsgoevy | https://github.com/oldventura/ps4_webkit | 0 | 0| 
-| 20211215T02:01:05Z | The %Surely Unsecured Candy Receiving Operational Silly Exploit%. A button built into a marshmallow that randomly orders candy from my Amazon account. | https://github.com/thechincheachilla/S.U.C.R.O.S.E | 0 | 0| 
-| 20211215T01:35:22Z |  pOOBs4 PS4 exploit for v9.0 + automatic golden hen | https://github.com/mc-17/pspack-flask | 2 | 1| 
-| 20211215T01:11:12Z | Codes from Hacking: The Art of Exploitation book. By Jon Erickson. | https://github.com/edupazzz/Hacking-The-Art-of-Exploitation-Book | 0 | 0| 
+| 20211215T12:56:37Z | Escape From Tarkov API (Unofficial) The purpose of this API is to bring together different data that could be exploitable. Works by scrapping. | https://github.com/FoobarIT/EscapeFromTarkov-API | 0 | 0| 
+| 20211215T12:50:02Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 541 | 87| 
+| 20211215T12:45:53Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 16| 
+| 20211215T12:42:55Z | This project is exploit for some docker containers with vulnerability code: CVE-2020-35191  | https://github.com/megadimenex/hidocker | 0 | 0| 
+| 20211215T12:34:53Z | A utility that looks for log4j2 JNDI vulnerabilities in your jar files and fixes them | https://github.com/tox1cozZ/log4j2-jndi-exploit-patcher | 3 | 0| 
+| 20211215T12:34:51Z | Rodan Exploitation Framework | https://github.com/Etisalat-Egypt/Rodan | 61 | 19| 
+| 20211215T12:23:29Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 258 | 78| 
+| 20211215T12:10:32Z | Hot-patch CVE-2021-44228 by exploiting the vulnerability itself. | https://github.com/qingtengyun/cve-2021-44228-qingteng-online-patch | 21 | 2| 
+| 20211215T12:04:46Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 37 | 20| 
+| 20211215T11:17:44Z | Exploiting CVE-2021-42278 and CVE-2021-42287 to impersonate DA from standard domain user  | https://github.com/Ridter/noPac | 87 | 13| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211215T02:56:39Z | Statically-linked ssh server with reverse shell functionality for CTFs and such | https://github.com/Fahrj/reverse-ssh | 456 | 57| 
-| 20211215T02:52:13Z | Null | https://github.com/codehz/bashrc-backdoor | 7 | 2| 
-| 20211215T02:33:04Z | Design a backdoor detector for BadNets | https://github.com/tianhao22/backdoor-detector | 0 | 0| 
-| 20211215T02:21:55Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 391 | 67| 
+| 20211215T11:31:15Z | Null | https://github.com/kangjie-chen/NLP_backdoor | 1 | 0| 
+| 20211215T10:46:56Z | Null | https://github.com/codehz/bashrc-backdoor | 8 | 2| 
+| 20211215T10:30:47Z | Statically-linked ssh server with reverse shell functionality for CTFs and such | https://github.com/Fahrj/reverse-ssh | 461 | 57| 
+| 20211215T08:47:08Z | Website Shell BackDoors | https://github.com/7r0j4ncodeing/Web-Shells | 23 | 7| 
+| 20211215T05:43:55Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 392 | 67| 
+| 20211215T05:23:42Z | Allowing server admins to backdoor their own server! | https://github.com/awesomemoder316/DiscordBackdoorBot | 1 | 0| 
+| 20211215T03:12:35Z | Design a backdoor detector for BadNets | https://github.com/tianhao22/backdoor-detector | 0 | 0| 
 | 20211215T00:08:46Z | backdoor de acesso remoto (em desenvolvimento) | https://github.com/mednic/bckdoor | 0 | 0| 
 | 20211214T20:41:19Z | Null | https://github.com/ezequielsoler/invisible-backdoor | 0 | 0| 
 | 20211214T18:17:42Z | High School project that utilizes python machine learning algorithm to find malicious backdoor programs on a Linux system | https://github.com/MizuBon/mlDoora | 0 | 0| 
-| 20211214T16:25:01Z | Null | https://github.com/jrbeduardo/trojano_backdoor | 0 | 0| 
-| 20211214T15:16:34Z | Python-Backdoor | https://github.com/s120000/Python-Backdoor | 1 | 0| 
-| 20211214T13:30:45Z | Null | https://github.com/JorikSchillemans/Botnet-Backdoor-Keylogger | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -132,8 +133,8 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211215T04:47:08Z | A penetration testing tool for finding file upload bugs (NDSS 2020) | https://github.com/WSP-LAB/FUSE | 204 | 45| 
 | 20211214T10:37:21Z | Code for NDSS 2021 Paper %Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses Against Federated Learning% | https://github.com/vrt1shjwlkr/NDSS21-Model-Poisoning | 30 | 7| 
-| 20211211T06:37:35Z | A penetration testing tool for finding file upload bugs (NDSS 2020) | https://github.com/WSP-LAB/FUSE | 203 | 45| 
 | 20211203T05:22:50Z | Paper Downloader for NDSS Symposium 2021. | https://github.com/qianfei11/Paper_Downloader_for_NDSS_Symposium_2021 | 0 | 0| 
 | 20211202T07:57:27Z | Downloader for NDSS Symposium 2021 | https://github.com/qianfei11/Downloader_for_NDSS_Symposium_2021 | 0 | 0| 
 
