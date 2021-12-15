@@ -87,7 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211215T01:22:41Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 491 | 77| 
+| 20211215T01:27:39Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 492 | 77| 
 | 20211215T01:11:12Z | Codes from Hacking: The Art of Exploitation book. By Jon Erickson. | https://github.com/edupazzz/Hacking-The-Art-of-Exploitation-Book | 0 | 0| 
 | 20211215T01:08:17Z | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | 120 | 23| 
 | 20211215T01:03:25Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 37 | 20| 
@@ -117,6 +117,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211215T01:24:38Z | FuSeBMC is a White-Box Fuzzer that combines FUzzing with Symbolic Execution via Bounded Model Checking to verify intricate properties in real-world C programs. | https://github.com/kaled-alshmrany/FuSeBMC | 20 | 2| 
 | 20211215T00:26:19Z | Symbolic Execution & Verification Framework | https://github.com/gprechter/youverify | 1 | 0| 
 | 20211214T21:33:45Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1931 | 402| 
 | 20211214T20:26:48Z | Symbolica%s open-source symbolic execution engine. | https://github.com/Symbolica/Symbolica | 46 | 3| 
@@ -126,7 +127,6 @@
 | 20211214T15:14:23Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 20 | 13| 
 | 20211214T12:56:30Z | Monster is a symbolic execution engine for 64-bit RISC-U code | https://github.com/cksystemsgroup/monster | 7 | 3| 
 | 20211214T06:50:01Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 11 | 5| 
-| 20211214T01:50:52Z | History of symbolic execution (as well as SAT/SMT solving, fuzzing, and taint data tracking) | https://github.com/enzet/symbolic-execution | 410 | 57| 
 
 
 # big4 on Github 推荐
@@ -141,6 +141,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211215T01:28:34Z | Sequence-Oriented DBMS Fuzzing | https://github.com/Lego2021/LEGO | 1 | 0| 
 | 20211215T01:24:38Z | FuSeBMC is a White-Box Fuzzer that combines FUzzing with Symbolic Execution via Bounded Model Checking to verify intricate properties in real-world C programs. | https://github.com/kaled-alshmrany/FuSeBMC | 20 | 2| 
 | 20211215T01:07:37Z | ☸A stateful GraphQL fuzzer (in development) | https://github.com/omar2535/GraphQLer | 12 | 2| 
 | 20211215T00:26:16Z | We%ll be using HTML, CSS and JavaScript for the frontend. Nothing to install in specific. Open your text-editor and start coding a beautiful front-end. | https://github.com/sai-tilak/Fuzzy-URL-s | 0 | 0| 
@@ -150,7 +151,6 @@
 | 20211215T00:10:07Z | Null | https://github.com/joseffaghihi/Causal-fuzzy-CEVAE | 1 | 0| 
 | 20211214T23:56:16Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4646 | 475| 
 | 20211214T23:44:26Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2446 | 150| 
-| 20211214T23:39:53Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 
 
 
