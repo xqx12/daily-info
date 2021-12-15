@@ -37,8 +37,8 @@
 | 20211214T19:46:05Z | cve-2021-44228 | Some files for red team/blue team investigations into CVE-2021-44228 | https://github.com/kimobu/cve-2021-44228 | | 
 | 20211214T18:03:52Z | CVE-2021-44228 | CVE-2021-44228 | https://github.com/ShaneKingBlog/org.shaneking.demo.cve.y2021.s44228 | | 
 | 20211214T17:58:15Z | CVE-2021-44228 | Null | https://github.com/municipalparkingservices/CVE-2021-44228-Scanner | | 
-| 20211214T17:09:35Z | CVE-2021-43798 | Grafana8.x 任意文件读取 | https://github.com/Ryze-T/CVE-2021-43798 | | 
 | 20211214T16:54:31Z | cve-2021-44228 | Log4j | https://github.com/corelight/cve-2021-44228 | | 
+| 20211214T16:45:36Z | CVE-2021-44228 | Null | https://github.com/yanicksenn/CVE-2021-44228 | | 
 
 
 # klee on Github 推荐
@@ -58,7 +58,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211214T23:48:54Z | As the Red Team, you will attack a vulnerable VM within your environment, ultimately gaining root access to the machine. As Blue Team, you will use Kibana to review logs taken during their Day 1 engagement. You%ll use the logs to extract hard data and visualizations for an assessment report. The log data will be interpreted in order to suggest mitigation measures for each successful exploit. | https://github.com/jmarcbaker/Red-vs-Blue-Team-Project-II | 0 | 0| 
+| 20211214T23:48:54Z | As the Red Team, you will attack a vulnerable VM within your environment, ultimately gaining root access to the machine. As Blue Team, you will use Kibana to review logs taken during their Day 1 engagement. You%ll use the logs to extract hard data and visualizations for an assessment report. The log data will be interpreted in order to suggest mitigation measures for each successful exploit. | https://github.com/jmarcbaker/Red-vs-Blue-Team-Project-II | 0 | 1| 
 | 20211214T23:38:31Z | Collection of Discord hacking tools/fun stuff/exploits that is completely made using NodeJS. | https://github.com/I2rys/ODiscord | 37 | 17| 
 | 20211214T22:57:31Z | Null | https://github.com/brentshierk/exploit | 0 | 0| 
 | 20211214T22:48:57Z | catch log4j exploits in the wild? maybe if we%re lucky... . | https://github.com/entropyQueen/log4j_catcher | 14 | 2| 
