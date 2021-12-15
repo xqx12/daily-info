@@ -105,10 +105,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211215T13:00:18Z | Null | https://github.com/polymorphicengine/Semi-Fuzzy-Quantifiers | 0 | 0| 
+| 20211215T13:12:04Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 377 | 35| 
+| 20211215T13:08:27Z | Null | https://github.com/polymorphicengine/Semi-Fuzzy-Quantifiers | 0 | 0| 
 | 20211215T12:14:00Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 12 | 2| 
 | 20211215T12:00:07Z | Null | https://github.com/django/django-fuzzers | 2 | 1| 
-| 20211215T11:41:03Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 376 | 35| 
 | 20211215T11:39:17Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20211215T11:30:38Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 634 | 67| 
 | 20211215T11:27:10Z | Learning how to code | https://github.com/sanjapm/fuzzy-code | 0 | 0| 
