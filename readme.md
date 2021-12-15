@@ -58,6 +58,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211215T13:48:33Z | The purpose of this project is to demonstrate the Log4Shell exploit with Log4J vulnerabilities using PDF as delivery channel | https://github.com/eelyvy/log4jshell-pdf | 0 | 0| 
 | 20211215T13:39:00Z |  pOOBs4 PS4 exploit for v9.0 + automatic golden hen | https://github.com/mc-17/pspack-flask | 4 | 4| 
 | 20211215T13:35:35Z | Null | https://github.com/Kirill89/log4shell-vulnerable-server-exploit | 0 | 0| 
 | 20211215T13:34:07Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 543 | 88| 
@@ -67,7 +68,6 @@
 | 20211215T13:02:14Z | Escape From Tarkov API (Unofficial) The purpose of this API is to bring together different data that could be exploitable. Works by scrapping. | https://github.com/FoobarIT/EscapeFromTarkov-API | 0 | 0| 
 | 20211215T12:45:53Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 16| 
 | 20211215T12:34:53Z | A utility that looks for log4j2 JNDI vulnerabilities in your jar files and fixes them | https://github.com/tox1cozZ/log4j2-jndi-exploit-patcher | 3 | 0| 
-| 20211215T12:34:51Z | Rodan Exploitation Framework | https://github.com/Etisalat-Egypt/Rodan | 61 | 19| 
 
 
 # backdoor on Github 推荐
