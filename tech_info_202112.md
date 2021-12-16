@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211216T00:50:25Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
+| 20211216T01:10:12Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211216T00:36:30Z | cve-2021-44228 | Null | https://github.com/aws-samples/kubernetes-log4j-cve-2021-44228-node-agent | | 
 | 20211216T00:11:58Z | CVE-2021-44228 | Null | https://github.com/b-abderrahmane/CVE-2021-44228-playground | | 
 | 20211215T23:39:15Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
@@ -88,12 +88,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211216T01:09:47Z | Roblox exploiting scripts. | https://github.com/TotoAJ/ROBLOX-Scripts | 1 | 0| 
 | 20211216T01:08:12Z | An IAST and RASP specifically for testing apps/APIs for log4shell and protecting them from being exploited. | https://github.com/Contrast-Security-OSS/safelog4j | 0 | 1| 
 | 20211216T01:04:02Z | Null | https://github.com/SA-scripts/exploits | 0 | 0| 
 | 20211216T01:03:24Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 38 | 20| 
 | 20211216T00:47:02Z | Null | https://github.com/NotOnTop/Exploits_Public | 0 | 0| 
 | 20211216T00:45:53Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 16| 
-| 20211216T00:40:48Z | Roblox exploiting scripts. | https://github.com/TotoAJ/ROBLOX-Scripts | 1 | 0| 
 | 20211216T00:19:47Z | Collection of Discord hacking tools/fun stuff/exploits that is completely made using NodeJS. | https://github.com/I2rys/ODiscord | 37 | 17| 
 | 20211216T00:17:18Z | A collection of intelligence about Log4Shell and its exploitation activity.  | https://github.com/curated-intel/Log4Shell-IOCs | 89 | 16| 
 | 20211216T00:07:18Z | Null | https://github.com/TNYCL/rise-login-exploit | 0 | 0| 
