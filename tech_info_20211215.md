@@ -65,9 +65,9 @@
 | 20211215T23:13:12Z | this is an automatic privat recon and exploitation framework for triggering a firesale. | https://github.com/d4op/overkill | 0 | 0| 
 | 20211215T23:09:19Z | Microbiome Analysis Powered By Recursive Quasi-species Networks: Uncovering rules of organization, competition, succession and exploitation | https://github.com/zeroknowledgediscovery/qbiome | 0 | 0| 
 | 20211215T22:59:00Z | Powershell Log4j Exploit detection | https://github.com/jake-k-38/win-log4j-detect | 0 | 0| 
-| 20211215T22:37:29Z | POC code for log4shell with full exploitation | https://github.com/jsnv-dev/yet_another_log4j_POC_standalone | 0 | 0| 
 | 20211215T22:32:54Z | Null | https://github.com/brentshierk/exploit | 0 | 0| 
 | 20211215T22:26:04Z | 😎 Exploiting utility for Roblox. | https://github.com/catboy08/comet | 2 | 0| 
+| 20211215T22:22:50Z | IP addresses exploiting recent log4j2 vulnerability CVE-2021-44228  | https://github.com/Malwar3Ninja/Exploitation-of-Log4j2-CVE-2021-44228 | 7 | 2| 
 
 
 # backdoor on Github 推荐
