@@ -88,6 +88,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211216T01:04:02Z | Null | https://github.com/SA-scripts/exploits | 0 | 0| 
+| 20211216T01:03:24Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 38 | 20| 
 | 20211216T00:47:02Z | Null | https://github.com/NotOnTop/Exploits_Public | 0 | 0| 
 | 20211216T00:45:53Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 16| 
 | 20211216T00:40:48Z | Roblox exploiting scripts. | https://github.com/TotoAJ/ROBLOX-Scripts | 1 | 0| 
@@ -95,9 +97,7 @@
 | 20211216T00:19:26Z | An IAST and RASP specifically for testing apps/APIs for log4shell and protecting them from being exploited. | https://github.com/Contrast-Security-OSS/safelog4j | 0 | 1| 
 | 20211216T00:17:18Z | A collection of intelligence about Log4Shell and its exploitation activity.  | https://github.com/curated-intel/Log4Shell-IOCs | 89 | 16| 
 | 20211216T00:07:18Z | Null | https://github.com/TNYCL/rise-login-exploit | 0 | 0| 
-| 20211216T00:03:43Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 38 | 20| 
 | 20211215T23:42:23Z | A simple little tool that checks if your machine can connect to the default ports used by the log4shell exploit  | https://github.com/pmembrey/log4j-portscan | 0 | 0| 
-| 20211215T23:39:58Z | Linux kernel exploit techniques. | https://github.com/anvbis/linux-kernel-exp | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -118,16 +118,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211215T13:10:25Z | Monster is a symbolic execution engine for 64-bit RISC-U code | https://github.com/cksystemsgroup/monster | 7 | 3| 
-| 20211215T11:10:45Z | A tool for incremental symbolic execution | https://github.com/FenseTool/fense | 0 | 0| 
+| 20211216T00:34:41Z | A tool for incremental symbolic execution | https://github.com/FenseTool/fense | 0 | 0| 
+| 20211215T22:44:27Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 18 | 5| 
+| 20211215T22:16:02Z | Symbolic execution engine for ABS | https://github.com/Edkamb/crowbar-tool | 0 | 3| 
+| 20211215T18:17:37Z | Symbolic Execution & Verification Framework | https://github.com/gprechter/youverify | 1 | 0| 
+| 20211215T15:07:45Z | Monster is a symbolic execution engine for 64-bit RISC-U code | https://github.com/cksystemsgroup/monster | 7 | 3| 
 | 20211215T10:48:26Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 190 | 40| 
 | 20211215T09:14:19Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 21 | 13| 
 | 20211215T05:48:17Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 11 | 5| 
 | 20211215T02:19:09Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 185 | 10| 
-| 20211215T02:03:55Z | Symbolic Execution & Verification Framework | https://github.com/gprechter/youverify | 1 | 0| 
 | 20211215T01:24:38Z | FuSeBMC is a White-Box Fuzzer that combines FUzzing with Symbolic Execution via Bounded Model Checking to verify intricate properties in real-world C programs. | https://github.com/kaled-alshmrany/FuSeBMC | 20 | 2| 
-| 20211214T21:33:45Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1931 | 402| 
-| 20211214T20:26:48Z | Symbolica%s open-source symbolic execution engine. | https://github.com/Symbolica/Symbolica | 46 | 3| 
 
 
 # big4 on Github 推荐
@@ -142,6 +142,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211216T01:04:57Z | Attempts to find security vulnerabilities in NetHack via input Fuzzing | https://github.com/recursion-ninja/Superion-YAML | 1 | 3| 
 | 20211216T00:56:51Z | Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery. | https://github.com/fuzzdb-project/fuzzdb | 6285 | 1885| 
 | 20211216T00:41:35Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1321 | 141| 
 | 20211216T00:38:30Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6908 | 1448| 
@@ -151,7 +152,6 @@
 | 20211215T23:18:44Z | A conda-smithy repository for scikit-fuzzy. | https://github.com/conda-forge/scikit-fuzzy-feedstock | 0 | 2| 
 | 20211215T23:15:10Z | Null | https://github.com/allexks/FuzzyKit | 0 | 0| 
 | 20211215T23:06:23Z | We%ll be using HTML, CSS and JavaScript for the frontend. Nothing to install in specific. Open your text-editor and start coding a beautiful front-end. | https://github.com/sai-tilak/Fuzzy-URL-s | 1 | 0| 
-| 20211215T23:00:55Z | Let%s get Fuzzy 🤪 !!! | https://github.com/yuk-kei/Fuzzy-Logic-Pong | 0 | 0| 
 
 
 
