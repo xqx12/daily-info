@@ -113,11 +113,11 @@
 | 20211215T23:15:10Z | Null | https://github.com/allexks/FuzzyKit | 0 | 0| 
 | 20211215T23:06:23Z | We%ll be using HTML, CSS and JavaScript for the frontend. Nothing to install in specific. Open your text-editor and start coding a beautiful front-end. | https://github.com/sai-tilak/Fuzzy-URL-s | 1 | 0| 
 | 20211215T23:00:55Z | Let%s get Fuzzy 🤪 !!! | https://github.com/yuk-kei/Fuzzy-Logic-Pong | 0 | 0| 
-| 20211215T22:44:03Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 635 | 67| 
 | 20211215T21:49:26Z | WIP fuzzing btrfs with LKL | https://github.com/docfate111/badfsfuzzer | 0 | 0| 
 | 20211215T21:38:03Z | Traffic Light Fuzzy Interference System | https://github.com/YANZAAN/traffic-light-fuzzy | 0 | 0| 
 | 20211215T21:33:15Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211215T21:21:17Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
+| 20211215T21:12:28Z | Null | https://github.com/thiagoocavalcanti/Temperature-Control-of-a-Shower-Using-Fuzzy-Logic | 0 | 0| 
 
 
 

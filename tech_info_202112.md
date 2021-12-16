@@ -142,6 +142,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211216T01:21:28Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 635 | 67| 
 | 20211216T01:16:56Z | Null | https://github.com/polymorphicengine/Semi-Fuzzy-Quantifiers | 0 | 0| 
 | 20211216T01:08:26Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 35838 | 18497| 
 | 20211216T01:04:57Z | Attempts to find security vulnerabilities in NetHack via input Fuzzing | https://github.com/recursion-ninja/Superion-YAML | 1 | 3| 
@@ -151,7 +152,6 @@
 | 20211216T00:12:22Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 39 | 12| 
 | 20211215T23:48:34Z | Python Fuzzing | https://github.com/lendroy4200/Fuzzing | 0 | 0| 
 | 20211215T23:18:44Z | A conda-smithy repository for scikit-fuzzy. | https://github.com/conda-forge/scikit-fuzzy-feedstock | 0 | 2| 
-| 20211215T23:15:10Z | Null | https://github.com/allexks/FuzzyKit | 0 | 0| 
 
 
 
