@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211216T01:42:11Z | CVE-2021-44228 | A one-stop repo for all log4j vulnerability-related information.  | https://github.com/anuvindhs/how-to-check-patch-secure-log4j-CVE-2021-44228 | | 
 | 20211216T01:36:44Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211216T01:24:18Z | cve-2021-44228 | Null | https://github.com/aws-samples/kubernetes-log4j-cve-2021-44228-node-agent | | 
 | 20211216T01:19:12Z | CVE-2021-44228 | 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - A trick to bypass words blocking patches | https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words | | 
@@ -55,7 +56,6 @@
 | 20211215T23:00:02Z | CVE-2021-44228 | Hashes for vulnerable LOG4J versions | https://github.com/mubix/CVE-2021-44228-Log4Shell-Hashes | | 
 | 20211215T22:52:54Z | CVE-2021-44228 | A one-stop repo for all log4j vulnerability-related information.  | https://github.com/anuvindhs/how-to-check-patch-secure-logj4-CVE-2021-44228 | | 
 | 20211215T22:30:35Z | CVE-2021-44228 | Aims to find JndiLookup.class in nearly any directory or zip, jar, ear, war file, even deeply nested. | https://github.com/jeremyrsellars/CVE-2021-44228_scanner | | 
-| 20211215T22:22:50Z | CVE-2021-44228 | IP addresses exploiting recent log4j2 vulnerability CVE-2021-44228  | https://github.com/Malwar3Ninja/Exploitation-of-Log4j2-CVE-2021-44228 | | 
 
 
 # klee on Github 推荐
@@ -88,7 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211216T01:34:22Z | Escalate from a Standard User to NT AUTHORITY\SYSTEM without an LPE exploit by combining a COM UAC bypass and Token Impersonation | https://github.com/FULLSHADE/Auto-Elevate | 0 | 0| 
+| 20211216T01:41:02Z | Escalate from a Standard User to NT AUTHORITY\SYSTEM without an LPE exploit by combining a COM UAC bypass and Token Impersonation | https://github.com/FULLSHADE/Auto-Elevate | 0 | 0| 
 | 20211216T01:33:51Z | Log4j-RCE (CVE-2021-44228) Proof of Concept with additional information | https://github.com/HyCraftHD/Log4J-RCE-Proof-Of-Concept | 161 | 27| 
 | 20211216T01:29:16Z | Null | https://github.com/muratyokus/Turkey-discovery-and-exploitation-IOCs | 2 | 0| 
 | 20211216T01:29:11Z | Roblox exploiting scripts. | https://github.com/TotoAJ/ROBLOX-Scripts | 1 | 0| 
