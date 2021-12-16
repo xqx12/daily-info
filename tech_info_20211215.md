@@ -27,16 +27,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211215T13:52:38Z | CVE-2021-44228 | Null | https://github.com/RedDrip7/Log4Shell_CVE-2021-44228_related_attacks_IOCs | | 
-| 20211215T13:50:49Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
-| 20211215T13:40:54Z | CVE-2021-44228 | CVE-2021-44228 on Docker & Podman | https://github.com/ahmad4fifz/CVE-2021-44228 | | 
-| 20211215T13:35:09Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
-| 20211215T13:27:49Z | CVE-2021-44228 | Apache Log4j 远程代码执行 | https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce | | 
-| 20211215T12:53:12Z | CVE-2021-44228 | Known IoCs for log4j framework vulnerability  | https://github.com/guardicode/CVE-2021-44228_IoCs | | 
-| 20211215T12:45:10Z | CVE-2021-44228 | Null | https://github.com/b-abderrahmane/CVE-2021-44228-playground | | 
-| 20211215T12:10:32Z | cve-2021-44228 | Hot-patch CVE-2021-44228 by exploiting the vulnerability itself. | https://github.com/qingtengyun/cve-2021-44228-qingteng-online-patch | | 
-| 20211215T12:08:22Z | CVE-2021-44228 | Log4j2 CVE-2021-44228 revshell | https://github.com/faisalfs10x/Log4j2-CVE-2021-44228-revshell | | 
-| 20211215T11:36:20Z | CVE-2021-44228 | Null | https://github.com/Junhyunny/log4j-vulnerability-CVE-2021-44228 | | 
+| 20211215T23:39:15Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
+| 20211215T23:03:47Z | cve-2021-44228 | A Remote Code Execution PoC for Log4Shell (CVE-2021-44228) | https://github.com/ubitech/cve-2021-44228-rce-poc | | 
+| 20211215T23:00:02Z | CVE-2021-44228 | Hashes for vulnerable LOG4J versions | https://github.com/mubix/CVE-2021-44228-Log4Shell-Hashes | | 
+| 20211215T22:52:54Z | CVE-2021-44228 | A one-stop repo for all log4j vulnerability-related information.  | https://github.com/anuvindhs/how-to-check-patch-secure-logj4-CVE-2021-44228 | | 
+| 20211215T22:30:35Z | CVE-2021-44228 | Aims to find JndiLookup.class in nearly any directory or zip, jar, ear, war file, even deeply nested. | https://github.com/jeremyrsellars/CVE-2021-44228_scanner | | 
+| 20211215T22:22:50Z | CVE-2021-44228 | IP addresses exploiting recent log4j2 vulnerability CVE-2021-44228  | https://github.com/Malwar3Ninja/Exploitation-of-Log4j2-CVE-2021-44228 | | 
+| 20211215T21:55:41Z | CVE-2021-44228 | OpenIOC rules to facilitate hunting for indicators of compromise | https://github.com/fireeye/CVE-2021-44228 | | 
+| 20211215T21:01:20Z | CVE-2021-44228 | Known IoCs for log4j framework vulnerability  | https://github.com/guardicode/CVE-2021-44228_IoCs | | 
+| 20211215T20:39:19Z | cve-2021-44228 | Very simple Ansible playbook that scan filesystem for JAR files vulnerable to Log4Shell | https://github.com/pmontesd/log4j-cve-2021-44228 | | 
+| 20211215T20:31:08Z | CVE-2021-44228 | 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - A trick to bypass words blocking patches | https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words | | 
 
 
 # klee on Github 推荐
@@ -50,37 +50,39 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211215T17:59:15Z | CRAX++: software CRash analysis for Automatic eXploit generation | https://github.com/aesophor/CRAXplusplus | 26 | 3| 
 | 20211215T10:49:42Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 78 | 33| 
 | 20211215T10:48:26Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 190 | 40| 
-| 20211215T10:02:12Z | CRAX++: software CRash analysis for Automatic eXploit generation | https://github.com/aesophor/CRAXplusplus | 26 | 3| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211215T13:48:33Z | The purpose of this project is to demonstrate the Log4Shell exploit with Log4J vulnerabilities using PDF as delivery channel | https://github.com/eelyvy/log4jshell-pdf | 0 | 0| 
-| 20211215T13:39:00Z |  pOOBs4 PS4 exploit for v9.0 + automatic golden hen | https://github.com/mc-17/pspack-flask | 4 | 4| 
-| 20211215T13:35:35Z | Null | https://github.com/Kirill89/log4shell-vulnerable-server-exploit | 0 | 0| 
-| 20211215T13:34:07Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 543 | 88| 
-| 20211215T13:16:56Z | Info for exploiting vulnerabilities | https://github.com/Amitale/Penetration-Testing-Notes | 0 | 0| 
-| 20211215T13:03:07Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 37 | 20| 
-| 20211215T13:02:25Z | This project is exploit for some docker containers with vulnerability code: CVE-2020-35191  | https://github.com/megadimenex/hidocker | 0 | 0| 
-| 20211215T13:02:14Z | Escape From Tarkov API (Unofficial) The purpose of this API is to bring together different data that could be exploitable. Works by scrapping. | https://github.com/FoobarIT/EscapeFromTarkov-API | 0 | 0| 
-| 20211215T12:45:53Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 16| 
-| 20211215T12:34:53Z | A utility that looks for log4j2 JNDI vulnerabilities in your jar files and fixes them | https://github.com/tox1cozZ/log4j2-jndi-exploit-patcher | 3 | 0| 
+| 20211215T23:42:23Z | A simple little tool that checks if your machine can connect to the default ports used by the log4shell exploit  | https://github.com/pmembrey/log4j-portscan | 0 | 0| 
+| 20211215T23:39:58Z | Linux kernel exploit techniques. | https://github.com/anvbis/linux-kernel-exp | 0 | 0| 
+| 20211215T23:21:30Z | Store all exploit-db.com/google-hacking-database results then scrape google for every exploit-db query. Stores the Google results and IP information. (and eventually WHOIS) | https://github.com/frame-of-reference/ghdb | 0 | 0| 
+| 20211215T23:16:52Z | vulnerability underground updater: loads new payloads, exploits, and vuu AI engine rulesets for automatic exploit chains. | https://github.com/d4op/vuu | 0 | 0| 
+| 20211215T23:13:12Z | this is an automatic privat recon and exploitation framework for triggering a firesale. | https://github.com/d4op/overkill | 0 | 0| 
+| 20211215T23:09:19Z | Microbiome Analysis Powered By Recursive Quasi-species Networks: Uncovering rules of organization, competition, succession and exploitation | https://github.com/zeroknowledgediscovery/qbiome | 0 | 0| 
+| 20211215T22:59:00Z | Powershell Log4j Exploit detection | https://github.com/jake-k-38/win-log4j-detect | 0 | 0| 
+| 20211215T22:37:29Z | POC code for log4shell with full exploitation | https://github.com/jsnv-dev/yet_another_log4j_POC_standalone | 0 | 0| 
+| 20211215T22:32:54Z | Null | https://github.com/brentshierk/exploit | 0 | 0| 
+| 20211215T22:26:04Z | 😎 Exploiting utility for Roblox. | https://github.com/catboy08/comet | 2 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211215T23:01:44Z | It%s a socket backdoor , to execute your commands on victims devices  | https://github.com/MaherGebrail/Socket-BackDoor | 0 | 0| 
+| 20211215T20:27:39Z | NBA Pass Backdoor | https://github.com/Stevenizzyhart1/NBA-Pass | 0 | 0| 
+| 20211215T20:21:26Z | Statically-linked ssh server with reverse shell functionality for CTFs and such | https://github.com/Fahrj/reverse-ssh | 467 | 57| 
+| 20211215T16:57:41Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 394 | 67| 
+| 20211215T15:50:42Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 118 | 29| 
+| 20211215T14:37:12Z | WORK IN PROGRESS. RAT written in Java | https://github.com/melardev/XeytanJ-Async-RAT | 8 | 5| 
+| 20211215T14:37:12Z | WORK IN PROGRESS. RAT written in Java. | https://github.com/melardev/XeytanJ-RAT | 6 | 5| 
 | 20211215T11:31:15Z | Null | https://github.com/kangjie-chen/NLP_backdoor | 1 | 0| 
 | 20211215T10:46:56Z | Null | https://github.com/codehz/bashrc-backdoor | 8 | 2| 
-| 20211215T10:30:47Z | Statically-linked ssh server with reverse shell functionality for CTFs and such | https://github.com/Fahrj/reverse-ssh | 461 | 57| 
 | 20211215T08:47:08Z | Website Shell BackDoors | https://github.com/7r0j4ncodeing/Web-Shells | 23 | 7| 
-| 20211215T05:43:55Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 392 | 67| 
-| 20211215T05:23:42Z | Allowing server admins to backdoor their own server! | https://github.com/awesomemoder316/DiscordBackdoorBot | 1 | 0| 
-| 20211215T03:12:35Z | Design a backdoor detector for BadNets | https://github.com/tianhao22/backdoor-detector | 0 | 0| 
-| 20211215T00:08:46Z | backdoor de acesso remoto (em desenvolvimento) | https://github.com/mednic/bckdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -105,16 +107,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211215T13:43:22Z | Null | https://github.com/vivaana111/fuzzy-system | 0 | 0| 
-| 20211215T13:41:48Z | A fuzzing tool for email sender spoofing attack. 👻 | https://github.com/mo-xiaoxi/ESpoofing | 115 | 14| 
-| 20211215T13:39:42Z | Leetcode solutions. | https://github.com/chaitanyks/fuzzy-disco | 1 | 0| 
-| 20211215T13:35:32Z | Bot which suggests movies according to a users taste | https://github.com/rafibu/fuzzy | 0 | 0| 
-| 20211215T13:33:06Z | Null | https://github.com/polymorphicengine/Semi-Fuzzy-Quantifiers | 0 | 0| 
-| 20211215T13:25:14Z | Null | https://github.com/ys-zhang/filter-fuzz | 0 | 0| 
-| 20211215T13:12:04Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 377 | 35| 
-| 20211215T12:14:00Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 12 | 2| 
-| 20211215T12:00:07Z | Null | https://github.com/django/django-fuzzers | 2 | 1| 
-| 20211215T11:39:17Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
+| 20211215T23:48:34Z | Python Fuzzing | https://github.com/lendroy4200/Fuzzing | 0 | 0| 
+| 20211215T23:18:44Z | A conda-smithy repository for scikit-fuzzy. | https://github.com/conda-forge/scikit-fuzzy-feedstock | 0 | 2| 
+| 20211215T23:15:10Z | Null | https://github.com/allexks/FuzzyKit | 0 | 0| 
+| 20211215T23:06:23Z | We%ll be using HTML, CSS and JavaScript for the frontend. Nothing to install in specific. Open your text-editor and start coding a beautiful front-end. | https://github.com/sai-tilak/Fuzzy-URL-s | 1 | 0| 
+| 20211215T23:00:55Z | Let%s get Fuzzy 🤪 !!! | https://github.com/yuk-kei/Fuzzy-Logic-Pong | 0 | 0| 
+| 20211215T22:44:03Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 635 | 67| 
+| 20211215T21:49:26Z | WIP fuzzing btrfs with LKL | https://github.com/docfate111/badfsfuzzer | 0 | 0| 
+| 20211215T21:38:03Z | Traffic Light Fuzzy Interference System | https://github.com/YANZAAN/traffic-light-fuzzy | 0 | 0| 
+| 20211215T21:33:15Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20211215T21:21:17Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
 
 
 
