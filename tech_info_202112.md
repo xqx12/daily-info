@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211216T01:19:12Z | CVE-2021-44228 | 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - A trick to bypass words blocking patches | https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words | | 
 | 20211216T01:12:01Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211216T00:36:30Z | cve-2021-44228 | Null | https://github.com/aws-samples/kubernetes-log4j-cve-2021-44228-node-agent | | 
 | 20211216T00:11:58Z | CVE-2021-44228 | Null | https://github.com/b-abderrahmane/CVE-2021-44228-playground | | 
@@ -55,7 +56,6 @@
 | 20211215T22:52:54Z | CVE-2021-44228 | A one-stop repo for all log4j vulnerability-related information.  | https://github.com/anuvindhs/how-to-check-patch-secure-logj4-CVE-2021-44228 | | 
 | 20211215T22:30:35Z | CVE-2021-44228 | Aims to find JndiLookup.class in nearly any directory or zip, jar, ear, war file, even deeply nested. | https://github.com/jeremyrsellars/CVE-2021-44228_scanner | | 
 | 20211215T22:22:50Z | CVE-2021-44228 | IP addresses exploiting recent log4j2 vulnerability CVE-2021-44228  | https://github.com/Malwar3Ninja/Exploitation-of-Log4j2-CVE-2021-44228 | | 
-| 20211215T21:55:41Z | CVE-2021-44228 | OpenIOC rules to facilitate hunting for indicators of compromise | https://github.com/fireeye/CVE-2021-44228 | | 
 
 
 # klee on Github 推荐
@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211216T01:18:33Z | Escalate from a Standard User to NT AUTHORITY\SYSTEM without an LPE exploit | https://github.com/FULLSHADE/Auto-Elevate | 0 | 0| 
 | 20211216T01:12:51Z | Roblox exploiting scripts. | https://github.com/TotoAJ/ROBLOX-Scripts | 1 | 0| 
 | 20211216T01:08:12Z | An IAST and RASP specifically for testing apps/APIs for log4shell and protecting them from being exploited. | https://github.com/Contrast-Security-OSS/safelog4j | 0 | 1| 
 | 20211216T01:04:02Z | Null | https://github.com/SA-scripts/exploits | 0 | 0| 
@@ -97,7 +98,6 @@
 | 20211216T00:19:47Z | Collection of Discord hacking tools/fun stuff/exploits that is completely made using NodeJS. | https://github.com/I2rys/ODiscord | 37 | 17| 
 | 20211216T00:17:18Z | A collection of intelligence about Log4Shell and its exploitation activity.  | https://github.com/curated-intel/Log4Shell-IOCs | 89 | 16| 
 | 20211216T00:07:18Z | Null | https://github.com/TNYCL/rise-login-exploit | 0 | 0| 
-| 20211215T23:42:23Z | A simple little tool that checks if your machine can connect to the default ports used by the log4shell exploit  | https://github.com/pmembrey/log4j-portscan | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -142,6 +142,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211216T01:16:56Z | Null | https://github.com/polymorphicengine/Semi-Fuzzy-Quantifiers | 0 | 0| 
 | 20211216T01:08:26Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 35838 | 18497| 
 | 20211216T01:04:57Z | Attempts to find security vulnerabilities in NetHack via input Fuzzing | https://github.com/recursion-ninja/Superion-YAML | 1 | 3| 
 | 20211216T00:56:51Z | Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery. | https://github.com/fuzzdb-project/fuzzdb | 6285 | 1885| 
@@ -151,7 +152,6 @@
 | 20211215T23:48:34Z | Python Fuzzing | https://github.com/lendroy4200/Fuzzing | 0 | 0| 
 | 20211215T23:18:44Z | A conda-smithy repository for scikit-fuzzy. | https://github.com/conda-forge/scikit-fuzzy-feedstock | 0 | 2| 
 | 20211215T23:15:10Z | Null | https://github.com/allexks/FuzzyKit | 0 | 0| 
-| 20211215T23:06:23Z | We%ll be using HTML, CSS and JavaScript for the frontend. Nothing to install in specific. Open your text-editor and start coding a beautiful front-end. | https://github.com/sai-tilak/Fuzzy-URL-s | 1 | 0| 
 
 
 

@@ -36,7 +36,7 @@
 | 20211215T21:55:41Z | CVE-2021-44228 | OpenIOC rules to facilitate hunting for indicators of compromise | https://github.com/fireeye/CVE-2021-44228 | | 
 | 20211215T21:01:20Z | CVE-2021-44228 | Known IoCs for log4j framework vulnerability  | https://github.com/guardicode/CVE-2021-44228_IoCs | | 
 | 20211215T20:39:19Z | cve-2021-44228 | Very simple Ansible playbook that scan filesystem for JAR files vulnerable to Log4Shell | https://github.com/pmontesd/log4j-cve-2021-44228 | | 
-| 20211215T20:31:08Z | CVE-2021-44228 | 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - A trick to bypass words blocking patches | https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words | | 
+| 20211215T20:28:02Z | CVE-2021-44228 | Null | https://github.com/chilliwebs/CVE-2021-44228_Example | | 
 
 
 # klee on Github 推荐
