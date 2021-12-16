@@ -46,11 +46,11 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211216T02:40:26Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
+| 20211216T02:38:36Z | CVE-2021-44228 | 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - A trick to bypass words blocking patches | https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words | | 
 | 20211216T02:31:15Z | CVE-2021-44228 | A one-stop repo for all log4j vulnerability-related information.  | https://github.com/anuvindhs/how-to-check-patch-secure-log4j-CVE-2021-44228 | | 
-| 20211216T02:25:16Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211216T02:19:04Z | CVE-2021-44228 | Hashes for vulnerable LOG4J versions | https://github.com/mubix/CVE-2021-44228-Log4Shell-Hashes | | 
 | 20211216T02:01:59Z | cve-2021-44228 | Null | https://github.com/aws-samples/kubernetes-log4j-cve-2021-44228-node-agent | | 
-| 20211216T01:19:12Z | CVE-2021-44228 | 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - A trick to bypass words blocking patches | https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words | | 
 | 20211216T00:11:58Z | CVE-2021-44228 | Null | https://github.com/b-abderrahmane/CVE-2021-44228-playground | | 
 | 20211215T23:39:15Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
 | 20211215T23:03:47Z | cve-2021-44228 | A Remote Code Execution PoC for Log4Shell (CVE-2021-44228) | https://github.com/ubitech/cve-2021-44228-rce-poc | | 
@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211216T02:39:32Z | A collection of intelligence about Log4Shell and its exploitation activity.  | https://github.com/curated-intel/Log4Shell-IOCs | 89 | 16| 
 | 20211216T02:18:20Z | POC code for log4shell with full exploitation | https://github.com/jsnv-dev/yet_another_log4j_POC_standalone | 0 | 0| 
 | 20211216T02:10:16Z | 一个花里胡哨的Exploit运行框架 | https://github.com/ca3tie1/ExploitDepository | 0 | 0| 
 | 20211216T02:03:57Z | An IAST and RASP specifically for testing apps/APIs for log4shell and protecting them from being exploited. | https://github.com/Contrast-Security-OSS/safelog4j | 0 | 1| 
@@ -97,7 +98,6 @@
 | 20211216T01:33:51Z | Log4j-RCE (CVE-2021-44228) Proof of Concept with additional information | https://github.com/HyCraftHD/Log4J-RCE-Proof-Of-Concept | 161 | 27| 
 | 20211216T01:29:16Z | Null | https://github.com/muratyokus/Turkey-discovery-and-exploitation-IOCs | 2 | 0| 
 | 20211216T01:29:11Z | Roblox exploiting scripts. | https://github.com/TotoAJ/ROBLOX-Scripts | 1 | 0| 
-| 20211216T01:19:06Z | Null | https://github.com/NotOnTop/Exploits_Public | 0 | 0| 
 
 
 # backdoor on Github 推荐
