@@ -15,6 +15,7 @@
 | 20211215 | 过去半年中，疑似伊朗 Seedworm 组织发起针对中东和亚洲电信运营商的定向攻击 | https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/espionage-campaign-telecoms-asia-middle-east| 
 | 20211215 | JNDI 注入漏洞的前世今生 | http://evilpan.com/2021/12/13/jndi-injection/| 
 | 20211215 | 卡巴斯基在对可疑二进制样本分析中发现了一个用于窃取用户密钥的 IIS module | https://securelist.com/owowa-credential-stealer-and-remote-access/105219/| 
+| 20211215 | Firefox 94 版本将限制用户通过剪贴板跨设备共享密钥信息 | http://blog.mozilla.org/security/2021/12/15/preventing-secrets-from-leaking-through-clipboard/| 
 
 
 # 安全维基 推荐
@@ -115,9 +116,9 @@
 | 20211215T23:00:55Z | Let%s get Fuzzy 🤪 !!! | https://github.com/yuk-kei/Fuzzy-Logic-Pong | 0 | 0| 
 | 20211215T21:49:26Z | WIP fuzzing btrfs with LKL | https://github.com/docfate111/badfsfuzzer | 0 | 0| 
 | 20211215T21:38:03Z | Traffic Light Fuzzy Interference System | https://github.com/YANZAAN/traffic-light-fuzzy | 0 | 0| 
-| 20211215T21:33:15Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211215T21:21:17Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
 | 20211215T21:12:28Z | Null | https://github.com/thiagoocavalcanti/Temperature-Control-of-a-Shower-Using-Fuzzy-Logic | 0 | 0| 
+| 20211215T21:06:48Z | A site that allows you to reverse image search millions of furry images in under a second | https://github.com/Syfaro/fuzzysearch | 21 | 3| 
 
 
 

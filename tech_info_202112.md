@@ -15,6 +15,7 @@
 | 20211215 | 过去半年中，疑似伊朗 Seedworm 组织发起针对中东和亚洲电信运营商的定向攻击 | https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/espionage-campaign-telecoms-asia-middle-east| 
 | 20211215 | JNDI 注入漏洞的前世今生 | http://evilpan.com/2021/12/13/jndi-injection/| 
 | 20211215 | 卡巴斯基在对可疑二进制样本分析中发现了一个用于窃取用户密钥的 IIS module | https://securelist.com/owowa-credential-stealer-and-remote-access/105219/| 
+| 20211215 | Firefox 94 版本将限制用户通过剪贴板跨设备共享密钥信息 | http://blog.mozilla.org/security/2021/12/15/preventing-secrets-from-leaking-through-clipboard/| 
 | 20211214 | gVisor - Application Kernel for Containers，Google 为容器应用开发的一套内核层，限制容器内应用的内核访问能力 | https://github.com/google/gvisor| 
 | 20211214 | Codeql 学习笔记以及相关资料整理 | https://github.com/safe6Sec/CodeqlNote| 
 | 20211214 | 有研究员发布 PS4 9.00 Kernel Exploit | https://github.com/ChendoChap/pOOBs4| 
@@ -25,7 +26,6 @@
 | 20211214 | Apple 发布 macOS Monterey 12.1，macOS Big Sur 11.6.2，iOS 15.2 版本，包含多个补丁更新，其中包括玄武实验室报告的多个漏洞。 Big Sur：https://support.apple.com/zh-cn/HT212979 iOS： https://support.apple.com/zh-cn/HT212976 | https://support.apple.com/en-us/HT212978| 
 | 20211214 | 已有 10 个家族的恶意样本利用 Log4shell 漏洞传播 | https://blog.netlab.360.com/yi-jing-you-xxxge-jia-zu-de-botnetli-yong-log4shelllou-dong-chuan-bo-wei-da-bu-ding-de-gan-jin-liao/| 
 | 20211214 | 内存级别攻防利器--UnSafe 的各种利用姿势. | https://paper.seebug.org/1785/| 
-| 20211214 | How hackers pollute your code. | https://www.youtube.com/watch?v=XS_UMqQalLI&feature=youtu.be| 
 
 
 # 安全维基 推荐
@@ -142,6 +142,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211216T02:22:44Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211216T01:54:39Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1322 | 141| 
 | 20211216T01:53:18Z | 开源、轻量、快速、跨平台 的红队(redteam)外网打点扫描器，功能 端口扫描(port scan) 指纹识别(fingerprint) nday检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | 342 | 45| 
 | 20211216T01:52:59Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 35837 | 18497| 
@@ -151,7 +152,6 @@
 | 20211216T01:16:56Z | Null | https://github.com/polymorphicengine/Semi-Fuzzy-Quantifiers | 0 | 0| 
 | 20211216T01:04:57Z | Attempts to find security vulnerabilities in NetHack via input Fuzzing | https://github.com/recursion-ninja/Superion-YAML | 1 | 3| 
 | 20211216T00:56:51Z | Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery. | https://github.com/fuzzdb-project/fuzzdb | 6285 | 1885| 
-| 20211216T00:38:30Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6908 | 1448| 
 
 
 
