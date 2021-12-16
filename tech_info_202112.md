@@ -142,6 +142,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211216T01:41:26Z | fortnite fortnite | https://github.com/JosephJvB/fuzzy-fortnight2 | 0 | 0| 
 | 20211216T01:29:02Z | Sequence-Oriented DBMS Fuzzing | https://github.com/Lego2021/LEGO | 1 | 0| 
 | 20211216T01:21:28Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 635 | 67| 
 | 20211216T01:16:56Z | Null | https://github.com/polymorphicengine/Semi-Fuzzy-Quantifiers | 0 | 0| 
@@ -151,7 +152,6 @@
 | 20211216T00:41:35Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1321 | 141| 
 | 20211216T00:38:30Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6908 | 1448| 
 | 20211216T00:12:22Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 39 | 12| 
-| 20211215T23:48:34Z | Python Fuzzing | https://github.com/lendroy4200/Fuzzing | 0 | 0| 
 
 
 
