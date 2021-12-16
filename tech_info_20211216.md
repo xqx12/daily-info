@@ -85,6 +85,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211216T13:19:43Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 635 | 67| 
 | 20211216T13:10:02Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3841 | 903| 
 | 20211216T12:35:54Z | SADO Fuzzy Expert System | https://github.com/khunamir/sado-fuzzy | 0 | 0| 
 | 20211216T12:32:00Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6911 | 1448| 
@@ -94,7 +95,6 @@
 | 20211216T12:13:58Z | Null | https://github.com/Vort-X/fuzzy-engine | 0 | 0| 
 | 20211216T11:40:42Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2311 | 450| 
 | 20211216T11:39:38Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
-| 20211216T10:47:17Z | fuzzer | https://github.com/reusee/fz | 1 | 1| 
 
 
 
