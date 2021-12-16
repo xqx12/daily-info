@@ -29,7 +29,6 @@
 | --- | --- | --- | --- | ---| 
 | 20211215T23:39:15Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
 | 20211215T23:03:47Z | cve-2021-44228 | A Remote Code Execution PoC for Log4Shell (CVE-2021-44228) | https://github.com/ubitech/cve-2021-44228-rce-poc | | 
-| 20211215T23:00:02Z | CVE-2021-44228 | Hashes for vulnerable LOG4J versions | https://github.com/mubix/CVE-2021-44228-Log4Shell-Hashes | | 
 | 20211215T22:52:54Z | CVE-2021-44228 | A one-stop repo for all log4j vulnerability-related information.  | https://github.com/anuvindhs/how-to-check-patch-secure-logj4-CVE-2021-44228 | | 
 | 20211215T22:30:35Z | CVE-2021-44228 | Aims to find JndiLookup.class in nearly any directory or zip, jar, ear, war file, even deeply nested. | https://github.com/jeremyrsellars/CVE-2021-44228_scanner | | 
 | 20211215T22:22:50Z | CVE-2021-44228 | IP addresses exploiting recent log4j2 vulnerability CVE-2021-44228  | https://github.com/Malwar3Ninja/Exploitation-of-Log4j2-CVE-2021-44228 | | 
@@ -37,6 +36,7 @@
 | 20211215T21:01:20Z | CVE-2021-44228 | Known IoCs for log4j framework vulnerability  | https://github.com/guardicode/CVE-2021-44228_IoCs | | 
 | 20211215T20:39:19Z | cve-2021-44228 | Very simple Ansible playbook that scan filesystem for JAR files vulnerable to Log4Shell | https://github.com/pmontesd/log4j-cve-2021-44228 | | 
 | 20211215T20:28:02Z | CVE-2021-44228 | Null | https://github.com/chilliwebs/CVE-2021-44228_Example | | 
+| 20211215T19:44:31Z | CVE-2021-44228 | Log4j2 CVE-2021-44228 revshell | https://github.com/faisalfs10x/Log4j2-CVE-2021-44228-revshell | | 
 
 
 # klee on Github 推荐
