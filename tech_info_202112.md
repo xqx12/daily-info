@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211216T02:04:20Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211216T02:01:59Z | cve-2021-44228 | Null | https://github.com/aws-samples/kubernetes-log4j-cve-2021-44228-node-agent | | 
-| 20211216T01:53:31Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211216T01:42:11Z | CVE-2021-44228 | A one-stop repo for all log4j vulnerability-related information.  | https://github.com/anuvindhs/how-to-check-patch-secure-log4j-CVE-2021-44228 | | 
 | 20211216T01:19:12Z | CVE-2021-44228 | 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - A trick to bypass words blocking patches | https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words | | 
 | 20211216T00:11:58Z | CVE-2021-44228 | Null | https://github.com/b-abderrahmane/CVE-2021-44228-playground | | 
@@ -88,16 +88,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211216T02:03:57Z | An IAST and RASP specifically for testing apps/APIs for log4shell and protecting them from being exploited. | https://github.com/Contrast-Security-OSS/safelog4j | 0 | 1| 
+| 20211216T02:03:54Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 38 | 20| 
+| 20211216T02:03:51Z | Escalate from a Standard User to NT AUTHORITY\SYSTEM without an LPE exploit by combining a COM UAC bypass and Token Impersonation | https://github.com/FULLSHADE/Auto-Elevate | 0 | 0| 
 | 20211216T01:45:22Z | Church website | https://github.com/johnalalade/exploit-arena | 0 | 0| 
-| 20211216T01:41:02Z | Escalate from a Standard User to NT AUTHORITY\SYSTEM without an LPE exploit by combining a COM UAC bypass and Token Impersonation | https://github.com/FULLSHADE/Auto-Elevate | 0 | 0| 
 | 20211216T01:33:51Z | Log4j-RCE (CVE-2021-44228) Proof of Concept with additional information | https://github.com/HyCraftHD/Log4J-RCE-Proof-Of-Concept | 161 | 27| 
 | 20211216T01:29:16Z | Null | https://github.com/muratyokus/Turkey-discovery-and-exploitation-IOCs | 2 | 0| 
 | 20211216T01:29:11Z | Roblox exploiting scripts. | https://github.com/TotoAJ/ROBLOX-Scripts | 1 | 0| 
 | 20211216T01:19:06Z | Null | https://github.com/NotOnTop/Exploits_Public | 0 | 0| 
 | 20211216T01:18:54Z | 👁️ Tool for Data Extraction and Web Requests. | https://github.com/vLeeH/httpmapper | 15 | 4| 
-| 20211216T01:08:12Z | An IAST and RASP specifically for testing apps/APIs for log4shell and protecting them from being exploited. | https://github.com/Contrast-Security-OSS/safelog4j | 0 | 1| 
 | 20211216T01:04:02Z | Null | https://github.com/SA-scripts/exploits | 0 | 0| 
-| 20211216T01:03:24Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 38 | 20| 
 
 
 # backdoor on Github 推荐
