@@ -44,6 +44,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211216T13:03:11Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 38 | 20| 
 | 20211216T12:45:54Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 16| 
 | 20211216T12:45:39Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 610 | 99| 
 | 20211216T12:44:51Z | Utility to download the classfile payload from log4j ldap exploitation attempt url | https://github.com/djt78/log4j_payload_downloader | 0 | 0| 
@@ -53,16 +54,15 @@
 | 20211216T12:33:37Z | Exploits PS3 & 4 | https://github.com/TheWizWikii/TheWizWikii.github.io | 35 | 14| 
 | 20211216T12:30:06Z | Null | https://github.com/Kirill89/log4shell-vulnerable-server-exploit | 0 | 1| 
 | 20211216T12:05:20Z | Windows exploit techniques. | https://github.com/anvbis/windows-exp | 0 | 0| 
-| 20211216T12:04:49Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 38 | 20| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211216T13:03:36Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 396 | 67| 
 | 20211216T11:07:22Z | Null | https://github.com/codehz/bashrc-backdoor | 9 | 2| 
 | 20211216T11:06:32Z | Statically-linked ssh server with reverse shell functionality for CTFs and such | https://github.com/Fahrj/reverse-ssh | 469 | 57| 
 | 20211216T10:17:57Z | It%s a socket backdoor , to execute your commands on victims devices  | https://github.com/MaherGebrail/Socket-BackDoor | 0 | 0| 
-| 20211216T07:06:16Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 395 | 67| 
 | 20211216T06:32:35Z | Test your understanding of the backdoor path criterion | https://github.com/CBDRH/shinyPaths | 0 | 0| 
 | 20211216T05:19:55Z | Null | https://github.com/JokerFam/backdoor | 0 | 0| 
 
