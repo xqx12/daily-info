@@ -16,16 +16,16 @@
 | 20211215 | JNDI 注入漏洞的前世今生 | http://evilpan.com/2021/12/13/jndi-injection/| 
 | 20211215 | 卡巴斯基在对可疑二进制样本分析中发现了一个用于窃取用户密钥的 IIS module | https://securelist.com/owowa-credential-stealer-and-remote-access/105219/| 
 | 20211215 | Firefox 94 版本将限制用户通过剪贴板跨设备共享密钥信息 | http://blog.mozilla.org/security/2021/12/15/preventing-secrets-from-leaking-through-clipboard/| 
+| 20211215 | Mess with DNS - 一个以实战体验的方式学习 DNS 的在线工具 | https://jvns.ca/blog/2021/12/15/mess-with-dns/| 
+| 20211215 | 利用 Azure Run Commands 实现 MSP 的虚拟机横向渗透 | https://www.mandiant.com/resources/azure-run-command-dummies| 
+| 20211215 | 用于将二进制文件翻译成 LLVM IR 的 revng 工具将启用新的函数边界分析、控制流分析方案 | https://github.com/revng/revng/commit/74a35bca105572d4aa4f5d0fdfde7854c076cc51| 
+| 20211215 | Samsung Exynos S20 设备 DSP 驱动 vmalloc 越界写漏洞分析（CVE-2021-25475） | https://labs.taszk.io/blog/post/63_ss_dsp_oob_write_linker/| 
+| 20211215 | S20 Exynos 设备 DSP 启动本地提权漏洞分析（CVE-2021-25467） | https://labs.taszk.io/blog/post/62_ss_dsp_oob_write/| 
+| 20211215 | CVE-2021-30990 - Bypassing macOS Gatekeeper | https://ronmasas.com/posts/bypass-macos-gatekeeper| 
+| 20211215 | Project Zero 对 NSO zero-click iMessage exploit 的深度分析 | https://googleprojectzero.blogspot.com/2021/12/a-deep-dive-into-nso-zero-click.html?m=1| 
 | 20211214 | gVisor - Application Kernel for Containers，Google 为容器应用开发的一套内核层，限制容器内应用的内核访问能力 | https://github.com/google/gvisor| 
 | 20211214 | Codeql 学习笔记以及相关资料整理 | https://github.com/safe6Sec/CodeqlNote| 
 | 20211214 | 有研究员发布 PS4 9.00 Kernel Exploit | https://github.com/ChendoChap/pOOBs4| 
-| 20211214 | Log4j RCE 漏洞的缓解方案 | https://www.govcert.ch/blog/zero-day-exploit-targeting-popular-java-library-log4j/| 
-| 20211214 | Ubuntu accountsservice UAF 漏洞的分析和利用(CVE-2021-3939) | https://securitylab.github.com/research/ubuntu-accountsservice-CVE-2021-3939/| 
-| 20211214 | 渗透测试中 Active Directory 环境的探测技巧 | https://aidenpearce369.github.io/offsec/redteam-enumeration/| 
-| 20211214 | log4shell CVE-2021-44228 漏洞分析、利用 Payloads 以及攻击检测规则 | https://musana.net/2021/12/13/log4shell-Quick-Guide/| 
-| 20211214 | Apple 发布 macOS Monterey 12.1，macOS Big Sur 11.6.2，iOS 15.2 版本，包含多个补丁更新，其中包括玄武实验室报告的多个漏洞。 Big Sur：https://support.apple.com/zh-cn/HT212979 iOS： https://support.apple.com/zh-cn/HT212976 | https://support.apple.com/en-us/HT212978| 
-| 20211214 | 已有 10 个家族的恶意样本利用 Log4shell 漏洞传播 | https://blog.netlab.360.com/yi-jing-you-xxxge-jia-zu-de-botnetli-yong-log4shelllou-dong-chuan-bo-wei-da-bu-ding-de-gan-jin-liao/| 
-| 20211214 | 内存级别攻防利器--UnSafe 的各种利用姿势. | https://paper.seebug.org/1785/| 
 
 
 # 安全维基 推荐
@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211216T02:31:15Z | CVE-2021-44228 | A one-stop repo for all log4j vulnerability-related information.  | https://github.com/anuvindhs/how-to-check-patch-secure-log4j-CVE-2021-44228 | | 
 | 20211216T02:25:16Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
-| 20211216T02:22:41Z | CVE-2021-44228 | A one-stop repo for all log4j vulnerability-related information.  | https://github.com/anuvindhs/how-to-check-patch-secure-log4j-CVE-2021-44228 | | 
 | 20211216T02:19:04Z | CVE-2021-44228 | Hashes for vulnerable LOG4J versions | https://github.com/mubix/CVE-2021-44228-Log4Shell-Hashes | | 
 | 20211216T02:01:59Z | cve-2021-44228 | Null | https://github.com/aws-samples/kubernetes-log4j-cve-2021-44228-node-agent | | 
 | 20211216T01:19:12Z | CVE-2021-44228 | 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - A trick to bypass words blocking patches | https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words | | 

@@ -16,6 +16,13 @@
 | 20211215 | JNDI 注入漏洞的前世今生 | http://evilpan.com/2021/12/13/jndi-injection/| 
 | 20211215 | 卡巴斯基在对可疑二进制样本分析中发现了一个用于窃取用户密钥的 IIS module | https://securelist.com/owowa-credential-stealer-and-remote-access/105219/| 
 | 20211215 | Firefox 94 版本将限制用户通过剪贴板跨设备共享密钥信息 | http://blog.mozilla.org/security/2021/12/15/preventing-secrets-from-leaking-through-clipboard/| 
+| 20211215 | Mess with DNS - 一个以实战体验的方式学习 DNS 的在线工具 | https://jvns.ca/blog/2021/12/15/mess-with-dns/| 
+| 20211215 | 利用 Azure Run Commands 实现 MSP 的虚拟机横向渗透 | https://www.mandiant.com/resources/azure-run-command-dummies| 
+| 20211215 | 用于将二进制文件翻译成 LLVM IR 的 revng 工具将启用新的函数边界分析、控制流分析方案 | https://github.com/revng/revng/commit/74a35bca105572d4aa4f5d0fdfde7854c076cc51| 
+| 20211215 | Samsung Exynos S20 设备 DSP 驱动 vmalloc 越界写漏洞分析（CVE-2021-25475） | https://labs.taszk.io/blog/post/63_ss_dsp_oob_write_linker/| 
+| 20211215 | S20 Exynos 设备 DSP 启动本地提权漏洞分析（CVE-2021-25467） | https://labs.taszk.io/blog/post/62_ss_dsp_oob_write/| 
+| 20211215 | CVE-2021-30990 - Bypassing macOS Gatekeeper | https://ronmasas.com/posts/bypass-macos-gatekeeper| 
+| 20211215 | Project Zero 对 NSO zero-click iMessage exploit 的深度分析 | https://googleprojectzero.blogspot.com/2021/12/a-deep-dive-into-nso-zero-click.html?m=1| 
 
 
 # 安全维基 推荐
