@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211216T02:10:16Z | 一个花里胡哨的Exploit运行框架 | https://github.com/ca3tie1/ExploitDepository | 0 | 0| 
 | 20211216T02:03:57Z | An IAST and RASP specifically for testing apps/APIs for log4shell and protecting them from being exploited. | https://github.com/Contrast-Security-OSS/safelog4j | 0 | 1| 
 | 20211216T02:03:54Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 38 | 20| 
 | 20211216T02:03:51Z | Escalate from a Standard User to NT AUTHORITY\SYSTEM without an LPE exploit by combining a COM UAC bypass and Token Impersonation | https://github.com/FULLSHADE/Auto-Elevate | 0 | 0| 
@@ -97,7 +98,6 @@
 | 20211216T01:29:11Z | Roblox exploiting scripts. | https://github.com/TotoAJ/ROBLOX-Scripts | 1 | 0| 
 | 20211216T01:19:06Z | Null | https://github.com/NotOnTop/Exploits_Public | 0 | 0| 
 | 20211216T01:18:54Z | 👁️ Tool for Data Extraction and Web Requests. | https://github.com/vLeeH/httpmapper | 15 | 4| 
-| 20211216T01:04:02Z | Null | https://github.com/SA-scripts/exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
