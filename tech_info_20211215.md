@@ -23,6 +23,8 @@
 | 20211215 | S20 Exynos 设备 DSP 启动本地提权漏洞分析（CVE-2021-25467） | https://labs.taszk.io/blog/post/62_ss_dsp_oob_write/| 
 | 20211215 | CVE-2021-30990 - Bypassing macOS Gatekeeper | https://ronmasas.com/posts/bypass-macos-gatekeeper| 
 | 20211215 | Project Zero 对 NSO zero-click iMessage exploit 的深度分析 | https://googleprojectzero.blogspot.com/2021/12/a-deep-dive-into-nso-zero-click.html?m=1| 
+| 20211215 | 研究员王铁磊对 iOS IOMBF 模块的历史漏洞的总结 | https://m.weibo.cn/status/4714719778442946| 
+| 20211215 | Paper “StochFuzz: A New Solution for Binary-only Fuzzing” | https://github.com/ZhangZhuoSJTU/StochFuzz| 
 
 
 # 安全维基 推荐
