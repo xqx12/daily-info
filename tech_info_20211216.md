@@ -44,16 +44,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211216T13:27:00Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 612 | 99| 
+| 20211216T13:26:36Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 3853 | 1334| 
 | 20211216T13:12:58Z | Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish to influence Onelinetips and explain the commands, for the better understanding of new hunters.. | https://github.com/KingOfBugbounty/KingOfBugBountyTips | 2581 | 457| 
 | 20211216T13:09:35Z | 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - A trick to bypass words blocking patches | https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words | 436 | 64| 
-| 20211216T13:05:18Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 611 | 99| 
 | 20211216T13:03:11Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 38 | 20| 
 | 20211216T12:45:54Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 16| 
 | 20211216T12:44:51Z | Utility to download the classfile payload from log4j ldap exploitation attempt url | https://github.com/djt78/log4j_payload_downloader | 0 | 0| 
 | 20211216T12:38:26Z | How to detect IOCs, Exploit and mitigate LOG4J | https://github.com/Ultimum1337/Detection-exploitation-and-mitigation | 0 | 0| 
 | 20211216T12:33:42Z | Null | https://github.com/gtfobar/insecurebankv2-exploits | 0 | 0| 
 | 20211216T12:33:37Z | Exploits PS3 & 4 | https://github.com/TheWizWikii/TheWizWikii.github.io | 35 | 14| 
-| 20211216T12:30:06Z | Null | https://github.com/Kirill89/log4shell-vulnerable-server-exploit | 0 | 1| 
 
 
 # backdoor on Github 推荐
@@ -85,10 +85,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211216T13:33:04Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6912 | 1449| 
 | 20211216T13:19:43Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 635 | 67| 
 | 20211216T13:10:02Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3841 | 903| 
 | 20211216T12:35:54Z | SADO Fuzzy Expert System | https://github.com/khunamir/sado-fuzzy | 0 | 0| 
-| 20211216T12:32:00Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6911 | 1448| 
 | 20211216T12:31:26Z | Null | https://github.com/nguyenanh1997/Fuzzz | 0 | 0| 
 | 20211216T12:27:42Z | Null | https://github.com/mufthaj/fuzzy-octo-pancake | 0 | 0| 
 | 20211216T12:18:41Z | Bot which suggests movies according to a users taste | https://github.com/rafibu/fuzzy | 0 | 0| 
