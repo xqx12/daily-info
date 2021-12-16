@@ -31,6 +31,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20211216 | Log4j2远程代码执行漏洞检测和防护策略研究 | https://mp.weixin.qq.com/s/GY-hKl9013pyVd8no0SDHw| 
 | 20211215 | 《软件分析》完整版课程视频 | https://space.bilibili.com/2919428/channel/detail?cid=106434&ctype=0| 
 | 20211215 | 从Log4shell事件看资产风险运营工程化的困局与盲点 | https://zhuanlan.zhihu.com/p/445372045| 
 | 20211214 | 浅谈被动式IAST产品与技术实现 | https://tttang.com/archive/1375/| 
@@ -40,27 +41,28 @@
 | 20211212 | 钓鱼小技巧-XLM | https://www.anquanke.com/post/id/261493| 
 | 20211212 | Unraid篇：docker私有部署服务推荐 | https://le4f.net/unraid-docker-apps/| 
 | 20211212 | N1CTF2021 Jerry WP | https://www.anquanke.com/post/id/260633| 
-| 20211212 | log4j2 JNDI注入漏洞速通 | https://lorexxar.cn/2021/12/10/log4j2-jndi/| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211216T02:53:40Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
-| 20211216T02:46:21Z | CVE-2021-44228 | A one-stop repo/  information hub for all log4j vulnerability-related information. | https://github.com/anuvindhs/how-to-check-patch-secure-log4j-CVE-2021-44228 | | 
-| 20211216T02:38:36Z | CVE-2021-44228 | 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - A trick to bypass words blocking patches | https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words | | 
-| 20211216T02:19:04Z | CVE-2021-44228 | Hashes for vulnerable LOG4J versions | https://github.com/mubix/CVE-2021-44228-Log4Shell-Hashes | | 
-| 20211216T02:01:59Z | cve-2021-44228 | Null | https://github.com/aws-samples/kubernetes-log4j-cve-2021-44228-node-agent | | 
-| 20211216T00:11:58Z | CVE-2021-44228 | Null | https://github.com/b-abderrahmane/CVE-2021-44228-playground | | 
-| 20211215T23:39:15Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
-| 20211215T23:03:47Z | cve-2021-44228 | A Remote Code Execution PoC for Log4Shell (CVE-2021-44228) | https://github.com/ubitech/cve-2021-44228-rce-poc | | 
-| 20211215T22:52:54Z | CVE-2021-44228 | A one-stop repo for all log4j vulnerability-related information.  | https://github.com/anuvindhs/how-to-check-patch-secure-logj4-CVE-2021-44228 | | 
-| 20211215T22:30:35Z | CVE-2021-44228 | Aims to find JndiLookup.class in nearly any directory or zip, jar, ear, war file, even deeply nested. | https://github.com/jeremyrsellars/CVE-2021-44228_scanner | | 
+| 20211216T13:00:11Z | CVE-2021-44228 | Null | https://github.com/tobiasoed/log4j-CVE-2021-44228 | | 
+| 20211216T12:54:45Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
+| 20211216T12:53:06Z | cve-2021-21985 | cve-2021-21985 exploit | https://github.com/xnianq/cve-2021-21985_exp | | 
+| 20211216T12:52:37Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
+| 20211216T12:41:52Z | CVE-2021-44228 | 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - A trick to bypass words blocking patches | https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words | | 
+| 20211216T10:59:21Z | CVE-2021-41962 | Stored XSS found in Vehicle Service Management System 1.0 application in Sourcecodester. | https://github.com/lohyt/-CVE-2021-41962 | | 
+| 20211216T10:47:14Z | cve-2021-44228 | Hot-patch CVE-2021-44228 by exploiting the vulnerability itself. | https://github.com/qingtengyun/cve-2021-44228-qingteng-online-patch | | 
+| 20211216T10:36:08Z | 未知编号 | Check and report for cve_2021_44228 (log4shell) on your system. | https://github.com/robertdebock/ansible-role-cve_2021_44228 | | 
+| 20211216T10:00:18Z | CVE-2021-44228 | log4shell (CVE-2021-44228) scanning tool | https://github.com/shamo0/CVE-2021-44228 | | 
+| 20211216T09:41:07Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211216T12:22:37Z | Symbolic Liveness Analysis of real-world software building upon KLEE to detect liveness violations (e.g. infinite loop bugs) | https://github.com/COMSYS/SymbolicLivenessAnalysis | 12 | 0| 
+| 20211216T08:14:47Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1851 | 524| 
 | 20211215T10:37:13Z | Null | https://github.com/anaskautsar7/Klee-chan | 0 | 0| 
 | 20211215T09:35:22Z | modern regular expression syntax everywhere with a painless upgrade path | https://github.com/SonOfLilit/kleenexp | 31 | 4| 
 | 20211215T01:11:53Z | Null | https://github.com/HallettLab/klee-stability | 0 | 0| 
@@ -69,8 +71,6 @@
 | 20211213T19:40:25Z | Null | https://github.com/dlapierre/kleewhoorksnantes | 0 | 0| 
 | 20211213T10:39:49Z | Witch-KLEE - A KLEE-based error witness checker | https://github.com/ayazip/witch-klee | 0 | 0| 
 | 20211213T10:05:32Z | Config files for my GitHub profile. | https://github.com/24klee/24klee | 0 | 0| 
-| 20211213T07:41:15Z | Null | https://github.com/Chiyukichan/klee_file | 0 | 0| 
-| 20211211T08:51:24Z | 程序员哥哥，你是来找可莉玩的吗？可莉语音包，适用于 vscode-rainbow-fart 拓展。 | https://github.com/Ran-ying/Klee-rainbow-fart | 13 | 1| 
 
 
 # s2e on Github 推荐
@@ -88,31 +88,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211216T02:46:52Z | A collection of intelligence about Log4Shell and its exploitation activity.  | https://github.com/curated-intel/Log4Shell-IOCs | 89 | 16| 
-| 20211216T02:18:20Z | POC code for log4shell with full exploitation | https://github.com/jsnv-dev/yet_another_log4j_POC_standalone | 0 | 0| 
-| 20211216T02:10:16Z | 一个花里胡哨的Exploit运行框架 | https://github.com/ca3tie1/ExploitDepository | 0 | 0| 
-| 20211216T02:03:57Z | An IAST and RASP specifically for testing apps/APIs for log4shell and protecting them from being exploited. | https://github.com/Contrast-Security-OSS/safelog4j | 0 | 1| 
-| 20211216T02:03:54Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 38 | 20| 
-| 20211216T02:03:51Z | Escalate from a Standard User to NT AUTHORITY\SYSTEM without an LPE exploit by combining a COM UAC bypass and Token Impersonation | https://github.com/FULLSHADE/Auto-Elevate | 0 | 0| 
-| 20211216T01:45:22Z | Church website | https://github.com/johnalalade/exploit-arena | 0 | 0| 
-| 20211216T01:33:51Z | Log4j-RCE (CVE-2021-44228) Proof of Concept with additional information | https://github.com/HyCraftHD/Log4J-RCE-Proof-Of-Concept | 161 | 27| 
-| 20211216T01:29:16Z | Null | https://github.com/muratyokus/Turkey-discovery-and-exploitation-IOCs | 2 | 0| 
-| 20211216T01:29:11Z | Roblox exploiting scripts. | https://github.com/TotoAJ/ROBLOX-Scripts | 1 | 0| 
+| 20211216T12:45:54Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 16| 
+| 20211216T12:45:39Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 610 | 99| 
+| 20211216T12:44:51Z | Utility to download the classfile payload from log4j ldap exploitation attempt url | https://github.com/djt78/log4j_payload_downloader | 0 | 0| 
+| 20211216T12:41:52Z | 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - A trick to bypass words blocking patches | https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words | 435 | 64| 
+| 20211216T12:38:26Z | How to detect IOCs, Exploit and mitigate LOG4J | https://github.com/Ultimum1337/Detection-exploitation-and-mitigation | 0 | 0| 
+| 20211216T12:33:42Z | Null | https://github.com/gtfobar/insecurebankv2-exploits | 0 | 0| 
+| 20211216T12:33:37Z | Exploits PS3 & 4 | https://github.com/TheWizWikii/TheWizWikii.github.io | 35 | 14| 
+| 20211216T12:30:06Z | Null | https://github.com/Kirill89/log4shell-vulnerable-server-exploit | 0 | 1| 
+| 20211216T12:05:20Z | Windows exploit techniques. | https://github.com/anvbis/windows-exp | 0 | 0| 
+| 20211216T12:04:49Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 38 | 20| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211216T01:58:52Z | Statically-linked ssh server with reverse shell functionality for CTFs and such | https://github.com/Fahrj/reverse-ssh | 468 | 57| 
-| 20211215T23:01:44Z | It%s a socket backdoor , to execute your commands on victims devices  | https://github.com/MaherGebrail/Socket-BackDoor | 0 | 0| 
+| 20211216T11:07:22Z | Null | https://github.com/codehz/bashrc-backdoor | 9 | 2| 
+| 20211216T11:06:32Z | Statically-linked ssh server with reverse shell functionality for CTFs and such | https://github.com/Fahrj/reverse-ssh | 469 | 57| 
+| 20211216T10:17:57Z | It%s a socket backdoor , to execute your commands on victims devices  | https://github.com/MaherGebrail/Socket-BackDoor | 0 | 0| 
+| 20211216T07:06:16Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 395 | 67| 
+| 20211216T06:32:35Z | Test your understanding of the backdoor path criterion | https://github.com/CBDRH/shinyPaths | 0 | 0| 
+| 20211216T05:19:55Z | Null | https://github.com/JokerFam/backdoor | 0 | 0| 
 | 20211215T20:27:39Z | NBA Pass Backdoor | https://github.com/Stevenizzyhart1/NBA-Pass | 0 | 0| 
-| 20211215T16:57:41Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 394 | 67| 
 | 20211215T15:50:42Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 118 | 29| 
 | 20211215T14:37:12Z | WORK IN PROGRESS. RAT written in Java | https://github.com/melardev/XeytanJ-Async-RAT | 8 | 5| 
 | 20211215T14:37:12Z | WORK IN PROGRESS. RAT written in Java. | https://github.com/melardev/XeytanJ-RAT | 6 | 5| 
-| 20211215T11:31:15Z | Null | https://github.com/kangjie-chen/NLP_backdoor | 1 | 0| 
-| 20211215T10:46:56Z | Null | https://github.com/codehz/bashrc-backdoor | 8 | 2| 
-| 20211215T08:47:08Z | Website Shell BackDoors | https://github.com/7r0j4ncodeing/Web-Shells | 23 | 7| 
 
 
 # symbolic execution on Github 推荐
@@ -142,16 +142,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211216T02:55:31Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6909 | 1448| 
-| 20211216T02:51:01Z |    USBFuzz: A Framework for Fuzzing USB Drivers by Device Emulation Authors:  Hui Peng, Purdue University; Mathias Payer, EPFL  Abstract:  The Universal Serial Bus (USB) connects external devices to a host. This interface exposes the OS kernels and device drivers to attacks by malicious devices. Unfortunately, kernels and drivers were developed under a security model that implicitly trusts connected devices. Drivers expect faulty hardware but not malicious attacks. Similarly, security testing drivers is challenging as input must cross the hardware/software barrier. Fuzzing, the most widely used bug finding technique, relies on providing random data to programs. However, fuzzing device drivers is challenging due to the difficulty in crossing the hardware/software barrier and providing random device data to the driver under test.  We present USBFuzz, a portable, flexible, and modular framework for fuzz testing USB drivers. At its core, USBFuzz uses a software-emulated USB device to provide random device data to drivers (when they perform IO operations). As the emulated USB device works at the device level, porting it to other platforms is straight-forward. Using the USBFuzz framework, we apply (i) coverage-guided fuzzing to a broad range of USB drivers in the Linux kernel; (ii) dumb fuzzing in FreeBSD, MacOS, and Windows through cross pollination seeded by the Linux inputs; and (iii) focused fuzzing of a USB webcam driver. USBFuzz discovered a total of 26 new bugs, including 16 memory bugs of high security impact in various Linux subsystems (USB core, USB sound, and network), one bug in FreeBSD, three in MacOS (two resulting in an unplanned reboot and one freezing the system), and four in Windows 8 and Windows 10 (resulting in Blue Screens of Death), and one bug in the Linux USB host controller driver and another one in a USB camera driver. From the Linux bugs, we have fixed and upstreamed 11 bugs and received 10 CVEs. | https://github.com/Mario-Kart-Felix/driver-for-fuzzer | 0 | 0| 
-| 20211216T02:37:42Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1322 | 141| 
-| 20211216T02:28:07Z | A conda-smithy repository for fuzzysearch. | https://github.com/conda-forge/fuzzysearch-feedstock | 0 | 2| 
-| 20211216T02:22:44Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20211216T01:53:18Z | 开源、轻量、快速、跨平台 的红队(redteam)外网打点扫描器，功能 端口扫描(port scan) 指纹识别(fingerprint) nday检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | 342 | 45| 
-| 20211216T01:52:59Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 35837 | 18497| 
-| 20211216T01:41:26Z | fortnite fortnite | https://github.com/JosephJvB/fuzzy-fortnight2 | 0 | 0| 
-| 20211216T01:29:02Z | Sequence-Oriented DBMS Fuzzing | https://github.com/Lego2021/LEGO | 1 | 0| 
-| 20211216T01:21:28Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 635 | 67| 
+| 20211216T12:35:54Z | SADO Fuzzy Expert System | https://github.com/khunamir/sado-fuzzy | 0 | 0| 
+| 20211216T12:32:00Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6911 | 1448| 
+| 20211216T12:31:26Z | Null | https://github.com/nguyenanh1997/Fuzzz | 0 | 0| 
+| 20211216T12:27:42Z | Null | https://github.com/mufthaj/fuzzy-octo-pancake | 0 | 0| 
+| 20211216T12:18:41Z | Bot which suggests movies according to a users taste | https://github.com/rafibu/fuzzy | 0 | 0| 
+| 20211216T12:13:58Z | Null | https://github.com/Vort-X/fuzzy-engine | 0 | 0| 
+| 20211216T11:40:42Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2311 | 450| 
+| 20211216T11:39:38Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
+| 20211216T10:47:17Z | fuzzer | https://github.com/reusee/fz | 1 | 1| 
+| 20211216T10:26:56Z | Null | https://github.com/allexks/FuzzyKit | 0 | 0| 
 
 
 
