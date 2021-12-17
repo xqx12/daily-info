@@ -6,6 +6,17 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20211217 | Android App 逆向分析对抗措施 | https://www.securing.pl/en/prevent-reverse-engineering-re-of-your-android-application/| 
+| 20211217 | RunAsS4U - 无需密码以其他用户身份执行代码的工具（Windows） | https://github.com/diversenok/NtTools/releases/tag/v1.0-RunAsS4U| 
+| 20211217 | CitizenLab 发布间谍攻击分析报告称，有埃及人的手机同时感染了 NSO Pegasus 和 Cytrox Predator 两款间谍软件 | https://citizenlab.ca/2021/12/pegasus-vs-predator-dissidents-doubly-infected-iphone-reveals-cytrox-mercenary-spyware/| 
+| 20211217 | 2227 - Android: apps have VM_MAYWRITE access to shared zygote JIT mapping | https://bugs.chromium.org/p/project-zero/issues/detail?id=2227| 
+| 20211217 | Pwn2Own 2021 利用 v8 JIT 的问题实现 RCE | http://www.thezdi.com/blog/2021/12/15/exploitation-of-cve-2021-21220-from-incorrect-jit-behavior-to-rce| 
+| 20211217 | it-depends - 一款自动化地分析开源代码 Repo 中依赖库的工具，支持 cargo, npm, pip, go, CMake 等语言包工具 | http://blog.trailofbits.com/2021/12/16/it-depends/| 
+| 20211217 | 消失多年的 Phorpiex Botnet 又出现了 | http://research.checkpoint.com/2021/phorpiex-botnet-is-back-with-a-new-twizt-hijacking-hundreds-of-crypto-transactions/| 
+| 20211217 | Apache Shiro 反序列化漏洞原理详解 | http://blog.topsec.com.cn/apache-shiro-%e5%8f%8d%e5%ba%8f%e5%88%97%e5%8c%96%e6%bc%8f%e6%b4%9e%e5%8e%9f%e7%90%86%e8%af%a6%e8%a7%a3/| 
+| 20211217 | 从零到一带你深入 log4j2 Jndi RCE CVE-2021-44228漏洞 | http://blog.topsec.com.cn/%e4%bb%8e%e9%9b%b6%e5%88%b0%e4%b8%80%e5%b8%a6%e4%bd%a0%e6%b7%b1%e5%85%a5-log4j2-jndi-rce-cve-2021-44228%e6%bc%8f%e6%b4%9e/| 
+| 20211217 | Jazzer - 基于 libFuzzer 实现的 Fuzz JVM 的工具 | https://sec.today/pulses/8e864257-a413-4d26-97e0-1555faf19770/| 
+| 20211217 | Jazzer - 基于 libFuzzer 实现的 Fuzz JVM 的工具 | https://github.com/CodeIntelligenceTesting/jazzer| 
 | 20211215 | OWASP 发起的一个 “Top 10 Proactive Controls” 项目，用于帮助开发者开发过程中了解防御技术 | http://github.co/3Ewvm9A| 
 | 20211215 | Remote Deserialization Bug in Microsofts RDP Client through Smart Card Extension (CVE-2021-38666) | https://thalium.github.io/blog/posts/deserialization-bug-through-rdp-smart-card-extension/| 
 | 20211215 | 有研究员为前两天爆出的 CVE-2021-42278 (Active Directory Privilege Escalation)漏洞写的 Python 版本 PoC | https://github.com/ly4k/Pachine| 
@@ -15,17 +26,6 @@
 | 20211215 | 过去半年中，疑似伊朗 Seedworm 组织发起针对中东和亚洲电信运营商的定向攻击 | https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/espionage-campaign-telecoms-asia-middle-east| 
 | 20211215 | JNDI 注入漏洞的前世今生 | http://evilpan.com/2021/12/13/jndi-injection/| 
 | 20211215 | 卡巴斯基在对可疑二进制样本分析中发现了一个用于窃取用户密钥的 IIS module | https://securelist.com/owowa-credential-stealer-and-remote-access/105219/| 
-| 20211215 | Firefox 94 版本将限制用户通过剪贴板跨设备共享密钥信息 | http://blog.mozilla.org/security/2021/12/15/preventing-secrets-from-leaking-through-clipboard/| 
-| 20211215 | Mess with DNS - 一个以实战体验的方式学习 DNS 的在线工具 | https://jvns.ca/blog/2021/12/15/mess-with-dns/| 
-| 20211215 | 利用 Azure Run Commands 实现 MSP 的虚拟机横向渗透 | https://www.mandiant.com/resources/azure-run-command-dummies| 
-| 20211215 | 用于将二进制文件翻译成 LLVM IR 的 revng 工具将启用新的函数边界分析、控制流分析方案 | https://github.com/revng/revng/commit/74a35bca105572d4aa4f5d0fdfde7854c076cc51| 
-| 20211215 | Samsung Exynos S20 设备 DSP 驱动 vmalloc 越界写漏洞分析（CVE-2021-25475） | https://labs.taszk.io/blog/post/63_ss_dsp_oob_write_linker/| 
-| 20211215 | S20 Exynos 设备 DSP 启动本地提权漏洞分析（CVE-2021-25467） | https://labs.taszk.io/blog/post/62_ss_dsp_oob_write/| 
-| 20211215 | CVE-2021-30990 - Bypassing macOS Gatekeeper | https://ronmasas.com/posts/bypass-macos-gatekeeper| 
-| 20211215 | Project Zero 对 NSO zero-click iMessage exploit 的深度分析 | https://googleprojectzero.blogspot.com/2021/12/a-deep-dive-into-nso-zero-click.html?m=1| 
-| 20211215 | 研究员王铁磊对 iOS IOMBF 模块的历史漏洞的总结 | https://m.weibo.cn/status/4714719778442946| 
-| 20211215 | Paper “StochFuzz: A New Solution for Binary-only Fuzzing” | https://github.com/ZhangZhuoSJTU/StochFuzz| 
-| 20211214 | gVisor - Application Kernel for Containers，Google 为容器应用开发的一套内核层，限制容器内应用的内核访问能力 | https://github.com/google/gvisor| 
 
 
 # 安全维基 推荐
@@ -46,22 +46,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211217T02:55:16Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
-| 20211217T02:49:14Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
-| 20211217T02:42:46Z | cve-2021-44228 | Null | https://github.com/aws-samples/kubernetes-log4j-cve-2021-44228-node-agent | | 
-| 20211217T02:28:47Z | CVE-2021-44228 | Log4Shell Proof of Concept (CVE-2021-44228) | https://github.com/Kr0ff/CVE-2021-44228 | | 
-| 20211217T01:19:37Z | CVE-2021-44228 | Null | https://github.com/AnYi-Sec/Log4j-CVE-2021-44228-EXP | | 
-| 20211217T00:30:58Z | CVE-2021-44228 | Test for log4j vulnerability across your external footprint | https://github.com/ssstonebraker/log4j_CVE-2021-44228_tester | | 
-| 20211216T23:50:53Z | CVE-2021-44228 | demo project to highlight how to execute the log4j (CVE-2021-44228) vulnerability | https://github.com/kossatzd/log4j-CVE-2021-44228-test | | 
-| 20211216T22:20:47Z | CVE-2021-44228 | Null | https://github.com/b-abderrahmane/CVE-2021-44228-playground | | 
-| 20211216T21:49:35Z | CVE-2021-44228 | A one-stop repo/  information hub for all log4j vulnerability-related information. | https://github.com/anuvindhs/how-to-check-patch-secure-log4j-CVE-2021-44228 | | 
-| 20211216T21:27:08Z | cve-2021-44228 | Log4j Exploit Detection Logic for Zeek | https://github.com/corelight/cve-2021-44228 | | 
+| 20211217T12:56:52Z | CVE-2021-44228 | 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - A trick to bypass words blocking patches | https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words | | 
+| 20211217T12:46:54Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
+| 20211217T12:45:15Z | cve-2021-44228 | Null | https://github.com/aws-samples/kubernetes-log4j-cve-2021-44228-node-agent | | 
+| 20211217T11:40:06Z | CVE-2020-5902 | Automated F5 Big IP Remote Code Execution (CVE-2020-5902) Scanner Written In Python 3 | https://github.com/PushpenderIndia/CVE-2020-5902-Scanner | | 
+| 20211217T11:14:26Z | CVE-2021-44228 | Null | https://github.com/b-abderrahmane/CVE-2021-44228-playground | | 
+| 20211217T10:56:07Z | CVE-2021-44228 | Public IoCs about log4j CVE-2021-44228 | https://github.com/Sh0ckFR/log4j-CVE-2021-44228-Public-IoCs | | 
+| 20211217T10:45:50Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
+| 20211217T09:22:02Z | CVE-2021-44228 | Null | https://github.com/helsecert/CVE-2021-44228 | | 
+| 20211217T08:32:31Z | CVE-2021-44228 | Null | https://github.com/rohankumardubey/CVE-2021-44228_scanner | | 
+| 20211217T08:09:12Z | 未知编号 | Check and report for cve_2021_44228 (log4shell) on your system. | https://github.com/robertdebock/ansible-role-cve_2021_44228 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211217T00:41:37Z | Null | https://github.com/lindsayp30/emp_KLEEMEX | 0 | 0| 
+| 20211217T10:07:04Z | Witch-KLEE - A KLEE-based error witness checker | https://github.com/ayazip/witch-klee | 0 | 0| 
+| 20211217T04:40:07Z | Null | https://github.com/lindsayp30/emp_KLEEMEX | 0 | 0| 
 | 20211216T19:53:57Z | Scala library for generating and manipulation of images treated as a point => color function. | https://github.com/skac112/klee | 0 | 0| 
 | 20211216T14:17:50Z | Config files for my GitHub profile. | https://github.com/MichaelKleemoff/MichaelKleemoff | 0 | 0| 
 | 20211216T14:03:50Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1851 | 524| 
@@ -70,13 +71,12 @@
 | 20211215T09:35:22Z | modern regular expression syntax everywhere with a painless upgrade path | https://github.com/SonOfLilit/kleenexp | 31 | 4| 
 | 20211215T01:11:53Z | Null | https://github.com/HallettLab/klee-stability | 0 | 0| 
 | 20211214T03:09:59Z | Config files for my GitHub profile. | https://github.com/Klee666/Klee666 | 0 | 0| 
-| 20211214T01:46:51Z | Null | https://github.com/xinrachel30/AL_KLEEMEX | 0 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211215T17:59:15Z | CRAX++: software CRash analysis for Automatic eXploit generation | https://github.com/aesophor/CRAXplusplus | 26 | 3| 
+| 20211217T10:05:45Z | CRAX++: software CRash analysis for Automatic eXploit generation | https://github.com/aesophor/CRAXplusplus | 26 | 3| 
 | 20211215T10:49:42Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 78 | 34| 
 | 20211215T10:48:26Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 190 | 41| 
 | 20211214T17:51:04Z | Null | https://github.com/s2escogg/s2escogg.github.io | 0 | 0| 
@@ -88,16 +88,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211217T02:52:27Z | A Python Framework For NoSQL Scanning and Exploitation  | https://github.com/torque59/Nosql-Exploitation-Framework | 577 | 156| 
-| 20211217T02:45:36Z | A collection of intelligence about Log4Shell and its exploitation activity.  | https://github.com/curated-intel/Log4Shell-IOCs | 98 | 19| 
-| 20211217T02:43:07Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 260 | 78| 
-| 20211217T02:41:51Z | A Docker based LDAP RCE exploit demo for CVE-2021-44228 Log4Shell | https://github.com/cyberxml/log4j-poc | 6 | 1| 
-| 20211217T02:38:58Z | owner by NKLX | https://github.com/NKLX/GrandExploits | 0 | 0| 
-| 20211217T02:03:55Z | Test exploit of CVE-2021-44228 | https://github.com/wajda/log4shell-test-exploit | 0 | 0| 
-| 20211217T02:03:17Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 38 | 20| 
-| 20211217T02:01:57Z | Simulated threat actor that maintains connection and remotely exploits compromised systems through a C2 system.  | https://github.com/ryterichard/Ch0nkyBear | 1 | 0| 
-| 20211217T01:36:59Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 360 | 54| 
-| 20211217T01:28:51Z | AAAI2022: SmartIdx: Reducing Communication Cost in Federated Learning by Exploiting the CNNs Structures | https://github.com/wudonglei99/smartidx | 0 | 0| 
+| 20211217T13:00:37Z | A collection of intelligence about Log4Shell and its exploitation activity.  | https://github.com/curated-intel/Log4Shell-IOCs | 101 | 20| 
+| 20211217T12:53:54Z | Windows MSI Installer LPE (CVE-2021-43883) | https://github.com/jbaines-r7/shakeitoff | 47 | 9| 
+| 20211217T12:45:54Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 17| 
+| 20211217T12:40:25Z | Church website | https://github.com/johnalalade/exploit-arena | 0 | 0| 
+| 20211217T12:39:40Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 3854 | 1339| 
+| 20211217T12:29:40Z | Check and exploit log4j2 vulnerability with single Go program. | https://github.com/For-ACGN/Log4Shell | 6 | 3| 
+| 20211217T12:16:17Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 260 | 78| 
+| 20211217T12:04:35Z | use exploit 900 with switch usb mod | https://github.com/sonicps/switch-mod | 0 | 0| 
+| 20211217T12:04:25Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 38 | 20| 
+| 20211217T12:03:45Z | exploit 900 leeful mod switch bahasa indonesia | https://github.com/sonicps/simpel | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -142,16 +142,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211217T03:00:06Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1324 | 141| 
-| 20211217T02:51:27Z | Null | https://github.com/Clearymk/TypeScriptFuzzer | 0 | 1| 
-| 20211217T02:35:42Z | A conda-smithy repository for fuzzywuzzy. | https://github.com/conda-forge/fuzzywuzzy-feedstock | 1 | 7| 
-| 20211217T02:35:41Z | A conda-smithy repository for fuzzy-rough-learn. | https://github.com/conda-forge/fuzzy-rough-learn-feedstock | 0 | 1| 
-| 20211217T02:35:14Z | fuzzer | https://github.com/reusee/fz | 1 | 1| 
-| 20211217T02:22:21Z | JQF + Zest: Coverage-guided semantic fuzzing for Java. | https://github.com/rohanpadhye/JQF | 421 | 67| 
-| 20211217T01:53:39Z | This project has been created by Code Intelligence to allow you to learn and explore fuzzing for various use cases and technologies. | https://github.com/ci-fuzz/Use-Case-Playground | 0 | 7| 
-| 20211217T01:42:21Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6916 | 1449| 
-| 20211217T01:30:34Z | Comparing tool variability and numerical variability in fMRI analyses results | https://github.com/big-data-lab-team/fuzzy-neurotools | 0 | 5| 
-| 20211217T00:53:49Z | Easy to use and powerful fuzzy string matching, port of fuzzywuzzy. | https://github.com/nol13/fuzzball.js | 417 | 33| 
+| 20211217T12:45:37Z | Elevator group control system using fuzzy logic triangular membership function | https://github.com/nfatihakkin/ElevatorControlWithFuzzyLogic | 0 | 0| 
+| 20211217T12:42:48Z | Null | https://github.com/Boobur/isFuzzy | 0 | 0| 
+| 20211217T12:02:12Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 39 | 12| 
+| 20211217T11:52:45Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 209 | 39| 
+| 20211217T11:39:54Z | Auto-gen fuzzing wrappers from normal code. Automatically find buggy call sequences, including data races & deadlocks. Supports rich signature types. | https://github.com/thepudds/fzgen | 1 | 0| 
+| 20211217T11:34:03Z | Null | https://github.com/somayeh-rzie/Fuzzy-C-Means-Algorithm | 0 | 0| 
+| 20211217T11:32:54Z | Small lightweight library for Python (version >= 3.7) that performs basic Interval and Fuzzy Arithmetic. | https://github.com/JanCaha/FuzzyMath | 0 | 0| 
+| 20211217T11:18:50Z | Null | https://github.com/danto66/smt5_project_matlab_fuzzy | 0 | 1| 
+| 20211217T10:50:02Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6918 | 1449| 
+| 20211217T10:42:18Z | Config files for my GitHub profile. | https://github.com/Fuzzii7322/Fuzzii7322 | 0 | 0| 
 
 
 
