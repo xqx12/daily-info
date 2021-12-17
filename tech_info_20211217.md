@@ -55,6 +55,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211217T13:15:11Z | Simulating Log4j Remote Code Execution (RCE) vulnerability in a flask web server using python%s logging library with custom formatter that simulates lookup substitution by executing remote exploit code. | https://github.com/Narasimha1997/py4jshell | 0 | 0| 
 | 20211217T13:13:03Z | Powershell script to check log files for Log4Shell exploitation | https://github.com/ValtteriL/Detect-Log4Shell | 0 | 0| 
 | 20211217T13:13:00Z | Null | https://github.com/post-cyberlabs/Exploits | 0 | 0| 
 | 20211217T13:12:53Z | How to detect IOCs, Exploit and mitigate LOG4J | https://github.com/Ultimum1337/Detection-exploitation-and-mitigation | 0 | 0| 
@@ -64,7 +65,6 @@
 | 20211217T12:53:54Z | Windows MSI Installer LPE (CVE-2021-43883) | https://github.com/jbaines-r7/shakeitoff | 47 | 9| 
 | 20211217T12:45:54Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 17| 
 | 20211217T12:40:25Z | Church website | https://github.com/johnalalade/exploit-arena | 0 | 0| 
-| 20211217T12:39:40Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 3854 | 1339| 
 
 
 # backdoor on Github 推荐
