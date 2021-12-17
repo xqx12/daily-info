@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211217T01:52:20Z | cve-2021-44228 | Null | https://github.com/aws-samples/kubernetes-log4j-cve-2021-44228-node-agent | | 
+| 20211217T02:03:53Z | cve-2021-44228 | Null | https://github.com/aws-samples/kubernetes-log4j-cve-2021-44228-node-agent | | 
 | 20211217T01:46:23Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211217T01:19:37Z | CVE-2021-44228 | Null | https://github.com/AnYi-Sec/Log4j-CVE-2021-44228-EXP | | 
 | 20211217T00:57:17Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
@@ -88,6 +88,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211217T02:03:17Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 38 | 20| 
+| 20211217T02:01:57Z | Simulated threat actor that maintains connection and remotely exploits compromised systems through a C2 system.  | https://github.com/ryterichard/Ch0nkyBear | 1 | 0| 
 | 20211217T01:58:34Z | Test exploit of CVE-2021-44228 | https://github.com/wajda/log4shell-test-exploit | 0 | 0| 
 | 20211217T01:39:54Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 260 | 78| 
 | 20211217T01:36:59Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 360 | 54| 
@@ -96,8 +98,6 @@
 | 20211217T01:26:15Z | exploit 900 leeful mod switch bahasa indonesia | https://github.com/sonicps/simpel | 0 | 0| 
 | 20211217T01:22:16Z | This bash scripts will help you to hack remote hosts. You can choose and run one of them. | https://github.com/FabioDefilippo/linuxallremote | 30 | 5| 
 | 20211217T01:15:27Z | A Docker based LDAP RCE exploit demo for CVE-2021-44228 Log4Shell | https://github.com/cyberxml/log4j-poc | 5 | 1| 
-| 20211217T01:12:17Z | use exploit 900 with switch usb mod | https://github.com/sonicps/switch-mod | 0 | 0| 
-| 20211217T01:10:23Z | exploit 900 leeful mod switch bahasa indonesia | https://github.com/sonicps/exploit-900-leeful-simpel | 0 | 0| 
 
 
 # backdoor on Github 推荐

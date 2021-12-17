@@ -48,7 +48,6 @@
 | --- | --- | --- | --- | ---| 
 | 20211216T23:44:30Z | The model DualNet-MP is included in this repository. The original model described in ”Deep Learning Phase Compression for MIMO CSI Feedback by Exploiting FDD Channel Reciprocity,” IEEE Wireless Communications Letters, 2021. The updated online version [Online]. Available: https://arxiv.org/pdf/2103.00432.pdf | https://github.com/max821002/DualNet-MP | 0 | 0| 
 | 20211216T23:44:06Z | Null | https://github.com/kenji1984/Log4J-JNDI-Exploit | 0 | 0| 
-| 20211216T23:31:35Z | Simulated threat actor that maintains connection and remotely exploits compromised systems through a C2 system.  | https://github.com/ryterichard/Ch0nkyBear | 1 | 0| 
 | 20211216T23:26:02Z | HatVenom is a HatSploit native powerful payload generation and shellcode injection tool that provides support for common platforms and architectures. | https://github.com/EntySec/HatVenom | 64 | 19| 
 | 20211216T23:15:10Z | Arduino Pro Micro keyboard-exploite | https://github.com/iman67/keyboard-exploite | 0 | 0| 
 | 20211216T22:58:16Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 315 | 732| 
@@ -56,6 +55,7 @@
 | 20211216T22:25:41Z | A peer 2 peer approach to increase price stability and to reduce price manipulation by exploiting non-fundamentals-based volatility | https://github.com/distributed-ledger-technology/vofarm-deno-part | 0 | 0| 
 | 20211216T21:32:28Z | Rodan Exploitation Framework | https://github.com/Etisalat-Egypt/Rodan | 62 | 19| 
 | 20211216T21:27:08Z | Log4j Exploit Detection Logic for Zeek | https://github.com/corelight/cve-2021-44228 | 6 | 1| 
+| 20211216T13:50:13Z | 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - A trick to bypass words blocking patches | https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words | 437 | 64| 
 
 
 # backdoor on Github 推荐
