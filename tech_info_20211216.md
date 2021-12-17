@@ -53,7 +53,7 @@
 | 20211216T23:31:35Z | Simulated threat actor that maintains connection and remotely exploits compromised systems through a C2 system.  | https://github.com/ryterichard/Ch0nkyBear | 1 | 0| 
 | 20211216T23:26:02Z | HatVenom is a HatSploit native powerful payload generation and shellcode injection tool that provides support for common platforms and architectures. | https://github.com/EntySec/HatVenom | 64 | 19| 
 | 20211216T23:15:10Z | Arduino Pro Micro keyboard-exploite | https://github.com/iman67/keyboard-exploite | 0 | 0| 
-| 20211216T22:58:16Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 315 | 731| 
+| 20211216T22:58:16Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 315 | 732| 
 | 20211216T22:41:14Z | Null | https://github.com/NotFoundHacker/Roblox-Exploits | 0 | 0| 
 | 20211216T22:25:41Z | A peer 2 peer approach to increase price stability and to reduce price manipulation by exploiting non-fundamentals-based volatility | https://github.com/distributed-ledger-technology/vofarm-deno-part | 0 | 0| 
 
