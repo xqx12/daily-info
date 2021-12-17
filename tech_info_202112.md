@@ -88,6 +88,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211217T01:39:54Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 260 | 78| 
+| 20211217T01:36:59Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 360 | 54| 
 | 20211217T01:28:51Z | AAAI2022: SmartIdx: Reducing Communication Cost in Federated Learning by Exploiting the CNNs Structures | https://github.com/wudonglei99/smartidx | 0 | 0| 
 | 20211217T01:28:20Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 626 | 103| 
 | 20211217T01:26:15Z | exploit 900 leeful mod switch bahasa indonesia | https://github.com/sonicps/simpel | 0 | 0| 
@@ -96,8 +98,6 @@
 | 20211217T01:12:17Z | use exploit 900 with switch usb mod | https://github.com/sonicps/switch-mod | 0 | 0| 
 | 20211217T01:10:23Z | exploit 900 leeful mod switch bahasa indonesia | https://github.com/sonicps/exploit-900-leeful-simpel | 0 | 0| 
 | 20211217T01:08:37Z | This powershell script has got to run in remote hacked windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 12 | 3| 
-| 20211217T01:06:54Z | exploit 900 leeful mod switch bahasa indonesia | https://github.com/sonicps/exploit-900-leeful-indonesia-title | 0 | 0| 
-| 20211217T01:03:26Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 38 | 20| 
 
 
 # backdoor on Github 推荐
@@ -142,6 +142,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211217T01:42:21Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6916 | 1449| 
 | 20211217T01:30:34Z | Comparing tool variability and numerical variability in fMRI analyses results | https://github.com/big-data-lab-team/fuzzy-neurotools | 0 | 5| 
 | 20211217T00:53:49Z | Easy to use and powerful fuzzy string matching, port of fuzzywuzzy. | https://github.com/nol13/fuzzball.js | 417 | 33| 
 | 20211217T00:13:19Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 39 | 12| 
@@ -151,7 +152,6 @@
 | 20211216T23:40:00Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20211216T23:38:22Z | Fuzzy clustering using QPSO | https://github.com/Donkeybobo/fuzzyclustering | 0 | 1| 
 | 20211216T23:34:12Z | Null | https://github.com/mallika-bit/FuzzyFriendFinder- | 0 | 0| 
-| 20211216T23:11:50Z | Null | https://github.com/antoniopenizollo/logica-fuzzy | 0 | 0| 
 
 
 
