@@ -88,16 +88,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211217T01:03:26Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 38 | 20| 
+| 20211217T01:03:23Z | Log4Shell study with Apache Solr on TryHackMe | https://github.com/Relativ3Pa1n/Log4j-Exploit | 0 | 0| 
+| 20211217T01:02:02Z | exploit 900 leeful mod switch bahasa indonesia | https://github.com/sonicps/exploit-900-leeful-indonesia-title | 0 | 0| 
 | 20211217T00:52:05Z | use exploit 900 with switch usb mod | https://github.com/sonicps/Leeful-900-switch | 0 | 0| 
 | 20211217T00:51:32Z | A collection of intelligence about Log4Shell and its exploitation activity.  | https://github.com/curated-intel/Log4Shell-IOCs | 96 | 19| 
 | 20211217T00:45:54Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 17| 
 | 20211217T00:27:02Z | A Java instrumentation agent for log4shell that both verifies exploitability AND prevents exploits. | https://github.com/Contrast-Security-OSS/safelog4j | 4 | 5| 
 | 20211217T00:09:53Z | Tool which performs a test to check a remote host for the log4j log4shell Exploit. | https://github.com/mortification77/log4sh-detect | 0 | 0| 
 | 20211217T00:04:28Z | A tool to essentially one-click exploit log4j vulnerabilities in the User-agent header of web servers. | https://github.com/THEpWn3R-o/log4j-exploit | 0 | 0| 
-| 20211217T00:04:03Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 38 | 20| 
 | 20211217T00:00:04Z | Random Roblox Hacks + My script hub | https://github.com/Banaanae/exploits | 0 | 0| 
-| 20211216T23:44:30Z | The model DualNet-MP is included in this repository. The original model described in ”Deep Learning Phase Compression for MIMO CSI Feedback by Exploiting FDD Channel Reciprocity,” IEEE Wireless Communications Letters, 2021. The updated online version [Online]. Available: https://arxiv.org/pdf/2103.00432.pdf | https://github.com/max821002/DualNet-MP | 0 | 0| 
-| 20211216T23:44:18Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 260 | 78| 
 
 
 # backdoor on Github 推荐
@@ -118,16 +118,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211216T16:34:18Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2592 | 382| 
+| 20211216T14:34:15Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 22 | 13| 
+| 20211216T14:03:50Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1851 | 524| 
 | 20211216T12:31:11Z | Monster is a symbolic execution engine for 64-bit RISC-U code | https://github.com/cksystemsgroup/monster | 7 | 3| 
 | 20211216T12:26:41Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 165 | 37| 
 | 20211216T10:49:38Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 186 | 10| 
-| 20211216T08:14:47Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1851 | 524| 
 | 20211216T00:34:41Z | A tool for incremental symbolic execution | https://github.com/FenseTool/fense | 0 | 0| 
 | 20211215T22:44:27Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 18 | 5| 
 | 20211215T22:16:02Z | Symbolic execution engine for ABS | https://github.com/Edkamb/crowbar-tool | 0 | 3| 
 | 20211215T18:17:37Z | Symbolic Execution & Verification Framework | https://github.com/gprechter/youverify | 1 | 0| 
-| 20211215T10:48:26Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 190 | 40| 
-| 20211215T09:14:19Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 21 | 13| 
 
 
 # big4 on Github 推荐
