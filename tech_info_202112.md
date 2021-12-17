@@ -103,6 +103,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211217T02:04:12Z | Null | https://github.com/KingJulius/Detecting-Backdoor-Attacks-on-Deep-Neural-Networks | 0 | 0| 
 | 20211216T21:18:13Z | Null | https://github.com/curiousdweller/Backdoor_attack | 0 | 0| 
 | 20211216T20:51:33Z | This program is an non-object oriented opensource, hidden and undetectable backdoor/reverse shell/RAT for Windows made in Python 3 which contains many features such as multi-client support and cross-platform server. | https://github.com/xp4xbox/Python-Backdoor | 469 | 169| 
 | 20211216T20:18:53Z | Experimental and sneaky backdoor patch for OpenSSH Portable.  | https://github.com/Psmths/openssh-backdoor | 0 | 0| 
@@ -112,7 +113,6 @@
 | 20211216T11:07:22Z | Null | https://github.com/codehz/bashrc-backdoor | 9 | 2| 
 | 20211216T11:06:32Z | Statically-linked ssh server with reverse shell functionality for CTFs and such | https://github.com/Fahrj/reverse-ssh | 469 | 57| 
 | 20211216T10:17:57Z | It%s a socket backdoor , to execute your commands on victims devices  | https://github.com/MaherGebrail/Socket-BackDoor | 0 | 0| 
-| 20211216T06:32:35Z | Test your understanding of the backdoor path criterion | https://github.com/CBDRH/shinyPaths | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
