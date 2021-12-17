@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211217T01:28:51Z | AAAI2022: SmartIdx: Reducing Communication Cost in Federated Learning by Exploiting the CNNs Structures | https://github.com/wudonglei99/smartidx | 0 | 0| 
 | 20211217T01:28:20Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 626 | 103| 
 | 20211217T01:26:15Z | exploit 900 leeful mod switch bahasa indonesia | https://github.com/sonicps/simpel | 0 | 0| 
 | 20211217T01:22:16Z | This bash scripts will help you to hack remote hosts. You can choose and run one of them. | https://github.com/FabioDefilippo/linuxallremote | 30 | 5| 
@@ -97,7 +98,6 @@
 | 20211217T01:08:37Z | This powershell script has got to run in remote hacked windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 12 | 3| 
 | 20211217T01:06:54Z | exploit 900 leeful mod switch bahasa indonesia | https://github.com/sonicps/exploit-900-leeful-indonesia-title | 0 | 0| 
 | 20211217T01:03:26Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 38 | 20| 
-| 20211217T01:03:23Z | Log4Shell study with Apache Solr on TryHackMe | https://github.com/Relativ3Pa1n/Log4j-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
