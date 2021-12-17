@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211217T01:46:23Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211217T01:19:37Z | CVE-2021-44228 | Null | https://github.com/AnYi-Sec/Log4j-CVE-2021-44228-EXP | | 
-| 20211217T01:13:38Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211217T01:11:34Z | cve-2021-44228 | Null | https://github.com/aws-samples/kubernetes-log4j-cve-2021-44228-node-agent | | 
 | 20211217T00:57:17Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
 | 20211217T00:30:58Z | CVE-2021-44228 | Test for log4j vulnerability across your external footprint | https://github.com/ssstonebraker/log4j_CVE-2021-44228_tester | | 
@@ -142,6 +142,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211217T01:47:23Z | This project has been created by Code Intelligence to allow you to learn and explore fuzzing for various use cases and technologies. | https://github.com/ci-fuzz/Use-Case-Playground | 0 | 7| 
 | 20211217T01:42:21Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6916 | 1449| 
 | 20211217T01:30:34Z | Comparing tool variability and numerical variability in fMRI analyses results | https://github.com/big-data-lab-team/fuzzy-neurotools | 0 | 5| 
 | 20211217T00:53:49Z | Easy to use and powerful fuzzy string matching, port of fuzzywuzzy. | https://github.com/nol13/fuzzball.js | 417 | 33| 
@@ -151,7 +152,6 @@
 | 20211216T23:49:28Z | Implementation of the optimal fuzzy partition with centers placing as Voronoi diagrams. | https://github.com/Danleb/OptimalFuzzyPartition | 1 | 0| 
 | 20211216T23:40:00Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20211216T23:38:22Z | Fuzzy clustering using QPSO | https://github.com/Donkeybobo/fuzzyclustering | 0 | 1| 
-| 20211216T23:34:12Z | Null | https://github.com/mallika-bit/FuzzyFriendFinder- | 0 | 0| 
 
 
 
