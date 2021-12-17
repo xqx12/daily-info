@@ -55,6 +55,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211217T13:10:52Z | Null | https://github.com/post-cyberlabs/Exploits | 0 | 0| 
 | 20211217T13:07:43Z | list of bot detector users but marked as %exploiter% | https://github.com/Barmem/BDusers | 0 | 0| 
 | 20211217T13:03:11Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 38 | 20| 
 | 20211217T13:00:37Z | A collection of intelligence about Log4Shell and its exploitation activity.  | https://github.com/curated-intel/Log4Shell-IOCs | 101 | 20| 
@@ -64,7 +65,6 @@
 | 20211217T12:39:40Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 3854 | 1339| 
 | 20211217T12:29:40Z | Check and exploit log4j2 vulnerability with single Go program. | https://github.com/For-ACGN/Log4Shell | 6 | 3| 
 | 20211217T12:16:17Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 260 | 78| 
-| 20211217T12:04:35Z | use exploit 900 with switch usb mod | https://github.com/sonicps/switch-mod | 0 | 0| 
 
 
 # backdoor on Github 推荐
