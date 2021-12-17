@@ -88,7 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211217T01:50:26Z | Test exploit of CVE-2021-44228 | https://github.com/wajda/log4shell-test-exploit | 0 | 0| 
+| 20211217T01:58:34Z | Test exploit of CVE-2021-44228 | https://github.com/wajda/log4shell-test-exploit | 0 | 0| 
 | 20211217T01:39:54Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 260 | 78| 
 | 20211217T01:36:59Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 360 | 54| 
 | 20211217T01:28:51Z | AAAI2022: SmartIdx: Reducing Communication Cost in Federated Learning by Exploiting the CNNs Structures | https://github.com/wudonglei99/smartidx | 0 | 0| 
