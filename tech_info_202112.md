@@ -103,6 +103,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211217T13:31:41Z | Null | https://github.com/THUYimingLi/BackdoorBox | 4 | 1| 
 | 20211217T13:14:18Z | What would you do if someone planted a backdoor plugin in your computer?  This plugin will detect and disable the OP itself.  Please make sure to use the permission management plugin.  Administrators do not have to be OPs.  If you take the appropriate steps, you will be protected from attacks.  This is a plugin that supports that. Thank you. | https://github.com/tunagohan/op-disabled | 0 | 0| 
 | 20211217T09:16:16Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 397 | 67| 
 | 20211217T06:35:54Z | Null | https://github.com/KingJulius/Detecting-Backdoor-Attacks-on-Deep-Neural-Networks | 0 | 0| 
@@ -112,7 +113,6 @@
 | 20211217T03:29:15Z | a backdoor detector for BadNets trained on the YouTube Face dataset using the pruning defense  | https://github.com/tc3142/lab3mlforcybersecurity | 0 | 0| 
 | 20211216T21:18:13Z | Null | https://github.com/curiousdweller/Backdoor_attack | 0 | 0| 
 | 20211216T20:51:33Z | This program is an non-object oriented opensource, hidden and undetectable backdoor/reverse shell/RAT for Windows made in Python 3 which contains many features such as multi-client support and cross-platform server. | https://github.com/xp4xbox/Python-Backdoor | 469 | 169| 
-| 20211216T20:18:53Z | Experimental and sneaky backdoor patch for OpenSSH Portable.  | https://github.com/Psmths/openssh-backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
