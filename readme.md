@@ -49,13 +49,13 @@
 | 20211216T23:44:30Z | The model DualNet-MP is included in this repository. The original model described in ”Deep Learning Phase Compression for MIMO CSI Feedback by Exploiting FDD Channel Reciprocity,” IEEE Wireless Communications Letters, 2021. The updated online version [Online]. Available: https://arxiv.org/pdf/2103.00432.pdf | https://github.com/max821002/DualNet-MP | 0 | 0| 
 | 20211216T23:44:18Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 260 | 78| 
 | 20211216T23:44:06Z | Null | https://github.com/kenji1984/Log4J-JNDI-Exploit | 0 | 0| 
-| 20211216T23:43:09Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 625 | 103| 
 | 20211216T23:31:35Z | Simulated threat actor that maintains connection and remotely exploits compromised systems through a C2 system.  | https://github.com/ryterichard/Ch0nkyBear | 1 | 0| 
 | 20211216T23:26:02Z | HatVenom is a HatSploit native powerful payload generation and shellcode injection tool that provides support for common platforms and architectures. | https://github.com/EntySec/HatVenom | 64 | 19| 
 | 20211216T23:15:10Z | Arduino Pro Micro keyboard-exploite | https://github.com/iman67/keyboard-exploite | 0 | 0| 
 | 20211216T22:58:16Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 315 | 732| 
 | 20211216T22:41:14Z | Null | https://github.com/NotFoundHacker/Roblox-Exploits | 0 | 0| 
 | 20211216T22:25:41Z | A peer 2 peer approach to increase price stability and to reduce price manipulation by exploiting non-fundamentals-based volatility | https://github.com/distributed-ledger-technology/vofarm-deno-part | 0 | 0| 
+| 20211216T21:32:28Z | Rodan Exploitation Framework | https://github.com/Etisalat-Egypt/Rodan | 62 | 19| 
 
 
 # backdoor on Github 推荐
