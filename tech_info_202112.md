@@ -142,13 +142,13 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211217T13:23:15Z | Small lightweight library for Python (version >= 3.7) that performs basic Interval and Fuzzy Arithmetic. | https://github.com/JanCaha/FuzzyMath | 0 | 0| 
 | 20211217T13:15:09Z | Elevator group control system using fuzzy logic triangular membership function | https://github.com/nfatihakkin/ElevatorControlWithFuzzyLogic | 0 | 0| 
 | 20211217T12:42:48Z | Null | https://github.com/Boobur/isFuzzy | 0 | 0| 
 | 20211217T12:02:12Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 39 | 12| 
 | 20211217T11:52:45Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 209 | 39| 
 | 20211217T11:39:54Z | Auto-gen fuzzing wrappers from normal code. Automatically find buggy call sequences, including data races & deadlocks. Supports rich signature types. | https://github.com/thepudds/fzgen | 1 | 0| 
 | 20211217T11:34:03Z | Null | https://github.com/somayeh-rzie/Fuzzy-C-Means-Algorithm | 0 | 0| 
-| 20211217T11:32:54Z | Small lightweight library for Python (version >= 3.7) that performs basic Interval and Fuzzy Arithmetic. | https://github.com/JanCaha/FuzzyMath | 0 | 0| 
 | 20211217T11:18:50Z | Null | https://github.com/danto66/smt5_project_matlab_fuzzy | 0 | 1| 
 | 20211217T10:50:02Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6918 | 1449| 
 | 20211217T10:42:18Z | Config files for my GitHub profile. | https://github.com/Fuzzii7322/Fuzzii7322 | 0 | 0| 
