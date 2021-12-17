@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211217T01:10:23Z | exploit 900 leeful mod switch bahasa indonesia | https://github.com/sonicps/exploit-900-leeful-simpel | 0 | 0| 
 | 20211217T01:08:37Z | This powershell script has got to run in remote hacked windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 12 | 3| 
 | 20211217T01:06:54Z | exploit 900 leeful mod switch bahasa indonesia | https://github.com/sonicps/exploit-900-leeful-indonesia-title | 0 | 0| 
 | 20211217T01:03:26Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 38 | 20| 
@@ -97,7 +98,6 @@
 | 20211217T00:45:54Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 17| 
 | 20211217T00:27:02Z | A Java instrumentation agent for log4shell that both verifies exploitability AND prevents exploits. | https://github.com/Contrast-Security-OSS/safelog4j | 4 | 5| 
 | 20211217T00:09:53Z | Tool which performs a test to check a remote host for the log4j log4shell Exploit. | https://github.com/mortification77/log4sh-detect | 0 | 0| 
-| 20211217T00:04:28Z | A tool to essentially one-click exploit log4j vulnerabilities in the User-agent header of web servers. | https://github.com/THEpWn3R-o/log4j-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
