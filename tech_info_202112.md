@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211217T02:41:51Z | A Docker based LDAP RCE exploit demo for CVE-2021-44228 Log4Shell | https://github.com/cyberxml/log4j-poc | 6 | 1| 
 | 20211217T02:38:58Z | owner by NKLX | https://github.com/NKLX/GrandExploits | 0 | 0| 
 | 20211217T02:35:14Z | A collection of intelligence about Log4Shell and its exploitation activity.  | https://github.com/curated-intel/Log4Shell-IOCs | 97 | 19| 
 | 20211217T02:03:55Z | Test exploit of CVE-2021-44228 | https://github.com/wajda/log4shell-test-exploit | 0 | 0| 
@@ -97,7 +98,6 @@
 | 20211217T01:36:59Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 360 | 54| 
 | 20211217T01:28:51Z | AAAI2022: SmartIdx: Reducing Communication Cost in Federated Learning by Exploiting the CNNs Structures | https://github.com/wudonglei99/smartidx | 0 | 0| 
 | 20211217T01:28:20Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 626 | 103| 
-| 20211217T01:26:15Z | exploit 900 leeful mod switch bahasa indonesia | https://github.com/sonicps/simpel | 0 | 0| 
 
 
 # backdoor on Github 推荐
