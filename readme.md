@@ -56,6 +56,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211217T13:41:06Z | A collection of intelligence about Log4Shell and its exploitation activity.  | https://github.com/curated-intel/Log4Shell-IOCs | 102 | 20| 
 | 20211217T13:34:13Z | a project that exploits the Open Image Dataset, to produce an algorithm that generate a caption from an image | https://github.com/ammoramine/image_captionning_project | 0 | 0| 
 | 20211217T13:33:40Z | Simulating Log4j Remote Code Execution (RCE) vulnerability in a flask web server using python%s logging library with custom formatter that simulates lookup substitution by executing remote exploit code. | https://github.com/Narasimha1997/py4jshell | 0 | 0| 
 | 20211217T13:26:34Z | Powershell script to check log files for Log4Shell exploitation | https://github.com/ValtteriL/Detect-Log4Shell | 0 | 0| 
@@ -64,7 +65,6 @@
 | 20211217T13:12:53Z | How to detect IOCs, Exploit and mitigate LOG4J | https://github.com/Ultimum1337/Detection-exploitation-and-mitigation | 0 | 0| 
 | 20211217T13:07:43Z | list of bot detector users but marked as %exploiter% | https://github.com/Barmem/BDusers | 0 | 0| 
 | 20211217T13:03:11Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 38 | 20| 
-| 20211217T13:00:37Z | A collection of intelligence about Log4Shell and its exploitation activity.  | https://github.com/curated-intel/Log4Shell-IOCs | 101 | 20| 
 | 20211217T12:53:54Z | Windows MSI Installer LPE (CVE-2021-43883) | https://github.com/jbaines-r7/shakeitoff | 47 | 9| 
 
 
@@ -97,6 +97,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211217T13:39:55Z | This project has been created by Code Intelligence to allow you to learn and explore fuzzing for various use cases and technologies. | https://github.com/ci-fuzz/Use-Case-Playground | 0 | 7| 
 | 20211217T13:38:54Z | fuzzer http ( hackingyseguridad.com ) busca ficheros interesantes en un sitio web | https://github.com/hackingyseguridad/fuzzer | 0 | 1| 
 | 20211217T13:23:49Z | HSL and Finland related Pelias geocoding fuzzy tests | https://github.com/HSLdevcom/pelias-fuzzy-tests | 2 | 1| 
 | 20211217T13:23:15Z | Small lightweight library for Python (version >= 3.7) that performs basic Interval and Fuzzy Arithmetic. | https://github.com/JanCaha/FuzzyMath | 0 | 0| 
@@ -106,7 +107,6 @@
 | 20211217T11:52:45Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 209 | 39| 
 | 20211217T11:39:54Z | Auto-gen fuzzing wrappers from normal code. Automatically find buggy call sequences, including data races & deadlocks. Supports rich signature types. | https://github.com/thepudds/fzgen | 1 | 0| 
 | 20211217T11:34:03Z | Null | https://github.com/somayeh-rzie/Fuzzy-C-Means-Algorithm | 0 | 0| 
-| 20211217T11:18:50Z | Null | https://github.com/danto66/smt5_project_matlab_fuzzy | 0 | 1| 
 
 
 
