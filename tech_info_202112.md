@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211217T02:31:45Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
+| 20211217T02:37:03Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211217T02:28:47Z | CVE-2021-44228 | Log4Shell Proof of Concept (CVE-2021-44228) | https://github.com/Kr0ff/CVE-2021-44228 | | 
 | 20211217T02:16:34Z | cve-2021-44228 | Null | https://github.com/aws-samples/kubernetes-log4j-cve-2021-44228-node-agent | | 
 | 20211217T01:19:37Z | CVE-2021-44228 | Null | https://github.com/AnYi-Sec/Log4j-CVE-2021-44228-EXP | | 
@@ -142,6 +142,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211217T02:35:42Z | A conda-smithy repository for fuzzywuzzy. | https://github.com/conda-forge/fuzzywuzzy-feedstock | 1 | 7| 
+| 20211217T02:35:41Z | A conda-smithy repository for fuzzy-rough-learn. | https://github.com/conda-forge/fuzzy-rough-learn-feedstock | 0 | 1| 
+| 20211217T02:35:14Z | fuzzer | https://github.com/reusee/fz | 1 | 1| 
 | 20211217T02:22:21Z | JQF + Zest: Coverage-guided semantic fuzzing for Java. | https://github.com/rohanpadhye/JQF | 421 | 67| 
 | 20211217T01:53:39Z | This project has been created by Code Intelligence to allow you to learn and explore fuzzing for various use cases and technologies. | https://github.com/ci-fuzz/Use-Case-Playground | 0 | 7| 
 | 20211217T01:42:21Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6916 | 1449| 
@@ -149,9 +152,6 @@
 | 20211217T00:53:49Z | Easy to use and powerful fuzzy string matching, port of fuzzywuzzy. | https://github.com/nol13/fuzzball.js | 417 | 33| 
 | 20211217T00:13:19Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 39 | 12| 
 | 20211216T23:58:55Z | Null | https://github.com/PBearson/FUME-Fuzzing-MQTT-Brokers | 0 | 0| 
-| 20211216T23:56:57Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 12 | 2| 
-| 20211216T23:49:28Z | Implementation of the optimal fuzzy partition with centers placing as Voronoi diagrams. | https://github.com/Danleb/OptimalFuzzyPartition | 1 | 0| 
-| 20211216T23:40:00Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 
 
 
