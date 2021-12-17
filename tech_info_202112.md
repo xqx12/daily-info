@@ -88,9 +88,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211217T01:04:08Z | exploit 900 leeful mod switch bahasa indonesia | https://github.com/sonicps/exploit-900-leeful-indonesia-title | 0 | 0| 
 | 20211217T01:03:26Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 38 | 20| 
 | 20211217T01:03:23Z | Log4Shell study with Apache Solr on TryHackMe | https://github.com/Relativ3Pa1n/Log4j-Exploit | 0 | 0| 
-| 20211217T01:02:02Z | exploit 900 leeful mod switch bahasa indonesia | https://github.com/sonicps/exploit-900-leeful-indonesia-title | 0 | 0| 
 | 20211217T00:52:05Z | use exploit 900 with switch usb mod | https://github.com/sonicps/Leeful-900-switch | 0 | 0| 
 | 20211217T00:51:32Z | A collection of intelligence about Log4Shell and its exploitation activity.  | https://github.com/curated-intel/Log4Shell-IOCs | 96 | 19| 
 | 20211217T00:45:54Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 17| 
