@@ -56,6 +56,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211217T13:58:26Z | Null | https://github.com/tpetersen2018/AutoExploitFinal | 0 | 0| 
+| 20211217T13:58:17Z | This python tool can detect if your computer is infected with the Log4j2 MC exploit | https://github.com/Oakchris1955/Minecraft-Log4j2-exploit-detector | 0 | 0| 
 | 20211217T13:57:39Z | 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - A trick to bypass words blocking patches | https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words | 461 | 70| 
 | 20211217T13:56:51Z | Powershell script to check log files for Log4Shell exploitation | https://github.com/ValtteriL/Detect-Log4Shell | 0 | 0| 
 | 20211217T13:56:36Z | How to detect IOCs, Exploit and mitigate LOG4J | https://github.com/Ultimum1337/Detection-exploitation-and-mitigation | 0 | 0| 
@@ -64,8 +66,6 @@
 | 20211217T13:33:40Z | Simulating Log4j Remote Code Execution (RCE) vulnerability in a flask web server using python%s logging library with custom formatter that simulates lookup substitution by executing remote exploit code. | https://github.com/Narasimha1997/py4jshell | 0 | 0| 
 | 20211217T13:20:33Z | catch log4j exploits in the wild? maybe if we%re lucky... . | https://github.com/entropyQueen/log4j_catcher | 15 | 3| 
 | 20211217T13:13:00Z | Null | https://github.com/post-cyberlabs/Exploits | 0 | 0| 
-| 20211217T13:07:43Z | list of bot detector users but marked as %exploiter% | https://github.com/Barmem/BDusers | 0 | 0| 
-| 20211217T13:03:11Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 38 | 20| 
 
 
 # backdoor on Github 推荐
