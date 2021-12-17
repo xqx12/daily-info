@@ -88,7 +88,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211217T13:10:52Z | Null | https://github.com/post-cyberlabs/Exploits | 0 | 0| 
+| 20211217T13:13:03Z | Powershell script to check log files for Log4Shell exploitation | https://github.com/ValtteriL/Detect-Log4Shell | 0 | 0| 
+| 20211217T13:13:00Z | Null | https://github.com/post-cyberlabs/Exploits | 0 | 0| 
+| 20211217T13:12:53Z | How to detect IOCs, Exploit and mitigate LOG4J | https://github.com/Ultimum1337/Detection-exploitation-and-mitigation | 0 | 0| 
 | 20211217T13:07:43Z | list of bot detector users but marked as %exploiter% | https://github.com/Barmem/BDusers | 0 | 0| 
 | 20211217T13:03:11Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 38 | 20| 
 | 20211217T13:00:37Z | A collection of intelligence about Log4Shell and its exploitation activity.  | https://github.com/curated-intel/Log4Shell-IOCs | 101 | 20| 
@@ -96,13 +98,12 @@
 | 20211217T12:45:54Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 17| 
 | 20211217T12:40:25Z | Church website | https://github.com/johnalalade/exploit-arena | 0 | 0| 
 | 20211217T12:39:40Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 3854 | 1339| 
-| 20211217T12:29:40Z | Check and exploit log4j2 vulnerability with single Go program. | https://github.com/For-ACGN/Log4Shell | 6 | 3| 
-| 20211217T12:16:17Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 260 | 78| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211217T13:14:18Z | What would you do if someone planted a backdoor plugin in your computer?  This plugin will detect and disable the OP itself.  Please make sure to use the permission management plugin.  Administrators do not have to be OPs.  If you take the appropriate steps, you will be protected from attacks.  This is a plugin that supports that. Thank you. | https://github.com/tunagohan/op-disabled | 0 | 0| 
 | 20211217T09:16:16Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 397 | 67| 
 | 20211217T06:35:54Z | Null | https://github.com/KingJulius/Detecting-Backdoor-Attacks-on-Deep-Neural-Networks | 0 | 0| 
 | 20211217T04:20:19Z | Null | https://github.com/jianqiaomo/CSAW-HackML-2020-BackdoorDetector | 0 | 0| 
@@ -112,7 +113,6 @@
 | 20211216T21:18:13Z | Null | https://github.com/curiousdweller/Backdoor_attack | 0 | 0| 
 | 20211216T20:51:33Z | This program is an non-object oriented opensource, hidden and undetectable backdoor/reverse shell/RAT for Windows made in Python 3 which contains many features such as multi-client support and cross-platform server. | https://github.com/xp4xbox/Python-Backdoor | 469 | 169| 
 | 20211216T20:18:53Z | Experimental and sneaky backdoor patch for OpenSSH Portable.  | https://github.com/Psmths/openssh-backdoor | 0 | 0| 
-| 20211216T17:46:02Z | Poweshell backdoor metasploit  | https://github.com/crypt0n-root/powershell-backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -142,7 +142,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211217T13:10:48Z | Elevator group control system using fuzzy logic triangular membership function | https://github.com/nfatihakkin/ElevatorControlWithFuzzyLogic | 0 | 0| 
+| 20211217T13:15:09Z | Elevator group control system using fuzzy logic triangular membership function | https://github.com/nfatihakkin/ElevatorControlWithFuzzyLogic | 0 | 0| 
 | 20211217T12:42:48Z | Null | https://github.com/Boobur/isFuzzy | 0 | 0| 
 | 20211217T12:02:12Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 39 | 12| 
 | 20211217T11:52:45Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 209 | 39| 
