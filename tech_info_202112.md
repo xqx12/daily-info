@@ -142,8 +142,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211217T03:00:06Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1324 | 141| 
 | 20211217T02:51:27Z | Null | https://github.com/Clearymk/TypeScriptFuzzer | 0 | 1| 
-| 20211217T02:48:21Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1323 | 141| 
 | 20211217T02:35:42Z | A conda-smithy repository for fuzzywuzzy. | https://github.com/conda-forge/fuzzywuzzy-feedstock | 1 | 7| 
 | 20211217T02:35:41Z | A conda-smithy repository for fuzzy-rough-learn. | https://github.com/conda-forge/fuzzy-rough-learn-feedstock | 0 | 1| 
 | 20211217T02:35:14Z | fuzzer | https://github.com/reusee/fz | 1 | 1| 
