@@ -46,12 +46,12 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211217T01:11:34Z | cve-2021-44228 | Null | https://github.com/aws-samples/kubernetes-log4j-cve-2021-44228-node-agent | | 
 | 20211217T00:57:17Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
 | 20211217T00:34:19Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211217T00:30:58Z | CVE-2021-44228 | Test for log4j vulnerability across your external footprint | https://github.com/ssstonebraker/log4j_CVE-2021-44228_tester | | 
 | 20211216T23:57:05Z | CVE-2021-44228 | Log4Shell Proof of Concept (CVE-2021-44228) | https://github.com/Kr0ff/CVE-2021-44228 | | 
 | 20211216T23:50:53Z | CVE-2021-44228 | demo project to highlight how to execute the log4j (CVE-2021-44228) vulnerability | https://github.com/kossatzd/log4j-CVE-2021-44228-test | | 
-| 20211216T23:22:49Z | cve-2021-44228 | Null | https://github.com/aws-samples/kubernetes-log4j-cve-2021-44228-node-agent | | 
 | 20211216T22:20:47Z | CVE-2021-44228 | Null | https://github.com/b-abderrahmane/CVE-2021-44228-playground | | 
 | 20211216T21:49:35Z | CVE-2021-44228 | A one-stop repo/  information hub for all log4j vulnerability-related information. | https://github.com/anuvindhs/how-to-check-patch-secure-log4j-CVE-2021-44228 | | 
 | 20211216T21:27:08Z | cve-2021-44228 | Log4j Exploit Detection Logic for Zeek | https://github.com/corelight/cve-2021-44228 | | 
@@ -88,6 +88,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211217T01:12:17Z | use exploit 900 with switch usb mod | https://github.com/sonicps/switch-mod | 0 | 0| 
+| 20211217T01:11:09Z | exploit 900 leeful mod switch bahasa indonesia | https://github.com/sonicps/simpel | 0 | 0| 
 | 20211217T01:10:23Z | exploit 900 leeful mod switch bahasa indonesia | https://github.com/sonicps/exploit-900-leeful-simpel | 0 | 0| 
 | 20211217T01:08:37Z | This powershell script has got to run in remote hacked windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 12 | 3| 
 | 20211217T01:06:54Z | exploit 900 leeful mod switch bahasa indonesia | https://github.com/sonicps/exploit-900-leeful-indonesia-title | 0 | 0| 
@@ -96,8 +98,6 @@
 | 20211217T00:52:05Z | use exploit 900 with switch usb mod | https://github.com/sonicps/Leeful-900-switch | 0 | 0| 
 | 20211217T00:51:32Z | A collection of intelligence about Log4Shell and its exploitation activity.  | https://github.com/curated-intel/Log4Shell-IOCs | 96 | 19| 
 | 20211217T00:45:54Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 17| 
-| 20211217T00:27:02Z | A Java instrumentation agent for log4shell that both verifies exploitability AND prevents exploits. | https://github.com/Contrast-Security-OSS/safelog4j | 4 | 5| 
-| 20211217T00:09:53Z | Tool which performs a test to check a remote host for the log4j log4shell Exploit. | https://github.com/mortification77/log4sh-detect | 0 | 0| 
 
 
 # backdoor on Github 推荐
