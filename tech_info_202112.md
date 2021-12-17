@@ -46,11 +46,11 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211217T02:44:11Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
 | 20211217T02:42:46Z | cve-2021-44228 | Null | https://github.com/aws-samples/kubernetes-log4j-cve-2021-44228-node-agent | | 
 | 20211217T02:38:49Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211217T02:28:47Z | CVE-2021-44228 | Log4Shell Proof of Concept (CVE-2021-44228) | https://github.com/Kr0ff/CVE-2021-44228 | | 
 | 20211217T01:19:37Z | CVE-2021-44228 | Null | https://github.com/AnYi-Sec/Log4j-CVE-2021-44228-EXP | | 
-| 20211217T00:57:17Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
 | 20211217T00:30:58Z | CVE-2021-44228 | Test for log4j vulnerability across your external footprint | https://github.com/ssstonebraker/log4j_CVE-2021-44228_tester | | 
 | 20211216T23:50:53Z | CVE-2021-44228 | demo project to highlight how to execute the log4j (CVE-2021-44228) vulnerability | https://github.com/kossatzd/log4j-CVE-2021-44228-test | | 
 | 20211216T22:20:47Z | CVE-2021-44228 | Null | https://github.com/b-abderrahmane/CVE-2021-44228-playground | | 
@@ -88,13 +88,13 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211217T02:45:36Z | A collection of intelligence about Log4Shell and its exploitation activity.  | https://github.com/curated-intel/Log4Shell-IOCs | 98 | 19| 
+| 20211217T02:43:07Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 260 | 78| 
 | 20211217T02:41:51Z | A Docker based LDAP RCE exploit demo for CVE-2021-44228 Log4Shell | https://github.com/cyberxml/log4j-poc | 6 | 1| 
 | 20211217T02:38:58Z | owner by NKLX | https://github.com/NKLX/GrandExploits | 0 | 0| 
-| 20211217T02:35:14Z | A collection of intelligence about Log4Shell and its exploitation activity.  | https://github.com/curated-intel/Log4Shell-IOCs | 97 | 19| 
 | 20211217T02:03:55Z | Test exploit of CVE-2021-44228 | https://github.com/wajda/log4shell-test-exploit | 0 | 0| 
 | 20211217T02:03:17Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 38 | 20| 
 | 20211217T02:01:57Z | Simulated threat actor that maintains connection and remotely exploits compromised systems through a C2 system.  | https://github.com/ryterichard/Ch0nkyBear | 1 | 0| 
-| 20211217T01:39:54Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 260 | 78| 
 | 20211217T01:36:59Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 360 | 54| 
 | 20211217T01:28:51Z | AAAI2022: SmartIdx: Reducing Communication Cost in Federated Learning by Exploiting the CNNs Structures | https://github.com/wudonglei99/smartidx | 0 | 0| 
 | 20211217T01:28:20Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 626 | 103| 
@@ -103,7 +103,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211217T02:37:06Z | a backdoor detector for BadNets trained on the YouTube Face dataset using the pruning defense  | https://github.com/tc3142/lab3mlforcybersecurity | 0 | 0| 
+| 20211217T02:44:59Z | a backdoor detector for BadNets trained on the YouTube Face dataset using the pruning defense  | https://github.com/tc3142/lab3mlforcybersecurity | 0 | 0| 
 | 20211217T02:04:12Z | Null | https://github.com/KingJulius/Detecting-Backdoor-Attacks-on-Deep-Neural-Networks | 0 | 0| 
 | 20211216T21:18:13Z | Null | https://github.com/curiousdweller/Backdoor_attack | 0 | 0| 
 | 20211216T20:51:33Z | This program is an non-object oriented opensource, hidden and undetectable backdoor/reverse shell/RAT for Windows made in Python 3 which contains many features such as multi-client support and cross-platform server. | https://github.com/xp4xbox/Python-Backdoor | 469 | 169| 
