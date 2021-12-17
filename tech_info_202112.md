@@ -142,6 +142,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211217T13:38:54Z | fuzzer http ( hackingyseguridad.com ) busca ficheros interesantes en un sitio web | https://github.com/hackingyseguridad/fuzzer | 0 | 1| 
 | 20211217T13:23:49Z | HSL and Finland related Pelias geocoding fuzzy tests | https://github.com/HSLdevcom/pelias-fuzzy-tests | 2 | 1| 
 | 20211217T13:23:15Z | Small lightweight library for Python (version >= 3.7) that performs basic Interval and Fuzzy Arithmetic. | https://github.com/JanCaha/FuzzyMath | 0 | 0| 
 | 20211217T13:15:09Z | Elevator group control system using fuzzy logic triangular membership function | https://github.com/nfatihakkin/ElevatorControlWithFuzzyLogic | 0 | 0| 
@@ -151,7 +152,6 @@
 | 20211217T11:39:54Z | Auto-gen fuzzing wrappers from normal code. Automatically find buggy call sequences, including data races & deadlocks. Supports rich signature types. | https://github.com/thepudds/fzgen | 1 | 0| 
 | 20211217T11:34:03Z | Null | https://github.com/somayeh-rzie/Fuzzy-C-Means-Algorithm | 0 | 0| 
 | 20211217T11:18:50Z | Null | https://github.com/danto66/smt5_project_matlab_fuzzy | 0 | 1| 
-| 20211217T10:50:02Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6918 | 1449| 
 
 
 
