@@ -142,6 +142,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211217T02:51:27Z | Null | https://github.com/Clearymk/TypeScriptFuzzer | 0 | 1| 
 | 20211217T02:48:21Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1323 | 141| 
 | 20211217T02:35:42Z | A conda-smithy repository for fuzzywuzzy. | https://github.com/conda-forge/fuzzywuzzy-feedstock | 1 | 7| 
 | 20211217T02:35:41Z | A conda-smithy repository for fuzzy-rough-learn. | https://github.com/conda-forge/fuzzy-rough-learn-feedstock | 0 | 1| 
@@ -151,7 +152,6 @@
 | 20211217T01:42:21Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6916 | 1449| 
 | 20211217T01:30:34Z | Comparing tool variability and numerical variability in fMRI analyses results | https://github.com/big-data-lab-team/fuzzy-neurotools | 0 | 5| 
 | 20211217T00:53:49Z | Easy to use and powerful fuzzy string matching, port of fuzzywuzzy. | https://github.com/nol13/fuzzball.js | 417 | 33| 
-| 20211217T00:13:19Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 39 | 12| 
 
 
 
