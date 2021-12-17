@@ -142,6 +142,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211217T01:30:34Z | Comparing tool variability and numerical variability in fMRI analyses results | https://github.com/big-data-lab-team/fuzzy-neurotools | 0 | 5| 
 | 20211217T00:53:49Z | Easy to use and powerful fuzzy string matching, port of fuzzywuzzy. | https://github.com/nol13/fuzzball.js | 417 | 33| 
 | 20211217T00:13:19Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 39 | 12| 
 | 20211216T23:58:55Z | Null | https://github.com/PBearson/FUME-Fuzzing-MQTT-Brokers | 0 | 0| 
@@ -151,7 +152,6 @@
 | 20211216T23:38:22Z | Fuzzy clustering using QPSO | https://github.com/Donkeybobo/fuzzyclustering | 0 | 1| 
 | 20211216T23:34:12Z | Null | https://github.com/mallika-bit/FuzzyFriendFinder- | 0 | 0| 
 | 20211216T23:11:50Z | Null | https://github.com/antoniopenizollo/logica-fuzzy | 0 | 0| 
-| 20211216T23:02:02Z | Proyecto para la clase de Inteligencia Artificial de la facultad de informática que utiliza conceptos de lógica difusa para diagnosticar varios tipos de cáncer basándose en los síntomas | https://github.com/Kingarturs/fuzzy-based-diagnoser | 1 | 1| 
 
 
 
