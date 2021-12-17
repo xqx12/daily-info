@@ -70,13 +70,20 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211217T02:44:59Z | a backdoor detector for BadNets trained on the YouTube Face dataset using the pruning defense  | https://github.com/tc3142/lab3mlforcybersecurity | 0 | 0| 
-| 20211217T02:04:12Z | Null | https://github.com/KingJulius/Detecting-Backdoor-Attacks-on-Deep-Neural-Networks | 0 | 0| 
+| 20211217T09:16:16Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 397 | 67| 
+| 20211217T06:35:54Z | Null | https://github.com/KingJulius/Detecting-Backdoor-Attacks-on-Deep-Neural-Networks | 0 | 0| 
+| 20211217T04:20:19Z | Null | https://github.com/jianqiaomo/CSAW-HackML-2020-BackdoorDetector | 0 | 0| 
+| 20211217T04:15:05Z | Null | https://github.com/mr-quixter/ShellBackdoor | 0 | 1| 
+| 20211217T03:43:29Z | Null | https://github.com/seydang/Weight-Pruning-Against-Backdooring-Attacks | 0 | 0| 
+| 20211217T03:29:15Z | a backdoor detector for BadNets trained on the YouTube Face dataset using the pruning defense  | https://github.com/tc3142/lab3mlforcybersecurity | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211217T12:04:38Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2594 | 382| 
+| 20211217T10:10:33Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 165 | 37| 
+| 20211217T05:13:25Z | This demo will show how Symbolic Execution solve the problem. | https://github.com/JeffShao96/Symbolic-NS3 | 1 | 3| 
 
 
 # big4 on Github 推荐

@@ -103,31 +103,31 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211217T02:44:59Z | a backdoor detector for BadNets trained on the YouTube Face dataset using the pruning defense  | https://github.com/tc3142/lab3mlforcybersecurity | 0 | 0| 
-| 20211217T02:04:12Z | Null | https://github.com/KingJulius/Detecting-Backdoor-Attacks-on-Deep-Neural-Networks | 0 | 0| 
+| 20211217T09:16:16Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 397 | 67| 
+| 20211217T06:35:54Z | Null | https://github.com/KingJulius/Detecting-Backdoor-Attacks-on-Deep-Neural-Networks | 0 | 0| 
+| 20211217T04:20:19Z | Null | https://github.com/jianqiaomo/CSAW-HackML-2020-BackdoorDetector | 0 | 0| 
+| 20211217T04:15:05Z | Null | https://github.com/mr-quixter/ShellBackdoor | 0 | 1| 
+| 20211217T03:43:29Z | Null | https://github.com/seydang/Weight-Pruning-Against-Backdooring-Attacks | 0 | 0| 
+| 20211217T03:29:15Z | a backdoor detector for BadNets trained on the YouTube Face dataset using the pruning defense  | https://github.com/tc3142/lab3mlforcybersecurity | 0 | 0| 
 | 20211216T21:18:13Z | Null | https://github.com/curiousdweller/Backdoor_attack | 0 | 0| 
 | 20211216T20:51:33Z | This program is an non-object oriented opensource, hidden and undetectable backdoor/reverse shell/RAT for Windows made in Python 3 which contains many features such as multi-client support and cross-platform server. | https://github.com/xp4xbox/Python-Backdoor | 469 | 169| 
 | 20211216T20:18:53Z | Experimental and sneaky backdoor patch for OpenSSH Portable.  | https://github.com/Psmths/openssh-backdoor | 0 | 0| 
 | 20211216T17:46:02Z | Poweshell backdoor metasploit  | https://github.com/crypt0n-root/powershell-backdoor | 0 | 0| 
-| 20211216T15:10:07Z | WORK IN PROGRESS. RAT written in Java | https://github.com/melardev/XeytanJ-Async-RAT | 9 | 5| 
-| 20211216T13:03:36Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 396 | 67| 
-| 20211216T11:07:22Z | Null | https://github.com/codehz/bashrc-backdoor | 9 | 2| 
-| 20211216T11:06:32Z | Statically-linked ssh server with reverse shell functionality for CTFs and such | https://github.com/Fahrj/reverse-ssh | 469 | 57| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211216T16:34:18Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2592 | 382| 
+| 20211217T12:04:38Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2594 | 382| 
+| 20211217T10:10:33Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 165 | 37| 
+| 20211217T05:13:25Z | This demo will show how Symbolic Execution solve the problem. | https://github.com/JeffShao96/Symbolic-NS3 | 1 | 3| 
 | 20211216T14:34:15Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 22 | 13| 
 | 20211216T14:03:50Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1851 | 524| 
 | 20211216T12:31:11Z | Monster is a symbolic execution engine for 64-bit RISC-U code | https://github.com/cksystemsgroup/monster | 7 | 3| 
-| 20211216T12:26:41Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 165 | 37| 
 | 20211216T10:49:38Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 186 | 10| 
 | 20211216T00:34:41Z | A tool for incremental symbolic execution | https://github.com/FenseTool/fense | 0 | 0| 
 | 20211215T22:44:27Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 18 | 5| 
 | 20211215T22:16:02Z | Symbolic execution engine for ABS | https://github.com/Edkamb/crowbar-tool | 0 | 3| 
-| 20211215T18:17:37Z | Symbolic Execution & Verification Framework | https://github.com/gprechter/youverify | 1 | 0| 
 
 
 # big4 on Github 推荐
