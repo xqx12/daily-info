@@ -142,7 +142,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211217T12:45:37Z | Elevator group control system using fuzzy logic triangular membership function | https://github.com/nfatihakkin/ElevatorControlWithFuzzyLogic | 0 | 0| 
+| 20211217T13:05:38Z | Elevator group control system using fuzzy logic triangular membership function | https://github.com/nfatihakkin/ElevatorControlWithFuzzyLogic | 0 | 0| 
 | 20211217T12:42:48Z | Null | https://github.com/Boobur/isFuzzy | 0 | 0| 
 | 20211217T12:02:12Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 39 | 12| 
 | 20211217T11:52:45Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 209 | 39| 
