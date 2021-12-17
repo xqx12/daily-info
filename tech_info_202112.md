@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211217T13:34:13Z | a project that exploits the Open Image Dataset, to produce an algorithm that generate a caption from an image | https://github.com/ammoramine/image_captionning_project | 0 | 0| 
 | 20211217T13:33:40Z | Simulating Log4j Remote Code Execution (RCE) vulnerability in a flask web server using python%s logging library with custom formatter that simulates lookup substitution by executing remote exploit code. | https://github.com/Narasimha1997/py4jshell | 0 | 0| 
 | 20211217T13:26:34Z | Powershell script to check log files for Log4Shell exploitation | https://github.com/ValtteriL/Detect-Log4Shell | 0 | 0| 
 | 20211217T13:20:33Z | catch log4j exploits in the wild? maybe if we%re lucky... . | https://github.com/entropyQueen/log4j_catcher | 15 | 3| 
@@ -97,7 +98,6 @@
 | 20211217T13:03:11Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 38 | 20| 
 | 20211217T13:00:37Z | A collection of intelligence about Log4Shell and its exploitation activity.  | https://github.com/curated-intel/Log4Shell-IOCs | 101 | 20| 
 | 20211217T12:53:54Z | Windows MSI Installer LPE (CVE-2021-43883) | https://github.com/jbaines-r7/shakeitoff | 47 | 9| 
-| 20211217T12:45:54Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 17| 
 
 
 # backdoor on Github 推荐
