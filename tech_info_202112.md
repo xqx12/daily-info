@@ -46,39 +46,39 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211216T13:50:13Z | CVE-2021-44228 | 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - A trick to bypass words blocking patches | https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words | | 
-| 20211216T13:49:28Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
-| 20211216T13:43:10Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
-| 20211216T13:07:20Z | cve-2021-21985 | cve-2021-21985 exploit | https://github.com/xnianq/cve-2021-21985_exp | | 
-| 20211216T13:00:11Z | CVE-2021-44228 | Null | https://github.com/tobiasoed/log4j-CVE-2021-44228 | | 
-| 20211216T10:59:21Z | CVE-2021-41962 | Stored XSS found in Vehicle Service Management System 1.0 application in Sourcecodester. | https://github.com/lohyt/-CVE-2021-41962 | | 
-| 20211216T10:47:14Z | cve-2021-44228 | Hot-patch CVE-2021-44228 by exploiting the vulnerability itself. | https://github.com/qingtengyun/cve-2021-44228-qingteng-online-patch | | 
-| 20211216T10:36:08Z | 未知编号 | Check and report for cve_2021_44228 (log4shell) on your system. | https://github.com/robertdebock/ansible-role-cve_2021_44228 | | 
-| 20211216T10:00:18Z | CVE-2021-44228 | log4shell (CVE-2021-44228) scanning tool | https://github.com/shamo0/CVE-2021-44228 | | 
-| 20211216T09:41:07Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
+| 20211217T00:57:17Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
+| 20211217T00:34:19Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
+| 20211217T00:30:58Z | CVE-2021-44228 | Test for log4j vulnerability across your external footprint | https://github.com/ssstonebraker/log4j_CVE-2021-44228_tester | | 
+| 20211216T23:57:05Z | CVE-2021-44228 | Log4Shell Proof of Concept (CVE-2021-44228) | https://github.com/Kr0ff/CVE-2021-44228 | | 
+| 20211216T23:50:53Z | CVE-2021-44228 | demo project to highlight how to execute the log4j (CVE-2021-44228) vulnerability | https://github.com/kossatzd/log4j-CVE-2021-44228-test | | 
+| 20211216T23:22:49Z | cve-2021-44228 | Null | https://github.com/aws-samples/kubernetes-log4j-cve-2021-44228-node-agent | | 
+| 20211216T22:20:47Z | CVE-2021-44228 | Null | https://github.com/b-abderrahmane/CVE-2021-44228-playground | | 
+| 20211216T21:49:35Z | CVE-2021-44228 | A one-stop repo/  information hub for all log4j vulnerability-related information. | https://github.com/anuvindhs/how-to-check-patch-secure-log4j-CVE-2021-44228 | | 
+| 20211216T21:27:08Z | cve-2021-44228 | Log4j Exploit Detection Logic for Zeek | https://github.com/corelight/cve-2021-44228 | | 
+| 20211216T20:05:17Z | CVE-2021-44228 | Null | https://github.com/kannthu/CVE-2021-44228-Apache-Log4j-Rce | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211217T00:41:37Z | Null | https://github.com/lindsayp30/emp_KLEEMEX | 0 | 0| 
+| 20211216T19:53:57Z | Scala library for generating and manipulation of images treated as a point => color function. | https://github.com/skac112/klee | 0 | 0| 
+| 20211216T14:17:50Z | Config files for my GitHub profile. | https://github.com/MichaelKleemoff/MichaelKleemoff | 0 | 0| 
+| 20211216T14:03:50Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1851 | 524| 
 | 20211216T12:22:37Z | Symbolic Liveness Analysis of real-world software building upon KLEE to detect liveness violations (e.g. infinite loop bugs) | https://github.com/COMSYS/SymbolicLivenessAnalysis | 12 | 0| 
-| 20211216T08:14:47Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1851 | 524| 
 | 20211215T10:37:13Z | Null | https://github.com/anaskautsar7/Klee-chan | 0 | 0| 
 | 20211215T09:35:22Z | modern regular expression syntax everywhere with a painless upgrade path | https://github.com/SonOfLilit/kleenexp | 31 | 4| 
 | 20211215T01:11:53Z | Null | https://github.com/HallettLab/klee-stability | 0 | 0| 
 | 20211214T03:09:59Z | Config files for my GitHub profile. | https://github.com/Klee666/Klee666 | 0 | 0| 
 | 20211214T01:46:51Z | Null | https://github.com/xinrachel30/AL_KLEEMEX | 0 | 0| 
-| 20211213T19:40:25Z | Null | https://github.com/dlapierre/kleewhoorksnantes | 0 | 0| 
-| 20211213T10:39:49Z | Witch-KLEE - A KLEE-based error witness checker | https://github.com/ayazip/witch-klee | 0 | 0| 
-| 20211213T10:05:32Z | Config files for my GitHub profile. | https://github.com/24klee/24klee | 0 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20211215T17:59:15Z | CRAX++: software CRash analysis for Automatic eXploit generation | https://github.com/aesophor/CRAXplusplus | 26 | 3| 
-| 20211215T10:49:42Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 78 | 33| 
-| 20211215T10:48:26Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 190 | 40| 
+| 20211215T10:49:42Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 78 | 34| 
+| 20211215T10:48:26Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 190 | 41| 
 | 20211214T17:51:04Z | Null | https://github.com/s2escogg/s2escogg.github.io | 0 | 0| 
 | 20211214T17:43:51Z | Null | https://github.com/s2escogg/s2escotgg.github.io | 0 | 0| 
 | 20211207T15:25:17Z | Null | https://github.com/yuvalkirstain/s2e-coref | 25 | 9| 
@@ -88,31 +88,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211216T13:50:13Z | 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - A trick to bypass words blocking patches | https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words | 437 | 64| 
-| 20211216T13:50:00Z | Escalate from a Standard User to NT AUTHORITY\SYSTEM without an LPE exploit by combining a COM UAC bypass and Token Impersonation | https://github.com/FULLSHADE/Auto-Elevate | 3 | 1| 
-| 20211216T13:44:24Z | Null | https://github.com/Jonathan-Elias/Exploits | 0 | 0| 
-| 20211216T13:43:59Z | Windows exploit techniques. | https://github.com/anvbis/windows-exp | 0 | 0| 
-| 20211216T13:27:00Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 612 | 99| 
-| 20211216T13:26:36Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 3853 | 1334| 
-| 20211216T13:12:58Z | Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish to influence Onelinetips and explain the commands, for the better understanding of new hunters.. | https://github.com/KingOfBugbounty/KingOfBugBountyTips | 2581 | 457| 
-| 20211216T13:03:11Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 38 | 20| 
-| 20211216T12:45:54Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 16| 
-| 20211216T12:44:51Z | Utility to download the classfile payload from log4j ldap exploitation attempt url | https://github.com/djt78/log4j_payload_downloader | 0 | 0| 
+| 20211217T00:52:05Z | use exploit 900 with switch usb mod | https://github.com/sonicps/Leeful-900-switch | 0 | 0| 
+| 20211217T00:51:32Z | A collection of intelligence about Log4Shell and its exploitation activity.  | https://github.com/curated-intel/Log4Shell-IOCs | 96 | 19| 
+| 20211217T00:45:54Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 17| 
+| 20211217T00:27:02Z | A Java instrumentation agent for log4shell that both verifies exploitability AND prevents exploits. | https://github.com/Contrast-Security-OSS/safelog4j | 4 | 5| 
+| 20211217T00:09:53Z | Tool which performs a test to check a remote host for the log4j log4shell Exploit. | https://github.com/mortification77/log4sh-detect | 0 | 0| 
+| 20211217T00:04:28Z | A tool to essentially one-click exploit log4j vulnerabilities in the User-agent header of web servers. | https://github.com/THEpWn3R-o/log4j-exploit | 0 | 0| 
+| 20211217T00:04:03Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 38 | 20| 
+| 20211217T00:00:04Z | Random Roblox Hacks + My script hub | https://github.com/Banaanae/exploits | 0 | 0| 
+| 20211216T23:44:30Z | The model DualNet-MP is included in this repository. The original model described in ”Deep Learning Phase Compression for MIMO CSI Feedback by Exploiting FDD Channel Reciprocity,” IEEE Wireless Communications Letters, 2021. The updated online version [Online]. Available: https://arxiv.org/pdf/2103.00432.pdf | https://github.com/max821002/DualNet-MP | 0 | 0| 
+| 20211216T23:44:18Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 260 | 78| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211216T21:18:13Z | Null | https://github.com/curiousdweller/Backdoor_attack | 0 | 0| 
+| 20211216T20:51:33Z | This program is an non-object oriented opensource, hidden and undetectable backdoor/reverse shell/RAT for Windows made in Python 3 which contains many features such as multi-client support and cross-platform server. | https://github.com/xp4xbox/Python-Backdoor | 469 | 169| 
+| 20211216T20:18:53Z | Experimental and sneaky backdoor patch for OpenSSH Portable.  | https://github.com/Psmths/openssh-backdoor | 0 | 0| 
+| 20211216T17:46:02Z | Poweshell backdoor metasploit  | https://github.com/crypt0n-root/powershell-backdoor | 0 | 0| 
+| 20211216T15:10:07Z | WORK IN PROGRESS. RAT written in Java | https://github.com/melardev/XeytanJ-Async-RAT | 9 | 5| 
 | 20211216T13:03:36Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 396 | 67| 
 | 20211216T11:07:22Z | Null | https://github.com/codehz/bashrc-backdoor | 9 | 2| 
 | 20211216T11:06:32Z | Statically-linked ssh server with reverse shell functionality for CTFs and such | https://github.com/Fahrj/reverse-ssh | 469 | 57| 
 | 20211216T10:17:57Z | It%s a socket backdoor , to execute your commands on victims devices  | https://github.com/MaherGebrail/Socket-BackDoor | 0 | 0| 
 | 20211216T06:32:35Z | Test your understanding of the backdoor path criterion | https://github.com/CBDRH/shinyPaths | 0 | 0| 
-| 20211216T05:19:55Z | Null | https://github.com/JokerFam/backdoor | 0 | 0| 
-| 20211215T20:27:39Z | NBA Pass Backdoor | https://github.com/Stevenizzyhart1/NBA-Pass | 0 | 0| 
-| 20211215T15:50:42Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 118 | 29| 
-| 20211215T14:37:12Z | WORK IN PROGRESS. RAT written in Java | https://github.com/melardev/XeytanJ-Async-RAT | 8 | 5| 
-| 20211215T14:37:12Z | WORK IN PROGRESS. RAT written in Java. | https://github.com/melardev/XeytanJ-RAT | 6 | 5| 
 
 
 # symbolic execution on Github 推荐
@@ -142,16 +142,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211216T13:54:28Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2312 | 450| 
-| 20211216T13:48:01Z | Traffic Light Fuzzy Interference System | https://github.com/YANZAAN/traffic-light-fuzzy | 0 | 0| 
-| 20211216T13:33:04Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6912 | 1449| 
-| 20211216T13:19:43Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 635 | 67| 
-| 20211216T13:10:02Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3841 | 903| 
-| 20211216T12:35:54Z | SADO Fuzzy Expert System | https://github.com/khunamir/sado-fuzzy | 0 | 0| 
-| 20211216T12:31:26Z | Null | https://github.com/nguyenanh1997/Fuzzz | 0 | 0| 
-| 20211216T12:27:42Z | Null | https://github.com/mufthaj/fuzzy-octo-pancake | 0 | 0| 
-| 20211216T12:18:41Z | Bot which suggests movies according to a users taste | https://github.com/rafibu/fuzzy | 0 | 0| 
-| 20211216T12:13:58Z | Null | https://github.com/Vort-X/fuzzy-engine | 0 | 0| 
+| 20211217T00:53:49Z | Easy to use and powerful fuzzy string matching, port of fuzzywuzzy. | https://github.com/nol13/fuzzball.js | 417 | 33| 
+| 20211217T00:13:19Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 39 | 12| 
+| 20211216T23:58:55Z | Null | https://github.com/PBearson/FUME-Fuzzing-MQTT-Brokers | 0 | 0| 
+| 20211216T23:56:57Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 12 | 2| 
+| 20211216T23:49:28Z | Implementation of the optimal fuzzy partition with centers placing as Voronoi diagrams. | https://github.com/Danleb/OptimalFuzzyPartition | 1 | 0| 
+| 20211216T23:40:00Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
+| 20211216T23:38:22Z | Fuzzy clustering using QPSO | https://github.com/Donkeybobo/fuzzyclustering | 0 | 1| 
+| 20211216T23:34:12Z | Null | https://github.com/mallika-bit/FuzzyFriendFinder- | 0 | 0| 
+| 20211216T23:11:50Z | Null | https://github.com/antoniopenizollo/logica-fuzzy | 0 | 0| 
+| 20211216T23:02:02Z | Proyecto para la clase de Inteligencia Artificial de la facultad de informática que utiliza conceptos de lógica difusa para diagnosticar varios tipos de cáncer basándose en los síntomas | https://github.com/Kingarturs/fuzzy-based-diagnoser | 1 | 1| 
 
 
 
