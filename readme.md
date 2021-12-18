@@ -47,6 +47,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211218T13:13:02Z | fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | 0 | 0| 
 | 20211218T13:11:22Z | POWERFUL PYTHON SCRIPT FOR SCAMMING AMD EXPLOITING VULNERABLE FIREBASE DATABASES | https://github.com/KiLL3R-xRO/Fire-Hunter | 0 | 0| 
 | 20211218T13:03:02Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 38 | 20| 
 | 20211218T13:00:02Z | Self-contained lab environment that runs the exploit safely, all from docker compose | https://github.com/j3kz/CVE-2021-44228-PoC | 0 | 0| 
@@ -56,12 +57,12 @@
 | 20211218T12:37:58Z | PS-Phwoar! Alpha Version Exploit Host Menu for 5.05 FW with GoldHEN v1.1 Coded by SiSTRo / Port by Joonie86 | https://github.com/DTMExploits/DTMExploits.github.io | 0 | 0| 
 | 20211218T12:35:35Z | This is a list of Discord console scripts, bugs and exploits. | https://github.com/ImLorio/All-Discord-Exploits | 12 | 6| 
 | 20211218T12:35:34Z | This is the simple bot in discord that resembles lords mobile  | https://github.com/Dani-Hacker/EXPLOITER | 4 | 2| 
-| 20211218T12:12:58Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 108 | 39| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211218T13:13:20Z | Null | https://github.com/leileigan/clean_label_textual_backdoor_attack | 3 | 0| 
 | 20211218T13:02:53Z | Backdoor For windows | https://github.com/basavbamrah/Windows-Backdoor | 0 | 0| 
 | 20211218T12:53:09Z | A minimal python backdoor work in progress not OS specific  | https://github.com/zoe-vb/python_backdoor | 0 | 0| 
 | 20211218T12:20:39Z | Null | https://github.com/EnriqueStrange/BackdooR | 0 | 0| 
