@@ -142,6 +142,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211218T01:39:49Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211218T00:15:12Z | parsing btrfs disk image (WIP) for fuzzing btrfs inside usermode linux | https://github.com/docfate111/badfsfuzzer | 0 | 0| 
 | 20211217T23:59:34Z | Null | https://github.com/mallika-bit/FuzzyFriendFinder- | 0 | 0| 
 | 20211217T23:53:12Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2447 | 151| 
@@ -151,7 +152,6 @@
 | 20211217T23:19:49Z | Small lightweight library for Python (version >= 3.7) that performs basic Interval and Fuzzy Arithmetic. | https://github.com/JanCaha/FuzzyMath | 0 | 0| 
 | 20211217T22:23:43Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 321 | 45| 
 | 20211217T22:06:42Z | Null | https://github.com/quatros96/fuzzy-pendulum | 0 | 0| 
-| 20211217T22:01:55Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 
 
 
