@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211218T13:54:13Z | Useful scripts to exploit Hack The Box retired machines/challenges | https://github.com/7Rocky/HackTheBox-scripts | 1 | 0| 
 | 20211218T13:52:39Z | K8博客 | https://github.com/k8gege/k8gege.github.io | 21 | 7| 
 | 20211218T13:50:22Z | This repository contains ideas and PoCs of malware that could be used for redteaming exercises to test an organizations security controls. | https://github.com/shaddy43/ExploitDB | 0 | 0| 
 | 20211218T13:33:55Z | Windows exploit techniques. | https://github.com/anvbis/windows-exp | 0 | 0| 
@@ -98,7 +99,6 @@
 | 20211218T13:14:06Z | POWERFUL PYTHON SCRIPT FOR SCAMMING AMD EXPLOITING VULNERABLE FIREBASE DATABASES | https://github.com/KiLL3R-xRO/Fire-Hunter | 0 | 0| 
 | 20211218T13:03:02Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 38 | 20| 
 | 20211218T13:00:02Z | Self-contained lab environment that runs the exploit safely, all from docker compose | https://github.com/j3kz/CVE-2021-44228-PoC | 0 | 0| 
-| 20211218T12:51:11Z | Simulating Log4j Remote Code Execution (RCE) vulnerability in a flask web server using python%s logging library with custom formatter that simulates lookup substitution by executing remote exploit code. | https://github.com/Narasimha1997/py4jshell | 43 | 5| 
 
 
 # backdoor on Github 推荐
