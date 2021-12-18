@@ -47,8 +47,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211218T13:57:09Z | K8博客 | https://github.com/k8gege/k8gege.github.io | 21 | 7| 
 | 20211218T13:54:13Z | Useful scripts to exploit Hack The Box retired machines/challenges | https://github.com/7Rocky/HackTheBox-scripts | 1 | 0| 
-| 20211218T13:52:39Z | K8博客 | https://github.com/k8gege/k8gege.github.io | 21 | 7| 
 | 20211218T13:50:22Z | This repository contains ideas and PoCs of malware that could be used for redteaming exercises to test an organizations security controls. | https://github.com/shaddy43/ExploitDB | 0 | 0| 
 | 20211218T13:33:55Z | Windows exploit techniques. | https://github.com/anvbis/windows-exp | 0 | 0| 
 | 20211218T13:29:21Z | A collection of JavaScript Codes I%ve made to enhance the User Experience of Discord and some other Discord related stuff | https://github.com/hxr404/Discord-Console-hacks | 133 | 50| 
@@ -62,7 +62,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211218T13:30:53Z | Null | https://github.com/leileigan/clean_label_textual_backdoor_attack | 3 | 0| 
+| 20211218T13:55:15Z | Null | https://github.com/leileigan/clean_label_textual_backdoor_attack | 3 | 0| 
 | 20211218T13:30:51Z | This is a python program backdoor embeded with a game for reverse connection from the victim to understand the use visit our youtube channel STRANGE LEARNINGS  | https://github.com/EnriqueStrange/Advanced-Backdoor | 4 | 3| 
 | 20211218T13:18:30Z | Backdoor For windows | https://github.com/basavbamrah/Windows-Backdoor | 0 | 0| 
 | 20211218T12:53:09Z | A minimal python backdoor work in progress not OS specific  | https://github.com/zoe-vb/python_backdoor | 0 | 0| 
