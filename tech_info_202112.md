@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211218T13:45:28Z | cve-2021-44228 | Null | https://github.com/Nikolas-Charalambidis/cve-2021-44228 | | 
 | 20211218T13:38:23Z | CVE-2021-45105 | Log4j_dos_CVE-2021-45105 | https://github.com/cckuailong/Log4j_dos_CVE-2021-45105 | | 
 | 20211218T13:24:05Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211218T13:16:37Z | CVE-2021-44228 | Log4Shell Proof of Concept (CVE-2021-44228) | https://github.com/Kr0ff/CVE-2021-44228 | | 
@@ -55,7 +56,6 @@
 | 20211218T11:53:15Z | cve-2021-45046 | Null | https://github.com/ludy-dev/cve-2021-45046 | | 
 | 20211218T11:25:35Z | CVE-2021-44228 | Null | https://github.com/b-abderrahmane/CVE-2021-44228-playground | | 
 | 20211218T11:23:43Z | CVE-2021-44228 | An attempt to understand the log4j vulnerability by looking through the code | https://github.com/shivakumarjayaraman/log4jvulnerability-CVE-2021-44228 | | 
-| 20211218T11:04:49Z | 未知编号 | NGINX njs based request inspection configuration for IOCs of Log4Shell vulnerability | https://github.com/tippexs/nginx-njs-waf-cve2021-44228 | | 
 
 
 # klee on Github 推荐
