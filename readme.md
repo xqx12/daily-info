@@ -68,7 +68,7 @@
 | 20211217T23:24:31Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 260 | 78| 
 | 20211217T23:00:51Z | WIP Post-exploitation framework tailored for hypervisors. | https://github.com/Psmths/reave | 0 | 0| 
 | 20211217T22:05:53Z | Log4j Exploit Detection Logic for Zeek | https://github.com/corelight/cve-2021-44228 | 9 | 3| 
-| 20211217T21:57:31Z | Null | https://github.com/Spard2/ps4exploit | 2 | 0| 
+| 20211217T21:56:36Z | Extensible framework for analyzing publicly available information about vulnerabilities | https://github.com/leonov-av/vulristics | 41 | 6| 
 
 
 # backdoor on Github 推荐

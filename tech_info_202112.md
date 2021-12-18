@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211218T01:38:35Z | Null | https://github.com/Spard2/ps4exploit | 2 | 0| 
 | 20211218T01:34:43Z | exploit 900 leeful mod switch bahasa indonesia | https://github.com/sonicps/simpel | 0 | 0| 
 | 20211218T01:26:04Z | Null | https://github.com/IcmpOff/Laravel-Valet-2.0.3-Local-Privilege-Escalation-Exploit | 0 | 0| 
 | 20211218T01:03:28Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 38 | 20| 
@@ -97,7 +98,6 @@
 | 20211218T00:27:16Z | A Java instrumentation agent for log4shell that both verifies exploitability AND prevents exploits. | https://github.com/Contrast-Security-OSS/safelog4j | 10 | 7| 
 | 20211218T00:20:02Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 316 | 745| 
 | 20211217T23:59:19Z | Null | https://github.com/tpetersen2018/AutoExploitFinal | 0 | 0| 
-| 20211217T23:55:42Z | A collection of intelligence about Log4Shell and its exploitation activity.  | https://github.com/curated-intel/Log4Shell-IOCs | 106 | 22| 
 
 
 # backdoor on Github 推荐
