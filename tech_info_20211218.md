@@ -47,6 +47,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211218T13:29:21Z | A collection of JavaScript Codes I%ve made to enhance the User Experience of Discord and some other Discord related stuff | https://github.com/hxr404/Discord-Console-hacks | 133 | 50| 
 | 20211218T13:23:54Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 644 | 108| 
 | 20211218T13:23:03Z | K8博客 | https://github.com/k8gege/k8gege.github.io | 21 | 7| 
 | 20211218T13:14:37Z | fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | 0 | 0| 
@@ -56,7 +57,6 @@
 | 20211218T12:51:11Z | Simulating Log4j Remote Code Execution (RCE) vulnerability in a flask web server using python%s logging library with custom formatter that simulates lookup substitution by executing remote exploit code. | https://github.com/Narasimha1997/py4jshell | 43 | 5| 
 | 20211218T12:37:58Z | PS-Phwoar! Alpha Version Exploit Host Menu for 5.05 FW with GoldHEN v1.1 Coded by SiSTRo / Port by Joonie86 | https://github.com/DTMExploits/DTMExploits.github.io | 0 | 0| 
 | 20211218T12:35:35Z | This is a list of Discord console scripts, bugs and exploits. | https://github.com/ImLorio/All-Discord-Exploits | 12 | 6| 
-| 20211218T12:35:34Z | This is the simple bot in discord that resembles lords mobile  | https://github.com/Dani-Hacker/EXPLOITER | 4 | 2| 
 
 
 # backdoor on Github 推荐
