@@ -17,7 +17,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211218T13:25:59Z | CVE-2021-45105 | Log4j_dos_CVE-2021-45105 | https://github.com/cckuailong/Log4j_dos_CVE-2021-45105 | | 
+| 20211218T13:38:23Z | CVE-2021-45105 | Log4j_dos_CVE-2021-45105 | https://github.com/cckuailong/Log4j_dos_CVE-2021-45105 | | 
 | 20211218T13:24:05Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211218T13:16:37Z | CVE-2021-44228 | Log4Shell Proof of Concept (CVE-2021-44228) | https://github.com/Kr0ff/CVE-2021-44228 | | 
 | 20211218T13:00:02Z | CVE-2021-44228 | Self-contained lab environment that runs the exploit safely, all from docker compose | https://github.com/j3kz/CVE-2021-44228-PoC | | 
@@ -47,10 +47,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211218T13:38:16Z | K8博客 | https://github.com/k8gege/k8gege.github.io | 21 | 7| 
 | 20211218T13:33:55Z | Windows exploit techniques. | https://github.com/anvbis/windows-exp | 0 | 0| 
 | 20211218T13:29:21Z | A collection of JavaScript Codes I%ve made to enhance the User Experience of Discord and some other Discord related stuff | https://github.com/hxr404/Discord-Console-hacks | 133 | 50| 
 | 20211218T13:23:54Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 644 | 108| 
-| 20211218T13:23:03Z | K8博客 | https://github.com/k8gege/k8gege.github.io | 21 | 7| 
 | 20211218T13:14:37Z | fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | 0 | 0| 
 | 20211218T13:14:06Z | POWERFUL PYTHON SCRIPT FOR SCAMMING AMD EXPLOITING VULNERABLE FIREBASE DATABASES | https://github.com/KiLL3R-xRO/Fire-Hunter | 0 | 0| 
 | 20211218T13:03:02Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 38 | 20| 
@@ -87,6 +87,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211218T13:36:54Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211218T13:13:04Z | Null | https://github.com/deatrisya/TugasBesarFuzzy | 0 | 0| 
 | 20211218T13:04:50Z | Asynchronous fuzzy finder in vim9script | https://github.com/kohnish/vim9-fuzzy | 0 | 0| 
 | 20211218T12:51:05Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6928 | 1450| 
@@ -96,7 +97,6 @@
 | 20211218T12:25:27Z | Null | https://github.com/mallika-bit/FuzzyFriendFinder- | 0 | 0| 
 | 20211218T12:24:07Z | Use Jazzer to perform fuzzy testing of Apache Commons CLI | https://github.com/centic9/cli-fuzz | 1 | 0| 
 | 20211218T12:23:44Z | Use Jazzer to perform fuzzy testing of Apache Commons Codec | https://github.com/centic9/codec-fuzz | 1 | 0| 
-| 20211218T12:22:49Z | Use Jazzer to perform fuzzy testing of Apache POI | https://github.com/centic9/poi-fuzz | 1 | 0| 
 
 
 
