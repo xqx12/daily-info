@@ -89,7 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211218T13:10:05Z | POWERFUL PYTHON SCRIPT FOR SCAMMING AMD EXPLOITING VULNERABLE FIREBASE DATABASES | https://github.com/KiLL3R-xRO/Fire-Hunter | 0 | 0| 
+| 20211218T13:11:22Z | POWERFUL PYTHON SCRIPT FOR SCAMMING AMD EXPLOITING VULNERABLE FIREBASE DATABASES | https://github.com/KiLL3R-xRO/Fire-Hunter | 0 | 0| 
 | 20211218T13:03:02Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 38 | 20| 
 | 20211218T13:00:02Z | Self-contained lab environment that runs the exploit safely, all from docker compose | https://github.com/j3kz/CVE-2021-44228-PoC | 0 | 0| 
 | 20211218T12:59:38Z | K8博客 | https://github.com/k8gege/k8gege.github.io | 21 | 7| 
