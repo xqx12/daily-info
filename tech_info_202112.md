@@ -89,8 +89,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211218T13:06:32Z | POWERFUL PYTHON SCRIPT FOR SCAMMING AMD EXPLOITING VULNERABLE FIREBASE DATABASES | https://github.com/KiLL3R-xRO/Fire-Hunter | 0 | 0| 
 | 20211218T13:03:02Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 38 | 20| 
-| 20211218T13:02:40Z | POWERFUL PYTHON SCRIPT FOR SCAMMING AMD EXPLOITING VULNERABLE FIREBASE DATABASES | https://github.com/KiLL3R-xRO/Fire-Hunter | 0 | 0| 
 | 20211218T13:00:02Z | Self-contained lab environment that runs the exploit safely, all from docker compose | https://github.com/j3kz/CVE-2021-44228-PoC | 0 | 0| 
 | 20211218T12:59:38Z | K8博客 | https://github.com/k8gege/k8gege.github.io | 21 | 7| 
 | 20211218T12:58:08Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 644 | 108| 
@@ -143,8 +143,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211218T13:03:13Z | Null | https://github.com/deatrisya/TugasBesarFuzzy | 0 | 0| 
-| 20211218T13:01:30Z | Asynchronous fuzzy finder in vim9script | https://github.com/kohnish/vim9-fuzzy | 0 | 0| 
+| 20211218T13:06:42Z | Null | https://github.com/deatrisya/TugasBesarFuzzy | 0 | 0| 
+| 20211218T13:04:50Z | Asynchronous fuzzy finder in vim9script | https://github.com/kohnish/vim9-fuzzy | 0 | 0| 
 | 20211218T12:51:05Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6928 | 1450| 
 | 20211218T12:44:09Z | CODE | https://github.com/dogecs/fuzzy-wuzzy | 0 | 0| 
 | 20211218T12:37:17Z | Implementation of fuzzy logic to evaluate student performance, fuzzy logic is base oppose to computer language which is either 0 or 1, fuzzy logic tends to give partial truth in a human language. Tags, SOFT SET, FUZZY SET etc | https://github.com/Solomon198/Fuzzy-Logic-Nextjs | 0 | 0| 
