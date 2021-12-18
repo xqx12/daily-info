@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211218T13:33:55Z | Windows exploit techniques. | https://github.com/anvbis/windows-exp | 0 | 0| 
 | 20211218T13:29:21Z | A collection of JavaScript Codes I%ve made to enhance the User Experience of Discord and some other Discord related stuff | https://github.com/hxr404/Discord-Console-hacks | 133 | 50| 
 | 20211218T13:23:54Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 644 | 108| 
 | 20211218T13:23:03Z | K8博客 | https://github.com/k8gege/k8gege.github.io | 21 | 7| 
@@ -98,14 +99,14 @@
 | 20211218T13:00:02Z | Self-contained lab environment that runs the exploit safely, all from docker compose | https://github.com/j3kz/CVE-2021-44228-PoC | 0 | 0| 
 | 20211218T12:51:11Z | Simulating Log4j Remote Code Execution (RCE) vulnerability in a flask web server using python%s logging library with custom formatter that simulates lookup substitution by executing remote exploit code. | https://github.com/Narasimha1997/py4jshell | 43 | 5| 
 | 20211218T12:37:58Z | PS-Phwoar! Alpha Version Exploit Host Menu for 5.05 FW with GoldHEN v1.1 Coded by SiSTRo / Port by Joonie86 | https://github.com/DTMExploits/DTMExploits.github.io | 0 | 0| 
-| 20211218T12:35:35Z | This is a list of Discord console scripts, bugs and exploits. | https://github.com/ImLorio/All-Discord-Exploits | 12 | 6| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211218T13:30:53Z | Null | https://github.com/leileigan/clean_label_textual_backdoor_attack | 3 | 0| 
+| 20211218T13:30:51Z | This is a python program backdoor embeded with a game for reverse connection from the victim to understand the use visit our youtube channel STRANGE LEARNINGS  | https://github.com/EnriqueStrange/Advanced-Backdoor | 4 | 3| 
 | 20211218T13:18:30Z | Backdoor For windows | https://github.com/basavbamrah/Windows-Backdoor | 0 | 0| 
-| 20211218T13:13:20Z | Null | https://github.com/leileigan/clean_label_textual_backdoor_attack | 3 | 0| 
 | 20211218T12:53:09Z | A minimal python backdoor work in progress not OS specific  | https://github.com/zoe-vb/python_backdoor | 0 | 0| 
 | 20211218T12:20:39Z | Null | https://github.com/EnriqueStrange/BackdooR | 0 | 0| 
 | 20211218T09:27:59Z | Null | https://github.com/Luqmaan2/backdoor | 0 | 0| 
@@ -113,13 +114,12 @@
 | 20211218T01:21:28Z | A TCP Backdoor made in python | https://github.com/ferreiraklet/Tracey-Backdoor | 10 | 0| 
 | 20211217T19:50:16Z | Null | https://github.com/QTPah/Backdoor | 0 | 0| 
 | 20211217T18:58:56Z | This program is an non-object oriented opensource, hidden and undetectable backdoor/reverse shell/RAT for Windows made in Python 3 which contains many features such as multi-client support and cross-platform server. | https://github.com/xp4xbox/Python-Backdoor | 468 | 169| 
-| 20211217T18:12:59Z | A Simple Way To Create Metasploit Backdoor By N4XSEC2K11 | https://github.com/cyberghost-security/msfpayload | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211218T10:45:29Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2596 | 382| 
+| 20211218T13:34:34Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2597 | 382| 
 | 20211217T23:12:50Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1932 | 402| 
 | 20211217T16:40:33Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 18 | 5| 
 | 20211217T14:45:23Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 191 | 41| 
