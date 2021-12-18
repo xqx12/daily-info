@@ -88,16 +88,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211218T01:03:28Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 38 | 20| 
+| 20211218T01:03:27Z | exploit 900 leeful mod switch bahasa indonesia | https://github.com/sonicps/simpel | 0 | 0| 
 | 20211218T00:55:22Z | Exploitation de la trame ICMP dans le cadre d%une attaque d%un réseaux local. Craft de paquets et modification de l%utilisation de la trame. | https://github.com/antoinechauvn/icmpdoor | 0 | 0| 
 | 20211218T00:54:33Z | Provides script to download and format public IP lists related to the Log4j exploit. Current format includes: plain list, Cisco ASA Network Group. | https://github.com/GianlucaUlivi/log4j-firewall-blacklist-builder | 1 | 0| 
 | 20211218T00:45:55Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 17| 
 | 20211218T00:27:16Z | A Java instrumentation agent for log4shell that both verifies exploitability AND prevents exploits. | https://github.com/Contrast-Security-OSS/safelog4j | 10 | 7| 
 | 20211218T00:20:02Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 316 | 745| 
-| 20211218T00:03:40Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 38 | 20| 
 | 20211217T23:59:19Z | Null | https://github.com/tpetersen2018/AutoExploitFinal | 0 | 0| 
 | 20211217T23:55:42Z | A collection of intelligence about Log4Shell and its exploitation activity.  | https://github.com/curated-intel/Log4Shell-IOCs | 106 | 22| 
 | 20211217T23:47:38Z | Simple fixes for the scary hacker RCE exploits in the god awful %log4j% library made by retards. | https://github.com/notperry1234567890/RCE-Fixes | 4 | 0| 
-| 20211217T23:46:11Z | A peer 2 peer approach to increase price stability and to reduce price manipulation by exploiting non-fundamentals-based volatility | https://github.com/distributed-ledger-technology/vofarm-deno-part | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -133,7 +133,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211215T14:38:08Z | A penetration testing tool for finding file upload bugs (NDSS 2020) | https://github.com/WSP-LAB/FUSE | 205 | 44| 
+| 20211218T01:03:56Z | A penetration testing tool for finding file upload bugs (NDSS 2020) | https://github.com/WSP-LAB/FUSE | 206 | 44| 
 | 20211214T10:37:21Z | Code for NDSS 2021 Paper %Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses Against Federated Learning% | https://github.com/vrt1shjwlkr/NDSS21-Model-Poisoning | 30 | 7| 
 | 20211203T05:22:50Z | Paper Downloader for NDSS Symposium 2021. | https://github.com/qianfei11/Paper_Downloader_for_NDSS_Symposium_2021 | 0 | 0| 
 | 20211202T07:57:27Z | Downloader for NDSS Symposium 2021 | https://github.com/qianfei11/Downloader_for_NDSS_Symposium_2021 | 0 | 0| 
