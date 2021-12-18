@@ -88,7 +88,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211218T01:21:39Z | exploit 900 leeful mod switch bahasa indonesia | https://github.com/sonicps/simpel | 0 | 0| 
+| 20211218T01:25:38Z | Null | https://github.com/IcmpOff/Laravel-Valet-2.0.3-Local-Privilege-Escalation-Exploit | 0 | 0| 
+| 20211218T01:24:22Z | exploit 900 leeful mod switch bahasa indonesia | https://github.com/sonicps/simpel | 0 | 0| 
 | 20211218T01:03:28Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 38 | 20| 
 | 20211218T00:55:22Z | Exploitation de la trame ICMP dans le cadre d%une attaque d%un réseaux local. Craft de paquets et modification de l%utilisation de la trame. | https://github.com/antoinechauvn/icmpdoor | 0 | 0| 
 | 20211218T00:54:33Z | Provides script to download and format public IP lists related to the Log4j exploit. Current format includes: plain list, Cisco ASA Network Group. | https://github.com/GianlucaUlivi/log4j-firewall-blacklist-builder | 1 | 0| 
@@ -97,13 +98,12 @@
 | 20211218T00:20:02Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 316 | 745| 
 | 20211217T23:59:19Z | Null | https://github.com/tpetersen2018/AutoExploitFinal | 0 | 0| 
 | 20211217T23:55:42Z | A collection of intelligence about Log4Shell and its exploitation activity.  | https://github.com/curated-intel/Log4Shell-IOCs | 106 | 22| 
-| 20211217T23:47:38Z | Simple fixes for the scary hacker RCE exploits in the god awful %log4j% library made by retards. | https://github.com/notperry1234567890/RCE-Fixes | 4 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211218T00:07:26Z | A TCP Backdoor made in python | https://github.com/ferreiraklet/Tracey-Backdoor | 10 | 0| 
+| 20211218T01:21:28Z | A TCP Backdoor made in python | https://github.com/ferreiraklet/Tracey-Backdoor | 10 | 0| 
 | 20211217T19:50:16Z | Null | https://github.com/QTPah/Backdoor | 0 | 0| 
 | 20211217T18:58:56Z | This program is an non-object oriented opensource, hidden and undetectable backdoor/reverse shell/RAT for Windows made in Python 3 which contains many features such as multi-client support and cross-platform server. | https://github.com/xp4xbox/Python-Backdoor | 468 | 169| 
 | 20211217T18:12:59Z | A Simple Way To Create Metasploit Backdoor By N4XSEC2K11 | https://github.com/cyberghost-security/msfpayload | 0 | 0| 
