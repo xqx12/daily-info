@@ -88,7 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211218T01:25:38Z | Null | https://github.com/IcmpOff/Laravel-Valet-2.0.3-Local-Privilege-Escalation-Exploit | 0 | 0| 
+| 20211218T01:26:04Z | Null | https://github.com/IcmpOff/Laravel-Valet-2.0.3-Local-Privilege-Escalation-Exploit | 0 | 0| 
 | 20211218T01:24:22Z | exploit 900 leeful mod switch bahasa indonesia | https://github.com/sonicps/simpel | 0 | 0| 
 | 20211218T01:03:28Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 38 | 20| 
 | 20211218T00:55:22Z | Exploitation de la trame ICMP dans le cadre d%une attaque d%un réseaux local. Craft de paquets et modification de l%utilisation de la trame. | https://github.com/antoinechauvn/icmpdoor | 0 | 0| 
