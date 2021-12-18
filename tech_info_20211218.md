@@ -47,8 +47,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211218T13:13:02Z | fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | 0 | 0| 
-| 20211218T13:11:22Z | POWERFUL PYTHON SCRIPT FOR SCAMMING AMD EXPLOITING VULNERABLE FIREBASE DATABASES | https://github.com/KiLL3R-xRO/Fire-Hunter | 0 | 0| 
+| 20211218T13:14:37Z | fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | 0 | 0| 
+| 20211218T13:14:06Z | POWERFUL PYTHON SCRIPT FOR SCAMMING AMD EXPLOITING VULNERABLE FIREBASE DATABASES | https://github.com/KiLL3R-xRO/Fire-Hunter | 0 | 0| 
 | 20211218T13:03:02Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 38 | 20| 
 | 20211218T13:00:02Z | Self-contained lab environment that runs the exploit safely, all from docker compose | https://github.com/j3kz/CVE-2021-44228-PoC | 0 | 0| 
 | 20211218T12:59:38Z | K8博客 | https://github.com/k8gege/k8gege.github.io | 21 | 7| 
@@ -86,7 +86,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211218T13:06:42Z | Null | https://github.com/deatrisya/TugasBesarFuzzy | 0 | 0| 
+| 20211218T13:13:04Z | Null | https://github.com/deatrisya/TugasBesarFuzzy | 0 | 0| 
 | 20211218T13:04:50Z | Asynchronous fuzzy finder in vim9script | https://github.com/kohnish/vim9-fuzzy | 0 | 0| 
 | 20211218T12:51:05Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6928 | 1450| 
 | 20211218T12:44:09Z | CODE | https://github.com/dogecs/fuzzy-wuzzy | 0 | 0| 
