@@ -78,6 +78,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211218T14:22:33Z | RAUK: Automatic Schedulability Analysis of RTIC Applications Using Symbolic Execution | https://github.com/markhakansson/master-thesis | 5 | 0| 
 | 20211218T13:34:34Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2597 | 382| 
 
 
