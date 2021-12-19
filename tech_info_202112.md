@@ -90,7 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211219T02:49:44Z | Scripts developed for the LiquidBounce script api. | https://github.com/Gowixx/Carilana | 25 | 9| 
+| 20211219T02:51:09Z | Scripts developed for the LiquidBounce script api. | https://github.com/Gowixx/Carilana | 25 | 9| 
 | 20211219T02:49:24Z | Mitigations (AWS WAF, Lambda@Edge/CloudFront Functions) to implement on AWS to attempt to prevent log4j exploitation. | https://github.com/OllieJC/aws-log4j-mitigations | 19 | 6| 
 | 20211219T02:03:41Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 38 | 20| 
 | 20211219T01:56:04Z | Windows exploit techniques. | https://github.com/anvbis/windows-exp | 0 | 0| 
