@@ -56,6 +56,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211219T13:22:29Z | Write-up and exploit of tfUSD (TrueFi ) 50M worth of bug. | https://github.com/Jonah246/tfusd-flashloan-attack-write-up | 7 | 3| 
 | 20211219T13:12:12Z | Cover your tracks during Linux Exploitation by leaving zero traces on system logs and filesystem timestamps. 👻🐚 | https://github.com/mufeedvh/moonwalk | 4 | 0| 
 | 20211219T13:03:07Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 38 | 20| 
 | 20211219T12:42:05Z | IP addresses exploiting recent log4j2 vulnerability CVE-2021-44228  | https://github.com/Malwar3Ninja/Exploitation-of-Log4j2-CVE-2021-44228 | 8 | 3| 
@@ -65,7 +66,6 @@
 | 20211219T12:23:11Z | iblessing is an iOS security exploiting toolkit, it mainly includes application information gathering, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining. | https://github.com/Soulghost/iblessing | 431 | 64| 
 | 20211219T12:05:01Z | Check, exploit, obfuscate, TLS, ACME about log4j2 vulnerability in one Go program. | https://github.com/For-ACGN/Log4Shell | 10 | 5| 
 | 20211219T12:01:09Z | Project to optimize the exploitation transition phase in AFLGo | https://github.com/goodtaeeun/FuzzFrame | 0 | 1| 
-| 20211219T12:00:04Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 647 | 112| 
 
 
 # backdoor on Github 推荐
