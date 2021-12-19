@@ -92,6 +92,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211219T13:12:31Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211219T13:01:31Z | fuzzer | https://github.com/reusee/fz | 3 | 1| 
 | 20211219T12:56:58Z | Null | https://github.com/EOTM555/fuzzy-robot | 0 | 0| 
 | 20211219T12:42:40Z | Fuzzy logics project | https://github.com/mrrys00/fuzzy | 0 | 0| 
@@ -101,7 +102,6 @@
 | 20211219T11:40:14Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20211219T11:14:55Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 7 | 0| 
 | 20211219T11:04:20Z | Null | https://github.com/ys-zhang/filter-fuzz | 0 | 0| 
-| 20211219T10:39:53Z | Null | https://github.com/patriotsec/fuzzereye | 0 | 0| 
 
 
 
