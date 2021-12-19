@@ -57,7 +57,7 @@
 | 20211218T21:31:39Z | Telerik UI Exploit | https://github.com/1amUnvalid/Telerik-UI-Exploit | 0 | 0| 
 | 20211218T21:11:20Z | Rapidly scan filesystems for Java programs potentially vulnerable to Log4Shell (CVE-2021-44228) or %that Log4j JNDI exploit% by inspecting the class paths inside files | https://github.com/1lann/log4shelldetect | 33 | 6| 
 | 20211218T21:10:56Z | Exploiting Causal Structure for Transportability in Online, Multi-Agent Environments | https://github.com/axelbrowne/ECS4TOMAE | 0 | 0| 
-| 20211218T21:05:14Z | PS4 9.00 Firmware Exploit Host | https://github.com/KameleonReloaded/900V4B | 1 | 1| 
+| 20211218T21:05:14Z | PS4 9.00 Firmware Exploit Host | https://github.com/KameleonReloaded/900V4B | 1 | 2| 
 
 
 # backdoor on Github 推荐
