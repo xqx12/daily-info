@@ -46,9 +46,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211219T01:52:19Z | CVE-2021-44228 | 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - A trick to bypass words blocking patches | https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words | | 
 | 20211219T01:34:54Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
 | 20211218T23:22:36Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
-| 20211218T23:06:31Z | CVE-2021-44228 | 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - A trick to bypass words blocking patches | https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words | | 
 | 20211218T20:46:01Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
 | 20211218T19:27:43Z | CVE-2021-44228 | Null | https://github.com/b-abderrahmane/CVE-2021-44228-playground | | 
 | 20211218T17:13:29Z | CVE-2021-44228 | Null | https://github.com/111coding/log4j_temp_CVE-2021-44228 | | 
@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211219T01:51:55Z | Acceleration des calculs en vectorisation (exploitation des performances machine) & application dans des modeles classiques et comprehensibles. | https://github.com/ialouani/Classique_assembleur_-6- | 0 | 0| 
 | 20211219T01:44:46Z | Null | https://github.com/chatoiclazer/Chatoic-Exploit | 0 | 0| 
 | 20211219T01:36:30Z | PS-Phwoar! Alpha Version Exploit Host Menu for 5.05 FW with GoldHEN v2.0b Coded by SiSTRo  | https://github.com/DTMExploits/DTMExploits.github.io | 0 | 0| 
 | 20211219T01:03:20Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 38 | 20| 
@@ -99,7 +100,6 @@
 | 20211219T00:20:04Z | Application trying to detect processes vulnerable to log4j JNDI exploit | https://github.com/clems4ever/log4j-jndi-jar-detector | 0 | 0| 
 | 20211219T00:18:03Z | Null | https://github.com/lorenzodimarzio/crypto-exploiter | 0 | 0| 
 | 20211218T22:45:58Z | Null | https://github.com/blueIbird/exploit | 0 | 0| 
-| 20211218T22:42:02Z | Detection rules to look for Log4J usage and exploitation | https://github.com/CiscoCXSecurity/log4j | 13 | 2| 
 
 
 # backdoor on Github 推荐

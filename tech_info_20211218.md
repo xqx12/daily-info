@@ -18,7 +18,6 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20211218T23:22:36Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
-| 20211218T23:06:31Z | CVE-2021-44228 | 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - A trick to bypass words blocking patches | https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words | | 
 | 20211218T20:46:01Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
 | 20211218T19:27:43Z | CVE-2021-44228 | Null | https://github.com/b-abderrahmane/CVE-2021-44228-playground | | 
 | 20211218T17:13:29Z | CVE-2021-44228 | Null | https://github.com/111coding/log4j_temp_CVE-2021-44228 | | 
@@ -27,6 +26,7 @@
 | 20211218T15:22:55Z | CVE-2021-44228 | Null | https://github.com/VerveIndustrialProtection/CVE-2021-44228-Log4j | | 
 | 20211218T15:09:52Z | CVE-2021-44228 | Patch Pulsar Docker images with Log4J 2.17.0 update to mitigate Apache Log4J Security Vulnerabilities including Log4Shell | https://github.com/lhotari/pulsar-docker-images-patch-CVE-2021-44228 | | 
 | 20211218T14:34:42Z | CVE-2021-45105 | Null | https://github.com/pravin-pp/log4j2-CVE-2021-45105 | | 
+| 20211218T14:08:28Z | CVE-2021-44228 | Self-contained lab environment that runs the exploit safely, all from docker compose | https://github.com/j3kz/CVE-2021-44228-PoC | | 
 
 
 # klee on Github 推荐
@@ -52,12 +52,12 @@
 | 20211218T22:42:02Z | Detection rules to look for Log4J usage and exploitation | https://github.com/CiscoCXSecurity/log4j | 13 | 2| 
 | 20211218T22:40:18Z | Large parts of the world rely on rainfed agriculture for their food security. In Africa, 90% of the agricultural yields rely only on precipitation for irrigation purposes and approximately 80% of the population’s livelihood is highly dependent on its food production. Parts of Ghana are prone to droughts and flood events due to increasing variability of precipitation phenomena. Crop growth is sensitive to the wet- and dry spell phenomena during the rainy season. To support rural communities and small farmer in their efforts to adapt to climate change and natural variability, it is crucial to have good predictions of rainfall and related dry/wet spell indices. This research constitutes an attempt to assess the dry spell patterns in the northern region of Ghana, near Burkina Faso. We aim to develop a model which by exploiting satellite products overcomes the poor temporal and spatial coverage of existing ground precipitation measurements. For this purpose 14 meteorological stations featuring different temporal coverage are used together with satellite-based precipitation products. Conventional machine-learning and deep-learning algorithms were compared in an attempt to establish a link between satellite products and field rainfall data for dry spell assessment. The deep-learning architecture used should be able to efficiently manipulate spatial data. Hence, Convolutional Neural Networks were used in order to detect spatial patterns in the satellite data. Using these models we will attempt to exploit the long temporal coverage of the satellite products in order to overcome the poor temporal and spatial coverage of existing ground precipitation measurements. Doing that, our final objective is to enhance our knowledge about the dry spell characteristics and, thus, provide more reliable climatic information to the farmers in the area of Northern Ghana. Complete report at https://repository.tudelft.nl/islandora/object/uuid%3Adbe50c7f-643e-4f9c-b6b0-8a20ddf7262c | https://github.com/Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences | 0 | 0| 
 | 20211218T22:01:35Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 255 | 11| 
-| 20211218T21:50:05Z | Acceleration des calculs en vectorisation (exploitation des performances machine) & application dans des modeles classiques et comprehensibles. | https://github.com/ialouani/Classique_assembleur_-6- | 0 | 0| 
 | 20211218T21:49:37Z | Roblox Hub for my exploit idk | https://github.com/timof121/Tims-Hub | 0 | 0| 
 | 20211218T21:46:56Z |  pOOBs4 PS4 exploit for v9.0 + automatic golden hen | https://github.com/mc-17/pspack-flask | 15 | 11| 
 | 20211218T21:31:39Z | Telerik UI Exploit | https://github.com/1amUnvalid/Telerik-UI-Exploit | 0 | 0| 
 | 20211218T21:11:20Z | Rapidly scan filesystems for Java programs potentially vulnerable to Log4Shell (CVE-2021-44228) or %that Log4j JNDI exploit% by inspecting the class paths inside files | https://github.com/1lann/log4shelldetect | 33 | 6| 
 | 20211218T21:10:56Z | Exploiting Causal Structure for Transportability in Online, Multi-Agent Environments | https://github.com/axelbrowne/ECS4TOMAE | 0 | 0| 
+| 20211218T21:05:14Z | PS4 9.00 Firmware Exploit Host | https://github.com/KameleonReloaded/900V4B | 1 | 1| 
 
 
 # backdoor on Github 推荐
