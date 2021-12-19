@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211219T02:45:32Z | Mitigations (AWS WAF, Lambda@Edge/CloudFront Functions) to implement on AWS to attempt to prevent log4j exploitation. | https://github.com/OllieJC/aws-log4j-mitigations | 19 | 6| 
 | 20211219T02:03:41Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 38 | 20| 
 | 20211219T01:56:04Z | Windows exploit techniques. | https://github.com/anvbis/windows-exp | 0 | 0| 
 | 20211219T01:51:55Z | Acceleration des calculs en vectorisation (exploitation des performances machine) & application dans des modeles classiques et comprehensibles. | https://github.com/ialouani/Classique_assembleur_-6- | 0 | 0| 
@@ -99,7 +100,6 @@
 | 20211219T00:53:46Z | Null | https://github.com/Halvosa/binary_exploitation | 0 | 0| 
 | 20211219T00:24:08Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 108 | 39| 
 | 20211219T00:20:04Z | Application trying to detect processes vulnerable to log4j JNDI exploit | https://github.com/clems4ever/log4j-jndi-jar-detector | 0 | 0| 
-| 20211219T00:18:03Z | Null | https://github.com/lorenzodimarzio/crypto-exploiter | 0 | 0| 
 
 
 # backdoor on Github 推荐
