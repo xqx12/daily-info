@@ -93,7 +93,6 @@
 | --- | --- | --- | --- | ---| 
 | 20211218T23:38:51Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20211218T23:01:36Z | Null | https://github.com/allexks/FuzzyKit | 0 | 0| 
-| 20211218T22:55:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6935 | 1450| 
 | 20211218T22:32:51Z | Null | https://github.com/manuelavisakha1231/Classification-model-for-heart-disease-data-with-Sugeno-Order-0-fuzzy-logic- | 0 | 0| 
 | 20211218T21:48:12Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
 | 20211218T20:13:54Z | Null | https://github.com/Eli-coding/fuzzy-quiz | 0 | 0| 
@@ -101,6 +100,7 @@
 | 20211218T19:42:47Z | Fuzzy C Mean and KNN Models for Heart Attack  | https://github.com/johnyachk/Fuzzy-C-Mean---Heart-Attack | 0 | 0| 
 | 20211218T19:21:59Z | Null | https://github.com/berkantrl/Fuzzing | 0 | 0| 
 | 20211218T19:21:30Z | Advent of code 2021 | https://github.com/bAngerman/fuzzy-octo-lamp | 0 | 0| 
+| 20211218T19:15:59Z | Asynchronous fuzzy finder in vim9script | https://github.com/kohnish/vim9-fuzzy | 0 | 0| 
 
 
 

@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211219T01:44:46Z | Null | https://github.com/chatoiclazer/Chatoic-Exploit | 0 | 0| 
 | 20211219T01:36:30Z | PS-Phwoar! Alpha Version Exploit Host Menu for 5.05 FW with GoldHEN v2.0b Coded by SiSTRo  | https://github.com/DTMExploits/DTMExploits.github.io | 0 | 0| 
 | 20211219T01:03:20Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 38 | 20| 
 | 20211219T00:57:40Z | Null | https://github.com/YouCantCMe/Exploits | 0 | 0| 
@@ -99,7 +100,6 @@
 | 20211219T00:18:03Z | Null | https://github.com/lorenzodimarzio/crypto-exploiter | 0 | 0| 
 | 20211218T22:45:58Z | Null | https://github.com/blueIbird/exploit | 0 | 0| 
 | 20211218T22:42:02Z | Detection rules to look for Log4J usage and exploitation | https://github.com/CiscoCXSecurity/log4j | 13 | 2| 
-| 20211218T22:40:18Z | Large parts of the world rely on rainfed agriculture for their food security. In Africa, 90% of the agricultural yields rely only on precipitation for irrigation purposes and approximately 80% of the population’s livelihood is highly dependent on its food production. Parts of Ghana are prone to droughts and flood events due to increasing variability of precipitation phenomena. Crop growth is sensitive to the wet- and dry spell phenomena during the rainy season. To support rural communities and small farmer in their efforts to adapt to climate change and natural variability, it is crucial to have good predictions of rainfall and related dry/wet spell indices. This research constitutes an attempt to assess the dry spell patterns in the northern region of Ghana, near Burkina Faso. We aim to develop a model which by exploiting satellite products overcomes the poor temporal and spatial coverage of existing ground precipitation measurements. For this purpose 14 meteorological stations featuring different temporal coverage are used together with satellite-based precipitation products. Conventional machine-learning and deep-learning algorithms were compared in an attempt to establish a link between satellite products and field rainfall data for dry spell assessment. The deep-learning architecture used should be able to efficiently manipulate spatial data. Hence, Convolutional Neural Networks were used in order to detect spatial patterns in the satellite data. Using these models we will attempt to exploit the long temporal coverage of the satellite products in order to overcome the poor temporal and spatial coverage of existing ground precipitation measurements. Doing that, our final objective is to enhance our knowledge about the dry spell characteristics and, thus, provide more reliable climatic information to the farmers in the area of Northern Ghana. Complete report at https://repository.tudelft.nl/islandora/object/uuid%3Adbe50c7f-643e-4f9c-b6b0-8a20ddf7262c | https://github.com/Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -144,6 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211219T01:46:08Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6936 | 1450| 
 | 20211219T01:41:53Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211219T01:33:27Z | parsing btrfs disk image (WIP) for fuzzing fs inside usermode linux | https://github.com/docfate111/badfsfuzzer | 0 | 0| 
 | 20211219T00:59:00Z | Fuzzy search inside your Discord DMs | https://github.com/traumatism/FuzzyCord | 0 | 0| 
@@ -153,7 +154,6 @@
 | 20211219T00:08:13Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 39 | 12| 
 | 20211219T00:05:03Z | Rich1 | https://github.com/Alaadinnn/fuzzy-rotary-phone | 0 | 0| 
 | 20211218T23:38:51Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
-| 20211218T23:01:36Z | Null | https://github.com/allexks/FuzzyKit | 0 | 0| 
 
 
 
