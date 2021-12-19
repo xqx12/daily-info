@@ -144,6 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211219T13:43:26Z | SQLiToolkit is a SQL injection Based Toolkit. There are many features such as Vulnerability Scanner, Url Fuzzer in this tool. This is a User-Friendly but Quite Powerful Tool for you Pentesting.. | https://github.com/Toxic-Noob/SQLiToolkit | 0 | 0| 
 | 20211219T13:36:47Z | Emulation based snapshot fuzzer | https://github.com/jaoeul/gingersnap | 0 | 0| 
 | 20211219T13:20:57Z | Implementation of the optimal fuzzy partition with centers placing as Voronoi diagrams. | https://github.com/Danleb/OptimalFuzzyPartition | 1 | 0| 
 | 20211219T13:16:39Z | Magistry fuzzy logic homework | https://github.com/Jexperto/fuzzy_logic_project | 0 | 0| 
@@ -153,7 +154,6 @@
 | 20211219T12:42:40Z | Fuzzy logics project | https://github.com/mrrys00/fuzzy | 0 | 0| 
 | 20211219T12:32:48Z | Leetcode solutions. | https://github.com/chaitanyks/fuzzy-disco | 1 | 0| 
 | 20211219T12:01:09Z | Project to optimize the exploitation transition phase in AFLGo | https://github.com/goodtaeeun/FuzzFrame | 0 | 1| 
-| 20211219T11:55:31Z | Asynchronous fuzzy finder in vim9script | https://github.com/kohnish/vim9-fuzzy | 0 | 0| 
 
 
 
