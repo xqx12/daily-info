@@ -31,56 +31,56 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
-| 20211218 | CVE-2016-7124反序列化漏洞复现 | https://www.sec-in.com/article/1125| 
-| 20211216 | Log4j2远程代码执行漏洞检测和防护策略研究 | https://mp.weixin.qq.com/s/GY-hKl9013pyVd8no0SDHw| 
-| 20211215 | 《软件分析》完整版课程视频 | https://space.bilibili.com/2919428/channel/detail?cid=106434&ctype=0| 
-| 20211215 | 从Log4shell事件看资产风险运营工程化的困局与盲点 | https://zhuanlan.zhihu.com/p/445372045| 
-| 20211214 | 浅谈被动式IAST产品与技术实现 | https://tttang.com/archive/1375/| 
-| 20211213 | 从一例挖矿木马看 Log4Shell 的在野传播 | https://mp.weixin.qq.com/s/OoARMaeACnogFrEWMNw01A| 
-| 20211213 | SecWiki周刊（第406期) | https://www.sec-wiki.com/weekly/406| 
-| 20211212 | 利用zotero与dblp批量收集论文 | https://moxiaoxi.info/papers/2020/10/18/Papers/| 
-| 20211212 | 钓鱼小技巧-XLM | https://www.anquanke.com/post/id/261493| 
-| 20211212 | Unraid篇：docker私有部署服务推荐 | https://le4f.net/unraid-docker-apps/| 
+| 20211219 | SPEL表达式注入漏洞深入分析 | http://blog.topsec.com.cn/spel%e8%a1%a8%e8%be%be%e5%bc%8f%e6%b3%a8%e5%85%a5%e6%bc%8f%e6%b4%9e%e6%b7%b1%e5%85%a5%e5%88%86%e6%9e%90/| 
+| 20211219 | 基于异常行为检测CobaltStrike | https://www.anquanke.com/post/id/262742| 
+| 20211219 | 基于规则向量化的HTTP资产识别方法探索 | http://blog.nsfocus.net/http-banner-2/| 
+| 20211219 | 浅谈被动式IAST产品与技术实现-代码实现Demo篇 | https://www.03sec.com/Ideas/qian-tan-bei-dong-shiiast-chan-pin-yu-ji-shu-shi-x-1.html#morphing| 
+| 20211219 | 浅谈被动式IAST产品与技术实现-基础篇 | https://www.03sec.com/Ideas/qian-tan-bei-dong-shiiast-chan-pin-yu-ji-shu-shi-x.html#morphing| 
+| 20211219 | Codeql 挖洞？ | https://mp.weixin.qq.com/s/-4E08dNeCdsc51VLE9qMAQ| 
+| 20211219 | 应急响应：没有痕迹该如何进行攻击溯源 | https://www.freebuf.com/articles/web/313394.html| 
+| 20211219 | 几款小众而实用的远控软件 | https://mp.weixin.qq.com/s/uYpNH2cwjsOoDl6ZTyVtUw| 
+| 20211219 | iMessage 零点击漏洞利用细节公开 | https://mp.weixin.qq.com/s/u0O6qBbvGB-l8aqCabGaUQ| 
+| 20211219 | ACSAC 2021 论文录用列表 | https://mp.weixin.qq.com/s/CeGjPSw4DLCkSdF1lxqi2A| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211219T12:42:05Z | CVE-2021-44228 | IP addresses exploiting recent log4j2 vulnerability CVE-2021-44228  | https://github.com/Malwar3Ninja/Exploitation-of-Log4j2-CVE-2021-44228 | | 
+| 20211219T12:31:30Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
+| 20211219T12:09:01Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
+| 20211219T12:00:07Z | CVE-2021-44228 | Null | https://github.com/tobiasoed/log4j-CVE-2021-44228 | | 
+| 20211219T11:22:21Z | CVE-2020-2551 | how detect CVE-2020-2551 poc exploit python Weblogic RCE with IIOP | https://github.com/hktalent/CVE-2020-2551 | | 
+| 20211219T10:10:31Z | CVE-2021-44228 | 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - A trick to bypass words blocking patches | https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words | | 
+| 20211219T08:28:26Z | CVE-2021-45105 | Log4j_dos_CVE-2021-45105 | https://github.com/cckuailong/Log4j_dos_CVE-2021-45105 | | 
+| 20211219T07:58:56Z | CVE-2021-44228 | Log4J CVE-2021-44228 : Mitigation Cheat Sheet | https://github.com/thedevappsecguy/Log4J-Mitigation-CVE-2021-44228--CVE-2021-45046--CVE-2021-45105 | | 
+| 20211219T03:54:50Z | CVE-2021-44228 | Null | https://github.com/kkyehit/log4j_CVE-2021-44228 | | 
 | 20211219T02:56:07Z | cve-2021-44228 | Hot-patch CVE-2021-44228 by exploiting the vulnerability itself. | https://github.com/qingtengyun/cve-2021-44228-qingteng-online-patch | | 
-| 20211219T02:42:34Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
-| 20211219T02:40:47Z | CVE-2021-44228 | 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - A trick to bypass words blocking patches | https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words | | 
-| 20211219T02:03:31Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
-| 20211219T01:59:54Z | CVE-2021-45105 | Log4j_dos_CVE-2021-45105 | https://github.com/cckuailong/Log4j_dos_CVE-2021-45105 | | 
-| 20211218T20:46:01Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
-| 20211218T19:27:43Z | CVE-2021-44228 | Null | https://github.com/b-abderrahmane/CVE-2021-44228-playground | | 
-| 20211218T17:13:29Z | CVE-2021-44228 | Null | https://github.com/111coding/log4j_temp_CVE-2021-44228 | | 
-| 20211218T15:32:08Z | CVE-2021-44228 | An attempt to understand the log4j vulnerability by looking through the code | https://github.com/shivakumarjayaraman/log4jvulnerability-CVE-2021-44228 | | 
-| 20211218T15:22:55Z | CVE-2021-44228 | Null | https://github.com/VerveIndustrialProtection/CVE-2021-44228-Log4j | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211218T16:01:16Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 3122 | 95| 
+| 20211219T10:16:52Z | modern regular expression syntax everywhere with a painless upgrade path | https://github.com/SonOfLilit/kleenexp | 32 | 4| 
+| 20211219T10:01:39Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 3128 | 95| 
+| 20211219T08:08:32Z | Null | https://github.com/HallettLab/klee-stability | 0 | 0| 
 | 20211218T13:25:26Z | Null | https://github.com/anaskautsar7/Klee-chan | 0 | 0| 
 | 20211218T12:41:41Z | Null | https://github.com/wpkong/KleeAdventure | 0 | 0| 
-| 20211217T19:44:26Z | Null | https://github.com/HallettLab/klee-stability | 0 | 0| 
 | 20211217T18:20:01Z | Null | https://github.com/lindsayp30/emp_KLEEMEX | 0 | 0| 
 | 20211217T10:07:04Z | Witch-KLEE - A KLEE-based error witness checker | https://github.com/ayazip/witch-klee | 0 | 0| 
 | 20211216T19:53:57Z | Scala library for generating and manipulation of images treated as a point => color function. | https://github.com/skac112/klee | 0 | 0| 
 | 20211216T14:17:50Z | Config files for my GitHub profile. | https://github.com/MichaelKleemoff/MichaelKleemoff | 0 | 0| 
 | 20211216T14:03:50Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1851 | 524| 
-| 20211216T12:22:37Z | Symbolic Liveness Analysis of real-world software building upon KLEE to detect liveness violations (e.g. infinite loop bugs) | https://github.com/COMSYS/SymbolicLivenessAnalysis | 12 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211219T09:57:32Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 192 | 41| 
+| 20211219T09:37:11Z | CRAX++: software CRash analysis for Automatic eXploit generation | https://github.com/aesophor/CRAXplusplus | 25 | 3| 
 | 20211218T16:24:46Z | Null | https://github.com/saku31114/s2explab | 0 | 0| 
 | 20211218T03:16:22Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 79 | 34| 
 | 20211218T03:14:38Z | Linux kernels (CGC DECREE and vanilla) with S2E extensions | https://github.com/S2E/s2e-linux-kernel | 16 | 5| 
-| 20211217T21:27:37Z | CRAX++: software CRash analysis for Automatic eXploit generation | https://github.com/aesophor/CRAXplusplus | 25 | 3| 
-| 20211217T14:45:23Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 191 | 41| 
 | 20211214T17:51:04Z | Null | https://github.com/s2escogg/s2escogg.github.io | 0 | 0| 
 | 20211214T17:43:51Z | Null | https://github.com/s2escogg/s2escotgg.github.io | 0 | 0| 
 | 20211207T15:25:17Z | Null | https://github.com/yuvalkirstain/s2e-coref | 25 | 9| 
@@ -90,21 +90,23 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211219T02:56:02Z | Windows exploit techniques. | https://github.com/anvbis/windows-exp | 0 | 0| 
-| 20211219T02:51:40Z | Scripts developed for the LiquidBounce script api. | https://github.com/Gowixx/Carilana | 25 | 9| 
-| 20211219T02:49:24Z | Mitigations (AWS WAF, Lambda@Edge/CloudFront Functions) to implement on AWS to attempt to prevent log4j exploitation. | https://github.com/OllieJC/aws-log4j-mitigations | 19 | 6| 
-| 20211219T02:03:41Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 38 | 20| 
-| 20211219T01:51:55Z | Acceleration des calculs en vectorisation (exploitation des performances machine) & application dans des modeles classiques et comprehensibles. | https://github.com/ialouani/Classique_assembleur_-6- | 0 | 0| 
-| 20211219T01:44:46Z | Null | https://github.com/chatoiclazer/Chatoic-Exploit | 0 | 0| 
-| 20211219T01:36:30Z | PS-Phwoar! Alpha Version Exploit Host Menu for 5.05 FW with GoldHEN v2.0b Coded by SiSTRo  | https://github.com/DTMExploits/DTMExploits.github.io | 0 | 0| 
-| 20211219T00:57:40Z | Null | https://github.com/YouCantCMe/Exploits | 0 | 0| 
-| 20211219T00:53:46Z | Null | https://github.com/Halvosa/binary_exploitation | 0 | 0| 
-| 20211219T00:24:08Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 108 | 39| 
+| 20211219T12:42:05Z | IP addresses exploiting recent log4j2 vulnerability CVE-2021-44228  | https://github.com/Malwar3Ninja/Exploitation-of-Log4j2-CVE-2021-44228 | 8 | 3| 
+| 20211219T12:37:33Z | Null | https://github.com/prodigiousMind/log4j-exploit-RCE-by-ReverseShell | 0 | 0| 
+| 20211219T12:32:09Z | X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter | https://github.com/Moham3dRiahi/XAttacker | 1054 | 457| 
+| 20211219T12:27:58Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 2675 | 406| 
+| 20211219T12:16:59Z | Cover your tracks during Linux Exploitation by leaving zero traces on system logs and filesystem timestamps. 👻🐚 | https://github.com/mufeedvh/moonwalk | 3 | 0| 
+| 20211219T12:05:01Z | Check, exploit, obfuscate, TLS, ACME about log4j2 vulnerability in one Go program. | https://github.com/For-ACGN/Log4Shell | 10 | 5| 
+| 20211219T12:03:40Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 38 | 20| 
+| 20211219T12:01:09Z | Project to optimize the exploitation transition phase in AFLGo | https://github.com/goodtaeeun/FuzzFrame | 0 | 1| 
+| 20211219T12:00:01Z | Application trying to detect processes vulnerable to log4j JNDI exploit | https://github.com/clems4ever/log4j-jndi-jar-detector | 0 | 0| 
+| 20211219T11:59:44Z | A scanner/exploitation tool written in GO, which leverages client-side Prototype Pollution to XSS by exploiting known gadgets. | https://github.com/kleiton0x00/ppmap | 261 | 34| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211219T06:24:03Z | the assembly shell and backdoor Trojan  | https://github.com/amicheh/asm_reverse_shell | 0 | 0| 
+| 20211219T04:30:42Z | My personal unique wiki for hacking the router firmware used by (Telia)TG799vac Xtream v17.2-MINT delivered from Technicolor  | https://github.com/wuseman/TG799VAC-XTREME-17.2-MINT | 65 | 18| 
 | 20211218T21:16:14Z | This program is an non-object oriented opensource, hidden and undetectable backdoor/reverse shell/RAT for Windows made in Python 3 which contains many features such as multi-client support and cross-platform server. | https://github.com/xp4xbox/Python-Backdoor | 469 | 169| 
 | 20211218T18:36:45Z | A Hidden and Undetectable Remote Access Tool written in C++ and Server in Python3 | https://github.com/anonlo-rw/Windows-Backdoor | 20 | 7| 
 | 20211218T18:25:07Z | Null | https://github.com/iamchinook/backdoors | 0 | 0| 
@@ -113,23 +115,21 @@
 | 20211218T13:30:51Z | This is a python program backdoor embeded with a game for reverse connection from the victim to understand the use visit our youtube channel STRANGE LEARNINGS  | https://github.com/EnriqueStrange/Advanced-Backdoor | 4 | 3| 
 | 20211218T12:53:09Z | A minimal python backdoor work in progress not OS specific  | https://github.com/zoe-vb/python_backdoor | 0 | 0| 
 | 20211218T12:20:39Z | Null | https://github.com/EnriqueStrange/BackdooR | 0 | 0| 
-| 20211218T09:27:59Z | Null | https://github.com/Luqmaan2/backdoor | 0 | 0| 
-| 20211218T01:21:28Z | A TCP Backdoor made in python | https://github.com/ferreiraklet/Tracey-Backdoor | 10 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211218T14:22:33Z | RAUK: Automatic Schedulability Analysis of RTIC Applications Using Symbolic Execution | https://github.com/markhakansson/master-thesis | 5 | 0| 
+| 20211219T11:47:36Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1934 | 402| 
+| 20211219T09:57:32Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 192 | 41| 
+| 20211219T09:13:28Z | RAUK: Automatic Schedulability Analysis of RTIC Applications Using Symbolic Execution | https://github.com/markhakansson/master-thesis | 5 | 0| 
+| 20211219T04:29:39Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 11 | 5| 
 | 20211218T13:34:34Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2597 | 382| 
-| 20211217T23:12:50Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1932 | 402| 
 | 20211217T16:40:33Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 18 | 5| 
-| 20211217T14:45:23Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 191 | 41| 
 | 20211217T10:10:33Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 165 | 37| 
 | 20211217T05:13:25Z | This demo will show how Symbolic Execution solve the problem. | https://github.com/JeffShao96/Symbolic-NS3 | 1 | 3| 
 | 20211216T14:34:15Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 22 | 13| 
 | 20211216T14:03:50Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1851 | 524| 
-| 20211216T12:31:11Z | Monster is a symbolic execution engine for 64-bit RISC-U code | https://github.com/cksystemsgroup/monster | 7 | 3| 
 
 
 # big4 on Github 推荐
@@ -144,16 +144,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211219T02:52:55Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20211219T02:35:33Z | testing golang go-fuzz + githib actions  | https://github.com/arosa822/go-fuzz-actions | 0 | 0| 
-| 20211219T02:14:50Z | Null | https://github.com/merrisudarmi/fuzzy-octo-guacamole | 0 | 0| 
-| 20211219T01:46:08Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6936 | 1450| 
-| 20211219T01:33:27Z | parsing btrfs disk image (WIP) for fuzzing fs inside usermode linux | https://github.com/docfate111/badfsfuzzer | 0 | 0| 
-| 20211219T00:59:00Z | Fuzzy search inside your Discord DMs | https://github.com/traumatism/FuzzyCord | 0 | 0| 
-| 20211219T00:52:36Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 7 | 0| 
-| 20211219T00:40:21Z | Null | https://github.com/Fuzzwah/simhub-dash-fuzzwah-v2 | 2 | 1| 
-| 20211219T00:08:13Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 39 | 12| 
-| 20211219T00:05:03Z | Rich1 | https://github.com/Alaadinnn/fuzzy-rotary-phone | 0 | 0| 
+| 20211219T13:01:31Z | fuzzer | https://github.com/reusee/fz | 3 | 1| 
+| 20211219T12:56:58Z | Null | https://github.com/EOTM555/fuzzy-robot | 0 | 0| 
+| 20211219T12:42:40Z | Fuzzy logics project | https://github.com/mrrys00/fuzzy | 0 | 0| 
+| 20211219T12:32:48Z | Leetcode solutions. | https://github.com/chaitanyks/fuzzy-disco | 1 | 0| 
+| 20211219T12:01:09Z | Project to optimize the exploitation transition phase in AFLGo | https://github.com/goodtaeeun/FuzzFrame | 0 | 1| 
+| 20211219T11:55:31Z | Asynchronous fuzzy finder in vim9script | https://github.com/kohnish/vim9-fuzzy | 0 | 0| 
+| 20211219T11:40:14Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
+| 20211219T11:14:55Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 7 | 0| 
+| 20211219T11:04:20Z | Null | https://github.com/ys-zhang/filter-fuzz | 0 | 0| 
+| 20211219T10:39:53Z | Null | https://github.com/patriotsec/fuzzereye | 0 | 0| 
 
 
 
