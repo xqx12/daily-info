@@ -56,16 +56,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211219T13:47:39Z | Log4j Zero-Day Exploit | https://github.com/rajasoun/log4j-zero-day-exploit | 0 | 1| 
+| 20211219T14:12:05Z | Patch for Waterfall to improve performance during attacks and fix memory issues. | https://github.com/2lstudios-mc/FlameCord | 89 | 45| 
+| 20211219T14:09:17Z | Log4j Zero-Day Exploit | https://github.com/rajasoun/log4j-zero-day-exploit | 0 | 1| 
+| 20211219T14:03:21Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 38 | 20| 
+| 20211219T14:03:10Z | *Well documented* scripts exploiting some useful UNIX utilities. | https://github.com/chhajedji/scripts | 8 | 1| 
 | 20211219T13:44:57Z | Cover your tracks during Linux Exploitation by leaving zero traces on system logs and filesystem timestamps. 👻🐚 | https://github.com/mufeedvh/moonwalk | 5 | 0| 
 | 20211219T13:29:32Z | Ethernaut exploits - Write-ups and contracts | https://github.com/H0tmilk/OZ-Ethernaut-exploits | 0 | 0| 
 | 20211219T13:22:29Z | Write-up and exploit of tfUSD (TrueFi ) 50M worth of bug. | https://github.com/Jonah246/tfusd-flashloan-attack-write-up | 7 | 3| 
-| 20211219T13:03:07Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 38 | 20| 
 | 20211219T12:42:05Z | IP addresses exploiting recent log4j2 vulnerability CVE-2021-44228  | https://github.com/Malwar3Ninja/Exploitation-of-Log4j2-CVE-2021-44228 | 8 | 3| 
 | 20211219T12:37:33Z | Null | https://github.com/prodigiousMind/log4j-exploit-RCE-by-ReverseShell | 0 | 0| 
 | 20211219T12:32:09Z | X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter | https://github.com/Moham3dRiahi/XAttacker | 1054 | 457| 
-| 20211219T12:27:58Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 2675 | 406| 
-| 20211219T12:23:11Z | iblessing is an iOS security exploiting toolkit, it mainly includes application information gathering, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining. | https://github.com/Soulghost/iblessing | 431 | 64| 
 
 
 # backdoor on Github 推荐
@@ -92,8 +92,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211219T14:02:02Z | Emulation based snapshot fuzzer | https://github.com/jaoeul/gingersnap | 0 | 0| 
 | 20211219T13:46:43Z | SQLiToolkit is a SQL injection Based Toolkit. There are many features such as Vulnerability Scanner, Url Fuzzer in this tool. This is a User-Friendly but Quite Powerful Tool for you Pentesting.. | https://github.com/Toxic-Noob/SQLiToolkit | 0 | 0| 
-| 20211219T13:36:47Z | Emulation based snapshot fuzzer | https://github.com/jaoeul/gingersnap | 0 | 0| 
 | 20211219T13:20:57Z | Implementation of the optimal fuzzy partition with centers placing as Voronoi diagrams. | https://github.com/Danleb/OptimalFuzzyPartition | 1 | 0| 
 | 20211219T13:16:39Z | Magistry fuzzy logic homework | https://github.com/Jexperto/fuzzy_logic_project | 0 | 0| 
 | 20211219T13:12:31Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
