@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211219T13:47:07Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
+| 20211219T13:48:41Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
 | 20211219T12:42:05Z | CVE-2021-44228 | IP addresses exploiting recent log4j2 vulnerability CVE-2021-44228  | https://github.com/Malwar3Ninja/Exploitation-of-Log4j2-CVE-2021-44228 | | 
 | 20211219T12:09:01Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211219T12:00:07Z | CVE-2021-44228 | Null | https://github.com/tobiasoed/log4j-CVE-2021-44228 | | 
@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211219T13:47:39Z | Log4j Zero-Day Exploit | https://github.com/rajasoun/log4j-zero-day-exploit | 0 | 1| 
 | 20211219T13:44:57Z | Cover your tracks during Linux Exploitation by leaving zero traces on system logs and filesystem timestamps. 👻🐚 | https://github.com/mufeedvh/moonwalk | 5 | 0| 
 | 20211219T13:29:32Z | Ethernaut exploits - Write-ups and contracts | https://github.com/H0tmilk/OZ-Ethernaut-exploits | 0 | 0| 
 | 20211219T13:22:29Z | Write-up and exploit of tfUSD (TrueFi ) 50M worth of bug. | https://github.com/Jonah246/tfusd-flashloan-attack-write-up | 7 | 3| 
@@ -99,7 +100,6 @@
 | 20211219T12:32:09Z | X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter | https://github.com/Moham3dRiahi/XAttacker | 1054 | 457| 
 | 20211219T12:27:58Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 2675 | 406| 
 | 20211219T12:23:11Z | iblessing is an iOS security exploiting toolkit, it mainly includes application information gathering, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining. | https://github.com/Soulghost/iblessing | 431 | 64| 
-| 20211219T12:05:01Z | Check, exploit, obfuscate, TLS, ACME about log4j2 vulnerability in one Go program. | https://github.com/For-ACGN/Log4Shell | 10 | 5| 
 
 
 # backdoor on Github 推荐
