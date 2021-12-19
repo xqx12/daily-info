@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211219T02:56:07Z | cve-2021-44228 | Hot-patch CVE-2021-44228 by exploiting the vulnerability itself. | https://github.com/qingtengyun/cve-2021-44228-qingteng-online-patch | | 
 | 20211219T02:42:34Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211219T02:40:47Z | CVE-2021-44228 | 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - A trick to bypass words blocking patches | https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words | | 
 | 20211219T02:03:31Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
@@ -54,7 +55,6 @@
 | 20211218T19:27:43Z | CVE-2021-44228 | Null | https://github.com/b-abderrahmane/CVE-2021-44228-playground | | 
 | 20211218T17:13:29Z | CVE-2021-44228 | Null | https://github.com/111coding/log4j_temp_CVE-2021-44228 | | 
 | 20211218T15:32:08Z | CVE-2021-44228 | An attempt to understand the log4j vulnerability by looking through the code | https://github.com/shivakumarjayaraman/log4jvulnerability-CVE-2021-44228 | | 
-| 20211218T15:31:12Z | cve-2021-44228 | Hot-patch CVE-2021-44228 by exploiting the vulnerability itself. | https://github.com/qingtengyun/cve-2021-44228-qingteng-online-patch | | 
 | 20211218T15:22:55Z | CVE-2021-44228 | Null | https://github.com/VerveIndustrialProtection/CVE-2021-44228-Log4j | | 
 
 

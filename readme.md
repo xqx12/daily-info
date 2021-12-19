@@ -21,12 +21,12 @@
 | 20211218T19:27:43Z | CVE-2021-44228 | Null | https://github.com/b-abderrahmane/CVE-2021-44228-playground | | 
 | 20211218T17:13:29Z | CVE-2021-44228 | Null | https://github.com/111coding/log4j_temp_CVE-2021-44228 | | 
 | 20211218T15:32:08Z | CVE-2021-44228 | An attempt to understand the log4j vulnerability by looking through the code | https://github.com/shivakumarjayaraman/log4jvulnerability-CVE-2021-44228 | | 
-| 20211218T15:31:12Z | cve-2021-44228 | Hot-patch CVE-2021-44228 by exploiting the vulnerability itself. | https://github.com/qingtengyun/cve-2021-44228-qingteng-online-patch | | 
 | 20211218T15:22:55Z | CVE-2021-44228 | Null | https://github.com/VerveIndustrialProtection/CVE-2021-44228-Log4j | | 
 | 20211218T15:09:52Z | CVE-2021-44228 | Patch Pulsar Docker images with Log4J 2.17.0 update to mitigate Apache Log4J Security Vulnerabilities including Log4Shell | https://github.com/lhotari/pulsar-docker-images-patch-CVE-2021-44228 | | 
 | 20211218T14:34:42Z | CVE-2021-45105 | Null | https://github.com/pravin-pp/log4j2-CVE-2021-45105 | | 
 | 20211218T14:08:28Z | CVE-2021-44228 | Self-contained lab environment that runs the exploit safely, all from docker compose | https://github.com/j3kz/CVE-2021-44228-PoC | | 
 | 20211218T13:45:28Z | cve-2021-44228 | Null | https://github.com/Nikolas-Charalambidis/cve-2021-44228 | | 
+| 20211218T13:16:37Z | CVE-2021-44228 | Log4Shell Proof of Concept (CVE-2021-44228) | https://github.com/Kr0ff/CVE-2021-44228 | | 
 
 
 # klee on Github 推荐
