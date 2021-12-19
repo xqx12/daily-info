@@ -144,6 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211219T13:16:39Z | Magistry fuzzy logic homework | https://github.com/Jexperto/fuzzy_logic_project | 0 | 0| 
 | 20211219T13:12:31Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211219T13:01:31Z | fuzzer | https://github.com/reusee/fz | 3 | 1| 
 | 20211219T12:56:58Z | Null | https://github.com/EOTM555/fuzzy-robot | 0 | 0| 
@@ -153,7 +154,6 @@
 | 20211219T11:55:31Z | Asynchronous fuzzy finder in vim9script | https://github.com/kohnish/vim9-fuzzy | 0 | 0| 
 | 20211219T11:40:14Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20211219T11:14:55Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 7 | 0| 
-| 20211219T11:04:20Z | Null | https://github.com/ys-zhang/filter-fuzz | 0 | 0| 
 
 
 
