@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211219T13:18:11Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
+| 20211219T13:47:07Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
 | 20211219T12:42:05Z | CVE-2021-44228 | IP addresses exploiting recent log4j2 vulnerability CVE-2021-44228  | https://github.com/Malwar3Ninja/Exploitation-of-Log4j2-CVE-2021-44228 | | 
 | 20211219T12:09:01Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211219T12:00:07Z | CVE-2021-44228 | Null | https://github.com/tobiasoed/log4j-CVE-2021-44228 | | 
@@ -92,7 +92,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211219T13:43:26Z | SQLiToolkit is a SQL injection Based Toolkit. There are many features such as Vulnerability Scanner, Url Fuzzer in this tool. This is a User-Friendly but Quite Powerful Tool for you Pentesting.. | https://github.com/Toxic-Noob/SQLiToolkit | 0 | 0| 
+| 20211219T13:46:43Z | SQLiToolkit is a SQL injection Based Toolkit. There are many features such as Vulnerability Scanner, Url Fuzzer in this tool. This is a User-Friendly but Quite Powerful Tool for you Pentesting.. | https://github.com/Toxic-Noob/SQLiToolkit | 0 | 0| 
 | 20211219T13:36:47Z | Emulation based snapshot fuzzer | https://github.com/jaoeul/gingersnap | 0 | 0| 
 | 20211219T13:20:57Z | Implementation of the optimal fuzzy partition with centers placing as Voronoi diagrams. | https://github.com/Danleb/OptimalFuzzyPartition | 1 | 0| 
 | 20211219T13:16:39Z | Magistry fuzzy logic homework | https://github.com/Jexperto/fuzzy_logic_project | 0 | 0| 
