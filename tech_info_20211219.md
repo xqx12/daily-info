@@ -62,10 +62,10 @@
 | 20211219T12:37:33Z | Null | https://github.com/prodigiousMind/log4j-exploit-RCE-by-ReverseShell | 0 | 0| 
 | 20211219T12:32:09Z | X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter | https://github.com/Moham3dRiahi/XAttacker | 1054 | 457| 
 | 20211219T12:27:58Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 2675 | 406| 
+| 20211219T12:23:11Z | iblessing is an iOS security exploiting toolkit, it mainly includes application information gathering, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining. | https://github.com/Soulghost/iblessing | 431 | 64| 
 | 20211219T12:05:01Z | Check, exploit, obfuscate, TLS, ACME about log4j2 vulnerability in one Go program. | https://github.com/For-ACGN/Log4Shell | 10 | 5| 
 | 20211219T12:01:09Z | Project to optimize the exploitation transition phase in AFLGo | https://github.com/goodtaeeun/FuzzFrame | 0 | 1| 
-| 20211219T12:00:01Z | Application trying to detect processes vulnerable to log4j JNDI exploit | https://github.com/clems4ever/log4j-jndi-jar-detector | 0 | 0| 
-| 20211219T11:59:44Z | A scanner/exploitation tool written in GO, which leverages client-side Prototype Pollution to XSS by exploiting known gadgets. | https://github.com/kleiton0x00/ppmap | 261 | 34| 
+| 20211219T12:00:04Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 647 | 112| 
 
 
 # backdoor on Github 推荐
