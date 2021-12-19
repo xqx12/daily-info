@@ -56,6 +56,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211219T13:29:32Z | Ethernaut exploits - Write-ups and contracts | https://github.com/H0tmilk/OZ-Ethernaut-exploits | 0 | 0| 
 | 20211219T13:22:29Z | Write-up and exploit of tfUSD (TrueFi ) 50M worth of bug. | https://github.com/Jonah246/tfusd-flashloan-attack-write-up | 7 | 3| 
 | 20211219T13:12:12Z | Cover your tracks during Linux Exploitation by leaving zero traces on system logs and filesystem timestamps. 👻🐚 | https://github.com/mufeedvh/moonwalk | 4 | 0| 
 | 20211219T13:03:07Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 38 | 20| 
@@ -65,7 +66,6 @@
 | 20211219T12:27:58Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 2675 | 406| 
 | 20211219T12:23:11Z | iblessing is an iOS security exploiting toolkit, it mainly includes application information gathering, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining. | https://github.com/Soulghost/iblessing | 431 | 64| 
 | 20211219T12:05:01Z | Check, exploit, obfuscate, TLS, ACME about log4j2 vulnerability in one Go program. | https://github.com/For-ACGN/Log4Shell | 10 | 5| 
-| 20211219T12:01:09Z | Project to optimize the exploitation transition phase in AFLGo | https://github.com/goodtaeeun/FuzzFrame | 0 | 1| 
 
 
 # backdoor on Github 推荐
