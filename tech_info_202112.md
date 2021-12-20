@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211220T02:11:54Z | fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | 0 | 0| 
 | 20211220T02:03:47Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 39 | 20| 
 | 20211220T01:57:10Z | Null | https://github.com/dracoanguis/Systeme-Exploitation | 0 | 0| 
 | 20211220T01:43:09Z | WIP Post-exploitation framework tailored for hypervisors. | https://github.com/Psmths/reave | 0 | 0| 
@@ -99,7 +100,6 @@
 | 20211220T00:50:50Z | We propose Deep Kronecker Neural Network, which is a general framework for neural networks with adaptive activation functions. In particular we proposed Rowdy activation functions that inject sinusoidal fluctuations thereby allows the optimizer to exploit more and train the network faster. Various test cases ranging from function approximation, inferring the PDE solution, and the standard deep learning benchmarks like MNIST, CIFAR-10, CIFAR-100, SVHN etc are solved to show the efficacy of the proposed activation functions. | https://github.com/AmeyaJagtap/Rowdy_Activation_Functions | 1 | 2| 
 | 20211220T00:21:10Z | Resources for Windows exploit development | https://github.com/FULLSHADE/WindowsExploitationResources | 784 | 179| 
 | 20211219T23:56:49Z | A Simple Exploit Fixer plugin that aims to fix most lag machines  | https://github.com/KRYMZ0N/SimpleExploitFixer | 3 | 0| 
-| 20211219T23:48:34Z | Learn Binary Exploitation with sample problems. | https://github.com/Adamkadaban/LearnPwn | 1 | 0| 
 
 
 # backdoor on Github 推荐
