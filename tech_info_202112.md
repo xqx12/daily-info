@@ -144,6 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211220T02:43:15Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4649 | 475| 
 | 20211220T02:38:25Z | Null | https://github.com/yasminekat/fuzzy-octo-potato | 0 | 0| 
 | 20211220T02:26:53Z | Best Weather App | https://github.com/steepllama/fuzzy-weather | 0 | 0| 
 | 20211220T02:26:24Z | 僕の卒業論文 | https://github.com/yoshiyoshiharu/oblique-fuzzy-vector-mrp | 0 | 0| 
@@ -153,7 +154,6 @@
 | 20211220T01:13:32Z | Fuzzing concurrent Go programs | https://github.com/system-pclub/GFuzz | 5 | 1| 
 | 20211220T00:48:43Z | Null | https://github.com/Eli-coding/fuzzy-quiz | 0 | 0| 
 | 20211219T23:37:35Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
-| 20211219T23:17:11Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 322 | 45| 
 
 
 
