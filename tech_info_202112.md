@@ -105,6 +105,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211220T02:27:05Z | Remote control software, supported Windows/Unix/MacOS/Linux(x86/x64/mips/arm) | https://github.com/h1zzz/purewater | 5 | 0| 
 | 20211219T22:25:19Z | A old gmod backdoor Web Panel in PHP (Big GBackdoor Modification) | https://github.com/Reiko69420/GblHackdoor | 0 | 1| 
 | 20211219T20:44:06Z | Reverse shell for log4j | https://github.com/divy-nsh/backdoor_log4j | 0 | 0| 
 | 20211219T16:46:50Z | Codebase for my Level 4 University Project: Static Analysis of Executable Code to Detect Backdoors on IoT Devices | https://github.com/sophieboyle/Symbolic-Execution-for-ARM-Backdoor-Detection | 0 | 0| 
@@ -114,7 +115,6 @@
 | 20211219T04:30:42Z | My personal unique wiki for hacking the router firmware used by (Telia)TG799vac Xtream v17.2-MINT delivered from Technicolor  | https://github.com/wuseman/TG799VAC-XTREME-17.2-MINT | 65 | 18| 
 | 20211218T21:16:14Z | This program is an non-object oriented opensource, hidden and undetectable backdoor/reverse shell/RAT for Windows made in Python 3 which contains many features such as multi-client support and cross-platform server. | https://github.com/xp4xbox/Python-Backdoor | 469 | 169| 
 | 20211218T18:36:45Z | A Hidden and Undetectable Remote Access Tool written in C++ and Server in Python3 | https://github.com/anonlo-rw/Windows-Backdoor | 20 | 7| 
-| 20211218T18:25:07Z | Null | https://github.com/iamchinook/backdoors | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
