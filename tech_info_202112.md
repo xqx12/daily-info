@@ -90,7 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211220T01:34:20Z | PS-Phwoar! Alpha Version Exploit Host Menu for 5.05 FW with GoldHEN v2.0b Coded by SiSTRo  | https://github.com/DTMExploits/DTMExploits.github.io | 0 | 0| 
+| 20211220T01:38:26Z | PS-Phwoar! Alpha Version Exploit Host Menu for 5.05 FW with GoldHEN v2.0b2 Coded by SiSTRo  | https://github.com/DTMExploits/DTMExploits.github.io | 0 | 0| 
 | 20211220T01:26:07Z | PS4 9.00 Firmware Exploit Host | https://github.com/KameleonReloaded/900V4B | 1 | 5| 
 | 20211220T01:15:09Z | Today, IoT devices have become more adopted in the general population. People today are more connected than ever before since the dawn of history. The widespread existence and sensitive data involved render Internet-connected devices a privileged attack target for hackers. This paper investigates the non-invasive physical attacks against IoT devices, especially focusing on exploiting the debug interface left open after manufacture and exposing memory bus vulnerable to bus probing attacks. We illustrate such a kind of attack could be committed by a normal person with entry-level knowledge and inexpensive equipment. | https://github.com/6H-JS/6H-JS.github.io | 0 | 0| 
 | 20211220T01:03:30Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 39 | 20| 
