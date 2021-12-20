@@ -76,7 +76,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211219T22:38:46Z | CRAX++: software CRash analysis for Automatic eXploit generation | https://github.com/aesophor/CRAXplusplus | 26 | 3| 
+| 20211220T02:53:43Z | CRAX++: software CRash analysis for Automatic eXploit generation | https://github.com/aesophor/CRAXplusplus | 26 | 3| 
 | 20211219T09:57:32Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 192 | 41| 
 | 20211218T16:24:46Z | Null | https://github.com/saku31114/s2explab | 0 | 0| 
 | 20211218T03:16:22Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 79 | 34| 
@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211220T02:53:43Z | CRAX++: software CRash analysis for Automatic eXploit generation | https://github.com/aesophor/CRAXplusplus | 26 | 3| 
 | 20211220T02:19:38Z | Fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | 0 | 0| 
 | 20211220T02:03:47Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 39 | 20| 
 | 20211220T01:57:10Z | Null | https://github.com/dracoanguis/Systeme-Exploitation | 0 | 0| 
@@ -99,7 +100,6 @@
 | 20211220T01:15:09Z | Today, IoT devices have become more adopted in the general population. People today are more connected than ever before since the dawn of history. The widespread existence and sensitive data involved render Internet-connected devices a privileged attack target for hackers. This paper investigates the non-invasive physical attacks against IoT devices, especially focusing on exploiting the debug interface left open after manufacture and exposing memory bus vulnerable to bus probing attacks. We illustrate such a kind of attack could be committed by a normal person with entry-level knowledge and inexpensive equipment. | https://github.com/6H-JS/6H-JS.github.io | 0 | 0| 
 | 20211220T00:50:50Z | We propose Deep Kronecker Neural Network, which is a general framework for neural networks with adaptive activation functions. In particular we proposed Rowdy activation functions that inject sinusoidal fluctuations thereby allows the optimizer to exploit more and train the network faster. Various test cases ranging from function approximation, inferring the PDE solution, and the standard deep learning benchmarks like MNIST, CIFAR-10, CIFAR-100, SVHN etc are solved to show the efficacy of the proposed activation functions. | https://github.com/AmeyaJagtap/Rowdy_Activation_Functions | 1 | 2| 
 | 20211220T00:21:10Z | Resources for Windows exploit development | https://github.com/FULLSHADE/WindowsExploitationResources | 784 | 179| 
-| 20211219T23:56:49Z | A Simple Exploit Fixer plugin that aims to fix most lag machines  | https://github.com/KRYMZ0N/SimpleExploitFixer | 3 | 0| 
 
 
 # backdoor on Github 推荐
