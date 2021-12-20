@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211220T02:57:52Z | CVE-2021-21315 | rust noob tried write exploit code with rust lang | https://github.com/Ki11i0n4ir3/CVE-2021-21315 | | 
 | 20211220T02:40:18Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
 | 20211220T02:21:00Z | CVE-2021-45105 | Log4j_dos_CVE-2021-45105 | https://github.com/cckuailong/Log4j_dos_CVE-2021-45105 | | 
 | 20211220T01:44:22Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
@@ -55,7 +56,6 @@
 | 20211219T23:28:13Z | CVE-2021-44228 | Null | https://github.com/helsecert/CVE-2021-44228 | | 
 | 20211219T21:42:34Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
 | 20211219T20:51:38Z | CVE-2021-44228 | Null | https://github.com/b-abderrahmane/CVE-2021-44228-playground | | 
-| 20211219T20:20:55Z | CVE-2021-44228 | CVE-2021-44228 demo webapp | https://github.com/MkTech-0-8YT3/CVE-2021-44228 | | 
 
 
 # klee on Github 推荐
@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211220T02:57:52Z | rust noob tried write exploit code with rust lang | https://github.com/Ki11i0n4ir3/CVE-2021-21315 | 1 | 0| 
 | 20211220T02:53:43Z | CRAX++: software CRash analysis for Automatic eXploit generation | https://github.com/aesophor/CRAXplusplus | 26 | 3| 
 | 20211220T02:19:38Z | Fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | 0 | 0| 
 | 20211220T02:03:47Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 39 | 20| 
@@ -99,7 +100,6 @@
 | 20211220T01:26:07Z | PS4 9.00 Firmware Exploit Host | https://github.com/KameleonReloaded/900V4B | 1 | 5| 
 | 20211220T01:15:09Z | Today, IoT devices have become more adopted in the general population. People today are more connected than ever before since the dawn of history. The widespread existence and sensitive data involved render Internet-connected devices a privileged attack target for hackers. This paper investigates the non-invasive physical attacks against IoT devices, especially focusing on exploiting the debug interface left open after manufacture and exposing memory bus vulnerable to bus probing attacks. We illustrate such a kind of attack could be committed by a normal person with entry-level knowledge and inexpensive equipment. | https://github.com/6H-JS/6H-JS.github.io | 0 | 0| 
 | 20211220T00:50:50Z | We propose Deep Kronecker Neural Network, which is a general framework for neural networks with adaptive activation functions. In particular we proposed Rowdy activation functions that inject sinusoidal fluctuations thereby allows the optimizer to exploit more and train the network faster. Various test cases ranging from function approximation, inferring the PDE solution, and the standard deep learning benchmarks like MNIST, CIFAR-10, CIFAR-100, SVHN etc are solved to show the efficacy of the proposed activation functions. | https://github.com/AmeyaJagtap/Rowdy_Activation_Functions | 1 | 2| 
-| 20211220T00:21:10Z | Resources for Windows exploit development | https://github.com/FULLSHADE/WindowsExploitationResources | 784 | 179| 
 
 
 # backdoor on Github 推荐
@@ -144,9 +144,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211220T02:57:26Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4648 | 475| 
 | 20211220T02:47:58Z | Best Weather App | https://github.com/steepllama/fuzzy-weather | 0 | 0| 
 | 20211220T02:46:27Z | Null | https://github.com/chujDK/fuzz_a_byteview | 0 | 0| 
-| 20211220T02:43:15Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4649 | 475| 
 | 20211220T02:38:25Z | Null | https://github.com/yasminekat/fuzzy-octo-potato | 0 | 0| 
 | 20211220T02:26:24Z | 僕の卒業論文 | https://github.com/yoshiyoshiharu/oblique-fuzzy-vector-mrp | 0 | 0| 
 | 20211220T02:16:42Z |    USBFuzz: A Framework for Fuzzing USB Drivers by Device Emulation Authors:  Hui Peng, Purdue University; Mathias Payer, EPFL  Abstract:  The Universal Serial Bus (USB) connects external devices to a host. This interface exposes the OS kernels and device drivers to attacks by malicious devices. Unfortunately, kernels and drivers were developed under a security model that implicitly trusts connected devices. Drivers expect faulty hardware but not malicious attacks. Similarly, security testing drivers is challenging as input must cross the hardware/software barrier. Fuzzing, the most widely used bug finding technique, relies on providing random data to programs. However, fuzzing device drivers is challenging due to the difficulty in crossing the hardware/software barrier and providing random device data to the driver under test.  We present USBFuzz, a portable, flexible, and modular framework for fuzz testing USB drivers. At its core, USBFuzz uses a software-emulated USB device to provide random device data to drivers (when they perform IO operations). As the emulated USB device works at the device level, porting it to other platforms is straight-forward. Using the USBFuzz framework, we apply (i) coverage-guided fuzzing to a broad range of USB drivers in the Linux kernel; (ii) dumb fuzzing in FreeBSD, MacOS, and Windows through cross pollination seeded by the Linux inputs; and (iii) focused fuzzing of a USB webcam driver. USBFuzz discovered a total of 26 new bugs, including 16 memory bugs of high security impact in various Linux subsystems (USB core, USB sound, and network), one bug in FreeBSD, three in MacOS (two resulting in an unplanned reboot and one freezing the system), and four in Windows 8 and Windows 10 (resulting in Blue Screens of Death), and one bug in the Linux USB host controller driver and another one in a USB camera driver. From the Linux bugs, we have fixed and upstreamed 11 bugs and received 10 CVEs. | https://github.com/Mario-Kart-Felix/driver-for-fuzzer | 0 | 0| 
