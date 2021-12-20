@@ -145,6 +145,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211220T13:48:29Z | A machine learning model and fuzzy logic model to predict the target variable of QSAR Biodegradation dataset | https://github.com/Thanish09/Machine-Learning-Fuzzy-Logic | 0 | 0| 
 | 20211220T13:34:37Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6952 | 1453| 
 | 20211220T13:23:32Z | bash script to run from installation media to setup gentoo automagically | https://github.com/fjp321/fuzzy-goggles | 0 | 0| 
 | 20211220T13:05:35Z | Planning tool | https://github.com/HappyDustbunny/FuzzyPlan | 1 | 0| 
@@ -154,7 +155,6 @@
 | 20211220T12:45:39Z | Null | https://github.com/Clearymk/TypeScriptFuzzer | 0 | 1| 
 | 20211220T12:27:43Z | SQLiToolkit is a SQL injection Based Toolkit. There are many features such as Vulnerability Scanner, Url Fuzzer in this tool. This is a User-Friendly but Quite Powerful Tool for you Pentesting.. | https://github.com/Toxic-Noob/SQLiToolkit | 0 | 0| 
 | 20211220T12:10:13Z | Experimental Data for the paper %A Fuzzy Model Predictive Controller for Stick-Slip Type Piezoelectric Actuators% | https://github.com/imacarrot/A-Fuzzy-Model-Predictive-Controller-for-Stick-Slip-Type-Piezoelectric-Actuators | 0 | 0| 
-| 20211220T12:02:26Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 39 | 12| 
 
 
 
