@@ -45,6 +45,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211220T13:03:18Z | Application trying to detect processes vulnerable to log4j JNDI exploit | https://github.com/criteo/log4j-jndi-jar-detector | 2 | 0| 
+| 20211220T13:03:06Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 39 | 20| 
 | 20211220T13:00:29Z | Cover your tracks during Linux Exploitation by leaving zero traces on system logs and filesystem timestamps. 👻🐚 | https://github.com/mufeedvh/moonwalk | 81 | 1| 
 | 20211220T12:53:42Z | Powershell script to check log files for Log4Shell exploitation | https://github.com/ValtteriL/Detect-Log4Shell | 2 | 1| 
 | 20211220T12:52:05Z | Computer Network Exploitation (CNE) Field Manual | https://github.com/mzet-/z-field-manual | 5 | 3| 
@@ -53,8 +55,6 @@
 | 20211220T12:30:03Z | log4j2 dos exploit,CVE-2021-45105 exploit,Denial of Service poc | https://github.com/iAmSOScArEd/log4j2_dos_exploit | 0 | 0| 
 | 20211220T12:17:31Z | Demo Project for the Log4j vulnerability | https://github.com/predic8/log4j-log4shell-exploit | 0 | 0| 
 | 20211220T12:15:16Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 260 | 78| 
-| 20211220T12:03:57Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 39 | 20| 
-| 20211220T12:02:22Z | A simple Python Exploit to Write Data to Insecure/vulnerable firebase databases! Commonly found inside Mobile Apps. If the owner of the app have set the security rules as true for both %read% & %write% an attacker can probably dump database and write his own data to firebase db. | https://github.com/MuhammadKhizerJaved/Insecure-Firebase-Exploit | 154 | 56| 
 
 
 # backdoor on Github 推荐
