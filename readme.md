@@ -28,7 +28,6 @@
 | --- | --- | --- | --- | ---| 
 | 20211219T23:50:00Z | CVE-2021-45105 | Replicating CVE-2021-45105 | https://github.com/tejas-nagchandi/CVE-2021-45105 | | 
 | 20211219T23:28:13Z | CVE-2021-44228 | Null | https://github.com/helsecert/CVE-2021-44228 | | 
-| 20211219T23:17:24Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
 | 20211219T21:42:34Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
 | 20211219T20:51:38Z | CVE-2021-44228 | Null | https://github.com/b-abderrahmane/CVE-2021-44228-playground | | 
 | 20211219T20:20:55Z | CVE-2021-44228 | CVE-2021-44228 demo webapp | https://github.com/MkTech-0-8YT3/CVE-2021-44228 | | 
@@ -36,6 +35,7 @@
 | 20211219T19:56:12Z | CVE-2021-44228 | Null | https://github.com/maxant/log4j2-CVE-2021-44228 | | 
 | 20211219T16:15:10Z | CVE-2021-44228 | Log4Shell (CVE-2021-44228): Descrizione, Exploitation e Rimedi | https://github.com/zane00/CVE-2021-44228 | | 
 | 20211219T15:28:30Z | CVE-2021-45105 | Log4j_dos_CVE-2021-45105 | https://github.com/cckuailong/Log4j_dos_CVE-2021-45105 | | 
+| 20211219T12:42:05Z | CVE-2021-44228 | IP addresses exploiting recent log4j2 vulnerability CVE-2021-44228  | https://github.com/Malwar3Ninja/Exploitation-of-Log4j2-CVE-2021-44228 | | 
 
 
 # klee on Github 推荐

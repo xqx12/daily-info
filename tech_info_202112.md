@@ -46,12 +46,12 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211220T01:32:44Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
 | 20211220T01:29:16Z | CVE-2021-44228 | CVE-2021-44228 on Docker & Podman | https://github.com/ahmad4fifz/CVE-2021-44228 | | 
 | 20211220T01:18:40Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211220T00:53:24Z | CVE-2021-44228 | Null | https://github.com/VerveIndustrialProtection/CVE-2021-44228-Log4j | | 
 | 20211219T23:50:00Z | CVE-2021-45105 | Replicating CVE-2021-45105 | https://github.com/tejas-nagchandi/CVE-2021-45105 | | 
 | 20211219T23:28:13Z | CVE-2021-44228 | Null | https://github.com/helsecert/CVE-2021-44228 | | 
-| 20211219T23:17:24Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
 | 20211219T21:42:34Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
 | 20211219T20:51:38Z | CVE-2021-44228 | Null | https://github.com/b-abderrahmane/CVE-2021-44228-playground | | 
 | 20211219T20:20:55Z | CVE-2021-44228 | CVE-2021-44228 demo webapp | https://github.com/MkTech-0-8YT3/CVE-2021-44228 | | 
