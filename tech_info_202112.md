@@ -144,6 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211220T03:01:28Z | fuzzer | https://github.com/reusee/fz | 3 | 1| 
 | 20211220T02:57:26Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4648 | 475| 
 | 20211220T02:47:58Z | Best Weather App | https://github.com/steepllama/fuzzy-weather | 0 | 0| 
 | 20211220T02:46:27Z | Null | https://github.com/chujDK/fuzz_a_byteview | 0 | 0| 
@@ -153,7 +154,6 @@
 | 20211220T02:14:47Z | Null | https://github.com/TANKIANAUN/FuzzyAssignment | 0 | 0| 
 | 20211220T01:54:46Z | Auto-gen fuzzing wrappers from normal code. Automatically find buggy call sequences, including data races & deadlocks. Supports rich signature types. | https://github.com/thepudds/fzgen | 2 | 0| 
 | 20211220T01:13:32Z | Fuzzing concurrent Go programs | https://github.com/system-pclub/GFuzz | 5 | 1| 
-| 20211220T00:48:43Z | Null | https://github.com/Eli-coding/fuzzy-quiz | 0 | 0| 
 
 
 
