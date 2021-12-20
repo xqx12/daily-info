@@ -6,6 +6,7 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20211219 | Apache Log4j 漏洞对安全社区影响的分析，据 Google 统计，超过 3.5 万个 Java 包受到 log4j 漏洞影响 | https://security.googleblog.com/2021/12/understanding-impact-of-apache-log4j.html| 
 | 20211217 | Android App 逆向分析对抗措施 | https://www.securing.pl/en/prevent-reverse-engineering-re-of-your-android-application/| 
 | 20211217 | RunAsS4U - 无需密码以其他用户身份执行代码的工具（Windows） | https://github.com/diversenok/NtTools/releases/tag/v1.0-RunAsS4U| 
 | 20211217 | CitizenLab 发布间谍攻击分析报告称，有埃及人的手机同时感染了 NSO Pegasus 和 Cytrox Predator 两款间谍软件 | https://citizenlab.ca/2021/12/pegasus-vs-predator-dissidents-doubly-infected-iphone-reveals-cytrox-mercenary-spyware/| 
@@ -25,7 +26,6 @@
 | 20211215 | Android App Hacking Workshop，Google 公开的 Android App 安全研究样例 APK 和 PPT | https://bughunters.google.com/learn/presentations/5783688075542528| 
 | 20211215 | Why is Exposing the Docker Socket a Really Bad Idea | http://blog.quarkslab.com/why-is-exposing-the-docker-socket-a-really-bad-idea.html| 
 | 20211215 | 过去半年中，疑似伊朗 Seedworm 组织发起针对中东和亚洲电信运营商的定向攻击 | https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/espionage-campaign-telecoms-asia-middle-east| 
-| 20211215 | JNDI 注入漏洞的前世今生 | http://evilpan.com/2021/12/13/jndi-injection/| 
 
 
 # 安全维基 推荐
@@ -144,7 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211220T02:13:34Z | Null | https://github.com/TANKIANAUN/FuzzyAssignment | 0 | 0| 
+| 20211220T02:14:47Z | Null | https://github.com/TANKIANAUN/FuzzyAssignment | 0 | 0| 
 | 20211220T02:06:45Z | Null | https://github.com/yasminekat/fuzzy-octo-potato | 0 | 0| 
 | 20211220T01:54:46Z | Auto-gen fuzzing wrappers from normal code. Automatically find buggy call sequences, including data races & deadlocks. Supports rich signature types. | https://github.com/thepudds/fzgen | 2 | 0| 
 | 20211220T01:35:10Z |    USBFuzz: A Framework for Fuzzing USB Drivers by Device Emulation Authors:  Hui Peng, Purdue University; Mathias Payer, EPFL  Abstract:  The Universal Serial Bus (USB) connects external devices to a host. This interface exposes the OS kernels and device drivers to attacks by malicious devices. Unfortunately, kernels and drivers were developed under a security model that implicitly trusts connected devices. Drivers expect faulty hardware but not malicious attacks. Similarly, security testing drivers is challenging as input must cross the hardware/software barrier. Fuzzing, the most widely used bug finding technique, relies on providing random data to programs. However, fuzzing device drivers is challenging due to the difficulty in crossing the hardware/software barrier and providing random device data to the driver under test.  We present USBFuzz, a portable, flexible, and modular framework for fuzz testing USB drivers. At its core, USBFuzz uses a software-emulated USB device to provide random device data to drivers (when they perform IO operations). As the emulated USB device works at the device level, porting it to other platforms is straight-forward. Using the USBFuzz framework, we apply (i) coverage-guided fuzzing to a broad range of USB drivers in the Linux kernel; (ii) dumb fuzzing in FreeBSD, MacOS, and Windows through cross pollination seeded by the Linux inputs; and (iii) focused fuzzing of a USB webcam driver. USBFuzz discovered a total of 26 new bugs, including 16 memory bugs of high security impact in various Linux subsystems (USB core, USB sound, and network), one bug in FreeBSD, three in MacOS (two resulting in an unplanned reboot and one freezing the system), and four in Windows 8 and Windows 10 (resulting in Blue Screens of Death), and one bug in the Linux USB host controller driver and another one in a USB camera driver. From the Linux bugs, we have fixed and upstreamed 11 bugs and received 10 CVEs. | https://github.com/Mario-Kart-Felix/driver-for-fuzzer | 0 | 0| 

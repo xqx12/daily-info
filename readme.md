@@ -6,6 +6,7 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20211219 | Apache Log4j 漏洞对安全社区影响的分析，据 Google 统计，超过 3.5 万个 Java 包受到 log4j 漏洞影响 | https://security.googleblog.com/2021/12/understanding-impact-of-apache-log4j.html| 
 
 
 # 安全维基 推荐
