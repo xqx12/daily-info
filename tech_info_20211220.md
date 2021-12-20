@@ -85,6 +85,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211220T13:05:35Z | Planning tool | https://github.com/HappyDustbunny/FuzzyPlan | 1 | 0| 
+| 20211220T13:05:13Z | A fork of AFL for fuzzing Windows binaries | https://github.com/googleprojectzero/winafl | 1827 | 457| 
 | 20211220T13:00:38Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3841 | 903| 
 | 20211220T12:48:12Z | AFLTeam Collaborative Parallel Fuzzing | https://github.com/MelbourneFuzzingHub/aflteam | 32 | 5| 
 | 20211220T12:45:39Z | Null | https://github.com/Clearymk/TypeScriptFuzzer | 0 | 1| 
@@ -93,8 +95,6 @@
 | 20211220T12:02:26Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 39 | 12| 
 | 20211220T11:56:19Z | Null | https://github.com/Idara1/Fuzzy-Logic | 0 | 0| 
 | 20211220T11:38:19Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
-| 20211220T10:43:59Z | Null | https://github.com/Kush707/fuzzy-robot | 0 | 0| 
-| 20211220T10:39:14Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 
 
 
