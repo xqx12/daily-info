@@ -62,12 +62,12 @@
 | 20211219T23:48:34Z | Learn Binary Exploitation with sample problems. | https://github.com/Adamkadaban/LearnPwn | 1 | 0| 
 | 20211219T23:39:06Z | Null | https://github.com/firedragon9511/SyncBreeze10028Exploit | 0 | 0| 
 | 20211219T23:30:34Z | Cena Ghost Roblox exploit. | https://github.com/boxdev0/cena-ghost | 0 | 0| 
-| 20211219T23:15:37Z | WIP Post-exploitation framework tailored for hypervisors. | https://github.com/Psmths/reave | 0 | 0| 
 | 20211219T23:11:02Z | Null | https://github.com/joeengo/exploiting | 0 | 1| 
 | 20211219T23:08:36Z | Exploit para PS4 automatizado usando una Raspberry Pi Zero W | https://github.com/nosekefik/BongOS-PS4-Rpi-ZW | 0 | 0| 
 | 20211219T23:06:19Z | Exploit kits (or exploit packs) are automated programs used by attackers to exploit known vulnerabilities in systems or applications. | https://github.com/Mario-Kart-Felix/Build-exploits-packages | 0 | 0| 
 | 20211219T22:59:32Z | 😎 Exploiting utility for Roblox. | https://github.com/catboy08/comet | 2 | 0| 
 | 20211219T22:34:34Z | Demo Project for the Log4j vulnerability | https://github.com/predic8/log4j-log4shell-exploit | 0 | 0| 
+| 20211219T22:32:01Z | A peer 2 peer approach to increase price stability and to reduce price manipulation by exploiting non-fundamentals-based volatility | https://github.com/distributed-ledger-technology/vofarm-deno-part | 0 | 0| 
 
 
 # backdoor on Github 推荐
