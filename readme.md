@@ -35,8 +35,8 @@
 | 20211219T20:01:27Z | 未知编号 | Check and report for cve_2021_44228 (log4shell) on your system. | https://github.com/robertdebock/ansible-role-cve_2021_44228 | | 
 | 20211219T19:56:12Z | CVE-2021-44228 | Null | https://github.com/maxant/log4j2-CVE-2021-44228 | | 
 | 20211219T16:15:10Z | CVE-2021-44228 | Log4Shell (CVE-2021-44228): Descrizione, Exploitation e Rimedi | https://github.com/zane00/CVE-2021-44228 | | 
-| 20211219T15:28:30Z | CVE-2021-45105 | Log4j_dos_CVE-2021-45105 | https://github.com/cckuailong/Log4j_dos_CVE-2021-45105 | | 
 | 20211219T12:42:05Z | CVE-2021-44228 | IP addresses exploiting recent log4j2 vulnerability CVE-2021-44228  | https://github.com/Malwar3Ninja/Exploitation-of-Log4j2-CVE-2021-44228 | | 
+| 20211219T12:00:07Z | CVE-2021-44228 | Null | https://github.com/tobiasoed/log4j-CVE-2021-44228 | | 
 
 
 # klee on Github 推荐

@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211220T02:21:00Z | CVE-2021-45105 | Log4j_dos_CVE-2021-45105 | https://github.com/cckuailong/Log4j_dos_CVE-2021-45105 | | 
 | 20211220T01:51:45Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
 | 20211220T01:44:22Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211220T01:43:11Z | CVE-2021-44228 | CVE-2021-44228 on Docker & Podman | https://github.com/ahmad4fifz/CVE-2021-44228 | | 
@@ -55,7 +56,6 @@
 | 20211219T21:42:34Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
 | 20211219T20:51:38Z | CVE-2021-44228 | Null | https://github.com/b-abderrahmane/CVE-2021-44228-playground | | 
 | 20211219T20:20:55Z | CVE-2021-44228 | CVE-2021-44228 demo webapp | https://github.com/MkTech-0-8YT3/CVE-2021-44228 | | 
-| 20211219T20:01:27Z | 未知编号 | Check and report for cve_2021_44228 (log4shell) on your system. | https://github.com/robertdebock/ansible-role-cve_2021_44228 | | 
 
 
 # klee on Github 推荐
@@ -144,7 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211220T02:18:17Z | Null | https://github.com/yasminekat/fuzzy-octo-potato | 0 | 0| 
+| 20211220T02:21:23Z | Null | https://github.com/yasminekat/fuzzy-octo-potato | 0 | 0| 
 | 20211220T02:16:42Z |    USBFuzz: A Framework for Fuzzing USB Drivers by Device Emulation Authors:  Hui Peng, Purdue University; Mathias Payer, EPFL  Abstract:  The Universal Serial Bus (USB) connects external devices to a host. This interface exposes the OS kernels and device drivers to attacks by malicious devices. Unfortunately, kernels and drivers were developed under a security model that implicitly trusts connected devices. Drivers expect faulty hardware but not malicious attacks. Similarly, security testing drivers is challenging as input must cross the hardware/software barrier. Fuzzing, the most widely used bug finding technique, relies on providing random data to programs. However, fuzzing device drivers is challenging due to the difficulty in crossing the hardware/software barrier and providing random device data to the driver under test.  We present USBFuzz, a portable, flexible, and modular framework for fuzz testing USB drivers. At its core, USBFuzz uses a software-emulated USB device to provide random device data to drivers (when they perform IO operations). As the emulated USB device works at the device level, porting it to other platforms is straight-forward. Using the USBFuzz framework, we apply (i) coverage-guided fuzzing to a broad range of USB drivers in the Linux kernel; (ii) dumb fuzzing in FreeBSD, MacOS, and Windows through cross pollination seeded by the Linux inputs; and (iii) focused fuzzing of a USB webcam driver. USBFuzz discovered a total of 26 new bugs, including 16 memory bugs of high security impact in various Linux subsystems (USB core, USB sound, and network), one bug in FreeBSD, three in MacOS (two resulting in an unplanned reboot and one freezing the system), and four in Windows 8 and Windows 10 (resulting in Blue Screens of Death), and one bug in the Linux USB host controller driver and another one in a USB camera driver. From the Linux bugs, we have fixed and upstreamed 11 bugs and received 10 CVEs. | https://github.com/Mario-Kart-Felix/driver-for-fuzzer | 0 | 0| 
 | 20211220T02:14:47Z | Null | https://github.com/TANKIANAUN/FuzzyAssignment | 0 | 0| 
 | 20211220T01:54:46Z | Auto-gen fuzzing wrappers from normal code. Automatically find buggy call sequences, including data races & deadlocks. Supports rich signature types. | https://github.com/thepudds/fzgen | 2 | 0| 
