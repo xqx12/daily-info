@@ -87,7 +87,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211220T13:34:37Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6952 | 1452| 
+| 20211220T13:34:37Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6952 | 1453| 
 | 20211220T13:23:32Z | bash script to run from installation media to setup gentoo automagically | https://github.com/fjp321/fuzzy-goggles | 0 | 0| 
 | 20211220T13:05:35Z | Planning tool | https://github.com/HappyDustbunny/FuzzyPlan | 1 | 0| 
 | 20211220T13:05:13Z | A fork of AFL for fuzzing Windows binaries | https://github.com/googleprojectzero/winafl | 1827 | 457| 
