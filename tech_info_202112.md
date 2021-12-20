@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211220T01:06:52Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
+| 20211220T01:18:40Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211220T00:53:24Z | CVE-2021-44228 | Null | https://github.com/VerveIndustrialProtection/CVE-2021-44228-Log4j | | 
 | 20211219T23:50:00Z | CVE-2021-45105 | Replicating CVE-2021-45105 | https://github.com/tejas-nagchandi/CVE-2021-45105 | | 
 | 20211219T23:28:13Z | CVE-2021-44228 | Null | https://github.com/helsecert/CVE-2021-44228 | | 
