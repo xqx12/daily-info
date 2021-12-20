@@ -145,6 +145,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211220T13:19:50Z | bash script to run from installation media to setup gentoo automagically | https://github.com/fjp321/fuzzy-goggles | 0 | 0| 
 | 20211220T13:05:35Z | Planning tool | https://github.com/HappyDustbunny/FuzzyPlan | 1 | 0| 
 | 20211220T13:05:13Z | A fork of AFL for fuzzing Windows binaries | https://github.com/googleprojectzero/winafl | 1827 | 457| 
 | 20211220T13:00:38Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3841 | 903| 
@@ -154,7 +155,6 @@
 | 20211220T12:10:13Z | Experimental Data for the paper %A Fuzzy Model Predictive Controller for Stick-Slip Type Piezoelectric Actuators% | https://github.com/imacarrot/A-Fuzzy-Model-Predictive-Controller-for-Stick-Slip-Type-Piezoelectric-Actuators | 0 | 0| 
 | 20211220T12:02:26Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 39 | 12| 
 | 20211220T11:56:19Z | Null | https://github.com/Idara1/Fuzzy-Logic | 0 | 0| 
-| 20211220T11:38:19Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 
 
 
