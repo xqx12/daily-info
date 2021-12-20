@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211220T13:04:17Z | Null | https://github.com/Noizeeee/Exploits | 0 | 0| 
 | 20211220T13:03:18Z | Application trying to detect processes vulnerable to log4j JNDI exploit | https://github.com/criteo/log4j-jndi-jar-detector | 2 | 0| 
 | 20211220T13:03:06Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 39 | 20| 
 | 20211220T13:00:29Z | Cover your tracks during Linux Exploitation by leaving zero traces on system logs and filesystem timestamps. 👻🐚 | https://github.com/mufeedvh/moonwalk | 81 | 1| 
@@ -99,7 +100,6 @@
 | 20211220T12:36:59Z | A collection of intelligence about Log4Shell and its exploitation activity.  | https://github.com/curated-intel/Log4Shell-IOCs | 115 | 25| 
 | 20211220T12:30:03Z | log4j2 dos exploit,CVE-2021-45105 exploit,Denial of Service poc | https://github.com/iAmSOScArEd/log4j2_dos_exploit | 0 | 0| 
 | 20211220T12:17:31Z | Demo Project for the Log4j vulnerability | https://github.com/predic8/log4j-log4shell-exploit | 0 | 0| 
-| 20211220T12:15:16Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 260 | 78| 
 
 
 # backdoor on Github 推荐
