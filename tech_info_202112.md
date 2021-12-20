@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211220T02:59:23Z | Collection of Discord hacking tools/fun stuff/exploits that is completely made using NodeJS. | https://github.com/I2rys/ODiscord | 37 | 17| 
 | 20211220T02:57:52Z | rust noob tried write exploit code with rust lang | https://github.com/Ki11i0n4ir3/CVE-2021-21315 | 1 | 0| 
 | 20211220T02:53:43Z | CRAX++: software CRash analysis for Automatic eXploit generation | https://github.com/aesophor/CRAXplusplus | 26 | 3| 
 | 20211220T02:19:38Z | Fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | 0 | 0| 
@@ -99,7 +100,6 @@
 | 20211220T01:38:26Z | PS-Phwoar! Alpha Version Exploit Host Menu for 5.05 FW with GoldHEN v2.0b2 Coded by SiSTRo  | https://github.com/DTMExploits/DTMExploits.github.io | 0 | 0| 
 | 20211220T01:26:07Z | PS4 9.00 Firmware Exploit Host | https://github.com/KameleonReloaded/900V4B | 1 | 5| 
 | 20211220T01:15:09Z | Today, IoT devices have become more adopted in the general population. People today are more connected than ever before since the dawn of history. The widespread existence and sensitive data involved render Internet-connected devices a privileged attack target for hackers. This paper investigates the non-invasive physical attacks against IoT devices, especially focusing on exploiting the debug interface left open after manufacture and exposing memory bus vulnerable to bus probing attacks. We illustrate such a kind of attack could be committed by a normal person with entry-level knowledge and inexpensive equipment. | https://github.com/6H-JS/6H-JS.github.io | 0 | 0| 
-| 20211220T00:50:50Z | We propose Deep Kronecker Neural Network, which is a general framework for neural networks with adaptive activation functions. In particular we proposed Rowdy activation functions that inject sinusoidal fluctuations thereby allows the optimizer to exploit more and train the network faster. Various test cases ranging from function approximation, inferring the PDE solution, and the standard deep learning benchmarks like MNIST, CIFAR-10, CIFAR-100, SVHN etc are solved to show the efficacy of the proposed activation functions. | https://github.com/AmeyaJagtap/Rowdy_Activation_Functions | 1 | 2| 
 
 
 # backdoor on Github 推荐
