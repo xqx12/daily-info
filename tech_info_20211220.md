@@ -46,22 +46,22 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211220T14:03:23Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 39 | 20| 
+| 20211220T14:02:50Z | Cover your tracks during Linux Exploitation by leaving zero traces on system logs and filesystem timestamps. 👻🐚 | https://github.com/mufeedvh/moonwalk | 85 | 2| 
 | 20211220T13:52:49Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 3862 | 1342| 
 | 20211220T13:51:04Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10457 | 1800| 
-| 20211220T13:41:36Z | Cover your tracks during Linux Exploitation by leaving zero traces on system logs and filesystem timestamps. 👻🐚 | https://github.com/mufeedvh/moonwalk | 84 | 2| 
 | 20211220T13:37:43Z | Web exploit development library  | https://github.com/Krishap-s/webpwn | 0 | 0| 
 | 20211220T13:24:14Z | Demo Project for the Log4j vulnerability | https://github.com/predic8/log4j-log4shell-exploit | 1 | 1| 
 | 20211220T13:20:45Z | Provides script to download and format public IP lists related to the Log4j exploit. Current format includes: plain list, Cisco ASA Network Group. | https://github.com/GianlucaUlivi/log4j-firewall-blacklist-builder | 1 | 0| 
 | 20211220T13:15:25Z | Null | https://github.com/NotFoundHacker/Roblox-Exploits | 0 | 0| 
 | 20211220T13:04:17Z | Null | https://github.com/Noizeeee/Exploits | 0 | 0| 
 | 20211220T13:03:18Z | Application trying to detect processes vulnerable to log4j JNDI exploit | https://github.com/criteo/log4j-jndi-jar-detector | 2 | 0| 
-| 20211220T13:03:06Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 39 | 20| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211220T13:38:13Z | Null | https://github.com/leileigan/clean_label_textual_backdoor_attack | 3 | 0| 
+| 20211220T14:10:28Z | Null | https://github.com/leileigan/clean_label_textual_backdoor_attack | 3 | 0| 
 | 20211220T13:01:26Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 398 | 69| 
 | 20211220T10:49:43Z | It%s a socket backdoor, to execute your commands on victims devices  | https://github.com/MaherGebrail/Socket-BackDoor | 0 | 0| 
 | 20211220T10:42:31Z | Remote control software, supported Windows/Unix/MacOS/Linux(x86/x64/mips/arm) | https://github.com/h1zzz/purewater | 5 | 0| 
@@ -88,16 +88,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211220T14:12:09Z | Null | https://github.com/AntoCobRamos2003/fuzzy-funicular.github.io | 0 | 0| 
+| 20211220T14:11:00Z | AFLTeam Collaborative Parallel Fuzzing | https://github.com/MelbourneFuzzingHub/aflteam | 33 | 5| 
+| 20211220T14:07:55Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2446 | 151| 
+| 20211220T14:05:00Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6951 | 1453| 
 | 20211220T13:51:01Z | bash script to run from installation media to setup gentoo automagically | https://github.com/fjp321/fuzzy-goggles | 0 | 0| 
 | 20211220T13:48:29Z | A machine learning model and fuzzy logic model to predict the target variable of QSAR Biodegradation dataset | https://github.com/Thanish09/Machine-Learning-Fuzzy-Logic | 0 | 0| 
-| 20211220T13:34:37Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6952 | 1453| 
 | 20211220T13:05:35Z | Planning tool | https://github.com/HappyDustbunny/FuzzyPlan | 1 | 0| 
 | 20211220T13:05:13Z | A fork of AFL for fuzzing Windows binaries | https://github.com/googleprojectzero/winafl | 1827 | 457| 
 | 20211220T13:00:38Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3841 | 903| 
-| 20211220T12:48:12Z | AFLTeam Collaborative Parallel Fuzzing | https://github.com/MelbourneFuzzingHub/aflteam | 32 | 5| 
 | 20211220T12:45:39Z | Null | https://github.com/Clearymk/TypeScriptFuzzer | 0 | 1| 
-| 20211220T12:27:43Z | SQLiToolkit is a SQL injection Based Toolkit. There are many features such as Vulnerability Scanner, Url Fuzzer in this tool. This is a User-Friendly but Quite Powerful Tool for you Pentesting.. | https://github.com/Toxic-Noob/SQLiToolkit | 0 | 0| 
-| 20211220T12:10:13Z | Experimental Data for the paper %A Fuzzy Model Predictive Controller for Stick-Slip Type Piezoelectric Actuators% | https://github.com/imacarrot/A-Fuzzy-Model-Predictive-Controller-for-Stick-Slip-Type-Piezoelectric-Actuators | 0 | 0| 
 
 
 
