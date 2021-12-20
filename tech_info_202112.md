@@ -6,6 +6,7 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20211220 | 解析(CVE-2021-42287)与(CVE-2021-42278). | https://tttang.com/archive/1380/| 
 | 20211219 | Apache Log4j 漏洞对安全社区影响的分析，据 Google 统计，超过 3.5 万个 Java 包受到 log4j 漏洞影响 | https://security.googleblog.com/2021/12/understanding-impact-of-apache-log4j.html| 
 | 20211219 | Code2flow - 为动态编程语言生成 Call Graphs 的工具，支持 Python, Javascript, Ruby, 以及 PHP. | https://github.com/scottrogowski/code2flow| 
 | 20211219 | C# 编写的内核驱动，用于读写受保护进程的内存 | https://github.com/VollRagm/KernelBypassSharp| 
@@ -25,7 +26,6 @@
 | 20211217 | 从零到一带你深入 log4j2 Jndi RCE CVE-2021-44228漏洞 | http://blog.topsec.com.cn/%e4%bb%8e%e9%9b%b6%e5%88%b0%e4%b8%80%e5%b8%a6%e4%bd%a0%e6%b7%b1%e5%85%a5-log4j2-jndi-rce-cve-2021-44228%e6%bc%8f%e6%b4%9e/| 
 | 20211217 | Jazzer - 基于 libFuzzer 实现的 Fuzz JVM 的工具 | https://sec.today/pulses/8e864257-a413-4d26-97e0-1555faf19770/| 
 | 20211217 | Jazzer - 基于 libFuzzer 实现的 Fuzz JVM 的工具 | https://github.com/CodeIntelligenceTesting/jazzer| 
-| 20211217 | 使用和海莲花相似混淆手法的攻击样本分析 . | https://mp-weixin-qq-com.translate.goog/s/ZpU27cCSKa14aupNcCHcug?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=zh-CN| 
 
 
 # 安全维基 推荐
@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211220T11:25:47Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 3131 | 95| 
+| 20211220T13:22:06Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 3130 | 95| 
 | 20211220T02:13:23Z | Null | https://github.com/lindsayp30/emp_KLEEMEX | 0 | 0| 
 | 20211219T15:56:03Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1851 | 524| 
 | 20211219T15:54:33Z | Null | https://github.com/klee8556/klee8556.github.io | 0 | 0| 
@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211220T13:24:14Z | Demo Project for the Log4j vulnerability | https://github.com/predic8/log4j-log4shell-exploit | 1 | 1| 
 | 20211220T13:20:45Z | Provides script to download and format public IP lists related to the Log4j exploit. Current format includes: plain list, Cisco ASA Network Group. | https://github.com/GianlucaUlivi/log4j-firewall-blacklist-builder | 1 | 0| 
 | 20211220T13:17:18Z | Cover your tracks during Linux Exploitation by leaving zero traces on system logs and filesystem timestamps. 👻🐚 | https://github.com/mufeedvh/moonwalk | 82 | 1| 
 | 20211220T13:15:25Z | Null | https://github.com/NotFoundHacker/Roblox-Exploits | 0 | 0| 
@@ -99,14 +100,13 @@
 | 20211220T12:53:42Z | Powershell script to check log files for Log4Shell exploitation | https://github.com/ValtteriL/Detect-Log4Shell | 2 | 1| 
 | 20211220T12:52:05Z | Computer Network Exploitation (CNE) Field Manual | https://github.com/mzet-/z-field-manual | 5 | 3| 
 | 20211220T12:45:56Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 17| 
-| 20211220T12:36:59Z | A collection of intelligence about Log4Shell and its exploitation activity.  | https://github.com/curated-intel/Log4Shell-IOCs | 115 | 25| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211220T13:25:50Z | Null | https://github.com/leileigan/clean_label_textual_backdoor_attack | 3 | 0| 
 | 20211220T13:01:26Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 398 | 69| 
-| 20211220T12:45:37Z | Null | https://github.com/leileigan/clean_label_textual_backdoor_attack | 3 | 0| 
 | 20211220T10:49:43Z | It%s a socket backdoor, to execute your commands on victims devices  | https://github.com/MaherGebrail/Socket-BackDoor | 0 | 0| 
 | 20211220T10:42:31Z | Remote control software, supported Windows/Unix/MacOS/Linux(x86/x64/mips/arm) | https://github.com/h1zzz/purewater | 5 | 0| 
 | 20211220T10:09:19Z | Null | https://github.com/ccccccc17/trpo_backdoor | 0 | 0| 
@@ -145,7 +145,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211220T13:22:41Z | bash script to run from installation media to setup gentoo automagically | https://github.com/fjp321/fuzzy-goggles | 0 | 0| 
+| 20211220T13:23:32Z | bash script to run from installation media to setup gentoo automagically | https://github.com/fjp321/fuzzy-goggles | 0 | 0| 
 | 20211220T13:05:35Z | Planning tool | https://github.com/HappyDustbunny/FuzzyPlan | 1 | 0| 
 | 20211220T13:05:13Z | A fork of AFL for fuzzing Windows binaries | https://github.com/googleprojectzero/winafl | 1827 | 457| 
 | 20211220T13:00:38Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3841 | 903| 
