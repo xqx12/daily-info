@@ -7,6 +7,12 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20211219 | Apache Log4j 漏洞对安全社区影响的分析，据 Google 统计，超过 3.5 万个 Java 包受到 log4j 漏洞影响 | https://security.googleblog.com/2021/12/understanding-impact-of-apache-log4j.html| 
+| 20211219 | Code2flow - 为动态编程语言生成 Call Graphs 的工具，支持 Python, Javascript, Ruby, 以及 PHP. | https://github.com/scottrogowski/code2flow| 
+| 20211219 | C# 编写的内核驱动，用于读写受保护进程的内存 | https://github.com/VollRagm/KernelBypassSharp| 
+| 20211219 | 不同无线协议（WiFi、蓝牙、LTE）在设备芯片中共存带来的安全攻击面 | https://arxiv.org/pdf/2112.05719.pdf| 
+| 20211219 | Sysmon For Linux 的文档 | https://github.com/Sysinternals/SysmonForLinux/tree/main/doc| 
+| 20211219 | 在 LDAP 环境中探测错误配置攻击面的工具 | https://github.com/SecuProject/ADenum| 
+| 20211219 | Apache Log4j CVE-2021-45105 拒绝服务漏洞的分析 | https://www.zerodayinitiative.com/blog/2021/12/17/cve-2021-45105-denial-of-service-via-uncontrolled-recursion-in-log4j-strsubstitutor| 
 | 20211217 | Android App 逆向分析对抗措施 | https://www.securing.pl/en/prevent-reverse-engineering-re-of-your-android-application/| 
 | 20211217 | RunAsS4U - 无需密码以其他用户身份执行代码的工具（Windows） | https://github.com/diversenok/NtTools/releases/tag/v1.0-RunAsS4U| 
 | 20211217 | CitizenLab 发布间谍攻击分析报告称，有埃及人的手机同时感染了 NSO Pegasus 和 Cytrox Predator 两款间谍软件 | https://citizenlab.ca/2021/12/pegasus-vs-predator-dissidents-doubly-infected-iphone-reveals-cytrox-mercenary-spyware/| 
@@ -20,12 +26,6 @@
 | 20211217 | Jazzer - 基于 libFuzzer 实现的 Fuzz JVM 的工具 | https://github.com/CodeIntelligenceTesting/jazzer| 
 | 20211217 | 使用和海莲花相似混淆手法的攻击样本分析 . | https://mp-weixin-qq-com.translate.goog/s/ZpU27cCSKa14aupNcCHcug?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=zh-CN| 
 | 20211215 | OWASP 发起的一个 “Top 10 Proactive Controls” 项目，用于帮助开发者开发过程中了解防御技术 | http://github.co/3Ewvm9A| 
-| 20211215 | Remote Deserialization Bug in Microsofts RDP Client through Smart Card Extension (CVE-2021-38666) | https://thalium.github.io/blog/posts/deserialization-bug-through-rdp-smart-card-extension/| 
-| 20211215 | 有研究员为前两天爆出的 CVE-2021-42278 (Active Directory Privilege Escalation)漏洞写的 Python 版本 PoC | https://github.com/ly4k/Pachine| 
-| 20211215 | 微软发布 12 月份 Windows 补丁更新 | https://msrc.microsoft.com/update-guide/releaseNote/2021-Dec| 
-| 20211215 | Android App Hacking Workshop，Google 公开的 Android App 安全研究样例 APK 和 PPT | https://bughunters.google.com/learn/presentations/5783688075542528| 
-| 20211215 | Why is Exposing the Docker Socket a Really Bad Idea | http://blog.quarkslab.com/why-is-exposing-the-docker-socket-a-really-bad-idea.html| 
-| 20211215 | 过去半年中，疑似伊朗 Seedworm 组织发起针对中东和亚洲电信运营商的定向攻击 | https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/espionage-campaign-telecoms-asia-middle-east| 
 
 
 # 安全维基 推荐
@@ -144,7 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211220T02:21:23Z | Null | https://github.com/yasminekat/fuzzy-octo-potato | 0 | 0| 
+| 20211220T02:25:15Z | Null | https://github.com/yasminekat/fuzzy-octo-potato | 0 | 0| 
 | 20211220T02:16:42Z |    USBFuzz: A Framework for Fuzzing USB Drivers by Device Emulation Authors:  Hui Peng, Purdue University; Mathias Payer, EPFL  Abstract:  The Universal Serial Bus (USB) connects external devices to a host. This interface exposes the OS kernels and device drivers to attacks by malicious devices. Unfortunately, kernels and drivers were developed under a security model that implicitly trusts connected devices. Drivers expect faulty hardware but not malicious attacks. Similarly, security testing drivers is challenging as input must cross the hardware/software barrier. Fuzzing, the most widely used bug finding technique, relies on providing random data to programs. However, fuzzing device drivers is challenging due to the difficulty in crossing the hardware/software barrier and providing random device data to the driver under test.  We present USBFuzz, a portable, flexible, and modular framework for fuzz testing USB drivers. At its core, USBFuzz uses a software-emulated USB device to provide random device data to drivers (when they perform IO operations). As the emulated USB device works at the device level, porting it to other platforms is straight-forward. Using the USBFuzz framework, we apply (i) coverage-guided fuzzing to a broad range of USB drivers in the Linux kernel; (ii) dumb fuzzing in FreeBSD, MacOS, and Windows through cross pollination seeded by the Linux inputs; and (iii) focused fuzzing of a USB webcam driver. USBFuzz discovered a total of 26 new bugs, including 16 memory bugs of high security impact in various Linux subsystems (USB core, USB sound, and network), one bug in FreeBSD, three in MacOS (two resulting in an unplanned reboot and one freezing the system), and four in Windows 8 and Windows 10 (resulting in Blue Screens of Death), and one bug in the Linux USB host controller driver and another one in a USB camera driver. From the Linux bugs, we have fixed and upstreamed 11 bugs and received 10 CVEs. | https://github.com/Mario-Kart-Felix/driver-for-fuzzer | 0 | 0| 
 | 20211220T02:14:47Z | Null | https://github.com/TANKIANAUN/FuzzyAssignment | 0 | 0| 
 | 20211220T01:54:46Z | Auto-gen fuzzing wrappers from normal code. Automatically find buggy call sequences, including data races & deadlocks. Supports rich signature types. | https://github.com/thepudds/fzgen | 2 | 0| 

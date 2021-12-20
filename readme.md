@@ -7,6 +7,12 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20211219 | Apache Log4j 漏洞对安全社区影响的分析，据 Google 统计，超过 3.5 万个 Java 包受到 log4j 漏洞影响 | https://security.googleblog.com/2021/12/understanding-impact-of-apache-log4j.html| 
+| 20211219 | Code2flow - 为动态编程语言生成 Call Graphs 的工具，支持 Python, Javascript, Ruby, 以及 PHP. | https://github.com/scottrogowski/code2flow| 
+| 20211219 | C# 编写的内核驱动，用于读写受保护进程的内存 | https://github.com/VollRagm/KernelBypassSharp| 
+| 20211219 | 不同无线协议（WiFi、蓝牙、LTE）在设备芯片中共存带来的安全攻击面 | https://arxiv.org/pdf/2112.05719.pdf| 
+| 20211219 | Sysmon For Linux 的文档 | https://github.com/Sysinternals/SysmonForLinux/tree/main/doc| 
+| 20211219 | 在 LDAP 环境中探测错误配置攻击面的工具 | https://github.com/SecuProject/ADenum| 
+| 20211219 | Apache Log4j CVE-2021-45105 拒绝服务漏洞的分析 | https://www.zerodayinitiative.com/blog/2021/12/17/cve-2021-45105-denial-of-service-via-uncontrolled-recursion-in-log4j-strsubstitutor| 
 
 
 # 安全维基 推荐
