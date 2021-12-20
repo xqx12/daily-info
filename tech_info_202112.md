@@ -90,11 +90,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211220T03:03:28Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 39 | 20| 
 | 20211220T02:59:23Z | Collection of Discord hacking tools/fun stuff/exploits that is completely made using NodeJS. | https://github.com/I2rys/ODiscord | 37 | 17| 
 | 20211220T02:57:52Z | rust noob tried write exploit code with rust lang | https://github.com/Ki11i0n4ir3/CVE-2021-21315 | 1 | 0| 
 | 20211220T02:53:43Z | CRAX++: software CRash analysis for Automatic eXploit generation | https://github.com/aesophor/CRAXplusplus | 26 | 3| 
 | 20211220T02:19:38Z | Fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | 0 | 0| 
-| 20211220T02:03:47Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 39 | 20| 
 | 20211220T01:57:10Z | Null | https://github.com/dracoanguis/Systeme-Exploitation | 0 | 0| 
 | 20211220T01:43:09Z | WIP Post-exploitation framework tailored for hypervisors. | https://github.com/Psmths/reave | 0 | 0| 
 | 20211220T01:38:26Z | PS-Phwoar! Alpha Version Exploit Host Menu for 5.05 FW with GoldHEN v2.0b2 Coded by SiSTRo  | https://github.com/DTMExploits/DTMExploits.github.io | 0 | 0| 
@@ -144,7 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211220T03:01:28Z | fuzzer | https://github.com/reusee/fz | 3 | 1| 
+| 20211220T03:04:12Z | fuzzer | https://github.com/reusee/fz | 3 | 1| 
 | 20211220T02:57:26Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4648 | 475| 
 | 20211220T02:47:58Z | Best Weather App | https://github.com/steepllama/fuzzy-weather | 0 | 0| 
 | 20211220T02:46:27Z | Null | https://github.com/chujDK/fuzz_a_byteview | 0 | 0| 
