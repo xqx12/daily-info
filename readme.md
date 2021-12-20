@@ -112,7 +112,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211219T23:41:54Z | Best Weather App | https://github.com/steepllama/fuzzy-weather | 0 | 0| 
 | 20211219T23:37:35Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20211219T23:17:11Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 322 | 45| 
 | 20211219T22:25:35Z | Null | https://github.com/quatros96/fuzzy-pendulum | 0 | 0| 
@@ -122,6 +121,7 @@
 | 20211219T21:32:44Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211219T20:07:32Z | Config files for my GitHub profile. | https://github.com/blasFuzzBall/blasFuzzBall | 0 | 0| 
 | 20211219T19:45:38Z | Test AFL, AFLfast, HonggFuzz, Mopt over 4 different target files with 4 different seed files. | https://github.com/Sneden/Fuzzing-tools | 0 | 0| 
+| 20211219T19:19:38Z | Null | https://github.com/PBearson/FUME-Fuzzing-MQTT-Brokers | 0 | 0| 
 
 
 
