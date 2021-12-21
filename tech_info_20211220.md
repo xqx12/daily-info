@@ -19,7 +19,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211220T23:35:46Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
 | 20211220T22:18:47Z | CVE-2021-44228 | Null | https://github.com/VerveIndustrialProtection/CVE-2021-44228-Log4j | | 
 | 20211220T21:57:23Z | cve-2021-44228 | Log4j Exploit Detection Logic for Zeek | https://github.com/corelight/cve-2021-44228 | | 
 | 20211220T19:25:27Z | CVE-2021-44228 | CVE-2021-44228 demo webapp | https://github.com/MkTech-0-8YT3/CVE-2021-44228 | | 
@@ -29,6 +28,7 @@
 | 20211220T15:43:00Z | CVE-2021-44228 | Windows Batch Scrip to Fix the log4j-issue-CVE-2021-44228 | https://github.com/chandru-gunasekaran/log4j-fix-CVE-2021-44228 | | 
 | 20211220T15:18:30Z | CVE-2021-35448 | Remote Mouse GUI 3.008 - Local Privilege Escalation | https://github.com/LeoBreaker1411/CVE-2021-35448 | | 
 | 20211220T14:50:18Z | CVE-2021-44228 | Log4Shell (CVE-2021-44228): Descrizione, Exploitation e Rimedi | https://github.com/zane00/CVE-2021-44228 | | 
+| 20211220T11:12:22Z | CVE-2021-41730 | Null | https://github.com/IBUILI/CVE-2021-41730 | | 
 
 
 # klee on Github 推荐
