@@ -18,6 +18,7 @@
 | 20211221 | ESFang - 基于 macOS Endpoint Security 框架的威胁检测方案 | https://sec.today/pulses/f9a748cc-a714-4131-8a59-56fbb6eabf92/| 
 | 20211221 | ESFang - 基于 macOS Endpoint Security 框架的威胁检测方案 | http://labs.f-secure.com/blog/esfang-exploring-the-macos-endpoint-security-framework-for-threat-detection/| 
 | 20211221 | 高版本堆tcache 一般利用手法总结(glibc2.27-2.32). | https://tttang.com/archive/1362/| 
+| 20211221 | More Undetected PowerShell Dropper. | http://i5c.us/d28158| 
 
 
 # 安全维基 推荐
