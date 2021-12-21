@@ -16,6 +16,7 @@
 | 20211221 | The Price of Compatibility: Defeating macOS Kernel Using Extended File Attributes | https://i.blackhat.com/asia-21/Friday-Handouts/as-21-Fan-The-Price-Of-Compatibility-Defeating-MacOS-Kernel-Using-Extended-File-Attributes.pdf| 
 | 20211221 | Auerswald PBX 电话交换机被发现固件级后门 | http://blog.redteam-pentesting.de/2021/inside-a-pbx/| 
 | 20211221 | ESFang - 基于 macOS Endpoint Security 框架的威胁检测方案 | https://sec.today/pulses/f9a748cc-a714-4131-8a59-56fbb6eabf92/| 
+| 20211221 | ESFang - 基于 macOS Endpoint Security 框架的威胁检测方案 | http://labs.f-secure.com/blog/esfang-exploring-the-macos-endpoint-security-framework-for-threat-detection/| 
 | 20211220 | 解析(CVE-2021-42287)与(CVE-2021-42278). | https://tttang.com/archive/1380/| 
 | 20211219 | Apache Log4j 漏洞对安全社区影响的分析，据 Google 统计，超过 3.5 万个 Java 包受到 log4j 漏洞影响 | https://security.googleblog.com/2021/12/understanding-impact-of-apache-log4j.html| 
 | 20211219 | Code2flow - 为动态编程语言生成 Call Graphs 的工具，支持 Python, Javascript, Ruby, 以及 PHP. | https://github.com/scottrogowski/code2flow| 
@@ -25,7 +26,6 @@
 | 20211219 | 在 LDAP 环境中探测错误配置攻击面的工具 | https://github.com/SecuProject/ADenum| 
 | 20211219 | Apache Log4j CVE-2021-45105 拒绝服务漏洞的分析 | https://www.zerodayinitiative.com/blog/2021/12/17/cve-2021-45105-denial-of-service-via-uncontrolled-recursion-in-log4j-strsubstitutor| 
 | 20211219 | Field Effect 安全团队对微软 6 个提权漏洞以及 1 个内核信息泄漏漏洞的分析报告 | https://hello.fieldeffect.com/hubfs/Blackswan/Blackswan_Technical_Write%20Up_Field_Effect.pdf| 
-| 20211217 | Android App 逆向分析对抗措施 | https://www.securing.pl/en/prevent-reverse-engineering-re-of-your-android-application/| 
 
 
 # 安全维基 推荐
@@ -105,6 +105,9 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211221T08:16:41Z | Create a fully undetectable backdoor with simple steps. | https://github.com/3ct0s/fud-backdoor | 9 | 7| 
+| 20211221T06:22:23Z | Remote control software, supported Windows/Unix/MacOS/Linux(x86/x64/mips/arm) | https://github.com/h1zzz/purewater | 5 | 0| 
+| 20211221T06:17:34Z | Null | https://github.com/leileigan/clean_label_textual_backdoor_attack | 3 | 0| 
 | 20211221T01:59:52Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 399 | 69| 
 | 20211221T00:06:54Z | Null | https://github.com/jianqiaomo/CSAW-HackML-2020-BackdoorDetector | 0 | 1| 
 | 20211220T21:13:21Z | shell backdoor buat peretas website, di jamin tembus di segala perang :) , sudah di test di beberapa  website bahkan server windows sekalipun rasanya ANJING BANGET | https://github.com/beruangsalju/shell | 1 | 3| 
@@ -112,30 +115,28 @@
 | 20211220T18:13:47Z | Codebase for my Level 4 University Project: Static Analysis of Executable Code to Detect Backdoors on IoT Devices | https://github.com/sophieboyle/Symbolic-Execution-for-ARM-Backdoor-Detection | 0 | 0| 
 | 20211220T17:24:29Z | C#编写的远程控制软件。A remote tool(RAT) written in C#. | https://github.com/7hr0wer/V4mp1r3 | 71 | 3| 
 | 20211220T16:10:12Z | A old gmod backdoor Web Panel in PHP (Big GBackdoor Modification) | https://github.com/Reiko69420/GblHackdoor | 1 | 1| 
-| 20211220T14:26:15Z | Null | https://github.com/leileigan/clean_label_textual_backdoor_attack | 3 | 0| 
-| 20211220T10:42:31Z | Remote control software, supported Windows/Unix/MacOS/Linux(x86/x64/mips/arm) | https://github.com/h1zzz/purewater | 5 | 0| 
-| 20211220T10:09:19Z | Null | https://github.com/ccccccc17/trpo_backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211221T09:42:51Z | History of symbolic execution (as well as SAT/SMT solving, fuzzing, and taint data tracking) | https://github.com/enzet/symbolic-execution | 412 | 57| 
+| 20211221T09:10:00Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2600 | 382| 
+| 20211221T06:37:47Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1852 | 524| 
 | 20211221T00:01:37Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1935 | 402| 
-| 20211220T23:42:35Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2599 | 382| 
 | 20211220T23:28:28Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 22 | 13| 
 | 20211220T18:13:47Z | Codebase for my Level 4 University Project: Static Analysis of Executable Code to Detect Backdoors on IoT Devices | https://github.com/sophieboyle/Symbolic-Execution-for-ARM-Backdoor-Detection | 0 | 0| 
 | 20211220T17:54:14Z | Monster is a symbolic execution engine for 64-bit RISC-U code | https://github.com/cksystemsgroup/monster | 7 | 3| 
-| 20211220T14:36:57Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1851 | 524| 
 | 20211220T13:52:06Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 166 | 37| 
 | 20211219T18:05:23Z | A symbolic execution VM | https://github.com/netanelgilad/prophet | 0 | 0| 
 | 20211219T17:02:51Z | Symbolica%s open-source symbolic execution engine. | https://github.com/Symbolica/Symbolica | 47 | 3| 
-| 20211219T09:57:32Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 192 | 41| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211220T15:25:28Z | Code for NDSS 2021 Paper %Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses Against Federated Learning% | https://github.com/vrt1shjwlkr/NDSS21-Model-Poisoning | 31 | 7| 
+| 20211221T11:52:05Z | NDSS 2020 - HYPER-CUBE: High-Dimensional Hypervisor Fuzzing | https://github.com/RUB-SysSec/Hypercube | 14 | 0| 
+| 20211221T08:24:29Z | Code for NDSS 2021 Paper %Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses Against Federated Learning% | https://github.com/vrt1shjwlkr/NDSS21-Model-Poisoning | 32 | 7| 
 | 20211220T12:54:37Z | A penetration testing tool for finding file upload bugs (NDSS 2020) | https://github.com/WSP-LAB/FUSE | 208 | 44| 
 | 20211220T06:19:19Z | Code for the paper %FlowLens: Enabling Efficient Flow Classification for ML-based Network Security Applications% [NDSS %21] | https://github.com/dmbb/FlowLens | 15 | 2| 
 | 20211203T05:22:50Z | Paper Downloader for NDSS Symposium 2021. | https://github.com/qianfei11/Paper_Downloader_for_NDSS_Symposium_2021 | 0 | 0| 
