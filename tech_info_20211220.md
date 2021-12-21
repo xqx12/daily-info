@@ -72,10 +72,10 @@
 | 20211220T17:24:29Z | C#编写的远程控制软件。A remote tool(RAT) written in C#. | https://github.com/7hr0wer/V4mp1r3 | 71 | 3| 
 | 20211220T16:10:12Z | A old gmod backdoor Web Panel in PHP (Big GBackdoor Modification) | https://github.com/Reiko69420/GblHackdoor | 1 | 1| 
 | 20211220T14:26:15Z | Null | https://github.com/leileigan/clean_label_textual_backdoor_attack | 3 | 0| 
-| 20211220T13:01:26Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 398 | 69| 
 | 20211220T10:42:31Z | Remote control software, supported Windows/Unix/MacOS/Linux(x86/x64/mips/arm) | https://github.com/h1zzz/purewater | 5 | 0| 
 | 20211220T10:09:19Z | Null | https://github.com/ccccccc17/trpo_backdoor | 0 | 0| 
 | 20211220T06:00:19Z | This is a python program backdoor embeded with a game for reverse connection from the victim to understand the use visit our youtube channel STRANGE LEARNINGS  | https://github.com/EnriqueStrange/Advanced-Backdoor | 4 | 3| 
+| 20211220T04:08:36Z | Backdoor For windows | https://github.com/basavbamrah/Windows-Backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
