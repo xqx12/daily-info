@@ -90,12 +90,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211221T01:16:42Z | Null | https://github.com/Spard2/ps4exploit | 2 | 0| 
 | 20211221T01:13:31Z | Browser extension to prevent Log4J exploits against services running on private network and localhost. | https://github.com/paladincyber/log4jprotector | 0 | 0| 
 | 20211221T01:07:36Z | Log4Shell RCE Exploit - fully independent exploit does not require any 3rd party binaries. | https://github.com/cyberstruggle/L4sh | 203 | 55| 
 | 20211221T01:03:24Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 39 | 20| 
 | 20211221T00:56:48Z | A collection of intelligence about Log4Shell and its exploitation activity.  | https://github.com/curated-intel/Log4Shell-IOCs | 117 | 25| 
 | 20211221T00:45:57Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 17| 
-| 20211221T00:16:41Z | Null | https://github.com/Spard2/ps4exploit | 2 | 0| 
 | 20211221T00:10:48Z | PS4 9.00 Firmware Exploit Host | https://github.com/KameleonReloaded/900V4B | 2 | 5| 
 | 20211220T23:52:23Z | 한물 간 log4j JNDI LDAP 취약점 테스트용 레포 | https://github.com/R2turnTrue/exploit_test | 0 | 0| 
 | 20211220T23:49:06Z | A Ruby library for Command & Control (C2) and Post Exploitation functionality. | https://github.com/ronin-rb/ronin-c2 | 2 | 0| 
@@ -145,11 +145,11 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211221T01:15:51Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 35919 | 18529| 
 | 20211221T01:10:58Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2400 | 477| 
 | 20211221T01:09:14Z | Fuzzing concurrent Go programs | https://github.com/system-pclub/GFuzz | 5 | 2| 
 | 20211221T00:57:34Z | Null | https://github.com/mallika-bit/FuzzyFriendFinder- | 0 | 0| 
 | 20211221T00:53:49Z | parsing btrfs disk image (WIP) for fuzzing fs inside usermode linux | https://github.com/docfate111/badfsfuzzer | 0 | 0| 
-| 20211221T00:47:08Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 35918 | 18529| 
 | 20211221T00:40:53Z | Null | https://github.com/PBearson/FUME-Fuzzing-MQTT-Brokers | 0 | 0| 
 | 20211221T00:40:42Z | Null | https://github.com/TakuKitamura/verified-edr-fuzzing | 0 | 0| 
 | 20211221T00:11:10Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2446 | 151| 
