@@ -108,8 +108,8 @@
 | 20211220T22:25:29Z | Aplicação da técnica baseada em algoritmos genéticos com o objetivo de otimização os parâmetros de curvas Fuzzy, para um controlador de temperatura de um chuveiro elétrico. | https://github.com/Luizffeng/Fuzzy-Otimization-Genetic-Algorithm | 0 | 0| 
 | 20211220T22:02:07Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211220T21:52:51Z | Null | https://github.com/JoDeMiro/FuzzyBevezetes | 0 | 0| 
-| 20211220T21:40:58Z | Report draft for https://fuzzingworkshop.github.io/ | https://github.com/agroce/fuzzing22report | 0 | 0| 
 | 20211220T20:44:22Z | Tool to Generate a Fuzzy Real Estate Development Model upon a Site | https://github.com/irawinder/FuzzyBuilder | 2 | 0| 
+| 20211220T20:18:41Z | Null | https://github.com/SERZDZEKSON/fuzzy-spork | 0 | 0| 
 
 
 
