@@ -54,13 +54,13 @@
 | 20211220T23:52:23Z | 한물 간 log4j JNDI LDAP 취약점 테스트용 레포 | https://github.com/R2turnTrue/exploit_test | 0 | 0| 
 | 20211220T23:49:06Z | A Ruby library for Command & Control (C2) and Post Exploitation functionality. | https://github.com/ronin-rb/ronin-c2 | 2 | 0| 
 | 20211220T23:46:04Z | PS-Phwoar! Alpha Version Exploit Host Menu for 5.05 FW with GoldHen v2.0b2 Coded by SiSTRo | https://github.com/DTMExploits/DTMExploits.github.io | 0 | 0| 
-| 20211220T23:28:46Z | Exploiting the BERT Architecture to Reveal Political Bias in Different News Sources | https://github.com/nmorrison01/BiasThruBERT | 0 | 0| 
 | 20211220T23:25:24Z | Null | https://github.com/Eyeofthequeen/TP_sys_exploitation | 0 | 0| 
 | 20211220T22:56:52Z | Exploit para PS4 automatizado usando una Raspberry Pi Zero W | https://github.com/nosekefik/BongOS-PS4-Rpi-ZW | 0 | 0| 
 | 20211220T22:40:08Z | anonfiles.com XSS 0day exploit | https://github.com/BoofSec/anonfiles-xss-0day | 0 | 0| 
 | 20211220T22:27:25Z | This is a demo which will exploit ssh on a typical linux host. Once ssh access is gained, privilege escalation is used to pwn the host.  | https://github.com/sillihkram/Bruteforcing-SSH | 0 | 0| 
 | 20211220T22:27:08Z | Null | https://github.com/joeengo/exploiting | 0 | 1| 
 | 20211220T22:18:29Z | A Database of exploiters for a dead game with no anti cheat. | https://github.com/jnz-dev/PL-Exploiter-DB | 0 | 0| 
+| 20211220T22:14:34Z | Null | https://github.com/NotFoundHacker/Roblox-Exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
