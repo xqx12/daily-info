@@ -90,12 +90,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211221T02:24:46Z | Browser extension to prevent Log4J exploits against services running on private network and localhost. | https://github.com/paladincyber/log4jprotector | 1 | 0| 
 | 20211221T02:21:25Z | WIP Post-exploitation framework tailored for hypervisors. | https://github.com/Psmths/reave | 0 | 0| 
 | 20211221T02:20:06Z | A roblox exploit. | https://github.com/TeamSpaek/kano | 0 | 0| 
 | 20211221T02:17:27Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 316 | 769| 
 | 20211221T02:14:54Z | Windows exploit techniques. | https://github.com/anvbis/windows-exp | 0 | 0| 
 | 20211221T02:14:40Z | Exploiting the BERT Architecture to Reveal Political Bias in Different News Sources | https://github.com/nmorrison01/BiasThruBERT | 0 | 0| 
-| 20211221T02:09:45Z | Browser extension to prevent Log4J exploits against services running on private network and localhost. | https://github.com/paladincyber/log4jprotector | 0 | 0| 
 | 20211221T02:07:33Z | A powerful and highly efficient network debugging tool for Roblox (and exploits) | https://github.com/NotDSF/HttpSpy | 5 | 3| 
 | 20211221T02:06:56Z | Null | https://github.com/Spard2/ps4exploit | 2 | 0| 
 | 20211221T02:03:11Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 39 | 20| 
