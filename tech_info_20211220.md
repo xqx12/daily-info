@@ -22,13 +22,13 @@
 | 20211220T22:18:47Z | CVE-2021-44228 | Null | https://github.com/VerveIndustrialProtection/CVE-2021-44228-Log4j | | 
 | 20211220T21:57:23Z | cve-2021-44228 | Log4j Exploit Detection Logic for Zeek | https://github.com/corelight/cve-2021-44228 | | 
 | 20211220T19:25:27Z | CVE-2021-44228 | CVE-2021-44228 demo webapp | https://github.com/MkTech-0-8YT3/CVE-2021-44228 | | 
-| 20211220T16:04:44Z | CVE-2021-44228 | Null | https://github.com/tobiasoed/log4j-CVE-2021-44228 | | 
 | 20211220T15:47:29Z | CVE-2021-44228 | Null | https://github.com/intel-xeon/CVE-2021-44228---detection-with-PowerShell | | 
 | 20211220T15:46:32Z | cve-2021-44228 | Null | https://github.com/bumheehan/cve-2021-44228-log4j-test | | 
 | 20211220T15:43:00Z | CVE-2021-44228 | Windows Batch Scrip to Fix the log4j-issue-CVE-2021-44228 | https://github.com/chandru-gunasekaran/log4j-fix-CVE-2021-44228 | | 
 | 20211220T15:18:30Z | CVE-2021-35448 | Remote Mouse GUI 3.008 - Local Privilege Escalation | https://github.com/LeoBreaker1411/CVE-2021-35448 | | 
 | 20211220T14:50:18Z | CVE-2021-44228 | Log4Shell (CVE-2021-44228): Descrizione, Exploitation e Rimedi | https://github.com/zane00/CVE-2021-44228 | | 
 | 20211220T11:12:22Z | CVE-2021-41730 | Null | https://github.com/IBUILI/CVE-2021-41730 | | 
+| 20211220T05:39:13Z | CVE-2021-44228 | IP addresses exploiting recent log4j2 vulnerability CVE-2021-44228  | https://github.com/Malwar3Ninja/Exploitation-of-Log4j2-CVE-2021-44228 | | 
 
 
 # klee on Github 推荐

@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211221T02:30:06Z | CVE-2021-44228 | Null | https://github.com/tobiasoed/log4j-CVE-2021-44228 | | 
 | 20211221T02:26:56Z | CVE-2021-43224 | Windows Common Log File System Driver  POC | https://github.com/KaLendsi/CVE-2021-43224-POC | | 
 | 20211221T01:56:40Z | CVE-2021-44228 | 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - A trick to bypass words blocking patches | https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words | | 
 | 20211221T01:06:33Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
@@ -54,7 +55,6 @@
 | 20211220T22:18:47Z | CVE-2021-44228 | Null | https://github.com/VerveIndustrialProtection/CVE-2021-44228-Log4j | | 
 | 20211220T21:57:23Z | cve-2021-44228 | Log4j Exploit Detection Logic for Zeek | https://github.com/corelight/cve-2021-44228 | | 
 | 20211220T19:25:27Z | CVE-2021-44228 | CVE-2021-44228 demo webapp | https://github.com/MkTech-0-8YT3/CVE-2021-44228 | | 
-| 20211220T16:04:44Z | CVE-2021-44228 | Null | https://github.com/tobiasoed/log4j-CVE-2021-44228 | | 
 | 20211220T15:47:29Z | CVE-2021-44228 | Null | https://github.com/intel-xeon/CVE-2021-44228---detection-with-PowerShell | | 
 
 
@@ -145,7 +145,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211221T02:27:47Z | For GitHub Actions | https://github.com/nth10sd/typed-fuzzmanager | 0 | 0| 
+| 20211221T02:30:48Z | For GitHub Actions | https://github.com/nth10sd/typed-fuzzmanager | 0 | 0| 
 | 20211221T02:19:06Z | parsing btrfs disk image (WIP) for fuzzing fs inside usermode linux | https://github.com/docfate111/badfsfuzzer | 0 | 0| 
 | 20211221T02:18:28Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2446 | 151| 
 | 20211221T02:02:50Z | Report draft for https://fuzzingworkshop.github.io/ | https://github.com/agroce/fuzzing22report | 0 | 0| 
