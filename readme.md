@@ -52,16 +52,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211220T14:03:23Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 39 | 20| 
-| 20211220T14:02:50Z | Cover your tracks during Linux Exploitation by leaving zero traces on system logs and filesystem timestamps. 👻🐚 | https://github.com/mufeedvh/moonwalk | 85 | 2| 
-| 20211220T13:52:49Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 3862 | 1342| 
-| 20211220T13:51:04Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10457 | 1800| 
-| 20211220T13:37:43Z | Web exploit development library  | https://github.com/Krishap-s/webpwn | 0 | 0| 
-| 20211220T13:24:14Z | Demo Project for the Log4j vulnerability | https://github.com/predic8/log4j-log4shell-exploit | 1 | 1| 
-| 20211220T13:20:45Z | Provides script to download and format public IP lists related to the Log4j exploit. Current format includes: plain list, Cisco ASA Network Group. | https://github.com/GianlucaUlivi/log4j-firewall-blacklist-builder | 1 | 0| 
-| 20211220T13:15:25Z | Null | https://github.com/NotFoundHacker/Roblox-Exploits | 0 | 0| 
-| 20211220T13:04:17Z | Null | https://github.com/Noizeeee/Exploits | 0 | 0| 
-| 20211220T13:03:18Z | Application trying to detect processes vulnerable to log4j JNDI exploit | https://github.com/criteo/log4j-jndi-jar-detector | 2 | 0| 
+| 20211220T23:52:23Z | 한물 간 log4j JNDI LDAP 취약점 테스트용 레포 | https://github.com/R2turnTrue/exploit_test | 0 | 0| 
+| 20211220T23:49:06Z | A Ruby library for Command & Control (C2) and Post Exploitation functionality. | https://github.com/ronin-rb/ronin-c2 | 2 | 0| 
+| 20211220T23:46:04Z | PS-Phwoar! Alpha Version Exploit Host Menu for 5.05 FW with GoldHen v2.0b2 Coded by SiSTRo | https://github.com/DTMExploits/DTMExploits.github.io | 0 | 0| 
+| 20211220T23:28:46Z | Exploiting the BERT Architecture to Reveal Political Bias in Different News Sources | https://github.com/nmorrison01/BiasThruBERT | 0 | 0| 
+| 20211220T23:25:24Z | Null | https://github.com/Eyeofthequeen/TP_sys_exploitation | 0 | 0| 
+| 20211220T22:56:52Z | Exploit para PS4 automatizado usando una Raspberry Pi Zero W | https://github.com/nosekefik/BongOS-PS4-Rpi-ZW | 0 | 0| 
+| 20211220T22:40:08Z | anonfiles.com XSS 0day exploit | https://github.com/BoofSec/anonfiles-xss-0day | 0 | 0| 
+| 20211220T22:27:25Z | This is a demo which will exploit ssh on a typical linux host. Once ssh access is gained, privilege escalation is used to pwn the host.  | https://github.com/sillihkram/Bruteforcing-SSH | 0 | 0| 
+| 20211220T22:27:08Z | Null | https://github.com/joeengo/exploiting | 0 | 1| 
+| 20211220T22:18:29Z | A Database of exploiters for a dead game with no anti cheat. | https://github.com/jnz-dev/PL-Exploiter-DB | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -101,16 +101,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211220T14:12:09Z | Null | https://github.com/AntoCobRamos2003/fuzzy-funicular.github.io | 0 | 0| 
-| 20211220T14:11:00Z | AFLTeam Collaborative Parallel Fuzzing | https://github.com/MelbourneFuzzingHub/aflteam | 33 | 5| 
-| 20211220T14:07:55Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2446 | 151| 
-| 20211220T14:05:00Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6951 | 1453| 
-| 20211220T13:51:01Z | bash script to run from installation media to setup gentoo automagically | https://github.com/fjp321/fuzzy-goggles | 0 | 0| 
-| 20211220T13:48:29Z | A machine learning model and fuzzy logic model to predict the target variable of QSAR Biodegradation dataset | https://github.com/Thanish09/Machine-Learning-Fuzzy-Logic | 0 | 0| 
-| 20211220T13:05:35Z | Planning tool | https://github.com/HappyDustbunny/FuzzyPlan | 1 | 0| 
-| 20211220T13:05:13Z | A fork of AFL for fuzzing Windows binaries | https://github.com/googleprojectzero/winafl | 1827 | 457| 
-| 20211220T13:00:38Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3841 | 903| 
-| 20211220T12:45:39Z | Null | https://github.com/Clearymk/TypeScriptFuzzer | 0 | 1| 
+| 20211220T23:17:46Z | Null | https://github.com/iii-i/zlib-fuzz | 3 | 0| 
+| 20211220T23:03:50Z | Null | https://github.com/adeirvan123/Sistem-Close-Loop-Fuzzy- | 0 | 0| 
+| 20211220T22:58:16Z | Null | https://github.com/yasminekat/fuzzy-octo-potato | 0 | 0| 
+| 20211220T22:43:00Z | Null | https://github.com/Egobekeeh/fuzzy | 0 | 0| 
+| 20211220T22:33:43Z | Find all keywords for your subdomain or folder search | https://github.com/Proviesec/nlp-website-string-miner-for-fuzzing | 1 | 0| 
+| 20211220T22:25:29Z | Aplicação da técnica baseada em algoritmos genéticos com o objetivo de otimização os parâmetros de curvas Fuzzy, para um controlador de temperatura de um chuveiro elétrico. | https://github.com/Luizffeng/Fuzzy-Otimization-Genetic-Algorithm | 0 | 0| 
+| 20211220T22:02:07Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20211220T21:52:51Z | Null | https://github.com/JoDeMiro/FuzzyBevezetes | 0 | 0| 
+| 20211220T21:40:58Z | Report draft for https://fuzzingworkshop.github.io/ | https://github.com/agroce/fuzzing22report | 0 | 0| 
+| 20211220T20:44:22Z | Tool to Generate a Fuzzy Real Estate Development Model upon a Site | https://github.com/irawinder/FuzzyBuilder | 2 | 0| 
 
 
 
