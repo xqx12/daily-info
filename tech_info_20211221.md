@@ -60,6 +60,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211221T13:23:04Z | The project “Airline Reservation System (ARS)” is to exploit the computer technology with Internet Facility and all its aspects as necessity arises. The proposed project will be a web-based portal to provide support and services to the end customer.                    The Airline Reservation System (ARS) is a software application to assist an airline with transactions related to making ticket reservations. This includes blocking, reserving and canceling tickets. | https://github.com/ArchanaSinghDotNet/PrudentAir | 0 | 0| 
 | 20211221T13:10:57Z | Exploiting CVE-2021-42278 and CVE-2021-42287 to impersonate DA from standard domain user  | https://github.com/WazeHell/sam-the-admin | 602 | 121| 
 | 20211221T13:03:24Z | 😎 Exploiting utility for Roblox. | https://github.com/catboy08/comet | 3 | 0| 
 | 20211221T13:03:10Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 39 | 20| 
@@ -69,7 +70,6 @@
 | 20211221T12:34:17Z | An attempt at fixing the Log4Shell exploit for people who haven%t updated. | https://github.com/IkeVoodoo/AntiHack | 0 | 0| 
 | 20211221T12:24:43Z | A Database of exploiters for a dead game with no anti cheat. | https://github.com/jnz-dev/PL-Exploiter-DB | 0 | 0| 
 | 20211221T12:18:26Z | My TryHackMe writeups and notes  | https://github.com/dnts3110/TryHackMe-Writeups | 1 | 0| 
-| 20211221T12:16:52Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 260 | 78| 
 
 
 # backdoor on Github 推荐
