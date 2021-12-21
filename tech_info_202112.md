@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211221T13:30:37Z | CVE-2021-44228 | Null | https://github.com/motikan2010/RASP-CVE-2021-44228 | | 
 | 20211221T13:15:55Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211221T12:55:17Z | CVE-2021-43224 | Windows Common Log File System Driver  POC | https://github.com/KaLendsi/CVE-2021-43224-POC | | 
 | 20211221T12:18:48Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
@@ -55,7 +56,6 @@
 | 20211221T10:18:36Z | CVE-2021-44228 | Known IoCs for log4j framework vulnerability  | https://github.com/guardicode/CVE-2021-44228_IoCs | | 
 | 20211221T10:09:58Z | CVE-2021-43798 | Null | https://github.com/gps1949/CVE-2021-43798 | | 
 | 20211221T06:03:18Z | CVE-2021-44228 | 相关的复现和文档 | https://github.com/xx-zhang/apache-log4j2-CVE-2021-44228 | | 
-| 20211221T05:46:51Z | CVE-2021-44228 | Log4Shell CVE-2021-44228 Vulnerability Scanner and POC | https://github.com/gyaansastra/CVE-2021-44228 | | 
 
 
 # klee on Github 推荐
@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211221T13:30:05Z | A Database of exploiters for a dead game with no anti cheat. | https://github.com/jnz-dev/PL-Exploiter-DB | 0 | 0| 
 | 20211221T13:28:14Z | The project “Airline Reservation System (ARS)” is to exploit the computer technology with Internet Facility and all its aspects as necessity arises. The proposed project will be a web-based portal to provide support and services to the end customer.                    The Airline Reservation System (ARS) is a software application to assist an airline with transactions related to making ticket reservations. This includes blocking, reserving and canceling tickets. | https://github.com/ArchanaSinghDotNet/PrudentAir | 0 | 0| 
 | 20211221T13:10:57Z | Exploiting CVE-2021-42278 and CVE-2021-42287 to impersonate DA from standard domain user  | https://github.com/WazeHell/sam-the-admin | 602 | 121| 
 | 20211221T13:03:24Z | 😎 Exploiting utility for Roblox. | https://github.com/catboy08/comet | 3 | 0| 
@@ -98,7 +99,6 @@
 | 20211221T12:45:58Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 17| 
 | 20211221T12:38:06Z | Hands-on experiments to demonstrate the exploitability of insecure TLS configurations in Android apps | https://github.com/Guardsquare/android-insecure-tls-demo | 1 | 0| 
 | 20211221T12:34:17Z | An attempt at fixing the Log4Shell exploit for people who haven%t updated. | https://github.com/IkeVoodoo/AntiHack | 0 | 0| 
-| 20211221T12:24:43Z | A Database of exploiters for a dead game with no anti cheat. | https://github.com/jnz-dev/PL-Exploiter-DB | 0 | 0| 
 | 20211221T12:18:26Z | My TryHackMe writeups and notes  | https://github.com/dnts3110/TryHackMe-Writeups | 1 | 0| 
 
 
@@ -146,6 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211221T13:30:51Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 637 | 67| 
 | 20211221T13:27:25Z | Null | https://github.com/Clearymk/TypeScriptFuzzer | 0 | 1| 
 | 20211221T13:17:43Z | Auto-gen fuzzing wrappers from normal code. Automatically find buggy call sequences, including data races & deadlocks. Supports rich signature types. | https://github.com/thepudds/fzgen | 4 | 0| 
 | 20211221T13:17:40Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 35932 | 18534| 
@@ -155,7 +156,6 @@
 | 20211221T12:39:15Z | Null | https://github.com/ys-zhang/filter-fuzz | 0 | 0| 
 | 20211221T12:35:13Z | Forecasting SARS-CoV-2 Next Wave in Iran and the World Using TSK Fuzzy Neural Networks | https://github.com/SeyedMuhammadHosseinMousavi/Forecasting-SARS-CoV-2-Next-Wave-in-Iran-and-the-World-Using-TSK-Fuzzy-Neural-Networks | 1 | 0| 
 | 20211221T12:33:35Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3842 | 905| 
-| 20211221T12:32:56Z | Null | https://github.com/iii-i/zlib-fuzz | 3 | 0| 
 
 
 
