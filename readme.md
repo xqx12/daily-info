@@ -61,6 +61,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211221T13:32:52Z | Powershell script to check log files for Log4Shell exploitation | https://github.com/ValtteriL/Detect-Log4Shell | 2 | 1| 
 | 20211221T13:30:05Z | A Database of exploiters for a dead game with no anti cheat. | https://github.com/jnz-dev/PL-Exploiter-DB | 0 | 0| 
 | 20211221T13:28:14Z | The project “Airline Reservation System (ARS)” is to exploit the computer technology with Internet Facility and all its aspects as necessity arises. The proposed project will be a web-based portal to provide support and services to the end customer.                    The Airline Reservation System (ARS) is a software application to assist an airline with transactions related to making ticket reservations. This includes blocking, reserving and canceling tickets. | https://github.com/ArchanaSinghDotNet/PrudentAir | 0 | 0| 
 | 20211221T13:10:57Z | Exploiting CVE-2021-42278 and CVE-2021-42287 to impersonate DA from standard domain user  | https://github.com/WazeHell/sam-the-admin | 602 | 121| 
@@ -70,7 +71,6 @@
 | 20211221T12:45:58Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 17| 
 | 20211221T12:38:06Z | Hands-on experiments to demonstrate the exploitability of insecure TLS configurations in Android apps | https://github.com/Guardsquare/android-insecure-tls-demo | 1 | 0| 
 | 20211221T12:34:17Z | An attempt at fixing the Log4Shell exploit for people who haven%t updated. | https://github.com/IkeVoodoo/AntiHack | 0 | 0| 
-| 20211221T12:18:26Z | My TryHackMe writeups and notes  | https://github.com/dnts3110/TryHackMe-Writeups | 1 | 0| 
 
 
 # backdoor on Github 推荐
