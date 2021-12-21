@@ -145,7 +145,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211221T02:30:56Z | For GitHub Actions | https://github.com/nth10sd/typed-fuzzmanager | 0 | 0| 
+| 20211221T02:34:25Z | For GitHub Actions | https://github.com/nth10sd/typed-fuzzmanager | 0 | 0| 
 | 20211221T02:19:06Z | parsing btrfs disk image (WIP) for fuzzing fs inside usermode linux | https://github.com/docfate111/badfsfuzzer | 0 | 0| 
 | 20211221T02:18:28Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2446 | 151| 
 | 20211221T02:02:50Z | Report draft for https://fuzzingworkshop.github.io/ | https://github.com/agroce/fuzzing22report | 0 | 0| 
