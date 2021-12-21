@@ -90,7 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211221T01:16:42Z | Null | https://github.com/Spard2/ps4exploit | 2 | 0| 
+| 20211221T01:28:21Z | Null | https://github.com/Spard2/ps4exploit | 2 | 0| 
 | 20211221T01:13:31Z | Browser extension to prevent Log4J exploits against services running on private network and localhost. | https://github.com/paladincyber/log4jprotector | 0 | 0| 
 | 20211221T01:07:36Z | Log4Shell RCE Exploit - fully independent exploit does not require any 3rd party binaries. | https://github.com/cyberstruggle/L4sh | 203 | 55| 
 | 20211221T01:03:24Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 39 | 20| 
