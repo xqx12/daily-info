@@ -90,7 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211221T02:50:48Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 604 | 122| 
+| 20211221T02:51:45Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 604 | 122| 
 | 20211221T02:47:45Z | Log4Shell RCE Exploit - fully independent exploit does not require any 3rd party binaries. | https://github.com/cyberstruggle/L4sh | 204 | 56| 
 | 20211221T02:43:16Z | Browser extension to prevent Log4J exploits against services running on private network and localhost. | https://github.com/paladincyber/log4jprotector | 1 | 0| 
 | 20211221T02:30:56Z | Script PoC that exploits the Tentacles upload functionality of OctoBot trading bot and which leads to a remote code execution (RCE). | https://github.com/Nwqda/Sashimi-Evil-OctoBot-Tentacle | 0 | 0| 
