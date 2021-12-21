@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211221T02:13:59Z | A roblox exploit. | https://github.com/TeamSpaek/kano | 0 | 0| 
 | 20211221T02:09:45Z | Browser extension to prevent Log4J exploits against services running on private network and localhost. | https://github.com/paladincyber/log4jprotector | 0 | 0| 
 | 20211221T02:08:42Z | Exploiting the BERT Architecture to Reveal Political Bias in Different News Sources | https://github.com/nmorrison01/BiasThruBERT | 0 | 0| 
 | 20211221T02:07:33Z | A powerful and highly efficient network debugging tool for Roblox (and exploits) | https://github.com/NotDSF/HttpSpy | 5 | 3| 
@@ -99,7 +100,6 @@
 | 20211221T01:07:36Z | Log4Shell RCE Exploit - fully independent exploit does not require any 3rd party binaries. | https://github.com/cyberstruggle/L4sh | 203 | 55| 
 | 20211221T00:56:48Z | A collection of intelligence about Log4Shell and its exploitation activity.  | https://github.com/curated-intel/Log4Shell-IOCs | 117 | 25| 
 | 20211221T00:45:57Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 17| 
-| 20211221T00:10:48Z | PS4 9.00 Firmware Exploit Host | https://github.com/KameleonReloaded/900V4B | 2 | 5| 
 
 
 # backdoor on Github 推荐
