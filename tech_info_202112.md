@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211221T02:47:45Z | Log4Shell RCE Exploit - fully independent exploit does not require any 3rd party binaries. | https://github.com/cyberstruggle/L4sh | 204 | 56| 
 | 20211221T02:46:37Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 603 | 122| 
 | 20211221T02:43:16Z | Browser extension to prevent Log4J exploits against services running on private network and localhost. | https://github.com/paladincyber/log4jprotector | 1 | 0| 
 | 20211221T02:30:56Z | Script PoC that exploits the Tentacles upload functionality of OctoBot trading bot and which leads to a remote code execution (RCE). | https://github.com/Nwqda/Sashimi-Evil-OctoBot-Tentacle | 0 | 0| 
@@ -99,7 +100,6 @@
 | 20211221T02:14:54Z | Windows exploit techniques. | https://github.com/anvbis/windows-exp | 0 | 0| 
 | 20211221T02:14:40Z | Exploiting the BERT Architecture to Reveal Political Bias in Different News Sources | https://github.com/nmorrison01/BiasThruBERT | 0 | 0| 
 | 20211221T02:07:33Z | A powerful and highly efficient network debugging tool for Roblox (and exploits) | https://github.com/NotDSF/HttpSpy | 5 | 3| 
-| 20211221T02:06:56Z | Null | https://github.com/Spard2/ps4exploit | 2 | 0| 
 
 
 # backdoor on Github 推荐
