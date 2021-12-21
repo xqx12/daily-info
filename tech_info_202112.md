@@ -145,6 +145,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211221T01:40:05Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211221T01:37:45Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 35920 | 18529| 
 | 20211221T01:21:18Z | Report draft for https://fuzzingworkshop.github.io/ | https://github.com/agroce/fuzzing22report | 0 | 0| 
 | 20211221T01:10:58Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2400 | 477| 
@@ -154,7 +155,6 @@
 | 20211221T00:40:53Z | Null | https://github.com/PBearson/FUME-Fuzzing-MQTT-Brokers | 0 | 0| 
 | 20211221T00:40:42Z | Null | https://github.com/TakuKitamura/verified-edr-fuzzing | 0 | 0| 
 | 20211221T00:11:10Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2446 | 151| 
-| 20211221T00:04:01Z | Linux Kernel Snapshot Fuzzer using KVM | https://github.com/SmoothHacker/LateRegistration | 0 | 0| 
 
 
 
