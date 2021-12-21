@@ -145,6 +145,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211221T01:09:14Z | Fuzzing concurrent Go programs | https://github.com/system-pclub/GFuzz | 5 | 2| 
 | 20211221T00:57:34Z | Null | https://github.com/mallika-bit/FuzzyFriendFinder- | 0 | 0| 
 | 20211221T00:53:49Z | parsing btrfs disk image (WIP) for fuzzing fs inside usermode linux | https://github.com/docfate111/badfsfuzzer | 0 | 0| 
 | 20211221T00:47:08Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 35918 | 18529| 
@@ -154,7 +155,6 @@
 | 20211221T00:11:10Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2446 | 151| 
 | 20211221T00:04:01Z | Linux Kernel Snapshot Fuzzer using KVM | https://github.com/SmoothHacker/LateRegistration | 0 | 0| 
 | 20211221T00:02:59Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6955 | 1454| 
-| 20211220T23:17:46Z | Null | https://github.com/iii-i/zlib-fuzz | 3 | 0| 
 
 
 
