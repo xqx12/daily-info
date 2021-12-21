@@ -17,6 +17,7 @@
 | 20211221 | Auerswald PBX 电话交换机被发现固件级后门 | http://blog.redteam-pentesting.de/2021/inside-a-pbx/| 
 | 20211221 | ESFang - 基于 macOS Endpoint Security 框架的威胁检测方案 | https://sec.today/pulses/f9a748cc-a714-4131-8a59-56fbb6eabf92/| 
 | 20211221 | ESFang - 基于 macOS Endpoint Security 框架的威胁检测方案 | http://labs.f-secure.com/blog/esfang-exploring-the-macos-endpoint-security-framework-for-threat-detection/| 
+| 20211221 | 高版本堆tcache 一般利用手法总结(glibc2.27-2.32). | https://tttang.com/archive/1362/| 
 
 
 # 安全维基 推荐
@@ -60,7 +61,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211221T13:23:04Z | The project “Airline Reservation System (ARS)” is to exploit the computer technology with Internet Facility and all its aspects as necessity arises. The proposed project will be a web-based portal to provide support and services to the end customer.                    The Airline Reservation System (ARS) is a software application to assist an airline with transactions related to making ticket reservations. This includes blocking, reserving and canceling tickets. | https://github.com/ArchanaSinghDotNet/PrudentAir | 0 | 0| 
+| 20211221T13:28:14Z | The project “Airline Reservation System (ARS)” is to exploit the computer technology with Internet Facility and all its aspects as necessity arises. The proposed project will be a web-based portal to provide support and services to the end customer.                    The Airline Reservation System (ARS) is a software application to assist an airline with transactions related to making ticket reservations. This includes blocking, reserving and canceling tickets. | https://github.com/ArchanaSinghDotNet/PrudentAir | 0 | 0| 
 | 20211221T13:10:57Z | Exploiting CVE-2021-42278 and CVE-2021-42287 to impersonate DA from standard domain user  | https://github.com/WazeHell/sam-the-admin | 602 | 121| 
 | 20211221T13:03:24Z | 😎 Exploiting utility for Roblox. | https://github.com/catboy08/comet | 3 | 0| 
 | 20211221T13:03:10Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 39 | 20| 
