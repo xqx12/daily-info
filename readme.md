@@ -43,7 +43,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211221T13:01:12Z | Data and code for Klees et al. %Comparative Investigation of Gene Regulatory Processes Underlying Avian Influenza Viruses in Chicken and Duck% | https://github.com/SelinaKlees/AIV_chicken_duck | 0 | 0| 
+| 20211221T13:02:53Z | Data and code for Klees et al. %Comparative Investigation of Gene Regulatory Processes Underlying Avian Influenza Viruses in Chicken and Duck% | https://github.com/SelinaKlees/AIV_chicken_duck | 0 | 0| 
 | 20211221T12:48:37Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 3132 | 95| 
 | 20211221T07:12:09Z | update | https://github.com/rizaluardi/KleeMusik-Pemrograman4 | 0 | 0| 
 | 20211221T06:37:47Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1852 | 524| 
@@ -60,7 +60,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211221T13:00:43Z | Application trying to detect processes vulnerable to log4j JNDI exploit | https://github.com/criteo/log4j-jndi-jar-detector | 2 | 0| 
+| 20211221T13:02:21Z | Exploiting CVE-2021-42278 and CVE-2021-42287 to impersonate DA from standard domain user  | https://github.com/WazeHell/sam-the-admin | 601 | 121| 
+| 20211221T13:02:05Z | Application trying to detect processes vulnerable to log4j JNDI exploit | https://github.com/criteo/log4j-jndi-jar-detector | 2 | 0| 
 | 20211221T12:45:58Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 17| 
 | 20211221T12:38:06Z | Hands-on experiments to demonstrate the exploitability of insecure TLS configurations in Android apps | https://github.com/Guardsquare/android-insecure-tls-demo | 1 | 0| 
 | 20211221T12:34:17Z | An attempt at fixing the Log4Shell exploit for people who haven%t updated. | https://github.com/IkeVoodoo/AntiHack | 0 | 0| 
@@ -69,7 +70,6 @@
 | 20211221T12:16:52Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 260 | 78| 
 | 20211221T12:15:57Z | Null | https://github.com/aW3ikun/Modern_Windows_Exploit_Development | 0 | 0| 
 | 20211221T12:04:13Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 39 | 20| 
-| 20211221T11:46:36Z | An attempt at fixing the Log4Shell exploit for people who haven%t updated. | https://github.com/IkeVoodoo/AntiHack-Spigot | 0 | 0| 
 
 
 # backdoor on Github 推荐
