@@ -32,6 +32,7 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20211220 | CIS 介绍（下)-CIS Benchmark&CIS 社区防御模型2.0 | https://mp.weixin.qq.com/s/MLfShFRVGJmSALr0zUDohw| 
+| 20211220 | SecWiki周刊（第407期) | https://www.sec-wiki.com/weekly/407| 
 | 20211219 | SPEL表达式注入漏洞深入分析 | http://blog.topsec.com.cn/spel%e8%a1%a8%e8%be%be%e5%bc%8f%e6%b3%a8%e5%85%a5%e6%bc%8f%e6%b4%9e%e6%b7%b1%e5%85%a5%e5%88%86%e6%9e%90/| 
 | 20211219 | 基于异常行为检测CobaltStrike | https://www.anquanke.com/post/id/262742| 
 | 20211219 | 基于规则向量化的HTTP资产识别方法探索 | http://blog.nsfocus.net/http-banner-2/| 
@@ -40,47 +41,46 @@
 | 20211219 | Codeql 挖洞？ | https://mp.weixin.qq.com/s/-4E08dNeCdsc51VLE9qMAQ| 
 | 20211219 | 应急响应：没有痕迹该如何进行攻击溯源 | https://www.freebuf.com/articles/web/313394.html| 
 | 20211219 | 几款小众而实用的远控软件 | https://mp.weixin.qq.com/s/uYpNH2cwjsOoDl6ZTyVtUw| 
-| 20211219 | iMessage 零点击漏洞利用细节公开 | https://mp.weixin.qq.com/s/u0O6qBbvGB-l8aqCabGaUQ| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211220T13:52:30Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
-| 20211220T12:29:38Z | cve-2021-44228 | Null | https://github.com/bumheehan/cve-2021-44228-log4j-test | | 
-| 20211220T11:52:03Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
-| 20211220T11:12:22Z | CVE-2021-41730 | Null | https://github.com/IBUILI/CVE-2021-41730 | | 
-| 20211220T09:00:06Z | CVE-2021-44228 | Null | https://github.com/tobiasoed/log4j-CVE-2021-44228 | | 
-| 20211220T05:39:13Z | CVE-2021-44228 | IP addresses exploiting recent log4j2 vulnerability CVE-2021-44228  | https://github.com/Malwar3Ninja/Exploitation-of-Log4j2-CVE-2021-44228 | | 
-| 20211220T03:37:53Z | CVE-2021-45105 | Log4j_dos_CVE-2021-45105 | https://github.com/cckuailong/Log4j_dos_CVE-2021-45105 | | 
-| 20211220T02:57:52Z | CVE-2021-21315 | rust noob tried write exploit code with rust lang | https://github.com/Ki11i0n4ir3/CVE-2021-21315 | | 
-| 20211220T01:43:11Z | CVE-2021-44228 | CVE-2021-44228 on Docker & Podman | https://github.com/ahmad4fifz/CVE-2021-44228 | | 
-| 20211220T00:53:24Z | CVE-2021-44228 | Null | https://github.com/VerveIndustrialProtection/CVE-2021-44228-Log4j | | 
+| 20211221T00:54:54Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
+| 20211221T00:43:50Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
+| 20211221T00:40:54Z | CVE-2021-44228 | 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - A trick to bypass words blocking patches | https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words | | 
+| 20211220T23:35:46Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
+| 20211220T22:18:47Z | CVE-2021-44228 | Null | https://github.com/VerveIndustrialProtection/CVE-2021-44228-Log4j | | 
+| 20211220T21:57:23Z | cve-2021-44228 | Log4j Exploit Detection Logic for Zeek | https://github.com/corelight/cve-2021-44228 | | 
+| 20211220T19:25:27Z | CVE-2021-44228 | CVE-2021-44228 demo webapp | https://github.com/MkTech-0-8YT3/CVE-2021-44228 | | 
+| 20211220T16:04:44Z | CVE-2021-44228 | Null | https://github.com/tobiasoed/log4j-CVE-2021-44228 | | 
+| 20211220T15:47:29Z | CVE-2021-44228 | Null | https://github.com/intel-xeon/CVE-2021-44228---detection-with-PowerShell | | 
+| 20211220T15:46:32Z | cve-2021-44228 | Null | https://github.com/bumheehan/cve-2021-44228-log4j-test | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211220T21:56:49Z | Config files for my GitHub profile. | https://github.com/MichaelKleemoff/MichaelKleemoff | 0 | 0| 
+| 20211220T18:19:45Z | Null | https://github.com/lindsayp30/emp_KLEEMEX | 0 | 0| 
+| 20211220T17:23:11Z | Witch-KLEE - A KLEE-based error witness checker | https://github.com/ayazip/witch-klee | 1 | 0| 
+| 20211220T15:55:51Z | Data and code for Klees et al. %Comparative Investigation of Gene Regulatory Processes Underlying Avian Influenza Viruses in Chicken and Duck% | https://github.com/SelinaKlees/AIV_chicken_duck | 0 | 0| 
+| 20211220T14:36:57Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1851 | 524| 
 | 20211220T13:22:06Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 3130 | 95| 
-| 20211220T02:13:23Z | Null | https://github.com/lindsayp30/emp_KLEEMEX | 0 | 0| 
-| 20211219T15:56:03Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1851 | 524| 
 | 20211219T15:54:33Z | Null | https://github.com/klee8556/klee8556.github.io | 0 | 0| 
 | 20211219T10:16:52Z | modern regular expression syntax everywhere with a painless upgrade path | https://github.com/SonOfLilit/kleenexp | 32 | 4| 
 | 20211219T08:08:32Z | Null | https://github.com/HallettLab/klee-stability | 0 | 0| 
 | 20211218T13:25:26Z | Null | https://github.com/anaskautsar7/Klee-chan | 0 | 0| 
-| 20211218T12:41:41Z | Null | https://github.com/wpkong/KleeAdventure | 0 | 0| 
-| 20211217T10:07:04Z | Witch-KLEE - A KLEE-based error witness checker | https://github.com/ayazip/witch-klee | 0 | 0| 
-| 20211216T19:53:57Z | Scala library for generating and manipulation of images treated as a point => color function. | https://github.com/skac112/klee | 0 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211220T16:27:39Z | Linux kernels (CGC DECREE and vanilla) with S2E extensions | https://github.com/S2E/s2e-linux-kernel | 16 | 5| 
 | 20211220T11:25:56Z | CRAX++: software CRash analysis for Automatic eXploit generation | https://github.com/aesophor/CRAXplusplus | 26 | 3| 
 | 20211219T09:57:32Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 192 | 41| 
 | 20211218T16:24:46Z | Null | https://github.com/saku31114/s2explab | 0 | 0| 
 | 20211218T03:16:22Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 79 | 34| 
-| 20211218T03:14:38Z | Linux kernels (CGC DECREE and vanilla) with S2E extensions | https://github.com/S2E/s2e-linux-kernel | 16 | 5| 
 | 20211214T17:51:04Z | Null | https://github.com/s2escogg/s2escogg.github.io | 0 | 0| 
 | 20211214T17:43:51Z | Null | https://github.com/s2escogg/s2escotgg.github.io | 0 | 0| 
 | 20211207T15:25:17Z | Null | https://github.com/yuvalkirstain/s2e-coref | 25 | 9| 
@@ -105,39 +105,39 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211220T14:10:28Z | Null | https://github.com/leileigan/clean_label_textual_backdoor_attack | 3 | 0| 
+| 20211221T00:06:54Z | Null | https://github.com/jianqiaomo/CSAW-HackML-2020-BackdoorDetector | 0 | 1| 
+| 20211220T21:13:21Z | shell backdoor buat peretas website, di jamin tembus di segala perang :) , sudah di test di beberapa  website bahkan server windows sekalipun rasanya ANJING BANGET | https://github.com/beruangsalju/shell | 1 | 3| 
+| 20211220T18:14:20Z | It%s a socket backdoor, to execute your commands on victims devices  | https://github.com/MaherGebrail/Socket-BackDoor | 0 | 0| 
+| 20211220T18:13:47Z | Codebase for my Level 4 University Project: Static Analysis of Executable Code to Detect Backdoors on IoT Devices | https://github.com/sophieboyle/Symbolic-Execution-for-ARM-Backdoor-Detection | 0 | 0| 
+| 20211220T17:24:29Z | C#编写的远程控制软件。A remote tool(RAT) written in C#. | https://github.com/7hr0wer/V4mp1r3 | 71 | 3| 
+| 20211220T16:10:12Z | A old gmod backdoor Web Panel in PHP (Big GBackdoor Modification) | https://github.com/Reiko69420/GblHackdoor | 1 | 1| 
+| 20211220T14:26:15Z | Null | https://github.com/leileigan/clean_label_textual_backdoor_attack | 3 | 0| 
 | 20211220T13:01:26Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 398 | 69| 
-| 20211220T10:49:43Z | It%s a socket backdoor, to execute your commands on victims devices  | https://github.com/MaherGebrail/Socket-BackDoor | 0 | 0| 
 | 20211220T10:42:31Z | Remote control software, supported Windows/Unix/MacOS/Linux(x86/x64/mips/arm) | https://github.com/h1zzz/purewater | 5 | 0| 
 | 20211220T10:09:19Z | Null | https://github.com/ccccccc17/trpo_backdoor | 0 | 0| 
-| 20211220T06:00:19Z | This is a python program backdoor embeded with a game for reverse connection from the victim to understand the use visit our youtube channel STRANGE LEARNINGS  | https://github.com/EnriqueStrange/Advanced-Backdoor | 4 | 3| 
-| 20211220T04:30:35Z | Codebase for my Level 4 University Project: Static Analysis of Executable Code to Detect Backdoors on IoT Devices | https://github.com/sophieboyle/Symbolic-Execution-for-ARM-Backdoor-Detection | 0 | 0| 
-| 20211220T04:08:36Z | Backdoor For windows | https://github.com/basavbamrah/Windows-Backdoor | 0 | 0| 
-| 20211219T22:25:19Z | A old gmod backdoor Web Panel in PHP (Big GBackdoor Modification) | https://github.com/Reiko69420/GblHackdoor | 0 | 1| 
-| 20211219T20:44:06Z | Reverse shell for log4j | https://github.com/divy-nsh/backdoor_log4j | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211221T00:01:37Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1935 | 402| 
+| 20211220T23:42:35Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2599 | 382| 
+| 20211220T23:28:28Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 22 | 13| 
+| 20211220T18:13:47Z | Codebase for my Level 4 University Project: Static Analysis of Executable Code to Detect Backdoors on IoT Devices | https://github.com/sophieboyle/Symbolic-Execution-for-ARM-Backdoor-Detection | 0 | 0| 
+| 20211220T17:54:14Z | Monster is a symbolic execution engine for 64-bit RISC-U code | https://github.com/cksystemsgroup/monster | 7 | 3| 
+| 20211220T14:36:57Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1851 | 524| 
 | 20211220T13:52:06Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 166 | 37| 
-| 20211220T04:30:35Z | Codebase for my Level 4 University Project: Static Analysis of Executable Code to Detect Backdoors on IoT Devices | https://github.com/sophieboyle/Symbolic-Execution-for-ARM-Backdoor-Detection | 0 | 0| 
-| 20211219T18:06:52Z | Monster is a symbolic execution engine for 64-bit RISC-U code | https://github.com/cksystemsgroup/monster | 7 | 3| 
 | 20211219T18:05:23Z | A symbolic execution VM | https://github.com/netanelgilad/prophet | 0 | 0| 
-| 20211219T17:55:37Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2599 | 382| 
 | 20211219T17:02:51Z | Symbolica%s open-source symbolic execution engine. | https://github.com/Symbolica/Symbolica | 47 | 3| 
-| 20211219T15:56:03Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1851 | 524| 
-| 20211219T15:03:43Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1934 | 402| 
 | 20211219T09:57:32Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 192 | 41| 
-| 20211219T09:13:28Z | RAUK: Automatic Schedulability Analysis of RTIC Applications Using Symbolic Execution | https://github.com/markhakansson/master-thesis | 5 | 0| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211220T15:25:28Z | Code for NDSS 2021 Paper %Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses Against Federated Learning% | https://github.com/vrt1shjwlkr/NDSS21-Model-Poisoning | 31 | 7| 
 | 20211220T12:54:37Z | A penetration testing tool for finding file upload bugs (NDSS 2020) | https://github.com/WSP-LAB/FUSE | 208 | 44| 
 | 20211220T06:19:19Z | Code for the paper %FlowLens: Enabling Efficient Flow Classification for ML-based Network Security Applications% [NDSS %21] | https://github.com/dmbb/FlowLens | 15 | 2| 
-| 20211214T10:37:21Z | Code for NDSS 2021 Paper %Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses Against Federated Learning% | https://github.com/vrt1shjwlkr/NDSS21-Model-Poisoning | 30 | 7| 
 | 20211203T05:22:50Z | Paper Downloader for NDSS Symposium 2021. | https://github.com/qianfei11/Paper_Downloader_for_NDSS_Symposium_2021 | 0 | 0| 
 | 20211202T07:57:27Z | Downloader for NDSS Symposium 2021 | https://github.com/qianfei11/Downloader_for_NDSS_Symposium_2021 | 0 | 0| 
 
