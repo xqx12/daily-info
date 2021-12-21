@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211221T01:25:06Z | Null | https://github.com/lindsayp30/emp_KLEEMEX | 0 | 0| 
+| 20211221T02:22:41Z | Null | https://github.com/lindsayp30/emp_KLEEMEX | 0 | 0| 
 | 20211220T21:56:49Z | Config files for my GitHub profile. | https://github.com/MichaelKleemoff/MichaelKleemoff | 0 | 0| 
 | 20211220T17:23:11Z | Witch-KLEE - A KLEE-based error witness checker | https://github.com/ayazip/witch-klee | 1 | 0| 
 | 20211220T15:55:51Z | Data and code for Klees et al. %Comparative Investigation of Gene Regulatory Processes Underlying Avian Influenza Viruses in Chicken and Duck% | https://github.com/SelinaKlees/AIV_chicken_duck | 0 | 0| 
@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211221T02:21:25Z | WIP Post-exploitation framework tailored for hypervisors. | https://github.com/Psmths/reave | 0 | 0| 
 | 20211221T02:20:06Z | A roblox exploit. | https://github.com/TeamSpaek/kano | 0 | 0| 
 | 20211221T02:17:27Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 316 | 769| 
 | 20211221T02:14:54Z | Windows exploit techniques. | https://github.com/anvbis/windows-exp | 0 | 0| 
@@ -99,7 +100,6 @@
 | 20211221T02:06:56Z | Null | https://github.com/Spard2/ps4exploit | 2 | 0| 
 | 20211221T02:03:11Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 39 | 20| 
 | 20211221T01:30:21Z | A convenient script that provides the bare essentials for exploiting such as ESP, freecam and aimbot. | https://github.com/TheDookySoo/Essentials | 1 | 0| 
-| 20211221T01:07:36Z | Log4Shell RCE Exploit - fully independent exploit does not require any 3rd party binaries. | https://github.com/cyberstruggle/L4sh | 203 | 55| 
 
 
 # backdoor on Github 推荐
