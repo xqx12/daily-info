@@ -90,7 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211221T02:36:50Z | Browser extension to prevent Log4J exploits against services running on private network and localhost. | https://github.com/paladincyber/log4jprotector | 1 | 0| 
+| 20211221T02:43:16Z | Browser extension to prevent Log4J exploits against services running on private network and localhost. | https://github.com/paladincyber/log4jprotector | 1 | 0| 
 | 20211221T02:30:56Z | Script PoC that exploits the Tentacles upload functionality of OctoBot trading bot and which leads to a remote code execution (RCE). | https://github.com/Nwqda/Sashimi-Evil-OctoBot-Tentacle | 0 | 0| 
 | 20211221T02:21:25Z | WIP Post-exploitation framework tailored for hypervisors. | https://github.com/Psmths/reave | 0 | 0| 
 | 20211221T02:20:06Z | A roblox exploit. | https://github.com/TeamSpaek/kano | 0 | 0| 
