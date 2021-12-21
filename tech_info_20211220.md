@@ -109,7 +109,7 @@
 | 20211220T21:52:51Z | Null | https://github.com/JoDeMiro/FuzzyBevezetes | 0 | 0| 
 | 20211220T20:44:22Z | Tool to Generate a Fuzzy Real Estate Development Model upon a Site | https://github.com/irawinder/FuzzyBuilder | 2 | 0| 
 | 20211220T20:18:41Z | Null | https://github.com/SERZDZEKSON/fuzzy-spork | 0 | 0| 
-| 20211220T14:12:09Z | Null | https://github.com/AntoCobRamos2003/fuzzy-funicular.github.io | 0 | 0| 
+| 20211220T20:04:32Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3841 | 903| 
 
 
 
