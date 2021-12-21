@@ -146,6 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211221T13:27:25Z | Null | https://github.com/Clearymk/TypeScriptFuzzer | 0 | 1| 
 | 20211221T13:17:43Z | Auto-gen fuzzing wrappers from normal code. Automatically find buggy call sequences, including data races & deadlocks. Supports rich signature types. | https://github.com/thepudds/fzgen | 4 | 0| 
 | 20211221T13:17:40Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 35932 | 18534| 
 | 20211221T12:58:21Z | Null | https://github.com/mallika-bit/FuzzyFriendFinder- | 0 | 0| 
@@ -155,7 +156,6 @@
 | 20211221T12:35:13Z | Forecasting SARS-CoV-2 Next Wave in Iran and the World Using TSK Fuzzy Neural Networks | https://github.com/SeyedMuhammadHosseinMousavi/Forecasting-SARS-CoV-2-Next-Wave-in-Iran-and-the-World-Using-TSK-Fuzzy-Neural-Networks | 1 | 0| 
 | 20211221T12:33:35Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3842 | 905| 
 | 20211221T12:32:56Z | Null | https://github.com/iii-i/zlib-fuzz | 3 | 0| 
-| 20211221T12:20:31Z | Null | https://github.com/Clearymk/TypeScriptFuzzer | 0 | 1| 
 
 
 
