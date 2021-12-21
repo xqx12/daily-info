@@ -28,7 +28,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211221T13:15:07Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
+| 20211221T13:15:55Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211221T12:55:17Z | CVE-2021-43224 | Windows Common Log File System Driver  POC | https://github.com/KaLendsi/CVE-2021-43224-POC | | 
 | 20211221T12:18:48Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
 | 20211221T11:12:43Z | cve-2021-44228 | Log4j CVE-2021-44228 examples: Remote Code Execution (through LDAP, RMI, ...), Forced DNS queries, ... | https://github.com/manuel-alvarez-alvarez/log4j-cve-2021-44228 | | 
@@ -43,7 +43,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211221T13:15:02Z | Data and code for Klees et al. %Comparative Investigation of Gene Regulatory Processes Underlying Avian Influenza Viruses in Chicken and Duck% | https://github.com/SelinaKlees/AIV_chicken_duck | 0 | 0| 
+| 20211221T13:15:49Z | Data and code for Klees et al. %Comparative Investigation of Gene Regulatory Processes Underlying Avian Influenza Viruses in Chicken and Duck% | https://github.com/SelinaKlees/AIV_chicken_duck | 0 | 0| 
 | 20211221T12:48:37Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 3132 | 95| 
 | 20211221T07:12:09Z | update | https://github.com/rizaluardi/KleeMusik-Pemrograman4 | 0 | 0| 
 | 20211221T06:37:47Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1852 | 524| 
@@ -101,6 +101,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211221T13:17:43Z | Auto-gen fuzzing wrappers from normal code. Automatically find buggy call sequences, including data races & deadlocks. Supports rich signature types. | https://github.com/thepudds/fzgen | 4 | 0| 
+| 20211221T13:17:40Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 35932 | 18534| 
 | 20211221T12:58:21Z | Null | https://github.com/mallika-bit/FuzzyFriendFinder- | 0 | 0| 
 | 20211221T12:57:37Z | Valet Parking | https://github.com/Arnav-KumarR/fuzzy-octo-meme | 0 | 0| 
 | 20211221T12:40:10Z | Fuzzer de url feito em python | https://github.com/devsecVinicius/urlFuzzer | 0 | 0| 
@@ -109,8 +111,6 @@
 | 20211221T12:33:35Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3842 | 905| 
 | 20211221T12:32:56Z | Null | https://github.com/iii-i/zlib-fuzz | 3 | 0| 
 | 20211221T12:20:31Z | Null | https://github.com/Clearymk/TypeScriptFuzzer | 0 | 1| 
-| 20211221T12:02:22Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 39 | 12| 
-| 20211221T12:00:13Z | StdFuzzer is the reference implementation of a generic bit-level fuzzer with LibAFL | https://github.com/AFLplusplus/StdFuzzer | 12 | 0| 
 
 
 
