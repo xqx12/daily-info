@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211221T01:11:50Z | Browser extension to prevent Log4J exploits against services running on private network and localhost. | https://github.com/paladincyber/log4jprotector | 0 | 0| 
 | 20211221T01:07:36Z | Log4Shell RCE Exploit - fully independent exploit does not require any 3rd party binaries. | https://github.com/cyberstruggle/L4sh | 203 | 55| 
 | 20211221T01:03:24Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 39 | 20| 
 | 20211221T00:56:48Z | A collection of intelligence about Log4Shell and its exploitation activity.  | https://github.com/curated-intel/Log4Shell-IOCs | 117 | 25| 
@@ -99,7 +100,6 @@
 | 20211220T23:52:23Z | 한물 간 log4j JNDI LDAP 취약점 테스트용 레포 | https://github.com/R2turnTrue/exploit_test | 0 | 0| 
 | 20211220T23:49:06Z | A Ruby library for Command & Control (C2) and Post Exploitation functionality. | https://github.com/ronin-rb/ronin-c2 | 2 | 0| 
 | 20211220T23:46:04Z | PS-Phwoar! Alpha Version Exploit Host Menu for 5.05 FW with GoldHen v2.0b2 Coded by SiSTRo | https://github.com/DTMExploits/DTMExploits.github.io | 0 | 0| 
-| 20211220T23:28:46Z | Exploiting the BERT Architecture to Reveal Political Bias in Different News Sources | https://github.com/nmorrison01/BiasThruBERT | 0 | 0| 
 
 
 # backdoor on Github 推荐
