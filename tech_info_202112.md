@@ -146,6 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211222T01:04:16Z | Auto-gen fuzzing wrappers from normal code. Automatically find buggy call sequences, including data races & deadlocks. Supports rich signature types. | https://github.com/thepudds/fzgen | 4 | 0| 
 | 20211222T00:59:24Z | Null | https://github.com/mallika-bit/FuzzyFriendFinder- | 0 | 0| 
 | 20211222T00:50:59Z | Null | https://github.com/TitamSeptian/makanan-fuzzy | 0 | 0| 
 | 20211222T00:44:38Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 35942 | 18542| 
@@ -155,7 +156,6 @@
 | 20211221T23:31:42Z | Null | https://github.com/oscarpimentel/fuzzy-torch | 1 | 0| 
 | 20211221T23:18:30Z | Simple Network Fuzzer in libafl | https://github.com/elbiazo/libafl_network_fuzzer | 0 | 0| 
 | 20211221T23:04:00Z | Null | https://github.com/PBearson/FUME-Fuzzing-MQTT-Brokers | 0 | 0| 
-| 20211221T23:03:39Z | Null | https://github.com/Cod-cypher/fuzzy-waddle | 0 | 0| 
 
 
 
