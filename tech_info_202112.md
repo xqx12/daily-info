@@ -46,11 +46,11 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211222T13:02:15Z | cve-2021-22005 | Null | https://github.com/shmilylty/cve-2021-22005-exp | | 
 | 20211222T12:49:22Z | cve-2021-44228 | Ansible detector scanner playbook to verify target Linux hosts using the official Red Hat Log4j detector script Remote Code Execution - log4j (CVE-2021-44228) | https://github.com/lucab85/log4j-cve-2021-44228 | | 
 | 20211222T12:22:07Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211222T12:17:00Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
 | 20211222T12:13:18Z | CVE-2021-41730 | Null | https://github.com/IBUILI/CVE-2021-41730 | | 
-| 20211222T11:00:11Z | cve-2021-22005 | Null | https://github.com/shmilylty/cve-2021-22005-exp | | 
 | 20211222T10:26:05Z | cve-2021-44228 | CVE-2021-44228-FIX-JARS | https://github.com/asyzdykov/cve-2021-44228-fix-jars | | 
 | 20211222T09:05:39Z | CVE-2021-33739 | CVE-2021-33739 PoC Analysis | https://github.com/giwon9977/CVE-2021-33739_PoC_Analysis | | 
 | 20211222T09:04:56Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211222T11:46:13Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 3140 | 95| 
+| 20211222T13:00:44Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 3141 | 95| 
 | 20211222T02:12:23Z | Null | https://github.com/lindsayp30/emp_KLEEMEX | 0 | 0| 
 | 20211221T13:15:49Z | Data and code for Klees et al. %Comparative Investigation of Gene Regulatory Processes Underlying Avian Influenza Viruses in Chicken and Duck% | https://github.com/SelinaKlees/AIV_chicken_duck | 0 | 0| 
 | 20211221T07:12:09Z | update | https://github.com/rizaluardi/KleeMusik-Pemrograman4 | 0 | 0| 
@@ -122,10 +122,10 @@
 | --- | --- | --- | --- | ---| 
 | 20211221T19:59:11Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 11 | 5| 
 | 20211221T18:22:11Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 345 | 28| 
-| 20211221T14:23:45Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2601 | 382| 
+| 20211221T14:23:45Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2601 | 383| 
 | 20211221T09:42:51Z | History of symbolic execution (as well as SAT/SMT solving, fuzzing, and taint data tracking) | https://github.com/enzet/symbolic-execution | 412 | 57| 
 | 20211221T06:37:47Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1852 | 524| 
-| 20211221T00:01:37Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1935 | 402| 
+| 20211221T00:01:37Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1935 | 404| 
 | 20211220T23:28:28Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 22 | 13| 
 | 20211220T18:13:47Z | Codebase for my Level 4 University Project: Static Analysis of Executable Code to Detect Backdoors on IoT Devices | https://github.com/sophieboyle/Symbolic-Execution-for-ARM-Backdoor-Detection | 0 | 0| 
 | 20211220T17:54:14Z | Monster is a symbolic execution engine for 64-bit RISC-U code | https://github.com/cksystemsgroup/monster | 7 | 3| 
