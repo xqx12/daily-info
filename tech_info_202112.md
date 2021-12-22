@@ -61,8 +61,8 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211222T01:14:14Z | Null | https://github.com/lindsayp30/emp_KLEEMEX | 0 | 0| 
 | 20211222T01:06:04Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 3133 | 95| 
-| 20211221T18:19:54Z | Null | https://github.com/lindsayp30/emp_KLEEMEX | 0 | 0| 
 | 20211221T13:15:49Z | Data and code for Klees et al. %Comparative Investigation of Gene Regulatory Processes Underlying Avian Influenza Viruses in Chicken and Duck% | https://github.com/SelinaKlees/AIV_chicken_duck | 0 | 0| 
 | 20211221T07:12:09Z | update | https://github.com/rizaluardi/KleeMusik-Pemrograman4 | 0 | 0| 
 | 20211221T06:37:47Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1852 | 524| 
@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211222T01:12:46Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 110 | 39| 
 | 20211222T01:03:29Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 39 | 20| 
 | 20211222T00:54:08Z | Powershell Log4j Exploit detection | https://github.com/jake-k-38/win-log4j-detect | 1 | 0| 
 | 20211222T00:52:44Z | A collection of intelligence about Log4Shell and its exploitation activity.  | https://github.com/curated-intel/Log4Shell-IOCs | 119 | 27| 
@@ -99,7 +100,6 @@
 | 20211222T00:16:21Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 317 | 775| 
 | 20211222T00:01:12Z | log4j RCE Exploitation Detection | https://github.com/sparkydz/log4j-RCE-Exploitation-Detection | 0 | 0| 
 | 20211221T23:57:16Z | Certifications: CompTIA CySA+ (verification code: GKYCNPRFWKFQQF3R)  ● Graduate of the University of San Diego Cyber Bootcamp, San Diego, CA in July 2021. Instructed by Fullstack Academy, Certificate in Cyber Security  ● Udemy CompTIA CySA+ Course: Certification no: UC-4b3857c-Odc8-4cbc-952b-a19b28fe83c8  ● Proficient: Kali Linux, HTML3, Windows ● Knowledgeable: Splunk, Nessus, SNORT, Python 3, Networking Fundamentals, Metasploit, Wireshark, Netcat, NMAP, Dirbuster, Nikto, Virtual Machines, John, iptables, penetration testing, SIEM tools, Microsoft Windows 2019 server, network fundamentals | https://github.com/SpartanMike/Technical-Capabilities | 0 | 0| 
-| 20211221T23:43:07Z | Random Roblox Hacks + My script hub | https://github.com/Banaanae/exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐

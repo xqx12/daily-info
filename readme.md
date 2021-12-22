@@ -46,7 +46,6 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211221T18:19:54Z | Null | https://github.com/lindsayp30/emp_KLEEMEX | 0 | 0| 
 | 20211221T13:15:49Z | Data and code for Klees et al. %Comparative Investigation of Gene Regulatory Processes Underlying Avian Influenza Viruses in Chicken and Duck% | https://github.com/SelinaKlees/AIV_chicken_duck | 0 | 0| 
 | 20211221T07:12:09Z | update | https://github.com/rizaluardi/KleeMusik-Pemrograman4 | 0 | 0| 
 | 20211221T06:37:47Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1852 | 524| 
@@ -67,11 +66,11 @@
 | 20211221T23:41:21Z | This bash scripts will help you to hack remote hosts. You can choose and run one of them. | https://github.com/FabioDefilippo/linuxallremote | 30 | 5| 
 | 20211221T23:40:01Z | this bash script is for remote linux and macos hosts hacked! | https://github.com/FabioDefilippo/linuxallenum | 17 | 0| 
 | 20211221T23:33:07Z | Codes from Hacking: The Art of Exploitation book. By Jon Erickson. | https://github.com/edupazzz/Hacking-The-Art-of-Exploitation-Book | 0 | 0| 
-| 20211221T23:23:40Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 109 | 39| 
 | 20211221T23:12:05Z | A compilation of all the malware found through log4shell exploit | https://github.com/entropyQueen/log4shell_malwares | 0 | 0| 
 | 20211221T22:09:56Z | Null | https://github.com/TNYCL/rise-login-exploit | 0 | 0| 
 | 20211221T21:49:58Z | A module for Garry%s Mod that mitigates exploits on the Source engine. | https://github.com/danielga/gmsv_serversecure | 82 | 23| 
 | 20211221T20:57:53Z | Demo Project for the Log4j vulnerability | https://github.com/predic8/log4j-log4shell-exploit | 2 | 1| 
+| 20211221T20:54:20Z | Build a local copy of Known Exploited Vulnerabilities Catalog by CISA. Server mode for easy querying.  | https://github.com/vulsio/go-kev | 7 | 2| 
 
 
 # backdoor on Github 推荐
