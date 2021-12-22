@@ -6,6 +6,17 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20211222 | 有研究员研究发现，恶意 App 可以通过访问华为 Android 手机的触屏事件统计日志还原用户的触屏输入。目前该问题已被修复。 | https://labs.taszk.io/articles/post/ouchscreen/| 
+| 20211222 | TLS Certificate Security for Android | https://www.guardsquare.com/blog/insecure-tls-certificate-checking-in-android-apps| 
+| 20211222 | 研究 Cobalt Strike 以及 IAT Hooking 的细节，绕过 BeaconEye 的检测 | https://www.cyberark.com/resources/threat-research-blog/hook-heaps-and-live-free| 
+| 20211222 | moonwalk - Linux 环境渗透抹掉日志等痕迹的工具 | https://github.com/mufeedvh/moonwalk| 
+| 20211222 | Chrome 浏览器 Proctorio 扩展 UXSS 漏洞分析 | http://sector7.computest.nl/post/2021-12-proctorio/| 
+| 20211222 | Windows Common Log File System Driver CVE-2021-43224 PoC | http://github.com/KaLendsi/CVE-2021-43224-POC| 
+| 20211222 | 在 Windows 11 Subsystem for Android 子系统环境中测试 Android App | https://sensepost.com/blog/2021/android-application-testing-using-windows-11-and-windows-subsystem-for-android/| 
+| 20211222 | ShadowBrokers dewdrop 后门工具的分析 | http://reverse.put.as/2021/12/17/knock-knock-whos-there/| 
+| 20211222 | 据 Palo Alto 公司分析，APT 组织利用 ManageEngine ServiceDesk Plus IT 服务管理软件渗透 13 家技术、能源、健康等行业的机构 | https://unit42.paloaltonetworks.com/tiltedtemple-manageengine-servicedesk-plus/| 
+| 20211222 | Ellume 生产的 COVID-19 家用检测试剂盒被发现结果可以伪造 | https://sec.today/pulses/00ea24cb-8c5c-4f38-a509-aef134753940/| 
+| 20211222 | Ellume 生产的 COVID-19 家用检测试剂盒被发现结果可以伪造 | http://labs.f-secure.com/blog/faking-a-positive-covid-test/| 
 | 20211221 | 从蜜罐视角看 Apache Log4j2 漏洞攻击趋势 | https://mp.weixin.qq.com/s/Hy9VYJT8y1JJqHnxy5aVGA| 
 | 20211221 | Lizard - 代码复杂度分析工具 | https://github.com/terryyin/lizard| 
 | 20211221 | EyeWitness - 为网站创建快照的工具 | https://github.com/FortyNorthSecurity/EyeWitness| 
@@ -15,17 +26,6 @@
 | 20211221 | 在进程中扫描 .NET CLR 模块的工具 | https://github.com/bohops/RogueAssemblyHunter| 
 | 20211221 | The Price of Compatibility: Defeating macOS Kernel Using Extended File Attributes | https://i.blackhat.com/asia-21/Friday-Handouts/as-21-Fan-The-Price-Of-Compatibility-Defeating-MacOS-Kernel-Using-Extended-File-Attributes.pdf| 
 | 20211221 | Auerswald PBX 电话交换机被发现固件级后门 | http://blog.redteam-pentesting.de/2021/inside-a-pbx/| 
-| 20211221 | ESFang - 基于 macOS Endpoint Security 框架的威胁检测方案 | https://sec.today/pulses/f9a748cc-a714-4131-8a59-56fbb6eabf92/| 
-| 20211221 | ESFang - 基于 macOS Endpoint Security 框架的威胁检测方案 | http://labs.f-secure.com/blog/esfang-exploring-the-macos-endpoint-security-framework-for-threat-detection/| 
-| 20211221 | 高版本堆tcache 一般利用手法总结(glibc2.27-2.32). | https://tttang.com/archive/1362/| 
-| 20211221 | More Undetected PowerShell Dropper. | http://i5c.us/d28158| 
-| 20211220 | 解析(CVE-2021-42287)与(CVE-2021-42278). | https://tttang.com/archive/1380/| 
-| 20211219 | Apache Log4j 漏洞对安全社区影响的分析，据 Google 统计，超过 3.5 万个 Java 包受到 log4j 漏洞影响 | https://security.googleblog.com/2021/12/understanding-impact-of-apache-log4j.html| 
-| 20211219 | Code2flow - 为动态编程语言生成 Call Graphs 的工具，支持 Python, Javascript, Ruby, 以及 PHP. | https://github.com/scottrogowski/code2flow| 
-| 20211219 | C# 编写的内核驱动，用于读写受保护进程的内存 | https://github.com/VollRagm/KernelBypassSharp| 
-| 20211219 | 不同无线协议（WiFi、蓝牙、LTE）在设备芯片中共存带来的安全攻击面 | https://arxiv.org/pdf/2112.05719.pdf| 
-| 20211219 | Sysmon For Linux 的文档 | https://github.com/Sysinternals/SysmonForLinux/tree/main/doc| 
-| 20211219 | 在 LDAP 环境中探测错误配置攻击面的工具 | https://github.com/SecuProject/ADenum| 
 
 
 # 安全维基 推荐
@@ -46,23 +46,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211222T02:41:51Z | CVE-2021-43224 | Windows Common Log File System Driver  POC | https://github.com/KaLendsi/CVE-2021-43224-POC | | 
-| 20211222T01:54:19Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
-| 20211222T01:44:02Z | cve-2021-44228 | Ansible detector scanner playbook to verify target Linux hosts using the official Red Hat Log4j detector script Remote Code Execution - log4j (CVE-2021-44228) | https://github.com/lucab85/log4j-cve-2021-44228 | | 
-| 20211222T00:56:20Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
-| 20211222T00:25:50Z | CVE-2021-43798 | CVE-2021-43798 is a vulnerability marked as High priority (CVSS 7.5) leading to arbitrary file read via installed plugins in Grafana application. | https://github.com/LongWayHomie/CVE-2021-43798 | | 
-| 20211221T23:41:01Z | CVE-2021-43798 | Null | https://github.com/halencarjunior/grafana-CVE-2021-43798 | | 
-| 20211221T21:28:14Z | CVE-2021-44228 | Null | https://github.com/VerveIndustrialProtection/CVE-2021-44228-Log4j | | 
-| 20211221T21:10:58Z | CVE-2021-44228 | Blog Sample Code | https://github.com/motikan2010/RASP-CVE-2021-44228 | | 
-| 20211221T19:48:59Z | CVE-2021-44228 | Log4j2 CVE-2021-44228 revshell, ofc it suck!! | https://github.com/faisalfs10x/Log4j2-CVE-2021-44228-revshell | | 
-| 20211221T19:48:27Z | CVE-2021-44228 | Null | https://github.com/b-abderrahmane/CVE-2021-44228-playground | | 
+| 20211222T12:49:22Z | cve-2021-44228 | Ansible detector scanner playbook to verify target Linux hosts using the official Red Hat Log4j detector script Remote Code Execution - log4j (CVE-2021-44228) | https://github.com/lucab85/log4j-cve-2021-44228 | | 
+| 20211222T12:22:07Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
+| 20211222T12:17:00Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
+| 20211222T12:13:18Z | CVE-2021-41730 | Null | https://github.com/IBUILI/CVE-2021-41730 | | 
+| 20211222T11:00:11Z | cve-2021-22005 | Null | https://github.com/shmilylty/cve-2021-22005-exp | | 
+| 20211222T10:26:05Z | cve-2021-44228 | CVE-2021-44228-FIX-JARS | https://github.com/asyzdykov/cve-2021-44228-fix-jars | | 
+| 20211222T09:05:39Z | CVE-2021-33739 | CVE-2021-33739 PoC Analysis | https://github.com/giwon9977/CVE-2021-33739_PoC_Analysis | | 
+| 20211222T09:04:56Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
+| 20211222T05:37:14Z | CVE-2021-44228 | Log4J CVE-2021-44228 : Mitigation Cheat Sheet | https://github.com/thedevappsecguy/Log4J-Mitigation-CVE-2021-44228--CVE-2021-45046--CVE-2021-45105 | | 
+| 20211222T05:17:02Z | CVE-2021-44228 | CVE-2021-44228 - Log4J Start To End Guide Book | https://github.com/NitinGavhane/CVE-2021-44228---Log4J | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211222T11:46:13Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 3140 | 95| 
 | 20211222T02:12:23Z | Null | https://github.com/lindsayp30/emp_KLEEMEX | 0 | 0| 
-| 20211222T01:06:04Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 3133 | 95| 
 | 20211221T13:15:49Z | Data and code for Klees et al. %Comparative Investigation of Gene Regulatory Processes Underlying Avian Influenza Viruses in Chicken and Duck% | https://github.com/SelinaKlees/AIV_chicken_duck | 0 | 0| 
 | 20211221T07:12:09Z | update | https://github.com/rizaluardi/KleeMusik-Pemrograman4 | 0 | 0| 
 | 20211221T06:37:47Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1852 | 524| 
@@ -76,7 +76,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211221T14:38:20Z | CRAX++: software CRash analysis for Automatic eXploit generation | https://github.com/aesophor/CRAXplusplus | 26 | 3| 
+| 20211222T09:23:36Z | CRAX++: software CRash analysis for Automatic eXploit generation | https://github.com/aesophor/CRAXplusplus | 26 | 3| 
 | 20211220T16:27:39Z | Linux kernels (CGC DECREE and vanilla) with S2E extensions | https://github.com/S2E/s2e-linux-kernel | 16 | 5| 
 | 20211219T09:57:32Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 192 | 41| 
 | 20211218T16:24:46Z | Null | https://github.com/saku31114/s2explab | 0 | 0| 
@@ -90,31 +90,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211222T02:57:58Z | Random lua things for roblox exploiting lolye | https://github.com/DontAltF4/RandomProjects | 0 | 0| 
-| 20211222T02:37:37Z | log4j2 dos exploit,CVE-2021-45105 exploit,Denial of Service poc | https://github.com/iAmSOScArEd/log4j2_dos_exploit | 2 | 0| 
-| 20211222T02:16:45Z | Kali linux exploit tools guide repository. | https://github.com/Logic-01001010/KaliGuide | 1 | 0| 
-| 20211222T02:11:15Z | A collection of intelligence about Log4Shell and its exploitation activity.  | https://github.com/curated-intel/Log4Shell-IOCs | 120 | 27| 
-| 20211222T02:03:19Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 39 | 20| 
-| 20211222T01:56:41Z | PS4 9.00 Firmware Exploit Host | https://github.com/KameleonReloaded/900V4B | 2 | 5| 
-| 20211222T01:20:41Z | Exploit and prevent HTTP Interception | https://github.com/webofchaos/HTTP-Interception | 0 | 0| 
-| 20211222T01:12:46Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 110 | 39| 
-| 20211222T00:54:08Z | Powershell Log4j Exploit detection | https://github.com/jake-k-38/win-log4j-detect | 1 | 0| 
-| 20211222T00:45:58Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 17| 
+| 20211222T13:00:49Z | A cheat sheet that contains common enumeration and attack methods for Windows Active Directory. | https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet | 2480 | 594| 
+| 20211222T12:46:08Z | A peer 2 peer approach to increase price stability and to reduce price manipulation by exploiting non-fundamentals-based volatility | https://github.com/distributed-ledger-technology/vofarm-deno-part | 0 | 3| 
+| 20211222T12:45:59Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 17| 
+| 20211222T12:38:41Z | Repository of exploits for research purposes | https://github.com/ulexec/Exploits | 3 | 0| 
+| 20211222T12:36:26Z | 😎 Exploiting utility for Roblox. | https://github.com/x-eq/comet | 3 | 0| 
+| 20211222T12:31:25Z | A helpful Java Deserialization exploit framework. | https://github.com/wh1t3p1g/ysomap | 602 | 69| 
+| 20211222T12:30:16Z | My TryHackMe writeups and notes  | https://github.com/dnts3110/TryHackMe-Writeups | 1 | 0| 
+| 20211222T12:24:30Z | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | 13 | 4| 
+| 20211222T12:24:29Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10464 | 1801| 
+| 20211222T12:22:02Z | A collection of the solidity exploits I wrote as I worked through OpenZeppelin%s ethernaut. | https://github.com/Ryzen303/Ethernaut-exploit-codes | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211222T02:17:50Z | Null | https://github.com/Ramirez1001/backdoor | 0 | 0| 
+| 20211222T12:53:55Z | Null | https://github.com/ccccccc17/trpo_backdoor | 0 | 0| 
+| 20211222T12:45:20Z | Undocumented credentials for SL2100 / SL1100 | https://github.com/asiplas/nec-sl-series-engineering-backdoor | 0 | 0| 
+| 20211222T09:56:09Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/META-HYDRA/Xeexe-TopAntivirusEvasion | 633 | 137| 
+| 20211222T09:51:25Z | Administração remota simples com node e express | https://github.com/kupessala/node-backdoor-exprees | 0 | 0| 
+| 20211222T09:38:25Z | Implementations and demo of a regular Backdoor and a Latent backdoor attack on Deep Neural Networks. | https://github.com/dunnkers/neural-network-backdoors | 6 | 0| 
+| 20211222T09:16:52Z | Null | https://github.com/jianqiaomo/CSAW-HackML-2020-BackdoorDetector | 0 | 1| 
+| 20211222T08:20:13Z | Null | https://github.com/Ramirez1001/backdoor | 0 | 0| 
+| 20211222T04:58:53Z | Website Shell BackDoors | https://github.com/7r0j4ncodeing/Web-Shells | 23 | 7| 
 | 20211222T02:16:27Z | C#编写的远程控制软件。A remote tool(RAT) written in C#. | https://github.com/7hr0wer/V4mp1r3 | 75 | 3| 
 | 20211222T00:03:03Z | It%s a socket backdoor, to execute your commands on victims devices  | https://github.com/MaherGebrail/Socket-BackDoor | 0 | 0| 
-| 20211221T16:48:37Z | Null | https://github.com/jianqiaomo/CSAW-HackML-2020-BackdoorDetector | 0 | 1| 
-| 20211221T08:16:41Z | Create a fully undetectable backdoor with simple steps. | https://github.com/3ct0s/fud-backdoor | 9 | 7| 
-| 20211221T06:22:23Z | Remote control software, supported Windows/Unix/MacOS/Linux(x86/x64/mips/arm) | https://github.com/h1zzz/purewater | 5 | 0| 
-| 20211221T06:17:34Z | Null | https://github.com/leileigan/clean_label_textual_backdoor_attack | 3 | 0| 
-| 20211221T01:59:52Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 399 | 69| 
-| 20211220T21:13:21Z | shell backdoor buat peretas website, di jamin tembus di segala perang :) , sudah di test di beberapa  website bahkan server windows sekalipun rasanya ANJING BANGET | https://github.com/beruangsalju/shell | 1 | 3| 
-| 20211220T18:13:47Z | Codebase for my Level 4 University Project: Static Analysis of Executable Code to Detect Backdoors on IoT Devices | https://github.com/sophieboyle/Symbolic-Execution-for-ARM-Backdoor-Detection | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -146,16 +146,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211222T02:55:50Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 35946 | 18542| 
-| 20211222T02:49:23Z | Null | https://github.com/tranquac/log4j-fuzzing | 0 | 0| 
-| 20211222T02:28:45Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20211222T02:28:23Z | Simple Network Fuzzer in libafl | https://github.com/elbiazo/libafl_network_fuzzer | 0 | 0| 
-| 20211222T02:24:39Z | Null | https://github.com/PBearson/FUME-Fuzzing-MQTT-Brokers | 0 | 0| 
-| 20211222T02:01:40Z | A useful tool for fuzz job. | https://github.com/alexqiaodan/nfuzz | 2 | 0| 
-| 20211222T01:52:33Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2446 | 151| 
-| 20211222T01:22:30Z | aeiou | https://github.com/XMPPwocky/fuzz-infra | 0 | 0| 
-| 20211222T01:04:16Z | Auto-gen fuzzing wrappers from normal code. Automatically find buggy call sequences, including data races & deadlocks. Supports rich signature types. | https://github.com/thepudds/fzgen | 4 | 0| 
-| 20211222T00:59:24Z | Null | https://github.com/mallika-bit/FuzzyFriendFinder- | 0 | 0| 
+| 20211222T13:00:34Z | Null | https://github.com/KeenGear/fuzzy-doodle | 0 | 0| 
+| 20211222T12:37:19Z | Null | https://github.com/Maxim341/fuzzy_prototype | 0 | 0| 
+| 20211222T12:28:10Z | FreeType Fuzzer | https://github.com/BOB-Jour/Glitch_Fuzzer | 0 | 0| 
+| 20211222T12:27:35Z | Domato + Template based Fuzzing | https://github.com/BOB-Jour/Domino_Fuzzer | 1 | 0| 
+| 20211222T12:02:16Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 39 | 12| 
+| 20211222T11:47:05Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 735 | 146| 
+| 20211222T11:32:09Z | Null | https://github.com/Zantqla/fuzzy-octo-broccoli | 0 | 0| 
+| 20211222T11:24:34Z | A black-box fuzzer for TeX | https://github.com/bendrissou/tex-fuzzer | 0 | 0| 
+| 20211222T11:04:28Z | Auto-gen fuzzing wrappers from normal code. Finds buggy call sequences, including data races & deadlocks. Supports rich signature types. | https://github.com/thepudds/fzgen | 4 | 0| 
+| 20211222T10:52:47Z | Null | https://github.com/toy-soldier/fuzzy-enigma | 0 | 0| 
 
 
 
