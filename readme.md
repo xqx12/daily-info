@@ -95,6 +95,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211222T13:26:14Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6961 | 1455| 
 | 20211222T13:16:49Z | Null | https://github.com/toy-soldier/fuzzy-enigma | 0 | 0| 
 | 20211222T13:05:46Z | Null | https://github.com/KeenGear/fuzzy-doodle | 0 | 0| 
 | 20211222T12:37:19Z | Null | https://github.com/Maxim341/fuzzy_prototype | 0 | 0| 
@@ -104,7 +105,6 @@
 | 20211222T11:47:05Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 735 | 146| 
 | 20211222T11:32:09Z | Null | https://github.com/Zantqla/fuzzy-octo-broccoli | 0 | 0| 
 | 20211222T11:24:34Z | A black-box fuzzer for TeX | https://github.com/bendrissou/tex-fuzzer | 0 | 0| 
-| 20211222T11:04:28Z | Auto-gen fuzzing wrappers from normal code. Finds buggy call sequences, including data races & deadlocks. Supports rich signature types. | https://github.com/thepudds/fzgen | 4 | 0| 
 
 
 
