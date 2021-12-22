@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211222T01:06:39Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211222T00:56:20Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
-| 20211222T00:33:35Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211222T00:25:50Z | CVE-2021-43798 | CVE-2021-43798 is a vulnerability marked as High priority (CVSS 7.5) leading to arbitrary file read via installed plugins in Grafana application. | https://github.com/LongWayHomie/CVE-2021-43798 | | 
 | 20211221T23:41:01Z | CVE-2021-43798 | Null | https://github.com/halencarjunior/grafana-CVE-2021-43798 | | 
 | 20211221T23:08:41Z | cve-2021-44228 | Ansible detector scanner playbook to verify target Linux hosts using the official Red Hat Log4j detector script Remote Code Execution - log4j (CVE-2021-44228) | https://github.com/lucab85/log4j-cve-2021-44228 | | 
@@ -61,8 +61,8 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211222T01:06:04Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 3133 | 95| 
 | 20211221T18:19:54Z | Null | https://github.com/lindsayp30/emp_KLEEMEX | 0 | 0| 
-| 20211221T13:43:02Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 3132 | 95| 
 | 20211221T13:15:49Z | Data and code for Klees et al. %Comparative Investigation of Gene Regulatory Processes Underlying Avian Influenza Viruses in Chicken and Duck% | https://github.com/SelinaKlees/AIV_chicken_duck | 0 | 0| 
 | 20211221T07:12:09Z | update | https://github.com/rizaluardi/KleeMusik-Pemrograman4 | 0 | 0| 
 | 20211221T06:37:47Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1852 | 524| 
@@ -90,13 +90,13 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211222T01:03:29Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 39 | 20| 
 | 20211222T00:54:08Z | Powershell Log4j Exploit detection | https://github.com/jake-k-38/win-log4j-detect | 1 | 0| 
 | 20211222T00:52:44Z | A collection of intelligence about Log4Shell and its exploitation activity.  | https://github.com/curated-intel/Log4Shell-IOCs | 119 | 27| 
 | 20211222T00:45:58Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 17| 
 | 20211222T00:38:12Z | Fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | 0 | 0| 
 | 20211222T00:28:40Z | Null | https://github.com/mustafaaljadery/exploitalphawebapp | 0 | 0| 
 | 20211222T00:16:21Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 317 | 775| 
-| 20211222T00:03:47Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 39 | 20| 
 | 20211222T00:01:12Z | log4j RCE Exploitation Detection | https://github.com/sparkydz/log4j-RCE-Exploitation-Detection | 0 | 0| 
 | 20211221T23:57:16Z | Certifications: CompTIA CySA+ (verification code: GKYCNPRFWKFQQF3R)  ● Graduate of the University of San Diego Cyber Bootcamp, San Diego, CA in July 2021. Instructed by Fullstack Academy, Certificate in Cyber Security  ● Udemy CompTIA CySA+ Course: Certification no: UC-4b3857c-Odc8-4cbc-952b-a19b28fe83c8  ● Proficient: Kali Linux, HTML3, Windows ● Knowledgeable: Splunk, Nessus, SNORT, Python 3, Networking Fundamentals, Metasploit, Wireshark, Netcat, NMAP, Dirbuster, Nikto, Virtual Machines, John, iptables, penetration testing, SIEM tools, Microsoft Windows 2019 server, network fundamentals | https://github.com/SpartanMike/Technical-Capabilities | 0 | 0| 
 | 20211221T23:43:07Z | Random Roblox Hacks + My script hub | https://github.com/Banaanae/exploits | 0 | 0| 
