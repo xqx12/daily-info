@@ -108,12 +108,12 @@
 | 20211221T23:38:28Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20211221T23:33:12Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6962 | 1454| 
 | 20211221T23:31:42Z | Null | https://github.com/oscarpimentel/fuzzy-torch | 1 | 0| 
-| 20211221T23:04:00Z | Null | https://github.com/PBearson/FUME-Fuzzing-MQTT-Brokers | 0 | 0| 
 | 20211221T23:03:39Z | Null | https://github.com/Cod-cypher/fuzzy-waddle | 0 | 0| 
 | 20211221T22:46:59Z | FreeType Fuzzer | https://github.com/BOB-Jour/Glitch_Fuzzer | 0 | 0| 
 | 20211221T22:36:29Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211221T22:18:47Z | Null | https://github.com/allexks/FuzzyKit | 0 | 0| 
 | 20211221T22:03:41Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 735 | 146| 
+| 20211221T21:55:38Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
 
 
 
