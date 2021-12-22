@@ -146,9 +146,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211222T13:58:33Z | Null | https://github.com/toy-soldier/fuzzy-enigma | 0 | 0| 
 | 20211222T13:45:23Z | OSS-Sydr-Fuzz - OSS-Fuzz fork for hybrid fuzzing (fuzzer+DSE) open source software. | https://github.com/ispras/oss-sydr-fuzz | 10 | 3| 
 | 20211222T13:26:14Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6961 | 1455| 
-| 20211222T13:16:49Z | Null | https://github.com/toy-soldier/fuzzy-enigma | 0 | 0| 
 | 20211222T13:05:46Z | Null | https://github.com/KeenGear/fuzzy-doodle | 0 | 0| 
 | 20211222T12:37:19Z | Null | https://github.com/Maxim341/fuzzy_prototype | 0 | 0| 
 | 20211222T12:28:10Z | FreeType Fuzzer | https://github.com/BOB-Jour/Glitch_Fuzzer | 0 | 0| 
