@@ -95,7 +95,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211222T13:05:11Z | Null | https://github.com/KeenGear/fuzzy-doodle | 0 | 0| 
+| 20211222T13:05:46Z | Null | https://github.com/KeenGear/fuzzy-doodle | 0 | 0| 
 | 20211222T12:37:19Z | Null | https://github.com/Maxim341/fuzzy_prototype | 0 | 0| 
 | 20211222T12:28:10Z | FreeType Fuzzer | https://github.com/BOB-Jour/Glitch_Fuzzer | 0 | 0| 
 | 20211222T12:27:35Z | Domato + Template based Fuzzing | https://github.com/BOB-Jour/Domino_Fuzzer | 1 | 0| 
