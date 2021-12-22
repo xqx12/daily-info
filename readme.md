@@ -88,8 +88,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211221T19:59:11Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 11 | 5| 
+| 20211221T18:22:11Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 345 | 28| 
+| 20211221T14:23:45Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2601 | 382| 
 | 20211221T09:42:51Z | History of symbolic execution (as well as SAT/SMT solving, fuzzing, and taint data tracking) | https://github.com/enzet/symbolic-execution | 412 | 57| 
-| 20211221T09:10:00Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2600 | 382| 
 | 20211221T06:37:47Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1852 | 524| 
 | 20211221T00:01:37Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1935 | 402| 
 

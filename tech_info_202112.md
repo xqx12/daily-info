@@ -120,16 +120,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211221T19:59:11Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 11 | 5| 
+| 20211221T18:22:11Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 345 | 28| 
+| 20211221T14:23:45Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2601 | 382| 
 | 20211221T09:42:51Z | History of symbolic execution (as well as SAT/SMT solving, fuzzing, and taint data tracking) | https://github.com/enzet/symbolic-execution | 412 | 57| 
-| 20211221T09:10:00Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2600 | 382| 
 | 20211221T06:37:47Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1852 | 524| 
 | 20211221T00:01:37Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1935 | 402| 
 | 20211220T23:28:28Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 22 | 13| 
 | 20211220T18:13:47Z | Codebase for my Level 4 University Project: Static Analysis of Executable Code to Detect Backdoors on IoT Devices | https://github.com/sophieboyle/Symbolic-Execution-for-ARM-Backdoor-Detection | 0 | 0| 
 | 20211220T17:54:14Z | Monster is a symbolic execution engine for 64-bit RISC-U code | https://github.com/cksystemsgroup/monster | 7 | 3| 
 | 20211220T13:52:06Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 166 | 37| 
-| 20211219T18:05:23Z | A symbolic execution VM | https://github.com/netanelgilad/prophet | 0 | 0| 
-| 20211219T17:02:51Z | Symbolica%s open-source symbolic execution engine. | https://github.com/Symbolica/Symbolica | 47 | 3| 
 
 
 # big4 on Github 推荐
