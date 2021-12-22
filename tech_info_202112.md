@@ -146,7 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211222T02:46:12Z | Null | https://github.com/tranquac/log4j-fuzzing | 0 | 0| 
+| 20211222T02:47:10Z | Null | https://github.com/tranquac/log4j-fuzzing | 0 | 0| 
 | 20211222T02:28:45Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211222T02:28:23Z | Simple Network Fuzzer in libafl | https://github.com/elbiazo/libafl_network_fuzzer | 0 | 0| 
 | 20211222T02:24:39Z | Null | https://github.com/PBearson/FUME-Fuzzing-MQTT-Brokers | 0 | 0| 
