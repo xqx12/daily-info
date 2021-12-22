@@ -105,9 +105,9 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211222T13:25:27Z | Undocumented credentials for SL2100 / SL1100 | https://github.com/asiplas/nec-sl-series-engineering-backdoor | 0 | 0| 
 | 20211222T13:08:10Z | Null | https://github.com/leileigan/clean_label_textual_backdoor_attack | 3 | 0| 
 | 20211222T12:53:55Z | Null | https://github.com/ccccccc17/trpo_backdoor | 0 | 0| 
-| 20211222T12:45:20Z | Undocumented credentials for SL2100 / SL1100 | https://github.com/asiplas/nec-sl-series-engineering-backdoor | 0 | 0| 
 | 20211222T09:56:09Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/META-HYDRA/Xeexe-TopAntivirusEvasion | 633 | 137| 
 | 20211222T09:51:25Z | Administração remota simples com node e express | https://github.com/kupessala/node-backdoor-exprees | 0 | 0| 
 | 20211222T09:38:25Z | Implementations and demo of a regular Backdoor and a Latent backdoor attack on Deep Neural Networks. | https://github.com/dunnkers/neural-network-backdoors | 6 | 0| 
