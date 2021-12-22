@@ -27,6 +27,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211222T13:14:22Z | CVE-2021-44228 | Log4J CVE-2021-44228 : Mitigation Cheat Sheet | https://github.com/thedevappsecguy/Log4J-Mitigation-CVE-2021-44228--CVE-2021-45046--CVE-2021-45105 | | 
 | 20211222T13:02:15Z | cve-2021-22005 | Null | https://github.com/shmilylty/cve-2021-22005-exp | | 
 | 20211222T12:49:22Z | cve-2021-44228 | Ansible detector scanner playbook to verify target Linux hosts using the official Red Hat Log4j detector script Remote Code Execution - log4j (CVE-2021-44228) | https://github.com/lucab85/log4j-cve-2021-44228 | | 
 | 20211222T12:22:07Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
@@ -35,8 +36,7 @@
 | 20211222T10:26:05Z | cve-2021-44228 | CVE-2021-44228-FIX-JARS | https://github.com/asyzdykov/cve-2021-44228-fix-jars | | 
 | 20211222T09:05:39Z | CVE-2021-33739 | CVE-2021-33739 PoC Analysis | https://github.com/giwon9977/CVE-2021-33739_PoC_Analysis | | 
 | 20211222T09:04:56Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
-| 20211222T05:37:14Z | CVE-2021-44228 | Log4J CVE-2021-44228 : Mitigation Cheat Sheet | https://github.com/thedevappsecguy/Log4J-Mitigation-CVE-2021-44228--CVE-2021-45046--CVE-2021-45105 | | 
-| 20211222T05:17:02Z | CVE-2021-44228 | CVE-2021-44228 - Log4J Start To End Guide Book | https://github.com/NitinGavhane/CVE-2021-44228---Log4J | | 
+| 20211222T06:29:21Z | CVE-2021-44228 | Windows Batch Scrip to Fix the log4j-issue-CVE-2021-44228 | https://github.com/chandru-gunasekaran/log4j-fix-CVE-2021-44228 | | 
 
 
 # klee on Github 推荐
