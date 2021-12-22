@@ -42,7 +42,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211222T13:00:44Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 3141 | 95| 
+| 20211222T13:03:33Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 3142 | 95| 
 | 20211222T02:12:23Z | Null | https://github.com/lindsayp30/emp_KLEEMEX | 0 | 0| 
 
 
@@ -55,6 +55,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211222T13:03:11Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
 | 20211222T13:00:49Z | A cheat sheet that contains common enumeration and attack methods for Windows Active Directory. | https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet | 2480 | 594| 
 | 20211222T12:46:08Z | A peer 2 peer approach to increase price stability and to reduce price manipulation by exploiting non-fundamentals-based volatility | https://github.com/distributed-ledger-technology/vofarm-deno-part | 0 | 3| 
 | 20211222T12:45:59Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 17| 
@@ -64,7 +65,6 @@
 | 20211222T12:30:16Z | My TryHackMe writeups and notes  | https://github.com/dnts3110/TryHackMe-Writeups | 1 | 0| 
 | 20211222T12:24:30Z | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | 13 | 4| 
 | 20211222T12:24:29Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10464 | 1801| 
-| 20211222T12:22:02Z | A collection of the solidity exploits I wrote as I worked through OpenZeppelin%s ethernaut. | https://github.com/Ryzen303/Ethernaut-exploit-codes | 1 | 0| 
 
 
 # backdoor on Github 推荐
@@ -95,7 +95,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211222T13:00:34Z | Null | https://github.com/KeenGear/fuzzy-doodle | 0 | 0| 
+| 20211222T13:05:11Z | Null | https://github.com/KeenGear/fuzzy-doodle | 0 | 0| 
 | 20211222T12:37:19Z | Null | https://github.com/Maxim341/fuzzy_prototype | 0 | 0| 
 | 20211222T12:28:10Z | FreeType Fuzzer | https://github.com/BOB-Jour/Glitch_Fuzzer | 0 | 0| 
 | 20211222T12:27:35Z | Domato + Template based Fuzzing | https://github.com/BOB-Jour/Domino_Fuzzer | 1 | 0| 
