@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211222T13:46:48Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211222T13:44:50Z | cve-2021-22005 | Null | https://github.com/shmilylty/cve-2021-22005-exp | | 
-| 20211222T13:41:47Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211222T13:14:22Z | CVE-2021-44228 | Log4J CVE-2021-44228 : Mitigation Cheat Sheet | https://github.com/thedevappsecguy/Log4J-Mitigation-CVE-2021-44228--CVE-2021-45046--CVE-2021-45105 | | 
 | 20211222T12:49:22Z | cve-2021-44228 | Ansible detector scanner playbook to verify target Linux hosts using the official Red Hat Log4j detector script Remote Code Execution - log4j (CVE-2021-44228) | https://github.com/lucab85/log4j-cve-2021-44228 | | 
 | 20211222T12:17:00Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
@@ -146,6 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211222T13:45:23Z | OSS-Sydr-Fuzz - OSS-Fuzz fork for hybrid fuzzing (fuzzer+DSE) open source software. | https://github.com/ispras/oss-sydr-fuzz | 10 | 3| 
 | 20211222T13:26:14Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6961 | 1455| 
 | 20211222T13:16:49Z | Null | https://github.com/toy-soldier/fuzzy-enigma | 0 | 0| 
 | 20211222T13:05:46Z | Null | https://github.com/KeenGear/fuzzy-doodle | 0 | 0| 
@@ -155,7 +156,6 @@
 | 20211222T12:02:16Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 39 | 12| 
 | 20211222T11:47:05Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 735 | 146| 
 | 20211222T11:32:09Z | Null | https://github.com/Zantqla/fuzzy-octo-broccoli | 0 | 0| 
-| 20211222T11:24:34Z | A black-box fuzzer for TeX | https://github.com/bendrissou/tex-fuzzer | 0 | 0| 
 
 
 
