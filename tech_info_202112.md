@@ -46,9 +46,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211222T01:54:19Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211222T01:44:02Z | cve-2021-44228 | Ansible detector scanner playbook to verify target Linux hosts using the official Red Hat Log4j detector script Remote Code Execution - log4j (CVE-2021-44228) | https://github.com/lucab85/log4j-cve-2021-44228 | | 
 | 20211222T01:38:45Z | CVE-2021-43224 | Windows Common Log File System Driver  POC | https://github.com/KaLendsi/CVE-2021-43224-POC | | 
-| 20211222T01:06:39Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211222T00:56:20Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
 | 20211222T00:25:50Z | CVE-2021-43798 | CVE-2021-43798 is a vulnerability marked as High priority (CVSS 7.5) leading to arbitrary file read via installed plugins in Grafana application. | https://github.com/LongWayHomie/CVE-2021-43798 | | 
 | 20211221T23:41:01Z | CVE-2021-43798 | Null | https://github.com/halencarjunior/grafana-CVE-2021-43798 | | 
@@ -146,6 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211222T01:52:33Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2446 | 151| 
 | 20211222T01:36:27Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 35945 | 18542| 
 | 20211222T01:26:23Z | Null | https://github.com/PBearson/FUME-Fuzzing-MQTT-Brokers | 0 | 0| 
 | 20211222T01:22:30Z | aeiou | https://github.com/XMPPwocky/fuzz-infra | 0 | 0| 
@@ -155,7 +156,6 @@
 | 20211222T00:50:59Z | Null | https://github.com/TitamSeptian/makanan-fuzzy | 0 | 0| 
 | 20211221T23:52:45Z | Domato + Template based Fuzzing | https://github.com/BOB-Jour/Domino_Fuzzer | 1 | 0| 
 | 20211221T23:38:28Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
-| 20211221T23:33:12Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6962 | 1454| 
 
 
 
