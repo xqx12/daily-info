@@ -46,11 +46,11 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211222T01:21:01Z | cve-2021-44228 | Ansible detector scanner playbook to verify target Linux hosts using the official Red Hat Log4j detector script Remote Code Execution - log4j (CVE-2021-44228) | https://github.com/lucab85/log4j-cve-2021-44228 | | 
 | 20211222T01:06:39Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211222T00:56:20Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
 | 20211222T00:25:50Z | CVE-2021-43798 | CVE-2021-43798 is a vulnerability marked as High priority (CVSS 7.5) leading to arbitrary file read via installed plugins in Grafana application. | https://github.com/LongWayHomie/CVE-2021-43798 | | 
 | 20211221T23:41:01Z | CVE-2021-43798 | Null | https://github.com/halencarjunior/grafana-CVE-2021-43798 | | 
-| 20211221T23:08:41Z | cve-2021-44228 | Ansible detector scanner playbook to verify target Linux hosts using the official Red Hat Log4j detector script Remote Code Execution - log4j (CVE-2021-44228) | https://github.com/lucab85/log4j-cve-2021-44228 | | 
 | 20211221T21:28:14Z | CVE-2021-44228 | Null | https://github.com/VerveIndustrialProtection/CVE-2021-44228-Log4j | | 
 | 20211221T21:10:58Z | CVE-2021-44228 | Blog Sample Code | https://github.com/motikan2010/RASP-CVE-2021-44228 | | 
 | 20211221T21:00:41Z | CVE-2021-43224 | Windows Common Log File System Driver  POC | https://github.com/KaLendsi/CVE-2021-43224-POC | | 
@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211222T01:20:41Z | Exploit and prevent HTTP Interception | https://github.com/webofchaos/HTTP-Interception | 0 | 0| 
 | 20211222T01:12:46Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 110 | 39| 
 | 20211222T01:03:29Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 39 | 20| 
 | 20211222T00:54:08Z | Powershell Log4j Exploit detection | https://github.com/jake-k-38/win-log4j-detect | 1 | 0| 
@@ -99,7 +100,6 @@
 | 20211222T00:28:40Z | Null | https://github.com/mustafaaljadery/exploitalphawebapp | 0 | 0| 
 | 20211222T00:16:21Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 317 | 775| 
 | 20211222T00:01:12Z | log4j RCE Exploitation Detection | https://github.com/sparkydz/log4j-RCE-Exploitation-Detection | 0 | 0| 
-| 20211221T23:57:16Z | Certifications: CompTIA CySA+ (verification code: GKYCNPRFWKFQQF3R)  ● Graduate of the University of San Diego Cyber Bootcamp, San Diego, CA in July 2021. Instructed by Fullstack Academy, Certificate in Cyber Security  ● Udemy CompTIA CySA+ Course: Certification no: UC-4b3857c-Odc8-4cbc-952b-a19b28fe83c8  ● Proficient: Kali Linux, HTML3, Windows ● Knowledgeable: Splunk, Nessus, SNORT, Python 3, Networking Fundamentals, Metasploit, Wireshark, Netcat, NMAP, Dirbuster, Nikto, Virtual Machines, John, iptables, penetration testing, SIEM tools, Microsoft Windows 2019 server, network fundamentals | https://github.com/SpartanMike/Technical-Capabilities | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -146,6 +146,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211222T01:21:12Z | aeiou | https://github.com/XMPPwocky/fuzz-infra | 0 | 0| 
+| 20211222T01:20:34Z | Simple Network Fuzzer in libafl | https://github.com/elbiazo/libafl_network_fuzzer | 0 | 0| 
 | 20211222T01:06:35Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 35943 | 18542| 
 | 20211222T01:04:16Z | Auto-gen fuzzing wrappers from normal code. Automatically find buggy call sequences, including data races & deadlocks. Supports rich signature types. | https://github.com/thepudds/fzgen | 4 | 0| 
 | 20211222T00:59:24Z | Null | https://github.com/mallika-bit/FuzzyFriendFinder- | 0 | 0| 
@@ -154,8 +156,6 @@
 | 20211221T23:38:28Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20211221T23:33:12Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6962 | 1454| 
 | 20211221T23:31:42Z | Null | https://github.com/oscarpimentel/fuzzy-torch | 1 | 0| 
-| 20211221T23:18:30Z | Simple Network Fuzzer in libafl | https://github.com/elbiazo/libafl_network_fuzzer | 0 | 0| 
-| 20211221T23:04:00Z | Null | https://github.com/PBearson/FUME-Fuzzing-MQTT-Brokers | 0 | 0| 
 
 
 

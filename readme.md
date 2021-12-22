@@ -32,7 +32,6 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20211221T23:41:01Z | CVE-2021-43798 | Null | https://github.com/halencarjunior/grafana-CVE-2021-43798 | | 
-| 20211221T23:08:41Z | cve-2021-44228 | Ansible detector scanner playbook to verify target Linux hosts using the official Red Hat Log4j detector script Remote Code Execution - log4j (CVE-2021-44228) | https://github.com/lucab85/log4j-cve-2021-44228 | | 
 | 20211221T21:28:14Z | CVE-2021-44228 | Null | https://github.com/VerveIndustrialProtection/CVE-2021-44228-Log4j | | 
 | 20211221T21:10:58Z | CVE-2021-44228 | Blog Sample Code | https://github.com/motikan2010/RASP-CVE-2021-44228 | | 
 | 20211221T21:00:41Z | CVE-2021-43224 | Windows Common Log File System Driver  POC | https://github.com/KaLendsi/CVE-2021-43224-POC | | 
@@ -41,6 +40,7 @@
 | 20211221T18:33:13Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
 | 20211221T14:55:54Z | CVE-2021-44228 | Windows Batch Scrip to Fix the log4j-issue-CVE-2021-44228 | https://github.com/chandru-gunasekaran/log4j-fix-CVE-2021-44228 | | 
 | 20211221T11:12:43Z | cve-2021-44228 | Log4j CVE-2021-44228 examples: Remote Code Execution (through LDAP, RMI, ...), Forced DNS queries, ... | https://github.com/manuel-alvarez-alvarez/log4j-cve-2021-44228 | | 
+| 20211221T11:08:13Z | CVE-2021-44228 | Log4Shell (CVE-2021-44228): Descrizione, Exploitation e Mitigazione | https://github.com/zane00/CVE-2021-44228 | | 
 
 
 # klee on Github 推荐
@@ -108,12 +108,12 @@
 | 20211221T23:38:28Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20211221T23:33:12Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6962 | 1454| 
 | 20211221T23:31:42Z | Null | https://github.com/oscarpimentel/fuzzy-torch | 1 | 0| 
-| 20211221T23:18:30Z | Simple Network Fuzzer in libafl | https://github.com/elbiazo/libafl_network_fuzzer | 0 | 0| 
 | 20211221T23:04:00Z | Null | https://github.com/PBearson/FUME-Fuzzing-MQTT-Brokers | 0 | 0| 
 | 20211221T23:03:39Z | Null | https://github.com/Cod-cypher/fuzzy-waddle | 0 | 0| 
 | 20211221T22:46:59Z | FreeType Fuzzer | https://github.com/BOB-Jour/Glitch_Fuzzer | 0 | 0| 
 | 20211221T22:36:29Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211221T22:18:47Z | Null | https://github.com/allexks/FuzzyKit | 0 | 0| 
+| 20211221T22:03:41Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 735 | 146| 
 
 
 
