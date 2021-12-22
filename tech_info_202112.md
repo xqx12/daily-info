@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211222T01:46:38Z | Kali linux exploit tools guide repository. | https://github.com/Logic-01001010/KaliGuide | 1 | 0| 
 | 20211222T01:20:41Z | Exploit and prevent HTTP Interception | https://github.com/webofchaos/HTTP-Interception | 0 | 0| 
 | 20211222T01:12:46Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 110 | 39| 
 | 20211222T01:03:29Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 39 | 20| 
@@ -99,7 +100,6 @@
 | 20211222T00:38:12Z | Fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | 0 | 0| 
 | 20211222T00:28:40Z | Null | https://github.com/mustafaaljadery/exploitalphawebapp | 0 | 0| 
 | 20211222T00:16:21Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 317 | 775| 
-| 20211222T00:01:12Z | log4j RCE Exploitation Detection | https://github.com/sparkydz/log4j-RCE-Exploitation-Detection | 0 | 0| 
 
 
 # backdoor on Github 推荐
