@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211222T13:46:48Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
+| 20211222T13:54:17Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211222T13:44:50Z | cve-2021-22005 | Null | https://github.com/shmilylty/cve-2021-22005-exp | | 
 | 20211222T13:14:22Z | CVE-2021-44228 | Log4J CVE-2021-44228 : Mitigation Cheat Sheet | https://github.com/thedevappsecguy/Log4J-Mitigation-CVE-2021-44228--CVE-2021-45046--CVE-2021-45105 | | 
 | 20211222T12:49:22Z | cve-2021-44228 | Ansible detector scanner playbook to verify target Linux hosts using the official Red Hat Log4j detector script Remote Code Execution - log4j (CVE-2021-44228) | https://github.com/lucab85/log4j-cve-2021-44228 | | 
@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211222T13:52:52Z | Null | https://github.com/Andrew41112/SynapseExploit | 0 | 0| 
 | 20211222T13:51:11Z | Exploitation du protocole DHCP afin de remplir l%étendue intégralement pour refuser l%accès à de nouveaux appareils | https://github.com/antoinechauvn/dhcp-starvation | 0 | 0| 
 | 20211222T13:50:56Z | Null | https://github.com/Noizeeee/Exploits | 0 | 0| 
 | 20211222T13:50:50Z | Null | https://github.com/joeengo/exploiting | 0 | 1| 
@@ -99,7 +100,6 @@
 | 20211222T13:00:49Z | A cheat sheet that contains common enumeration and attack methods for Windows Active Directory. | https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet | 2480 | 594| 
 | 20211222T12:46:08Z | A peer 2 peer approach to increase price stability and to reduce price manipulation by exploiting non-fundamentals-based volatility | https://github.com/distributed-ledger-technology/vofarm-deno-part | 0 | 3| 
 | 20211222T12:45:59Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 17| 
-| 20211222T12:38:41Z | Repository of exploits for research purposes | https://github.com/ulexec/Exploits | 3 | 0| 
 
 
 # backdoor on Github 推荐
