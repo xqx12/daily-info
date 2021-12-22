@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211222T01:56:41Z | PS4 9.00 Firmware Exploit Host | https://github.com/KameleonReloaded/900V4B | 2 | 5| 
 | 20211222T01:52:27Z | Kali linux exploit tools guide repository. | https://github.com/Logic-01001010/KaliGuide | 1 | 0| 
 | 20211222T01:20:41Z | Exploit and prevent HTTP Interception | https://github.com/webofchaos/HTTP-Interception | 0 | 0| 
 | 20211222T01:12:46Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 110 | 39| 
@@ -99,7 +100,6 @@
 | 20211222T00:45:58Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 17| 
 | 20211222T00:38:12Z | Fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | 0 | 0| 
 | 20211222T00:28:40Z | Null | https://github.com/mustafaaljadery/exploitalphawebapp | 0 | 0| 
-| 20211222T00:16:21Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 317 | 775| 
 
 
 # backdoor on Github 推荐
