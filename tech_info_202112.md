@@ -46,9 +46,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211222T02:03:24Z | CVE-2021-43224 | Windows Common Log File System Driver  POC | https://github.com/KaLendsi/CVE-2021-43224-POC | | 
 | 20211222T01:54:19Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211222T01:44:02Z | cve-2021-44228 | Ansible detector scanner playbook to verify target Linux hosts using the official Red Hat Log4j detector script Remote Code Execution - log4j (CVE-2021-44228) | https://github.com/lucab85/log4j-cve-2021-44228 | | 
-| 20211222T01:38:45Z | CVE-2021-43224 | Windows Common Log File System Driver  POC | https://github.com/KaLendsi/CVE-2021-43224-POC | | 
 | 20211222T00:56:20Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
 | 20211222T00:25:50Z | CVE-2021-43798 | CVE-2021-43798 is a vulnerability marked as High priority (CVSS 7.5) leading to arbitrary file read via installed plugins in Grafana application. | https://github.com/LongWayHomie/CVE-2021-43798 | | 
 | 20211221T23:41:01Z | CVE-2021-43798 | Null | https://github.com/halencarjunior/grafana-CVE-2021-43798 | | 
@@ -90,11 +90,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211222T02:03:19Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 39 | 20| 
 | 20211222T01:56:41Z | PS4 9.00 Firmware Exploit Host | https://github.com/KameleonReloaded/900V4B | 2 | 5| 
 | 20211222T01:52:27Z | Kali linux exploit tools guide repository. | https://github.com/Logic-01001010/KaliGuide | 1 | 0| 
 | 20211222T01:20:41Z | Exploit and prevent HTTP Interception | https://github.com/webofchaos/HTTP-Interception | 0 | 0| 
 | 20211222T01:12:46Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 110 | 39| 
-| 20211222T01:03:29Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 39 | 20| 
 | 20211222T00:54:08Z | Powershell Log4j Exploit detection | https://github.com/jake-k-38/win-log4j-detect | 1 | 0| 
 | 20211222T00:52:44Z | A collection of intelligence about Log4Shell and its exploitation activity.  | https://github.com/curated-intel/Log4Shell-IOCs | 119 | 27| 
 | 20211222T00:45:58Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 17| 
