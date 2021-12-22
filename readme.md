@@ -25,63 +25,64 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20211221 | CaptfEncoder: 一款跨平台网络安全工具套件 | https://github.com/guyoung/CaptfEncoder| 
+| 20211221 | 国外网络演习思考 | https://mp.weixin.qq.com/s/cXJM6SXVR-k0pLCqDZqcWQ| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211221T13:44:07Z | CVE-2021-44228 | Null | https://github.com/motikan2010/RASP-CVE-2021-44228 | | 
-| 20211221T13:41:17Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
-| 20211221T12:55:17Z | CVE-2021-43224 | Windows Common Log File System Driver  POC | https://github.com/KaLendsi/CVE-2021-43224-POC | | 
-| 20211221T12:18:48Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
+| 20211221T23:41:01Z | CVE-2021-43798 | Null | https://github.com/halencarjunior/grafana-CVE-2021-43798 | | 
+| 20211221T23:08:41Z | cve-2021-44228 | Ansible detector scanner playbook to verify target Linux hosts using the official Red Hat Log4j detector script Remote Code Execution - log4j (CVE-2021-44228) | https://github.com/lucab85/log4j-cve-2021-44228 | | 
+| 20211221T21:28:14Z | CVE-2021-44228 | Null | https://github.com/VerveIndustrialProtection/CVE-2021-44228-Log4j | | 
+| 20211221T21:10:58Z | CVE-2021-44228 | Blog Sample Code | https://github.com/motikan2010/RASP-CVE-2021-44228 | | 
+| 20211221T21:00:41Z | CVE-2021-43224 | Windows Common Log File System Driver  POC | https://github.com/KaLendsi/CVE-2021-43224-POC | | 
+| 20211221T19:48:59Z | CVE-2021-44228 | Log4j2 CVE-2021-44228 revshell, ofc it suck!! | https://github.com/faisalfs10x/Log4j2-CVE-2021-44228-revshell | | 
+| 20211221T19:48:27Z | CVE-2021-44228 | Null | https://github.com/b-abderrahmane/CVE-2021-44228-playground | | 
+| 20211221T18:33:13Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
+| 20211221T14:55:54Z | CVE-2021-44228 | Windows Batch Scrip to Fix the log4j-issue-CVE-2021-44228 | https://github.com/chandru-gunasekaran/log4j-fix-CVE-2021-44228 | | 
 | 20211221T11:12:43Z | cve-2021-44228 | Log4j CVE-2021-44228 examples: Remote Code Execution (through LDAP, RMI, ...), Forced DNS queries, ... | https://github.com/manuel-alvarez-alvarez/log4j-cve-2021-44228 | | 
-| 20211221T11:08:13Z | CVE-2021-44228 | Log4Shell (CVE-2021-44228): Descrizione, Exploitation e Mitigazione | https://github.com/zane00/CVE-2021-44228 | | 
-| 20211221T10:53:48Z | CVE-2021-44228 | 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - A trick to bypass words blocking patches | https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words | | 
-| 20211221T10:18:36Z | CVE-2021-44228 | Known IoCs for log4j framework vulnerability  | https://github.com/guardicode/CVE-2021-44228_IoCs | | 
-| 20211221T10:09:58Z | CVE-2021-43798 | Null | https://github.com/gps1949/CVE-2021-43798 | | 
-| 20211221T06:03:18Z | CVE-2021-44228 | 相关的复现和文档 | https://github.com/xx-zhang/apache-log4j2-CVE-2021-44228 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211221T18:19:54Z | Null | https://github.com/lindsayp30/emp_KLEEMEX | 0 | 0| 
 | 20211221T13:43:02Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 3132 | 95| 
 | 20211221T13:15:49Z | Data and code for Klees et al. %Comparative Investigation of Gene Regulatory Processes Underlying Avian Influenza Viruses in Chicken and Duck% | https://github.com/SelinaKlees/AIV_chicken_duck | 0 | 0| 
 | 20211221T07:12:09Z | update | https://github.com/rizaluardi/KleeMusik-Pemrograman4 | 0 | 0| 
 | 20211221T06:37:47Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1852 | 524| 
 | 20211221T05:04:23Z | Config files for my GitHub profile. | https://github.com/MichaelKleemoff2/MichaelKleemoff2 | 0 | 0| 
-| 20211221T03:28:09Z | Null | https://github.com/lindsayp30/emp_KLEEMEX | 0 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211221T04:56:05Z | CRAX++: software CRash analysis for Automatic eXploit generation | https://github.com/aesophor/CRAXplusplus | 26 | 3| 
+| 20211221T14:38:20Z | CRAX++: software CRash analysis for Automatic eXploit generation | https://github.com/aesophor/CRAXplusplus | 26 | 3| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211221T13:50:40Z | A Database of exploiters for a dead game with no anti cheat. | https://github.com/jnz-dev/PL-Exploiter-DB | 0 | 0| 
-| 20211221T13:32:52Z | Powershell script to check log files for Log4Shell exploitation | https://github.com/ValtteriL/Detect-Log4Shell | 2 | 1| 
-| 20211221T13:28:14Z | The project “Airline Reservation System (ARS)” is to exploit the computer technology with Internet Facility and all its aspects as necessity arises. The proposed project will be a web-based portal to provide support and services to the end customer.                    The Airline Reservation System (ARS) is a software application to assist an airline with transactions related to making ticket reservations. This includes blocking, reserving and canceling tickets. | https://github.com/ArchanaSinghDotNet/PrudentAir | 0 | 0| 
-| 20211221T13:10:57Z | Exploiting CVE-2021-42278 and CVE-2021-42287 to impersonate DA from standard domain user  | https://github.com/WazeHell/sam-the-admin | 602 | 121| 
-| 20211221T13:03:24Z | 😎 Exploiting utility for Roblox. | https://github.com/catboy08/comet | 3 | 0| 
-| 20211221T13:03:10Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 39 | 20| 
-| 20211221T13:02:05Z | Application trying to detect processes vulnerable to log4j JNDI exploit | https://github.com/criteo/log4j-jndi-jar-detector | 2 | 0| 
-| 20211221T12:45:58Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 17| 
-| 20211221T12:38:06Z | Hands-on experiments to demonstrate the exploitability of insecure TLS configurations in Android apps | https://github.com/Guardsquare/android-insecure-tls-demo | 1 | 0| 
-| 20211221T12:34:17Z | An attempt at fixing the Log4Shell exploit for people who haven%t updated. | https://github.com/IkeVoodoo/AntiHack | 0 | 0| 
+| 20211221T23:57:16Z | Certifications: CompTIA CySA+ (verification code: GKYCNPRFWKFQQF3R)  ● Graduate of the University of San Diego Cyber Bootcamp, San Diego, CA in July 2021. Instructed by Fullstack Academy, Certificate in Cyber Security  ● Udemy CompTIA CySA+ Course: Certification no: UC-4b3857c-Odc8-4cbc-952b-a19b28fe83c8  ● Proficient: Kali Linux, HTML3, Windows ● Knowledgeable: Splunk, Nessus, SNORT, Python 3, Networking Fundamentals, Metasploit, Wireshark, Netcat, NMAP, Dirbuster, Nikto, Virtual Machines, John, iptables, penetration testing, SIEM tools, Microsoft Windows 2019 server, network fundamentals | https://github.com/SpartanMike/Technical-Capabilities | 0 | 0| 
+| 20211221T23:43:07Z | Random Roblox Hacks + My script hub | https://github.com/Banaanae/exploits | 0 | 0| 
+| 20211221T23:41:21Z | This bash scripts will help you to hack remote hosts. You can choose and run one of them. | https://github.com/FabioDefilippo/linuxallremote | 30 | 5| 
+| 20211221T23:40:01Z | this bash script is for remote linux and macos hosts hacked! | https://github.com/FabioDefilippo/linuxallenum | 17 | 0| 
+| 20211221T23:33:07Z | Codes from Hacking: The Art of Exploitation book. By Jon Erickson. | https://github.com/edupazzz/Hacking-The-Art-of-Exploitation-Book | 0 | 0| 
+| 20211221T23:23:40Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 109 | 39| 
+| 20211221T23:12:05Z | A compilation of all the malware found through log4shell exploit | https://github.com/entropyQueen/log4shell_malwares | 0 | 0| 
+| 20211221T22:09:56Z | Null | https://github.com/TNYCL/rise-login-exploit | 0 | 0| 
+| 20211221T21:49:58Z | A module for Garry%s Mod that mitigates exploits on the Source engine. | https://github.com/danielga/gmsv_serversecure | 82 | 23| 
+| 20211221T20:57:53Z | Demo Project for the Log4j vulnerability | https://github.com/predic8/log4j-log4shell-exploit | 2 | 1| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211221T16:48:37Z | Null | https://github.com/jianqiaomo/CSAW-HackML-2020-BackdoorDetector | 0 | 1| 
 | 20211221T08:16:41Z | Create a fully undetectable backdoor with simple steps. | https://github.com/3ct0s/fud-backdoor | 9 | 7| 
 | 20211221T06:22:23Z | Remote control software, supported Windows/Unix/MacOS/Linux(x86/x64/mips/arm) | https://github.com/h1zzz/purewater | 5 | 0| 
 | 20211221T06:17:34Z | Null | https://github.com/leileigan/clean_label_textual_backdoor_attack | 3 | 0| 
 | 20211221T01:59:52Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 399 | 69| 
-| 20211221T00:06:54Z | Null | https://github.com/jianqiaomo/CSAW-HackML-2020-BackdoorDetector | 0 | 1| 
 
 
 # symbolic execution on Github 推荐
@@ -103,16 +104,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211221T13:58:35Z | Auto-gen fuzzing wrappers from normal code. Automatically find buggy call sequences, including data races & deadlocks. Supports rich signature types. | https://github.com/thepudds/fzgen | 4 | 0| 
-| 20211221T13:30:51Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 637 | 67| 
-| 20211221T13:27:25Z | Null | https://github.com/Clearymk/TypeScriptFuzzer | 0 | 1| 
-| 20211221T13:17:40Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 35932 | 18534| 
-| 20211221T12:58:21Z | Null | https://github.com/mallika-bit/FuzzyFriendFinder- | 0 | 0| 
-| 20211221T12:57:37Z | Valet Parking | https://github.com/Arnav-KumarR/fuzzy-octo-meme | 0 | 0| 
-| 20211221T12:40:10Z | Fuzzer de url feito em python | https://github.com/devsecVinicius/urlFuzzer | 0 | 0| 
-| 20211221T12:39:15Z | Null | https://github.com/ys-zhang/filter-fuzz | 0 | 0| 
-| 20211221T12:35:13Z | Forecasting SARS-CoV-2 Next Wave in Iran and the World Using TSK Fuzzy Neural Networks | https://github.com/SeyedMuhammadHosseinMousavi/Forecasting-SARS-CoV-2-Next-Wave-in-Iran-and-the-World-Using-TSK-Fuzzy-Neural-Networks | 1 | 0| 
-| 20211221T12:33:35Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3842 | 905| 
+| 20211221T23:52:45Z | Domato + Template based Fuzzing | https://github.com/BOB-Jour/Domino_Fuzzer | 1 | 0| 
+| 20211221T23:38:28Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
+| 20211221T23:33:12Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6962 | 1454| 
+| 20211221T23:31:42Z | Null | https://github.com/oscarpimentel/fuzzy-torch | 1 | 0| 
+| 20211221T23:18:30Z | Simple Network Fuzzer in libafl | https://github.com/elbiazo/libafl_network_fuzzer | 0 | 0| 
+| 20211221T23:04:00Z | Null | https://github.com/PBearson/FUME-Fuzzing-MQTT-Brokers | 0 | 0| 
+| 20211221T23:03:39Z | Null | https://github.com/Cod-cypher/fuzzy-waddle | 0 | 0| 
+| 20211221T22:46:59Z | FreeType Fuzzer | https://github.com/BOB-Jour/Glitch_Fuzzer | 0 | 0| 
+| 20211221T22:36:29Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20211221T22:18:47Z | Null | https://github.com/allexks/FuzzyKit | 0 | 0| 
 
 
 
