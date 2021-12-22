@@ -146,6 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211222T02:28:45Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211222T02:28:23Z | Simple Network Fuzzer in libafl | https://github.com/elbiazo/libafl_network_fuzzer | 0 | 0| 
 | 20211222T02:24:39Z | Null | https://github.com/PBearson/FUME-Fuzzing-MQTT-Brokers | 0 | 0| 
 | 20211222T02:01:40Z | A useful tool for fuzz job. | https://github.com/alexqiaodan/nfuzz | 2 | 0| 
@@ -155,7 +156,6 @@
 | 20211222T01:04:16Z | Auto-gen fuzzing wrappers from normal code. Automatically find buggy call sequences, including data races & deadlocks. Supports rich signature types. | https://github.com/thepudds/fzgen | 4 | 0| 
 | 20211222T00:59:24Z | Null | https://github.com/mallika-bit/FuzzyFriendFinder- | 0 | 0| 
 | 20211222T00:50:59Z | Null | https://github.com/TitamSeptian/makanan-fuzzy | 0 | 0| 
-| 20211221T23:52:45Z | Domato + Template based Fuzzing | https://github.com/BOB-Jour/Domino_Fuzzer | 1 | 0| 
 
 
 
