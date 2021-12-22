@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211222T01:38:45Z | CVE-2021-43224 | Windows Common Log File System Driver  POC | https://github.com/KaLendsi/CVE-2021-43224-POC | | 
 | 20211222T01:21:01Z | cve-2021-44228 | Ansible detector scanner playbook to verify target Linux hosts using the official Red Hat Log4j detector script Remote Code Execution - log4j (CVE-2021-44228) | https://github.com/lucab85/log4j-cve-2021-44228 | | 
 | 20211222T01:06:39Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211222T00:56:20Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
@@ -53,7 +54,6 @@
 | 20211221T23:41:01Z | CVE-2021-43798 | Null | https://github.com/halencarjunior/grafana-CVE-2021-43798 | | 
 | 20211221T21:28:14Z | CVE-2021-44228 | Null | https://github.com/VerveIndustrialProtection/CVE-2021-44228-Log4j | | 
 | 20211221T21:10:58Z | CVE-2021-44228 | Blog Sample Code | https://github.com/motikan2010/RASP-CVE-2021-44228 | | 
-| 20211221T21:00:41Z | CVE-2021-43224 | Windows Common Log File System Driver  POC | https://github.com/KaLendsi/CVE-2021-43224-POC | | 
 | 20211221T19:48:59Z | CVE-2021-44228 | Log4j2 CVE-2021-44228 revshell, ofc it suck!! | https://github.com/faisalfs10x/Log4j2-CVE-2021-44228-revshell | | 
 | 20211221T19:48:27Z | CVE-2021-44228 | Null | https://github.com/b-abderrahmane/CVE-2021-44228-playground | | 
 

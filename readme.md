@@ -34,13 +34,13 @@
 | 20211221T23:41:01Z | CVE-2021-43798 | Null | https://github.com/halencarjunior/grafana-CVE-2021-43798 | | 
 | 20211221T21:28:14Z | CVE-2021-44228 | Null | https://github.com/VerveIndustrialProtection/CVE-2021-44228-Log4j | | 
 | 20211221T21:10:58Z | CVE-2021-44228 | Blog Sample Code | https://github.com/motikan2010/RASP-CVE-2021-44228 | | 
-| 20211221T21:00:41Z | CVE-2021-43224 | Windows Common Log File System Driver  POC | https://github.com/KaLendsi/CVE-2021-43224-POC | | 
 | 20211221T19:48:59Z | CVE-2021-44228 | Log4j2 CVE-2021-44228 revshell, ofc it suck!! | https://github.com/faisalfs10x/Log4j2-CVE-2021-44228-revshell | | 
 | 20211221T19:48:27Z | CVE-2021-44228 | Null | https://github.com/b-abderrahmane/CVE-2021-44228-playground | | 
 | 20211221T18:33:13Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
 | 20211221T14:55:54Z | CVE-2021-44228 | Windows Batch Scrip to Fix the log4j-issue-CVE-2021-44228 | https://github.com/chandru-gunasekaran/log4j-fix-CVE-2021-44228 | | 
 | 20211221T11:12:43Z | cve-2021-44228 | Log4j CVE-2021-44228 examples: Remote Code Execution (through LDAP, RMI, ...), Forced DNS queries, ... | https://github.com/manuel-alvarez-alvarez/log4j-cve-2021-44228 | | 
 | 20211221T11:08:13Z | CVE-2021-44228 | Log4Shell (CVE-2021-44228): Descrizione, Exploitation e Mitigazione | https://github.com/zane00/CVE-2021-44228 | | 
+| 20211221T10:53:48Z | CVE-2021-44228 | 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - A trick to bypass words blocking patches | https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words | | 
 
 
 # klee on Github 推荐
