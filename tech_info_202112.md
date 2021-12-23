@@ -146,7 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211223T01:25:29Z | A GH action that builds an Rmd-based site to visualize results of a fuzzing campaign | https://github.com/jon-bell/fuzzing-build-site-action | 0 | 0| 
+| 20211223T01:34:26Z | A GH action that builds an Rmd-based site to visualize results of a fuzzing campaign | https://github.com/jon-bell/fuzzing-build-site-action | 0 | 0| 
 | 20211223T00:41:54Z | Null | https://github.com/CatCoder2011/fuzzy-umbrella | 0 | 0| 
 | 20211223T00:41:52Z | CATS is a REST APIs fuzzer and negative testing tool for OpenAPI endpoints. CATS automatically  generates, runs and reports tests with minimum configuration and no coding effort. Tests are self-healing and does not require maintenance. | https://github.com/Endava/cats | 489 | 20| 
 | 20211223T00:41:44Z | Null | https://github.com/mallika-bit/FuzzyFriendFinder- | 0 | 0| 
