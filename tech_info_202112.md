@@ -147,7 +147,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20211223T02:53:20Z | Everything for pentest. , 用于渗透测试的 payload 和 bypass 字典. | https://github.com/ffffffff0x/AboutSecurity | 449 | 95| 
-| 20211223T02:44:07Z | open detection and scanning tool for discovering and fuzzing for Log4J RCE CVE-2021-44228 vulnerability | https://github.com/TaroballzChen/CVE-2021-44228-log4jVulnScanner-metasploit | 0 | 0| 
+| 20211223T02:44:07Z | open detection and scanning tool for discovering and fuzzing for Log4J RCE CVE-2021-44228 vulnerability | https://github.com/TaroballzChen/CVE-2021-44228-log4jVulnScanner-metasploit | 0 | 1| 
 | 20211223T02:34:16Z | Null | https://github.com/TitamSeptian/makanan-fuzzy | 0 | 0| 
 | 20211223T02:32:28Z | A differential testing tool for SPIRV compilers based on fuzzing techniques | https://github.com/rayanht/SPIRVSmith | 1 | 0| 
 | 20211223T01:41:46Z | A GH action that builds an Rmd-based site to visualize results of a fuzzing campaign | https://github.com/jon-bell/fuzzing-build-site-action | 0 | 0| 
