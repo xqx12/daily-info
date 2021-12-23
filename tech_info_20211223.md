@@ -46,6 +46,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211223T13:59:31Z | Application trying to detect processes vulnerable to log4j JNDI exploit | https://github.com/criteo/log4j-jndi-jar-detector | 3 | 0| 
 | 20211223T13:54:22Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITION | 2 | 0| 
 | 20211223T13:48:51Z | Test exploit of CVE-2021-44228 | https://github.com/wajda/log4shell-test-exploit | 0 | 0| 
 | 20211223T13:42:40Z | Windows exploit techniques. | https://github.com/anvbis/windows-exp | 0 | 0| 
@@ -55,7 +56,6 @@
 | 20211223T12:57:24Z | Script for auto deface webdav exploit | https://github.com/Zyney/WebDav-Defacer | 0 | 0| 
 | 20211223T12:56:10Z | A peer 2 peer approach to increase price stability and to reduce price manipulation by exploiting non-fundamentals-based volatility | https://github.com/distributed-ledger-technology/vofarm-deno-part | 0 | 3| 
 | 20211223T12:49:45Z | Null | https://github.com/C00kiie/phoenix-exploit-education-writeup | 0 | 0| 
-| 20211223T12:47:24Z | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | 1 | 0| 
 
 
 # backdoor on Github 推荐
