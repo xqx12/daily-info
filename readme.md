@@ -46,6 +46,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211223T13:03:02Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
 | 20211223T12:58:06Z | Binary Exploitation Challenges from different places based on category | https://github.com/LMS57/Bin_Exp | 0 | 0| 
 | 20211223T12:57:24Z | Script for auto deface webdav exploit | https://github.com/Zyney/WebDav-Defacer | 0 | 0| 
 | 20211223T12:56:10Z | A peer 2 peer approach to increase price stability and to reduce price manipulation by exploiting non-fundamentals-based volatility | https://github.com/distributed-ledger-technology/vofarm-deno-part | 0 | 3| 
@@ -55,7 +56,6 @@
 | 20211223T12:25:07Z | A collection of intelligence about Log4Shell and its exploitation activity.  | https://github.com/curated-intel/Log4Shell-IOCs | 126 | 28| 
 | 20211223T12:20:15Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 260 | 79| 
 | 20211223T12:14:39Z | A Database of exploiters for a dead game with no anti cheat. | https://github.com/jnz-dev/PL-Exploiter-DB | 0 | 0| 
-| 20211223T12:09:30Z | Null | https://github.com/lilmond/Roblox-Exploit-Scripts | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -75,6 +75,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211223T10:17:04Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1853 | 525| 
+| 20211223T05:06:53Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1936 | 405| 
+| 20211223T03:59:05Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 11 | 5| 
 
 
 # big4 on Github 推荐
