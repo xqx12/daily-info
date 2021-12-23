@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211223T02:55:51Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6227 | 1467| 
 | 20211223T02:49:18Z | Null | https://github.com/zaneoblaneo/zLog4ShellExploit | 0 | 0| 
 | 20211223T02:12:57Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 317 | 787| 
 | 20211223T02:05:50Z | Null | https://github.com/exploitact/exploitnews | 0 | 0| 
@@ -99,7 +100,6 @@
 | 20211223T01:31:04Z | A collection of intelligence about Log4Shell and its exploitation activity.  | https://github.com/curated-intel/Log4Shell-IOCs | 124 | 27| 
 | 20211223T01:27:27Z | Epik GUI for exploit | https://github.com/CyberCopLOL/3P1K | 0 | 0| 
 | 20211223T01:13:03Z | Binary Exploitation Labs | https://github.com/jmpshell/BinEx | 0 | 0| 
-| 20211223T01:13:00Z | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | 1 | 0| 
 
 
 # backdoor on Github 推荐
