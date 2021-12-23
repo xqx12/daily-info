@@ -46,6 +46,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211223T13:48:51Z | Test exploit of CVE-2021-44228 | https://github.com/wajda/log4shell-test-exploit | 0 | 0| 
 | 20211223T13:42:40Z | Windows exploit techniques. | https://github.com/anvbis/windows-exp | 0 | 0| 
 | 20211223T13:39:30Z | Binary Exploitation Challenges from different places based on category | https://github.com/LMS57/Bin_Exp | 0 | 0| 
 | 20211223T13:20:58Z | Null | https://github.com/JnTournier/Post-Exploit | 0 | 0| 
@@ -55,7 +56,6 @@
 | 20211223T12:49:45Z | Null | https://github.com/C00kiie/phoenix-exploit-education-writeup | 0 | 0| 
 | 20211223T12:47:24Z | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | 1 | 0| 
 | 20211223T12:29:00Z | Roblox exploit scripts | https://github.com/AceKiron/RBLXScripts | 0 | 0| 
-| 20211223T12:25:07Z | A collection of intelligence about Log4Shell and its exploitation activity.  | https://github.com/curated-intel/Log4Shell-IOCs | 126 | 28| 
 
 
 # backdoor on Github 推荐
