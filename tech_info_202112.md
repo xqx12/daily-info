@@ -17,6 +17,7 @@
 | 20211222 | 据 Palo Alto 公司分析，APT 组织利用 ManageEngine ServiceDesk Plus IT 服务管理软件渗透 13 家技术、能源、健康等行业的机构 | https://unit42.paloaltonetworks.com/tiltedtemple-manageengine-servicedesk-plus/| 
 | 20211222 | Ellume 生产的 COVID-19 家用检测试剂盒被发现结果可以伪造 | https://sec.today/pulses/00ea24cb-8c5c-4f38-a509-aef134753940/| 
 | 20211222 | Ellume 生产的 COVID-19 家用检测试剂盒被发现结果可以伪造 | http://labs.f-secure.com/blog/faking-a-positive-covid-test/| 
+| 20211222 | Apache HTTP Server httpd 被发现两个高危漏洞 | http://nakedsecurity.sophos.com/2021/12/21/apaches-other-product-critical-bugs-in-httpd-web-server-patch-now/| 
 | 20211221 | 从蜜罐视角看 Apache Log4j2 漏洞攻击趋势 | https://mp.weixin.qq.com/s/Hy9VYJT8y1JJqHnxy5aVGA| 
 | 20211221 | Lizard - 代码复杂度分析工具 | https://github.com/terryyin/lizard| 
 | 20211221 | EyeWitness - 为网站创建快照的工具 | https://github.com/FortyNorthSecurity/EyeWitness| 
@@ -25,7 +26,6 @@
 | 20211221 | V8 CVE-2021-4061 类型混淆漏洞的 PoC | https://github.com/msrkp/exploits/tree/main/CVE-2021-4061| 
 | 20211221 | 在进程中扫描 .NET CLR 模块的工具 | https://github.com/bohops/RogueAssemblyHunter| 
 | 20211221 | The Price of Compatibility: Defeating macOS Kernel Using Extended File Attributes | https://i.blackhat.com/asia-21/Friday-Handouts/as-21-Fan-The-Price-Of-Compatibility-Defeating-MacOS-Kernel-Using-Extended-File-Attributes.pdf| 
-| 20211221 | Auerswald PBX 电话交换机被发现固件级后门 | http://blog.redteam-pentesting.de/2021/inside-a-pbx/| 
 
 
 # 安全维基 推荐
@@ -90,7 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211223T02:12:57Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 317 | 787| 
+| 20211223T02:12:57Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 317 | 788| 
 | 20211223T02:05:50Z | Null | https://github.com/exploitact/exploitnews | 0 | 0| 
 | 20211223T02:03:31Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
 | 20211223T02:02:50Z | Null | https://github.com/PM2Exploit/PM2Exploit | 1 | 0| 

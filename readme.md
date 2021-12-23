@@ -17,6 +17,7 @@
 | 20211222 | 据 Palo Alto 公司分析，APT 组织利用 ManageEngine ServiceDesk Plus IT 服务管理软件渗透 13 家技术、能源、健康等行业的机构 | https://unit42.paloaltonetworks.com/tiltedtemple-manageengine-servicedesk-plus/| 
 | 20211222 | Ellume 生产的 COVID-19 家用检测试剂盒被发现结果可以伪造 | https://sec.today/pulses/00ea24cb-8c5c-4f38-a509-aef134753940/| 
 | 20211222 | Ellume 生产的 COVID-19 家用检测试剂盒被发现结果可以伪造 | http://labs.f-secure.com/blog/faking-a-positive-covid-test/| 
+| 20211222 | Apache HTTP Server httpd 被发现两个高危漏洞 | http://nakedsecurity.sophos.com/2021/12/21/apaches-other-product-critical-bugs-in-httpd-web-server-patch-now/| 
 
 
 # 安全维基 推荐
