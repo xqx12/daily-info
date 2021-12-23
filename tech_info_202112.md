@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211223T01:59:07Z | CVE-2021-44228 | open detection and scanning tool for discovering and fuzzing for Log4J RCE CVE-2021-44228 vulnerability | https://github.com/TaroballzChen/CVE-2021-44228-log4jVulnScanner-metasploit | | 
 | 20211223T01:54:35Z | cve-2021-22005 | Null | https://github.com/shmilylty/cve-2021-22005-exp | | 
 | 20211223T01:52:38Z | CVE-2021-44228 | Blog Sample Code | https://github.com/motikan2010/RASP-CVE-2021-44228 | | 
 | 20211223T01:20:39Z | cve-2021-44228 | Ansible detector scanner playbook to verify target Linux hosts using the official Red Hat Log4j detector script Remote Code Execution - log4j (CVE-2021-44228) | https://github.com/lucab85/log4j-cve-2021-44228 | | 
@@ -55,7 +56,6 @@
 | 20211222T22:03:44Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211222T21:34:28Z | CVE-2021-44659 | Null | https://github.com/Mesh3l911/CVE-2021-44659 | | 
 | 20211222T13:14:22Z | CVE-2021-44228 | Log4J CVE-2021-44228 : Mitigation Cheat Sheet | https://github.com/thedevappsecguy/Log4J-Mitigation-CVE-2021-44228--CVE-2021-45046--CVE-2021-45105 | | 
-| 20211222T12:13:18Z | CVE-2021-41730 | Null | https://github.com/IBUILI/CVE-2021-41730 | | 
 
 
 # klee on Github 推荐
@@ -90,8 +90,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211223T01:58:32Z | Null | https://github.com/exploitact/exploitnews | 0 | 0| 
 | 20211223T01:56:32Z | Powershell Log4j Exploit detection | https://github.com/jake-k-38/win-log4j-detect | 1 | 0| 
-| 20211223T01:32:13Z | Null | https://github.com/exploitact/exploitnews | 0 | 0| 
 | 20211223T01:31:04Z | A collection of intelligence about Log4Shell and its exploitation activity.  | https://github.com/curated-intel/Log4Shell-IOCs | 124 | 27| 
 | 20211223T01:27:27Z | Epik GUI for exploit | https://github.com/CyberCopLOL/3P1K | 0 | 0| 
 | 20211223T01:13:03Z | Binary Exploitation Labs | https://github.com/jmpshell/BinEx | 0 | 0| 
