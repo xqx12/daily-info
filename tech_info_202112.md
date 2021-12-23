@@ -146,6 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211223T13:37:49Z | Null | https://github.com/BOB-Jour/WatTF_Fuzzer | 0 | 0| 
 | 20211223T13:35:38Z | Null | https://github.com/JoDeMiro/FuzzyBevezetes | 0 | 0| 
 | 20211223T13:29:25Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3845 | 905| 
 | 20211223T12:53:31Z | Tool to Generate a Fuzzy Real Estate Development Model upon a Site | https://github.com/irawinder/FuzzyBuilder | 2 | 0| 
@@ -155,7 +156,6 @@
 | 20211223T12:16:54Z | Null | https://github.com/Hero-A/fuzzy-chainsaw | 0 | 0| 
 | 20211223T11:32:57Z | Null | https://github.com/rpatton88/fuzzy-octo-carnival | 0 | 0| 
 | 20211223T11:05:48Z | OSS-Sydr-Fuzz - OSS-Fuzz fork for hybrid fuzzing (fuzzer+DSE) open source software. | https://github.com/ispras/oss-sydr-fuzz | 10 | 3| 
-| 20211223T10:58:01Z | Null | https://github.com/tranquac/log4j-fuzzing | 0 | 0| 
 
 
 
