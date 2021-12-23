@@ -18,6 +18,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211223T13:06:47Z | CVE-2021-44228 | Null | https://github.com/intel-xeon/CVE-2021-44228---detection-with-PowerShell | | 
 | 20211223T12:47:24Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
 | 20211223T12:24:02Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211223T12:18:52Z | cve-2021-44228 | Ansible detector scanner playbook to verify target Linux hosts using the official Red Hat Log4j detector script Remote Code Execution - log4j (CVE-2021-44228) | https://github.com/lucab85/log4j-cve-2021-44228 | | 
@@ -27,7 +28,6 @@
 | 20211223T11:40:49Z | CVE-2021-45105 | Null | https://github.com/dileepdkumar/https-github.com-dileepdkumar-https-github.com-pravin-pp-log4j2-CVE-2021-45105 | | 
 | 20211223T11:38:32Z | CVE-2021-45105 | Null | https://github.com/dileepdkumar/https-github.com-pravin-pp-log4j2-CVE-2021-45105 | | 
 | 20211223T10:57:21Z | CVE-2021-45046 | Log4j 2.15.0 Privilege Escalation -- CVE-2021-45046 | https://github.com/cckuailong/Log4j_CVE-2021-45046 | | 
-| 20211223T09:22:38Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
 
 
 # klee on Github 推荐
