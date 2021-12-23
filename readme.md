@@ -88,12 +88,12 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211223T13:12:20Z | Null | https://github.com/JoDeMiro/FuzzyBevezetes | 0 | 0| 
 | 20211223T12:53:31Z | Tool to Generate a Fuzzy Real Estate Development Model upon a Site | https://github.com/irawinder/FuzzyBuilder | 2 | 0| 
 | 20211223T12:51:45Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 38 | 12| 
 | 20211223T12:46:53Z | Gentoo overlay | https://github.com/lferra/fuzzy-potato | 1 | 0| 
 | 20211223T12:44:00Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 12 | 2| 
 | 20211223T12:16:54Z | Null | https://github.com/Hero-A/fuzzy-chainsaw | 0 | 0| 
-| 20211223T12:01:57Z | Null | https://github.com/JoDeMiro/FuzzyBevezetes | 0 | 0| 
 | 20211223T11:32:57Z | Null | https://github.com/rpatton88/fuzzy-octo-carnival | 0 | 0| 
 | 20211223T11:05:48Z | OSS-Sydr-Fuzz - OSS-Fuzz fork for hybrid fuzzing (fuzzer+DSE) open source software. | https://github.com/ispras/oss-sydr-fuzz | 10 | 3| 
 | 20211223T10:58:01Z | Null | https://github.com/tranquac/log4j-fuzzing | 0 | 0| 
