@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211223T02:50:47Z | cve-2021-22005 | Null | https://github.com/shmilylty/cve-2021-22005-exp | | 
 | 20211223T02:44:07Z | CVE-2021-44228 | open detection and scanning tool for discovering and fuzzing for Log4J RCE CVE-2021-44228 vulnerability | https://github.com/TaroballzChen/CVE-2021-44228-log4jVulnScanner-metasploit | | 
-| 20211223T02:35:09Z | cve-2021-22005 | Null | https://github.com/shmilylty/cve-2021-22005-exp | | 
 | 20211223T02:11:43Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211223T02:09:03Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
 | 20211223T02:07:33Z | cve-2021-44228 | Ansible detector scanner playbook to verify target Linux hosts using the official Red Hat Log4j detector script Remote Code Execution - log4j (CVE-2021-44228) | https://github.com/lucab85/log4j-cve-2021-44228 | | 
@@ -90,7 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211223T02:28:55Z | Null | https://github.com/zaneoblaneo/zLog4ShellExploit | 0 | 0| 
+| 20211223T02:49:18Z | Null | https://github.com/zaneoblaneo/zLog4ShellExploit | 0 | 0| 
 | 20211223T02:12:57Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 317 | 787| 
 | 20211223T02:05:50Z | Null | https://github.com/exploitact/exploitnews | 0 | 0| 
 | 20211223T02:03:31Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
