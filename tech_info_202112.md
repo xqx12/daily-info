@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211223T01:07:36Z | PS-Phwoar! Alpha Version Exploit Host Menu for 5.05 FW with GoldHen v2.0b2 Coded by SiSTRo | https://github.com/DTMExploits/DTMExploits.github.io | 0 | 1| 
 | 20211223T01:03:36Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
 | 20211223T00:51:45Z | A collection of intelligence about Log4Shell and its exploitation activity.  | https://github.com/curated-intel/Log4Shell-IOCs | 123 | 27| 
 | 20211223T00:45:58Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 17| 
@@ -99,7 +100,6 @@
 | 20211222T23:56:52Z | Null | https://github.com/exploitact/exploitnews | 0 | 0| 
 | 20211222T23:54:35Z | Apache HTTP Server 2.4.49, 2.4.50 - Path Traversal & RCE | https://github.com/Ls4ss/CVE-2021-41773_CVE-2021-42013 | 16 | 8| 
 | 20211222T22:58:51Z | A simple buffer overflow vulnerability in a babykernel.ko driver. The exploit is written in a way to bypass SMEP protection and the technique used is ret2usr. | https://github.com/0x3SC4L4T3/Babykernel-ctf-ret2usr | 0 | 0| 
-| 20211222T22:43:32Z | PS4 9.00 Firmware Exploit Host | https://github.com/KameleonReloaded/900V4B | 2 | 5| 
 
 
 # backdoor on Github 推荐
