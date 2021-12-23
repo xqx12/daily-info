@@ -88,8 +88,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211223T13:35:38Z | Null | https://github.com/JoDeMiro/FuzzyBevezetes | 0 | 0| 
 | 20211223T13:29:25Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3845 | 905| 
-| 20211223T13:18:29Z | Null | https://github.com/JoDeMiro/FuzzyBevezetes | 0 | 0| 
 | 20211223T12:53:31Z | Tool to Generate a Fuzzy Real Estate Development Model upon a Site | https://github.com/irawinder/FuzzyBuilder | 2 | 0| 
 | 20211223T12:51:45Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 38 | 12| 
 | 20211223T12:46:53Z | Gentoo overlay | https://github.com/lferra/fuzzy-potato | 1 | 0| 
