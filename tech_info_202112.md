@@ -105,6 +105,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211223T02:37:25Z | C#编写的远程控制软件。A remote tool(RAT) written in C#. | https://github.com/7hr0wer/V4mp1r3 | 76 | 3| 
 | 20211223T02:26:05Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/META-HYDRA/Xeexe-TopAntivirusEvasion | 632 | 137| 
 | 20211223T01:26:51Z | Remote control software, supported Windows/Unix/MacOS/Linux(x86/x64/mips/arm) | https://github.com/h1zzz/purewater | 5 | 0| 
 | 20211222T23:15:15Z | Null | https://github.com/jianqiaomo/CSAW-HackML-2020-BackdoorDetector | 0 | 1| 
@@ -114,7 +115,6 @@
 | 20211222T16:30:31Z | Backdoor for window10 | https://github.com/Ramish222-d/Virat | 0 | 0| 
 | 20211222T13:25:27Z | Undocumented credentials for SL2100 / SL1100 | https://github.com/asiplas/nec-sl-series-engineering-backdoor | 0 | 0| 
 | 20211222T13:08:10Z | Null | https://github.com/leileigan/clean_label_textual_backdoor_attack | 3 | 0| 
-| 20211222T12:53:55Z | Null | https://github.com/ccccccc17/trpo_backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
