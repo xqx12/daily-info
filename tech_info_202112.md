@@ -90,11 +90,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211223T01:03:36Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
 | 20211223T00:51:45Z | A collection of intelligence about Log4Shell and its exploitation activity.  | https://github.com/curated-intel/Log4Shell-IOCs | 123 | 27| 
 | 20211223T00:45:58Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 17| 
 | 20211223T00:44:36Z | An attack/exploit Detector that utilizes Polymorphism and Diversity | https://github.com/polyverse/zerotect | 25 | 3| 
 | 20211223T00:08:42Z | Badboy.py is a fuzzing tool to exploit Buffer Overflows, it does both the fuzzing and the exploit injection part | https://github.com/b4keSn4ke/Badboy | 1 | 0| 
-| 20211223T00:04:27Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
 | 20211223T00:02:07Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 260 | 79| 
 | 20211222T23:56:52Z | Null | https://github.com/exploitact/exploitnews | 0 | 0| 
 | 20211222T23:54:35Z | Apache HTTP Server 2.4.49, 2.4.50 - Path Traversal & RCE | https://github.com/Ls4ss/CVE-2021-41773_CVE-2021-42013 | 16 | 8| 
@@ -124,8 +124,8 @@
 | 20211221T18:22:11Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 345 | 28| 
 | 20211221T14:23:45Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2601 | 383| 
 | 20211221T09:42:51Z | History of symbolic execution (as well as SAT/SMT solving, fuzzing, and taint data tracking) | https://github.com/enzet/symbolic-execution | 412 | 57| 
-| 20211221T06:37:47Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1852 | 524| 
-| 20211221T00:01:37Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1935 | 404| 
+| 20211221T06:37:47Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1852 | 525| 
+| 20211221T00:01:37Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1935 | 405| 
 | 20211220T23:28:28Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 22 | 13| 
 | 20211220T18:13:47Z | Codebase for my Level 4 University Project: Static Analysis of Executable Code to Detect Backdoors on IoT Devices | https://github.com/sophieboyle/Symbolic-Execution-for-ARM-Backdoor-Detection | 0 | 0| 
 | 20211220T17:54:14Z | Monster is a symbolic execution engine for 64-bit RISC-U code | https://github.com/cksystemsgroup/monster | 7 | 3| 
