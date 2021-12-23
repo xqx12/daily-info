@@ -146,6 +146,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211223T02:34:16Z | Null | https://github.com/TitamSeptian/makanan-fuzzy | 0 | 0| 
+| 20211223T02:32:28Z | A differential testing tool for SPIRV compilers based on fuzzing techniques | https://github.com/rayanht/SPIRVSmith | 1 | 0| 
 | 20211223T01:59:07Z | open detection and scanning tool for discovering and fuzzing for Log4J RCE CVE-2021-44228 vulnerability | https://github.com/TaroballzChen/CVE-2021-44228-log4jVulnScanner-metasploit | 0 | 0| 
 | 20211223T01:41:46Z | A GH action that builds an Rmd-based site to visualize results of a fuzzing campaign | https://github.com/jon-bell/fuzzing-build-site-action | 0 | 0| 
 | 20211223T00:41:54Z | Null | https://github.com/CatCoder2011/fuzzy-umbrella | 0 | 0| 
@@ -154,8 +156,6 @@
 | 20211223T00:11:05Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6962 | 1455| 
 | 20211223T00:08:42Z | Badboy.py is a fuzzing tool to exploit Buffer Overflows, it does both the fuzzing and the exploit injection part | https://github.com/b4keSn4ke/Badboy | 1 | 0| 
 | 20211223T00:07:43Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 39 | 12| 
-| 20211223T00:05:56Z | Null | https://github.com/PBearson/FUME-Fuzzing-MQTT-Brokers | 0 | 0| 
-| 20211222T23:08:45Z | Null | https://github.com/allexks/FuzzyKit | 0 | 0| 
 
 
 
