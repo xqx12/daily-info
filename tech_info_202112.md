@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211223T01:32:13Z | Null | https://github.com/exploitact/exploitnews | 0 | 0| 
 | 20211223T01:31:04Z | A collection of intelligence about Log4Shell and its exploitation activity.  | https://github.com/curated-intel/Log4Shell-IOCs | 124 | 27| 
 | 20211223T01:27:27Z | Epik GUI for exploit | https://github.com/CyberCopLOL/3P1K | 0 | 0| 
 | 20211223T01:13:03Z | Binary Exploitation Labs | https://github.com/jmpshell/BinEx | 0 | 0| 
@@ -99,7 +100,6 @@
 | 20211223T00:45:58Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 17| 
 | 20211223T00:44:36Z | An attack/exploit Detector that utilizes Polymorphism and Diversity | https://github.com/polyverse/zerotect | 25 | 3| 
 | 20211223T00:08:42Z | Badboy.py is a fuzzing tool to exploit Buffer Overflows, it does both the fuzzing and the exploit injection part | https://github.com/b4keSn4ke/Badboy | 1 | 0| 
-| 20211223T00:02:07Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 260 | 79| 
 
 
 # backdoor on Github 推荐

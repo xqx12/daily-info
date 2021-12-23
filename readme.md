@@ -55,7 +55,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211222T23:56:52Z | Null | https://github.com/exploitact/exploitnews | 0 | 0| 
 | 20211222T23:54:35Z | Apache HTTP Server 2.4.49, 2.4.50 - Path Traversal & RCE | https://github.com/Ls4ss/CVE-2021-41773_CVE-2021-42013 | 16 | 8| 
 | 20211222T22:58:51Z | A simple buffer overflow vulnerability in a babykernel.ko driver. The exploit is written in a way to bypass SMEP protection and the technique used is ret2usr. | https://github.com/0x3SC4L4T3/Babykernel-ctf-ret2usr | 0 | 0| 
 | 20211222T22:43:32Z | PS4 9.00 Firmware Exploit Host | https://github.com/KameleonReloaded/900V4B | 2 | 5| 
@@ -65,6 +64,7 @@
 | 20211222T21:42:02Z | Large-Scale Memory Error Exploits in IoT | https://github.com/sridhar-research-lab/MEDDoS | 0 | 0| 
 | 20211222T21:24:10Z | Payloads with Icons for Payload Guest by Al Azif - Firmware 9.00 | https://github.com/upal212/Payload-Guest-With-Icons | 0 | 0| 
 | 20211222T21:01:10Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10466 | 1803| 
+| 20211222T20:58:40Z | vsFTPd 2.3.4 Backdoor Exploit CVE-2011-2523 | https://github.com/whoamins/vsFTPd-2.3.4-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
