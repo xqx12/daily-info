@@ -46,14 +46,14 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211223T01:13:20Z | cve-2021-22005 | Null | https://github.com/shmilylty/cve-2021-22005-exp | | 
+| 20211223T01:13:00Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
 | 20211223T00:59:29Z | cve-2021-44228 | Ansible detector scanner playbook to verify target Linux hosts using the official Red Hat Log4j detector script Remote Code Execution - log4j (CVE-2021-44228) | https://github.com/lucab85/log4j-cve-2021-44228 | | 
-| 20211223T00:54:37Z | cve-2021-22005 | Null | https://github.com/shmilylty/cve-2021-22005-exp | | 
 | 20211223T00:39:04Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
 | 20211222T23:54:35Z | CVE-2021-41773 | Apache HTTP Server 2.4.49, 2.4.50 - Path Traversal & RCE | https://github.com/Ls4ss/CVE-2021-41773_CVE-2021-42013 | | 
 | 20211222T22:03:44Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211222T21:34:28Z | CVE-2021-44659 | Null | https://github.com/Mesh3l911/CVE-2021-44659 | | 
 | 20211222T13:14:22Z | CVE-2021-44228 | Log4J CVE-2021-44228 : Mitigation Cheat Sheet | https://github.com/thedevappsecguy/Log4J-Mitigation-CVE-2021-44228--CVE-2021-45046--CVE-2021-45105 | | 
-| 20211222T12:17:00Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
 | 20211222T12:13:18Z | CVE-2021-41730 | Null | https://github.com/IBUILI/CVE-2021-41730 | | 
 | 20211222T10:26:05Z | cve-2021-44228 | CVE-2021-44228-FIX-JARS | https://github.com/asyzdykov/cve-2021-44228-fix-jars | | 
 
@@ -90,7 +90,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211223T01:12:35Z | Binary Exploitation Labs | https://github.com/jmpshell/BinEx | 0 | 0| 
+| 20211223T01:13:03Z | Binary Exploitation Labs | https://github.com/jmpshell/BinEx | 0 | 0| 
+| 20211223T01:13:00Z | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | 1 | 0| 
 | 20211223T01:07:36Z | PS-Phwoar! Alpha Version Exploit Host Menu for 5.05 FW with GoldHen v2.0b2 Coded by SiSTRo | https://github.com/DTMExploits/DTMExploits.github.io | 0 | 1| 
 | 20211223T01:03:36Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
 | 20211223T00:51:45Z | A collection of intelligence about Log4Shell and its exploitation activity.  | https://github.com/curated-intel/Log4Shell-IOCs | 123 | 27| 
@@ -99,7 +100,6 @@
 | 20211223T00:08:42Z | Badboy.py is a fuzzing tool to exploit Buffer Overflows, it does both the fuzzing and the exploit injection part | https://github.com/b4keSn4ke/Badboy | 1 | 0| 
 | 20211223T00:02:07Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 260 | 79| 
 | 20211222T23:56:52Z | Null | https://github.com/exploitact/exploitnews | 0 | 0| 
-| 20211222T23:54:35Z | Apache HTTP Server 2.4.49, 2.4.50 - Path Traversal & RCE | https://github.com/Ls4ss/CVE-2021-41773_CVE-2021-42013 | 16 | 8| 
 
 
 # backdoor on Github 推荐
@@ -146,10 +146,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211223T01:13:23Z | A GH action that builds an Rmd-based site to visualize results of a fuzzing campaign | https://github.com/jon-bell/fuzzing-build-site-action | 0 | 0| 
 | 20211223T00:41:54Z | Null | https://github.com/CatCoder2011/fuzzy-umbrella | 0 | 0| 
 | 20211223T00:41:52Z | CATS is a REST APIs fuzzer and negative testing tool for OpenAPI endpoints. CATS automatically  generates, runs and reports tests with minimum configuration and no coding effort. Tests are self-healing and does not require maintenance. | https://github.com/Endava/cats | 489 | 20| 
 | 20211223T00:41:44Z | Null | https://github.com/mallika-bit/FuzzyFriendFinder- | 0 | 0| 
-| 20211223T00:20:28Z | A GH action that builds an Rmd-based site to visualize results of a fuzzing campaign | https://github.com/jon-bell/fuzzing-build-site-action | 0 | 0| 
 | 20211223T00:11:05Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6962 | 1455| 
 | 20211223T00:08:42Z | Badboy.py is a fuzzing tool to exploit Buffer Overflows, it does both the fuzzing and the exploit injection part | https://github.com/b4keSn4ke/Badboy | 1 | 0| 
 | 20211223T00:07:43Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 39 | 12| 

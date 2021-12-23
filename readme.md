@@ -31,12 +31,12 @@
 | 20211222T22:03:44Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211222T21:34:28Z | CVE-2021-44659 | Null | https://github.com/Mesh3l911/CVE-2021-44659 | | 
 | 20211222T13:14:22Z | CVE-2021-44228 | Log4J CVE-2021-44228 : Mitigation Cheat Sheet | https://github.com/thedevappsecguy/Log4J-Mitigation-CVE-2021-44228--CVE-2021-45046--CVE-2021-45105 | | 
-| 20211222T12:17:00Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
 | 20211222T12:13:18Z | CVE-2021-41730 | Null | https://github.com/IBUILI/CVE-2021-41730 | | 
 | 20211222T10:26:05Z | cve-2021-44228 | CVE-2021-44228-FIX-JARS | https://github.com/asyzdykov/cve-2021-44228-fix-jars | | 
 | 20211222T09:05:39Z | CVE-2021-33739 | CVE-2021-33739 PoC Analysis | https://github.com/giwon9977/CVE-2021-33739_PoC_Analysis | | 
 | 20211222T06:29:21Z | CVE-2021-44228 | Windows Batch Scrip to Fix the log4j-issue-CVE-2021-44228 | https://github.com/chandru-gunasekaran/log4j-fix-CVE-2021-44228 | | 
 | 20211222T05:17:02Z | CVE-2021-44228 | CVE-2021-44228 - Log4J Start To End Guide Book | https://github.com/NitinGavhane/CVE-2021-44228---Log4J | | 
+| 20211222T04:34:47Z | CVE-2021-22205 | CVE-2021-22205 的批量检测脚本 | https://github.com/gardenWhy/Gitlab-CVE-2021-22205 | | 
 
 
 # klee on Github 推荐
