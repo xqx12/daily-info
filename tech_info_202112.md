@@ -18,14 +18,14 @@
 | 20211222 | Ellume 生产的 COVID-19 家用检测试剂盒被发现结果可以伪造 | https://sec.today/pulses/00ea24cb-8c5c-4f38-a509-aef134753940/| 
 | 20211222 | Ellume 生产的 COVID-19 家用检测试剂盒被发现结果可以伪造 | http://labs.f-secure.com/blog/faking-a-positive-covid-test/| 
 | 20211222 | Apache HTTP Server httpd 被发现两个高危漏洞 | http://nakedsecurity.sophos.com/2021/12/21/apaches-other-product-critical-bugs-in-httpd-web-server-patch-now/| 
-| 20211221 | 从蜜罐视角看 Apache Log4j2 漏洞攻击趋势 | https://mp.weixin.qq.com/s/Hy9VYJT8y1JJqHnxy5aVGA| 
-| 20211221 | Lizard - 代码复杂度分析工具 | https://github.com/terryyin/lizard| 
-| 20211221 | EyeWitness - 为网站创建快照的工具 | https://github.com/FortyNorthSecurity/EyeWitness| 
-| 20211221 | 5G 网络的两种类型，以及经典漏洞在 5G 网络的攻击场景 | http://penthertz.com/blog/Intruding-5G-core-networks-from-outside-and_inside.html| 
-| 20211221 | Windows WSL 中运行的 Visual Studio Code server 被发现存在 RCE 漏洞 | https://parsiya.net/blog/2021-12-20-rce-in-visual-studio-codes-remote-wsl-for-fun-and-negative-profit/| 
-| 20211221 | V8 CVE-2021-4061 类型混淆漏洞的 PoC | https://github.com/msrkp/exploits/tree/main/CVE-2021-4061| 
-| 20211221 | 在进程中扫描 .NET CLR 模块的工具 | https://github.com/bohops/RogueAssemblyHunter| 
-| 20211221 | The Price of Compatibility: Defeating macOS Kernel Using Extended File Attributes | https://i.blackhat.com/asia-21/Friday-Handouts/as-21-Fan-The-Price-Of-Compatibility-Defeating-MacOS-Kernel-Using-Extended-File-Attributes.pdf| 
+| 20211222 | macOS Gatekeeper Bypass 漏洞分析（CVE-2021-30853） | http://objective-see.com/blog/blog_0x6A.html| 
+| 20211222 | Responder and IPv6 attacks | https://g-laurent.blogspot.com/2021/12/responder-and-ipv6-attacks.html| 
+| 20211222 | Microsoft Team 链接预览欺骗、IP 地址泄漏等漏洞的分析 | http://positive.security/blog/ms-teams-1-feature-4-vulns| 
+| 20211222 | Abode IOTA 存在 Management Console 命令注入等多个高危漏洞 | https://www.bitdefender.com/files/News/CaseStudies/study/410/Bitdefender-PR-Whitepaper-Abode-creat4625-en-EN.pdf| 
+| 20211222 | Elastic 安全团队发现 BLISTER 恶意软件携带有效合法签名传播 | https://www.elastic.co/cn/blog/elastic-security-uncovers-blister-malware-campaign| 
+| 20211222 | 2021 年云安全事件回顾 | http://blog.christophetd.fr/cloud-security-breaches-and-vulnerabilities-2021-in-review/| 
+| 20211222 | 微软 Azure App Service 在 Local Git 方式部署代码时存在漏洞，泄漏用户源码库 | http://www.wiz.io/blog/azure-app-service-source-code-leak| 
+| 20211222 | Wordpress 插件 All in One SEO 漏洞可导致网站被攻破，影响 300 万站点 | https://threatpost.com/all-in-one-seo-plugin-bug-threatens-3m-websites-with-takeovers/177240/| 
 
 
 # 安全维基 推荐
@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211223T02:26:31Z | Null | https://github.com/zaneoblaneo/zLog4ShellExploit | 0 | 0| 
 | 20211223T02:12:57Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 317 | 788| 
 | 20211223T02:05:50Z | Null | https://github.com/exploitact/exploitnews | 0 | 0| 
 | 20211223T02:03:31Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
@@ -99,12 +100,12 @@
 | 20211223T01:27:27Z | Epik GUI for exploit | https://github.com/CyberCopLOL/3P1K | 0 | 0| 
 | 20211223T01:13:03Z | Binary Exploitation Labs | https://github.com/jmpshell/BinEx | 0 | 0| 
 | 20211223T01:13:00Z | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | 1 | 0| 
-| 20211223T01:07:36Z | PS-Phwoar! Alpha Version Exploit Host Menu for 5.05 FW with GoldHen v2.0b2 Coded by SiSTRo | https://github.com/DTMExploits/DTMExploits.github.io | 0 | 1| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211223T02:26:05Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/META-HYDRA/Xeexe-TopAntivirusEvasion | 632 | 137| 
 | 20211223T01:26:51Z | Remote control software, supported Windows/Unix/MacOS/Linux(x86/x64/mips/arm) | https://github.com/h1zzz/purewater | 5 | 0| 
 | 20211222T23:15:15Z | Null | https://github.com/jianqiaomo/CSAW-HackML-2020-BackdoorDetector | 0 | 1| 
 | 20211222T20:58:40Z | vsFTPd 2.3.4 Backdoor Exploit CVE-2011-2523 | https://github.com/whoamins/vsFTPd-2.3.4-exploit | 0 | 0| 
@@ -114,7 +115,6 @@
 | 20211222T13:25:27Z | Undocumented credentials for SL2100 / SL1100 | https://github.com/asiplas/nec-sl-series-engineering-backdoor | 0 | 0| 
 | 20211222T13:08:10Z | Null | https://github.com/leileigan/clean_label_textual_backdoor_attack | 3 | 0| 
 | 20211222T12:53:55Z | Null | https://github.com/ccccccc17/trpo_backdoor | 0 | 0| 
-| 20211222T09:56:09Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/META-HYDRA/Xeexe-TopAntivirusEvasion | 633 | 137| 
 
 
 # symbolic execution on Github 推荐

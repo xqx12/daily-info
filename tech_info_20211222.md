@@ -18,6 +18,14 @@
 | 20211222 | Ellume 生产的 COVID-19 家用检测试剂盒被发现结果可以伪造 | https://sec.today/pulses/00ea24cb-8c5c-4f38-a509-aef134753940/| 
 | 20211222 | Ellume 生产的 COVID-19 家用检测试剂盒被发现结果可以伪造 | http://labs.f-secure.com/blog/faking-a-positive-covid-test/| 
 | 20211222 | Apache HTTP Server httpd 被发现两个高危漏洞 | http://nakedsecurity.sophos.com/2021/12/21/apaches-other-product-critical-bugs-in-httpd-web-server-patch-now/| 
+| 20211222 | macOS Gatekeeper Bypass 漏洞分析（CVE-2021-30853） | http://objective-see.com/blog/blog_0x6A.html| 
+| 20211222 | Responder and IPv6 attacks | https://g-laurent.blogspot.com/2021/12/responder-and-ipv6-attacks.html| 
+| 20211222 | Microsoft Team 链接预览欺骗、IP 地址泄漏等漏洞的分析 | http://positive.security/blog/ms-teams-1-feature-4-vulns| 
+| 20211222 | Abode IOTA 存在 Management Console 命令注入等多个高危漏洞 | https://www.bitdefender.com/files/News/CaseStudies/study/410/Bitdefender-PR-Whitepaper-Abode-creat4625-en-EN.pdf| 
+| 20211222 | Elastic 安全团队发现 BLISTER 恶意软件携带有效合法签名传播 | https://www.elastic.co/cn/blog/elastic-security-uncovers-blister-malware-campaign| 
+| 20211222 | 2021 年云安全事件回顾 | http://blog.christophetd.fr/cloud-security-breaches-and-vulnerabilities-2021-in-review/| 
+| 20211222 | 微软 Azure App Service 在 Local Git 方式部署代码时存在漏洞，泄漏用户源码库 | http://www.wiz.io/blog/azure-app-service-source-code-leak| 
+| 20211222 | Wordpress 插件 All in One SEO 漏洞可导致网站被攻破，影响 300 万站点 | https://threatpost.com/all-in-one-seo-plugin-bug-threatens-3m-websites-with-takeovers/177240/| 
 
 
 # 安全维基 推荐
@@ -79,8 +87,8 @@
 | 20211222T13:25:27Z | Undocumented credentials for SL2100 / SL1100 | https://github.com/asiplas/nec-sl-series-engineering-backdoor | 0 | 0| 
 | 20211222T13:08:10Z | Null | https://github.com/leileigan/clean_label_textual_backdoor_attack | 3 | 0| 
 | 20211222T12:53:55Z | Null | https://github.com/ccccccc17/trpo_backdoor | 0 | 0| 
-| 20211222T09:56:09Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/META-HYDRA/Xeexe-TopAntivirusEvasion | 633 | 137| 
 | 20211222T09:51:25Z | Administração remota simples com node e express | https://github.com/kupessala/node-backdoor-exprees | 0 | 0| 
+| 20211222T09:38:25Z | Implementations and demo of a regular Backdoor and a Latent backdoor attack on Deep Neural Networks. | https://github.com/dunnkers/neural-network-backdoors | 6 | 0| 
 
 
 # symbolic execution on Github 推荐
