@@ -90,7 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211223T02:26:31Z | Null | https://github.com/zaneoblaneo/zLog4ShellExploit | 0 | 0| 
+| 20211223T02:28:55Z | Null | https://github.com/zaneoblaneo/zLog4ShellExploit | 0 | 0| 
 | 20211223T02:12:57Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 317 | 788| 
 | 20211223T02:05:50Z | Null | https://github.com/exploitact/exploitnews | 0 | 0| 
 | 20211223T02:03:31Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
