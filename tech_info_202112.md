@@ -146,6 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211223T02:53:20Z | Everything for pentest. , 用于渗透测试的 payload 和 bypass 字典. | https://github.com/ffffffff0x/AboutSecurity | 449 | 95| 
 | 20211223T02:44:07Z | open detection and scanning tool for discovering and fuzzing for Log4J RCE CVE-2021-44228 vulnerability | https://github.com/TaroballzChen/CVE-2021-44228-log4jVulnScanner-metasploit | 0 | 0| 
 | 20211223T02:34:16Z | Null | https://github.com/TitamSeptian/makanan-fuzzy | 0 | 0| 
 | 20211223T02:32:28Z | A differential testing tool for SPIRV compilers based on fuzzing techniques | https://github.com/rayanht/SPIRVSmith | 1 | 0| 
@@ -155,7 +156,6 @@
 | 20211223T00:41:44Z | Null | https://github.com/mallika-bit/FuzzyFriendFinder- | 0 | 0| 
 | 20211223T00:11:05Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6962 | 1455| 
 | 20211223T00:08:42Z | Badboy.py is a fuzzing tool to exploit Buffer Overflows, it does both the fuzzing and the exploit injection part | https://github.com/b4keSn4ke/Badboy | 1 | 0| 
-| 20211223T00:07:43Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 39 | 12| 
 
 
 
