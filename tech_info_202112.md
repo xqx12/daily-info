@@ -90,9 +90,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211224T13:41:59Z | A Database of exploiters for a dead game with no anti cheat. | https://github.com/jnz-dev/PL-Exploiter-DB | 0 | 0| 
 | 20211224T13:36:25Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10477 | 1803| 
 | 20211224T13:35:11Z | Exploits , MIRAI AND SCANNERS , Layer4 Methods , Layer7 Methods , UDP METHODS ,TCP METHODS , BRUTERS , VULN , LISTS | https://github.com/DANO-AMP/DDOS-project | 0 | 0| 
-| 20211224T13:27:17Z | A Database of exploiters for a dead game with no anti cheat. | https://github.com/jnz-dev/PL-Exploiter-DB | 0 | 0| 
 | 20211224T13:19:44Z | exploit for cash | https://github.com/aimee5isalive/rape-pilidge-and-destroy | 0 | 0| 
 | 20211224T13:03:03Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
 | 20211224T13:00:40Z | Roblox exploit scripts | https://github.com/AceKiron/RBLXScripts | 0 | 0| 
