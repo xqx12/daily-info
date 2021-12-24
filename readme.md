@@ -83,7 +83,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211224T13:22:32Z | Null | https://github.com/Elaviness/fuzzy_logic_project | 0 | 0| 
+| 20211224T13:24:27Z | Null | https://github.com/Elaviness/fuzzy_logic_project | 0 | 0| 
 | 20211224T13:15:20Z | Null | https://github.com/oscarpimentel/fuzzy-torch | 1 | 0| 
 | 20211224T13:09:40Z | Null | https://github.com/kvanandh/fuzzy-winner | 0 | 0| 
 | 20211224T13:06:38Z | Generate a wordlist to fuzz amounts or any other numerical values. | https://github.com/ivan-sincek/amounts | 1 | 1| 
