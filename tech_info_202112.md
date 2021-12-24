@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211224T02:51:49Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 3180 | 96| 
+| 20211224T02:55:11Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 3181 | 96| 
 | 20211223T17:43:18Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1853 | 525| 
 | 20211223T16:33:56Z | modern regular expression syntax everywhere with a painless upgrade path | https://github.com/SonOfLilit/kleenexp | 32 | 4| 
 | 20211222T02:12:23Z | Null | https://github.com/lindsayp30/emp_KLEEMEX | 0 | 0| 
@@ -90,7 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211224T02:52:09Z | Null | https://github.com/hacxor37/Exploit | 0 | 0| 
+| 20211224T02:54:36Z | Null | https://github.com/hacxor37/Exploit | 0 | 0| 
 | 20211224T02:34:33Z | Binary Exploitation Labs | https://github.com/jmpshell/BinEx | 0 | 0| 
 | 20211224T02:16:15Z | Student-created Linux Binary Exploitation course taught at George Mason University in the Spring and Fall semesters of 2021. | https://github.com/badwin00/CS395 | 0 | 0| 
 | 20211224T02:11:53Z | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | 43 | 9| 
@@ -105,13 +105,13 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211224T02:54:40Z | Null | https://github.com/Ramirez1001/backdoor | 0 | 0| 
 | 20211224T00:45:24Z | simple discord nuker | https://github.com/14teen/backdoor | 0 | 0| 
 | 20211224T00:21:20Z | Null | https://github.com/seydang/Weight-Pruning-Against-Backdooring-Attacks | 0 | 0| 
 | 20211223T21:12:52Z | This program will explore all the backdoor in your openned pc apps ! using js py and exs - by natrixdev | https://github.com/natrixdev/backdoor-explorer | 0 | 0| 
 | 20211223T19:48:28Z | a simple backdoor service(NOT FINISHED) but it kinda works | https://github.com/ranon-rat/yackdoor | 5 | 0| 
 | 20211223T19:25:46Z | RemoteEvent%s & RemoteFunction%s Backdoor Scanner. Feel free to visit now. | https://github.com/jaackkiscool/Frickin-Serverside-Scanner-v1.2 | 3 | 0| 
 | 20211223T18:42:16Z | Hide your payload into .jpg file | https://github.com/Tsuyoken/ImgBackdoor | 120 | 39| 
-| 20211223T18:00:59Z | Null | https://github.com/Ramirez1001/backdoor | 0 | 0| 
 | 20211223T17:48:01Z | Codebase for my Level 4 University Project: Static Analysis of Executable Code to Detect Backdoors on IoT Devices | https://github.com/sophieboyle/Symbolic-Execution-for-ARM-Backdoor-Detection | 0 | 0| 
 | 20211223T16:18:37Z | A backdoor for standalone | https://github.com/LeotendoDev/moon-shell | 0 | 0| 
 | 20211223T15:39:53Z | Backdoor for window10 | https://github.com/Ramish222-d/Virat | 0 | 0| 
