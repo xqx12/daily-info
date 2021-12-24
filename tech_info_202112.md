@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211224T02:38:45Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 3179 | 96| 
+| 20211224T02:51:49Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 3180 | 96| 
 | 20211223T17:43:18Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1853 | 525| 
 | 20211223T16:33:56Z | modern regular expression syntax everywhere with a painless upgrade path | https://github.com/SonOfLilit/kleenexp | 32 | 4| 
 | 20211222T02:12:23Z | Null | https://github.com/lindsayp30/emp_KLEEMEX | 0 | 0| 
@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211224T02:52:09Z | Null | https://github.com/hacxor37/Exploit | 0 | 0| 
 | 20211224T02:34:33Z | Binary Exploitation Labs | https://github.com/jmpshell/BinEx | 0 | 0| 
 | 20211224T02:16:15Z | Student-created Linux Binary Exploitation course taught at George Mason University in the Spring and Fall semesters of 2021. | https://github.com/badwin00/CS395 | 0 | 0| 
 | 20211224T02:11:53Z | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | 43 | 9| 
@@ -99,7 +100,6 @@
 | 20211224T00:46:00Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 17| 
 | 20211224T00:25:13Z | Introductory exploit development tool for return oriented programming. | https://github.com/Green-Avocado/EasyROP | 0 | 0| 
 | 20211224T00:13:47Z | Null | https://github.com/JMKCyberSec/Vulnerable_Wordpress_Exploitation | 0 | 0| 
-| 20211224T00:12:14Z | Null | https://github.com/APresellingservices/hervus-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
