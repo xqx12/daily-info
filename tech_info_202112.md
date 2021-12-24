@@ -146,6 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211224T13:43:58Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2329 | 454| 
 | 20211224T13:24:27Z | Null | https://github.com/Elaviness/fuzzy_logic_project | 0 | 0| 
 | 20211224T13:15:20Z | Null | https://github.com/oscarpimentel/fuzzy-torch | 1 | 0| 
 | 20211224T13:09:40Z | Null | https://github.com/kvanandh/fuzzy-winner | 0 | 0| 
@@ -155,7 +156,6 @@
 | 20211224T12:14:31Z | Приложение, написанное на JavaFX, функционал которого заключается в оценке аниме по критериям с помощью нечёткой модели. | https://github.com/Fkame/FuzzyModel_Anime_Rater | 0 | 0| 
 | 20211224T12:10:20Z | Null | https://github.com/organization-forge-app/fuzzy-octo-happiness | 0 | 0| 
 | 20211224T12:02:17Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 38 | 12| 
-| 20211224T11:40:11Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 
 
 
