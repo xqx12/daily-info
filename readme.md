@@ -18,6 +18,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211224T13:09:32Z | CVE-2021-44228 | general purpose workaround for the log4j CVE-2021-44228 vulnerability | https://github.com/grimch/log4j-CVE-2021-44228-workaround | | 
 | 20211224T12:15:48Z | CVE-2021-44228 | Null | https://github.com/rwincey/CVE-2021-44228-Log4j-Payloads | | 
 | 20211224T11:01:22Z | CVE-2021-44228 | Null | https://github.com/b-abderrahmane/CVE-2021-44228-playground | | 
 | 20211224T10:57:33Z | cve-2021-44228 | Ansible detector scanner playbook to verify target Linux hosts using the official Red Hat Log4j detector script RHSB-2021-009 Remote Code Execution - log4j (CVE-2021-44228) | https://github.com/lucab85/log4j-cve-2021-44228 | | 
@@ -25,7 +26,6 @@
 | 20211224T08:56:47Z | CVE-2021-44228 | Log4Shell Demo with AWS | https://github.com/BabooPan/Log4Shell-CVE-2021-44228-Demo | | 
 | 20211224T08:47:17Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
 | 20211224T07:38:42Z | CVE-2021-42013 | Apache 远程代码执行 （CVE-2021-42013）批量检测工具：Apache HTTP Server是美国阿帕奇（Apache）基金会的一款开源网页服务器。该服务器具有快速、可靠且可通过简单的API进行扩充的特点，发现 Apache HTTP Server 2.4.50 中针对 CVE-2021-41773 的修复不够充分。攻击者可以使用路径遍历攻击将 URL 映射到由类似别名的指令配置的目录之外的文件。如果这些目录之外的文件不受通常的默认配置“要求全部拒绝”的保护，则这些请求可能会成功。如果还为这些别名路径启用了 CGI 脚本，则这可能允许远程代码执行。此问题仅影响 Apache 2.4.49 和 Apache 2.4.50，而不影响更早版本。 | https://github.com/asaotomo/CVE-2021-42013-Apache-RCE-Poc-Exp | | 
-| 20211224T06:54:25Z | CVE-2021-44228 | general purpose workaround for the log4j CVE-2021-44228 vulnerability | https://github.com/grimch/log4j-CVE-2021-44228-workaround | | 
 
 
 # klee on Github 推荐
@@ -83,6 +83,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211224T13:09:40Z | Null | https://github.com/kvanandh/fuzzy-winner | 0 | 0| 
 | 20211224T13:06:38Z | Generate a wordlist to fuzz amounts or any other numerical values. | https://github.com/ivan-sincek/amounts | 1 | 1| 
 | 20211224T13:00:27Z | Linux Kernel Snapshot Fuzzer using KVM | https://github.com/SmoothHacker/LateRegistration | 23 | 4| 
 | 20211224T12:45:12Z | Null | https://github.com/Moon010608/fuzzy-octo-adventure | 0 | 0| 
@@ -92,7 +93,6 @@
 | 20211224T11:40:11Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20211224T11:06:56Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1135 | 48| 
 | 20211224T11:00:39Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3847 | 906| 
-| 20211224T10:15:51Z | Null | https://github.com/kc8022/fuzzy-broccoli | 0 | 0| 
 
 
 
