@@ -146,6 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211224T02:43:54Z | A Docker image for radamsa, a general purpose fuzzer | https://github.com/sjinks/docker-scratch-radamsa | 0 | 0| 
 | 20211224T02:42:25Z | Linux Kernel Snapshot Fuzzer using KVM | https://github.com/SmoothHacker/LateRegistration | 8 | 0| 
 | 20211224T02:11:20Z | Simple Network Fuzzer in libafl | https://github.com/elbiazo/libafl_network_fuzzer | 0 | 0| 
 | 20211224T00:56:35Z | AE470260000959062455701 | https://github.com/Z123st/fuzzy-computing-machine | 0 | 0| 
@@ -155,7 +156,6 @@
 | 20211223T23:41:14Z | Null | https://github.com/allexks/FuzzyKit | 0 | 0| 
 | 20211223T23:40:17Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20211223T23:38:45Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
-| 20211223T23:08:45Z | Fuzz tester for the Zydis disassembly library | https://github.com/tremalrik/zydis-fuzzer | 5 | 1| 
 
 
 
