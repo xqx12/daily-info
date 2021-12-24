@@ -146,8 +146,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211224T01:07:42Z | Linux Kernel Snapshot Fuzzer using KVM | https://github.com/SmoothHacker/LateRegistration | 1 | 0| 
 | 20211224T00:56:35Z | AE470260000959062455701 | https://github.com/Z123st/fuzzy-computing-machine | 0 | 0| 
-| 20211224T00:40:23Z | Linux Kernel Snapshot Fuzzer using KVM | https://github.com/SmoothHacker/LateRegistration | 1 | 0| 
 | 20211224T00:22:12Z | Null | https://github.com/RoWare2/FuzzyRX | 0 | 0| 
 | 20211224T00:16:08Z | Simple Network Fuzzer in libafl | https://github.com/elbiazo/libafl_network_fuzzer | 0 | 0| 
 | 20211223T23:48:46Z | History of symbolic execution (as well as SAT/SMT solving, fuzzing, and taint data tracking) | https://github.com/enzet/symbolic-execution | 412 | 57| 
