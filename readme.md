@@ -43,6 +43,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211224T13:21:46Z | Exploits , MIRAI AND SCANNERS , Layer4 Methods , Layer7 Methods , UDP METHODS ,TCP METHODS , BRUTERS , VULN , LISTS | https://github.com/DANO-AMP/DDOS-project | 0 | 0| 
 | 20211224T13:20:48Z | A Database of exploiters for a dead game with no anti cheat. | https://github.com/jnz-dev/PL-Exploiter-DB | 0 | 0| 
 | 20211224T13:19:44Z | exploit for cash | https://github.com/aimee5isalive/rape-pilidge-and-destroy | 0 | 0| 
 | 20211224T13:03:03Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
@@ -52,7 +53,6 @@
 | 20211224T12:39:51Z | Download Cracked:https://gofile.io/d/lauksw | https://github.com/BUSTExploit/silent-doc---pdf-exploit-new | 0 | 0| 
 | 20211224T12:37:16Z | My TryHackMe writeups and notes  | https://github.com/dnts3110/TryHackMe-Writeups | 2 | 0| 
 | 20211224T12:27:31Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 261 | 79| 
-| 20211224T12:24:30Z | A collection of intelligence about Log4Shell and its exploitation activity.  | https://github.com/curated-intel/Log4Shell-IOCs | 134 | 29| 
 
 
 # backdoor on Github 推荐
@@ -83,6 +83,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211224T13:22:32Z | Null | https://github.com/Elaviness/fuzzy_logic_project | 0 | 0| 
 | 20211224T13:15:20Z | Null | https://github.com/oscarpimentel/fuzzy-torch | 1 | 0| 
 | 20211224T13:09:40Z | Null | https://github.com/kvanandh/fuzzy-winner | 0 | 0| 
 | 20211224T13:06:38Z | Generate a wordlist to fuzz amounts or any other numerical values. | https://github.com/ivan-sincek/amounts | 1 | 1| 
@@ -92,7 +93,6 @@
 | 20211224T12:10:20Z | Null | https://github.com/organization-forge-app/fuzzy-octo-happiness | 0 | 0| 
 | 20211224T12:02:17Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 38 | 12| 
 | 20211224T11:40:11Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
-| 20211224T11:06:56Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1135 | 48| 
 
 
 
