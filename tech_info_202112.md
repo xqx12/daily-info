@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211224T13:09:32Z | CVE-2021-44228 | general purpose workaround for the log4j CVE-2021-44228 vulnerability | https://github.com/grimch/log4j-CVE-2021-44228-workaround | | 
+| 20211224T13:34:13Z | CVE-2021-44228 | general purpose workaround for the log4j CVE-2021-44228 vulnerability | https://github.com/grimch/log4j-CVE-2021-44228-workaround | | 
 | 20211224T12:15:48Z | CVE-2021-44228 | Null | https://github.com/rwincey/CVE-2021-44228-Log4j-Payloads | | 
 | 20211224T11:01:22Z | CVE-2021-44228 | Null | https://github.com/b-abderrahmane/CVE-2021-44228-playground | | 
 | 20211224T10:57:33Z | cve-2021-44228 | Ansible detector scanner playbook to verify target Linux hosts using the official Red Hat Log4j detector script RHSB-2021-009 Remote Code Execution - log4j (CVE-2021-44228) | https://github.com/lucab85/log4j-cve-2021-44228 | | 
@@ -90,8 +90,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211224T13:35:11Z | Exploits , MIRAI AND SCANNERS , Layer4 Methods , Layer7 Methods , UDP METHODS ,TCP METHODS , BRUTERS , VULN , LISTS | https://github.com/DANO-AMP/DDOS-project | 0 | 0| 
 | 20211224T13:27:17Z | A Database of exploiters for a dead game with no anti cheat. | https://github.com/jnz-dev/PL-Exploiter-DB | 0 | 0| 
-| 20211224T13:21:46Z | Exploits , MIRAI AND SCANNERS , Layer4 Methods , Layer7 Methods , UDP METHODS ,TCP METHODS , BRUTERS , VULN , LISTS | https://github.com/DANO-AMP/DDOS-project | 0 | 0| 
 | 20211224T13:19:44Z | exploit for cash | https://github.com/aimee5isalive/rape-pilidge-and-destroy | 0 | 0| 
 | 20211224T13:03:03Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
 | 20211224T13:00:40Z | Roblox exploit scripts | https://github.com/AceKiron/RBLXScripts | 0 | 0| 
