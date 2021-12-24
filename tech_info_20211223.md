@@ -14,6 +14,9 @@
 | 20211223 | 缓存污染漏洞的挖掘和利用 | http://youst.in/posts/cache-poisoning-at-scale/| 
 | 20211223 | hxp CTF 2021 valgrind sandbox writeup | http://eternal.red/2021/sandboxgrind/| 
 | 20211223 | 基于 KVM 实现的 Linux 内核快照 Fuzzer | https://github.com/SmoothHacker/LateRegistration| 
+| 20211223 | BtleJack: a new Bluetooth Low Energy swiss-army knife | https://github.com/virtualabs/btlejack| 
+| 20211223 | APISandbox - 基于 Docker 构建的包含多个场景的 API 漏洞靶场 | https://github.com/API-Security/APISandbox| 
+| 20211223 | 趋势科技发现电车充电站供应链组件受 log4j2 漏洞影响 | http://research.trendmicro.com/3H552Eo| 
 
 
 # 安全维基 推荐

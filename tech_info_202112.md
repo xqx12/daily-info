@@ -14,6 +14,9 @@
 | 20211223 | 缓存污染漏洞的挖掘和利用 | http://youst.in/posts/cache-poisoning-at-scale/| 
 | 20211223 | hxp CTF 2021 valgrind sandbox writeup | http://eternal.red/2021/sandboxgrind/| 
 | 20211223 | 基于 KVM 实现的 Linux 内核快照 Fuzzer | https://github.com/SmoothHacker/LateRegistration| 
+| 20211223 | BtleJack: a new Bluetooth Low Energy swiss-army knife | https://github.com/virtualabs/btlejack| 
+| 20211223 | APISandbox - 基于 Docker 构建的包含多个场景的 API 漏洞靶场 | https://github.com/API-Security/APISandbox| 
+| 20211223 | 趋势科技发现电车充电站供应链组件受 log4j2 漏洞影响 | http://research.trendmicro.com/3H552Eo| 
 | 20211222 | 有研究员研究发现，恶意 App 可以通过访问华为 Android 手机的触屏事件统计日志还原用户的触屏输入。目前该问题已被修复。 | https://labs.taszk.io/articles/post/ouchscreen/| 
 | 20211222 | TLS Certificate Security for Android | https://www.guardsquare.com/blog/insecure-tls-certificate-checking-in-android-apps| 
 | 20211222 | 研究 Cobalt Strike 以及 IAT Hooking 的细节，绕过 BeaconEye 的检测 | https://www.cyberark.com/resources/threat-research-blog/hook-heaps-and-live-free| 
@@ -23,9 +26,6 @@
 | 20211222 | 在 Windows 11 Subsystem for Android 子系统环境中测试 Android App | https://sensepost.com/blog/2021/android-application-testing-using-windows-11-and-windows-subsystem-for-android/| 
 | 20211222 | ShadowBrokers dewdrop 后门工具的分析 | http://reverse.put.as/2021/12/17/knock-knock-whos-there/| 
 | 20211222 | 据 Palo Alto 公司分析，APT 组织利用 ManageEngine ServiceDesk Plus IT 服务管理软件渗透 13 家技术、能源、健康等行业的机构 | https://unit42.paloaltonetworks.com/tiltedtemple-manageengine-servicedesk-plus/| 
-| 20211222 | Ellume 生产的 COVID-19 家用检测试剂盒被发现结果可以伪造 | https://sec.today/pulses/00ea24cb-8c5c-4f38-a509-aef134753940/| 
-| 20211222 | Ellume 生产的 COVID-19 家用检测试剂盒被发现结果可以伪造 | http://labs.f-secure.com/blog/faking-a-positive-covid-test/| 
-| 20211222 | Apache HTTP Server httpd 被发现两个高危漏洞 | http://nakedsecurity.sophos.com/2021/12/21/apaches-other-product-critical-bugs-in-httpd-web-server-patch-now/| 
 
 
 # 安全维基 推荐
@@ -90,7 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211224T02:07:44Z | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | 43 | 9| 
+| 20211224T02:11:53Z | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | 43 | 9| 
 | 20211224T02:03:30Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
 | 20211224T00:50:46Z | A collection of intelligence about Log4Shell and its exploitation activity.  | https://github.com/curated-intel/Log4Shell-IOCs | 132 | 28| 
 | 20211224T00:49:51Z | HatVenom is a HatSploit native powerful payload generation and shellcode injection tool that provides support for common platforms and architectures. | https://github.com/EntySec/HatVenom | 65 | 18| 
@@ -146,10 +146,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211224T01:09:03Z | Linux Kernel Snapshot Fuzzer using KVM | https://github.com/SmoothHacker/LateRegistration | 3 | 0| 
+| 20211224T02:12:03Z | Linux Kernel Snapshot Fuzzer using KVM | https://github.com/SmoothHacker/LateRegistration | 4 | 0| 
+| 20211224T02:11:20Z | Simple Network Fuzzer in libafl | https://github.com/elbiazo/libafl_network_fuzzer | 0 | 0| 
 | 20211224T00:56:35Z | AE470260000959062455701 | https://github.com/Z123st/fuzzy-computing-machine | 0 | 0| 
 | 20211224T00:22:12Z | Null | https://github.com/RoWare2/FuzzyRX | 0 | 0| 
-| 20211224T00:16:08Z | Simple Network Fuzzer in libafl | https://github.com/elbiazo/libafl_network_fuzzer | 0 | 0| 
 | 20211223T23:48:46Z | History of symbolic execution (as well as SAT/SMT solving, fuzzing, and taint data tracking) | https://github.com/enzet/symbolic-execution | 412 | 57| 
 | 20211223T23:44:43Z | Null | https://github.com/sofiafarianti/fuzzy-adventure | 0 | 0| 
 | 20211223T23:41:14Z | Null | https://github.com/allexks/FuzzyKit | 0 | 0| 
