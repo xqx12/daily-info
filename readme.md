@@ -83,6 +83,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211224T13:15:20Z | Null | https://github.com/oscarpimentel/fuzzy-torch | 1 | 0| 
 | 20211224T13:09:40Z | Null | https://github.com/kvanandh/fuzzy-winner | 0 | 0| 
 | 20211224T13:06:38Z | Generate a wordlist to fuzz amounts or any other numerical values. | https://github.com/ivan-sincek/amounts | 1 | 1| 
 | 20211224T13:00:27Z | Linux Kernel Snapshot Fuzzer using KVM | https://github.com/SmoothHacker/LateRegistration | 23 | 4| 
@@ -92,7 +93,6 @@
 | 20211224T12:02:17Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 38 | 12| 
 | 20211224T11:40:11Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20211224T11:06:56Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1135 | 48| 
-| 20211224T11:00:39Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3847 | 906| 
 
 
 
