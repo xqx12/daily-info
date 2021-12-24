@@ -83,6 +83,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211224T13:06:38Z | Generate a wordlist to fuzz amounts or any other numerical values. | https://github.com/ivan-sincek/amounts | 1 | 1| 
 | 20211224T13:00:27Z | Linux Kernel Snapshot Fuzzer using KVM | https://github.com/SmoothHacker/LateRegistration | 23 | 4| 
 | 20211224T12:45:12Z | Null | https://github.com/Moon010608/fuzzy-octo-adventure | 0 | 0| 
 | 20211224T12:14:31Z | Приложение, написанное на JavaFX, функционал которого заключается в оценке аниме по критериям с помощью нечёткой модели. | https://github.com/Fkame/FuzzyModel_Anime_Rater | 0 | 0| 
@@ -92,7 +93,6 @@
 | 20211224T11:06:56Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1135 | 48| 
 | 20211224T11:00:39Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3847 | 906| 
 | 20211224T10:15:51Z | Null | https://github.com/kc8022/fuzzy-broccoli | 0 | 0| 
-| 20211224T09:44:24Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
 
 
 
