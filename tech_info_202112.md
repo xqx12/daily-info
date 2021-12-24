@@ -146,8 +146,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211224T02:46:35Z | Linux Kernel Snapshot Fuzzer using KVM | https://github.com/SmoothHacker/LateRegistration | 9 | 0| 
 | 20211224T02:43:54Z | A Docker image for radamsa, a general purpose fuzzer | https://github.com/sjinks/docker-scratch-radamsa | 0 | 0| 
-| 20211224T02:42:25Z | Linux Kernel Snapshot Fuzzer using KVM | https://github.com/SmoothHacker/LateRegistration | 8 | 0| 
 | 20211224T02:11:20Z | Simple Network Fuzzer in libafl | https://github.com/elbiazo/libafl_network_fuzzer | 0 | 0| 
 | 20211224T00:56:35Z | AE470260000959062455701 | https://github.com/Z123st/fuzzy-computing-machine | 0 | 0| 
 | 20211224T00:22:12Z | Null | https://github.com/RoWare2/FuzzyRX | 0 | 0| 
