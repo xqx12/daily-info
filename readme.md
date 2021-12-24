@@ -44,6 +44,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211224T13:44:16Z | Exploits for various CVEs | https://github.com/TheMirkin/CVE-List-Public-Exploits | 0 | 0| 
 | 20211224T13:41:59Z | A Database of exploiters for a dead game with no anti cheat. | https://github.com/jnz-dev/PL-Exploiter-DB | 0 | 0| 
 | 20211224T13:36:25Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10477 | 1803| 
 | 20211224T13:35:11Z | Exploits , MIRAI AND SCANNERS , Layer4 Methods , Layer7 Methods , UDP METHODS ,TCP METHODS , BRUTERS , VULN , LISTS | https://github.com/DANO-AMP/DDOS-project | 0 | 0| 
@@ -53,7 +54,6 @@
 | 20211224T12:49:45Z | A helpful Java Deserialization exploit framework. | https://github.com/wh1t3p1g/ysomap | 602 | 70| 
 | 20211224T12:45:59Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 17| 
 | 20211224T12:39:51Z | Download Cracked:https://gofile.io/d/lauksw | https://github.com/BUSTExploit/silent-doc---pdf-exploit-new | 0 | 0| 
-| 20211224T12:37:16Z | My TryHackMe writeups and notes  | https://github.com/dnts3110/TryHackMe-Writeups | 2 | 0| 
 
 
 # backdoor on Github 推荐
