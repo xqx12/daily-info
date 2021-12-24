@@ -8,6 +8,12 @@
 | --- | --- | ---| 
 | 20211223 | 开普勒星云免杀平台开源版V1.0. | https://github.com/admin360bug/bypass| 
 | 20211223 | HackLog4j: 致敬全宇宙最无敌的Java日志库！ | https://github.com/qq529952515/HackLog4j| 
+| 20211223 | NTFS 文件驱动 CVE-2021-31956 整数溢出漏洞分析 | https://dawnslab.jd.com/CVE-2021-31956/| 
+| 20211223 | OWASP 发布移动安全测试指南（MSTG）v1.3.0 版本 | https://github.com/OWASP/owasp-mstg/releases/tag/v1.3.0| 
+| 20211223 | 无线电射频（RF）方向的一些安全问题及检测方案 | http://penthertz.com/resources/RF%20bugs-GS%20days%202021.pdf| 
+| 20211223 | 缓存污染漏洞的挖掘和利用 | http://youst.in/posts/cache-poisoning-at-scale/| 
+| 20211223 | hxp CTF 2021 valgrind sandbox writeup | http://eternal.red/2021/sandboxgrind/| 
+| 20211223 | 基于 KVM 实现的 Linux 内核快照 Fuzzer | https://github.com/SmoothHacker/LateRegistration| 
 
 
 # 安全维基 推荐

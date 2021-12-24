@@ -8,6 +8,12 @@
 | --- | --- | ---| 
 | 20211223 | 开普勒星云免杀平台开源版V1.0. | https://github.com/admin360bug/bypass| 
 | 20211223 | HackLog4j: 致敬全宇宙最无敌的Java日志库！ | https://github.com/qq529952515/HackLog4j| 
+| 20211223 | NTFS 文件驱动 CVE-2021-31956 整数溢出漏洞分析 | https://dawnslab.jd.com/CVE-2021-31956/| 
+| 20211223 | OWASP 发布移动安全测试指南（MSTG）v1.3.0 版本 | https://github.com/OWASP/owasp-mstg/releases/tag/v1.3.0| 
+| 20211223 | 无线电射频（RF）方向的一些安全问题及检测方案 | http://penthertz.com/resources/RF%20bugs-GS%20days%202021.pdf| 
+| 20211223 | 缓存污染漏洞的挖掘和利用 | http://youst.in/posts/cache-poisoning-at-scale/| 
+| 20211223 | hxp CTF 2021 valgrind sandbox writeup | http://eternal.red/2021/sandboxgrind/| 
+| 20211223 | 基于 KVM 实现的 Linux 内核快照 Fuzzer | https://github.com/SmoothHacker/LateRegistration| 
 | 20211222 | 有研究员研究发现，恶意 App 可以通过访问华为 Android 手机的触屏事件统计日志还原用户的触屏输入。目前该问题已被修复。 | https://labs.taszk.io/articles/post/ouchscreen/| 
 | 20211222 | TLS Certificate Security for Android | https://www.guardsquare.com/blog/insecure-tls-certificate-checking-in-android-apps| 
 | 20211222 | 研究 Cobalt Strike 以及 IAT Hooking 的细节，绕过 BeaconEye 的检测 | https://www.cyberark.com/resources/threat-research-blog/hook-heaps-and-live-free| 
@@ -20,12 +26,6 @@
 | 20211222 | Ellume 生产的 COVID-19 家用检测试剂盒被发现结果可以伪造 | https://sec.today/pulses/00ea24cb-8c5c-4f38-a509-aef134753940/| 
 | 20211222 | Ellume 生产的 COVID-19 家用检测试剂盒被发现结果可以伪造 | http://labs.f-secure.com/blog/faking-a-positive-covid-test/| 
 | 20211222 | Apache HTTP Server httpd 被发现两个高危漏洞 | http://nakedsecurity.sophos.com/2021/12/21/apaches-other-product-critical-bugs-in-httpd-web-server-patch-now/| 
-| 20211222 | macOS Gatekeeper Bypass 漏洞分析（CVE-2021-30853） | http://objective-see.com/blog/blog_0x6A.html| 
-| 20211222 | Responder and IPv6 attacks | https://g-laurent.blogspot.com/2021/12/responder-and-ipv6-attacks.html| 
-| 20211222 | Microsoft Team 链接预览欺骗、IP 地址泄漏等漏洞的分析 | http://positive.security/blog/ms-teams-1-feature-4-vulns| 
-| 20211222 | Abode IOTA 存在 Management Console 命令注入等多个高危漏洞 | https://www.bitdefender.com/files/News/CaseStudies/study/410/Bitdefender-PR-Whitepaper-Abode-creat4625-en-EN.pdf| 
-| 20211222 | Elastic 安全团队发现 BLISTER 恶意软件携带有效合法签名传播 | https://www.elastic.co/cn/blog/elastic-security-uncovers-blister-malware-campaign| 
-| 20211222 | 2021 年云安全事件回顾 | http://blog.christophetd.fr/cloud-security-breaches-and-vulnerabilities-2021-in-review/| 
 
 
 # 安全维基 推荐
@@ -90,7 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211224T01:03:46Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
+| 20211224T02:03:30Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
 | 20211224T00:50:46Z | A collection of intelligence about Log4Shell and its exploitation activity.  | https://github.com/curated-intel/Log4Shell-IOCs | 132 | 28| 
 | 20211224T00:49:51Z | HatVenom is a HatSploit native powerful payload generation and shellcode injection tool that provides support for common platforms and architectures. | https://github.com/EntySec/HatVenom | 65 | 18| 
 | 20211224T00:46:00Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 17| 
