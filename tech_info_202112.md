@@ -90,7 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211224T02:32:03Z | Binary Exploitation Labs | https://github.com/jmpshell/BinEx | 0 | 0| 
+| 20211224T02:34:33Z | Binary Exploitation Labs | https://github.com/jmpshell/BinEx | 0 | 0| 
 | 20211224T02:16:15Z | Student-created Linux Binary Exploitation course taught at George Mason University in the Spring and Fall semesters of 2021. | https://github.com/badwin00/CS395 | 0 | 0| 
 | 20211224T02:11:53Z | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | 43 | 9| 
 | 20211224T02:03:30Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
