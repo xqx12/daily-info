@@ -90,7 +90,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211225T02:31:39Z | Null | https://github.com/nismo1337/fluxus-exploit | 0 | 0| 
+| 20211225T02:32:35Z | Null | https://github.com/nismo1337/oxygen-exploit | 0 | 0| 
+| 20211225T02:31:53Z | Null | https://github.com/nismo1337/fluxus-exploit | 0 | 0| 
 | 20211225T02:20:05Z | Null | https://github.com/nismo1337/fluxus-exploit-crack | 0 | 0| 
 | 20211225T02:04:54Z | Null | https://github.com/blueIbird/exploit | 0 | 0| 
 | 20211225T02:03:07Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
@@ -99,7 +100,6 @@
 | 20211225T00:56:46Z | My TryHackMe writeups and notes  | https://github.com/dnts3110/TryHackMe-Writeups | 2 | 0| 
 | 20211225T00:50:08Z | A collection of intelligence about Log4Shell and its exploitation activity.  | https://github.com/curated-intel/Log4Shell-IOCs | 136 | 29| 
 | 20211225T00:44:10Z | Null | https://github.com/dannyallover/Exploit-C | 0 | 0| 
-| 20211225T00:17:31Z | Null | https://github.com/Jongtek-23/Notes---Linux-Exploitation---Post-Exploitation | 0 | 0| 
 
 
 # backdoor on Github 推荐
