@@ -94,11 +94,11 @@
 | 20211224T22:12:44Z | File Tree Fuzzer allows you to create a pseudo-random directory hierarchy filled with some number of files. | https://github.com/SUPERCILEX/ftzz | 3 | 0| 
 | 20211224T21:33:40Z | CATS is a REST APIs fuzzer and negative testing tool for OpenAPI endpoints. CATS automatically  generates, runs and reports tests with minimum configuration and no coding effort. Tests are self-healing and does not require maintenance. | https://github.com/Endava/cats | 490 | 20| 
 | 20211224T21:03:38Z | History of symbolic execution (as well as SAT/SMT solving, fuzzing, and taint data tracking) | https://github.com/enzet/symbolic-execution | 412 | 57| 
-| 20211224T21:01:43Z | Implementation of the optimal fuzzy partition with centers placing as Voronoi diagrams. | https://github.com/Danleb/OptimalFuzzyPartition | 1 | 0| 
 | 20211224T20:52:40Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6962 | 1457| 
 | 20211224T20:36:59Z | Null | https://github.com/gordod26/fuzzy-chainsaw | 0 | 0| 
 | 20211224T20:35:42Z | Solutions to problems I find along my journey into competitive programming! | https://github.com/AyaSleep/fuzzy-waddle | 0 | 0| 
 | 20211224T20:31:10Z | Null | https://github.com/Maxim341/fuzzy_prototype | 0 | 0| 
+| 20211224T20:11:28Z | Config files for my GitHub profile. | https://github.com/fuzzylogiccapital/fuzzylogiccapital | 0 | 0| 
 
 
 

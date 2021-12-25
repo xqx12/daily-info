@@ -146,6 +146,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211225T01:37:34Z | Implementation of the optimal fuzzy partition with centers placing as Voronoi diagrams. | https://github.com/Danleb/OptimalFuzzyPartition | 1 | 0| 
+| 20211225T01:35:21Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211225T01:27:06Z |    USBFuzz: A Framework for Fuzzing USB Drivers by Device Emulation Authors:  Hui Peng, Purdue University; Mathias Payer, EPFL  Abstract:  The Universal Serial Bus (USB) connects external devices to a host. This interface exposes the OS kernels and device drivers to attacks by malicious devices. Unfortunately, kernels and drivers were developed under a security model that implicitly trusts connected devices. Drivers expect faulty hardware but not malicious attacks. Similarly, security testing drivers is challenging as input must cross the hardware/software barrier. Fuzzing, the most widely used bug finding technique, relies on providing random data to programs. However, fuzzing device drivers is challenging due to the difficulty in crossing the hardware/software barrier and providing random device data to the driver under test.  We present USBFuzz, a portable, flexible, and modular framework for fuzz testing USB drivers. At its core, USBFuzz uses a software-emulated USB device to provide random device data to drivers (when they perform IO operations). As the emulated USB device works at the device level, porting it to other platforms is straight-forward. Using the USBFuzz framework, we apply (i) coverage-guided fuzzing to a broad range of USB drivers in the Linux kernel; (ii) dumb fuzzing in FreeBSD, MacOS, and Windows through cross pollination seeded by the Linux inputs; and (iii) focused fuzzing of a USB webcam driver. USBFuzz discovered a total of 26 new bugs, including 16 memory bugs of high security impact in various Linux subsystems (USB core, USB sound, and network), one bug in FreeBSD, three in MacOS (two resulting in an unplanned reboot and one freezing the system), and four in Windows 8 and Windows 10 (resulting in Blue Screens of Death), and one bug in the Linux USB host controller driver and another one in a USB camera driver. From the Linux bugs, we have fixed and upstreamed 11 bugs and received 10 CVEs. | https://github.com/Mario-Kart-Felix/driver-for-fuzzer | 0 | 0| 
 | 20211225T01:25:01Z | Leetcode solutions. | https://github.com/chaitanyks/fuzzy-disco | 1 | 0| 
 | 20211225T01:18:12Z | setup for fuzzing the Rust compiler | https://github.com/dwrensha/fuzz-rustc | 35 | 0| 
@@ -154,8 +156,6 @@
 | 20211224T23:16:01Z | Null | https://github.com/SVYSHE/fuzz-test | 0 | 0| 
 | 20211224T22:12:44Z | File Tree Fuzzer allows you to create a pseudo-random directory hierarchy filled with some number of files. | https://github.com/SUPERCILEX/ftzz | 3 | 0| 
 | 20211224T21:33:40Z | CATS is a REST APIs fuzzer and negative testing tool for OpenAPI endpoints. CATS automatically  generates, runs and reports tests with minimum configuration and no coding effort. Tests are self-healing and does not require maintenance. | https://github.com/Endava/cats | 490 | 20| 
-| 20211224T21:03:38Z | History of symbolic execution (as well as SAT/SMT solving, fuzzing, and taint data tracking) | https://github.com/enzet/symbolic-execution | 412 | 57| 
-| 20211224T21:01:43Z | Implementation of the optimal fuzzy partition with centers placing as Voronoi diagrams. | https://github.com/Danleb/OptimalFuzzyPartition | 1 | 0| 
 
 
 
