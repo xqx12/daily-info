@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211225T02:36:07Z | Solutions to common exploit exercises. | https://github.com/RoundofThree/exploit-resources | 0 | 0| 
 | 20211225T02:32:59Z | Null | https://github.com/nismo1337/oxygen-exploit | 0 | 0| 
 | 20211225T02:31:53Z | Null | https://github.com/nismo1337/fluxus-exploit | 0 | 0| 
 | 20211225T02:20:05Z | Null | https://github.com/nismo1337/fluxus-exploit-crack | 0 | 0| 
@@ -99,7 +100,6 @@
 | 20211225T01:40:07Z | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | 43 | 9| 
 | 20211225T00:56:46Z | My TryHackMe writeups and notes  | https://github.com/dnts3110/TryHackMe-Writeups | 2 | 0| 
 | 20211225T00:50:08Z | A collection of intelligence about Log4Shell and its exploitation activity.  | https://github.com/curated-intel/Log4Shell-IOCs | 136 | 29| 
-| 20211225T00:44:10Z | Null | https://github.com/dannyallover/Exploit-C | 0 | 0| 
 
 
 # backdoor on Github 推荐
