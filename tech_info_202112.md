@@ -90,7 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211225T02:36:07Z | Solutions to common exploit exercises. | https://github.com/RoundofThree/exploit-resources | 0 | 0| 
+| 20211225T02:48:59Z | Solutions to common exploit exercises. | https://github.com/RoundofThree/exploit-resources | 0 | 0| 
 | 20211225T02:32:59Z | Null | https://github.com/nismo1337/oxygen-exploit | 0 | 0| 
 | 20211225T02:31:53Z | Null | https://github.com/nismo1337/fluxus-exploit | 0 | 0| 
 | 20211225T02:20:05Z | Null | https://github.com/nismo1337/fluxus-exploit-crack | 0 | 0| 
