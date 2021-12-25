@@ -146,6 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211225T01:25:01Z | Leetcode solutions. | https://github.com/chaitanyks/fuzzy-disco | 1 | 0| 
 | 20211225T01:18:12Z | setup for fuzzing the Rust compiler | https://github.com/dwrensha/fuzz-rustc | 35 | 0| 
 | 20211225T00:29:02Z | Null | https://github.com/mallika-bit/FuzzyFriendFinder- | 0 | 0| 
 | 20211224T23:41:16Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
@@ -155,7 +156,6 @@
 | 20211224T21:33:40Z | CATS is a REST APIs fuzzer and negative testing tool for OpenAPI endpoints. CATS automatically  generates, runs and reports tests with minimum configuration and no coding effort. Tests are self-healing and does not require maintenance. | https://github.com/Endava/cats | 490 | 20| 
 | 20211224T21:03:38Z | History of symbolic execution (as well as SAT/SMT solving, fuzzing, and taint data tracking) | https://github.com/enzet/symbolic-execution | 412 | 57| 
 | 20211224T21:01:43Z | Implementation of the optimal fuzzy partition with centers placing as Voronoi diagrams. | https://github.com/Danleb/OptimalFuzzyPartition | 1 | 0| 
-| 20211224T20:52:40Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6962 | 1457| 
 
 
 
