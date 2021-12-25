@@ -90,7 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211225T01:50:41Z | Vulnerability analysis, patch management and exploitation tool forCVE-2021-44228 / CVE-2021-45046 / CVE-2021-4104 | https://github.com/TheInterception/Log4J-Simulation-Tool | 1 | 1| 
+| 20211225T01:51:38Z | Vulnerability analysis, patch management and exploitation tool forCVE-2021-44228 / CVE-2021-45046 / CVE-2021-4104 | https://github.com/TheInterception/Log4J-Simulation-Tool | 1 | 1| 
 | 20211225T01:40:07Z | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | 43 | 9| 
 | 20211225T01:03:52Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
 | 20211225T00:56:46Z | My TryHackMe writeups and notes  | https://github.com/dnts3110/TryHackMe-Writeups | 2 | 0| 
