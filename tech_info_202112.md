@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211225T01:48:40Z | Vulnerability analysis, patch management and exploitation tool forCVE-2021-44228 / CVE-2021-45046 / CVE-2021-4104 | https://github.com/TheInterception/Log4J-Simulation-Tool | 1 | 1| 
 | 20211225T01:40:07Z | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | 43 | 9| 
 | 20211225T01:03:52Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
 | 20211225T00:56:46Z | My TryHackMe writeups and notes  | https://github.com/dnts3110/TryHackMe-Writeups | 2 | 0| 
@@ -99,7 +100,6 @@
 | 20211224T23:53:25Z | This repository contains several applications, demonstrating the Meltdown bug. | https://github.com/IAIK/meltdown | 3932 | 526| 
 | 20211224T23:44:19Z | This is a repo for the coding done for CTFs / exploits. The writeups are here: https://github.com/dillonwu-97/csec_writeups | https://github.com/dillonwu-97/csec-code | 0 | 0| 
 | 20211224T22:29:03Z | Null | https://github.com/NotFoundHacker/Roblox-Exploits | 0 | 0| 
-| 20211224T22:13:40Z | Provides script to download and format public IP lists related to the Log4j exploit. Current format includes: plain list, Cisco ASA Network Group. | https://github.com/GianlucaUlivi/log4j-firewall-blacklist-builder | 1 | 0| 
 
 
 # backdoor on Github 推荐
