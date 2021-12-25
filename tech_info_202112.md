@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211225T02:11:52Z | Null | https://github.com/nismo1337/fluxus-exploit-crack | 0 | 0| 
 | 20211225T02:04:54Z | Null | https://github.com/blueIbird/exploit | 0 | 0| 
 | 20211225T02:03:07Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
 | 20211225T01:51:38Z | Vulnerability analysis, patch management and exploitation tool forCVE-2021-44228 / CVE-2021-45046 / CVE-2021-4104 | https://github.com/TheInterception/Log4J-Simulation-Tool | 1 | 1| 
@@ -99,7 +100,6 @@
 | 20211225T00:44:10Z | Null | https://github.com/dannyallover/Exploit-C | 0 | 0| 
 | 20211225T00:17:31Z | Null | https://github.com/Jongtek-23/Notes---Linux-Exploitation---Post-Exploitation | 0 | 0| 
 | 20211224T23:53:25Z | This repository contains several applications, demonstrating the Meltdown bug. | https://github.com/IAIK/meltdown | 3932 | 526| 
-| 20211224T23:44:19Z | This is a repo for the coding done for CTFs / exploits. The writeups are here: https://github.com/dillonwu-97/csec_writeups | https://github.com/dillonwu-97/csec-code | 0 | 0| 
 
 
 # backdoor on Github 推荐
