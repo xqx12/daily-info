@@ -146,7 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211226T13:27:44Z | Advent of code 2021 | https://github.com/amagdas/fuzzy-octo-robot | 0 | 0| 
+| 20211226T13:34:59Z | Advent of code 2021 | https://github.com/amagdas/fuzzy-octo-robot | 0 | 0| 
 | 20211226T13:07:46Z | Null | https://github.com/Dghpi9/Log4j2-Fuzz | 2 | 2| 
 | 20211226T12:40:17Z | Null | https://github.com/sangin-fatemeh/fuzzy-tl | 0 | 0| 
 | 20211226T12:32:00Z | Real firmware fuzz-tested with uEmu | https://github.com/MCUSec/uEmu-real_world_firmware | 4 | 3| 
