@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211226T01:42:28Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 261 | 79| 
 | 20211226T01:39:42Z | post-exploitation CLI tool to copy files from a victim computer to a operator-controlled web-server | https://github.com/BababooeyHackers/downloader | 1 | 0| 
 | 20211226T01:38:44Z | This repo contains some POC%s and exploits I have written for some targets. | https://github.com/nanabingies/Exploits | 0 | 0| 
 | 20211226T01:36:41Z | Exploits the Wii U%s bluetooth stack to gain IOSU kernel access via bluetooth | https://github.com/GaryOderNichts/bluubomb | 70 | 2| 
@@ -99,7 +100,6 @@
 | 20211226T00:37:45Z | Programs, tools, information, and exploits for TI z80 calculators. No longer supported. | https://github.com/parrotgeek1/TI-z80 | 4 | 3| 
 | 20211226T00:32:41Z | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | 2 | 0| 
 | 20211226T00:30:05Z | A Database of exploiters for a dead game with no anti cheat. | https://github.com/jnz-dev/PL-Exploiter-DB | 0 | 0| 
-| 20211226T00:11:25Z | Introductory exploit development tool for return oriented programming. | https://github.com/Green-Avocado/EasyROP | 0 | 0| 
 
 
 # backdoor on Github 推荐
