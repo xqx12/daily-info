@@ -146,6 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211226T02:22:09Z | Solutions to problems I find along my journey into competitive programming! | https://github.com/AyaSleep/fuzzy-waddle | 0 | 0| 
 | 20211225T23:54:13Z | Null | https://github.com/UnisinosContinentais/ContinentalFuzzyLibrary | 1 | 0| 
 | 20211225T23:34:35Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211225T23:21:21Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 324 | 45| 
@@ -155,7 +156,6 @@
 | 20211225T21:45:47Z | Small project of face recognition and image manipulation in Python using face_recognition and Pillow library | https://github.com/dixneuf19/fuzzy-octo-disco | 0 | 0| 
 | 20211225T21:38:18Z | Fuzzy matching for helm source. | https://github.com/jcs-elpa/helm-fuzzy | 2 | 2| 
 | 20211225T21:23:16Z | Generation of the optimal fuzzy partition with centers placing as Voronoi diagrams. | https://github.com/Danleb/OptimalFuzzyPartition | 1 | 0| 
-| 20211225T21:22:57Z | Null | https://github.com/rpatton88/fuzzy-octo-carnival | 0 | 0| 
 
 
 
