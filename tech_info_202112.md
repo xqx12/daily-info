@@ -90,13 +90,13 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211226T13:03:04Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
 | 20211226T12:40:02Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 261 | 79| 
 | 20211226T12:26:37Z | exploit tensorflow | https://github.com/j-jiseophan/etf | 0 | 0| 
 | 20211226T12:24:06Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10491 | 1805| 
 | 20211226T12:23:40Z | A collection of intelligence about Log4Shell and its exploitation activity.  | https://github.com/curated-intel/Log4Shell-IOCs | 139 | 29| 
 | 20211226T12:20:39Z | $$ BRUTE-FORCE $$ | https://github.com/Ashish-bot/Remote-Exploitation- | 0 | 0| 
 | 20211226T12:08:50Z | 针对S2-061的可视化漏洞利用工具 | https://github.com/liujieyin/S2-061-exploit | 2 | 1| 
-| 20211226T12:03:23Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
 | 20211226T12:02:05Z | rust noob tried write easy exploit code with rust lang | https://github.com/Ki11i0n4ir3/CVE-2021-21315 | 1 | 0| 
 | 20211226T11:55:12Z | Null | https://github.com/gxjit/Defender-Exploit-Guard-Config | 0 | 0| 
 | 20211226T11:46:00Z | 解决FastJson、Jackson、Log4j2、原生JNDI注入漏洞的高版本JDKBypass利用，探测本地可用反序列化gadget达到命令执行、回显命令执行、内存马注入 | https://github.com/exp1orer/JNDI-Inject-Exploit | 3 | 1| 
