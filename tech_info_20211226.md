@@ -69,7 +69,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211226T00:41:17Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1855 | 525| 
+| 20211226T12:58:42Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 23 | 13| 
+| 20211226T10:38:41Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1940 | 405| 
+| 20211226T07:17:02Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 193 | 41| 
+| 20211226T05:24:21Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1854 | 525| 
 
 
 # big4 on Github 推荐
