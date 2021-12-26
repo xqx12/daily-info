@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211226T13:11:49Z | Null | https://github.com/C00kiie/phoenix-exploit-education-writeup | 0 | 0| 
 | 20211226T13:07:50Z | Null | https://github.com/Jongtek-23/Notes---Linux-Exploitation---Lateral-Movement | 0 | 0| 
 | 20211226T13:07:36Z | Null | https://github.com/nicolagatta/Binary-Exploitation | 1 | 0| 
 | 20211226T13:07:01Z | Null | https://github.com/Jongtek-23/Notes---Linux-Exploitation---Post-Exploitation | 0 | 0| 
@@ -99,7 +100,6 @@
 | 20211226T12:24:06Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10491 | 1805| 
 | 20211226T12:23:40Z | A collection of intelligence about Log4Shell and its exploitation activity.  | https://github.com/curated-intel/Log4Shell-IOCs | 139 | 29| 
 | 20211226T12:20:39Z | $$ BRUTE-FORCE $$ | https://github.com/Ashish-bot/Remote-Exploitation- | 0 | 0| 
-| 20211226T12:08:50Z | 针对S2-061的可视化漏洞利用工具 | https://github.com/liujieyin/S2-061-exploit | 2 | 1| 
 
 
 # backdoor on Github 推荐
