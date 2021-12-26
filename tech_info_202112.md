@@ -90,6 +90,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211226T13:07:50Z | Null | https://github.com/Jongtek-23/Notes---Linux-Exploitation---Lateral-Movement | 0 | 0| 
+| 20211226T13:07:36Z | Null | https://github.com/nicolagatta/Binary-Exploitation | 1 | 0| 
+| 20211226T13:07:01Z | Null | https://github.com/Jongtek-23/Notes---Linux-Exploitation---Post-Exploitation | 0 | 0| 
 | 20211226T13:03:04Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
 | 20211226T12:40:02Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 261 | 79| 
 | 20211226T12:26:37Z | exploit tensorflow | https://github.com/j-jiseophan/etf | 0 | 0| 
@@ -97,9 +100,6 @@
 | 20211226T12:23:40Z | A collection of intelligence about Log4Shell and its exploitation activity.  | https://github.com/curated-intel/Log4Shell-IOCs | 139 | 29| 
 | 20211226T12:20:39Z | $$ BRUTE-FORCE $$ | https://github.com/Ashish-bot/Remote-Exploitation- | 0 | 0| 
 | 20211226T12:08:50Z | 针对S2-061的可视化漏洞利用工具 | https://github.com/liujieyin/S2-061-exploit | 2 | 1| 
-| 20211226T12:02:05Z | rust noob tried write easy exploit code with rust lang | https://github.com/Ki11i0n4ir3/CVE-2021-21315 | 1 | 0| 
-| 20211226T11:55:12Z | Null | https://github.com/gxjit/Defender-Exploit-Guard-Config | 0 | 0| 
-| 20211226T11:46:00Z | 解决FastJson、Jackson、Log4j2、原生JNDI注入漏洞的高版本JDKBypass利用，探测本地可用反序列化gadget达到命令执行、回显命令执行、内存马注入 | https://github.com/exp1orer/JNDI-Inject-Exploit | 3 | 1| 
 
 
 # backdoor on Github 推荐
@@ -146,8 +146,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211226T13:07:46Z | Null | https://github.com/Dghpi9/Log4j2-Fuzz | 2 | 2| 
 | 20211226T12:58:37Z | Advent of code 2021 | https://github.com/amagdas/fuzzy-octo-robot | 0 | 0| 
-| 20211226T12:48:18Z | Null | https://github.com/Dghpi9/Log4j2-Fuzz | 3 | 2| 
 | 20211226T12:40:17Z | Null | https://github.com/sangin-fatemeh/fuzzy-tl | 0 | 0| 
 | 20211226T12:32:00Z | Real firmware fuzz-tested with uEmu | https://github.com/MCUSec/uEmu-real_world_firmware | 4 | 3| 
 | 20211226T12:31:07Z | Leetcode solutions. | https://github.com/chaitanyks/fuzzy-disco | 1 | 0| 
