@@ -90,13 +90,13 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211226T01:03:39Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
 | 20211226T00:55:17Z | post-exploitation CLI tool to copy files from a victim computer to a operator-controlled web-server | https://github.com/BababooeyHackers/downloader | 0 | 0| 
 | 20211226T00:54:46Z | A collection of intelligence about Log4Shell and its exploitation activity.  | https://github.com/curated-intel/Log4Shell-IOCs | 137 | 29| 
 | 20211226T00:37:45Z | Programs, tools, information, and exploits for TI z80 calculators. No longer supported. | https://github.com/parrotgeek1/TI-z80 | 4 | 3| 
 | 20211226T00:32:41Z | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | 2 | 0| 
 | 20211226T00:30:05Z | A Database of exploiters for a dead game with no anti cheat. | https://github.com/jnz-dev/PL-Exploiter-DB | 0 | 0| 
 | 20211226T00:11:25Z | Introductory exploit development tool for return oriented programming. | https://github.com/Green-Avocado/EasyROP | 0 | 0| 
-| 20211226T00:04:01Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
 | 20211226T00:00:09Z | Tool for searching Exploits from Exploit Databases, etc. | https://github.com/vulsio/go-exploitdb | 142 | 37| 
 | 20211225T23:40:08Z | Null | https://github.com/Jongtek-23/Notes---Linux-Exploitation---Post-Exploitation | 0 | 0| 
 | 20211225T23:34:45Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10488 | 1805| 
