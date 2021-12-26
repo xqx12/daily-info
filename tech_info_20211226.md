@@ -45,6 +45,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211226T13:39:44Z | https://exploit-poc.com | https://github.com/hktalent/exploit-poc | 2 | 1| 
 | 20211226T13:32:33Z | vsFTPd 2.3.4 Backdoor Exploit CVE-2011-2523 | https://github.com/whoamins/vsFTPd-2.3.4-exploit | 1 | 0| 
 | 20211226T13:11:49Z | Null | https://github.com/C00kiie/phoenix-exploit-education-writeup | 0 | 0| 
 | 20211226T13:07:50Z | Null | https://github.com/Jongtek-23/Notes---Linux-Exploitation---Lateral-Movement | 0 | 0| 
@@ -53,8 +54,7 @@
 | 20211226T13:03:04Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
 | 20211226T12:40:02Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 261 | 79| 
 | 20211226T12:26:37Z | exploit tensorflow | https://github.com/j-jiseophan/etf | 0 | 0| 
-| 20211226T12:24:06Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10491 | 1805| 
-| 20211226T12:23:40Z | A collection of intelligence about Log4Shell and its exploitation activity.  | https://github.com/curated-intel/Log4Shell-IOCs | 139 | 29| 
+| 20211226T12:24:06Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10491 | 1806| 
 
 
 # backdoor on Github 推荐
