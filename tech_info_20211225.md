@@ -17,7 +17,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211225T23:52:11Z | CVE-2021-30860 | Collection of materials relating to FORCEDENTRY, will eventually delete this repo and migrate the materials to my main exploit repo once finished | https://github.com/jeffssh/CVE-2021-30860 | | 
 | 20211225T22:23:43Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
 | 20211225T21:29:32Z | CVE-2020-14871 | This is a basic ROP based exploit for CVE 2020-14871. CVE 2020-14871 is a vulnerability in Sun Solaris systems libpam library, and exploitable over ssh | https://github.com/robidev/CVE-2020-14871-Exploit | | 
 | 20211225T19:29:12Z | cve-2021-44228 | Ansible detector scanner playbook to verify target Linux hosts using the official Red Hat Log4j detector script RHSB-2021-009 Remote Code Execution - log4j (CVE-2021-44228) | https://github.com/lucab85/log4j-cve-2021-44228 | | 
