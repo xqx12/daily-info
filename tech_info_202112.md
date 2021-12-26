@@ -146,6 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211226T13:48:19Z | Easy-to-use web fuzzer, written in Go. | https://github.com/duxv/brutal | 2 | 0| 
 | 20211226T13:34:59Z | Advent of code 2021 | https://github.com/amagdas/fuzzy-octo-robot | 0 | 0| 
 | 20211226T13:07:46Z | Null | https://github.com/Dghpi9/Log4j2-Fuzz | 2 | 2| 
 | 20211226T12:40:17Z | Null | https://github.com/sangin-fatemeh/fuzzy-tl | 0 | 0| 
@@ -155,7 +156,6 @@
 | 20211226T11:39:16Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20211226T11:24:52Z | Small project of face recognition and image manipulation in Python using face_recognition and Pillow library | https://github.com/dixneuf19/fuzzy-octo-disco | 0 | 0| 
 | 20211226T11:20:56Z | FuzzedDataProvider for C# | https://github.com/DmitryJustDmitry/FuzzedDataProviderCS | 0 | 0| 
-| 20211226T11:05:57Z | A coverage-guided fuzzing framework for TiDB. | https://github.com/s3nt3/sqlvine | 0 | 0| 
 
 
 
