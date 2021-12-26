@@ -90,6 +90,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211226T01:36:41Z | Exploits the Wii U%s bluetooth stack to gain IOSU kernel access via bluetooth | https://github.com/GaryOderNichts/bluubomb | 70 | 2| 
+| 20211226T01:36:22Z | This repo contains some POC%s and exploits I have written for some targets. | https://github.com/nanabingies/Exploits | 0 | 0| 
 | 20211226T01:19:00Z | A peer 2 peer approach to increase price stability and to reduce price manipulation by exploiting non-fundamentals-based volatility | https://github.com/distributed-ledger-technology/vofarm-deno-part | 0 | 3| 
 | 20211226T01:09:04Z | post-exploitation CLI tool to copy files from a victim computer to a operator-controlled web-server | https://github.com/BababooeyHackers/downloader | 0 | 0| 
 | 20211226T01:03:39Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
@@ -98,8 +100,6 @@
 | 20211226T00:32:41Z | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | 2 | 0| 
 | 20211226T00:30:05Z | A Database of exploiters for a dead game with no anti cheat. | https://github.com/jnz-dev/PL-Exploiter-DB | 0 | 0| 
 | 20211226T00:11:25Z | Introductory exploit development tool for return oriented programming. | https://github.com/Green-Avocado/EasyROP | 0 | 0| 
-| 20211226T00:00:09Z | Tool for searching Exploits from Exploit Databases, etc. | https://github.com/vulsio/go-exploitdb | 142 | 37| 
-| 20211225T23:40:08Z | Null | https://github.com/Jongtek-23/Notes---Linux-Exploitation---Post-Exploitation | 0 | 0| 
 
 
 # backdoor on Github 推荐
