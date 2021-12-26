@@ -62,7 +62,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20211226T13:28:27Z | Null | https://github.com/KleePaimon/KleePaimon.github.io | 0 | 0| 
-| 20211226T12:10:41Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 3264 | 102| 
+| 20211226T12:10:41Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 3264 | 103| 
 | 20211226T05:24:21Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1854 | 525| 
 | 20211225T04:01:06Z | A rough transliteration of ls and grep from Toybox into Rust (with experimental KLEE symbolic verification setup) | https://github.com/inthewaves/toybox-rs-port | 0 | 0| 
 | 20211223T16:33:56Z | modern regular expression syntax everywhere with a painless upgrade path | https://github.com/SonOfLilit/kleenexp | 32 | 4| 
