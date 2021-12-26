@@ -90,7 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211226T02:07:15Z | HXPCTF Trusty User Diary exploit & writeup | https://github.com/lntrx/hxp_trusty_user_diary | 0 | 0| 
+| 20211226T02:09:26Z | HXPCTF Trusty User Diary exploit & writeup | https://github.com/lntrx/hxp_trusty_user_diary | 0 | 0| 
 | 20211226T02:03:30Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
 | 20211226T01:51:01Z | post-exploitation CLI tool to copy files from a victim computer to a operator-controlled web-server | https://github.com/BababooeyHackers/Downloader | 1 | 0| 
 | 20211226T01:42:28Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 261 | 79| 
