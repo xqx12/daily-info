@@ -90,6 +90,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211226T13:59:16Z | Python3 exploits for HEVD (HackSys Extreme Vulnerable Driver) | https://github.com/TakahiroHaruyama/py3_hevd_exploits | 0 | 0| 
+| 20211226T13:59:07Z | 9.00 exploit for ps4 | https://github.com/massakre88/ps4exploit.github.io | 0 | 0| 
 | 20211226T13:56:01Z | A peer 2 peer approach to increase price stability and to reduce price manipulation by exploiting non-fundamentals-based volatility | https://github.com/distributed-ledger-technology/vofarm-deno-part | 0 | 3| 
 | 20211226T13:53:51Z | 9.00 exploit for ps4 | https://github.com/massakre88/ps4exploit | 0 | 0| 
 | 20211226T13:50:12Z | Null | https://github.com/nicolagatta/Binary-Exploitation | 1 | 0| 
@@ -98,8 +100,6 @@
 | 20211226T13:11:49Z | Null | https://github.com/C00kiie/phoenix-exploit-education-writeup | 0 | 0| 
 | 20211226T13:07:50Z | Null | https://github.com/Jongtek-23/Notes---Linux-Exploitation---Lateral-Movement | 0 | 0| 
 | 20211226T13:07:01Z | Null | https://github.com/Jongtek-23/Notes---Linux-Exploitation---Post-Exploitation | 0 | 0| 
-| 20211226T13:03:04Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
-| 20211226T12:40:02Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 261 | 79| 
 
 
 # backdoor on Github 推荐
