@@ -45,6 +45,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211226T13:32:33Z | vsFTPd 2.3.4 Backdoor Exploit CVE-2011-2523 | https://github.com/whoamins/vsFTPd-2.3.4-exploit | 1 | 0| 
 | 20211226T13:11:49Z | Null | https://github.com/C00kiie/phoenix-exploit-education-writeup | 0 | 0| 
 | 20211226T13:07:50Z | Null | https://github.com/Jongtek-23/Notes---Linux-Exploitation---Lateral-Movement | 0 | 0| 
 | 20211226T13:07:36Z | Null | https://github.com/nicolagatta/Binary-Exploitation | 1 | 0| 
@@ -54,12 +55,12 @@
 | 20211226T12:26:37Z | exploit tensorflow | https://github.com/j-jiseophan/etf | 0 | 0| 
 | 20211226T12:24:06Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10491 | 1805| 
 | 20211226T12:23:40Z | A collection of intelligence about Log4Shell and its exploitation activity.  | https://github.com/curated-intel/Log4Shell-IOCs | 139 | 29| 
-| 20211226T12:20:39Z | $$ BRUTE-FORCE $$ | https://github.com/Ashish-bot/Remote-Exploitation- | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211226T13:32:33Z | vsFTPd 2.3.4 Backdoor Exploit CVE-2011-2523 | https://github.com/whoamins/vsFTPd-2.3.4-exploit | 1 | 0| 
 | 20211226T12:58:16Z | Null | https://github.com/Ramirez1001/backdoor | 0 | 0| 
 | 20211226T05:42:20Z | Allowing server admins to backdoor their own server! | https://github.com/CloudOn9/DiscordBackdoorBot | 1 | 0| 
 | 20211226T04:01:54Z | Database of backdoor passwords used by Malware, uncovered by the Malvuln project. | https://github.com/malvuln/viruscreds | 9 | 2| 
