@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211226T02:17:52Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211226T02:01:06Z | cve-2021-44228 | Ansible detector scanner playbook to verify target Linux hosts using the official Red Hat Log4j detector script RHSB-2021-009 Remote Code Execution - log4j (CVE-2021-44228) | https://github.com/lucab85/log4j-cve-2021-44228 | | 
 | 20211226T01:28:04Z | CVE-2021-30860 | Collection of materials relating to FORCEDENTRY, will eventually delete this repo and migrate the materials to my main exploit repo once finished | https://github.com/jeffssh/CVE-2021-30860 | | 
 | 20211226T01:20:26Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
@@ -55,13 +56,12 @@
 | 20211224T22:09:51Z | CVE-2021-44228 | demo project to highlight how to execute the log4j (CVE-2021-44228) vulnerability | https://github.com/kossatzd/log4j-CVE-2021-44228-test | | 
 | 20211224T15:04:05Z | CVE-2021-44228 | Null | https://github.com/VerveIndustrialProtection/CVE-2021-44228-Log4j | | 
 | 20211224T13:36:23Z | cve-2021-44228 | Null | https://github.com/aws-samples/kubernetes-log4j-cve-2021-44228-node-agent | | 
-| 20211224T13:35:26Z | CVE-2021-44228 | general purpose workaround for the log4j CVE-2021-44228 vulnerability | https://github.com/grimch/log4j-CVE-2021-44228-workaround | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211226T01:14:06Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 3248 | 100| 
+| 20211226T02:19:08Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 3249 | 100| 
 | 20211226T00:41:17Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1855 | 525| 
 | 20211225T04:01:06Z | A rough transliteration of ls and grep from Toybox into Rust (with experimental KLEE symbolic verification setup) | https://github.com/inthewaves/toybox-rs-port | 0 | 0| 
 | 20211223T16:33:56Z | modern regular expression syntax everywhere with a painless upgrade path | https://github.com/SonOfLilit/kleenexp | 32 | 4| 
@@ -90,7 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211226T02:09:26Z | HXPCTF Trusty User Diary exploit & writeup | https://github.com/lntrx/hxp_trusty_user_diary | 0 | 0| 
+| 20211226T02:17:23Z | HXPCTF Trusty User Diary exploit & writeup | https://github.com/lntrx/hxp_trusty_user_diary | 0 | 0| 
 | 20211226T02:03:30Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
 | 20211226T01:51:01Z | post-exploitation CLI tool to copy files from a victim computer to a operator-controlled web-server | https://github.com/BababooeyHackers/Downloader | 1 | 0| 
 | 20211226T01:42:28Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 261 | 79| 
