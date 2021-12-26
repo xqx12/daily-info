@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211226T01:19:00Z | A peer 2 peer approach to increase price stability and to reduce price manipulation by exploiting non-fundamentals-based volatility | https://github.com/distributed-ledger-technology/vofarm-deno-part | 0 | 3| 
 | 20211226T01:09:04Z | post-exploitation CLI tool to copy files from a victim computer to a operator-controlled web-server | https://github.com/BababooeyHackers/downloader | 0 | 0| 
 | 20211226T01:03:39Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
 | 20211226T00:54:46Z | A collection of intelligence about Log4Shell and its exploitation activity.  | https://github.com/curated-intel/Log4Shell-IOCs | 137 | 29| 
@@ -99,7 +100,6 @@
 | 20211226T00:11:25Z | Introductory exploit development tool for return oriented programming. | https://github.com/Green-Avocado/EasyROP | 0 | 0| 
 | 20211226T00:00:09Z | Tool for searching Exploits from Exploit Databases, etc. | https://github.com/vulsio/go-exploitdb | 142 | 37| 
 | 20211225T23:40:08Z | Null | https://github.com/Jongtek-23/Notes---Linux-Exploitation---Post-Exploitation | 0 | 0| 
-| 20211225T23:34:45Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10488 | 1805| 
 
 
 # backdoor on Github 推荐

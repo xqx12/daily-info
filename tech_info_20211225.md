@@ -39,13 +39,13 @@
 | 20211225T23:40:08Z | Null | https://github.com/Jongtek-23/Notes---Linux-Exploitation---Post-Exploitation | 0 | 0| 
 | 20211225T23:34:45Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10488 | 1805| 
 | 20211225T23:26:21Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 4203 | 571| 
-| 20211225T23:21:12Z | A peer 2 peer approach to increase price stability and to reduce price manipulation by exploiting non-fundamentals-based volatility | https://github.com/distributed-ledger-technology/vofarm-deno-part | 0 | 3| 
 | 20211225T23:13:51Z | Null | https://github.com/APresellingservices/hervus-exploit | 0 | 0| 
 | 20211225T22:30:23Z | Codes from Hacking: The Art of Exploitation book. By Jon Erickson. | https://github.com/edupazzz/Hacking-The-Art-of-Exploitation-Book | 0 | 0| 
 | 20211225T21:44:10Z | My proof-of-concept exploits for the Linux kernel | https://github.com/xairy/kernel-exploits | 1240 | 375| 
 | 20211225T21:40:52Z | Car Rental System 1.0 suffers from SQL Injection on administrator login page and unsecure upload mechanism allowing to upload malicious files. This allows unauthenticated user to obtain reverse shell to server. | https://github.com/LongWayHomie/CRS-RCE-Exploit | 0 | 0| 
 | 20211225T21:40:05Z | Disabling kernel lockdown on Ubuntu without physical access | https://github.com/xairy/unlockdown | 70 | 5| 
 | 20211225T21:29:32Z | This is a basic ROP based exploit for CVE 2020-14871. CVE 2020-14871 is a vulnerability in Sun Solaris systems libpam library, and exploitable over ssh | https://github.com/robidev/CVE-2020-14871-Exploit | 0 | 0| 
+| 20211225T21:27:10Z | Null | https://github.com/KFKFSAD/Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
