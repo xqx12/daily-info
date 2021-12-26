@@ -64,7 +64,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211225T08:36:18Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1854 | 525| 
+| 20211225T21:34:30Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2602 | 383| 
+| 20211225T20:26:06Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 11 | 6| 
+| 20211225T14:03:26Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 346 | 28| 
 
 
 # big4 on Github 推荐
