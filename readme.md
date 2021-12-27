@@ -95,6 +95,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211227T13:52:30Z | A differential fuzzer for x86 decoders | https://github.com/trailofbits/mishegos | 161 | 24| 
 | 20211227T13:42:06Z | Leetcode solutions. | https://github.com/chaitanyks/fuzzy-disco | 1 | 0| 
 | 20211227T13:20:23Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 1134 | 203| 
 | 20211227T13:20:12Z | OSS-Sydr-Fuzz - OSS-Fuzz fork for hybrid fuzzing (fuzzer+DSE) open source software. | https://github.com/ispras/oss-sydr-fuzz | 11 | 3| 
@@ -104,7 +105,6 @@
 | 20211227T12:30:44Z | Null | https://github.com/mariasundaka/fuzzy-barnacle | 0 | 0| 
 | 20211227T12:25:05Z | Null | https://github.com/asigafnatahan/fuzzy-computing-machine | 0 | 0| 
 | 20211227T12:14:32Z | Easy-to-use web fuzzer, written in Go. | https://github.com/duxv/brutal | 5 | 0| 
-| 20211227T12:07:22Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 
 
 
