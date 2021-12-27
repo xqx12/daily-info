@@ -41,7 +41,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211227T13:55:10Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 3289 | 103| 
+| 20211227T13:56:16Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 3290 | 103| 
 | 20211227T12:12:56Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1855 | 525| 
 | 20211227T11:49:47Z | Null | https://github.com/KleePaimon/KleePaimon.github.io | 0 | 0| 
 | 20211227T08:47:39Z | modern regular expression syntax everywhere with a painless upgrade path | https://github.com/SonOfLilit/kleenexp | 33 | 4| 
@@ -55,6 +55,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211227T13:55:26Z | Various exploits | https://github.com/pjlantz/exploits | 0 | 0| 
 | 20211227T13:43:59Z | Old and new CTFs about Linux kernel exploitation. | https://github.com/MaherAzzouzi/LinuxKernelExploitation | 15 | 3| 
 | 20211227T13:27:50Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 263 | 79| 
 | 20211227T13:22:45Z | Null | https://github.com/IxZZZ/Lab_SecureCoding_ExploitSystem | 0 | 0| 
@@ -64,7 +65,6 @@
 | 20211227T12:26:36Z | A collection of intelligence about Log4Shell and its exploitation activity.  | https://github.com/curated-intel/Log4Shell-IOCs | 139 | 30| 
 | 20211227T12:23:35Z | 解决FastJson、Jackson、Log4j2、原生JNDI注入漏洞的高版本JDKBypass利用，探测本地可用反序列化gadget达到命令执行、回显命令执行、内存马注入 | https://github.com/exp1orer/JNDI-Inject-Exploit | 89 | 40| 
 | 20211227T12:13:21Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10495 | 1806| 
-| 20211227T11:23:56Z | This website exploits a broken access control vulnerability in genexis platinum 4410 router to do a csrf attack | https://github.com/Xhackers7/genexis-platinum-csrf | 0 | 0| 
 
 
 # backdoor on Github 推荐
