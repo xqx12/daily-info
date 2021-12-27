@@ -146,7 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211227T13:38:01Z | Leetcode solutions. | https://github.com/chaitanyks/fuzzy-disco | 1 | 0| 
+| 20211227T13:42:06Z | Leetcode solutions. | https://github.com/chaitanyks/fuzzy-disco | 1 | 0| 
 | 20211227T13:20:23Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 1134 | 203| 
 | 20211227T13:20:12Z | OSS-Sydr-Fuzz - OSS-Fuzz fork for hybrid fuzzing (fuzzer+DSE) open source software. | https://github.com/ispras/oss-sydr-fuzz | 11 | 3| 
 | 20211227T13:15:11Z | Null | https://github.com/yuki-yano/fuzzy-motion.vim | 5 | 0| 
