@@ -105,25 +105,25 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211227T02:23:57Z | Null | https://github.com/Ramirez1001/backdoor | 0 | 0| 
+| 20211227T12:38:04Z | En este repositorio haré una breve explicación de como montar un entorno de trabajo con Kali y Metasploiable2 , en dos máquinas virtualizadas mediante VirtualBox. También explico a modo de practica como realizar un ataque DDoS y como introducir un backdoor en el servicio sftp, por el puerto 21.  | https://github.com/z0s3r77/Metasplotable_2 | 1 | 0| 
+| 20211227T11:37:52Z | Tool to backdoor binaries compiled by gcc/g++ by hijacking their temporary files | https://github.com/hstocks/gcchijack | 1 | 0| 
+| 20211227T09:54:33Z | Website Shell BackDoors | https://github.com/7r0j4ncodeing/Web-Shells | 23 | 7| 
+| 20211227T07:08:38Z | Statically-linked ssh server with reverse shell functionality for CTFs and such | https://github.com/Fahrj/reverse-ssh | 479 | 57| 
+| 20211227T06:42:00Z | Null | https://github.com/THUYimingLi/BackdoorBox | 7 | 1| 
+| 20211227T05:48:53Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 400 | 70| 
+| 20211227T03:56:22Z | Null | https://github.com/Ramirez1001/backdoor | 0 | 0| 
 | 20211226T23:56:01Z | Null | https://github.com/svpirate503/backdoor | 0 | 0| 
 | 20211226T15:25:47Z | Backdoor for window10 | https://github.com/Ramish222-d/Virat | 0 | 0| 
-| 20211226T15:23:17Z | Null | https://github.com/THUYimingLi/BackdoorBox | 6 | 1| 
 | 20211226T13:32:33Z | vsFTPd 2.3.4 Backdoor Exploit CVE-2011-2523 | https://github.com/whoamins/vsFTPd-2.3.4-exploit | 1 | 0| 
-| 20211226T05:42:20Z | Allowing server admins to backdoor their own server! | https://github.com/CloudOn9/DiscordBackdoorBot | 1 | 0| 
-| 20211226T04:01:54Z | Database of backdoor passwords used by Malware, uncovered by the Malvuln project. | https://github.com/malvuln/viruscreds | 9 | 2| 
-| 20211226T02:43:39Z | Hide your payload into .jpg file | https://github.com/Tsuyoken/ImgBackdoor | 122 | 40| 
-| 20211225T18:03:06Z | Poweshell backdoor metasploit  | https://github.com/crypt0n-root/powershell-backdoor | 0 | 0| 
-| 20211225T17:28:32Z | En este repositorio haré una breve explicación de como montar un entorno de trabajo con Kali y Metasploiable2 , en dos máquinas virtualizadas mediante VirtualBox. También explico a modo de practica como realizar un ataque DDoS y como introducir un backdoor en el servicio sftp, por el puerto 21.  | https://github.com/z0s3r77/Metasplotable_2 | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211226T21:51:32Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1944 | 405| 
+| 20211227T12:12:56Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1855 | 525| 
+| 20211227T11:59:25Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1948 | 405| 
 | 20211226T12:58:42Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 23 | 13| 
 | 20211226T07:17:02Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 193 | 41| 
-| 20211226T05:24:21Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1854 | 525| 
 | 20211225T21:34:30Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2602 | 385| 
 | 20211225T20:26:06Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 11 | 5| 
 | 20211225T14:03:26Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 346 | 28| 

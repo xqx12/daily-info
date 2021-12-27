@@ -70,12 +70,20 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211227T02:23:57Z | Null | https://github.com/Ramirez1001/backdoor | 0 | 0| 
+| 20211227T12:38:04Z | En este repositorio haré una breve explicación de como montar un entorno de trabajo con Kali y Metasploiable2 , en dos máquinas virtualizadas mediante VirtualBox. También explico a modo de practica como realizar un ataque DDoS y como introducir un backdoor en el servicio sftp, por el puerto 21.  | https://github.com/z0s3r77/Metasplotable_2 | 1 | 0| 
+| 20211227T11:37:52Z | Tool to backdoor binaries compiled by gcc/g++ by hijacking their temporary files | https://github.com/hstocks/gcchijack | 1 | 0| 
+| 20211227T09:54:33Z | Website Shell BackDoors | https://github.com/7r0j4ncodeing/Web-Shells | 23 | 7| 
+| 20211227T07:08:38Z | Statically-linked ssh server with reverse shell functionality for CTFs and such | https://github.com/Fahrj/reverse-ssh | 479 | 57| 
+| 20211227T06:42:00Z | Null | https://github.com/THUYimingLi/BackdoorBox | 7 | 1| 
+| 20211227T05:48:53Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 400 | 70| 
+| 20211227T03:56:22Z | Null | https://github.com/Ramirez1001/backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211227T12:12:56Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1855 | 525| 
+| 20211227T11:59:25Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1948 | 405| 
 
 
 # big4 on Github 推荐
