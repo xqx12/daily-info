@@ -95,8 +95,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211227T13:10:10Z | Null | https://github.com/yuki-yano/fuzzy-motion.vim | 5 | 0| 
 | 20211227T12:59:54Z | The program was created to carry out the forecasting process by combining 2 methods, namely the weighted fuzzy time series method with the determination of the interval based on the average | https://github.com/fakhrimn25/Weighted-Fuzzy-Time-Series-Kurs-Rupiah-Terhadap-Dollars | 2 | 0| 
-| 20211227T12:57:55Z | Null | https://github.com/yuki-yano/fuzzy-motion.vim | 5 | 0| 
 | 20211227T12:34:18Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3850 | 906| 
 | 20211227T12:30:44Z | Null | https://github.com/mariasundaka/fuzzy-barnacle | 0 | 0| 
 | 20211227T12:25:05Z | Null | https://github.com/asigafnatahan/fuzzy-computing-machine | 0 | 0| 
