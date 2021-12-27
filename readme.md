@@ -55,6 +55,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211227T13:43:59Z | Old and new CTFs about Linux kernel exploitation. | https://github.com/MaherAzzouzi/LinuxKernelExploitation | 15 | 3| 
 | 20211227T13:27:50Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 263 | 79| 
 | 20211227T13:22:45Z | Null | https://github.com/IxZZZ/Lab_SecureCoding_ExploitSystem | 0 | 0| 
 | 20211227T13:03:42Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
@@ -64,7 +65,6 @@
 | 20211227T12:23:35Z | 解决FastJson、Jackson、Log4j2、原生JNDI注入漏洞的高版本JDKBypass利用，探测本地可用反序列化gadget达到命令执行、回显命令执行、内存马注入 | https://github.com/exp1orer/JNDI-Inject-Exploit | 89 | 40| 
 | 20211227T12:13:21Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10495 | 1806| 
 | 20211227T11:23:56Z | This website exploits a broken access control vulnerability in genexis platinum 4410 router to do a csrf attack | https://github.com/Xhackers7/genexis-platinum-csrf | 0 | 0| 
-| 20211227T10:47:55Z | A peer 2 peer approach to increase price stability and to reduce price manipulation by exploiting non-fundamentals-based volatility | https://github.com/distributed-ledger-technology/vofarm-deno-part | 0 | 3| 
 
 
 # backdoor on Github 推荐
