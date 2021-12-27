@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211227T02:30:49Z | Null | https://github.com/jiwookhong/log4j_exploit | 0 | 0| 
 | 20211227T02:06:56Z | PS4 9.00 Firmware Exploit Host | https://github.com/KameleonReloaded/900V4B | 7 | 8| 
 | 20211227T02:06:05Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
 | 20211227T01:30:24Z | rust noob tried write easy exploit code with rust lang | https://github.com/Ki11i0n4ir3/CVE-2021-21315 | 1 | 0| 
@@ -99,7 +100,6 @@
 | 20211227T00:18:55Z | Config files for my GitHub profile. | https://github.com/PubExploit/PubExploit | 0 | 0| 
 | 20211227T00:11:04Z | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | 2 | 0| 
 | 20211226T23:56:00Z | A set of Linux binary exploitation tasks for beginners on various architectures | https://github.com/xairy/easy-linux-pwn | 396 | 77| 
-| 20211226T23:35:48Z | A peer 2 peer approach to increase price stability and to reduce price manipulation by exploiting non-fundamentals-based volatility | https://github.com/distributed-ledger-technology/vofarm-deno-part | 0 | 3| 
 
 
 # backdoor on Github 推荐
