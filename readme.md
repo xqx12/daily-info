@@ -95,16 +95,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211227T13:20:23Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 1134 | 203| 
+| 20211227T13:20:12Z | OSS-Sydr-Fuzz - OSS-Fuzz fork for hybrid fuzzing (fuzzer+DSE) open source software. | https://github.com/ispras/oss-sydr-fuzz | 11 | 3| 
 | 20211227T13:15:11Z | Null | https://github.com/yuki-yano/fuzzy-motion.vim | 5 | 0| 
 | 20211227T13:14:22Z | The program was created to carry out the forecasting process by combining 2 methods, namely the weighted fuzzy time series method with the determination of the interval based on the average | https://github.com/fakhrimn25/Weighted-Fuzzy-Time-Series-Kurs-Rupiah-Terhadap-Dollars | 2 | 0| 
 | 20211227T12:34:18Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3850 | 906| 
 | 20211227T12:30:44Z | Null | https://github.com/mariasundaka/fuzzy-barnacle | 0 | 0| 
 | 20211227T12:25:05Z | Null | https://github.com/asigafnatahan/fuzzy-computing-machine | 0 | 0| 
 | 20211227T12:14:32Z | Easy-to-use web fuzzer, written in Go. | https://github.com/duxv/brutal | 5 | 0| 
-| 20211227T12:09:13Z | OSS-Sydr-Fuzz - OSS-Fuzz fork for hybrid fuzzing (fuzzer+DSE) open source software. | https://github.com/ispras/oss-sydr-fuzz | 11 | 3| 
 | 20211227T12:07:22Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211227T11:56:29Z | My fuzz dict | https://github.com/yyhuni/MyFuzzAll | 0 | 0| 
-| 20211227T11:39:37Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 
 
 
