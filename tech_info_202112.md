@@ -146,6 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211227T02:12:31Z | fzf-like fuzzy-finder as a Go library | https://github.com/ktr0731/go-fuzzyfinder | 257 | 25| 
 | 20211227T01:48:41Z | Null | https://github.com/yuki-yano/fuzzy-motion.vim | 2 | 0| 
 | 20211227T01:37:49Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211227T01:35:30Z |    USBFuzz: A Framework for Fuzzing USB Drivers by Device Emulation Authors:  Hui Peng, Purdue University; Mathias Payer, EPFL  Abstract:  The Universal Serial Bus (USB) connects external devices to a host. This interface exposes the OS kernels and device drivers to attacks by malicious devices. Unfortunately, kernels and drivers were developed under a security model that implicitly trusts connected devices. Drivers expect faulty hardware but not malicious attacks. Similarly, security testing drivers is challenging as input must cross the hardware/software barrier. Fuzzing, the most widely used bug finding technique, relies on providing random data to programs. However, fuzzing device drivers is challenging due to the difficulty in crossing the hardware/software barrier and providing random device data to the driver under test.  We present USBFuzz, a portable, flexible, and modular framework for fuzz testing USB drivers. At its core, USBFuzz uses a software-emulated USB device to provide random device data to drivers (when they perform IO operations). As the emulated USB device works at the device level, porting it to other platforms is straight-forward. Using the USBFuzz framework, we apply (i) coverage-guided fuzzing to a broad range of USB drivers in the Linux kernel; (ii) dumb fuzzing in FreeBSD, MacOS, and Windows through cross pollination seeded by the Linux inputs; and (iii) focused fuzzing of a USB webcam driver. USBFuzz discovered a total of 26 new bugs, including 16 memory bugs of high security impact in various Linux subsystems (USB core, USB sound, and network), one bug in FreeBSD, three in MacOS (two resulting in an unplanned reboot and one freezing the system), and four in Windows 8 and Windows 10 (resulting in Blue Screens of Death), and one bug in the Linux USB host controller driver and another one in a USB camera driver. From the Linux bugs, we have fixed and upstreamed 11 bugs and received 10 CVEs. | https://github.com/Mario-Kart-Felix/driver-for-fuzzer | 0 | 0| 
@@ -155,7 +156,6 @@
 | 20211226T23:50:33Z | Solutions to problems I find along my journey into competitive programming! | https://github.com/AyaSleep/fuzzy-waddle | 0 | 0| 
 | 20211226T23:31:19Z | bash script to run from installation media to setup gentoo automagically | https://github.com/fjp321/fuzzy-goggles | 0 | 0| 
 | 20211226T23:25:30Z | Null | https://github.com/ismetcsahin/Fuzzy-String-Matching | 0 | 0| 
-| 20211226T22:32:07Z | Auto-gen fuzzing wrappers from normal code. Finds buggy call sequences, including data races & deadlocks. Supports rich signature types. | https://github.com/thepudds/fzgen | 4 | 0| 
 
 
 
