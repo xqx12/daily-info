@@ -19,7 +19,6 @@
 | --- | --- | --- | --- | ---| 
 | 20211226T23:30:55Z | CVE-2020-14871 | This is a basic ROP based exploit for CVE 2020-14871. CVE 2020-14871 is a vulnerability in Sun Solaris systems libpam library, and exploitable over ssh | https://github.com/robidev/CVE-2020-14871-Exploit | | 
 | 20211226T16:59:10Z | CVE-2021-41773 | Null | https://github.com/Ming119/CVE-2021-41773_Exploit | | 
-| 20211226T16:18:42Z | CVE-2021-30860 | Collection of materials relating to FORCEDENTRY, will eventually delete this repo and migrate the materials to my main exploit repo once finished | https://github.com/jeffssh/CVE-2021-30860 | | 
 | 20211226T15:16:59Z | CVE-2021-43821 | opencast cve-2021-43821敏感信息泄露漏洞环境 | https://github.com/Jackey0/opencast-CVE-2021-43821-env | | 
 | 20211226T14:35:40Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211226T14:09:58Z | CVE-2021-44228 | Null | https://github.com/rwincey/CVE-2021-44228-Log4j-Payloads | | 
@@ -55,7 +54,7 @@
 | 20211226T21:37:13Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 261 | 79| 
 | 20211226T21:09:48Z | Some examples of binary exploitation tecniques tracking my studies for ECPPTv2 and OSCP on INE, TryHackMe and HackTheBox platforms | https://github.com/nicolagatta/Binary-Exploitation | 1 | 0| 
 | 20211226T20:59:31Z | PS4 9.00FW Exploit Host By Leeful | https://github.com/KameleonReloaded/leeful900 | 7 | 4| 
-| 20211226T20:58:18Z | PS4 9.00 Firmware Exploit Host | https://github.com/KameleonReloaded/900V4B | 7 | 8| 
+| 20211226T20:22:06Z | Null | https://github.com/vsegdacocacola/Log4jExploitPayloadExtractor | 0 | 0| 
 
 
 # backdoor on Github 推荐

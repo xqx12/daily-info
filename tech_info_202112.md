@@ -46,13 +46,13 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211227T02:05:50Z | CVE-2021-30860 | Collection of materials relating to FORCEDENTRY, will eventually delete this repo and migrate the materials to my main exploit repo once finished | https://github.com/jeffssh/CVE-2021-30860 | | 
 | 20211227T01:54:04Z | cve-2021-44228 | Null | https://github.com/aws-samples/kubernetes-log4j-cve-2021-44228-node-agent | | 
 | 20211227T01:30:24Z | CVE-2021-21315 | rust noob tried write easy exploit code with rust lang | https://github.com/Ki11i0n4ir3/CVE-2021-21315 | | 
 | 20211227T00:58:24Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
 | 20211227T00:11:04Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
 | 20211226T23:30:55Z | CVE-2020-14871 | This is a basic ROP based exploit for CVE 2020-14871. CVE 2020-14871 is a vulnerability in Sun Solaris systems libpam library, and exploitable over ssh | https://github.com/robidev/CVE-2020-14871-Exploit | | 
 | 20211226T16:59:10Z | CVE-2021-41773 | Null | https://github.com/Ming119/CVE-2021-41773_Exploit | | 
-| 20211226T16:18:42Z | CVE-2021-30860 | Collection of materials relating to FORCEDENTRY, will eventually delete this repo and migrate the materials to my main exploit repo once finished | https://github.com/jeffssh/CVE-2021-30860 | | 
 | 20211226T15:16:59Z | CVE-2021-43821 | opencast cve-2021-43821敏感信息泄露漏洞环境 | https://github.com/Jackey0/opencast-CVE-2021-43821-env | | 
 | 20211226T14:35:40Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211226T14:09:58Z | CVE-2021-44228 | Null | https://github.com/rwincey/CVE-2021-44228-Log4j-Payloads | | 
@@ -90,8 +90,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211227T02:06:56Z | PS4 9.00 Firmware Exploit Host | https://github.com/KameleonReloaded/900V4B | 7 | 8| 
+| 20211227T02:06:05Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
 | 20211227T01:30:24Z | rust noob tried write easy exploit code with rust lang | https://github.com/Ki11i0n4ir3/CVE-2021-21315 | 1 | 0| 
-| 20211227T01:03:21Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
 | 20211227T00:59:32Z | A collection of intelligence about Log4Shell and its exploitation activity.  | https://github.com/curated-intel/Log4Shell-IOCs | 139 | 29| 
 | 20211227T00:59:14Z | Fully undetectable UAC Bypass exploit - https://youtu.be/KfOPW0XI99s  | https://github.com/exploitblizzard/Love.exe | 3 | 0| 
 | 20211227T00:41:00Z | Null | https://github.com/jwardsmith/Active-Directory-Exploitation | 4 | 2| 
@@ -99,7 +100,6 @@
 | 20211227T00:11:04Z | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | 2 | 0| 
 | 20211226T23:56:00Z | A set of Linux binary exploitation tasks for beginners on various architectures | https://github.com/xairy/easy-linux-pwn | 396 | 77| 
 | 20211226T23:35:48Z | A peer 2 peer approach to increase price stability and to reduce price manipulation by exploiting non-fundamentals-based volatility | https://github.com/distributed-ledger-technology/vofarm-deno-part | 0 | 3| 
-| 20211226T23:24:52Z | exploits written to solve picoCTF 2018 security challenges | https://github.com/mhmdk/PicoCTF2018 | 0 | 0| 
 
 
 # backdoor on Github 推荐
