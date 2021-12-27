@@ -55,6 +55,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211227T13:13:24Z | Null | https://github.com/IxZZZ/Lab_SecureCoding_ExploitSystem | 0 | 0| 
 | 20211227T13:03:42Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
 | 20211227T12:46:03Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 17| 
 | 20211227T12:37:20Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 262 | 79| 
@@ -62,7 +63,6 @@
 | 20211227T12:26:36Z | A collection of intelligence about Log4Shell and its exploitation activity.  | https://github.com/curated-intel/Log4Shell-IOCs | 139 | 30| 
 | 20211227T12:23:35Z | 解决FastJson、Jackson、Log4j2、原生JNDI注入漏洞的高版本JDKBypass利用，探测本地可用反序列化gadget达到命令执行、回显命令执行、内存马注入 | https://github.com/exp1orer/JNDI-Inject-Exploit | 89 | 40| 
 | 20211227T12:13:21Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10495 | 1806| 
-| 20211227T11:52:18Z | Null | https://github.com/IxZZZ/Lab_SecureCoding_ExploitSystem | 0 | 0| 
 | 20211227T11:23:56Z | This website exploits a broken access control vulnerability in genexis platinum 4410 router to do a csrf attack | https://github.com/Xhackers7/genexis-platinum-csrf | 0 | 0| 
 | 20211227T10:47:55Z | A peer 2 peer approach to increase price stability and to reduce price manipulation by exploiting non-fundamentals-based volatility | https://github.com/distributed-ledger-technology/vofarm-deno-part | 0 | 3| 
 
@@ -70,10 +70,10 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211227T13:09:52Z | Statically-linked ssh server with reverse shell functionality for CTFs and such | https://github.com/Fahrj/reverse-ssh | 480 | 57| 
 | 20211227T12:38:04Z | En este repositorio haré una breve explicación de como montar un entorno de trabajo con Kali y Metasploiable2 , en dos máquinas virtualizadas mediante VirtualBox. También explico a modo de practica como realizar un ataque DDoS y como introducir un backdoor en el servicio sftp, por el puerto 21.  | https://github.com/z0s3r77/Metasplotable_2 | 1 | 0| 
 | 20211227T11:37:52Z | Tool to backdoor binaries compiled by gcc/g++ by hijacking their temporary files | https://github.com/hstocks/gcchijack | 1 | 0| 
 | 20211227T09:54:33Z | Website Shell BackDoors | https://github.com/7r0j4ncodeing/Web-Shells | 23 | 7| 
-| 20211227T07:08:38Z | Statically-linked ssh server with reverse shell functionality for CTFs and such | https://github.com/Fahrj/reverse-ssh | 479 | 57| 
 | 20211227T06:42:00Z | Null | https://github.com/THUYimingLi/BackdoorBox | 7 | 1| 
 | 20211227T05:48:53Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 400 | 70| 
 | 20211227T03:56:22Z | Null | https://github.com/Ramirez1001/backdoor | 0 | 0| 
@@ -95,8 +95,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211227T13:10:10Z | Null | https://github.com/yuki-yano/fuzzy-motion.vim | 5 | 0| 
-| 20211227T12:59:54Z | The program was created to carry out the forecasting process by combining 2 methods, namely the weighted fuzzy time series method with the determination of the interval based on the average | https://github.com/fakhrimn25/Weighted-Fuzzy-Time-Series-Kurs-Rupiah-Terhadap-Dollars | 2 | 0| 
+| 20211227T13:15:11Z | Null | https://github.com/yuki-yano/fuzzy-motion.vim | 5 | 0| 
+| 20211227T13:14:22Z | The program was created to carry out the forecasting process by combining 2 methods, namely the weighted fuzzy time series method with the determination of the interval based on the average | https://github.com/fakhrimn25/Weighted-Fuzzy-Time-Series-Kurs-Rupiah-Terhadap-Dollars | 2 | 0| 
 | 20211227T12:34:18Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3850 | 906| 
 | 20211227T12:30:44Z | Null | https://github.com/mariasundaka/fuzzy-barnacle | 0 | 0| 
 | 20211227T12:25:05Z | Null | https://github.com/asigafnatahan/fuzzy-computing-machine | 0 | 0| 
