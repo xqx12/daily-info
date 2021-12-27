@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211227T01:30:24Z | CVE-2021-21315 | rust noob tried write easy exploit code with rust lang | https://github.com/Ki11i0n4ir3/CVE-2021-21315 | | 
 | 20211227T00:58:24Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
 | 20211227T00:11:04Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
 | 20211226T23:30:55Z | CVE-2020-14871 | This is a basic ROP based exploit for CVE 2020-14871. CVE 2020-14871 is a vulnerability in Sun Solaris systems libpam library, and exploitable over ssh | https://github.com/robidev/CVE-2020-14871-Exploit | | 
@@ -55,7 +56,6 @@
 | 20211226T15:16:59Z | CVE-2021-43821 | opencast cve-2021-43821敏感信息泄露漏洞环境 | https://github.com/Jackey0/opencast-CVE-2021-43821-env | | 
 | 20211226T14:35:40Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211226T14:09:58Z | CVE-2021-44228 | Null | https://github.com/rwincey/CVE-2021-44228-Log4j-Payloads | | 
-| 20211226T12:41:42Z | CVE-2021-42013 | Apache 远程代码执行 （CVE-2021-42013）批量检测工具：Apache HTTP Server是美国阿帕奇（Apache）基金会的一款开源网页服务器。该服务器具有快速、可靠且可通过简单的API进行扩充的特点，发现 Apache HTTP Server 2.4.50 中针对 CVE-2021-41773 的修复不够充分。攻击者可以使用路径遍历攻击将 URL 映射到由类似别名的指令配置的目录之外的文件。如果这些目录之外的文件不受通常的默认配置“要求全部拒绝”的保护，则这些请求可能会成功。如果还为这些别名路径启用了 CGI 脚本，则这可能允许远程代码执行。此问题仅影响 Apache 2.4.49 和 Apache 2.4.50，而不影响更早版本。 | https://github.com/asaotomo/CVE-2021-42013-Apache-RCE-Poc-Exp | | 
 
 
 # klee on Github 推荐
@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211227T01:30:24Z | rust noob tried write easy exploit code with rust lang | https://github.com/Ki11i0n4ir3/CVE-2021-21315 | 1 | 0| 
 | 20211227T01:03:21Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
 | 20211227T00:59:32Z | A collection of intelligence about Log4Shell and its exploitation activity.  | https://github.com/curated-intel/Log4Shell-IOCs | 139 | 29| 
 | 20211227T00:59:14Z | Fully undetectable UAC Bypass exploit - https://youtu.be/KfOPW0XI99s  | https://github.com/exploitblizzard/Love.exe | 3 | 0| 
@@ -99,7 +100,6 @@
 | 20211226T23:56:00Z | A set of Linux binary exploitation tasks for beginners on various architectures | https://github.com/xairy/easy-linux-pwn | 396 | 77| 
 | 20211226T23:35:48Z | A peer 2 peer approach to increase price stability and to reduce price manipulation by exploiting non-fundamentals-based volatility | https://github.com/distributed-ledger-technology/vofarm-deno-part | 0 | 3| 
 | 20211226T23:24:52Z | exploits written to solve picoCTF 2018 security challenges | https://github.com/mhmdk/PicoCTF2018 | 0 | 0| 
-| 20211226T23:17:19Z | This is a repo for the coding done for CTFs / exploits. The writeups are here: https://github.com/dillonwu-97/csec_writeups | https://github.com/dillonwu-97/csec-code | 0 | 0| 
 
 
 # backdoor on Github 推荐

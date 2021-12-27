@@ -26,7 +26,7 @@
 | 20211226T14:09:58Z | CVE-2021-44228 | Null | https://github.com/rwincey/CVE-2021-44228-Log4j-Payloads | | 
 | 20211226T12:41:42Z | CVE-2021-42013 | Apache 远程代码执行 （CVE-2021-42013）批量检测工具：Apache HTTP Server是美国阿帕奇（Apache）基金会的一款开源网页服务器。该服务器具有快速、可靠且可通过简单的API进行扩充的特点，发现 Apache HTTP Server 2.4.50 中针对 CVE-2021-41773 的修复不够充分。攻击者可以使用路径遍历攻击将 URL 映射到由类似别名的指令配置的目录之外的文件。如果这些目录之外的文件不受通常的默认配置“要求全部拒绝”的保护，则这些请求可能会成功。如果还为这些别名路径启用了 CGI 脚本，则这可能允许远程代码执行。此问题仅影响 Apache 2.4.49 和 Apache 2.4.50，而不影响更早版本。 | https://github.com/asaotomo/CVE-2021-42013-Apache-RCE-Poc-Exp | | 
 | 20211226T12:39:54Z | CVE-2021-43798 | Grafanav8.*版本任意文件读取漏洞批量检测工具：该漏洞目前为0day漏洞，未授权的攻击者利用该漏洞，能够获取服务器敏感文件。 | https://github.com/asaotomo/CVE-2021-43798-Grafana-Exp | | 
-| 20211226T12:02:05Z | CVE-2021-21315 | rust noob tried write easy exploit code with rust lang | https://github.com/Ki11i0n4ir3/CVE-2021-21315 | | 
+| 20211226T06:50:26Z | cve-2021-44228 | Ansible detector scanner playbook to verify target Linux hosts using the official Red Hat Log4j detector script RHSB-2021-009 Remote Code Execution - log4j (CVE-2021-44228) | https://github.com/lucab85/log4j-cve-2021-44228 | | 
 
 
 # klee on Github 推荐
