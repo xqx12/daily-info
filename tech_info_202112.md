@@ -90,11 +90,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211228T13:58:29Z | Auerswald COMpact 8.0B Backdoors exploit | https://github.com/dorkerdevil/CVE-2021-40859 | 0 | 0| 
 | 20211228T13:56:32Z | Simple Java Payload to exploit Log4j vulnerability | https://github.com/amTeaq/Log4j-Java-Payload | 0 | 0| 
 | 20211228T13:51:23Z | R code used for analysis in TaASN-B2 paper (Oddy, J., Alarcón-Reverte, R., Wilkinson, M. et al. Reduced free asparagine in wheat grain resulting from a natural deletion of TaASN-B2: investigating and exploiting diversity in the asparagine synthetase gene family to improve wheat quality. BMC Plant Biol 21, 302 (2021). https://doi.org/10.1186/s12870-021-03058-7). | https://github.com/WheatWorker/TaASN-B2 | 0 | 0| 
 | 20211228T13:47:56Z | R code used for analysis in TaASN-B2 paper (Oddy, J., Alarcón-Reverte, R., Wilkinson, M. et al. Reduced free asparagine in wheat grain resulting from a natural deletion of TaASN-B2: investigating and exploiting diversity in the asparagine synthetase gene family to improve wheat quality. BMC Plant Biol 21, 302 (2021). https://doi.org/10.1186/s12870-021-03058-7). | https://github.com/WheatWorker/TaASN-B2_project | 0 | 0| 
 | 20211228T13:45:55Z | WAMpage - A WebOS root LPE exploit chain | https://github.com/DavidBuchanan314/WAMpage | 7 | 0| 
-| 20211228T13:45:49Z | Auerswald COMpact 8.0B Backdoors exploit | https://github.com/dorkerdevil/CVE-2021-40859 | 3 | 3| 
 | 20211228T13:36:04Z | Null | https://github.com/Noizeeee/Exploits | 0 | 0| 
 | 20211228T13:28:44Z | Various write-ups and exploits | https://github.com/pjlantz/findings | 0 | 0| 
 | 20211228T13:25:26Z | A Database of exploiters for a dead game with no anti cheat. | https://github.com/jnz-dev/PL-Exploiter-DB | 0 | 0| 
@@ -105,12 +105,12 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211228T13:58:29Z | Auerswald COMpact 8.0B Backdoors exploit | https://github.com/dorkerdevil/CVE-2021-40859 | 0 | 0| 
 | 20211228T13:54:59Z | Website Shell BackDoors | https://github.com/7r0j4ncodeing/Web-Shells | 23 | 7| 
 | 20211228T13:49:25Z | Auerswald COMpact 8.0B Backdoors exploit | https://github.com/419066074/CVE-2021-40859 | 0 | 2| 
 | 20211228T10:56:09Z | A simple remote tool written in C#.    一个简单的c#远控 | https://github.com/qwqdanchun/DcRat | 488 | 174| 
 | 20211228T09:30:18Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 402 | 70| 
 | 20211228T08:11:20Z | This is a Backdoor | https://github.com/anirbansanu/Hacking | 0 | 0| 
-| 20211228T08:10:10Z | Auerswald COMpact 8.0B Backdoors exploit | https://github.com/dorkerdevil/CVE-2021-40859 | 3 | 3| 
 | 20211228T06:47:09Z | Null | https://github.com/SantiagoPassafiume/PythonBackdoor | 0 | 0| 
 | 20211228T04:17:14Z | Database of backdoor passwords used by Malware, uncovered by the Malvuln project. | https://github.com/malvuln/viruscreds | 9 | 2| 
 | 20211228T02:22:45Z | simple ruby windows backdoor | https://github.com/DioBruh/backdoor-windows | 5 | 0| 
@@ -146,7 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211228T13:52:39Z | Fuzzing Unification Framework | https://github.com/fuzzuf/fuzzuf | 34 | 0| 
+| 20211228T13:56:34Z | Fuzzing Unification Framework | https://github.com/fuzzuf/fuzzuf | 35 | 0| 
 | 20211228T13:50:31Z | Null | https://github.com/rickydarmawanwidjanarko/fuzzy-mamdani-AI | 0 | 0| 
 | 20211228T13:31:55Z | Advent of code 2021 | https://github.com/amagdas/fuzzy-octo-robot | 0 | 0| 
 | 20211228T13:21:19Z | OSS-Sydr-Fuzz - OSS-Fuzz fork for hybrid fuzzing (fuzzer+DSE) open source software. | https://github.com/ispras/oss-sydr-fuzz | 11 | 3| 
