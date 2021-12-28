@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211228T13:37:09Z | CVE-2021-44228 | Fix: CVE-2021-44228 4LOGJ | https://github.com/tslenter/RS4LOGJ-CVE-2021-44228 | | 
+| 20211228T13:37:43Z | CVE-2021-44228 | Fix: CVE-2021-44228 4LOGJ | https://github.com/tslenter/RS4LOGJ-CVE-2021-44228 | | 
 | 20211228T13:30:32Z | CVE-2021-45232 | Null | https://github.com/pingpongcult/CVE-2021-45232 | | 
 | 20211228T13:28:37Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
 | 20211228T13:10:45Z | CVE-2021-45232 | Null | https://github.com/badboycxcc/CVE-2021-45232-POC | | 
@@ -146,8 +146,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211228T13:35:55Z | Fuzzing Unification Framework | https://github.com/fuzzuf/fuzzuf | 33 | 0| 
+| 20211228T13:35:49Z | Null | https://github.com/rickydarmawanwidjanarko/fuzzy-mamdani-AI | 0 | 0| 
 | 20211228T13:31:55Z | Advent of code 2021 | https://github.com/amagdas/fuzzy-octo-robot | 0 | 0| 
-| 20211228T13:24:21Z | Fuzzing Unification Framework | https://github.com/fuzzuf/fuzzuf | 32 | 0| 
 | 20211228T13:21:19Z | OSS-Sydr-Fuzz - OSS-Fuzz fork for hybrid fuzzing (fuzzer+DSE) open source software. | https://github.com/ispras/oss-sydr-fuzz | 11 | 3| 
 | 20211228T12:02:17Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 38 | 12| 
 | 20211228T11:41:36Z | Null | https://github.com/allexks/FuzzyKit | 0 | 0| 
@@ -155,7 +156,6 @@
 | 20211228T11:38:32Z | A Collection of Small Applications for Testing Fuzzers | https://github.com/fuzzuf/fuzz_toys | 0 | 0| 
 | 20211228T11:29:13Z | 移动端-模糊查询组件 | https://github.com/Soumns777/soumns-mobile-fuzzy-query | 0 | 0| 
 | 20211228T11:17:12Z | Null | https://github.com/rfuzzo/FuzzoBot | 0 | 0| 
-| 20211228T10:23:13Z | Leetcode solutions. | https://github.com/chaitanyks/fuzzy-disco | 1 | 0| 
 
 
 
