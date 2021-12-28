@@ -105,7 +105,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211228T13:49:33Z | Website Shell BackDoors | https://github.com/7r0j4ncodeing/Web-Shells | 23 | 7| 
+| 20211228T13:54:59Z | Website Shell BackDoors | https://github.com/7r0j4ncodeing/Web-Shells | 23 | 7| 
 | 20211228T13:49:25Z | Auerswald COMpact 8.0B Backdoors exploit | https://github.com/419066074/CVE-2021-40859 | 0 | 2| 
 | 20211228T10:56:09Z | A simple remote tool written in C#.    一个简单的c#远控 | https://github.com/qwqdanchun/DcRat | 488 | 174| 
 | 20211228T09:30:18Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 402 | 70| 
@@ -146,8 +146,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211228T13:52:39Z | Fuzzing Unification Framework | https://github.com/fuzzuf/fuzzuf | 34 | 0| 
 | 20211228T13:50:31Z | Null | https://github.com/rickydarmawanwidjanarko/fuzzy-mamdani-AI | 0 | 0| 
-| 20211228T13:35:55Z | Fuzzing Unification Framework | https://github.com/fuzzuf/fuzzuf | 33 | 0| 
 | 20211228T13:31:55Z | Advent of code 2021 | https://github.com/amagdas/fuzzy-octo-robot | 0 | 0| 
 | 20211228T13:21:19Z | OSS-Sydr-Fuzz - OSS-Fuzz fork for hybrid fuzzing (fuzzer+DSE) open source software. | https://github.com/ispras/oss-sydr-fuzz | 11 | 3| 
 | 20211228T12:02:17Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 38 | 12| 
