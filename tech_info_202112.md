@@ -146,7 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211228T01:47:29Z | Solutions to problems I find along my journey into competitive programming! | https://github.com/AyaSleep/fuzzy-waddle | 0 | 0| 
+| 20211228T01:55:20Z | Solutions to problems I find along my journey into competitive programming! | https://github.com/AyaSleep/fuzzy-waddle | 0 | 0| 
 | 20211228T01:35:46Z | Kernel fuzzer inspired by Syzkaller | https://github.com/SunHao-0/healer | 163 | 24| 
 | 20211228T01:04:44Z | Null | https://github.com/igorsodre/fuzzy-trader | 0 | 0| 
 | 20211227T23:54:25Z | Null | https://github.com/yuki-yano/fuzzy-motion.vim | 7 | 0| 
