@@ -33,13 +33,13 @@
 | 20211227T21:17:26Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
 | 20211227T21:11:12Z | CVE-2021-45041 | PoC for CVE-2021-45041 | https://github.com/manuelz120/CVE-2021-45041 | | 
 | 20211227T21:06:05Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
-| 20211227T19:07:23Z | CVE-2021-30860 | Collection of materials relating to FORCEDENTRY, will eventually delete this repo and migrate the materials to my main exploit repo once finished | https://github.com/jeffssh/CVE-2021-30860 | | 
 | 20211227T18:08:11Z | CVE-2021-44228 | Null | https://github.com/rwincey/CVE-2021-44228-Log4j-Payloads | | 
 | 20211227T17:02:38Z | cve-2021-44228 | Ansible detector scanner playbook to verify target Linux hosts using the official Red Hat Log4j detector script RHSB-2021-009 Remote Code Execution - log4j (CVE-2021-44228) | https://github.com/lucab85/log4j-cve-2021-44228 | | 
 | 20211227T14:41:14Z | CVE-2020-11546 | SuperWebMailer RCE | https://github.com/Official-BlackHat13/CVE-2020-11546 | | 
 | 20211227T14:38:22Z | CVE-2021-41773 | Null | https://github.com/Ming119/CVE-2021-41773_Exploit | | 
 | 20211227T12:18:04Z | CVE-2021-43821 | opencast cve-2021-43821敏感信息泄露漏洞环境 | https://github.com/Jackey0/opencast-CVE-2021-43821-env | | 
 | 20211227T09:51:13Z | CVE-2021-44228 | IOCs for CVE-2021-44228 | https://github.com/cungts/VTI-IOCs-CVE-2021-44228 | | 
+| 20211227T01:54:04Z | cve-2021-44228 | Null | https://github.com/aws-samples/kubernetes-log4j-cve-2021-44228-node-agent | | 
 
 
 # klee on Github 推荐
