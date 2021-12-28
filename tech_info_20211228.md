@@ -81,6 +81,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211228T10:34:54Z | Symbolica%s open-source symbolic execution engine. | https://github.com/Symbolica/Symbolica | 47 | 3| 
+| 20211228T10:28:58Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 24 | 13| 
 
 
 # big4 on Github 推荐
