@@ -46,9 +46,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211228T13:51:14Z | CVE-2021-45232 | CVE-2021-45232 | https://github.com/shakeman8/CVE-2021-45232 | | 
+| 20211228T13:50:33Z | CVE-2021-44228 | Fix: CVE-2021-44228 4LOGJ | https://github.com/tslenter/RS4LOGJ-CVE-2021-44228 | | 
 | 20211228T13:49:25Z | CVE-2021-40859 | Auerswald COMpact 8.0B Backdoors exploit | https://github.com/419066074/CVE-2021-40859 | | 
-| 20211228T13:49:21Z | CVE-2021-45232 | CVE-2021-45232 | https://github.com/shakeman8/CVE-2021-45232 | | 
-| 20211228T13:47:19Z | CVE-2021-44228 | Fix: CVE-2021-44228 4LOGJ | https://github.com/tslenter/RS4LOGJ-CVE-2021-44228 | | 
 | 20211228T13:45:49Z | CVE-2021-40859 | Auerswald COMpact 8.0B Backdoors exploit | https://github.com/dorkerdevil/CVE-2021-40859 | | 
 | 20211228T13:30:32Z | CVE-2021-45232 | Null | https://github.com/pingpongcult/CVE-2021-45232 | | 
 | 20211228T13:28:37Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211228T13:51:23Z | R code used for analysis in TaASN-B2 paper (Oddy, J., Alarcón-Reverte, R., Wilkinson, M. et al. Reduced free asparagine in wheat grain resulting from a natural deletion of TaASN-B2: investigating and exploiting diversity in the asparagine synthetase gene family to improve wheat quality. BMC Plant Biol 21, 302 (2021). https://doi.org/10.1186/s12870-021-03058-7). | https://github.com/WheatWorker/TaASN-B2 | 0 | 0| 
 | 20211228T13:47:56Z | R code used for analysis in TaASN-B2 paper (Oddy, J., Alarcón-Reverte, R., Wilkinson, M. et al. Reduced free asparagine in wheat grain resulting from a natural deletion of TaASN-B2: investigating and exploiting diversity in the asparagine synthetase gene family to improve wheat quality. BMC Plant Biol 21, 302 (2021). https://doi.org/10.1186/s12870-021-03058-7). | https://github.com/WheatWorker/TaASN-B2_project | 0 | 0| 
 | 20211228T13:45:55Z | WAMpage - A WebOS root LPE exploit chain | https://github.com/DavidBuchanan314/WAMpage | 7 | 0| 
 | 20211228T13:45:49Z | Auerswald COMpact 8.0B Backdoors exploit | https://github.com/dorkerdevil/CVE-2021-40859 | 3 | 3| 
@@ -99,13 +100,13 @@
 | 20211228T13:23:56Z | Null | https://github.com/asef18766/pyshare_exploit | 0 | 0| 
 | 20211228T13:19:26Z | Null | https://github.com/Henrinnes/exploiting-securing-Docker-and-kubernetes | 0 | 0| 
 | 20211228T13:13:32Z | Nmap script that searches for probable vulnerabilities based on services discovered in open ports.  | https://github.com/scmanjarrez/CVEScannerV2 | 9 | 2| 
-| 20211228T13:03:06Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211228T13:36:48Z | Website Shell BackDoors | https://github.com/7r0j4ncodeing/Web-Shells | 23 | 7| 
+| 20211228T13:49:33Z | Website Shell BackDoors | https://github.com/7r0j4ncodeing/Web-Shells | 23 | 7| 
+| 20211228T13:49:25Z | Auerswald COMpact 8.0B Backdoors exploit | https://github.com/419066074/CVE-2021-40859 | 0 | 2| 
 | 20211228T10:56:09Z | A simple remote tool written in C#.    一个简单的c#远控 | https://github.com/qwqdanchun/DcRat | 488 | 174| 
 | 20211228T09:30:18Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 402 | 70| 
 | 20211228T08:11:20Z | This is a Backdoor | https://github.com/anirbansanu/Hacking | 0 | 0| 
@@ -114,7 +115,6 @@
 | 20211228T04:17:14Z | Database of backdoor passwords used by Malware, uncovered by the Malvuln project. | https://github.com/malvuln/viruscreds | 9 | 2| 
 | 20211228T02:22:45Z | simple ruby windows backdoor | https://github.com/DioBruh/backdoor-windows | 5 | 0| 
 | 20211228T02:03:52Z | Null | https://github.com/Ramirez1001/backdoor | 0 | 0| 
-| 20211227T19:18:12Z | The scripts for my game backdoor | https://github.com/RealHaxRoblox/bkdoorscripts | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
