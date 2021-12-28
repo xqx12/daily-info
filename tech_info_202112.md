@@ -146,7 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211228T13:46:11Z | Null | https://github.com/rickydarmawanwidjanarko/fuzzy-mamdani-AI | 0 | 0| 
+| 20211228T13:50:31Z | Null | https://github.com/rickydarmawanwidjanarko/fuzzy-mamdani-AI | 0 | 0| 
 | 20211228T13:35:55Z | Fuzzing Unification Framework | https://github.com/fuzzuf/fuzzuf | 33 | 0| 
 | 20211228T13:31:55Z | Advent of code 2021 | https://github.com/amagdas/fuzzy-octo-robot | 0 | 0| 
 | 20211228T13:21:19Z | OSS-Sydr-Fuzz - OSS-Fuzz fork for hybrid fuzzing (fuzzer+DSE) open source software. | https://github.com/ispras/oss-sydr-fuzz | 11 | 3| 
