@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211228T13:10:03Z | CVE-2021-45232 | Null | https://github.com/badboycxcc/CVE-2021-45232-POC | | 
 | 20211228T12:54:32Z | CVE-2020-7247 | Proof of concept for CVE-2020-7247 for educational purposes. | https://github.com/SimonSchoeni/CVE-2020-7247-POC | | 
 | 20211228T11:59:28Z | CVE-2021-45232 | Null | https://github.com/pingpongcult/CVE-2021-45232 | | 
 | 20211228T11:39:20Z | CVE-2021-45232 | A vulnerability scanner that detects CVE-2021-45232 vulnerabilities. | https://github.com/Osyanina/westone-CVE-2021-45232-scanner | | 
@@ -55,7 +56,6 @@
 | 20211228T08:39:10Z | CVE-2021-44228 | Null | https://github.com/Ravid-CheckMarx/CVE-2021-44228-Apache-Log4j-Rce-main | | 
 | 20211228T08:10:10Z | CVE-2021-40859 | Auerswald COMpact 8.0B Backdoors exploit | https://github.com/dorkerdevil/CVE-2021-40859 | | 
 | 20211228T07:30:14Z | CVE-2021-44228 | Known IoCs for log4j framework vulnerability  | https://github.com/guardicode/CVE-2021-44228_IoCs | | 
-| 20211228T03:09:01Z | CVE-2020-27955 | This is a test to exploit with CVE-2020-27955 | https://github.com/SSRemex/CVE-2020-27955-TEST | | 
 
 
 # klee on Github 推荐
@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211228T13:09:29Z | R code used for analysis in TaASN-B2 paper (Oddy, J., Alarcón-Reverte, R., Wilkinson, M. et al. Reduced free asparagine in wheat grain resulting from a natural deletion of TaASN-B2: investigating and exploiting diversity in the asparagine synthetase gene family to improve wheat quality. BMC Plant Biol 21, 302 (2021). https://doi.org/10.1186/s12870-021-03058-7). | https://github.com/WheatWorker/TaASN-B2_project | 0 | 0| 
 | 20211228T13:03:06Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
 | 20211228T13:00:55Z | Various write-ups and exploits | https://github.com/pjlantz/findings | 0 | 0| 
 | 20211228T12:54:15Z | A ML app that exploits a pre-trained model to visualize results and explanations in an interactive way | https://github.com/ziram1/streamlit-fastapi-app | 0 | 0| 
@@ -99,7 +100,6 @@
 | 20211228T12:25:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10496 | 1805| 
 | 20211228T11:52:04Z | Null | https://github.com/asef18766/pyshare_exploit | 0 | 0| 
 | 20211228T11:35:57Z | Null | https://github.com/C00kiie/phoenix-exploit-education-writeup | 0 | 0| 
-| 20211228T11:28:31Z | hey it%s me! | https://github.com/ExploiTR/ExploiTR | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -146,7 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211228T13:06:32Z | Fuzzing Unification Framework | https://github.com/fuzzuf/fuzzuf | 25 | 0| 
+| 20211228T13:08:57Z | Fuzzing Unification Framework | https://github.com/fuzzuf/fuzzuf | 26 | 0| 
 | 20211228T13:01:18Z | Advent of code 2021 | https://github.com/amagdas/fuzzy-octo-robot | 0 | 0| 
 | 20211228T12:02:17Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 38 | 12| 
 | 20211228T11:41:36Z | Null | https://github.com/allexks/FuzzyKit | 0 | 0| 
