@@ -146,7 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211228T02:16:18Z | Twitter video Rust minio gRPC redis | https://github.com/hsmtkk/fuzzy-winner | 0 | 0| 
+| 20211228T02:19:05Z | Twitter video Rust minio gRPC redis | https://github.com/hsmtkk/fuzzy-winner | 0 | 0| 
 | 20211228T02:00:55Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 899 | 138| 
 | 20211228T01:55:20Z | Solutions to problems I find along my journey into competitive programming! | https://github.com/AyaSleep/fuzzy-waddle | 0 | 0| 
 | 20211228T01:35:46Z | Kernel fuzzer inspired by Syzkaller | https://github.com/SunHao-0/healer | 163 | 24| 
