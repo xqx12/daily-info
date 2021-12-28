@@ -90,8 +90,11 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211227T13:51:59Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2601 | 385| 
-| 20211227T12:12:56Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1855 | 525| 
+| 20211227T20:59:33Z | History of symbolic execution (as well as SAT/SMT solving, fuzzing, and taint data tracking) | https://github.com/enzet/symbolic-execution | 412 | 57| 
+| 20211227T20:19:16Z | Symbolic Execution Engine for Boogie | https://github.com/boogie-org/symbooglix | 23 | 4| 
+| 20211227T19:24:51Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2601 | 385| 
+| 20211227T18:03:25Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 347 | 28| 
+| 20211227T12:12:56Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1855 | 526| 
 | 20211227T11:59:25Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1948 | 405| 
 
 
