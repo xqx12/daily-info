@@ -146,6 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211228T02:16:18Z | Twitter video Rust minio gRPC redis | https://github.com/hsmtkk/fuzzy-winner | 0 | 0| 
 | 20211228T02:00:55Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 899 | 138| 
 | 20211228T01:55:20Z | Solutions to problems I find along my journey into competitive programming! | https://github.com/AyaSleep/fuzzy-waddle | 0 | 0| 
 | 20211228T01:35:46Z | Kernel fuzzer inspired by Syzkaller | https://github.com/SunHao-0/healer | 163 | 24| 
@@ -155,7 +156,6 @@
 | 20211227T23:48:28Z | Palm-Tree-Still-No-Question-Mark-Maybe-Solid-Broccoli-Question-Mark-OK-I-Give-Up-Lets-Call-This-Repo-TheChaoticWeb-Useful-API-Thing-How-About-Fuzzy-Octo-Umbrella-No-Question-Mark-OK-How-About-Friendly- | https://github.com/TheChaoticWeb/TheChaoticWeb-Useful-API-Thing-How-About-Fuzzy-Octo-Umbrella-No-Question-Mark-OK-How-About-Friendly- | 0 | 0| 
 | 20211227T23:38:29Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20211227T23:28:37Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6972 | 1460| 
-| 20211227T23:12:55Z | qt tic tac toe game with minmax algorithm | https://github.com/JakubWolak/fuzzy-succotash | 0 | 0| 
 
 
 
