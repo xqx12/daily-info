@@ -52,6 +52,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211228T13:19:26Z | Null | https://github.com/Henrinnes/exploiting-securing-Docker-and-kubernetes | 0 | 0| 
 | 20211228T13:13:32Z | Nmap script that searches for probable vulnerabilities based on services discovered in open ports.  | https://github.com/scmanjarrez/CVEScannerV2 | 9 | 2| 
 | 20211228T13:10:24Z | R code used for analysis in TaASN-B2 paper (Oddy, J., Alarcón-Reverte, R., Wilkinson, M. et al. Reduced free asparagine in wheat grain resulting from a natural deletion of TaASN-B2: investigating and exploiting diversity in the asparagine synthetase gene family to improve wheat quality. BMC Plant Biol 21, 302 (2021). https://doi.org/10.1186/s12870-021-03058-7). | https://github.com/WheatWorker/TaASN-B2_project | 0 | 0| 
 | 20211228T13:03:06Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
@@ -61,7 +62,6 @@
 | 20211228T12:45:43Z | A Database of exploiters for a dead game with no anti cheat. | https://github.com/jnz-dev/PL-Exploiter-DB | 0 | 0| 
 | 20211228T12:45:20Z | HACKSHA Menu : Information Gathering Password Attacks Wireless Testing Exploitation Tools Sniffing & Spoofing Web Hacking Private Web Hacking Post Exploitation Install The HACKTRONIAN Information Gathering: Nmap Setoolkit Port Scanning Host To IP wordpress user CMS scanner XSStrike Dork - Google Dorks Passive Vulnerability Auditor Scan A server%s Users Crips Password Attacks: Cupp Ncrack Wireless Testing: reaver pixiewps Fluxion Exploitation Tools: ATSCAN sqlmap Shellnoob commix FTP Auto Bypass jboss-autopwn Sniffing & Spoofing: Setoolkit SSLtrip pyPISHER SMTP Mailer Web Hacking: Drupal Hacking Inurlbr Wordpress & Joomla Scanner Gravity Form Scanner File Upload Checker Wordpress Exploit Scanner Wordpress Plugins Scanner Shell and Directory Finder Joomla! 1.5 - 3.4.5 remote code execution Vbulletin 5.X remote code execution BruteX - Automatically brute force all services running on a target Arachni - Web Application Security Scanner Framework Private Web Hacking: Get all websites Get joomla websites Get wordpress websites Control Panel Finder Zip Files Finder Upload File Finder Get server users SQli Scanner Ports Scan (range of ports) ports Scan (common ports) Get server Info Bypass Cloudflare Post Exploitation: Shell Checker POET Weeman Installation in Linux : This Tool Must Run As ROOT !!! | https://github.com/hackyshadab/Hacksha | 7 | 1| 
 | 20211228T12:25:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10496 | 1805| 
-| 20211228T11:52:04Z | Null | https://github.com/asef18766/pyshare_exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -93,7 +93,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211228T13:17:34Z | Fuzzing Unification Framework | https://github.com/fuzzuf/fuzzuf | 29 | 0| 
+| 20211228T13:21:45Z | Fuzzing Unification Framework | https://github.com/fuzzuf/fuzzuf | 31 | 0| 
+| 20211228T13:21:19Z | OSS-Sydr-Fuzz - OSS-Fuzz fork for hybrid fuzzing (fuzzer+DSE) open source software. | https://github.com/ispras/oss-sydr-fuzz | 11 | 3| 
 | 20211228T13:01:18Z | Advent of code 2021 | https://github.com/amagdas/fuzzy-octo-robot | 0 | 0| 
 | 20211228T12:02:17Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 38 | 12| 
 | 20211228T11:41:36Z | Null | https://github.com/allexks/FuzzyKit | 0 | 0| 
@@ -102,7 +103,6 @@
 | 20211228T11:29:13Z | 移动端-模糊查询组件 | https://github.com/Soumns777/soumns-mobile-fuzzy-query | 0 | 0| 
 | 20211228T11:17:12Z | Null | https://github.com/rfuzzo/FuzzoBot | 0 | 0| 
 | 20211228T10:23:13Z | Leetcode solutions. | https://github.com/chaitanyks/fuzzy-disco | 1 | 0| 
-| 20211228T10:11:39Z | Null | https://github.com/dm4sec/ioctl_fuzzer | 0 | 0| 
 
 
 
