@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211228T01:45:54Z | macos/ios exploit writeup | https://github.com/houjingyi233/macOS-iOS-system-security | 309 | 31| 
 | 20211228T01:03:28Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
 | 20211228T00:46:53Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10494 | 1805| 
 | 20211228T00:46:03Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 17| 
@@ -99,7 +100,6 @@
 | 20211227T22:51:08Z | MS CVE 2019-0708 Python Exploit | https://github.com/Haruster/Haruster-CVE-2019-0708-Exploit | 10 | 0| 
 | 20211227T22:05:31Z | Null | https://github.com/Henrinnes/exploiting-securing-Docker-and-kubernetes | 0 | 0| 
 | 20211227T21:54:42Z | Exploitation Tool | https://github.com/0RaMsY0/ramsy | 1 | 0| 
-| 20211227T21:17:26Z | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | 2 | 0| 
 
 
 # backdoor on Github 推荐
@@ -146,6 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211228T01:47:29Z | Solutions to problems I find along my journey into competitive programming! | https://github.com/AyaSleep/fuzzy-waddle | 0 | 0| 
 | 20211228T01:35:46Z | Kernel fuzzer inspired by Syzkaller | https://github.com/SunHao-0/healer | 163 | 24| 
 | 20211228T01:04:44Z | Null | https://github.com/igorsodre/fuzzy-trader | 0 | 0| 
 | 20211227T23:54:25Z | Null | https://github.com/yuki-yano/fuzzy-motion.vim | 7 | 0| 
@@ -155,7 +156,6 @@
 | 20211227T23:28:37Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6972 | 1460| 
 | 20211227T23:22:32Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 898 | 138| 
 | 20211227T23:12:55Z | qt tic tac toe game with minmax algorithm | https://github.com/JakubWolak/fuzzy-succotash | 0 | 0| 
-| 20211227T23:06:33Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 7 | 3| 
 
 
 
