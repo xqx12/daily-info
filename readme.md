@@ -111,11 +111,11 @@
 | 20211227T23:48:28Z | Palm-Tree-Still-No-Question-Mark-Maybe-Solid-Broccoli-Question-Mark-OK-I-Give-Up-Lets-Call-This-Repo-TheChaoticWeb-Useful-API-Thing-How-About-Fuzzy-Octo-Umbrella-No-Question-Mark-OK-How-About-Friendly- | https://github.com/TheChaoticWeb/TheChaoticWeb-Useful-API-Thing-How-About-Fuzzy-Octo-Umbrella-No-Question-Mark-OK-How-About-Friendly- | 0 | 0| 
 | 20211227T23:38:29Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20211227T23:28:37Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6972 | 1460| 
-| 20211227T23:22:32Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 898 | 138| 
 | 20211227T23:12:55Z | qt tic tac toe game with minmax algorithm | https://github.com/JakubWolak/fuzzy-succotash | 0 | 0| 
 | 20211227T23:06:33Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 7 | 3| 
 | 20211227T22:52:11Z | Build to Test OSS-Fuzz | https://github.com/n132/Example | 0 | 0| 
 | 20211227T22:22:21Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
+| 20211227T22:15:55Z | the first testy repo | https://github.com/pedi26/fuzzy-octo-garbanzo | 0 | 0| 
 
 
 
