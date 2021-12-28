@@ -22,10 +22,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211228T13:30:32Z | CVE-2021-45232 | Null | https://github.com/pingpongcult/CVE-2021-45232 | | 
 | 20211228T13:28:37Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
 | 20211228T13:10:45Z | CVE-2021-45232 | Null | https://github.com/badboycxcc/CVE-2021-45232-POC | | 
 | 20211228T12:54:32Z | CVE-2020-7247 | Proof of concept for CVE-2020-7247 for educational purposes. | https://github.com/SimonSchoeni/CVE-2020-7247-POC | | 
-| 20211228T11:59:28Z | CVE-2021-45232 | Null | https://github.com/pingpongcult/CVE-2021-45232 | | 
 | 20211228T11:39:20Z | CVE-2021-45232 | A vulnerability scanner that detects CVE-2021-45232 vulnerabilities. | https://github.com/Osyanina/westone-CVE-2021-45232-scanner | | 
 | 20211228T09:44:21Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211228T09:38:18Z | CVE-2021-40444 | Microsoft-Office-Word-MSHTML-Remote-Code-Execution-Exploit | https://github.com/MRacumen/CVE-2021-40444 | | 
