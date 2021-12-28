@@ -146,11 +146,11 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211228T02:27:15Z | Null | https://github.com/igorsodre/fuzzy-trader | 0 | 0| 
 | 20211228T02:19:05Z | Twitter video Rust minio gRPC redis | https://github.com/hsmtkk/fuzzy-winner | 0 | 0| 
 | 20211228T02:00:55Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 899 | 138| 
 | 20211228T01:55:20Z | Solutions to problems I find along my journey into competitive programming! | https://github.com/AyaSleep/fuzzy-waddle | 0 | 0| 
 | 20211228T01:35:46Z | Kernel fuzzer inspired by Syzkaller | https://github.com/SunHao-0/healer | 163 | 24| 
-| 20211228T01:04:44Z | Null | https://github.com/igorsodre/fuzzy-trader | 0 | 0| 
 | 20211227T23:54:25Z | Null | https://github.com/yuki-yano/fuzzy-motion.vim | 7 | 0| 
 | 20211227T23:52:51Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 7 | 0| 
 | 20211227T23:48:28Z | Palm-Tree-Still-No-Question-Mark-Maybe-Solid-Broccoli-Question-Mark-OK-I-Give-Up-Lets-Call-This-Repo-TheChaoticWeb-Useful-API-Thing-How-About-Fuzzy-Octo-Umbrella-No-Question-Mark-OK-How-About-Friendly- | https://github.com/TheChaoticWeb/TheChaoticWeb-Useful-API-Thing-How-About-Fuzzy-Octo-Umbrella-No-Question-Mark-OK-How-About-Friendly- | 0 | 0| 
