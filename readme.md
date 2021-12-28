@@ -93,7 +93,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211228T13:11:02Z | Fuzzing Unification Framework | https://github.com/fuzzuf/fuzzuf | 27 | 0| 
+| 20211228T13:17:34Z | Fuzzing Unification Framework | https://github.com/fuzzuf/fuzzuf | 29 | 0| 
 | 20211228T13:01:18Z | Advent of code 2021 | https://github.com/amagdas/fuzzy-octo-robot | 0 | 0| 
 | 20211228T12:02:17Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 38 | 12| 
 | 20211228T11:41:36Z | Null | https://github.com/allexks/FuzzyKit | 0 | 0| 
