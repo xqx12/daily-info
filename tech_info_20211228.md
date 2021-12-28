@@ -37,7 +37,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211228T13:31:57Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 3326 | 104| 
+| 20211228T13:54:32Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 3327 | 104| 
 | 20211228T13:14:05Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 3 | 0| 
 | 20211228T12:33:44Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
 | 20211228T12:14:33Z | Null | https://github.com/seregeu/klee_modify | 0 | 0| 
@@ -52,6 +52,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211228T13:56:32Z | Simple Java Payload to exploit Log4j vulnerability | https://github.com/amTeaq/Log4j-Java-Payload | 0 | 0| 
 | 20211228T13:51:23Z | R code used for analysis in TaASN-B2 paper (Oddy, J., Alarcón-Reverte, R., Wilkinson, M. et al. Reduced free asparagine in wheat grain resulting from a natural deletion of TaASN-B2: investigating and exploiting diversity in the asparagine synthetase gene family to improve wheat quality. BMC Plant Biol 21, 302 (2021). https://doi.org/10.1186/s12870-021-03058-7). | https://github.com/WheatWorker/TaASN-B2 | 0 | 0| 
 | 20211228T13:47:56Z | R code used for analysis in TaASN-B2 paper (Oddy, J., Alarcón-Reverte, R., Wilkinson, M. et al. Reduced free asparagine in wheat grain resulting from a natural deletion of TaASN-B2: investigating and exploiting diversity in the asparagine synthetase gene family to improve wheat quality. BMC Plant Biol 21, 302 (2021). https://doi.org/10.1186/s12870-021-03058-7). | https://github.com/WheatWorker/TaASN-B2_project | 0 | 0| 
 | 20211228T13:45:55Z | WAMpage - A WebOS root LPE exploit chain | https://github.com/DavidBuchanan314/WAMpage | 7 | 0| 
@@ -61,7 +62,6 @@
 | 20211228T13:25:26Z | A Database of exploiters for a dead game with no anti cheat. | https://github.com/jnz-dev/PL-Exploiter-DB | 0 | 0| 
 | 20211228T13:23:56Z | Null | https://github.com/asef18766/pyshare_exploit | 0 | 0| 
 | 20211228T13:19:26Z | Null | https://github.com/Henrinnes/exploiting-securing-Docker-and-kubernetes | 0 | 0| 
-| 20211228T13:13:32Z | Nmap script that searches for probable vulnerabilities based on services discovered in open ports.  | https://github.com/scmanjarrez/CVEScannerV2 | 9 | 2| 
 
 
 # backdoor on Github 推荐
