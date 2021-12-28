@@ -146,6 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211228T01:04:44Z | Null | https://github.com/igorsodre/fuzzy-trader | 0 | 0| 
 | 20211227T23:54:25Z | Null | https://github.com/yuki-yano/fuzzy-motion.vim | 7 | 0| 
 | 20211227T23:52:51Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 7 | 0| 
 | 20211227T23:48:28Z | Palm-Tree-Still-No-Question-Mark-Maybe-Solid-Broccoli-Question-Mark-OK-I-Give-Up-Lets-Call-This-Repo-TheChaoticWeb-Useful-API-Thing-How-About-Fuzzy-Octo-Umbrella-No-Question-Mark-OK-How-About-Friendly- | https://github.com/TheChaoticWeb/TheChaoticWeb-Useful-API-Thing-How-About-Fuzzy-Octo-Umbrella-No-Question-Mark-OK-How-About-Friendly- | 0 | 0| 
@@ -155,7 +156,6 @@
 | 20211227T23:12:55Z | qt tic tac toe game with minmax algorithm | https://github.com/JakubWolak/fuzzy-succotash | 0 | 0| 
 | 20211227T23:06:33Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 7 | 3| 
 | 20211227T22:52:11Z | Build to Test OSS-Fuzz | https://github.com/n132/Example | 0 | 0| 
-| 20211227T22:22:21Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
 
 
 
