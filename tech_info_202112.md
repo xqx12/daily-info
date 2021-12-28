@@ -146,9 +146,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211228T13:31:55Z | Advent of code 2021 | https://github.com/amagdas/fuzzy-octo-robot | 0 | 0| 
 | 20211228T13:24:21Z | Fuzzing Unification Framework | https://github.com/fuzzuf/fuzzuf | 32 | 0| 
 | 20211228T13:21:19Z | OSS-Sydr-Fuzz - OSS-Fuzz fork for hybrid fuzzing (fuzzer+DSE) open source software. | https://github.com/ispras/oss-sydr-fuzz | 11 | 3| 
-| 20211228T13:01:18Z | Advent of code 2021 | https://github.com/amagdas/fuzzy-octo-robot | 0 | 0| 
 | 20211228T12:02:17Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 38 | 12| 
 | 20211228T11:41:36Z | Null | https://github.com/allexks/FuzzyKit | 0 | 0| 
 | 20211228T11:40:34Z | An artifact that ensures that fuzzuf works consistently with AFL | https://github.com/fuzzuf/fuzzuf-afl-artifact | 0 | 0| 
