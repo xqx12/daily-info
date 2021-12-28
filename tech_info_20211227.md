@@ -30,7 +30,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211227T22:00:06Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
 | 20211227T21:17:26Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
 | 20211227T21:11:12Z | CVE-2021-45041 | PoC for CVE-2021-45041 | https://github.com/manuelz120/CVE-2021-45041 | | 
 | 20211227T21:06:05Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
@@ -40,6 +39,7 @@
 | 20211227T14:41:14Z | CVE-2020-11546 | SuperWebMailer RCE | https://github.com/Official-BlackHat13/CVE-2020-11546 | | 
 | 20211227T14:38:22Z | CVE-2021-41773 | Null | https://github.com/Ming119/CVE-2021-41773_Exploit | | 
 | 20211227T12:18:04Z | CVE-2021-43821 | opencast cve-2021-43821敏感信息泄露漏洞环境 | https://github.com/Jackey0/opencast-CVE-2021-43821-env | | 
+| 20211227T09:51:13Z | CVE-2021-44228 | IOCs for CVE-2021-44228 | https://github.com/cungts/VTI-IOCs-CVE-2021-44228 | | 
 
 
 # klee on Github 推荐
