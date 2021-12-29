@@ -57,6 +57,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211229T13:09:35Z | Example of a trick exploiting generators to implement recursion that does not rely on hw call stack | https://github.com/MarkusSecundus/StacklessRecursionTrickExample | 0 | 0| 
 | 20211229T13:03:32Z | Exploiting CVE-2021-44228 in Unifi Network Application for remote code execution and more. | https://github.com/puzzlepeaches/Log4jUnifi | 0 | 0| 
 | 20211229T13:03:17Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
 | 20211229T13:01:33Z | An awesome Roblox Exploit for Roblox | https://github.com/Professor-Puddle/Roblox-Dev | 1 | 0| 
@@ -66,7 +67,6 @@
 | 20211229T12:26:36Z | Advanced exploits that I wrote for Pwn2Own competitions and other occasions | https://github.com/badd1e/Pwn | 18 | 2| 
 | 20211229T12:23:10Z | This project is exploit for some docker containers with similar to vulnerability code: CVE-2020-35191 | https://github.com/megadimenex/MegaHiDocker | 1 | 0| 
 | 20211229T12:19:46Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 616 | 132| 
-| 20211229T12:04:27Z | Various write-ups and exploits | https://github.com/pjlantz/findings | 0 | 1| 
 
 
 # backdoor on Github 推荐
