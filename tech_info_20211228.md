@@ -6,6 +6,8 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20211228 | Lab M10. Integer Arithmetic Part 1: High-speed Multiplication and Division. | http://www.c-jump.com/CIS77/MLabs/M10arithmetic/lecture.html| 
+| 20211228 | 安全研究人员近期发现在Garrett 金属探测器的网络组件存在中多个安全漏洞，该漏洞对用户数据存在的安全威胁。 | https://thehackernews.com/2021/12/garrett-walk-through-metal-detectors.html| 
 
 
 # 安全维基 推荐
@@ -17,28 +19,33 @@
 | 20211228 | THINE：针对时序异质信息网络的表示学习 | https://mp.weixin.qq.com/s/gqfBW-0NgccF_5Wb8TTfKA| 
 | 20211228 | 国家密码管理局规章制定程序规定（最新版） | http://www.scmgj.gov.cn/scsmmglj/c103235/2021/12/24/838569f2bbbe4d1fb1cb90e5c8d9dbdf.shtml| 
 | 20211228 | “十四五”国家信息化规划 | http://www.cac.gov.cn/2021-12/27/c_1642205314518676.htm| 
+| 20211228 | 连载：演化的高级威胁治理（四） | https://mp.weixin.qq.com/s/WTnj_DX7livQogyeahY7zw| 
+| 20211228 | 连载：演化的高级威胁治理（三） | https://mp.weixin.qq.com/s/-CUzDKO4QWJ9Sc8OXu4OUw| 
+| 20211228 | 连载：演化的高级威胁治理（二） | https://mp.weixin.qq.com/s/xfcszMh3uWVOcH_PS9Mnww| 
+| 20211228 | 连载：演化的高级威胁治理（一） | https://mp.weixin.qq.com/s/FpCm2F7jcBYvCRUWC158Tg| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211228T23:13:52Z | CVE-2021-20837 | XMLRPC  - RCE in MovableTypePoC | https://github.com/thomsdev/CVE-2021-20837 | | 
+| 20211228T23:06:25Z | CVE-2021-40859 | Auerswald COMpact 8.0B Backdoors exploit | https://github.com/dorkerdevil/CVE-2021-40859 | | 
+| 20211228T14:37:33Z | CVE-2021-45232 | Null | https://github.com/badboycxcc/CVE-2021-45232-POC | | 
+| 20211228T14:12:26Z | CVE-2021-45232 | CVE-2021-45232  RCE | https://github.com/shakeman8/CVE-2021-45232-RCE | | 
 | 20211228T13:51:14Z | CVE-2021-45232 | CVE-2021-45232 | https://github.com/shakeman8/CVE-2021-45232 | | 
 | 20211228T13:50:33Z | CVE-2021-44228 | Fix: CVE-2021-44228 4LOGJ | https://github.com/tslenter/RS4LOGJ-CVE-2021-44228 | | 
 | 20211228T13:49:25Z | CVE-2021-40859 | Auerswald COMpact 8.0B Backdoors exploit | https://github.com/419066074/CVE-2021-40859 | | 
-| 20211228T13:45:49Z | CVE-2021-40859 | Auerswald COMpact 8.0B Backdoors exploit | https://github.com/dorkerdevil/CVE-2021-40859 | | 
-| 20211228T13:30:32Z | CVE-2021-45232 | Null | https://github.com/pingpongcult/CVE-2021-45232 | | 
 | 20211228T13:28:37Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
-| 20211228T13:10:45Z | CVE-2021-45232 | Null | https://github.com/badboycxcc/CVE-2021-45232-POC | | 
 | 20211228T12:54:32Z | CVE-2020-7247 | Proof of concept for CVE-2020-7247 for educational purposes. | https://github.com/SimonSchoeni/CVE-2020-7247-POC | | 
 | 20211228T11:39:20Z | CVE-2021-45232 | A vulnerability scanner that detects CVE-2021-45232 vulnerabilities. | https://github.com/Osyanina/westone-CVE-2021-45232-scanner | | 
-| 20211228T09:44:21Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211228T13:54:32Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 3327 | 104| 
-| 20211228T13:14:05Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 3 | 0| 
+| 20211228T16:08:44Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1856 | 526| 
+| 20211228T15:02:52Z | Null | https://github.com/kocherizhka/-Saint-Petersburg---Kleeva- | 0 | 0| 
+| 20211228T14:47:46Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 4 | 0| 
 | 20211228T12:33:44Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
 | 20211228T12:14:33Z | Null | https://github.com/seregeu/klee_modify | 0 | 0| 
 
@@ -46,37 +53,39 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211228T18:30:01Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 2 | 0| 
+| 20211228T18:30:00Z | Documents for Spacecraft Simulation Environment | https://github.com/ut-issl/s2e-documents | 2 | 0| 
 | 20211228T03:35:49Z | CRAX++: software CRash analysis for Automatic eXploit generation | https://github.com/aesophor/CRAXplusplus | 26 | 3| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211228T13:58:29Z | Auerswald COMpact 8.0B Backdoors exploit | https://github.com/dorkerdevil/CVE-2021-40859 | 0 | 0| 
-| 20211228T13:56:32Z | Simple Java Payload to exploit Log4j vulnerability | https://github.com/amTeaq/Log4j-Java-Payload | 0 | 0| 
-| 20211228T13:51:23Z | R code used for analysis in TaASN-B2 paper (Oddy, J., Alarcón-Reverte, R., Wilkinson, M. et al. Reduced free asparagine in wheat grain resulting from a natural deletion of TaASN-B2: investigating and exploiting diversity in the asparagine synthetase gene family to improve wheat quality. BMC Plant Biol 21, 302 (2021). https://doi.org/10.1186/s12870-021-03058-7). | https://github.com/WheatWorker/TaASN-B2 | 0 | 0| 
-| 20211228T13:47:56Z | R code used for analysis in TaASN-B2 paper (Oddy, J., Alarcón-Reverte, R., Wilkinson, M. et al. Reduced free asparagine in wheat grain resulting from a natural deletion of TaASN-B2: investigating and exploiting diversity in the asparagine synthetase gene family to improve wheat quality. BMC Plant Biol 21, 302 (2021). https://doi.org/10.1186/s12870-021-03058-7). | https://github.com/WheatWorker/TaASN-B2_project | 0 | 0| 
-| 20211228T13:45:55Z | WAMpage - A WebOS root LPE exploit chain | https://github.com/DavidBuchanan314/WAMpage | 7 | 0| 
-| 20211228T13:36:04Z | Null | https://github.com/Noizeeee/Exploits | 0 | 0| 
-| 20211228T13:28:44Z | Various write-ups and exploits | https://github.com/pjlantz/findings | 0 | 0| 
-| 20211228T13:25:26Z | A Database of exploiters for a dead game with no anti cheat. | https://github.com/jnz-dev/PL-Exploiter-DB | 0 | 0| 
-| 20211228T13:23:56Z | Null | https://github.com/asef18766/pyshare_exploit | 0 | 0| 
-| 20211228T13:19:26Z | Null | https://github.com/Henrinnes/exploiting-securing-Docker-and-kubernetes | 0 | 0| 
+| 20211228T23:53:33Z | PDF-Silent-Exploit | https://github.com/meeeow1/PDF-Silent-Exploit | 1 | 0| 
+| 20211228T23:53:26Z | Silent DOC and Excel Exploit for Microsoft Office.  | https://github.com/meeeow1/Silent-DOC-And-Excel-Exploit-for-Microsoft-Office | 1 | 0| 
+| 20211228T22:50:27Z | In this project, I deploy and assess a simple web application environment’s security posture. I have a  chance to test the security of the environment by simulating an attack scenario and exploiting cloud configuration vulnerabilities. Similarly, I set up monitoring to identify suspicious behavior and vulnerable configurations and will remediate the identified misconfigurations. Ultimately, I tie it all together by proposing a DevOps build pipeline that includes security best practices. | https://github.com/CodeUpJewell/AWS-GuardDuty-Inspector-SecurityHub-Designing-for-Security | 0 | 0| 
+| 20211228T21:24:08Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 679 | 121| 
+| 20211228T21:17:20Z | Source codes of Windows API Exploitation for Red and Blue teams from Pentester Academy | https://github.com/tbhaxor/WinAPI-RedBlue | 0 | 0| 
+| 20211228T20:05:13Z | WIP Post-exploitation framework tailored for hypervisors. | https://github.com/Psmths/reave | 0 | 0| 
+| 20211228T19:57:45Z | Binary Exploitation Labs | https://github.com/jmpshell/BinEx | 1 | 0| 
+| 20211228T19:43:42Z | Null | https://github.com/vsegdacocacola/Log4jExploitPayloadExtractor | 0 | 0| 
+| 20211228T18:41:43Z | The repository contains code snippets to aid in exploit development | https://github.com/ianwolf99/EXPLOIT | 2 | 2| 
+| 20211228T18:17:09Z | Null | https://github.com/PM2Exploit/PM2Exploit | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211228T13:58:29Z | Auerswald COMpact 8.0B Backdoors exploit | https://github.com/dorkerdevil/CVE-2021-40859 | 0 | 0| 
+| 20211228T23:06:25Z | Auerswald COMpact 8.0B Backdoors exploit | https://github.com/dorkerdevil/CVE-2021-40859 | 1 | 1| 
+| 20211228T21:18:11Z | simple ruby windows backdoor | https://github.com/DioBruh/backdoor-windows | 6 | 0| 
+| 20211228T19:38:33Z | A Remote Administration Tool (RAT) | https://github.com/0xmanjoos/Pieta | 24 | 11| 
+| 20211228T18:32:53Z | Null | https://github.com/EjHvorSerDuVildUdJim/backdoor | 0 | 0| 
 | 20211228T13:54:59Z | Website Shell BackDoors | https://github.com/7r0j4ncodeing/Web-Shells | 23 | 7| 
 | 20211228T13:49:25Z | Auerswald COMpact 8.0B Backdoors exploit | https://github.com/419066074/CVE-2021-40859 | 0 | 2| 
-| 20211228T10:56:09Z | A simple remote tool written in C#.    一个简单的c#远控 | https://github.com/qwqdanchun/DcRat | 488 | 174| 
+| 20211228T10:56:09Z | A simple remote tool written in C#.    一个简单的c#远控 | https://github.com/qwqdanchun/DcRat | 488 | 175| 
 | 20211228T09:30:18Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 402 | 70| 
 | 20211228T08:11:20Z | This is a Backdoor | https://github.com/anirbansanu/Hacking | 0 | 0| 
 | 20211228T06:47:09Z | Null | https://github.com/SantiagoPassafiume/PythonBackdoor | 0 | 0| 
-| 20211228T04:17:14Z | Database of backdoor passwords used by Malware, uncovered by the Malvuln project. | https://github.com/malvuln/viruscreds | 9 | 2| 
-| 20211228T02:22:45Z | simple ruby windows backdoor | https://github.com/DioBruh/backdoor-windows | 5 | 0| 
-| 20211228T02:03:52Z | Null | https://github.com/Ramirez1001/backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -95,16 +104,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211228T13:56:34Z | Fuzzing Unification Framework | https://github.com/fuzzuf/fuzzuf | 35 | 0| 
-| 20211228T13:50:31Z | Null | https://github.com/rickydarmawanwidjanarko/fuzzy-mamdani-AI | 0 | 0| 
-| 20211228T13:31:55Z | Advent of code 2021 | https://github.com/amagdas/fuzzy-octo-robot | 0 | 0| 
-| 20211228T13:21:19Z | OSS-Sydr-Fuzz - OSS-Fuzz fork for hybrid fuzzing (fuzzer+DSE) open source software. | https://github.com/ispras/oss-sydr-fuzz | 11 | 3| 
-| 20211228T12:02:17Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 38 | 12| 
-| 20211228T11:41:36Z | Null | https://github.com/allexks/FuzzyKit | 0 | 0| 
-| 20211228T11:40:34Z | An artifact that ensures that fuzzuf works consistently with AFL | https://github.com/fuzzuf/fuzzuf-afl-artifact | 0 | 0| 
-| 20211228T11:38:32Z | A Collection of Small Applications for Testing Fuzzers | https://github.com/fuzzuf/fuzz_toys | 0 | 0| 
-| 20211228T11:29:13Z | 移动端-模糊查询组件 | https://github.com/Soumns777/soumns-mobile-fuzzy-query | 0 | 0| 
-| 20211228T11:17:12Z | Null | https://github.com/rfuzzo/FuzzoBot | 0 | 0| 
+| 20211228T23:56:34Z | History of symbolic execution (as well as SAT/SMT solving, fuzzing, and taint data tracking) | https://github.com/enzet/symbolic-execution | 412 | 57| 
+| 20211228T23:44:52Z | Fyzzy Topic Models | https://github.com/ERijck/FuzzyTM | 0 | 0| 
+| 20211228T23:40:02Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
+| 20211228T23:30:50Z | archery5 | https://github.com/JaneCelia/fuzzy-guacamole | 0 | 0| 
+| 20211228T23:11:11Z | Null | https://github.com/mallika-bit/FuzzyFriendFinder- | 0 | 0| 
+| 20211228T22:47:58Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6975 | 1461| 
+| 20211228T22:18:34Z | code bot | https://github.com/Abybody/fuzzy-octo-chainsaw | 0 | 0| 
+| 20211228T22:15:58Z | Null | https://github.com/CARLMAINLTD/fuzzy-rotary-phone | 0 | 0| 
+| 20211228T22:14:45Z | Null | https://github.com/allexks/FuzzyKit | 0 | 0| 
+| 20211228T22:14:20Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 7 | 3| 
 
 
 
