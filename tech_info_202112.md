@@ -91,8 +91,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211229T13:58:53Z | A discord tool to use bugs and exploits | https://github.com/RealMepon/DiscordTool | 0 | 0| 
 | 20211229T13:55:33Z | A helpful Java Deserialization exploit framework. | https://github.com/wh1t3p1g/ysomap | 604 | 72| 
-| 20211229T13:53:40Z | A discord tool to use bugs and exploits | https://github.com/RealMepon/DiscordTool | 0 | 0| 
 | 20211229T13:53:15Z | Exploits Onlyfans-APIs to detect staleness of Onlyfans accounts.  | https://github.com/rabaukeronny/onlyfans-crawler | 0 | 0| 
 | 20211229T13:53:01Z | Null | https://github.com/MaykonDev/exploit-ftp | 0 | 0| 
 | 20211229T13:42:48Z | Non-Malicious Log4Shell exploit | https://github.com/ferderplays/Log4J_non_malicious | 0 | 0| 
