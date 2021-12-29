@@ -67,10 +67,10 @@
 | 20211228T21:24:08Z | Detector for Log4Shell exploitation attempts | https://github.com/Neo23x0/log4shell-detector | 679 | 121| 
 | 20211228T21:17:20Z | Source codes of Windows API Exploitation for Red and Blue teams from Pentester Academy | https://github.com/tbhaxor/WinAPI-RedBlue | 0 | 0| 
 | 20211228T20:05:13Z | WIP Post-exploitation framework tailored for hypervisors. | https://github.com/Psmths/reave | 0 | 0| 
-| 20211228T19:57:45Z | Binary Exploitation Labs | https://github.com/jmpshell/BinEx | 1 | 0| 
 | 20211228T19:43:42Z | Null | https://github.com/vsegdacocacola/Log4jExploitPayloadExtractor | 0 | 0| 
 | 20211228T18:41:43Z | The repository contains code snippets to aid in exploit development | https://github.com/ianwolf99/EXPLOIT | 2 | 2| 
 | 20211228T18:17:09Z | Null | https://github.com/PM2Exploit/PM2Exploit | 1 | 0| 
+| 20211228T18:10:19Z | Daily scraper (and mebbe more in the future) for CISA%s Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | 5 | 0| 
 
 
 # backdoor on Github 推荐
