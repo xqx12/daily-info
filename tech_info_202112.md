@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211229T13:35:11Z | Non-Malicious Log4Shell exploit | https://github.com/ferderplays/Log4J_non_malicious | 0 | 0| 
 | 20211229T13:32:49Z | A discord tool to use bugs and exploits | https://github.com/RealMepon/DiscordTool | 0 | 0| 
 | 20211229T13:29:56Z | An awesome Roblox Exploit for Roblox | https://github.com/Professor-Puddle/Roblox-Dev | 1 | 0| 
 | 20211229T13:27:42Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6241 | 1469| 
@@ -100,7 +101,6 @@
 | 20211229T13:03:32Z | Exploiting CVE-2021-44228 in Unifi Network Application for remote code execution and more. | https://github.com/puzzlepeaches/Log4jUnifi | 0 | 0| 
 | 20211229T13:03:17Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
 | 20211229T12:56:49Z | Post-Exploitation :sunglasses: module for Penetration Tester and Hackers. | https://github.com/powerexploit/Powerexploit | 23 | 9| 
-| 20211229T12:49:38Z | VPN Overall Reconnaissance, Testing, Enumeration and eXploitation Toolkit | https://github.com/klezVirus/vortex | 102 | 8| 
 
 
 # backdoor on Github 推荐
