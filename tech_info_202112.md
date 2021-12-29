@@ -91,16 +91,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211229T13:58:53Z | A discord tool to use bugs and exploits | https://github.com/RealMepon/DiscordTool | 0 | 0| 
+| 20211229T14:06:43Z | VPN Overall Reconnaissance, Testing, Enumeration and eXploitation Toolkit | https://github.com/klezVirus/vortex | 103 | 8| 
+| 20211229T14:03:56Z | Null | https://github.com/MaykonDev/exploit-ftp | 0 | 0| 
+| 20211229T14:03:15Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
+| 20211229T14:03:01Z | A discord tool to use bugs and exploits | https://github.com/RealMepon/DiscordTool | 0 | 0| 
+| 20211229T13:59:52Z | labsecurity is a tool that brings together python scripts made for ethical hacking, in a single tool, through a console interface | https://github.com/dylanmeca/labsecurity | 9 | 5| 
 | 20211229T13:55:33Z | A helpful Java Deserialization exploit framework. | https://github.com/wh1t3p1g/ysomap | 604 | 72| 
 | 20211229T13:53:15Z | Exploits Onlyfans-APIs to detect staleness of Onlyfans accounts.  | https://github.com/rabaukeronny/onlyfans-crawler | 0 | 0| 
-| 20211229T13:53:01Z | Null | https://github.com/MaykonDev/exploit-ftp | 0 | 0| 
 | 20211229T13:42:48Z | Non-Malicious Log4Shell exploit | https://github.com/ferderplays/Log4J_non_malicious | 0 | 0| 
 | 20211229T13:41:29Z | An awesome Roblox Exploit for Roblox | https://github.com/Professor-Puddle/Roblox-Dev | 1 | 0| 
 | 20211229T13:27:42Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6241 | 1469| 
-| 20211229T13:26:56Z | Exploiting Webpages and Web apps vulnerabilities  | https://github.com/AtitBimali/Web-Exploitation | 0 | 0| 
-| 20211229T13:14:37Z | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | 4 | 1| 
-| 20211229T13:09:35Z | Example of a trick exploiting generators to implement recursion that does not rely on hw call stack | https://github.com/MarkusSecundus/StacklessRecursionTrickExample | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -147,7 +147,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211229T13:58:28Z | Null | https://github.com/aRitactoNRi/fuzzy-bassoon | 0 | 0| 
+| 20211229T13:59:43Z | Null | https://github.com/aRitactoNRi/fuzzy-bassoon | 0 | 0| 
 | 20211229T13:50:50Z | Null | https://github.com/allexks/FuzzyKit | 0 | 0| 
 | 20211229T13:39:13Z | Null | https://github.com/fuzzyextractor/fuzzyextractor-demo | 0 | 0| 
 | 20211229T13:30:01Z | Fuzzy Search Project to merge DataFrames. | https://github.com/rfolmedoa/fuzzy-search | 0 | 0| 
