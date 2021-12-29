@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211229T01:04:44Z | Local file inclusion discovery and exploitation tool | https://github.com/hansmach1ne/lfimap | 5 | 0| 
 | 20211229T01:03:43Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
 | 20211229T01:03:38Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 113 | 39| 
 | 20211229T00:46:03Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 17| 
@@ -100,7 +101,6 @@
 | 20211229T00:27:01Z | VPN Overall Reconnaissance, Testing, Enumeration and eXploitation Toolkit | https://github.com/klezVirus/vortex | 53 | 3| 
 | 20211228T23:53:33Z | PDF-Silent-Exploit | https://github.com/meeeow1/PDF-Silent-Exploit | 1 | 0| 
 | 20211228T23:53:26Z | Silent DOC and Excel Exploit for Microsoft Office.  | https://github.com/meeeow1/Silent-DOC-And-Excel-Exploit-for-Microsoft-Office | 1 | 0| 
-| 20211228T22:50:27Z | In this project, I deploy and assess a simple web application environment’s security posture. I have a  chance to test the security of the environment by simulating an attack scenario and exploiting cloud configuration vulnerabilities. Similarly, I set up monitoring to identify suspicious behavior and vulnerable configurations and will remediate the identified misconfigurations. Ultimately, I tie it all together by proposing a DevOps build pipeline that includes security best practices. | https://github.com/CodeUpJewell/AWS-GuardDuty-Inspector-SecurityHub-Designing-for-Security | 0 | 0| 
 
 
 # backdoor on Github 推荐
