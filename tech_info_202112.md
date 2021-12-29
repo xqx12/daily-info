@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211229T02:31:33Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4205 | 596| 
 | 20211229T02:17:30Z | Binary Exploitation Labs | https://github.com/jmpshell/BinEx | 1 | 0| 
 | 20211229T02:17:18Z | VPN Overall Reconnaissance, Testing, Enumeration and eXploitation Toolkit | https://github.com/klezVirus/vortex | 64 | 5| 
 | 20211229T02:03:13Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
@@ -100,7 +101,6 @@
 | 20211229T00:46:03Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 17| 
 | 20211229T00:36:33Z | Linux/UX ultra complete profile | https://github.com/audioscavenger/exploit | 0 | 1| 
 | 20211229T00:34:24Z | demonstrate your ability to scan a computer for vulnerabilities, analyze those vulnerabilities for exploitability, execute exploits against a target computer, and create persistence. | https://github.com/dyeoell/Ethical-Hacking | 0 | 0| 
-| 20211229T00:31:59Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4204 | 596| 
 
 
 # backdoor on Github 推荐
