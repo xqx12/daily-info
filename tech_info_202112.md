@@ -147,7 +147,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211229T12:45:05Z | Next-gen Rowhammer fuzzer that uses non-uniform, frequency-based patterns. | https://github.com/comsec-group/blacksmith | 152 | 16| 
+| 20211229T13:09:01Z | Next-gen Rowhammer fuzzer that uses non-uniform, frequency-based patterns. | https://github.com/comsec-group/blacksmith | 152 | 16| 
+| 20211229T13:06:46Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1359 | 240| 
 | 20211229T12:38:30Z | Study Deep Neuro-Fuzzy Systems with Python | https://github.com/novice108/Fuzzy-C-Means-Clustering | 0 | 0| 
 | 20211229T12:30:58Z | Learning how to code | https://github.com/sanjapm/fuzzy-code | 0 | 0| 
 | 20211229T12:25:26Z | Leetcode solutions. | https://github.com/chaitanyks/fuzzy-disco | 1 | 0| 
@@ -156,7 +157,6 @@
 | 20211229T12:08:36Z | Null | https://github.com/fuzzyextractor/fuzzyextractor-security | 0 | 0| 
 | 20211229T12:02:08Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 38 | 12| 
 | 20211229T11:58:21Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3860 | 907| 
-| 20211229T11:48:55Z | Null | https://github.com/rfuzzo/FuzzoBot | 0 | 0| 
 
 
 
