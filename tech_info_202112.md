@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211229T13:41:39Z | CVE-2021-22204 | Null | https://github.com/trganda/CVE-2021-22204 | | 
+| 20211229T13:47:39Z | CVE-2021-22204 | Null | https://github.com/trganda/CVE-2021-22204 | | 
 | 20211229T13:14:37Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
 | 20211229T11:59:14Z | CVE-2021-45232 | CVE-2021-45232 POC | https://github.com/Ifory885/CVE-2021-45232 | | 
 | 20211229T11:58:44Z | CVE-2021-20837 | XMLRPC  - RCE in MovableTypePoC | https://github.com/thomsdev/CVE-2021-20837 | | 
