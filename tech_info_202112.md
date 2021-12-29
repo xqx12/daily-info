@@ -46,11 +46,11 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211229T01:51:58Z | CVE-2021-45232 | Null | https://github.com/pingpongcult/CVE-2021-45232 | | 
 | 20211229T01:38:45Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211229T01:24:33Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
 | 20211229T01:14:06Z | CVE-2021-44228 | Null | https://github.com/rwincey/CVE-2021-44228-Log4j-Payloads | | 
 | 20211229T01:01:20Z | cve-2021-45232 | Null | https://github.com/Ilovewomen/cve-2021-45232 | | 
-| 20211229T00:12:44Z | CVE-2021-45232 | Null | https://github.com/pingpongcult/CVE-2021-45232 | | 
 | 20211228T23:13:52Z | CVE-2021-20837 | XMLRPC  - RCE in MovableTypePoC | https://github.com/thomsdev/CVE-2021-20837 | | 
 | 20211228T23:06:25Z | CVE-2021-40859 | Auerswald COMpact 8.0B Backdoors exploit | https://github.com/dorkerdevil/CVE-2021-40859 | | 
 | 20211228T14:37:33Z | CVE-2021-45232 | Null | https://github.com/badboycxcc/CVE-2021-45232-POC | | 
@@ -91,7 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211229T01:44:52Z | VPN Overall Reconnaissance, Testing, Enumeration and eXploitation Toolkit | https://github.com/klezVirus/vortex | 60 | 4| 
+| 20211229T01:52:35Z | VPN Overall Reconnaissance, Testing, Enumeration and eXploitation Toolkit | https://github.com/klezVirus/vortex | 61 | 4| 
 | 20211229T01:35:37Z | Local file inclusion discovery and exploitation tool | https://github.com/hansmach1ne/lfimap | 5 | 0| 
 | 20211229T01:03:43Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
 | 20211229T01:03:38Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 113 | 39| 
