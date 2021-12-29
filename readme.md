@@ -29,7 +29,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211229T13:54:45Z | CVE-2021-22204 | Null | https://github.com/trganda/CVE-2021-22204 | | 
+| 20211229T13:55:40Z | CVE-2021-22204 | Null | https://github.com/trganda/CVE-2021-22204 | | 
 | 20211229T13:14:37Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
 | 20211229T11:59:14Z | CVE-2021-45232 | CVE-2021-45232 POC | https://github.com/Ifory885/CVE-2021-45232 | | 
 | 20211229T11:58:44Z | CVE-2021-20837 | XMLRPC  - RCE in MovableTypePoC | https://github.com/thomsdev/CVE-2021-20837 | | 
@@ -57,6 +57,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211229T13:55:33Z | A helpful Java Deserialization exploit framework. | https://github.com/wh1t3p1g/ysomap | 604 | 72| 
 | 20211229T13:53:40Z | A discord tool to use bugs and exploits | https://github.com/RealMepon/DiscordTool | 0 | 0| 
 | 20211229T13:53:15Z | Exploits Onlyfans-APIs to detect staleness of Onlyfans accounts.  | https://github.com/rabaukeronny/onlyfans-crawler | 0 | 0| 
 | 20211229T13:53:01Z | Null | https://github.com/MaykonDev/exploit-ftp | 0 | 0| 
@@ -66,7 +67,6 @@
 | 20211229T13:26:56Z | Exploiting Webpages and Web apps vulnerabilities  | https://github.com/AtitBimali/Web-Exploitation | 0 | 0| 
 | 20211229T13:14:37Z | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | 4 | 1| 
 | 20211229T13:09:35Z | Example of a trick exploiting generators to implement recursion that does not rely on hw call stack | https://github.com/MarkusSecundus/StacklessRecursionTrickExample | 0 | 0| 
-| 20211229T13:03:32Z | Exploiting CVE-2021-44228 in Unifi Network Application for remote code execution and more. | https://github.com/puzzlepeaches/Log4jUnifi | 0 | 0| 
 
 
 # backdoor on Github 推荐
