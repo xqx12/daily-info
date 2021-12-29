@@ -31,13 +31,13 @@
 | 20211228T23:13:52Z | CVE-2021-20837 | XMLRPC  - RCE in MovableTypePoC | https://github.com/thomsdev/CVE-2021-20837 | | 
 | 20211228T23:06:25Z | CVE-2021-40859 | Auerswald COMpact 8.0B Backdoors exploit | https://github.com/dorkerdevil/CVE-2021-40859 | | 
 | 20211228T14:37:33Z | CVE-2021-45232 | Null | https://github.com/badboycxcc/CVE-2021-45232-POC | | 
-| 20211228T14:12:26Z | CVE-2021-45232 | CVE-2021-45232  RCE | https://github.com/shakeman8/CVE-2021-45232-RCE | | 
 | 20211228T13:51:14Z | CVE-2021-45232 | CVE-2021-45232 | https://github.com/shakeman8/CVE-2021-45232 | | 
 | 20211228T13:50:33Z | CVE-2021-44228 | Fix: CVE-2021-44228 4LOGJ | https://github.com/tslenter/RS4LOGJ-CVE-2021-44228 | | 
 | 20211228T13:49:25Z | CVE-2021-40859 | Auerswald COMpact 8.0B Backdoors exploit | https://github.com/419066074/CVE-2021-40859 | | 
 | 20211228T12:54:32Z | CVE-2020-7247 | Proof of concept for CVE-2020-7247 for educational purposes. | https://github.com/SimonSchoeni/CVE-2020-7247-POC | | 
 | 20211228T11:39:20Z | CVE-2021-45232 | A vulnerability scanner that detects CVE-2021-45232 vulnerabilities. | https://github.com/Osyanina/westone-CVE-2021-45232-scanner | | 
 | 20211228T09:38:18Z | CVE-2021-40444 | Microsoft-Office-Word-MSHTML-Remote-Code-Execution-Exploit | https://github.com/MRacumen/CVE-2021-40444 | | 
+| 20211228T08:39:10Z | CVE-2021-44228 | Null | https://github.com/Ravid-CheckMarx/CVE-2021-44228-Apache-Log4j-Rce-main | | 
 
 
 # klee on Github 推荐
