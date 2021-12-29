@@ -72,7 +72,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211229T13:45:41Z | Null | https://github.com/MaykonDev/backdoor | 0 | 0| 
+| 20211229T13:51:03Z | Null | https://github.com/MaykonDev/backdoor | 0 | 0| 
 | 20211229T12:05:56Z | Powershell script to detect malware persistence | https://github.com/MirunaCiobanu/backdoor-detector | 0 | 0| 
 | 20211229T11:01:14Z | Null | https://github.com/Ramirez1001/backdoor | 0 | 0| 
 | 20211229T08:46:01Z | A simple remote tool written in C#.    一个简单的c#远控 | https://github.com/qwqdanchun/DcRat | 489 | 176| 
@@ -100,6 +100,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211229T13:50:50Z | Null | https://github.com/allexks/FuzzyKit | 0 | 0| 
 | 20211229T13:39:13Z | Null | https://github.com/fuzzyextractor/fuzzyextractor-demo | 0 | 0| 
 | 20211229T13:30:01Z | Fuzzy Search Project to merge DataFrames. | https://github.com/rfolmedoa/fuzzy-search | 0 | 0| 
 | 20211229T13:24:56Z | Advent of code 2021 | https://github.com/amagdas/fuzzy-octo-robot | 0 | 0| 
@@ -109,7 +110,6 @@
 | 20211229T12:38:30Z | Study Deep Neuro-Fuzzy Systems with Python | https://github.com/novice108/Fuzzy-C-Means-Clustering | 0 | 0| 
 | 20211229T12:30:58Z | Learning how to code | https://github.com/sanjapm/fuzzy-code | 0 | 0| 
 | 20211229T12:25:26Z | Leetcode solutions. | https://github.com/chaitanyks/fuzzy-disco | 1 | 0| 
-| 20211229T12:13:14Z | Null | https://github.com/mallika-bit/FuzzyFriendFinder- | 0 | 0| 
 
 
 
