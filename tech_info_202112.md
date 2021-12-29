@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211229T13:14:37Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
 | 20211229T11:59:14Z | CVE-2021-45232 | CVE-2021-45232 POC | https://github.com/Ifory885/CVE-2021-45232 | | 
-| 20211229T11:59:01Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
 | 20211229T11:58:44Z | CVE-2021-20837 | XMLRPC  - RCE in MovableTypePoC | https://github.com/thomsdev/CVE-2021-20837 | | 
 | 20211229T11:03:15Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211229T08:34:36Z | CVE-2021-40859 | Auerswald COMpact 8.0B Backdoors exploit | https://github.com/419066074/CVE-2021-40859 | | 
@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211229T13:14:37Z | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | 4 | 1| 
 | 20211229T13:09:35Z | Example of a trick exploiting generators to implement recursion that does not rely on hw call stack | https://github.com/MarkusSecundus/StacklessRecursionTrickExample | 0 | 0| 
 | 20211229T13:03:32Z | Exploiting CVE-2021-44228 in Unifi Network Application for remote code execution and more. | https://github.com/puzzlepeaches/Log4jUnifi | 0 | 0| 
 | 20211229T13:03:17Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
@@ -100,7 +101,6 @@
 | 20211229T12:46:23Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6240 | 1469| 
 | 20211229T12:26:36Z | Advanced exploits that I wrote for Pwn2Own competitions and other occasions | https://github.com/badd1e/Pwn | 18 | 2| 
 | 20211229T12:23:10Z | This project is exploit for some docker containers with similar to vulnerability code: CVE-2020-35191 | https://github.com/megadimenex/MegaHiDocker | 1 | 0| 
-| 20211229T12:19:46Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 616 | 132| 
 
 
 # backdoor on Github 推荐
@@ -147,6 +147,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211229T13:15:43Z | Fuzzy Search Project to merge DataFrames. | https://github.com/rfolmedoa/fuzzy-search | 0 | 0| 
 | 20211229T13:09:01Z | Next-gen Rowhammer fuzzer that uses non-uniform, frequency-based patterns. | https://github.com/comsec-group/blacksmith | 152 | 16| 
 | 20211229T13:06:46Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1359 | 240| 
 | 20211229T12:38:30Z | Study Deep Neuro-Fuzzy Systems with Python | https://github.com/novice108/Fuzzy-C-Means-Clustering | 0 | 0| 
@@ -156,7 +157,6 @@
 | 20211229T12:13:14Z | Null | https://github.com/mallika-bit/FuzzyFriendFinder- | 0 | 0| 
 | 20211229T12:08:36Z | Null | https://github.com/fuzzyextractor/fuzzyextractor-security | 0 | 0| 
 | 20211229T12:02:08Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 38 | 12| 
-| 20211229T11:58:21Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3860 | 907| 
 
 
 
