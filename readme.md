@@ -29,6 +29,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211229T13:41:39Z | CVE-2021-22204 | Null | https://github.com/trganda/CVE-2021-22204 | | 
 | 20211229T13:14:37Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
 | 20211229T11:59:14Z | CVE-2021-45232 | CVE-2021-45232 POC | https://github.com/Ifory885/CVE-2021-45232 | | 
 | 20211229T11:58:44Z | CVE-2021-20837 | XMLRPC  - RCE in MovableTypePoC | https://github.com/thomsdev/CVE-2021-20837 | | 
@@ -38,7 +39,6 @@
 | 20211229T05:50:41Z | CVE-2021-45232 | CVE-2021-45232  RCE | https://github.com/shakeman8/CVE-2021-45232-RCE | | 
 | 20211229T03:05:50Z | cve-2021-45232 | Null | https://github.com/Ilovewomen/cve-2021-45232 | | 
 | 20211229T02:10:28Z | CVE-2021-45232 | Null | https://github.com/LTiDi2000/CVE-2021-45232 | | 
-| 20211229T02:00:33Z | CVE-2021-45232 | Null | https://github.com/pingpongcult/CVE-2021-45232 | | 
 
 
 # klee on Github 推荐
@@ -57,9 +57,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211229T13:35:11Z | Non-Malicious Log4Shell exploit | https://github.com/ferderplays/Log4J_non_malicious | 0 | 0| 
+| 20211229T13:42:48Z | Non-Malicious Log4Shell exploit | https://github.com/ferderplays/Log4J_non_malicious | 0 | 0| 
+| 20211229T13:41:29Z | An awesome Roblox Exploit for Roblox | https://github.com/Professor-Puddle/Roblox-Dev | 1 | 0| 
 | 20211229T13:32:49Z | A discord tool to use bugs and exploits | https://github.com/RealMepon/DiscordTool | 0 | 0| 
-| 20211229T13:29:56Z | An awesome Roblox Exploit for Roblox | https://github.com/Professor-Puddle/Roblox-Dev | 1 | 0| 
 | 20211229T13:27:42Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6241 | 1469| 
 | 20211229T13:26:56Z | Exploiting Webpages and Web apps vulnerabilities  | https://github.com/AtitBimali/Web-Exploitation | 0 | 0| 
 | 20211229T13:14:37Z | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | 4 | 1| 
