@@ -35,9 +35,9 @@
 | 20211228T13:51:14Z | CVE-2021-45232 | CVE-2021-45232 | https://github.com/shakeman8/CVE-2021-45232 | | 
 | 20211228T13:50:33Z | CVE-2021-44228 | Fix: CVE-2021-44228 4LOGJ | https://github.com/tslenter/RS4LOGJ-CVE-2021-44228 | | 
 | 20211228T13:49:25Z | CVE-2021-40859 | Auerswald COMpact 8.0B Backdoors exploit | https://github.com/419066074/CVE-2021-40859 | | 
-| 20211228T13:28:37Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
 | 20211228T12:54:32Z | CVE-2020-7247 | Proof of concept for CVE-2020-7247 for educational purposes. | https://github.com/SimonSchoeni/CVE-2020-7247-POC | | 
 | 20211228T11:39:20Z | CVE-2021-45232 | A vulnerability scanner that detects CVE-2021-45232 vulnerabilities. | https://github.com/Osyanina/westone-CVE-2021-45232-scanner | | 
+| 20211228T09:44:21Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 
 
 # klee on Github 推荐
