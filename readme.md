@@ -100,6 +100,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211229T13:18:52Z | A random program generator for fuzzing WGSL | https://github.com/hasali19/WGSLsmith | 0 | 0| 
 | 20211229T13:15:43Z | Fuzzy Search Project to merge DataFrames. | https://github.com/rfolmedoa/fuzzy-search | 0 | 0| 
 | 20211229T13:09:01Z | Next-gen Rowhammer fuzzer that uses non-uniform, frequency-based patterns. | https://github.com/comsec-group/blacksmith | 152 | 16| 
 | 20211229T13:06:46Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1359 | 240| 
@@ -109,7 +110,6 @@
 | 20211229T12:19:12Z | Advent of code 2021 | https://github.com/amagdas/fuzzy-octo-robot | 0 | 0| 
 | 20211229T12:13:14Z | Null | https://github.com/mallika-bit/FuzzyFriendFinder- | 0 | 0| 
 | 20211229T12:08:36Z | Null | https://github.com/fuzzyextractor/fuzzyextractor-security | 0 | 0| 
-| 20211229T12:02:08Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 38 | 12| 
 
 
 
