@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211229T01:38:45Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211229T01:24:33Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
 | 20211229T01:14:06Z | CVE-2021-44228 | Null | https://github.com/rwincey/CVE-2021-44228-Log4j-Payloads | | 
 | 20211229T01:01:20Z | cve-2021-45232 | Null | https://github.com/Ilovewomen/cve-2021-45232 | | 
@@ -55,7 +56,6 @@
 | 20211228T14:37:33Z | CVE-2021-45232 | Null | https://github.com/badboycxcc/CVE-2021-45232-POC | | 
 | 20211228T14:12:26Z | CVE-2021-45232 | CVE-2021-45232  RCE | https://github.com/shakeman8/CVE-2021-45232-RCE | | 
 | 20211228T13:51:14Z | CVE-2021-45232 | CVE-2021-45232 | https://github.com/shakeman8/CVE-2021-45232 | | 
-| 20211228T13:50:33Z | CVE-2021-44228 | Fix: CVE-2021-44228 4LOGJ | https://github.com/tslenter/RS4LOGJ-CVE-2021-44228 | | 
 
 
 # klee on Github 推荐
@@ -91,8 +91,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211229T01:40:44Z | VPN Overall Reconnaissance, Testing, Enumeration and eXploitation Toolkit | https://github.com/klezVirus/vortex | 58 | 4| 
 | 20211229T01:35:37Z | Local file inclusion discovery and exploitation tool | https://github.com/hansmach1ne/lfimap | 5 | 0| 
-| 20211229T01:32:30Z | VPN Overall Reconnaissance, Testing, Enumeration and eXploitation Toolkit | https://github.com/klezVirus/vortex | 56 | 4| 
 | 20211229T01:03:43Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
 | 20211229T01:03:38Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 113 | 39| 
 | 20211229T00:46:03Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 17| 
