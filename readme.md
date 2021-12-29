@@ -80,12 +80,12 @@
 | 20211228T21:18:11Z | simple ruby windows backdoor | https://github.com/DioBruh/backdoor-windows | 6 | 0| 
 | 20211228T19:38:33Z | A Remote Administration Tool (RAT) | https://github.com/0xmanjoos/Pieta | 24 | 11| 
 | 20211228T18:32:53Z | Null | https://github.com/EjHvorSerDuVildUdJim/backdoor | 0 | 0| 
-| 20211228T13:54:59Z | Website Shell BackDoors | https://github.com/7r0j4ncodeing/Web-Shells | 23 | 7| 
 | 20211228T13:49:25Z | Auerswald COMpact 8.0B Backdoors exploit | https://github.com/419066074/CVE-2021-40859 | 0 | 2| 
 | 20211228T10:56:09Z | A simple remote tool written in C#.    一个简单的c#远控 | https://github.com/qwqdanchun/DcRat | 488 | 175| 
 | 20211228T09:30:18Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 402 | 70| 
 | 20211228T08:11:20Z | This is a Backdoor | https://github.com/anirbansanu/Hacking | 0 | 0| 
 | 20211228T06:47:09Z | Null | https://github.com/SantiagoPassafiume/PythonBackdoor | 0 | 0| 
+| 20211228T04:17:14Z | Database of backdoor passwords used by Malware, uncovered by the Malvuln project. | https://github.com/malvuln/viruscreds | 9 | 2| 
 
 
 # symbolic execution on Github 推荐
