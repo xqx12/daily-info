@@ -16,6 +16,7 @@
 | 20211229 | 攻击者利用 MSBuild 逃逸检测传播 Cobalt Strike | https://isc.sans.edu/diary/rss/28180| 
 | 20211229 | Talos 对 2021 年的恶意软件、网络攻击、重要漏洞的总结回顾 | http://blog.talosintelligence.com/2021/12/2021-looking-back-on-year-in-malware.html| 
 | 20211229 | Checkpoint 对 APT31 DoubleFeature 模块的分析 | https://sec.today/pulses/1fee4ffa-3f69-41b5-afb0-c2527f4806f1/| 
+| 20211229 | Checkpoint 对 APT31 DoubleFeature 模块的分析 | http://research.checkpoint.com/2021/a-deep-dive-into-doublefeature-equation-groups-post-exploitation-dashboard/| 
 | 20211228 | Lab M10. Integer Arithmetic Part 1: High-speed Multiplication and Division. | http://www.c-jump.com/CIS77/MLabs/M10arithmetic/lecture.html| 
 | 20211228 | 安全研究人员近期发现在Garrett 金属探测器的网络组件存在中多个安全漏洞，该漏洞对用户数据存在的安全威胁。 | https://thehackernews.com/2021/12/garrett-walk-through-metal-detectors.html| 
 | 20211227 | Windows 调试环境检测可用的 Flags | http://anti-debug.checkpoint.com/techniques/debug-flags.html| 
@@ -25,7 +26,6 @@
 | 20211227 | WELA - Windows 日志分析工具，用于取证分析和安全事件响应 | https://github.com/Yamato-Security/WELA/blob/main/README-English.md| 
 | 20211227 | KaynLdr - Reflective Loader written in C / ASM | https://github.com/Cracked5pider/KaynLdr| 
 | 20211227 | Nauz File Detector - 编译环境检测工具 | https://github.com/horsicq/Nauz-File-Detector| 
-| 20211227 | Nginx 环境中 PHP LFI 漏洞的利用 | http://bierbaumer.net/security/php-lfi-with-nginx-assistance/| 
 
 
 # 安全维基 推荐
@@ -91,16 +91,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211229T13:03:32Z | Exploiting CVE-2021-44228 in Unifi Network Application for remote code execution and more. | https://github.com/puzzlepeaches/Log4jUnifi | 0 | 0| 
+| 20211229T13:03:17Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
+| 20211229T13:01:33Z | An awesome Roblox Exploit for Roblox | https://github.com/Professor-Puddle/Roblox-Dev | 1 | 0| 
 | 20211229T12:56:49Z | Post-Exploitation :sunglasses: module for Penetration Tester and Hackers. | https://github.com/powerexploit/Powerexploit | 23 | 9| 
 | 20211229T12:49:38Z | VPN Overall Reconnaissance, Testing, Enumeration and eXploitation Toolkit | https://github.com/klezVirus/vortex | 102 | 8| 
 | 20211229T12:46:23Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6240 | 1469| 
 | 20211229T12:26:36Z | Advanced exploits that I wrote for Pwn2Own competitions and other occasions | https://github.com/badd1e/Pwn | 18 | 2| 
 | 20211229T12:23:10Z | This project is exploit for some docker containers with similar to vulnerability code: CVE-2020-35191 | https://github.com/megadimenex/MegaHiDocker | 1 | 0| 
 | 20211229T12:19:46Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 616 | 132| 
-| 20211229T12:17:38Z | An awesome Roblox Exploit for Roblox | https://github.com/Professor-Puddle/Roblox-Dev | 1 | 0| 
 | 20211229T12:04:27Z | Various write-ups and exploits | https://github.com/pjlantz/findings | 0 | 1| 
-| 20211229T12:03:43Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
-| 20211229T11:54:51Z | This repos contains C# class that are used in my exploit build because im lazy, nothing to see here ig? | https://github.com/OrbxGit/Orbx-Library | 0 | 0| 
 
 
 # backdoor on Github 推荐
