@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211229T02:43:38Z | CTF竞赛权威指南 | https://github.com/firmianay/CTF-All-In-One | 2816 | 564| 
 | 20211229T02:41:11Z | VPN Overall Reconnaissance, Testing, Enumeration and eXploitation Toolkit | https://github.com/klezVirus/vortex | 66 | 6| 
 | 20211229T02:33:58Z | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | 0 | 0| 
 | 20211229T02:31:33Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4205 | 596| 
@@ -100,7 +101,6 @@
 | 20211229T01:03:38Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 113 | 39| 
 | 20211229T00:46:03Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 17| 
 | 20211229T00:36:33Z | Linux/UX ultra complete profile | https://github.com/audioscavenger/exploit | 0 | 1| 
-| 20211229T00:34:24Z | demonstrate your ability to scan a computer for vulnerabilities, analyze those vulnerabilities for exploitability, execute exploits against a target computer, and create persistence. | https://github.com/dyeoell/Ethical-Hacking | 0 | 0| 
 
 
 # backdoor on Github 推荐
