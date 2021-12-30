@@ -94,7 +94,7 @@
 | 20211230T02:03:50Z | My TryHackMe writeups and notes  | https://github.com/dnts3110/TryHackMe-Writeups | 3 | 0| 
 | 20211230T02:03:40Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
 | 20211230T02:03:06Z | Patch for Waterfall to improve performance during attacks and fix memory issues. | https://github.com/2lstudios-mc/FlameCord | 92 | 47| 
-| 20211230T01:29:24Z | A personal collection of Windows CVE I have turned in to exploit source, as well as a collection of payloads I%ve written to be used in conjunction with these exploits. | https://github.com/forrest-orr/Exploits | 7 | 1| 
+| 20211230T01:29:24Z | A personal collection of Windows CVE I have turned in to exploit source, as well as a collection of payloads I%ve written to be used in conjunction with these exploits. | https://github.com/forrest-orr/Exploits | 7 | 2| 
 | 20211230T01:19:18Z | Random Roblox Hacks + My script hub | https://github.com/Banaanae/exploits | 0 | 0| 
 | 20211230T01:02:46Z | Linux/UX ultra complete profile | https://github.com/audioscavenger/exploit | 0 | 1| 
 | 20211230T00:56:22Z | Source codes of Windows API Exploitation for Red and Blue teams from Pentester Academy | https://github.com/tbhaxor/WinAPI-RedBlue | 0 | 0| 
@@ -147,6 +147,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211230T02:10:09Z | The fastest Intel-PT decoder for fuzzing | https://github.com/nyx-fuzz/libxdc | 244 | 30| 
 | 20211230T01:03:37Z | Simple Network Fuzzer in libafl | https://github.com/elbiazo/libafl_network_fuzzer | 0 | 0| 
 | 20211230T00:51:45Z | Null | https://github.com/harshilgandhi04/fuzzysearch | 0 | 0| 
 | 20211230T00:50:38Z | Null | https://github.com/BCIT-DDC/fuzzy-search-example | 0 | 0| 
@@ -156,7 +157,6 @@
 | 20211229T23:50:01Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 7 | 3| 
 | 20211229T23:40:34Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20211229T23:39:22Z | A repository for top fuzzing works in the literature. | https://github.com/PBearson/Fuzzing_Works | 1 | 0| 
-| 20211229T23:17:35Z | parsing btrfs disk image (WIP) for fuzzing fs inside usermode linux | https://github.com/docfate111/badfsfuzzer | 0 | 0| 
 
 
 
