@@ -147,6 +147,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211230T02:24:51Z | A java executable jar-file that shows space-time diagrams of 3-state 3-neighbor (fuzzy) CA. | https://github.com/ynishidacyjc1901/fuzzy33graphics | 0 | 0| 
 | 20211230T02:10:09Z | The fastest Intel-PT decoder for fuzzing | https://github.com/nyx-fuzz/libxdc | 244 | 30| 
 | 20211230T01:03:37Z | Simple Network Fuzzer in libafl | https://github.com/elbiazo/libafl_network_fuzzer | 0 | 0| 
 | 20211230T00:51:45Z | Null | https://github.com/harshilgandhi04/fuzzysearch | 0 | 0| 
@@ -156,7 +157,6 @@
 | 20211229T23:50:24Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6974 | 1462| 
 | 20211229T23:50:01Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 7 | 3| 
 | 20211229T23:40:34Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
-| 20211229T23:39:22Z | A repository for top fuzzing works in the literature. | https://github.com/PBearson/Fuzzing_Works | 1 | 0| 
 
 
 
