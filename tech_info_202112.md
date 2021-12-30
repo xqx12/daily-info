@@ -46,12 +46,12 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211230T02:23:19Z | cve-2021-45232 | Null | https://github.com/Ilovewomen/cve-2021-45232 | | 
 | 20211230T02:18:54Z | CVE-2021-44228 | A one-stop repo/  information hub for all log4j vulnerability-related information. | https://github.com/anuvindhs/how-to-check-patch-secure-log4j-CVE-2021-44228 | | 
 | 20211230T01:19:38Z | cve-2021-45232 | Null | https://github.com/wuppp/cve-2021-45232-exp | | 
 | 20211229T23:18:45Z | cve-2021-44228 | Ansible detector scanner playbook to verify target Linux hosts using the official Red Hat Log4j detector script RHSB-2021-009 Remote Code Execution - log4j (CVE-2021-44228) | https://github.com/lucab85/log4j-cve-2021-44228 | | 
 | 20211229T20:33:27Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211229T20:04:56Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
-| 20211229T17:52:33Z | cve-2021-45232 | Null | https://github.com/Ilovewomen/cve-2021-45232 | | 
 | 20211229T17:51:59Z | CVE-2021-45232 | Null | https://github.com/LTiDi2000/CVE-2021-45232 | | 
 | 20211229T15:28:42Z | CVE-2021-40859 | Auerswald VoIP System Secret Backdoors -PoC | https://github.com/pussycat0x/CVE-2021-40859 | | 
 | 20211229T13:55:40Z | CVE-2021-22204 | Null | https://github.com/trganda/CVE-2021-22204 | | 
@@ -91,8 +91,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211230T02:22:48Z | A personal collection of Windows CVE I have turned in to exploit source, as well as a collection of payloads I%ve written to be used in conjunction with these exploits. | https://github.com/forrest-orr/Exploits | 9 | 2| 
 | 20211230T02:14:48Z | My TryHackMe writeups and notes  | https://github.com/dnts3110/TryHackMe-Writeups | 3 | 0| 
-| 20211230T02:14:36Z | A personal collection of Windows CVE I have turned in to exploit source, as well as a collection of payloads I%ve written to be used in conjunction with these exploits. | https://github.com/forrest-orr/Exploits | 8 | 2| 
 | 20211230T02:03:40Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
 | 20211230T02:03:06Z | Patch for Waterfall to improve performance during attacks and fix memory issues. | https://github.com/2lstudios-mc/FlameCord | 92 | 48| 
 | 20211230T01:19:18Z | Random Roblox Hacks + My script hub | https://github.com/Banaanae/exploits | 0 | 0| 
