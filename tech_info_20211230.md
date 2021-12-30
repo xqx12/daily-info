@@ -102,6 +102,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211230T13:08:58Z | Easy-to-use web fuzzer, written in Go. | https://github.com/duxv/brutal | 6 | 0| 
 | 20211230T12:50:46Z | Ini adalah Program penyelesaian Logika Fuzzy untuk Matakuliah Kecerdasan Buatan  | https://github.com/diqimusyaffa29/fuzzylogic-tsukamoto-distribusi-raskin | 1 | 0| 
 | 20211230T12:50:07Z | Null | https://github.com/PPrydorozhnyi/fuzzy-controller | 0 | 0| 
 | 20211230T12:24:33Z | Null | https://github.com/yuki-yano/fuzzy-motion.vim | 18 | 1| 
@@ -111,7 +112,6 @@
 | 20211230T12:01:56Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 38 | 12| 
 | 20211230T11:48:34Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2342 | 454| 
 | 20211230T11:40:11Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
-| 20211230T11:39:56Z | Config files for my GitHub profile. | https://github.com/FuzzyVitec/FuzzyVitec | 0 | 0| 
 
 
 
