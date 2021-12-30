@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211230T02:26:37Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 619 | 133| 
 | 20211230T02:22:48Z | A personal collection of Windows CVE I have turned in to exploit source, as well as a collection of payloads I%ve written to be used in conjunction with these exploits. | https://github.com/forrest-orr/Exploits | 9 | 2| 
 | 20211230T02:14:48Z | My TryHackMe writeups and notes  | https://github.com/dnts3110/TryHackMe-Writeups | 3 | 0| 
 | 20211230T02:03:40Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
@@ -100,7 +101,6 @@
 | 20211230T00:56:22Z | Source codes of Windows API Exploitation for Red and Blue teams from Pentester Academy | https://github.com/tbhaxor/WinAPI-RedBlue | 0 | 0| 
 | 20211230T00:46:04Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 17| 
 | 20211230T00:19:10Z | A demonstration on how to exploit a Stored XSS vulnerability in https://dodavpn.net. | https://github.com/0x80000000/DodaVPN-Exploit-PoC | 0 | 0| 
-| 20211229T23:59:07Z | Craft PNG files that appear completely different in Apple software | https://github.com/DavidBuchanan314/ambiguous-png-packer | 908 | 30| 
 
 
 # backdoor on Github 推荐
