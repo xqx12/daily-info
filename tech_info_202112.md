@@ -91,6 +91,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211230T13:48:27Z | A discord tool to use bugs and exploits | https://github.com/RealMepon/DiscordTool | 2 | 0| 
+| 20211230T13:48:17Z | A Database of exploiters for a dead game with no anti cheat. | https://github.com/jnz-dev/PL-Exploiter-DB | 0 | 0| 
 | 20211230T13:41:25Z | some random exploits | https://github.com/0xC0LD/random-exploits | 0 | 0| 
 | 20211230T13:27:56Z | all pwn challenges exploit | https://github.com/pranavkrish04/inctfj2021quals | 0 | 0| 
 | 20211230T13:07:12Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 268 | 81| 
@@ -99,8 +101,6 @@
 | 20211230T12:36:15Z | Null | https://github.com/NewDevish/Exploit | 0 | 0| 
 | 20211230T12:26:15Z | CVE-2021-21972 Exploit | https://github.com/NS-Sp4ce/CVE-2021-21972 | 331 | 131| 
 | 20211230T12:16:23Z | A demonstration on how to exploit a Stored XSS vulnerability in https://dodavpn.net. | https://github.com/0x80000000/DodaVPN-Exploit-PoC | 1 | 1| 
-| 20211230T11:42:34Z | Null | https://github.com/AbuExploiter/Abu-Exploiter | 0 | 0| 
-| 20211230T11:31:55Z | Logical Space exploit | https://github.com/D-ENERGY/DevWiz | 0 | 0| 
 
 
 # backdoor on Github 推荐
