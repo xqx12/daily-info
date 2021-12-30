@@ -46,12 +46,12 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211230T13:55:45Z | cve-2021-45232 | Null | https://github.com/wuppp/cve-2021-45232-exp | | 
 | 20211230T13:24:18Z | CVE-2021-44832 | Null | https://github.com/cckuailong/log4j_RCE_CVE-2021-44832 | | 
 | 20211230T12:26:15Z | CVE-2021-21972 | CVE-2021-21972 Exploit | https://github.com/NS-Sp4ce/CVE-2021-21972 | | 
 | 20211230T11:14:36Z | CVE-2020-17087 | Null | https://github.com/Rinkal26/CVE-2020-17087 | | 
 | 20211230T08:22:20Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211230T07:32:26Z | CVE-2021-44228 | A one-stop repo/  information hub for all log4j vulnerability-related information. | https://github.com/anuvindhs/how-to-check-patch-secure-log4j-CVE-2021-44228 | | 
-| 20211230T07:23:57Z | cve-2021-45232 | Null | https://github.com/wuppp/cve-2021-45232-exp | | 
 | 20211230T04:21:15Z | CVE-2021-44228 | OpenIOC rules to facilitate hunting for indicators of compromise | https://github.com/fireeye/CVE-2021-44228 | | 
 | 20211230T04:08:22Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
 | 20211230T02:23:19Z | cve-2021-45232 | Null | https://github.com/Ilovewomen/cve-2021-45232 | | 
@@ -61,8 +61,8 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211230T13:55:34Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 3372 | 105| 
 | 20211230T13:40:39Z | modern regular expression syntax everywhere with a painless upgrade path | https://github.com/SonOfLilit/kleenexp | 33 | 4| 
-| 20211230T13:07:01Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 3371 | 105| 
 | 20211229T21:16:47Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1858 | 528| 
 | 20211229T14:26:46Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 5 | 0| 
 | 20211229T11:44:04Z | Null | https://github.com/KleePaimon/KleePaimon.github.io | 0 | 0| 
@@ -91,12 +91,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211230T14:03:08Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
 | 20211230T13:48:27Z | A discord tool to use bugs and exploits | https://github.com/RealMepon/DiscordTool | 2 | 0| 
 | 20211230T13:48:17Z | A Database of exploiters for a dead game with no anti cheat. | https://github.com/jnz-dev/PL-Exploiter-DB | 0 | 0| 
 | 20211230T13:41:25Z | some random exploits | https://github.com/0xC0LD/random-exploits | 0 | 0| 
 | 20211230T13:27:56Z | all pwn challenges exploit | https://github.com/pranavkrish04/inctfj2021quals | 0 | 0| 
 | 20211230T13:07:12Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 268 | 81| 
-| 20211230T13:03:18Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
 | 20211230T12:41:38Z | Null | https://github.com/ItzFinleyPlayz/RC-Exploit | 0 | 0| 
 | 20211230T12:36:15Z | Null | https://github.com/NewDevish/Exploit | 0 | 0| 
 | 20211230T12:26:15Z | CVE-2021-21972 Exploit | https://github.com/NS-Sp4ce/CVE-2021-21972 | 331 | 131| 
@@ -147,11 +147,11 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211230T14:03:59Z | Null | https://github.com/PPrydorozhnyi/fuzzy-controller | 0 | 0| 
 | 20211230T13:38:31Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211230T13:26:21Z | inverted pendulum fuzzy control python code (python 2.7.18) | https://github.com/arianmotti/inverted-pendulum-fuzzy-control- | 1 | 0| 
 | 20211230T13:21:41Z | Leetcode solutions. | https://github.com/chaitanyks/fuzzy-disco | 1 | 0| 
 | 20211230T13:18:12Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1138 | 48| 
-| 20211230T13:18:10Z | Null | https://github.com/PPrydorozhnyi/fuzzy-controller | 0 | 0| 
 | 20211230T13:08:58Z | Easy-to-use web fuzzer, written in Go. | https://github.com/duxv/brutal | 6 | 0| 
 | 20211230T12:50:46Z | Ini adalah Program penyelesaian Logika Fuzzy untuk Matakuliah Kecerdasan Buatan  | https://github.com/diqimusyaffa29/fuzzylogic-tsukamoto-distribusi-raskin | 1 | 0| 
 | 20211230T12:24:33Z | Null | https://github.com/yuki-yano/fuzzy-motion.vim | 18 | 1| 
