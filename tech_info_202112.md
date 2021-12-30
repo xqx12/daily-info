@@ -61,6 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211230T13:37:41Z | modern regular expression syntax everywhere with a painless upgrade path | https://github.com/SonOfLilit/kleenexp | 33 | 4| 
 | 20211230T13:07:01Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 3371 | 105| 
 | 20211229T21:16:47Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1858 | 528| 
 | 20211229T14:26:46Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 5 | 0| 
@@ -69,7 +70,6 @@
 | 20211228T12:33:44Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
 | 20211228T12:14:33Z | Null | https://github.com/seregeu/klee_modify | 0 | 0| 
 | 20211227T14:51:15Z | Null | https://github.com/theanmol-raj/kleen | 0 | 0| 
-| 20211227T08:47:39Z | modern regular expression syntax everywhere with a painless upgrade path | https://github.com/SonOfLilit/kleenexp | 33 | 4| 
 | 20211225T04:01:06Z | A rough transliteration of ls and grep from Toybox into Rust (with experimental KLEE symbolic verification setup) | https://github.com/inthewaves/toybox-rs-port | 0 | 0| 
 
 
@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211230T13:27:56Z | all pwn challenges exploit | https://github.com/pranavkrish04/inctfj2021quals | 0 | 0| 
 | 20211230T13:07:12Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 268 | 81| 
 | 20211230T13:03:18Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
 | 20211230T12:45:11Z | some random exploits | https://github.com/0xC0LD/random-exploits | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20211230T12:16:23Z | A demonstration on how to exploit a Stored XSS vulnerability in https://dodavpn.net. | https://github.com/0x80000000/DodaVPN-Exploit-PoC | 1 | 1| 
 | 20211230T11:42:34Z | Null | https://github.com/AbuExploiter/Abu-Exploiter | 0 | 0| 
 | 20211230T11:31:55Z | Logical Space exploit | https://github.com/D-ENERGY/DevWiz | 0 | 0| 
-| 20211230T11:22:10Z | Une exploitation de WikiData pour reconstruire les relations entre les établissements de l%ESR. | https://github.com/cpesr/wikidataESR | 10 | 1| 
 
 
 # backdoor on Github 推荐
@@ -147,6 +147,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211230T13:38:31Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20211230T13:26:21Z | inverted pendulum fuzzy control python code (python 2.7.18) | https://github.com/arianmotti/inverted-pendulum-fuzzy-control- | 1 | 0| 
 | 20211230T13:21:41Z | Leetcode solutions. | https://github.com/chaitanyks/fuzzy-disco | 1 | 0| 
 | 20211230T13:18:12Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1138 | 48| 
 | 20211230T13:18:10Z | Null | https://github.com/PPrydorozhnyi/fuzzy-controller | 0 | 0| 
@@ -155,8 +157,6 @@
 | 20211230T12:24:33Z | Null | https://github.com/yuki-yano/fuzzy-motion.vim | 18 | 1| 
 | 20211230T12:18:35Z | 开源、轻量、快速、跨平台 的网站漏洞扫描工具，帮助您快速检测网站安全隐患。功能 端口扫描(port scan) 指纹识别(fingerprint) 漏洞检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | 353 | 52| 
 | 20211230T12:07:23Z | Null | https://github.com/Potat0000/AutoFuzzer | 1 | 0| 
-| 20211230T12:02:28Z | Generate a wordlist to fuzz amounts or any other numerical values. | https://github.com/ivan-sincek/amounts | 2 | 1| 
-| 20211230T12:01:56Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 38 | 12| 
 
 
 
