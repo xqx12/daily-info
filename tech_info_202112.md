@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211230T12:56:52Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 3370 | 105| 
+| 20211230T13:07:01Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 3371 | 105| 
 | 20211229T21:16:47Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1858 | 528| 
 | 20211229T14:26:46Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 5 | 0| 
 | 20211229T11:44:04Z | Null | https://github.com/KleePaimon/KleePaimon.github.io | 0 | 0| 
@@ -91,8 +91,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211230T13:07:12Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 268 | 81| 
 | 20211230T13:03:18Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
-| 20211230T12:54:31Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 267 | 81| 
 | 20211230T12:45:11Z | some random exploits | https://github.com/0xC0LD/random-exploits | 0 | 0| 
 | 20211230T12:41:38Z | Null | https://github.com/ItzFinleyPlayz/RC-Exploit | 0 | 0| 
 | 20211230T12:36:15Z | Null | https://github.com/NewDevish/Exploit | 0 | 0| 
@@ -106,7 +106,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211230T12:01:24Z | Use it | https://github.com/alicebrown8938/Advanced-backdoor | 0 | 0| 
+| 20211230T13:06:02Z | Use it | https://github.com/alicebrown8938/Advanced-backdoor | 0 | 0| 
 | 20211230T09:17:21Z | Script en base Python2 para crear una puerta trasera en un equipo Linux y Windows, con la que podrás tener un menú de opciones. | https://github.com/SrMai/BackDoor | 0 | 0| 
 | 20211230T08:48:15Z | Null | https://github.com/yanicksenn/backdoor | 0 | 0| 
 | 20211230T08:07:10Z | Null | https://github.com/lksj51790q/backdoor-assisted-target-agnostic-attack | 0 | 0| 
@@ -121,16 +121,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211230T12:30:51Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 18 | 5| 
+| 20211230T03:20:57Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 751 | 102| 
 | 20211230T02:34:35Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1949 | 405| 
 | 20211230T02:30:43Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2605 | 385| 
 | 20211230T01:46:25Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 346 | 28| 
 | 20211230T01:41:20Z | Symbolic executor for the Move programming language. | https://github.com/fEst1ck/move-symbolic-execution | 0 | 0| 
 | 20211230T01:09:28Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 11 | 5| 
-| 20211229T21:16:47Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1858 | 527| 
+| 20211229T21:16:47Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1858 | 528| 
 | 20211228T23:56:34Z | History of symbolic execution (as well as SAT/SMT solving, fuzzing, and taint data tracking) | https://github.com/enzet/symbolic-execution | 412 | 57| 
 | 20211228T14:59:12Z | RAUK: Automatic Schedulability Analysis of RTIC Applications Using Symbolic Execution | https://github.com/markhakansson/master-thesis | 5 | 0| 
-| 20211228T13:57:35Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 750 | 102| 
-| 20211228T10:34:54Z | Symbolica%s open-source symbolic execution engine. | https://github.com/Symbolica/Symbolica | 47 | 3| 
 
 
 # big4 on Github 推荐
