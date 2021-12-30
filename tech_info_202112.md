@@ -147,11 +147,11 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211230T02:41:23Z | Null | https://github.com/BCIT-DDC/fuzzy-search-example | 0 | 0| 
 | 20211230T02:24:51Z | A java executable jar-file that shows space-time diagrams of 3-state 3-neighbor (fuzzy) CA. | https://github.com/ynishidacyjc1901/fuzzy33graphics | 0 | 0| 
 | 20211230T02:10:09Z | The fastest Intel-PT decoder for fuzzing | https://github.com/nyx-fuzz/libxdc | 244 | 30| 
 | 20211230T01:03:37Z | Simple Network Fuzzer in libafl | https://github.com/elbiazo/libafl_network_fuzzer | 0 | 0| 
 | 20211230T00:51:45Z | Null | https://github.com/harshilgandhi04/fuzzysearch | 0 | 0| 
-| 20211230T00:50:38Z | Null | https://github.com/BCIT-DDC/fuzzy-search-example | 0 | 0| 
 | 20211230T00:31:33Z | Null | https://github.com/allexks/FuzzyKit | 0 | 0| 
 | 20211229T23:52:07Z | A random program generator for fuzzing WGSL | https://github.com/hasali19/WGSLsmith | 0 | 0| 
 | 20211229T23:50:24Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6974 | 1462| 
