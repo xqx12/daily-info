@@ -147,6 +147,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211230T13:21:41Z | Leetcode solutions. | https://github.com/chaitanyks/fuzzy-disco | 1 | 0| 
 | 20211230T13:18:12Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1138 | 48| 
 | 20211230T13:18:10Z | Null | https://github.com/PPrydorozhnyi/fuzzy-controller | 0 | 0| 
 | 20211230T13:08:58Z | Easy-to-use web fuzzer, written in Go. | https://github.com/duxv/brutal | 6 | 0| 
@@ -156,7 +157,6 @@
 | 20211230T12:07:23Z | Null | https://github.com/Potat0000/AutoFuzzer | 1 | 0| 
 | 20211230T12:02:28Z | Generate a wordlist to fuzz amounts or any other numerical values. | https://github.com/ivan-sincek/amounts | 2 | 1| 
 | 20211230T12:01:56Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 38 | 12| 
-| 20211230T11:48:34Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2342 | 454| 
 
 
 
