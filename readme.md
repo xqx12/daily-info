@@ -33,8 +33,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211230T13:24:18Z | CVE-2021-44832 | Null | https://github.com/cckuailong/log4j_RCE_CVE-2021-44832 | | 
 | 20211230T12:26:15Z | CVE-2021-21972 | CVE-2021-21972 Exploit | https://github.com/NS-Sp4ce/CVE-2021-21972 | | 
-| 20211230T12:11:30Z | CVE-2021-44832 | Null | https://github.com/cckuailong/log4j_RCE_CVE-2021-44832 | | 
 | 20211230T11:14:36Z | CVE-2020-17087 | Null | https://github.com/Rinkal26/CVE-2020-17087 | | 
 | 20211230T08:22:20Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211230T07:32:26Z | CVE-2021-44228 | A one-stop repo/  information hub for all log4j vulnerability-related information. | https://github.com/anuvindhs/how-to-check-patch-secure-log4j-CVE-2021-44228 | | 
