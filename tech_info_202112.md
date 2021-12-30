@@ -129,7 +129,7 @@
 | 20211229T21:16:47Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1858 | 527| 
 | 20211228T23:56:34Z | History of symbolic execution (as well as SAT/SMT solving, fuzzing, and taint data tracking) | https://github.com/enzet/symbolic-execution | 412 | 57| 
 | 20211228T14:59:12Z | RAUK: Automatic Schedulability Analysis of RTIC Applications Using Symbolic Execution | https://github.com/markhakansson/master-thesis | 5 | 0| 
-| 20211228T13:57:35Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 750 | 101| 
+| 20211228T13:57:35Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 750 | 102| 
 | 20211228T10:34:54Z | Symbolica%s open-source symbolic execution engine. | https://github.com/Symbolica/Symbolica | 47 | 3| 
 
 
