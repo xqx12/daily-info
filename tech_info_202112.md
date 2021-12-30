@@ -147,8 +147,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211230T14:12:06Z | Null | https://github.com/PPrydorozhnyi/fuzzy-controller | 0 | 0| 
 | 20211230T14:07:59Z | Null | https://github.com/Potat0000/AutoFuzzer | 1 | 0| 
-| 20211230T14:03:59Z | Null | https://github.com/PPrydorozhnyi/fuzzy-controller | 0 | 0| 
 | 20211230T13:38:31Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211230T13:26:21Z | inverted pendulum fuzzy control python code (python 2.7.18) | https://github.com/arianmotti/inverted-pendulum-fuzzy-control- | 1 | 0| 
 | 20211230T13:21:41Z | Leetcode solutions. | https://github.com/chaitanyks/fuzzy-disco | 1 | 0| 
