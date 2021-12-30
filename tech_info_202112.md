@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211230T02:18:54Z | CVE-2021-44228 | A one-stop repo/  information hub for all log4j vulnerability-related information. | https://github.com/anuvindhs/how-to-check-patch-secure-log4j-CVE-2021-44228 | | 
 | 20211230T01:19:38Z | cve-2021-45232 | Null | https://github.com/wuppp/cve-2021-45232-exp | | 
 | 20211229T23:18:45Z | cve-2021-44228 | Ansible detector scanner playbook to verify target Linux hosts using the official Red Hat Log4j detector script RHSB-2021-009 Remote Code Execution - log4j (CVE-2021-44228) | https://github.com/lucab85/log4j-cve-2021-44228 | | 
 | 20211229T20:33:27Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
@@ -55,7 +56,6 @@
 | 20211229T15:28:42Z | CVE-2021-40859 | Auerswald VoIP System Secret Backdoors -PoC | https://github.com/pussycat0x/CVE-2021-40859 | | 
 | 20211229T13:55:40Z | CVE-2021-22204 | Null | https://github.com/trganda/CVE-2021-22204 | | 
 | 20211229T11:59:14Z | CVE-2021-45232 | CVE-2021-45232 POC | https://github.com/Ifory885/CVE-2021-45232 | | 
-| 20211229T11:58:44Z | CVE-2021-20837 | XMLRPC  - RCE in MovableTypePoC | https://github.com/thomsdev/CVE-2021-20837 | | 
 
 
 # klee on Github 推荐
