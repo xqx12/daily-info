@@ -59,9 +59,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211230T14:16:46Z | A Database of exploiters for a dead game with no anti cheat. | https://github.com/jnz-dev/PL-Exploiter-DB | 0 | 0| 
 | 20211230T14:03:08Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
 | 20211230T13:48:27Z | A discord tool to use bugs and exploits | https://github.com/RealMepon/DiscordTool | 2 | 0| 
-| 20211230T13:48:17Z | A Database of exploiters for a dead game with no anti cheat. | https://github.com/jnz-dev/PL-Exploiter-DB | 0 | 0| 
 | 20211230T13:41:25Z | some random exploits | https://github.com/0xC0LD/random-exploits | 0 | 0| 
 | 20211230T13:27:56Z | all pwn challenges exploit | https://github.com/pranavkrish04/inctfj2021quals | 0 | 0| 
 | 20211230T13:07:12Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 268 | 81| 
@@ -103,10 +103,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211230T14:15:00Z | inverted pendulum fuzzy control python code (python 2.7.18) | https://github.com/arianmotti/inverted-pendulum-fuzzy-control- | 1 | 0| 
 | 20211230T14:12:06Z | Null | https://github.com/PPrydorozhnyi/fuzzy-controller | 0 | 0| 
 | 20211230T14:07:59Z | Null | https://github.com/Potat0000/AutoFuzzer | 1 | 0| 
 | 20211230T13:38:31Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20211230T13:26:21Z | inverted pendulum fuzzy control python code (python 2.7.18) | https://github.com/arianmotti/inverted-pendulum-fuzzy-control- | 1 | 0| 
 | 20211230T13:21:41Z | Leetcode solutions. | https://github.com/chaitanyks/fuzzy-disco | 1 | 0| 
 | 20211230T13:18:12Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1138 | 48| 
 | 20211230T13:08:58Z | Easy-to-use web fuzzer, written in Go. | https://github.com/duxv/brutal | 6 | 0| 
