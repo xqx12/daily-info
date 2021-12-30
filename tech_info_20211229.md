@@ -58,7 +58,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20211229T23:59:07Z | Craft PNG files that appear completely different in Apple software | https://github.com/DavidBuchanan314/ambiguous-png-packer | 908 | 30| 
-| 20211229T23:56:58Z | A personal collection of Windows CVE I have turned in to exploit source, as well as a collection of payloads I%ve written to be used in conjunction with these exploits. | https://github.com/forrest-orr/Exploits | 6 | 0| 
 | 20211229T23:42:51Z | Codes from Hacking: The Art of Exploitation book. By Jon Erickson. | https://github.com/edupazzz/Hacking-The-Art-of-Exploitation-Book | 0 | 0| 
 | 20211229T23:17:03Z | T8012 Data Transfer Setup Tool - A tool that mounts the internal storage of a T2 machine as a volume. Particularly useful when that machine is inoperable or not functioning due to bad graphics or processor (provided the boards faults aren%t shorting out lines that power the FLASH or the T2 co-processor). Based on PyBoot and the checkm8 exploit. .  | https://github.com/mcampetta/t8012-DTS | 0 | 0| 
 | 20211229T23:11:35Z | This is a repo for the coding done for CTFs / exploits. The writeups are here: https://github.com/dillonwu-97/csec_writeups | https://github.com/dillonwu-97/csec-code | 0 | 0| 
@@ -67,6 +66,7 @@
 | 20211229T22:23:15Z | In this repo I experiment witj Log4j vulnerability | https://github.com/hurynovich/log4j-shell-exploit | 0 | 0| 
 | 20211229T22:08:23Z | Binary Exploitation Labs | https://github.com/jmpshell/BinEx | 1 | 0| 
 | 20211229T22:04:58Z | A collection of awesome software, libraries, learning tutorials, documents and books, awesome resources and cool stuff about ARM and Windows Exploitation. | https://github.com/paulveillard/cybersecurity-windows-exploitation | 0 | 0| 
+| 20211229T22:01:24Z | catalog / index images, expose interface for exploitation | https://github.com/arossi1/photobook | 0 | 0| 
 
 
 # backdoor on Github 推荐
