@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211230T01:02:46Z | Linux/UX ultra complete profile | https://github.com/audioscavenger/exploit | 0 | 1| 
 | 20211230T00:56:22Z | Source codes of Windows API Exploitation for Red and Blue teams from Pentester Academy | https://github.com/tbhaxor/WinAPI-RedBlue | 0 | 0| 
 | 20211230T00:46:04Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 17| 
 | 20211230T00:19:10Z | A demonstration on how to exploit a Stored XSS vulnerability in https://dodavpn.net. | https://github.com/0x80000000/DodaVPN-Exploit-PoC | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20211229T23:42:51Z | Codes from Hacking: The Art of Exploitation book. By Jon Erickson. | https://github.com/edupazzz/Hacking-The-Art-of-Exploitation-Book | 0 | 0| 
 | 20211229T23:17:03Z | T8012 Data Transfer Setup Tool - A tool that mounts the internal storage of a T2 machine as a volume. Particularly useful when that machine is inoperable or not functioning due to bad graphics or processor (provided the boards faults aren%t shorting out lines that power the FLASH or the T2 co-processor). Based on PyBoot and the checkm8 exploit. .  | https://github.com/mcampetta/t8012-DTS | 0 | 0| 
 | 20211229T23:11:35Z | This is a repo for the coding done for CTFs / exploits. The writeups are here: https://github.com/dillonwu-97/csec_writeups | https://github.com/dillonwu-97/csec-code | 0 | 0| 
-| 20211229T22:41:35Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 322 | 803| 
 
 
 # backdoor on Github 推荐
@@ -121,9 +121,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211230T00:39:59Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 11 | 5| 
+| 20211229T21:16:47Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1858 | 527| 
 | 20211229T09:50:23Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1948 | 405| 
-| 20211229T08:27:54Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1857 | 526| 
-| 20211229T02:04:20Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 11 | 5| 
 | 20211228T23:56:34Z | History of symbolic execution (as well as SAT/SMT solving, fuzzing, and taint data tracking) | https://github.com/enzet/symbolic-execution | 412 | 57| 
 | 20211228T23:51:01Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2604 | 385| 
 | 20211228T23:01:15Z | Symbolic executor for the Move programming language. | https://github.com/fEst1ck/move-symbolic-execution | 0 | 0| 
@@ -147,6 +147,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211230T01:03:37Z | Simple Network Fuzzer in libafl | https://github.com/elbiazo/libafl_network_fuzzer | 0 | 0| 
 | 20211230T00:51:45Z | Null | https://github.com/harshilgandhi04/fuzzysearch | 0 | 0| 
 | 20211230T00:50:38Z | Null | https://github.com/BCIT-DDC/fuzzy-search-example | 0 | 0| 
 | 20211230T00:31:33Z | Null | https://github.com/allexks/FuzzyKit | 0 | 0| 
@@ -156,7 +157,6 @@
 | 20211229T23:40:34Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20211229T23:39:22Z | A repository for top fuzzing works in the literature. | https://github.com/PBearson/Fuzzing_Works | 1 | 0| 
 | 20211229T23:17:35Z | parsing btrfs disk image (WIP) for fuzzing fs inside usermode linux | https://github.com/docfate111/badfsfuzzer | 0 | 0| 
-| 20211229T23:16:53Z | Fuzzing for Roughenough, a Rust implementation of the Roughtime secure time sync protocol | https://github.com/int08h/roughenough-fuzz | 9 | 1| 
 
 
 
