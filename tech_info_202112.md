@@ -46,10 +46,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20211230T02:55:40Z | cve-2021-45232 | Null | https://github.com/wuppp/cve-2021-45232-exp | | 
 | 20211230T02:32:46Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211230T02:23:19Z | cve-2021-45232 | Null | https://github.com/Ilovewomen/cve-2021-45232 | | 
 | 20211230T02:18:54Z | CVE-2021-44228 | A one-stop repo/  information hub for all log4j vulnerability-related information. | https://github.com/anuvindhs/how-to-check-patch-secure-log4j-CVE-2021-44228 | | 
-| 20211230T01:19:38Z | cve-2021-45232 | Null | https://github.com/wuppp/cve-2021-45232-exp | | 
 | 20211229T23:18:45Z | cve-2021-44228 | Ansible detector scanner playbook to verify target Linux hosts using the official Red Hat Log4j detector script RHSB-2021-009 Remote Code Execution - log4j (CVE-2021-44228) | https://github.com/lucab85/log4j-cve-2021-44228 | | 
 | 20211229T20:04:56Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
 | 20211229T17:51:59Z | CVE-2021-45232 | Null | https://github.com/LTiDi2000/CVE-2021-45232 | | 
