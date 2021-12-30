@@ -147,6 +147,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211230T14:07:59Z | Null | https://github.com/Potat0000/AutoFuzzer | 1 | 0| 
 | 20211230T14:03:59Z | Null | https://github.com/PPrydorozhnyi/fuzzy-controller | 0 | 0| 
 | 20211230T13:38:31Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211230T13:26:21Z | inverted pendulum fuzzy control python code (python 2.7.18) | https://github.com/arianmotti/inverted-pendulum-fuzzy-control- | 1 | 0| 
@@ -156,7 +157,6 @@
 | 20211230T12:50:46Z | Ini adalah Program penyelesaian Logika Fuzzy untuk Matakuliah Kecerdasan Buatan  | https://github.com/diqimusyaffa29/fuzzylogic-tsukamoto-distribusi-raskin | 1 | 0| 
 | 20211230T12:24:33Z | Null | https://github.com/yuki-yano/fuzzy-motion.vim | 18 | 1| 
 | 20211230T12:18:35Z | 开源、轻量、快速、跨平台 的网站漏洞扫描工具，帮助您快速检测网站安全隐患。功能 端口扫描(port scan) 指纹识别(fingerprint) 漏洞检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | 353 | 52| 
-| 20211230T12:07:23Z | Null | https://github.com/Potat0000/AutoFuzzer | 1 | 0| 
 
 
 
