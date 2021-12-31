@@ -111,13 +111,13 @@
 | 20211230T23:56:20Z | fuzzy-logic-v1 | https://github.com/RaheemAbol/fuzzy-logic-v1 | 0 | 0| 
 | 20211230T23:53:34Z | Simple exploit y fuzzer para TRUN de VULNSERVER | https://github.com/peritoflores/simplevulnservertrun | 0 | 0| 
 | 20211230T23:35:29Z | bash script to run from installation media to setup gentoo automagically | https://github.com/fjp321/fuzzy-goggles | 0 | 0| 
-| 20211230T23:31:58Z | Best Weather App | https://github.com/steepllama/fuzzy-weather | 0 | 0| 
 | 20211230T23:23:02Z | Null | https://github.com/Mohamed0890/fuzzy-octo-parakeet | 0 | 0| 
 | 20211230T22:46:18Z | Null | https://github.com/LJ-Jiahe/fuzzy_measure_fusion | 0 | 0| 
 | 20211230T22:37:22Z | Null | https://github.com/AdamKorcz/go-118-fuzz-build | 0 | 0| 
 | 20211230T21:57:49Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1139 | 48| 
 | 20211230T20:54:12Z | Collection of utility code for Python | https://github.com/fuzzyray/fuzzy_utils | 0 | 0| 
 | 20211230T20:50:39Z | Null | https://github.com/BCIT-DDC/fuzzy-search-example | 1 | 0| 
+| 20211230T20:32:50Z | A standalone sample test that can be fuzzed using JQF+Zest | https://github.com/rohanpadhye/jqf-zest-example | 0 | 0| 
 
 
 

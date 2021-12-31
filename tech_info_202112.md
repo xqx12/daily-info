@@ -147,6 +147,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211231T02:20:24Z | Best Weather App | https://github.com/steepllama/fuzzy-weather | 0 | 0| 
 | 20211231T02:13:18Z | Just an alternate tool for searching through Chrome bookmarks when you have many. | https://github.com/MaverickMartyn/FuzzyBookmarkBrowser | 0 | 0| 
 | 20211231T01:39:15Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211231T01:37:22Z | Kernel Fuzzer for Xen Project (KF/x) - Hypervisor-based fuzzing using Xen VM forking, VMI & AFL | https://github.com/intel/kernel-fuzzer-for-xen-project | 381 | 55| 
@@ -156,7 +157,6 @@
 | 20211231T00:47:25Z | Null | https://github.com/dm4sec/ioctl_fuzzer | 0 | 0| 
 | 20211231T00:27:53Z | Null | https://github.com/allexks/FuzzyKit | 0 | 0| 
 | 20211231T00:13:00Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 38 | 12| 
-| 20211230T23:56:20Z | fuzzy-logic-v1 | https://github.com/RaheemAbol/fuzzy-logic-v1 | 0 | 0| 
 
 
 
