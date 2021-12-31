@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211231T02:02:04Z | cve-2021-45232 | Null | https://github.com/morhax/cve-2021-45232-rce | | 
+| 20211231T02:04:00Z | cve-2021-45232 | Null | https://github.com/morhax/cve-2021-45232-rce | | 
 | 20211231T02:01:53Z | cve-2021-45232 | Null | https://github.com/wuppp/cve-2021-45232-exp | | 
 | 20211231T00:00:24Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
 | 20211230T20:29:05Z | CVE-2021-44832 | CVE-2021-44832 | https://github.com/DanielRuf/CVE-2021-44832 | | 
