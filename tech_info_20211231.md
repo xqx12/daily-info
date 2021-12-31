@@ -65,13 +65,23 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211231T01:53:56Z | Null | https://github.com/Ramirez1001/backdoor | 0 | 0| 
+| 20211231T12:57:46Z | This program is an opensource, hidden and undetectable backdoor/reverse shell/RAT for Windows made in Python 3 which contains many features such as multi-client support and cross-platform server. | https://github.com/xp4xbox/Python-Backdoor | 471 | 172| 
+| 20211231T12:44:58Z | Null | https://github.com/Cybrient/BackdoorLogin | 0 | 0| 
+| 20211231T11:36:42Z | Base Calif Edit By Zorg / Sans Triggers ni backdoor - compatible tous script esx | https://github.com/CodeGamesFR/Calif-By-Zorg | 1 | 0| 
+| 20211231T11:28:01Z | Made a python backdoor file and connect to a remote shell! | https://github.com/Toxic-Omega/CmdBackdoor | 0 | 0| 
+| 20211231T08:19:06Z | Null | https://github.com/THUYimingLi/BackdoorBox | 9 | 4| 
+| 20211231T06:42:14Z | A simple remote tool written in C#.    一个简单的c#远控 | https://github.com/qwqdanchun/DcRat | 494 | 177| 
+| 20211231T04:31:41Z | A quick, easily-deployed backdoor that prioritizes convenience above stealth. Ideal for CTFs, simulations, and practice runs where silence is not a factor.  | https://github.com/rootabeta/sidearm | 0 | 0| 
+| 20211231T03:00:41Z | Null | https://github.com/Ramirez1001/backdoor | 0 | 0| 
 | 20211231T01:40:14Z | Script en base Python2 para crear una puerta trasera en un equipo Linux y Windows, con la que podrás tener un menú de opciones. | https://github.com/SrMai/BackDoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211231T08:46:29Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1950 | 406| 
+| 20211231T06:37:54Z | History of symbolic execution (as well as SAT/SMT solving, fuzzing, and taint data tracking) | https://github.com/enzet/symbolic-execution | 413 | 57| 
+| 20211231T06:18:40Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1861 | 528| 
 | 20211231T01:04:45Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2606 | 386| 
 
 

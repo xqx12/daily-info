@@ -106,31 +106,31 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211231T01:53:56Z | Null | https://github.com/Ramirez1001/backdoor | 0 | 0| 
+| 20211231T12:57:46Z | This program is an opensource, hidden and undetectable backdoor/reverse shell/RAT for Windows made in Python 3 which contains many features such as multi-client support and cross-platform server. | https://github.com/xp4xbox/Python-Backdoor | 471 | 172| 
+| 20211231T12:44:58Z | Null | https://github.com/Cybrient/BackdoorLogin | 0 | 0| 
+| 20211231T11:36:42Z | Base Calif Edit By Zorg / Sans Triggers ni backdoor - compatible tous script esx | https://github.com/CodeGamesFR/Calif-By-Zorg | 1 | 0| 
+| 20211231T11:28:01Z | Made a python backdoor file and connect to a remote shell! | https://github.com/Toxic-Omega/CmdBackdoor | 0 | 0| 
+| 20211231T08:19:06Z | Null | https://github.com/THUYimingLi/BackdoorBox | 9 | 4| 
+| 20211231T06:42:14Z | A simple remote tool written in C#.    一个简单的c#远控 | https://github.com/qwqdanchun/DcRat | 494 | 177| 
+| 20211231T04:31:41Z | A quick, easily-deployed backdoor that prioritizes convenience above stealth. Ideal for CTFs, simulations, and practice runs where silence is not a factor.  | https://github.com/rootabeta/sidearm | 0 | 0| 
+| 20211231T03:00:41Z | Null | https://github.com/Ramirez1001/backdoor | 0 | 0| 
 | 20211231T01:40:14Z | Script en base Python2 para crear una puerta trasera en un equipo Linux y Windows, con la que podrás tener un menú de opciones. | https://github.com/SrMai/BackDoor | 0 | 0| 
-| 20211230T23:10:26Z | This program is an opensource, hidden and undetectable backdoor/reverse shell/RAT for Windows made in Python 3 which contains many features such as multi-client support and cross-platform server. | https://github.com/xp4xbox/Python-Backdoor | 470 | 172| 
 | 20211230T22:57:30Z | Null | https://github.com/lksj51790q/backdoor-assisted-target-agnostic-attack | 0 | 0| 
-| 20211230T21:01:05Z | A simple remote tool written in C#.    一个简单的c#远控 | https://github.com/qwqdanchun/DcRat | 492 | 177| 
-| 20211230T20:14:01Z | Accomplishing the goal of maintaining access to a target machine by installing a backdoor. | https://github.com/ldover29/Advanced_Bash | 0 | 0| 
-| 20211230T13:06:02Z | Use it | https://github.com/alicebrown8938/Advanced-backdoor | 0 | 0| 
-| 20211230T08:48:15Z | Null | https://github.com/yanicksenn/backdoor | 0 | 0| 
-| 20211230T06:50:14Z | Remote control software, supported Windows/Unix/MacOS/Linux(x86/x64/mips/arm) | https://github.com/h1zzz/purewater | 5 | 0| 
-| 20211230T02:55:02Z | I created this script to help make it easier for you to directly attack index.php on the website | https://github.com/SourCode-Z/Shell-Backdoor | 3 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211231T08:46:29Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1950 | 406| 
+| 20211231T06:37:54Z | History of symbolic execution (as well as SAT/SMT solving, fuzzing, and taint data tracking) | https://github.com/enzet/symbolic-execution | 413 | 57| 
+| 20211231T06:18:40Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1861 | 528| 
 | 20211231T01:04:45Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2606 | 386| 
 | 20211230T18:08:05Z | Code for the use cases presented in the paper Symbion: Interleaving Symbolic with Concrete Execution | https://github.com/degrigis/symbion-use-cases | 8 | 2| 
 | 20211230T17:41:13Z | RAUK: Automatic Schedulability Analysis of RTIC Applications Using Symbolic Execution | https://github.com/markhakansson/master-thesis | 5 | 0| 
 | 20211230T16:42:01Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 11 | 5| 
-| 20211230T16:10:07Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1860 | 528| 
 | 20211230T15:21:53Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 347 | 28| 
 | 20211230T12:30:51Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 18 | 5| 
 | 20211230T03:20:57Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 751 | 102| 
-| 20211230T02:34:35Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1949 | 405| 
-| 20211230T01:41:20Z | Symbolic executor for the Move programming language. | https://github.com/fEst1ck/move-symbolic-execution | 0 | 0| 
 
 
 # big4 on Github 推荐
