@@ -46,24 +46,24 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211230T13:55:45Z | cve-2021-45232 | Null | https://github.com/wuppp/cve-2021-45232-exp | | 
+| 20211231T00:00:24Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
+| 20211230T21:20:31Z | cve-2021-45232 | Null | https://github.com/morhax/cve-2021-45232-rce | | 
+| 20211230T20:29:05Z | CVE-2021-44832 | CVE-2021-44832 | https://github.com/DanielRuf/CVE-2021-44832 | | 
+| 20211230T19:17:02Z | cve-2021-45232 | Null | https://github.com/wuppp/cve-2021-45232-exp | | 
+| 20211230T16:13:01Z | cve-2021-44228 | Null | https://github.com/aws-samples/kubernetes-log4j-cve-2021-44228-node-agent | | 
+| 20211230T15:28:21Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211230T13:24:18Z | CVE-2021-44832 | Null | https://github.com/cckuailong/log4j_RCE_CVE-2021-44832 | | 
 | 20211230T12:26:15Z | CVE-2021-21972 | CVE-2021-21972 Exploit | https://github.com/NS-Sp4ce/CVE-2021-21972 | | 
 | 20211230T11:14:36Z | CVE-2020-17087 | Null | https://github.com/Rinkal26/CVE-2020-17087 | | 
-| 20211230T08:22:20Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20211230T07:32:26Z | CVE-2021-44228 | A one-stop repo/  information hub for all log4j vulnerability-related information. | https://github.com/anuvindhs/how-to-check-patch-secure-log4j-CVE-2021-44228 | | 
-| 20211230T04:21:15Z | CVE-2021-44228 | OpenIOC rules to facilitate hunting for indicators of compromise | https://github.com/fireeye/CVE-2021-44228 | | 
-| 20211230T04:08:22Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
-| 20211230T02:23:19Z | cve-2021-45232 | Null | https://github.com/Ilovewomen/cve-2021-45232 | | 
-| 20211229T23:18:45Z | cve-2021-44228 | Ansible detector scanner playbook to verify target Linux hosts using the official Red Hat Log4j detector script RHSB-2021-009 Remote Code Execution - log4j (CVE-2021-44228) | https://github.com/lucab85/log4j-cve-2021-44228 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211230T14:27:16Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1859 | 528| 
+| 20211230T22:57:22Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 3377 | 105| 
+| 20211230T16:10:07Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1860 | 528| 
 | 20211230T14:12:19Z | modern regular expression syntax everywhere with a painless upgrade path | https://github.com/SonOfLilit/kleenexp | 33 | 4| 
-| 20211230T13:55:34Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 3372 | 105| 
 | 20211229T14:26:46Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 5 | 0| 
 | 20211229T11:44:04Z | Null | https://github.com/KleePaimon/KleePaimon.github.io | 0 | 0| 
 | 20211228T15:02:52Z | Null | https://github.com/kocherizhka/-Saint-Petersburg---Kleeva- | 0 | 0| 
@@ -76,9 +76,9 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211230T14:45:15Z | CRAX++: software CRash analysis for Automatic eXploit generation | https://github.com/aesophor/CRAXplusplus | 27 | 3| 
 | 20211228T18:30:01Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 2 | 0| 
 | 20211228T18:30:00Z | Documents for Spacecraft Simulation Environment | https://github.com/ut-issl/s2e-documents | 2 | 0| 
-| 20211228T03:35:49Z | CRAX++: software CRash analysis for Automatic eXploit generation | https://github.com/aesophor/CRAXplusplus | 26 | 3| 
 | 20211226T07:17:02Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 193 | 41| 
 | 20211220T16:27:39Z | Linux kernels (CGC DECREE and vanilla) with S2E extensions | https://github.com/S2E/s2e-linux-kernel | 16 | 5| 
 | 20211218T16:24:46Z | Null | https://github.com/saku31114/s2explab | 0 | 0| 
@@ -91,31 +91,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211230T14:16:46Z | A Database of exploiters for a dead game with no anti cheat. | https://github.com/jnz-dev/PL-Exploiter-DB | 0 | 0| 
-| 20211230T14:03:08Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
-| 20211230T13:48:27Z | A discord tool to use bugs and exploits | https://github.com/RealMepon/DiscordTool | 2 | 0| 
-| 20211230T13:41:25Z | some random exploits | https://github.com/0xC0LD/random-exploits | 0 | 0| 
-| 20211230T13:27:56Z | all pwn challenges exploit | https://github.com/pranavkrish04/inctfj2021quals | 0 | 0| 
-| 20211230T13:07:12Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 268 | 81| 
-| 20211230T12:41:38Z | Null | https://github.com/ItzFinleyPlayz/RC-Exploit | 0 | 0| 
-| 20211230T12:36:15Z | Null | https://github.com/NewDevish/Exploit | 0 | 0| 
-| 20211230T12:26:15Z | CVE-2021-21972 Exploit | https://github.com/NS-Sp4ce/CVE-2021-21972 | 331 | 131| 
-| 20211230T12:16:23Z | A demonstration on how to exploit a Stored XSS vulnerability in https://dodavpn.net. | https://github.com/0x80000000/DodaVPN-Exploit-PoC | 1 | 1| 
+| 20211231T00:46:05Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 17| 
+| 20211231T00:20:51Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6244 | 1469| 
+| 20211231T00:17:13Z | A github repository made for roblox exploiting, my discord server is linked below if you wanted it! Enjoy lol | https://github.com/NoTelling/obf-scripts | 1 | 0| 
+| 20211231T00:13:37Z | A cheat sheet that contains common enumeration and attack methods for Windows Active Directory. | https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet | 2497 | 600| 
+| 20211231T00:11:00Z | T8012 Data Transfer Setup Tool - A tool that mounts the internal storage of a T2 machine as a volume. Particularly useful when that machine is inoperable or not functioning due to bad graphics or processor (provided the boards faults aren%t shorting out lines that power the FLASH or the T2 co-processor). Based on PyBoot and the checkm8 exploit. .  | https://github.com/mcampetta/t8012-DTS | 0 | 0| 
+| 20211231T00:03:59Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
+| 20211231T00:00:24Z | WIP Post-exploitation framework tailored for hypervisors. | https://github.com/Psmths/reave | 3 | 3| 
+| 20211231T00:00:24Z | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | 4 | 1| 
+| 20211230T23:57:25Z | My TryHackMe writeups and notes  | https://github.com/dnts3110/TryHackMe-Writeups | 3 | 0| 
+| 20211230T23:54:29Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 268 | 81| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211230T23:59:52Z | Script en base Python2 para crear una puerta trasera en un equipo Linux y Windows, con la que podrás tener un menú de opciones. | https://github.com/SrMai/BackDoor | 0 | 0| 
+| 20211230T23:10:26Z | This program is an opensource, hidden and undetectable backdoor/reverse shell/RAT for Windows made in Python 3 which contains many features such as multi-client support and cross-platform server. | https://github.com/xp4xbox/Python-Backdoor | 470 | 172| 
+| 20211230T22:57:30Z | Null | https://github.com/lksj51790q/backdoor-assisted-target-agnostic-attack | 0 | 0| 
+| 20211230T21:01:05Z | A simple remote tool written in C#.    一个简单的c#远控 | https://github.com/qwqdanchun/DcRat | 492 | 177| 
+| 20211230T20:14:01Z | Accomplishing the goal of maintaining access to a target machine by installing a backdoor. | https://github.com/ldover29/Advanced_Bash | 0 | 0| 
+| 20211230T18:53:51Z | Null | https://github.com/Ramirez1001/backdoor | 0 | 0| 
 | 20211230T13:06:02Z | Use it | https://github.com/alicebrown8938/Advanced-backdoor | 0 | 0| 
-| 20211230T09:17:21Z | Script en base Python2 para crear una puerta trasera en un equipo Linux y Windows, con la que podrás tener un menú de opciones. | https://github.com/SrMai/BackDoor | 0 | 0| 
 | 20211230T08:48:15Z | Null | https://github.com/yanicksenn/backdoor | 0 | 0| 
-| 20211230T08:07:10Z | Null | https://github.com/lksj51790q/backdoor-assisted-target-agnostic-attack | 0 | 0| 
-| 20211230T07:20:21Z | A simple remote tool written in C#.    一个简单的c#远控 | https://github.com/qwqdanchun/DcRat | 493 | 177| 
 | 20211230T06:50:14Z | Remote control software, supported Windows/Unix/MacOS/Linux(x86/x64/mips/arm) | https://github.com/h1zzz/purewater | 5 | 0| 
 | 20211230T02:55:02Z | I created this script to help make it easier for you to directly attack index.php on the website | https://github.com/SourCode-Z/Shell-Backdoor | 3 | 0| 
-| 20211229T21:17:50Z | Null | https://github.com/Ramirez1001/backdoor | 0 | 0| 
-| 20211229T19:09:20Z | Allowing server admins to backdoor their own server! | https://github.com/CloudOn9/DiscordBackdoorBot | 1 | 0| 
-| 20211229T18:41:52Z | This program is an non-object oriented opensource, hidden and undetectable backdoor/reverse shell/RAT for Windows made in Python 3 which contains many features such as multi-client support and cross-platform server. | https://github.com/xp4xbox/Python-Backdoor | 469 | 171| 
 
 
 # symbolic execution on Github 推荐
@@ -147,16 +147,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211230T14:21:58Z | inverted pendulum fuzzy control python code (python 2.7.18) | https://github.com/arianmotti/inverted-pendulum-fuzzy-control- | 1 | 0| 
-| 20211230T14:12:06Z | Null | https://github.com/PPrydorozhnyi/fuzzy-controller | 0 | 0| 
-| 20211230T14:07:59Z | Null | https://github.com/Potat0000/AutoFuzzer | 1 | 0| 
-| 20211230T13:38:31Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20211230T13:21:41Z | Leetcode solutions. | https://github.com/chaitanyks/fuzzy-disco | 1 | 0| 
-| 20211230T13:18:12Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1138 | 48| 
-| 20211230T13:08:58Z | Easy-to-use web fuzzer, written in Go. | https://github.com/duxv/brutal | 6 | 0| 
-| 20211230T12:50:46Z | Ini adalah Program penyelesaian Logika Fuzzy untuk Matakuliah Kecerdasan Buatan  | https://github.com/diqimusyaffa29/fuzzylogic-tsukamoto-distribusi-raskin | 1 | 0| 
-| 20211230T12:24:33Z | Null | https://github.com/yuki-yano/fuzzy-motion.vim | 18 | 1| 
-| 20211230T12:18:35Z | 开源、轻量、快速、跨平台 的网站漏洞扫描工具，帮助您快速检测网站安全隐患。功能 端口扫描(port scan) 指纹识别(fingerprint) 漏洞检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | 353 | 52| 
+| 20211231T00:47:25Z | Null | https://github.com/dm4sec/ioctl_fuzzer | 0 | 0| 
+| 20211231T00:35:42Z | Just an alternate tool for searching through Chrome bookmarks when you have many. | https://github.com/MaverickMartyn/FuzzyBookmarkBrowser | 0 | 0| 
+| 20211231T00:27:53Z | Null | https://github.com/allexks/FuzzyKit | 0 | 0| 
+| 20211231T00:13:00Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 38 | 12| 
+| 20211231T00:05:53Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 903 | 138| 
+| 20211230T23:56:20Z | fuzzy-logic-v1 | https://github.com/RaheemAbol/fuzzy-logic-v1 | 0 | 0| 
+| 20211230T23:53:34Z | Simple exploit y fuzzer para TRUN de VULNSERVER | https://github.com/peritoflores/simplevulnservertrun | 0 | 0| 
+| 20211230T23:35:29Z | bash script to run from installation media to setup gentoo automagically | https://github.com/fjp321/fuzzy-goggles | 0 | 0| 
+| 20211230T23:31:58Z | Best Weather App | https://github.com/steepllama/fuzzy-weather | 0 | 0| 
+| 20211230T23:23:02Z | Null | https://github.com/Mohamed0890/fuzzy-octo-parakeet | 0 | 0| 
 
 
 
