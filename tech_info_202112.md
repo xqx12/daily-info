@@ -147,6 +147,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211231T01:09:06Z | Null | https://github.com/SimDrone/fuzzy-spoon | 0 | 0| 
 | 20211231T01:03:45Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 904 | 138| 
 | 20211231T00:47:25Z | Null | https://github.com/dm4sec/ioctl_fuzzer | 0 | 0| 
 | 20211231T00:35:42Z | Just an alternate tool for searching through Chrome bookmarks when you have many. | https://github.com/MaverickMartyn/FuzzyBookmarkBrowser | 0 | 0| 
@@ -156,7 +157,6 @@
 | 20211230T23:53:34Z | Simple exploit y fuzzer para TRUN de VULNSERVER | https://github.com/peritoflores/simplevulnservertrun | 0 | 0| 
 | 20211230T23:35:29Z | bash script to run from installation media to setup gentoo automagically | https://github.com/fjp321/fuzzy-goggles | 0 | 0| 
 | 20211230T23:31:58Z | Best Weather App | https://github.com/steepllama/fuzzy-weather | 0 | 0| 
-| 20211230T23:23:02Z | Null | https://github.com/Mohamed0890/fuzzy-octo-parakeet | 0 | 0| 
 
 
 
