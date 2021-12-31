@@ -46,9 +46,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20211231T01:48:21Z | cve-2021-45232 | Null | https://github.com/wuppp/cve-2021-45232-exp | | 
+| 20211231T02:02:04Z | cve-2021-45232 | Null | https://github.com/morhax/cve-2021-45232-rce | | 
+| 20211231T02:01:53Z | cve-2021-45232 | Null | https://github.com/wuppp/cve-2021-45232-exp | | 
 | 20211231T00:00:24Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
-| 20211230T21:20:31Z | cve-2021-45232 | Null | https://github.com/morhax/cve-2021-45232-rce | | 
 | 20211230T20:29:05Z | CVE-2021-44832 | CVE-2021-44832 | https://github.com/DanielRuf/CVE-2021-44832 | | 
 | 20211230T16:13:01Z | cve-2021-44228 | Null | https://github.com/aws-samples/kubernetes-log4j-cve-2021-44228-node-agent | | 
 | 20211230T15:28:21Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
@@ -91,8 +91,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211231T02:03:28Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
 | 20211231T01:39:59Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6244 | 1470| 
-| 20211231T01:03:34Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
 | 20211231T00:46:05Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 17| 
 | 20211231T00:17:13Z | A github repository made for roblox exploiting, my discord server is linked below if you wanted it! Enjoy lol | https://github.com/NoTelling/obf-scripts | 1 | 0| 
 | 20211231T00:13:37Z | A cheat sheet that contains common enumeration and attack methods for Windows Active Directory. | https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet | 2497 | 600| 
