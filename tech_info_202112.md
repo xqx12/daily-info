@@ -147,6 +147,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211231T01:39:15Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211231T01:37:22Z | Kernel Fuzzer for Xen Project (KF/x) - Hypervisor-based fuzzing using Xen VM forking, VMI & AFL | https://github.com/intel/kernel-fuzzer-for-xen-project | 381 | 55| 
 | 20211231T01:35:58Z | practicing fuzzing things with LibAFL | https://github.com/docfate111/fuzzing-practice | 0 | 0| 
 | 20211231T01:09:06Z | Null | https://github.com/SimDrone/fuzzy-spoon | 0 | 0| 
@@ -156,7 +157,6 @@
 | 20211231T00:27:53Z | Null | https://github.com/allexks/FuzzyKit | 0 | 0| 
 | 20211231T00:13:00Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 38 | 12| 
 | 20211230T23:56:20Z | fuzzy-logic-v1 | https://github.com/RaheemAbol/fuzzy-logic-v1 | 0 | 0| 
-| 20211230T23:53:34Z | Simple exploit y fuzzer para TRUN de VULNSERVER | https://github.com/peritoflores/simplevulnservertrun | 0 | 0| 
 
 
 
