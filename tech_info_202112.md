@@ -91,7 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211231T01:06:52Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6243 | 1470| 
+| 20211231T01:39:59Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6244 | 1470| 
 | 20211231T01:03:34Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
 | 20211231T00:46:05Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 17| 
 | 20211231T00:17:13Z | A github repository made for roblox exploiting, my discord server is linked below if you wanted it! Enjoy lol | https://github.com/NoTelling/obf-scripts | 1 | 0| 
