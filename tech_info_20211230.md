@@ -77,7 +77,6 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211230T23:59:52Z | Script en base Python2 para crear una puerta trasera en un equipo Linux y Windows, con la que podrás tener un menú de opciones. | https://github.com/SrMai/BackDoor | 0 | 0| 
 | 20211230T23:10:26Z | This program is an opensource, hidden and undetectable backdoor/reverse shell/RAT for Windows made in Python 3 which contains many features such as multi-client support and cross-platform server. | https://github.com/xp4xbox/Python-Backdoor | 470 | 172| 
 | 20211230T22:57:30Z | Null | https://github.com/lksj51790q/backdoor-assisted-target-agnostic-attack | 0 | 0| 
 | 20211230T21:01:05Z | A simple remote tool written in C#.    一个简单的c#远控 | https://github.com/qwqdanchun/DcRat | 492 | 177| 
