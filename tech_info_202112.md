@@ -147,8 +147,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211231T02:23:43Z | Just an alternate tool for searching through Chrome bookmarks when you have many. | https://github.com/MaverickMartyn/FuzzyBookmarkBrowser | 0 | 0| 
 | 20211231T02:20:24Z | Best Weather App | https://github.com/steepllama/fuzzy-weather | 0 | 0| 
-| 20211231T02:13:18Z | Just an alternate tool for searching through Chrome bookmarks when you have many. | https://github.com/MaverickMartyn/FuzzyBookmarkBrowser | 0 | 0| 
 | 20211231T01:39:15Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211231T01:37:22Z | Kernel Fuzzer for Xen Project (KF/x) - Hypervisor-based fuzzing using Xen VM forking, VMI & AFL | https://github.com/intel/kernel-fuzzer-for-xen-project | 381 | 55| 
 | 20211231T01:35:58Z | practicing fuzzing things with LibAFL | https://github.com/docfate111/fuzzing-practice | 0 | 0| 
