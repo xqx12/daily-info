@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211231T02:39:24Z | 致远OA综合利用工具 | https://github.com/linshaoSec/SeeyonExploit-GUI | 22 | 8| 
 | 20211231T02:38:35Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6245 | 1470| 
 | 20211231T02:03:28Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
 | 20211231T00:46:05Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 17| 
@@ -100,7 +101,6 @@
 | 20211231T00:00:24Z | WIP Post-exploitation framework tailored for hypervisors. | https://github.com/Psmths/reave | 3 | 3| 
 | 20211231T00:00:24Z | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | 4 | 1| 
 | 20211230T23:57:25Z | My TryHackMe writeups and notes  | https://github.com/dnts3110/TryHackMe-Writeups | 3 | 0| 
-| 20211230T23:54:29Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 268 | 81| 
 
 
 # backdoor on Github 推荐
