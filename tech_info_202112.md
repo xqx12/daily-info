@@ -147,6 +147,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211231T02:40:08Z | Null | https://github.com/mallika-bit/FuzzyFriendFinder- | 0 | 0| 
 | 20211231T02:23:43Z | Just an alternate tool for searching through Chrome bookmarks when you have many. | https://github.com/MaverickMartyn/FuzzyBookmarkBrowser | 0 | 0| 
 | 20211231T02:20:24Z | Best Weather App | https://github.com/steepllama/fuzzy-weather | 0 | 0| 
 | 20211231T01:39:15Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
@@ -156,7 +157,6 @@
 | 20211231T01:03:45Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 904 | 139| 
 | 20211231T00:47:25Z | Null | https://github.com/dm4sec/ioctl_fuzzer | 0 | 0| 
 | 20211231T00:27:53Z | Null | https://github.com/allexks/FuzzyKit | 0 | 0| 
-| 20211231T00:13:00Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 38 | 12| 
 
 
 
