@@ -121,6 +121,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211231T01:04:45Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2606 | 385| 
 | 20211230T18:08:05Z | Code for the use cases presented in the paper Symbion: Interleaving Symbolic with Concrete Execution | https://github.com/degrigis/symbion-use-cases | 8 | 2| 
 | 20211230T17:41:13Z | RAUK: Automatic Schedulability Analysis of RTIC Applications Using Symbolic Execution | https://github.com/markhakansson/master-thesis | 5 | 0| 
 | 20211230T16:42:01Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 11 | 5| 
@@ -129,7 +130,6 @@
 | 20211230T12:30:51Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 18 | 5| 
 | 20211230T03:20:57Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 751 | 102| 
 | 20211230T02:34:35Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1949 | 405| 
-| 20211230T02:30:43Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2605 | 385| 
 | 20211230T01:41:20Z | Symbolic executor for the Move programming language. | https://github.com/fEst1ck/move-symbolic-execution | 0 | 0| 
 
 
@@ -147,11 +147,11 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20211231T01:03:45Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 904 | 138| 
 | 20211231T00:47:25Z | Null | https://github.com/dm4sec/ioctl_fuzzer | 0 | 0| 
 | 20211231T00:35:42Z | Just an alternate tool for searching through Chrome bookmarks when you have many. | https://github.com/MaverickMartyn/FuzzyBookmarkBrowser | 0 | 0| 
 | 20211231T00:27:53Z | Null | https://github.com/allexks/FuzzyKit | 0 | 0| 
 | 20211231T00:13:00Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 38 | 12| 
-| 20211231T00:05:53Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 903 | 138| 
 | 20211230T23:56:20Z | fuzzy-logic-v1 | https://github.com/RaheemAbol/fuzzy-logic-v1 | 0 | 0| 
 | 20211230T23:53:34Z | Simple exploit y fuzzer para TRUN de VULNSERVER | https://github.com/peritoflores/simplevulnservertrun | 0 | 0| 
 | 20211230T23:35:29Z | bash script to run from installation media to setup gentoo automagically | https://github.com/fjp321/fuzzy-goggles | 0 | 0| 
