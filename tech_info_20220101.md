@@ -44,6 +44,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220101T13:38:21Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 274 | 83| 
 | 20220101T13:33:54Z | Gonna share my writeups and resources here | https://github.com/jopraveen/exploit-development | 10 | 7| 
 | 20220101T13:33:27Z | Exploits for various CVEs | https://github.com/TheMirkin/CVE-List-Public-Exploits | 0 | 0| 
 | 20220101T13:27:48Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10508 | 1808| 
@@ -51,7 +52,6 @@
 | 20220101T13:03:05Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
 | 20220101T12:50:37Z | Null | https://github.com/AlienX2001/DnsAdmin-to-System-exploit | 0 | 0| 
 | 20220101T12:41:20Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITION | 2 | 0| 
-| 20220101T11:47:58Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 273 | 82| 
 | 20220101T11:36:37Z | Learn Binary Exploitation with sample problems. | https://github.com/Adamkadaban/LearnPwn | 1 | 0| 
 | 20220101T10:12:45Z | Linux/UX ultra complete profile | https://github.com/audioscavenger/exploit | 0 | 1| 
 
