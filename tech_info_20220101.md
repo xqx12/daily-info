@@ -81,11 +81,11 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220101T13:46:22Z | Null | https://github.com/Potat0000/AutoFuzzer | 1 | 0| 
 | 20220101T13:17:44Z | Penetration-List is the supplement for Tester. It contains Ever single type of vulnerabilites Material used during Penetration Testing. The list includes Pyaloads, dorks, Fuzzing Materials, and many more. And We also provide theory Sections about every vulnerability in deep that found in applications on medium | https://github.com/AlbusSec/Penetration-List | 0 | 0| 
 | 20220101T13:02:34Z | Null | https://github.com/allexks/FuzzyKit | 0 | 0| 
 | 20220101T12:58:05Z | A tool to extract tables from .docx files | https://github.com/LeonardoSirino/FuzzyTableExtractor | 0 | 0| 
 | 20220101T12:02:07Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 38 | 12| 
-| 20220101T11:55:11Z | Null | https://github.com/Potat0000/AutoFuzzer | 1 | 0| 
 | 20220101T11:42:06Z | Null | https://github.com/TANKIANAUN/FuzzyAssignment | 0 | 0| 
 | 20220101T11:38:49Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20220101T11:31:09Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
