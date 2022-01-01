@@ -147,7 +147,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211231T23:35:07Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20211231T23:23:31Z | n this work, a neuro-fuzzy system (NFS)-based autonomous and adaptive controller termed as the hybrid auto-adaptive controller (HAC) is developed. HAC combines a simplified NFS (Simp_NFS) and a simplified neural network (Simp_NN). Unlike conventional NFS, in this study, hyper-plane-shaped clusters (HPSCs) are utilized in Simp_NFS, which has no learning parameters like mean and variance in the antecedent part. Only the consequent parameter needs to be adapted, where the adaptation laws are derived from the Simp_NN. The number of learning parameters in Simp_NN reduced to one by replacing the weights between the hidden and output layers with their mean value.  | https://github.com/ahmadjordan/Neuro_fuzzy | 1 | 0| 
 | 20211231T20:50:13Z | bash script to run from installation media to setup gentoo automagically | https://github.com/fjp321/fuzzy-goggles | 0 | 0| 
 | 20211231T20:31:21Z | Null | https://github.com/rfuzzo/FuzzoBot | 1 | 0| 
@@ -157,6 +156,7 @@
 | 20211231T18:55:16Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2409 | 480| 
 | 20211231T18:51:36Z | A repository for top fuzzing works in the literature. | https://github.com/PBearson/Fuzzing_Works | 1 | 0| 
 | 20211231T18:45:45Z | Null | https://github.com/metrocitypost1/fuzzy-octo-dollop | 0 | 0| 
+| 20211231T18:42:25Z | setup for fuzzing the Rust compiler | https://github.com/dwrensha/fuzz-rustc | 35 | 0| 
 
 
 
