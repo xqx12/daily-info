@@ -40,7 +40,6 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211231T20:32:26Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 3388 | 105| 
 | 20211231T14:50:48Z | Null | https://github.com/KleePaimon/KleePaimon.github.io | 0 | 0| 
 | 20211231T06:30:21Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 5 | 0| 
 | 20211231T06:18:40Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1861 | 528| 

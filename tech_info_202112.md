@@ -61,7 +61,6 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20211231T20:32:26Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 3388 | 105| 
 | 20211231T14:50:48Z | Null | https://github.com/KleePaimon/KleePaimon.github.io | 0 | 0| 
 | 20211231T06:30:21Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 5 | 0| 
 | 20211231T06:18:40Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1861 | 528| 
@@ -71,6 +70,7 @@
 | 20211228T12:14:33Z | Null | https://github.com/seregeu/klee_modify | 0 | 0| 
 | 20211227T14:51:15Z | Null | https://github.com/theanmol-raj/kleen | 0 | 0| 
 | 20211225T04:01:06Z | A rough transliteration of ls and grep from Toybox into Rust (with experimental KLEE symbolic verification setup) | https://github.com/inthewaves/toybox-rs-port | 0 | 0| 
+| 20211222T02:12:23Z | Null | https://github.com/lindsayp30/emp_KLEEMEX | 0 | 0| 
 
 
 # s2e on Github 推荐
