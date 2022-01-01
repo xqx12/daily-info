@@ -59,12 +59,18 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220101T12:53:20Z | Website Shell BackDoors ( collection of internet ) | https://github.com/7r0j4ncodeing/Web-Shells | 23 | 7| 
+| 20220101T11:47:53Z | Ecchi Mini Shell | https://github.com/dmzhari/miniecchi | 0 | 2| 
+| 20220101T11:01:26Z | Simple DDL that add a user to the local Administrators group | https://github.com/notdodo/adduser-dll | 0 | 0| 
+| 20220101T10:59:58Z | C# project to use when dealing with privilege escalation on Windows to gain local administrator access | https://github.com/notdodo/LocalAdminSharp | 0 | 0| 
+| 20220101T03:41:19Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 403 | 71| 
 | 20220101T02:33:36Z | I created this script to help make it easier for you to directly attack index.php on the website | https://github.com/pencuricode/shell-backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220101T12:29:10Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2608 | 386| 
 
 
 # big4 on Github 推荐
