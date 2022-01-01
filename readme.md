@@ -44,6 +44,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220101T13:33:54Z | Gonna share my writeups and resources here | https://github.com/jopraveen/exploit-development | 10 | 7| 
+| 20220101T13:33:27Z | Exploits for various CVEs | https://github.com/TheMirkin/CVE-List-Public-Exploits | 0 | 0| 
 | 20220101T13:27:48Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10508 | 1808| 
 | 20220101T13:24:41Z | Null | https://github.com/joeengo/exploiting | 0 | 1| 
 | 20220101T13:03:05Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
@@ -52,8 +54,6 @@
 | 20220101T11:47:58Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 273 | 82| 
 | 20220101T11:36:37Z | Learn Binary Exploitation with sample problems. | https://github.com/Adamkadaban/LearnPwn | 1 | 0| 
 | 20220101T10:12:45Z | Linux/UX ultra complete profile | https://github.com/audioscavenger/exploit | 0 | 1| 
-| 20220101T09:58:07Z | CVE 자료 공부 및 Exploit 작성 레포 | https://github.com/Haruster/Haruster-CVE-Note | 1 | 0| 
-| 20220101T09:53:56Z | A Head Full of Exploits | https://github.com/param373r/param373r | 1 | 0| 
 
 
 # backdoor on Github 推荐
@@ -70,7 +70,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220101T12:29:10Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2608 | 386| 
+| 20220101T13:31:54Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2609 | 386| 
 
 
 # big4 on Github 推荐
