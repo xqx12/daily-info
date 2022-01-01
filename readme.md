@@ -17,11 +17,11 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220101T13:05:00Z | CVE-2021-44228 | 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - A trick to bypass words blocking patches | https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words | | 
 | 20220101T12:29:28Z | CVE-2021-40906 | Null | https://github.com/Edgarloyola/CVE-2021-40906 | | 
 | 20220101T12:27:43Z | CVE-2021-40904 | Null | https://github.com/Edgarloyola/CVE-2021-40904 | | 
 | 20220101T12:23:21Z | CVE-2021-40905 | Null | https://github.com/Edgarloyola/CVE-2021-40905 | | 
 | 20220101T10:17:48Z | 未知编号 | Check and report for cve_2021_44228 (log4shell) on your system. | https://github.com/robertdebock/ansible-role-cve_2021_44228 | | 
-| 20220101T10:15:56Z | CVE-2021-44228 | 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - A trick to bypass words blocking patches | https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words | | 
 | 20220101T08:41:24Z | CVE-2021-21972 | CVE-2021-21972 Exploit | https://github.com/NS-Sp4ce/CVE-2021-21972 | | 
 | 20220101T08:11:05Z | cve-2021-45232 | Null | https://github.com/wuppp/cve-2021-45232-exp | | 
 | 20220101T04:24:27Z | 未知编号 | Null | https://github.com/secureITmania/2021-cve-animes | | 
