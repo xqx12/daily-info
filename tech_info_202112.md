@@ -95,12 +95,12 @@
 | 20211231T23:27:58Z | Codes from Hacking: The Art of Exploitation book. By Jon Erickson. | https://github.com/edupazzz/Hacking-The-Art-of-Exploitation-Book | 0 | 0| 
 | 20211231T23:13:59Z | Null | https://github.com/Darek1337/Darek-s-Exploit | 0 | 0| 
 | 20211231T23:05:57Z | This is the repository for a website highlighting the exploits of the WRC Group A era. | https://github.com/rockybullish/group-a-rally | 0 | 0| 
-| 20211231T22:17:55Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 271 | 82| 
 | 20211231T21:54:57Z | catalog / index images, expose interface for exploitation | https://github.com/arossi1/photobook | 0 | 0| 
 | 20211231T21:27:21Z | Null | https://github.com/Noizeeee/Exploits | 0 | 0| 
 | 20211231T20:44:02Z | MC Plugin that blocks Bedrock players from abusing the Bedrock Speedbridge exploit | https://github.com/Budderman18/AntiBedrockBridge | 0 | 0| 
 | 20211231T20:03:38Z | Just a basic exploit. | https://github.com/ilzroo/functionexploit | 0 | 0| 
 | 20211231T19:03:44Z | A collection of awesome software, libraries, learning tutorials, documents and books, awesome resources and cool stuff about ARM and Windows Exploitation. | https://github.com/paulveillard/cybersecurity-windows-exploitation | 1 | 0| 
+| 20211231T18:56:15Z | Exploitation Tool | https://github.com/0RaMsY0/ramsy | 1 | 0| 
 
 
 # backdoor on Github 推荐
