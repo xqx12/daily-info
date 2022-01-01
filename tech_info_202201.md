@@ -44,9 +44,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220101T13:03:05Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
 | 20220101T12:50:37Z | Null | https://github.com/AlienX2001/DnsAdmin-to-System-exploit | 0 | 0| 
 | 20220101T12:41:20Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITION | 2 | 0| 
-| 20220101T12:03:18Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
 | 20220101T11:47:58Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 273 | 82| 
 | 20220101T11:36:37Z | Learn Binary Exploitation with sample problems. | https://github.com/Adamkadaban/LearnPwn | 1 | 0| 
 | 20220101T11:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10507 | 1808| 
@@ -81,6 +81,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220101T13:02:34Z | Null | https://github.com/allexks/FuzzyKit | 0 | 0| 
 | 20220101T12:58:05Z | A tool to extract tables from .docx files | https://github.com/LeonardoSirino/FuzzyTableExtractor | 0 | 0| 
 | 20220101T12:02:07Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 38 | 12| 
 | 20220101T11:55:11Z | Null | https://github.com/Potat0000/AutoFuzzer | 1 | 0| 
@@ -90,7 +91,6 @@
 | 20220101T10:57:31Z | Web application fuzzer | https://github.com/xmendez/wfuzz | 4143 | 1082| 
 | 20220101T10:55:18Z | :pig: Tiny and fast fuzzy search in Go | https://github.com/lithammer/fuzzysearch | 706 | 40| 
 | 20220101T10:44:45Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2410 | 480| 
-| 20220101T09:59:55Z | Null | https://github.com/ganaiemudasir05/Intuitionistic-fuzzy-random-vector-functional-link-network | 0 | 0| 
 
 
 
