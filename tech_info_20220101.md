@@ -44,6 +44,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220101T13:24:41Z | Null | https://github.com/joeengo/exploiting | 0 | 1| 
 | 20220101T13:03:05Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
 | 20220101T12:50:37Z | Null | https://github.com/AlienX2001/DnsAdmin-to-System-exploit | 0 | 0| 
 | 20220101T12:41:20Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITION | 2 | 0| 
@@ -53,13 +54,12 @@
 | 20220101T10:12:45Z | Linux/UX ultra complete profile | https://github.com/audioscavenger/exploit | 0 | 1| 
 | 20220101T09:58:07Z | CVE 자료 공부 및 Exploit 작성 레포 | https://github.com/Haruster/Haruster-CVE-Note | 1 | 0| 
 | 20220101T09:53:56Z | A Head Full of Exploits | https://github.com/param373r/param373r | 1 | 0| 
-| 20220101T09:12:01Z | Collection  of Capture the Flag Write-Ups: Exploit Dev, Reverse Engineering, Pentesting | https://github.com/francobel/CTF-Writeups | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220101T13:19:22Z | Website Shell BackDoors ( collection of internet ) | https://github.com/7r0j4ncodeing/Web-Shells | 23 | 7| 
+| 20220101T13:24:22Z | Website Shell BackDoors ( collection of internet ) | https://github.com/7r0j4ncodeing/Web-Shells | 23 | 7| 
 | 20220101T11:47:53Z | Ecchi Mini Shell | https://github.com/dmzhari/miniecchi | 0 | 2| 
 | 20220101T11:01:26Z | Simple DDL that add a user to the local Administrators group | https://github.com/notdodo/adduser-dll | 0 | 0| 
 | 20220101T10:59:58Z | C# project to use when dealing with privilege escalation on Windows to gain local administrator access | https://github.com/notdodo/LocalAdminSharp | 0 | 0| 
