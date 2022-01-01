@@ -44,7 +44,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220101T13:55:42Z | This repos contains C# class that are used in my exploit build because im lazy, nothing to see here ig? | https://github.com/OrbxGit/Orbx-Library | 0 | 1| 
+| 20220101T13:58:03Z | This repos contains C# class that are used in my exploit build because im lazy, nothing to see here ig? | https://github.com/OrbxGit/Orbx-Library | 0 | 1| 
 | 20220101T13:38:21Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 274 | 83| 
 | 20220101T13:33:54Z | Gonna share my writeups and resources here | https://github.com/jopraveen/exploit-development | 10 | 7| 
 | 20220101T13:33:27Z | Exploits for various CVEs | https://github.com/TheMirkin/CVE-List-Public-Exploits | 0 | 0| 
@@ -81,7 +81,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220101T13:59:02Z | Penetration-List is the supplement for Tester. It contains Ever single type of vulnerabilites Material used during Penetration Testing. The list includes Pyaloads, dorks, Fuzzing Materials, and many more. And We also provide theory Sections about every vulnerability in deep that found in applications on medium | https://github.com/AlbusSec/Penetration-List | 0 | 0| 
+| 20220101T14:01:14Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6981 | 1462| 
+| 20220101T14:00:17Z | Penetration-List is the supplement for Tester. It contains Ever single type of vulnerabilites Material used during Penetration Testing. The list includes Pyaloads, dorks, Fuzzing Materials, and many more. And We also provide theory Sections about every vulnerability in deep that found in applications on medium | https://github.com/AlbusSec/Penetration-List | 0 | 0| 
 | 20220101T13:46:22Z | Null | https://github.com/Potat0000/AutoFuzzer | 1 | 0| 
 | 20220101T13:02:34Z | Null | https://github.com/allexks/FuzzyKit | 0 | 0| 
 | 20220101T12:58:05Z | A tool to extract tables from .docx files | https://github.com/LeonardoSirino/FuzzyTableExtractor | 0 | 0| 
@@ -90,7 +91,6 @@
 | 20220101T11:38:49Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20220101T11:31:09Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20220101T10:57:31Z | Web application fuzzer | https://github.com/xmendez/wfuzz | 4143 | 1082| 
-| 20220101T10:55:18Z | :pig: Tiny and fast fuzzy search in Go | https://github.com/lithammer/fuzzysearch | 706 | 40| 
 
 
 
