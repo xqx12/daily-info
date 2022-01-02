@@ -56,7 +56,7 @@
 | 20220101T22:20:49Z | A collection of intelligence about Log4Shell and its exploitation activity.  | https://github.com/curated-intel/Log4Shell-IOCs | 144 | 31| 
 | 20220101T22:12:55Z | A updated linora source with special exploits, always be updated to latest update | https://github.com/RealNotSimcraftlol/Fortnite-Bulletp-Internal-Cheat | 14 | 3| 
 | 20220101T21:45:18Z | Codes for WACVW paper %Small or Far Away? Exploiting Deep Super-Resolution and Altitude Data forReal-World Aerial Animal Surveillance% | https://github.com/Mowen111/SALT | 0 | 0| 
-| 20220101T21:01:02Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10510 | 1807| 
+| 20220101T20:56:40Z | A java app to exploit RFI vulnerability. | https://github.com/jesuisroot123/RFIHack | 0 | 0| 
 
 
 # backdoor on Github 推荐
