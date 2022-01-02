@@ -77,12 +77,15 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220101T23:53:23Z | Codebase for my Level 4 University Project: Static Analysis of Executable Code to Detect Backdoors on IoT Devices | https://github.com/sophieboyle/Symbolic-Execution-for-ARM-Backdoor-Detection | 0 | 0| 
+| 20220101T22:27:07Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1862 | 528| 
 | 20220101T13:31:54Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2609 | 386| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220101T14:32:14Z | A penetration testing tool for finding file upload bugs (NDSS 2020) | https://github.com/WSP-LAB/FUSE | 210 | 44| 
 
 
 # fuzz on Github 推荐
