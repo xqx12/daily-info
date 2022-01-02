@@ -18,6 +18,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220102T13:22:29Z | CVE-2021-26084 | confluence远程代码执行RCE / Code By:Jun_sheng | https://github.com/Jun-5heng/CVE-2021-26084 | | 
 | 20220102T12:54:53Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20220102T09:08:29Z | CVE-2021-40906 | Null | https://github.com/Edgarloyola/CVE-2021-40906 | | 
 | 20220102T09:03:15Z | CVE-2021-44228 | 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - A trick to bypass words blocking patches | https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words | | 
@@ -27,7 +28,6 @@
 | 20220101T21:36:40Z | CVE-2021-44228 | Null | https://github.com/sdogancesur/CVE-2021-44228-github-repository | | 
 | 20220101T20:38:16Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
 | 20220101T20:22:16Z | cve-2021-45232 | The vulnerability affects Apache APISIX Dashboard version 2.10.1 | https://github.com/itxfahdi/-cve-2021-45232 | | 
-| 20220101T20:01:06Z | CVE-2021-44228 | Log4j-Scanner | https://github.com/marklindsey11/gh-repo-clone-marklindsey11--CVE-2021-44228_scanner-Applications-that-are-vulnerable-to-the-log4j-CV | | 
 
 
 # klee on Github 推荐
