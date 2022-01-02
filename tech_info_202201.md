@@ -95,6 +95,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220102T13:14:47Z | Null | https://github.com/dm4sec/ios_fuzzer | 0 | 0| 
 | 20220102T12:50:41Z | Fuzzy reasoning library. | https://github.com/KooTQ/fuzzy | 0 | 0| 
 | 20220102T12:32:11Z | Null | https://github.com/oscarpimentel/fuzzy-tools | 0 | 0| 
 | 20220102T12:06:12Z | Null | https://github.com/teathedev/fuzzy-couscous | 0 | 0| 
@@ -104,7 +105,6 @@
 | 20220102T11:36:36Z | The Rumor is pure, nasty growling bass fuzz pedal, with bold out-front presence, and cutting articulation.  | https://github.com/brummer10/Rumor | 10 | 0| 
 | 20220102T10:35:42Z | Null | https://github.com/allexks/FuzzyKit | 0 | 0| 
 | 20220102T10:06:05Z | Null | https://github.com/TANKIANAUN/FuzzyAssignment | 0 | 0| 
-| 20220102T10:02:16Z | Amplify GraphQL app | https://github.com/run-cycle-daft/fuzzy-pancake | 0 | 0| 
 
 
 
