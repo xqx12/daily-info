@@ -95,6 +95,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220102T13:40:24Z | Null | https://github.com/blockhackersio/002_daptools-fuzz | 0 | 0| 
 | 20220102T13:39:50Z | My First Guest Class - The Impact of Kernel Drivers on Information Systems Security | https://github.com/keowu/fuzzy-train | 0 | 0| 
 | 20220102T13:39:21Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2412 | 480| 
 | 20220102T13:35:10Z | Null | https://github.com/erg45ty4y/fuzzy-octo-guacamole | 0 | 0| 
@@ -104,7 +105,6 @@
 | 20220102T13:20:41Z | Python tool for enumerating directories and for fuzzing | https://github.com/crimsonKn1ght/dirStrike | 3 | 2| 
 | 20220102T13:19:43Z | Null | https://github.com/sobraananto/fuzzy-telegram | 0 | 0| 
 | 20220102T13:14:47Z | Null | https://github.com/dm4sec/ios_fuzzer | 0 | 0| 
-| 20220102T12:50:41Z | Fuzzy reasoning library. | https://github.com/KooTQ/fuzzy | 0 | 0| 
 
 
 
