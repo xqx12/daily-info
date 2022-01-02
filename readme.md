@@ -78,7 +78,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220102T13:32:33Z | Minha Primeira aula como convidado - O impacto dos Drivers de Kernel na segurança dos sistemas de informação | https://github.com/keowu/fuzzy-train | 0 | 0| 
+| 20220102T13:35:10Z | Null | https://github.com/erg45ty4y/fuzzy-octo-guacamole | 0 | 0| 
+| 20220102T13:34:52Z | Null | https://github.com/eg45y45tg4y5/fuzzy-waddle | 0 | 0| 
+| 20220102T13:33:32Z | My First Guest Class - The Impact of Kernel Drivers on Information Systems Security | https://github.com/keowu/fuzzy-train | 0 | 0| 
 | 20220102T13:24:52Z | Null | https://github.com/kfadka1ehbvj/fuzzy-broccoli | 0 | 0| 
 | 20220102T13:22:34Z | Null | https://github.com/tyaranipuspa/Numerical-Data-Analyst-Using-Hybrid-Fuzzy-Classifier-Algorithm | 0 | 0| 
 | 20220102T13:20:41Z | Python tool for enumerating directories and for fuzzing | https://github.com/crimsonKn1ght/dirStrike | 3 | 2| 
@@ -86,8 +88,6 @@
 | 20220102T13:14:47Z | Null | https://github.com/dm4sec/ios_fuzzer | 0 | 0| 
 | 20220102T12:50:41Z | Fuzzy reasoning library. | https://github.com/KooTQ/fuzzy | 0 | 0| 
 | 20220102T12:32:11Z | Null | https://github.com/oscarpimentel/fuzzy-tools | 0 | 0| 
-| 20220102T12:06:12Z | Null | https://github.com/teathedev/fuzzy-couscous | 0 | 0| 
-| 20220102T12:02:08Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 38 | 12| 
 
 
 
