@@ -92,6 +92,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220102T02:59:01Z | A coverage-guided fuzzing framework for TiDB. | https://github.com/s3nt3/sqlvine | 0 | 0| 
 | 20220102T02:55:04Z | Kernel Fuzzer for Xen Project (KF/x) - Hypervisor-based fuzzing using Xen VM forking, VMI & AFL | https://github.com/intel/kernel-fuzzer-for-xen-project | 382 | 55| 
 | 20220102T01:57:55Z | Over the net fuzzing of QUIC servers or clients. | https://github.com/private-octopus/fuzi_q | 0 | 0| 
 | 20220102T01:12:19Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6984 | 1463| 
@@ -101,7 +102,6 @@
 | 20220102T00:03:39Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 643 | 67| 
 | 20220101T23:47:08Z | mandela | https://github.com/PowellAndrea/fuzzy-octo-pancake | 0 | 0| 
 | 20220101T23:43:08Z | Null | https://github.com/blockhackersio/002_daptools-fuzz | 0 | 0| 
-| 20220101T23:37:33Z | A tool to extract tables from .docx files | https://github.com/LeonardoSirino/FuzzyTableExtractor | 0 | 0| 
 
 
 
