@@ -92,6 +92,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220102T01:12:19Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6984 | 1464| 
 | 20220102T00:45:33Z | Solutions to problems I find along my journey into competitive programming! | https://github.com/AyaSleep/fuzzy-waddle | 0 | 0| 
 | 20220102T00:09:03Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 38 | 12| 
 | 20220102T00:07:57Z | Null | https://github.com/theripper93/fuzzy-foundry | 1 | 1| 
@@ -101,7 +102,6 @@
 | 20220101T23:37:33Z | A tool to extract tables from .docx files | https://github.com/LeonardoSirino/FuzzyTableExtractor | 0 | 0| 
 | 20220101T23:34:47Z | Collection of fuzzing payloads and corpus from all around added as sub modules | https://github.com/snoopysecurity/fuzzpayloads | 0 | 0| 
 | 20220101T23:08:28Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2411 | 480| 
-| 20220101T22:56:06Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 11 | 2| 
 
 
 
