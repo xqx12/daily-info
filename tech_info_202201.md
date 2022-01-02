@@ -17,6 +17,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220102T02:42:30Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20220102T00:53:14Z | CVE-2021-44228 | 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - A trick to bypass words blocking patches | https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words | | 
 | 20220101T21:36:40Z | CVE-2021-44228 | Null | https://github.com/sdogancesur/CVE-2021-44228-github-repository | | 
 | 20220101T20:38:16Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
@@ -26,7 +27,6 @@
 | 20220101T17:18:17Z | CVE-2021-44228 | OpenIOC rules to facilitate hunting for indicators of compromise | https://github.com/fireeye/CVE-2021-44228 | | 
 | 20220101T17:07:06Z | cve-2021-45232 | Null | https://github.com/wuppp/cve-2021-45232-exp | | 
 | 20220101T14:37:49Z | CVE-2021-44228 | Null | https://github.com/VerveIndustrialProtection/CVE-2021-44228-Log4j | | 
-| 20220101T14:18:33Z | CVE-2021-44832 | CVE-2021-44832 | https://github.com/DanielRuf/CVE-2021-44832 | | 
 
 
 # klee on Github 推荐
@@ -47,6 +47,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220102T02:42:57Z | Small crash client base for retarded(german) people who steal other people%s code. | https://github.com/narumii/Niko | 24 | 1| 
 | 20220102T02:03:23Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
 | 20220102T02:01:49Z | [Roblox] Downtown RP ESP (Gun Crates, Printers) -- genta | https://github.com/subn0de/Roblox_Exploits | 0 | 0| 
 | 20220102T01:45:05Z | A simulation Hearthstone, written in Python 3.8 and exploiting Panda3D, an open-source game engine. | https://github.com/AlarmClockCrusher/PythonHearthstone | 1 | 0| 
@@ -56,7 +57,6 @@
 | 20220102T00:51:57Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 274 | 83| 
 | 20220102T00:46:07Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 17| 
 | 20220102T00:28:58Z | This is a repo for the coding done for CTFs / exploits. The writeups are here: https://github.com/dillonwu-97/csec_writeups | https://github.com/dillonwu-97/csec-code | 0 | 0| 
-| 20220102T00:21:28Z | Null | https://github.com/KladExploits/Klad-Exploits-V1 | 0 | 0| 
 
 
 # backdoor on Github 推荐
