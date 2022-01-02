@@ -78,6 +78,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220102T13:32:33Z | Minha Primeira aula como convidado - O impacto dos Drivers de Kernel na segurança dos sistemas de informação | https://github.com/keowu/fuzzy-train | 0 | 0| 
 | 20220102T13:24:52Z | Null | https://github.com/kfadka1ehbvj/fuzzy-broccoli | 0 | 0| 
 | 20220102T13:22:34Z | Null | https://github.com/tyaranipuspa/Numerical-Data-Analyst-Using-Hybrid-Fuzzy-Classifier-Algorithm | 0 | 0| 
 | 20220102T13:20:41Z | Python tool for enumerating directories and for fuzzing | https://github.com/crimsonKn1ght/dirStrike | 3 | 2| 
@@ -87,7 +88,6 @@
 | 20220102T12:32:11Z | Null | https://github.com/oscarpimentel/fuzzy-tools | 0 | 0| 
 | 20220102T12:06:12Z | Null | https://github.com/teathedev/fuzzy-couscous | 0 | 0| 
 | 20220102T12:02:08Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 38 | 12| 
-| 20220102T11:43:48Z | Gentoo overlay | https://github.com/lferra/fuzzy-potato | 1 | 0| 
 
 
 
