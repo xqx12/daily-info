@@ -48,9 +48,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220102T13:03:03Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
 | 20220102T12:14:53Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 274 | 83| 
 | 20220102T12:10:15Z | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | 14 | 5| 
-| 20220102T12:04:11Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
 | 20220102T11:57:09Z | Exploit Havuz Projesi // Python MongoDB | https://github.com/kaptantrx/ExploitHavuz | 0 | 0| 
 | 20220102T11:55:26Z | This code base has the code for reproducing the log4j vulnerability in the spring boot app. | https://github.com/dilipsundarraj1/log4j-exploit-demo | 0 | 0| 
 | 20220102T11:51:01Z | Random scripts and exploits I used, modified or wrote. | https://github.com/0iphor13/Scripts-and-Exploits | 4 | 0| 
@@ -78,7 +78,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220102T00:10:07Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 11 | 5| 
+| 20220102T10:09:27Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1951 | 406| 
+| 20220102T06:31:43Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 11 | 5| 
+| 20220102T03:58:52Z | History of symbolic execution (as well as SAT/SMT solving, fuzzing, and taint data tracking) | https://github.com/enzet/symbolic-execution | 414 | 57| 
 | 20220101T23:53:23Z | Codebase for my Level 4 University Project: Static Analysis of Executable Code to Detect Backdoors on IoT Devices | https://github.com/sophieboyle/Symbolic-Execution-for-ARM-Backdoor-Detection | 0 | 0| 
 | 20220101T22:27:07Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1862 | 528| 
 | 20220101T13:31:54Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2609 | 386| 
