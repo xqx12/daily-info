@@ -11,22 +11,23 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220102 | playwright: Playwright is a framework for Web Testing and ... | https://github.com/microsoft/playwright| 
 | 20220101 | 2021年安全架构总结以及2022安全方向展望 | https://mp.weixin.qq.com/s/c_DYMvsOqUEuWcUzNP96Jw| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220102T02:42:30Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
-| 20220102T00:53:14Z | CVE-2021-44228 | 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - A trick to bypass words blocking patches | https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words | | 
+| 20220102T12:54:53Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
+| 20220102T09:08:29Z | CVE-2021-40906 | Null | https://github.com/Edgarloyola/CVE-2021-40906 | | 
+| 20220102T09:03:15Z | CVE-2021-44228 | 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - A trick to bypass words blocking patches | https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words | | 
+| 20220102T08:53:49Z | CVE-2021-44228 | Known IoCs for log4j framework vulnerability  | https://github.com/guardicode/CVE-2021-44228_IoCs | | 
+| 20220102T08:27:39Z | CVE-2021-24307 | Null | https://github.com/darkpills/CVE-2021-24307-all-in-one-seo-pack-admin-rce | | 
+| 20220102T06:41:02Z | CVE-2021-21972 | CVE-2021-21972 Exploit | https://github.com/NS-Sp4ce/CVE-2021-21972 | | 
 | 20220101T21:36:40Z | CVE-2021-44228 | Null | https://github.com/sdogancesur/CVE-2021-44228-github-repository | | 
 | 20220101T20:38:16Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
 | 20220101T20:22:16Z | cve-2021-45232 | The vulnerability affects Apache APISIX Dashboard version 2.10.1 | https://github.com/itxfahdi/-cve-2021-45232 | | 
 | 20220101T20:01:06Z | CVE-2021-44228 | Log4j-Scanner | https://github.com/marklindsey11/gh-repo-clone-marklindsey11--CVE-2021-44228_scanner-Applications-that-are-vulnerable-to-the-log4j-CV | | 
-| 20220101T19:44:27Z | CVE-2021-44228 | Log4j Vulnerability Scanner | https://github.com/marklindsey11/-CVE-2021-44228_scanner-Applications-that-are-vulnerable-to-the-log4j-CVE-2021-44228-https-nvd. | | 
-| 20220101T17:18:17Z | CVE-2021-44228 | OpenIOC rules to facilitate hunting for indicators of compromise | https://github.com/fireeye/CVE-2021-44228 | | 
-| 20220101T17:07:06Z | cve-2021-45232 | Null | https://github.com/wuppp/cve-2021-45232-exp | | 
-| 20220101T14:37:49Z | CVE-2021-44228 | Null | https://github.com/VerveIndustrialProtection/CVE-2021-44228-Log4j | | 
 
 
 # klee on Github 推荐
@@ -47,31 +48,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220102T02:55:43Z | The Source code for ROBLOX Exploit Zihsploit by Trikilla | https://github.com/RBXLModders/Zihsploit | 0 | 0| 
-| 20220102T02:42:57Z | Small crash client base for retarded(german) people who steal other people%s code. | https://github.com/narumii/Niko | 24 | 1| 
-| 20220102T02:03:23Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
-| 20220102T02:01:49Z | [Roblox] Downtown RP ESP (Gun Crates, Printers) -- genta | https://github.com/subn0de/Roblox_Exploits | 0 | 0| 
-| 20220102T01:45:05Z | A simulation Hearthstone, written in Python 3.8 and exploiting Panda3D, an open-source game engine. | https://github.com/AlarmClockCrusher/PythonHearthstone | 1 | 0| 
-| 20220102T01:44:39Z | Large-Scale Memory Error Exploits in IoT | https://github.com/sridhar-research-lab/MEDDoS | 0 | 0| 
-| 20220102T01:15:32Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10511 | 1807| 
-| 20220102T01:04:20Z | Collection of various exploits for penetration testers. | https://github.com/grumpzsux/Exploits | 0 | 0| 
-| 20220102T00:51:57Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 274 | 83| 
-| 20220102T00:46:07Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 17| 
+| 20220102T12:14:53Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 274 | 83| 
+| 20220102T12:10:15Z | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | 14 | 5| 
+| 20220102T12:04:11Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
+| 20220102T11:57:09Z | Exploit Havuz Projesi // Python MongoDB | https://github.com/kaptantrx/ExploitHavuz | 0 | 0| 
+| 20220102T11:55:26Z | This code base has the code for reproducing the log4j vulnerability in the spring boot app. | https://github.com/dilipsundarraj1/log4j-exploit-demo | 0 | 0| 
+| 20220102T11:51:01Z | Random scripts and exploits I used, modified or wrote. | https://github.com/0iphor13/Scripts-and-Exploits | 4 | 0| 
+| 20220102T11:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10512 | 1807| 
+| 20220102T11:32:53Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 54 | 7| 
+| 20220102T11:28:43Z | CVE 자료 공부 및 Exploit 작성 레포 | https://github.com/Haruster/Haruster-CVE-Note | 1 | 0| 
+| 20220102T10:31:56Z | Source codes of Windows API Exploitation for Red and Blue teams from Pentester Academy | https://github.com/tbhaxor/WinAPI-RedBlue | 36 | 4| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220101T23:56:17Z | Null | https://github.com/jaackkiscool/Backdoor-Scanner-v1.0 | 1 | 0| 
+| 20220102T12:54:49Z | Null | https://github.com/sstan001/two-apps-one-backdoor | 0 | 0| 
+| 20220102T12:22:58Z | Website Shell BackDoors ( collection of internet ) | https://github.com/7r0j4ncodeing/Web-Shells | 23 | 7| 
+| 20220102T10:16:41Z | Null | https://github.com/jaackkiscool/Backdoor-Scanner-v1.0 | 1 | 0| 
+| 20220102T08:03:47Z | Null | https://github.com/scraxedtim/backdoor | 0 | 0| 
 | 20220101T23:53:23Z | Codebase for my Level 4 University Project: Static Analysis of Executable Code to Detect Backdoors on IoT Devices | https://github.com/sophieboyle/Symbolic-Execution-for-ARM-Backdoor-Detection | 0 | 0| 
 | 20220101T22:00:51Z | Null | https://github.com/Fartlicker777/Backdoor-Hacking | 0 | 1| 
 | 20220101T20:10:18Z | A simple remote tool written in C#.    一个简单的c#远控 | https://github.com/qwqdanchun/DcRat | 497 | 177| 
-| 20220101T18:43:06Z | Null | https://github.com/scraxedtim/backdoor | 0 | 0| 
 | 20220101T16:33:09Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1434 | 671| 
-| 20220101T13:26:49Z | Website Shell BackDoors ( collection of internet ) | https://github.com/7r0j4ncodeing/Web-Shells | 23 | 7| 
 | 20220101T11:47:53Z | Ecchi Mini Shell | https://github.com/dmzhari/miniecchi | 0 | 2| 
 | 20220101T11:01:26Z | Simple DDL that add a user to the local Administrators group | https://github.com/notdodo/adduser-dll | 0 | 0| 
-| 20220101T10:59:58Z | C# project to use when dealing with privilege escalation on Windows to gain local administrator access | https://github.com/notdodo/LocalAdminSharp | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -92,16 +93,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220102T02:59:01Z | A coverage-guided fuzzing framework for TiDB. | https://github.com/s3nt3/sqlvine | 0 | 0| 
-| 20220102T02:55:04Z | Kernel Fuzzer for Xen Project (KF/x) - Hypervisor-based fuzzing using Xen VM forking, VMI & AFL | https://github.com/intel/kernel-fuzzer-for-xen-project | 382 | 55| 
-| 20220102T01:57:55Z | Over the net fuzzing of QUIC servers or clients. | https://github.com/private-octopus/fuzi_q | 0 | 0| 
-| 20220102T01:12:19Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6984 | 1463| 
-| 20220102T00:45:33Z | Solutions to problems I find along my journey into competitive programming! | https://github.com/AyaSleep/fuzzy-waddle | 0 | 0| 
-| 20220102T00:09:03Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 38 | 12| 
-| 20220102T00:07:57Z | Null | https://github.com/theripper93/fuzzy-foundry | 1 | 1| 
-| 20220102T00:03:39Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 643 | 67| 
-| 20220101T23:47:08Z | mandela | https://github.com/PowellAndrea/fuzzy-octo-pancake | 0 | 0| 
-| 20220101T23:43:08Z | Null | https://github.com/blockhackersio/002_daptools-fuzz | 0 | 0| 
+| 20220102T12:50:41Z | Fuzzy reasoning library. | https://github.com/KooTQ/fuzzy | 0 | 0| 
+| 20220102T12:32:11Z | Null | https://github.com/oscarpimentel/fuzzy-tools | 0 | 0| 
+| 20220102T12:06:12Z | Null | https://github.com/teathedev/fuzzy-couscous | 0 | 0| 
+| 20220102T12:02:08Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 38 | 12| 
+| 20220102T11:46:28Z | Null | https://github.com/sobraananto/fuzzy-telegram | 0 | 0| 
+| 20220102T11:43:48Z | Gentoo overlay | https://github.com/lferra/fuzzy-potato | 1 | 0| 
+| 20220102T11:36:36Z | The Rumor is pure, nasty growling bass fuzz pedal, with bold out-front presence, and cutting articulation.  | https://github.com/brummer10/Rumor | 10 | 0| 
+| 20220102T10:35:42Z | Null | https://github.com/allexks/FuzzyKit | 0 | 0| 
+| 20220102T10:06:05Z | Null | https://github.com/TANKIANAUN/FuzzyAssignment | 0 | 0| 
+| 20220102T10:02:16Z | Amplify GraphQL app | https://github.com/run-cycle-daft/fuzzy-pancake | 0 | 0| 
 
 
 
