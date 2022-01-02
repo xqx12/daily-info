@@ -67,7 +67,7 @@
 | 20220101T22:00:51Z | Null | https://github.com/Fartlicker777/Backdoor-Hacking | 0 | 1| 
 | 20220101T20:10:18Z | A simple remote tool written in C#.    一个简单的c#远控 | https://github.com/qwqdanchun/DcRat | 497 | 177| 
 | 20220101T18:43:06Z | Null | https://github.com/scraxedtim/backdoor | 0 | 0| 
-| 20220101T16:33:09Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1434 | 672| 
+| 20220101T16:33:09Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1434 | 671| 
 | 20220101T13:26:49Z | Website Shell BackDoors ( collection of internet ) | https://github.com/7r0j4ncodeing/Web-Shells | 23 | 7| 
 | 20220101T11:47:53Z | Ecchi Mini Shell | https://github.com/dmzhari/miniecchi | 0 | 2| 
 | 20220101T11:01:26Z | Simple DDL that add a user to the local Administrators group | https://github.com/notdodo/adduser-dll | 0 | 0| 
