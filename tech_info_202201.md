@@ -48,6 +48,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220102T13:50:26Z | bespoke tooling for offensive security%s Windows Usermode Exploit Dev course (OSED) | https://github.com/epi052/osed-scripts | 137 | 61| 
 | 20220102T13:34:54Z | Provides script to download and format public IP lists related to the Log4j exploit. Current format includes: plain list, Cisco ASA and Fortinet Fortigate Network Groups. | https://github.com/GianlucaUlivi/log4j-firewall-blacklist-builder | 1 | 1| 
 | 20220102T13:12:32Z | Source codes of Windows API Exploitation for Red and Blue teams from Pentester Academy | https://github.com/tbhaxor/WinAPI-RedBlue | 37 | 5| 
 | 20220102T13:03:03Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
@@ -57,7 +58,6 @@
 | 20220102T11:55:26Z | This code base has the code for reproducing the log4j vulnerability in the spring boot app. | https://github.com/dilipsundarraj1/log4j-exploit-demo | 0 | 0| 
 | 20220102T11:51:01Z | Random scripts and exploits I used, modified or wrote. | https://github.com/0iphor13/Scripts-and-Exploits | 4 | 0| 
 | 20220102T11:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10512 | 1807| 
-| 20220102T11:32:53Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 54 | 7| 
 
 
 # backdoor on Github 推荐
