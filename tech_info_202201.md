@@ -47,16 +47,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220102T01:04:20Z | Collection of various exploits for penetration testers. | https://github.com/grumpzsux/Exploits | 0 | 0| 
+| 20220102T01:03:22Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
 | 20220102T00:51:57Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 274 | 83| 
 | 20220102T00:46:07Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 17| 
 | 20220102T00:28:58Z | This is a repo for the coding done for CTFs / exploits. The writeups are here: https://github.com/dillonwu-97/csec_writeups | https://github.com/dillonwu-97/csec-code | 0 | 0| 
 | 20220102T00:21:28Z | Null | https://github.com/KladExploits/Klad-Exploits-V1 | 0 | 0| 
 | 20220102T00:12:04Z | Provides script to download and format public IP lists related to the Log4j exploit. Current format includes: plain list, Cisco ASA and Fortinet Fortigate Network Groups. | https://github.com/GianlucaUlivi/log4j-firewall-blacklist-builder | 1 | 1| 
-| 20220102T00:03:37Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 20| 
 | 20220101T23:25:29Z | AliGuard PHP WAF | https://github.com/alicangnll/phpwaf-phanalyzer | 9 | 5| 
 | 20220101T23:17:02Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 114 | 39| 
 | 20220101T23:15:57Z | Exploit and prevent HTTP Interception | https://github.com/webofchaos/HTTP-Interception | 0 | 0| 
-| 20220101T23:14:58Z | Null | https://github.com/chris530/jndi-exploit-blog | 0 | 0| 
 
 
 # backdoor on Github 推荐
