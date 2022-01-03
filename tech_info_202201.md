@@ -52,6 +52,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220103T13:41:35Z | Null | https://github.com/Henrinnes/exploiting-securing-Docker-and-kubernetes | 0 | 0| 
 | 20220103T13:13:24Z | Site where i mostly document my exploits. Built with Nuxt, Tailwind and currently using Forestry CMS | https://github.com/ikeohachidi/ikeoha | 0 | 0| 
 | 20220103T13:11:34Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10517 | 1806| 
 | 20220103T13:03:15Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 21| 
@@ -61,7 +62,6 @@
 | 20220103T12:12:36Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 274 | 83| 
 | 20220103T11:51:53Z | Null | https://github.com/dracoanguis/Systeme-Exploitation | 0 | 0| 
 | 20220103T11:46:52Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 630 | 136| 
-| 20220103T10:24:24Z | another shitty wrd exploit | https://github.com/void0yt/apollo | 0 | 0| 
 
 
 # backdoor on Github 推荐
