@@ -54,6 +54,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220103T13:46:24Z | Null | https://github.com/generatorexit/backdoor.py | 0 | 0| 
 | 20220103T10:28:55Z | Website Shell BackDoors ( collection of internet ) | https://github.com/7r0j4ncodeing/web-shells | 23 | 7| 
 | 20220103T07:59:04Z | A simple remote tool written in C#.    一个简单的c#远控 | https://github.com/qwqdanchun/DcRat | 499 | 177| 
 | 20220103T06:12:42Z | Starlight backdoor framework | https://github.com/topsideduck/Starlight | 1 | 0| 
@@ -79,10 +80,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220103T13:44:21Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 656 | 138| 
 | 20220103T13:38:45Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 910 | 139| 
 | 20220103T13:38:08Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1359 | 238| 
 | 20220103T13:33:43Z | Null | https://github.com/uweweng/fuzzyservices | 0 | 0| 
-| 20220103T13:23:49Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 656 | 138| 
 | 20220103T13:13:12Z | testing word matching in dataframes with fuzzywuzzy and creating an app with streamlit.io | https://github.com/Sebastiantenb/word-matching-fuzzywuzzy | 0 | 0| 
 | 20220103T13:02:04Z | File Tree Fuzzer creates a pseudo-random directory hierarchy filled with some number of files. | https://github.com/SUPERCILEX/ftzz | 5 | 0| 
 | 20220103T12:55:48Z | Null | https://github.com/mufthaj/fuzzy-octo-pancake | 0 | 0| 
