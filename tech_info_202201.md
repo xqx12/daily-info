@@ -49,9 +49,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220103T01:37:26Z | A Database of exploiters for a dead game with no anti cheat. | https://github.com/jnz-dev/PL-Exploiter-DB | 0 | 0| 
 | 20220103T01:33:16Z | This is a repo for the coding done for CTFs / exploits. The writeups are here: https://github.com/dillonwu-97/csec_writeups | https://github.com/dillonwu-97/csec-code | 0 | 0| 
 | 20220103T01:33:00Z | Null | https://github.com/algofishexe/tinyman_exploit_finder | 2 | 1| 
-| 20220103T01:25:52Z | A Database of exploiters for a dead game with no anti cheat. | https://github.com/jnz-dev/PL-Exploiter-DB | 0 | 0| 
 | 20220103T01:24:28Z | Exploiting vulnerability in TOPAZ @Stefanini WARSAW Driver this vulnerability applies in: Banco do Brasil, Itaú, CAIXA, Ministry of Health of Brazil, Ministry of Environment, Banco Safra and others, this allows you to override ring 0 functions | https://github.com/keowu/warsaw | 1 | 0| 
 | 20220103T01:18:53Z | Useful scripts to automate recon and exploitation | https://github.com/octavio-infosec/my_scripts | 0 | 0| 
 | 20220103T01:03:25Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 21| 
@@ -64,7 +64,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220103T01:34:38Z | Website Shell BackDoors ( collection of internet ) | https://github.com/7r0j4ncodeing/Web-Shells | 23 | 7| 
+| 20220103T01:37:44Z | Website Shell BackDoors ( collection of internet ) | https://github.com/7r0j4ncodeing/Web-Shells | 23 | 7| 
 | 20220102T22:03:13Z | Windows Backdoor that is controlled through Discord | https://github.com/3ct0s/disctopia-c2 | 0 | 0| 
 | 20220102T18:57:48Z | aspx backdoor | https://github.com/akshaygawali15/amolbd | 0 | 0| 
 | 20220102T18:53:25Z | Python 3 Reverse Shell | https://github.com/trackmastersteve/shell | 17 | 11| 
