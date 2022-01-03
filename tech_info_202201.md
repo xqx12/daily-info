@@ -100,6 +100,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220103T13:06:04Z | Null | https://github.com/uweweng/fuzzyservices | 0 | 0| 
 | 20220103T13:02:04Z | File Tree Fuzzer creates a pseudo-random directory hierarchy filled with some number of files. | https://github.com/SUPERCILEX/ftzz | 5 | 0| 
 | 20220103T12:57:49Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 656 | 138| 
 | 20220103T12:55:48Z | Null | https://github.com/mufthaj/fuzzy-octo-pancake | 0 | 0| 
@@ -109,7 +110,6 @@
 | 20220103T11:29:16Z | Packer Fuzzer is a fast and efficient scanner for security detection of websites constructed by javascript module bundler such as Webpack.  | https://github.com/rtcatc/Packer-Fuzzer | 1149 | 154| 
 | 20220103T11:22:09Z | Fuzzy sets and fuzzy logic theory implementations in Swift. | https://github.com/allexks/FuzzyKit | 0 | 0| 
 | 20220103T11:14:57Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2413 | 480| 
-| 20220103T11:14:29Z | Amplify GraphQL app | https://github.com/run-cycle-daft/fuzzy-pancake | 0 | 0| 
 
 
 
