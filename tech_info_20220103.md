@@ -18,7 +18,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220103T13:16:52Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
+| 20220103T13:33:48Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20220103T11:45:57Z | cve-2021-45232 | Null | https://github.com/wuppp/cve-2021-45232-exp | | 
 | 20220103T10:52:49Z | CVE-2021-35296 | PoC of CVE-2021-35296 - PTCL Modem HG150-Ub | https://github.com/afaq1337/CVE-2021-35296 | | 
 | 20220103T07:44:51Z | CVE-2021-44228 | 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - A trick to bypass words blocking patches | https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words | | 
@@ -79,7 +79,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220103T13:27:35Z | Null | https://github.com/uweweng/fuzzyservices | 0 | 0| 
+| 20220103T13:33:43Z | Null | https://github.com/uweweng/fuzzyservices | 0 | 0| 
 | 20220103T13:23:49Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 656 | 138| 
 | 20220103T13:13:12Z | testing word matching in dataframes with fuzzywuzzy and creating an app with streamlit.io | https://github.com/Sebastiantenb/word-matching-fuzzywuzzy | 0 | 0| 
 | 20220103T13:02:04Z | File Tree Fuzzer creates a pseudo-random directory hierarchy filled with some number of files. | https://github.com/SUPERCILEX/ftzz | 5 | 0| 
