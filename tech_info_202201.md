@@ -20,9 +20,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220103T13:16:52Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20220103T11:45:57Z | cve-2021-45232 | Null | https://github.com/wuppp/cve-2021-45232-exp | | 
 | 20220103T10:52:49Z | CVE-2021-35296 | PoC of CVE-2021-35296 - PTCL Modem HG150-Ub | https://github.com/afaq1337/CVE-2021-35296 | | 
-| 20220103T10:28:39Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20220103T07:44:51Z | CVE-2021-44228 | 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - A trick to bypass words blocking patches | https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words | | 
 | 20220102T20:50:50Z | CVE-2021-30853 | A sample POC to test CVE-2021-30853 | https://github.com/shubham0d/CVE-2021-30853 | | 
 | 20220102T18:40:42Z | CVE-2021-44228 | Null | https://github.com/thl-cmk/CVE-2021-44228-log4j-check_mk-plugin | | 
