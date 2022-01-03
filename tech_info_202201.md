@@ -67,6 +67,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220103T13:49:35Z | Null | https://github.com/generatorexit/backdoor | 0 | 0| 
 | 20220103T13:46:24Z | Null | https://github.com/generatorexit/backdoor.py | 0 | 0| 
 | 20220103T10:28:55Z | Website Shell BackDoors ( collection of internet ) | https://github.com/7r0j4ncodeing/web-shells | 23 | 7| 
 | 20220103T07:59:04Z | A simple remote tool written in C#.    一个简单的c#远控 | https://github.com/qwqdanchun/DcRat | 499 | 177| 
@@ -76,7 +77,6 @@
 | 20220103T03:32:45Z | A Hidden and Undetectable Remote Access Tool written in C++ and Server in Python3 | https://github.com/anonlo-rw/Windows-Backdoor | 20 | 7| 
 | 20220103T03:17:56Z | Null | https://github.com/Ramirez1001/backdoor | 0 | 0| 
 | 20220103T02:11:39Z | Website Shell BackDoors ( collection of internet ) | https://github.com/7r0j4ncodeing/Web-Shells | 23 | 7| 
-| 20220103T01:39:24Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1528 | 372| 
 
 
 # symbolic execution on Github 推荐
