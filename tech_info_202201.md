@@ -49,16 +49,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220103T02:41:20Z | This is a repo for the coding done for CTFs / exploits. The writeups are here: https://github.com/dillonwu-97/csec_writeups | https://github.com/dillonwu-97/csec-code | 0 | 0| 
+| 20220103T02:40:57Z | Weekly compilation of offensive security tools and write-ups | https://github.com/thelikes/ownlist | 4 | 2| 
 | 20220103T02:27:59Z | A cheat sheet that contains common enumeration and attack methods for Windows Active Directory. | https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet | 2503 | 602| 
 | 20220103T02:03:54Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 21| 
 | 20220103T01:59:36Z | Null | https://github.com/algofishexe/tinyman_exploit_finder | 3 | 1| 
 | 20220103T01:57:37Z | Cheat for Numa RôlePLay | https://github.com/R0bloxUs3r/NumaExploit | 0 | 0| 
 | 20220103T01:42:21Z | A Database of exploiters for a dead game with no anti cheat. | https://github.com/jnz-dev/PL-Exploiter-DB | 0 | 0| 
-| 20220103T01:33:16Z | This is a repo for the coding done for CTFs / exploits. The writeups are here: https://github.com/dillonwu-97/csec_writeups | https://github.com/dillonwu-97/csec-code | 0 | 0| 
 | 20220103T01:24:28Z | Exploiting vulnerability in TOPAZ @Stefanini WARSAW Driver this vulnerability applies in: Banco do Brasil, Itaú, CAIXA, Ministry of Health of Brazil, Ministry of Environment, Banco Safra and others, this allows you to override ring 0 functions | https://github.com/keowu/warsaw | 1 | 0| 
 | 20220103T01:18:53Z | Useful scripts to automate recon and exploitation | https://github.com/octavio-infosec/my_scripts | 0 | 0| 
 | 20220103T01:02:16Z | A small exploiting system with little to no design and UI, runs on a good API that updates quite alot. This is for new exploiters and a better version of JJsploit. | https://github.com/CowChocoxd/PPSploit | 0 | 0| 
-| 20220103T01:01:28Z | Your exploit needs to support writefile and syn.queue_on_teleport() | https://github.com/OracleSage/-Rogue-Lineage-Safe-Server-Finder | 0 | 0| 
 
 
 # backdoor on Github 推荐
