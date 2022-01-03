@@ -39,12 +39,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220103T13:03:15Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 21| 
 | 20220103T12:55:33Z | Site where i mostly document my exploits. Built with Nuxt, Tailwind and currently using Forestry CMS | https://github.com/ikeohachidi/ikeoha | 0 | 0| 
 | 20220103T12:50:12Z | Check object files in order to make use of buffer overflow vulnerabilities | https://github.com/CofiPRT/A2-S1-IOCLA-T3-Exploit-ELFs | 0 | 0| 
 | 20220103T12:40:59Z | shiro exploit | https://github.com/itry02/shiro | 0 | 0| 
 | 20220103T12:37:39Z | Robotics semester project at LASA, EPFL | https://github.com/RaphaelUebersax/Incrementally_Learning_and_Exploiting_Inverse_Dynamics | 0 | 0| 
 | 20220103T12:12:36Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 274 | 83| 
-| 20220103T12:03:45Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 21| 
 | 20220103T11:51:53Z | Null | https://github.com/dracoanguis/Systeme-Exploitation | 0 | 0| 
 | 20220103T11:46:52Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 630 | 136| 
 | 20220103T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10516 | 1806| 
@@ -79,11 +79,11 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220103T13:02:04Z | File Tree Fuzzer creates a pseudo-random directory hierarchy filled with some number of files. | https://github.com/SUPERCILEX/ftzz | 5 | 0| 
 | 20220103T12:57:49Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 656 | 138| 
 | 20220103T12:55:48Z | Null | https://github.com/mufthaj/fuzzy-octo-pancake | 0 | 0| 
 | 20220103T12:33:00Z | Null | https://github.com/w54dyrtfguhkjk/fuzzy-tribble | 0 | 0| 
 | 20220103T12:13:30Z | Null | https://github.com/pt97xiqk08p9/fuzzy-winner | 0 | 0| 
-| 20220103T11:38:32Z | File Tree Fuzzer creates a pseudo-random directory hierarchy filled with some number of files. | https://github.com/SUPERCILEX/ftzz | 5 | 0| 
 | 20220103T11:31:25Z | Null | https://github.com/AdaLogics/go-fuzz-headers | 14 | 1| 
 | 20220103T11:29:16Z | Packer Fuzzer is a fast and efficient scanner for security detection of websites constructed by javascript module bundler such as Webpack.  | https://github.com/rtcatc/Packer-Fuzzer | 1149 | 154| 
 | 20220103T11:22:09Z | Fuzzy sets and fuzzy logic theory implementations in Swift. | https://github.com/allexks/FuzzyKit | 0 | 0| 
