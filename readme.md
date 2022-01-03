@@ -53,8 +53,8 @@
 | 20220102T22:29:32Z | Parmap is a minimalistic library allowing to exploit multicore architecture for OCaml programs with minimal modifications. | https://github.com/rdicosmo/parmap | 85 | 19| 
 | 20220102T22:10:08Z | Scripts to automate exploits.  | https://github.com/octavio-infosec/automated_exploits | 0 | 0| 
 | 20220102T22:06:06Z | A collection of intelligence about Log4Shell and its exploitation activity.  | https://github.com/curated-intel/Log4Shell-IOCs | 144 | 32| 
-| 20220102T22:00:57Z | A cheat sheet that contains common enumeration and attack methods for Windows Active Directory. | https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet | 2502 | 602| 
 | 20220102T21:46:03Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 260 | 10| 
+| 20220102T21:40:41Z | Termux Massive Exploitation  | https://github.com/Err0r-ICA/TME | 5 | 1| 
 
 
 # backdoor on Github 推荐
