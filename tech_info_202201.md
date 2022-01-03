@@ -97,6 +97,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220103T02:55:34Z | Over the net fuzzing of QUIC servers or clients. | https://github.com/private-octopus/fuzi_q | 0 | 0| 
 | 20220103T01:31:14Z | Kernel fuzzer inspired by Syzkaller | https://github.com/SunHao-0/healer | 168 | 24| 
 | 20220103T01:02:57Z | Задача про FuzzBuzz | https://github.com/Konkin-Ivan/FuzzBuzz | 0 | 0| 
 | 20220103T00:08:41Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 38 | 12| 
@@ -106,7 +107,6 @@
 | 20220102T22:57:54Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
 | 20220102T22:50:32Z | Config files for my GitHub profile. | https://github.com/FuzzyMonkey84/FuzzyMonkey84 | 0 | 0| 
 | 20220102T22:28:31Z | Auto-gen fuzzing wrappers from normal code. Finds buggy call sequences, including data races & deadlocks. Supports rich signature types. | https://github.com/thepudds/fzgen | 4 | 0| 
-| 20220102T22:23:12Z | Null | https://github.com/yogigan/Java-Fuzzy-Sukamoto | 0 | 0| 
 
 
 
