@@ -46,7 +46,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220102T23:57:44Z | Exploiting vulnerability in TOPAZ Stefanini%s WARSAW Driver this vulnerability applies in: Banco do Brasil, Itaú, CAIXA, Ministry of Health of Brazil, Ministry of Environment, Banco Safra and others, this allows you to override ring 0 functions | https://github.com/keowu/warsaw | 1 | 0| 
-| 20220102T23:27:09Z | Useful scripts to automate recon and exploitation | https://github.com/octavio-infosec/my_scripts | 0 | 0| 
 | 20220102T23:20:18Z | My exploits, write-ups and notes that I%ve been using while learning things related to pwn. | https://github.com/cemonatk/pwn-exercises | 4 | 0| 
 | 20220102T23:17:39Z | Drafts of exploits made for studying and consultation purposes | https://github.com/brerodrigues/exploit_drafts | 1 | 0| 
 | 20220102T23:16:09Z | Une exploitation des open #DataESR pour concevoir des indicateurs clés de performances pour les établissements de l%ESR. | https://github.com/cpesr/kpiESR | 0 | 1| 
@@ -55,6 +54,7 @@
 | 20220102T22:29:32Z | Parmap is a minimalistic library allowing to exploit multicore architecture for OCaml programs with minimal modifications. | https://github.com/rdicosmo/parmap | 85 | 19| 
 | 20220102T22:10:08Z | Scripts to automate exploits.  | https://github.com/octavio-infosec/automated_exploits | 0 | 0| 
 | 20220102T22:06:06Z | A collection of intelligence about Log4Shell and its exploitation activity.  | https://github.com/curated-intel/Log4Shell-IOCs | 144 | 32| 
+| 20220102T22:00:57Z | A cheat sheet that contains common enumeration and attack methods for Windows Active Directory. | https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet | 2502 | 602| 
 
 
 # backdoor on Github 推荐

@@ -49,6 +49,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220103T01:18:53Z | Useful scripts to automate recon and exploitation | https://github.com/octavio-infosec/my_scripts | 0 | 0| 
 | 20220103T01:15:42Z | Null | https://github.com/algofishexe/tinyman_exploit_finder | 2 | 1| 
 | 20220103T01:03:25Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 21| 
 | 20220103T01:02:16Z | A small exploiting system with little to no design and UI, runs on a good API that updates quite alot. This is for new exploiters and a better version of JJsploit. | https://github.com/CowChocoxd/PPSploit | 0 | 0| 
@@ -57,7 +58,6 @@
 | 20220103T00:49:53Z | This is a repo for the coding done for CTFs / exploits. The writeups are here: https://github.com/dillonwu-97/csec_writeups | https://github.com/dillonwu-97/csec-code | 0 | 0| 
 | 20220103T00:05:07Z | Vulnerabilities found along the way | https://github.com/hansmach1ne/MyExploits | 2 | 0| 
 | 20220102T23:57:44Z | Exploiting vulnerability in TOPAZ Stefanini%s WARSAW Driver this vulnerability applies in: Banco do Brasil, Itaú, CAIXA, Ministry of Health of Brazil, Ministry of Environment, Banco Safra and others, this allows you to override ring 0 functions | https://github.com/keowu/warsaw | 1 | 0| 
-| 20220102T23:27:09Z | Useful scripts to automate recon and exploitation | https://github.com/octavio-infosec/my_scripts | 0 | 0| 
 | 20220102T23:20:18Z | My exploits, write-ups and notes that I%ve been using while learning things related to pwn. | https://github.com/cemonatk/pwn-exercises | 4 | 0| 
 
 
