@@ -49,6 +49,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220103T01:24:28Z | Exploiting vulnerability in TOPAZ @Stefanini WARSAW Driver this vulnerability applies in: Banco do Brasil, Itaú, CAIXA, Ministry of Health of Brazil, Ministry of Environment, Banco Safra and others, this allows you to override ring 0 functions | https://github.com/keowu/warsaw | 1 | 0| 
 | 20220103T01:21:51Z | A Database of exploiters for a dead game with no anti cheat. | https://github.com/jnz-dev/PL-Exploiter-DB | 0 | 0| 
 | 20220103T01:18:53Z | Useful scripts to automate recon and exploitation | https://github.com/octavio-infosec/my_scripts | 0 | 0| 
 | 20220103T01:15:42Z | Null | https://github.com/algofishexe/tinyman_exploit_finder | 2 | 1| 
@@ -58,12 +59,12 @@
 | 20220103T00:57:34Z | Weekly compilation of offensive security tools and write-ups | https://github.com/thelikes/ownlist | 4 | 2| 
 | 20220103T00:49:53Z | This is a repo for the coding done for CTFs / exploits. The writeups are here: https://github.com/dillonwu-97/csec_writeups | https://github.com/dillonwu-97/csec-code | 0 | 0| 
 | 20220103T00:05:07Z | Vulnerabilities found along the way | https://github.com/hansmach1ne/MyExploits | 2 | 0| 
-| 20220102T23:57:44Z | Exploiting vulnerability in TOPAZ Stefanini%s WARSAW Driver this vulnerability applies in: Banco do Brasil, Itaú, CAIXA, Ministry of Health of Brazil, Ministry of Environment, Banco Safra and others, this allows you to override ring 0 functions | https://github.com/keowu/warsaw | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220103T01:23:17Z | Website Shell BackDoors ( collection of internet ) | https://github.com/7r0j4ncodeing/Web-Shells | 23 | 7| 
 | 20220102T22:03:13Z | Windows Backdoor that is controlled through Discord | https://github.com/3ct0s/disctopia-c2 | 0 | 0| 
 | 20220102T18:57:48Z | aspx backdoor | https://github.com/akshaygawali15/amolbd | 0 | 0| 
 | 20220102T18:53:25Z | Python 3 Reverse Shell | https://github.com/trackmastersteve/shell | 17 | 11| 
@@ -73,7 +74,6 @@
 | 20220102T16:19:00Z | Codebase for my Level 4 University Project: Static Analysis of Executable Code to Detect Backdoors on IoT Devices | https://github.com/sophieboyle/Symbolic-Execution-for-ARM-Backdoor-Detection | 0 | 0| 
 | 20220102T13:43:53Z | A simple remote tool written in C#.    一个简单的c#远控 | https://github.com/qwqdanchun/DcRat | 498 | 177| 
 | 20220102T12:54:49Z | Null | https://github.com/sstan001/two-apps-one-backdoor | 0 | 0| 
-| 20220102T12:22:58Z | Website Shell BackDoors ( collection of internet ) | https://github.com/7r0j4ncodeing/Web-Shells | 23 | 7| 
 
 
 # symbolic execution on Github 推荐

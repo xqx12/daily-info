@@ -45,7 +45,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220102T23:57:44Z | Exploiting vulnerability in TOPAZ Stefanini%s WARSAW Driver this vulnerability applies in: Banco do Brasil, Itaú, CAIXA, Ministry of Health of Brazil, Ministry of Environment, Banco Safra and others, this allows you to override ring 0 functions | https://github.com/keowu/warsaw | 1 | 0| 
 | 20220102T23:20:18Z | My exploits, write-ups and notes that I%ve been using while learning things related to pwn. | https://github.com/cemonatk/pwn-exercises | 4 | 0| 
 | 20220102T23:17:39Z | Drafts of exploits made for studying and consultation purposes | https://github.com/brerodrigues/exploit_drafts | 1 | 0| 
 | 20220102T23:16:09Z | Une exploitation des open #DataESR pour concevoir des indicateurs clés de performances pour les établissements de l%ESR. | https://github.com/cpesr/kpiESR | 0 | 1| 
@@ -55,6 +54,7 @@
 | 20220102T22:10:08Z | Scripts to automate exploits.  | https://github.com/octavio-infosec/automated_exploits | 0 | 0| 
 | 20220102T22:06:06Z | A collection of intelligence about Log4Shell and its exploitation activity.  | https://github.com/curated-intel/Log4Shell-IOCs | 144 | 32| 
 | 20220102T22:00:57Z | A cheat sheet that contains common enumeration and attack methods for Windows Active Directory. | https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet | 2502 | 602| 
+| 20220102T21:46:03Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 260 | 10| 
 
 
 # backdoor on Github 推荐
@@ -69,7 +69,7 @@
 | 20220102T16:19:00Z | Codebase for my Level 4 University Project: Static Analysis of Executable Code to Detect Backdoors on IoT Devices | https://github.com/sophieboyle/Symbolic-Execution-for-ARM-Backdoor-Detection | 0 | 0| 
 | 20220102T13:43:53Z | A simple remote tool written in C#.    一个简单的c#远控 | https://github.com/qwqdanchun/DcRat | 498 | 177| 
 | 20220102T12:54:49Z | Null | https://github.com/sstan001/two-apps-one-backdoor | 0 | 0| 
-| 20220102T12:22:58Z | Website Shell BackDoors ( collection of internet ) | https://github.com/7r0j4ncodeing/Web-Shells | 23 | 7| 
+| 20220102T10:16:41Z | Null | https://github.com/jaackkiscool/Backdoor-Scanner-v1.0 | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
