@@ -79,6 +79,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220103T13:38:45Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 910 | 139| 
+| 20220103T13:38:08Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1359 | 238| 
 | 20220103T13:33:43Z | Null | https://github.com/uweweng/fuzzyservices | 0 | 0| 
 | 20220103T13:23:49Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 656 | 138| 
 | 20220103T13:13:12Z | testing word matching in dataframes with fuzzywuzzy and creating an app with streamlit.io | https://github.com/Sebastiantenb/word-matching-fuzzywuzzy | 0 | 0| 
@@ -87,8 +89,6 @@
 | 20220103T12:33:00Z | Null | https://github.com/w54dyrtfguhkjk/fuzzy-tribble | 0 | 0| 
 | 20220103T12:13:30Z | Null | https://github.com/pt97xiqk08p9/fuzzy-winner | 0 | 0| 
 | 20220103T11:31:25Z | Null | https://github.com/AdaLogics/go-fuzz-headers | 14 | 1| 
-| 20220103T11:29:16Z | Packer Fuzzer is a fast and efficient scanner for security detection of websites constructed by javascript module bundler such as Webpack.  | https://github.com/rtcatc/Packer-Fuzzer | 1149 | 154| 
-| 20220103T11:22:09Z | Fuzzy sets and fuzzy logic theory implementations in Swift. | https://github.com/allexks/FuzzyKit | 0 | 0| 
 
 
 

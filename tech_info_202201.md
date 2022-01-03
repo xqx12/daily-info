@@ -39,7 +39,7 @@
 | 20220103T04:12:15Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 3402 | 106| 
 | 20220102T18:22:37Z | Kleene algebra, regular expressions | https://github.com/phadej/kleene | 28 | 1| 
 | 20220102T02:05:53Z | Null | https://github.com/kleelab/kleelab.github.io | 0 | 0| 
-| 20220101T22:27:07Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1862 | 528| 
+| 20220101T22:27:07Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1862 | 529| 
 | 20220101T19:26:05Z | Null | https://github.com/HallettLab/klee-stability | 0 | 0| 
 | 20220101T08:29:50Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 5 | 0| 
 
@@ -87,7 +87,7 @@
 | 20220102T16:19:00Z | Codebase for my Level 4 University Project: Static Analysis of Executable Code to Detect Backdoors on IoT Devices | https://github.com/sophieboyle/Symbolic-Execution-for-ARM-Backdoor-Detection | 0 | 0| 
 | 20220102T10:09:27Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1951 | 406| 
 | 20220102T03:58:52Z | History of symbolic execution (as well as SAT/SMT solving, fuzzing, and taint data tracking) | https://github.com/enzet/symbolic-execution | 414 | 57| 
-| 20220101T22:27:07Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1862 | 528| 
+| 20220101T22:27:07Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1862 | 529| 
 | 20220101T13:31:54Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2609 | 386| 
 
 
@@ -100,6 +100,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220103T13:38:45Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 910 | 139| 
+| 20220103T13:38:08Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1359 | 238| 
 | 20220103T13:33:43Z | Null | https://github.com/uweweng/fuzzyservices | 0 | 0| 
 | 20220103T13:23:49Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 656 | 138| 
 | 20220103T13:13:12Z | testing word matching in dataframes with fuzzywuzzy and creating an app with streamlit.io | https://github.com/Sebastiantenb/word-matching-fuzzywuzzy | 0 | 0| 
@@ -108,8 +110,6 @@
 | 20220103T12:33:00Z | Null | https://github.com/w54dyrtfguhkjk/fuzzy-tribble | 0 | 0| 
 | 20220103T12:13:30Z | Null | https://github.com/pt97xiqk08p9/fuzzy-winner | 0 | 0| 
 | 20220103T11:31:25Z | Null | https://github.com/AdaLogics/go-fuzz-headers | 14 | 1| 
-| 20220103T11:29:16Z | Packer Fuzzer is a fast and efficient scanner for security detection of websites constructed by javascript module bundler such as Webpack.  | https://github.com/rtcatc/Packer-Fuzzer | 1149 | 154| 
-| 20220103T11:22:09Z | Fuzzy sets and fuzzy logic theory implementations in Swift. | https://github.com/allexks/FuzzyKit | 0 | 0| 
 
 
 
