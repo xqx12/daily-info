@@ -11,6 +11,8 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220103 | SecWiki周刊（第409期) | https://www.sec-wiki.com/weekly/409| 
+| 20220103 | QingScan: 漏洞扫描器粘合剂 | https://github.com/78778443/QingScan| 
 | 20220102 | playwright: Playwright is a framework for Web Testing and ... | https://github.com/microsoft/playwright| 
 | 20220101 | 2021年安全架构总结以及2022安全方向展望 | https://mp.weixin.qq.com/s/c_DYMvsOqUEuWcUzNP96Jw| 
 
@@ -18,22 +20,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220103T11:45:57Z | cve-2021-45232 | Null | https://github.com/wuppp/cve-2021-45232-exp | | 
+| 20220103T10:52:49Z | CVE-2021-35296 | PoC of CVE-2021-35296 - PTCL Modem HG150-Ub | https://github.com/afaq1337/CVE-2021-35296 | | 
+| 20220103T10:28:39Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
+| 20220103T07:44:51Z | CVE-2021-44228 | 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - A trick to bypass words blocking patches | https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words | | 
 | 20220102T20:50:50Z | CVE-2021-30853 | A sample POC to test CVE-2021-30853 | https://github.com/shubham0d/CVE-2021-30853 | | 
 | 20220102T18:40:42Z | CVE-2021-44228 | Null | https://github.com/thl-cmk/CVE-2021-44228-log4j-check_mk-plugin | | 
 | 20220102T18:32:29Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
-| 20220102T17:25:58Z | CVE-2021-44228 | 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - A trick to bypass words blocking patches | https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words | | 
-| 20220102T15:09:10Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20220102T13:22:29Z | CVE-2021-26084 | confluence远程代码执行RCE / Code By:Jun_sheng | https://github.com/Jun-5heng/CVE-2021-26084 | | 
 | 20220102T09:08:29Z | CVE-2021-40906 | Null | https://github.com/Edgarloyola/CVE-2021-40906 | | 
 | 20220102T08:53:49Z | CVE-2021-44228 | Known IoCs for log4j framework vulnerability  | https://github.com/guardicode/CVE-2021-44228_IoCs | | 
-| 20220102T08:27:39Z | CVE-2021-24307 | Null | https://github.com/darkpills/CVE-2021-24307-all-in-one-seo-pack-admin-rce | | 
-| 20220102T06:41:02Z | CVE-2021-21972 | CVE-2021-21972 Exploit | https://github.com/NS-Sp4ce/CVE-2021-21972 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220102T20:30:04Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 3403 | 105| 
+| 20220103T05:45:47Z | Null | https://github.com/KleePaimon/KleePaimon.github.io | 0 | 0| 
+| 20220103T04:12:15Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 3402 | 106| 
 | 20220102T18:22:37Z | Kleene algebra, regular expressions | https://github.com/phadej/kleene | 28 | 1| 
 | 20220102T02:05:53Z | Null | https://github.com/kleelab/kleelab.github.io | 0 | 0| 
 | 20220101T22:27:07Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1862 | 528| 
@@ -49,31 +52,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220103T02:46:22Z | Weekly compilation of offensive security tools and write-ups | https://github.com/thelikes/ownlist | 4 | 2| 
-| 20220103T02:46:02Z | Files yang berhasil diupload ke folder server secara terbatas. Terima Kasih atas Informasi LOG anda. :) sampai Berjumpa. | https://github.com/rsuppersahabatan/hacker | 0 | 0| 
-| 20220103T02:41:20Z | This is a repo for the coding done for CTFs / exploits. The writeups are here: https://github.com/dillonwu-97/csec_writeups | https://github.com/dillonwu-97/csec-code | 0 | 0| 
-| 20220103T02:27:59Z | A cheat sheet that contains common enumeration and attack methods for Windows Active Directory. | https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet | 2503 | 602| 
-| 20220103T02:03:54Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 21| 
-| 20220103T01:59:36Z | Null | https://github.com/algofishexe/tinyman_exploit_finder | 3 | 1| 
-| 20220103T01:57:37Z | Cheat for Numa RôlePLay | https://github.com/R0bloxUs3r/NumaExploit | 0 | 0| 
-| 20220103T01:42:21Z | A Database of exploiters for a dead game with no anti cheat. | https://github.com/jnz-dev/PL-Exploiter-DB | 0 | 0| 
-| 20220103T01:24:28Z | Exploiting vulnerability in TOPAZ @Stefanini WARSAW Driver this vulnerability applies in: Banco do Brasil, Itaú, CAIXA, Ministry of Health of Brazil, Ministry of Environment, Banco Safra and others, this allows you to override ring 0 functions | https://github.com/keowu/warsaw | 1 | 0| 
-| 20220103T01:18:53Z | Useful scripts to automate recon and exploitation | https://github.com/octavio-infosec/my_scripts | 0 | 0| 
+| 20220103T12:55:33Z | Site where i mostly document my exploits. Built with Nuxt, Tailwind and currently using Forestry CMS | https://github.com/ikeohachidi/ikeoha | 0 | 0| 
+| 20220103T12:50:12Z | Check object files in order to make use of buffer overflow vulnerabilities | https://github.com/CofiPRT/A2-S1-IOCLA-T3-Exploit-ELFs | 0 | 0| 
+| 20220103T12:40:59Z | shiro exploit | https://github.com/itry02/shiro | 0 | 0| 
+| 20220103T12:37:39Z | Robotics semester project at LASA, EPFL | https://github.com/RaphaelUebersax/Incrementally_Learning_and_Exploiting_Inverse_Dynamics | 0 | 0| 
+| 20220103T12:12:36Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 274 | 83| 
+| 20220103T12:03:45Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 40 | 21| 
+| 20220103T11:51:53Z | Null | https://github.com/dracoanguis/Systeme-Exploitation | 0 | 0| 
+| 20220103T11:46:52Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 630 | 136| 
+| 20220103T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10516 | 1806| 
+| 20220103T10:24:24Z | another shitty wrd exploit | https://github.com/void0yt/apollo | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220103T10:28:55Z | Website Shell BackDoors ( collection of internet ) | https://github.com/7r0j4ncodeing/web-shells | 23 | 7| 
+| 20220103T07:59:04Z | A simple remote tool written in C#.    一个简单的c#远控 | https://github.com/qwqdanchun/DcRat | 499 | 177| 
+| 20220103T06:12:42Z | Starlight backdoor framework | https://github.com/topsideduck/Starlight | 1 | 0| 
+| 20220103T04:33:26Z | A python backdoor using discord.py to communicate | https://github.com/MD5-Hashm/python-backdoor | 0 | 0| 
+| 20220103T04:15:26Z | This is the reverse backdoor written in python3. | https://github.com/amitth/Reverse-Backdoor | 0 | 0| 
+| 20220103T03:32:45Z | A Hidden and Undetectable Remote Access Tool written in C++ and Server in Python3 | https://github.com/anonlo-rw/Windows-Backdoor | 20 | 7| 
+| 20220103T03:17:56Z | Null | https://github.com/Ramirez1001/backdoor | 0 | 0| 
 | 20220103T02:11:39Z | Website Shell BackDoors ( collection of internet ) | https://github.com/7r0j4ncodeing/Web-Shells | 23 | 7| 
 | 20220103T01:39:24Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1528 | 372| 
 | 20220102T22:03:13Z | Windows Backdoor that is controlled through Discord | https://github.com/3ct0s/disctopia-c2 | 0 | 0| 
-| 20220102T18:57:48Z | aspx backdoor | https://github.com/akshaygawali15/amolbd | 0 | 0| 
-| 20220102T18:53:25Z | Python 3 Reverse Shell | https://github.com/trackmastersteve/shell | 17 | 11| 
-| 20220102T18:40:04Z | Python 3 IRC Bot / Botnet | https://github.com/trackmastersteve/HackServ | 27 | 20| 
-| 20220102T17:13:33Z | A python backdoor using discord.py to communicate | https://github.com/MD5-Hashm/python-backdoor | 0 | 0| 
-| 20220102T17:07:02Z | Null | https://github.com/scraxedtim/backdoor | 0 | 0| 
-| 20220102T16:19:00Z | Codebase for my Level 4 University Project: Static Analysis of Executable Code to Detect Backdoors on IoT Devices | https://github.com/sophieboyle/Symbolic-Execution-for-ARM-Backdoor-Detection | 0 | 0| 
-| 20220102T13:43:53Z | A simple remote tool written in C#.    一个简单的c#远控 | https://github.com/qwqdanchun/DcRat | 498 | 177| 
 
 
 # symbolic execution on Github 推荐
@@ -97,16 +100,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220103T02:55:34Z | Over the net fuzzing of QUIC servers or clients. | https://github.com/private-octopus/fuzi_q | 0 | 0| 
-| 20220103T01:31:14Z | Kernel fuzzer inspired by Syzkaller | https://github.com/SunHao-0/healer | 168 | 24| 
-| 20220103T01:02:57Z | Задача про FuzzBuzz | https://github.com/Konkin-Ivan/FuzzBuzz | 0 | 0| 
-| 20220103T00:08:41Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 38 | 12| 
-| 20220102T23:58:59Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1141 | 48| 
-| 20220102T23:47:34Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 644 | 67| 
-| 20220102T23:40:56Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
-| 20220102T22:57:54Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
-| 20220102T22:50:32Z | Config files for my GitHub profile. | https://github.com/FuzzyMonkey84/FuzzyMonkey84 | 0 | 0| 
-| 20220102T22:28:31Z | Auto-gen fuzzing wrappers from normal code. Finds buggy call sequences, including data races & deadlocks. Supports rich signature types. | https://github.com/thepudds/fzgen | 4 | 0| 
+| 20220103T12:57:49Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 656 | 138| 
+| 20220103T12:55:48Z | Null | https://github.com/mufthaj/fuzzy-octo-pancake | 0 | 0| 
+| 20220103T12:33:00Z | Null | https://github.com/w54dyrtfguhkjk/fuzzy-tribble | 0 | 0| 
+| 20220103T12:13:30Z | Null | https://github.com/pt97xiqk08p9/fuzzy-winner | 0 | 0| 
+| 20220103T11:38:32Z | File Tree Fuzzer creates a pseudo-random directory hierarchy filled with some number of files. | https://github.com/SUPERCILEX/ftzz | 5 | 0| 
+| 20220103T11:31:25Z | Null | https://github.com/AdaLogics/go-fuzz-headers | 14 | 1| 
+| 20220103T11:29:16Z | Packer Fuzzer is a fast and efficient scanner for security detection of websites constructed by javascript module bundler such as Webpack.  | https://github.com/rtcatc/Packer-Fuzzer | 1149 | 154| 
+| 20220103T11:22:09Z | Fuzzy sets and fuzzy logic theory implementations in Swift. | https://github.com/allexks/FuzzyKit | 0 | 0| 
+| 20220103T11:14:57Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2413 | 480| 
+| 20220103T11:14:29Z | Amplify GraphQL app | https://github.com/run-cycle-daft/fuzzy-pancake | 0 | 0| 
 
 
 
