@@ -12,6 +12,9 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220104 | CodeAnalysis: 腾讯 Static Code Analysis | https://github.com/Tencent/CodeAnalysis| 
+| 20220104 | 网络安全标准实践指南——网络数据分类分级指引 | http://www.echinagov.com/uploads/1/file/public/202201/20220104084609_kxu3wojaw0.pdf| 
+| 20220104 | 扛住100亿次红包请求的后端架构设计 | https://github.com/xiaojiaqi/10billionhongbaos| 
 | 20220103 | SecWiki周刊（第409期) | https://www.sec-wiki.com/weekly/409| 
 | 20220103 | QingScan: 漏洞扫描器粘合剂 | https://github.com/78778443/QingScan| 
 | 20220102 | playwright: Playwright is a framework for Web Testing and ... | https://github.com/microsoft/playwright| 
@@ -21,24 +24,25 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220104T12:10:35Z | CVE-2021-22214 | POC for CVE-2021-22214: Gitlab SSRF | https://github.com/kh4sh3i/GitLab-SSRF-CVE-2021-22214 | | 
+| 20220104T11:48:49Z | CVE-2021-24307 | Null | https://github.com/darkpills/CVE-2021-24307-all-in-one-seo-pack-admin-rce | | 
+| 20220104T09:01:44Z | CVE-2021-28750 | PoC Site for tsunami-security-scanner-plugins.  | https://github.com/PfalzPrince/CVE-2021-28750-site | | 
+| 20220104T08:31:10Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20220103T22:46:50Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
-| 20220103T21:30:32Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20220103T17:43:25Z | CVE-2021-44228 | Log4J CVE-2021-44228 : Mitigation Cheat Sheet | https://github.com/thedevappsecguy/Log4J-Mitigation-CVE-2021-44228--CVE-2021-45046--CVE-2021-45105--CVE-2021-44832 | | 
 | 20220103T16:53:07Z | CVE-2021-43857 | Gerapy prior to version 0.9.8 is vulnerable to remote code execution. This issue is patched in version 0.9.8. | https://github.com/LongWayHomie/CVE-2021-43857 | | 
 | 20220103T14:15:43Z | cve-2021-43858 | Null | https://github.com/khuntor/cve-2021-43858 | | 
 | 20220103T14:03:20Z | CVE-2021-42013 | CVE-2021-41773 on Docker | https://github.com/ahmad4fifz/CVE-2021-42013 | | 
 | 20220103T13:57:07Z | CVE-2021-44228 | CVE-2021-44228 on Docker & Podman | https://github.com/ahmad4fifz/CVE-2021-44228 | | 
-| 20220103T11:45:57Z | cve-2021-45232 | Null | https://github.com/wuppp/cve-2021-45232-exp | | 
-| 20220103T10:52:49Z | CVE-2021-35296 | PoC of CVE-2021-35296 - PTCL Modem HG150-Ub | https://github.com/afaq1337/CVE-2021-35296 | | 
-| 20220103T07:44:51Z | CVE-2021-44228 | 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - A trick to bypass words blocking patches | https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220104T01:44:39Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 3410 | 106| 
-| 20220103T18:12:44Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1863 | 529| 
-| 20220103T05:45:47Z | Null | https://github.com/KleePaimon/KleePaimon.github.io | 0 | 0| 
+| 20220104T12:07:34Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 3416 | 108| 
+| 20220104T10:26:54Z | Android App to Manage Car Cleaning Services  | https://github.com/Chandanajh/GreenKleen | 0 | 0| 
+| 20220104T08:43:59Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1863 | 529| 
+| 20220104T04:17:17Z | Null | https://github.com/KleePaimon/KleePaimon.github.io | 0 | 0| 
 | 20220102T18:22:37Z | Kleene algebra, regular expressions | https://github.com/phadej/kleene | 28 | 1| 
 | 20220102T02:05:53Z | Null | https://github.com/kleelab/kleelab.github.io | 0 | 0| 
 | 20220101T19:26:05Z | Null | https://github.com/HallettLab/klee-stability | 0 | 0| 
@@ -48,51 +52,52 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220104T12:59:41Z | CRAX++: software CRash analysis for Automatic eXploit generation | https://github.com/aesophor/CRAXplusplus | 27 | 3| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220104T02:50:50Z | Atmail XSS-RCE-CSRF Exploit Chain | https://github.com/AndrewTrube/CVE-2012-2593 | 0 | 0| 
-| 20220104T02:34:01Z | Library for iSPLOIT, used for all of my exploits | https://github.com/IIssacDev/iSPLOIT-Library-Config | 0 | 0| 
-| 20220104T02:15:22Z | This code base has the code for reproducing the log4j vulnerability in the spring boot app. | https://github.com/dilipsundarraj1/log4j-exploit-demo | 0 | 0| 
-| 20220104T02:12:03Z | Kscan是一款纯go开发的轻量级的资产发现工具，可针对指定IP段、资产清单、存活网段自动化进行端口扫描以及TCP指纹识别和Banner抓取，在不发送更多的数据包的情况下尽可能的获取端口更多信息。并且能够针对扫描结果进行自动化暴力破解，且是go平台首款开源的RDP暴力破解工具。 | https://github.com/lcvvvv/kscan | 688 | 110| 
-| 20220104T02:03:15Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 41 | 21| 
-| 20220104T01:58:36Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10522 | 1806| 
-| 20220104T01:00:03Z | Exploiting Causal Structure for Transportability in Online, Multi-Agent Environments | https://github.com/axelbrowne/ECS4TOMAE | 0 | 0| 
-| 20220104T00:52:42Z | This is a repo for the coding done for CTFs / exploits. The writeups are here: https://github.com/dillonwu-97/csec_writeups | https://github.com/dillonwu-97/csec-code | 0 | 0| 
-| 20220104T00:46:08Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 17| 
-| 20220104T00:37:00Z | The Next-Gen Roblox Exploit Hub | https://github.com/HonestlyDex/DexHub | 1 | 1| 
+| 20220104T12:59:41Z | CRAX++: software CRash analysis for Automatic eXploit generation | https://github.com/aesophor/CRAXplusplus | 27 | 3| 
+| 20220104T12:46:08Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 17| 
+| 20220104T12:27:37Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 275 | 83| 
+| 20220104T12:04:21Z | Null | https://github.com/abhilash-pangutty/log4j-exploit | 0 | 0| 
+| 20220104T12:04:00Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 41 | 21| 
+| 20220104T11:55:52Z | Jenkins Remote Command Execution | https://github.com/HSNHK/Shellkins | 0 | 0| 
+| 20220104T11:45:56Z | User-perceived latency is important for the quality of experience (QoE) of wide-area real-time communications (RTC). This paper explores a futuristic yet important problem facing the RTC community: can we exploit emerging mega-constellations to facilitate low-latency RTC globally? We carry out our quest in three steps. First, through a measurement study associated with a large number of geo-distributed RTC users, we quantitatively expose that the meandering routes over the client-cloud segment and the inter-cloud-site segment in existing cloud-based RTC architecture are critical culprits for the high latency issue suffered by wide-area RTC sessions. Second, after analyzing the low-latency potential enabled by mega-constellations, we formulate the dynamic RTC latency minimization problem under the integrated space-ground environment, and propose SpaceRTC, a satellite-cloud cooperative framework that adaptively selects relay servers upon satellites and cloud sites to build an overlay network which enables diverse close-to-optimal paths, and then judiciously allocates RTC flows in the network to facilitate low-latency interactions. Finally, we implement a hardware-in-the-loop experimental environment based on public constellation information and RTC trace, and extensive experiments demonstrate that SpaceRTC can deliver near-optimal interactive latency, with up to 64.9% latency reduction as compared with other state-of-the-art cloud-based solutions under representative videoconferencing traffic. | https://github.com/SpaceNetLab/SpaceRTC_Project | 1 | 0| 
+| 20220104T11:42:42Z | Null | https://github.com/Prashant-hackthebow/exploit | 0 | 0| 
+| 20220104T11:40:03Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10524 | 1806| 
+| 20220104T11:13:49Z | This code base has the code for reproducing the log4j vulnerability in the spring boot app. | https://github.com/dilipsundarraj1/log4j-exploit-demo | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220104T02:57:51Z | Website Shell BackDoors ( collection of internet ) | https://github.com/7r0j4ncodeing/web-shells | 24 | 7| 
-| 20220103T23:12:57Z | Null | https://github.com/Ramirez1001/backdoor | 0 | 0| 
-| 20220103T22:04:49Z | [Keylogger && Shell Backdoor] Educational trojan horse.  | https://github.com/SaltyMilk/Durex | 0 | 0| 
-| 20220103T21:40:52Z | the name of virus is the detection of microsoft defender, is the tipic antivirus | https://github.com/Malware-S/HEUR-Backdoor-Linux.Agent.ar.elf | 0 | 0| 
-| 20220103T21:33:01Z | A simple remote tool in C#. | https://github.com/qwqdanchun/DcRat | 503 | 178| 
-| 20220103T21:15:02Z | the name of virus is the detection of microsoft defender, is the tipic antivirus | https://github.com/Malware-S/Backdoor-Linux-GetShell.B-xp.elf | 0 | 0| 
-| 20220103T21:14:32Z | the name of virus is the detection of microsoft defender, is the tipic antivirus | https://github.com/Malware-S/Backdoor-MacOS.GetShell.Amacho | 0 | 0| 
-| 20220103T16:23:22Z | Windows Backdoor that is controlled through Discord | https://github.com/3ct0s/disctopia-c2 | 0 | 0| 
-| 20220103T15:13:58Z | Discord.js Backdoor Bot JavaScript Repository | https://github.com/youandssef/BackdoorBot | 0 | 0| 
-| 20220103T15:09:52Z | Starlight backdoor framework | https://github.com/topsideduck/Starlight | 1 | 0| 
+| 20220104T11:57:33Z | Simple DLL that add a user to the local Administrators group | https://github.com/notdodo/adduser-dll | 2 | 1| 
+| 20220104T11:55:52Z | Jenkins Remote Command Execution | https://github.com/HSNHK/Shellkins | 0 | 0| 
+| 20220104T11:14:09Z | Website Shell BackDoors ( collection of internet ) | https://github.com/7r0j4ncodeing/web-shells | 24 | 7| 
+| 20220104T11:12:23Z | Threat Emulation and Red Teaming Framework, The Hacking Software for normal people. | https://github.com/quantumcore/remote_hacker_probe | 104 | 38| 
+| 20220104T10:22:50Z | the name of virus is the detection of microsoft defender, is the tipic antivirus | https://github.com/Malware-S/Backdoor-Win64.Turla.C.bin | 0 | 0| 
+| 20220104T10:18:47Z | the name of virus is the detection of microsoft defender, is the tipic antivirus | https://github.com/Malware-S/Backdoor-WIn32.Androm-MSR.exe | 0 | 0| 
+| 20220104T09:39:31Z | Null | https://github.com/lmaoitsrlyme/backdoorsotyperiodt | 0 | 0| 
+| 20220104T07:25:47Z | Null | https://github.com/Ramirez1001/backdoor | 0 | 0| 
+| 20220104T06:46:51Z | Null | https://github.com/Cybrient/BackdoorLogin | 0 | 0| 
+| 20220104T06:46:07Z | Null | https://github.com/HBKWOLF/backdoorCppCrossPlateform-master | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220103T23:00:32Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 11 | 5| 
-| 20220103T19:49:02Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 752 | 102| 
+| 20220104T11:07:50Z | Symbolica%s open-source symbolic execution engine. | https://github.com/Symbolica/Symbolica | 47 | 3| 
+| 20220104T11:05:50Z | Symbolic executor for the Move programming language. | https://github.com/fEst1ck/move-symbolic-execution | 0 | 0| 
+| 20220104T08:54:36Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1951 | 405| 
+| 20220104T08:43:59Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1863 | 529| 
+| 20220104T07:21:57Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 751 | 102| 
+| 20220104T04:37:18Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 11 | 5| 
 | 20220103T18:27:06Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2610 | 386| 
-| 20220103T18:12:44Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1863 | 529| 
 | 20220103T15:42:50Z | A Dynamic Symbolic Execution (DSE) engine for JavaScript. ExpoSE is highly scalable, compatible with recent JavaScript standards, and supports symbolic modelling of strings and regular expressions. | https://github.com/ExpoSEJS/ExpoSE | 120 | 22| 
-| 20220103T13:52:39Z | Symbolic executor for the Move programming language. | https://github.com/fEst1ck/move-symbolic-execution | 0 | 0| 
 | 20220102T20:52:49Z | An Adaptive Symbolic Execution Method For Detecting Heap Overflow Vulnerability Based On Vulnerability Specification | https://github.com/alikmli/HeapOverFlow-Detection | 0 | 0| 
 | 20220102T16:19:00Z | Codebase for my Level 4 University Project: Static Analysis of Executable Code to Detect Backdoors on IoT Devices | https://github.com/sophieboyle/Symbolic-Execution-for-ARM-Backdoor-Detection | 0 | 0| 
-| 20220102T10:09:27Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1951 | 405| 
-| 20220102T03:58:52Z | History of symbolic execution (as well as SAT/SMT solving, fuzzing, and taint data tracking) | https://github.com/enzet/symbolic-execution | 414 | 57| 
 
 
 # big4 on Github 推荐
@@ -104,16 +109,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220104T02:58:23Z | An open-source software package for fuzzing autonomous driving systems in high-fidelity simulators | https://github.com/AIasd/ADFuzz | 0 | 1| 
-| 20220104T02:44:50Z | A coverage-guided fuzzing framework for TiDB. | https://github.com/s3nt3/sqlvine | 0 | 0| 
-| 20220104T02:34:30Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 676 | 69| 
-| 20220104T02:30:09Z | Text Mining is used to convert text data into numeric data so that it can be processed further. Clustering is classified as soft clustering (fuzzy) and hard clustering. Hard clustering will divide data into clusters strictly without any overlapping membership with other clusters. Soft clustering can enter data into several clusters with a certain degree of membership value. Different membership values make fuzzy grouping have more natural results than hard clustering because objects at the boundary between several classes are not forced to fully fit into one class but each object is assigned a degree of membership. Fuzzy c-means has an advantage in terms of having a more precise placement of the cluster center compared to other cluster methods, by improving the cluster center repeatedly.  | https://github.com/ratnakurniasari/Tend-Analysis-Using-Text-Mining-and-Fuzzy-C-Means-CLustering | 0 | 0| 
-| 20220104T02:21:50Z | A GH action that builds an Rmd-based site to visualize results of a fuzzing campaign | https://github.com/jon-bell/fuzzing-build-site-action | 0 | 0| 
-| 20220104T02:17:03Z | python scripts to run fuzzer. | https://github.com/firefoxxpyang/run_fuzzer_scripts | 0 | 0| 
-| 20220104T02:16:10Z | A tool to extract tables from .docx files | https://github.com/LeonardoSirino/FuzzyTableExtractor | 1 | 0| 
-| 20220104T02:06:27Z | Null | https://github.com/ratnakurniasari/Trend-Analysis-Using-Text-Mining-and-Fuzzy-C-Means-Clustering | 0 | 0| 
-| 20220104T01:48:45Z | A site that allows you to reverse image search millions of furry images in under a second | https://github.com/Syfaro/fuzzysearch | 23 | 3| 
-| 20220104T01:23:41Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 911 | 139| 
+| 20220104T13:01:21Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 439 | 42| 
+| 20220104T12:59:04Z | Null | https://github.com/yuki-yano/fuzzy-motion.vim | 28 | 1| 
+| 20220104T12:54:55Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20220104T12:51:06Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 212 | 40| 
+| 20220104T12:43:19Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
+| 20220104T12:39:54Z | Null | https://github.com/agoloveichuk/FuzzerLib | 0 | 0| 
+| 20220104T11:57:26Z | Fuzzing Unification Framework | https://github.com/fuzzuf/fuzzuf | 187 | 10| 
+| 20220104T11:16:50Z | A heavily edited version of Privoxy intended for fuzzing. | https://github.com/MegaManSec/privoxy | 0 | 0| 
+| 20220104T11:16:20Z | Null | https://github.com/uweweng/fuzzyservices | 0 | 0| 
+| 20220104T10:51:51Z | Seed-based random network fuzzer | https://github.com/kahiroka/fuzz-automata | 0 | 0| 
 
 
 
