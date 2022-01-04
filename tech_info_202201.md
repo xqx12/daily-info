@@ -53,7 +53,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220104T02:47:46Z | Atmail XSS-RCE-CSRF Exploit Chain | https://github.com/AndrewTrube/CVE-2012-2593 | 0 | 0| 
+| 20220104T02:50:50Z | Atmail XSS-RCE-CSRF Exploit Chain | https://github.com/AndrewTrube/CVE-2012-2593 | 0 | 0| 
 | 20220104T02:34:01Z | Library for iSPLOIT, used for all of my exploits | https://github.com/IIssacDev/iSPLOIT-Library-Config | 0 | 0| 
 | 20220104T02:15:22Z | This code base has the code for reproducing the log4j vulnerability in the spring boot app. | https://github.com/dilipsundarraj1/log4j-exploit-demo | 0 | 0| 
 | 20220104T02:12:03Z | Kscan是一款纯go开发的轻量级的资产发现工具，可针对指定IP段、资产清单、存活网段自动化进行端口扫描以及TCP指纹识别和Banner抓取，在不发送更多的数据包的情况下尽可能的获取端口更多信息。并且能够针对扫描结果进行自动化暴力破解，且是go平台首款开源的RDP暴力破解工具。 | https://github.com/lcvvvv/kscan | 688 | 110| 
@@ -68,7 +68,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220104T02:49:14Z | Website Shell BackDoors ( collection of internet ) | https://github.com/7r0j4ncodeing/web-shells | 24 | 7| 
+| 20220104T02:50:37Z | Website Shell BackDoors ( collection of internet ) | https://github.com/7r0j4ncodeing/web-shells | 24 | 7| 
 | 20220103T23:12:57Z | Null | https://github.com/Ramirez1001/backdoor | 0 | 0| 
 | 20220103T22:04:49Z | [Keylogger && Shell Backdoor] Educational trojan horse.  | https://github.com/SaltyMilk/Durex | 0 | 0| 
 | 20220103T21:40:52Z | the name of virus is the detection of microsoft defender, is the tipic antivirus | https://github.com/Malware-S/HEUR-Backdoor-Linux.Agent.ar.elf | 0 | 0| 
