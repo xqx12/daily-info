@@ -54,14 +54,14 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220104T13:08:27Z | CRAX++: software CRash analysis for Automatic eXploit generation | https://github.com/SQLab/CRAXplusplus | 27 | 3| 
+| 20220104T13:17:17Z | CRAX++: software CRash analysis for Automatic eXploit generation | https://github.com/SQLab/CRAXplusplus | 27 | 3| 
 | 20220104T12:59:41Z | CRAX++: software CRash analysis for Automatic eXploit generation | https://github.com/aesophor/CRAXplusplus | 27 | 3| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220104T13:08:27Z | CRAX++: software CRash analysis for Automatic eXploit generation | https://github.com/SQLab/CRAXplusplus | 27 | 3| 
+| 20220104T13:17:17Z | CRAX++: software CRash analysis for Automatic eXploit generation | https://github.com/SQLab/CRAXplusplus | 27 | 3| 
 | 20220104T13:03:20Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 41 | 21| 
 | 20220104T12:59:41Z | CRAX++: software CRash analysis for Automatic eXploit generation | https://github.com/aesophor/CRAXplusplus | 27 | 3| 
 | 20220104T12:46:08Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 17| 
