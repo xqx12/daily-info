@@ -83,14 +83,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220103T23:00:32Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 11 | 5| 
+| 20220103T19:49:02Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 752 | 102| 
+| 20220103T18:27:06Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2610 | 386| 
+| 20220103T18:12:44Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1863 | 529| 
+| 20220103T15:42:50Z | A Dynamic Symbolic Execution (DSE) engine for JavaScript. ExpoSE is highly scalable, compatible with recent JavaScript standards, and supports symbolic modelling of strings and regular expressions. | https://github.com/ExpoSEJS/ExpoSE | 120 | 22| 
 | 20220103T13:52:39Z | Symbolic executor for the Move programming language. | https://github.com/fEst1ck/move-symbolic-execution | 0 | 0| 
-| 20220103T03:36:02Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 11 | 5| 
 | 20220102T20:52:49Z | An Adaptive Symbolic Execution Method For Detecting Heap Overflow Vulnerability Based On Vulnerability Specification | https://github.com/alikmli/HeapOverFlow-Detection | 0 | 0| 
 | 20220102T16:19:00Z | Codebase for my Level 4 University Project: Static Analysis of Executable Code to Detect Backdoors on IoT Devices | https://github.com/sophieboyle/Symbolic-Execution-for-ARM-Backdoor-Detection | 0 | 0| 
-| 20220102T10:09:27Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1951 | 406| 
+| 20220102T10:09:27Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1951 | 405| 
 | 20220102T03:58:52Z | History of symbolic execution (as well as SAT/SMT solving, fuzzing, and taint data tracking) | https://github.com/enzet/symbolic-execution | 414 | 57| 
-| 20220101T22:27:07Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1862 | 529| 
-| 20220101T13:31:54Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2609 | 386| 
 
 
 # big4 on Github 推荐

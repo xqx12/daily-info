@@ -76,8 +76,12 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220103T23:00:32Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 11 | 5| 
+| 20220103T19:49:02Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 752 | 102| 
+| 20220103T18:27:06Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2610 | 386| 
+| 20220103T18:12:44Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1863 | 529| 
+| 20220103T15:42:50Z | A Dynamic Symbolic Execution (DSE) engine for JavaScript. ExpoSE is highly scalable, compatible with recent JavaScript standards, and supports symbolic modelling of strings and regular expressions. | https://github.com/ExpoSEJS/ExpoSE | 120 | 22| 
 | 20220103T13:52:39Z | Symbolic executor for the Move programming language. | https://github.com/fEst1ck/move-symbolic-execution | 0 | 0| 
-| 20220103T03:36:02Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 11 | 5| 
 
 
 # big4 on Github 推荐
