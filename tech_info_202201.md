@@ -104,9 +104,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220104T01:07:50Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 674 | 69| 
 | 20220104T01:01:47Z | python scripts to run fuzzer. | https://github.com/firefoxxpyang/run_fuzzer_scripts | 0 | 0| 
 | 20220104T00:52:32Z | Null | https://github.com/Izzybee1995/fuzzy-waddle | 0 | 0| 
-| 20220104T00:51:11Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 673 | 69| 
 | 20220104T00:44:15Z | Null | https://github.com/ys-zhang/filter-fuzz | 0 | 0| 
 | 20220104T00:34:28Z | Null | https://github.com/igorsodre/fuzzy-trader | 0 | 0| 
 | 20220104T00:34:07Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2450 | 150| 
