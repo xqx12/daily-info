@@ -53,6 +53,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220104T01:42:09Z | Kscan是一款纯go开发的轻量级的资产发现工具，可针对指定IP段、资产清单、存活网段自动化进行端口扫描以及TCP指纹识别和Banner抓取，在不发送更多的数据包的情况下尽可能的获取端口更多信息。并且能够针对扫描结果进行自动化暴力破解，且是go平台首款开源的RDP暴力破解工具。 | https://github.com/lcvvvv/kscan | 688 | 110| 
 | 20220104T01:03:19Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 41 | 21| 
 | 20220104T01:00:03Z | Exploiting Causal Structure for Transportability in Online, Multi-Agent Environments | https://github.com/axelbrowne/ECS4TOMAE | 0 | 0| 
 | 20220104T00:52:42Z | This is a repo for the coding done for CTFs / exploits. The writeups are here: https://github.com/dillonwu-97/csec_writeups | https://github.com/dillonwu-97/csec-code | 0 | 0| 
@@ -62,7 +63,6 @@
 | 20220104T00:37:00Z | The Next-Gen Roblox Exploit Hub | https://github.com/HonestlyDex/DexHub | 1 | 1| 
 | 20220104T00:07:04Z | My TryHackMe writeups and notes  | https://github.com/dnts3110/TryHackMe-Writeups | 3 | 0| 
 | 20220103T23:18:13Z | Gazebo simulator for search-and-rescue experiments showcased on paper: Exploiting Natural Language for Efficient Risk-Aware Multi-Robot SaR Planning by Shree, Asfora, Zheng, Hong, Banfi and Campbell, in IEEE Robotics and Automation Letters, vol. 6, no. 2, pp. 3152-3159, April 2021, doi: 10.1109/LRA.2021.3062798. | https://github.com/basfora/SearchandRescue | 0 | 0| 
-| 20220103T22:46:50Z | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | 4 | 1| 
 
 
 # backdoor on Github 推荐
