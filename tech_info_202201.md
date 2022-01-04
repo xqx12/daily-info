@@ -104,7 +104,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220104T01:57:41Z | A tool to extract tables from .docx files | https://github.com/LeonardoSirino/FuzzyTableExtractor | 1 | 0| 
+| 20220104T02:04:04Z | A tool to extract tables from .docx files | https://github.com/LeonardoSirino/FuzzyTableExtractor | 1 | 0| 
 | 20220104T01:54:02Z | python scripts to run fuzzer. | https://github.com/firefoxxpyang/run_fuzzer_scripts | 0 | 0| 
 | 20220104T01:48:45Z | A site that allows you to reverse image search millions of furry images in under a second | https://github.com/Syfaro/fuzzysearch | 23 | 3| 
 | 20220104T01:23:41Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 911 | 139| 
