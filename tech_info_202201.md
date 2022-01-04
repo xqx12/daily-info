@@ -104,6 +104,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220104T02:14:04Z | Text Mining is used to convert text data into numeric data so that it can be processed further. Clustering is classified as soft clustering (fuzzy) and hard clustering. Hard clustering will divide data into clusters strictly without any overlapping membership with other clusters. Soft clustering can enter data into several clusters with a certain degree of membership value. Different membership values make fuzzy grouping have more natural results than hard clustering because objects at the boundary between several classes are not forced to fully fit into one class but each object is assigned a degree of membership. Fuzzy c-means has an advantage in terms of having a more precise placement of the cluster center compared to other cluster methods, by improving the cluster center repeatedly.  | https://github.com/ratnakurniasari/Tend-Analysis-Using-Text-Mining-and-Fuzzy-C-Means-CLustering | 0 | 0| 
 | 20220104T02:11:13Z | python scripts to run fuzzer. | https://github.com/firefoxxpyang/run_fuzzer_scripts | 0 | 0| 
 | 20220104T02:06:27Z | Null | https://github.com/ratnakurniasari/Trend-Analysis-Using-Text-Mining-and-Fuzzy-C-Means-Clustering | 0 | 0| 
 | 20220104T02:04:04Z | A tool to extract tables from .docx files | https://github.com/LeonardoSirino/FuzzyTableExtractor | 1 | 0| 
@@ -113,7 +114,6 @@
 | 20220104T01:18:39Z | Simple Network Fuzzer in libafl | https://github.com/elbiazo/libafl_network_fuzzer | 0 | 0| 
 | 20220104T01:09:32Z | Null | https://github.com/igorsodre/fuzzy-trader | 0 | 0| 
 | 20220104T00:52:32Z | Null | https://github.com/Izzybee1995/fuzzy-waddle | 0 | 0| 
-| 20220104T00:44:15Z | Null | https://github.com/ys-zhang/filter-fuzz | 0 | 0| 
 
 
 
