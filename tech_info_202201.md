@@ -76,6 +76,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220104T13:48:20Z | Starlight backdoor framework | https://github.com/topsideduck/Starlight | 1 | 0| 
 | 20220104T11:57:33Z | Simple DLL that add a user to the local Administrators group | https://github.com/notdodo/adduser-dll | 2 | 1| 
 | 20220104T11:55:52Z | Jenkins Remote Command Execution | https://github.com/HSNHK/Shellkins | 0 | 0| 
 | 20220104T11:14:09Z | Website Shell BackDoors ( collection of internet ) | https://github.com/7r0j4ncodeing/web-shells | 24 | 7| 
@@ -85,7 +86,6 @@
 | 20220104T09:39:31Z | Null | https://github.com/lmaoitsrlyme/backdoorsotyperiodt | 0 | 0| 
 | 20220104T07:25:47Z | Null | https://github.com/Ramirez1001/backdoor | 0 | 0| 
 | 20220104T06:46:51Z | Null | https://github.com/Cybrient/BackdoorLogin | 0 | 0| 
-| 20220104T06:46:07Z | Null | https://github.com/HBKWOLF/backdoorCppCrossPlateform-master | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -112,8 +112,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220104T13:48:51Z | Report draft for https://fuzzingworkshop.github.io/ | https://github.com/agroce/fuzzing22report | 0 | 1| 
 | 20220104T13:46:27Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2356 | 454| 
-| 20220104T13:41:43Z | Report draft for https://fuzzingworkshop.github.io/ | https://github.com/agroce/fuzzing22report | 0 | 1| 
 | 20220104T13:37:27Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 686 | 69| 
 | 20220104T13:14:28Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20220104T13:07:47Z | Null | https://github.com/Jackal-Studios/Fuzzy-Pdf-Search | 0 | 0| 
