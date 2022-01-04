@@ -21,6 +21,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220104T13:51:59Z | 未知编号 | Null | https://github.com/w1023913214/CVE-2022 | | 
 | 20220104T12:10:35Z | CVE-2021-22214 | POC for CVE-2021-22214: Gitlab SSRF | https://github.com/kh4sh3i/GitLab-SSRF-CVE-2021-22214 | | 
 | 20220104T11:48:49Z | CVE-2021-24307 | Null | https://github.com/darkpills/CVE-2021-24307-all-in-one-seo-pack-admin-rce | | 
 | 20220104T09:01:44Z | CVE-2021-28750 | PoC Site for tsunami-security-scanner-plugins.  | https://github.com/PfalzPrince/CVE-2021-28750-site | | 
@@ -92,6 +93,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220104T13:53:19Z | Null | https://github.com/slashsec-edu/fuzz-target | 1 | 1| 
 | 20220104T13:48:51Z | Report draft for https://fuzzingworkshop.github.io/ | https://github.com/agroce/fuzzing22report | 0 | 1| 
 | 20220104T13:46:27Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2356 | 454| 
 | 20220104T13:37:27Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 686 | 69| 
@@ -101,7 +103,6 @@
 | 20220104T12:59:04Z | Null | https://github.com/yuki-yano/fuzzy-motion.vim | 28 | 1| 
 | 20220104T12:51:06Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 212 | 40| 
 | 20220104T12:43:19Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
-| 20220104T12:39:54Z | Null | https://github.com/agoloveichuk/FuzzerLib | 0 | 0| 
 
 
 
