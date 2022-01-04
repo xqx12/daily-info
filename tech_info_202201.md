@@ -104,6 +104,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220104T01:18:39Z | Simple Network Fuzzer in libafl | https://github.com/elbiazo/libafl_network_fuzzer | 0 | 0| 
 | 20220104T01:09:32Z | Null | https://github.com/igorsodre/fuzzy-trader | 0 | 0| 
 | 20220104T01:07:50Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 674 | 69| 
 | 20220104T01:01:47Z | python scripts to run fuzzer. | https://github.com/firefoxxpyang/run_fuzzer_scripts | 0 | 0| 
@@ -113,7 +114,6 @@
 | 20220104T00:20:32Z | Fuzzy sets and fuzzy logic theory implementations in Swift. | https://github.com/allexks/FuzzyKit | 0 | 0| 
 | 20220104T00:15:03Z | Null | https://github.com/evialina/fuzzy_systems | 0 | 0| 
 | 20220104T00:07:51Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 38 | 12| 
-| 20220104T00:01:34Z | CBOR codec (RFC 8949) with CBOR tags, Go struct tags (toarray, keyasint, omitempty), float64/32/16, big.Int, and fuzz tested billions of execs.  | https://github.com/fxamacker/cbor | 363 | 32| 
 
 
 
