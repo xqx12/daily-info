@@ -92,10 +92,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220104T13:14:28Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20220104T13:07:47Z | Null | https://github.com/Jackal-Studios/Fuzzy-Pdf-Search | 0 | 0| 
 | 20220104T13:01:21Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 439 | 42| 
 | 20220104T12:59:04Z | Null | https://github.com/yuki-yano/fuzzy-motion.vim | 28 | 1| 
-| 20220104T12:54:55Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20220104T12:51:06Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 212 | 40| 
 | 20220104T12:43:19Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
 | 20220104T12:39:54Z | Null | https://github.com/agoloveichuk/FuzzerLib | 0 | 0| 
