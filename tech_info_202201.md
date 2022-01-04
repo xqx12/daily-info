@@ -53,7 +53,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220104T02:32:28Z | Library for iSPLOIT, used for all of my exploits | https://github.com/IIssacDev/iSPLOIT-Library-Config | 0 | 0| 
+| 20220104T02:34:01Z | Library for iSPLOIT, used for all of my exploits | https://github.com/IIssacDev/iSPLOIT-Library-Config | 0 | 0| 
 | 20220104T02:15:22Z | This code base has the code for reproducing the log4j vulnerability in the spring boot app. | https://github.com/dilipsundarraj1/log4j-exploit-demo | 0 | 0| 
 | 20220104T02:12:03Z | Kscan是一款纯go开发的轻量级的资产发现工具，可针对指定IP段、资产清单、存活网段自动化进行端口扫描以及TCP指纹识别和Banner抓取，在不发送更多的数据包的情况下尽可能的获取端口更多信息。并且能够针对扫描结果进行自动化暴力破解，且是go平台首款开源的RDP暴力破解工具。 | https://github.com/lcvvvv/kscan | 688 | 110| 
 | 20220104T02:03:15Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 41 | 21| 
