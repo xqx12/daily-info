@@ -104,6 +104,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220104T02:06:27Z | Null | https://github.com/ratnakurniasari/Trend-Analysis-Using-Text-Mining-and-Fuzzy-C-Means-Clustering | 0 | 0| 
 | 20220104T02:04:04Z | A tool to extract tables from .docx files | https://github.com/LeonardoSirino/FuzzyTableExtractor | 1 | 0| 
 | 20220104T01:54:02Z | python scripts to run fuzzer. | https://github.com/firefoxxpyang/run_fuzzer_scripts | 0 | 0| 
 | 20220104T01:48:45Z | A site that allows you to reverse image search millions of furry images in under a second | https://github.com/Syfaro/fuzzysearch | 23 | 3| 
@@ -113,7 +114,6 @@
 | 20220104T01:09:32Z | Null | https://github.com/igorsodre/fuzzy-trader | 0 | 0| 
 | 20220104T00:52:32Z | Null | https://github.com/Izzybee1995/fuzzy-waddle | 0 | 0| 
 | 20220104T00:44:15Z | Null | https://github.com/ys-zhang/filter-fuzz | 0 | 0| 
-| 20220104T00:34:07Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2450 | 150| 
 
 
 
