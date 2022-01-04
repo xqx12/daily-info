@@ -112,6 +112,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220104T13:41:43Z | Report draft for https://fuzzingworkshop.github.io/ | https://github.com/agroce/fuzzing22report | 0 | 1| 
 | 20220104T13:37:27Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 686 | 69| 
 | 20220104T13:14:28Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20220104T13:07:47Z | Null | https://github.com/Jackal-Studios/Fuzzy-Pdf-Search | 0 | 0| 
@@ -121,7 +122,6 @@
 | 20220104T12:43:19Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
 | 20220104T12:39:54Z | Null | https://github.com/agoloveichuk/FuzzerLib | 0 | 0| 
 | 20220104T11:57:26Z | Fuzzing Unification Framework | https://github.com/fuzzuf/fuzzuf | 187 | 10| 
-| 20220104T11:16:50Z | A heavily edited version of Privoxy intended for fuzzing. | https://github.com/MegaManSec/privoxy | 0 | 0| 
 
 
 
