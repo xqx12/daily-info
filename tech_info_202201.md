@@ -68,7 +68,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220104T02:42:10Z | Website Shell BackDoors ( collection of internet ) | https://github.com/7r0j4ncodeing/web-shells | 23 | 7| 
+| 20220104T02:44:55Z | Website Shell BackDoors ( collection of internet ) | https://github.com/7r0j4ncodeing/web-shells | 23 | 7| 
 | 20220103T23:12:57Z | Null | https://github.com/Ramirez1001/backdoor | 0 | 0| 
 | 20220103T22:04:49Z | [Keylogger && Shell Backdoor] Educational trojan horse.  | https://github.com/SaltyMilk/Durex | 0 | 0| 
 | 20220103T21:40:52Z | the name of virus is the detection of microsoft defender, is the tipic antivirus | https://github.com/Malware-S/HEUR-Backdoor-Linux.Agent.ar.elf | 0 | 0| 
@@ -104,6 +104,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220104T02:44:50Z | A coverage-guided fuzzing framework for TiDB. | https://github.com/s3nt3/sqlvine | 0 | 0| 
 | 20220104T02:34:30Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 676 | 69| 
 | 20220104T02:30:09Z | Text Mining is used to convert text data into numeric data so that it can be processed further. Clustering is classified as soft clustering (fuzzy) and hard clustering. Hard clustering will divide data into clusters strictly without any overlapping membership with other clusters. Soft clustering can enter data into several clusters with a certain degree of membership value. Different membership values make fuzzy grouping have more natural results than hard clustering because objects at the boundary between several classes are not forced to fully fit into one class but each object is assigned a degree of membership. Fuzzy c-means has an advantage in terms of having a more precise placement of the cluster center compared to other cluster methods, by improving the cluster center repeatedly.  | https://github.com/ratnakurniasari/Tend-Analysis-Using-Text-Mining-and-Fuzzy-C-Means-CLustering | 0 | 0| 
 | 20220104T02:21:50Z | A GH action that builds an Rmd-based site to visualize results of a fuzzing campaign | https://github.com/jon-bell/fuzzing-build-site-action | 0 | 0| 
@@ -113,7 +114,6 @@
 | 20220104T01:48:45Z | A site that allows you to reverse image search millions of furry images in under a second | https://github.com/Syfaro/fuzzysearch | 23 | 3| 
 | 20220104T01:23:41Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 911 | 139| 
 | 20220104T01:18:39Z | Simple Network Fuzzer in libafl | https://github.com/elbiazo/libafl_network_fuzzer | 0 | 0| 
-| 20220104T01:09:32Z | Null | https://github.com/igorsodre/fuzzy-trader | 0 | 0| 
 
 
 
