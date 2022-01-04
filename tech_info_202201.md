@@ -104,6 +104,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220104T01:48:45Z | A site that allows you to reverse image search millions of furry images in under a second | https://github.com/Syfaro/fuzzysearch | 23 | 3| 
 | 20220104T01:45:27Z | python scripts to run fuzzer. | https://github.com/firefoxxpyang/run_fuzzer_scripts | 0 | 0| 
 | 20220104T01:23:41Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 911 | 139| 
 | 20220104T01:19:22Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 675 | 69| 
@@ -113,7 +114,6 @@
 | 20220104T00:44:15Z | Null | https://github.com/ys-zhang/filter-fuzz | 0 | 0| 
 | 20220104T00:34:07Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2450 | 150| 
 | 20220104T00:20:32Z | Fuzzy sets and fuzzy logic theory implementations in Swift. | https://github.com/allexks/FuzzyKit | 0 | 0| 
-| 20220104T00:15:03Z | Null | https://github.com/evialina/fuzzy_systems | 0 | 0| 
 
 
 
