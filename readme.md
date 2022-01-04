@@ -92,6 +92,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220104T13:46:27Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2356 | 454| 
 | 20220104T13:41:43Z | Report draft for https://fuzzingworkshop.github.io/ | https://github.com/agroce/fuzzing22report | 0 | 1| 
 | 20220104T13:37:27Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 686 | 69| 
 | 20220104T13:14:28Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
@@ -101,7 +102,6 @@
 | 20220104T12:51:06Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 212 | 40| 
 | 20220104T12:43:19Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
 | 20220104T12:39:54Z | Null | https://github.com/agoloveichuk/FuzzerLib | 0 | 0| 
-| 20220104T11:57:26Z | Fuzzing Unification Framework | https://github.com/fuzzuf/fuzzuf | 187 | 10| 
 
 
 
