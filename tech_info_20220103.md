@@ -70,7 +70,7 @@
 | 20220103T16:23:22Z | Windows Backdoor that is controlled through Discord | https://github.com/3ct0s/disctopia-c2 | 0 | 0| 
 | 20220103T15:13:58Z | Discord.js Backdoor Bot JavaScript Repository | https://github.com/youandssef/BackdoorBot | 0 | 0| 
 | 20220103T15:09:52Z | Starlight backdoor framework | https://github.com/topsideduck/Starlight | 1 | 0| 
-| 20220103T14:25:02Z | Website Shell BackDoors ( collection of internet ) | https://github.com/7r0j4ncodeing/web-shells | 23 | 7| 
+| 20220103T13:51:13Z | Null | https://github.com/generatorexit/backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
