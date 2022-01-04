@@ -104,11 +104,11 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220104T01:45:27Z | python scripts to run fuzzer. | https://github.com/firefoxxpyang/run_fuzzer_scripts | 0 | 0| 
 | 20220104T01:23:41Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 911 | 139| 
 | 20220104T01:19:22Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 675 | 69| 
 | 20220104T01:18:39Z | Simple Network Fuzzer in libafl | https://github.com/elbiazo/libafl_network_fuzzer | 0 | 0| 
 | 20220104T01:09:32Z | Null | https://github.com/igorsodre/fuzzy-trader | 0 | 0| 
-| 20220104T01:01:47Z | python scripts to run fuzzer. | https://github.com/firefoxxpyang/run_fuzzer_scripts | 0 | 0| 
 | 20220104T00:52:32Z | Null | https://github.com/Izzybee1995/fuzzy-waddle | 0 | 0| 
 | 20220104T00:44:15Z | Null | https://github.com/ys-zhang/filter-fuzz | 0 | 0| 
 | 20220104T00:34:07Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2450 | 150| 
