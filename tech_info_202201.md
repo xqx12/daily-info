@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220105T02:51:13Z | CVE-2022-123 | Null | https://github.com/gnaiq/CVE-2022-123 | | 
 | 20220105T02:44:43Z | CVE-2021-42342 | CVE-2021-42342 RCE | https://github.com/Mr-xn/CVE-2021-42342 | | 
 | 20220105T02:11:12Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20220104T18:25:41Z | CVE-2021-44228 | Null | https://github.com/b-abderrahmane/CVE-2021-44228-playground | | 
@@ -35,7 +36,6 @@
 | 20220104T15:24:48Z | cve-2021-44228 | Ansible detector scanner playbook to verify target Linux hosts using the official Red Hat Log4j detector script RHSB-2021-009 Remote Code Execution - log4j (CVE-2021-44228) | https://github.com/lucab85/log4j-cve-2021-44228 | | 
 | 20220104T13:51:59Z | 未知编号 | Null | https://github.com/w1023913214/CVE-2022 | | 
 | 20220104T12:10:35Z | CVE-2021-22214 | POC for CVE-2021-22214: Gitlab SSRF | https://github.com/kh4sh3i/GitLab-SSRF-CVE-2021-22214 | | 
-| 20220104T11:48:49Z | CVE-2021-24307 | Null | https://github.com/darkpills/CVE-2021-24307-all-in-one-seo-pack-admin-rce | | 
 
 
 # klee on Github 推荐
