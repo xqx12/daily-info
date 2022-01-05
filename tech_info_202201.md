@@ -36,8 +36,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220105T13:13:29Z | CVE-2021-44228 | Backdoor detection for VMware view | https://github.com/mr-r3b00t/CVE-2021-44228 | | 
 | 20220105T12:47:46Z | CVE-2021-45232 | CVE-2021-45232-RCE-多线程批量漏洞检测 | https://github.com/GYLQ/CVE-2021-45232-RCE | | 
-| 20220105T12:37:42Z | CVE-2021-44228 | Backdoor detection for VMware view | https://github.com/mr-r3b00t/CVE-2021-44228 | | 
 | 20220105T12:35:12Z | CVE-2021-42342 | CVE-2021-42342 RCE | https://github.com/Mr-xn/CVE-2021-42342 | | 
 | 20220105T10:16:27Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20220105T09:19:16Z | CVE-2021-44228 | Null | https://github.com/b-abderrahmane/CVE-2021-44228-playground | | 
@@ -77,6 +77,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220105T13:13:14Z | Null | https://github.com/berkantrl/vsFTP_234_exploit | 1 | 0| 
 | 20220105T13:03:30Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 42 | 21| 
 | 20220105T12:57:35Z | Site where i mostly document my exploits. Built with Nuxt, Tailwind and currently using Forestry CMS | https://github.com/ikeohachidi/ikeoha | 0 | 0| 
 | 20220105T12:57:34Z | CRAX++: S2E-based modular exploit generation system that incorporates various binary exploitation techniques. | https://github.com/SQLab/CRAXplusplus | 29 | 3| 
@@ -86,7 +87,6 @@
 | 20220105T12:28:22Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 276 | 83| 
 | 20220105T12:07:05Z | Some Generic Browser Exploits (For Educational Purposes Only) | https://github.com/matamorphosis/Browser-Exploits | 24 | 25| 
 | 20220105T11:49:38Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4221 | 599| 
-| 20220105T11:48:39Z | 🦄🔒 Awesome list of secrets in environment variables 🖥️ | https://github.com/Puliczek/awesome-list-of-secrets-in-environment-variables | 244 | 15| 
 
 
 # backdoor on Github 推荐
@@ -128,6 +128,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220105T13:14:19Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6989 | 1464| 
 | 20220105T12:53:09Z | Null | https://github.com/nhsd-exeter/dos-service-fuzzy-search-api | 1 | 0| 
 | 20220105T12:52:53Z | Fuzzy completion provider for Julia | https://github.com/JunoLab/FuzzyCompletions.jl | 7 | 3| 
 | 20220105T12:43:32Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1144 | 48| 
@@ -137,7 +138,6 @@
 | 20220105T11:40:18Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20220105T11:30:10Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 439 | 42| 
 | 20220105T10:51:03Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 10 | 4| 
-| 20220105T10:34:36Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2413 | 480| 
 
 
 
