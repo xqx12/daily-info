@@ -56,6 +56,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220105T01:21:23Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 2 | 0| 
 | 20220105T01:08:20Z | Serial to Ethernet Module based on W5500 & Cortex-M0 | https://github.com/Wiznet/WIZ550S2E-Modbus | 3 | 4| 
 | 20220105T00:11:53Z | Null | https://github.com/s2e-lab/s2e-lab.github.io | 0 | 0| 
 | 20220104T17:06:40Z | CRAX++: S2E-based modular exploit generation system that incorporates various binary exploitation techniques. | https://github.com/SQLab/CRAXplusplus | 29 | 3| 
@@ -116,6 +117,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220105T01:20:52Z | Kodi EPG Fuzzy match to local library | https://github.com/kcook98765/script.epg_fuzzy_match | 0 | 0| 
 | 20220105T01:10:57Z | the first testy repo | https://github.com/pedi26/fuzzy-octo-garbanzo | 0 | 0| 
 | 20220105T01:03:58Z | playing with state | https://github.com/dustinturp/fuzzy-octo-palm-tree | 0 | 0| 
 | 20220105T00:54:03Z | MobFuzz | https://github.com/zhanggenex/MobFuzz | 0 | 0| 
@@ -125,7 +127,6 @@
 | 20220104T23:49:33Z | Using fuzzy logic to self drive a truck on a randomly generated road | https://github.com/hinsonan/FuzzyLogicSelfDrivingTruck | 0 | 0| 
 | 20220104T23:40:20Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20220104T23:38:18Z | bot version 2 | https://github.com/Abybody/fuzzy-octo-chainsaw | 0 | 0| 
-| 20220104T23:36:07Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 
 
 
