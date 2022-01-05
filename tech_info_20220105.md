@@ -14,6 +14,7 @@
 | 20220105 | 通过自动化分析 Linux 内核镜像，生成 Kconfig 配置文件 | http://zznop.com/2022/01/02/automated-re-of-kernel-build-configs/| 
 | 20220105 | Intel 12 代 CPU Alder Lake 新增的 VT-rp 硬件保护特性的分析 | https://www.andrea-allievi.com/blog/alder-lake-and-the-new-intel-features/| 
 | 20220105 | Windows 内核的 Secure Kernel Patch Guard 保护机制分析 | https://windows-internals.com/hyperguard-secure-kernel-patch-guard-part-1-skpg-initialization/| 
+| 20220105 | hxp CTF 2021 - The End Of LFI? | https://tttang.com/archive/1395/| 
 
 
 # 安全维基 推荐
@@ -73,8 +74,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220105T13:13:29Z | Backdoor detection for VMware view | https://github.com/mr-r3b00t/CVE-2021-44228 | 1 | 0| 
 | 20220105T13:08:46Z | Null | https://github.com/sweeper02/backdoor | 0 | 0| 
-| 20220105T12:37:42Z | Backdoor detection for VMware view | https://github.com/mr-r3b00t/CVE-2021-44228 | 0 | 0| 
 | 20220105T10:11:35Z | The best backdoor scanner there is. | https://github.com/iK4oS/backdoor.exe | 2 | 7| 
 | 20220105T09:38:41Z | Simple DLL that add a user to the local Administrators group | https://github.com/notdodo/adduser-dll | 23 | 6| 
 | 20220105T09:35:21Z | Null | https://github.com/akashganguly420/Anydesk-As-a-Backdoor | 0 | 0| 
