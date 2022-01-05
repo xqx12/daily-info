@@ -117,7 +117,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220105T01:58:59Z | Null | https://github.com/Lceaf12/fuzzy-octo-parakeet | 0 | 0| 
+| 20220105T01:59:46Z | Null | https://github.com/Lceaf12/fuzzy-octo-parakeet | 0 | 0| 
 | 20220105T01:56:17Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 699 | 69| 
 | 20220105T01:50:52Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 38 | 12| 
 | 20220105T01:41:52Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
