@@ -16,6 +16,7 @@
 | 20220105 | Windows 内核的 Secure Kernel Patch Guard 保护机制分析 | https://windows-internals.com/hyperguard-secure-kernel-patch-guard-part-1-skpg-initialization/| 
 | 20220105 | hxp CTF 2021 - The End Of LFI? | https://tttang.com/archive/1395/| 
 | 20220105 | Fiora：快捷搜索PoC、一键运行Nuclei演示视频. | https://www.bilibili.com/video/bv1Ha411z7T1| 
+| 20220105 | Termux——基于Android 的Linux终端模拟器功能介绍. | https://mp.weixin.qq.com/s/p-VU8OKuogKxZbvDt95k6A| 
 
 
 # 安全维基 推荐

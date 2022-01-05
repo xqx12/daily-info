@@ -16,6 +16,7 @@
 | 20220105 | Windows 内核的 Secure Kernel Patch Guard 保护机制分析 | https://windows-internals.com/hyperguard-secure-kernel-patch-guard-part-1-skpg-initialization/| 
 | 20220105 | hxp CTF 2021 - The End Of LFI? | https://tttang.com/archive/1395/| 
 | 20220105 | Fiora：快捷搜索PoC、一键运行Nuclei演示视频. | https://www.bilibili.com/video/bv1Ha411z7T1| 
+| 20220105 | Termux——基于Android 的Linux终端模拟器功能介绍. | https://mp.weixin.qq.com/s/p-VU8OKuogKxZbvDt95k6A| 
 | 20220104 | Reverse Engineering Radios – ARM Binary Images in IDA Pro. | http://do1alx.de/2022/reverse-engineering-radios-arm-binary-images-in-ida-pro/| 
 | 20220104 | NoAgent内存马检测工具. | https://tttang.com/archive/1390/| 
 | 20220103 | 学习网络安全相关的思维导图资料合集。 | https://github.com/coco413/SecMind| 
