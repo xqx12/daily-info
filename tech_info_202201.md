@@ -117,13 +117,13 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220105T02:53:02Z | Ini adalah Program penyelesaian Logika Fuzzy untuk Matakuliah Kecerdasan Buatan  | https://github.com/diqimusyaffa29/fuzzylogic-tsukamoto-distribusi-raskin | 1 | 0| 
 | 20220105T02:45:46Z | Hsuan-Fuzz: REST API Fuzzing by Coverage Level Guided Blackbox Testing | https://github.com/iasthc/hsuan-fuzz | 13 | 1| 
 | 20220105T02:44:37Z | Null | https://github.com/miasnguyenx/fuzzy-c-means | 0 | 0| 
-| 20220105T02:44:19Z | Ini adalah Program penyelesaian Logika Fuzzy untuk Matakuliah Kecerdasan Buatan  | https://github.com/diqimusyaffa29/fuzzylogic-tsukamoto-distribusi-raskin | 1 | 0| 
 | 20220105T02:40:19Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 38 | 12| 
 | 20220105T02:31:28Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4657 | 474| 
 | 20220105T02:29:19Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20220105T02:28:25Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 701 | 69| 
+| 20220105T02:28:25Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 701 | 70| 
 | 20220105T01:59:46Z | Null | https://github.com/Lceaf12/fuzzy-octo-parakeet | 0 | 0| 
 | 20220105T01:30:24Z | Kodi EPG Fuzzy match to local library | https://github.com/kcook98765/script.epg_fuzzy_match | 0 | 0| 
 | 20220105T01:30:01Z | MobFuzz | https://github.com/zhanggenex/MobFuzz | 0 | 0| 
