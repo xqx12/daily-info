@@ -54,13 +54,13 @@
 | 20220104T23:56:25Z | A discord email spammer exploit that works by unferifying a tokens email and then requesting discord verify it again multiple times which leads to discord spamming that email with email verification messages | https://github.com/Rdimo/Discord-email-spammer-exploit | 2 | 0| 
 | 20220104T23:47:55Z | MILP planner for search-and-rescue missions showcased on paper: Exploiting Natural Language for Efficient Risk-Aware Multi-Robot SaR Planning by Shree, Asfora, Zheng, Hong, Banfi and Campbell, in IEEE Robotics and Automation Letters, vol. 6, no. 2, pp. 3152-3159, April 2021, doi: 10.1109/LRA.2021.3062798. | https://github.com/basfora/milp_sim | 0 | 0| 
 | 20220104T23:35:05Z | Gazebo simulator for search-and-rescue experiments showcased on paper: Exploiting Natural Language for Efficient Risk-Aware Multi-Robot SaR Planning by Shree, Asfora, Zheng, Hong, Banfi and Campbell, in IEEE Robotics and Automation Letters, vol. 6, no. 2, pp. 3152-3159, April 2021, doi: 10.1109/LRA.2021.3062798. | https://github.com/basfora/SearchandRescue | 0 | 0| 
-| 20220104T23:23:32Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 275 | 83| 
 | 20220104T23:07:20Z | WIP Post-exploitation framework tailored for hypervisors. | https://github.com/Psmths/reave | 3 | 3| 
 | 20220104T23:04:02Z | Vulnerabilities found along the way | https://github.com/hansmach1ne/MyExploits | 2 | 0| 
 | 20220104T22:32:28Z | Browser extension to prevent Log4J exploits against services running on private network and localhost. | https://github.com/paladincyber/log4jprotector | 7 | 0| 
 | 20220104T22:24:47Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10537 | 1808| 
 | 20220104T22:07:41Z | TryHackMe CTFs writeups, notes, dratfs, scrabbles, files and solutions. | https://github.com/edoardottt/tryhackme-ctf | 44 | 19| 
 | 20220104T22:04:31Z | Null | https://github.com/YungBinary/get-log4j-exploit-payload-docker | 0 | 0| 
+| 20220104T21:51:23Z | Hey! I%m edoardottt! 🏴‍☠️👹 | https://github.com/edoardottt/edoardottt | 0 | 0| 
 
 
 # backdoor on Github 推荐

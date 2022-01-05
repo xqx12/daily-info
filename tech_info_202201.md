@@ -66,6 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220105T02:23:48Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 276 | 83| 
 | 20220105T02:09:31Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 327 | 831| 
 | 20220105T02:03:36Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 42 | 21| 
 | 20220105T01:39:25Z | CRAX++: S2E-based modular exploit generation system that incorporates various binary exploitation techniques. | https://github.com/SQLab/CRAXplusplus | 29 | 3| 
@@ -75,7 +76,6 @@
 | 20220105T00:46:08Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 17| 
 | 20220105T00:21:24Z | Aura is an Executor Made for Roblox with Many Features | https://github.com/aSnowyNight/Aura | 0 | 0| 
 | 20220104T23:56:25Z | A discord email spammer exploit that works by unferifying a tokens email and then requesting discord verify it again multiple times which leads to discord spamming that email with email verification messages | https://github.com/Rdimo/Discord-email-spammer-exploit | 2 | 0| 
-| 20220104T23:47:55Z | MILP planner for search-and-rescue missions showcased on paper: Exploiting Natural Language for Efficient Risk-Aware Multi-Robot SaR Planning by Shree, Asfora, Zheng, Hong, Banfi and Campbell, in IEEE Robotics and Automation Letters, vol. 6, no. 2, pp. 3152-3159, April 2021, doi: 10.1109/LRA.2021.3062798. | https://github.com/basfora/milp_sim | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -117,8 +117,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220105T02:28:25Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 701 | 69| 
 | 20220105T02:11:03Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 38 | 12| 
-| 20220105T02:07:28Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 700 | 69| 
 | 20220105T01:59:46Z | Null | https://github.com/Lceaf12/fuzzy-octo-parakeet | 0 | 0| 
 | 20220105T01:41:52Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20220105T01:30:24Z | Kodi EPG Fuzzy match to local library | https://github.com/kcook98765/script.epg_fuzzy_match | 0 | 0| 
