@@ -66,9 +66,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220105T02:03:36Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 42 | 21| 
 | 20220105T01:39:25Z | CRAX++: S2E-based modular exploit generation system that incorporates various binary exploitation techniques. | https://github.com/SQLab/CRAXplusplus | 29 | 3| 
 | 20220105T01:18:00Z | Código del admin CMD X de roblox, un script que se publicará en pastebin y cualquiera podrá usar con exploits en roblox. Obviamente solo sirve en PC los exploits. | https://github.com/NABILPRO2009/CMD-X-Admin-Commands-Code | 0 | 0| 
-| 20220105T01:04:01Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 42 | 21| 
 | 20220105T00:49:09Z | Fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | 0 | 0| 
 | 20220105T00:46:35Z | This code base has the code for reproducing the log4j vulnerability in the spring boot app. | https://github.com/dilipsundarraj1/log4j-exploit-demo | 0 | 0| 
 | 20220105T00:46:08Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 17| 
@@ -81,6 +81,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220105T02:03:44Z | Null | https://github.com/MrWater98/motor-federated-backdoor | 0 | 0| 
 | 20220105T01:31:35Z | Simple DLL that add a user to the local Administrators group | https://github.com/notdodo/adduser-dll | 18 | 4| 
 | 20220104T19:24:17Z | windows 11, 10 persistent backdoor undetectable developed in ruby | https://github.com/DioBruh/backdoor-windows | 7 | 0| 
 | 20220104T13:48:20Z | Starlight backdoor framework | https://github.com/topsideduck/Starlight | 1 | 0| 
@@ -90,7 +91,6 @@
 | 20220104T10:22:50Z | the name of virus is the detection of microsoft defender, is the tipic antivirus | https://github.com/Malware-S/Backdoor-Win64.Turla.C.bin | 0 | 0| 
 | 20220104T10:18:47Z | the name of virus is the detection of microsoft defender, is the tipic antivirus | https://github.com/Malware-S/Backdoor-WIn32.Androm-MSR.exe | 0 | 0| 
 | 20220104T09:39:31Z | Null | https://github.com/lmaoitsrlyme/backdoorsotyperiodt | 0 | 0| 
-| 20220104T07:25:47Z | Null | https://github.com/Ramirez1001/backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
