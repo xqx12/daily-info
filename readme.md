@@ -58,6 +58,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220105T13:03:30Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 42 | 21| 
 | 20220105T12:57:35Z | Site where i mostly document my exploits. Built with Nuxt, Tailwind and currently using Forestry CMS | https://github.com/ikeohachidi/ikeoha | 0 | 0| 
 | 20220105T12:57:34Z | CRAX++: S2E-based modular exploit generation system that incorporates various binary exploitation techniques. | https://github.com/SQLab/CRAXplusplus | 29 | 3| 
 | 20220105T12:51:02Z | Vulnerabilities found along the way | https://github.com/hansmach1ne/MyExploits | 2 | 0| 
@@ -65,7 +66,6 @@
 | 20220105T12:46:09Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 17| 
 | 20220105T12:28:22Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 276 | 83| 
 | 20220105T12:07:05Z | Some Generic Browser Exploits (For Educational Purposes Only) | https://github.com/matamorphosis/Browser-Exploits | 24 | 25| 
-| 20220105T12:04:11Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 42 | 21| 
 | 20220105T11:49:38Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4221 | 599| 
 | 20220105T11:48:39Z | 🦄🔒 Awesome list of secrets in environment variables 🖥️ | https://github.com/Puliczek/awesome-list-of-secrets-in-environment-variables | 244 | 15| 
 
@@ -105,16 +105,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220105T02:57:42Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 38 | 12| 
-| 20220105T02:53:02Z | Ini adalah Program penyelesaian Logika Fuzzy untuk Matakuliah Kecerdasan Buatan  | https://github.com/diqimusyaffa29/fuzzylogic-tsukamoto-distribusi-raskin | 1 | 0| 
-| 20220105T02:45:46Z | Hsuan-Fuzz: REST API Fuzzing by Coverage Level Guided Blackbox Testing | https://github.com/iasthc/hsuan-fuzz | 13 | 1| 
-| 20220105T02:44:37Z | Null | https://github.com/miasnguyenx/fuzzy-c-means | 0 | 0| 
-| 20220105T02:31:28Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4657 | 474| 
-| 20220105T02:29:19Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20220105T02:28:25Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 701 | 70| 
-| 20220105T01:59:46Z | Null | https://github.com/Lceaf12/fuzzy-octo-parakeet | 0 | 0| 
-| 20220105T01:30:24Z | Kodi EPG Fuzzy match to local library | https://github.com/kcook98765/script.epg_fuzzy_match | 0 | 0| 
-| 20220105T01:30:01Z | MobFuzz | https://github.com/zhanggenex/MobFuzz | 0 | 0| 
+| 20220105T12:53:09Z | Null | https://github.com/nhsd-exeter/dos-service-fuzzy-search-api | 1 | 0| 
+| 20220105T12:52:53Z | Fuzzy completion provider for Julia | https://github.com/JunoLab/FuzzyCompletions.jl | 7 | 3| 
+| 20220105T12:43:32Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1144 | 48| 
+| 20220105T12:30:34Z | Leetcode solutions. | https://github.com/chaitanyks/fuzzy-disco | 1 | 0| 
+| 20220105T12:02:01Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 38 | 12| 
+| 20220105T11:54:09Z | A fork of AFL for fuzzing Windows binaries | https://github.com/googleprojectzero/winafl | 1843 | 460| 
+| 20220105T11:40:18Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
+| 20220105T11:30:10Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 439 | 42| 
+| 20220105T10:51:03Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 10 | 4| 
+| 20220105T10:34:36Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2413 | 480| 
 
 
 
