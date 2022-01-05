@@ -66,7 +66,6 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220104T19:24:17Z | windows 11, 10 persistent backdoor undetectable developed in ruby | https://github.com/DioBruh/backdoor-windows | 7 | 0| 
 | 20220104T13:48:20Z | Starlight backdoor framework | https://github.com/topsideduck/Starlight | 1 | 0| 
 | 20220104T11:55:52Z | Jenkins Remote Command Execution | https://github.com/HSNHK/Shellkins | 0 | 0| 
 | 20220104T11:14:09Z | Website Shell BackDoors ( collection of internet ) | https://github.com/7r0j4ncodeing/web-shells | 24 | 7| 
@@ -76,6 +75,7 @@
 | 20220104T09:39:31Z | Null | https://github.com/lmaoitsrlyme/backdoorsotyperiodt | 0 | 0| 
 | 20220104T07:25:47Z | Null | https://github.com/Ramirez1001/backdoor | 0 | 0| 
 | 20220104T06:46:51Z | Null | https://github.com/Cybrient/BackdoorLogin | 0 | 0| 
+| 20220104T06:46:07Z | Null | https://github.com/HBKWOLF/backdoorCppCrossPlateform-master | 0 | 0| 
 
 
 # symbolic execution on Github 推荐

@@ -26,8 +26,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220105T02:44:43Z | CVE-2021-42342 | CVE-2021-42342 RCE | https://github.com/Mr-xn/CVE-2021-42342 | | 
 | 20220105T02:11:12Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
-| 20220105T02:08:56Z | CVE-2021-42342 | CVE-2021-42342 RCE | https://github.com/Mr-xn/CVE-2021-42342 | | 
 | 20220104T18:25:41Z | CVE-2021-44228 | Null | https://github.com/b-abderrahmane/CVE-2021-44228-playground | | 
 | 20220104T17:52:46Z | CVE-2021-43326 | Automox Windows Agent Privilege Escalation Exploit | https://github.com/gfoss/CVE-2021-43326_Exploit | | 
 | 20220104T17:33:39Z | CVE-2021-26084 | Confluence OGNL injection | https://github.com/dorkerdevil/CVE-2021-26084 | | 
@@ -81,9 +81,9 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220105T02:45:47Z | windows 11, 10 persistent backdoor undetectable developed in ruby | https://github.com/DioBruh/backdoor-windows | 7 | 0| 
 | 20220105T02:09:04Z | Null | https://github.com/MrWater98/motor-federated-backdoor | 0 | 0| 
 | 20220105T01:31:35Z | Simple DLL that add a user to the local Administrators group | https://github.com/notdodo/adduser-dll | 18 | 5| 
-| 20220104T19:24:17Z | windows 11, 10 persistent backdoor undetectable developed in ruby | https://github.com/DioBruh/backdoor-windows | 7 | 0| 
 | 20220104T13:48:20Z | Starlight backdoor framework | https://github.com/topsideduck/Starlight | 1 | 0| 
 | 20220104T11:55:52Z | Jenkins Remote Command Execution | https://github.com/HSNHK/Shellkins | 0 | 0| 
 | 20220104T11:14:09Z | Website Shell BackDoors ( collection of internet ) | https://github.com/7r0j4ncodeing/web-shells | 24 | 7| 
@@ -117,6 +117,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220105T02:45:46Z | Hsuan-Fuzz: REST API Fuzzing by Coverage Level Guided Blackbox Testing | https://github.com/iasthc/hsuan-fuzz | 13 | 1| 
+| 20220105T02:44:37Z | Null | https://github.com/miasnguyenx/fuzzy-c-means | 0 | 0| 
 | 20220105T02:44:19Z | Ini adalah Program penyelesaian Logika Fuzzy untuk Matakuliah Kecerdasan Buatan  | https://github.com/diqimusyaffa29/fuzzylogic-tsukamoto-distribusi-raskin | 1 | 0| 
 | 20220105T02:40:19Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 38 | 12| 
 | 20220105T02:31:28Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4657 | 474| 
@@ -125,8 +127,6 @@
 | 20220105T01:59:46Z | Null | https://github.com/Lceaf12/fuzzy-octo-parakeet | 0 | 0| 
 | 20220105T01:30:24Z | Kodi EPG Fuzzy match to local library | https://github.com/kcook98765/script.epg_fuzzy_match | 0 | 0| 
 | 20220105T01:30:01Z | MobFuzz | https://github.com/zhanggenex/MobFuzz | 0 | 0| 
-| 20220105T01:29:23Z | the first testy repo | https://github.com/pedi26/fuzzy-octo-garbanzo | 0 | 0| 
-| 20220105T01:03:58Z | playing with state | https://github.com/dustinturp/fuzzy-octo-palm-tree | 0 | 0| 
 
 
 
