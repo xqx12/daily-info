@@ -66,7 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220105T02:38:25Z | Yet Another Exploit Host | https://github.com/Wr0zen/wr0zen.github.io | 1 | 2| 
+| 20220105T02:41:13Z | Yet Another Exploit Host | https://github.com/Wr0zen/wr0zen.github.io | 1 | 2| 
 | 20220105T02:23:48Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 276 | 83| 
 | 20220105T02:09:31Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 327 | 831| 
 | 20220105T02:03:36Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 42 | 21| 
@@ -117,6 +117,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220105T02:44:19Z | Ini adalah Program penyelesaian Logika Fuzzy untuk Matakuliah Kecerdasan Buatan  | https://github.com/diqimusyaffa29/fuzzylogic-tsukamoto-distribusi-raskin | 1 | 0| 
 | 20220105T02:40:19Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 38 | 12| 
 | 20220105T02:31:28Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4657 | 474| 
 | 20220105T02:29:19Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
@@ -126,7 +127,6 @@
 | 20220105T01:30:01Z | MobFuzz | https://github.com/zhanggenex/MobFuzz | 0 | 0| 
 | 20220105T01:29:23Z | the first testy repo | https://github.com/pedi26/fuzzy-octo-garbanzo | 0 | 0| 
 | 20220105T01:03:58Z | playing with state | https://github.com/dustinturp/fuzzy-octo-palm-tree | 0 | 0| 
-| 20220105T00:37:44Z | python scripts to run fuzzer. | https://github.com/firefoxxpyang/run_fuzzer_scripts | 0 | 0| 
 
 
 
