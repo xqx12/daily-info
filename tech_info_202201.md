@@ -26,8 +26,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220105T01:40:15Z | CVE-2021-42342 | CVE-2021-42342 RCE | https://github.com/Mr-xn/CVE-2021-42342 | | 
-| 20220104T22:22:34Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
+| 20220105T02:11:12Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
+| 20220105T02:08:56Z | CVE-2021-42342 | CVE-2021-42342 RCE | https://github.com/Mr-xn/CVE-2021-42342 | | 
 | 20220104T18:25:41Z | CVE-2021-44228 | Null | https://github.com/b-abderrahmane/CVE-2021-44228-playground | | 
 | 20220104T17:52:46Z | CVE-2021-43326 | Automox Windows Agent Privilege Escalation Exploit | https://github.com/gfoss/CVE-2021-43326_Exploit | | 
 | 20220104T17:33:39Z | CVE-2021-26084 | Confluence OGNL injection | https://github.com/dorkerdevil/CVE-2021-26084 | | 
@@ -66,6 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220105T02:09:31Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 327 | 831| 
 | 20220105T02:03:36Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 42 | 21| 
 | 20220105T01:39:25Z | CRAX++: S2E-based modular exploit generation system that incorporates various binary exploitation techniques. | https://github.com/SQLab/CRAXplusplus | 29 | 3| 
 | 20220105T01:18:00Z | Código del admin CMD X de roblox, un script que se publicará en pastebin y cualquiera podrá usar con exploits en roblox. Obviamente solo sirve en PC los exploits. | https://github.com/NABILPRO2009/CMD-X-Admin-Commands-Code | 0 | 0| 
@@ -75,13 +76,12 @@
 | 20220105T00:21:24Z | Aura is an Executor Made for Roblox with Many Features | https://github.com/aSnowyNight/Aura | 0 | 0| 
 | 20220104T23:56:25Z | A discord email spammer exploit that works by unferifying a tokens email and then requesting discord verify it again multiple times which leads to discord spamming that email with email verification messages | https://github.com/Rdimo/Discord-email-spammer-exploit | 2 | 0| 
 | 20220104T23:47:55Z | MILP planner for search-and-rescue missions showcased on paper: Exploiting Natural Language for Efficient Risk-Aware Multi-Robot SaR Planning by Shree, Asfora, Zheng, Hong, Banfi and Campbell, in IEEE Robotics and Automation Letters, vol. 6, no. 2, pp. 3152-3159, April 2021, doi: 10.1109/LRA.2021.3062798. | https://github.com/basfora/milp_sim | 0 | 0| 
-| 20220104T23:35:05Z | Gazebo simulator for search-and-rescue experiments showcased on paper: Exploiting Natural Language for Efficient Risk-Aware Multi-Robot SaR Planning by Shree, Asfora, Zheng, Hong, Banfi and Campbell, in IEEE Robotics and Automation Letters, vol. 6, no. 2, pp. 3152-3159, April 2021, doi: 10.1109/LRA.2021.3062798. | https://github.com/basfora/SearchandRescue | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220105T02:06:29Z | Null | https://github.com/MrWater98/motor-federated-backdoor | 0 | 0| 
+| 20220105T02:09:04Z | Null | https://github.com/MrWater98/motor-federated-backdoor | 0 | 0| 
 | 20220105T01:31:35Z | Simple DLL that add a user to the local Administrators group | https://github.com/notdodo/adduser-dll | 18 | 4| 
 | 20220104T19:24:17Z | windows 11, 10 persistent backdoor undetectable developed in ruby | https://github.com/DioBruh/backdoor-windows | 7 | 0| 
 | 20220104T13:48:20Z | Starlight backdoor framework | https://github.com/topsideduck/Starlight | 1 | 0| 
@@ -117,9 +117,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220105T02:11:03Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 38 | 12| 
+| 20220105T02:07:28Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 700 | 69| 
 | 20220105T01:59:46Z | Null | https://github.com/Lceaf12/fuzzy-octo-parakeet | 0 | 0| 
-| 20220105T01:56:17Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 699 | 69| 
-| 20220105T01:50:52Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 38 | 12| 
 | 20220105T01:41:52Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20220105T01:30:24Z | Kodi EPG Fuzzy match to local library | https://github.com/kcook98765/script.epg_fuzzy_match | 0 | 0| 
 | 20220105T01:30:01Z | MobFuzz | https://github.com/zhanggenex/MobFuzz | 0 | 0| 
