@@ -6,6 +6,14 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220105 | Awesome Reverse Engineering Resources | https://github.com/alphaSeclab/awesome-reverse-engineering/blob/master/Readme_en.md| 
+| 20220105 | CERT-EE 开源其维护开发的 Cuckoo 3 | https://github.com/cert-ee/cuckoo3| 
+| 20220105 | TCA - 腾讯云代码分析平台，通过词法分析、语法分析、控制流、数据流分析等技术对程序代码进行分析的工具 | https://github.com/Tencent/CodeAnalysis| 
+| 20220105 | 因有符号整型存储时间的问题，Microsoft Exchange Server 服务器出现大面积宕机。目前微软已发布补丁 | https://arstechnica.com/information-technology/2022/01/exchange-server-bug-gets-a-fix-after-ruining-admins-new-years-plans/| 
+| 20220105 | The Mac Malware of 2021 | http://objective-see.com/blog/blog_0x6B.html| 
+| 20220105 | 通过自动化分析 Linux 内核镜像，生成 Kconfig 配置文件 | http://zznop.com/2022/01/02/automated-re-of-kernel-build-configs/| 
+| 20220105 | Intel 12 代 CPU Alder Lake 新增的 VT-rp 硬件保护特性的分析 | https://www.andrea-allievi.com/blog/alder-lake-and-the-new-intel-features/| 
+| 20220105 | Windows 内核的 Secure Kernel Patch Guard 保护机制分析 | https://windows-internals.com/hyperguard-secure-kernel-patch-guard-part-1-skpg-initialization/| 
 | 20220104 | Reverse Engineering Radios – ARM Binary Images in IDA Pro. | http://do1alx.de/2022/reverse-engineering-radios-arm-binary-images-in-ida-pro/| 
 | 20220104 | NoAgent内存马检测工具. | https://tttang.com/archive/1390/| 
 | 20220103 | 学习网络安全相关的思维导图资料合集。 | https://github.com/coco413/SecMind| 
@@ -14,6 +22,8 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220105 | 商品图谱构建与实体对齐 | https://mp.weixin.qq.com/s/ct7FyMHPAyrVe_8mx8kPnw| 
+| 20220105 | 网络爬虫公司可能触犯哪些罪名 | https://mp.weixin.qq.com/s/AI5Pa37dS4q1XRCbbZXBsA| 
 | 20220104 | CodeAnalysis: 腾讯 Static Code Analysis | https://github.com/Tencent/CodeAnalysis| 
 | 20220104 | 网络安全标准实践指南——网络数据分类分级指引 | http://www.echinagov.com/uploads/1/file/public/202201/20220104084609_kxu3wojaw0.pdf| 
 | 20220104 | 扛住100亿次红包请求的后端架构设计 | https://github.com/xiaojiaqi/10billionhongbaos| 
@@ -26,26 +36,26 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220105T02:51:13Z | CVE-2022-123 | Null | https://github.com/gnaiq/CVE-2022-123 | | 
-| 20220105T02:44:43Z | CVE-2021-42342 | CVE-2021-42342 RCE | https://github.com/Mr-xn/CVE-2021-42342 | | 
-| 20220105T02:11:12Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
-| 20220104T18:25:41Z | CVE-2021-44228 | Null | https://github.com/b-abderrahmane/CVE-2021-44228-playground | | 
-| 20220104T17:52:46Z | CVE-2021-43326 | Automox Windows Agent Privilege Escalation Exploit | https://github.com/gfoss/CVE-2021-43326_Exploit | | 
-| 20220104T17:33:39Z | CVE-2021-26084 | Confluence OGNL injection | https://github.com/dorkerdevil/CVE-2021-26084 | | 
-| 20220104T16:49:36Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
-| 20220104T15:24:48Z | cve-2021-44228 | Ansible detector scanner playbook to verify target Linux hosts using the official Red Hat Log4j detector script RHSB-2021-009 Remote Code Execution - log4j (CVE-2021-44228) | https://github.com/lucab85/log4j-cve-2021-44228 | | 
-| 20220104T13:51:59Z | 未知编号 | Null | https://github.com/w1023913214/CVE-2022 | | 
-| 20220104T12:10:35Z | CVE-2021-22214 | POC for CVE-2021-22214: Gitlab SSRF | https://github.com/kh4sh3i/GitLab-SSRF-CVE-2021-22214 | | 
+| 20220105T12:47:46Z | CVE-2021-45232 | CVE-2021-45232-RCE-多线程批量漏洞检测 | https://github.com/GYLQ/CVE-2021-45232-RCE | | 
+| 20220105T12:37:42Z | CVE-2021-44228 | Backdoor detection for VMware view | https://github.com/mr-r3b00t/CVE-2021-44228 | | 
+| 20220105T12:35:12Z | CVE-2021-42342 | CVE-2021-42342 RCE | https://github.com/Mr-xn/CVE-2021-42342 | | 
+| 20220105T10:16:27Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
+| 20220105T09:19:16Z | CVE-2021-44228 | Null | https://github.com/b-abderrahmane/CVE-2021-44228-playground | | 
+| 20220105T09:13:39Z | CVE-2021-45232 | Null | https://github.com/Kuibagit/CVE-2021-45232-RCE | | 
+| 20220105T08:46:03Z | CVE-2021-44228 | CVE-2021-44228 on Docker & Podman | https://github.com/ahmad4fifz/CVE-2021-44228 | | 
+| 20220105T08:44:20Z | CVE-2021-41773 | CVE-2021-41773 on Docker | https://github.com/ahmad4fifz/CVE-2021-41773 | | 
+| 20220105T08:42:10Z | CVE-2021-22205 | CVE-2021-22205 on Docker | https://github.com/ahmad4fifz/CVE-2021-22205 | | 
+| 20220105T08:38:27Z | CVE-2021-42013 | CVE-2021-41773 on Docker | https://github.com/ahmad4fifz/CVE-2021-42013 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220105T02:20:29Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 3421 | 108| 
+| 20220105T12:42:18Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 3427 | 108| 
+| 20220105T11:03:26Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1863 | 529| 
 | 20220104T16:34:27Z | Tutorial of the course: Kleene Algebras From Foundations to Program Verification | https://github.com/hyleIndex/Kleene-Algebras-From-Foundations-to-Program-Verification | 0 | 0| 
 | 20220104T15:21:15Z | Null | https://github.com/kleemeo/kleemeo | 0 | 0| 
 | 20220104T10:26:54Z | Android App to Manage Car Cleaning Services  | https://github.com/Chandanajh/GreenKleen | 0 | 0| 
-| 20220104T08:43:59Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1863 | 529| 
 | 20220104T04:17:17Z | Null | https://github.com/KleePaimon/KleePaimon.github.io | 0 | 0| 
 | 20220102T18:22:37Z | Kleene algebra, regular expressions | https://github.com/phadej/kleene | 28 | 1| 
 | 20220102T02:05:53Z | Null | https://github.com/kleelab/kleelab.github.io | 0 | 0| 
@@ -56,8 +66,9 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220105T12:57:34Z | CRAX++: S2E-based modular exploit generation system that incorporates various binary exploitation techniques. | https://github.com/SQLab/CRAXplusplus | 29 | 3| 
+| 20220105T07:40:06Z | Documents for Spacecraft Simulation Environment | https://github.com/ut-issl/s2e-documents | 2 | 0| 
 | 20220105T02:24:17Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 2 | 0| 
-| 20220105T01:39:25Z | CRAX++: S2E-based modular exploit generation system that incorporates various binary exploitation techniques. | https://github.com/SQLab/CRAXplusplus | 29 | 3| 
 | 20220105T01:08:20Z | Serial to Ethernet Module based on W5500 & Cortex-M0 | https://github.com/Wiznet/WIZ550S2E-Modbus | 3 | 4| 
 | 20220105T00:11:53Z | Null | https://github.com/s2e-lab/s2e-lab.github.io | 0 | 0| 
 | 20220104T12:59:41Z | CRAX++: software CRash analysis for Automatic eXploit generation | https://github.com/aesophor/CRAXplusplus | 27 | 3| 
@@ -66,31 +77,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220105T02:41:13Z | Yet Another Exploit Host | https://github.com/Wr0zen/wr0zen.github.io | 1 | 2| 
-| 20220105T02:23:48Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 276 | 83| 
-| 20220105T02:09:31Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 327 | 831| 
-| 20220105T02:03:36Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 42 | 21| 
-| 20220105T01:39:25Z | CRAX++: S2E-based modular exploit generation system that incorporates various binary exploitation techniques. | https://github.com/SQLab/CRAXplusplus | 29 | 3| 
-| 20220105T01:18:00Z | Código del admin CMD X de roblox, un script que se publicará en pastebin y cualquiera podrá usar con exploits en roblox. Obviamente solo sirve en PC los exploits. | https://github.com/NABILPRO2009/CMD-X-Admin-Commands-Code | 0 | 0| 
-| 20220105T00:49:09Z | Fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | 0 | 0| 
-| 20220105T00:46:35Z | This code base has the code for reproducing the log4j vulnerability in the spring boot app. | https://github.com/dilipsundarraj1/log4j-exploit-demo | 0 | 0| 
-| 20220105T00:46:08Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 17| 
-| 20220105T00:21:24Z | Aura is an Executor Made for Roblox with Many Features | https://github.com/aSnowyNight/Aura | 0 | 0| 
+| 20220105T12:57:35Z | Site where i mostly document my exploits. Built with Nuxt, Tailwind and currently using Forestry CMS | https://github.com/ikeohachidi/ikeoha | 0 | 0| 
+| 20220105T12:57:34Z | CRAX++: S2E-based modular exploit generation system that incorporates various binary exploitation techniques. | https://github.com/SQLab/CRAXplusplus | 29 | 3| 
+| 20220105T12:51:02Z | Vulnerabilities found along the way | https://github.com/hansmach1ne/MyExploits | 2 | 0| 
+| 20220105T12:49:25Z | Null | https://github.com/asef18766/pyshare_exploit | 0 | 0| 
+| 20220105T12:46:09Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 17| 
+| 20220105T12:28:22Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 276 | 83| 
+| 20220105T12:07:05Z | Some Generic Browser Exploits (For Educational Purposes Only) | https://github.com/matamorphosis/Browser-Exploits | 24 | 25| 
+| 20220105T12:04:11Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 42 | 21| 
+| 20220105T11:49:38Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4221 | 599| 
+| 20220105T11:48:39Z | 🦄🔒 Awesome list of secrets in environment variables 🖥️ | https://github.com/Puliczek/awesome-list-of-secrets-in-environment-variables | 244 | 15| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220105T12:37:42Z | Backdoor detection for VMware view | https://github.com/mr-r3b00t/CVE-2021-44228 | 0 | 0| 
+| 20220105T10:11:35Z | The best backdoor scanner there is. | https://github.com/iK4oS/backdoor.exe | 2 | 7| 
+| 20220105T09:38:41Z | Simple DLL that add a user to the local Administrators group | https://github.com/notdodo/adduser-dll | 23 | 6| 
+| 20220105T09:35:21Z | Null | https://github.com/akashganguly420/Anydesk-As-a-Backdoor | 0 | 0| 
+| 20220105T06:17:10Z | Evil Vs Evil: Using Adversarial Examples to Against Backdoor Attack in Federated Learning | https://github.com/Leon022/EVE | 0 | 0| 
+| 20220105T06:12:06Z | Remote control software, supported Windows/Unix/MacOS/Linux(x86/x64/mips/arm) | https://github.com/h1zzz/purewater | 5 | 0| 
+| 20220105T06:06:24Z | Null | https://github.com/Ramirez1001/backdoor | 0 | 0| 
+| 20220105T03:50:03Z | Website Shell BackDoors ( collection of internet ) | https://github.com/7r0j4ncodeing/web-shells | 24 | 7| 
 | 20220105T02:45:47Z | windows 11, 10 persistent backdoor undetectable developed in ruby | https://github.com/DioBruh/backdoor-windows | 7 | 0| 
 | 20220105T02:09:04Z | Null | https://github.com/MrWater98/motor-federated-backdoor | 0 | 0| 
-| 20220105T01:31:35Z | Simple DLL that add a user to the local Administrators group | https://github.com/notdodo/adduser-dll | 18 | 5| 
-| 20220104T13:48:20Z | Starlight backdoor framework | https://github.com/topsideduck/Starlight | 1 | 0| 
-| 20220104T11:55:52Z | Jenkins Remote Command Execution | https://github.com/HSNHK/Shellkins | 0 | 0| 
-| 20220104T11:14:09Z | Website Shell BackDoors ( collection of internet ) | https://github.com/7r0j4ncodeing/web-shells | 24 | 7| 
-| 20220104T11:12:23Z | Threat Emulation and Red Teaming Framework, The Hacking Software for normal people. | https://github.com/quantumcore/remote_hacker_probe | 104 | 38| 
-| 20220104T10:22:50Z | the name of virus is the detection of microsoft defender, is the tipic antivirus | https://github.com/Malware-S/Backdoor-Win64.Turla.C.bin | 0 | 0| 
-| 20220104T10:18:47Z | the name of virus is the detection of microsoft defender, is the tipic antivirus | https://github.com/Malware-S/Backdoor-WIn32.Androm-MSR.exe | 0 | 0| 
-| 20220104T09:39:31Z | Null | https://github.com/lmaoitsrlyme/backdoorsotyperiodt | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
