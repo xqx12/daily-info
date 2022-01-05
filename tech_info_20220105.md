@@ -15,6 +15,7 @@
 | 20220105 | Intel 12 代 CPU Alder Lake 新增的 VT-rp 硬件保护特性的分析 | https://www.andrea-allievi.com/blog/alder-lake-and-the-new-intel-features/| 
 | 20220105 | Windows 内核的 Secure Kernel Patch Guard 保护机制分析 | https://windows-internals.com/hyperguard-secure-kernel-patch-guard-part-1-skpg-initialization/| 
 | 20220105 | hxp CTF 2021 - The End Of LFI? | https://tttang.com/archive/1395/| 
+| 20220105 | Fiora：快捷搜索PoC、一键运行Nuclei演示视频. | https://www.bilibili.com/video/bv1Ha411z7T1| 
 
 
 # 安全维基 推荐
