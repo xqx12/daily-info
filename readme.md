@@ -102,13 +102,13 @@
 | 20220104T23:49:33Z | Using fuzzy logic to self drive a truck on a randomly generated road | https://github.com/hinsonan/FuzzyLogicSelfDrivingTruck | 0 | 0| 
 | 20220104T23:40:20Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20220104T23:38:18Z | bot version 2 | https://github.com/Abybody/fuzzy-octo-chainsaw | 0 | 0| 
-| 20220104T23:36:07Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20220104T23:22:36Z | Null | https://github.com/Aline-Costa/Logica-Fuzzy | 0 | 0| 
 | 20220104T23:06:26Z | Ini adalah Program penyelesaian Logika Fuzzy untuk Matakuliah Kecerdasan Buatan  | https://github.com/diqimusyaffa29/fuzzylogic-tsukamoto-distribusi-raskin | 1 | 0| 
 | 20220104T22:47:47Z | Null | https://github.com/JanickiJ/FuzzyPSI | 0 | 0| 
 | 20220104T22:31:22Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 9 | 4| 
 | 20220104T22:26:42Z | Over the net fuzzing of QUIC servers or clients. | https://github.com/private-octopus/fuzi_q | 0 | 0| 
 | 20220104T21:55:05Z | #Implementing Fuzzy C-Means in Python | https://github.com/kadryjr/Fuzzy-C-Means | 0 | 0| 
+| 20220104T21:45:25Z | File Tree Fuzzer creates a pseudo-random directory hierarchy filled with some number of files. | https://github.com/SUPERCILEX/ftzz | 6 | 0| 
 
 
 

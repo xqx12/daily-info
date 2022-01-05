@@ -117,6 +117,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220105T01:41:52Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20220105T01:30:24Z | Kodi EPG Fuzzy match to local library | https://github.com/kcook98765/script.epg_fuzzy_match | 0 | 0| 
 | 20220105T01:30:01Z | MobFuzz | https://github.com/zhanggenex/MobFuzz | 0 | 0| 
 | 20220105T01:29:23Z | the first testy repo | https://github.com/pedi26/fuzzy-octo-garbanzo | 0 | 0| 
@@ -126,7 +127,6 @@
 | 20220105T00:08:58Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 38 | 12| 
 | 20220104T23:49:33Z | Using fuzzy logic to self drive a truck on a randomly generated road | https://github.com/hinsonan/FuzzyLogicSelfDrivingTruck | 0 | 0| 
 | 20220104T23:40:20Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
-| 20220104T23:38:18Z | bot version 2 | https://github.com/Abybody/fuzzy-octo-chainsaw | 0 | 0| 
 
 
 
