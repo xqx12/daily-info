@@ -66,7 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220105T02:36:11Z | Yet Another Exploit Host | https://github.com/Wr0zen/wr0zen.github.io | 1 | 2| 
+| 20220105T02:38:25Z | Yet Another Exploit Host | https://github.com/Wr0zen/wr0zen.github.io | 1 | 2| 
 | 20220105T02:23:48Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 276 | 83| 
 | 20220105T02:09:31Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 327 | 831| 
 | 20220105T02:03:36Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 42 | 21| 
@@ -117,10 +117,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220105T02:40:19Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 38 | 12| 
 | 20220105T02:31:28Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4657 | 474| 
 | 20220105T02:29:19Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20220105T02:28:25Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 701 | 69| 
-| 20220105T02:11:03Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 38 | 12| 
 | 20220105T01:59:46Z | Null | https://github.com/Lceaf12/fuzzy-octo-parakeet | 0 | 0| 
 | 20220105T01:30:24Z | Kodi EPG Fuzzy match to local library | https://github.com/kcook98765/script.epg_fuzzy_match | 0 | 0| 
 | 20220105T01:30:01Z | MobFuzz | https://github.com/zhanggenex/MobFuzz | 0 | 0| 
