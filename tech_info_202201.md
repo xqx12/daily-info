@@ -65,13 +65,13 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220105T01:18:00Z | Código del admin CMD X de roblox, un script que se publicará en pastebin y cualquiera podrá usar con exploits en roblox. Obviamente solo sirve en PC los exploits. | https://github.com/NABILPRO2009/CMD-X-Admin-Commands-Code | 0 | 0| 
 | 20220105T01:04:01Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 42 | 21| 
 | 20220105T00:49:09Z | Fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | 0 | 0| 
 | 20220105T00:46:35Z | This code base has the code for reproducing the log4j vulnerability in the spring boot app. | https://github.com/dilipsundarraj1/log4j-exploit-demo | 0 | 0| 
 | 20220105T00:46:08Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 17| 
 | 20220105T00:21:24Z | Aura is an Executor Made for Roblox with Many Features | https://github.com/aSnowyNight/Aura | 0 | 0| 
 | 20220104T23:56:25Z | A discord email spammer exploit that works by unferifying a tokens email and then requesting discord verify it again multiple times which leads to discord spamming that email with email verification messages | https://github.com/Rdimo/Discord-email-spammer-exploit | 2 | 0| 
-| 20220104T23:55:42Z | Código del admin CMD X de roblox, un script que se publicará en pastebin y cualquiera podrá usar con exploits en roblox. Obviamente solo sirve en PC los exploits. | https://github.com/NABILPRO2009/CMD-X-Admin-Commands-Code | 0 | 0| 
 | 20220104T23:47:55Z | MILP planner for search-and-rescue missions showcased on paper: Exploiting Natural Language for Efficient Risk-Aware Multi-Robot SaR Planning by Shree, Asfora, Zheng, Hong, Banfi and Campbell, in IEEE Robotics and Automation Letters, vol. 6, no. 2, pp. 3152-3159, April 2021, doi: 10.1109/LRA.2021.3062798. | https://github.com/basfora/milp_sim | 0 | 0| 
 | 20220104T23:35:05Z | Gazebo simulator for search-and-rescue experiments showcased on paper: Exploiting Natural Language for Efficient Risk-Aware Multi-Robot SaR Planning by Shree, Asfora, Zheng, Hong, Banfi and Campbell, in IEEE Robotics and Automation Letters, vol. 6, no. 2, pp. 3152-3159, April 2021, doi: 10.1109/LRA.2021.3062798. | https://github.com/basfora/SearchandRescue | 0 | 0| 
 | 20220104T23:23:32Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 275 | 83| 
