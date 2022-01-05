@@ -117,6 +117,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220105T01:58:59Z | Null | https://github.com/Lceaf12/fuzzy-octo-parakeet | 0 | 0| 
 | 20220105T01:56:17Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 699 | 69| 
 | 20220105T01:50:52Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 38 | 12| 
 | 20220105T01:41:52Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
@@ -126,7 +127,6 @@
 | 20220105T01:03:58Z | playing with state | https://github.com/dustinturp/fuzzy-octo-palm-tree | 0 | 0| 
 | 20220105T00:37:44Z | python scripts to run fuzzer. | https://github.com/firefoxxpyang/run_fuzzer_scripts | 0 | 0| 
 | 20220104T23:49:33Z | Using fuzzy logic to self drive a truck on a randomly generated road | https://github.com/hinsonan/FuzzyLogicSelfDrivingTruck | 0 | 0| 
-| 20220104T23:40:20Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 
 
 
