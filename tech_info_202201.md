@@ -92,6 +92,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220105T13:08:46Z | Null | https://github.com/sweeper02/backdoor | 0 | 0| 
 | 20220105T12:37:42Z | Backdoor detection for VMware view | https://github.com/mr-r3b00t/CVE-2021-44228 | 0 | 0| 
 | 20220105T10:11:35Z | The best backdoor scanner there is. | https://github.com/iK4oS/backdoor.exe | 2 | 7| 
 | 20220105T09:38:41Z | Simple DLL that add a user to the local Administrators group | https://github.com/notdodo/adduser-dll | 23 | 6| 
@@ -101,7 +102,6 @@
 | 20220105T06:06:24Z | Null | https://github.com/Ramirez1001/backdoor | 0 | 0| 
 | 20220105T03:50:03Z | Website Shell BackDoors ( collection of internet ) | https://github.com/7r0j4ncodeing/web-shells | 24 | 7| 
 | 20220105T02:45:47Z | windows 11, 10 persistent backdoor undetectable developed in ruby | https://github.com/DioBruh/backdoor-windows | 7 | 0| 
-| 20220105T02:09:04Z | Null | https://github.com/MrWater98/motor-federated-backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
