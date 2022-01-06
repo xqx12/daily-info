@@ -17,6 +17,7 @@
 | 20220105 | hxp CTF 2021 - The End Of LFI? | https://tttang.com/archive/1395/| 
 | 20220105 | Fiora：快捷搜索PoC、一键运行Nuclei演示视频. | https://www.bilibili.com/video/bv1Ha411z7T1| 
 | 20220105 | Termux——基于Android 的Linux终端模拟器功能介绍. | https://mp.weixin.qq.com/s/p-VU8OKuogKxZbvDt95k6A| 
+| 20220105 | Tom Duff的C语言奇技淫巧. | https://mp.weixin.qq.com/s/druUoCzX-OuTOEwYjUUoiw| 
 
 
 # 安全维基 推荐
@@ -24,68 +25,74 @@
 | --- | --- | ---| 
 | 20220105 | 商品图谱构建与实体对齐 | https://mp.weixin.qq.com/s/ct7FyMHPAyrVe_8mx8kPnw| 
 | 20220105 | 网络爬虫公司可能触犯哪些罪名 | https://mp.weixin.qq.com/s/AI5Pa37dS4q1XRCbbZXBsA| 
+| 20220105 | 聚焦算法推荐乱象问题 构建算法安全治理体系 | https://mp.weixin.qq.com/s/34IXkqX6QjRAuKd2-Cq2Iw| 
+| 20220105 | 好的工作想法从哪里来 | https://mp.weixin.qq.com/s/jajNXjNxfAvV-7SmLnVUAQ| 
+| 20220105 | 开源情报及其在下一代网络安全中的应用---文献综述 | https://mp.weixin.qq.com/s/ZjgTm8V6ucZ88zgSUy2sag| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220105T13:13:29Z | CVE-2021-44228 | Backdoor detection for VMware view | https://github.com/mr-r3b00t/CVE-2021-44228 | | 
-| 20220105T12:47:46Z | CVE-2021-45232 | CVE-2021-45232-RCE-多线程批量漏洞检测 | https://github.com/GYLQ/CVE-2021-45232-RCE | | 
+| 20220105T23:34:46Z | cve-2021-44228 | Ansible detector scanner playbook to verify target Linux hosts using the official Red Hat Log4j detector script RHSB-2021-009 Remote Code Execution - log4j (CVE-2021-44228) | https://github.com/lucab85/log4j-cve-2021-44228 | | 
+| 20220105T23:27:11Z | CVE-2021-28482 | Null | https://github.com/timb-machine-mirrors/CVE-2021-28482 | | 
+| 20220105T23:26:33Z | cve-2021-44228 | Null | https://github.com/aws-samples/kubernetes-log4j-cve-2021-44228-node-agent | | 
+| 20220105T23:22:19Z | CVE-2021-22005 | Null | https://github.com/timb-machine-mirrors/CVE-2021-22005 | | 
+| 20220105T23:19:09Z | CVE-2021-42321 | Null | https://github.com/timb-machine-mirrors/CVE-2021-42321_poc | | 
+| 20220105T21:53:05Z | CVE-2021-44228 | latest developments and resources on log4j vulnerability CVE-2021-44228 | https://github.com/cryptoforcecommand/log4j-CVE-2021-44228 | | 
+| 20220105T21:52:23Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
+| 20220105T19:30:29Z | CVE-2021-44228 | Backdoor detection for VMware view | https://github.com/mr-r3b00t/CVE-2021-44228 | | 
+| 20220105T14:38:28Z | CVE-2021-45383 | Details,PoC and patches for CVE-2021-45383 & CVE-2021-45384 | https://github.com/nt1dr/CVE-2021-45383 | | 
 | 20220105T12:35:12Z | CVE-2021-42342 | CVE-2021-42342 RCE | https://github.com/Mr-xn/CVE-2021-42342 | | 
-| 20220105T10:16:27Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
-| 20220105T09:19:16Z | CVE-2021-44228 | Null | https://github.com/b-abderrahmane/CVE-2021-44228-playground | | 
-| 20220105T09:13:39Z | CVE-2021-45232 | Null | https://github.com/Kuibagit/CVE-2021-45232-RCE | | 
-| 20220105T08:46:03Z | CVE-2021-44228 | CVE-2021-44228 on Docker & Podman | https://github.com/ahmad4fifz/CVE-2021-44228 | | 
-| 20220105T08:44:20Z | CVE-2021-41773 | CVE-2021-41773 on Docker | https://github.com/ahmad4fifz/CVE-2021-41773 | | 
-| 20220105T08:42:10Z | CVE-2021-22205 | CVE-2021-22205 on Docker | https://github.com/ahmad4fifz/CVE-2021-22205 | | 
-| 20220105T08:38:27Z | CVE-2021-42013 | CVE-2021-41773 on Docker | https://github.com/ahmad4fifz/CVE-2021-42013 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220105T12:42:18Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 3427 | 108| 
-| 20220105T11:03:26Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1863 | 529| 
+| 20220105T22:36:58Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1864 | 529| 
+| 20220105T19:09:23Z | Config files for my GitHub profile. | https://github.com/Kleek01/Kleek01 | 0 | 0| 
+| 20220105T17:11:06Z | Readable String Sanitizer | https://github.com/schemenauero/kleen-js | 0 | 0| 
+| 20220105T16:40:43Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 3432 | 108| 
+| 20220105T14:24:18Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 14 | 45| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220105T21:20:34Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 193 | 42| 
 | 20220105T12:57:34Z | CRAX++: S2E-based modular exploit generation system that incorporates various binary exploitation techniques. | https://github.com/SQLab/CRAXplusplus | 29 | 3| 
 | 20220105T07:40:06Z | Documents for Spacecraft Simulation Environment | https://github.com/ut-issl/s2e-documents | 2 | 0| 
 | 20220105T02:24:17Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 2 | 0| 
 | 20220105T01:08:20Z | Serial to Ethernet Module based on W5500 & Cortex-M0 | https://github.com/Wiznet/WIZ550S2E-Modbus | 3 | 4| 
-| 20220105T00:11:53Z | Null | https://github.com/s2e-lab/s2e-lab.github.io | 0 | 0| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220105T13:37:09Z | Scan & Exploit - EternalBlue MS17-010 - Windows 7 x86 & x64 | https://github.com/d4t4s3c/Win7Blue | 24 | 4| 
-| 20220105T13:13:14Z | Null | https://github.com/berkantrl/vsFTP_234_exploit | 1 | 0| 
-| 20220105T13:03:30Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 42 | 21| 
-| 20220105T12:57:35Z | Site where i mostly document my exploits. Built with Nuxt, Tailwind and currently using Forestry CMS | https://github.com/ikeohachidi/ikeoha | 0 | 0| 
-| 20220105T12:57:34Z | CRAX++: S2E-based modular exploit generation system that incorporates various binary exploitation techniques. | https://github.com/SQLab/CRAXplusplus | 29 | 3| 
-| 20220105T12:51:02Z | Vulnerabilities found along the way | https://github.com/hansmach1ne/MyExploits | 2 | 0| 
-| 20220105T12:49:25Z | Null | https://github.com/asef18766/pyshare_exploit | 0 | 0| 
-| 20220105T12:46:09Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 17| 
-| 20220105T12:28:22Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 276 | 83| 
-| 20220105T12:07:05Z | Some Generic Browser Exploits (For Educational Purposes Only) | https://github.com/matamorphosis/Browser-Exploits | 24 | 25| 
+| 20220105T23:58:56Z | An interactive python script that enables root access on the T-Mobile (Wingtech) TMOHS1, as well as providing several useful utilites to change the configuration of the device. | https://github.com/natthawk/TMOHS1-Root-Utility | 1 | 0| 
+| 20220105T23:24:51Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 276 | 83| 
+| 20220105T23:12:06Z | Build a local copy of Known Exploited Vulnerabilities Catalog by CISA. Server mode for easy querying.  | https://github.com/vulsio/go-kev | 7 | 2| 
+| 20220105T23:10:21Z | Exploit Code | https://github.com/wjddnjs33/Exploit | 0 | 1| 
+| 20220105T23:01:58Z | This repos contains C# class that are used in my exploit build because im lazy, nothing to see here ig? | https://github.com/OrbxGit/Orbx-Library | 0 | 0| 
+| 20220105T22:08:04Z | Null | https://github.com/MRX2010FF0/log4j-0-day-exploit | 0 | 0| 
+| 20220105T22:07:24Z | Java DNS Post Exploitation Tool | https://github.com/kryptops/lycanthropy | 7 | 1| 
+| 20220105T22:04:41Z | Null | https://github.com/blueIbird/exploit | 0 | 0| 
+| 20220105T20:55:49Z | A data science project about vulnerabilities and exploits. | https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis | 0 | 0| 
+| 20220105T20:49:44Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 327 | 841| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220105T23:14:21Z | Null | https://github.com/Ramirez1001/backdoor | 0 | 0| 
+| 20220105T22:41:47Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 281 | 49| 
+| 20220105T19:46:40Z | The best backdoor scanner there is. | https://github.com/iK4oS/backdoor.exe | 3 | 7| 
+| 20220105T19:30:29Z | Backdoor detection for VMware view | https://github.com/mr-r3b00t/CVE-2021-44228 | 4 | 2| 
+| 20220105T17:12:30Z | .NET executable to use when dealing with privilege escalation on Windows to gain local administrator access | https://github.com/notdodo/LocalAdminSharp | 0 | 0| 
+| 20220105T15:09:21Z | Null | https://github.com/akashganguly420/Vuln-Scanner-and-Backdoor-Creater | 0 | 0| 
+| 20220105T14:51:41Z | the name of virus is the detection of microsoft defender, is the tipic antivirus | https://github.com/RobertoLeonFR-ES/Trojan.PHP.BackDoor.DD | 0 | 0| 
 | 20220105T13:52:01Z | Website Shell BackDoors ( collection of internet ) | https://github.com/7r0j4ncodeing/web-shells | 25 | 7| 
 | 20220105T13:38:31Z | Codebase for my Level 4 University Project: Static Analysis of Executable Code to Detect Backdoors on IoT Devices | https://github.com/sophieboyle/Symbolic-Execution-for-ARM-Backdoor-Detection | 0 | 0| 
-| 20220105T13:13:29Z | Backdoor detection for VMware view | https://github.com/mr-r3b00t/CVE-2021-44228 | 1 | 0| 
 | 20220105T13:08:46Z | Null | https://github.com/sweeper02/backdoor | 0 | 0| 
-| 20220105T10:11:35Z | The best backdoor scanner there is. | https://github.com/iK4oS/backdoor.exe | 2 | 7| 
-| 20220105T09:38:41Z | Simple DLL that add a user to the local Administrators group | https://github.com/notdodo/adduser-dll | 23 | 6| 
-| 20220105T09:35:21Z | Null | https://github.com/akashganguly420/Anydesk-As-a-Backdoor | 0 | 0| 
-| 20220105T06:17:10Z | Evil Vs Evil: Using Adversarial Examples to Against Backdoor Attack in Federated Learning | https://github.com/Leon022/EVE | 0 | 0| 
-| 20220105T06:12:06Z | Remote control software, supported Windows/Unix/MacOS/Linux(x86/x64/mips/arm) | https://github.com/h1zzz/purewater | 5 | 0| 
-| 20220105T06:06:24Z | Null | https://github.com/Ramirez1001/backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -109,16 +116,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220105T13:14:56Z | Null | https://github.com/Artisan-Lab/Fuzzing-Scripts | 1 | 0| 
-| 20220105T13:14:19Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6989 | 1464| 
-| 20220105T12:53:09Z | Null | https://github.com/nhsd-exeter/dos-service-fuzzy-search-api | 1 | 0| 
-| 20220105T12:52:53Z | Fuzzy completion provider for Julia | https://github.com/JunoLab/FuzzyCompletions.jl | 7 | 3| 
-| 20220105T12:43:32Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1144 | 48| 
-| 20220105T12:30:34Z | Leetcode solutions. | https://github.com/chaitanyks/fuzzy-disco | 1 | 0| 
-| 20220105T12:02:01Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 38 | 12| 
-| 20220105T11:54:09Z | A fork of AFL for fuzzing Windows binaries | https://github.com/googleprojectzero/winafl | 1843 | 460| 
-| 20220105T11:40:18Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
-| 20220105T11:30:10Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 439 | 42| 
+| 20220105T23:41:58Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4656 | 474| 
+| 20220105T23:41:21Z | Null | https://github.com/swasnaiktik/fuzzy-eureka | 0 | 0| 
+| 20220105T23:35:35Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 12 | 2| 
+| 20220105T23:06:14Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 10 | 4| 
+| 20220105T22:58:20Z | Design and implementation neuro-fuzzy with python | https://github.com/AnisNezhadmalayeri/Neuro-Fuzzy | 0 | 0| 
+| 20220105T22:39:54Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
+| 20220105T22:02:41Z | a simplified means to CRUD ephemeral user-scoped EC2 instances | https://github.com/rstudio/fuzzbucket | 3 | 1| 
+| 20220105T21:31:01Z | Auto-gen fuzzing wrappers from normal code. Finds buggy call sequences, including data races & deadlocks. Supports rich signature types. | https://github.com/thepudds/fzgen | 5 | 0| 
+| 20220105T21:24:50Z | Null | https://github.com/ssalter42/FuzzyTriflingFlash | 0 | 0| 
+| 20220105T21:16:09Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2450 | 151| 
 
 
 
