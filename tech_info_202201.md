@@ -103,6 +103,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220106T13:47:54Z | Threat Emulation and Red Teaming Framework, The Hacking Software for normal people. | https://github.com/quantumcore/remote_hacker_probe | 105 | 39| 
 | 20220106T13:26:53Z | Null | https://github.com/Cybrient/BackdoorLogin | 0 | 0| 
 | 20220106T11:30:41Z | Project SAANP : Implementation of Backdoor using Python | https://github.com/piyushsharma220699/Backdoor-in-Cyber-Security | 0 | 0| 
 | 20220106T10:03:07Z | Simple DLL that add a user to the local Administrators group | https://github.com/notdodo/adduser-dll | 27 | 8| 
@@ -112,7 +113,6 @@
 | 20220106T03:09:49Z | Null | https://github.com/akashganguly420/Vuln-Scanner-and-Backdoor-Creater | 0 | 0| 
 | 20220105T23:14:21Z | Null | https://github.com/Ramirez1001/backdoor | 0 | 0| 
 | 20220105T22:41:47Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 281 | 49| 
-| 20220105T19:46:40Z | The best backdoor scanner there is. | https://github.com/iK4oS/backdoor.exe | 3 | 7| 
 
 
 # symbolic execution on Github 推荐
@@ -140,9 +140,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220106T13:47:01Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 12 | 2| 
 | 20220106T13:42:01Z | Null | https://github.com/fuzzingworkshop/fuzzingworkshop.github.io | 0 | 0| 
 | 20220106T13:41:31Z | Implementasi mencari restoran terbaik berdasarkan nilai/rating pelayanan dan makanan | https://github.com/Otniel113/FuzzyLogic_in_Python | 0 | 0| 
-| 20220106T13:39:04Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 12 | 2| 
 | 20220106T13:37:34Z | nothing especial just a simple fuzzy control system =) | https://github.com/garfield-gray/Fuzzy | 0 | 0| 
 | 20220106T13:30:47Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 10 | 4| 
 | 20220106T13:24:34Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6991 | 1466| 
