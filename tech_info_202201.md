@@ -41,7 +41,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220106T02:02:08Z | CVE-2021-43798 | 运用golang写的grafana批量验证脚本，内置48个poc | https://github.com/light-Life/CVE-2021-43798 | | 
+| 20220106T02:02:43Z | CVE-2021-43798 | 运用golang写的grafana批量验证脚本，内置48个poc | https://github.com/light-Life/CVE-2021-43798 | | 
 | 20220106T02:01:25Z | CVE-2021-45232 | CVE-2021-45232-RCE-多线程批量漏洞检测 | https://github.com/GYLQ/CVE-2021-45232-RCE | | 
 | 20220105T23:34:46Z | cve-2021-44228 | Ansible detector scanner playbook to verify target Linux hosts using the official Red Hat Log4j detector script RHSB-2021-009 Remote Code Execution - log4j (CVE-2021-44228) | https://github.com/lucab85/log4j-cve-2021-44228 | | 
 | 20220105T23:27:11Z | CVE-2021-28482 | Null | https://github.com/timb-machine-mirrors/CVE-2021-28482 | | 
