@@ -40,9 +40,9 @@
 | 20220105T23:19:09Z | CVE-2021-42321 | Null | https://github.com/timb-machine-mirrors/CVE-2021-42321_poc | | 
 | 20220105T21:53:05Z | CVE-2021-44228 | latest developments and resources on log4j vulnerability CVE-2021-44228 | https://github.com/cryptoforcecommand/log4j-CVE-2021-44228 | | 
 | 20220105T21:52:23Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
-| 20220105T19:30:29Z | CVE-2021-44228 | Backdoor detection for VMware view | https://github.com/mr-r3b00t/CVE-2021-44228 | | 
 | 20220105T12:35:12Z | CVE-2021-42342 | CVE-2021-42342 RCE | https://github.com/Mr-xn/CVE-2021-42342 | | 
 | 20220105T09:19:16Z | CVE-2021-44228 | Null | https://github.com/b-abderrahmane/CVE-2021-44228-playground | | 
+| 20220105T09:13:39Z | CVE-2021-45232 | Null | https://github.com/Kuibagit/CVE-2021-45232-RCE | | 
 
 
 # klee on Github 推荐
@@ -86,13 +86,13 @@
 | 20220105T23:14:21Z | Null | https://github.com/Ramirez1001/backdoor | 0 | 0| 
 | 20220105T22:41:47Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 281 | 49| 
 | 20220105T19:46:40Z | The best backdoor scanner there is. | https://github.com/iK4oS/backdoor.exe | 3 | 7| 
-| 20220105T19:30:29Z | Backdoor detection for VMware view | https://github.com/mr-r3b00t/CVE-2021-44228 | 4 | 3| 
 | 20220105T17:12:30Z | .NET executable to use when dealing with privilege escalation on Windows to gain local administrator access | https://github.com/notdodo/LocalAdminSharp | 0 | 0| 
 | 20220105T15:09:21Z | Null | https://github.com/akashganguly420/Vuln-Scanner-and-Backdoor-Creater | 0 | 0| 
 | 20220105T14:51:41Z | the name of virus is the detection of microsoft defender, is the tipic antivirus | https://github.com/RobertoLeonFR-ES/Trojan.PHP.BackDoor.DD | 0 | 0| 
 | 20220105T13:52:01Z | Website Shell BackDoors ( collection of internet ) | https://github.com/7r0j4ncodeing/web-shells | 25 | 7| 
 | 20220105T13:38:31Z | Codebase for my Level 4 University Project: Static Analysis of Executable Code to Detect Backdoors on IoT Devices | https://github.com/sophieboyle/Symbolic-Execution-for-ARM-Backdoor-Detection | 0 | 0| 
 | 20220105T13:08:46Z | Null | https://github.com/sweeper02/backdoor | 0 | 0| 
+| 20220105T09:35:21Z | Null | https://github.com/akashganguly420/Anydesk-As-a-Backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐

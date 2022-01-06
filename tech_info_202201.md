@@ -41,6 +41,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220106T02:44:20Z | CVE-2021-44228 | Backdoor detection for VMware view | https://github.com/mr-r3b00t/CVE-2021-44228 | | 
 | 20220106T02:32:30Z | CVE-2021-43798 | 运用golang写的grafana批量验证脚本，内置48个poc | https://github.com/light-Life/CVE-2021-43798 | | 
 | 20220106T02:31:48Z | CVE-2021-45232 | CVE-2021-45232-RCE-多线程批量漏洞检测 | https://github.com/GYLQ/CVE-2021-45232-RCE | | 
 | 20220106T02:10:54Z | CVE-2021-45383 | Details,PoC and patches for CVE-2021-45383 & CVE-2021-45384 | https://github.com/nt1dr/CVE-2021-45383 | | 
@@ -50,7 +51,6 @@
 | 20220105T23:22:19Z | CVE-2021-22005 | Null | https://github.com/timb-machine-mirrors/CVE-2021-22005 | | 
 | 20220105T23:19:09Z | CVE-2021-42321 | Null | https://github.com/timb-machine-mirrors/CVE-2021-42321_poc | | 
 | 20220105T21:53:05Z | CVE-2021-44228 | latest developments and resources on log4j vulnerability CVE-2021-44228 | https://github.com/cryptoforcecommand/log4j-CVE-2021-44228 | | 
-| 20220105T21:52:23Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 
 
 # klee on Github 推荐
@@ -98,11 +98,11 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220106T02:44:20Z | Backdoor detection for VMware view | https://github.com/mr-r3b00t/CVE-2021-44228 | 5 | 3| 
 | 20220106T00:28:47Z | Simple DLL that add a user to the local Administrators group | https://github.com/notdodo/adduser-dll | 26 | 7| 
 | 20220105T23:14:21Z | Null | https://github.com/Ramirez1001/backdoor | 0 | 0| 
 | 20220105T22:41:47Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 281 | 49| 
 | 20220105T19:46:40Z | The best backdoor scanner there is. | https://github.com/iK4oS/backdoor.exe | 3 | 7| 
-| 20220105T19:30:29Z | Backdoor detection for VMware view | https://github.com/mr-r3b00t/CVE-2021-44228 | 4 | 3| 
 | 20220105T17:12:30Z | .NET executable to use when dealing with privilege escalation on Windows to gain local administrator access | https://github.com/notdodo/LocalAdminSharp | 0 | 0| 
 | 20220105T15:09:21Z | Null | https://github.com/akashganguly420/Vuln-Scanner-and-Backdoor-Creater | 0 | 0| 
 | 20220105T14:51:41Z | the name of virus is the detection of microsoft defender, is the tipic antivirus | https://github.com/RobertoLeonFR-ES/Trojan.PHP.BackDoor.DD | 0 | 0| 
@@ -134,6 +134,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220106T02:45:03Z | Over the net fuzzing of QUIC servers or clients. | https://github.com/private-octopus/fuzi_q | 0 | 0| 
+| 20220106T02:43:59Z | Leetcode solutions. | https://github.com/chaitanyks/fuzzy-disco | 1 | 0| 
 | 20220106T00:58:38Z | Package to remove nil pointer errors from your Go programs | https://github.com/thebabush/nosigsegv | 2 | 0| 
 | 20220106T00:56:55Z | playing with state | https://github.com/dustinturp/fuzzy-octo-palm-tree | 0 | 0| 
 | 20220106T00:38:21Z | Null | https://github.com/alchemycodelab/half-baked-web-01-fuzzy-bunny-organizer | 0 | 0| 
@@ -142,8 +144,6 @@
 | 20220106T00:02:35Z | Kodi EPG Fuzzy match to local library | https://github.com/kcook98765/script.epg_fuzzy_match | 0 | 0| 
 | 20220105T23:41:58Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4656 | 474| 
 | 20220105T23:41:21Z | Null | https://github.com/swasnaiktik/fuzzy-eureka | 0 | 0| 
-| 20220105T23:35:35Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 12 | 2| 
-| 20220105T23:06:14Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 10 | 4| 
 
 
 
