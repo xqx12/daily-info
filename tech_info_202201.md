@@ -33,14 +33,14 @@
 | --- | --- | ---| 
 | 20220106 | 2021年“CCF优秀博士学位论文奖”列表及全文 | https://www.ccf.org.cn/Awards/Awards/2022-01-05/752703.shtml| 
 | 20220106 | 互联网信息服务算法推荐管理规定 | http://www.gov.cn/zhengce/zhengceku/2022-01/04/content_5666429.htm| 
+| 20220106 | 浅谈数据安全运营能力建设 | https://mp.weixin.qq.com/s/SvMd8aCalyg5pL6Jri-4AA| 
+| 20220106 | DataCon2021域名体系安全赛道黑产方向赛题深度解析 | https://mp.weixin.qq.com/s/xIuXEt6DXoBoXqgzBIWcxQ| 
 | 20220105 | 商品图谱构建与实体对齐 | https://mp.weixin.qq.com/s/ct7FyMHPAyrVe_8mx8kPnw| 
 | 20220105 | 网络爬虫公司可能触犯哪些罪名 | https://mp.weixin.qq.com/s/AI5Pa37dS4q1XRCbbZXBsA| 
 | 20220105 | 聚焦算法推荐乱象问题 构建算法安全治理体系 | https://mp.weixin.qq.com/s/34IXkqX6QjRAuKd2-Cq2Iw| 
 | 20220105 | 好的工作想法从哪里来 | https://mp.weixin.qq.com/s/jajNXjNxfAvV-7SmLnVUAQ| 
 | 20220105 | 开源情报及其在下一代网络安全中的应用---文献综述 | https://mp.weixin.qq.com/s/ZjgTm8V6ucZ88zgSUy2sag| 
 | 20220104 | CodeAnalysis: 腾讯 Static Code Analysis | https://github.com/Tencent/CodeAnalysis| 
-| 20220104 | 网络安全标准实践指南——网络数据分类分级指引 | http://www.echinagov.com/uploads/1/file/public/202201/20220104084609_kxu3wojaw0.pdf| 
-| 20220104 | 扛住100亿次红包请求的后端架构设计 | https://github.com/xiaojiaqi/10billionhongbaos| 
 
 
 # CVE Github 推荐
@@ -88,8 +88,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220106T14:03:22Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 42 | 21| 
 | 20220106T13:31:06Z | This is a repo for the coding done for CTFs / exploits. The writeups are here: https://github.com/dillonwu-97/csec_writeups | https://github.com/dillonwu-97/csec-code | 0 | 0| 
-| 20220106T13:03:30Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 42 | 21| 
 | 20220106T13:02:05Z | CRAX++: S2E-based modular exploit generation system that incorporates various binary exploitation techniques. | https://github.com/SQLab/CRAXplusplus | 29 | 3| 
 | 20220106T12:52:27Z | Exploits Scripts and other tools that are useful during Penetration-Testing or Red Team engagement  | https://github.com/BlackSnufkin/PT-ToolKit | 13 | 7| 
 | 20220106T12:46:10Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 17| 
@@ -103,6 +103,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220106T13:52:37Z | A script to create a WordPress user with an Administrator role through browser executions. | https://github.com/alvindcaesar/wp-backdoor-entry | 0 | 0| 
 | 20220106T13:47:54Z | Threat Emulation and Red Teaming Framework, The Hacking Software for normal people. | https://github.com/quantumcore/remote_hacker_probe | 105 | 39| 
 | 20220106T13:26:53Z | Null | https://github.com/Cybrient/BackdoorLogin | 0 | 0| 
 | 20220106T11:30:41Z | Project SAANP : Implementation of Backdoor using Python | https://github.com/piyushsharma220699/Backdoor-in-Cyber-Security | 0 | 0| 
@@ -112,7 +113,6 @@
 | 20220106T03:29:24Z | Website Shell BackDoors ( collection of internet ) | https://github.com/7r0j4ncodeing/web-shells | 25 | 7| 
 | 20220106T03:09:49Z | Null | https://github.com/akashganguly420/Vuln-Scanner-and-Backdoor-Creater | 0 | 0| 
 | 20220105T23:14:21Z | Null | https://github.com/Ramirez1001/backdoor | 0 | 0| 
-| 20220105T22:41:47Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 281 | 49| 
 
 
 # symbolic execution on Github 推荐
@@ -140,7 +140,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220106T13:47:01Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 12 | 2| 
+| 20220106T14:13:05Z | A coverage-guided fuzzing framework for TiDB. | https://github.com/s3nt3/sqlvine | 0 | 0| 
+| 20220106T14:02:25Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 12 | 2| 
 | 20220106T13:42:01Z | Null | https://github.com/fuzzingworkshop/fuzzingworkshop.github.io | 0 | 0| 
 | 20220106T13:41:31Z | Implementasi mencari restoran terbaik berdasarkan nilai/rating pelayanan dan makanan | https://github.com/Otniel113/FuzzyLogic_in_Python | 0 | 0| 
 | 20220106T13:37:34Z | nothing especial just a simple fuzzy control system =) | https://github.com/garfield-gray/Fuzzy | 0 | 0| 
@@ -149,7 +150,6 @@
 | 20220106T13:07:43Z | FuzzedDataProvider for C# | https://github.com/DmitryJustDmitry/FuzzedDataProviderCS | 0 | 0| 
 | 20220106T12:47:07Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
 | 20220106T12:29:59Z | PoC of fuzzing closed-source userspace binaries with KVM | https://github.com/klecko/kvm-fuzz | 71 | 7| 
-| 20220106T12:27:36Z | Seed-based random network fuzzer | https://github.com/kahiroka/fuzz-automata | 0 | 0| 
 
 
 
