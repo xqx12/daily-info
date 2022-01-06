@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220106T13:02:59Z | CVE-2021-45046 | Null | https://github.com/Yuji-Kakeya/log4j-CVE-2021-45046-poc | | 
+| 20220106T13:04:03Z | CVE-2021-45046 | Null | https://github.com/Yuji-Kakeya/log4j-CVE-2021-45046-poc | | 
 | 20220106T13:01:58Z | CVE-2021-45383 | Details,PoC and patches for CVE-2021-45383 & CVE-2021-45384 | https://github.com/nt1dr/CVE-2021-45383 | | 
 | 20220106T11:13:26Z | CVE-2021-45232 | CVE-2021-45232-RCE-多线程批量漏洞检测 | https://github.com/GYLQ/CVE-2021-45232-RCE | | 
 | 20220106T11:00:11Z | CVE-2021-41349 | Exploiting: CVE-2021-41349 | https://github.com/exploit-io/CVE-2021-41349 | | 
