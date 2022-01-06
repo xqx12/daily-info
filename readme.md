@@ -77,7 +77,7 @@
 | 20220105T22:07:24Z | Java DNS Post Exploitation Tool | https://github.com/kryptops/lycanthropy | 7 | 1| 
 | 20220105T22:04:41Z | Null | https://github.com/blueIbird/exploit | 0 | 0| 
 | 20220105T20:55:49Z | A data science project about vulnerabilities and exploits. | https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis | 0 | 0| 
-| 20220105T20:49:44Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 327 | 841| 
+| 20220105T20:32:47Z | Pentester%s toolbox | https://github.com/binarytrails/prober | 5 | 2| 
 
 
 # backdoor on Github 推荐

@@ -83,6 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220106T01:16:51Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 328 | 841| 
 | 20220106T01:03:17Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 42 | 21| 
 | 20220106T00:46:09Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 17| 
 | 20220106T00:41:37Z | ExploitFixer Crasher | https://github.com/DenebS4c/ExploitFixer-Crash | 0 | 0| 
@@ -92,7 +93,6 @@
 | 20220105T23:12:06Z | Build a local copy of Known Exploited Vulnerabilities Catalog by CISA. Server mode for easy querying.  | https://github.com/vulsio/go-kev | 7 | 2| 
 | 20220105T23:10:21Z | Exploit Code | https://github.com/wjddnjs33/Exploit | 0 | 1| 
 | 20220105T23:01:58Z | This repos contains C# class that are used in my exploit build because im lazy, nothing to see here ig? | https://github.com/OrbxGit/Orbx-Library | 0 | 0| 
-| 20220105T22:08:04Z | Null | https://github.com/MRX2010FF0/log4j-0-day-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
