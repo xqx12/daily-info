@@ -16,6 +16,7 @@
 | 20220106 | Toward a Best-of-Both-Worlds Binary Disassembler | http://blog.trailofbits.com/2022/01/05/toward-a-best-of-both-worlds-binary-disassembler/| 
 | 20220106 | 软件无线电在漏洞挖掘领域的应用 | http://radioactive.blog/2022/01/05/insec_world_2021_chengdu/| 
 | 20220106 | 据 Checkpoint 分析，Zloader 恶意软件利用 Windows 签名验证的缺陷将恶意 Payload 注入到合法签名的 DLL 文件中绕过杀软检测 | https://sec.today/pulses/ba6b2944-11b1-400c-bc95-e9548d4f2e3b/| 
+| 20220106 | 据 Checkpoint 分析，Zloader 恶意软件利用 Windows 签名验证的缺陷将恶意 Payload 注入到合法签名的 DLL 文件中绕过杀软检测 | http://research.checkpoint.com/2022/can-you-trust-a-files-digital-signature-new-zloader-campaign-exploits-microsofts-signature-verification-putting-users-at-risk/| 
 | 20220105 | Awesome Reverse Engineering Resources | https://github.com/alphaSeclab/awesome-reverse-engineering/blob/master/Readme_en.md| 
 | 20220105 | CERT-EE 开源其维护开发的 Cuckoo 3 | https://github.com/cert-ee/cuckoo3| 
 | 20220105 | TCA - 腾讯云代码分析平台，通过词法分析、语法分析、控制流、数据流分析等技术对程序代码进行分析的工具 | https://github.com/Tencent/CodeAnalysis| 
@@ -25,7 +26,6 @@
 | 20220105 | Intel 12 代 CPU Alder Lake 新增的 VT-rp 硬件保护特性的分析 | https://www.andrea-allievi.com/blog/alder-lake-and-the-new-intel-features/| 
 | 20220105 | Windows 内核的 Secure Kernel Patch Guard 保护机制分析 | https://windows-internals.com/hyperguard-secure-kernel-patch-guard-part-1-skpg-initialization/| 
 | 20220105 | hxp CTF 2021 - The End Of LFI? | https://tttang.com/archive/1395/| 
-| 20220105 | Fiora：快捷搜索PoC、一键运行Nuclei演示视频. | https://www.bilibili.com/video/bv1Ha411z7T1| 
 
 
 # 安全维基 推荐
@@ -118,21 +118,22 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220106T11:57:47Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1956 | 406| 
+| 20220106T11:00:15Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1864 | 529| 
+| 20220106T07:22:22Z | RAUK: Automatic Schedulability Analysis of RTIC Applications Using Symbolic Execution | https://github.com/markhakansson/master-thesis | 5 | 0| 
+| 20220106T03:57:21Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2615 | 386| 
 | 20220106T01:24:54Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 11 | 5| 
 | 20220105T23:49:21Z | Testing Local Variables Using Symbolic Execution and Modification at Runtime | https://github.com/asiamina/TestLocal | 0 | 0| 
-| 20220105T23:26:39Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2614 | 386| 
-| 20220105T22:36:58Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1864 | 529| 
-| 20220105T21:53:13Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1955 | 406| 
 | 20220105T21:21:25Z | QEMU VM with generic KVM extensions for symbolic execution | https://github.com/S2E/qemu | 19 | 11| 
 | 20220105T21:20:34Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 193 | 42| 
 | 20220105T16:30:32Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 18 | 5| 
 | 20220105T13:38:31Z | Codebase for my Level 4 University Project: Static Analysis of Executable Code to Detect Backdoors on IoT Devices | https://github.com/sophieboyle/Symbolic-Execution-for-ARM-Backdoor-Detection | 0 | 0| 
-| 20220105T11:33:27Z | Symbolic execution for the XorShift128+ algorithm. | https://github.com/love-somnusk/TACIXATu | 0 | 0| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220106T07:30:53Z | NDSS 2020 - HYPER-CUBE: High-Dimensional Hypervisor Fuzzing | https://github.com/RUB-SysSec/Hypercube | 14 | 0| 
 | 20220101T14:32:14Z | A penetration testing tool for finding file upload bugs (NDSS 2020) | https://github.com/WSP-LAB/FUSE | 210 | 44| 
 
 

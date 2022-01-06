@@ -16,6 +16,7 @@
 | 20220106 | Toward a Best-of-Both-Worlds Binary Disassembler | http://blog.trailofbits.com/2022/01/05/toward-a-best-of-both-worlds-binary-disassembler/| 
 | 20220106 | 软件无线电在漏洞挖掘领域的应用 | http://radioactive.blog/2022/01/05/insec_world_2021_chengdu/| 
 | 20220106 | 据 Checkpoint 分析，Zloader 恶意软件利用 Windows 签名验证的缺陷将恶意 Payload 注入到合法签名的 DLL 文件中绕过杀软检测 | https://sec.today/pulses/ba6b2944-11b1-400c-bc95-e9548d4f2e3b/| 
+| 20220106 | 据 Checkpoint 分析，Zloader 恶意软件利用 Windows 签名验证的缺陷将恶意 Payload 注入到合法签名的 DLL 文件中绕过杀软检测 | http://research.checkpoint.com/2022/can-you-trust-a-files-digital-signature-new-zloader-campaign-exploits-microsofts-signature-verification-putting-users-at-risk/| 
 
 
 # 安全维基 推荐
@@ -85,12 +86,17 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220106T11:57:47Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1956 | 406| 
+| 20220106T11:00:15Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1864 | 529| 
+| 20220106T07:22:22Z | RAUK: Automatic Schedulability Analysis of RTIC Applications Using Symbolic Execution | https://github.com/markhakansson/master-thesis | 5 | 0| 
+| 20220106T03:57:21Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2615 | 386| 
 | 20220106T01:24:54Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 11 | 5| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220106T07:30:53Z | NDSS 2020 - HYPER-CUBE: High-Dimensional Hypervisor Fuzzing | https://github.com/RUB-SysSec/Hypercube | 14 | 0| 
 
 
 # fuzz on Github 推荐
