@@ -41,8 +41,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220106T02:02:08Z | CVE-2021-43798 | 运用golang写的grafana批量验证脚本，内置48个poc | https://github.com/light-Life/CVE-2021-43798 | | 
 | 20220106T02:01:25Z | CVE-2021-45232 | CVE-2021-45232-RCE-多线程批量漏洞检测 | https://github.com/GYLQ/CVE-2021-45232-RCE | | 
-| 20220106T02:01:08Z | CVE-2021-43798 | 运用golang写的grafana批量验证脚本，内置48个poc | https://github.com/light-Life/CVE-2021-43798 | | 
 | 20220105T23:34:46Z | cve-2021-44228 | Ansible detector scanner playbook to verify target Linux hosts using the official Red Hat Log4j detector script RHSB-2021-009 Remote Code Execution - log4j (CVE-2021-44228) | https://github.com/lucab85/log4j-cve-2021-44228 | | 
 | 20220105T23:27:11Z | CVE-2021-28482 | Null | https://github.com/timb-machine-mirrors/CVE-2021-28482 | | 
 | 20220105T23:26:33Z | cve-2021-44228 | Null | https://github.com/aws-samples/kubernetes-log4j-cve-2021-44228-node-agent | | 
@@ -83,7 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220106T01:41:06Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 329 | 841| 
+| 20220106T01:53:54Z | Multiple game hacks to use so the game becomes easier to play! | https://github.com/glixzzy/blooket-hack | 330 | 841| 
 | 20220106T01:03:17Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 42 | 21| 
 | 20220106T00:46:09Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 17| 
 | 20220106T00:41:37Z | ExploitFixer Crasher | https://github.com/DenebS4c/ExploitFixer-Crash | 0 | 0| 
