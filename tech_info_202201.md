@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220106T13:01:02Z | CVE-2021-45383 | Details,PoC and patches for CVE-2021-45383 & CVE-2021-45384 | https://github.com/nt1dr/CVE-2021-45383 | | 
-| 20220106T13:00:59Z | CVE-2021-45046 | Null | https://github.com/Yuji-Kakeya/log4j-CVE-2021-45046-poc | | 
+| 20220106T13:02:59Z | CVE-2021-45046 | Null | https://github.com/Yuji-Kakeya/log4j-CVE-2021-45046-poc | | 
+| 20220106T13:01:58Z | CVE-2021-45383 | Details,PoC and patches for CVE-2021-45383 & CVE-2021-45384 | https://github.com/nt1dr/CVE-2021-45383 | | 
 | 20220106T11:13:26Z | CVE-2021-45232 | CVE-2021-45232-RCE-多线程批量漏洞检测 | https://github.com/GYLQ/CVE-2021-45232-RCE | | 
 | 20220106T11:00:11Z | CVE-2021-41349 | Exploiting: CVE-2021-41349 | https://github.com/exploit-io/CVE-2021-41349 | | 
 | 20220106T09:43:21Z | CVE-2021-43798 | Grafana8.x 任意文件读取 | https://github.com/rnsss/CVE-2021-43798-poc | | 
@@ -76,7 +76,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220106T12:59:58Z | CRAX++: S2E-based modular exploit generation system that incorporates various binary exploitation techniques. | https://github.com/SQLab/CRAXplusplus | 29 | 3| 
+| 20220106T13:02:05Z | CRAX++: S2E-based modular exploit generation system that incorporates various binary exploitation techniques. | https://github.com/SQLab/CRAXplusplus | 29 | 3| 
 | 20220106T00:01:41Z | Null | https://github.com/s2e-lab/s2e-lab.github.io | 0 | 0| 
 | 20220105T21:20:34Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 193 | 42| 
 | 20220105T07:40:06Z | Documents for Spacecraft Simulation Environment | https://github.com/ut-issl/s2e-documents | 2 | 0| 
@@ -88,14 +88,14 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220106T12:59:58Z | CRAX++: S2E-based modular exploit generation system that incorporates various binary exploitation techniques. | https://github.com/SQLab/CRAXplusplus | 29 | 3| 
+| 20220106T13:03:30Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 42 | 21| 
+| 20220106T13:02:05Z | CRAX++: S2E-based modular exploit generation system that incorporates various binary exploitation techniques. | https://github.com/SQLab/CRAXplusplus | 29 | 3| 
 | 20220106T12:52:27Z | Exploits Scripts and other tools that are useful during Penetration-Testing or Red Team engagement  | https://github.com/BlackSnufkin/PT-ToolKit | 13 | 7| 
 | 20220106T12:46:10Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 17| 
 | 20220106T12:44:08Z | for exploiting vulns in roblox games | https://github.com/ghostapustaja/legionhub | 0 | 0| 
 | 20220106T12:36:05Z | Null | https://github.com/Henrinnes/exploiting-securing-Docker-and-kubernetes | 0 | 0| 
 | 20220106T12:28:42Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 277 | 83| 
 | 20220106T12:27:14Z | My Exploit Is Working, But Turn Off Your Anti-Viruses. | https://github.com/MM2YMM2/Exploit-For-Roblox | 0 | 0| 
-| 20220106T12:04:08Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 42 | 21| 
 | 20220106T11:55:14Z | This is a repo for the coding done for CTFs / exploits. The writeups are here: https://github.com/dillonwu-97/csec_writeups | https://github.com/dillonwu-97/csec-code | 0 | 0| 
 | 20220106T11:47:05Z | One of the few malware collection | https://github.com/Vichingo455/MalwareDatabase | 8 | 4| 
 
