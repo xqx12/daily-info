@@ -17,6 +17,7 @@
 | 20220106 | 软件无线电在漏洞挖掘领域的应用 | http://radioactive.blog/2022/01/05/insec_world_2021_chengdu/| 
 | 20220106 | 据 Checkpoint 分析，Zloader 恶意软件利用 Windows 签名验证的缺陷将恶意 Payload 注入到合法签名的 DLL 文件中绕过杀软检测 | https://sec.today/pulses/ba6b2944-11b1-400c-bc95-e9548d4f2e3b/| 
 | 20220106 | 据 Checkpoint 分析，Zloader 恶意软件利用 Windows 签名验证的缺陷将恶意 Payload 注入到合法签名的 DLL 文件中绕过杀软检测 | http://research.checkpoint.com/2022/can-you-trust-a-files-digital-signature-new-zloader-campaign-exploits-microsofts-signature-verification-putting-users-at-risk/| 
+| 20220106 | GoAhead环境变量注入复现踩坑记. | https://tttang.com/archive/1399/| 
 | 20220105 | Awesome Reverse Engineering Resources | https://github.com/alphaSeclab/awesome-reverse-engineering/blob/master/Readme_en.md| 
 | 20220105 | CERT-EE 开源其维护开发的 Cuckoo 3 | https://github.com/cert-ee/cuckoo3| 
 | 20220105 | TCA - 腾讯云代码分析平台，通过词法分析、语法分析、控制流、数据流分析等技术对程序代码进行分析的工具 | https://github.com/Tencent/CodeAnalysis| 
@@ -25,7 +26,6 @@
 | 20220105 | 通过自动化分析 Linux 内核镜像，生成 Kconfig 配置文件 | http://zznop.com/2022/01/02/automated-re-of-kernel-build-configs/| 
 | 20220105 | Intel 12 代 CPU Alder Lake 新增的 VT-rp 硬件保护特性的分析 | https://www.andrea-allievi.com/blog/alder-lake-and-the-new-intel-features/| 
 | 20220105 | Windows 内核的 Secure Kernel Patch Guard 保护机制分析 | https://windows-internals.com/hyperguard-secure-kernel-patch-guard-part-1-skpg-initialization/| 
-| 20220105 | hxp CTF 2021 - The End Of LFI? | https://tttang.com/archive/1395/| 
 
 
 # 安全维基 推荐

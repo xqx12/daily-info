@@ -17,6 +17,7 @@
 | 20220106 | 软件无线电在漏洞挖掘领域的应用 | http://radioactive.blog/2022/01/05/insec_world_2021_chengdu/| 
 | 20220106 | 据 Checkpoint 分析，Zloader 恶意软件利用 Windows 签名验证的缺陷将恶意 Payload 注入到合法签名的 DLL 文件中绕过杀软检测 | https://sec.today/pulses/ba6b2944-11b1-400c-bc95-e9548d4f2e3b/| 
 | 20220106 | 据 Checkpoint 分析，Zloader 恶意软件利用 Windows 签名验证的缺陷将恶意 Payload 注入到合法签名的 DLL 文件中绕过杀软检测 | http://research.checkpoint.com/2022/can-you-trust-a-files-digital-signature-new-zloader-campaign-exploits-microsofts-signature-verification-putting-users-at-risk/| 
+| 20220106 | GoAhead环境变量注入复现踩坑记. | https://tttang.com/archive/1399/| 
 
 
 # 安全维基 推荐
