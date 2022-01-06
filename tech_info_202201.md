@@ -41,6 +41,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220106T02:51:30Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
 | 20220106T02:46:12Z | CVE-2021-45232 | CVE-2021-45232-RCE-多线程批量漏洞检测 | https://github.com/GYLQ/CVE-2021-45232-RCE | | 
 | 20220106T02:45:08Z | CVE-2021-43798 | 运用golang写的grafana批量验证脚本，内置48个poc | https://github.com/light-Life/CVE-2021-43798 | | 
 | 20220106T02:44:20Z | CVE-2021-44228 | Backdoor detection for VMware view | https://github.com/mr-r3b00t/CVE-2021-44228 | | 
@@ -50,7 +51,6 @@
 | 20220105T23:26:33Z | cve-2021-44228 | Null | https://github.com/aws-samples/kubernetes-log4j-cve-2021-44228-node-agent | | 
 | 20220105T23:22:19Z | CVE-2021-22005 | Null | https://github.com/timb-machine-mirrors/CVE-2021-22005 | | 
 | 20220105T23:19:09Z | CVE-2021-42321 | Null | https://github.com/timb-machine-mirrors/CVE-2021-42321_poc | | 
-| 20220105T21:53:05Z | CVE-2021-44228 | latest developments and resources on log4j vulnerability CVE-2021-44228 | https://github.com/cryptoforcecommand/log4j-CVE-2021-44228 | | 
 
 
 # klee on Github 推荐
@@ -98,7 +98,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220106T02:50:55Z | Website Shell BackDoors ( collection of internet ) | https://github.com/7r0j4ncodeing/web-shells | 25 | 7| 
+| 20220106T02:53:46Z | Website Shell BackDoors ( collection of internet ) | https://github.com/7r0j4ncodeing/web-shells | 25 | 7| 
 | 20220106T02:44:20Z | Backdoor detection for VMware view | https://github.com/mr-r3b00t/CVE-2021-44228 | 5 | 3| 
 | 20220106T00:28:47Z | Simple DLL that add a user to the local Administrators group | https://github.com/notdodo/adduser-dll | 26 | 7| 
 | 20220105T23:14:21Z | Null | https://github.com/Ramirez1001/backdoor | 0 | 0| 
