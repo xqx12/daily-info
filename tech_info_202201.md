@@ -140,16 +140,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220106T13:42:01Z | Null | https://github.com/fuzzingworkshop/fuzzingworkshop.github.io | 0 | 0| 
+| 20220106T13:41:31Z | Implementasi mencari restoran terbaik berdasarkan nilai/rating pelayanan dan makanan | https://github.com/Otniel113/FuzzyLogic_in_Python | 0 | 0| 
+| 20220106T13:39:04Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 12 | 2| 
 | 20220106T13:37:34Z | nothing especial just a simple fuzzy control system =) | https://github.com/garfield-gray/Fuzzy | 0 | 0| 
-| 20220106T13:31:37Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 12 | 2| 
 | 20220106T13:30:47Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 10 | 4| 
 | 20220106T13:24:34Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6991 | 1466| 
 | 20220106T13:07:43Z | FuzzedDataProvider for C# | https://github.com/DmitryJustDmitry/FuzzedDataProviderCS | 0 | 0| 
 | 20220106T12:47:07Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
 | 20220106T12:29:59Z | PoC of fuzzing closed-source userspace binaries with KVM | https://github.com/klecko/kvm-fuzz | 71 | 7| 
 | 20220106T12:27:36Z | Seed-based random network fuzzer | https://github.com/kahiroka/fuzz-automata | 0 | 0| 
-| 20220106T11:47:18Z | Simulating inverted pendulum and solving it using fuzzy system from scratch. | https://github.com/aria-mstj/Inverted-Pendulum-Fuzzy | 0 | 0| 
-| 20220106T11:01:59Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 
 
 
