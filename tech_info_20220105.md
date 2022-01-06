@@ -89,10 +89,10 @@
 | 20220105T17:12:30Z | .NET executable to use when dealing with privilege escalation on Windows to gain local administrator access | https://github.com/notdodo/LocalAdminSharp | 0 | 0| 
 | 20220105T15:09:21Z | Null | https://github.com/akashganguly420/Vuln-Scanner-and-Backdoor-Creater | 0 | 0| 
 | 20220105T14:51:41Z | the name of virus is the detection of microsoft defender, is the tipic antivirus | https://github.com/RobertoLeonFR-ES/Trojan.PHP.BackDoor.DD | 0 | 0| 
-| 20220105T13:52:01Z | Website Shell BackDoors ( collection of internet ) | https://github.com/7r0j4ncodeing/web-shells | 25 | 7| 
 | 20220105T13:38:31Z | Codebase for my Level 4 University Project: Static Analysis of Executable Code to Detect Backdoors on IoT Devices | https://github.com/sophieboyle/Symbolic-Execution-for-ARM-Backdoor-Detection | 0 | 0| 
 | 20220105T13:08:46Z | Null | https://github.com/sweeper02/backdoor | 0 | 0| 
 | 20220105T09:35:21Z | Null | https://github.com/akashganguly420/Anydesk-As-a-Backdoor | 0 | 0| 
+| 20220105T06:17:10Z | Evil Vs Evil: Using Adversarial Examples to Against Backdoor Attack in Federated Learning | https://github.com/Leon022/EVE | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
