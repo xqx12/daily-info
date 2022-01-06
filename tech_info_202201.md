@@ -103,6 +103,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220106T13:26:53Z | Null | https://github.com/Cybrient/BackdoorLogin | 0 | 0| 
 | 20220106T11:30:41Z | Project SAANP : Implementation of Backdoor using Python | https://github.com/piyushsharma220699/Backdoor-in-Cyber-Security | 0 | 0| 
 | 20220106T10:03:07Z | Simple DLL that add a user to the local Administrators group | https://github.com/notdodo/adduser-dll | 27 | 8| 
 | 20220106T08:48:13Z | Backdoor detection for VMware view | https://github.com/mr-r3b00t/CVE-2021-44228 | 7 | 5| 
@@ -112,13 +113,12 @@
 | 20220105T23:14:21Z | Null | https://github.com/Ramirez1001/backdoor | 0 | 0| 
 | 20220105T22:41:47Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 281 | 49| 
 | 20220105T19:46:40Z | The best backdoor scanner there is. | https://github.com/iK4oS/backdoor.exe | 3 | 7| 
-| 20220105T14:51:41Z | the name of virus is the detection of microsoft defender, is the tipic antivirus | https://github.com/RobertoLeonFR-ES/Trojan.PHP.BackDoor.DD | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220106T13:22:17Z | An Adaptive Symbolic Execution Method For Detecting Heap Overflow Vulnerability Based On Vulnerability Specification | https://github.com/alikmli/HeapOverFlow-Detection | 0 | 0| 
+| 20220106T13:27:05Z | An Adaptive Symbolic Execution Method For Detecting Heap Overflow Vulnerability Based On Vulnerability Specification | https://github.com/alikmli/HeapOverFlow-Detection | 0 | 0| 
 | 20220106T11:57:47Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1956 | 406| 
 | 20220106T11:00:15Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1864 | 529| 
 | 20220106T07:22:22Z | RAUK: Automatic Schedulability Analysis of RTIC Applications Using Symbolic Execution | https://github.com/markhakansson/master-thesis | 5 | 0| 
