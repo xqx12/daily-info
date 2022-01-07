@@ -80,7 +80,6 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220106T23:35:58Z | .NET executable to use when dealing with privilege escalation on Windows to gain local administrator access | https://github.com/notdodo/LocalAdminSharp | 3 | 1| 
 | 20220106T23:19:40Z | The best backdoor scanner there is. | https://github.com/iK4oS/backdoor.exe | 3 | 7| 
 | 20220106T18:09:41Z | another snake friendly rat backbone | https://github.com/trevalkov/ratpy | 1 | 0| 
 | 20220106T15:37:55Z | Null | https://github.com/JorikSchillemans/Botnet-Backdoor-Keylogger | 0 | 0| 
@@ -90,6 +89,7 @@
 | 20220106T14:22:27Z | A Python backdoor for spying on Windows machines | https://github.com/JoaoAJMatos/VINC | 6 | 0| 
 | 20220106T13:52:37Z | A script to create a WordPress user with an Administrator role through browser executions. | https://github.com/alvindcaesar/wp-backdoor-entry | 0 | 0| 
 | 20220106T13:47:54Z | Threat Emulation and Red Teaming Framework, The Hacking Software for normal people. | https://github.com/quantumcore/remote_hacker_probe | 105 | 39| 
+| 20220106T11:30:41Z | Project SAANP : Implementation of Backdoor using Python | https://github.com/piyushsharma220699/Backdoor-in-Cyber-Security | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
