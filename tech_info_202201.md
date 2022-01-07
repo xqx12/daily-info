@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220107T01:01:16Z | A tool for detect&exploit vmware product log4j vulnerability. | https://github.com/NS-Sp4ce/Vm4J | 54 | 14| 
 | 20220107T00:55:16Z | explain how to exploit LFI and get RCE  | https://github.com/0-POOT/LFI_to_RCE | 0 | 0| 
 | 20220107T00:46:10Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 18| 
 | 20220107T00:17:19Z | Roblox Exploit Hub | https://github.com/358x33/JustAHub | 0 | 0| 
@@ -97,7 +98,6 @@
 | 20220106T23:24:55Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 277 | 83| 
 | 20220106T23:20:07Z | Xsearch - a utility to search exploitdb for exploits and shellcodes.  | https://github.com/prodseanb/Xsearch | 0 | 0| 
 | 20220106T22:55:36Z | Hands-on experience on the Dirty COW attack, understand the race condition vulnerability exploited by the attack, and gain a deeper understanding of the general race condition security problems. | https://github.com/GHa123/Dirty-COW-attack-Lab | 0 | 0| 
-| 20220106T22:53:02Z | Build a local copy of Known Exploited Vulnerabilities Catalog by CISA. Server mode for easy querying.  | https://github.com/vulsio/go-kev | 7 | 2| 
 
 
 # backdoor on Github 推荐
