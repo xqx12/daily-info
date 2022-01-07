@@ -88,7 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220107T13:14:42Z | explain how to exploit LFI and get RCE  | https://github.com/0-POOT/LFI_to_RCE | 0 | 0| 
+| 20220107T13:22:08Z | explain how to exploit LFI and get RCE  | https://github.com/0-POOT/LFI_to_RCE | 0 | 0| 
 | 20220107T13:13:44Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10555 | 1814| 
 | 20220107T13:13:31Z | Vulnerabilities found along the way | https://github.com/hansmach1ne/MyExploits | 2 | 0| 
 | 20220107T13:03:08Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 42 | 21| 
