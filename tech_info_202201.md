@@ -88,7 +88,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220107T01:28:53Z | Writing exploits for fun | https://github.com/rjcoulter/Stack-Smashing | 0 | 0| 
+| 20220107T01:34:53Z | Writing exploits for fun | https://github.com/rjcoulter/Stack-Smashing | 0 | 0| 
+| 20220107T01:33:14Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 55 | 7| 
 | 20220107T01:07:39Z | Tool for searching Exploits from Exploit Databases, etc. | https://github.com/vulsio/go-exploitdb | 147 | 38| 
 | 20220107T01:03:39Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 42 | 21| 
 | 20220107T01:01:16Z | A tool for detect&exploit vmware product log4j vulnerability. | https://github.com/NS-Sp4ce/Vm4J | 54 | 14| 
@@ -97,7 +98,6 @@
 | 20220107T00:17:19Z | Roblox Exploit Hub | https://github.com/358x33/JustAHub | 0 | 0| 
 | 20220107T00:00:23Z | Codes from Hacking: The Art of Exploitation book. By Jon Erickson. | https://github.com/edupazzz/Hacking-The-Art-of-Exploitation-Book | 0 | 0| 
 | 20220106T23:28:57Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 2696 | 408| 
-| 20220106T23:24:55Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 277 | 83| 
 
 
 # backdoor on Github 推荐
