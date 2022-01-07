@@ -119,9 +119,9 @@
 | 20220106T22:58:36Z | Individual Development Plan | https://github.com/henrinacio/fuzzy-disco | 0 | 0| 
 | 20220106T22:56:02Z | a simplified means to CRUD ephemeral user-scoped EC2 instances | https://github.com/rstudio/fuzzbucket | 3 | 1| 
 | 20220106T22:39:16Z | Null | https://github.com/MiguelTheGamer/fuzzy-meme | 0 | 0| 
-| 20220106T22:37:22Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20220106T22:28:42Z | Null | https://github.com/alchemycodelab/bug-hunt-web-01-fuzzy-bunny-organizer | 0 | 0| 
 | 20220106T21:48:49Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 14 | 4| 
+| 20220106T21:40:16Z | FuzzedDataProvider for C# | https://github.com/DmitryJustDmitry/FuzzedDataProviderCS | 0 | 0| 
 
 
 

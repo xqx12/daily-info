@@ -88,9 +88,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220107T01:45:17Z | Writing exploits for fun | https://github.com/rjcoulter/Stack-Smashing | 0 | 0| 
 | 20220107T01:43:47Z | explain how to exploit LFI and get RCE  | https://github.com/0-POOT/LFI_to_RCE | 0 | 0| 
 | 20220107T01:38:43Z | Verification of the Linearization Protocol proposed in: Scale-out CcNUMA: Exploiting Skew with Strongly Consistent Caching | https://github.com/Errare-humanum-est/Linearization-Protocol | 0 | 1| 
-| 20220107T01:34:53Z | Writing exploits for fun | https://github.com/rjcoulter/Stack-Smashing | 0 | 0| 
 | 20220107T01:33:14Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 55 | 7| 
 | 20220107T01:07:39Z | Tool for searching Exploits from Exploit Databases, etc. | https://github.com/vulsio/go-exploitdb | 147 | 38| 
 | 20220107T01:03:39Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 42 | 21| 
@@ -140,6 +140,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220107T01:46:54Z | Null | https://github.com/vaporyhumo/fuzzy-fortnight | 0 | 0| 
+| 20220107T01:46:08Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20220107T01:42:50Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2452 | 152| 
 | 20220107T01:13:14Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 7 | 0| 
 | 20220107T01:07:56Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1145 | 48| 
@@ -148,8 +150,6 @@
 | 20220106T23:38:09Z | Hello_world | https://github.com/ColeyOh/fuzzy-eureka | 0 | 0| 
 | 20220106T23:32:37Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6996 | 1468| 
 | 20220106T23:09:53Z | Null | https://github.com/Potatochips2001/fuzz | 0 | 0| 
-| 20220106T22:59:28Z | Null | https://github.com/mpollicito/fuzzy-meme | 0 | 0| 
-| 20220106T22:58:36Z | Individual Development Plan | https://github.com/henrinacio/fuzzy-disco | 0 | 0| 
 
 
 
