@@ -140,7 +140,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220107T02:28:44Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1349 | 146| 
+| 20220107T02:43:44Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1349 | 146| 
 | 20220107T01:46:54Z | Null | https://github.com/vaporyhumo/fuzzy-fortnight | 0 | 0| 
 | 20220107T01:46:08Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20220107T01:42:50Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2452 | 152| 
