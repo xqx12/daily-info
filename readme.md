@@ -68,6 +68,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220107T13:48:49Z | My backdoor exe edit for Roblox that has: | https://github.com/personstealingyoursource/backdoor-exe-edit | 0 | 0| 
 | 20220107T12:23:26Z | .NET executable to use when dealing with privilege escalation on Windows to gain local administrator access | https://github.com/notdodo/LocalAdminSharp | 11 | 2| 
 | 20220107T11:24:21Z | Evil vs Evil: Using Adversarial Examples to Against Backdoor Attack in Federated Learning | https://github.com/Leon022/EVE | 0 | 0| 
 | 20220107T11:09:34Z | Windows Backdoor that is controlled through Discord | https://github.com/3ct0s/disctopia-c2 | 0 | 0| 
