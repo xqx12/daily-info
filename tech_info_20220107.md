@@ -91,16 +91,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220107T13:19:23Z | Small project of face recognition and image manipulation in Python using face_recognition and Pillow library | https://github.com/dixneuf19/fuzzy-octo-disco | 0 | 0| 
+| 20220107T13:18:12Z | Null | https://github.com/koldbrandt/mlops_fuzzy-fish-waffle | 0 | 0| 
+| 20220107T13:18:03Z | engine for computing on cloud | https://github.com/damnmohsin/fuzzy-engine | 0 | 0| 
 | 20220107T13:14:26Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20220107T13:08:19Z | Null | https://github.com/koldbrandt/mlops_fuzzy-fish-waffle | 0 | 0| 
 | 20220107T13:02:54Z | Null | https://github.com/MiguelTheGamer/fuzzy-meme | 0 | 0| 
 | 20220107T12:43:38Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 11 | 2| 
 | 20220107T12:31:49Z | Demo project for fuzzing Clojure code | https://github.com/CodeIntelligenceTesting/jazzer-clojure-example | 0 | 0| 
 | 20220107T12:26:22Z | Null | https://github.com/Maxim341/fuzzy_prototype | 0 | 0| 
 | 20220107T12:19:38Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 30 | 4| 
 | 20220107T12:17:01Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 7 | 0| 
-| 20220107T12:16:39Z | Null | https://github.com/Mundi-Xu/Fuzzing_Zlib | 1 | 0| 
-| 20220107T12:06:37Z | Null | https://github.com/sav4enkoVV/fuzzy_sets | 0 | 0| 
 
 
 
