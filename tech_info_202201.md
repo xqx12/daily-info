@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220107T02:56:10Z | An x86 linux syscall table reference tool. Handy for when writing shellcode and exploits. | https://github.com/jinqiwenc/m57 | 0 | 0| 
 | 20220107T02:41:03Z | Log4shell Exploit tool. | https://github.com/minhnq22/log4shell_exploit | 0 | 0| 
 | 20220107T02:31:13Z | Pwn stuff. | https://github.com/mm0r1/exploits | 1315 | 333| 
 | 20220107T02:23:09Z | Kscan是一款纯go开发的轻量级的资产发现工具，可针对指定IP段、资产清单、存活网段自动化进行端口扫描以及TCP指纹识别和Banner抓取，在不发送更多的数据包的情况下尽可能的获取端口更多信息。并且能够针对扫描结果进行自动化暴力破解，且是go平台首款开源的RDP暴力破解工具。 | https://github.com/lcvvvv/kscan | 696 | 111| 
@@ -97,7 +98,6 @@
 | 20220107T02:06:37Z | This is a repo for the coding done for CTFs / exploits. The writeups are here: https://github.com/dillonwu-97/csec_writeups | https://github.com/dillonwu-97/csec-code | 0 | 0| 
 | 20220107T02:04:01Z | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | 14 | 5| 
 | 20220107T02:03:18Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 42 | 21| 
-| 20220107T01:38:43Z | Verification of the Linearization Protocol proposed in: Scale-out CcNUMA: Exploiting Skew with Strongly Consistent Caching | https://github.com/Errare-humanum-est/Linearization-Protocol | 0 | 1| 
 
 
 # backdoor on Github 推荐
