@@ -88,7 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220107T02:31:38Z | Log4shell Exploit tool. | https://github.com/minhnq22/log4shell_exploit | 0 | 0| 
+| 20220107T02:37:01Z | Log4shell Exploit tool. | https://github.com/minhnq22/log4shell_exploit | 0 | 0| 
 | 20220107T02:31:13Z | Pwn stuff. | https://github.com/mm0r1/exploits | 1315 | 333| 
 | 20220107T02:23:09Z | Kscan是一款纯go开发的轻量级的资产发现工具，可针对指定IP段、资产清单、存活网段自动化进行端口扫描以及TCP指纹识别和Banner抓取，在不发送更多的数据包的情况下尽可能的获取端口更多信息。并且能够针对扫描结果进行自动化暴力破解，且是go平台首款开源的RDP暴力破解工具。 | https://github.com/lcvvvv/kscan | 696 | 111| 
 | 20220107T02:19:38Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6253 | 1473| 
