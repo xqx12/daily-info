@@ -53,8 +53,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220107T13:53:08Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10556 | 1814| 
 | 20220107T13:22:08Z | explain how to exploit LFI and get RCE  | https://github.com/0-POOT/LFI_to_RCE | 0 | 0| 
-| 20220107T13:13:44Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10555 | 1814| 
 | 20220107T13:13:31Z | Vulnerabilities found along the way | https://github.com/hansmach1ne/MyExploits | 2 | 0| 
 | 20220107T13:03:08Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 42 | 21| 
 | 20220107T12:46:11Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 18| 
@@ -68,7 +68,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220107T13:48:49Z | My backdoor exe edit for Roblox that has: | https://github.com/personstealingyoursource/backdoor-exe-edit | 0 | 0| 
+| 20220107T13:53:34Z | My backdoor exe edit for Roblox that has: | https://github.com/personstealingyoursource/backdoor-exe-edit | 0 | 0| 
 | 20220107T12:23:26Z | .NET executable to use when dealing with privilege escalation on Windows to gain local administrator access | https://github.com/notdodo/LocalAdminSharp | 11 | 2| 
 | 20220107T11:24:21Z | Evil vs Evil: Using Adversarial Examples to Against Backdoor Attack in Federated Learning | https://github.com/Leon022/EVE | 0 | 0| 
 | 20220107T11:09:34Z | Windows Backdoor that is controlled through Discord | https://github.com/3ct0s/disctopia-c2 | 0 | 0| 
