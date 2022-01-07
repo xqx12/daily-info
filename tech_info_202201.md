@@ -141,9 +141,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220107T13:19:23Z | Small project of face recognition and image manipulation in Python using face_recognition and Pillow library | https://github.com/dixneuf19/fuzzy-octo-disco | 0 | 0| 
-| 20220107T13:18:12Z | Null | https://github.com/koldbrandt/mlops_fuzzy-fish-waffle | 0 | 0| 
-| 20220107T13:18:03Z | engine for computing on cloud | https://github.com/damnmohsin/fuzzy-engine | 0 | 0| 
+| 20220107T13:23:14Z | Null | https://github.com/koldbrandt/mlops_fuzzy-fish-waffle | 0 | 0| 
+| 20220107T13:21:50Z | engine for computing on cloud | https://github.com/damnmohsin/fuzzy-engine | 0 | 0| 
+| 20220107T13:19:53Z | Small project of face recognition and image manipulation in Python using face_recognition and Pillow library | https://github.com/dixneuf19/fuzzy-octo-disco | 0 | 0| 
 | 20220107T13:14:26Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20220107T13:02:54Z | Null | https://github.com/MiguelTheGamer/fuzzy-meme | 0 | 0| 
 | 20220107T12:43:38Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 11 | 2| 
