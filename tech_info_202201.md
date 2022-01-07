@@ -140,6 +140,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220107T02:26:51Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1348 | 146| 
 | 20220107T01:46:54Z | Null | https://github.com/vaporyhumo/fuzzy-fortnight | 0 | 0| 
 | 20220107T01:46:08Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20220107T01:42:50Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2452 | 152| 
@@ -149,7 +150,6 @@
 | 20220107T00:06:30Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 213 | 40| 
 | 20220106T23:38:09Z | Hello_world | https://github.com/ColeyOh/fuzzy-eureka | 0 | 0| 
 | 20220106T23:32:37Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6996 | 1468| 
-| 20220106T23:09:53Z | Null | https://github.com/Potatochips2001/fuzz | 0 | 0| 
 
 
 
