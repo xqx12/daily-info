@@ -35,17 +35,20 @@
 | 20220106 | 互联网信息服务算法推荐管理规定 | http://www.gov.cn/zhengce/zhengceku/2022-01/04/content_5666429.htm| 
 | 20220106 | 浅谈数据安全运营能力建设 | https://mp.weixin.qq.com/s/SvMd8aCalyg5pL6Jri-4AA| 
 | 20220106 | DataCon2021域名体系安全赛道黑产方向赛题深度解析 | https://mp.weixin.qq.com/s/xIuXEt6DXoBoXqgzBIWcxQ| 
+| 20220106 | 某系统漏洞挖掘之固件分析 | https://mp.weixin.qq.com/s/-xlzHLT6WoX2nKphpO04fQ| 
 | 20220105 | 商品图谱构建与实体对齐 | https://mp.weixin.qq.com/s/ct7FyMHPAyrVe_8mx8kPnw| 
 | 20220105 | 网络爬虫公司可能触犯哪些罪名 | https://mp.weixin.qq.com/s/AI5Pa37dS4q1XRCbbZXBsA| 
 | 20220105 | 聚焦算法推荐乱象问题 构建算法安全治理体系 | https://mp.weixin.qq.com/s/34IXkqX6QjRAuKd2-Cq2Iw| 
 | 20220105 | 好的工作想法从哪里来 | https://mp.weixin.qq.com/s/jajNXjNxfAvV-7SmLnVUAQ| 
 | 20220105 | 开源情报及其在下一代网络安全中的应用---文献综述 | https://mp.weixin.qq.com/s/ZjgTm8V6ucZ88zgSUy2sag| 
-| 20220104 | CodeAnalysis: 腾讯 Static Code Analysis | https://github.com/Tencent/CodeAnalysis| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220106T20:49:29Z | CVE-2021-43326 | Automox Windows Agent Privilege Escalation Exploit | https://github.com/gfoss/CVE-2021-43326_Exploit | | 
+| 20220106T19:15:43Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
+| 20220106T18:15:27Z | CVE-2021-44228 | Null | https://github.com/rwincey/CVE-2021-44228-Log4j-Payloads | | 
 | 20220106T13:05:05Z | CVE-2021-45046 | Null | https://github.com/Yuji-Kakeya/log4j-CVE-2021-45046-poc | | 
 | 20220106T13:01:58Z | CVE-2021-45383 | Details,PoC and patches for CVE-2021-45383 & CVE-2021-45384 | https://github.com/nt1dr/CVE-2021-45383 | | 
 | 20220106T11:13:26Z | CVE-2021-45232 | CVE-2021-45232-RCE-多线程批量漏洞检测 | https://github.com/GYLQ/CVE-2021-45232-RCE | | 
@@ -53,16 +56,14 @@
 | 20220106T09:43:21Z | CVE-2021-43798 | Grafana8.x 任意文件读取 | https://github.com/rnsss/CVE-2021-43798-poc | | 
 | 20220106T09:37:40Z | CVE-2021-39863 | Null | https://github.com/lsw29475/CVE-2021-39863 | | 
 | 20220106T08:48:13Z | CVE-2021-44228 | Backdoor detection for VMware view | https://github.com/mr-r3b00t/CVE-2021-44228 | | 
-| 20220106T08:47:40Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
-| 20220106T07:59:00Z | 未知编号 | Null | https://github.com/gnaiq/cve2022123 | | 
-| 20220106T07:22:50Z | cve-2022-4444 | Null | https://github.com/gnaiq/cve-2022-4444 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220106T11:00:15Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1864 | 529| 
-| 20220106T10:28:05Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 3435 | 108| 
+| 20220106T23:27:03Z | Null | https://github.com/lindsayp30/sort-o_kleex | 0 | 0| 
+| 20220106T17:16:30Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1864 | 529| 
+| 20220106T16:03:39Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 3438 | 108| 
 | 20220106T09:44:51Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 5 | 0| 
 | 20220106T00:54:41Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 15 | 1| 
 | 20220105T19:09:23Z | Config files for my GitHub profile. | https://github.com/Kleek01/Kleek01 | 0 | 0| 
@@ -70,7 +71,6 @@
 | 20220105T14:24:18Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 14 | 45| 
 | 20220104T16:34:27Z | Tutorial of the course: Kleene Algebras From Foundations to Program Verification | https://github.com/hyleIndex/Kleene-Algebras-From-Foundations-to-Program-Verification | 0 | 0| 
 | 20220104T15:21:15Z | Null | https://github.com/kleemeo/kleemeo | 0 | 0| 
-| 20220104T10:26:54Z | Android App to Manage Car Cleaning Services  | https://github.com/Chandanajh/GreenKleen | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -88,31 +88,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220106T14:03:22Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 42 | 21| 
-| 20220106T13:31:06Z | This is a repo for the coding done for CTFs / exploits. The writeups are here: https://github.com/dillonwu-97/csec_writeups | https://github.com/dillonwu-97/csec-code | 0 | 0| 
-| 20220106T13:02:05Z | CRAX++: S2E-based modular exploit generation system that incorporates various binary exploitation techniques. | https://github.com/SQLab/CRAXplusplus | 29 | 3| 
-| 20220106T12:52:27Z | Exploits Scripts and other tools that are useful during Penetration-Testing or Red Team engagement  | https://github.com/BlackSnufkin/PT-ToolKit | 13 | 7| 
-| 20220106T12:46:10Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 24 | 17| 
-| 20220106T12:44:08Z | for exploiting vulns in roblox games | https://github.com/ghostapustaja/legionhub | 0 | 0| 
-| 20220106T12:36:05Z | Null | https://github.com/Henrinnes/exploiting-securing-Docker-and-kubernetes | 0 | 0| 
-| 20220106T12:28:42Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 277 | 83| 
-| 20220106T12:27:14Z | My Exploit Is Working, But Turn Off Your Anti-Viruses. | https://github.com/MM2YMM2/Exploit-For-Roblox | 0 | 0| 
-| 20220106T11:47:05Z | One of the few malware collection | https://github.com/Vichingo455/MalwareDatabase | 8 | 4| 
+| 20220107T00:55:16Z | explain how to exploit LFI and get RCE  | https://github.com/0-POOT/LFI_to_RCE | 0 | 0| 
+| 20220107T00:46:10Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 18| 
+| 20220107T00:17:19Z | Roblox Exploit Hub | https://github.com/358x33/JustAHub | 0 | 0| 
+| 20220107T00:03:59Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 42 | 21| 
+| 20220107T00:00:23Z | Codes from Hacking: The Art of Exploitation book. By Jon Erickson. | https://github.com/edupazzz/Hacking-The-Art-of-Exploitation-Book | 0 | 0| 
+| 20220106T23:28:57Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 2696 | 408| 
+| 20220106T23:24:55Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 277 | 83| 
+| 20220106T23:20:07Z | Xsearch - a utility to search exploitdb for exploits and shellcodes.  | https://github.com/prodseanb/Xsearch | 0 | 0| 
+| 20220106T22:55:36Z | Hands-on experience on the Dirty COW attack, understand the race condition vulnerability exploited by the attack, and gain a deeper understanding of the general race condition security problems. | https://github.com/GHa123/Dirty-COW-attack-Lab | 0 | 0| 
+| 20220106T22:53:02Z | Build a local copy of Known Exploited Vulnerabilities Catalog by CISA. Server mode for easy querying.  | https://github.com/vulsio/go-kev | 7 | 2| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220106T23:35:58Z | .NET executable to use when dealing with privilege escalation on Windows to gain local administrator access | https://github.com/notdodo/LocalAdminSharp | 3 | 1| 
+| 20220106T23:19:40Z | The best backdoor scanner there is. | https://github.com/iK4oS/backdoor.exe | 3 | 7| 
+| 20220106T18:09:41Z | another snake friendly rat backbone | https://github.com/trevalkov/ratpy | 1 | 0| 
+| 20220106T15:37:55Z | Null | https://github.com/JorikSchillemans/Botnet-Backdoor-Keylogger | 0 | 0| 
+| 20220106T15:31:08Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1532 | 374| 
+| 20220106T15:24:02Z | A backdoor manager written in python. | https://github.com/gsvprharsha/backdoor-handler | 3 | 0| 
+| 20220106T14:50:21Z | Null | https://github.com/Cybrient/BackdoorLogin | 0 | 0| 
+| 20220106T14:22:27Z | A Python backdoor for spying on Windows machines | https://github.com/JoaoAJMatos/VINC | 6 | 0| 
 | 20220106T13:52:37Z | A script to create a WordPress user with an Administrator role through browser executions. | https://github.com/alvindcaesar/wp-backdoor-entry | 0 | 0| 
 | 20220106T13:47:54Z | Threat Emulation and Red Teaming Framework, The Hacking Software for normal people. | https://github.com/quantumcore/remote_hacker_probe | 105 | 39| 
-| 20220106T13:26:53Z | Null | https://github.com/Cybrient/BackdoorLogin | 0 | 0| 
-| 20220106T11:30:41Z | Project SAANP : Implementation of Backdoor using Python | https://github.com/piyushsharma220699/Backdoor-in-Cyber-Security | 0 | 0| 
-| 20220106T10:03:07Z | Simple DLL that add a user to the local Administrators group | https://github.com/notdodo/adduser-dll | 27 | 8| 
-| 20220106T08:48:13Z | Backdoor detection for VMware view | https://github.com/mr-r3b00t/CVE-2021-44228 | 7 | 5| 
-| 20220106T03:32:13Z | .NET executable to use when dealing with privilege escalation on Windows to gain local administrator access | https://github.com/notdodo/LocalAdminSharp | 1 | 0| 
-| 20220106T03:29:24Z | Website Shell BackDoors ( collection of internet ) | https://github.com/7r0j4ncodeing/web-shells | 25 | 7| 
-| 20220106T03:09:49Z | Null | https://github.com/akashganguly420/Vuln-Scanner-and-Backdoor-Creater | 0 | 0| 
-| 20220105T23:14:21Z | Null | https://github.com/Ramirez1001/backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -140,16 +140,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220106T14:13:05Z | A coverage-guided fuzzing framework for TiDB. | https://github.com/s3nt3/sqlvine | 0 | 0| 
-| 20220106T14:02:25Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 12 | 2| 
-| 20220106T13:42:01Z | Null | https://github.com/fuzzingworkshop/fuzzingworkshop.github.io | 0 | 0| 
-| 20220106T13:41:31Z | Implementasi mencari restoran terbaik berdasarkan nilai/rating pelayanan dan makanan | https://github.com/Otniel113/FuzzyLogic_in_Python | 0 | 0| 
-| 20220106T13:37:34Z | nothing especial just a simple fuzzy control system =) | https://github.com/garfield-gray/Fuzzy | 0 | 0| 
-| 20220106T13:30:47Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 10 | 4| 
-| 20220106T13:24:34Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6991 | 1466| 
-| 20220106T13:07:43Z | FuzzedDataProvider for C# | https://github.com/DmitryJustDmitry/FuzzedDataProviderCS | 0 | 0| 
-| 20220106T12:47:07Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
-| 20220106T12:29:59Z | PoC of fuzzing closed-source userspace binaries with KVM | https://github.com/klecko/kvm-fuzz | 71 | 7| 
+| 20220107T00:27:47Z | Personal website | https://github.com/fuzzywavecode/fuzzywavecode.github.io | 0 | 0| 
+| 20220107T00:06:30Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 213 | 40| 
+| 20220106T23:44:23Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 7 | 0| 
+| 20220106T23:38:52Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1145 | 48| 
+| 20220106T23:38:09Z | Hello_world | https://github.com/ColeyOh/fuzzy-eureka | 0 | 0| 
+| 20220106T23:32:37Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6996 | 1468| 
+| 20220106T23:09:53Z | Null | https://github.com/Potatochips2001/fuzz | 0 | 0| 
+| 20220106T22:59:28Z | Null | https://github.com/mpollicito/fuzzy-meme | 0 | 0| 
+| 20220106T22:58:36Z | Individual Development Plan | https://github.com/henrinacio/fuzzy-disco | 0 | 0| 
+| 20220106T22:56:02Z | a simplified means to CRUD ephemeral user-scoped EC2 instances | https://github.com/rstudio/fuzzbucket | 3 | 1| 
 
 
 
