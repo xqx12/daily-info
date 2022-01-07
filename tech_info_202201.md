@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220107T02:04:01Z | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | 14 | 5| 
 | 20220107T02:03:18Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 42 | 21| 
 | 20220107T01:57:17Z | Pwn stuff. | https://github.com/mm0r1/exploits | 1315 | 333| 
 | 20220107T01:45:17Z | Writing exploits for fun | https://github.com/rjcoulter/Stack-Smashing | 0 | 0| 
@@ -97,7 +98,6 @@
 | 20220107T01:07:39Z | Tool for searching Exploits from Exploit Databases, etc. | https://github.com/vulsio/go-exploitdb | 147 | 38| 
 | 20220107T01:01:16Z | A tool for detect&exploit vmware product log4j vulnerability. | https://github.com/NS-Sp4ce/Vm4J | 54 | 14| 
 | 20220107T00:46:10Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 18| 
-| 20220107T00:17:19Z | Roblox Exploit Hub | https://github.com/358x33/JustAHub | 0 | 0| 
 
 
 # backdoor on Github 推荐
