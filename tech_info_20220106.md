@@ -112,7 +112,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220106T23:44:23Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 7 | 0| 
 | 20220106T23:38:09Z | Hello_world | https://github.com/ColeyOh/fuzzy-eureka | 0 | 0| 
 | 20220106T23:32:37Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6996 | 1468| 
 | 20220106T23:09:53Z | Null | https://github.com/Potatochips2001/fuzz | 0 | 0| 
@@ -122,6 +121,7 @@
 | 20220106T22:39:16Z | Null | https://github.com/MiguelTheGamer/fuzzy-meme | 0 | 0| 
 | 20220106T22:37:22Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20220106T22:28:42Z | Null | https://github.com/alchemycodelab/bug-hunt-web-01-fuzzy-bunny-organizer | 0 | 0| 
+| 20220106T21:48:49Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 14 | 4| 
 
 
 
