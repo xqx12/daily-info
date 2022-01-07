@@ -61,8 +61,8 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220107T13:09:28Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 3461 | 109| 
 | 20220107T12:46:07Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1864 | 529| 
-| 20220107T12:43:42Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 3459 | 109| 
 | 20220107T04:33:01Z | Null | https://github.com/lindsayp30/sort-o_kleex | 0 | 0| 
 | 20220106T09:44:51Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 5 | 0| 
 | 20220106T00:54:41Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 15 | 1| 
@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220107T13:07:40Z | explain how to exploit LFI and get RCE  | https://github.com/0-POOT/LFI_to_RCE | 0 | 0| 
 | 20220107T13:03:08Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 42 | 21| 
 | 20220107T12:57:39Z | Vulnerabilities found along the way | https://github.com/hansmach1ne/MyExploits | 2 | 0| 
 | 20220107T12:46:11Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 18| 
@@ -97,7 +98,6 @@
 | 20220107T11:58:49Z | Exploit Huawei ONT device, only support r019. You need to compile kernel module getshell.ko for r018 or r017 by yourself. | https://github.com/0neday/Exploit-HS8545M-ONT | 11 | 8| 
 | 20220107T11:50:29Z | Null | https://github.com/lwollan/log4j-exploit-demo | 0 | 0| 
 | 20220107T11:42:45Z | exploition is This is a script to extract functions. You can generate pytest and other test code templates from existing Python scripts.  | https://github.com/Comamoca/exploition | 0 | 0| 
-| 20220107T11:28:54Z | A convenient script that provides the bare essentials for exploiting such as ESP, freecam and aimbot. | https://github.com/TheDookySoo/Essentials | 1 | 0| 
 
 
 # backdoor on Github 推荐
@@ -141,8 +141,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220107T13:08:19Z | Null | https://github.com/koldbrandt/mlops_fuzzy-fish-waffle | 0 | 0| 
 | 20220107T13:02:54Z | Null | https://github.com/MiguelTheGamer/fuzzy-meme | 0 | 0| 
-| 20220107T12:53:07Z | Null | https://github.com/koldbrandt/mlops_fuzzy-fish-waffle | 0 | 0| 
 | 20220107T12:43:38Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 11 | 2| 
 | 20220107T12:31:49Z | Demo project for fuzzing Clojure code | https://github.com/CodeIntelligenceTesting/jazzer-clojure-example | 0 | 0| 
 | 20220107T12:26:22Z | Null | https://github.com/Maxim341/fuzzy_prototype | 0 | 0| 
