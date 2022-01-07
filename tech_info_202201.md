@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220107T01:07:39Z | Tool for searching Exploits from Exploit Databases, etc. | https://github.com/vulsio/go-exploitdb | 147 | 38| 
 | 20220107T01:03:39Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 42 | 21| 
 | 20220107T01:01:16Z | A tool for detect&exploit vmware product log4j vulnerability. | https://github.com/NS-Sp4ce/Vm4J | 54 | 14| 
 | 20220107T00:55:16Z | explain how to exploit LFI and get RCE  | https://github.com/0-POOT/LFI_to_RCE | 0 | 0| 
@@ -97,7 +98,6 @@
 | 20220106T23:28:57Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 2696 | 408| 
 | 20220106T23:24:55Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 277 | 83| 
 | 20220106T23:20:07Z | Xsearch - a utility to search exploitdb for exploits and shellcodes.  | https://github.com/prodseanb/Xsearch | 0 | 0| 
-| 20220106T22:55:36Z | Hands-on experience on the Dirty COW attack, understand the race condition vulnerability exploited by the attack, and gain a deeper understanding of the general race condition security problems. | https://github.com/GHa123/Dirty-COW-attack-Lab | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -140,10 +140,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220107T01:07:56Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1145 | 48| 
 | 20220107T00:27:47Z | Personal website | https://github.com/fuzzywavecode/fuzzywavecode.github.io | 0 | 0| 
 | 20220107T00:06:30Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 213 | 40| 
 | 20220106T23:44:23Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 7 | 0| 
-| 20220106T23:38:52Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1145 | 48| 
 | 20220106T23:38:09Z | Hello_world | https://github.com/ColeyOh/fuzzy-eureka | 0 | 0| 
 | 20220106T23:32:37Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6996 | 1468| 
 | 20220106T23:09:53Z | Null | https://github.com/Potatochips2001/fuzz | 0 | 0| 
