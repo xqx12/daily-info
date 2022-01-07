@@ -88,12 +88,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220107T13:03:08Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 42 | 21| 
 | 20220107T12:57:39Z | Vulnerabilities found along the way | https://github.com/hansmach1ne/MyExploits | 2 | 0| 
 | 20220107T12:46:11Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 18| 
 | 20220107T12:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10554 | 1814| 
 | 20220107T12:29:33Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 278 | 83| 
 | 20220107T12:09:16Z | Fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | 0 | 0| 
-| 20220107T12:03:46Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 42 | 21| 
 | 20220107T11:58:49Z | Exploit Huawei ONT device, only support r019. You need to compile kernel module getshell.ko for r018 or r017 by yourself. | https://github.com/0neday/Exploit-HS8545M-ONT | 11 | 8| 
 | 20220107T11:50:29Z | Null | https://github.com/lwollan/log4j-exploit-demo | 0 | 0| 
 | 20220107T11:42:45Z | exploition is This is a script to extract functions. You can generate pytest and other test code templates from existing Python scripts.  | https://github.com/Comamoca/exploition | 0 | 0| 
@@ -140,16 +140,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220107T02:43:44Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1349 | 146| 
-| 20220107T01:46:54Z | Null | https://github.com/vaporyhumo/fuzzy-fortnight | 0 | 0| 
-| 20220107T01:46:08Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20220107T01:42:50Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2452 | 152| 
-| 20220107T01:13:14Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 7 | 0| 
-| 20220107T01:07:56Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1145 | 48| 
-| 20220107T00:27:47Z | Personal website | https://github.com/fuzzywavecode/fuzzywavecode.github.io | 0 | 0| 
-| 20220107T00:06:30Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 213 | 40| 
-| 20220106T23:38:09Z | Hello_world | https://github.com/ColeyOh/fuzzy-eureka | 0 | 0| 
-| 20220106T23:32:37Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6996 | 1468| 
+| 20220107T13:02:54Z | Null | https://github.com/MiguelTheGamer/fuzzy-meme | 0 | 0| 
+| 20220107T12:53:07Z | Null | https://github.com/koldbrandt/mlops_fuzzy-fish-waffle | 0 | 0| 
+| 20220107T12:43:38Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 11 | 2| 
+| 20220107T12:31:49Z | Demo project for fuzzing Clojure code | https://github.com/CodeIntelligenceTesting/jazzer-clojure-example | 0 | 0| 
+| 20220107T12:26:22Z | Null | https://github.com/Maxim341/fuzzy_prototype | 0 | 0| 
+| 20220107T12:19:38Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 30 | 4| 
+| 20220107T12:17:01Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 7 | 0| 
+| 20220107T12:16:39Z | Null | https://github.com/Mundi-Xu/Fuzzing_Zlib | 1 | 0| 
+| 20220107T12:06:37Z | Null | https://github.com/sav4enkoVV/fuzzy_sets | 0 | 0| 
+| 20220107T11:55:47Z | fuzzer http ( hackingyseguridad.com ) busca ficheros interesantes en un sitio web | https://github.com/hackingyseguridad/fuzzer | 0 | 1| 
 
 
 
