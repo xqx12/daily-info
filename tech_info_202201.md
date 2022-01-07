@@ -140,6 +140,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220107T01:42:50Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2452 | 152| 
 | 20220107T01:13:14Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 7 | 0| 
 | 20220107T01:07:56Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1145 | 48| 
 | 20220107T00:27:47Z | Personal website | https://github.com/fuzzywavecode/fuzzywavecode.github.io | 0 | 0| 
@@ -149,7 +150,6 @@
 | 20220106T23:09:53Z | Null | https://github.com/Potatochips2001/fuzz | 0 | 0| 
 | 20220106T22:59:28Z | Null | https://github.com/mpollicito/fuzzy-meme | 0 | 0| 
 | 20220106T22:58:36Z | Individual Development Plan | https://github.com/henrinacio/fuzzy-disco | 0 | 0| 
-| 20220106T22:56:02Z | a simplified means to CRUD ephemeral user-scoped EC2 instances | https://github.com/rstudio/fuzzbucket | 3 | 1| 
 
 
 
