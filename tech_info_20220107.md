@@ -53,7 +53,6 @@
 | --- | --- | --- | --- | ---| 
 | 20220107T16:59:28Z | CRAX++: S2E-based modular exploit generation system that incorporates various binary exploitation techniques. | https://github.com/SQLab/CRAXplusplus | 29 | 3| 
 | 20220107T06:24:16Z | Serial to Ethernet Module based on W5500 & Cortex-M0 | https://github.com/Wiznet/WIZ550S2E-Modbus | 3 | 4| 
-| 20220107T05:38:06Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 194 | 42| 
 
 
 # exploit on Github 推荐
@@ -96,7 +95,6 @@
 | 20220107T20:08:44Z | An Adaptive Symbolic Execution Method For Detecting Heap Overflow Vulnerability Based On Vulnerability Specification | https://github.com/alikmli/HeapOverFlow-Detection | 0 | 0| 
 | 20220107T19:24:14Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 11 | 5| 
 | 20220107T12:46:07Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1864 | 529| 
-| 20220107T05:38:06Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 194 | 42| 
 
 
 # big4 on Github 推荐
