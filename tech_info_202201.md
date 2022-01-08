@@ -142,7 +142,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220108T13:08:06Z | fuzzer http ( hackingyseguridad.com ) busca ficheros interesantes en un sitio web | https://github.com/hackingyseguridad/fuzzer | 0 | 1| 
+| 20220108T13:38:12Z | Solar forecasting | https://github.com/vannserr/Fuzzy-Time-Series-Methods-Applied | 0 | 0| 
+| 20220108T13:32:48Z | fuzzer http ( hackingyseguridad.com ) busca ficheros interesantes en un sitio web | https://github.com/hackingyseguridad/fuzzer | 0 | 1| 
 | 20220108T12:54:55Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 35 | 4| 
 | 20220108T12:52:12Z | Packer Fuzzer is a fast and efficient scanner for security detection of websites constructed by javascript module bundler such as Webpack.  | https://github.com/rtcatc/Packer-Fuzzer | 1155 | 154| 
 | 20220108T12:25:58Z | Config files for my GitHub profile. | https://github.com/FuzzyBang/FuzzyBang | 0 | 0| 
@@ -151,7 +152,6 @@
 | 20220108T12:02:03Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 39 | 12| 
 | 20220108T11:44:17Z | Null | https://github.com/gungnir479/fuzzJIT | 0 | 0| 
 | 20220108T11:39:08Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
-| 20220108T11:20:12Z | Null | https://github.com/koldbrandt/mlops_fuzzy-fish-waffle | 0 | 0| 
 
 
 
