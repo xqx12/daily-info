@@ -147,7 +147,7 @@
 | 20220108T00:37:03Z | Null | https://github.com/mr-vill4in/log4j-fuzzer | 0 | 0| 
 | 20220108T00:10:36Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2420 | 480| 
 | 20220108T00:08:40Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 39 | 12| 
-| 20220108T00:02:24Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6998 | 1469| 
+| 20220108T00:02:24Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6998 | 1470| 
 | 20220107T23:59:41Z | Null | https://github.com/swasnaiktik/fuzzy-eureka | 0 | 0| 
 | 20220107T23:38:26Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20220107T23:36:12Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2452 | 152| 
