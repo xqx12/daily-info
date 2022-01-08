@@ -88,7 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220108T13:56:49Z | webdav exploit | https://github.com/buraktyce/XAMPP-Webdav-Exploit | 0 | 0| 
+| 20220108T13:57:56Z | webdav exploit | https://github.com/buraktyce/XAMPP-Webdav-Exploit | 0 | 0| 
 | 20220108T13:23:41Z | Nmap domain list scanner to find exploited vulnerabilities | https://github.com/bormaxi8080/nmap-scanner | 0 | 0| 
 | 20220108T13:22:22Z | Source codes of Windows API Exploitation for Red and Blue teams from Pentester Academy | https://github.com/tbhaxor/WinAPI-RedBlue | 45 | 6| 
 | 20220108T13:09:31Z | A Database of exploiters for a dead game with no anti cheat. | https://github.com/jnz-dev/PL-Exploiter-DB | 0 | 0| 
