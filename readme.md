@@ -20,10 +20,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220108T13:43:55Z | CVE-2021-43798 | Null | https://github.com/rodpwn/CVE-2021-43798-mass_scanner | | 
 | 20220108T10:36:34Z | CVE-2021-44228 | Null | https://github.com/alexpena5635/CVE-2021-44228_scanner-main-Modified- | | 
 | 20220108T08:28:20Z | CVE-2021-45232 | 一键批量检测poc | https://github.com/yggcwhat/CVE-2021-45232 | | 
 | 20220108T06:48:51Z | CVE-2021-44228 | Null | https://github.com/rwincey/CVE-2021-44228-Log4j-Payloads | | 
-| 20220108T03:01:07Z | CVE-2021-43798 | Null | https://github.com/rodpwn/CVE-2021-43798-mass_scanner | | 
 | 20220108T02:58:30Z | CVE-2021-44228 | A one-stop repo/  information hub for all log4j vulnerability-related information. | https://github.com/anuvindhs/how-to-check-patch-secure-log4j-CVE-2021-44228 | | 
 | 20220108T00:28:45Z | CVE-2021-44228 | Null | https://github.com/LutziGoz/Log4J_Exploitation-Vulnerabiliy__CVE-2021-44228 | | 
 
