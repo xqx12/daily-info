@@ -142,7 +142,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220108T01:32:07Z | Robust and blazing fast open-redirect vulnerability scanner with ability of crawling all of web-forms, entry points, or links with data.  | https://github.com/d34db33f-1007/fuzz300 | 0 | 0| 
+| 20220108T01:37:24Z | Robust and blazing fast open-redirect vulnerability scanner with ability of crawling all of web-forms, entry points, or links with data.  | https://github.com/d34db33f-1007/fuzz300 | 0 | 0| 
 | 20220108T01:00:25Z | Null | https://github.com/ArtieFuzzz/ArtieFuzzz | 0 | 1| 
 | 20220108T00:37:03Z | Null | https://github.com/mr-vill4in/log4j-fuzzer | 0 | 0| 
 | 20220108T00:10:36Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2420 | 480| 
