@@ -14,6 +14,7 @@
 | 20220107 | Fuzz introspector - 帮助 Fuzzer 开发者监控 Fuzzer 工作状态的工具 | https://github.com/ossf/fuzz-introspector| 
 | 20220107 | Sophos 对恶意攻击者利用 CVE-2021-40444 MSHTML RCE 漏洞攻击 Word 过程的分析 | http://news.sophos.com/en-us/2021/12/21/attackers-test-cab-less-40444-exploit-in-a-dry-run/| 
 | 20220107 | ZDI 评选的 “The Top 5 Bugs Submitted in 2021” | https://www.zerodayinitiative.com/blog/2022/1/5/the-top-5-bugs-submitted-in-2021| 
+| 20220107 | 年轻人如何挖掘第一个RCE. | https://paper.seebug.org/1809/| 
 
 
 # 安全维基 推荐
@@ -25,21 +26,27 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220107T13:54:40Z | CVE-2021-45383 | Details,PoC and patches for CVE-2021-45383 & CVE-2021-45384 | https://github.com/nt1dr/CVE-2021-45383 | | 
-| 20220107T13:13:36Z | CVE-2021-44228 | Log4jshell - CVE-2021-44228 | https://github.com/Vulnmachines/log4jshell_CVE-2021-44228 | | 
-| 20220107T08:24:17Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
+| 20220107T23:49:14Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
+| 20220107T22:32:28Z | CVE-2021-45383 | Details,PoC and patches for CVE-2021-45383 & CVE-2021-45384 | https://github.com/nt1dr/CVE-2021-45383 | | 
+| 20220107T21:58:06Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
+| 20220107T16:44:37Z | CVE-2021-44228 | Null | https://github.com/rwincey/CVE-2021-44228-Log4j-Payloads | | 
+| 20220107T16:39:45Z | cve-2021-44228 | Log4j Exploit Detection Logic for Zeek | https://github.com/corelight/cve-2021-44228 | | 
+| 20220107T15:01:54Z | CVE-2021-44228 | Log4Shell Proof of Concept (CVE-2021-44228) | https://github.com/Kr0ff/CVE-2021-44228 | | 
+| 20220107T14:25:32Z | CVE-2021-44228 | OpenIOC rules to facilitate hunting for indicators of compromise | https://github.com/fireeye/CVE-2021-44228 | | 
+| 20220107T14:01:21Z | CVE-2021-44228 | Log4jshell - CVE-2021-44228 | https://github.com/Vulnmachines/log4jshell_CVE-2021-44228 | | 
 | 20220107T08:22:25Z | CVE-2021-45232 | CVE-2021-45232-RCE-多线程批量漏洞检测 | https://github.com/GYLQ/CVE-2021-45232-RCE | | 
 | 20220107T06:05:02Z | CVE-2021-45046 | Null | https://github.com/Yuji-Kakeya/log4j-CVE-2021-45046-poc | | 
-| 20220107T03:12:50Z | CVE-2021-42013 | CVE-2021-42013-exp | https://github.com/rnsss/CVE-2021-42013 | | 
-| 20220107T03:09:48Z | CVE-2021-43798 | Grafana8.x 任意文件读取 | https://github.com/rnsss/CVE-2021-43798-poc | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220107T13:42:35Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 3464 | 109| 
+| 20220107T23:09:31Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 3481 | 110| 
+| 20220107T19:55:45Z | Config files for my GitHub profile. | https://github.com/Kleek01/Kleek01 | 1 | 0| 
+| 20220107T18:11:09Z | Null | https://github.com/lindsayp30/sort-o_kleex | 0 | 0| 
+| 20220107T17:52:29Z | Null | https://github.com/kleemeo/kleemeo | 0 | 0| 
+| 20220107T17:30:12Z | For my moms website  | https://github.com/Master-Mind291/Maid-To-Kleen | 0 | 0| 
 | 20220107T12:46:07Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1864 | 529| 
-| 20220107T04:33:01Z | Null | https://github.com/lindsayp30/sort-o_kleex | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -53,27 +60,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220107T13:57:33Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 3900 | 1366| 
-| 20220107T13:53:08Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10556 | 1814| 
-| 20220107T13:22:08Z | explain how to exploit LFI and get RCE  | https://github.com/0-POOT/LFI_to_RCE | 0 | 0| 
-| 20220107T13:13:31Z | Vulnerabilities found along the way | https://github.com/hansmach1ne/MyExploits | 2 | 0| 
-| 20220107T13:03:08Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 42 | 21| 
-| 20220107T12:46:11Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 18| 
-| 20220107T12:29:33Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 278 | 83| 
-| 20220107T12:09:16Z | Fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | 0 | 0| 
-| 20220107T11:58:49Z | Exploit Huawei ONT device, only support r019. You need to compile kernel module getshell.ko for r018 or r017 by yourself. | https://github.com/0neday/Exploit-HS8545M-ONT | 11 | 8| 
-| 20220107T11:50:29Z | Null | https://github.com/lwollan/log4j-exploit-demo | 0 | 0| 
+| 20220107T23:49:14Z | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | 4 | 1| 
+| 20220107T23:42:56Z | This repository will feature my scripts, research and documentation on Pokémon engines, glitches and exploits. | https://github.com/RETIREglitch/Pokemon-Research | 11 | 5| 
+| 20220107T23:35:22Z | iPod Classic and Nano 3/4/5G bootrom exploit | https://github.com/freemyipod/wInd3x | 1 | 0| 
+| 20220107T23:27:47Z | Cleaned up version of PoC code | https://github.com/twosevenzero/vcenter_vsan_exploit | 0 | 0| 
+| 20220107T23:26:00Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 278 | 83| 
+| 20220107T22:37:31Z | Exploiting CVE-2021-44228 in VMWare Horizon for remote code execution and more. | https://github.com/puzzlepeaches/Log4jHorizon | 0 | 0| 
+| 20220107T22:19:54Z | DB-BERT is a database tuning tools that exploits natural language text as additional input. It extracts recommendations for database parameter settings from tuning-related text via natural language analysis. It optimizes parameter settings for a given workload and performance metric using reinforcement learning. | https://github.com/itrummer/dbbert | 4 | 0| 
+| 20220107T22:18:39Z | Fuel CMS 1.4 Exploit Coded By Xale TD Vln RCE | https://github.com/xaletr/Fuel-CMS | 0 | 0| 
+| 20220107T22:04:46Z | Null | https://github.com/C0ldheim/NetworkExploitation | 0 | 0| 
+| 20220107T21:54:29Z | Burp extension for exploiting IIS Tilde Enumeration vulnerability | https://github.com/cyberaz0r/Burp-IISTildeEnumerationScanner | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220107T13:53:34Z | My backdoor exe edit for Roblox that has: | https://github.com/personstealingyoursource/backdoor-exe-edit | 0 | 0| 
+| 20220107T22:30:51Z | помощник администратора | https://github.com/diksaratower/Backdoor-RAT | 0 | 0| 
+| 20220107T21:19:06Z | Database of backdoor passwords used by Malware, uncovered by the Malvuln project. | https://github.com/malvuln/viruscreds | 9 | 2| 
+| 20220107T18:53:41Z | Writing backdoors, trojans, keyloggers, and other malware [for educational purposes] | https://github.com/mahnooranjum/MakeMalware_EthicalHacking | 1 | 1| 
+| 20220107T18:08:13Z | This is an educational project that sends target machine%s key press log to a cloud server by creating a backdoor. | https://github.com/kesaralive/Keylogger-Backdoor | 0 | 0| 
+| 20220107T17:10:55Z | Threat Emulation and Red Teaming Framework, The Hacking Software for normal people. | https://github.com/quantumcore/remote_hacker_probe | 106 | 39| 
+| 20220107T16:57:30Z | windows 11, 10 persistent backdoor  | https://github.com/DioBruh/backdoor-windows | 7 | 0| 
+| 20220107T16:38:29Z | Windows Backdoor that is controlled through Discord | https://github.com/3ct0s/disctopia-c2 | 0 | 0| 
+| 20220107T14:42:38Z | My backdoor exe edit for Roblox that has: | https://github.com/personstealingyoursource/backdoor-exe-edit | 0 | 0| 
+| 20220107T14:04:51Z | Null | https://github.com/Cybrient/BackdoorLogin | 0 | 0| 
 | 20220107T12:23:26Z | .NET executable to use when dealing with privilege escalation on Windows to gain local administrator access | https://github.com/notdodo/LocalAdminSharp | 11 | 2| 
-| 20220107T11:24:21Z | Evil vs Evil: Using Adversarial Examples to Against Backdoor Attack in Federated Learning | https://github.com/Leon022/EVE | 0 | 0| 
-| 20220107T11:09:34Z | Windows Backdoor that is controlled through Discord | https://github.com/3ct0s/disctopia-c2 | 0 | 0| 
-| 20220107T10:40:31Z | Membosankan | https://github.com/glitchnotes/shell-backdoor | 0 | 0| 
-| 20220107T04:56:42Z | A script to create a new WordPress user with a dynamic credential and role. | https://github.com/alvindcaesar/wp-backdoor-entry | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -92,16 +103,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220107T13:57:34Z | Small project of face recognition and image manipulation in Python using face_recognition and Pillow library | https://github.com/dixneuf19/fuzzy-octo-disco | 0 | 0| 
-| 20220107T13:41:17Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 30 | 4| 
-| 20220107T13:23:14Z | Null | https://github.com/koldbrandt/mlops_fuzzy-fish-waffle | 0 | 0| 
-| 20220107T13:21:50Z | engine for computing on cloud | https://github.com/damnmohsin/fuzzy-engine | 0 | 0| 
-| 20220107T13:14:26Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20220107T13:02:54Z | Null | https://github.com/MiguelTheGamer/fuzzy-meme | 0 | 0| 
-| 20220107T12:43:38Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 11 | 2| 
-| 20220107T12:31:49Z | Demo project for fuzzing Clojure code | https://github.com/CodeIntelligenceTesting/jazzer-clojure-example | 0 | 0| 
-| 20220107T12:26:22Z | Null | https://github.com/Maxim341/fuzzy_prototype | 0 | 0| 
-| 20220107T12:17:01Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 7 | 0| 
+| 20220107T23:59:41Z | Null | https://github.com/swasnaiktik/fuzzy-eureka | 0 | 0| 
+| 20220107T23:38:26Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
+| 20220107T23:36:12Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2452 | 152| 
+| 20220107T23:32:37Z | Null | https://github.com/alchemycodelab/half-baked-web-01-fuzzy-bunny-organizer | 0 | 0| 
+| 20220107T23:22:59Z | Null | https://github.com/huextrat/Fuzzle | 0 | 0| 
+| 20220107T22:18:44Z | Null | https://github.com/obinnae/fuzzy-computing-machine | 0 | 0| 
+| 20220107T22:14:03Z | Let%s get Fuzzy 🤪 !!! | https://github.com/yuk-kei/Fuzzy-Logic-Pong | 0 | 0| 
+| 20220107T21:46:42Z | Differential fuzzing for Smart Contract VMs | https://github.com/fgsect/NeoDiff | 0 | 0| 
+| 20220107T21:34:00Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20220107T21:27:51Z | Fuzzing directories is a tool for exposing hidden paths by sending a request to a target URL using a payload wordlist line by line. The request will be made to see if this page exists depending on the status code of the response | https://github.com/amenahk16/Fuzzer | 0 | 0| 
 
 
 
