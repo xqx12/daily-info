@@ -88,11 +88,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220108T02:03:29Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 42 | 21| 
 | 20220108T01:53:26Z | Collection of Discord hacking tools/fun stuff/exploits that is completely made using NodeJS. | https://github.com/I2rys/ODiscord | 45 | 20| 
 | 20220108T01:31:33Z | A collection of browser exploits in the form of a bookmarklet | https://github.com/jangodev/CrownJS | 2 | 0| 
 | 20220108T01:26:35Z | A simple node JNDI-exploit server to showcase how log4j vulnerability works from the malicious server perspective.  Intended for niche CTF use. | https://github.com/MilanDonhowe/evil-ldap | 0 | 0| 
 | 20220108T01:18:34Z | Shell that uses pipes to create a persistent session by writing to and reading from a stateful session. Based heavily on the work by Ippsec demonstrated in his Stratosphere video. Allows the bypassing of outbound firewalls as it communicates over HTTP and sends commands to an input pipe, which then processes it, and simple sends a second command to read back from the output pipe. Currently set up to work with a jwt exploit that I was working on, but can easily be edited to work with exploits such as shellshock. | https://github.com/0xskunk/freaky-forward-shell | 0 | 0| 
-| 20220108T01:03:26Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 42 | 21| 
 | 20220108T00:46:11Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 18| 
 | 20220108T00:37:30Z | Codes from Hacking: The Art of Exploitation book. By Jon Erickson. | https://github.com/edupazzz/Hacking-The-Art-of-Exploitation-Book | 0 | 0| 
 | 20220108T00:28:45Z | Null | https://github.com/LutziGoz/Log4J_Exploitation-Vulnerabiliy__CVE-2021-44228 | 1 | 0| 
@@ -142,7 +142,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220108T02:09:26Z | Robust and blazing fast open-redirect vulnerability scanner with ability of crawling all of web-forms, entry points, or links with data.  | https://github.com/d34db33f-1007/fuzz300 | 0 | 0| 
+| 20220108T02:11:35Z | Robust and blazing fast open-redirect vulnerability scanner with ability of crawling all of web-forms, entry points, or links with data.  | https://github.com/d34db33f-1007/fuzz300 | 0 | 0| 
 | 20220108T01:48:49Z | burpsuite 插件对GP所有参数(过滤特殊参数)一键自动添加xss sql payload 进行fuzz | https://github.com/ClickKey110r/jiangsir404z | 0 | 0| 
 | 20220108T01:38:49Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20220108T01:00:25Z | Null | https://github.com/ArtieFuzzz/ArtieFuzzz | 0 | 1| 
