@@ -117,8 +117,8 @@
 | 20220107T22:18:44Z | Null | https://github.com/obinnae/fuzzy-computing-machine | 0 | 0| 
 | 20220107T22:14:03Z | Let%s get Fuzzy 🤪 !!! | https://github.com/yuk-kei/Fuzzy-Logic-Pong | 0 | 0| 
 | 20220107T21:46:42Z | Differential fuzzing for Smart Contract VMs | https://github.com/fgsect/NeoDiff | 0 | 0| 
-| 20220107T21:34:00Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20220107T21:27:51Z | Fuzzing directories is a tool for exposing hidden paths by sending a request to a target URL using a payload wordlist line by line. The request will be made to see if this page exists depending on the status code of the response | https://github.com/amenahk16/Fuzzer | 0 | 0| 
+| 20220107T21:20:42Z | FuzzedDataProvider for C# | https://github.com/DmitryJustDmitry/FuzzedDataProviderCS | 0 | 0| 
 
 
 

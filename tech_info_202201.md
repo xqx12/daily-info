@@ -142,7 +142,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220108T01:37:24Z | Robust and blazing fast open-redirect vulnerability scanner with ability of crawling all of web-forms, entry points, or links with data.  | https://github.com/d34db33f-1007/fuzz300 | 0 | 0| 
+| 20220108T01:38:55Z | Robust and blazing fast open-redirect vulnerability scanner with ability of crawling all of web-forms, entry points, or links with data.  | https://github.com/d34db33f-1007/fuzz300 | 0 | 0| 
+| 20220108T01:38:49Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20220108T01:00:25Z | Null | https://github.com/ArtieFuzzz/ArtieFuzzz | 0 | 1| 
 | 20220108T00:37:03Z | Null | https://github.com/mr-vill4in/log4j-fuzzer | 0 | 0| 
 | 20220108T00:10:36Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2420 | 480| 
@@ -151,7 +152,6 @@
 | 20220107T23:59:41Z | Null | https://github.com/swasnaiktik/fuzzy-eureka | 0 | 0| 
 | 20220107T23:38:26Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
 | 20220107T23:36:12Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2452 | 152| 
-| 20220107T23:32:37Z | Null | https://github.com/alchemycodelab/half-baked-web-01-fuzzy-bunny-organizer | 0 | 0| 
 
 
 
