@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220108T02:57:44Z | Null | https://github.com/RoadLuck/exploits-tryhackme | 0 | 0| 
 | 20220108T02:03:29Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 42 | 21| 
 | 20220108T01:53:26Z | Collection of Discord hacking tools/fun stuff/exploits that is completely made using NodeJS. | https://github.com/I2rys/ODiscord | 45 | 20| 
 | 20220108T01:31:33Z | A collection of browser exploits in the form of a bookmarklet | https://github.com/jangodev/CrownJS | 2 | 0| 
@@ -97,7 +98,6 @@
 | 20220108T00:37:30Z | Codes from Hacking: The Art of Exploitation book. By Jon Erickson. | https://github.com/edupazzz/Hacking-The-Art-of-Exploitation-Book | 0 | 0| 
 | 20220108T00:28:45Z | Null | https://github.com/LutziGoz/Log4J_Exploitation-Vulnerabiliy__CVE-2021-44228 | 1 | 0| 
 | 20220108T00:25:17Z | iReady is awful. It%s the worst education tool anyone could ever use. This program is designed to skip through iReady lessons/quizzes/time requirements or whatever. | https://github.com/cupiditys/iReady-Overload | 30 | 21| 
-| 20220108T00:06:43Z | Null | https://github.com/Jack7988/Silent-JPG-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
