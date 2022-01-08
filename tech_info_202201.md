@@ -103,6 +103,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220108T13:14:25Z | Python3 backdoor for windows! | https://github.com/hirusha-adi/backdoor | 0 | 0| 
 | 20220108T11:44:30Z | Windows Backdoor that is controlled through Discord | https://github.com/3ct0s/disctopia-c2 | 0 | 0| 
 | 20220108T10:59:24Z | Null | https://github.com/THUYimingLi/BackdoorBox | 9 | 7| 
 | 20220108T08:12:57Z | This is an educational project that sends target machine%s key press log to a cloud server by creating a backdoor. | https://github.com/kesaralive/Keylogger-Backdoor | 1 | 0| 
@@ -112,7 +113,6 @@
 | 20220107T17:10:55Z | Threat Emulation and Red Teaming Framework, The Hacking Software for normal people. | https://github.com/quantumcore/remote_hacker_probe | 106 | 39| 
 | 20220107T16:57:30Z | windows 11, 10 persistent backdoor  | https://github.com/DioBruh/backdoor-windows | 7 | 0| 
 | 20220107T14:42:38Z | My backdoor exe edit for Roblox that has: | https://github.com/personstealingyoursource/backdoor-exe-edit | 0 | 0| 
-| 20220107T14:04:51Z | Null | https://github.com/Cybrient/BackdoorLogin | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
