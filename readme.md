@@ -47,6 +47,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220108T13:22:22Z | Source codes of Windows API Exploitation for Red and Blue teams from Pentester Academy | https://github.com/tbhaxor/WinAPI-RedBlue | 45 | 6| 
 | 20220108T13:09:31Z | A Database of exploiters for a dead game with no anti cheat. | https://github.com/jnz-dev/PL-Exploiter-DB | 0 | 0| 
 | 20220108T13:03:31Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 42 | 21| 
 | 20220108T13:00:17Z | User-perceived latency is important for the quality of experience (QoE) of wide-area real-time communications (RTC). This paper explores a futuristic yet important problem facing the RTC community: can we exploit emerging mega-constellations to facilitate low-latency RTC globally? We carry out our quest in three steps. First, through a measurement study associated with a large number of geo-distributed RTC users, we quantitatively expose that the meandering routes over the client-cloud segment and the inter-cloud-site segment in existing cloud-based RTC architecture are critical culprits for the high latency issue suffered by wide-area RTC sessions. Second, after analyzing the low-latency potential enabled by mega-constellations, we formulate the dynamic RTC latency minimization problem under the integrated space-ground environment, and propose SpaceRTC, a satellite-cloud cooperative framework that adaptively selects relay servers upon satellites and cloud sites to build an overlay network which enables diverse close-to-optimal paths, and then judiciously allocates RTC flows in the network to facilitate low-latency interactions. Finally, we implement a hardware-in-the-loop experimental environment based on public constellation information and RTC trace, and extensive experiments demonstrate that SpaceRTC can deliver near-optimal interactive latency, with up to 64.9% latency reduction as compared with other state-of-the-art cloud-based solutions under representative videoconferencing traffic. | https://github.com/SpaceNetLab/SpaceRTC_Project | 2 | 0| 
@@ -55,7 +56,6 @@
 | 20220108T12:36:23Z | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | 1 | 0| 
 | 20220108T12:31:14Z | Site where i mostly document my exploits. Built with Nuxt, Tailwind and currently using Forestry CMS | https://github.com/ikeohachidi/ikeoha | 0 | 0| 
 | 20220108T12:24:32Z | Useful scripts to exploit Hack The Box retired machines/challenges | https://github.com/7Rocky/HackTheBox-scripts | 1 | 0| 
-| 20220108T12:22:49Z | Source codes of Windows API Exploitation for Red and Blue teams from Pentester Academy | https://github.com/tbhaxor/WinAPI-RedBlue | 45 | 6| 
 | 20220108T12:22:43Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 8647 | 1477| 
 
 
