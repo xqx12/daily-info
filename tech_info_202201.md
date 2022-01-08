@@ -46,6 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220108T02:58:30Z | CVE-2021-44228 | A one-stop repo/  information hub for all log4j vulnerability-related information. | https://github.com/anuvindhs/how-to-check-patch-secure-log4j-CVE-2021-44228 | | 
+| 20220108T02:58:21Z | CVE-2021-43798 | Null | https://github.com/rodpwn/CVE-2021-43798-mass_scanner | | 
 | 20220108T00:28:45Z | CVE-2021-44228 | Null | https://github.com/LutziGoz/Log4J_Exploitation-Vulnerabiliy__CVE-2021-44228 | | 
 | 20220107T23:49:14Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
 | 20220107T22:32:28Z | CVE-2021-45383 | Details,PoC and patches for CVE-2021-45383 & CVE-2021-45384 | https://github.com/nt1dr/CVE-2021-45383 | | 
@@ -54,8 +56,6 @@
 | 20220107T16:39:45Z | cve-2021-44228 | Log4j Exploit Detection Logic for Zeek | https://github.com/corelight/cve-2021-44228 | | 
 | 20220107T15:01:54Z | CVE-2021-44228 | Log4Shell Proof of Concept (CVE-2021-44228) | https://github.com/Kr0ff/CVE-2021-44228 | | 
 | 20220107T14:25:32Z | CVE-2021-44228 | OpenIOC rules to facilitate hunting for indicators of compromise | https://github.com/fireeye/CVE-2021-44228 | | 
-| 20220107T14:01:21Z | CVE-2021-44228 | Log4jshell - CVE-2021-44228 | https://github.com/Vulnmachines/log4jshell_CVE-2021-44228 | | 
-| 20220107T08:22:25Z | CVE-2021-45232 | CVE-2021-45232-RCE-多线程批量漏洞检测 | https://github.com/GYLQ/CVE-2021-45232-RCE | | 
 
 
 # klee on Github 推荐
@@ -118,6 +118,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220108T02:59:04Z | Experimental symbolic execution compiler/language. | https://github.com/jakzo/Zymbolic | 0 | 0| 
 | 20220108T01:46:20Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 195 | 42| 
 | 20220107T23:14:40Z | Semantic interpretation the ARM Specification Language using symbolic execution  | https://github.com/GaloisInc/asl-translator | 3 | 0| 
 | 20220107T22:04:04Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2617 | 387| 
@@ -127,7 +128,6 @@
 | 20220107T19:24:14Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 11 | 5| 
 | 20220107T12:46:07Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1864 | 529| 
 | 20220106T07:22:22Z | RAUK: Automatic Schedulability Analysis of RTIC Applications Using Symbolic Execution | https://github.com/markhakansson/master-thesis | 5 | 0| 
-| 20220105T23:49:21Z | Testing Local Variables Using Symbolic Execution and Modification at Runtime | https://github.com/asiamina/TestLocal | 0 | 0| 
 
 
 # big4 on Github 推荐
