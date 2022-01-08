@@ -31,7 +31,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220108T13:02:24Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 3502 | 110| 
+| 20220108T13:02:44Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 3503 | 110| 
 | 20220108T05:40:31Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 5 | 0| 
 | 20220108T05:07:12Z | Null | https://github.com/KleePaimon/KleePaimon.github.io | 0 | 0| 
 | 20220108T04:32:21Z | For my moms website  | https://github.com/Master-Mind291/Maid-To-Kleen | 0 | 0| 
@@ -47,6 +47,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220108T13:03:31Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 42 | 21| 
 | 20220108T13:00:17Z | User-perceived latency is important for the quality of experience (QoE) of wide-area real-time communications (RTC). This paper explores a futuristic yet important problem facing the RTC community: can we exploit emerging mega-constellations to facilitate low-latency RTC globally? We carry out our quest in three steps. First, through a measurement study associated with a large number of geo-distributed RTC users, we quantitatively expose that the meandering routes over the client-cloud segment and the inter-cloud-site segment in existing cloud-based RTC architecture are critical culprits for the high latency issue suffered by wide-area RTC sessions. Second, after analyzing the low-latency potential enabled by mega-constellations, we formulate the dynamic RTC latency minimization problem under the integrated space-ground environment, and propose SpaceRTC, a satellite-cloud cooperative framework that adaptively selects relay servers upon satellites and cloud sites to build an overlay network which enables diverse close-to-optimal paths, and then judiciously allocates RTC flows in the network to facilitate low-latency interactions. Finally, we implement a hardware-in-the-loop experimental environment based on public constellation information and RTC trace, and extensive experiments demonstrate that SpaceRTC can deliver near-optimal interactive latency, with up to 64.9% latency reduction as compared with other state-of-the-art cloud-based solutions under representative videoconferencing traffic. | https://github.com/SpaceNetLab/SpaceRTC_Project | 2 | 0| 
 | 20220108T12:46:12Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 18| 
 | 20220108T12:46:00Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 278 | 83| 
@@ -56,7 +57,6 @@
 | 20220108T12:22:49Z | Source codes of Windows API Exploitation for Red and Blue teams from Pentester Academy | https://github.com/tbhaxor/WinAPI-RedBlue | 45 | 6| 
 | 20220108T12:22:43Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 8647 | 1477| 
 | 20220108T12:21:06Z | Nmap domain list scanner to find exploited vulnerabilities | https://github.com/bormaxi8080/nmap-scanner | 0 | 0| 
-| 20220108T12:11:22Z | Rust-Exploit (%test codes%) (~2022.1.8) | https://github.com/ahn9807/Rust-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
