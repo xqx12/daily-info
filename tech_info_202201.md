@@ -142,8 +142,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220108T02:09:26Z | Robust and blazing fast open-redirect vulnerability scanner with ability of crawling all of web-forms, entry points, or links with data.  | https://github.com/d34db33f-1007/fuzz300 | 0 | 0| 
 | 20220108T01:48:49Z | burpsuite 插件对GP所有参数(过滤特殊参数)一键自动添加xss sql payload 进行fuzz | https://github.com/ClickKey110r/jiangsir404z | 0 | 0| 
-| 20220108T01:43:40Z | Robust and blazing fast open-redirect vulnerability scanner with ability of crawling all of web-forms, entry points, or links with data.  | https://github.com/d34db33f-1007/fuzz300 | 0 | 0| 
 | 20220108T01:38:49Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20220108T01:00:25Z | Null | https://github.com/ArtieFuzzz/ArtieFuzzz | 0 | 1| 
 | 20220108T00:37:03Z | Null | https://github.com/mr-vill4in/log4j-fuzzer | 0 | 0| 
