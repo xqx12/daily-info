@@ -61,22 +61,22 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220109T12:11:24Z | Personal Blog | https://github.com/klee1611/klee1611.github.io | 1 | 1| 
+| 20220109T12:10:28Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 3512 | 110| 
+| 20220109T09:36:34Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 0 | 0| 
+| 20220109T07:17:33Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 6 | 0| 
 | 20220109T02:43:53Z | Null | https://github.com/lindsayp30/sort-o_kleex | 0 | 0| 
-| 20220108T23:55:20Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 6 | 0| 
 | 20220108T16:44:39Z | for atcoder | https://github.com/kashee337/klee_atcoder | 0 | 0| 
-| 20220108T16:42:30Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 3506 | 110| 
 | 20220108T05:07:12Z | Null | https://github.com/KleePaimon/KleePaimon.github.io | 0 | 0| 
 | 20220108T04:32:21Z | For my moms website  | https://github.com/Master-Mind291/Maid-To-Kleen | 0 | 0| 
 | 20220107T19:55:45Z | Config files for my GitHub profile. | https://github.com/Kleek01/Kleek01 | 1 | 0| 
 | 20220107T17:52:29Z | Null | https://github.com/kleemeo/kleemeo | 0 | 0| 
-| 20220107T12:46:07Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1864 | 529| 
-| 20220106T00:54:41Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 15 | 1| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220108T14:20:16Z | CRAX++: S2E-based modular exploit generation system that incorporates various binary exploitation techniques. | https://github.com/SQLab/CRAXplusplus | 29 | 3| 
+| 20220109T11:58:06Z | CRAX++: S2E-based modular exploit generation system that incorporates various binary exploitation techniques. | https://github.com/SQLab/CRAXplusplus | 29 | 3| 
 | 20220108T01:46:20Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 195 | 42| 
 | 20220107T06:24:16Z | Serial to Ethernet Module based on W5500 & Cortex-M0 | https://github.com/Wiznet/WIZ550S2E-Modbus | 3 | 4| 
 | 20220106T00:01:41Z | Null | https://github.com/s2e-lab/s2e-lab.github.io | 0 | 0| 
@@ -88,31 +88,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220109T02:33:36Z | Various kernel exploits | https://github.com/bcoles/kernel-exploits | 484 | 216| 
-| 20220109T02:12:41Z | Driver Exploitation with HEVD (HackSys Extreme Vulnerable Driver) | https://github.com/edcod3/hevd-drivexp | 0 | 0| 
-| 20220109T02:12:29Z | Exploit to Eternal Blue in python3 | https://github.com/Gabriel-Lima232/EternalBlue-in-Python3 | 0 | 0| 
-| 20220109T02:03:49Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 42 | 21| 
-| 20220109T01:54:40Z | Interesting Exploits & Defenses | https://github.com/Jymit/exploit-notes | 0 | 0| 
-| 20220109T01:53:10Z | Null | https://github.com/HappyyCat/exploit | 0 | 0| 
-| 20220109T01:45:53Z | A repository for learning various heap exploitation techniques. | https://github.com/shellphish/how2heap | 5063 | 981| 
-| 20220109T01:00:19Z | An interactive python script that enables root access on the T-Mobile (Wingtech) TMOHS1, as well as providing several useful utilites to change the configuration of the device. | https://github.com/natthawk/TMOHS1-Root-Utility | 3 | 1| 
-| 20220109T00:30:51Z | simple exploits | https://github.com/l0st-idi0t/RblxScripts | 0 | 0| 
-| 20220109T00:24:07Z | Binary Exploitation | https://github.com/jmpshell/BinEx | 2 | 0| 
+| 20220109T12:53:17Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 278 | 83| 
+| 20220109T12:50:16Z | Null | https://github.com/Henrinnes/exploiting-securing-Docker-and-kubernetes | 0 | 0| 
+| 20220109T12:48:54Z | Nmap domain list scanner to find exploited vulnerabilities | https://github.com/bormaxi8080/nmap-scanner | 1 | 0| 
+| 20220109T12:45:24Z | Null | https://github.com/renox31/silent-exploit-PDF | 0 | 0| 
+| 20220109T12:39:10Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10571 | 1817| 
+| 20220109T12:20:40Z | This is an paied Exploiting Gui for Hood Modded  | https://github.com/Davidutuu1/HoodX | 0 | 0| 
+| 20220109T12:03:08Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 42 | 21| 
+| 20220109T12:02:21Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 3904 | 1369| 
+| 20220109T11:58:06Z | CRAX++: S2E-based modular exploit generation system that incorporates various binary exploitation techniques. | https://github.com/SQLab/CRAXplusplus | 29 | 3| 
+| 20220109T11:41:49Z | One of the few malware collection | https://github.com/Vichingo455/MalwareDatabase | 8 | 4| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220109T02:56:47Z | Windows Backdoor that is controlled through Discord | https://github.com/3ct0s/disctopia-c2 | 4 | 0| 
+| 20220109T12:57:15Z | another snake friendly rat backbone | https://github.com/trevalkov/ratpy | 1 | 0| 
+| 20220109T12:27:23Z | Windows Backdoor that is controlled through Discord | https://github.com/3ct0s/disctopia-c2 | 7 | 1| 
+| 20220109T12:04:48Z | Simple Backdoor made in php.  | https://github.com/CrypticDev/backdoor | 0 | 0| 
+| 20220109T11:25:29Z | This is an educational project that sends target machine%s key press log to a cloud server by creating a backdoor. | https://github.com/kesaralive/Keylogger-Backdoor | 3 | 0| 
+| 20220109T09:50:55Z | My personal unique wiki for hacking the router firmware used by (Telia)TG799vac Xtream v17.2-MINT delivered from Technicolor  | https://github.com/wuseman/TG799VAC-XTREME-17.2-MINT | 67 | 18| 
+| 20220109T07:43:33Z | Null | https://github.com/THUYimingLi/BackdoorBox | 9 | 7| 
+| 20220109T04:20:56Z | Null | https://github.com/hackintoanetwork/Backdoor-Python | 0 | 0| 
+| 20220109T04:12:01Z | My backdoor exe edit for Roblox that has: | https://github.com/personstealingyoursource/backdoor-exe-edit | 0 | 0| 
 | 20220109T02:29:06Z | Null | https://github.com/interpreterK/Roblox-Backdoor | 0 | 0| 
 | 20220109T02:28:45Z | помощник администратора | https://github.com/diksaratower/Backdoor-RAT | 0 | 0| 
-| 20220109T00:42:23Z | This is an educational project that sends target machine%s key press log to a cloud server by creating a backdoor. | https://github.com/kesaralive/Keylogger-Backdoor | 1 | 0| 
-| 20220109T00:39:54Z | Null | https://github.com/hackintoanetwork/backdoor | 0 | 0| 
-| 20220108T23:18:36Z | Threat Emulation and Red Teaming Framework, The Hacking Software for normal people. | https://github.com/quantumcore/remote_hacker_probe | 108 | 39| 
-| 20220108T23:16:22Z | another snake friendly rat backbone | https://github.com/trevalkov/ratpy | 1 | 0| 
-| 20220108T20:06:04Z | Small surveillance backdoor for Windows. | https://github.com/ZMathias/kodiak | 0 | 0| 
-| 20220108T17:02:34Z | DiscordBackdoor/BetterDiscord/  | https://github.com/TheGodVanis/DiscordBackdoor-BetterDiscord | 0 | 0| 
-| 20220108T15:13:12Z | The best backdoor scanner there is. | https://github.com/iK4oS/backdoor.exe | 4 | 7| 
 
 
 # symbolic execution on Github 推荐
@@ -142,16 +142,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220109T02:53:23Z | Null | https://github.com/mr-vill4in/log4j-fuzzer | 0 | 0| 
-| 20220109T02:33:41Z | A fuzzing framework targeted at MQTT brokers. Modeled as a finite state machine (using Markov Modeling). | https://github.com/PBearson/FUME-Fuzzing-MQTT-Brokers | 0 | 0| 
-| 20220109T02:30:50Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20220109T02:12:59Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 713 | 70| 
-| 20220109T01:03:20Z | Null | https://github.com/ArtieFuzzz/ArtieFuzzz | 0 | 1| 
-| 20220109T00:59:57Z | Null | https://github.com/illenafnayr/fuzzy-garbanzo | 0 | 0| 
-| 20220109T00:28:32Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 398 | 96| 
-| 20220109T00:25:50Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1148 | 47| 
-| 20220109T00:15:44Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1123 | 85| 
-| 20220109T00:08:13Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 39 | 13| 
+| 20220109T12:42:34Z | Null | https://github.com/dollymoulekhi/Fuzzy-wuzzy | 0 | 0| 
+| 20220109T12:40:27Z | nothing especial just a simple fuzzy control system =) | https://github.com/garfield-gray/Fuzzy | 0 | 0| 
+| 20220109T12:36:12Z | Seed-based random network fuzzer | https://github.com/kahiroka/fuzz-automata | 0 | 0| 
+| 20220109T12:23:58Z | A new OS that is basically the same as my last one expect i kinda know what i%m doing this time | https://github.com/FuzzyLitchi/fuzz_os | 2 | 0| 
+| 20220109T12:07:42Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20220109T12:02:13Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 39 | 13| 
+| 20220109T11:59:36Z | Null | https://github.com/Potatochips2001/fuzz | 0 | 0| 
+| 20220109T11:57:44Z | Small project of face recognition and image manipulation in Python using face_recognition and Pillow library | https://github.com/dixneuf19/fuzzy-octo-disco | 0 | 0| 
+| 20220109T11:18:11Z | Null | https://github.com/koldbrandt/mlops_fuzzy-fish-waffle | 0 | 0| 
+| 20220109T10:35:46Z | Python-based code for estimation of highway bottleneck probability using speed transition matrices.  | https://github.com/tisljaricleo/fuzzy-highway-bottleneck-python | 1 | 0| 
 
 
 
