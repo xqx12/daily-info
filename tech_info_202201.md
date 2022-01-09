@@ -118,6 +118,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220108T19:17:38Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2619 | 388| 
 | 20220108T12:59:21Z | symbolic execution for x86 | https://github.com/xsyzbw/bniemczykc | 0 | 0| 
 | 20220108T12:07:07Z | RAUK: Automatic Schedulability Analysis of RTIC Applications Using Symbolic Execution | https://github.com/markhakansson/master-thesis | 5 | 0| 
 | 20220108T12:04:04Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 511 | 83| 
@@ -125,7 +126,6 @@
 | 20220108T02:59:04Z | Experimental symbolic execution compiler/language. | https://github.com/jakzo/Zymbolic | 0 | 0| 
 | 20220108T01:46:20Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 195 | 42| 
 | 20220107T23:14:40Z | Semantic interpretation the ARM Specification Language using symbolic execution  | https://github.com/GaloisInc/asl-translator | 3 | 0| 
-| 20220107T22:04:04Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2617 | 387| 
 | 20220107T22:01:07Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1957 | 406| 
 | 20220107T20:32:36Z | Symbolica%s open-source symbolic execution engine. | https://github.com/Symbolica/Symbolica | 47 | 3| 
 
