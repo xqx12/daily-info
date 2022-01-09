@@ -142,6 +142,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220109T13:31:18Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 713 | 70| 
 | 20220109T13:10:01Z | Seed-based random network fuzzer | https://github.com/kahiroka/fuzz-automata | 0 | 0| 
 | 20220109T12:42:34Z | Null | https://github.com/dollymoulekhi/Fuzzy-wuzzy | 0 | 0| 
 | 20220109T12:40:27Z | nothing especial just a simple fuzzy control system =) | https://github.com/garfield-gray/Fuzzy | 0 | 0| 
@@ -151,7 +152,6 @@
 | 20220109T11:59:36Z | Null | https://github.com/Potatochips2001/fuzz | 0 | 0| 
 | 20220109T11:57:44Z | Small project of face recognition and image manipulation in Python using face_recognition and Pillow library | https://github.com/dixneuf19/fuzzy-octo-disco | 0 | 0| 
 | 20220109T11:18:11Z | Null | https://github.com/koldbrandt/mlops_fuzzy-fish-waffle | 0 | 0| 
-| 20220109T10:35:46Z | Python-based code for estimation of highway bottleneck probability using speed transition matrices.  | https://github.com/tisljaricleo/fuzzy-highway-bottleneck-python | 1 | 0| 
 
 
 
