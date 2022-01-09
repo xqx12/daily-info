@@ -39,7 +39,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220109T13:43:53Z | Null | https://github.com/byth22/Exploits | 0 | 0| 
+| 20220109T13:45:32Z | Null | https://github.com/byth22/Exploits | 0 | 0| 
 | 20220109T13:43:38Z | This Log4j RCE exploit originated from https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce | https://github.com/maximofernandezriera/CVE-2021-44228 | 0 | 0| 
 | 20220109T13:03:04Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 42 | 21| 
 | 20220109T13:01:53Z | CRAX++: S2E-based modular exploit generation system that incorporates various binary exploitation techniques. | https://github.com/SQLab/CRAXplusplus | 29 | 3| 
@@ -54,7 +54,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220109T13:43:17Z | another snake friendly rat backbone | https://github.com/trevalkov/ratpy | 1 | 0| 
+| 20220109T13:46:53Z | another snake friendly rat backbone | https://github.com/trevalkov/ratpy | 1 | 0| 
 | 20220109T13:26:04Z | This repository contains an express API to the keylogger-backdoor application.  | https://github.com/kesaralive/keylogger-express-api | 0 | 0| 
 | 20220109T13:07:43Z | This repository contains a ExpressJs API for the keylogger-backdoor application.  | https://github.com/kesaralive/Keylogger-API | 0 | 0| 
 | 20220109T13:03:25Z | Windows Backdoor that is controlled through Discord | https://github.com/3ct0s/disctopia-c2 | 8 | 1| 
