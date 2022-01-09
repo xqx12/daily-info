@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220109T01:51:41Z | Interesting Exploits & Defenses | https://github.com/Jymit/exploit-notes | 0 | 0| 
 | 20220109T01:49:35Z | Null | https://github.com/HappyyCat/exploit | 0 | 0| 
 | 20220109T01:45:53Z | A repository for learning various heap exploitation techniques. | https://github.com/shellphish/how2heap | 5063 | 981| 
 | 20220109T01:03:27Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 42 | 21| 
@@ -97,7 +98,6 @@
 | 20220109T00:19:04Z | Null | https://github.com/blueIbird/exploit | 0 | 0| 
 | 20220109T00:06:30Z | iReady is awful. It%s the worst education tool anyone could ever use. This program is designed to skip through iReady lessons/quizzes/time requirements or whatever. | https://github.com/cupiditys/iReady-Overload | 30 | 21| 
 | 20220108T23:46:52Z | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | 124 | 24| 
-| 20220108T23:24:27Z | Make custom invite (vanity link) for your Discord server. | https://github.com/fyannz/vanity-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -142,6 +142,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220109T01:51:20Z | Null | https://github.com/mr-vill4in/log4j-fuzzer | 0 | 0| 
 | 20220109T01:43:39Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20220109T01:04:37Z | A fuzzing framework targeted at MQTT brokers. Modeled as a finite state machine (using Markov Modeling). | https://github.com/PBearson/FUME-Fuzzing-MQTT-Brokers | 0 | 0| 
 | 20220109T01:03:20Z | Null | https://github.com/ArtieFuzzz/ArtieFuzzz | 0 | 1| 
@@ -151,7 +152,6 @@
 | 20220109T00:15:44Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1123 | 85| 
 | 20220109T00:08:13Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 39 | 13| 
 | 20220108T23:55:18Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
-| 20220108T22:10:20Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 38 | 4| 
 
 
 
