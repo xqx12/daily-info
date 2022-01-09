@@ -24,7 +24,6 @@
 | 20220108T20:18:11Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
 | 20220108T15:28:06Z | 未知编号 | 2022年Java应用程序的CVE漏洞 | https://github.com/HackJava/CVE2022 | | 
 | 20220108T14:39:01Z | CVE-2021-43798 | Null | https://github.com/rodpwn/CVE-2021-43798-mass_scanner | | 
-| 20220108T10:36:34Z | CVE-2021-44228 | Null | https://github.com/alexpena5635/CVE-2021-44228_scanner-main-Modified- | | 
 | 20220108T08:28:20Z | CVE-2021-45232 | 一键批量检测poc | https://github.com/yggcwhat/CVE-2021-45232 | | 
 | 20220108T06:48:51Z | CVE-2021-44228 | Null | https://github.com/rwincey/CVE-2021-44228-Log4j-Payloads | | 
 | 20220108T02:58:30Z | CVE-2021-44228 | A one-stop repo/  information hub for all log4j vulnerability-related information. | https://github.com/anuvindhs/how-to-check-patch-secure-log4j-CVE-2021-44228 | | 
@@ -97,7 +96,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220108T23:55:18Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
-| 20220108T23:01:56Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20220108T22:10:20Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 38 | 4| 
 | 20220108T22:05:13Z | Robust and blazing fast open-redirect vulnerability scanner with ability of recursevely crawling all of web-forms, entry points, or links with data.  | https://github.com/d34db33f-1007/fuzz300 | 0 | 0| 
 | 20220108T21:59:00Z | Null | https://github.com/rfuzzo/FuzzoBot | 1 | 0| 
@@ -106,6 +104,7 @@
 | 20220108T19:15:23Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 10 | 4| 
 | 20220108T18:51:13Z | Null | https://github.com/fuzzywavecode/fuzzywavecode.github.io | 0 | 0| 
 | 20220108T17:40:09Z | Null | https://github.com/mpollicito/fuzzy-meme | 0 | 0| 
+| 20220108T17:06:05Z | Leetcode solutions. | https://github.com/chaitanyks/fuzzy-disco | 1 | 0| 
 
 
 

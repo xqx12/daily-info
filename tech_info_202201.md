@@ -46,11 +46,11 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220109T01:45:00Z | CVE-2021-44228 | Null | https://github.com/alexpena5635/CVE-2021-44228_scanner-main-Modified- | | 
 | 20220108T22:50:58Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
 | 20220108T20:18:11Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
 | 20220108T15:28:06Z | 未知编号 | 2022年Java应用程序的CVE漏洞 | https://github.com/HackJava/CVE2022 | | 
 | 20220108T14:39:01Z | CVE-2021-43798 | Null | https://github.com/rodpwn/CVE-2021-43798-mass_scanner | | 
-| 20220108T10:36:34Z | CVE-2021-44228 | Null | https://github.com/alexpena5635/CVE-2021-44228_scanner-main-Modified- | | 
 | 20220108T08:28:20Z | CVE-2021-45232 | 一键批量检测poc | https://github.com/yggcwhat/CVE-2021-45232 | | 
 | 20220108T06:48:51Z | CVE-2021-44228 | Null | https://github.com/rwincey/CVE-2021-44228-Log4j-Payloads | | 
 | 20220108T02:58:30Z | CVE-2021-44228 | A one-stop repo/  information hub for all log4j vulnerability-related information. | https://github.com/anuvindhs/how-to-check-patch-secure-log4j-CVE-2021-44228 | | 
@@ -88,9 +88,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220109T01:45:53Z | A repository for learning various heap exploitation techniques. | https://github.com/shellphish/how2heap | 5063 | 981| 
 | 20220109T01:03:27Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 42 | 21| 
 | 20220109T01:00:19Z | An interactive python script that enables root access on the T-Mobile (Wingtech) TMOHS1, as well as providing several useful utilites to change the configuration of the device. | https://github.com/natthawk/TMOHS1-Root-Utility | 3 | 1| 
-| 20220109T00:39:35Z | A repository for learning various heap exploitation techniques. | https://github.com/shellphish/how2heap | 5063 | 981| 
 | 20220109T00:30:51Z | simple exploits | https://github.com/l0st-idi0t/RblxScripts | 0 | 0| 
 | 20220109T00:24:07Z | Binary Exploitation | https://github.com/jmpshell/BinEx | 2 | 0| 
 | 20220109T00:19:04Z | Null | https://github.com/blueIbird/exploit | 0 | 0| 
@@ -142,6 +142,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220109T01:43:39Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20220109T01:04:37Z | A fuzzing framework targeted at MQTT brokers. Modeled as a finite state machine (using Markov Modeling). | https://github.com/PBearson/FUME-Fuzzing-MQTT-Brokers | 0 | 0| 
 | 20220109T01:03:20Z | Null | https://github.com/ArtieFuzzz/ArtieFuzzz | 0 | 1| 
 | 20220109T00:59:57Z | Null | https://github.com/illenafnayr/fuzzy-garbanzo | 0 | 0| 
@@ -150,7 +151,6 @@
 | 20220109T00:15:44Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1123 | 85| 
 | 20220109T00:08:13Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 39 | 13| 
 | 20220108T23:55:18Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
-| 20220108T23:01:56Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20220108T22:10:20Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 38 | 4| 
 
 
