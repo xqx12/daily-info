@@ -88,7 +88,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220109T13:38:38Z | This Log4j RCE exploit originated from https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce | https://github.com/maximofernandezriera/CVE-2021-44228 | 0 | 0| 
+| 20220109T13:43:53Z | Null | https://github.com/byth22/Exploits | 0 | 0| 
+| 20220109T13:43:38Z | This Log4j RCE exploit originated from https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce | https://github.com/maximofernandezriera/CVE-2021-44228 | 0 | 0| 
 | 20220109T13:03:04Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 42 | 21| 
 | 20220109T13:01:53Z | CRAX++: S2E-based modular exploit generation system that incorporates various binary exploitation techniques. | https://github.com/SQLab/CRAXplusplus | 29 | 3| 
 | 20220109T12:53:17Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 278 | 83| 
@@ -97,7 +98,6 @@
 | 20220109T12:45:24Z | Null | https://github.com/renox31/silent-exploit-PDF | 0 | 0| 
 | 20220109T12:39:10Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10571 | 1817| 
 | 20220109T12:20:40Z | This is an paied Exploiting Gui for Hood Modded  | https://github.com/Davidutuu1/HoodX | 0 | 0| 
-| 20220109T12:02:21Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 3904 | 1369| 
 
 
 # backdoor on Github 推荐
