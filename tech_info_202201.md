@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220109T01:49:35Z | Null | https://github.com/HappyyCat/exploit | 0 | 0| 
 | 20220109T01:45:53Z | A repository for learning various heap exploitation techniques. | https://github.com/shellphish/how2heap | 5063 | 981| 
 | 20220109T01:03:27Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 42 | 21| 
 | 20220109T01:00:19Z | An interactive python script that enables root access on the T-Mobile (Wingtech) TMOHS1, as well as providing several useful utilites to change the configuration of the device. | https://github.com/natthawk/TMOHS1-Root-Utility | 3 | 1| 
@@ -97,7 +98,6 @@
 | 20220109T00:06:30Z | iReady is awful. It%s the worst education tool anyone could ever use. This program is designed to skip through iReady lessons/quizzes/time requirements or whatever. | https://github.com/cupiditys/iReady-Overload | 30 | 21| 
 | 20220108T23:46:52Z | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | 124 | 24| 
 | 20220108T23:24:27Z | Make custom invite (vanity link) for your Discord server. | https://github.com/fyannz/vanity-exploit | 0 | 0| 
-| 20220108T23:11:37Z | Written exploits by me | https://github.com/kryptohaker/exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
