@@ -66,7 +66,6 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220108T23:32:07Z | Windows Backdoor that is controlled through Discord | https://github.com/3ct0s/disctopia-c2 | 2 | 0| 
 | 20220108T23:18:36Z | Threat Emulation and Red Teaming Framework, The Hacking Software for normal people. | https://github.com/quantumcore/remote_hacker_probe | 108 | 39| 
 | 20220108T23:16:22Z | another snake friendly rat backbone | https://github.com/trevalkov/ratpy | 1 | 0| 
 | 20220108T20:06:04Z | Small surveillance backdoor for Windows. | https://github.com/ZMathias/kodiak | 0 | 0| 
