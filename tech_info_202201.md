@@ -103,6 +103,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220109T02:28:45Z | помощник администратора | https://github.com/diksaratower/Backdoor-RAT | 0 | 0| 
+| 20220109T02:25:27Z | Null | https://github.com/interpreterK/Roblox-Backdoor | 0 | 0| 
 | 20220109T01:21:40Z | Windows Backdoor that is controlled through Discord | https://github.com/3ct0s/disctopia-c2 | 3 | 0| 
 | 20220109T00:42:23Z | This is an educational project that sends target machine%s key press log to a cloud server by creating a backdoor. | https://github.com/kesaralive/Keylogger-Backdoor | 1 | 0| 
 | 20220109T00:39:54Z | Null | https://github.com/hackintoanetwork/backdoor | 0 | 0| 
@@ -111,8 +113,6 @@
 | 20220108T20:06:04Z | Small surveillance backdoor for Windows. | https://github.com/ZMathias/kodiak | 0 | 0| 
 | 20220108T17:02:34Z | DiscordBackdoor/BetterDiscord/  | https://github.com/TheGodVanis/DiscordBackdoor-BetterDiscord | 0 | 0| 
 | 20220108T15:13:12Z | The best backdoor scanner there is. | https://github.com/iK4oS/backdoor.exe | 4 | 7| 
-| 20220108T13:18:39Z | Python3 backdoor for windows! | https://github.com/hirusha-adi/backdoor | 0 | 0| 
-| 20220108T10:59:24Z | Null | https://github.com/THUYimingLi/BackdoorBox | 9 | 7| 
 
 
 # symbolic execution on Github 推荐
